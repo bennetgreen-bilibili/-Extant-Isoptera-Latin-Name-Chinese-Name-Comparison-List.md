@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "新组合与选模",
+   "heading_en": "The new combination and the lectotype",
+   "heading_es": "La combinación nueva y el lectotipo",
+   "paragraphs": [
+    {
+     "src": [
+      "S0335"
+     ],
+     "text": "根据 Sands 与 Lamb（1975）研究，考登考登白蚁（<i>Kaudernitermes kaudernianus</i>）原置于象白蚁属（<i>Nasutitermes</i>），写作 <i>Nasutitermes kaudernianus</i>；该研究将其移入新建立的考登白蚁属（<i>Kaudernitermes</i>），并为该种指定选模。与之共生的隐翅虫 <i>Spirachthodes madecassus</i> 的重新测量，以及多种象白蚁亚科（Nasutitermitinae）幼期的重新测量，被用于比较拟态甲虫与其模型（据摘要）。",
+     "text_en": "According to Sands and Lamb (1975), <i>Kaudernitermes kaudernianus</i> had been placed in <i>Nasutitermes</i> as <i>Nasutitermes kaudernianus</i>; the study transfers it to the newly established <i>Kaudernitermes</i> and designates a lectotype for the species. New measurements of its associated staphylinid beetle <i>Spirachthodes madecassus</i>, and of the young stages of many Nasutitermitinae, were used to compare the supposed mimics with their models (according to the abstract).",
+     "text_es": "Según Sands y Lamb (1975), <i>Kaudernitermes kaudernianus</i> había sido situada en <i>Nasutitermes</i> como <i>Nasutitermes kaudernianus</i>; el estudio la transfiere al género recién establecido <i>Kaudernitermes</i> y designa un lectotipo para la especie. Nuevas mediciones del estafilínido asociado <i>Spirachthodes madecassus</i> y de las etapas juveniles de muchos Nasutitermitinae sirvieron para comparar a los supuestos míméticos con sus modelos (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0335",
+   "citation": "Sands, W. A.; Lamb, R. W. 1975. The systematic position of Kaudernitermes gen. n. (Isoptera: Termitidae, Nasutitermitinae) and its relevance to host relationships of termitophilous staphylinid beetles. Journal of Entomology, Series B: Taxonomy.",
+   "url": "https://doi.org/10.1111/j.1365-3113.1975.tb00013.x"
+  }
+ ]
+}

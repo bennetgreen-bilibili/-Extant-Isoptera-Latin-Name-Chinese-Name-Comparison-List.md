@@ -1,0 +1,13 @@
+{
+ "Triclavitermes catoleensis": {
+  "label": "Triclavitermes catoleensis Ferreira, Carvalho & Vasconcellos, 2025",
+  "match": "exact",
+  "notes": "",
+  "otu": 1370379,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1370379/overview",
+  "valid_label": null,
+  "valid_otu": 1370379,
+  "verified": false
+ }
+}

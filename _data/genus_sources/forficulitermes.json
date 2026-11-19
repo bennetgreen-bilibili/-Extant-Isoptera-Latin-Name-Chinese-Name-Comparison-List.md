@@ -1,0 +1,19 @@
+{
+ "latin": "Forficulitermes",
+ "zh": "剪白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Forficulitermes Emerson, 1960c: 44–47.",
+ "type_species": "Forficulitermes planifrons Emerson, 1960 by original designation.",
+ "references": [
+  {
+   "ref": "Bouillon and Mathot, 1965: 30, 31, 108, 109, pl. 22: fig. 69e",
+   "note": "Forficulitermes; key; character; worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 38",
+   "note": "Forficulitermes; key. 2013 Krishna ET AL.: isoptera: TERMITIDAE: CubitERMITInAE\b 1951"
+  }
+ ],
+ "nrefs": 6
+}

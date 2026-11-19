@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "兵蚁上颚的分组位置",
+   "heading_en": "Position within the soldier-mandible groups",
+   "heading_es": "Posición dentro de los grupos de mandíbulas de soldados",
+   "paragraphs": [
+    {
+     "src": [
+      "S0434"
+     ],
+     "text": "据摘要，Scheffrahn（2022）沿用 1989 年的鉴别体系，把弓白蚁属（<i>Amitermes</i>）兵蚁按上颚缘齿分为两组：优秀弓白蚁（<i>Amitermes excellens</i>）属缘齿垂直伸出、具前斜面的那一组，同组还有惠勒弓白蚁（<i>Amitermes wheeleri</i>）、弓颚弓白蚁（<i>Amitermes amifer</i>）与福雷尔弓白蚁（<i>Amitermes foreli</i>）。",
+     "text_en": "According to the abstract, Scheffrahn (2022), following the 1989 key, divides <i>Amitermes</i> soldiers into two groups by mandibular dentition: <i>Amitermes excellens</i> belongs to the group whose marginal teeth project vertically and have an anterior face, together with <i>Amitermes wheeleri</i>, <i>Amitermes amifer</i> and <i>Amitermes foreli</i>.",
+     "text_es": "Según el resumen, Scheffrahn (2022), siguiendo la clave de 1989, divide a los soldados de <i>Amitermes</i> en dos grupos por la dentición mandibular: <i>Amitermes excellens</i> pertenece al grupo cuyos dientes marginales se proyectan verticalmente y poseen una cara anterior, junto con <i>Amitermes wheeleri</i>, <i>Amitermes amifer</i> y <i>Amitermes foreli</i>."
+    }
+   ]
+  },
+  {
+   "heading": "罗赖马稀树草原的丘建造者",
+   "heading_en": "Mound builder of the Roraima savanna",
+   "heading_es": "Constructor de montículos de la sabana de Roraima",
+   "paragraphs": [
+    {
+     "src": [
+      "S0440"
+     ],
+     "text": "根据 Oliveira 等（2026）在罗赖马州东北部 Surumu 洼地稀树草原—卡廷加过渡带的研究，跨 Plinthosols 与 Acrisols 两类土壤的样带共记录 16 种/形态种、8 属、2 科，白蚁科占多数；优秀弓白蚁（<i>Amitermes excellens</i>）在数量上并非优势种，却是当地大型锥形与教堂形土丘的主要建造者；土丘与邻近土壤在物理与化学性质上差异明显，细颗粒被选择性搬入，盐基、氮与有机质富集；丘的密度在排水不良的 Plinthosols 上更高，而更大、更老的丘出现在排水较好的 Acrisols 上，作者据地形序列估算生物扰动速率为 47.5–85.3 mm/千年。",
+     "text_en": "According to Oliveira et al.'s (2026) study in the Surumu Depression of north-eastern Roraima, in a savanna–caatinga ecotone, transects across Plinthosols and Acrisols recorded 16 species or morphospecies in 8 genera and 2 families, with Termitidae dominating; <i>Amitermes excellens</i> was not numerically dominant but was the main builder of the large conical and cathedral-shaped mounds that structure the landscape; the mounds differ markedly from adjacent soils in physical and chemical properties, with selective incorporation of fine particles and enrichment in bases, nitrogen and organic matter; mound density was higher on poorly drained Plinthosols, whereas larger and older mounds occurred on better-drained Acrisols, and the authors estimated bioturbation rates of 47.5–85.3 mm per thousand years along the toposequence.",
+     "text_es": "Según el estudio de Oliveira et al. (2026) en la depresión de Surumu, en el noreste de Roraima, en un ecotono sabana–caatinga, los transectos en Plinthosols y Acrisols registraron 16 especies o morfoespecies de 8 géneros y 2 familias, con predominio de Termitidae; <i>Amitermes excellens</i> no fue numéricamente dominante, pero fue el principal constructor de los grandes montículos cónicos y en forma de catedral que estructuran el paisaje; los montículos difieren notablemente de los suelos adyacentes en sus propiedades físicas y químicas, con incorporación selectiva de partículas finas y enriquecimiento en bases, nitrógeno y materia orgánica; la densidad de montículos fue mayor en Plinthosols mal drenados, mientras que los montículos más grandes y antiguos se presentaron en Acrisols mejor drenados, y los autores estimaron tasas de bioturbación de 47.5–85.3 mm por mil años a lo largo de la toposecuencia."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0434",
+   "citation": "Scheffrahn, R. H. (2022). Amitermes californicus Banks, 1920 (Isoptera, Termitidae, Termitinae) resurrected after ninety years of synonymy and A. floridensis Scheffrahn, 1989 synonymized into A. wheeleri (Desneux, 1906). Zootaxa, 5128(4), 581–588.",
+   "doi": "10.11646/zootaxa.5128.4.7"
+  },
+  {
+   "id": "S0440",
+   "citation": "Oliveira, M. N. de; do Vale Junior, J. F.; Candido, H. G.; Acioli, A. N. S.; Matos, M. G.; Schaefer, C. E. G. R. 2026. Pedogeomorphology of a Mound-building termite savanna in Roraima, Brazilian Amazonia. Revista Brasileira de Geomorfologia 27(3).",
+   "doi": "10.20502/rbg.v27i3.2823"
+  }
+ ]
+}

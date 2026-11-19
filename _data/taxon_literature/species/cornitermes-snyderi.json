@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "与客白蚁的可能关系",
+   "heading_en": "Possible association with an inquiline",
+   "heading_es": "Posible asociación con un inquilino",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn（2014）研究，约翰查普曼客白蚁（<i>Inquilinitermes johnchapmani</i>）虽不在缩白蚁属（<i>Constrictotermes</i>）巢内客居，但其与斯奈德角象白蚁（<i>Cornitermes snyderi</i>）巢的关联被认为较为可能，提示该客白蚁可能寄居于斯奈德角象白蚁（<i>Cornitermes snyderi</i>）的巢内；这是该研究中关于本种巢址的唯一表述。（据摘要）",
+     "src": [
+      "S0351"
+     ],
+     "text_en": "In the study by Scheffrahn (2014), although <i>Inquilinitermes johnchapmani</i> is not an inquiline in nests of <i>Constrictotermes</i>, an association with nests of <i>Cornitermes snyderi</i> is considered likely, suggesting that this inquiline may live in nests of <i>Cornitermes snyderi</i>; this is the only statement in the study about the nesting site of the species. (According to the abstract.)",
+     "text_es": "En el estudio de Scheffrahn (2014), aunque <i>Inquilinitermes johnchapmani</i> no es inquilina en nidos de <i>Constrictotermes</i>, se considera probable su asociación con nidos de <i>Cornitermes snyderi</i>, lo que sugiere que este inquilino podría vivir en nidos de <i>Cornitermes snyderi</i>; es la única afirmación del estudio sobre el sitio de nidificación de la especie. (Según el resumen.)"
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0351",
+   "citation": "Scheffrahn, R. H. 2014. Inquilinitermes johnchapmani, a New Termite (Isoptera: Termitidae: Termitinae) from the Llanos of North Central Bolivia. Sociobiology 61(1): 95-99.",
+   "doi": "10.13102/sociobiology.v61i1.95-99"
+  }
+ ]
+}

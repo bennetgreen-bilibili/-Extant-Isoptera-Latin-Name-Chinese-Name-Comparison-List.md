@@ -1,0 +1,380 @@
+{
+ "Stolotermes ruficeps": [
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/747186973/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/747186973/medium.jpg",
+   "width": 768,
+   "height": 1024,
+   "credit": "iNaturalist observer mikoikoi",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://www.inaturalist.org/observations/406664412"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/747187023/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/747187023/medium.jpg",
+   "width": 768,
+   "height": 1024,
+   "credit": "iNaturalist observer mikoikoi",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://www.inaturalist.org/observations/406664412"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/584534698/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/584534698/medium.jpg",
+   "width": 1010,
+   "height": 1024,
+   "credit": "(c) strewick, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/323067304"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/584534833/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/584534833/medium.jpg",
+   "width": 1024,
+   "height": 682,
+   "credit": "(c) strewick, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/323067304"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/461224982/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/461224982/medium.jpg",
+   "width": 1024,
+   "height": 861,
+   "credit": "(c) Frank Ashwood, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/257145053"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/461224998/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/461224998/medium.jpg",
+   "width": 1024,
+   "height": 658,
+   "credit": "(c) Frank Ashwood, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/257145053"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/396706670/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/396706670/medium.jpeg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) Saryu Mae 前 朝琉, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/223878314"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/396706346/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/396706346/medium.jpeg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Saryu Mae 前 朝琉, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/223878314"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/342854476/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/342854476/medium.jpeg",
+   "width": 1024,
+   "height": 682,
+   "credit": "(c) Hayden Jones, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/194962243"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/342854463/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/342854463/medium.jpeg",
+   "width": 1024,
+   "height": 682,
+   "credit": "(c) Hayden Jones, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/194962243"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/214421070/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/214421070/medium.jpg",
+   "width": 1024,
+   "height": 682,
+   "credit": "(c) Duncan Cunningham, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/126378522"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/214422757/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/214422757/medium.jpg",
+   "width": 1024,
+   "height": 682,
+   "credit": "(c) Duncan Cunningham, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/126378522"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/187364043/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/187364043/medium.jpeg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Saryu Mae 前 朝琉, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/111056589"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/187364853/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/187364853/medium.jpeg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Saryu Mae 前 朝琉, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/111056584"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/164155977/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/164155977/medium.jpeg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Hayden Jones, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/98577796"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/164155992/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/164155992/medium.jpeg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Hayden Jones, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/98577796"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/140331146/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/140331146/medium.jpg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) Hayden Jones, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/85302778"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/140331134/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/140331134/medium.jpg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Hayden Jones, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/85302778"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28496889/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/28496889/medium.jpeg",
+   "width": 1024,
+   "height": 682,
+   "credit": "(c) Andy McKay, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/18619367"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/17618659/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/17618659/medium.jpg",
+   "width": 1024,
+   "height": 666,
+   "credit": "iNaturalist observer pjd1",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://www.inaturalist.org/observations/12254553"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/17618662/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/17618662/medium.jpg",
+   "width": 1024,
+   "height": 648,
+   "credit": "iNaturalist observer pjd1",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://www.inaturalist.org/observations/12254553"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2106914/large.JPG",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/2106914/medium.JPG",
+   "width": 1005,
+   "height": 778,
+   "credit": "(c) Lisa Bennett, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/1737733"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2106915/large.JPG",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/2106915/medium.JPG",
+   "width": 1024,
+   "height": 927,
+   "credit": "(c) Lisa Bennett, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/1737733"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/584534739/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/584534739/medium.jpg",
+   "width": 1024,
+   "height": 563,
+   "credit": "(c) strewick, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/323067304"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/396706427/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/396706427/medium.jpeg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Saryu Mae 前 朝琉, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/223878314"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/214422766/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/214422766/medium.jpg",
+   "width": 682,
+   "height": 1024,
+   "credit": "(c) Duncan Cunningham, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/126378522"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/164156010/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/164156010/medium.jpeg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) Hayden Jones, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/98577796"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/140331291/large.png",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/140331291/medium.png",
+   "width": 1024,
+   "height": 682,
+   "credit": "(c) Hayden Jones, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/85302778"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/140331397/large.png",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/140331397/medium.png",
+   "width": 1024,
+   "height": 682,
+   "credit": "(c) Hayden Jones, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/85302778"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/140331399/large.png",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/140331399/medium.png",
+   "width": 1024,
+   "height": 682,
+   "credit": "(c) Hayden Jones, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/85302778"
+  },
+  {
+   "source": "commons",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Stolotermes_ruficeps_soldier.jpg",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/25/Stolotermes_ruficeps_soldier.jpg",
+   "width": 701,
+   "height": 1245,
+   "credit": "S.E. Thorpe",
+   "license": "Public domain",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "page": "https://commons.wikimedia.org/wiki/File:Stolotermes_ruficeps_soldier.jpg"
+  },
+  {
+   "source": "commons",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/New_Zealand_Neuroptera_BHL8645710.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/New_Zealand_Neuroptera_BHL8645710.jpg/960px-New_Zealand_Neuroptera_BHL8645710.jpg",
+   "width": 1960,
+   "height": 3235,
+   "credit": "Hudson, G. V.",
+   "license": "Public domain",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "page": "https://commons.wikimedia.org/wiki/File:New_Zealand_Neuroptera_BHL8645710.jpg"
+  },
+  {
+   "source": "commons",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Stolotermes_ruficeps_soldier_rotated.png",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Stolotermes_ruficeps_soldier_rotated.png/960px-Stolotermes_ruficeps_soldier_rotated.png",
+   "width": 1245,
+   "height": 701,
+   "credit": "B kimmel",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Stolotermes_ruficeps_soldier_rotated.png"
+  }
+ ],
+ "Stolotermes victoriensis": [
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/646138086/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/646138086/medium.jpg",
+   "width": 1024,
+   "height": 684,
+   "credit": "(c) unmotivated_frog, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/354170317"
+  }
+ ]
+}

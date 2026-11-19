@@ -1,0 +1,24 @@
+{
+ "Eleanoritermes borneensis": {
+  "gbif": {
+   "key": 9661835,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eleanoritermes borneensis Ahmad, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "396PL",
+   "status": "accepted",
+   "label": "Eleanoritermes borneensis Ahmad, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225315",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

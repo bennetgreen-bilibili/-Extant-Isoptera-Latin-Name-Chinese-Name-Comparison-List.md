@@ -1,0 +1,264 @@
+{
+ "Promirotermes bechuana": {
+  "gbif": {
+   "key": 9817022,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Promirotermes bechuana (Fuller, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MSVH",
+   "status": "accepted",
+   "label": "Promirotermes bechuana (Fuller, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084218",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Promirotermes bellicosi": {
+  "gbif": {
+   "key": 9732687,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Promirotermes bellicosi (Wasmann, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MSVJ",
+   "status": "accepted",
+   "label": "Promirotermes bellicosi (Wasmann, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084220",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Promirotermes dumisae": {
+  "gbif": {
+   "key": 9738483,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Promirotermes dumisae (Fuller, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MSVK",
+   "status": "accepted",
+   "label": "Promirotermes dumisae (Fuller, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084222",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Promirotermes gracilipes": {
+  "gbif": {
+   "key": 8744071,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Promirotermes gracilipes Schmitz, 1917",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MSVL",
+   "status": "accepted",
+   "label": "Promirotermes gracilipes Schmitz, 1917",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084224",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Promirotermes holmgreni": {
+  "gbif": {
+   "key": 9701397,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Promirotermes holmgreni (Silvestri, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MSVM",
+   "status": "accepted",
+   "label": "Promirotermes holmgreni (Silvestri, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084226",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Promirotermes holmgreni holmgreni": {
+  "gbif": {
+   "key": 9802814,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Promirotermes holmgreni holmgreni (Silvestri, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2K6R",
+   "status": "accepted",
+   "label": "Promirotermes holmgreni holmgreni (Silvestri, 1912)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Promirotermes holmgreni infera": {
+  "gbif": {
+   "key": 9752325,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Promirotermes holmgreni infera Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2K6S",
+   "status": "accepted",
+   "label": "Promirotermes holmgreni infera Silvestri, 1914",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Promirotermes massaicus": {
+  "gbif": {
+   "key": 9699734,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Promirotermes massaicus (Sjöstedt, 1907)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MSVN",
+   "status": "accepted",
+   "label": "Promirotermes massaicus (Sjöstedt, 1907)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084228",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Promirotermes orthoceps": {
+  "gbif": {
+   "key": 9784401,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Promirotermes orthoceps (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MSVP",
+   "status": "accepted",
+   "label": "Promirotermes orthoceps (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084230",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Promirotermes pygmaeus": {
+  "gbif": {
+   "key": 9804518,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Promirotermes pygmaeus Harris, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MSVQ",
+   "status": "accepted",
+   "label": "Promirotermes pygmaeus Harris, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084233",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Promirotermes redundans": {
+  "gbif": {
+   "key": 9670563,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Promirotermes redundans Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MSVR",
+   "status": "accepted",
+   "label": "Promirotermes redundans Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084235",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Promirotermes rotundifrons": {
+  "gbif": {
+   "key": 9142543,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Promirotermes rotundifrons (Silvestri, 1908)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MSVS",
+   "status": "accepted",
+   "label": "Promirotermes rotundifrons (Silvestri, 1908)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084237",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

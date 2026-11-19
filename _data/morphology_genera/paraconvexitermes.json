@@ -1,0 +1,21 @@
+{
+ "zh_name": "近凸白蚁属",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "象鼻锥形；触角 11 节；与 Sinqasapatermes 的差别在于刚毛式与兵蚁头壳形状。"
+  },
+  {
+   "label": "工蚁",
+   "text": "臼齿区脊减弱，但保留缘齿，与 Araujotermes、Atlantitermes、Coatitermes、Convexitermes、Ereymatermes、Subulitermes 相同。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0057",
+   "citation": "Cuezzo, C. & Nickle, D. A. 2011. A new genus and species of termites (Isoptera, Termitidae, Nasutitermitinae) from the rainforest of northern Peru. ZooKeys 159: 1–9.",
+   "locator": "兵蚁、工蚁比较段"
+  }
+ ],
+ "note": "原始描述 Cancello & Noirot (2003, Annales de la Société Entomologique de France (n.s.) 39: 187–193) 未获全文；此处只能依据后出文献中的比较性属级记述，故不设更多细部。"
+}

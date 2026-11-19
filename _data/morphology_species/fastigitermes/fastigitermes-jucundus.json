@@ -1,0 +1,31 @@
+{
+ "zh_name": "可爱峰白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头前部覆盖上颚基部，与 Basidentitermes（不覆盖）相反；Emerson（1928）把 M. jucundus 暂作 Mirotermes 的亚属，并同意 Sjöstedt 为它另立 Fastigitermes。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头顶在囟孔开口上方的隆起更向前伸；与 Profastigitermes 相比，后颏的后向突出物比例大得多，末端为单一而相当尖锐的后指刺。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+   "locator": "p. 419（兵蚁检索表）"
+  },
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+   "locator": "p. 42（Profastigitermes 兵蚁诊断）"
+  },
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+   "locator": "p. 42（Profastigitermes 兵蚁诊断）"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+}

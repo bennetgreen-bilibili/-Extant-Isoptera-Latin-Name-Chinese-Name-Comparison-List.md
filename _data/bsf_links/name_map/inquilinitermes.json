@@ -1,0 +1,46 @@
+{
+ "Inquilinitermes fur": {
+  "label": "Inquilinitermes fur (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85455,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85455/overview",
+  "valid_label": null,
+  "valid_otu": 85455,
+  "verified": false
+ },
+ "Inquilinitermes inquilinus": {
+  "label": "Inquilinitermes inquilinus (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85456,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85456/overview",
+  "valid_label": null,
+  "valid_otu": 85456,
+  "verified": false
+ },
+ "Inquilinitermes johnchapmani": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Inquilinitermes microcerus": {
+  "label": "Inquilinitermes microcerus (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85457,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85457/overview",
+  "valid_label": null,
+  "valid_otu": 85457,
+  "verified": false
+ }
+}

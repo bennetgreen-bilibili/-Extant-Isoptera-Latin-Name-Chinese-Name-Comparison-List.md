@@ -1,0 +1,332 @@
+{
+ "Orthognathotermes aduncus": {
+  "gbif": {
+   "key": 8495009,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orthognathotermes aduncus Emerson, 1949",
+   "accepted": null
+  },
+  "col": {
+   "id": "6T8YV",
+   "status": "accepted",
+   "label": "Orthognathotermes aduncus Emerson, 1949",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084801",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Orthognathotermes brevipilosus": {
+  "gbif": {
+   "key": 8575981,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orthognathotermes brevipilosus Snyder, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SWYV",
+   "status": "accepted",
+   "label": "Orthognathotermes brevipilosus Snyder, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084802",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Orthognathotermes gibberorum": {
+  "gbif": {
+   "key": 8690622,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orthognathotermes gibberorum Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SWZ7",
+   "status": "accepted",
+   "label": "Orthognathotermes gibberorum Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084803",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Orthognathotermes heberi": {
+  "gbif": {
+   "key": 8512818,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orthognathotermes heberi Egler & Raw, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "6T8Z7",
+   "status": "accepted",
+   "label": "Orthognathotermes heberi Raw & Egler, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q124985607",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Orthognathotermes humilis": {
+  "gbif": {
+   "key": 8557320,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orthognathotermes humilis Constantino, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "74WYV",
+   "status": "accepted",
+   "label": "Orthognathotermes humilis Constantino, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084804",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Orthognathotermes insignis": {
+  "gbif": {
+   "key": 8542250,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orthognathotermes insignis Araujo, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "74WZ7",
+   "status": "accepted",
+   "label": "Orthognathotermes insignis Araujo, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084805",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Orthognathotermes longilamina": {
+  "gbif": {
+   "key": 8527582,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orthognathotermes longilamina Cancello & Da Rocha, 2009",
+   "accepted": null
+  },
+  "col": {
+   "id": "758YV",
+   "status": "accepted",
+   "label": "Orthognathotermes longilamina Da Rocha & Cancello, 2009",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084806",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Orthognathotermes macrocephalus": {
+  "gbif": {
+   "key": 8622322,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orthognathotermes macrocephalus (Holmgren, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "758Z7",
+   "status": "accepted",
+   "label": "Orthognathotermes macrocephalus (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084807",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Orthognathotermes mirim": {
+  "gbif": {
+   "key": 8453215,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orthognathotermes mirim Cancello & Da Rocha, 2009",
+   "accepted": null
+  },
+  "col": {
+   "id": "6T8YW",
+   "status": "accepted",
+   "label": "Orthognathotermes mirim Da Rocha & Cancello, 2009",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084808",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Orthognathotermes okeyma": {
+  "gbif": {
+   "key": 8657974,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orthognathotermes okeyma Cancello & Da Rocha, 2009",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SWYW",
+   "status": "accepted",
+   "label": "Orthognathotermes okeyma Da Rocha & Cancello, 2009",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084809",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Orthognathotermes orthognathus": {
+  "gbif": {
+   "key": 8466892,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orthognathotermes orthognathus (Silvestri, 1903)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SWZ8",
+   "status": "accepted",
+   "label": "Orthognathotermes orthognathus (Silvestri, 1903)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084810",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Orthognathotermes pilosus": {
+  "gbif": {
+   "key": 8606687,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orthognathotermes pilosus Cancello & Da Rocha, 2009",
+   "accepted": null
+  },
+  "col": {
+   "id": "6T8Z8",
+   "status": "accepted",
+   "label": "Orthognathotermes pilosus Da Rocha & Cancello, 2009",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084811",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Orthognathotermes tubesauassu": {
+  "gbif": {
+   "key": 8480978,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orthognathotermes tubesauassu Cancello & Da Rocha, 2009",
+   "accepted": null
+  },
+  "col": {
+   "id": "74WYW",
+   "status": "accepted",
+   "label": "Orthognathotermes tubesauassu Da Rocha & Cancello, 2009",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084812",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Orthognathotermes uncimandibularis": {
+  "gbif": {
+   "key": 8591060,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orthognathotermes uncimandibularis Cancello & Da Rocha, 2009",
+   "accepted": null
+  },
+  "col": {
+   "id": "74WZ8",
+   "status": "accepted",
+   "label": "Orthognathotermes uncimandibularis Da Rocha & Cancello, 2009",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084813",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Orthognathotermes wheeleri": {
+  "gbif": {
+   "key": 8674117,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orthognathotermes wheeleri Snyder, 1923",
+   "accepted": null
+  },
+  "col": {
+   "id": "758YW",
+   "status": "accepted",
+   "label": "Orthognathotermes wheeleri Snyder, 1923",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084814",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

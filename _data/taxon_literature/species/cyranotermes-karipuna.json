@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "新种所据品级与产地",
+   "heading_en": "Castes and provenance of the new species",
+   "heading_es": "Castas y procedencia de la especie nueva",
+   "paragraphs": [
+    {
+     "text": "据摘要，卡日普纳巨鼻白蚁（<i>Cyranotermes karipuna</i>）由 Rocha、Carrijo 与 Cancello（2012）据有翅成虫、工蚁与兵蚁 3 个品级连同巢体描述并图示，是该属已知 4 种中最晚命名的一种，标本产自亚马逊地区。",
+     "text_en": "According to the abstract, <i>Cyranotermes karipuna</i> was described and illustrated by Rocha, Carrijo and Cancello (2012) from the imago, worker and soldier castes together with its nest; it is the most recently named of the four species known in the genus, and its material comes from Amazonia.",
+     "text_es": "Según el resumen, <i>Cyranotermes karipuna</i> fue descrita e ilustrada por Rocha, Carrijo y Cancello (2012) a partir de las castas imago, obrera y soldado junto con su nido; es la especie nombrada más recientemente entre las cuatro conocidas del género, y su material procede de la Amazonia.",
+     "src": [
+      "S0353"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0353",
+   "citation": "Rocha, M. M.; Carrijo, T. F.; Cancello, E. M. 2012. An illustrated key to the soldiers of Cyranotermes Araujo with a new species from Amazonia (Isoptera: Termitidae: Nasutitermitinae). Zootaxa.",
+   "url": "https://doi.org/10.11646/zootaxa.3196.1.2"
+  }
+ ]
+}

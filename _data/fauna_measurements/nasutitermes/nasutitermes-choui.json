@@ -1,0 +1,48 @@
+{
+ "book_n": "407",
+ "book_name": "周氏象白蚁 Nasutitermeschoui",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "周氏象白蚊兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_nasal_tip",
+     "mean": "1.71",
+     "value": "1.60–1.82"
+    },
+    {
+     "key": "nasus_length",
+     "mean": "0.68",
+     "value": "0.63–0.75"
+    },
+    {
+     "key": "head_width",
+     "mean": "0.95",
+     "value": "0.87–1.05"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.22",
+     "value": "0.20–0.25"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.52",
+     "value": "0.48–0.56"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.16",
+     "value": "1.10–1.28"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 392,
+   "unit": "mm"
+  }
+ ]
+}

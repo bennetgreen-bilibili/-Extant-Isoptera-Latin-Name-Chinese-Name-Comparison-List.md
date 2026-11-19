@@ -1,0 +1,23 @@
+{
+ "latin": "Caetetermes",
+ "zh": "林白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Caetetermes Fontes, 1981: 135–137.",
+ "type_species": "Caetetermes taquarussu Fontes, 1981 by original designation.",
+ "references": [
+  {
+   "ref": "Mill, 1983a: 182, 188",
+   "note": "Caetetermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Constantino, 1999a: 399, 414",
+   "note": "Caetetermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 12",
+   "note": "Caetetermes; key."
+  }
+ ],
+ "nrefs": 7
+}

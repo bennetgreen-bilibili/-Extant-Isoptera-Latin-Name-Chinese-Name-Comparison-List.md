@@ -1,0 +1,156 @@
+{
+ "Procryptotermes australiensis": {
+  "label": "Procryptotermes australiensis Gay, 1976",
+  "match": "exact",
+  "notes": "",
+  "otu": 83025,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83025/overview",
+  "valid_label": null,
+  "valid_otu": 83025,
+  "verified": false
+ },
+ "Procryptotermes corniceps": {
+  "label": "Procryptotermes corniceps (Snyder, 1923)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83026,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83026/overview",
+  "valid_label": null,
+  "valid_otu": 83026,
+  "verified": false
+ },
+ "Procryptotermes dhari": {
+  "label": "Procryptotermes dhari Roonwal & Chhotani, 1963",
+  "match": "exact",
+  "notes": "",
+  "otu": 83027,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83027/overview",
+  "valid_label": null,
+  "valid_otu": 83027,
+  "verified": false
+ },
+ "Procryptotermes dioscurae": {
+  "label": "Procryptotermes dioscurae Harris, 1954",
+  "match": "exact",
+  "notes": "",
+  "otu": 83028,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83028/overview",
+  "valid_label": null,
+  "valid_otu": 83028,
+  "verified": false
+ },
+ "Procryptotermes edwardsi": {
+  "label": "Procryptotermes edwardsi Scheffrahn, 1999",
+  "match": "exact",
+  "notes": "",
+  "otu": 83029,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83029/overview",
+  "valid_label": null,
+  "valid_otu": 83029,
+  "verified": false
+ },
+ "Procryptotermes falcifer": {
+  "label": "Procryptotermes falcifer Krishna, 1962",
+  "match": "exact",
+  "notes": "",
+  "otu": 83030,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83030/overview",
+  "valid_label": null,
+  "valid_otu": 83030,
+  "verified": false
+ },
+ "Procryptotermes fryeri": {
+  "label": "Procryptotermes fryeri (Holmgren, 1910)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83031,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83031/overview",
+  "valid_label": null,
+  "valid_otu": 83031,
+  "verified": false
+ },
+ "Procryptotermes hesperus": {
+  "label": "Procryptotermes hesperus Scheffrahn & Křeček, 2001",
+  "match": "exact",
+  "notes": "",
+  "otu": 83032,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83032/overview",
+  "valid_label": null,
+  "valid_otu": 83032,
+  "verified": false
+ },
+ "Procryptotermes hunsurensis": {
+  "label": "Procryptotermes hunsurensis Thakur, 1975",
+  "match": "exact",
+  "notes": "",
+  "otu": 83033,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83033/overview",
+  "valid_label": null,
+  "valid_otu": 83033,
+  "verified": false
+ },
+ "Procryptotermes krishnai": {
+  "label": "Procryptotermes krishnai Emerson, 1961",
+  "match": "exact",
+  "notes": "",
+  "otu": 83034,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83034/overview",
+  "valid_label": null,
+  "valid_otu": 83034,
+  "verified": false
+ },
+ "Procryptotermes leewardensis": {
+  "label": "Procryptotermes leewardensis Scheffrahn & Křeček, 2001",
+  "match": "exact",
+  "notes": "",
+  "otu": 83035,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83035/overview",
+  "valid_label": null,
+  "valid_otu": 83035,
+  "verified": false
+ },
+ "Procryptotermes rapae": {
+  "label": "Procryptotermes rapae (Light & Zimmerman, 1936)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83036,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83036/overview",
+  "valid_label": null,
+  "valid_otu": 83036,
+  "verified": false
+ },
+ "Procryptotermes speiseri": {
+  "label": "Procryptotermes speiseri (Holmgren & Holmgren, 1915)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83037,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83037/overview",
+  "valid_label": null,
+  "valid_otu": 83037,
+  "verified": false
+ },
+ "Procryptotermes valeriae": {
+  "label": "Procryptotermes valeriae Bose, 1979",
+  "match": "exact",
+  "notes": "",
+  "otu": 83038,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83038/overview",
+  "valid_label": null,
+  "valid_otu": 83038,
+  "verified": false
+ }
+}

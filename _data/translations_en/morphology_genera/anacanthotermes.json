@@ -1,0 +1,21 @@
+{
+ "note": "The monograph does not provide a separate generic diagnosis; the genus-level characters listed above are summarised from its genus-level distribution, the alate and soldier keys and the accounts of the four species. Four species are known from the Indian region (baluchistanicus, macrocephalus, vagans, viarum); the genus comprises 12 species in all.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "One of the three genera of Hodotermitinae, distributed from North Africa, Egypt, West Asia, Arabia and Central Asia to western and southern India. Soldier head subquadrate to slightly elongate, the sides nearly parallel, mandibles stout and incurved with distinct marginal teeth, ratio of left mandible length to head length (to mandible base) 0.66–0.76 in viarum and 0.53–0.66 in macrocephalus; posterior third of postmentum sometimes with a distinct “waist”; posterior margin of pronotum deeply concave, weakly concave or not concave at the middle. Alate antennae 24–31-segmented, median part of labrum sometimes raised, distance between compound eye and antennal base 0.05–0.16 mm."
+  },
+  {
+   "label": "Alate",
+   "text": "Small to medium-sized, body length (excluding wings) 11–15.4 mm. Median part of labrum raised (A. viarum) or straight (A. vagans); antennae 29–31-segmented (baluchistanicus, head width including eyes 3.20–3.42 mm, compound eye diameter 0.63–0.70 mm, pronotum width 2.53–2.90 mm), 26–29-segmented (macrocephalus, mostly 27, Afghan specimens 24; head width 2.70–3.40 mm), 24–27-segmented (vagans); minimum distance between compound eye and antennal base 0.13–0.16 mm (viarum, baluchistanicus) or 0.05–0.08 mm (macrocephalus)."
+  },
+  {
+   "label": "Soldier",
+   "text": "Dimorphic (major and minor soldiers). Head reddish brown to chestnut brown, subquadrate, slightly elongate, the sides nearly parallel and slightly concave at the middle, covered with moderately long hairs; postclypeus indistinct; coronal suture present; labrum wider than long, hairy throughout, the anterior hairs longer; antennae 23–25-segmented (baluchistanicus); mandibles stout with well-developed marginal teeth, left mandible length 2.71 mm (baluchistanicus major soldier); postmentum long (length 2.91 mm, maximum width 1.02 mm, minimum width 0.87 mm), flat, the sides nearly parallel, the lateral margins of the posterior third weakly concave forming a “waist” (viarum, macrocephalus) or not forming a “waist” (baluchistanicus, vagans); anterior part of pronotum weakly raised and convex, posterior margin deeply concave at the middle (baluchistanicus), weakly concave (viarum, macrocephalus) or not concave (vagans); tarsi 4-segmented."
+  },
+  {
+   "label": "Worker",
+   "text": "Mandibles with 2 marginal teeth, the two marginal teeth far apart on the left mandible and close together on the right mandible."
+  }
+ ]
+}

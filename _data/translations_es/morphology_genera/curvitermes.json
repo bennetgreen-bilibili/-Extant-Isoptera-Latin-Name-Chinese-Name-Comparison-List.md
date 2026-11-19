@@ -1,0 +1,17 @@
+{
+ "note": "El soldado se describe según la clave genérica y los caracteres genéricos comparativos; del alado solo se conoce el índice mandibular izquierdo. La descripción original de Holmgren 1912 solo existe como un escaneo alemán en OCR de muy baja calidad, que no se utilizó para redactar.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "La morfología de las mandíbulas del soldado es «anómala»: presentan placa molar, prominencia molar y dientes marginales, muy semejantes a las mandíbulas del obrero del mismo género; el diente apical tiene forma de anzuelo; la zona molar está ampliada y posee un diente subapical dirigido hacia atrás. La superficie del tubo frontal es lisa y anchamente cónica. El índice mandibular izquierdo del alado es de aproximadamente 2.0 (igual que en Cyrilliotermes y Paracurvitermes)."
+  },
+  {
+   "label": "Soldado",
+   "text": "La zona molar de las mandíbulas está ampliada y presenta un diente subapical dirigido hacia atrás; el diente apical tiene forma de anzuelo; las mandíbulas presentan placa molar, prominencia molar y dientes marginales, semejantes a las del obrero. La superficie del tubo frontal es lisa y anchamente cónica."
+  },
+  {
+   "label": "Alado",
+   "text": "Índice mandibular izquierdo de aproximadamente 2.0, igual que en Cyrilliotermes y Paracurvitermes (Armitermes, Embiratermes y Labiotermes presentan 0.7–1.1)."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "zh_name": "大腿白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "新热带无兵蚁白蚁（Anoplotermes 群）中，可凭强烈膨大的前胫节与肠瓣结构区别于其他所有已知属：前胫节外形近似 Tetimatermes，但凹陷较浅、近端无腺体构造；肠瓣由约 100 枚鳞片与约 15 根弱硬化端刺组成，同样具鉴别价值。"
+  },
+  {
+   "label": "工蚁",
+   "text": "中型。头淡黄，圆形至略卵形，全头约 60 根刚毛；fontanelle 不明显；前胫节强烈膨大，长约等于宽的 3 倍。肠瓣着生于 paunch 的延伸部内，由 6 个细长垫组成，每垫约 100 枚鳞片，后缘约 15 根弱硬化刺。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0054",
+   "citation": "Bourguignon T., Scheffrahn R. H., Nagy Z. T., Sonet G., Host B., Roisin Y. 2016. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Grigiotermes Mathews and description of five new genera. Zoological Journal of the Linnean Society 176(1): 15–35. doi:10.1111/zoj.12305",
+   "locator": "p. 20（Description Worker / Diagnosis）"
+  }
+ ],
+ "note": "属名意为「大足」（amplus = 大，crus = 足）。原文仅有工蚁描述，明记 Imago: Unknown，故不设兵蚁与有翅成虫节。"
+}

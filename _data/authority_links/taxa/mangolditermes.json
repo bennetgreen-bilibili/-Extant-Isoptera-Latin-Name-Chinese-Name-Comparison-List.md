@@ -1,0 +1,23 @@
+{
+ "Mangolditermes curveileum": {
+  "gbif": {
+   "key": 12175042,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mangolditermes curveileum Scheffrahn, Carrijo & Castro, 2023",
+   "accepted": null
+  },
+  "col": {
+   "id": "BJ5D2",
+   "status": "accepted",
+   "label": "Mangolditermes curveileum Scheffrahn, Carrijo & Castro, 2023",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

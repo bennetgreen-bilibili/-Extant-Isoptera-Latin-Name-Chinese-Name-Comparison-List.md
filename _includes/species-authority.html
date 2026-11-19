@@ -1,7 +1,7 @@
 {%- comment -%}
   其他数据库 / Other databases —— GBIF Backbone、Catalogue of Life (ChecklistBank)、Wikidata、Blattodea Species File 外链 +
   「本站名 vs 外部接受名」一致性提示。
-  数据来源：_data/authority_links.json、_data/bsf_links.json；原则：只做外链与提示，不改动本站分类数据。
+  数据来源：_data/authority_links/taxa/、_data/bsf_links/name_map/（按属分片）；原则：只做外链与提示，不改动本站分类数据。
   语言：按 page.lang 单语输出（zh / en / es），中文只出现在 zh 页。
 {%- endcomment -%}
 {%- assign LP = '' -%}
@@ -10,10 +10,13 @@
 {%- if page.lang == 'en' -%}{%- assign LP = '/en' -%}{%- assign en = true -%}
 {%- elsif page.lang == 'es' -%}{%- assign LP = '/es' -%}{%- assign es = true -%}{%- endif -%}
 {%- assign EXT = site.external -%}
+{%- comment -%} 外链缓存分片：_data/authority_links/taxa/<属>.json、_data/bsf_links/name_map/<属>.json，
+     值是 {拉丁学名: 条目}，<属>＝学名首词小写＝page.genus_id。 {%- endcomment -%}
+{%- assign _gid = page.genus_id | default: page.latin | split: ' ' | first | downcase -%}
 {%- assign AUTH = nil -%}
-{%- if site.data.authority_links -%}{%- assign AUTH = site.data.authority_links.taxa[page.latin] -%}{%- endif -%}
+{%- if site.data.authority_links -%}{%- assign AUTH = site.data.authority_links.taxa[_gid][page.latin] -%}{%- endif -%}
 {%- assign BSF = nil -%}
-{%- if site.data.bsf_links -%}{%- assign BSF = site.data.bsf_links.name_map[page.latin] -%}{%- endif -%}
+{%- if site.data.bsf_links -%}{%- assign BSF = site.data.bsf_links.name_map[_gid][page.latin] -%}{%- endif -%}
 {%- if AUTH or BSF -%}
 <section class="species-authority" aria-labelledby="authority-title">
   <h2 id="authority-title">{% if en %}Other databases{% elsif es %}Otras bases de datos{% else %}其他数据库{% endif %}</h2>

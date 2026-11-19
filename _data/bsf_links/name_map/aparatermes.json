@@ -1,0 +1,35 @@
+{
+ "Aparatermes abbreviatus": {
+  "label": "Aparatermes abbreviatus Silvestri, 1901",
+  "match": "exact",
+  "notes": "",
+  "otu": 84001,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84001/overview",
+  "valid_label": null,
+  "valid_otu": 84001,
+  "verified": false
+ },
+ "Aparatermes cingulatus": {
+  "label": "Aparatermes cingulatus (Burmeister, 1839)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84002,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84002/overview",
+  "valid_label": null,
+  "valid_otu": 84002,
+  "verified": false
+ },
+ "Aparatermes thornatus": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ }
+}

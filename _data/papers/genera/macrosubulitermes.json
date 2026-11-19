@@ -1,0 +1,31 @@
+{
+ "latin": "Macrosubulitermes",
+ "zh": "大锥白蚁属",
+ "fetched_at": "2026-10-30T16:53:59Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2006596296",
+   "openalex_url": "https://openalex.org/W2006596296",
+   "doi": "10.1111/j.1440-6055.1984.tb01924.x",
+   "doi_url": "https://doi.org/10.1111/j.1440-6055.1984.tb01924.x",
+   "title": "THE AUSTRALIAN GENERA OF THE SUBULITERMES BRANCH OF THE NASUTITERMITINAE (ISOPTERA: TERMITIDAE)",
+   "year": 1984,
+   "date": "1984-05-01",
+   "authors": [
+    "L. R. Miller"
+   ],
+   "venue": "Australian Journal of Entomology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 6,
+   "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1440-6055.1984.tb01924.x",
+   "volume": "23",
+   "issue": "2",
+   "pages": "119-125",
+   "abstract": "The gut structure and the imago‐worker mandibles of the Australian species included in the Subulitermes branch of the Nasutitermitinae clearly define their relationships. Macrosubulitermes perlevis (Hill) and Termes insignitus (Hill) are transferred to Australitermes Emerson; Macrosubulitermes Emerson and Australitermes are redefined, and additional notes and measurements are given for the 4 species M. greavesi (Hill), A. dilucidus (Hill), A. perlevis and A. insignitus. Occasitermes Holmgren and Occultitermes Emerson do not belong to the Subulitermes branch.",
+   "abstract_source": "openalex",
+   "abstract_chars": 564,
+   "abstract_truncated": false
+  }
+ ]
+}

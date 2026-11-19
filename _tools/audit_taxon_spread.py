@@ -4,7 +4,7 @@
 
 用法：
 
-    python _tools/audit_taxon_spread.py                 # 查 _data/taxon_literature.json
+    python _tools/audit_taxon_spread.py                 # 查 _data/taxon_literature/ 分片
     python _tools/audit_taxon_spread.py --draft _tmp/review/2026-11-12-r2/draft.json
 
 输出三段：
@@ -23,6 +23,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "_tools"))
+import shard_io  # noqa: E402
+
 BINOM = re.compile(r"\b([A-Z][a-z]{2,})\s+([a-z][a-z\-]{2,})\b")
 
 
@@ -50,12 +53,17 @@ def iter_paragraphs(store):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--data", default="_data/taxon_literature.json")
+    ap.add_argument("--data", default=None,
+                    help="待审 JSON（默认读 _data/taxon_literature/ 分片）")
     ap.add_argument("--draft", action="append", default=[])
     args = ap.parse_args()
 
     species, genera = load_taxa()
-    stores = [("data", json.loads((ROOT / args.data).read_text(encoding="utf-8")))]
+    if args.data:
+        store = json.loads((ROOT / args.data).read_text(encoding="utf-8"))
+    else:
+        store = shard_io.load("taxon_literature")
+    stores = [("data", store)]
     for path in args.draft:
         p = Path(path)
         if not p.is_absolute():

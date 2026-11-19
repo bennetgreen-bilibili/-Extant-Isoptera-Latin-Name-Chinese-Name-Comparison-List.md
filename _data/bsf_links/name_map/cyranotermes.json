@@ -1,0 +1,46 @@
+{
+ "Cyranotermes caete": {
+  "label": "Cyranotermes caete Cancello, 1987",
+  "match": "exact",
+  "notes": "",
+  "otu": 84415,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84415/overview",
+  "valid_label": null,
+  "valid_otu": 84415,
+  "verified": false
+ },
+ "Cyranotermes glaber": {
+  "label": "Cyranotermes glaber Constantino, 1990",
+  "match": "exact",
+  "notes": "",
+  "otu": 84416,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84416/overview",
+  "valid_label": null,
+  "valid_otu": 84416,
+  "verified": false
+ },
+ "Cyranotermes karipuna": {
+  "label": "Cyranotermes karipuna Cancello, Carrijo & Rocha, 2012",
+  "match": "exact",
+  "notes": "",
+  "otu": 84417,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84417/overview",
+  "valid_label": null,
+  "valid_otu": 84417,
+  "verified": false
+ },
+ "Cyranotermes timuassu": {
+  "label": "Cyranotermes timuassu Araujo, 1970",
+  "match": "exact",
+  "notes": "",
+  "otu": 84418,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84418/overview",
+  "valid_label": null,
+  "valid_otu": 84418,
+  "verified": false
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "book_n": "291",
+ "book_name": "暗齿壤白蚁 Parahypotermes sumatrensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "暗齿壤白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "4.11–4.61"
+    },
+    {
+     "key": "head_length_with_mandibles",
+     "value": "1.72–1.79"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.17–1.24"
+    },
+    {
+     "key": "head_width",
+     "value": "0.96–1.06"
+    },
+    {
+     "key": "postmentum_width",
+     "value": "0.44–0.50"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.27–0.30"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.68–0.77"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.00–1.06"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 449,
+   "unit": "mm"
+  }
+ ]
+}

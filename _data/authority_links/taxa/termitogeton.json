@@ -1,0 +1,46 @@
+{
+ "Termitogeton planus": {
+  "gbif": {
+   "key": 9159966,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termitogeton planus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "55GQL",
+   "status": "accepted",
+   "label": "Termitogeton planus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q127438376",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termitogeton umbilicatus": {
+  "gbif": {
+   "key": 9041228,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termitogeton umbilicatus (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "55GQM",
+   "status": "accepted",
+   "label": "Termitogeton umbilicatus (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30326282",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

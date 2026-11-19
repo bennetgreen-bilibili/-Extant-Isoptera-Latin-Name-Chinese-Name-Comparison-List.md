@@ -1,0 +1,67 @@
+{
+ "book_n": "290",
+ "book_name": "瑞丽壤白蚁 Parahypotermes ruiliensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "瑞丽壤白蚁兵蚁量度(sn)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "3.41",
+     "value": "3.28–3.54"
+    },
+    {
+     "key": "head_length_with_mandibles",
+     "mean": "1.63",
+     "value": "1.58–1.71"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.06",
+     "value": "1.03–1.13"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "0.90",
+     "value": "0.87–0.94"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.60",
+     "value": "0.58–0.61"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.23",
+     "value": "0.23"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "0.677",
+     "value": "0.65–0.68"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.447",
+     "value": "0.42–0.45"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.42–0.45"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.99",
+     "value": "0.97–1.03"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 433,
+   "unit": "mm"
+  }
+ ]
+}

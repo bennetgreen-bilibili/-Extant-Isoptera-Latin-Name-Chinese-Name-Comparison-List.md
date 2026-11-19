@@ -1,0 +1,35 @@
+{
+ "Paraconvexitermes acangapua": {
+  "label": "Paraconvexitermes acangapua Cancello & Noirot, 2003",
+  "match": "exact",
+  "notes": "",
+  "otu": 84838,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84838/overview",
+  "valid_label": null,
+  "valid_otu": 84838,
+  "verified": false
+ },
+ "Paraconvexitermes junceus": {
+  "label": "Paraconvexitermes junceus (Emerson, 1949)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84839,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84839/overview",
+  "valid_label": null,
+  "valid_otu": 84839,
+  "verified": false
+ },
+ "Paraconvexitermes nigricornis": {
+  "label": "Paraconvexitermes nigricornis (Holmgren, 1906)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84840,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84840/overview",
+  "valid_label": null,
+  "valid_otu": 84840,
+  "verified": false
+ }
+}

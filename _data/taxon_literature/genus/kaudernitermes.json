@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "马达加斯加的单型新属",
+   "heading_en": "A monotypic new genus from Madagascar",
+   "heading_es": "Un género nuevo monotípico de Madagascar",
+   "paragraphs": [
+    {
+     "src": [
+      "S0335"
+     ],
+     "text": "根据 Sands 与 Lamb（1975）研究，考登白蚁属（<i>Kaudernitermes</i>）作为单型新属建立，用于收纳马达加斯加的考登考登白蚁（<i>Kaudernitermes kaudernianus</i>），该种属象白蚁亚科（Nasutitermitinae）中头部收缩的一群；该属与埃塞俄比亚区的薄喙白蚁属（<i>Leptomyxotermes</i>）和富勒白蚁属（<i>Fulleritermes</i>），以及印度—马来区的瓢白蚁属（<i>Bulbitermes</i>）关系最近，研究给出属征（据摘要）。",
+     "text_en": "According to Sands and Lamb (1975), <i>Kaudernitermes</i> was established as a new monotypic genus to receive the Malagasy <i>Kaudernitermes kaudernianus</i>, a species of the constricted-headed group of Nasutitermitinae; the genus is most closely related to <i>Leptomyxotermes</i> and <i>Fulleritermes</i> of the Ethiopian fauna and to <i>Bulbitermes</i> of the Indomalayan Region, and the study diagnoses it (according to the abstract).",
+     "text_es": "Según Sands y Lamb (1975), <i>Kaudernitermes</i> se estableció como género nuevo monotípico para acoger a la especie malgache <i>Kaudernitermes kaudernianus</i>, perteneciente al grupo de cabeza constreñida de los Nasutitermitinae; el género está más estrechamente emparentado con <i>Leptomyxotermes</i> y <i>Fulleritermes</i> de la fauna etiópica y con <i>Bulbitermes</i> de la región indomalaya, y el estudio lo diagnostica (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0335",
+   "citation": "Sands, W. A.; Lamb, R. W. 1975. The systematic position of Kaudernitermes gen. n. (Isoptera: Termitidae, Nasutitermitinae) and its relevance to host relationships of termitophilous staphylinid beetles. Journal of Entomology, Series B: Taxonomy.",
+   "url": "https://doi.org/10.1111/j.1365-3113.1975.tb00013.x"
+  }
+ ]
+}

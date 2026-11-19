@@ -1,0 +1,123 @@
+{
+ "Sinonasutitermes admirabilis": {
+  "label": "Sinonasutitermes admirabilis Ping & Xu, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 84873,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84873/overview",
+  "valid_label": null,
+  "valid_otu": 84873,
+  "verified": false
+ },
+ "Sinonasutitermes dimorphus": {
+  "label": "Sinonasutitermes dimorphus Li, 1986",
+  "match": "exact",
+  "notes": "",
+  "otu": 84874,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84874/overview",
+  "valid_label": null,
+  "valid_otu": 84874,
+  "verified": false
+ },
+ "Sinonasutitermes erectinasus": {
+  "label": "Sinonasutitermes erectinasus (Tsai & Chen, 1963)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84875,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84875/overview",
+  "valid_label": null,
+  "valid_otu": 84875,
+  "verified": false
+ },
+ "Sinonasutitermes guangxiensis": {
+  "label": "Sinonasutitermes guangxiensis Ping & Huang, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 84876,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84876/overview",
+  "valid_label": null,
+  "valid_otu": 84876,
+  "verified": false
+ },
+ "Sinonasutitermes hainanensis": {
+  "label": "Sinonasutitermes hainanensis Li & Ping, 1986",
+  "match": "exact",
+  "notes": "",
+  "otu": 84877,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84877/overview",
+  "valid_label": null,
+  "valid_otu": 84877,
+  "verified": false
+ },
+ "Sinonasutitermes mediocris": {
+  "label": "Sinonasutitermes mediocris Ping & Xu, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 84878,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84878/overview",
+  "valid_label": null,
+  "valid_otu": 84878,
+  "verified": false
+ },
+ "Sinonasutitermes planinasus": {
+  "label": "Sinonasutitermes planinasus Ping & Xu, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 84879,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84879/overview",
+  "valid_label": null,
+  "valid_otu": 84879,
+  "verified": false
+ },
+ "Sinonasutitermes platycephalus": {
+  "label": "Sinonasutitermes platycephalus (Ping & Xu, 1988)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84880,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84880/overview",
+  "valid_label": null,
+  "valid_otu": 84880,
+  "verified": false
+ },
+ "Sinonasutitermes trimorphus": {
+  "label": "Sinonasutitermes trimorphus Li & Ping, 1986",
+  "match": "exact",
+  "notes": "",
+  "otu": 84881,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84881/overview",
+  "valid_label": null,
+  "valid_otu": 84881,
+  "verified": false
+ },
+ "Sinonasutitermes xiai": {
+  "label": "Sinonasutitermes xiai Ping & Xu, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 84882,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84882/overview",
+  "valid_label": null,
+  "valid_otu": 84882,
+  "verified": false
+ },
+ "Sinonasutitermes yui": {
+  "label": "Sinonasutitermes yui Ping & Xu, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 84883,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84883/overview",
+  "valid_label": null,
+  "valid_otu": 84883,
+  "verified": false
+ }
+}

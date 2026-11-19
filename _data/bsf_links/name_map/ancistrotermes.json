@@ -1,0 +1,200 @@
+{
+ "Ancistrotermes cavithorax": {
+  "label": "",
+  "match": null,
+  "notes": "候选：OTU 83494 Ancistrotermes cavithorax (Sjöstedt, 1899)；OTU 656779 Ancistrotermes cavithorax (Wasmann, 1911) now Ancistrotermes wasmanni Snyder & Emerson, 1949",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Ancistrotermes crassiceps": {
+  "label": "Ancistrotermes crassiceps Zhu & Wang, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 83495,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83495/overview",
+  "valid_label": null,
+  "valid_otu": 83495,
+  "verified": false
+ },
+ "Ancistrotermes crucifer": {
+  "label": "Ancistrotermes crucifer (Sjöstedt, 1897)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83496,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83496/overview",
+  "valid_label": null,
+  "valid_otu": 83496,
+  "verified": false
+ },
+ "Ancistrotermes crucifer crucifer": {
+  "label": "Ancistrotermes crucifer crucifer (Sjöstedt, 1897)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83497,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83497/overview",
+  "valid_label": null,
+  "valid_otu": 83497,
+  "verified": false
+ },
+ "Ancistrotermes crucifer diversana": {
+  "label": "Ancistrotermes crucifer diversana Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 83498,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83498/overview",
+  "valid_label": null,
+  "valid_otu": 83498,
+  "verified": false
+ },
+ "Ancistrotermes dimorphus": {
+  "label": "Ancistrotermes dimorphus (Tsai & Chen, 1963)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83499,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83499/overview",
+  "valid_label": null,
+  "valid_otu": 83499,
+  "verified": false
+ },
+ "Ancistrotermes dubius": {
+  "label": "Ancistrotermes dubius Sjöstedt, 1926",
+  "match": "exact",
+  "notes": "",
+  "otu": 83500,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83500/overview",
+  "valid_label": null,
+  "valid_otu": 83500,
+  "verified": false
+ },
+ "Ancistrotermes equatorius": {
+  "label": "Ancistrotermes equatorius Harris, 1966",
+  "match": "exact",
+  "notes": "",
+  "otu": 83501,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83501/overview",
+  "valid_label": null,
+  "valid_otu": 83501,
+  "verified": false
+ },
+ "Ancistrotermes ganlanbaensis": {
+  "label": "Ancistrotermes ganlanbaensis Zhu & Huang, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 83502,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83502/overview",
+  "valid_label": null,
+  "valid_otu": 83502,
+  "verified": false
+ },
+ "Ancistrotermes guineensis": {
+  "label": "Ancistrotermes guineensis (Silvestri, 1912)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83503,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83503/overview",
+  "valid_label": null,
+  "valid_otu": 83503,
+  "verified": false
+ },
+ "Ancistrotermes hekouensis": {
+  "label": "Ancistrotermes hekouensis Zhu & Wang, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 83504,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83504/overview",
+  "valid_label": null,
+  "valid_otu": 83504,
+  "verified": false
+ },
+ "Ancistrotermes latinotus": {
+  "label": "Ancistrotermes latinotus (Holmgren, 1912)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83505,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83505/overview",
+  "valid_label": null,
+  "valid_otu": 83505,
+  "verified": false
+ },
+ "Ancistrotermes menglianensis": {
+  "label": "Ancistrotermes menglianensis Zhu & Wang, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 83506,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83506/overview",
+  "valid_label": null,
+  "valid_otu": 83506,
+  "verified": false
+ },
+ "Ancistrotermes microdens": {
+  "label": "Ancistrotermes microdens Harris, 1966",
+  "match": "exact",
+  "notes": "",
+  "otu": 83507,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83507/overview",
+  "valid_label": null,
+  "valid_otu": 83507,
+  "verified": false
+ },
+ "Ancistrotermes pakistanicus": {
+  "label": "Ancistrotermes pakistanicus (Ahmad, 1955)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83508,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83508/overview",
+  "valid_label": null,
+  "valid_otu": 83508,
+  "verified": false
+ },
+ "Ancistrotermes periphrasis": {
+  "label": "Ancistrotermes periphrasis Sjöstedt, 1924",
+  "match": "exact",
+  "notes": "",
+  "otu": 83509,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83509/overview",
+  "valid_label": null,
+  "valid_otu": 83509,
+  "verified": false
+ },
+ "Ancistrotermes wasmanni": {
+  "label": "Ancistrotermes wasmanni Snyder & Emerson, 1949",
+  "match": "exact",
+  "notes": "",
+  "otu": 83510,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83510/overview",
+  "valid_label": null,
+  "valid_otu": 83510,
+  "verified": false
+ },
+ "Ancistrotermes xiai": {
+  "label": "Ancistrotermes xiai Zhu & Huang, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 83511,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83511/overview",
+  "valid_label": null,
+  "valid_otu": 83511,
+  "verified": false
+ }
+}

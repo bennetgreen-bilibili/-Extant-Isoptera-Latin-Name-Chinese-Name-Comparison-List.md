@@ -1,0 +1,24 @@
+{
+ "Aciculitermes aciculatus": {
+  "label": "Aciculitermes aciculatus (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84273,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84273/overview",
+  "valid_label": null,
+  "valid_otu": 84273,
+  "verified": false
+ },
+ "Aciculitermes maymyoensis": {
+  "label": "Aciculitermes maymyoensis Krishna, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 84274,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84274/overview",
+  "valid_label": null,
+  "valid_otu": 84274,
+  "verified": false
+ }
+}

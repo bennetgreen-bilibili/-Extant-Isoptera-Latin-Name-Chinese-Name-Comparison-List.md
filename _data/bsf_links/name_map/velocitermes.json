@@ -1,0 +1,101 @@
+{
+ "Velocitermes barrocoloradensis": {
+  "label": "Velocitermes barrocoloradensis (Snyder, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84951,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84951/overview",
+  "valid_label": null,
+  "valid_otu": 84951,
+  "verified": false
+ },
+ "Velocitermes beebei": {
+  "label": "Velocitermes beebei (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84952,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84952/overview",
+  "valid_label": null,
+  "valid_otu": 84952,
+  "verified": false
+ },
+ "Velocitermes glabrinotus": {
+  "label": "Velocitermes glabrinotus Mathews, 1977",
+  "match": "exact",
+  "notes": "",
+  "otu": 84955,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84955/overview",
+  "valid_label": null,
+  "valid_otu": 84955,
+  "verified": false
+ },
+ "Velocitermes heteropterus": {
+  "label": "Velocitermes heteropterus (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84956,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84956/overview",
+  "valid_label": null,
+  "valid_otu": 84956,
+  "verified": false
+ },
+ "Velocitermes laticephalus": {
+  "label": "Velocitermes laticephalus (Snyder, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84957,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84957/overview",
+  "valid_label": null,
+  "valid_otu": 84957,
+  "verified": false
+ },
+ "Velocitermes melanocephalus": {
+  "label": "Velocitermes melanocephalus (Snyder)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84958,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84958/overview",
+  "valid_label": null,
+  "valid_otu": 84958,
+  "verified": false
+ },
+ "Velocitermes paucipilis": {
+  "label": "Velocitermes paucipilis Mathews, 1977",
+  "match": "exact",
+  "notes": "",
+  "otu": 84959,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84959/overview",
+  "valid_label": null,
+  "valid_otu": 84959,
+  "verified": false
+ },
+ "Velocitermes uniformis": {
+  "label": "Velocitermes uniformis (Snyder, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84960,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84960/overview",
+  "valid_label": null,
+  "valid_otu": 84960,
+  "verified": false
+ },
+ "Velocitermes velox": {
+  "label": "Velocitermes velox (Holmgren, 1906)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84961,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84961/overview",
+  "valid_label": null,
+  "valid_otu": 84961,
+  "verified": false
+ }
+}

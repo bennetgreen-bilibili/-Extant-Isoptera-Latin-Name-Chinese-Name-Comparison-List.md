@@ -1,0 +1,43 @@
+{
+ "latin": "Allodontermes",
+ "zh": "奇齿白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Allodontermes Silvestri, 1912b: 2 [first introduced as a subgenus of Termes Linnaeus, 1758].",
+ "type_species": "Termes schultzei Silvestri, 1908 by original designation.",
+ "references": [
+  {
+   "ref": "Holmgren, 1912a: 11, 24–28",
+   "note": "Protermes (Allodontermes); key; species included."
+  },
+  {
+   "ref": "Fuller, 1921: 17, 20",
+   "note": "Allodontermes; key; remarks."
+  },
+  {
+   "ref": "Emerson, 1928b: 406, 418, 420, 438",
+   "note": "Protermes (Allodontermes); key; discussion; distribution."
+  },
+  {
+   "ref": "Harris, 1941: 202",
+   "note": "Allodontermes; key."
+  },
+  {
+   "ref": "Weidner, 1956b: 66",
+   "note": "Allodontermes; key."
+  },
+  {
+   "ref": "Webb, 1961: 16",
+   "note": "Allodontotermes; key [error for Allodontermes]."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 32, 33, 88, 89, pl. 12: fig. 31b",
+   "note": "Allodontermes; key; characters; imago/worker mandibles figured."
+  },
+  {
+   "ref": "Coaton and Sheasby, 1972: 25, 83, 101, figs. 18C–D, 50",
+   "note": "Allodontermes; soldier figured; key; ecology; biology; distribution. Namibia."
+  }
+ ],
+ "nrefs": 25
+}

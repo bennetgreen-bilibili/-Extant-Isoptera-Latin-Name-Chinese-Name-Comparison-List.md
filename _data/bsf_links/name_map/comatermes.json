@@ -1,0 +1,13 @@
+{
+ "Comatermes perfectus": {
+  "label": "Comatermes perfectus (Hagen, 1858)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82588,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82588/overview",
+  "valid_label": null,
+  "valid_otu": 82588,
+  "verified": false
+ }
+}

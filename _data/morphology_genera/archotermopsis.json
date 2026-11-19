@@ -1,0 +1,29 @@
+{
+ "zh_name": "古白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "原文以 Termopsis 属名给出属征：有翅成虫单眼完全缺失、额板不突出，与具单眼的类群可分开；跗节外观 4 节而实为 5 节，第 2 节与第 1 节仅部分分离，跗爪间具 plantula；尾须长，雄虫刺突发达；翅宽大，长不达宽的 4 倍。兵蚁体粗壮，头大、近矩形且扁平，触角 20 节以上，上颚极强、内缘具齿，前胸背板窄于头而近平，尾须与刺突均长。作者随后据复眼形状与翅基残存等特征另立亚属 Archotermopsis，并指出其与 Termopsis 其余成员有别。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "触角 27–28 节（模式种 A. wroughtoni 的种级记述为 24 或 25 节，与属征不合，须以标本复核）；单眼完全缺失；额板不突出；复眼大、前缘深凹近肾形（种级）；前胸背板近平、窄于头；翅长不达宽的 4 倍，前翅具亚前缘脉，径脉发达并分出数支达前缘，中脉近翅中部，膜质区密布网状脉；胫节具侧刺；跗节外观 4 节、实为 5 节，爪间具 plantula；尾须长，雄虫刺突发达。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "体粗壮；头大、近矩形、扁平，后缘明显凹入（种级）；眼小或退化，种级记眼小、卵形、无小眼面；触角 20 节以上（种级 22–25 节）；上颚极强，内缘具不规则强齿，末端内弯尖锐；前胸背板窄于头、近平；跗节无 plantula（原文：plantula 仅见于有翅成虫）；尾须与刺突均长。"
+  },
+  {
+   "label": "工蚁",
+   "text": "原文（A. wroughtoni 种级记述）称工蚁外形似幼虫：若虫式中、后胸侧板（epimera）呈三角形叶状游离突起，与兵蚁相同，而有翅成虫无此突起；部分个体中、后胸背板后缘留有翅芽折断的疤痕，头略大于若虫，原文推测这类个体承担工蚁职能。"
+  }
+ ],
+ "note": "原文发表时属名作 Termopsis (Heer)，属征段实际涵盖当时广义的 Termopsis（含现 Zootermopsis）；作者在 p. 297 自述已另立亚属 Archotermopsis（Desneux 1904, Genera Insectorum XXV, p. 18），本文描述的模式种即 A. wroughtoni，故属征与种级描述可归入本属，但须注意「属征」中部分性状可能属广义 Termopsis。属征记触角 27–28 节，种级描述记 24 或 25 节，二者不一致，采用时须复核。",
+ "sources": [
+  {
+   "id": "S0037",
+   "citation": "Desneux, J. 1906. The Kashmir termite, Termopsis wroughtoni. Journal of the Bombay Natural History Society 17: 293–297. https://biodiversitylibrary.org/partpdf/193245",
+   "locator": "pp. 293–297"
+  }
+ ]
+}

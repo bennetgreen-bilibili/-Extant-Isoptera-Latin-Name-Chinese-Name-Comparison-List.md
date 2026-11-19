@@ -1,0 +1,26 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "属的建立与分类位置",
+   "paragraphs": [
+    {
+     "text": "根据 Emerson（1959）研究，尖齿白蚁属（Acutidentitermes）是该文建立的新属，模式种为奥斯本尖齿白蚁（Acutidentitermes osborni）；模式标本包括 1 头兵蚁和同巢工蚁，采自比利时刚果伊图里雨林 Epulu 河附近的地下巢。原文把该属放在白蚁亚科（Termitinae）的原始类群中，记载兵蚁头大、两侧近平行、囟小、后颏膨大，触角 15 节，胫节距 3:2:2；本站现将其置于尖白蚁亚科（Apicotermitinae）。",
+     "src": [
+      "S0034"
+     ],
+     "text_en": "According to Emerson's (1959) study, Acutidentitermes is a new genus established in that paper, with Acutidentitermes osborni as its type species; the type material includes one soldier and workers from the same nest, collected from an underground nest near the Epulu River in the Ituri rainforest of the Belgian Congo. The original paper placed the genus among the primitive groups of Termitinae and recorded a large soldier head with nearly parallel sides, a small fontanelle, an inflated postmentum, 15-segmented antennae and a tibial spur formula of 3:2:2; this checklist currently places it in Apicotermitinae.",
+     "text_es": "Según el estudio de Emerson (1959), Acutidentitermes es un género nuevo establecido en ese trabajo, con especie tipo Acutidentitermes osborni; el material tipo comprende un soldado y obreros de la misma colonia, recolectados en un nido subterráneo cerca del río Epulu, en la selva de Ituri, Congo Belga. El trabajo sitúa el género entre los grupos primitivos de Termitinae y describe al soldado con cabeza grande, lados casi paralelos, fontanela pequeña, postmentón inflado, antenas de 15 artejos y fórmula de espinas tibiales 3:2:2; esta lista lo coloca actualmente en Apicotermitinae."
+    }
+   ],
+   "heading_en": "Establishment and taxonomic placement of the genus",
+   "heading_es": "Establecimiento del género y posición taxonómica"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0034",
+   "citation": "Emerson, A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43."
+  }
+ ]
+}

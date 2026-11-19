@@ -1,0 +1,57 @@
+{
+ "Anhangatermes anhanguera": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 84309 Anhangatermes Constantino, 1990",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Anhangatermes eurycephalus": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Anhangatermes juruena": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 84309 Anhangatermes Constantino, 1990",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Anhangatermes macarthuri": {
+  "label": "Anhangatermes macarthuri Constantino, 1990",
+  "match": "exact",
+  "notes": "",
+  "otu": 84310,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84310/overview",
+  "valid_label": null,
+  "valid_otu": 84310,
+  "verified": false
+ },
+ "Anhangatermes pilosus": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 84309 Anhangatermes Constantino, 1990",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ }
+}

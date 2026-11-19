@@ -1,0 +1,68 @@
+{
+ "Diwaitermes castanopsis": {
+  "gbif": {
+   "key": 9810492,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Diwaitermes castanopsis Roisin & Pasteels, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "6DBZM",
+   "status": "accepted",
+   "label": "Diwaitermes castanopsis Roisin & Pasteels, 1996",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250579",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Diwaitermes foi": {
+  "gbif": {
+   "key": 9694011,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Diwaitermes foi Roisin & Pasteels, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "36ZXV",
+   "status": "accepted",
+   "label": "Diwaitermes foi Roisin & Pasteels, 1996",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250580",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Diwaitermes kanehirai": {
+  "gbif": {
+   "key": 9776740,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Diwaitermes kanehirai (Oshima, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "36ZXW",
+   "status": "accepted",
+   "label": "Diwaitermes kanehirai (Oshima, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250581",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "book_n": "314",
+ "book_name": "梯头大白蚁 Macrotermes trapezoides",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "梯头大白蚁小兵量度",
+   "label_en": "Minor soldier measurements",
+   "label_es": "Medidas de soldado menor",
+   "label_zh": "小兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.10",
+     "value": "2.02–2.19"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.66",
+     "value": "1.60–1.74"
+    },
+    {
+     "key": "head_width_behind_antennae",
+     "mean": "1.40",
+     "value": "1.35–1.48"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.38",
+     "value": "1.31–1.41"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.56",
+     "value": "0.54–0.58"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.71",
+     "value": "0.67–0.77"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.25",
+     "value": "1.21–1.34"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 1176,
+   "unit": "mm"
+  }
+ ]
+}

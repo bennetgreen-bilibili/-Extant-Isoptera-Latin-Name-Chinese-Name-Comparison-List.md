@@ -1,0 +1,90 @@
+{
+ "Araujotermes caissara": {
+  "gbif": {
+   "key": 9780728,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Araujotermes caissara Fontes, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "G69W",
+   "status": "accepted",
+   "label": "Araujotermes caissara Fontes, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234915",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Araujotermes nanus": {
+  "gbif": {
+   "key": 9722524,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Araujotermes nanus Constantino, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "G69X",
+   "status": "accepted",
+   "label": "Araujotermes nanus Constantino, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234916",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Araujotermes parvellus": {
+  "gbif": {
+   "key": 9410471,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Araujotermes parvellus (Silvestri, 1923)",
+   "accepted": null
+  },
+  "col": {
+   "id": "G69Y",
+   "status": "accepted",
+   "label": "Araujotermes parvellus (Silvestri, 1923)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234917",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Araujotermes zeteki": {
+  "gbif": {
+   "key": 9672398,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Araujotermes zeteki (Snyder, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "G69Z",
+   "status": "accepted",
+   "label": "Araujotermes zeteki (Snyder, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234918",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

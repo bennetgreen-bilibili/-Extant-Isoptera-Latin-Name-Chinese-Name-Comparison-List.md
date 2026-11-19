@@ -1,0 +1,73 @@
+{
+ "book_n": "284",
+ "book_name": "坝湾地白蚊 Hypotermes bawanensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "坝湾地白蚊兵蚁量度( mm",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "4.96",
+     "value": "4.90–5.10"
+    },
+    {
+     "key": "head_length_with_mandibles",
+     "mean": "2.05",
+     "value": "1.90–2.13"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.44",
+     "value": "1.39–1.48"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.24",
+     "value": "1.19–1.29"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.74",
+     "value": "0.71–0.77"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.32",
+     "value": "0.29–0.35"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.32",
+     "value": "0.29–0.35"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "0.84",
+     "value": "0.81–0.87"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.55",
+     "value": "0.52–0.58"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.88",
+     "value": "0.84–0.94"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.29",
+     "value": "1.23–1.35"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 314,
+   "unit": "mm"
+  }
+ ]
+}

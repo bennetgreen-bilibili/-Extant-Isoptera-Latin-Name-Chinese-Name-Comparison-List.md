@@ -1,0 +1,112 @@
+{
+ "Basidentitermes amicus": {
+  "label": "Basidentitermes amicus Harris, 1936",
+  "match": "exact",
+  "notes": "",
+  "otu": 84971,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84971/overview",
+  "valid_label": null,
+  "valid_otu": 84971,
+  "verified": false
+ },
+ "Basidentitermes aurivillii": {
+  "label": "Basidentitermes aurivillii (Sjöstedt, 1897)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84972,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84972/overview",
+  "valid_label": null,
+  "valid_otu": 84972,
+  "verified": false
+ },
+ "Basidentitermes demoulini": {
+  "label": "Basidentitermes demoulini Harris, 1963",
+  "match": "exact",
+  "notes": "",
+  "otu": 84973,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84973/overview",
+  "valid_label": null,
+  "valid_otu": 84973,
+  "verified": false
+ },
+ "Basidentitermes diversifrons": {
+  "label": "Basidentitermes diversifrons Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 84974,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84974/overview",
+  "valid_label": null,
+  "valid_otu": 84974,
+  "verified": false
+ },
+ "Basidentitermes mactus": {
+  "label": "Basidentitermes mactus (Sjöstedt, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84975,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84975/overview",
+  "valid_label": null,
+  "valid_otu": 84975,
+  "verified": false
+ },
+ "Basidentitermes mactus mactus": {
+  "label": "Basidentitermes mactus mactus Sjöstedt, 1911",
+  "match": "exact",
+  "notes": "",
+  "otu": 84976,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84976/overview",
+  "valid_label": null,
+  "valid_otu": 84976,
+  "verified": false
+ },
+ "Basidentitermes mactus supera": {
+  "label": "Basidentitermes mactus supera Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 84977,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84977/overview",
+  "valid_label": null,
+  "valid_otu": 84977,
+  "verified": false
+ },
+ "Basidentitermes malelaensis": {
+  "label": "Basidentitermes malelaensis (Emerson, 1928)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84978,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84978/overview",
+  "valid_label": null,
+  "valid_otu": 84978,
+  "verified": false
+ },
+ "Basidentitermes potens": {
+  "label": "Basidentitermes potens Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 84979,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84979/overview",
+  "valid_label": null,
+  "valid_otu": 84979,
+  "verified": false
+ },
+ "Basidentitermes trilobatus": {
+  "label": "Basidentitermes trilobatus Noirot, 1955",
+  "match": "exact",
+  "notes": "",
+  "otu": 84980,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84980/overview",
+  "valid_label": null,
+  "valid_otu": 84980,
+  "verified": false
+ }
+}

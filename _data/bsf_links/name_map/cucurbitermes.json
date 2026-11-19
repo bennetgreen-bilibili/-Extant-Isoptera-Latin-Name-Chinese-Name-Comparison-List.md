@@ -1,0 +1,35 @@
+{
+ "Cucurbitermes parviceps": {
+  "label": "Cucurbitermes parviceps Xu & Dong, 1994",
+  "match": "exact",
+  "notes": "",
+  "otu": 84411,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84411/overview",
+  "valid_label": null,
+  "valid_otu": 84411,
+  "verified": false
+ },
+ "Cucurbitermes sinensis": {
+  "label": "Cucurbitermes sinensis Li & Ping, 1985",
+  "match": "exact",
+  "notes": "",
+  "otu": 84412,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84412/overview",
+  "valid_label": null,
+  "valid_otu": 84412,
+  "verified": false
+ },
+ "Cucurbitermes yingdeensis": {
+  "label": "Cucurbitermes yingdeensis Li & Ping, 1985",
+  "match": "exact",
+  "notes": "",
+  "otu": 84413,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84413/overview",
+  "valid_label": null,
+  "valid_otu": 84413,
+  "verified": false
+ }
+}

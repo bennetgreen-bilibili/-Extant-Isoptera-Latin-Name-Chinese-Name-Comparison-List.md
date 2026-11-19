@@ -1,0 +1,39 @@
+{
+ "latin": "Euchilotermes",
+ "zh": "真唇白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Euchilotermes Silvestri, 1914a: 85–86.",
+ "type_species": "Euchilotermes tensus Silvestri, 1914 by original designation.",
+ "references": [
+  {
+   "ref": "Emerson, 1928b: 408, 419, 502",
+   "note": "Mirotermes (Euchilotermes); key; discussion; distribution."
+  },
+  {
+   "ref": "Webb, 1961: 13",
+   "note": "Euchilotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 27, 100, 101, pl. 18: fig. 54c",
+   "note": "Euchilotermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 33",
+   "note": "Euchilotermes; key."
+  },
+  {
+   "ref": "Sands, 1995: 1485",
+   "note": "Euchilotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 35, 219–222, figs. 910–931, pl. 12: figs. 5–8",
+   "note": "Euchilotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  },
+  {
+   "ref": "Uys, 2002: 66, 78–79, fig. 187",
+   "note": "Euchilotermes; key; species included; diagnosis; biology; distribution. South Africa."
+  }
+ ],
+ "nrefs": 14
+}

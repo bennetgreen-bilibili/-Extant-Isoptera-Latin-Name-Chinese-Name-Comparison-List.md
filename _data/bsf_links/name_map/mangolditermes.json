@@ -1,0 +1,13 @@
+{
+ "Mangolditermes curveileum": {
+  "label": "Mangolditermes curveileum Scheffrahn, Carrijo & Castro, 2023",
+  "match": "exact",
+  "notes": "",
+  "otu": 785313,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/785313/overview",
+  "valid_label": null,
+  "valid_otu": 785313,
+  "verified": false
+ }
+}

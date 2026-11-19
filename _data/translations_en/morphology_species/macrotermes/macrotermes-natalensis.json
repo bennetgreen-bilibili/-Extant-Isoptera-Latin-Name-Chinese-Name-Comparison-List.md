@@ -1,0 +1,25 @@
+{
+ "note": "Adapted from Sjöstedt's (1900) original description of Termes natalensis, written in German and heavily affected by OCR noise. Alates, nymphs, queens, major and minor soldiers and major and minor workers are all described; the original gives wing spans of 72–76 and 72–70 in two places, recorded here as 70–72; measurements such as wing width and the upper limit of mandible length are incomplete and omitted; the synonymy list and biological observations are not translated.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Major soldier: head reddish yellow, quadrate with rounded angles, longer than wide, scarcely narrowed anteriorly, rather flatly convex, frons slightly depressed and flatter; middle of frons with a shallow, uneven depression bounded on each side by a low ridge, its centre bearing a low but distinct rounded crest; clypeus truncate, bounded on each side by dark brown; mandibles black, broad at the base, left mandible with a tooth at the base, mandibles rather short, falcate, apex distinctly incurved; labrum oval, with a soft white triangular appendage anteriorly; antennae 17-segmented, basal segment thickest, second short, third longer than the adjacent segments, the remaining segments subequal in length, not reaching beyond the neck when bent backwards; pronotum about one quarter narrower than the head, transversely oval, anterior margin distinctly emarginate, lateral parts slightly upturned, depressed, rather acute and rounded, posterolateral margins slightly curved, posterior margin medially concave with rounded angles; mesonotum slightly narrower, elongate, transversely oval, anterior and posterior margins almost straight; metanotum almost the same in shape but slightly shorter; hind tibia slightly longer than the femur; body, thorax and legs pale yellowish brown; head and thorax shining, almost bare; pilosity of body rather sparse, of legs sparser; apical tarsal segment twice as long as the remaining segments together. Total length 10–12 mm, head with mandibles about 7 mm, mandibles more than 2.1 mm. Minor soldier: much smaller than the major soldier; head proportionally narrower, mandibles smaller and slenderer, antennae longer, reaching slightly beyond the neck when bent backwards; antennae 17-segmented, basal segment thickest, second and third segments equal in length, middle segments slightly larger; frontal depression shallower; mesonotum usually distinctly narrower than the metanotum. Total length 8 mm, head with mandibles 4.1 mm, mandibles 1.6 mm, thorax 2 mm, antennae 3 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Major worker: very similar to the worker of T. bellicosus. In the specimens first examined the antennae are all 17-segmented, whereas in the present specimens they are 18-segmented, apparently owing to division of the third segment; indistinguishable from corresponding individuals of T. bellicosus. Head flat, rounded-quadrate from the mandibles, rather broad posteriorly, sides slightly flattened; frons with a dot-like shallow depression; head darker in colour or pale yellowish red. Length 7 mm, head width more than 2.2 mm. Minor worker: smaller than the former, head especially small; antennae 17-segmented; body colour sometimes paler, especially the head. Length 5–6 mm, head width 1.7–2 mm."
+  },
+  {
+   "label": "Alate",
+   "text": "Alate: in appearance very similar to T. bellicosus, with which it has long been confused. Wings longer and more nearly equal in width; in all specimens that can be confirmed as this species by soldiers of the same series the wing span is 70–72 mm. Body shape, colour and antennae as in T. bellicosus. Wing span 70–72 mm; body length with wings 41–42 mm; wing length 31–35 mm; body length with head 19–20 mm."
+  },
+  {
+   "label": "Nymph",
+   "text": "Nymph: entirely pure white. Two nymphs of different instars are available: one with very small and narrow wing pads, the other with wing pads 3 mm long and much wider; body length with head about 10 mm."
+  },
+  {
+   "label": "Other",
+   "text": "Other: queen similar to that of T. bellicosus; sides of the abdomen white, without dark spots; abdomen of the largest specimen about 90 mm long and 25 mm wide."
+  }
+ ]
+}

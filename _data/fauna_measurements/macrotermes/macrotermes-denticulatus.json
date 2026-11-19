@@ -1,0 +1,135 @@
+{
+ "book_n": "300",
+ "book_name": "细齿大白蚊 Macrotermes denticulatus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "细齿大白蚊大兵蚁量度 ( mm)",
+   "label_en": "Major soldier measurements",
+   "label_es": "Medidas de soldado mayor",
+   "label_zh": "大兵蚁量度",
+   "rows": [
+    {
+     "key": "head_width_mandible_base",
+     "mean": "1.80",
+     "value": "1.73–1.86"
+    },
+    {
+     "key": "head_width_behind_antennae",
+     "mean": "2.53",
+     "value": "2.36–2.63"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "2.75",
+     "value": "2.59–2.91"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.80",
+     "value": "1.73–1.88"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.75",
+     "value": "0.68–0.79"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.52",
+     "value": "0.50–0.57"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "2.38",
+     "value": "2.25–2.49"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.88",
+     "value": "0.82–0.95"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.85",
+     "value": "1.82–1.86"
+    },
+    {
+     "key": "mesonotum_width",
+     "mean": "1.51",
+     "value": "1.41–1.59"
+    },
+    {
+     "key": "metanotum_width",
+     "mean": "1.70",
+     "value": "1.66–1.77"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 704,
+   "unit": "mm"
+  },
+  {
+   "caste": "soldier",
+   "heading": "细齿大白蚁小兵蚁量度 ( mm)",
+   "label_en": "Minor soldier measurements",
+   "label_es": "Medidas de soldado menor",
+   "label_zh": "小兵蚁量度",
+   "rows": [
+    {
+     "key": "head_width_mandible_base",
+     "mean": "1.02",
+     "value": "0.97–1.09"
+    },
+    {
+     "key": "head_width_behind_antennae",
+     "mean": "1.51",
+     "value": "1.46–1.66"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.70",
+     "value": "1.65–1.83"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.40",
+     "value": "1.32–1.47"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.34",
+     "value": "0.31–0.38"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.35",
+     "value": "1.26–1.43"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.62",
+     "value": "0.56–0.71"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.15",
+     "value": "1.11–1.20"
+    },
+    {
+     "key": "mesonotum_width",
+     "mean": "0.87",
+     "value": "0.82–0.94"
+    },
+    {
+     "key": "metanotum_width",
+     "mean": "1.03",
+     "value": "0.99–1.09"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 715,
+   "unit": "mm"
+  }
+ ]
+}

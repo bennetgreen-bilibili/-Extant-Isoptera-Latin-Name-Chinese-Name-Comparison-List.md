@@ -1,0 +1,101 @@
+{
+ "Lepidotermes amydrus": {
+  "label": "Lepidotermes amydrus Uys, 1994",
+  "match": "exact",
+  "notes": "",
+  "otu": 85079,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85079/overview",
+  "valid_label": null,
+  "valid_otu": 85079,
+  "verified": false
+ },
+ "Lepidotermes goliathi": {
+  "label": "Lepidotermes goliathi Williams, 1954",
+  "match": "exact",
+  "notes": "",
+  "otu": 85080,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85080/overview",
+  "valid_label": null,
+  "valid_otu": 85080,
+  "verified": false
+ },
+ "Lepidotermes lounsburyi": {
+  "label": "Lepidotermes lounsburyi (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85081,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85081/overview",
+  "valid_label": null,
+  "valid_otu": 85081,
+  "verified": false
+ },
+ "Lepidotermes mtwalumi": {
+  "label": "Lepidotermes mtwalumi (Fuller, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85082,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85082/overview",
+  "valid_label": null,
+  "valid_otu": 85082,
+  "verified": false
+ },
+ "Lepidotermes planifacies": {
+  "label": "Lepidotermes planifacies (Williams, 1954)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85083,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85083/overview",
+  "valid_label": null,
+  "valid_otu": 85083,
+  "verified": false
+ },
+ "Lepidotermes pretoriensis": {
+  "label": "Lepidotermes pretoriensis (Sjöstedt, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85084,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85084/overview",
+  "valid_label": null,
+  "valid_otu": 85084,
+  "verified": false
+ },
+ "Lepidotermes scalenus": {
+  "label": "Lepidotermes scalenus Uys, 1994",
+  "match": "exact",
+  "notes": "",
+  "otu": 85085,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85085/overview",
+  "valid_label": null,
+  "valid_otu": 85085,
+  "verified": false
+ },
+ "Lepidotermes simplex": {
+  "label": "Lepidotermes simplex (Holmgren, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85086,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85086/overview",
+  "valid_label": null,
+  "valid_otu": 85086,
+  "verified": false
+ },
+ "Lepidotermes vastus": {
+  "label": "Lepidotermes vastus Uys, 1994",
+  "match": "exact",
+  "notes": "",
+  "otu": 85087,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85087/overview",
+  "valid_label": null,
+  "valid_otu": 85087,
+  "verified": false
+ }
+}

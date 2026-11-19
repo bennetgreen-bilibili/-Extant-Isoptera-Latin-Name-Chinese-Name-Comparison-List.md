@@ -1,0 +1,25 @@
+{
+ "zh_name": "班代拉白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "肠瓣（P2）由三条近等大的锥形脊构成，脊上覆弯曲的刺；P3 以峡部与 P4 相连，峡部近端（subapically）插入。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头长形，长方形至近长方形，向前略收窄，侧缘与后缘微凸，后侧角宽圆。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头圆；后唇基中等膨大或更为膨大；触角 14 节。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0068",
+   "citation": "Rocha, M. M.; Cancello, E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138(4): 445–463. DOI: 10.11646/zootaxa.5138.4.6",
+   "locator": "p. 456–458，「Digestive tube」段；p. 456–458，「Soldier」段；p. 456–458，「Worker」段"
+  }
+ ],
+ "note": "原文 Imago 记为 Unknown；工蚁上颚（端齿大于缘齿、磨区无脊）与消化道其余特征原文有述，因每属引文限 3 条未引。"
+}

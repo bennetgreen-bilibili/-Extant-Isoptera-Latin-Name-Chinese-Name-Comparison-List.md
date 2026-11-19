@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "2006 年描述的新种",
+   "heading_en": "A species described in 2006",
+   "heading_es": "Una especie descrita en 2006",
+   "paragraphs": [
+    {
+     "src": [
+      "S0200"
+     ],
+     "text": "据摘要，Constantino 等（2006）修订厚唇白蚁属（<i>Labiotermes</i>）与副角白蚁属（<i>Paracornitermes</i>）时，把采自亚马逊地区的大厚唇白蚁（<i>Labiotermes guasu</i>）描述为新种，并给出兵蚁与工蚁检索表、全部种的分布图。",
+     "text_en": "According to the abstract, when Constantino et al. (2006) revised <i>Labiotermes</i> and <i>Paracornitermes</i> they described <i>Labiotermes guasu</i>, from the Amazon region, as a new species, and provided keys to soldiers and workers and distribution maps for all species.",
+     "text_es": "Según el resumen, cuando Constantino et al. (2006) revisaron <i>Labiotermes</i> y <i>Paracornitermes</i>, describieron <i>Labiotermes guasu</i>, procedente de la región amazónica, como especie nueva, y presentaron claves para soldados y obreros y mapas de distribución de todas las especies."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0200",
+   "citation": "Constantino, R., Acioli, A. N. S., Schmidt, K., Cuezzo, C., Carvalho, S. H. C. & Alexandre, A. (2006). A taxonomic revision of the Neotropical termite genera Labiotermes Holmgren and Paracornitermes Emerson (Isoptera, Termitidae, Syntermitinae). Zootaxa, 1340.",
+   "doi": "10.11646/zootaxa.1340.1.1"
+  }
+ ]
+}

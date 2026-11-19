@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "1949 年世界名录中的异名",
+   "paragraphs": [
+    {
+     "text": "根据 Snyder（1949）世界白蚁名录，长颚堆砂白蚁（Cryptotermes dudleyi）由 Banks（1918）据巴拿马标本描述，名录把堆砂白蚁属的旧亚属 Planocryptotermes nocens（马尼拉）、堆砂白蚁属的旧亚属组合 Cryptotermes (Planocryptotermes) javanicus（爪哇 Buitenzorg）、木白蚁属的旧组合 Calotermes (Cryptotermes) jacobsoni（爪哇、苏门答腊）等列为该种的异名。",
+     "src": [
+      "S0103"
+     ],
+     "text_en": "According to Snyder's (1949) world catalogue of termites, Cryptotermes dudleyi was described by Banks (1918) from Panama material, and the catalogue lists as synonyms of the species such names as Planocryptotermes nocens (an old subgenus of Cryptotermes; Manila), Cryptotermes (Planocryptotermes) javanicus (an old subgeneric combination of Cryptotermes; Buitenzorg, Java) and Calotermes (Cryptotermes) jacobsoni (an old combination of Kalotermes; Java, Sumatra).",
+     "text_es": "Según el catálogo mundial de termitas de Snyder (1949), Cryptotermes dudleyi fue descrita por Banks (1918) a partir de ejemplares de Panamá, y el catálogo incluye como sinónimos de la especie, entre otros, Planocryptotermes nocens (antiguo subgénero de Cryptotermes; Manila), Cryptotermes (Planocryptotermes) javanicus (antigua combinación subgenérica de Cryptotermes; Buitenzorg, Java) y Calotermes (Cryptotermes) jacobsoni (antigua combinación de Kalotermes; Java y Sumatra)."
+    }
+   ],
+   "heading_en": "Synonymy in the 1949 world catalogue",
+   "heading_es": "Sinónimos en el catálogo mundial de 1949"
+  },
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "据摘要，Gay 与 Watson（1982）把长颚堆砂白蚁（<i>Cryptotermes dudleyi</i>）记为澳大利亚的外来种；同一研究把第二堆砂白蚁（<i>Cryptotermes secundus</i>）从该种的异名中移出，改作澳大利亚特有种讨论。",
+     "text_en": "According to the abstract, Gay and Watson (1982) recorded <i>Cryptotermes dudleyi</i> as an introduced species in Australia; the same study removed <i>Cryptotermes secundus</i> from the synonymy of that species and treated it as an Australian endemic.",
+     "text_es": "Según el resumen, Gay y Watson (1982) registraron <i>Cryptotermes dudleyi</i> como especie introducida en Australia; el mismo estudio sacó <i>Cryptotermes secundus</i> de la sinonimia de esa especie y la trató como endémica de Australia.",
+     "src": [
+      "S0187"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0103",
+   "citation": "Snyder, T. E. 1949. Catalog of the Termites (Isoptera) of the World. Smithsonian Miscellaneous Collections 112.",
+   "url": "https://archive.org/details/in.ernet.dli.2015.26103"
+  },
+  {
+   "id": "S0187",
+   "citation": "F. J. Gay; J. A. L. Watson 1982 The genus Cryptotermes in Australia (Isoptera : Kalotermitidae). Australian Journal of Zoology Supplementary Series.",
+   "doi": "10.1071/ajzs088"
+  }
+ ]
+}

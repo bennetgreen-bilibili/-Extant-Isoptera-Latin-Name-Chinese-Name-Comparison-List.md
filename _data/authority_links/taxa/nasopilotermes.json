@@ -1,0 +1,24 @@
+{
+ "Nasopilotermes jiangxiensis": {
+  "gbif": {
+   "key": 9648630,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasopilotermes jiangxiensis (He, 1988)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45QMT",
+   "status": "accepted",
+   "label": "Nasopilotermes jiangxiensis (He, 1988)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077232",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

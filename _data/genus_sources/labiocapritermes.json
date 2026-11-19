@@ -1,0 +1,23 @@
+{
+ "latin": "Labiocapritermes",
+ "zh": "唇扭白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Labiocapritermes Krishna, 1968",
+ "type_species": "Capritermes distortus Silvestri, 1922 by original designation.",
+ "references": [
+  {
+   "ref": "Morimoto, 1975b: 31",
+   "note": "Labiocapritermes; key."
+  },
+  {
+   "ref": "Bose, 1984: 101, 103, 158",
+   "note": "Labiocapritermes; key; synonymy."
+  },
+  {
+   "ref": "Chhotani, 1997: 358–359",
+   "note": "Labiocapritermes; synonymy; characters; distribution and composition."
+  }
+ ],
+ "nrefs": 7
+}

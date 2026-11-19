@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "天然木材偏好",
+   "heading_en": "Natural wood preferences",
+   "heading_es": "Preferencias por maderas naturales",
+   "paragraphs": [
+    {
+     "src": [
+      "S0208"
+     ],
+     "text": "据摘要，Haverty 与 Nutting（1975）在 69 个随机样方中调查荒漠白蚁的天然取食，金黄异白蚁（<i>Heterotermes aureus</i>）取食约 13 种木材，偏好荒漠朴（desert hackberry）与 cholla 仙人掌的枯段；同一调查中，直头动白蚁（<i>Paraneotermes simplicicornis</i>）偏好牧豆树（mesquite）、catclaw acacia 与 cholla 桩，弓白蚁属（<i>Amitermes</i>）的 3 个种偏好 catclaw acacia 与 blue palo-verde。",
+     "text_en": "According to the abstract, Haverty and Nutting (1975) surveyed natural wood feeding in 69 random quadrats and found that <i>Heterotermes aureus</i> feeds on about 13 wood species, preferring desert hackberry and dead cholla cactus, whereas in the same survey <i>Paraneotermes simplicicornis</i> preferred mesquite, catclaw acacia and cholla stumps and three <i>Amitermes</i> species preferred catclaw acacia and blue palo-verde.",
+     "text_es": "Según el resumen, Haverty y Nutting (1975) estudiaron la alimentación natural en 69 cuadrantes aleatorios y hallaron que <i>Heterotermes aureus</i> consume unas 13 especies de madera y prefiere el hackberry del desierto y los tallos muertos de cholla, mientras que en el mismo estudio <i>Paraneotermes simplicicornis</i> prefirió mezquite, catclaw acacia y tocones de cholla, y tres especies de <i>Amitermes</i> prefirieron catclaw acacia y blue palo-verde."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0208",
+   "citation": "Haverty, M. I. & Nutting, W. L. (1975). Natural wood preferences of desert termites. Annals of the Entomological Society of America, 68(3).",
+   "doi": "10.1093/aesa/68.3.533"
+  }
+ ]
+}

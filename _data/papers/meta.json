@@ -1,0 +1,17 @@
+{
+ "generated": "2026-11-18T12:14:41Z",
+ "source": "OpenAlex + Crossref",
+ "api": "https://api.openalex.org/works",
+ "query": "title_and_abstract.search:\"<genus>\" + 白蚁语境限定（title_and_abstract.search:termite|isoptera|…）",
+ "per_genus": 12,
+ "counts": {
+  "genera": 326,
+  "papers": 1534,
+  "with_abstract": 1052,
+  "with_doi": 1187,
+  "abstract_truncated": 0
+ },
+ "abstract_policy": "完整摘要缓存；OpenAlex abstract_inverted_index 还原，Crossref JATS 摘要去标签补缺；超过 20000 字符才截断并置 abstract_truncated=true",
+ "license": "OpenAlex data CC0; abstract copyright remains with the original authors/publishers",
+ "generated_by": ".github/workflows/build_papers.py"
+}

@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "丘体与表土的理化差异",
+   "heading_en": "Physicochemical differences between mound and topsoil",
+   "heading_es": "Diferencias fisicoquímicas entre el montículo y el suelo superficial",
+   "paragraphs": [
+    {
+     "text": "根据 Durán Bautista 等（2025）研究，土栖帕塔瓦白蚁（<i>Patawatermes turricola</i>）丘体土壤的团聚体平均重量直径为 3.88 mm，距丘 5 m 的表土为 3.57 mm；丘体与表土的交换性酸（H⁺+Al³⁺）分别为 6.31 与 15.91 mmol kg⁻¹，交换性铝 14.02 与 20.61 mmol kg⁻¹，有效磷 15.92 与 7.65 mg kg⁻¹，盐基饱和度 73.0% 与 50.7%。",
+     "text_en": "According to the study by Durán Bautista et al. (2025), the mean weight diameter of aggregates was 3.88 mm in the mound soil of <i>Patawatermes turricola</i> and 3.57 mm in the topsoil 5 m away from the mound; exchangeable acidity (H⁺+Al³⁺) was 6.31 and 15.91 mmol kg⁻¹ in mound and topsoil respectively, exchangeable aluminium 14.02 and 20.61 mmol kg⁻¹, available phosphorus 15.92 and 7.65 mg kg⁻¹, and base saturation 73.0 % and 50.7 %.",
+     "text_es": "Según el estudio de Durán Bautista et al. (2025), el diámetro medio ponderado de los agregados fue de 3,88 mm en el suelo del montículo de <i>Patawatermes turricola</i> y de 3,57 mm en el suelo superficial situado a 5 m del montículo; la acidez intercambiable (H⁺+Al³⁺) fue de 6,31 y 15,91 mmol kg⁻¹ en el montículo y en el suelo superficial respectivamente, el aluminio intercambiable de 14,02 y 20,61 mmol kg⁻¹, el fósforo disponible de 15,92 y 7,65 mg kg⁻¹ y la saturación de bases del 73,0 % y del 50,7 %.",
+     "src": [
+      "S0363"
+     ]
+    },
+    {
+     "text": "该研究区位于哥伦比亚亚马逊西北部 1°37′N、75°36′W，海拔 300 m，属 Af 型热带雨林气候，年降水量约 3793 mm，土壤为淋溶、酸化且板结的红色老成土（Ultisols）。",
+     "text_en": "The study area lies at 1°37′N, 75°36′W, 300 m elevation, in the north-western Colombian Amazon, under an Af tropical rainforest climate with about 3793 mm of annual rainfall, on leached, acidic and compacted red Ultisols.",
+     "text_es": "El área de estudio se sitúa a 1°37′N, 75°36′O, 300 m de altitud, en el noroeste de la Amazonia colombiana, bajo un clima tropical húmedo de tipo Af con unos 3793 mm de precipitación anual, sobre Ultisoles rojos lixiviados, ácidos y compactados.",
+     "src": [
+      "S0363"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0363",
+   "citation": "Durán Bautista, E. H.; Silva-Olaya, A. M.; Llanos-Cabrera, M. P.; Yalanda-Sepúlveda, K.; Suárez, J. C. 2025. Soil-feeding termites build islands of soil physical and chemical fertility in pastures in Colombian Amazon. PLoS ONE.",
+   "url": "https://doi.org/10.1371/journal.pone.0322186"
+  }
+ ]
+}

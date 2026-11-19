@@ -1,0 +1,27 @@
+{
+ "latin": "Paraneotermes",
+ "zh": "近新白蚁属",
+ "family": "kalotermitidae",
+ "treatise": true,
+ "citation": "Paraneotermes Light, 1934f: 208.",
+ "type_species": "Kalotermes simplicicornis Banks, 1920 by monotypy.",
+ "references": [
+  {
+   "ref": "Roonwal and Sen-Sarma, 1960: 98, 99",
+   "note": "Paraneotermes; key."
+  },
+  {
+   "ref": "Krishna, 1961: 336–338",
+   "note": "Paraneotermes; generic characters; key; reference list; phylogeny; distribution."
+  },
+  {
+   "ref": "Weesner, 1965: 34, 35",
+   "note": "Paraneotermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 11",
+   "note": "Paraneotermes; key."
+  }
+ ],
+ "nrefs": 13
+}

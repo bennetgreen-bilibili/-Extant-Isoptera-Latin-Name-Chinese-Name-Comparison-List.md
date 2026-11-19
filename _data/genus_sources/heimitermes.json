@@ -1,0 +1,27 @@
+{
+ "latin": "Heimitermes",
+ "zh": "埃姆白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Heimitermes Grassé and Noirot, 1955a: 384–385.",
+ "type_species": "Heimitermes laticeps Grassé and Noirot, 1955 by monotypy.",
+ "references": [
+  {
+   "ref": "Emerson, 1959: 34–37",
+   "note": "Heimitermes; synonymy; soldier, worker described; relationships."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 27, 98, 99, pl. 17: fig. 51f",
+   "note": "Heimitermes; key; characters; worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 37",
+   "note": "Heimitermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 52, 129–131, figs. 358–366, pl. 4: fig. 2",
+   "note": "Heimitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution. Pugnitermes Emerson, 1955: 511 • Pugnitermes; listed [nomen nudum]."
+  }
+ ],
+ "nrefs": 5
+}

@@ -1,0 +1,39 @@
+{
+ "latin": "Ahmaditermes",
+ "zh": "钝颚白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Ahmaditermes Akhtar, 1975: 127–128.",
+ "type_species": "Ahmaditermes pyricephalus Akhtar, 1975 by original designation.",
+ "references": [
+  {
+   "ref": "Sen-Sarma and Verma, 1984: 92–93",
+   "note": "Bulbitermes; imago, soldier, worker described."
+  },
+  {
+   "ref": "Huang et al., 1989: 391, 540–541",
+   "note": "Ahmaditermes; key; characters; distribution."
+  },
+  {
+   "ref": "Gao et al., 1996: 89, 114–115",
+   "note": "Ahmaditermes; key; distribution."
+  },
+  {
+   "ref": "Chhotani, 1997: 686–687",
+   "note": "Ahmaditermes; synonymy; characters; distribution and composition; key to species."
+  },
+  {
+   "ref": "Bose, 1999: 26",
+   "note": "Ahmaditermes; key."
+  },
+  {
+   "ref": "Huang and Li, 1999: 317",
+   "note": "Ahmaditermes; key; characters."
+  },
+  {
+   "ref": "Huang et al., 2000: 547, 548, 869–870",
+   "note": "Ahmaditermes; key; characters; distribution."
+  }
+ ],
+ "nrefs": 9
+}

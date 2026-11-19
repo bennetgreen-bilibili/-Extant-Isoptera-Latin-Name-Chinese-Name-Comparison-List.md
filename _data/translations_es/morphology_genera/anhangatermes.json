@@ -1,0 +1,17 @@
+{
+ "note": "El original indica explícitamente «IMAGO - Unknown», por lo que no se incluye la sección del alado; el original contiene además caracteres sobre la pilosidad corporal, la fórmula de espinas tibiales 2:2:2 y el tubo digestivo que, al no estar cubiertos por las citas de esta sección, se omiten en el cuerpo del texto.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "La cápsula cefálica del soldado es ancha y redondeada, y el nasus, cilindrocónico, largo y delgado; el labro es corto e invisible en vista dorsal; las antenas tienen 13 segmentos y sobrepasan ligeramente el extremo del nasus; la anchura del pronoto es aproximadamente la mitad de la anchura de la cabeza. El obrero es monomórfico: la prominencia molar de la mandíbula izquierda es grande y redondeada, sin cresta, y el diente marginal 3 de la mandíbula derecha casi ha desaparecido."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cápsula cefálica ancha y redondeada; nasus cilindrocónico, largo y delgado; labro corto e invisible en vista dorsal; mandíbulas reducidas, sin diente apical; antenas de 13 segmentos, que sobrepasan ligeramente el extremo del nasus; anchura del pronoto aproximadamente la mitad de la anchura de la cabeza; cabeza casi glabra, con solo unas pocas setas en el vértice y pelos en el extremo del nasus."
+  },
+  {
+   "label": "Obrero",
+   "text": "Monomórfico; cápsula cefálica redondeada, con su mayor anchura en la parte anterior de la cabeza; posclípeo moderadamente dilatado; antenas de 14 segmentos; cabeza con pocas setas; diente apical de las mandíbulas desarrollado y borde interno cóncavo; prominencia molar de la mandíbula izquierda grande y redondeada, sin cresta; diente marginal 3 de la mandíbula derecha reducido y casi desaparecido; placa molar cóncava."
+  }
+ ]
+}

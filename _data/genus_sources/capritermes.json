@@ -1,0 +1,43 @@
+{
+ "latin": "Capritermes",
+ "zh": "扭白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Capritermes Wasmann, 1897b: 151 [first introduced as a subgenus of Termes Linneaus, 1758].",
+ "type_species": "Eutermes capricornis Wasmann, 1893 by original designation.",
+ "references": [
+  {
+   "ref": "Silvestri, 1903: 62",
+   "note": "Capritermes [part]; synonymy; characters."
+  },
+  {
+   "ref": "Escherich, 1909: 177",
+   "note": "Capritermes; characters."
+  },
+  {
+   "ref": "Wasmann, 1911c: 150",
+   "note": "Capritermes; key."
+  },
+  {
+   "ref": "Holmgren, 1912a: 114",
+   "note": "Capritermes [part]; characters; key; subgenera included; systematic position; Capritermes (Capritermes); key; species included."
+  },
+  {
+   "ref": "Sjöstedt, 1926d: 282",
+   "note": "Capritermes; reference list; key."
+  },
+  {
+   "ref": "Cachan, 1949: 186, 244",
+   "note": "Capritermes; key; synonymy."
+  },
+  {
+   "ref": "Lal and Menon, 1953: 36, 45",
+   "note": "Capritermes [part]; catalog; reference list; key."
+  },
+  {
+   "ref": "Webb, 1961: 11",
+   "note": "Capritermes; key."
+  }
+ ],
+ "nrefs": 24
+}

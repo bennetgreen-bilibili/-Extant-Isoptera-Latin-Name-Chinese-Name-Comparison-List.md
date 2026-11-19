@@ -1,0 +1,15 @@
+{
+ "latin": "Aganotermes",
+ "zh": "雅白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Aganotermes Sands, 1972: 135.",
+ "type_species": "Aganotermes oryctes Sands, 1972 by original designation.",
+ "references": [
+  {
+   "ref": "Sands, 1998: 58, 153–154, figs. 451–456, pl. 5: fig. 7",
+   "note": "Aganotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 1
+}

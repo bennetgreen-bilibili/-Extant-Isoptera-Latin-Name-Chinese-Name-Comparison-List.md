@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "亚马逊牧场的筑丘种与肥力岛",
+   "heading_en": "A mound builder and fertility islands in Amazonian pastures",
+   "heading_es": "Una constructora de montículos e islas de fertilidad en pastizales amazónicos",
+   "paragraphs": [
+    {
+     "text": "根据 Durán Bautista 等（2025）研究，帕塔瓦白蚁属（<i>Patawatermes</i>）的土栖帕塔瓦白蚁（<i>Patawatermes turricola</i>）是亚马逊地区常见的地上筑丘种，其丘体明显改变土壤的物理与化学性质：研究在哥伦比亚亚马逊西北部 3 块各 1.5 hm² 的尾稃草属（<i>Urochloa</i>）牧场中，于 2022 年 4 月设 20 条 20×2 m 样带，共记录 63 个丘体，其中 54 个鉴定为该种并取样（n = 54），推算密度约 6.75 个/公顷；丘体高约 30 cm。",
+     "text_en": "According to the study by Durán Bautista et al. (2025), the soil-feeding <i>Patawatermes turricola</i> is a common epigeal mound builder in Amazonia whose mounds markedly change the physical and chemical properties of the soil: in three 1.5 ha <i>Urochloa</i> pastures in the north-western Colombian Amazon, 20 transects of 20 × 2 m established in April 2022 recorded 63 mounds, 54 of which were identified as this species and sampled (n = 54), giving a density of about 6.75 mounds per hectare, the mounds being about 30 cm high.",
+     "text_es": "Según el estudio de Durán Bautista et al. (2025), la termita geófaga <i>Patawatermes turricola</i> es una constructora común de montículos epigeos en la Amazonia cuyos montículos modifican notablemente las propiedades físicas y químicas del suelo: en tres pastizales de <i>Urochloa</i> de 1,5 ha en el noroeste de la Amazonia colombiana, 20 transectos de 20 × 2 m establecidos en abril de 2022 registraron 63 montículos, de los cuales 54 fueron identificados como esta especie y muestreados (n = 54), lo que da una densidad de unos 6,75 montículos por hectárea, con una altura de unos 30 cm.",
+     "src": [
+      "S0363"
+     ]
+    },
+    {
+     "text": "同一研究把丘壁与距丘 5 m 的未扰动表土（0–10 cm）作对比，发现丘体土壤的大团聚体更稳定、交换性酸更低而盐基饱和度更高，据此认为土栖帕塔瓦白蚁（<i>Patawatermes turricola</i>）的丘体在养分贫瘠的牧场中形成土壤肥力岛。",
+     "text_en": "The same study compared the mound walls with undisturbed topsoil (0–10 cm) taken 5 m away from each mound and found that mound soil had more stable macro-aggregates, lower exchangeable acidity and higher base saturation, concluding that the mounds of <i>Patawatermes turricola</i> form islands of soil fertility in nutrient-poor pastures.",
+     "text_es": "El mismo estudio comparó las paredes de los montículos con el suelo superficial no alterado (0–10 cm) tomado a 5 m de cada montículo y halló que el suelo de los montículos presentaba macroagregados más estables, menor acidez intercambiable y mayor saturación de bases, por lo que concluyó que los montículos de <i>Patawatermes turricola</i> forman islas de fertilidad edáfica en pastizales pobres en nutrientes.",
+     "src": [
+      "S0363"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0363",
+   "citation": "Durán Bautista, E. H.; Silva-Olaya, A. M.; Llanos-Cabrera, M. P.; Yalanda-Sepúlveda, K.; Suárez, J. C. 2025. Soil-feeding termites build islands of soil physical and chemical fertility in pastures in Colombian Amazon. PLoS ONE.",
+   "url": "https://doi.org/10.1371/journal.pone.0322186"
+  }
+ ]
+}

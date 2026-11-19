@@ -1,0 +1,24 @@
+{
+ "Glossotermes oculatus": {
+  "label": "Glossotermes oculatus Emerson, 1950",
+  "match": "exact",
+  "notes": "",
+  "otu": 656661,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/656661/overview",
+  "valid_label": null,
+  "valid_otu": 656661,
+  "verified": false
+ },
+ "Glossotermes sulcatus": {
+  "label": "Glossotermes sulcatus Cancello & DeSouza, 2005",
+  "match": "exact",
+  "notes": "",
+  "otu": 83483,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83483/overview",
+  "valid_label": null,
+  "valid_otu": 83483,
+  "verified": false
+ }
+}

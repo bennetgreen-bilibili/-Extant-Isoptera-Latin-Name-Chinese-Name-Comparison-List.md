@@ -1,0 +1,48 @@
+{
+ "book_n": "398",
+ "book_name": "勐仑近针白蚊 Periaciculitermes menglunensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "勐仑近针白蚁兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_nasus",
+     "mean": "1.53",
+     "value": "1.47–1.60"
+    },
+    {
+     "key": "head_length_without_nasus",
+     "mean": "0.88",
+     "value": "0.84–0.99"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "0.80",
+     "value": "0.73–0.85"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.16",
+     "value": "0.14–0.17"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.42",
+     "value": "0.40–0.44"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.79",
+     "value": "0.78–0.80"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 194,
+   "unit": "mm"
+  }
+ ]
+}

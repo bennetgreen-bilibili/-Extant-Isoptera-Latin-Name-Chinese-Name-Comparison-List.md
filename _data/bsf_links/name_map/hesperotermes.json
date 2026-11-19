@@ -1,0 +1,13 @@
+{
+ "Hesperotermes infrequens": {
+  "label": "Hesperotermes infrequens (Hill, 1927)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85442,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85442/overview",
+  "valid_label": null,
+  "valid_otu": 85442,
+  "verified": false
+ }
+}

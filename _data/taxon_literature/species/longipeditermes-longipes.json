@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "白昼觅食队列",
+   "heading_en": "Diurnal foraging columns",
+   "heading_es": "Columnas de forrajeo diurnas",
+   "paragraphs": [
+    {
+     "src": [
+      "S0269"
+     ],
+     "text": "根据 Hoare 与 Jones（1998）研究，东南亚的长足长足白蚁（<i>Longipeditermes longipes</i>）白天在地面以上沿高度组织化的工蚁队列觅食，队列由大量兵蚁护卫；婆罗洲南部加里曼丹一个群体的观察显示，15 个观察日中有 7 天见到觅食队列，连续活动日之间夹杂不活动期（据摘要）。",
+     "text_en": "According to Hoare and Jones (1998), <i>Longipeditermes longipes</i> in Southeast Asia forages during the day above ground along highly organized columns of workers, which are guarded by numerous soldiers; observations of one colony in South Kalimantan, Borneo, showed foraging columns on 7 of 15 observation days, with periods of inactivity between successive active days (according to the abstract).",
+     "text_es": "Según Hoare y Jones (1998), <i>Longipeditermes longipes</i> en el sudeste asiático forrajea durante el día por encima del suelo a lo largo de columnas de obreras muy organizadas, custodiadas por numerosos soldados; las observaciones de una colonia en Kalimantan del Sur, Borneo, mostraron columnas de forrajeo en 7 de 15 días de observación, con periodos de inactividad entre días activos consecutivos (según el resumen)."
+    },
+    {
+     "src": [
+      "S0269"
+     ],
+     "text": "队列沿蚁道往返取食点，并在连续数日重复使用同一蚁道，蚁道长度变化于 7.0–14.5 m；工蚁取食落叶层与腐木树干，在啃咬植物材料与把碎屑搬回巢之间分工。作者同时把长足白蚁属（<i>Longipeditermes</i>）的旧异名 <i>Longipeditermes mandibulatus</i> 认定为该种的次异名（据摘要）。",
+     "text_en": "The columns travel to and from feeding sites along trails and reuse the same trail for several consecutive days, with trail length varying from 7.0 to 14.5 m; workers feed in the leaf litter and on decaying tree trunks, dividing the work between gnawing plant material and carrying fragments back to the nest. The authors also recognize <i>Longipeditermes mandibulatus</i>, an old synonym of <i>Longipeditermes</i>, as a junior synonym of this species (according to the abstract).",
+     "text_es": "Las columnas van y vienen a los sitios de alimentación a lo largo de pistas y reutilizan la misma pista durante varios días consecutivos, con longitudes que varían de 7,0 a 14,5 m; las obreras se alimentan en la hojarasca y en troncos de árboles en descomposición, repartiéndose el trabajo entre roer el material vegetal y transportar los fragmentos al nido. Los autores reconocen además <i>Longipeditermes mandibulatus</i>, un antiguo sinónimo de <i>Longipeditermes</i>, como sinónimo más moderno de esta especie (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0269",
+   "citation": "Hoare, A.; Jones, D. 1998. Notes on the foraging behaviour and taxonomy of the southeast Asian termiteLongipeditermes longipes(Termitidae: Nasutitermitinae). Journal of Natural History.",
+   "doi": "10.1080/00222939800770681"
+  }
+ ]
+}

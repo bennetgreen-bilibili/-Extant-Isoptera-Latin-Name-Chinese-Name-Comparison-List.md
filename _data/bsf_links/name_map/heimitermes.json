@@ -1,0 +1,24 @@
+{
+ "Heimitermes laticeps": {
+  "label": "Heimitermes laticeps Noirot & Grassé, 1955",
+  "match": "exact",
+  "notes": "",
+  "otu": 84101,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84101/overview",
+  "valid_label": null,
+  "valid_otu": 84101,
+  "verified": false
+ },
+ "Heimitermes moorei": {
+  "label": "Heimitermes moorei Emerson, 1959",
+  "match": "exact",
+  "notes": "",
+  "otu": 84102,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84102/overview",
+  "valid_label": null,
+  "valid_otu": 84102,
+  "verified": false
+ }
+}

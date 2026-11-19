@@ -1,0 +1,13 @@
+{
+ "Oriencapritermes kluangensis": {
+  "label": "Oriencapritermes kluangensis Ahmad & Akhtar, 1981",
+  "match": "exact",
+  "notes": "",
+  "otu": 85672,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85672/overview",
+  "valid_label": null,
+  "valid_otu": 85672,
+  "verified": false
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Planicapritermes longilabrum": {
+  "gbif": {
+   "key": 9742805,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Planicapritermes longilabrum Constantino, 1998",
+   "accepted": null
+  },
+  "col": {
+   "id": "4JJW3",
+   "status": "accepted",
+   "label": "Planicapritermes longilabrum Constantino, 1998",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084146",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Planicapritermes planiceps": {
+  "gbif": {
+   "key": 9450536,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Planicapritermes planiceps (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4JJW4",
+   "status": "accepted",
+   "label": "Planicapritermes planiceps (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084148",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

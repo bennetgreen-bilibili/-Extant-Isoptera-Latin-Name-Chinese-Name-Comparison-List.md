@@ -1,0 +1,33 @@
+{
+ "latin": "Rounditermes",
+ "zh": "胖白蚁属",
+ "fetched_at": "2026-10-30T16:54:34Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2980788749",
+   "openalex_url": "https://openalex.org/W2980788749",
+   "doi": "10.3406/bsef.2003.16919",
+   "doi_url": "https://doi.org/10.3406/bsef.2003.16919",
+   "title": "Rounditermes dechambrei, a new genus and species of Nasutitermitinae from French Guiana (Isopt., Termitidae)",
+   "year": 2003,
+   "date": "2003-01-01",
+   "authors": [
+    "Alireza Ensaf",
+    "Yannig Ponchel",
+    "André Nel"
+   ],
+   "venue": "Bulletin de la Société entomologique de France",
+   "type": "article",
+   "language": "fr",
+   "cited_by": 1,
+   "oa_url": "https://www.persee.fr/doc/bsef_0037-928x_2003_num_108_1_16919",
+   "volume": "108",
+   "issue": "1",
+   "pages": "53-54",
+   "abstract": "Ensaf Alireza, Ponchel Yannig, Nel André. Rounditermes dechambrei, a new genus and species of Nasutitermitinae from French Guiana (Isopt., Termitidae). In: Bulletin de la Société entomologique de France, volume 108 (1), mars 2003. pp. 53-54.",
+   "abstract_source": "openalex",
+   "abstract_chars": 241,
+   "abstract_truncated": false
+  }
+ ]
+}

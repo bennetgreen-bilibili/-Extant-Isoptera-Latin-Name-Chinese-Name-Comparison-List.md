@@ -1,0 +1,25 @@
+{
+ "zh_name": "锥白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫头卵形、囟近头中部、脑部甚发达（Taf. III, Fig. 9），左上颚第 1 齿明显大于第 2 齿；兵蚁上颚完全无端突、鼻窄圆柱形、触角多为 12 节、额面轮廓几乎平直、头壳在触角窝后不缢缩。Holmgren 明确指出：正因本属鼻呈圆柱形且极窄，不能把 Subulitermes 视为该支的原始类型；它与 Convexitermes 都因体形细长、脑发达而偏离，只是后者仍保留粗鼻。系统学讨论还称整个 Subulitermes 支具大唇基，并把本属置于该支末端。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头卵形；囟约在头中部；脑部（Gehirn）甚发达；唇基约与半宽等长，或较短而强烈隆起，卵形，淡黄色；左上颚第 1 齿明显大于第 2 齿；触角节相对较长。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "上颚无端突；属小型种，触角 11–12 节，通常 12 节；鼻圆柱形、窄；额面轮廓几乎平直；头壳在触角窝后不缢缩。"
+  }
+ ],
+ "note": "原文只有检索表对句；Holmgren（p. 68）讨论本属的原始性问题，认为窄圆柱形鼻是衍生性状，并把本属放在该支的末端（「Gipfel」由 Subulitermes 占据）。无测量、体色与工蚁记述。",
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren, N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar, 48(4): 59–62, 68–72.",
+   "locator": "p. 59（有翅成虫检索表 B/a/b），p. 61（兵蚁检索表 cc），p. 68（系统学讨论）"
+  }
+ ]
+}

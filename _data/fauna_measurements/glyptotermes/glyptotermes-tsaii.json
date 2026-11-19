@@ -1,0 +1,63 @@
+{
+ "book_n": "43",
+ "book_name": "蔡氏树白蚁 Glyptotermestsaii",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "蔡氏树白蚊有翅成虫体部量度 ( mm)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "12.57",
+     "value": "12.00–13.42"
+    },
+    {
+     "key": "body_length_without_wings",
+     "mean": "7.79",
+     "value": "7.42–8.71"
+    },
+    {
+     "key": "forewing_length",
+     "mean": "10.38",
+     "value": "9.87–10.90"
+    },
+    {
+     "key": "eye_long_diameter",
+     "mean": "0.37",
+     "value": "0.33–0.39"
+    },
+    {
+     "key": "eye_head_lower_margin",
+     "mean": "0.23",
+     "value": "0.20–0.26"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "mean": "0.033",
+     "value": "0.033"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.72",
+     "value": "0.68–0.78"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.42",
+     "value": "1.37–1.47"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.29",
+     "value": "1.21–1.37"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 947,
+   "unit": "mm"
+  }
+ ]
+}

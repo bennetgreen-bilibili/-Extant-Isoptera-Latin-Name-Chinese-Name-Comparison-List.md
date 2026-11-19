@@ -1,0 +1,40 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "蚁丘养分周转与牧场中的消失",
+   "heading_en": "Mound nutrient turnover and disappearance from pasture",
+   "heading_es": "Reciclaje de nutrientes del montículo y desaparición en pastizales",
+   "paragraphs": [
+    {
+     "src": [
+      "S0150"
+     ],
+     "text": "据摘要，根据 Coventry 等（1988）研究，昆士兰 Charters Towers 附近半干旱疏林中，挖掘冢白蚁（<i>Tumulitermes pastinator</i>）与全黑镰白蚁、凶残弓白蚁同域筑丘，其丘内养分水平为 A1 土层的 2–7 倍。",
+     "text_en": "According to the abstract, Coventry et al. (1988) reported that in the semi-arid open forest near Charters Towers, Queensland, <i>Tumulitermes pastinator</i> builds mounds in the same area as <i>Drepanotermes perniger</i> and <i>Amitermes vitiosus</i>, with mound nutrient levels 2–7 times those of the A1 horizon.",
+     "text_es": "Según el resumen, Coventry et al. (1988) señalaron que en el bosque abierto semiárido cerca de Charters Towers, Queensland, <i>Tumulitermes pastinator</i> construye montículos en la misma zona que <i>Drepanotermes perniger</i> y <i>Amitermes vitiosus</i>, con niveles de nutrientes en los montículos 2–7 veces los del horizonte A1."
+    },
+    {
+     "src": [
+      "S0272"
+     ],
+     "text": "同一项调查中，挖掘冢白蚁（<i>Tumulitermes pastinator</i>）也未被采到；作者把它的缺席与全黑镰白蚁同因处理，即牧场缺少可接受的食物（据摘要）。",
+     "text_en": "In the same survey <i>Tumulitermes pastinator</i> was also not collected; the authors explained its absence, as that of <i>Drepanotermes perniger</i>, by the lack of acceptable food in the pasture (according to the abstract).",
+     "text_es": "En el mismo muestreo tampoco se recolectó <i>Tumulitermes pastinator</i>; los autores explicaron su ausencia, igual que la de <i>Drepanotermes perniger</i>, por la falta de alimento aceptable en el pastizal (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0150",
+   "citation": "Coventry, R. J.; Holt, J.; Sinclair, D. 1988. Nutrient cycling by mound building termites in low fertility soils of semi-arid tropical Australia. Soil Research.",
+   "doi": "10.1071/sr9880375"
+  },
+  {
+   "id": "S0272",
+   "citation": "Holt, J.; Coventry, R. J. 1988. The effects of tree clearing and pasture establishment on a population of mound‐building termites (Isoptera) in North Queensland. Australian Journal of Ecology.",
+   "doi": "10.1111/j.1442-9993.1988.tb00980.x"
+  }
+ ]
+}

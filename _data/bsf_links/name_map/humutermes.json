@@ -1,0 +1,24 @@
+{
+ "Humutermes krishnai": {
+  "label": "Humutermes krishnai Bourguignon & Roisin, 2016",
+  "match": "exact",
+  "notes": "",
+  "otu": 1131105,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1131105/overview",
+  "valid_label": null,
+  "valid_otu": 1131105,
+  "verified": false
+ },
+ "Humutermes noiroti": {
+  "label": "Humutermes noiroti Bourguignon & Roisin, 2016",
+  "match": "exact",
+  "notes": "",
+  "otu": 1131106,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1131106/overview",
+  "valid_label": null,
+  "valid_otu": 1131106,
+  "verified": false
+ }
+}

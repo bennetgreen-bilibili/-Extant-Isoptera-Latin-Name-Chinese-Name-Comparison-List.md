@@ -1,0 +1,156 @@
+{
+ "Cornitermes acignathus": {
+  "label": "Cornitermes acignathus Silvestri, 1901",
+  "match": "exact",
+  "notes": "",
+  "otu": 84176,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84176/overview",
+  "valid_label": null,
+  "valid_otu": 84176,
+  "verified": false
+ },
+ "Cornitermes bequaerti": {
+  "label": "Cornitermes bequaerti Emerson, 1952",
+  "match": "exact",
+  "notes": "",
+  "otu": 84177,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84177/overview",
+  "valid_label": null,
+  "valid_otu": 84177,
+  "verified": false
+ },
+ "Cornitermes bolivianus": {
+  "label": "Cornitermes bolivianus Snyder, 1926",
+  "match": "exact",
+  "notes": "",
+  "otu": 84178,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84178/overview",
+  "valid_label": null,
+  "valid_otu": 84178,
+  "verified": false
+ },
+ "Cornitermes cumulans": {
+  "label": "Cornitermes cumulans (Kollar, 1832)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84179,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84179/overview",
+  "valid_label": null,
+  "valid_otu": 84179,
+  "verified": false
+ },
+ "Cornitermes falcatus": {
+  "label": "Cornitermes falcatus Emerson, 1952",
+  "match": "exact",
+  "notes": "",
+  "otu": 84180,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84180/overview",
+  "valid_label": null,
+  "valid_otu": 84180,
+  "verified": false
+ },
+ "Cornitermes incisus": {
+  "label": "Cornitermes incisus Emerson, 1952",
+  "match": "exact",
+  "notes": "",
+  "otu": 84181,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84181/overview",
+  "valid_label": null,
+  "valid_otu": 84181,
+  "verified": false
+ },
+ "Cornitermes ovatus": {
+  "label": "Cornitermes ovatus Emerson, 1952",
+  "match": "exact",
+  "notes": "",
+  "otu": 84182,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84182/overview",
+  "valid_label": null,
+  "valid_otu": 84182,
+  "verified": false
+ },
+ "Cornitermes pilosus": {
+  "label": "Cornitermes pilosus Holmgren, 1906",
+  "match": "exact",
+  "notes": "",
+  "otu": 84183,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84183/overview",
+  "valid_label": null,
+  "valid_otu": 84183,
+  "verified": false
+ },
+ "Cornitermes pugnax": {
+  "label": "Cornitermes pugnax Emerson, 1925",
+  "match": "exact",
+  "notes": "",
+  "otu": 84184,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84184/overview",
+  "valid_label": null,
+  "valid_otu": 84184,
+  "verified": false
+ },
+ "Cornitermes silvestrii": {
+  "label": "Cornitermes silvestrii Emerson, 1949",
+  "match": "exact",
+  "notes": "",
+  "otu": 84185,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84185/overview",
+  "valid_label": null,
+  "valid_otu": 84185,
+  "verified": false
+ },
+ "Cornitermes snyderi": {
+  "label": "Cornitermes snyderi Emerson, 1952",
+  "match": "exact",
+  "notes": "",
+  "otu": 84186,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84186/overview",
+  "valid_label": null,
+  "valid_otu": 84186,
+  "verified": false
+ },
+ "Cornitermes villosus": {
+  "label": "Cornitermes villosus Emerson, 1952",
+  "match": "exact",
+  "notes": "",
+  "otu": 84187,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84187/overview",
+  "valid_label": null,
+  "valid_otu": 84187,
+  "verified": false
+ },
+ "Cornitermes walkeri": {
+  "label": "Cornitermes walkeri Snyder, 1929",
+  "match": "exact",
+  "notes": "",
+  "otu": 84188,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84188/overview",
+  "valid_label": null,
+  "valid_otu": 84188,
+  "verified": false
+ },
+ "Cornitermes weberi": {
+  "label": "Cornitermes weberi Emerson, 1952",
+  "match": "exact",
+  "notes": "",
+  "otu": 84189,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84189/overview",
+  "valid_label": null,
+  "valid_otu": 84189,
+  "verified": false
+ }
+}

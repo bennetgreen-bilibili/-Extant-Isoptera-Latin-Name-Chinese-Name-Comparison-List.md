@@ -1,0 +1,25 @@
+{
+ "zh_name": "澳大利亚白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫左颚指数 1.54，为澳大利亚 Subulitermes 支系中最高者（Macrosubulitermes 1.07）；囟长而狭卵形、末端不分叉；后唇基长大于宽之半。兵蚁单型，头有一小的收缩，前胸背板侧轮廓在前叶与基部之间呈近直角的锐角。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "单型；头有一小的收缩，背面观与侧面观均可见；前胸背板侧轮廓在前叶与基部之间呈近直角的锐角。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "眼与单眼大，单眼与眼缝的距离小于其宽度，其长 0.15 mm，大于触角基窝直径 0.12 mm；囟长而狭卵形，末端无明显分叉；后唇基长远大于宽之半（长 0.32 mm，宽 0.50 mm）；触角 15 节，第 3 节长于第 4 节，第 4 节长于第 2 节；左颚指数 1.54（Macrosubulitermes 1.07），为澳大利亚 Subulitermes 支系中最高。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0081",
+   "citation": "Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.",
+   "locator": "pp. 24-26"
+  }
+ ],
+ "note": "属级描述未给出可独立引用的工蚁性状，故不设「工蚁」一节；有翅成虫前胸背板宽度、右颚第 2 缘齿退化与胫节距 2:2:2 未入本次引文限额，未写入正文。"
+}

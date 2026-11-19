@@ -21,7 +21,7 @@
       "reliability": "peer_reviewed",      # primary|peer_reviewed|official|reference|secondary|unverified
       "url": "https://...",                # 或 doi / file_path（至少一个）
       "doi": "10.1234/xyz",
-      "file_path": "_data/papers.json",    # 仅本地来源；自动算 sha256
+      "file_path": "_data/papers/meta.json",  # 仅本地来源；自动算 sha256
       "authors": ["..."], "year": 2024, "publisher": "...", "lang": "en",
       "license": "CC-BY-4.0",
       "retrieved_via": "web_fetch",
@@ -85,6 +85,23 @@ def rel(root: Path, path: Path) -> str:
         return path.resolve().relative_to(root.resolve()).as_posix()
     except ValueError:
         return path.as_posix()
+
+
+_SHARD_LEGACY = re.compile(r"^_data/([A-Za-z0-9_]+)\.json$")
+
+
+def used_in_exists(root: Path, target: str) -> bool:
+    """True when a used_in path exists, allowing `_data/<name>.json` to resolve to `_data/<name>/`.
+
+    The big `_data` files were split into per-taxon shards (`_tools/data_shards.md`);
+    older ledger records still name the aggregate file, which is now its shard directory.
+    """
+    if (root / target).exists():
+        return True
+    m = _SHARD_LEGACY.match(target)
+    if m and (root / "_data" / m.group(1)).is_dir():
+        return True
+    return False
 
 
 def sha256_file(path: Path) -> str:
@@ -836,7 +853,7 @@ def cmd_check(args: argparse.Namespace) -> int:
             if os.path.isabs(target) or target.startswith("../"):
                 errors.append(f"[E008] {label}: used_in 必须是仓库内相对路径：{target}")
                 continue
-            if not (root / target).exists():
+            if not used_in_exists(root, target):
                 warnings.append(f"[W001] {label}: used_in 指向的文件不存在：{target}")
 
         for chunk in (rec.get("library") or {}).get("chunks", []):

@@ -1,0 +1,25 @@
+{
+ "zh_name": "奥斯本尖齿白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 Hoplognathotermes 近缘而兵蚁可别：头部硕大、两侧微凸而近平行；后颏更呈球状，侧缘重叠遮蔽侧缝；后唇基与额之间的缝远不明显；上唇具较锐的侧尖与中尖；上颚前指齿更长、更尖、更前指；前胸背板前叶更大更长，前缘中凹更深更宽；前足腿节相对长而细。有翅成虫未知。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头面仅少数相当短的刚毛，囟附近无刚毛；后颏完全无毛、无刚毛；前 4 腹背板具相当长的刚毛，几无短毛，后部背板与腹板另有短毛。头硕大，两侧微凸而近平行，囟较小。后颏较 Hoplognathotermes 更呈球状，后部侧缘重叠，腹视时除近后缘处外侧缝被遮蔽；后颏后部无横脊。触角 15 节。后唇基与额部之间的缝远不如 Hoplognathotermes 明显。上唇具较锐的侧尖与中尖。左右上颚均具显著的前指齿，但较 Hoplognathotermes 更长、更尖、更前指；上颚近端外弯较弱；端部与基部分界处侧面的缺刻较不显著。前胸背板前叶较 Hoplognathotermes 更大更长，前缘中凹更显著、更宽，后缘更凹。前足基节简单，纵脊钝、中等锐，剖面直或微凸，无粗刺；前足腿节相对长而细。端距 3:2:2。"
+  },
+  {
+   "label": "工蚁",
+   "text": "上颚与 Hoplognathotermes 的差别为：两颚端齿与第一缘齿之间的夹角更锐；左颚第一、二缘齿的切缘比例略长；右上颚臼区上脊更锐、更凹。"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。",
+ "sources": [
+  {
+   "id": "S0034",
+   "citation": "Emerson A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43.",
+   "locator": "pp. 20–21（Soldier、Worker）"
+  }
+ ]
+}

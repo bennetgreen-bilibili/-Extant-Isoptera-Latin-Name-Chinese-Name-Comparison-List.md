@@ -1,0 +1,23 @@
+{
+ "latin": "Ampoulitermes",
+ "zh": "安瓿白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Ampoulitermes Mathur and Thapa, 1962b: 49–50.",
+ "type_species": "Ampoulitermes wynaadensis Mathur and Thapa, 1962 by original designation.",
+ "references": [
+  {
+   "ref": "Sen-Sarma and Verma, 1984: 94–95",
+   "note": "Ampoulitermes; key; soldier, worker described."
+  },
+  {
+   "ref": "Bose, 1984: 103, 230",
+   "note": "Ampoulitermes; key; synonymy; remarks."
+  },
+  {
+   "ref": "Chhotani, 1997: 698–699",
+   "note": "Ampoulitermes; synonymy; characters; distribution and composition."
+  }
+ ],
+ "nrefs": 7
+}

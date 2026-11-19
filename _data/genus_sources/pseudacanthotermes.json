@@ -1,0 +1,43 @@
+{
+ "latin": "Pseudacanthotermes",
+ "zh": "伪刺白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Pseudacanthotermes Sjöstedt, 1924b: 256 [Genus-group name available by indication of available type species].",
+ "type_species": "Termes militaris Hagen, 1858 by original designation.",
+ "references": [
+  {
+   "ref": "Sjöstedt, 1926d: 60, 62",
+   "note": "Pseudacanthotermes; key; reference list."
+  },
+  {
+   "ref": "Emerson, 1928b: 406, 418",
+   "note": "Acanthotermes (Pseudacanthotermes); key; distribution."
+  },
+  {
+   "ref": "Harris, 1941: 202",
+   "note": "Pseudacanthotermes; key."
+  },
+  {
+   "ref": "Weidner, 1956b: 66, 72–73",
+   "note": "Pseudacanthotermes; key; characters."
+  },
+  {
+   "ref": "Webb, 1961: 10",
+   "note": "Pseudocanthotermes [sic]; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 32, 86, 87, pl. 11: fig. 28c",
+   "note": "Pseudacanthotermes; key; characters; imago/worker mandibles figured."
+  },
+  {
+   "ref": "Harris, 1968c: 7",
+   "note": "Pseudacanthotermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 17",
+   "note": "Pseudacanthotermes; key."
+  }
+ ],
+ "nrefs": 27
+}

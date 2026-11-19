@@ -1,0 +1,178 @@
+{
+ "Silvestritermes almirsateri": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Silvestritermes Rocha & Cancello, 2012",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CHH9B",
+   "status": "accepted",
+   "label": "Silvestritermes almirsateri Rocha & Cancello, 2012",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140727727",
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Silvestritermes duende": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Silvestritermes Rocha & Cancello, 2012",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CHH9C",
+   "status": "accepted",
+   "label": "Silvestritermes duende Rocha & Cancello, 2012",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140873558",
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Silvestritermes euamignathus": {
+  "gbif": {
+   "key": 10707510,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Silvestritermes euamignathus",
+   "accepted": null
+  },
+  "col": {
+   "id": "CHH9D",
+   "status": "accepted",
+   "label": "Silvestritermes euamignathus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140871353",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Silvestritermes gnomus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Silvestritermes Rocha & Cancello, 2012",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CHH9F",
+   "status": "accepted",
+   "label": "Silvestritermes gnomus (Constantino, 1991)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140759144",
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Silvestritermes heyeri": {
+  "gbif": {
+   "key": 11664663,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Silvestritermes heyeri",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Silvestritermes Rocha & Cancello, 2012",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q140758212",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Silvestritermes lanei": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Silvestritermes Rocha & Cancello, 2012",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CHH9H",
+   "status": "accepted",
+   "label": "Silvestritermes lanei (Canter, 1968)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140745185",
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Silvestritermes minutus": {
+  "gbif": {
+   "key": 9635608,
+   "status": "SYNONYM",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Silvestritermes minutus (Emerson, 1925)",
+   "accepted": {
+    "key": 9801261,
+    "name": "Armitermes minutus Emerson, 1925",
+    "status": null,
+    "rank": "SPECIES"
+   }
+  },
+  "col": {
+   "id": "CHH9J",
+   "status": "accepted",
+   "label": "Silvestritermes minutus (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140760252",
+  "flags": [
+   "gbif_synonym"
+  ],
+  "_d": "2026-10-28"
+ }
+}

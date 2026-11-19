@@ -32,6 +32,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "_tools"))
+import shard_io  # noqa: E402
+
 TAXONOMY = ROOT / "_data" / "taxonomy.json"
 BLOCKS = ROOT / "_data" / "list_index_blocks.json"
 SPECIES_DIR = ROOT / "_species"
@@ -525,7 +528,7 @@ def index_page(language: str, taxonomy, blocks):
 def render():
     taxonomy = json.loads(read(TAXONOMY))
     blocks = json.loads(read(BLOCKS))
-    prose = json.loads(read(ROOT / "_data" / "taxon_prose.json"))
+    prose = shard_io.load("taxon_prose")
     outputs = {
         LIST_MD: index_page("zh", taxonomy, blocks),
         LIST_MD_EN: index_page("en", taxonomy, blocks),

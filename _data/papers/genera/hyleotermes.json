@@ -1,0 +1,33 @@
+{
+ "latin": "Hyleotermes",
+ "zh": "森林白蚁属",
+ "fetched_at": "2026-10-30T16:53:47Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W4303942468",
+   "openalex_url": "https://openalex.org/W4303942468",
+   "doi": "10.11646/zootaxa.5195.1.4",
+   "doi_url": "https://doi.org/10.11646/zootaxa.5195.1.4",
+   "title": "Revised systematic position of Nasutitermes brevipilus Emerson, 1925 (Isoptera: Termitidae: Nasutitermitinae) and the designation of Hyleotermes gen. nov.",
+   "year": 2022,
+   "date": "2022-10-09",
+   "authors": [
+    "Carolina Cuezzo",
+    "Rudolf H. Scheffrahn",
+    "Reginaldo Constantino"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 1,
+   "oa_url": "https://www.mapress.com/zt/article/download/zootaxa.5195.1.4/48761",
+   "volume": "5195",
+   "issue": "1",
+   "pages": "73-86",
+   "abstract": "A new monotypic nasute termite genus, Hyleotermes gen. nov., is proposed for Nasutitermes brevipilus Emerson, 1925. Hyleotermes brevipilus, comb. nov., is redescribed and illustrated based on the morphology of the imago, soldier, and worker castes. It is expanded into Amazonia. The soldier of Hyleotermes differs from that of Nasutitermes Dudley, 1890 in that the former has a long and cylindrical nasus and the head capsule lacks long setae and is covered with microscopic setae. Unlike the worker of Nasutitermes, the Hyleotermes worker has a short mixed segment and an enteric valve is adorned with narrow spines on conical bases. The phylogenetic position of H. brevipilus comb nov., is reconstructed based on a dataset with two mitochondrial markers (COI and 16SrRNA) for 36 terminals, under maximum likelihood and Bayesian inference. Results corroborate that this species is unrelated to Nasutitermes and should be excluded from the genus.",
+   "abstract_source": "openalex",
+   "abstract_chars": 946,
+   "abstract_truncated": false
+  }
+ ]
+}

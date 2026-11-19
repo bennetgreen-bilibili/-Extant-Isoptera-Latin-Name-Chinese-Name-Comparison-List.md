@@ -1,0 +1,25 @@
+{
+ "zh_name": "粗壮拜拉白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "本属工蚁砂囊第一级垫（pulvillus I）具显著刺；在 Syntermitinae 中，只有 Biratermes、Mapinguaritermes 与 Ibitermes 三属的工蚁具此显著垫刺，其余各属均无。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "据原文，本属兵蚁外部形态沿用 Constantino (1992) 的描述；原文对本修订所立三个新属的共同记述为：上颚刀状而粗壮，前足基节表面光滑（作为对比，Embiratermes s.s. 上颚为具尖端的穿刺型，前基节腹缘有突起）。"
+  },
+  {
+   "label": "工蚁",
+   "text": "砂囊具 24 条可见褶，其中一级 6 条、二级 6 条、三级 12 条；柱状带与垫状带的宽度之比约等于 1；第一级（大型）垫具显著刺。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0068",
+   "citation": "Rocha, M. M.; Cancello, E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138(4): 445–463. DOI: 10.11646/zootaxa.5138.4.6",
+   "locator": "p. 447–449，「Digestive tube」段；p. 447–449，属级 Description「Comparisons with other genera of Syntermitinae」段"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+}

@@ -1,0 +1,57 @@
+{
+ "latin": "Labritermes",
+ "zh": "唇白蚁属",
+ "fetched_at": "2026-10-30T16:53:54Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W7157513564",
+   "openalex_url": "https://openalex.org/W7157513564",
+   "doi": "",
+   "doi_url": "",
+   "title": "Labritermes Holmgren",
+   "year": 1982,
+   "date": "1982-01-01",
+   "authors": [
+    "Kumar. Krishna",
+    "Cheryl Lynn. Adams"
+   ],
+   "venue": "American Museum Novitates",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "14 p.: ill.; 26 cm.",
+   "abstract_source": "openalex",
+   "abstract_chars": 19,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W1749652583",
+   "openalex_url": "https://openalex.org/W1749652583",
+   "doi": "",
+   "doi_url": "",
+   "title": "The Oriental termite genus Labritermes Holmgren (Isoptera, Termitidae, Termitinae). American Museum novitates ; no. 2735",
+   "year": 1982,
+   "date": "1982-01-01",
+   "authors": [
+    "K. Mahesh Krishna",
+    "Cheryl Lynn. Adams"
+   ],
+   "venue": "",
+   "type": "article",
+   "language": "en",
+   "cited_by": 6,
+   "oa_url": "",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  }
+ ]
+}

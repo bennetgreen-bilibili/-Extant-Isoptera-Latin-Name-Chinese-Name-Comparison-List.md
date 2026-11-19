@@ -1,0 +1,68 @@
+{
+ "Astratotermes aneristus": {
+  "label": "Astratotermes aneristus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84038,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84038/overview",
+  "valid_label": null,
+  "valid_otu": 84038,
+  "verified": false
+ },
+ "Astratotermes apocnetus": {
+  "label": "Astratotermes apocnetus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84039,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84039/overview",
+  "valid_label": null,
+  "valid_otu": 84039,
+  "verified": false
+ },
+ "Astratotermes hilarus": {
+  "label": "Astratotermes hilarus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84040,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84040/overview",
+  "valid_label": null,
+  "valid_otu": 84040,
+  "verified": false
+ },
+ "Astratotermes mansuetus": {
+  "label": "Astratotermes mansuetus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84041,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84041/overview",
+  "valid_label": null,
+  "valid_otu": 84041,
+  "verified": false
+ },
+ "Astratotermes pacatus": {
+  "label": "Astratotermes pacatus Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 84042,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84042/overview",
+  "valid_label": null,
+  "valid_otu": 84042,
+  "verified": false
+ },
+ "Astratotermes prosenus": {
+  "label": "Astratotermes prosenus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84043,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84043/overview",
+  "valid_label": null,
+  "valid_otu": 84043,
+  "verified": false
+ }
+}

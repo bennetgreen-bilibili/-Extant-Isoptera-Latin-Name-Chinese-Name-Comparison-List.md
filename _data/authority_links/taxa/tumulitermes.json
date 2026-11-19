@@ -1,0 +1,376 @@
+{
+ "Tumulitermes apiocephalus": {
+  "gbif": {
+   "key": 5815197,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tumulitermes apiocephalus (Silvestri, 1909)",
+   "accepted": null
+  },
+  "col": {
+   "id": "59LPH",
+   "status": "accepted",
+   "label": "Tumulitermes apiocephalus (Silvestri, 1909)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272555",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tumulitermes comatus": {
+  "gbif": {
+   "key": 5815209,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tumulitermes comatus (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "59LPJ",
+   "status": "accepted",
+   "label": "Tumulitermes comatus (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272556",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tumulitermes curtus": {
+  "gbif": {
+   "key": 5815199,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tumulitermes curtus (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "59LPK",
+   "status": "accepted",
+   "label": "Tumulitermes curtus (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272557",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tumulitermes dalbiensis": {
+  "gbif": {
+   "key": 5815212,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tumulitermes dalbiensis (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "59LPL",
+   "status": "accepted",
+   "label": "Tumulitermes dalbiensis (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272558",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tumulitermes hastilis": {
+  "gbif": {
+   "key": 5815211,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tumulitermes hastilis (Froggatt, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "59LPM",
+   "status": "accepted",
+   "label": "Tumulitermes hastilis (Froggatt, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272560",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tumulitermes kershawi": {
+  "gbif": {
+   "key": 5815207,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tumulitermes kershawi (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "59LPN",
+   "status": "accepted",
+   "label": "Tumulitermes kershawi (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272561",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tumulitermes marcidus": {
+  "gbif": {
+   "key": 5815206,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tumulitermes marcidus (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "59LPP",
+   "status": "accepted",
+   "label": "Tumulitermes marcidus (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272562",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tumulitermes mareebensis": {
+  "gbif": {
+   "key": 5815196,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tumulitermes mareebensis (Hill, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "59LPQ",
+   "status": "accepted",
+   "label": "Tumulitermes mareebensis (Hill, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272563",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tumulitermes nichollsi": {
+  "gbif": {
+   "key": 5815201,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tumulitermes nichollsi (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "59LPR",
+   "status": "accepted",
+   "label": "Tumulitermes nichollsi (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272564",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tumulitermes pastinator": {
+  "gbif": {
+   "key": 5815204,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tumulitermes pastinator (Hill, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "59LPS",
+   "status": "accepted",
+   "label": "Tumulitermes pastinator (Hill, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272565",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tumulitermes peracutus": {
+  "gbif": {
+   "key": 5815208,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tumulitermes peracutus (Hill, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "59LPT",
+   "status": "accepted",
+   "label": "Tumulitermes peracutus (Hill, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272566",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tumulitermes petilus": {
+  "gbif": {
+   "key": 5815205,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tumulitermes petilus (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7CXBC",
+   "status": "accepted",
+   "label": "Tumulitermes petilus (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272567",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tumulitermes pulleinei": {
+  "gbif": {
+   "key": 5815200,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tumulitermes pulleinei (Mjöberg, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "59LPV",
+   "status": "accepted",
+   "label": "Tumulitermes pulleinei (Mjöberg, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272568",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tumulitermes recalvus": {
+  "gbif": {
+   "key": 5815203,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tumulitermes recalvus (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "59LPW",
+   "status": "accepted",
+   "label": "Tumulitermes recalvus (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272570",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tumulitermes subaquilus": {
+  "gbif": {
+   "key": 5815210,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tumulitermes subaquilus (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "59LPX",
+   "status": "accepted",
+   "label": "Tumulitermes subaquilus (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272571",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tumulitermes tumuli": {
+  "gbif": {
+   "key": 5815202,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tumulitermes tumuli (Froggatt, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "59LPY",
+   "status": "accepted",
+   "label": "Tumulitermes tumuli (Froggatt, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272572",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tumulitermes westraliensis": {
+  "gbif": {
+   "key": 5815198,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tumulitermes westraliensis (Hill, 1921)",
+   "accepted": null
+  },
+  "col": {
+   "id": "59LPZ",
+   "status": "accepted",
+   "label": "Tumulitermes westraliensis (Hill, 1921)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272573",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

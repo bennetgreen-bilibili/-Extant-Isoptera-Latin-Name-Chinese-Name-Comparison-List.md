@@ -1,0 +1,43 @@
+{
+ "latin": "Bifiditermes",
+ "zh": "双裂白蚁属",
+ "family": "kalotermitidae",
+ "treatise": true,
+ "citation": "Bifiditermes Krishna, 1961: 366.",
+ "type_species": "Calotermes madagascariensis Wasmann, 1897 by original designation.",
+ "references": [
+  {
+   "ref": "Fuller, 1921: 19, 22, 23, 24",
+   "note": "Calotermes [part]; key."
+  },
+  {
+   "ref": "Krishna, 1961: 365–370",
+   "note": "Bifiditermes; generic characters; key; reference list; phylogeny; distribution."
+  },
+  {
+   "ref": "Ahmad, 1965: 7",
+   "note": "Bifiditermes; key. 2013 Krishna ET AL.: isoptera: Kalotermitidae\b 331"
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 18, 82, 83, pl. 9: fig. 18d",
+   "note": "Bifiditermes; key; characters; imago mandibles figured."
+  },
+  {
+   "ref": "Harris, 1968c: 5",
+   "note": "Bifiditermes; key."
+  },
+  {
+   "ref": "Coaton and Sheasby, 1972: 24, 46, 101, figs. 7A–B, 27",
+   "note": "Bifiditermes; soldier figured; key; ecology; biology; distribution. Namibia."
+  },
+  {
+   "ref": "Morimoto, 1975b: 11",
+   "note": "Bifiditermes; key."
+  },
+  {
+   "ref": "Sen-Sarma et al., 1975: 7",
+   "note": "Bifiditermes; key. India."
+  }
+ ],
+ "nrefs": 31
+}

@@ -1,0 +1,47 @@
+{
+ "Humutermes krishnai": {
+  "gbif": {
+   "key": 10419907,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Humutermes krishnai Bourguignon & Roisin, 2016",
+   "accepted": null
+  },
+  "col": {
+   "id": "DLV5K",
+   "status": "accepted",
+   "label": "Humutermes krishnai Bourguignon & Roisin, 2016",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Humutermes noiroti": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Humutermes Bourguignon & Roisin, 2016",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "KZ8VS",
+   "status": "accepted",
+   "label": "Humutermes noiroti Bourguignon & Roisin, 2016",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "zh_name": "可爱大白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "翅黑褐色，具暗色烟晕，翅面因而显得较暗。本种与两个近缘种最为相近：与其中一种相比，本种体形较小，翅的暗色烟晕更明显。与另一种相比，本种体形较小、颜色略淡，更明显的是前胸背板中部缺一圆形凹窝——该近缘种前胸背板前缘中部明显凹缺，而本种中部完全不凹；本种的翅色也较淡。与另两种近缘种相比，本种以翅的深色以及单眼与复眼的间距几乎超过其直径之长而不同。翅展65–70 mm，体连翅长35–38 mm，翅长29–32 mm，体连头长19 mm。"
+  }
+ ],
+ "note": "据 Sjöstedt (1900) 对 Termes gratus 的原始描述改写，原文含拉丁诊断与德文描述；原文仅记述有翅成虫，兵蚁与工蚁未记；比较对象中两种近缘种名因 OCR 残缺无法辨读，故以「近缘种」指代，翅宽等残缺数字未录，标本记录未译。",
+ "sources": [
+  {
+   "id": "S0118",
+   "citation": "Sjöstedt Y. 1900. Monographie der Termiten Afrikas. https://archive.org/details/bub_gb_nyUqAAAAYAAJ",
+   "locator": "条目（Monographie-der-Termiten-Afrikas）"
+  }
+ ]
+}

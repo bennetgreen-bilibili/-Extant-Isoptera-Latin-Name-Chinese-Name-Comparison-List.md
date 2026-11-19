@@ -1,0 +1,21 @@
+{
+ "note": "Emerson 1960 estableció el género describiendo solo el soldado y el obrero; el alado fue descrito por primera vez por Sands 1965 y se incluye en los caracteres del género. Sands no acepta la opinión de Emerson de que este género sea afín a Verrucositermes, y considera más probable que este último derive por separado de un ancestro próximo a Eutermellus (p. 154). El índice mandibular izquierdo del obrero es 1.47 según Emerson y 1.36–1.39 según Sands; el muestreo difiere, por lo que debe indicarse la procedencia al citarlos.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Sands consideraba que, entre los géneros de la región etíope, este es el más próximo a Eutermellus, y que los límites genéricos entre ambos no son tan nítidos como muestra la descripción original: los caracteres principales del género son el tamaño extremadamente pequeño del alado y su pilosidad muy reducida, así como el nasus relativamente corto del soldado; presenta además caracteres de Postsulitermes, por lo que parece intermedio entre ese género y Eutermellus."
+  },
+  {
+   "label": "Alado",
+   "text": "El diente apical de la mandíbula izquierda es claramente más largo que el primer diente marginal, pero la distancia entre ambos es algo menor que la distancia entre el primer y el tercer diente marginal (índice mandibular izquierdo 0.89–0.94); el margen cortante por delante del tercer diente marginal es profundamente cóncavo, débilmente ondulado o casi recto. El postclípeo apenas se eleva y sigue el contorno de la cabeza; su anchura es 2–3 veces su longitud. La fontanela se presenta como una cresta estrecha y alargada, visible solo con luz lateral sobre la cápsula cefálica muy pulida, con una mancha elíptica pálida por delante. Los ojos compuestos no sobresalen de los lados de la cabeza. La cabeza es casi glabra, con solo setas pares conspicuas en el vértice, entre los ocelos, en el centro del postclípeo y en su borde anterior."
+  },
+  {
+   "label": "Soldado",
+   "text": "Monotípico. Nasus delgado y cilíndrico, con el extremo estrechado en una punta fina; mandíbulas reducidas sin diente apical; borde anterior del labro ondulado; antenas de 12 segmentos."
+  },
+  {
+   "label": "Obrero",
+   "text": "Las mandíbulas son como en el alado, pero el diente apical es proporcionalmente más largo (índice mandibular izquierdo 1.36–1.39); el margen cortante por detrás del primer diente marginal izquierdo es más ondulado; la prominencia de la placa molar derecha es más marcada."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "Krishnacapritermes dineshan": {
+  "label": "Krishnacapritermes dineshan Amina & Rajmohana, 2020",
+  "match": "exact",
+  "notes": "",
+  "otu": 1122374,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1122374/overview",
+  "valid_label": null,
+  "valid_otu": 1122374,
+  "verified": false
+ },
+ "Krishnacapritermes maitii": {
+  "label": "Krishnacapritermes maitii Chhotani, 1997",
+  "match": "exact",
+  "notes": "",
+  "otu": 85464,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85464/overview",
+  "valid_label": null,
+  "valid_otu": 85464,
+  "verified": false
+ },
+ "Krishnacapritermes manikandan": {
+  "label": "Krishnacapritermes manikandan Amina & Rajmohana, 2020",
+  "match": "exact",
+  "notes": "",
+  "otu": 1122375,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1122375/overview",
+  "valid_label": null,
+  "valid_otu": 1122375,
+  "verified": false
+ },
+ "Krishnacapritermes thakuri": {
+  "label": "Krishnacapritermes thakuri Chhotani, 1997",
+  "match": "exact",
+  "notes": "",
+  "otu": 85465,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85465/overview",
+  "valid_label": null,
+  "valid_otu": 85465,
+  "verified": false
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "fetched_at": "2026-10-30T15:46:23Z",
+ "latin": "Anenteotermes",
+ "papers": [
+  {
+   "abstract": "Anenteotermescherubimi Scheffrahn, sp. n. is described from workers and male imagos collected in Cameroon and Republic of the Congo. This is the smallest soldierless termite known from Africa. As with many soldierless and soil-feeding termite species, the enteric valve morphology is a robust and essential diagnostic character for An.cherubimi. Preserved workers display pre-autothysis morphology and the effects of abdominal autothysis.",
+   "abstract_chars": 438,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Rudolf H. Scheffrahn",
+    "Yves Roisin"
+   ],
+   "cited_by": 1,
+   "date": "2018-10-29",
+   "doi": "10.3897/zookeys.793.28342",
+   "doi_url": "https://doi.org/10.3897/zookeys.793.28342",
+   "id": "https://openalex.org/W2899320510",
+   "issue": "793",
+   "language": "en",
+   "oa_url": "https://doi.org/10.3897/zookeys.793.28342",
+   "openalex_url": "https://openalex.org/W2899320510",
+   "pages": "53-62",
+   "title": "Anenteotermes cherubimi sp. n., a tiny dehiscent termite from Central Africa (Termitidae: Apicotermitinae)",
+   "type": "article",
+   "venue": "ZooKeys",
+   "volume": "793",
+   "year": 2018
+  },
+  {
+   "abstract": "The protection of biodiversity is critical to ecosystem function and is a primary management goal for conservation areas globally. Maintaining a current inventory of known diversity is a central component of achieving this goal and serves as an essential starting point for future research endeavours. Since the first published survey of termites in South Africa’s Kruger National Park (KNP) over 55 years ago, our understanding of termite diversity has expanded sufficiently to merit an update and formal checklist. Here we revise the inventory of termite diversity in KNP and summarise the taxonomic and functional diversity of termites in the park. A thorough review of recent termite research in KNP added 6 new genera and 13 species to what was found in Coaton’s original survey, with one genus, Anenteotermes, recorded for the first time in southern Africa. Based on the updated species checklist, the majority of genera in the park belong to Feeding Group II (39%) and the Termitidae family (75%).Conservation implications: In savannas, termites play crucial roles in nutrient cycling, water redistribution and plant dynamics. Systematically cataloguing termite diversity and assemblage composition in the park provides an essential baseline for scientific research, aids biodiversity conservation efforts and encourages scientists and managers to consider termites in ecosystem functioning and management. Having more detailed descriptions of genera, species and feeding groups allows for more tangible, ecologically relevant attributions of termite influence, facilitates enhanced inquiry and allows for more realistic quantification of termite roles in key ecosystem processes.",
+   "abstract_chars": 1687,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Brianna M. Lind",
+    "Andrew B. Davies"
+   ],
+   "cited_by": 5,
+   "date": "2019-04-08",
+   "doi": "10.4102/koedoe.v61i1.1531",
+   "doi_url": "https://doi.org/10.4102/koedoe.v61i1.1531",
+   "id": "https://openalex.org/W2938987890",
+   "issue": "1",
+   "language": "en",
+   "oa_url": "https://koedoe.co.za/index.php/koedoe/article/download/1531/2221",
+   "openalex_url": "https://openalex.org/W2938987890",
+   "pages": "",
+   "title": "A checklist of the termites of Kruger National Park, South Africa",
+   "type": "article",
+   "venue": "Koedoe",
+   "volume": "61",
+   "year": 2019
+  },
+  {
+   "abstract": "",
+   "abstract_chars": 0,
+   "abstract_source": "",
+   "abstract_truncated": false,
+   "authors": [
+    "Christian T. L. Djuideu",
+    "Chaba F. Ambele",
+    "Hervé D. B. Bisseleua",
+    "François XA Ndzana",
+    "Sévilor Kekeunou"
+   ],
+   "cited_by": 0,
+   "date": "2026-01-17",
+   "doi": "10.1016/j.agee.2026.110253",
+   "doi_url": "https://doi.org/10.1016/j.agee.2026.110253",
+   "id": "https://openalex.org/W7124529867",
+   "issue": "",
+   "language": "en",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W7124529867",
+   "pages": "110253-110253",
+   "title": "Shade management and seasonal temperature shifts reshape termite feeding dynamics and soil health in cocoa agroforestry systems",
+   "type": "article",
+   "venue": "Agriculture Ecosystems & Environment",
+   "volume": "400",
+   "year": 2026
+  },
+  {
+   "abstract": "",
+   "abstract_chars": 0,
+   "abstract_source": "",
+   "abstract_truncated": false,
+   "authors": [
+    "Christian T. L. Djuideu",
+    "Chaba F. Ambele",
+    "Hervé D. B. Bisseleua",
+    "François XA Ndzana",
+    "Sévilor Kekeunou"
+   ],
+   "cited_by": 0,
+   "date": "2023-01-01",
+   "doi": "10.2139/ssrn.4407658",
+   "doi_url": "https://doi.org/10.2139/ssrn.4407658",
+   "id": "https://openalex.org/W4362501754",
+   "issue": "",
+   "language": "en",
+   "oa_url": "https://doi.org/10.2139/ssrn.4407658",
+   "openalex_url": "https://openalex.org/W4362501754",
+   "pages": "",
+   "title": "Changes in Shade Trees Affect the Feeding Behavior of Termites with Consequences on Ecosystem Services and Disservices in Cocoa Agroforestry Systems",
+   "type": "preprint",
+   "venue": "SSRN Electronic Journal",
+   "volume": "",
+   "year": 2023
+  }
+ ],
+ "zh": "无甲白蚁属"
+}

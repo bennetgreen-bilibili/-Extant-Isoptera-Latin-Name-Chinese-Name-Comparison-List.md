@@ -41,7 +41,8 @@ layout: default
   {%- endif -%}
 
   {%- if page.photo_kind == 'species' -%}
-  {%- assign pp_photos = site.data.species_photos.species[page.photo_latin] -%}
+  {%- assign pp_gid = page.genus_id | default: page.photo_latin | split: ' ' | first | downcase -%}
+  {%- assign pp_photos = site.data.species_photos.species[pp_gid][page.photo_latin] -%}
   {%- assign pp_label = page.photo_latin | append: ' ' | append: page.photo_zh -%}
   {%- if pp_photos and pp_photos.size > 0 %}
   <section class="species-gallery" aria-labelledby="photo-gallery-title">

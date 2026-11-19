@@ -1,0 +1,23 @@
+{
+ "latin": "Tumulitermes",
+ "zh": "冢白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Tumulitermes Holmgren, 1912a: 59, 61 [first introduced as a subgenus of Eutermes Heer, 1849].",
+ "type_species": "Eutermes tumuli Froggatt, 1898 by subsequent designation, see Snyder, 1949a: 301 [type fixation is not by monotypy as stated by Watson et al., 1998; Holmgren 1912 mentions two species, tumuli and apiocephalus].",
+ "references": [
+  {
+   "ref": "Hill, 1942: 14, 202–205",
+   "note": "Eutermes [part]; key; synonymy; imago, soldier, worker diagnosed."
+  },
+  {
+   "ref": "Morimoto, 1975b: 24",
+   "note": "Tumulitermes; key."
+  },
+  {
+   "ref": "Roisin and Pasteels, 1996: 596",
+   "note": "Tumulitermes; characters; distribution."
+  }
+ ],
+ "nrefs": 14
+}

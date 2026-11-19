@@ -1,0 +1,31 @@
+{
+ "latin": "Tauritermes",
+ "zh": "牛白蚁属",
+ "family": "kalotermitidae",
+ "treatise": true,
+ "citation": "Tauritermes Krishna, 1961: 361–363.",
+ "type_species": "Calotermes taurocephalus Silvestri, 1901 by original designation.",
+ "references": [
+  {
+   "ref": "Krishna, 1961: 361–363",
+   "note": "Tauritermes; generic characters; key; reference list; phylogeny; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 11",
+   "note": "Tauritermes; key."
+  },
+  {
+   "ref": "Araujo and Fontes, 1979: 29, 31",
+   "note": "Tauritermes; characters; comparisons; key."
+  },
+  {
+   "ref": "Constantino, 1999a: 395, 410",
+   "note": "Tauritermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 18",
+   "note": "Tauritermes; key."
+  }
+ ],
+ "nrefs": 10
+}

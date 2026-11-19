@@ -1,0 +1,24 @@
+{
+ "Aderitotermes cavator": {
+  "label": "Aderitotermes cavator Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83920,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83920/overview",
+  "valid_label": null,
+  "valid_otu": 83920,
+  "verified": false
+ },
+ "Aderitotermes fossor": {
+  "label": "Aderitotermes fossor Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83921,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83921/overview",
+  "valid_label": null,
+  "valid_otu": 83921,
+  "verified": false
+ }
+}

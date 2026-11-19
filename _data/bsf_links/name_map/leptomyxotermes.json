@@ -1,0 +1,13 @@
+{
+ "Leptomyxotermes doriae": {
+  "label": "Leptomyxotermes doriae (Silvestri, 1912)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84526,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84526/overview",
+  "valid_label": null,
+  "valid_otu": 84526,
+  "verified": false
+ }
+}

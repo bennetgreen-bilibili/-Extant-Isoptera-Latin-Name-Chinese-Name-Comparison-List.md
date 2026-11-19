@@ -1,0 +1,40 @@
+{
+ "zh_name": "壶头白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁额管皱褶、具不规则横脊，端部呈环状（doughnut-shaped）；多数种额管长而圆柱形，C. crassinasus 为宽锥形。上颚“异常”，具磨板、磨突与缘齿，端齿退化（Curvitermes 为鱼钩状）。有翅成虫左颚指数约 2.0。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "额管长而圆柱形，表面皱褶并具不规则横脊，端部呈环状；上颚具磨板、磨突与缘齿（与工蚁上颚相似），端齿退化。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "左颚指数约 2.0，与 Curvitermes、Paracurvitermes 同。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0068",
+   "citation": "Rocha M. M.; Cancello E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138: 445-463. https://doi.org/10.11646/zootaxa.5138.4.6",
+   "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）"
+  },
+  {
+   "id": "S0023",
+   "citation": "Rocha M. M.; Cancello E. M.; Cuezzo C. 2011. A new genus and species of mandibulate nasute termite (Isoptera, Termitidae, Syntermitinae) from Brazil. ZooKeys 148: 125-134. https://doi.org/10.3897/zookeys.148.1278",
+   "locator": "Comparisons with other genera of Syntermitinae"
+  },
+  {
+   "id": "S0072",
+   "citation": "Rocha M. M.; Cancello E. M.; Carrijo T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37: 793-827. https://doi.org/10.1111/j.1365-3113.2012.00645.x",
+   "locator": "Key to genera of Syntermitinae, couplet 8"
+  },
+  {
+   "id": "S0077",
+   "citation": "Constantino R. 2012. Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records. Zootaxa 3174: 65-68. https://doi.org/10.11646/zootaxa.3174.1.7",
+   "locator": "Comparisons（属名后逗号前的空格系 Plazi 抽取标签剥离所致）"
+  }
+ ],
+ "note": "兵蚁据属检索表与 2011/2022 的比较性属征（Constantino & Carvalho 2012 的属级 redescription 正文未由 Plazi 提供，仅读到兵蚁种检索表）；有翅成虫仅知左颚指数。"
+}

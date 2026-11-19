@@ -1,0 +1,13 @@
+{
+ "Cornicapritermes mucronatus": {
+  "label": "Cornicapritermes mucronatus Emerson, 1950",
+  "match": "exact",
+  "notes": "",
+  "otu": 85316,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85316/overview",
+  "valid_label": null,
+  "valid_otu": 85316,
+  "verified": false
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "Ampoulitermes wynaadensis": {
+  "label": "Ampoulitermes wynaadensis Mathur & Thapa, 1962",
+  "match": "exact",
+  "notes": "",
+  "otu": 84301,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84301/overview",
+  "valid_label": null,
+  "valid_otu": 84301,
+  "verified": false
+ },
+ "Ampoulitermes zacharia": {
+  "label": "Ampoulitermes zacharia Joseph & Mathew, 2024",
+  "match": "exact",
+  "notes": "",
+  "otu": 1122304,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1122304/overview",
+  "valid_label": null,
+  "valid_otu": 1122304,
+  "verified": false
+ }
+}

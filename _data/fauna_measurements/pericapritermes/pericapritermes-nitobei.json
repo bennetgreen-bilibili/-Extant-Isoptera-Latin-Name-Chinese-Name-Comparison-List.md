@@ -1,0 +1,38 @@
+{
+ "book_n": "375",
+ "book_name": "扬子江近扭白蚁 Pericapritermes jangtsekiangensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "扬子江近扭白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "2.25–2.41"
+    },
+    {
+     "key": "head_max_width",
+     "value": "1.20–1.29"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "1.38–1.50"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "1.35–1.45"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.80–0.87"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 1047,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "zh_name": "前新白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫前翅中脉骨化弱、较近径分脉，可与 Incisitermes、Marginitermes 区分；兵蚁与 Marginitermes 的区别是后者触角第三节长得多、额脊更明显、上颚长、前胸背板前侧角锯齿状；与 Incisitermes 的区别是后者头背腹扁、前面约 20° 下倾、额脊缺。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "淡黄色；眼较小，径 0.39–0.43 mm，单眼接触复眼；触角 17–18 节；左上颚第一、二缘齿基部略短于第三缘齿；右上颚第二缘齿后缘略长于臼板；前胸背板略宽于头；翅膜透明；前翅径脉简单，约伸至翅长一半；径分脉 4–6 支，第一支约在翅长一半处；中脉骨化较径分脉弱，与径分脉平行且较近；爪间突存在。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头前部近黑色，向后渐淡至黄色；头两侧平行，前部略截形，约以 45° 向唇基下倾；额背侧角微隆；额与头顶间有很弱的脊；触角窝上方两侧粗糙；触角窝上、下均无角状突；眼点明显、无色；触角 13–14 节，第三节长于第二节或第四节，棒状；上颚强，具明显基瘤；前胸背板与头等宽，前缘略隆起、深凹，两侧与后缘较圆；腿节粗短。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0021",
+   "citation": "Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.",
+   "locator": "pp. 363–364"
+  }
+ ]
+}

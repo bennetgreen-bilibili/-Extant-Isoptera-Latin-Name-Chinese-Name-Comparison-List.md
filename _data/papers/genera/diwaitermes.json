@@ -1,0 +1,57 @@
+{
+ "latin": "Diwaitermes",
+ "zh": "木象白蚁属",
+ "fetched_at": "2026-10-30T16:53:31Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2030570859",
+   "openalex_url": "https://openalex.org/W2030570859",
+   "doi": "10.1163/187631206788831461",
+   "doi_url": "https://doi.org/10.1163/187631206788831461",
+   "title": "Revision of the termitophilous tribe Pseudoperinthini (Coleoptera: Staphylinidae) in New Guinea",
+   "year": 2006,
+   "date": "2006-01-01",
+   "authors": [
+    "Thomas Bourguignon",
+    "Yves Roisin"
+   ],
+   "venue": "Insect Systematics & Evolution",
+   "type": "article",
+   "language": "en",
+   "cited_by": 2,
+   "oa_url": "",
+   "volume": "37",
+   "issue": "4",
+   "pages": "443-456",
+   "abstract": "Until now only one species of the tribe Pseudoperinthini, Austrointhus papuanus, was known from New Guinea. Here, we report the presence of five additional species, four of which are new to science: one species in the genus Pseudoperinthus, one in Austrointhus and two in Papuinthus, new genus. All were found in association with nasute termites of the genera Nasutitermes, Tumulitermes, Niuginitermes and Diwaitermes (subfamily Nasutitermitinae). The absence of distinctive characters and the presence of intermediate species suggest that Indinthus should be considered a synonym of Austrointhus. Some Pseudoperinthini species occur over a broad range and with several related host termites, whereas other species appear to be narrowly distributed and host species-specific. This pattern suggests local speciation, but may also result from insufficient sampling effort.",
+   "abstract_source": "openalex",
+   "abstract_chars": 870,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2032705824",
+   "openalex_url": "https://openalex.org/W2032705824",
+   "doi": "10.1071/it9960507",
+   "doi_url": "https://doi.org/10.1071/it9960507",
+   "title": "The nasute termites (Isoptera : Nasutitermitinae) of Papua New Guinea",
+   "year": 1996,
+   "date": "1996-06-01",
+   "authors": [
+    "Yves Roisin",
+    "JM Pasteels"
+   ],
+   "venue": "Invertebrate Taxonomy",
+   "type": "article",
+   "language": "en",
+   "cited_by": 25,
+   "oa_url": "",
+   "volume": "10",
+   "issue": "3",
+   "pages": "507-616",
+   "abstract": "The Nasutitermitinae fauna of Papua New Guinea is revised, based on collections from most regions of the country. A total of 22 species is reported, 12 of which are new. The genus Nasutitermes Dudley is represented by the following species: N. triodiae (Froggatt), N. torresi (Hill), N. motu, sp. nov., N. princeps (Desneux), N. koiari, sp. nov., N. pinocchio, sp. nov., N. novarumhebridarum (N. & K. Holmgren), N. nomadensis, sp. nov., N. polygynus Roisin & Pasteels, N. bikpelanus, sp. nov., N. gracilirostris (Desneux), N. leponcei, sp, nov., N. muli, sp. nov., N. seghersi, sp. nov., and N. seghersi malangganus, subsp. nov. Niuginitermes, gen. nov., is created for two species: N. variratae, sp. nov., and N. liklik, sp. nov. Diwaitermes, gen. nov., includes D. kanehirae (Oshima), comb. nov., D. foi, sp. nov., and D. castanopsis, sp. nov. A single species of Tumulitermes Holmgren, T. marcidus (Hill), is newly reported from mainland New Guinea. Grallatotermes Holmgren and Hospitalirermes Holmgren are each represented by one species, G. grallator (Desneux) and H. papuanus Ahmad. All known imagos (18 species) as well as soldiers and workers of all species are described and illustrated. For each species, the known geographic distribution within Papua New Guinea is reported. An identification key, based on soldiers and workers, is also provided.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1357,
+   "abstract_truncated": false
+  }
+ ]
+}

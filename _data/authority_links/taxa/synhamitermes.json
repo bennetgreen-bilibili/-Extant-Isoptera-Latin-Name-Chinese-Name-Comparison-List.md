@@ -1,0 +1,90 @@
+{
+ "Synhamitermes ceylonicus": {
+  "gbif": {
+   "key": 9660645,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Synhamitermes ceylonicus (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53X7R",
+   "status": "accepted",
+   "label": "Synhamitermes ceylonicus (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30687024",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Synhamitermes colombensis": {
+  "gbif": {
+   "key": 9741939,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Synhamitermes colombensis Sen-Sarma & Roonwal, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "53X7S",
+   "status": "accepted",
+   "label": "Synhamitermes colombensis Roonwal & Sen-Sarma, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30687025",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Synhamitermes labioangulatus": {
+  "gbif": {
+   "key": 9710455,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Synhamitermes labioangulatus Thakur, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "53X7T",
+   "status": "accepted",
+   "label": "Synhamitermes labioangulatus Thakur, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073780",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Synhamitermes quadriceps": {
+  "gbif": {
+   "key": 9709833,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Synhamitermes quadriceps (Wasmann, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7B8KR",
+   "status": "accepted",
+   "label": "Synhamitermes quadriceps (Wasmann, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073779",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "latin": "Synacanthotermes",
+ "zh": "聚刺白蚁属",
+ "fetched_at": "2026-10-30T16:54:42Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2106494284",
+   "openalex_url": "https://openalex.org/W2106494284",
+   "doi": "10.1111/j.1365-294x.2011.05090.x",
+   "doi_url": "https://doi.org/10.1111/j.1365-294x.2011.05090.x",
+   "title": "Dating the fungus‐growing termites’ mutualism shows a mixture between ancient codiversification and recent symbiont dispersal across divergent hosts",
+   "year": 2011,
+   "date": "2011-04-11",
+   "authors": [
+    "Tânia Nobre",
+    "N’golo Abdoulaye Koné",
+    "Souleymane Konaté",
+    "Karl Eduard Linsenmair",
+    "Duur K. Aanen"
+   ],
+   "venue": "Molecular Ecology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 57,
+   "oa_url": "https://research.wur.nl/en/publications/dating-the-fungus-growing-termites-mutualism-shows-a-mixture-betw",
+   "volume": "20",
+   "issue": "12",
+   "pages": "2619-2627",
+   "abstract": "The mutualistic symbiosis between fungus-growing termites and Termitomyces fungi originated in Africa and shows a moderate degree of interaction specificity. Here we estimate the age of the mutualism and test the hypothesis that the major splits have occurred simultaneously in the host and in the symbiont. We present a scenario where fungus-growing termites originated in the African rainforest just before the expansion of the savanna, about 31 Ma (19-49 Ma). Whereas rough age correspondence is observed for the four main clades of host and symbiont, the analysis reveals several recent events of host switching followed by dispersal of the symbiont throughout large areas and throughout different host genera. The most spectacular of these is a group of closely related fungi (the maximum age of which is estimated to be 2.4 Ma), shared between the divergent genera Microtermes, Ancistrotermes, Acanthotermes and Synacanthotermes (which diverged at least 16.7 Ma), and found throughout the African continent and on Madagascar. The lack of geographical differentiation of fungal symbionts shows that continuous exchange has occurred between regions and across host species.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1177,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W996164483",
+   "openalex_url": "https://openalex.org/W996164483",
+   "doi": "",
+   "doi_url": "",
+   "title": "南部非洲白蚁对农作物、森林、牧场和建筑的危害及其治理",
+   "year": 2004,
+   "date": "2004-01-01",
+   "authors": [
+    "JannteerD.Mitchell",
+    "赵京阳",
+    "宋晓钢"
+   ],
+   "venue": "",
+   "type": "article",
+   "language": "zh",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "",
+   "issue": "1",
+   "pages": "40-48",
+   "abstract": "白蚁是热带和亚热带生态系统中重要的组成部分。绝大多数白蚁种类对人类并无危害。在南部非洲有记载的50属白蚁中，只有18属白蚁有危害性。白蚁在其生长的各个时期危害大量的农作物，有人报道农作物减产达3-100％，在许多小农场中经常是由于白蚁危害造成的。培茵型的大白蚁亚科(白蚁科)是危害农作物及导致森林90％树木死亡的主要白蚁类群。最常见的白蚁类属有：大白蚁属，土白蚁属，Pseudacanthoternnes,Synacanthotermes，小白蚁属，Ancistrotermes，Allodontermes及锯白蚁属(白蚁科)。在南部非洲常见的一种收获蚁-Trineruitermes trineruoides(白蚁科象白蚁亚科)在过度放牧的牧场上发现比较少。可是在干旱半干旱地区的牧场上主要危害种类是Hodotermes mossambicus(草白蚁科)。在干旱的夏季此类白蚁发展迅速，它们可以毁坏60％甚至更多的草皮，造成生物链的混乱及土壤的风化。此类白蚁也能周期性地危害农作物。它们很少攻击本地的树种，但外来树种如桉树、阿拉伯树等则常被攻击。在树木播种或移植后的6-9个月最容易受到白蚁的攻击，死亡率为19-78％，在某些地区偶尔也达到100％。危害建筑物及木结构的，在东非是地下白蚁Coptotermes amanii(鼻白蚁科)，在南部非洲的西边是Psammotermes allocerus(鼻白蚁科)，而危害最严重的是大白蚁属和土白蚁属。当地的千木白蚁则很少危害建筑物，并非主要危害种类。外来白蚁种群，如Cryptotermes breuis(木白蚁科)对南非沿海地区也有相当的危害。本文还就可持续非化学手段控制白蚁、白蚁与产量损失之间的关系及白蚁危害评价标准的建立作了一些探讨。",
+   "abstract_source": "openalex",
+   "abstract_chars": 748,
+   "abstract_truncated": false
+  }
+ ]
+}

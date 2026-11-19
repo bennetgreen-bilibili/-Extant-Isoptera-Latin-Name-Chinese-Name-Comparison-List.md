@@ -1,0 +1,25 @@
+{
+ "zh_name": "小新几内亚白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "种级鉴定依据兵蚁与工蚁的形态组合。兵蚁单型，头壳橙色、鼻突色较深，头侧与后缘略扁；上颚具尖；触角 12 节，第 3 节最细；鼻突基部 4 根长刚毛，头顶 4 根，两侧各 2 根并位于侧方，另有散布的短毛。工蚁二型，大型工蚁左颚指数 0.45。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头壳橙色，鼻突色较深；头侧与后缘略扁；上颚具尖；触角 12 节，第 3 节最细；鼻突基部具 4 根长刚毛，头顶 4 根，两侧各 2 根、位于侧方，并散布多数短毛。"
+  },
+  {
+   "label": "工蚁",
+   "text": "工蚁二型。大型工蚁左颚指数 0.45，上颚齿式、肠瓣（EVA）结构与肠道构型均与属征吻合。混合段长，中肠系膜带位于肠曲外侧，以宽的背侧柄与中肠余部相连；结肠长，自胃囊顶部向后起始，继而形成由两个 180° 弯转构成的立体 S 形，先向前、再向下，末段近直伸向直肠。长结肠为本属的鉴别特征。"
+  }
+ ],
+ "note": "据 De Luna, Su & Scheffrahn (2026) 的鉴定记录改写，原文英文；该文为新记录，形态特征系对 Roisin & Pasteels (1996) 原描述的核对，量度表未落在切片内，故仅录定性特征与左颚指数。",
+ "sources": [
+  {
+   "id": "S0477",
+   "citation": "Jose Emmanuel I. De Luna; Nan‐Yao Su; Rudolf H. Scheffrahn 2026. Jose Emmanuel I. De Luna; Nan‐Yao Su; Rudolf H. Scheffrahn 2026. A new record for Niuginitermes liklik Roisin & Pasteels, 1996 (Isoptera, Termitidae, Nasutitermitinae) from the Philippines. 10.15560/22.5.840. 10.15560/22.5.840",
+   "locator": "条目（Jose Emmanuel I. De Luna、Nan‐Yao Su、Rudolf H. Scheffrahn 2026）"
+  }
+ ]
+}

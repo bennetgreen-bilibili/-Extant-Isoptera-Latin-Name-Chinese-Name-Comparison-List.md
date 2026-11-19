@@ -1,0 +1,25 @@
+{
+ "zh_name": "米勒白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "本属可依兵蚁三型、且兵蚁头具一对退化单眼，与 Nasutitermitinae 其余各属区分；该亚科中仅本属与 Velocitermes、Diversitermes 具三型兵蚁。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "三型。大型兵头宽而圆，近方形或略呈卵形，触角后无收缩（M. globiceps），M. fritzi 少数个体仅轻微收缩；中型兵头卵形或略呈卵形。"
+  },
+  {
+   "label": "工蚁",
+   "text": "二型，小型工蚁罕见；大型工蚁上颚有两式（Fontes, 1987 称为 narrow-gap 与 broad-gap）；头圆，触角 14 节，后唇基不膨大，囟不显。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0069",
+   "citation": "Oliveira, D. E.; Rocha, M. M.; Cancello, E. M. 2015. Muelleritermes: A new termite genus with two species from the Brazilian Atlantic Forest (Isoptera: Termitidae: Nasutitermitinae). Zootaxa 4012(2): 258–270. DOI: 10.11646/zootaxa.4012.2.2",
+   "locator": "pp. 259–263，「Comparisons with other Nasutitermitinae genera」段；pp. 259–263，「Soldier」段；pp. 259–263，「Worker」段"
+  }
+ ],
+ "note": "原文另有属级有翅成虫描述（头具半月形脊、触角 15 节、前足基节侧面粗糙、翅具星形 micraster）与小型兵描述（头较窄、长形或卵形，触角后明显收缩），因每属引文限 3 条未设有翅成虫节、亦未引小型兵文本。"
+}

@@ -1,0 +1,112 @@
+{
+ "Acholotermes chirotus": {
+  "gbif": {
+   "key": 9770424,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Acholotermes chirotus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "98C3",
+   "status": "accepted",
+   "label": "Acholotermes chirotus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q133262145",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Acholotermes epius": {
+  "gbif": {
+   "key": 9682081,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Acholotermes epius Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "98C4",
+   "status": "accepted",
+   "label": "Acholotermes epius Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234452",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Acholotermes imbellis": {
+  "gbif": {
+   "key": 9732598,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Acholotermes imbellis Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "98C5",
+   "status": "accepted",
+   "label": "Acholotermes imbellis Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234456",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Acholotermes socialis": {
+  "gbif": {
+   "key": 9816916,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Acholotermes socialis (Sjöstedt, 1899)",
+   "accepted": null
+  },
+  "col": {
+   "id": "98C6",
+   "status": "accepted",
+   "label": "Acholotermes socialis (Sjöstedt, 1899)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234461",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Acholotermes tithasus": {
+  "gbif": {
+   "key": 9651710,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Acholotermes tithasus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "98C7",
+   "status": "accepted",
+   "label": "Acholotermes tithasus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234466",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "Dentispicotermes brevicarinatus": {
+  "label": "Dentispicotermes brevicarinatus (Emerson, 1950)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85336,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85336/overview",
+  "valid_label": null,
+  "valid_otu": 85336,
+  "verified": false
+ },
+ "Dentispicotermes conjunctus": {
+  "label": "Dentispicotermes conjunctus Araujo, 1969",
+  "match": "exact",
+  "notes": "",
+  "otu": 85337,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85337/overview",
+  "valid_label": null,
+  "valid_otu": 85337,
+  "verified": false
+ },
+ "Dentispicotermes cupiporanga": {
+  "label": "Dentispicotermes cupiporanga Cancello & Bandeira, 1992",
+  "match": "exact",
+  "notes": "",
+  "otu": 85338,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85338/overview",
+  "valid_label": null,
+  "valid_otu": 85338,
+  "verified": false
+ },
+ "Dentispicotermes globicephalus": {
+  "label": "Dentispicotermes globicephalus (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85339,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85339/overview",
+  "valid_label": null,
+  "valid_otu": 85339,
+  "verified": false
+ },
+ "Dentispicotermes pantanalis": {
+  "label": "Dentispicotermes pantanalis Mathews, 1977",
+  "match": "exact",
+  "notes": "",
+  "otu": 85340,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85340/overview",
+  "valid_label": null,
+  "valid_otu": 85340,
+  "verified": false
+ },
+ "Dentispicotermes trapezia": {
+  "label": "Dentispicotermes trapezia Scheffrahn, 2024",
+  "match": "exact",
+  "notes": "",
+  "otu": 1088200,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1088200/overview",
+  "valid_label": null,
+  "valid_otu": 1088200,
+  "verified": false
+ }
+}

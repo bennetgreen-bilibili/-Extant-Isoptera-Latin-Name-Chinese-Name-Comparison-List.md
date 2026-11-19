@@ -1,0 +1,46 @@
+{
+ "book_n": "181",
+ "book_name": "长翅散白蚁 Reticulitermes",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "成虫量度",
+   "label_en": "Imago measurements",
+   "label_es": "Medidas de imago",
+   "label_zh": "成虫量度",
+   "rows": [
+    {
+     "key": "body_length_with_wings",
+     "value": "9.98–10.09"
+    },
+    {
+     "key": "body_length",
+     "value": "5.95–6.10"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "value": "0.96–1.05"
+    },
+    {
+     "key": "head_width",
+     "value": "0.75–1.01"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.78–0.87"
+    },
+    {
+     "key": "forewing_scale_length",
+     "value": "0.68–0.74"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.07–1.14"
+    }
+   ],
+   "src_file": "401-500.txt",
+   "src_line": 1305,
+   "unit": "mm"
+  }
+ ]
+}

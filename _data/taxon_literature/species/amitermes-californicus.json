@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "2022 年恢复种级地位",
+   "heading_en": "Species status restored in 2022",
+   "heading_es": "Estatus específico restaurado en 2022",
+   "paragraphs": [
+    {
+     "src": [
+      "S0434"
+     ],
+     "text": "根据 Scheffrahn（2022）对佛罗里达大学白蚁收藏（UFTC）与文献记录所作的修订，加州弓白蚁（<i>Amitermes californicus</i>）于 1920 年由 Banks 依据采自加利福尼亚南部与亚利桑那南部的兵蚁描述；Light 在 1931 与 1932 年未作讨论地把该名并入惠勒弓白蚁（<i>Amitermes wheeleri</i>），此后九十年无人质疑这一异名。Scheffrahn 复查了三十年间采自加利福尼亚、亚利桑那、新墨西哥与得克萨斯的弓白蚁属（<i>Amitermes</i>）兵蚁，确认其中包含两个可凭兵蚁上颚区分的种，遂把加州弓白蚁恢复为独立种。",
+     "text_en": "In a revision based on the University of Florida Termite Collection (UFTC) and literature records, Scheffrahn (2022) established that <i>Amitermes californicus</i> was described by Banks in 1920 from soldiers collected in southern California and southern Arizona, and that Light (1931, 1932) synonymised the name with <i>Amitermes wheeleri</i> without discussion, a synonymy that went unchallenged for ninety years. Scheffrahn re-examined soldiers of the genus <i>Amitermes</i> collected over thirty years in California, Arizona, New Mexico and Texas, found two species separable by soldier mandibles, and restored <i>Amitermes californicus</i> to full species rank.",
+     "text_es": "En una revisión basada en la colección de termitas de la Universidad de Florida (UFTC) y en los registros bibliográficos, Scheffrahn (2022) estableció que <i>Amitermes californicus</i> fue descrita por Banks en 1920 a partir de soldados recolectados en el sur de California y el sur de Arizona, y que Light (1931, 1932) sinonimizó el nombre con <i>Amitermes wheeleri</i> sin discusión, sinonimia que permaneció incuestionada durante noventa años. Scheffrahn reexaminó soldados del género <i>Amitermes</i> recolectados a lo largo de treinta años en California, Arizona, Nuevo México y Texas, encontró dos especies separables por las mandíbulas de los soldados y restituyó <i>Amitermes californicus</i> al rango de especie plena."
+    },
+    {
+     "src": [
+      "S0434"
+     ],
+     "text": "同一修订给出区分特征：加州弓白蚁（<i>Amitermes californicus</i>）的上颚基部、颚片与缘齿整体更粗壮，头壳更近方形，兵蚁头宽平均 1.07 mm（0.93–1.18 mm，60 头兵蚁、25 个群体）；惠勒弓白蚁（<i>Amitermes wheeleri</i>）在美国本土头宽平均 0.98 mm（56 头兵蚁、21 个群体），佛罗里达群体平均 0.92 mm（7 头兵蚁、4 个群体）。修订后的检索表以兵蚁平均头宽约 1.07 mm 与约 0.85 mm 区分两种。",
+     "text_en": "The revision lists the distinguishing characters: in <i>Amitermes californicus</i> the mandible bases, blades and marginal teeth are larger and stouter overall and the head capsule is more quadrate, with a mean soldier head width of 1.07 mm (0.93–1.18 mm; 60 soldiers from 25 colonies); in <i>Amitermes wheeleri</i> the mean is 0.98 mm in the United States (56 soldiers from 21 colonies) and 0.92 mm in Florida (7 soldiers from 4 colonies). The revised key separates the two species by a mean soldier head width of about 1.07 mm versus about 0.85 mm.",
+     "text_es": "La revisión enumera los caracteres diagnósticos: en <i>Amitermes californicus</i> la base de las mandíbulas, las hojas y los dientes marginales son en conjunto más grandes y robustos y la cápsula cefálica es más cuadrangular, con una anchura media de la cabeza del soldado de 1,07 mm (0,93–1,18 mm; 60 soldados de 25 colonias); en <i>Amitermes wheeleri</i> la media es de 0,98 mm en Estados Unidos (56 soldados de 21 colonias) y de 0,92 mm en Florida (7 soldados de 4 colonias). La clave revisada separa ambas especies por una anchura media de la cabeza del soldado de unos 1,07 mm frente a unos 0,85 mm."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0434",
+   "citation": "Scheffrahn, R. H. (2022). Amitermes californicus Banks, 1920 (Isoptera, Termitidae, Termitinae) resurrected after ninety years of synonymy and A. floridensis Scheffrahn, 1989 synonymized into A. wheeleri (Desneux, 1906). Zootaxa, 5128(4), 581–588.",
+   "doi": "10.11646/zootaxa.5128.4.7"
+  }
+ ]
+}

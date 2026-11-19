@@ -1,0 +1,46 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "北美西部的扩散与中国的最早记录",
+   "heading_en": "Spread in western North America and the first Chinese record",
+   "heading_es": "Expansión en el oeste de Norteamérica y el primer registro chino",
+   "paragraphs": [
+    {
+     "src": [
+      "S0003"
+     ],
+     "text": "据《中国动物志·昆虫纲·第十七卷·等翅目》记载，小楹白蚁（<i>Incisitermes minor</i>）在美国通称西部干木白蚁（western drywood termite），是加州南部西海岸的常见种，逐步扩散至墨西哥北部与亚利桑那州；20 世纪 50 年代后随家具、木箱与葡萄箱由西向东迅速传播。",
+     "text_en": "According to the Fauna Sinica volume on Isoptera, in the United States <i>Incisitermes minor</i> is known as the western drywood termite and is common along the southern California coast, spreading gradually to northern Mexico and Arizona; after the 1950s it spread rapidly from west to east in furniture, wooden crates and grape boxes.",
+     "text_es": "Según el volumen de Fauna Sinica sobre Isoptera, en Estados Unidos <i>Incisitermes minor</i> se conoce como la termita de la madera seca occidental y es común en la costa del sur de California, extendiéndose gradualmente al norte de México y Arizona; después de los años cincuenta se propagó rápidamente de oeste a este en muebles, cajas de madera y cajas de uva."
+    },
+    {
+     "src": [
+      "S0003"
+     ],
+     "text": "据《中国动物志·昆虫纲·第十七卷·等翅目》记载，中国 1969 年在浙江宁海县力洋区发现小楹白蚁（<i>Incisitermes minor</i>）危害，疑为房主 1937 年从香港带回的衣箱传入；1974 年调查时受害房屋已超过 1 500 m²。",
+     "text_en": "According to the Fauna Sinica volume on Isoptera, damage by <i>Incisitermes minor</i> was found in China in 1969 at Liyang, Ninghai County, Zhejiang, suspected to have arrived in a trunk brought back from Hong Kong by the owner in 1937; by 1974 the infested buildings exceeded 1 500 m².",
+     "text_es": "Según el volumen de Fauna Sinica sobre Isoptera, se detectaron daños de <i>Incisitermes minor</i> en China en 1969 en Liyang, condado de Ninghai, Zhejiang, presuntamente llegada en un baúl traído de Hong Kong por el propietario en 1937; en 1974 las viviendas afectadas superaban los 1 500 m²."
+    },
+    {
+     "src": [
+      "S0001"
+     ],
+     "text": "根据 Cabrera 与 Rust（1996）研究，小楹白蚁（<i>Incisitermes minor</i>）若蚁在日光灯或白炽灯照射下躲到培养皿有遮盖的部分，而在红色暗房灯下无明显选择性。",
+     "text_en": "According to Cabrera and Rust (1996), nymphs of <i>Incisitermes minor</i> retreat under the covered part of a dish when lit by fluorescent or incandescent light, but show no clear preference under a red darkroom lamp.",
+     "text_es": "Según Cabrera y Rust (1996), las ninfas de <i>Incisitermes minor</i> se refugian bajo la parte cubierta de una placa cuando se ilumina con luz fluorescente o incandescente, pero no muestran preferencia clara con una lámpara roja de cuarto oscuro."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0001",
+   "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+  },
+  {
+   "id": "S0003",
+   "citation": "黄复生, 朱世模, 平正明, 何秀松, 李桂祥, 高道蓉. 中国动物志·昆虫纲·第十七卷·等翅目. 北京: 科学出版社."
+  }
+ ]
+}

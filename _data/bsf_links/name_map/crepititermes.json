@@ -1,0 +1,13 @@
+{
+ "Crepititermes verruculosus": {
+  "label": "Crepititermes verruculosus (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85318,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85318/overview",
+  "valid_label": null,
+  "valid_otu": 85318,
+  "verified": false
+ }
+}

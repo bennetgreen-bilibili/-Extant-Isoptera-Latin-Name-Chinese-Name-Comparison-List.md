@@ -1,0 +1,29 @@
+{
+ "zh_name": "无毛白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "Holmgren 1912 建立的新属，仅 Apilitermes longiceps (Sjöst.) 一种，产喀麦隆；异名为 Eutermes 部分（Sjöstedt）与 Termes 部分（Desneux）。有翅成虫未知，仅据若虫推断。兵蚁头呈长矩形，额腺孔位于额倾斜面之后、头的水平部分，周围无毛，并自额腺孔向前引出一条细沟；上唇四角形、具沟，前缘不凹入；上颚长而直，端部与中部连成一体并在基部有一小的齿状台阶状扩大；触角 15 节。工蚁原文仅记「与 Crenetermes 相同」。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头长矩形，相当隆起，前缘斜截。额腺孔位于额倾斜面后缘之后、头的水平部分，小，周围无毛；自额腺孔向前延伸一条细沟。唇基平，基部小，唇基端片大。上唇四角形，向前渐宽，具沟，前缘不凹入。上颚长、粗壮、直，向端部略弯；齿式如 Crenetermes，但右上颚的基部较小；端部与中部连成一个整体，其基部另有一小的齿状、台阶状扩大，与基部分界清楚；尤其左上颚的端部与中部具细锯齿。触角 15 节，第 3 节短。前胸背板小，强鞍形。无刺突。"
+  },
+  {
+   "label": "工蚁",
+   "text": "原文只给一句比较性描述：与 Crenetermes 的工蚁相同（»Wie bei Crenetermes.«），未另列特征，故此处不转述 Crenetermes 的条文。"
+  },
+  {
+   "label": "若虫",
+   "text": "雄性若虫具退化的刺突（原文附于有翅成虫一目之下，因成虫未知，据若虫判断）。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren, N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familien Mastotermitidae, Protermitidae und Mesotermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166, Taf. 1–4.",
+   "locator": "p. 103（archive.org 项 biostor-184513 页面图像）"
+  }
+ ],
+ "note": "描述据 Holmgren 1912 原文（archive.org 项 biostor-184513 的页面图像，p. 103）。有翅成虫段原文即标「unbekannt」，故不设「有翅成虫」节，仅据若虫材料设「若虫」节。工蚁一节原文只有一句比较语，未展开，已在正文说明而不代抄 Crenetermes 条文。中文属名未定（批次标为「—」），暂用拉丁名。"
+}

@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "拼写差异与异名提议",
+   "heading_en": "Spelling discrepancy and synonymy proposal",
+   "heading_es": "Discrepancia de grafía y propuesta de sinonimia",
+   "paragraphs": [
+    {
+     "text": "根据 Chiu、Yang 与 Li（2015）研究，滇华扭白蚁（<i>Sinocapritermes yunnanensis</i>）由 Ping 与 Xu 描述自中国大陆，该文将其种加词拼作 yuannensis；在比较形态测量后，该研究认为本种与台湾华扭白蚁（<i>Sinocapritermes mushae</i>）无显著差异，据此提议把本种作为后者的次异名。该处理属该文的分类意见，本站仍按独立种列示；本站页面采用 yunnanensis 拼写，与该文拼写不一致，待核。（据摘要）",
+     "src": [
+      "S0350"
+     ],
+     "text_en": "In the study by Chiu, Yang and Li (2015), <i>Sinocapritermes yunnanensis</i>, described from mainland China by Ping and Xu, is spelled yuannensis in that paper; after comparing morphometric data the study found no significant difference from <i>Sinocapritermes mushae</i> and therefore proposed the species as a junior synonym of the latter. That is the taxonomic opinion of the paper, while this site still lists it as a separate species; the page uses the spelling yunnanensis, which differs from the paper and remains to be checked. (According to the abstract.)",
+     "text_es": "En el estudio de Chiu, Yang y Li (2015), <i>Sinocapritermes yunnanensis</i>, descrita de China continental por Ping y Xu, aparece escrita yuannensis en ese artículo; tras comparar datos morfométricos, el estudio no halló diferencias significativas con <i>Sinocapritermes mushae</i> y por ello propuso la especie como sinónimo posterior de ésta. Esa es la opinión taxonómica del artículo, mientras que este sitio la sigue listando como especie separada; la página usa la grafía yunnanensis, distinta de la del artículo, que queda por verificar. (Según el resumen.)"
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0350",
+   "citation": "Chiu, C.-I.; Yang, M.-M.; Li, H.-F. 2015. Redescription of the Soil-Feeding Termite Sinocapritermes mushae (Isoptera: Termitidae: Termitinae): The First Step of Genus Revision. Annals of the Entomological Society of America.",
+   "doi": "10.1093/aesa/sav106"
+  }
+ ]
+}

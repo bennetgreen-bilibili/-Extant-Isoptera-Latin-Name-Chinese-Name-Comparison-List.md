@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "分类地位与澳大利亚的分布",
+   "heading_en": "Taxonomic status and occurrence in Australia",
+   "heading_es": "Estatus taxonómico y presencia en Australia",
+   "paragraphs": [
+    {
+     "text": "据摘要，Gay 与 Watson（1982）把第二堆砂白蚁（Cryptotermes secundus）从长颚堆砂白蚁（Cryptotermes dudleyi）的异名中移出，恢复为独立种，并把它列为澳大利亚特有种之一。",
+     "text_en": "According to the abstract, Gay and Watson (1982) removed <i>Cryptotermes secundus</i> from synonymy with <i>Cryptotermes dudleyi</i>, restoring it as a distinct species and treating it as one of the endemic species of Australia.",
+     "text_es": "Según el resumen, Gay y Watson (1982) sacaron <i>Cryptotermes secundus</i> de la sinonimia con <i>Cryptotermes dudleyi</i>, restableciéndola como especie distinta y tratándola como una de las especies endémicas de Australia.",
+     "src": [
+      "S0187"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0187",
+   "citation": "Gay, F. J.; Watson, J. A. L. 1982. The genus Cryptotermes in Australia (Isoptera: Kalotermitidae). Australian Journal of Zoology, Supplementary Series 88.",
+   "doi": "10.1071/AJZS088"
+  }
+ ]
+}

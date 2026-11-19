@@ -1,0 +1,35 @@
+{
+ "Ereymatermes panamensis": {
+  "label": "Ereymatermes panamensis Roisin, 1995",
+  "match": "exact",
+  "notes": "",
+  "otu": 84436,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84436/overview",
+  "valid_label": null,
+  "valid_otu": 84436,
+  "verified": false
+ },
+ "Ereymatermes piquira": {
+  "label": "Ereymatermes piquira Cancello & Cuezzo, 2007",
+  "match": "exact",
+  "notes": "",
+  "otu": 84437,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84437/overview",
+  "valid_label": null,
+  "valid_otu": 84437,
+  "verified": false
+ },
+ "Ereymatermes rotundiceps": {
+  "label": "Ereymatermes rotundiceps Constantino, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 84438,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84438/overview",
+  "valid_label": null,
+  "valid_otu": 84438,
+  "verified": false
+ }
+}

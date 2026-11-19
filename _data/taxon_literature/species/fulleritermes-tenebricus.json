@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "旧组合与苏丹记录",
+   "heading_en": "Former combinations and a record from Sudan",
+   "heading_es": "Combinaciones anteriores y un registro de Sudán",
+   "paragraphs": [
+    {
+     "src": [
+      "S0336"
+     ],
+     "text": "根据 Coaton（1962）研究，阴暗富勒白蚁（<i>Fulleritermes tenebricus</i>）1914 年由 Silvestri 以几内亚 Kakoulima 标本描述为旧属 <i>Eutermes</i> 的 <i>Eutermes tenebricus</i>，同文还记录南尼日利亚的 Olokomeji；1926 年 Sjöstedt 与 1949 年 Snyder 均置于缩狭白蚁属（<i>Coarctotermes</i>），Sands（1957）记录苏丹 Delami；1962 年 Coaton 依据有翅成虫—工蚁左上颚齿式把该种移入富勒白蚁属（<i>Fulleritermes</i>）。",
+     "text_en": "According to Coaton (1962), Silvestri described <i>Fulleritermes tenebricus</i> in 1914 as <i>Eutermes tenebricus</i>, in the old genus <i>Eutermes</i>, from a specimen from Kakoulima in Guinea, and recorded it in the same work from Olokomeji in southern Nigeria; in 1926 Sjöstedt and in 1949 Snyder placed it in <i>Coarctotermes</i>, Sands (1957) recorded it from Delami in Sudan, and in 1962 Coaton transferred it to <i>Fulleritermes</i> on the basis of the mandibular dentition of the imago–worker caste.",
+     "text_es": "Según Coaton (1962), Silvestri describió <i>Fulleritermes tenebricus</i> en 1914 como <i>Eutermes tenebricus</i>, en el género antiguo <i>Eutermes</i>, a partir de un ejemplar de Kakoulima, en Guinea, y la registró en la misma obra de Olokomeji, en el sur de Nigeria; en 1926 Sjöstedt y en 1949 Snyder la situaron en <i>Coarctotermes</i>, Sands (1957) la registró de Delami, en Sudán, y en 1962 Coaton la transfirió a <i>Fulleritermes</i> sobre la base de la dentición mandibular de la casta imago–obrera."
+    }
+   ]
+  },
+  {
+   "heading": "多哥北部的木栖记录",
+   "heading_en": "A wood-dwelling record from northern Togo",
+   "heading_es": "Un registro xilófilo del norte de Togo",
+   "paragraphs": [
+    {
+     "text": "据摘要，Effowe 等（2021）在多哥北部 Galangashi 保护区把阴暗富勒白蚁（<i>Fulleritermes tenebricus</i>）记为木栖种类，与该区取食功能群 I 的唯一成员中间乳白蚁（<i>Coptotermes intermedius</i>）一同出现，作者认为二者的出现与当地植被有关；该调查在保护区的 3 个样点共记录 28 种白蚁、14 属、6 亚科。",
+     "text_en": "According to the abstract, Effowe et al. (2021) recorded <i>Fulleritermes tenebricus</i> as a wood-dwelling species in Galangashi Park, northern Togo, occurring together with <i>Coptotermes intermedius</i>, the only member of feeding group I in the area, and the authors considered that the occurrence of both is due to the vegetation; the survey recorded 28 termite species, 14 genera and 6 subfamilies at three sites in the park.",
+     "text_es": "Según el resumen, Effowe et al. (2021) registraron <i>Fulleritermes tenebricus</i> como especie xilófila en el parque de Galangashi, en el norte de Togo, donde aparece junto a <i>Coptotermes intermedius</i>, el único miembro del grupo trófico I de la zona, y los autores consideraron que la presencia de ambas se debe a la vegetación; el muestreo registró 28 especies de termitas, 14 géneros y 6 subfamilias en tres sitios del parque.",
+     "src": [
+      "S0364"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0336",
+   "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+   "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+  },
+  {
+   "id": "S0364",
+   "citation": "Effowe, T. Q.; Kasseney, B. D.; Ndiaye, A. B.; Sanbena, B.; Amevoin, K.; Glitho, I. A. 2021. Termites' diversity in a protected park of the northern Sudanian savanna of Togo (West Africa). Nature Conservation.",
+   "url": "https://doi.org/10.3897/natureconservation.43.59474"
+  }
+ ]
+}

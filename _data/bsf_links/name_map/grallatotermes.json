@@ -1,0 +1,79 @@
+{
+ "Grallatotermes admirabilus": {
+  "label": "Grallatotermes admirabilus Light, 1930",
+  "match": "exact",
+  "notes": "",
+  "otu": 84451,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84451/overview",
+  "valid_label": null,
+  "valid_otu": 84451,
+  "verified": false
+ },
+ "Grallatotermes africanus": {
+  "label": "Grallatotermes africanus Harris, 1954",
+  "match": "exact",
+  "notes": "",
+  "otu": 84452,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84452/overview",
+  "valid_label": null,
+  "valid_otu": 84452,
+  "verified": false
+ },
+ "Grallatotermes grallator": {
+  "label": "Grallatotermes grallator (Desneux, 1905)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84453,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84453/overview",
+  "valid_label": null,
+  "valid_otu": 84453,
+  "verified": false
+ },
+ "Grallatotermes grallatoriformis": {
+  "label": "Grallatotermes grallatoriformis (Holmgren & Holmgren, 1917)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84454,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84454/overview",
+  "valid_label": null,
+  "valid_otu": 84454,
+  "verified": false
+ },
+ "Grallatotermes niger": {
+  "label": "Grallatotermes niger Chatterjee & Thapa, 1964",
+  "match": "exact",
+  "notes": "",
+  "otu": 84455,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84455/overview",
+  "valid_label": null,
+  "valid_otu": 84455,
+  "verified": false
+ },
+ "Grallatotermes splendidus": {
+  "label": "Grallatotermes splendidus Light & Wilson, 1936",
+  "match": "exact",
+  "notes": "",
+  "otu": 84456,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84456/overview",
+  "valid_label": null,
+  "valid_otu": 84456,
+  "verified": false
+ },
+ "Grallatotermes weyeri": {
+  "label": "Grallatotermes weyeri Kemner, 1931",
+  "match": "exact",
+  "notes": "",
+  "otu": 84457,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84457/overview",
+  "valid_label": null,
+  "valid_otu": 84457,
+  "verified": false
+ }
+}

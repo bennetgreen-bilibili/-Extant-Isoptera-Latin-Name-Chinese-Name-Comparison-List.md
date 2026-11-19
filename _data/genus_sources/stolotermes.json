@@ -1,0 +1,43 @@
+{
+ "latin": "Stolotermes",
+ "zh": "胄白蚁属",
+ "family": "stolotermitidae",
+ "treatise": true,
+ "citation": "Stolotermes Hagen, 1858c: 105 [first introduced as a subgenus of Hodotermes Hagen, 1853].",
+ "type_species": "Hodotermes (Stolotermes) brunneicornis Hagen, 1858 by monotypy.",
+ "references": [
+  {
+   "ref": "Brauer, 1868: 393",
+   "note": "Stolotermes; key."
+  },
+  {
+   "ref": "Froggatt, 1897a: 517, 537",
+   "note": "Stolotermes; characters."
+  },
+  {
+   "ref": "Desneux, 1904b: 17, 18",
+   "note": "Stolotermes; reference list; characters; key; species included; distribution."
+  },
+  {
+   "ref": "Hudson, 1904: 3",
+   "note": "Stolotermes; characters."
+  },
+  {
+   "ref": "Froggatt, 1905: 22",
+   "note": "Stolotermes; characters."
+  },
+  {
+   "ref": "Escherich, 1909: 172, 179",
+   "note": "Stolotermes; key."
+  },
+  {
+   "ref": "Holmgren, 1911a: 10, 46",
+   "note": "Stolotermes; reference list; key; species included."
+  },
+  {
+   "ref": "Emerson, 1942: 6, 7–10, 11",
+   "note": "Stolotermes; synonymy; diagnosis; relationships."
+  }
+ ],
+ "nrefs": 33
+}

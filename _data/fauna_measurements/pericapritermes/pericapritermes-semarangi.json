@@ -1,0 +1,86 @@
+{
+ "book_n": "379",
+ "book_name": "三宝近扭白蚊 Pericapritermes semarangi",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "三宝近扭白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "5.33–5.44"
+    },
+    {
+     "key": "head_length_with_mandibles",
+     "value": "2.95–3.11"
+    },
+    {
+     "key": "head_length_without_mandibles",
+     "value": "1.84–1.93"
+    },
+    {
+     "key": "head_width",
+     "value": "0.90–0.97"
+    },
+    {
+     "key": "head_height",
+     "value": "0.81–0.90"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.61–0.68"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "0.72–0.75"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 1132,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "三宝近扭白蚊有翅成虫量度 ( mm)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "9.50–9.80"
+    },
+    {
+     "key": "body_length_without_wings",
+     "value": "5.55–5.90"
+    },
+    {
+     "key": "wing_length",
+     "value": "8.00–8.22"
+    },
+    {
+     "key": "ocellus_length",
+     "value": "0.11–0.13"
+    },
+    {
+     "key": "ocellus_width",
+     "value": "0.09–0.10"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.07–0.09"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.43–0.48"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 1141,
+   "unit": "mm"
+  }
+ ]
+}

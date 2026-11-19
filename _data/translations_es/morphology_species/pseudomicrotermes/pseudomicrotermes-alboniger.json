@@ -1,0 +1,21 @@
+{
+ "note": "Este género es monotípico y contiene solo esta especie; la siguiente es la descripción a nivel de género basada en la literatura original; las medidas a nivel de especie y la variación intraespecífica figuran en el original.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Género nuevo establecido por Holmgren en 1912, con una sola especie, Pseudomicrotermes alboniger (Wasm.), del Congo; sinónimo en parte Mirotermes (Wasmann 1911). Se incluía antes en Microtermes y se separó porque el examen morfológico mostró que su semejanza con Microtermes era solo de hábitos; según la tabla comparativa de Holmgren, el alado de este género es «muy pequeño», con la cabeza muy grande y mucho más ancha que el pronoto, y el soldado tiene la cabeza rectangular, mucho más larga que ancha, y difiere de Microtermes por la longitud de la base del clípeo, la relación entre largo y ancho del labro, la dentición de las mandíbulas y la venación alar (presencia o ausencia de vena accesoria y de reticulación). El labro del soldado es lanceolado y más de dos veces más largo que ancho; las mandíbulas están curvadas en forma de cuchilla y el borde externo no es cóncavo en la base; antenas de 13–14 artejos; las cercas son anormalmente largas y no hay estilos."
+  },
+  {
+   "label": "Alado",
+   "text": "Tamaño muy pequeño. La cabeza es muy grande, bastante fuertemente elevada y gruesa, y se estrecha ligeramente hacia delante. El ojo compuesto es de tamaño medio y plano. El ocelo es pequeño, dista del ojo compuesto apenas más que su diámetro, mira completamente hacia los lados y su borde interno está algo elevado. El poro de la glándula frontal está muy retrasado, con un punto oscuro en el centro. La banda transversal es muy larga. La base del clípeo es corta, mucho menos de la mitad de su anchura, ligeramente elevada, con el borde posterior algo cóncavo y el anterior recto. El labro es aproximadamente tan ancho como largo. El diente apical de las mandíbulas está algo engrosado. Antenas de 16 artejos, que se engruesan hacia el ápice. El pronoto es bastante pequeño, con el lóbulo anterior incurvado y el borde anterior escotado; el borde posterior es escotado. La parte posterior del mesonoto y del metanoto es algo aguda y presenta una escotadura rectangular. La escama alar anterior es algo mayor que la posterior. La membrana alar es transparente, con puntos espiniformes muy finos y sin reticulación; las venas son muy poco aparentes; la media está próxima a la cubital y parece ramificarse solo muy débilmente (¿simple?); la cubital tiene unas 10 ramas. El abdomen es blanco. La tibia anterior lleva 3 espolones apicales, y las tibias media y posterior solo 2. El penúltimo tarsómero se prolonga en un saliente fino y alargado. Las cercas son bastante largas. No hay estilos."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza rectangular, de ángulos redondeados, mucho más larga que ancha y gruesa. La frente está ligeramente inclinada. El poro de la glándula frontal se sitúa en la parte horizontal de la cabeza, cerca del borde de la porción inclinada. El labro es lanceolado, más de dos veces más largo que ancho, con un pequeño extremo transparente y algunas setas por detrás de él. Las mandíbulas están curvadas en forma de cuchilla y el borde externo no es cóncavo en la base. La mandíbula izquierda tiene un diente basal bilobulado y, en la parte media, tres dientes muy pequeños pero agudos; la porción apical es débil y microscópicamente aserrada. La mandíbula derecha tiene dos dientes pequeños en la base y, en la parte media, solo una dilatación roma dentiforme. Antenas de 13–14 artejos, que se engruesan hacia el ápice. El pronoto es pequeño y en forma de silla de montar, con el lóbulo anterior grande y el borde anterior profundamente escotado. Las cercas son anormalmente largas. No hay estilos."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza anchamente ovalada, más larga que ancha. El poro de la glándula frontal está bastante retrasado. La base del clípeo es algo más corta que su media anchura, con el borde posterior bastante convexo y el anterior algo cóncavo. Las mandíbulas son como en el alado. Antenas de 15–16 artejos. El pronoto es en forma de silla de montar, con el borde anterior profundamente escotado. Las cercas son largas. No hay estilos."
+  }
+ ]
+}

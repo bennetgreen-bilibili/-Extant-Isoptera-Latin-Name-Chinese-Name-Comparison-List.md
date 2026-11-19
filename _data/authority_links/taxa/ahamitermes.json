@@ -1,0 +1,68 @@
+{
+ "Ahamitermes hillii": {
+  "gbif": {
+   "key": 4803296,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahamitermes hillii Nicholls, 1929",
+   "accepted": null
+  },
+  "col": {
+   "id": "5TV2X",
+   "status": "accepted",
+   "label": "Ahamitermes hillii Nicholls, 1929",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272270",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahamitermes inclusus": {
+  "gbif": {
+   "key": 4803293,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahamitermes inclusus Gay, 1955",
+   "accepted": null
+  },
+  "col": {
+   "id": "BBYB",
+   "status": "accepted",
+   "label": "Ahamitermes inclusus Gay, 1955",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272271",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahamitermes nidicola": {
+  "gbif": {
+   "key": 4803294,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahamitermes nidicola Mjöberg, 1920",
+   "accepted": null
+  },
+  "col": {
+   "id": "BBYC",
+   "status": "accepted",
+   "label": "Ahamitermes nidicola Mjöberg, 1920",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272272",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

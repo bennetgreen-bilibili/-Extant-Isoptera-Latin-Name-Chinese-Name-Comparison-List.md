@@ -1,0 +1,405 @@
+{
+ "Rugitermes aridus": {
+  "gbif": {
+   "key": 10681574,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes aridus Scheffrahn, 2020",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Rugitermes Holmgren, 1911",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Rugitermes athertoni": {
+  "gbif": {
+   "key": 9261129,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes athertoni (Light, 1932)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4TP5S",
+   "status": "accepted",
+   "label": "Rugitermes athertoni (Light, 1932)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254501",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rugitermes bicolor": {
+  "gbif": {
+   "key": 9679597,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes bicolor (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4TP5T",
+   "status": "accepted",
+   "label": "Rugitermes bicolor (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254502",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rugitermes costaricensis": {
+  "gbif": {
+   "key": 9709618,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes costaricensis (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "78XCG",
+   "status": "accepted",
+   "label": "Rugitermes costaricensis (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254503",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rugitermes flavicinctus": {
+  "gbif": {
+   "key": 9742154,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes flavicinctus (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4TP5V",
+   "status": "accepted",
+   "label": "Rugitermes flavicinctus (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254504",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rugitermes kirbyi": {
+  "gbif": {
+   "key": 9773026,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes kirbyi (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4TP5W",
+   "status": "accepted",
+   "label": "Rugitermes kirbyi (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254505",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rugitermes laticollis": {
+  "gbif": {
+   "key": 8983182,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes laticollis Snyder, 1957",
+   "accepted": null
+  },
+  "col": {
+   "id": "4TP5X",
+   "status": "accepted",
+   "label": "Rugitermes laticollis Snyder, 1957",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254506",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rugitermes magninotus": {
+  "gbif": {
+   "key": 8747619,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes magninotus (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4TP5Y",
+   "status": "accepted",
+   "label": "Rugitermes magninotus (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254507",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rugitermes niger": {
+  "gbif": {
+   "key": 9813221,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes niger de Oliveira, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "4TP5Z",
+   "status": "accepted",
+   "label": "Rugitermes niger de Oliveira, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254508",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rugitermes nodulosus": {
+  "gbif": {
+   "key": 9193876,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes nodulosus (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4TP62",
+   "status": "accepted",
+   "label": "Rugitermes nodulosus (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254509",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rugitermes occidentalis": {
+  "gbif": {
+   "key": 9660851,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes occidentalis (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4TP63",
+   "status": "accepted",
+   "label": "Rugitermes occidentalis (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254510",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rugitermes panamae": {
+  "gbif": {
+   "key": 8939627,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes panamae (Snyder, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4TP64",
+   "status": "accepted",
+   "label": "Rugitermes panamae (Snyder, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254512",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rugitermes rufus": {
+  "gbif": {
+   "key": 10790106,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes rufus Scheffrahn, 2020",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Rugitermes Holmgren, 1911",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Rugitermes rugosus": {
+  "gbif": {
+   "key": 9698799,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes rugosus (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4TP65",
+   "status": "accepted",
+   "label": "Rugitermes rugosus (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254513",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rugitermes tinto": {
+  "gbif": {
+   "key": 10883209,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes tinto Scheffrahn & Pinzón Florian, 2020",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Rugitermes Holmgren, 1911",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Rugitermes unicolor": {
+  "gbif": {
+   "key": 8761884,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes unicolor Snyder, 1952",
+   "accepted": null
+  },
+  "col": {
+   "id": "4TP66",
+   "status": "accepted",
+   "label": "Rugitermes unicolor Snyder, 1952",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254514",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rugitermes ursulae": {
+  "gbif": {
+   "key": 11115990,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes ursulae Casalla, Scheffrahn & Korb, 2021",
+   "accepted": null
+  },
+  "col": {
+   "id": "F7YBB",
+   "status": "accepted",
+   "label": "Rugitermes ursulae Casalla, Scheffrahn & Korb, 2021",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rugitermes volcanensis": {
+  "gbif": {
+   "key": 10833903,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rugitermes volcanensis Scheffrahn, 2020",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Rugitermes Holmgren, 1911",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

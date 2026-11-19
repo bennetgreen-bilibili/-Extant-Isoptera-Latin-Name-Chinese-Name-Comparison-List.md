@@ -1,0 +1,16 @@
+{
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Soldier with slender, snapping mandibles, the head bearing a conical cephalic projection (i.e. frontal projection), and with a well-developed large yellow labial gland extending posteriorly deep into the abdomen; the genus is soil-feeding, and the worker enteric valve armature (EVA) is highly diagnostic."
+  },
+  {
+   "label": "Soldier",
+   "text": "Mandibles slender, snapping; in most species the mandibles have marginal teeth (only D. brevicarinatus lacks marginal teeth); the apical hook accounts for about 1/7 of total mandible length (most species) or about 1/3 (D. pantanalis); the shape of the frontal projection (shallow/steep, triangular/narrowly trapezoidal, angle of the posterior margin with the plane of the vertex) is a diagnostic character between species."
+  },
+  {
+   "label": "Worker",
+   "text": "Soil-feeding; enteric valve armature highly diagnostic, but without marked intraspecific variation."
+  }
+ ]
+}

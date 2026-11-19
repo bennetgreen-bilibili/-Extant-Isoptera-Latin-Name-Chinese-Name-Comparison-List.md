@@ -1,0 +1,63 @@
+{
+ "book_n": "258",
+ "book_name": "环角土白蚁 Odontotermes annulicornis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "环角土白蚁兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.33",
+     "value": "1.25–1.50"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.15",
+     "value": "1.08–1.28"
+    },
+    {
+     "key": "head_height",
+     "mean": "0.90",
+     "value": "0.84–0.98"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.85",
+     "value": "0.78–0.93"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "0.84",
+     "value": "0.70–0.92"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.60",
+     "value": "0.55–0.66"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.56",
+     "value": "0.50–0.62"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.87",
+     "value": "0.80–1.00"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.32",
+     "value": "1.25–1.45"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 1361,
+   "unit": "mm"
+  }
+ ]
+}

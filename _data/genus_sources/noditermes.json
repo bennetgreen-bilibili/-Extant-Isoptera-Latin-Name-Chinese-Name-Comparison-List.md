@@ -1,0 +1,39 @@
+{
+ "latin": "Noditermes",
+ "zh": "节白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Noditermes Sjöstedt, 1924b: 257.",
+ "type_species": "Eutermes lamanianus Sjöstedt, 1905 by original designation.",
+ "references": [
+  {
+   "ref": "Harris, 1941: 202",
+   "note": "Noditermes; key."
+  },
+  {
+   "ref": "Webb, 1961: 13",
+   "note": "Noditermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 28, 102, 103, pl. 19: fig. 58c",
+   "note": "Noditermes; key; characters; imago/ worker mandibles figured. 1962 Bulletin of the American Museum of natural History\b No. 377"
+  },
+  {
+   "ref": "Coaton and Sheasby, 1972: 25, 73, 101, figs. 14C–D, 44",
+   "note": "Noditermes; soldier figured; key; ecology; biology; distribution. Namibia."
+  },
+  {
+   "ref": "Morimoto, 1975b: 33",
+   "note": "Noditermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 38, 229–231, figs. 974–994, pl. 14: figs. 5–8",
+   "note": "Noditermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  },
+  {
+   "ref": "Uys, 2002: 67, 83–84, fig. 203",
+   "note": "Noditermes; key; species included; diagnosis; biology; distribution. South Africa."
+  }
+ ],
+ "nrefs": 17
+}

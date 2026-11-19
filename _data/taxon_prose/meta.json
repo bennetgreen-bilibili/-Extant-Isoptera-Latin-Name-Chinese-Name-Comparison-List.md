@@ -1,0 +1,9 @@
+{
+ "description": "三语科/亚科正文与插图；中文正文渲染在 /family/、/subfamily/ 页面，英文与西班牙文正文渲染在 /en/list/sections/、/es/list/sections/。",
+ "languages": [
+  "zh",
+  "en",
+  "es"
+ ],
+ "source": "extracted from the pre-index list pages by _tools/extract_taxon_data.py"
+}

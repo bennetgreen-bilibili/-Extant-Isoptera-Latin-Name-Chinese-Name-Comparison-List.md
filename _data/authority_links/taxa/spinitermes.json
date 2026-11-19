@@ -1,0 +1,112 @@
+{
+ "Spinitermes brevicornutus": {
+  "gbif": {
+   "key": 9519122,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Spinitermes brevicornutus (Desneux, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4Z5L3",
+   "status": "accepted",
+   "label": "Spinitermes brevicornutus (Desneux, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073799",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Spinitermes longiceps": {
+  "gbif": {
+   "key": 9697898,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Spinitermes longiceps Constantino, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "4Z5L4",
+   "status": "accepted",
+   "label": "Spinitermes longiceps Constantino, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073797",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Spinitermes nigrostomus": {
+  "gbif": {
+   "key": 9648475,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Spinitermes nigrostomus Holmgren, 1906",
+   "accepted": null
+  },
+  "col": {
+   "id": "4Z5L5",
+   "status": "accepted",
+   "label": "Spinitermes nigrostomus Holmgren, 1906",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073796",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Spinitermes robustus": {
+  "gbif": {
+   "key": 9806411,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Spinitermes robustus (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4Z5L6",
+   "status": "accepted",
+   "label": "Spinitermes robustus (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073795",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Spinitermes trispinosus": {
+  "gbif": {
+   "key": 9252136,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Spinitermes trispinosus (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4Z5L7",
+   "status": "accepted",
+   "label": "Spinitermes trispinosus (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073794",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

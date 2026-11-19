@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "据摘要，Watson 与 Perry（1981）重新描述了红头镰白蚁（<i>Drepanotermes rubriceps</i>），把镰白蚁属的旧异名 <i>Drepanotermes silvestrii</i>（镰白蚁属的旧异名）并入此种，并把该种的种下名 opacus 作 nomen nudum 处理。",
+     "text_en": "According to the abstract, Watson and Perry (1981) redescribed <i>Drepanotermes rubriceps</i>, sank the old name <i>Drepanotermes silvestrii</i> (an old synonym in <i>Drepanotermes</i>) into it as a synonym, and treated the infraspecific name opacus as a nomen nudum.",
+     "text_es": "Según el resumen, Watson y Perry (1981) redescribieron <i>Drepanotermes rubriceps</i>, incluyeron en ella como sinónimo el antiguo nombre <i>Drepanotermes silvestrii</i> (antiguo sinónimo de <i>Drepanotermes</i>) y trataron el nombre infraespecífico opacus como nomen nudum.",
+     "src": [
+      "S0190"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0190",
+   "citation": "J. A. L. Watson; D H Perry 1981 The Australian harvester temites of the genus Drepanotermes (Isoptera : Termitinae). Australian Journal of Zoology Supplementary Series.",
+   "doi": "10.1071/ajzs078"
+  }
+ ]
+}

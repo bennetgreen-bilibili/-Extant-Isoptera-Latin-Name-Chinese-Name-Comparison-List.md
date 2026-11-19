@@ -1,0 +1,21 @@
+{
+ "zh_name": "隔离白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "新热带 apicotermitine 中，与 Anoplotermes banksi、A. pacificus 及 Hydrecotermes spp. 一样具强烈膨大的前胫节（fore tibia），且肠瓣（enteric valve）无刺、无硬化。与 A. banksi 最近，但可由左上颚的附属（第四）缘齿、更大的肠瓣 seating 与更平截的 P2 末端与之区分；Hydrecotermes 无球形的 mesenteric tongue。"
+  },
+  {
+   "label": "工蚁",
+   "text": "单型，小型。头壳淡黄，被约 100 根长短不一的刚毛；后唇基中度膨大；fontanelle 几乎不可辨；触角 14 节。左上颚端齿与第一缘齿分离远、均长，明显超出第三缘齿与磨突所成的连线；磨突上方另具一附属（第四）缘齿，背视与腹视均可见。右颚端齿远长于第一缘齿，第三缘齿近对称。前胫节强烈膨大，长约为其最宽处（中部）的 3 倍。mesenteric tongue 球形。P2 经一大型、粗壮的三叶肠瓣 seating 进入，其中两叶可透过体壁看到；肠瓣由 6 个细长、膨大的 pad 组成，面向瓣腔；P2 后端（含肠瓣）末端平截，伸入 seating 约一半。量度：种级（Table 2，11 个群体各 12 头工蚁；正模头宽 0.64 mm）。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0052",
+   "citation": "Scheffrahn R. H.; Carrijo T. F.; Postle A. C.; Tonini F. 2017. Disjunctitermes insularis, a new soldierless termite genus and species (Isoptera, Termitidae, Apicotermitinae) from Guadeloupe and Peru. ZooKeys 665: 71–84. https://doi.org/10.3897/zookeys.665.11599",
+   "locator": "Disjunctitermes gen. n. — Diagnosis; Imago; Worker（ZooKeys 665: 71–84）"
+  }
+ ],
+ "note": "imago 原文记为 Unknown，故不设「有翅成虫」节；无兵蚁节（soldierless）。属级 Diagnosis 以肠瓣与胫节为主，属级 Worker 一节给出体壁与消化道。"
+}

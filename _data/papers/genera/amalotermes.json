@@ -1,0 +1,33 @@
+{
+ "fetched_at": "2026-10-30T15:46:02Z",
+ "latin": "Amalotermes",
+ "papers": [
+  {
+   "abstract": "Gut content analysis was carried out on eight species of higher termites representing the four included subfamilies and notional soil‐feeding and wood‐feeding forms. A lower termite species feeding on wood was also examined. Pooled homogenates equivalent in volume to twenty hindguts of Thoracotermes macrothorax were diluted, stained and scored present/absent in 500 haemacytometer fields for ten content item categories: macerated organic material, lignified tissue, plant tissue fragments, fungal mycelium, arthropod parts, plant roots, safranin +ve, gentian violet +ve, humus and silica. For interspecific comparisons, the occurrence of each category was expressed as a proportion of the total haemacytometer cells examined. A hierarchical classification of the species, based on gut contents, was prepared using a two‐way indicator species analysis, and suggested the following rank order of species along a hypothetical humification gradient (soil to sound wood): Thoracotermes macrothorax, Astalotermes quietus (both soil‐feeders), Termes hospes, Amalotermes phaecocephalus, Pseudacanthotermes militaris, Microtermes congoensis, Nasutitermes lujae, Microcerotermes parvus, Schedorhinotermes putorius (all notional wood‐feeders). Arthropod parts, silica and humus were identified as indicator factors. It is proposed that wood‐feeding forms can be subdivided into a group consuming some silica and humus (five species: humified wood‐feeders) and a second group of sound wood‐feeders (two species). Pianka's equations for diet breadth and diet overlap were also applied to the data. These identified Microtermes congoensis, Schedorhinotermes putorius and Pseudacanthotermes militaris as the most specialized feeders, i.e. that they can extract their nutrients from the least heterogenous substrates.",
+   "abstract_chars": 1804,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "F. SLEAFORD",
+    "David E. Bignell",
+    "Paul Eggleton"
+   ],
+   "cited_by": 64,
+   "date": "1996-08-01",
+   "doi": "10.1111/j.1365-2311.1996.tb01245.x",
+   "doi_url": "https://doi.org/10.1111/j.1365-2311.1996.tb01245.x",
+   "id": "https://openalex.org/W2086586464",
+   "issue": "3",
+   "language": "en",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W2086586464",
+   "pages": "279-288",
+   "title": "A pilot analysis of gut contents in termites from the Mbalmayo Forest Reserve, Cameroon",
+   "type": "article",
+   "venue": "Ecological Entomology",
+   "volume": "21",
+   "year": 1996
+  }
+ ],
+ "zh": "软白蚁属"
+}

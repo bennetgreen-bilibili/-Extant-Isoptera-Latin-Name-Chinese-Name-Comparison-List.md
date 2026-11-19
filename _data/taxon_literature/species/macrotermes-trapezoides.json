@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "云南新记录",
+   "paragraphs": [
+    {
+     "text": "根据何银竹、梁醒财（2009）研究，云南保山下村 1982 年 10 月 25 日采得的标本被作为梯头大白蚁（Macrotermes trapezoides）的云南省新记录报道；大兵蚁头呈梯形、后缘近平直，触角 17 节、第三节长于第二节，除云南外还分布于海南。",
+     "src": [
+      "S0111"
+     ],
+     "text_en": "According to He Yinzhu & Liang Xingcai's (2009) study, specimens collected on 25 October 1982 at Xiacun, Baoshan, Yunnan, were reported as a new record of Macrotermes trapezoides for Yunnan Province; the major soldier has a trapezoidal head with a nearly straight posterior margin, 17-segmented antennae, and a third antennal segment longer than the second, and besides Yunnan the species also occurs in Hainan.",
+     "text_es": "Según el estudio de He Yinzhu y Liang Xingcai (2009), unos ejemplares recolectados el 25 de octubre de 1982 en Xiacun, Baoshan, Yunnan, se citaron como nuevo registro para Yunnan de Macrotermes trapezoides; los soldados mayores tienen la cabeza trapezoidal, con el borde posterior casi recto, antenas de 17 artejos, con el tercero más largo que el segundo; además de en Yunnan, se distribuye por Hainan."
+    }
+   ],
+   "heading_en": "A new record for Yunnan",
+   "heading_es": "Nuevo registro para Yunnan"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0111",
+   "citation": "何银竹, 梁醒财. 2009. 大白蚁亚科云南省新记录种. 西南师范大学学报（自然科学版）34(1): 137–140. https://doi.org/10.13718/j.cnki.xsxb.2009.01.014",
+   "doi": "10.13718/j.cnki.xsxb.2009.01.014"
+  }
+ ]
+}

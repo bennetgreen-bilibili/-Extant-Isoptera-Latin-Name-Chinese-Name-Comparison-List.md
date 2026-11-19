@@ -1,0 +1,13 @@
+{
+ "Paraneotermes simplicicornis": {
+  "label": "Paraneotermes simplicicornis (Banks, 1920)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83007,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83007/overview",
+  "valid_label": null,
+  "valid_otu": 83007,
+  "verified": false
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "latin": "Subulitermes",
+ "zh": "锥白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Subulitermes Holmgren, 1910c: 206, 208, 218 [first introduced as a subgenus of Eutermes Heer, 1849].",
+ "type_species": "Eutermes microsoma Silvestri, 1903 by subsequent designation; see Snyder, 1949a: 338.",
+ "references": [
+  {
+   "ref": "Holmgren, 1912a: 59, 61, 64",
+   "note": "Eutermes (Subulitermes); characters; key; species included."
+  },
+  {
+   "ref": "Fuller, 1921: 19, 21, 27",
+   "note": "Subulitermes; key."
+  },
+  {
+   "ref": "Emerson, 1928b: 407, 420",
+   "note": "Nasutitermes (Subulitermes); key; distribution."
+  },
+  {
+   "ref": "Snyder, 1934a: 25, 28",
+   "note": "Nasutitermes (Subulitermes [part]); key."
+  },
+  {
+   "ref": "Lal and Menon, 1953: 36",
+   "note": "Eutermes (Subulitermes); key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 23",
+   "note": "Subulitermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 240, 242",
+   "note": "Subulitermes; synonymy; characters."
+  },
+  {
+   "ref": "Mill, 1983a: 183, 188",
+   "note": "Subulitermes; key; number of species in New World; habitat; distribution."
+  }
+ ],
+ "nrefs": 37
+}

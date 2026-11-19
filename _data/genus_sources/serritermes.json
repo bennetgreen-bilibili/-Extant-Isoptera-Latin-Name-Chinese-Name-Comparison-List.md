@@ -1,0 +1,35 @@
+{
+ "latin": "Serritermes",
+ "zh": "齿白蚁属",
+ "family": "serritermitidae",
+ "treatise": true,
+ "citation": "Serritermes Wasmann, 1897b: 150 [first introduced as a subgenus of Calotermes Hagen, 1858].",
+ "type_species": "Termes serrifer Hagen and Bates, in Hagen, 1858c by original designation.",
+ "references": [
+  {
+   "ref": "Silvestri, 1903: 39–40",
+   "note": "Serritermes; characters; distribution."
+  },
+  {
+   "ref": "Desneux, 1904b: 26, 47",
+   "note": "Serritermes; key; reference list; synonymy; characters; species included; distribution."
+  },
+  {
+   "ref": "Escherich, 1909: 178",
+   "note": "Serritermes; characters."
+  },
+  {
+   "ref": "Emerson and Krishna, 1975: 1, 2, 3",
+   "note": "Serritermes; synonymy; characters."
+  },
+  {
+   "ref": "Constantino, 1999a: 397, 411",
+   "note": "Serritermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 18",
+   "note": "Serritermes; key."
+  }
+ ],
+ "nrefs": 18
+}

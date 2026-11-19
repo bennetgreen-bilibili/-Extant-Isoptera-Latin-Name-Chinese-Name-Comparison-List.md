@@ -1,0 +1,57 @@
+{
+ "fetched_at": "2026-10-30T15:46:40Z",
+ "latin": "Antillitermes",
+ "papers": [
+  {
+   "abstract": "The generic status of the Greater Antillean smaller nasutes (all genera except Nasutitermes) is revised, paying special attention to anatomical characters of the workers. Two new monotypic genera, Caribitermes and Antillitermes, are created. Terrenitermes Spaeth, 1967, is synonymized with Parvitermes Emerson (in Snyder 1949). The following new combinations are proposed: Parvitermes aequalis (Snyder, 1924a) (formerly in Obtusitermes), Parvitermes antillarum (Holmgren, 1910) (formerly in Velocitermes), Parvitermes toussainti (Banks, 1919) (formerly in Terrenitermes), Caribitermes discolor (Banks, 1919) and Antillitermes subtilis (Scheffrahn & Křeček, 1993) (both formerly in Parvitermes). The 2 mainland species formerly assigned to Parvitermes should be removed from this genus: one resulting new combination is Velocitermes laticephalus (Snyder, 1926), whereas the actual taxonomic position of the species described as Parvitermes bacchanalis Mathews, 1977, remains unclear. With the exception of a Constrictotermes species present in Cuba, the smaller nasute fauna of the Greater Antilles and adjacent Bahamas and Virgin Islands now appears endemic to this region at the genus level. We hypothesize that an ancestor related to Obtusitermes diversified in the Greater Antilles and gave rise to all Parvitermes, Caribitermes and perhaps Antillitermes species.",
+   "abstract_chars": 1366,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Yves Roisin",
+    "Rudolf H. Scheffrahn",
+    "Jan Křečk"
+   ],
+   "cited_by": 14,
+   "date": "1996-11-01",
+   "doi": "10.1093/aesa/89.6.775",
+   "doi_url": "https://doi.org/10.1093/aesa/89.6.775",
+   "id": "https://openalex.org/W2022688584",
+   "issue": "6",
+   "language": "en",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W2022688584",
+   "pages": "775-787",
+   "title": "Generic Revision of the Smaller Nasute Termites of the Greater Antilles (Isoptera, Termitidae, Nasutitermitinae)",
+   "type": "article",
+   "venue": "Annals of the Entomological Society of America",
+   "volume": "89",
+   "year": 1996
+  },
+  {
+   "abstract": "The termite genus Parvitermes is now recognized on the Central American mainland to include Parvitermes mexicanus, new combination (previously in Nasutitermes) and two new species, Parvitermes mesoamericanus sp. n. and Parvitermes yucatanus sp. n., herein described from soldiers and workers. These three species, nine West Indian Parvitermes, and Antillitermes subtilis all share characteristic enteric valve spines that orientate against intestinal flow. All species are subterranean nesters and cellulose feeders. Evidence is mounting that generic-level endemicity may be completely absent among the West Indian nasutitermitine fauna and that its origins stem from Central America.",
+   "abstract_chars": 684,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Rudolf H. Scheffrahn"
+   ],
+   "cited_by": 2,
+   "date": "2016-09-15",
+   "doi": "10.3897/zookeys.617.10040",
+   "doi_url": "https://doi.org/10.3897/zookeys.617.10040",
+   "id": "https://openalex.org/W2520017030",
+   "issue": "617",
+   "language": "en",
+   "oa_url": "https://doi.org/10.3897/zookeys.617.10040",
+   "openalex_url": "https://openalex.org/W2520017030",
+   "pages": "47-63",
+   "title": "Parvitermes (Isoptera, Termitidae, Nasutitermitinae) in Central America: Two new termite species and reassignment of Nasutitermes mexicanus",
+   "type": "article",
+   "venue": "ZooKeys",
+   "volume": "617",
+   "year": 2016
+  }
+ ],
+ "zh": "安的列斯白蚁属"
+}

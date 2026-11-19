@@ -1,0 +1,25 @@
+{
+ "zh_name": "锐颚白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫未知。兵蚁头大、两侧直而平行，额腺区剖面平或微凹，头面仅额腺开口附近有极少数短刚毛、后颏近裸；左右上颚各具 1 枚位于中点之前的显著前指大缘齿，左颚齿具长基切缘；足与前足基节均较 Duplidentitermes 长；端距 3:2:2，中胫无深色外刺。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头面仅在额腺开口附近有极少数相当短的散生刚毛；前足基节无强刺，仅有少量细刚毛，不构成特殊排列；前 4 腹背板具短毛或刚毛，后部背板与腹板另有短毛。头大，两侧直而平行；额腺区剖面平或微凹。后颏大，中度缢缩，剖面微凸。触角 15 节。后唇基明显、微拱；上唇侧缘圆，侧角之后两侧直而平行，端部圆钝。左右上颚各具 1 枚位于中点之前的显著、大、前指的缘齿；左颚齿具长的基切缘（与 Firmitermes 不同）。前胸背板前叶较大，前缘中央凹陷浅而不明显。足较 Duplidentitermes 长；前足基节亦较长，简单，纵脊钝而未特化，剖面直或平凸，自端部延伸至基节约 1/3–1/2，脊与内缘之间凸。腿节细，中部近等粗。端距 3:2:2，中胫无深色外刺。"
+  },
+  {
+   "label": "工蚁",
+   "text": "两上颚端齿仅略大于第一缘齿；左颚第一、二缘齿的切缘长而起伏较小（较 Duplidentitermes 及其他近缘白蚁亚科属平直）；第一、二缘齿与第三缘齿之间有显著缺刻；与 Acutidentitermes 相比，两颚第一缘齿较不向前指，端齿与第一缘齿间夹角较钝，左颚第一、二缘齿切缘比例略短。"
+  }
+ ],
+ "note": "有翅成虫在原文中明确记为未知。据英文属征改写，非逐字翻译。",
+ "sources": [
+  {
+   "id": "S0034",
+   "citation": "Emerson A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43.",
+   "locator": "p. 13（Imago 未知）、pp. 13–15（Soldier、Worker）"
+  }
+ ]
+}

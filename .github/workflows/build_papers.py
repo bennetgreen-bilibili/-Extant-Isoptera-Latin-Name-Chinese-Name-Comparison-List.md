@@ -10,7 +10,7 @@
             OpenAlex 缺摘要的同一条记录上。
 
 输出（确定性、可 --check）：
-  _data/papers.json    Jekyll 模板用（site.data.papers）
+  _data/papers/        分片（meta.json + genera/<属>.json），Jekyll 模板用（site.data.papers）
   papers-index.json    公开副本（字节完全相同），/papers/ 页面断网时的兜底缓存
   两者都包含完整摘要（超过 MAX_ABSTRACT_CHARS 才截断，并标记 abstract_truncated）。
 
@@ -43,8 +43,10 @@ from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT / "_tools"))
+import shard_io  # noqa: E402
 SEARCH_INDEX = ROOT / "search-index.json"
-DATA_OUT = ROOT / "_data" / "papers.json"
+DATA_NAME = "papers"
 PUBLIC_OUT = ROOT / "papers-index.json"
 CACHE_PATH = ROOT / "_tmp" / "papers-cache.json"
 
@@ -534,28 +536,31 @@ def build_document(entries: dict, genera: list) -> dict:
 
 def write_outputs(document: dict) -> tuple[int, int]:
     payload = json.dumps(document, ensure_ascii=False, separators=(",", ":"), sort_keys=False) + "\n"
-    write_json(DATA_OUT, payload)
+    written, removed = shard_io.save(DATA_NAME, document)
+    if written or removed:
+        print(shard_io.summary(written, removed, "_data/%s/" % DATA_NAME), flush=True)
     write_json(PUBLIC_OUT, payload)
     return len(payload.encode("utf-8")), len(document.get("genera") or {})
 
 
 def check_outputs(expected_genera: list) -> int:
     problems = []
-    if not DATA_OUT.is_file():
-        print(f"error: {DATA_OUT.relative_to(ROOT)} 不存在（运行 --write 生成）")
+    if not shard_io.exists(DATA_NAME):
+        print(f"error: _data/{DATA_NAME}/ 不存在（运行 --write 生成）")
         return 1
     if not PUBLIC_OUT.is_file():
         print(f"error: {PUBLIC_OUT.relative_to(ROOT)} 不存在（运行 --write 生成）")
         return 1
-    data_bytes = DATA_OUT.read_bytes()
+    document = shard_io.load(DATA_NAME)
     public_bytes = PUBLIC_OUT.read_bytes()
-    if data_bytes != public_bytes:
-        problems.append("_data/papers.json 与 papers-index.json 字节不一致")
     try:
-        document = json.loads(data_bytes.decode("utf-8"))
+        public_doc = json.loads(public_bytes.decode("utf-8"))
     except (UnicodeDecodeError, json.JSONDecodeError) as exc:
-        print(f"error: papers.json 不是合法 JSON：{exc}")
+        print(f"error: papers-index.json 不是合法 JSON：{exc}")
         return 1
+    if json.dumps(document, sort_keys=True) != json.dumps(public_doc, sort_keys=True):
+        problems.append(f"_data/{DATA_NAME}/ 分片与 papers-index.json 内容不一致")
+    data_bytes = public_bytes
 
     meta = document.get("meta") if isinstance(document, dict) else None
     genera = document.get("genera") if isinstance(document, dict) else None
@@ -660,7 +665,7 @@ def parse_fetched_at(value: str):
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="生成 / 校验文献检索器缓存")
-    parser.add_argument("--write", action="store_true", help="写入 _data/papers.json 与 papers-index.json")
+    parser.add_argument("--write", action="store_true", help="写入 _data/papers/ 分片与 papers-index.json")
     parser.add_argument("--check", action="store_true", help="离线校验仓库内缓存")
     parser.add_argument("--refresh", action="store_true", help="显式刷新过期条目（默认 --write 也会刷新过期条目）")
     parser.add_argument("--force", action="store_true", help="全部重新查询")
@@ -685,12 +690,12 @@ def main() -> int:
         return check_outputs(genera)
 
     existing: dict = {}
-    if DATA_OUT.is_file():
+    if shard_io.exists(DATA_NAME):
         try:
-            existing_doc = read_json(DATA_OUT)
+            existing_doc = shard_io.load(DATA_NAME)
             existing = (existing_doc.get("genera") or {}) if isinstance(existing_doc, dict) else {}
-        except (json.JSONDecodeError, OSError) as exc:
-            print(f"warn: 现有 papers.json 不可读（{exc}），从头生成", file=sys.stderr, flush=True)
+        except (ValueError, OSError) as exc:
+            print(f"warn: 现有 _data/{DATA_NAME}/ 不可读（{exc}），从头生成", file=sys.stderr, flush=True)
             existing = {}
 
     cache: dict = {}
@@ -784,7 +789,7 @@ def main() -> int:
     print(
         "写入 %s 与 %s：%d 属、%d 条文献；本次更新 %d、跳过 %d、失败 %d、网络查询 %d；%.1f KB"
         % (
-            DATA_OUT.relative_to(ROOT),
+            "_data/%s/" % DATA_NAME,
             PUBLIC_OUT.relative_to(ROOT),
             count,
             document["meta"]["counts"]["papers"],

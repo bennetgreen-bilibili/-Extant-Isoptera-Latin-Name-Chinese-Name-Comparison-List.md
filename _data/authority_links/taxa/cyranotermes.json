@@ -1,0 +1,90 @@
+{
+ "Cyranotermes caete": {
+  "gbif": {
+   "key": 9423687,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cyranotermes caete Cancello, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "33JG3",
+   "status": "accepted",
+   "label": "Cyranotermes caete Cancello, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237666",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cyranotermes glaber": {
+  "gbif": {
+   "key": 9535488,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cyranotermes glaber Constantino, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "33JG4",
+   "status": "accepted",
+   "label": "Cyranotermes glaber Constantino, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237667",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cyranotermes karipuna": {
+  "gbif": {
+   "key": 7654647,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cyranotermes karipuna Cancello, Carrijo & Rocha, 2012",
+   "accepted": null
+  },
+  "col": {
+   "id": "33JG5",
+   "status": "accepted",
+   "label": "Cyranotermes karipuna Cancello, Carrijo & Rocha, 2012",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237668",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cyranotermes timuassu": {
+  "gbif": {
+   "key": 9692333,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cyranotermes timuassu Araujo, 1970",
+   "accepted": null
+  },
+  "col": {
+   "id": "33JG6",
+   "status": "accepted",
+   "label": "Cyranotermes timuassu Araujo, 1970",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237669",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

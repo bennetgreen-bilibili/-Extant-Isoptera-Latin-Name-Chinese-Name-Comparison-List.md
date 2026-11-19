@@ -1,0 +1,63 @@
+{
+ "book_n": "222",
+ "book_name": "成都杆白蚁 Stylotermes chengduensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "成都杆白蚊兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "8.09",
+     "value": "7.37–8.72"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.48",
+     "value": "1.45–1.55"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.24",
+     "value": "1.18–1.26"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.58",
+     "value": "1.55–1.60"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.21",
+     "value": "0.13–0.31"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.40",
+     "value": "0.40–0.41"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.67",
+     "value": "0.65–0.70"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.28",
+     "value": "1.24–1.34"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.88",
+     "value": "0.80–1.04"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 532,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "多哥首次记录的漠白蚁属种类",
+   "heading_en": "A first record of the genus for Togo",
+   "heading_es": "Primer registro del género para Togo",
+   "paragraphs": [
+    {
+     "text": "据摘要，Effowe 等（2021）在多哥北部苏丹型稀树草原的 Galangashi 保护区记录漠白蚁属（<i>Eremotermes</i>）的一种，将其列为多哥首次记录的 9 种白蚁之一，并认为该种可能为新种；该调查在保护区的 3 个样点共记录 28 种白蚁、14 属、6 亚科。",
+     "text_en": "According to the abstract, Effowe et al. (2021) recorded a species of <i>Eremotermes</i> in Galangashi Park, in the northern Sudanian savanna of Togo, listing it among nine termite species recorded for the first time in the country and considering it potentially new to science; the survey recorded 28 termite species, 14 genera and 6 subfamilies at three sites in the park.",
+     "text_es": "Según el resumen, Effowe et al. (2021) registraron una especie de <i>Eremotermes</i> en el parque de Galangashi, en la sabana sudanesa septentrional de Togo, incluyéndola entre las nueve especies de termitas registradas por primera vez en el país y considerándola posiblemente nueva para la ciencia; el muestreo registró 28 especies de termitas, 14 géneros y 6 subfamilias en tres sitios del parque.",
+     "src": [
+      "S0364"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0364",
+   "citation": "Effowe, T. Q.; Kasseney, B. D.; Ndiaye, A. B.; Sanbena, B.; Amevoin, K.; Glitho, I. A. 2021. Termites' diversity in a protected park of the northern Sudanian savanna of Togo (West Africa). Nature Conservation.",
+   "url": "https://doi.org/10.3897/natureconservation.43.59474"
+  }
+ ]
+}

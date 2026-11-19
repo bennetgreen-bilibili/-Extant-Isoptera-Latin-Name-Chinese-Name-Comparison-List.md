@@ -1,0 +1,58 @@
+{
+ "book_n": "353",
+ "book_name": "江城瘤白蚁 Mirocapritermes jiangchengensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "江城瘤白蚁10个兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.51",
+     "value": "2.45–2.55"
+    },
+    {
+     "key": "right_mandible_length",
+     "mean": "1.18",
+     "value": "1.13–1.23"
+    },
+    {
+     "key": "head_width",
+     "mean": "0.93",
+     "value": "0.90–0.97"
+    },
+    {
+     "key": "head_height",
+     "mean": "0.85",
+     "value": "0.81–0.87"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "0.65",
+     "value": "0.64–0.65"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.27",
+     "value": "0.26–0.28"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.23",
+     "value": "0.23"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.57",
+     "value": "0.55–0.61"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 526,
+   "unit": "mm"
+  }
+ ]
+}

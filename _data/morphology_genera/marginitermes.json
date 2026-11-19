@@ -1,0 +1,24 @@
+{
+ "zh_name": "边白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫与 Incisitermes 极相似，难以区分；兵蚁与 Incisitermes 的区别是额与头顶间具脊、触角第三节极度延长，前胸背板前侧角锯齿状。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "浅黄色；眼径 0.46–0.48 mm，单眼距复眼约 0.01 mm；触角 16 节；左上颚第一、二缘齿后缘略短于第三缘齿前缘；右上颚第二缘齿后缘略长于臼板；前胸背板略窄于头；翅透明；径分脉 8–9 支，第一支约在翅长 1/3 处；中脉弱、未骨化，位于径分脉与肘脉之间直至翅端；爪间突始终缺。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头长，前部约以 40° 下倾；额与头顶间有隆起脊，触角基上方更厚更高；眼明显、略着色；触角 10–11 节，第一、二节深褐色、高度骨化，第三节极长、棒状、深色，约等于其后 5–7 节之和；上颚长而细，具齿，基瘤明显；前胸背板与头等宽，前缘深凹，前侧角不规则锯齿状，两侧均匀圆、无中央缺刻；腿节略膨大。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0021",
+   "citation": "Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.",
+   "locator": "pp. 358–361"
+  }
+ ]
+}

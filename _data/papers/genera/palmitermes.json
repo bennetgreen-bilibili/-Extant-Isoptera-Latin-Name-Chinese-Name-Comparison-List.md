@@ -1,0 +1,64 @@
+{
+ "latin": "Palmitermes",
+ "zh": "棕榈白蚁属",
+ "fetched_at": "2026-10-30T16:54:19Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2624574214",
+   "openalex_url": "https://openalex.org/W2624574214",
+   "doi": "10.1071/is16089",
+   "doi_url": "https://doi.org/10.1071/is16089",
+   "title": "Mitochondrial and chemical profiles reveal a new genus and species of Neotropical termite with snapping soldiers, Palmitermes impostor (Termitidae : Termitinae)",
+   "year": 2017,
+   "date": "2017-06-05",
+   "authors": [
+    "Simon Hellemans",
+    "Thomas Bourguignon",
+    "Pavlína Kyjaková",
+    "Robert Hanus",
+    "Yves Roisin"
+   ],
+   "venue": "Invertebrate Systematics",
+   "type": "article",
+   "language": "en",
+   "cited_by": 15,
+   "oa_url": "https://dipot.ulb.ac.be/dspace/bitstream/2013/258519/3/Hellemans_et_al_2017_Mitochondrial_chemical_profiles.pdf",
+   "volume": "31",
+   "issue": "4",
+   "pages": "394-405",
+   "abstract": "Since the inception of Linnaean taxonomy, termite species and genus descriptions have been mostly based on the morphology of soldiers, sometimes complemented by alate characters, though these are seldom discriminant. However, narrowly soldier-based descriptions may overemphasise ancestral characters and lead to the establishment of non-monophyletic taxa. In this paper, we used an integrative taxonomic approach that incorporates the morphology of all castes, including workers, as well as molecular and chemical data, to describe Palmitermes impostor Hellemans & Roisin, 2017 (Termitidae: Termitinae), a new termite genus and species from French Guiana. Although the soldiers of P. impostor resemble those of Termes Linnaeus, 1758, the digestive tract and mandibles of workers suggest that Palmitermes is closely related to Cavitermes Emerson, 1925. The sister-group relationship between Palmitermes and Cavitermes was confirmed by a phylogenetic reconstruction based on full mitochondrial genome sequences as well as by the comparison of the profiles of cuticular hydrocarbons of workers with those of related taxa. Our study illustrates the benefits of using an integrative taxonomic approach to describe new taxa and the pitfalls of using soldier morphology as the exclusive set of characters in termite systematics.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1322,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2952442377",
+   "openalex_url": "https://openalex.org/W2952442377",
+   "doi": "10.1186/s12862-019-1459-3",
+   "doi_url": "https://doi.org/10.1186/s12862-019-1459-3",
+   "title": "Widespread occurrence of asexual reproduction in higher termites of the Termes group (Termitidae: Termitinae)",
+   "year": 2019,
+   "date": "2019-06-21",
+   "authors": [
+    "Simon Hellemans",
+    "Klára Dolejšová",
+    "Jan Křivánek",
+    "Denis Fournier",
+    "Robert Hanus",
+    "Yves Roisin"
+   ],
+   "venue": "BMC Evolutionary Biology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 35,
+   "oa_url": "https://bmcevolbiol.biomedcentral.com/track/pdf/10.1186/s12862-019-1459-3",
+   "volume": "19",
+   "issue": "1",
+   "pages": "131-131",
+   "abstract": "BACKGROUND: A decade ago, the mixed reproductive strategy Asexual Queen Succession (AQS) was first described in termites. In AQS species, the workers, soldiers and dispersing reproductives are produced through sexual reproduction, while non-dispersing (neotenic) queens arise through automictic thelytokous parthenogenesis, replace the founding queen and mate with the founding king. As yet, AQS has been documented in six species from three lineages of lower (Rhinotermitidae) and higher (Termitinae: Termes group and Syntermitinae) termites. Independent evolution of the capacity of thelytoky as a preadaptation to AQS is supported by different mechanisms of automixis in each of the three clades. These pioneering discoveries prompt the question on the extent of thelytoky and AQS in the diversified family of higher termites. RESULTS: Here, we investigated the capacity of thelytoky and occurrence of AQS in three species from the phylogenetic proximity of the neotropical AQS species Cavitermes tuberosus (Termitinae: Termes group): Palmitermes impostor, Spinitermes trispinosus, and Inquilinitermes inquilinus. We show that queens of all three species are able to lay unfertilized eggs, which undergo thelytokous parthenogenesis (via gamete duplication as in C. tuberosus) and develop through the transitional stage of aspirants into replacement neotenic queens. CONCLUSIONS: The breeding system in P. impostor is very reminiscent of that described in C. tuberosus and can be characterized as AQS. In the remaining two species, our limited data do not allow classifying the breeding system as AQS; yet, also in these species the thelytokous production of neotenic females appears to be a systematic element of reproductive strategies. It appears likely that the capacity of thelytokous parthenogenesis evolved once in the Termes group, and may ultimately be found more widely, well beyond these Neotropical species.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1921,
+   "abstract_truncated": false
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "根据 Cancello & Cuezzo（2007）研究，圆头无名白蚁（<i>Ereymatermes rotundiceps</i>）的已知分布限于巴西亚马孙州 Japurá 河下游的森林，与描述自巴西巴伊亚州 Ilhéus 的短小无名白蚁（<i>Ereymatermes piquira</i>）不在同一地区。",
+     "text_en": "According to Cancello and Cuezzo (2007), <i>Ereymatermes rotundiceps</i> is known only from the forest along the lower Japurá River in Amazonas state, Brazil, a different region from that of <i>Ereymatermes piquira</i>, described from Ilhéus in Bahia state, Brazil.",
+     "text_es": "Según Cancello y Cuezzo (2007), <i>Ereymatermes rotundiceps</i> se conoce únicamente de la selva del curso inferior del río Japurá, en el estado de Amazonas, Brasil, una región distinta de la de <i>Ereymatermes piquira</i>, descrita de Ilhéus, en el estado de Bahía, Brasil.",
+     "src": [
+      "S0098"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0098",
+   "citation": "Cancello, E. M.; Cuezzo, C. 2007 A new species of Ereymatermes Constantino (Isoptera, Termitidae, Nasutitermitinae) from the northeastern Atlantic Forest, Brazil. Museu de Zoologia da Universidade de São Paulo (Papéis Avulsos de Zoologia 47(23): 283–288).",
+   "url": "https://revistas.usp.br/paz/article/view/33691"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "latin": "Nasutitermes",
+ "zh": "象白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Nasutitermes Dudley, 1890b: 158.",
+ "type_species": "Eutermes costalis Holmgren, 1910 by subsequent designation; see Emerson, 1925, Constantino, 2002, Engel and Krishna, 2005a, 2005b, Roisin, 2005, ICZN, 2007.",
+ "references": [
+  {
+   "ref": "Hagen, 1858b: 26",
+   "note": "Termes (Entermes [sic]) [part]; characters; species included."
+  },
+  {
+   "ref": "Hagen, 1858c: 33, 186–187",
+   "note": "Termes (Eutermes) [part]; characters; species included."
+  },
+  {
+   "ref": "Brauer, 1868: 393",
+   "note": "Eutermes; key."
+  },
+  {
+   "ref": "Wasmann, 1897b: 151",
+   "note": "Termes (Eutermes); characters; Termes morio Latreille as type species [invalid, as morio not a species originally included in Eutermes]."
+  },
+  {
+   "ref": "Haviland, 1898: 378, 379, 420, 424–425",
+   "note": "Termes; section with T. atripennis for type; characters; key; Termes; section with T. regularis for type; characters; key."
+  },
+  {
+   "ref": "Silvestri, 1903: 81",
+   "note": "Eutermes [part]; synonymy; characters."
+  },
+  {
+   "ref": "Escherich, 1909: 178",
+   "note": "Eutermes; characters; remarks."
+  },
+  {
+   "ref": "Holmgren, 1910c: 205",
+   "note": "Eutermes [part]; key."
+  }
+ ],
+ "nrefs": 171
+}

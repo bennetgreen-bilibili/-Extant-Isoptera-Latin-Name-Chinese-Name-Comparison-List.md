@@ -1,0 +1,73 @@
+{
+ "book_n": "382",
+ "book_name": "江城钩扭白蚊 Pseudo capritermes",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "江城钩扭白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_mandibles",
+     "mean": "4.56",
+     "value": "4.51–4.67"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.44",
+     "value": "2.39–2.48"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.40",
+     "value": "1.35–1.42"
+    },
+    {
+     "key": "right_mandible_length",
+     "mean": "2.23",
+     "value": "2.10–2.29"
+    },
+    {
+     "key": "head_width",
+     "mean": "2.13",
+     "value": "2.16–2.19"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.17",
+     "value": "1.13–1.18"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.29",
+     "value": "1.26–1.32"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.36",
+     "value": "0.34–0.38"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.39",
+     "value": "0.35–0.39"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.86",
+     "value": "0.84–0.87"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.30",
+     "value": "1.29–2.35"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 1229,
+   "unit": "mm"
+  }
+ ]
+}

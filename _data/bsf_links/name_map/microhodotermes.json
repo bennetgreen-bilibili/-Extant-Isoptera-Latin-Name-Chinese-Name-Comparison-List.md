@@ -1,0 +1,35 @@
+{
+ "Microhodotermes maroccanus": {
+  "label": "Microhodotermes maroccanus (Sjöstedt, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82528,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82528/overview",
+  "valid_label": null,
+  "valid_otu": 82528,
+  "verified": false
+ },
+ "Microhodotermes viator": {
+  "label": "Microhodotermes viator (Latreille, 1804)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82529,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82529/overview",
+  "valid_label": null,
+  "valid_otu": 82529,
+  "verified": false
+ },
+ "Microhodotermes wasmanni": {
+  "label": "Microhodotermes wasmanni (Sjöstedt, 1900)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82530,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82530/overview",
+  "valid_label": null,
+  "valid_otu": 82530,
+  "verified": false
+ }
+}

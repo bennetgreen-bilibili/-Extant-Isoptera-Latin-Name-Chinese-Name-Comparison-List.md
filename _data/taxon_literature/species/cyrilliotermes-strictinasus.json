@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "异名修订",
+   "heading_en": "Synonymy",
+   "heading_es": "Sinonimia",
+   "paragraphs": [
+    {
+     "src": [
+      "S0302"
+     ],
+     "text": "据摘要，Constantino 与 Carvalho（2012）确认缩鼻壶头白蚁（<i>Cyrilliotermes strictinasus</i>）为独立有效种，并把 <i>Cyrilliotermes cupim</i> 处理为其次异名。",
+     "text_en": "According to the abstract, Constantino and Carvalho (2012) confirmed <i>Cyrilliotermes strictinasus</i> as a distinct valid species and treated <i>Cyrilliotermes cupim</i> as its junior synonym.",
+     "text_es": "Según el resumen, Constantino y Carvalho (2012) confirmaron <i>Cyrilliotermes strictinasus</i> como especie válida distinta y trataron <i>Cyrilliotermes cupim</i> como su sinónimo posterior."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0302",
+   "citation": "Constantino, R.; Sérgio H. C. Carvalho. 2012. A taxonomic revision of the Neotropical termite genus Cyrilliotermes Fontes (Isoptera, Termitidae, Syntermitinae). Zootaxa.",
+   "doi": "10.11646/zootaxa.3186.1.2"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Contains 2 species (inanis, the type species, and inaniformis). The original describes the mandibles of soldiers and worker nymphs, without examining alates, hence no such section.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Left mandible index 1.06 (worker–nymph); the 3rd marginal tooth of the left mandible indistinct and the 2nd marginal tooth of the right mandible almost completely reduced, which distinguishes it from all other genera of the Oriental Subulitermes branch; soldier mandibles without apical points."
+  },
+  {
+   "label": "Soldier",
+   "text": "Mandibles without apical points."
+  },
+  {
+   "label": "Worker",
+   "text": "(Worker–nymph) left mandible index 1.06; cutting edge of the 1+2 marginal teeth evenly concave, no notch before the 3rd marginal tooth; 2nd marginal tooth of the right mandible almost completely reduced; molar plate outline of the right mandible slightly concave."
+  }
+ ]
+}

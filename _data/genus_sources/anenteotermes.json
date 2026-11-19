@@ -1,0 +1,15 @@
+{
+ "latin": "Anenteotermes",
+ "zh": "无甲白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Anenteotermes Sands, 1972: 192.",
+ "type_species": "Anenteotermes disluctans Sands, 1972 by original designation.",
+ "references": [
+  {
+   "ref": "Sands, 1998: 54, 167–169, figs. 513–530, pl. 8: figs. 6–9",
+   "note": "Anenteotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 2
+}

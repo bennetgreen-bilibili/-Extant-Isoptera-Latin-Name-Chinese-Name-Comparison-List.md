@@ -1,0 +1,46 @@
+{
+ "Ceylonitermes escherichi": {
+  "label": "Ceylonitermes escherichi (Holmgren, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84381,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84381/overview",
+  "valid_label": null,
+  "valid_otu": 84381,
+  "verified": false
+ },
+ "Ceylonitermes indicola": {
+  "label": "Ceylonitermes indicola Thakur, 1976",
+  "match": "exact",
+  "notes": "",
+  "otu": 84382,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84382/overview",
+  "valid_label": null,
+  "valid_otu": 84382,
+  "verified": false
+ },
+ "Ceylonitermes nivedita": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 84380 Ceylonitermes Holmgren, 1912",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Ceylonitermes paulosus": {
+  "label": "Ceylonitermes paulosus Ipe & Mathew, 2019",
+  "match": "exact",
+  "notes": "",
+  "otu": 1122458,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1122458/overview",
+  "valid_label": null,
+  "valid_otu": 1122458,
+  "verified": false
+ }
+}

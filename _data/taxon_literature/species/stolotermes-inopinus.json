@@ -1,0 +1,55 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "异常发达的雄性外生殖器",
+   "heading_en": "Unusually well-developed male genitalia",
+   "heading_es": "Genitales masculinos inusualmente desarrollados",
+   "paragraphs": [
+    {
+     "src": [
+      "S0239"
+     ],
+     "text": "据摘要，Klass 等（2000）研究显示，未料胄白蚁（<i>Stolotermes inopinus</i>）雄虫具大型阳茎叶（phallic lobe），与多数等翅类仅有小生殖突或全无外生殖器形成对比；其阳茎叶具一对腹面骨片，生殖孔位于阳茎叶腹端，整个生殖区完全左右对称，作者认为这可能是等翅目的祖征状态。",
+     "text_en": "According to the abstract, Klass et al. (2000) show that males of <i>Stolotermes inopinus</i> have a large phallic lobe, in contrast to most Isoptera, which have only small genital papillae or no external genitalia; the lobe bears a pair of ventral sclerites, the gonopore lies at its ventral end, and the whole genital region is fully symmetrical, which the authors consider a possible groundplan condition for Isoptera.",
+     "text_es": "Según el resumen, Klass et al. (2000) muestran que los machos de <i>Stolotermes inopinus</i> poseen un lóbulo fálico grande, en contraste con la mayoría de los isópteros, que solo tienen pequeñas papilas genitales o carecen de genitales externos; el lóbulo lleva un par de escleritos ventrales, el gonoporo se sitúa en su extremo ventral y toda la región genital es completamente simétrica, lo que los autores consideran una posible condición del plan corporal de los isópteros."
+    },
+    {
+     "src": [
+      "S0239"
+     ],
+     "text": "据摘要，作者依据阳茎叶与下生殖板、肛侧板以及肌肉、神经的关系，认为它与其他网翅类的阳茎基同源；这种简单而对称的结构与蜚蠊目、螳螂目雄虫不对称且高度复杂的外生殖器形成强烈对比，而后腹神经系统的排列与美洲大蠊（<i>Periplaneta americana</i>）相似；该文把胄白蚁属（<i>Stolotermes</i>）作为亚科级单元处理，本站现将其置于胄白蚁科（Stolotermitidae），文中的形态证据提示其与木白蚁科（Kalotermitidae）、鼻白蚁科（Rhinotermitidae，当时为广义）及白蚁科（Termitidae）更近，而与当时同置一科的古白蚁类较远。",
+     "text_en": "According to the abstract, the relations of the phallic lobe to the subgenital plate, the paraprocts and the muscles and nerves indicate that it is homologous with the phallus of other Dictyoptera; this simple, symmetrical structure contrasts strongly with the asymmetric and highly complex male genitalia of Blattodea and Mantodea, while the arrangement of the postabdominal nervous system resembles that of <i>Periplaneta americana</i>. The paper treats <i>Stolotermes</i> as a subfamily-level unit, whereas this site places it in Stolotermitidae, and its morphological evidence suggests a closer relationship with Kalotermitidae, Rhinotermitidae (in the broad sense then used) and Termitidae, and a more distant relationship to the termopsid termites then placed in the same family.",
+     "text_es": "Según el resumen, las relaciones del lóbulo fálico con la placa subgenital, los paraproctos y los músculos y nervios indican que es homólogo del falo de otros dictiópteros; esta estructura simple y simétrica contrasta fuertemente con los genitales masculinos asimétricos y muy complejos de Blattodea y Mantodea, mientras que la disposición del sistema nervioso postabdominal se parece a la de <i>Periplaneta americana</i>. El trabajo trata <i>Stolotermes</i> como una unidad de nivel subfamilia, mientras que este sitio lo sitúa en Stolotermitidae, y su evidencia morfológica sugiere una relación más cercana con Kalotermitidae, Rhinotermitidae (en el sentido amplio usado entonces) y Termitidae, y una relación más lejana con las termitas termópsidas entonces situadas en la misma familia."
+    }
+   ]
+  },
+  {
+   "heading": "巢群规模与繁殖结构",
+   "heading_en": "Colony size and reproductive structure",
+   "heading_es": "Tamaño de las colonias y estructura reproductiva",
+   "paragraphs": [
+    {
+     "src": [
+      "S0293"
+     ],
+     "text": "据摘要，根据 Thorne 与 Lenz（2001）研究，新西兰野外调查中，空间上隔离的巢群个体数通常为数百头；复合或相互关联的「巢群」或「亚巢群」可达更大规模，但紧密相邻的巢群或亚巢群的来源及其内部相互作用的程度尚不清楚。",
+     "text_en": "According to the abstract, Thorne and Lenz (2001) found that in field surveys in New Zealand spatially isolated colonies usually numbered hundreds of individuals; compound or interconnected \"colonies\" or \"subcolonies\" may reach larger sizes, but the origin of closely adjacent colonies or subcolonies and the extent of interaction among them remain unclear.",
+     "text_es": "Según el resumen, Thorne y Lenz (2001) encontraron que, en los muestreos de campo realizados en Nueva Zelanda, las colonias espacialmente aisladas solían reunir cientos de individuos; las \"colonias\" o \"subcolonias\" compuestas o interconectadas pueden alcanzar tamaños mayores, pero el origen de las colonias o subcolonias muy próximas entre sí y el grado de interacción interna entre ellas siguen sin estar claros."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0239",
+   "citation": "Klass, K.-D.; Thorne, B. L.; Lenz, M. 2000. The male postabdomen of Stolotermes inopinus: a termite with unusually well-developed external genitalia (Dictyoptera: Isoptera: Stolotermitinae). Acta Zoologica.",
+   "doi": "10.1046/j.1463-6395.2000.00045.x"
+  },
+  {
+   "id": "S0293",
+   "citation": "Thorne, B. L.; Lenz, M. 2001. Population and colony structure ofStolotermes inopinusandS. ruficeps(Isoptera: Stolotermitinae) in New Zealand. New Zealand Entomologist.",
+   "doi": "10.1080/00779962.2001.9722083"
+  }
+ ]
+}

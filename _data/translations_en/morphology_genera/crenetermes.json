@@ -1,0 +1,21 @@
+{
+ "note": "Description after the original text of Holmgren 1912 (page images of archive.org item biostor-184513, pp. 101–102). The Chinese generic name is not yet fixed, so zh_name provisionally uses the Latin name in the form of a Chinese common name, pending confirmation at a higher level. Only one species, Crenetermes albotarsalis (Sjöst.), is known, from Cameroon and the Congo; p. 102 is entirely a discussion of systematic relationships with the Mirotermes series and contains no morphological description, so it was not used.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Monotypic genus, with only Crenetermes albotarsalis (Sjöst.), from Cameroon and the Congo; synonyms include Eutermes albotarsalis Sjöst. and Suleitermes Wasm. (an unpublished name) in the literature. Alate head subquadrate, antennae 16 segments with the third short; soldier head rectangular, longer than broad, labrum subquadrate and strongly grooved, mandibles of the same type as Thoracotermes, antennae 15 segments; worker entirely white, head longer than broad, mandibles with a large apical tooth. Holmgren placed the genus in the Mirotermes series, but the soldier mandibles have Termes-type teeth and the frontal gland opening is exposed and not situated beneath a frontal protuberance, differing from all the Mirotermes subgenera and from Thoracotermes."
+  },
+  {
+   "label": "Alate",
+   "text": "Head width about equal to the length. Compound eyes small, projecting. Ocelli about their own diameter from the compound eyes. Base of clypeus brighter than the frons, very large, slightly longer than half its width (9:8.5), very strongly arched; because the base of the clypeus is expanded, the malar part of the head appears short. Mandibular first tooth large. Antennae 16 segments, third short. The incision of the posterior margin of the mesonotum is broader than that of the metanotum. Wings dark, the membrane with fine dense small spine-like points (»punktiert« in the original). Media of forewing arising independently behind the wing scale. Fore tibia with 3 apical spurs, mid and hind tibiae with 2 each. Cerci short. Styli absent. The original adds: a reduced stylus was once observed in a male nymph."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head longer than broad, quadrangular, narrowing slightly anteriorly, rather arched, anterior margin obliquely truncate. Frontal gland opening on the margin of the sloping frons, rather small but densely surrounded by hairs. Base of clypeus completely flat, slightly shorter than half its width. Labrum subquadrate, widening slightly outwards, strongly grooved; anterior margin slightly incised in the middle, the lateral angles only indistinctly acute, directed anteriorly. Mandibles as in Thoracotermes. Antennae 15 segments, third short. Pronotum deeply saddle-shaped, small. Tibial spur formula as in the alate. Styli absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Entirely white. Head longer than broad. Base of clypeus about as long as half its width, strongly arched. Mandibles with a large apical tooth. Antennae 15 segments, third short. Pronotum deeply saddle-shaped. Tibial spur formula and condition of the styli as above (styli absent)."
+  }
+ ]
+}

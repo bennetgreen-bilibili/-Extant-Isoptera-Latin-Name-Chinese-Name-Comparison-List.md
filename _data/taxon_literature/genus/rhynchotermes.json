@@ -1,0 +1,40 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "属级修订与分布",
+   "heading_en": "Generic revision and distribution",
+   "heading_es": "Revisión genérica y distribución",
+   "paragraphs": [
+    {
+     "src": [
+      "S0299"
+     ],
+     "text": "据摘要，根据 Constantini 与 Cancello（2016）研究，喙白蚁属（<i>Rhynchotermes</i>）修订后承认 7 种，并为所有可获品级给出鉴别特征；修订把该属旧名 <i>Rhynchotermes guarany</i> Cancello 降为巨鼻喙白蚁（<i>Rhynchotermes nasutissimus</i>）的新异名，把 <i>Rhynchotermes nyctobius</i> Mathews 定为黑白喙白蚁（<i>Rhynchotermes diphyes</i>）的新异名，并提供兵蚁检索表、各种分布图、图示与生物学注记。",
+     "text_en": "According to the abstract, Constantini and Cancello (2016) recognized seven species in their revision of <i>Rhynchotermes</i> and gave diagnostic characters for all castes available; the revision reduced the former name <i>Rhynchotermes guarany</i> Cancello to a new synonym of <i>Rhynchotermes nasutissimus</i> and made <i>Rhynchotermes nyctobius</i> Mathews a new synonym of <i>Rhynchotermes diphyes</i>, and provided a key to soldiers, distribution maps for the species, illustrations and biological notes.",
+     "text_es": "Según el resumen, Constantini y Cancello (2016) reconocieron siete especies en su revisión de <i>Rhynchotermes</i> y dieron caracteres diagnósticos para todas las castas disponibles; la revisión redujo el nombre anterior <i>Rhynchotermes guarany</i> Cancello a nuevo sinónimo de <i>Rhynchotermes nasutissimus</i> e hizo de <i>Rhynchotermes nyctobius</i> Mathews un nuevo sinónimo de <i>Rhynchotermes diphyes</i>, y aportó una clave para soldados, mapas de distribución de las especies, ilustraciones y notas biológicas."
+    },
+    {
+     "src": [
+      "S0304"
+     ],
+     "text": "据摘要，根据 Scheffrahn（2010）研究，描记葱鼻喙白蚁（<i>Rhynchotermes bulbinasus</i>）时综述了喙白蚁属的文献，并给出该新种的野外观察记录。",
+     "text_en": "According to the abstract, Scheffrahn (2010) reviewed the literature on <i>Rhynchotermes</i> when describing <i>Rhynchotermes bulbinasus</i>, and gave field observations of the new species.",
+     "text_es": "Según el resumen, Scheffrahn (2010) revisó la literatura sobre <i>Rhynchotermes</i> al describir <i>Rhynchotermes bulbinasus</i>, y aportó observaciones de campo de la nueva especie."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0299",
+   "citation": "Constantini, J. P.; Cancello, E. M. 2016. A taxonomic revision of the Neotropical termite genus Rhynchotermes (Isoptera, Termitidae, Syntermitinae). Zootaxa.",
+   "doi": "10.11646/zootaxa.4109.5.1"
+  },
+  {
+   "id": "S0304",
+   "citation": "Scheffrahn, R. H. 2010. An extraordinary new termite (Isoptera: Termitidae: Syntermitinae: Rhynchotermes) from the pasturelands of northern Colombia. Zootaxa.",
+   "doi": "10.11646/zootaxa.2387.1.6"
+  }
+ ]
+}

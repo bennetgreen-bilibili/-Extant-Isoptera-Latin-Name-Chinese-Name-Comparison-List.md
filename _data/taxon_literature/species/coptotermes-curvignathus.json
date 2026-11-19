@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-14",
+ "sections": [
+  {
+   "heading": "南洋杉人工林中的危害",
+   "heading_en": "Damage in an Araucaria plantation",
+   "heading_es": "Daños en una plantación de Araucaria",
+   "paragraphs": [
+    {
+     "src": [
+      "S0237"
+     ],
+     "text": "根据 Jasmi 与 Ahmad（2011）研究，曲颚乳白蚁（<i>Coptotermes curvignathus</i>）是马来西亚槟城 Teluk Bahang 森林公园南洋杉（<i>Araucaria cunninghamii</i>）人工林中最主要的害虫种：289 株受检树木中有 62 株（21.5%）被白蚁侵染，其中 46 株由该种侵染，占全部侵染树木的 74%；该种在健康、衰退、枯死与伐桩四类树木上均有记录（分别为 4、12、11、19 株），且 4 株外观健康的树上已见泥被泥线等初期侵染迹象；作者并引述文献指出，该种可危害各龄级树木并最终致其死亡。",
+     "text_en": "According to Jasmi and Ahmad (2011), <i>Coptotermes curvignathus</i> is the main pest species in the <i>Araucaria cunninghamii</i> plantation of Teluk Bahang Forest Park, Penang, Malaysia: of 289 trees inspected, 62 (21.5%) were infested by termites and 46 of these by this species, that is 74% of all infested trees; it was recorded on healthy, declining, dead and stumped trees (4, 12, 11 and 19 respectively), and initial infestation signs such as mud sheets and mud tubes were already visible on four apparently healthy trees; the authors also cite earlier literature that the species can damage and eventually kill trees of any age.",
+     "text_es": "Según Jasmi y Ahmad (2011), <i>Coptotermes curvignathus</i> es la principal especie plaga en la plantación de <i>Araucaria cunninghamii</i> del parque forestal de Teluk Bahang, Penang, Malasia: de 289 árboles inspeccionados, 62 (21,5%) estaban infestados por termitas y 46 de ellos por esta especie, es decir el 74% de todos los árboles infestados; se registró en árboles sanos, en declive, muertos y en tocones (4, 12, 11 y 19 respectivamente), y en cuatro árboles aparentemente sanos ya se veían signos iniciales de infestación, como láminas y tubos de barro; los autores citan además bibliografía previa según la cual la especie puede dañar y acabar matando árboles de cualquier edad."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0237",
+   "citation": "Jasmi, A. H.; Ahmad, A. H. 2011. Termite Incidence on an Araucaria Plantation Forest in Teluk Bahang, Penang. Insects 2(4).",
+   "doi": "10.3390/insects2040469"
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "Ternicubitermes bilobatodes": {
+  "label": "Ternicubitermes bilobatodes (Silvestri, 1912)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84995,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84995/overview",
+  "valid_label": null,
+  "valid_otu": 84995,
+  "verified": false
+ },
+ "Ternicubitermes breviceps": {
+  "label": "Ternicubitermes breviceps (Sjöstedt, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84997,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84997/overview",
+  "valid_label": null,
+  "valid_otu": 84997,
+  "verified": false
+ },
+ "Ternicubitermes duplex": {
+  "label": "Ternicubitermes duplex (Holmgren, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85005,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85005/overview",
+  "valid_label": null,
+  "valid_otu": 85005,
+  "verified": false
+ },
+ "Ternicubitermes falcifer": {
+  "label": "Ternicubitermes falcifer (Williams, 1966)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85007,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85007/overview",
+  "valid_label": null,
+  "valid_otu": 85007,
+  "verified": false
+ },
+ "Ternicubitermes glebae": {
+  "label": "Ternicubitermes glebae (Sjöstedt, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85013,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85013/overview",
+  "valid_label": null,
+  "valid_otu": 85013,
+  "verified": false
+ },
+ "Ternicubitermes latens": {
+  "label": "Ternicubitermes latens (Williams, 1966)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85017,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85017/overview",
+  "valid_label": null,
+  "valid_otu": 85017,
+  "verified": false
+ },
+ "Ternicubitermes microduplex": {
+  "label": "Ternicubitermes microduplex (Fuller, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85019,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85019/overview",
+  "valid_label": null,
+  "valid_otu": 85019,
+  "verified": false
+ },
+ "Ternicubitermes muneris": {
+  "label": "Ternicubitermes muneris (Sjöstedt, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85023,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85023/overview",
+  "valid_label": null,
+  "valid_otu": 85023,
+  "verified": false
+ },
+ "Ternicubitermes pallidiceps": {
+  "label": "Ternicubitermes pallidiceps (Sjöstedt, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85028,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85028/overview",
+  "valid_label": null,
+  "valid_otu": 85028,
+  "verified": false
+ },
+ "Ternicubitermes subcrenulatus": {
+  "label": "Ternicubitermes subcrenulatus (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85043,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85043/overview",
+  "valid_label": null,
+  "valid_otu": 85043,
+  "verified": false
+ },
+ "Ternicubitermes undulatus": {
+  "label": "Ternicubitermes undulatus (Fuller, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85052,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85052/overview",
+  "valid_label": null,
+  "valid_otu": 85052,
+  "verified": false
+ },
+ "Ternicubitermes weissi": {
+  "label": "Ternicubitermes weissi (Silvestri, 1912)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85053,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85053/overview",
+  "valid_label": null,
+  "valid_otu": 85053,
+  "verified": false
+ },
+ "Ternicubitermes zavattarii": {
+  "label": "Ternicubitermes zavattarii (Ghidini, 1937)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85054,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85054/overview",
+  "valid_label": null,
+  "valid_otu": 85054,
+  "verified": false
+ }
+}

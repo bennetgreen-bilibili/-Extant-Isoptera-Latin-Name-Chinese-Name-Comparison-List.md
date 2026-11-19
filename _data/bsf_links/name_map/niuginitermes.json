@@ -1,0 +1,24 @@
+{
+ "Niuginitermes liklik": {
+  "label": "Niuginitermes liklik Roisin & Pasteels, 1996",
+  "match": "exact",
+  "notes": "",
+  "otu": 84822,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84822/overview",
+  "valid_label": null,
+  "valid_otu": 84822,
+  "verified": false
+ },
+ "Niuginitermes variratae": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 84823 Niuginitermes variatae Roisin & Pasteels, 1996",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ }
+}

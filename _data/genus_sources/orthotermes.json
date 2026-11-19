@@ -1,0 +1,31 @@
+{
+ "latin": "Orthotermes",
+ "zh": "直白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Orthotermes Silvestri, 1914a: 123–124.",
+ "type_species": "Orthotermes depressifrons Silvestri, 1914 by original designation.",
+ "references": [
+  {
+   "ref": "Emerson, 1928b: 408, 419",
+   "note": "Mirotermes (Orthotermes); key; distribution."
+  },
+  {
+   "ref": "Webb, 1961: 14",
+   "note": "Orthotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 30, 108, 109, pl. 22: fig. 68c",
+   "note": "Orthotermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 38",
+   "note": "Orthotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 36, 247–249, figs. 1140–1162, pl. 11: fig. 8, pl. 15: fig. 8",
+   "note": "Orthotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 13
+}

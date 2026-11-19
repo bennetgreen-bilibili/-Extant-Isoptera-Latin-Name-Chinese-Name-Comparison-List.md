@@ -1,0 +1,992 @@
+{
+ "Stylotermes acrofrons": {
+  "gbif": {
+   "key": 9686391,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes acrofrons Ping & Liu, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B8V",
+   "status": "accepted",
+   "label": "Stylotermes acrofrons Ping & Liu, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254542",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes ahmadi": {
+  "gbif": {
+   "key": 9667519,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes ahmadi Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B8W",
+   "status": "accepted",
+   "label": "Stylotermes ahmadi Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254543",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes alpinus": {
+  "gbif": {
+   "key": 9753801,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes alpinus Ping, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B8X",
+   "status": "accepted",
+   "label": "Stylotermes alpinus Ping, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254544",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes angustignathus": {
+  "gbif": {
+   "key": 9705617,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes angustignathus Gao, Zhu & Gong, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B8Y",
+   "status": "accepted",
+   "label": "Stylotermes angustignathus Gao, Zhu & Gong, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254545",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes beesoni": {
+  "gbif": {
+   "key": 9793570,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes beesoni Thakur, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B8Z",
+   "status": "accepted",
+   "label": "Stylotermes beesoni Thakur, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254546",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes bengalensis": {
+  "gbif": {
+   "key": 9768785,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes bengalensis Mathur & Chhotani, 1959",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B92",
+   "status": "accepted",
+   "label": "Stylotermes bengalensis Mathur & Chhotani, 1959",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254547",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes chakratensis": {
+  "gbif": {
+   "key": 9818613,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes chakratensis Mathur & Thapa, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B93",
+   "status": "accepted",
+   "label": "Stylotermes chakratensis Mathur & Thapa, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254548",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes changtingensis": {
+  "gbif": {
+   "key": 9729558,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes changtingensis Fan & Xia, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B94",
+   "status": "accepted",
+   "label": "Stylotermes changtingensis Fan & Xia, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254549",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes chengduensis": {
+  "gbif": {
+   "key": 9660330,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes chengduensis Gao & Zhu, 1980",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B95",
+   "status": "accepted",
+   "label": "Stylotermes chengduensis Gao & Zhu, 1980",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254550",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes chongqingensis": {
+  "gbif": {
+   "key": 9702862,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes chongqingensis Chen & Ping, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B96",
+   "status": "accepted",
+   "label": "Stylotermes chongqingensis Chen & Ping, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254551",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes choui": {
+  "gbif": {
+   "key": 9655958,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes choui Ping & Xu, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B97",
+   "status": "accepted",
+   "label": "Stylotermes choui Ping & Xu, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254552",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes crinis": {
+  "gbif": {
+   "key": 9714699,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes crinis Gao, Zhu & Gong, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B98",
+   "status": "accepted",
+   "label": "Stylotermes crinis Gao, Zhu & Gong, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254554",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes curvatus": {
+  "gbif": {
+   "key": 9749145,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes curvatus Ping & Xu, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B99",
+   "status": "accepted",
+   "label": "Stylotermes curvatus Ping & Xu, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254556",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes dunensis": {
+  "gbif": {
+   "key": 9801301,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes dunensis Thakur, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "7B2CB",
+   "status": "accepted",
+   "label": "Stylotermes dunensis Thakur, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254557",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes faveolus": {
+  "gbif": {
+   "key": 9698236,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes faveolus (Chatterjee & Thakur, 1964)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9B",
+   "status": "accepted",
+   "label": "Stylotermes faveolus (Chatterjee & Thakur, 1964)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254558",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes fletcheri": {
+  "gbif": {
+   "key": 9679061,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes fletcheri Holmgren & Holmgren, 1917",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9C",
+   "status": "accepted",
+   "label": "Stylotermes fletcheri Holmgren & Holmgren, 1917",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254559",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes fontanellus": {
+  "gbif": {
+   "key": 9746306,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes fontanellus Gao, Zhu & Han, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9D",
+   "status": "accepted",
+   "label": "Stylotermes fontanellus Gao, Zhu & Han, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254561",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes guiyangensis": {
+  "gbif": {
+   "key": 9756680,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes guiyangensis Ping & Gong, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "7B2CH",
+   "status": "accepted",
+   "label": "Stylotermes guiyangensis Ping & Gong, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254562",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes halumicus": {
+  "gbif": {
+   "key": 9331557,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes halumicus Liang et al.",
+   "accepted": null
+  },
+  "col": {
+   "id": "T9W69",
+   "status": "accepted",
+   "label": "Stylotermes halumicus Liang, Wu & Li, 2017",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q61927231",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes hanyuanicus": {
+  "gbif": {
+   "key": 9683664,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes hanyuanicus Ping & Liu, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9F",
+   "status": "accepted",
+   "label": "Stylotermes hanyuanicus Ping & Liu, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254563",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes inclinatus": {
+  "gbif": {
+   "key": 9724906,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes inclinatus (Yu & Ping, 1964)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9G",
+   "status": "accepted",
+   "label": "Stylotermes inclinatus (Yu & Ping, 1964)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254564",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes jinyunicus": {
+  "gbif": {
+   "key": 9785960,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes jinyunicus Ping & Chen, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9H",
+   "status": "accepted",
+   "label": "Stylotermes jinyunicus Ping & Chen, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254565",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes labralis": {
+  "gbif": {
+   "key": 9736972,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes labralis Ping & Liu, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9J",
+   "status": "accepted",
+   "label": "Stylotermes labralis Ping & Liu, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254566",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes laticrus": {
+  "gbif": {
+   "key": 9717456,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes laticrus Ping & Xu, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9K",
+   "status": "accepted",
+   "label": "Stylotermes laticrus Ping & Xu, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254567",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes latilabrum": {
+  "gbif": {
+   "key": 9806047,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes latilabrum (Tsai & Chen, 1963)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9L",
+   "status": "accepted",
+   "label": "Stylotermes latilabrum (Tsai & Chen, 1963)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254568",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes latipedunculus": {
+  "gbif": {
+   "key": 9674680,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes latipedunculus (Yu & Ping, 1964)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9M",
+   "status": "accepted",
+   "label": "Stylotermes latipedunculus (Yu & Ping, 1964)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254569",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes lianpingensis": {
+  "gbif": {
+   "key": 9734220,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes lianpingensis Ping, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9N",
+   "status": "accepted",
+   "label": "Stylotermes lianpingensis Ping, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254570",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes longignathus": {
+  "gbif": {
+   "key": 9664794,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes longignathus Gao, Zhu & Han, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9P",
+   "status": "accepted",
+   "label": "Stylotermes longignathus Gao, Zhu & Han, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254571",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes mecocephalus": {
+  "gbif": {
+   "key": 9798439,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes mecocephalus Ping & Li, 1978",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9Q",
+   "status": "accepted",
+   "label": "Stylotermes mecocephalus Ping & Li, 1978",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254572",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes minutus": {
+  "gbif": {
+   "key": 9648816,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes minutus (Yu & Ping, 1964)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9R",
+   "status": "accepted",
+   "label": "Stylotermes minutus (Yu & Ping, 1964)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254573",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes mirabilis": {
+  "gbif": {
+   "key": 9695489,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes mirabilis He & Qui, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9S",
+   "status": "accepted",
+   "label": "Stylotermes mirabilis He & Qui, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254574",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes orthognathus": {
+  "gbif": {
+   "key": 9741632,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes orthognathus Xu & Ping, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9T",
+   "status": "accepted",
+   "label": "Stylotermes orthognathus Ping & Xu, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254575",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes parabengalensis": {
+  "gbif": {
+   "key": 9776426,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes parabengalensis Maiti, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "7B2CK",
+   "status": "accepted",
+   "label": "Stylotermes parabengalensis Maiti, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254576",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes planifrons": {
+  "gbif": {
+   "key": 9773577,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes planifrons Chen, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9V",
+   "status": "accepted",
+   "label": "Stylotermes planifrons Chen, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254577",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes robustus": {
+  "gbif": {
+   "key": 9690965,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes robustus Ping & Li, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9W",
+   "status": "accepted",
+   "label": "Stylotermes robustus Ping & Li, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254578",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes roonwali": {
+  "gbif": {
+   "key": 9788865,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes roonwali Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9X",
+   "status": "accepted",
+   "label": "Stylotermes roonwali Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254579",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes setosus": {
+  "gbif": {
+   "key": 9761299,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes setosus Li & Ping, 1978",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9Y",
+   "status": "accepted",
+   "label": "Stylotermes setosus Li & Ping, 1978",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254580",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes sinensis": {
+  "gbif": {
+   "key": 9793609,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes sinensis (Yu & Ping, 1964)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53B9Z",
+   "status": "accepted",
+   "label": "Stylotermes sinensis (Yu & Ping, 1964)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254581",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes sui": {
+  "gbif": {
+   "key": 9710127,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes sui Ping & Xu, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "7B2CJ",
+   "status": "accepted",
+   "label": "Stylotermes sui Ping & Xu, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254582",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes triplanus": {
+  "gbif": {
+   "key": 9710169,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes triplanus Ping & Liu, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "7B2CD",
+   "status": "accepted",
+   "label": "Stylotermes triplanus Ping & Liu, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254583",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes tsaii": {
+  "gbif": {
+   "key": 9722057,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes tsaii Gao, Zhu, Yang, Ji & Ma, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "7B2CG",
+   "status": "accepted",
+   "label": "Stylotermes tsaii Gao, Zhu, Yang, Ji & Ma, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254584",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes undulatus": {
+  "gbif": {
+   "key": 9765949,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes undulatus Ping & Li, 1978",
+   "accepted": null
+  },
+  "col": {
+   "id": "7B2CF",
+   "status": "accepted",
+   "label": "Stylotermes undulatus Ping & Li, 1978",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254585",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes valvules": {
+  "gbif": {
+   "key": 9813766,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes valvules Tsai & Ping, 1978",
+   "accepted": null
+  },
+  "col": {
+   "id": "7B2CQ",
+   "status": "accepted",
+   "label": "Stylotermes valvules Tsai & Ping, 1978",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254586",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes wuyinicus": {
+  "gbif": {
+   "key": 9653288,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes wuyinicus Li & Ping, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "7B2CP",
+   "status": "accepted",
+   "label": "Stylotermes wuyinicus Li & Ping, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254587",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stylotermes xichangensis": {
+  "gbif": {
+   "key": 9646129,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stylotermes xichangensis Huang & Zhu, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "7B2CS",
+   "status": "accepted",
+   "label": "Stylotermes xichangensis Huang & Zhu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254588",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "zh_name": "比里巴多刺白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "嗉囊（crop）异常大，肠瓣由 6 个球形栉状垫组成、末端呈带刺球状，这一组合在 Apicotermitinae 各属中独一无二。"
+  },
+  {
+   "label": "工蚁",
+   "text": "单型；头与触角淡黄，前胸背板淡黄，足透明。嗉囊极大；EVS 三叶，其中较小的一叶在完整肠道中不可见；肠瓣 6 个垫，末端在进入 P3 的开口处呈带刺球状。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0063",
+   "citation": "Castro D., Scheffrahn R. H., Carrijo T. F. 2018. Echinotermes biriba, a new genus and species of soldierless termite from the Colombian and Peruvian Amazon (Termitidae, Apicotermitinae). ZooKeys 748: 21–30. doi:10.3897/zookeys.748.24253",
+   "locator": "pp. 23–24（Systematics / Echinotermes gen. n.；Diagnosis 在 p. 24）"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+}

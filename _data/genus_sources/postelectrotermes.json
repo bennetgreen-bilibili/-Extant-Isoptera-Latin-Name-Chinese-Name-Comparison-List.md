@@ -1,0 +1,39 @@
+{
+ "latin": "Postelectrotermes",
+ "zh": "后琥珀白蚁属",
+ "family": "kalotermitidae",
+ "treatise": true,
+ "citation": "Postelectrotermes Krishna, 1961: 319.",
+ "type_species": "Calotermes praecox Hagen, 1858 by original designation.",
+ "references": [
+  {
+   "ref": "Ahmad, 1965: 7, 8",
+   "note": "Postelectrotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 16, 76, 77",
+   "note": "Postelectrotermes; key."
+  },
+  {
+   "ref": "Chaudhry et al., 1972: 1",
+   "note": "Postelectrotermes; characters."
+  },
+  {
+   "ref": "Morimoto, 1975b: 9",
+   "note": "Postelectrotermes; key."
+  },
+  {
+   "ref": "Chhotani, 1980: 3, 9",
+   "note": "Postelectrotermes; Indian species; key."
+  },
+  {
+   "ref": "Bose, 1984: 17–18",
+   "note": "Postelectrotermes; key; synonymy."
+  },
+  {
+   "ref": "Roonwal and Chhotani, 1989: 172–176",
+   "note": "Postelectrotermes; synonymy; characters; distribution and composition; key to species."
+  }
+ ],
+ "nrefs": 18
+}

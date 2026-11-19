@@ -1,0 +1,35 @@
+{
+ "Synacanthotermes heterodon": {
+  "label": "Synacanthotermes heterodon (Sjöstedt, 1899)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83889,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83889/overview",
+  "valid_label": null,
+  "valid_otu": 83889,
+  "verified": false
+ },
+ "Synacanthotermes trilobatus": {
+  "label": "Synacanthotermes trilobatus Sjöstedt, 1926",
+  "match": "exact",
+  "notes": "",
+  "otu": 83890,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83890/overview",
+  "valid_label": null,
+  "valid_otu": 83890,
+  "verified": false
+ },
+ "Synacanthotermes zanzibarensis": {
+  "label": "Synacanthotermes zanzibarensis (Sjöstedt, 1915)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83891,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83891/overview",
+  "valid_label": null,
+  "valid_otu": 83891,
+  "verified": false
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "Grigiotermes hageni": {
+  "gbif": {
+   "key": 10112407,
+   "status": "SYNONYM",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Grigiotermes hageni (Snyder & Emerson, 1949)",
+   "accepted": {
+    "key": 9662984,
+    "name": "Anoplotermes hageni Emerson & Snyder, 1949",
+    "status": null,
+    "rank": "SPECIES"
+   }
+  },
+  "col": {
+   "id": "DLV5F",
+   "status": "accepted",
+   "label": "Grigiotermes hageni (Snyder & Emerson, 1949)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140724728",
+  "flags": [
+   "gbif_synonym"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Grigiotermes piassava": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Grigiotermes Mathews, 1977",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CTMVL",
+   "status": "accepted",
+   "label": "Grigiotermes piassava Carvalho & Vasconcellos, 2024",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

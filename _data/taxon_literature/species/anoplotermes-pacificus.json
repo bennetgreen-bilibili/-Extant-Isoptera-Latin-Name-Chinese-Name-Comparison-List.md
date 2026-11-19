@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-11",
+ "sections": [
+  {
+   "heading": "2010 年属级修订中的模式种",
+   "paragraphs": [
+    {
+     "text": "据摘要，Bourguignon 等（2010）重新描述解甲白蚁属（Anoplotermes）模式种太平洋解甲白蚁（Anoplotermes pacificus），并保留班克斯解甲白蚁（Anoplotermes banksi）、小解甲白蚁（Anoplotermes parvus）和门神解甲白蚁（Anoplotermes janus）于该属；研究将 6 个种名归并，并提供 4 个遗传标记的 DNA 序列用于后续分子鉴定。",
+     "src": [
+      "S0177"
+     ],
+     "text_en": "According to the abstract, Bourguignon et al. (2010) redescribed Anoplotermes pacificus, the type species of Anoplotermes, and retained Anoplotermes banksi, Anoplotermes parvus and Anoplotermes janus in the genus; the study synonymised 6 species names and provided DNA sequences for 4 genetic markers for subsequent molecular identification.",
+     "text_es": "Según el resumen, Bourguignon et al. (2010) redescribieron Anoplotermes pacificus, especie tipo de Anoplotermes, y mantuvieron en el género a Anoplotermes banksi, Anoplotermes parvus y Anoplotermes janus; el estudio sinonimizó seis nombres específicos y aportó secuencias de ADN de cuatro marcadores genéticos para la identificación molecular futura."
+    }
+   ],
+   "heading_en": "Type species in the 2010 genus-level revision",
+   "heading_es": "La especie tipo en la revisión genérica de 2010"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0177",
+   "citation": "Bourguignon, T. et al. 2010. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Anoplotermes and description of Longustitermes, gen. nov. Invertebrate Systematics.",
+   "doi": "10.1071/is10012"
+  }
+ ]
+}

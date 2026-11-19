@@ -1,0 +1,222 @@
+{
+ "Labiotermes brevilabius": {
+  "gbif": {
+   "key": 8000408,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Labiotermes brevilabius Emerson & Banks, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RJRL",
+   "status": "accepted",
+   "label": "Labiotermes brevilabius Emerson & Banks, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210710",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Labiotermes emersoni": {
+  "gbif": {
+   "key": 7451380,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Labiotermes emersoni (Araujo, 1954)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RJRM",
+   "status": "accepted",
+   "label": "Labiotermes emersoni (Araujo, 1954)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210711",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Labiotermes guasu": {
+  "gbif": {
+   "key": 7739053,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Labiotermes guasu Constantino & Acioli, 2006",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RJRN",
+   "status": "accepted",
+   "label": "Labiotermes guasu Constantino & Acioli, 2006",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210712",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Labiotermes labralis": {
+  "gbif": {
+   "key": 8275978,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Labiotermes labralis (Holmgren, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RJRP",
+   "status": "accepted",
+   "label": "Labiotermes labralis (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210713",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Labiotermes laticephalus": {
+  "gbif": {
+   "key": 8380526,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Labiotermes laticephalus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RJRQ",
+   "status": "accepted",
+   "label": "Labiotermes laticephalus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210715",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Labiotermes leptothrix": {
+  "gbif": {
+   "key": 8055459,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Labiotermes leptothrix Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RJRR",
+   "status": "accepted",
+   "label": "Labiotermes leptothrix Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210716",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Labiotermes longilabius": {
+  "gbif": {
+   "key": 7548187,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Labiotermes longilabius (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RJRS",
+   "status": "accepted",
+   "label": "Labiotermes longilabius (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210718",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Labiotermes oreadicus": {
+  "gbif": {
+   "key": 7953976,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Labiotermes oreadicus Constantino, 2006",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RJRT",
+   "status": "accepted",
+   "label": "Labiotermes oreadicus Constantino, 2006",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210719",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Labiotermes orthocephalus": {
+  "gbif": {
+   "key": 7640481,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Labiotermes orthocephalus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6NPZF",
+   "status": "accepted",
+   "label": "Labiotermes orthocephalus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210720",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Labiotermes pelliceus": {
+  "gbif": {
+   "key": 7620690,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Labiotermes pelliceus Emerson & Banks, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RJRV",
+   "status": "accepted",
+   "label": "Labiotermes pelliceus Emerson & Banks, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210721",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

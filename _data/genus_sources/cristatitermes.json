@@ -1,0 +1,15 @@
+{
+ "latin": "Cristatitermes",
+ "zh": "脊突白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Cristatitermes Miller, 1991: 1192–1196.",
+ "type_species": "Cristatitermes carinatus Miller, 1992 by original designation.",
+ "references": [
+  {
+   "ref": "Hill, 1942: 14, 377–379",
+   "note": "Mirotermes [as genus and subgenus [part]; key; synonymy; imago, soldier, worker diagnosed."
+  }
+ ],
+ "nrefs": 3
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Caracteres del género en Sands 1972 pp. 44–46. El original solo indica el tamaño corporal (ancho de la cabeza W, mm), el número de espinas apicales de la tibia anterior, las proporciones de los dientes mandibulares, la constricción de los terguitos meso- y metatorácicos (M/W), la fontanela y la pilosidad cefálica (cuando existen) y la estructura del tubo digestivo y de la válvula entérica; no registra el número de segmentos antenales, la forma del pronoto ni la venación alar, por lo que esta entrada no se completa. La confusión, en el OCR, entre el punto decimal «*» y entre i/1 se ha normalizado a cifras árabes según el contexto.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Tamaño pequeño, que junto con la forma de las mandíbulas permite distinguirlo de todos los demás géneros. Próximo a Astalotermes, especialmente a A. comis; sin embargo, la posición del diente subapical de la mandíbula izquierda y el tubo digestivo manifiestamente más corto del obrero lo acercan a grupos más primitivos, y el análisis numérico también lo separa netamente. El tamaño solo se solapa con el de Anenteotermes nanus, pero esta difiere en las mandíbulas de ambas castas y presenta en el obrero un segmento mixto largo y una válvula entérica con espinas."
+  },
+  {
+   "label": "Obrero",
+   "text": "Muy pequeño, W 0.48–0.57 mm. Tibia anterior moderadamente dilatada, Ti/Tw 3.46–3.94, con 3 espinas apicales, la tercera casi del mismo tamaño que las otras dos. Diente apical de las mandíbulas corto, La/Li 0.48–0.54, Ra/Ri 0.60–0.68; el extremo proximal del diente subapical de la mandíbula izquierda oculto tras la prominencia molar en visión superficial; proporciones de la mandíbula derecha semejantes a las del alado, pero con la placa molar mayor. Unión de mesenterón y proctodeo simple, casi transversal, sin solapamiento; mesenterón corto, con los túbulos de Malpighi insertos justo en la mitad de su longitud; primer segmento del proctodeo algo más largo que el mesenterón, ligeramente dilatado, adelgazándose hacia la válvula entérica; asiento de la válvula entérica de borde simple, sin pedúnculo, inserto en el segundo saco del proctodeo, situado ventrolateralmente en el abdomen sin diseccionar; colchón interno de la válvula entérica sin espinas, con escamas débiles."
+  },
+  {
+   "label": "Alado",
+   "text": "Muy pequeño, W 0.57–0.66 mm. Tibia anterior con 3 espinas apicales, la tercera desarrollada, de aproximadamente 2/3 de las otras dos. Diente apical de las mandíbulas corto, La/Li 0.50–0.56, Ra/Ri 0.62–0.71; el extremo proximal del diente subapical de la mandíbula izquierda justo a ras del borde de la prominencia molar; en la mandíbula derecha el diente apical y los ápices de los dientes marginales en línea, pero el 2.º diente marginal ancho, con el margen anterior más largo que el del 1.er diente marginal. Terguitos meso- y metatorácicos estrechos en la constricción, M/W 0.21; sutura transversa débil pero presente."
+  }
+ ]
+}

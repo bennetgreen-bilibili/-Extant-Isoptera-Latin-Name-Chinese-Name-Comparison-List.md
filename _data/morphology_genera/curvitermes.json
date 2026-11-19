@@ -1,0 +1,35 @@
+{
+ "zh_name": "曲白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁上颚形态“异常”：具磨板、磨突与缘齿，颇似同名工蚁的上颚；端齿鱼钩状；磨区扩大并具向后指的亚端齿。额管表面光滑、宽锥形。有翅成虫左颚指数约 2.0（与 Cyrilliotermes、Paracurvitermes 同）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "上颚磨区扩大，具向后指的亚端齿；端齿鱼钩状；上颚具磨板、磨突与缘齿，与工蚁上颚相似。额管表面光滑、宽锥形。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "左颚指数约 2.0，与 Cyrilliotermes、Paracurvitermes 同（Armitermes、Embiratermes、Labiotermes 为 0.7–1.1）。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0068",
+   "citation": "Rocha M. M.; Cancello E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138: 445-463. https://doi.org/10.11646/zootaxa.5138.4.6",
+   "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）"
+  },
+  {
+   "id": "S0077",
+   "citation": "Constantino R. 2012. Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records. Zootaxa 3174: 65-68. https://doi.org/10.11646/zootaxa.3174.1.7",
+   "locator": "Comparisons（属名后逗号前的空格系 Plazi 抽取标签剥离所致）"
+  },
+  {
+   "id": "S0072",
+   "citation": "Rocha M. M.; Cancello E. M.; Carrijo T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37: 793-827. https://doi.org/10.1111/j.1365-3113.2012.00645.x",
+   "locator": "Key to genera of Syntermitinae, couplet 7；Key to genera of Syntermitinae, couplet 8"
+  }
+ ],
+ "note": "兵蚁据属检索表与比较性属征；有翅成虫仅知左颚指数。原始描述 Holmgren 1912 只有 OCR 质量很差的德文扫描，未据以撰写。"
+}

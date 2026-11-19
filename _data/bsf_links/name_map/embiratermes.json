@@ -1,0 +1,101 @@
+{
+ "Embiratermes benjamini": {
+  "label": "Embiratermes benjamini (Snyder, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84199,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84199/overview",
+  "valid_label": null,
+  "valid_otu": 84199,
+  "verified": false
+ },
+ "Embiratermes chagresi": {
+  "label": "Embiratermes chagresi (Snyder, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84201,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84201/overview",
+  "valid_label": null,
+  "valid_otu": 84201,
+  "verified": false
+ },
+ "Embiratermes festivellus": {
+  "label": "Embiratermes festivellus (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84202,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84202/overview",
+  "valid_label": null,
+  "valid_otu": 84202,
+  "verified": false
+ },
+ "Embiratermes heterotypus": {
+  "label": "Embiratermes heterotypus (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84203,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84203/overview",
+  "valid_label": null,
+  "valid_otu": 84203,
+  "verified": false
+ },
+ "Embiratermes latidens": {
+  "label": "Embiratermes latidens (Banks & Emerson, 1957)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84205,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84205/overview",
+  "valid_label": null,
+  "valid_otu": 84205,
+  "verified": false
+ },
+ "Embiratermes neotenicus": {
+  "label": "Embiratermes neotenicus (Holmgren, 1906)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84206,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84206/overview",
+  "valid_label": null,
+  "valid_otu": 84206,
+  "verified": false
+ },
+ "Embiratermes snyderi": {
+  "label": "Embiratermes snyderi (Emerson & Banks, 1957)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84210,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84210/overview",
+  "valid_label": null,
+  "valid_otu": 84210,
+  "verified": false
+ },
+ "Embiratermes spissus": {
+  "label": "Embiratermes spissus (Emerson & Banks, 1957)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84211,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84211/overview",
+  "valid_label": null,
+  "valid_otu": 84211,
+  "verified": false
+ },
+ "Embiratermes transandinus": {
+  "label": "Embiratermes transandinus (Araujo, 1977)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84212,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84212/overview",
+  "valid_label": null,
+  "valid_otu": 84212,
+  "verified": false
+ }
+}

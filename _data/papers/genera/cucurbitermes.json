@@ -1,0 +1,57 @@
+{
+ "latin": "Cucurbitermes",
+ "zh": "葫白蚁属",
+ "fetched_at": "2026-10-30T16:53:27Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2354530907",
+   "openalex_url": "https://openalex.org/W2354530907",
+   "doi": "",
+   "doi_url": "",
+   "title": "TWO NEW SPECIES OF NEW GENUS CUCURBITERMES OF SUBFAMILY NASUTITERMITINAE FROM CHINA (ISOPTERA: TERMITIDAE)",
+   "year": 1985,
+   "date": "1985-01-01",
+   "authors": [
+    "Li G"
+   ],
+   "venue": "Acta Entomologica Sinica",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "CUCURBITERMES gen. nov.Type specie: Cucurbitermes yingdeensis sp. nov.Diagnosis: Soldier: (Figs. 1-4, 9-16) body medium or large in size. Monomor-phic or dimorphic; Head without hairs, bristles, and nasus, wider than long, or sub-equal. Nasus thin and long. Base of nasus and antennae earinae constricted in cucurbit-shape. Lateral sides strongly bulging behind antennal earinae. Posterior margin slight straight. Mandibles without points. Antennae with 13-14 articles. Tibial spurs 2:2:2. Tarsi four-jointed.Imago (king and queen) (Figs. 5-8, 17-21): Head almost round with numerous short hairs and long birstles, pronotum as hairy as head, but circuit margin long birst-les more than head. Fontanelle large oval. Eyes large, very bulging, almost round. Ocelli oval slightly bulging. Left mandible with apical tooth as large as the first marginal tooth; The cutting edge between marginal teeth of left mandible is almost straight. Left mandibular index 0.46. Antennae with 15 articles. Pronctum anterior margin almost straight. Posterior margin slightly emarginate in middle. Comparisons: Cucurbitermes, gen. nov., can be distinguished from the other na-sute genera of the oriental region by a combination of the following characters:Soldier: Head with lateral sides strongly bulging in antennae carinae behind. Base of nasus and antenae carinae contricted in cucurbit-shape. Posterior margin of head slight straight. Mandibles without apical points. Antennae with 13-14 articles.Imago-worker: left mandible with apical tooth as large as the first marginal tooth. The cutting edge between marginal teeth almost straight.Soldiers of Nosutitermes, most species are monomorphic, mandibles usually with points. Head capsule without any pronounced constriction in antennae carinae behind.Cucurbitermes new genus, resembles closely to Ahmaditermes Akhtar. But differs as follows: 1. Soldier: nasus is thin and long, posterior margin of head slightly straight, vs. Nasus is very short, posterior margin of head is slightly emarginate in middle. 2. Imago-worker: left, mandible with cutting edge between marginal teeth almost straight vs. Left mandible with cutting edge between marginal teeth distinctly sinuate.Cucurbitermes yingdeensis sp. nov. (Figs. 1-8, Tables 1-2)Soldier: body medium in size, monomorphic. Head light brown, rostrum brown. Head without hairs, rostrum thin and long. Head slightly wider than long without rostrum. Base of nasus and antennae carinae constricted cucurbit-shape. Lateral sides strongly bulging in antennae carinae behind posterior margin slight straight. Mandible without points. Antennae with 13 articles., third article twice as long as second, second and fourth subequal. Pronotum saddle-saped, without emarginate either anteriorly or posteriorly. Tibial supurs 2:2:2. Tarsi four-jointed.Imago: head brownish red, antennae and pronotum yellowish brown. Head densely hairy, with short hairs and long bristles, pronotum as hairly as head, but circuit long bristles more than head. Head almost round. Pontanelle large, long oval. Eyes large, very bulging, almost round. Ocelli slightly bulging, oval. Postclypeus slightly swollen. Antennae with 15 articles, second, third and fourth subequal. Left mandible with apical tooth as large as the first marginal tooth, the cutting edge between marginal teeth of left mandibles almost straight. Left mandibulair index 0.46. Pronotum with anterior margin almost straight, posterior margin slightly emarginate in middle.Holotype: soldier; paratypes: soldiers, workers, king and queen. Type locality: Yingde County, Guangdong province. 28. Ⅵ. 1963.Cucurbitermes sinensis sp. nov. (Pigs. 9-21, Tables 3-5)The soldier differs from that of Cucurbitermes yingdeensis, sp. nov.: Dimorphic; Major soldier: head without nasus wider than long. Antennae with 14 articles. King and equeen: antennae with the second article distincly longer than third.Holotype: major soldier; paratypes: major, minor soldiers, workers king and queen Type locality: Huaping forest, Longsheng county, Guangxi. 5. Ⅸ. 1973. Collected by Li Gui-xiang and",
+   "abstract_source": "openalex",
+   "abstract_chars": 4092,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W764522691",
+   "openalex_url": "https://openalex.org/W764522691",
+   "doi": "",
+   "doi_url": "",
+   "title": "浙江省等翅目两新种（等翅目：白蚁科）",
+   "year": 1994,
+   "date": "1994-01-01",
+   "authors": [
+    "平正明",
+    "董兆梁",
+    "徐月莉"
+   ],
+   "venue": "",
+   "type": "article",
+   "language": "zh",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "19",
+   "issue": "1",
+   "pages": "108-112",
+   "abstract": "本文记述了等翅目白蚁科两新种：浙江大白蚁Ｍａｃｒｏｔｅｒｍｅｓ ｚｈｅｊｉａｎｇｅｎｓｉｓ ｓｐ．ｎｏｖ．和小葫白蚁Ｃｕｃｕｒｂｉｔｅｒｍｅｓ ｐａｒｖｉｃｅｐｓ ｓｐ．ｎｏｖ．。标本均采自浙江省，正模保存于广东省昆虫研究所。",
+   "abstract_source": "openalex",
+   "abstract_chars": 113,
+   "abstract_truncated": false
+  }
+ ]
+}

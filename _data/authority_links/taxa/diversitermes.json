@@ -1,0 +1,93 @@
+{
+ "Diversitermes aporeticus": {
+  "gbif": {
+   "key": 9658855,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Diversitermes aporeticus Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "36ZWX",
+   "status": "accepted",
+   "label": "Diversitermes aporeticus Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250571",
+  "flags": [],
+  "_d": "2026-10-30"
+ },
+ "Diversitermes castaniceps": {
+  "gbif": {
+   "key": 8933591,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Diversitermes castaniceps (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "36ZWY",
+   "status": "accepted",
+   "label": "Diversitermes castaniceps (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250572",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Diversitermes diversimiles": {
+  "gbif": {
+   "key": 8821445,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Diversitermes diversimiles (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "36ZWZ",
+   "status": "accepted",
+   "label": "Diversitermes diversimiles (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250573",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Diversitermes tiapuan": {
+  "gbif": {
+   "key": 9223702,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Diversitermes tiapuan",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Diversitermes Holmgren, 1912",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q140870897",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

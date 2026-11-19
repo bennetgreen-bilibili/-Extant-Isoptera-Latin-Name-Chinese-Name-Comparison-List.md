@@ -1,0 +1,74 @@
+{
+ "book_n": "59",
+ "book_name": "奇头新白蚁 Neotermes miracapitalis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "奇头新白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "3.65"
+    },
+    {
+     "key": "head_max_width",
+     "value": "2.20"
+    },
+    {
+     "key": "head_height",
+     "value": "1.82"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.47"
+    },
+    {
+     "key": "labrum_width",
+     "value": "0.57"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "1.99"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "2.80"
+    },
+    {
+     "key": "postmentum_max_width",
+     "value": "0.85"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.37"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "1.12"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "2.36"
+    },
+    {
+     "key": "hind_femur_length",
+     "value": "1.55"
+    },
+    {
+     "key": "hind_femur_width",
+     "value": "0.55"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.68"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 1358,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "book_n": "31",
+ "book_name": "黎母岭树白蚊 Glyptotermes limulingensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "黎母岭树白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "value": "0.86"
+    },
+    {
+     "key": "head_height",
+     "value": "0.77"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.12"
+    },
+    {
+     "key": "labrum_width",
+     "value": "0.24"
+    },
+    {
+     "key": "postmentum_width",
+     "value": "0.31"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.20"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.49"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 639,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "黎母岭树白蚁有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length_with_wings",
+     "mean": "6.87",
+     "value": "0.64–7.29"
+    },
+    {
+     "key": "forewing_length",
+     "mean": "5.76",
+     "value": "5.61–6.01"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "0.77",
+     "value": "0.72–0.80"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "mean": "0.80",
+     "value": "0.80–0.81"
+    },
+    {
+     "key": "eye_long_diameter",
+     "mean": "0.26",
+     "value": "0.24–0.27"
+    },
+    {
+     "key": "eye_short_diameter",
+     "mean": "0.21",
+     "value": "0.20–0.22"
+    },
+    {
+     "key": "eye_head_lower_margin",
+     "mean": "0.18",
+     "value": "0.18–0.19"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.47",
+     "value": "0.45–0.48"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.72",
+     "value": "0.70–0.73"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.69",
+     "value": "0.66–0.70"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 646,
+   "unit": "mm"
+  }
+ ]
+}

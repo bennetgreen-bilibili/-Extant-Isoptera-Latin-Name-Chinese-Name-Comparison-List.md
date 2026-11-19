@@ -1,0 +1,48 @@
+{
+ "book_n": "437",
+ "book_name": "西藏象白蚁 Nasutitermes tibetanus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "西藏象白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "4.72",
+     "value": "4.57–4.86"
+    },
+    {
+     "key": "nasus_length",
+     "mean": "0.89",
+     "value": "0.82–0.96"
+    },
+    {
+     "key": "head_height",
+     "mean": "0.71",
+     "value": "0.64–0.79"
+    },
+    {
+     "key": "head_width",
+     "mean": "1.10",
+     "value": "0.96–1.14"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.18",
+     "value": "0.18–0.21"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.50",
+     "value": "0.46–0.50"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 865,
+   "unit": "mm"
+  }
+ ]
+}

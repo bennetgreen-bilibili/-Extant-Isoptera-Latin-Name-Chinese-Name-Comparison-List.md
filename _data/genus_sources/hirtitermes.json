@@ -1,0 +1,31 @@
+{
+ "latin": "Hirtitermes",
+ "zh": "多毛白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Hirtitermes Holmgren, 1912a: 59, 60, 62 [first introduced as a subgenus of Eutermes Heer, 1849].",
+ "type_species": "Eutermes (Hirtitermes) hirtiventris Holmgren, 1912 by monotypy.",
+ "references": [
+  {
+   "ref": "Ahmad, 1958: 88",
+   "note": "Hirtitermes; key."
+  },
+  {
+   "ref": "Ahmad, 1971: 27–28",
+   "note": "Hirtitermes; synonymy; generic characters; relationships; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 23",
+   "note": "Hirtitermes; key."
+  },
+  {
+   "ref": "Collins, 1984: 77",
+   "note": "Hirtitermes; key."
+  },
+  {
+   "ref": "Gathorne-Hardy, 2001: 1503",
+   "note": "Hirtitermes; key."
+  }
+ ],
+ "nrefs": 15
+}

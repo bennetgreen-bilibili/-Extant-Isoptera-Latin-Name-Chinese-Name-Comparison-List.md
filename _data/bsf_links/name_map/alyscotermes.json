@@ -1,0 +1,24 @@
+{
+ "Alyscotermes kilimandjaricus": {
+  "label": "Alyscotermes kilimandjaricus (Sjöstedt, 1907)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83931,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83931/overview",
+  "valid_label": null,
+  "valid_otu": 83931,
+  "verified": false
+ },
+ "Alyscotermes trestus": {
+  "label": "Alyscotermes trestus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83932,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83932/overview",
+  "valid_label": null,
+  "valid_otu": 83932,
+  "verified": false
+ }
+}

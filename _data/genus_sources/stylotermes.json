@@ -1,0 +1,43 @@
+{
+ "latin": "Stylotermes",
+ "zh": "杆白蚁属",
+ "family": "stylotermitidae",
+ "treatise": true,
+ "citation": "Stylotermes Holmgren and Holmgren, 1917: 141.",
+ "type_species": "Stylotermes fletcheri Holmgren, and Holmgren, 1917 by monotypy.",
+ "references": [
+  {
+   "ref": "Snyder, 1934a: 24, 27",
+   "note": "Stylotermes; key."
+  },
+  {
+   "ref": "Ahmad, 1958: 59",
+   "note": "Stylotermes; key."
+  },
+  {
+   "ref": "Mathur and Chhotani, 1959: 40, 41–42",
+   "note": "Stylotermes; characters; key to Indian species."
+  },
+  {
+   "ref": "Chatterjee and Thakur, 1964a: 161",
+   "note": "Stylotermes; key; characters."
+  },
+  {
+   "ref": "Emerson, 1971: 288–290",
+   "note": "Stylotermes; taxonomy; synonymy; characters; phylogeny; ecology; distribution."
+  },
+  {
+   "ref": "Chaudhry et al., 1972: 19",
+   "note": "Stylotermes; characters."
+  },
+  {
+   "ref": "Akhtar, 1975: 36, 45–47, fig. 22",
+   "note": "Stylotermes; key; synonymy; imago/worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 15",
+   "note": "Stylotermes; key; synonymy."
+  }
+ ],
+ "nrefs": 42
+}

@@ -1,0 +1,132 @@
+{
+ "Euchilotermes acutidens": {
+  "gbif": {
+   "key": 9714388,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euchilotermes acutidens Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "3BSTZ",
+   "status": "accepted",
+   "label": "Euchilotermes acutidens Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251099",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euchilotermes quadriceps": {
+  "gbif": {
+   "key": 9705913,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euchilotermes quadriceps (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6H5TM",
+   "status": "accepted",
+   "label": "Euchilotermes quadriceps (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251100",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euchilotermes tensus": {
+  "gbif": {
+   "key": 9664483,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euchilotermes tensus Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "6H65M",
+   "status": "accepted",
+   "label": "Euchilotermes tensus Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251102",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euchilotermes tensus arcuata": {
+  "gbif": {
+   "key": 9746000,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Euchilotermes tensus arcuata Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "L24MK",
+   "status": "accepted",
+   "label": "Euchilotermes tensus arcuata Silvestri, 1914",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euchilotermes tensus tensus": {
+  "gbif": {
+   "key": 9756994,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Euchilotermes tensus tensus Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "L24ML",
+   "status": "accepted",
+   "label": "Euchilotermes tensus tensus Silvestri, 1914",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euchilotermes umbraticola": {
+  "gbif": {
+   "key": 9656275,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euchilotermes umbraticola (Williams, 1954)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6GTTN",
+   "status": "accepted",
+   "label": "Euchilotermes umbraticola (Williams, 1954)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251103",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

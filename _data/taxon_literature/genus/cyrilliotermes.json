@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "属级修订与异名整理",
+   "heading_en": "Generic revision and synonymy",
+   "heading_es": "Revisión del género y sinonimia",
+   "paragraphs": [
+    {
+     "src": [
+      "S0302"
+     ],
+     "text": "根据 Constantino 与 Carvalho（2012）研究，壶头白蚁属（<i>Cyrilliotermes</i>）的分类修订把肠道形态特征纳入属征，并提供兵蚁鉴定检索表与全部物种的分布图；属内的 3 个旧名也在同一修订中分别归并到相应物种（据摘要）。",
+     "text_en": "According to Constantino and Carvalho (2012), the taxonomic revision of <i>Cyrilliotermes</i> incorporates intestinal morphology into the generic diagnosis and provides a key to soldiers and distribution maps for all species; the same revision also assigned the genus's three old names to their respective species (according to the abstract).",
+     "text_es": "Según Constantino y Carvalho (2012), la revisión taxonómica de <i>Cyrilliotermes</i> incorpora la morfología intestinal a la diagnosis del género y aporta una clave de soldados y mapas de distribución de todas las especies; la misma revisión asignó además los tres nombres antiguos del género a sus respectivas especies (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0302",
+   "citation": "Constantino, R.; Sérgio H. C. Carvalho. 2012. A taxonomic revision of the Neotropical termite genus Cyrilliotermes Fontes (Isoptera, Termitidae, Syntermitinae). Zootaxa.",
+   "doi": "10.11646/zootaxa.3186.1.2"
+  }
+ ]
+}

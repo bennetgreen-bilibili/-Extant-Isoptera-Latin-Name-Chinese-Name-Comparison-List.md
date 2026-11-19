@@ -1,0 +1,23 @@
+{
+ "latin": "Allotermes",
+ "zh": "奇白蚁属",
+ "family": "kalotermitidae",
+ "treatise": true,
+ "citation": "Allotermes Wasmann, 1910a: 121.",
+ "type_species": "Allotermes paradoxus Wasmann, 1910a by original designation.",
+ "references": [
+  {
+   "ref": "Krishna, 1961: 358",
+   "note": "Allotermes; stat. rev.; generic characters; key; reference list; phylogeny; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 11",
+   "note": "Allotermes; key."
+  },
+  {
+   "ref": "Araujo and Fontes, 1979: 31",
+   "note": "Allotermes; key."
+  }
+ ],
+ "nrefs": 5
+}

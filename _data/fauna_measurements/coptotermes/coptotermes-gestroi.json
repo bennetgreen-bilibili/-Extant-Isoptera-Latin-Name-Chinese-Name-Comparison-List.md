@@ -1,0 +1,50 @@
+{
+ "book_n": "84",
+ "book_name": "格斯特乳白蚁 Coptotermes",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "格斯特乳白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.40–1.41"
+    },
+    {
+     "key": "head_max_width",
+     "value": "1.15–1.24"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "0.82–0.93"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "0.93–1.00"
+    },
+    {
+     "key": "postmentum_max_width",
+     "value": "0.37–0.41"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.23–0.28"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.39–0.43"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.86–0.90"
+    }
+   ],
+   "src_file": "301-400.txt",
+   "src_line": 601,
+   "unit": "mm"
+  }
+ ]
+}

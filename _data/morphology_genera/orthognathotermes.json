@@ -1,0 +1,25 @@
+{
+ "zh_name": "直颚白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫未知（若虫触角 17 节）。兵蚁头长方形、相当平凸、额平；额隆与囟均缺；触角根上方的触角脊具一相当大而圆钝的瘤状加宽；上唇短，长宽约相等，舌形但侧角略圆突（弱三叶状）；左右上颚对称，中部具中齿；触角 15 节；前胸背板鞍形。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头长方形，相当平凸，额平；额隆与囟均缺；触角根上方具一相当大、圆钝、瘤状的触角脊加宽。上唇短，长约等于宽，舌形，但侧角略圆钝地突出（弱三叶状）。上颚左右对称；基部很宽，向前以相当长的部分过渡到上颚中部，基部与中部过渡处具齿的痕迹；上颚在中点之前略呈膝状外弯，弯曲处为中齿；端部内弯；右上颚端部上面略凹。触角 15 节。前胸背板鞍形。"
+  },
+  {
+   "label": "工蚁",
+   "text": "后唇基长约等于其宽度之半，隆起；上颚第一齿大；触角 14 节。"
+  }
+ ],
+ "note": "有翅成虫未知，原文据若虫记触角 17 节、后唇基基片略短于其宽度之半、上颚第一齿大。德文属征据 OCR 文本改写，非逐字翻译。",
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+   "locator": "pp. 118–119（Gattung Orthognathotermes；Imago unbekannt、Soldat、Arbeiter）"
+  }
+ ]
+}

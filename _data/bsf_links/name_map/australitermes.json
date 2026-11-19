@@ -1,0 +1,35 @@
+{
+ "Australitermes dilucidus": {
+  "label": "Australitermes dilucidus (Hill, 1942)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84333,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84333/overview",
+  "valid_label": null,
+  "valid_otu": 84333,
+  "verified": false
+ },
+ "Australitermes insignitus": {
+  "label": "Australitermes insignitus (Hill, 1942)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84334,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84334/overview",
+  "valid_label": null,
+  "valid_otu": 84334,
+  "verified": false
+ },
+ "Australitermes perlevis": {
+  "label": "Australitermes perlevis (Hill, 1942)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84335,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84335/overview",
+  "valid_label": null,
+  "valid_otu": 84335,
+  "verified": false
+ }
+}

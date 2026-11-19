@@ -1,0 +1,73 @@
+{
+ "book_n": "3",
+ "book_name": "铲头堆砂白蚁 Cryptotermes declivis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "铲头堆砂白蚁3个兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_width",
+     "mean": "1.31",
+     "value": "1.22–1.40"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.31",
+     "value": "1.20–1.38"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.83",
+     "value": "0.80–0.88"
+    }
+   ],
+   "src_file": "101-200.txt",
+   "src_line": 1182,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "铲头堆砂白蚁2个有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "8.50–8.88"
+    },
+    {
+     "key": "body_length_without_wings",
+     "value": "5.20–5.80"
+    },
+    {
+     "key": "forewing_length",
+     "value": "6.80–7.00"
+    },
+    {
+     "key": "eye_long_diameter",
+     "value": "0.27–0.31"
+    },
+    {
+     "key": "ocellus_length",
+     "value": "0.08–0.09"
+    },
+    {
+     "key": "ocellus_width",
+     "value": "0.05–0.06"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "0.88–0.93"
+    }
+   ],
+   "src_file": "101-200.txt",
+   "src_line": 1189,
+   "unit": "mm"
+  }
+ ]
+}

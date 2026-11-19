@@ -1,0 +1,13 @@
+{
+ "Coxotermes boukokoensis": {
+  "label": "Coxotermes boukokoensis Grassé & Noirot, 1955",
+  "match": "exact",
+  "notes": "",
+  "otu": 84054,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84054/overview",
+  "valid_label": null,
+  "valid_otu": 84054,
+  "verified": false
+ }
+}

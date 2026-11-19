@@ -1,0 +1,13 @@
+{
+ "Baucaliotermes hainesi": {
+  "label": "Baucaliotermes hainesi (Fuller, 1922)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84337,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84337/overview",
+  "valid_label": null,
+  "valid_otu": 84337,
+  "verified": false
+ }
+}

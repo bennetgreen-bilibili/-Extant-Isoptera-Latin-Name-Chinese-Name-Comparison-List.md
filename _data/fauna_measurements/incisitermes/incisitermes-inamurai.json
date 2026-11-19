@@ -1,0 +1,34 @@
+{
+ "book_n": "10",
+ "book_name": "台湾木白蚁 Kalotermes inamurae",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "台湾木白蚁有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "9.30"
+    },
+    {
+     "key": "head_width",
+     "value": "1.56"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "1.19"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.84"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 107,
+   "unit": "mm"
+  }
+ ]
+}

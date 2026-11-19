@@ -1,0 +1,90 @@
+{
+ "Mirocapritermes concaveus": {
+  "label": "Mirocapritermes concaveus Ahmad, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 85640,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85640/overview",
+  "valid_label": null,
+  "valid_otu": 85640,
+  "verified": false
+ },
+ "Mirocapritermes connectens": {
+  "label": "Mirocapritermes connectens Holmgren, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 85641,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85641/overview",
+  "valid_label": null,
+  "valid_otu": 85641,
+  "verified": false
+ },
+ "Mirocapritermes hsuchiafui": {
+  "label": "Mirocapritermes hsuchiafui Yu & Ping, 1966",
+  "match": "exact",
+  "notes": "",
+  "otu": 85642,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85642/overview",
+  "valid_label": null,
+  "valid_otu": 85642,
+  "verified": false
+ },
+ "Mirocapritermes jiangchengensis": {
+  "label": "Mirocapritermes jiangchengensis Yang, Zhu & Huang, 1995",
+  "match": "exact",
+  "notes": "",
+  "otu": 85643,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85643/overview",
+  "valid_label": null,
+  "valid_otu": 85643,
+  "verified": false
+ },
+ "Mirocapritermes latignathus": {
+  "label": "Mirocapritermes latignathus Ahmad, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 85644,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85644/overview",
+  "valid_label": null,
+  "valid_otu": 85644,
+  "verified": false
+ },
+ "Mirocapritermes prewensis": {
+  "label": "Mirocapritermes prewensis Ahmad, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 85645,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85645/overview",
+  "valid_label": null,
+  "valid_otu": 85645,
+  "verified": false
+ },
+ "Mirocapritermes snyderi": {
+  "label": "Mirocapritermes snyderi Akhtar, 1975",
+  "match": "exact",
+  "notes": "",
+  "otu": 85646,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85646/overview",
+  "valid_label": null,
+  "valid_otu": 85646,
+  "verified": false
+ },
+ "Mirocapritermes valeriae": {
+  "label": "Mirocapritermes valeriae Krishna, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 85647,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85647/overview",
+  "valid_label": null,
+  "valid_otu": 85647,
+  "verified": false
+ }
+}

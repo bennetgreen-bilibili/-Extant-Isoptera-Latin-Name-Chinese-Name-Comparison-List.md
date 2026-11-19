@@ -1,0 +1,15 @@
+{
+ "latin": "Apagotermes",
+ "zh": "疲白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Apagotermes Sands, 1972: 155.",
+ "type_species": "Apagotermes stolidus Sands, 1972 by original designation.",
+ "references": [
+  {
+   "ref": "Sands, 1998: 57, 157–158, figs. 469–474, pl. 6: figs. 9, 10",
+   "note": "Apagotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 1
+}

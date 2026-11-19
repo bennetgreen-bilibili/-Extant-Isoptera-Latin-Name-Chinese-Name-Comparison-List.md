@@ -1,0 +1,46 @@
+{
+ "Eucryptotermes breviceps": {
+  "gbif": {
+   "key": 9658147,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eucryptotermes breviceps Constantino, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "6H6KJ",
+   "status": "accepted",
+   "label": "Eucryptotermes breviceps Constantino, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225319",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eucryptotermes hagenii": {
+  "gbif": {
+   "key": 9712412,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eucryptotermes hagenii (Müller, 1873)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3BYMF",
+   "status": "accepted",
+   "label": "Eucryptotermes hagenii (Müller, 1873)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225320",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

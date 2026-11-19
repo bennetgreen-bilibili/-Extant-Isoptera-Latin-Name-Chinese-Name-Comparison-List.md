@@ -1,0 +1,38 @@
+{
+ "book_n": "21",
+ "book_name": "宽头树白蚊 Glyptotermes euryceps",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "宽头树白蚊兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.86–2.01"
+    },
+    {
+     "key": "head_max_width",
+     "value": "1.31–1.37"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.32–0.34"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.45–0.55"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.05–1.12"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 390,
+   "unit": "mm"
+  }
+ ]
+}

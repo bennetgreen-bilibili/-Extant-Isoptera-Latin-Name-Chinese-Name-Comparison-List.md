@@ -1,0 +1,32 @@
+{
+ "latin": "Ophiotermes",
+ "zh": "蛇白蚁属",
+ "fetched_at": "2026-10-30T16:54:16Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W1570790884",
+   "openalex_url": "https://openalex.org/W1570790884",
+   "doi": "10.1111/j.1462-2920.2011.02648.x",
+   "doi_url": "https://doi.org/10.1111/j.1462-2920.2011.02648.x",
+   "title": "Nitrate reduction, nitrous oxide formation, and anaerobic ammonia oxidation to nitrite in the gut of soil‐feeding termites ( Cubitermes and Ophiotermes spp.)",
+   "year": 2011,
+   "date": "2011-11-28",
+   "authors": [
+    "David Kamanda Ngugi",
+    "Andreas Brune"
+   ],
+   "venue": "Environmental Microbiology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 50,
+   "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1462-2920.2011.02648.x",
+   "volume": "14",
+   "issue": "4",
+   "pages": "860-871",
+   "abstract": "Soil-feeding termites play important roles in the dynamics of carbon and nitrogen in tropical soils. Through the mineralization of nitrogenous humus components, their intestinal tracts accumulate enormous amounts of ammonia, and nitrate and nitrite concentrations are several orders of magnitude above those in the ingested soil. Here, we studied the metabolism of nitrate in the different gut compartments of two Cubitermes and one Ophiotermes species using (15)N isotope tracer analysis. Living termites emitted N(2) at rates ranging from 3.8 to 6.8 nmol h(-1) (g fresh wt.)(-1). However, in homogenates of individual gut sections, denitrification was restricted to the posterior hindgut, whereas nitrate ammonification occurred in all gut compartments and was the prevailing process in the anterior gut. Potential rates of nitrate ammonification for the entire intestinal tract were tenfold higher than those of denitrification, implying that ammonification is the major sink for ingested nitrate in the intestinal tract of soil-feeding termites. Because nitrate is efficiently reduced already in the anterior gut, reductive processes in the posterior gut compartments must be fuelled by an endogenous source of oxidized nitrogen species. Quite unexpectedly, we observed an anaerobic oxidation of (15)N-labelled ammonia to nitrite, especially in the P4 section, which is presumably driven by ferric iron; nitrification and anammox activities were not detected. Two of the termite species also emitted substantial amounts of N(2) O, ranging from 0.4 to 3.9 nmol h(-1) (g fresh wt.)(-1), providing direct evidence that soil-feeding termites are a hitherto unrecognized source of this greenhouse gas in tropical soils.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1718,
+   "abstract_truncated": false
+  }
+ ]
+}

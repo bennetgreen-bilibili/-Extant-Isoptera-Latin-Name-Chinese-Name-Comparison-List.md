@@ -1,0 +1,57 @@
+{
+ "Zootermopsis angusticollis": {
+  "label": "Zootermopsis angusticollis (Hagen, 1858)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82500,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82500/overview",
+  "valid_label": null,
+  "valid_otu": 82500,
+  "verified": false
+ },
+ "Zootermopsis laticeps": {
+  "label": "Zootermopsis laticeps (Banks, 1906)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82502,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82502/overview",
+  "valid_label": null,
+  "valid_otu": 82502,
+  "verified": false
+ },
+ "Zootermopsis nevadensis": {
+  "label": "Zootermopsis nevadensis (Hagen, 1874)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82503,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82503/overview",
+  "valid_label": null,
+  "valid_otu": 82503,
+  "verified": false
+ },
+ "Zootermopsis nevadensis nevadensis": {
+  "label": "Zootermopsis nevadensis nevadensis (Hagen, 1874)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82504,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82504/overview",
+  "valid_label": null,
+  "valid_otu": 82504,
+  "verified": false
+ },
+ "Zootermopsis nevadensis nuttingi": {
+  "label": "Zootermopsis nevadensis nuttingi Haverty & Thorne, 1989",
+  "match": "exact",
+  "notes": "",
+  "otu": 82505,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82505/overview",
+  "valid_label": null,
+  "valid_otu": 82505,
+  "verified": false
+ }
+}

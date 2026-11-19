@@ -1,0 +1,23 @@
+{
+ "Krecekitermes daironi": {
+  "gbif": {
+   "key": 12215735,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Krecekitermes daironi Scheffrahn, Carrijo & Castro, 2023",
+   "accepted": null
+  },
+  "col": {
+   "id": "BJ5CZ",
+   "status": "accepted",
+   "label": "Krecekitermes daironi Scheffrahn, Carrijo & Castro, 2023",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

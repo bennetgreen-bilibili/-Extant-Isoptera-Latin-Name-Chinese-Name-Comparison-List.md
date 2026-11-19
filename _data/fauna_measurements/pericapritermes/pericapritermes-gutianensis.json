@@ -1,0 +1,68 @@
+{
+ "book_n": "373",
+ "book_name": "古田近扭白蚁 Pericapritermes gutianensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "古田近扭白蚁10个兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_mandibles",
+     "mean": "4.10",
+     "value": "3.89–4.26"
+    },
+    {
+     "key": "head_width",
+     "mean": "1.46",
+     "value": "1.40–1.51"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.29",
+     "value": "1.26–1.33"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.61",
+     "value": "1.58–1.67"
+    },
+    {
+     "key": "right_mandible_length",
+     "mean": "1.56",
+     "value": "1.47–1.64"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.22",
+     "value": "0.22–0.23"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.68",
+     "value": "1.51–1.78"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.85",
+     "value": "0.80–0.92"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.39",
+     "value": "0.37–0.43"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.20",
+     "value": "1.20–1.21"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 1006,
+   "unit": "mm"
+  }
+ ]
+}

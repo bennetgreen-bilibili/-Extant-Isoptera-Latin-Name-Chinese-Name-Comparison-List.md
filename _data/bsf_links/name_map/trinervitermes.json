@@ -1,0 +1,233 @@
+{
+ "Trinervitermes arabiae": {
+  "label": "Trinervitermes arabiae Harris, 1957",
+  "match": "exact",
+  "notes": "",
+  "otu": 84910,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84910/overview",
+  "valid_label": null,
+  "valid_otu": 84910,
+  "verified": false
+ },
+ "Trinervitermes bettonianus": {
+  "label": "Trinervitermes bettonianus (Sjöstedt, 1905)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84911,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84911/overview",
+  "valid_label": null,
+  "valid_otu": 84911,
+  "verified": false
+ },
+ "Trinervitermes biformis": {
+  "label": "Trinervitermes biformis (Wasmann, 1902)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84912,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84912/overview",
+  "valid_label": null,
+  "valid_otu": 84912,
+  "verified": false
+ },
+ "Trinervitermes dispar": {
+  "label": "Trinervitermes dispar (Sjöstedt, 1902)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84913,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84913/overview",
+  "valid_label": null,
+  "valid_otu": 84913,
+  "verified": false
+ },
+ "Trinervitermes disparatus": {
+  "label": "Trinervitermes disparatus (Bathellier, 1927)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84914,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84914/overview",
+  "valid_label": null,
+  "valid_otu": 84914,
+  "verified": false
+ },
+ "Trinervitermes fletcheri": {
+  "label": "Trinervitermes fletcheri Thakur & Chatterjee, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 84915,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84915/overview",
+  "valid_label": null,
+  "valid_otu": 84915,
+  "verified": false
+ },
+ "Trinervitermes geminatus": {
+  "label": "Trinervitermes geminatus (Wasmann, 1897)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84916,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84916/overview",
+  "valid_label": null,
+  "valid_otu": 84916,
+  "verified": false
+ },
+ "Trinervitermes gratiosus": {
+  "label": "Trinervitermes gratiosus (Sjöstedt, 1924)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84917,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84917/overview",
+  "valid_label": null,
+  "valid_otu": 84917,
+  "verified": false
+ },
+ "Trinervitermes indicus": {
+  "label": "Trinervitermes indicus (Snyder, 1934)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84919,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84919/overview",
+  "valid_label": null,
+  "valid_otu": 84919,
+  "verified": false
+ },
+ "Trinervitermes nigrirostris": {
+  "label": "Trinervitermes nigrirostris Mathur & Sen-Sarma, 1959",
+  "match": "exact",
+  "notes": "",
+  "otu": 84920,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84920/overview",
+  "valid_label": null,
+  "valid_otu": 84920,
+  "verified": false
+ },
+ "Trinervitermes occidentalis": {
+  "label": "Trinervitermes occidentalis (Sjöstedt, 1904)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84921,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84921/overview",
+  "valid_label": null,
+  "valid_otu": 84921,
+  "verified": false
+ },
+ "Trinervitermes oeconomus": {
+  "label": "Trinervitermes oeconomus (Trägårdh, 1904)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84922,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84922/overview",
+  "valid_label": null,
+  "valid_otu": 84922,
+  "verified": false
+ },
+ "Trinervitermes rabidus": {
+  "label": "Trinervitermes rabidus (Hagen, 1859)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84923,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84923/overview",
+  "valid_label": null,
+  "valid_otu": 84923,
+  "verified": false
+ },
+ "Trinervitermes rapulum": {
+  "label": "Trinervitermes rapulum (Sjöstedt, 1904)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84924,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84924/overview",
+  "valid_label": null,
+  "valid_otu": 84924,
+  "verified": false
+ },
+ "Trinervitermes rhodesiensis": {
+  "label": "Trinervitermes rhodesiensis (Sjöstedt, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84925,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84925/overview",
+  "valid_label": null,
+  "valid_otu": 84925,
+  "verified": false
+ },
+ "Trinervitermes saudiensis": {
+  "label": "Trinervitermes saudiensis Sands, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 84926,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84926/overview",
+  "valid_label": null,
+  "valid_otu": 84926,
+  "verified": false
+ },
+ "Trinervitermes sensarmai": {
+  "label": "Trinervitermes sensarmai Bose, 1984",
+  "match": "exact",
+  "notes": "",
+  "otu": 84927,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84927/overview",
+  "valid_label": null,
+  "valid_otu": 84927,
+  "verified": false
+ },
+ "Trinervitermes sudanicus": {
+  "label": "Trinervitermes sudanicus (Sjöstedt, 1904)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84928,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84928/overview",
+  "valid_label": null,
+  "valid_otu": 84928,
+  "verified": false
+ },
+ "Trinervitermes togoensis": {
+  "label": "Trinervitermes togoensis (Sjöstedt, 1899)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84929,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84929/overview",
+  "valid_label": null,
+  "valid_otu": 84929,
+  "verified": false
+ },
+ "Trinervitermes trinervius": {
+  "label": "Trinervitermes trinervius (Rambur, 1842)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84930,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84930/overview",
+  "valid_label": null,
+  "valid_otu": 84930,
+  "verified": false
+ },
+ "Trinervitermes trinervoides": {
+  "label": "Trinervitermes trinervoides (Sjöstedt, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84931,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84931/overview",
+  "valid_label": null,
+  "valid_otu": 84931,
+  "verified": false
+ }
+}

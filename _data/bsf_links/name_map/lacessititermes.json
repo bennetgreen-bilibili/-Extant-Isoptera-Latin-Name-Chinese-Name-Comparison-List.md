@@ -1,0 +1,222 @@
+{
+ "Lacessititermes albipes": {
+  "label": "Lacessititermes albipes (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84506,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84506/overview",
+  "valid_label": null,
+  "valid_otu": 84506,
+  "verified": false
+ },
+ "Lacessititermes atrior": {
+  "label": "Lacessititermes atrior (Holmgren, 1912)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84507,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84507/overview",
+  "valid_label": null,
+  "valid_otu": 84507,
+  "verified": false
+ },
+ "Lacessititermes batavus": {
+  "label": "Lacessititermes batavus Kemner, 1934",
+  "match": "exact",
+  "notes": "",
+  "otu": 84508,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84508/overview",
+  "valid_label": null,
+  "valid_otu": 84508,
+  "verified": false
+ },
+ "Lacessititermes breviarticulatus": {
+  "label": "Lacessititermes breviarticulatus (Holmgren, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84509,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84509/overview",
+  "valid_label": null,
+  "valid_otu": 84509,
+  "verified": false
+ },
+ "Lacessititermes cuphus": {
+  "label": "Lacessititermes cuphus (Bathellier, 1927)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84510,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84510/overview",
+  "valid_label": null,
+  "valid_otu": 84510,
+  "verified": false
+ },
+ "Lacessititermes filicornis": {
+  "label": "Lacessititermes filicornis (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84511,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84511/overview",
+  "valid_label": null,
+  "valid_otu": 84511,
+  "verified": false
+ },
+ "Lacessititermes holmgreni": {
+  "label": "Lacessititermes holmgreni Light & Wilson, 1936",
+  "match": "exact",
+  "notes": "",
+  "otu": 84512,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84512/overview",
+  "valid_label": null,
+  "valid_otu": 84512,
+  "verified": false
+ },
+ "Lacessititermes jacobsoni": {
+  "label": "Lacessititermes jacobsoni Kemner, 1930",
+  "match": "exact",
+  "notes": "",
+  "otu": 84513,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84513/overview",
+  "valid_label": null,
+  "valid_otu": 84513,
+  "verified": false
+ },
+ "Lacessititermes kolapisensis": {
+  "label": "Lacessititermes kolapisensis Thapa, 1982",
+  "match": "exact",
+  "notes": "",
+  "otu": 84514,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84514/overview",
+  "valid_label": null,
+  "valid_otu": 84514,
+  "verified": false
+ },
+ "Lacessititermes laborator": {
+  "label": "Lacessititermes laborator (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84515,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84515/overview",
+  "valid_label": null,
+  "valid_otu": 84515,
+  "verified": false
+ },
+ "Lacessititermes lacessitiformis": {
+  "label": "Lacessititermes lacessitiformis (Holmgren, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84516,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84516/overview",
+  "valid_label": null,
+  "valid_otu": 84516,
+  "verified": false
+ },
+ "Lacessititermes lacessitus": {
+  "label": "Lacessititermes lacessitus (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84517,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84517/overview",
+  "valid_label": null,
+  "valid_otu": 84517,
+  "verified": false
+ },
+ "Lacessititermes longinasus": {
+  "label": "Lacessititermes longinasus Syaukani, 2008",
+  "match": "exact",
+  "notes": "",
+  "otu": 84518,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84518/overview",
+  "valid_label": null,
+  "valid_otu": 84518,
+  "verified": false
+ },
+ "Lacessititermes palawanensis": {
+  "label": "Lacessititermes palawanensis Light, 1930",
+  "match": "exact",
+  "notes": "",
+  "otu": 84519,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84519/overview",
+  "valid_label": null,
+  "valid_otu": 84519,
+  "verified": false
+ },
+ "Lacessititermes piliferus": {
+  "label": "Lacessititermes piliferus (Holmgren, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84520,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84520/overview",
+  "valid_label": null,
+  "valid_otu": 84520,
+  "verified": false
+ },
+ "Lacessititermes ransoneti": {
+  "label": "Lacessititermes ransoneti (Holmgren, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84521,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84521/overview",
+  "valid_label": null,
+  "valid_otu": 84521,
+  "verified": false
+ },
+ "Lacessititermes saraiensis": {
+  "label": "Lacessititermes saraiensis (Oshima, 1916)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84522,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84522/overview",
+  "valid_label": null,
+  "valid_otu": 84522,
+  "verified": false
+ },
+ "Lacessititermes sordidus": {
+  "label": "Lacessititermes sordidus (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84523,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84523/overview",
+  "valid_label": null,
+  "valid_otu": 84523,
+  "verified": false
+ },
+ "Lacessititermes thailandicus": {
+  "label": "Lacessititermes thailandicus (Sen-Sarma, 1966)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84524,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84524/overview",
+  "valid_label": null,
+  "valid_otu": 84524,
+  "verified": false
+ },
+ "Lacessititermes yamanei": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 84505 Lacessititermes Holmgren, 1912",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "book_n": "351",
+ "book_name": "钳白蚁 Termes marjoriae",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "钳白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "6.56–6.99"
+    },
+    {
+     "key": "head_length_with_mandibles",
+     "value": "3.03–3.35"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.42–1.67"
+    },
+    {
+     "key": "head_width",
+     "value": "0.97–1.07"
+    },
+    {
+     "key": "postmentum_max_width",
+     "value": "0.36–0.39"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.22"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.33"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.64–0.72"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "0.92–0.94"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 483,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "钳白蚁有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "10.00"
+    },
+    {
+     "key": "body_length_without_wings",
+     "value": "5.50"
+    },
+    {
+     "key": "wing_length",
+     "value": "8.50"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "value": "0.97"
+    },
+    {
+     "key": "eye_long_diameter",
+     "value": "0.34"
+    },
+    {
+     "key": "ocellus_length",
+     "value": "0.09"
+    },
+    {
+     "key": "ocellus_width",
+     "value": "0.05"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.50"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.84"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 490,
+   "unit": "mm"
+  }
+ ]
+}

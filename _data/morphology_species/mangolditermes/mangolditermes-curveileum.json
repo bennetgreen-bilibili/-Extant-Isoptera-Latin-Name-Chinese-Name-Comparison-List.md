@@ -1,0 +1,21 @@
+{
+ "zh_name": "曲回曼戈尔德白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "肠瓣无武装（与 Hydrecotermes、Rustitermes 相同），但左视 P1 极长、呈 S 形弯曲，可与后二者区分。与 Aparatermes 相比：中肠舌伸长（后者短）、具尖端的鳞片位于瓣垫近端（后者位于瓣垫中部）、前胫节相对膨大。与同样肠瓣无武装的 Anoplotermes 相比：中肠舌腹视无白色球状中肠结节，瓣垫呈梯形并在基部截形（后者匙形）。与 Disjunctitermes 相比：体型更大（最大头宽 >0.75 mm，后者 <0.7 mm），瓣垫更宽（后者窄而显细长），鳞片仅自中部向前部清晰（后者遍布整个瓣垫）。与 Tonsuritermes 相比：工蚁囟不特别突出。"
+  },
+  {
+   "label": "工蚁",
+   "text": "囟卵形，边界模糊；头壳背表面侧视微凹；触角色淡，14 节（2<3≅4<5）。左内颚端齿较 M1+2 突出，端齿与 M1+2 之间成 75° 角，M1+2 后缘近直而长；磨叶突极尖锐、背视显著，与 M3 近等长；磨区隆起小。右内颚端齿远较 M1 突出，M1 端部极尖，M2 几成 90° 角并向后指，M1 与 M2 间有浅切口、构成宽而微钝的角；磨板退化并凹陷。肠管嗉囊小；混合段的中肠舌长但不膨大；左视 P1 极长，自嗉囊一侧至 P3 呈 S 形弯曲；肠瓣座弱三叶；肠瓣无武装，由 6 个细长膨大的瓣垫组成，瓣垫远半部具清晰的具缨五边形鳞片，近端每瓣垫有约 10–20 枚微小三角刺。"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。",
+ "sources": [
+  {
+   "id": "S0027",
+   "citation": "Carrijo T.F., Castro D., Wang M., Constantini J.P., Bourguignon T., Cancello E.M., Roisin Y. & Scheffrahn R.H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317–352. doi 10.3897/zookeys.1167.100001",
+   "locator": "章节 Mangolditermes gen. nov.（Diagnosis / Description / Comparison and remarks）；文章 pp. 317–352"
+  }
+ ]
+}

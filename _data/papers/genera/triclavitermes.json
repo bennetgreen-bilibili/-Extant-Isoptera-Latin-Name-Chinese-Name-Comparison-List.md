@@ -1,0 +1,35 @@
+{
+ "latin": "Triclavitermes",
+ "zh": "三棒白蚁属",
+ "fetched_at": "2026-10-30T16:54:49Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W4415094256",
+   "openalex_url": "https://openalex.org/W4415094256",
+   "doi": "10.11646/zootaxa.5706.3.4",
+   "doi_url": "https://doi.org/10.11646/zootaxa.5706.3.4",
+   "title": "Triclavitermes catoleensis (Termitidae: Apicotermitinae), a new soldierless termite genus and species from the Caatinga dry forest, northeastern Brazil",
+   "year": 2025,
+   "date": "2025-10-12",
+   "authors": [
+    "Renan Rodrigues Ferreira",
+    "Arthur Carvalho",
+    "Emanuelly Félix De Lucena",
+    "Rozzanna Esther Cavalcanti Reis de Figueirêdo Chaves",
+    "Alexandre Vasconcellos"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 1,
+   "oa_url": "https://doi.org/10.11646/zootaxa.5706.3.4",
+   "volume": "5706",
+   "issue": "3",
+   "pages": "383-396",
+   "abstract": "The taxonomy of Neotropical Apicotermitinae, considering the absence of a soldier caste, requires identification to be based on morphological characters of workers and imagoes, especially the characteristics of the gut coiling pattern, which, due to their complexity, demand specialized training. The aim of this study was to describe a new genus and species of the subfamily Apicotermitinae from the Caatinga dry forest, a type of vegetation that dominates the semi-arid region of northeastern Brazil. To achieve this, were used external morphological characters and those of the gut of workers, as well as molecular data (COI, COII, and 16S). The main diagnostic features of the genus include the ring-shaped arrangement of the enteric valve seating and the enteric valve armature with three sclerotized hemispherical plates of different sizes, with the central one being larger than the others, all armed with spines. Phylogenetic analyses (BI and ML) suggest Triclavitermes catoleensis sp. nov. is related to Dissimulitermes invisibilis and Rustitermes boteroi. The distribution of Triclavitermes catoleensis sp. nov. is currently restricted to the Caatinga ecosystems, but it is possible that this species also occurs in other ecosystems along the dry diagonals of South America which includes the Caatinga, Cerrado, and Chaco.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1332,
+   "abstract_truncated": false
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "Rubeotermes jheringi": {
+  "label": "Rubeotermes jheringi (Holmgren, 1906)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83981,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83981/overview",
+  "valid_label": null,
+  "valid_otu": 83981,
+  "verified": false
+ }
+}

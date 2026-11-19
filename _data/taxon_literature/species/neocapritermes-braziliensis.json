@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "<i>Azteca</i> 蚂蚁对巢分布的影响",
+   "heading_en": "Effect of <i>Azteca</i> ants on nest distribution",
+   "heading_es": "Efecto de las hormigas <i>Azteca</i> sobre la distribución de nidos",
+   "paragraphs": [
+    {
+     "src": [
+      "S0301"
+     ],
+     "text": "据摘要，根据 Pequeno（2014）研究，巴西新扭白蚁（<i>Neocapritermes braziliensis</i>）与广布性蚂蚁 <i>Azteca</i> sp. 都常把巢附着在树上，两者微生境重叠；研究在巴西亚马孙中部约 5 km² 内系统设置 10 个 250×10 m 样地，统计两类活动巢的密度并记录同一棵树上的共现情况。",
+     "text_en": "According to the abstract, Pequeno (2014) reported that both <i>Neocapritermes braziliensis</i> and the widespread ant <i>Azteca</i> sp. often attach their nests to trees, so the two overlap in microhabitat; the study systematically established 10 plots of 250×10 m within about 5 km² in central Amazonia, Brazil, and recorded the density of active nests of the two groups and their co-occurrence on the same tree.",
+     "text_es": "Según el resumen, Pequeno (2014) informó de que tanto <i>Neocapritermes braziliensis</i> como la hormiga de amplia distribución <i>Azteca</i> sp. suelen adherir sus nidos a los árboles, por lo que ambas coinciden en el microhábitat; el estudio estableció sistemáticamente 10 parcelas de 250×10 m en unos 5 km² de la Amazonia central brasileña, y registró la densidad de nidos activos de ambos grupos y su coocurrencia en un mismo árbol."
+    },
+    {
+     "src": [
+      "S0301"
+     ],
+     "text": "贝叶斯广义非线性模型支持 <i>Azteca</i> 巢密度对巴西新扭白蚁巢密度存在负效应、呈幂律关系，可解释白蚁巢密度变异的半数以上（r²=0.56）；全部计数的白蚁巢中仅 1.08% 附着于同时有 <i>Azteca</i> 栖居的树；作者提出两种机制：白蚁无法在蚂蚁领域内建立新巢，或已建成的群体遭蚂蚁捕食（据摘要）。",
+     "text_en": "A Bayesian generalized nonlinear model supported a negative, power-law effect of <i>Azteca</i> nest density on the nest density of <i>Neocapritermes braziliensis</i>, explaining more than half of the variation in termite nest density (r²=0.56); only 1.08% of all counted termite nests were attached to trees also occupied by <i>Azteca</i>; the authors proposed two mechanisms: termites cannot establish new nests within ant territories, or established colonies are preyed upon by the ants (according to the abstract).",
+     "text_es": "Un modelo bayesiano generalizado no lineal apoyó un efecto negativo y de ley de potencias de la densidad de nidos de <i>Azteca</i> sobre la densidad de nidos de <i>Neocapritermes braziliensis</i>, que explicaba más de la mitad de la variación en la densidad de nidos de termitas (r²=0.56); solo el 1.08% de todos los nidos de termitas contados estaban adheridos a árboles también ocupados por <i>Azteca</i>; los autores propusieron dos mecanismos: las termitas no pueden establecer nuevos nidos dentro de los territorios de las hormigas, o las colonias ya establecidas son depredadas por las hormigas (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0301",
+   "citation": "Pedro Aurélio Costa Lima Pequeno. 2014. Negative Effects of Azteca Ants on the Distribution of the Termite Neocapritermes braziliensis in Central Amazonia. DOAJ (DOAJ: Directory of Open Access Journals).",
+   "doi": "10.13102/sociobiology.v59i3.555"
+  }
+ ]
+}

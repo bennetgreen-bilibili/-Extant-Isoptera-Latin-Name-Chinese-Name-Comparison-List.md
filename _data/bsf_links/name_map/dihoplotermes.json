@@ -1,0 +1,24 @@
+{
+ "Dihoplotermes inusitatus": {
+  "label": "Dihoplotermes inusitatus Araujo, 1961",
+  "match": "exact",
+  "notes": "",
+  "otu": 85363,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85363/overview",
+  "valid_label": null,
+  "valid_otu": 85363,
+  "verified": false
+ },
+ "Dihoplotermes taurus": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 85362 Dihoplotermes Araujo, 1961",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ }
+}

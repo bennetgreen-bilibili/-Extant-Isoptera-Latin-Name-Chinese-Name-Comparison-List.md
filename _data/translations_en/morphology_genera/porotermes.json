@@ -1,0 +1,21 @@
+{
+ "note": "The usable generic characters are concentrated in the key to the genera of the subfamily and the comparison on p. 144; body length, number of antennal segments and pronotal proportions are species-level measurements of P. adamsoni and are marked as species level. The worker section is the original's statement about the caste in the subfamily and is not peculiar to this genus; that qualification must be retained when citing it.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The key to the genera of the subfamily given in the original: an alate without ocelli, without an empodium (the pad between the claws) and with 5-segmented cerci belongs to this genus, whereas one with ocelli, with an empodium and with 2-segmented cerci belongs to Calotermes; a soldier with long, 5-segmented cerci belongs to this genus, and one with short, 2-segmented cerci to Calotermes. The soldier is easily confused with Stolotermes, but the latter is smaller, with a flatter head and body, a small heart-shaped pronotum, and eyes bearing ommatidia."
+  },
+  {
+   "label": "Alate",
+   "text": "Ocelli absent; empodium absent; cerci 5-segmented. Species level (P. adamsoni): antennae 15 to 17 segments; body length with wings 14–15 mm, body length 7–8 mm."
+  },
+  {
+   "label": "Soldier",
+   "text": "Cerci long, 5-segmented. Species level (P. adamsoni): antennae 16 to 18 segments; mandibles stout, the tooth formula the same in the three species; pronotum about 1.5 times as wide as the head."
+  },
+  {
+   "label": "Worker",
+   "text": "The subfamily has no true worker caste; the worker function is performed by immature stages of the alate (and possibly of the soldier); the generic characters of this worker-nymph are the same as those of the soldier."
+  }
+ ]
+}

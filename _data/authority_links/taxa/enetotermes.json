@@ -1,0 +1,24 @@
+{
+ "Enetotermes bembicoides": {
+  "gbif": {
+   "key": 9699812,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Enetotermes bembicoides Sands, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "39SZF",
+   "status": "accepted",
+   "label": "Enetotermes bembicoides Sands, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225318",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

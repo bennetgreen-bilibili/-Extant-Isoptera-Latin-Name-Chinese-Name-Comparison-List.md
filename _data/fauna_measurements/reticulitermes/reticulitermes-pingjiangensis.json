@@ -1,0 +1,38 @@
+{
+ "book_n": "187",
+ "book_name": "平江散白蚁 Reticulitermes",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "1个脱翅雌性成虫量度",
+   "label_en": "Imago measurements",
+   "label_es": "Medidas de imago",
+   "label_zh": "成虫量度",
+   "rows": [
+    {
+     "key": "head_width_with_eyes",
+     "value": "1.09"
+    },
+    {
+     "key": "head_width",
+     "value": "1.02"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.88"
+    },
+    {
+     "key": "forewing_scale_length",
+     "value": "0.84"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.24"
+    }
+   ],
+   "src_file": "401-500.txt",
+   "src_line": 1423,
+   "unit": "mm"
+  }
+ ]
+}

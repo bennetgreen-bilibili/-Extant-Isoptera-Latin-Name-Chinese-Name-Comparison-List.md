@@ -1,0 +1,90 @@
+{
+ "Kaudernitermes kaudernianus": {
+  "gbif": {
+   "key": 9798024,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kaudernitermes kaudernianus (Sjöstedt, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3R3YG",
+   "status": "accepted",
+   "label": "Kaudernitermes kaudernianus (Sjöstedt, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225330",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kaudernitermes laticeps": {
+  "gbif": {
+   "key": 9737381,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kaudernitermes laticeps (Wasmann, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3R3YH",
+   "status": "accepted",
+   "label": "Kaudernitermes laticeps (Wasmann, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225331",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kaudernitermes nigritus": {
+  "gbif": {
+   "key": 9714310,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kaudernitermes nigritus (Wasmann, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3R3YJ",
+   "status": "accepted",
+   "label": "Kaudernitermes nigritus (Wasmann, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225332",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kaudernitermes salebrithorax": {
+  "gbif": {
+   "key": 9656352,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kaudernitermes salebrithorax (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3R3YK",
+   "status": "accepted",
+   "label": "Kaudernitermes salebrithorax (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225333",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

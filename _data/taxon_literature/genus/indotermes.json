@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "印白蚁属旧异名的归并",
+   "paragraphs": [
+    {
+     "text": "根据 Chhotani（1997）研究，Chatterjee & Thakur（1965）以印白蚁属的旧异名 Doonitermes capillosus（旧组合）为模式种建立旧属 Doonitermes（印白蚁属的旧异名），模式产地为印度北方邦 Dehradun 林区；Thakur & Sen-Sarma（1973）又描述西孟加拉 Buxa 林区的旧组合 Doonitermes buxensis（印白蚁属的旧异名）。Chhotani 检查两模式标本后认为该旧属是印白蚁属（Indotermes）的次异名，Doonitermes buxensis（印白蚁属的旧异名）是龙格伦吉里印白蚁（Indotermes rongrensis）的次异名，Doonitermes capillosus（印白蚁属的旧异名）转入印白蚁属（Indotermes）。",
+     "src": [
+      "S0104"
+     ],
+     "text_en": "According to Chhotani's (1997) study, Chatterjee & Thakur (1965) established the old genus Doonitermes (an old synonym of Indotermes) with the old combination Doonitermes capillosus (an old synonym of Indotermes) as its type species, the type locality being a forest area at Dehradun, Uttar Pradesh, India; Thakur & Sen-Sarma (1973) then described the old combination Doonitermes buxensis (an old synonym of Indotermes) from the Buxa forest area of West Bengal. After examining both type specimens, Chhotani considered the old genus a junior synonym of Indotermes, Doonitermes buxensis (an old synonym of Indotermes) a junior synonym of Indotermes rongrensis, and transferred Doonitermes capillosus (an old synonym of Indotermes) to Indotermes.",
+     "text_es": "Según el estudio de Chhotani (1997), Chatterjee y Thakur (1965) establecieron el antiguo género Doonitermes (antiguo sinónimo de Indotermes) con Doonitermes capillosus (combinación antigua) como especie tipo, procedente de la zona forestal de Dehradun, Uttar Pradesh, India; Thakur y Sen-Sarma (1973) describieron después Doonitermes buxensis (combinación antigua) de la zona forestal de Buxa, Bengala Occidental. Tras examinar los dos ejemplares tipo, Chhotani consideró que el antiguo género es sinónimo junior de Indotermes, que Doonitermes buxensis (antiguo sinónimo de Indotermes) es sinónimo junior de Indotermes rongrensis y que Doonitermes capillosus (antiguo sinónimo de Indotermes) pasa al género Indotermes."
+    }
+   ],
+   "heading_en": "Merging of an old synonym of Indotermes",
+   "heading_es": "Sinonimización de un antiguo sinónimo de Indotermes"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0104",
+   "citation": "Chhotani, O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume II (Family Termitidae). Zoological Survey of India, Calcutta.",
+   "url": "https://archive.org/details/dli.zoological.fi.027"
+  }
+ ]
+}

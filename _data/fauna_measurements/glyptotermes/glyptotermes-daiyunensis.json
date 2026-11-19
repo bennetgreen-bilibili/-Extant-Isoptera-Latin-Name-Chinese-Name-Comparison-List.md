@@ -1,0 +1,50 @@
+{
+ "book_n": "18",
+ "book_name": "戴云树白蚁 Glyptotermes daiyunensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "戴云树白蚁的兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_mandibles",
+     "value": "2.10"
+    },
+    {
+     "key": "head_max_width",
+     "value": "1.05"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "0.73"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "0.92"
+    },
+    {
+     "key": "postmentum_max_width",
+     "value": "0.42"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.21"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "0.50"
+    },
+    {
+     "key": "pronotum_max_width",
+     "value": "1.02"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 320,
+   "unit": "mm"
+  }
+ ]
+}

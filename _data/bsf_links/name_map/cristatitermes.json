@@ -1,0 +1,68 @@
+{
+ "Cristatitermes arenicola": {
+  "label": "Cristatitermes arenicola Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85320,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85320/overview",
+  "valid_label": null,
+  "valid_otu": 85320,
+  "verified": false
+ },
+ "Cristatitermes barretti": {
+  "label": "Cristatitermes barretti Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85321,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85321/overview",
+  "valid_label": null,
+  "valid_otu": 85321,
+  "verified": false
+ },
+ "Cristatitermes carinatus": {
+  "label": "Cristatitermes carinatus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85322,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85322/overview",
+  "valid_label": null,
+  "valid_otu": 85322,
+  "verified": false
+ },
+ "Cristatitermes froggatti": {
+  "label": "Cristatitermes froggatti Hill, 1915",
+  "match": "exact",
+  "notes": "",
+  "otu": 85323,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85323/overview",
+  "valid_label": null,
+  "valid_otu": 85323,
+  "verified": false
+ },
+ "Cristatitermes pineaformis": {
+  "label": "Cristatitermes pineaformis Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85324,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85324/overview",
+  "valid_label": null,
+  "valid_otu": 85324,
+  "verified": false
+ },
+ "Cristatitermes tutulatus": {
+  "label": "Cristatitermes tutulatus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85325,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85325/overview",
+  "valid_label": null,
+  "valid_otu": 85325,
+  "verified": false
+ }
+}

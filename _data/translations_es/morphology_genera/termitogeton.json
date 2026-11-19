@@ -1,0 +1,17 @@
+{
+ "note": "En este equipo solo se dispone del XML JATS completo del editor (Europe PMC PMC3264403), sin PDF de la versión impresa, por lo que el locator se da por nombre de sección; el orden de autores del jsonl es inverso al del XML, y aquí se sigue el del XML. El dato sobre la ausencia de venas media y radial en las alas procede del original de Krishna (1970) y no es una observación nueva de este trabajo, de modo que se ha conservado fielmente la cadena de procedencia.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El alado está densamente cubierto de pelos; la parte posterior de la cabeza es mayor que la anterior; la fontanela es muy estrecha y se sitúa en la parte media de la cabeza; los ojos compuestos son pequeños; las antenas tienen 10–15 segmentos; el pronoto es muy pequeño, aproximadamente la mitad de la anchura de la cabeza; las alas carecen de las venas media y radial. El soldado está densamente cubierto de pelos; la cabeza tiene forma acorazonada característica y es aplanada dorsoventralmente; las antenas tienen 13–15 segmentos; el labro es casi triangular; las mandíbulas son alargadas y sin dientes marginales; el pronoto mide la mitad de la anchura de la cabeza."
+  },
+  {
+   "label": "Alado",
+   "text": "Todo el cuerpo densamente cubierto de pelos; la parte posterior de la cabeza mayor que la anterior; fontanela muy estrecha, situada en la parte media de la cabeza; ojos compuestos pequeños; antenas de 10–15 segmentos; pronoto muy pequeño, aproximadamente la mitad de la anchura de la cabeza; alas sin venas media y radial. Nivel de especie (T. planus): tamaño muy pequeño, cuerpo cubierto de pelos finos; cabeza estrecha adelante y ancha atrás, acorazonada; ojos compuestos grandes; ocelos situados por delante de los ojos compuestos; antenas generalmente de 9–15 segmentos; pronoto aproximadamente la mitad de la anchura de la cabeza, con una pequeña protuberancia en el centro del borde anterior."
+  },
+  {
+   "label": "Soldado",
+   "text": "Todo el cuerpo densamente cubierto de pelos; cabeza con forma acorazonada característica, aplanada dorsoventralmente; antenas generalmente de 13–15 segmentos; labro casi triangular; mandíbulas alargadas, sin dientes marginales; pronoto de la mitad de la anchura de la cabeza. Nivel de especie (T. planus): labro alargado, de extremo agudo y base estrecha, con la mayor anchura en el tercio apical; antenas de 11–15 segmentos; pronoto de la mitad de la anchura de la cabeza, con el borde anterior prolongado en el centro; mandíbulas cortas, sin dientes marginales, de extremo ligeramente curvado."
+  }
+ ]
+}

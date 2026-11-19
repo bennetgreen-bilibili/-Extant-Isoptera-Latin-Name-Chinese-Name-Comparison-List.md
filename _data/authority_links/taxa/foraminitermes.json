@@ -1,0 +1,134 @@
+{
+ "Foraminitermes coatoni": {
+  "gbif": {
+   "key": 9651486,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Foraminitermes coatoni Krishna, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "6JDP6",
+   "status": "accepted",
+   "label": "Foraminitermes coatoni Krishna, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251549",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Foraminitermes corniferus": {
+  "gbif": {
+   "key": 9688208,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Foraminitermes corniferus (Sjöstedt, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6JDP5",
+   "status": "accepted",
+   "label": "Foraminitermes corniferus (Sjöstedt, 1905)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251551",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Foraminitermes harrisi": {
+  "gbif": {
+   "key": 9770666,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Foraminitermes harrisi Krishna, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "6JDP4",
+   "status": "accepted",
+   "label": "Foraminitermes harrisi Krishna, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251553",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Foraminitermes rhinoceros": {
+  "gbif": {
+   "key": 9719288,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Foraminitermes rhinoceros (Sjöstedt, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6JDPZ",
+   "status": "accepted",
+   "label": "Foraminitermes rhinoceros (Sjöstedt, 1905)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251554",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Foraminitermes tubifrons": {
+  "gbif": {
+   "key": 9180899,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Foraminitermes tubifrons Holmgren, 1912",
+   "accepted": null
+  },
+  "col": {
+   "id": "6JDPY",
+   "status": "accepted",
+   "label": "Foraminitermes tubifrons Holmgren, 1912",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251555",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Foraminitermes valens": {
+  "gbif": {
+   "key": 9681856,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Foraminitermes valens (Silvestri, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6JDPX",
+   "status": "accepted",
+   "label": "Foraminitermes valens (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251558",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

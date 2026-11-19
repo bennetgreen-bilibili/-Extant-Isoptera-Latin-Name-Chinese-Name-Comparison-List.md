@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "据摘要，小解甲白蚁（<i>Anoplotermes parvus</i>）在 Bourguignon 等（2010）对解甲白蚁属（<i>Anoplotermes</i>）模式种的重新描述中被保留在该属，与该属被归并的 6 个种名区分开来。",
+     "text_en": "According to the abstract, <i>Anoplotermes parvus</i> was retained in <i>Anoplotermes</i> in the redescription of the type species of the genus by Bourguignon et al. (2010), separately from the six species-group names synonymised there.",
+     "text_es": "Según el resumen, <i>Anoplotermes parvus</i> se mantuvo en <i>Anoplotermes</i> en la redescripción de la especie tipo del género por Bourguignon et al. (2010), al margen de los seis nombres de especie sinonimizados allí.",
+     "src": [
+      "S0177"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0177",
+   "citation": "Thomas Bourguignon; Rudolf H. Scheffrahn; Jan Křeček; ZOLTÁN TAMÁS NAGY; Gontran Sonet; Yves Roisin 2010 Towards a revision of the Neotropical soldierless termites (Isoptera : Termitidae): redescription of the genus Anoplotermes and description of Longustitermes, gen. nov.*. Invertebrate Systematics.",
+   "doi": "10.1071/is10012"
+  }
+ ]
+}

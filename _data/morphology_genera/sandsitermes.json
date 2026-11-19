@@ -1,0 +1,29 @@
+{
+ "zh_name": "桑兹白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫头背面在 fontanelle 前方、单眼所在处略隆起；后唇基略拱，前缘直、后缘微凸；右颚磨区明显凹，具微弱脊与明显基凹。兵蚁 nasus 长锥状，但无独有形态特征（原文明确称 no apparent uniquely distinct morphological character）。工蚁上颚磨区凹而无发达脊；肠的 P1 在与 paunch（P3）汇合前形成独立的环；肠瓣（P2）硬化弱，排成两环、具微小锥刺。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "背视头壳卵形；单眼之间的额区不凹；侧视头背面在 fontanelle 前方、单眼所在处略隆起。复眼卵形、大，与头下缘的距离小于与单眼的距离。单眼背视椭圆形、大（小于触角窝），位于复眼前半，与复眼的间距小于单眼宽度。fontanelle 较头色浅，位于浅凹内，Y 形，前臂短，臂上方有一小透明圆。后唇基侧视略拱，背视中线略凹；前缘直、后缘微凸。触角 15 节。前胸背板宽于头（不含眼），亚梯形，前缘隆起，前侧角圆，侧缘凹并向后方收窄，后缘圆而不凹。中、后胸背板后缘深凹，后侧角尖。端距 2:2:2。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "单型。背视头壳卵形至圆形，不缢缩，后缘不凹；侧视头顶在 nasus 基部有轻隆，其后浅凹。nasus 锥形，短于头壳长，不上指；后唇基侧视略凸。上唇宽大于长，前缘圆，侧缘平行，前角圆。上颚具明显的「点」。触角 13 节。前胸背板前叶不如后叶发达，二者夹角约 90°。前足基节锥形，前面无 keel（龙骨）。端距 2:2:2。腹节板片硬化良好，背板覆瓦状。"
+  },
+  {
+   "label": "工蚁",
+   "text": "所有工蚁头壳梯形；fontanelle 明显，位于头壳中部、略凹；后唇基膨大；触角 14 节；前胸背板前缘圆而不凹；端距 2:2:2。工蚁二型，依头壳色素、上颚形态与背板形状大小区分：type 2 在所研究的全部样品中均少于 type 1，头壳褐黄，前部具凹、其后为隆；上颚外缘在端齿前有明显凹，端齿较大，左 M3 与磨突之间的间隙更宽，磨板更窄；前胸背板前叶较后叶更发达。type 1 内头壳大小似有差异，但个体数不足以测量。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0056",
+   "citation": "Cuezzo C.; Cancello E. M.; Carrijo T. F. 2017. Sandsitermes gen. nov., a new nasute termite genus from South America (Isoptera, Termitidae, Nasutitermitinae). Zootaxa 4221(5): 562–574. https://doi.org/10.11646/zootaxa.4221.5.5",
+   "locator": "Genus Sandsitermes, new genus — Diagnosis; Description: Imago / Soldier / Worker（Zootaxa 4221: 563–569）"
+  }
+ ],
+ "note": "属级未给量度，量度为种级；二型工蚁的区分置于属级 Description 内。原文把 Imago 写作 Imago（有翅成虫），未用 alate 一词。"
+}

@@ -1,0 +1,46 @@
+{
+ "Obtusitermes bacchanalis": {
+  "label": "Obtusitermes bacchanalis (Mathews, 1977)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84825,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84825/overview",
+  "valid_label": null,
+  "valid_otu": 84825,
+  "verified": false
+ },
+ "Obtusitermes formosulus": {
+  "label": "Obtusitermes formosulus Cuezzo & Cancello, 2009",
+  "match": "exact",
+  "notes": "",
+  "otu": 84826,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84826/overview",
+  "valid_label": null,
+  "valid_otu": 84826,
+  "verified": false
+ },
+ "Obtusitermes monomorphus": {
+  "label": "Obtusitermes monomorphus Scheffrahn, 2025",
+  "match": "exact",
+  "notes": "",
+  "otu": 1122521,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1122521/overview",
+  "valid_label": null,
+  "valid_otu": 1122521,
+  "verified": false
+ },
+ "Obtusitermes panamae": {
+  "label": "Obtusitermes panamae (Snyder, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84827,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84827/overview",
+  "valid_label": null,
+  "valid_otu": 84827,
+  "verified": false
+ }
+}

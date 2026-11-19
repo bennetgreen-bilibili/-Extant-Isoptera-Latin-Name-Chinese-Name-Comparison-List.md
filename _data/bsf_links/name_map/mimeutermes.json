@@ -1,0 +1,68 @@
+{
+ "Mimeutermes binghami": {
+  "label": "Mimeutermes binghami Sands, 1968",
+  "match": "exact",
+  "notes": "",
+  "otu": 84543,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84543/overview",
+  "valid_label": null,
+  "valid_otu": 84543,
+  "verified": false
+ },
+ "Mimeutermes clypeatus": {
+  "label": "Mimeutermes clypeatus Sands, 1968",
+  "match": "exact",
+  "notes": "",
+  "otu": 84544,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84544/overview",
+  "valid_label": null,
+  "valid_otu": 84544,
+  "verified": false
+ },
+ "Mimeutermes edentatus": {
+  "label": "Mimeutermes edentatus Sands, 1956",
+  "match": "exact",
+  "notes": "",
+  "otu": 84545,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84545/overview",
+  "valid_label": null,
+  "valid_otu": 84545,
+  "verified": false
+ },
+ "Mimeutermes giffardii": {
+  "label": "Mimeutermes giffardii Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 84546,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84546/overview",
+  "valid_label": null,
+  "valid_otu": 84546,
+  "verified": false
+ },
+ "Mimeutermes majusculus": {
+  "label": "Mimeutermes majusculus Sands, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 84547,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84547/overview",
+  "valid_label": null,
+  "valid_otu": 84547,
+  "verified": false
+ },
+ "Mimeutermes sorex": {
+  "label": "Mimeutermes sorex Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 84548,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84548/overview",
+  "valid_label": null,
+  "valid_otu": 84548,
+  "verified": false
+ }
+}

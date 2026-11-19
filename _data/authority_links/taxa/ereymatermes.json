@@ -1,0 +1,68 @@
+{
+ "Ereymatermes panamensis": {
+  "gbif": {
+   "key": 9676057,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ereymatermes panamensis Roisin, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "6GHVG",
+   "status": "accepted",
+   "label": "Ereymatermes panamensis Roisin, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251094",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ereymatermes piquira": {
+  "gbif": {
+   "key": 9143159,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ereymatermes piquira Cancello & Cuezzo, 2007",
+   "accepted": null
+  },
+  "col": {
+   "id": "6GHVH",
+   "status": "accepted",
+   "label": "Ereymatermes piquira Cancello & Cuezzo, 2007",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251095",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ereymatermes rotundiceps": {
+  "gbif": {
+   "key": 9758102,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ereymatermes rotundiceps Constantino, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "6GHVM",
+   "status": "accepted",
+   "label": "Ereymatermes rotundiceps Constantino, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251097",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

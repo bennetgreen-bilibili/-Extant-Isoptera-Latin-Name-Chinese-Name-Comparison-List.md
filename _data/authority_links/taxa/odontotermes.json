@@ -1,0 +1,4567 @@
+{
+ "Odontotermes acutidens": {
+  "gbif": {
+   "key": 9652244,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes acutidens Grassé, 1947",
+   "accepted": null
+  },
+  "col": {
+   "id": "74GXF",
+   "status": "accepted",
+   "label": "Odontotermes acutidens Grassé, 1947",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751897",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes adampurensis": {
+  "gbif": {
+   "key": 9706351,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes adampurensis Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RSF",
+   "status": "accepted",
+   "label": "Odontotermes adampurensis Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751896",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes agilis": {
+  "gbif": {
+   "key": 9716490,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes agilis (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RSG",
+   "status": "accepted",
+   "label": "Odontotermes agilis (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751895",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes akengeensis": {
+  "gbif": {
+   "key": 9697541,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes akengeensis (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RSH",
+   "status": "accepted",
+   "label": "Odontotermes akengeensis (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751894",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes amanicus": {
+  "gbif": {
+   "key": 9796210,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes amanicus Sjöstedt, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RSJ",
+   "status": "accepted",
+   "label": "Odontotermes amanicus Sjöstedt, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751893",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes amaniensis": {
+  "gbif": {
+   "key": 9816648,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes amaniensis Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RSK",
+   "status": "accepted",
+   "label": "Odontotermes amaniensis Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751892",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes anamallensis": {
+  "gbif": {
+   "key": 9769560,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes anamallensis Holmgren & Holmgren, 1917",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RSL",
+   "status": "accepted",
+   "label": "Odontotermes anamallensis Holmgren & Holmgren, 1917",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751891",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes anceps": {
+  "gbif": {
+   "key": 8975986,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes anceps (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RSM",
+   "status": "accepted",
+   "label": "Odontotermes anceps (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751890",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes angustatus": {
+  "gbif": {
+   "key": 9718509,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes angustatus (Rambur, 1842)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RSN",
+   "status": "accepted",
+   "label": "Odontotermes angustatus (Rambur, 1842)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751889",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes angustignathus": {
+  "gbif": {
+   "key": 9811568,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes angustignathus Tsai & Chen, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RSP",
+   "status": "accepted",
+   "label": "Odontotermes angustignathus Tsai & Chen, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751888",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes angustipennis": {
+  "gbif": {
+   "key": 9727453,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes angustipennis (Sjöstedt, 1900)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RSQ",
+   "status": "accepted",
+   "label": "Odontotermes angustipennis (Sjöstedt, 1900)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751887",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes annulicornis": {
+  "gbif": {
+   "key": 9733428,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes annulicornis Xia & Fan, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RSR",
+   "status": "accepted",
+   "label": "Odontotermes annulicornis Xia & Fan, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751886",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes apollo": {
+  "gbif": {
+   "key": 9688225,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes apollo (Sjöstedt, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RSS",
+   "status": "accepted",
+   "label": "Odontotermes apollo (Sjöstedt, 1905)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751885",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes aquaticus": {
+  "gbif": {
+   "key": 9770695,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes aquaticus (Sjöstedt, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RST",
+   "status": "accepted",
+   "label": "Odontotermes aquaticus (Sjöstedt, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751884",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes assmuthi": {
+  "gbif": {
+   "key": 9775704,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes assmuthi Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "74H9F",
+   "status": "accepted",
+   "label": "Odontotermes assmuthi Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30326284",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes aurora": {
+  "gbif": {
+   "key": 9774295,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes aurora (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RSV",
+   "status": "accepted",
+   "label": "Odontotermes aurora (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751883",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes badius": {
+  "gbif": {
+   "key": 9819336,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes badius (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RSW",
+   "status": "accepted",
+   "label": "Odontotermes badius (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q106421771",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes badius badius": {
+  "gbif": {
+   "key": 9766671,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Odontotermes badius badius (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2FFN",
+   "status": "accepted",
+   "label": "Odontotermes badius badius (Haviland, 1898)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes badius littoralis": {
+  "gbif": {
+   "key": 9684338,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Odontotermes badius littoralis (Fuller, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2FFP",
+   "status": "accepted",
+   "label": "Odontotermes badius littoralis (Fuller, 1922)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes bellahunisensis": {
+  "gbif": {
+   "key": 9719957,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes bellahunisensis Holmgren & Holmgren, 1917",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RSX",
+   "status": "accepted",
+   "label": "Odontotermes bellahunisensis Holmgren & Holmgren, 1917",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751882",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes bequaerti": {
+  "gbif": {
+   "key": 8929017,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes bequaerti (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RSY",
+   "status": "accepted",
+   "label": "Odontotermes bequaerti (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751881",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes bhagwatii": {
+  "gbif": {
+   "key": 9654252,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes bhagwatii Chatterjee & Thakur, 1967",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RSZ",
+   "status": "accepted",
+   "label": "Odontotermes bhagwatii Chatterjee & Thakur, 1967",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751880",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes billitoni": {
+  "gbif": {
+   "key": 9708068,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes billitoni Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RT2",
+   "status": "accepted",
+   "label": "Odontotermes billitoni Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751879",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes boetonensis": {
+  "gbif": {
+   "key": 9762336,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes boetonensis Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RT3",
+   "status": "accepted",
+   "label": "Odontotermes boetonensis Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751878",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes bogoriensis": {
+  "gbif": {
+   "key": 9790727,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes bogoriensis (Kemner, 1932)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RT4",
+   "status": "accepted",
+   "label": "Odontotermes bogoriensis (Kemner, 1932)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751877",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes bomaensis": {
+  "gbif": {
+   "key": 9663020,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes bomaensis Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RT5",
+   "status": "accepted",
+   "label": "Odontotermes bomaensis Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751876",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes boranicus": {
+  "gbif": {
+   "key": 9712577,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes boranicus (Ghidini, 1937)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RT6",
+   "status": "accepted",
+   "label": "Odontotermes boranicus (Ghidini, 1937)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751875",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes bottegoanus": {
+  "gbif": {
+   "key": 9712212,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes bottegoanus (Sjöstedt, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RT7",
+   "status": "accepted",
+   "label": "Odontotermes bottegoanus (Sjöstedt, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751874",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes boveni": {
+  "gbif": {
+   "key": 9781954,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes boveni Thakur, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RT8",
+   "status": "accepted",
+   "label": "Odontotermes boveni Thakur, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751873",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes brunneus": {
+  "gbif": {
+   "key": 9688895,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes brunneus (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RT9",
+   "status": "accepted",
+   "label": "Odontotermes brunneus (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751872",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes buchholzi": {
+  "gbif": {
+   "key": 9788130,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes buchholzi (Sjöstedt, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SGXD",
+   "status": "accepted",
+   "label": "Odontotermes buchholzi (Sjöstedt, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751871",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes butteli": {
+  "gbif": {
+   "key": 9149741,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes butteli Holmgren, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTB",
+   "status": "accepted",
+   "label": "Odontotermes butteli Holmgren, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751870",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes caffrariae": {
+  "gbif": {
+   "key": 9681170,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes caffrariae (Sjöstedt, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTC",
+   "status": "accepted",
+   "label": "Odontotermes caffrariae (Sjöstedt, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751869",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes capensis": {
+  "gbif": {
+   "key": 9657981,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes capensis (DeGeer, 1778)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTD",
+   "status": "accepted",
+   "label": "Odontotermes capensis (De Geer, 1778)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751868",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes celebensis": {
+  "gbif": {
+   "key": 10887603,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 99,
+   "rank": "SPECIES",
+   "name": "Odontotermes celebensis Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SH9D",
+   "status": "accepted",
+   "label": "Odontotermes celebensis Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751867",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes ceylonicus": {
+  "gbif": {
+   "key": 9700742,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes ceylonicus (Wasmann, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTF",
+   "status": "accepted",
+   "label": "Odontotermes ceylonicus (Wasmann, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591899",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes chicapanensis": {
+  "gbif": {
+   "key": 9747308,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes chicapanensis Weidner, 1956",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTG",
+   "status": "accepted",
+   "label": "Odontotermes chicapanensis Weidner, 1956",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751866",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes classicus": {
+  "gbif": {
+   "key": 8989083,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes classicus (Sjöstedt, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTH",
+   "status": "accepted",
+   "label": "Odontotermes classicus (Sjöstedt, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751865",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes conignathus": {
+  "gbif": {
+   "key": 9760289,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes conignathus Xia & Fan, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTJ",
+   "status": "accepted",
+   "label": "Odontotermes conignathus Xia & Fan, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751864",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes culturarum": {
+  "gbif": {
+   "key": 8817939,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes culturarum Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTK",
+   "status": "accepted",
+   "label": "Odontotermes culturarum Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751863",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes denticulatus": {
+  "gbif": {
+   "key": 9816350,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes denticulatus Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTL",
+   "status": "accepted",
+   "label": "Odontotermes denticulatus Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751862",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes diana": {
+  "gbif": {
+   "key": 9813008,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes diana (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTM",
+   "status": "accepted",
+   "label": "Odontotermes diana (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751861",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes dimorphus": {
+  "gbif": {
+   "key": 9681837,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes dimorphus Li & Xiao, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTN",
+   "status": "accepted",
+   "label": "Odontotermes dimorphus Li & Xiao, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751860",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes distans": {
+  "gbif": {
+   "key": 9668532,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes distans Holmgren & Holmgren, 1917",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTP",
+   "status": "accepted",
+   "label": "Odontotermes distans Holmgren & Holmgren, 1917",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751859",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes dives": {
+  "gbif": {
+   "key": 9764106,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes dives (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTQ",
+   "status": "accepted",
+   "label": "Odontotermes dives (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751858",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes djampeensis": {
+  "gbif": {
+   "key": 9713945,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes djampeensis Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTR",
+   "status": "accepted",
+   "label": "Odontotermes djampeensis Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751857",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes ebeni": {
+  "gbif": {
+   "key": 9699303,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes ebeni (Sjöstedt, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTS",
+   "status": "accepted",
+   "label": "Odontotermes ebeni (Sjöstedt, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751856",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes egregius": {
+  "gbif": {
+   "key": 9802369,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes egregius Sjöstedt, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTT",
+   "status": "accepted",
+   "label": "Odontotermes egregius Sjöstedt, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751855",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes elgonensis": {
+  "gbif": {
+   "key": 9777528,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes elgonensis (Sjöstedt, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "74GXD",
+   "status": "accepted",
+   "label": "Odontotermes elgonensis (Sjöstedt, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751854",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes erodens": {
+  "gbif": {
+   "key": 9814823,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes erodens (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTV",
+   "status": "accepted",
+   "label": "Odontotermes erodens (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751853",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes erraticus": {
+  "gbif": {
+   "key": 9799464,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes erraticus Grassé, 1947",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTW",
+   "status": "accepted",
+   "label": "Odontotermes erraticus Grassé, 1947",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751852",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes escherichi": {
+  "gbif": {
+   "key": 9733121,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes escherichi (Holmgren, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTX",
+   "status": "accepted",
+   "label": "Odontotermes escherichi (Holmgren, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591897",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes fallax": {
+  "gbif": {
+   "key": 9800256,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes fallax Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTY",
+   "status": "accepted",
+   "label": "Odontotermes fallax Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751851",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes feae": {
+  "gbif": {
+   "key": 9650817,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes feae (Wasmann, 1896)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RTZ",
+   "status": "accepted",
+   "label": "Odontotermes feae (Wasmann, 1896)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591901",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes feaeoides": {
+  "gbif": {
+   "key": 9787819,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes feaeoides Holmgren & Holmgren, 1917",
+   "accepted": null
+  },
+  "col": {
+   "id": "74H9D",
+   "status": "accepted",
+   "label": "Odontotermes feaeoides Holmgren & Holmgren, 1917",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751850",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes fidens": {
+  "gbif": {
+   "key": 9677107,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes fidens (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SGXC",
+   "status": "accepted",
+   "label": "Odontotermes fidens (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751849",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes flammifrons": {
+  "gbif": {
+   "key": 9780459,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes flammifrons (Sjöstedt, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SH9C",
+   "status": "accepted",
+   "label": "Odontotermes flammifrons (Sjöstedt, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751848",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes fockianus": {
+  "gbif": {
+   "key": 9723924,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes fockianus (Sjöstedt, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "74GXC",
+   "status": "accepted",
+   "label": "Odontotermes fockianus (Sjöstedt, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751847",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes fontanellus": {
+  "gbif": {
+   "key": 9737738,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes fontanellus Kemner, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "74H9C",
+   "status": "accepted",
+   "label": "Odontotermes fontanellus Kemner, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751846",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes formosanus": {
+  "gbif": {
+   "key": 5888178,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes formosanus (Shiraki, 1909)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SGXB",
+   "status": "accepted",
+   "label": "Odontotermes formosanus (Shiraki, 1909)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q11179444",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes foveafrons": {
+  "gbif": {
+   "key": 9701836,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes foveafrons Xia & Fan, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SH9B",
+   "status": "accepted",
+   "label": "Odontotermes foveafrons Xia & Fan, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751845",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes fulleri": {
+  "gbif": {
+   "key": 9666547,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes fulleri (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "74GXB",
+   "status": "accepted",
+   "label": "Odontotermes fulleri (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751844",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes fuyangensis": {
+  "gbif": {
+   "key": 9665750,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes fuyangensis Gao & Zhu, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "74H9B",
+   "status": "accepted",
+   "label": "Odontotermes fuyangensis Gao & Zhu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751843",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes ganpati": {
+  "gbif": {
+   "key": 9709445,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes ganpati Bose, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SGWZ",
+   "status": "accepted",
+   "label": "Odontotermes ganpati Bose, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751842",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes garambae": {
+  "gbif": {
+   "key": 9689196,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes garambae Harris, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SH8Z",
+   "status": "accepted",
+   "label": "Odontotermes garambae Harris, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751841",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes giriensis": {
+  "gbif": {
+   "key": 9710847,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes giriensis Roonwal & Chhotani, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "74GWZ",
+   "status": "accepted",
+   "label": "Odontotermes giriensis Roonwal & Chhotani, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751840",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes girnarensis": {
+  "gbif": {
+   "key": 9739786,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes girnarensis Thakur, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "74H8Z",
+   "status": "accepted",
+   "label": "Odontotermes girnarensis Thakur, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751839",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes globicola": {
+  "gbif": {
+   "key": 9762044,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes globicola (Wasmann, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SGWY",
+   "status": "accepted",
+   "label": "Odontotermes globicola (Wasmann, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591903",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes grandiceps": {
+  "gbif": {
+   "key": 9696171,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes grandiceps Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SH8Y",
+   "status": "accepted",
+   "label": "Odontotermes grandiceps Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751838",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes grassei": {
+  "gbif": {
+   "key": 9817490,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes grassei Snyder & Emerson, 1949",
+   "accepted": null
+  },
+  "col": {
+   "id": "74GWY",
+   "status": "accepted",
+   "label": "Odontotermes grassei Snyder & Emerson, 1949",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751837",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes gravelyi": {
+  "gbif": {
+   "key": 9752762,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes gravelyi Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "74H8Y",
+   "status": "accepted",
+   "label": "Odontotermes gravelyi Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751836",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes guizhouensis": {
+  "gbif": {
+   "key": 9688508,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes guizhouensis Ping & Xu, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SGWX",
+   "status": "accepted",
+   "label": "Odontotermes guizhouensis Ping & Xu, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751835",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes guptai": {
+  "gbif": {
+   "key": 9742676,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes guptai Roonwal & Bose, 1961",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SGX9",
+   "status": "accepted",
+   "label": "Odontotermes guptai Roonwal & Bose, 1961",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751834",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes gurdaspurensis": {
+  "gbif": {
+   "key": 9731393,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes gurdaspurensis Holmgren & Holmgren, 1917",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SH8X",
+   "status": "accepted",
+   "label": "Odontotermes gurdaspurensis Holmgren & Holmgren, 1917",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751833",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes hageni": {
+  "gbif": {
+   "key": 9676475,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes hageni Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SH99",
+   "status": "accepted",
+   "label": "Odontotermes hageni Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751832",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes hainanensis": {
+  "gbif": {
+   "key": 9693677,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes hainanensis (Light, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "74GWX",
+   "status": "accepted",
+   "label": "Odontotermes hainanensis (Light, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751831",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes horai": {
+  "gbif": {
+   "key": 9767757,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes horai Roonwal & Chhotani, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "74GX9",
+   "status": "accepted",
+   "label": "Odontotermes horai Roonwal & Chhotani, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751830",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes horni": {
+  "gbif": {
+   "key": 9809726,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes horni (Wasmann, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "74H8X",
+   "status": "accepted",
+   "label": "Odontotermes horni (Wasmann, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591974",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes incisus": {
+  "gbif": {
+   "key": 9757442,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes incisus Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "74H99",
+   "status": "accepted",
+   "label": "Odontotermes incisus Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751829",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes indrapurensis": {
+  "gbif": {
+   "key": 9740578,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes indrapurensis Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SGWW",
+   "status": "accepted",
+   "label": "Odontotermes indrapurensis Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751828",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes interveniens": {
+  "gbif": {
+   "key": 9019555,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes interveniens Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SGX8",
+   "status": "accepted",
+   "label": "Odontotermes interveniens Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751827",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes iratus": {
+  "gbif": {
+   "key": 9669933,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes iratus (Sjöstedt, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SH8W",
+   "status": "accepted",
+   "label": "Odontotermes iratus (Sjöstedt, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751826",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes javanicus": {
+  "gbif": {
+   "key": 9819651,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes javanicus Holmgren, 1912",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SH98",
+   "status": "accepted",
+   "label": "Odontotermes javanicus Holmgren, 1912",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751825",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes javanicus javanicus": {
+  "gbif": {
+   "key": 9735223,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Odontotermes javanicus javanicus Holmgren, 1912",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2FFQ",
+   "status": "accepted",
+   "label": "Odontotermes javanicus javanicus Holmgren, 1912",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes javanicus nymanni": {
+  "gbif": {
+   "key": 9685385,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Odontotermes javanicus nymanni Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2FFR",
+   "status": "accepted",
+   "label": "Odontotermes javanicus nymanni Holmgren, 1913",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes kapuri": {
+  "gbif": {
+   "key": 9765186,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes kapuri Roonwal & Chhotani, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "74GWW",
+   "status": "accepted",
+   "label": "Odontotermes kapuri Roonwal & Chhotani, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751824",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes karawajevi": {
+  "gbif": {
+   "key": 9646809,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes karawajevi John, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "74GX8",
+   "status": "accepted",
+   "label": "Odontotermes karawajevi John, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751823",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes karnyi": {
+  "gbif": {
+   "key": 9650547,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes karnyi Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "74H8W",
+   "status": "accepted",
+   "label": "Odontotermes karnyi Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751822",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes kepongensis": {
+  "gbif": {
+   "key": 9803874,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes kepongensis Manzoor & Akhtar, 2005",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RV2",
+   "status": "accepted",
+   "label": "Odontotermes kepongensis Manzoor & Akhtar, 2005",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751821",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes kibarensis": {
+  "gbif": {
+   "key": 9706640,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes kibarensis (Fuller, 1923)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RV3",
+   "status": "accepted",
+   "label": "Odontotermes kibarensis (Fuller, 1923)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751820",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes kistneri": {
+  "gbif": {
+   "key": 9662377,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes kistneri Manzoor & Akhtar, 2005",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RV4",
+   "status": "accepted",
+   "label": "Odontotermes kistneri Manzoor & Akhtar, 2005",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751818",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes koenigi": {
+  "gbif": {
+   "key": 9724226,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes koenigi (Desneux, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RV5",
+   "status": "accepted",
+   "label": "Odontotermes koenigi (Desneux, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591976",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes kulkarni": {
+  "gbif": {
+   "key": 9668235,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes kulkarni Roonwal & Chhotani, 1959",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RV6",
+   "status": "accepted",
+   "label": "Odontotermes kulkarni Roonwal & Chhotani, 1959",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751817",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes lacustris": {
+  "gbif": {
+   "key": 9771702,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes lacustris Harris, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RV7",
+   "status": "accepted",
+   "label": "Odontotermes lacustris Harris, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751816",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes latericius": {
+  "gbif": {
+   "key": 9695534,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes latericius (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RV8",
+   "status": "accepted",
+   "label": "Odontotermes latericius (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q124987184",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes latericius latericius": {
+  "gbif": {
+   "key": 9646174,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Odontotermes latericius latericius (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2FFS",
+   "status": "accepted",
+   "label": "Odontotermes latericius latericius (Haviland, 1898)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes latericius media": {
+  "gbif": {
+   "key": 9724869,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Odontotermes latericius media (Wasmann, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2FFT",
+   "status": "accepted",
+   "label": "Odontotermes latericius media (Wasmann, 1912)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes latialatus": {
+  "gbif": {
+   "key": 9674640,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes latialatus (Sjöstedt, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RV9",
+   "status": "accepted",
+   "label": "Odontotermes latialatus (Sjöstedt, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751815",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes latigula": {
+  "gbif": {
+   "key": 9757745,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes latigula (Snyder, 1934)",
+   "accepted": null
+  },
+  "col": {
+   "id": "74H98",
+   "status": "accepted",
+   "label": "Odontotermes latigula (Snyder, 1934)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751814",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes latiguloides": {
+  "gbif": {
+   "key": 9656683,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes latiguloides Roonwal & Verma, 1973",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVB",
+   "status": "accepted",
+   "label": "Odontotermes latiguloides Roonwal & Verma, 1973",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751813",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes latissimus": {
+  "gbif": {
+   "key": 9803190,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes latissimus (Kemner, 1930)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVC",
+   "status": "accepted",
+   "label": "Odontotermes latissimus (Kemner, 1930)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751812",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes lautus": {
+  "gbif": {
+   "key": 9763132,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes lautus (Sjöstedt, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVD",
+   "status": "accepted",
+   "label": "Odontotermes lautus (Sjöstedt, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751811",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes lobintactus": {
+  "gbif": {
+   "key": 9756640,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes lobintactus (Sjöstedt, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SGWV",
+   "status": "accepted",
+   "label": "Odontotermes lobintactus (Sjöstedt, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751810",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes longignathus": {
+  "gbif": {
+   "key": 9045531,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes longignathus Holmgren, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVF",
+   "status": "accepted",
+   "label": "Odontotermes longignathus Holmgren, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751809",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes longigula": {
+  "gbif": {
+   "key": 9652536,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes longigula Roy-Noël, 1969",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVG",
+   "status": "accepted",
+   "label": "Odontotermes longigula Roy-Noël, 1969",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751808",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes longzhouensis": {
+  "gbif": {
+   "key": 9810042,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes longzhouensis Linnaeus, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVH",
+   "status": "accepted",
+   "label": "Odontotermes longzhouensis Lin, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751807",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes luoyangensis": {
+  "gbif": {
+   "key": 9800565,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes luoyangensis Wang & Li, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVJ",
+   "status": "accepted",
+   "label": "Odontotermes luoyangensis Wang & Li, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751806",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes maesodensis": {
+  "gbif": {
+   "key": 9675711,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes maesodensis Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVK",
+   "status": "accepted",
+   "label": "Odontotermes maesodensis Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751805",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes magdalenae": {
+  "gbif": {
+   "key": 9649506,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes magdalenae Grassé & Noirot, 1950",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVL",
+   "status": "accepted",
+   "label": "Odontotermes magdalenae Grassé & Noirot, 1950",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q104386115",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes makassarensis": {
+  "gbif": {
+   "key": 9807918,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes makassarensis Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVM",
+   "status": "accepted",
+   "label": "Odontotermes makassarensis Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751804",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes malabaricus": {
+  "gbif": {
+   "key": 9787031,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes malabaricus Holmgren & Holmgren, 1917",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVN",
+   "status": "accepted",
+   "label": "Odontotermes malabaricus Holmgren & Holmgren, 1917",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751803",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes malaccensis": {
+  "gbif": {
+   "key": 8845047,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes malaccensis Holmgren, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVP",
+   "status": "accepted",
+   "label": "Odontotermes malaccensis Holmgren, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751802",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes maledictus": {
+  "gbif": {
+   "key": 9654973,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes maledictus (Ghidini, 1941)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVQ",
+   "status": "accepted",
+   "label": "Odontotermes maledictus (Ghidini, 1941)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751801",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes malelaensis": {
+  "gbif": {
+   "key": 9120903,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes malelaensis (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVR",
+   "status": "accepted",
+   "label": "Odontotermes malelaensis (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751800",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes maliki": {
+  "gbif": {
+   "key": 9678380,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes maliki Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVS",
+   "status": "accepted",
+   "label": "Odontotermes maliki Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751799",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes matangensis": {
+  "gbif": {
+   "key": 9645402,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes matangensis Manzoor & Akhtar, 2005",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVT",
+   "status": "accepted",
+   "label": "Odontotermes matangensis Manzoor & Akhtar, 2005",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751798",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes maximus": {
+  "gbif": {
+   "key": 9812695,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes maximus (Kemner, 1930)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SGX7",
+   "status": "accepted",
+   "label": "Odontotermes maximus (Kemner, 1930)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751797",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes mediocris": {
+  "gbif": {
+   "key": 9763426,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes mediocris (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVV",
+   "status": "accepted",
+   "label": "Odontotermes mediocris (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751796",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes menadoensis": {
+  "gbif": {
+   "key": 9700372,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes menadoensis Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVW",
+   "status": "accepted",
+   "label": "Odontotermes menadoensis Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751795",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes meridionalis": {
+  "gbif": {
+   "key": 9728841,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes meridionalis Yang & Gao, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVX",
+   "status": "accepted",
+   "label": "Odontotermes meridionalis Yang & Gao, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751794",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes microdentatus": {
+  "gbif": {
+   "key": 9755938,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes microdentatus Roonwal & Sen-Sarma, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVY",
+   "status": "accepted",
+   "label": "Odontotermes microdentatus Roonwal & Sen-Sarma, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751793",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes microps": {
+  "gbif": {
+   "key": 9705581,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes microps (Sjöstedt, 1899)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RVZ",
+   "status": "accepted",
+   "label": "Odontotermes microps (Sjöstedt, 1899)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751792",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes minutus": {
+  "gbif": {
+   "key": 9681546,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes minutus Amir, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RW2",
+   "status": "accepted",
+   "label": "Odontotermes minutus Amir, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751791",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes mirganjensis": {
+  "gbif": {
+   "key": 9748119,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes mirganjensis Holmgren & Holmgren, 1917",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RW3",
+   "status": "accepted",
+   "label": "Odontotermes mirganjensis Holmgren & Holmgren, 1917",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751790",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes mohandi": {
+  "gbif": {
+   "key": 9814519,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes mohandi Purohit & Verma, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RW4",
+   "status": "accepted",
+   "label": "Odontotermes mohandi Purohit & Verma, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751789",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes monodon": {
+  "gbif": {
+   "key": 9661341,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes monodon (Gerstaecker, 1891)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RW5",
+   "status": "accepted",
+   "label": "Odontotermes monodon (Gerstaecker, 1891)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751788",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes monodon lujanus": {
+  "gbif": {
+   "key": 9711149,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Odontotermes monodon lujanus (Wasmann, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2FFX",
+   "status": "accepted",
+   "label": "Odontotermes monodon lujanus (Wasmann, 1902)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes monodon monodon": {
+  "gbif": {
+   "key": 9794648,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Odontotermes monodon monodon (Gerstaecker, 1891)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2FFY",
+   "status": "accepted",
+   "label": "Odontotermes monodon monodon (Gerstaecker, 1891)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes montanus": {
+  "gbif": {
+   "key": 9679782,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes montanus Harris, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RW6",
+   "status": "accepted",
+   "label": "Odontotermes montanus Harris, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751787",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes mukimbunginis": {
+  "gbif": {
+   "key": 9777212,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes mukimbunginis Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RW7",
+   "status": "accepted",
+   "label": "Odontotermes mukimbunginis Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751786",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes neodenticulatus": {
+  "gbif": {
+   "key": 9725983,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes neodenticulatus Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RW8",
+   "status": "accepted",
+   "label": "Odontotermes neodenticulatus Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751785",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes nilensis": {
+  "gbif": {
+   "key": 9697254,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes nilensis Emerson, 1949",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RW9",
+   "status": "accepted",
+   "label": "Odontotermes nilensis Emerson, 1949",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751784",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes nolaensis": {
+  "gbif": {
+   "key": 9745571,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes nolaensis Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SH8V",
+   "status": "accepted",
+   "label": "Odontotermes nolaensis Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751783",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes obesus": {
+  "gbif": {
+   "key": 9708356,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes obesus (Rambur, 1842)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWB",
+   "status": "accepted",
+   "label": "Odontotermes obesus (Rambur, 1842)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q101246764",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes oblongatus": {
+  "gbif": {
+   "key": 9694462,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes oblongatus Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWC",
+   "status": "accepted",
+   "label": "Odontotermes oblongatus Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751782",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes okahandjae": {
+  "gbif": {
+   "key": 9730615,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes okahandjae (Fuller, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWD",
+   "status": "accepted",
+   "label": "Odontotermes okahandjae (Fuller, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751780",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes ostentans": {
+  "gbif": {
+   "key": 9193446,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes ostentans (Silvestri, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SH97",
+   "status": "accepted",
+   "label": "Odontotermes ostentans (Silvestri, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751779",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes palmquisti": {
+  "gbif": {
+   "key": 9672945,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes palmquisti (Sjöstedt, 1907)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWF",
+   "status": "accepted",
+   "label": "Odontotermes palmquisti (Sjöstedt, 1907)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751778",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes paradenticulatus": {
+  "gbif": {
+   "key": 9772807,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes paradenticulatus Ahmad, 1947",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWG",
+   "status": "accepted",
+   "label": "Odontotermes paradenticulatus Ahmad, 1947",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751777",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes paralatigula": {
+  "gbif": {
+   "key": 9664835,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes paralatigula Chatterjee & Sen-Sarma, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWH",
+   "status": "accepted",
+   "label": "Odontotermes paralatigula Chatterjee & Sen-Sarma, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751776",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes paralatiguloides": {
+  "gbif": {
+   "key": 9802051,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes paralatiguloides Thakur, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWJ",
+   "status": "accepted",
+   "label": "Odontotermes paralatiguloides Thakur, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751775",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes parallelus": {
+  "gbif": {
+   "key": 9658331,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes parallelus Li, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWK",
+   "status": "accepted",
+   "label": "Odontotermes parallelus Li, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751774",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes paraoblongatus": {
+  "gbif": {
+   "key": 9730314,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes paraoblongatus Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWL",
+   "status": "accepted",
+   "label": "Odontotermes paraoblongatus Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751773",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes parvidens": {
+  "gbif": {
+   "key": 9655924,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes parvidens Holmgren & Holmgren, 1917",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWM",
+   "status": "accepted",
+   "label": "Odontotermes parvidens Holmgren & Holmgren, 1917",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751771",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes patruus": {
+  "gbif": {
+   "key": 9166736,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes patruus (Sjöstedt, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWN",
+   "status": "accepted",
+   "label": "Odontotermes patruus (Sjöstedt, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751770",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes pauperans": {
+  "gbif": {
+   "key": 9788823,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes pauperans (Silvestri, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWP",
+   "status": "accepted",
+   "label": "Odontotermes pauperans (Silvestri, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q124987265",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes peshawarensis": {
+  "gbif": {
+   "key": 9750192,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes peshawarensis Akhtar, 1974",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWQ",
+   "status": "accepted",
+   "label": "Odontotermes peshawarensis Akhtar, 1974",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751769",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes planiceps": {
+  "gbif": {
+   "key": 9659354,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes planiceps Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWR",
+   "status": "accepted",
+   "label": "Odontotermes planiceps Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751768",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes praevalens": {
+  "gbif": {
+   "key": 9647092,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes praevalens (John, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWS",
+   "status": "accepted",
+   "label": "Odontotermes praevalens (John, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751767",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes preliminaris": {
+  "gbif": {
+   "key": 9682612,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes preliminaris (Holmgren, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWT",
+   "status": "accepted",
+   "label": "Odontotermes preliminaris (Holmgren, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591979",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes pretoriensis": {
+  "gbif": {
+   "key": 9775410,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes pretoriensis Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "74GWV",
+   "status": "accepted",
+   "label": "Odontotermes pretoriensis Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751766",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes prewensis": {
+  "gbif": {
+   "key": 9690236,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes prewensis Akhtar & Manzoor, 2005",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWV",
+   "status": "accepted",
+   "label": "Odontotermes prewensis Akhtar & Manzoor, 2005",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21356401",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes prodives": {
+  "gbif": {
+   "key": 9674009,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes prodives Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWW",
+   "status": "accepted",
+   "label": "Odontotermes prodives Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751765",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes profeae": {
+  "gbif": {
+   "key": 9795800,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes profeae Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWX",
+   "status": "accepted",
+   "label": "Odontotermes profeae Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751764",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes proformosanus": {
+  "gbif": {
+   "key": 9728533,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes proformosanus Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWY",
+   "status": "accepted",
+   "label": "Odontotermes proformosanus Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751763",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes prolatigula": {
+  "gbif": {
+   "key": 9783732,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes prolatigula Bose, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RWZ",
+   "status": "accepted",
+   "label": "Odontotermes prolatigula Bose, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751762",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes proximus": {
+  "gbif": {
+   "key": 9211635,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes proximus Holmgren, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RX2",
+   "status": "accepted",
+   "label": "Odontotermes proximus Holmgren, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751761",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes pujiangensis": {
+  "gbif": {
+   "key": 9760584,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes pujiangensis Fan, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RX3",
+   "status": "accepted",
+   "label": "Odontotermes pujiangensis Fan, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751760",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes pyriceps": {
+  "gbif": {
+   "key": 9702132,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes pyriceps Fan, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RX4",
+   "status": "accepted",
+   "label": "Odontotermes pyriceps Fan, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751759",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes quinquedentatus": {
+  "gbif": {
+   "key": 9721013,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes quinquedentatus Ping & Xu, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RX5",
+   "status": "accepted",
+   "label": "Odontotermes quinquedentatus Ping & Xu, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751758",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes ramulosus": {
+  "gbif": {
+   "key": 9751974,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes ramulosus (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RX6",
+   "status": "accepted",
+   "label": "Odontotermes ramulosus (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751757",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes rectanguloides": {
+  "gbif": {
+   "key": 9747007,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes rectanguloides Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RX7",
+   "status": "accepted",
+   "label": "Odontotermes rectanguloides Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751756",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes redemanni": {
+  "gbif": {
+   "key": 9707415,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes redemanni (Wasmann, 1893)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RX8",
+   "status": "accepted",
+   "label": "Odontotermes redemanni (Wasmann, 1893)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30326288",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes rehobothensis": {
+  "gbif": {
+   "key": 9647851,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes rehobothensis (Sjöstedt, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RX9",
+   "status": "accepted",
+   "label": "Odontotermes rehobothensis (Sjöstedt, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751755",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes robustus": {
+  "gbif": {
+   "key": 9691967,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes robustus Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "74GX7",
+   "status": "accepted",
+   "label": "Odontotermes robustus Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751754",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes rothschildianus": {
+  "gbif": {
+   "key": 9723113,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes rothschildianus (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXB",
+   "status": "accepted",
+   "label": "Odontotermes rothschildianus (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751753",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes salebrifrons": {
+  "gbif": {
+   "key": 9662086,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes salebrifrons (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXC",
+   "status": "accepted",
+   "label": "Odontotermes salebrifrons (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751752",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes sarawakensis": {
+  "gbif": {
+   "key": 9753068,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes sarawakensis Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXD",
+   "status": "accepted",
+   "label": "Odontotermes sarawakensis Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751751",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes sasangirensis": {
+  "gbif": {
+   "key": 9784022,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes sasangirensis Thakur, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "74H8V",
+   "status": "accepted",
+   "label": "Odontotermes sasangirensis Thakur, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751750",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes schmitzi": {
+  "gbif": {
+   "key": 9719308,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes schmitzi (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXF",
+   "status": "accepted",
+   "label": "Odontotermes schmitzi (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751749",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes scrutor": {
+  "gbif": {
+   "key": 9735988,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes scrutor (Sjöstedt, 1907)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXG",
+   "status": "accepted",
+   "label": "Odontotermes scrutor (Sjöstedt, 1907)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751748",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes sellathorax": {
+  "gbif": {
+   "key": 9759223,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes sellathorax Xia & Fan, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXH",
+   "status": "accepted",
+   "label": "Odontotermes sellathorax Xia & Fan, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751747",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes shixingensis": {
+  "gbif": {
+   "key": 9789626,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes shixingensis Ping & Xu, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXJ",
+   "status": "accepted",
+   "label": "Odontotermes shixingensis Ping & Xu, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751746",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes sikkimensis": {
+  "gbif": {
+   "key": 9758543,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes sikkimensis Thakur & Rathore, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXK",
+   "status": "accepted",
+   "label": "Odontotermes sikkimensis Thakur & Rathore, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751745",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes silamensis": {
+  "gbif": {
+   "key": 9704923,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes silamensis Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXL",
+   "status": "accepted",
+   "label": "Odontotermes silamensis Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751744",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes silvaticus": {
+  "gbif": {
+   "key": 9713638,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes silvaticus Harris, 1956",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXM",
+   "status": "accepted",
+   "label": "Odontotermes silvaticus Harris, 1956",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751743",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes silvestrii": {
+  "gbif": {
+   "key": 9700092,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes silvestrii Sjöstedt, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXN",
+   "status": "accepted",
+   "label": "Odontotermes silvestrii Sjöstedt, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751742",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes simalurensis": {
+  "gbif": {
+   "key": 9792842,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes simalurensis Oshima, 1923",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXQ",
+   "status": "accepted",
+   "label": "Odontotermes simalurensis Oshima, 1923",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751740",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes simplicidens": {
+  "gbif": {
+   "key": 9749883,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes simplicidens (Sjöstedt, 1899)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXR",
+   "status": "accepted",
+   "label": "Odontotermes simplicidens (Sjöstedt, 1899)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751739",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes sinabangensis": {
+  "gbif": {
+   "key": 9743488,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes sinabangensis Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXS",
+   "status": "accepted",
+   "label": "Odontotermes sinabangensis Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751738",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes singsiti": {
+  "gbif": {
+   "key": 9685684,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes singsiti Bose, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXT",
+   "status": "accepted",
+   "label": "Odontotermes singsiti Bose, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751737",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes sjostedti": {
+  "gbif": {
+   "key": 8826393,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes sjostedti (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "74H97",
+   "status": "accepted",
+   "label": "Odontotermes sjostedti (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751736",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes sjostedti evansi": {
+  "gbif": {
+   "key": 9653965,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Odontotermes sjostedti evansi (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2FG3",
+   "status": "accepted",
+   "label": "Odontotermes sjostedti evansi (Emerson, 1928)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes sjostedti sjostedti": {
+  "gbif": {
+   "key": 9716776,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Odontotermes sjostedti sjostedti (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2FG4",
+   "status": "accepted",
+   "label": "Odontotermes sjostedti sjostedti (Emerson, 1928)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes smeathmani": {
+  "gbif": {
+   "key": 9785192,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes smeathmani (Fuller, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXV",
+   "status": "accepted",
+   "label": "Odontotermes smeathmani (Fuller, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751735",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes snyderi": {
+  "gbif": {
+   "key": 9751666,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes snyderi (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXW",
+   "status": "accepted",
+   "label": "Odontotermes snyderi (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751734",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes somaliensis": {
+  "gbif": {
+   "key": 9754523,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes somaliensis (Sjöstedt, 1927)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXX",
+   "status": "accepted",
+   "label": "Odontotermes somaliensis (Sjöstedt, 1927)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751733",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes stanleyvillensis": {
+  "gbif": {
+   "key": 9664075,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes stanleyvillensis (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXY",
+   "status": "accepted",
+   "label": "Odontotermes stanleyvillensis (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751732",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes stercorivorus": {
+  "gbif": {
+   "key": 9811882,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes stercorivorus (Sjöstedt, 1907)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RXZ",
+   "status": "accepted",
+   "label": "Odontotermes stercorivorus (Sjöstedt, 1907)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751731",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes sudanensis": {
+  "gbif": {
+   "key": 9089620,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes sudanensis Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RY2",
+   "status": "accepted",
+   "label": "Odontotermes sudanensis Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751730",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes takensis": {
+  "gbif": {
+   "key": 9755652,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes takensis Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RY3",
+   "status": "accepted",
+   "label": "Odontotermes takensis Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751729",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes tanganicus": {
+  "gbif": {
+   "key": 8902481,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes tanganicus Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RY4",
+   "status": "accepted",
+   "label": "Odontotermes tanganicus Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751727",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes taprobanes": {
+  "gbif": {
+   "key": 9039197,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes taprobanes (Walker, 1853)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RY5",
+   "status": "accepted",
+   "label": "Odontotermes taprobanes (Walker, 1853)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30326287",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes terricola": {
+  "gbif": {
+   "key": 9739127,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes terricola (Sjöstedt, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RY6",
+   "status": "accepted",
+   "label": "Odontotermes terricola (Sjöstedt, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751726",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes tragardhi": {
+  "gbif": {
+   "key": 9732067,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes tragardhi Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RY7",
+   "status": "accepted",
+   "label": "Odontotermes tragardhi Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751725",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes transvaalensis": {
+  "gbif": {
+   "key": 9649803,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes transvaalensis (Sjöstedt, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RY8",
+   "status": "accepted",
+   "label": "Odontotermes transvaalensis (Sjöstedt, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751724",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes vaishno": {
+  "gbif": {
+   "key": 9727736,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes vaishno Bose, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RY9",
+   "status": "accepted",
+   "label": "Odontotermes vaishno Bose, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751723",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes vulgaris": {
+  "gbif": {
+   "key": 9799178,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes vulgaris (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SGX6",
+   "status": "accepted",
+   "label": "Odontotermes vulgaris (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751722",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes wallonensis": {
+  "gbif": {
+   "key": 9791712,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes wallonensis (Wasmann, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RYB",
+   "status": "accepted",
+   "label": "Odontotermes wallonensis (Wasmann, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751721",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes wuzhishanensis": {
+  "gbif": {
+   "key": 9808210,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes wuzhishanensis Li, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RYC",
+   "status": "accepted",
+   "label": "Odontotermes wuzhishanensis Li, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751720",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes yadevi": {
+  "gbif": {
+   "key": 9663783,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes yadevi Thakur, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RYD",
+   "status": "accepted",
+   "label": "Odontotermes yadevi Thakur, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751719",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes yaoi": {
+  "gbif": {
+   "key": 9670979,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes yaoi Huang & Li, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SH96",
+   "status": "accepted",
+   "label": "Odontotermes yaoi Huang & Li, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751718",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes yarangensis": {
+  "gbif": {
+   "key": 9803475,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes yarangensis Tsai & Huang, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RYF",
+   "status": "accepted",
+   "label": "Odontotermes yarangensis Tsai & Huang, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751717",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes yunnanensis": {
+  "gbif": {
+   "key": 9682914,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes yunnanensis Tsai & Chen, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RYG",
+   "status": "accepted",
+   "label": "Odontotermes yunnanensis Tsai & Chen, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes zambesiensis": {
+  "gbif": {
+   "key": 9794342,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes zambesiensis (Sjöstedt, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RYH",
+   "status": "accepted",
+   "label": "Odontotermes zambesiensis (Sjöstedt, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751716",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes ziyangensis": {
+  "gbif": {
+   "key": 9744469,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes ziyangensis Zhang & Xing, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RYJ",
+   "status": "accepted",
+   "label": "Odontotermes ziyangensis Zhang & Xing, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751715",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes zulunatalensis": {
+  "gbif": {
+   "key": 8829386,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes zulunatalensis Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RYK",
+   "status": "accepted",
+   "label": "Odontotermes zulunatalensis Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751714",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Odontotermes zunyiensis": {
+  "gbif": {
+   "key": 9680104,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Odontotermes zunyiensis Li & Ping, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "48RYL",
+   "status": "accepted",
+   "label": "Odontotermes zunyiensis Li & Ping, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131751713",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

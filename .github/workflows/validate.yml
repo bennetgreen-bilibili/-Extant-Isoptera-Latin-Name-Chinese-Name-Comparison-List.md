@@ -66,6 +66,20 @@ jobs:
       - name: Check site index coverage
         run: python _tools/build_ai_index.py --check
 
+      # _data 分片守卫：14 个数据集都必须是「目录分片」状态（聚合文件已删除）。
+      # 不用 data_shards.py --verify-all：它需要拆分前的原始 JSON（_tmp/shard_orig/，不入库），
+      # CI 里没有；全量合并校验只在本地做，CI 校验目录齐备与「无聚合文件回潮」。
+      - name: Verify data shard layout
+        run: |
+          out="$(python _tools/data_shards.py --status)"
+          echo "$out"
+          if printf '%s\n' "$out" | awk '{ sub(/\r$/, "") } NR > 1 && $NF != "shards" { bad = 1 } END { exit bad }'; then
+            echo "OK: 14 个数据集均为分片状态"
+          else
+            echo "::error::_data 分片布局不完整（缺目录、空目录或聚合文件回潮），见 _tools/data_shards.md"
+            exit 1
+          fi
+
       # 外部数据缓存（离线，不联网）：与 pages.yml 部署前的同一组校验。
       # 放在这里是为了让 PR 阶段就能发现脚本问题（例如本次的 Python 3.13-only API），
       # 而不是等到部署时构建 job 才红。

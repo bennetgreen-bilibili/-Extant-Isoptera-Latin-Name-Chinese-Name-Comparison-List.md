@@ -1,0 +1,68 @@
+{
+ "Adaiphrotermes choanensis": {
+  "gbif": {
+   "key": 9690725,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Adaiphrotermes choanensis (Fuller, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "9WYY",
+   "status": "accepted",
+   "label": "Adaiphrotermes choanensis (Fuller, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234486",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Adaiphrotermes cuniculator": {
+  "gbif": {
+   "key": 9729790,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Adaiphrotermes cuniculator Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "9WYZ",
+   "status": "accepted",
+   "label": "Adaiphrotermes cuniculator Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234491",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Adaiphrotermes scapheutes": {
+  "gbif": {
+   "key": 9773340,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Adaiphrotermes scapheutes Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "9WZ2",
+   "status": "accepted",
+   "label": "Adaiphrotermes scapheutes Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234496",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

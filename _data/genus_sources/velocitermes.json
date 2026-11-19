@@ -1,0 +1,43 @@
+{
+ "latin": "Velocitermes",
+ "zh": "快白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Velocitermes Holmgren, 1912a: 60, 61 [first introduced as a subgenus of Eutermes Heer, 1849].",
+ "type_species": "Eutermes heteropterus Silvestri, 1901 by subsequent designation; see Snyder, 1949a: 311.",
+ "references": [
+  {
+   "ref": "Spaeth, 1967: 850",
+   "note": "Velocitermes; relationships; characters."
+  },
+  {
+   "ref": "Morimoto, 1975b: 26",
+   "note": "Velocitermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 185–187",
+   "note": "Velocitermes; synonymy; characters; discussion; relationships."
+  },
+  {
+   "ref": "Mill, 1983a: 183, 188",
+   "note": "Velocitermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Nickle and Collins, 1992: 226, 227, 238",
+   "note": "Velocitermes; key; characters."
+  },
+  {
+   "ref": "Roisin et al., 1996: 777",
+   "note": "Velocitermes; soldier, worker characters."
+  },
+  {
+   "ref": "Constantino, 1999a: 404, 413",
+   "note": "Velocitermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 10",
+   "note": "Velocitermes; key."
+  }
+ ],
+ "nrefs": 30
+}

@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-14",
+ "sections": [
+  {
+   "heading": "新热带区的属修订",
+   "heading_en": "A Neotropical genus revised",
+   "heading_es": "Revisión de un género neotropical",
+   "paragraphs": [
+    {
+     "src": [
+      "S0228"
+     ],
+     "text": "据摘要，Rocha 与 Cancello（2009）对直颚白蚁属（<i>Orthognathotermes</i>）的修订研究显示，该属分布于新热带区，修订前含 9 个种，修订后增至 15 个种：作者重描述了原有的 9 个种并新描述 6 个种，给出兵蚁检索表与全部种的分布图，并首次描述了惠勒直颚白蚁（<i>Orthognathotermes wheeleri</i>）和希伯直颚白蚁（<i>Orthognathotermes heberi</i>）的有翅成虫。该文把该属置于白蚁科（Termitidae）白蚁亚科（Termitinae），2024 年白蚁亚科拆分后本站将其置于弓白蚁亚科（Amitermitinae）。",
+     "text_en": "According to the abstract, the revision of the Neotropical genus <i>Orthognathotermes</i> by Rocha and Cancello (2009) shows that the genus occurs in the Neotropical region and grew from 9 species to 15: the authors redescribed the nine previously named species and described six new species, provided a key to the soldiers and distribution maps for all species, and described for the first time the alates of <i>Orthognathotermes wheeleri</i> and <i>Orthognathotermes heberi</i>. The paper placed the genus in Termitidae: Termitinae; after the 2024 split of Termitinae this site places it in Amitermitinae.",
+     "text_es": "Según el resumen, la revisión del género neotropical <i>Orthognathotermes</i> realizada por Rocha y Cancello (2009) muestra que el género se distribuye en la región neotropical y pasó de 9 especies a 15: los autores redescribieron las nueve especies ya nombradas y describieron seis especies nuevas, aportaron una clave para los soldados y mapas de distribución de todas las especies, y describieron por primera vez las aladas de <i>Orthognathotermes wheeleri</i> y <i>Orthognathotermes heberi</i>. El trabajo situó el género en Termitidae: Termitinae; tras la división de Termitinae en 2024, este sitio lo sitúa en Amitermitinae."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0228",
+   "citation": "Rocha, M. M.; Cancello, E. M. 2009. Revision of the Neotropical termite genus Orthognathotermes Holmgren (Isoptera: Termitidae: Termitinae). Zootaxa.",
+   "doi": "10.11646/zootaxa.2280.1.1"
+  }
+ ]
+}

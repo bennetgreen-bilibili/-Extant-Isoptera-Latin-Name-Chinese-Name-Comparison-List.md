@@ -1,0 +1,57 @@
+{
+ "fetched_at": "2026-10-30T15:45:31Z",
+ "latin": "Aciculitermes",
+ "papers": [
+  {
+   "abstract": "A study had been carried out from May 2017 to February 2018 at Suaq Balimbing Research Center, Gunung Leuser National Park to determine the biology of termite nests of Nasutitermitinae subfamily. The termites were collected with Finding Colony method, while the identification of the termite types and data analysis was conducted in Zoology Laboratory, Department of Biology, Faculty of Mathematics and Natural Sciences, Syiah Kuala University. The results found 3 types of termite nests, i.e., (1) arboreal mounds type (N. roboratus, N. matangensis, H. bicolor and N. neoparvus) as an attempt to disguise themselves and protect their colonies from predators; (2) wood nesting type (N. havilandi, N. proatripennis, H. hospitalis, B. neopusillus, L. leucops, and Aciculitermes sp.1) that is built using drywood to form ventilation space between nests, so the nests become sturdier; and (3) subterraneannest type (L. longipes) that has a stronger construction than arborealmounds and wood nesting since it is made of soil attached by saliva liquid. Shapes of termite nest found namely a rounded shape, a cone shape, a shape that fills in hollow trees, a shape that forms a mound on the ground, and rectangular shape. Some of the termites activities were searching for food outside the nest, consuming remaining food in the nest, and making an attack. The identification results showed that there were 18 termites species from 6 genera of Nasutitermitinae subfamily namely Nasutitermes, Hospitalitermes, Leucopitermes, Longipeditermes, Bulbitermes and Aciculitermes.",
+   "abstract_chars": 1563,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Hendra Ervany",
+    "Syaukani Syaukani",
+    "Husni Husni"
+   ],
+   "cited_by": 1,
+   "date": "2019-10-30",
+   "doi": "10.22373/biotik.v7i1.5467",
+   "doi_url": "https://doi.org/10.22373/biotik.v7i1.5467",
+   "id": "https://openalex.org/W2959914054",
+   "issue": "1",
+   "language": "en",
+   "oa_url": "https://jurnal.ar-raniry.ac.id/index.php/biotik/article/download/5467/3529",
+   "openalex_url": "https://openalex.org/W2959914054",
+   "pages": "28-28",
+   "title": "Biologi Sarang Rayap Subfamili Nasutitermitinae di Stasiun Penelitian Suaq Balimbing Taman Nasional Gunung Leuser",
+   "type": "article",
+   "venue": "BIOTIK Jurnal Ilmiah Biologi Teknologi dan Kependidikan",
+   "volume": "7",
+   "year": 2019
+  },
+  {
+   "abstract": "ABSTRAKPenelitian biologi sarang rayap subfamili Nasutitermitinae di Kawasan Stasiun Penelitian Suaq Balimbing, Taman Nasional Gunung Leuser telah dilakukan sejak Mei 2017 sampai Februari 2018. Penelitian ini bertujuan untuk mengetahui biologi sarang rayap subfamili Nasutitermitinae yang terdapat di Kawasan Suaq Balimbing. Pengoleksian rayap menggunakan metode Finding Colony. Identifikasi jenis rayap serta analisis data dilakukan di Laboratorium Zoologi, Jurusan Biologi, Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Syiah Kuala. Hasil penelitian menunjukkan bahwa terdapat 3 tipe sarang rayap yaitu (1) tipe arboreal mounds. (N. roboratus, N. matangensis, H. bicolor, N. Neoparvus) sebagai suatu upaya menyamarkan diri dan melindungi koloni rayap terhadap predator. (2) tipe wood nesting. (N. havilandi, N. proatripennis, H. hospitalis, B. neopusillus, L. leucops, Aciculitermes sp.1). Rayap-rayap tersebut dapat membangun sarang dengan mudah menggunakan dinding pohon mati untuk membentuk ventilasi-ventilasi ruang pada sarang sehingga sarang menjadi kokoh; dan (3) tipe subterranean nest. (L. longipes) mempunyai konstruksi lebih kuat dari sarang arboreal mounds dan wood nesting karena terbuat dari material tanah yang dilekatkan dengan cairan saliva. Bentuk-bentuk sarang rayap yang ditemukan antara lain bentuk membulat seperti bola, bentuk bangun kerucut, bentuk yang mengisi pohon kayu yang berlubang, bentuk yang membentuk gundukan pada tanah, dan bentuk persegi panjang. Beberapa aktifitas yang dilakukan rayap yaitu didapati aktifitas mencari makanan di luar sarang, mengkonsumsi cadangan makanan di dalam sarang, dan aktifitas menyerang. Hasil identifikasi menunjukkan terdapat 18 koloni yang terbagi ke dalam 6 genera subfamili Nasutitermitinae di antaranya adalah Nasutitermes, Hospitalitermes, Leucopitermes, Longipeditermes, Bulbitermes dan Aciculitermes. Kata kunci: Sarang rayap, Nasutitermitinae, Suaq Balimbing, Leuser",
+   "abstract_chars": 1955,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Hendra Ervany"
+   ],
+   "cited_by": 0,
+   "date": "2018-11-28",
+   "doi": "",
+   "doi_url": "",
+   "id": "https://openalex.org/W3044952602",
+   "issue": "1",
+   "language": "id",
+   "oa_url": "http://etd.unsyiah.ac.id//index.php?p=show_detail&id=50945",
+   "openalex_url": "https://openalex.org/W3044952602",
+   "pages": "",
+   "title": "BIOLOGI SARANG RAYAP SUBFAMILI NASUTITERMITINAE DI STASIUN SUAQ BALIMBING TAMAN NASIONAL GUNUNG LEUSER",
+   "type": "article",
+   "venue": "Electronic theses and dissertations (Syiah Kuala University)",
+   "volume": "1",
+   "year": 2018
+  }
+ ],
+ "zh": "针白蚁属"
+}

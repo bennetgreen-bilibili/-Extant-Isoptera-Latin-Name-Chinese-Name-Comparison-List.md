@@ -1,0 +1,90 @@
+{
+ "Coatitermes clevelandi": {
+  "gbif": {
+   "key": 9245870,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coatitermes clevelandi (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "WJQY",
+   "status": "accepted",
+   "label": "Coatitermes clevelandi (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235339",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coatitermes kartaboensis": {
+  "gbif": {
+   "key": 9553285,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coatitermes kartaboensis (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "WJQZ",
+   "status": "accepted",
+   "label": "Coatitermes kartaboensis (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235340",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coatitermes mazaruniensis": {
+  "gbif": {
+   "key": 9651729,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coatitermes mazaruniensis (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "WJR2",
+   "status": "accepted",
+   "label": "Coatitermes mazaruniensis (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235341",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coatitermes pallidus": {
+  "gbif": {
+   "key": 9752254,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coatitermes pallidus (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "WJR3",
+   "status": "accepted",
+   "label": "Coatitermes pallidus (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235342",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

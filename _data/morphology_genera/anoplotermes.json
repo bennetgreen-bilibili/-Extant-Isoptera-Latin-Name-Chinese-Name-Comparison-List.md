@@ -1,0 +1,25 @@
+{
+ "zh_name": "解甲白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁完全缺。有翅成虫头很宽、通常密被毛，复眼小而突出，囟位于很后或头中部；触角恒为 15 节，第 3 节短得多；翅暗色、被毛并具刺；胫节 2 端距。工蚁似 Eutermes 工蚁，后唇基强隆起，触角恒为 14 节，头多色浅、囟不明显。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头很宽，通常密被毛，复眼小而突出；囟或很靠后，或位于头中部；单眼中等大，与复眼的距离不一；后唇基基片几乎总是至少与其宽度之半等长（A. iheringi 例外），通常强隆起；横带中部较两侧长；上颚具 1 枚大端齿，略延长；触角恒 15 节，第 3 节通常远短于相邻节；脑大。前胸背板如 Eutermes；中、后胸背板后缘多少深凹；翅暗色、被毛并具刺，脉序如 Eutermes；胫节 2 端距；腹部延长，雌性两侧具泌腺毛。"
+  },
+  {
+   "label": "工蚁",
+   "text": "似 Eutermes 工蚁；后唇基强隆起，长等于甚至大于其宽度之半；触角恒 14 节，第 3 节多短于相邻节；头多色浅，囟不明显。"
+  }
+ ],
+ "note": "原文明确记兵蚁完全缺，故本属只有有翅成虫与工蚁两节。此为新热带属，非洲的“Anoplotermes”已被拆出，故非洲区文献（Sands 1972）不含本属属征。",
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+   "locator": "pp. 73–74（Gattung Anoplotermes；Imago、Soldat、Arbeiter）"
+  }
+ ]
+}

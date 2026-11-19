@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "模式种与描述",
+   "heading_en": "The type species and its description",
+   "heading_es": "La especie tipo y su descripción",
+   "paragraphs": [
+    {
+     "src": [
+      "S0328"
+     ],
+     "text": "根据 Mathur 与 Sen-Sarma（1960）研究，卡迪埃默森白蚁（<i>Emersonitermes thekadensis</i>）既是埃默森白蚁属（<i>Emersonitermes</i>）的模式种，也是该属建立时描述的唯一新种；标本来自 Günther Becker 1956 年印度之行所采的一批约 20 种白蚁，描述附插图（据摘要）。",
+     "text_en": "According to Mathur and Sen-Sarma (1960), <i>Emersonitermes thekadensis</i> is both the type species of <i>Emersonitermes</i> and the only new species described when the genus was established; the material came from a collection of some 20 termite species made by Günther Becker during his stay in India in 1956, and the description is illustrated (according to the abstract).",
+     "text_es": "Según Mathur y Sen-Sarma (1960), <i>Emersonitermes thekadensis</i> es a la vez la especie tipo de <i>Emersonitermes</i> y la única especie nueva descrita al establecer el género; el material procede de una colección de unas 20 especies de termitas reunida por Günther Becker durante su estancia en la India en 1956, y la descripción está ilustrada (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0328",
+   "citation": "Mathur, R. N.; Sen-Sarma, P. K. 1960. Two new termites Emersonitermes thekadensis gen. et sp. nov. and Trinervitermes nigrirostris sp. nov. from India (Insecta: Isoptera). Zeitschrift für Angewandte Entomologie.",
+   "url": "https://doi.org/10.1111/j.1439-0418.1960.tb01178.x"
+  }
+ ]
+}

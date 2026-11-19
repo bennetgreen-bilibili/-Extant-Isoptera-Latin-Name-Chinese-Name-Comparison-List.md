@@ -6,8 +6,8 @@
     limit   展示张数：扁平预览时是全页上限；分组时是每个种的上限（默认 6，0 = 不限）
     more    "1" 时输出小节标题与「查看全部」按钮（分类单元页上的内联预览）
     grouped "1" 时按物种分组渲染（分类单元的「全部图片」页）；否则扁平预览
-  数据：_data/species_by_*.json（build_genus_index.py）给出该单元下的种，
-        _data/species_photos.json 给出每种的照片；两者都只含种，不含亚种。
+  数据：_data/species_by_*.json（build_genus_index.py）给出该单元下的种（每项带 genus_id），
+        _data/species_photos/species/<属>.json 给出每种的照片（{拉丁学名: [照片]}）；两者都只含种，不含亚种。
   为什么不直接全量渲染：白蚁科现有上千张照片，一次性输出会成为几千个 <img>。
   所以分类单元页只给 6 张预览，独立页按种分组、每种再截 6 张，
   更深的入口落在种级的 /species/<slug>/photos/（全量）。
@@ -31,7 +31,7 @@
 {%- assign tp_total = 0 -%}
 {%- assign tp_species = 0 -%}
 {%- for sp in tp_list -%}
-  {%- assign tp_count = site.data.species_photos.species[sp.latin] -%}
+  {%- assign tp_count = site.data.species_photos.species[sp.genus_id][sp.latin] -%}
   {%- if tp_count and tp_count.size > 0 -%}
     {%- assign tp_total = tp_total | plus: tp_count.size -%}
     {%- assign tp_species = tp_species | plus: 1 -%}
@@ -48,7 +48,7 @@
   {%- endif -%}
   {%- if include.grouped -%}
   {%- for sp in tp_list -%}
-    {%- assign tp_count = site.data.species_photos.species[sp.latin] -%}
+    {%- assign tp_count = site.data.species_photos.species[sp.genus_id][sp.latin] -%}
     {%- if tp_count and tp_count.size > 0 -%}
     {%- assign tp_label = sp.latin | append: ' ' | append: sp.zh -%}
   <section class="species-gallery taxon-photos-group" aria-label="{{ tp_label | escape }}">
@@ -71,7 +71,7 @@
   {%- assign tp_shown = 0 -%}
   <div class="gallery-grid">
     {%- for sp in tp_list -%}
-      {%- assign tp_count = site.data.species_photos.species[sp.latin] -%}
+      {%- assign tp_count = site.data.species_photos.species[sp.genus_id][sp.latin] -%}
       {%- if tp_count and tp_count.size > 0 -%}
         {%- assign tp_label = sp.latin | append: ' ' | append: sp.zh -%}
         {%- for photo in tp_count -%}

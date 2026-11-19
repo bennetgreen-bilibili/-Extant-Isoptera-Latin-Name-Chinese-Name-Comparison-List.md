@@ -1,0 +1,38 @@
+{
+ "book_n": "419",
+ "book_name": "贵州象白蚁 Nasutitermes guizhouensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "贵州象白蚊兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.10",
+     "value": "1.06–1.12"
+    },
+    {
+     "key": "head_height_without_gula",
+     "mean": "0.82",
+     "value": "0.81–0.84"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.52",
+     "value": "0.50–0.54"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.18",
+     "value": "1.11–1.26"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 571,
+   "unit": "mm"
+  }
+ ]
+}

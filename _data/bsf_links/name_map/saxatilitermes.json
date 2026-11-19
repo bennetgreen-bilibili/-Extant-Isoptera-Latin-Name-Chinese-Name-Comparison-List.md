@@ -1,0 +1,13 @@
+{
+ "Saxatilitermes saxatilis": {
+  "label": "Saxatilitermes saxatilis Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85804,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85804/overview",
+  "valid_label": null,
+  "valid_otu": 85804,
+  "verified": false
+ }
+}

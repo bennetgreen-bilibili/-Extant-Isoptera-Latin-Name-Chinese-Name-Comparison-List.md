@@ -1,0 +1,43 @@
+{
+ "latin": "Bulbitermes",
+ "zh": "瓢白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Bulbitermes Emerson, 1949j: 377.",
+ "type_species": "Termes constrictus Haviland, 1898 by original designation.",
+ "references": [
+  {
+   "ref": "Haviland, 1898: 379, 426",
+   "note": "Termes “section with T. singaporiensis for type”; characters; key."
+  },
+  {
+   "ref": "Ahmad, 1958: 86, 89",
+   "note": "Bulbitermes; key."
+  },
+  {
+   "ref": "Ahmad, 1965: 7, 8",
+   "note": "Bulbitermes; key; synonymy; distribution. Thailand."
+  },
+  {
+   "ref": "Chaudhry et al., 1972: 59",
+   "note": "Bulbitermes; characters."
+  },
+  {
+   "ref": "Akhtar, 1975: 59, 61",
+   "note": "Bulbitermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 26",
+   "note": "Bulbitermes; key."
+  },
+  {
+   "ref": "Roonwal and Chhotani, 1977: 43, 44",
+   "note": "Bulbitermes; key."
+  },
+  {
+   "ref": "Sen-Sarma and Verma, 1984: 92",
+   "note": "Bulbitermes; key; characters."
+  }
+ ],
+ "nrefs": 28
+}

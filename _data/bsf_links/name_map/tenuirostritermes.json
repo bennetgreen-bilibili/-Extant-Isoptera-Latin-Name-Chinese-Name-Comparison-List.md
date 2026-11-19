@@ -1,0 +1,57 @@
+{
+ "Tenuirostritermes briciae": {
+  "label": "Tenuirostritermes briciae (Snyder, 1922)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84902,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84902/overview",
+  "valid_label": null,
+  "valid_otu": 84902,
+  "verified": false
+ },
+ "Tenuirostritermes cinereus": {
+  "label": "Tenuirostritermes cinereus (Buckley, 1862)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84903,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84903/overview",
+  "valid_label": null,
+  "valid_otu": 84903,
+  "verified": false
+ },
+ "Tenuirostritermes incisus": {
+  "label": "Tenuirostritermes incisus (Snyder, 1922)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84904,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84904/overview",
+  "valid_label": null,
+  "valid_otu": 84904,
+  "verified": false
+ },
+ "Tenuirostritermes strenuus": {
+  "label": "Tenuirostritermes strenuus (Hagen, 1860)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84905,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84905/overview",
+  "valid_label": null,
+  "valid_otu": 84905,
+  "verified": false
+ },
+ "Tenuirostritermes tenuirostris": {
+  "label": "Tenuirostritermes tenuirostris (Desneux, 1904)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84906,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84906/overview",
+  "valid_label": null,
+  "valid_otu": 84906,
+  "verified": false
+ }
+}

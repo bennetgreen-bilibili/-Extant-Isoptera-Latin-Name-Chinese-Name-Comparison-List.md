@@ -1,0 +1,78 @@
+{
+ "book_n": "218",
+ "book_name": "丘额杆白蚁 Sty lotermes",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "丘额干白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.49",
+     "value": "2.30–2.65"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.63",
+     "value": "1.59–1.67"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.32",
+     "value": "1.29–1.34"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.45",
+     "value": "0.43–0.48"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.48",
+     "value": "0.46–0.51"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.65",
+     "value": "1.59–1.72"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "2.00",
+     "value": "1.85–2.20"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.61",
+     "value": "0.58–0.66"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.24",
+     "value": "0.20–0.28"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.69",
+     "value": "0.66–0.71"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.33",
+     "value": "1.27–1.37"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.31",
+     "value": "1.19–1.37"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 443,
+   "unit": "mm"
+  }
+ ]
+}

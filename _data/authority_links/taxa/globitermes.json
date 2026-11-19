@@ -1,0 +1,198 @@
+{
+ "Globitermes brachycerastes": {
+  "gbif": {
+   "key": 9787528,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Globitermes brachycerastes Han, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KHN5",
+   "status": "accepted",
+   "label": "Globitermes brachycerastes Han, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251700",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Globitermes globosus": {
+  "gbif": {
+   "key": 9685128,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Globitermes globosus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KHN6",
+   "status": "accepted",
+   "label": "Globitermes globosus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251702",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Globitermes globosus depilis": {
+  "gbif": {
+   "key": 9819937,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Globitermes globosus depilis (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L246M",
+   "status": "accepted",
+   "label": "Globitermes globosus depilis (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Globitermes globosus globosus": {
+  "gbif": {
+   "key": 9735713,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Globitermes globosus globosus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L246N",
+   "status": "accepted",
+   "label": "Globitermes globosus globosus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Globitermes menglaensis": {
+  "gbif": {
+   "key": 9704127,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Globitermes menglaensis Zhu & Huang, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KHMN",
+   "status": "accepted",
+   "label": "Globitermes menglaensis Huang & Zhu, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251703",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Globitermes mengpengensis": {
+  "gbif": {
+   "key": 9654507,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Globitermes mengpengensis Huang & Zhu, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KHMP",
+   "status": "accepted",
+   "label": "Globitermes mengpengensis Zhu & Huang, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251704",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Globitermes minor": {
+  "gbif": {
+   "key": 9767480,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Globitermes minor Han, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KHMQ",
+   "status": "accepted",
+   "label": "Globitermes minor Han, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251705",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Globitermes sulphureus": {
+  "gbif": {
+   "key": 9716217,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Globitermes sulphureus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KHN2",
+   "status": "accepted",
+   "label": "Globitermes sulphureus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q4039502",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Globitermes vadaensis": {
+  "gbif": {
+   "key": 9735486,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Globitermes vadaensis Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KHMJ",
+   "status": "accepted",
+   "label": "Globitermes vadaensis Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251707",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

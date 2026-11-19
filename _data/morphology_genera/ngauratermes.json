@@ -1,0 +1,25 @@
+{
+ "zh_name": "凋落白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "亚马逊落叶层中生活的一属，属名取自 Ticuna 语 ngau'ra（落叶）。兵蚁与工蚁均为二型，有翅成虫至今未知。原作者指出本属与 Tenuirostritermes、Diversitermes、Velocitermes 所构成的类群有许多相似之处，尤近后二属。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "二型。上颚具明显齿突；触角 13 节；象鼻基部狭窄，近圆柱形。大型兵蚁头壳宽阔，触角后方略收缩，两侧向前收窄；小型兵蚁头壳狭长，触角后方收缩显著。胫节距 2:2:2。"
+  },
+  {
+   "label": "工蚁",
+   "text": "二型，分窄隙型与宽隙型，两型体型重叠，不能按大、小型工蚁划分；宽隙型比例很低，模式系列 103 头工蚁中仅 6 头，左颚指数 0.32。工蚁触角 14 节，第 4 节很短且未硬化；左颚指数 0.35；臼齿板宽阔、凹陷、脊弱。P1 简单管状，无端环；肠瓣锥形、弯曲，位于后部，自背左侧插入 P3，骨化弱，具两圈刺。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0096",
+   "citation": "Constantino, R. & Acioli, A. N. S. 2009. Ngauratermes arue, new genus and species of nasute termite (Isoptera: Termitidae) from the Amazon. Zootaxa 2239: 22–30.",
+   "locator": "pp. 23–26（属级 treatment）"
+  }
+ ],
+ "note": "原作者明记 Imago. Unknown.，故不设有翅成虫一节。兵蚁、工蚁性状均出自属级 treatment；与 Tenuirostritermes、Diversitermes、Velocitermes 的比较见同文 Comparisons 段。"
+}

@@ -1,0 +1,29 @@
+{
+ "zh_name": "刻痕白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "单型属，仅 Crenetermes albotarsalis (Sjöst.) 一种，产喀麦隆与刚果；异名包括 Eutermes albotarsalis Sjöst. 与文献中的 Suleitermes Wasm.（未刊名）。有翅成虫头近方形、触角 16 节且第 3 节短；兵蚁头矩形、长大于宽，上唇近方形且强烈具沟，上颚与 Thoracotermes 同型，触角 15 节；工蚁全体白色，头长大于宽，上颚具大端齿。Holmgren 指出本属属 Mirotermes 系，但兵蚁上颚为 Termes 式齿、额腺孔外露而不位于额隆之下，与 Mirotermes 各亚属及 Thoracotermes 均不同。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头宽约等于长。复眼小，突出。单眼与复眼相距约其直径。唇基基部比额部明亮，很大，略长于其半宽（9∶8.5），极强隆起；因唇基基部展开，头的颚部显得短。上颚第 1 齿大。触角 16 节，第 3 节短。中胸背板后缘的凹口比后胸背板宽。翅色深，翅膜具细密小刺点（原文作 »punktiert«）。前翅中脉自翅鳞之后独立伸出。前足胫节 3 个端刺，中、后足胫节各 2 个。尾须短。无刺突。原文并附记：在一头雄性若虫上曾见退化的刺突。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头长大于宽，四角形，向前略收窄，相当隆起，前缘斜截。额腺孔位于倾斜额部的边缘，相当小，但密被毛环绕。唇基基部完全平坦，略短于其半宽。上唇近方形，向外略变宽，强烈具沟；前缘中部略凹入，侧角仅不明显地尖锐，角朝前。上颚与 Thoracotermes 相同。触角 15 节，第 3 节短。前胸背板深鞍形，小。胫节刺式同有翅成虫。无刺突。"
+  },
+  {
+   "label": "工蚁",
+   "text": "全体呈白色。头长大于宽。唇基基部约与其半宽等长，强烈隆起。上颚具大的端齿。触角 15 节，第 3 节短。前胸背板深鞍形。胫节刺式与刺突情况同前（无刺突）。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren, N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familien Mastotermitidae, Protermitidae und Mesotermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166, Taf. 1–4.",
+   "locator": "p. 101（archive.org 项 biostor-184513 页面图像）"
+  }
+ ],
+ "note": "描述据 Holmgren 1912 原文（archive.org 项 biostor-184513 的页面图像，pp. 101—102）。中文属名未定，zh_name 暂用拉丁名加中文通名形式，待上层核定。原文只知一种 Crenetermes albotarsalis (Sjöst.)，喀麦隆与刚果；p. 102 全为与 Mirotermes 系的系统关系讨论，未含形态描述，故未取用。"
+}

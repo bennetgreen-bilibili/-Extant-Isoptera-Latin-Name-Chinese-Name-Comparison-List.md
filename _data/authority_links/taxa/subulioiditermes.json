@@ -1,0 +1,68 @@
+{
+ "Subulioiditermes borneensis": {
+  "gbif": {
+   "key": 9696800,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Subulioiditermes borneensis (Ahmad, 1968)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7B3YR",
+   "status": "accepted",
+   "label": "Subulioiditermes borneensis (Ahmad, 1968)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073793",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Subulioiditermes emersoni": {
+  "gbif": {
+   "key": 9673370,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Subulioiditermes emersoni Ahmad, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "53DSV",
+   "status": "accepted",
+   "label": "Subulioiditermes emersoni Ahmad, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073792",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Subulioiditermes subulioides": {
+  "gbif": {
+   "key": 9723575,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Subulioiditermes subulioides Ahmad, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "53DSW",
+   "status": "accepted",
+   "label": "Subulioiditermes subulioides Ahmad, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073791",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

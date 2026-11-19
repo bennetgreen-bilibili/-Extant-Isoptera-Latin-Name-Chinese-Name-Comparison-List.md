@@ -1,0 +1,27 @@
+{
+ "latin": "Mycterotermes",
+ "zh": "鸟嘴白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Mycterotermes Sands, 1965c: 75.",
+ "type_species": "Mycterotermes meringocephalus Sands, 1965 by original designation.",
+ "references": [
+  {
+   "ref": "Bouillon and Mathot, 1966: 3",
+   "note": "Mycterotermes; key; species included."
+  },
+  {
+   "ref": "Morimoto, 1975b: 26",
+   "note": "Mycterotermes; key."
+  },
+  {
+   "ref": "Chhotani and Bose, 1991: 263",
+   "note": "Mycterotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 27, 43, 284–286, figs. 1428–1434",
+   "note": "Mycterotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 6
+}

@@ -1,0 +1,115 @@
+{
+ "book_n": "2",
+ "book_name": "狭背堆砂白蚊 Cryptotermes angustinotus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "狭背堆砂白蚁9个兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.83",
+     "value": "1.70–1.95"
+    },
+    {
+     "key": "head_width",
+     "mean": "1.25",
+     "value": "1.22–1.31"
+    },
+    {
+     "key": "head_height",
+     "mean": "0.89",
+     "value": "0.84–0.96"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.72",
+     "value": "0.70–0.75"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.23",
+     "value": "1.19–1.24"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.78",
+     "value": "0.70–0.86"
+    }
+   ],
+   "src_file": "101-200.txt",
+   "src_line": 1157,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "狭背堆砂白蚁6个有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "forewing_length",
+     "mean": "6.10",
+     "value": "5.86–6.19"
+    },
+    {
+     "key": "head_length_labrum_tip",
+     "mean": "1.29",
+     "value": "1.25–1.33"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.03",
+     "value": "0.99–1.06"
+    },
+    {
+     "key": "eye_long_diameter",
+     "mean": "0.29",
+     "value": "0.28–0.31"
+    },
+    {
+     "key": "eye_short_diameter",
+     "mean": "0.25",
+     "value": "0.24–0.26"
+    },
+    {
+     "key": "ocellus_length",
+     "mean": "0.09",
+     "value": "0.08–0.10"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "mean": "1.02",
+     "value": "1.00–1.04"
+    },
+    {
+     "key": "eye_head_lower_margin",
+     "mean": "0.19",
+     "value": "0.17–0.22"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.59",
+     "value": "0.58–0.61"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.00",
+     "value": "0.97–1.02"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.80",
+     "value": "0.75–0.85"
+    }
+   ],
+   "src_file": "101-200.txt",
+   "src_line": 1165,
+   "unit": "mm"
+  }
+ ]
+}

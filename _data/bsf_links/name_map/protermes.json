@@ -1,0 +1,57 @@
+{
+ "Protermes hirticeps": {
+  "label": "Protermes hirticeps Sjöstedt, 1924",
+  "match": "exact",
+  "notes": "",
+  "otu": 83874,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83874/overview",
+  "valid_label": null,
+  "valid_otu": 83874,
+  "verified": false
+ },
+ "Protermes minimus": {
+  "label": "Protermes minimus Ruelle, 1971",
+  "match": "exact",
+  "notes": "",
+  "otu": 83875,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83875/overview",
+  "valid_label": null,
+  "valid_otu": 83875,
+  "verified": false
+ },
+ "Protermes minutus": {
+  "label": "Protermes minutus (Grassé, 1937)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83876,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83876/overview",
+  "valid_label": null,
+  "valid_otu": 83876,
+  "verified": false
+ },
+ "Protermes mwekerae": {
+  "label": "Protermes mwekerae Ruelle, 1971",
+  "match": "exact",
+  "notes": "",
+  "otu": 83877,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83877/overview",
+  "valid_label": null,
+  "valid_otu": 83877,
+  "verified": false
+ },
+ "Protermes prorepens": {
+  "label": "Protermes prorepens (Sjöstedt, 1907)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83878,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83878/overview",
+  "valid_label": null,
+  "valid_otu": 83878,
+  "verified": false
+ }
+}

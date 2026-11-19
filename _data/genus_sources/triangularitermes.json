@@ -1,0 +1,23 @@
+{
+ "latin": "Triangularitermes",
+ "zh": "三角白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Triangularitermes Mathews, 1977: 202.",
+ "type_species": "Triangularitermes triangulariceps Mathews, 1977 by original designation.",
+ "references": [
+  {
+   "ref": "Mill, 1983a: 183, 188",
+   "note": "Triangularitermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Constantino, 1999a: 404, 413",
+   "note": "Triangularitermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 12",
+   "note": "Triangularitermes; key."
+  }
+ ],
+ "nrefs": 9
+}

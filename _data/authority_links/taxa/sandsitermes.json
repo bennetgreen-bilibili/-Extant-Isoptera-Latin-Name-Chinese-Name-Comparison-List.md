@@ -1,0 +1,26 @@
+{
+ "Sandsitermes robustus": {
+  "gbif": {
+   "key": 8720585,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sandsitermes robustus (Holmgren) Holmgren",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": null,
+   "label": null,
+   "type": "none",
+   "rank": null,
+   "accepted": null
+  },
+  "wd": "Q28669388",
+  "flags": [
+   "col_missing"
+  ],
+  "_d": "2026-10-28"
+ }
+}

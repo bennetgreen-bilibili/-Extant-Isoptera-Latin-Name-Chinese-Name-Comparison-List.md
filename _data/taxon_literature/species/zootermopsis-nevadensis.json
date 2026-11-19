@@ -1,0 +1,48 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "品级特异的 DNA 甲基化与科级归属",
+   "heading_en": "Caste-specific DNA methylation and family placement",
+   "heading_es": "Metilación del ADN específica de casta y adscripción familiar",
+   "paragraphs": [
+    {
+     "src": [
+      "S0134"
+     ],
+     "text": "根据 Glastad 等（2016）研究，用重亚硫酸盐测序分析内华达动白蚁（<i>Zootermopsis nevadensis</i>）雌雄与各品级的 DNA 甲基化，合并样本中超过 12% 的基因组 CpG 与 58% 的外显子 CpG 被甲基化，外显子 CpG 的平均甲基化比例为 44.1%，77.6% 的基因在外显子与内含子区域具显著甲基化。",
+     "text_en": "According to Glastad et al. (2016), bisulfite sequencing of DNA methylation across sexes and castes of <i>Zootermopsis nevadensis</i> showed that in pooled samples more than 12% of genomic CpGs and 58% of exonic CpGs were methylated, the mean methylation fraction across exonic CpGs was 44.1%, and 77.6% of genes carried significant methylation in exons and introns.",
+     "text_es": "Según Glastad et al. (2016), la secuenciación con bisulfito de la metilación del ADN en ambos sexos y en las distintas castas de <i>Zootermopsis nevadensis</i> mostró que en las muestras agrupadas más del 12% de los CpG genómicos y el 58% de los CpG exónicos estaban metilados, la fracción media de metilación de los CpG exónicos fue del 44,1% y el 77,6% de los genes presentaba metilación significativa en exones e intrones."
+    },
+    {
+     "src": [
+      "S0134"
+     ],
+     "text": "该研究还发现内华达动白蚁（<i>Zootermopsis nevadensis</i>）的甲基化在品级间差异强烈，甲基化基因倾向于均匀且高水平表达，差异甲基化基因更常发生可变剪接并富集发育相关功能。",
+     "text_en": "The study also found strong caste differences in methylation in <i>Zootermopsis nevadensis</i>, with methylated genes tending to be uniformly and highly expressed and differentially methylated genes more often alternatively spliced and enriched for development-related functions.",
+     "text_es": "El estudio también halló fuertes diferencias de metilación entre castas en <i>Zootermopsis nevadensis</i>, con genes metilados que tienden a expresarse de forma uniforme y elevada y genes con metilación diferencial más frecuentemente sometidos a empalme alternativo y enriquecidos en funciones del desarrollo."
+    },
+    {
+     "src": [
+      "S0196"
+     ],
+     "text": "据摘要，Wang 等（2022）基于 27 个样本的核 rRNA 基因与线粒体基因组确认 Teletisoptera 为单系，胄白蚁科（Stolotermitidae）约在 1 亿年前与草白蚁科（Hodotermitidae）加古白蚁科（Archotermopsidae）分化；古白蚁科为并系，作者将其限定为古白蚁属（<i>Archotermopsis</i>）与动白蚁属（<i>Zootermopsis</i>）。",
+     "text_en": "According to the abstract, Wang et al. (2022) used nuclear rRNA genes and mitochondrial genomes of 27 samples to confirm the monophyly of Teletisoptera, with Stolotermitidae diverging from Hodotermitidae plus Archotermopsidae about 100 Ma; Archotermopsidae proved paraphyletic and was restricted to <i>Archotermopsis</i> and <i>Zootermopsis</i>.",
+     "text_es": "Según el resumen, Wang et al. (2022) emplearon genes nucleares de ARNr y genomas mitocondriales de 27 muestras para confirmar la monofilia de Teletisoptera, con Stolotermitidae separándose de Hodotermitidae más Archotermopsidae hace unos 100 Ma; Archotermopsidae resultó parafilética y quedó restringida a <i>Archotermopsis</i> y <i>Zootermopsis</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0134",
+   "citation": "Glastad K. M.; Gokhale K.; Liebig J.; Goodisman M. A. D. 2016. The caste- and sex-specific DNA methylome of the termite Zootermopsis nevadensis. Scientific Reports 6: 37110.",
+   "doi": "10.1038/srep37110"
+  },
+  {
+   "id": "S0196",
+   "citation": "Wang M.; Hellemans S.; Šobotník J.; et al. 2022. Phylogeny, biogeography and classification of Teletisoptera (Blattaria: Isoptera). Systematic Entomology.",
+   "doi": "10.1111/syen.12548"
+  }
+ ]
+}

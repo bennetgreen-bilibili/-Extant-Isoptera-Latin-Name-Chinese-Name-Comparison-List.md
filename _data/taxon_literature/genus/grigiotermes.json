@@ -1,0 +1,40 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "橡胶林中的丰度与属的建立",
+   "heading_en": "Abundance in Rubber Plantations and Establishment of the Genus",
+   "heading_es": "Abundancia en plantaciones de caucho y establecimiento del género",
+   "paragraphs": [
+    {
+     "src": [
+      "S0285"
+     ],
+     "text": "根据 Pinzón 等（2012）研究，哥伦比亚 2 年以上橡胶林的土壤有机层中，灰白蚁属（<i>Grigiotermes</i>）的相对丰度为 20.8%，仅次于解甲白蚁属（<i>Anoplotermes</i>，31%），高于凸背异白蚁（<i>Heterotermes convexinotatus</i>，11.6%）；在 80 个样段的全部相遇记录中，三者分别占 34%、30% 与 26%，且在各林龄与多数微生境中出现（木板与纸板饵除外）。",
+     "text_en": "According to Pinzón et al. (2012), in the soil organic layer of rubber plantations more than 2 years old in Colombia, the relative abundance of <i>Grigiotermes</i> was 20.8%, second only to <i>Anoplotermes</i> (31%) and higher than <i>Heterotermes convexinotatus</i> (11.6%); among all encounter records from 80 transect sections the three accounted for 34%, 30% and 26% respectively, and they occurred at all plantation ages and in most microhabitats (except wooden board and cardboard baits).",
+     "text_es": "Según Pinzón et al. (2012), en la capa orgánica del suelo de plantaciones de caucho de más de 2 años en Colombia, la abundancia relativa de <i>Grigiotermes</i> fue del 20,8 %, solo superada por <i>Anoplotermes</i> (31 %) y superior a la de <i>Heterotermes convexinotatus</i> (11,6 %); en todos los registros de encuentro de 80 secciones de muestreo los tres representaron el 34 %, el 30 % y el 26 %, respectivamente, y aparecieron en todas las edades de plantación y en la mayoría de los microhábitats (excepto en los cebos de tablero de madera y de cartón)."
+    },
+    {
+     "src": [
+      "S0300"
+     ],
+     "text": "根据 Carrijo 等（2015）研究，Mathews 于 1977 年建立灰白蚁属（<i>Grigiotermes</i>）与腹爆白蚁属（<i>Ruptitermes</i>）；在此之前，新热带的尖白蚁亚科（<i>Apicotermitinae</i>）全部归入解甲白蚁属（<i>Anoplotermes</i>）一属（据摘要）。",
+     "text_en": "According to Carrijo et al. (2015), Mathews established <i>Grigiotermes</i> and <i>Ruptitermes</i> in 1977; before that, all Neotropical <i>Apicotermitinae</i> were placed in the single genus <i>Anoplotermes</i> (according to the abstract).",
+     "text_es": "Según Carrijo et al. (2015), Mathews estableció <i>Grigiotermes</i> y <i>Ruptitermes</i> en 1977; antes de ello, todos los <i>Apicotermitinae</i> neotropicales se incluían en el único género <i>Anoplotermes</i> (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0285",
+   "citation": "Olga Patricia Pinzón; Ana María Hernández; LEONARDO ANDRÉS MALAGÓN. 2012. Diversity of Termites (Isoptera: Termitidae, Rhinotermitidae) in Rubber-Tree Plantations in Puerto López (Meta, Colombia). SAGE Publications.",
+   "doi": "10.25100/socolen.v38i2.9009"
+  },
+  {
+   "id": "S0300",
+   "citation": "Carrijo, T. F.; Scheffrahn, R. H.; Jan Křeček. 2015. Compositermes bani sp.n. (Isoptera, Termitidae, Apicotermitinae), a new species of soldierless termite from Bolivia. Zootaxa.",
+   "doi": "10.11646/zootaxa.3941.2.10"
+  }
+ ]
+}

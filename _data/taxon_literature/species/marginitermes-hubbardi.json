@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "新北区西南部的同属种",
+   "heading_en": "A congener of the south-western Nearctic",
+   "heading_es": "Un congénere del suroeste del Neártico",
+   "paragraphs": [
+    {
+     "src": [
+      "S0326"
+     ],
+     "text": "根据 Scheffrahn 与 Postle（2013）研究，哈伯德边白蚁（<i>Marginitermes hubbardi</i>）的分布区为新北区西南部；作者在描述新种时指出，该种的体型小于遥远边白蚁（<i>Marginitermes absitus</i>）（据摘要）。",
+     "text_en": "According to Scheffrahn and Postle (2013), the range of <i>Marginitermes hubbardi</i> is the south-western Nearctic; in describing the new species the authors note that this species is smaller than <i>Marginitermes absitus</i> (according to the abstract).",
+     "text_es": "Según Scheffrahn y Postle (2013), el área de <i>Marginitermes hubbardi</i> es el suroeste del Neártico; al describir la especie nueva, los autores señalan que esta especie es menor que <i>Marginitermes absitus</i> (según el resumen)."
+    }
+   ]
+  },
+  {
+   "heading": "1997 年的形态图示",
+   "heading_en": "Morphological illustrations of 1997",
+   "heading_es": "Ilustraciones morfológicas de 1997",
+   "paragraphs": [
+    {
+     "text": "据摘要，哈伯德边白蚁（<i>Marginitermes hubbardi</i>）在 Myles（1997）对边白蚁属（<i>Marginitermes</i>）的重新描述中与食刺边白蚁（<i>Marginitermes cactiphagus</i>）并列图示，比较部位为兵蚁头壳、上颚、触角、上唇、后颏与前胸背板；该种与食刺边白蚁一样生活在柱状仙人掌的枯死骨架及其他树种木材中。",
+     "text_en": "According to the abstract, <i>Marginitermes hubbardi</i> was illustrated side by side with <i>Marginitermes cactiphagus</i> in the redescription of <i>Marginitermes</i> by Myles (1997), the parts compared being the soldier head capsule, mandibles, antennae, labrum, postmentum and pronotum; like <i>Marginitermes cactiphagus</i>, the species lives in the dead skeletons of columnar cacti and in the wood of other tree species.",
+     "text_es": "Según el resumen, <i>Marginitermes hubbardi</i> fue ilustrada junto a <i>Marginitermes cactiphagus</i> en la redescripción de <i>Marginitermes</i> de Myles (1997), comparándose la cápsula cefálica, las mandíbulas, las antenas, el labro, el postmentón y el pronoto del soldado; al igual que <i>Marginitermes cactiphagus</i>, la especie vive en los esqueletos muertos de cactus columnares y en la madera de otras especies arbóreas.",
+     "src": [
+      "S0357"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0326",
+   "citation": "Scheffrahn, R. H.; Postle, A. C. 2013. New termite species and newly recorded genus for Australia: Marginitermes absitus (Isoptera: Kalotermitidae). Australian Journal of Entomology.",
+   "url": "https://doi.org/10.1111/aen.12023"
+  },
+  {
+   "id": "S0357",
+   "citation": "Myles, T. G. 1997. A second species of the drywood termite genus Marginitermes (Isoptera: Kalotermitidae). The Canadian Entomologist.",
+   "url": "https://doi.org/10.4039/ent129757-4"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "Hydrecotermes arienesho": {
+  "gbif": {
+   "key": 10730276,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hydrecotermes arienesho Bourguignon & Roisin, 2016",
+   "accepted": null
+  },
+  "col": {
+   "id": "DLV5M",
+   "status": "accepted",
+   "label": "Hydrecotermes arienesho Bourguignon & Roisin, 2016",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hydrecotermes kawaii": {
+  "gbif": {
+   "key": 10893554,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hydrecotermes kawaii Bourguignon & Roisin, 2016",
+   "accepted": null
+  },
+  "col": {
+   "id": "DLV5N",
+   "status": "accepted",
+   "label": "Hydrecotermes kawaii Bourguignon & Roisin, 2016",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

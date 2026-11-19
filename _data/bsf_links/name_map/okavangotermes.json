@@ -1,0 +1,24 @@
+{
+ "Okavangotermes giessi": {
+  "label": "Okavangotermes giessi Coaton, 1971",
+  "match": "exact",
+  "notes": "",
+  "otu": 85105,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85105/overview",
+  "valid_label": null,
+  "valid_otu": 85105,
+  "verified": false
+ },
+ "Okavangotermes guineensis": {
+  "label": "Okavangotermes guineensis Sands, 1995",
+  "match": "exact",
+  "notes": "",
+  "otu": 85106,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85106/overview",
+  "valid_label": null,
+  "valid_otu": 85106,
+  "verified": false
+ }
+}

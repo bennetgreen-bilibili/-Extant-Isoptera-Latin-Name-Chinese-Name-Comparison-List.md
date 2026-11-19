@@ -1,0 +1,50 @@
+{
+ "Muelleritermes fritzi": {
+  "gbif": {
+   "key": 8522617,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Muelleritermes fritzi Cancello, Oliveira & Rocha",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": null,
+   "label": null,
+   "type": "none",
+   "rank": null,
+   "accepted": null
+  },
+  "wd": "Q140746828",
+  "flags": [
+   "col_missing"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Muelleritermes globiceps": {
+  "gbif": {
+   "key": 8547321,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Muelleritermes globiceps Cancello, Oliveira & Rocha",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": null,
+   "label": null,
+   "type": "none",
+   "rank": null,
+   "accepted": null
+  },
+  "wd": "Q140727541",
+  "flags": [
+   "col_missing"
+  ],
+  "_d": "2026-10-28"
+ }
+}

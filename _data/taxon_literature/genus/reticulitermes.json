@@ -1,0 +1,73 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "属级组成：散白蚁属旧名 Reticulitermes santonensis 的异名化",
+   "paragraphs": [
+    {
+     "text": "据摘要，Austin 等（2005）分析 434 个散白蚁属（Reticulitermes）种群的 16S rRNA，发现北美散白蚁（Reticulitermes flavipes）与散白蚁属旧名 Reticulitermes santonensis 的序列完全相同，单倍型 F、M、GG 在法国、德国及南美和复活节岛等地出现；该研究据此把散白蚁属旧名 Reticulitermes santonensis 归入北美散白蚁，使散白蚁属的欧洲独立种名单减少一个。",
+     "src": [
+      "S0144"
+     ],
+     "text_en": "According to the abstract, Austin et al. (2005) analysed the 16S rRNA of 434 Reticulitermes populations and found that the sequences of Reticulitermes flavipes and Reticulitermes santonensis (an old name in Reticulitermes) are completely identical, with haplotypes F, M and GG occurring in France, Germany, South America, Easter Island and elsewhere; on this basis the study placed Reticulitermes santonensis in synonymy with Reticulitermes flavipes, reducing the list of distinct European species in Reticulitermes by one.",
+     "text_es": "Según el resumen, Austin et al. (2005) analizaron el 16S rRNA de 434 poblaciones de Reticulitermes y encontraron que Reticulitermes flavipes y Reticulitermes santonensis presentan secuencias idénticas; los haplotipos F, M y GG aparecen en Francia, Alemania, América del Sur y la isla de Pascua. Sobre esa base, el estudio incluye Reticulitermes santonensis en Reticulitermes flavipes y reduce en una especie la lista de especies europeas independientes del género."
+    }
+   ],
+   "heading_en": "Genus-level composition: synonymisation of the old Reticulitermes name Reticulitermes santonensis",
+   "heading_es": "Composición del género: sinonimización de Reticulitermes santonensis"
+  },
+  {
+   "heading": "低温分布极限与分子鉴定",
+   "heading_en": "Low-temperature distribution limits and molecular identification",
+   "heading_es": "Límites de distribución por baja temperatura e identificación molecular",
+   "paragraphs": [
+    {
+     "src": [
+      "S0247"
+     ],
+     "text": "根据 Scheffrahn 等（2015）研究，散白蚁属（<i>Reticulitermes</i>）的分布地最低年均温为加拿大不列颠哥伦比亚 Churn Creek 的 4 °C（极端最低 -40 °C），是白蚁已知最冷的分布点；其次为爱达荷州 New Meadows 的 5 °C/-45 °C（狭颈动白蚁 <i>Zootermopsis angusticollis</i>）、不列颠哥伦比亚 Dunkley 的 5.5 °C/-47 °C（内华达动白蚁 <i>Zootermopsis nevadensis</i>）与北达科他州 Amidon 的 6 °C/-40 °C（黑胫散白蚁 <i>Reticulitermes tibialis</i>）。",
+     "text_en": "According to Scheffrahn et al. (2015), the locality of <i>Reticulitermes</i> with the lowest mean annual temperature is Churn Creek, British Columbia, Canada, at 4 °C (extreme minimum -40 °C), the coldest known termite locality; next come New Meadows, Idaho, at 5 °C/-45 °C (<i>Zootermopsis angusticollis</i>), Dunkley, British Columbia, at 5.5 °C/-47 °C (<i>Zootermopsis nevadensis</i>), and Amidon, North Dakota, at 6 °C/-40 °C (<i>Reticulitermes tibialis</i>).",
+     "text_es": "Según Scheffrahn et al. (2015), la localidad de <i>Reticulitermes</i> con la temperatura media anual más baja es Churn Creek, Columbia Británica, Canadá, con 4 °C (mínima extrema de -40 °C), el punto de distribución más frío conocido para un termite; le siguen New Meadows, Idaho, con 5 °C/-45 °C (<i>Zootermopsis angusticollis</i>), Dunkley, Columbia Británica, con 5,5 °C/-47 °C (<i>Zootermopsis nevadensis</i>) y Amidon, Dakota del Norte, con 6 °C/-40 °C (<i>Reticulitermes tibialis</i>)."
+    },
+    {
+     "src": [
+      "S0280"
+     ],
+     "text": "根据 Hasnaoui 等（2022）研究，包括格拉塞散白蚁（<i>Reticulitermes grassei</i>）与暗黑散白蚁（<i>Reticulitermes lucifugus</i>）在内的 3 个形态种，其 12S rRNA 与 COI 序列与暗黑散白蚁（<i>Reticulitermes lucifugus</i>，NC_045240）的一致度为 99.5%–99.7%，在分子上无法区分。",
+     "text_en": "According to Hasnaoui et al. (2022), the 12S rRNA and COI sequences of three morphospecies, including <i>Reticulitermes grassei</i> and <i>Reticulitermes lucifugus</i>, show 99.5%–99.7% identity with those of <i>Reticulitermes lucifugus</i> (NC_045240) and cannot be distinguished molecularly.",
+     "text_es": "Según Hasnaoui et al. (2022), las secuencias de 12S rRNA y COI de tres morfoespecies, incluidas <i>Reticulitermes grassei</i> y <i>Reticulitermes lucifugus</i>, presentan una identidad del 99,5%–99,7% con las de <i>Reticulitermes lucifugus</i> (NC_045240) y no pueden distinguirse molecularmente."
+    },
+    {
+     "src": [
+      "S0246"
+     ],
+     "text": "据摘要，根据 Gile 等（2017）研究，散白蚁属（<i>Reticulitermes</i>）后肠的 <i>Spirotrichonympha</i> 属鞭毛虫并非单系，该文从 3 种散白蚁中描述了 3 个新种；该属也见于乳白蚁属（<i>Coptotermes</i>）与原白蚁属（<i>Hodotermopsis</i>），但来自这几个属的成员分别独立分支，这与「散白蚁属祖先发生过共生体区系替换」的假说一致。",
+     "text_en": "According to the abstract, Gile et al. (2017) show that the <i>Spirotrichonympha</i> flagellates of the <i>Reticulitermes</i> hindgut are not monophyletic, and the paper describes three new species from three <i>Reticulitermes</i> species; the genus also occurs in <i>Coptotermes</i> and <i>Hodotermopsis</i>, but members from these genera branch independently, consistent with the hypothesis that a replacement of the symbiont fauna took place in the ancestor of <i>Reticulitermes</i>.",
+     "text_es": "Según el resumen, Gile et al. (2017) muestran que los flagelados de <i>Spirotrichonympha</i> del intestino posterior de <i>Reticulitermes</i> no son monofiléticos, y el trabajo describe tres especies nuevas a partir de tres especies de <i>Reticulitermes</i>; el género también aparece en <i>Coptotermes</i> y <i>Hodotermopsis</i>, pero los miembros de estos géneros se separan en ramas independientes, lo que concuerda con la hipótesis de una sustitución de la fauna de simbiontes en el ancestro de <i>Reticulitermes</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0144",
+   "citation": "Austin, J. W. et al. 2005. Genetic evidence for the synonymy of two Reticulitermes species: Reticulitermes flavipes and Reticulitermes santonensis. Annals of the Entomological Society of America 98.",
+   "doi": "10.1603/0013-8746(2005)098[0395:geftso]2.0.co;2"
+  },
+  {
+   "id": "S0246",
+   "citation": "Gile, G. H.; James, E. R.; Tai, V.; Harper, J.; Merrell, T. L.; Boscaro, V.; Filip Husník; Scheffrahn, R. H.; Keeling, P. J. 2017. New Species of Spirotrichonympha from Reticulitermes and the Relationships Among Genera in Spirotrichonymphea (Parabasalia). Journal of Eukaryotic Microbiology.",
+   "doi": "10.1111/jeu.12447"
+  },
+  {
+   "id": "S0247",
+   "citation": "Scheffrahn, R. H. 2015. Global elevational, latitudinal, and climatic limits for termites and the redescription of Rugitermes laticollis Snyder (Isoptera: Kalotermitidae) from the Andean Highlands. Universidade Estadual de Feira de Santana.",
+   "doi": "10.13102/sociobiology.v62i3.793"
+  },
+  {
+   "id": "S0280",
+   "citation": "Hasnaoui, B.; Diarra, A. Z.; Jean-Michel Bérenger; Hacène Medkour; Benakhla, A.; Mediannikov, O.; Parola, P. 2022. Use of the proteomic tool MALDI-TOF MS in termite identification. Springer Science and Business Media LLC.",
+   "doi": "10.1038/s41598-021-04574-0"
+  }
+ ]
+}

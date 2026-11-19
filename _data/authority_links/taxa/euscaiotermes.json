@@ -1,0 +1,24 @@
+{
+ "Euscaiotermes primus": {
+  "gbif": {
+   "key": 9745918,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euscaiotermes primus (Silvestri, 1923)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3D8MV",
+   "status": "accepted",
+   "label": "Euscaiotermes primus (Silvestri, 1923)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225323",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

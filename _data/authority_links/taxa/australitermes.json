@@ -1,0 +1,68 @@
+{
+ "Australitermes dilucidus": {
+  "gbif": {
+   "key": 4803358,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Australitermes dilucidus (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5VXNT",
+   "status": "accepted",
+   "label": "Australitermes dilucidus (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272343",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Australitermes insignitus": {
+  "gbif": {
+   "key": 4803356,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Australitermes insignitus (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5W9NT",
+   "status": "accepted",
+   "label": "Australitermes insignitus (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272344",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Australitermes perlevis": {
+  "gbif": {
+   "key": 4803354,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Australitermes perlevis (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "67XNT",
+   "status": "accepted",
+   "label": "Australitermes perlevis (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272345",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

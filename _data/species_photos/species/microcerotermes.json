@@ -1,0 +1,28 @@
+{
+ "Microcerotermes nervosus": [
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/101957628/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/101957628/medium.jpg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Robert Webster, some rights reserved (CC BY-SA)",
+   "license": "CC BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://www.inaturalist.org/observations/63522573"
+  }
+ ],
+ "Microcerotermes peraffinis": [
+  {
+   "source": "commons",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Microcerotermes_peraffinis_nest_%28Samoa%2C_1927%29.jpg",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/84/Microcerotermes_peraffinis_nest_%28Samoa%2C_1927%29.jpg",
+   "width": 540,
+   "height": 927,
+   "credit": "Hill, Gerald F",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Microcerotermes_peraffinis_nest_(Samoa,_1927).jpg"
+  }
+ ]
+}

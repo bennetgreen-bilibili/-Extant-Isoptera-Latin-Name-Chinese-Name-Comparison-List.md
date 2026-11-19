@@ -1,0 +1,43 @@
+{
+ "latin": "Syntermes",
+ "zh": "聚白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Syntermes Holmgren, 1909b: 193 [Snyder, 1949a, Araujo, 1977, and Constantino, 1995 give the date incorrectly as 1910].",
+ "type_species": "Termes dirus Burmeister, 1839 by monotypy.",
+ "references": [
+  {
+   "ref": "Holmgren, 1912a: 11, 45, 46–48",
+   "note": "Syntermes; characters; key; species included; systematic position."
+  },
+  {
+   "ref": "Emerson, 1945: 439–441",
+   "note": "Syntermes; synonymy; characters; species included; relationships; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 18",
+   "note": "Syntermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 141–143",
+   "note": "Syntermes; synonymy; characters."
+  },
+  {
+   "ref": "Mill, 1983a: 183, 186",
+   "note": "Syntermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Fontes, 1985c: 8",
+   "note": "Syntermes; key."
+  },
+  {
+   "ref": "Constantino, 1995: 465–468",
+   "note": "Syntermes; revision; phylogeny; imago, soldier, worker characters."
+  },
+  {
+   "ref": "Constantino, 1999a: 404, 417",
+   "note": "Syntermes; key; biology; distribution."
+  }
+ ],
+ "nrefs": 35
+}

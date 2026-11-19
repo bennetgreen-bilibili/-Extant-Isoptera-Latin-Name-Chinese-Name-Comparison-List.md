@@ -1,0 +1,34 @@
+{
+ "zh_name": "疣白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "Emerson 指出，其兵蚁头壳与触角上的众多显著疣突在已知象白蚁类中独一无二，依结构与位置推测为嗅觉感器。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "后唇基中度隆起，宽为长的 2–5 倍，前缘凹入、波状；囟为淡色条纹，向后渐细并略凹陷；复眼略突出于头侧，边缘下切；头毛细密均匀，杂少数较粗刚毛；前胸背板两侧向后收窄，长小于宽的 2/3。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "单型。鼻细、圆柱形，端部收成细尖；退化上颚无端突，但轮廓具棱角；上唇前缘波状。头壳在鼻基强烈膨大、中部急剧缢缩，密布不规则小疣突，鼻基与前叶最密。触角 12–13 节，第 III–IX 或 X 节内侧各具 3 个疣突。"
+  },
+  {
+   "label": "工蚁",
+   "text": "左上颚端齿长于第 1 缘齿，二者间距大于第 1 至第 3 缘齿间距（左颚指数 1.36）；第 3 缘齿前方的切缘具缺刻；第 3 缘齿与臼突之间的间隙略宽于该缺刻，二者之间的小齿勉强可见。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0047",
+   "citation": "Sands, W. A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4. London: Trustees of the British Museum (Natural History).",
+   "locator": "pp. 156–157（Imago、Soldier、Worker 属征及讨论）"
+  },
+  {
+   "id": "S0059",
+   "citation": "Emerson, A. E. 1960. New genera on the Subulitermes branch of the Nasutitermitinae from the Ethiopian Region (Isoptera, Termitidae). American Museum Novitates 1987: 1–21.",
+   "locator": "pp. 3–5（原始描述：有翅成虫、兵蚁、工蚁）"
+  }
+ ],
+ "note": "有翅成虫仅据唯一的模式王（morphotype king）标本，上颚未解剖，Sands 故以工蚁上颚代述（p. 156）；Emerson 另记头圆卵形、复眼比例大、单眼距复眼约其宽度的 2/3、胫节距 2:2:2（p. 4）。Sands 认为这一极具特征的兵蚁品级是本属最主要的属征，并指出 Eutermellus 与 Mimeutermes 的鼻及鼻基也有类似粗糙化倾向，但程度远不及本属（p. 157）。Sands 又指出 Emerson (1960) 所绘“工蚁上颚”实为 Orthotermes depressifrons（Termitinae）标本混入，故工蚁段以 Sands 的记述为准。"
+}

@@ -1,0 +1,35 @@
+{
+ "latin": "Fastigitermes",
+ "zh": "峰白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Fastigitermes Sjöstedt, 1924b: 257.",
+ "type_species": "Eutermes jucundus Sjöstedt, 1907 by original designation.",
+ "references": [
+  {
+   "ref": "Sjöstedt, 1926d: 269",
+   "note": "Fastigitermes; reference list; soldier characters."
+  },
+  {
+   "ref": "Emerson, 1928b: 408, 419",
+   "note": "Mirotermes (Fastigitermes); key; distribution."
+  },
+  {
+   "ref": "Webb, 1961: 12",
+   "note": "Fastigitermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 30, 106, 107, pl. 21: fig. 65f",
+   "note": "Fastigitermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 38",
+   "note": "Fastigitermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 38, 243–245, figs. 1096–1113, pl. 13: fig. 5",
+   "note": "Fastigitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 12
+}

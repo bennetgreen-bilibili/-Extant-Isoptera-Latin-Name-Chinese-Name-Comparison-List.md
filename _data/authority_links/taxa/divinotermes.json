@@ -1,0 +1,68 @@
+{
+ "Divinotermes allognathus": {
+  "gbif": {
+   "key": 9748158,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Divinotermes allognathus (Mathews, 1977)",
+   "accepted": null
+  },
+  "col": {
+   "id": "36ZXH",
+   "status": "accepted",
+   "label": "Divinotermes allognathus (Mathews, 1977)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250576",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Divinotermes digitatus": {
+  "gbif": {
+   "key": 9672909,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Divinotermes digitatus Cancello & Carrijo, 2011",
+   "accepted": null
+  },
+  "col": {
+   "id": "36ZXJ",
+   "status": "accepted",
+   "label": "Divinotermes digitatus Carrijo & Cancello, 2011",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250577",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Divinotermes tuberculatus": {
+  "gbif": {
+   "key": 9666581,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Divinotermes tuberculatus Cancello & Carrijo, 2011",
+   "accepted": null
+  },
+  "col": {
+   "id": "36ZXK",
+   "status": "accepted",
+   "label": "Divinotermes tuberculatus Carrijo & Cancello, 2011",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250578",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

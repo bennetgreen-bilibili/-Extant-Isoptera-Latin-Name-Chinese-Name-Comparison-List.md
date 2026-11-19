@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "据摘要，Gay 与 Watson（1982）把昆士兰堆砂白蚁（<i>Cryptotermes queenslandis</i>）讨论为澳大利亚特有种，与吉尔里堆砂白蚁（<i>Cryptotermes gearyi</i>）、第一堆砂白蚁（<i>Cryptotermes primus</i>）、第二堆砂白蚁（<i>Cryptotermes secundus</i>）同列。",
+     "text_en": "According to the abstract, Gay and Watson (1982) treated <i>Cryptotermes queenslandis</i> as an Australian endemic, alongside <i>Cryptotermes gearyi</i>, <i>Cryptotermes primus</i> and <i>Cryptotermes secundus</i>.",
+     "text_es": "Según el resumen, Gay y Watson (1982) trataron <i>Cryptotermes queenslandis</i> como endémica de Australia, junto con <i>Cryptotermes gearyi</i>, <i>Cryptotermes primus</i> y <i>Cryptotermes secundus</i>.",
+     "src": [
+      "S0187"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0187",
+   "citation": "F. J. Gay; J. A. L. Watson 1982 The genus Cryptotermes in Australia (Isoptera : Kalotermitidae). Australian Journal of Zoology Supplementary Series.",
+   "doi": "10.1071/ajzs088"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "latin": "Ereymatermes",
+ "zh": "无名白蚁属",
+ "fetched_at": "2026-10-30T16:53:36Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W1851281157",
+   "openalex_url": "https://openalex.org/W1851281157",
+   "doi": "10.1590/s0031-10492007002300001",
+   "doi_url": "https://doi.org/10.1590/s0031-10492007002300001",
+   "title": "A new species of Ereymatermes Constantino (Isoptera, Termitidae, Nasutitermitinae) from the northeastern Atlantic Forest, Brazil",
+   "year": 2007,
+   "date": "2007-01-01",
+   "authors": [
+    "Eliana M. Cancello",
+    "Carolina Cuezzo"
+   ],
+   "venue": "Papéis Avulsos de Zoologia",
+   "type": "article",
+   "language": "en",
+   "cited_by": 7,
+   "oa_url": "http://www.scielo.br/pdf/paz/v47n23/v47a23.pdf",
+   "volume": "47",
+   "issue": "23",
+   "pages": "283-288",
+   "abstract": "Ereymatermes Constantino is a nasute genus endemic to the Neotropical region, which included Ereymatermes rotundiceps Constantino from the forest of the lower Japurá River, AM, Brazil, and E. panamensis Roisin from the Panama Canal area. Herein Ereymatermes piquira, a new species from the northeastern Atlantic Forest, is described and illustrated based on the soldier and worker castes. The meaning of the two types of workers (\"worker with broad gap\" and \"worker with narrow gap\") and its relation to feeding habits are discussed.",
+   "abstract_source": "openalex",
+   "abstract_chars": 533,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2742861956",
+   "openalex_url": "https://openalex.org/W2742861956",
+   "doi": "10.5281/zenodo.15885896",
+   "doi_url": "https://doi.org/10.5281/zenodo.15885896",
+   "title": "Ereymatermes rotundiceps, new genus and species of termite from the Amazon Basin (Isoptera, Termitidae, Nasutitermitinae)",
+   "year": 1991,
+   "date": "1991-12-20",
+   "authors": [
+    "Reginaldo Constantino"
+   ],
+   "venue": "Biodiversity Heritage Library (Smithsonian Institution)",
+   "type": "article",
+   "language": "en",
+   "cited_by": 7,
+   "oa_url": "https://doi.org/10.5281/zenodo.15885896",
+   "volume": "8",
+   "issue": "",
+   "pages": "1-11",
+   "abstract": "(Uploaded by Plazi from the Biodiversity Heritage Library) No abstract provided.",
+   "abstract_source": "openalex",
+   "abstract_chars": 80,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W4312849199",
+   "openalex_url": "https://openalex.org/W4312849199",
+   "doi": "10.1590/1809-4392202201031",
+   "doi_url": "https://doi.org/10.1590/1809-4392202201031",
+   "title": "First record of Ereymatermes rotundiceps (Termitidae: Nasutitermitinae) as inquiline of Embiratermes neotenicus (Termitidae: Syntermitinae) in the Colombian Amazon",
+   "year": 2022,
+   "date": "2022-09-01",
+   "authors": [
+    "Ervin Humprey Durán Bautista",
+    "MARÍA FERNANDA BERMÚDEZ HIGINIO",
+    "Fernando CELIS-DAZA"
+   ],
+   "venue": "Acta Amazonica",
+   "type": "article",
+   "language": "en",
+   "cited_by": 1,
+   "oa_url": "https://www.scielo.br/j/aa/a/X4ww9zJwY49SLxr7Vr3cLTK/?lang=en&format=pdf",
+   "volume": "52",
+   "issue": "3",
+   "pages": "232-235",
+   "abstract": "We report, for the first time, the presence of the termite Ereymatermes rotundiceps Constantino, 1991 as an inquiline of the termite Embiratermes neotenicus (Holmgren, 1906) in the Colombian Amazon, and provide new morphometric information on the species. Soldiers of E. rotundiceps were collected in epigeal nests built by E. neotenicus in pastures during the transition from the dry to the rainy season. The association between host and inquiline termites does not seem to be antagonistic, but the relationship between these two species still needs to be clarified.",
+   "abstract_source": "openalex",
+   "abstract_chars": 567,
+   "abstract_truncated": false
+  }
+ ]
+}

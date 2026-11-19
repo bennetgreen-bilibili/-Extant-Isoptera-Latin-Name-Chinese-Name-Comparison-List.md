@@ -1,0 +1,35 @@
+{
+ "Allodontermes rhodesiensis": {
+  "label": "Allodontermes rhodesiensis (Sjöstedt, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83490,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83490/overview",
+  "valid_label": null,
+  "valid_otu": 83490,
+  "verified": false
+ },
+ "Allodontermes schultzei": {
+  "label": "Allodontermes schultzei (Silvestri, 1908)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83491,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83491/overview",
+  "valid_label": null,
+  "valid_otu": 83491,
+  "verified": false
+ },
+ "Allodontermes tenax": {
+  "label": "Allodontermes tenax (Silvestri, 1912)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83492,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83492/overview",
+  "valid_label": null,
+  "valid_otu": 83492,
+  "verified": false
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "多鞭毛精子的超微结构",
+   "paragraphs": [
+    {
+     "text": "据摘要，Baccetti 与 Dallai（1978）描述达尔文澳白蚁（Mastotermes darwiniensis）的精子，这是动物中首个多鞭毛精子实例：精子由锥形头部和 100 条鞭毛组成，无顶体，中心粒含二联微管而非三联微管，轴丝缺中央微管且二联体仅具单臂，鞭毛运动微弱。",
+     "src": [
+      "S0175"
+     ],
+     "text_en": "According to the abstract, Baccetti and Dallai (1978) described the spermatozoon of Mastotermes darwiniensis, the first example of a multiflagellate spermatozoon in animals: the sperm consists of a conical head and 100 flagella, lacks an acrosome, its centriole contains doublet rather than triplet microtubules, the axoneme lacks central microtubules and its doublets have only a single arm, and flagellar motility is weak.",
+     "text_es": "Según el resumen, Baccetti y Dallai (1978) describieron el espermatozoide de Mastotermes darwiniensis, primer caso de espermatozoide multiflagelado conocido en animales: consta de una cabeza cónica y 100 flagelos, carece de acrosoma, el centríolo contiene microtúbulos dobles y no triples, el axonema carece de microtúbulos centrales, los dobletes presentan un solo brazo y el movimiento flagelar es débil."
+    }
+   ],
+   "heading_en": "Ultrastructure of the multiflagellate spermatozoon",
+   "heading_es": "Ultraestructura del espermatozoide multiflagelado"
+  },
+  {
+   "heading": "肠道固氮菌",
+   "heading_en": "Gut nitrogen-fixing bacteria",
+   "heading_es": "Bacterias fijadoras de nitrógeno del intestino",
+   "paragraphs": [
+    {
+     "src": [
+      "S0001"
+     ],
+     "text": "根据 French 等（1976）研究，从达尔文澳白蚁（<i>Mastotermes darwiniensis</i>）的肠道中分离出弗氏柠檬酸杆菌（<i>Citrobacter freundii</i>）的固氮菌株。",
+     "text_en": "According to French et al. (1976), nitrogen-fixing strains of <i>Citrobacter freundii</i> were isolated from the gut of <i>Mastotermes darwiniensis</i>.",
+     "text_es": "Según French et al. (1976), se aislaron cepas fijadoras de nitrógeno de <i>Citrobacter freundii</i> del intestino de <i>Mastotermes darwiniensis</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0175",
+   "citation": "Baccetti, B.; Dallai, R. 1978. The spermatozoon of arthropoda. XXX. The multiflagellate spermatozoon in the termite Mastotermes darwiniensis. Journal of Cell Biology 76(3).",
+   "doi": "10.1083/jcb.76.3.569"
+  },
+  {
+   "id": "S0001",
+   "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "Pilotermes langi": {
+  "gbif": {
+   "key": 9758834,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pilotermes langi Emerson, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "4HVJS",
+   "status": "accepted",
+   "label": "Pilotermes langi Emerson, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077279",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

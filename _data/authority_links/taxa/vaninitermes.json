@@ -1,0 +1,44 @@
+{
+ "Vaninitermes brevinasus": {
+  "gbif": {
+   "key": 11892275,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Vaninitermes brevinasus (Emerson & Banks, 1957)",
+   "accepted": null
+  },
+  "col": {
+   "id": "9X5Q5",
+   "status": "accepted",
+   "label": "Vaninitermes brevinasus (Emerson & Banks, 1957)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Vaninitermes ignotus": {
+  "gbif": {
+   "key": 11492789,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Vaninitermes ignotus (Constantino, 1991)",
+   "accepted": null
+  },
+  "col": {
+   "id": "9X5Q7",
+   "status": "accepted",
+   "label": "Vaninitermes ignotus (Constantino, 1991)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

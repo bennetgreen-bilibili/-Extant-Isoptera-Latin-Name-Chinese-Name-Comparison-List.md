@@ -1,0 +1,43 @@
+{
+ "latin": "Rugitermes",
+ "zh": "皱白蚁属",
+ "family": "kalotermitidae",
+ "treatise": true,
+ "citation": "Rugitermes Holmgren, 1911a: 53, 54 [first introduced as a subgenus of Calotermes Hagen, 1858].",
+ "type_species": "Calotermes nodulosus Hagen, 1858 by original designation.",
+ "references": [
+  {
+   "ref": "Holmgren, 1911a: 54",
+   "note": "Calotermes (Rugitermes); characters; species included; distribution."
+  },
+  {
+   "ref": "Snyder, 1925f: 198",
+   "note": "Kalotermes (Rugitermes); characters; species included."
+  },
+  {
+   "ref": "Roonwal and Sen-Sarma, 1960: 98",
+   "note": "Rugitermes; key."
+  },
+  {
+   "ref": "Krishna, 1961: 325–328",
+   "note": "Rugitermes; generic characters; key; reference list; phylogeny; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 10",
+   "note": "Rugitermes; key."
+  },
+  {
+   "ref": "Nickle and Collins, 1992: 215, 217",
+   "note": "Rugitermes; key; characters."
+  },
+  {
+   "ref": "Constantino, 1999a: 395, 410",
+   "note": "Rugitermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 16",
+   "note": "Rugitermes; key. Metaneotermes Light, 1932a: 77 [first introduced as a subgenus of Kalotermes Hagen, 1853]. Type species: Kalotermes (Metaneotermes) athertoni Light, 1932, by original designation)"
+  }
+ ],
+ "nrefs": 23
+}

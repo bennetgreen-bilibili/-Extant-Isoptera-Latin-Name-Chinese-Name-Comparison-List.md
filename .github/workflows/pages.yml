@@ -62,7 +62,7 @@ jobs:
         run: python .github/workflows/build_species_body.py --write
 
       # 「全部图片」页（/species/<slug>/photos/、/genus/<id>/photos/ 等）与
-      # _data/photo_taxa.json（哪些分类单元有照片）：从 _data/species_photos.json 确定性生成。
+      # _data/photo_taxa.json（哪些分类单元有照片）：从 _data/species_photos/ 确定性生成。
       # 必须在 build_taxonomy_pages.py 之前跑——科/亚科/属页会按 photo_taxa.json 决定
       # 要不要挂图片小节、front matter 写不写 has_photos。
       - name: Build /photos/ pages for taxa with photos

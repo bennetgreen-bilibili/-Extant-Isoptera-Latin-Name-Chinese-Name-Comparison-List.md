@@ -1,0 +1,21 @@
+{
+ "zh_name": "舍斯泰特乳白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "C. amanii 的共模式兵蚁头侧与后缘相交处成更锐的角，其侧面轮廓的弧更平缓，但后颏相似。部分标本触角第 2、3 节约等长，因而与 var. subintacta 的描述不能区分。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头黄色，疏被长刚毛，向前收窄，两侧与后缘圆；触角 13 节，第 3 节很短，与第 4 节的分界很弱；上唇三角形，端部尖，具数根长刚毛。胸部颜色较头浅；前胸背板后缘微凹，两侧圆，密被刚毛；腹部背板密被刚毛，颜色较头浅。量度：头长 1.63–1.77，头宽 0.97–1.00，触角长 1.22，前胸背板长 0.38–0.40、宽 0.70，后足胫节 0.76–0.83，左上颚 0.67–0.72。"
+  }
+ ],
+ "note": "据 Emerson (1928) 对该种的描述改写，原文为英文；原文仅描述兵蚁，未描述工蚁与有翅成虫，亦无若虫。已删去图号、产地与采集记录，以及同一扫描切片中随后出现的 Rhinotermes 属与 Schedorhinotermes 亚属文字（不属本种）。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

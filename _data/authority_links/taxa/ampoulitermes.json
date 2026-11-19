@@ -1,0 +1,48 @@
+{
+ "Ampoulitermes wynaadensis": {
+  "gbif": {
+   "key": 9706237,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ampoulitermes wynaadensis Mathur & Thapa, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "D7TL",
+   "status": "accepted",
+   "label": "Ampoulitermes wynaadensis Mathur & Thapa, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225293",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ampoulitermes zacharia": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Ampoulitermes Mathur & Thapa, 1962",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "KW484",
+   "status": "accepted",
+   "label": "Ampoulitermes zacharia Joseph & Mathew, 2024",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

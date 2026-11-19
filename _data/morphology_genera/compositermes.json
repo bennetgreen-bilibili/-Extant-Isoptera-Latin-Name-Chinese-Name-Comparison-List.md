@@ -1,0 +1,21 @@
+{
+ "zh_name": "肠刺白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "工蚁肠瓣垫显著增大、EVS 呈长管状、S/P3 交界处具一圈硬化栉状小铲（约 15–20 枚），这一组合在全体白蚁工蚁中仅见。有翅成虫未知。"
+  },
+  {
+   "label": "工蚁",
+   "text": "单型；前胫节中度膨大（长宽比 3.98）。肠瓣（P2）由 6 个略不整齐的卵形垫组成；S/P3 交界处约 15–20 枚小栉状铲，在剥去腹部体壁后可在镜下自外部看到。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0064",
+   "citation": "Scheffrahn R. H. 2013. Compositermes vindai (Isoptera: Termitidae: Apicotermitinae), a new genus and species of soldierless termite from the Neotropics. Zootaxa 3652(3): 381–391. doi:10.11646/zootaxa.3652.3.6",
+   "locator": "pp. 381–383（Compositermes gen. nov.：描述自 p. 381 起，Diagnosis 在 p. 383）"
+  }
+ ],
+ "note": "属名源自拉丁语 compositus（拼合、由多部分组成），指 S/P3 交界处成环的 15 枚以上栉状小铲。原文 Imago unknown（仅图示短翅若虫），不设有翅成虫节。"
+}

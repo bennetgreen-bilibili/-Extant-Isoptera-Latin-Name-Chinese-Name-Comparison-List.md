@@ -1,0 +1,43 @@
+{
+ "latin": "Grallatotermes",
+ "zh": "高跷白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Grallatotermes Holmgren, 1912a: 61, 62, 65 [first introduced as a subgenus of Eutermes Heer, 1849].",
+ "type_species": "Termes (Eutermes) grallator Desneux, 1905 by monotypy.",
+ "references": [
+  {
+   "ref": "Light, 1930f: 16, 17, 19",
+   "note": "Grallatotermes; key; remarks."
+  },
+  {
+   "ref": "Snyder, 1934a: 25, 28",
+   "note": "Nasutitermes (Grallototermes); key."
+  },
+  {
+   "ref": "Light and Wilson, 1936: 467, 476",
+   "note": "Grallatotermes; key."
+  },
+  {
+   "ref": "Hill, 1942: 14, 202–205",
+   "note": "Eutermes [part]; key; synonymy; imago, soldier, worker diagnosed."
+  },
+  {
+   "ref": "Lal and Menon, 1953: 36",
+   "note": "Eutermes (Grallototermes); key."
+  },
+  {
+   "ref": "Ahmad, 1958: 86, 89",
+   "note": "Grallatotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 35, 114, 115, pl. 25: fig. 85c",
+   "note": "Grallatotermes; key; characters; imago mandibles figured."
+  },
+  {
+   "ref": "Sands, 1965c: 55",
+   "note": "Grallatotermes; synonymy; characters; key."
+  }
+ ],
+ "nrefs": 42
+}

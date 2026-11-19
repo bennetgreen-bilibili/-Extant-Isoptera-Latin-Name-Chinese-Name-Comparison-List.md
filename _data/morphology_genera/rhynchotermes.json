@@ -1,0 +1,29 @@
+{
+ "zh_name": "喙白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "Holmgren 1912 以 Armitermes 的亚属（Rhynchotermes n. subg.）建立，当时只含 nasutissimus 一种（Mato Grosso、巴拉圭、玻利维亚）。与同属其它亚属的区别在检索表中给出：有翅成虫上颚第 1 齿与第 2 齿等大，触角 14 节，第 3 节长于相邻各节；兵蚁上颚相当粗壮、极强弯曲，中部有一枚四角形齿，基部很发达并具锐利的磨区角，「鼻」（额管）很长，前足基节各有一齿状突起；工蚁上颚第 1 齿与第 2 齿等长。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "上颚第 1 齿与第 2 齿等大；触角 14 节，第 3 节长于相邻各节。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "上颚相当粗壮，极强弯曲，中部具一枚四角形齿；基部很强地发育，具锐利的磨区角。「鼻」（额管）很长。前足基节各具一个齿状突起。"
+  },
+  {
+   "label": "工蚁",
+   "text": "上颚第 1 齿与第 2 齿等长。原文对本亚属只给出这一条工蚁检索特征，未作进一步描述。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren, N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familien Mastotermitidae, Protermitidae und Mesotermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166, Taf. 1–4.",
+   "locator": "p. 55（archive.org 项 biostor-184513 页面图像）"
+  }
+ ],
+ "note": "描述据 Holmgren 1912 原文（archive.org 项 biostor-184513 的页面图像，p. 55）。原文中 Rhynchotermes 为 Armitermes 的亚属（Untergattung），没有独立成段的属级描述，只有三条检索表特征（有翅成虫、兵蚁、工蚁各一条）与一个物种；故各段都很短，内容不超出检索表所给。"
+}

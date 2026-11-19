@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "自白蚁属移入始扭白蚁属",
+   "heading_en": "Transferred from Termes to Protocapritermes",
+   "heading_es": "Transferida de Termes a Protocapritermes",
+   "paragraphs": [
+    {
+     "src": [
+      "S0329"
+     ],
+     "text": "根据 Bourguignon 等（2008）研究，齿颚始扭白蚁（<i>Protocapritermes odontomachus</i>）此前置于白蚁属（<i>Termes</i>），写作 <i>Termes odontomachus</i>，是该研究修订时新几内亚已知的 3 种具弹颚兵蚁种类之一；该研究把该种移入始扭白蚁属（<i>Protocapritermes</i>），并给出鉴别特征与插图（据摘要）。",
+     "text_en": "According to Bourguignon et al. (2008), <i>Protocapritermes odontomachus</i> had been placed in <i>Termes</i> as <i>Termes odontomachus</i> and was one of the three snapping-soldier species known from New Guinea at the time of the revision; the study reassigns the species to <i>Protocapritermes</i> and provides diagnostic characters and illustrations (according to the abstract).",
+     "text_es": "Según Bourguignon et al. (2008), <i>Protocapritermes odontomachus</i> había sido situada en <i>Termes</i> como <i>Termes odontomachus</i> y era una de las tres especies con soldados que chasquean conocidas de Nueva Guinea en el momento de la revisión; el estudio reasigna la especie a <i>Protocapritermes</i> y aporta caracteres diagnósticos e ilustraciones (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0329",
+   "citation": "Bourguignon, T.; Leponce, M.; Roisin, Y. 2008. Revision of the Termitinae with snapping soldiers (Isoptera: Termitidae) from New Guinea. Zootaxa 1769.",
+   "url": "https://doi.org/10.11646/zootaxa.1769.1.1"
+  }
+ ]
+}

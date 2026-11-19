@@ -1,0 +1,24 @@
+{
+ "Macuxitermes colombicus": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Macuxitermes triceratops": {
+  "label": "Macuxitermes triceratops Cancello & Bandeira, 1992",
+  "match": "exact",
+  "notes": "",
+  "otu": 84229,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84229/overview",
+  "valid_label": null,
+  "valid_otu": 84229,
+  "verified": false
+ }
+}

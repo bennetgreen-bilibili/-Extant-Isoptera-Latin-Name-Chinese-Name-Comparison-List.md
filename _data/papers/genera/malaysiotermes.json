@@ -1,0 +1,55 @@
+{
+ "latin": "Malaysiotermes",
+ "zh": "马来白蚁属",
+ "fetched_at": "2026-10-30T16:54:00Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2056255954",
+   "openalex_url": "https://openalex.org/W2056255954",
+   "doi": "10.1080/002229301317067647",
+   "doi_url": "https://doi.org/10.1080/002229301317067647",
+   "title": "A review of the South-East Asian Nasutitermitinae (Isoptera: Termidae), with descriptions of one new genus and a new species and including a key to the genera",
+   "year": 2001,
+   "date": "2001-10-01",
+   "authors": [
+    "F. J. Gathorne-Hardy"
+   ],
+   "venue": "Journal of Natural History",
+   "type": "article",
+   "language": "en",
+   "cited_by": 20,
+   "oa_url": "https://doi.org/10.1080/002229301317067647",
+   "volume": "35",
+   "issue": "10",
+   "pages": "1485-1506",
+   "abstract": "This paper describes Snootitermes leuserensis, gen. et sp. nov. (collected from the Leuser Ecosystem, Sumatra), Hirtitermes brabazoni sp. nov. (collected from north Sulawesi) and the major soldier of Ceylonitermes indicola. It also includes a revised generic key to the Nasutitermitinae of Peninsular Malaysia, Java, Sumatra and Borneo and reassigns the South-East Asian Subulitermes-group of termites to the Nasutitermes-group. Aciculioiditermes denticulatus and A. sarawakensis are considered to be junior synonyms of Aciculioiditermes holmgreni. The genera Aciculioiditermes and Proaciculitermes are considered to be junior synonyms of Malaysiotermes. Therefore Aciculioiditermes holmgreni, Proaciculitermes orientalis, P. sabahensis, P. malayanus and P. lowi are all Malaysiotermes species. Tho's (1982, 1992) unpublished new genus (Genus A) is considered to be a new species of Ceylonitermes. Oriensubulitermes borneensis is shown to be a Subulioiditermes species, S. borneensis. Nasutitermes matangensiformis is shown to be a junior synonym of N. matangensis. Havilanditermes is shown to be a junior synonym of Nasutitermes.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1130,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W4412778561",
+   "openalex_url": "https://openalex.org/W4412778561",
+   "doi": "10.61507/smj22-2004-it3r-04",
+   "doi_url": "https://doi.org/10.61507/smj22-2004-it3r-04",
+   "title": "The Termites of Sundaland: A Taxonomic Review",
+   "year": 2004,
+   "date": "2004-12-01",
+   "authors": [
+    "F. J. Gathorne-Hardy"
+   ],
+   "venue": "The Sarawak Museum Journal",
+   "type": "article",
+   "language": "en",
+   "cited_by": 6,
+   "oa_url": "https://museum.sarawak.gov.my/web/attachment/show/?docid=Zkh5VVVYTkpPUjRkSjE3S3F1Y09odz09OjqF-DMghmmaz0gsnAW6j_Ye",
+   "volume": "LX",
+   "issue": "81",
+   "pages": "89-133",
+   "abstract": "This paper describes Leucopitermes thoi sp. nov. (found in Sumatra, Borneo and Peninsular Malaysia). It also synonomises 21 species and three genera. Schedorhiotermes sarawakensis becomes the junior synonym of S. malaccensis, S. javanicus and tarakanensis are junior synonyms of S. medioobscurus. Termitogeton minor is a junior synonym of T. planus. Prorhinotermes japonicus, krakataui, tibiaoensis, gracilis, tibiaoensiformis, ravani and panaitanensis all become junior synonyms of P. flavus. Odontotermes sundaicus becomes a junior synonym of O. billitoni, and O. mathuri the junior synonym of O. minutus. Termes boneensis and kalumpangensis are both junior synonyms of T. comis, and Pericaritermes papaspeciosus is the junior synonym of P. speciosus. The genus Coxocapritermes becomes the junior synonym of Pseudocapritermes, Malaysiocapritermes the junior synonym of Procapritermes and Snootitermies the junior synonym of Sabahitermes. Malaysiotermes sabahensis, malayanus, lowi and orientalis are all junior synonyms of M. spincephalus and subulioiditermes major is a junior synonym of S. subulioides. This paper also providesa key to the species of the soil-feeding Nasutitermitinae of Sundaland,as well as a checklist of all species found in the region.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1260,
+   "abstract_truncated": false
+  }
+ ]
+}

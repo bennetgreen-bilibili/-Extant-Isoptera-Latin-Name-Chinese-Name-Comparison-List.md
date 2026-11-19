@@ -1,0 +1,23 @@
+{
+ "latin": "Rostrotermes",
+ "zh": "突吻白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Rostrotermes Grassé, 1943: 71–78.",
+ "type_species": "Rostrotermes cornutus Grassé, 1943 by monotypy.",
+ "references": [
+  {
+   "ref": "Bouillon and Mathot, 1965: 25, 92, 93, pl. 14: fig. 39b",
+   "note": "Rostrotermes; characters; imago/worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 34",
+   "note": "Rostrotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 50, 135–137, figs. 374–381, pl. 4: fig. 4",
+   "note": "Rostrotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 8
+}

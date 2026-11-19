@@ -1,0 +1,46 @@
+{
+ "Hodotermes erithreensis": {
+  "gbif": {
+   "key": 9763095,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hodotermes erithreensis Sjöstedt, 1912",
+   "accepted": null
+  },
+  "col": {
+   "id": "3M637",
+   "status": "accepted",
+   "label": "Hodotermes erithreensis Sjöstedt, 1912",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251935",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hodotermes mossambicus": {
+  "gbif": {
+   "key": 9088572,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hodotermes mossambicus (Hagen, 1853)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3M639",
+   "status": "accepted",
+   "label": "Hodotermes mossambicus (Hagen, 1853)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21169322",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

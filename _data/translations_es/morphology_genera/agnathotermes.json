@@ -1,0 +1,17 @@
+{
+ "note": "Snyder 1926 lo publicó en rango subgenérico (subgénero de Nasutitermes), y esta entrada se trata en rango genérico. El original contiene además frases sobre la longitud del posclípeo y la coloración del cuerpo del obrero que, por un corte de palabra en el OCR (Light- colored), no se citan literalmente y no se incluyeron en el cuerpo del texto. El original no describe al alado, por lo que no se incluye esa sección.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Las mandíbulas del soldado carecen de diente apical; el nasus es corto y cónico; las antenas tienen 11–12 segmentos; el vértice lleva solo 2–3 setas largas, además de numerosas microtriquias, y el número de setas largas es menor que en Coatitermes. En el obrero, el margen cortante entre los dientes marginales 1+2 y el diente marginal 3 de la mandíbula izquierda no es ondulado."
+  },
+  {
+   "label": "Soldado",
+   "text": "Mandíbulas sin diente apical; nasus corto y cónico; antenas de 11–12 segmentos; vértice con solo 2–3 setas largas, además de numerosas microtriquias."
+  },
+  {
+   "label": "Obrero",
+   "text": "El margen cortante de la mandíbula izquierda entre los dientes marginales 1+2 y el diente marginal 3 no es ondulado."
+  }
+ ]
+}

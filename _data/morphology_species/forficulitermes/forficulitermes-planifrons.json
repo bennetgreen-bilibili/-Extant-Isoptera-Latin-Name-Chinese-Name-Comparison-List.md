@@ -1,0 +1,25 @@
+{
+ "zh_name": "扁额剪白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁上唇具两枚侧尖角与一明显凸出的中叶，据此与 Basidentitermes、Proboscitermes、Orthotermes、Profastigitermes、Fastigitermes 近缘；是自 Basidentitermes 附近分出的小型奇异类群。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头部自背面观近方形，两侧近乎直或微凸，额与头顶较近缘类群为平；额腺位于一小凹陷内，开口前方两侧各具两条扁平纵脊；上唇前端具两枚侧尖角及明显凸中叶；上颚为咬切式、较直而细长、末端不成钩；左上颚基部具一小锐齿，其后为一深而小的角状弯曲、末端成棘状突起。"
+  },
+  {
+   "label": "工蚁",
+   "text": "上颚似 Basidentitermes 附近的较原始类群；端齿较第一缘齿大；右上颚具明显的第二缘齿。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–49. Forficulitermes pp. 44–47.",
+   "locator": "pp. 44–47"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+}

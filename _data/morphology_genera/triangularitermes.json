@@ -1,0 +1,25 @@
+{
+ "zh_name": "三角白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁单型；与 Ngauratermes 大型兵蚁在体型、色泽、头壳形状、13 节触角与上颚具明显齿突诸点相似，且分布同区。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "单型；象鼻更呈锥形；腿与触角较长；头壳上短毛稀少。"
+  },
+  {
+   "label": "工蚁",
+   "text": "混合段较长；马氏管在同一处成组附着；P1 末端在背侧形成短环；肠瓣两圈刺的长度相近。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0096",
+   "citation": "Constantino, R. & Acioli, A. N. S. 2009. Ngauratermes arue, new genus and species of nasute termite (Isoptera: Termitidae) from the Amazon. Zootaxa 2239: 22–30.",
+   "locator": "p. 25（Triangularitermes 比较段，转引 Mathews 1977）"
+  }
+ ],
+ "note": "Mathews (1977) 的原始描述不可得；上述为 Constantino & Acioli (2009) 引述 Mathews (1977) 的属级比较记述，非原描述原文。"
+}

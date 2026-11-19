@@ -1,0 +1,21 @@
+{
+ "zh_name": "沙白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与舌白蚁属（Glossotermes）对比可勾出本属兵蚁特征：头与体具多数长毛；上颚更弯，两颚中部均粗锯齿；左上颚基部无内沟，颚的基段比例更大而端段更小；后唇基与前额之间的缝不明显；上唇大而宽、无横列浅色带、端部更尖且无透明唇缘；后颏最窄处相对更宽；眼点不明显；触角节数更多；前胸背板前缘无叶状突；腿节更粗；端距式 3:2:2。原文据此认为本属兵蚁在上颚、触角与端距式上更为原始。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "兵蚁全体具多数长毛；上颚弯曲，两颚中部均粗锯齿；左上颚基部无内沟；上唇大、宽，端部尖，无透明唇缘；触角节数较多；前胸背板前缘无叶状突；腿节粗；端距式 3:2:2。"
+  }
+ ],
+ "note": "本属原始发表（Desneux 1902, 撒哈拉材料）本机文件为 403 页面、无正文，不可用；本条全部特征出自 Emerson (1950) 在描述 Glossotermes 时所作的属级对比段落，只覆盖兵蚁，未含有翅成虫与工蚁，可信度中等。撰写时不得据此扩展至其他品级。",
+ "sources": [
+  {
+   "id": "S0040",
+   "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–16.",
+   "locator": "p. 4"
+  }
+ ]
+}

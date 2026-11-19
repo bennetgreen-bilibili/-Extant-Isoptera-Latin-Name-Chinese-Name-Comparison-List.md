@@ -1,0 +1,31 @@
+{
+ "zh_name": "前峰白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "头顶在囟孔开口之上、略偏后者为圆驼峰（Fastigitermes 的驼峰更向前伸）；后颏自下方收狭，最窄处为一显著的双尖突，而 Fastigitermes 的相应突出物为单一而尖锐的后指刺。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头面散布刚毛，囟孔开口周围有一大束长毛，上唇前缘附近与后颏前缘各有少数刚毛；后颏自下方收狭，位于后缘中部前约四分之一处的双尖突，其两尖之间前面观有一微凹的脊。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+   "locator": "p. 41（Profastigitermes 兵蚁）"
+  },
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+   "locator": "p. 41（Profastigitermes 兵蚁）"
+  },
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+   "locator": "p. 41（Profastigitermes 兵蚁）"
+  }
+ ],
+ "note": "本属原文只有兵蚁描述，未描述工蚁与有翅成虫，故只设兵蚁一栏；后颏与头顶驼峰的位置见 Emerson 1960 fig. 15。"
+}

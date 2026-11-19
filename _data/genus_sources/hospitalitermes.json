@@ -1,0 +1,43 @@
+{
+ "latin": "Hospitalitermes",
+ "zh": "须白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Hospitalitermes Holmgren, 1912",
+ "type_species": "Termes hospitalis Haviland, 1898 by subsequent designation; see Snyder, 1949a: 318.",
+ "references": [
+  {
+   "ref": "Haviland, 1898: 379, 436",
+   "note": "Termes [“section with T. hospitalis for type”]; characters; key."
+  },
+  {
+   "ref": "Light, 1930f: 16, 17, 19",
+   "note": "Hospitalitermes; key."
+  },
+  {
+   "ref": "Snyder, 1934a: 25, 28",
+   "note": "Nasutitermes (Hospitalitermes); key."
+  },
+  {
+   "ref": "Light and Wilson, 1936: 467",
+   "note": "Hospitalitermes; key."
+  },
+  {
+   "ref": "Lal and Menon, 1953: 36",
+   "note": "Eutermes (Hospitalitermes); key."
+  },
+  {
+   "ref": "Ahmad, 1958: 85, 89",
+   "note": "Hospitalitermes; key."
+  },
+  {
+   "ref": "Prashad and Sen-Sarma, 1960: 1–3",
+   "note": "Hospitalitermes; characters; relationships; distribution."
+  },
+  {
+   "ref": "Ranaweera, 1962: 90",
+   "note": "Hospitalitermes; key."
+  }
+ ],
+ "nrefs": 48
+}

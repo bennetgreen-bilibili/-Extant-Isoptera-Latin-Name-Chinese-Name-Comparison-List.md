@@ -1,0 +1,63 @@
+{
+ "book_n": "224",
+ "book_name": "周氏杆白蚁 Stylotermeschoui",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "周氏杆白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.46",
+     "value": "1.42–1.53"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.21",
+     "value": "1.18–1.26"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.41",
+     "value": "0.38–0.45"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.44",
+     "value": "0.41–0.46"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.57",
+     "value": "1.50–1.62"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.97",
+     "value": "1.89–2.10"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.67",
+     "value": "0.63–0.75"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.31",
+     "value": "1.27–1.42"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.26",
+     "value": "1.20–1.32"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 573,
+   "unit": "mm"
+  }
+ ]
+}

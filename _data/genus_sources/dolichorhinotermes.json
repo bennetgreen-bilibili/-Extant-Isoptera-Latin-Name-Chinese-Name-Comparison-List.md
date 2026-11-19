@@ -1,0 +1,39 @@
+{
+ "latin": "Dolichorhinotermes",
+ "zh": "狭鼻白蚁属",
+ "family": "rhinotermitidae",
+ "treatise": true,
+ "citation": "Dolichorhinotermes Snyder and Emerson, 1949b: 374.",
+ "type_species": "Rhinotermes (Rhinotermes) longilabius Emerson, 1925 by original designation.",
+ "references": [
+  {
+   "ref": "Morimoto, 1975b: 16",
+   "note": "Dolichorhinotermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 91–92",
+   "note": "Dolichorhinotermes; synonymy; characters; discussion."
+  },
+  {
+   "ref": "Chhotani, 1984: 111–113",
+   "note": "Dolichorhinotermes; key; taxonomy; distribution and zoogeography; biology; ecology; nesting behavior."
+  },
+  {
+   "ref": "Nickle and Collins, 1992: 221, 224",
+   "note": "Dolichorhinotermes; key; characters."
+  },
+  {
+   "ref": "Constantino, 1999a: 396, 411",
+   "note": "Dolichorhinotermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 18, 20",
+   "note": "Dolichorhinotermes; key."
+  },
+  {
+   "ref": "Maiti, 2006: 115, 241",
+   "note": "Dolichorhinotermes; key; synonymy; characters; key to species; distribution."
+  }
+ ],
+ "nrefs": 21
+}

@@ -1,0 +1,484 @@
+{
+ "Isognathotermes acristatus": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GWM",
+   "status": "accepted",
+   "label": "Isognathotermes acristatus Josens & Deligne, 2025",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-31"
+ },
+ "Isognathotermes bulbifrons": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GXM",
+   "status": "accepted",
+   "label": "Isognathotermes bulbifrons (Sjöstedt, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Isognathotermes congoensis": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GXR",
+   "status": "accepted",
+   "label": "Isognathotermes congoensis (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Isognathotermes finitimus": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GWK",
+   "status": "accepted",
+   "label": "Isognathotermes finitimus (Schmitz, 1916)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Isognathotermes fungifaber": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GWS",
+   "status": "accepted",
+   "label": "Isognathotermes fungifaber (Sjöstedt, 1896)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Isognathotermes magniplanifrons": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GWQ",
+   "status": "accepted",
+   "label": "Isognathotermes magniplanifrons Josens & Deligne, 2025",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-31"
+ },
+ "Isognathotermes minitabundus": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GWP",
+   "status": "accepted",
+   "label": "Isognathotermes minitabundus (Sjöstedt, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Isognathotermes modicus": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GWR",
+   "status": "accepted",
+   "label": "Isognathotermes modicus Josens & Deligne, 2025",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-31"
+ },
+ "Isognathotermes phallicaecalis": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GWY",
+   "status": "accepted",
+   "label": "Isognathotermes phallicaecalis Josens & Deligne, 2025",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-31"
+ },
+ "Isognathotermes phalloides": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GWX",
+   "status": "accepted",
+   "label": "Isognathotermes phalloides Josens & Deligne, 2025",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-31"
+ },
+ "Isognathotermes planifrons": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GWZ",
+   "status": "accepted",
+   "label": "Isognathotermes planifrons (Sjöstedt, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Isognathotermes rectimalatus": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GWW",
+   "status": "accepted",
+   "label": "Isognathotermes rectimalatus Josens & Deligne, 2025",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-31"
+ },
+ "Isognathotermes severus": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V5VWK",
+   "status": "accepted",
+   "label": "Isognathotermes severus (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Isognathotermes similifinitimus": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GX8",
+   "status": "accepted",
+   "label": "Isognathotermes similifinitimus Josens & Deligne, 2025",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-31"
+ },
+ "Isognathotermes ugandensis": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GX2",
+   "status": "accepted",
+   "label": "Isognathotermes ugandensis (Fuller, 1923)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Isognathotermes ugandensis burundii": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GX6",
+   "status": "accepted",
+   "label": "Isognathotermes ugandensis burundii Josens & Deligne, 2025",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-31"
+ },
+ "Isognathotermes ugandensis kenyae": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GX4",
+   "status": "accepted",
+   "label": "Isognathotermes ugandensis kenyae Josens & Deligne, 2025",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-31"
+ },
+ "Isognathotermes ugandensis malawii": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GX5",
+   "status": "accepted",
+   "label": "Isognathotermes ugandensis malawii Josens & Deligne, 2025",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-31"
+ },
+ "Isognathotermes ugandensis ugandensis": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Isognathotermes ugandensis (Fuller, 1923)",
+   "type": "higherrank",
+   "rank": "species",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-31"
+ },
+ "Isognathotermes zenkeri": {
+  "gbif": {
+   "key": null,
+   "status": "SYNONYM",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Isognathotermes Sjöstedt, 1926",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9GXT",
+   "status": "accepted",
+   "label": "Isognathotermes zenkeri (Desneux, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

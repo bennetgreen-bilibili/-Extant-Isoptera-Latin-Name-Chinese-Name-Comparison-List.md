@@ -1,0 +1,60 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "肠道共生体的组成",
+   "heading_en": "Composition of the gut microbiota",
+   "heading_es": "Composición del microbiota intestinal",
+   "paragraphs": [
+    {
+     "src": [
+      "S0209"
+     ],
+     "text": "据摘要，Marynowska 等（2023）研究土食性的细唇厚唇白蚁（<i>Labiotermes labralis</i>）的分室化肠道，共生细菌以厚壁菌门（Firmicutes）为主，其相对丰度从前肠向后肠逐渐下降，而拟杆菌门（Bacteroidetes）、变形菌门（Proteobacteria）与疣微菌门（Verrucomicrobia）随之增加；共生体表达大量降解纤维素与半纤维素的碳水化合物活性酶（CAZyme），宿主自身的纤维素酶在来源与结构上也各不相同。",
+     "text_en": "According to the abstract, Marynowska et al. (2023) studied the compartmentalised gut of the soil-feeding <i>Labiotermes labralis</i> and found that Firmicutes dominate the bacterial community and decline in relative abundance from the foregut towards the hindgut, whereas Bacteroidetes, Proteobacteria and Verrucomicrobia increase; the symbionts express many carbohydrate-active enzymes (CAZymes) degrading cellulose and hemicellulose, and the host's own cellulases differ in origin and structure.",
+     "text_es": "Según el resumen, Marynowska et al. (2023) estudiaron el intestino compartimentado de la especie edafófaga <i>Labiotermes labralis</i> y hallaron que Firmicutes domina la comunidad bacteriana y disminuye en abundancia relativa desde el intestino anterior hacia el posterior, mientras que Bacteroidetes, Proteobacteria y Verrucomicrobia aumentan; los simbiontes expresan numerosas enzimas activas sobre carbohidratos (CAZimas) que degradan celulosa y hemicelulosa, y las celulasas propias del hospedador difieren en origen y estructura."
+    }
+   ]
+  },
+  {
+   "heading": "蚁后信息素与线粒体基因组",
+   "heading_en": "Queen Pheromone and Mitochondrial Genome",
+   "heading_es": "Feromona de la reina y genoma mitocondrial",
+   "paragraphs": [
+    {
+     "src": [
+      "S0267"
+     ],
+     "text": "根据 Hervé 与 Brune（2017）研究，细唇厚唇白蚁（<i>Labiotermes labralis</i>）的线粒体基因组（GenBank KY436201）长 15 935 bp，G+C 含量 30.7 mol%，同样编码 37 个基因、基因顺序与昆虫祖先一致；作者从法属圭亚那 Petit Saut 的 P1 肠道分区宏基因组（191 583 421 条原始 reads）中调取 244 794 条线粒体 reads，平均深度 2023×。",
+     "text_en": "According to Hervé and Brune (2017), the mitochondrial genome of <i>Labiotermes labralis</i> (GenBank KY436201) is 15 935 bp long and has a G+C content of 30.7 mol%; it likewise encodes 37 genes, with a gene order matching that of the insect ancestor. The authors retrieved 244 794 mitochondrial reads from the P1 gut-compartment metagenome from Petit Saut, French Guiana (191 583 421 raw reads), at a mean depth of 2023×.",
+     "text_es": "Según Hervé y Brune (2017), el genoma mitocondrial de <i>Labiotermes labralis</i> (GenBank KY436201) tiene 15 935 pb y un contenido de G+C de 30.7 mol%; también codifica 37 genes, con un orden génico coincidente con el del ancestro de los insectos. Los autores recuperaron 244 794 lecturas mitocondriales del metagenoma del compartimento intestinal P1 de Petit Saut, Guayana Francesa (191 583 421 lecturas brutas), con una profundidad media de 2023×."
+    },
+    {
+     "src": [
+      "S0244"
+     ],
+     "text": "根据 Havlíčková 等（2019）研究，细唇厚唇白蚁（<i>Labiotermes labralis</i>）与另外 3 种聚白蚁亚科（<i>Syntermitinae</i>）一样，以 (3R,6E)-nerolidol 作为与繁殖力相关的蚁后体表挥发物（据摘要）。",
+     "text_en": "According to Havlíčková et al. (2019), <i>Labiotermes labralis</i>, like three other species of Syntermitinae, uses (3R,6E)-nerolidol as a fecundity-related cuticular volatile of the queen (according to the abstract).",
+     "text_es": "Según Havlíčková et al. (2019), <i>Labiotermes labralis</i>, al igual que otras tres especies de Syntermitinae, utiliza el (3R,6E)-nerolidol como volátil cuticular de la reina relacionado con la fecundidad (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0209",
+   "citation": "Marynowska, M., Sillam-Dussès, D., Untereiner, B., Klimek, D., Goux, X., Gawron, P., Roisin, Y., Delfosse, P. & Całusińska, M. (2023). A holobiont approach towards polysaccharide degradation by the highly compartmentalised gut system of the soil-feeding higher termite Labiotermes labralis. BMC Genomics, 24.",
+   "doi": "10.1186/s12864-023-09224-5"
+  },
+  {
+   "id": "S0244",
+   "citation": "Jana Havlíčková; Klára Dolejšová; Michal Tichý; Vladimír Vrkoslav; Blanka Kalinová; Pavlína Kyjaková; Hanus, R. 2019. (3R,6E)-nerolidol, a fertility-related volatile secreted by the queens of higher termites (Termitidae: Syntermitinae). Zeitschrift für Naturforschung C.",
+   "doi": "10.1515/znc-2018-0197"
+  },
+  {
+   "id": "S0267",
+   "citation": "Vincent Hervé; Brune, A. 2017. The complete mitochondrial genomes of the higher termites Labiotermes labralis and Embiratermes neotenicus (Termitidae: Syntermitinae). Informa UK Limited.",
+   "doi": "10.1080/23802359.2017.1289349"
+  }
+ ]
+}

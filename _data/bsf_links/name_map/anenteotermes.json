@@ -1,0 +1,123 @@
+{
+ "Anenteotermes amachetus": {
+  "label": "Anenteotermes amachetus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83951,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83951/overview",
+  "valid_label": null,
+  "valid_otu": 83951,
+  "verified": false
+ },
+ "Anenteotermes ateuchestes": {
+  "label": "Anenteotermes ateuchestes Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83952,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83952/overview",
+  "valid_label": null,
+  "valid_otu": 83952,
+  "verified": false
+ },
+ "Anenteotermes cherubimi": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Anenteotermes cicur": {
+  "label": "Anenteotermes cicur Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83953,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83953/overview",
+  "valid_label": null,
+  "valid_otu": 83953,
+  "verified": false
+ },
+ "Anenteotermes cnaphorus": {
+  "label": "Anenteotermes cnaphorus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83954,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83954/overview",
+  "valid_label": null,
+  "valid_otu": 83954,
+  "verified": false
+ },
+ "Anenteotermes disluctans": {
+  "label": "Anenteotermes disluctans Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83955,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83955/overview",
+  "valid_label": null,
+  "valid_otu": 83955,
+  "verified": false
+ },
+ "Anenteotermes hemerus": {
+  "label": "Anenteotermes hemerus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83956,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83956/overview",
+  "valid_label": null,
+  "valid_otu": 83956,
+  "verified": false
+ },
+ "Anenteotermes improcinctus": {
+  "label": "Anenteotermes improcinctus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83957,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83957/overview",
+  "valid_label": null,
+  "valid_otu": 83957,
+  "verified": false
+ },
+ "Anenteotermes improelatans": {
+  "label": "Anenteotermes improelatans Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83958,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83958/overview",
+  "valid_label": null,
+  "valid_otu": 83958,
+  "verified": false
+ },
+ "Anenteotermes nanus": {
+  "label": "Anenteotermes nanus (Sjöstedt, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83959,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83959/overview",
+  "valid_label": null,
+  "valid_otu": 83959,
+  "verified": false
+ },
+ "Anenteotermes polyscolus": {
+  "label": "Anenteotermes polyscolus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83960,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83960/overview",
+  "valid_label": null,
+  "valid_otu": 83960,
+  "verified": false
+ }
+}

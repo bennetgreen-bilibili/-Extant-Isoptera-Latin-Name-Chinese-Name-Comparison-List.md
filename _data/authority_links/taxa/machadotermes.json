@@ -1,0 +1,68 @@
+{
+ "Machadotermes inflatus": {
+  "gbif": {
+   "key": 9667108,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Machadotermes inflatus Weidner, 1974",
+   "accepted": null
+  },
+  "col": {
+   "id": "3WXZJ",
+   "status": "accepted",
+   "label": "Machadotermes inflatus Weidner, 1974",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210409",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Machadotermes latus": {
+  "gbif": {
+   "key": 9748705,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Machadotermes latus Weidner, 1974",
+   "accepted": null
+  },
+  "col": {
+   "id": "3WXZK",
+   "status": "accepted",
+   "label": "Machadotermes latus Weidner, 1974",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210408",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Machadotermes rigidus": {
+  "gbif": {
+   "key": 9754234,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Machadotermes rigidus Collins, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "3WXZL",
+   "status": "accepted",
+   "label": "Machadotermes rigidus Collins, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210407",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

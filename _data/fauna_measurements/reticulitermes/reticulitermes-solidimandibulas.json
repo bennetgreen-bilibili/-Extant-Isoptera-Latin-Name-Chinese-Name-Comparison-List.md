@@ -1,0 +1,75 @@
+{
+ "book_n": "148",
+ "book_name": "粗颚散白蚁 Reticulitermes",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.83–2.25"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.18",
+     "value": "1.13–1.23"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.45",
+     "value": "0.37–0.48"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.37",
+     "value": "0.33–0.40"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.19",
+     "value": "1.08–1.29"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "1.33–1.68"
+    },
+    {
+     "key": "postmentum_width",
+     "value": "0.47–0.53"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.16",
+     "value": "0.12–0.17"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.59",
+     "value": "0.59"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.51",
+     "value": "0.50–0.52"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.93",
+     "value": "0.8–0.95"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.04",
+     "value": "0.99–1.06"
+    }
+   ],
+   "src_file": "401-500.txt",
+   "src_line": 521,
+   "unit": "mm"
+  }
+ ]
+}

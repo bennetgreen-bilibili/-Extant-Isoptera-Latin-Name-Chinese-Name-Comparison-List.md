@@ -1,0 +1,38 @@
+{
+ "book_n": "336",
+ "book_name": "云南华白蚁 Sinotermes yunnanensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "云南华白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "2.5–2.55"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "1.375–1.50"
+    },
+    {
+     "key": "postmentum_max_width",
+     "value": "0.625–0.65"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.85–0.90"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.125–1.15"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 123,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "狭义属的四个种与南非首记",
+   "heading_en": "The four species of the restricted genus and its first South African record",
+   "heading_es": "Las cuatro especies del género restringido y su primer registro sudafricano",
+   "paragraphs": [
+    {
+     "src": [
+      "S0336"
+     ],
+     "text": "根据 Coaton（1962）研究，缩狭白蚁属（<i>Coarctotermes</i>）在狭义下当时只余 4 个有效种：马达加斯加的漏壶缩狭白蚁（<i>Coarctotermes clepsydra</i>）、贝哈拉缩狭白蚁（<i>Coarctotermes beharaensis</i>）与波利昂缩狭白蚁（<i>Coarctotermes pauliani</i>），以及非洲大陆的 1 种；作者指出 1959 年以前该属在南非共和国的全部记录都应改归富勒白蚁属（<i>Fulleritermes</i>）。1959 年 8 月 Grobler 在克鲁格国家公园 Punda Milia 附近的 Wambia 沙地采到国内第一号狭义缩狭白蚁属标本。",
+     "text_en": "According to Coaton (1962), in the restricted sense <i>Coarctotermes</i> then held only four valid species: <i>Coarctotermes clepsydra</i>, <i>Coarctotermes beharaensis</i> and <i>Coarctotermes pauliani</i> from Madagascar, plus a single species on the African mainland; the author noted that all earlier records of the genus from the Republic of South Africa should be referred to <i>Fulleritermes</i>. In August 1959 Grobler collected the first accession referable to <i>Coarctotermes</i> in the strict sense within the country's borders, in the Sandveld near Wambia, in the vicinity of Punda Milia in the Kruger National Park.",
+     "text_es": "Según Coaton (1962), en sentido restringido <i>Coarctotermes</i> conservaba entonces solo cuatro especies válidas: <i>Coarctotermes clepsydra</i>, <i>Coarctotermes beharaensis</i> y <i>Coarctotermes pauliani</i> de Madagascar, más una sola especie en el continente africano; el autor señaló que todos los registros anteriores del género en la República de Sudáfrica debían referirse a <i>Fulleritermes</i>. En agosto de 1959 Grobler recolectó el primer ejemplar asignable a <i>Coarctotermes</i> en sentido estricto dentro de las fronteras del país, en el Sandveld cerca de Wambia, en las proximidades de Punda Milia, en el Parque Nacional Kruger."
+    },
+    {
+     "src": [
+      "S0336"
+     ],
+     "text": "此后国家调查把该属记录扩展到 Potgietersrus、Pietersburg、Soutpansberg、Lydenburg、Sibasa、Letaba、Pilgrim's Rest、Nelspruit、Barberton 与 Ingwavuma 等区，并在斯威士兰 Hlatikulu 区另有一笔记录；这一热带属在南非似只进入亚热带沙地（Sandveld），克鲁格国家公园、斯威士兰与祖鲁兰的 Lebombo 山地采获最多。鉴别上，缩狭白蚁属（<i>Coarctotermes</i>）有翅成虫—工蚁左上颚的并合第一、第二缘齿与第三缘齿之间由一条大致均匀凹入的切缘相连，不具富勒白蚁属（<i>Fulleritermes</i>）那样的深裂。",
+     "text_en": "Subsequent survey work extended the genus to the districts of Potgietersrus, Pietersburg, Soutpansberg, Lydenburg, Sibasa, Letaba, Pilgrim's Rest, Nelspruit, Barberton and Ingwavuma, with a further record from the Hlatikulu district of Swaziland; this tropical genus appears to enter South Africa only in subtropical Sandveld, and the Lebombo Mountains of the Kruger National Park, Swaziland and Zululand have yielded the richest harvest. Diagnostically, in <i>Coarctotermes</i> the fused first and second marginal teeth of the left mandible of the imago–worker caste are joined to the third marginal tooth by a more or less evenly concave cutting margin, without the deep cleft found in <i>Fulleritermes</i>.",
+     "text_es": "Los estudios posteriores ampliaron el género a los distritos de Potgietersrus, Pietersburg, Soutpansberg, Lydenburg, Sibasa, Letaba, Pilgrim's Rest, Nelspruit, Barberton e Ingwavuma, con otro registro del distrito de Hlatikulu, en Suazilandia; este género tropical parece entrar en Sudáfrica solo en el Sandveld subtropical, y las montañas Lebombo del Parque Nacional Kruger, Suazilandia y Zululandia han proporcionado la cosecha más rica. En el diagnóstico, en <i>Coarctotermes</i> los dientes marginales primero y segundo fusionados de la mandíbula izquierda de la casta imago–obrera se unen al tercer diente marginal por un margen cortante más o menos uniformemente cóncavo, sin la hendidura profunda que presenta <i>Fulleritermes</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0336",
+   "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+   "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+  }
+ ]
+}

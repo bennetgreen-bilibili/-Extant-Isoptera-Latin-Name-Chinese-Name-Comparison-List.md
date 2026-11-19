@@ -1,0 +1,55 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "西非五种的取食与共存",
+   "heading_en": "Foraging and coexistence of five West African species",
+   "heading_es": "Forrajeo y coexistencia de cinco especies de África occidental",
+   "paragraphs": [
+    {
+     "text": "据摘要，Sands（1961）研究西非三脉白蚁属（Trinervitermes）5 个种的觅食行为与食性：其中 3 个种在巢内堆放草片段，根三脉白蚁（Trinervitermes oeconomus）与同属另 1 个种则不在巢内堆放；3 个堆草种所堆草片段的尺寸各不相同；实验显示选择性采食特定草种，不同食物上的存活率显示各种适应不同条件；作者认为 5 种共存依赖于小尺度条件的镶嵌，并指出该属的 1 个种（Trinervitermes aurilerrae，拼写另有 auriterrae 一版）最接近象白蚁属（Nasutitermes）式的祖先。",
+     "text_en": "According to the abstract, Sands (1961) studied the foraging behaviour and feeding habits of five West African <i>Trinervitermes</i> species: <i>Trinervitermes ebenerianus</i>, <i>Trinervitermes carbonarius</i> and <i>Trinervitermes suspensus</i> store grass fragments in the nest, whereas <i>Trinervitermes oeconomus</i> and <i>Trinervitermes aurilerrae</i> do not; the three storing species store grass fragments of different sizes; experiments showed selective harvesting of particular grass species, and survival on different foods indicated that each species is adapted to different conditions; the author concluded that coexistence of the five species depends on a mosaic of small-scale conditions and noted that <i>Trinervitermes aurilerrae</i> comes closest to a <i>Nasutitermes</i>-like ancestor.",
+     "text_es": "Según el resumen, Sands (1961) estudió el comportamiento de forrajeo y los hábitos alimentarios de cinco especies de <i>Trinervitermes</i> de África occidental: <i>Trinervitermes ebenerianus</i>, <i>Trinervitermes carbonarius</i> y <i>Trinervitermes suspensus</i> almacenan fragmentos de hierba en el nido, mientras que <i>Trinervitermes oeconomus</i> y <i>Trinervitermes aurilerrae</i> no lo hacen; las tres especies almacenadoras guardan fragmentos de tamaños diferentes; los experimentos mostraron una recolección selectiva de determinadas especies de hierba, y la supervivencia sobre distintos alimentos indicó que cada especie está adaptada a condiciones diferentes; el autor concluyó que la coexistencia de las cinco especies depende de un mosaico de condiciones a pequeña escala y señaló que <i>Trinervitermes aurilerrae</i> es la más próxima a un ancestro del tipo <i>Nasutitermes</i>.",
+     "src": [
+      "S0186"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "群体分裂（sociotomy）",
+   "heading_en": "Colony fission (sociotomy)",
+   "heading_es": "Fisión de la colonia (sociotomía)",
+   "paragraphs": [
+    {
+     "src": [
+      "S0211"
+     ],
+     "text": "据摘要，Grassé 与 Noirot（1951）把非洲两种白蚁的群体分裂称为 sociotomy：三脉白蚁属（<i>Trinervitermes</i>）的贝顿三脉白蚁（<i>Trinervitermes bettonianus</i>）与解甲白蚁属（<i>Anoplotermes</i>）的 1 个种在白天成列离巢，队伍中包含王室配偶，随后分裂为若干小群，各自挖出或建造新巢，成为新群体的起点。",
+     "text_en": "According to the abstract, Grassé and Noirot (1951) termed sociotomy the fission of societies in two African termites: in daylight, columns of <i>Trinervitermes bettonianus</i> and of a species of <i>Anoplotermes</i> leave the nest, one column including the royal couple, and each column later breaks into several portions that excavate or build a nest and found a new society.",
+     "text_es": "Según el resumen, Grassé y Noirot (1951) denominaron sociotomía a la fisión de las sociedades en dos termitas africanas: en pleno día, columnas de <i>Trinervitermes bettonianus</i> y de una especie de <i>Anoplotermes</i> abandonan el nido, una de ellas con la pareja real, y cada columna se fragmenta después en varias porciones que excavan o construyen un nido y fundan una nueva sociedad."
+    },
+    {
+     "src": [
+      "S0211"
+     ],
+     "text": "据摘要，同一观察指出，在观察到的两个种中补充生殖蚁通过幼态持续（neoteny）频繁产生；迁徙队伍涵盖所有品级，包括具功能生殖蚁与有翅个体，有翅个体在地面爬行并搬运幼虫，解甲白蚁属的工蚁甚至表现出兵蚁行为；作者据此首次以确凿观察确认象鼻兵蚁（nasuti）在防御中的作用。",
+     "text_en": "The same observations note that replacement reproductives arise frequently by neoteny in both species; all castes take part in the migration, including functional reproductives and alates, the latter creeping on the ground and carrying larvae, while workers of <i>Anoplotermes</i> even adopt soldier behaviour; on this evidence the authors establish for the first time, by direct observation, the defensive role of the nasuti.",
+     "text_es": "Las mismas observaciones señalan que en ambas especies los reproductores de reemplazo surgen con frecuencia por neotenia; en la migración participan todas las castas, incluidos los reproductores funcionales y los alados, que se arrastran por el suelo y transportan larvas, mientras que las obreras de <i>Anoplotermes</i> adoptan incluso comportamiento de soldado; con estas pruebas los autores establecen por primera vez, mediante observación directa, la función defensiva de los nasuti."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0186",
+   "citation": "Sands, W. A. 1961. Foraging behaviour and feeding habits in five species of Trinervitermes in West Africa. Entomologia Experimentalis et Applicata 4: 277–288.",
+   "doi": "10.1111/j.1570-7458.1961.tb02143.x"
+  },
+  {
+   "id": "S0211",
+   "citation": "Grassé, P.-P. & Noirot, C. (1951). La sociotomie: migration et fragmentation de la termitière chez les Anoplotermes et les Trinervitermes. Behaviour.",
+   "doi": "10.1163/156853951x00241"
+  }
+ ]
+}

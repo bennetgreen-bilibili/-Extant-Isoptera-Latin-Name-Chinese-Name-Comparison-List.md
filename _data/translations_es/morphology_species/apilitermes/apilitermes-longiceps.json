@@ -1,0 +1,21 @@
+{
+ "note": "Este género es monotípico y contiene solo esta especie; la siguiente es la descripción a nivel de género basada en la literatura original; las medidas a nivel de especie y la variación intraespecífica figuran en el original.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Género nuevo establecido por Holmgren en 1912, con una sola especie, Apilitermes longiceps (Sjöst.), de Camerún; sus sinónimos son en parte Eutermes (Sjöstedt) y en parte Termes (Desneux). El alado es desconocido y solo se infiere a partir de la ninfa. El soldado tiene la cabeza en forma de rectángulo alargado; el poro de la glándula frontal se sitúa por detrás de la cara frontal inclinada, en la parte horizontal de la cabeza, carece de pilosidad alrededor y de él sale hacia delante un surco fino; el labro es cuadrangular y surcado, con el borde anterior no escotado; las mandíbulas son largas y rectas, con la parte apical y la media unidas en un solo cuerpo, y en la base hay una pequeña dilatación dentiforme y escalonada; antenas de 15 artejos. Del obrero el original solo anota «igual que Crenetermes»."
+  },
+  {
+   "label": "Soldado",
+   "text": "La cabeza es un rectángulo alargado, bastante elevada, con el borde anterior oblicuamente truncado. El poro de la glándula frontal, pequeño y sin pilosidad alrededor, se sitúa por detrás del borde posterior de la cara frontal inclinada, en la parte horizontal de la cabeza; desde el poro se extiende hacia delante un surco fino. El clípeo es plano, con la base pequeña y el lóbulo apical grande. El labro es cuadrangular, se ensancha hacia delante, está surcado y tiene el borde anterior no escotado. Las mandíbulas son largas, robustas y rectas, ligeramente curvadas hacia el ápice; la dentición es como la de Crenetermes, pero la base de la mandíbula derecha es menor; la parte apical y la media forman un solo cuerpo y en su base hay además una pequeña dilatación dentiforme y escalonada, claramente separada de la base; sobre todo en la mandíbula izquierda, la parte apical y la media presentan dentículos finos. Antenas de 15 artejos, con el tercero corto. El pronoto es pequeño y marcadamente en forma de silla de montar. Sin estilos."
+  },
+  {
+   "label": "Obrero",
+   "text": "El original solo da una frase comparativa: igual que el obrero de Crenetermes («Wie bei Crenetermes.»), sin enumerar caracteres propios, por lo que aquí no se reproducen los datos de Crenetermes."
+  },
+  {
+   "label": "Ninfa",
+   "text": "La ninfa macho presenta estilos reducidos (el original lo incluye bajo el apartado del alado, pues al ser desconocido el adulto se infiere a partir de la ninfa)."
+  }
+ ]
+}

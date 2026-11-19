@@ -1,0 +1,13 @@
+{
+ "note": "Adaptado de la descripción específica de Sjöstedt (1900), cuyo original está en alemán; el original trata principalmente el soldado, el alado se registra como desconocido y se describe además una larva; las proporciones entre las mandíbulas y la anchura de la cabeza, así como medidas como la longitud y la anchura de la cabeza, están incompletas por el OCR y no se transcriben; se omiten los números de figura y los registros de localidad.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Cápsula cefálica cilíndrica, aplanada dorsoventralmente, rectangular, ángulos redondeados, margen anterior casi recto, dos veces más larga que ancha, pardo castaño, algo más pálida en la parte posterior; frente inclinada hacia delante, anchamente cóncava; vértice algo aplanado a lo largo de la línea media; mandíbulas algo más cortas que la anchura de la cabeza, robustas hasta la base, negro brillante, solo muy débilmente curvadas hacia arriba en vista lateral, mandíbula izquierda con tres dientes distintos, bastante grandes y agudos, dos de ellos cerca del ápice, mandíbula derecha con dos dientes muy grandes en la mitad basal; labro ligulado, aplanado en la parte anterior, con un mechón de pelos finos, algo más largo que ancho; antenas de 17 segmentos, delgadas, algo más largas que la mitad de la cabeza, base rodeada por un collar prominente, casi imperceptiblemente estrechadas hacia fuera; primer segmento marcadamente mayor que el tercero, tercero mayor que los segmentos siguientes; ojo como una mancha pálida muy pequeña, oval pero evidente, por detrás de la fosa antenal; pronoto grande, algo más ancho que la cabeza, no rectangular-transverso sino más bien semicircular; ángulos anteriores redondeados y rectangulares, ángulos laterales redondeados y algo obtusos; márgenes laterales casi rectos; margen posterior en arco muy débil, ligeramente cóncavo en su parte media; margen anterior evidente, anchamente cóncavo; meso- y metanoto algo más estrechos que el pronoto e iguales en anchura entre sí, rectangulares, ángulos posteriores débilmente producidos, a veces algo más; patas cortas y robustas, con pequeños lóbulos anexos entre las uñas; todo el cuerpo, incluidas las patas, amarillo blanquecino, escleritos torácicos con tinte pardo, brillantes, cubiertos de pelos muy finos y cortos."
+  },
+  {
+   "label": "Ninfa",
+   "text": "Se dispone además de una larva de unos 8 mm de longitud, con los ángulos posteriores del mesonoto y sobre todo del metanoto algo producidos; escleritos torácicos como en el soldado, con una fina línea continua en la parte media."
+  }
+ ]
+}

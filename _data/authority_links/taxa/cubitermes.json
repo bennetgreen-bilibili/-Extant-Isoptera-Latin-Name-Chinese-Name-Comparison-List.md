@@ -1,0 +1,286 @@
+{
+ "Cubitermes atrox": {
+  "gbif": {
+   "key": 9701577,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cubitermes atrox (Smeathman, 1781)",
+   "accepted": null
+  },
+  "col": {
+   "id": "328JX",
+   "status": "accepted",
+   "label": "Cubitermes atrox (Smeathman, 1781)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237604",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cubitermes bilobatus": {
+  "gbif": {
+   "key": 8813583,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cubitermes bilobatus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "328K2",
+   "status": "accepted",
+   "label": "Cubitermes bilobatus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237608",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cubitermes caesareus": {
+  "gbif": {
+   "key": 9720766,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cubitermes caesareus (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "328K6",
+   "status": "accepted",
+   "label": "Cubitermes caesareus (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237611",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cubitermes conjenii": {
+  "gbif": {
+   "key": 9732852,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cubitermes conjenii (Fuller, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "328K9",
+   "status": "accepted",
+   "label": "Cubitermes conjenii (Fuller, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q135898523",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cubitermes exiguus": {
+  "gbif": {
+   "key": 9735468,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cubitermes exiguus Mathot, 1964",
+   "accepted": null
+  },
+  "col": {
+   "id": "328KD",
+   "status": "accepted",
+   "label": "Cubitermes exiguus Mathot, 1964",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237618",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cubitermes pretorianus": {
+  "gbif": {
+   "key": 9673198,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cubitermes pretorianus Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "328L5",
+   "status": "accepted",
+   "label": "Cubitermes pretorianus Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q135898512",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cubitermes pretorianus heidelbergi": {
+  "gbif": {
+   "key": 9696982,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 99,
+   "rank": "SUBSPECIES",
+   "name": "Cubitermes pretorianus heidelbergi (Fuller, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "KZYS6",
+   "status": "accepted",
+   "label": "Cubitermes pretorianus heidelbergi (Fuller, 1925)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cubitermes pretorianus pretorianus": {
+  "gbif": {
+   "key": 9807388,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Cubitermes pretorianus pretorianus Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "KZYS7",
+   "status": "accepted",
+   "label": "Cubitermes pretorianus pretorianus Silvestri, 1914",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cubitermes sanctaeluciae": {
+  "gbif": {
+   "key": 9775140,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cubitermes sanctaeluciae (Fuller, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "328L7",
+   "status": "accepted",
+   "label": "Cubitermes sanctaeluciae (Fuller, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237637",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cubitermes tenuiceps": {
+  "gbif": {
+   "key": 9651980,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cubitermes tenuiceps (Sjöstedt, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "328LK",
+   "status": "accepted",
+   "label": "Cubitermes tenuiceps (Sjöstedt, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237644",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cubitermes transvaalensis": {
+  "gbif": {
+   "key": 9730864,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cubitermes transvaalensis (Fuller, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "328LM",
+   "status": "accepted",
+   "label": "Cubitermes transvaalensis (Fuller, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q135898510",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cubitermes zulucola": {
+  "gbif": {
+   "key": 9692490,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cubitermes zulucola Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "328LW",
+   "status": "accepted",
+   "label": "Cubitermes zulucola Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q135898515",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cubitermes zuluensis": {
+  "gbif": {
+   "key": 9663528,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cubitermes zuluensis (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "328LX",
+   "status": "accepted",
+   "label": "Cubitermes zuluensis (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q135898517",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

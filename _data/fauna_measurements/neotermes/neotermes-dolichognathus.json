@@ -1,0 +1,62 @@
+{
+ "book_n": "52",
+ "book_name": "长颚新白蚁 Neotermes dolichognathus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "长颚新白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "2.36"
+    },
+    {
+     "key": "head_max_width",
+     "value": "1.68"
+    },
+    {
+     "key": "head_height",
+     "value": "1.21"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.34"
+    },
+    {
+     "key": "labrum_width",
+     "value": "0.40"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "1.58"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "1.59"
+    },
+    {
+     "key": "postmentum_max_width",
+     "value": "0.61"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "0.62"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.58"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.01"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 1175,
+   "unit": "mm"
+  }
+ ]
+}

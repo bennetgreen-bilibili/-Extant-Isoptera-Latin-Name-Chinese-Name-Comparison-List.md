@@ -1,0 +1,33 @@
+{
+ "fetched_at": "2026-10-30T15:45:26Z",
+ "latin": "Acangaobitermes",
+ "papers": [
+  {
+   "abstract": "Acangaobitermes krishnaigen. et sp. n., is described here, based on soldiers and workers collected in Brazil. Some characteristics suggest a close kinship with Noirotitermes Cancello & Myles, and both genera share the following traits absent in all other Syntermitinae: the microsculpturing on the soldier head capsule surface with internal granulations; the piercing mandibles with a single very reduced marginal tooth and the worker very similar in both genera. The most conspicuous differences between Acangaobitermes and Noirotitermes are the shape of the soldier head, the frontal tube and pronotum. The shape of the soldier head in Noirotitermes is unusual, with a very broad and short frontal tube, four conspicuous protuberances like sharp corners at the rear, while in the new genus the posterior contour of the head is devoid of these protuberances. The frontal tube of Acangaobitermes is elongate and conical, while in Noirotitermes it is short and very broad. The pronotum of Acangaobitermes is saddle-shaped as is usual in other Syntermitinae, while it is aberrant in Noirotitermes.",
+   "abstract_chars": 1095,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Mauricio M. Rocha",
+    "Eliana M. Cancello",
+    "Carolina Cuezzo"
+   ],
+   "cited_by": 8,
+   "date": "2011-11-21",
+   "doi": "10.3897/zookeys.148.1278",
+   "doi_url": "https://doi.org/10.3897/zookeys.148.1278",
+   "id": "https://openalex.org/W1968827921",
+   "issue": "148",
+   "language": "en",
+   "oa_url": "https://doi.org/10.3897/zookeys.148.1278",
+   "openalex_url": "https://openalex.org/W1968827921",
+   "pages": "125-134",
+   "title": "A new genus and species of mandibulate nasute termite (Isoptera, Termitidae, Syntermitinae) from Brazil",
+   "type": "article",
+   "venue": "ZooKeys",
+   "volume": "148",
+   "year": 2011
+  }
+ ],
+ "zh": "漏斗白蚁属"
+}

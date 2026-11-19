@@ -1,0 +1,25 @@
+{
+ "zh_name": "腐殖白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "工蚁 mixed segment 伸长，其内侧端部膨大成白色球形的 mesenteric diverticulum；此特征与 Anoplotermes sensu stricto 共有，可与其余南美无兵蚁白蚁属区分。与 Anoplotermes s.s. 的主要区别在肠瓣：本属肠瓣由 6 个 pad 组成，各具 10–20 根长刺伸入 paunch（P3）；有翅成虫的 fontanelle 更大、更伸长。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "复眼与单眼均中等大。fontanelle 中等大，呈位于两眼之间的长形白点。前胸背板背视半圆形，具数百根小刚毛与数十根长刚毛。中胸与后胸背板后缘略凹，角圆。"
+  },
+  {
+   "label": "工蚁",
+   "text": "很小至小型，头宽 0.49–0.62 mm（属级量度）。头壳白色，被 100 根以上小刚毛。fontanelle 几乎不显。前胫节中部膨大。消化道与 Anoplotermes sensu stricto 很相似：中肠与 proctodeum 重叠，形成明显的长 mixed segment，其 mesenteric 部分在内侧端部膨大成白色球形 diverticulum。肠瓣插入 paunch 的延伸部，由 6 个硬化 pad 组成，具发达的硬化 armature。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0054",
+   "citation": "Bourguignon T.; Roisin Y. 2016. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Grigiotermes Mathews and description of five new genera. Zoological Journal of the Linnean Society 176(1): 15–35. https://doi.org/10.1111/zoj.12305",
+   "locator": "Humutermes Bourguignon & Roisin, gen. nov. (genus treatment, pp. 20–22)"
+  }
+ ],
+ "note": "属级量度仅有工蚁头宽 0.49–0.62 mm，其余量度为种级。无兵蚁节（soldierless）。该属与 Patawatermes、Rubeotermes 同出 Bourguignon & Roisin (2016) 一文，三条来源合并为一条记录。"
+}

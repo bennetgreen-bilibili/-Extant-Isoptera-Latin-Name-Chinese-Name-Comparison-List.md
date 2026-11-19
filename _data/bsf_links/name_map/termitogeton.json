@@ -1,0 +1,24 @@
+{
+ "Termitogeton planus": {
+  "label": "Termitogeton planus (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83479,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83479/overview",
+  "valid_label": null,
+  "valid_otu": 83479,
+  "verified": false
+ },
+ "Termitogeton umbilicatus": {
+  "label": "Termitogeton umbilicatus (Hagen, 1858)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83480,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83480/overview",
+  "valid_label": null,
+  "valid_otu": 83480,
+  "verified": false
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "zh_name": "缺齿锯白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 var. transiens 相比体型较大，头侧较圆；该变种较小，头侧更直。原文提到 von Rosen 因在同一巢中采到 transiens 而把它视为 M. fuscotibialis subsp. libericus 的变种，但原文作者难以相信 M. edentatus 只是 M. fuscotibialis 的一个型。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头红黄，相当长；两侧平行，比 var. transiens 略圆；触角 13 节，第三节小于第四节，第二节与第四节相等；上唇相当长，圆，略呈三尖；上颚无齿，具极细的锯齿，黑色；前胸背板前缘凹得很明显，比 var. transiens 稍深。量度：头连上颚 3.33–3.43，头宽 1.23–1.30，触角长 1.83，前胸背板长 0.46、宽 0.80，后足胫节 1.16，左上颚 1.27。所据标本与 M. fuscotibialis 采自同一瓶。"
+  }
+ ],
+ "note": "据 Emerson (1928) 对该种的描述改写，原文为英文；原文仅描述兵蚁，未描述工蚁、有翅成虫与若虫。同一扫描切片的后半为 var. transiens 的描述与量度，未取用。已删去图号与产地记录。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

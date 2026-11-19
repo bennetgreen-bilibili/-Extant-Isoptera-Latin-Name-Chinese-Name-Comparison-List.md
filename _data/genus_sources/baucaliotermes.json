@@ -1,0 +1,35 @@
+{
+ "latin": "Baucaliotermes",
+ "zh": "细颈白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Baucaliotermes Sands, 1965c: 138–139.",
+ "type_species": "Subulitermes hainesi Fuller, 1922 by original designation.",
+ "references": [
+  {
+   "ref": "Bouillon and Mathot, 1966: 4",
+   "note": "Baucaliotermes; key."
+  },
+  {
+   "ref": "Coaton and Sheasby, 1972: 24, 93, 101, figs. 24A–B, 55",
+   "note": "Baucaliotermes; soldier figured; key; ecology; biology; distribution. Namibia."
+  },
+  {
+   "ref": "Morimoto, 1975b: 25",
+   "note": "Baucaliotermes; key."
+  },
+  {
+   "ref": "Sands, 1995: 1506",
+   "note": "Baucaliotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 44, 278–281, figs.1380–1393, pl. 17: fig. 7",
+   "note": "Baucaliotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  },
+  {
+   "ref": "Uys, 2002: 96, 97–98, fig. 235",
+   "note": "Baucaliotermes; key; species included; diagnosis; biology; distribution. South Africa."
+  }
+ ],
+ "nrefs": 10
+}

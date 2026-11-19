@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "取食招募行为",
+   "heading_en": "Recruitment to food",
+   "heading_es": "Reclutamiento hacia el alimento",
+   "paragraphs": [
+    {
+     "text": "根据 Olugbemi（2010）研究，棕胫锯白蚁（<i>Microcerotermes fuscotibialis</i>）为木食性，在树木、土墙与木结构上筑灰褐色狭窄的土质通道，内壁以粪粒衬里；虽为地下性生活，却在树上筑卵形或球形纸巢，并有覆盖通道通向地面。实验材料为尼日利亚拉各斯大学校园内半径 100 米范围内的 3 个树栖群体，筑于 <i>Mussaenda elegans</i> 树干，室内饲养温度 27 ± 3 ℃、相对湿度 70%。Y 形选择试验中，基线出巢流量为 4–5 头/分钟；食物源放入后，最初 4 分钟（第 31–34 分钟）出巢流量升至 7–12 头/分钟，第 35–50 分钟维持 15–23 头/分钟，至第 60 分钟为 15–25 头/分钟；食物移除后 4–7 分钟内活动显著下降；另加一处新食物源并不改变通往原有食物源的招募流量，出巢流量维持在 15–24 头/分钟。",
+     "src": [
+      "S0339"
+     ],
+     "text_en": "In the study by Olugbemi (2010), <i>Microcerotermes fuscotibialis</i> is wood-feeding and builds narrow greyish-brownish earthen runways lined with faecal deposits over trees, mud walls and wooden structures; although it lives underground, it builds an ovoid or spherical carton nest in trees with covered runways leading to the ground. The experimental material came from three arboreal colonies within a 100 m radius on the University of Lagos campus, Nigeria, nesting in trunks of <i>Mussaenda elegans</i>, kept at 27 +/- 3 C and 70% RH. In Y-maze choice tests, baseline outgoing traffic was 4-5 termites per minute; after food was offered it rose to 7-12 termites per minute in the first four minutes (minutes 31-34), held at 15-23 per minute in minutes 35-50 and reached 15-25 per minute by minute 60; activity dropped markedly within 4-7 minutes after the food was removed; adding a second food source did not change recruitment toward the original one, with outgoing traffic maintained at 15-24 termites per minute.",
+     "text_es": "En el estudio de Olugbemi (2010), <i>Microcerotermes fuscotibialis</i> es xilófaga y construye galerías de tierra estrechas, de color pardo grisáceo, revestidas de depósitos fecales sobre árboles, muros de barro y estructuras de madera; aunque vive bajo tierra, construye un nido de cartón ovoide o esférico en los árboles con galerías cubiertas hasta el suelo. El material experimental procedió de tres colonias arbóreas en un radio de 100 m en el campus de la Universidad de Lagos, Nigeria, anidadas en troncos de <i>Mussaenda elegans</i>, mantenidas a 27 +/- 3 C y 70% de HR. En pruebas de elección en laberinto en Y, el tráfico de salida basal fue de 4-5 termitas por minuto; tras ofrecer el alimento subió a 7-12 termitas por minuto en los primeros cuatro minutos (minutos 31-34), se mantuvo en 15-23 por minuto entre los minutos 35-50 y llegó a 15-25 por minuto hacia el minuto 60; la actividad cayó marcadamente entre 4 y 7 minutos después de retirarlo; añadir una segunda fuente de alimento no cambió el reclutamiento hacia la original, con un tráfico de salida mantenido en 15-24 termitas por minuto."
+    }
+   ]
+  },
+  {
+   "heading": "鉴别特征与西非新记录",
+   "heading_en": "Diagnosis and the new record from West Africa",
+   "heading_es": "Diagnosis y el nuevo registro de África occidental",
+   "paragraphs": [
+    {
+     "text": "根据 Ndiaye、Njie 与 Correa（2019）研究，棕胫锯白蚁（<i>Microcerotermes fuscotibialis</i>）在形态、体型与生态上可与同属体型较小的种类区别，但由于鉴定困难，非洲标本存在多次误定；该研究在冈比亚的 Abuko 自然保护区、Nyambai 森林公园与 Tanji 鸟类保护区记录到本种，为该国新记录，属该研究新增的 6 种白蚁亚科记录之一。该研究把本种与同属小型种的区别困难归因于锯白蚁属（<i>Microcerotermes</i>）非洲种类缺乏订正。",
+     "src": [
+      "S0346"
+     ],
+     "text_en": "In the study by Ndiaye, Njie and Correa (2019), <i>Microcerotermes fuscotibialis</i> can be distinguished by morphology, size and ecology from the smaller species of the genus, but difficulties of identification have led to repeated misidentifications of African material; the study recorded the species in Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve in The Gambia, a new record for the country and one of the six new Termitinae records reported. The study attributes the difficulty of separating it from the small congeners to the lack of a revision of the African species of <i>Microcerotermes</i>.",
+     "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), <i>Microcerotermes fuscotibialis</i> se distingue por morfología, tamaño y ecología de las especies menores del género, pero las dificultades de identificación han provocado repetidas identificaciones erróneas del material africano; el estudio registró la especie en la Reserva Natural de Abuko, el Parque Forestal de Nyambai y la Reserva de Aves de Tanji, en Gambia, un registro nuevo para el país y uno de los seis nuevos registros de Termitinae señalados. El estudio atribuye la dificultad de separarla de sus congéneres pequeños a la falta de una revisión de las especies africanas de <i>Microcerotermes</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0339",
+   "citation": "Olugbemi, B. O. 2010. Influence of Food on Recruitment Pattern in the Termite, Microcerotermes fuscotibialis. Journal of Insect Science 10: 154.",
+   "doi": "10.1673/031.010.14114"
+  },
+  {
+   "id": "S0346",
+   "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+   "doi": "10.3390/insects10050122"
+  }
+ ]
+}

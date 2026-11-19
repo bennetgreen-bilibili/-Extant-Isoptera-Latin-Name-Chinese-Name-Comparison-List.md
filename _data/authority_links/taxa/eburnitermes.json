@@ -1,0 +1,24 @@
+{
+ "Eburnitermes grassei": {
+  "gbif": {
+   "key": 9662126,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eburnitermes grassei Noirot, 1966",
+   "accepted": null
+  },
+  "col": {
+   "id": "6DTJN",
+   "status": "accepted",
+   "label": "Eburnitermes grassei Noirot, 1966",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225314",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "Quasitermes incisus": {
+  "label": "Quasitermes incisus (Cachan, 1949)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85802,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85802/overview",
+  "valid_label": null,
+  "valid_otu": 85802,
+  "verified": false
+ }
+}

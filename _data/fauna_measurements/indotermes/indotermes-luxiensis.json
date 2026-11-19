@@ -1,0 +1,63 @@
+{
+ "book_n": "335",
+ "book_name": "潞西华白蚁 Sinitermes luxiensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "潞西华白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_mandibles",
+     "mean": "3.63",
+     "value": "3.45–3.75"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.54",
+     "value": "2.46–2.61"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "2.20",
+     "value": "2.14–2.29"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.22",
+     "value": "1.18–1.25"
+    },
+    {
+     "key": "right_mandible_length",
+     "mean": "1.19",
+     "value": "1.14–1.21"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "0.54",
+     "value": "0.50–0.57"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.30",
+     "value": "0.29–0.32"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.77",
+     "value": "0.71–0.82"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "1.05",
+     "value": "1.00–1.11"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 105,
+   "unit": "mm"
+  }
+ ]
+}

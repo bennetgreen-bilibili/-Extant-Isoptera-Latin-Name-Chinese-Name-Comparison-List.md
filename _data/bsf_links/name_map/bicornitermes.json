@@ -1,0 +1,46 @@
+{
+ "Bicornitermes bicornis": {
+  "label": "Bicornitermes bicornis Krishna, 1961",
+  "match": "exact",
+  "notes": "",
+  "otu": 82554,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82554/overview",
+  "valid_label": null,
+  "valid_otu": 82554,
+  "verified": false
+ },
+ "Bicornitermes emersoni": {
+  "label": "Bicornitermes emersoni Krishna, 1962",
+  "match": "exact",
+  "notes": "",
+  "otu": 82555,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82555/overview",
+  "valid_label": null,
+  "valid_otu": 82555,
+  "verified": false
+ },
+ "Bicornitermes exsertifrons": {
+  "label": "Bicornitermes exsertifrons (Wilkinson, 1958)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82556,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82556/overview",
+  "valid_label": null,
+  "valid_otu": 82556,
+  "verified": false
+ },
+ "Bicornitermes spinicollis": {
+  "label": "Bicornitermes spinicollis (Wilkinson, 1958)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82557,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82557/overview",
+  "valid_label": null,
+  "valid_otu": 82557,
+  "verified": false
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "Hyleotermes brevipilus": {
+  "label": "Hyleotermes brevipilus (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84583,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84583/overview",
+  "valid_label": null,
+  "valid_otu": 84583,
+  "verified": false
+ }
+}

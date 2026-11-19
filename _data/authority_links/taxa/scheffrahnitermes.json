@@ -1,0 +1,26 @@
+{
+ "Scheffrahnitermes ubuntu": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 99,
+   "rank": "KINGDOM",
+   "name": "Animalia",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "VSF9H",
+   "status": "accepted",
+   "label": "Scheffrahnitermes ubuntu Mellado, Messina & Carrijo, 2026",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-31"
+ }
+}

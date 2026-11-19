@@ -1,0 +1,55 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "西印度群岛的分布",
+   "heading_en": "Distribution in the West Indies",
+   "heading_es": "Distribución en las Antillas",
+   "paragraphs": [
+    {
+     "text": "据摘要，Szalanski 等（2004）把安提瓜、巴巴多斯、库拉索、多米尼加共和国、马提尼克、波多黎各、圣基茨、圣马丁、委内瑞拉与维尔京群岛的种群归入凸背异白蚁（Heterotermes convexinotatus）。",
+     "text_en": "According to the abstract, Szalanski et al. (2004) assigned populations from Antigua, Barbados, Curaçao, the Dominican Republic, Martinique, Puerto Rico, St. Kitts, St. Maarten, Venezuela and the Virgin Islands to <i>Heterotermes convexinotatus</i>.",
+     "text_es": "Según el resumen, Szalanski et al. (2004) asignaron a <i>Heterotermes convexinotatus</i> las poblaciones de Antigua, Barbados, Curazao, República Dominicana, Martinica, Puerto Rico, San Cristóbal, San Martín, Venezuela e Islas Vírgenes.",
+     "src": [
+      "S0192"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "橡胶林中的取食与危害",
+   "heading_en": "Feeding and damage in rubber plantations",
+   "heading_es": "Alimentación y daño en plantaciones de caucho",
+   "paragraphs": [
+    {
+     "src": [
+      "S0285"
+     ],
+     "text": "根据 Pinzón 等（2012）研究，哥伦比亚橡胶林中凸背异白蚁（<i>Heterotermes convexinotatus</i>）是种数最多的类群之一；在 1,500 块受检木材（橡胶树倒木与 1.5–4 m 枯枝）中有 35% 出现该种危害迹象，受害木材含水率高于 25%，且多数同时被深褐色菌丝的真菌定殖；3 个林龄的橡胶林均未见其对橡胶作物危害，其作用被解释为参与伐木残体（含 2 年生林嫁接残桩）的分解。",
+     "text_en": "According to Pinzón et al. (2012), <i>Heterotermes convexinotatus</i> is one of the groups with the greatest number of species in Colombian rubber plantations; 35% of 1,500 inspected pieces of wood (fallen rubber trees and dead branches 1.5–4 m long) showed signs of damage by this species, the affected wood had a moisture content above 25%, and most of it was also colonized by fungi with dark brown hyphae; in rubber plantations of all three ages damage to the rubber crop was not observed, and its role is interpreted as participation in the decomposition of logging residues (including grafting stumps in 2-year-old plantations).",
+     "text_es": "Según Pinzón et al. (2012), <i>Heterotermes convexinotatus</i> es uno de los grupos con mayor número de especies en las plantaciones de caucho de Colombia; el 35 % de 1.500 piezas de madera examinadas (árboles de caucho caídos y ramas muertas de 1,5–4 m) mostró signos de daño por esta especie, la madera afectada presentó un contenido de humedad superior al 25 % y en su mayoría estaba también colonizada por hongos de hifas pardo oscuras; en las plantaciones de caucho de las tres edades no se observó daño al cultivo, y su papel se interpreta como participación en la descomposición de los residuos de tala (incluidos los tocones de injerto en plantaciones de 2 años)."
+    },
+    {
+     "src": [
+      "S0285"
+     ],
+     "text": "在土壤有机层的相对丰度中，该种占 11.6%（解甲白蚁属 <i>Anoplotermes</i> 31%、灰白蚁属 <i>Grigiotermes</i> 20.8%），在 80 个样段的全部相遇记录中占 30%；松属（<i>Pinus</i>）木桩饵的平均受害率为 47%，最高出现在 17 年生橡胶林。",
+     "text_en": "In terms of relative abundance in the soil organic layer this species accounted for 11.6% (<i>Anoplotermes</i> 31%, <i>Grigiotermes</i> 20.8%), and for 30% of all encounter records from the 80 transect sections; the mean damage rate of <i>Pinus</i> stake baits was 47%, highest in the 17-year-old rubber plantation.",
+     "text_es": "En cuanto a la abundancia relativa en la capa orgánica del suelo, esta especie representó el 11,6 % (<i>Anoplotermes</i> 31 %, <i>Grigiotermes</i> 20,8 %) y el 30 % de todos los registros de encuentro de las 80 secciones de muestreo; la tasa media de daño de los cebos de estaca de <i>Pinus</i> fue del 47 %, máxima en la plantación de caucho de 17 años."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0192",
+   "citation": "Szalanski, A. L.; Scheffrahn, R. H.; Austin, J. W.; Křeček, J.; Su, N.-Y. 2004. Molecular phylogeny and biogeography of Heterotermes (Isoptera: Rhinotermitidae) in the West Indies. Annals of the Entomological Society of America 97: 556–566.",
+   "doi": "10.1603/0013-8746(2004)097[0556:MPABOH]2.0.CO;2"
+  },
+  {
+   "id": "S0285",
+   "citation": "Olga Patricia Pinzón; Ana María Hernández; LEONARDO ANDRÉS MALAGÓN. 2012. Diversity of Termites (Isoptera: Termitidae, Rhinotermitidae) in Rubber-Tree Plantations in Puerto López (Meta, Colombia). SAGE Publications.",
+   "doi": "10.25100/socolen.v38i2.9009"
+  }
+ ]
+}

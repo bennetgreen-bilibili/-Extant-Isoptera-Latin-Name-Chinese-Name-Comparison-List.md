@@ -1,0 +1,13 @@
+{
+ "Serritermes serrifer": {
+  "label": "Serritermes serrifer (Hagen & Bates, 1858)",
+  "match": "exact",
+  "notes": "",
+  "otu": 656665,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/656665/overview",
+  "valid_label": null,
+  "valid_otu": 656665,
+  "verified": false
+ }
+}

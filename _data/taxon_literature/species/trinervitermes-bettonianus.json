@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "群体迁移（sociotomy）",
+   "heading_en": "Colony migration (sociotomy)",
+   "heading_es": "Migración de la colonia (sociotomía)",
+   "paragraphs": [
+    {
+     "src": [
+      "S0211"
+     ],
+     "text": "据摘要，Grassé 与 Noirot（1951）观察到贝顿三脉白蚁（<i>Trinervitermes bettonianus</i>）的群体在白天成列离巢迁移，列中包含王室配偶与全部品级，含有翅成虫在地面爬行并搬运幼虫；迁移队伍分群后各自建立新巢，补充生殖蚁由幼态持续（neoteny）频繁产生。",
+     "text_en": "According to the abstract, Grassé and Noirot (1951) observed colonies of <i>Trinervitermes bettonianus</i> leaving the nest by day in columns that included the royal pair and all castes, with alates walking on the ground and carrying larvae; the columns split and founded new nests, and neotenic reproductives are produced frequently by neoteny.",
+     "text_es": "Según el resumen, Grassé y Noirot (1951) observaron colonias de <i>Trinervitermes bettonianus</i> abandonar el nido de día en columnas que incluían a la pareja real y todas las castas, con alados caminando por el suelo y transportando larvas; las columnas se dividieron y fundaron nuevos nidos, y los reproductores neoténicos se producen con frecuencia por neotenia."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0211",
+   "citation": "Grassé, P.-P. & Noirot, C. (1951). La sociotomie: migration et fragmentation de la termitière chez les Anoplotermes et les Trinervitermes. Behaviour.",
+   "doi": "10.1163/156853951x00241"
+  }
+ ]
+}

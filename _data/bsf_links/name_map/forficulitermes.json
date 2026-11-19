@@ -1,0 +1,13 @@
+{
+ "Forficulitermes planifrons": {
+  "label": "Forficulitermes planifrons Emerson, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 85068,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85068/overview",
+  "valid_label": null,
+  "valid_otu": 85068,
+  "verified": false
+ }
+}

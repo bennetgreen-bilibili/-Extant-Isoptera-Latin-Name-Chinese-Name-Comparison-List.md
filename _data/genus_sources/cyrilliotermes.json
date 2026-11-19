@@ -1,0 +1,23 @@
+{
+ "latin": "Cyrilliotermes",
+ "zh": "壶头白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Cyrilliotermes Fontes, 1985c: 11–12.",
+ "type_species": "Cyrilliotermes cupim Fontes, 1885 by original designation.",
+ "references": [
+  {
+   "ref": "Constantino, 1999a: 410, 416",
+   "note": "Cyrilliotermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 20",
+   "note": "Cyrilliotermes; key."
+  },
+  {
+   "ref": "Constantino and Carvallo, 2012: 26–27",
+   "note": "Cyrilliotermes; imago, soldier; generic characters."
+  }
+ ],
+ "nrefs": 6
+}

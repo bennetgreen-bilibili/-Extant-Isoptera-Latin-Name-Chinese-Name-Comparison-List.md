@@ -1,0 +1,43 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "鉴别特征、中胸锉与蛀道",
+   "heading_en": "Diagnostic characters, mesonotal rasp and galleries",
+   "heading_es": "Caracteres diagnósticos, raspador mesonotal y galerías",
+   "paragraphs": [
+    {
+     "src": [
+      "S0303"
+     ],
+     "text": "根据 Scheffrahn（2011）研究，距白蚁属（<i>Calcaritermes</i>）的鉴别特征为前胫外侧刺相对另两枚胫刺显著增大，兵蚁另具深色、较光滑的圆柱形头壳；该属是木白蚁科（Kalotermitidae）内的基部类群，与同域分布、同样具深色额板型兵蚁的堆砂白蚁属（<i>Cryptotermes</i>）亲缘关系并不近。",
+     "text_en": "According to Scheffrahn (2011), <i>Calcaritermes</i> is diagnosed by the outer spine of the protibia being markedly enlarged relative to the other two tibial spines, and by soldiers that also have a dark, relatively smooth cylindrical head capsule; the genus is a basal lineage within Kalotermitidae and is not closely related to the sympatric <i>Cryptotermes</i>, which likewise has soldiers with a dark frontal-plate type head.",
+     "text_es": "Según Scheffrahn (2011), <i>Calcaritermes</i> se diagnostica por la espina externa de la protibia, marcadamente agrandada respecto de las otras dos espinas tibiales, y porque los soldados presentan además una cápsula cefálica cilíndrica oscura y relativamente lisa; el género es un linaje basal dentro de Kalotermitidae y no está estrechamente emparentado con <i>Cryptotermes</i>, simpátrico y también con soldados de tipo placa frontal oscura."
+    },
+    {
+     "src": [
+      "S0303"
+     ],
+     "text": "该研究基于 1996—2010 年间采自 122 个地点的 214 份距白蚁属（<i>Calcaritermes</i>）群体样品（存于佛罗里达大学白蚁收藏馆，馆藏超过 34,000 份样品）；中胸锉实为单层略覆瓦状排列的匙形鳞片、以前端附着，具中线分隔并隆起成丘，除切头距白蚁（<i>Calcaritermes temnocephalus</i>）外的无翅拟工蚁、早期短翅若虫与多数兵蚁均有，成熟生殖个体无锉，锉的发达程度与翅芽大小成反比、羽化前一龄时消失。",
+     "text_en": "The study is based on 214 colony samples of <i>Calcaritermes</i> collected at 122 localities between 1996 and 2010 (held in the University of Florida termite collection, which contains more than 34,000 samples); the mesonotal rasp is in fact a single layer of slightly imbricate, spoon-shaped scales attached at their anterior ends, divided by a median line and raised into a mound, present in apterous pseudergates, early brachypterous nymphs and most soldiers other than <i>Calcaritermes temnocephalus</i>, absent in mature reproductives, and inversely proportional in its development to wing-bud size, disappearing in the instar before eclosion.",
+     "text_es": "El estudio se basa en 214 muestras de colonias de <i>Calcaritermes</i> recolectadas en 122 localidades entre 1996 y 2010 (depositadas en la colección de termites de la Universidad de Florida, que reúne más de 34 000 muestras); el raspador mesonotal es en realidad una sola capa de escamas espatuladas, ligeramente imbricadas y unidas por su extremo anterior, dividida por una línea media y elevada en forma de montículo, presente en los pseudergados ápteros, en las ninfas braquípteras tempranas y en la mayoría de los soldados, con excepción de <i>Calcaritermes temnocephalus</i>, ausente en los reproductores maduros, y cuyo desarrollo es inversamente proporcional al tamaño de los esbozos alares, desapareciendo en el instar previo a la eclosión."
+    },
+    {
+     "src": [
+      "S0303"
+     ],
+     "text": "该属蛀道狭窄呈管状（一次约仅容两只白蚁通过），在木材中彼此相隔较远、占据体积小；道内散落粪粒很少，壁面覆湿润的粪便／微生物状糊状物，道缘常见向木材内部延伸的染色晕（推测为真菌侵染），切头距白蚁（<i>Calcaritermes temnocephalus</i>）例外。",
+     "text_en": "The galleries of the genus are narrow and tube-like (about wide enough for only two termites to pass at once), widely separated from one another within the wood and occupying little volume; few scattered faecal pellets occur inside, the walls are covered with a moist faeces- or microbe-like paste, and stained halos extending into the wood (presumed fungal infection) are common at the gallery margins, with <i>Calcaritermes temnocephalus</i> as an exception.",
+     "text_es": "Las galerías del género son estrechas y tubulares (apenas del ancho suficiente para que pasen dos termites a la vez), están muy separadas entre sí dentro de la madera y ocupan poco volumen; en su interior hay pocos gránulos fecales dispersos, las paredes están cubiertas por una pasta húmeda de aspecto fecal o microbiano, y en los bordes de las galerías son frecuentes los halos manchados que se extienden hacia el interior de la madera (se supone que por infección fúngica), con <i>Calcaritermes temnocephalus</i> como excepción."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0303",
+   "citation": "Scheffrahn, R. H. 2011. Distribution, diversity, mesonotal morphology, gallery architecture, and queen physogastry of the termite genus Calcaritermes (Isoptera, Kalotermitidae). Pensoft Publishers.",
+   "doi": "10.3897/zookeys.148.1505"
+  }
+ ]
+}

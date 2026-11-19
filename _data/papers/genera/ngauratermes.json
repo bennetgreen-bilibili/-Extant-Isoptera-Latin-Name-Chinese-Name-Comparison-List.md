@@ -1,0 +1,57 @@
+{
+ "latin": "Ngauratermes",
+ "zh": "凋落白蚁属",
+ "fetched_at": "2026-10-30T16:54:12Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W4293352560",
+   "openalex_url": "https://openalex.org/W4293352560",
+   "doi": "10.5281/zenodo.190494",
+   "doi_url": "https://doi.org/10.5281/zenodo.190494",
+   "title": "Ngauratermes arue, new genus and species of nasute termite (Isoptera: Termitidae) from the Amazon",
+   "year": 2009,
+   "date": "2009-12-31",
+   "authors": [
+    "Reginaldo Constantino",
+    "Agno Nonato Serrão Acioli"
+   ],
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "https://www.openaccessrepository.it/record/190494",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "Constantino, Reginaldo, Acioli, Agno N. S. (2009): Ngauratermes arue, new genus and species of nasute termite (Isoptera: Termitidae) from the Amazon. Zootaxa 2239: 22-30, DOI: 10.5281/zenodo.190494",
+   "abstract_source": "openalex",
+   "abstract_chars": 197,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2605485124",
+   "openalex_url": "https://openalex.org/W2605485124",
+   "doi": "10.11646/zootaxa.2239.1.2",
+   "doi_url": "https://doi.org/10.11646/zootaxa.2239.1.2",
+   "title": "Ngauratermes arue, new genus and species of nasute termite (Isoptera: Termitidae) from the Amazon",
+   "year": 2009,
+   "date": "2009-09-24",
+   "authors": [
+    "Reginaldo Constantino",
+    "Agno Nonato Serrão Acioli"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 3,
+   "oa_url": "",
+   "volume": "2239",
+   "issue": "1",
+   "pages": "",
+   "abstract": "Ngauratermes arue, new termite genus and species from the Amazon region is described based on soldiers and workers. Soldiers are dimorphic, with constricted head and vestigial mandibles with distinct points. Workers are dimorphic, but one worker type is rare. The gut morphology of Ngauratermes is similar to that of Velocitermes and Diversitermes, with a large crop, P1 simple and tubular, enteric valve conical and curved. The relationships of the new genus with other neotropical Nasutitermitinae are discussed.",
+   "abstract_source": "openalex",
+   "abstract_chars": 514,
+   "abstract_truncated": false
+  }
+ ]
+}

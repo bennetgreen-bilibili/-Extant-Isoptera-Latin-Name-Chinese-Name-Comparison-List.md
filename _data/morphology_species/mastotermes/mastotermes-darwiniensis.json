@@ -1,0 +1,21 @@
+{
+ "zh_name": "达尔文澳白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "翅脉层面的属级特征：前翅径分脉合并程度高、相邻上分支间距窄；前翅肩缝（humeral suture）较 Blattotermes 更弯、更凸；后翅具发达的臀叶，原文称臀叶为本属及其近缘属的特征；径分脉紧凑，中脉更靠近径分脉而远离前肘脉，据此可把仅有翅的标本归入本属。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "前翅径分脉高度合并，相邻的上分支间距窄；前翅肩缝（humeral suture）呈明显的弧状凸出，较 Blattotermes 更弯；后翅臀叶发达。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0039",
+   "citation": "Emerson, A. E. 1965. A review of the Mastotermitidae (Isoptera), including a new fossil genus from Brazil. American Museum Novitates 2236: 1–46.",
+   "locator": "pp. 10, 24–25, 31–32"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+}

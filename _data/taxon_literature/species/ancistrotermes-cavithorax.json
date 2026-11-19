@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "兵蚁的萜类防御分泌物",
+   "heading_en": "Terpenoid defensive secretions of soldiers",
+   "heading_es": "Secreciones defensivas terpenoides de los soldados",
+   "paragraphs": [
+    {
+     "src": [
+      "S0216"
+     ],
+     "text": "据摘要，Baker 等（1978）报道，凹胸钩白蚁（<i>Ancistrotermes cavithorax</i>）兵蚁的防御分泌物为萜类化合物：小兵蚁只产生 ancistrodial（化合物 1），大兵蚁则产生 ancistrofuran（化合物 6），并伴随化合物 4 与 5；两个兵蚁品级的化学成分不同，提示其防御功能存在分工。",
+     "text_en": "According to the abstract of Baker et al. (1978), the defensive secretion of <i>Ancistrotermes cavithorax</i> soldiers consists of diterpenes: minor soldiers produce only ancistrodial (compound 1), whereas major soldiers produce ancistrofuran (compound 6) together with compounds 4 and 5; the chemical difference between the two soldier castes suggests a division of defensive function.",
+     "text_es": "Según el resumen de Baker et al. (1978), la secreción defensiva de los soldados de <i>Ancistrotermes cavithorax</i> está formada por diterpenos: los soldados menores producen solo ancistrodial (compuesto 1), mientras que los soldados mayores producen ancistrofurano (compuesto 6) junto con los compuestos 4 y 5; la diferencia química entre ambas castas de soldados sugiere una división de la función defensiva."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0216",
+   "citation": "Baker, R.; Briner, P. H.; Evans, D. A. 1978. Chemical defence in the termite Ancistrotermes cavithorax: ancistrodial and ancistrofuran. Journal of the Chemical Society, Chemical Communications 1978: 410–411.",
+   "doi": "10.1039/c39780000410"
+  }
+ ]
+}

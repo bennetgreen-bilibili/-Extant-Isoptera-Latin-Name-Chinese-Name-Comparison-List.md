@@ -1,0 +1,24 @@
+{
+ "Saxatilitermes saxatilis": {
+  "gbif": {
+   "key": 4803087,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Saxatilitermes saxatilis Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "6Y2Z2",
+   "status": "accepted",
+   "label": "Saxatilitermes saxatilis Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272549",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

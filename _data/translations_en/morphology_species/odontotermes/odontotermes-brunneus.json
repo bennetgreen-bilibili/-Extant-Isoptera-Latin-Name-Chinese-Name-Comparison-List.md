@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from the species-level description in Chhotani (1997), originally in English; alates, soldiers and workers are all described; synonymy, literature citations, figure numbers and distribution records are not translated. Biological information is placed under Other.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head capsule light brown to reddish brown, antennae brown, deepening toward the apex, labrum and body rusty yellow. Pilosity of the head capsule fairly dense, body pilosity dense. Body length 5.0–7.0 mm. Head capsule suboblong-oval, slightly narrowed in front of the antennae (head length to base of mandibles 1.50–2.0, maximum width 1.28–1.50 mm, width/length index 0.75–0.87). Antennae 17-segmented; segment 3 shortest, segment 4 shorter than segment 2, segment 5 shorter than segment 4. Labrum ligulate, anterior margin rounded. Mandibles thick, stout and short, strongly incurved anteriorly (length 0.90–1.10 mm), shorter than the head (mandible length/head length index 0.56–0.62). Left mandible with a large, prominent tooth below the apical third (tooth distance 0.33–0.45 mm, tooth distance/mandible length index 0.34–0.42); right mandible with a small tooth near the middle. Postmentum subrectangular (length 0.95–1.20, maximum width 0.50–0.60 mm). Pronotum saddle-shaped, anterior margin strongly concave, posterior margin weakly to deeply concave at the middle."
+  },
+  {
+   "label": "Worker",
+   "text": "Workers dimorphic. Major worker: head capsule light yellowish brown, postclypeus and labrum yellow, antennae yellowish brown, paler at the base; pilosity of head and body fairly dense. Body length 4.8–5.6 mm. Head capsule subquadrate (head length to base of mandibles 1.25–1.45, maximum width 1.45–1.60 mm). Antennae 17–19-segmented, basal segments varying in size, segment 3 or 4 shortest. Postclypeus inflated, length less than half the width. Pronotum as in the soldier (length 0.45–0.53, width 0.80–0.88 mm). Minor worker: resembling the major worker but smaller, antennae 16–17-segmented; body length 3.6–4.5 mm, head length to base of mandibles 0.75–0.88, maximum head width 0.93–1.00, pronotum length 0.40–0.45, width 0.65–0.70 mm."
+  },
+  {
+   "label": "Alate",
+   "text": "Head capsule dark reddish brown to blackish brown, antennae and postclypeus yellowish brown, pronotum concolorous with the head capsule, with a T-shaped mark and two oval shoulder spots, wings yellowish brown, abdominal tergites slightly paler than the head capsule, sternites yellowish brown. Pilosity of head and body fairly dense. Body length (including wings) 27.0–29.0 mm, without wings 13.0–14.6 mm. Head capsule subcircular (head length to base of mandibles 1.65–1.90, maximum width including compound eyes 2.50–2.81 mm). Fontanelle minute, slightly raised. Compound eyes medium-sized, subcircular (maximum diameter 0.65–0.70, minimum diameter 0.63–0.65 mm). Ocelli oval (long diameter 0.30–0.35, short diameter 0.18–0.20 mm), separated from the compound eye by about half the long diameter or slightly less than the short diameter. Antennae 20-segmented, segment 3 shorter than segment 2 or 4, segment 5 shortest. Postclypeus inflated, length less than half the width. Pronotum sub-trapezoidal (length 1.25–1.35, maximum width 1.95–2.60 mm), anterior margin slightly upturned with a weak median emargination, posterior margin concave at the middle. Wings long and narrow, fore wing length 25.0 mm, radial band separated at about the proximal third."
+  },
+  {
+   "label": "Other",
+   "text": "Roonwal (1973, 1978a) described 5 types of mound in this species; specimens were also collected in soil beneath cattle dung, under bark and under dead leaves. Damage to groundnut and maize crops and to building timber has been reported from Andhra Pradesh (Reddy and Sammaiah, 1991)."
+  }
+ ]
+}

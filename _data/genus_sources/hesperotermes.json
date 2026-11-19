@@ -1,0 +1,15 @@
+{
+ "latin": "Hesperotermes",
+ "zh": "西澳白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Hesperotermes Gay, 1971a: 20–21.",
+ "type_species": "Mirotermes infrequens Hill, 1927 by original designation.",
+ "references": [
+  {
+   "ref": "Hill, 1942: 14, 377–379",
+   "note": "Mirotermes [part]; as genus and subgenus; key; synonymy; imago, soldier, worker diagnosed."
+  }
+ ],
+ "nrefs": 3
+}

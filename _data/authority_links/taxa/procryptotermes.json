@@ -1,0 +1,310 @@
+{
+ "Procryptotermes australiensis": {
+  "gbif": {
+   "key": 4802913,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procryptotermes australiensis Gay, 1976",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPLC",
+   "status": "accepted",
+   "label": "Procryptotermes australiensis Gay, 1976",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272545",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procryptotermes corniceps": {
+  "gbif": {
+   "key": 8067534,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procryptotermes corniceps (Snyder, 1923)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPLD",
+   "status": "accepted",
+   "label": "Procryptotermes corniceps (Snyder, 1923)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253563",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procryptotermes dhari": {
+  "gbif": {
+   "key": 9648303,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procryptotermes dhari Roonwal & Chhotani, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "77Y8P",
+   "status": "accepted",
+   "label": "Procryptotermes dhari Roonwal & Chhotani, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253564",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procryptotermes dioscurae": {
+  "gbif": {
+   "key": 9678562,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procryptotermes dioscurae Harris, 1954",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPLF",
+   "status": "accepted",
+   "label": "Procryptotermes dioscurae Harris, 1954",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253565",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procryptotermes edwardsi": {
+  "gbif": {
+   "key": 9722608,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procryptotermes edwardsi Scheffrahn, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPLG",
+   "status": "accepted",
+   "label": "Procryptotermes edwardsi Scheffrahn, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253567",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procryptotermes falcifer": {
+  "gbif": {
+   "key": 9780641,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procryptotermes falcifer Krishna, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPLH",
+   "status": "accepted",
+   "label": "Procryptotermes falcifer Krishna, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253568",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procryptotermes fryeri": {
+  "gbif": {
+   "key": 8870257,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procryptotermes fryeri (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPLJ",
+   "status": "accepted",
+   "label": "Procryptotermes fryeri (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49437281",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procryptotermes hesperus": {
+  "gbif": {
+   "key": 2007362,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procryptotermes hesperus Scheffrahn & Křeček, 2001",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPLK",
+   "status": "accepted",
+   "label": "Procryptotermes hesperus Scheffrahn & Křeček, 2001",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582586",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procryptotermes hunsurensis": {
+  "gbif": {
+   "key": 9672472,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procryptotermes hunsurensis Thakur, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPLL",
+   "status": "accepted",
+   "label": "Procryptotermes hunsurensis Thakur, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253569",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procryptotermes krishnai": {
+  "gbif": {
+   "key": 9691477,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procryptotermes krishnai Emerson, 1961",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPLM",
+   "status": "accepted",
+   "label": "Procryptotermes krishnai Emerson, 1961",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253570",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procryptotermes leewardensis": {
+  "gbif": {
+   "key": 9729014,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procryptotermes leewardensis Scheffrahn & Křeček, 2001",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPLN",
+   "status": "accepted",
+   "label": "Procryptotermes leewardensis Scheffrahn & Křeček, 2001",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253572",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procryptotermes rapae": {
+  "gbif": {
+   "key": 9540959,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procryptotermes rapae (Light & Zimmerman, 1936)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPLP",
+   "status": "accepted",
+   "label": "Procryptotermes rapae (Light & Zimmerman, 1936)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253573",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procryptotermes speiseri": {
+  "gbif": {
+   "key": 9760765,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procryptotermes speiseri (Holmgren & Holmgren, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPLQ",
+   "status": "accepted",
+   "label": "Procryptotermes speiseri (Holmgren & Holmgren, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253575",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procryptotermes valeriae": {
+  "gbif": {
+   "key": 9813197,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procryptotermes valeriae Bose, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPLR",
+   "status": "accepted",
+   "label": "Procryptotermes valeriae Bose, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253577",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

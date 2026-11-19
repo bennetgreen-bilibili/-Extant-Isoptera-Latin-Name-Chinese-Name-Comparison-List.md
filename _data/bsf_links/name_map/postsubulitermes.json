@@ -1,0 +1,13 @@
+{
+ "Postsubulitermes parviconstrictus": {
+  "label": "Postsubulitermes parviconstrictus Emerson, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 84859,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84859/overview",
+  "valid_label": null,
+  "valid_otu": 84859,
+  "verified": false
+ }
+}

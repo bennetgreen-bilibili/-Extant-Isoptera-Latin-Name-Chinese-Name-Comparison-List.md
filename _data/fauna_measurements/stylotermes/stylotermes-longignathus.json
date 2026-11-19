@@ -1,0 +1,58 @@
+{
+ "book_n": "237",
+ "book_name": "长颚杆白蚁 Stylotermes longignathus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "长颚杆白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.65",
+     "value": "1.59–1.70"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.33",
+     "value": "0.26–0.41"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.45",
+     "value": "0.42–0.46"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.71",
+     "value": "1.65–1.75"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.94",
+     "value": "1.85–2.00"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.69",
+     "value": "0.66–0.70"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.45",
+     "value": "1.36–1.50"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.99",
+     "value": "0.91–1.00"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 846,
+   "unit": "mm"
+  }
+ ]
+}

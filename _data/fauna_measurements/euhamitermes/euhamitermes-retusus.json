@@ -1,0 +1,50 @@
+{
+ "book_n": "326",
+ "book_name": "凹唇亮白蚁 Euhamitermes retusus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "兵蚁量度 ( mn)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.58"
+    },
+    {
+     "key": "head_height",
+     "value": "1.02"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "1.02"
+    },
+    {
+     "key": "postmentum_width",
+     "value": "0.44"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.28"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "0.38"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.69"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "0.97"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 1501,
+   "unit": "mm"
+  }
+ ]
+}

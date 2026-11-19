@@ -1,0 +1,54 @@
+{
+ "book_n": "384",
+ "book_name": "小钩扭白蚁 Pseudocapritermes minutus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "小钩扭白蚊兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "4.83"
+    },
+    {
+     "key": "head_length_with_mandibles",
+     "value": "2.52"
+    },
+    {
+     "key": "head_length_without_mandibles",
+     "value": "1.38"
+    },
+    {
+     "key": "head_width",
+     "value": "0.81"
+    },
+    {
+     "key": "head_height",
+     "value": "0.75"
+    },
+    {
+     "key": "postmentum_max_width",
+     "value": "0.25"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.10"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.55"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "0.60"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 1269,
+   "unit": "mm"
+  }
+ ]
+}

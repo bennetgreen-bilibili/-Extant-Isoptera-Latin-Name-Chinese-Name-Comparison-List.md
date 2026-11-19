@@ -1,0 +1,63 @@
+{
+ "book_n": "46",
+ "book_name": "尤氏树白蚊 Glyptotermesyui",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "尤氏树白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.55",
+     "value": "1.53"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.32",
+     "value": "1.31"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.29",
+     "value": "0.43"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.43",
+     "value": "0.40"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.17",
+     "value": "1.15"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.23",
+     "value": "0.20"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.76",
+     "value": "0.76"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.38",
+     "value": "1.35"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.11",
+     "value": "1.07"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 1005,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "latin": "Diversitermes",
+ "zh": "歧白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Diversitermes Holmgren, 1912a: 60, 61, 64 [first introduced as a subgenus of Eutermes Heer, 1849].",
+ "type_species": "Eutermes diversimilis Silvestri, 1901 by subsequent designation, see Snyder, 1949a: 306.",
+ "references": [
+  {
+   "ref": "Snyder, 1926e: 35",
+   "note": "Diversitermes [part]; characters; discussion."
+  },
+  {
+   "ref": "Morimoto, 1975b: 24",
+   "note": "Diversitermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 179–180",
+   "note": "Diversitermes; synonymy; characters."
+  },
+  {
+   "ref": "Mill, 1983a: 183, 188",
+   "note": "Diversitermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Constantino, 1999a: 401, 413",
+   "note": "Diversitermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 12",
+   "note": "Diversitermes; key."
+  }
+ ],
+ "nrefs": 22
+}

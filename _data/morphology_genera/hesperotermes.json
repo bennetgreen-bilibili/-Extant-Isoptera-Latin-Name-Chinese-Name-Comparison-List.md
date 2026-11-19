@@ -1,0 +1,21 @@
+{
+ "zh_name": "西澳白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "单型属，仅 Hesperotermes infrequens 一种。兵蚁额突退化，头壳红褐色；在 Termes 复合属的兵蚁检索表中，额突退化即直接检索到本属。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "额突退化（Fig. 5a），头壳红褐色；其余形态与 Termes 复合属相近，原文未单列属征段。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0485",
+   "citation": "Perry, D. H., Watson, J. A. L., Bunn, S. E. & Black, R. 1985. Guide to the termites (Isoptera) from the extreme south-west of Western Australia. Journal of the Royal Society of Western Australia 67(2): 66–78.",
+   "locator": "p. 74 (Table 3), p. 82"
+  }
+ ],
+ "note": "原文没有独立属征段，只有兵蚁检索表的一步与一条属注；本条目仅写这两处能确证的性状，其余留待 Hill (1942) 等专著。"
+}

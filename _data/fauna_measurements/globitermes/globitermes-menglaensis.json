@@ -1,0 +1,58 @@
+{
+ "book_n": "338",
+ "book_name": "勐腊球白蚁 Globitermes menglaensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "勐腊球白蚊兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_mandibles",
+     "mean": "1.84",
+     "value": "1.77–1.90"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "0.98",
+     "value": "0.90–1.03"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.07",
+     "value": "0.97–1.13"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.96",
+     "value": "0.94–0.97"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.324",
+     "value": "0.32–0.36"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.363",
+     "value": "0.36–0.39"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.74",
+     "value": "0.71–0.77"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.027",
+     "value": "1.00–1.03"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 175,
+   "unit": "mm"
+  }
+ ]
+}

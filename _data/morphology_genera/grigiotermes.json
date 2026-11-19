@@ -1,0 +1,30 @@
+{
+ "zh_name": "灰白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "工蚁体型大（头宽超过 0.9 mm），前肠 P1 极宽，食物团在其中呈可见的蛇形路径，据此与南美其他无兵蚁属区分。与 Patawatermes 近缘，但肠瓣具 6 块具刺的骨化板。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头淡黄、圆形，覆不等数小毛与 50–100 根长刚毛；囟小、几不可见；前胫节细长；腹部远半亚圆锥形，消化道延长。肠瓣位于胃（paunch）的短延伸部内，武装为 6 块具刺骨板；肠瓣前部由 6 个卵形垫组成，每垫约 100 枚鳞状小叶。中肠接点成小球状叠于后肠之上，略延长为短而明显的混合段；前肠 P1 极宽。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "硬化部深褐，覆数千枚小毛；头具约 100 根散生长刚毛；复眼与单眼大；囟小至中等，位于复眼水平；前胸背板延长，覆数十根长刚毛；中、后胸背板后缘微凹，角部强圆。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0054",
+   "citation": "Bourguignon T.; Scheffrahn R. H.; Nagy Z. T.; Sonet G.; Host B.; Roisin Y. 2016. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Grigiotermes Mathews and description of five new genera. Zoological Journal of the Linnean Society 176: 15-35. https://doi.org/10.1111/zoj.12305",
+   "locator": "Description › Worker（p. 18）；Description › Imago（p. 18）；Diagnosis（p. 19）"
+  },
+  {
+   "id": "S0027",
+   "citation": "Carrijo T. F.; Castro D.; Wang M.; Constantini J. P.; Bourguignon T.; Cancello E. M.; Scheffrahn R. H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317-352. https://doi.org/10.3897/zookeys.1167.100001",
+   "locator": "Key to neotropical Apicotermitinae genera based on the worker caste, couplet 19 (Grigiotermes 分支)"
+  }
+ ],
+ "note": "无兵蚁。属征以工蚁消化道（P1 与肠瓣）为主，另有有翅成虫描述；诊断同时给出与 Patawatermes 的比较。"
+}

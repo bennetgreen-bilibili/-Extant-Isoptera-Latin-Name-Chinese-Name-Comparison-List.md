@@ -1,0 +1,54 @@
+{
+ "book_n": "93",
+ "book_name": "黑带乳白蚁 Coptotermes",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "黑带乳白蚁兵蚁体部量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "5.24"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.56–1.584"
+    },
+    {
+     "key": "head_width",
+     "value": "1.248–1.296"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.384–0.408"
+    },
+    {
+     "key": "labrum_width",
+     "value": "0.264–0.288"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "0.96–0.984"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.864–0.888"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.48–0.504"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.152–1.20"
+    }
+   ],
+   "src_file": "301-400.txt",
+   "src_line": 790,
+   "unit": "mm"
+  }
+ ]
+}

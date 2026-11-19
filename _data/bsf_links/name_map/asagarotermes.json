@@ -1,0 +1,13 @@
+{
+ "Asagarotermes coronatus": {
+  "label": "Asagarotermes coronatus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84018,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84018/overview",
+  "valid_label": null,
+  "valid_otu": 84018,
+  "verified": false
+ }
+}

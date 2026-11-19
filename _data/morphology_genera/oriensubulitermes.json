@@ -1,0 +1,25 @@
+{
+ "zh_name": "东锥白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "左颚指数 1.06（工蚁-若虫）；左颚第 3 缘齿不明显、右颚第 2 缘齿几乎完全退化，以此区别于东洋区 Subulitermes 支系所有其它属；兵蚁上颚无端尖。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "上颚无端尖。"
+  },
+  {
+   "label": "工蚁",
+   "text": "（工蚁-若虫）左颚指数 1.06；第 1+2 缘齿切缘均匀凹入，第 3 缘齿前无缺刻；右颚第 2 缘齿几乎完全退化；右颚磨板轮廓略凹。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0081",
+   "citation": "Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.",
+   "locator": "p. 14"
+  }
+ ],
+ "note": "含 2 种（inanis 指名种、inaniformis）。原文据兵蚁与工蚁若虫上颚记述，未检视有翅成虫，故不设该节。"
+}

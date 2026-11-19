@@ -1,0 +1,63 @@
+{
+ "latin": "Disjunctitermes",
+ "zh": "间断白蚁属",
+ "fetched_at": "2026-10-30T16:53:30Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2605254883",
+   "openalex_url": "https://openalex.org/W2605254883",
+   "doi": "10.3897/zookeys.665.11599",
+   "doi_url": "https://doi.org/10.3897/zookeys.665.11599",
+   "title": "Disjunctitermes insularis, a new soldierless termite genus and species (Isoptera, Termitidae, Apicotermitinae) from Guadeloupe and Peru",
+   "year": 2017,
+   "date": "2017-04-04",
+   "authors": [
+    "Rudolf H. Scheffrahn",
+    "Tiago F. Carrijo",
+    "Anthony C. Postle",
+    "Francesco Tonini"
+   ],
+   "venue": "ZooKeys",
+   "type": "article",
+   "language": "en",
+   "cited_by": 19,
+   "oa_url": "https://doi.org/10.3897/zookeys.665.11599",
+   "volume": "665",
+   "issue": "665",
+   "pages": "71-84",
+   "abstract": "Disjunctitermes insularis gen. n. & sp. n. is described from workers collected on Guadeloupe and in Peru and is the first soldierless termite found on a deep-water island. As with many soldierless and soil-feeding termite species, the enteric valve morphology is an essential diagnostic character of D. insularis. The D. insularis sequence cluster, derived from a barcode analysis with twelve other described genera of New World Apicotermitinae, is well resolved. Results of a stochastic dynamic spread model suggest that the occurrence of D. insularis on Guadeloupe may be the result of a pre-Colombian overwater dispersal event from mainland South America.",
+   "abstract_source": "openalex",
+   "abstract_chars": 658,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W7213544277",
+   "openalex_url": "https://openalex.org/W7213544277",
+   "doi": "10.3897/zookeys.1292.195853",
+   "doi_url": "https://doi.org/10.3897/zookeys.1292.195853",
+   "title": "Ekueitermes alerosinus, a new genus and species of soldierless termite from Colombia (Isoptera, Termitidae, Apicotermitinae)",
+   "year": 2026,
+   "date": "2026-09-18",
+   "authors": [
+    "Ervin Humprey Duran-Bautista",
+    "Fernando CELIS-DAZA",
+    "Nasly S. Poveda Quezada",
+    "Fausto Andres Ortiz‐Morea",
+    "Rudolf H. Scheffrahn",
+    "Daniel Castro"
+   ],
+   "venue": "ZooKeys",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "https://doi.org/10.3897/zookeys.1292.195853",
+   "volume": "1292",
+   "issue": "",
+   "pages": "275-292",
+   "abstract": "A new genus and species of soldierless termite, Ekueitermes alerosinus gen. et sp. nov., is described from Colombia based on morphological and molecular evidence. The diagnostic characters for the new taxon are a mixed segment with a short, non-inflated mesenteric tongue, a very short and tubular P1, a well-differentiated tubular enteric valve seating, and an enteric valve armature with six cushions armed with 7–17 sclerotised spines arranged in a palmate shape and polygonal scales. Furthermore, Bayesian inference and maximum-likelihood phylogenetic analysis using concatenated COI and 16S genes, including other Neotropical Apicotermitinae genera described to date, supports the new genus as a distinct terminal and the sister group to Disjunctitermes insularis.",
+   "abstract_source": "openalex",
+   "abstract_chars": 769,
+   "abstract_truncated": false
+  }
+ ]
+}

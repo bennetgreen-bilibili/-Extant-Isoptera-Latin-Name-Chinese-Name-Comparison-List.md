@@ -1,0 +1,13 @@
+{
+ "Protohamitermes globiceps": {
+  "label": "Protohamitermes globiceps Holmgren, 1912",
+  "match": "exact",
+  "notes": "",
+  "otu": 85778,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85778/overview",
+  "valid_label": null,
+  "valid_otu": 85778,
+  "verified": false
+ }
+}

@@ -1,0 +1,428 @@
+{
+ "Pseudocapritermes angustignathus": {
+  "gbif": {
+   "key": 9174392,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudocapritermes angustignathus (Holmgren, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NQPS",
+   "status": "accepted",
+   "label": "Pseudocapritermes angustignathus (Holmgren, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084269",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudocapritermes bhutanensis": {
+  "gbif": {
+   "key": 9677783,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudocapritermes bhutanensis (Roonwal & Chhotani, 1977)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NQPT",
+   "status": "accepted",
+   "label": "Pseudocapritermes bhutanensis (Roonwal & Chhotani, 1977)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084271",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudocapritermes fletcheri": {
+  "gbif": {
+   "key": 9692308,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudocapritermes fletcheri (Holmgren & Holmgren, 1917)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WDRQ",
+   "status": "accepted",
+   "label": "Pseudocapritermes fletcheri (Holmgren & Holmgren, 1917)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084273",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudocapritermes jiangchengensis": {
+  "gbif": {
+   "key": 9723486,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudocapritermes jiangchengensis Huang, Zhu & Yang, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NQPV",
+   "status": "accepted",
+   "label": "Pseudocapritermes jiangchengensis Yang, Zhu & Huang, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084276",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudocapritermes karticki": {
+  "gbif": {
+   "key": 9787384,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudocapritermes karticki Bose, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NQPW",
+   "status": "accepted",
+   "label": "Pseudocapritermes karticki Bose, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084278",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudocapritermes kemneri": {
+  "gbif": {
+   "key": 9666178,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudocapritermes kemneri Afzal & Akhtar, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NQPX",
+   "status": "accepted",
+   "label": "Pseudocapritermes kemneri Akhtar & Afzal, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084280",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudocapritermes kunjepu": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Pseudocapritermes Kemner, 1934",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CSYP2",
+   "status": "accepted",
+   "label": "Pseudocapritermes kunjepu Mathew, 2020",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q129937142",
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Pseudocapritermes megacephalus": {
+  "gbif": {
+   "key": 9728180,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudocapritermes megacephalus Afzal & Akhtar, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NQPZ",
+   "status": "accepted",
+   "label": "Pseudocapritermes megacephalus Akhtar & Afzal, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084284",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudocapritermes minutus": {
+  "gbif": {
+   "key": 9647500,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudocapritermes minutus (Tsai & Chen, 1963)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NQQ2",
+   "status": "accepted",
+   "label": "Pseudocapritermes minutus (Tsai & Chen, 1963)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084286",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudocapritermes novus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Pseudocapritermes Kemner, 1934",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Pseudocapritermes Kemner, 1934",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q140469632",
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-31"
+ },
+ "Pseudocapritermes orientalis": {
+  "gbif": {
+   "key": 9716137,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudocapritermes orientalis (Ahmad & Akhtar, 1981)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NQQ3",
+   "status": "accepted",
+   "label": "Pseudocapritermes orientalis (Ahmad & Akhtar, 1981)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084288",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudocapritermes parasilvaticus": {
+  "gbif": {
+   "key": 9747756,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudocapritermes parasilvaticus Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NQQ4",
+   "status": "accepted",
+   "label": "Pseudocapritermes parasilvaticus Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084290",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudocapritermes planimentus": {
+  "gbif": {
+   "key": 9755188,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudocapritermes planimentus Huang, Zhu & Yang, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NQQ5",
+   "status": "accepted",
+   "label": "Pseudocapritermes planimentus Yang, Zhu & Huang, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084292",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudocapritermes prosilvaticus": {
+  "gbif": {
+   "key": 9779790,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudocapritermes prosilvaticus Afzal & Akhtar, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NQQ6",
+   "status": "accepted",
+   "label": "Pseudocapritermes prosilvaticus Akhtar & Afzal, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084294",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudocapritermes pseudolaetus": {
+  "gbif": {
+   "key": 9759934,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudocapritermes pseudolaetus (Tsai & Chen, 1963)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NQQ7",
+   "status": "accepted",
+   "label": "Pseudocapritermes pseudolaetus (Tsai & Chen, 1963)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084297",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudocapritermes silvaticus": {
+  "gbif": {
+   "key": 9799919,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudocapritermes silvaticus Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NQQ8",
+   "status": "accepted",
+   "label": "Pseudocapritermes silvaticus Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084300",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudocapritermes sinensis": {
+  "gbif": {
+   "key": 9711494,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudocapritermes sinensis Xu & Ping, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NQQ9",
+   "status": "accepted",
+   "label": "Pseudocapritermes sinensis Ping & Xu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084303",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudocapritermes sowerbyi": {
+  "gbif": {
+   "key": 9795035,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudocapritermes sowerbyi (Light, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WDS2",
+   "status": "accepted",
+   "label": "Pseudocapritermes sowerbyi (Light, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084305",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudocapritermes tikadari": {
+  "gbif": {
+   "key": 9696888,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudocapritermes tikadari Chhotani & Roonwal, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NQQB",
+   "status": "accepted",
+   "label": "Pseudocapritermes tikadari Roonwal & Chhotani, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084307",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

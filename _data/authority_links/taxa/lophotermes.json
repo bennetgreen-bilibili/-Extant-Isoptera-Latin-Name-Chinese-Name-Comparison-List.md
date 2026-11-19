@@ -1,0 +1,200 @@
+{
+ "Lophotermes aduncus": {
+  "gbif": {
+   "key": 4803298,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lophotermes aduncus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "72MHH",
+   "status": "accepted",
+   "label": "Lophotermes aduncus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272482",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lophotermes brevicephalus": {
+  "gbif": {
+   "key": 4803304,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lophotermes brevicephalus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "3W4KV",
+   "status": "accepted",
+   "label": "Lophotermes brevicephalus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272485",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lophotermes crinitus": {
+  "gbif": {
+   "key": 4803299,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lophotermes crinitus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "3W4KW",
+   "status": "accepted",
+   "label": "Lophotermes crinitus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272487",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lophotermes leptognathus": {
+  "gbif": {
+   "key": 4803300,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lophotermes leptognathus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "3W4KX",
+   "status": "accepted",
+   "label": "Lophotermes leptognathus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272490",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lophotermes parvicornis": {
+  "gbif": {
+   "key": 4803306,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lophotermes parvicornis Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "3W4KY",
+   "status": "accepted",
+   "label": "Lophotermes parvicornis Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272491",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lophotermes pectinatus": {
+  "gbif": {
+   "key": 4803302,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lophotermes pectinatus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "3W4KZ",
+   "status": "accepted",
+   "label": "Lophotermes pectinatus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272492",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lophotermes pusillus": {
+  "gbif": {
+   "key": 4803301,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lophotermes pusillus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "3W4L2",
+   "status": "accepted",
+   "label": "Lophotermes pusillus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272493",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lophotermes quadratus": {
+  "gbif": {
+   "key": 4803303,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lophotermes quadratus (Hill, 1927)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3W4L3",
+   "status": "accepted",
+   "label": "Lophotermes quadratus (Hill, 1927)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272494",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lophotermes septentrionalis": {
+  "gbif": {
+   "key": 4803305,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lophotermes septentrionalis (Hill, 1927)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3W4L4",
+   "status": "accepted",
+   "label": "Lophotermes septentrionalis (Hill, 1927)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272496",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

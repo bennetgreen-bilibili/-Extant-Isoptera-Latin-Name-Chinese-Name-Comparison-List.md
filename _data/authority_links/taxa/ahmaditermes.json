@@ -1,0 +1,468 @@
+{
+ "Ahmaditermes choui": {
+  "gbif": {
+   "key": 9773521,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes choui Ping & Tong, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "BBZM",
+   "status": "accepted",
+   "label": "Ahmaditermes choui Ping & Tong, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234510",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes crassinasus": {
+  "gbif": {
+   "key": 9741573,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes crassinasus Li, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "BBZN",
+   "status": "accepted",
+   "label": "Ahmaditermes crassinasus Li, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234512",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes deltocephalus": {
+  "gbif": {
+   "key": 9710187,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes deltocephalus (Tsai & Chen, 1963)",
+   "accepted": null
+  },
+  "col": {
+   "id": "BBZP",
+   "status": "accepted",
+   "label": "Ahmaditermes deltocephalus (Tsai & Chen, 1963)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234513",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes dinghuensis": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Ahmaditermes Akhtar, 1975",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CTMVP",
+   "status": "accepted",
+   "label": "Ahmaditermes dinghuensis (Li, 1985)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes dukouensis": {
+  "gbif": {
+   "key": 9801364,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes dukouensis Gao & Deng, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "BBZQ",
+   "status": "accepted",
+   "label": "Ahmaditermes dukouensis Gao & Deng, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234514",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes emersoni": {
+  "gbif": {
+   "key": 9660312,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes emersoni (Maiti, 1977)",
+   "accepted": null
+  },
+  "col": {
+   "id": "BBZR",
+   "status": "accepted",
+   "label": "Ahmaditermes emersoni (Maiti, 1977)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234516",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes foveafrons": {
+  "gbif": {
+   "key": 9648870,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes foveafrons Gao, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "BBZS",
+   "status": "accepted",
+   "label": "Ahmaditermes foveafrons Gao, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234518",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes guizhouensis": {
+  "gbif": {
+   "key": 9702815,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes guizhouensis Li & Ping, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "BBZT",
+   "status": "accepted",
+   "label": "Ahmaditermes guizhouensis Li & Ping, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q136745985",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes laticephalus": {
+  "gbif": {
+   "key": 9749212,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes laticephalus (Ahmad, 1965)",
+   "accepted": null
+  },
+  "col": {
+   "id": "666R9",
+   "status": "accepted",
+   "label": "Ahmaditermes laticephalus (Ahmad, 1965)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234520",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes lipingensis": {
+  "gbif": {
+   "key": 9717509,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes lipingensis Ping & Xu, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "BBZV",
+   "status": "accepted",
+   "label": "Ahmaditermes lipingensis Ping & Xu, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234521",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes parafulvus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Ahmaditermes Akhtar, 1975",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CTMVN",
+   "status": "accepted",
+   "label": "Ahmaditermes parafulvus (Chen & Tsai, 1963)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes perisinuosus": {
+  "gbif": {
+   "key": 9698293,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes perisinuosus Li & Xiao, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "BBZW",
+   "status": "accepted",
+   "label": "Ahmaditermes perisinuosus Li & Xiao, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234523",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes pingnanensis": {
+  "gbif": {
+   "key": 9781248,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes pingnanensis (Li, 1979)",
+   "accepted": null
+  },
+  "col": {
+   "id": "BBZX",
+   "status": "accepted",
+   "label": "Ahmaditermes pingnanensis (Li, 1979)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234524",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes pyricephalus": {
+  "gbif": {
+   "key": 9710108,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes pyricephalus Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "BBZY",
+   "status": "accepted",
+   "label": "Ahmaditermes pyricephalus Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234525",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes sichuanensis": {
+  "gbif": {
+   "key": 9671929,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes sichuanensis Xia, Gao, Pan & Tang, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "BBZZ",
+   "status": "accepted",
+   "label": "Ahmaditermes sichuanensis Xia, Gao, Pan & Tang, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234527",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes sikkimensis": {
+  "gbif": {
+   "key": 9667580,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes sikkimensis Mukherjee & Maiti, 2008",
+   "accepted": null
+  },
+  "col": {
+   "id": "BC22",
+   "status": "accepted",
+   "label": "Ahmaditermes sikkimensis Mukherjee & Maiti, 2008",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234528",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes sinensis": {
+  "gbif": {
+   "key": 9785909,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes sinensis Tsai & Huang, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "BC23",
+   "status": "accepted",
+   "label": "Ahmaditermes sinensis Tsai & Huang, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234529",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes sinuosus": {
+  "gbif": {
+   "key": 9690907,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes sinuosus (Tsai & Chen, 1963)",
+   "accepted": null
+  },
+  "col": {
+   "id": "BC24",
+   "status": "accepted",
+   "label": "Ahmaditermes sinuosus (Tsai & Chen, 1963)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234531",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes tianmuensis": {
+  "gbif": {
+   "key": 9813833,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes tianmuensis Gao, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "BC25",
+   "status": "accepted",
+   "label": "Ahmaditermes tianmuensis Gao, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234532",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes tiantongensis": {
+  "gbif": {
+   "key": 9805987,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes tiantongensis Ping & Xin, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "BC26",
+   "status": "accepted",
+   "label": "Ahmaditermes tiantongensis Ping & Xin, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234533",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ahmaditermes xiangyunensis": {
+  "gbif": {
+   "key": 9679115,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ahmaditermes xiangyunensis Gao & Gong, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "BC27",
+   "status": "accepted",
+   "label": "Ahmaditermes xiangyunensis Gao & Gong, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234535",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

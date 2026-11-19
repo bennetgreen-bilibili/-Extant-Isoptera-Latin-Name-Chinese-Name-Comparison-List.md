@@ -1,0 +1,43 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "寄居乳白蚁巢的生物学",
+   "heading_en": "Biology of inquilinism in Coptotermes nests",
+   "heading_es": "Biología del inquilinismo en nidos de Coptotermes",
+   "paragraphs": [
+    {
+     "src": [
+      "S0288"
+     ],
+     "text": "根据 Calaby（1956）研究，无钩白蚁属（<i>Ahamitermes</i>）共记述 4 种，其中栖巢无钩白蚁（<i>Ahamitermes nidicola</i>）产昆士兰、希尔无钩白蚁（<i>Ahamitermes hillii</i>）产澳大利亚西南部、栖垄无钩白蚁（<i>Ahamitermes inclusus</i>）仅限西澳大利亚中部近海岸的狭小区域；该文补充了希尔无钩白蚁的大量新分布记录与栖垄无钩白蚁的部分新记录（据摘要）。",
+     "text_en": "According to Calaby (1956), four species are described in <i>Ahamitermes</i>: <i>Ahamitermes nidicola</i> occurs in Queensland, <i>Ahamitermes hillii</i> in south-western Australia, and <i>Ahamitermes inclusus</i> is confined to a small near-coastal area of central Western Australia; the paper adds numerous new distribution records for <i>Ahamitermes hillii</i> and some new records for <i>Ahamitermes inclusus</i> (according to the abstract).",
+     "text_es": "Según Calaby (1956), en <i>Ahamitermes</i> se describen cuatro especies: <i>Ahamitermes nidicola</i> se encuentra en Queensland, <i>Ahamitermes hillii</i> en el sudoeste de Australia y <i>Ahamitermes inclusus</i> está limitada a una pequeña área costera del centro de Australia Occidental; el trabajo añade numerosos registros nuevos de distribución para <i>Ahamitermes hillii</i> y algunos registros nuevos para <i>Ahamitermes inclusus</i> (según el resumen)."
+    },
+    {
+     "src": [
+      "S0288"
+     ],
+     "text": "该属各种与乳白蚁属（<i>Coptotermes</i>）的 1 种形成种特异的寄生性筑巢关系，栖于宿主巢内部区段的特定部位，以构成该区段的纸板为食，食物与庇护均依赖宿主，在其他场所找不到；宿主与寄生者的巢室相互分隔，两者彼此敌对（据摘要）。",
+     "text_en": "The species of the genus form species-specific parasitic nesting relationships with one species of <i>Coptotermes</i>, living in particular parts of the interior sections of the host nest and feeding on the carton that forms those sections, depending on the host for both food and shelter and not being found elsewhere; the nest chambers of host and parasite are separated from one another and the two are hostile to each other (according to the abstract).",
+     "text_es": "Las especies del género establecen relaciones de nidificación parasitaria específicas con una especie de <i>Coptotermes</i>, viven en partes determinadas de las secciones internas del nido hospedador y se alimentan del cartón que forma esas secciones, dependen del hospedador tanto para el alimento como para el refugio y no se las encuentra en otros sitios; las cámaras del nido del hospedador y del parásito están separadas entre sí y ambos son hostiles entre sí (según el resumen)."
+    },
+    {
+     "src": [
+      "S0288"
+     ],
+     "text": "同属另有 1 种分布于新南威尔士与西澳大利亚，其有翅成虫的释放也依赖宿主，这些有翅个体在宿主巢中是被容忍的客居者（据摘要）。",
+     "text_en": "Another species of the genus occurs in New South Wales and Western Australia; the release of its alates also depends on the host, and these alates are tolerated guests in the host nest (according to the abstract).",
+     "text_es": "Otra especie del género se distribuye en Nueva Gales del Sur y Australia Occidental; la liberación de sus alados también depende del hospedador, y esos alados son huéspedes tolerados en el nido del hospedador (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0288",
+   "citation": "Calaby, J. H. 1956. The distribution and biology of the genus Ahamitermes (Isoptera). Australian Journal of Zoology.",
+   "doi": "10.1071/zo9560111"
+  }
+ ]
+}

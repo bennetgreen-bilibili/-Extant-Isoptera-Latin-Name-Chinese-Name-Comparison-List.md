@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "西印度群岛的分布",
+   "heading_en": "Distribution in the West Indies",
+   "heading_es": "Distribución en las Antillas",
+   "paragraphs": [
+    {
+     "text": "据摘要，Szalanski 等（2004）依据 16S rRNA 序列把巴哈马与古巴的种群归为卡丁异白蚁（Heterotermes cardini），该种是西印度群岛 5 个类群之一。",
+     "text_en": "According to the abstract, Szalanski et al. (2004) assigned populations from the Bahamas and Cuba to <i>Heterotermes cardini</i> on the basis of 16S rRNA sequences; it is one of the five West Indian lineages.",
+     "text_es": "Según el resumen, Szalanski et al. (2004) asignaron a <i>Heterotermes cardini</i> las poblaciones de Bahamas y Cuba sobre la base de secuencias de ARNr 16S; es uno de los cinco linajes antillanos.",
+     "src": [
+      "S0192"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0192",
+   "citation": "Szalanski, A. L.; Scheffrahn, R. H.; Austin, J. W.; Křeček, J.; Su, N.-Y. 2004. Molecular phylogeny and biogeography of Heterotermes (Isoptera: Rhinotermitidae) in the West Indies. Annals of the Entomological Society of America 97: 556–566.",
+   "doi": "10.1603/0013-8746(2004)097[0556:MPABOH]2.0.CO;2"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "book_n": "25",
+ "book_name": "贵州树白蚊 Glyptotermes guizhouensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "贵州树白蚊兵蚁量度 ( mn)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.05",
+     "value": "1.02–1.10"
+    },
+    {
+     "key": "head_height",
+     "mean": "0.98",
+     "value": "0.94–1.01"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.19",
+     "value": "0.16–0.21"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.29",
+     "value": "0.28–0.30"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.17",
+     "value": "0.15–0.18"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.56",
+     "value": "0.54–0.59"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.96",
+     "value": "0.93–1.02"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.78",
+     "value": "0.77–0.79"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 468,
+   "unit": "mm"
+  }
+ ]
+}

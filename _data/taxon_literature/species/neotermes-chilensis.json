@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "颚磨损的品级差异",
+   "heading_en": "Caste differences in mandibular wear",
+   "heading_es": "Diferencias de desgaste mandibular entre castas",
+   "paragraphs": [
+    {
+     "src": [
+      "S0439"
+     ],
+     "text": "根据 Arauco-Reyes 等（2026）对智利特有种智利新白蚁（<i>Neotermes chilensis</i>）147 件标本的研究，该种为单块式筑巢木白蚁，群体劳动由栖居并取食完好木材的全能性幼体承担；以颚磨损指数（MWI）与扫描电镜测量、并以 512.4 µm 的标准化体长校正异速生长后，各品级间磨损差异显著而两性间无差异：若虫磨损最重，有翅成虫最轻，初生繁殖蚁与拟工蚁居中。",
+     "text_en": "According to the study by Arauco-Reyes et al. (2026) on 147 specimens of the Chilean endemic <i>Neotermes chilensis</i>, this is a one-piece nesting drywood termite whose colony labour is performed by totipotent immatures that inhabit and consume structurally sound wood; using a Mandibular Wear Index (MWI) and scanning electron microscopy, and correcting for allometry at a standardized body size of 512.4 µm, wear differed significantly among castes but not between the sexes: nymphs showed the most severe wear, alates the least, and primary reproductives and pseudergates were intermediate.",
+     "text_es": "Según el estudio de Arauco-Reyes et al. (2026) sobre 147 ejemplares de la especie endémica de Chile <i>Neotermes chilensis</i>, se trata de una termita de madera seca de nidificación en una sola pieza, cuyo trabajo colonial lo realizan inmaduros totipotentes que habitan y consumen madera estructuralmente sana; mediante un índice de desgaste mandibular (MWI) y microscopía electrónica de barrido, y corrigiendo la alometría a un tamaño corporal estandarizado de 512.4 µm, el desgaste difirió significativamente entre castas pero no entre sexos: las ninfas presentaron el desgaste más severo, los alados el menor, y los reproductores primarios y los pseudoergates valores intermedios."
+    },
+    {
+     "src": [
+      "S0439"
+     ],
+     "text": "作者据此提出「成年的代价」假说：幼体取食造成的严重颚磨损被解释为一种为自身发育为有翅成虫服务的自私发育成本；而有翅成虫因不能再蜕皮更新表皮，必须把上颚保持在可用于挖掘婚飞室和建立新群体的状态。",
+     "text_en": "The authors therefore proposed the 'price of adulthood' hypothesis: the severe mandibular wear caused by feeding immatures is interpreted as a selfish developmental cost that serves their own ontogeny into alates, whereas alates, which can no longer moult to renew their cuticle, must keep their mandibles in a condition suitable for excavating a nuptial chamber and founding a new colony.",
+     "text_es": "Los autores propusieron por ello la hipótesis del «precio de la adultez»: el severo desgaste mandibular causado por la alimentación de los inmaduros se interpreta como un costo evolutivo egoísta que sirve a su propia ontogenia hacia alados, mientras que los alados, que ya no pueden mudar para renovar la cutícula, deben mantener sus mandíbulas en condiciones adecuadas para excavar una cámara nupcial y fundar una nueva colonia."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0439",
+   "citation": "Arauco-Reyes, C.; Flores-Prado, L.; Gorena, T.; Arab, A.; Aguilera-Olivares, D. 2026. The price of adulthood: ontogenetic patterns of mandibular wear in a drywood termite. Frontiers in Ecology and Evolution 14: 1955114.",
+   "doi": "10.3389/fevo.2026.1955114"
+  }
+ ]
+}

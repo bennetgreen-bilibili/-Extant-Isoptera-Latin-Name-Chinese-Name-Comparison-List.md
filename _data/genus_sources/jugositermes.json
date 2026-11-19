@@ -1,0 +1,27 @@
+{
+ "latin": "Jugositermes",
+ "zh": "岗白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Jugositermes Emerson, 1928b: 501.",
+ "type_species": "Jugositermes tuberculatus Emerson, 1928 by original designation.",
+ "references": [
+  {
+   "ref": "Emerson, 1928b: 408, 419",
+   "note": "Jugositermes; key; distribution."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 24, 90, 91, pl. 13: fig. 38c",
+   "note": "Jugositermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 34",
+   "note": "Jugositermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 49, 133–135, figs. 367–373, pl. 4: fig. 3",
+   "note": "Jugositermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 9
+}

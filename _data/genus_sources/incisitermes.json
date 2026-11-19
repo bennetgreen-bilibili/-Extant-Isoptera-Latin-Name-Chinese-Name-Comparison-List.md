@@ -1,0 +1,43 @@
+{
+ "latin": "Incisitermes",
+ "zh": "楹白蚁属",
+ "family": "kalotermitidae",
+ "treatise": true,
+ "citation": "Incisitermes Krishna, 1961: 353–358.",
+ "type_species": "Kalotermes schwarzi Banks, 1920 by original designation.",
+ "references": [
+  {
+   "ref": "Light, 1930f: 16, 18, 21",
+   "note": "Kalotermes [part]; key."
+  },
+  {
+   "ref": "Light, 1933: 82, 83",
+   "note": "Kalotermes (Kalotermes) [part]; key."
+  },
+  {
+   "ref": "Krishna, 1961: 353–356",
+   "note": "Incisitermes; generic characters; key; reference list; phylogeny; distribution."
+  },
+  {
+   "ref": "Weesner, 1965: 34, 35, 36, 64",
+   "note": "Incisitermes; key; characters."
+  },
+  {
+   "ref": "Krishna, 1966: 1093, 1095",
+   "note": "Incisitermes; key."
+  },
+  {
+   "ref": "Emerson, 1969: 43–46",
+   "note": "Incisitermes; characters; distribution; paleontology."
+  },
+  {
+   "ref": "Morimoto, 1975b: 11",
+   "note": "Incisitermes; key."
+  },
+  {
+   "ref": "Araujo and Fontes, 1979: 31",
+   "note": "Incisitermes; key."
+  }
+ ],
+ "nrefs": 37
+}

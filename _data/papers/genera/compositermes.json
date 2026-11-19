@@ -1,0 +1,109 @@
+{
+ "latin": "Compositermes",
+ "zh": "肠刺白蚁属",
+ "fetched_at": "2026-10-30T16:53:22Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2098762056",
+   "openalex_url": "https://openalex.org/W2098762056",
+   "doi": "10.11646/zootaxa.3652.3.6",
+   "doi_url": "https://doi.org/10.11646/zootaxa.3652.3.6",
+   "title": "Compositermes vindai (Isoptera: Termitidae: Apicotermitinae), a new genus and species of soldierless termite from the Neotropics",
+   "year": 2013,
+   "date": "2013-05-16",
+   "authors": [
+    "Rudolf H. Scheffrahn"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 23,
+   "oa_url": "https://doi.org/10.48580/d3ssk.v82",
+   "volume": "3652",
+   "issue": "3",
+   "pages": "381-91",
+   "abstract": "The New World Anoplotermes group is a common and diverse clade of soil-dwelling soldierless termites that is undergoing needed taxonomic reclassification. Based on robust worker gut morphology centered near the enteric valve, a new genus and its singular species, Compositermes vindai, are described from collections encompassing a massive expanse of tropical America. The enteric valve armature is thought to enhance inoculation of the food stream with symbiotic bacteria.",
+   "abstract_source": "openalex",
+   "abstract_chars": 473,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2022457056",
+   "openalex_url": "https://openalex.org/W2022457056",
+   "doi": "10.11646/zootaxa.3941.2.10",
+   "doi_url": "https://doi.org/10.11646/zootaxa.3941.2.10",
+   "title": "Compositermes bani sp.n. (Isoptera, Termitidae, Apicotermitinae), a new species of soldierless termite from Bolivia",
+   "year": 2015,
+   "date": "2015-03-31",
+   "authors": [
+    "Tiago F. Carrijo",
+    "Rudolf H. Scheffrahn",
+    "Jan Křeček"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 10,
+   "oa_url": "https://doi.org/10.48580/d3qjx.v83",
+   "volume": "3941",
+   "issue": "2",
+   "pages": "294-8",
+   "abstract": "Species of neotropical Apicotermitinae (Termitidae) are soldierless, restricting species identification in this group to workers or seasonally present winged imagos. All neotropical Apicotermitinae were placed in the genus Anoplotermes, until Mathews (1977) described two new genera, Grigiotermes and Ruptitermes. Fontes (1986) described two more genera, Aparatermes and Tetimatermes. Twenty years passed without any taxonomic advances in this group until Scheffrahn et al. 2006 described two new Anoplotermes species from the West Indies and Bourguignon et al. 2010 described Longustitermes manni, (=Anoplotermes manni Snyder), Anoplotermes janus, and placed six other species into synonymy. Finally, Scheffrahn 2013 described a new genus and species, Compositermes vindai, characterized by a ring of sclerotized paddles at the junction of the enteric valve seating (EVS) and paunch (P3).",
+   "abstract_source": "openalex",
+   "abstract_chars": 889,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2218581337",
+   "openalex_url": "https://openalex.org/W2218581337",
+   "doi": "",
+   "doi_url": "",
+   "title": "Bioecological traits, abundance patterns and distribution extension of the soldierless Neotropical termite Compositermes vindai Scheffrahn, 2013 (Isoptera: Termitidae: Apicotermitinae)",
+   "year": 2015,
+   "date": "2015-06-02",
+   "authors": [
+    "María Celina Godoy",
+    "E. R. Laffont",
+    "Juan Manuel Coronel"
+   ],
+   "venue": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "http://repositorio.unne.edu.ar/handle/123456789/28705",
+   "volume": "1",
+   "issue": "1",
+   "pages": "26-34",
+   "abstract": "Fil: Godoy, María Celina. Universidad Nacional del Nordeste. Facultad de Ciencias Exactas y Naturales y Agrimensura; Argentina.",
+   "abstract_source": "openalex",
+   "abstract_chars": 127,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2346003028",
+   "openalex_url": "https://openalex.org/W2346003028",
+   "doi": "10.11646/zootaxa.4109.3.10",
+   "doi_url": "https://doi.org/10.11646/zootaxa.4109.3.10",
+   "title": "TIAGO F. CARRIJO, RUDOLF H. SCHEFFRAHN & JAN KŘEČEK (2015) Compositermes bani sp.n. (Isoptera, Termitidae, Apicotermitinae), a new species of soldierless termite from Bolivia. Zootaxa, 3941(2): 294–298.",
+   "year": 2016,
+   "date": "2016-05-09",
+   "authors": [
+    "Tiago F. Carrijo",
+    "Rudolf H. Scheffrahn",
+    "Jan Křeček"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 1,
+   "oa_url": "https://www.biotaxa.org/Zootaxa/article/download/zootaxa.4109.3.10/20445",
+   "volume": "4109",
+   "issue": "3",
+   "pages": "400-400",
+   "abstract": "Carrijo, Tiago F., Scheffrahn, Rudolf H., Křeček, Jan (2016): TIAGO F. CARRIJO, RUDOLF H. SCHEFFRAHN & JAN KŘEČEK (2015) Compositermes bani sp.n. (Isoptera, Termitidae, Apicotermitinae), a new species of soldierless termite from Bolivia. Zootaxa, 3941(2): 294-298. Zootaxa 4109: 400-400, DOI: 10.11646/zootaxa.4109.3.10",
+   "abstract_source": "openalex",
+   "abstract_chars": 319,
+   "abstract_truncated": false
+  }
+ ]
+}

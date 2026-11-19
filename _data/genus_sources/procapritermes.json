@@ -1,0 +1,43 @@
+{
+ "latin": "Procapritermes",
+ "zh": "前扭白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Procapritermes Holmgren, 1912a: 113–114.",
+ "type_species": "Termes setiger Haviland, 1898 by original designation.",
+ "references": [
+  {
+   "ref": "Haviland, 1898: 378, 414",
+   "note": "Termes “section with T. setiger for type”; characters; key."
+  },
+  {
+   "ref": "Ahmad, 1958: 87, 91",
+   "note": "Procapritermes; key."
+  },
+  {
+   "ref": "Tsai and Chen, 1964b: 72, 73, 86",
+   "note": "Procapritermes [part]; key; characters."
+  },
+  {
+   "ref": "Ahmad, 1965: 9",
+   "note": "Procapritermes; imago, soldier described; key; synonymy; distribution. Thailand."
+  },
+  {
+   "ref": "Krishna, 1968: 294–304",
+   "note": "Procapritermes; synonymy; key; characters; phylogeny; species included; distribution."
+  },
+  {
+   "ref": "Chaudhry et al., 1972: 66",
+   "note": "Procapritermes; characters."
+  },
+  {
+   "ref": "Akhtar, 1975: 59, 60",
+   "note": "Procapritermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 32",
+   "note": "Procapritermes; key."
+  }
+ ],
+ "nrefs": 37
+}

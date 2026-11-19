@@ -1,0 +1,43 @@
+{
+ "latin": "Eutermellus",
+ "zh": "小真白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Eutermellus Silvestri, 1912a: 243–244.",
+ "type_species": "Eutermellus convergens Silvestri, 1912 by original designation.",
+ "references": [
+  {
+   "ref": "Holmgren, 1912a: 59, 60, 64",
+   "note": "Eutermellus; key; species included."
+  },
+  {
+   "ref": "Sjöstedt, 1926d: 290, 358",
+   "note": "Eutermellus; reference list; key."
+  },
+  {
+   "ref": "Emerson, 1928b: 407, 420",
+   "note": "Nasutitermes (Eutermellus); key; distribution."
+  },
+  {
+   "ref": "Webb, 1961: 10",
+   "note": "Eutermellus; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 34, 114, 115, pl. 25: fig. 80c",
+   "note": "Eutermellus; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Sands, 1965d: 13, 14, 133",
+   "note": "Eutermellus; synonymy; key; characters; key to species."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1966: 3",
+   "note": "Eutermellus; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 23",
+   "note": "Eutermellus; key."
+  }
+ ],
+ "nrefs": 17
+}

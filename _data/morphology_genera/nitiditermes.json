@@ -1,0 +1,35 @@
+{
+ "zh_name": "净白蚁属",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "头宽卵形、平滑而少起伏，囟孔周围有细微刻纹；囟孔长形，位于头面短窄的凹窝内；头顶在单眼之间平缓均匀地凸起；复眼较平、中等大小，距头下缘略小于其直径的三分之一。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "侧面观额部在凹陷的囟孔开口之上呈球状隆起，前部不伸到上颚基部之上。"
+  },
+  {
+   "label": "工蚁",
+   "text": "上颚与 Cubitermes、Procubitermes、Noditermes、Lepidotermes、Mucrotermes 相似；端齿明显大于第一缘齿；左上颚端部到第一缘齿末端的距离大于第一缘齿末端到第三缘齿末端的距离。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+   "locator": "pp. 3–4（Nitiditermes 有翅成虫）"
+  },
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+   "locator": "p. 4（Nitiditermes 兵蚁）"
+  },
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+   "locator": "pp. 5–6（Nitiditermes 工蚁）"
+  }
+ ],
+ "note": "三 caste 均有 Emerson（1960）的模式种描述；兵蚁只保留头部轮廓这一条可核性状（毛被部分的 OCR 不完整）。"
+}

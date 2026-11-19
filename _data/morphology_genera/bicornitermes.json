@@ -1,0 +1,24 @@
+{
+ "zh_name": "双角白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫与 Bifiditermes 难以区分；兵蚁头短而截形、强烈额盾状，前胸背板前缘具锯齿；与 Epicalotermes 的区别是左上颚第三缘齿前缘较短。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "黄褐色；眼大，径 0.41–0.46 mm，单眼接触复眼；触角 12–15 节；左上颚第三缘齿前缘明显长于第一、二缘齿后缘，但不超过其 1.5 倍；右上颚臼板明显短于第二缘齿后缘；前胸背板窄于头；翅透明，具无色小乳突；中脉与肘脉在翅缝之后共柄；爪间突缺。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头深色、短而截形，前部陡斜；额侧区隆起成明显的圆叶，叶间凹陷；近唇基的额侧角向前伸成水平脊，与触角窝背缘相连；触角窝前下方另有明显角状突；眼无色；触角 11–15 节，第三节与第二或第四节近等长；上颚短，具明显基瘤；前胸背板窄于头或与头等宽，前缘隆起、具锯齿、深凹。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0021",
+   "citation": "Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.",
+   "locator": "pp. 370–371"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "book_n": "266",
+ "book_name": "吉陵土白蚊 Odontotermes giriensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "吉陵土白蚁兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "4.00–5.50"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.18–1.35"
+    },
+    {
+     "key": "head_width",
+     "value": "1.00–1.20"
+    },
+    {
+     "key": "head_height",
+     "value": "0.65–0.80"
+    },
+    {
+     "key": "labrum_width",
+     "value": "0.25–0.35"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "0.70–0.78"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "0.73–0.83"
+    },
+    {
+     "key": "postmentum_width",
+     "value": "0.53–0.60"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.45–0.60"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.75–0.93"
+    },
+    {
+     "key": "mesonotum_width",
+     "value": "0.68–0.83"
+    },
+    {
+     "key": "metanotum_width",
+     "value": "0.80–0.98"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 1503,
+   "unit": "mm"
+  }
+ ]
+}

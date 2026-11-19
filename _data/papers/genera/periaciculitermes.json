@@ -1,0 +1,31 @@
+{
+ "latin": "Periaciculitermes",
+ "zh": "近针白蚁属",
+ "fetched_at": "2026-10-30T16:54:21Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2735716870",
+   "openalex_url": "https://openalex.org/W2735716870",
+   "doi": "",
+   "doi_url": "",
+   "title": "Four new Species of Nasutitermes and New Genus Periaciculitermes of Subfamily Nasutitermitinae From China (Isoptera:Termitidae)",
+   "year": 1986,
+   "date": "1986-08-22",
+   "authors": [
+    "LI Gui-xiang"
+   ],
+   "venue": "",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "7",
+   "issue": "3",
+   "pages": "207-216",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  }
+ ]
+}

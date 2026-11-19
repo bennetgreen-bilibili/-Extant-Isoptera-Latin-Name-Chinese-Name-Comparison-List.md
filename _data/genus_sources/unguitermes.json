@@ -1,0 +1,35 @@
+{
+ "latin": "Unguitermes",
+ "zh": "爪白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Unguitermes Sjöstedt, 1924b: 257.",
+ "type_species": "Procubitermes bidentatus Silvestri, 1914 by original designation.",
+ "references": [
+  {
+   "ref": "Sjöstedt, 1926d: 264",
+   "note": "Unguitermes; reference list; soldier characters."
+  },
+  {
+   "ref": "Webb, 1961: 12",
+   "note": "Unguitermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 28, 29, 104, 105, pl. 20: fig. 59c",
+   "note": "Unguitermes; key; characters; imago/worker mandibles figured."
+  },
+  {
+   "ref": "Coaton and Sheasby, 1972: 25, 77, 101, figs. 16, 46",
+   "note": "Unguitermes; soldier figured; key; ecology; biology; distribution. Namibia."
+  },
+  {
+   "ref": "Morimoto, 1975b: 38",
+   "note": "Unguitermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 37, 231–233, figs. 995–1023, pl. 13: figs. 1–3",
+   "note": "Unguitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 10
+}

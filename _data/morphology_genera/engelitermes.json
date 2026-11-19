@@ -1,0 +1,29 @@
+{
+ "zh_name": "恩格尔白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁的总体形态在全世界白蚁中最接近非洲的 Cephalotermes 与新热带的 Cylindrotermes，但本属兵蚁消化道内无固体食物颗粒（原文称 white-gutted），据此与二者区分；其兵蚁体型持续小于非洲 Termitinae 的具颚兵蚁，体型与 Forficulitermes planifrons 相当（最大头宽 0.63 mm 对 0.65 mm），但内颚形状完全不同。工蚁内颚属食土／腐殖质取食型，而 Cephalotermes、Cylindrotermes 工蚁为食木型：端齿宽阔、与第一缘齿远隔，磨区凹而无脊（与 Crenetermes、Eutermellus、Jugositermes、Thoracotermes 相似）；与 Forficulitermes 工蚁尤其相似之处在于端齿与第一缘齿之间的宽间隙，以及第一、第四后肠段发达。肠瓣「单枚棘刺 + 无纹饰的瓣垫角质层」的组合在白蚁肠瓣中独一无二；砂囊结构较多数 Termitinae 简化。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "仅据 1 头蚁后（physogastric queen）描述：头部褐色，着生数百枚长短不一、多指向前方的刚毛，刚毛起自透明毛窝；额缝中支较头部其余部分色深；囟小、圆形，位于两单眼之间；头前侧方在囟前具两片新月形斑。前胸背板与后唇基较头顶色浅，毛被相似；后唇基不膨隆。所检标本触角断折，但多于 10 节；第 3、4 节几乎愈合，第 3 节短于第 2 节，第 3、4 节合起来长于第 2 节。内颚端齿较工蚁的窄。端距 2:2:2。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头壳背视近长方形，两侧缘略向后收；侧视额面在囟附近隆起并呈波状起伏；囟小、几乎不可辨；内颚粗壮，基部具 1 枚三角形齿；触角 12 节；前胸背板前、后叶对称（congruent），侧视共同构成一条直线三角；端距 2:2:2；腹部黄白色，消化道内无固体食物残渣（white-gutted sensu Scheffrahn et al. 2017）。"
+  },
+  {
+   "label": "工蚁",
+   "text": "背视头壳内可见大的白色脑（食管上神经节），位于额腺小菱形组织的前方；侧视后唇基略膨隆。内颚端齿宽而突出；左内颚端齿与第一缘齿之间的间隙大于第一与第三缘齿之间的距离；磨区凹、无脊。触角 12 节；端距 2:2:2；前足腿节略膨大。砂囊缺 columnar belt，pulvillar belt 具硬化小刺，其下具成片的脊状鳞。肠瓣由 6 个光滑、细长的瓣垫组成，每瓣垫远端具 1 枚小刺，瓣垫指向食流；肠瓣武装（EVA）在环的前方具 1 个略微硬化的垫，着生 1–2 枚强刺与数枚小刺。混合段缺失。回肠圆筒状，沿腹部左侧呈长 S 形走行，向后收窄并折向前方与 P2 相接；P4 前部宽、后部窄；P5 容积异常大（但非所有个体皆然）。"
+  }
+ ],
+ "note": "本属为单型属，原文将其置于独立的 Engelitermitinae。有翅成虫仅据 1 头蚁后描述，原文亦注明标本触角断折（节数只能给「多于 10 节」）。全文为无文字层 PDF，经逐页渲染读图转录后核对。",
+ "sources": [
+  {
+   "id": "S0030",
+   "citation": "Romero Arias J., Hellemans S., Kaymak E., Akama P.D., Bourguignon T., Roisin Y., Scheffrahn R.H. & Šobotník J. 2024. Mitochondrial phylogenetics position a new Afrotropical termite species into its own subfamily, the Engelitermitinae (Blattodea: Termitidae). Systematic Entomology 49: 72–83. https://doi.org/10.1111/syen.12607",
+   "locator": "pp. 78–79（Engelitermes gen. n.: Description / Diagnosis）"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "latin": "Scheffrahnitermes",
+ "zh": "谢弗拉恩白蚁属",
+ "fetched_at": "2026-10-31T10:46:05Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W7153798885",
+   "openalex_url": "https://openalex.org/W7153798885",
+   "doi": "10.1002/njz2.70025",
+   "doi_url": "https://doi.org/10.1002/njz2.70025",
+   "title": "Scheffrahnitermes ubuntu (Isoptera: Apicotermitinae), Description of a New Termite Using a Collaborative Approach to Address the Wallacean Shortfall",
+   "year": 2026,
+   "date": "2026-04-12",
+   "authors": [
+    "Camila C. Mellado",
+    "Giordano G. Messina",
+    "Antonio Carvalho",
+    "Danilo Elias de Oliveira",
+    "Rayssa ALMEIDA-AZEVEDO",
+    "Renato Almeida De Azevedo",
+    "Hélida F. Cunha",
+    "Emanuelly Félix De Lucena",
+    "Joice Paulo Constantini",
+    "Olga Pinzón-Florián",
+    "Tiago F. Carrijo"
+   ],
+   "venue": "New Zealand Journal of Zoology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 1,
+   "oa_url": "https://doi.org/10.1002/njz2.70025",
+   "volume": "53",
+   "issue": "2",
+   "pages": "",
+   "abstract": "The study of Neotropical Apicotermitinae remains challenging due to the large number of undescribed taxa (Linnean shortfall) as well as the scarcity of distributional data (Wallacean shortfall). Despite recent efforts to reduce the first one, the second remains an even more significant challenge. To mitigate these gaps, we conducted a study based on a collaborative taxonomy approach, which brought together samples and expertise from multiple research groups across South America. We describe Scheffrahnitermes ubuntu, gen. and sp. nov., a new Apicotermitinae genus and species characterized by the presence of two asymmetrical sclerotized armed plates on the enteric valve seating (EVS), the EVS forming a small unique sac, and by workers that turn reddish when preserved in alcohol. The collaborative effort revealed a wide distribution for the new taxon, spanning various phytogeographic domains in Brazil (Amazon, Cerrado, Atlantic Forest, and Caatinga) and the Colombian Llanos. Our work demonstrates the efficacy of cooperative taxonomy as an essential tool for overcoming biogeographical deficits, promoting a more robust understanding of termite diversity and distribution.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1184,
+   "abstract_truncated": false
+  }
+ ]
+}

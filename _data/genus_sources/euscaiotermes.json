@@ -1,0 +1,27 @@
+{
+ "latin": "Euscaiotermes",
+ "zh": "左转白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Euscaiotermes Silvestri, 1923b: 221 [first introduced as a subgenus of Odontotermes Holmgren, 1910].",
+ "type_species": "Odontotermes (Euscaiotermes) primus Silvestri, 1923 by monotypy.",
+ "references": [
+  {
+   "ref": "Lal and Menon, 1953: 36, 69",
+   "note": "Termes (Euscaiotermes); catalog; reference list; key."
+  },
+  {
+   "ref": "Ahmad, 1958: 97",
+   "note": "Odontotermes (Euscaiotermes); key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 17",
+   "note": "Euscaiotermes; key."
+  },
+  {
+   "ref": "Chhotani, 1997: 567–568",
+   "note": "Euscaiotermes; synonymy; characters; distribution and composition."
+  }
+ ],
+ "nrefs": 12
+}

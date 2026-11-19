@@ -1,0 +1,13 @@
+{
+ "Profastigitermes putnami": {
+  "label": "Profastigitermes putnami Emerson, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 85136,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85136/overview",
+  "valid_label": null,
+  "valid_otu": 85136,
+  "verified": false
+ }
+}

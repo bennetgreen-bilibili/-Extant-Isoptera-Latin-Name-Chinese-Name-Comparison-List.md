@@ -1,0 +1,25 @@
+{
+ "zh_name": "米约马尔加什白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "左颚指数 0.66（工蚁）；与东洋区 Leucopitermes 最近，而非非洲该支系诸属（非洲诸属左颚指数最小者为 Eutermellus，达 1.12）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "额突与头顶具短毛，鼻基处毛少；头顶有少数刚毛；腹部背板与腹板毛长而密，各板后缘有一排约为体毛两倍长的刚毛；头部有明显缩窄、后部近球状；额突圆锥形；触角 12-13 节；右颚有一短而尖的端尖、左颚无端尖；前胸背板侧轮廓前后段夹角小于直角。"
+  },
+  {
+   "label": "工蚁",
+   "text": "两上颚端齿相对第 1 缘齿较大；左颚第 1+2 缘齿切缘波浪状；左颚第 3 缘齿前保留明显缺刻；右颚第 2 缘齿略圆；左颚指数 0.66。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0081",
+   "citation": "Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.",
+   "locator": "pp. 15-16"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+}

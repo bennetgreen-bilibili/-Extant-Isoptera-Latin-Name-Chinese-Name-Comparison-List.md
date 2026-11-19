@@ -1,0 +1,55 @@
+{
+ "fetched_at": "2026-10-30T15:45:44Z",
+ "latin": "Aganotermes",
+ "papers": [
+  {
+   "abstract": "",
+   "abstract_chars": 0,
+   "abstract_source": "",
+   "abstract_truncated": false,
+   "authors": [
+    "PAUL FERRAR"
+   ],
+   "cited_by": 88,
+   "date": "1982-01-01",
+   "doi": "10.1007/bf00349022",
+   "doi_url": "https://doi.org/10.1007/bf00349022",
+   "id": "https://openalex.org/W1785208831",
+   "issue": "1",
+   "language": "en",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W1785208831",
+   "pages": "133-138",
+   "title": "Termites of a South African savanna",
+   "type": "article",
+   "venue": "Oecologia",
+   "volume": "52",
+   "year": 1982
+  },
+  {
+   "abstract": "",
+   "abstract_chars": 0,
+   "abstract_source": "",
+   "abstract_truncated": false,
+   "authors": [
+    "PAUL FERRAR"
+   ],
+   "cited_by": 27,
+   "date": "1982-01-01",
+   "doi": "10.1007/bf00349023",
+   "doi_url": "https://doi.org/10.1007/bf00349023",
+   "id": "https://openalex.org/W2324366136",
+   "issue": "1",
+   "language": "en",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W2324366136",
+   "pages": "139-146",
+   "title": "Termites of a South African savanna",
+   "type": "article",
+   "venue": "Oecologia",
+   "volume": "52",
+   "year": 1982
+  }
+ ],
+ "zh": "雅白蚁属"
+}

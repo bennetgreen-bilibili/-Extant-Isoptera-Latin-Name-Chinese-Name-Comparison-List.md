@@ -8,17 +8,19 @@
   （S0435，developers.google.com/search/docs/appearance/structured-data/dataset）——
   所以 isPartOf 只给不带 @type 的 @id 引用，引用仍在，但不再被计为 Dataset 项。
   Taxon --sameAs--> GBIF / Catalogue of Life / Wikidata / Blattodea Species File。
-  数据来自 front matter + _data/authority_links.json + _data/bsf_links.json；缺失时自动降级。
+  数据来自 front matter + _data/authority_links/taxa/<属>.json + _data/bsf_links/name_map/<属>.json
+  （值都是 {拉丁学名: 条目}，<属>＝page.genus_id）；缺失时自动降级。
 {%- endcomment -%}
 {%- assign LP = '' -%}
 {%- if page.lang == 'en' -%}{%- assign LP = '/en' -%}
 {%- elsif page.lang == 'es' -%}{%- assign LP = '/es' -%}{%- endif -%}
 {%- assign is_zh = false -%}{%- if LP == '' -%}{%- assign is_zh = true -%}{%- endif -%}
 {%- assign EXT = site.external -%}
+{%- assign _gid = page.genus_id | default: page.latin | split: ' ' | first | downcase -%}
 {%- assign AUTH = nil -%}
-{%- if site.data.authority_links -%}{%- assign AUTH = site.data.authority_links.taxa[page.latin] -%}{%- endif -%}
+{%- if site.data.authority_links -%}{%- assign AUTH = site.data.authority_links.taxa[_gid][page.latin] -%}{%- endif -%}
 {%- assign BSF = nil -%}
-{%- if site.data.bsf_links -%}{%- assign BSF = site.data.bsf_links.name_map[page.latin] -%}{%- endif -%}
+{%- if site.data.bsf_links -%}{%- assign BSF = site.data.bsf_links.name_map[_gid][page.latin] -%}{%- endif -%}
 {%- capture sci_name -%}{{ page.latin }}{% if page.author_year %} {{ page.author_year }}{% endif %}{%- endcapture -%}
 {%- assign rank_label = 'Species' -%}
 {%- if page.rank == 'subspecies' -%}{%- assign rank_label = 'Subspecies' -%}{%- endif -%}

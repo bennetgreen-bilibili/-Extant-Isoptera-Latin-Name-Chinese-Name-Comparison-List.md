@@ -1,0 +1,80 @@
+{
+ "latin": "Eurytermes",
+ "zh": "宽白蚁属",
+ "fetched_at": "2026-10-30T16:53:37Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2914903665",
+   "openalex_url": "https://openalex.org/W2914903665",
+   "doi": "10.1111/j.1439-0418.1980.tb03439.x",
+   "doi_url": "https://doi.org/10.1111/j.1439-0418.1980.tb03439.x",
+   "title": "Termiten im Kathmandu‐Tal in Nepal",
+   "year": 1980,
+   "date": "1980-01-12",
+   "authors": [
+    "H.C. Habil"
+   ],
+   "venue": "Zeitschrift für Angewandte Entomologie",
+   "type": "article",
+   "language": "de",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "89",
+   "issue": "1-5",
+   "pages": "31-34",
+   "abstract": "Termites in the Kathmandu valley in Nepal In the Kathmandu valley in Nepal the Rhinotermitidae species Heterotermes indicola (Wasmann) and the Termitidae species Odontotermes distans K. & N. Holmgren and Eurytermes spec. were found. H. indicola destroys timber in dwelling houses and other buildings in Kathmandu and Bhaktapur, O. distans timber in houses and posts. Zusammenfassung Im Kathmandu‐Tal in Nepal wurden die Rhinotermitide Heterotermes indicola (Wasmann) und die Termitiden Odontotermes distans K. & N. Homgren und Eurytermes spec. gefunden. Von H. indicola angerichtete Holzzerstörungen in Wohnhäusern und anderen Gebäuden wurden in Kathmandu und Bhaktapur festgestellt. O. distans zerstört Pfähle im Freien und Holz in Gebäuden.",
+   "abstract_source": "openalex",
+   "abstract_chars": 742,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2075652021",
+   "openalex_url": "https://openalex.org/W2075652021",
+   "doi": "10.1016/0378-1127(85)90097-0",
+   "doi_url": "https://doi.org/10.1016/0378-1127(85)90097-0",
+   "title": "Some ecological aspects of the termite problem in young eucalypt plantations in Kerala, India",
+   "year": 1985,
+   "date": "1985-10-01",
+   "authors": [
+    "K. S. S. Nair",
+    "R. V. Varma"
+   ],
+   "venue": "Forest Ecology and Management",
+   "type": "article",
+   "language": "en",
+   "cited_by": 32,
+   "oa_url": "",
+   "volume": "12",
+   "issue": "3-4",
+   "pages": "287-303",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2393618949",
+   "openalex_url": "https://openalex.org/W2393618949",
+   "doi": "",
+   "doi_url": "",
+   "title": "NEW TERMITES FROM SOUTH CHINA",
+   "year": 1963,
+   "date": "1963-01-01",
+   "authors": [
+    "Pei-Hsuan Tsai"
+   ],
+   "venue": "Acta Entomologica Sinica",
+   "type": "article",
+   "language": "en",
+   "cited_by": 4,
+   "oa_url": "",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "During the years 1954 to 1956, a great number of termites were collected fromSouth China, including the Provinces Kwangtung, Fukien, Kwangsi, Yunnan and Che-kiang. Among these collections, there are 21 new species belonging to 12 genera. Theircharacteristics are described and the differences between them and their allied species arebriefly discussed in this paper. Kalotermitidae Cryptotermes declivis sp. nov. The soldier of this species has a short headwith two short and toothed mandibles. Its frons is declivous, and the upper surfaceof its head is smooth, not roughened at all. The winged adult is brownish black, andthe wing is very short. In these respects, it differs distinctly from C. domesticus, C.brevis, and also other known Cryptotermes of Indomalayan region. Lobitermes nigrifrons sp. nov. The most striking feature of its soldier presentsitself in the anterior extremity of the head which forms a black, roughened, and nearlyvertical plane. It may be easily distinguished from Glyptotermes satsumensis G. fuscus,and other Glyptotermes. It stands closely to Calotermes (Lobitermes) pinangae Havilandof Sarawak, but is much larger than the latter. Glyptotermes chinpingensis sp. nov. It resembles G. fuscus in some aspects.But its soldier is much larger and especially with a much broader head than the soldierof G. fuscus. There is no yellow spot on the pronotum of the winged adult. Rhinotermitidae Heterotermes latilabrum sp. nov. This genus had not been recorded fromChina. The soldier has a rather short head with a rather broad labrum. The 3rd an-tennal segment is well developed. The width of pronotum is more than twice its length. Reticulitermes longicephalus sp. nov. The head of the soldier is very longthat the head length is distinctly more than twice its width. So it may be readily dis-criminated from the other 3 known species of Reticulitermes of China. The forehead iselevated and the length of the mandible nearly one third of the head. These are thechief differences between it and R. magdalenae of Indo-China and R. lucifugus of Europe. Schedorhinotermes magnus sp. nov. This is the first Schedorhinotermes col-lected from China. It resembles S. magnificus of Burma except that the size of thesoldier is smaller and the anterior part of the head of the larger soldier is only slightlycontracted. Termitidae Eurytermes isodentatus sp. nov. It is the first Eurytermes discovered in China. Each of the two mandibles of the soldier bears a triangular tooth situated in its middle.The teeth of both mandibles are of equal size. Procapritermes albipennis sp. nov. Its soldier resembles P. sowerbyi in ap-pearance. The only slight difference between them is in the width of the heads. But itsimago differs markedly from that of sowerbyi by the almost white colored wing andthe inconspicuous fontanel. Capritermes pseudolaetus sp. nov. It is a small sized termite. The soldier ismuch smaller than that of C. nitobei. Total length of soldier is 5 mm, length of headwith mandible is 2.62 mm, width of head is 0.86 mm. The elevated forehead gives thesoldier an appearance somewhat like the C. laetus of Burma. Capritermes minutus sp. nov. It is another small-sized Capritermes. Totallength of the soldier is 4.83 mm, head length with mandibles 2.52 mm, head lengthwithout mandible 1.38 mm, head width 0.81 mm. Its forehead does not make a distinctelevation. Odontotermes yunnanensis sp. nov. It is a mound-building termite. The soldiercan emit white fluid when disturbed. The labrum of the soldier possesses a curved an-terior margin, and the teeth of the soldier are situated behind the middle of the man-dibles. Odontotermes angustignathua sp. nov. The head of the soldier is very simillarto that of O. formosanus. The anterior half of the left mandible before the tooth, whichis nearly at the middle of the mandible, is very slender. The nest is entirely under theground. Microtermes dimorphus sp. nov. There are two forms of soldiers in thisspecies. The larger soldier is not smaller than the worker. Except on the basalpart, there is no tooth on the mandibles of th",
+   "abstract_source": "openalex",
+   "abstract_chars": 4096,
+   "abstract_truncated": false
+  }
+ ]
+}

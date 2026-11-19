@@ -1,0 +1,43 @@
+{
+ "latin": "Macrotermes",
+ "zh": "大白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Macrotermes Holmgren, 1909b: 193 [first introduced as a subgenus of Termes Linnaeus, 1758].",
+ "type_species": "Termes lilljeborgi Sjöstedt, 1896 by monotypy",
+ "references": [
+  {
+   "ref": "Wasmann, 1897b: 150",
+   "note": "Termes (Termes); characters; Termes bellicosus as type species."
+  },
+  {
+   "ref": "Haviland, 1898: 378, 379",
+   "note": "Termes; “section with T. bellicosus for type [part]”; characters; key."
+  },
+  {
+   "ref": "Wasmann, 1902d: 104–105",
+   "note": "Termes; Haviland’s “section of T. bellicosus”; characters."
+  },
+  {
+   "ref": "Escherich, 1909: 175",
+   "note": "Termes [part]; characters."
+  },
+  {
+   "ref": "Holmgren, 1912a: 11, 12, 29–33",
+   "note": "Termes; characters; key; subgenera included; systematic position; Termes (Macrotermes); key; species included; Termes (Termes); key; species included."
+  },
+  {
+   "ref": "Fuller, 1921: 17, 20, 22",
+   "note": "Macrotermes; key; remarks. 1020 Bulletin of the American Museum of natural History\b No. 377"
+  },
+  {
+   "ref": "Light, 1924: 53",
+   "note": "Macrotermes; key."
+  },
+  {
+   "ref": "Bathellier, 1927: 141",
+   "note": "Termes (Macrotermes); key."
+  }
+ ],
+ "nrefs": 110
+}

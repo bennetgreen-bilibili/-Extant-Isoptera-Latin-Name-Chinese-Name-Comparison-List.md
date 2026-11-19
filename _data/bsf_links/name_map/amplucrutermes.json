@@ -1,0 +1,13 @@
+{
+ "Amplucrutermes inflatus": {
+  "label": "Amplucrutermes inflatus Bourguignon & Roisin, 2016",
+  "match": "exact",
+  "notes": "",
+  "otu": 1131103,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1131103/overview",
+  "valid_label": null,
+  "valid_otu": 1131103,
+  "verified": false
+ }
+}

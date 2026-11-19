@@ -1,0 +1,13 @@
+{
+ "Ovambotermes sylvaticus": {
+  "label": "Ovambotermes sylvaticus Coaton, 1971",
+  "match": "exact",
+  "notes": "",
+  "otu": 85119,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85119/overview",
+  "valid_label": null,
+  "valid_otu": 85119,
+  "verified": false
+ }
+}

@@ -4,7 +4,8 @@
 覆盖那些"坏了但不会报错、只会在线上悄悄错"的不变量：
 
   1. _config.yml 的 url + baseurl 与 base_url 一致；版本号与 dataset/metadata.json 一致
-  2. 全部 JSON 可解析（_data/、data/、search-index.json、isoptera-data.json）
+  2. 全部 JSON 可解析（_data/、data/、search-index.json、isoptera-data.json）；
+     _data/<数据集>/ 分片目录齐备、非空、无已删除的聚合文件回潮（见 _tools/data_shards.md）
   3. 分布图产物与索引一一对应（无孤儿 / 缺失），GeoJSON 合法：索引 = occurrence_summary.json
      （科 / 属 / 种）+ subfamily_maps.json（亚科）；实现见 _tools/check_geo.py
   4. _species/ front matter 必备字段齐全、slug 唯一
@@ -29,8 +30,8 @@
      不会一进页面就常显、关不掉把整站遮住
  15. 物种页「同属其他种」区块带 data-pagefind-ignore：该区块只是内链，不进 Pagefind
      全文索引，否则一个属的 40 个种名会塞进属内每一页，搜一个种名冒出整属的无关结果
-  16. 文献检索器：三语 /papers/ 页面、sitemap、papers.json / papers-index.json
-      字节一致、属覆盖与摘要字段自洽
+  16. 文献检索器：三语 /papers/ 页面、sitemap、papers/ 分片合并结果与
+      papers-index.json 一致、属覆盖与摘要字段自洽
   17. 摘要翻译术语表（_data/translation_glossary.yml）：结构、字段、重复项与 post 守卫，
       且三语 /papers/ 页面都接入了 _includes/papers-glossary.html
   18. JSON-LD 的 Dataset 实体只在数据集落地页（三语首页 + _includes/dataset-jsonld.html）定义；
@@ -57,6 +58,7 @@ from pathlib import Path
 # 本脚本的 errors 列表与 --ci 注解，避免两处各写一遍后再次漂移。
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import check_geo as geo_artifacts  # noqa: E402  （必须先插入 sys.path 才能导入同级脚本）
+import data_shards  # noqa: E402  （_data 分片布局的唯一定义：ALL / NESTED / merge）
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -84,7 +86,8 @@ SITEMAP = ROOT / "sitemap.txt"
 SEARCH_INDEX = ROOT / "search-index.json"
 TAXONOMY_JSON = ROOT / "_data" / "taxonomy.json"
 SECTION_PAGES = {"en": ROOT / "en" / "list" / "sections.md", "es": ROOT / "es" / "list" / "sections.md"}
-PAPERS_DATA = ROOT / "_data" / "papers.json"
+PAPERS_DATA = ROOT / "_data" / "papers"   # 分片目录（一阶元一档，聚合文件已删除）
+PAPERS_WHERE = "_data/papers/"
 PAPERS_PUBLIC = ROOT / "papers-index.json"
 PAPERS_PAGES = (
     ("papers.md", "/papers/"),
@@ -182,6 +185,42 @@ def check_json() -> None:
                 err(path.name, "JSON 解析失败：" + str(exc)[:120])
 
 
+def check_shards() -> None:
+    """`_data/<数据集>/` 分片布局：目录齐备、分片非空、没有已删除的聚合文件回潮。
+
+    只做目录级校验（每个数据集 walk 一次数文件 + 解析 meta.json），不逐片解析 5,600+
+    个 JSON——那会把 30 秒的闸门拖成分钟级。全量内容校验是
+    `python _tools/data_shards.py --verify-all`，它需要拆分前的原始 JSON
+    （`_tmp/shard_orig/`，不入库），因此不在 CI 跑。
+    """
+    data_dir = ROOT / "_data"
+    for name in data_shards.ALL:
+        d = data_dir / name
+        if not d.is_dir():
+            err("_data/" + name, "分片目录不存在（见 _tools/data_shards.md）")
+            continue
+        meta = d / "meta.json"
+        n_shards = data_shards.count_shards(name)
+        if n_shards == 0:
+            err("_data/" + name, "分片目录为空（0 个 .json）")
+        elif n_shards == 1 and meta.is_file():
+            err("_data/" + name, "只有 meta.json、没有分片数据（拆分不完整）")
+        legacy = d.with_suffix(".json")
+        if legacy.is_file():
+            err("_data/" + legacy.name,
+                "聚合文件已拆分，不应再存在（会与 _data/%s/ 争用 site.data.%s）" % (name, name))
+        if meta.is_file():
+            try:
+                json.loads(read(meta))
+            except json.JSONDecodeError as exc:
+                err(meta.relative_to(ROOT).as_posix(), "JSON 不可解析：%s" % exc)
+    for name, (sub, _wrapped) in sorted(data_shards.NESTED.items()):
+        d = data_dir / name
+        if d.is_dir() and not (d / sub).is_dir():
+            err("_data/" + name, "缺少子目录 %s/（应含 meta.json + %s/，见 _tools/data_shards.md）"
+                % (sub, sub))
+
+
 def check_geo() -> None:
     """分布图产物：索引（occurrence_summary + subfamily_maps）与磁盘一一对应。"""
     report = geo_artifacts.collect(ROOT)
@@ -243,12 +282,15 @@ def check_fauna_keys() -> None:
             used.setdefault(key, set()).add(path.relative_to(ROOT).as_posix())
     data_dir = ROOT / "_data"
     for key, pages in sorted(used.items()):
-        if (data_dir / (key + ".json")).is_file():
+        if (data_dir / (key + ".json")).is_file() or (data_dir / key).is_dir():
             continue
-        err("_data", "%d 个页面/布局引用 site.data.%s，但 _data/%s.json 不存在："
+        err("_data", "%d 个页面/布局引用 site.data.%s，但 _data/%s.json 或 _data/%s/ 不存在："
                      "Liquid 里恒为空、形态描述不会渲染（例如 %s）"
-            % (len(pages), key, key, ", ".join(sorted(pages)[:3])))
-    for path in sorted(data_dir.glob("fauna_*.json")):
+            % (len(pages), key, key, key, ", ".join(sorted(pages)[:3])))
+    fauna_paths = sorted(data_dir.glob("fauna_*.json"))
+    fauna_paths += [p for p in sorted(data_dir.iterdir())
+                    if p.is_dir() and p.name.startswith("fauna_")]
+    for path in fauna_paths:
         if path.stem not in used:
             warn("_data/" + path.name, "已提交，但没有任何页面或布局引用 site.data.%s" % path.stem)
 
@@ -677,23 +719,29 @@ def check_papers(base_url: str) -> None:
             if key not in bridge_body:
                 err("_includes/papers-i18n.html", "缺少 %s 字段（摘要翻译文案无法本地化）" % key)
 
-    if not PAPERS_DATA.is_file():
-        err(PAPERS_DATA.relative_to(ROOT).as_posix(), "文件不存在（运行 .github/workflows/build_papers.py --write）")
+    if not PAPERS_DATA.is_dir():
+        err(PAPERS_WHERE, "分片目录不存在（运行 .github/workflows/build_papers.py --write）")
         return
+    try:
+        document = data_shards.merge("papers")
+    except Exception as exc:  # 分片缺失 / JSON 不可解析都在这里汇总
+        err(PAPERS_WHERE, "分片合并失败：%s" % str(exc)[:160])
+        return
+    if not isinstance(document, dict):
+        err(PAPERS_WHERE, "顶层不是对象")
+        return
+
     if not PAPERS_PUBLIC.is_file():
         err(PAPERS_PUBLIC.relative_to(ROOT).as_posix(), "公开副本不存在（运行 build_papers.py --write）")
     else:
-        if PAPERS_PUBLIC.read_bytes() != PAPERS_DATA.read_bytes():
-            err(PAPERS_PUBLIC.relative_to(ROOT).as_posix(), "与 _data/papers.json 字节不一致")
-
-    try:
-        document = json.loads(read(PAPERS_DATA))
-    except json.JSONDecodeError as exc:
-        err(PAPERS_DATA.relative_to(ROOT).as_posix(), "JSON 不可解析：%s" % exc)
-        return
-    if not isinstance(document, dict):
-        err(PAPERS_DATA.relative_to(ROOT).as_posix(), "顶层不是对象")
-        return
+        try:
+            public = json.loads(read(PAPERS_PUBLIC))
+        except json.JSONDecodeError as exc:
+            err(PAPERS_PUBLIC.relative_to(ROOT).as_posix(), "JSON 不可解析：%s" % exc)
+        else:
+            if public != document:
+                err(PAPERS_PUBLIC.relative_to(ROOT).as_posix(),
+                    "与 _data/papers/ 分片合并结果不一致（运行 build_papers.py --write）")
 
     expected_genera = {
         str(e.get("h"))
@@ -703,52 +751,52 @@ def check_papers(base_url: str) -> None:
     meta = document.get("meta") or {}
     genera = document.get("genera") or {}
     if not isinstance(genera, dict):
-        err(PAPERS_DATA.relative_to(ROOT).as_posix(), "genera 不是对象")
+        err(PAPERS_WHERE, "genera 不是对象")
         return
     missing = sorted(expected_genera - set(genera))
     extra = sorted(set(genera) - expected_genera)
     if missing:
-        err(PAPERS_DATA.relative_to(ROOT).as_posix(), "缺少属条目 %d 个：%s" % (len(missing), missing[:5]))
+        err(PAPERS_WHERE, "缺少属条目 %d 个：%s" % (len(missing), missing[:5]))
     if extra:
-        err(PAPERS_DATA.relative_to(ROOT).as_posix(), "多出属条目 %d 个：%s" % (len(extra), extra[:5]))
+        err(PAPERS_WHERE, "多出属条目 %d 个：%s" % (len(extra), extra[:5]))
 
     total = with_abstract = with_doi = 0
     for gid, entry in genera.items():
         if not isinstance(entry, dict):
-            err(PAPERS_DATA.relative_to(ROOT).as_posix(), "%s: 条目不是对象" % gid)
+            err(PAPERS_WHERE, "%s: 条目不是对象" % gid)
             continue
         if not entry.get("latin"):
-            err(PAPERS_DATA.relative_to(ROOT).as_posix(), "%s: 缺 latin" % gid)
+            err(PAPERS_WHERE, "%s: 缺 latin" % gid)
         if not isinstance(entry.get("fetched_at"), str):
-            err(PAPERS_DATA.relative_to(ROOT).as_posix(), "%s: 缺 fetched_at" % gid)
+            err(PAPERS_WHERE, "%s: 缺 fetched_at" % gid)
         papers = entry.get("papers")
         if not isinstance(papers, list):
-            err(PAPERS_DATA.relative_to(ROOT).as_posix(), "%s: papers 不是数组" % gid)
+            err(PAPERS_WHERE, "%s: papers 不是数组" % gid)
             continue
         if len(papers) > int(meta.get("per_genus") or 12):
-            err(PAPERS_DATA.relative_to(ROOT).as_posix(), "%s: 文献数超过 per_genus" % gid)
+            err(PAPERS_WHERE, "%s: 文献数超过 per_genus" % gid)
         seen = set()
         for idx, paper in enumerate(papers):
             where = "%s[%d]" % (gid, idx)
             if not isinstance(paper, dict):
-                err(PAPERS_DATA.relative_to(ROOT).as_posix(), where + ": 不是对象")
+                err(PAPERS_WHERE, where + ": 不是对象")
                 continue
             pid = paper.get("id") or paper.get("doi") or paper.get("title")
             if not pid:
-                err(PAPERS_DATA.relative_to(ROOT).as_posix(), where + ": 缺 id/doi/title")
+                err(PAPERS_WHERE, where + ": 缺 id/doi/title")
             if pid in seen:
-                err(PAPERS_DATA.relative_to(ROOT).as_posix(), where + ": 重复条目")
+                err(PAPERS_WHERE, where + ": 重复条目")
             seen.add(pid)
             if not paper.get("title"):
-                err(PAPERS_DATA.relative_to(ROOT).as_posix(), where + ": 缺 title")
+                err(PAPERS_WHERE, where + ": 缺 title")
             abstract = paper.get("abstract", "")
             if not isinstance(abstract, str):
-                err(PAPERS_DATA.relative_to(ROOT).as_posix(), where + ": abstract 不是字符串")
+                err(PAPERS_WHERE, where + ": abstract 不是字符串")
                 abstract = ""
             if paper.get("abstract_chars") != len(abstract):
-                err(PAPERS_DATA.relative_to(ROOT).as_posix(), where + ": abstract_chars 与摘要长度不一致")
+                err(PAPERS_WHERE, where + ": abstract_chars 与摘要长度不一致")
             if paper.get("doi") and paper.get("doi_url") != ("https://doi.org/" + str(paper.get("doi"))):
-                err(PAPERS_DATA.relative_to(ROOT).as_posix(), where + ": doi_url 与 doi 不一致")
+                err(PAPERS_WHERE, where + ": doi_url 与 doi 不一致")
             if abstract:
                 with_abstract += 1
             if paper.get("doi"):
@@ -764,7 +812,7 @@ def check_papers(base_url: str) -> None:
     }
     for key, value in expected_counts.items():
         if counts.get(key) != value:
-            err(PAPERS_DATA.relative_to(ROOT).as_posix(), "meta.counts.%s=%s，实际 %s" % (key, counts.get(key), value))
+            err(PAPERS_WHERE, "meta.counts.%s=%s，实际 %s" % (key, counts.get(key), value))
 
 
 def check_i18n() -> None:
@@ -1255,6 +1303,7 @@ def main() -> int:
 
     base_url = check_config()
     check_json()
+    check_shards()
     check_geo()
     check_fauna_keys()
     fields_by_slug, _ = check_species()

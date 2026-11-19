@@ -69,11 +69,12 @@
 {%- capture meta_desc -%}{%- include meta-description-value.html -%}{%- endcapture -%}
 {%- assign meta_desc = meta_desc | strip -%}
 {%- assign canonical_url = site.base_url | append: page.url -%}
-{%- comment -%} 社交分享图：物种页优先 iNaturalist 照片（_data/species_photos.json），否则用所在科/亚科照片，最后兜底站点首图 {%- endcomment -%}
+{%- comment -%} 社交分享图：物种页优先 iNaturalist 照片（_data/species_photos/species/<属>.json，{拉丁名: [照片]}），否则用所在科/亚科照片，最后兜底站点首图 {%- endcomment -%}
 {%- assign og_image = page.image -%}
 {%- if og_image == nil or og_image == '' -%}
   {%- if page.collection == 'species' or page.species_page -%}
-    {%- assign og_photos = site.data.species_photos.species[page.latin] -%}
+    {%- assign og_gid = page.genus_id | default: page.latin | split: ' ' | first | downcase -%}
+    {%- assign og_photos = site.data.species_photos.species[og_gid][page.latin] -%}
     {%- if og_photos and og_photos.size > 0 -%}
       {%- assign og_image = og_photos[0].src -%}
     {%- else -%}

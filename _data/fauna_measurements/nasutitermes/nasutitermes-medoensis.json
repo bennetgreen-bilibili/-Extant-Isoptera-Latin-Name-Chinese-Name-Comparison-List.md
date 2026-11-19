@@ -1,0 +1,58 @@
+{
+ "book_n": "424",
+ "book_name": "墨脱象白蚊 Nasutitermes medoensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "墨脱象白蚁兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "4.57",
+     "value": "4.29–4.86"
+    },
+    {
+     "key": "head_length_with_nasus",
+     "mean": "1.61",
+     "value": "1.57–1.64"
+    },
+    {
+     "key": "nasus_length",
+     "mean": "0.75",
+     "value": "0.71–0.79"
+    },
+    {
+     "key": "head_height",
+     "mean": "0.61",
+     "value": "0.57–0.64"
+    },
+    {
+     "key": "head_width",
+     "mean": "0.93",
+     "value": "0.89–1.00"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.18",
+     "value": "0.18–0.21"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.50",
+     "value": "0.46–0.54"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.92",
+     "value": "0.89–0.96"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 643,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "book_n": "466",
+ "book_name": "贵州钝颚白蚁 Ahmeditermes guizhouensis",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "贵州钝颚白蚊有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length_with_wings",
+     "mean": "14.25",
+     "value": "13.60–14.64"
+    },
+    {
+     "key": "eye_long_diameter",
+     "mean": "0.41",
+     "value": "0.39–0.43"
+    },
+    {
+     "key": "eye_short_diameter",
+     "mean": "0.40",
+     "value": "0.37–0.42"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.20",
+     "value": "1.14–1.26"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.66",
+     "value": "1.59–1.72"
+    }
+   ],
+   "src_file": "901-989.txt",
+   "src_line": 71,
+   "unit": "mm"
+  }
+ ]
+}

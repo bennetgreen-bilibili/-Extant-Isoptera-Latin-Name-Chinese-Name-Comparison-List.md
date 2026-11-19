@@ -1,0 +1,13 @@
+{
+ "Trapellitermes loxomastax": {
+  "label": "Trapellitermes loxomastax Sands, 1995",
+  "match": "exact",
+  "notes": "",
+  "otu": 85863,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85863/overview",
+  "valid_label": null,
+  "valid_otu": 85863,
+  "verified": false
+ }
+}

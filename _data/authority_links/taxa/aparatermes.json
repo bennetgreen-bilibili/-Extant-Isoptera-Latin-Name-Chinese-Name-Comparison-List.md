@@ -1,0 +1,71 @@
+{
+ "Aparatermes abbreviatus": {
+  "gbif": {
+   "key": 9779371,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Aparatermes abbreviatus Silvestri, 1901",
+   "accepted": null
+  },
+  "col": {
+   "id": "F8B5",
+   "status": "accepted",
+   "label": "Aparatermes abbreviatus Silvestri, 1901",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234899",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Aparatermes cingulatus": {
+  "gbif": {
+   "key": 9268694,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Aparatermes cingulatus (Burmeister, 1839)",
+   "accepted": null
+  },
+  "col": {
+   "id": "F8B6",
+   "status": "accepted",
+   "label": "Aparatermes cingulatus (Burmeister, 1839)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234900",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Aparatermes thornatus": {
+  "gbif": {
+   "key": 11513971,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Aparatermes thornatus",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Aparatermes Fontes, 1986",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q102076733",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

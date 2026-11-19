@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "补充描述与鉴别",
+   "heading_en": "Redescription and diagnosis",
+   "heading_es": "Redescripción y diagnosis",
+   "paragraphs": [
+    {
+     "text": "根据 Casalla、Scheffrahn 与 Korb（2016）研究，宽额前新白蚁（<i>Proneotermes latifrons</i>）自 Silvestri 1901 年描述以来，兵蚁描述不完整，额面角度、颊角、后颏与量度均缺失，有翅成虫至今未知；该研究据委内瑞拉标本补测兵蚁（n = 11）头长（至上颚端）2.65–3.35 毫米，均值 2.96 毫米，头宽最大 1.46 毫米，颊角跨距 1.33 毫米，体长 7.38 毫米。材料来自玻利瓦尔州 El Pauji、法尔孔州 La Chapa、拉腊州 Copeyal 与亚拉奎州 Licua。在三种的检索中，宽额前新白蚁（<i>Proneotermes latifrons</i>）额面呈均匀弧线、后颏长约为宽的两倍、后缘呈锥形，可与佩雷斯前新白蚁（<i>Proneotermes perezi</i>）额面近乎直线折角、后颏长约为宽的 3/5、后缘凸出相区别。",
+     "src": [
+      "S0348"
+     ],
+     "text_en": "In the study by Casalla, Scheffrahn and Korb (2016), the soldier of <i>Proneotermes latifrons</i> has remained incompletely described since Silvestri's 1901 account, lacking the angle of the frons, the genal horns, the postmentum and any measurements, and the imago is still unknown; using Venezuelan material the authors measured soldiers (n = 11) with head length to tip of mandibles 2.65-3.35 mm (mean 2.96), maximum head width 1.46 mm, span of the genal horns 1.33 mm and total length 7.38 mm. The material came from El Pauji in Bolívar, La Chapa in Falcón, Copeyal in Lara and Licua in Yaracuy. In the key to the three species, <i>Proneotermes latifrons</i> has an evenly curved frons, a postmentum about twice as long as wide and a conical posterior margin, whereas <i>Proneotermes perezi</i> has a rather straight-angled frons, a postmentum about three-fifths as long as wide and a convex posterior margin.",
+     "text_es": "En el estudio de Casalla, Scheffrahn y Korb (2016), el soldado de <i>Proneotermes latifrons</i> seguía insuficientemente descrito desde el trabajo de Silvestri de 1901, sin el ángulo de la frente, los cuernos genales, el postmentón ni medidas, y el imago continúa desconocido; con material venezolano los autores midieron soldados (n = 11) con longitud de la cabeza hasta el ápice de las mandíbulas de 2.65-3.35 mm (media 2.96), anchura máxima de la cabeza 1.46 mm, amplitud de los cuernos genales 1.33 mm y longitud total 7.38 mm. El material procede de El Pauji en Bolívar, La Chapa en Falcón, Copeyal en Lara y Licua en Yaracuy. En la clave de las tres especies, <i>Proneotermes latifrons</i> presenta frente uniformemente curvada, postmentón unas dos veces más largo que ancho y margen posterior cónico, mientras que <i>Proneotermes perezi</i> tiene frente en ángulo casi recto, postmentón unas tres quintas partes más largo que ancho y margen posterior convexo."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0348",
+   "citation": "Casalla, R.; Scheffrahn, R. H.; Korb, J. 2016. Proneotermes macondianus, a new drywood termite from Colombia and expanded distribution of Proneotermes in the Neotropics (Isoptera, Kalotermitidae). ZooKeys 623.",
+   "doi": "10.3897/zookeys.623.9677"
+  }
+ ]
+}

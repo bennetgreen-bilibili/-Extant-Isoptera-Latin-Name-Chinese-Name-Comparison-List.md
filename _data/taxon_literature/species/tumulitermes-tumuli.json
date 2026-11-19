@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-11",
+ "sections": [
+  {
+   "heading": "马氏管与上颚的金属富集",
+   "paragraphs": [
+    {
+     "text": "Stewart 等（2011）用 PIXE、SEM-EDX 和同步辐射 X 射线荧光微探针分析土垄冢白蚁（Tumulitermes tumuli）体内金属分布，发现上颚末端富集锰，马氏管显著富集锌（1.6%）、镁（4.9%）、磷（6.8%）、钙（2.7%）和钾（2.4%）；马氏管内有两种钙、锌互斥的结石类型。",
+     "src": [
+      "S0170"
+     ],
+     "text_en": "Stewart et al. (2011) used PIXE, SEM-EDX and synchrotron X-ray fluorescence microprobe analysis to determine the distribution of metals in Tumulitermes tumuli, and found that manganese is enriched at the tips of the mandibles, while the Malpighian tubules are markedly enriched in zinc (1.6%), magnesium (4.9%), phosphorus (6.8%), calcium (2.7%) and potassium (2.4%); two types of concretion with mutually exclusive calcium and zinc occur in the Malpighian tubules.",
+     "text_es": "Stewart et al. (2011) analizaron la distribución de metales en Tumulitermes tumuli mediante PIXE, SEM-EDX y microsonda de fluorescencia de rayos X con radiación sincrotrón, y hallaron manganeso acumulado en el extremo de las mandíbulas y concentraciones notables de zinc (1,6 %), magnesio (4,9 %), fósforo (6,8 %), calcio (2,7 %) y potasio (2,4 %) en los tubos de Malpighi; en estos tubos existen dos tipos de concreciones en las que el calcio y el zinc se excluyen mutuamente."
+    }
+   ],
+   "heading_en": "Metal enrichment in the Malpighian tubules and mandibles",
+   "heading_es": "Acumulación de metales en los tubos de Malpighi y las mandíbulas"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0170",
+   "citation": "Stewart, A. D. et al. 2011. Distribution of metals in the termite Tumulitermes tumuli (Froggatt): two types of Malpighian tubule concretion host Zn and Ca mutually exclusively. PLoS ONE.",
+   "doi": "10.1371/journal.pone.0027578"
+  }
+ ]
+}

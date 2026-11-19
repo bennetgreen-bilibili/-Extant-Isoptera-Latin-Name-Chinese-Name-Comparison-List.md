@@ -1,0 +1,33 @@
+{
+ "latin": "Muelleritermes",
+ "zh": "米勒白蚁属",
+ "fetched_at": "2026-10-30T16:54:06Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W1954657363",
+   "openalex_url": "https://openalex.org/W1954657363",
+   "doi": "10.11646/zootaxa.4012.2.2",
+   "doi_url": "https://doi.org/10.11646/zootaxa.4012.2.2",
+   "title": "Muelleritermes: A new termite genus with two species from the Brazilian Atlantic Forest (Isoptera: Termitidae: Nasutitermitinae)",
+   "year": 2015,
+   "date": "2015-09-03",
+   "authors": [
+    "Danilo Elias de Oliveira",
+    "Mauricio M. Rocha",
+    "Eliana M. Cancello"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 3,
+   "oa_url": "https://doi.org/10.11646/zootaxa.4012.2.2",
+   "volume": "4012",
+   "issue": "2",
+   "pages": "258-70",
+   "abstract": "We present the description of Muelleritermes, new genus, and two new species: M. fritzi, sp. n. and M. globiceps, sp. n. Both species were found only in the Atlantic Forest of southern Brazil. All castes are described and illustrated, and a distribution map is provided. These species seem to be closely related to the genera Velocitermes and Diversitermes, sharing traits such as the presence of three types of soldiers and workers and a short mixed segment. This genus differs from Velocitermes and Diversitermes in the presence of a few ommatids on soldier's head, behind the antennae. It also differs from Velocitermes in the lack of a constriction on the head of major soldiers, and from Diversitermes in the presence of short hairs on top of the soldier's head, instead of microscopic ones.",
+   "abstract_source": "openalex",
+   "abstract_chars": 796,
+   "abstract_truncated": false
+  }
+ ]
+}

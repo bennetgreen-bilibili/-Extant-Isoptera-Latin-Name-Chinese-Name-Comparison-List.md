@@ -1,0 +1,52 @@
+{
+ "Patawatermes nigripunctatus": {
+  "gbif": {
+   "key": 11048620,
+   "status": "SYNONYM",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Patawatermes nigripunctatus (Emerson, 1925)",
+   "accepted": {
+    "key": 9339653,
+    "name": "Anoplotermes nigripunctatus Emerson, 1925",
+    "status": null,
+    "rank": "SPECIES"
+   }
+  },
+  "col": {
+   "id": "DLV5Q",
+   "status": "accepted",
+   "label": "Patawatermes nigripunctatus (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_synonym"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Patawatermes turricola": {
+  "gbif": {
+   "key": 10738387,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Patawatermes turricola",
+   "accepted": null
+  },
+  "col": {
+   "id": "KZC9M",
+   "status": "accepted",
+   "label": "Patawatermes turricola (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140747015",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

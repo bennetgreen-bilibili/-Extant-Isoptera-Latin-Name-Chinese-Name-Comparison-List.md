@@ -1,0 +1,68 @@
+{
+ "book_n": "28",
+ "book_name": "缙云树白蚁 Glyptotermes jinyunensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "缙云树白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "0.99",
+     "value": "0.97–1.03"
+    },
+    {
+     "key": "head_height",
+     "mean": "0.92",
+     "value": "0.90–0.94"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.21",
+     "value": "0.14–0.24"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.26",
+     "value": "0.24–0.27"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.73",
+     "value": "0.70–0.75"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.36",
+     "value": "0.31–0.38"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.20",
+     "value": "0.18–0.23"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.65",
+     "value": "0.61–0.68"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.08",
+     "value": "1.05–1.10"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.67",
+     "value": "0.58–0.73"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 548,
+   "unit": "mm"
+  }
+ ]
+}

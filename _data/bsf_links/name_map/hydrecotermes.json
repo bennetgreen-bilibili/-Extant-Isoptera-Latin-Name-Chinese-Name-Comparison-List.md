@@ -1,0 +1,24 @@
+{
+ "Hydrecotermes arienesho": {
+  "label": "Hydrecotermes arienesho Bourguignon & Roisin, 2016",
+  "match": "exact",
+  "notes": "",
+  "otu": 1131110,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1131110/overview",
+  "valid_label": null,
+  "valid_otu": 1131110,
+  "verified": false
+ },
+ "Hydrecotermes kawaii": {
+  "label": "Hydrecotermes kawaii Bourguignon & Roisin, 2016",
+  "match": "exact",
+  "notes": "",
+  "otu": 1131111,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1131111/overview",
+  "valid_label": null,
+  "valid_otu": 1131111,
+  "verified": false
+ }
+}

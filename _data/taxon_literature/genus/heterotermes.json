@@ -1,0 +1,41 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "西印度群岛的 16S 系统发育与科级归属",
+   "heading_en": "16S phylogeny in the West Indies and family placement",
+   "heading_es": "Filogenia del 16S en las Antillas y asignación familiar",
+   "paragraphs": [
+    {
+     "text": "据摘要，Szalanski 等（2004）研究西印度群岛的异白蚁属（Heterotermes），在 16S rRNA 片段的最大简约树上得到 5 个西印度类群，形态特征与地理分布支持这些分支；该属当时置于鼻白蚁科（Rhinotermitidae，广义），本站现置于 2024 年建立的异白蚁科（Heterotermitidae）。",
+     "text_en": "According to the abstract, Szalanski et al. (2004) studied <i>Heterotermes</i> in the West Indies and obtained five West Indian lineages on a maximum-parsimony tree of the 16S rRNA fragment, with morphology and geographical distribution supporting these clades; the genus was then placed in the Rhinotermitidae in the broad sense, and this site now places it in the Heterotermitidae established in 2024.",
+     "text_es": "Según el resumen, Szalanski et al. (2004) estudiaron <i>Heterotermes</i> en las Antillas y obtuvieron cinco linajes antillanos en un árbol de máxima parsimonia del fragmento de ARNr 16S, con la morfología y la distribución geográfica apoyando estos clados; el género se situaba entonces en Rhinotermitidae en sentido amplio, y este sitio lo sitúa ahora en Heterotermitidae, establecida en 2024.",
+     "src": [
+      "S0192",
+      "S0008"
+     ]
+    },
+    {
+     "text": "据摘要，该研究在 63 个地点采样；佛罗里达的异白蚁属未定种已知并非特有，巴巴多斯、大开曼、大特克、马提尼克、圣巴泰勒米等地的种群可能含有或全部为非特有种群，提示部分岛屿的异白蚁系人为传播；卡丁异白蚁（Heterotermes cardini）见于巴哈马与古巴，凸背异白蚁（Heterotermes convexinotatus）见于安提瓜、巴巴多斯、库拉索、多米尼加共和国、马提尼克、波多黎各、圣基茨、圣马丁、委内瑞拉与维尔京群岛，细瘦异白蚁（Heterotermes tenuis）见于除巴巴多斯与马提尼克以外的小安的列斯群岛、厄瓜多尔与苏里南。",
+     "text_en": "According to the abstract, the study sampled 63 localities; the Florida <i>Heterotermes</i> sp. is known to be non-native, and populations on Barbados, Grand Cayman, Grand Turk, Martinique and St. Barthelemy may include, or consist entirely of, non-native populations, suggesting that the termites of some islands were introduced by humans; <i>Heterotermes cardini</i> occurs in the Bahamas and Cuba, <i>Heterotermes convexinotatus</i> in Antigua, Barbados, Curaçao, the Dominican Republic, Martinique, Puerto Rico, St. Kitts, St. Maarten, Venezuela and the Virgin Islands, and <i>Heterotermes tenuis</i> in the Lesser Antilles except Barbados and Martinique, in Ecuador and in Suriname.",
+     "text_es": "Según el resumen, el estudio muestreó 63 localidades; la <i>Heterotermes</i> sp. de Florida no es autóctona, y las poblaciones de Barbados, Gran Caimán, Gran Turco, Martinica y San Bartolomé pueden incluir, o estar formadas enteramente por, poblaciones no autóctonas, lo que sugiere que las termitas de algunas islas fueron introducidas por el ser humano; <i>Heterotermes cardini</i> se encuentra en Bahamas y Cuba, <i>Heterotermes convexinotatus</i> en Antigua, Barbados, Curazao, República Dominicana, Martinica, Puerto Rico, San Cristóbal, San Martín, Venezuela e Islas Vírgenes, y <i>Heterotermes tenuis</i> en las Antillas Menores excepto Barbados y Martinica, en Ecuador y en Surinam.",
+     "src": [
+      "S0192"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0192",
+   "citation": "Szalanski, A. L.; Scheffrahn, R. H.; Austin, J. W.; Křeček, J.; Su, N.-Y. 2004. Molecular phylogeny and biogeography of Heterotermes (Isoptera: Rhinotermitidae) in the West Indies. Annals of the Entomological Society of America 97: 556–566.",
+   "doi": "10.1603/0013-8746(2004)097[0556:MPABOH]2.0.CO;2"
+  },
+  {
+   "id": "S0008",
+   "citation": "Hellemans, S.; Rocha, M. M.; Wang, M.; et al. 2024. Genomic data provide insights into the classification of extant termites. Nature Communications 15.",
+   "doi": "10.1038/s41467-024-51028-y"
+  }
+ ]
+}

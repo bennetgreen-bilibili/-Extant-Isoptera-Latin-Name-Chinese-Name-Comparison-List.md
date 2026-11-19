@@ -1,0 +1,63 @@
+{
+ "book_n": "385",
+ "book_name": "平颏钩扭白蚁 Pseudocapritermes planimentus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "平频钩扭白蚁兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.18",
+     "value": "2.10–2.26"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "2.11",
+     "value": "2.03–2.19"
+    },
+    {
+     "key": "right_mandible_length",
+     "mean": "1.98",
+     "value": "1.90–2.03"
+    },
+    {
+     "key": "head_width",
+     "mean": "1.44",
+     "value": "1.42–1.45"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.16",
+     "value": "1.13–1.19"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.07",
+     "value": "1.10–1.13"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.36",
+     "value": "0.35–0.39"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.88",
+     "value": "0.84–0.90"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.24",
+     "value": "1.23–1.29"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 1288,
+   "unit": "mm"
+  }
+ ]
+}

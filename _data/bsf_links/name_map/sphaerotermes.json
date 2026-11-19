@@ -1,0 +1,13 @@
+{
+ "Sphaerotermes sphaerothorax": {
+  "label": "Sphaerotermes sphaerothorax (Sjöstedt, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83486,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83486/overview",
+  "valid_label": null,
+  "valid_otu": 83486,
+  "verified": false
+ }
+}

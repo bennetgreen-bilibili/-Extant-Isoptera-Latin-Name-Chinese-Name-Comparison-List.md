@@ -1,0 +1,13 @@
+{
+ "Spiralitermes jurupari": {
+  "label": "Spiralitermes jurupari Almeida‐Azevedo & de Azevedo, 2026",
+  "match": "exact",
+  "notes": "",
+  "otu": 1473136,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1473136/overview",
+  "valid_label": null,
+  "valid_otu": 1473136,
+  "verified": false
+ }
+}

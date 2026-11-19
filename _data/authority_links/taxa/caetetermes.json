@@ -1,0 +1,45 @@
+{
+ "Caetetermes fontesi": {
+  "gbif": {
+   "key": 12240291,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Caetetermes fontesi Scheffrahn, 2022",
+   "accepted": null
+  },
+  "col": {
+   "id": "BW3FK",
+   "status": "accepted",
+   "label": "Caetetermes fontesi Scheffrahn, 2022",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Caetetermes taquarussu": {
+  "gbif": {
+   "key": 9589908,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Caetetermes taquarussu Fontes, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "PB4G",
+   "status": "accepted",
+   "label": "Caetetermes taquarussu Fontes, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225304",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

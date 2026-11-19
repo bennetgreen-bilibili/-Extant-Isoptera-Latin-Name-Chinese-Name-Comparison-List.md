@@ -1,0 +1,13 @@
+{
+ "Rostrotermes cornutus": {
+  "label": "Rostrotermes cornutus Grassé, 1943",
+  "match": "exact",
+  "notes": "",
+  "otu": 84131,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84131/overview",
+  "valid_label": null,
+  "valid_otu": 84131,
+  "verified": false
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "Noditermes angolensis": {
+  "label": "Noditermes angolensis Weidner, 1974",
+  "match": "exact",
+  "notes": "",
+  "otu": 85097,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85097/overview",
+  "valid_label": null,
+  "valid_otu": 85097,
+  "verified": false
+ },
+ "Noditermes cristifrons": {
+  "label": "Noditermes cristifrons (Wasmann, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85098,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85098/overview",
+  "valid_label": null,
+  "valid_otu": 85098,
+  "verified": false
+ },
+ "Noditermes festivus": {
+  "label": "Noditermes festivus Harris, 1958",
+  "match": "exact",
+  "notes": "",
+  "otu": 85099,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85099/overview",
+  "valid_label": null,
+  "valid_otu": 85099,
+  "verified": false
+ },
+ "Noditermes indoensis": {
+  "label": "Noditermes indoensis Sjöstedt, 1926",
+  "match": "exact",
+  "notes": "",
+  "otu": 85100,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85100/overview",
+  "valid_label": null,
+  "valid_otu": 85100,
+  "verified": false
+ },
+ "Noditermes lamanianus": {
+  "label": "Noditermes lamanianus (Sjöstedt, 1905)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85101,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85101/overview",
+  "valid_label": null,
+  "valid_otu": 85101,
+  "verified": false
+ },
+ "Noditermes profestus": {
+  "label": "Noditermes profestus (Sjöstedt, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85102,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85102/overview",
+  "valid_label": null,
+  "valid_otu": 85102,
+  "verified": false
+ },
+ "Noditermes wasambaricus": {
+  "label": "Noditermes wasambaricus Williams, 1954",
+  "match": "exact",
+  "notes": "",
+  "otu": 85103,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85103/overview",
+  "valid_label": null,
+  "valid_otu": 85103,
+  "verified": false
+ }
+}

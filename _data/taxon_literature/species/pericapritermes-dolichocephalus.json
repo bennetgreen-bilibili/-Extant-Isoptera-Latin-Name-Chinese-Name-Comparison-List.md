@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "海拔梯度中的取食类群",
+   "heading_en": "Feeding group along an altitudinal gradient",
+   "heading_es": "Grupo trófico a lo largo de un gradiente altitudinal",
+   "paragraphs": [
+    {
+     "text": "据摘要，Ratiknyo 等（2018）在中爪哇 Mount Slamet 700–1300 m 四个坡面的调查共记录 7349 头、11 种白蚁，把长头近扭白蚁（<i>Pericapritermes dolichocephalus</i>）与近扭白蚁属（<i>Pericapritermes</i>）的另一种一同归入取食土壤的类群，与取食木材、取食腐殖质的类群分开统计；典范对应分析显示郁闭度与光照强度是与群落结构最相关的环境因子。",
+     "text_en": "According to the abstract of Ratiknyo et al. (2018), a survey of four slopes at 700-1300 m on Mount Slamet, Central Java, recorded 7349 individuals and 11 species, and grouped <i>Pericapritermes dolichocephalus</i> with a second <i>Pericapritermes</i> species as soil feeders, separately from wood-feeding and humus-feeding groups; canonical correspondence analysis identified canopy cover and light intensity as the environmental factors most correlated with community structure.",
+     "text_es": "Según el resumen de Ratiknyo et al. (2018), un muestreo de cuatro laderas entre 700 y 1300 m en el monte Slamet, Java Central, registró 7349 individuos y 11 especies, y agrupó a <i>Pericapritermes dolichocephalus</i> con otra especie de <i>Pericapritermes</i> como geófagas, separadas de los grupos xilófagos y humívoros; el análisis de correspondencia canónica identificó la cobertura del dosel y la intensidad lumínica como los factores ambientales más correlacionados con la estructura de la comunidad.",
+     "src": [
+      "S0227"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0227",
+   "citation": "Ratiknyo, H.; Ahmad, I.; Budianto, B. H. 2018. Diversity and abundance of termites along altitudinal gradient and slopes in Mount Slamet, Central Java, Indonesia. Biodiversitas 19(5): 1783-1788.",
+   "doi": "10.13057/biodiv/d190508"
+  }
+ ]
+}

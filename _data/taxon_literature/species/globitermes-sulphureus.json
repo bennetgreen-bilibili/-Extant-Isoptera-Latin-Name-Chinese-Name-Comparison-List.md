@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "防御液的化学组成与拒避活性",
+   "heading_en": "Chemical composition and repellency of the defence fluid",
+   "heading_es": "Composición química y repelencia del fluido defensivo",
+   "paragraphs": [
+    {
+     "text": "根据 Appalasamy 等（2021）研究，黄球白蚁（<i>Globitermes sulphureus</i>）的防御液提取物对暗黄大白蚁（<i>Macrotermes gilvus</i>）工蚁的拒避等级为 IV–V 级，1 mg/ml 时拒避率 83.05%，20 mg/ml 时升至 97.62%；对暗黄大白蚁（<i>Macrotermes gilvus</i>）的半数致死浓度 LC50 为 16.917 mg/ml，低于炭色大白蚁（<i>Macrotermes carbonarius</i>）的提取物。气相色谱-质谱联用检出 8 种主要化合物，含量最高为十八烷酸 16.24 mg/l，最低为硬脂酸甲酯 0.67 mg/l；薄层色谱呈 2 条带，Rf 值 0.47 与 0.43，其中一条鉴定为十五烷酸。该研究认为十五烷酸、十六烷酸甲酯与十三烷是拒避成分，十八烷酸与硬脂酸贡献杀虫活性，而提取物对美洲大蠊（<i>Periplaneta americana</i>）没有杀虫活性。",
+     "src": [
+      "S0344"
+     ],
+     "text_en": "In the study by Appalasamy et al. (2021), the defence-fluid extract of <i>Globitermes sulphureus</i> was class IV-V repellent to workers of <i>Macrotermes gilvus</i>, with 83.05% repellency at 1 mg/ml rising to 97.62% at 20 mg/ml; its LC50 against <i>Macrotermes gilvus</i> was 16.917 mg/ml, lower than that of the <i>Macrotermes carbonarius</i> extract. Gas chromatography-mass spectrometry detected eight major compounds, the most abundant octadecanoic acid at 16.24 mg/l and the least abundant methyl stearate at 0.67 mg/l; thin-layer chromatography gave two bands with Rf 0.47 and 0.43, one of them identified as pentadecanoic acid. The authors consider pentadecanoic acid, hexadecanoic acid methyl ester and tridecane to be the repellent constituents and octadecanoic acid and stearic acid to contribute the insecticidal activity, while the extract showed no insecticidal activity against <i>Periplaneta americana</i>.",
+     "text_es": "En el estudio de Appalasamy et al. (2021), el extracto del fluido defensivo de <i>Globitermes sulphureus</i> resultó repelente de clase IV-V para obreros de <i>Macrotermes gilvus</i>, con 83.05% de repelencia a 1 mg/ml que subió a 97.62% a 20 mg/ml; su CL50 frente a <i>Macrotermes gilvus</i> fue de 16.917 mg/ml, inferior a la del extracto de <i>Macrotermes carbonarius</i>. La cromatografía de gases-espectrometría de masas detectó ocho compuestos principales, el más abundante el ácido octadecanoico con 16.24 mg/l y el menos abundante el estearato de metilo con 0.67 mg/l; la cromatografía en capa fina dio dos bandas con Rf 0.47 y 0.43, una identificada como ácido pentadecanoico. Los autores consideran que el ácido pentadecanoico, el éster metílico del ácido hexadecanoico y el tridecano son los componentes repelentes y que el ácido octadecanoico y el ácido esteárico aportan la actividad insecticida, mientras que el extracto no mostró actividad insecticida frente a <i>Periplaneta americana</i>."
+    }
+   ]
+  },
+  {
+   "heading": "种群遗传结构与家系组成",
+   "heading_en": "Population genetic structure and colony composition",
+   "heading_es": "Estructura genética poblacional y composición de colonias",
+   "paragraphs": [
+    {
+     "text": "根据 Khizam 与 Ab Majid（2021）研究，以 7 个种特异性微卫星位点检测马来西亚吉打与槟城 8 个黄球白蚁（<i>Globitermes sulphureus</i>）居群，60% 的群体为混合家系，其余为单一简单家系；简单家系与混合家系的平均亲缘度相近（r = 0.121），8 个居群整体 FST = 0.086，属中等分化，其中简单家系居群 FST = 0.090 高于混合家系居群 0.082；整体 FIT = 0.391、FIS = 0.333，近交水平不高；4 个居群偏离哈迪-温伯格平衡，5 个位点可能受选择作用；7 个位点共检出 363 个等位基因，每位点 2–9 个，均值 2.685；两个居群（Tikam Batu 与槟城国家公园）检出瓶颈效应，提示遗传漂变作用。",
+     "src": [
+      "S0345"
+     ],
+     "text_en": "In the study by Khizam and Ab Majid (2021), seven species-specific microsatellite loci were used to screen eight populations of <i>Globitermes sulphureus</i> in Kedah and Penang, Malaysia: 60% of the colonies were mixed families and the rest simple families; average relatedness was similar in simple and mixed colonies (r = 0.121), the overall FST across the eight populations was 0.086, indicating moderate differentiation, with FST = 0.090 in simple-family populations against 0.082 in mixed-family populations; overall FIT was 0.391 and FIS 0.333, so inbreeding was not high; four populations deviated from Hardy-Weinberg equilibrium and five loci may be under selection; the seven loci yielded 363 alleles, 2-9 per locus with a mean of 2.685; a bottleneck effect was detected in two populations (Tikam Batu and Penang National Park), indicating genetic drift.",
+     "text_es": "En el estudio de Khizam y Ab Majid (2021) se usaron siete loci microsatélites específicos para analizar ocho poblaciones de <i>Globitermes sulphureus</i> en Kedah y Penang, Malasia: el 60% de las colonias fueron de familias mixtas y el resto de familias simples; la parentesco medio fue similar en colonias simples y mixtas (r = 0.121), el FST global de las ocho poblaciones fue 0.086, lo que indica diferenciación moderada, con FST = 0.090 en poblaciones de familia simple frente a 0.082 en las de familia mixta; el FIT global fue 0.391 y el FIS 0.333, por lo que la endogamia no fue alta; cuatro poblaciones se desviaron del equilibrio de Hardy-Weinberg y cinco loci podrían estar bajo selección; los siete loci rindieron 363 alelos, 2-9 por locus con una media de 2.685; se detectó efecto cuello de botella en dos poblaciones (Tikam Batu y el Parque Nacional de Penang), lo que indica deriva genética."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0344",
+   "citation": "Appalasamy, S.; Alia Diyana, M. H.; Arumugam, N.; Boon, J. G. 2021. Evaluation of the chemical defense fluids of Macrotermes carbonarius and Globitermes sulphureus as possible household repellents and insecticides. Scientific Reports 11.",
+   "doi": "10.1038/s41598-020-80018-5"
+  },
+  {
+   "id": "S0345",
+   "citation": "Khizam, N. A. N.; Ab Majid, A. H. 2021. Population Genetic Structure and Breeding Pattern of Higher Group Termite Globitermes sulphureus (Haviland) (Blattodea: Termitidae). Sociobiology 68(1): e5772.",
+   "doi": "10.13102/sociobiology.v68i1.5772"
+  }
+ ]
+}

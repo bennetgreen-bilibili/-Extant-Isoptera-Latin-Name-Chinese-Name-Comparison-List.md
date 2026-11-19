@@ -1,0 +1,35 @@
+{
+ "Acorhinotermes claritae": {
+  "label": "Acorhinotermes claritae Castro & Scheffrahn, 2019",
+  "match": "exact",
+  "notes": "",
+  "otu": 1114813,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1114813/overview",
+  "valid_label": null,
+  "valid_otu": 1114813,
+  "verified": false
+ },
+ "Acorhinotermes murui": {
+  "label": "Acorhinotermes murui Castro, 2023",
+  "match": "exact",
+  "notes": "",
+  "otu": 1030506,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1030506/overview",
+  "valid_label": null,
+  "valid_otu": 1030506,
+  "verified": false
+ },
+ "Acorhinotermes subfusciceps": {
+  "label": "Acorhinotermes subfusciceps (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83410,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83410/overview",
+  "valid_label": null,
+  "valid_otu": 83410,
+  "verified": false
+ }
+}

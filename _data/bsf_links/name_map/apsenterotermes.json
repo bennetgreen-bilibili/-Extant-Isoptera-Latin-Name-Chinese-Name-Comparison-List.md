@@ -1,0 +1,57 @@
+{
+ "Apsenterotermes aspersus": {
+  "label": "Apsenterotermes aspersus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85300,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85300/overview",
+  "valid_label": null,
+  "valid_otu": 85300,
+  "verified": false
+ },
+ "Apsenterotermes declinatus": {
+  "label": "Apsenterotermes declinatus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85301,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85301/overview",
+  "valid_label": null,
+  "valid_otu": 85301,
+  "verified": false
+ },
+ "Apsenterotermes improcerus": {
+  "label": "Apsenterotermes improcerus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85302,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85302/overview",
+  "valid_label": null,
+  "valid_otu": 85302,
+  "verified": false
+ },
+ "Apsenterotermes iridipennis": {
+  "label": "Apsenterotermes iridipennis (Gay, 1956)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85303,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85303/overview",
+  "valid_label": null,
+  "valid_otu": 85303,
+  "verified": false
+ },
+ "Apsenterotermes stenopronos": {
+  "label": "Apsenterotermes stenopronos Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85304,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85304/overview",
+  "valid_label": null,
+  "valid_otu": 85304,
+  "verified": false
+ }
+}

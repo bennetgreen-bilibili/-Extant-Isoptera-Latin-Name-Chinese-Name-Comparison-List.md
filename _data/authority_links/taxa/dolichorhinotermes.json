@@ -1,0 +1,156 @@
+{
+ "Dolichorhinotermes japuraensis": {
+  "gbif": {
+   "key": 9676268,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dolichorhinotermes japuraensis Constantino, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "9H6GF",
+   "status": "accepted",
+   "label": "Dolichorhinotermes japuraensis Constantino, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125450419",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dolichorhinotermes lanciarius": {
+  "gbif": {
+   "key": 9810638,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dolichorhinotermes lanciarius Engel & Krishna, 2007",
+   "accepted": null
+  },
+  "col": {
+   "id": "376WD",
+   "status": "accepted",
+   "label": "Dolichorhinotermes lanciarius Engel & Krishna, 2007",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125450447",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dolichorhinotermes latilabrum": {
+  "gbif": {
+   "key": 9477363,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dolichorhinotermes latilabrum (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6DD3P",
+   "status": "accepted",
+   "label": "Dolichorhinotermes latilabrum (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125450463",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dolichorhinotermes longidens": {
+  "gbif": {
+   "key": 9695323,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dolichorhinotermes longidens (Snyder, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "376WF",
+   "status": "accepted",
+   "label": "Dolichorhinotermes longidens (Snyder, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125455203",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dolichorhinotermes longilabius": {
+  "gbif": {
+   "key": 9602358,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dolichorhinotermes longilabius (Emerson, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "376WG",
+   "status": "accepted",
+   "label": "Dolichorhinotermes longilabius (Emerson, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125455214",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dolichorhinotermes neli": {
+  "gbif": {
+   "key": 9291611,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dolichorhinotermes neli Ensaf & Betsch, 2002",
+   "accepted": null
+  },
+  "col": {
+   "id": "376WH",
+   "status": "accepted",
+   "label": "Dolichorhinotermes neli Ensaf & Betsch, 2002",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125455226",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dolichorhinotermes tenebrosus": {
+  "gbif": {
+   "key": 9663229,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dolichorhinotermes tenebrosus (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "376WJ",
+   "status": "accepted",
+   "label": "Dolichorhinotermes tenebrosus (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125455238",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

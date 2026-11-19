@@ -1,0 +1,101 @@
+{
+ "book_n": "371",
+ "book_name": "背崩近扭白蚁 Pericapritermes beibengensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "背崩近扭白蚊兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "7.24",
+     "value": "6.82–7.76"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.57",
+     "value": "2.46–2.66"
+    },
+    {
+     "key": "head_width",
+     "mean": "1.50",
+     "value": "1.47–1.52"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.32",
+     "value": "1.28–1.36"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "2.05",
+     "value": "1.96–2.09"
+    },
+    {
+     "key": "right_mandible_length",
+     "mean": "1.81",
+     "value": "1.78–1.85"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.37",
+     "value": "0.35–0.40"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.84",
+     "value": "0.75–0.93"
+    },
+    {
+     "key": "mesonotum_width",
+     "mean": "0.67",
+     "value": "0.62–0.73"
+    },
+    {
+     "key": "metanotum_width",
+     "mean": "0.89",
+     "value": "0.84–0.92"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.46",
+     "value": "1.36–1.54"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 968,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "灰胫扭白蚁有翅成虫量度 ( mm)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "11.50"
+    },
+    {
+     "key": "body_length_without_wings",
+     "value": "5.70"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "value": "1.15"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.62"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 986,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "latin": "Procubitermes",
+ "zh": "原方白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Procubitermes Silvestri, 1914a: 106–107.",
+ "type_species": "Eutermes arboricola Sjöstedt, 1897 by original designation.",
+ "references": [
+  {
+   "ref": "Fuller, 1921: 21, 22, 27",
+   "note": "Procubitermes; key."
+  },
+  {
+   "ref": "Emerson, 1928b: 408, 419, 529",
+   "note": "Mirotermes (Procubitermes); key; discussion; distribution."
+  },
+  {
+   "ref": "Weidner, 1956b: 64",
+   "note": "Procubitermes; key."
+  },
+  {
+   "ref": "Webb, 1961: 13",
+   "note": "Procubitermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 29, 106, 107, pl. 21: fig. 64c",
+   "note": "Procubitermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 33",
+   "note": "Procubitermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 38, 213–215, figs. 860–878, pl. 11: fig. 6",
+   "note": "Procubitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 17
+}

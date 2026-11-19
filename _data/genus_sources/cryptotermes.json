@@ -1,0 +1,43 @@
+{
+ "latin": "Cryptotermes",
+ "zh": "堆砂白蚁属",
+ "family": "kalotermitidae",
+ "treatise": true,
+ "citation": "Cryptotermes Banks, 1906: 336.",
+ "type_species": "Cryptotermes cavifrons Banks, 1906 by monotypy.",
+ "references": [
+  {
+   "ref": "Hagen, 1861b: 1",
+   "note": "Kalotermes [part]; characters."
+  },
+  {
+   "ref": "Desneux, 1904b: 20–22",
+   "note": "Calotermes [part]; reference list; synonymy; characters; species included; biology."
+  },
+  {
+   "ref": "Holmgren, 1911a: 10, 55",
+   "note": "Calotermes (Cryptotermes); characters; species included; type species cavifrons; distribution."
+  },
+  {
+   "ref": "Holmgren, 1913c: 37",
+   "note": "Calotermes (Cryptotermes); key."
+  },
+  {
+   "ref": "Banks, 1919: 476",
+   "note": "Cryptotermes; key."
+  },
+  {
+   "ref": "Banks and Snyder, 1920: 16, 35",
+   "note": "Cryptotermes; key; characters."
+  },
+  {
+   "ref": "Fuller, 1921: 19, 22, 23, 24",
+   "note": "Cryptotermes; key."
+  },
+  {
+   "ref": "Light, 1921b: 36",
+   "note": "Cryptotermes; diagnosis."
+  }
+ ],
+ "nrefs": 122
+}

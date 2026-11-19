@@ -1,0 +1,200 @@
+{
+ "Rugitermes aridus": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 83053 Rugitermes Holmgren, 1911",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Rugitermes athertoni": {
+  "label": "Rugitermes athertoni (Light, 1932)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83054,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83054/overview",
+  "valid_label": null,
+  "valid_otu": 83054,
+  "verified": false
+ },
+ "Rugitermes bicolor": {
+  "label": "Rugitermes bicolor (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83055,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83055/overview",
+  "valid_label": null,
+  "valid_otu": 83055,
+  "verified": false
+ },
+ "Rugitermes costaricensis": {
+  "label": "Rugitermes costaricensis (Snyder, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83056,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83056/overview",
+  "valid_label": null,
+  "valid_otu": 83056,
+  "verified": false
+ },
+ "Rugitermes flavicinctus": {
+  "label": "Rugitermes flavicinctus (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83057,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83057/overview",
+  "valid_label": null,
+  "valid_otu": 83057,
+  "verified": false
+ },
+ "Rugitermes kirbyi": {
+  "label": "Rugitermes kirbyi (Snyder, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 653286,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/653286/overview",
+  "valid_label": null,
+  "valid_otu": 653286,
+  "verified": false
+ },
+ "Rugitermes laticollis": {
+  "label": "Rugitermes laticollis Snyder, 1957",
+  "match": "exact",
+  "notes": "",
+  "otu": 83059,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83059/overview",
+  "valid_label": null,
+  "valid_otu": 83059,
+  "verified": false
+ },
+ "Rugitermes magninotus": {
+  "label": "Rugitermes magninotus (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83060,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83060/overview",
+  "valid_label": null,
+  "valid_otu": 83060,
+  "verified": false
+ },
+ "Rugitermes niger": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 82762 Rugitermes niger de Oliveira, 1979；OTU 83053 Rugitermes Holmgren, 1911",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Rugitermes nodulosus": {
+  "label": "Rugitermes nodulosus (Hagen, 1858)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83062,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83062/overview",
+  "valid_label": null,
+  "valid_otu": 83062,
+  "verified": false
+ },
+ "Rugitermes occidentalis": {
+  "label": "Rugitermes occidentalis (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83063,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83063/overview",
+  "valid_label": null,
+  "valid_otu": 83063,
+  "verified": false
+ },
+ "Rugitermes panamae": {
+  "label": "Rugitermes panamae (Snyder, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83064,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83064/overview",
+  "valid_label": null,
+  "valid_otu": 83064,
+  "verified": false
+ },
+ "Rugitermes rufus": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 83053 Rugitermes Holmgren, 1911；OTU 83065 Rugitermes rugosus (Hagen, 1858)；OTU 84496 Hospitalitermes rufus (Haviland, 1898)",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Rugitermes rugosus": {
+  "label": "Rugitermes rugosus (Hagen, 1858)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83065,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83065/overview",
+  "valid_label": null,
+  "valid_otu": 83065,
+  "verified": false
+ },
+ "Rugitermes tinto": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 83053 Rugitermes Holmgren, 1911",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Rugitermes unicolor": {
+  "label": "Rugitermes unicolor Snyder, 1952",
+  "match": "exact",
+  "notes": "",
+  "otu": 83066,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83066/overview",
+  "valid_label": null,
+  "valid_otu": 83066,
+  "verified": false
+ },
+ "Rugitermes ursulae": {
+  "label": "Rugitermes ursulae Casalla, Scheffrahn & Korb, 2021",
+  "match": "exact",
+  "notes": "",
+  "otu": 1113807,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1113807/overview",
+  "valid_label": null,
+  "valid_otu": 1113807,
+  "verified": false
+ },
+ "Rugitermes volcanensis": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ }
+}

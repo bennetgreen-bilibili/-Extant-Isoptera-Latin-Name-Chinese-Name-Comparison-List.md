@@ -1,0 +1,17 @@
+{
+ "note": "El texto original (Holmgren 1913, sección del subgénero Ceylonitermes) dice Imago unbekannt, por lo que no se incluye una sección de alado. Se trata de un OCR de tipografía Fraktur con muchas erratas (p. ej. Kopf ziemlieh langgestreekt eiförmig, eingesehnürt); no se cita lo que no puede leerse con certeza. La descripción original incluye además coloración y medidas corporales, que no entran en el límite de citas de esta entrega.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El nasus del soldado mide 2/3 de la longitud de la cabeza, es muy estrecho, cilíndrico y recto; las antenas son largas, de 12 segmentos. En el obrero el clípeo (clypeus) es grande y abultado, con una longitud de la mitad de su anchura; los dos dientes anteriores de las mandíbulas son de igual tamaño; las antenas tienen 15 segmentos."
+  },
+  {
+   "label": "Soldado",
+   "text": "El nasus mide 2/3 de la longitud de la cabeza, es muy estrecho, cilíndrico y recto; las antenas son largas, de 12 segmentos."
+  },
+  {
+   "label": "Obrero",
+   "text": "El clípeo (clypeus) es grande y abultado, con una longitud de la mitad de su anchura; los dos dientes anteriores de las mandíbulas son de igual tamaño; las antenas tienen 15 segmentos."
+  }
+ ]
+}

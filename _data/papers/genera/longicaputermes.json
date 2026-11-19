@@ -1,0 +1,33 @@
+{
+ "latin": "Longicaputermes",
+ "zh": "头长白蚁属",
+ "fetched_at": "2026-10-30T16:53:56Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2027711535",
+   "openalex_url": "https://openalex.org/W2027711535",
+   "doi": "10.1007/s00040-013-0335-1",
+   "doi_url": "https://doi.org/10.1007/s00040-013-0335-1",
+   "title": "Kalotermes sinaicus Kemner (Isoptera, Kalotermitidae): new morphological and genetic evidence, and assignment to the new genus Longicaputermes gen. nov",
+   "year": 2014,
+   "date": "2014-01-01",
+   "authors": [
+    "Silvia Ghesini",
+    "D. Simon",
+    "Mario Marini"
+   ],
+   "venue": "Insectes Sociaux",
+   "type": "article",
+   "language": "en",
+   "cited_by": 13,
+   "oa_url": "",
+   "volume": "61",
+   "issue": "2",
+   "pages": "123-131",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  }
+ ]
+}

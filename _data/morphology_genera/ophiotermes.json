@@ -1,0 +1,35 @@
+{
+ "zh_name": "蛇白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "上颚在中部向外弯折成肘，端部又略向内弯；Emerson（1928）以此把本属与 Mirotermes 其余亚属及近缘属分开。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "两上颚内缘在基部与肘之间各有一小而显著的齿；前足胫节端部 3 刺，中、后足胫节端部各 2 刺；囟孔开口与 Cubitermes 亚属相似；上唇二叶。"
+  },
+  {
+   "label": "工蚁",
+   "text": "有翅成虫—工蚁的右上颚第二缘齿消失；Emerson（1960）指出这一式样只与 Euchilotermes、Ophiotermes、Tuberculitermes 与 Spinitermes 相似。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+   "locator": "pp. 501–502（Subgenus Ophiotermes 一节）"
+  },
+  {
+   "id": "S0075",
+   "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+   "locator": "pp. 501–502（Subgenus Ophiotermes 一节）"
+  },
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+   "locator": "p. 21（Nitiditermes 工蚁）"
+  }
+ ],
+ "note": "兵蚁性状全部取自 Emerson（1928）的亚属讨论，未见 Sjöstedt 1924 原文。"
+}

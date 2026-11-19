@@ -1,0 +1,774 @@
+{
+ "Schedorhinotermes actuosus": {
+  "gbif": {
+   "key": 4802754,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes actuosus (Hill, 1933)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6H7",
+   "status": "accepted",
+   "label": "Schedorhinotermes actuosus (Hill, 1933)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272550",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes bidentatus": {
+  "gbif": {
+   "key": 9782422,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes bidentatus (Oshima, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6H8",
+   "status": "accepted",
+   "label": "Schedorhinotermes bidentatus (Oshima, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125455334",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes brachyceps": {
+  "gbif": {
+   "key": 9752613,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes brachyceps Kemner, 1931",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6H9",
+   "status": "accepted",
+   "label": "Schedorhinotermes brachyceps Kemner, 1931",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125455347",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes breinli": {
+  "gbif": {
+   "key": 4802760,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes breinli (Hill, 1921)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6Y7MY",
+   "status": "accepted",
+   "label": "Schedorhinotermes breinli (Hill, 1921)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272551",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes brevialatus": {
+  "gbif": {
+   "key": 9652075,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes brevialatus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HB",
+   "status": "accepted",
+   "label": "Schedorhinotermes brevialatus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125455362",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes butteli": {
+  "gbif": {
+   "key": 8987976,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes butteli (Holmgren, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HD",
+   "status": "accepted",
+   "label": "Schedorhinotermes butteli (Holmgren, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125455384",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes derosus": {
+  "gbif": {
+   "key": 4802758,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes derosus (Hill, 1933)",
+   "accepted": null
+  },
+  "col": {
+   "id": "79VMY",
+   "status": "accepted",
+   "label": "Schedorhinotermes derosus (Hill, 1933)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272552",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes eleanorae": {
+  "gbif": {
+   "key": 9706791,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes eleanorae Roonwal & Bose, 1970",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HF",
+   "status": "accepted",
+   "label": "Schedorhinotermes eleanorae Roonwal & Bose, 1970",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125455401",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes fortignathus": {
+  "gbif": {
+   "key": 9645550,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes fortignathus Xia & He, 1980",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HG",
+   "status": "accepted",
+   "label": "Schedorhinotermes fortignathus Xia & He, 1980",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125455480",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes ganlanbaensis": {
+  "gbif": {
+   "key": 9675273,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes ganlanbaensis Xia & He, 1980",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HH",
+   "status": "accepted",
+   "label": "Schedorhinotermes ganlanbaensis Xia & He, 1980",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125455494",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes holmgreni": {
+  "gbif": {
+   "key": 9809565,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes holmgreni Emerson, 1949",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HJ",
+   "status": "accepted",
+   "label": "Schedorhinotermes holmgreni Emerson, 1949",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125455502",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes insolitus": {
+  "gbif": {
+   "key": 9689783,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes insolitus Xia & He, 1980",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HK",
+   "status": "accepted",
+   "label": "Schedorhinotermes insolitus Xia & He, 1980",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125455509",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes intermedius": {
+  "gbif": {
+   "key": 4802757,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes intermedius (Brauer, 1865)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HL",
+   "status": "accepted",
+   "label": "Schedorhinotermes intermedius (Brauer, 1865)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q108070103",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes lamanianus": {
+  "gbif": {
+   "key": 8857175,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes lamanianus (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HM",
+   "status": "accepted",
+   "label": "Schedorhinotermes lamanianus (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q124987082",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes leopoldi": {
+  "gbif": {
+   "key": 9668679,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes leopoldi Kemner, 1933",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HN",
+   "status": "accepted",
+   "label": "Schedorhinotermes leopoldi Kemner, 1933",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125455538",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes longirostris": {
+  "gbif": {
+   "key": 9637583,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes longirostris (Brauer, 1866)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HP",
+   "status": "accepted",
+   "label": "Schedorhinotermes longirostris (Brauer, 1866)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125455559",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes magnus": {
+  "gbif": {
+   "key": 9797805,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes magnus Tsai & Chen, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HQ",
+   "status": "accepted",
+   "label": "Schedorhinotermes magnus Tsai & Chen, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125455570",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes makassarensis": {
+  "gbif": {
+   "key": 9718667,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes makassarensis Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HR",
+   "status": "accepted",
+   "label": "Schedorhinotermes makassarensis Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q126011068",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes makilingensis": {
+  "gbif": {
+   "key": 9745714,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes makilingensis Acda, 2007",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HS",
+   "status": "accepted",
+   "label": "Schedorhinotermes makilingensis Acda, 2007",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q126011079",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes malaccensis": {
+  "gbif": {
+   "key": 9326004,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes malaccensis (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HT",
+   "status": "accepted",
+   "label": "Schedorhinotermes malaccensis (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q126011100",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes maximus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Schedorhinotermes Silvestri & Silvestri, 1909",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CMSP8",
+   "status": "accepted",
+   "label": "Schedorhinotermes maximus (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes medioobscurus": {
+  "gbif": {
+   "key": 9797177,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes medioobscurus (Holmgren, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6XVMZ",
+   "status": "accepted",
+   "label": "Schedorhinotermes medioobscurus (Holmgren, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q126011106",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes nancowriensis": {
+  "gbif": {
+   "key": 9649955,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes nancowriensis Maiti & Chakraborty, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HV",
+   "status": "accepted",
+   "label": "Schedorhinotermes nancowriensis Maiti & Chakraborty, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q126011116",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes putorius": {
+  "gbif": {
+   "key": 9122953,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes putorius (Sjöstedt, 1896)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HW",
+   "status": "accepted",
+   "label": "Schedorhinotermes putorius (Sjöstedt, 1896)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q124987089",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes pyricephalus": {
+  "gbif": {
+   "key": 9784686,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes pyricephalus Xia & He, 1980",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HX",
+   "status": "accepted",
+   "label": "Schedorhinotermes pyricephalus Xia & He, 1980",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q126011144",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes rectangularis": {
+  "gbif": {
+   "key": 9694900,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes rectangularis Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HY",
+   "status": "accepted",
+   "label": "Schedorhinotermes rectangularis Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q126011159",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes reticulatus": {
+  "gbif": {
+   "key": 4802755,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes reticulatus (Froggatt, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6HZ",
+   "status": "accepted",
+   "label": "Schedorhinotermes reticulatus (Froggatt, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272553",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes robustior": {
+  "gbif": {
+   "key": 9694294,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes robustior Silvestri, 1909",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6J2",
+   "status": "accepted",
+   "label": "Schedorhinotermes robustior Silvestri, 1909",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q126011186",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes sanctaecrucis": {
+  "gbif": {
+   "key": 9670839,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes sanctaecrucis (Snyder, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6J3",
+   "status": "accepted",
+   "label": "Schedorhinotermes sanctaecrucis (Snyder, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q126011205",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes seclusus": {
+  "gbif": {
+   "key": 4802759,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes seclusus (Hill, 1933)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6J4",
+   "status": "accepted",
+   "label": "Schedorhinotermes seclusus (Hill, 1933)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272554",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes solomonensis": {
+  "gbif": {
+   "key": 9757899,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes solomonensis (Snyder, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6J5",
+   "status": "accepted",
+   "label": "Schedorhinotermes solomonensis (Snyder, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q126011238",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes tenuis": {
+  "gbif": {
+   "key": 9777694,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes tenuis (Oshima, 1923)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6J6",
+   "status": "accepted",
+   "label": "Schedorhinotermes tenuis (Oshima, 1923)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q126011251",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes tiwarii": {
+  "gbif": {
+   "key": 9732945,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes tiwarii Roonwal & Thakur, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6J7",
+   "status": "accepted",
+   "label": "Schedorhinotermes tiwarii Roonwal & Thakur, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q126011269",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes translucens": {
+  "gbif": {
+   "key": 9517154,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes translucens (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6J8",
+   "status": "accepted",
+   "label": "Schedorhinotermes translucens (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q126011283",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Schedorhinotermes umbraticus": {
+  "gbif": {
+   "key": 9726144,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Schedorhinotermes umbraticus (Hill, 1927)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4V6J9",
+   "status": "accepted",
+   "label": "Schedorhinotermes umbraticus (Hill, 1927)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q126011310",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

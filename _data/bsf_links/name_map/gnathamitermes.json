@@ -1,0 +1,46 @@
+{
+ "Gnathamitermes grandis": {
+  "label": "Gnathamitermes grandis (Light, 1930)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85430,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85430/overview",
+  "valid_label": null,
+  "valid_otu": 85430,
+  "verified": false
+ },
+ "Gnathamitermes nigriceps": {
+  "label": "Gnathamitermes nigriceps (Light, 1930)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85431,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85431/overview",
+  "valid_label": null,
+  "valid_otu": 85431,
+  "verified": false
+ },
+ "Gnathamitermes perplexus": {
+  "label": "Gnathamitermes perplexus (Banks, 1920)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85432,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85432/overview",
+  "valid_label": null,
+  "valid_otu": 85432,
+  "verified": false
+ },
+ "Gnathamitermes tubiformans": {
+  "label": "Gnathamitermes tubiformans (Buckley, 1862)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85434,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85434/overview",
+  "valid_label": null,
+  "valid_otu": 85434,
+  "verified": false
+ }
+}

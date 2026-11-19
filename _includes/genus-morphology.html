@@ -1,30 +1,33 @@
 {%- comment -%}
   属级形态描述：当 _data/fauna_genera.json 没有本页条目时渲染。
 
-  优先使用 _data/morphology_genera.json（键为页面 URL），该文件由
-  _tools/fauna/morphology/build_krishna_descriptions.py 从 descriptions/*.json
-  合并而成：每条含分品级的中文改写稿与来源 id、locator，正文须据原文核对。
-  en/es 页取 _data/translations_en|es.json 的 morphology_genera 桶（只有译文，
-  来源 id 仍去中文数据里取）；译文缺失时不渲染形态描述，只在有 Treatise 线索时
+  属级数据已按「一属一档」分片，键＝属 id（page.genus_id，与 /genus/<id>/ 最后一段相同），
+  分片值是条目本身，不再有外层 URL 键：
+    _data/morphology_genera/<属>.json                 zh 改写稿（分品级 + 来源 id、locator）
+    _data/genus_sources/<属>.json                     原始描述出处、模式种、Treatise 标注
+    _data/translations_en|es/morphology_genera/<属>.json  译文（只有译文，来源 id 仍取中文分片）
+  改写稿来自 _tools/fauna/morphology/build_krishna_descriptions.py 从 descriptions/*.json
+  合并的结果，正文须据原文核对。译文缺失时不渲染形态描述，只在有 Treatise 线索时
   列出原始描述出处与模式种。
 
-  没有改写稿时退回占位：_data/genus_sources.json 只记录原始描述出处、模式种与
-  Treatise 标注的「含形态特征/检索表」的文献，本身不是描述正文。
+  没有改写稿时退回占位：genus_sources 只记录原始描述出处、模式种与 Treatise 标注的
+  「含形态特征/检索表」的文献，本身不是描述正文。
 {%- endcomment -%}
 {%- comment -%}
-  页面 URL 去掉语言前缀回到数据键（数据键一律是 /genus/<id>/）：
+  fauna_genera 仍是单文件、键为不带语言前缀的页面 URL（/genus/<id>/）：
   /en/genus/x/、/es/genus/x/ 都要还原成 /genus/x/。前缀剥离统一走 _includes/lang-path.html
   （只认第一段，不会把属名里的 "en" 一起剥掉——/genus/enetotermes/ 曾因此取不到数据）。
 {%- endcomment -%}
 {%- include lang-path.html -%}
 {%- assign _key = path_no_lang -%}
+{%- assign _gid = page.genus_id | default: _key | split: '/' | last -%}
 {%- assign _fz = site.data.fauna_genera[_key] -%}
-{%- assign gs = site.data.genus_sources[_key] -%}
-{%- assign mg_zh = site.data.morphology_genera[_key] -%}
+{%- assign gs = site.data.genus_sources[_gid] -%}
+{%- assign mg_zh = site.data.morphology_genera[_gid] -%}
 {%- if page.lang == 'en' -%}
-{%- assign mg = site.data.translations_en.morphology_genera[_key] -%}
+{%- assign mg = site.data.translations_en.morphology_genera[_gid] -%}
 {%- elsif page.lang == 'es' -%}
-{%- assign mg = site.data.translations_es.morphology_genera[_key] -%}
+{%- assign mg = site.data.translations_es.morphology_genera[_gid] -%}
 {%- else -%}
 {%- assign mg = mg_zh -%}
 {%- endif -%}

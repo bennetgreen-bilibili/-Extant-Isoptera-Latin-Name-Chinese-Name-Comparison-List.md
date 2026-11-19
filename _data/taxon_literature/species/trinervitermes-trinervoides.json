@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-14",
+ "sections": [
+  {
+   "heading": "觅食与巢域",
+   "heading_en": "Foraging and territory",
+   "heading_es": "Forrajeo y territorio",
+   "paragraphs": [
+    {
+     "src": [
+      "S0220"
+     ],
+     "text": "据摘要，Adam 等（2008）在南非对似三脉三脉白蚁（<i>Trinervitermes trinervoides</i>）的观察显示，该种在夏季夜间觅食，野外觅食时环境温度为 10–14 °C，实验室中在 13–25 °C 均可觅食；从单个出口出行的采食队伍覆盖约 0.78 m² 的面积，单个群体利用的觅食范围约 214 m²，相邻群体的觅食区相互重叠；每个群体占据一个丘。",
+     "text_en": "According to the abstract of observations by Adam et al. (2008) in South Africa, <i>Trinervitermes trinervoides</i> forages at night in summer, at ambient temperatures of 10–14 °C in the field, and foraged at 13–25 °C in the laboratory; a foraging column leaving a single exit covered about 0.78 m², a single colony exploited a foraging area of about 214 m², the foraging areas of neighbouring colonies overlapped, and each colony occupied a single mound.",
+     "text_es": "Según el resumen de las observaciones de Adam et al. (2008) en Sudáfrica, <i>Trinervitermes trinervoides</i> forrajea de noche en verano, a temperaturas ambientales de 10–14 °C en el campo, y forrajeó entre 13 y 25 °C en el laboratorio; una columna de forrajeo que salía por una sola entrada cubría unos 0.78 m², una sola colonia explotaba un área de forrajeo de unos 214 m², las áreas de forrajeo de colonias vecinas se superponían y cada colonia ocupaba un solo montículo."
+    }
+   ]
+  },
+  {
+   "heading": "兵蚁防御分泌物与土狼的耐受",
+   "heading_en": "Soldier defence secretion and aardwolf tolerance",
+   "heading_es": "Secreción defensiva de los soldados y tolerancia del proteles",
+   "paragraphs": [
+    {
+     "src": [
+      "S0233"
+     ],
+     "text": "据摘要，Richardson 与 Levitan（1994）研究显示，似三脉三脉白蚁（<i>Trinervitermes trinervoides</i>）占南非土狼（<i>Proteles cristatus</i>）食物的 90% 以上，而其兵蚁具高效的化学防御分泌物，使多数食蚁兽无法专食该种；把兵蚁匀浆按不同浓度掺入日粮后，蝠耳狐（<i>Otocyon megalotis</i>）拒食，非洲灵猫（<i>Civettictis civetta</i>）可耐受 1.0% 的浓度，土狼可耐受 7.5% 以上，这一结果支持土狼经灵猫类祖先预适应而获得耐受性的假说。",
+     "text_en": "According to the abstract, Richardson and Levitan (1994) report that <i>Trinervitermes trinervoides</i> makes up more than 90% of the diet of the South African aardwolf (<i>Proteles cristatus</i>), although its soldiers produce an effective chemical defence secretion that keeps most myrmecophages from specializing on the species; when soldier homogenate was mixed into the diet at different concentrations, bat-eared foxes (<i>Otocyon megalotis</i>) refused it, African civets (<i>Civettictis civetta</i>) tolerated 1.0%, and aardwolves tolerated more than 7.5%, which supports the hypothesis that ancestral aardwolves became pre-adapted to the noxious chemicals through viverrid ancestors.",
+     "text_es": "Según el resumen, Richardson y Levitan (1994) indican que <i>Trinervitermes trinervoides</i> constituye más del 90% de la dieta del proteles sudafricano (<i>Proteles cristatus</i>), aunque sus soldados producen una secreción defensiva química eficaz que impide a la mayoría de los mirmecófagos especializarse en la especie; al mezclar homogeneizado de soldados en la dieta a distintas concentraciones, los otociones (<i>Otocyon megalotis</i>) lo rechazaron, las civetas africanas (<i>Civettictis civetta</i>) toleraron el 1,0% y los proteles toleraron más del 7,5%, lo que apoya la hipótesis de que los proteles ancestrales se preadaptaron a esas sustancias tóxicas a través de ancestros vivérridos."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0220",
+   "citation": "Adam, R. A.; Mitchell, J. D.; van der Westhuizen, M. C. 2008. Aspects of foraging in the harvester termite, Trinervitermes trinervoides (Sjöstedt) (Termitidae: Nasutitermitinae). African Entomology 16(2): 153–161.",
+   "doi": "10.4001/1021-3589-16.2.153"
+  },
+  {
+   "id": "S0233",
+   "citation": "Richardson, P. R. K.; Levitan, C. D. 1994. Tolerance of Aardwolves to Defense Secretions of Trinervitermes trinervoides. Journal of Mammalogy.",
+   "doi": "10.2307/1382238"
+  }
+ ]
+}

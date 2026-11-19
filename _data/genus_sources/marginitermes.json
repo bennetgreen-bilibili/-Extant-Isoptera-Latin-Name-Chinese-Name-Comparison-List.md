@@ -1,0 +1,35 @@
+{
+ "latin": "Marginitermes",
+ "zh": "边白蚁属",
+ "family": "kalotermitidae",
+ "treatise": true,
+ "citation": "Marginitermes Krishna, 1961: 358, 361.",
+ "type_species": "Kalotermes hubbardi Banks, 1920 by original designation.",
+ "references": [
+  {
+   "ref": "Krishna, 1961: 358–361",
+   "note": "Marginitermes; generic characters; key; reference list; phylogeny; distribution."
+  },
+  {
+   "ref": "Weesner, 1965: 34, 35",
+   "note": "Marginitermes; key; characters."
+  },
+  {
+   "ref": "Morimoto, 1975b: 11",
+   "note": "Marginitermes; key."
+  },
+  {
+   "ref": "Araujo and Fontes, 1979: 31",
+   "note": "Marginitermes; key."
+  },
+  {
+   "ref": "Nickle and Collins, 1990: 93, 107",
+   "note": "Marginitermes; key; characters."
+  },
+  {
+   "ref": "Myles, 1997: 758–759",
+   "note": "Marginitermes; characters."
+  }
+ ],
+ "nrefs": 11
+}

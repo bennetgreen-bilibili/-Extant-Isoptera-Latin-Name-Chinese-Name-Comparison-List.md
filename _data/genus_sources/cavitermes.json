@@ -1,0 +1,35 @@
+{
+ "latin": "Cavitermes",
+ "zh": "腔白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Cavitermes Emerson, 1925: 442 [first introduced as a subgenus of Mirotermes Wasmann, 1897].",
+ "type_species": "Mirotermes (Cavitermes) tuberosus Emerson, 1925 by monotypy.",
+ "references": [
+  {
+   "ref": "Emerson, 1925: 442",
+   "note": "Mirotermes (Cavitermes); discussion; characters."
+  },
+  {
+   "ref": "Morimoto, 1975b: 37",
+   "note": "Cavitermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 117, 119",
+   "note": "Cavitermes; synonymy; characters; relationships."
+  },
+  {
+   "ref": "Mill, 1983a: 181, 182",
+   "note": "Cavitermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Constantino, 1999a: 405, 418",
+   "note": "Cavitermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 24",
+   "note": "Cavitermes; key."
+  }
+ ],
+ "nrefs": 20
+}

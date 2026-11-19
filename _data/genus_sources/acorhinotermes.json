@@ -1,0 +1,31 @@
+{
+ "latin": "Acorhinotermes",
+ "zh": "尖鼻白蚁属",
+ "family": "rhinotermitidae",
+ "treatise": true,
+ "citation": "Acorhinotermes Emerson, 1949j: 374.",
+ "type_species": "Rhinotermes (Rhinotermes) subfusciceps Emerson, 1925 by original designation.",
+ "references": [
+  {
+   "ref": "Morimoto, 1975b: 16",
+   "note": "Acorhinotermes; key."
+  },
+  {
+   "ref": "Chhotani, 1984: 111–113",
+   "note": "Acorhinotermes; key; taxonomy; distribution and zoogeography; biology; ecology; nesting behavior."
+  },
+  {
+   "ref": "Constantino, 1999a: 396, 411",
+   "note": "Acorhinotermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 18",
+   "note": "Acorhinotermes; key."
+  },
+  {
+   "ref": "Maiti, 2006: 15, 247",
+   "note": "Acorhinotermes; key; synonymy."
+  }
+ ],
+ "nrefs": 15
+}

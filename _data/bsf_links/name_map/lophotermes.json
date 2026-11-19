@@ -1,0 +1,101 @@
+{
+ "Lophotermes aduncus": {
+  "label": "Lophotermes aduncus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85469,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85469/overview",
+  "valid_label": null,
+  "valid_otu": 85469,
+  "verified": false
+ },
+ "Lophotermes brevicephalus": {
+  "label": "Lophotermes brevicephalus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85470,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85470/overview",
+  "valid_label": null,
+  "valid_otu": 85470,
+  "verified": false
+ },
+ "Lophotermes crinitus": {
+  "label": "Lophotermes crinitus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85471,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85471/overview",
+  "valid_label": null,
+  "valid_otu": 85471,
+  "verified": false
+ },
+ "Lophotermes leptognathus": {
+  "label": "Lophotermes leptognathus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85472,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85472/overview",
+  "valid_label": null,
+  "valid_otu": 85472,
+  "verified": false
+ },
+ "Lophotermes parvicornis": {
+  "label": "Lophotermes parvicornis Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85473,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85473/overview",
+  "valid_label": null,
+  "valid_otu": 85473,
+  "verified": false
+ },
+ "Lophotermes pectinatus": {
+  "label": "Lophotermes pectinatus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85474,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85474/overview",
+  "valid_label": null,
+  "valid_otu": 85474,
+  "verified": false
+ },
+ "Lophotermes pusillus": {
+  "label": "Lophotermes pusillus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85475,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85475/overview",
+  "valid_label": null,
+  "valid_otu": 85475,
+  "verified": false
+ },
+ "Lophotermes quadratus": {
+  "label": "Lophotermes quadratus (Hill, 1927)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85476,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85476/overview",
+  "valid_label": null,
+  "valid_otu": 85476,
+  "verified": false
+ },
+ "Lophotermes septentrionalis": {
+  "label": "Lophotermes septentrionalis (Hill, 1927)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85477,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85477/overview",
+  "valid_label": null,
+  "valid_otu": 85477,
+  "verified": false
+ }
+}

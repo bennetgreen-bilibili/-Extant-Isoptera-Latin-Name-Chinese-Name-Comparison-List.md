@@ -1,0 +1,17 @@
+{
+ "zh_name": "颚钩白蚁属",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "上颚直、仅端部弯曲，与头等长或更长；头宽小于 1.4 mm，上颚较窄、通常长于头宽；上颚基部起于头部前侧角附近、内缘光滑。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0101",
+   "citation": "De Luna, M., Scheffrahn, R. H., García-Barrios, R. & Cuéllar-Rodríguez, C. 2023. Termites (Blattodea: Isoptera) of Canada, continental USA, and Mexico: an identification key to families and genera, checklist of species, and new records for Mexico. Acta Zoológica Mexicana (nueva serie) 39: 1–30. doi:10.21829/azm.2023.3912484",
+   "locator": "couplets 24 & 25, pp. 10–11"
+  }
+ ],
+ "note": "仅据 De Luna et al. 2023 北美属检索表兵蚁鉴别对（薄），非完整属征。"
+}

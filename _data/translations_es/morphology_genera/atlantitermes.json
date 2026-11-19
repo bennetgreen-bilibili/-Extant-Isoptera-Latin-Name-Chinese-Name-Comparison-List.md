@@ -1,0 +1,21 @@
+{
+ "note": "El original se publicó en portugués y esta entrada se traduce según su propia terminología (pêlos = pelos, cerdas = setas, naso = nasus, pós-clípeo = posclípeo). La definición genérica solo comprende los tres apartados anteriores (alado, soldado y obrero), por lo que no se incluye la sección de ninfa.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "La cápsula cefálica del soldado se estrecha por detrás de la inserción de las antenas y es globosa en su parte posterior; el nasus es cónico y las mandíbulas carecen de diente apical; el obrero y el alado tienen mandíbulas semejantes, pero en el obrero el margen cortante entre M1+2 y M3 de la mandíbula izquierda es claramente ondulado; el alado presenta fontanela alargada y bifurcada en su extremo anterior, ojos grandes, ocelos cuya distancia al ojo es menor que su anchura, y posclípeo más corto que la mitad de su anchura."
+  },
+  {
+   "label": "Soldado",
+   "text": "La cabeza está cubierta de microtriquias dispersas y presenta además unas pocas setas largas; el nasus lleva numerosos pelos cortos; el dorso de la cabeza se estrecha por detrás de la inserción de las antenas y es globoso en su parte posterior; el nasus es cónico tanto en vista dorsal como lateral; las mandíbulas carecen de diente apical."
+  },
+  {
+   "label": "Obrero",
+   "text": "Las mandíbulas se asemejan a las del alado, pero el margen cortante entre M1+2 y M3 de la mandíbula izquierda es claramente ondulado."
+  },
+  {
+   "label": "Alado",
+   "text": "La cabeza y el pronoto son pilosos y presentan además unas pocas setas largas; la fontanela es alargada y bifurcada en su extremo anterior; los ojos son grandes; la distancia de cada ocelo a su ojo es menor que la anchura del ocelo; el posclípeo es más corto que la mitad de su anchura."
+  }
+ ]
+}

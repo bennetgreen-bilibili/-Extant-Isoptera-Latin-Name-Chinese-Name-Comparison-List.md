@@ -1,0 +1,25 @@
+{
+ "zh_name": "左转白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "印度特有单种属。兵蚁头近长方形、向前略收窄，触角 17 节（第 3 节短于第 2 节），上唇三角形、端尖，上颚粗壮、端部内弯，左上颚端部三分之一后方具凹缺、右上颚无齿；工蚁触角 19 节，后唇基长为宽的三分之一，上颚与 Odontotermes 同型。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头近长方形，向前略收窄；触角 17 节，第 3 节短于第 2 节；上唇三角形、端部尖；上颚粗壮，端部内弯；左上颚端部三分之一后方具凹缺，右上颚无齿；后颏近长方形；前胸背板鞍形，前缘具缺刻、后缘微凹；胫节端距 3:2:2，跗节 4 节；尾须 2 节；具刺突。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头近圆形，宽大于长；额腺孔白色、圆形、大；触角 19 节；后唇基隆起，长为宽的三分之一；上颚与 Odontotermes 同型，具端齿与 2 枚缘齿；前胸背板鞍形；足同兵蚁。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0104",
+   "citation": "Chhotani, O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume II (Family Termitidae). Calcutta: Zoological Survey of India, xx+801 pp.",
+   "locator": "pp. 567–568"
+  }
+ ],
+ "note": "单种属（E. primus Silvestri），印度特有；因无标本，该书据 Silvestri 原记与 Emerson 笔记转述。有翅成虫未知。"
+}

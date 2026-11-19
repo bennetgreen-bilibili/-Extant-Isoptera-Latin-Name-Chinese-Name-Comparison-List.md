@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "Termitotrox 甲虫的新寄主属",
+   "heading_en": "A new host genus for Termitotrox beetles",
+   "heading_es": "Un nuevo género hospedador para los escarabajos Termitotrox",
+   "paragraphs": [
+    {
+     "text": "根据 Maruyama（2012）研究，地白蚁属（<i>Hypotermes</i>）此前未被记载为客居金龟 <i>Termitotrox</i> 属的寄主；该研究在柬埔寨暹粒的吴哥（Angkor Wat）检查 80 个以上菌圃后，从玛堪地白蚁（<i>Hypotermes makhamensis</i>）菌圃腔（fungus garden cell）的壁上采到 25 头 <i>Termitotrox cupido</i>，这批标本即新种的全部模式系列，也是该甲虫属在印度支那亚区的首次发现。",
+     "text_en": "According to the study by Maruyama (2012), <i>Hypotermes</i> had not previously been recorded as a host of beetles of the termitophilous genus <i>Termitotrox</i>; after examining more than 80 fungus gardens at Angkor Wat, Siem Reap, Cambodia, the study obtained 25 specimens of <i>Termitotrox cupido</i> from the walls of the chambers (cells) of the fungus garden of <i>Hypotermes makhamensis</i>; these specimens constitute the whole type series of the new species and represent the first discovery of the genus in the Indo-Chinese subregion.",
+     "text_es": "Según el estudio de Maruyama (2012), <i>Hypotermes</i> no había sido registrado previamente como hospedador de escarabajos del género termitófilo <i>Termitotrox</i>; tras examinar más de 80 jardines de hongos en Angkor Wat, Siem Reap, Camboya, el estudio obtuvo 25 ejemplares de <i>Termitotrox cupido</i> de las paredes de las celdillas del jardín de hongos de <i>Hypotermes makhamensis</i>; estos ejemplares constituyen toda la serie tipo de la especie nueva y representan el primer hallazgo del género en la subregión indochina.",
+     "src": [
+      "S0354"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0354",
+   "citation": "Maruyama, M. 2012. Termitotrox cupido sp. n. (Coleoptera, Scarabaeidae), a new termitophilous scarab species from the Indo-Chinese subregion, associated with Hypotermes termites. ZooKeys.",
+   "url": "https://doi.org/10.3897/zookeys.254.4285"
+  }
+ ]
+}

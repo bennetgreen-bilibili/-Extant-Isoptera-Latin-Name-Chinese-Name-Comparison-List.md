@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "研究记述",
+   "heading_en": "Research notes",
+   "heading_es": "Notas de investigación",
+   "paragraphs": [
+    {
+     "text": "据摘要，Bigger（1966）在同一 50×24 ft、深 6 ft 的坑中记录宽背钩白蚁（<i>Ancistrotermes latinotus</i>）54 个被占用的巢室；与小白蚁属（<i>Microtermes</i>）两种的近随机散布不同，这些巢室聚成小簇并以长跑道相连。",
+     "text_en": "According to the abstract, Bigger (1966) recorded 54 occupied nest chambers of <i>Ancistrotermes latinotus</i> in the same pit measuring 50×24 ft and 6 ft deep; unlike the almost random scatter of the two <i>Microtermes</i> species, these chambers were grouped in small clusters connected by long galleries.",
+     "text_es": "Según el resumen, Bigger (1966) registró 54 cámaras de nido ocupadas de <i>Ancistrotermes latinotus</i> en la misma excavación de 50×24 ft y 6 ft de profundidad; a diferencia de la dispersión casi aleatoria de las dos especies de <i>Microtermes</i>, estas cámaras se agrupaban en pequeños racimos unidos por galerías largas.",
+     "src": [
+      "S0193"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0193",
+   "citation": "M. Bigger 1966 The biology and control of termites damaging field crops in Tanganyika. Bulletin of Entomological Research.",
+   "doi": "10.1017/s0007485300056509"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "book_n": "450",
+ "book_name": "尤氏华象白蚁 Sinonasutitermesyui",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "尤氏华象白蚁有翅成虫量度 ( mm)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "head_width",
+     "mean": "1.36",
+     "value": "1.31–1.40"
+    },
+    {
+     "key": "eye_long_diameter",
+     "mean": "0.64",
+     "value": "0.63–0.66"
+    },
+    {
+     "key": "eye_short_diameter",
+     "mean": "0.53",
+     "value": "0.50–0.56"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "mean": "0.05",
+     "value": "0.04–0.05"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.90",
+     "value": "0.86–0.95"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.48",
+     "value": "1.45–1.56"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 1196,
+   "unit": "mm"
+  }
+ ]
+}

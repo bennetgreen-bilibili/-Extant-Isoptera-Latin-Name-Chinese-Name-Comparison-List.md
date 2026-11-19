@@ -1,0 +1,23 @@
+{
+ "latin": "Profastigitermes",
+ "zh": "前峰白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Profastigitermes Emerson, 1960",
+ "type_species": "Profastigitermes putnami Emerson, 1960 by original designation.",
+ "references": [
+  {
+   "ref": "Bouillon and Mathot, 1965: 30",
+   "note": "Profastigitermes; key; characters."
+  },
+  {
+   "ref": "Morimoto, 1975b: 38",
+   "note": "Profastigitermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 37, 252–254, figs. 1563–1575",
+   "note": "Profastigitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 5
+}

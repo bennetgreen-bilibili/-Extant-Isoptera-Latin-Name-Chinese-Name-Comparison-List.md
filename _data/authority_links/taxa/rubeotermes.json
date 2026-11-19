@@ -1,0 +1,30 @@
+{
+ "Rubeotermes jheringi": {
+  "gbif": {
+   "key": 10974393,
+   "status": "SYNONYM",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rubeotermes jheringi (Holmgren, 1906)",
+   "accepted": {
+    "key": 9082997,
+    "name": "Anoplotermes jheringi Holmgren, 1906",
+    "status": null,
+    "rank": "SPECIES"
+   }
+  },
+  "col": {
+   "id": "DLV5S",
+   "status": "accepted",
+   "label": "Rubeotermes jheringi (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_synonym"
+  ],
+  "_d": "2026-10-28"
+ }
+}

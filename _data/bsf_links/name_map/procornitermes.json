@@ -1,0 +1,57 @@
+{
+ "Procornitermes araujoi": {
+  "label": "Procornitermes araujoi Emerson, 1952",
+  "match": "exact",
+  "notes": "",
+  "otu": 84235,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84235/overview",
+  "valid_label": null,
+  "valid_otu": 84235,
+  "verified": false
+ },
+ "Procornitermes lespesii": {
+  "label": "Procornitermes lespesii (Müller, 1873)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84236,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84236/overview",
+  "valid_label": null,
+  "valid_otu": 84236,
+  "verified": false
+ },
+ "Procornitermes romani": {
+  "label": "Procornitermes romani Emerson, 1952",
+  "match": "exact",
+  "notes": "",
+  "otu": 84237,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84237/overview",
+  "valid_label": null,
+  "valid_otu": 84237,
+  "verified": false
+ },
+ "Procornitermes striatus": {
+  "label": "Procornitermes striatus (Hagen, 1858)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84238,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84238/overview",
+  "valid_label": null,
+  "valid_otu": 84238,
+  "verified": false
+ },
+ "Procornitermes triacifer": {
+  "label": "Procornitermes triacifer (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84239,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84239/overview",
+  "valid_label": null,
+  "valid_otu": 84239,
+  "verified": false
+ }
+}

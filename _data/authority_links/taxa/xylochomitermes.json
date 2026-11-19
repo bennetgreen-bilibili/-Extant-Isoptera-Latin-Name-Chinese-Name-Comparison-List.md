@@ -1,0 +1,134 @@
+{
+ "Xylochomitermes aspinosus": {
+  "gbif": {
+   "key": 4803402,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Xylochomitermes aspinosus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "5CKKV",
+   "status": "accepted",
+   "label": "Xylochomitermes aspinosus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272574",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Xylochomitermes melvillensis": {
+  "gbif": {
+   "key": 4803405,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Xylochomitermes melvillensis (Hill, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5CKKW",
+   "status": "accepted",
+   "label": "Xylochomitermes melvillensis (Hill, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272576",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Xylochomitermes occidualis": {
+  "gbif": {
+   "key": 4803409,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Xylochomitermes occidualis (Gay, 1971)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5CKKX",
+   "status": "accepted",
+   "label": "Xylochomitermes occidualis (Gay, 1971)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272577",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Xylochomitermes punctillus": {
+  "gbif": {
+   "key": 4803411,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Xylochomitermes punctillus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "5CKKY",
+   "status": "accepted",
+   "label": "Xylochomitermes punctillus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272578",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Xylochomitermes reductus": {
+  "gbif": {
+   "key": 4803403,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Xylochomitermes reductus (Gay, 1971)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5CKKZ",
+   "status": "accepted",
+   "label": "Xylochomitermes reductus (Gay, 1971)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272579",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Xylochomitermes tomentosus": {
+  "gbif": {
+   "key": 4803407,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Xylochomitermes tomentosus (Gay, 1971)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5CKL2",
+   "status": "accepted",
+   "label": "Xylochomitermes tomentosus (Gay, 1971)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272580",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

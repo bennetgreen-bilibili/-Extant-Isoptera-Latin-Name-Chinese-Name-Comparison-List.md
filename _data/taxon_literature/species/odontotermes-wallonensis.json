@@ -1,0 +1,40 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "蚁丘与取食活立木",
+   "heading_en": "Mounds and feeding on living trees",
+   "heading_es": "Montículos y alimentación en árboles vivos",
+   "paragraphs": [
+    {
+     "src": [
+      "S0258"
+     ],
+     "text": "据摘要，根据 Roonwal（1978）研究，印度半岛的瓦隆土白蚁（<i>Odontotermes wallonensis</i>）筑蚁丘，该文讨论了包括该种在内的 3 种土白蚁的蚁丘与 2 种白蚁的纸板巢。",
+     "text_en": "According to the abstract, Roonwal (1978) reported that <i>Odontotermes wallonensis</i> of the Indian Peninsula builds mounds; the paper discusses the mounds of three species of <i>Odontotermes</i>, including this species, and the carton nests of two termite species.",
+     "text_es": "Según el resumen, Roonwal (1978) señaló que <i>Odontotermes wallonensis</i> de la península india construye montículos; el trabajo analiza los montículos de tres especies de <i>Odontotermes</i>, incluida esta especie, y los nidos de cartón de dos especies de termitas."
+    },
+    {
+     "src": [
+      "S0287"
+     ],
+     "text": "据摘要，根据 Becker（1962）研究，截至 1962 年，已知能取食活立木的种包括瓦隆土白蚁（<i>Odontotermes wallonensis</i>）；该种与同属其他种一起构成印度南部危害建筑木材的主要类群之一。",
+     "text_en": "According to the abstract, Becker (1962) noted that, as of 1962, the species known to feed on living trees included <i>Odontotermes wallonensis</i>; this species, together with other species of the same genus, forms one of the main groups damaging structural timber in southern India.",
+     "text_es": "Según el resumen, Becker (1962) indicó que, hasta 1962, entre las especies conocidas por alimentarse de árboles vivos figuraba <i>Odontotermes wallonensis</i>; esta especie, junto con otras del mismo género, constituye uno de los principales grupos que dañan la madera estructural en el sur de la India."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0258",
+   "citation": "Roonwal, M. L. 1978. Bioecological and economical observations on termites of Peninsular India. Zeitschrift für Angewandte Entomologie.",
+   "doi": "10.1111/j.1439-0418.1978.tb04011.x"
+  },
+  {
+   "id": "S0287",
+   "citation": "Günther Becker. 1962. Beiträge zur Kenntnis der geographischen Verbreitung und wirtschaftlichen Bedeutung von Termiten in Indien1. Zeitschrift für Angewandte Entomologie.",
+   "doi": "10.1111/j.1439-0418.1962.tb04422.x"
+  }
+ ]
+}

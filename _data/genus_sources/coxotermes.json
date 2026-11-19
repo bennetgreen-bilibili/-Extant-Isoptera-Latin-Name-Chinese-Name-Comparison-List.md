@@ -1,0 +1,23 @@
+{
+ "latin": "Coxotermes",
+ "zh": "基白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Coxotermes Grassé and Noirot, 1955a: 380–381.",
+ "type_species": "Coxotermes boukokoensis Grassé and Noirot, 1955 by monotypy.",
+ "references": [
+  {
+   "ref": "Bouillon and Mathot, 1965: 25, 92, 93, pl. 14, fig. 42d",
+   "note": "Coxotermes; key; characters; worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 34",
+   "note": "Coxotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 50, 127–129, figs. 350–357, pl. 4: fig. 1",
+   "note": "Coxotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 4
+}

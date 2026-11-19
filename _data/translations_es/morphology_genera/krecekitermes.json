@@ -1,0 +1,17 @@
+{
+ "note": "Apicotermitinae carece de soldado; el original describe solo el alado y el obrero; tanto los caracteres genéricos como los específicos se basan principalmente en el tubo digestivo (segmento mixto, asiento de la válvula entérica, armamento de la válvula entérica). El XML de ZooKeys no presenta marcas de paginación interna, por lo que el locator se localiza por nombre de sección y no se inventan números de página internos.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Uno de los grupos neotropicales de Apicotermitinae con órganos dehiscentes, estructura compartida con Dissimulitermes y Ruptitermes. Se distingue de Dissimulitermes porque el asiento de la válvula entérica (EVS) es trilobulado (tubular en el segundo) y el armamento de la válvula entérica está formado únicamente por espinas, sin placas esclerotizadas (el segundo posee placas esclerotizadas). Se distingue de Ruptitermes porque la válvula entérica está armada (en el segundo la válvula entérica no está armada, con la única excepción de R. bandeirai, especie mucho mayor que este género y con las espinas concentradas solo en 3 almohadillas valvulares). La combinación dada en la clave genérica es «asiento de la válvula entérica trilobulado, con menos de 13 espinas en las almohadillas armadas de la válvula entérica». Los órganos dehiscentes llenan la cavidad hemocélica por delante del buche; la unión entre el intestino medio y P1 es neta, pero el segmento mixto es corto."
+  },
+  {
+   "label": "Alado",
+   "text": "Superficie dorsal de la cápsula cefálica cóncava en vista lateral; fontanela muy evidente; postclípeo apenas abombado, con sutura media neta; antenas de 14 o 15 segmentos (fórmula 2>3<4≈5<6)."
+  },
+  {
+   "label": "Obrero",
+   "text": "Superficie dorsal de la cápsula cefálica ligeramente cóncava en vista lateral; antenas claras, de 13 o 14 segmentos (2>3<4<5); postclípeo fuertemente abombado. Diente apical de la maxila izquierda tan sobresaliente como M1+2, borde de M3 formando un ángulo obtuso, con el extremo truncado y dirigido hacia atrás, elevación del área molar desarrollada y sobresaliente, ocultando por completo el proceso molar en vista dorsal; diente apical de la maxila derecha más sobresaliente que M1, M1 desarrollado, M2 con el ápice redondeado y sobresaliente, dirigido hacia atrás, ángulo obtuso entre M1 y M2. Los órganos dehiscentes son evidentes en la mayoría de los individuos. Segmento mixto del tubo digestivo corto, intestino medio engrosado en la lengua; el armamento de la válvula entérica está formado por 6 almohadillas valvulares con el extremo esclerotizado, coronadas y provistas de espinas, situadas en la parte posterior de las almohadillas."
+  }
+ ]
+}

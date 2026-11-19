@@ -1,0 +1,66 @@
+{
+ "book_n": "230",
+ "book_name": "倾头杆白蚁 Stylotermes inclinatus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "倾头杆白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "value": "1.20"
+    },
+    {
+     "key": "head_height",
+     "value": "0.98"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.25"
+    },
+    {
+     "key": "labrum_width",
+     "value": "0.37"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "1.25"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "1.64"
+    },
+    {
+     "key": "postmentum_width",
+     "value": "0.50"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.17"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.65"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "0.59"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.00"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "0.77"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 701,
+   "unit": "mm"
+  }
+ ]
+}

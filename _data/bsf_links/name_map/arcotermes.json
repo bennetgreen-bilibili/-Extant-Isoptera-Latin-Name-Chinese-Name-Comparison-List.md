@@ -1,0 +1,13 @@
+{
+ "Arcotermes tubus": {
+  "label": "Arcotermes tubus Fan, 1983",
+  "match": "exact",
+  "notes": "",
+  "otu": 84319,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84319/overview",
+  "valid_label": null,
+  "valid_otu": 84319,
+  "verified": false
+ }
+}

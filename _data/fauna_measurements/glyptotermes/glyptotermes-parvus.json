@@ -1,0 +1,63 @@
+{
+ "book_n": "38",
+ "book_name": "小树白蚁 Glyptotermesparvus",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "小树白蚊有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "8.67",
+     "value": "8.51–8.85"
+    },
+    {
+     "key": "body_length_without_wings",
+     "mean": "4.75",
+     "value": "4.49–5.00"
+    },
+    {
+     "key": "forewing_length",
+     "mean": "7.07",
+     "value": "6.95–7.19"
+    },
+    {
+     "key": "eye_long_diameter",
+     "mean": "0.22",
+     "value": "0.20–0.24"
+    },
+    {
+     "key": "eye_head_lower_margin",
+     "mean": "0.15",
+     "value": "0.14–0.17"
+    },
+    {
+     "key": "ocellus_long_diameter",
+     "mean": "0.08",
+     "value": "0.07–0.08"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.51",
+     "value": "0.50–0.53"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.87",
+     "value": "0.84–0.91"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.77",
+     "value": "0.75–0.78"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 802,
+   "unit": "mm"
+  }
+ ]
+}

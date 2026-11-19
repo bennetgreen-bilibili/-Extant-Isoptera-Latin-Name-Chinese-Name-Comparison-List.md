@@ -1,0 +1,23 @@
+{
+ "latin": "Pseudomicrotermes",
+ "zh": "伪小白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Pseudomicrotermes Holmgren, 1912a: 126–129.",
+ "type_species": "Microtermes alboniger Wasmann, 1911 by monotypy.",
+ "references": [
+  {
+   "ref": "Bouillon and Mathot, 1965: 22, 84, 85, pl. 10: fig. 25b",
+   "note": "Pseudomicrotermes; key; characters; imago/worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 30",
+   "note": "Pseudomicrotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 27, 176–178, figs. 566–576",
+   "note": "Pseudomicrotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 10
+}

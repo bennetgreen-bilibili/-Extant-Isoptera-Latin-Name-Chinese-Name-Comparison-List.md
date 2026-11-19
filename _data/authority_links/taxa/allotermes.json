@@ -1,0 +1,68 @@
+{
+ "Allotermes denticulatus": {
+  "gbif": {
+   "key": 9692128,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Allotermes denticulatus Krishna, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "BZN5",
+   "status": "accepted",
+   "label": "Allotermes denticulatus Krishna, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234545",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Allotermes papillifer": {
+  "gbif": {
+   "key": 9774787,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Allotermes papillifer Krishna, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "BZN6",
+   "status": "accepted",
+   "label": "Allotermes papillifer Krishna, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234547",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Allotermes paradoxus": {
+  "gbif": {
+   "key": 9728362,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Allotermes paradoxus Wasmann, 1910",
+   "accepted": null
+  },
+  "col": {
+   "id": "BZN7",
+   "status": "accepted",
+   "label": "Allotermes paradoxus Wasmann, 1910",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234548",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

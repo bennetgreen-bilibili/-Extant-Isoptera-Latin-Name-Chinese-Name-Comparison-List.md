@@ -1,0 +1,24 @@
+{
+ "Trapellitermes loxomastax": {
+  "gbif": {
+   "key": 9660043,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trapellitermes loxomastax Sands, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "57XYB",
+   "status": "accepted",
+   "label": "Trapellitermes loxomastax Sands, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073729",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

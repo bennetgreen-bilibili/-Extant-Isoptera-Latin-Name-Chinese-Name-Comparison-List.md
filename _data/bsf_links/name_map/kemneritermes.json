@@ -1,0 +1,13 @@
+{
+ "Kemneritermes sarawakensis": {
+  "label": "Kemneritermes sarawakensis Ahmad & Akhtar, 1981",
+  "match": "exact",
+  "notes": "",
+  "otu": 85462,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85462/overview",
+  "valid_label": null,
+  "valid_otu": 85462,
+  "verified": false
+ }
+}

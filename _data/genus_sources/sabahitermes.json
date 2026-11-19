@@ -1,0 +1,15 @@
+{
+ "latin": "Sabahitermes",
+ "zh": "沙巴白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Sabahitermes Thapa, 1997: 294–298.",
+ "type_species": "Sabahitermes malakuni Thapa, 1997 by monotypy.",
+ "references": [
+  {
+   "ref": "Gathorne-Hardy, 2004: 127",
+   "note": "Sabahitermes; key. Snootitermes Gathorne-Hardy, 2001: 1491–1492. Type species: Snootitermes leuserensis Gathorne-Hardy, 2001 by original designation."
+  }
+ ],
+ "nrefs": 2
+}

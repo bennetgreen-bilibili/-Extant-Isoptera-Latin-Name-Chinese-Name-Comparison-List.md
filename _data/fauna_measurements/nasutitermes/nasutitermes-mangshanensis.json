@@ -1,0 +1,43 @@
+{
+ "book_n": "423",
+ "book_name": "莽山象白蚁 Nasutitermes mangshanensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "莽山象白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_nasus",
+     "mean": "1.56",
+     "value": "1.43–1.60"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "0.80",
+     "value": "0.74–0.83"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.15",
+     "value": "0.14–0.16"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.38",
+     "value": "0.35–0.39"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.87",
+     "value": "0.83–0.89"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 629,
+   "unit": "mm"
+  }
+ ]
+}

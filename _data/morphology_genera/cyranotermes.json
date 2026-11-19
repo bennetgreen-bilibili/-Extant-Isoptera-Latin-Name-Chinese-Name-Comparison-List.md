@@ -1,0 +1,21 @@
+{
+ "zh_name": "巨鼻白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头壳狭、卵形，额管锥形且基部粗；与之相对，Anhangatermes 头壳甚宽而圆、额管近圆柱状且基部窄。该对比即 Neotropical 兵蚁检索表中本属所处的位置。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头壳背视狭窄、卵形；额管锥形，基部粗。检索表中本属与头壳甚宽圆、额管近圆柱形且基部窄的 Anhangatermes 互为对应条目。"
+  }
+ ],
+ "note": "Rocha, Carrijo & Cancello 2012（Zootaxa 3196: 50–57）为本属最近一次修订并首述有翅成虫，但其 PDF 经文本代理仅能取到第 1 页（摘要与引言），属征正文未读到，故本条只据 Constantino 1999 兵蚁检索表写兵蚁特征，不补写有翅成虫与工蚁。",
+ "sources": [
+  {
+   "id": "S0048",
+   "citation": "Constantino R. 1999. Chave ilustrada para identificação dos gêneros de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papéis Avulsos de Zoologia 40(25): 387–448. https://doi.org/10.11606/0031-1049.1997.40.p387-448",
+   "locator": "Chave para soldados, casal 14（p. 387–448）；图 101–102"
+  }
+ ]
+}

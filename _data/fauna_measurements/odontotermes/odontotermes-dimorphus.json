@@ -1,0 +1,53 @@
+{
+ "book_n": "261",
+ "book_name": "双工土白蚁 Odontotermes dimorphus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "双工土白蚁兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.74",
+     "value": "1.67–1.79"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.39",
+     "value": "1.33–1.42"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.88",
+     "value": "0.84–0.92"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.03",
+     "value": "0.96–1.08"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.59",
+     "value": "0.55–0.62"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.55",
+     "value": "0.52–0.58"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.91",
+     "value": "0.88–0.95"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 1406,
+   "unit": "mm"
+  }
+ ]
+}

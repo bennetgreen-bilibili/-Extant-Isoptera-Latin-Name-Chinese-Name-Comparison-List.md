@@ -1,0 +1,134 @@
+{
+ "Psammotermes allocerus": {
+  "gbif": {
+   "key": 8965620,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Psammotermes allocerus Silvestri, 1908",
+   "accepted": null
+  },
+  "col": {
+   "id": "4ND6T",
+   "status": "accepted",
+   "label": "Psammotermes allocerus Silvestri, 1908",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q16988626",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Psammotermes hybostoma": {
+  "gbif": {
+   "key": 9707207,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Psammotermes hybostoma Desneux, 1902",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WC7J",
+   "status": "accepted",
+   "label": "Psammotermes hybostoma Desneux, 1902",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q124986481",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Psammotermes prohybostoma": {
+  "gbif": {
+   "key": 9738620,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Psammotermes prohybostoma Ravan & Akhtar, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "4ND6V",
+   "status": "accepted",
+   "label": "Psammotermes prohybostoma Ravan & Akhtar, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253589",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Psammotermes rajasthanicus": {
+  "gbif": {
+   "key": 9657513,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Psammotermes rajasthanicus Roonwal & Bose, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "4ND6W",
+   "status": "accepted",
+   "label": "Psammotermes rajasthanicus Roonwal & Bose, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253591",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Psammotermes senegalensis": {
+  "gbif": {
+   "key": 9764312,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Psammotermes senegalensis Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "4ND6X",
+   "status": "accepted",
+   "label": "Psammotermes senegalensis Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253592",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Psammotermes voeltzkowi": {
+  "gbif": {
+   "key": 9212024,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Psammotermes voeltzkowi Wasmann, 1910",
+   "accepted": null
+  },
+  "col": {
+   "id": "4ND6Y",
+   "status": "accepted",
+   "label": "Psammotermes voeltzkowi Wasmann, 1910",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253594",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "Pseudacanthotermes curticeps": {
+  "gbif": {
+   "key": 9699714,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudacanthotermes curticeps Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NGYR",
+   "status": "accepted",
+   "label": "Pseudacanthotermes curticeps Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084251",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudacanthotermes grandiceps": {
+  "gbif": {
+   "key": 9651825,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudacanthotermes grandiceps (Sjöstedt, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NGYS",
+   "status": "accepted",
+   "label": "Pseudacanthotermes grandiceps (Sjöstedt, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084253",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudacanthotermes harrisensis": {
+  "gbif": {
+   "key": 9720592,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudacanthotermes harrisensis Weidner, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NGYT",
+   "status": "accepted",
+   "label": "Pseudacanthotermes harrisensis Weidner, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084255",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudacanthotermes militaris": {
+  "gbif": {
+   "key": 9750605,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudacanthotermes militaris (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WCTS",
+   "status": "accepted",
+   "label": "Pseudacanthotermes militaris (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084258",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudacanthotermes militaris laticeps": {
+  "gbif": {
+   "key": 9802797,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Pseudacanthotermes militaris laticeps (Sjöstedt, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2LRM",
+   "status": "accepted",
+   "label": "Pseudacanthotermes militaris laticeps (Sjöstedt, 1905)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudacanthotermes militaris militaris": {
+  "gbif": {
+   "key": 9752353,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Pseudacanthotermes militaris militaris (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2LRN",
+   "status": "accepted",
+   "label": "Pseudacanthotermes militaris militaris (Hagen, 1858)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudacanthotermes piceus": {
+  "gbif": {
+   "key": 9804541,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudacanthotermes piceus (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NGYV",
+   "status": "accepted",
+   "label": "Pseudacanthotermes piceus (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084261",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudacanthotermes spiniger": {
+  "gbif": {
+   "key": 9718938,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudacanthotermes spiniger (Sjöstedt, 1900)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NGYW",
+   "status": "accepted",
+   "label": "Pseudacanthotermes spiniger (Sjöstedt, 1900)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084262",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "fetched_at": "2026-10-30T15:46:53Z",
+ "latin": "Araujotermes",
+ "papers": [
+  {
+   "abstract": "",
+   "abstract_chars": 0,
+   "abstract_source": "",
+   "abstract_truncated": false,
+   "authors": [
+    "Kistner Dh"
+   ],
+   "cited_by": 1,
+   "date": "1993-01-01",
+   "doi": "",
+   "doi_url": "",
+   "id": "https://openalex.org/W3191320946",
+   "issue": "2",
+   "language": "en",
+   "oa_url": "https://europepmc.org/article/AGR/IND20386402",
+   "openalex_url": "https://openalex.org/W3191320946",
+   "pages": "199-209",
+   "title": "A redescription of the genus Fonsechellus with a description of a new species from Brazil associated with Araujotermes (Coleoptera: Staphylinidae; Isoptera: Nasutitermitinae).",
+   "type": "article",
+   "venue": "Sociobiology",
+   "volume": "23",
+   "year": 1993
+  },
+  {
+   "abstract": "Seventy species of termites were collected in primary forests on the lower Japura River, Amazonas State, Brazil. Seven new species, Orthognathotermes humilis, sp.n., Spinitermes longiceps, sp.n., Armitermes gnomus, sp.n., Araujotermes nanus, sp.n., Embiratermes ignotus, sp.n., Subulitermes constricticeps, sp. n., and Syntermes robustus, sp.n., are described. The imago of Cavitermes parvicavus is described for the first time. Drawings of the soldiers’ head, alates’ head and mandibles, worker’s mandibles and enteric valve armature are presented for the new species and for those without adequate illustrations in the literature.",
+   "abstract_chars": 632,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Reginaldo Constantino"
+   ],
+   "cited_by": 15,
+   "date": "1991-01-01",
+   "doi": "",
+   "doi_url": "",
+   "id": "https://openalex.org/W659012925",
+   "issue": "2",
+   "language": "en",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W659012925",
+   "pages": "189-224",
+   "title": "Termites (Isoptera) from the lower Japurá River, Amazonas State, Brazil.",
+   "type": "article",
+   "venue": "",
+   "volume": "7",
+   "year": 1991
+  },
+  {
+   "abstract": "The morphology of the mandibles of the alates and workers of the 8 soil-feeding genera with nasute soldiers from the Neotropical Region is studied. Three mandibular patterns are recognized: (1) Convexitermes, Atlantitermes, Araujotermes, Coatitermes, Subulitermes and Agnathotermes have mandibles with complete marginal dentition and no reduced teeth, (2) Angularitermes has mandibles with complete marginal dentition but two teeth are vestigial, and in (3) Cyronotermes the marginal dentition is incomplete. A set of other characteristics is associated with each of these mandibular patterns. Intraspecific variation are registered, either between the alate and the worker castes of all genera, as between the worker types of the dimorphic worker caste of the genera with complete and developed marginal dentition. Such dimorphism was previously unreported for the soil-feeding Nasutitermitinae; the soldier arises from one worker type.",
+   "abstract_chars": 937,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Luiz Roberto Fontes"
+   ],
+   "cited_by": 40,
+   "date": "1986-01-01",
+   "doi": "10.1590/s0101-81751986000400003",
+   "doi_url": "https://doi.org/10.1590/s0101-81751986000400003",
+   "id": "https://openalex.org/W1976254228",
+   "issue": "8",
+   "language": "en",
+   "oa_url": "https://www.scielo.br/j/rbzool/a/JRXTFPSC3PYkQ47mZJdHNWy/?lang=en&format=pdf",
+   "openalex_url": "https://openalex.org/W1976254228",
+   "pages": "503-531",
+   "title": "Morphology of the alate and worker mandibles of the soil-feeding nasute termites (Isoptera, Termitidae, Nasutitermitinae) from the neotropical region",
+   "type": "article",
+   "venue": "Revista Brasileira de Zoologia",
+   "volume": "3",
+   "year": 1986
+  },
+  {
+   "abstract": "The morphology of the parts and the configuration in situ of the worker digestibe tube of the 8 soilfeeding genera with nasute solidiers from the Neotropical Region are studied. All genera showed a reduced or incomplete gizzard armature, a tubular first proctodeal segment terminating in the left half of the abdomen, an enteric valve armature with trilateral symmetry and often with strong spines, a paunch of two large sections separated by a constriction, and a long colon. In addition, a mixed segment at the mesenteron-proctodeal junction is absent in Convexitermes, Atlantitermes, Araujotermes, Coatitermes, Subulitermes and Agnathotermes, and present in Cyranotermes and Angularitermes, the latter having also a gizzard armature stronger than usual in the soilfeeding nasutes. The coiling of the gut and the morphology of some gut parts provide a good means for the identification of undissected workers of all genera.",
+   "abstract_chars": 925,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Luiz Roberto Fontes"
+   ],
+   "cited_by": 19,
+   "date": "1986-01-01",
+   "doi": "10.1590/s0101-81751986000400002",
+   "doi_url": "https://doi.org/10.1590/s0101-81751986000400002",
+   "id": "https://openalex.org/W2020165484",
+   "issue": "8",
+   "language": "en",
+   "oa_url": "https://www.scielo.br/j/rbzool/a/97N8F8Sk9YPdhgyHJKQvsQy/?lang=en&format=pdf",
+   "openalex_url": "https://openalex.org/W2020165484",
+   "pages": "475-501",
+   "title": "Morphology of the worker digestive tube of the soil-feeding nasute termites (Isoptera, Termitidae, Nasutitermitinae ) from the neotropical region",
+   "type": "article",
+   "venue": "Revista Brasileira de Zoologia",
+   "volume": "3",
+   "year": 1986
+  },
+  {
+   "abstract": "Neste trabalho sao apresentados os dados referentes a incidencia de besouros e cupins (Insecta: Coleoptera e Isoptera, respectivamente) coletados em cinco arvores de Scleronema micranthum (Ducke) Ducke (cardeiro), familia Bombacaceae, especie florestal proveniente do Amazonas, na Estacao Experimental ZF-2, do Instituto Nacional de Pesquisas da Amazonia. Os fustes das arvores foram divididos em base, meio e apice e de cada uma destas partes foram cortadas 12 amostras (discos) de 30 cm de comprimento, totalizando 180. As amostras foram plotadas no piso da area de exploracao para serem submetidas a biodeterioracao, por um periodo de 24 meses. A cada dois meses, 15 discos foram removidos da floresta e trazidos para o Laboratorio de Entomologia da Madeira do INPA, de onde foram efetuadas a coleta e a triagem dos besouros e cupins e a retirada das amostras para realizacao dos testes de densidade e compressao paralela as fibras. As analises dos dados dos besouros indicaram a presenca de 4.929 especimes que foram encontrados em todas as arvores, com alta ocorrencia dos individuos nas arvores tres e dois. Do total de besouros, a familia Curculionidae representou 81,3%, (4.007 ind.) seguido por Cerambycidae com 10,3% (505 ind.), Passalidae com 3,8% (186 ind.), Carabidae com 3,4% (166 ind.) e Cucujidae com 1,3% (62 ind.). Do total das especies coletadas da familia Curculionidae, destacou-se a subfamilia Scolytinae, com 3.633 individuos, representando 73,8%. Desta subfamilia destacam-se pela frequencia, Xyleborus affinis Eichhoff com 1.044 individuos (26,09%), Xyleborus sp.1 com 1.034 (25,84%), Xyleborus ferrugineus Fabricius com 595 (14,87%), Xyleborus sp.2 com 576 (14,39%), Xyleborus sp.9 com 94 (2,35%) e Xyleborus sp.6 com 87 (2,17%). Da subfamilia Platypodinae foram registrados dois generos: Tesserocerus e Platypus. Foram registrados mais besouros na base e no meio das arvores, com 1.866 e 1.814 individuos, respectivamente. Em relacao aos cupins, foram coletados 21.751 especimes, distribuidos em duas familias, 16 generos e 18 especies. Destas, 15 pertencem a familia Termitidae e tres a Rhinotermitidae. As especies em destaque foram: Heterotermes tenuis Hagen, representando 87,6% (12.822 ind.); Nasutitermes similis Emerson, 34,1% (2.429 ind.); Cylindrotermes parvignathus Emerson, 23,6% (1.681 ind.); Rhinotermes marginalis L, 10,9% (1.595 ind.); Araujotermes parvellus (Silvestri), 7,7% (550 ind.); Anoplotermes sp.1, 6,3% (448 ind.); Spinitermes nigrostomus Holmgren, 5,3% (377 ind.); Subulitermes baeileyi (Emerson), 3,9% (278 ind.); Nasutitermes surinamensis (Holmgren), 3,5% (251 ind.); Cornitermes weberi Emerson, 13,4% (246 ind.); Neocapritermes angusticeps (Emerson), 3,4% (231 ind.); e Cyrilliotermes angulariceps (Mathews), 2,9% (212 ind.). Heterotermes tenuis foi encontrado em todas as arvores, sendo predominante nas coletas e foi o primeiro inseto a infestar as amostras, seguido por R. marginalis, C. weberi, N. angusticeps e Planicapritermes planiceps (Emerson). A posicao do fuste das arvores mais infestada pelos cupins foi o meio com 10.192 especimes, seguido do apice, com 6.224 individuos, respectivamente. A analise de variância nao detectou diferencas significativas entre as especies encontradas nas posicoes estudadas no fuste, tanto para os besouros como para os cupins. O resultado da analise descritiva, da analise de variância e da analise de regressao da densidade e da resistencia a compressao paralela as fibras, indica que o tempo de exposicao das amostras no campo exerceu influencia sobre estes parâmetros. Ao final de 24 meses foi observado que a reducao percentual da densidade foi menor que a reducao da resistencia a compressao paralela as fibras. A diminuicao da densidade dentro das posicoes do fuste variou de 21,9% a 29,9% e da resistencia, de 40,37% a 62,04%. Na comparacao entre as posicoes, tanto dos corpos de prova saudaveis como dos deteriorados, foi observada pouca variacao nos valores destas variaveis.",
+   "abstract_chars": 3985,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Raimunda Liége Souza de Abreu"
+   ],
+   "cited_by": 0,
+   "date": "2008-09-19",
+   "doi": "",
+   "doi_url": "",
+   "id": "https://openalex.org/W2954140240",
+   "issue": "",
+   "language": "pt",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W2954140240",
+   "pages": "",
+   "title": "Biodeterioração da madeira de cardeiro (Scleronema micranthum (Ducke) Ducke, bombacaceae), com ênfase em besouros e cupins e sua influência na densidade básica e na resistência à compressão paralela às fibras",
+   "type": "article",
+   "venue": "",
+   "volume": "",
+   "year": 2008
+  }
+ ],
+ "zh": "阿劳若白蚁属"
+}

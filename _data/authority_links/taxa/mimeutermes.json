@@ -1,0 +1,134 @@
+{
+ "Mimeutermes binghami": {
+  "gbif": {
+   "key": 9760019,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mimeutermes binghami Sands, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "43F59",
+   "status": "accepted",
+   "label": "Mimeutermes binghami Sands, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084738",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Mimeutermes clypeatus": {
+  "gbif": {
+   "key": 9794943,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mimeutermes clypeatus Sands, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "73K9L",
+   "status": "accepted",
+   "label": "Mimeutermes clypeatus Sands, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084739",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Mimeutermes edentatus": {
+  "gbif": {
+   "key": 9708866,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mimeutermes edentatus Sands, 1956",
+   "accepted": null
+  },
+  "col": {
+   "id": "43F5B",
+   "status": "accepted",
+   "label": "Mimeutermes edentatus Sands, 1956",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084740",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Mimeutermes giffardii": {
+  "gbif": {
+   "key": 9792256,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mimeutermes giffardii Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "43F5C",
+   "status": "accepted",
+   "label": "Mimeutermes giffardii Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084741",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Mimeutermes majusculus": {
+  "gbif": {
+   "key": 9661593,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mimeutermes majusculus Sands, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "43F5D",
+   "status": "accepted",
+   "label": "Mimeutermes majusculus Sands, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084742",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Mimeutermes sorex": {
+  "gbif": {
+   "key": 9711419,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mimeutermes sorex Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RJXK",
+   "status": "accepted",
+   "label": "Mimeutermes sorex Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084743",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

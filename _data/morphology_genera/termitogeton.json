@@ -1,0 +1,25 @@
+{
+ "zh_name": "寡脉白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫密被毛，头后部大于前部，fontanelle 极窄、位于头中部，复眼小，触角 10–15 节，前胸背板极小、约为头宽之半，翅缺中脉与径脉；兵蚁密被毛，头呈特征性的心形、背腹扁平，触角 13–15 节，上唇近三角形，上颚伸长而无缘齿，前胸背板为头宽之半。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "全体密被毛；头后部大于前部；fontanelle 极窄，位于头中部；复眼小；触角 10–15 节；前胸背板极小，约为头宽之半；翅无中脉与径脉。种级（T. planus）：体型极小，体覆小毛；头前窄后宽、心形；复眼大；单眼位于复眼之前；触角一般 9–15 节；前胸背板约为头宽之半，前缘中央有一小突起。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "全体密被毛；头呈特征性的心形、背腹扁平；触角一般 13–15 节；上唇近三角形；上颚伸长，无缘齿；前胸背板为头宽之半。种级（T. planus）：上唇伸长、端部尖，基部窄，最宽处在端部 1/3；触角 11–15 节；前胸背板为头宽之半，前缘中央前伸；上颚短、无缘齿，端部微弯。"
+  }
+ ],
+ "note": "本机只有该文的出版社 JATS 全文 XML（Europe PMC PMC3264403），无印刷版 PDF，故 locator 用章节名；jsonl 作者顺序与 XML 相反，此处以 XML 为准。翅无中脉与径脉一条原文引自 Krishna (1970)，非本文新观察，已如实保留出处链。",
+ "sources": [
+  {
+   "id": "S0038",
+   "citation": "Roisin, Y.; Bourguignon, T. 2011. Revision of the termite family Rhinotermitidae (Isoptera) in New Guinea. ZooKeys 148: 55–103. https://doi.org/10.3897/zookeys.148.1826",
+   "locator": "Genus Termitogeton: Diagnosis; species account of T. planus"
+  }
+ ]
+}

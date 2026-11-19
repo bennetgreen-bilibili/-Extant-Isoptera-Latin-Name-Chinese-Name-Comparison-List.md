@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "根据 Roonwal & Bose（1988）研究，游荡无刺白蚁（<i>Anacanthotermes vagans</i>）属于当时全世界共 12 种的无刺白蚁属（<i>Anacanthotermes</i>），印度地区记录 4 种；该属分布自北非、西亚、阿拉伯半岛与中亚延伸至印度西部和南部。",
+     "text_en": "According to Roonwal and Bose (1988), <i>Anacanthotermes vagans</i> belongs to <i>Anacanthotermes</i>, which then comprised 12 species worldwide, 4 of them recorded from the Indian region; the genus ranges from North Africa, western Asia, the Arabian Peninsula and Central Asia to western and southern India.",
+     "text_es": "Según Roonwal y Bose (1988), <i>Anacanthotermes vagans</i> pertenece a <i>Anacanthotermes</i>, que entonces comprendía 12 especies en el mundo, 4 de ellas registradas en la región india; el género se extiende desde el norte de África, Asia occidental, la península arábiga y Asia central hasta el oeste y el sur de la India.",
+     "src": [
+      "S0105"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0105",
+   "citation": "Roonwal M. L.; Bose G. 1988 The Harvester Termites (Anacanthotermes) of the Indian Region. Identity, Distribution and Biology (Isoptera, Hodotermitidae). Records of the Zoological Survey of India, Miscellaneous Publication, Occasional Paper No. 111.",
+   "url": "https://archive.org/details/dli.zoological.occpapers.111"
+  }
+ ]
+}

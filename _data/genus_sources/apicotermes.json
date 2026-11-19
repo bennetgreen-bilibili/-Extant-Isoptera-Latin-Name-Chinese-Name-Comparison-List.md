@@ -1,0 +1,43 @@
+{
+ "latin": "Apicotermes",
+ "zh": "尖白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Apicotermes Holmgren, 1912a: 104–105.",
+ "type_species": "Apicotermes tragardhi Holmgren, 1912 by monotypy.",
+ "references": [
+  {
+   "ref": "Fuller, 1921: 23, 25",
+   "note": "Apicotermes; key."
+  },
+  {
+   "ref": "Emerson, 1928b: 408, 420",
+   "note": "Apicotermes; key; distribution."
+  },
+  {
+   "ref": "Emerson, 1953: 102–104",
+   "note": "Apicotermes; synonymy; characters; comparisons; species included."
+  },
+  {
+   "ref": "Webb, 1961: 16",
+   "note": "Apicotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 26, 96, 97, pl. 16: fig. 46d",
+   "note": "Apicotermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 30, 37",
+   "note": "Apicotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 52, 124–127, figs. 339–349, pl. 3: fig. 7",
+   "note": "Apicotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  },
+  {
+   "ref": "Uys, 2002: 62–64, fig. 158",
+   "note": "Apicotermes; species included; diagnosis; biology; distribution. South Africa."
+  }
+ ],
+ "nrefs": 27
+}

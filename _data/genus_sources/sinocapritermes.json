@@ -1,0 +1,27 @@
+{
+ "latin": "Sinocapritermes",
+ "zh": "华扭白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Sinocapritermes Ping and Xu, 1986: 2–3, 17.",
+ "type_species": "Sinocapritermes sinensis Ping and Xu, 1986 by original designation.",
+ "references": [
+  {
+   "ref": "Huang et al., 1989: 391, 495",
+   "note": "Sinocapritermes; key; characters; distribution."
+  },
+  {
+   "ref": "Huang and Li, 1999: 307, 311",
+   "note": "Sinocapritermes; key; characters."
+  },
+  {
+   "ref": "Takematsu, 1999c: 40",
+   "note": "Sinocapritermes; key based on gut characters."
+  },
+  {
+   "ref": "Huang et al., 2000: 546, 716",
+   "note": "Sinocapritermes; key; characters; distribution."
+  }
+ ],
+ "nrefs": 5
+}

@@ -1,0 +1,112 @@
+{
+ "Hapsidotermes harrisi": {
+  "gbif": {
+   "key": 4803131,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hapsidotermes harrisi (Mjöberg, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3JQCC",
+   "status": "accepted",
+   "label": "Hapsidotermes harrisi (Mjöberg, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272436",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hapsidotermes labellus": {
+  "gbif": {
+   "key": 4803127,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hapsidotermes labellus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "3JQCD",
+   "status": "accepted",
+   "label": "Hapsidotermes labellus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272438",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hapsidotermes longius": {
+  "gbif": {
+   "key": 4803126,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hapsidotermes longius Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LCMY",
+   "status": "accepted",
+   "label": "Hapsidotermes longius Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272439",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hapsidotermes maideni": {
+  "gbif": {
+   "key": 4803128,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hapsidotermes maideni (Mjöberg, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3JQCF",
+   "status": "accepted",
+   "label": "Hapsidotermes maideni (Mjöberg, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272440",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hapsidotermes orbus": {
+  "gbif": {
+   "key": 4803130,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hapsidotermes orbus (Hill, 1927)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3JQCG",
+   "status": "accepted",
+   "label": "Hapsidotermes orbus (Hill, 1927)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272441",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

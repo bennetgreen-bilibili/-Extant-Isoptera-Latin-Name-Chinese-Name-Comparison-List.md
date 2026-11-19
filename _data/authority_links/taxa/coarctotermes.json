@@ -1,0 +1,90 @@
+{
+ "Coarctotermes beharaensis": {
+  "gbif": {
+   "key": 9767380,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coarctotermes beharaensis Cachan, 1949",
+   "accepted": null
+  },
+  "col": {
+   "id": "WJQK",
+   "status": "accepted",
+   "label": "Coarctotermes beharaensis Cachan, 1949",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235335",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coarctotermes clepsydra": {
+  "gbif": {
+   "key": 9799897,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coarctotermes clepsydra (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "WJQL",
+   "status": "accepted",
+   "label": "Coarctotermes clepsydra (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235336",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coarctotermes nasonovi": {
+  "gbif": {
+   "key": 9716116,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coarctotermes nasonovi (Czerwinski, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "WJQM",
+   "status": "accepted",
+   "label": "Coarctotermes nasonovi (Czerwinski, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235337",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coarctotermes pauliani": {
+  "gbif": {
+   "key": 9654594,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coarctotermes pauliani Cachan, 1949",
+   "accepted": null
+  },
+  "col": {
+   "id": "WJQN",
+   "status": "accepted",
+   "label": "Coarctotermes pauliani Cachan, 1949",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235338",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "Bicornitermes bicornis": {
+  "gbif": {
+   "key": 9786524,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bicornitermes bicornis Krishna, 1961",
+   "accepted": null
+  },
+  "col": {
+   "id": "5WJPT",
+   "status": "accepted",
+   "label": "Bicornitermes bicornis Krishna, 1961",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235208",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bicornitermes emersoni": {
+  "gbif": {
+   "key": 9734736,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bicornitermes emersoni Krishna, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "5WJQ5",
+   "status": "accepted",
+   "label": "Bicornitermes emersoni Krishna, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235210",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bicornitermes exsertifrons": {
+  "gbif": {
+   "key": 9768260,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bicornitermes exsertifrons (Wilkinson, 1958)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5WK25",
+   "status": "accepted",
+   "label": "Bicornitermes exsertifrons (Wilkinson, 1958)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235211",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bicornitermes spinicollis": {
+  "gbif": {
+   "key": 9819157,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bicornitermes spinicollis (Wilkinson, 1958)",
+   "accepted": null
+  },
+  "col": {
+   "id": "68JPT",
+   "status": "accepted",
+   "label": "Bicornitermes spinicollis (Wilkinson, 1958)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235212",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

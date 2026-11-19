@@ -1,0 +1,24 @@
+{
+ "Arcotermes tubus": {
+  "gbif": {
+   "key": 9673694,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Arcotermes tubus Fan, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "67PY2",
+   "status": "accepted",
+   "label": "Arcotermes tubus Fan, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225301",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

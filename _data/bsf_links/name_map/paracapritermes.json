@@ -1,0 +1,46 @@
+{
+ "Paracapritermes kraepelinii": {
+  "label": "Paracapritermes kraepelinii (Silvestri, 1909)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85692,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85692/overview",
+  "valid_label": null,
+  "valid_otu": 85692,
+  "verified": false
+ },
+ "Paracapritermes primus": {
+  "label": "Paracapritermes primus (Hill, 1942)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85693,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85693/overview",
+  "valid_label": null,
+  "valid_otu": 85693,
+  "verified": false
+ },
+ "Paracapritermes prolixus": {
+  "label": "Paracapritermes prolixus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85694,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85694/overview",
+  "valid_label": null,
+  "valid_otu": 85694,
+  "verified": false
+ },
+ "Paracapritermes secundus": {
+  "label": "Paracapritermes secundus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85695,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85695/overview",
+  "valid_label": null,
+  "valid_otu": 85695,
+  "verified": false
+ }
+}

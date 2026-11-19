@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-14",
+ "sections": [
+  {
+   "heading": "肠道微生物的 β-木糖苷酶",
+   "heading_en": "β-Xylosidases from the gut microbiome",
+   "heading_es": "β-Xilosidasas del microbioma intestinal",
+   "paragraphs": [
+    {
+     "src": [
+      "S0231"
+     ],
+     "text": "根据 Liu 等（2018）研究，短角球白蚁（<i>Globitermes brachycerastes</i>）的肠道微生物组含多个 β-木糖苷酶基因：作者以 2008 年 3 月采于云南西双版纳地下巢的约 2 500 头工蚁全肠构建 fosmid 文库，从 12 000 个克隆中筛出 22 个具 β-木糖苷酶活性的阳性克隆，测序并克隆表达了 8 个酶（Xyl1–Xyl8），分属糖苷水解酶第 1、3、43 家族，序列已存入 GenBank（KY618667–KY618674）。",
+     "text_en": "According to Liu et al. (2018), the gut microbiome of <i>Globitermes brachycerastes</i> contains multiple β-xylosidase genes: from a fosmid library built with the whole guts of about 2 500 workers collected in March 2008 from an underground nest in Xishuangbanna, Yunnan, the authors screened 12 000 clones and found 22 positive for β-xylosidase activity, sequenced them and expressed eight enzymes (Xyl1-Xyl8) belonging to glycoside hydrolase families 1, 3 and 43, deposited in GenBank (KY618667-KY618674).",
+     "text_es": "Según Liu et al. (2018), el microbioma intestinal de <i>Globitermes brachycerastes</i> contiene varios genes de β-xilosidasa: a partir de una biblioteca de fosmidos construida con los intestinos completos de unas 2 500 obreras recolectadas en marzo de 2008 en un nido subterráneo de Xishuangbanna, Yunnan, los autores cribaron 12 000 clones y hallaron 22 positivos para actividad β-xilosidasa, los secuenciaron y expresaron ocho enzimas (Xyl1-Xyl8) pertenecientes a las familias 1, 3 y 43 de glucósido hidrolasas, depositadas en GenBank (KY618667-KY618674)."
+    },
+    {
+     "src": [
+      "S0231"
+     ],
+     "text": "根据同一研究，这 8 个酶中有 4 个同时具 β-葡萄糖苷酶或 α-阿拉伯糖苷酶活性，属双功能半纤维素酶；该种属白蚁科（Termitidae）弓白蚁亚科（Amitermitinae），文中记该属主要分布于东南亚热带雨林，其肠道细菌以螺旋体类（Spirochaetaceae）最丰富。",
+     "text_en": "According to the same study, four of the eight enzymes also show β-glucosidase or α-arabinosidase activity and are therefore bifunctional hemicellulases; the species belongs to Termitidae: Amitermitinae, the paper notes that the genus occurs mainly in Southeast Asian rainforests, and that spirochaetes (Spirochaetaceae) are the most abundant bacteria in its gut.",
+     "text_es": "Según el mismo estudio, cuatro de las ocho enzimas muestran además actividad β-glucosidasa o α-arabinosidasa, por lo que son hemicelulasas bifuncionales; la especie pertenece a Termitidae: Amitermitinae, el trabajo señala que el género se distribuye principalmente en las selvas tropicales del sudeste asiático y que las espiroquetas (Spirochaetaceae) son las bacterias más abundantes en su intestino."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0231",
+   "citation": "Liu, C.; Zou, G.; Yan, X.; Zhou, X. J. 2018. Screening of multimeric β-xylosidases from the gut microbiome of a higher termite, Globitermes brachycerastes. International Journal of Biological Sciences.",
+   "doi": "10.7150/ijbs.22763"
+  }
+ ]
+}

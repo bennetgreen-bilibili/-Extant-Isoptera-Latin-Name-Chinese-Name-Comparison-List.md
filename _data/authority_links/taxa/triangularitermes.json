@@ -1,0 +1,24 @@
+{
+ "Triangularitermes triangulariceps": {
+  "gbif": {
+   "key": 9689821,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Triangularitermes triangulariceps Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "7CP52",
+   "status": "accepted",
+   "label": "Triangularitermes triangulariceps Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073728",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

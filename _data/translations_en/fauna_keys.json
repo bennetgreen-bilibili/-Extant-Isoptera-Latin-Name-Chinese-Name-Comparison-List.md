@@ -1,0 +1,1753 @@
+{
+ "/family/kalotermitidae/": {
+  "keys": [
+   {
+    "caste": "Alate",
+    "couplets": [
+     {
+      "d": 0,
+      "leads": [
+       {
+        "t": "Forewing veins M and Cu arising together beyond the wing scale; arolium absent",
+        "to": 2
+       },
+       {
+        "t": "Forewing veins M and Cu arising within the wing scale; arolium present or absent",
+        "to": 3
+       }
+      ],
+      "n": 1
+     },
+     {
+      "d": 1,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Epicalotermes",
+         "url": "/genus/epicalotermes/",
+         "zh": "上木白蚁属"
+        },
+        "t": "Left mandible (alate or pseudergate) with the anterior margin of the 3rd marginal tooth more than 1.5 times the length of the posterior margin of the 1st+2nd marginal teeth"
+       },
+       {
+        "leaf": {
+         "also": [
+          {
+           "kind": "genus",
+           "latin": "Bicornitermes",
+           "url": "/genus/bicornitermes/",
+           "zh": "双角白蚁属"
+          }
+         ],
+         "kind": "genus",
+         "latin": "Bifiditermes",
+         "url": "/genus/bifiditermes/",
+         "zh": "双裂白蚁属"
+        },
+        "t": "Anterior margin of the 3rd marginal tooth distinctly longer, but usually not more than 1.5 times the length of the posterior margin of the 1st+2nd marginal teeth"
+       }
+      ],
+      "n": 2
+     },
+     {
+      "d": 1,
+      "leads": [
+       {
+        "t": "Middle tibia with 3 apical spurs and additional spines",
+        "to": 4
+       },
+       {
+        "t": "Middle tibia with only 3 apical spurs, without additional spines",
+        "to": 6
+       }
+      ],
+      "n": 3
+     },
+     {
+      "d": 2,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "fossil",
+         "latin": "Proelectrotermes"
+        },
+        "t": "Middle tibia with 2 outer spines and 1 inner spine; fossil only"
+       },
+       {
+        "t": "Middle tibia with 1–2 outer spines, without an inner spine",
+        "to": 5
+       }
+      ],
+      "n": 4
+     },
+     {
+      "d": 3,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "fossil",
+         "latin": "Electrotermes"
+        },
+        "t": "Middle tibia with 2 outer spines; fossil only"
+       },
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Postelectrotermes",
+         "url": "/genus/postelectrotermes/",
+         "zh": "后琥珀白蚁属"
+        },
+        "t": "Middle tibia with 1 outer spine; extant"
+       }
+      ],
+      "n": 5
+     },
+     {
+      "d": 2,
+      "leads": [
+       {
+        "t": "Anterior margin of the 3rd marginal tooth of the left mandible equal to the posterior margin of the 1st+2nd marginal teeth",
+        "to": 7
+       },
+       {
+        "t": "Anterior margin of the 3rd marginal tooth of the left mandible distinctly longer",
+        "to": 16
+       }
+      ],
+      "n": 6
+     },
+     {
+      "d": 3,
+      "leads": [
+       {
+        "t": "Forewing vein M not sclerotised, slender, running roughly midway between Rs and Cu and reaching the wing apex",
+        "to": 8
+       },
+       {
+        "t": "Forewing vein M sclerotised",
+        "to": 9
+       }
+      ],
+      "n": 7
+     },
+     {
+      "d": 4,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Kalotermes",
+         "url": "/genus/kalotermes/",
+         "zh": "木白蚁属"
+        },
+        "t": "Wings dark, with small nodular tubercles; arolium present"
+       },
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Pterotermes",
+         "url": "/genus/pterotermes/",
+         "zh": "翅白蚁属"
+        },
+        "t": "Wings transparent, without tubercles; arolium absent"
+       }
+      ],
+      "n": 8
+     },
+     {
+      "d": 4,
+      "leads": [
+       {
+        "t": "Forewing vein M sclerotised, but less strongly than Rs",
+        "to": 10
+       },
+       {
+        "t": "Forewing vein M sclerotised as strongly as Rs",
+        "to": 12
+       }
+      ],
+      "n": 9
+     },
+     {
+      "d": 5,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Comatermes",
+         "url": "/genus/comatermes/",
+         "zh": "毛白蚁属"
+        },
+        "t": "Head and pronotum densely covered with long, wavy hairs"
+       },
+       {
+        "t": "Head and pronotum with short setae, without long hairs",
+        "to": 11
+       }
+      ],
+      "n": 10
+     },
+     {
+      "d": 6,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Paraneotermes",
+         "url": "/genus/paraneotermes/",
+         "zh": "近新白蚁属"
+        },
+        "t": "Posterior margin of the 1st+2nd marginal teeth of the left mandible with a distinct apical tooth, its posterior margin slightly longer than the anterior margin of the 3rd marginal tooth"
+       },
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Ceratokalotermes",
+         "url": "/genus/ceratokalotermes/",
+         "zh": "角木白蚁属"
+        },
+        "t": "Posterior margin of the 1st+2nd marginal teeth without an apical tooth, evenly rounded; posterior margin equal to the anterior margin of the 3rd marginal tooth"
+       }
+      ],
+      "n": 11
+     },
+     {
+      "d": 5,
+      "leads": [
+       {
+        "t": "Rs unbranched; vein M closely adjacent to Rs and reaching the wing apex",
+        "to": 13
+       },
+       {
+        "t": "Rs branched",
+        "to": 14
+       }
+      ],
+      "n": 12
+     },
+     {
+      "d": 6,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Glyptotermes",
+         "url": "/genus/glyptotermes/",
+         "zh": "树白蚁属"
+        },
+        "t": "Junction between the posterior margin of the 1st+2nd marginal teeth and the anterior margin of the 3rd marginal tooth of the left mandible with a distinct angular notch"
+       },
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Calcaritermes",
+         "url": "/genus/calcaritermes/",
+         "zh": "距白蚁属"
+        },
+        "t": "Above junction of the left mandible without a distinct angular notch"
+       }
+      ],
+      "n": 13
+     },
+     {
+      "d": 6,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Rugitermes",
+         "url": "/genus/rugitermes/",
+         "zh": "皱白蚁属"
+        },
+        "t": "Vein M very short, joining Rs near the wing suture"
+       },
+       {
+        "t": "Vein M closely adjacent and parallel to Rs, reaching the wing apex",
+        "to": 15
+       }
+      ],
+      "n": 14
+     },
+     {
+      "d": 7,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Neotermes",
+         "url": "/genus/neotermes/",
+         "zh": "新白蚁属"
+        },
+        "t": "Anterior margin of the forewing scale convex; compound eye diameter 0.46–0.78 mm"
+       },
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Eucryptotermes",
+         "url": "/genus/eucryptotermes/",
+         "zh": "真砂白蚁属"
+        },
+        "t": "Anterior margin of the forewing scale nearly straight; compound eye diameter 0.43 mm"
+       }
+      ],
+      "n": 15
+     },
+     {
+      "d": 3,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Proneotermes",
+         "url": "/genus/proneotermes/",
+         "zh": "前新白蚁属"
+        },
+        "t": "Vein M slightly sclerotised, closer to Rs than to Cu"
+       },
+       {
+        "t": "Vein M not sclerotised, running roughly midway between Rs and Cu",
+        "to": 17
+       }
+      ],
+      "n": 16
+     },
+     {
+      "d": 4,
+      "leads": [
+       {
+        "leaf": {
+         "also": [
+          {
+           "kind": "genus",
+           "latin": "Cryptotermes",
+           "url": "/genus/cryptotermes/",
+           "zh": "堆砂白蚁属"
+          }
+         ],
+         "kind": "genus",
+         "latin": "Procryptotermes",
+         "url": "/genus/procryptotermes/",
+         "zh": "前砂白蚁属"
+        },
+        "t": "Vein M curving upward at or beyond the middle of the wing and joining Rs"
+       },
+       {
+        "t": "Vein M reaching the wing apex",
+        "to": 18
+       }
+      ],
+      "n": 17
+     },
+     {
+      "d": 5,
+      "leads": [
+       {
+        "leaf": {
+         "also": [
+          {
+           "kind": "genus",
+           "latin": "Allotermes",
+           "url": "/genus/allotermes/",
+           "zh": "奇白蚁属"
+          }
+         ],
+         "kind": "genus",
+         "latin": "Marginitermes",
+         "url": "/genus/marginitermes/",
+         "zh": "边白蚁属"
+        },
+        "t": "Arolium always absent"
+       },
+       {
+        "leaf": {
+         "also": [
+          {
+           "kind": "genus",
+           "latin": "Tauritermes",
+           "url": "/genus/tauritermes/",
+           "zh": "牛白蚁属"
+          }
+         ],
+         "kind": "genus",
+         "latin": "Incisitermes",
+         "url": "/genus/incisitermes/",
+         "zh": "楹白蚁属"
+        },
+        "t": "Arolium usually present, occasionally absent"
+       }
+      ],
+      "n": 18
+     }
+    ],
+    "dropped": [],
+    "n_leaves": 19,
+    "note": "World key to the genera, including the fossil genera †Proelectrotermes and †Electrotermes; this site covers only extant taxa, so the fossil genera are listed by name without links. The original key follows Krishna (1961) and does not include Longicaputermes and Roisinitermes, which are additionally included on this site.",
+    "source": "Translated from 'Key to the Genera of the Family Kalotermitidae' (after Krishna, 1961), pp. 75–78 in Krishna, Grimaldi, Krishna, Engel (2013), Treatise on the Isoptera of the World (Bulletin of the American Museum of Natural History 377).",
+    "src_short": "Krishna et al. (2013)",
+    "title": "Key to the genera of Kalotermitidae (world)"
+   },
+   {
+    "caste": "Soldier",
+    "couplets": [
+     {
+      "d": 0,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Postelectrotermes",
+         "url": "/genus/postelectrotermes/",
+         "zh": "后琥珀白蚁属"
+        },
+        "t": "Middle tibia with 1 outer spine"
+       },
+       {
+        "t": "Middle tibia without spines",
+        "to": 2
+       }
+      ],
+      "n": 1
+     },
+     {
+      "d": 1,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Calcaritermes",
+         "url": "/genus/calcaritermes/",
+         "zh": "距白蚁属"
+        },
+        "t": "Outer side of the fore tibia near the apex with 1 large, conspicuous spur, much larger than the 2 apical spurs"
+       },
+       {
+        "t": "Apical spurs of the fore tibia not enlarged",
+        "to": 3
+       }
+      ],
+      "n": 2
+     },
+     {
+      "d": 2,
+      "leads": [
+       {
+        "t": "Head short, strongly phragmotic (front of the head truncate, used to plug the nest opening)",
+        "to": 4
+       },
+       {
+        "t": "Head long or short, not phragmotic, the front inclined at about 20°–45°; frontal lateral processes present or absent",
+        "to": 8
+       }
+      ],
+      "n": 3
+     },
+     {
+      "d": 3,
+      "leads": [
+       {
+        "t": "Anterior margin of the pronotum serrate",
+        "to": 5
+       },
+       {
+        "t": "Anterior margin of the pronotum even, not serrate",
+        "to": 7
+       }
+      ],
+      "n": 4
+     },
+     {
+      "d": 4,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Bicornitermes",
+         "url": "/genus/bicornitermes/",
+         "zh": "双角白蚁属"
+        },
+        "t": "Anterior margin of the pronotum sharply serrate; head bilobed, the region between the lobes concave; no ridge between the vertex and the frons"
+       },
+       {
+        "t": "Anterior margin of the pronotum wavy, with weak or fine serrations; ridge present between the vertex and the frons",
+        "to": 6
+       }
+      ],
+      "n": 5
+     },
+     {
+      "d": 5,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Eucryptotermes",
+         "url": "/genus/eucryptotermes/",
+         "zh": "真砂白蚁属"
+        },
+        "t": "Front of the head strongly concave (scoop-shaped); antennal sockets situated 1/3–1/2 head length from the front of the head"
+       },
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Cryptotermes",
+         "url": "/genus/cryptotermes/",
+         "zh": "堆砂白蚁属"
+        },
+        "t": "Front of the head vertical, not strongly concave; antennal sockets near the lateral base of the mandibles"
+       }
+      ],
+      "n": 6
+     },
+     {
+      "d": 4,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Procryptotermes",
+         "url": "/genus/procryptotermes/",
+         "zh": "前砂白蚁属"
+        },
+        "t": "Ridge between the vertex and the frons distinct; front of the head not vertical; 3rd antennal segment large, club-shaped"
+       },
+       {
+        "leaf": {
+         "also": [
+          {
+           "kind": "genus",
+           "latin": "Kalotermes",
+           "note": "部分种",
+           "url": "/genus/kalotermes/",
+           "zh": "木白蚁属"
+          }
+         ],
+         "kind": "genus",
+         "latin": "Glyptotermes",
+         "note": "部分种",
+         "url": "/genus/glyptotermes/",
+         "zh": "树白蚁属"
+        },
+        "t": "No ridge between the vertex and the frons; front of the head vertical; 3rd antennal segment not large"
+       }
+      ],
+      "n": 7
+     },
+     {
+      "d": 3,
+      "leads": [
+       {
+        "t": "Anterior margin of the pronotum without a deep concavity or deep notch",
+        "to": 9
+       },
+       {
+        "t": "Anterior margin of the pronotum deeply concave or with a deep notch",
+        "to": 13
+       }
+      ],
+      "n": 8
+     },
+     {
+      "d": 4,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Rugitermes",
+         "url": "/genus/rugitermes/",
+         "zh": "皱白蚁属"
+        },
+        "t": "Front of the head with a distinct ridge formed by the dorsal margin of the antennae extending towards the centre"
+       },
+       {
+        "t": "Head without a distinct ridge",
+        "to": 10
+       }
+      ],
+      "n": 9
+     },
+     {
+      "d": 5,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Glyptotermes",
+         "url": "/genus/glyptotermes/",
+         "zh": "树白蚁属"
+        },
+        "t": "Head usually with distinct frontal lateral processes, sometimes phragmotic"
+       },
+       {
+        "t": "Head long, without distinct frontal lateral processes",
+        "to": 11
+       }
+      ],
+      "n": 10
+     },
+     {
+      "d": 6,
+      "leads": [
+       {
+        "t": "Mandibles short relative to the rest of the head capsule",
+        "to": 12
+       },
+       {
+        "leaf": {
+         "also": [
+          {
+           "kind": "genus",
+           "latin": "Neotermes",
+           "url": "/genus/neotermes/",
+           "zh": "新白蚁属"
+          }
+         ],
+         "kind": "genus",
+         "latin": "Kalotermes",
+         "url": "/genus/kalotermes/",
+         "zh": "木白蚁属"
+        },
+        "t": "Mandibles long, not short relative to the head capsule"
+       }
+      ],
+      "n": 11
+     },
+     {
+      "d": 7,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Paraneotermes",
+         "url": "/genus/paraneotermes/",
+         "zh": "近新白蚁属"
+        },
+        "t": "Anterior part of the postmentum very wide; pseudergate mandibles as in fig. 38B"
+       },
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Comatermes",
+         "url": "/genus/comatermes/",
+         "zh": "毛白蚁属"
+        },
+        "t": "Anterior part of the postmentum not very wide; frontal slope of the head concave"
+       }
+      ],
+      "n": 12
+     },
+     {
+      "d": 4,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Pterotermes",
+         "url": "/genus/pterotermes/",
+         "zh": "翅白蚁属"
+        },
+        "t": "Sides of the head distinctly rounded; base of the postmentum with a sclerotised swelling"
+       },
+       {
+        "t": "Sides of the head almost straight; base of the postmentum without a swelling",
+        "to": 14
+       }
+      ],
+      "n": 13
+     },
+     {
+      "d": 5,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Marginitermes",
+         "url": "/genus/marginitermes/",
+         "zh": "边白蚁属"
+        },
+        "t": "3rd antennal segment very large, as long as the following 5–7 segments combined; ridge present between the vertex and the frons"
+       },
+       {
+        "t": "3rd antennal segment shorter than the following 5–7 segments combined",
+        "to": 15
+       }
+      ],
+      "n": 14
+     },
+     {
+      "d": 6,
+      "leads": [
+       {
+        "t": "Head flattened dorsoventrally",
+        "to": 16
+       },
+       {
+        "t": "Head thick",
+        "to": 17
+       }
+      ],
+      "n": 15
+     },
+     {
+      "d": 7,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Epicalotermes",
+         "url": "/genus/epicalotermes/",
+         "zh": "上木白蚁属"
+        },
+        "t": "Head inclined forward from near the middle; mandibles long relative to the head capsule and strongly curved; femora not swollen"
+       },
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Incisitermes",
+         "url": "/genus/incisitermes/",
+         "zh": "楹白蚁属"
+        },
+        "t": "Head not inclined forward from the middle; mandibles short relative to the head capsule; femora strongly swollen"
+       }
+      ],
+      "n": 16
+     },
+     {
+      "d": 7,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Allotermes",
+         "url": "/genus/allotermes/",
+         "zh": "奇白蚁属"
+        },
+        "t": "Angular process present below and in front of the antennal socket"
+       },
+       {
+        "t": "No angular process",
+        "to": 18
+       }
+      ],
+      "n": 17
+     },
+     {
+      "d": 8,
+      "leads": [
+       {
+        "t": "Head with distinct frontal lateral processes",
+        "to": 19
+       },
+       {
+        "t": "Frontal lateral processes of the head indistinct",
+        "to": 20
+       }
+      ],
+      "n": 18
+     },
+     {
+      "d": 9,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Tauritermes",
+         "url": "/genus/tauritermes/",
+         "zh": "牛白蚁属"
+        },
+        "t": "3rd antennal segment specialised, longer and darker than the 4th; anterior margin of the pronotum distinctly wavy"
+       },
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Ceratokalotermes",
+         "url": "/genus/ceratokalotermes/",
+         "zh": "角木白蚁属"
+        },
+        "t": "3rd antennal segment not specialised, as long as the 4th; anterior margin of the pronotum weakly wavy"
+       }
+      ],
+      "n": 19
+     },
+     {
+      "d": 9,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Proneotermes",
+         "url": "/genus/proneotermes/",
+         "zh": "前新白蚁属"
+        },
+        "t": "Femora swollen; front of the head dark; weak ridge between the vertex and the frons"
+       },
+       {
+        "leaf": {
+         "kind": "genus",
+         "latin": "Bifiditermes",
+         "url": "/genus/bifiditermes/",
+         "zh": "双裂白蚁属"
+        },
+        "t": "Femora not swollen; no ridge between the vertex and the frons"
+       }
+      ],
+      "n": 20
+     }
+    ],
+    "dropped": [],
+    "n_leaves": 21,
+    "note": "World key to the genera, including the fossil genera †Proelectrotermes and †Electrotermes; this site covers only extant taxa, so the fossil genera are listed by name without links. The original key follows Krishna (1961) and does not include Longicaputermes and Roisinitermes, which are additionally included on this site.",
+    "source": "Translated from 'Key to the Genera of the Family Kalotermitidae' (after Krishna, 1961), pp. 75–78 in Krishna, Grimaldi, Krishna, Engel (2013), Treatise on the Isoptera of the World (Bulletin of the American Museum of Natural History 377).",
+    "src_short": "Krishna et al. (2013)",
+    "title": "Key to the genera of Kalotermitidae (world)"
+   }
+  ],
+  "n_couplets": 38,
+  "n_keys": 2,
+  "n_leaves": 40,
+  "omitted": []
+ },
+ "/family/termitidae/": {
+  "keys": [
+   {
+    "caste": "Worker and soldier",
+    "couplets": [
+     {
+      "d": 0,
+      "leads": [
+       {
+        "t": "Worker gut: mixed segment absent; midgut well developed (length and diameter both conspicuous), visible in situ in dorsal view; junction of midgut and hindgut with 4 lobes (indistinct in some species); without Malpighian tubule knots or false Malpighian tubule knots",
+        "to": 2
+       },
+       {
+        "t": "Worker gut: mixed segment present or absent; junction of the paunch and the colon (P3–P4) without conspicuous posterior setae; with Malpighian tubule knots or false Malpighian tubule knots",
+        "to": 3
+       }
+      ],
+      "n": 1
+     },
+     {
+      "d": 1,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Macrotermitinae",
+         "url": "/subfamily/macrotermitinae/",
+         "zh": "大白蚁亚科"
+        },
+        "t": "Adult/worker: labrum with a dark sclerotised transverse band; anterior margin of the 3rd marginal tooth of the left mandible (LMt3) less than twice the length of its posterior margin"
+       },
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Sphaerotermitinae",
+         "url": "/subfamily/sphaerotermitinae/",
+         "zh": "圆球白蚁亚科"
+        },
+        "t": "Adult/worker: labrum without a dark sclerotised transverse band; anterior margin of LMt3 twice the length of its posterior margin or more; junction of P3–P4 in the worker gut with conspicuous posterior setae"
+       }
+      ],
+      "n": 2
+     },
+     {
+      "d": 1,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Foraminitermitinae",
+         "url": "/subfamily/foraminitermitinae/",
+         "zh": "孔白蚁亚科"
+        },
+        "t": "Worker gut: dorsal projection of P3b forming 2 loops and leaving the coil from the middle; with false Malpighian tubule knots; mixed segment absent; enteric valve (P2) without spines"
+       },
+       {
+        "t": "Worker gut: dorsal projection of P3b erect and directed posteriorly or forming a single loop, leaving the coil along the margin of the midgut; with Malpighian tubule knots; mixed segment present or absent; enteric valve (P2) with or without spines",
+        "to": 4
+       }
+      ],
+      "n": 3
+     },
+     {
+      "d": 2,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Engelitermitinae",
+         "url": "/subfamily/engelitermitinae/",
+         "zh": "恩格尔白蚁亚科"
+        },
+        "t": "Worker gut: gizzard without columnar bands (degenerate type); mixed segment absent; ileum (P1) cylindrical, running as an elongated S along the left side of the abdomen; enteric valve (P2) composed of 6 smooth long pads, each with 1 spine at its apex"
+       },
+       {
+        "t": "Worker gut: gizzard with columnar bands (ordinary type) or without (degenerate type); mixed segment present or absent; P1 variable in shape; enteric valve (P2) variable in morphology",
+        "to": 5
+       }
+      ],
+      "n": 4
+     },
+     {
+      "d": 3,
+      "leads": [
+       {
+        "t": "Adult/worker: no distinct notch or depression between the 3rd marginal tooth of the left mandible (LMt3) and the fused first and second marginal teeth (LMt1+2); adult fontanelle slit-like, oval or circular; worker mixed segment (if present) situated outside the midgut loop",
+        "to": 6
+       },
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Apicotermitinae",
+         "url": "/subfamily/apicotermitinae/",
+         "zh": "尖白蚁亚科"
+        },
+        "t": "Adult/worker: distinct notch or depression between LMt3 and LMt1+2; adult fontanelle not slit-like, indistinct or oval, circular; worker mixed segment (if present) situated inside the midgut loop"
+       }
+      ],
+      "n": 5
+     },
+     {
+      "d": 4,
+      "leads": [
+       {
+        "t": "Worker gut: paunch (P3) with a caecum or caecal pouch (also present in soldiers and adults)",
+        "to": 7
+       },
+       {
+        "t": "Worker gut: paunch (P3) without a caecum or caecal pouch",
+        "to": 8
+       }
+      ],
+      "n": 6
+     },
+     {
+      "d": 5,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Cubitermitinae",
+         "url": "/subfamily/cubitermitinae/",
+         "zh": "方白蚁亚科"
+        },
+        "t": "Worker gut: gizzard without columnar bands (degenerate type); caecal pouch situated ventrally; P1 swollen; enteric valve apparatus composed of 6 long pads and 6 smaller intermediate pads, the apparatus weak; usually with small Malpighian tubule knots (Ethiopian region)"
+       },
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Crepititermitinae",
+         "url": "/subfamily/crepititermitinae/",
+         "zh": "响白蚁亚科"
+        },
+        "t": "Worker gut: gizzard with columnar bands (ordinary type); caecal pouch seen in right lateral view on the P3 projection; P1 tubular; enteric valve apparatus composed of 6 pads, without intermediate pads (Neotropical region)"
+       }
+      ],
+      "n": 7
+     },
+     {
+      "d": 5,
+      "leads": [
+       {
+        "t": "Worker gut: double mixed segment present or absent; soldier (always present): fontanelle opening at the tip of the frontal process or at the end of the nasus",
+        "to": 9
+       },
+       {
+        "t": "Worker gut: double mixed segment absent; soldier (rarely absent): fontanelle on the front of the head or at the base of the frontal process (when the latter is present)",
+        "to": 10
+       }
+      ],
+      "n": 8
+     },
+     {
+      "d": 6,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Syntermitinae",
+         "url": "/subfamily/syntermitinae/",
+         "zh": "聚白蚁亚科"
+        },
+        "t": "Worker gut: double mixed segment present or absent; ileum (P1) dilated. Soldier: fontanelle wide, mandibles functional (Neotropical region)"
+       },
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Nasutitermitinae",
+         "url": "/subfamily/nasutitermitinae/",
+         "zh": "象白蚁亚科"
+        },
+        "t": "Worker gut: double mixed segment absent; ileum (P1) tubular. Soldier: fontanelle narrow, mandibles vestigial (cosmopolitan)"
+       }
+      ],
+      "n": 9
+     },
+     {
+      "d": 6,
+      "leads": [
+       {
+        "t": "Worker gut: P1 tubular and long, forming a loop on the ventral side of P5; P1 inserting into P3 on the right side of the abdomen. Worker mandibles: molar region always ridged",
+        "to": 11
+       },
+       {
+        "t": "Worker gut: P1 variable in shape (tubular or swollen), without a ventral loop; insertion of P1 on P3 variable; enteric valve on the right or left side of the abdomen. Worker mandibles: molar region ridged or not ridged",
+        "to": 12
+       }
+      ],
+      "n": 10
+     },
+     {
+      "d": 7,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Cylindrotermitinae",
+         "url": "/subfamily/cylindrotermitinae/",
+         "zh": "圆筒白蚁亚科"
+        },
+        "t": "Adult/worker: base of the 1st marginal tooth of the right mandible (RMt1) without an accessory tooth, 2nd marginal tooth (RMt2) not as described below. Soldier: present. Worker gut: P1 inserting dorsally on P3 (Ethiopian and Neotropical regions)"
+       },
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Protohamitermitinae",
+         "url": "/subfamily/protohamitermitinae/",
+         "zh": "始钩白蚁亚科"
+        },
+        "t": "Adult/worker: base of RMt1 with an accessory tooth, RMt2 well developed, anterior margin angular, posterior margin curved. Soldier: absent. Worker gut: P1 inserting posteroventrally on P3 (Oriental region)"
+       }
+      ],
+      "n": 11
+     },
+     {
+      "d": 7,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Termitinae",
+         "url": "/subfamily/termitinae/",
+         "zh": "白蚁亚科"
+        },
+        "t": "Worker gut: usually with small Malpighian tubule knots, situated on the inner side of the midgut loop at the insertion of the Malpighian tubules. Soldier: frontal process well developed or extremely reduced"
+       },
+       {
+        "t": "Worker gut: without small Malpighian tubule knots (sometimes with an ampulla). Soldier: morphology variable",
+        "to": 13
+       }
+      ],
+      "n": 12
+     },
+     {
+      "d": 8,
+      "leads": [
+       {
+        "t": "Worker gut: P1 (position of the enteric valve) inserting into P3 on the left side of the abdomen",
+        "to": 14
+       },
+       {
+        "t": "Worker gut: P1 (position of the enteric valve) inserting into P3 on the right side of the abdomen",
+        "to": 17
+       }
+      ],
+      "n": 13
+     },
+     {
+      "d": 9,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Forficulitermitinae",
+         "url": "/subfamily/forficulitermitinae/",
+         "zh": "剪白蚁亚科"
+        },
+        "t": "Worker gut: mixed segment absent. Soldier mandibles: not snapping"
+       },
+       {
+        "t": "Worker gut: mixed segment present",
+        "to": 15
+       }
+      ],
+      "n": 14
+     },
+     {
+      "d": 10,
+      "leads": [
+       {
+        "t": "Worker gut: junction of the mixed segment and the ileum (P1) constricted and folded ventrally, forming an acute angle with the anterior apex. Adult/worker: RMt2 directed forward, posterior margin elongated; molar region ridged",
+        "to": 16
+       },
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Mirocapritermitinae",
+         "url": "/subfamily/mirocapritermitinae/",
+         "zh": "瘤白蚁亚科"
+        },
+        "t": "Worker gut: junction of the mixed segment and the ileum (P1) arched. Soldier: asymmetric snapping. Adult/worker: RMt2 with both margins subequal, posterior margin slightly concave; molar region smooth or very weakly ridged (Australian, Afrotropical, Palaearctic (China–Japan) and Papuan regions)"
+       }
+      ],
+      "n": 15
+     },
+     {
+      "d": 11,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Microcerotermitinae",
+         "url": "/subfamily/microcerotermitinae/",
+         "zh": "锯白蚁亚科"
+        },
+        "t": "Soldier mandibles: piercing (Onkotermes, Neotropical region) or cutting (Microcerotermes, Australian, Papuan, Oriental, Ethiopian and Neotropical regions)"
+       },
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Neocapritermitinae",
+         "url": "/subfamily/neocapritermitinae/",
+         "zh": "新扭白蚁亚科"
+        },
+        "t": "Soldier mandibles: asymmetric or nearly symmetric snapping (Neotropical region)"
+       }
+      ],
+      "n": 16
+     },
+     {
+      "d": 9,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Amitermitinae",
+         "url": "/subfamily/amitermitinae/",
+         "zh": "弓白蚁亚科"
+        },
+        "t": "Worker/soldier gut: P1 swollen or tubular. Soldier mandibles: crushing, piercing, cutting or symmetric snapping (only genera of the Neotropical region have symmetrically snapping mandibles); soldier head pear-shaped, without a frontal process (except Eremotermes and Dentispicotermes), labrum circular or slightly pointed at the apex"
+       },
+       {
+        "leaf": {
+         "kind": "subfamily",
+         "latin": "Promirotermitinae",
+         "url": "/subfamily/promirotermitinae/",
+         "zh": "前奇白蚁亚科"
+        },
+        "t": "Worker/soldier gut: P1 always swollen. Soldier: mandibles snapping symmetrically, head with a distinct frontal tubercle or frontal process; labrum bifurcate"
+       }
+      ],
+      "n": 17
+     }
+    ],
+    "dropped": [],
+    "n_leaves": 18,
+    "n_subfamilies": 18,
+    "note": "Based mainly on worker gut anatomy and mandibular dentition, this key covers all 18 extant subfamilies of Isoptera; it is not entirely consistent with the subfamily system of the original book (2000), which was based on soldier and alate morphology; each endpoint links to the corresponding subfamily page on this site.",
+    "source": "Translated from Note 3, 'Key to subfamilies of Termitidae' (revised from Krishna et al. 2013), of the supplementary material of Hellemans et al. (2024), Nature Communications 15: 6724.",
+    "src_short": "Hellemans et al. (2024)",
+    "title": "Key to the subfamilies of Termitidae"
+   }
+  ],
+  "n_couplets": 17,
+  "n_keys": 1,
+  "n_leaves": 18,
+  "omitted": []
+ },
+ "/list/": {
+  "keys": [
+   {
+    "book_genus": "等翅目 Isoptera",
+    "caste": "Alate",
+    "couplets": [
+     {
+      "d": 0,
+      "leads": [
+       {
+        "t": "Tarsi with 3 or 4 segments, or 5 with indistinct segmentation; hindwing without an anal lobe; ocelli present or absent; occipital suture absent (at most indicated by an angle or a groove); fore coxa without a ventral ridge",
+        "to": 2
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Mastotermitidae",
+         "url": "/family/mastotermitidae/",
+         "zh": "澳白蚁科"
+        },
+        "t": "Tarsi clearly divided into 5 segments; hindwing with an anal lobe; ocelli present; occipital suture present; fore coxa with a ventral ridge"
+       }
+      ],
+      "n": 1
+     },
+     {
+      "d": 1,
+      "leads": [
+       {
+        "t": "Ocelli absent; left mandible with 3 marginal teeth (LMt); cerci 1–8 segments [Teletisoptera]",
+        "to": 3
+       },
+       {
+        "t": "Ocelli present, or ocelli absent and left mandible with only 2 marginal teeth; cerci 2 segments [Icoisoptera]",
+        "to": 7
+       }
+      ],
+      "n": 2
+     },
+     {
+      "d": 2,
+      "leads": [
+       {
+        "t": "Arolium present; tarsi with 5 segments, sometimes with indistinct segmentation",
+        "to": 4
+       },
+       {
+        "t": "Arolium absent; tarsi with 4 or 5 segments",
+        "to": 5
+       }
+      ],
+      "n": 3
+     },
+     {
+      "d": 3,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Hodotermopsidae",
+         "url": "/family/hodotermopsidae/",
+         "zh": "原白蚁科"
+        },
+        "t": "Apical tooth of right mandible (RAt) equal to or shorter than the first marginal tooth (RMt1)"
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Archotermopsidae",
+         "url": "/family/archotermopsidae/",
+         "zh": "古白蚁科"
+        },
+        "t": "Apical tooth of right mandible longer than the first marginal tooth"
+       }
+      ],
+      "n": 4
+     },
+     {
+      "d": 3,
+      "leads": [
+       {
+        "t": "Antennae with fewer than 20 segments; right mandible with an accessory tooth [Stolotermitidae]",
+        "to": 6
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Hodotermitidae",
+         "url": "/family/hodotermitidae/",
+         "zh": "草白蚁科"
+        },
+        "t": "Antennae with more than 20 segments; tarsi with 4 segments; right mandible without an accessory tooth"
+       }
+      ],
+      "n": 5
+     },
+     {
+      "d": 4,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Stolotermitidae",
+         "url": "/family/stolotermitidae/",
+         "zh": "胄白蚁科"
+        },
+        "t": "Tarsi with 4 segments; femora enlarged; cerci 4–5 segments; tibial spur formula 3:3:2 or 2:2:2 (Stolotermitinae)"
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Stolotermitidae",
+         "url": "/family/stolotermitidae/",
+         "zh": "胄白蚁科"
+        },
+        "t": "Tarsi with 5 segments; femora not enlarged; cerci 5 segments; tibial spur formula 3:3:3 or 3:3:4 (Porotermitinae)"
+       }
+      ],
+      "n": 6
+     },
+     {
+      "d": 2,
+      "leads": [
+       {
+        "t": "Fontanelle present; tarsi with 3 or 4 segments; arolium absent; left mandible variable [Neoisoptera]",
+        "to": 8
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Kalotermitidae",
+         "url": "/family/kalotermitidae/",
+         "zh": "木白蚁科"
+        },
+        "t": "Fontanelle absent; tarsi with 4 segments; left mandible with 2 marginal teeth"
+       }
+      ],
+      "n": 7
+     },
+     {
+      "d": 3,
+      "leads": [
+       {
+        "t": "Forewing scale clearly overlapping the hindwing scale; wing surface reticulate; pronotum flat",
+        "to": 9
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Termitidae",
+         "url": "/family/termitidae/",
+         "zh": "白蚁科"
+        },
+        "t": "Forewing scale not overlapping the hindwing scale; wing surface not reticulate; pronotum saddle-shaped"
+       }
+      ],
+      "n": 8
+     },
+     {
+      "d": 4,
+      "leads": [
+       {
+        "t": "Tarsi with 4 segments",
+        "to": 10
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Stylotermitidae",
+         "url": "/family/stylotermitidae/",
+         "zh": "杆白蚁科"
+        },
+        "t": "Tarsi with 3 segments"
+       }
+      ],
+      "n": 9
+     },
+     {
+      "d": 5,
+      "leads": [
+       {
+        "t": "Apical tooth of left mandible (LAt) short, followed by 3 distinct marginal teeth",
+        "to": 11
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Serritermitidae",
+         "url": "/family/serritermitidae/",
+         "zh": "齿白蚁科"
+        },
+        "t": "Apical tooth of left mandible long, followed by only 1 distinct marginal tooth"
+       }
+      ],
+      "n": 10
+     },
+     {
+      "d": 6,
+      "leads": [
+       {
+        "t": "Forewing vein M (if present) and vein Cu branching beyond the wing scale [Psammotermitidae]",
+        "to": 12
+       },
+       {
+        "t": "Forewing veins arising independently within the wing scale",
+        "to": 13
+       }
+      ],
+      "n": 11
+     },
+     {
+      "d": 7,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Psammotermitidae",
+         "url": "/family/psammotermitidae/",
+         "zh": "沙白蚁科"
+        },
+        "t": "Forewing and hindwing scales about equal in size, not overlapping; head without a groove from the fontanelle to the epistomal suture (Psammotermitinae)"
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Psammotermitidae",
+         "url": "/family/psammotermitidae/",
+         "zh": "沙白蚁科"
+        },
+        "t": "Forewing and hindwing scales unequal in size, overlapping; head with a groove from the fontanelle to the epistomal suture (Prorhinotermitinae)"
+       }
+      ],
+      "n": 12
+     },
+     {
+      "d": 7,
+      "leads": [
+       {
+        "t": "Postclypeus without a nasus-like process, without a groove from the fontanelle to the apex of the labrum",
+        "to": 14
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Rhinotermitidae",
+         "url": "/family/rhinotermitidae/",
+         "zh": "鼻白蚁科"
+        },
+        "t": "Postclypeus with a nasus-like process, with a narrow groove from the fontanelle to the clypeus"
+       }
+      ],
+      "n": 13
+     },
+     {
+      "d": 8,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Termitogetonidae",
+         "url": "/family/termitogetonidae/",
+         "zh": "寡脉白蚁科"
+        },
+        "t": "Head flat, nearly triangular, posterior margin wavy; anterior margin of pronotum with a median process; wings densely covered with setae"
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Heterotermitidae",
+         "url": "/family/heterotermitidae/",
+         "zh": "异白蚁科"
+        },
+        "t": "Head not flat, oval, posterior margin straight; anterior margin of pronotum without a median process; wings sparsely covered with setae"
+       }
+      ],
+      "n": 14
+     }
+    ],
+    "dropped": [],
+    "n_leaves": 15,
+    "note": "This key is translated from Note 2 of the supplementary material of Hellemans et al. (2024); its endpoints cover the 13 families adopted by this site, which differs from the 6-family scheme of the original book (Huang Fusheng et al., 2000). The Stolotermitinae and Porotermitinae of Stolotermitidae and the Psammotermitinae and Prorhinotermitinae of Psammotermitidae are subfamily-level endpoints in the original key; this site has no separate pages for these subfamilies, so they are linked to the page of the family to which they belong and the subfamily name is retained; endpoints marked as 'partim' in the original key are noted in the entry text.",
+    "site_genus": null,
+    "source": "Translated from the alate and soldier keys in Note 2, 'Key to extant families and subfamilies of Isoptera', of the supplementary material of Hellemans, Rocha, Wang et al. (2024), Nature Communications 15: 6724.",
+    "src_short": "Hellemans et al. (2024)",
+    "title": "Key to the families of Isoptera"
+   },
+   {
+    "book_genus": "等翅目 Isoptera",
+    "caste": "Soldier",
+    "couplets": [
+     {
+      "d": 0,
+      "leads": [
+       {
+        "t": "Tarsi with 5 segments, sometimes concealed (tarsomere II reduced, visible only ventrally)",
+        "to": 2
+       },
+       {
+        "t": "Tarsi with 3 or 4 segments",
+        "to": 4
+       }
+      ],
+      "n": 1
+     },
+     {
+      "d": 1,
+      "leads": [
+       {
+        "t": "Pronotum small, narrower than the head, flat; cerci 4–8 segments; antennae 19–27 segments",
+        "to": 3
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Mastotermitidae",
+         "url": "/family/mastotermitidae/",
+         "zh": "澳白蚁科"
+        },
+        "t": "Pronotum large, as wide as the head, saddle-shaped; cerci 4 segments; antennae 20–26 segments"
+       }
+      ],
+      "n": 2
+     },
+     {
+      "d": 2,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Archotermopsidae",
+         "url": "/family/archotermopsidae/",
+         "zh": "古白蚁科"
+        },
+        "t": "All tibiae with lateral spines; posterior margin of head bilobed or evenly arched"
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Hodotermopsidae",
+         "url": "/family/hodotermopsidae/",
+         "zh": "原白蚁科"
+        },
+        "t": "Only the hind tibia with lateral spines, the middle tibia occasionally with 1 spine, the fore tibia never with lateral spines; posterior margin of head evenly arched"
+       }
+      ],
+      "n": 3
+     },
+     {
+      "d": 1,
+      "leads": [
+       {
+        "t": "Head without a fontanelle",
+        "to": 5
+       },
+       {
+        "t": "Head with a fontanelle [Neoisoptera]",
+        "to": 8
+       }
+      ],
+      "n": 4
+     },
+     {
+      "d": 2,
+      "leads": [
+       {
+        "t": "Cerci long, 1–5 segments; antennae 13–33 segments",
+        "to": 6
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Kalotermitidae",
+         "url": "/family/kalotermitidae/",
+         "zh": "木白蚁科"
+        },
+        "t": "Cerci short, 2 segments; antennae 10–21 segments"
+       }
+      ],
+      "n": 5
+     },
+     {
+      "d": 3,
+      "leads": [
+       {
+        "t": "Pronotum flat; head capsule more or less flat; hind femur enlarged; cerci 4–5 segments; antennae 13–19 segments [Stolotermitidae]",
+        "to": 7
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Hodotermitidae",
+         "url": "/family/hodotermitidae/",
+         "zh": "草白蚁科"
+        },
+        "t": "Pronotum slightly saddle-shaped (anterior lobe slightly raised); head not flat; hind femur not enlarged; cerci 1–5 segments; antennae 22–33 segments"
+       }
+      ],
+      "n": 6
+     },
+     {
+      "d": 4,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Stolotermitidae",
+         "url": "/family/stolotermitidae/",
+         "zh": "胄白蚁科"
+        },
+        "t": "Mandibles short and stout; head slightly flat; tibial spur formula (2/3):(2/3/4):3 (Porotermitinae)"
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Stolotermitidae",
+         "url": "/family/stolotermitidae/",
+         "zh": "胄白蚁科"
+        },
+        "t": "Mandibles longer, not stout; head distinctly flat; tibial spur formula 3:3:2 or 2:2:2 (Stolotermitinae)"
+       }
+      ],
+      "n": 7
+     },
+     {
+      "d": 2,
+      "leads": [
+       {
+        "t": "Pronotum flat",
+        "to": 9
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Termitidae",
+         "url": "/family/termitidae/",
+         "zh": "白蚁科"
+        },
+        "t": "Pronotum distinctly saddle-shaped"
+       }
+      ],
+      "n": 8
+     },
+     {
+      "d": 3,
+      "leads": [
+       {
+        "t": "Inner margin of the mandibles without serrations, only the base sometimes with a few small teeth",
+        "to": 10
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Serritermitidae",
+         "url": "/family/serritermitidae/",
+         "zh": "齿白蚁科"
+        },
+        "t": "Mandibles serrate along the entire inner margin"
+       }
+      ],
+      "n": 9
+     },
+     {
+      "d": 4,
+      "leads": [
+       {
+        "t": "Tarsi with 4 segments",
+        "to": 11
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Stylotermitidae",
+         "url": "/family/stylotermitidae/",
+         "zh": "杆白蚁科"
+        },
+        "t": "Tarsi with 3 segments"
+       }
+      ],
+      "n": 10
+     },
+     {
+      "d": 5,
+      "leads": [
+       {
+        "t": "Head with a small fontanelle, far from the base of the clypeus",
+        "to": 12
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Heterotermitidae",
+         "url": "/family/heterotermitidae/",
+         "zh": "异白蚁科"
+        },
+        "t": "Head with a large, round fontanelle situated at the base of the clypeus [Coptotermes; part of Heterotermitidae]"
+       }
+      ],
+      "n": 11
+     },
+     {
+      "d": 6,
+      "leads": [
+       {
+        "t": "Groove from the fontanelle to the base of the clypeus present",
+        "to": 13
+       },
+       {
+        "t": "Groove absent",
+        "to": 14
+       }
+      ],
+      "n": 12
+     },
+     {
+      "d": 7,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Rhinotermitidae",
+         "url": "/family/rhinotermitidae/",
+         "zh": "鼻白蚁科"
+        },
+        "t": "Apex of the labrum with brush-like setae; mandibles with distinct marginal teeth"
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Psammotermitidae",
+         "url": "/family/psammotermitidae/",
+         "zh": "沙白蚁科"
+        },
+        "t": "Apex of the labrum without brush-like setae; mandibles without distinct marginal teeth [part of Psammotermitidae] (Prorhinotermitinae)"
+       }
+      ],
+      "n": 13
+     },
+     {
+      "d": 7,
+      "leads": [
+       {
+        "t": "Sides of the head rounded",
+        "to": 15
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Heterotermitidae",
+         "url": "/family/heterotermitidae/",
+         "zh": "异白蚁科"
+        },
+        "t": "Sides of the head nearly parallel [part of Heterotermitidae]"
+       }
+      ],
+      "n": 14
+     },
+     {
+      "d": 8,
+      "leads": [
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Termitogetonidae",
+         "url": "/family/termitogetonidae/",
+         "zh": "寡脉白蚁科"
+        },
+        "t": "Head nearly triangular, flat, posterior margin wavy; mandibles without distinct marginal teeth except a few serrations at the base; pronotum with an anterior median process"
+       },
+       {
+        "leaf": {
+         "kind": "family",
+         "latin": "Psammotermitidae",
+         "url": "/family/psammotermitidae/",
+         "zh": "沙白蚁科"
+        },
+        "t": "Head nearly rectangular, posterior margin straight; mandibles with distinct marginal teeth; pronotum without an anterior median process [part of Psammotermitidae] (Psammotermitinae)"
+       }
+      ],
+      "n": 15
+     }
+    ],
+    "dropped": [],
+    "n_leaves": 16,
+    "note": "This key is translated from Note 2 of the supplementary material of Hellemans et al. (2024); its endpoints cover the 13 families adopted by this site, which differs from the 6-family scheme of the original book (Huang Fusheng et al., 2000). The Stolotermitinae and Porotermitinae of Stolotermitidae and the Psammotermitinae and Prorhinotermitinae of Psammotermitidae are subfamily-level endpoints in the original key; this site has no separate pages for these subfamilies, so they are linked to the page of the family to which they belong and the subfamily name is retained; endpoints marked as 'partim' in the original key are noted in the entry text.",
+    "site_genus": null,
+    "source": "Translated from the alate and soldier keys in Note 2, 'Key to extant families and subfamilies of Isoptera', of the supplementary material of Hellemans, Rocha, Wang et al. (2024), Nature Communications 15: 6724.",
+    "src_short": "Hellemans et al. (2024)",
+    "title": "Key to the families of Isoptera"
+   }
+  ],
+  "n_couplets": 29,
+  "n_keys": 2,
+  "n_leaves": 31,
+  "omitted": []
+ }
+}

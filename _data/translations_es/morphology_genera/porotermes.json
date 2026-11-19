@@ -1,0 +1,21 @@
+{
+ "note": "Los caracteres genéricos utilizables se concentran en la clave de géneros de la subfamilia y en el párrafo comparativo de la p. 144; la longitud del cuerpo, el número de artejos antenales y la proporción del pronoto son medidas específicas de P. adamsoni, ya señaladas como «nivel específico». La sección de «obrero» es una explicación del original sobre las castas de la subfamilia, no exclusiva de este género, y al citarla debe conservarse esa restricción.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "La clave de géneros de la subfamilia que ofrece el original: el alado sin ocelos, sin empodium (empodio) y con cercos de 5 artejos corresponde a este género, mientras que el que tiene ocelos, empodium y cercos de 2 artejos corresponde a Calotermes; el soldado con cercos largos de 5 artejos corresponde a este género y el de cercos cortos de 2 artejos a Calotermes. El soldado se confunde fácilmente con el de Stolotermes, pero este último es de talla pequeña, con cabeza y cuerpo más deprimidos, pronoto pequeño y cordiforme y ojos con omatidios."
+  },
+  {
+   "label": "Alado",
+   "text": "Sin ocelos; sin empodium; cercos de 5 artejos. Nivel específico (P. adamsoni): antenas de 15 a 17 artejos; longitud del cuerpo con alas 14–15 mm, longitud del cuerpo 7–8 mm."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cercos largos, de 5 artejos. Nivel específico (P. adamsoni): antenas de 16 a 18 artejos; mandíbulas gruesas, con la misma fórmula dentaria en las tres especies; anchura del pronoto aproximadamente 1.5 veces la anchura de la cabeza."
+  },
+  {
+   "label": "Obrero",
+   "text": "Esta subfamilia carece de una casta de obrero verdadera y las funciones de obrero las asumen los estadios inmaduros del alado (y quizá del soldado); los caracteres genéricos de este «obrero-ninfa» son los mismos que los del soldado."
+  }
+ ]
+}

@@ -74,9 +74,10 @@ except Exception:  # pragma: no cover - older/odd streams
     pass
 
 ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT / "_tools"))
+import shard_io  # noqa: E402
 DATA_INDEX = ROOT / "data" / "index.json"
 SPECIES_DIR = ROOT / "_species"
-AUTHORITY_FILE = ROOT / "_data" / "authority_links.json"
 GEO_DIR = ROOT / "assets" / "geo"
 FAMILY_DIR = GEO_DIR / "family"
 GENUS_DIR = GEO_DIR / "genus"
@@ -346,7 +347,7 @@ def load_taxonomy():
 def load_authorities(species):
     """Map checklist species -> GBIF accepted species key (and back)."""
     latin_to_slug = {s["latin"]: slug for slug, s in species.items() if s["latin"]}
-    data = json.loads(AUTHORITY_FILE.read_text(encoding="utf-8"))
+    data = shard_io.load("authority_links")
     taxa = data.get("taxa") or {}
     items = []
     for name, entry in taxa.items():

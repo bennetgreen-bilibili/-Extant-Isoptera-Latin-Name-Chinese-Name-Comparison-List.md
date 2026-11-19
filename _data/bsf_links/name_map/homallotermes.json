@@ -1,0 +1,46 @@
+{
+ "Homallotermes eleanorae": {
+  "label": "Homallotermes eleanorae Emerson, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 85444,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85444/overview",
+  "valid_label": null,
+  "valid_otu": 85444,
+  "verified": false
+ },
+ "Homallotermes exiguus": {
+  "label": "Homallotermes exiguus Krishna, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 85445,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85445/overview",
+  "valid_label": null,
+  "valid_otu": 85445,
+  "verified": false
+ },
+ "Homallotermes foraminifer": {
+  "label": "Homallotermes foraminifer (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85446,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85446/overview",
+  "valid_label": null,
+  "valid_otu": 85446,
+  "verified": false
+ },
+ "Homallotermes pilosus": {
+  "label": "Homallotermes pilosus (Mathur & Thapa, 1962)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85447,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85447/overview",
+  "valid_label": null,
+  "valid_otu": 85447,
+  "verified": false
+ }
+}

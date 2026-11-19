@@ -1,0 +1,59 @@
+{
+ "latin": "Dihoplotermes",
+ "zh": "双戟白蚁属",
+ "fetched_at": "2026-10-30T16:53:31Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2904823886",
+   "openalex_url": "https://openalex.org/W2904823886",
+   "doi": "10.1590/1809-4392201800582",
+   "doi_url": "https://doi.org/10.1590/1809-4392201800582",
+   "title": "A new termite species of the genus Dihoplotermes Araújo (Blattaria, Isoptera, Termitidae) from the Brazilian Amazonian rainforest",
+   "year": 2018,
+   "date": "2018-12-07",
+   "authors": [
+    "Renato Almeida de Azevedo",
+    "Cristian Dambros",
+    "José Wellington de Morais"
+   ],
+   "venue": "Acta Amazonica",
+   "type": "article",
+   "language": "en",
+   "cited_by": 2,
+   "oa_url": "http://www.scielo.br/pdf/aa/v49n1/1809-4392-aa-49-01-17.pdf",
+   "volume": "49",
+   "issue": "1",
+   "pages": "17-23",
+   "abstract": "Dihoplotermes, a previously monotypic genus, is now composed of two species. Dihoplotermes taurus sp. nov., a new Termitinae termite species, is illustrated and described based on morphological characters from soldiers, workers, and imago. The new species is distinguished from Dihoplotermes inusitatus Araujo by having a spine-like protuberance with blunt apex on the postmentum, the presence of a spine on the gizzard and the absence of dimorphic soldiers. Furthermore, the internal morphological characteristics of a Dihoplotermes worker are described for the first time. Both internal and external morphological characters were used to improve the characterization of the species.",
+   "abstract_source": "openalex",
+   "abstract_chars": 684,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2248334022",
+   "openalex_url": "https://openalex.org/W2248334022",
+   "doi": "",
+   "doi_url": "",
+   "title": "Identificação e quantificação de cupins rizófagos na cultura do arroz de sequeiro",
+   "year": 1993,
+   "date": "1993-08-01",
+   "authors": [
+    "Cecília Czapak",
+    "Evane Ferreira",
+    "Sebastião B. Nogueira"
+   ],
+   "venue": "Pesquisa Agropecuária Brasileira",
+   "type": "article",
+   "language": "pt",
+   "cited_by": 4,
+   "oa_url": "https://seer.sct.embrapa.br/index.php/pab/article/view/3949/1240",
+   "volume": "28",
+   "issue": "8",
+   "pages": "871-875",
+   "abstract": "E identificada e quantificada a populacao de cupins da rizosfera das cultivares de arroz Araguaia e Guarani. Sao encontrados 12 generos de Termitidae e um, Heterotermes, em Rhinotermitidae. O numero de especimes coletados em cada genero forneceu a seguinte ordem decrescente de importância: Anoplotermes, Grigiotermes, Heterotermes, Aparatermes, Procornitermes, Syntermes, Ruptitermes, Dihoplotermes, Labiotermes, Embiratermes, Neocapritermes, Cornitermes e Comicapritermes. Os cinco primeiros generos foram caracterizados como pragas do arroz, sendo Anoplotermes, Grigioterntes e Apamtermes identificados pela primeira vez.",
+   "abstract_source": "openalex",
+   "abstract_chars": 624,
+   "abstract_truncated": false
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "latin": "Pseudocapritermes",
+ "zh": "伪扭白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Pseudocapritermes Kemner, 1934b: 167–168.",
+ "type_species": "Pseudocapritermes silvaticus Kemner, 1934 by original designation.",
+ "references": [
+  {
+   "ref": "Light, 1924: 53",
+   "note": "Capritermes [part]; key."
+  },
+  {
+   "ref": "Ahmad, 1958: 87, 91",
+   "note": "Pseudocapritermes; key."
+  },
+  {
+   "ref": "Roonwal and Chhotani, 1962a: 294",
+   "note": "Pseudocapritermes; key."
+  },
+  {
+   "ref": "Ahmad, 1965: 9",
+   "note": "Pseudocapritermes; key."
+  },
+  {
+   "ref": "Sen-Sarma et al., 1975: 9",
+   "note": "Pseudocapritermes; distribution and ecology; key. India."
+  },
+  {
+   "ref": "Ahmad and Akhtar, 1981: 2, 3, 13–14",
+   "note": "Pseudocapritermes; key; cited as valid."
+  },
+  {
+   "ref": "Huang et al., 1989: 391, 515–516",
+   "note": "Pseudocapritermes; key; characters; distribution."
+  },
+  {
+   "ref": "Gao et al., 1996: 89, 108",
+   "note": "Pseudocapritermes; key; characters; distribution."
+  }
+ ],
+ "nrefs": 23
+}

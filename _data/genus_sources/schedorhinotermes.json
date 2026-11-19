@@ -1,0 +1,43 @@
+{
+ "latin": "Schedorhinotermes",
+ "zh": "长鼻白蚁属",
+ "family": "rhinotermitidae",
+ "treatise": true,
+ "citation": "Schedorhinotermes Holmgren, 1911a: 289.",
+ "type_species": "Rhinotermes intermedius Brauer, 1865 by original designation.",
+ "references": [
+  {
+   "ref": "Brauer, 1868: 392, 393",
+   "note": "Rhinotermes [part]; key; Termes [part]; key."
+  },
+  {
+   "ref": "Froggatt, 1897a: 539–540",
+   "note": "Rhinotermes; characters."
+  },
+  {
+   "ref": "Sjöstedt, 1900a: 49",
+   "note": "Rhinotermes; imago, soldier, worker characters; distribution."
+  },
+  {
+   "ref": "Froggatt, 1905: 23",
+   "note": "Rhinotermes; characters."
+  },
+  {
+   "ref": "Holmgren, 1911a: 79",
+   "note": "Rhinotermes (Schedorhinotermes); characters; key; species included."
+  },
+  {
+   "ref": "Holmgren, 1913c: 82",
+   "note": "Schedorhinotermes; key to species."
+  },
+  {
+   "ref": "Fuller, 1921: 20, 22, 24",
+   "note": "Schedorhinotermes; key."
+  },
+  {
+   "ref": "Snyder, 1925g: 404",
+   "note": "Rhinotermes (Schedorhinotermes); characters; distribution."
+  }
+ ],
+ "nrefs": 71
+}

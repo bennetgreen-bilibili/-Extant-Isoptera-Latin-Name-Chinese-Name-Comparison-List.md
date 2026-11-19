@@ -1,0 +1,27 @@
+{
+ "zh_name": "客白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁额突圆钝，胫节距 2:2:2，且只见于 Constrictotermes 巢中；Termes 的额突呈锥状、胫节距 3:3:2。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0048",
+   "citation": "Constantino, R. 1999. Chave ilustrada para identificação dos gêneros de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papéis Avulsos de Zoologia 40(25): 387–448.",
+   "locator": "p. 418（兵蚁检索表）"
+  },
+  {
+   "id": "S0048",
+   "citation": "Constantino, R. 1999. Chave ilustrada para identificação dos gêneros de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papéis Avulsos de Zoologia 40(25): 387–448.",
+   "locator": "p. 418（兵蚁检索表）"
+  },
+  {
+   "id": "S0048",
+   "citation": "Constantino, R. 1999. Chave ilustrada para identificação dos gêneros de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papéis Avulsos de Zoologia 40(25): 387–448.",
+   "locator": "p. 406（Inquilinitermes 属志）"
+  }
+ ],
+ "note": "客居关系：I. inquilinus 与 C. cavifrons 同巢，另两种与 C. cyphergaster 同巢（Constantino 1999）；Mathews 1977 原描述未能读到，故不写属级全性状。"
+}

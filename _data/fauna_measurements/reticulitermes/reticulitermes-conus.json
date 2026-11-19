@@ -1,0 +1,50 @@
+{
+ "book_n": "111",
+ "book_name": "锥颚散白蚊 Reticulitermes",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "成虫量度",
+   "label_en": "Imago measurements",
+   "label_es": "Medidas de imago",
+   "label_zh": "成虫量度",
+   "rows": [
+    {
+     "key": "body_length_with_wings",
+     "value": "9.49"
+    },
+    {
+     "key": "body_length",
+     "value": "6.43"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "value": "1.10"
+    },
+    {
+     "key": "head_width",
+     "value": "0.99"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.027"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.84"
+    },
+    {
+     "key": "forewing_scale_length",
+     "value": "0.83"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.17"
+    }
+   ],
+   "src_file": "301-400.txt",
+   "src_line": 1242,
+   "unit": "mm"
+  }
+ ]
+}

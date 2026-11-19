@@ -1,0 +1,131 @@
+{
+ "latin": "Cyranotermes",
+ "zh": "巨鼻白蚁属",
+ "fetched_at": "2026-10-30T16:53:28Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W3205124379",
+   "openalex_url": "https://openalex.org/W3205124379",
+   "doi": "10.5281/zenodo.16061602",
+   "doi_url": "https://doi.org/10.5281/zenodo.16061602",
+   "title": "Notes on Cyranotermes Araujo, with description of a new species (Isoptera, Termitidae, Nasutitermitinae)",
+   "year": 1990,
+   "date": "1990-09-03",
+   "authors": [
+    "Reginaldo Constantino"
+   ],
+   "venue": "Americanae (AECID Library)",
+   "type": "article",
+   "language": "en",
+   "cited_by": 8,
+   "oa_url": "http://repositorio.museu-goeldi.br/handle/mgoeldi/328",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "(Uploaded by Plazi from the Biodiversity Heritage Library) No abstract provided.",
+   "abstract_source": "openalex",
+   "abstract_chars": 80,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W4395071005",
+   "openalex_url": "https://openalex.org/W4395071005",
+   "doi": "10.11606/0031-1049.1983.36.p251-255",
+   "doi_url": "https://doi.org/10.11606/0031-1049.1983.36.p251-255",
+   "title": "Observation on Cyranotermes Araújo, with a description of C. Caete, new species. (Isoptera, Termitidae, Nasutitermitinae)",
+   "year": 1985,
+   "date": "1985-02-26",
+   "authors": [
+    "Eliana M. Cancello"
+   ],
+   "venue": "Papéis Avulsos de Zoologia",
+   "type": "article",
+   "language": "en",
+   "cited_by": 3,
+   "oa_url": "https://www.revistas.usp.br/paz/article/download/211474/193737",
+   "volume": "36",
+   "issue": "",
+   "pages": "251-255",
+   "abstract": "Cyranotermes caete, sp.n. was collected in rain forest habitat in Serra dos Carajás, Brazil. Drawings are presented of the soldie’rs head and of the worker's mandibles, as well as data on C. timuassu Araújo, with drawings of the nest.",
+   "abstract_source": "openalex",
+   "abstract_chars": 234,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W4299952048",
+   "openalex_url": "https://openalex.org/W4299952048",
+   "doi": "10.5281/zenodo.211906",
+   "doi_url": "https://doi.org/10.5281/zenodo.211906",
+   "title": "An illustrated key to the soldiers of Cyranotermes Araujo with a new species from Amazonia (Isoptera: Termitidae: Nasutitermitinae)",
+   "year": 2012,
+   "date": "2012-12-31",
+   "authors": [
+    "Mauricio M. Rocha",
+    "Tiago F. Carrijo",
+    "Eliana M. Cancello"
+   ],
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "https://doi.org/10.5281/zenodo.211906",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "Rocha, Mauricio M., Carrijo, Tiago F., Cancello, Eliana M. (2012): An illustrated key to the soldiers of Cyranotermes Araujo with a new species from Amazonia (Isoptera: Termitidae: Nasutitermitinae). Zootaxa 3196: 50-57, DOI: 10.5281/zenodo.211906",
+   "abstract_source": "openalex",
+   "abstract_chars": 247,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2403934012",
+   "openalex_url": "https://openalex.org/W2403934012",
+   "doi": "10.11646/zootaxa.3196.1.2",
+   "doi_url": "https://doi.org/10.11646/zootaxa.3196.1.2",
+   "title": "An illustrated key to the soldiers of Cyranotermes Araujo with a new species from Amazonia (Isoptera: Termitidae: Nasutitermitinae)",
+   "year": 2012,
+   "date": "2012-02-17",
+   "authors": [
+    "Mauricio M. Rocha",
+    "Tiago F. Carrijo",
+    "Eliana M. Cancello"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 6,
+   "oa_url": "",
+   "volume": "3196",
+   "issue": "1",
+   "pages": "",
+   "abstract": "Until now, the Neotropical termite genus Cyranotermes was known from three species: C. timuassu Araujo, C. glaber Constantino, and C. caete Cancello. In this paper a new species, Cyranotermes karipuna, n. sp., is described and illustrated from imago, worker, and soldier castes, along with its nest. It is also provided an illustrated identification key to species of Cyranotermes, a map with the occurrence of all species, and the first description of the imago caste of Cyranotermes, based on the first description of the imago of C. timuassu, and the imago of the new species.",
+   "abstract_source": "openalex",
+   "abstract_chars": 579,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2020165484",
+   "openalex_url": "https://openalex.org/W2020165484",
+   "doi": "10.1590/s0101-81751986000400002",
+   "doi_url": "https://doi.org/10.1590/s0101-81751986000400002",
+   "title": "Morphology of the worker digestive tube of the soil-feeding nasute termites (Isoptera, Termitidae, Nasutitermitinae ) from the neotropical region",
+   "year": 1986,
+   "date": "1986-01-01",
+   "authors": [
+    "Luiz Roberto Fontes"
+   ],
+   "venue": "Revista Brasileira de Zoologia",
+   "type": "article",
+   "language": "en",
+   "cited_by": 19,
+   "oa_url": "https://www.scielo.br/j/rbzool/a/97N8F8Sk9YPdhgyHJKQvsQy/?lang=en&format=pdf",
+   "volume": "3",
+   "issue": "8",
+   "pages": "475-501",
+   "abstract": "The morphology of the parts and the configuration in situ of the worker digestibe tube of the 8 soilfeeding genera with nasute solidiers from the Neotropical Region are studied. All genera showed a reduced or incomplete gizzard armature, a tubular first proctodeal segment terminating in the left half of the abdomen, an enteric valve armature with trilateral symmetry and often with strong spines, a paunch of two large sections separated by a constriction, and a long colon. In addition, a mixed segment at the mesenteron-proctodeal junction is absent in Convexitermes, Atlantitermes, Araujotermes, Coatitermes, Subulitermes and Agnathotermes, and present in Cyranotermes and Angularitermes, the latter having also a gizzard armature stronger than usual in the soilfeeding nasutes. The coiling of the gut and the morphology of some gut parts provide a good means for the identification of undissected workers of all genera.",
+   "abstract_source": "openalex",
+   "abstract_chars": 925,
+   "abstract_truncated": false
+  }
+ ]
+}

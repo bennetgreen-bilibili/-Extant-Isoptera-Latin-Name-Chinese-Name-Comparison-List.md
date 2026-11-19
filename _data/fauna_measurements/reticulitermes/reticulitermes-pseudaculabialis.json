@@ -1,0 +1,38 @@
+{
+ "book_n": "144",
+ "book_name": "拟尖唇散白蚁 Reticulitermes",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "成虫量度",
+   "label_en": "Imago measurements",
+   "label_es": "Medidas de imago",
+   "label_zh": "成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "5.64–6.22"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "value": "1.05–1.06"
+    },
+    {
+     "key": "head_width",
+     "value": "1.00–1.03"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.89–0.91"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "0.99–1.13"
+    }
+   ],
+   "src_file": "401-500.txt",
+   "src_line": 452,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "latin": "Aciculitermes",
+ "zh": "针白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Aciculitermes Emerson, 1960a: 10–11.",
+ "type_species": "Termes aciculatus Haviland, 1898 by original designation.",
+ "references": [
+  {
+   "ref": "Ahmad, 1958: 87",
+   "note": "Subulitermes [part]; key."
+  },
+  {
+   "ref": "Ahmad, 1965: 9",
+   "note": "Aciculitermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 23",
+   "note": "Aciculitermes; key."
+  },
+  {
+   "ref": "Chhotani, 1997: 766–768",
+   "note": "Aciculitermes; synonymy; characters; distribution and composition."
+  },
+  {
+   "ref": "Gathorne-Hardy, 2001: 1500",
+   "note": "Aciculitermes; key."
+  },
+  {
+   "ref": "Gathorne-Hardy, 2004: 127",
+   "note": "Aciculitermes; key."
+  },
+  {
+   "ref": "Sornnuwat et al., 2004: 358, 359",
+   "note": "Aciculitermes; key; number of species. Thailand."
+  }
+ ],
+ "nrefs": 15
+}

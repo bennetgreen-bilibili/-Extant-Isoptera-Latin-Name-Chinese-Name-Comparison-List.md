@@ -1,0 +1,15 @@
+{
+ "latin": "Invasitermes",
+ "zh": "闯白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Invasitermes Miller, 1984a: 33.",
+ "type_species": "Invasitermes inermis Miller, 1984 by original designation.",
+ "references": [
+  {
+   "ref": "Hill, 1942: 14, 377–379",
+   "note": "Mirotermes [part]; as genus and subgenus; key; synonymy; imago, soldier, worker diagnosed."
+  }
+ ],
+ "nrefs": 3
+}

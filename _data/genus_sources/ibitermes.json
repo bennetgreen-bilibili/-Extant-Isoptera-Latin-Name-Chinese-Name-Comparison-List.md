@@ -1,0 +1,23 @@
+{
+ "latin": "Ibitermes",
+ "zh": "地球白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Ibitermes Fontes, 1985c: 18–19.",
+ "type_species": "Ibitermes curupira Fontes, 1985 by original designation.",
+ "references": [
+  {
+   "ref": "Constantino, 1990c: 6",
+   "note": "Ibitermes; characters."
+  },
+  {
+   "ref": "Constantino, 1999a: 402, 416",
+   "note": "Ibitermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 20",
+   "note": "Ibitermes; key."
+  }
+ ],
+ "nrefs": 6
+}

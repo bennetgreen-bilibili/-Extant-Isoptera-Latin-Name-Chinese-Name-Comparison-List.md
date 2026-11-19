@@ -1,0 +1,13 @@
+{
+ "Cephalotermes rectangularis": {
+  "label": "Cephalotermes rectangularis (Sjöstedt, 1899)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85314,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85314/overview",
+  "valid_label": null,
+  "valid_otu": 85314,
+  "verified": false
+ }
+}

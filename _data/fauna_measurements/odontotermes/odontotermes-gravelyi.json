@@ -1,0 +1,78 @@
+{
+ "book_n": "267",
+ "book_name": "粗颚土白蚊 Odontotermes gravelyi",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "粗颚土白蚁兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_width",
+     "value": "2.14–2.57"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.56–0.64"
+    },
+    {
+     "key": "labrum_width",
+     "value": "0.50–0.56"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.81–0.92"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.50–1.72"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.86–2.17"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 1523,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "粗颚土白蚊有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "31.00–33.71"
+    },
+    {
+     "key": "body_length_without_wings",
+     "value": "15.00–16.28"
+    },
+    {
+     "key": "wing_length",
+     "value": "27.00–27.64"
+    },
+    {
+     "key": "ocellus_length",
+     "value": "0.31–0.36"
+    },
+    {
+     "key": "ocellus_width",
+     "value": "0.21–0.29"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.27–0.32"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 1529,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "Afrosubulitermes congoensis": {
+  "label": "Afrosubulitermes congoensis Emerson, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 84276,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84276/overview",
+  "valid_label": null,
+  "valid_otu": 84276,
+  "verified": false
+ }
+}

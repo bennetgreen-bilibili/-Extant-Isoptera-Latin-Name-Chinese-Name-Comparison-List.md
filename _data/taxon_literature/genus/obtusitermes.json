@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "新热带特有属的分布与种类",
+   "heading_en": "Distribution and species of a Neotropical endemic genus",
+   "heading_es": "Distribución y especies de un género endémico neotropical",
+   "paragraphs": [
+    {
+     "text": "据摘要，Cuezzo 与 Cancello（2009）指出钝白蚁属（<i>Obtusitermes</i>）为新热带特有属，分布限于南美北部与中美南部；该属的巴拿马钝白蚁（<i>Obtusitermes panamae</i>）模式产地为巴拿马的 Quipo。",
+     "text_en": "According to the abstract, Cuezzo and Cancello (2009) noted that <i>Obtusitermes</i> is a genus endemic to the Neotropics, restricted to northern South America and southern Central America; the type locality of <i>Obtusitermes panamae</i> is Quipo, Panama.",
+     "text_es": "Según el resumen, Cuezzo y Cancello (2009) señalaron que <i>Obtusitermes</i> es un género endémico del Neotrópico, restringido al norte de América del Sur y al sur de América Central; la localidad tipo de <i>Obtusitermes panamae</i> es Quipo, Panamá.",
+     "src": [
+      "S0355"
+     ]
+    },
+    {
+     "text": "据摘要，该研究据二型兵蚁与多型工蚁描述新种漂亮钝白蚁（<i>Obtusitermes formosulus</i>），标本产自委内瑞拉与特立尼达和多巴哥。",
+     "text_en": "According to the abstract, the study described the new species <i>Obtusitermes formosulus</i> on the basis of the dimorphic soldier and the polymorphic worker, with material from Venezuela and Trinidad and Tobago.",
+     "text_es": "Según el resumen, el estudio describió la especie nueva <i>Obtusitermes formosulus</i> sobre la base del soldado dimórfico y la obrera polimórfica, con material de Venezuela y de Trinidad y Tobago.",
+     "src": [
+      "S0355"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0355",
+   "citation": "Cuezzo, C.; Cancello, E. M. 2009. A new species of Obtusitermes (Isoptera, Termitidae, Nasutitermitinae) from South America. Zootaxa.",
+   "url": "https://doi.org/10.11646/zootaxa.1993.1.6"
+  }
+ ]
+}

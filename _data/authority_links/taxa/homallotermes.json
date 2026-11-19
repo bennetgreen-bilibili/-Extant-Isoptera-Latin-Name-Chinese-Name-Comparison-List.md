@@ -1,0 +1,90 @@
+{
+ "Homallotermes eleanorae": {
+  "gbif": {
+   "key": 9720261,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Homallotermes eleanorae Emerson, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MCTR",
+   "status": "accepted",
+   "label": "Homallotermes eleanorae Emerson, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251936",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Homallotermes exiguus": {
+  "gbif": {
+   "key": 9700069,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Homallotermes exiguus Krishna, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MCTS",
+   "status": "accepted",
+   "label": "Homallotermes exiguus Krishna, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251937",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Homallotermes foraminifer": {
+  "gbif": {
+   "key": 9650522,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Homallotermes foraminifer (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MCTT",
+   "status": "accepted",
+   "label": "Homallotermes foraminifer (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251939",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Homallotermes pilosus": {
+  "gbif": {
+   "key": 9731374,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Homallotermes pilosus (Mathur & Thapa, 1962)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MCTV",
+   "status": "accepted",
+   "label": "Homallotermes pilosus (Mathur & Thapa, 1962)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251940",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "Tumulitermes apiocephalus": {
+  "label": "Tumulitermes apiocephalus (Silvestri, 1909)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84933,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84933/overview",
+  "valid_label": null,
+  "valid_otu": 84933,
+  "verified": false
+ },
+ "Tumulitermes comatus": {
+  "label": "Tumulitermes comatus (Hill, 1942)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84934,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84934/overview",
+  "valid_label": null,
+  "valid_otu": 84934,
+  "verified": false
+ },
+ "Tumulitermes curtus": {
+  "label": "Tumulitermes curtus (Hill, 1942)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84935,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84935/overview",
+  "valid_label": null,
+  "valid_otu": 84935,
+  "verified": false
+ },
+ "Tumulitermes dalbiensis": {
+  "label": "Tumulitermes dalbiensis (Hill, 1942)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84936,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84936/overview",
+  "valid_label": null,
+  "valid_otu": 84936,
+  "verified": false
+ },
+ "Tumulitermes hastilis": {
+  "label": "Tumulitermes hastilis (Froggatt, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84937,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84937/overview",
+  "valid_label": null,
+  "valid_otu": 84937,
+  "verified": false
+ },
+ "Tumulitermes kershawi": {
+  "label": "Tumulitermes kershawi (Hill, 1942)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84938,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84938/overview",
+  "valid_label": null,
+  "valid_otu": 84938,
+  "verified": false
+ },
+ "Tumulitermes marcidus": {
+  "label": "Tumulitermes marcidus (Hill, 1942)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84939,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84939/overview",
+  "valid_label": null,
+  "valid_otu": 84939,
+  "verified": false
+ },
+ "Tumulitermes mareebensis": {
+  "label": "Tumulitermes mareebensis (Hill, 1922)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84940,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84940/overview",
+  "valid_label": null,
+  "valid_otu": 84940,
+  "verified": false
+ },
+ "Tumulitermes nichollsi": {
+  "label": "Tumulitermes nichollsi (Hill, 1942)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84941,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84941/overview",
+  "valid_label": null,
+  "valid_otu": 84941,
+  "verified": false
+ },
+ "Tumulitermes pastinator": {
+  "label": "Tumulitermes pastinator (Hill, 1915)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84942,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84942/overview",
+  "valid_label": null,
+  "valid_otu": 84942,
+  "verified": false
+ },
+ "Tumulitermes peracutus": {
+  "label": "Tumulitermes peracutus (Hill, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84943,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84943/overview",
+  "valid_label": null,
+  "valid_otu": 84943,
+  "verified": false
+ },
+ "Tumulitermes petilus": {
+  "label": "Tumulitermes petilus (Hill, 1942)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84944,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84944/overview",
+  "valid_label": null,
+  "valid_otu": 84944,
+  "verified": false
+ },
+ "Tumulitermes pulleinei": {
+  "label": "Tumulitermes pulleinei (Mjöberg, 1920)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84945,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84945/overview",
+  "valid_label": null,
+  "valid_otu": 84945,
+  "verified": false
+ },
+ "Tumulitermes recalvus": {
+  "label": "Tumulitermes recalvus (Hill, 1942)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84946,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84946/overview",
+  "valid_label": null,
+  "valid_otu": 84946,
+  "verified": false
+ },
+ "Tumulitermes subaquilus": {
+  "label": "Tumulitermes subaquilus (Hill, 1942)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84947,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84947/overview",
+  "valid_label": null,
+  "valid_otu": 84947,
+  "verified": false
+ },
+ "Tumulitermes tumuli": {
+  "label": "Tumulitermes tumuli (Froggatt, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84948,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84948/overview",
+  "valid_label": null,
+  "valid_otu": 84948,
+  "verified": false
+ },
+ "Tumulitermes westraliensis": {
+  "label": "Tumulitermes westraliensis (Hill, 1921)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84949,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84949/overview",
+  "valid_label": null,
+  "valid_otu": 84949,
+  "verified": false
+ }
+}

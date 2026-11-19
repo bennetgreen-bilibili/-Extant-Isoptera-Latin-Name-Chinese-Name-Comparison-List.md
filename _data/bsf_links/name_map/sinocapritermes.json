@@ -1,0 +1,178 @@
+{
+ "Sinocapritermes albipennis": {
+  "label": "Sinocapritermes albipennis (Tsai & Chen, 1963)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85806,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85806/overview",
+  "valid_label": null,
+  "valid_otu": 85806,
+  "verified": false
+ },
+ "Sinocapritermes fujianensis": {
+  "label": "Sinocapritermes fujianensis Ping & Xu, 1986",
+  "match": "exact",
+  "notes": "",
+  "otu": 85807,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85807/overview",
+  "valid_label": null,
+  "valid_otu": 85807,
+  "verified": false
+ },
+ "Sinocapritermes guangxiensis": {
+  "label": "Sinocapritermes guangxiensis Ping & Xu, 1986",
+  "match": "exact",
+  "notes": "",
+  "otu": 85808,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85808/overview",
+  "valid_label": null,
+  "valid_otu": 85808,
+  "verified": false
+ },
+ "Sinocapritermes magnus": {
+  "label": "Sinocapritermes magnus Ping & Xu, 1986",
+  "match": "exact",
+  "notes": "",
+  "otu": 85809,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85809/overview",
+  "valid_label": null,
+  "valid_otu": 85809,
+  "verified": false
+ },
+ "Sinocapritermes mushae": {
+  "label": "Sinocapritermes mushae (Oshima & Maki, 1919)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85810,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85810/overview",
+  "valid_label": null,
+  "valid_otu": 85810,
+  "verified": false
+ },
+ "Sinocapritermes parvulus": {
+  "label": "Sinocapritermes parvulus (Yu & Ping, 1966)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85811,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85811/overview",
+  "valid_label": null,
+  "valid_otu": 85811,
+  "verified": false
+ },
+ "Sinocapritermes planifrons": {
+  "label": "Sinocapritermes planifrons Ping & Xu, 1986",
+  "match": "exact",
+  "notes": "",
+  "otu": 85812,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85812/overview",
+  "valid_label": null,
+  "valid_otu": 85812,
+  "verified": false
+ },
+ "Sinocapritermes pratensis": {
+  "label": "Sinocapritermes pratensis Ping & Xu, 1993",
+  "match": "exact",
+  "notes": "",
+  "otu": 85813,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85813/overview",
+  "valid_label": null,
+  "valid_otu": 85813,
+  "verified": false
+ },
+ "Sinocapritermes sinensis": {
+  "label": "Sinocapritermes sinensis Ping & Xu, 1986",
+  "match": "exact",
+  "notes": "",
+  "otu": 85814,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85814/overview",
+  "valid_label": null,
+  "valid_otu": 85814,
+  "verified": false
+ },
+ "Sinocapritermes sinicus": {
+  "label": "Sinocapritermes sinicus (Li & Xiao, 1989)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85815,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85815/overview",
+  "valid_label": null,
+  "valid_otu": 85815,
+  "verified": false
+ },
+ "Sinocapritermes songtaoensis": {
+  "label": "Sinocapritermes songtaoensis He, 1993",
+  "match": "exact",
+  "notes": "",
+  "otu": 85816,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85816/overview",
+  "valid_label": null,
+  "valid_otu": 85816,
+  "verified": false
+ },
+ "Sinocapritermes tianmuensis": {
+  "label": "Sinocapritermes tianmuensis Gao, 1989",
+  "match": "exact",
+  "notes": "",
+  "otu": 85817,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85817/overview",
+  "valid_label": null,
+  "valid_otu": 85817,
+  "verified": false
+ },
+ "Sinocapritermes vicinus": {
+  "label": "Sinocapritermes vicinus (Xia, Gao, Pan & Tang, 1983)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85818,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85818/overview",
+  "valid_label": null,
+  "valid_otu": 85818,
+  "verified": false
+ },
+ "Sinocapritermes xiai": {
+  "label": "Sinocapritermes xiai Gao & Lam, 1990",
+  "match": "exact",
+  "notes": "",
+  "otu": 85819,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85819/overview",
+  "valid_label": null,
+  "valid_otu": 85819,
+  "verified": false
+ },
+ "Sinocapritermes xiushanensis": {
+  "label": "Sinocapritermes xiushanensis He, 1993",
+  "match": "exact",
+  "notes": "",
+  "otu": 85820,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85820/overview",
+  "valid_label": null,
+  "valid_otu": 85820,
+  "verified": false
+ },
+ "Sinocapritermes yunnanensis": {
+  "label": "Sinocapritermes yunnanensis Ping & Xu, 1986",
+  "match": "exact",
+  "notes": "",
+  "otu": 85821,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85821/overview",
+  "valid_label": null,
+  "valid_otu": 85821,
+  "verified": false
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "肠道纤毛虫新属新种",
+   "heading_en": "A new genus and species of gut ciliate",
+   "heading_es": "Un género y una especie nuevos de ciliado intestinal",
+   "paragraphs": [
+    {
+     "text": "据摘要，Uttangi 与 Desai（1963）在印度达尔瓦尔（Dharwar）所采的栖息突扭白蚁（<i>Dicuspiditermes incola</i>，原文作 <i>Capritermes incola</i> Wasmann）肠道内发现异毛目纤毛虫新属新种 <i>Metaclevelandella termitis</i>（克利夫兰纤毛虫科 Clevelandellidae），并记述其形态与分类；该文把寄主记为白蚁科（Termitidae）的非食木种类。",
+     "text_en": "According to the abstract, Uttangi and Desai (1963) found a new genus and species of heterotrichous ciliate, <i>Metaclevelandella termitis</i> (family Clevelandellidae), in the gut of <i>Dicuspiditermes incola</i> (cited in the original as <i>Capritermes incola</i> Wasmann) from Dharwar, India, and described its morphology and taxonomy; the paper records the host as a non-xylophagous species of Termitidae.",
+     "text_es": "Según el resumen, Uttangi y Desai (1963) hallaron un género y una especie nuevos de ciliado heterótrico, <i>Metaclevelandella termitis</i> (familia Clevelandellidae), en el intestino de <i>Dicuspiditermes incola</i> (citada en el original como <i>Capritermes incola</i> Wasmann) procedente de Dharwar, India, y describieron su morfología y taxonomía; el trabajo registra al hospedador como una especie no xilófaga de Termitidae.",
+     "src": [
+      "S0362"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0362",
+   "citation": "Uttangi, J. C.; Desai, R. N. 1963. Metaclevelandella termitis, a new genus and species of Heterotrichous ciliate (family Clevelandellidae) found in the Indian termite Capritermes incola Wasm. Parasitology.",
+   "url": "https://doi.org/10.1017/s0031182000072504"
+  }
+ ]
+}

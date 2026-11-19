@@ -1,0 +1,35 @@
+{
+ "Allotermes denticulatus": {
+  "label": "Allotermes denticulatus Krishna, 1962",
+  "match": "exact",
+  "notes": "",
+  "otu": 82550,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82550/overview",
+  "valid_label": null,
+  "valid_otu": 82550,
+  "verified": false
+ },
+ "Allotermes papillifer": {
+  "label": "Allotermes papillifer Krishna, 1962",
+  "match": "exact",
+  "notes": "",
+  "otu": 82551,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82551/overview",
+  "valid_label": null,
+  "valid_otu": 82551,
+  "verified": false
+ },
+ "Allotermes paradoxus": {
+  "label": "Allotermes paradoxus Wasmann, 1910",
+  "match": "exact",
+  "notes": "",
+  "otu": 82552,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82552/overview",
+  "valid_label": null,
+  "valid_otu": 82552,
+  "verified": false
+ }
+}

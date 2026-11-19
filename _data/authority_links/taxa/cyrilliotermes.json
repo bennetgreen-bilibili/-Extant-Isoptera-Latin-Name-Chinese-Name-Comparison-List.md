@@ -1,0 +1,90 @@
+{
+ "Cyrilliotermes angulariceps": {
+  "gbif": {
+   "key": 8235015,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cyrilliotermes angulariceps (Mathews, 1977)",
+   "accepted": null
+  },
+  "col": {
+   "id": "33JMF",
+   "status": "accepted",
+   "label": "Cyrilliotermes angulariceps (Mathews, 1977)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237670",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cyrilliotermes brevidens": {
+  "gbif": {
+   "key": 8095776,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cyrilliotermes brevidens Constantino & Carvallo, 2012",
+   "accepted": null
+  },
+  "col": {
+   "id": "33JMG",
+   "status": "accepted",
+   "label": "Cyrilliotermes brevidens Constantino & Carvallo, 2012",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237671",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cyrilliotermes crassinasus": {
+  "gbif": {
+   "key": 7413055,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cyrilliotermes crassinasus Constantino & Carvallo, 2012",
+   "accepted": null
+  },
+  "col": {
+   "id": "33JMH",
+   "status": "accepted",
+   "label": "Cyrilliotermes crassinasus Constantino & Carvallo, 2012",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237672",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cyrilliotermes strictinasus": {
+  "gbif": {
+   "key": 7913896,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cyrilliotermes strictinasus (Mathews, 1977)",
+   "accepted": null
+  },
+  "col": {
+   "id": "33JMJ",
+   "status": "accepted",
+   "label": "Cyrilliotermes strictinasus (Mathews, 1977)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237673",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

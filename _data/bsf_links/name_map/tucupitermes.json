@@ -1,0 +1,13 @@
+{
+ "Tucupitermes ubixaba": {
+  "label": "Tucupitermes ubixaba Almeida-Azevedo, Acioli & de Azevedo, 2025",
+  "match": "exact",
+  "notes": "",
+  "otu": 1138691,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1138691/overview",
+  "valid_label": null,
+  "valid_otu": 1138691,
+  "verified": false
+ }
+}

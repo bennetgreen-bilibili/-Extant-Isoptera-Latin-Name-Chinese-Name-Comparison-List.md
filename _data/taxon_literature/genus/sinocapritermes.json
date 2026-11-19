@@ -1,0 +1,42 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "属的修订起点",
+   "heading_en": "Starting point of the genus revision",
+   "heading_es": "Punto de partida de la revisión del género",
+   "paragraphs": [
+    {
+     "text": "根据 Chiu、Yang 与 Li（2015）研究，华扭白蚁属（<i>Sinocapritermes</i>）以台湾华扭白蚁（<i>Sinocapritermes mushae</i>）为最早描述的种，该种 1919 年以日文简短发表，模式产地为台湾；其余 15 个种均描述自中国大陆，其中多数在与台湾华扭白蚁（<i>Sinocapritermes mushae</i>）比较的基础上建立。该研究以模式产地的多个群体标本，对台湾华扭白蚁（<i>Sinocapritermes mushae</i>）的兵蚁、有翅成虫与工蚁肠瓣重新描述，指出中国文献对原始兵蚁描述的解读不一致，而唯一一份采自中国的有翅成虫标本不足以代表形态变异，进一步造成混淆。（据摘要）",
+     "src": [
+      "S0350"
+     ],
+     "text_en": "In the study by Chiu, Yang and Li (2015), <i>Sinocapritermes</i> takes <i>Sinocapritermes mushae</i> as its first described species, published briefly in Japanese in 1919 with Taiwan as type locality; the other 15 species were all described from mainland China and most were established by comparison with <i>Sinocapritermes mushae</i>. Using samples from several colonies at the type locality, the study redescribes the soldier, the winged imago and the worker enteric valve of <i>Sinocapritermes mushae</i>, noting that the original soldier description has been interpreted inconsistently in the Chinese literature and that the single winged imago collected in China is insufficient to represent the morphological variation, adding further confusion. (According to the abstract.)",
+     "text_es": "En el estudio de Chiu, Yang y Li (2015), <i>Sinocapritermes</i> tiene como primera especie descrita a <i>Sinocapritermes mushae</i>, publicada brevemente en japonés en 1919 con Taiwán como localidad tipo; las otras 15 especies se describieron todas de China continental y la mayoría se establecieron por comparación con <i>Sinocapritermes mushae</i>. Con muestras de varias colonias de la localidad tipo, el estudio redescribe el soldado, el imago alado y la válvula entérica del obrero de <i>Sinocapritermes mushae</i>, y señala que la descripción original del soldado se ha interpretado de forma inconsistente en la literatura china y que el único imago alado recolectado en China es insuficiente para representar la variación morfológica, lo que añadió más confusión. (Según el resumen.)"
+    }
+   ]
+  },
+  {
+   "heading": "五个中国种的异名提议",
+   "heading_en": "Five Chinese species proposed as synonyms",
+   "heading_es": "Cinco especies chinas propuestas como sinónimos",
+   "paragraphs": [
+    {
+     "text": "同一研究以形态测量比较了中国大陆的 5 个种：中华华扭白蚁（<i>Sinocapritermes sinensis</i>，Ping 与 Xu 描述）、松桃华扭白蚁（<i>Sinocapritermes songtaoensis</i>，He 描述）、天目华扭白蚁（<i>Sinocapritermes tianmuensis</i>，Gao 描述）、滇华扭白蚁（<i>Sinocapritermes yunnanensis</i>，原文拼作 yuannensis，Ping 与 Xu 描述）与夏氏华扭白蚁（<i>Sinocapritermes xiai</i>，Gao 与 Lam 描述），认为这 5 个种与台湾华扭白蚁（<i>Sinocapritermes mushae</i>）无显著差异，据此提议将它们作为后者的次异名；该研究同时指出，区分中国大陆各种的多数定性特征因种内变异幅度大而无效，华扭白蚁属（<i>Sinocapritermes</i>）需要进一步修订。（据摘要）",
+     "src": [
+      "S0350"
+     ],
+     "text_en": "The same study compared morphometric data for five species described from mainland China: <i>Sinocapritermes sinensis</i> (Ping & Xu), <i>Sinocapritermes songtaoensis</i> (He), <i>Sinocapritermes tianmuensis</i> (Gao), <i>Sinocapritermes yunnanensis</i> (spelled yuannensis in the paper; Ping & Xu) and <i>Sinocapritermes xiai</i> (Gao & Lam), found no significant difference from <i>Sinocapritermes mushae</i> and therefore proposed all five as junior synonyms of the latter; the study also points out that most qualitative characters used to separate the Chinese species are invalid because intraspecific variation is large, and that a further revision of <i>Sinocapritermes</i> is needed. (According to the abstract.)",
+     "text_es": "El mismo estudio comparó datos morfométricos de cinco especies descritas de China continental: <i>Sinocapritermes sinensis</i> (Ping & Xu), <i>Sinocapritermes songtaoensis</i> (He), <i>Sinocapritermes tianmuensis</i> (Gao), <i>Sinocapritermes yunnanensis</i> (escrita yuannensis en el artículo; Ping & Xu) y <i>Sinocapritermes xiai</i> (Gao & Lam), no halló diferencias significativas con <i>Sinocapritermes mushae</i> y por ello propuso las cinco como sinónimos posteriores de ésta; el estudio señala además que la mayoría de los caracteres cualitativos usados para separar las especies chinas son inválidos porque la variación intraespecífica es amplia, y que se necesita una revisión adicional de <i>Sinocapritermes</i>. (Según el resumen.)"
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0350",
+   "citation": "Chiu, C.-I.; Yang, M.-M.; Li, H.-F. 2015. Redescription of the Soil-Feeding Termite Sinocapritermes mushae (Isoptera: Termitidae: Termitinae): The First Step of Genus Revision. Annals of the Entomological Society of America.",
+   "doi": "10.1093/aesa/sav106"
+  }
+ ]
+}

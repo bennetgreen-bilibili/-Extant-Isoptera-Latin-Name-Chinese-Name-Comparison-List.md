@@ -1,0 +1,42 @@
+{
+ "book_n": "435",
+ "book_name": "高山象白蚁 Nasutitermes takasagoensis",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "高山象白蚁有翅成虫量度( mm)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "15.00–17.00"
+    },
+    {
+     "key": "body_length_without_wings",
+     "value": "7.00–9.00"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.46"
+    },
+    {
+     "key": "labrum_width",
+     "value": "0.52–0.57"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.23–1.43"
+    },
+    {
+     "key": "forewing_length",
+     "value": "11.50–13.70"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 834,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "latin": "Lophotermes",
+ "zh": "小脊突白蚁属",
+ "fetched_at": "2026-10-30T16:53:58Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2125744783",
+   "openalex_url": "https://openalex.org/W2125744783",
+   "doi": "10.11646/zootaxa.1769.1.1",
+   "doi_url": "https://doi.org/10.11646/zootaxa.1769.1.1",
+   "title": "Revision of the Termitinae with snapping soldiers (Isoptera: Termitidae) from New Guinea",
+   "year": 2008,
+   "date": "2008-05-14",
+   "authors": [
+    "Thomas Bourguignon",
+    "Maurice Leponce",
+    "Yves Roisin"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 8,
+   "oa_url": "https://doi.org/10.48580/d42yg.v82",
+   "volume": "1769",
+   "issue": "1",
+   "pages": "",
+   "abstract": "Up to now, three described species of Termitinae with snapping soldier mandibles (the Termes–Capritermes group) were known from New Guinea: Termes odontomachus (Desneux), Macrognathotermes errator Miller and Pericapritermes schultzei (Holmgren). Here, we report the presence of seven additional species, among which three are new to science: Pericapritermes parvus, P. pilosus and P. papuanus. The other four, collected in southern Papuan savannas, were previously known from northern Australia: Ephelotermes paleatus Miller, E. cheeli (Mjöberg), Lophotermes aduncus Miller, and L. brevicephalus Miller. We reassign T. odontomachus to Protocapritermes Holmgren. Diagnostic characters andillustrations are provided for all species. The Oriental affinities of the forest fauna of New Guinea and the similarities between Australian and New Guinean savannas are emphasized.",
+   "abstract_source": "openalex",
+   "abstract_chars": 869,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2018069535",
+   "openalex_url": "https://openalex.org/W2018069535",
+   "doi": "10.1071/it9901147",
+   "doi_url": "https://doi.org/10.1071/it9901147",
+   "title": "A revision of the Termes-Capritermes branch of the Termitinae in Australia (Isoptera : Termitidae)",
+   "year": 1990,
+   "date": "1990-12-01",
+   "authors": [
+    "LR Miller"
+   ],
+   "venue": "Invertebrate Taxonomy",
+   "type": "article",
+   "language": "en",
+   "cited_by": 41,
+   "oa_url": "",
+   "volume": "4",
+   "issue": "6",
+   "pages": "1147-1282",
+   "abstract": "The Australian genera belonging to the Termes-Capritermes branch of the Termitinae are revised. Termes fatalis Linnaeus, the type species of Termes Linnaeus, is redescribed and a neotype soldier designated. Eight new genera and 27 new species are described, 18 species presently assigned to the genus Termes are transferred to other genera, Pericapritermes Silvestri is recorded from Australia for the first time. The phylogeny of the group is discussed and the general biology summarised. A key to the genera and species is given. The Australian genera and species are: Xylochomitermes, gen. nov., X. aspinosus, sp. nov., X. melvillensis (Hill), comb. nov., X. occidualis (Gay), comb. nov., X. punctillus, sp, nov., X. reductus (Gay), comb. nov., X. tomentosus (Gay), comb. nov.; Hesperotermes Gay, H. infrequens (Hill); Apsenterotermes, gen. nov., A. aspersus, sp. nov., A. declinatus, sp. nov., A. iridipennis (Gay), comb. nov., A. improcerus, sp. nov., A. stenopronos, sp. nov.; Ephelotermes, gen. nov., E. argutus (Hill), comb. nov., E. cheeli (Mjoberg), comb. nov., E. melachoma, sp. nov., E. paleatus sp. nov., E. persimilis (Gay), comb. nov., E. taylori (Hill), comb. nov.; Ekphysotermes Gay, E. jarmuranus (Hill), comb. nov., E. kalgoorliensis (Hill), E. ocellaris (Mjoberg), E. pelatus (Hill), E. percomis (Hill); Cristatitermes, gen. nov., C. arenicola, sp. nov., C. barretti, sp. nov., C. carinatus, sp. nov., C. froggatti (Hill), comb. nov., C. pineaformis, sp. nov., C. tutulatus, sp. nov.; Lophotermes, gen. nov., L. aduncus, sp. nov., L. brevicephalus, sp. nov., L. crinitus, sp. nov., L. leptognathus, sp. nov., L. parvicornis, sp. nov., L. pectinatus, sp. nov., L. pusillus, sp, nov., L. quadratus (Hill), comb. nov., L. septentrionalis (Hill), comb. nov.; Saxatilitermes, gen. nov., S. saxatilis, sp. nov.; Hapsidotermes, gen. nov., H. harrisi (Mjöberg), comb. nov., H. labellus, sp. nov., H. longius, sp. nov., H. maideni (Mjoberg), comb. nov., H. orbus (Hill), comb. nov.; Macrognathotermes, gen. nov., M. broomensis (Mjöberg), comb. nov., M. errator, sp. nov., M. prolatus, sp. nov., M. sunteri (Hill), comb. nov.; Paracapritermes Hill, P. kraepelinii (Silvestri), P. primus Hill, P. prolixus, sp. nov., P. secundus, sp. nov.; Protocapriterrnes Holmgren, P. krisiformis (Froggatt); Pericapritermes Silvestri, Pericapritermes sp.",
+   "abstract_source": "openalex",
+   "abstract_chars": 2350,
+   "abstract_truncated": false
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+ "Anoplotermes banksi": [
+  {
+   "source": "commons",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Termitidae_%2810.3897-zookeys.665.11599%29_Figure_1.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Termitidae_%2810.3897-zookeys.665.11599%29_Figure_1.jpg/960px-Termitidae_%2810.3897-zookeys.665.11599%29_Figure_1.jpg",
+   "width": 1512,
+   "height": 1753,
+   "credit": "Scheffrahn RH, Carrijo TF, Postle AC, Tonini F (2017) Disjunctitermes insularis, a new soldierless termite genus and species (Isoptera, Termitidae, Apicoterm...",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Termitidae_(10.3897-zookeys.665.11599)_Figure_1.jpg"
+  },
+  {
+   "source": "commons",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Termitidae_%2810.3897-zookeys.665.11599%29_Figure_3.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Termitidae_%2810.3897-zookeys.665.11599%29_Figure_3.jpg/960px-Termitidae_%2810.3897-zookeys.665.11599%29_Figure_3.jpg",
+   "width": 1512,
+   "height": 994,
+   "credit": "Scheffrahn RH, Carrijo TF, Postle AC, Tonini F (2017) Disjunctitermes insularis, a new soldierless termite genus and species (Isoptera, Termitidae, Apicoterm...",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Termitidae_(10.3897-zookeys.665.11599)_Figure_3.jpg"
+  }
+ ],
+ "Anoplotermes fumosus": [
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/603073700/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/603073700/medium.jpg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Brendan O'Loughlin, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/332322263"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/603073702/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/603073702/medium.jpg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Brendan O'Loughlin, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/332322263"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/483238044/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/483238044/medium.jpg",
+   "width": 1024,
+   "height": 1024,
+   "credit": "(c) Chet Burrier, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/268814245"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/483238047/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/483238047/medium.jpg",
+   "width": 1024,
+   "height": 1024,
+   "credit": "(c) Chet Burrier, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/268814245"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/452097810/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/452097810/medium.jpeg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) Tanner Shepard, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/252541129"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/426174265/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/426174265/medium.jpeg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) Tanner Shepard, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/239301714"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/37203425/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/37203425/medium.jpg",
+   "width": 1024,
+   "height": 778,
+   "credit": "(c) Zinogre, some rights reserved (CC BY-SA)",
+   "license": "CC BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://www.inaturalist.org/observations/24055762"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/37203282/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/37203282/medium.jpg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) Zinogre, some rights reserved (CC BY-SA)",
+   "license": "CC BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://www.inaturalist.org/observations/24055762"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/603074219/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/603074219/medium.jpg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Brendan O'Loughlin, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/332322263"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/37203363/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/37203363/medium.jpg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) Zinogre, some rights reserved (CC BY-SA)",
+   "license": "CC BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://www.inaturalist.org/observations/24055762"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/37203332/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/37203332/medium.jpg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) Zinogre, some rights reserved (CC BY-SA)",
+   "license": "CC BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://www.inaturalist.org/observations/24055762"
+  }
+ ],
+ "Anoplotermes pacificus": [
+  {
+   "source": "commons",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Termitidae_%2810.3897-zookeys.665.11599%29_Figure_3.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Termitidae_%2810.3897-zookeys.665.11599%29_Figure_3.jpg/960px-Termitidae_%2810.3897-zookeys.665.11599%29_Figure_3.jpg",
+   "width": 1512,
+   "height": 994,
+   "credit": "Scheffrahn RH, Carrijo TF, Postle AC, Tonini F (2017) Disjunctitermes insularis, a new soldierless termite genus and species (Isoptera, Termitidae, Apicoterm...",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Termitidae_(10.3897-zookeys.665.11599)_Figure_3.jpg"
+  }
+ ]
+}

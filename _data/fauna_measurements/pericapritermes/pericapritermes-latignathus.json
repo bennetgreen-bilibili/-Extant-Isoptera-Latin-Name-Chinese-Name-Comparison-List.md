@@ -1,0 +1,148 @@
+{
+ "book_n": "376",
+ "book_name": "多毛近扭白蚁 Pericapritermes latignathus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "多毛近扭白蚊兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.63",
+     "value": "1.50–1.72"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.92",
+     "value": "1.76–2.08"
+    },
+    {
+     "key": "right_mandible_length",
+     "mean": "1.77",
+     "value": "1.61–1.92"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.84",
+     "value": "1.76–1.97"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.96",
+     "value": "0.88–1.06"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 1066,
+   "unit": "mm"
+  },
+  {
+   "caste": "soldier",
+   "heading": "近扭白蚊兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_mandibles",
+     "value": "3.48–3.62"
+    },
+    {
+     "key": "head_length_without_mandibles",
+     "value": "2.20–2.23"
+    },
+    {
+     "key": "head_width",
+     "value": "1.00–1.13"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.63–0.73"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.30–0.33"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 1086,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "近扭白蚊有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "11.00–11.50"
+    },
+    {
+     "key": "body_length_without_wings",
+     "value": "6.00–6.50"
+    },
+    {
+     "key": "wing_length",
+     "value": "9.80–10.00"
+    },
+    {
+     "key": "ocellus_length",
+     "value": "0.12–0.15"
+    },
+    {
+     "key": "ocellus_width",
+     "value": "0.09–0.10"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.10–0.11"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 1093,
+   "unit": "mm"
+  },
+  {
+   "caste": "soldier",
+   "heading": "平扁近扭白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.43",
+     "value": "1.40–1.48"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.21",
+     "value": "1.19–1.22"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.40",
+     "value": "0.39–0.41"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.85",
+     "value": "0.82–0.87"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.25",
+     "value": "1.22–1.26"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 1111,
+   "unit": "mm"
+  }
+ ]
+}

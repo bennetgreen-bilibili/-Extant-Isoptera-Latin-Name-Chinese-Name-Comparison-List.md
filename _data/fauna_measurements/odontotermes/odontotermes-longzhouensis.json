@@ -1,0 +1,58 @@
+{
+ "book_n": "276",
+ "book_name": "上林土白蚁 Odontotermes shanglinensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "上林土白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.00",
+     "value": "1.87–2.09"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.69",
+     "value": "1.60–1.79"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.07",
+     "value": "1.04–1.13"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.22",
+     "value": "1.13–1.25"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.73",
+     "value": "0.71–0.76"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.58",
+     "value": "0.54–0.63"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.14",
+     "value": "1.08–1.21"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.58",
+     "value": "1.50–1.67"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 161,
+   "unit": "mm"
+  }
+ ]
+}

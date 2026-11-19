@@ -1,0 +1,25 @@
+{
+ "zh_name": "同钩白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫未知。兵蚁头长方形，长大于宽；上颚短，具 1 枚后指的齿；后唇基简单、非二叶状；囟不明显；触角 13–14 节。工蚁后唇基大，触角 13–14 节。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头长方形，长大于宽；上颚短，具 1 枚向后指的齿；后唇基简单，不呈二叶状；囟不明显；触角 13–14 节。"
+  },
+  {
+   "label": "工蚁",
+   "text": "后唇基大；触角 13–14 节。"
+  }
+ ],
+ "note": "原文以 HAMITERMES 的亚属提出（Untergattung Synhamitermes），且属征极简（兵蚁 4 项、工蚁 2 项），此处照录，不补充原文未写的内容。",
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+   "locator": "p. 91（Untergattung Synhamitermes）"
+  }
+ ]
+}

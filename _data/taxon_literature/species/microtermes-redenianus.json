@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "研究记述",
+   "heading_en": "Research notes",
+   "heading_es": "Notas de investigación",
+   "paragraphs": [
+    {
+     "text": "据摘要，同一项坦噶尼喀南部调查中，雷登小白蚁（<i>Microtermes redenianus</i>）在 50×24 ft、深 6 ft 的坑内有 166 个被占用的巢室，其巢室与部白小白蚁（<i>Microtermes albopartitus</i>）一样近随机散布。",
+     "text_en": "According to the abstract, in the same survey in southern Tanganyika, <i>Microtermes redenianus</i> had 166 occupied nest chambers in a pit measuring 50×24 ft and 6 ft deep, and its chambers, like those of <i>Microtermes albopartitus</i>, were scattered almost at random.",
+     "text_es": "Según el resumen, en el mismo estudio del sur de Tanganica, <i>Microtermes redenianus</i> presentó 166 cámaras de nido ocupadas en una excavación de 50×24 ft y 6 ft de profundidad, y sus cámaras, como las de <i>Microtermes albopartitus</i>, estaban dispersas casi al azar.",
+     "src": [
+      "S0193"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0193",
+   "citation": "M. Bigger 1966 The biology and control of termites damaging field crops in Tanganyika. Bulletin of Entomological Research.",
+   "doi": "10.1017/s0007485300056509"
+  }
+ ]
+}

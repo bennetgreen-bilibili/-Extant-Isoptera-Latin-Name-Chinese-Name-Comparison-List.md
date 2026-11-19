@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-11",
+ "sections": [
+  {
+   "heading": "消化道细菌的分布与数量",
+   "paragraphs": [
+    {
+     "text": "据摘要，Bignell 等（1980）对阿布里原方白蚁（Procubitermes aburiensis）消化道细菌进行计数和电镜观察，发现从嗉囊到直肠的微生物总量增加 3–4 倍；丝状放线菌在多数肠段占重要比例，并可与中肠、混合段和结肠壁形成新型结合；非丝状杆菌主要定殖于第一后肠段和结肠，并在第三后肠段内容物中大量出现。",
+     "src": [
+      "S0152"
+     ],
+     "text_en": "According to the abstract, Bignell et al. (1980) counted and examined by electron microscopy the bacteria in the gut of Procubitermes aburiensis, and found that the total microbial population increases 3–4-fold from the crop to the rectum; filamentous actinomycetes form an important proportion in most gut regions and can form a novel association with the walls of the midgut, mixed segment and colon; non-filamentous rod-shaped bacteria colonise mainly the first proctodeal segment and the colon, and occur in large numbers in the contents of the third proctodeal segment.",
+     "text_es": "Según el resumen, Bignell et al. (1980) cuantificaron y observaron al microscopio electrónico las bacterias del tubo digestivo de Procubitermes aburiensis, y hallaron que el total de microorganismos aumenta de 3 a 4 veces desde el buche hasta el recto; las actinobacterias filamentosas representan una proporción importante en la mayoría de los segmentos intestinales y pueden establecer nuevas asociaciones con las paredes del intestino medio, el segmento mixto y el colon, mientras que los bacilos no filamentosos colonizan principalmente el primer segmento posterior del intestino y el colon, y aparecen en gran número en el contenido del tercer segmento posterior."
+    }
+   ],
+   "heading_en": "Distribution and abundance of gut bacteria",
+   "heading_es": "Distribución y abundancia de bacterias en el tubo digestivo"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0152",
+   "citation": "Bignell, D. E.; Oskarsson, H.; Anderson, J. M. 1980. Distribution and abundance of bacteria in the gut of a soil-feeding termite Procubitermes aburiensis (Termitidae, Termitinae). Microbiology 117(2).",
+   "doi": "10.1099/00221287-117-2-393"
+  }
+ ]
+}

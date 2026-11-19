@@ -36,7 +36,8 @@ at six photos.
 
 Output
 ------
-_data/species_photos.json  (committed; doubles as the resumable cache)
+_data/species_photos/      (committed; doubles as the resumable cache)
+                           meta.json + species/<属>.json
 
     {"meta": {"generated", "license_policy", "photo_set_version", "sources",
               "counts", "no_photos"},
@@ -72,6 +73,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import sys
 import threading
@@ -85,8 +87,10 @@ from html.parser import HTMLParser
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT / "_tools"))
+import shard_io  # noqa: E402
 SPECIES_DIR = ROOT / "_species"
-OUT = ROOT / "_data" / "species_photos.json"
+DATA_NAME = "species_photos"
 
 PROJECT_URL = ("https://termite-extant-isoptera.org/"
                "-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md")
@@ -644,10 +648,9 @@ def read_names_file(path):
 
 
 def load_existing():
-    if not OUT.is_file():
+    if not shard_io.exists(DATA_NAME):
         return {}, {key: set() for key in ("inaturalist", "commons")}, {}
-    with OUT.open("r", encoding="utf-8") as handle:
-        payload = json.load(handle)
+    payload = shard_io.load(DATA_NAME)
     meta = payload.get("meta") or {}
     no_photos = meta.get("no_photos") or {}
     return (payload.get("species") or {},
@@ -810,25 +813,17 @@ def assemble(species, searched, no_photos, generated,
 
 
 def write_payload(payload):
-    if OUT.is_file():
+    if shard_io.exists(DATA_NAME):
         try:
-            with OUT.open("r", encoding="utf-8") as handle:
-                previous = json.load(handle)
+            previous = shard_io.load(DATA_NAME)
             if comparable(previous) == comparable(payload):
                 payload["meta"]["generated"] = (previous.get("meta") or {}).get("generated") \
                     or payload["meta"]["generated"]
-        except (json.JSONDecodeError, OSError, AttributeError):
+        except (OSError, AttributeError):
             pass
-    OUT.parent.mkdir(parents=True, exist_ok=True)
-    # atomic replace: a checkpoint must never be seen half-written by Jekyll or
-    # --check, and a hard kill cannot leave a stray file next to the data file
-    scratch = ROOT / "_tmp"
-    scratch.mkdir(parents=True, exist_ok=True)
-    temporary = scratch / (OUT.name + ".tmp")
-    with temporary.open("w", encoding="utf-8", newline="\n") as handle:
-        json.dump(payload, handle, ensure_ascii=False, indent=1, sort_keys=False)
-        handle.write("\n")
-    temporary.replace(OUT)
+    # one file per genus: an interrupted run leaves whole shards, never a
+    # half-written aggregate (the shard writer rewrites only changed files)
+    return shard_io.save(DATA_NAME, payload)
 
 
 # ------------------------------------------------------------- validation
@@ -947,7 +942,7 @@ def main(argv=None):
         description=("Collect openly licensed photos (CC0 / CC BY / CC BY-SA / "
                      "public domain) for the termite checklist."))
     parser.add_argument("--write", action="store_true",
-                        help="write _data/species_photos.json")
+                        help="write _data/species_photos/ shards")
     parser.add_argument("--check", action="store_true",
                         help="re-validate the committed JSON (schema, licence allowlist, counts)")
     parser.add_argument("--limit", type=int, default=0, help="process at most N taxa this run")
@@ -991,14 +986,13 @@ def main(argv=None):
     carry_version = 1 if stale else PHOTO_SET_VERSION
 
     if args.check:
-        if not OUT.is_file():
-            print("%s does not exist" % OUT.relative_to(ROOT), file=sys.stderr)
+        if not shard_io.exists(DATA_NAME):
+            print("_data/%s/ does not exist" % DATA_NAME, file=sys.stderr)
             return 1
         try:
-            with OUT.open("r", encoding="utf-8") as handle:
-                payload = json.load(handle)
-        except (json.JSONDecodeError, OSError) as exc:
-            print("invalid JSON: %s" % exc, file=sys.stderr)
+            payload = shard_io.load(DATA_NAME)
+        except (OSError, ValueError) as exc:
+            print("invalid shards: %s" % exc, file=sys.stderr)
             return 1
         problems = validate(payload, known)
         if problems:
@@ -1014,7 +1008,7 @@ def main(argv=None):
                   file=sys.stderr)
         print("OK: %s - %d species with photos (%d iNaturalist + %d Commons), "
               "%d taxa searched"
-              % (OUT.relative_to(ROOT), counts["species_with_photos"],
+              % ("_data/%s/" % DATA_NAME, counts["species_with_photos"],
                  counts["photos"]["inaturalist"], counts["photos"]["commons"],
                  counts.get("species_searched", 0)))
         return 0
@@ -1133,13 +1127,19 @@ def main(argv=None):
         return 1
 
     if args.write:
-        write_payload(payload)
+        written, removed = write_payload(payload)
         counts = payload["meta"]["counts"]
-        print("wrote %s: %d species with photos (%d iNaturalist + %d Commons), "
-              "%d taxa searched, %.1f KB"
-              % (OUT.relative_to(ROOT), counts["species_with_photos"],
+        on_disk = sum(
+            os.path.getsize(os.path.join(here, fn))
+            for here, _dirs, files in os.walk(ROOT / "_data" / DATA_NAME)
+            for fn in files if fn.endswith(".json")
+        )
+        print("wrote _data/%s/: %d species with photos (%d iNaturalist + %d Commons), "
+              "%d taxa searched, %.1f KB (%d shard(s) written, %d removed)"
+              % (DATA_NAME, counts["species_with_photos"],
                  counts["photos"]["inaturalist"], counts["photos"]["commons"],
-                 counts["species_searched"], OUT.stat().st_size / 1024))
+                 counts["species_searched"], on_disk / 1024,
+                 len(written), len(removed)))
     else:
         counts = payload["meta"]["counts"]
         print("dry-run (no --write): %d species with photos (%d iNaturalist + %d Commons), "

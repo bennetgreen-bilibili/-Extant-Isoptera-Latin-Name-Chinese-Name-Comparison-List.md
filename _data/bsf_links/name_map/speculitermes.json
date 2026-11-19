@@ -1,0 +1,145 @@
+{
+ "Speculitermes angustigulus": {
+  "label": "Speculitermes angustigulus He, 1985",
+  "match": "exact",
+  "notes": "",
+  "otu": 84141,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84141/overview",
+  "valid_label": null,
+  "valid_otu": 84141,
+  "verified": false
+ },
+ "Speculitermes chadaensis": {
+  "label": "Speculitermes chadaensis Chatterjee & Thapa, 1964",
+  "match": "exact",
+  "notes": "",
+  "otu": 84142,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84142/overview",
+  "valid_label": null,
+  "valid_otu": 84142,
+  "verified": false
+ },
+ "Speculitermes cyclops": {
+  "label": "Speculitermes cyclops Wasmann, 1902",
+  "match": "exact",
+  "notes": "",
+  "otu": 84143,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84143/overview",
+  "valid_label": null,
+  "valid_otu": 84143,
+  "verified": false
+ },
+ "Speculitermes deccanensis": {
+  "label": "Speculitermes deccanensis Roonwal & Chhotani, 1962",
+  "match": "exact",
+  "notes": "",
+  "otu": 84144,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84144/overview",
+  "valid_label": null,
+  "valid_otu": 84144,
+  "verified": false
+ },
+ "Speculitermes dharwarensis": {
+  "label": "Speculitermes dharwarensis Roonwal & Chhotani, 1964",
+  "match": "exact",
+  "notes": "",
+  "otu": 84145,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84145/overview",
+  "valid_label": null,
+  "valid_otu": 84145,
+  "verified": false
+ },
+ "Speculitermes emersoni": {
+  "label": "Speculitermes emersoni Bose, 1984",
+  "match": "exact",
+  "notes": "",
+  "otu": 84146,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84146/overview",
+  "valid_label": null,
+  "valid_otu": 84146,
+  "verified": false
+ },
+ "Speculitermes goesswaldi": {
+  "label": "Speculitermes goesswaldi Roonwal & Chhotani, 1964",
+  "match": "exact",
+  "notes": "",
+  "otu": 84147,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84147/overview",
+  "valid_label": null,
+  "valid_otu": 84147,
+  "verified": false
+ },
+ "Speculitermes latalabrum": {
+  "label": "Speculitermes latalabrum Aiswarya & Amina, 2026",
+  "match": "exact",
+  "notes": "",
+  "otu": 1382704,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1382704/overview",
+  "valid_label": null,
+  "valid_otu": 1382704,
+  "verified": false
+ },
+ "Speculitermes macrodentatus": {
+  "label": "Speculitermes macrodentatus Ahmad, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 84148,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84148/overview",
+  "valid_label": null,
+  "valid_otu": 84148,
+  "verified": false
+ },
+ "Speculitermes paivai": {
+  "label": "Speculitermes paivai Roonwal & Chhotani, 1962",
+  "match": "exact",
+  "notes": "",
+  "otu": 84149,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84149/overview",
+  "valid_label": null,
+  "valid_otu": 84149,
+  "verified": false
+ },
+ "Speculitermes roonwali": {
+  "label": "Speculitermes roonwali Maiti, 1983",
+  "match": "exact",
+  "notes": "",
+  "otu": 84150,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84150/overview",
+  "valid_label": null,
+  "valid_otu": 84150,
+  "verified": false
+ },
+ "Speculitermes sinhalensis": {
+  "label": "Speculitermes sinhalensis Roonwal & Sen-Sarma, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 84151,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84151/overview",
+  "valid_label": null,
+  "valid_otu": 84151,
+  "verified": false
+ },
+ "Speculitermes triangularis": {
+  "label": "Speculitermes triangularis Roonwal & Sen-Sarma, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 84152,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84152/overview",
+  "valid_label": null,
+  "valid_otu": 84152,
+  "verified": false
+ }
+}

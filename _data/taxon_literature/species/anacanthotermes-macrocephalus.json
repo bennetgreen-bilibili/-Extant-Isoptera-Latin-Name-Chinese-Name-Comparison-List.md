@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "分类与异名",
+   "paragraphs": [
+    {
+     "text": "根据 Roonwal & Bose（1988）研究，大头无刺白蚁（Anacanthotermes macrocephalus）原由 Desneux（1906）以草白蚁属（Hodotermes）的旧组合 Hodotermes macrocephalus（现归入大头无刺白蚁）描述，模式产地为信德（卡拉奇及附近），文中将其归入无刺白蚁属（Anacanthotermes），并把无刺白蚁属的旧异名 Anacanthotermes peshawarensis（现归入大头无刺白蚁）列为次异名；英文名为 North Indian Harvester Termite。",
+     "src": [
+      "S0105"
+     ],
+     "text_en": "According to Roonwal & Bose's (1988) study, Anacanthotermes macrocephalus was originally described by Desneux (1906) as Hodotermes macrocephalus (an old combination in Hodotermes, now placed in Anacanthotermes macrocephalus), with the type locality in Sind (Karachi and vicinity); the paper assigns it to Anacanthotermes and lists the old synonym of Anacanthotermes, Anacanthotermes peshawarensis (now placed in Anacanthotermes macrocephalus), as a junior synonym; its English name is North Indian Harvester Termite.",
+     "text_es": "Según el estudio de Roonwal y Bose (1988), Anacanthotermes macrocephalus fue descrita originalmente por Desneux (1906) con la combinación antigua Hodotermes macrocephalus (hoy incluida en Anacanthotermes macrocephalus), con localidad tipo en Sind (Karachi y alrededores); el trabajo la asigna al género Anacanthotermes y considera sinónimo junior el antiguo sinónimo Anacanthotermes peshawarensis (hoy incluido en Anacanthotermes macrocephalus); su nombre común en inglés es North Indian Harvester Termite."
+    }
+   ],
+   "heading_en": "Taxonomy and synonymy",
+   "heading_es": "Taxonomía y sinonimia"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0105",
+   "citation": "Roonwal, M. L. & Bose, G. 1988. The Harvester Termites (Anacanthotermes) of the Indian Region. Identity, Distribution and Biology (Isoptera, Hodotermitidae). Records of the Zoological Survey of India, Miscellaneous Publication, Occasional Paper No. 111.",
+   "url": "https://archive.org/details/dli.zoological.occpapers.111"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "Longipeditermes kistneri": {
+  "gbif": {
+   "key": 9778594,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Longipeditermes kistneri Akhtar & Ahmad, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "3VYTJ",
+   "status": "accepted",
+   "label": "Longipeditermes kistneri Akhtar & Ahmad, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q100310670",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Longipeditermes longipes": {
+  "gbif": {
+   "key": 9724642,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Longipeditermes longipes (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3VYTK",
+   "status": "accepted",
+   "label": "Longipeditermes longipes (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q100310105",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -97,7 +97,8 @@ defaults:
       path: "AGENTS.md"
     values:
       sitemap: false
-  # 站点内部索引：给以后改站的 AI / 维护者用的入口表，不是给读者看的页面
+  # 站点内部索引：给以后改站的 AI / 维护者用的入口表，不是给读者看的页面（无 front matter，
+  # 已在 exclude 里排除出构建产物；此默认值只在它将来带上 front matter 时生效）
   -
     scope:
       path: "SITE-INDEX.md"
@@ -114,6 +115,7 @@ defaults:
 # 这里排除的是「不该被公开下载」的本地产物，与上面 defaults 里的 sitemap:false
 # 不是一回事——sitemap:false 只是不进 sitemap.xml，文件照样发布；exclude 才真不发。
 # 刻意不排除 dataset/（站内仍有链接，见上面第 68 行注释）。
+# `_data/` 以 `_` 开头，Jekyll 本来就不发布（含 `_data/<数据集>/` 分片目录），无需进 exclude。
 # 注意：一旦写了 exclude，Jekyll 的内置默认排除表会被整份替换；本站根目录没有
 # Gemfile / node_modules / vendor 这几样，所以只需要列出我们自己要挡的东西。
 # ---------------------------------------------------------------------------
@@ -125,6 +127,7 @@ exclude:
   - "undefined"
   - "nul"
   - "未发布内容"
+  - "SITE-INDEX.md"   # 站点内部索引：维护者与 AI 的入口表，不发布
 
 plugins:
   - jekyll-seo-tag

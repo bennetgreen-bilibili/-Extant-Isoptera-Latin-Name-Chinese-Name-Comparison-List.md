@@ -1,0 +1,90 @@
+{
+ "Furculitermes brevilabius": {
+  "label": "Furculitermes brevilabius Emerson, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 85070,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85070/overview",
+  "valid_label": null,
+  "valid_otu": 85070,
+  "verified": false
+ },
+ "Furculitermes brevimalatus": {
+  "label": "Furculitermes brevimalatus Emerson, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 85071,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85071/overview",
+  "valid_label": null,
+  "valid_otu": 85071,
+  "verified": false
+ },
+ "Furculitermes cubitalis": {
+  "label": "Furculitermes cubitalis Emerson, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 85072,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85072/overview",
+  "valid_label": null,
+  "valid_otu": 85072,
+  "verified": false
+ },
+ "Furculitermes hendrickxi": {
+  "label": "Furculitermes hendrickxi Emerson, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 85073,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85073/overview",
+  "valid_label": null,
+  "valid_otu": 85073,
+  "verified": false
+ },
+ "Furculitermes longilabius": {
+  "label": "Furculitermes longilabius Emerson, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 85074,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85074/overview",
+  "valid_label": null,
+  "valid_otu": 85074,
+  "verified": false
+ },
+ "Furculitermes parviceps": {
+  "label": "Furculitermes parviceps Emerson, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 85075,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85075/overview",
+  "valid_label": null,
+  "valid_otu": 85075,
+  "verified": false
+ },
+ "Furculitermes soyeri": {
+  "label": "Furculitermes soyeri Emerson, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 85076,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85076/overview",
+  "valid_label": null,
+  "valid_otu": 85076,
+  "verified": false
+ },
+ "Furculitermes winifredae": {
+  "label": "Furculitermes winifredae Emerson, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 85077,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85077/overview",
+  "valid_label": null,
+  "valid_otu": 85077,
+  "verified": false
+ }
+}

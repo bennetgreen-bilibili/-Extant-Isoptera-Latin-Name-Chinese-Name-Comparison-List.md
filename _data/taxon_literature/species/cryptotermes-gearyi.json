@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "据摘要，Gay 与 Watson（1982）讨论澳大利亚堆砂白蚁属（<i>Cryptotermes</i>）的 4 个特有种，吉尔里堆砂白蚁（<i>Cryptotermes gearyi</i>）是其中之一。",
+     "text_en": "According to the abstract, Gay and Watson (1982) discussed four endemic Australian species of <i>Cryptotermes</i>, and <i>Cryptotermes gearyi</i> is one of them.",
+     "text_es": "Según el resumen, Gay y Watson (1982) discutieron cuatro especies endémicas de Australia del género <i>Cryptotermes</i>, y <i>Cryptotermes gearyi</i> es una de ellas.",
+     "src": [
+      "S0187"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0187",
+   "citation": "F. J. Gay; J. A. L. Watson 1982 The genus Cryptotermes in Australia (Isoptera : Kalotermitidae). Australian Journal of Zoology Supplementary Series.",
+   "doi": "10.1071/ajzs088"
+  }
+ ]
+}

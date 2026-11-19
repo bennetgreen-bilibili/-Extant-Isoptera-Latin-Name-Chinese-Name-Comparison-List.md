@@ -1,0 +1,112 @@
+{
+ "Eremotermes arctus": {
+  "label": "Eremotermes arctus Spaeth, 1964",
+  "match": "exact",
+  "notes": "",
+  "otu": 85407,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85407/overview",
+  "valid_label": null,
+  "valid_otu": 85407,
+  "verified": false
+ },
+ "Eremotermes dehraduni": {
+  "label": "Eremotermes dehraduni Roonwal & Sen-Sarma, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 85408,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85408/overview",
+  "valid_label": null,
+  "valid_otu": 85408,
+  "verified": false
+ },
+ "Eremotermes fletcheri": {
+  "label": "Eremotermes fletcheri Holmgren & Holmgren, 1917",
+  "match": "exact",
+  "notes": "",
+  "otu": 85409,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85409/overview",
+  "valid_label": null,
+  "valid_otu": 85409,
+  "verified": false
+ },
+ "Eremotermes indicatus": {
+  "label": "Eremotermes indicatus Silvestri, 1911",
+  "match": "exact",
+  "notes": "",
+  "otu": 85410,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85410/overview",
+  "valid_label": null,
+  "valid_otu": 85410,
+  "verified": false
+ },
+ "Eremotermes madrasicus": {
+  "label": "Eremotermes madrasicus Roonwal & Sen-Sarma, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 85411,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85411/overview",
+  "valid_label": null,
+  "valid_otu": 85411,
+  "verified": false
+ },
+ "Eremotermes nanus": {
+  "label": "Eremotermes nanus Harris, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 85412,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85412/overview",
+  "valid_label": null,
+  "valid_otu": 85412,
+  "verified": false
+ },
+ "Eremotermes neoparadoxalis": {
+  "label": "Eremotermes neoparadoxalis Ahmad, 1955",
+  "match": "exact",
+  "notes": "",
+  "otu": 85413,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85413/overview",
+  "valid_label": null,
+  "valid_otu": 85413,
+  "verified": false
+ },
+ "Eremotermes paradoxalis": {
+  "label": "Eremotermes paradoxalis Holmgren, 1912",
+  "match": "exact",
+  "notes": "",
+  "otu": 85414,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85414/overview",
+  "valid_label": null,
+  "valid_otu": 85414,
+  "verified": false
+ },
+ "Eremotermes sanyuktae": {
+  "label": "Eremotermes sanyuktae Thakur, 1989",
+  "match": "exact",
+  "notes": "",
+  "otu": 85415,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85415/overview",
+  "valid_label": null,
+  "valid_otu": 85415,
+  "verified": false
+ },
+ "Eremotermes senegalensis": {
+  "label": "Eremotermes senegalensis Mampouya, Fleck & Nel, 1997",
+  "match": "exact",
+  "notes": "",
+  "otu": 85416,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85416/overview",
+  "valid_label": null,
+  "valid_otu": 85416,
+  "verified": false
+ }
+}

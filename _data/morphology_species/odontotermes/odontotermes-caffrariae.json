@@ -1,0 +1,21 @@
+{
+ "zh_name": "卡夫拉尼亚土白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 T. destructor 近缘，区别在翅稍大、色较深、形状不同且透明度较低。翅端几乎与基部同样深暗，而 T. destructor 的翅向端部渐浅、渐薄、渐透明；本种翅脉直达翅端仍甚明显，T. destructor 者近端部较不隆起而模糊；本种翅面颇暗淡，T. destructor 者较光亮。T. destructor 因翅向外更透明、整体更光亮而外观自成一格，两种凭外观一望可辨。各地标本彼此完全一致。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "体连头底色黑褐；胫节外侧半部与跗节稍浅；口器带黄色。翅展 38—41 mm；连翅体长 22—23 mm；翅长 18—19 mm；体连头长 12 mm。"
+  }
+ ],
+ "note": "据 Sjöstedt (1900) 对 Termes caffrariae 的原始描述改写，原文德文与拉丁文，OCR 噪声大；仅有翅成虫，兵蚁与工蚁未记；翅宽上限残缺未录；异名表、图号与产地记录未译。",
+ "sources": [
+  {
+   "id": "S0118",
+   "citation": "Sjöstedt Y. 1900. Monographie der Termiten Afrikas. https://archive.org/details/bub_gb_nyUqAAAAYAAJ",
+   "locator": "条目（Monographie-der-Termiten-Afrikas）"
+  }
+ ]
+}

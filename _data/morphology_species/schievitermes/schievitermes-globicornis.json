@@ -1,0 +1,29 @@
+{
+ "zh_name": "球角不对称白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁在新热带弹击类（snappers）中因无额突（frontal projection）而区别于 Termes、Inquilinitermes、Cavitermes、Palmitermes、Dihoplotermes 与 Cornicapritermes；Planicapritermes 头壳扁、上颚强不对称；与 Crepititermes 的区别为上颚更粗、具轻微但明显的不对称，且触角第 3 节球状；Neocapritermes 各种体型更大（头宽 >1 mm）、触角 15–16 节（本属 13 节），上颚不对称程度总是更强。工蚁上颚属食木型，端齿与前缘齿间距短、磨脊发达；消化道与 Planicapritermes 相似，但 mixed segment 的 mesenteric 部分端部双叶为本属特征；Neocapritermes 亦具二个 mesenteric 叶，但 mixed segment 更短、叶更大且相距更远。P3 内角质分化介于 Neocapritermes（长刺与丝状物）与 Planicapritermes（微小刺）之间。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "属级仅知一头蚁后（only known from a single queen），原文未作独立的属级描述，而指向种级描述。此处不另补。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头壳亚方形、角圆，长约宽的 2 倍，具约 100 根刚毛。上颚约与头壳等长，较粗，属弹击型；右颚近直，仅略内弯；左颚轻微但明显弯曲：基部外缘微凹，中部凸，在与右颚接触处再凹，端部内弯。两颚端部钩状，内转约 60°。触角 13 节，末节超过左颚端部；第 3 节明显球状，与第 1 节等宽，且宽于其余各节。上唇两侧近平行，前缘波状、中部凸，具少数长刚毛，前角圆。额无突起。"
+  },
+  {
+   "label": "工蚁",
+   "text": "单型。头壳白色，具多数刚毛。上颚属食木型：左颚 A–M1+2 间距约为 M1+2–M3 间距之半；M3 明显，premolar 齿（sensu Deligne 1999）刀状，磨脊发达。右颚 A–M1 间距短，M2 明显，磨脊发达。crop 中等发达；gizzard 为广义型，角质 armature 仅限 pulvilli 上的小栉状鳞。mixed segment 长，mesenteric tongue 端部双叶。P1 略膨大，后渐窄入 P2。肠瓣（P2）漏斗状，在 P1 末端呈锥形，与 P3 相接处成窄管；armature 为两环带刺区：近端环位于 P2 锥部，由 3 个卵形 cushion 与细长 cushion 相间组成，均具小三角刺；远端环位于窄管部，由 6 个长短相间的 cushion 组成，具细而弯的刺。P3 大，壁具许多小刺，近 P2 入口的圆后部刺较长，前部向 P4 收窄处刺短且常呈栉状。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0058",
+   "citation": "Roisin Y. 2022. Schievitermes globicornis, a new genus and species of Termitinae (Blattodea, Termitidae) from French Guiana. ZooKeys 1125: 103–114. doi 10.3897/zookeys.1125.91124",
+   "locator": "Schievitermes gen. nov. — Description: Imago / Soldier / Worker; Diagnosis: Soldier / Worker（ZooKeys 1125: 103–114）"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+}

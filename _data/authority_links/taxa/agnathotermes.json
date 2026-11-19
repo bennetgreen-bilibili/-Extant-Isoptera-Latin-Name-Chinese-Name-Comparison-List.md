@@ -1,0 +1,46 @@
+{
+ "Agnathotermes crassinasus": {
+  "gbif": {
+   "key": 9686193,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Agnathotermes crassinasus Constantino, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "66577",
+   "status": "accepted",
+   "label": "Agnathotermes crassinasus Constantino, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234508",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Agnathotermes glaber": {
+  "gbif": {
+   "key": 9605238,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Agnathotermes glaber (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5TT6Y",
+   "status": "accepted",
+   "label": "Agnathotermes glaber (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234509",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

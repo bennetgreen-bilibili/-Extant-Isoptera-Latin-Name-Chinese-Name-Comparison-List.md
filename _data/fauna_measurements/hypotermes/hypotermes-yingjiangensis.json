@@ -1,0 +1,73 @@
+{
+ "book_n": "292",
+ "book_name": "盈江壤白蚁 Parahypotermes yingjiangensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "盈江壤白蚊兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "4.05",
+     "value": "3.66–4.36"
+    },
+    {
+     "key": "head_length_with_mandibles",
+     "mean": "1.75",
+     "value": "1.68–1.87"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.18",
+     "value": "1.10–1.26"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.01",
+     "value": "0.97–1.03"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.64",
+     "value": "0.61–0.65"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.23",
+     "value": "0.19–0.26"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "0.67",
+     "value": "0.65–0.68"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.47",
+     "value": "0.45–0.48"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.47",
+     "value": "0.45–0.48"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.74",
+     "value": "0.71–0.77"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.05",
+     "value": "1.03–1.06"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 466,
+   "unit": "mm"
+  }
+ ]
+}

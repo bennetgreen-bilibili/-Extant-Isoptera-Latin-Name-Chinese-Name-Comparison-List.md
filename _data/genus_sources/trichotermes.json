@@ -1,0 +1,39 @@
+{
+ "latin": "Trichotermes",
+ "zh": "发白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Trichotermes Sjöstedt, 1924b: 257.",
+ "type_species": "Eutermes villifrons Sjöstedt, 1924 by original designation.",
+ "references": [
+  {
+   "ref": "Sjöstedt, 1926d: 209",
+   "note": "Trichotermes; reference list; soldier described."
+  },
+  {
+   "ref": "Emerson, 1928b: 408, 419",
+   "note": "Trichotermes; key; distribution."
+  },
+  {
+   "ref": "Weidner, 1956b: 64",
+   "note": "Trichotermes; key."
+  },
+  {
+   "ref": "Webb, 1961: 12",
+   "note": "Trichotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 26, 94, 95, pl. 15: fig. 45c",
+   "note": "Trichotermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 37",
+   "note": "Trichotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 51, 131–133, figs. 1576–1586",
+   "note": "Trichotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 13
+}

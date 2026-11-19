@@ -1,0 +1,17 @@
+{
+ "zh_name": "象鼻白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头前部延伸成非常大而显著的鼻状突，头两侧圆；Tuberculitermes 同样有大的鼻状突但头呈长方形，Orthotermes 无鼻状突、头两侧平直。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+   "locator": "p. 419（兵蚁检索表）"
+  }
+ ],
+ "note": "只读到 Emerson（1928）检索表中的这一行；Sjöstedt 1924 原文未能获取，因此不写量度、上颚与触角，也不设兵蚁以外的 caste 栏。"
+}

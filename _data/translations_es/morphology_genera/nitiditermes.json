@@ -1,0 +1,17 @@
+{
+ "note": "Las tres castas cuentan con la descripción de la especie tipo de Emerson (1960); del soldado solo se conserva el contorno cefálico como carácter verificable (la parte relativa a la pilosidad está incompleta en el OCR).",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Cabeza anchamente oval, lisa y poco convexa, con finas estrías alrededor de la fontanela; fontanela alargada, situada en una depresión corta y estrecha de la superficie cefálica; vértice uniforme y suavemente convexo entre los ocelos; ojos compuestos más bien planos y de tamaño mediano, situados a una distancia del borde inferior de la cabeza algo menor que un tercio de su diámetro."
+  },
+  {
+   "label": "Soldado",
+   "text": "En vista lateral, la frente forma una elevación globosa por encima de la abertura deprimida de la fontanela y su parte anterior no se prolonga sobre la base de las mandíbulas."
+  },
+  {
+   "label": "Obrero",
+   "text": "Las mandíbulas se asemejan a las de Cubitermes, Procubitermes, Noditermes, Lepidotermes y Mucrotermes; el diente apical es claramente mayor que el primer diente marginal; la distancia desde el extremo de la mandíbula izquierda hasta el extremo del primer diente marginal es mayor que la que media entre el extremo del primer diente marginal y el del tercero."
+  }
+ ]
+}

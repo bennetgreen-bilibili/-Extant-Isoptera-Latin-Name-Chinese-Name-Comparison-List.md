@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from the species-level description in Chhotani (1997), originally in English; the alate, soldier and worker are all described; the synonymy list (including two varieties of Kemner), literature citations, figure numbers and distribution records are not translated.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head capsule yellow to reddish brown; antennae, labrum, pronotum and legs pale yellowish brown; abdomen cream white to pale yellow. Cephalic pilosity sparse, body pilosity relatively dense. Body length 6.7–10.4 mm. Head capsule subrectangular, sides nearly straight and very slightly narrowed in front of the antennae (head length to mandible bases 2.47–3.00, maximum width 1.82–2.30 mm). Antennae 17-segmented; segment 3 distinctly shorter than segment 2, segment 4 almost as long as segment 2, segment 5 shorter than segment 4. Labrum ligulate, bluntly rounded anteriorly. Mandibles strong, thick and sickle-shaped (length 1.27–1.60 mm, mandible length/head length index 0.53–0.66); left mandible with a large, prominent tooth near the base of the middle third (tooth distance 0.70–1.00 mm, tooth distance/mandible length index 0.55–0.63); right mandible with a small tooth slightly below the level of the left tooth. Postmentum subrectangular, sides bulging at the basal third (length 1.50–2.00, maximum width 0.75–0.93 mm). Pronotum saddle-shaped (length 0.80–1.03, width 1.40–1.80 mm), anterior margin with a weak to fairly distinct median notch, posterior margin more distinctly incised."
+  },
+  {
+   "label": "Worker",
+   "text": "Workers dimorphic. Major worker: head capsule pale yellow to rusty yellow, antennae pale yellow, body yellowish white; cephalic and body pilosity relatively dense. Body length 5.0–7.8 mm. Head capsule subquadrate, wider than the head length to the mandible bases (length 1.50–1.80, maximum width 1.75–2.10 mm). Fontanelle plate small and circular. Antennae 19-segmented; segment 3 slightly shorter than segment 2, segment 4 longer than segment 3, segment 5 shortest. Postclypeus weakly inflated, less than 1/2 as long as wide. Pronotum strongly saddle-shaped, otherwise as in the soldier (length 0.55–0.65, width 1.03–1.20 mm). Minor worker: resembling the major worker but smaller, antennae 17–18-segmented; body length 3.5–4.7 mm, head length to mandible bases 1.20–1.38, maximum head width 1.35–1.58, pronotum length 0.40–0.58, width 0.73–0.93 mm."
+  },
+  {
+   "label": "Alate",
+   "text": "Head capsule dark brown, red-yellow anteriorly; pronotum slightly paler than the head capsule, with a pale T-shaped mark and shoulder spots; abdominal dorsum brown, the middle of the sternites red-yellow; wings deep rusty yellow. Cephalic and body pilosity moderately dense, the wing apices setose. Body length 27.0–30.0 mm, 13.0–14.2 mm without wings. Head capsule subcircular, wide and flat (length to the apex of the labrum 3.0, length to mandible bases 1.90–2.10, maximum width including compound eyes 2.61–2.85 mm). Fontanelle distinct, small and ring-shaped, slightly depressed around it. Compound eyes medium-sized and subcircular (maximum diameter 0.70–0.75 mm). Ocelli medium-sized, broadly oval (long diameter 0.29–0.32, short diameter 0.25 mm), their distance from the compound eyes about equal to their short diameter (eye–ocellus distance 0.20–0.25 mm). Antennae 19-segmented; segment 3 slightly shorter than segment 2, segments 3, 4 and 5 nearly equal. Postclypeus large and inflated, half as long as wide (length 0.52–0.54, width 1.05–1.14 mm). Pronotum narrower than the head including the compound eyes (length 1.40–1.53, width 2.52–2.66 mm), anterior and posterior margins with a weak median notch. Wings long and narrow (forewing length 23.0–24.0, hindwing length 22.0–22.50 mm); the microstructure of the wing surface consists of cuticular rods much smaller than in obesus."
+  },
+  {
+   "label": "Other",
+   "text": "Thakur (1981) considered the alate of the species unknown and the alate description of O. peradeniyae inapplicable to it; Chhotani treated O. peradeniyae as a synonym of the species. Chhotani further noted that the species is not its closest relative O. feae, and that the records of Bathellier (1927) from Vietnam and Cambodia have not been confirmed since and require verification."
+  }
+ ]
+}

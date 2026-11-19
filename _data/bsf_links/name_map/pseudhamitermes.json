@@ -1,0 +1,24 @@
+{
+ "Pseudhamitermes khmerensis": {
+  "label": "Pseudhamitermes khmerensis Noirot, 1966",
+  "match": "exact",
+  "notes": "",
+  "otu": 85781,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85781/overview",
+  "valid_label": null,
+  "valid_otu": 85781,
+  "verified": false
+ },
+ "Pseudhamitermes longignathus": {
+  "label": "Pseudhamitermes longignathus (Ahmad, 1965)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85780,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85780/overview",
+  "valid_label": null,
+  "valid_otu": 85780,
+  "verified": false
+ }
+}

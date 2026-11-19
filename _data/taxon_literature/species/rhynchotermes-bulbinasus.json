@@ -1,0 +1,40 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "新种描述与属内种数",
+   "heading_en": "New species description and species count in the genus",
+   "heading_es": "Descripción de la nueva especie y número de especies del género",
+   "paragraphs": [
+    {
+     "src": [
+      "S0304"
+     ],
+     "text": "根据 Scheffrahn（2010）研究，葱鼻喙白蚁（<i>Rhynchotermes bulbinasus</i>）依据哥伦比亚北部加勒比平原发现的二型兵蚁与单型工蚁描述为新种，属具颚的鼻白蚁类（mandibulate nasute termite）；其鼻状突末端直径大于中部直径，以此区别于新世界所有其他聚白蚁亚科（<i>Syntermitinae</i>）与象白蚁亚科（<i>Nasutitermitinae</i>）（据摘要）。",
+     "text_en": "According to Scheffrahn (2010), <i>Rhynchotermes bulbinasus</i> was described as a new species on the basis of dimorphic soldiers and monomorphic workers found in the Caribbean plains of northern Colombia; it is a mandibulate nasute termite, distinguished from all other New World Syntermitinae and Nasutitermitinae by the diameter of the tip of the nasus being greater than its diameter at the middle (according to the abstract).",
+     "text_es": "Según Scheffrahn (2010), <i>Rhynchotermes bulbinasus</i> fue descrita como especie nueva a partir de soldados dimórficos y obreras monomórficas hallados en las llanuras del Caribe del norte de Colombia; es un termes nasuto mandibulado (mandibulate nasute termite), que se distingue de todas las demás Syntermitinae y Nasutitermitinae del Nuevo Mundo porque el diámetro del extremo de la nasa es mayor que el del medio (según el resumen)."
+    },
+    {
+     "src": [
+      "S0299"
+     ],
+     "text": "根据 Constantini 与 Cancello（2016）研究，喙白蚁属（<i>Rhynchotermes</i>）的 3 个原有种为全武喙白蚁（<i>Rhynchotermes perarmatus</i>）、皮奥伊喙白蚁（<i>Rhynchotermes piauy</i>）与葱鼻喙白蚁（<i>Rhynchotermes bulbinasus</i>），该修订给出属内各种的兵蚁鉴定检索表（据摘要）。",
+     "text_en": "According to Constantini and Cancello (2016), the three previously known species of <i>Rhynchotermes</i> are <i>Rhynchotermes perarmatus</i>, <i>Rhynchotermes piauy</i> and <i>Rhynchotermes bulbinasus</i>, and the revision provides a key for the identification of the soldiers of all species in the genus (according to the abstract).",
+     "text_es": "Según Constantini y Cancello (2016), las tres especies preexistentes de <i>Rhynchotermes</i> son <i>Rhynchotermes perarmatus</i>, <i>Rhynchotermes piauy</i> y <i>Rhynchotermes bulbinasus</i>, y esa revisión ofrece una clave para la identificación de los soldados de las especies del género (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0299",
+   "citation": "Constantini, J. P.; Cancello, E. M. 2016. A taxonomic revision of the Neotropical termite genus Rhynchotermes (Isoptera, Termitidae, Syntermitinae). Zootaxa.",
+   "doi": "10.11646/zootaxa.4109.5.1"
+  },
+  {
+   "id": "S0304",
+   "citation": "Scheffrahn, R. H. 2010. An extraordinary new termite (Isoptera: Termitidae: Syntermitinae: Rhynchotermes) from the pasturelands of northern Colombia. Zootaxa.",
+   "doi": "10.11646/zootaxa.2387.1.6"
+  }
+ ]
+}

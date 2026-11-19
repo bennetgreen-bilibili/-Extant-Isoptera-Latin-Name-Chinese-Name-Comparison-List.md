@@ -1,0 +1,13 @@
+{
+ "Malagasitermes milloti": {
+  "label": "Malagasitermes milloti (Cachan, 1949)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84538,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84538/overview",
+  "valid_label": null,
+  "valid_otu": 84538,
+  "verified": false
+ }
+}

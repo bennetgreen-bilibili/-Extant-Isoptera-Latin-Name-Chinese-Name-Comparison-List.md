@@ -1,0 +1,21 @@
+{
+ "zh_name": "头白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "以工蚁二型（major worker 与 minor worker）为首要属征；中肠与第一 proctodeal 节（P1）交界平直，无 mixed segment；磨板与磨突（molar prominence）区具毛与鳞状纹理；gizzard（肌胃）不发达；P1 内壁密被指向肠瓣的短壮刺；P3 在接入 P2 前形成 S 形突。新热带 Apicotermitinae 均无兵蚁。"
+  },
+  {
+   "label": "工蚁",
+   "text": "二型，major 与 minor 数量比约 1:2，两类均常见。两类均具可见的 fontanelle，后唇基（postclypeus）轻微膨大，头被细短刚毛；上颚在磨板与磨突区具毛与鳞状纹理，上颚前侧具浅凹；左上颚端齿与第一、第二缘齿之和等大，右颚端齿大于第一、第二缘齿之和。major worker 头壳方形，约 34 根刚毛，主要分布于前侧与后区，头具前侧凹（lateral nodes）；minor worker 头壳圆形，约 14 根刚毛，均匀分布于头侧。两类工蚁的消化道均呈球形，各结构的大小与位置相似。gizzard 无角质 armature，具 6 个一级 pulvilli，pulvilli 表面鳞状、后部具微小刺；肠瓣肌层薄，具 6 个对称 cushion；Malpighian 管有 4 个独立插入点，无 nodule；P1 内壁短壮刺在近中肠与近 P2 处密度最高，刺尖朝向肠瓣；P3 接 P2 前形成 S 形突。量度：种级（LH、WH、LT、WP，见种级描述）。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0051",
+   "citation": "Almeida-Azevedo R.; Acioli A. N. S.; Morais J. W.; Azevedo R. A. 2023. Caputitermes, a new genus of soldierless termite (Blattaria: Isoptera: Termitidae) with dimorphic workers from the Amazon rainforest. Acta Amazonica 53(3): 201–207. https://doi.org/10.1590/1809-4392202202511",
+   "locator": "Caputitermes, gen. nov. — Description: Imago / Genus diagnosis / Genus description（Acta Amazonica 53(3): 201–207）"
+  }
+ ],
+ "note": "无兵蚁节（新热带 Apicotermitinae 无兵蚁）；imago 原文记为 Unknown，故不设「有翅成虫」节。属级描述以工蚁体壁与消化道为主。Acta Amazonica 该文页码取自 SciELO 页面 53(3)，属级 treatment 位于 202–204 页一带（未逐页核对）。"
+}

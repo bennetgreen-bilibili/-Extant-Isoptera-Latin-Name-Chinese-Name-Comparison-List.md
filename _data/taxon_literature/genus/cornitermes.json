@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分布、食性与巢内共栖",
+   "heading_en": "Distribution, diet and nest commensals",
+   "heading_es": "Distribución, dieta y comensales del nido",
+   "paragraphs": [
+    {
+     "src": [
+      "S0219"
+     ],
+     "text": "根据 Miramontes 与 DeSouza（2008）在论文引言中综述的文献，角象白蚁属（<i>Cornitermes</i>）分布于森林、稀树草原（cerrado）、牧场乃至城市花园，取食活的与枯死的草本植物；该属多个种（包括成堆角象白蚁 <i>Cornitermes cumulans</i>）构筑大型地栖巢，巢内常共栖其他属的白蚁以及蚂蚁、甲虫、鸟类和蛇类。",
+     "text_en": "According to the literature reviewed in the introduction of Miramontes and DeSouza (2008), <i>Cornitermes</i> occurs in forests, cerrado, pastures and even urban gardens and feeds on living and dead grasses; several species of the genus (including <i>Cornitermes cumulans</i>) build large epigeal nests that frequently harbour commensals — termites of other genera as well as ants, beetles, birds and snakes.",
+     "text_es": "Según la bibliografía revisada en la introducción de Miramontes y DeSouza (2008), <i>Cornitermes</i> se distribuye en bosques, cerrado, pastizales e incluso jardines urbanos y se alimenta de gramíneas vivas y muertas; varias especies del género (incluida <i>Cornitermes cumulans</i>) construyen nidos epigeos grandes que con frecuencia albergan comensales: termitas de otros géneros, así como hormigas, escarabajos, aves y serpientes."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0219",
+   "citation": "Miramontes, O.; DeSouza, O. 2008. Individual Basis for Collective Behaviour in the Termite, Cornitermes cumulans. Journal of Insect Science 8: 22.",
+   "doi": "10.1673/031.008.2201"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "latin": "Macrognathotermes",
+ "zh": "长颚白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Macrognathotermes Miller, 1991: 1256.",
+ "type_species": "Macrognathotermes errator Miller, 1991 by original designation.",
+ "references": [
+  {
+   "ref": "Hill, 1942: 14, 377–379",
+   "note": "Mirotermes [part]; as genus and subgenus; key; synonymy; imago, soldier, worker diagnosed."
+  },
+  {
+   "ref": "Bourguignon et al., 2008: 13, 26",
+   "note": "Macrognathotermes; characters; key."
+  }
+ ],
+ "nrefs": 4
+}

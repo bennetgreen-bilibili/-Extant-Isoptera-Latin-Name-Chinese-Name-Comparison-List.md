@@ -1,0 +1,38 @@
+{
+ "latin": "Engelitermes",
+ "zh": "恩格尔白蚁属",
+ "fetched_at": "2026-10-30T16:53:35Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W4386032984",
+   "openalex_url": "https://openalex.org/W4386032984",
+   "doi": "10.1111/syen.12607",
+   "doi_url": "https://doi.org/10.1111/syen.12607",
+   "title": "Mitochondrial phylogenetics position a new Afrotropical termite species into its own subfamily, the Engelitermitinae (Blattodea: Termitidae)",
+   "year": 2023,
+   "date": "2023-08-17",
+   "authors": [
+    "Johanna Romero Arias",
+    "Simon Hellemans",
+    "Esra Kaymak",
+    "Pierre Dieudonné Akama",
+    "Thomas Bourguignon",
+    "Yves Roisin",
+    "Rudolf H. Scheffrahn",
+    "Jan Šobotník"
+   ],
+   "venue": "Systematic Entomology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 6,
+   "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/syen.12607",
+   "volume": "49",
+   "issue": "1",
+   "pages": "72-83",
+   "abstract": "While new species of termites are described every year, the description of species distant from every known termite species is rare. In this paper, we describe one such species, Engelitermes zambo sp.n., an African Termitidae belonging to an entirely new lineage of termites for which we create a new subfamily, Engelitermitinae subfam.n. The subfamily status of Engelitermitinae was supported by termite phylogenetic trees, including sequences from the four existing samples of E. zambo sp.n., which, albeit with low bootstrap supports, placed Engelitermes gen.n. on a long branch sister to Forficulitermes, the two of which formed the sister group of a clade comprising Cubitermitinae, Nasutitermitinae, Syntermitinae and all other Termitinae. The sister relationship between Engelitermes gen.n. and Forficulitermes is further supported by the similar gut structure of their workers. In contrast, the soldiers of Engelitermes gen.n. resemble those of Cephalotermes. Our phylogenetic analyses, including all clades of Termitinae, call for a global taxonomic revision of the Termitinae subfamily names. Finally, our study highlights that new unique termite lineages are still awaiting to be described.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1201,
+   "abstract_truncated": false
+  }
+ ]
+}

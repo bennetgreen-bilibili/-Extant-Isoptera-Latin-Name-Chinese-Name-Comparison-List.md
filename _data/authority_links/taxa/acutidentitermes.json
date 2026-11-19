@@ -1,0 +1,24 @@
+{
+ "Acutidentitermes osborni": {
+  "gbif": {
+   "key": 9669187,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Acutidentitermes osborni Emerson, 1959",
+   "accepted": null
+  },
+  "col": {
+   "id": "652VQ",
+   "status": "accepted",
+   "label": "Acutidentitermes osborni Emerson, 1959",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225287",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

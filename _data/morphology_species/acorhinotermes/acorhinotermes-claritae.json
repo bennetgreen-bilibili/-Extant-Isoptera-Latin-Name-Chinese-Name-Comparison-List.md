@@ -1,0 +1,25 @@
+{
+ "zh_name": "克拉丽塔尖鼻白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头壳侧缘凹入，在后部形成缢缩；上颚端突显著，伸越囟点。与 A. subfusciceps 相比，本种体型较小、上颚端突更长；侧面观颅顶、头顶与上唇背面几成一直线，而 A. subfusciceps 该轮廓呈钝角。上唇端部的二裂程度亦弱于 A. subfusciceps。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头壳背面观侧缘凹入，后部缢缩处具 10–12 根长直刚毛，无微毛。触角 15 或 16 节，节式 2=3<4=5。上颚退化，端突长、直而尖。上唇甚延长，向端部增宽，末端二裂，侧面观与颅顶几在同一平面；囟点位于上唇基部五分之一处。前胸背板与头同色，具 4–8 根分散刚毛，前缘 2–4 根、表面 2–4 根，无微毛。腹背板淡黄色，边缘覆浓密毛层。足多长、短刚毛，前足胫节刚毛粗。量度：头最宽 0.45–0.66 mm，头长（连上唇）1.18–1.40 mm，上唇长 0.57–0.73 mm，前胸背板宽 0.39–0.56 mm、长 0.24–0.37 mm，后足胫节长 0.77–0.93 mm。"
+  },
+  {
+   "label": "若虫",
+   "text": "头壳黄褐色，宽卵形，多长刚毛。触角 20 节，第 2 节短于第 3 节，第 3、4 节等长。体背与头壳同色。复眼近圆形，眼缘宽，与触角窝相距远。单眼小、卵形，与复眼明显分离。唇基舌形，无额突支撑。前胸背板边缘多长刚毛，侧缘圆。上颚 M1 比端齿更突出；右上颚 M1 比左上颚者更突出；左上颚 M2 突出长度约为 M1 之半，M2 与 M3 成钝角，M3 与磨齿突出距离相等。量度：头长（连上唇）1.27 mm，头宽（连复眼）1.39 mm、去复眼 1.21 mm，复眼直径 0.25 mm，单眼直径 0.08 mm，前胸背板长 0.78 mm、宽 1.36 mm，体长（不含翅）6.81 mm。"
+  }
+ ],
+ "note": "据 Castro Torres & Scheffrahn (2019) 对 Acorhinotermes claritae 的种级描述改写，原文英文；仅记小型兵蚁与有翅若虫，未见有翅成虫描述，大型兵蚁可能缺如；量度表表头、图号、分布与生态记录均未译。",
+ "sources": [
+  {
+   "id": "S0041",
+   "citation": "Castro Torres, D.; Scheffrahn, R. H. 2019. Castro Torres, D.; Scheffrahn, R. H. 2019. A new species of Acorhinotermes Emerson, 1949 (Blattodea, Isoptera, Rhinotermitidae) from Colombia, with a key to Neotropical Rhinotermitinae species based on minor soldiers. 10.3897/zookeys.891.37523. 10.3897/zookeys.891.37523",
+   "locator": "条目（Castro Torres, D.、Scheffrahn, R. H. 2019）"
+  }
+ ]
+}

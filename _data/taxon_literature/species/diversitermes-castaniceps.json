@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "异名修订",
+   "heading_en": "Synonymy",
+   "heading_es": "Sinonimia",
+   "paragraphs": [
+    {
+     "src": [
+      "S0312"
+     ],
+     "text": "据摘要，根据 de Oliveira 与 Constantino（2016）研究，栗头歧白蚁（<i>Diversitermes castaniceps</i>）被确认为歧白蚁属（<i>Diversitermes</i>）3 个有效种之一，旧名 <i>Diversitermes eidmanni</i> 被列为它的次异名。",
+     "text_en": "According to the abstract, de Oliveira and Constantino (2016) recognized <i>Diversitermes castaniceps</i> as one of the three valid species of <i>Diversitermes</i>, with the older name <i>Diversitermes eidmanni</i> as its junior synonym.",
+     "text_es": "Según el resumen, de Oliveira y Constantino (2016) reconocieron a <i>Diversitermes castaniceps</i> como una de las tres especies válidas de <i>Diversitermes</i>, con el nombre antiguo <i>Diversitermes eidmanni</i> como sinónimo júnior."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0312",
+   "citation": "de Oliveira, D. E.; Constantino, R. 2016. A taxonomic revision of the neotropical termite genus Diversitermes (Isoptera: Termitidae: Nasutitermitinae). Zootaxa.",
+   "doi": "10.11646/zootaxa.4158.2.5"
+  }
+ ]
+}

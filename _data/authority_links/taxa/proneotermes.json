@@ -1,0 +1,96 @@
+{
+ "Proneotermes latifrons": {
+  "gbif": {
+   "key": 9301063,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Proneotermes latifrons (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MT4W",
+   "status": "accepted",
+   "label": "Proneotermes latifrons (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225337",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Proneotermes macondianus": {
+  "gbif": {
+   "key": 8746008,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Proneotermes macondianus Casalla, Scheffrahn & Korb, 2016",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Proneotermes Holmgren, 1911",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Proneotermes perezi": {
+  "gbif": {
+   "key": 9735814,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Proneotermes perezi (Holmgren, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MT4X",
+   "status": "accepted",
+   "label": "Proneotermes perezi (Holmgren, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225339",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Proneotermes tacicuarensis": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Proneotermes Holmgren, 1911",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Proneotermes Holmgren, 1911",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-31"
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "book_n": "394",
+ "book_name": "中华葫白蚁 Cucurbitermes sinensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "中华葫白蚊王与后量度",
+   "label_en": "King and queen measurements",
+   "label_es": "Medidas de rey y reina",
+   "label_zh": "王与后量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.25"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "value": "1.56–1.61"
+    },
+    {
+     "key": "eye_long_diameter",
+     "value": "0.42–0.45"
+    },
+    {
+     "key": "eye_short_diameter",
+     "value": "0.37–0.40"
+    },
+    {
+     "key": "ocellus_long_diameter",
+     "value": "0.21"
+    },
+    {
+     "key": "ocellus_short_diameter",
+     "value": "0.16–0.18"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.71–0.73"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.30–1.40"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "2.00–2.08"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 90,
+   "unit": "mm"
+  }
+ ]
+}

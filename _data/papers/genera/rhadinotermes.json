@@ -1,0 +1,57 @@
+{
+ "latin": "Rhadinotermes",
+ "zh": "锥形白蚁属",
+ "fetched_at": "2026-10-30T16:54:31Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2952689253",
+   "openalex_url": "https://openalex.org/W2952689253",
+   "doi": "",
+   "doi_url": "",
+   "title": "A new genus and species of termitophilous Staphylinidae associated with Rhadinotermes Sands In Rhodesia (Coleoptera)",
+   "year": 1975,
+   "date": "1975-01-01",
+   "authors": [
+    "David H. Kistner"
+   ],
+   "venue": "Journal of the Entomological Society of Southern Africa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 1,
+   "oa_url": "",
+   "volume": "38",
+   "issue": "1",
+   "pages": "79-83",
+   "abstract": "A new genus, Rhadinoxenus, is descriptionbed, illustrated (type-species, Rhadinoxenus pretoriusi spec. nov.), and assigned to the subtribe Termitogastrina tribe Corotocini, subfamily Aleocharinae. The type-species, also new, is descriptionbed from a nest of Rhadinoltrmes coarclatus (Sjoestedt) from the eastern district of Rhodesia. Its relationships with other genera of Term ito gastrin a and the genus Termitochara are discussed.",
+   "abstract_source": "openalex",
+   "abstract_chars": 433,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2995046812",
+   "openalex_url": "https://openalex.org/W2995046812",
+   "doi": "10.1007/s42690-019-00081-y",
+   "doi_url": "https://doi.org/10.1007/s42690-019-00081-y",
+   "title": "Effects of different land use patterns on seasonal termite species diversity within the Vhembe district of the Limpopo province, South Africa",
+   "year": 2019,
+   "date": "2019-12-10",
+   "authors": [
+    "Shandukani Rudolf Netshifhefhe",
+    "Ednah C. Kunjeku",
+    "Frances D. Duncan"
+   ],
+   "venue": "International Journal of Tropical Insect Science",
+   "type": "article",
+   "language": "en",
+   "cited_by": 7,
+   "oa_url": "",
+   "volume": "40",
+   "issue": "2",
+   "pages": "293-307",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  }
+ ]
+}

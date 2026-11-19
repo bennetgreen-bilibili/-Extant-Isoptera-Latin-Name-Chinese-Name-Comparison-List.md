@@ -1,0 +1,90 @@
+{
+ "Rhinotermes hispidus": {
+  "gbif": {
+   "key": 9551940,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rhinotermes hispidus Emerson, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "4S9YY",
+   "status": "accepted",
+   "label": "Rhinotermes hispidus Emerson, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254497",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rhinotermes manni": {
+  "gbif": {
+   "key": 8983889,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rhinotermes manni Snyder, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "4S9Z6",
+   "status": "accepted",
+   "label": "Rhinotermes manni Snyder, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254498",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rhinotermes marginalis": {
+  "gbif": {
+   "key": 7677345,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rhinotermes marginalis (Linnaeus, 1758)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4S9Z7",
+   "status": "accepted",
+   "label": "Rhinotermes marginalis (Linnaeus, 1758)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q51853600",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rhinotermes nasutus": {
+  "gbif": {
+   "key": 9244602,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rhinotermes nasutus (Perty, 1833)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4S9Z9",
+   "status": "accepted",
+   "label": "Rhinotermes nasutus (Perty, 1833)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254500",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

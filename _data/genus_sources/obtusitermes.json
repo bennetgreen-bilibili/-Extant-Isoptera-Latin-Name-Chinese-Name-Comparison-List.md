@@ -1,0 +1,35 @@
+{
+ "latin": "Obtusitermes",
+ "zh": "钝白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Obtusitermes Snyder, 1924a: 20.",
+ "type_species": "Nasutitermes (Obtusitermes) biforma Snyder, 1924 [= Nasutitermes (Obtusitermes) panamae Snyder, 1925] by original designation.",
+ "references": [
+  {
+   "ref": "Spaeth, 1967: 852",
+   "note": "Obtusitermes; characters; comparisons."
+  },
+  {
+   "ref": "Morimoto, 1975b: 25",
+   "note": "Obtusitermes; key."
+  },
+  {
+   "ref": "Mill, 1983a: 183, 189",
+   "note": "Obtusitermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Nickle and Collins, 1992: 226, 227, 237–238",
+   "note": "Obtusitermes; key; characters."
+  },
+  {
+   "ref": "Roisin et al., 1996: 777",
+   "note": "Obtusitermes; soldier, worker characters."
+  },
+  {
+   "ref": "Constantino, 2002a: 14",
+   "note": "Obtusitermes; key."
+  }
+ ],
+ "nrefs": 16
+}

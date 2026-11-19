@@ -1,0 +1,43 @@
+{
+ "latin": "Constrictotermes",
+ "zh": "缩白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Constrictotermes Holmgren, 1910c: 206, 208, 218 [first introduced as a subgenus of Eutermes Heer, 1849].",
+ "type_species": "Eutermes cyphergaster Silvestri, 1901 by subsequent designation; see Snyder, 1949a: 318.",
+ "references": [
+  {
+   "ref": "Holmgren, 1912a: 60, 62, 65",
+   "note": "Constrictotermes; key; species included."
+  },
+  {
+   "ref": "Snyder, 1926e: 44",
+   "note": "Constrictotermes; characters; discussion."
+  },
+  {
+   "ref": "Morimoto, 1975b: 27",
+   "note": "Constrictotermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 193–195",
+   "note": "Constrictotermes; synonymy; characters; relationships."
+  },
+  {
+   "ref": "Mill, 1983a: 182, 186",
+   "note": "Constrictotermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Roisin et al., 1996: 777",
+   "note": "Constrictotermes; soldier, worker characters."
+  },
+  {
+   "ref": "Constantino, 1999a: 400, 413",
+   "note": "Constrictotermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 10",
+   "note": "Constrictotermes; key."
+  }
+ ],
+ "nrefs": 32
+}

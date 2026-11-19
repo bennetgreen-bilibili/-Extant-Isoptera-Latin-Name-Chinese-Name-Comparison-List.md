@@ -1,7 +1,11 @@
 {%- comment -%}
   物种 / 亚种形态描述。
-  数据：_data/morphology_species.json（zh）与 _data/translations_en|es.json 的
-  morphology_species（键为中文页 URL）；字段 { zh_name, sections:[{label,text}], source:{id,citation,locator}, note }。
+  数据分片：_data/morphology_species/<属>/<slug>.json（zh）与
+  _data/translations_en|es/morphology_species/<属>/<slug>.json，分片值是条目本身
+  （字段 { zh_name, sections:[{label,text}], source:{id,citation,locator}, note }）；
+  键＝page.genus_id（属 id）＋ 页面 URL 最后一段（slug）。
+  有 6 个亚种页不在 _data/species_by_genus.json 索引里，拆分脚本把它们的条目放在
+  _orphan/ 下，故按属取不到时回退 ["_orphan"][slug]，与原扁平文件按 zh_url 取到的内容一致。
   优先级：本语言有记录 → 渲染；否则若已有本语言《中国动物志》记载 → 不重复；
   两者都没有 → 显示待补说明，并指向本语言属页的属级描述。外文页不回退中文。
 {%- endcomment -%}
@@ -9,15 +13,16 @@
 {%- if page.lang == 'en' -%}{%- assign LP = '/en' -%}
 {%- elsif page.lang == 'es' -%}{%- assign LP = '/es' -%}{%- endif -%}
 {%- include lang-path.html -%}
-{%- assign zh_url = path_no_lang -%}
-{%- assign morph = site.data.morphology_species[zh_url] -%}
-{%- assign fauna = site.data.fauna_species[zh_url] -%}
+{%- assign _slug = path_no_lang | split: '/' | last -%}
+{%- assign _gid = page.genus_id | default: page.latin | split: ' ' | first | downcase -%}
+{%- assign morph = site.data.morphology_species[_gid][_slug] | default: site.data.morphology_species["_orphan"][_slug] -%}
+{%- assign fauna = site.data.fauna_species[_gid][_slug] -%}
 {%- if page.lang == 'en' -%}
-  {%- assign morph = site.data.translations_en.morphology_species[zh_url] -%}
-  {%- assign fauna = site.data.translations_en.fauna_species[zh_url] -%}
+  {%- assign morph = site.data.translations_en.morphology_species[_gid][_slug] | default: site.data.translations_en.morphology_species["_orphan"][_slug] -%}
+  {%- assign fauna = site.data.translations_en.fauna_species[_gid][_slug] -%}
 {%- elsif page.lang == 'es' -%}
-  {%- assign morph = site.data.translations_es.morphology_species[zh_url] -%}
-  {%- assign fauna = site.data.translations_es.fauna_species[zh_url] -%}
+  {%- assign morph = site.data.translations_es.morphology_species[_gid][_slug] | default: site.data.translations_es.morphology_species["_orphan"][_slug] -%}
+  {%- assign fauna = site.data.translations_es.fauna_species[_gid][_slug] -%}
 {%- endif -%}
 {%- if morph -%}
 <section class="species-fauna taxon-morphology species-morphology" aria-labelledby="species-morphology-title">

@@ -1,0 +1,21 @@
+{
+ "zh_name": "澳白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "翅脉层面的属级特征：前翅径分脉合并程度高、相邻上分支间距窄；前翅肩缝（humeral suture）较 Blattotermes 更弯、更凸；后翅具发达的臀叶，原文称臀叶为本属及其近缘属的特征；径分脉紧凑，中脉更靠近径分脉而远离前肘脉，据此可把仅有翅的标本归入本属。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "前翅径分脉高度合并，相邻的上分支间距窄；前翅肩缝（humeral suture）呈明显的弧状凸出，较 Blattotermes 更弯；后翅臀叶发达。"
+  }
+ ],
+ "note": "该文是科级分类修订，属级形态集中在翅脉，原文未设兵蚁、工蚁形态小节，故只写鉴别要点与有翅成虫。两处易误收：archidictyon 网状脉（原文明确为澳白蚁科与草白蚁科共有，非属级）；「中脉在肩缝后短距离与径分脉相联」为白蚁通性（原文 'in nearly all cases'），均未写入。",
+ "sources": [
+  {
+   "id": "S0039",
+   "citation": "Emerson, A. E. 1965. A review of the Mastotermitidae (Isoptera), including a new fossil genus from Brazil. American Museum Novitates 2236: 1–46.",
+   "locator": "pp. 10, 24–25, 31–32"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "zh_name": "锐尖白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁囟孔开口旁没有刚毛簇，若干近缘属则有；头比较短、宽、厚。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "侧面观头顶呈锐驼峰，驼峰上下分别为陡斜的额面与头顶；囟孔位于斜面中部，离后唇基比离头顶更近。"
+  },
+  {
+   "label": "工蚁",
+   "text": "两上颚端齿比例都大；左上颚第三缘齿之前没有可见的角状缺刻；右上颚第二缘齿小而明显。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+   "locator": "pp. 12–13（Mucrotermes 兵蚁）"
+  },
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+   "locator": "pp. 12–13（Mucrotermes 兵蚁）"
+  },
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+   "locator": "p. 14（Mucrotermes 工蚁）"
+  }
+ ],
+ "note": "只写 Emerson（1960）属级诊断中明确给出的兵蚁与工蚁性状；种级量度与毛被从略。"
+}

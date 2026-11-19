@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "属的界定与分布",
+   "paragraphs": [
+    {
+     "text": "根据 Cancello & Cuezzo（2007），无名白蚁属（Ereymatermes）是象白蚁亚科（Nasutitermitinae）的新热带特有属。该文描述新种短小无名白蚁（Ereymatermes piquira，模式产地巴西巴伊亚州 Ilhéus），并回顾此前已知的圆头无名白蚁（Ereymatermes rotundiceps，巴西亚马孙州 Japurá 河下游森林）和巴拿马无名白蚁（Ereymatermes panamensis，巴拿马运河区）。",
+     "src": [
+      "S0098"
+     ],
+     "text_en": "According to Cancello & Cuezzo (2007), Ereymatermes is a Neotropical endemic genus of Nasutitermitinae. The paper describes the new species Ereymatermes piquira (type locality Ilhéus, Bahia, Brazil) and reviews the previously known Ereymatermes rotundiceps (forest along the lower Japurá River, Amazonas, Brazil) and Ereymatermes panamensis (Panama Canal Zone).",
+     "text_es": "Según Cancello y Cuezzo (2007), Ereymatermes es un género neotropical endémico de Nasutitermitinae. El trabajo describe la especie nueva Ereymatermes piquira (localidad tipo: Ilhéus, Bahía, Brasil) y revisa las especies antes conocidas Ereymatermes rotundiceps (bosques del curso bajo del río Japurá, Amazonas, Brasil) y Ereymatermes panamensis (Zona del Canal de Panamá)."
+    },
+    {
+     "text": "无名白蚁属（Ereymatermes）可由兵蚁、工蚁和有翅成虫三品级共同界定；兵蚁头壳卵形、触角基后方略收缩，象鼻长圆柱形、不上翘，上唇很退化，触角 12 节，胫节距 2:2:2；工蚁二型，窄隙型更常见。",
+     "src": [
+      "S0098"
+     ],
+     "text_en": "Ereymatermes is defined jointly by the soldier, worker and alate castes; the soldier has an oval head capsule slightly constricted behind the antennal bases, a long cylindrical nasus that is not upturned, a much reduced labrum, 12-segmented antennae and a tibial spur formula of 2:2:2; the workers are dimorphic, the narrow-gap type being the more common.",
+     "text_es": "Ereymatermes se define conjuntamente por los soldados, los obreros y los imagos; en el soldado la cápsula cefálica es ovalada y se estrecha ligeramente por detrás de la base de las antenas, el naso es largo y cilíndrico y no se inclina hacia arriba, el labro está muy reducido, las antenas tienen 12 artejos y la fórmula de espinas tibiales es 2:2:2; los obreros son dimórficos y el morfotipo de hendidura estrecha es el más frecuente."
+    }
+   ],
+   "heading_en": "Definition and distribution of the genus",
+   "heading_es": "Delimitación y distribución del género"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0098",
+   "citation": "Cancello E. M., Cuezzo C. A new species of Ereymatermes Constantino (Isoptera, Termitidae, Nasutitermitinae) from the northeastern Atlantic Forest, Brazil. Papéis Avulsos de Zoologia 47(23): 283–288, 2007.",
+   "url": "https://revistas.usp.br/paz/article/view/33691"
+  }
+ ]
+}

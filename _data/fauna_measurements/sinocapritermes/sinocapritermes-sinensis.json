@@ -1,0 +1,124 @@
+{
+ "book_n": "364",
+ "book_name": "华扭白蚊 Sinocapritermes sinensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "华扭白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.90",
+     "value": "1.76–1.96"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.30",
+     "value": "1.26–1.33"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.80",
+     "value": "1.71–1.87"
+    },
+    {
+     "key": "right_mandible_length",
+     "mean": "1.80",
+     "value": "1.76–1.84"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.05",
+     "value": "1.02–1.09"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.40",
+     "value": "0.36–0.46"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.27",
+     "value": "0.23–0.33"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.41",
+     "value": "0.39–0.41"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.79",
+     "value": "0.76–0.82"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.13",
+     "value": "1.10–1.17"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 791,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "华歪白蚊有翅成虫量度 ( mam)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "6.64"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "value": "0.86"
+    },
+    {
+     "key": "eye_long_diameter",
+     "value": "0.31"
+    },
+    {
+     "key": "eye_short_diameter",
+     "value": "0.28"
+    },
+    {
+     "key": "ocellus_long_diameter",
+     "value": "0.12"
+    },
+    {
+     "key": "ocellus_short_diameter",
+     "value": "0.08"
+    },
+    {
+     "key": "eye_head_lower_margin",
+     "value": "0.08"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.53"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "0.53"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.92"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.40"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 800,
+   "unit": "mm"
+  }
+ ]
+}

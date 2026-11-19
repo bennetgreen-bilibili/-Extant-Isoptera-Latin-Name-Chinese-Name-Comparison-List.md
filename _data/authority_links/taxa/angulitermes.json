@@ -1,0 +1,640 @@
+{
+ "Angulitermes acutus": {
+  "gbif": {
+   "key": 9806126,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes acutus Sen-Sarma & Mathur, 1961",
+   "accepted": null
+  },
+  "col": {
+   "id": "66QGW",
+   "status": "accepted",
+   "label": "Angulitermes acutus Mathur & Sen-Sarma, 1961",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234838",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes akhorisainensis": {
+  "gbif": {
+   "key": 9672063,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes akhorisainensis Thakur & Chatterjee, 1964",
+   "accepted": null
+  },
+  "col": {
+   "id": "66QH8",
+   "status": "accepted",
+   "label": "Angulitermes akhorisainensis Chatterjee & Thakur, 1964",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234839",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes arabiae": {
+  "gbif": {
+   "key": 9810900,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes arabiae Bose & Chhotani, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "672GW",
+   "status": "accepted",
+   "label": "Angulitermes arabiae Chhotani & Bose, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234841",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes asirensis": {
+  "gbif": {
+   "key": 9655888,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes asirensis Bose & Chhotani, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "672H8",
+   "status": "accepted",
+   "label": "Angulitermes asirensis Chhotani & Bose, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234842",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes bhagsunagensis": {
+  "gbif": {
+   "key": 9646213,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes bhagsunagensis Thakur, 2008",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V2GZ",
+   "status": "accepted",
+   "label": "Angulitermes bhagsunagensis Thakur, 2008",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234843",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes braunsi": {
+  "gbif": {
+   "key": 9695574,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes braunsi (Wasmann, 1908)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66QGZ",
+   "status": "accepted",
+   "label": "Angulitermes braunsi (Wasmann, 1908)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234844",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes ceylonicus": {
+  "gbif": {
+   "key": 9714781,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes ceylonicus (Holmgren, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "672GZ",
+   "status": "accepted",
+   "label": "Angulitermes ceylonicus (Holmgren, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30687035",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes dehraensis": {
+  "gbif": {
+   "key": 9766034,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes dehraensis (Gardner, 1945)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V2HB",
+   "status": "accepted",
+   "label": "Angulitermes dehraensis (Gardner, 1945)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234845",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes elsenburgi": {
+  "gbif": {
+   "key": 9653367,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes elsenburgi (Fuller, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66QHB",
+   "status": "accepted",
+   "label": "Angulitermes elsenburgi (Fuller, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234846",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes emersoni": {
+  "gbif": {
+   "key": 9749067,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes emersoni Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "672HB",
+   "status": "accepted",
+   "label": "Angulitermes emersoni Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234847",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes fletcheri": {
+  "gbif": {
+   "key": 9798525,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes fletcheri (Holmgren & Holmgren, 1917)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V2HF",
+   "status": "accepted",
+   "label": "Angulitermes fletcheri (Holmgren & Holmgren, 1917)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234848",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes frontalis": {
+  "gbif": {
+   "key": 9726818,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes frontalis (Silvestri, 1908)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66QHF",
+   "status": "accepted",
+   "label": "Angulitermes frontalis (Silvestri, 1908)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234849",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes hussaini": {
+  "gbif": {
+   "key": 9724833,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes hussaini Ahmad, 1955",
+   "accepted": null
+  },
+  "col": {
+   "id": "672HF",
+   "status": "accepted",
+   "label": "Angulitermes hussaini Ahmad, 1955",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234850",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes jodhpurensis": {
+  "gbif": {
+   "key": 9778397,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes jodhpurensis Verma & Roonwal, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V2HC",
+   "status": "accepted",
+   "label": "Angulitermes jodhpurensis Roonwal & Verma, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234851",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes kashmirensis": {
+  "gbif": {
+   "key": 9717369,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes kashmirensis Chhotani & Roonwal, 1971",
+   "accepted": null
+  },
+  "col": {
+   "id": "66QHC",
+   "status": "accepted",
+   "label": "Angulitermes kashmirensis Roonwal & Chhotani, 1971",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234852",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes keralai": {
+  "gbif": {
+   "key": 9746385,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes keralai Verma, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "672HC",
+   "status": "accepted",
+   "label": "Angulitermes keralai Verma, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q65229309",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes longifrons": {
+  "gbif": {
+   "key": 9674599,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes longifrons Maiti, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V2HD",
+   "status": "accepted",
+   "label": "Angulitermes longifrons Maiti, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234853",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes mishrai": {
+  "gbif": {
+   "key": 9698165,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes mishrai Thakur & Sen-Sarma, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "66QHD",
+   "status": "accepted",
+   "label": "Angulitermes mishrai Sen-Sarma & Thakur, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234854",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes nepalensis": {
+  "gbif": {
+   "key": 9693635,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes nepalensis Maiti & Mukherjee, 2008",
+   "accepted": null
+  },
+  "col": {
+   "id": "672HD",
+   "status": "accepted",
+   "label": "Angulitermes nepalensis Mukherjee & Maiti, 2008",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234855",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes nilensis": {
+  "gbif": {
+   "key": 9734299,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes nilensis Harris, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V2J3",
+   "status": "accepted",
+   "label": "Angulitermes nilensis Harris, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234856",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes obtusus": {
+  "gbif": {
+   "key": 9818690,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes obtusus (Holmgren & Holmgren, 1917)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66QJ3",
+   "status": "accepted",
+   "label": "Angulitermes obtusus (Holmgren & Holmgren, 1917)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234857",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes paanensis": {
+  "gbif": {
+   "key": 9683746,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes paanensis Krishna, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "672J3",
+   "status": "accepted",
+   "label": "Angulitermes paanensis Krishna, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234858",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes punjabensis": {
+  "gbif": {
+   "key": 9664870,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes punjabensis Akhtar, 1974",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V2J4",
+   "status": "accepted",
+   "label": "Angulitermes punjabensis Akhtar, 1974",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234859",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes quadriceps": {
+  "gbif": {
+   "key": 9768699,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes quadriceps Harris, 1964",
+   "accepted": null
+  },
+  "col": {
+   "id": "66QJ4",
+   "status": "accepted",
+   "label": "Angulitermes quadriceps Harris, 1964",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234860",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes ramanii": {
+  "gbif": {
+   "key": 9702944,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes ramanii Das & Bose, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "672J4",
+   "status": "accepted",
+   "label": "Angulitermes ramanii Bose & Das, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234861",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes rathorai": {
+  "gbif": {
+   "key": 9756599,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes rathorai Thakur & Kumar, 2010",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V2J2",
+   "status": "accepted",
+   "label": "Angulitermes rathorai Kumar & Thakur, 2010",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234863",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes resimus": {
+  "gbif": {
+   "key": 9667447,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes resimus Krishna, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "66QJ2",
+   "status": "accepted",
+   "label": "Angulitermes resimus Krishna, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234864",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes tilaki": {
+  "gbif": {
+   "key": 9801214,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes tilaki Chhotani & Roonwal, 1971",
+   "accepted": null
+  },
+  "col": {
+   "id": "672J2",
+   "status": "accepted",
+   "label": "Angulitermes tilaki Roonwal & Chhotani, 1971",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234866",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angulitermes truncatus": {
+  "gbif": {
+   "key": 9753888,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angulitermes truncatus Sjöstedt, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V2J7",
+   "status": "accepted",
+   "label": "Angulitermes truncatus Sjöstedt, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234867",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

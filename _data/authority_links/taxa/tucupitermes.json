@@ -1,0 +1,26 @@
+{
+ "Tucupitermes ubixaba": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 99,
+   "rank": "KINGDOM",
+   "name": "Animalia",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V3D95",
+   "status": "accepted",
+   "label": "Tucupitermes ubixaba Almeida-Azevedo, Acioli & de Azevedo, 2025",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

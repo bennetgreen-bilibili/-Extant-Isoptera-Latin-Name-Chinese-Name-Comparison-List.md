@@ -1,0 +1,43 @@
+{
+ "latin": "Angulitermes",
+ "zh": "角白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Angulitermes Sjöstedt, 1924b: 257.",
+ "type_species": "Mirotermes frontalis Silvestri, 1908 by original designation.",
+ "references": [
+  {
+   "ref": "Sjöstedt, 1926d: 280",
+   "note": "Angulitermes; reference list; soldier characters; remarks."
+  },
+  {
+   "ref": "Ahmad, 1955b: 219",
+   "note": "Angulitermes; key."
+  },
+  {
+   "ref": "Ahmad, 1958: 91",
+   "note": "Angulitermes; key."
+  },
+  {
+   "ref": "Webb, 1961: 13",
+   "note": "Angulitermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 31, 110, 111, pl. 23: fig. 73c",
+   "note": "Angulitermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Chatterjee and Thakur, 1967: 4",
+   "note": "Angulitermes; key."
+  },
+  {
+   "ref": "Harris, 1968c: 6",
+   "note": "Angulitermes; key."
+  },
+  {
+   "ref": "Chaudhry et al., 1972: 61",
+   "note": "Angulitermes; characters."
+  }
+ ],
+ "nrefs": 50
+}

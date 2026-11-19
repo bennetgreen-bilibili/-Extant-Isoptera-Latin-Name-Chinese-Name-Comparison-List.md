@@ -1,0 +1,113 @@
+{
+ "fetched_at": "2026-10-30T15:46:49Z",
+ "latin": "Apilitermes",
+ "papers": [
+  {
+   "abstract": "",
+   "abstract_chars": 0,
+   "abstract_source": "",
+   "abstract_truncated": false,
+   "authors": [
+    "J. E. Ruelle",
+    "M. Bunta",
+    "Soki Kue Di Kuenda"
+   ],
+   "cited_by": 0,
+   "date": "1987-01-01",
+   "doi": "",
+   "doi_url": "",
+   "id": "https://openalex.org/W2467740778",
+   "issue": "4",
+   "language": "fr",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W2467740778",
+   "pages": "519-523",
+   "title": "Apilitermes longiceps (Sjöstedt) (Isoptera, Termitidae): description de la caste ailée et nouvelles observations au Zaïre",
+   "type": "article",
+   "venue": "Revue de Zoologie Africaine",
+   "volume": "101",
+   "year": 1987
+  },
+  {
+   "abstract": "Termites play an important ecological role. The objective of this work is to evaluate the diversity of termites in two different ecosystems (primary forest and horticultural forest) of the Partial Dalhia Fleurs Natural Reserve (DFNR) In each ecosystem, three transects were carried out using the standardized rapid termite assessment method. A total of 20 species of termites were sampled. In the primary forest, 18 species were sampled and 16 species in the horticultural forest. These species belong to two families which are the Termitidae with 17 species and the Rhinotermitinae. These termites were Macrotermes subhyalinus, Macrotermes bellicosus, Acanthotermes sp, Odontotermes sp, Ancistrotermes guineensis, Microtermes sp, Microtermes sp2, Procubitermes sp, Protermes sp, Pericapritermes sp, Microcerotermes parvus, Amphidotermes sp, Cubitermes fungifaber, Noditermes sp, Apilitermes sp, Amitermes guineensis and Trinervitermes sp. The second family was that of Rhinotermitidae with 3 species namely Coptotermes intermedius, Coptotermes sjöstedti and Schedorhinotermes lamanianus. Thus, the Dalhia Fleur Nature Reserve abounds in a significant wealth of termitic fauna. It is therefore important to protect it further.",
+   "abstract_chars": 1226,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Akpa Alexandre Moïse Akpesse",
+    "Dohouonan Diabaté",
+    "Ténon Coulibaly",
+    "Yavo Olivier Kouadja",
+    "Kouakou Hervé Koua",
+    "Kouassi Philippe Kouassi"
+   ],
+   "cited_by": 1,
+   "date": "2022-10-30",
+   "doi": "10.9734/jaeri/2022/v23i6501",
+   "doi_url": "https://doi.org/10.9734/jaeri/2022/v23i6501",
+   "id": "https://openalex.org/W4307865360",
+   "issue": "6",
+   "language": "en",
+   "oa_url": "https://journaljaeri.com/index.php/JAERI/article/download/501/1002",
+   "openalex_url": "https://openalex.org/W4307865360",
+   "pages": "82-92",
+   "title": "Termitic Diversity of the Dalhia Fleurs Partial Natural Reserve (Bingerville, Côte d’Ivoire)",
+   "type": "article",
+   "venue": "Journal of Agriculture and Ecology Research International",
+   "volume": "23",
+   "year": 2022
+  },
+  {
+   "abstract": "The phylogeny of the genus Cubitermes Wasmann was reconstructed using two mitochondrial genes ( COI and COII ) and a fragment of the nuclear 28S rDNA, including samples of Apilitermes Holmgren, Crenetermes Silvestri, Megagnathotermes Silvestri and Thoracotermes Wasmann. Based on our analyses, we recovered these genera within a paraphyletic Cubitermes clade. Cubitermes species are distributed between five main clades, highly reflective of their enteric valve armatures (EVAs). Consequently, Cubitermes is here divided into five monophyletic genera based on phylogenetic analyses and EVAs: Cubitermes ( sensu stricto ), Isognathotermes Sjöstedt, Nitiditermes Emerson, Polyspathotermes Josens & Deligne, gen.n., and Ternicubitermes Josens & Deligne, gen.n. Moreover, the two species of Megagnathotermes included in this study, exhibiting different EVAs, are phylogenetically distant: M. katangensis Sjöstedt belongs in the genus Polyspathotermes, while M. notandus Silvestri remains as a monotypic genus. During the evolution of the Cubitermes complex, sclerotized EVA spatulae appeared twice independently: three or six spatulae in Polyspathotermes ( sulcifrons and oblectatus patterns) and two jaw‐like spatulae in Nitiditermes ( sankurensis pattern), which is absent in some species ( oculatus pattern). Zoobank registration: http://zoobank.org/urn:lsid:zoobank.org:pub:576AAFF8‐63C6‐4962‐A8F5‐75C9317AEA7B.",
+   "abstract_chars": 1411,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Simon Hellemans",
+    "Jean Deligne",
+    "Yves Roisin",
+    "Guy Josens"
+   ],
+   "cited_by": 17,
+   "date": "2021-01-01",
+   "doi": "10.1111/syen.12458",
+   "doi_url": "https://doi.org/10.1111/syen.12458",
+   "id": "https://openalex.org/W3119431546",
+   "issue": "1",
+   "language": "en",
+   "oa_url": "https://oist.repo.nii.ac.jp/record/2113/files/REPOSITORY_Phylogeny_Cubitermes.pdf",
+   "openalex_url": "https://openalex.org/W3119431546",
+   "pages": "224-238",
+   "title": "Phylogeny and revision of the ‘ Cubitermes complex’ termites ( Termitidae : Cubitermitinae )",
+   "type": "article",
+   "venue": "Systematic Entomology",
+   "volume": "46",
+   "year": 2021
+  },
+  {
+   "abstract": "Compared Pedological Characteristics of Termite Mounds under Primary Forests of Yangambi Platform in Congolese Central Basin. Some pedological characteristics of five identified termite mounds under primary forests of Yangambi platform in congolese central basin are compared with those of host soil series. Five termite mounds are conical shaped (tcn) of Noditermes cristifrons Sjöst., hat-shaped (tch) of Cubitermes speciosus Sjöst., semi-arboricolous (tsa) of Apilitermes longiceps Sjöst., dome-shaped (tdo) of Thoracotermes macrothorax Sjöst. and hill-shaped (tco) of Macrotermes muellai Sjöst. Four host soil series are Yambaw (Y0), Yangambi (Y1), Yakonde (Y2) and Yambeli (YL); they are more colonized by termite mounds and more farmed by peasants of Yangambi region. The achieved results show that termite mounds are more fertile than host soil series. Among five identified termite mounds, three are interesting as sources of fertilizers: tsa, tch and tdo. Particularly for the tco, analytical values are comparable to those of the host soil series. For practical applications, tsa is identified as better source of soil fertility for rice sown to vegetables and tdo for amaranth. Combined with dried peanut straw, tcn obtained best results on amaranth. Termite mounds are abundant in rainforest of Yangambi platform and their fertility is high compared to that of host soil series. They may be of interest as sources of soil fertility at small scale vegetables growing.",
+   "abstract_chars": 1478,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "BM. Kombele"
+   ],
+   "cited_by": 1,
+   "date": "2002-01-01",
+   "doi": "",
+   "doi_url": "",
+   "id": "https://openalex.org/W4404705850",
+   "issue": "",
+   "language": "en",
+   "oa_url": "https://doaj.org/article/8b84e010f73d46408219675af9b09f68",
+   "openalex_url": "https://openalex.org/W4404705850",
+   "pages": "",
+   "title": "Caractéristiques pédologiques comparées de termitières sous forêts primaires du plateau de Yangambi en cuvette centrale congolaise",
+   "type": "article",
+   "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+   "volume": "",
+   "year": 2002
+  }
+ ],
+ "zh": "无毛白蚁属"
+}

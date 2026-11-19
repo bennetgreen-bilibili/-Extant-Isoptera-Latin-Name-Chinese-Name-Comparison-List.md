@@ -1,0 +1,46 @@
+{
+ "Protocapritermes krisiformis": {
+  "gbif": {
+   "key": 4803079,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Protocapritermes krisiformis (Froggatt, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4N4RP",
+   "status": "accepted",
+   "label": "Protocapritermes krisiformis (Froggatt, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272547",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Protocapritermes odontomachus": {
+  "gbif": {
+   "key": 7656063,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Protocapritermes odontomachus (Desneux, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4N4RQ",
+   "status": "accepted",
+   "label": "Protocapritermes odontomachus (Desneux, 1905)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21298075",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

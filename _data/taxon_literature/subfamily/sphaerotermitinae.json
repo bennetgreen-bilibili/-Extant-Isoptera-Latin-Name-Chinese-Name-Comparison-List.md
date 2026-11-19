@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "亚科的建立与科群名称整理",
+   "heading_en": "Establishment of the subfamily and revision of family-group names",
+   "heading_es": "Establecimiento de la subfamilia y revisión de los nombres de grupo de familia",
+   "paragraphs": [
+    {
+     "src": [
+      "S0146"
+     ],
+     "text": "据摘要，Engel 与 Krishna（2004）确认等翅目共有 39 个可用的科群名称，并首次为每个名称给出正确的作者、年代、模式属与组合词干；文中把圆球白蚁亚科（Sphaerotermitinae）作为新亚科提出，用于圆球白蚁属（<i>Sphaerotermes</i>），同时新提出聚白蚁亚科（Syntermitinae）以容纳具上颚的象白蚁类群，并诊断了此前长期被误解的孔白蚁亚科（Foraminitermitinae），指出该亚科由 Holmgren 在近一个世纪前建立，而非当时新提出的亚科。",
+     "text_en": "According to the abstract, Engel and Krishna (2004) recognized 39 available family-group names in Isoptera and for the first time provided the correct author, date, type genus and combining stem for each; they proposed Sphaerotermitinae as a new subfamily for the genus <i>Sphaerotermes</i>, simultaneously proposed Syntermitinae for the mandibulate nasute termites, and diagnosed the long-misunderstood Foraminitermitinae, showing that it had been established by Holmgren nearly a century earlier rather than being a new subfamily.",
+     "text_es": "Según el resumen, Engel y Krishna (2004) reconocieron 39 nombres de grupo de familia disponibles en Isoptera y, por primera vez, proporcionaron el autor, la fecha, el género tipo y la raíz de combinación correctos para cada uno; propusieron Sphaerotermitinae como subfamilia nueva para el género <i>Sphaerotermes</i>, propusieron simultáneamente Syntermitinae para las termitas nasutas mandibuladas y diagnosticaron la largamente malinterpretada Foraminitermitinae, mostrando que había sido establecida por Holmgren casi un siglo antes y no era una subfamilia nueva."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0146",
+   "citation": "Engel, M. S.; Krishna, K. 2004. Family-Group Names for Termites (Isoptera). American Museum Novitates 3432: 1–9.",
+   "doi": "10.1206/0003-0082(2004)432 2.0.co;2"
+  }
+ ]
+}

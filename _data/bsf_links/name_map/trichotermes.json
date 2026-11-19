@@ -1,0 +1,35 @@
+{
+ "Trichotermes ducis": {
+  "label": "Trichotermes ducis (Sjöstedt, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84156,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84156/overview",
+  "valid_label": null,
+  "valid_otu": 84156,
+  "verified": false
+ },
+ "Trichotermes machadoi": {
+  "label": "Trichotermes machadoi Weidner, 1974",
+  "match": "exact",
+  "notes": "",
+  "otu": 84157,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84157/overview",
+  "valid_label": null,
+  "valid_otu": 84157,
+  "verified": false
+ },
+ "Trichotermes villifrons": {
+  "label": "Trichotermes villifrons (Sjöstedt, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84158,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84158/overview",
+  "valid_label": null,
+  "valid_otu": 84158,
+  "verified": false
+ }
+}

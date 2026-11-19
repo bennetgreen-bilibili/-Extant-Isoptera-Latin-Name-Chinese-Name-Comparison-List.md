@@ -1,0 +1,75 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "湖南的分布与别名",
+   "paragraphs": [
+    {
+     "text": "根据尹世才（1982）研究，山林原白蚁（Hodotermopsis sjostedti）在湖南分布于宜章县莽山、新宁县紫云山和江华县码市林区；文中还记录其别名纯叉原白蚁、尖叉原白蚁、蛀木大白蚁，并记载国外越南、国内广东、浙江、湖南、台湾、广西、云南的分布。",
+     "src": [
+      "S0109"
+     ],
+     "text_en": "According to Yin Shicai's (1982) study, Hodotermopsis sjostedti occurs in Hunan at Mangshan in Yizhang County, Ziyunshan in Xinning County and the Mashi forest area in Jianghua County; the paper also records the alternative Chinese names Chuncha Yuanbaiyi, Jiancha Yuanbaiyi and Zhumu Dabaiyi, and gives its distribution abroad in Vietnam and within China in Guangdong, Zhejiang, Hunan, Taiwan, Guangxi and Yunnan.",
+     "text_es": "Según el estudio de Yin Shicai (1982), Hodotermopsis sjostedti se distribuye en Hunan por Mangshan, en el condado de Yizhang, Ziyunshan, en el condado de Xinning, y la zona forestal de Mashi, en el condado de Jianghua; el trabajo registra además los nombres alternativos Chuncha Yuanbaiyi, Jiancha Yuanbaiyi y Zhumu Dabaiyi, y su distribución en Vietnam y, dentro de China, en Guangdong, Zhejiang, Hunan, Taiwán, Guangxi y Yunnan."
+    }
+   ],
+   "heading_en": "Distribution in Hunan and alternative names",
+   "heading_es": "Distribución y otros nombres en Hunan"
+  },
+  {
+   "heading": "体内鞭毛虫的系统位置",
+   "heading_en": "Phylogenetic position of its flagellate",
+   "heading_es": "Posición filogenética de su flagelado",
+   "paragraphs": [
+    {
+     "text": "根据 Mee 等（2019）研究，栖息于东南亚山地、属古白蚁科的山林原白蚁（<i>Hodotermopsis sjostedti</i>）体内有一种 <i>Hoplonympha</i> 鞭毛虫，它与简角近新白蚁（<i>Paraneotermes simplicicornis</i>）体内的 <i>Hoplonympha natator</i> 构成一枝；由于两个宿主在系统发育与地理上相距甚远，该分布可由古老转移或严格的垂直传递并在其他宿主中丢失来解释。（据摘要）",
+     "src": [
+      "S0347"
+     ],
+     "text_en": "In the study by Mee et al. (2019), <i>Hodotermopsis sjostedti</i>, which lives in the mountains of Southeast Asia in the family Archotermopsidae, harbours a species of <i>Hoplonympha</i> that forms a clade with <i>Hoplonympha natator</i> from <i>Paraneotermes simplicicornis</i>; because the two hosts are far apart both phylogenetically and geographically, the distribution may be explained by ancient transfer or by strict vertical inheritance with differential loss from other hosts. (According to the abstract.)",
+     "text_es": "En el estudio de Mee et al. (2019), <i>Hodotermopsis sjostedti</i>, que vive en las montañas del sudeste asiático en la familia Archotermopsidae, alberga una especie de <i>Hoplonympha</i> que forma un clado con <i>Hoplonympha natator</i> de <i>Paraneotermes simplicicornis</i>; como los dos hospedadores están muy separados filogenética y geográficamente, la distribución podría explicarse por transferencia antigua o por herencia vertical estricta con pérdida diferencial en otros hospedadores. (Según el resumen.)"
+    }
+   ]
+  },
+  {
+   "heading": "兵蚁品级特异表达的 SOL1 基因",
+   "heading_en": "The soldier-specific SOL1 gene",
+   "heading_es": "El gen SOL1 específico de la casta de soldado",
+   "paragraphs": [
+    {
+     "text": "据摘要，Miura 等（1999）以差异显示法比较成熟兵蚁与拟工蚁（pseudergate）头部的 mRNA，从山林原白蚁（<i>Hodotermopsis sjostedti</i>）中分离到长 329 bp 的克隆 SOL1；Northern 杂交显示其 mRNA 长约 1.0 kb，仅在成熟兵蚁中表达，在拟工蚁中不表达，即使用保幼激素类似物诱导出前兵蚁也不表达，提示该产物为终末分化的兵蚁所特有。",
+     "text_en": "According to the abstract, Miura et al. (1999) used differential display to compare mRNA from the heads of mature soldiers and pseudergates and isolated a 329 bp clone, SOL1, from <i>Hodotermopsis sjostedti</i>; Northern blot analysis showed that its mRNA is about 1.0 kb long and is expressed specifically in mature soldiers, not in pseudergates, and not even in presoldiers induced by a juvenile hormone analogue, suggesting that the product is specific to terminally differentiated soldiers.",
+     "text_es": "Según el resumen, Miura et al. (1999) emplearon la visualización diferencial para comparar el ARNm de las cabezas de soldados maduros y de pseudoergatos y aislaron un clon de 329 pb, SOL1, de <i>Hodotermopsis sjostedti</i>; el análisis por Northern blot mostró que su ARNm mide unos 1,0 kb y se expresa específicamente en los soldados maduros, no en los pseudoergatos, ni siquiera en los presoldados inducidos por un análogo de la hormona juvenil, lo que sugiere que el producto es específico de los soldados diferenciados terminalmente.",
+     "src": [
+      "S0367"
+     ]
+    },
+    {
+     "text": "据摘要，该研究以 5′ 与 3′ RACE 获得 SOL1 全长 cDNA，含一个编码 N 端信号肽的开放阅读框，其序列与已知蛋白无显著同源性；原位杂交显示 SOL1 仅在下颌腺表达，组织学观察表明该腺体在向兵蚁品级分化过程中发育。",
+     "text_en": "According to the abstract, the study obtained the full-length SOL1 cDNA by 5′ and 3′ RACE; it contains an open reading frame encoding an N-terminal signal peptide, and its sequence shows no significant homology with any known protein; in situ hybridization showed that SOL1 is expressed specifically in the mandibular glands, and histological observations showed that the gland actually develops during differentiation into the soldier caste.",
+     "text_es": "Según el resumen, el estudio obtuvo el ADNc completo de SOL1 mediante RACE 5′ y 3′; contiene un marco de lectura abierto que codifica un péptido señal en el extremo N y su secuencia no muestra homología significativa con ninguna proteína conocida; la hibridación in situ mostró que SOL1 se expresa específicamente en las glándulas mandibulares, y las observaciones histológicas mostraron que la glándula se desarrolla durante la diferenciación hacia la casta de soldado.",
+     "src": [
+      "S0367"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0109",
+   "citation": "尹世才. 1982. 山林原白蚁的初步研究. 林业科学 18(1): 58–63.",
+   "url": "https://www.linyekexue.net/CN/Y1982/V18/I1/58"
+  },
+  {
+   "id": "S0347",
+   "citation": "Mee, E. D.; Gaylor, M. G.; Jasso-Selles, D. E.; Mizumoto, N.; Gile, G. H. 2019. Molecular Phylogenetic Position of Hoplonympha natator (Trichonymphea, Parabasalia): Horizontal Symbiont Transfer or Differential Loss? Journal of Eukaryotic Microbiology.",
+   "doi": "10.1111/jeu.12765"
+  },
+  {
+   "id": "S0367",
+   "citation": "Miura, T.; Kamikouchi, A.; Sawata, M.; Takeuchi, H.; Natori, S.; Kubo, T.; Matsumoto, T. 1999. Soldier caste-specific gene expression in the mandibular glands of Hodotermopsis japonica (Isoptera: Termopsidae). Proceedings of the National Academy of Sciences.",
+   "url": "https://doi.org/10.1073/pnas.96.24.13874"
+  }
+ ]
+}

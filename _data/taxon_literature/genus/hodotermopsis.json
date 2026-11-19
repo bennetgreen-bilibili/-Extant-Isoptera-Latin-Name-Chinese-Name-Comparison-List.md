@@ -1,0 +1,75 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "科级归属的变动",
+   "heading_en": "Change of family placement",
+   "heading_es": "Cambio de asignación familiar",
+   "paragraphs": [
+    {
+     "text": "据摘要，Wang 等（2022）用 27 个样本的核 rRNA 基因与线粒体基因组重建 Teletisoptera（胄白蚁科 Stolotermitidae + 草白蚁科 Hodotermitidae + 古白蚁科 Archotermopsidae）的系统发育，确认 Teletisoptera 为单系，并把以原白蚁属（Hodotermopsis）为唯一成员的原白蚁亚科 Hodotermopsinae 提升为原白蚁科（Hodotermopsidae，status novum）；本站现采用这一科级归属，旧文献把原白蚁属置于古白蚁科者，应写「当时置于古白蚁科（Archotermopsidae），2022 年后置于原白蚁科（Hodotermopsidae）」。",
+     "text_en": "According to the abstract, Wang et al. (2022) reconstructed the phylogeny of Teletisoptera (Stolotermitidae + Hodotermitidae + Archotermopsidae) from the nuclear rRNA genes and mitochondrial genomes of 27 samples, confirmed the monophyly of Teletisoptera and elevated Hodotermopsinae (containing only <i>Hodotermopsis</i>) to Hodotermopsidae (status novum); this site follows that family placement, and older literature placing the genus in Archotermopsidae should be cited as \"then placed in Archotermopsidae, placed in Hodotermopsidae since 2022\".",
+     "text_es": "Según el resumen, Wang et al. (2022) reconstruyeron la filogenia de Teletisoptera (Stolotermitidae + Hodotermitidae + Archotermopsidae) a partir de los genes de ARNr nuclear y los genomas mitocondriales de 27 muestras, confirmaron la monofilia de Teletisoptera y elevaron Hodotermopsinae (que contiene solo <i>Hodotermopsis</i>) a Hodotermopsidae (status novum); este sitio sigue esa asignación familiar, y la bibliografía antigua que situaba el género en Archotermopsidae debe citarse como «situado entonces en Archotermopsidae, situado en Hodotermopsidae desde 2022».",
+     "src": [
+      "S0196"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "共生原生动物区系与科的建立",
+   "heading_en": "Symbiotic protozoan fauna and the establishment of the family",
+   "heading_es": "Fauna de protozoos simbiontes y establecimiento de la familia",
+   "paragraphs": [
+    {
+     "src": [
+      "S0261"
+     ],
+     "text": "根据 Kitade 等（2012）研究，琉球群岛 5 个岛、台湾岛与中国大陆南部共 34 巢山林原白蚁（<i>Hodotermopsis sjostedti</i>）中识别出 13 种副基体类（parabasalid）与 6 种锐滴虫类（oxymonad）原生动物，是迄今研究过的白蚁宿主中物种最丰富的共生原生动物区系，可能与宿主身体较大有关；其中 4 种副基体类为近年依据越南所采同种白蚁描述的新种（据摘要）。",
+     "text_en": "According to Kitade et al. (2012), 13 species of parabasalid and 6 species of oxymonad protozoa were identified in 34 colonies of <i>Hodotermopsis sjostedti</i> from five islands of the Ryukyu Archipelago, Taiwan and southern mainland China, the most species-rich symbiotic protozoan fauna recorded for any termite host studied to date, possibly related to the relatively large body size of the host; four of the parabasalid species are new species described in recent years from the same termite collected in Vietnam (according to the abstract).",
+     "text_es": "Según Kitade et al. (2012), en 34 colonias de <i>Hodotermopsis sjostedti</i> de cinco islas del archipiélago de Ryukyu, Taiwán y el sur de China continental se identificaron 13 especies de protozoos parabasalidos y 6 especies de oximónadas, la fauna de protozoos simbiontes más rica en especies registrada hasta la fecha para un hospedador de termitas, lo que podría estar relacionado con el mayor tamaño corporal del hospedador; cuatro de las especies de parabasalidos son especies nuevas descritas en años recientes a partir de la misma termita recolectada en Vietnam (según el resumen)."
+    },
+    {
+     "src": [
+      "S0261"
+     ],
+     "text": "除 <i>Gen. A</i> sp. 与 <i>Hoplonympha</i> sp. 外，各原生动物种在所有宿主种群中的感染率均为 100%，且除 <i>Gen. A</i> sp. 的有无外所有巢的物种组成一致；屋久岛上含与不含该种的两类巢互斥分布，提示该白蚁为多巢位营巢者，并在野外发生巢芽殖（据摘要）。",
+     "text_en": "Except for <i>Gen. A</i> sp. and <i>Hoplonympha</i> sp., every protozoan species showed a 100% infection rate in all host populations, and the species composition was identical across all colonies except for the presence or absence of <i>Gen. A</i> sp.; on Yakushima Island the two colony types, with and without this species, showed a mutually exclusive distribution, suggesting that the termite is a multiple-site nester and undergoes colony budding in the field (according to the abstract).",
+     "text_es": "Salvo <i>Gen. A</i> sp. y <i>Hoplonympha</i> sp., todas las especies de protozoos mostraron una tasa de infección del 100 % en todas las poblaciones hospedadoras, y la composición de especies fue idéntica en todas las colonias excepto por la presencia o ausencia de <i>Gen. A</i> sp.; en la isla de Yakushima los dos tipos de colonia, con y sin esta especie, presentaron una distribución mutuamente excluyente, lo que sugiere que la termita anida en múltiples sitios y se reproduce por gemación de colonias en el campo (según el resumen)."
+    }
+   ]
+  },
+  {
+   "heading": "旧文献中的科名与异名处理",
+   "heading_en": "The family name and synonymy in the older literature",
+   "heading_es": "El nombre de familia y la sinonimia en la literatura antigua",
+   "paragraphs": [
+    {
+     "text": "据摘要，Miura 等（1999）的标题沿用旧义的原白蚁科名 Termopsidae，并把研究材料记作 <i>Hodotermopsis japonica</i>；本站把 <i>Hodotermopsis japonica</i> 作为山林原白蚁（<i>Hodotermopsis sjostedti</i>）的异名 <i>Hodotermopsis japonicus</i> 处理，原白蚁属（<i>Hodotermopsis</i>）现置于原白蚁科（Hodotermopsidae），该科与旧义 Termopsidae 并非同一科。",
+     "text_en": "According to the abstract, the title of Miura et al. (1999) uses the old family name Termopsidae for Isoptera and records the material as <i>Hodotermopsis japonica</i>; this site treats <i>Hodotermopsis japonica</i> as the synonym <i>Hodotermopsis japonicus</i> of <i>Hodotermopsis sjostedti</i>, and the genus <i>Hodotermopsis</i> is now placed in Hodotermopsidae, which is not the same family as the older Termopsidae.",
+     "text_es": "Según el resumen, el título de Miura et al. (1999) emplea el antiguo nombre de familia Termopsidae para Isoptera y registra el material como <i>Hodotermopsis japonica</i>; este sitio trata <i>Hodotermopsis japonica</i> como el sinónimo <i>Hodotermopsis japonicus</i> de <i>Hodotermopsis sjostedti</i>, y el género <i>Hodotermopsis</i> se sitúa actualmente en Hodotermopsidae, que no es la misma familia que la antigua Termopsidae.",
+     "src": [
+      "S0367"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0196",
+   "citation": "Wang, M.; Hellemans, S.; Šobotník, J.; et al. 2022. Phylogeny, biogeography and classification of Teletisoptera (Blattaria: Isoptera). Systematic Entomology.",
+   "doi": "10.1111/syen.12548"
+  },
+  {
+   "id": "S0261",
+   "citation": "Kitade, O.; Hayashi, Y.; Takatsuto, K.; Matsumoto, T. 2012. Variation and diversity of symbiotic protist composition in the damp-wood termite Hodotermopsis sjoestedti.",
+   "doi": "10.18980/jjprotozool.45.1-2_29"
+  },
+  {
+   "id": "S0367",
+   "citation": "Miura, T.; Kamikouchi, A.; Sawata, M.; Takeuchi, H.; Natori, S.; Kubo, T.; Matsumoto, T. 1999. Soldier caste-specific gene expression in the mandibular glands of Hodotermopsis japonica (Isoptera: Termopsidae). Proceedings of the National Academy of Sciences.",
+   "url": "https://doi.org/10.1073/pnas.96.24.13874"
+  }
+ ]
+}

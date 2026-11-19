@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "根据 Sands（1972）研究，灰足近扭白蚁（<i>Pericapritermes pallidipes</i>）同样在非洲无兵蚁类白蚁的系统整理中离开解甲白蚁属（<i>Anoplotermes</i>），被转入近扭白蚁属（<i>Pericapritermes</i>）。",
+     "text_en": "According to Sands (1972), <i>Pericapritermes pallidipes</i> likewise left <i>Anoplotermes</i> in that systematic treatment of the soldierless termites of Africa and was transferred to <i>Pericapritermes</i>.",
+     "text_es": "Según Sands (1972), <i>Pericapritermes pallidipes</i> también abandonó <i>Anoplotermes</i> en ese tratamiento sistemático de las termitas sin soldados de África y fue transferida a <i>Pericapritermes</i>.",
+     "src": [
+      "S0005"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0005",
+   "citation": "Sands W.A. 1972 The soldierless termites of Africa (Isoptera: Termitidae). Bull. Br. Mus. Nat. Hist. (Ent.) Suppl. 18.",
+   "doi": "10.5962/p.192782"
+  }
+ ]
+}

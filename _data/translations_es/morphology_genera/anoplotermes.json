@@ -1,0 +1,17 @@
+{
+ "note": "El texto original señala expresamente que los soldados faltan por completo, por lo que este género solo cuenta con las secciones de alado y de obrero. Es un género neotropical; el «Anoplotermes» africano ha sido separado, de modo que la literatura de la región africana (Sands 1972) no incluye los caracteres genéricos de este género.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Faltan por completo los soldados. El alado tiene la cabeza muy ancha, por lo general densamente pilosa, los ojos compuestos pequeños y prominentes, la fontanela muy posterior o situada en la mitad de la cabeza; las antenas constan invariablemente de 15 segmentos, el tercero mucho más corto; las alas son oscuras, pilosas y con espinas; la tibia lleva 2 espolones apicales. El obrero es similar al de Eutermes, con el postclípeo fuertemente abultado, las antenas invariablemente de 14 segmentos, la cabeza casi siempre de color claro y la fontanela poco marcada."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza muy ancha, por lo general densamente pilosa, ojos compuestos pequeños y prominentes; fontanela muy posterior o situada en la mitad de la cabeza; ocelos de tamaño medio, a distancia variable de los ojos compuestos; la placa basal del postclípeo es casi siempre al menos tan larga como la mitad de su anchura (excepción: A. iheringi), por lo general fuertemente abultada; la banda transversa es más larga en el centro que en los lados; las mandíbulas llevan 1 gran diente apical, algo alargado; antenas invariablemente de 15 segmentos, el tercero por lo general mucho más corto que los adyacentes; cerebro grande. El pronoto como en Eutermes; el margen posterior del mesonoto y del metanoto más o menos profundamente escotado; alas oscuras, pilosas y con espinas, con nerviación como en Eutermes; tibia con 2 espolones apicales; abdomen alargado, en la hembra con pelos glandulares a ambos lados."
+  },
+  {
+   "label": "Obrero",
+   "text": "Similar al obrero de Eutermes; postclípeo fuertemente abultado, tan largo como la mitad de su anchura o incluso más; antenas invariablemente de 14 segmentos, el tercero casi siempre más corto que los adyacentes; cabeza casi siempre de color claro, fontanela poco marcada."
+  }
+ ]
+}

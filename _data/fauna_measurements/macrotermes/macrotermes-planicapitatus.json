@@ -1,0 +1,50 @@
+{
+ "book_n": "313",
+ "book_name": "平头大白蚊 Macrotermes planicapitatus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "平头大白蚁大、 小兵蚁量度",
+   "label_en": "Minor soldier measurements",
+   "label_es": "Medidas de soldado menor",
+   "label_zh": "小兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "3.54"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.864"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "2.40"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.92"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "1.104"
+    },
+    {
+     "key": "mesonotum_width",
+     "value": "1.448"
+    },
+    {
+     "key": "metanotum_width",
+     "value": "1.584"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "2.40"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 1138,
+   "unit": "mm"
+  }
+ ]
+}

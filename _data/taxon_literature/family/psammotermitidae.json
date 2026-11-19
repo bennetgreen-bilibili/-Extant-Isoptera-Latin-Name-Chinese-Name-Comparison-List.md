@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "沙白蚁科的建立（2024）",
+   "paragraphs": [
+    {
+     "text": "根据 Hellemans 等（2024），沙白蚁科（Psammotermitidae stat. nov.）由原鼻白蚁科的沙白蚁亚科（Psammotermitinae）提升为科，并把原鼻白蚁亚科（Prorhinotermitinae，旧亚科）一并纳入；现生属只有沙白蚁属（Psammotermes Desneux, 1902）和原鼻白蚁属（Prorhinotermes Silvestri, 1909）。",
+     "src": [
+      "S0008"
+     ],
+     "text_en": "According to Hellemans et al. (2024), Psammotermitidae (Psammotermitidae stat. nov.) was elevated from the subfamily Psammotermitinae of the former Rhinotermitidae to family rank and also incorporates the former subfamily Prorhinotermitinae; the only extant genera are Psammotermes Desneux, 1902 and Prorhinotermes Silvestri, 1909.",
+     "text_es": "Según Hellemans et al. (2024), Psammotermitidae (stat. nov.) se eleva a rango de familia a partir de la subfamilia Psammotermitinae de la antigua Rhinotermitidae y absorbe también la antigua subfamilia Prorhinotermitinae; sus únicos géneros actuales son Psammotermes Desneux, 1902 y Prorhinotermes Silvestri, 1909."
+    },
+    {
+     "text": "沙白蚁属（Psammotermes）是沙漠栖息者，分布于非洲（含马达加斯加）、撒哈拉-阿拉伯和东方区；原鼻白蚁属（Prorhinotermes）多为岛屿分布，其广布被认为可能与洋流搬运漂流木中的群体有关。",
+     "src": [
+      "S0008"
+     ],
+     "text_en": "Psammotermes is a desert dweller, distributed in Africa (including Madagascar), the Sahara-Arabian region and the Oriental region; Prorhinotermes is mostly insular in distribution, and its wide spread is thought possibly to be connected with ocean currents carrying colonies in driftwood.",
+     "text_es": "Psammotermes es un habitante del desierto y se distribuye por África (incluida Madagascar), el Sahara-Arábigo y la región Oriental; Prorhinotermes presenta sobre todo distribución insular, y se cree que su amplia dispersión podría deberse al transporte por corrientes oceánicas de colonias en madera a la deriva."
+    }
+   ],
+   "heading_en": "Establishment of Psammotermitidae (2024)",
+   "heading_es": "Establecimiento de Psammotermitidae (2024)"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0008",
+   "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
+   "doi": "10.1038/s41467-024-51028-y"
+  }
+ ]
+}

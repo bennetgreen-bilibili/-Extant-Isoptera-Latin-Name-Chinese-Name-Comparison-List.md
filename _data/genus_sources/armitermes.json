@@ -1,0 +1,43 @@
+{
+ "latin": "Armitermes",
+ "zh": "戟白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Armitermes Wasmann, 1897b: 151 [first introduced as a subgenus of Termes Linneaus, 1758].",
+ "type_species": "Termes (Armitermes) armiger Motschulsky, 1855 by original designation.",
+ "references": [
+  {
+   "ref": "Silvestri, 1903: 73–74",
+   "note": "Armitermes [part]; characters."
+  },
+  {
+   "ref": "Escherich, 1909: 177",
+   "note": "Armitermes; characters."
+  },
+  {
+   "ref": "Holmgren, 1912a: 45, 53–58",
+   "note": "Armitermes; characters; key; subgenera included; systematic position; Armitermes; subgenus of Armitermes; key; species included."
+  },
+  {
+   "ref": "Banks, 1919: 479",
+   "note": "Armitermes; key."
+  },
+  {
+   "ref": "Snyder, 1926e: 21",
+   "note": "Armitermes [part]; characters; discussion; subgenera included."
+  },
+  {
+   "ref": "Morimoto, 1975b: 20",
+   "note": "Armitermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 210–212",
+   "note": "Armitermes; synonymy; characters; comparisons."
+  },
+  {
+   "ref": "Mill, 1983a: 182, 188",
+   "note": "Armitermes; key; number of species in New World; habitat; distribution."
+  }
+ ],
+ "nrefs": 38
+}

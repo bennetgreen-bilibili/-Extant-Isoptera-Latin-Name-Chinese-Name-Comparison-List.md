@@ -1,0 +1,65 @@
+{
+ "book_n": "361",
+ "book_name": "台湾华扭白蚁 Sinocapritermesmushae",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "台湾华扭白蚊有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length_without_wings",
+     "value": "6.50"
+    },
+    {
+     "key": "wing_length",
+     "value": "10.00"
+    },
+    {
+     "key": "ocellus_length",
+     "value": "0.11"
+    },
+    {
+     "key": "ocellus_width",
+     "value": "0.09"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.08"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 732,
+   "unit": "mm"
+  },
+  {
+   "caste": "soldier",
+   "heading": "小华扭白蚊兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_mandibles",
+     "mean": "2.57",
+     "value": "2.50–2.68"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.23",
+     "value": "0.20–0.25"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.65",
+     "value": "0.60–0.68"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 753,
+   "unit": "mm"
+  }
+ ]
+}

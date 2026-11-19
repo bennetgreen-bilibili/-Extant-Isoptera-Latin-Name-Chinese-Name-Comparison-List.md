@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-11",
+ "sections": [
+  {
+   "heading": "蚁丘密度与降雨、植被生产力的关系",
+   "paragraphs": [
+    {
+     "text": "据摘要，Picker 等（2006）在南非 Succulent Karoo、Nama-Karoo 和 Fynbos 的 34 个样点、10 个植被类型中统计旅游小草白蚁（Microhodotermes viator）的蚁丘密度，结果为每平方公里 143–704 个，平均 297 个；全部样点合并时密度与温度、海拔、降雨和 NDVI 无显著关系，但排除 Fynbos 和 5 个年降雨 >350 mm 的 Coastal Renosterveld 样点后，密度与降雨和 NDVI 显著相关；高肥力土壤上降雨与密度显著相关，低肥力土壤上不显著。作者据此认为，这些 heuweltjies（蚁丘）由现生旅游小草白蚁建造，而非已灭绝的白蚁。",
+     "src": [
+      "S0156"
+     ],
+     "text_en": "According to the abstract, Picker et al. (2006) recorded the mound density of Microhodotermes viator at 34 sites and in 10 vegetation types in the Succulent Karoo, Nama-Karoo and Fynbos of South Africa, obtaining 143–704 mounds per km² with a mean of 297; when all sites were pooled, density showed no significant relationship with temperature, altitude, rainfall or NDVI, but after excluding Fynbos and 5 Coastal Renosterveld sites with annual rainfall >350 mm, density was significantly correlated with rainfall and NDVI; on high-fertility soils rainfall was significantly correlated with density, whereas on low-fertility soils it was not. The authors concluded that these heuweltjies (mounds) were built by extant Microhodotermes viator rather than by extinct termites.",
+     "text_es": "Según el resumen, Picker et al. (2006) registraron la densidad de montículos de Microhodotermes viator en 34 localidades y 10 tipos de vegetación del Succulent Karoo, el Nama-Karoo y el Fynbos de Sudáfrica, con valores de 143–704 montículos por kilómetro cuadrado y una media de 297. Al agrupar todas las localidades, la densidad no mostró relación significativa con la temperatura, la altitud, la precipitación ni el NDVI, pero al excluir el Fynbos y cinco localidades de Coastal Renosterveld con precipitación anual >350 mm, la densidad se correlacionó significativamente con la precipitación y el NDVI; en suelos de alta fertilidad la precipitación se correlacionó significativamente con la densidad, mientras que en suelos de baja fertilidad no lo hizo. Los autores concluyen que estos heuweltjies (montículos) fueron construidos por la especie actual de Microhodotermes viator y no por termitas extintas."
+    }
+   ],
+   "heading_en": "Mound density in relation to rainfall and vegetative productivity",
+   "heading_es": "Densidad de montículos en relación con la precipitación y la productividad vegetal"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0156",
+   "citation": "Picker, M. D.; Hoffman, M. T.; Leverton, B. 2006. Density of Microhodotermes viator (Hodotermitidae) mounds in southern Africa in relation to rainfall and vegetative productivity gradients. Journal of Zoology.",
+   "doi": "10.1111/j.1469-7998.2006.00189.x"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "Epicalotermes aethiopicus": {
+  "gbif": {
+   "key": 9681351,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Epicalotermes aethiopicus Silvestri, 1918",
+   "accepted": null
+  },
+  "col": {
+   "id": "6G3FP",
+   "status": "accepted",
+   "label": "Epicalotermes aethiopicus Silvestri, 1918",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251071",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Epicalotermes kempae": {
+  "gbif": {
+   "key": 9700545,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Epicalotermes kempae (Wilkinson, 1954)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6FRFQ",
+   "status": "accepted",
+   "label": "Epicalotermes kempae (Wilkinson, 1954)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251072",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Epicalotermes mkuzii": {
+  "gbif": {
+   "key": 9688709,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Epicalotermes mkuzii (Coaton, 1949)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6FRG2",
+   "status": "accepted",
+   "label": "Epicalotermes mkuzii (Coaton, 1949)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251074",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Epicalotermes munroi": {
+  "gbif": {
+   "key": 9771206,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Epicalotermes munroi (Coaton, 1949)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6G3FQ",
+   "status": "accepted",
+   "label": "Epicalotermes munroi (Coaton, 1949)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251076",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Epicalotermes pakistanicus": {
+  "gbif": {
+   "key": 9783524,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Epicalotermes pakistanicus Akhtar, 1974",
+   "accepted": null
+  },
+  "col": {
+   "id": "6G3G2",
+   "status": "accepted",
+   "label": "Epicalotermes pakistanicus Akhtar, 1974",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251077",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Epicalotermes planifrons": {
+  "gbif": {
+   "key": 9650983,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Epicalotermes planifrons Krishna, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "6FRFF",
+   "status": "accepted",
+   "label": "Epicalotermes planifrons Krishna, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251079",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

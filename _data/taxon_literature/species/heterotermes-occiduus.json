@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-14",
+ "sections": [
+  {
+   "heading": "两种取样方法下的多度差异",
+   "heading_en": "Abundance differs between two sampling methods",
+   "heading_es": "La abundancia difiere entre dos métodos de muestreo",
+   "paragraphs": [
+    {
+     "src": [
+      "S0240"
+     ],
+     "text": "据摘要，Abensperg-Traun（1993）对两种取样方法的比较研究显示，西部异白蚁（<i>Heterotermes occiduus</i>）在西澳小麦带 wandoo（<i>Eucalyptus capillosa</i>）林地的出现率高度依赖取样介质：在完好的人工诱饵（Jarrah、Karri、Pine、Batu、Oregon 木桩与纸卷）上，该种平均占诱饵记录样本的 80%，而在天然 wandoo 倒木与枯枝上仅占 5%；该种是仅有的 3 个取食人工诱饵的种之一，说明单用自然枯木或单用诱饵都会误判其多度。",
+     "text_en": "According to the abstract, the comparison of two sampling methods by Abensperg-Traun (1993) shows that the occurrence of <i>Heterotermes occiduus</i> in wandoo (<i>Eucalyptus capillosa</i>) woodland of the Western Australian wheat belt depends strongly on the sampling medium: on sound artificial baits (Jarrah, Karri, Pine, Batu and Oregon stakes and paper rolls) the species made up 80% of the samples recorded on baits on average, but only 5% on natural wandoo logs and branches; it was one of only three species that fed on the artificial baits, showing that sampling only natural dead wood or only baits would misjudge its abundance.",
+     "text_es": "Según el resumen, la comparación de dos métodos de muestreo de Abensperg-Traun (1993) muestra que la presencia de <i>Heterotermes occiduus</i> en el bosque de wandoo (<i>Eucalyptus capillosa</i>) del cinturón triguero de Australia Occidental depende mucho del sustrato de muestreo: en cebos artificiales sanos (estacas de Jarrah, Karri, Pine, Batu y Oregon, y rollos de papel) la especie representó en promedio el 80% de las muestras registradas en cebos, pero solo el 5% en troncos y ramas naturales de wandoo; fue una de las únicas tres especies que se alimentaron de los cebos artificiales, lo que muestra que muestrear solo madera muerta natural o solo cebos llevaría a estimar mal su abundancia."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0240",
+   "citation": "Abensperg-Traun, M. 1993. A comparison of two methods for sampling assemblages of subterranean, wood-eating termites (Isoptera). Australian Journal of Ecology.",
+   "doi": "10.1111/j.1442-9993.1993.tb00459.x"
+  }
+ ]
+}

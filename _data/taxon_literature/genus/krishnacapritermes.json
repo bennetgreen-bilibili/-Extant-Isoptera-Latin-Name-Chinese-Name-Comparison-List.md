@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "印度西高止山的特有属",
+   "heading_en": "An endemic genus of the Western Ghats, India",
+   "heading_es": "Un género endémico de los Ghats Occidentales, India",
+   "paragraphs": [
+    {
+     "src": [
+      "S0323"
+     ],
+     "text": "据摘要，Amina 等（2019）指出克里希纳扭白蚁属（<i>Krishnacapritermes</i>）是印度西高止山的特有属，此前仅知迈蒂克里希纳扭白蚁（<i>Krishnacapritermes maitii</i>）与塔库尔克里希纳扭白蚁（<i>Krishnacapritermes thakuri</i>）2 种；该研究在喀拉拉邦西高止山的高海拔山岭描述迪内尚克里希纳扭白蚁（<i>Krishnacapritermes dineshan</i>）与马尼坎丹克里希纳扭白蚁（<i>Krishnacapritermes manikandan</i>）2 新种，使该属增至 4 种，并提供 4 种的二歧检索表与分布图。",
+     "text_en": "According to the abstract, Amina et al. (2019) state that <i>Krishnacapritermes</i> is a genus endemic to the Western Ghats of India, in which only two species, <i>Krishnacapritermes maitii</i> and <i>Krishnacapritermes thakuri</i>, were previously known; the study describes two new species, <i>Krishnacapritermes dineshan</i> and <i>Krishnacapritermes manikandan</i>, from the higher-elevation hill ranges of the Western Ghats in Kerala, raising the genus to four species and providing a dichotomous key to the four species and a distribution map.",
+     "text_es": "Según el resumen, Amina et al. (2019) señalan que <i>Krishnacapritermes</i> es un género endémico de los Ghats Occidentales de la India, en el que solo se conocían dos especies, <i>Krishnacapritermes maitii</i> y <i>Krishnacapritermes thakuri</i>; el estudio describe dos especies nuevas, <i>Krishnacapritermes dineshan</i> y <i>Krishnacapritermes manikandan</i>, procedentes de las sierras de mayor altitud de los Ghats Occidentales en Kerala, elevando el género a cuatro especies y aportando una clave dicotómica para las cuatro y un mapa de distribución."
+    },
+    {
+     "src": [
+      "S0323"
+     ],
+     "text": "同一研究基于细胞色素氧化酶 I（COI）基因，自多个地点为塔库尔克里希纳扭白蚁（<i>Krishnacapritermes thakuri</i>）与迪内尚克里希纳扭白蚁（<i>Krishnacapritermes dineshan</i>）生成 DNA 条形码并检验系统发育关系，同时给出迈蒂克里希纳扭白蚁（<i>Krishnacapritermes maitii</i>）与塔库尔克里希纳扭白蚁（<i>Krishnacapritermes thakuri</i>）的分布范围扩展数据，并讨论了兵蚁上唇透明侧突的巢内变异。研究还把近扭白蚁属（<i>Pericapritermes</i>）的旧组合 <i>Pericapritermes travancorensis</i> Mathew and Ipe 列为塔库尔克里希纳扭白蚁（<i>Krishnacapritermes thakuri</i>）的新异名（据摘要）。",
+     "text_en": "The same study generated DNA barcodes based on the cytochrome oxidase I (COI) gene for <i>Krishnacapritermes thakuri</i> and <i>Krishnacapritermes dineshan</i> from multiple localities and tested their phylogenetic relationships, reported data on the extension of the distribution range of <i>Krishnacapritermes maitii</i> and <i>Krishnacapritermes thakuri</i>, and commented on intracolonial variability of the hyaline lateral points of the labrum in the soldier caste. The study also treats <i>Pericapritermes travancorensis</i> Mathew and Ipe, a former combination in <i>Pericapritermes</i>, as a new junior synonym of <i>Krishnacapritermes thakuri</i> (according to the abstract).",
+     "text_es": "El mismo estudio generó códigos de barras de ADN basados en el gen de la citocromo oxidasa I (COI) para <i>Krishnacapritermes thakuri</i> y <i>Krishnacapritermes dineshan</i> de varias localidades y comprobó sus relaciones filogenéticas, aportó datos sobre la ampliación del área de distribución de <i>Krishnacapritermes maitii</i> y <i>Krishnacapritermes thakuri</i>, y comentó la variabilidad intracolonial de las puntas laterales hialinas del labro en la casta de soldados. El estudio trata además <i>Pericapritermes travancorensis</i> Mathew and Ipe, combinación antigua en <i>Pericapritermes</i>, como nuevo sinónimo posterior de <i>Krishnacapritermes thakuri</i> (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0323",
+   "citation": "Amina, P.; Rajmohana, K.; Dinesh-Kumar, S. P.; Asha, G.; Sinu, P. A.; Mathew, J. 2019. Two new species of an Indian endemic genus Krishnacapritermes Chhotani (Isoptera: Termitidae) from the Kerala part of the Western Ghats, India. Oriental Insects.",
+   "url": "https://doi.org/10.1080/00305316.2019.1683091"
+  }
+ ]
+}

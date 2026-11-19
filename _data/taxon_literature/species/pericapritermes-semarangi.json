@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "土地利用梯度中的数量",
+   "heading_en": "Abundance along a land-use gradient",
+   "heading_es": "Abundancia a lo largo de un gradiente de uso del suelo",
+   "paragraphs": [
+    {
+     "text": "据摘要，Pribadi 等（2011）在中爪哇 Mount Slamet 东坡记录三宝近扭白蚁（<i>Pericapritermes semarangi</i>）31 头，占 7 种 88 头总采集量的三分之一以上，为各样地合计最多的种类；同一调查中食土白蚁在居民点缺失、主要见于保护林与用材林，作者据此把食土类群作为森林生境的指示类群。",
+     "text_en": "According to the abstract of Pribadi et al. (2011), <i>Pericapritermes semarangi</i> was represented by 31 individuals on the eastern slopes of Mount Slamet, Central Java, more than a third of the 88 individuals collected across seven species and the highest total of any species; in the same survey soil-feeding termites were absent from settlements and occurred mainly in protected and production forest, on which basis the authors treated soil feeders as indicators of forest habitat.",
+     "text_es": "Según el resumen de Pribadi et al. (2011), <i>Pericapritermes semarangi</i> estuvo representada por 31 individuos en la ladera oriental del monte Slamet, Java Central, más de un tercio de los 88 individuos recolectados de siete especies y el total más alto de cualquier especie; en el mismo muestreo las termitas geófagas estuvieron ausentes de los asentamientos y aparecieron principalmente en bosque protegido y de producción, por lo que los autores las consideraron indicadoras de hábitat forestal.",
+     "src": [
+      "S0225"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0225",
+   "citation": "Pribadi, T. I.; Raffiudin, R.; Harahap, I. S. 2011. Termites community as environmental bioindicators in highlands: a case study in eastern slopes of Mount Slamet, Central Java. Biodiversitas 12(3): 235-240.",
+   "doi": "10.13057/biodiv/d120409"
+  }
+ ]
+}

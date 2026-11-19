@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """全文原文爬取 + 归档（仅合法 OA）。
 
-在「文献检索器」缓存 _data/papers.json 的基础上，对其中标记为开放获取（oa_url 非空）、
+在「文献检索器」缓存 _data/papers/ 分片的基础上，对其中标记为开放获取（oa_url 非空）、
 且尚未归档进 _unpublished/文库 的论文，按被引数从高到低抓取**合法 OA 全文**
 （Unpaywall / OpenAlex / Europe PMC），下载 PDF 或 JATS XML，再用
 python _tools/sources.py library-add 入库（_unpublished/文库 + .sources/）。
@@ -11,7 +11,7 @@ python _tools/sources.py library-add 入库（_unpublished/文库 + .sources/）
 
 用法：
   python _tools/fetch_fulltext.py --check                        # 离线校验 + 计划（只读）
-  python _tools/fetch_fulltext.py --discover 20                  # 从 papers.json 生成候选队列（不下载）
+  python _tools/fetch_fulltext.py --discover 20                  # 从 _data/papers/ 分片生成候选队列（不下载）
   python _tools/fetch_fulltext.py --dry-run --discover 20 --limit 2   # 只解析 OA 链接，不下载/不入库
   python _tools/fetch_fulltext.py --write --discover 20 --limit 10 --time-budget 600
   python _tools/fetch_fulltext.py --check            # 看 refetch.json 还有几条待重抓
@@ -62,7 +62,6 @@ CACHE_DEFAULT = "_tmp/fulltext-cache.json"
 TMP_DIR_DEFAULT = "_tmp/fulltext"
 MANIFEST_REL = "_unpublished/文库/manifest.json"
 INDEX_REL = ".sources/index.json"
-PAPERS_REL = "_data/papers.json"
 SOURCES_PY = "_tools/sources.py"
 REFETCH_REL = "_reports/library-reading/refetch.json"   # 阅读任务登记的「待重抓」队列（本脚本负责真抓）
 
@@ -270,7 +269,7 @@ def _index_record(root: Path, sid) -> dict:
 
 
 def _refetch_meta(root: Path, item: dict, papers_by_doi: dict) -> dict:
-    """把 refetch 条目补成可抓取的元数据：refetch.json → .sources 记录 → papers.json。"""
+    """把 refetch 条目补成可抓取的元数据：refetch.json → .sources 记录 → _data/papers/ 分片。"""
     rec = _index_record(root, item.get("id"))
     doi = (item.get("doi") or rec.get("doi") or "").strip()
     p = papers_by_doi.get(_norm_doi(doi)) or {}
@@ -346,11 +345,13 @@ def _refetch_finish(root: Path, refetch_metas: dict, detail: dict, cache: dict,
 
 
 def _load_papers(root: Path) -> list:
-    data = _load_json(root / PAPERS_REL)
-    if not data:
+    """Read the `_data/papers/` shards (one file per genus)."""
+    genera_dir = root / "_data" / "papers" / "genera"
+    if not genera_dir.is_dir():
         return []
     out = []
-    for genus in (data.get("genera") or {}).values():
+    for path in sorted(genera_dir.glob("*.json")):
+        genus = _load_json(path)
         for p in genus.get("papers") or []:
             if not p.get("doi"):
                 continue
@@ -1527,7 +1528,7 @@ def run_check(root: Path, args) -> int:
     pending = _pending_refetch(root)
     print("[fulltext] refetch.json 待重抓：" + str(len(pending)) + " 条"
           + ("（--write 时加 --refetch 会先处理它们）" if pending else ""))
-    print("[fulltext] papers.json 带 OA 标记的条目：" + str(len(oa_entries))
+    print("[fulltext] _data/papers/ 带 OA 标记的条目：" + str(len(oa_entries))
           + "；去重后未归档：" + str(len(unarchived)))
     print("[fulltext] 仓储镜像：Zenodo 常开；CORE " + ("已配置 key" if (os.environ.get("CORE_API_KEY") or "").strip() else "未配置 key（只匿名检索）")
           + "；BHL " + ("已配置 key" if (os.environ.get("BHL_API_KEY") or "").strip() else "未配置 key（跳过 OCR）"))
@@ -1871,7 +1872,7 @@ def build_parser() -> argparse.ArgumentParser:
     ap.add_argument("--cache", default=CACHE_DEFAULT)
     ap.add_argument("--tmp", default=TMP_DIR_DEFAULT)
     ap.add_argument("--discover", type=int, metavar="N", default=None,
-                    help="从 papers.json 挑选被引最高的 N 条未归档 OA 论文进队列")
+                    help="从 _data/papers/ 分片挑选被引最高的 N 条未归档 OA 论文进队列")
     ap.add_argument("--limit", type=int, default=0, help="单次最多处理几条（0=不限）")
     ap.add_argument("--time-budget", type=int, default=300, help="网络时间预算（秒；0=不限）")
     ap.add_argument("--stale-days", type=int, default=30, help="失败条目多少天内不重试")

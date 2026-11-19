@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "研究记述",
+   "heading_en": "Research notes",
+   "heading_es": "Notas de investigación",
+   "paragraphs": [
+    {
+     "text": "根据 Hellemans 等（2019）研究，凹额缩白蚁（<i>Constrictotermes cavifrons</i>）的树巢是旅居客白蚁（<i>Inquilinitermes inquilinus</i>）严格寄居的宿主，客居者多占巢的下部；该宿主巢抗逆性差、易被暴雨破坏，作者认为这正是客居者补充生殖蚁出现的背景。",
+     "text_en": "According to Hellemans et al. (2019), the arboreal nest of <i>Constrictotermes cavifrons</i> is the host in which <i>Inquilinitermes inquilinus</i> lives as a strict inquiline, mostly occupying the lower part of the nest; the host nests are fragile and easily destroyed by heavy rain, which the authors regard as the background for the appearance of neotenic reproductives in the inquiline.",
+     "text_es": "Según Hellemans et al. (2019), el nido arbóreo de <i>Constrictotermes cavifrons</i> es el hospedador en el que <i>Inquilinitermes inquilinus</i> vive como inquilina estricta, ocupando sobre todo la parte inferior del nido; los nidos hospedadores son poco resistentes y se destruyen con facilidad por las lluvias intensas, lo que los autores consideran el contexto de la aparición de reproductores neoténicos en la inquilina.",
+     "src": [
+      "S0191"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0191",
+   "citation": "Simon Hellemans; Klára Dolejšová; Jan Křivánek; Denis Fournier; Robert Hanus; Yves Roisin 2019 Widespread occurrence of asexual reproduction in higher termites of the Termes group (Termitidae: Termitinae). Springer Science and Business Media LLC.",
+   "doi": "10.1186/s12862-019-1459-3"
+  }
+ ]
+}

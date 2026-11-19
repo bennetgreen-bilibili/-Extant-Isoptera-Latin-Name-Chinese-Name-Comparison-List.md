@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "根据 Sands（1972）研究，侧移锯白蚁（<i>Microcerotermes lateralis</i>）的属级归属在非洲无兵蚁类白蚁的系统整理中被改订：该种原置于解甲白蚁属（<i>Anoplotermes</i>），修订后转入锯白蚁属（<i>Microcerotermes</i>）。",
+     "text_en": "According to Sands (1972), the generic placement of <i>Microcerotermes lateralis</i> was revised in his systematic treatment of the soldierless termites of Africa: originally placed in <i>Anoplotermes</i>, the species was transferred to <i>Microcerotermes</i>.",
+     "text_es": "Según Sands (1972), la ubicación genérica de <i>Microcerotermes lateralis</i> fue revisada en su tratamiento sistemático de las termitas sin soldados de África: situada originalmente en <i>Anoplotermes</i>, la especie fue transferida a <i>Microcerotermes</i>.",
+     "src": [
+      "S0005"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0005",
+   "citation": "Sands W.A. 1972 The soldierless termites of Africa (Isoptera: Termitidae). Bull. Br. Mus. Nat. Hist. (Ent.) Suppl. 18.",
+   "doi": "10.5962/p.192782"
+  }
+ ]
+}

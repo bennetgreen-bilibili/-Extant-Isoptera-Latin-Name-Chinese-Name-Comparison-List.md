@@ -1,0 +1,100 @@
+{
+ "Labiocapritermes distortus": {
+  "gbif": {
+   "key": 9765443,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Labiocapritermes distortus (Silvestri, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RJQP",
+   "status": "accepted",
+   "label": "Labiocapritermes distortus (Silvestri, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210708",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Labiocapritermes ghatensis": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Labiocapritermes Krishna, 1968",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "VPGLL",
+   "status": "accepted",
+   "label": "Labiocapritermes ghatensis Aiswarya & Sudhikumar, 2026",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Labiocapritermes microcephalus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Labiocapritermes Krishna, 1968",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Labiocapritermes Krishna, 1968",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-31"
+ },
+ "Labiocapritermes wayanadensis": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Labiocapritermes Krishna, 1968",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Labiocapritermes Krishna, 1968",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-31"
+ }
+}

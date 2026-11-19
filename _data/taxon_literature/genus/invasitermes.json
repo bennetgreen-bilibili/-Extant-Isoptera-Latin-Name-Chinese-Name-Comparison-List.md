@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-14",
+ "sections": [
+  {
+   "heading": "无兵蚁品级的新属",
+   "heading_en": "A new genus without a soldier caste",
+   "heading_es": "Un género nuevo sin casta de soldados",
+   "paragraphs": [
+    {
+     "src": [
+      "S0241"
+     ],
+     "text": "据摘要，Miller（1984）研究显示，白蚁属（<i>Termes</i>）的旧组合 <i>Termes insitivus</i> 与此前归入白蚁属（<i>Termes</i>）旧组合 <i>Termes quadratus</i> 的有翅成虫均不属于白蚁属（<i>Termes</i>）：二者被移入弓白蚁属（<i>Amitermes</i>）属群中的一个新属，即闯白蚁属（<i>Invasitermes</i>）；该属的兵蚁品级似乎缺失，文中给出该属 2 个种的量度与生物学注记。",
+     "text_en": "According to the abstract, Miller (1984) showed that the old combination <i>Termes insitivus</i> and the alates previously assigned to the old combination <i>Termes quadratus</i>, both then placed in <i>Termes</i>, do not belong to <i>Termes</i>: they were moved to a new genus of the <i>Amitermes</i> group, <i>Invasitermes</i>. The soldier caste appears to be absent in the genus, and the paper gives measurements and biological notes for its two species.",
+     "text_es": "Según el resumen, Miller (1984) demostró que la combinación antigua <i>Termes insitivus</i> y las aladas atribuidas antes a la combinación antigua <i>Termes quadratus</i>, ambas situadas entonces en <i>Termes</i>, no pertenecen a <i>Termes</i>: se trasladaron a un género nuevo del grupo de <i>Amitermes</i>, <i>Invasitermes</i>. La casta de soldados parece faltar en el género, y el trabajo aporta medidas y notas biológicas de sus dos especies."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0241",
+   "citation": "Miller, L. R. 1984. Invasitermes, a new genus of soldierless termites from northern Australia (Isoptera: Termitidae). Australian Journal of Entomology.",
+   "doi": "10.1111/j.1440-6055.1984.tb01902.x"
+  }
+ ]
+}

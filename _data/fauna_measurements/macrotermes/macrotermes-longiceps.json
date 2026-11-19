@@ -1,0 +1,130 @@
+{
+ "book_n": "306",
+ "book_name": "长头大白蚁 Macrotermes longiceps",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "长头大白蚁大兵蚁量度",
+   "label_en": "Major soldier measurements",
+   "label_es": "Medidas de soldado mayor",
+   "label_zh": "大兵蚁量度",
+   "rows": [
+    {
+     "key": "head_width_mandible_base",
+     "mean": "2.02",
+     "value": "1.9–2.10"
+    },
+    {
+     "key": "head_width_behind_antennae",
+     "mean": "2.59",
+     "value": "2.50–2.68"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "2.91",
+     "value": "2.76–3.07"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.85",
+     "value": "1.78–1.91"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.58",
+     "value": "0.55–0.60"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "2.74",
+     "value": "2.68–2.81"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "1.05",
+     "value": "1.01–1.08"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "2.05",
+     "value": "1.94–2.13"
+    },
+    {
+     "key": "mesonotum_width",
+     "mean": "1.67",
+     "value": "1.55–1.74"
+    },
+    {
+     "key": "metanotum_width",
+     "mean": "1.81",
+     "value": "1.75–1.90"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 900,
+   "unit": "mm"
+  },
+  {
+   "caste": "soldier",
+   "heading": "长头大白蚁小兵蚁量度 ( mm)",
+   "label_en": "Minor soldier measurements",
+   "label_es": "Medidas de soldado menor",
+   "label_zh": "小兵蚁量度",
+   "rows": [
+    {
+     "key": "head_width_mandible_base",
+     "mean": "0.94",
+     "value": "0.89–0.98"
+    },
+    {
+     "key": "head_width_behind_antennae",
+     "mean": "1.36",
+     "value": "1.32–1.40"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.52",
+     "value": "1.45–1.58"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.38",
+     "value": "1.33–1.44"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.50",
+     "value": "0.47–0.54"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.46",
+     "value": "0.43–0.50"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.65",
+     "value": "0.64–0.68"
+    },
+    {
+     "key": "pronotum_max_width",
+     "mean": "1.09",
+     "value": "1.05–1.16"
+    },
+    {
+     "key": "mesonotum_width",
+     "mean": "0.87",
+     "value": "0.83–0.93"
+    },
+    {
+     "key": "metanotum_width",
+     "mean": "1.08",
+     "value": "1.03–1.13"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 908,
+   "unit": "mm"
+  }
+ ]
+}

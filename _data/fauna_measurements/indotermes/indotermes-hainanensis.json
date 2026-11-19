@@ -1,0 +1,90 @@
+{
+ "book_n": "334",
+ "book_name": "海南华白蚁 Sinotermes hainanensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "海南华白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "2.0–2.375"
+    },
+    {
+     "key": "right_mandible_length",
+     "value": "1.175–1.275"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "0.875–1.175"
+    },
+    {
+     "key": "postmentum_max_width",
+     "value": "0.575–0.625"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.70–0.825"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.95–1.05"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 74,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "海南华白蚁脱翅成虫量度",
+   "label_en": "Dealate measurements",
+   "label_es": "Medidas de dealado",
+   "label_zh": "脱翅成虫量度",
+   "rows": [
+    {
+     "key": "eye_long_diameter",
+     "value": "0.425–0.45"
+    },
+    {
+     "key": "eye_short_diameter",
+     "value": "0.40–0.425"
+    },
+    {
+     "key": "ocellus_long_diameter",
+     "value": "0.185–0.20"
+    },
+    {
+     "key": "ocellus_short_diameter",
+     "value": "0.135–0.15"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.075–0.085"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.725–0.75"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.375–1.45"
+    },
+    {
+     "key": "forewing_scale_length",
+     "value": "0.825–0.95"
+    },
+    {
+     "key": "hindwing_scale_length",
+     "value": "0.70–0.825"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 83,
+   "unit": "mm"
+  }
+ ]
+}

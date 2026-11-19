@@ -1,0 +1,39 @@
+{
+ "latin": "Proboscitermes",
+ "zh": "象鼻白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Proboscitermes Sjöstedt, 1924b: 257.",
+ "type_species": "Eutermes tubuliferus Sjöstedt, 1907 by original designation.",
+ "references": [
+  {
+   "ref": "Sjöstedt, 1926d: 270",
+   "note": "Proboscitermes; reference list; soldier characters."
+  },
+  {
+   "ref": "Emerson, 1928b: 408, 419",
+   "note": "Mirotermes (Proboscitermes); key; distribution."
+  },
+  {
+   "ref": "Webb, 1961: 12",
+   "note": "Proboscitermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 30, 108, 109, pl. 22: fig. 67c",
+   "note": "Proboscitermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 38",
+   "note": "Proboscitermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 37, 240–242, figs. 1083–1095, pl. 13: figs. 7, 8",
+   "note": "Proboscitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  },
+  {
+   "ref": "Scheffrahn and O’Malley, 2010: 54",
+   "note": "Proboscitermes; characters."
+  }
+ ],
+ "nrefs": 14
+}

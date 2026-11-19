@@ -1,0 +1,13 @@
+{
+ "Acangaobitermes krishnai": {
+  "label": "Acangaobitermes krishnai Da Rocha, Cancello & Cuezzo, 2011",
+  "match": "exact",
+  "notes": "",
+  "otu": 84160,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84160/overview",
+  "valid_label": null,
+  "valid_otu": 84160,
+  "verified": false
+ }
+}

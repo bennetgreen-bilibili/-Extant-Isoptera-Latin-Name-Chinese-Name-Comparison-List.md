@@ -1,0 +1,13 @@
+{
+ "Megaprotermes giffardii": {
+  "label": "Megaprotermes giffardii (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83588,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83588/overview",
+  "valid_label": null,
+  "valid_otu": 83588,
+  "verified": false
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Comprende 2 especies (greavesi, especie tipo, y perlevis). El original describe alados y soldados, sin describir por separado las mandíbulas del obrero, por lo que no se incluye sección de obrero.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Índice mandibular izquierdo del alado 1.07 (Subulitermes microsoma 1.29-1.33); la cabeza del soldado es mayor que en S. microsoma y su parte posterior más ancha y esférica, con relación longitud/anchura cefálica 1.49-1.71 (S. microsoma 2.27)."
+  },
+  {
+   "label": "Alado",
+   "text": "El segmento antenal apical es claro y el basal oscuro; la parte oscura del pronoto es del mismo color que la cabeza (en S. microsoma el pronoto es más claro); las tibias y el extremo de los fémures son más oscuros que la parte media del fémur; las alas son más oscuras que en S. microsoma (puntuación más densa); los esternitos tienen manchas oscuras en los lados y la parte media clara; el vértice se eleva suavemente entre los ocelos; el contorno lateral de la cabeza está fuertemente arqueado, con el punto más alto por encima de los ocelos; la fontanela es una hendidura clara y estrecha, bifurcada en su parte anterior y más corta que los ocelos; antenas de 15 segmentos, el 3.º algo más largo que el 2.º y el 4.º y más globoso en su extremo; el postclípeo es más corto que la mitad de su anchura (0.20-0.22 × 0.47 mm); índice mandibular izquierdo 1.07; los bordes laterales del pronoto convergen hacia atrás; fórmula de espinas tibiales 2:2:2."
+  },
+  {
+   "label": "Soldado",
+   "text": "La base del nasus y el vértice llevan 8 setas; la frente y la cabeza tienen pelos cortos dispersos; los pelos de los terguitos abdominales son más densos y solo algo más cortos que las setas marginales; la cabeza es mayor que en S. microsoma y su parte posterior más ancha y esférica; relación longitud/anchura cefálica 1.49-1.63 (perlevis) o 1.71 (greavesi); la cabeza está muy ligeramente constreñida y presenta una elevación lateral por detrás de la base del nasus; la frente es casi cilíndrica; antenas de 12 segmentos (perlevis), con los segmentos 2.º, 3.º y 4.º casi de igual longitud; mandíbulas sin punta apical; la tibia anterior es casi tan ancha como el fémur y aparece algo hinchada; el abdomen es grueso, ancho y redondeado."
+  }
+ ]
+}

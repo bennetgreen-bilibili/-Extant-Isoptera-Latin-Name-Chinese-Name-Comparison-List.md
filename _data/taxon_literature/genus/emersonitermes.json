@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "据印度采集建立的新属",
+   "heading_en": "A new genus based on an Indian collection",
+   "heading_es": "Un género nuevo basado en una colección india",
+   "paragraphs": [
+    {
+     "src": [
+      "S0328"
+     ],
+     "text": "根据 Mathur 与 Sen-Sarma（1960）研究，埃默森白蚁属（<i>Emersonitermes</i>）作为新属建立，模式种为卡迪埃默森白蚁（<i>Emersonitermes thekadensis</i>），同时描述为新种。该属与另一新种黑鼻三脉白蚁（<i>Trinervitermes nigrirostris</i>）均据 Günther Becker 1956 年在印度采集的标本描述；这批采集中已定名约 20 种，其中 1 属 2 种为新种，而 <i>Nasutitermes beckeri</i> 由 Prashad 与 Sen-Sarma 另文描述（据摘要）。",
+     "text_en": "According to Mathur and Sen-Sarma (1960), <i>Emersonitermes</i> was established as a new genus with <i>Emersonitermes thekadensis</i> as type species, described at the same time as a new species. Both this genus and the other new species, <i>Trinervitermes nigrirostris</i>, are based on material collected by Günther Becker in India in 1956; some 20 species were determined from that collection, of which one genus and two species were new to science, while <i>Nasutitermes beckeri</i> was described elsewhere by Prashad and Sen-Sarma (according to the abstract).",
+     "text_es": "Según Mathur y Sen-Sarma (1960), <i>Emersonitermes</i> se estableció como género nuevo con <i>Emersonitermes thekadensis</i> como especie tipo, descrita al mismo tiempo como especie nueva. Tanto este género como la otra especie nueva, <i>Trinervitermes nigrirostris</i>, se basan en material recolectado por Günther Becker en la India en 1956; de esa colección se determinaron unas 20 especies, de las cuales un género y dos especies eran nuevos para la ciencia, mientras que <i>Nasutitermes beckeri</i> fue descrita en otro trabajo por Prashad y Sen-Sarma (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0328",
+   "citation": "Mathur, R. N.; Sen-Sarma, P. K. 1960. Two new termites Emersonitermes thekadensis gen. et sp. nov. and Trinervitermes nigrirostris sp. nov. from India (Insecta: Isoptera). Zeitschrift für Angewandte Entomologie.",
+   "url": "https://doi.org/10.1111/j.1439-0418.1960.tb01178.x"
+  }
+ ]
+}

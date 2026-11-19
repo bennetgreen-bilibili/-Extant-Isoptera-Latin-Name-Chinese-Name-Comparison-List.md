@@ -1,0 +1,15 @@
+{
+ "latin": "Diwaitermes",
+ "zh": "木象白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Diwaitermes Roisin and Pasteels, 1996: 583.",
+ "type_species": "Nasutitermes (Subulitermes) orientis Snyder, 1925 by original designation [orientis synonymized with Eutermes kanehirae Oshima, 1914 by Roisin and Pasteels, 1996].",
+ "references": [
+  {
+   "ref": "Hill, 1942: 14, 202–205",
+   "note": "Eutermes [part]; key; synonymy; imago, soldier, worker diagnosed."
+  }
+ ],
+ "nrefs": 2
+}

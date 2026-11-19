@@ -1,0 +1,43 @@
+{
+ "latin": "Neocapritermes",
+ "zh": "新扭白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Neocapritermes Holmgren, 1912a: 115–116 [first introduced as a subgenus of Capritermes Wasmann, 1897].",
+ "type_species": "Capritermes alienus von Rosen, 1912 (= Termes opacus Hagen, 1858) by subsequent designation; see Sjöstedt, 1926d: 287; Snyder, 1949a: 200, Neocapritermes opacus designated as type species, Krishna, 1968: 87 for discussion of type species. 2013 Krishna ET AL.: isoptera: TERMITIDAE: TERMITINAE\b 2261",
+ "references": [
+  {
+   "ref": "Silvestri, 1903: 62",
+   "note": "Capritermes [part]; synonymy; characters."
+  },
+  {
+   "ref": "Snyder, 1926e: 64",
+   "note": "Capritermes (Neocapritermes); key; discussion."
+  },
+  {
+   "ref": "Webb, 1961: 11",
+   "note": "Neocapritermes; key."
+  },
+  {
+   "ref": "Krishna and Araujo, 1968: 87–92",
+   "note": "Neocapritermes; synonymy; characters; biology; relationships; key to species."
+  },
+  {
+   "ref": "Krishna, 1968: 312–316",
+   "note": "Neocapritermes; synonymy; key; characters; phylogeny; species included; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 31",
+   "note": "Neocapritermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 135",
+   "note": "Neocapritermes; synonymy; characters; comparisons."
+  },
+  {
+   "ref": "Mill, 1983a: 182, 185",
+   "note": "Neocapritermes; key; number of species in New World; habitat; distribution."
+  }
+ ],
+ "nrefs": 27
+}

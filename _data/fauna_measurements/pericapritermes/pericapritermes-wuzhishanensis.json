@@ -1,0 +1,115 @@
+{
+ "book_n": "381",
+ "book_name": "五指山近扭白蚁 Pericapritermes wuzhishanensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "五指山近扭白蚁兵蚁的量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "6.45",
+     "value": "6.00–7.15"
+    },
+    {
+     "key": "head_width",
+     "mean": "1.21",
+     "value": "1.17–1.28"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.05",
+     "value": "1.03–1.12"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.47",
+     "value": "1.42–1.49"
+    },
+    {
+     "key": "right_mandible_length",
+     "mean": "1.41",
+     "value": "1.38–1.42"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.202",
+     "value": "0.195–0.220"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.426",
+     "value": "0.407–0.442"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.51",
+     "value": "1.42–1.59"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.342",
+     "value": "0.336–0.354"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 1182,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "五指山近扭白蚁有翅成虫的量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "11.61",
+     "value": "0.11–12.76"
+    },
+    {
+     "key": "body_length_without_wings",
+     "mean": "6.68",
+     "value": "6.28–7.81"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "mean": "1.15",
+     "value": "1.12–1.19"
+    },
+    {
+     "key": "eye_long_diameter",
+     "mean": "0.31",
+     "value": "0.30–0.34"
+    },
+    {
+     "key": "eye_short_diameter",
+     "mean": "0.29",
+     "value": "0.27–0.32"
+    },
+    {
+     "key": "ocellus_length",
+     "mean": "0.133",
+     "value": "0.124–0.142"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.56",
+     "value": "0.55–0.60"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.94",
+     "value": "0.86–1.00"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 1191,
+   "unit": "mm"
+  }
+ ]
+}

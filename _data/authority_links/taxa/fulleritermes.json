@@ -1,0 +1,90 @@
+{
+ "Fulleritermes coatoni": {
+  "gbif": {
+   "key": 9793284,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Fulleritermes coatoni Sands, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "6K48S",
+   "status": "accepted",
+   "label": "Fulleritermes coatoni Sands, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251559",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Fulleritermes contractus": {
+  "gbif": {
+   "key": 9660627,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Fulleritermes contractus (Sjöstedt, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6K494",
+   "status": "accepted",
+   "label": "Fulleritermes contractus (Sjöstedt, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251560",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Fulleritermes mallyi": {
+  "gbif": {
+   "key": 9741917,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Fulleritermes mallyi (Fuller, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6JRWR",
+   "status": "accepted",
+   "label": "Fulleritermes mallyi (Fuller, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251562",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Fulleritermes tenebricus": {
+  "gbif": {
+   "key": 9709850,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Fulleritermes tenebricus (Silvestri, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6JRX3",
+   "status": "accepted",
+   "label": "Fulleritermes tenebricus (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251564",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "fetched_at": "2026-10-30T15:45:37Z",
+ "latin": "Adaiphrotermes",
+ "papers": [
+  {
+   "abstract": "Soil‐feeding termites are abundant in tropical regions and play an important role in soil bioturbation and in the organic matter cycle. The Apicotermitinae are arguably the most diverse lineage of soil‐feeding termites, but they are also the most understudied, probably because many species are soldierless, which makes identification difficult. Although the backbone of the termite phylogenetic tree is now well‐resolved, the relationships among representatives of Apicotermitinae are still largely unknown. Here, we present phylogenetic trees inferred from 113 mitochondrial genomes of Apicotermitinae representative of the group diversity. Our analyses confirm the monophyly of the Apicotermitinae and the basal position of soldiered taxa, within which two lineages of soldierless species are nested. We describe two new monotypic genera, whose phylogenetic position appeared of special interest: Koutabatermes gen. n., lies on a long branch among soldiered taxa, and Apolemotermes gen. n., is sister to Adaiphrotermes. We resolved, with high support, the position of Asian genera as sister group of a clade comprising the monophyletic neotropical Anoplotermes ‐group and the small African clade including Adaiphrotermes and Apolemotermes gen. n.. Our trees cast light on the intergeneric and interspecific relationships within Apicotermitinae and reveal the polyphyly of several genera, including Ruptitermes, Astalotermes and Anoplotermes. Biogeographic reconstructions revealed two dispersal events out of Africa, one to the Oriental realm and one to the Neotropical realm. Overall, the timing of Apicotermitinae diversification and dispersal, following the Eocene–Oligocene boundary, matches that found for other groups of Neoisoptera. Nomenclatural acts are registered in ZooBank: http://zoobank.org/urn:lsid:zoobank.org:pub:CA1A21B6‐573E‐4855‐8C88‐372453C922F7.",
+   "abstract_chars": 1870,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Johanna Romero Arias",
+    "Arthur F. Boom",
+    "Menglin Wang",
+    "Crystal Clitheroe",
+    "Jan Šobotník",
+    "Petr Stiblík",
+    "Thomas Bourguignon",
+    "Yves Roisin"
+   ],
+   "cited_by": 21,
+   "date": "2021-06-08",
+   "doi": "10.1111/syen.12486",
+   "doi_url": "https://doi.org/10.1111/syen.12486",
+   "id": "https://openalex.org/W3172441819",
+   "issue": "3",
+   "language": "en",
+   "oa_url": "https://oist.repo.nii.ac.jp/record/2604/files/PhyloApico_R2MS_Clean.pdf",
+   "openalex_url": "https://openalex.org/W3172441819",
+   "pages": "741-756",
+   "title": "Molecular phylogeny and historical biogeography of Apicotermitinae (Blattodea: Termitidae)",
+   "type": "article",
+   "venue": "Systematic Entomology",
+   "volume": "46",
+   "year": 2021
+  }
+ ],
+ "zh": "和白蚁属"
+}

@@ -1,0 +1,112 @@
+{
+ "Procornitermes araujoi": {
+  "gbif": {
+   "key": 9665857,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procornitermes araujoi Emerson, 1952",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MP8K",
+   "status": "accepted",
+   "label": "Procornitermes araujoi Emerson, 1952",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084183",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procornitermes lespesii": {
+  "gbif": {
+   "key": 9807793,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procornitermes lespesii (Müller, 1873)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MP8L",
+   "status": "accepted",
+   "label": "Procornitermes lespesii (Müller, 1873)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084185",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procornitermes romani": {
+  "gbif": {
+   "key": 9755528,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procornitermes romani Emerson, 1952",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MP8M",
+   "status": "accepted",
+   "label": "Procornitermes romani Emerson, 1952",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084187",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procornitermes striatus": {
+  "gbif": {
+   "key": 8798357,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procornitermes striatus (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MP8N",
+   "status": "accepted",
+   "label": "Procornitermes striatus (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084189",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procornitermes triacifer": {
+  "gbif": {
+   "key": 9747421,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procornitermes triacifer (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MP8P",
+   "status": "accepted",
+   "label": "Procornitermes triacifer (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084191",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

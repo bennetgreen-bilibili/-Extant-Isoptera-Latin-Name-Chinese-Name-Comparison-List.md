@@ -1,0 +1,60 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "巢群组成与实验室饲养",
+   "heading_en": "Colony composition and laboratory rearing",
+   "heading_es": "Composición de la colonia y cría en laboratorio",
+   "paragraphs": [
+    {
+     "text": "据摘要，Thakur 等（2023）研究凹胸杆白蚁（Stylotermes faveolus）与穿山甲杆白蚁（Stylotermes halumicus）的追踪信息素，所用两份巢片段各含数百头工蚁（暂按广义拟工蚁处理）与数十头兵蚁；作者指出，杆白蚁属（Stylotermes）因采集困难，其生物学仍属认知极少的类群。",
+     "text_en": "According to the abstract, Thakur et al. (2023) studied trail-following communication in Stylotermes faveolus and Stylotermes halumicus; each of the two nest fragments used contained hundreds of workers (treated provisionally as pseudergates sensu lato) and tens of soldiers. The authors note that the difficulty of collecting termites of the genus Stylotermes leaves its biology among the least known among termites.",
+     "text_es": "Según el resumen, Thakur et al. (2023) estudiaron la comunicación por feromona de rastro en Stylotermes faveolus y Stylotermes halumicus; cada uno de los dos fragmentos de nido utilizados contenía cientos de obreras (tratadas provisionalmente como pseudergates sensu lato) y decenas de soldados. Los autores señalan que la dificultad de recolectar termitas del género Stylotermes hace que su biología siga siendo muy poco conocida.",
+     "src": [
+      "S0010"
+     ]
+    },
+    {
+     "text": "据摘要，Thakur 与 Mishra（1996）比较印度木栖白蚁与土栖种的实验室饲养：比森双裂白蚁（Bifiditermes beesoni）、鲍斯新白蚁（Neotermes bosei）与杆白蚁属（Stylotermes）数种等木栖种较易大量饲养，方法是将带活巢的受害木段连同足量完好木材置入铁制或水泥容器，控制 28±1°C、80–90% RH。",
+     "text_en": "According to the abstract, Thakur and Mishra (1996) compared laboratory rearing of wood-dwelling and subterranean termites in India: wood-dwelling species such as Bifiditermes beesoni, Neotermes bosei and several species of Stylotermes were easier to rear in mass culture, by placing attacked wood segments bearing live colonies together with a sufficient portion of sound wood in iron or cement containers kept at 28±1°C and 80–90% RH.",
+     "text_es": "Según el resumen, Thakur y Mishra (1996) compararon la cría en laboratorio de termitas madereras y subterráneas de la India: las especies madereras como Bifiditermes beesoni, Neotermes bosei y varias especies de Stylotermes fueron más fáciles de criar en masa, colocando segmentos de madera atacados con colonias vivas junto con una porción suficiente de madera sana en recipientes de hierro o cemento a 28±1°C y 80–90% RH.",
+     "src": [
+      "S0012"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "东亚特有属与实验室饲养",
+   "heading_en": "An East Asian endemic genus and laboratory rearing",
+   "heading_es": "Un género endémico de Asia oriental y su cría en laboratorio",
+   "paragraphs": [
+    {
+     "src": [
+      "S0250"
+     ],
+     "text": "根据 Liang 等（2017）研究，杆白蚁科（Stylotermitidae）现存仅 1 属——杆白蚁属（<i>Stylotermes</i>），只分布于东亚；该属具特征性的三节跗节，被视为鼻白蚁科（Rhinotermitidae）与木白蚁科（Kalotermitidae）之间的中间类型。该文首次报道台湾发现杆白蚁科，记述新种穿山甲杆白蚁（<i>Stylotermes halumicus</i>），并首次对同一个种同时报道有翅成虫、兵蚁与工蚁三个品级的基因序列与详细形态描述（据摘要）。",
+     "text_en": "According to Liang et al. (2017), Stylotermitidae contains only one extant genus, <i>Stylotermes</i>, distributed solely in East Asia; the genus has characteristic three-segmented tarsi and is regarded as an intermediate type between Rhinotermitidae and Kalotermitidae. The paper reports Stylotermitidae from Taiwan for the first time, describes the new species <i>Stylotermes halumicus</i>, and for the first time reports gene sequences and detailed morphological descriptions for all three castes, alates, soldiers and workers, of the same species (according to the abstract).",
+     "text_es": "Según Liang et al. (2017), Stylotermitidae contiene un solo género actual, <i>Stylotermes</i>, distribuido únicamente en Asia oriental; el género presenta tarsos característicos de tres segmentos y se considera un tipo intermedio entre Rhinotermitidae y Kalotermitidae. El trabajo registra por primera vez Stylotermitidae en Taiwán, describe la nueva especie <i>Stylotermes halumicus</i> y, por primera vez para una misma especie, aporta secuencias génicas y descripciones morfológicas detalladas de las tres castas, alados, soldados y obreros (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0010",
+   "citation": "Thakur, H. et al. 2023. The trail-following communication in Stylotermes faveolus and S. halumicus (Blattodea, Isoptera, Stylotermitidae). Journal of Chemical Ecology 49: 642–651.",
+   "doi": "10.1007/s10886-023-01447-w"
+  },
+  {
+   "id": "S0012",
+   "citation": "Thakur, M. L.; Mishra, S. C. 1996. Laboratory culturing of some Indian wood destroying termites. Journal of Entomological Research 20(1): 73–82.",
+   "url": "https://indianjournals.com/article/jer-20-1-013"
+  },
+  {
+   "id": "S0250",
+   "citation": "Liang, W.-R.; Wu, C.-C.; Li, H.-F. 2017. Discovery of a Cryptic Termite Genus, Stylotermes (Isoptera: Stylotermitidae), in Taiwan, With the Description of a New Species. Annals of the Entomological Society of America.",
+   "doi": "10.1093/aesa/sax034"
+  }
+ ]
+}

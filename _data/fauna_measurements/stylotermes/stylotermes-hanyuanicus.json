@@ -1,0 +1,58 @@
+{
+ "book_n": "229",
+ "book_name": "汉源杆白蚁 Stylotermes hanyuanicus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "汉源杆白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.55",
+     "value": "1.49–1.60"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.28",
+     "value": "1.18–1.34"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.44",
+     "value": "0.35–0.50"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.62",
+     "value": "1.57–1.71"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.93",
+     "value": "1.58–2.06"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.73",
+     "value": "0.64–0.77"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.41",
+     "value": "1.29–1.46"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.22",
+     "value": "1.18–1.26"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 679,
+   "unit": "mm"
+  }
+ ]
+}

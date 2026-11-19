@@ -1,0 +1,112 @@
+{
+ "Eutermellus abruptus": {
+  "gbif": {
+   "key": 9648097,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eutermellus abruptus Sands, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "3DC9H",
+   "status": "accepted",
+   "label": "Eutermellus abruptus Sands, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251144",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eutermellus aquilinus": {
+  "gbif": {
+   "key": 9697498,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eutermellus aquilinus Sands, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "3DC9J",
+   "status": "accepted",
+   "label": "Eutermellus aquilinus Sands, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251145",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eutermellus bipartitus": {
+  "gbif": {
+   "key": 9722847,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eutermellus bipartitus (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3DC9K",
+   "status": "accepted",
+   "label": "Eutermellus bipartitus (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251147",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eutermellus convergens": {
+  "gbif": {
+   "key": 9672696,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eutermellus convergens Silvestri, 1912",
+   "accepted": null
+  },
+  "col": {
+   "id": "3DC9L",
+   "status": "accepted",
+   "label": "Eutermellus convergens Silvestri, 1912",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251148",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eutermellus undulans": {
+  "gbif": {
+   "key": 9806839,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eutermellus undulans Sands, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "3DC9M",
+   "status": "accepted",
+   "label": "Eutermellus undulans Sands, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251150",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

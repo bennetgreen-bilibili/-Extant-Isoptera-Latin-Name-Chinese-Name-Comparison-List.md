@@ -1,0 +1,24 @@
+{
+ "Firmitermes abyssinicus": {
+  "gbif": {
+   "key": 9679363,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Firmitermes abyssinicus (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6J4RW",
+   "status": "accepted",
+   "label": "Firmitermes abyssinicus (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225326",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "latin": "Malagasitermes",
+ "zh": "马尔加什白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Malagasitermes Emerson, 1960a: 15–16.",
+ "type_species": "Eutermes milloti Cachan, 1949 by original designation.",
+ "references": [
+  {
+   "ref": "Morimoto, 1975b: 20, 23",
+   "note": "Malagasitermes; key."
+  }
+ ],
+ "nrefs": 3
+}

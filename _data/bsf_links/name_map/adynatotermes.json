@@ -1,0 +1,13 @@
+{
+ "Adynatotermes moretelae": {
+  "label": "Adynatotermes moretelae (Fuller, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83923,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83923/overview",
+  "valid_label": null,
+  "valid_otu": 83923,
+  "verified": false
+ }
+}

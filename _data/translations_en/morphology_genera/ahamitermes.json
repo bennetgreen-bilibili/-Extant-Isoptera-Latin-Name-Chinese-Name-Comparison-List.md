@@ -1,0 +1,17 @@
+{
+ "note": "Established by Mjöberg (1920: 89) for A. nidicola from Queensland, at the time described only from the soldier (the holotype is a single soldier collected from the side of a nest of Coptotermes lacteus); Hill (1942: 308) reduced it to a subgenus of Hamitermes and added subgeneric key characters. The present list treats it as a separate genus. Complete accounts of the worker and alate are not given in the original description.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Small, of the Hamitermes type. Soldier mandibles toothless (the original description says “without a median tooth”), which distinguishes it from Hamitermes s. str. (mandibles with well-developed teeth) and Microcerotermes (inner margin of the mandibles largely finely serrate); Hill's (1942: 310) subgeneric key additionally defines this group by “soldier mandibles lacking or with reduced teeth” and “terminal segment of the alate maxillary palp swollen”. Hill (1942: 308) noted that the genus was originally established on species with toothless soldier mandibles, the alate characters being added later from related species. All species live in the nests of Coptotermes."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head small, longer than wide, with a rounded posterior margin; clypeus small; labrum long and wide, narrowed towards the apex, which is rounded; mandibles short and robust, separated from each other, without a median tooth; antennae very short, 12-segmented; pronotum wide, only its anterior margin slightly ridge-like. Soldier of A. nidicola: body white, head and prothorax pale yellow, mandibles reddish brown; head small, slightly narrowed anteriorly, longer than wide, with a rounded posterior margin; basal segment of the clypeus very short and yellow, the apical segment white; labrum large and wide, narrowed at the sides, rounded apically and hairy; mandibles very short and robust, broad at the base, curved and completely toothless (only the inner side of the left mandible bears two extremely minute, almost invisible “teeth”); antennae pale yellow, segment 2 about half as long and half as wide as segment 1, segment 3 extremely short; pronotum wide, its anterior margin slightly ridge-like, the sides rounded and narrowed towards the base; legs rather short, the femora relatively thick, the tarsi slender. Measurements (A. nidicola, mm): body length including mandibles 4.4, head length including mandibles 1.56, head length excluding mandibles 1.31, head width 0.87, pronotum length 0.29 and width 0.72, abdominal width 1.4."
+  },
+  {
+   "label": "Alate",
+   "text": "Terminal segment of the maxillary palp swollen, the alate character by which Hill (1942: 310) separates this group from Hamitermes s. str.; apart from this, the original description gives no complete account of the alate."
+  }
+ ]
+}

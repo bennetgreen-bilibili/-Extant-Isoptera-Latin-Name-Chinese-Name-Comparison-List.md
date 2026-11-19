@@ -1,0 +1,43 @@
+{
+ "latin": "Convexitermes",
+ "zh": "凸白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Convexitermes Holmgren, 1910c: 205, 208, 218 [first introduced as a subgenus of Eutermes Heer, 1849].",
+ "type_species": "Eutermes convexifrons Holmgren, 1906 by subsequent designation; see Snyder, 1949a: 342.",
+ "references": [
+  {
+   "ref": "Holmgren, 1912a: 59, 60, 64",
+   "note": "Eutermes (Convexitermes) key; species included."
+  },
+  {
+   "ref": "Snyder, 1926e: 33",
+   "note": "Convexitermes; characters; discussion."
+  },
+  {
+   "ref": "Morimoto, 1975b: 20, 23",
+   "note": "Convexitermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 242",
+   "note": "Convexitermes; synonymy; characters."
+  },
+  {
+   "ref": "Mill, 1983a: 182, 189",
+   "note": "Convexitermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Fontes, 1987b: 503–531",
+   "note": "Convexitermes; worker mandibles described and figured."
+  },
+  {
+   "ref": "Constantino, 1991b: 5",
+   "note": "Convexitermes; characters."
+  },
+  {
+   "ref": "Constantino, 1999a: 414",
+   "note": "Convexitermes; key; biology; distribution."
+  }
+ ],
+ "nrefs": 26
+}

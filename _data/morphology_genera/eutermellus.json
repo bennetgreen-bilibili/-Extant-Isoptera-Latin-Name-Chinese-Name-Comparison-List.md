@@ -1,0 +1,29 @@
+{
+ "zh_name": "小真白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "Sands 认为本属是非洲 Paracornitermes 群中特化程度最低者：有翅成虫与工蚁的上颚、部分种典型的 Y 形囟、兵蚁上唇三叶状前缘以及总体上更多的刚毛都指向这一点。与 Vernicositermes、Afrosubulitermes 的区别在于毛被更密（以及体型）。兵蚁单型，鼻锥形至柱形、端部收成细尖且明显皱，上唇前缘三叶状，触角 13 节，头在触角后方极弱至中度缢缩。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "左上颚端齿明显长于第 1 缘齿，但二者间距略短于第 1–3 缘齿间距（左颚指数 96–98）；第 1–3 缘齿之间的切缘波状并在第 3 缘齿前方凹陷，第 3 缘齿近等边，它与臼突之间的间隙中可见很小的副齿。右上颚端齿与第 1 缘齿同左上颚，第 2 缘齿小而明显、后缘凹；臼板表面无基凹，不对称，后缘具大的圆形翼、前缘翼较小，脊弱。后唇基隆起，宽为长的 1.8–2.5 倍。囟形状多变：Y 形、三角形、哑铃形或近于消失。复眼自头侧突出的程度由几乎不突到明显。头部毛被长短不很规则，显著的长刚毛常成对对称排列。前胸背板两侧向圆的后缘弱收，长约宽的三分之二。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "单型。鼻锥形至柱形，向细尖渐细，明显皱。退化上颚具微小尖或全无尖；上唇前缘三叶状。头壳在触角后方极弱至中度缢缩。触角 13 节。头与鼻被稀疏、极短的细毛，鼻端较长；另有显著的较长刚毛大致排成两列，一列在缢缩之前（4–10 根），一列在其后（2–10 根）。"
+  },
+  {
+   "label": "工蚁",
+   "text": "上颚同有翅成虫，仅端齿比例更长（左颚指数 1.24–1.62），臼区更发达。"
+  }
+ ],
+ "note": "Sands 1965 给出 Imago、Soldier、Worker 三段，均按原文录入。有翅成虫的左颚指数原文作 96–98（百分数口径），工蚁作 1.24–1.62（比值口径），两者量纲不同，照录而未换算。",
+ "sources": [
+  {
+   "id": "S0047",
+   "citation": "Sands W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172. https://doi.org/10.5962/p.193228",
+   "locator": "p. 141（Genus Eutermellus Silvestri：Imago / Soldier / Worker；Remarks）"
+  }
+ ]
+}

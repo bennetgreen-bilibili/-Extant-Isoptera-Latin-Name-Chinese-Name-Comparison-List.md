@@ -1,0 +1,266 @@
+{
+ "Bifiditermes angulatus": {
+  "gbif": {
+   "key": 9819134,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bifiditermes angulatus (Wilkinson, 1959)",
+   "accepted": null
+  },
+  "col": {
+   "id": "LT2F",
+   "status": "accepted",
+   "label": "Bifiditermes angulatus (Wilkinson, 1959)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235213",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bifiditermes beesoni": {
+  "gbif": {
+   "key": 9722591,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bifiditermes beesoni (Gardner, 1945)",
+   "accepted": null
+  },
+  "col": {
+   "id": "LT2G",
+   "status": "accepted",
+   "label": "Bifiditermes beesoni (Gardner, 1945)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235214",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bifiditermes durbanensis": {
+  "gbif": {
+   "key": 9729032,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bifiditermes durbanensis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "LT2H",
+   "status": "accepted",
+   "label": "Bifiditermes durbanensis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235215",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bifiditermes improbus": {
+  "gbif": {
+   "key": 4802911,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bifiditermes improbus (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "LT2J",
+   "status": "accepted",
+   "label": "Bifiditermes improbus (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272347",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bifiditermes indicus": {
+  "gbif": {
+   "key": 9786500,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bifiditermes indicus (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "LT2K",
+   "status": "accepted",
+   "label": "Bifiditermes indicus (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235216",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bifiditermes jeannelanus": {
+  "gbif": {
+   "key": 9806579,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bifiditermes jeannelanus (Sjöstedt, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "LT2L",
+   "status": "accepted",
+   "label": "Bifiditermes jeannelanus (Sjöstedt, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235217",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bifiditermes madagascariensis": {
+  "gbif": {
+   "key": 9748620,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bifiditermes madagascariensis (Wasmann, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "LT2M",
+   "status": "accepted",
+   "label": "Bifiditermes madagascariensis (Wasmann, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235218",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bifiditermes mutubae": {
+  "gbif": {
+   "key": 9703356,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bifiditermes mutubae (Harris, 1948)",
+   "accepted": null
+  },
+  "col": {
+   "id": "LT2N",
+   "status": "accepted",
+   "label": "Bifiditermes mutubae (Harris, 1948)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235219",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bifiditermes pintoi": {
+  "gbif": {
+   "key": 9736473,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bifiditermes pintoi (Kemner, 1932)",
+   "accepted": null
+  },
+  "col": {
+   "id": "LT2P",
+   "status": "accepted",
+   "label": "Bifiditermes pintoi (Kemner, 1932)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591800",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bifiditermes rogierae": {
+  "gbif": {
+   "key": 4514013,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bifiditermes rogierae Hollande, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "LT2Q",
+   "status": "accepted",
+   "label": "Bifiditermes rogierae Hollande, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q50399427",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bifiditermes sibayiensis": {
+  "gbif": {
+   "key": 9667027,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bifiditermes sibayiensis (Coaton, 1949)",
+   "accepted": null
+  },
+  "col": {
+   "id": "LT2R",
+   "status": "accepted",
+   "label": "Bifiditermes sibayiensis (Coaton, 1949)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235220",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bifiditermes sylvaticus": {
+  "gbif": {
+   "key": 9648325,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bifiditermes sylvaticus (Wilkinson, 1959)",
+   "accepted": null
+  },
+  "col": {
+   "id": "LT2S",
+   "status": "accepted",
+   "label": "Bifiditermes sylvaticus (Wilkinson, 1959)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235221",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

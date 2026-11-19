@@ -1,0 +1,222 @@
+{
+ "Eremotermes arctus": {
+  "gbif": {
+   "key": 9790282,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eremotermes arctus Spaeth, 1964",
+   "accepted": null
+  },
+  "col": {
+   "id": "6GHR2",
+   "status": "accepted",
+   "label": "Eremotermes arctus Spaeth, 1964",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251080",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eremotermes dehraduni": {
+  "gbif": {
+   "key": 9738396,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eremotermes dehraduni Sen-Sarma & Roonwal, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "6GHQN",
+   "status": "accepted",
+   "label": "Eremotermes dehraduni Roonwal & Sen-Sarma, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251081",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eremotermes fletcheri": {
+  "gbif": {
+   "key": 9706977,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eremotermes fletcheri Holmgren & Holmgren, 1917",
+   "accepted": null
+  },
+  "col": {
+   "id": "6GHQD",
+   "status": "accepted",
+   "label": "Eremotermes fletcheri Holmgren & Holmgren, 1917",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251083",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eremotermes indicatus": {
+  "gbif": {
+   "key": 9713290,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eremotermes indicatus Silvestri, 1911",
+   "accepted": null
+  },
+  "col": {
+   "id": "6GHQB",
+   "status": "accepted",
+   "label": "Eremotermes indicatus Silvestri, 1911",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251084",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eremotermes madrasicus": {
+  "gbif": {
+   "key": 9817113,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eremotermes madrasicus Sen-Sarma & Roonwal, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "6GHQC",
+   "status": "accepted",
+   "label": "Eremotermes madrasicus Roonwal & Sen-Sarma, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251086",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eremotermes nanus": {
+  "gbif": {
+   "key": 9657307,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eremotermes nanus Harris, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "6GHQH",
+   "status": "accepted",
+   "label": "Eremotermes nanus Harris, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251087",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eremotermes neoparadoxalis": {
+  "gbif": {
+   "key": 9682257,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eremotermes neoparadoxalis Ahmad, 1955",
+   "accepted": null
+  },
+  "col": {
+   "id": "6GHQF",
+   "status": "accepted",
+   "label": "Eremotermes neoparadoxalis Ahmad, 1955",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251089",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eremotermes paradoxalis": {
+  "gbif": {
+   "key": 8942865,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eremotermes paradoxalis Holmgren, 1912",
+   "accepted": null
+  },
+  "col": {
+   "id": "6GHQG",
+   "status": "accepted",
+   "label": "Eremotermes paradoxalis Holmgren, 1912",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251090",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eremotermes sanyuktae": {
+  "gbif": {
+   "key": 9687802,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eremotermes sanyuktae Thakur, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "6GHPZ",
+   "status": "accepted",
+   "label": "Eremotermes sanyuktae Thakur, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251091",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eremotermes senegalensis": {
+  "gbif": {
+   "key": 9764521,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eremotermes senegalensis Nel, Fleck & Mampouya, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "6GHBF",
+   "status": "accepted",
+   "label": "Eremotermes senegalensis Mampouya, Fleck & Nel, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251093",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

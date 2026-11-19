@@ -1,0 +1,46 @@
+{
+ "Macrognathotermes broomensis": {
+  "label": "Macrognathotermes broomensis (Mjöberg, 1920)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85479,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85479/overview",
+  "valid_label": null,
+  "valid_otu": 85479,
+  "verified": false
+ },
+ "Macrognathotermes errator": {
+  "label": "Macrognathotermes errator Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85480,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85480/overview",
+  "valid_label": null,
+  "valid_otu": 85480,
+  "verified": false
+ },
+ "Macrognathotermes prolatus": {
+  "label": "Macrognathotermes prolatus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85481,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85481/overview",
+  "valid_label": null,
+  "valid_otu": 85481,
+  "verified": false
+ },
+ "Macrognathotermes sunteri": {
+  "label": "Macrognathotermes sunteri (Hill, 1927)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85482,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85482/overview",
+  "valid_label": null,
+  "valid_otu": 85482,
+  "verified": false
+ }
+}

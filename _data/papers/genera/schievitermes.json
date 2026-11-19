@@ -1,0 +1,58 @@
+{
+ "latin": "Schievitermes",
+ "zh": "不对称白蚁属",
+ "fetched_at": "2026-10-30T16:54:37Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W4306923100",
+   "openalex_url": "https://openalex.org/W4306923100",
+   "doi": "10.3897/zookeys.1125.91124",
+   "doi_url": "https://doi.org/10.3897/zookeys.1125.91124",
+   "title": "Schievitermes globicornis, a new genus and species of Termitinae (Blattodea, Termitidae) from French Guiana",
+   "year": 2022,
+   "date": "2022-10-20",
+   "authors": [
+    "Yves Roisin"
+   ],
+   "venue": "ZooKeys",
+   "type": "article",
+   "language": "en",
+   "cited_by": 2,
+   "oa_url": "https://doi.org/10.3897/zookeys.1125.91124",
+   "volume": "1125",
+   "issue": "",
+   "pages": "103-114",
+   "abstract": "Asymmetrical snapping mandibles have evolved several times in termites. In the Neotropics, asymmetrical snapping mandibles are found in soldiers of four genera:Neocapritermes,Planicapritermes,CornicapritermesandDihoplotermes. Here, I describeSchievitermes globicornis, new genus and species, from French Guiana. This genus is characterized by an absence of a frontal prominence and slightly asymmetrical mandibles in the soldier caste. The morphology and anatomy of the worker reveal a wood-based diet, and suggest thatSchievitermes,PlanicapritermesandNeocapritermesconstitute a monophyletic group, which is consistent with mtDNA data.",
+   "abstract_source": "openalex",
+   "abstract_chars": 635,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W7117555622",
+   "openalex_url": "https://openalex.org/W7117555622",
+   "doi": "10.37486/2675-1305.ec07038",
+   "doi_url": "https://doi.org/10.37486/2675-1305.ec07038",
+   "title": "New record of Schievitermes globicornis Roisin, 2022 (Blattodea, Isoptera, Termitidae) for the Brazilian Amazon forest",
+   "year": 2025,
+   "date": "2025-12-29",
+   "authors": [
+    "WALTERLEY VILHENA PEREIRA FILHO",
+    "Rayssa ALMEIDA-AZEVEDO",
+    "José Wellington de Morais",
+    "Renato Almeida de Azevedo"
+   ],
+   "venue": "Entomological Communications",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "https://www.entomologicalcommunications.org/index.php/entcom/article/download/ec07038/288",
+   "volume": "7",
+   "issue": "",
+   "pages": "ec07038-ec07038",
+   "abstract": "Schievitermes Roisin, 2022 is a monotypic termite genus previously described only from French Guiana. In this study, we report for the first time the occurrence of this species in the Brazilian Amazon, in the Ducke Reserve, Manaus, Amazonas, Brazil. Species identification was confirmed through detailed morphological analyses of soldiers and workers, following established protocols, and comparison with previously published descriptions and illustrations. This record significantly expands the known geographic distribution of the species and highlights the importance of Amazonian forests in conserving poorly known termite lineages.",
+   "abstract_source": "openalex",
+   "abstract_chars": 636,
+   "abstract_truncated": false
+  }
+ ]
+}

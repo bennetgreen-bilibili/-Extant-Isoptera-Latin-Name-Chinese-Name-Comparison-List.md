@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "src": [
+      "S0300"
+     ],
+     "text": "据摘要，根据 Carrijo 等（2015）研究，曼长工白蚁（<i>Longustitermes manni</i>）由 Bourguignon 等（2010）描述，其旧组合为 <i>Anoplotermes manni</i> Snyder。",
+     "text_en": "According to the abstract, Carrijo et al. (2015) noted that <i>Longustitermes manni</i> was described by Bourguignon et al. (2010), with the older combination <i>Anoplotermes manni</i> Snyder.",
+     "text_es": "Según el resumen, Carrijo et al. (2015) señalaron que <i>Longustitermes manni</i> fue descrita por Bourguignon et al. (2010), con la combinación antigua <i>Anoplotermes manni</i> Snyder."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0300",
+   "citation": "Carrijo, T. F.; Scheffrahn, R. H.; Jan Křeček. 2015. Compositermes bani sp.n. (Isoptera, Termitidae, Apicotermitinae), a new species of soldierless termite from Bolivia. Zootaxa.",
+   "doi": "10.11646/zootaxa.3941.2.10"
+  }
+ ]
+}

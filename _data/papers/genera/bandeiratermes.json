@@ -1,0 +1,32 @@
+{
+ "fetched_at": "2026-10-30T15:49:42Z",
+ "latin": "Bandeiratermes",
+ "papers": [
+  {
+   "abstract": "Herein we describe three new genera based on a previous phylogenetic analysis of the termite subfamily Syntermitinae (Termitidae), which indicated that the genera Embiratermes Fontes and Ibitermes Fontes were paraphyletic. In order to resolve this paraphyly, the genus is more narrowly circumscribed, resulting in the following taxonomic changes: Biratermes gen. n., is established to accommodate Embiratermes robustus Constantino, 1992; Vaninitermes gen. n. is described for Armitermes brevinasisus Emerson Banks, 1957 and E. ignotus Constantino, 1991; and Bandeiratermes gen. n., is proposed to accommodate Armitermes silvestrii Emerson in Snyder, 1949 and Ibitermes tellustris Constantino, 1990. In addition, E. parvirostris Constantino, 1992 is considered a new junior subjective synonym of E. ignotus, and the imago of E. ignotus is described for the first time. Descriptions and illustrations of the workers digestive tube are included for all species, along with drawings of the coiling worker gut of E. festivellus (Silvestri, 1901). Photographs are provided for the soldiers of all of the aforementioned species. The new genera are compared with all other genera of Syntermitinae.",
+   "abstract_chars": 1189,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Mauricio M. Rocha",
+    "Eliana M. Cancello"
+   ],
+   "cited_by": 6,
+   "date": "2022-05-19",
+   "doi": "10.11646/zootaxa.5138.4.6",
+   "doi_url": "https://doi.org/10.11646/zootaxa.5138.4.6",
+   "id": "https://openalex.org/W4280547276",
+   "issue": "4",
+   "language": "en",
+   "oa_url": "https://doi.org/10.11646/zootaxa.5138.4.6",
+   "openalex_url": "https://openalex.org/W4280547276",
+   "pages": "445-463",
+   "title": "Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera",
+   "type": "article",
+   "venue": "Zootaxa",
+   "volume": "5138",
+   "year": 2022
+  }
+ ],
+ "zh": "班代拉白蚁属"
+}

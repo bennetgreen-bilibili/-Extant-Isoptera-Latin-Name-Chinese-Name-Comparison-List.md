@@ -1,0 +1,68 @@
+{
+ "book_n": "240",
+ "book_name": "直颚杆白蚁 Stylotermes orthognathus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "直颚杆白蚊兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.50",
+     "value": "1.43–1.58"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.24",
+     "value": "1.19–1.28"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.30",
+     "value": "0.25–0.35"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.44",
+     "value": "0.40–0.49"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.50",
+     "value": "1.39–1.58"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.88",
+     "value": "1.83–1.98"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.79",
+     "value": "0.74–0.84"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.65",
+     "value": "0.61–0.69"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.36",
+     "value": "1.29–1.43"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.19",
+     "value": "1.12–1.29"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 901,
+   "unit": "mm"
+  }
+ ]
+}

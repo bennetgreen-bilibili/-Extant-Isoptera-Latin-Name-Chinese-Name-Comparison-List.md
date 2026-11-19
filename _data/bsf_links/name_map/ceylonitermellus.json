@@ -1,0 +1,35 @@
+{
+ "Ceylonitermellus hantanae": {
+  "label": "Ceylonitermellus hantanae (Holmgren, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84378,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84378/overview",
+  "valid_label": null,
+  "valid_otu": 84378,
+  "verified": false
+ },
+ "Ceylonitermellus kotuae": {
+  "label": "Ceylonitermellus kotuae (Bugnion, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84379,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84379/overview",
+  "valid_label": null,
+  "valid_otu": 84379,
+  "verified": false
+ },
+ "Ceylonitermellus sahyadriensis": {
+  "label": "Ceylonitermellus sahyadriensis Ranjith & Kalleshwaraswamy, 2022",
+  "match": "exact",
+  "notes": "",
+  "otu": 683277,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/683277/overview",
+  "valid_label": null,
+  "valid_otu": 683277,
+  "verified": false
+ }
+}

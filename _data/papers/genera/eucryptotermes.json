@@ -1,0 +1,84 @@
+{
+ "latin": "Eucryptotermes",
+ "zh": "真砂白蚁属",
+ "fetched_at": "2026-10-30T16:53:36Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W778739222",
+   "openalex_url": "https://openalex.org/W778739222",
+   "doi": "",
+   "doi_url": "",
+   "title": "Notes on Eucryptotermes with a new species from central Amazonia (Isoptera: Kalotermitidae)",
+   "year": 1997,
+   "date": "1997-12-01",
+   "authors": [
+    "Reginaldo Constantino"
+   ],
+   "venue": "Acervo Digital da Universidade Estadual Paulista (Universidade Estadual Paulista)",
+   "type": "article",
+   "language": "en",
+   "cited_by": 3,
+   "oa_url": "http://repositorio.unesp.br/handle/11449/65339",
+   "volume": "30",
+   "issue": "",
+   "pages": "125-131",
+   "abstract": "Eucryptotermes breviceps, new species, is described from central Amazonia. Both imagoes and soldiers of this new species have only two apical spurs on the foretibia, a condition previously unknown for Kalotermitidae. The soldier of E. breviceps has a peculiar and extremely phragmotic head. The geographical distribution of E. wheeleri is expanded with new records, and measurements of soldiers and imagoes of this species are presented for the first time. E. wheeleri is a native of the Atlantic forest of southeastern Brazil, from Santa Catarina to Rio de Janeiro, but it has been recorded in urban areas and may be an occasional minor pest.",
+   "abstract_source": "openalex",
+   "abstract_chars": 643,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2790981794",
+   "openalex_url": "https://openalex.org/W2790981794",
+   "doi": "10.15560/14.2.291",
+   "doi_url": "https://doi.org/10.15560/14.2.291",
+   "title": "First records of the minor pest termite Eucryptotermes hagenii (Müller, 1873) (Blattodea, Termitoidae, Kalotermitidae) from the Chaco Dominion in Argentina",
+   "year": 2018,
+   "date": "2018-03-02",
+   "authors": [
+    "María Celina Godoy",
+    "Juan Manuel Coronel",
+    "Giovana Annoni",
+    "Clara Etcheverry",
+    "E. R. Laffont"
+   ],
+   "venue": "Check List",
+   "type": "article",
+   "language": "en",
+   "cited_by": 1,
+   "oa_url": "https://checklist.pensoft.net/article/20825/download/pdf/",
+   "volume": "14",
+   "issue": "2",
+   "pages": "291-296",
+   "abstract": "Eucryptotermes Holmgren, 1911, comprises 2 species of Neotropical drywood termites with phragmotic head soldiers. We report the presence of Eucryptotermes hagenii (Müller, 1873) in native forests of the Chaco Dominion and Chaco Province, enlarging its distribution and recording the genus and species for the first time in Argentina. Eucryptotermes hagenii abundance was estimated as intermediate by standardized sampling. Eighteen morphometric characters were measured in soldiers and alates, and 9 of them provided new data. The colonies, located inside living trees trunks and dead wood, were composed of reproductives, soldiers, pseudergates, and immatures.",
+   "abstract_source": "openalex",
+   "abstract_chars": 661,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2031170744",
+   "openalex_url": "https://openalex.org/W2031170744",
+   "doi": "10.1139/g95-126",
+   "doi_url": "https://doi.org/10.1139/g95-126",
+   "title": "Two permanent linear chains of sex chromosomes in Neotermes fulvescens and karyotypes of two other neotropical Kalotermitidae species (Insecta, Isoptera)",
+   "year": 1995,
+   "date": "1995-10-01",
+   "authors": [
+    "Vanderlei Geraldo Martins",
+    "Alejo Mesa"
+   ],
+   "venue": "Genome",
+   "type": "article",
+   "language": "en",
+   "cited_by": 11,
+   "oa_url": "",
+   "volume": "38",
+   "issue": "5",
+   "pages": "958-967",
+   "abstract": "Meiosis and (or) mitosis of males and females of Cryptotermes brevis, Eucryptotermes wheeleri, and Neotermes fulvescens, all of them from the neotropical region, were analyzed. Cryptotermes brevis showed a similar karyotype to that obtained by other authors for specimens of the neartic and Australian regions (2n = 36 for females and 2n = 37 for males, with XX and XYY sex mechanisms, respectively). Eucryptotermes wheeleri, the only species that has been described in this genus, showed the lowest number of chromosomes reported for Isoptera (2n = 22) until now. The male meiosis of this species presents a linear chain of six sex chromosomes, three of them being X and three of them Y chromosomes. Neotermes fulvescens showed a diploid number of 40 for males and 42 for females and, in the first male meiosis, two linear chains of chromosomes, both related to sex. One of the chains, named A, presented nine chromosomes and the other, named B, seven chromosomes. Hypotheses to explain these mechanisms are formulated in this paper and putative ancestral relationships with other species of Kalotermitidae are presented.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1122,
+   "abstract_truncated": false
+  }
+ ]
+}

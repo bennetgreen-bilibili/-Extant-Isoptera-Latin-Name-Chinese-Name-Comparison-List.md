@@ -1,0 +1,21 @@
+{
+ "note": "Este género es monotípico y contiene solo esta especie; la siguiente es la descripción a nivel de género basada en la literatura original; las medidas a nivel de especie y la variación intraespecífica figuran en el original.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Holmgren (1912) dividió este género en dos subgéneros de límites netos: Neocapritermes (todas las especies americanas, más la africana C. alienus v. Rosen) y Capritermes s. str. (solo las especies del Viejo Mundo). Las diferencias para separarlos son: en el alado, el tamaño del primer y del segundo diente, el número de artejos antenales, la forma del borde posterior del meso- y del metanoto y la presencia o ausencia de radial en el ala anterior; en el soldado, únicamente la presencia o ausencia del poro de la glándula frontal — Neocapritermes carece de él y Capritermes s. str. lo posee; en el obrero, si el borde anterior de la coxa anterior se dilata más o menos en forma de disco y el tamaño del primer diente. Los caracteres comunes a nivel de género son: alado con antenas de 15–17 artejos, el tercero a menudo corto, membrana alar oscura con puntos espiniformes y media próxima a la cubital; soldado con cabeza en rectángulo alargado, elevada y aplanada, mandíbulas del tipo Capritermes, asimétricamente curvadas, y antenas de 13–16 artejos; obrero con cabeza más o menos pentagonal y redondeada, y antenas de 13–15 artejos."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza anchamente ovalada, que se estrecha hacia delante. El ojo compuesto es relativamente pequeño, a menudo muy prominente. La posición del ocelo es variable y mira hacia los lados. El poro de la glándula frontal está hundido. La base del clípeo es plano-convexa y más corta que su media anchura. Las mandíbulas presentan dos casos: o bien con un diente apical grande (y entonces la parte posterior del meso- y del metanoto es aguda y las antenas tienen (14–)15 artejos); o bien con los dos dientes anteriores aproximadamente iguales (y entonces la parte posterior del meso- y del metanoto es ancha, el mesonoto apenas escotado y el metanoto anchamente escotado, con antenas de 17 artejos y radial presente en el ala anterior). Antenas de 15–17 artejos, el tercero a menudo corto. La membrana alar es oscura y con pequeños puntos (espinas). La media está próxima a la cubital. La tibia anterior lleva 3 espolones apicales, y las tibias media y posterior 2 cada una."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza en rectángulo alargado y estrecho, rara vez estrechada hacia delante, elevada y aplanada. El poro de la glándula frontal suele estar presente y expuesto en la parte anterior de la cabeza; todas las especies americanas y la africana C. alienus carecen de él. La base del clípeo es muy estrecha. El labro es alargado: o bien con los ángulos laterales salientes y el centro redondeado o escotado, o bien trilobulado con lóbulos muy cortos y redondeados. Las mandíbulas son del tipo Capritermes, asimétricamente curvadas. Antenas de 13–16 artejos. El pronoto es pequeño y en forma de silla de montar."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza más o menos pentagonal y redondeada. La base del clípeo está fuertemente elevada y es algo más corta que su media anchura. La forma del primer diente de las mandíbulas es como en el alado. Antenas de 13–15 artejos. El pronoto es en forma de silla de montar."
+  }
+ ]
+}

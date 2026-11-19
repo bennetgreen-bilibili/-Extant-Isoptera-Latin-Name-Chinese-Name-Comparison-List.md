@@ -1,0 +1,31 @@
+{
+ "latin": "Drepanotermes",
+ "zh": "镰白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Drepanotermes Silvestri, 1909b: 295.",
+ "type_species": "Termes perniger Froggatt, 1897 (= Termes rubriceps Froggatt, 1897) by original designation.",
+ "references": [
+  {
+   "ref": "Holmgren, 1912a: 88, 89–90",
+   "note": "Hamitermes (Drepanotermes); characters; key; species included."
+  },
+  {
+   "ref": "Hill, 1942: 14, 307–310, 367–368",
+   "note": "Hamitermes [part]; Hamitermes (Drepanotermes); key; synonymy; imago, soldier, worker diagnosed. 2114 Bulletin of the American Museum of natural History\b No. 377"
+  },
+  {
+   "ref": "Ratcliffe et al., 1952: 54",
+   "note": "Hamiterme (Drepanotermes); key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 28",
+   "note": "Drepanotermes; key."
+  },
+  {
+   "ref": "Watson and Perry, 1981: 2–12",
+   "note": "Drepanotermes; characters; biology; species included."
+  }
+ ],
+ "nrefs": 20
+}

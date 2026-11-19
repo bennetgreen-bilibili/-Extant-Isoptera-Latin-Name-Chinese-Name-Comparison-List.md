@@ -1,0 +1,25 @@
+{
+ "zh_name": "锥形白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "Sands 将本属置于 Procornitermes 支；兵蚁头壳在触角窝后锐利缢缩，与 Fulleritermes 相似，但系统发育上并不接近 Leptomyxotermes／Grallatotermes，而属于以新热带为主、含 Velocitermes、Tenuirostritermes、Diversitermes 的支系；与 Coarctotermes 的旧有归置仅基于兵蚁相似。兵蚁单型、鼻锥形、上颚具小尖、后叶通常仅比前部宽约四分之一、触角 12 节；有翅成虫左颚指数 0.32–0.36、第 2 缘齿消失、右上颚臼板具 6–7 条向基部递减的横脊、第 1 条成粗齿、囟为极窄裂缝且前方几不分叉。属名源自希腊语 rhadinos（渐细）。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头壳极深褐至乌黑，后唇基与触角深墨褐色，翅半透明淡褐；头后缘在复眼之后几乎呈半圆形；复眼不凸出、相对头壳小（W/E 3.4–3.8），略呈角状卵形；单眼小、卵形，与复眼间距约为其自身最小直径的 1.5 倍；后唇基强烈隆起，宽为长的 2.2 倍，前缘微凹；触角 15 节，第 II、IV、V 节近等长，II 较细，III 较长。上颚：左上颚端齿与第 1 缘齿等长或稍短，端齿至第 1 缘齿的距离约为第 1–3 缘齿间距的三分之一（指数 0.32–0.36），第 2 缘齿消失，第 1 与第 3 缘齿间切缘完整；右上颚端齿与第 1 缘齿近等长，第 1 缘齿近端具一小副齿；右上颚臼板近前缘基部有弱凹，后缘延伸成圆棱，第 1 横脊成粗齿，其余 6–7 条向基部递减；囟极窄、裂缝状，前方几不分叉（雌性更明显），较头色稍淡至明显淡。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "单型。鼻锥形。上颚退化，具小尖。头壳在触角窝后锐利缢缩，后叶通常仅比前部宽约四分之一。触角 12 节。头壳墨褐至乌黑，鼻黑色、端部带红；头侧轮廓在缢缩后隆起而圆，缢缩之前较平直；鼻长等于或短于自触角窝后缘起的其余头壳；鼻锥角 10–20°；触角第 II 节短，IV、V 较长；刚毛限于鼻端 4 根、头背成对的一对，以及背面少数短弯毛。25 号标本：头长（至鼻端）1.17–1.39 mm，头宽 0.54–0.66 mm，后足胫节 0.92–1.10 mm。"
+  }
+ ],
+ "note": "属征取自 Sands 的属级 Diagnosis；体色、指数与测量值取自其后的种 R. coarctatus 记述，已按种级数据并入并标明。原文属级诊断只有 Imago 与 Soldier 两段，无 Worker 段，故不设工蚁段。Sands 指出本属由 Coarctotermes 分出，二者兵蚁相似但系统位置不同。",
+ "sources": [
+  {
+   "id": "S0047",
+   "citation": "Sands, W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172.",
+   "locator": "p. 71（Genus Rhadinotermes: Imago, Soldier）；p. 72–73（R. coarctatus 种记述，体色、指数与测量）；p. 11（支系归属）"
+  }
+ ]
+}

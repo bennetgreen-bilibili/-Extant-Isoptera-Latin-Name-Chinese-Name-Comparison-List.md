@@ -1,0 +1,62 @@
+{
+ "book_n": "309",
+ "book_name": "梅多大白蚊 Macrotermes meidoensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "梅多大白蚁大兵蚁量度",
+   "label_en": "Major soldier measurements",
+   "label_es": "Medidas de soldado mayor",
+   "label_zh": "大兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "9.02–10.34"
+    },
+    {
+     "key": "head_length_with_mandibles",
+     "value": "4.84–5.39"
+    },
+    {
+     "key": "head_length_without_mandibles",
+     "value": "3.30–3.63"
+    },
+    {
+     "key": "head_width",
+     "value": "2.64–3.22"
+    },
+    {
+     "key": "head_height",
+     "value": "1.76–1.94"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "1.58–1.83"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "2.31–2.66"
+    },
+    {
+     "key": "postmentum_width",
+     "value": "0.79–0.90"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "1.01–1.14"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.76–2.02"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "2.27–2.49"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 997,
+   "unit": "mm"
+  }
+ ]
+}

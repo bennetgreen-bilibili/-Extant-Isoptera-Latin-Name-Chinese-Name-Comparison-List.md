@@ -1,0 +1,156 @@
+{
+ "Grallatotermes admirabilus": {
+  "gbif": {
+   "key": 9676713,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Grallatotermes admirabilus Light, 1930",
+   "accepted": null
+  },
+  "col": {
+   "id": "3H5PM",
+   "status": "accepted",
+   "label": "Grallatotermes admirabilus Light, 1930",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251709",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Grallatotermes africanus": {
+  "gbif": {
+   "key": 9776128,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Grallatotermes africanus Harris, 1954",
+   "accepted": null
+  },
+  "col": {
+   "id": "3H5PN",
+   "status": "accepted",
+   "label": "Grallatotermes africanus Harris, 1954",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251712",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Grallatotermes grallator": {
+  "gbif": {
+   "key": 9693431,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Grallatotermes grallator (Desneux, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3H5PP",
+   "status": "accepted",
+   "label": "Grallatotermes grallator (Desneux, 1905)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251713",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Grallatotermes grallatoriformis": {
+  "gbif": {
+   "key": 9724623,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Grallatotermes grallatoriformis (Holmgren & Holmgren, 1917)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3H5PQ",
+   "status": "accepted",
+   "label": "Grallatotermes grallatoriformis (Holmgren & Holmgren, 1917)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251714",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Grallatotermes niger": {
+  "gbif": {
+   "key": 9727039,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Grallatotermes niger Chatterjee & Thapa, 1964",
+   "accepted": null
+  },
+  "col": {
+   "id": "3H5PR",
+   "status": "accepted",
+   "label": "Grallatotermes niger Chatterjee & Thapa, 1964",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251715",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Grallatotermes splendidus": {
+  "gbif": {
+   "key": 9080440,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Grallatotermes splendidus Light & Wilson, 1936",
+   "accepted": null
+  },
+  "col": {
+   "id": "3H5PS",
+   "status": "accepted",
+   "label": "Grallatotermes splendidus Light & Wilson, 1936",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251717",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Grallatotermes weyeri": {
+  "gbif": {
+   "key": 9646421,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Grallatotermes weyeri Kemner, 1931",
+   "accepted": null
+  },
+  "col": {
+   "id": "3H5PT",
+   "status": "accepted",
+   "label": "Grallatotermes weyeri Kemner, 1931",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251718",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

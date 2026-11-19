@@ -1,0 +1,46 @@
+{
+ "Prohamitermes hosei": {
+  "label": "Prohamitermes hosei (Desneux, 1906)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85757,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85757/overview",
+  "valid_label": null,
+  "valid_otu": 85757,
+  "verified": false
+ },
+ "Prohamitermes hosei hosei": {
+  "label": "Prohamitermes hosei hosei (Desneux, 1906)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85758,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85758/overview",
+  "valid_label": null,
+  "valid_otu": 85758,
+  "verified": false
+ },
+ "Prohamitermes hosei minor": {
+  "label": "Prohamitermes hosei minor Thapa, 1982",
+  "match": "exact",
+  "notes": "",
+  "otu": 85759,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85759/overview",
+  "valid_label": null,
+  "valid_otu": 85759,
+  "verified": false
+ },
+ "Prohamitermes mirabilis": {
+  "label": "Prohamitermes mirabilis (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85760,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85760/overview",
+  "valid_label": null,
+  "valid_otu": 85760,
+  "verified": false
+ }
+}

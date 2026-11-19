@@ -1,0 +1,13 @@
+{
+ "Firmitermes abyssinicus": {
+  "label": "Firmitermes abyssinicus (Sjöstedt, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84096,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84096/overview",
+  "valid_label": null,
+  "valid_otu": 84096,
+  "verified": false
+ }
+}

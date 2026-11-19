@@ -1,0 +1,35 @@
+{
+ "Porotermes adamsoni": {
+  "label": "Porotermes adamsoni (Froggatt, 1897)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82535,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82535/overview",
+  "valid_label": null,
+  "valid_otu": 82535,
+  "verified": false
+ },
+ "Porotermes planiceps": {
+  "label": "Porotermes planiceps (Sjöstedt, 1904)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82536,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82536/overview",
+  "valid_label": null,
+  "valid_otu": 82536,
+  "verified": false
+ },
+ "Porotermes quadricollis": {
+  "label": "Porotermes quadricollis (Rambur, 1842)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82537,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82537/overview",
+  "valid_label": null,
+  "valid_otu": 82537,
+  "verified": false
+ }
+}

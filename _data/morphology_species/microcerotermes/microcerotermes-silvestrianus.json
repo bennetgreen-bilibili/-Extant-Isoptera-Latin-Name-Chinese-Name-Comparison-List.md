@@ -1,0 +1,21 @@
+{
+ "zh_name": "西尔韦斯特里锯白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 M. dolichognathus 相比，本种上颚比例上更长、头略小，前胸背板前缘的凹缺也不如后者深；M. fuscotibialis、其亚种 libericus 及 M. subtilis 体型均较小；亚种 validior 颇近，但 Silvestri (1914) 的图示上颚齿明显较弱；亚种 libericus 触角第三节远小于第二节；M. bequaertianus 头侧平直。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头红黄色；长圆形；两侧略圆。触角第二节与第三节等长，第四节略长于第三节。上唇端略尖，两侧略向后收拢。上颚弯曲，端部强烈弯曲；黑色；内缘具强锯齿。前胸背板前缘明显凹缺，角圆。头长（连上颚）3.22 mm；头长（至触角基）1.67 mm；头宽 1.22 mm；前胸背板长 0.39 mm、宽 0.78 mm；左上颚长 1.20–1.30 mm。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写；原文语言为英文，仅有兵蚁，未记工蚁与有翅成虫；正模为兵蚁，描述基于 3 头兵蚁；删去图号与产地。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

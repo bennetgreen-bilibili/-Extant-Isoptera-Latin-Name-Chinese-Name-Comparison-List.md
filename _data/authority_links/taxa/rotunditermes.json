@@ -1,0 +1,46 @@
+{
+ "Rotunditermes bragantinus": {
+  "gbif": {
+   "key": 9262402,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rotunditermes bragantinus (Roonwal & Rathore, 1976)",
+   "accepted": null
+  },
+  "col": {
+   "id": "799XH",
+   "status": "accepted",
+   "label": "Rotunditermes bragantinus (Roonwal & Rathore, 1976)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084332",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rotunditermes rotundiceps": {
+  "gbif": {
+   "key": 9195277,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rotunditermes rotundiceps (Holmgren, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WXXG",
+   "status": "accepted",
+   "label": "Rotunditermes rotundiceps (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084333",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

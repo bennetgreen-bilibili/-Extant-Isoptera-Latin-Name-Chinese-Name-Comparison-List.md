@@ -1,0 +1,13 @@
+{
+ "Acanthotermes acanthothorax": {
+  "label": "Acanthotermes acanthothorax (Sjöstedt, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83488,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83488/overview",
+  "valid_label": null,
+  "valid_otu": 83488,
+  "verified": false
+ }
+}

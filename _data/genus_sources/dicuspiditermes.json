@@ -1,0 +1,43 @@
+{
+ "latin": "Dicuspiditermes",
+ "zh": "突扭白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Dicuspiditermes Krishna, 1968: 286–290.",
+ "type_species": "Capritermes obtusus Silvestri, 1923 by original designation.",
+ "references": [
+  {
+   "ref": "Haviland, 1898: 378, 412",
+   "note": "Termes “section with T. nemorosus for type”; characters; key."
+  },
+  {
+   "ref": "Wasmann, 1902d: 125–126",
+   "note": "Capritermes [part]; characters; species included."
+  },
+  {
+   "ref": "Krishna, 1968: 286–290",
+   "note": "Dicuspiditermes; synonymy; key; characters; phylogeny; species included; distribution."
+  },
+  {
+   "ref": "Chaudhry et al., 1972: 65–66",
+   "note": "Dicuspiditermes; characters."
+  },
+  {
+   "ref": "Akhtar, 1975: 59, 60",
+   "note": "Dicuspiditermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 31",
+   "note": "Dicuspiditermes; key."
+  },
+  {
+   "ref": "Sen-Sarma et al., 1975: 2, 4, 9",
+   "note": "Dicuspiditermes; distribution and ecology; key. India."
+  },
+  {
+   "ref": "Sen-Sarma and Thakur, 1979: 5",
+   "note": "Discuspiditermes; key."
+  }
+ ],
+ "nrefs": 35
+}

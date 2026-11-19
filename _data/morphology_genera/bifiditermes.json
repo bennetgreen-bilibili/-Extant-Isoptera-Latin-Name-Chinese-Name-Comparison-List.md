@@ -1,0 +1,24 @@
+{
+ "zh_name": "双裂白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 Epicalotermes、Bicornitermes 近缘；有翅成虫左上颚第三缘齿前缘较 Epicalotermes 短；兵蚁头较厚，上颚弯曲不如 Epicalotermes 强；Bicornitermes 兵蚁头更短、更截形，上颚短，前胸背板前缘具锯齿。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "浅褐至深褐色；眼径 0.37–0.64 mm，单眼通常接触复眼；触角 15–20 节；左上颚第三缘齿前缘明显长于第一、二缘齿后缘（不超过 1.5 倍）；右上颚臼板明显小于第二缘齿后缘；前胸背板与头等宽或稍宽；翅透明、略具虹彩，通常覆无色乳突，少数具色素；中脉与肘脉在翅缝后共柄；爪间突缺。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头长而厚，两侧直、平行；额区粗糙，中央凹陷，约以 45° 下倾；部分种额侧背角稍隆起；眼大，着色或无色；触角 10–18 节，第三节最长、棒状；上颚长，外侧几乎直，近端部弯曲，具基瘤，齿式多变；前胸背板横拱，前缘深凹或宽凹，两侧圆；腿节不膨大。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0021",
+   "citation": "Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.",
+   "locator": "pp. 366–368"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "zh_name": "三方白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "本属工蚁肠瓣为基本型（basic EVA），一级垫呈纺锤形或大致长方形。原文将本属对应 clade V 及 Josens & Deligne (2019) 的 muneris 与 bilobatodes 两型。"
+  },
+  {
+   "label": "工蚁",
+   "text": "肠瓣为基本型；一级垫（primary cushions）呈纺锤形或大致长方形。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0073",
+   "citation": "Hellemans, S.; Deligne, J.; Roisin, Y.; Josens, G. 2021. Phylogeny and revision of the “Cubitermes complex” termites (Termitidae: Cubitermitinae). Systematic Entomology 46(1): 224–238. DOI: 10.1111/syen.12458",
+   "locator": "接受稿 p. 16–17，行 367–368，「Diagnosis」（正式版页码不同）；接受稿 p. 17，行 373–374，「Etymology」（正式版页码不同）；接受稿 p. 17，行 375–376，「Comments」（正式版页码不同）"
+  }
+ ],
+ "note": "接受稿只给工蚁肠瓣（EVA）属征，兵蚁与有翅成虫无属级文本；原文 Species included 列 13 种，属名出自拉丁语 terni（三）+ cubus（立方）。接受稿页码（p. 16–17，行 364–376）与正式版（Syst. Entomol. 46(1): 224–238）不同。"
+}

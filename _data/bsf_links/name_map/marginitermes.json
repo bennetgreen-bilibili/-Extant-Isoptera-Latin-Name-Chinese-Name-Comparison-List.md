@@ -1,0 +1,35 @@
+{
+ "Marginitermes absitus": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 82880 Marginitermes Krishna, 1961",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Marginitermes cactiphagus": {
+  "label": "Marginitermes cactiphagus Myles, 1997",
+  "match": "exact",
+  "notes": "",
+  "otu": 82881,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82881/overview",
+  "valid_label": null,
+  "valid_otu": 82881,
+  "verified": false
+ },
+ "Marginitermes hubbardi": {
+  "label": "Marginitermes hubbardi (Banks, 1920)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82882,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82882/overview",
+  "valid_label": null,
+  "valid_otu": 82882,
+  "verified": false
+ }
+}

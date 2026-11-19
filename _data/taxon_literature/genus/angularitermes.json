@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "兵蚁检索表与六个种",
+   "heading_en": "A soldier key and six species",
+   "heading_es": "Una clave de soldados y seis especies",
+   "paragraphs": [
+    {
+     "src": [
+      "S0327"
+     ],
+     "text": "根据 Carrijo 等（2011）研究，棱角白蚁属（<i>Angularitermes</i>）的兵蚁检索表涵盖此前描述的大唇棱角白蚁（<i>Angularitermes clypeatus</i>）、巨鼻棱角白蚁（<i>Angularitermes nasutissimus</i>）、俄瑞斯忒斯棱角白蚁（<i>Angularitermes orestes</i>）、松果棱角白蚁（<i>Angularitermes pinocchio</i>）与毛鼻棱角白蚁（<i>Angularitermes tiguassu</i>）5 种，以及该研究描述的锥鼻棱角白蚁（<i>Angularitermes coninasus</i>），共 6 种；检索表以兵蚁特征为依据，并附各兵蚁的图示（据摘要）。",
+     "text_en": "According to Carrijo et al. (2011), the soldier-based identification key for <i>Angularitermes</i> covers the five previously described species <i>Angularitermes clypeatus</i>, <i>Angularitermes nasutissimus</i>, <i>Angularitermes orestes</i>, <i>Angularitermes pinocchio</i> and <i>Angularitermes tiguassu</i>, together with <i>Angularitermes coninasus</i>, described in the same study: six species in all. The key is based on characters of the soldier caste and is accompanied by illustrations of the soldiers (according to the abstract).",
+     "text_es": "Según Carrijo et al. (2011), la clave de identificación basada en los soldados de <i>Angularitermes</i> abarca las cinco especies descritas previamente, <i>Angularitermes clypeatus</i>, <i>Angularitermes nasutissimus</i>, <i>Angularitermes orestes</i>, <i>Angularitermes pinocchio</i> y <i>Angularitermes tiguassu</i>, junto con <i>Angularitermes coninasus</i>, descrita en el mismo estudio: seis especies en total. La clave se basa en caracteres de la casta de soldados y se acompaña de ilustraciones de los soldados (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0327",
+   "citation": "Carrijo, T. F.; Rocha, M. M.; Cuezzo, C.; Cancello, E. M. 2011. Key to the soldiers of Angularitermes Emerson with a new species from Brazilian Amazonia (Isoptera: Termitidae: Nasutitermitinae). Zootaxa 2967.",
+   "url": "https://doi.org/10.11646/zootaxa.2967.1.6"
+  }
+ ]
+}

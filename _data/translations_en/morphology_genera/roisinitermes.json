@@ -1,0 +1,17 @@
+{
+ "note": "At genus level only the alate and soldier sections are provided; the original does not treat the worker separately (the species has pseudergates and short-winged nymphs, and the nymphs only have species-level measurement tables), so no \"Worker\" or \"Nymph\" sections are set. No measurements are given at genus level; all measurements are species-level (alate Table 1, soldier Table 2).",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The only genus in the Kalotermitidae with snapping mandibles: soldier mandibles slender and rod-like, the dentition extremely weak; the alate has no visible ocelli, also unique in the family. In Krishna's (1961) generic key the alate runs to couplet 2 (Epicalotermes) and the soldier to couplet 17 (Allotermes). The soldier mandibles are somewhat similar to the slender, nearly toothless mandibles of Allotermes (especially A. denticulatus), but in this genus the mandibles curve downwards in lateral view, which is unique among kalotermitids with forward-projecting mandibles; although the wing venation and dentition of the alate are very close to those of Epicalotermes, the soldier shares no major character with it."
+  },
+  {
+   "label": "Alate",
+   "text": "Head and pronotum pale brownish orange, abdominal tergites paler, concolorous with the legs and labrum; postclypeus nearly transparent. Compound eyes medium-sized and prominent, oval, truncate near the antennal sockets, composed of about 85 ommatidia; ocelli neither pigmented nor with a cuticular projection, completely invisible. Antennae with more than 9 segments, segment formula 1>2=3=4<5 (species-level records 14–17 segments). Pronotum about 2 times as wide as its median length, lateral margins with several long setae and shorter setae. Forewing M and Cu stalked beyond the scale suture, the radial sector (Rs) with 5–6 anterior branches, the subcosta (Sc) closely appressed to the costa and difficult to distinguish; hindwing Rs and Cu stalked behind the suture. Tibial spur formula 3:3:3, tarsi without an arolium. Anterior margin of the marginal tooth of the left mandible about 1.5 times the combined length of its posterior margin and the posterior margin of the second marginal tooth; posterior margin of the second marginal tooth of the right mandible 1.4 times the length of the molar plate."
+  },
+  {
+   "label": "Soldier",
+   "text": "Monotypic. Eye spots distinct, large and dark brown. Frons in dorsal view bilobed, covered with wrinkled longitudinal ridges, the wrinkles below the frons arranged longitudinally; the ends of the genae with small horn-like processes. Mandibles slender and rod-like, curving downwards in lateral view; dentition extremely weak, the basal swelling sharply projecting forwards."
+  }
+ ]
+}

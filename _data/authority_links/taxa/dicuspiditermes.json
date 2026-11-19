@@ -1,0 +1,463 @@
+{
+ "Dicuspiditermes achankovili": {
+  "gbif": {
+   "key": 9765965,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes achankovili Verma, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VVR",
+   "status": "accepted",
+   "label": "Dicuspiditermes achankovili Verma, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250550",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes boseae": {
+  "gbif": {
+   "key": 9788846,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes boseae Chhotani, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VVS",
+   "status": "accepted",
+   "label": "Dicuspiditermes boseae Chhotani, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250551",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes cacuminatus": {
+  "gbif": {
+   "key": 9674663,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes cacuminatus Krishna, 2001",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VVT",
+   "status": "accepted",
+   "label": "Dicuspiditermes cacuminatus Krishna, 2001",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250552",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes cornutella": {
+  "gbif": {
+   "key": 9746328,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes cornutella (Silvestri, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6CT7P",
+   "status": "accepted",
+   "label": "Dicuspiditermes cornutella (Silvestri, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250554",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes fissifex": {
+  "gbif": {
+   "key": 9655943,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes fissifex Krishna, 2001",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VVV",
+   "status": "accepted",
+   "label": "Dicuspiditermes fissifex Krishna, 2001",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250555",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes fontanellus": {
+  "gbif": {
+   "key": 9646148,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes fontanellus Chatterjee & Thakur, 1971",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VVW",
+   "status": "accepted",
+   "label": "Dicuspiditermes fontanellus Thakur & Chatterjee, 1971",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250556",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes gravelyi": {
+  "gbif": {
+   "key": 9702886,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes gravelyi (Silvestri, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VVX",
+   "status": "accepted",
+   "label": "Dicuspiditermes gravelyi (Silvestri, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250557",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes hutsoni": {
+  "gbif": {
+   "key": 9818629,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes hutsoni (Kemner, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VVY",
+   "status": "accepted",
+   "label": "Dicuspiditermes hutsoni (Kemner, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30687034",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes incola": {
+  "gbif": {
+   "key": 9667503,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes incola (Wasmann, 1893)",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VVZ",
+   "status": "accepted",
+   "label": "Dicuspiditermes incola (Wasmann, 1893)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30326305",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes kistneri": {
+  "gbif": {
+   "key": 9736956,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes kistneri Krishna, 2001",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VW2",
+   "status": "accepted",
+   "label": "Dicuspiditermes kistneri Krishna, 2001",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250558",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes laetus": {
+  "gbif": {
+   "key": 9785987,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes laetus (Silvestri, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VW3",
+   "status": "accepted",
+   "label": "Dicuspiditermes laetus (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250559",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes leghugathrae": {
+  "gbif": {
+   "key": 12203108,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes leghugathrae Amina & Rajmohana, 2020",
+   "accepted": null
+  },
+  "col": {
+   "id": "9X6TT",
+   "status": "accepted",
+   "label": "Dicuspiditermes leghugathrae Amina & Rajmohana, 2020",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes makhamensis": {
+  "gbif": {
+   "key": 9714716,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes makhamensis Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VW4",
+   "status": "accepted",
+   "label": "Dicuspiditermes makhamensis Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250560",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes minutus": {
+  "gbif": {
+   "key": 9653301,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes minutus Riaz & Akhtar, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VW5",
+   "status": "accepted",
+   "label": "Dicuspiditermes minutus Akhtar & Riaz, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250561",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes nemorosus": {
+  "gbif": {
+   "key": 9695508,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes nemorosus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VW6",
+   "status": "accepted",
+   "label": "Dicuspiditermes nemorosus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30326306",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes obtusus": {
+  "gbif": {
+   "key": 9778344,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes obtusus (Silvestri, 1923)",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VW7",
+   "status": "accepted",
+   "label": "Dicuspiditermes obtusus (Silvestri, 1923)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250562",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes punjabensis": {
+  "gbif": {
+   "key": 9749128,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes punjabensis (Holmgren & Holmgren, 1917)",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VW8",
+   "status": "accepted",
+   "label": "Dicuspiditermes punjabensis (Holmgren & Holmgren, 1917)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250563",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes rothi": {
+  "gbif": {
+   "key": 9734236,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes rothi (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VW9",
+   "status": "accepted",
+   "label": "Dicuspiditermes rothi (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250565",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes santschii": {
+  "gbif": {
+   "key": 9664815,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes santschii (Silvestri, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6D4VP",
+   "status": "accepted",
+   "label": "Dicuspiditermes santschii (Silvestri, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250567",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes sisiri": {
+  "gbif": {
+   "key": 9705599,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes sisiri Chhotani, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VWB",
+   "status": "accepted",
+   "label": "Dicuspiditermes sisiri Chhotani, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250568",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dicuspiditermes spinitibialis": {
+  "gbif": {
+   "key": 9683679,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dicuspiditermes spinitibialis Krishna, 2001",
+   "accepted": null
+  },
+  "col": {
+   "id": "35VWC",
+   "status": "accepted",
+   "label": "Dicuspiditermes spinitibialis Krishna, 2001",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250569",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

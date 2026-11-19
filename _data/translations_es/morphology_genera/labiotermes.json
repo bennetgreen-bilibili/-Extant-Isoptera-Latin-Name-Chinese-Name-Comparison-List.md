@@ -1,0 +1,21 @@
+{
+ "note": "Descripción basada en el original de Holmgren 1912 (imágenes de página del ítem biostor-184513 de archive.org, p. 50). El original lo estableció como subgénero de Cornitermes (Untergattung Labiotermes n. subg.); los caracteres del género son los del subgénero, que además se subdivide en dos grupos (Sektion 1/2); el texto no ofrece un diagnóstico genérico independiente, por lo que el apartado «Caracteres diagnósticos» se basa en los caracteres del subgénero y en las diferencias entre los dos grupos.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Holmgren 1912 estableció Labiotermes como nuevo subgénero dentro del género Cornitermes. En el alado los ojos compuestos son grandes, los ocelos grandes y muy próximos a los ojos compuestos, las antenas de 17 segmentos y el primer diente mandibular mayor que el segundo; en el soldado el tubo frontal es relativamente corto, el labro largo, con el ápice transparente y de límite neto, las antenas de 13–15 segmentos y la mandíbula izquierda con 2 dientes medios como máximo; en el obrero las antenas de 14–15 (16) segmentos y el primer diente mandibular más largo que el segundo. El original distingue además dos grupos: uno con soldados de antenas de 15 segmentos, mandíbula izquierda con 2 dientes medios y diente basal de la mandíbula derecha separado del diente medio; otro con alados desconocidos, soldados de antenas de 13 segmentos, mandíbula izquierda sin dientes medios y diente basal de la mandíbula derecha fusionado con el diente medio."
+  },
+  {
+   "label": "Alado",
+   "text": "Ojos compuestos grandes; ocelos grandes, muy próximos a los ojos compuestos. Antenas de 17 segmentos. Primer diente mandibular mayor que el segundo."
+  },
+  {
+   "label": "Soldado",
+   "text": "Tubo frontal relativamente corto. Labro largo, con ápice transparente de límite neto. Mandíbulas robustas; mandíbula izquierda con 2 dientes medios como máximo. Antenas de 13–15 segmentos."
+  },
+  {
+   "label": "Obrero",
+   "text": "Antenas de 14–15 (16) segmentos. Primer diente mandibular más largo que el segundo. El original solo proporciona estos dos caracteres diagnósticos para el obrero de este subgénero y no describe por separado los restantes (quedan dentro del ámbito de los caracteres del género Cornitermes)."
+  }
+ ]
+}

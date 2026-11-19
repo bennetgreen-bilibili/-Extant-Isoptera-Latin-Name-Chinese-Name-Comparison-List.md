@@ -1,0 +1,17 @@
+{
+ "note": "Only the publisher's JATS full-text XML of this paper (Europe PMC PMC3264403) is available on this machine, with no print PDF, so section names are used as locators; the author order in the jsonl is the reverse of that in the XML, and the XML is followed here. The character “wings without a media and a radius” is cited in the original from Krishna (1970) and is not a new observation of that paper, so the chain of provenance has been retained as it stands.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Alates densely hairy, the posterior part of the head larger than the anterior, the fontanelle extremely narrow and situated at the middle of the head, compound eyes small, antennae 10–15-segmented, pronotum very small, about half the width of the head, wings lacking a media and a radius; soldiers densely hairy, the head characteristically heart-shaped and dorsoventrally flattened, antennae 13–15-segmented, labrum nearly triangular, mandibles elongate and without marginal teeth, pronotum half the width of the head."
+  },
+  {
+   "label": "Alate",
+   "text": "Body densely hairy throughout; posterior part of the head larger than the anterior; fontanelle extremely narrow, situated at the middle of the head; compound eyes small; antennae 10–15-segmented; pronotum very small, about half the width of the head; wings without a media and a radius. Species level (T. planus): body very small, covered with small hairs; head narrow in front and wide behind, heart-shaped; compound eyes large; ocelli situated in front of the compound eyes; antennae usually 9–15-segmented; pronotum about half the width of the head, with a small projection in the middle of the anterior margin."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body densely hairy throughout; head characteristically heart-shaped, dorsoventrally flattened; antennae usually 13–15-segmented; labrum nearly triangular; mandibles elongate, without marginal teeth; pronotum half the width of the head. Species level (T. planus): labrum elongate with a pointed apex, narrow at the base, widest in the apical 1/3; antennae 11–15-segmented; pronotum half the width of the head, projecting forward in the middle of the anterior margin; mandibles short, without marginal teeth, slightly curved apically."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Medidas a nivel de género: anchura cefálica del obrero 0.69–1.1 mm. Sin sección de soldado (soldierless). No fue posible verificar el número de página del tratamiento genérico a partir del registro de Zenodo (el registro solo proporciona el texto completo en isPartOf y el orden de autores), por lo que el localizador solo indica el tratamiento genérico y el año del autor.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Muy similar a Grigiotermes, pero se distingue con claridad por la forma de la armadura de la válvula entérica del obrero; además, aunque el P1 del obrero está dilatado, lo está en menor grado que en Grigiotermes. El mismo conjunto de caracteres morfológicos (tegumento, mandíbulas, tubo digestivo y válvula entérica) permite también separar este género de los demás géneros sudamericanos de termitas sin soldados."
+  },
+  {
+   "label": "Alado",
+   "text": "Las partes esclerotizadas son de color pardo oscuro y están densamente cubiertas por varios miles de setas diminutas. La cápsula cefálica presenta unas 100 setas largas y dispersas. Los ojos compuestos y los ocelos son grandes. La fontanela es pequeña a mediana y se sitúa a la altura del margen anterior del ojo compuesto. El pronoto es alargado y lleva varias decenas de setas largas. El margen posterior del mesonoto y del metanoto es ligeramente cóncavo, con ángulos muy redondeados."
+  },
+  {
+   "label": "Obrero",
+   "text": "De tamaño mediano a grande, con anchura cefálica de 0.69–1.1 mm (medidas a nivel de género). La cápsula cefálica es amarilla clara, redondeada, con setas diminutas dispersas y unas 100 setas largas; la fontanela es pequeña y casi imperceptible; la morfología de las mandíbulas y de la tibia anterior se muestra en las figuras 5C y 5D del original. La válvula entérica se inserta en una prolongación tubular del buche; la armadura está bien desarrollada y consta de 6 almohadillas circulares espinosas; la parte anterior de la válvula entérica está formada por 6 cojines ovales, cada uno constituido por unas 50–80 escamas, con un fleco de espinas en el margen posterior. La unión entre el mesenterón y el proctodeo forma un glóbulo pequeño, recubierto por el proctodeo, que se alarga ligeramente en un segmento mixto corto y manifiesto; el P1 del intestino posterior es ancho."
+  }
+ ]
+}

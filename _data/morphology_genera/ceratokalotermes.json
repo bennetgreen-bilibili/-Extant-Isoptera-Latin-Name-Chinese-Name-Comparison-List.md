@@ -1,0 +1,24 @@
+{
+ "zh_name": "角木白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫最接近 Paraneotermes 与 Comatermes；与 Comatermes 的区别是头和前胸背板无长而波状的毛；Paraneotermes 左上颚第一、二缘齿后缘具明显折角，且爪间突缺；这两种的兵蚁上颚短而强，额背突很弱或缺，前胸背板前缘不深凹。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "深褐色；眼小，径约 0.25 mm，单眼接触复眼；触角 13–14 节；左上颚第一、二缘齿后缘与第三缘齿前缘等长；右上颚臼板与第二缘齿后缘近等长；前胸背板宽于头，前缘凹；前翅径脉通常分枝，径分脉 7–8 支，第一支距翅缝约翅长 1/6；中脉骨化较弱，较近径分脉；爪间突存在。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头略呈额盾状，窄，两侧平行；触角脊大而明显突出；额凹，向唇基陡斜；前背面具两个大隆起或叶，叶间呈均匀弧；眼无色；触角 11–14 节，第三节不特化，与第二节近等长；上颚长而细；前胸背板与头等宽，横拱，前缘隆起、深角状凹，中央具缺刻；足短粗。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0021",
+   "citation": "Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.",
+   "locator": "pp. 338–341"
+  }
+ ]
+}

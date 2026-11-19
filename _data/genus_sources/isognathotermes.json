@@ -1,0 +1,15 @@
+{
+ "latin": "Isognathotermes",
+ "zh": "等颚白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Isognathotermes Sjöstedt, 1926d: 216 [junior subjective synonym of Cubitermes Wasmann, 1906].",
+ "type_species": "Eutermes (Cubitermes) minitabundus Sjöstedt, 1913 by original designation.",
+ "references": [
+  {
+   "ref": "Webb, 1961: 13",
+   "note": "Isognathotermes; key."
+  }
+ ],
+ "nrefs": 3
+}

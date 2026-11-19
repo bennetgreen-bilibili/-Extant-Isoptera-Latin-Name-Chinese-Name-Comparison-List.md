@@ -1,0 +1,43 @@
+{
+ "book_n": "352",
+ "book_name": "云南瘤白蚁 Mirocapritermes hsuchiafui",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "云南瘤白蚊5个兵蚁量度 ( mns)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_width",
+     "mean": "0.94",
+     "value": "0.93–0.96"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "0.60",
+     "value": "0.56–0.62"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.25",
+     "value": "0.25"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.63",
+     "value": "0.62–0.65"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.74",
+     "value": "0.74"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 511,
+   "unit": "mm"
+  }
+ ]
+}

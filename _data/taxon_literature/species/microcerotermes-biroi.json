@@ -1,0 +1,56 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "先锋入侵与补充繁殖蚁",
+   "heading_en": "Pioneer invasion and supplementary reproductives",
+   "heading_es": "Invasión pionera y reproductores suplementarios",
+   "paragraphs": [
+    {
+     "src": [
+      "S0315"
+     ],
+     "text": "根据 Leponce 等（1996）研究，新几内亚北部椰子种植园的树栖白蚁群落中，比罗锯白蚁（<i>Microcerotermes biroi</i>）数量最多，尽管两个竞争种第一象白蚁（<i>Nasutitermes princeps</i>）与新赫布里底象白蚁（<i>Nasutitermes novarumhebridarum</i>）的打斗能力更强（据摘要）。",
+     "text_en": "According to Leponce et al. (1996), in the arboreal termite assemblage of coconut plantations in northern New Guinea, <i>Microcerotermes biroi</i> was the most numerous species, even though two competing species, <i>Nasutitermes princeps</i> and <i>Nasutitermes novarumhebridarum</i>, have greater fighting ability (according to the abstract).",
+     "text_es": "Según Leponce et al. (1996), en el conjunto de termitas arbóreas de las plantaciones de coco del norte de Nueva Guinea, <i>Microcerotermes biroi</i> fue la especie más numerosa, aunque dos especies competidoras, <i>Nasutitermes princeps</i> y <i>Nasutitermes novarumhebridarum</i>, tienen mayor capacidad de combate (según el resumen)."
+    },
+    {
+     "src": [
+      "S0315"
+     ],
+     "text": "实验证明该种巢群在繁殖蚁被移除后能补充繁殖蚁，与主巢隔离时能在卫星巢中产生繁殖蚁；补充生殖蚁始终为幼态型，由若虫或工蚁发育而来，尽管幼态型能在本巢内分化，野外仍有 84% 的巢群由脱翅成虫为首（据摘要）。",
+     "text_en": "Experiments showed that colonies of this species replace their reproductives after these are removed, and that reproductives can be produced in satellite nests when a colony is isolated from the main nest; replacement reproductives are always neotenic and develop from nymphs or workers, and although neotenics can differentiate within the natal nest, 84% of field colonies are still headed by dealate adults (according to the abstract).",
+     "text_es": "Los experimentos demostraron que las colonias de esta especie reponen los reproductivos tras su eliminación y que pueden producir reproductivos en nidos satélite cuando se las aísla del nido principal; los reproductivos de reemplazo son siempre neoténicos y se desarrollan a partir de ninfas u obreras y, aunque los neoténicos pueden diferenciarse dentro del nido natal, el 84 % de las colonias en el campo sigue encabezada por adultos desalados (según el resumen)."
+    },
+    {
+     "src": [
+      "S0315"
+     ],
+     "text": "对一片幼龄种植园建园后前 3.5 年的监测显示，比罗锯白蚁入侵并占据 63% 的树木，而两种象白蚁均未出现；作者认为该种实为先锋种，可借婚飞侵入新生境（据摘要）。",
+     "text_en": "Monitoring of a young plantation during the first 3.5 years after establishment showed that <i>Microcerotermes biroi</i> invaded and occupied 63% of the trees, whereas neither of the two <i>Nasutitermes</i> species appeared; the authors consider the species a true pioneer that can invade new habitats by swarming (according to the abstract).",
+     "text_es": "El seguimiento de una plantación joven durante los primeros 3,5 años tras su establecimiento mostró que <i>Microcerotermes biroi</i> invadió y ocupó el 63 % de los árboles, mientras que ninguna de las dos especies de <i>Nasutitermes</i> apareció; los autores consideran que la especie es realmente pionera y que puede invadir nuevos hábitats mediante el vuelo nupcial (según el resumen)."
+    },
+    {
+     "src": [
+      "S0305"
+     ],
+     "text": "根据 Roisin 与 Pasteels（2000）研究，新几内亚的锯白蚁属（<i>Microcerotermes</i>）分类修订确认了比罗锯白蚁（<i>Microcerotermes biroi</i>）、巴布亚锯白蚁（<i>Microcerotermes papuanus</i>）与抵抗锯白蚁（<i>Microcerotermes repugnans</i>）在该地区的存在与分类地位，把原作为比罗锯白蚁亚种或异名的狭小锯白蚁（<i>Microcerotermes brevior</i>）提升为独立种，并恢复毛头锯白蚁（<i>Microcerotermes piliceps</i>）为有效种（据摘要）。",
+     "text_en": "According to Roisin and Pasteels (2000), a taxonomic revision of <i>Microcerotermes</i> in New Guinea confirmed the presence and taxonomic status of <i>Microcerotermes biroi</i>, <i>Microcerotermes papuanus</i> and <i>Microcerotermes repugnans</i> in the region, raised <i>Microcerotermes brevior</i>, previously a subspecies or synonym of <i>Microcerotermes biroi</i>, to species rank, and restored <i>Microcerotermes piliceps</i> as a valid species (according to the abstract).",
+     "text_es": "Según Roisin y Pasteels (2000), una revisión taxonómica de <i>Microcerotermes</i> en Nueva Guinea confirmó la presencia y la posición taxonómica de <i>Microcerotermes biroi</i>, <i>Microcerotermes papuanus</i> y <i>Microcerotermes repugnans</i> en la región, elevó <i>Microcerotermes brevior</i>, antes subespecie o sinónimo de <i>Microcerotermes biroi</i>, al rango de especie y restableció <i>Microcerotermes piliceps</i> como especie válida (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0305",
+   "citation": "Roisin, Y.; Jacques M. Pasteéls. 2000. The genus Microcerotermes (Isoptera : Termitidae) in New Guinea and the Solomon Islands. Invertebrate Taxonomy.",
+   "doi": "10.1071/it99005"
+  },
+  {
+   "id": "S0315",
+   "citation": "Leponce, M.; Roisin, Y.; Jacques M. Pasteéls. 1996. Reproductive mechanisms and dynamics of habitat colonization in Microcerotermes biroi (Isoptera: Termitidae). Ecological Entomology.",
+   "doi": "10.1111/j.1365-2311.1996.tb01185.x"
+  }
+ ]
+}

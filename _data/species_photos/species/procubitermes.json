@@ -1,0 +1,26 @@
+{
+ "Procubitermes sjostedti": [
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/642393053/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/642393053/medium.jpg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) Philippe Hornus, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/351981297"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/642393430/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/642393430/medium.jpg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) Philippe Hornus, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/351981297"
+  }
+ ]
+}

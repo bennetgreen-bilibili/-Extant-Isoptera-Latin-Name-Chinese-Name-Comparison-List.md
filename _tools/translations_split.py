@@ -24,6 +24,9 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "_data")
+sys.path.insert(0, os.path.join(ROOT, "_tools"))
+
+import shard_io  # noqa: E402
 TR = os.path.join(ROOT, "_tmp", "tr")
 LANGS = ("en", "es")
 
@@ -92,10 +95,22 @@ def extract(url, entry):
     return out
 
 
+def source_path(name):
+    """`_data/<name>/` shards when they exist, else the legacy single file."""
+    if shard_io.exists(name):
+        return os.path.join(DATA, name) + os.sep
+    return os.path.join(DATA, name + ".json")
+
+
+def load_source(name):
+    if shard_io.exists(name):
+        return shard_io.load(name)
+    with open(source_path(name), encoding="utf-8") as fh:
+        return json.load(fh)
+
+
 def split_file(name, max_chars, reset):
-    src_path = os.path.join(DATA, name + ".json")
-    with open(src_path, encoding="utf-8") as fh:
-        src = json.load(fh)
+    src = load_source(name)
 
     for lang in LANGS:
         d = os.path.join(TR, lang)
@@ -118,7 +133,7 @@ def split_file(name, max_chars, reset):
     if cur:
         shards.append((cur, cur_chars))
 
-    manifest = {"name": name, "max_chars": max_chars, "source": src_path,
+    manifest = {"name": name, "max_chars": max_chars, "source": source_path(name),
                 "total_chars": count_chars({u: extract(u, e) for u, e in src.items()}),
                 "n_keys": len(src), "shards": []}
     for i, (data, chars) in enumerate(shards):
@@ -151,8 +166,8 @@ def main():
     if not names:
         ap.error("give --file or --files")
     for name in names:
-        if not os.path.exists(os.path.join(DATA, name + ".json")):
-            raise SystemExit("no such data file: %s" % name)
+        if not (shard_io.exists(name) or os.path.isfile(os.path.join(DATA, name + ".json"))):
+            raise SystemExit("no such data source: %s" % name)
         split_file(name, args.max_chars, args.reset)
 
 

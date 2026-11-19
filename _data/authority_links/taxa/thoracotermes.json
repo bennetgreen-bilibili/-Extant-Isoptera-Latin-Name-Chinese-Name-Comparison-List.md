@@ -1,0 +1,90 @@
+{
+ "Thoracotermes brevinotus": {
+  "gbif": {
+   "key": 9094395,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Thoracotermes brevinotus Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "56KHQ",
+   "status": "accepted",
+   "label": "Thoracotermes brevinotus Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073733",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Thoracotermes grevillensis": {
+  "gbif": {
+   "key": 9680210,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Thoracotermes grevillensis Weidner, 1974",
+   "accepted": null
+  },
+  "col": {
+   "id": "56KHR",
+   "status": "accepted",
+   "label": "Thoracotermes grevillensis Weidner, 1974",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073732",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Thoracotermes lusingensis": {
+  "gbif": {
+   "key": 9792423,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Thoracotermes lusingensis Harris, 1958",
+   "accepted": null
+  },
+  "col": {
+   "id": "56KHS",
+   "status": "accepted",
+   "label": "Thoracotermes lusingensis Harris, 1958",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073731",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Thoracotermes macrothorax": {
+  "gbif": {
+   "key": 8724259,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Thoracotermes macrothorax (Sjöstedt, 1899)",
+   "accepted": null
+  },
+  "col": {
+   "id": "56KHT",
+   "status": "accepted",
+   "label": "Thoracotermes macrothorax (Sjöstedt, 1899)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073730",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

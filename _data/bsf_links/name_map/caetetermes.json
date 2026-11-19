@@ -1,0 +1,24 @@
+{
+ "Caetetermes fontesi": {
+  "label": "Caetetermes fontesi Scheffrahn, 2022",
+  "match": "exact",
+  "notes": "",
+  "otu": 1022737,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1022737/overview",
+  "valid_label": null,
+  "valid_otu": 1022737,
+  "verified": false
+ },
+ "Caetetermes taquarussu": {
+  "label": "Caetetermes taquarussu Fontes, 1981",
+  "match": "exact",
+  "notes": "",
+  "otu": 84373,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84373/overview",
+  "valid_label": null,
+  "valid_otu": 84373,
+  "verified": false
+ }
+}

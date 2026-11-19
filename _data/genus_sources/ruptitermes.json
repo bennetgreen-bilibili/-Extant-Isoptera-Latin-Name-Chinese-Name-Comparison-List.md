@@ -1,0 +1,27 @@
+{
+ "latin": "Ruptitermes",
+ "zh": "腹爆白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Ruptitermes Mathews, 1977: 98–100.",
+ "type_species": "Ruptitermes xanthochiton Mathews, 1977 by original designation.",
+ "references": [
+  {
+   "ref": "Fontes, 1985a: 3, 4",
+   "note": "Ruptitermes; key; worker gut described."
+  },
+  {
+   "ref": "Fontes, 1992: 245, 248",
+   "note": "Ruptitermes; key; distribution."
+  },
+  {
+   "ref": "Constantino, 1999a: 398, 412",
+   "note": "Ruptitermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 26",
+   "note": "Ruptitermes; key."
+  }
+ ],
+ "nrefs": 15
+}

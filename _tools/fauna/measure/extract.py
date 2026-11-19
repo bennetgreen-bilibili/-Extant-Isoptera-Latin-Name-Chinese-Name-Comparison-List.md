@@ -1,13 +1,15 @@
 # -*- coding: utf-8 -*-
-"""从《中国动物志》等翅目卷提取量度表 → _data/fauna_measurements.json。
+"""从《中国动物志》等翅目卷提取量度表 → _data/fauna_measurements/ 分片。
 
-条目按「书名号 N + 中文名」与 _data/fauna_species.json 的 book_n/book_name 对齐，
+条目按「书名号 N + 中文名」与 _data/fauna_species/ 分片的 book_n/book_name 对齐，
 再在条目范围内取「量度」表。严格 QC：项目名须映射到术语表，数值须为有序区间/整数。
 不合格表与原因写 _tmp/_measure_qc.txt。
 """
-import io, os, re, json, collections
+import io, os, re, json, collections, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+sys.path.insert(0, os.path.join(ROOT, "_tools"))
+import shard_io  # noqa: E402
 LIB = os.path.join(ROOT, "_unpublished", "文库", "中国动物志-昆虫纲-第十七卷-等翅目")
 
 NUM_ENTRY = re.compile(r"^\s*(\d{1,3})\s*[.、]\s*(.+)$")
@@ -193,7 +195,7 @@ def find_entries(files, book_map):
 
 
 def main():
-    fauna = json.load(io.open(os.path.join(ROOT, "_data", "fauna_species.json"), encoding="utf-8"))
+    fauna = shard_io.load("fauna_species")
     book_map = {}
     url_by_n = {}
     for url, rec in fauna.items():
@@ -275,14 +277,25 @@ def main():
                       "tables": tables}
     io.open(os.path.join(ROOT, "_data", "fauna_measure_terms.json"), "w", encoding="utf-8", newline="\n").write(
         json.dumps(terms, ensure_ascii=False, indent=1, sort_keys=True))
-    io.open(os.path.join(ROOT, "_data", "fauna_measurements.json"), "w", encoding="utf-8", newline="\n").write(
-        json.dumps(out_m, ensure_ascii=False, indent=1, sort_keys=True))
+    # sorted keys, recursively: the pre-split aggregate was dumped with
+    # sort_keys=True, so sorted order keeps a no-op run from rewriting every shard
+    out_m = {url: _sorted_deep(rec) for url, rec in sorted(out_m.items())}
+    written, removed = shard_io.save("fauna_measurements", out_m)
     rep = ["ok_tables=%d ok_rows=%d urls=%d entries_hit=%d" % (qc["ok_tables"], qc["ok_rows"], len(out_m), len(hits))]
     rep += ["%s\t%d" % (k, v) for k, v in sorted(qc.items()) if k.startswith("skip_")]
     rep += ["", "UNKNOWN ITEMS"] + ["%s\t%d" % (k, v) for k, v in unknown_items.most_common(60)]
     rep += ["", "SKIPPED"] + skipped[:250]
     io.open(os.path.join(ROOT, "_tmp", "_measure_qc.txt"), "w", encoding="utf-8").write("\n".join(rep))
-    print("ok", qc["ok_tables"], "urls", len(out_m), "hits", len(hits))
+    print("ok", qc["ok_tables"], "urls", len(out_m), "shard files", written, "removed", removed,
+          "hits", len(hits))
+
+
+def _sorted_deep(value):
+    if isinstance(value, dict):
+        return {k: _sorted_deep(value[k]) for k in sorted(value)}
+    if isinstance(value, list):
+        return [_sorted_deep(v) for v in value]
+    return value
 
 
 def build_table(heading, block, url, unknown_items, fn="", line=0):

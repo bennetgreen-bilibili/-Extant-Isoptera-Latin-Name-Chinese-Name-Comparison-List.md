@@ -1,0 +1,43 @@
+{
+ "latin": "Dentispicotermes",
+ "zh": "齿尖白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Dentispicotermes Emerson, 1949j: 177, 374, 375.",
+ "type_species": "Capritermes globicephalus Silvestri, 1901 by original designation.",
+ "references": [
+  {
+   "ref": "Araujo, 1969: 249–251",
+   "note": "Dentispicotermes; key; synonymy; characters; comparisons."
+  },
+  {
+   "ref": "Morimoto, 1975b: 37",
+   "note": "Dentispicotermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 128",
+   "note": "Dentispicotermes; synonymy; characters; relationships."
+  },
+  {
+   "ref": "Mill, 1983a: 182, 185",
+   "note": "Dentispicotermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Constantino, 1999a: 406, 417",
+   "note": "Dentispicotermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 22",
+   "note": "Dentispicotermes; key. Spicotermes Emerson, 1950: 6–10 [junior subjective synonym of Dentispicotermes Emerson, 1949; synonymized by Mathews, 1977]. Type species: Spicotermes brevicarinatus Emerson, 1950 by monotypy."
+  },
+  {
+   "ref": "Araujo, 1969: 249, 250",
+   "note": "Spicotermes; key; comparisons."
+  },
+  {
+   "ref": "Morimoto, 1975b: 38",
+   "note": "Spicotermes; key."
+  }
+ ],
+ "nrefs": 20
+}

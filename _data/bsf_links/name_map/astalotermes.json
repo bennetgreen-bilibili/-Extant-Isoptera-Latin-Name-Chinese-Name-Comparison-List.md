@@ -1,0 +1,189 @@
+{
+ "Astalotermes acholus": {
+  "label": "Astalotermes acholus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84020,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84020/overview",
+  "valid_label": null,
+  "valid_otu": 84020,
+  "verified": false
+ },
+ "Astalotermes aganus": {
+  "label": "Astalotermes aganus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84021,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84021/overview",
+  "valid_label": null,
+  "valid_otu": 84021,
+  "verified": false
+ },
+ "Astalotermes amicus": {
+  "label": "Astalotermes amicus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84022,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84022/overview",
+  "valid_label": null,
+  "valid_otu": 84022,
+  "verified": false
+ },
+ "Astalotermes benignus": {
+  "label": "Astalotermes benignus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84023,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84023/overview",
+  "valid_label": null,
+  "valid_otu": 84023,
+  "verified": false
+ },
+ "Astalotermes brevior": {
+  "label": "Astalotermes brevior (Holmgren, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84024,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84024/overview",
+  "valid_label": null,
+  "valid_otu": 84024,
+  "verified": false
+ },
+ "Astalotermes comis": {
+  "label": "Astalotermes comis Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84025,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84025/overview",
+  "valid_label": null,
+  "valid_otu": 84025,
+  "verified": false
+ },
+ "Astalotermes concilians": {
+  "label": "Astalotermes concilians (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84026,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84026/overview",
+  "valid_label": null,
+  "valid_otu": 84026,
+  "verified": false
+ },
+ "Astalotermes empodius": {
+  "label": "Astalotermes empodius Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84027,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84027/overview",
+  "valid_label": null,
+  "valid_otu": 84027,
+  "verified": false
+ },
+ "Astalotermes eumenus": {
+  "label": "Astalotermes eumenus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84028,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84028/overview",
+  "valid_label": null,
+  "valid_otu": 84028,
+  "verified": false
+ },
+ "Astalotermes hapalus": {
+  "label": "Astalotermes hapalus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84029,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84029/overview",
+  "valid_label": null,
+  "valid_otu": 84029,
+  "verified": false
+ },
+ "Astalotermes ignavus": {
+  "label": "Astalotermes ignavus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84030,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84030/overview",
+  "valid_label": null,
+  "valid_otu": 84030,
+  "verified": false
+ },
+ "Astalotermes impedians": {
+  "label": "Astalotermes impedians Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84031,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84031/overview",
+  "valid_label": null,
+  "valid_otu": 84031,
+  "verified": false
+ },
+ "Astalotermes irrixosus": {
+  "label": "Astalotermes irrixosus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84032,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84032/overview",
+  "valid_label": null,
+  "valid_otu": 84032,
+  "verified": false
+ },
+ "Astalotermes mitis": {
+  "label": "Astalotermes mitis Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84033,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84033/overview",
+  "valid_label": null,
+  "valid_otu": 84033,
+  "verified": false
+ },
+ "Astalotermes murcus": {
+  "label": "Astalotermes murcus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84034,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84034/overview",
+  "valid_label": null,
+  "valid_otu": 84034,
+  "verified": false
+ },
+ "Astalotermes obstructus": {
+  "label": "Astalotermes obstructus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84035,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84035/overview",
+  "valid_label": null,
+  "valid_otu": 84035,
+  "verified": false
+ },
+ "Astalotermes quietus": {
+  "label": "Astalotermes quietus (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84036,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84036/overview",
+  "valid_label": null,
+  "valid_otu": 84036,
+  "verified": false
+ }
+}

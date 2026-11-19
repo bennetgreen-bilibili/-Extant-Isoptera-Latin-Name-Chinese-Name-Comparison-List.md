@@ -1,0 +1,35 @@
+{
+ "Diwaitermes castanopsis": {
+  "label": "Diwaitermes castanopsis Roisin & Pasteels, 1996",
+  "match": "exact",
+  "notes": "",
+  "otu": 84426,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84426/overview",
+  "valid_label": null,
+  "valid_otu": 84426,
+  "verified": false
+ },
+ "Diwaitermes foi": {
+  "label": "Diwaitermes foi Roisin & Pasteels, 1996",
+  "match": "exact",
+  "notes": "",
+  "otu": 84427,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84427/overview",
+  "valid_label": null,
+  "valid_otu": 84427,
+  "verified": false
+ },
+ "Diwaitermes kanehirai": {
+  "label": "Diwaitermes kanehirai (Oshima, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84428,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84428/overview",
+  "valid_label": null,
+  "valid_otu": 84428,
+  "verified": false
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "book_n": "273",
+ "book_name": "梨头土白蚁 Odontotermes pyriceps",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "梨头土白蚁有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length_with_wings",
+     "mean": "27.15",
+     "value": "26.86–27.41"
+    },
+    {
+     "key": "body_length_without_wings",
+     "mean": "13.32",
+     "value": "12.84–13.91"
+    },
+    {
+     "key": "forewing_scale_length",
+     "mean": "1.11",
+     "value": "1.03–1.16"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.84",
+     "value": "1.72–1.97"
+    },
+    {
+     "key": "eye_long_diameter",
+     "mean": "0.51",
+     "value": "0.48–0.55"
+    },
+    {
+     "key": "eye_short_diameter",
+     "mean": "0.44",
+     "value": "0.42–0.47"
+    },
+    {
+     "key": "ocellus_long_diameter",
+     "mean": "0.25",
+     "value": "0.25–0.26"
+    },
+    {
+     "key": "ocellus_short_diameter",
+     "mean": "0.20",
+     "value": "0.19–0.21"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "mean": "0.30",
+     "value": "0.28–0.33"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "1.25",
+     "value": "1.22–1.31"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "2.39",
+     "value": "2.34–2.41"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "2.61",
+     "value": "2.56–2.62"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 106,
+   "unit": "mm"
+  }
+ ]
+}

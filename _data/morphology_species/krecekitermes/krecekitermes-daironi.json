@@ -1,0 +1,25 @@
+{
+ "zh_name": "戴龙克雷切克白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "新热带 Apicotermitinae 中具破裂器官（dehiscent organs）的类群之一，与 Dissimulitermes、Ruptitermes 共有此结构。与 Dissimulitermes 的区别：肠瓣座（EVS）三叶状（后者管状），肠瓣武装仅由棘刺构成、无硬化板（后者具硬化板）。与 Ruptitermes 的区别：肠瓣有武装（后者肠瓣无武装，仅 R. bandeirai 为例外，且该种体型远大于本属、刺仅集中于 3 个瓣垫）。属级检索表给出的组合为「肠瓣座三叶、肠瓣武装垫上刺少于 13 枚」。破裂器官充满嗉囊前方的血腔；中肠与 P1 的交界清楚，但混合段短。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头壳背表面侧视凹陷；囟极显著；后唇基几乎不膨隆，其中缝清晰；触角 14 或 15 节（节式 2>3<4≈5<6）。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头壳背表面侧视微凹；触角色淡，13 或 14 节（2>3<4<5）；后唇基强烈膨隆。左内颚端齿与 M1+2 同等突出，M3 边缘构成钝角、末端截形并向后指，磨区隆起发达而突出，背视完全遮住磨叶突；右内颚端齿较 M1 突出，M1 发达，M2 端部圆而突出并向后指，M1 与 M2 之间成钝角。多数个体破裂器官显著。肠管混合段短，中肠舌处增厚；肠瓣武装为 6 个末端硬化、冠状并着生棘刺的瓣垫，位于瓣垫后部。"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。",
+ "sources": [
+  {
+   "id": "S0027",
+   "citation": "Carrijo T.F., Castro D., Wang M., Constantini J.P., Bourguignon T., Cancello E.M., Roisin Y. & Scheffrahn R.H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317–352. doi 10.3897/zookeys.1167.100001",
+   "locator": "章节 Krecekitermes gen. nov.（Diagnosis / Description）；文章 pp. 317–352"
+  }
+ ]
+}

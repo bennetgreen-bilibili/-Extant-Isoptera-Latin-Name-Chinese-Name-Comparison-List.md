@@ -1,0 +1,43 @@
+{
+ "book_n": "81",
+ "book_name": "圆头乳白蚊 Coptotermes",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "圆头乳白蚁脱翅成虫量度",
+   "label_en": "Dealate measurements",
+   "label_es": "Medidas de dealado",
+   "label_zh": "脱翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length_without_wings",
+     "mean": "8.44",
+     "value": "8.00–8.80"
+    },
+    {
+     "key": "eye_long_diameter",
+     "mean": "0.451",
+     "value": "0.439–0.488"
+    },
+    {
+     "key": "ocellus_length",
+     "mean": "0.215",
+     "value": "0.195–0.224"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.388",
+     "value": "1.342–1.420"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.52",
+     "value": "1.46–1.54"
+    }
+   ],
+   "src_file": "301-400.txt",
+   "src_line": 507,
+   "unit": "mm"
+  }
+ ]
+}

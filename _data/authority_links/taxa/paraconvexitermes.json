@@ -1,0 +1,68 @@
+{
+ "Paraconvexitermes acangapua": {
+  "gbif": {
+   "key": 9749487,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Paraconvexitermes acangapua Noirot & Cancello, 2003",
+   "accepted": null
+  },
+  "col": {
+   "id": "4CR66",
+   "status": "accepted",
+   "label": "Paraconvexitermes acangapua Cancello & Noirot, 2003",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130239636",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Paraconvexitermes junceus": {
+  "gbif": {
+   "key": 9667856,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Paraconvexitermes junceus (Emerson, 1949)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4CR67",
+   "status": "accepted",
+   "label": "Paraconvexitermes junceus (Emerson, 1949)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084818",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Paraconvexitermes nigricornis": {
+  "gbif": {
+   "key": 9565428,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Paraconvexitermes nigricornis (Holmgren, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4CR68",
+   "status": "accepted",
+   "label": "Paraconvexitermes nigricornis (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084819",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

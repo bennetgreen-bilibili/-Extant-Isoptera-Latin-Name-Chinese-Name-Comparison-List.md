@@ -1,0 +1,43 @@
+{
+ "latin": "Hodotermopsis",
+ "zh": "原白蚁属",
+ "family": "hodotermopsidae",
+ "treatise": true,
+ "citation": "Hodotermopsis Holmgren, 1911a: 38.",
+ "type_species": "Hodotermopsis sjostedti Holmgren, 1911 by monotypy.",
+ "references": [
+  {
+   "ref": "Holmgren, 1911a: 38",
+   "note": "Hodotermopsis; characters listed; key; systematic position; species included."
+  },
+  {
+   "ref": "Emerson, 1933b: 168, 179",
+   "note": "Hodotermopsis; synonymy; characters; key; comparison."
+  },
+  {
+   "ref": "Weidner, 1955f: 51, 69",
+   "note": "Hodotermopsis; key; number of species; distribution."
+  },
+  {
+   "ref": "Ahmad, 1958: 56",
+   "note": "Hodotermopsis; key."
+  },
+  {
+   "ref": "Tsai and Chen, 1964b: 56",
+   "note": "Hodotermopsis; characters."
+  },
+  {
+   "ref": "Morimoto, 1975b: 12",
+   "note": "Hodotermopsis; key."
+  },
+  {
+   "ref": "Huang and Li, 1999: 270",
+   "note": "Hodotermopsis; characters."
+  },
+  {
+   "ref": "Takematsu, 1999c: 40",
+   "note": "Hodotermopsis; key based on gut characters."
+  }
+ ],
+ "nrefs": 19
+}

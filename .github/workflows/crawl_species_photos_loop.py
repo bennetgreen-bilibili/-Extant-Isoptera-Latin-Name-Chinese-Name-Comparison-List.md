@@ -4,7 +4,7 @@
 
 Why a loop?
 -----------
-build_species_photos.py already checkpoints into _data/species_photos.json and is
+build_species_photos.py already checkpoints into _data/species_photos/ and is
 idempotent, so a full crawl can be spread over any number of bounded runs.  This
 wrapper simply calls it again and again:
 

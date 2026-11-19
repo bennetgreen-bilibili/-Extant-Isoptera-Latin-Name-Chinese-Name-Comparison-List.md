@@ -1,0 +1,21 @@
+{
+ "note": "El alado de O. monomorphus figura en el original como Imago. Unknown.; la sección de alado se basa solo en la comparación genérica de Cuezzo et al. (2017). Constantino & Acioli (2009) indican que las mandíbulas del soldado de este género son without points, lo que contradice los small points de Scheffrahn et al. (2025); el texto adopta la descripción original de estos últimos y deja constancia aquí de la discrepancia.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El soldado es monotípico, lo que da nombre al género. El soldado tiene menos de 13 segmentos antenales. La estructura del intestino posterior es única en Isoptera: P1 se une a P3 mediante un P2 muy largo y tubular, que gira unos 180°, con esclerotización débil en ambos extremos."
+  },
+  {
+   "label": "Soldado",
+   "text": "Monotípico, de talla pequeña; cápsula cefálica de color pardo rojizo, con el nasus más oscuro; en vista dorsal la cápsula es piriforme, constreñida en el tercio anterior, y en vista lateral sobresale por detrás de las fosas antenales; nasus anchamente cónico, recurvado hacia arriba unos 10°; antenas de 11 segmentos, con fórmula 2<3>4≤5; mandíbulas con pequeños dientes salientes. El número de setas del vértice varía entre especies: O. monomorphus presenta solo 6 setas largas, mientras que O. panamae y O. formosulus tienen numerosas setas largas y cortas dispersas."
+  },
+  {
+   "label": "Obrero",
+   "text": "Monotípico; antenas de 12 segmentos; el intestino medio y P1 son tubulares, el segmento mixto falta y P1 presenta una constricción algo oscura cerca de su parte media; el diente apical de la mandíbula izquierda es de igual longitud que el primer diente marginal, la placa molar tiene crestas; la parte esclerotizada de la válvula entérica es muy larga y tubular, con una cutícula lisa de cerca de 1 mm entre los dos anillos."
+  },
+  {
+   "label": "Alado",
+   "text": "El postclípeo es ligeramente arqueado en vista lateral, con el borde anterior recto y el posterior ligeramente convexo, como en Sandsitermes, Caetetermes, Caribitermes, Cortaritermes y Nasutitermes."
+  }
+ ]
+}

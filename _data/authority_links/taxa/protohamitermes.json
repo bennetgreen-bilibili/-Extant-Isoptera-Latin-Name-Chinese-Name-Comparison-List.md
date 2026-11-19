@@ -1,0 +1,24 @@
+{
+ "Protohamitermes globiceps": {
+  "gbif": {
+   "key": 9177053,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Protohamitermes globiceps Holmgren, 1912",
+   "accepted": null
+  },
+  "col": {
+   "id": "4N5G5",
+   "status": "accepted",
+   "label": "Protohamitermes globiceps Holmgren, 1912",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084250",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

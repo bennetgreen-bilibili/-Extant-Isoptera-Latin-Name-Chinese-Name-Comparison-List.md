@@ -1,0 +1,376 @@
+{
+ "Neocapritermes angusticeps": {
+  "gbif": {
+   "key": 9182023,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neocapritermes angusticeps (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73WFX",
+   "status": "accepted",
+   "label": "Neocapritermes angusticeps (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084755",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neocapritermes araguaia": {
+  "gbif": {
+   "key": 9629977,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neocapritermes araguaia Araujo & Krishna, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "73WG9",
+   "status": "accepted",
+   "label": "Neocapritermes araguaia Krishna & Araujo, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084756",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neocapritermes bodkini": {
+  "gbif": {
+   "key": 9691567,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neocapritermes bodkini (Silvestri, 1923)",
+   "accepted": null
+  },
+  "col": {
+   "id": "748FX",
+   "status": "accepted",
+   "label": "Neocapritermes bodkini (Silvestri, 1923)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084757",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neocapritermes braziliensis": {
+  "gbif": {
+   "key": 9218143,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neocapritermes braziliensis (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "748G9",
+   "status": "accepted",
+   "label": "Neocapritermes braziliensis (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084758",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neocapritermes centralis": {
+  "gbif": {
+   "key": 9703453,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neocapritermes centralis (Snyder, 1932)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RWFW",
+   "status": "accepted",
+   "label": "Neocapritermes centralis (Snyder, 1932)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084759",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neocapritermes guyana": {
+  "gbif": {
+   "key": 9524519,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neocapritermes guyana Araujo & Krishna, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RWG8",
+   "status": "accepted",
+   "label": "Neocapritermes guyana Krishna & Araujo, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084760",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neocapritermes longinotus": {
+  "gbif": {
+   "key": 9554506,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neocapritermes longinotus (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S8FW",
+   "status": "accepted",
+   "label": "Neocapritermes longinotus (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084761",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neocapritermes mirim": {
+  "gbif": {
+   "key": 9774200,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neocapritermes mirim Cancello & Bandeira, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S8G8",
+   "status": "accepted",
+   "label": "Neocapritermes mirim Bandeira & Cancello, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084762",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neocapritermes opacus": {
+  "gbif": {
+   "key": 8728678,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neocapritermes opacus (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73WFW",
+   "status": "accepted",
+   "label": "Neocapritermes opacus (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084763",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neocapritermes parvus": {
+  "gbif": {
+   "key": 9660957,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neocapritermes parvus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73WG8",
+   "status": "accepted",
+   "label": "Neocapritermes parvus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084764",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neocapritermes pumilis": {
+  "gbif": {
+   "key": 9361811,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neocapritermes pumilis Constantino, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "748FW",
+   "status": "accepted",
+   "label": "Neocapritermes pumilis Constantino, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084765",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neocapritermes talpa": {
+  "gbif": {
+   "key": 9405228,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neocapritermes talpa (Holmgren, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "748G8",
+   "status": "accepted",
+   "label": "Neocapritermes talpa (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084766",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neocapritermes talpoides": {
+  "gbif": {
+   "key": 9792938,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neocapritermes talpoides Araujo & Krishna, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RWFV",
+   "status": "accepted",
+   "label": "Neocapritermes talpoides Krishna & Araujo, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084767",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neocapritermes taracua": {
+  "gbif": {
+   "key": 9434398,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neocapritermes taracua Araujo & Krishna, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "46CB2",
+   "status": "accepted",
+   "label": "Neocapritermes taracua Krishna & Araujo, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q10336198",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neocapritermes unicornis": {
+  "gbif": {
+   "key": 9748524,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neocapritermes unicornis Constantino, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "46CB3",
+   "status": "accepted",
+   "label": "Neocapritermes unicornis Constantino, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084768",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neocapritermes utiariti": {
+  "gbif": {
+   "key": 8741470,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neocapritermes utiariti Araujo & Krishna, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "46CB4",
+   "status": "accepted",
+   "label": "Neocapritermes utiariti Krishna & Araujo, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084769",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neocapritermes villosus": {
+  "gbif": {
+   "key": 9087626,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neocapritermes villosus (Holmgren, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "46CB5",
+   "status": "accepted",
+   "label": "Neocapritermes villosus (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084770",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

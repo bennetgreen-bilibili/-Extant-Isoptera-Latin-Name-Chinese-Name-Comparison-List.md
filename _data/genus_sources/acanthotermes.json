@@ -1,0 +1,43 @@
+{
+ "latin": "Acanthotermes",
+ "zh": "刺白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Acanthotermes Sjöstedt, 1900a: 54.",
+ "type_species": "Termes acanthothorax Sjöstedt, 1898 by subsequent designation; see Sjöstedt, 1926d: 60.",
+ "references": [
+  {
+   "ref": "Escherich, 1909: 176",
+   "note": "Acanthotermes; characters."
+  },
+  {
+   "ref": "Holmgren, 1912a: 11, 12, 13–21",
+   "note": "Acanthotermes; characters; key; comparisons; species included; systematic position."
+  },
+  {
+   "ref": "Sjöstedt, 1926d: 60",
+   "note": "Acanthotermes; reference list; key."
+  },
+  {
+   "ref": "Emerson, 1928b: 405, 418, 431, 432",
+   "note": "Acanthotermes; key; distribution. Acanthotermes (Acanthotermes); species included; distribution."
+  },
+  {
+   "ref": "Harris, 1941: 202",
+   "note": "Acanthotermes; key."
+  },
+  {
+   "ref": "Weidner, 1956b: 66",
+   "note": "Acanthotermes; key."
+  },
+  {
+   "ref": "Webb, 1961: 10",
+   "note": "Acanthotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 31, 86, 87, pl. 11: fig. 27c",
+   "note": "Acanthotermes; key; characters; imago/ worker mandibles figured."
+  }
+ ],
+ "nrefs": 29
+}

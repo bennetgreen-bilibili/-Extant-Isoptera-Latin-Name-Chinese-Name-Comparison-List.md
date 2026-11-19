@@ -1,0 +1,85 @@
+{
+ "latin": "Proneotermes",
+ "zh": "前新白蚁属",
+ "fetched_at": "2026-10-30T16:54:28Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2531548670",
+   "openalex_url": "https://openalex.org/W2531548670",
+   "doi": "10.3897/zookeys.623.9677",
+   "doi_url": "https://doi.org/10.3897/zookeys.623.9677",
+   "title": "Proneotermes macondianus, a new drywood termite from Colombia and expanded distribution of Proneotermes in the Neotropics (Isoptera, Kalotermitidae)",
+   "year": 2016,
+   "date": "2016-10-11",
+   "authors": [
+    "Robin Casalla",
+    "Rudolf H. Scheffrahn",
+    "Judith Korb"
+   ],
+   "venue": "ZooKeys",
+   "type": "article",
+   "language": "en",
+   "cited_by": 6,
+   "oa_url": "https://zookeys.pensoft.net/article/9677/download/pdf/",
+   "volume": "623",
+   "issue": "623",
+   "pages": "43-60",
+   "abstract": "After more than one hundred years, a new drywood termite of the genus Proneotermes is described from the tropical dry forest in the Caribbean coast of Colombia. Morphological and genetic analyses are given for Proneotermes macondianus sp. n. This termite occurs in tropical dry forests in small colonies inside thin branches of dry wood. The soldier of P. macondianus is smaller and the genal horns are angled outward compared to the other two described Proneotermes species. The imago wings are unusually short and wide. Genetic analyses for COII, 12S, and 16S genes show less than three percent difference between sample localities of P. macondianus. Intergeneric comparison with selected kalotermitid genera indicates that Bifiditermes is the most closely related genus of those sequenced. New morphological descriptions and morphometric measurements of Proneotermes latifrons based on the soldier caste are also included. Neotropical locality records for P. latifrons and Proneotermes perezi are provided.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1009,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W4417310569",
+   "openalex_url": "https://openalex.org/W4417310569",
+   "doi": "10.22271/j.ento.2025.v13.i6c.9646",
+   "doi_url": "https://doi.org/10.22271/j.ento.2025.v13.i6c.9646",
+   "title": "Morphological and molecular characterization of Proneotermes tacicuarensis sp. nov.: A new termite from central Mexico",
+   "year": 2025,
+   "date": "2025-11-01",
+   "authors": [
+    "César Marco Aurelio Jurado-Vargas",
+    "José Tulio Méndez-Montiel",
+    "Silvia Edith García-Díaz",
+    "José Cruz de León"
+   ],
+   "venue": "Journal of Entomology and Zoology Studies",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "https://www.entomoljournal.com/archives/2025/vol13issue6/PartC/13-6-20-266.pdf",
+   "volume": "13",
+   "issue": "6",
+   "pages": "175-183",
+   "abstract": "This study presents the discovery and description of Proneotermes tacicuarensis sp. nov., a new termite species from the Trans-Mexican Volcanic Belt, an ecologically significant region of Mexico where Nearctic and Neotropical biogeographical zones converge. The Mexican termite fauna currently comprises 79 recognized species, yet introduced taxa, such as those within the Coptotermes genus complex, have often been misidentified as endemic due to the absence of biomolecular studies. Our research employed a combination of morphological, molecular, and biogeographical analyses to classify this new species and clarify its taxonomic position within Kalotermitidae. Specimens were collected from Tacicuaro, Michoacán, between 2017 and 2019, and morphological comparisons with previously described Proneotermes species revealed distinct differences in key structures such as mandibles, antennae, and body size. Phylogenetic analysis based on COII sequences, with support from 12S and 16S rDNA, placed P. tacicuarensis in close relation to Proneotermes macondianus but as a distinct species. The study highlights the importance of integrating molecular data with traditional taxonomy, particularly in regions of high endemism such as the Trans-Mexican Volcanic Belt. Our findings contribute to a deeper understanding of termite biodiversity in Mexico and underscore the need for further taxonomic revision and exploration in under-researched areas.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1446,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W1967231947",
+   "openalex_url": "https://openalex.org/W1967231947",
+   "doi": "10.1078/0932-4739-00831",
+   "doi_url": "https://doi.org/10.1078/0932-4739-00831",
+   "title": "Gyronympha, Prosnyderella and Criconympha, three new genera of calonymphids (Parabasalia: Trichomonadida) from wood-eating termites",
+   "year": 2002,
+   "date": "2002-01-01",
+   "authors": [
+    "Michael F. Dolan",
+    "Harold Kirby"
+   ],
+   "venue": "European Journal of Protistology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 7,
+   "oa_url": "",
+   "volume": "38",
+   "issue": "1",
+   "pages": "73-81",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  }
+ ]
+}

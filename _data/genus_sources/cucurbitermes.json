@@ -1,0 +1,23 @@
+{
+ "latin": "Cucurbitermes",
+ "zh": "葫白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Cucurbitermes Li and Ping, 1985: 85, 89–90.",
+ "type_species": "Cucurbitermes yingdeensis Li and Ping, 1985 by original designation.",
+ "references": [
+  {
+   "ref": "Huang et al., 1989: 391, 535–536",
+   "note": "Cucurditermes [sic]; key; characters; distribution."
+  },
+  {
+   "ref": "Huang and Li, 1999: 316",
+   "note": "Cucurbitermes; characters."
+  },
+  {
+   "ref": "Huang et al., 2000: 547, 778",
+   "note": "Cucurbitermes; key; characters; distribution."
+  }
+ ],
+ "nrefs": 3
+}

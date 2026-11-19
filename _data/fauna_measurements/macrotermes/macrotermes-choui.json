@@ -1,0 +1,130 @@
+{
+ "book_n": "297",
+ "book_name": "周氏大白蚊 Macrotermeschoui",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "周氏大白蚁大兵蚁量度 ( mm)",
+   "label_en": "Major soldier measurements",
+   "label_es": "Medidas de soldado mayor",
+   "label_zh": "大兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "4.72",
+     "value": "4.57–4.83"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "3.62",
+     "value": "3.56–3.78"
+    },
+    {
+     "key": "head_width_behind_antennae",
+     "mean": "3.09",
+     "value": "3.05–3.15"
+    },
+    {
+     "key": "head_width_mandible_base",
+     "mean": "2.51",
+     "value": "2.44–2.57"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "2.34",
+     "value": "2.30–2.41"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "3.18",
+     "value": "3.13–3.25"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.89",
+     "value": "0.88–0.91"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.58",
+     "value": "0.57–0.61"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "1.20",
+     "value": "1.18–1.24"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "2.41",
+     "value": "2.37–2.45"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "2.79",
+     "value": "2.70–2.86"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 611,
+   "unit": "mm"
+  },
+  {
+   "caste": "soldier",
+   "heading": "周氏大白蚊小兵蚁量度 ( mm)",
+   "label_en": "Minor soldier measurements",
+   "label_es": "Medidas de soldado menor",
+   "label_zh": "小兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.33",
+     "value": "2.02–2.63"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.75",
+     "value": "1.65–2.00"
+    },
+    {
+     "key": "head_width_behind_antennae",
+     "mean": "1.51",
+     "value": "1.41–1.75"
+    },
+    {
+     "key": "head_width_mandible_base",
+     "mean": "1.12",
+     "value": "1.04–1.29"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.41",
+     "value": "1.40–1.46"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.51",
+     "value": "1.28–1.75"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.71",
+     "value": "0.64–0.76"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.23",
+     "value": "1.04–1.40"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.78",
+     "value": "1.65–1.85"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 622,
+   "unit": "mm"
+  }
+ ]
+}

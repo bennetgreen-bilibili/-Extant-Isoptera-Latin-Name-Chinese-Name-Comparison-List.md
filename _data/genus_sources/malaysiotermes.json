@@ -1,0 +1,19 @@
+{
+ "latin": "Malaysiotermes",
+ "zh": "马来白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Malaysiotermes Ahmad, 1968: 6.",
+ "type_species": "Malaysiotermes spinocephalus Ahmad, 1968 by original designation.",
+ "references": [
+  {
+   "ref": "Gathorne-Hardy, 2001: 1501",
+   "note": "Malaysiotermes; key."
+  },
+  {
+   "ref": "Gathorne-Hardy, 2004: 128",
+   "note": "Malaysiotermes; key. Aciculioiditermes Ahmad, 1968: 19. Type species: Aciculioiditermes holmgreni Ahmad, 1968 by original designation."
+  }
+ ],
+ "nrefs": 10
+}

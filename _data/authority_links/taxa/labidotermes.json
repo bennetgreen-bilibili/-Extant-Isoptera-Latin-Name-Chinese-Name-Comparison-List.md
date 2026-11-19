@@ -1,0 +1,24 @@
+{
+ "Labidotermes celisi": {
+  "gbif": {
+   "key": 9660386,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Labidotermes celisi Deligne & Pasteels, 1969",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RJKM",
+   "status": "accepted",
+   "label": "Labidotermes celisi Deligne & Pasteels, 1969",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210707",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

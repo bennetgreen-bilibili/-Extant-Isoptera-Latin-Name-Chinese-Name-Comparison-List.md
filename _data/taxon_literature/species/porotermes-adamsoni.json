@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "塔斯马尼亚桉树林中的危害",
+   "heading_en": "Damage in Tasmanian eucalypt forests",
+   "heading_es": "Daños en los bosques de eucaliptos de Tasmania",
+   "paragraphs": [
+    {
+     "src": [
+      "S0295"
+     ],
+     "text": "根据 Elliott 与 Bashford（1984）研究，塔斯马尼亚东部沿海低地桉树林中，亚当森洞白蚁（<i>Porotermes adamsoni</i>）在两个研究区分别危害 60% 与 43% 的抽样树木，6 种桉树全部受害且各树种之间受害株比例无显著差异；受害率随径级增大而升高，胸（桩）径超过 105 cm 的树木有 90% 受害（据摘要）。",
+     "text_en": "According to Elliott and Bashford (1984), in the coastal lowland eucalypt forests of eastern Tasmania, <i>Porotermes adamsoni</i> damaged 60% and 43% of the sampled trees in two study areas respectively; all six eucalypt species were attacked, with no significant difference among species in the proportion of attacked trees, and the damage rate rose with increasing diameter class, 90% of trees with a breast (stump) diameter exceeding 105 cm being attacked (according to the abstract).",
+     "text_es": "Según Elliott y Bashford (1984), en los bosques de eucaliptos de las tierras bajas costeras del este de Tasmania, <i>Porotermes adamsoni</i> dañó el 60% y el 43% de los árboles muestreados en dos áreas de estudio, respectivamente; las seis especies de eucalipto resultaron atacadas, sin diferencias significativas entre especies en la proporción de árboles afectados, y la tasa de daño aumentó con la clase diamétrica, resultando atacado el 90% de los árboles con un diámetro a la altura del pecho (tocón) superior a 105 cm (según el resumen)."
+    },
+    {
+     "src": [
+      "S0295"
+     ],
+     "text": "危害主要表现为心材严重中心缺陷——树干中心形成「管状」空洞，蛀道呈同心排列，有时伴腐朽；评定锯材原木中有 60% 因缺陷过大在锯切后被拒收，全部潜在纸浆材原木中有 43% 被降级为可选纸浆材（据摘要）。",
+     "text_en": "The damage consists mainly of severe central heartwood defect: a pipe-like hollow forms in the centre of the trunk, the galleries are arranged concentrically and are sometimes accompanied by decay; 60% of the assessed sawlogs were rejected after sawing because the defect was too large, and 43% of all potential pulpwood logs were downgraded to optional pulpwood (according to the abstract).",
+     "text_es": "El daño consiste principalmente en un grave defecto central del duramen: se forma una cavidad tubular en el centro del tronco, las galerías se disponen de forma concéntrica y a veces se acompañan de pudrición; el 60% de los trozos para sierra evaluados fueron rechazados tras el aserrado por ser el defecto demasiado grande, y el 43% de todos los trozos potenciales para pasta fueron degradados a pasta opcional (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0295",
+   "citation": "Elliott, H. J.; Bashford, R. 1984. Incidence and effects of the dampwood termite, Porotermes adamsoni,in two Tasmanian east coast eucalypt forests. Australian Forestry.",
+   "doi": "10.1080/00049158.1984.10675973"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "Scheffrahnitermes ubuntu": {
+  "label": "Scheffrahnitermes ubuntu Mellado, Messina & Carrijo, 2026",
+  "match": "exact",
+  "notes": "",
+  "otu": 1411940,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1411940/overview",
+  "valid_label": null,
+  "valid_otu": 1411940,
+  "verified": false
+ }
+}

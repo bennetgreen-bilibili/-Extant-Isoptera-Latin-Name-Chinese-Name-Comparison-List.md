@@ -1,0 +1,93 @@
+{
+ "latin": "Comatermes",
+ "zh": "毛白蚁属",
+ "fetched_at": "2026-10-30T16:53:22Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2027711535",
+   "openalex_url": "https://openalex.org/W2027711535",
+   "doi": "10.1007/s00040-013-0335-1",
+   "doi_url": "https://doi.org/10.1007/s00040-013-0335-1",
+   "title": "Kalotermes sinaicus Kemner (Isoptera, Kalotermitidae): new morphological and genetic evidence, and assignment to the new genus Longicaputermes gen. nov",
+   "year": 2014,
+   "date": "2014-01-01",
+   "authors": [
+    "Silvia Ghesini",
+    "D. Simon",
+    "Mario Marini"
+   ],
+   "venue": "Insectes Sociaux",
+   "type": "article",
+   "language": "en",
+   "cited_by": 13,
+   "oa_url": "",
+   "volume": "61",
+   "issue": "2",
+   "pages": "123-131",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W3142869890",
+   "openalex_url": "https://openalex.org/W3142869890",
+   "doi": "10.1038/s41598-021-86645-w",
+   "doi_url": "https://doi.org/10.1038/s41598-021-86645-w",
+   "title": "Characterization of new cristamonad species from kalotermitid termites including a novel genus, Runanympha",
+   "year": 2021,
+   "date": "2021-03-31",
+   "authors": [
+    "Racquel A. Singh",
+    "Vittorio Boscaro",
+    "Erick R. James",
+    "Anna Karnkowska",
+    "Martin Kolísko",
+    "Gregory S. Gavelis",
+    "Noriko Okamoto",
+    "Javier del Campo",
+    "Rebecca Fiorito",
+    "Elisabeth Hehenberger",
+    "Nicholas A. T. Irwin",
+    "Varsha Mathur"
+   ],
+   "venue": "Scientific Reports",
+   "type": "article",
+   "language": "en",
+   "cited_by": 2,
+   "oa_url": "https://www.nature.com/articles/s41598-021-86645-w.pdf",
+   "volume": "11",
+   "issue": "1",
+   "pages": "7270-7270",
+   "abstract": "Cristamonadea is a large class of parabasalian protists that reside in the hindguts of wood-feeding insects, where they play an essential role in the digestion of lignocellulose. This group of symbionts boasts an impressive array of complex morphological characteristics, many of which have evolved multiple times independently. However, their diversity is understudied and molecular data remain scarce. Here we describe seven new species of cristamonad symbionts from Comatermes, Calcaritermes, and Rugitermes termites from Peru and Ecuador. To classify these new species, we examined cells by light and scanning electron microscopy, sequenced the symbiont small subunit ribosomal RNA (rRNA) genes, and carried out barcoding of the mitochondrial large subunit rRNA gene of the hosts to confirm host identification. Based on these data, five of the symbionts characterized here represent new species within described genera: Devescovina sapara n. sp., Devescovina aymara n. sp., Macrotrichomonas ashaninka n. sp., Macrotrichomonas secoya n. sp., and Macrotrichomonas yanesha n. sp. Additionally, two symbionts with overall morphological characteristics similar to the poorly-studied and probably polyphyletic 'joeniid' Parabasalia are classified in a new genus Runanympha n. gen.: Runanympha illapa n. sp., and Runanympha pacha n. sp.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1334,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W3144942987",
+   "openalex_url": "https://openalex.org/W3144942987",
+   "doi": "",
+   "doi_url": "",
+   "title": "SURVEY OF THE TERMITES (ISOPTERA: KALOTERMITIDAE, RHINOTERMITIDAE, TERMITIDAE) OF NICARAGUA",
+   "year": 2006,
+   "date": "2006-01-01",
+   "authors": [
+    "R Udolf",
+    "H. S Cheffrahn"
+   ],
+   "venue": "",
+   "type": "article",
+   "language": "es",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "The termite fauna of Nicaragua is poorly known relative to that of other Central American countries such as Costa Rica and Panama (Constantino 1998; Nickle & Collins 1992). Maes (1990) published a list of 10 termite species from Nicaragua based on published records. Maes’ 1990 list consists of termites that can be grouped as arboreal nesters (3 Nasutitermes spp.), epigeal or soil nesters (3 Microcerotermes spp.), structure-infesting subterranean species (2 Coptotermes spp., 1 Heterotermes sp.), and two drywood/dampwood species (1 Incisitermes sp. and 1 Neotermes sp.). Termites with more cryptic habits, such as those that nest and forage in the soil or solely in wood were underrepresented in Maes’ list. This note presents the results of an initial survey of Nicaragua intended to systematically catalog all termite taxa of that country. During 30 May-5 June 2004, we collected 938 termite colony samples from 46 localities along roadsides and trails in as many geographically and ecologically diverse habitats as time and accessibility permitted (Fig. 1). Our survey yielded 35 species in 19 genera and three families representing one of the more diverse termite faunas in Mesoamerica (Constantino 1998). All species listed by Maes (1990) were collected by us, however, the validity of Coptotermes crassus Snyder and Cop. niger Snyder remain uncertain (R. H. Scheffrahn, unpublished data). We have identified all 54 of our Coptotermes samples as Co. testaceus (Linnaeus), but we herein report all three as being present in Nicaragua based on their current status, bringing the total faunal count for Nicaragua to 37 species, including 27 new species records (Table 1). Identifications were made by Krecek and Scheffrahn, and specimens are housed in the University of Florida Termite Collection, Fort Lauderdale Research and Education Center. Our survey established significant new southern range extensions for Incisitermes nigritus (Snyder), Marginitermes hubbardi (Banks), Tenuirostritermes briciae (Snyder), T. incisus (Snyder), and Amitermes cryptodon Light (Table 1). We also report new northern range extensions for Calcaritermes brevicollis (Banks), Comatermes perfectus (Hagen), Cryptotermes dudleyi Banks, Glyptotermes angustus (Snyder), G. contracticornis (Snyder), Anoplotermes parvus Snyder, A. pyriformis Snyder, Atlantitermes kirbyi (Snyder), and Embiratermes chagresi (Snyder). The collections of Cryptotermes brevis (Walker), Cr. longicollis Banks, I. immigrans (Snyder), Neotermes castaneus (Burmeister), Amitermes beaumonti Banks, Coptotermes spp., Heterotermes convexinotatus (Snyder), Hoplotermes amplus Light, Microcerotermes arboreus Emerson, M. exiguus (Hagen), and M. gracilis Light join previously known ranges north and south of Nicaragua. We collected three apparently new species of soldierless termites (Termitidae: Apicotermitinae) and a new species of Nasutitermitinae that are likely members of undescribed genera. It is probable that several more described and new termite species remain to be discovered in Nicaragua considering the country’s size, centralized location, diversity of habitat, and the geographically limited extent of the current survey (Fig. 1). We thank Jean-Michel Maes, Museo Entomologico, Leon for collecting permits and Danilo Barquero for logistical assistance while in Nicaragua. W. H. Kern Jr. and Brian J. Cabrera reviewed this contribution No. R-10475 of the University of Florida, Agricultural Experiment Station, Journal Series.",
+   "abstract_source": "openalex",
+   "abstract_chars": 3500,
+   "abstract_truncated": false
+  }
+ ]
+}

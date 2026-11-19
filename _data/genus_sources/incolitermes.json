@@ -1,0 +1,19 @@
+{
+ "latin": "Incolitermes",
+ "zh": "子民白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Incolitermes Gay, 1966: 41.",
+ "type_species": "Hamitermes (Ahamitermes) pumilus Hill, 1942: by original designation.",
+ "references": [
+  {
+   "ref": "Hill, 1942: 14, 307–310, 361–362",
+   "note": "Hamitermes; as genus [part], Incolitermes; as subgenus [part]; key; synonymy; imago, soldier, worker diagnosed."
+  },
+  {
+   "ref": "Gay, 1956: 207",
+   "note": "Ahamitermes [part]; synonymy; characters."
+  }
+ ],
+ "nrefs": 4
+}

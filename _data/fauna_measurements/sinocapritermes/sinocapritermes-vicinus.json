@@ -1,0 +1,100 @@
+{
+ "book_n": "368",
+ "book_name": "川华扭白蚁 Sinocapritermes vicinus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "川华扭白蚁5头兵蚁的量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_without_mandibles",
+     "mean": "2.01",
+     "value": "1.96–2.06"
+    },
+    {
+     "key": "head_width",
+     "mean": "1.29",
+     "value": "1.23–1.34"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.38",
+     "value": "0.36–0.39"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.17",
+     "value": "0.16–0.19"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.75",
+     "value": "0.72–0.78"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.13",
+     "value": "1.10–1.15"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 889,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "川华扭白蚁4头长翅成虫量度 ( mm)",
+   "label_en": "Macropterous alate measurements",
+   "label_es": "Medidas de alado macróptero",
+   "label_zh": "长翅成虫量度",
+   "rows": [
+    {
+     "key": "ocellus_length",
+     "mean": "0.10",
+     "value": "0.09–0.11"
+    },
+    {
+     "key": "ocellus_width",
+     "mean": "0.08",
+     "value": "0.07–0.09"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "mean": "0.09",
+     "value": "0.08–0.10"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.50",
+     "value": "0.49–0.51"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.93",
+     "value": "0.92–0.93"
+    },
+    {
+     "key": "body_length_without_wings",
+     "mean": "6.44",
+     "value": "6.28–6.78"
+    },
+    {
+     "key": "wing_length",
+     "mean": "10.49",
+     "value": "10.15–11.28"
+    },
+    {
+     "key": "head_length_labrum_tip",
+     "mean": "1.26",
+     "value": "1.23–1.28"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 896,
+   "unit": "mm"
+  }
+ ]
+}

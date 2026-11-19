@@ -1,0 +1,25 @@
+{
+ "zh_name": "吉布林海胆白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "肠瓣武装为 6 组栉状（pectinate）刺束，每束具 4–6 列刺：近 P3 的远端为较长的刺，向后递减，另有较小的齿状刺；瓣垫近端（近 P1 处）具 1 枚小齿状刺；肠瓣直接插入 P3，不具分化出的肠瓣座（EVS）。据此与 Patawatermes（肠瓣座呈管状延长、外部清晰可见）和 Echinotermes（肠瓣座三叶）区分。消化道外部形态与 Hydrecotermes 相似，但后者肠瓣无武装。属名源自肠瓣武装形似海胆（葡萄牙语 ouriço）。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头部在单眼上方微凹；囟极小或不显著；复眼与单眼近圆形；触角 15 节（节式 2>3<4<5<6）；前胸背板侧缘伸长且圆滑。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头壳背表面侧视前部微凸；后唇基高度膨隆；触角 14 节。左内颚端齿较 M1+2 突出，M3 边缘构成钝角三角形、末端略截形，磨区隆起发达、部分遮住磨叶突；右内颚端齿较 M1 突出，M2 三角形、夹角锐、端部突出但略逊于 M1。肠管中肠舌小，P1 与中肠之间为简单的横向连接；肠瓣座不显著；肠瓣武装如属征（6 组栉状刺束，远端刺长而后向递减）。"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。",
+ "sources": [
+  {
+   "id": "S0027",
+   "citation": "Carrijo T.F., Castro D., Wang M., Constantini J.P., Bourguignon T., Cancello E.M., Roisin Y. & Scheffrahn R.H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317–352. doi 10.3897/zookeys.1167.100001",
+   "locator": "章节 Ourissotermes gen. nov.（Diagnosis / Description / Comparison and remarks）；文章 pp. 317–352"
+  }
+ ]
+}

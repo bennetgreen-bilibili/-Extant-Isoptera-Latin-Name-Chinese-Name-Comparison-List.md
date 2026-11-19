@@ -1,0 +1,156 @@
+{
+ "Stolotermes africanus": {
+  "gbif": {
+   "key": 9660451,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stolotermes africanus Emerson, 1942",
+   "accepted": null
+  },
+  "col": {
+   "id": "52TK9",
+   "status": "accepted",
+   "label": "Stolotermes africanus Emerson, 1942",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21319697",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stolotermes australicus": {
+  "gbif": {
+   "key": 4802712,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stolotermes australicus Mjöberg, 1920",
+   "accepted": null
+  },
+  "col": {
+   "id": "52TKB",
+   "status": "accepted",
+   "label": "Stolotermes australicus Mjöberg, 1920",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21319691",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stolotermes brunneicornis": {
+  "gbif": {
+   "key": 4802714,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stolotermes brunneicornis (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "52TKC",
+   "status": "accepted",
+   "label": "Stolotermes brunneicornis (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21319685",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stolotermes inopinus": {
+  "gbif": {
+   "key": 9813685,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stolotermes inopinus Gay, 1969",
+   "accepted": null
+  },
+  "col": {
+   "id": "52TKD",
+   "status": "accepted",
+   "label": "Stolotermes inopinus Gay, 1969",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q132551257",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stolotermes queenslandicus": {
+  "gbif": {
+   "key": 4802716,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stolotermes queenslandicus Mjöberg, 1920",
+   "accepted": null
+  },
+  "col": {
+   "id": "52TKF",
+   "status": "accepted",
+   "label": "Stolotermes queenslandicus Mjöberg, 1920",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21319681",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stolotermes ruficeps": {
+  "gbif": {
+   "key": 2007386,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stolotermes ruficeps Brauer, 1865",
+   "accepted": null
+  },
+  "col": {
+   "id": "52TKG",
+   "status": "accepted",
+   "label": "Stolotermes ruficeps Brauer, 1865",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582525",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Stolotermes victoriensis": {
+  "gbif": {
+   "key": 4802713,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Stolotermes victoriensis Hill, 1921",
+   "accepted": null
+  },
+  "col": {
+   "id": "52TKH",
+   "status": "accepted",
+   "label": "Stolotermes victoriensis Hill, 1921",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21319676",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

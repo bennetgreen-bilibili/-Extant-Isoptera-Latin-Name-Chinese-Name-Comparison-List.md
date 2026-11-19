@@ -1,0 +1,15 @@
+{
+ "latin": "Nasopilotermes",
+ "zh": "棘象白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Nasopilotermes Gao et al., 1992a: 19 [nom. nov. for Pilotermes He, 1987 as the name is preoccupied by Pilotermes Emerson 1960].",
+ "type_species": "Pilotermes jiangxiensis He, 1988 by original designation.",
+ "references": [
+  {
+   "ref": "Huang et al., 2000: 547, 791–792",
+   "note": "Pilotermes; key; characters; distribution; reference list. Nasutilotermes Hua, 2000: 27 [nomen nudum]."
+  }
+ ],
+ "nrefs": 1
+}

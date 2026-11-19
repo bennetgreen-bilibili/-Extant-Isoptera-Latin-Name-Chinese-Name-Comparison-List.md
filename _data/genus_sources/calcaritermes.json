@@ -1,0 +1,43 @@
+{
+ "latin": "Calcaritermes",
+ "zh": "距白蚁属",
+ "family": "kalotermitidae",
+ "treatise": true,
+ "citation": "Calcaritermes Snyder, 1925e: 155 [first introduced as a subgenus of Kalotermes Hagen, 1853.",
+ "type_species": "Kalotermes (Calcaritermes) imminens Snyder, 1925 by original designation.",
+ "references": [
+  {
+   "ref": "Light, 1933: 82",
+   "note": "Kalotermes (Calcaritermes); key."
+  },
+  {
+   "ref": "Roonwal and Sen-Sarma, 1960: 98",
+   "note": "Calcaritermes; key."
+  },
+  {
+   "ref": "Krishna, 1961: 348–349",
+   "note": "Calcaritermes; generic characters; key; reference list; phylogeny; distribution."
+  },
+  {
+   "ref": "Weesner, 1965: 34, 35, 49",
+   "note": "Calcaritermes; key; characters."
+  },
+  {
+   "ref": "Emerson, 1969: 36–39",
+   "note": "Calcaritermes; characters; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 9",
+   "note": "Calcaritermes; key."
+  },
+  {
+   "ref": "Roonwal and Chhotani, 1989: 326–328",
+   "note": "Calcaritermes; synonymy; characters; distribution and composition."
+  },
+  {
+   "ref": "Nickle and Collins, 1990: 93, 107",
+   "note": "Calcaritermes; key; characters."
+  }
+ ],
+ "nrefs": 30
+}

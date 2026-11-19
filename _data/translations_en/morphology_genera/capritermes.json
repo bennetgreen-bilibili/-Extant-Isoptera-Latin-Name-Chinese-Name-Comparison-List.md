@@ -1,0 +1,21 @@
+{
+ "note": "Description after the original text of Holmgren 1912 (page images of archive.org item biostor-184513, pp. 114–116). In 1912 the genus contained two subgenera (Neocapritermes, Capritermes s. str.), and what is described here are the combined characters at generic level; the lists of subgenera and species are on pp. 115–116 (Old World species: chiasognathus, socialis, capricornis, ceylonicus, foraminifer, incola, medius, minor, nemorosus, etc.). zh_name provisionally uses the Latin name (marked '—' in the batch).",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Holmgren 1912 divided the genus into two clearly delimited subgenera: Neocapritermes (all the American species, plus the African C. alienus v. Rosen) and Capritermes s. str. (Old World species only). The key differences between the two are: in the alate, the size of the first and second teeth, the number of antennal segments, the shape of the posterior margins of meso- and metanotum, and the presence or absence of a radius in the forewing; in the soldier, only the presence or absence of the frontal gland opening — Neocapritermes lacks it, Capritermes s. str. has it; in the worker, whether the anterior margin of the fore coxa is slightly disc-like expanded and the size of the first tooth. Characters common to the genus are: alate antennae 15–17 segments, third segment mostly short, wing membrane dark with spine-like points, media close to the cubitus; soldier head elongate rectangular, flattened and arched, mandibles of Capritermes type, asymmetrically curved, antennae 13–16 segments; worker head more or less pentagonal and rounded, antennae 13–15 segments."
+  },
+  {
+   "label": "Alate",
+   "text": "Head broadly oval, narrowing anteriorly. Compound eyes relatively small, mostly strongly projecting. Ocelli variable in position, facing laterally. Frontal gland opening depressed. Base of clypeus flatly convex, shorter than half its width. Mandibles in two conditions: either with a large apical tooth (in which case the posterior part of meso- and metanotum is pointed, antennae (14–)15 segments); or with the first two teeth about equal in length (in which case the posterior part of meso- and metanotum is broad, the mesonotum hardly incised, the metanotum broadly incised, antennae 17 segments and the forewing with a radius). Antennae 15–17 segments, third segment mostly short. Wing membrane dark, with small points (spines). Media close to the cubitus. Fore tibia with 3 apical spurs, mid and hind tibiae with 2 each."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head slender rectangular, rarely narrowing anteriorly, flattened and arched. Frontal gland opening mostly present, exposed on the front of the head; absent in all the American species and in the African C. alienus. Base of clypeus very narrow. Labrum slender: either with the lateral angles projecting and the middle rounded or incised, or trilobed with the lobes very short and rounded. Mandibles of Capritermes type, asymmetrically curved. Antennae 13–16 segments. Pronotum small, saddle-shaped."
+  },
+  {
+   "label": "Worker",
+   "text": "Head more or less pentagonal and rounded. Base of clypeus strongly arched, slightly shorter than half its width. Shape of the mandibular first tooth as in the alate. Antennae 13–15 segments. Pronotum saddle-shaped."
+  }
+ ]
+}

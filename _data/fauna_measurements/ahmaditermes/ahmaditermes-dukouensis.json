@@ -1,0 +1,33 @@
+{
+ "book_n": "464",
+ "book_name": "渡口钝颚白蚁 Ahmaditermes dukouensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "渡口钝颚白蚊兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_width",
+     "mean": "1.04",
+     "value": "0.98–1.10"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.54",
+     "value": "0.50–0.56"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.09",
+     "value": "0.98–1.15"
+    }
+   ],
+   "src_file": "901-989.txt",
+   "src_line": 28,
+   "unit": "mm"
+  }
+ ]
+}

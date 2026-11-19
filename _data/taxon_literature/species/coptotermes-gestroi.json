@@ -1,0 +1,67 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "乳白蚁属旧名 Coptotermes vastator 的异名化",
+   "paragraphs": [
+    {
+     "text": "据摘要，Yeap 等（2007）测定东南亚（马来西亚、新加坡、泰国、印度尼西亚）9 个格斯特乳白蚁（Coptotermes gestroi）种群和菲律宾、夏威夷 4 个乳白蚁属旧名 Coptotermes vastator 种群的 12S、16S 与 COII 线粒体基因，二者种间序列分歧最高仅 0.80%，16 项形态测量大量重叠；据此将乳白蚁属旧名 Coptotermes vastator 作为格斯特乳白蚁的次异名。",
+     "src": [
+      "S0180"
+     ],
+     "text_en": "According to the abstract, Yeap et al. (2007) sequenced the 12S, 16S and COII mitochondrial genes of 9 Coptotermes gestroi populations from Southeast Asia (Malaysia, Singapore, Thailand, Indonesia) and 4 populations of Coptotermes vastator (an old name in Coptotermes) from the Philippines and Hawaii; interspecific sequence divergence between the two was at most 0.80%, and 16 morphological measurements overlapped extensively; on this basis Coptotermes vastator was treated as a junior synonym of Coptotermes gestroi.",
+     "text_es": "Según el resumen, Yeap et al. (2007) secuenciaron los genes mitocondriales 12S, 16S y COII en nueve poblaciones de Coptotermes gestroi del sudeste asiático (Malasia, Singapur, Tailandia e Indonesia) y en cuatro poblaciones de Coptotermes vastator de Filipinas y Hawái, y hallaron una divergencia entre ambas de como máximo 0,80 % y un amplio solapamiento en 16 mediciones morfológicas; sobre esa base, Coptotermes vastator se considera sinónimo posterior de Coptotermes gestroi."
+    }
+   ],
+   "heading_en": "Synonymisation of the old Coptotermes name Coptotermes vastator",
+   "heading_es": "Sinonimización de Coptotermes vastator"
+  },
+  {
+   "heading": "台湾种群的来源、群体融合与湿度耐受",
+   "heading_en": "Origin of the Taiwanese populations, colony fusion and humidity tolerance",
+   "heading_es": "Origen de las poblaciones taiwanesas, fusión de colonias y tolerancia a la humedad",
+   "paragraphs": [
+    {
+     "src": [
+      "S0372"
+     ],
+     "text": "根据 Li 等（2009）研究，台湾格斯特乳白蚁（<i>Coptotermes gestroi</i>）种群的线粒体 COII、12S rRNA 与 16S rRNA 序列完全一致，且与菲律宾和夏威夷种群最接近，而非泰国、马来西亚、新加坡与印度尼西亚种群；作者据此认为台湾是该种的近期传入地。",
+     "text_en": "According to Li et al. (2009), all Taiwanese populations of <i>Coptotermes gestroi</i> shared identical mitochondrial COII, 12S rRNA and 16S rRNA sequences and were closest to populations from the Philippines and Hawaii rather than those from Thailand, Malaysia, Singapore and Indonesia; the authors therefore regarded Taiwan as a recent introduction site for the species.",
+     "text_es": "Según Li et al. (2009), todas las poblaciones taiwanesas de <i>Coptotermes gestroi</i> compartían secuencias mitocondriales COII, 12S rRNA y 16S rRNA idénticas y eran más próximas a las de Filipinas y Hawái que a las de Tailandia, Malasia, Singapur e Indonesia; los autores consideraron por ello que Taiwán es un sitio de introducción reciente de la especie."
+    },
+    {
+     "src": [
+      "S0001"
+     ],
+     "text": "根据 Guaraldo 与 Costa-Leonardo（2009）研究，将 10 个各含 1 头蚁王和 1 头蚁后的幼年格斯特乳白蚁（<i>Coptotermes gestroi</i>）群体两两融合为 5 组，15 天后每组只保留 1 头蚁王（另 1 头死亡），10 头蚁后有 9 头存活，融合过程未发生激烈打斗。",
+     "text_en": "According to Guaraldo and Costa-Leonardo (2009), ten young colonies of <i>Coptotermes gestroi</i>, each with one king and one queen, were paired into five fusion groups; after 15 days each group retained a single king (the other having died) and 9 of the 10 queens survived, with no intense fighting during fusion.",
+     "text_es": "Según Guaraldo y Costa-Leonardo (2009), se emparejaron diez colonias jóvenes de <i>Coptotermes gestroi</i>, cada una con un rey y una reina, en cinco grupos de fusión; tras 15 días cada grupo conservaba un solo rey (el otro había muerto) y sobrevivieron 9 de las 10 reinas, sin combates intensos durante la fusión."
+    },
+    {
+     "src": [
+      "S0001"
+     ],
+     "text": "根据 Kulis 等（2008）研究，格斯特乳白蚁（<i>Coptotermes gestroi</i>）在相对湿度低于 90% 时取食活动下降，相对湿度 84% 时存活受到影响。",
+     "text_en": "According to Kulis et al. (2008), feeding activity of <i>Coptotermes gestroi</i> declines below 90% relative humidity and that survival is affected at 84% relative humidity.",
+     "text_es": "Según Kulis et al. (2008), la actividad de alimentación de <i>Coptotermes gestroi</i> disminuye por debajo del 90% de humedad relativa y que la supervivencia se ve afectada al 84% de humedad relativa."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0180",
+   "citation": "Yeap, B.-K. et al. 2007. Genetic relationship between Coptotermes gestroi and Coptotermes vastator (Isoptera: Rhinotermitidae). Journal of Economic Entomology 100(2).",
+   "doi": "10.1093/jee/100.2.467"
+  },
+  {
+   "id": "S0001",
+   "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+  },
+  {
+   "id": "S0372",
+   "citation": "Li H.-F.; Ye W.; Su N.-Y.; Kanzaki N. 2009. Phylogeography of Coptotermes gestroi and Coptotermes formosanus (Isoptera: Rhinotermitidae) in Taiwan. Annals of the Entomological Society of America 102(4): 684–693.",
+   "doi": "10.1603/008.102.0413"
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "book_n": "20",
+ "book_name": "峨嵋树白蚊 Glyptotermesemei",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "峨嵋树白蚊兵蚁的量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_mandibles",
+     "mean": "2.97",
+     "value": "2.82–3.10"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.20",
+     "value": "0.15–0.27"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.37",
+     "value": "0.35–0.40"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.47",
+     "value": "1.35–1.55"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.59",
+     "value": "0.55–0.65"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.31",
+     "value": "1.10–1.55"
+    },
+    {
+     "key": "hind_femur_length",
+     "mean": "0.77",
+     "value": "0.75–0.85"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.80",
+     "value": "0.70–0.90"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 356,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "峨嵋树白蚊长翅成虫量度 ( mm)",
+   "label_en": "Macropterous alate measurements",
+   "label_es": "Medidas de alado macróptero",
+   "label_zh": "长翅成虫量度",
+   "rows": [
+    {
+     "key": "labrum_length",
+     "mean": "0.23",
+     "value": "0.17–0.25"
+    },
+    {
+     "key": "eye_long_diameter",
+     "mean": "0.31",
+     "value": "0.28–0.35"
+    },
+    {
+     "key": "eye_short_diameter",
+     "mean": "0.26",
+     "value": "0.23–0.28"
+    },
+    {
+     "key": "ocellus_length",
+     "mean": "0.11",
+     "value": "0.09–0.15"
+    },
+    {
+     "key": "hind_femur_length",
+     "mean": "0.74",
+     "value": "0.70–0.80"
+    },
+    {
+     "key": "hind_femur_width",
+     "mean": "0.30",
+     "value": "0.29–0.33"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.90",
+     "value": "0.83–1.00"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 373,
+   "unit": "mm"
+  }
+ ]
+}

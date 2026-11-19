@@ -1,0 +1,31 @@
+{
+ "latin": "Coendutermes",
+ "zh": "箭猪白蚁属",
+ "fetched_at": "2026-10-30T16:53:21Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2559806459",
+   "openalex_url": "https://openalex.org/W2559806459",
+   "doi": "10.11646/zootaxa.4205.5.9",
+   "doi_url": "https://doi.org/10.11646/zootaxa.4205.5.9",
+   "title": "Coendutermes tucum Fontes (Isoptera, Termitidae, Nasutitermitinae): description of the imago caste and additional notes",
+   "year": 2016,
+   "date": "2016-12-09",
+   "authors": [
+    "Carolina Cuezzo"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 1,
+   "oa_url": "https://www.openaccessrepository.it/record/198074",
+   "volume": "4205",
+   "issue": "5",
+   "pages": "zootaxa.4205.5.9-zootaxa.4205.5.9",
+   "abstract": "Coendutermes Fontes, 1985 is a monotypic South American termite genus. Coendutermes tucum Fontes, 1985, was described based on morphological characters from soldiers and workers collected in Mato Grosso, Brazil, and Jodensavanne, Suriname. Herein, I describe the imago caste of C. tucum for the first time with additional notes on soldiers, workers, and new distributional records. The studied material is deposited at the Museu de Zoologia da Universidade de São Paulo, São Paulo, Brazil (MZUSP). I use the terminology of Fontes (1987) to describe worker mandibles, and that of Noirot (2001) for the different parts of the digestive tube of workers. I measured the imagoes morphometric characters following Roonwal (1970): LH, length of head capsule (9); WH, width of head capsule without eyes (18); OF, occipito-fontanelle distance (23); DE, diameter of eye (48); LO, length of ocellus (55); WO, width of ocellus (56); EOD, eye-ocellus distance (57); LP, length of pronotum (65); WP, width of pronotum (68); LT, length of hind tibia (85). I took photographs of all castes with a stereomicroscope (Leica M205C) attached to a video camera (Leica DFC295) and images of gizzard and enteric valve under a microscope (Leica DM750B) attached to a video camera (Leica ICC50HD), then I combined the stacks of images with the software Leica LAS EZ 2.0 or Helicon Focus 5.2.11 X64. For the scanning electron micrographs (SEM), one soldier was dried to critical point while directly mounted on a stub with double face adhesive tape, then coated with gold and photographed with the SEM (Zeiss LEO 440 ®).",
+   "abstract_source": "openalex",
+   "abstract_chars": 1593,
+   "abstract_truncated": false
+  }
+ ]
+}

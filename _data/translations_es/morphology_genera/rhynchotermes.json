@@ -1,0 +1,21 @@
+{
+ "note": "Descripción basada en el original de Holmgren 1912 (imágenes de página del ítem biostor-184513 de archive.org, p. 55). En el original, Rhynchotermes es un subgénero de Armitermes (Untergattung), sin una descripción genérica independiente en párrafo propio: solo hay tres caracteres de clave (uno para el alado, uno para el soldado y uno para el obrero) y una especie; por ello los apartados son muy breves y no exceden lo que da la clave.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Holmgren 1912 lo estableció como subgénero de Armitermes (Rhynchotermes n. subg.), con una sola especie, nasutissimus (Mato Grosso, Paraguay, Bolivia). Las diferencias respecto de los demás subgéneros del género se dan en la clave: el alado tiene el 1.º y el 2.º diente mandibular de igual tamaño, antenas de 14 segmentos y el 3.º más largo que los segmentos contiguos; el soldado tiene las mandíbulas bastante robustas y muy fuertemente curvadas, con un diente cuadrangular en la parte media, base muy desarrollada y con un ángulo de la mola agudo, «nasus» (tubo frontal) muy largo y coxas anteriores con una proyección dentada cada una; el obrero tiene el 1.º y el 2.º diente mandibular de igual longitud."
+  },
+  {
+   "label": "Alado",
+   "text": "El 1.º y el 2.º diente mandibular son de igual tamaño; antenas de 14 segmentos, el 3.º más largo que los segmentos contiguos."
+  },
+  {
+   "label": "Soldado",
+   "text": "Mandíbulas bastante robustas, muy fuertemente curvadas, con un diente cuadrangular en la parte media; base muy desarrollada, con un ángulo de la mola agudo. «Nasus» (tubo frontal) muy largo. Coxas anteriores con una proyección dentada cada una."
+  },
+  {
+   "label": "Obrero",
+   "text": "El 1.º y el 2.º diente mandibular son de igual longitud. El original solo da este carácter de clave para el obrero de este subgénero y no lo describe más."
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "latin": "Ceratokalotermes",
+ "zh": "角木白蚁属",
+ "family": "kalotermitidae",
+ "treatise": true,
+ "citation": "Ceratokalotermes Krishna, 1961",
+ "type_species": "Calotermes spoliator Hill, 1932 by original designation.",
+ "references": [
+  {
+   "ref": "Krishna, 1961: 338–341",
+   "note": "Ceratokalotermes; generic characters; key; reference list; phylogeny; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 11",
+   "note": "Ceratokalotermes; key."
+  }
+ ],
+ "nrefs": 4
+}

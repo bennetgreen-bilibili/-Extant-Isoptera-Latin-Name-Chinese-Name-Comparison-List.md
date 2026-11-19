@@ -1,0 +1,50 @@
+{
+ "book_n": "60",
+ "book_name": "中华新白蚁 Neotermes sinensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "中华新白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "3.25"
+    },
+    {
+     "key": "head_max_width",
+     "value": "2.25"
+    },
+    {
+     "key": "head_height",
+     "value": "1.80"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.45"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "2.43"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "1.15"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "2.20"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.08"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 1380,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "Paracapritermes kraepelinii": {
+  "gbif": {
+   "key": 4803259,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Paracapritermes kraepelinii (Silvestri, 1909)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4CNLQ",
+   "status": "accepted",
+   "label": "Paracapritermes kraepelinii (Silvestri, 1909)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272538",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Paracapritermes primus": {
+  "gbif": {
+   "key": 4803262,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Paracapritermes primus (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4CNLR",
+   "status": "accepted",
+   "label": "Paracapritermes primus (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272539",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Paracapritermes prolixus": {
+  "gbif": {
+   "key": 4803258,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Paracapritermes prolixus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "4CNLS",
+   "status": "accepted",
+   "label": "Paracapritermes prolixus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272540",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Paracapritermes secundus": {
+  "gbif": {
+   "key": 4803264,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Paracapritermes secundus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "4CNLT",
+   "status": "accepted",
+   "label": "Paracapritermes secundus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272541",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

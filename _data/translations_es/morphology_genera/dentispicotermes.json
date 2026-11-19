@@ -1,0 +1,16 @@
+{
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El soldado posee mandíbulas delgadas y alargadas de tipo snapping (de disparo) y la cabeza presenta una proyección cefálica cónica (cephalic projection, es decir, el tubérculo frontal), además de glándulas labiales grandes y amarillas bien desarrolladas que se extienden hacia atrás y penetran profundamente en el abdomen; el género es geófago y la armadura de la válvula entérica (enteric valve armature, EVA) del obrero es muy diagnóstica."
+  },
+  {
+   "label": "Soldado",
+   "text": "Mandíbulas delgadas y alargadas, de tipo snapping; en la mayoría de las especies las mandíbulas presentan dientes marginales (solo D. brevicarinatus carece de ellos); el gancho apical representa aproximadamente 1/7 de la longitud mandibular total (en la mayoría de las especies) o aproximadamente 1/3 (D. pantanalis); la forma del tubérculo frontal (somero o abrupto, triangular o trapezoidal estrecho, ángulo entre el margen posterior y el plano del vértice cefálico) es un carácter diagnóstico interespecífico."
+  },
+  {
+   "label": "Obrero",
+   "text": "Geófago; la armadura de la válvula entérica es muy diagnóstica, pero no muestra diferencias notables dentro de la especie."
+  }
+ ]
+}

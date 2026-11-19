@@ -1,6 +1,8 @@
 {%- include lang-path.html -%}
-{%- assign zh_url = path_no_lang -%}
-{%- assign fmeas = site.data.fauna_measurements[zh_url] -%}
+{%- comment -%} 数据分片：_data/fauna_measurements/<属>/<slug>.json，值是条目本身；键＝属 id ＋ slug。 {%- endcomment -%}
+{%- assign _slug = path_no_lang | split: '/' | last -%}
+{%- assign _gid = page.genus_id | default: page.latin | split: ' ' | first | downcase -%}
+{%- assign fmeas = site.data.fauna_measurements[_gid][_slug] -%}
 {%- assign mterms = site.data.fauna_measure_terms -%}
 {%- if fmeas and fmeas.tables.size > 0 -%}
 <section class="species-measurements" lang="{% if page.lang == 'en' %}en{% elsif page.lang == 'es' %}es{% else %}zh-CN{% endif %}">

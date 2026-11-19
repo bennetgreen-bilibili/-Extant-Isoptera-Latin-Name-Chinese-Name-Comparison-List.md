@@ -1,0 +1,21 @@
+{
+ "note": "Descripción según el original de Holmgren 1912 (imágenes de página del ítem biostor-184513 de archive.org, pp. 101–102). El nombre chino del género no está fijado; el zh_name usa provisionalmente el nombre latino más un nombre común chino, a la espera de la aprobación de la instancia superior. El original solo conoce una especie, Crenetermes albotarsalis (Sjöst.), de Camerún y el Congo; la p. 102 está dedicada íntegramente a la discusión de las relaciones sistemáticas con la serie Mirotermes y no contiene descripción morfológica, por lo que no se utilizó.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Género monotípico, solo Crenetermes albotarsalis (Sjöst.), de Camerún y el Congo; entre sus sinónimos figuran Eutermes albotarsalis Sjöst. y Suleitermes Wasm. (nombre inédito) en la literatura. Alado con cabeza casi cuadrada, antenas de 16 segmentos y tercero corto; soldado con cabeza rectangular, más larga que ancha, labro casi cuadrado y fuertemente surcado, mandíbulas del mismo tipo que en Thoracotermes, antenas de 15 segmentos; obrero completamente blanco, cabeza más larga que ancha, mandíbulas con un diente apical grande. Holmgren señala que el género pertenece a la serie Mirotermes, pero que las mandíbulas del soldado tienen dentición del tipo Termes y la abertura de la glándula frontal está expuesta y no situada bajo una elevación frontal, por lo que difiere de todos los subgéneros de Mirotermes y de Thoracotermes."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza de anchura aproximadamente igual a su longitud. Ojos compuestos pequeños, prominentes. Ocelos separados de los ojos compuestos aproximadamente por su diámetro. Base del clípeo más clara que la frente, muy grande, algo más larga que su mitad de ancho (9∶8.5), extremadamente abultada; como la base del clípeo está extendida, la parte mandibular de la cabeza parece corta. Primer diente mandibular grande. Antenas de 16 segmentos, el tercero corto. La escotadura del borde posterior del mesonoto es más ancha que la del metanoto. Alas oscuras, membrana alar con punteado fino y denso de espinitas (en el original, »punktiert«). Media de las alas anteriores que sale independiente por detrás de la escama alar. Tibia anterior con 3 espinas apicales, tibias media y posterior con 2 cada una. Cercos cortos. Sin estilos. El original añade además: en una ninfa macho se observaron estilos reducidos."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza más larga que ancha, cuadrangular, ligeramente estrechada hacia delante, bastante convexa, borde anterior oblicuamente truncado. Abertura de la glándula frontal situada en el margen de la parte frontal inclinada, bastante pequeña pero rodeada densamente de pelos. Base del clípeo completamente plana, algo más corta que su mitad de ancho. Labro casi cuadrado, que se ensancha ligeramente hacia fuera, fuertemente surcado; borde anterior ligeramente escotado en el medio, ángulos laterales solo poco marcadamente agudos y dirigidos hacia delante. Mandíbulas como en Thoracotermes. Antenas de 15 segmentos, el tercero corto. Pronoto en forma de silla de montar profunda, pequeño. Fórmula de espinas tibiales como en el alado. Sin estilos."
+  },
+  {
+   "label": "Obrero",
+   "text": "De coloración completamente blanca. Cabeza más larga que ancha. Base del clípeo aproximadamente tan larga como su mitad de ancho, fuertemente abultada. Mandíbulas con un diente apical grande. Antenas de 15 segmentos, el tercero corto. Pronoto en forma de silla de montar profunda. Fórmula de espinas tibiales y estilos como antes (sin estilos)."
+  }
+ ]
+}

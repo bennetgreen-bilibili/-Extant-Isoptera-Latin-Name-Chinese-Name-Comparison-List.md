@@ -1,0 +1,25 @@
+{
+ "zh_name": "简角近新白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫左上颚第一、二缘齿后缘具明显钝角折，爪间突缺；兵蚁上颚相对头长较短而强，可与 Comatermes、Ceratokalotermes 区分（后两者见各自条目）。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "暗烟褐色；眼小，径约 0.28 mm，单眼距复眼约 0.02 mm；触角 14–15 节；左上颚第一、二缘齿基部宽于第三缘齿，后缘略长于第三缘齿前缘，距端部约 1/4 处呈钝角折；右上颚臼板与第二缘齿后缘近等长；前胸背板略宽于头，前缘宽而浅凹；径分脉 6–7 支；中脉较径分脉色浅、骨化弱；爪间突缺。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头长、背腹扁；额沿中纵线微凹，约以 35° 向唇基下倾；眼无色；触角 13–15 节，第三节与第二节等长；上颚相对头长较短、强，基部具瘤；后颏前部很宽；前胸背板与头等宽，前缘宽凹；腿节明显膨大。"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。",
+ "sources": [
+  {
+   "id": "S0021",
+   "citation": "Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.",
+   "locator": "pp. 337–338"
+  }
+ ]
+}

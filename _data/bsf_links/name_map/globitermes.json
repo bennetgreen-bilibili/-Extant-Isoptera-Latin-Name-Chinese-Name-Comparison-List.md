@@ -1,0 +1,101 @@
+{
+ "Globitermes brachycerastes": {
+  "label": "Globitermes brachycerastes Han, 1987",
+  "match": "exact",
+  "notes": "",
+  "otu": 85420,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85420/overview",
+  "valid_label": null,
+  "valid_otu": 85420,
+  "verified": false
+ },
+ "Globitermes globosus": {
+  "label": "Globitermes globosus (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85421,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85421/overview",
+  "valid_label": null,
+  "valid_otu": 85421,
+  "verified": false
+ },
+ "Globitermes globosus depilis": {
+  "label": "Globitermes globosus depilis (Holmgren, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85422,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85422/overview",
+  "valid_label": null,
+  "valid_otu": 85422,
+  "verified": false
+ },
+ "Globitermes globosus globosus": {
+  "label": "Globitermes globosus globosus (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85423,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85423/overview",
+  "valid_label": null,
+  "valid_otu": 85423,
+  "verified": false
+ },
+ "Globitermes menglaensis": {
+  "label": "Globitermes menglaensis Huang & Zhu, 1990",
+  "match": "exact",
+  "notes": "",
+  "otu": 85424,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85424/overview",
+  "valid_label": null,
+  "valid_otu": 85424,
+  "verified": false
+ },
+ "Globitermes mengpengensis": {
+  "label": "Globitermes mengpengensis Zhu & Huang, 1990",
+  "match": "exact",
+  "notes": "",
+  "otu": 85425,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85425/overview",
+  "valid_label": null,
+  "valid_otu": 85425,
+  "verified": false
+ },
+ "Globitermes minor": {
+  "label": "Globitermes minor Han, 1987",
+  "match": "exact",
+  "notes": "",
+  "otu": 85426,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85426/overview",
+  "valid_label": null,
+  "valid_otu": 85426,
+  "verified": false
+ },
+ "Globitermes sulphureus": {
+  "label": "Globitermes sulphureus (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85427,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85427/overview",
+  "valid_label": null,
+  "valid_otu": 85427,
+  "verified": false
+ },
+ "Globitermes vadaensis": {
+  "label": "Globitermes vadaensis Kemner, 1934",
+  "match": "exact",
+  "notes": "",
+  "otu": 85428,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85428/overview",
+  "valid_label": null,
+  "valid_otu": 85428,
+  "verified": false
+ }
+}

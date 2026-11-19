@@ -1,0 +1,134 @@
+{
+ "Astratotermes aneristus": {
+  "gbif": {
+   "key": 9717107,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astratotermes aneristus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "J3MV",
+   "status": "accepted",
+   "label": "Astratotermes aneristus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234948",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astratotermes apocnetus": {
+  "gbif": {
+   "key": 9800923,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astratotermes apocnetus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "J3MW",
+   "status": "accepted",
+   "label": "Astratotermes apocnetus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234949",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astratotermes hilarus": {
+  "gbif": {
+   "key": 9653635,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astratotermes hilarus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "J3MX",
+   "status": "accepted",
+   "label": "Astratotermes hilarus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234950",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astratotermes mansuetus": {
+  "gbif": {
+   "key": 9786337,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astratotermes mansuetus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "J3MY",
+   "status": "accepted",
+   "label": "Astratotermes mansuetus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234952",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astratotermes pacatus": {
+  "gbif": {
+   "key": 9768425,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astratotermes pacatus Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "J3MZ",
+   "status": "accepted",
+   "label": "Astratotermes pacatus Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234953",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astratotermes prosenus": {
+  "gbif": {
+   "key": 9703222,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astratotermes prosenus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "J3N2",
+   "status": "accepted",
+   "label": "Astratotermes prosenus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234954",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

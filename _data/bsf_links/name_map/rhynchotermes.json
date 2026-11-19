@@ -1,0 +1,90 @@
+{
+ "Rhynchotermes amazonensis": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Rhynchotermes armatus": {
+  "label": "Rhynchotermes armatus Scheffrahn, 2019",
+  "match": "exact",
+  "notes": "",
+  "otu": 569656,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/569656/overview",
+  "valid_label": null,
+  "valid_otu": 569656,
+  "verified": false
+ },
+ "Rhynchotermes bulbinasus": {
+  "label": "Rhynchotermes bulbinasus Scheffrahn, 2010",
+  "match": "exact",
+  "notes": "",
+  "otu": 84241,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84241/overview",
+  "valid_label": null,
+  "valid_otu": 84241,
+  "verified": false
+ },
+ "Rhynchotermes diphyes": {
+  "label": "Rhynchotermes diphyes Mathews, 1977",
+  "match": "exact",
+  "notes": "",
+  "otu": 84242,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84242/overview",
+  "valid_label": null,
+  "valid_otu": 84242,
+  "verified": false
+ },
+ "Rhynchotermes matraga": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 84240 Rhynchotermes Holmgren, 1912；OTU 782405 Rhynchotermes major (Snyder, 1925) now Rhynchotermes perarmatus (Snyder, 1925)",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Rhynchotermes nasutissimus": {
+  "label": "Rhynchotermes nasutissimus (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84244,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84244/overview",
+  "valid_label": null,
+  "valid_otu": 84244,
+  "verified": false
+ },
+ "Rhynchotermes perarmatus": {
+  "label": "Rhynchotermes perarmatus (Snyder, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84246,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84246/overview",
+  "valid_label": null,
+  "valid_otu": 84246,
+  "verified": false
+ },
+ "Rhynchotermes piauy": {
+  "label": "Rhynchotermes piauy Cancello, 1997",
+  "match": "exact",
+  "notes": "",
+  "otu": 84247,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84247/overview",
+  "valid_label": null,
+  "valid_otu": 84247,
+  "verified": false
+ }
+}

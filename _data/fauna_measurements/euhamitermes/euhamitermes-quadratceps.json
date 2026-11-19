@@ -1,0 +1,38 @@
+{
+ "book_n": "325",
+ "book_name": "方头亮白蚁 Euhamitermes quadratceps",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "postmentum_length",
+     "value": "1.00"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.35"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "0.40"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.67"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.00"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 1471,
+   "unit": "mm"
+  }
+ ]
+}

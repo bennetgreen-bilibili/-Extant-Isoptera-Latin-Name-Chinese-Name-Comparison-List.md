@@ -1,0 +1,57 @@
+{
+ "latin": "Epicalotermes",
+ "zh": "上木白蚁属",
+ "fetched_at": "2026-10-30T16:53:35Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2964744497",
+   "openalex_url": "https://openalex.org/W2964744497",
+   "doi": "",
+   "doi_url": "",
+   "title": "New species of the genera Allotermes Wasmann, Bicornitermes Krishna, Epicalotermes Silvestri, and Procryptotermes Holmgren",
+   "year": 1962,
+   "date": "1962-10-20",
+   "authors": [
+    "K Niyogi Krishna"
+   ],
+   "venue": "",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "2119",
+   "issue": "",
+   "pages": "1-25",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2185701481",
+   "openalex_url": "https://openalex.org/W2185701481",
+   "doi": "",
+   "doi_url": "",
+   "title": "The Urban termite fauna (Isoptera) of Jeddah City, Western Saudi Arabia",
+   "year": 2013,
+   "date": "2013-01-01",
+   "authors": [
+    "Abdel Rahman",
+    "A. A. Faragalla",
+    "King Fahd"
+   ],
+   "venue": "",
+   "type": "article",
+   "language": "en",
+   "cited_by": 9,
+   "oa_url": "",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "Recent field investigations on subterranean termites in Saudi Arabia showed the presence of a total of 19 species belonging to 10 genera categorized into 4 basic families (Kalotermitidae Hodotermitidae, Rhinotermitidae, and Termitidae). Three families belong to the lower termites and the 4 th belong to the higher advanced family Termitidae. Ten major species were reported from the metropolitan Jeddah city, which are considered endemic with one introduced species Epicalotermes aethiopicus that belongs to the dry wood termites which are believed to be inadvertently imported from country of origin with shipments of wood and timber. The main urban fauna within the city limits included 5 genera (Epicolotermes, Psammotermes, Anacanthotermes, Microcerotermes, and Microtermes). Among these four dominant species were considered permanent native (endemic) residents and represented ( 9 species or 90%) including Microtermes najdensis Harris which belongs to the higher termites (Termitidae),two harvester termites Anacanthotermes ochraceous and A. vagans and the sand termite Psammotermes hybostoma (Desneux). The rural (suburban) fauna on the marginal land is composed of 5 species including the former harvester termites, two sand termites Psammotermes hybostoma and P. fuscofemoralis and Microtermes najdensis which represent 50% of the rural fauna. All these species were predominantly subterranean feeding on a diverse variety of food sources of cellulosic origin on dead and living plants. The annual monetary losses in human properties have reached grave concern leading to initiate prophylactic and preventive measures. (Abdel Rahman A. Faragalla and Mohamed H. Al Qhtani.. The Urban termite fauna (Isoptera) of Jeddah City, Western Saudi Arabia. Life Sci J 2013; 10(4): 1695-1701). (ISSN: 1097-8135). http://www.lifesciencesite.com. 224",
+   "abstract_source": "openalex",
+   "abstract_chars": 1847,
+   "abstract_truncated": false
+  }
+ ]
+}

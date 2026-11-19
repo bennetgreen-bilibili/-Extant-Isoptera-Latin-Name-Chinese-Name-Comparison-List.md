@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "兵蚁形态与冈比亚新记录",
+   "heading_en": "Soldier morphology and the new record from The Gambia",
+   "heading_es": "Morfología del soldado y el nuevo registro de Gambia",
+   "paragraphs": [
+    {
+     "text": "根据 Ndiaye、Njie 与 Correa（2019）研究，拉长真唇白蚁弓形亚种（<i>Euchilotermes tensus arcuata</i>）兵蚁头部明显呈长方形，黄色，上颚浅褐色且强烈弯曲，上唇长而宽、末端具 2 个大的圆形叶；量度（毫米，n = 6）为头长 1.76–1.85（均值 1.82）、头宽 1.16–1.24（均值 1.21）、左上颚长 1.15–1.19（均值 1.17）、后足胫节长 0.89–0.97（均值 0.91）；工蚁（n = 4）头长 0.75–0.84（均值 0.79）、头宽 0.81–0.88（均值 0.84）、后足胫节长 0.77–0.84（均值 0.81）。该亚种在冈比亚的 Abuko 自然保护区、Nyambai 森林公园与 Tanji 鸟类保护区被记录，为该国新记录，并作为客居者出现在方白蚁属（<i>Cubitermes</i>）蘑菇状蚁巢内。该研究认为，依属内各种所用的鉴别特征，该亚种应提升为种。",
+     "src": [
+      "S0346"
+     ],
+     "text_en": "In the study by Ndiaye, Njie and Correa (2019), soldiers of <i>Euchilotermes tensus arcuata</i> have a distinctly rectangular, yellowish head, light brown strongly curved mandibles and a long, wide labrum with two large rounded apical lobes; measurements (mm, n = 6) are head length 1.76-1.85 (mean 1.82), head width 1.16-1.24 (mean 1.21), left mandible length 1.15-1.19 (mean 1.17) and hind tibia length 0.89-0.97 (mean 0.91); workers (n = 4) have head length 0.75-0.84 (mean 0.79), head width 0.81-0.88 (mean 0.84) and hind tibia length 0.77-0.84 (mean 0.81). The subspecies was recorded in Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve in The Gambia, a new record for the country, and occurs as an inquiline in mushroom-shaped nests of <i>Cubitermes</i>. The study concludes that, on the distinctive features used for species in the genus, the subspecies should be elevated to species rank.",
+     "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), los soldados de <i>Euchilotermes tensus arcuata</i> tienen cabeza claramente rectangular y amarillenta, mandíbulas castaño claro muy curvadas y labro largo y ancho con dos lóbulos apicales grandes y redondeados; las medidas (mm, n = 6) son longitud de la cabeza 1.76-1.85 (media 1.82), anchura de la cabeza 1.16-1.24 (media 1.21), longitud de la mandíbula izquierda 1.15-1.19 (media 1.17) y longitud de la tibia posterior 0.89-0.97 (media 0.91); los obreros (n = 4) tienen longitud de la cabeza 0.75-0.84 (media 0.79), anchura 0.81-0.88 (media 0.84) y tibia posterior 0.77-0.84 (media 0.81). La subespecie se registró en la Reserva Natural de Abuko, el Parque Forestal de Nyambai y la Reserva de Aves de Tanji, en Gambia, un registro nuevo para el país, y aparece como inquilina en nidos en forma de seta de <i>Cubitermes</i>. El estudio concluye que, según los caracteres distintivos usados para las especies del género, la subespecie debería elevarse a especie."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0346",
+   "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+   "doi": "10.3390/insects10050122"
+  }
+ ]
+}

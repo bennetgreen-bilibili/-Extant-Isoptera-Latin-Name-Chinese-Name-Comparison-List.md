@@ -1,0 +1,43 @@
+{
+ "book_n": "337",
+ "book_name": "短角球白蚁 Globitermes brachycerastes",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "短角球白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.09",
+     "value": "1.04–1.12"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.91",
+     "value": "0.87–0.95"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "0.39",
+     "value": "0.35–0.42"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.83",
+     "value": "0.77–0.87"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.02",
+     "value": "0.99–1.12"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 156,
+   "unit": "mm"
+  }
+ ]
+}

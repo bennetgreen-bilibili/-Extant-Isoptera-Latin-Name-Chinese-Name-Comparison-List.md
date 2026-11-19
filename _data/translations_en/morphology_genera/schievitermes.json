@@ -1,0 +1,21 @@
+{
+ "note": "The genus-level Description is divided into Imago (queen only)/Soldier/Worker, and the Diagnosis likewise has two parts, Soldier (compared with the Neotropical snappers) and Worker (wood-feeding mandibles and gut). The bibliographic data conflict: the Pensoft page gives the citation as ZooKeys 1125: 103–124, whereas the fpage/lpage in the XML are 103–114; this batch follows the latter.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Among the Neotropical snappers, the soldier is distinguished from Termes, Inquilinitermes, Cavitermes, Palmitermes, Dihoplotermes and Cornicapritermes by the absence of a frontal projection; Planicapritermes has a flattened head capsule and strongly asymmetrical mandibles; it differs from Crepititermes in the stouter mandibles, which show a slight but distinct asymmetry, and in the bulbous third antennal segment; the species of Neocapritermes are all larger (head width >1 mm), with 15–16 antennal segments (13 in this genus), and the mandibular asymmetry is always stronger. The worker mandibles are of the wood-feeding type, with a short gap between the apical tooth and the first marginal tooth and well-developed molar ridges; the digestive tract resembles that of Planicapritermes, but the bilobed tip of the mesenteric part of the mixed segment is characteristic of this genus; Neocapritermes also has two mesenteric lobes, but its mixed segment is shorter and the lobes are larger and farther apart. The differentiation of the P3 cuticle is intermediate between Neocapritermes (long spines and filaments) and Planicapritermes (minute spines)."
+  },
+  {
+   "label": "Alate",
+   "text": "At genus level only a single queen is known (only known from a single queen); the original gives no separate genus-level description but refers to the species-level description. Nothing is added here."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head capsule subquadrate with rounded angles, about twice as long as wide, with about 100 setae. Mandibles about as long as the head capsule, rather stout, of the snapping type; right mandible nearly straight, only slightly incurved; left mandible slightly but distinctly curved: outer margin slightly concave at the base, convex in the middle, concave again where it contacts the right mandible, incurved at the tip. Tips of both mandibles hooked, turned inwards by about 60°. Antennae 13-segmented, the last segment extending beyond the tip of the left mandible; third segment distinctly bulbous, as wide as the first segment and wider than the remaining segments. Labrum nearly parallel-sided, anterior margin wavy with a convex middle, bearing a few long setae, anterolateral angles rounded. Frons without a projection."
+  },
+  {
+   "label": "Worker",
+   "text": "Monotypic. Head capsule white, with numerous setae. Mandibles of the wood-feeding type: in the left mandible the A–M1+2 gap is about half the M1+2–M3 gap; M3 distinct, the premolar tooth (sensu Deligne 1999) blade-like, molar ridges well developed. Right mandible: A–M1 gap short, M2 distinct, molar ridges well developed. Crop moderately developed; gizzard of the broad type, the cuticular armature restricted to small comb-like scales on the pulvilli. Mixed segment long, mesenteric tongue bilobed at its tip. P1 slightly swollen, narrowing posteriorly into P2. Enteric valve (P2) funnel-shaped, conical at the end of P1, forming a narrow tube where it meets P3; the armature consists of two rings of spines: the proximal ring lies on the conical part of P2 and consists of 3 oval cushions alternating with slender cushions, all bearing small triangular spines; the distal ring lies in the narrow tubular part and consists of 6 cushions of alternating length bearing fine, curved spines. P3 large, its wall bearing many small spines, longer on the rounded posterior part near the P2 opening, short and often comb-like on the anterior part where it narrows towards P4."
+  }
+ ]
+}

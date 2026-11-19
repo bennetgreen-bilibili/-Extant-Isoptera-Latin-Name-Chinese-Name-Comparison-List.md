@@ -1,0 +1,58 @@
+{
+ "book_n": "220",
+ "book_name": "细颚杆白蚁 Stylotermes angustignathus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.55",
+     "value": "1.46–1.65"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.22",
+     "value": "1.15–1.26"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.32",
+     "value": "0.25–0.35"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.41",
+     "value": "0.40–0.45"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.66",
+     "value": "1.60–1.70"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.99",
+     "value": "1.68–2.15"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.28",
+     "value": "1.20–1.41"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.12",
+     "value": "1.05–1.22"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 480,
+   "unit": "mm"
+  }
+ ]
+}

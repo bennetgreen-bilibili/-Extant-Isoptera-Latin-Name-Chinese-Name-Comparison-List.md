@@ -1,0 +1,21 @@
+{
+ "zh_name": "小锯白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "前胸背板前缘仅微凹；M. progrediens 前胸背板前缘凹缺显著，头侧较圆；M. acerbus 头明显更长；M. debilicornis 与本种接近，但头较长而窄；M. zuluensis 亦极近，头似乎较短。Fuller 认为纳塔尔以外的记录尚待证实，眼前标本可能误定，但其描述与 Garamba 标本完全吻合，合模兵蚁亦相符。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头红黄色，长方形；两侧平直而平行；后缘圆。触角 13 节，第 3 节几乎与第 4 节等长，但基部明显较窄，第 2 节长于第 4 节。上颚红褐色，内缘具齿。前胸背板前缘凹缺甚弱。头长（连上颚）2.10 mm；头宽 0.78 mm；触角长 1.10 mm；前胸背板长 0.26 mm、宽 0.50 mm；后胫节长 0.62 mm；左上颚长 0.82 mm。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写；原文语言为英文，仅有兵蚁，未记工蚁与有翅成虫；描述基于 2 头成熟兵蚁与 2 头未成熟兵蚁；删去图号、产地与卷末地名表。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

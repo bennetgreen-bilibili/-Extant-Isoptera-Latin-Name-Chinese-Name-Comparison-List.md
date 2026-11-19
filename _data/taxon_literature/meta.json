@@ -1,0 +1,61 @@
+{
+ "description": "按页面 URL 存放人工整理的研究记述，由 _includes/taxon-literature.html 渲染。每个 section/paragraph 同时保存中文、英文、西班牙文三种文本（heading_en/heading_es、text_en/text_es），页面上的按钮按 section 局部切换；每个 src 指向 .sources 中的 Sxxxx 存档记录。",
+ "schema": {
+  "/genus/foo/": {
+   "updated": "YYYY-MM-DD",
+   "sections": [
+    {
+     "heading": "中文小节标题",
+     "heading_en": "English section heading",
+     "heading_es": "Título de sección en español",
+     "paragraphs": [
+      {
+       "text": "根据……研究，……",
+       "text_en": "According to …",
+       "text_es": "Según …",
+       "src": [
+        "S0001"
+       ]
+      }
+     ]
+    }
+   ],
+   "references": [
+    {
+     "id": "S0001",
+     "citation": "作者. 年份. 标题. 刊名/出版社.",
+     "url": "https://example.org/..."
+    }
+   ]
+  }
+ },
+ "updated": "2026-11-18",
+ "last_batch": {
+  "date": "2026-11-18",
+  "round": "daily",
+  "pages": 286,
+  "batch_pages": 26,
+  "units": 20,
+  "chunks": 15,
+  "abstracts": 5,
+  "sources": [
+   "S0353",
+   "S0354",
+   "S0355",
+   "S0357",
+   "S0359",
+   "S0360",
+   "S0361",
+   "S0362",
+   "S0363",
+   "S0364",
+   "S0365",
+   "S0367"
+  ]
+ },
+ "languages": [
+  "zh-CN",
+  "en",
+  "es"
+ ]
+}

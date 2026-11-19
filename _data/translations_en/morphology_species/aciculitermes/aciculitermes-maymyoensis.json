@@ -1,0 +1,13 @@
+{
+ "note": "Adapted from the species description by Chhotani (1997); originally in English; the alate is unknown, only the soldier is known and no worker description was available; measurements are recorded as legible in the text; literature citations, distribution records and figure numbers are not translated.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head pale yellow; nasus brown; antennae pale yellowish brown. Head rather hairy; anterior half of the nasus hairy, posterior half bare; pronotum sparsely hairy, abdomen with several rows of short hairs. Head capsule pear-shaped; longer than wide excluding the nasus (length including nasus 1.56–1.61, length excluding nasus about 0.90 mm, maximum width 0.75–0.79 mm); in lateral view with a weak swelling behind the nasus. Nasus slender, cylindrical, 0.65–0.69 mm long, about 2/3 the length of the head (excluding the nasus). Antennae 12-segmented; segment 3 about as long as segment 2 or 4. Mandibles reduced, without points. Pronotum saddle-shaped, anterior margin without a notch. Fore tibia slightly inflated."
+  },
+  {
+   "label": "Other",
+   "text": "Ahmad (1965) assigned specimens from Khao Yai, Thailand, to this species and provided a soldier description and figures, but according to his description and measurements those soldiers are smaller, more hairy on the head, with short points on the sides of the nasus, the head slightly constricted behind the antennae and without a swelling in lateral view; they are therefore referred to another species and excluded from this one."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "zh_name": "窄翅土白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "本种迄今仅知有翅成虫。有翅成虫与 T. buchholzi 甚为相似，区别在于本种的翅更长而更窄，二者的差别主要落在翅的长宽比例上，而非翅脉的分支方式。前翅中脉与亚中脉相接之点位于翅的近基部，而不在翅的中部，故自该相接点至翅基之间通常只有2–3条副支；相接点近基与副支数目少，是本种翅脉上最显著而易于观察的性状。翅脉的走向在两种之间大体一致，差别集中在翅的长宽比例与副支的疏密上；本种的翅形因而显得狭长。翅展55–57 mm，连翅体长29–31 mm，翅长26–27 mm，体连头长12–14 mm。"
+  }
+ ],
+ "note": "据 Sjöstedt (1900) 对 Termes angustipennis 的原始描述改写，原文含拉丁诊断与德文描述；原文仅记述有翅成虫，兵蚁与工蚁未记；翅宽数字因 OCR 残缺未录，标本记录未译。",
+ "sources": [
+  {
+   "id": "S0118",
+   "citation": "Sjöstedt Y. 1900. Monographie der Termiten Afrikas. https://archive.org/details/bub_gb_nyUqAAAAYAAJ",
+   "locator": "条目（Monographie-der-Termiten-Afrikas）"
+  }
+ ]
+}

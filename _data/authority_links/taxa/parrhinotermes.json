@@ -1,0 +1,288 @@
+{
+ "Parrhinotermes aequalis": {
+  "gbif": {
+   "key": 9669093,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parrhinotermes aequalis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4DT5F",
+   "status": "accepted",
+   "label": "Parrhinotermes aequalis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253525",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parrhinotermes barbatus": {
+  "gbif": {
+   "key": 9001692,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parrhinotermes barbatus Bourguignon & Roisin, 2011",
+   "accepted": null
+  },
+  "col": {
+   "id": "4DT5G",
+   "status": "accepted",
+   "label": "Parrhinotermes barbatus Bourguignon & Roisin, 2011",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q106676319",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parrhinotermes browni": {
+  "gbif": {
+   "key": 9515596,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parrhinotermes browni (Harris, 1958)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4DT5H",
+   "status": "accepted",
+   "label": "Parrhinotermes browni (Harris, 1958)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253527",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parrhinotermes buttelreepeni": {
+  "gbif": {
+   "key": 8770256,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parrhinotermes buttelreepeni Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "4DT5J",
+   "status": "accepted",
+   "label": "Parrhinotermes buttelreepeni Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253528",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parrhinotermes inaequalis": {
+  "gbif": {
+   "key": 9651678,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parrhinotermes inaequalis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4DT5K",
+   "status": "accepted",
+   "label": "Parrhinotermes inaequalis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253529",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parrhinotermes khasii": {
+  "gbif": {
+   "key": 9670424,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parrhinotermes khasii Roonwal & Sen-Sarma, 1956",
+   "accepted": null
+  },
+  "col": {
+   "id": "4DT5L",
+   "status": "accepted",
+   "label": "Parrhinotermes khasii Roonwal & Sen-Sarma, 1956",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253531",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parrhinotermes microdentiformis": {
+  "gbif": {
+   "key": 9804372,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parrhinotermes microdentiformis Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "4DT5M",
+   "status": "accepted",
+   "label": "Parrhinotermes microdentiformis Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253532",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parrhinotermes microdentiformisoides": {
+  "gbif": {
+   "key": 9701255,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parrhinotermes microdentiformisoides Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "4DT5N",
+   "status": "accepted",
+   "label": "Parrhinotermes microdentiformisoides Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253533",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parrhinotermes minor": {
+  "gbif": {
+   "key": 9699874,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parrhinotermes minor Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "4DT5P",
+   "status": "accepted",
+   "label": "Parrhinotermes minor Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253535",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parrhinotermes pygmaeus": {
+  "gbif": {
+   "key": 9732559,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parrhinotermes pygmaeus John, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "4DT5Q",
+   "status": "accepted",
+   "label": "Parrhinotermes pygmaeus John, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253537",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parrhinotermes queenslandicus": {
+  "gbif": {
+   "key": 4802745,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parrhinotermes queenslandicus Mjöberg, 1920",
+   "accepted": null
+  },
+  "col": {
+   "id": "4DT5R",
+   "status": "accepted",
+   "label": "Parrhinotermes queenslandicus Mjöberg, 1920",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q111961744",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parrhinotermes ruiliensis": {
+  "gbif": {
+   "key": 9688019,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parrhinotermes ruiliensis Tsai & Huang, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "4DT5S",
+   "status": "accepted",
+   "label": "Parrhinotermes ruiliensis Tsai & Huang, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253538",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parrhinotermes shamimi": {
+  "gbif": {
+   "key": 9720447,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parrhinotermes shamimi Bose, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "4DT5T",
+   "status": "accepted",
+   "label": "Parrhinotermes shamimi Bose, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253540",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

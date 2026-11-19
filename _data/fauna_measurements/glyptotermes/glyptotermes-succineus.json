@@ -1,0 +1,63 @@
+{
+ "book_n": "42",
+ "book_name": "琥珀树白蚁 Glyptotermes succineus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "琥珀树白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.20",
+     "value": "1.16–1.27"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.06",
+     "value": "1.02–1.13"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.26",
+     "value": "0.19–0.30"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.34",
+     "value": "0.32–0.36"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.89",
+     "value": "0.88–0.92"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.21",
+     "value": "0.20–0.23"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.64",
+     "value": "0.64–0.66"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.06",
+     "value": "1.03–1.10"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.94",
+     "value": "0.94–0.95"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 913,
+   "unit": "mm"
+  }
+ ]
+}

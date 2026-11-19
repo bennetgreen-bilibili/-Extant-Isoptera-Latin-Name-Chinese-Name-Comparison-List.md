@@ -1,0 +1,74 @@
+{
+ "book_n": "54",
+ "book_name": "福建新白蚁 Neotermes fujianensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "福建新白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "3.05"
+    },
+    {
+     "key": "head_max_width",
+     "value": "1.87"
+    },
+    {
+     "key": "head_height",
+     "value": "1.61"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.16"
+    },
+    {
+     "key": "labrum_width",
+     "value": "0.45"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "1.74"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "2.30"
+    },
+    {
+     "key": "postmentum_width",
+     "value": "1.31"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.76"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.23"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "0.97"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.84"
+    },
+    {
+     "key": "mesonotum_width",
+     "value": "1.85"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.91"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 1217,
+   "unit": "mm"
+  }
+ ]
+}

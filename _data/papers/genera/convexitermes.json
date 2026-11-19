@@ -1,0 +1,80 @@
+{
+ "latin": "Convexitermes",
+ "zh": "凸白蚁属",
+ "fetched_at": "2026-10-30T16:53:22Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2075268531",
+   "openalex_url": "https://openalex.org/W2075268531",
+   "doi": "10.1080/00379271.2003.10697373",
+   "doi_url": "https://doi.org/10.1080/00379271.2003.10697373",
+   "title": "Paraconvexitermes acangapua(Isoptera: Termitidae, Nasutitermitinae), a new genus and new species of the so-called “small Neotropical soil-feeding nasutes” from South America",
+   "year": 2003,
+   "date": "2003-01-01",
+   "authors": [
+    "Eliana M. Cancello",
+    "Charles Noirot"
+   ],
+   "venue": "Annales de la Société entomologique de France (N S )",
+   "type": "article",
+   "language": "fr",
+   "cited_by": 7,
+   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/00379271.2003.10697373?needAccess=true&role=button",
+   "volume": "39",
+   "issue": "2",
+   "pages": "187-193",
+   "abstract": "A new genus Paraconvexitermes is described, comprising Paraconvexitermes acangapua, new species, P. nigricornis (Holmgren) and P. junceus (Emerson), both previously in Convexitermes Holmgren. Now, Convexitermes comprises C. manni Emerson and C. convexifrons (Holmgren). The worker’s digestive tube of both genera along with those of Atlantitermes species allowed to get a better definition of these three genera. Illustrations on the digestive tube and mandibles of workers, soldier’s head, alate’s head and secondary reproductive female of the new genus and species are provided. The phylogenetic relationships with the other nasute genera are discussed along with the “soil feeding” concept.",
+   "abstract_source": "openalex",
+   "abstract_chars": 693,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W1976254228",
+   "openalex_url": "https://openalex.org/W1976254228",
+   "doi": "10.1590/s0101-81751986000400003",
+   "doi_url": "https://doi.org/10.1590/s0101-81751986000400003",
+   "title": "Morphology of the alate and worker mandibles of the soil-feeding nasute termites (Isoptera, Termitidae, Nasutitermitinae) from the neotropical region",
+   "year": 1986,
+   "date": "1986-01-01",
+   "authors": [
+    "Luiz Roberto Fontes"
+   ],
+   "venue": "Revista Brasileira de Zoologia",
+   "type": "article",
+   "language": "en",
+   "cited_by": 40,
+   "oa_url": "https://www.scielo.br/j/rbzool/a/JRXTFPSC3PYkQ47mZJdHNWy/?lang=en&format=pdf",
+   "volume": "3",
+   "issue": "8",
+   "pages": "503-531",
+   "abstract": "The morphology of the mandibles of the alates and workers of the 8 soil-feeding genera with nasute soldiers from the Neotropical Region is studied. Three mandibular patterns are recognized: (1) Convexitermes, Atlantitermes, Araujotermes, Coatitermes, Subulitermes and Agnathotermes have mandibles with complete marginal dentition and no reduced teeth, (2) Angularitermes has mandibles with complete marginal dentition but two teeth are vestigial, and in (3) Cyronotermes the marginal dentition is incomplete. A set of other characteristics is associated with each of these mandibular patterns. Intraspecific variation are registered, either between the alate and the worker castes of all genera, as between the worker types of the dimorphic worker caste of the genera with complete and developed marginal dentition. Such dimorphism was previously unreported for the soil-feeding Nasutitermitinae; the soldier arises from one worker type.",
+   "abstract_source": "openalex",
+   "abstract_chars": 937,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2020165484",
+   "openalex_url": "https://openalex.org/W2020165484",
+   "doi": "10.1590/s0101-81751986000400002",
+   "doi_url": "https://doi.org/10.1590/s0101-81751986000400002",
+   "title": "Morphology of the worker digestive tube of the soil-feeding nasute termites (Isoptera, Termitidae, Nasutitermitinae ) from the neotropical region",
+   "year": 1986,
+   "date": "1986-01-01",
+   "authors": [
+    "Luiz Roberto Fontes"
+   ],
+   "venue": "Revista Brasileira de Zoologia",
+   "type": "article",
+   "language": "en",
+   "cited_by": 19,
+   "oa_url": "https://www.scielo.br/j/rbzool/a/97N8F8Sk9YPdhgyHJKQvsQy/?lang=en&format=pdf",
+   "volume": "3",
+   "issue": "8",
+   "pages": "475-501",
+   "abstract": "The morphology of the parts and the configuration in situ of the worker digestibe tube of the 8 soilfeeding genera with nasute solidiers from the Neotropical Region are studied. All genera showed a reduced or incomplete gizzard armature, a tubular first proctodeal segment terminating in the left half of the abdomen, an enteric valve armature with trilateral symmetry and often with strong spines, a paunch of two large sections separated by a constriction, and a long colon. In addition, a mixed segment at the mesenteron-proctodeal junction is absent in Convexitermes, Atlantitermes, Araujotermes, Coatitermes, Subulitermes and Agnathotermes, and present in Cyranotermes and Angularitermes, the latter having also a gizzard armature stronger than usual in the soilfeeding nasutes. The coiling of the gut and the morphology of some gut parts provide a good means for the identification of undissected workers of all genera.",
+   "abstract_source": "openalex",
+   "abstract_chars": 925,
+   "abstract_truncated": false
+  }
+ ]
+}

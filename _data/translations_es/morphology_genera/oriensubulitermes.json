@@ -1,0 +1,17 @@
+{
+ "note": "Comprende 2 especies (inanis, especie tipo, e inaniformis). El original describe las mandíbulas del soldado y del obrero-ninfa, sin examinar alados, por lo que no se incluye esa sección.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Índice mandibular izquierdo 1.06 (obrero-ninfa); el tercer diente marginal de la mandíbula izquierda no es evidente y el segundo de la derecha está casi por completo reducido, lo que lo distingue de todos los demás géneros del linaje oriental de Subulitermes; las mandíbulas del soldado carecen de punta apical."
+  },
+  {
+   "label": "Soldado",
+   "text": "Mandíbulas sin punta apical."
+  },
+  {
+   "label": "Obrero",
+   "text": "(Obrero-ninfa) Índice mandibular izquierdo 1.06; el margen cortante de los dientes marginales 1+2 está uniformemente excavado y no hay escotadura por delante del tercer diente marginal; el segundo diente marginal de la mandíbula derecha está casi por completo reducido; el contorno de la placa molar derecha es ligeramente cóncavo."
+  }
+ ]
+}

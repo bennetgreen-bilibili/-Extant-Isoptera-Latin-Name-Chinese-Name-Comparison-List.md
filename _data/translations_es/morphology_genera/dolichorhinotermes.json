@@ -1,0 +1,17 @@
+{
+ "note": "La sección del alado solo puede basarse en la frase diagnóstica genérica (el 3.er segmento flagelar más corto que el 1.º) y en la descripción de la especie fósil D. apopnus, ya que el original declara explícitamente desconocido el alado de la especie actual. La p. 2 es a dos columnas y la capa de texto se recortó por columnas y se recompuso; los guiones de fin de línea entre palabras (subquad-rate) se han unido sin modificar la redacción.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "En el alado el 3.er segmento flagelar es más corto que el 1.º; en el soldado mayor el labro está manifiestamente alargado y su extremo suele alcanzar el ápice de las mandíbulas, mientras que en Rhinotermes el labro es casi cuadrado y mucho más corto; en el soldado menor la abertura de la glándula frontal se sitúa en la parte anterior de la cabeza pero no se asienta sobre una prominencia cefálica manifiesta, las mandíbulas están reducidas y de bordes redondeados, y los márgenes laterales de la cabeza son rectos o convexos en vista dorsal."
+  },
+  {
+   "label": "Alado",
+   "text": "El 3.er segmento flagelar es más corto que el 1.º. El alado de la especie actual D. lanciarius figura en el original como «Imago. Unknown.»; el alado de la especie fósil D. apopnus: cabeza grande, ancha y redondeada, anteclípeo prolongado hacia delante en una ancha proyección rostral, glándula frontal pequeña y situada en la base del rostro, ojos compuestos grandes y prominentes, ocelos grandes y alargados, sin contacto con los ojos compuestos."
+  },
+  {
+   "label": "Soldado",
+   "text": "Soldado mayor: la parte posterior de la cabeza es más ancha, con los márgenes laterales suavemente redondeados que se estrechan hacia delante; la mandíbula izquierda lleva dos dientes gruesos, el primero algo por delante de la mitad y el segundo algo por detrás, y el primero es manifiestamente más largo que el segundo; los dos dientes de la mandíbula derecha están próximos a la mitad, y el primero es más corto que el segundo; el labro es alargado, de extremo redondeado y sin escotadura, con una depresión longitudinal poco profunda en el dorso; antenas de al menos 14 artejos, con el 3.er segmento flagelar manifiestamente más corto que el 1.º; pronoto en silla de montar. Soldado menor: márgenes laterales de la cabeza débilmente convexos, que se estrechan hacia delante, borde posterior redondeado; antenas de 16 artejos, con el 3.er segmento flagelar manifiestamente más corto que el 1.º; mandíbulas reducidas a anchas láminas carnosas, solo con un diminuto ápice esclerotizado; labro estrecho y largo, bifurcado en el ápice, con las dos proyecciones laterales muy separadas entre sí."
+  }
+ ]
+}

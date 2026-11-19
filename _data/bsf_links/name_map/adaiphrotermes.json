@@ -1,0 +1,35 @@
+{
+ "Adaiphrotermes choanensis": {
+  "label": "Adaiphrotermes choanensis (Fuller, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83916,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83916/overview",
+  "valid_label": null,
+  "valid_otu": 83916,
+  "verified": false
+ },
+ "Adaiphrotermes cuniculator": {
+  "label": "Adaiphrotermes cuniculator Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83917,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83917/overview",
+  "valid_label": null,
+  "valid_otu": 83917,
+  "verified": false
+ },
+ "Adaiphrotermes scapheutes": {
+  "label": "Adaiphrotermes scapheutes Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83918,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83918/overview",
+  "valid_label": null,
+  "valid_otu": 83918,
+  "verified": false
+ }
+}

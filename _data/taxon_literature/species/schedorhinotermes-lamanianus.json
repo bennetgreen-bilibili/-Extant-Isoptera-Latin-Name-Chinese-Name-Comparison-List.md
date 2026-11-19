@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "三类外分泌腺",
+   "heading_en": "Three exocrine gland systems",
+   "heading_es": "Tres sistemas de glándulas exocrinas",
+   "paragraphs": [
+    {
+     "src": [
+      "S0215"
+     ],
+     "text": "据摘要，Kaib（1990）对拉曼长鼻白蚁（<i>Schedorhinotermes lamanianus</i>）化学信号的综述指出，该种具腹板腺、唇腺与额腺三类外分泌腺；其分泌物中的挥发性成分以情境依赖的方式调节工蚁与兵蚁的品级特异行为，这些信号同时具有种内与种间功能，并可相互影响。",
+     "text_en": "According to the abstract of Kaib's (1990) review of chemical signals in <i>Schedorhinotermes lamanianus</i>, the species possesses three exocrine gland systems — the sternal gland, the labial gland and the frontal gland; volatile components of their secretions modulate caste-specific behaviour of workers and soldiers in a context-dependent manner, and these signals serve both intraspecific and interspecific functions and can interact with one another.",
+     "text_es": "Según el resumen de la revisión de Kaib (1990) sobre las señales químicas de <i>Schedorhinotermes lamanianus</i>, la especie posee tres sistemas de glándulas exocrinas —la glándula esternal, la glándula labial y la glándula frontal—; los componentes volátiles de sus secreciones modulan el comportamiento específico de casta de obreras y soldados de manera dependiente del contexto, y estas señales cumplen funciones tanto intraespecíficas como interespecíficas y pueden interactuar entre sí."
+    }
+   ]
+  },
+  {
+   "heading": "两种信息素的相互作用",
+   "heading_en": "Interaction between two pheromones",
+   "heading_es": "Interacción entre dos feromonas",
+   "paragraphs": [
+    {
+     "src": [
+      "S0221"
+     ],
+     "text": "据摘要，Reinhard 与 Kaib（1995）发现，工蚁沿觅食道行进时以腹板腺分泌物定向并招募同伴；取食者把唇腺分泌的非挥发性物质留在食物上，刺激更多工蚁在同一处取食而形成聚集；腹板腺的挥发性信号以剂量依赖方式抑制唇腺的持久信号，既能阻止新聚集形成，也能解散已有聚集。这是首次证明两种信息素之间存在这种相互作用，行为实验还显示腹板腺挥发物由嗅觉神经元感知，而唇腺非挥发物由触角味觉神经元感知。",
+     "text_en": "According to the abstract of Reinhard and Kaib (1995), workers orientate and recruit nestmates along foraging trails by means of sternal gland secretions; feeders deposit non-volatile labial gland material on the food, which stimulates further workers to feed at the same spot and form aggregations; the volatile sternal gland signal suppresses the persistent labial gland signal in a dose-dependent way, both preventing new aggregations and dispersing existing ones. This was the first demonstration of such an interaction between two pheromones, and behavioural experiments indicated that the sternal volatiles are perceived by olfactory neurons while the labial non-volatiles are perceived by antennal contact chemoreceptors.",
+     "text_es": "Según el resumen de Reinhard y Kaib (1995), las obreras se orientan y reclutan a sus compañeras a lo largo de los senderos de forrajeo mediante secreciones de la glándula esternal; los individuos que se alimentan depositan material no volátil de la glándula labial sobre el alimento, lo que estimula a más obreras a alimentarse en el mismo punto y formar agregaciones; la señal volátil de la glándula esternal suprime la señal persistente de la glándula labial de forma dependiente de la dosis, tanto impidiendo nuevas agregaciones como dispersando las existentes. Fue la primera demostración de esta interacción entre dos feromonas, y los experimentos conductuales indicaron que los volátiles esternales son percibidos por neuronas olfativas y los no volátiles labiales por quimiorreceptores de contacto antenales."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0215",
+   "citation": "Kaib, M. 1990. Intra- and Interspecific Chemical Signals in the Termite Schedorhinotermes — Production sites, chemistry, and behaviour. In: Sensory Systems and Communication in Arthropods. Birkhäuser Basel.",
+   "doi": "10.1007/978-3-0348-6410-7_5"
+  },
+  {
+   "id": "S0221",
+   "citation": "Reinhard, J.; Kaib, M. 1995. Interaction of pheromones during food exploitation by the termite Schedorhinotermes lamanianus. Physiological Entomology 20(3).",
+   "doi": "10.1111/j.1365-3032.1995.tb00011.x"
+  }
+ ]
+}

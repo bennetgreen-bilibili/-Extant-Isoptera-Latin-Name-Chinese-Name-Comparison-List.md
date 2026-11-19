@@ -1,0 +1,54 @@
+{
+ "book_n": "395",
+ "book_name": "英德葫白蚁 Cucurbitermes yingdeensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "英德葫白蚁王与后量度( mm)",
+   "label_en": "King and queen measurements",
+   "label_es": "Medidas de rey y reina",
+   "label_zh": "王与后量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.20–1.26"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "value": "1.56–1.60"
+    },
+    {
+     "key": "eye_long_diameter",
+     "value": "0.41–0.42"
+    },
+    {
+     "key": "eye_short_diameter",
+     "value": "0.39–0.40"
+    },
+    {
+     "key": "ocellus_long_diameter",
+     "value": "0.18–0.20"
+    },
+    {
+     "key": "ocellus_short_diameter",
+     "value": "0.14–0.16"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.65–0.68"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.33–1.35"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.92–1.97"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 113,
+   "unit": "mm"
+  }
+ ]
+}

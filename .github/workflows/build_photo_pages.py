@@ -22,7 +22,7 @@ title, description and back label are written in that language (Latin names for
 en/es, Chinese names only on the zh pages; `photo_zh` is kept for the species name).
 
 Inputs (all committed):
-    _data/species_photos.json  latin -> [photo, ...]
+    _data/species_photos/      分片（meta.json + species/<属>.json），latin -> [photo, ...]
     _data/taxonomy.json        family / subfamily / genus names and parents
     _species/*.md              front matter (slug, latin, zh, rank, genus_id, family_id)
 
@@ -45,8 +45,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT / "_tools"))
+import shard_io  # noqa: E402
 SPECIES_DIR = ROOT / "_species"
-PHOTOS_JSON = ROOT / "_data" / "species_photos.json"
 TAXONOMY_JSON = ROOT / "_data" / "taxonomy.json"
 PHOTO_TAXA_JSON = ROOT / "_data" / "photo_taxa.json"
 OUT_DIR = ROOT / "photos"
@@ -107,12 +108,12 @@ def load_taxonomy():
 
 
 def load_photos():
-    if not PHOTOS_JSON.is_file():
-        sys.exit("missing %s (run build_species_photos.py --write)" % PHOTOS_JSON)
-    data = json.loads(PHOTOS_JSON.read_text(encoding="utf-8"))
+    if not shard_io.exists("species_photos"):
+        sys.exit("missing _data/species_photos/ (run build_species_photos.py --write)")
+    data = shard_io.load("species_photos")
     species = data.get("species") or {}
     if not isinstance(species, dict):
-        sys.exit("bad shape in %s: species is not an object" % PHOTOS_JSON)
+        sys.exit("bad shape in _data/species_photos/: species is not an object")
     return species
 
 

@@ -1,0 +1,24 @@
+{
+ "Periaciculitermes menglunensis": {
+  "gbif": {
+   "key": 9747830,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Periaciculitermes menglunensis Li, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "76T34",
+   "status": "accepted",
+   "label": "Periaciculitermes menglunensis Li, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084830",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

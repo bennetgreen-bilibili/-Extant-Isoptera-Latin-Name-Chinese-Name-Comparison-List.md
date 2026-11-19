@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "中美洲的同属种",
+   "heading_en": "A congener from Central America",
+   "heading_es": "Un congénere de América Central",
+   "paragraphs": [
+    {
+     "src": [
+      "S0326"
+     ],
+     "text": "据摘要，Scheffrahn 与 Postle（2013）把食刺边白蚁（<i>Marginitermes cactiphagus</i>）的分布记为中美洲，并指出该种与近北区西南部的哈伯德边白蚁（<i>Marginitermes hubbardi</i>）在体型上都不及澳大利亚的遥远边白蚁（<i>Marginitermes absitus</i>）。",
+     "text_en": "According to the abstract, Scheffrahn and Postle (2013) record <i>Marginitermes cactiphagus</i> from Central America and note that this species, like <i>Marginitermes hubbardi</i> of the south-western Nearctic, is smaller than the Australian <i>Marginitermes absitus</i>.",
+     "text_es": "Según el resumen, Scheffrahn y Postle (2013) registran <i>Marginitermes cactiphagus</i> en América Central y señalan que esta especie, al igual que <i>Marginitermes hubbardi</i> del suroeste del Neártico, es menor que la australiana <i>Marginitermes absitus</i>."
+    }
+   ]
+  },
+  {
+   "heading": "模式产地与栖息基质",
+   "heading_en": "Type locality and substrate",
+   "heading_es": "Localidad tipo y sustrato",
+   "paragraphs": [
+    {
+     "text": "据摘要，食刺边白蚁（<i>Marginitermes cactiphagus</i>）由 Myles（1997）据墨西哥南下加利福尼亚（Baja California del Sur）的标本描述为新种；该种栖息于柱状仙人掌的枯死骨架与其他树种木材中，文中图示其兵蚁头壳、上颚、触角、上唇、后颏与前胸背板。",
+     "text_en": "According to the abstract, <i>Marginitermes cactiphagus</i> was described as a new species by Myles (1997) from material collected in Baja California del Sur, Mexico; the species lives in the dead skeletons of columnar cacti and in the wood of other tree species, and the paper illustrates its soldier head capsule, mandibles, antennae, labrum, postmentum and pronotum.",
+     "text_es": "Según el resumen, <i>Marginitermes cactiphagus</i> fue descrita como especie nueva por Myles (1997) a partir de material de Baja California del Sur, México; la especie vive en los esqueletos muertos de cactus columnares y en la madera de otras especies arbóreas, y el trabajo ilustra la cápsula cefálica, las mandíbulas, las antenas, el labro, el postmentón y el pronoto del soldado.",
+     "src": [
+      "S0357"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0326",
+   "citation": "Scheffrahn, R. H.; Postle, A. C. 2013. New termite species and newly recorded genus for Australia: Marginitermes absitus (Isoptera: Kalotermitidae). Australian Journal of Entomology.",
+   "url": "https://doi.org/10.1111/aen.12023"
+  },
+  {
+   "id": "S0357",
+   "citation": "Myles, T. G. 1997. A second species of the drywood termite genus Marginitermes (Isoptera: Kalotermitidae). The Canadian Entomologist.",
+   "url": "https://doi.org/10.4039/ent129757-4"
+  }
+ ]
+}

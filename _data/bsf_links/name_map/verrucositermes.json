@@ -1,0 +1,24 @@
+{
+ "Verrucositermes hirtus": {
+  "label": "Verrucositermes hirtus Deligne, 1983",
+  "match": "exact",
+  "notes": "",
+  "otu": 84963,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84963/overview",
+  "valid_label": null,
+  "valid_otu": 84963,
+  "verified": false
+ },
+ "Verrucositermes tuberosus": {
+  "label": "Verrucositermes tuberosus Emerson, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 84964,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84964/overview",
+  "valid_label": null,
+  "valid_otu": 84964,
+  "verified": false
+ }
+}

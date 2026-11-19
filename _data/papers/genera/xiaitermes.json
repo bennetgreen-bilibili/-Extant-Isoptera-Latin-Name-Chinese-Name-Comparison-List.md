@@ -1,0 +1,33 @@
+{
+ "latin": "Xiaitermes",
+ "zh": "夏氏白蚁属",
+ "fetched_at": "2026-10-30T16:54:53Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W7163887105",
+   "openalex_url": "https://openalex.org/W7163887105",
+   "doi": "10.3390/insects17060602",
+   "doi_url": "https://doi.org/10.3390/insects17060602",
+   "title": "Revisiting a Chinese Endemic Termite Genus of Building Timber Pests: Mitochondrial Genomic and Morphological Dissection and Phylogenetic Positioning of Xiaitermes Gao & He, 1994 (Termitidae: Nasutitermitinae)",
+   "year": 2026,
+   "date": "2026-06-08",
+   "authors": [
+    "Fei Fan Ye",
+    "Yunling Ke",
+    "Zhi-Qiang Li"
+   ],
+   "venue": "Insects",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "https://doi.org/10.3390/insects17060602",
+   "volume": "17",
+   "issue": "6",
+   "pages": "602-602",
+   "abstract": "Xiaitermes Gao & He, 1994 is a small genus within Nasutitermitinae, the largest subfamily of Termitidae. It comprises only two species, both of which are wood-feeding pests endemic to China that damage building timbers and economic crops. However, the morphological similarity between these two species, combined with a lack of molecular data, has made species identification challenging. This study determined the first mitochondrial genomes of Xiaitermes tiantaiensis Gao & He, 1994 and Xiaitermes yinxianensis Gao & He, 1994 (15,867 bp and 15,866 bp in length, respectively), which share 99.9% sequence identity. Comparative mitogenomic analysis revealed an A+T-biased nucleotide composition and codon usage pattern, as well as conserved tRNA secondary structures. Morphological analysis of the soldier caste demonstrated that the apical processes of the mandibles exhibit considerable intraspecific variation and are not diagnostic for species delimitation. Furthermore, the ranges of the seven morphological measurements strongly overlapped. Integrated molecular and morphological evidence confirmed that X. tiantaiensis is a junior synonym of X. yinxianensis. Although phylogenetic analyses based on mitogenomic data only partially resolved relationships among subfamilies within Termitidae, they provided better resolution within Nasutitermitinae and consistently placed Xiaitermes as closely related to Ahmaditermes.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1424,
+   "abstract_truncated": false
+  }
+ ]
+}

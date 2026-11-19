@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "寡脉白蚁科的建立（2024）",
+   "paragraphs": [
+    {
+     "text": "根据 Hellemans 等（2024），寡脉白蚁科（Termitogetonidae stat. nov.）由原鼻白蚁科的寡脉白蚁亚科（Termitogetoninae）提升为科，是单型科，仅含寡脉白蚁属（Termitogeton Desneux, 1904）一属，现存两种，分布于东方区和大洋洲，营木食生活。",
+     "src": [
+      "S0008"
+     ],
+     "text_en": "According to Hellemans et al. (2024), Termitogetonidae (Termitogetonidae stat. nov.) was elevated from the subfamily Termitogetoninae of the former Rhinotermitidae to family rank; it is a monotypic family containing only the genus Termitogeton Desneux, 1904, with two extant species distributed in the Oriental region and Oceania and living as wood feeders.",
+     "text_es": "Según Hellemans et al. (2024), Termitogetonidae (stat. nov.) se eleva a rango de familia a partir de la subfamilia Termitogetoninae de la antigua Rhinotermitidae; es una familia monotípica, con un solo género, Termitogeton Desneux, 1904, dos especies actuales, distribución en la región Oriental y Oceanía y hábitos xilófagos."
+    },
+    {
+     "text": "该科有翅成虫密被毛，头近三角形、后缘波状；兵蚁头心形、密被毛，上颚延长而无缘齿；各品级身体均背腹扁平。",
+     "src": [
+      "S0008"
+     ],
+     "text_en": "In this family the alates are densely hairy, with a nearly triangular head whose posterior margin is wavy; the soldier head is heart-shaped and densely hairy, with elongate mandibles that lack marginal teeth; in every caste the body is dorsoventrally flattened.",
+     "text_es": "En esta familia los imagos están densamente cubiertos de pelos y tienen la cabeza casi triangular, con el borde posterior ondulado; los soldados tienen la cabeza cordiforme y muy pilosa y las mandíbulas alargadas, sin dientes marginales; todas las castas presentan el cuerpo deprimido dorsoventralmente."
+    }
+   ],
+   "heading_en": "Establishment of Termitogetonidae (2024)",
+   "heading_es": "Establecimiento de Termitogetonidae (2024)"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0008",
+   "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
+   "doi": "10.1038/s41467-024-51028-y"
+  }
+ ]
+}

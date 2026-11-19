@@ -1,0 +1,78 @@
+{
+ "book_n": "63",
+ "book_name": "丘颏新白蚁 Neotermes tuberogulus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "丘额新白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "3.56",
+     "value": "3.36–3.77"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "2.30",
+     "value": "2.17–2.46"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.78",
+     "value": "1.65–1.84"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.42",
+     "value": "0.34–0.44"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.57",
+     "value": "0.55–0.58"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.95",
+     "value": "1.90–1.98"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.90",
+     "value": "0.85–0.92"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "1.24",
+     "value": "1.16–1.36"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "2.69",
+     "value": "2.57–2.86"
+    },
+    {
+     "key": "hind_femur_length",
+     "mean": "1.59",
+     "value": "1.45–1.65"
+    },
+    {
+     "key": "hind_femur_width",
+     "mean": "0.63",
+     "value": "0.57–0.68"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.70",
+     "value": "1.55–1.85"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 1453,
+   "unit": "mm"
+  }
+ ]
+}

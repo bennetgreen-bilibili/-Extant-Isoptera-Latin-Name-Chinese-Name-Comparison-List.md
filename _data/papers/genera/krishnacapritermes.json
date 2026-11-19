@@ -1,0 +1,61 @@
+{
+ "latin": "Krishnacapritermes",
+ "zh": "克里希纳扭白蚁属",
+ "fetched_at": "2026-10-30T16:53:53Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2985864837",
+   "openalex_url": "https://openalex.org/W2985864837",
+   "doi": "10.1080/00305316.2019.1683091",
+   "doi_url": "https://doi.org/10.1080/00305316.2019.1683091",
+   "title": "Two new species of an Indian endemic genus Krishnacapritermes Chhotani (Isoptera: Termitidae) from the Kerala part of the Western Ghats, India",
+   "year": 2019,
+   "date": "2019-11-10",
+   "authors": [
+    "Poovoli Amina",
+    "Keloth Rajmohana",
+    "Savithramma P. Dinesh‐Kumar",
+    "G. Asha",
+    "Palatty Allesh Sinu",
+    "Jobin Mathew"
+   ],
+   "venue": "Oriental Insects",
+   "type": "article",
+   "language": "en",
+   "cited_by": 8,
+   "oa_url": "",
+   "volume": "54",
+   "issue": "4",
+   "pages": "496-513",
+   "abstract": "Krishnacapritermes Chhotani (Isoptera: Termitidae) is one of the endemic termite genera from the Western Ghats of India. Under the genus, only two species Krishnacapritermes maitii Chhotani and Krishnacapritermes thakuri Chhotani were known earlier. The present study describes two new species, Krishnacapritermes dineshan Amina and Rajmohana sp. nov. and Krishnacapritermes manikandan Amina and Rajmohana sp. nov. from the higher elevation hill ranges of Western Ghats part of Kerala. DNA barcodes based on cytochrome oxidase I genes were generated for K. thakuri and K. dineshan from multiple locations and tested for phylogenetic relationships. The paper provides a dichotomous key for the four species of Krishnacapritermes and a species distribution map, along with data on the extension of distribution range for K. maitii and K. thakuri. Comments on intracolonial variability of the hyaline lateral points or processes of the labrum in soldier caste are included. Pericapritermes travancorensis Mathew and Ipe syn. nov. is treated as a junior synonym of K. thakuri.http://www.zoobank.org/urn:lsid:zoobank.org:pub:E2F050B5-2F85-415A-A446-4DC7FCDA1068",
+   "abstract_source": "openalex",
+   "abstract_chars": 1156,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W3163985982",
+   "openalex_url": "https://openalex.org/W3163985982",
+   "doi": "10.11609/jott.5781.13.6.18598-18613",
+   "doi_url": "https://doi.org/10.11609/jott.5781.13.6.18598-18613",
+   "title": "Termites (Blattodea: Isoptera) of southern India: current knowledge on distribution and systematic checklist",
+   "year": 2021,
+   "date": "2021-05-26",
+   "authors": [
+    "M. Ranjith",
+    "Chicknayakanahalli Marulsiddappa Kalleshwaraswamy"
+   ],
+   "venue": "Journal of Threatened Taxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 13,
+   "oa_url": "https://www.threatenedtaxa.org/JoTT/article/download/5781/7616",
+   "volume": "13",
+   "issue": "6",
+   "pages": "18598-18613",
+   "abstract": "A checklist of termites (Blattodea: Isoptera) of southern India with their distribution is presented in this paper. In total, 132 species from five families are listed, of which Termitidae Latreille, 1802 is the dominant family comprising 101 species from 27 genera and four subfamilies. The recent additions of species to the regional termite diversity are Krishnacapritermes dineshan Amina & Rajmohana, 2020, K. manikandan Amina & Rajmohana, 2020, and Pseudocapritermes kunjepu Mathew, 2020. Out of 132 species recorded from southern India, 60 species and five genera are endemic to the region, and the subfamily Termitinae Latreille, 1802 accounts for maximum endemism.",
+   "abstract_source": "openalex",
+   "abstract_chars": 672,
+   "abstract_truncated": false
+  }
+ ]
+}

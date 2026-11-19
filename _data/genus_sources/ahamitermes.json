@@ -1,0 +1,27 @@
+{
+ "latin": "Ahamitermes",
+ "zh": "无钩白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Ahamitermes Mjöberg, 1920: 89.",
+ "type_species": "Ahamitermes nidicola Mjöberg, 1920 by monotypy.",
+ "references": [
+  {
+   "ref": "Hill, 1942: 310, 361–362",
+   "note": "Ahamitermes [part]; subgenus of Hamitermes; key; synonymy; imago, soldier, worker characters."
+  },
+  {
+   "ref": "Ratcliffe et al., 1952: 54",
+   "note": "Hamitermes (Ahamitermes); key."
+  },
+  {
+   "ref": "Gay, 1956: 207",
+   "note": "Ahamitermes; synonymy; characters."
+  },
+  {
+   "ref": "Morimoto, 1975b: 29",
+   "note": "Ahamitermes; key."
+  }
+ ],
+ "nrefs": 12
+}

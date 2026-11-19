@@ -1,0 +1,17 @@
+{
+ "note": "El alado tiene descripción a nivel genérico, pero no se establece sección por el límite de citas; el soldado presenta un solo diente vertical de borde agudo en cada mandíbula y una zona molar poco evidente, la coxa anterior carece de protuberancia y el abdomen del obrero es oval y semitransparente; estos detalles figuran en las secciones «Soldier» y «Worker» del original.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El soldado se distingue de Armitermes por las mandíbulas uncinadas, por la ausencia de una hilera de espinas cortas y gruesas en los bordes del pronoto, mesonoto y metanoto, y por la coxa anterior sin protuberancia quillada ni setas gruesas."
+  },
+  {
+   "label": "Soldado",
+   "text": "Monotípico; cabeza circular en vista dorsal; tubo frontal cónico, tan largo como la base de la cabeza, formando con ella un ángulo de casi 45° en vista lateral; antenas de 15 segmentos; labro redondeado, con el borde anterior transparente y sin punta evidente; postmentón casi rectangular."
+  },
+  {
+   "label": "Obrero",
+   "text": "Monotípico; cabeza circular; sutura frontal poco evidente; fontanela elíptica, poco evidente; antenas de 15 segmentos."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Established by Holmgren 1912 and listed in the catalogue as the 18th subgenus, noted for the East Indies, with the species alipes, atrior, breviarticulatus, filicornis, laborator, lacessitiformis, lacessitus, piliferus and others (including new species). The original text has only key entries and no worker diagnosis.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Soldier nasus relatively narrowly conical, antennae 14-segmented, head often constricted, antennal segment 3 shorter than segment 4; in the same group Longipeditermes has segment 3 equal to or longer than segment 4, two soldier morphs and one distinct tooth at the mandible apex, while Hospitalitermes is monomorphic and has no tooth at the mandible apex. Alate clypeus shorter than half its width, only very slightly paler than the frons or concolorous with it, the frons behind the clypeus with a triangular depression, body and wings dark, antennal segment 3 slightly longer than segment 2, fontanelle indistinct and slit-like — distinguished from Hospitalitermes (segment 3 twice as long as segment 2, fontanelle distinct, oval, whitish)."
+  },
+  {
+   "label": "Alate",
+   "text": "Clypeus shorter than half its width, only (very) slightly paler than the frons or concolorous with it; frons with a triangular depression behind the clypeus; body dark, wings dark; antennal segment 3 slightly longer than segment 2; fontanelle indistinct, slit-like."
+  },
+  {
+   "label": "Soldier",
+   "text": "Nasus relatively narrowly conical; antennae 14-segmented; head often constricted; antennal segment 3 shorter than segment 4; body mostly dark, legs long."
+  }
+ ]
+}

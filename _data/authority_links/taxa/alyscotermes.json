@@ -1,0 +1,46 @@
+{
+ "Alyscotermes kilimandjaricus": {
+  "gbif": {
+   "key": 9749545,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Alyscotermes kilimandjaricus (Sjöstedt, 1907)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CC6Y",
+   "status": "accepted",
+   "label": "Alyscotermes kilimandjaricus (Sjöstedt, 1907)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234550",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Alyscotermes trestus": {
+  "gbif": {
+   "key": 9753410,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Alyscotermes trestus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "CC6Z",
+   "status": "accepted",
+   "label": "Alyscotermes trestus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234551",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "Orthotermes depressifrons": {
+  "label": "Orthotermes depressifrons Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 85116,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85116/overview",
+  "valid_label": null,
+  "valid_otu": 85116,
+  "verified": false
+ },
+ "Orthotermes mansuetus": {
+  "label": "Orthotermes mansuetus (Sjöstedt, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85117,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85117/overview",
+  "valid_label": null,
+  "valid_otu": 85117,
+  "verified": false
+ }
+}

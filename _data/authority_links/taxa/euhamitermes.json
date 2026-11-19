@@ -1,0 +1,531 @@
+{
+ "Euhamitermes aruna": {
+  "gbif": {
+   "key": 9663412,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes aruna Chhotani, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "6GVND",
+   "status": "accepted",
+   "label": "Euhamitermes aruna Chhotani, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251105",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes bidentatus": {
+  "gbif": {
+   "key": 9713265,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes bidentatus Ping & Xu, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8MV",
+   "status": "accepted",
+   "label": "Euhamitermes bidentatus Ping & Xu, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251106",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes chhotanii": {
+  "gbif": {
+   "key": 9784466,
+   "status": "ACCEPTED",
+   "match": "FUZZY",
+   "confidence": 98,
+   "rank": "SPECIES",
+   "name": "Euhamitermes chhotannii Maiti, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8MW",
+   "status": "accepted",
+   "label": "Euhamitermes chhotanii Maiti, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_fuzzy"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes concavigulus": {
+  "gbif": {
+   "key": 9758123,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes concavigulus Ping & Liu, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8MX",
+   "status": "accepted",
+   "label": "Euhamitermes concavigulus Ping & Liu, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251108",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes daweishanensis": {
+  "gbif": {
+   "key": 9701460,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes daweishanensis Ping, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8MY",
+   "status": "accepted",
+   "label": "Euhamitermes daweishanensis Ping, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251110",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes dentatus": {
+  "gbif": {
+   "key": 9718891,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes dentatus Thakur & Chatterjee, 1974",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8MZ",
+   "status": "accepted",
+   "label": "Euhamitermes dentatus Thakur & Chatterjee, 1974",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251111",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes guizhouensis": {
+  "gbif": {
+   "key": 9776805,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes guizhouensis Gao & Gong, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8N2",
+   "status": "accepted",
+   "label": "Euhamitermes guizhouensis Gao & Gong, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251112",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes hamatus": {
+  "gbif": {
+   "key": 9777928,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes hamatus (Holmgren, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8N3",
+   "status": "accepted",
+   "label": "Euhamitermes hamatus (Holmgren, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251113",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes indicus": {
+  "gbif": {
+   "key": 9687824,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes indicus (Holmgren & Holmgren, 1917)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8N4",
+   "status": "accepted",
+   "label": "Euhamitermes indicus (Holmgren & Holmgren, 1917)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251115",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes kanhaensis": {
+  "gbif": {
+   "key": 9796948,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes kanhaensis Roonwal & Chhotani, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8N5",
+   "status": "accepted",
+   "label": "Euhamitermes kanhaensis Roonwal & Chhotani, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251116",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes karnatakensis": {
+  "gbif": {
+   "key": 9790305,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes karnatakensis Roonwal & Chhotani, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8N6",
+   "status": "accepted",
+   "label": "Euhamitermes karnatakensis Roonwal & Chhotani, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251117",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes lighti": {
+  "gbif": {
+   "key": 8719840,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes lighti (Snyder, 1933)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8N7",
+   "status": "accepted",
+   "label": "Euhamitermes lighti (Snyder, 1933)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251119",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes melanocephalus": {
+  "gbif": {
+   "key": 9682239,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes melanocephalus Ping & Li, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8N8",
+   "status": "accepted",
+   "label": "Euhamitermes melanocephalus Ping & Li, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251120",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes mengdingensis": {
+  "gbif": {
+   "key": 9676075,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes mengdingensis Zhu & Li, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8N9",
+   "status": "accepted",
+   "label": "Euhamitermes mengdingensis Zhu & Li, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251121",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes microcephalus": {
+  "gbif": {
+   "key": 9744893,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes microcephalus Ping & Li, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "6H7ND",
+   "status": "accepted",
+   "label": "Euhamitermes microcephalus Ping & Li, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251122",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes quadratceps": {
+  "gbif": {
+   "key": 9694083,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes quadratceps Ping & Li, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8NB",
+   "status": "accepted",
+   "label": "Euhamitermes quadratceps Ping & Li, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251124",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes retusus": {
+  "gbif": {
+   "key": 9725293,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes retusus Ping & Xu, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8NC",
+   "status": "accepted",
+   "label": "Euhamitermes retusus Ping & Xu, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251125",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes shillongensis": {
+  "gbif": {
+   "key": 9770253,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes shillongensis (Roonwal & Chhotani, 1960)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8ND",
+   "status": "accepted",
+   "label": "Euhamitermes shillongensis (Roonwal & Chhotani, 1960)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251126",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes urbanii": {
+  "gbif": {
+   "key": 9726354,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes urbanii Chhotani & Roonwal, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "6GVNB",
+   "status": "accepted",
+   "label": "Euhamitermes urbanii Chhotani & Roonwal, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251127",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes wittmeri": {
+  "gbif": {
+   "key": 9802755,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes wittmeri Chhotani & Roonwal, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8NF",
+   "status": "accepted",
+   "label": "Euhamitermes wittmeri Chhotani & Roonwal, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251129",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes yui": {
+  "gbif": {
+   "key": 9706999,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes yui Ping, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8NG",
+   "status": "accepted",
+   "label": "Euhamitermes yui Ping, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251130",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes yunnanensis": {
+  "gbif": {
+   "key": 9810430,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes yunnanensis Ping & Xu, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8NH",
+   "status": "accepted",
+   "label": "Euhamitermes yunnanensis Ping & Xu, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251131",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes yuntaishanensis": {
+  "gbif": {
+   "key": 9738422,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes yuntaishanensis Zhu & Huang, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8NJ",
+   "status": "accepted",
+   "label": "Euhamitermes yuntaishanensis Zhu & Huang, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251133",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Euhamitermes zhejianensis": {
+  "gbif": {
+   "key": 9817088,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Euhamitermes zhejianensis He & Xia, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "3C8NK",
+   "status": "accepted",
+   "label": "Euhamitermes zhejianensis He & Xia, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251134",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

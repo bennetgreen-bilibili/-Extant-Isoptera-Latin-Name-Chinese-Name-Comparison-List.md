@@ -1,0 +1,23 @@
+{
+ "latin": "Nitiditermes",
+ "zh": "净白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Nitiditermes Emerson, 1960c: 3–10.",
+ "type_species": "Nitiditermes berghei Emerson, 1960 by original designation.",
+ "references": [
+  {
+   "ref": "Bouillon and Mathot, 1965: 29, 104, 105, pl. 20: fig. 61e",
+   "note": "Nitiditermes; key; characters; worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 34",
+   "note": "Nitiditermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 40, 226–228, figs. 967–973, pl. 11: fig. 5",
+   "note": "Nitiditermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 5
+}

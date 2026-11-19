@@ -1,0 +1,24 @@
+{
+ "Eucryptotermes breviceps": {
+  "label": "Eucryptotermes breviceps Constantino, 1997",
+  "match": "exact",
+  "notes": "",
+  "otu": 82680,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82680/overview",
+  "valid_label": null,
+  "valid_otu": 82680,
+  "verified": false
+ },
+ "Eucryptotermes hagenii": {
+  "label": "Eucryptotermes hagenii (Müller, 1873)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82681,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82681/overview",
+  "valid_label": null,
+  "valid_otu": 82681,
+  "verified": false
+ }
+}

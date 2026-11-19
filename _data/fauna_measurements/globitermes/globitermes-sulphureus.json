@@ -1,0 +1,54 @@
+{
+ "book_n": "341",
+ "book_name": "黄球白蚁 Globitermes sulphureus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "黄球白蚊兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "5.91–6.84"
+    },
+    {
+     "key": "head_length_with_mandibles",
+     "value": "1.82–2.00"
+    },
+    {
+     "key": "head_length_without_mandibles",
+     "value": "1.22–1.25"
+    },
+    {
+     "key": "head_width",
+     "value": "1.11–1.21"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "0.42"
+    },
+    {
+     "key": "postmentum_width",
+     "value": "0.28–0.31"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.38–0.42"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.83–0.86"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "0.83–1.25"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 240,
+   "unit": "mm"
+  }
+ ]
+}

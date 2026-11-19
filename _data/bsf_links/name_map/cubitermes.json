@@ -1,0 +1,145 @@
+{
+ "Cubitermes atrox": {
+  "label": "Cubitermes atrox (Smeathman, 1781)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84993,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84993/overview",
+  "valid_label": null,
+  "valid_otu": 84993,
+  "verified": false
+ },
+ "Cubitermes bilobatus": {
+  "label": "Cubitermes bilobatus (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84996,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84996/overview",
+  "valid_label": null,
+  "valid_otu": 84996,
+  "verified": false
+ },
+ "Cubitermes caesareus": {
+  "label": "Cubitermes caesareus (Sjöstedt, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85000,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85000/overview",
+  "valid_label": null,
+  "valid_otu": 85000,
+  "verified": false
+ },
+ "Cubitermes conjenii": {
+  "label": "Cubitermes conjenii (Fuller, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85003,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85003/overview",
+  "valid_label": null,
+  "valid_otu": 85003,
+  "verified": false
+ },
+ "Cubitermes exiguus": {
+  "label": "Cubitermes exiguus Mathot, 1964",
+  "match": "exact",
+  "notes": "",
+  "otu": 85006,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85006/overview",
+  "valid_label": null,
+  "valid_otu": 85006,
+  "verified": false
+ },
+ "Cubitermes pretorianus": {
+  "label": "Cubitermes pretorianus Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 85030,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85030/overview",
+  "valid_label": null,
+  "valid_otu": 85030,
+  "verified": false
+ },
+ "Cubitermes pretorianus heidelbergi": {
+  "label": "Cubitermes pretorianus heidelbergi (Fuller, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85031,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85031/overview",
+  "valid_label": null,
+  "valid_otu": 85031,
+  "verified": false
+ },
+ "Cubitermes pretorianus pretorianus": {
+  "label": "Cubitermes pretorianus pretorianus Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 85032,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85032/overview",
+  "valid_label": null,
+  "valid_otu": 85032,
+  "verified": false
+ },
+ "Cubitermes sanctaeluciae": {
+  "label": "Cubitermes sanctaeluciae (Fuller, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85034,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85034/overview",
+  "valid_label": null,
+  "valid_otu": 85034,
+  "verified": false
+ },
+ "Cubitermes tenuiceps": {
+  "label": "Cubitermes tenuiceps (Sjöstedt, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85045,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85045/overview",
+  "valid_label": null,
+  "valid_otu": 85045,
+  "verified": false
+ },
+ "Cubitermes transvaalensis": {
+  "label": "Cubitermes transvaalensis (Fuller, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85047,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85047/overview",
+  "valid_label": null,
+  "valid_otu": 85047,
+  "verified": false
+ },
+ "Cubitermes zulucola": {
+  "label": "Cubitermes zulucola Sjöstedt, 1924",
+  "match": "exact",
+  "notes": "",
+  "otu": 85056,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85056/overview",
+  "valid_label": null,
+  "valid_otu": 85056,
+  "verified": false
+ },
+ "Cubitermes zuluensis": {
+  "label": "Cubitermes zuluensis (Holmgren, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85057,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85057/overview",
+  "valid_label": null,
+  "valid_otu": 85057,
+  "verified": false
+ }
+}

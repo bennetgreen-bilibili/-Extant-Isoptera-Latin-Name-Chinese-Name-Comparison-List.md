@@ -1,0 +1,134 @@
+{
+ "Subulitermes angusticeps": {
+  "gbif": {
+   "key": 9701730,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Subulitermes angusticeps (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53DTF",
+   "status": "accepted",
+   "label": "Subulitermes angusticeps (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073790",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Subulitermes baileyi": {
+  "gbif": {
+   "key": 9171836,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Subulitermes baileyi (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53DTG",
+   "status": "accepted",
+   "label": "Subulitermes baileyi (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073789",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Subulitermes constricticeps": {
+  "gbif": {
+   "key": 9399930,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Subulitermes constricticeps Constantino, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "53DTH",
+   "status": "accepted",
+   "label": "Subulitermes constricticeps Constantino, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073788",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Subulitermes denisae": {
+  "gbif": {
+   "key": 9772377,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Subulitermes denisae Roisin, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "53DTJ",
+   "status": "accepted",
+   "label": "Subulitermes denisae Roisin, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073787",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Subulitermes microsoma": {
+  "gbif": {
+   "key": 9668641,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Subulitermes microsoma (Silvestri, 1903)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53DTP",
+   "status": "accepted",
+   "label": "Subulitermes microsoma (Silvestri, 1903)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073786",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Subulitermes thompsonae": {
+  "gbif": {
+   "key": 9782389,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Subulitermes thompsonae (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53DTR",
+   "status": "accepted",
+   "label": "Subulitermes thompsonae (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073785",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

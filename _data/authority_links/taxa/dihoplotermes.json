@@ -1,0 +1,50 @@
+{
+ "Dihoplotermes inusitatus": {
+  "gbif": {
+   "key": 9299466,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dihoplotermes inusitatus Araujo, 1961",
+   "accepted": null
+  },
+  "col": {
+   "id": "6CTVN",
+   "status": "accepted",
+   "label": "Dihoplotermes inusitatus Araujo, 1961",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225313",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dihoplotermes taurus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Dihoplotermes Araujo, 1961",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Dihoplotermes Araujo, 1961",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

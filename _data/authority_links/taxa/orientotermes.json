@@ -1,0 +1,24 @@
+{
+ "Orientotermes emersoni": {
+  "gbif": {
+   "key": 9735867,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orientotermes emersoni Ahmad, 1976",
+   "accepted": null
+  },
+  "col": {
+   "id": "6STLF",
+   "status": "accepted",
+   "label": "Orientotermes emersoni Ahmad, 1976",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084800",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

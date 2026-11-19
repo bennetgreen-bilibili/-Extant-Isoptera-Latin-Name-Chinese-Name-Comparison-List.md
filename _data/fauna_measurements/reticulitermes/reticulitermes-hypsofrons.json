@@ -1,0 +1,58 @@
+{
+ "book_n": "176",
+ "book_name": "高额散白蚊 Reticulitermes",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "有翅成虫量度( mm)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length_with_wings",
+     "mean": "10.19",
+     "value": "9.60–10.84"
+    },
+    {
+     "key": "body_length",
+     "mean": "6.89",
+     "value": "6.10–7.68"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "mean": "1.11",
+     "value": "1.09–1.13"
+    },
+    {
+     "key": "head_width",
+     "mean": "1.06",
+     "value": "1.04–1.08"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "mean": "0.06",
+     "value": "0.05–0.07"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.94",
+     "value": "0.87–0.99"
+    },
+    {
+     "key": "forewing_scale_length",
+     "mean": "0.78",
+     "value": "0.74–0.83"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.29",
+     "value": "1.24–1.34"
+    }
+   ],
+   "src_file": "401-500.txt",
+   "src_line": 1178,
+   "unit": "mm"
+  }
+ ]
+}

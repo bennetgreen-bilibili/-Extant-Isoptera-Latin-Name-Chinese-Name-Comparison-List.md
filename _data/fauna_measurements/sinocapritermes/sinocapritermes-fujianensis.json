@@ -1,0 +1,48 @@
+{
+ "book_n": "358",
+ "book_name": "闽华扭白蚊 Sinocapritermes fujianensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "闽华扭白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "0.96",
+     "value": "0.94–0.99"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.36",
+     "value": "1.33–1.39"
+    },
+    {
+     "key": "right_mandible_length",
+     "mean": "1.32",
+     "value": "1.30–1.35"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.19",
+     "value": "0.18–0.20"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.30",
+     "value": "0.30–0.31"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.83",
+     "value": "0.82–0.84"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 672,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "兵蚁与工蚁的脑形态差异",
+   "heading_en": "Brain Morphology Differences Between Soldiers and Workers",
+   "heading_es": "Diferencias en la morfología cerebral entre soldados y obreras",
+   "paragraphs": [
+    {
+     "src": [
+      "S0319"
+     ],
+     "text": "根据 Valadares 等（2023）研究，阿劳若前角白蚁（<i>Procornitermes araujoi</i>）兵蚁的头壳体积约为工蚁的 10 倍（3.288±0.245 mm³ 对 0.332±0.027 mm³），但 5 个感官与整合脑区体积之和平均比工蚁小 24%（中位数 0.00101 mm³ 对 0.0013 mm³）；脑区缩小只发生在蕈形体，其萼与叶的绝对体积均显著小于工蚁，而触角叶、视叶与中央体在两级间无显著差异。材料于 2022 年 9 月采自巴西圣保罗州 Rio Claro。",
+     "text_en": "According to Valadares et al. (2023), the head capsule volume of <i>Procornitermes araujoi</i> soldiers is about 10 times that of workers (3.288±0.245 mm³ versus 0.332±0.027 mm³), yet the summed volume of five sensory and integrative brain regions is on average 24% smaller than in workers (median 0.00101 mm³ versus 0.0013 mm³); the reduction occurs only in the mushroom body, whose calyx and lobes are both significantly smaller in absolute volume than in workers, whereas the antennal lobes, optic lobes and central body do not differ significantly between the two castes. Material was collected in September 2022 at Rio Claro, São Paulo state, Brazil.",
+     "text_es": "Según Valadares et al. (2023), el volumen de la cápsula cefálica de los soldados de <i>Procornitermes araujoi</i> es unas 10 veces mayor que el de las obreras (3.288±0.245 mm³ frente a 0.332±0.027 mm³), pero la suma de los volúmenes de cinco regiones cerebrales sensoriales e integradoras es en promedio un 24% menor que en las obreras (mediana 0.00101 mm³ frente a 0.0013 mm³); la reducción se produce solo en el cuerpo pedunculado, cuyos cálices y lóbulos son ambos significativamente menores en volumen absoluto que en las obreras, mientras que los lóbulos antenales, los lóbulos ópticos y el cuerpo central no difieren significativamente entre las dos castas. El material se recolectó en septiembre de 2022 en Rio Claro, estado de São Paulo, Brasil."
+    },
+    {
+     "src": [
+      "S0319"
+     ],
+     "text": "该种工蚁与兵蚁均无眼，视叶极小、不足重建脑区的 1%；蕈形体叶高度发达并盘绕成环，合计占所重建脑区的 51.5%，同段给出蕈形体萼占 13%、触角叶占 31.6%、中央体占 2.8%。兵蚁额腺分泌物能引发同种个体的报警反应，工蚁与兵蚁同样能感知并转为攻击状态。",
+     "text_en": "Workers and soldiers of this species are eyeless, and the optic lobes are extremely small, accounting for less than 1% of the reconstructed brain; the mushroom body lobes are highly developed and coiled into rings, together making up 51.5% of the reconstructed brain, and the same passage gives the mushroom body calyx as 13%, the antennal lobes as 31.6% and the central body as 2.8%. Frontal gland secretions of soldiers elicit alarm responses in conspecifics, and workers and soldiers alike can perceive them and shift into an attacking state.",
+     "text_es": "Las obreras y los soldados de esta especie carecen de ojos, y los lóbulos ópticos son extremadamente pequeños, menos del 1% del cerebro reconstruido; los lóbulos del cuerpo pedunculado están muy desarrollados y se enrollan formando anillos, y en conjunto representan el 51.5% del cerebro reconstruido, mientras que el mismo pasaje indica que el cáliz del cuerpo pedunculado representa el 13%, los lóbulos antenales el 31.6% y el cuerpo central el 2.8%. Las secreciones de la glándula frontal de los soldados desencadenan respuestas de alarma en individuos de la misma especie, y tanto las obreras como los soldados pueden percibirlas y pasar a un estado de ataque."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0319",
+   "citation": "Valadares, L.; da Silva, I. B.; Costa–Leonardo, A. M.; Sandoz, J.-C. 2023. Differentiation of workers into soldiers is associated with a size reduction of higher-order brain centers in the neotropical termite Procornitermes araujoi. Springer Science and Business Media LLC.",
+   "doi": "10.1038/s41598-023-45221-0"
+  }
+ ]
+}

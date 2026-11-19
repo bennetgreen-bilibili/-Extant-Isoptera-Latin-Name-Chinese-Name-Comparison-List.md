@@ -1,0 +1,64 @@
+{
+ "latin": "Megagnathotermes",
+ "zh": "大颚白蚁属",
+ "fetched_at": "2026-10-30T16:54:02Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W3119431546",
+   "openalex_url": "https://openalex.org/W3119431546",
+   "doi": "10.1111/syen.12458",
+   "doi_url": "https://doi.org/10.1111/syen.12458",
+   "title": "Phylogeny and revision of the ‘ Cubitermes complex’ termites ( Termitidae : Cubitermitinae )",
+   "year": 2021,
+   "date": "2021-01-01",
+   "authors": [
+    "Simon Hellemans",
+    "Jean Deligne",
+    "Yves Roisin",
+    "Guy Josens"
+   ],
+   "venue": "Systematic Entomology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 17,
+   "oa_url": "https://oist.repo.nii.ac.jp/record/2113/files/REPOSITORY_Phylogeny_Cubitermes.pdf",
+   "volume": "46",
+   "issue": "1",
+   "pages": "224-238",
+   "abstract": "The phylogeny of the genus Cubitermes Wasmann was reconstructed using two mitochondrial genes ( COI and COII ) and a fragment of the nuclear 28S rDNA, including samples of Apilitermes Holmgren, Crenetermes Silvestri, Megagnathotermes Silvestri and Thoracotermes Wasmann. Based on our analyses, we recovered these genera within a paraphyletic Cubitermes clade. Cubitermes species are distributed between five main clades, highly reflective of their enteric valve armatures (EVAs). Consequently, Cubitermes is here divided into five monophyletic genera based on phylogenetic analyses and EVAs: Cubitermes ( sensu stricto ), Isognathotermes Sjöstedt, Nitiditermes Emerson, Polyspathotermes Josens & Deligne, gen.n., and Ternicubitermes Josens & Deligne, gen.n. Moreover, the two species of Megagnathotermes included in this study, exhibiting different EVAs, are phylogenetically distant: M. katangensis Sjöstedt belongs in the genus Polyspathotermes, while M. notandus Silvestri remains as a monotypic genus. During the evolution of the Cubitermes complex, sclerotized EVA spatulae appeared twice independently: three or six spatulae in Polyspathotermes ( sulcifrons and oblectatus patterns) and two jaw‐like spatulae in Nitiditermes ( sankurensis pattern), which is absent in some species ( oculatus pattern). Zoobank registration: http://zoobank.org/urn:lsid:zoobank.org:pub:576AAFF8‐63C6‐4962‐A8F5‐75C9317AEA7B.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1411,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W4411887537",
+   "openalex_url": "https://openalex.org/W4411887537",
+   "doi": "10.3390/insects16070687",
+   "doi_url": "https://doi.org/10.3390/insects16070687",
+   "title": "Diversity of Termites Used in Poultry Feed in Burkina Faso",
+   "year": 2025,
+   "date": "2025-06-30",
+   "authors": [
+    "Aïchatou Nadia Christelle Dao",
+    "Fernand Sankara",
+    "Mouhamadou Moustapha Ndiaye",
+    "A. N'Diaye",
+    "Salimata Pousga",
+    "Irénée Somda",
+    "Marc Kenis"
+   ],
+   "venue": "Insects",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "https://www.mdpi.com/2075-4450/16/7/687/pdf?version=1751292903",
+   "volume": "16",
+   "issue": "7",
+   "pages": "687-687",
+   "abstract": "The aim of the study was to assess the diversity of termites used in poultry feed in Burkina Faso. Termite samples were collected in eight of the thirteen regions of the country by poultry farmers, then conserved in 70° alcohol. The criteria used by poultry farmers for identifying the termite were also characterised and discussed with farmers in a village where the use of termites as poultry feed is well developed. Morphological identifications were carried out in the laboratory. Twenty species were identified in two families, six subfamilies, and thirteen genera. In the Heterotermitidae family, a single species belonging to the Coptotermitinae subfamily was identified. The rest belonged to the family Termitidae and the subfamilies Amitermitinae, Microcerotermitinae, Macrotermitinae, Nasutitermitinae, and Cubitermitinae. Three species, Microcerotermes fuscotibialis, Megagnathotermes notandus, and Isognathotermes fungifaber, were found for the first time in Burkina Faso. The largest number of species (eleven) was collected in the Cascades region. Poultry farmers are able to recognise eight genera of termites by the shape, size, and colour of the termites; by the termite mounds; and often by the location of the nest. These results may facilitate the promotion of the use of termites as poultry feed in Burkina Faso and West Africa.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1349,
+   "abstract_truncated": false
+  }
+ ]
+}

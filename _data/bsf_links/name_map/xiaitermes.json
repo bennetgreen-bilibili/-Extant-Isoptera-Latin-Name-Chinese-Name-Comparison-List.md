@@ -1,0 +1,13 @@
+{
+ "Xiaitermes yinxianensis": {
+  "label": "Xiaitermes yinxianensis Gao & He, 1994",
+  "match": "exact",
+  "notes": "",
+  "otu": 84967,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84967/overview",
+  "valid_label": null,
+  "valid_otu": 84967,
+  "verified": false
+ }
+}

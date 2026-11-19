@@ -1,0 +1,24 @@
+{
+ "Apilitermes longiceps": {
+  "gbif": {
+   "key": 9683353,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apilitermes longiceps (Sjöstedt, 1899)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5VNVM",
+   "status": "accepted",
+   "label": "Apilitermes longiceps (Sjöstedt, 1899)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225299",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

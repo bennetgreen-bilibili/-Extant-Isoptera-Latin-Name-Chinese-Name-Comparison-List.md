@@ -1,0 +1,17 @@
+{
+ "note": "El original incluye además una descripción genérica del alado (cabeza con cresta semilunar, antenas de 15 segmentos, cara lateral de la coxa anterior rugosa, alas con micraster estrellado) y una descripción del soldado menor (cabeza más estrecha, alargada u oval, con constricción marcada por detrás de las antenas); por el límite de 3 citas por género no se establece sección de alado ni se cita el texto del soldado menor.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El género se distingue de los demás Nasutitermitinae por el soldado trimórfico y por la presencia de un par de ocelos degenerados en la cabeza del soldado; en la subfamilia, solo este género, Velocitermes y Diversitermes presentan soldados trimórficos."
+  },
+  {
+   "label": "Soldado",
+   "text": "Trimórfico. La cabeza del soldado mayor es ancha y redondeada, casi cuadrada o ligeramente oval, sin constricción por detrás de las antenas (M. globiceps); en algunos individuos de M. fritzi la constricción es solo ligera; la cabeza del soldado mediano es oval o ligeramente oval."
+  },
+  {
+   "label": "Obrero",
+   "text": "Dimórfico; el obrero menor es raro; las mandíbulas del obrero mayor presentan dos formas (denominadas narrow-gap y broad-gap por Fontes, 1987); cabeza circular, antenas de 14 segmentos, postclípeo no dilatado, fontanela poco evidente."
+  }
+ ]
+}

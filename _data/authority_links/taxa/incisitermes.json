@@ -1,0 +1,667 @@
+{
+ "Incisitermes banksi": {
+  "gbif": {
+   "key": 2007349,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes banksi (Snyder, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3PLDZ",
+   "status": "accepted",
+   "label": "Incisitermes banksi (Snyder, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582576",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes barretti": {
+  "gbif": {
+   "key": 4802850,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes barretti Gay, 1976",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MVV5",
+   "status": "accepted",
+   "label": "Incisitermes barretti Gay, 1976",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272456",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes bequaerti": {
+  "gbif": {
+   "key": 9713033,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes bequaerti (Snyder, 1929)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MW6T",
+   "status": "accepted",
+   "label": "Incisitermes bequaerti (Snyder, 1929)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252565",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes didwanaensis": {
+  "gbif": {
+   "key": 9663188,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes didwanaensis Roonwal & Verma, 1973",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MW75",
+   "status": "accepted",
+   "label": "Incisitermes didwanaensis Roonwal & Verma, 1973",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252567",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes emersoni": {
+  "gbif": {
+   "key": 2007346,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes emersoni (Light, 1933)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6N7V5",
+   "status": "accepted",
+   "label": "Incisitermes emersoni (Light, 1933)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582584",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes fruticavus": {
+  "gbif": {
+   "key": 2007354,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes fruticavus Rust, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "6N86T",
+   "status": "accepted",
+   "label": "Incisitermes fruticavus Rust, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582575",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes furvus": {
+  "gbif": {
+   "key": 9726599,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes furvus Scheffrahn, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "6N875",
+   "status": "accepted",
+   "label": "Incisitermes furvus Scheffrahn, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252568",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes galapagoensis": {
+  "gbif": {
+   "key": 9714550,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes galapagoensis (Banks, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MW6N",
+   "status": "accepted",
+   "label": "Incisitermes galapagoensis (Banks, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49556287",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes immigrans": {
+  "gbif": {
+   "key": 2007344,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes immigrans (Snyder, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6N86N",
+   "status": "accepted",
+   "label": "Incisitermes immigrans (Snyder, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582574",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes inamurai": {
+  "gbif": {
+   "key": 9816834,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes inamurai (Oshima, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MVV2",
+   "status": "accepted",
+   "label": "Incisitermes inamurai (Oshima, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252569",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes incisus": {
+  "gbif": {
+   "key": 7559669,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes incisus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MW6Q",
+   "status": "accepted",
+   "label": "Incisitermes incisus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252571",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes laterangularis": {
+  "gbif": {
+   "key": 9671849,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes laterangularis Han, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "9H6GH",
+   "status": "accepted",
+   "label": "Incisitermes laterangularis Han, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252572",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes lisae": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Incisitermes Krishna, 1961",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CCMWS",
+   "status": "accepted",
+   "label": "Incisitermes lisae Scheffrahn, 2024",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes marginipennis": {
+  "gbif": {
+   "key": 2007342,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes marginipennis (Latreille, 1817)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6N86Q",
+   "status": "accepted",
+   "label": "Incisitermes marginipennis (Latreille, 1817)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582581",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes mariae": {
+  "gbif": {
+   "key": 9756815,
+   "status": "ACCEPTED",
+   "match": "FUZZY",
+   "confidence": 95,
+   "rank": "SPECIES",
+   "name": "Incisitermes marianus (Holmgren, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CCMWT",
+   "status": "accepted",
+   "label": "Incisitermes mariae Scheffrahn, 2024",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_fuzzy"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes marianus": {
+  "gbif": {
+   "key": 9756815,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes marianus (Holmgren, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6N872",
+   "status": "accepted",
+   "label": "Incisitermes marianus (Holmgren, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252573",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes mcgregori": {
+  "gbif": {
+   "key": 9798287,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes mcgregori (Light, 1921)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MW6P",
+   "status": "accepted",
+   "label": "Incisitermes mcgregori (Light, 1921)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252575",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes milleri": {
+  "gbif": {
+   "key": 2007350,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes milleri (Emerson, 1943)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6N86P",
+   "status": "accepted",
+   "label": "Incisitermes milleri (Emerson, 1943)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582573",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes minor": {
+  "gbif": {
+   "key": 2007347,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes minor (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MW6K",
+   "status": "accepted",
+   "label": "Incisitermes minor (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13561026",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes nishimurai": {
+  "gbif": {
+   "key": 8550017,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes nishimurai",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Incisitermes Krishna, 1961",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes pacificus": {
+  "gbif": {
+   "key": 9753659,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes pacificus (Banks, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MW6J",
+   "status": "accepted",
+   "label": "Incisitermes pacificus (Banks, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49556289",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes platycephalus": {
+  "gbif": {
+   "key": 2007348,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes platycephalus (Light, 1933)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MW6M",
+   "status": "accepted",
+   "label": "Incisitermes platycephalus (Light, 1933)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582580",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes repandus": {
+  "gbif": {
+   "key": 4802848,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes repandus (Hill, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6N86M",
+   "status": "accepted",
+   "label": "Incisitermes repandus (Hill, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272457",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes rhyzophorae": {
+  "gbif": {
+   "key": 9693844,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes rhyzophorae Hernández, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MW6L",
+   "status": "accepted",
+   "label": "Incisitermes rhyzophorae Hernández, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252576",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes schwarzi": {
+  "gbif": {
+   "key": 2007352,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes schwarzi (Banks, 1919)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6N86L",
+   "status": "accepted",
+   "label": "Incisitermes schwarzi (Banks, 1919)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582579",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes seeversi": {
+  "gbif": {
+   "key": 2007343,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes seeversi (Snyder & Emerson, 1949)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MW6G",
+   "status": "accepted",
+   "label": "Incisitermes seeversi (Snyder & Emerson, 1949)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582578",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes semilunaris": {
+  "gbif": {
+   "key": 9421129,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes semilunaris (Holmgren & Holmgren, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6N86G",
+   "status": "accepted",
+   "label": "Incisitermes semilunaris (Holmgren & Holmgren, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252578",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes snyderi": {
+  "gbif": {
+   "key": 2007351,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes snyderi (Light, 1933)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MW6F",
+   "status": "accepted",
+   "label": "Incisitermes snyderi (Light, 1933)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582582",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes solidus": {
+  "gbif": {
+   "key": 9784225,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes solidus (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6N86F",
+   "status": "accepted",
+   "label": "Incisitermes solidus (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252580",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Incisitermes taylori": {
+  "gbif": {
+   "key": 9758367,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incisitermes taylori (Light, 1930)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6N86H",
+   "status": "accepted",
+   "label": "Incisitermes taylori (Light, 1930)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252582",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

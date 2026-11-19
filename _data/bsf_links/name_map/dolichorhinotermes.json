@@ -1,0 +1,79 @@
+{
+ "Dolichorhinotermes japuraensis": {
+  "label": "Dolichorhinotermes japuraensis Constantino, 1990",
+  "match": "exact",
+  "notes": "",
+  "otu": 83414,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83414/overview",
+  "valid_label": null,
+  "valid_otu": 83414,
+  "verified": false
+ },
+ "Dolichorhinotermes lanciarius": {
+  "label": "Dolichorhinotermes lanciarius Engel & Krishna, 2007",
+  "match": "exact",
+  "notes": "",
+  "otu": 83415,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83415/overview",
+  "valid_label": null,
+  "valid_otu": 83415,
+  "verified": false
+ },
+ "Dolichorhinotermes latilabrum": {
+  "label": "Dolichorhinotermes latilabrum (Snyder, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83416,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83416/overview",
+  "valid_label": null,
+  "valid_otu": 83416,
+  "verified": false
+ },
+ "Dolichorhinotermes longidens": {
+  "label": "Dolichorhinotermes longidens (Snyder, 1924)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83417,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83417/overview",
+  "valid_label": null,
+  "valid_otu": 83417,
+  "verified": false
+ },
+ "Dolichorhinotermes longilabius": {
+  "label": "Dolichorhinotermes longilabius (Emerson, 1924)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83418,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83418/overview",
+  "valid_label": null,
+  "valid_otu": 83418,
+  "verified": false
+ },
+ "Dolichorhinotermes neli": {
+  "label": "Dolichorhinotermes neli Ensaf & Betsch, 2002",
+  "match": "exact",
+  "notes": "",
+  "otu": 83419,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83419/overview",
+  "valid_label": null,
+  "valid_otu": 83419,
+  "verified": false
+ },
+ "Dolichorhinotermes tenebrosus": {
+  "label": "Dolichorhinotermes tenebrosus (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83420,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83420/overview",
+  "valid_label": null,
+  "valid_otu": 83420,
+  "verified": false
+ }
+}

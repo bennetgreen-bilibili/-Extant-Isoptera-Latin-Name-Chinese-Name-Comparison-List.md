@@ -1,0 +1,35 @@
+{
+ "latin": "Araujotermes",
+ "zh": "阿劳若白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Araujotermes Fontes, 1982: 100–101.",
+ "type_species": "Araujotermes caissara Fontes, 1982 by original designation.",
+ "references": [
+  {
+   "ref": "Mill, 1983a: 182, 188",
+   "note": "Araujotermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Fontes, 1987b: 503–531",
+   "note": "Araujotermes; worker mandibles described and figured."
+  },
+  {
+   "ref": "Constantino, 1991b: 4",
+   "note": "Araujotermes; characters."
+  },
+  {
+   "ref": "Nickle and Collins, 1992: 226, 227, 239",
+   "note": "Araujotermes; key; characters."
+  },
+  {
+   "ref": "Constantino, 1999a: 399, 415",
+   "note": "Araujotermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 14",
+   "note": "Araujotermes; key. Silvestritermes Emerson, 1955: 515 [nomen nudum; no species mentioned, but, according to Emerson’s card catalog (unpublished), the genus included two species, Eutermes parvellus Silvestri, 1923 and Nasutitermes (Subulitermes) snyderi Emerson, 1925, which have now been placed in Araujotermes Fontes, 1982 and Atlantitermes Fontes, 1982, respectively]."
+  }
+ ],
+ "nrefs": 14
+}

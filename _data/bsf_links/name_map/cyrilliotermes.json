@@ -1,0 +1,46 @@
+{
+ "Cyrilliotermes angulariceps": {
+  "label": "Cyrilliotermes angulariceps (Mathews, 1977)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84194,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84194/overview",
+  "valid_label": null,
+  "valid_otu": 84194,
+  "verified": false
+ },
+ "Cyrilliotermes brevidens": {
+  "label": "Cyrilliotermes brevidens Constantino & Carvallo, 2012",
+  "match": "exact",
+  "notes": "",
+  "otu": 84195,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84195/overview",
+  "valid_label": null,
+  "valid_otu": 84195,
+  "verified": false
+ },
+ "Cyrilliotermes crassinasus": {
+  "label": "Cyrilliotermes crassinasus Constantino & Carvallo, 2012",
+  "match": "exact",
+  "notes": "",
+  "otu": 84196,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84196/overview",
+  "valid_label": null,
+  "valid_otu": 84196,
+  "verified": false
+ },
+ "Cyrilliotermes strictinasus": {
+  "label": "Cyrilliotermes strictinasus (Mathews, 1977)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84197,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84197/overview",
+  "valid_label": null,
+  "valid_otu": 84197,
+  "verified": false
+ }
+}

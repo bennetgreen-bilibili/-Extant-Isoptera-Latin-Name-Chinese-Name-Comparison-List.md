@@ -1,0 +1,35 @@
+{
+ "Subulioiditermes borneensis": {
+  "label": "Subulioiditermes borneensis (Ahmad, 1968)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84887,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84887/overview",
+  "valid_label": null,
+  "valid_otu": 84887,
+  "verified": false
+ },
+ "Subulioiditermes emersoni": {
+  "label": "Subulioiditermes emersoni Ahmad, 1968",
+  "match": "exact",
+  "notes": "",
+  "otu": 84888,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84888/overview",
+  "valid_label": null,
+  "valid_otu": 84888,
+  "verified": false
+ },
+ "Subulioiditermes subulioides": {
+  "label": "Subulioiditermes subulioides Ahmad, 1968",
+  "match": "exact",
+  "notes": "",
+  "otu": 84889,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84889/overview",
+  "valid_label": null,
+  "valid_otu": 84889,
+  "verified": false
+ }
+}

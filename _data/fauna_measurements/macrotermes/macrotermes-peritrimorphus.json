@@ -1,0 +1,42 @@
+{
+ "book_n": "312",
+ "book_name": "近三型大白蚁 Macrotermes peritrimorphus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "近三型大白蚁大兵蚁量度",
+   "label_en": "Major soldier measurements",
+   "label_es": "Medidas de soldado mayor",
+   "label_zh": "大兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "value": "3.06"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "1.95"
+    },
+    {
+     "key": "postmentum_max_width",
+     "value": "0.88"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.65"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "0.95"
+    },
+    {
+     "key": "pronotum_max_width",
+     "value": "2.05"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 1100,
+   "unit": "mm"
+  }
+ ]
+}

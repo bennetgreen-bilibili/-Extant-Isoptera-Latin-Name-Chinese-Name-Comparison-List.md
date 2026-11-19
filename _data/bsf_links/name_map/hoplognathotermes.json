@@ -1,0 +1,35 @@
+{
+ "Hoplognathotermes angolensis": {
+  "label": "Hoplognathotermes angolensis Weidner, 1974",
+  "match": "exact",
+  "notes": "",
+  "otu": 84104,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84104/overview",
+  "valid_label": null,
+  "valid_otu": 84104,
+  "verified": false
+ },
+ "Hoplognathotermes submissus": {
+  "label": "Hoplognathotermes submissus Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 84105,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84105/overview",
+  "valid_label": null,
+  "valid_otu": 84105,
+  "verified": false
+ },
+ "Hoplognathotermes subterraneus": {
+  "label": "Hoplognathotermes subterraneus Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 84106,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84106/overview",
+  "valid_label": null,
+  "valid_otu": 84106,
+  "verified": false
+ }
+}

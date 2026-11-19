@@ -1,0 +1,35 @@
+{
+ "Duplidentitermes furcatidens": {
+  "label": "Duplidentitermes furcatidens (Sjöstedt, 1924)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84056,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84056/overview",
+  "valid_label": null,
+  "valid_otu": 84056,
+  "verified": false
+ },
+ "Duplidentitermes jurioni": {
+  "label": "Duplidentitermes jurioni Emerson, 1959",
+  "match": "exact",
+  "notes": "",
+  "otu": 84057,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84057/overview",
+  "valid_label": null,
+  "valid_otu": 84057,
+  "verified": false
+ },
+ "Duplidentitermes latimentonis": {
+  "label": "Duplidentitermes latimentonis Emerson, 1959",
+  "match": "exact",
+  "notes": "",
+  "otu": 84058,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84058/overview",
+  "valid_label": null,
+  "valid_otu": 84058,
+  "verified": false
+ }
+}

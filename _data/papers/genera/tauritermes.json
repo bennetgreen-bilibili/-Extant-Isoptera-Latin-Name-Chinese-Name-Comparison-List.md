@@ -1,0 +1,84 @@
+{
+ "latin": "Tauritermes",
+ "zh": "牛白蚁属",
+ "fetched_at": "2026-10-30T16:54:45Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2027653226",
+   "openalex_url": "https://openalex.org/W2027653226",
+   "doi": "10.1590/s1519-566x2004000200006",
+   "doi_url": "https://doi.org/10.1590/s1519-566x2004000200006",
+   "title": "Gut structure of two species of the neotropical genus Tauritermes Krishna (Isoptera: Kalotermitidae)",
+   "year": 2004,
+   "date": "2004-04-01",
+   "authors": [
+    "María Celina Godoy"
+   ],
+   "venue": "Neotropical Entomology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 9,
+   "oa_url": "https://www.scielo.br/j/ne/a/T7nTm8VQb4tmy6MMrWwsBGj/?lang=en&format=pdf",
+   "volume": "33",
+   "issue": "2",
+   "pages": "163-167",
+   "abstract": "Gut morphology of two species of the neotropical genus Tauritermes Krishna was analyzed. Detailed description of the coiling gut and the cuticular armature of the gizzard and first and second proctodeal segments of pseudergates are given. The characteristics of Tauritermes gut followed the pattern previously known for the family, but some differences among this genus and other Kalotermitidae genera were: the length of the midgut, the structure and cuticular ornamentation of the first and second proctodeal segments, the junction of the third and fourth proctodeal segments and the armature of the rectal valve. Tauritermes was differentiated from other Kalotermitidae genera by means of the gut characters, currently used in termite systematics and phylogeny.",
+   "abstract_source": "openalex",
+   "abstract_chars": 764,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W3046096925",
+   "openalex_url": "https://openalex.org/W3046096925",
+   "doi": "10.3897/zookeys.954.52335",
+   "doi_url": "https://doi.org/10.3897/zookeys.954.52335",
+   "title": "Tauritermes bandeirai: A new drywood termite (Isoptera, Kalotermitidae) from the Caatinga and Atlantic Forest of Brazil",
+   "year": 2020,
+   "date": "2020-07-29",
+   "authors": [
+    "Rudolf H. Scheffrahn",
+    "Alexandre Vasconcellos"
+   ],
+   "venue": "ZooKeys",
+   "type": "article",
+   "language": "en",
+   "cited_by": 4,
+   "oa_url": "https://zookeys.pensoft.net/article/52335/download/pdf/",
+   "volume": "954",
+   "issue": "",
+   "pages": "75-84",
+   "abstract": "The imago and soldier castes of a newTauritermesKrishna, 1961 species,Tauritermes bandeiraisp. nov.are described. It is the fourth species ofTauritermesand occurs from the Caatinga and Atlantic Forest of Brazil. Unlike its congeners, the soldier ofT. bandeiraihas prominent frontal horns.",
+   "abstract_source": "openalex",
+   "abstract_chars": 288,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W1964738363",
+   "openalex_url": "https://openalex.org/W1964738363",
+   "doi": "10.1590/s0103-90162004000600016",
+   "doi_url": "https://doi.org/10.1590/s0103-90162004000600016",
+   "title": "Termite (Insecta, Isoptera) fauna from natural parks of the northeast region of Argentina",
+   "year": 2004,
+   "date": "2004-12-01",
+   "authors": [
+    "E. R. Laffont",
+    "Gladys J. Torales",
+    "Juan Manuel Coronel",
+    "Manuel Osvaldo Arbino",
+    "María Celina Godoy"
+   ],
+   "venue": "Scientia Agricola",
+   "type": "article",
+   "language": "en",
+   "cited_by": 11,
+   "oa_url": "https://www.scielo.br/j/sa/a/X7SLZBZHRgxCFJnjsYkZf8P/?lang=en&format=pdf",
+   "volume": "61",
+   "issue": "6",
+   "pages": "665-670",
+   "abstract": "The knowledge of insect biodiversity in natural areas of Argentina is limited, and termites are among the understudied taxa. In order to assess the diversity of Isoptera in some protected areas of the country, termite sampling within three National Parks of the Northeast region of Argentina was developed during 1995-1999. The results presented in this paper correspond to the Chaco National Park (Province of Chaco), Iguassu National Park (Province of Misiones) and Mburucuya National Park (Province of Corrientes). Among the four termite families recorded from Argentina, the family Termitidae was the best represented at the three sampled areas. The recorded genera (15) were: Rugitermes Holmgren and Tauritermes Krishna (Kalotermitidae), Heterotermes Frogatt (Rhinotermitidae), Cornitermes Wasmann, Cortaritermes Mathews, Diversitermes Holmgren, Nasutitermes Dudley, Velocitermes Holmgren (Nasutitermitinae), Amitermes Silvestri, Microcerotermes Silvestri, Neocapritermes Holmgren, Termes Linné (Termitinae), Anoplotermes Müller, Aparatermes Fontes and Ruptitermes Mathews (Apicotermitinae) (Termitidae). None of the collected termite species was common to the three National Parks, and only four of them were detected at two of the reserves. Due to the particular assemblage of termites found at each park, these three natural protected areas could be considered important reserves for the conservation of the termite fauna from the Northeast region of Argentina.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1469,
+   "abstract_truncated": false
+  }
+ ]
+}

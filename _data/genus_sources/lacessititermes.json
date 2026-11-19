@@ -1,0 +1,43 @@
+{
+ "latin": "Lacessititermes",
+ "zh": "怒白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Lacessititermes Holmgren, 1912",
+ "type_species": "Termes lacessitus Haviland, 1898 by subsequent designation; see Snyder, 1949a: 315.",
+ "references": [
+  {
+   "ref": "Haviland, 1898: 379, 431",
+   "note": "Termes “section with T. lacessitus for type”; characters; key."
+  },
+  {
+   "ref": "Bathellier, 1927: 172, 173",
+   "note": "Eutermes (Lacessititermes); key."
+  },
+  {
+   "ref": "Light, 1930f: 17, 19",
+   "note": "Lacessititermes; key."
+  },
+  {
+   "ref": "Light and Wilson, 1936: 467",
+   "note": "Lacessititermes; key."
+  },
+  {
+   "ref": "Ahmad, 1958: 86, 88",
+   "note": "Lacessititermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 26",
+   "note": "Lacesitermes [sic]; key."
+  },
+  {
+   "ref": "Collins, 1984: 77",
+   "note": "Lacessititermes; key."
+  },
+  {
+   "ref": "Gathorne-Hardy, 2001: 1501",
+   "note": "Lacessititermes; key."
+  }
+ ],
+ "nrefs": 29
+}

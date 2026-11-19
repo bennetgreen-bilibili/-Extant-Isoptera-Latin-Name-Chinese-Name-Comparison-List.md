@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-14",
+ "sections": [
+  {
+   "heading": "随新属建立的新种",
+   "heading_en": "A new species described with the genus",
+   "heading_es": "Una especie nueva descrita con el género",
+   "paragraphs": [
+    {
+     "src": [
+      "S0241"
+     ],
+     "text": "据摘要，Miller（1984）研究显示，非武闯白蚁（<i>Invasitermes inermis</i>）是随闯白蚁属（<i>Invasitermes</i>）一同建立的新种，与候补闯白蚁（<i>Invasitermes insitivus</i>）同为该属仅有的 2 个种；该属兵蚁品级似乎缺失，文中对新种给出量度与生物学注记。",
+     "text_en": "According to the abstract, Miller (1984) showed that <i>Invasitermes inermis</i> is a new species described together with the genus <i>Invasitermes</i> and, with <i>Invasitermes insitivus</i>, one of the only two species of the genus; the soldier caste appears to be absent, and the paper gives measurements and biological notes for the new species.",
+     "text_es": "Según el resumen, Miller (1984) demostró que <i>Invasitermes inermis</i> es una especie nueva descrita junto con el género <i>Invasitermes</i> y, junto con <i>Invasitermes insitivus</i>, una de las dos únicas especies del género; la casta de soldados parece faltar y el trabajo aporta medidas y notas biológicas de la especie nueva."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0241",
+   "citation": "Miller, L. R. 1984. Invasitermes, a new genus of soldierless termites from northern Australia (Isoptera: Termitidae). Australian Journal of Entomology.",
+   "doi": "10.1111/j.1440-6055.1984.tb01902.x"
+  }
+ ]
+}

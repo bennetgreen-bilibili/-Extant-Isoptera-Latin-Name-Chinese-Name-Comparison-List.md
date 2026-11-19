@@ -1,0 +1,32 @@
+{
+ "latin": "Paraconvexitermes",
+ "zh": "近凸白蚁属",
+ "fetched_at": "2026-10-30T16:54:19Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2075268531",
+   "openalex_url": "https://openalex.org/W2075268531",
+   "doi": "10.1080/00379271.2003.10697373",
+   "doi_url": "https://doi.org/10.1080/00379271.2003.10697373",
+   "title": "Paraconvexitermes acangapua(Isoptera: Termitidae, Nasutitermitinae), a new genus and new species of the so-called “small Neotropical soil-feeding nasutes” from South America",
+   "year": 2003,
+   "date": "2003-01-01",
+   "authors": [
+    "Eliana M. Cancello",
+    "Charles Noirot"
+   ],
+   "venue": "Annales de la Société entomologique de France (N S )",
+   "type": "article",
+   "language": "fr",
+   "cited_by": 7,
+   "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/00379271.2003.10697373?needAccess=true&role=button",
+   "volume": "39",
+   "issue": "2",
+   "pages": "187-193",
+   "abstract": "A new genus Paraconvexitermes is described, comprising Paraconvexitermes acangapua, new species, P. nigricornis (Holmgren) and P. junceus (Emerson), both previously in Convexitermes Holmgren. Now, Convexitermes comprises C. manni Emerson and C. convexifrons (Holmgren). The worker’s digestive tube of both genera along with those of Atlantitermes species allowed to get a better definition of these three genera. Illustrations on the digestive tube and mandibles of workers, soldier’s head, alate’s head and secondary reproductive female of the new genus and species are provided. The phylogenetic relationships with the other nasute genera are discussed along with the “soil feeding” concept.",
+   "abstract_source": "openalex",
+   "abstract_chars": 693,
+   "abstract_truncated": false
+  }
+ ]
+}

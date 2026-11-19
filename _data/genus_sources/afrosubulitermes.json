@@ -1,0 +1,39 @@
+{
+ "latin": "Afrosubulitermes",
+ "zh": "非锥白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Afrosubulitermes Emerson, 1960b: 7–9.",
+ "type_species": "Afrosubulitermes congoensis Emerson, 1960 by original designation.",
+ "references": [
+  {
+   "ref": "Bouillon and Mathot, 1965: 34, 114, 115, pl. 25: fig. 81c",
+   "note": "Afrosubulitermes; key; characters; worker mandibles figured."
+  },
+  {
+   "ref": "Sands, 1965d: 133",
+   "note": "Afrosubulitermes; key; characters."
+  },
+  {
+   "ref": "Sands, 1965c: 153",
+   "note": "Afrosubulitermes; imago, soldier, worker characters."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1966: 3",
+   "note": "Afrosubulitermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 23",
+   "note": "Afrosubulitermes; key."
+  },
+  {
+   "ref": "Sands, 1995: 1504, 1506, 1508",
+   "note": "Afrosubulitermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 48, 288–290, figs. 1458–1471, pl. 18: fig. 5",
+   "note": "Afrosubulitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 13
+}

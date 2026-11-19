@@ -1,0 +1,37 @@
+{
+ "Pterotermes occidentis": [
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/312377170/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/312377170/medium.jpg",
+   "width": 1024,
+   "height": 860,
+   "credit": "(c) Wendy McCrady, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/179432023"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/312377210/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/312377210/medium.jpg",
+   "width": 925,
+   "height": 1024,
+   "credit": "(c) Wendy McCrady, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/179432023"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/312377216/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/312377216/medium.jpg",
+   "width": 1024,
+   "height": 836,
+   "credit": "(c) Wendy McCrady, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/179432023"
+  }
+ ]
+}

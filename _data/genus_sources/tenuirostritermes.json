@@ -1,0 +1,43 @@
+{
+ "latin": "Tenuirostritermes",
+ "zh": "薄嘴白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Tenuirostritermes Holmgren, 1912a: 60, 61, 65 [first introduced as a subgenus of Eutermes Heer, 1849].",
+ "type_species": "Termes tenuirostris Desneux, 1904 by subsequent designation, see Snyder, 1949a: 312.",
+ "references": [
+  {
+   "ref": "Fuller, 1922: 115",
+   "note": "Tenuirostritermes; characters."
+  },
+  {
+   "ref": "Light, 1933: 82",
+   "note": "Nasutitermes (Tenuirostritermes); key."
+  },
+  {
+   "ref": "Weesner, 1965: 38, 63",
+   "note": "Tenuirostritermes; key; characters."
+  },
+  {
+   "ref": "Morimoto, 1975b: 27",
+   "note": "Tenuirostrotermes [sic]; key."
+  },
+  {
+   "ref": "Mill, 1983a: 183, 188",
+   "note": "Tenuirostritermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Nickle and Collins, 1990: 94, 120",
+   "note": "Tenuirostritermes; key; characters."
+  },
+  {
+   "ref": "Roisin et al., 1996: 777",
+   "note": "Tenuirostritermes; soldier, worker characters."
+  },
+  {
+   "ref": "Constantino, 2002a: 10",
+   "note": "Tenuirostritermes; key."
+  }
+ ],
+ "nrefs": 22
+}

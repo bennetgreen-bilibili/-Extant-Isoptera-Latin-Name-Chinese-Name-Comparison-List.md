@@ -1,0 +1,13 @@
+{
+ "Capritermes capricornis": {
+  "label": "Capritermes capricornis (Wasmann, 1893)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85306,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85306/overview",
+  "valid_label": null,
+  "valid_otu": 85306,
+  "verified": false
+ }
+}

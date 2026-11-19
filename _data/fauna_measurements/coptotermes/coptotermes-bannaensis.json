@@ -1,0 +1,74 @@
+{
+ "book_n": "77",
+ "book_name": "版纳乳白蚁 Coptotermes",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "版纳乳白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_mandibles",
+     "value": "2.30–2.375"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.55–1.625"
+    },
+    {
+     "key": "head_max_width",
+     "value": "1.25–1.425"
+    },
+    {
+     "key": "head_height",
+     "value": "0.925–1.008"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "0.813–0.938"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.325–3.88"
+    },
+    {
+     "key": "labrum_width",
+     "value": "0.288–0.338"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "1.00–1.088"
+    },
+    {
+     "key": "postmentum_max_width",
+     "value": "0.45–0.475"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.288–0.338"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.938–1.063"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.525–0.563"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.125–1.25"
+    },
+    {
+     "key": "antennal_segments",
+     "value": "16–17"
+    }
+   ],
+   "src_file": "301-400.txt",
+   "src_line": 383,
+   "unit": "mm"
+  }
+ ]
+}

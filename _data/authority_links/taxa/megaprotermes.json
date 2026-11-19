@@ -1,0 +1,24 @@
+{
+ "Megaprotermes giffardii": {
+  "gbif": {
+   "key": 9732992,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Megaprotermes giffardii (Silvestri, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6R7VL",
+   "status": "accepted",
+   "label": "Megaprotermes giffardii (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210004",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

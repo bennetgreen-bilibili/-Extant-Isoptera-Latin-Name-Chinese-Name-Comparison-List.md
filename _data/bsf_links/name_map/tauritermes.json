@@ -1,0 +1,46 @@
+{
+ "Tauritermes bandeirai": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Tauritermes taurocephalus": {
+  "label": "Tauritermes taurocephalus (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83068,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83068/overview",
+  "valid_label": null,
+  "valid_otu": 83068,
+  "verified": false
+ },
+ "Tauritermes triceromegas": {
+  "label": "Tauritermes triceromegas (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83069,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83069/overview",
+  "valid_label": null,
+  "valid_otu": 83069,
+  "verified": false
+ },
+ "Tauritermes vitulus": {
+  "label": "Tauritermes vitulus Araujo & Fontes, 1979",
+  "match": "exact",
+  "notes": "",
+  "otu": 83070,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83070/overview",
+  "valid_label": null,
+  "valid_otu": 83070,
+  "verified": false
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "首个可靠的化石记录",
+   "heading_en": "The first reliable fossil record",
+   "heading_es": "El primer registro fósil fiable",
+   "paragraphs": [
+    {
+     "src": [
+      "S0213"
+     ],
+     "text": "据摘要，Kaulfuß 等（2010）研究的那件采自奥塔戈早中新世湖相沉积的胄白蚁属（<i>Stolotermes</i>）前翅化石，是胄白蚁科（Stolotermitidae）首个可靠的化石记录，把该科的化石历史推至早中新世；这也是新西兰首个直接的化石等翅类证据，此前新西兰唯一的化石等翅类材料是可归入木白蚁属（<i>Kalotermes</i>）的硅化粪粒。作者据此认为，胄白蚁科至少自早中新世起就存在于澳大拉西亚区。",
+     "text_en": "According to the abstract of Kaulfuß et al. (2010), the forewing fossil of <i>Stolotermes</i> from Early Miocene lacustrine deposits at Otago is the first reliable fossil record of Stolotermitidae, extending the fossil history of the family back to the Early Miocene; it is also the first direct fossil evidence of Isoptera from New Zealand, the only earlier fossil termite material there being silicified faecal pellets attributable to <i>Kalotermes</i>. The authors conclude that Stolotermitidae has been present in the Australasian region at least since the Early Miocene.",
+     "text_es": "Según el resumen de Kaulfuß et al. (2010), el fósil de ala anterior de <i>Stolotermes</i> procedente de depósitos lacustres del Mioceno temprano en Otago es el primer registro fósil fiable de Stolotermitidae, lo que extiende la historia fósil de la familia hasta el Mioceno temprano; es también la primera evidencia fósil directa de Isoptera en Nueva Zelanda, ya que el único material fósil anterior eran pellets fecales silicificados atribuibles a <i>Kalotermes</i>. Los autores concluyen que Stolotermitidae está presente en la región australasiática al menos desde el Mioceno temprano."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0213",
+   "citation": "Kaulfuß, U.; Harris, A. C.; Lee, D. E. 2010. A New Fossil Termite (Isoptera, Stolotermitidae, Stolotermes) from the Early Miocene of Otago, New Zealand. Acta Geologica Sinica - English Edition.",
+   "doi": "10.1111/j.1755-6724.2010.00275.x"
+  }
+ ]
+}

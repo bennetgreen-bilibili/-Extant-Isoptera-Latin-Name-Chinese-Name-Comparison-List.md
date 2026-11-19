@@ -1,0 +1,21 @@
+{
+ "note": "Los caracteres genéricos se exponen en el original en tres apartados, Imago / Soldier / Worker; del alado solo se conoce la especie tipo y no hay descripción morfológica, por lo que ese apartado se limita a recoger lo que dice el original sobre esta casta y no incluye medición alguna. El original señala que N. orientis es casi con seguridad un sinónimo posterior de Eutermes kanehirae Oshima, 1914, y que los caracteres genéricos se basan en N. orientis; el género incluye tres especies: D. kanehirae, D. foi y D. castanopsis.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Roisin & Pasteels establecieron el género con Nasutitermes (Subulitermes) orientis de Nueva Guinea como especie tipo; el nombre genérico deriva del neomelanesio diwai (madera). El soldado es completamente nasuto y afín a Nasutitermes, pero la cápsula cefálica no se constriñe por detrás de las fosas antenales, es monomórfico, de tamaño pequeño a medio, y las antenas tienen 11 o 12 segmentos. Lo que realmente lo separa de Nasutitermes y Niuginitermes es el tubo digestivo del obrero: la porción mesentérica del segmento mixto se une mediante un pedículo ancho a la parte dorsointerna del resto del mesenterón, los 4 túbulos de Malpighi se aproximan entre sí en su inserción en la unión entre el mesenterón y el proctodeo, y las dos coronas de espinas de la válvula pilórica son asimétricas, con las espinas de la corona inferior penetrando en la luz del estómago; el obrero es dimórfico. Eleanoritermes de Borneo es similar al género, pero en su obrero la región molar de las mandíbulas es más cóncava, la válvula pilórica está más adelante, solo tres protuberancias llevan unas pocas espinas pequeñas y el colon es más largo."
+  },
+  {
+   "label": "Alado",
+   "text": "Solo se conoce la especie tipo. El original no enumera caracteres morfológicos de nivel genérico y solo señala que el número de segmentos antenales podría servir en el futuro para distinguir el género de Nasutitermes y Niuginitermes. El original compara además el afín Nasutitermes liklik, que se diferencia de D. kanehirae por tener un segmento antenal más en todas las castas (14 frente a 13 en el alado)."
+  },
+  {
+   "label": "Soldado",
+   "text": "Completamente nasuto y afín a Nasutitermes. La cápsula cefálica no se constriñe por detrás de las fosas antenales; una sola forma de soldado, de tamaño pequeño a medio; antenas de 11 o 12 segmentos, y cuando son 12 el tercer segmento es muy corto y su separación del cuarto es incompleta; cápsula cefálica cubierta de pelos, con numerosas setas de longitud variable; la parte apical de las mandíbulas es pequeña y a veces falta."
+  },
+  {
+   "label": "Obrero",
+   "text": "Antenas de 12 o 13 segmentos, y cuando son 13 el tercer segmento es muy corto y su separación del cuarto es incompleta. Las mandíbulas son muy similares a las de Nasutitermes; índice mandibular izquierdo 0.45–0.55. Tubo digestivo: la porción mesentérica del segmento mixto se une mediante un pedículo ancho a la parte dorsointerna del resto del mesenterón; los 4 túbulos de Malpighi se aproximan entre sí en su inserción en la unión entre el mesenterón y el proctodeo; la corona superior de espinas de la válvula pilórica es algo asimétrica y las espinas de la corona inferior penetran en la luz del estómago. El obrero es dimórfico; la distribución de la longitud corporal del obrero mayor es unimodal, sin crecimiento dentro de un mismo instar y con un ligero oscurecimiento de la pigmentación."
+  }
+ ]
+}

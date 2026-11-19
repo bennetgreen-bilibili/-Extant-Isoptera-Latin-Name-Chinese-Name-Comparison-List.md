@@ -34,14 +34,13 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT / "_tools"))
+import shard_io  # noqa: E402
 SPECIES_DIR = ROOT / "_species"
 DATA_JSON = ROOT / "isoptera-data.json"
 INDEX_JSON = ROOT / "data" / "index.json"
 CONFIG = ROOT / "_config.yml"
-ETYMOLOGY_JSON = ROOT / "_data" / "etymology.json"
-FAUNA_JSON = ROOT / "_data" / "fauna_species.json"
-MORPH_JSON = ROOT / "_data" / "morphology_species.json"
-TRANS_JSON = {"en": ROOT / "_data" / "translations_en.json", "es": ROOT / "_data" / "translations_es.json"}
+TRANS_DATA = {"en": "translations_en", "es": "translations_es"}
 LANG_DIRS = {"en": ROOT / "en" / "species", "es": ROOT / "es" / "species"}
 
 BEGIN = "<!-- AUTO:BEGIN -->"
@@ -306,7 +305,7 @@ def html_text(value):
 
 
 def pick_es(entry):
-    """_data/etymology.json 条目的 es 字段；缺失 / 非字符串一律视为没有（绝不回落英文）。"""
+    """_data/etymology/ 条目的 es 字段；缺失 / 非字符串一律视为没有（绝不回落英文）。"""
     value = (entry or {}).get("es")
     return value.strip() if isinstance(value, str) else ""
 
@@ -898,13 +897,11 @@ def main():
     args = ap.parse_args()
 
     meta = load_meta()
-    meta["etymology"] = json.loads(ETYMOLOGY_JSON.read_text(encoding="utf-8")) if ETYMOLOGY_JSON.is_file() else {}
+    meta["etymology"] = shard_io.load("etymology")
     base_url = site_base_url()
-    fauna = json.loads(FAUNA_JSON.read_text(encoding="utf-8")) if FAUNA_JSON.is_file() else {}
-    morph = json.loads(MORPH_JSON.read_text(encoding="utf-8")) if MORPH_JSON.is_file() else {}
-    trans = {}
-    for lang, path in TRANS_JSON.items():
-        trans[lang] = json.loads(path.read_text(encoding="utf-8")) if path.is_file() else {}
+    fauna = shard_io.load("fauna_species")
+    morph = shard_io.load("morphology_species")
+    trans = {lang: shard_io.load(name) for lang, name in TRANS_DATA.items()}
 
     files, fms = {}, {}
     for path in sorted(SPECIES_DIR.glob("*.md")):

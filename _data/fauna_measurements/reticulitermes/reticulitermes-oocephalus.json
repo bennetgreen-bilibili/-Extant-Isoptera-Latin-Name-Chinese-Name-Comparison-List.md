@@ -1,0 +1,58 @@
+{
+ "book_n": "215",
+ "book_name": "蛋头蔡白蚁 Tsaitermes oocephalus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "蛋头蔡白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.23",
+     "value": "1.19–1.26"
+    },
+    {
+     "key": "head_width",
+     "mean": "1.04",
+     "value": "1.00–1.09"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.39",
+     "value": "0.38–0.41"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.18",
+     "value": "1.14–1.21"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.15",
+     "value": "0.14–0.17"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.53",
+     "value": "0.48–0.56"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.86",
+     "value": "0.82–0.89"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.05",
+     "value": "0.99–1.09"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 378,
+   "unit": "mm"
+  }
+ ]
+}

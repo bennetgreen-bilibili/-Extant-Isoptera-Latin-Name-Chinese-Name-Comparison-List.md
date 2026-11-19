@@ -1,0 +1,167 @@
+{
+ "Postelectrotermes amplus": {
+  "label": "Postelectrotermes amplus (Sjöstedt, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83009,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83009/overview",
+  "valid_label": null,
+  "valid_otu": 83009,
+  "verified": false
+ },
+ "Postelectrotermes bhimi": {
+  "label": "Postelectrotermes bhimi Roonwal & Maiti, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 83010,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83010/overview",
+  "valid_label": null,
+  "valid_otu": 83010,
+  "verified": false
+ },
+ "Postelectrotermes bidentatus": {
+  "label": "Postelectrotermes bidentatus Ravan & Akhtar, 1999",
+  "match": "exact",
+  "notes": "",
+  "otu": 83011,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83011/overview",
+  "valid_label": null,
+  "valid_otu": 83011,
+  "verified": false
+ },
+ "Postelectrotermes castaneiceps": {
+  "label": "Postelectrotermes castaneiceps (Sjöstedt, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83012,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83012/overview",
+  "valid_label": null,
+  "valid_otu": 83012,
+  "verified": false
+ },
+ "Postelectrotermes howa": {
+  "label": "Postelectrotermes howa (Wasmann, 1897)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83013,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83013/overview",
+  "valid_label": null,
+  "valid_otu": 83013,
+  "verified": false
+ },
+ "Postelectrotermes longiceps": {
+  "label": "Postelectrotermes longiceps (Cachan, 1949)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83014,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83014/overview",
+  "valid_label": null,
+  "valid_otu": 83014,
+  "verified": false
+ },
+ "Postelectrotermes longus": {
+  "label": "Postelectrotermes longus (Holmgren, 1910)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83015,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83015/overview",
+  "valid_label": null,
+  "valid_otu": 83015,
+  "verified": false
+ },
+ "Postelectrotermes militaris": {
+  "label": "Postelectrotermes militaris (Desneux, 1904)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83016,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83016/overview",
+  "valid_label": null,
+  "valid_otu": 83016,
+  "verified": false
+ },
+ "Postelectrotermes nayari": {
+  "label": "Postelectrotermes nayari Roonwal & Verma, 1971",
+  "match": "exact",
+  "notes": "",
+  "otu": 83017,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83017/overview",
+  "valid_label": null,
+  "valid_otu": 83017,
+  "verified": false
+ },
+ "Postelectrotermes pasniensis": {
+  "label": "Postelectrotermes pasniensis Akhtar, 1974",
+  "match": "exact",
+  "notes": "",
+  "otu": 83018,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83018/overview",
+  "valid_label": null,
+  "valid_otu": 83018,
+  "verified": false
+ },
+ "Postelectrotermes pishinensis": {
+  "label": "Postelectrotermes pishinensis (Ahmad, 1955)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83019,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83019/overview",
+  "valid_label": null,
+  "valid_otu": 83019,
+  "verified": false
+ },
+ "Postelectrotermes praecox": {
+  "label": "Postelectrotermes praecox (Hagen, 1858)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83020,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83020/overview",
+  "valid_label": null,
+  "valid_otu": 83020,
+  "verified": false
+ },
+ "Postelectrotermes sordwanae": {
+  "label": "Postelectrotermes sordwanae (Coaton, 1949)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83021,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83021/overview",
+  "valid_label": null,
+  "valid_otu": 83021,
+  "verified": false
+ },
+ "Postelectrotermes tongyaii": {
+  "label": "Postelectrotermes tongyaii Ahmad, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 83022,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83022/overview",
+  "valid_label": null,
+  "valid_otu": 83022,
+  "verified": false
+ },
+ "Postelectrotermes zabuliensis": {
+  "label": "Postelectrotermes zabuliensis Ravan & Akhtar, 1999",
+  "match": "exact",
+  "notes": "",
+  "otu": 83023,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83023/overview",
+  "valid_label": null,
+  "valid_otu": 83023,
+  "verified": false
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "book_n": "473",
+ "book_name": "丘额钝颚白蚁 Ahntaditermes sinuosus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "丘额钝颚白蚁兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "3.00–3.86"
+    },
+    {
+     "key": "head_length_without_nasus",
+     "value": "0.75–0.86"
+    },
+    {
+     "key": "head_width",
+     "value": "0.61–0.75"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.31–0.42"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "0.78–0.94"
+    }
+   ],
+   "src_file": "901-989.txt",
+   "src_line": 211,
+   "unit": "mm"
+  }
+ ]
+}

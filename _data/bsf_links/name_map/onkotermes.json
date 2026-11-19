@@ -1,0 +1,24 @@
+{
+ "Onkotermes brevicorniger": {
+  "label": "Onkotermes brevicorniger (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85669,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85669/overview",
+  "valid_label": null,
+  "valid_otu": 85669,
+  "verified": false
+ },
+ "Onkotermes corochus": {
+  "label": "Onkotermes corochus Torales & Fontes, 2008",
+  "match": "exact",
+  "notes": "",
+  "otu": 85670,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85670/overview",
+  "valid_label": null,
+  "valid_otu": 85670,
+  "verified": false
+ }
+}

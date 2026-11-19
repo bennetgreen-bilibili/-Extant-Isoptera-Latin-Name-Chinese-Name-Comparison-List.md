@@ -1,0 +1,73 @@
+{
+ "book_n": "47",
+ "book_name": "赵氏树白蚁 Glyptotermeszhaoi",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "赵氏树白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.40",
+     "value": "1.35–1.45"
+    },
+    {
+     "key": "head_width",
+     "mean": "1.29",
+     "value": "1.25–1.35"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.25",
+     "value": "0.23–0.27"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.37",
+     "value": "0.36–0.38"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.97",
+     "value": "0.97"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.71",
+     "value": "1.63–1.86"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.51",
+     "value": "0.50–0.51"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.21",
+     "value": "0.20–0.23"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.76",
+     "value": "0.74–0.77"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.31",
+     "value": "1.27–1.35"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.06",
+     "value": "1.02–1.10"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 1031,
+   "unit": "mm"
+  }
+ ]
+}

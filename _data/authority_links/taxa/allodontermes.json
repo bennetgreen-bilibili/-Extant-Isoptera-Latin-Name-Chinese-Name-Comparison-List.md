@@ -1,0 +1,68 @@
+{
+ "Allodontermes rhodesiensis": {
+  "gbif": {
+   "key": 9706074,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Allodontermes rhodesiensis (Sjöstedt, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "BWDZ",
+   "status": "accepted",
+   "label": "Allodontermes rhodesiensis (Sjöstedt, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234536",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Allodontermes schultzei": {
+  "gbif": {
+   "key": 9664341,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Allodontermes schultzei (Silvestri, 1908)",
+   "accepted": null
+  },
+  "col": {
+   "id": "65WNG",
+   "status": "accepted",
+   "label": "Allodontermes schultzei (Silvestri, 1908)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234537",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Allodontermes tenax": {
+  "gbif": {
+   "key": 9745840,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Allodontermes tenax (Silvestri, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "668NG",
+   "status": "accepted",
+   "label": "Allodontermes tenax (Silvestri, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234539",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

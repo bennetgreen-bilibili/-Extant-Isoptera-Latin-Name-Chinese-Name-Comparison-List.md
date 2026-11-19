@@ -1,0 +1,17 @@
+{
+ "zh_name": "动白蚁属",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "大型具颚（mandibulate）兵蚁；触角多于 20 节；各品级尾须（cerci）显著。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0101",
+   "citation": "De Luna, M., Scheffrahn, R. H., García-Barrios, R. & Cuéllar-Rodríguez, C. 2023. Termites (Blattodea: Isoptera) of Canada, continental USA, and Mexico: an identification key to families and genera, checklist of species, and new records for Mexico. Acta Zoológica Mexicana (nueva serie) 39: 1–30. doi:10.21829/azm.2023.3912484",
+   "locator": "couplet 2, pp. 4–11"
+  }
+ ],
+ "note": "仅据 De Luna et al. 2023 北美属检索表兵蚁鉴别对（薄），非完整属征。"
+}

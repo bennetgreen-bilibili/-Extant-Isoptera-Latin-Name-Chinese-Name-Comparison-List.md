@@ -1,0 +1,34 @@
+{
+ "book_n": "442",
+ "book_name": "翘鼻华象白蚊 Sinonasutitermes erectinasus",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "翘鼻华象白蚁有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length_without_wings",
+     "value": "10.00–10.50"
+    },
+    {
+     "key": "wing_length",
+     "value": "15.00–16.50"
+    },
+    {
+     "key": "eye_long_diameter",
+     "value": "0.60–0.62"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.39–1.47"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 1004,
+   "unit": "mm"
+  }
+ ]
+}

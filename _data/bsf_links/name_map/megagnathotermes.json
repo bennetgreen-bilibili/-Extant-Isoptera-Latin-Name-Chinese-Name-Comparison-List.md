@@ -1,0 +1,13 @@
+{
+ "Megagnathotermes notandus": {
+  "label": "Megagnathotermes notandus Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 85090,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85090/overview",
+  "valid_label": null,
+  "valid_otu": 85090,
+  "verified": false
+ }
+}

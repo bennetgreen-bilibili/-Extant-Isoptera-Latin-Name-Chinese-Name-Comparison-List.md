@@ -1,0 +1,86 @@
+{
+ "book_n": "294",
+ "book_name": "土垅大白蚁 Macrotermes unnandalei",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "土垅大白蚊大兵蚁量度( mm)",
+   "label_en": "Major soldier measurements",
+   "label_es": "Medidas de soldado mayor",
+   "label_zh": "大兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "13.00–14.00"
+    },
+    {
+     "key": "head_length_without_mandibles",
+     "value": "4.22–4.72"
+    },
+    {
+     "key": "head_width",
+     "value": "3.72–4.27"
+    },
+    {
+     "key": "postmentum_max_width",
+     "value": "1.00–1.20"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.59–0.66"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "1.28–1.33"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "2.44–2.61"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 524,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "土垅大白蚁有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "28.00"
+    },
+    {
+     "key": "body_length_without_wings",
+     "value": "15.00"
+    },
+    {
+     "key": "wing_length",
+     "value": "24.50"
+    },
+    {
+     "key": "eye_long_diameter",
+     "value": "0.88"
+    },
+    {
+     "key": "ocellus_length",
+     "value": "0.41"
+    },
+    {
+     "key": "ocellus_width",
+     "value": "0.27"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.20"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 541,
+   "unit": "mm"
+  }
+ ]
+}

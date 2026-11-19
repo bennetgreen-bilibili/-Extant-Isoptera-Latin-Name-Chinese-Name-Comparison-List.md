@@ -1,0 +1,324 @@
+{
+ "Ruptitermes araujoi": {
+  "gbif": {
+   "key": 8507368,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ruptitermes araujoi Acioli & Constantino, 2015",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Ruptitermes Mathews, 1977",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q25973287",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ruptitermes arboreus": {
+  "gbif": {
+   "key": 8562896,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ruptitermes arboreus (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4TQS7",
+   "status": "accepted",
+   "label": "Ruptitermes arboreus (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084337",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ruptitermes atyra": {
+  "gbif": {
+   "key": 8635856,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ruptitermes atyra",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Ruptitermes Mathews, 1977",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q25973288",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ruptitermes bandeirai": {
+  "gbif": {
+   "key": 8441366,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ruptitermes bandeirai",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Ruptitermes Mathews, 1977",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q25973289",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ruptitermes cangua": {
+  "gbif": {
+   "key": 8644153,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ruptitermes cangua",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Ruptitermes Mathews, 1977",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q25973290",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ruptitermes franciscoi": {
+  "gbif": {
+   "key": 8555127,
+   "status": "SYNONYM",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ruptitermes franciscoi (Snyder, 1946) Snyder, 1946",
+   "accepted": {
+    "key": 9070348,
+    "name": "Anoplotermes franciscoi Snyder, 1959",
+    "status": null,
+    "rank": "SPECIES"
+   }
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Ruptitermes Mathews, 1977",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q140758169",
+  "flags": [
+   "gbif_synonym",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ruptitermes kaapora": {
+  "gbif": {
+   "key": 8514876,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ruptitermes kaapora",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Ruptitermes Mathews, 1977",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q25973291",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ruptitermes krishnai": {
+  "gbif": {
+   "key": 8688272,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ruptitermes krishnai",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Ruptitermes Mathews, 1977",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q25973292",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ruptitermes maraca": {
+  "gbif": {
+   "key": 8478934,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ruptitermes maraca",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Ruptitermes Mathews, 1977",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q25973293",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ruptitermes piliceps": {
+  "gbif": {
+   "key": 8593316,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ruptitermes piliceps",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Ruptitermes Mathews, 1977",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q25973294",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ruptitermes pitan": {
+  "gbif": {
+   "key": 8604429,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ruptitermes pitan",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Ruptitermes Mathews, 1977",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q25973295",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ruptitermes reconditus": {
+  "gbif": {
+   "key": 8468916,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ruptitermes reconditus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4TQS9",
+   "status": "accepted",
+   "label": "Ruptitermes reconditus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084341",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ruptitermes xanthochiton": {
+  "gbif": {
+   "key": 8676496,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ruptitermes xanthochiton Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WXFW",
+   "status": "accepted",
+   "label": "Ruptitermes xanthochiton Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084343",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

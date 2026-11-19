@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "早中新世新西兰的化石种",
+   "heading_en": "A fossil species from the Early Miocene of New Zealand",
+   "heading_es": "Una especie fósil del Mioceno temprano de Nueva Zelanda",
+   "paragraphs": [
+    {
+     "src": [
+      "S0213"
+     ],
+     "text": "据摘要，Kaulfuß 等（2010）对新西兰南岛奥塔戈（Otago）早中新世湖相沉积中一件前翅化石的研究表明，胄白蚁属（<i>Stolotermes</i>）在早中新世已出现在新西兰：该标本具备胄白蚁属（<i>Stolotermes</i>）的属征，但尺寸与翅脉均与现生种不同，被描述为该属的一个新种，种名 kupe（本站名录未收录该化石种）。",
+     "text_en": "According to the abstract of Kaulfuß et al. (2010), a forewing fossil from Early Miocene lacustrine deposits of Otago, South Island, New Zealand, shows that the genus <i>Stolotermes</i> was already present in New Zealand in the Early Miocene: the specimen has the diagnostic characters of <i>Stolotermes</i> but differs from living species in both size and venation, and was described as a new species of the genus with the epithet kupe (this fossil species is not included in the site's checklist).",
+     "text_es": "Según el resumen de Kaulfuß et al. (2010), un ala anterior fósil procedente de depósitos lacustres del Mioceno temprano de Otago, en la Isla Sur de Nueva Zelanda, muestra que el género <i>Stolotermes</i> ya estaba presente en Nueva Zelanda en el Mioceno temprano: el ejemplar presenta los caracteres diagnósticos de <i>Stolotermes</i>, pero difiere de las especies actuales tanto en tamaño como en venación, y fue descrito como una especie nueva del género con el epíteto kupe (esta especie fósil no figura en el listado del sitio)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0213",
+   "citation": "Kaulfuß, U.; Harris, A. C.; Lee, D. E. 2010. A New Fossil Termite (Isoptera, Stolotermitidae, Stolotermes) from the Early Miocene of Otago, New Zealand. Acta Geologica Sinica - English Edition.",
+   "doi": "10.1111/j.1755-6724.2010.00275.x"
+  }
+ ]
+}

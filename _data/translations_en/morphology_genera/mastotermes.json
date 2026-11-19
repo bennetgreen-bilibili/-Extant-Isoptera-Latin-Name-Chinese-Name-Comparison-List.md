@@ -1,0 +1,13 @@
+{
+ "note": "The paper is a family-level taxonomic revision; the generic morphology is concentrated in the wing venation, and the original has no sections on soldier or worker morphology, so only diagnostic characters and the alate are given. Two points are easily misattributed: the archidictyon reticulate venation (the original states explicitly that it is shared by the Mastotermitidae and the Hodotermitidae and is not a generic character); and the media joining the radial sector a short distance behind the humeral suture, which is a general feature of termites (the original says 'in nearly all cases'); neither is included.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Generic characters at the level of the wing venation: the radial sector of the forewing is strongly fused, with the adjacent upper branches closely spaced; the humeral suture of the forewing is more curved and more convex than in Blattotermes; the hindwing has a well-developed anal lobe, which the original describes as a feature of this genus and its close relatives; the radial sector is compact and the media lies closer to the radial sector and farther from the anterior cubitus, on which basis wing-only specimens can be assigned to this genus."
+  },
+  {
+   "label": "Alate",
+   "text": "The radial sector of the forewing is highly fused, with the adjacent upper branches closely spaced; the humeral suture of the forewing forms a distinct arcuate convexity and is more curved than in Blattotermes; the anal lobe of the hindwing is well developed."
+  }
+ ]
+}

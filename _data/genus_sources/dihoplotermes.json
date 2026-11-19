@@ -1,0 +1,35 @@
+{
+ "latin": "Dihoplotermes",
+ "zh": "双戟白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Dihoplotermes Araujo, 1961: 108.",
+ "type_species": "Dihoplotermes inusitatus Araujo, 1961 by original designation.",
+ "references": [
+  {
+   "ref": "Krishna, 1968: 310–312",
+   "note": "Dihoplotermes; synonymy; key; characters; phylogeny; species included; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 30",
+   "note": "Dihoplotermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 140",
+   "note": "Dihoplotermes; synonymy; characters."
+  },
+  {
+   "ref": "Mill, 1983a: 181, 182",
+   "note": "Dihoplotermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Constantino, 1999a: 406, 418",
+   "note": "Dihoplotermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 22",
+   "note": "Dihoplotermes; key."
+  }
+ ],
+ "nrefs": 11
+}

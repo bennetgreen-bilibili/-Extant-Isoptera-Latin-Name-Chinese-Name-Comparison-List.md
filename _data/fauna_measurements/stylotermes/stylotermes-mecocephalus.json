@@ -1,0 +1,63 @@
+{
+ "book_n": "238",
+ "book_name": "长头杆白蚊 Stylotermes mecocephalus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "长头杆白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.19",
+     "value": "1.16–1.22"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.01",
+     "value": "1.00–1.04"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.32",
+     "value": "0.29–0.34"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.37",
+     "value": "0.35–0.39"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.35",
+     "value": "1.30–1.39"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.18",
+     "value": "0.16–0.19"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.56",
+     "value": "0.53–0.64"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.05",
+     "value": "0.97–1.14"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.91",
+     "value": "0.86–0.94"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 867,
+   "unit": "mm"
+  }
+ ]
+}

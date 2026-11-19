@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "属的界定与系统位置",
+   "heading_en": "Definition and phylogenetic position of the genus",
+   "heading_es": "Definición y posición filogenética del género",
+   "paragraphs": [
+    {
+     "text": "根据 Gay（1974）研究，西部白蚁属（<i>Occasitermes</i>）由 Holmgren 建立，该研究界定了该属并讨论其系统位置；属的模式种为西部西部白蚁（<i>Occasitermes occasus</i>），该文对其分布与生物学作了记述，同时描述采自新南威尔士州的新种沃森西部白蚁（<i>Occasitermes watsoni</i>）。（据摘要）",
+     "src": [
+      "S0341"
+     ],
+     "text_en": "In the study by Gay (1974), the genus <i>Occasitermes</i>, erected by Holmgren, is defined and its phylogenetic position discussed; the type species is <i>Occasitermes occasus</i>, whose distribution and biology are described, and a new species, <i>Occasitermes watsoni</i>, is described from New South Wales. (According to the abstract.)",
+     "text_es": "En el estudio de Gay (1974) se define el género <i>Occasitermes</i>, erigido por Holmgren, y se discute su posición filogenética; la especie tipo es <i>Occasitermes occasus</i>, cuya distribución y biología se describen, y se describe una especie nueva, <i>Occasitermes watsoni</i>, de Nueva Gales del Sur. (Según el resumen.)"
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0341",
+   "citation": "Gay, F. J. 1974. The Australian termite genus Occasitermes (Isoptera: Termitidae: Nasutitermitinae). Australian Journal of Entomology 13.",
+   "doi": "10.1111/j.1440-6055.1974.tb02208.x"
+  }
+ ]
+}

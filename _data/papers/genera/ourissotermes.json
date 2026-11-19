@@ -1,0 +1,38 @@
+{
+ "latin": "Ourissotermes",
+ "zh": "海胆白蚁属",
+ "fetched_at": "2026-10-30T16:54:18Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W4381682930",
+   "openalex_url": "https://openalex.org/W4381682930",
+   "doi": "10.3897/zookeys.1167.100001",
+   "doi_url": "https://doi.org/10.3897/zookeys.1167.100001",
+   "title": "Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae)",
+   "year": 2023,
+   "date": "2023-06-22",
+   "authors": [
+    "Tiago F. Carrijo",
+    "Daniel Castro",
+    "Menglin Wang",
+    "Joice Paulo Constantini",
+    "Thomas Bourguignon",
+    "Eliana M. Cancello",
+    "Yves Roisin",
+    "Rudolf H. Scheffrahn"
+   ],
+   "venue": "ZooKeys",
+   "type": "article",
+   "language": "en",
+   "cited_by": 12,
+   "oa_url": "https://doi.org/10.3897/zookeys.1167.100001",
+   "volume": "1167",
+   "issue": "",
+   "pages": "317-352",
+   "abstract": "The neotropical Apicotermitinae is a common and widespread clade of mostly soil-feeding soldierless termites. With few exceptions, species of this group were originally assigned to the genus Anoplotermes Müller, 1873. The application of internal worker morphology coupled with genetic sequencing has recently shed light on the true diversity of this subfamily. Herein, Anoplotermes susanae Scheffrahn, Carrijo & Castro, sp. nov. and four new species in four new genera are described: Hirsutitermes kanzakii Scheffrahn, Carrijo & Castro, gen. nov. et sp. nov., Krecekitermes daironi Scheffrahn, Carrijo & Castro, gen. nov. et sp. nov., Mangolditermes curveileum Scheffrahn, Carrijo & Castro, gen. nov. et sp. nov., and Ourissotermes giblinorum Scheffrahn, Carrijo & Castro, gen. nov. et sp. nov. Worker descriptions are based mainly on worker gut morphology, including the enteric valve, while imagoes were described based on external characters. A Bayesian phylogenetic tree of New World Apicotermitinae was constructed using the complete mitogenome to infer genera relationships and corroborate the taxonomic decisions. Distribution maps and a dichotomic key to the known Neotropical Apicotermitinae genera are provided.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1221,
+   "abstract_truncated": false
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "zh_name": "距白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫与 Glyptotermes 相似；兵蚁可据前足胫节端部外侧一根粗大距刺区别于其他属，该刺远大于其余两个端距。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "深褐色；眼小，径 0.29–0.34 mm，多数种单眼接触复眼；触角 13–14 节；左上颚第一、二缘齿后缘与第三缘齿前缘等长，多数种两者间缺刻消失，形成凹的切缘；右上颚第二缘齿后缘略长于臼板；前胸背板略窄于头；翅脉似 Glyptotermes；爪间突存在。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头深色、厚、半圆柱形，明显双叶，叶间呈 V 形或 U 形凹；额前面陡，坡度可大于或小于垂直，部分种背缘前伸或于上缘与唇基间凹入；部分种颏下侧在颚基与触角窝下方之间形成角状突；眼明显或不清楚、无色；触角 10–12 节，第三节短而不特化；上颚通常短宽，具或不具基瘤；前胸背板窄于、等于或宽于头，前缘浅角状或明显凹；前足胫节近端外侧有一粗大距刺，远大于其余两个端距。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0021",
+   "citation": "Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.",
+   "locator": "p. 349"
+  }
+ ]
+}

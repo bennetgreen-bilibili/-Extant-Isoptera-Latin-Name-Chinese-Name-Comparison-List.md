@@ -1,0 +1,13 @@
+{
+ "Schievitermes globicornis": {
+  "label": "Schievitermes globicornis Roisin, 2022",
+  "match": "exact",
+  "notes": "",
+  "otu": 680901,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/680901/overview",
+  "valid_label": null,
+  "valid_otu": 680901,
+  "verified": false
+ }
+}

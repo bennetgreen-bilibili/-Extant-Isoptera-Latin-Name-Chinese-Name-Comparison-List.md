@@ -1,0 +1,63 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "澳大利亚的间断分布",
+   "heading_en": "A disjunct distribution in Australia",
+   "heading_es": "Una distribución disyunta en Australia",
+   "paragraphs": [
+    {
+     "src": [
+      "S0326"
+     ],
+     "text": "根据 Scheffrahn 与 Postle（2013）研究，边白蚁属（<i>Marginitermes</i>）此前仅知哈伯德边白蚁（<i>Marginitermes hubbardi</i>）与食刺边白蚁（<i>Marginitermes cactiphagus</i>）2 种，分别分布于新北区西南部与中美洲；该研究据澳大利亚北部 Cape York 与 Cape Arnhem 的有翅成虫与兵蚁描述遥远边白蚁（<i>Marginitermes absitus</i>）为新种，使该属增至 3 种（据摘要）。",
+     "text_en": "According to Scheffrahn and Postle (2013), <i>Marginitermes</i> was previously known from only two species, <i>Marginitermes hubbardi</i> and <i>Marginitermes cactiphagus</i>, from the south-western Nearctic and Central America respectively; the study describes <i>Marginitermes absitus</i> as a new species from Cape York and Cape Arnhem in northern Australia, on the basis of the imago and soldier castes, raising the genus to three species (according to the abstract).",
+     "text_es": "Según Scheffrahn y Postle (2013), <i>Marginitermes</i> solo se conocía por dos especies, <i>Marginitermes hubbardi</i> y <i>Marginitermes cactiphagus</i>, del suroeste del Neártico y de América Central respectivamente; el estudio describe <i>Marginitermes absitus</i> como especie nueva de Cape York y Cape Arnhem, en el norte de Australia, a partir de las castas imago y soldado, elevando el género a tres especies (según el resumen)."
+    },
+    {
+     "src": [
+      "S0326"
+     ],
+     "text": "作者认为，遥远边白蚁（<i>Marginitermes absitus</i>）的地理分布及其隔离程度，是世界上任一白蚁属中最间断、最孤立的分布之一；依据化石记录与构造史，包括该种在内的澳大利亚木白蚁科（Kalotermitidae）是在第三纪经跨洋漂流到达澳洲大陆的（据摘要）。",
+     "text_en": "The authors consider the geographical range and isolation of <i>Marginitermes absitus</i> to represent one of the most disjunct and isolated distributions for any termite genus worldwide; based on fossil records and tectonic history, the Australian Kalotermitidae, including this species, arrived on the continent by transoceanic rafting during the Tertiary (according to the abstract).",
+     "text_es": "Los autores consideran que el área geográfica y el aislamiento de <i>Marginitermes absitus</i> representan una de las distribuciones más disyuntas y aisladas de cualquier género de termitas en el mundo; sobre la base del registro fósil y de la historia tectónica, los Kalotermitidae australianos, incluida esta especie, llegaron al continente por dispersión transoceánica durante el Terciario (según el resumen)."
+    }
+   ]
+  },
+  {
+   "heading": "属的重新描述与前胃铠甲结构",
+   "heading_en": "Redescription of the genus and the proventricular armature",
+   "heading_es": "Redescripción del género y la armadura proventricular",
+   "paragraphs": [
+    {
+     "text": "据摘要，Myles（1997）据墨西哥南下加利福尼亚（Baja California del Sur）的标本描述边白蚁属（<i>Marginitermes</i>）的第 2 种食刺边白蚁（<i>Marginitermes cactiphagus</i>），并对该属作重新描述，使该属由单种属成为含 2 种的属。",
+     "text_en": "According to the abstract, Myles (1997) described the second species of the dry-wood termite genus <i>Marginitermes</i>, <i>Marginitermes cactiphagus</i>, from material collected in Baja California del Sur, Mexico, and redescribed the genus, so that it ceased to be monotypic and came to contain two species.",
+     "text_es": "Según el resumen, Myles (1997) describió la segunda especie del género de termitas de madera seca <i>Marginitermes</i>, <i>Marginitermes cactiphagus</i>, a partir de material de Baja California del Sur, México, y redescribió el género, de modo que éste dejó de ser monotípico y pasó a contener dos especies.",
+     "src": [
+      "S0357"
+     ]
+    },
+    {
+     "text": "据摘要，该研究指出边白蚁属（<i>Marginitermes</i>）2 个种的前胃铠甲结构与近缘干木白蚁不同，推测这是对肠道内处理仙人掌木质纤维的独特适应；作者并认为边白蚁属与楹白蚁属（<i>Incisitermes</i>）的一个西部大陆亚群近缘。",
+     "text_en": "According to the abstract, the study noted that the two species of <i>Marginitermes</i> differ from related dry-wood termites in the structure of the proventricular armature, which is suggestive of a unique adaptation for the intestinal manipulation of cactus wood fibres; the author further considered <i>Marginitermes</i> to be related to a western continental subgroup of <i>Incisitermes</i>.",
+     "text_es": "Según el resumen, el estudio señaló que las dos especies de <i>Marginitermes</i> difieren de las termitas de madera seca emparentadas en la estructura de la armadura proventricular, lo que sugiere una adaptación única para la manipulación intestinal de las fibras de madera de cactus; el autor consideró además que <i>Marginitermes</i> está emparentado con un subgrupo continental occidental de <i>Incisitermes</i>.",
+     "src": [
+      "S0357"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0326",
+   "citation": "Scheffrahn, R. H.; Postle, A. C. 2013. New termite species and newly recorded genus for Australia: Marginitermes absitus (Isoptera: Kalotermitidae). Australian Journal of Entomology.",
+   "url": "https://doi.org/10.1111/aen.12023"
+  },
+  {
+   "id": "S0357",
+   "citation": "Myles, T. G. 1997. A second species of the drywood termite genus Marginitermes (Isoptera: Kalotermitidae). The Canadian Entomologist.",
+   "url": "https://doi.org/10.4039/ent129757-4"
+  }
+ ]
+}

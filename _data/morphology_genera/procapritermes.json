@@ -1,0 +1,29 @@
+{
+ "zh_name": "前扭白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "Holmgren 1912 建立的新属，含 3 种，均产婆罗洲：Procapritermes atypus（新种）、P. minutus (Hav.)、P. setiger (Hav.)。有翅成虫触角 14 节、向端部明显加粗，末节顶端有一尖状附器；兵蚁头长矩形、无额突，上颚呈细杆状而不对称，其弯曲与 Capritermes 同型但极弱，基节之上有一锐而强的齿；工蚁头相当小、宽卵形，上颚具大端齿，触角 14 节。原文指出本属实为由 Mirotermes 的 Protocapritermes 亚属稍加分化而成的属。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头宽卵形，向前收窄。复眼相对小。单眼与复眼相距几乎不超过其直径。唇基基部短于其半宽，扁平隆起，无中线。上颚第 1 齿大。触角 14 节，向末端明显加粗，末节顶端具一尖状附器。中、后胸背板后部收狭，末端具凹口。翅膜具小点（刺）。中脉靠近肘脉。腹部细长。无刺突。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头细长，矩形，无额突，相对扁平，向前渐次平截。额腺孔小，从上方完全可见，围以稀疏的毛（残存的毛环）。唇基基部很窄，以大的上颚基节为界。上唇远长于宽，或左右对称，或明显偏向右侧。上颚细杆状而不对称，左上颚基部外缘相当强地凹入；其弯曲与 Capritermes 者同型，但只极弱地表现。基节之上有一锐而强的齿。触角 14 节，第 3 节长于第 2 节，约与第 4 节等长。前胸背板小，鞍形。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头相当小，宽卵形。唇基基部后缘极弱凸、前缘平直，短于（远短于）其半宽，相当强隆起。上颚具大端齿。触角 14 节。前胸背板小，鞍形。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren, N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familien Mastotermitidae, Protermitidae und Mesotermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166, Taf. 1–4.",
+   "locator": "p. 113（archive.org 项 biostor-184513 页面图像）"
+  }
+ ],
+ "note": "描述据 Holmgren 1912 原文（archive.org 项 biostor-184513 的页面图像，p. 113）。四种名录据同页：atypus n. sp.、minutus Hav.、setiger Hav.，均产婆罗洲；p. 113 下段起为系统关系讨论（作者称本属实为 Mirotermes 的 Protocapritermes 亚属稍加分化而成）。zh_name 暂用拉丁名（批次标为「—」）。"
+}

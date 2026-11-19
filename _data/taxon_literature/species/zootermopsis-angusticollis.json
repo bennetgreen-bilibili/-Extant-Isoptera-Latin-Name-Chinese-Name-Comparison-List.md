@@ -1,0 +1,46 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "群体大小与社会性免疫",
+   "heading_en": "Group size and social immunity",
+   "heading_es": "Tamaño del grupo e inmunidad social",
+   "paragraphs": [
+    {
+     "src": [
+      "S0002"
+     ],
+     "text": "根据 Rosengaus 等（1998b）研究，狭颈动白蚁（<i>Zootermopsis angusticollis</i>）末龄若虫（若蚁）暴露于绿僵菌（<i>Metarhizium anisopliae</i>）分生孢子后，独居个体在 2–6 天内发病，显著快于 10 头或 25 头群居个体；与独居相比，群居个体的死亡率下降约 90%。",
+     "text_en": "According to Rosengaus et al. (1998b), when last-instar nymphs of <i>Zootermopsis angusticollis</i> were exposed to conidia of <i>Metarhizium anisopliae</i>, solitary individuals became infected within 2–6 days, significantly faster than those kept in groups of 10 or 25, and mortality in groups was about 90% lower than in solitary individuals.",
+     "text_es": "Según Rosengaus et al. (1998b), al exponer ninfas de último estadio de <i>Zootermopsis angusticollis</i> a conidios de <i>Metarhizium anisopliae</i>, los individuos solitarios se infectaron en 2–6 días, significativamente antes que los mantenidos en grupos de 10 o 25, y la mortalidad en grupo fue unas 90% menor que en individuos solitarios."
+    }
+   ]
+  },
+  {
+   "heading": "分布北界",
+   "heading_en": "Northern distribution limit",
+   "heading_es": "Límite septentrional de distribución",
+   "paragraphs": [
+    {
+     "src": [
+      "S0247"
+     ],
+     "text": "根据 Scheffrahn 等（2015）研究，狭颈动白蚁（<i>Zootermopsis angusticollis</i>）在加拿大不列颠哥伦比亚省鲁珀特王子港（Prince Rupert）的记录位于北纬 54.3°，为白蚁分布的最北记录。",
+     "text_en": "According to Scheffrahn et al. (2015), <i>Zootermopsis angusticollis</i> is recorded from Prince Rupert, British Columbia, Canada, at 54.3°N, the northernmost record for termites.",
+     "text_es": "Según Scheffrahn et al. (2015), <i>Zootermopsis angusticollis</i> está registrada en Prince Rupert, Columbia Británica, Canadá, a 54,3°N, el registro más septentrional para las termitas."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0002",
+   "citation": "黄求应 等（译）. 白蚁生物学现代研究合集. 中译合集."
+  },
+  {
+   "id": "S0247",
+   "citation": "Scheffrahn, R. H. 2015. Global elevational, latitudinal, and climatic limits for termites and the redescription of Rugitermes laticollis Snyder (Isoptera: Kalotermitidae) from the Andean Highlands. Universidade Estadual de Feira de Santana.",
+   "doi": "10.13102/sociobiology.v62i3.793"
+  }
+ ]
+}

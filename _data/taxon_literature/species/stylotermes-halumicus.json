@@ -1,0 +1,60 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "研究记述",
+   "heading_en": "Research notes",
+   "heading_es": "Notas de investigación",
+   "paragraphs": [
+    {
+     "text": "根据 Thakur 等（2023）研究，产于中国台湾的穿山甲杆白蚁（<i>Stylotermes halumicus</i>）工蚁第 5 腹板上的腹板腺（sternal gland）是追踪信息素的唯一来源，其分泌物中的 (Z)-dodec-3-en-1-ol（DOE）引起工蚁跟踪的行为阈值约 10^-4 ng/cm。",
+     "text_en": "According to Thakur et al. (2023), in <i>Stylotermes halumicus</i> from Taiwan, China, the sternal gland on the fifth abdominal sternite of workers is the sole source of the trail-following pheromone, and (Z)-dodec-3-en-1-ol (DOE) in its secretion elicits trail following in workers at a behavioural threshold of about 10^-4 ng/cm.",
+     "text_es": "Según Thakur et al. (2023), en <i>Stylotermes halumicus</i> de Taiwán, China, la glándula esternal del quinto esternito abdominal de las obreras es la única fuente de la feromona de seguimiento, y el (Z)-dodec-3-en-1-ol (DOE) de su secreción provoca el seguimiento en las obreras con un umbral de comportamiento de unos 10^-4 ng/cm.",
+     "src": [
+      "S0013"
+     ]
+    },
+    {
+     "text": "据摘要，Thakur 等（2023）用于追踪信息素实验的穿山甲杆白蚁（<i>Stylotermes halumicus</i>）巢片段含数百头工蚁（研究中统按广义拟工蚁计）与数十头兵蚁。",
+     "text_en": "According to the abstract, the nest fragment of <i>Stylotermes halumicus</i> used by Thakur et al. (2023) in their trail-following pheromone experiments contained several hundred workers (counted throughout as pseudergates in the broad sense) and several dozen soldiers.",
+     "text_es": "Según el resumen, el fragmento de nido de <i>Stylotermes halumicus</i> utilizado por Thakur et al. (2023) en sus experimentos con la feromona de seguimiento contenía varios cientos de obreras (contabilizadas en todo el estudio como pseudergados en sentido amplio) y varias decenas de soldados.",
+     "src": [
+      "S0010"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "新种记述",
+   "heading_en": "Description",
+   "heading_es": "Descripción",
+   "paragraphs": [
+    {
+     "src": [
+      "S0250"
+     ],
+     "text": "据摘要，根据 Liang 等（2017）研究，采自台湾东部的标本在与其余 44 种杆白蚁属（<i>Stylotermes</i>）的原始描述逐项比对后，被描述为新种穿山甲杆白蚁（<i>Stylotermes halumicus</i>）。",
+     "text_en": "According to the abstract, Liang et al. (2017) compared specimens from eastern Taiwan with the original descriptions of the other 44 species of <i>Stylotermes</i> and described them as the new species <i>Stylotermes halumicus</i>.",
+     "text_es": "Según el resumen, Liang et al. (2017) compararon especímenes del este de Taiwán con las descripciones originales de las otras 44 especies de <i>Stylotermes</i> y los describieron como la nueva especie <i>Stylotermes halumicus</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0010",
+   "citation": "Thakur H., Agarwal S., Hradecký J., Sharma G., Li H.-F., Yang S.-E., Sehadová H., Chandel R. S., Hyliš M., Mathur V., Šobotník J., Sillam-Dussès D. 2023 The Trail-Following Communication in Stylotermes faveolus and S. halumicus (Blattodea, Isoptera, Stylotermitidae). Journal of Chemical Ecology 49: 642–651.",
+   "doi": "10.1007/s10886-023-01447-w"
+  },
+  {
+   "id": "S0013",
+   "citation": "Thakur Himanshu; Agarwal Surbhi; Hradecký Jaromír; Sharma Garima; Li Hou-Feng; Yang Shang-En; Sehadová Hana; Chandel Ravinder S.; Hyliš Mirek; Mathur Vartika; Šobotník Jan; Sillam-Dussès David 2023 The trail-following communication in Stylotermes spp. (Blattodea, Isoptera, Stylotermitidae).",
+   "doi": "10.21203/rs.3.rs-2770501/v1"
+  },
+  {
+   "id": "S0250",
+   "citation": "Liang, W.-R.; Wu, C.-C.; Li, H.-F. 2017. Discovery of a Cryptic Termite Genus, Stylotermes (Isoptera: Stylotermitidae), in Taiwan, With the Description of a New Species. Annals of the Entomological Society of America.",
+   "doi": "10.1093/aesa/sax034"
+  }
+ ]
+}

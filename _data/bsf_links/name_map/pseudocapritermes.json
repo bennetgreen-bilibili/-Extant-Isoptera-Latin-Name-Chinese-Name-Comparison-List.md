@@ -1,0 +1,211 @@
+{
+ "Pseudocapritermes angustignathus": {
+  "label": "Pseudocapritermes angustignathus (Holmgren, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85783,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85783/overview",
+  "valid_label": null,
+  "valid_otu": 85783,
+  "verified": false
+ },
+ "Pseudocapritermes bhutanensis": {
+  "label": "Pseudocapritermes bhutanensis (Roonwal & Chhotani, 1977)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85784,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85784/overview",
+  "valid_label": null,
+  "valid_otu": 85784,
+  "verified": false
+ },
+ "Pseudocapritermes fletcheri": {
+  "label": "Pseudocapritermes fletcheri (Holmgren & Holmgren, 1917)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85785,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85785/overview",
+  "valid_label": null,
+  "valid_otu": 85785,
+  "verified": false
+ },
+ "Pseudocapritermes jiangchengensis": {
+  "label": "Pseudocapritermes jiangchengensis Yang, Zhu & Huang, 1992",
+  "match": "exact",
+  "notes": "",
+  "otu": 85786,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85786/overview",
+  "valid_label": null,
+  "valid_otu": 85786,
+  "verified": false
+ },
+ "Pseudocapritermes karticki": {
+  "label": "Pseudocapritermes karticki Bose, 1997",
+  "match": "exact",
+  "notes": "",
+  "otu": 85787,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85787/overview",
+  "valid_label": null,
+  "valid_otu": 85787,
+  "verified": false
+ },
+ "Pseudocapritermes kemneri": {
+  "label": "Pseudocapritermes kemneri Akhtar & Afzal, 1989",
+  "match": "exact",
+  "notes": "",
+  "otu": 85788,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85788/overview",
+  "valid_label": null,
+  "valid_otu": 85788,
+  "verified": false
+ },
+ "Pseudocapritermes kunjepu": {
+  "label": "Pseudocapritermes kunjepu Mathew, 2020",
+  "match": "exact",
+  "notes": "",
+  "otu": 1084431,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1084431/overview",
+  "valid_label": null,
+  "valid_otu": 1084431,
+  "verified": false
+ },
+ "Pseudocapritermes megacephalus": {
+  "label": "Pseudocapritermes megacephalus Akhtar & Afzal, 1989",
+  "match": "exact",
+  "notes": "",
+  "otu": 85790,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85790/overview",
+  "valid_label": null,
+  "valid_otu": 85790,
+  "verified": false
+ },
+ "Pseudocapritermes minutus": {
+  "label": "Pseudocapritermes minutus (Tsai & Chen, 1963)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85791,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85791/overview",
+  "valid_label": null,
+  "valid_otu": 85791,
+  "verified": false
+ },
+ "Pseudocapritermes novus": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 85782 Pseudocapritermes Kemner, 1934；OTU 1054069 Pseudocapritermes planus Mathur & Thapa, 1965 now Pseudocapritermes tikadari Roonwal & Chhotani, 1962；OTU 85789 Pseudocapritermes largus Li & Huang, 1986；OTU 85796 Pseudocapritermes pseudolaetus (Tsai & Chen, 1963)",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Pseudocapritermes orientalis": {
+  "label": "Pseudocapritermes orientalis (Ahmad & Akhtar, 1981)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85792,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85792/overview",
+  "valid_label": null,
+  "valid_otu": 85792,
+  "verified": false
+ },
+ "Pseudocapritermes parasilvaticus": {
+  "label": "Pseudocapritermes parasilvaticus Ahmad, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 85793,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85793/overview",
+  "valid_label": null,
+  "valid_otu": 85793,
+  "verified": false
+ },
+ "Pseudocapritermes planimentus": {
+  "label": "Pseudocapritermes planimentus Yang, Zhu & Huang, 1992",
+  "match": "exact",
+  "notes": "",
+  "otu": 85794,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85794/overview",
+  "valid_label": null,
+  "valid_otu": 85794,
+  "verified": false
+ },
+ "Pseudocapritermes prosilvaticus": {
+  "label": "Pseudocapritermes prosilvaticus Akhtar & Afzal, 1989",
+  "match": "exact",
+  "notes": "",
+  "otu": 85795,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85795/overview",
+  "valid_label": null,
+  "valid_otu": 85795,
+  "verified": false
+ },
+ "Pseudocapritermes pseudolaetus": {
+  "label": "Pseudocapritermes pseudolaetus (Tsai & Chen, 1963)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85796,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85796/overview",
+  "valid_label": null,
+  "valid_otu": 85796,
+  "verified": false
+ },
+ "Pseudocapritermes silvaticus": {
+  "label": "Pseudocapritermes silvaticus Kemner, 1934",
+  "match": "exact",
+  "notes": "",
+  "otu": 85797,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85797/overview",
+  "valid_label": null,
+  "valid_otu": 85797,
+  "verified": false
+ },
+ "Pseudocapritermes sinensis": {
+  "label": "Pseudocapritermes sinensis Ping & Xu, 1986",
+  "match": "exact",
+  "notes": "",
+  "otu": 85798,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85798/overview",
+  "valid_label": null,
+  "valid_otu": 85798,
+  "verified": false
+ },
+ "Pseudocapritermes sowerbyi": {
+  "label": "Pseudocapritermes sowerbyi (Light, 1924)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85799,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85799/overview",
+  "valid_label": null,
+  "valid_otu": 85799,
+  "verified": false
+ },
+ "Pseudocapritermes tikadari": {
+  "label": "Pseudocapritermes tikadari Roonwal & Chhotani, 1962",
+  "match": "exact",
+  "notes": "",
+  "otu": 85800,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85800/overview",
+  "valid_label": null,
+  "valid_otu": 85800,
+  "verified": false
+ }
+}

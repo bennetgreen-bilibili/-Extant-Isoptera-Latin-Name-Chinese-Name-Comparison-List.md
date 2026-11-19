@@ -1,0 +1,13 @@
+{
+ "Longustitermes manni": {
+  "label": "Longustitermes manni (Snyder, 1922)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84123,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84123/overview",
+  "valid_label": null,
+  "valid_otu": 84123,
+  "verified": false
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "跟踪信息素与饲养",
+   "paragraphs": [
+    {
+     "text": "根据 Thakur 等（2023）对杆白蚁属（Stylotermes）的研究，杆白蚁科（Stylotermitidae）仅存杆白蚁属（Stylotermes）一属，约 45 种，分布于印度、孟加拉国、中国（含台湾）、马来西亚；它们生活在活树干内并取食活木质组织，仅分布于南亚。",
+     "src": [
+      "S0013"
+     ],
+     "text_en": "According to Thakur et al.'s (2023) study of Stylotermes, the family Stylotermitidae contains only the single genus Stylotermes, with about 45 species distributed in India, Bangladesh, China (including Taiwan) and Malaysia; they live inside living tree trunks and feed on living woody tissue, and occur only in South Asia.",
+     "text_es": "Según el estudio de Thakur et al. (2023) sobre Stylotermes, Stylotermitidae contiene únicamente el género Stylotermes, con unas 45 especies distribuidas por India, Bangladés, China (incluida Taiwán) y Malasia; viven en el interior de troncos vivos y se alimentan de tejido leñoso vivo, y solo se encuentran en el sur de Asia."
+    },
+    {
+     "text": "该研究以来自印度的凹胸杆白蚁（Stylotermes faveolus）和中国台湾的穿山甲杆白蚁（Stylotermes halumicus）为材料，发现工蚁第 5 腹板上的腹板腺（sternal gland）是 trail-following pheromone 的唯一来源，腺体由 I、II、III 型分泌细胞组成；分泌物中的 (Z)-dodec-3-en-1-ol（DOE）能引起工蚁强烈跟踪，行为阈值约 10^-4 ng/cm，凹胸杆白蚁（Stylotermes faveolus）每个腺体约含 0.1 ng DOE。作者认为 DOE 是两种的唯一活性成分，并据此支持从基部分支的复杂醛类信息素向木白蚁科（Kalotermitidae）与新等翅类（Neoisoptera）祖先的简单直链醇转变。",
+     "src": [
+      "S0013"
+     ],
+     "text_en": "Using Stylotermes faveolus from India and Stylotermes halumicus from Taiwan, China, the study found that the sternal gland on the fifth abdominal sternite of workers is the sole source of the trail-following pheromone, the gland consisting of type I, II and III secretory cells; (Z)-dodec-3-en-1-ol (DOE) in the secretion elicits strong trail following by workers, with a behavioural threshold of about 10^-4 ng/cm, and each gland of Stylotermes faveolus contains about 0.1 ng of DOE. The authors consider DOE to be the only active component in both species and, on that basis, support a transition from complex aldehyde pheromones in the basal lineages to simple straight-chain alcohols in the ancestors of Kalotermitidae and Neoisoptera.",
+     "text_es": "El estudio utilizó materiales de Stylotermes faveolus de India y de Stylotermes halumicus de Taiwán (China) y encontró que la glándula esternal del quinto esternito abdominal de los obreros es la única fuente de la feromona de seguimiento (trail-following pheromone); la glándula está formada por células secretoras de los tipos I, II y III. El (Z)-dodec-3-en-1-ol (DOE) de la secreción provoca un fuerte seguimiento en los obreros, con un umbral conductual de aproximadamente 10^-4 ng/cm, y cada glándula de Stylotermes faveolus contiene unos 0,1 ng de DOE. Los autores consideran que el DOE es el único componente activo en ambas especies y, sobre esta base, apoyan la transición desde las feromonas complejas de aldehídos de los linajes basales hacia los alcoholes de cadena lineal simples de los antepasados de Kalotermitidae y Neoisoptera."
+    },
+    {
+     "text": "据摘要，Thakur 等（2024）进一步比较了凹胸杆白蚁（Stylotermes faveolus）兵蚁和工蚁的额腺、上唇腺和下唇腺结构，并分析凹胸杆白蚁（Stylotermes faveolus）与穿山甲杆白蚁（Stylotermes halumicus）额腺分泌物的组成。",
+     "src": [
+      "S0011"
+     ],
+     "text_en": "According to the abstract, Thakur et al. (2024) further compared the structure of the frontal, labral and labial glands of the soldiers and workers of Stylotermes faveolus and analysed the composition of the frontal-gland secretions of Stylotermes faveolus and Stylotermes halumicus.",
+     "text_es": "Según el resumen, Thakur et al. (2024) compararon además la estructura de las glándulas frontal, labral y labial de soldados y obreros de Stylotermes faveolus y analizaron la composición de las secreciones de la glándula frontal de Stylotermes faveolus y de Stylotermes halumicus."
+    },
+    {
+     "text": "据摘要，Thakur & Mishra（1996）提到杆白蚁属（Stylotermes）的多个种等木栖白蚁比土栖种类更容易在实验室饲养，可在 28±1°C、80–90% RH 下用带活巢的被害木段维持。",
+     "src": [
+      "S0012"
+     ],
+     "text_en": "According to the abstract, Thakur & Mishra (1996) noted that wood-dwelling termites such as several species of Stylotermes are easier to rear in the laboratory than soil-dwelling species and can be maintained at 28±1°C and 80–90% RH on infested wood segments containing the live nest.",
+     "text_es": "Según el resumen, Thakur y Mishra (1996) señalan que varias especies de Stylotermes, termitas madereras, se crían en el laboratorio más fácilmente que las especies edáficas y pueden mantenerse a 28 ± 1 °C y 80–90 % de HR en segmentos de madera atacada con nidos vivos."
+    }
+   ],
+   "heading_en": "Trail pheromone and captive rearing",
+   "heading_es": "Feromona de seguimiento y cría en laboratorio"
+  },
+  {
+   "heading": "研究记述",
+   "heading_en": "Research notes",
+   "heading_es": "Notas de investigación",
+   "paragraphs": [
+    {
+     "text": "据摘要，Thakur 等（2023）用于追踪信息素实验的两份巢片段各含数百头工蚁（研究中统按广义拟工蚁计）与数十头兵蚁，其中凹胸杆白蚁（<i>Stylotermes faveolus</i>）的一份采自印度。",
+     "text_en": "According to the abstract, the two nest fragments used by Thakur et al. (2023) in their trail-following pheromone experiments each contained several hundred workers (counted throughout as pseudergates in the broad sense) and several dozen soldiers; the fragment of <i>Stylotermes faveolus</i> was collected in India.",
+     "text_es": "Según el resumen, los dos fragmentos de nido utilizados por Thakur et al. (2023) en sus experimentos con la feromona de seguimiento contenían cada uno varios cientos de obreras (contabilizadas en todo el estudio como pseudergados en sentido amplio) y varias decenas de soldados; el fragmento de <i>Stylotermes faveolus</i> fue recolectado en la India.",
+     "src": [
+      "S0010"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0013",
+   "citation": "Thakur H., Agarwal S., Hradecký J., et al. The trail-following communication in Stylotermes spp. (Blattodea, Isoptera, Stylotermitidae). 预印本, 2023.",
+   "doi": "10.21203/rs.3.rs-2770501/v1"
+  },
+  {
+   "id": "S0011",
+   "citation": "Thakur H., Agarwal S., Buček A., et al. Defensive glands in Stylotermitidae (Blattodea, Isoptera). Arthropod Structure & Development 79: 101346, 2024.",
+   "doi": "10.1016/j.asd.2024.101346"
+  },
+  {
+   "id": "S0012",
+   "citation": "Thakur M. L., Mishra S. C. Laboratory culturing of some Indian wood destroying termites. Journal of Entomological Research 20(1): 73–82, 1996.",
+   "url": "https://indianjournals.com/article/jer-20-1-013"
+  },
+  {
+   "id": "S0010",
+   "citation": "Thakur H., Agarwal S., Hradecký J., Sharma G., Li H.-F., Yang S.-E., Sehadová H., Chandel R. S., Hyliš M., Mathur V., Šobotník J., Sillam-Dussès D. 2023 The Trail-Following Communication in Stylotermes faveolus and S. halumicus (Blattodea, Isoptera, Stylotermitidae). Journal of Chemical Ecology 49: 642–651.",
+   "doi": "10.1007/s10886-023-01447-w"
+  }
+ ]
+}

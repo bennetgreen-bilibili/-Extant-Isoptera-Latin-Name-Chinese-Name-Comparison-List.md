@@ -1,0 +1,21 @@
+{
+ "note": "The generic characters are given in three sections, Imago / Soldier / Worker, as in the original; only the type species of the alate is known and it has no morphological description, so that section records only what the original says about this caste and contains no measurements. The original notes that N. orientis is almost certainly a junior synonym of Eutermes kanehirae Oshima, 1914, and the generic characters follow N. orientis; the genus contains three species, D. kanehirae, D. foi and D. castanopsis.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Roisin & Pasteels established the genus with Nasutitermes (Subulitermes) orientis from New Guinea as type species, the generic name being taken from the New Melanesian word diwai (wood). The soldier is fully nasute and closely related to Nasutitermes, but the head capsule is not constricted behind the antennal fossae, the soldier is monomorphic, small to medium in size, and the antennae are 11- or 12-segmented. What really separates it from Nasutitermes and Niuginitermes is the worker gut: the mesenteric part of the mixed segment is attached by a broad stalk dorsally and slightly mesally on the midgut, the 4 Malpighian tubules converge where they attach at the midgut–hindgut junction, and the two rings of spines on the enteric valve are asymmetric, with the lower ring of spines projecting into the stomach lumen; the worker is dimorphic. Eleanoritermes from Borneo resembles the genus, but its worker mandibles have a more concave molar region, its enteric valve is placed further forward, only three swellings bear a few small spines, and the colon is longer."
+  },
+  {
+   "label": "Alate",
+   "text": "Only the type species is known. The original lists no genus-level morphological characters and only notes that the number of antennal segments may later serve to distinguish the genus from Nasutitermes and Niuginitermes. The original also compares the closely related Nasutitermes liklik: it differs from D. kanehirae in having one more antennal segment in every caste (14 versus 13 in the alate)."
+  },
+  {
+   "label": "Soldier",
+   "text": "Fully nasute, closely related to Nasutitermes. Head capsule not constricted behind the antennal fossae; soldier monomorphic, small to medium in size; antennae 11- or 12-segmented, and when 12-segmented segment 3 is extremely short and incompletely separated from segment 4; head capsule hairy, with many setae of varying length; the points on the mandibles are small and sometimes absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Antennae 12- or 13-segmented, and when 13-segmented segment 3 is extremely short and incompletely separated from segment 4. Mandibles very similar to those of Nasutitermes, left mandible index 0.45–0.55. Gut: the mesenteric part of the mixed segment is attached by a broad stalk dorsally and slightly mesally on the rest of the midgut; the 4 Malpighian tubules converge where they attach at the midgut–hindgut junction; the upper ring of spines on the enteric valve is slightly asymmetric, and the lower ring of spines projects into the stomach lumen. Worker dimorphic; the body length distribution of the major worker is unimodal, with no growth and a slight darkening of pigmentation within the same instar."
+  }
+ ]
+}

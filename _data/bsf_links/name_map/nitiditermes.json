@@ -1,0 +1,167 @@
+{
+ "Nitiditermes aemulus": {
+  "label": "Nitiditermes aemulus (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84991,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84991/overview",
+  "valid_label": null,
+  "valid_otu": 84991,
+  "verified": false
+ },
+ "Nitiditermes anatruncatus": {
+  "label": "Nitiditermes anatruncatus (Fuller, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84992,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84992/overview",
+  "valid_label": null,
+  "valid_otu": 84992,
+  "verified": false
+ },
+ "Nitiditermes berghei": {
+  "label": "Nitiditermes berghei Emerson, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 85095,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85095/overview",
+  "valid_label": null,
+  "valid_otu": 85095,
+  "verified": false
+ },
+ "Nitiditermes curtatus": {
+  "label": "Nitiditermes curtatus (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85004,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85004/overview",
+  "valid_label": null,
+  "valid_otu": 85004,
+  "verified": false
+ },
+ "Nitiditermes fulvus": {
+  "label": "Nitiditermes fulvus (Williams, 1966)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85009,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85009/overview",
+  "valid_label": null,
+  "valid_otu": 85009,
+  "verified": false
+ },
+ "Nitiditermes niokoloensis": {
+  "label": "Nitiditermes niokoloensis (Roy-Noël, 1969)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85024,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85024/overview",
+  "valid_label": null,
+  "valid_otu": 85024,
+  "verified": false
+ },
+ "Nitiditermes oculatus": {
+  "label": "Nitiditermes oculatus (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85026,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85026/overview",
+  "valid_label": null,
+  "valid_otu": 85026,
+  "verified": false
+ },
+ "Nitiditermes orthognathus": {
+  "label": "Nitiditermes orthognathus (Emerson, 1928)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85027,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85027/overview",
+  "valid_label": null,
+  "valid_otu": 85027,
+  "verified": false
+ },
+ "Nitiditermes proximatus": {
+  "label": "Nitiditermes proximatus (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85033,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85033/overview",
+  "valid_label": null,
+  "valid_otu": 85033,
+  "verified": false
+ },
+ "Nitiditermes sankurensis": {
+  "label": "Nitiditermes sankurensis (Wasmann, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85035,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85035/overview",
+  "valid_label": null,
+  "valid_otu": 85035,
+  "verified": false
+ },
+ "Nitiditermes schereri": {
+  "label": "Nitiditermes schereri (Rosen, 1912)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85036,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85036/overview",
+  "valid_label": null,
+  "valid_otu": 85036,
+  "verified": false
+ },
+ "Nitiditermes sierraleonicus": {
+  "label": "Nitiditermes sierraleonicus (Sjöstedt, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85039,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85039/overview",
+  "valid_label": null,
+  "valid_otu": 85039,
+  "verified": false
+ },
+ "Nitiditermes testaceus": {
+  "label": "Nitiditermes testaceus (Williams, 1966)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85046,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85046/overview",
+  "valid_label": null,
+  "valid_otu": 85046,
+  "verified": false
+ },
+ "Nitiditermes truncatoides": {
+  "label": "Nitiditermes truncatoides (Fuller, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85048,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85048/overview",
+  "valid_label": null,
+  "valid_otu": 85048,
+  "verified": false
+ },
+ "Nitiditermes truncatus": {
+  "label": "Nitiditermes truncatus (Holmgren, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85049,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85049/overview",
+  "valid_label": null,
+  "valid_otu": 85049,
+  "verified": false
+ }
+}

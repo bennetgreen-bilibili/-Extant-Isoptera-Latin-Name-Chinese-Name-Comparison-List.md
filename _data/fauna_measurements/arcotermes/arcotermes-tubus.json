@@ -1,0 +1,43 @@
+{
+ "book_n": "393",
+ "book_name": "管鼻弧白蚁 Arcotermestubus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "管鼻弧白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_without_nasus",
+     "mean": "0.86",
+     "value": "0.78–0.91"
+    },
+    {
+     "key": "head_width",
+     "mean": "0.79",
+     "value": "0.70–0.86"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.15",
+     "value": "0.13–0.16"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.39",
+     "value": "0.34–0.41"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.95",
+     "value": "0.81–1.03"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 50,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "book_n": "247",
+ "book_name": "蔡氏杆白蚁 Stylotermestsaii",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "蔡氏杆白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.53",
+     "value": "2.50–2.60"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.55",
+     "value": "1.54–1.55"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.43",
+     "value": "0.40–0.50"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.47",
+     "value": "0.45–0.50"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.58",
+     "value": "1.52–1.66"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.81",
+     "value": "1.70–1.95"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.62",
+     "value": "0.59–0.67"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.32",
+     "value": "1.26–1.35"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.08",
+     "value": "1.00–1.20"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 1039,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "蔡氏杆白蚊有翅成虫量度 ( mm)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length_without_wings",
+     "mean": "6.97",
+     "value": "6.51–7.23"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "mean": "1.33",
+     "value": "1.25–1.39"
+    },
+    {
+     "key": "eye_long_diameter",
+     "mean": "0.402",
+     "value": "0.375–0.426"
+    },
+    {
+     "key": "eye_short_diameter",
+     "mean": "0.353",
+     "value": "0.324–0.375"
+    },
+    {
+     "key": "ocellus_long_diameter",
+     "mean": "0.143",
+     "value": "0.125–0.152"
+    },
+    {
+     "key": "ocellus_short_diameter",
+     "mean": "0.110",
+     "value": "0.101–0.126"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "mean": "0.043",
+     "value": "0.025–0.057"
+    },
+    {
+     "key": "eye_head_lower_margin",
+     "mean": "0.096",
+     "value": "0.078–0.151"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.35",
+     "value": "0.30–0.40"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.43",
+     "value": "0.40–0.44"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.39",
+     "value": "0.35–0.43"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "0.53",
+     "value": "0.49–0.55"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.62",
+     "value": "0.60–0.65"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.04",
+     "value": "1.00–1.07"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.11",
+     "value": "1.00–1.25"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 1054,
+   "unit": "mm"
+  }
+ ]
+}

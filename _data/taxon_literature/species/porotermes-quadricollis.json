@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "分布南界与温度",
+   "heading_en": "Southern limit and temperature",
+   "heading_es": "Límite meridional y temperatura",
+   "paragraphs": [
+    {
+     "src": [
+      "S0247"
+     ],
+     "text": "根据 Scheffrahn 等（2015）研究，方颈洞白蚁（<i>Porotermes quadricollis</i>）在智利麦哲伦省（Magallanes）的分布达南纬约 48.9°，为白蚁分布的南界；其智利艾森港（Puerto Aysén）记录地的年均温约 8 °C，而仅有动白蚁属（<i>Zootermopsis</i>）与散白蚁属（<i>Reticulitermes</i>）能生活在年均温 4–6 °C 的气候中。",
+     "text_en": "According to Scheffrahn et al. (2015), <i>Porotermes quadricollis</i> reaches about 48.9°S in Magallanes Province, Chile, the southern limit of termite distribution; its locality at Puerto Aysén, Chile, has a mean annual temperature of about 8 °C, whereas only <i>Zootermopsis</i> and <i>Reticulitermes</i> live in climates with mean annual temperatures of 4–6 °C.",
+     "text_es": "Según Scheffrahn et al. (2015), <i>Porotermes quadricollis</i> alcanza unos 48,9°S en la provincia de Magallanes, Chile, el límite meridional de la distribución de las termitas; su localidad en Puerto Aysén, Chile, tiene una temperatura media anual de unos 8 °C, mientras que solo <i>Zootermopsis</i> y <i>Reticulitermes</i> viven en climas con temperaturas medias anuales de 4–6 °C."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0247",
+   "citation": "Scheffrahn, R. H. 2015. Global elevational, latitudinal, and climatic limits for termites and the redescription of Rugitermes laticollis Snyder (Isoptera: Kalotermitidae) from the Andean Highlands. Universidade Estadual de Feira de Santana.",
+   "doi": "10.13102/sociobiology.v62i3.793"
+  }
+ ]
+}

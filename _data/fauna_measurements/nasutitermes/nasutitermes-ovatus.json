@@ -1,0 +1,43 @@
+{
+ "book_n": "428",
+ "book_name": "卵头象白蚊 Nasutitermesovatus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "卵头象白蚊兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_nasus",
+     "mean": "1.52",
+     "value": "1.42–1.58"
+    },
+    {
+     "key": "head_width",
+     "mean": "0.695",
+     "value": "0.67–0.73"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.17",
+     "value": "0.16–0.19"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.38",
+     "value": "0.36–0.40"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.91",
+     "value": "0.84–1.00"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 710,
+   "unit": "mm"
+  }
+ ]
+}

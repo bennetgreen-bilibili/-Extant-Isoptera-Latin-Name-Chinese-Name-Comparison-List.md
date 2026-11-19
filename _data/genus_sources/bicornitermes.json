@@ -1,0 +1,23 @@
+{
+ "latin": "Bicornitermes",
+ "zh": "双角白蚁属",
+ "family": "kalotermitidae",
+ "treatise": true,
+ "citation": "Bicornitermes Krishna, 1961: 370, 371.",
+ "type_species": "Bicornitermes bicornis Krishna, 1961 by original designation.",
+ "references": [
+  {
+   "ref": "Krishna, 1961: 370–371",
+   "note": "Bicornitermes; generic characters; key; reference list; phylogeny; distribution."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 17, 78, 79, pl. 7: fig. 12c",
+   "note": "Bicornitermes; key; characters; imago mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 9",
+   "note": "Bicornitermes; key."
+  }
+ ],
+ "nrefs": 6
+}

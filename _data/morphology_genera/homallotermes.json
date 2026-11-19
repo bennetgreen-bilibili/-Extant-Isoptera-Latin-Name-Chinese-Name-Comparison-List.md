@@ -1,0 +1,21 @@
+{
+ "zh_name": "平白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "东方区 Pericapritermes 组兵蚁检索表中，本属以上颚中部弱弯单独成对（第 4 对）；其对立面为“触角 14 节、上颚粗、中部中度至强度弯曲”，即 Mirocapritermes 及后续各属。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "触角 13 节；上颚细弱、中部弱弯。左颚中部中度扭转，末端锐尖（或呈喙状、钩状）——此为检索路径上位特征。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0029",
+   "citation": "Amina P. P.; Poovoli A.; Rajmohana K.; Dinesh K. P.; Asha G. 2022. Integrative taxonomic studies on Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae) with two new species from India. Zoosystema 44 (3): 109-124. https://doi.org/10.5252/zoosystema2022v44a3",
+   "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 4 (Homallotermes 分支)；Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 3（本属落在该分支）"
+  }
+ ],
+ "note": "兵蚁仅据东方区 Pericapritermes 组属检索表（1 对 + 1 条上位特征）；原始描述 John 1925 未获全文，故只设兵蚁一节。"
+}

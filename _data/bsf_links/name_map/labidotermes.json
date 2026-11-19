@@ -1,0 +1,13 @@
+{
+ "Labidotermes celisi": {
+  "label": "Labidotermes celisi Deligne & Pasteels, 1969",
+  "match": "exact",
+  "notes": "",
+  "otu": 84121,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84121/overview",
+  "valid_label": null,
+  "valid_otu": 84121,
+  "verified": false
+ }
+}

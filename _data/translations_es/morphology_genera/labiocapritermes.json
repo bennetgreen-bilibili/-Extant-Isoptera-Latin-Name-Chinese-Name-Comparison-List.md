@@ -1,0 +1,17 @@
+{
+ "note": "Caracteres genéricos tomados directamente de la Diagnosis genérica del original, descritos por separado para las dos castas, soldado y obrero; el original registra el alado de las tres especies conocidas como Imago: Unknown, por lo que no se incluye una sección de alado. La variabilidad del brazo medio de la sutura en Y de la cápsula cefálica y las espinas espuriformes de la tibia se presentan en el original, respectivamente, en Remarks y como «proposed as of generic significance», y se han incorporado al texto anterior.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Soldado con la cápsula cefálica casi cuadrada en vista dorsal y sin tubérculo frontal, relativamente fácil de reconocer dentro del grupo de Pericapritermes: el labro está fuertemente dilatado y es asimétrico, con el margen anterior ligeramente cóncavo y los ángulos anterolaterales provistos de una punta muy pequeña o completamente ausente; las mandíbulas son muy cortas, más cortas que la cabeza, y extremadamente asimétricas: la mandíbula izquierda está fuertemente torsionada en su parte media y carece tanto de proceso rostral como de gancho en el ápice, mientras que la derecha es en forma de cuchilla, con el ápice romo y no agudo. Junto con el postmentón claviforme y el pronoto marcadamente en silla de montar, esto permite distinguirlo de Pericapritermes y de otros ocho géneros. Los autores proponen además un carácter de nivel genérico: el soldado de las tres especies conocidas presenta dos espinas espuriformes pardas y evidentes en la tibia media."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cápsula cefálica subrectangular, sin tubérculo frontal; en vista lateral la frente desciende suavemente, la fontanela es pequeña y la glándula frontal también pequeña. Antenas de 14 segmentos. Labro asimétrico y fuertemente dilatado, márgenes laterales convexos, margen anterior ligeramente cóncavo, ángulos anterolaterales con una punta muy pequeña (a veces poco evidente). Mandíbulas fuertemente asimétricas y más cortas que la cabeza: la izquierda fuertemente torsionada en su parte media, sin rostro ni gancho en el ápice; la derecha en forma de cuchilla, marcadamente más corta que la izquierda, con el ápice romo. Postmentón claviforme, con la cintura marcadamente estrechada. Pronoto marcadamente en silla de montar, margen anterior débilmente cóncavo, margen posterior sin escotadura. El brazo medio de la sutura en Y de la cápsula cefálica varía entre neto, difuso o ausente incluso dentro de una misma especie y de una misma colonia, por lo que los autores no lo consideran un carácter específico."
+  },
+  {
+   "label": "Obrero",
+   "text": "Monotípico. Cápsula cefálica casi circular en vista dorsal; antenas de 14 segmentos. Mandíbulas cada una con un diente apical y dos dientes marginales, el diente apical grande; margen posterior del primero y segundo dientes marginales de la mandíbula izquierda largo, tercer diente marginal extremadamente reducido; segundo diente marginal de la mandíbula derecha pequeño y sobresaliente, margen posterior débilmente cóncavo; pronoto en silla de montar. La estructura de las mandíbulas del obrero indica que el género pertenece al grupo de alimentación III, consumidor de humus y de suelos ricos en materia orgánica."
+  }
+ ]
+}

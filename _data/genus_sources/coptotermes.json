@@ -1,0 +1,43 @@
+{
+ "latin": "Coptotermes",
+ "zh": "乳白蚁属",
+ "family": "heterotermitidae",
+ "treatise": true,
+ "citation": "Coptotermes Wasmann, 1896b: 629 [first introduced as a subgenus of Termes Linnaeus, 1758].",
+ "type_species": "Termes gestroi Wasmann, 1896 by monotypy.",
+ "references": [
+  {
+   "ref": "Wasmann, 1897b: 151",
+   "note": "Termes (Coptotermes); characters; Termes gestroi as type species."
+  },
+  {
+   "ref": "Haviland, 1898: 378, 390",
+   "note": "Termes “section with T. Gestroi for type”; = subgenus Coptotermes of Wasmann; characters; key."
+  },
+  {
+   "ref": "Silvestri, 1903: 47",
+   "note": "Coptotermes; characters; distribution."
+  },
+  {
+   "ref": "Desneux, 1904e: 375",
+   "note": "Coptotermes; characters; species included."
+  },
+  {
+   "ref": "Desneux, 1904b: 29, 32, 34",
+   "note": "Termes (Coptotermes); reference list; key; characters; species included."
+  },
+  {
+   "ref": "Escherich, 1909: 176",
+   "note": "Coptotermes; characters."
+  },
+  {
+   "ref": "Holmgren, 1911a: 11, 71, 73, 74",
+   "note": "Coptotermes; key; characters; species included; distribution."
+  },
+  {
+   "ref": "Banks, 1919: 479",
+   "note": "Coptotermes; key."
+  }
+ ],
+ "nrefs": 151
+}

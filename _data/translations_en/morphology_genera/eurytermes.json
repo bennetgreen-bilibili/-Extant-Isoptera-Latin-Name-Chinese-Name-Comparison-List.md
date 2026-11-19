@@ -1,0 +1,21 @@
+{
+ "note": "In the OCR the later part of the soldier section and the worker section are affected by two-column misalignment; only sentences that can be read continuously have been taken, and gaps are not filled in. The German genus diagnosis is rewritten, not a verbatim translation.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Alate: head nearly circular, narrowing in a straight line anteriorly, frons rather strongly arched, compound eyes small and strongly projecting, fontanelle distinct and far back (hence the median transverse band rather long); antennae 15-segmented (or 14), segment 3 distinctly shorter than segment 2. Soldier: head thick, rectangular, eyeless, cranial sutures invisible, fontanelle almost indistinct; labrum triangular, mandibles rather short and stout, left mandible with 1 large, strong, anteriorly directed tooth before the midpoint; antennae very fine, 14-segmented. Worker: head oval, length barely exceeding width."
+  },
+  {
+   "label": "Alate",
+   "text": "Head nearly circular, narrowing in a straight line anteriorly; frons rather strongly arched; compound eyes small, strongly projecting; ocelli small, about their own diameter from the compound eye, inner margin slightly raised. Fontanelle distinct, far back, hence the median transverse band rather long. Postclypeal basis rather arched, length equal to half its width or slightly less, posterior margin rather strongly arcuate. Labrum at the middle barely wider than at the base, without a chitinous transverse band. Mandibles with the Termes-type armature, base not very developed. Antennae 15-segmented, segment 3 much shorter than segment 2 and slightly shorter than segment 4 (or 14-segmented, in which case segment 3 as long as segment 2). Pronotum narrower and smaller than the head, anterior margin straight, only slightly upfolded; meso- and metanotum with only a very narrow triangular emargination; posterior angles pointed, not rounded. Forewing scale only slightly longer than the hindwing scale; wings covered with fine hairs; in the forewing the media arises directly from the wing scale (exceptionally from the radial sector), in the hindwing the media arises from the radial sector; media closer to the radial sector than to the cubitus. Cerci short, without styli. Female densely covered with glandular setae, male also but more sparsely. Fore tibia with 3 apical spurs. Body rather slender."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head thick, rectangular; eyeless; cranial sutures invisible; fontanelle almost indistinct; postclypeus short. Labrum triangular, rather short, without a hyaline apical point. Mandibles rather short and stout; left mandible with 1 large, strong, anteriorly directed tooth before the midpoint, with a trace of a tooth on its basal side; right mandible with 1 slightly obtuse tooth. Antennae very fine, 14-segmented, segment 2 only slightly longer than segment 5. Pronotum barely reaching half the head width, with a large anterior lobe. Cerci short, without styli."
+  },
+  {
+   "label": "Worker",
+   "text": "Head oval, length barely exceeding width, convex; frons concave above it."
+  }
+ ]
+}

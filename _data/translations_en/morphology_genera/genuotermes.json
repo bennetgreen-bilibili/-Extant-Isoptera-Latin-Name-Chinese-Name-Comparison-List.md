@@ -1,0 +1,21 @@
+{
+ "note": "The genus-level description covers soldier, worker, alate and digestive tract. Rocha (2013) placed this genus in Termitinae, whereas the batch labels it as Syntermitinae; the two are inconsistent and must be confirmed before merging into the database.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Soldier mandibles elongate, bent at the proximal 1/3, the inner margin of the distal 2/3 a serrate blade with a basal projecting tooth, molar plate and molar prominence visible at the base; head capsule in dorsal view subrectangular, with a characteristic frontal projection, the opening of the frontal gland at the tip of the head projection, facing forward. Alate compound eyes hemispherical, fontanelle a small slit."
+  },
+  {
+   "label": "Soldier",
+   "text": "Mandibles elongate, bent at the proximal 1/3; inner margin of the distal 2/3 a serrate blade, with a conspicuous projecting tooth at the base; molar plate and molar prominence visible at the base. Head capsule in dorsal view subrectangular, with a characteristic frontal projection (best seen in lateral view); opening of the frontal gland at the tip of the head projection, facing forward. Labrum subrectangular; tibial spur formula 3:2:2."
+  },
+  {
+   "label": "Worker",
+   "text": "Head capsule round in dorsal view; fontanelle indistinct; antennae 14–15-segmented; apical tooth of mandibles far more developed than the marginal teeth, the apices of the marginal teeth discernible. Digestive tract: P1 inflated, on the left side of the body, its terminal section forming an elongate loop that reaches the dorsal region and then descends to join P3; gizzard with 24 visible folds in the columnar band (6 first-order, 6 second-order, 12 third-order), the first-order folds with spinous ornamentation; enteric valve composed of three equidistant longitudinal cushions, covered with stout upright spines in a brush-like arrangement."
+  },
+  {
+   "label": "Alate",
+   "text": "Compound eyes hemispherical, elliptical in lateral view, approaching but not touching the ventral margin of the head or the ocelli; fontanelle indistinct, appearing as a small slit on the dorsal surface of the head; pronotum subtrapezoidal, anterolateral corners rounded; posterior margin of mesonotum deeply concave and pointed, that of metanotum shallower and rounded; tibial spur formula 3:2:2."
+  }
+ ]
+}

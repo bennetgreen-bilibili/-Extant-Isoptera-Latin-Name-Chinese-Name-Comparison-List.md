@@ -1,0 +1,44 @@
+{
+ "Archotermopsis kuznetsovi": {
+  "gbif": {
+   "key": 9660505,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Archotermopsis kuznetsovi Belyaeva, 2004",
+   "accepted": null
+  },
+  "col": {
+   "id": "5VQ8D",
+   "status": "accepted",
+   "label": "Archotermopsis kuznetsovi Belyaeva, 2004",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Archotermopsis wroughtoni": {
+  "gbif": {
+   "key": 9709984,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Archotermopsis wroughtoni (Desneux, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "67PWD",
+   "status": "accepted",
+   "label": "Archotermopsis wroughtoni (Desneux, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "zh_name": "真唇白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁上唇大而肉质，Emerson（1928）检索表以这一条单独列出该属。该属长期只知 E. tensus 及其变种，1914 年由 Silvestri 作为新属发表。"
+  },
+  {
+   "label": "工蚁",
+   "text": "有翅成虫—工蚁的右上颚第二缘齿消失；Emerson（1960）指出这一式样只与 Euchilotermes、Ophiotermes、Tuberculitermes 与 Spinitermes 相似。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+   "locator": "p. 419（兵蚁检索表）"
+  },
+  {
+   "id": "S0075",
+   "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+   "locator": "pp. 501–502（Subgenus Euchilotermes 一节）"
+  },
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+   "locator": "p. 21（Nitiditermes 工蚁）"
+  }
+ ],
+ "note": "兵蚁仅有检索表一行可引；Emerson 1928 的属级讨论只述分类沿革与已知种，未给出头形、触角等性状，故不补写。"
+}

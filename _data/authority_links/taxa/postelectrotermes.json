@@ -1,0 +1,332 @@
+{
+ "Postelectrotermes amplus": {
+  "gbif": {
+   "key": 9724390,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Postelectrotermes amplus (Sjöstedt, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4M2WQ",
+   "status": "accepted",
+   "label": "Postelectrotermes amplus (Sjöstedt, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253542",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Postelectrotermes bhimi": {
+  "gbif": {
+   "key": 9712390,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Postelectrotermes bhimi Roonwal & Maiti, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "4M2WR",
+   "status": "accepted",
+   "label": "Postelectrotermes bhimi Roonwal & Maiti, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253543",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Postelectrotermes bidentatus": {
+  "gbif": {
+   "key": 9662566,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Postelectrotermes bidentatus Ravan & Akhtar, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "4M2WS",
+   "status": "accepted",
+   "label": "Postelectrotermes bidentatus Ravan & Akhtar, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253545",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Postelectrotermes castaneiceps": {
+  "gbif": {
+   "key": 9746834,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Postelectrotermes castaneiceps (Sjöstedt, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4M2WT",
+   "status": "accepted",
+   "label": "Postelectrotermes castaneiceps (Sjöstedt, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253546",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Postelectrotermes howa": {
+  "gbif": {
+   "key": 9808392,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Postelectrotermes howa (Wasmann, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "787JY",
+   "status": "accepted",
+   "label": "Postelectrotermes howa (Wasmann, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253547",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Postelectrotermes longiceps": {
+  "gbif": {
+   "key": 9727285,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Postelectrotermes longiceps (Cachan, 1949)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4M2WV",
+   "status": "accepted",
+   "label": "Postelectrotermes longiceps (Cachan, 1949)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253549",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Postelectrotermes longus": {
+  "gbif": {
+   "key": 9646644,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Postelectrotermes longus (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4M2WW",
+   "status": "accepted",
+   "label": "Postelectrotermes longus (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253550",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Postelectrotermes militaris": {
+  "gbif": {
+   "key": 9676935,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Postelectrotermes militaris (Desneux, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4M2WX",
+   "status": "accepted",
+   "label": "Postelectrotermes militaris (Desneux, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591783",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Postelectrotermes nayari": {
+  "gbif": {
+   "key": 9693193,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Postelectrotermes nayari Roonwal & Verma, 1971",
+   "accepted": null
+  },
+  "col": {
+   "id": "4M2WY",
+   "status": "accepted",
+   "label": "Postelectrotermes nayari Roonwal & Verma, 1971",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253551",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Postelectrotermes pasniensis": {
+  "gbif": {
+   "key": 9791217,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Postelectrotermes pasniensis Akhtar, 1974",
+   "accepted": null
+  },
+  "col": {
+   "id": "4M2WZ",
+   "status": "accepted",
+   "label": "Postelectrotermes pasniensis Akhtar, 1974",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253553",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Postelectrotermes pishinensis": {
+  "gbif": {
+   "key": 9763619,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Postelectrotermes pishinensis (Ahmad, 1955)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4M2X2",
+   "status": "accepted",
+   "label": "Postelectrotermes pishinensis (Ahmad, 1955)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253555",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Postelectrotermes praecox": {
+  "gbif": {
+   "key": 9295703,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Postelectrotermes praecox (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4M2X3",
+   "status": "accepted",
+   "label": "Postelectrotermes praecox (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253556",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Postelectrotermes sordwanae": {
+  "gbif": {
+   "key": 9707890,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Postelectrotermes sordwanae (Coaton, 1949)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4M2X4",
+   "status": "accepted",
+   "label": "Postelectrotermes sordwanae (Coaton, 1949)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253558",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Postelectrotermes tongyaii": {
+  "gbif": {
+   "key": 9799002,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Postelectrotermes tongyaii Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "4M2X5",
+   "status": "accepted",
+   "label": "Postelectrotermes tongyaii Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253559",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Postelectrotermes zabuliensis": {
+  "gbif": {
+   "key": 9665304,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Postelectrotermes zabuliensis Ravan & Akhtar, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "4M2X6",
+   "status": "accepted",
+   "label": "Postelectrotermes zabuliensis Ravan & Akhtar, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253561",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

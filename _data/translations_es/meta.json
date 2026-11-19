@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "review": "machine-assisted",
+ "note": "Machine-assisted translation of the Chinese taxonomic prose in _data/*.json. Latin names, authorities, years and measurements are kept verbatim; the pre-existing English abstracts in the source `en` fields are not duplicated here.",
+ "coverage": {
+  "keys": 800,
+  "chars": 255611,
+  "files": {
+   "morphology_genera": {
+    "keys": 242,
+    "chars": 82446
+   },
+   "morphology_species": {
+    "keys": 81,
+    "chars": 27712
+   },
+   "fauna_families": {
+    "keys": 4,
+    "chars": 1457
+   },
+   "fauna_genera": {
+    "keys": 35,
+    "chars": 12811
+   },
+   "fauna_species": {
+    "keys": 435,
+    "chars": 127494
+   },
+   "fauna_keys": {
+    "keys": 3,
+    "chars": 3691
+   }
+  }
+ }
+}

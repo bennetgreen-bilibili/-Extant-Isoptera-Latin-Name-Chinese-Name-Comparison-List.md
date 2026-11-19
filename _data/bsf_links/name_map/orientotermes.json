@@ -1,0 +1,13 @@
+{
+ "Orientotermes emersoni": {
+  "label": "Orientotermes emersoni Ahmad, 1976",
+  "match": "exact",
+  "notes": "",
+  "otu": 85674,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85674/overview",
+  "valid_label": null,
+  "valid_otu": 85674,
+  "verified": false
+ }
+}

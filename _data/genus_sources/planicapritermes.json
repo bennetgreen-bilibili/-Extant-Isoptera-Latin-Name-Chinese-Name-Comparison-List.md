@@ -1,0 +1,39 @@
+{
+ "latin": "Planicapritermes",
+ "zh": "平扭白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Planicapritermes Emerson, 1949",
+ "type_species": "Capritermes (Neocapritermes) planiceps Emerson, 1925 by original designation.",
+ "references": [
+  {
+   "ref": "Krishna, 1968: 316–319",
+   "note": "Planicapritermes; synonymy; key; characters; phylogeny; species included; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 31",
+   "note": "Planicapritermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 137–139",
+   "note": "Planicapritermes; synonymy; characters; comparisons."
+  },
+  {
+   "ref": "Mill, 1983a: 180, 182",
+   "note": "Planicapritermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Constantino, 1998a: 110–111",
+   "note": "Planicapritermes; synonymy; characters."
+  },
+  {
+   "ref": "Constantino, 1999a: 407, 419",
+   "note": "Planicapritermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 24",
+   "note": "Planicapritermes; key."
+  }
+ ],
+ "nrefs": 14
+}

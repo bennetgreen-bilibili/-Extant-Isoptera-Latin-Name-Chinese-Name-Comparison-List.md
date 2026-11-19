@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "异白蚁科的建立（2024）",
+   "paragraphs": [
+    {
+     "text": "根据 Hellemans 等（2024），异白蚁科（Heterotermitidae stat. nov.）由原鼻白蚁科的异白蚁亚科（Heterotermitinae）提升为科，包含乳白蚁属（Coptotermes）、异白蚁属（Heterotermes）、散白蚁属（Reticulitermes）三属，模式属为异白蚁属（Heterotermes Froggatt, 1897）；乳白蚁亚科（Coptotermitinae）被处理为异名。",
+     "src": [
+      "S0008"
+     ],
+     "text_en": "According to Hellemans et al. (2024), Heterotermitidae (Heterotermitidae stat. nov.) was elevated from the subfamily Heterotermitinae of the former Rhinotermitidae to family rank, comprising three genera, Coptotermes, Heterotermes and Reticulitermes, with Heterotermes Froggatt, 1897 as type genus; Coptotermitinae was treated as a synonym.",
+     "text_es": "Según Hellemans et al. (2024), Heterotermitidae (stat. nov.) se eleva a rango de familia a partir de la subfamilia Heterotermitinae de la antigua Rhinotermitidae y comprende tres géneros: Coptotermes, Heterotermes y Reticulitermes; su género tipo es Heterotermes Froggatt, 1897, y Coptotermitinae se trata como sinónimo."
+    },
+    {
+     "text": "异白蚁科（Heterotermitidae）即文献中常说的“地下白蚁”（subterranean termites），分布覆盖大部分温带和热带地区，包含多种重要的房屋与林木害虫；乳白蚁属（Coptotermes）兵蚁头部卵形、囟大而朝前，可渗出乳胶状分泌物。",
+     "src": [
+      "S0008"
+     ],
+     "text_en": "Heterotermitidae are the 'subterranean termites' commonly referred to in the literature, distributed across most temperate and tropical regions and including several important pests of buildings and timber; in Coptotermes the soldier head is oval, with a large fontanelle directed forward from which a milky secretion can exude.",
+     "text_es": "Heterotermitidae corresponde a las termitas subterráneas (subterranean termites) de la literatura, se distribuye por buena parte de las zonas templadas y tropicales e incluye varias plagas importantes de edificaciones y de árboles; en Coptotermes la cabeza del soldado es ovalada, con una fontanela grande orientada hacia delante que exuda una secreción lechosa."
+    }
+   ],
+   "heading_en": "Establishment of Heterotermitidae (2024)",
+   "heading_es": "Establecimiento de Heterotermitidae (2024)"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0008",
+   "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
+   "doi": "10.1038/s41467-024-51028-y"
+  }
+ ]
+}

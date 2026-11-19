@@ -1,0 +1,446 @@
+{
+ "Lacessititermes albipes": {
+  "gbif": {
+   "key": 9697976,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes albipes (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RMYT",
+   "status": "accepted",
+   "label": "Lacessititermes albipes (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210726",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes atrior": {
+  "gbif": {
+   "key": 9773856,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes atrior (Holmgren, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6NRDV",
+   "status": "accepted",
+   "label": "Lacessititermes atrior (Holmgren, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210728",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes batavus": {
+  "gbif": {
+   "key": 9683939,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes batavus Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RMYV",
+   "status": "accepted",
+   "label": "Lacessititermes batavus Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210729",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes breviarticulatus": {
+  "gbif": {
+   "key": 9672236,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes breviarticulatus (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RMYW",
+   "status": "accepted",
+   "label": "Lacessititermes breviarticulatus (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210730",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes cuphus": {
+  "gbif": {
+   "key": 9788581,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes cuphus (Bathellier, 1927)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RMYX",
+   "status": "accepted",
+   "label": "Lacessititermes cuphus (Bathellier, 1927)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210731",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes filicornis": {
+  "gbif": {
+   "key": 9686112,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes filicornis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RMYY",
+   "status": "accepted",
+   "label": "Lacessititermes filicornis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210733",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes holmgreni": {
+  "gbif": {
+   "key": 8894748,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes holmgreni Light & Wilson, 1936",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RMYZ",
+   "status": "accepted",
+   "label": "Lacessititermes holmgreni Light & Wilson, 1936",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210734",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes jacobsoni": {
+  "gbif": {
+   "key": 9818897,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes jacobsoni Kemner, 1930",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RMZ2",
+   "status": "accepted",
+   "label": "Lacessititermes jacobsoni Kemner, 1930",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210735",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes kolapisensis": {
+  "gbif": {
+   "key": 9653558,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes kolapisensis Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RMZ3",
+   "status": "accepted",
+   "label": "Lacessititermes kolapisensis Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210737",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes laborator": {
+  "gbif": {
+   "key": 9780913,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes laborator (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RMZ4",
+   "status": "accepted",
+   "label": "Lacessititermes laborator (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210739",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes lacessitiformis": {
+  "gbif": {
+   "key": 9756397,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes lacessitiformis (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RMZ5",
+   "status": "accepted",
+   "label": "Lacessititermes lacessitiformis (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210740",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes lacessitus": {
+  "gbif": {
+   "key": 9705339,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes lacessitus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RMZ6",
+   "status": "accepted",
+   "label": "Lacessititermes lacessitus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210741",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes longinasus": {
+  "gbif": {
+   "key": 9786247,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes longinasus Syaukani, 2008",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RMZ7",
+   "status": "accepted",
+   "label": "Lacessititermes longinasus Syaukani, 2008",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210742",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes palawanensis": {
+  "gbif": {
+   "key": 9798727,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes palawanensis Light, 1930",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RMZ8",
+   "status": "accepted",
+   "label": "Lacessititermes palawanensis Light, 1930",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210744",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes piliferus": {
+  "gbif": {
+   "key": 9766240,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes piliferus (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RMZ9",
+   "status": "accepted",
+   "label": "Lacessititermes piliferus (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210746",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes ransoneti": {
+  "gbif": {
+   "key": 9717185,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes ransoneti (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6NRDY",
+   "status": "accepted",
+   "label": "Lacessititermes ransoneti (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210747",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes saraiensis": {
+  "gbif": {
+   "key": 9801009,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes saraiensis (Oshima, 1916)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RMZB",
+   "status": "accepted",
+   "label": "Lacessititermes saraiensis (Oshima, 1916)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210748",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes sordidus": {
+  "gbif": {
+   "key": 9754092,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes sordidus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RMZC",
+   "status": "accepted",
+   "label": "Lacessititermes sordidus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210749",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes thailandicus": {
+  "gbif": {
+   "key": 9674413,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lacessititermes thailandicus (Sen-Sarma, 1966)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3RMZD",
+   "status": "accepted",
+   "label": "Lacessititermes thailandicus (Sen-Sarma, 1966)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210750",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lacessititermes yamanei": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Lacessititermes Holmgren, 1912",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Lacessititermes Holmgren, 1912",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

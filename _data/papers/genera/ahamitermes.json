@@ -1,0 +1,55 @@
+{
+ "fetched_at": "2026-10-30T15:45:48Z",
+ "latin": "Ahamitermes",
+ "papers": [
+  {
+   "abstract": "The little-known Australian genus, Ahamitermes, contains four described species: A. nidicola Mjoberg (Queensland), A. hillii Nicholls (south-western Australia), A. inclusus Gay (restricted to a small sub-coastal area in mid- Western Australia), and A. pumilus (Hill) (New South Wales and Western Australia). Many new distribution records of A. hillii and some of A. inclusus are given. New observations on the biology of Ahamitermes show that the various species have a species-specific parasitic nesting relationship with either one of two species of the genus Coptotermes. They live in specific parts of the inner sections of Coptotermes nests, utilizing as food the carton composing these sections, and are thus dependent on the host for food and shelter. They are not found in any other situation. The nests of host and parasite are separated and the two species are mutually hostile. A. pumilus differs from its congeners in that it is also dependent on the host for the release of its alates which are tolerated inquilines in the host's nest. Termite associations in general and that of Ahamitermes and Coptotermes in particular are discussed.",
+   "abstract_chars": 1149,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "J. H. Calaby"
+   ],
+   "cited_by": 12,
+   "date": "1956-08-01",
+   "doi": "10.1071/zo9560111",
+   "doi_url": "https://doi.org/10.1071/zo9560111",
+   "id": "https://openalex.org/W2083600018",
+   "issue": "2",
+   "language": "en",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W2083600018",
+   "pages": "111-124",
+   "title": "The distribution and biology of the genus Ahamitermes (Isoptera).",
+   "type": "article",
+   "venue": "Australian Journal of Zoology",
+   "volume": "4",
+   "year": 1956
+  },
+  {
+   "abstract": "A new genus of termites, Incolitermes, is erected to accommodate the species pumilus, previously placed in the genus Ahamitermes. The reasons for this transfer are given, together with diagnoses of the two genera as now defined.",
+   "abstract_chars": 228,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "F. J. Gay"
+   ],
+   "cited_by": 5,
+   "date": "1966-04-01",
+   "doi": "10.1111/j.1440-6055.1966.tb00676.x",
+   "doi_url": "https://doi.org/10.1111/j.1440-6055.1966.tb00676.x",
+   "id": "https://openalex.org/W4252260399",
+   "issue": "1",
+   "language": "en",
+   "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1440-6055.1966.tb00676.x",
+   "openalex_url": "https://openalex.org/W4252260399",
+   "pages": "40-43",
+   "title": "A NEW GENUS OF TERMITES (ISOPTERA) FROM AUSTRALIA",
+   "type": "article",
+   "venue": "Australian Journal of Entomology",
+   "volume": "5",
+   "year": 1966
+  }
+ ],
+ "zh": "无钩白蚁属"
+}

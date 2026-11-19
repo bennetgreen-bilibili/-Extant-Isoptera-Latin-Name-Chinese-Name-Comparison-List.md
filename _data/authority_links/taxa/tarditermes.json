@@ -1,0 +1,24 @@
+{
+ "Tarditermes contracolor": {
+  "gbif": {
+   "key": 9661445,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tarditermes contracolor Emerson, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "7BLNZ",
+   "status": "accepted",
+   "label": "Tarditermes contracolor Emerson, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073756",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

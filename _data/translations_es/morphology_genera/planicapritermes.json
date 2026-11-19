@@ -1,0 +1,17 @@
+{
+ "note": "El original indica explícitamente Imago: Unknown, por lo que no se incluye sección de alados; las mandíbulas de soldados y obreros según pp. 317–319 y figs. 45–46. Este género es monotípico (solo P. planiceps).",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Grupo neotropical de soldados de Termitinae con mandíbulas asimétricas de tipo snapping. Próximo a Neocapritermes, del que posiblemente deriva: las mandíbulas de obreros y alados son idénticas (los alados de este género son desconocidos, por lo que no cabe comparación); los soldados se asemejan a Neocapritermes, pero la cabeza es muy aplanada, el margen posterior trilobulado, las antenas de 14 segmentos (en el otro, 15–16), el pronoto mucho más estrecho que la cabeza y la fórmula de espinas tibiales 2:2:2 (en el otro 3:2:2, solo N. bodkini 2:2:2)."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza y pronoto con setas de densidad media. Cabeza muy aplanada, con los lados convergentes hacia delante; margen posterior trilobulado, el lóbulo medio poco destacado; fontanela pequeña y redonda; glándula frontal ausente. Labro asimétrico, curvado alrededor de la base de las mandíbulas o envolviéndola, lingüiforme, con los lados convergentes hacia delante en un extremo obtuso. Mandíbulas asimétricas: la izquierda fuertemente curvada en su mitad, de base gruesa, con la región externa provista de crestas y concavidades, la región anterior espatulada, el ápice obtuso y la región basal interna con una proyección dentiforme que encaja en la escotadura correspondiente de la mandíbula derecha; la mandíbula derecha recta. Antenas de 14 segmentos. Pronoto mucho más estrecho que la cabeza, con el lóbulo anterior muy ligeramente elevado. Fórmula de espinas tibiales 2:2:2; tibia media sin espinas."
+  },
+  {
+   "label": "Obrero",
+   "text": "Mandíbulas como en la fig. 46: diente apical de la mandíbula izquierda pequeño, margen posterior resultante de la fusión de los dientes marginales 1+2 largo, 3.er diente marginal bien desarrollado; en la mandíbula derecha el margen posterior del 2.º diente marginal recto y el ángulo entre el 1.º y el 2.º diente marginal agudo."
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+ "Rhynchotermes amazonensis": {
+  "gbif": {
+   "key": 8620686,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rhynchotermes amazonensis",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Rhynchotermes Holmgren, 1912",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q25359614",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Rhynchotermes armatus": {
+  "gbif": {
+   "key": 11159052,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rhynchotermes armatus Scheffrahn, 2019",
+   "accepted": null
+  },
+  "col": {
+   "id": "8QS6K",
+   "status": "accepted",
+   "label": "Rhynchotermes armatus Scheffrahn, 2019",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rhynchotermes bulbinasus": {
+  "gbif": {
+   "key": 8570749,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rhynchotermes bulbinasus Scheffrahn, 2010",
+   "accepted": null
+  },
+  "col": {
+   "id": "78W3C",
+   "status": "accepted",
+   "label": "Rhynchotermes bulbinasus Scheffrahn, 2010",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q4048268",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rhynchotermes diphyes": {
+  "gbif": {
+   "key": 8577562,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rhynchotermes diphyes Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "4STVF",
+   "status": "accepted",
+   "label": "Rhynchotermes diphyes Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084315",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rhynchotermes matraga": {
+  "gbif": {
+   "key": 8493549,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rhynchotermes matraga",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Rhynchotermes Holmgren, 1912",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q25359618",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Rhynchotermes nasutissimus": {
+  "gbif": {
+   "key": 8705385,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rhynchotermes nasutissimus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4STVH",
+   "status": "accepted",
+   "label": "Rhynchotermes nasutissimus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084320",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rhynchotermes perarmatus": {
+  "gbif": {
+   "key": 9684985,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rhynchotermes perarmatus (Snyder, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4STVK",
+   "status": "accepted",
+   "label": "Rhynchotermes perarmatus (Snyder, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084323",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Rhynchotermes piauy": {
+  "gbif": {
+   "key": 8499943,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rhynchotermes piauy Cancello, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "4STVL",
+   "status": "accepted",
+   "label": "Rhynchotermes piauy Cancello, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084325",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

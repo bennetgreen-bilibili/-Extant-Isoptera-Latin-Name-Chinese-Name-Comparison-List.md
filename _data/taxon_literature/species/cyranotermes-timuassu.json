@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "有翅成虫的首次描述",
+   "heading_en": "First description of the imago caste",
+   "heading_es": "Primera descripción de la casta imago",
+   "paragraphs": [
+    {
+     "text": "据摘要，多毛巨鼻白蚁（<i>Cyranotermes timuassu</i>）的有翅成虫在 Rocha、Carrijo 与 Cancello（2012）的研究中首次得到描述，并与卡日普纳巨鼻白蚁（<i>Cyranotermes karipuna</i>）的有翅成虫一起构成巨鼻白蚁属（<i>Cyranotermes</i>）有翅成虫品级首次描述的依据。",
+     "text_en": "According to the abstract, the imago of <i>Cyranotermes timuassu</i> was described for the first time in the study by Rocha, Carrijo and Cancello (2012) and, together with the imago of <i>Cyranotermes karipuna</i>, provided the basis for the first description of the imago caste of <i>Cyranotermes</i>.",
+     "text_es": "Según el resumen, el imago de <i>Cyranotermes timuassu</i> fue descrito por primera vez en el estudio de Rocha, Carrijo y Cancello (2012) y, junto con el imago de <i>Cyranotermes karipuna</i>, sirvió de base para la primera descripción de la casta imago de <i>Cyranotermes</i>.",
+     "src": [
+      "S0353"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0353",
+   "citation": "Rocha, M. M.; Carrijo, T. F.; Cancello, E. M. 2012. An illustrated key to the soldiers of Cyranotermes Araujo with a new species from Amazonia (Isoptera: Termitidae: Nasutitermitinae). Zootaxa.",
+   "url": "https://doi.org/10.11646/zootaxa.3196.1.2"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "Thoracotermes brevinotus": {
+  "label": "Thoracotermes brevinotus Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 85138,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85138/overview",
+  "valid_label": null,
+  "valid_otu": 85138,
+  "verified": false
+ },
+ "Thoracotermes grevillensis": {
+  "label": "Thoracotermes grevillensis Weidner, 1974",
+  "match": "exact",
+  "notes": "",
+  "otu": 85139,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85139/overview",
+  "valid_label": null,
+  "valid_otu": 85139,
+  "verified": false
+ },
+ "Thoracotermes lusingensis": {
+  "label": "Thoracotermes lusingensis Harris, 1958",
+  "match": "exact",
+  "notes": "",
+  "otu": 85140,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85140/overview",
+  "valid_label": null,
+  "valid_otu": 85140,
+  "verified": false
+ },
+ "Thoracotermes macrothorax": {
+  "label": "Thoracotermes macrothorax (Sjöstedt, 1899)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85141,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85141/overview",
+  "valid_label": null,
+  "valid_otu": 85141,
+  "verified": false
+ }
+}

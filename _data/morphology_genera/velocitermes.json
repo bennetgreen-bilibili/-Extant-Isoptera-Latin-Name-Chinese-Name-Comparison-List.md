@@ -1,0 +1,25 @@
+{
+ "zh_name": "快白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫复眼位于头侧、相对小但强烈凸出，唇基多与额同色或仅稍浅，头多卵形且后头发达，触角节多少延长，左上颚第 1 齿约与第 2 齿等长；兵蚁具两级（相当于 Diversitermes 的中型与小型），上颚具端突，触角 14 节，足长。Holmgren 认为本属无疑与 Diversitermes 近缘，很可能源自一个原本三型的亚属、最大兵蚁型已退化，同时有翅成虫头形较伸长、复眼较小而更凸出，生活上转为昼行、以长足迁徙并储粮。Sands（1965）把本属与 Tenuirostritermes、Diversitermes 同置于以新热带为主的一个支系。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "左上颚第 1 齿约与第 2 齿等长；唇基约与半宽等长或略短，常呈暗色，颜色多与额相同或仅稍浅；复眼位于头侧、相对小、强烈凸出；头多卵形，后头发达；触角节多少延长。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "具两级兵蚁，分别相当于 Diversitermes 的中型与小型兵蚁；上颚具端突；触角 14 节；足长（Tafel III, Fig. 27 a, b）。检索表在此另以工蚁前唇基基节约与半宽等长作为辅助条件，但原文未给出工蚁描述。"
+  }
+ ],
+ "note": "原文只有检索表对句；p. 71 的系统学讨论给出上述演化解释。Sands（1965: 651–666）把 Velocitermes 与 Tenuirostritermes、Diversitermes 同置于以新热带为主的支系，并指出 Fulleritermes、Rhadinotermes 虽兵蚁头壳缢缩却属于该支而非 Leptomyxotermes 支。无测量、体色与工蚁描述。",
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren, N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar, 48(4): 59–62, 68–72.",
+   "locator": "p. 60（有翅成虫检索表 ee/d），p. 61–62（兵蚁检索表 cc），p. 71（系统学讨论）"
+  }
+ ]
+}

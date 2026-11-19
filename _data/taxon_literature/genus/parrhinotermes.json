@@ -1,0 +1,40 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "兵蚁单型与亚科内的位置",
+   "heading_en": "Monotypic soldier caste and position within the subfamily",
+   "heading_es": "Casta de soldado monotípica y posición en la subfamilia",
+   "paragraphs": [
+    {
+     "src": [
+      "S0286"
+     ],
+     "text": "根据 Schlemmermeyer 与 Cancello（2000）研究，棒鼻白蚁属（<i>Parrhinotermes</i>）兵蚁为单型，而长鼻白蚁属（<i>Schedorhinotermes</i>）、鼻白蚁属（<i>Rhinotermes</i>）与狭鼻白蚁属（<i>Dolichorhinotermes</i>）兵蚁为二型（大兵蚁与小兵蚁）；除新热带 3 属外，鼻白蚁亚科（<i>Rhinotermitinae</i>）还包括澳洲及印度-马来区部分岛屿的棒鼻白蚁属，以及分布于非洲、亚洲、大洋洲与澳洲的长鼻白蚁属。",
+     "text_en": "According to Schlemmermeyer and Cancello (2000), the soldier caste of <i>Parrhinotermes</i> is monomorphic, whereas the soldiers of <i>Schedorhinotermes</i>, <i>Rhinotermes</i> and <i>Dolichorhinotermes</i> are dimorphic (major and minor soldiers); besides the three Neotropical genera, <i>Rhinotermitinae</i> also includes <i>Parrhinotermes</i> from Australia and some islands of the Indo-Malayan region, and <i>Schedorhinotermes</i>, distributed in Africa, Asia, Oceania and Australia.",
+     "text_es": "Según Schlemmermeyer y Cancello (2000), la casta de soldado de <i>Parrhinotermes</i> es monomórfica, mientras que los soldados de <i>Schedorhinotermes</i>, <i>Rhinotermes</i> y <i>Dolichorhinotermes</i> son dimórficos (soldados mayores y menores); además de los tres géneros neotropicales, <i>Rhinotermitinae</i> incluye también <i>Parrhinotermes</i> de Australia y de algunas islas de la región indomalaya, y <i>Schedorhinotermes</i>, distribuido en África, Asia, Oceanía y Australia."
+    },
+    {
+     "src": [
+      "S0313"
+     ],
+     "text": "据摘要，Neoh 等（2015）在火烧后泥炭地记录到的幸存属中包括棒鼻白蚁属（<i>Parrhinotermes</i>）。",
+     "text_en": "According to the abstract, Neoh et al. (2015) recorded <i>Parrhinotermes</i> among the genera that survived in severely burnt peatland.",
+     "text_es": "Según el resumen, Neoh et al. (2015) registraron <i>Parrhinotermes</i> entre los géneros que sobrevivieron en turberas gravemente quemadas."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0286",
+   "citation": "Schlemmermeyer, T.; Cancello, E. M. 2000. New fóssil termite species: Dolichorhinotermes Dominicanusfrom Dominican Amber (Isoptera, Rhinotermitidae, Rjhinotermitinae). Universidade de São Paulo. Agência de Bibliotecas e Coleções Digitais.",
+   "doi": "10.11606/0031-1049.2000.41.p303-311"
+  },
+  {
+   "id": "S0313",
+   "citation": "Neoh, K.-B.; Bong, L.-J.; Muhammad, A. A. A.; Itoh, M.; Kozan, O.; Takematsu, Y.; Yoshimura, T. 2015. Understanding the impact of fire on termites in degraded tropical peatlands and the mechanisms for their ecological success: current knowledge and research needs. Ecological Research.",
+   "doi": "10.1007/s11284-015-1289-8"
+  }
+ ]
+}

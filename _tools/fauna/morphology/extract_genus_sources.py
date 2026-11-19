@@ -1,16 +1,17 @@
 """Extract genus-level source pointers from Krishna et al. (2013), Treatise on the Isoptera.
 
-Output: _data/genus_sources.json keyed by page URL. Each entry records the original
+Output: the _data/genus_sources/ shards, one file per genus, keyed by page URL. Each entry records the original
 citation, type species and bibliographic references that Treatise flags as containing
 characters / diagnoses / keys. Treatise itself gives no morphological description, so
 these are pointers to the literature, never description text.
 """
-import json, re, unicodedata
+import json, re, sys, unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[3]
+sys.path.insert(0, str(ROOT / '_tools'))
+import shard_io  # noqa: E402
 TREATISE = ROOT / '_unpublished/文库/treatise-on-the-isoptera/_full.txt'
-OUT = ROOT / '_data/genus_sources.json'
 
 tax = json.load(open(ROOT / '_data/taxonomy.json', encoding='utf-8'))
 genera = tax['genera']
@@ -129,7 +130,8 @@ for g in genera:
                 'treatise': True, 'citation': cit, 'type_species': ts,
                 'references': refs, 'nrefs': nrefs}
 
-json.dump(out, open(OUT, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-print('wrote', OUT.name, len(out), 'entries; no Treatise entry:', len(missing))
+written, removed = shard_io.save('genus_sources', out)
+print('wrote _data/genus_sources/', len(out), 'entries in', written,
+      'files (', removed, 'removed); no Treatise entry:', len(missing))
 print('no citation:', sum(1 for v in out.values() if not v['citation']))
 print('no type species:', sum(1 for v in out.values() if v['treatise'] and not v['type_species']))

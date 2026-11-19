@@ -1,0 +1,31 @@
+{
+ "latin": "Megagnathotermes",
+ "zh": "大颚白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Megagnathotermes Silvestri, 1914a: 80–81.",
+ "type_species": "Megagnathotermes notandus Silvestri, 1914 by original designation.",
+ "references": [
+  {
+   "ref": "Webb, 1961: 13",
+   "note": "Megagnathotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 27, 100, 101, pl. 18: fig. 53b",
+   "note": "Megagnathotermes; key; characters; imago/worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 33",
+   "note": "Megagnathotermes; key."
+  },
+  {
+   "ref": "Sands, 1995: 1484",
+   "note": "Megagnathotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 40, 207–209, figs. 792–808, pl. 10: figs. 5, 6",
+   "note": "Megagnathotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 15
+}

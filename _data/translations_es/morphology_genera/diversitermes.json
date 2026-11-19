@@ -1,0 +1,17 @@
+{
+ "note": "Establecido por Holmgren 1912, catalogado como el subgénero número 9, que incluye diversimilis Silvestri (Paraguay, Argentina, Brasil, Bolivia) y castaniceps Holmgren (Brasil). El original solo contiene la entrada de la clave y no aporta mediciones de las tres formas de soldado, por lo que arriba se indican únicamente el número de formas y sus caracteres cualitativos; el original tampoco ofrece caracteres genéricos de obrero.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El carácter más llamativo es la trimorfia del soldado: el nasus del soldado mayor es estrecho y fino y la depresión de su base es débil; la cápsula cefálica de los soldados mediano y menor está más o menos constreñida en forma de mancuerna; antenas de 13 segmentos; las patas de las dos formas menores de soldado son bastante largas. En el mismo grupo, Velocitermes es dimórfico (equivalente a las formas mediana y menor de este género) y Trinervitermes es dimórfico o rara vez trimórfico, pero sus mandíbulas carecen de parte apical; las tres formas de soldado bien definidas siguen siendo el signo más llamativo del género. El alado se distingue de Rotunditermes (ojos muy grandes) por los ojos de tamaño medio, el primer diente mandibular aproximadamente tan largo como el segundo y el clípeo aproximadamente tan largo como la semianchura."
+  },
+  {
+   "label": "Alado",
+   "text": "Ojos compuestos de tamaño medio (la clave del original los contrapone a los ojos muy grandes de Rotunditermes, rama en la que además se registra que los ojos se elevan hacia la parte superolateral de la cabeza y que el pronoto es relativamente grande); primer diente mandibular aproximadamente tan largo como el segundo; clípeo aproximadamente tan largo como la semianchura, o algo más corto y fuertemente convexo, transverso-ovalado y de color amarillo pálido, a veces oscuro; segmentos antenales con alargamiento moderado."
+  },
+  {
+   "label": "Soldado",
+   "text": "Soldado trimórfico. Soldado mayor: nasus estrecho, depresión de la base del nasus débil. Soldados mediano y menor: cápsula cefálica más o menos marcadamente constreñida en forma de mancuerna; antenas de 13 segmentos. Las patas de las dos formas menores de soldado son bastante largas."
+  }
+ ]
+}

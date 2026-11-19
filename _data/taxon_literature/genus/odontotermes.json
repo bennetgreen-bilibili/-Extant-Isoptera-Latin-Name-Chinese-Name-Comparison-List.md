@@ -1,0 +1,40 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "南印度的属级多样性与经济重要性",
+   "heading_en": "Genus-level diversity and economic importance in South India",
+   "heading_es": "Diversidad genérica e importancia económica en el sur de la India",
+   "paragraphs": [
+    {
+     "src": [
+      "S0274"
+     ],
+     "text": "根据 Ranjith 等（2021）研究，南印度属级多样性最高的是白蚁科的土白蚁属（<i>Odontotermes</i>，25 种），其次为木白蚁科的新白蚁属（<i>Neotermes</i>，10 种）。",
+     "text_en": "According to Ranjith et al. (2021), the most diverse genus in South India was <i>Odontotermes</i> (Termitidae) with 25 species, followed by <i>Neotermes</i> (Kalotermitidae) with 10 species.",
+     "text_es": "Según Ranjith et al. (2021), el género más diverso en el sur de la India fue <i>Odontotermes</i> (Termitidae), con 25 especies, seguido de <i>Neotermes</i> (Kalotermitidae), con 10 especies."
+    },
+    {
+     "src": [
+      "S0287"
+     ],
+     "text": "据摘要，根据 Becker（1962）研究，危害建筑内木材的经济重要种为异白蚁属（<i>Heterotermes</i>）与乳白蚁属（<i>Coptotermes</i>）的种类，印度南部则以异白蚁属、乳白蚁属与土白蚁属（<i>Odontotermes</i>）的多种为主；同年该文新增 5 种取食活立木的记录，其中土白蚁属占 2 种（取食树木）。",
+     "text_en": "According to the abstract, Becker (1962) reported that the economically important species damaging timber in buildings are those of <i>Heterotermes</i> and <i>Coptotermes</i>, whereas in southern India species of <i>Heterotermes</i>, <i>Coptotermes</i> and <i>Odontotermes</i> predominate; the same paper added records of five species feeding on living trees, two of them in <i>Odontotermes</i> (feeding on trees).",
+     "text_es": "Según el resumen, Becker (1962) señaló que las especies de importancia económica que dañan la madera en los edificios son las de <i>Heterotermes</i> y <i>Coptotermes</i>, mientras que en el sur de la India predominan varias especies de <i>Heterotermes</i>, <i>Coptotermes</i> y <i>Odontotermes</i>; el mismo trabajo añadió registros de cinco especies que se alimentan de árboles vivos, dos de ellas de <i>Odontotermes</i> (que se alimentan de árboles)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0274",
+   "citation": "Ranjith, M.; Kalleshwaraswamy, C. M. 2021. Termites (Blattodea: Isoptera) of southern India: current knowledge on distribution and systematic checklist. Wildlife Information Liaison Development Society.",
+   "doi": "10.11609/jott.5781.13.6.18598-18613"
+  },
+  {
+   "id": "S0287",
+   "citation": "Günther Becker. 1962. Beiträge zur Kenntnis der geographischen Verbreitung und wirtschaftlichen Bedeutung von Termiten in Indien1. Zeitschrift für Angewandte Entomologie.",
+   "doi": "10.1111/j.1439-0418.1962.tb04422.x"
+  }
+ ]
+}

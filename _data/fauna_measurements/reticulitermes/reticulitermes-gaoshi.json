@@ -1,0 +1,38 @@
+{
+ "book_n": "117",
+ "book_name": "大囟散白蚁 Reticulitermes",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "head_width_with_eyes",
+     "value": "1.03–1.06"
+    },
+    {
+     "key": "head_width",
+     "value": "0.98"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.038"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.83–0.88"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.06–1.11"
+    }
+   ],
+   "src_file": "301-400.txt",
+   "src_line": 1374,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "对宿主追踪信息素的利用",
+   "paragraphs": [
+    {
+     "text": "同项研究显示，小角客白蚁（Inquilinitermes microcerus）虽未被鉴定出自身特有的追踪化合物，但其工蚁能跟随弯肠缩白蚁（Constrictotermes cyphergaster）的追踪信息素成分；在异类与同类追踪信息素轨迹之间，小角客白蚁偏好异类轨迹，并在全身体表提取物无选择实验中回避异类轨迹。作者认为两者的共存依赖避免冲突的行为策略。",
+     "src": [
+      "S0176"
+     ],
+     "text_en": "The same study showed that although no trail compound specific to Inquilinitermes microcerus was identified, its workers can follow the trail pheromone components of Constrictotermes cyphergaster; between heterospecific and conspecific trail pheromone trails, Inquilinitermes microcerus prefers heterospecific trails, and in no-choice experiments with whole-body surface extracts it avoids heterospecific trails. The authors considered that the coexistence of the two species depends on behavioural strategies that avoid conflict.",
+     "text_es": "El mismo estudio muestra que, aunque no se identificaron compuestos de rastro propios de Inquilinitermes microcerus, sus obreras pueden seguir los componentes de la feromona de rastro de Constrictotermes cyphergaster; entre rastros heteroespecíficos y coespecíficos, Inquilinitermes microcerus prefiere los heteroespecíficos y, en los experimentos sin elección con extractos de superficie corporal total, evita los rastros heteroespecíficos. Los autores consideran que la coexistencia de ambas especies depende de estrategias conductuales que evitan el conflicto."
+    }
+   ],
+   "heading_en": "Use of the host trail pheromone",
+   "heading_es": "Uso de la feromona de rastro del hospedador"
+  },
+  {
+   "heading": "在宿主巢中的存活力与行走行为",
+   "heading_en": "Survivorship and walking behaviour in the host nest",
+   "heading_es": "Supervivencia y conducta de desplazamiento en el nido hospedador",
+   "paragraphs": [
+    {
+     "src": [
+      "S0324"
+     ],
+     "text": "根据 Cruz 等（2018）研究，小角客白蚁（<i>Inquilinitermes microcerus</i>）常栖居于缩白蚁属（<i>Constrictotermes</i>）的巢中，其群体通常与宿主群体在空间上隔离。生物测定显示：工蚁与宿主接触（无论来自同巢或异巢）时平均死亡时间短于对照，与宿主巢外壁接触时也短于对照与内壁接触；而与宿主接触时行走距离与速度与对照无差异，接触内壁或外壁时则低于对照。作者据此认为该种采取回避宿主感知的行为策略（据摘要）。",
+     "text_en": "According to Cruz et al. (2018), <i>Inquilinitermes microcerus</i> frequently inhabits nests of <i>Constrictotermes</i>, and its colonies usually establish themselves spatially isolated from those of the host. In bioassays, the mean time to death of inquiline workers was shorter in contact with hosts, whether from the same or a different nest, than in the control, and shorter in contact with the external walls of the host nest than in the control or in contact with the inner walls; the distance walked and the walking velocity did not differ from the control when workers were in contact with hosts, but were lower than the control in contact with inner and external walls. The authors conclude that the species adopts behavioural strategies to avoid perception by its host (according to the abstract).",
+     "text_es": "Según Cruz et al. (2018), <i>Inquilinitermes microcerus</i> habita con frecuencia nidos de <i>Constrictotermes</i>, y sus colonias suelen establecerse aisladas espacialmente de las del hospedador. En los bioensayos, el tiempo medio hasta la muerte de las obreras inquilinas fue menor en contacto con los hospedadores, tanto del mismo nido como de otro, que en el control, y menor en contacto con las paredes externas del nido hospedador que en el control o en contacto con las paredes internas; la distancia recorrida y la velocidad de desplazamiento no difirieron del control cuando las obreras estaban en contacto con los hospedadores, pero fueron menores que el control en contacto con las paredes internas y externas. Los autores concluyen que la especie adopta estrategias conductuales para evitar ser percibida por su hospedador (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0176",
+   "citation": "Cristaldo, P. F. et al. 2014. Mutual use of trail-following chemical cues by a termite host and its inquiline. PLoS ONE.",
+   "doi": "10.1371/journal.pone.0085315"
+  },
+  {
+   "id": "S0324",
+   "citation": "Cruz, J. S.; Cristaldo, P. F.; Sacramento, J. J. M.; Cruz, M. L. R.; Ferreira, D. V.; Araújo, A. P. A. 2018. Survivorship and walking behavior of Inquilinitermes microcerus (Termitidae: Termitinae) in contact with host workers and walls from host nest. Sociobiology 65(1).",
+   "url": "https://doi.org/10.13102/sociobiology.v65i1.1780"
+  }
+ ]
+}

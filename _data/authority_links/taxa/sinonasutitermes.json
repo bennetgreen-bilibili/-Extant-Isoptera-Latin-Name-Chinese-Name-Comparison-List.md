@@ -1,0 +1,244 @@
+{
+ "Sinonasutitermes admirabilis": {
+  "gbif": {
+   "key": 9669673,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinonasutitermes admirabilis Xu & Ping, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "6Z2VL",
+   "status": "accepted",
+   "label": "Sinonasutitermes admirabilis Ping & Xu, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084384",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinonasutitermes dimorphus": {
+  "gbif": {
+   "key": 9719686,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinonasutitermes dimorphus Li, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XLB2",
+   "status": "accepted",
+   "label": "Sinonasutitermes dimorphus Li, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084387",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinonasutitermes erectinasus": {
+  "gbif": {
+   "key": 9783627,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinonasutitermes erectinasus (Tsai & Chen, 1963)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XLB3",
+   "status": "accepted",
+   "label": "Sinonasutitermes erectinasus (Tsai & Chen, 1963)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084390",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinonasutitermes guangxiensis": {
+  "gbif": {
+   "key": 9771085,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinonasutitermes guangxiensis Huang & Ping, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XLB4",
+   "status": "accepted",
+   "label": "Sinonasutitermes guangxiensis Ping & Huang, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084391",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinonasutitermes hainanensis": {
+  "gbif": {
+   "key": 9816254,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinonasutitermes hainanensis Ping & Li, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XLB5",
+   "status": "accepted",
+   "label": "Sinonasutitermes hainanensis Li & Ping, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084393",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinonasutitermes mediocris": {
+  "gbif": {
+   "key": 9803581,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinonasutitermes mediocris Xu & Ping, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XLB6",
+   "status": "accepted",
+   "label": "Sinonasutitermes mediocris Ping & Xu, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084395",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinonasutitermes planinasus": {
+  "gbif": {
+   "key": 9700649,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinonasutitermes planinasus Xu & Ping, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XLB7",
+   "status": "accepted",
+   "label": "Sinonasutitermes planinasus Ping & Xu, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084397",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinonasutitermes platycephalus": {
+  "gbif": {
+   "key": 9669849,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinonasutitermes platycephalus (Ping & Xu, 1988)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XLB8",
+   "status": "accepted",
+   "label": "Sinonasutitermes platycephalus (Ping & Xu, 1988)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084399",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinonasutitermes trimorphus": {
+  "gbif": {
+   "key": 9688604,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinonasutitermes trimorphus Ping & Li, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XLB9",
+   "status": "accepted",
+   "label": "Sinonasutitermes trimorphus Li & Ping, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084402",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinonasutitermes xiai": {
+  "gbif": {
+   "key": 9731968,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinonasutitermes xiai Xu & Ping, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "6Z37L",
+   "status": "accepted",
+   "label": "Sinonasutitermes xiai Ping & Xu, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084404",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinonasutitermes yui": {
+  "gbif": {
+   "key": 9751566,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinonasutitermes yui Xu & Ping, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XLBB",
+   "status": "accepted",
+   "label": "Sinonasutitermes yui Ping & Xu, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084406",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

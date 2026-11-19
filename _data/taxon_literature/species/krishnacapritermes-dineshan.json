@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "新种与 COI 条形码",
+   "heading_en": "A new species and its COI barcodes",
+   "heading_es": "Una especie nueva y sus códigos de barras COI",
+   "paragraphs": [
+    {
+     "src": [
+      "S0323"
+     ],
+     "text": "据摘要，Amina 等（2019）自喀拉拉邦西高止山的高海拔山岭描述迪内尚克里希纳扭白蚁（<i>Krishnacapritermes dineshan</i>）为新种，并为该种自多个地点生成基于细胞色素氧化酶 I（COI）基因的 DNA 条形码，用于检验其与同属种的系统发育关系；该种被纳入克里希纳扭白蚁属（<i>Krishnacapritermes</i>）4 种的二歧检索表与分布图。",
+     "text_en": "According to the abstract, Amina et al. (2019) describe <i>Krishnacapritermes dineshan</i> as a new species from the higher-elevation hill ranges of the Western Ghats in Kerala and generated DNA barcodes based on the cytochrome oxidase I (COI) gene for the species from multiple localities, in order to test its phylogenetic relationships with congeners; the species is included in the dichotomous key to the four species of <i>Krishnacapritermes</i> and in the distribution map.",
+     "text_es": "Según el resumen, Amina et al. (2019) describen <i>Krishnacapritermes dineshan</i> como especie nueva de las sierras de mayor altitud de los Ghats Occidentales en Kerala y generaron códigos de barras de ADN basados en el gen de la citocromo oxidasa I (COI) para la especie en varias localidades, con el fin de comprobar sus relaciones filogenéticas con sus congéneres; la especie se incluye en la clave dicotómica de las cuatro especies de <i>Krishnacapritermes</i> y en el mapa de distribución."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0323",
+   "citation": "Amina, P.; Rajmohana, K.; Dinesh-Kumar, S. P.; Asha, G.; Sinu, P. A.; Mathew, J. 2019. Two new species of an Indian endemic genus Krishnacapritermes Chhotani (Isoptera: Termitidae) from the Kerala part of the Western Ghats, India. Oriental Insects.",
+   "url": "https://doi.org/10.1080/00305316.2019.1683091"
+  }
+ ]
+}

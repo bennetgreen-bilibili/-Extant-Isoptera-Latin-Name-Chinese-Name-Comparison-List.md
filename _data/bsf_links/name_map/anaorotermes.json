@@ -1,0 +1,13 @@
+{
+ "Anaorotermes echinocolon": {
+  "label": "Anaorotermes echinocolon Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83949,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83949/overview",
+  "valid_label": null,
+  "valid_otu": 83949,
+  "verified": false
+ }
+}

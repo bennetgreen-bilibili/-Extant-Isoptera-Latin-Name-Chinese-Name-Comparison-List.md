@@ -1,0 +1,187 @@
+{
+ "aborted": null,
+ "api": "https://sfg.taxonworks.org/api/v1",
+ "api_calls": 0,
+ "citation": "Blattodea Working Group. Blattodea Species File Online. https://cockroach.speciesfile.org",
+ "counts": {
+  "ambiguous": 61,
+  "error": 0,
+  "missing": 46,
+  "synonym": 1,
+  "total": 3089,
+  "valid": 2981
+ },
+ "fetched": 3089,
+ "generated": "2026-10-31T10:59:14Z",
+ "generated_by": ".github/workflows/build_bsf_links.py",
+ "pending": 0,
+ "rate_limit": "global <=2 req/s (max 4 in flight), exponential backoff on 429/5xx, resumable cache",
+ "review": "semi-automatic; see _tools/bsf对照/操作说明.md",
+ "source": "Blattodea Species File (cockroach.speciesfile.org)",
+ "spot_check": {
+  "checked": 20,
+  "passed": 20,
+  "sample": [
+   {
+    "http": 200,
+    "latin": "Psammotermes rajasthanicus",
+    "ok": true,
+    "otu": 83406,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/83406/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Rugitermes occidentalis",
+    "ok": true,
+    "otu": 83063,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/83063/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Pseudocapritermes karticki",
+    "ok": true,
+    "otu": 85787,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/85787/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Microtermes aethiopicus",
+    "ok": true,
+    "otu": 83592,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/83592/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Bulbitermes mariveles",
+    "ok": true,
+    "otu": 84355,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/84355/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Subulioiditermes borneensis",
+    "ok": true,
+    "otu": 84887,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/84887/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Stylotermes curvatus",
+    "ok": true,
+    "otu": 83096,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/83096/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Amicotermes camerunensis",
+    "ok": true,
+    "otu": 83937,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/83937/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Cristatitermes tutulatus",
+    "ok": true,
+    "otu": 85325,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/85325/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Nasutitermes magnus",
+    "ok": true,
+    "otu": 84702,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/84702/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Trichotermes villifrons",
+    "ok": true,
+    "otu": 84158,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/84158/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Euhamitermes retusus",
+    "ok": true,
+    "otu": 84078,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/84078/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Trinervitermes bettonianus",
+    "ok": true,
+    "otu": 84911,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/84911/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Amitermes modicus",
+    "ok": true,
+    "otu": 85224,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/85224/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Odontotermes yunnanensis",
+    "ok": true,
+    "otu": 83868,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/83868/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Cryptotermes penaoru",
+    "ok": true,
+    "otu": 82641,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/82641/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Amitermes innoxius",
+    "ok": true,
+    "otu": 85206,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/85206/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Neotermes greeni",
+    "ok": true,
+    "otu": 82930,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/82930/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Pseudhamitermes khmerensis",
+    "ok": true,
+    "otu": 85781,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/85781/overview"
+   },
+   {
+    "http": 200,
+    "latin": "Termes ayri",
+    "ok": true,
+    "otu": 85837,
+    "status": "valid",
+    "url": "https://cockroach.speciesfile.org/otus/85837/overview"
+   }
+  ]
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "latin": "Rhinotermes",
+ "zh": "鼻白蚁属",
+ "family": "rhinotermitidae",
+ "treatise": true,
+ "citation": "Rhinotermes Hagen, 1858c: 233 [first introduced as a subgenus of Termes Linné, 1758].",
+ "type_species": "Termes nasutum Perty, 1830 by subsequent designation; see Wasmann, 1897b: 151.",
+ "references": [
+  {
+   "ref": "Hagen, 1858b: 16, 33",
+   "note": "Termes (Rhinotermes); characters; species included."
+  },
+  {
+   "ref": "Froggatt, 1897a: 517, 539",
+   "note": "Rhinotermes [part]; characters."
+  },
+  {
+   "ref": "Wasmann, 1897b: 151",
+   "note": "Termes (Rhinotermes); characters; Termes nasutus as type species."
+  },
+  {
+   "ref": "Haviland, 1898: 378, 392–393",
+   "note": "Termes “section with T. nasutus as type”; characters; key."
+  },
+  {
+   "ref": "Desneux, 1904b: 26, 27",
+   "note": "Rhinotermes; key; reference list; characters; species included; biology; distribution."
+  },
+  {
+   "ref": "Holmgren, 1911a: 77, 79, 80",
+   "note": "Rhinotermes; also as Rhinotermes (Rhinotermes); characters; key; species included."
+  },
+  {
+   "ref": "Banks, 1919: 479",
+   "note": "Rhinotermes; key."
+  },
+  {
+   "ref": "Snyder, 1926e: 7",
+   "note": "Rhinotermes [part]; characters."
+  }
+ ],
+ "nrefs": 38
+}

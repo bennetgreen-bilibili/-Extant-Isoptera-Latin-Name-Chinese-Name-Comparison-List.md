@@ -1,0 +1,15 @@
+{
+ "latin": "Adynatotermes",
+ "zh": "弱白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Adynatotermes Sands, 1972: 102.",
+ "type_species": "Mirotermes (?Procubitermes) moretelae Fuller, 1925 by original designation.",
+ "references": [
+  {
+   "ref": "Sands, 1998: 58, 146–148, figs. 421–425, pl. 5: fig. 1",
+   "note": "Adynatotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 2
+}

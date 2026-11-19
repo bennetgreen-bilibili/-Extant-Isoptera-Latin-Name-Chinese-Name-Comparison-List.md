@@ -1,0 +1,49 @@
+{
+ "Chasitermes pax": {
+  "gbif": {
+   "key": 12257043,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Chasitermes pax Scheffrahn & Carrijo, 2023",
+   "accepted": null
+  },
+  "col": {
+   "id": "B2YKK",
+   "status": "accepted",
+   "label": "Chasitermes pax Scheffrahn & Carrijo, 2023",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Chasitermes tupan": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Chasitermes Scheffrahn & Carrijo, 2023",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Chasitermes Scheffrahn & Carrijo, 2023",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-31"
+ }
+}

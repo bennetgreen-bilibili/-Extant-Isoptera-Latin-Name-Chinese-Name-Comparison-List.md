@@ -1,0 +1,94 @@
+{
+ "Krishnacapritermes dineshan": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Krishnacapritermes Chhotani, 1997",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "KVFM8",
+   "status": "accepted",
+   "label": "Krishnacapritermes dineshan Amina & Rajmohana, 2020",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Krishnacapritermes maitii": {
+  "gbif": {
+   "key": 9754566,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Krishnacapritermes maitii Chhotani, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "6NNXN",
+   "status": "accepted",
+   "label": "Krishnacapritermes maitii Chhotani, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253520",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Krishnacapritermes manikandan": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Krishnacapritermes Chhotani, 1997",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "KVFM9",
+   "status": "accepted",
+   "label": "Krishnacapritermes manikandan Amina & Rajmohana, 2020",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Krishnacapritermes thakuri": {
+  "gbif": {
+   "key": 9666803,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Krishnacapritermes thakuri Chhotani, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "6NNXQ",
+   "status": "accepted",
+   "label": "Krishnacapritermes thakuri Chhotani, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253522",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

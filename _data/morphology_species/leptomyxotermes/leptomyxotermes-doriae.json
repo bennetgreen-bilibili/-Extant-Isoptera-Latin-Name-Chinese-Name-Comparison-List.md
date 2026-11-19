@@ -1,0 +1,25 @@
+{
+ "zh_name": "多利亚薄喙白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "Sands 为非洲森林种 doriae 单立此属，此前它与 Rhadinotermes 一起被置于 Coarctotermes。有翅成虫左上颚第 3 缘齿之前的切缘具明显凹缺，这一特征与 Rhadinotermes、Fulleritermes 共有；但本属复眼与单眼极大而突出，囟裂隙状且前方不明显分叉，右上颚臼板仅 6–7 条脊（Fulleritermes 7–9 条，Grallatotermes 13–14 条）。兵蚁单型而带二型痕迹，鼻柱形，头在触角后方强烈缢缩，触角 14 节。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "左上颚端齿与第 1 缘齿等长，端齿至第 1 缘齿的距离为第 1–3 缘齿间距之半（左颚指数约 50）；第 1–3 缘齿之间的切缘在第 3 缘齿前方有明显凹陷。右上颚端齿与第 1 缘齿近等长，第 1 缘齿的后切缘约与第 2 缘齿者等长，后者明显凹；臼板表面在前缘近基端有凹缺，后缘延伸成圆翼，第 1 臼脊成齿，其余 6–7 条向基部渐小。囟裂隙状，前方不明确分叉。复眼与单眼极大而突出。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "单型，带二型痕迹。鼻柱形。退化上颚具小尖。头壳在触角后方强烈缢缩。触角 14 节。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0047",
+   "citation": "Sands W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172. doi 10.5962/p.193228",
+   "locator": "p. 51（Leptomyxotermes gen. n.：imago / Soldier；Remarks）"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+}

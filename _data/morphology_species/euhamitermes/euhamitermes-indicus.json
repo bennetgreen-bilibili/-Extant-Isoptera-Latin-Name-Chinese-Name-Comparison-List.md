@@ -1,0 +1,25 @@
+{
+ "zh_name": "印度亮白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头壳近矩形，长大于宽，较 E. hamatus 更长而狭；上唇、上颚与多毛亮白蚁相同；触角第 2 节长于第 3 节，第 4 节与第 3 节等长；前胸背板鞍形，前缘无凹缺。有翅成虫未见描述。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头部黄色；上颚端部褐色；体白色。头部散生短毛；腹部密被短毛。体长 5.0–5.50 mm。头壳近矩形，长大于宽；头长（不含上颚）1.90 mm，最宽 1.14 mm；形状较 E. hamatus 更长而狭。唇基、上唇与上颚同多毛亮白蚁。触角 14 节，第 2 节长于第 3 节，第 4 节与第 3 节等长。前胸背板鞍形，前缘无凹缺；宽 0.72 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头部淡黄色，体白色。毛稀疏。头卵形，前部收狭；头最宽 0.80 mm。囟点不明显。触角 14 节，第 3 节短于第 2 节，第 4 节短于第 3 节。前胸背板强鞍形，前叶较大，无凹缺；最宽 0.57 mm。"
+  }
+ ],
+ "note": "据 Chhotani (1997) 改写，原文英文；有翅成虫未知；原文对兵蚁的唇基、上唇、上颚只记「同 E. hamatus」，故保留该互指而未补形态细节；删去异名表、文献引证与分布。",
+ "sources": [
+  {
+   "id": "S0104",
+   "citation": "Chhotani O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume II (Family Termitidae). https://archive.org/details/dli.zoological.fi.027",
+   "locator": "条目 119（p. 82）"
+  }
+ ]
+}

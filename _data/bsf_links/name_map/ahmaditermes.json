@@ -1,0 +1,233 @@
+{
+ "Ahmaditermes choui": {
+  "label": "Ahmaditermes choui Ping & Tong, 1989",
+  "match": "exact",
+  "notes": "",
+  "otu": 84281,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84281/overview",
+  "valid_label": null,
+  "valid_otu": 84281,
+  "verified": false
+ },
+ "Ahmaditermes crassinasus": {
+  "label": "Ahmaditermes crassinasus Li, 1985",
+  "match": "exact",
+  "notes": "",
+  "otu": 84282,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84282/overview",
+  "valid_label": null,
+  "valid_otu": 84282,
+  "verified": false
+ },
+ "Ahmaditermes deltocephalus": {
+  "label": "Ahmaditermes deltocephalus (Tsai & Chen, 1963)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84283,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84283/overview",
+  "valid_label": null,
+  "valid_otu": 84283,
+  "verified": false
+ },
+ "Ahmaditermes dinghuensis": {
+  "label": "Ahmaditermes dinghuensis (Li, 1985)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84855,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84855/overview",
+  "valid_label": null,
+  "valid_otu": 84855,
+  "verified": false
+ },
+ "Ahmaditermes dukouensis": {
+  "label": "Ahmaditermes dukouensis Gao & Deng, 1987",
+  "match": "exact",
+  "notes": "",
+  "otu": 84284,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84284/overview",
+  "valid_label": null,
+  "valid_otu": 84284,
+  "verified": false
+ },
+ "Ahmaditermes emersoni": {
+  "label": "Ahmaditermes emersoni (Maiti, 1977)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84285,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84285/overview",
+  "valid_label": null,
+  "valid_otu": 84285,
+  "verified": false
+ },
+ "Ahmaditermes foveafrons": {
+  "label": "Ahmaditermes foveafrons Gao, 1988",
+  "match": "exact",
+  "notes": "",
+  "otu": 84286,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84286/overview",
+  "valid_label": null,
+  "valid_otu": 84286,
+  "verified": false
+ },
+ "Ahmaditermes guizhouensis": {
+  "label": "Ahmaditermes guizhouensis Li & Ping, 1982",
+  "match": "exact",
+  "notes": "",
+  "otu": 84287,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84287/overview",
+  "valid_label": null,
+  "valid_otu": 84287,
+  "verified": false
+ },
+ "Ahmaditermes laticephalus": {
+  "label": "Ahmaditermes laticephalus (Ahmad, 1965)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84288,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84288/overview",
+  "valid_label": null,
+  "valid_otu": 84288,
+  "verified": false
+ },
+ "Ahmaditermes lipingensis": {
+  "label": "Ahmaditermes lipingensis Ping & Xu, 1988",
+  "match": "exact",
+  "notes": "",
+  "otu": 84289,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84289/overview",
+  "valid_label": null,
+  "valid_otu": 84289,
+  "verified": false
+ },
+ "Ahmaditermes parafulvus": {
+  "label": "Ahmaditermes parafulvus (Chen & Tsai, 1963)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84857,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84857/overview",
+  "valid_label": null,
+  "valid_otu": 84857,
+  "verified": false
+ },
+ "Ahmaditermes perisinuosus": {
+  "label": "Ahmaditermes perisinuosus Li & Xiao, 1989",
+  "match": "exact",
+  "notes": "",
+  "otu": 84290,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84290/overview",
+  "valid_label": null,
+  "valid_otu": 84290,
+  "verified": false
+ },
+ "Ahmaditermes pingnanensis": {
+  "label": "Ahmaditermes pingnanensis (Li, 1979)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84291,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84291/overview",
+  "valid_label": null,
+  "valid_otu": 84291,
+  "verified": false
+ },
+ "Ahmaditermes pyricephalus": {
+  "label": "Ahmaditermes pyricephalus Akhtar, 1975",
+  "match": "exact",
+  "notes": "",
+  "otu": 84292,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84292/overview",
+  "valid_label": null,
+  "valid_otu": 84292,
+  "verified": false
+ },
+ "Ahmaditermes sichuanensis": {
+  "label": "Ahmaditermes sichuanensis Xia, Gao, Pan & Tang, 1983",
+  "match": "exact",
+  "notes": "",
+  "otu": 84293,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84293/overview",
+  "valid_label": null,
+  "valid_otu": 84293,
+  "verified": false
+ },
+ "Ahmaditermes sikkimensis": {
+  "label": "Ahmaditermes sikkimensis Mukherjee & Maiti, 2008",
+  "match": "exact",
+  "notes": "",
+  "otu": 84294,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84294/overview",
+  "valid_label": null,
+  "valid_otu": 84294,
+  "verified": false
+ },
+ "Ahmaditermes sinensis": {
+  "label": "Ahmaditermes sinensis Tsai & Huang, 1979",
+  "match": "exact",
+  "notes": "",
+  "otu": 84295,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84295/overview",
+  "valid_label": null,
+  "valid_otu": 84295,
+  "verified": false
+ },
+ "Ahmaditermes sinuosus": {
+  "label": "Ahmaditermes sinuosus (Tsai & Chen, 1963)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84296,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84296/overview",
+  "valid_label": null,
+  "valid_otu": 84296,
+  "verified": false
+ },
+ "Ahmaditermes tianmuensis": {
+  "label": "Ahmaditermes tianmuensis Gao, 1988",
+  "match": "exact",
+  "notes": "",
+  "otu": 84297,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84297/overview",
+  "valid_label": null,
+  "valid_otu": 84297,
+  "verified": false
+ },
+ "Ahmaditermes tiantongensis": {
+  "label": "Ahmaditermes tiantongensis Ping & Xin, 1993",
+  "match": "exact",
+  "notes": "",
+  "otu": 84298,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84298/overview",
+  "valid_label": null,
+  "valid_otu": 84298,
+  "verified": false
+ },
+ "Ahmaditermes xiangyunensis": {
+  "label": "Ahmaditermes xiangyunensis Gao & Gong, 1989",
+  "match": "exact",
+  "notes": "",
+  "otu": 84299,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84299/overview",
+  "valid_label": null,
+  "valid_otu": 84299,
+  "verified": false
+ }
+}

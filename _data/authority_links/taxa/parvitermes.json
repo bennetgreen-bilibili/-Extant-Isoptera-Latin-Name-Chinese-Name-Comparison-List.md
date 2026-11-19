@@ -1,0 +1,250 @@
+{
+ "Parvitermes aequalis": {
+  "gbif": {
+   "key": 9808498,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parvitermes aequalis (Snyder, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6TT8R",
+   "status": "accepted",
+   "label": "Parvitermes aequalis (Snyder, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084821",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parvitermes antillarum": {
+  "gbif": {
+   "key": 9646549,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parvitermes antillarum (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "75SWR",
+   "status": "accepted",
+   "label": "Parvitermes antillarum (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084822",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parvitermes brooksi": {
+  "gbif": {
+   "key": 9665213,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parvitermes brooksi (Snyder, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "75T8R",
+   "status": "accepted",
+   "label": "Parvitermes brooksi (Snyder, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084823",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parvitermes collinsae": {
+  "gbif": {
+   "key": 9744063,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parvitermes collinsae Roisin & Scheffrahn, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "75T93",
+   "status": "accepted",
+   "label": "Parvitermes collinsae Scheffrahn & Roisin, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084824",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parvitermes dominicanae": {
+  "gbif": {
+   "key": 9758930,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parvitermes dominicanae Su, Roisin & Scheffrahn, 1998",
+   "accepted": null
+  },
+  "col": {
+   "id": "764WR",
+   "status": "accepted",
+   "label": "Parvitermes dominicanae Scheffrahn, Roisin & Su, 1998",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084825",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parvitermes flaveolus": {
+  "gbif": {
+   "key": 9746731,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parvitermes flaveolus (Banks, 1919)",
+   "accepted": null
+  },
+  "col": {
+   "id": "764X3",
+   "status": "accepted",
+   "label": "Parvitermes flaveolus (Banks, 1919)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084826",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parvitermes mesoamericanus": {
+  "gbif": {
+   "key": 9040592,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parvitermes mesoamericanus Scheffrahn, 2016",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Parvitermes Emerson, 1949",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q106628471",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Parvitermes pallidiceps": {
+  "gbif": {
+   "key": 9724489,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parvitermes pallidiceps (Banks, 1919)",
+   "accepted": null
+  },
+  "col": {
+   "id": "76593",
+   "status": "accepted",
+   "label": "Parvitermes pallidiceps (Banks, 1919)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084827",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parvitermes toussainti": {
+  "gbif": {
+   "key": 9811281,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parvitermes toussainti (Banks, 1919)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6TSWS",
+   "status": "accepted",
+   "label": "Parvitermes toussainti (Banks, 1919)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084828",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parvitermes wolcotti": {
+  "gbif": {
+   "key": 9168836,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parvitermes wolcotti (Snyder, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6TSX4",
+   "status": "accepted",
+   "label": "Parvitermes wolcotti (Snyder, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084829",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Parvitermes yucatanus": {
+  "gbif": {
+   "key": 9006441,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Parvitermes yucatanus Scheffrahn, 2016",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Parvitermes Emerson, 1949",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q106628476",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

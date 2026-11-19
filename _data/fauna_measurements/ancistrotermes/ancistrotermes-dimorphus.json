@@ -1,0 +1,46 @@
+{
+ "book_n": "346",
+ "book_name": "小头钩白蚊 Ancistrotermes dimorphus",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "小头钩白蚊有翅成虫量度 ( mm)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "20.14–22.20"
+    },
+    {
+     "key": "body_length_without_wings",
+     "value": "11.36–12.00"
+    },
+    {
+     "key": "wing_length",
+     "value": "17.15–18.71"
+    },
+    {
+     "key": "ocellus_length",
+     "value": "0.27–0.33"
+    },
+    {
+     "key": "ocellus_width",
+     "value": "0.23–0.25"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.07–0.09"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.89–1.00"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 377,
+   "unit": "mm"
+  }
+ ]
+}

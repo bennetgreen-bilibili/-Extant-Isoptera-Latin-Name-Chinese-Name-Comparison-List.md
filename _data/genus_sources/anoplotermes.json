@@ -1,0 +1,43 @@
+{
+ "latin": "Anoplotermes",
+ "zh": "解甲白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Anoplotermes Müller, 1873: 347.",
+ "type_species": "Anoplotermes pacificus Müller, 1873 by monotypy.",
+ "references": [
+  {
+   "ref": "Silvestri, 1903: 95–96",
+   "note": "Anoplotermes [part]; characters."
+  },
+  {
+   "ref": "Escherich, 1909: 178",
+   "note": "Anoplotermes; characters."
+  },
+  {
+   "ref": "Holmgren, 1912a: 45",
+   "note": "Anoplotermes [part]; characters; key; species included; systematic position; included in Syntermes-Reihe [ = Nasutitermitinae]; Anoplotermes (Anoplotermes); key; species included."
+  },
+  {
+   "ref": "Banks, 1919: 479",
+   "note": "Anoplotermes; key."
+  },
+  {
+   "ref": "Banks, 1920: 54, 66",
+   "note": "Anoplotermes; key; characters."
+  },
+  {
+   "ref": "Snyder, 1926e: 45",
+   "note": "Anoplotermes; characters; Anoplotermes (Anoplotermes); comparison."
+  },
+  {
+   "ref": "Light, 1933: 82, 132",
+   "note": "Anoplotermes; key; remarks."
+  },
+  {
+   "ref": "Lal and Menon, 1953: 36, 51",
+   "note": "Anoplotermes [part]; catalog; reference list; key."
+  }
+ ],
+ "nrefs": 48
+}

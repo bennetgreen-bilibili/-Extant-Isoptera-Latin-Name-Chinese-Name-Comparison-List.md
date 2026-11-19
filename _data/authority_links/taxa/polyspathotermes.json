@@ -1,0 +1,194 @@
+{
+ "Polyspathotermes bugeserae": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Polyspathotermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9SXX",
+   "status": "accepted",
+   "label": "Polyspathotermes bugeserae (Vincke & Bouillon, 1971)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Polyspathotermes inclitus": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Polyspathotermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9RXC",
+   "status": "accepted",
+   "label": "Polyspathotermes inclitus (Silvestri, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Polyspathotermes intercalatus": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Polyspathotermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9V6T",
+   "status": "accepted",
+   "label": "Polyspathotermes intercalatus (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Polyspathotermes katangensis": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Polyspathotermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9XXH",
+   "status": "accepted",
+   "label": "Polyspathotermes katangensis (Sjöstedt, 1927)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-30"
+ },
+ "Polyspathotermes montanus": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Polyspathotermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9XYV",
+   "status": "accepted",
+   "label": "Polyspathotermes montanus (Williams, 1966)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Polyspathotermes oblectatus": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Polyspathotermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9QJ3",
+   "status": "accepted",
+   "label": "Polyspathotermes oblectatus (Harris, 1958)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Polyspathotermes sulcifrons": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Polyspathotermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9W52",
+   "status": "accepted",
+   "label": "Polyspathotermes sulcifrons (Wasmann, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Polyspathotermes umbratus": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Polyspathotermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9VBD",
+   "status": "accepted",
+   "label": "Polyspathotermes umbratus (Williams, 1954)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "新种与属内检索",
+   "heading_en": "A new species and the generic key",
+   "heading_es": "Una especie nueva y la clave del género",
+   "paragraphs": [
+    {
+     "src": [
+      "S0323"
+     ],
+     "text": "据摘要，克里希纳扭白蚁属（<i>Krishnacapritermes</i>）的种数因 Amina 等（2019）描述马尼坎丹克里希纳扭白蚁（<i>Krishnacapritermes manikandan</i>）而增至 4 种；该新种与同文描述的迪内尚克里希纳扭白蚁（<i>Krishnacapritermes dineshan</i>）一样采自喀拉拉邦西高止山的高海拔山岭，并被纳入 4 种的二歧检索表与分布图。",
+     "text_en": "According to the abstract, Amina et al. (2019) raise <i>Krishnacapritermes</i> to four species by describing <i>Krishnacapritermes manikandan</i>; like <i>Krishnacapritermes dineshan</i>, described in the same paper, the new species comes from the higher-elevation hill ranges of the Western Ghats in Kerala, and it is included in the dichotomous key to the four species and in the distribution map.",
+     "text_es": "Según el resumen, Amina et al. (2019) elevan <i>Krishnacapritermes</i> a cuatro especies al describir <i>Krishnacapritermes manikandan</i>; al igual que <i>Krishnacapritermes dineshan</i>, descrita en el mismo trabajo, la especie nueva procede de las sierras de mayor altitud de los Ghats Occidentales en Kerala, y se incluye en la clave dicotómica de las cuatro especies y en el mapa de distribución."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0323",
+   "citation": "Amina, P.; Rajmohana, K.; Dinesh-Kumar, S. P.; Asha, G.; Sinu, P. A.; Mathew, J. 2019. Two new species of an Indian endemic genus Krishnacapritermes Chhotani (Isoptera: Termitidae) from the Kerala part of the Western Ghats, India. Oriental Insects.",
+   "url": "https://doi.org/10.1080/00305316.2019.1683091"
+  }
+ ]
+}

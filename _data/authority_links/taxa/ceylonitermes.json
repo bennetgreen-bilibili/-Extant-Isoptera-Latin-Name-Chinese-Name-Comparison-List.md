@@ -1,0 +1,96 @@
+{
+ "Ceylonitermes escherichi": {
+  "gbif": {
+   "key": 9678644,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ceylonitermes escherichi (Holmgren, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "T943",
+   "status": "accepted",
+   "label": "Ceylonitermes escherichi (Holmgren, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591989",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ceylonitermes indicola": {
+  "gbif": {
+   "key": 9742091,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ceylonitermes indicola Thakur, 1976",
+   "accepted": null
+  },
+  "col": {
+   "id": "T944",
+   "status": "accepted",
+   "label": "Ceylonitermes indicola Thakur, 1976",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235334",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ceylonitermes nivedita": {
+  "gbif": {
+   "key": 11172586,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ceylonitermes nivedita Basak, Sengupta, Rajmohana & Baraik, 2020",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Ceylonitermes Holmgren, 1912",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q129929604",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ceylonitermes paulosus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Ceylonitermes Holmgren, 1912",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "KV468",
+   "status": "accepted",
+   "label": "Ceylonitermes paulosus Ipe & Mathew, 2019",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q129929605",
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

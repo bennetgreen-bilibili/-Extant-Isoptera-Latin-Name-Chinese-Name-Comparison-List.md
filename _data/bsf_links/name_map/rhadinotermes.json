@@ -1,0 +1,13 @@
+{
+ "Rhadinotermes coarctatus": {
+  "label": "Rhadinotermes coarctatus (Sjöstedt, 1902)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84861,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84861/overview",
+  "valid_label": null,
+  "valid_otu": 84861,
+  "verified": false
+ }
+}

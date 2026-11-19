@@ -1,0 +1,1646 @@
+{
+ "Cryptotermes abruptus": {
+  "gbif": {
+   "key": 2007323,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes abruptus Scheffrahn & Křeček, 1998",
+   "accepted": null
+  },
+  "col": {
+   "id": "322Z3",
+   "status": "accepted",
+   "label": "Cryptotermes abruptus Scheffrahn & Křeček, 1998",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582606",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes aequacornis": {
+  "gbif": {
+   "key": 9657145,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes aequacornis Scheffrahn & Křeček, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "322Z4",
+   "status": "accepted",
+   "label": "Cryptotermes aequacornis Scheffrahn & Křeček, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237553",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes albipes": {
+  "gbif": {
+   "key": 9446476,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes albipes (Holmgren & Holmgren, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "322Z5",
+   "status": "accepted",
+   "label": "Cryptotermes albipes (Holmgren & Holmgren, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237554",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes angustinotus": {
+  "gbif": {
+   "key": 9730787,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes angustinotus Gao & Peng, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "322Z6",
+   "status": "accepted",
+   "label": "Cryptotermes angustinotus Gao & Peng, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237555",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes austrinus": {
+  "gbif": {
+   "key": 4802903,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes austrinus Gay & Watson, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "322Z7",
+   "status": "accepted",
+   "label": "Cryptotermes austrinus Gay & Watson, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272373",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes bengalensis": {
+  "gbif": {
+   "key": 9661502,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes bengalensis (Snyder, 1934)",
+   "accepted": null
+  },
+  "col": {
+   "id": "322Z8",
+   "status": "accepted",
+   "label": "Cryptotermes bengalensis (Snyder, 1934)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591805",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes bracketti": {
+  "gbif": {
+   "key": 9690398,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes bracketti Scheffrahn & Křeček, 2006",
+   "accepted": null
+  },
+  "col": {
+   "id": "322Z9",
+   "status": "accepted",
+   "label": "Cryptotermes bracketti Scheffrahn & Křeček, 2006",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237556",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes brevis": {
+  "gbif": {
+   "key": 2007322,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes brevis (Walker, 1853)",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZB",
+   "status": "accepted",
+   "label": "Cryptotermes brevis (Walker, 1853)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582607",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes camelus": {
+  "gbif": {
+   "key": 10722786,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes camelus Scheffrahn, 2021",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Cryptotermes Banks, 1906",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes canalensis": {
+  "gbif": {
+   "key": 9634242,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes canalensis (Holmgren & Holmgren, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZC",
+   "status": "accepted",
+   "label": "Cryptotermes canalensis (Holmgren & Holmgren, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237558",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes cavifrons": {
+  "gbif": {
+   "key": 2007319,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes cavifrons Banks, 1906",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZD",
+   "status": "accepted",
+   "label": "Cryptotermes cavifrons Banks, 1906",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582603",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes ceylonicus": {
+  "gbif": {
+   "key": 9659193,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes ceylonicus Ranaweera, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "6BNLB",
+   "status": "accepted",
+   "label": "Cryptotermes ceylonicus Ranaweera, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591808",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes chacoensis": {
+  "gbif": {
+   "key": 9789448,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes chacoensis Roisin, 2003",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZF",
+   "status": "accepted",
+   "label": "Cryptotermes chacoensis Roisin, 2003",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237559",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes chasei": {
+  "gbif": {
+   "key": 9802561,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes chasei Scheffrahn, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZG",
+   "status": "accepted",
+   "label": "Cryptotermes chasei Scheffrahn, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237561",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes colombianus": {
+  "gbif": {
+   "key": 9035042,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes colombianus Casalla, Scheffrahn & Korb, 2016",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Cryptotermes Banks, 1906",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes contognathus": {
+  "gbif": {
+   "key": 9725485,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes contognathus Constantino, 2000",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZH",
+   "status": "accepted",
+   "label": "Cryptotermes contognathus Constantino, 2000",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237562",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes crassicornis": {
+  "gbif": {
+   "key": 9733619,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes crassicornis (Holmgren, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZJ",
+   "status": "accepted",
+   "label": "Cryptotermes crassicornis (Holmgren, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237563",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes cristatus": {
+  "gbif": {
+   "key": 4802885,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes cristatus Gay & Watson, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZK",
+   "status": "accepted",
+   "label": "Cryptotermes cristatus Gay & Watson, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272374",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes cryptognathus": {
+  "gbif": {
+   "key": 9656523,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes cryptognathus Scheffrahn & Křeček, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZL",
+   "status": "accepted",
+   "label": "Cryptotermes cryptognathus Scheffrahn & Křeček, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237564",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes cubicoceps": {
+  "gbif": {
+   "key": 9738207,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes cubicoceps (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZM",
+   "status": "accepted",
+   "label": "Cryptotermes cubicoceps (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237565",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes cylindroceps": {
+  "gbif": {
+   "key": 9765358,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes cylindroceps Scheffrahn & Křeček, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZN",
+   "status": "accepted",
+   "label": "Cryptotermes cylindroceps Scheffrahn & Křeček, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237566",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes cymatofrons": {
+  "gbif": {
+   "key": 9737557,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes cymatofrons Scheffrahn & Křeček, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZP",
+   "status": "accepted",
+   "label": "Cryptotermes cymatofrons Scheffrahn & Křeček, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237567",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes cynocephalus": {
+  "gbif": {
+   "key": 2007324,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes cynocephalus Light, 1921",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZQ",
+   "status": "accepted",
+   "label": "Cryptotermes cynocephalus Light, 1921",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582602",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes darlingtonae": {
+  "gbif": {
+   "key": 7991941,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes darlingtonae Scheffrahn & Křeček, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZR",
+   "status": "accepted",
+   "label": "Cryptotermes darlingtonae Scheffrahn & Křeček, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237568",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes darwini": {
+  "gbif": {
+   "key": 9757255,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes darwini (Light, 1935)",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZS",
+   "status": "accepted",
+   "label": "Cryptotermes darwini (Light, 1935)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49556280",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes daulti": {
+  "gbif": {
+   "key": 9694922,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes daulti Rathore, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZT",
+   "status": "accepted",
+   "label": "Cryptotermes daulti Rathore, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237569",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes declivis": {
+  "gbif": {
+   "key": 9649331,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes declivis Tsai & Chen, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "6BNLC",
+   "status": "accepted",
+   "label": "Cryptotermes declivis Tsai & Chen, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237570",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes dolei": {
+  "gbif": {
+   "key": 9373635,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes dolei (Light, 1932)",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZV",
+   "status": "accepted",
+   "label": "Cryptotermes dolei (Light, 1932)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237571",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes domesticus": {
+  "gbif": {
+   "key": 4802899,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes domesticus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZW",
+   "status": "accepted",
+   "label": "Cryptotermes domesticus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30326283",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes dudleyi": {
+  "gbif": {
+   "key": 4802895,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes dudleyi Banks, 1918",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZX",
+   "status": "accepted",
+   "label": "Cryptotermes dudleyi Banks, 1918",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591814",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes fatulus": {
+  "gbif": {
+   "key": 2007320,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes fatulus (Light, 1935)",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZY",
+   "status": "accepted",
+   "label": "Cryptotermes fatulus (Light, 1935)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582605",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes garifunae": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Cryptotermes Banks, 1906",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Cryptotermes Banks, 1906",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes gearyi": {
+  "gbif": {
+   "key": 4802891,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes gearyi (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "322ZZ",
+   "status": "accepted",
+   "label": "Cryptotermes gearyi (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272375",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes hainanensis": {
+  "gbif": {
+   "key": 9809541,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes hainanensis Ping, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "32323",
+   "status": "accepted",
+   "label": "Cryptotermes hainanensis Ping, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237572",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes havilandi": {
+  "gbif": {
+   "key": 2007325,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes havilandi (Sjöstedt, 1900)",
+   "accepted": null
+  },
+  "col": {
+   "id": "32324",
+   "status": "accepted",
+   "label": "Cryptotermes havilandi (Sjöstedt, 1900)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582608",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes hemicyclius": {
+  "gbif": {
+   "key": 9777716,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes hemicyclius Bacchus, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "32325",
+   "status": "accepted",
+   "label": "Cryptotermes hemicyclius Bacchus, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237573",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes hilli": {
+  "gbif": {
+   "key": 4802901,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes hilli Gay & Watson, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "32326",
+   "status": "accepted",
+   "label": "Cryptotermes hilli Gay & Watson, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272376",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes juliani": {
+  "gbif": {
+   "key": 9750368,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes juliani Scheffrahn & Křeček, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "32327",
+   "status": "accepted",
+   "label": "Cryptotermes juliani Scheffrahn & Křeček, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237574",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes karachiensis": {
+  "gbif": {
+   "key": 9680278,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes karachiensis Akhtar, 1974",
+   "accepted": null
+  },
+  "col": {
+   "id": "32328",
+   "status": "accepted",
+   "label": "Cryptotermes karachiensis Akhtar, 1974",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237575",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes kirbyi": {
+  "gbif": {
+   "key": 11376245,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 99,
+   "rank": "SPECIES",
+   "name": "Cryptotermes kirbyi Emerson & Krishna, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "32329",
+   "status": "accepted",
+   "label": "Cryptotermes kirbyi Moszkowski, 1955",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237576",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes kororensis": {
+  "gbif": {
+   "key": 9817298,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes kororensis Bacchus, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "6BNLD",
+   "status": "accepted",
+   "label": "Cryptotermes kororensis Bacchus, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237577",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes longicollis": {
+  "gbif": {
+   "key": 2007321,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes longicollis Banks, 1918",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232B",
+   "status": "accepted",
+   "label": "Cryptotermes longicollis Banks, 1918",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582604",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes luodianis": {
+  "gbif": {
+   "key": 9701662,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes luodianis Xia, Gao & Deng, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232C",
+   "status": "accepted",
+   "label": "Cryptotermes luodianis Xia, Gao & Deng, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q138497734",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes mangoldi": {
+  "gbif": {
+   "key": 9752590,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes mangoldi Scheffrahn & Křeček, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232D",
+   "status": "accepted",
+   "label": "Cryptotermes mangoldi Scheffrahn & Křeček, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237578",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes merwei": {
+  "gbif": {
+   "key": 9797830,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes merwei Fuller, 1921",
+   "accepted": null
+  },
+  "col": {
+   "id": "6BNLF",
+   "status": "accepted",
+   "label": "Cryptotermes merwei Fuller, 1921",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237579",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes mobydicki": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Cryptotermes Banks, 1906",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Cryptotermes Banks, 1906",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q136720949",
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes naudei": {
+  "gbif": {
+   "key": 9777015,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes naudei Coaton, 1950",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232F",
+   "status": "accepted",
+   "label": "Cryptotermes naudei Coaton, 1950",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237581",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes nitens": {
+  "gbif": {
+   "key": 9649976,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes nitens Scheffrahn & Křeček, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232G",
+   "status": "accepted",
+   "label": "Cryptotermes nitens Scheffrahn & Křeček, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237582",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes nitidus": {
+  "gbif": {
+   "key": 4802896,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes nitidus Gay & Watson, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232H",
+   "status": "accepted",
+   "label": "Cryptotermes nitidus Gay & Watson, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272377",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes pallidus": {
+  "gbif": {
+   "key": 9785379,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes pallidus (Rambur, 1842)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232J",
+   "status": "accepted",
+   "label": "Cryptotermes pallidus (Rambur, 1842)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237583",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes papulosus": {
+  "gbif": {
+   "key": 4802894,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes papulosus Gay & Watson, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232K",
+   "status": "accepted",
+   "label": "Cryptotermes papulosus Gay & Watson, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272379",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes parvifrons": {
+  "gbif": {
+   "key": 9730126,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes parvifrons Scheffrahn & Křeček, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232L",
+   "status": "accepted",
+   "label": "Cryptotermes parvifrons Scheffrahn & Křeček, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237584",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes penaoru": {
+  "gbif": {
+   "key": 8796998,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes penaoru Roisin, 2011",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232M",
+   "status": "accepted",
+   "label": "Cryptotermes penaoru Roisin, 2011",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237585",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes perforans": {
+  "gbif": {
+   "key": 9732925,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes perforans Kemner, 1932",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232N",
+   "status": "accepted",
+   "label": "Cryptotermes perforans Kemner, 1932",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591816",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes pingyangensis": {
+  "gbif": {
+   "key": 9687613,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes pingyangensis He & Xia, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232P",
+   "status": "accepted",
+   "label": "Cryptotermes pingyangensis He & Xia, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237586",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes primus": {
+  "gbif": {
+   "key": 4802888,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 99,
+   "rank": "SPECIES",
+   "name": "Cryptotermes primus (Hill, 1921)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232Q",
+   "status": "accepted",
+   "label": "Cryptotermes primus (Hill, 1921)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21159452",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes pugnus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Cryptotermes Banks, 1906",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "BV3KC",
+   "status": "accepted",
+   "label": "Cryptotermes pugnus Scheffrahn & Vasconcellos, 2023",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q123058436",
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes pyrodomus": {
+  "gbif": {
+   "key": 9668074,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes pyrodomus Bacchus, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232R",
+   "status": "accepted",
+   "label": "Cryptotermes pyrodomus Bacchus, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237587",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes queenslandis": {
+  "gbif": {
+   "key": 4802897,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes queenslandis (Hill, 1933)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232S",
+   "status": "accepted",
+   "label": "Cryptotermes queenslandis (Hill, 1933)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272380",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes rhicnocephalus": {
+  "gbif": {
+   "key": 9718029,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes rhicnocephalus Bacchus, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232T",
+   "status": "accepted",
+   "label": "Cryptotermes rhicnocephalus Bacchus, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237588",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes riverinae": {
+  "gbif": {
+   "key": 4802890,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes riverinae Gay & Watson, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "6BNLG",
+   "status": "accepted",
+   "label": "Cryptotermes riverinae Gay & Watson, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272381",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes roonwali": {
+  "gbif": {
+   "key": 9770062,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes roonwali Chhotani, 1970",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232V",
+   "status": "accepted",
+   "label": "Cryptotermes roonwali Chhotani, 1970",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237589",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes rotundiceps": {
+  "gbif": {
+   "key": 9699475,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes rotundiceps Scheffrahn & Křeček, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232W",
+   "status": "accepted",
+   "label": "Cryptotermes rotundiceps Scheffrahn & Křeček, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237591",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes secundus": {
+  "gbif": {
+   "key": 4802883,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes secundus (Hill, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232Y",
+   "status": "accepted",
+   "label": "Cryptotermes secundus (Hill, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q111199316",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes silvestrii": {
+  "gbif": {
+   "key": 9671445,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes silvestrii Bacchus, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "3232Z",
+   "status": "accepted",
+   "label": "Cryptotermes silvestrii Bacchus, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237592",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes simulatus": {
+  "gbif": {
+   "key": 4802893,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes simulatus Gay & Watson, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "32332",
+   "status": "accepted",
+   "label": "Cryptotermes simulatus Gay & Watson, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272382",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes spathifrons": {
+  "gbif": {
+   "key": 9706180,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes spathifrons Scheffrahn & Křeček, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "32333",
+   "status": "accepted",
+   "label": "Cryptotermes spathifrons Scheffrahn & Křeček, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237593",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes sukauensis": {
+  "gbif": {
+   "key": 9668702,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes sukauensis Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "32334",
+   "status": "accepted",
+   "label": "Cryptotermes sukauensis Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237595",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes sumatrensis": {
+  "gbif": {
+   "key": 9679614,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes sumatrensis Kemner, 1930",
+   "accepted": null
+  },
+  "col": {
+   "id": "32335",
+   "status": "accepted",
+   "label": "Cryptotermes sumatrensis Kemner, 1930",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237596",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes thailandis": {
+  "gbif": {
+   "key": 9683105,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes thailandis Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "32336",
+   "status": "accepted",
+   "label": "Cryptotermes thailandis Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237598",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes tropicalis": {
+  "gbif": {
+   "key": 4802887,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes tropicalis Gay & Watson, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "32337",
+   "status": "accepted",
+   "label": "Cryptotermes tropicalis Gay & Watson, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272383",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes undulans": {
+  "gbif": {
+   "key": 9720854,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes undulans Scheffrahn & Křeček, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "32338",
+   "status": "accepted",
+   "label": "Cryptotermes undulans Scheffrahn & Křeček, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237599",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes venezolanus": {
+  "gbif": {
+   "key": 9797154,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes venezolanus (Holmgren, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "32339",
+   "status": "accepted",
+   "label": "Cryptotermes venezolanus (Holmgren, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237600",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cryptotermes verruculosus": {
+  "gbif": {
+   "key": 9742862,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cryptotermes verruculosus (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6BNLH",
+   "status": "accepted",
+   "label": "Cryptotermes verruculosus (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237601",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

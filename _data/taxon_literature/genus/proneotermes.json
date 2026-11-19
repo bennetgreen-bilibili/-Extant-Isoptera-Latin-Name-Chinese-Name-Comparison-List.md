@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "属的采样频率与系统位置",
+   "heading_en": "Sampling frequency and phylogenetic position of the genus",
+   "heading_es": "Frecuencia de muestreo y posición filogenética del género",
+   "paragraphs": [
+    {
+     "text": "根据 Casalla、Scheffrahn 与 Korb（2016）研究，哥伦比亚加勒比海沿岸热带干林的调查中，前新白蚁属（<i>Proneotermes</i>）仅占 1102 份白蚁标本的 0.82%，野外遭遇稀少；线状样带长 1500 米、宽 2 米，标本均采自距海岸约 25 公里以内的干林。基于 COII、12S 与 16S 的联合数据，前新白蚁属（<i>Proneotermes</i>）三个单倍型之间差异约 2.5%（1488 bp 中 38 bp），单倍型间地理距离约 200 公里；该属以 87% 的贝叶斯后验概率呈单系，双裂白蚁属（<i>Bifiditermes</i>）为最近属，COII p 距离 0.153（标准误 0.015）。Krishna（1961）曾把前新白蚁属（<i>Proneotermes</i>）置于牛白蚁属（<i>Tauritermes</i>）、奇白蚁属（<i>Allotermes</i>）、边白蚁属（<i>Marginitermes</i>）与楹白蚁属（<i>Incisitermes</i>）所在分支的姊妹位置，该文的 COII 树不支持这一处理。",
+     "src": [
+      "S0348"
+     ],
+     "text_en": "In the study by Casalla, Scheffrahn and Korb (2016), surveys of tropical dry forest along the Colombian Caribbean coast found that the genus <i>Proneotermes</i> made up only 0.82% of 1102 termite samples, so encounters in the field are scarce; the line transects were 1500 m long and 2 m wide, and all material came from dry forest within about 25 km of the coast. In the combined COII, 12S and 16S data the three <i>Proneotermes</i> haplotypes differed by about 2.5% (38 bp out of 1488 bp) and lay about 200 km apart; the genus was monophyletic with 87% Bayesian posterior probability, and <i>Bifiditermes</i> was its closest genus with a COII p-distance of 0.153 (SE 0.015). Krishna (1961) had placed <i>Proneotermes</i> as sister to the clade containing <i>Tauritermes</i>, <i>Allotermes</i>, <i>Marginitermes</i> and <i>Incisitermes</i>; the COII tree of this study does not support that treatment.",
+     "text_es": "En el estudio de Casalla, Scheffrahn y Korb (2016), los muestreos en bosque seco tropical de la costa caribeña colombiana mostraron que el género <i>Proneotermes</i> representó sólo el 0.82% de 1102 muestras de termitas, por lo que los encuentros en el campo son escasos; los transectos lineales midieron 1500 m de largo y 2 m de ancho, y todo el material procedió de bosque seco a menos de unos 25 km de la costa. En los datos combinados de COII, 12S y 16S los tres haplotipos de <i>Proneotermes</i> difirieron en cerca del 2.5% (38 pb de 1488 pb) y estaban separados por unos 200 km; el género resultó monofilético con 87% de probabilidad posterior bayesiana, y <i>Bifiditermes</i> fue su género más cercano, con una distancia p de COII de 0.153 (EE 0.015). Krishna (1961) había situado a <i>Proneotermes</i> como hermano del clado que contiene a <i>Tauritermes</i>, <i>Allotermes</i>, <i>Marginitermes</i> e <i>Incisitermes</i>; el árbol de COII de este estudio no respalda ese tratamiento."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0348",
+   "citation": "Casalla, R.; Scheffrahn, R. H.; Korb, J. 2016. Proneotermes macondianus, a new drywood termite from Colombia and expanded distribution of Proneotermes in the Neotropics (Isoptera, Kalotermitidae). ZooKeys 623.",
+   "doi": "10.3897/zookeys.623.9677"
+  }
+ ]
+}

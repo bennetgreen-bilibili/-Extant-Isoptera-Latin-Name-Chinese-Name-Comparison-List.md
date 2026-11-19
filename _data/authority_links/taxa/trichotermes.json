@@ -1,0 +1,68 @@
+{
+ "Trichotermes ducis": {
+  "gbif": {
+   "key": 9729884,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trichotermes ducis (Sjöstedt, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "58L62",
+   "status": "accepted",
+   "label": "Trichotermes ducis (Sjöstedt, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073727",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trichotermes machadoi": {
+  "gbif": {
+   "key": 9814122,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trichotermes machadoi Weidner, 1974",
+   "accepted": null
+  },
+  "col": {
+   "id": "58L63",
+   "status": "accepted",
+   "label": "Trichotermes machadoi Weidner, 1974",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073726",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trichotermes villifrons": {
+  "gbif": {
+   "key": 8846726,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trichotermes villifrons (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "58L64",
+   "status": "accepted",
+   "label": "Trichotermes villifrons (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073725",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

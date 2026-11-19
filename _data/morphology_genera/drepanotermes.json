@@ -1,0 +1,25 @@
+{
+ "zh_name": "镰白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "体型相对较大；有翅成虫未知。兵蚁头长方形、平凸，后唇基二叶状，上唇卵形而略尖，上颚很长、强烈镰状弯曲且细，几在中部具 1 枚垂直于内缘的长而斜截的齿；触角 17 节；前胫 3 端距。工蚁头大、宽卵形，囟与矢状缝很显著，后唇基很大而隆起，触角 18 节。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "体型相对较大；体色多少较深。头长方形，平凸；囟不明显；眼后有浅色眼斑。后唇基二叶状。上唇卵形，略尖。上颚很长，强烈呈镰状弯曲，细窄，几在中部具 1 枚长、垂直于内缘、斜截的齿。触角 17 节，节伸长；第 2 节长等于第 3、4 节之和。前胸背板略窄于头，同色；其余背板略浅。足长；前胫具 3 端距。"
+  },
+  {
+   "label": "工蚁",
+   "text": "与兵蚁同大或稍大，体色相同，足长。头大、宽卵形；囟非常明显；矢状缝非常明显，横缝不明显；单眼有痕迹。触角后具浅色眼斑。后唇基很大、隆起，边缘浅色；上唇宽大于长，色浅。触角 18 节，第 2 节长等于第 3、4 节之和，第 3 节明显长于第 4 节，第 5 节略长于第 3 节。前胸背板远较头窄。前胫具 3 端距。"
+  }
+ ],
+ "note": "原文以 HAMITERMES 的亚属提出（Untergattung Drepanotermes），属征按兵蚁与工蚁给出，有翅成虫未知。德文属征据 OCR 文本改写，非逐字翻译。",
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+   "locator": "pp. 89–90（Untergattung Drepanotermes；Imago unbekannt、Soldat、Arbeiter）"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "note": "Description after the original text of Holmgren 1912 (page images of the archive.org item biostor-184513, p. 103). The alate section is marked 'unbekannt' in the original, so no 'Alate' section is given; a 'Nymph' section is provided on the basis of the nymph material alone. The worker section in the original consists of a single comparative sentence and is not expanded; this is stated in the text rather than reproducing the provisions for Crenetermes. The Chinese generic name is undetermined (marked '—' in the batch), so the Latin name is used provisionally.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "A new genus established by Holmgren 1912, with the single species Apilitermes longiceps (Sjöst.) from Cameroon; a synonym in part of Eutermes (Sjöstedt) and in part of Termes (Desneux). The alate is unknown and is inferred only from the nymph. The soldier head is long rectangular, the frontal gland opening lying behind the inclined frontal surface on the horizontal part of the head, without surrounding hairs, with a fine groove running forward from the frontal gland opening; the labrum is quadrangular and grooved, with a non-concave anterior margin; the mandibles are long and straight, the apex and the middle continuous as one piece, with a small tooth-like, step-like swelling at the base; antennae of 15 segments. For the worker the original text records only 'the same as Crenetermes'."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head long rectangular, fairly convex, anterior margin obliquely truncate. Frontal gland opening behind the posterior edge of the inclined frontal surface, on the horizontal part of the head, small, without surrounding hairs; a fine groove extends forward from it. Clypeus flat, the base small, the clypeal apical piece large. Labrum quadrangular, widening anteriorly, grooved, the anterior margin not concave. Mandibles long, robust and straight, slightly curved towards the apex; dentition as in Crenetermes, but the base of the right mandible smaller; apex and middle joined as one unit, with a separate small tooth-like, step-like swelling at its base, sharply delimited from the base; the apex and middle of the left mandible in particular are finely serrate. Antennae of 15 segments, segment 3 short. Pronotum small, strongly saddle-shaped. Without styli."
+  },
+  {
+   "label": "Worker",
+   "text": "The original text gives only one comparative sentence: the same as the worker of Crenetermes (»Wie bei Crenetermes.«), without listing further characters, so the provisions for Crenetermes are not reproduced here."
+  },
+  {
+   "label": "Nymph",
+   "text": "Male nymph with degenerate styli (the original places this under the alate heading; because the adult is unknown, it is judged from the nymph)."
+  }
+ ]
+}

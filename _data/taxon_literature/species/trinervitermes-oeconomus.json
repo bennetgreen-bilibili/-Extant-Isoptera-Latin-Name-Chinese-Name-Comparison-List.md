@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "研究记述",
+   "heading_en": "Research notes",
+   "heading_es": "Notas de investigación",
+   "paragraphs": [
+    {
+     "text": "据摘要，Sands（1961）比较西非三脉白蚁属（<i>Trinervitermes</i>）5 个种的觅食与食性时，把根三脉白蚁（<i>Trinervitermes oeconomus</i>）与同属另 1 个种归为不在巢内堆放草片段的一类，其余 3 个种则在巢内堆放草片段。",
+     "text_en": "According to the abstract, when Sands (1961) compared five West African species of <i>Trinervitermes</i> for foraging and diet, he grouped <i>Trinervitermes oeconomus</i> with one other species of the genus as species that do not store grass fragments in the nest, whereas the other three species do.",
+     "text_es": "Según el resumen, al comparar cinco especies de <i>Trinervitermes</i> de África occidental en cuanto al forrajeo y la dieta, Sands (1961) agrupó a <i>Trinervitermes oeconomus</i> con otra especie del género como especies que no almacenan fragmentos de hierba en el nido, mientras que las otras tres sí lo hacen.",
+     "src": [
+      "S0186"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0186",
+   "citation": "William A. Sands 1961 FORAGING BEHAVIOUR AND FEEDING HABITS IN FIVE SPECIES OF TRINERVITERMES IN WEST AFRICA. Entomologia Experimentalis et Applicata.",
+   "doi": "10.1111/j.1570-7458.1961.tb02143.x"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "latin": "Homallotermes",
+ "zh": "平白蚁属",
+ "fetched_at": "2026-10-30T16:53:45Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2151408820",
+   "openalex_url": "https://openalex.org/W2151408820",
+   "doi": "",
+   "doi_url": "",
+   "title": "A revision of the Indomalayan termite genus Homallotermes (Isoptera, Termitidae, Termitinae). American Museum novitates ; no. 2489",
+   "year": 1972,
+   "date": "1972-01-01",
+   "authors": [
+    "K. Mahesh Krishna"
+   ],
+   "venue": "American Museum Novitates",
+   "type": "article",
+   "language": "en",
+   "cited_by": 1,
+   "oa_url": "http://hdl.handle.net/2246/2697",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "23 p.: ill., map; 24 cm.",
+   "abstract_source": "openalex",
+   "abstract_chars": 24,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2479997575",
+   "openalex_url": "https://openalex.org/W2479997575",
+   "doi": "10.5958/0974-8172.2016.00037.7",
+   "doi_url": "https://doi.org/10.5958/0974-8172.2016.00037.7",
+   "title": "Termite (Isoptera) genera in crop environments",
+   "year": 2016,
+   "date": "2016-01-01",
+   "authors": [
+    "Jyothy Narayanan",
+    "J. B. Thomas"
+   ],
+   "venue": "Indian Journal of Entomology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 2,
+   "oa_url": "https://www.indianjournals.com/ijor.aspx?target=ijor:ije&volume=78&issue=2&article=002&type=pdf",
+   "volume": "78",
+   "issue": "2",
+   "pages": "106-106",
+   "abstract": "A preliminary survey was conducted by transect method throughout the instructional farm area of the College of Horticulture, Vellanikkara and the soldier castes of termites were sampled from a unit area of 200 sq. m each from various crop environments. The collected samples were preserved and identified based on taxonomic keys with reference to their characteristics of head capsule, mandibles and pronotum. A total of nine genera under two families were identified; out of which seven genera viz., Odontotermes, Procapritermes, Dicuspiditermes, Homallotermes, Microtermes, Microcerotermes and Nasutitermes were under the family Termitidae and Heterotermes and Coptotermes were of the family Rhinotermitidae. Odontotermes was found to be the most dominant in all the crop environments accounting for about 62.03%. The least occuring was Coptotermes which constituted only 1.27%.",
+   "abstract_source": "openalex",
+   "abstract_chars": 880,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2028946392",
+   "openalex_url": "https://openalex.org/W2028946392",
+   "doi": "10.1007/bf00344714",
+   "doi_url": "https://doi.org/10.1007/bf00344714",
+   "title": "The role of termites in an equatorial rain forest ecosystem of West Malaysia",
+   "year": 1976,
+   "date": "1976-01-01",
+   "authors": [
+    "Tadao Matsumoto"
+   ],
+   "venue": "Oecologia",
+   "type": "article",
+   "language": "en",
+   "cited_by": 138,
+   "oa_url": "",
+   "volume": "22",
+   "issue": "2",
+   "pages": "153-178",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  }
+ ]
+}

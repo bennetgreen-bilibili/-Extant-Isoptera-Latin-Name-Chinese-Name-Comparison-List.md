@@ -7,7 +7,7 @@ BSF 前台是 TaxonPages（Vite SPA），没有稳定公开 API；但它背后�
 本脚本因此做"半自动"对照：自动匹配 + 人工复核工作表 + 导出站点渲染用的小 JSON。
 
 产物（全部可确定性重跑）：
-  _data/bsf_links.json            站点渲染用数据（同时充当断点续跑缓存）
+  _data/bsf_links/                站点渲染用数据（一阶元一档分片，同时充当断点续跑缓存）
   _tools/bsf对照/工作表.csv        人工复核工作表（UTF-8 BOM，Excel 直接打开）
   _tools/bsf对照/导入模板.csv      导入格式示例（仅首次创建，不覆盖）
 
@@ -19,7 +19,7 @@ BSF 前台是 TaxonPages（Vite SPA），没有稳定公开 API；但它背后�
   python .github/workflows/build_bsf_links.py --write --refresh    # 忽略缓存全部重查（已人工核对的条目保留）
   python .github/workflows/build_bsf_links.py --no-api --write     # 只用缓存重排工作表/JSON，不联网
   python .github/workflows/build_bsf_links.py --import _tools/bsf对照/工作表.csv   # 回收人工复核结果
-  python .github/workflows/build_bsf_links.py --check              # 校验仓库内产物一致（不联网，CI 用）
+  python .github/workflows/build_bsf_links.py --check              # 校验仓库内分片一致（不联网，CI 用）
 
 匹配规则（严格，绝不模糊接受）：
   valid     某候选 id == otu_valid_id，且其拉丁名前 N 个词（N = 本站名的词数）与本站名逐词相等
@@ -59,8 +59,10 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT / "_tools"))
+import shard_io  # noqa: E402
 SPECIES_DIR = ROOT / "_species"
-DATA_PATH = ROOT / "_data" / "bsf_links.json"
+DATA_NAME = "bsf_links"
 TOOLS_DIR = ROOT / "_tools" / "bsf对照"
 WORKSHEET_PATH = TOOLS_DIR / "工作表.csv"
 TEMPLATE_PATH = TOOLS_DIR / "导入模板.csv"
@@ -642,13 +644,13 @@ def sanitize_entry(raw: dict, latin: str) -> dict | None:
     return out
 
 
-def load_existing(path: Path) -> dict:
-    if not path.exists():
+def load_existing() -> dict:
+    if not shard_io.exists(DATA_NAME):
         return {}
     try:
-        doc = json.loads(path.read_text(encoding="utf-8"))
+        doc = shard_io.load(DATA_NAME)
     except (json.JSONDecodeError, OSError) as exc:
-        log("！无法解析已有 %s（%s），按空缓存继续" % (path.name, exc))
+        log("！无法解析已有 _data/%s/（%s），按空缓存继续" % (DATA_NAME, exc))
         return {}
     name_map = doc.get("name_map")
     if not isinstance(name_map, dict):
@@ -661,10 +663,9 @@ def load_existing(path: Path) -> dict:
     return out
 
 
-def write_json(path: Path, doc: dict) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    text = json.dumps(doc, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
-    path.write_text(text, encoding="utf-8")
+def write_data(doc: dict) -> tuple[int, int]:
+    """Write the cache back as _data/bsf_links/ shards; returns (written, removed)."""
+    return shard_io.save(DATA_NAME, doc)
 
 
 # --------------------------------------------------------------------------- #
@@ -950,13 +951,13 @@ def import_csv(path: Path, entries: dict, species: list[dict]) -> dict:
 def check_repo() -> int:
     species = load_species()
     problems: list[str] = []
-    if not DATA_PATH.exists():
-        log("✗ %s 不存在" % rel(DATA_PATH))
+    if not shard_io.exists(DATA_NAME):
+        log("✗ _data/%s/ 不存在" % DATA_NAME)
         return 1
     try:
-        doc = json.loads(DATA_PATH.read_text(encoding="utf-8"))
+        doc = shard_io.load(DATA_NAME)
     except json.JSONDecodeError as exc:
-        log("✗ %s 不是合法 JSON：%s" % (rel(DATA_PATH), exc))
+        log("✗ _data/%s/ 不是合法 JSON：%s" % (DATA_NAME, exc))
         return 1
     if not isinstance(doc, dict) or "meta" not in doc or "name_map" not in doc:
         log("✗ JSON 顶层必须含 meta 与 name_map")
@@ -1052,7 +1053,7 @@ def main(argv: list[str] | None = None) -> int:
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__,
     )
-    parser.add_argument("--write", action="store_true", help="写入 _data/bsf_links.json 与工作表")
+    parser.add_argument("--write", action="store_true", help="写入 _data/bsf_links/ 分片与工作表")
     parser.add_argument("--check", action="store_true", help="只校验仓库内产物是否一致（不联网）")
     parser.add_argument("--refresh", action="store_true", help="忽略缓存重新查询（已人工核对的条目保留）")
     parser.add_argument("--limit", type=int, default=0, help="本次最多新增查询 N 个名称（0 = 不限）")
@@ -1074,10 +1075,10 @@ def main(argv: list[str] | None = None) -> int:
         log("✗ 未找到任何物種页，检查工作目录")
         return 1
 
-    entries = {} if args.refresh else load_existing(DATA_PATH)
+    entries = {} if args.refresh else load_existing()
     if args.refresh:
         log("--refresh：忽略缓存（已人工核对 verified=true 的条目仍保留旧值，除非重新导入）")
-        keep = {k: v for k, v in load_existing(DATA_PATH).items() if v.get("verified")}
+        keep = {k: v for k, v in load_existing().items() if v.get("verified")}
         entries = keep
         if keep:
             log("  保留 %d 条已核对条目不再重查" % len(keep))
@@ -1211,13 +1212,13 @@ def main(argv: list[str] | None = None) -> int:
 
     if args.write or args.import_path:
         previous = read_worksheet(WORKSHEET_PATH)
-        write_json(DATA_PATH, doc)
+        write_data(doc)
         rows = worksheet_rows(species, entries, previous, reviewers)
         write_worksheet(WORKSHEET_PATH, rows)
         write_template(TEMPLATE_PATH)
         log("")
         log("已写入：")
-        log("  %s" % rel(DATA_PATH))
+        log("  _data/%s/（%d 个分片文件）" % (DATA_NAME, len(doc.get("name_map") or {})))
         log("  %s（%d 行）" % (rel(WORKSHEET_PATH), len(rows)))
         log("下一步：人工复核工作表 → --import 回收 → 再 --write/--check")
     else:

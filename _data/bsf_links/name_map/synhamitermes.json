@@ -1,0 +1,46 @@
+{
+ "Synhamitermes ceylonicus": {
+  "label": "Synhamitermes ceylonicus (Holmgren, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85831,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85831/overview",
+  "valid_label": null,
+  "valid_otu": 85831,
+  "verified": false
+ },
+ "Synhamitermes colombensis": {
+  "label": "Synhamitermes colombensis Roonwal & Sen-Sarma, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 85832,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85832/overview",
+  "valid_label": null,
+  "valid_otu": 85832,
+  "verified": false
+ },
+ "Synhamitermes labioangulatus": {
+  "label": "Synhamitermes labioangulatus Thakur, 1989",
+  "match": "exact",
+  "notes": "",
+  "otu": 85833,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85833/overview",
+  "valid_label": null,
+  "valid_otu": 85833,
+  "verified": false
+ },
+ "Synhamitermes quadriceps": {
+  "label": "Synhamitermes quadriceps (Wasmann, 1902)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85834,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85834/overview",
+  "valid_label": null,
+  "valid_otu": 85834,
+  "verified": false
+ }
+}

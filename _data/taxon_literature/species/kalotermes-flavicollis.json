@@ -1,0 +1,26 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "基名与模式产地",
+   "heading_en": "Basionym and type locality",
+   "heading_es": "Basónimo y localidad tipo",
+   "paragraphs": [
+    {
+     "src": [
+      "S0004"
+     ],
+     "text": "《白蚁论》记录黄颈木白蚁（<i>Kalotermes flavicollis</i>）的基名为白蚁属（<i>Termes</i>）的旧组合 <i>Termes flavicolle</i> Fabricius, 1793，选模为哥本哈根大学动物博物馆（ZMUC）的有翅成虫，模式产地记为「Barbaria」，一般认为在今阿尔及利亚一带。",
+     "text_en": "The Treatise records the basionym of <i>Kalotermes flavicollis</i> as the old combination <i>Termes flavicolle</i> Fabricius, 1793, with a lectotype alate in the Zoological Museum of the University of Copenhagen (ZMUC) and \"Barbaria\", generally taken to be in present-day Algeria, as the type locality.",
+     "text_es": "El Treatise registra el basónimo de <i>Kalotermes flavicollis</i> como la combinación antigua <i>Termes flavicolle</i> Fabricius, 1793, con un lectotipo alado en el Museo Zoológico de la Universidad de Copenhague (ZMUC) y «Barbaria», generalmente situada en la Argelia actual, como localidad tipo."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0004",
+   "citation": "Krishna K. et al. Treatise on the Isoptera of the world. Bulletin of the American Museum of Natural History 377, 2013."
+  }
+ ]
+}

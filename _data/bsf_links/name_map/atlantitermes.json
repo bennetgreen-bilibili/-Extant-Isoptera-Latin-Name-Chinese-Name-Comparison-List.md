@@ -1,0 +1,90 @@
+{
+ "Atlantitermes guarinim": {
+  "label": "Atlantitermes guarinim Fontes, 1979",
+  "match": "exact",
+  "notes": "",
+  "otu": 84323,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84323/overview",
+  "valid_label": null,
+  "valid_otu": 84323,
+  "verified": false
+ },
+ "Atlantitermes ibitiriguara": {
+  "label": "Atlantitermes ibitiriguara Fontes, 1979",
+  "match": "exact",
+  "notes": "",
+  "otu": 84324,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84324/overview",
+  "valid_label": null,
+  "valid_otu": 84324,
+  "verified": false
+ },
+ "Atlantitermes kirbyi": {
+  "label": "Atlantitermes kirbyi (Snyder, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84325,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84325/overview",
+  "valid_label": null,
+  "valid_otu": 84325,
+  "verified": false
+ },
+ "Atlantitermes oculatissimus": {
+  "label": "Atlantitermes oculatissimus (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84327,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84327/overview",
+  "valid_label": null,
+  "valid_otu": 84327,
+  "verified": false
+ },
+ "Atlantitermes osborni": {
+  "label": "Atlantitermes osborni (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84328,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84328/overview",
+  "valid_label": null,
+  "valid_otu": 84328,
+  "verified": false
+ },
+ "Atlantitermes raripilus": {
+  "label": "Atlantitermes raripilus (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84329,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84329/overview",
+  "valid_label": null,
+  "valid_otu": 84329,
+  "verified": false
+ },
+ "Atlantitermes snyderi": {
+  "label": "Atlantitermes snyderi (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84330,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84330/overview",
+  "valid_label": null,
+  "valid_otu": 84330,
+  "verified": false
+ },
+ "Atlantitermes stercophilus": {
+  "label": "Atlantitermes stercophilus Constantino & DeSouza, 1997",
+  "match": "exact",
+  "notes": "",
+  "otu": 84331,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84331/overview",
+  "valid_label": null,
+  "valid_otu": 84331,
+  "verified": false
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "柚木受害方式与木材化学",
+   "heading_en": "Patterns of Teak Damage and Wood Chemistry",
+   "heading_es": "Patrones de daño en la teca y química de la madera",
+   "paragraphs": [
+    {
+     "src": [
+      "S0268"
+     ],
+     "text": "根据 Lukmandaru 等（2015）研究，柚木新白蚁（<i>Neotermes tectonae</i>）在爪哇约 18 000 公顷柚木（<i>Tectona grandis</i>）林造成危害，其巢即树干上地面以上 2–20 m 处的瘤状膨大，由形成层反应形成——白蚁沿木材纹理钻蛀、阻断养分流，导致形成层增生。危害分两型：I 型在心材中形成包涵韧皮部而周围木材完好，II 型心材软化中空、无包涵韧皮部。",
+     "text_en": "According to Lukmandaru et al. (2015), <i>Neotermes tectonae</i> damages about 18 000 hectares of teak (<i>Tectona grandis</i>) forest in Java; its nest is a tumour-like swelling on the trunk 2–20 m above the ground, formed by a cambial reaction—the termites bore along the grain and block the flow of nutrients, causing cambial proliferation. Damage falls into two types: type I forms included phloem within the heartwood while the surrounding wood remains sound, and type II has softened, hollowed heartwood without included phloem.",
+     "text_es": "Según Lukmandaru et al. (2015), <i>Neotermes tectonae</i> causa daños en unas 18 000 hectáreas de bosque de teca (<i>Tectona grandis</i>) en Java; su nido es una protuberancia tumoral en el tronco, entre 2 y 20 m sobre el suelo, formada por una reacción del cambium: las termitas perforan a lo largo de la fibra y bloquean el flujo de nutrientes, lo que provoca la proliferación del cambium. El daño se divide en dos tipos: el tipo I forma floema incluido en el duramen mientras la madera circundante permanece sana, y el tipo II presenta duramen reblandecido y hueco, sin floema incluido."
+    },
+    {
+     "src": [
+      "S0268"
+     ],
+     "text": "受害木的 pH 为 6.16–7.56，高于正常木的 5.4–5.8；II 型软腐中空部综纤维素为 70.92%、纤维素为 40.68%（正常边材纤维素 49.28%）；I 型包涵韧皮部的乙醇-甲苯可溶物达 13.27%（正常心材 3.68%–5.75%）。作者指出，柚木的抗蚁性与 tectoquinone、isodesoxylapachol 含量仅呈弱相关。",
+     "text_en": "Affected wood has a pH of 6.16–7.56, higher than the 5.4–5.8 of normal wood; in type II soft rot the hollowed portion has 70.92% holocellulose and 40.68% cellulose (normal sapwood cellulose 49.28%); the included phloem of type I reaches 13.27% ethanol–toluene extractives (normal heartwood 3.68%–5.75%). The authors note that termite resistance in teak is only weakly correlated with the content of tectoquinone and isodesoxylapachol.",
+     "text_es": "La madera afectada tiene un pH de 6.16–7.56, superior al 5.4–5.8 de la madera normal; en la pudrición blanda de tipo II la parte hueca presenta 70.92% de holocelulosa y 40.68% de celulosa (celulosa de albura normal 49.28%); el floema incluido del tipo I alcanza 13.27% de extractivos en etanol–tolueno (duramen normal 3.68%–5.75%). Los autores señalan que la resistencia de la teca a las termitas solo se correlaciona débilmente con el contenido de tectoquinona e isodesoxilapacol."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0268",
+   "citation": "Lukmandaru, G. 2015. Chemical Characteristics of Teak Wood Attacked by Neotermes tectonae. BioResources.",
+   "doi": "10.15376/biores.10.2.2094-2102"
+  }
+ ]
+}

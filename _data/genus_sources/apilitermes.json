@@ -1,0 +1,31 @@
+{
+ "latin": "Apilitermes",
+ "zh": "无毛白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Apilitermes Holmgren, 1912a: 103.",
+ "type_species": "Apilitermes longiceps Sjöstedt, 1899 by monotypy.",
+ "references": [
+  {
+   "ref": "Emerson, 1928b: 408, 419",
+   "note": "Apilitermes; key; distribution."
+  },
+  {
+   "ref": "Webb, 1961: 14",
+   "note": "Apilitermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 25, 94, 95, pl. 15: fig. 43b",
+   "note": "Apilitermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 37",
+   "note": "Apilitermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 39, 198–200, figs. 743–753, pl. 9: fig. 8",
+   "note": "Apilitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 13
+}

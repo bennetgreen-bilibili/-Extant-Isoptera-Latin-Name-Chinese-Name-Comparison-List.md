@@ -1,0 +1,68 @@
+{
+ "Tuberculitermes bycanistes": {
+  "gbif": {
+   "key": 9711807,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tuberculitermes bycanistes (Sjöstedt, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7CY9B",
+   "status": "accepted",
+   "label": "Tuberculitermes bycanistes (Sjöstedt, 1905)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073705",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tuberculitermes flexuosus": {
+  "gbif": {
+   "key": 9795368,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tuberculitermes flexuosus Roy-Noël, 1969",
+   "accepted": null
+  },
+  "col": {
+   "id": "7D9XB",
+   "status": "accepted",
+   "label": "Tuberculitermes flexuosus Roy-Noël, 1969",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073704",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tuberculitermes guineensis": {
+  "gbif": {
+   "key": 9708465,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tuberculitermes guineensis Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "7CXXC",
+   "status": "accepted",
+   "label": "Tuberculitermes guineensis Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073703",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "book_n": "53",
+ "book_name": "异距新白蚁 Neotermes dubiocalcaratus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "异距新白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "14.30",
+     "value": "12.60–16.60"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "4.68",
+     "value": "4.49–4.89"
+    },
+    {
+     "key": "head_width",
+     "mean": "3.03",
+     "value": "2.89–3.14"
+    },
+    {
+     "key": "head_height",
+     "mean": "2.34",
+     "value": "2.25–2.45"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.50",
+     "value": "0.35–0.95"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.82",
+     "value": "0.75–1.13"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "2.44",
+     "value": "2.25–2.50"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "1.08",
+     "value": "1.05–1.15"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "1.47",
+     "value": "1.35–1.50"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "3.26",
+     "value": "3.09–3.50"
+    },
+    {
+     "key": "hind_femur_length",
+     "mean": "1.86",
+     "value": "1.75–2.00"
+    },
+    {
+     "key": "hind_femur_width",
+     "mean": "0.65",
+     "value": "0.60–0.70"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 1196,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "zh_name": "无名白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "新热带区特有的 nasute 属。据后出文献，本属是一个界定较为清楚的属，其属义可由兵蚁、工蚁与有翅成虫三个品级共同识别。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头壳卵形，触角基后方略有收缩；象鼻长圆柱形，侧面观不上翘；唇基极度退化；触角 12 节；胫节距 2:2:2。"
+  },
+  {
+   "label": "工蚁",
+   "text": "二型，分窄隙型与宽隙型，窄隙型比宽隙型常见得多；臼齿区脊减弱，但未失去缘齿。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0098",
+   "citation": "Cancello, E. M. & Cuezzo, C. 2007. A new species of Ereymatermes Constantino (Isoptera, Termitidae, Nasutitermitinae) from the northeastern Atlantic Forest, Brazil. Papéis Avulsos de Zoologia 47(23): 283–288.",
+   "locator": "p. 283（摘要）；p. 284（属级界定、兵蚁）；p. 285（工蚁）"
+  },
+  {
+   "id": "S0057",
+   "citation": "Cuezzo, C. & Nickle, D. A. 2011. A new genus and species of termites (Isoptera, Termitidae, Nasutitermitinae) from the rainforest of northern Peru. ZooKeys 159: 1–9.",
+   "locator": "工蚁比较段"
+  }
+ ],
+ "note": "Constantino (1991) 的原始描述未获全文；属级界定与兵蚁、工蚁形态据 Cancello & Cuezzo (2007) 对本属一种的记述，工蚁臼齿性状据 Cuezzo & Nickle (2011) 的比较性记述。有翅成虫仅知存在，未见形态描述，故不设该节。"
+}

@@ -1,0 +1,50 @@
+{
+ "book_n": "307",
+ "book_name": "长须大白蚁 Macrotermes longimentis",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "长颏大白蚁有翅成虫量度 ( mm)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length_without_wings",
+     "value": "14.80"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "value": "2.10"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "value": "2.98"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.122"
+    },
+    {
+     "key": "eye_head_lower_margin",
+     "value": "0.073"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "1.46"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "2.64"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "3.90"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 946,
+   "unit": "mm"
+  }
+ ]
+}

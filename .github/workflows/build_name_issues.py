@@ -9,8 +9,8 @@
   downloads/isoptera-synonym-pairs.csv  异名→接受名长表（同样 UTF-8 BOM）
 
 数据来源（均为仓库内已提交的缓存，不访问网络）：
-  _data/authority_links.json   build_authority_links.py → GBIF / Catalogue of Life / Wikidata 匹配结果与 flags
-  _data/bsf_links.json         build_bsf_links.py      → Blattodea Species File 半自动对照
+  _data/authority_links/      build_authority_links.py → GBIF / Catalogue of Life / Wikidata 匹配结果与 flags
+  _data/bsf_links/            build_bsf_links.py      → Blattodea Species File 半自动对照
   _species/*.md                front matter（中文正名、科、阶元、页面 slug）
   _data/name_issue_reviews.json 人工核对备注（多为外部库拼写变体）：只给看板条目加 verified/note，
                                不改动站内分类数据；有备注却没匹配到条目时脚本报错
@@ -62,10 +62,11 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT / "_tools"))
+import shard_io  # noqa: E402
+
 CONFIG = ROOT / "_config.yml"
 SPECIES_DIR = ROOT / "_species"
-AUTHORITY = ROOT / "_data" / "authority_links.json"
-BSF = ROOT / "_data" / "bsf_links.json"
 REVIEWS = ROOT / "_data" / "name_issue_reviews.json"
 DATA_OUT = ROOT / "_data" / "name_issues.json"
 PUBLIC_OUT = ROOT / "data" / "name-issues.json"
@@ -471,8 +472,8 @@ def build_species_authority(pairs: list, species: dict) -> tuple:
 
 
 def build() -> dict:
-    auth = json.loads(AUTHORITY.read_text(encoding="utf-8"))
-    bsf = json.loads(BSF.read_text(encoding="utf-8"))
+    auth = shard_io.load("authority_links")
+    bsf = shard_io.load("bsf_links")
     species = load_species()
 
     gbif_base = url_base("gbif_species")
@@ -596,8 +597,8 @@ def build() -> dict:
             "title": "Isoptera checklist — name discrepancies and review queue",
             "scope": "本站每一物种/亚种与 GBIF Backbone、Catalogue of Life、Blattodea Species File 的对照结果中，"
                      "需要人工注意的条目；只提示，不改动站内分类数据。",
-            "method": "由 .github/workflows/build_name_issues.py 从 _data/authority_links.json 与 "
-                      "_data/bsf_links.json 生成；人工核对备注见 _data/name_issue_reviews.json；"
+            "method": "由 .github/workflows/build_name_issues.py 从 _data/authority_links/ 与 "
+                      "_data/bsf_links/ 分片生成；人工核对备注见 _data/name_issue_reviews.json；"
                       "匹配规则见 _tools/外部权威库与一致性核对.md。",
             "cache_dates": {
                 "authority": (auth.get("meta") or {}).get("generated"),
@@ -676,9 +677,11 @@ def main() -> int:
     parser.add_argument("--check", action="store_true", help="校验仓库内产物是否最新")
     args = parser.parse_args()
 
-    for required in (AUTHORITY, BSF, CONFIG):
-        if not required.is_file():
-            sys.exit("error: 找不到 " + str(required.relative_to(ROOT)))
+    for name in ("authority_links", "bsf_links"):
+        if not shard_io.exists(name):
+            sys.exit("error: 找不到 _data/%s/" % name)
+    if not CONFIG.is_file():
+        sys.exit("error: 找不到 " + str(CONFIG.relative_to(ROOT)))
 
     payload = build()
     js = json.dumps(payload, ensure_ascii=False, indent=1) + "\n"

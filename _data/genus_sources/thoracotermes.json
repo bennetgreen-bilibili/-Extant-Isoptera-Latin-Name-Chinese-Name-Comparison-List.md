@@ -1,0 +1,39 @@
+{
+ "latin": "Thoracotermes",
+ "zh": "胸白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Thoracotermes Wasmann, 1911c: 146–149.",
+ "type_species": "Eutermes macrothorax Sjöstedt, 1899 by monotypy.",
+ "references": [
+  {
+   "ref": "Holmgren, 1912a: 97, 98–101",
+   "note": "Thoracotermes; characters; key; species included; systematic position."
+  },
+  {
+   "ref": "Emerson, 1928b: 408, 419, 500",
+   "note": "Thoracotermes; key; distribution."
+  },
+  {
+   "ref": "Weidner, 1956b: 65",
+   "note": "Thoracotermes; key."
+  },
+  {
+   "ref": "Webb, 1961: 18",
+   "note": "Thoracotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 25, 92, 93, pl. 14: fig. 41c",
+   "note": "Thoracotermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 34",
+   "note": "Thoracotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 41, 195–197, figs. 720–742, pl. 10: fig. 1",
+   "note": "Thoracotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 15
+}

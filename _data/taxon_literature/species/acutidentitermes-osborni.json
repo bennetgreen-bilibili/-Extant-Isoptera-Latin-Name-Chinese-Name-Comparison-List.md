@@ -1,0 +1,26 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "根据 Emerson（1959）研究，奥斯本尖齿白蚁（<i>Acutidentitermes osborni</i>）被指定为尖齿白蚁属（<i>Acutidentitermes</i>）的模式种；模式材料出自比利时刚果伊图里雨林 Epulu 河畔的一处地下巢，含 1 头兵蚁及同巢工蚁。该属当时置于白蚁亚科（Termitinae），本站现置于尖白蚁亚科（Apicotermitinae）。",
+     "text_en": "According to Emerson (1959), <i>Acutidentitermes osborni</i> was designated the type species of <i>Acutidentitermes</i>; the type material comes from a subterranean nest beside the Epulu River in the Ituri rainforest of the Belgian Congo and comprises one soldier and workers from the same colony. The genus was then placed in Termitinae; this site now places it in Apicotermitinae.",
+     "text_es": "Según Emerson (1959), <i>Acutidentitermes osborni</i> fue designada especie tipo de <i>Acutidentitermes</i>; el material tipo procede de un nido subterráneo junto al río Epulu, en la selva de Ituri del Congo Belga, y comprende un soldado y obreras de la misma colonia. El género se situaba entonces en Termitinae; este sitio lo sitúa ahora en Apicotermitinae.",
+     "src": [
+      "S0034"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0034",
+   "citation": "Emerson A. E. 1959 The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43."
+  }
+ ]
+}

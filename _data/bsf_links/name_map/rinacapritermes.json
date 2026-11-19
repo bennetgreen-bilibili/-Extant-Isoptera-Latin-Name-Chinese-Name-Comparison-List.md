@@ -1,0 +1,24 @@
+{
+ "Rinacapritermes abundans": {
+  "label": "Rinacapritermes abundans Amina & Rajmohana, 2022",
+  "match": "exact",
+  "notes": "",
+  "otu": 683134,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/683134/overview",
+  "valid_label": null,
+  "valid_otu": 683134,
+  "verified": false
+ },
+ "Rinacapritermes silvius": {
+  "label": "Rinacapritermes silvius Amina & Rajmohana, 2022",
+  "match": "exact",
+  "notes": "",
+  "otu": 683132,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/683132/overview",
+  "valid_label": null,
+  "valid_otu": 683132,
+  "verified": false
+ }
+}

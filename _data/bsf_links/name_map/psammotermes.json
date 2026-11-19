@@ -1,0 +1,68 @@
+{
+ "Psammotermes allocerus": {
+  "label": "Psammotermes allocerus Silvestri, 1908",
+  "match": "exact",
+  "notes": "",
+  "otu": 83403,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83403/overview",
+  "valid_label": null,
+  "valid_otu": 83403,
+  "verified": false
+ },
+ "Psammotermes hybostoma": {
+  "label": "Psammotermes hybostoma Desneux, 1902",
+  "match": "exact",
+  "notes": "",
+  "otu": 83404,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83404/overview",
+  "valid_label": null,
+  "valid_otu": 83404,
+  "verified": false
+ },
+ "Psammotermes prohybostoma": {
+  "label": "Psammotermes prohybostoma Ravan & Akhtar, 1999",
+  "match": "exact",
+  "notes": "",
+  "otu": 83405,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83405/overview",
+  "valid_label": null,
+  "valid_otu": 83405,
+  "verified": false
+ },
+ "Psammotermes rajasthanicus": {
+  "label": "Psammotermes rajasthanicus Roonwal & Bose, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 83406,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83406/overview",
+  "valid_label": null,
+  "valid_otu": 83406,
+  "verified": false
+ },
+ "Psammotermes senegalensis": {
+  "label": "Psammotermes senegalensis Sjöstedt, 1924",
+  "match": "exact",
+  "notes": "",
+  "otu": 83407,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83407/overview",
+  "valid_label": null,
+  "valid_otu": 83407,
+  "verified": false
+ },
+ "Psammotermes voeltzkowi": {
+  "label": "Psammotermes voeltzkowi Wasmann, 1910",
+  "match": "exact",
+  "notes": "",
+  "otu": 83408,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83408/overview",
+  "valid_label": null,
+  "valid_otu": 83408,
+  "verified": false
+ }
+}

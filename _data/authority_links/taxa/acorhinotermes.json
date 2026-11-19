@@ -1,0 +1,70 @@
+{
+ "Acorhinotermes claritae": {
+  "gbif": {
+   "key": 10830591,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Acorhinotermes claritae Castro & Scheffrahn, 2019",
+   "accepted": null
+  },
+  "col": {
+   "id": "F8PXF",
+   "status": "accepted",
+   "label": "Acorhinotermes claritae Castro & Scheffrahn, 2019",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Acorhinotermes murui": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Acorhinotermes Emerson, 1949",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "C3BTR",
+   "status": "accepted",
+   "label": "Acorhinotermes murui Castro, 2023",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q128802367",
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-31"
+ },
+ "Acorhinotermes subfusciceps": {
+  "gbif": {
+   "key": 9631343,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Acorhinotermes subfusciceps (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "9HFP",
+   "status": "accepted",
+   "label": "Acorhinotermes subfusciceps (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234481",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

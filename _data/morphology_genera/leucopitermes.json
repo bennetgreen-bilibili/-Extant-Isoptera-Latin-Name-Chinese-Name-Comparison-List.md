@@ -1,0 +1,25 @@
+{
+ "zh_name": "白脸白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "左颚指数 0.56（工蚁）；兵蚁上颚有或无端尖；是 Emerson 1960 视为东洋区 Subulitermes 支系中最原始的属，可能与其澳大利亚的 Occasitermes、马达加斯加的 Malagasitermes 同源。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "额突与头顶具极短微毛（不如 Malagasitermes milloti 长而密）；腹部背板具短毛与刚毛（短于 Malagasitermes）；头侧轮廓凸出，头后部不如 Malagasitermes 高而宽；触角基部之后头侧有一小而明显的缩窄；上颚有或无端尖；前胸背板前缘微凹，背板侧轮廓前后段之间夹角近直角。"
+  },
+  {
+   "label": "工蚁",
+   "text": "左颚指数 0.56；两上颚端齿仅略大于第 1 缘齿；左颚第 1 缘齿与端齿间夹角较锐，第 1 缘齿与退化的第 2 缘齿切缘处夹角明显，第 3 缘齿前缺刻宽而明显，第 3 缘齿较宽；右颚第 2 缘齿明显，第 1、2 缘齿间夹角略小于直角；右颚磨板轮廓近平直。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0081",
+   "citation": "Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.",
+   "locator": "pp. 8-9"
+  }
+ ],
+ "note": "单种属（leucops）。Emerson 1960 仅据兵蚁与工蚁共模标本记述，未检视有翅成虫，故不设该节。"
+}

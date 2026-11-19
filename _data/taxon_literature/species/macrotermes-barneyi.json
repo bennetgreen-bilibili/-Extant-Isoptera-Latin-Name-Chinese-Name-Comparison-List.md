@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "β-葡萄糖苷酶活性",
+   "heading_en": "β-Glucosidase activity",
+   "heading_es": "Actividad β-glucosidasa",
+   "paragraphs": [
+    {
+     "src": [
+      "S0276"
+     ],
+     "text": "根据 Li 等（2013）研究，黄翅大白蚁（<i>Macrotermes barneyi</i>）工蚁的 β-葡萄糖苷酶（BG）活性在供试 7 种白蚁中最高；该种为培菌性白蚁（大白蚁亚科 <i>Macrotermitinae</i>），采自罗浮山与帽峰山，按群体数解剖 4 套肠道。",
+     "text_en": "According to Li et al. (2013), the β-glucosidase (BG) activity of <i>Macrotermes barneyi</i> workers was the highest among the seven termite species tested; this species is a fungus-growing termite (Macrotermitinae), collected at Luofu Mountain and Maofeng Mountain, and four guts were dissected according to the number of colonies.",
+     "text_es": "Según Li et al. (2013), la actividad de β-glucosidasa (BG) de las obreras de <i>Macrotermes barneyi</i> fue la más alta entre las siete especies de termitas ensayadas; esta especie es una termita cultivadora de hongos (Macrotermitinae), recolectada en el monte Luofu y el monte Maofeng, y se diseccionaron cuatro intestinos según el número de colonias."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0276",
+   "citation": "Li, Z.-Q.; Liu, B.-R.; Zeng, W.; Xiao, W.-L.; Li, Q.; Zhong, J. 2013. Character of Cellulase Activity in the Guts of Flagellate-Free Termites with Different Feeding Habits. Oxford University Press (OUP).",
+   "doi": "10.1673/031.013.3701"
+  }
+ ]
+}

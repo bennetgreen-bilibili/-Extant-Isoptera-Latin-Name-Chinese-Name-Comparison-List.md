@@ -1,0 +1,24 @@
+{
+ "Profastigitermes putnami": {
+  "gbif": {
+   "key": 9785289,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Profastigitermes putnami Emerson, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MQSD",
+   "status": "accepted",
+   "label": "Profastigitermes putnami Emerson, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084212",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

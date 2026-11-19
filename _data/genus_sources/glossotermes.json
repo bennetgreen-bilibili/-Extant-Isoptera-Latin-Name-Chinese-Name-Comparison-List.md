@@ -1,0 +1,31 @@
+{
+ "latin": "Glossotermes",
+ "zh": "舌白蚁属",
+ "family": "serritermitidae",
+ "treatise": true,
+ "citation": "Glossotermes Emerson, 1950: 2.",
+ "type_species": "Glossotermes oculatus Emerson 1950 by original designation.",
+ "references": [
+  {
+   "ref": "Morimoto, 1975b: 14",
+   "note": "Glossotermes; key."
+  },
+  {
+   "ref": "Chhotani, 1984: 111–112",
+   "note": "Glossotermes; key; taxonomy; distribution and zoogeography; biology; ecology; nesting behavior."
+  },
+  {
+   "ref": "Constantino, 1999a: 396, 411",
+   "note": "Glossotermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 18",
+   "note": "Glossotermes; key."
+  },
+  {
+   "ref": "Maiti, 2006: 15, 16",
+   "note": "Glossotermes; key; synonymy; characters; distribution."
+  }
+ ],
+ "nrefs": 13
+}

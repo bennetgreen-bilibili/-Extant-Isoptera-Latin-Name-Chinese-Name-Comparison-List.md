@@ -1,0 +1,68 @@
+{
+ "Xylochomitermes aspinosus": {
+  "label": "Xylochomitermes aspinosus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85869,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85869/overview",
+  "valid_label": null,
+  "valid_otu": 85869,
+  "verified": false
+ },
+ "Xylochomitermes melvillensis": {
+  "label": "Xylochomitermes melvillensis (Hill, 1915)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85870,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85870/overview",
+  "valid_label": null,
+  "valid_otu": 85870,
+  "verified": false
+ },
+ "Xylochomitermes occidualis": {
+  "label": "Xylochomitermes occidualis (Gay, 1971)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85871,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85871/overview",
+  "valid_label": null,
+  "valid_otu": 85871,
+  "verified": false
+ },
+ "Xylochomitermes punctillus": {
+  "label": "Xylochomitermes punctillus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85872,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85872/overview",
+  "valid_label": null,
+  "valid_otu": 85872,
+  "verified": false
+ },
+ "Xylochomitermes reductus": {
+  "label": "Xylochomitermes reductus (Gay, 1971)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85873,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85873/overview",
+  "valid_label": null,
+  "valid_otu": 85873,
+  "verified": false
+ },
+ "Xylochomitermes tomentosus": {
+  "label": "Xylochomitermes tomentosus (Gay, 1971)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85874,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85874/overview",
+  "valid_label": null,
+  "valid_otu": 85874,
+  "verified": false
+ }
+}

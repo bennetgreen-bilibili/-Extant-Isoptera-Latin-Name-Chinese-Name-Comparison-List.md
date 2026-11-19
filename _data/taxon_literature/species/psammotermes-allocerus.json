@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "分布间断与林波波河流域的连接",
+   "heading_en": "A disjunct range and the link through the Limpopo basin",
+   "heading_es": "Un área disyunta y el enlace a través de la cuenca del Limpopo",
+   "paragraphs": [
+    {
+     "src": [
+      "S0336"
+     ],
+     "text": "根据 Coaton（1962）研究，奇白沙白蚁（<i>Psammotermes allocerus</i>）由 Silvestri 于 1908 年以纳米比亚 Namaland 标本描述，Fuller（1921）又记录于 Namaqualand 与 Ovamboland；Holmgren（1913）曾把祖鲁兰北部 Ubombo 区 Lake Sibayi 附近采得的标本误定为沙白蚁属（<i>Psammotermes</i>）的其他种。国家调查确认该种在开普省自 Namaqualand、Van Rhynsdorp、Clan William 的大西洋岸向东伸至东经 24°，南起 Prince Albert 区、北至 Gordonia 区。",
+     "text_en": "According to Coaton (1962), <i>Psammotermes allocerus</i> was described by Silvestri in 1908 from Namaland in South West Africa, and Fuller (1921) also recorded it from Namaqualand and Ovamboland; Holmgren (1913) had misidentified material collected near Lake Sibayi in the Ubombo district of northern Zululand as another species of <i>Psammotermes</i>. The National Survey established that in the Cape Province the species extends eastwards from the Atlantic seaboard of Namaqualand, Van Rhynsdorp and Clan William to longitude 24°E, and from the Prince Albert district in the south to the Gordonia district in the north.",
+     "text_es": "Según Coaton (1962), <i>Psammotermes allocerus</i> fue descrita por Silvestri en 1908 a partir de Namaland, en el África del Sudoeste, y Fuller (1921) la registró también de Namaqualand y Ovamboland; Holmgren (1913) había identificado erróneamente material recolectado cerca del lago Sibayi, en el distrito de Ubombo del norte de Zululandia, como otra especie de <i>Psammotermes</i>. El Estudio Nacional estableció que en la provincia del Cabo la especie se extiende hacia el este desde la costa atlántica de Namaqualand, Van Rhynsdorp y Clan William hasta la longitud 24°E, y desde el distrito de Prince Albert, al sur, hasta el de Gordonia, al norte."
+    },
+    {
+     "src": [
+      "S0336"
+     ],
+     "text": "由此形成一个分布难题：西部干旱区（开普省、西南非与贝专纳兰保护地）与东部湿润亚热带的一处孤立分布（祖鲁兰北部 Ubombo 区沙地）之间没有已知联系。Coaton 报告在林波波河流域 Soutpansberg 区 Vetfontein 附近沙地、克鲁格国家公园北部 Wambia 附近 Karoo 系沙地采到该种，加上 Lourenço Marques 的 Inhaka 岛与祖鲁兰北部 Ingwavuma 区沙地的标本，认为西部干旱区与东部湿润区的分布经德兰士瓦北部林波波河流域的沙地相连，Karoo 系沙地构成沿 Lebombo 山地的通道。",
+     "text_en": "A distributional problem thus arose: no known link existed between the arid western range (Cape Province, South West Africa and the Bechuanaland Protectorate) and an isolated pocket in the humid subtropical east, in the Sandveld of the Ubombo district of northern Zululand. Coaton reported the species from Sandveld near Vetfontein in the Soutpansberg district of the Limpopo basin and from Sandveld of the Karoo System near Wambia in the northern Kruger National Park, and, together with accessions from Inhaka Island at Lourenço Marques and from the Sandveld of the Ingwavuma district of northern Zululand, concluded that the arid western range is linked to the humid eastern one through the Sandveld of the Limpopo basin in the northern Transvaal, the Karoo System sands forming a corridor along the Lebombo Mountains.",
+     "text_es": "Surgió así un problema de distribución: no se conocía ningún enlace entre el área árida occidental (provincia del Cabo, África del Sudoeste y el Protectorado de Bechuanalandia) y un núcleo aislado en el este subtropical húmedo, en el Sandveld del distrito de Ubombo, en el norte de Zululandia. Coaton registró la especie en el Sandveld cerca de Vetfontein, en el distrito de Soutpansberg de la cuenca del Limpopo, y en el Sandveld del sistema del Karoo cerca de Wambia, en el norte del Parque Nacional Kruger, y, junto con ejemplares de la isla Inhaka, en Lourenço Marques, y del Sandveld del distrito de Ingwavuma, en el norte de Zululandia, concluyó que el área árida occidental se enlaza con la húmeda oriental a través del Sandveld de la cuenca del Limpopo en el norte del Transvaal, y que las arenas del sistema del Karoo forman un corredor a lo largo de las montañas Lebombo."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0336",
+   "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+   "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+  }
+ ]
+}

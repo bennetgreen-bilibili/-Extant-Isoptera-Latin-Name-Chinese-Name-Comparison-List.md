@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "防御分泌物的作用方式",
+   "heading_en": "Mode of action of the defensive secretion",
+   "heading_es": "Modo de acción de la secreción defensiva",
+   "paragraphs": [
+    {
+     "src": [
+      "S0206"
+     ],
+     "text": "据摘要，Mill（1983）把无毛聚白蚁（<i>Syntermes calvus</i>）的防御分泌物滴在捕食性蚂蚁体表做生物测定，发现它主要起创伤性毒物的作用，表面活性很弱——与象白蚁属（<i>Nasutitermes</i>）兼具粘附、表面毒性与驱避的分泌物不同。",
+     "text_en": "According to the abstract, Mill (1983) applied the defensive secretion of <i>Syntermes calvus</i> to the body surface of predatory ants and found that it acts mainly as a wound-active poison with little topical activity, unlike the secretion of <i>Nasutitermes</i>, which combines adhesion, topical toxicity and repellency.",
+     "text_es": "Según el resumen, Mill (1983) aplicó la secreción defensiva de <i>Syntermes calvus</i> sobre la superficie corporal de hormigas depredadoras y halló que actúa principalmente como veneno de herida con escasa actividad tópica, a diferencia de la secreción de <i>Nasutitermes</i>, que combina adhesión, toxicidad tópica y repelencia."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0206",
+   "citation": "Mill, A. E. (1983). Behavioural and toxic effects of termite defensive secretions on ants. Physiological Entomology.",
+   "doi": "10.1111/j.1365-3032.1983.tb00375.x"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "Promirotermes bechuana": {
+  "label": "Promirotermes bechuana (Fuller, 1922)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85762,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85762/overview",
+  "valid_label": null,
+  "valid_otu": 85762,
+  "verified": false
+ },
+ "Promirotermes bellicosi": {
+  "label": "Promirotermes bellicosi (Wasmann, 1912)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85763,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85763/overview",
+  "valid_label": null,
+  "valid_otu": 85763,
+  "verified": false
+ },
+ "Promirotermes dumisae": {
+  "label": "Promirotermes dumisae (Fuller, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85764,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85764/overview",
+  "valid_label": null,
+  "valid_otu": 85764,
+  "verified": false
+ },
+ "Promirotermes gracilipes": {
+  "label": "Promirotermes gracilipes Schmitz, 1917",
+  "match": "exact",
+  "notes": "",
+  "otu": 85765,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85765/overview",
+  "valid_label": null,
+  "valid_otu": 85765,
+  "verified": false
+ },
+ "Promirotermes holmgreni": {
+  "label": "Promirotermes holmgreni (Silvestri, 1912)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85766,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85766/overview",
+  "valid_label": null,
+  "valid_otu": 85766,
+  "verified": false
+ },
+ "Promirotermes holmgreni holmgreni": {
+  "label": "Promirotermes holmgreni holmgreni (Silvestri, 1912)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85767,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85767/overview",
+  "valid_label": null,
+  "valid_otu": 85767,
+  "verified": false
+ },
+ "Promirotermes holmgreni infera": {
+  "label": "Promirotermes holmgreni infera Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 85768,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85768/overview",
+  "valid_label": null,
+  "valid_otu": 85768,
+  "verified": false
+ },
+ "Promirotermes massaicus": {
+  "label": "Promirotermes massaicus (Sjöstedt, 1907)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85769,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85769/overview",
+  "valid_label": null,
+  "valid_otu": 85769,
+  "verified": false
+ },
+ "Promirotermes orthoceps": {
+  "label": "Promirotermes orthoceps (Emerson, 1928)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85770,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85770/overview",
+  "valid_label": null,
+  "valid_otu": 85770,
+  "verified": false
+ },
+ "Promirotermes pygmaeus": {
+  "label": "Promirotermes pygmaeus Harris, 1963",
+  "match": "exact",
+  "notes": "",
+  "otu": 85771,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85771/overview",
+  "valid_label": null,
+  "valid_otu": 85771,
+  "verified": false
+ },
+ "Promirotermes redundans": {
+  "label": "Promirotermes redundans Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 85772,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85772/overview",
+  "valid_label": null,
+  "valid_otu": 85772,
+  "verified": false
+ },
+ "Promirotermes rotundifrons": {
+  "label": "Promirotermes rotundifrons (Silvestri, 1908)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85773,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85773/overview",
+  "valid_label": null,
+  "valid_otu": 85773,
+  "verified": false
+ }
+}

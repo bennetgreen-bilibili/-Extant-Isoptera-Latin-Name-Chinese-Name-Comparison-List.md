@@ -1,0 +1,134 @@
+{
+ "Amicotermes autothysius": {
+  "label": "Amicotermes autothysius Sands, 1999",
+  "match": "exact",
+  "notes": "",
+  "otu": 83936,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83936/overview",
+  "valid_label": null,
+  "valid_otu": 83936,
+  "verified": false
+ },
+ "Amicotermes camerunensis": {
+  "label": "Amicotermes camerunensis Sands, 1999",
+  "match": "exact",
+  "notes": "",
+  "otu": 83937,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83937/overview",
+  "valid_label": null,
+  "valid_otu": 83937,
+  "verified": false
+ },
+ "Amicotermes congoensis": {
+  "label": "Amicotermes congoensis Sands, 1999",
+  "match": "exact",
+  "notes": "",
+  "otu": 83938,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83938/overview",
+  "valid_label": null,
+  "valid_otu": 83938,
+  "verified": false
+ },
+ "Amicotermes cristatus": {
+  "label": "Amicotermes cristatus Sands, 1999",
+  "match": "exact",
+  "notes": "",
+  "otu": 83939,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83939/overview",
+  "valid_label": null,
+  "valid_otu": 83939,
+  "verified": false
+ },
+ "Amicotermes dibogi": {
+  "label": "Amicotermes dibogi Sands, 1999",
+  "match": "exact",
+  "notes": "",
+  "otu": 83940,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83940/overview",
+  "valid_label": null,
+  "valid_otu": 83940,
+  "verified": false
+ },
+ "Amicotermes galenus": {
+  "label": "Amicotermes galenus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83941,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83941/overview",
+  "valid_label": null,
+  "valid_otu": 83941,
+  "verified": false
+ },
+ "Amicotermes gasteruptus": {
+  "label": "Amicotermes gasteruptus Sands, 1999",
+  "match": "exact",
+  "notes": "",
+  "otu": 83942,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83942/overview",
+  "valid_label": null,
+  "valid_otu": 83942,
+  "verified": false
+ },
+ "Amicotermes ivorensis": {
+  "label": "Amicotermes ivorensis Sands, 1999",
+  "match": "exact",
+  "notes": "",
+  "otu": 83943,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83943/overview",
+  "valid_label": null,
+  "valid_otu": 83943,
+  "verified": false
+ },
+ "Amicotermes mayombei": {
+  "label": "Amicotermes mayombei Sands, 1999",
+  "match": "exact",
+  "notes": "",
+  "otu": 83944,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83944/overview",
+  "valid_label": null,
+  "valid_otu": 83944,
+  "verified": false
+ },
+ "Amicotermes mbalmayoensis": {
+  "label": "Amicotermes mbalmayoensis Sands, 1999",
+  "match": "exact",
+  "notes": "",
+  "otu": 83945,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83945/overview",
+  "valid_label": null,
+  "valid_otu": 83945,
+  "verified": false
+ },
+ "Amicotermes multispinus": {
+  "label": "Amicotermes multispinus Sands, 1999",
+  "match": "exact",
+  "notes": "",
+  "otu": 83946,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83946/overview",
+  "valid_label": null,
+  "valid_otu": 83946,
+  "verified": false
+ },
+ "Amicotermes spiculatus": {
+  "label": "Amicotermes spiculatus Sands, 1999",
+  "match": "exact",
+  "notes": "",
+  "otu": 83947,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83947/overview",
+  "valid_label": null,
+  "valid_otu": 83947,
+  "verified": false
+ }
+}

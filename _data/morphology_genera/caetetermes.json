@@ -1,0 +1,25 @@
+{
+ "zh_name": "林白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头在触角后急剧收缩、后部球状，鼻长圆柱形且基部不特别加粗；后唇基倾斜，背面观清晰可见；上颚无端尖，端部有一明显但边界不锐的薄角质斑。工蚁左颚指数 0.49，端齿短于 M1+2，M1+2 切缘波状并以锐缺刻与 M3 相隔；足长但短于兵蚁，前足基节外侧有弱隆起（兵蚁为明显隆起）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头壳在触角后急剧收缩，后部球状；鼻长、圆柱形，基部不特别加粗；后唇基倾斜，背面观清晰可见；上颚无端尖，端部有一明显但边界不锐的薄角质斑。"
+  },
+  {
+   "label": "工蚁",
+   "text": "（大型工蚁）后唇基宽/长 3.66-4.89；左颚指数 0.49，端齿短于 M1+2；M1+2 切缘波状，与 M3 之间以锐缺刻相隔；M3 发达、后缘凸；足长但短于兵蚁，前足基节外侧有弱隆起。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0085",
+   "citation": "Fontes, L. R. 1981. Caetetermes taquarussu, a new genus and species of Ecuadorian nasute (Isoptera, Termitidae, Nasutitermitinae). Revista Brasileira de Entomologia 25(2): 135-140.",
+   "locator": "pp. 135-137"
+  }
+ ],
+ "note": "原文写 Imago. Unknown，故不设有翅成虫一节；工蚁性状出自原文对大型工蚁（major worker）的记述。Constantino 1999 检索表另有额管与触角节数等性状，本次未引，故未写入正文。"
+}

@@ -1,0 +1,19 @@
+{
+ "latin": "Hoplotermes",
+ "zh": "武白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Hoplotermes Light, 1933: 134–135.",
+ "type_species": "Hoplotermes amplus Light, 1933 by original designation.",
+ "references": [
+  {
+   "ref": "Mill, 1983a: 182, 183",
+   "note": "Hoplotermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 26",
+   "note": "Hoplotermes; key."
+  }
+ ],
+ "nrefs": 10
+}

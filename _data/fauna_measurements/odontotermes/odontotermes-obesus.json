@@ -1,0 +1,63 @@
+{
+ "book_n": "259",
+ "book_name": "阿萨姆土白蚁 Odontotermes assamensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "阿萨姆土白蚁兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.19",
+     "value": "1.11–1.21"
+    },
+    {
+     "key": "head_height",
+     "mean": "0.89",
+     "value": "0.86–0.93"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.34",
+     "value": "0.29–0.36"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.27",
+     "value": "0.25–0.29"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.82",
+     "value": "0.75–0.86"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.62",
+     "value": "0.57–0.64"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.57",
+     "value": "0.54–0.61"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.90",
+     "value": "0.86–0.93"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.31",
+     "value": "1.29–1.36"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 1376,
+   "unit": "mm"
+  }
+ ]
+}

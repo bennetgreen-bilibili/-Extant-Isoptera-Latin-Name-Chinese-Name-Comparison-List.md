@@ -1,0 +1,354 @@
+{
+ "Anacanthotermes ahngerianus": {
+  "gbif": {
+   "key": 9770648,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anacanthotermes ahngerianus (Jacobson, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66J83",
+   "status": "accepted",
+   "label": "Anacanthotermes ahngerianus (Jacobson, 1905)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49441195",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anacanthotermes baeckmannianus": {
+  "gbif": {
+   "key": 9688193,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anacanthotermes baeckmannianus (Vasiljev, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "DB4F",
+   "status": "accepted",
+   "label": "Anacanthotermes baeckmannianus (Vasiljev, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125449839",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anacanthotermes baluchistanicus": {
+  "gbif": {
+   "key": 9689231,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anacanthotermes baluchistanicus Akhtar, 1974",
+   "accepted": null
+  },
+  "col": {
+   "id": "DB4G",
+   "status": "accepted",
+   "label": "Anacanthotermes baluchistanicus Akhtar, 1974",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125449869",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anacanthotermes esmailii": {
+  "gbif": {
+   "key": 9750961,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anacanthotermes esmailii Ghayourfar, 1998",
+   "accepted": null
+  },
+  "col": {
+   "id": "DB4H",
+   "status": "accepted",
+   "label": "Anacanthotermes esmailii Ghayourfar, 1998",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49441191",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anacanthotermes gurganiensis": {
+  "gbif": {
+   "key": 9670256,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anacanthotermes gurganiensis Akhtar & Raven, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "DB4J",
+   "status": "accepted",
+   "label": "Anacanthotermes gurganiensis Akhtar & Raven, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49441183",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anacanthotermes iranicus": {
+  "gbif": {
+   "key": 9752016,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anacanthotermes iranicus Ravan & Akhtar, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "DB4K",
+   "status": "accepted",
+   "label": "Anacanthotermes iranicus Ravan & Akhtar, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125449991",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anacanthotermes macrocephalus": {
+  "gbif": {
+   "key": 9784068,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anacanthotermes macrocephalus (Desneux, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "DB4L",
+   "status": "accepted",
+   "label": "Anacanthotermes macrocephalus (Desneux, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125450051",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anacanthotermes murgabicus": {
+  "gbif": {
+   "key": 9720277,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anacanthotermes murgabicus (Vasiljev, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "DB4M",
+   "status": "accepted",
+   "label": "Anacanthotermes murgabicus (Vasiljev, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125450077",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anacanthotermes ochraceus": {
+  "gbif": {
+   "key": 9803140,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anacanthotermes ochraceus (Burmeister, 1839)",
+   "accepted": null
+  },
+  "col": {
+   "id": "DB4N",
+   "status": "accepted",
+   "label": "Anacanthotermes ochraceus (Burmeister, 1839)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49441175",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anacanthotermes saudiensis": {
+  "gbif": {
+   "key": 9650500,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anacanthotermes saudiensis Chhotani & Bose, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "DB4P",
+   "status": "accepted",
+   "label": "Anacanthotermes saudiensis Chhotani & Bose, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125450104",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anacanthotermes sawensis": {
+  "gbif": {
+   "key": 9701076,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anacanthotermes sawensis Al-Alawy, Abdul-Rassoul & Al-Azawi, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "DB4Q",
+   "status": "accepted",
+   "label": "Anacanthotermes sawensis Al-Alawy, Abdul-Rassoul & Al-Azawi, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125450115",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anacanthotermes septentrionalis": {
+  "gbif": {
+   "key": 9681874,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anacanthotermes septentrionalis (Jacobson, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "DB4R",
+   "status": "accepted",
+   "label": "Anacanthotermes septentrionalis (Jacobson, 1905)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q125450161",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anacanthotermes turkestanicus": {
+  "gbif": {
+   "key": 9092883,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anacanthotermes turkestanicus (Jacobson, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "DB4S",
+   "status": "accepted",
+   "label": "Anacanthotermes turkestanicus (Jacobson, 1905)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q4466089",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anacanthotermes ubachi": {
+  "gbif": {
+   "key": 9790691,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anacanthotermes ubachi (Navás, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "DB4T",
+   "status": "accepted",
+   "label": "Anacanthotermes ubachi (Navás, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49441179",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anacanthotermes vagans": {
+  "gbif": {
+   "key": 9771738,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anacanthotermes vagans (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66J7W",
+   "status": "accepted",
+   "label": "Anacanthotermes vagans (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49441199",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anacanthotermes viarum": {
+  "gbif": {
+   "key": 9764145,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anacanthotermes viarum (König, 1779)",
+   "accepted": null
+  },
+  "col": {
+   "id": "DB4V",
+   "status": "accepted",
+   "label": "Anacanthotermes viarum (König, 1779)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30326280",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

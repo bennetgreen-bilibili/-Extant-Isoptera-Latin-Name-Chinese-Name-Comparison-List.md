@@ -1,0 +1,23 @@
+{
+ "latin": "Leptomyxotermes",
+ "zh": "薄喙白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Leptomyxotermes Sands, 1965c: 51.",
+ "type_species": "Eutermes doriae Silvestri, 1912 by original designation.",
+ "references": [
+  {
+   "ref": "Bouillon and Mathot, 1966: 2",
+   "note": "Leptomyxotermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 27",
+   "note": "Leptomyxotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 42, 272–274, figs. 1334–1350, pl. 17: fig. 4",
+   "note": "Leptomyxotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 6
+}

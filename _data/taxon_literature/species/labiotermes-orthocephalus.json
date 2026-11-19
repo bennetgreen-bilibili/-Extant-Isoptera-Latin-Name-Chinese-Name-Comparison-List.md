@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "异名与成虫描述",
+   "heading_en": "Synonymy and description of the alate",
+   "heading_es": "Sinonimia y descripción del alado",
+   "paragraphs": [
+    {
+     "src": [
+      "S0200"
+     ],
+     "text": "据摘要，Constantino 等（2006）把 <i>Paracornitermes caapora</i> 与 <i>Paracornitermes hirsutus</i> 并入直头厚唇白蚁（<i>Labiotermes orthocephalus</i>），并首次描述了该种的成虫（有翅繁殖蚁）；同属的埃默森厚唇白蚁（<i>Labiotermes emersoni</i>）也在该修订中首次得到成虫描述。",
+     "text_en": "According to the abstract, Constantino et al. (2006) synonymized <i>Paracornitermes caapora</i> and <i>Paracornitermes hirsutus</i> under <i>Labiotermes orthocephalus</i> and described the alate of this species for the first time; the alate of <i>Labiotermes emersoni</i> was also described for the first time in the same revision.",
+     "text_es": "Según el resumen, Constantino et al. (2006) sinonimizaron <i>Paracornitermes caapora</i> y <i>Paracornitermes hirsutus</i> bajo <i>Labiotermes orthocephalus</i> y describieron por primera vez el alado de esta especie; el alado de <i>Labiotermes emersoni</i> también se describió por primera vez en la misma revisión."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0200",
+   "citation": "Constantino, R., Acioli, A. N. S., Schmidt, K., Cuezzo, C., Carvalho, S. H. C. & Alexandre, A. (2006). A taxonomic revision of the Neotropical termite genera Labiotermes Holmgren and Paracornitermes Emerson (Isoptera, Termitidae, Syntermitinae). Zootaxa, 1340.",
+   "doi": "10.11646/zootaxa.1340.1.1"
+  }
+ ]
+}

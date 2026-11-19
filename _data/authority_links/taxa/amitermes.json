@@ -1,0 +1,2505 @@
+{
+ "Amitermes abruptus": {
+  "gbif": {
+   "key": 4803166,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes abruptus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "66C89",
+   "status": "accepted",
+   "label": "Amitermes abruptus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272273",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes accinctus": {
+  "gbif": {
+   "key": 4803171,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes accinctus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSB",
+   "status": "accepted",
+   "label": "Amitermes accinctus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272274",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes acinacifer": {
+  "gbif": {
+   "key": 9018635,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes acinacifer Sands, 1959",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSC",
+   "status": "accepted",
+   "label": "Amitermes acinacifer Sands, 1959",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722261",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes aduncus": {
+  "gbif": {
+   "key": 4803212,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes aduncus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSD",
+   "status": "accepted",
+   "label": "Amitermes aduncus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272275",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes agrilus": {
+  "gbif": {
+   "key": 4803192,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes agrilus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BVY",
+   "status": "accepted",
+   "label": "Amitermes agrilus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272276",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes amicki": {
+  "gbif": {
+   "key": 9756061,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes amicki Scheffrahn, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSF",
+   "status": "accepted",
+   "label": "Amitermes amicki Scheffrahn, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722262",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes amifer": {
+  "gbif": {
+   "key": 9028301,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes amifer Silvestri, 1901",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSG",
+   "status": "accepted",
+   "label": "Amitermes amifer Silvestri, 1901",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722263",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes aporema": {
+  "gbif": {
+   "key": 9683041,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes aporema Constantino, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSH",
+   "status": "accepted",
+   "label": "Amitermes aporema Constantino, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722264",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes arboreus": {
+  "gbif": {
+   "key": 4803172,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes arboreus Roisin, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSJ",
+   "status": "accepted",
+   "label": "Amitermes arboreus Roisin, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272277",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes arcuatus": {
+  "gbif": {
+   "key": 4803160,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes arcuatus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSK",
+   "status": "accepted",
+   "label": "Amitermes arcuatus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272278",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes baluchistanicus": {
+  "gbif": {
+   "key": 9766554,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes baluchistanicus Akhtar, 1974",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSL",
+   "status": "accepted",
+   "label": "Amitermes baluchistanicus Akhtar, 1974",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722265",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes bandeirai": {
+  "gbif": {
+   "key": 10783254,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes bandeirai Rocha & Cancello, 2020",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Amitermes Silvestri, 1901",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Amitermes basidens": {
+  "gbif": {
+   "key": 9788252,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes basidens (Sjöstedt, 1899)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSM",
+   "status": "accepted",
+   "label": "Amitermes basidens (Sjöstedt, 1899)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722266",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes beaumonti": {
+  "gbif": {
+   "key": 2007293,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes beaumonti Banks, 1918",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSN",
+   "status": "accepted",
+   "label": "Amitermes beaumonti Banks, 1918",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582639",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes belli": {
+  "gbif": {
+   "key": 9771267,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes belli (Desneux, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSP",
+   "status": "accepted",
+   "label": "Amitermes belli (Desneux, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722268",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes boreus": {
+  "gbif": {
+   "key": 4803191,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes boreus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSQ",
+   "status": "accepted",
+   "label": "Amitermes boreus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272280",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes braunsi": {
+  "gbif": {
+   "key": 9209781,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes braunsi (Fuller, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSR",
+   "status": "accepted",
+   "label": "Amitermes braunsi (Fuller, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722269",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes calabyi": {
+  "gbif": {
+   "key": 4803222,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes calabyi Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSST",
+   "status": "accepted",
+   "label": "Amitermes calabyi Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272281",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes californicus": {
+  "gbif": {
+   "key": 9157883,
+   "status": "SYNONYM",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes californicus Banks, 1920",
+   "accepted": {
+    "key": 2007289,
+    "name": "Amitermes wheeleri (Desneux, 1906)",
+    "status": null,
+    "rank": "SPECIES"
+   }
+  },
+  "col": {
+   "id": "8Q83Z",
+   "status": "synonym",
+   "label": "Amitermes californicus Banks, 1920",
+   "type": "variant",
+   "rank": "species",
+   "accepted": {
+    "id": "CSVV",
+    "label": "Amitermes wheeleri (Desneux, 1906)",
+    "name": "Amitermes wheeleri"
+   }
+  },
+  "flags": [
+   "gbif_synonym",
+   "col_synonym"
+  ],
+  "_d": "2026-10-31"
+ },
+ "Amitermes capito": {
+  "gbif": {
+   "key": 4803158,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes capito (Hill, 1935)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66C7Y",
+   "status": "accepted",
+   "label": "Amitermes capito (Hill, 1935)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272282",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes coachellae": {
+  "gbif": {
+   "key": 2007286,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes coachellae Light, 1930",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSV",
+   "status": "accepted",
+   "label": "Amitermes coachellae Light, 1930",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582638",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes colonus": {
+  "gbif": {
+   "key": 4803137,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes colonus (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSW",
+   "status": "accepted",
+   "label": "Amitermes colonus (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272283",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes conformis": {
+  "gbif": {
+   "key": 4803206,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes conformis Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSX",
+   "status": "accepted",
+   "label": "Amitermes conformis Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272284",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes corpulentus": {
+  "gbif": {
+   "key": 9737618,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes corpulentus Al-Azawi, Abdul-Rassoul & Al-Alawy, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSY",
+   "status": "accepted",
+   "label": "Amitermes corpulentus Al-Azawi, Abdul-Rassoul & Al-Alawy, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722270",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes cryptodon": {
+  "gbif": {
+   "key": 2007292,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes cryptodon Light, 1930",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSSZ",
+   "status": "accepted",
+   "label": "Amitermes cryptodon Light, 1930",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582642",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes darwini": {
+  "gbif": {
+   "key": 4803185,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes darwini (Hill, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CST2",
+   "status": "accepted",
+   "label": "Amitermes darwini (Hill, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272285",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes dentatus": {
+  "gbif": {
+   "key": 9151843,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes dentatus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CST3",
+   "status": "accepted",
+   "label": "Amitermes dentatus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722271",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes dentosus": {
+  "gbif": {
+   "key": 4803173,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes dentosus (Hill, 1935)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CST4",
+   "status": "accepted",
+   "label": "Amitermes dentosus (Hill, 1935)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272286",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes deplanatus": {
+  "gbif": {
+   "key": 4803215,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes deplanatus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CST5",
+   "status": "accepted",
+   "label": "Amitermes deplanatus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272287",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes desertorum": {
+  "gbif": {
+   "key": 9780566,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes desertorum (Desneux, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CST6",
+   "status": "accepted",
+   "label": "Amitermes desertorum (Desneux, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722273",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes emersoni": {
+  "gbif": {
+   "key": 2007290,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes emersoni Light, 1930",
+   "accepted": null
+  },
+  "col": {
+   "id": "CST7",
+   "status": "accepted",
+   "label": "Amitermes emersoni Light, 1930",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582637",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes ensifer": {
+  "gbif": {
+   "key": 2007297,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes ensifer Light, 1930",
+   "accepted": null
+  },
+  "col": {
+   "id": "CST8",
+   "status": "accepted",
+   "label": "Amitermes ensifer Light, 1930",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582641",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes eucalypti": {
+  "gbif": {
+   "key": 4803139,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes eucalypti (Hill, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CST9",
+   "status": "accepted",
+   "label": "Amitermes eucalypti (Hill, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272288",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes evuncifer": {
+  "gbif": {
+   "key": 8864711,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes evuncifer (Silvestri, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BWC",
+   "status": "accepted",
+   "label": "Amitermes evuncifer (Silvestri, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q124987274",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes excellens": {
+  "gbif": {
+   "key": 9384063,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes excellens (Silvestri, 1923)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTB",
+   "status": "accepted",
+   "label": "Amitermes excellens (Silvestri, 1923)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722274",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes exilis": {
+  "gbif": {
+   "key": 4803189,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes exilis (Hill, 1935)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTC",
+   "status": "accepted",
+   "label": "Amitermes exilis (Hill, 1935)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272290",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes falcatus": {
+  "gbif": {
+   "key": 4803167,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes falcatus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTD",
+   "status": "accepted",
+   "label": "Amitermes falcatus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272291",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes firmus": {
+  "gbif": {
+   "key": 4803146,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes firmus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "66C8C",
+   "status": "accepted",
+   "label": "Amitermes firmus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272292",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes foreli": {
+  "gbif": {
+   "key": 9712465,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes foreli Wasmann, 1902",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTG",
+   "status": "accepted",
+   "label": "Amitermes foreli Wasmann, 1902",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722275",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes gallagheri": {
+  "gbif": {
+   "key": 9707803,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes gallagheri Chhotani, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTH",
+   "status": "accepted",
+   "label": "Amitermes gallagheri Chhotani, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722276",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes germanus": {
+  "gbif": {
+   "key": 4803203,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes germanus (Hill, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTJ",
+   "status": "accepted",
+   "label": "Amitermes germanus (Hill, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272293",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes gestroanus": {
+  "gbif": {
+   "key": 9760704,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes gestroanus (Sjöstedt, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTK",
+   "status": "accepted",
+   "label": "Amitermes gestroanus (Sjöstedt, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722277",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes gracilis": {
+  "gbif": {
+   "key": 4803214,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes gracilis Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTL",
+   "status": "accepted",
+   "label": "Amitermes gracilis Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272294",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes guineensis": {
+  "gbif": {
+   "key": 9653855,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes guineensis Sands, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTN",
+   "status": "accepted",
+   "label": "Amitermes guineensis Sands, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722278",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes hartmeyeri": {
+  "gbif": {
+   "key": 4803154,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes hartmeyeri (Silvestri, 1909)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTP",
+   "status": "accepted",
+   "label": "Amitermes hartmeyeri (Silvestri, 1909)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272295",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes hastatus": {
+  "gbif": {
+   "key": 9678503,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes hastatus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTQ",
+   "status": "accepted",
+   "label": "Amitermes hastatus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes herbertensis": {
+  "gbif": {
+   "key": 4803193,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes herbertensis (Mjöberg, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTR",
+   "status": "accepted",
+   "label": "Amitermes herbertensis (Mjöberg, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49605448",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes heteraspis": {
+  "gbif": {
+   "key": 9674117,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes heteraspis (Silvestri, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTS",
+   "status": "accepted",
+   "label": "Amitermes heteraspis (Silvestri, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722279",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes heterognathus": {
+  "gbif": {
+   "key": 4803209,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes heterognathus (Silvestri, 1909)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTT",
+   "status": "accepted",
+   "label": "Amitermes heterognathus (Silvestri, 1909)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272296",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes importunus": {
+  "gbif": {
+   "key": 9174009,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes importunus Sands, 1959",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BWD",
+   "status": "accepted",
+   "label": "Amitermes importunus Sands, 1959",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722280",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes innoxius": {
+  "gbif": {
+   "key": 4803165,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes innoxius Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTV",
+   "status": "accepted",
+   "label": "Amitermes innoxius Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272297",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes inops": {
+  "gbif": {
+   "key": 4803170,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes inops Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTW",
+   "status": "accepted",
+   "label": "Amitermes inops Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272298",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes insolitus": {
+  "gbif": {
+   "key": 4803175,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes insolitus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTX",
+   "status": "accepted",
+   "label": "Amitermes insolitus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272299",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes inspissatus": {
+  "gbif": {
+   "key": 4803218,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes inspissatus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTY",
+   "status": "accepted",
+   "label": "Amitermes inspissatus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272301",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes iranicus": {
+  "gbif": {
+   "key": 9813129,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes iranicus Ghayourfar, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSTZ",
+   "status": "accepted",
+   "label": "Amitermes iranicus Ghayourfar, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722281",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes kavarattiensis": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Amitermes Silvestri, 1901",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "KZNDT",
+   "status": "accepted",
+   "label": "Amitermes kavarattiensis Sengupta, Rajmohana & Amina, 2023",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q129927946",
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Amitermes kharrazii": {
+  "gbif": {
+   "key": 9739232,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes kharrazii Ghayourfar, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "66C8D",
+   "status": "accepted",
+   "label": "Amitermes kharrazii Ghayourfar, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722282",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes lanceolatus": {
+  "gbif": {
+   "key": 4803211,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes lanceolatus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BWB",
+   "status": "accepted",
+   "label": "Amitermes lanceolatus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272302",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes latidens": {
+  "gbif": {
+   "key": 4803144,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes latidens (Mjöberg, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66C8B",
+   "status": "accepted",
+   "label": "Amitermes latidens (Mjöberg, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272303",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes lativentris": {
+  "gbif": {
+   "key": 4803219,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes lativentris (Mjöberg, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BXH",
+   "status": "accepted",
+   "label": "Amitermes lativentris (Mjöberg, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272304",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes laurensis": {
+  "gbif": {
+   "key": 4803161,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes laurensis (Mjöberg, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66C9H",
+   "status": "accepted",
+   "label": "Amitermes laurensis (Mjöberg, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272305",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes leptognathus": {
+  "gbif": {
+   "key": 4803142,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes leptognathus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BXF",
+   "status": "accepted",
+   "label": "Amitermes leptognathus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272308",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes lilloi": {
+  "gbif": {
+   "key": 10732126,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes lilloi Rocha & Cancello, 2020",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Amitermes Silvestri, 1901",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Amitermes loennbergianus": {
+  "gbif": {
+   "key": 9649392,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes loennbergianus (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66C9F",
+   "status": "accepted",
+   "label": "Amitermes loennbergianus (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722283",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes lunae": {
+  "gbif": {
+   "key": 9785303,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes lunae Huchet & Scheffrahn, 2010",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BXL",
+   "status": "accepted",
+   "label": "Amitermes lunae Huchet & Scheffrahn, 2010",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q25389050",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes meridionalis": {
+  "gbif": {
+   "key": 4803200,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes meridionalis (Froggatt, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66C9L",
+   "status": "accepted",
+   "label": "Amitermes meridionalis (Froggatt, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q15709388",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes messinae": {
+  "gbif": {
+   "key": 9733544,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes messinae (Fuller, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BXM",
+   "status": "accepted",
+   "label": "Amitermes messinae (Fuller, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722284",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes minimus": {
+  "gbif": {
+   "key": 2007287,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes minimus Light, 1932",
+   "accepted": null
+  },
+  "col": {
+   "id": "66C9M",
+   "status": "accepted",
+   "label": "Amitermes minimus Light, 1932",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582635",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes mitchelli": {
+  "gbif": {
+   "key": 9778770,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes mitchelli Sands, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BXJ",
+   "status": "accepted",
+   "label": "Amitermes mitchelli Sands, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722285",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes modicus": {
+  "gbif": {
+   "key": 4803223,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes modicus (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66C9J",
+   "status": "accepted",
+   "label": "Amitermes modicus (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272309",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes neogermanus": {
+  "gbif": {
+   "key": 4803187,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes neogermanus (Hill, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BXK",
+   "status": "accepted",
+   "label": "Amitermes neogermanus (Hill, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272310",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes obeuntis": {
+  "gbif": {
+   "key": 4803168,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes obeuntis (Silvestri, 1909)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66C9P",
+   "status": "accepted",
+   "label": "Amitermes obeuntis (Silvestri, 1909)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272311",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes obtusidens": {
+  "gbif": {
+   "key": 4803226,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes obtusidens (Mjöberg, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BXQ",
+   "status": "accepted",
+   "label": "Amitermes obtusidens (Mjöberg, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272312",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes pallidiceps": {
+  "gbif": {
+   "key": 4803198,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes pallidiceps Gay, 1969",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BY2",
+   "status": "accepted",
+   "label": "Amitermes pallidiceps Gay, 1969",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272314",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes pallidus": {
+  "gbif": {
+   "key": 2007295,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes pallidus Light, 1932",
+   "accepted": null
+  },
+  "col": {
+   "id": "66C9Q",
+   "status": "accepted",
+   "label": "Amitermes pallidus (Light, 1932)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582634",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes pandus": {
+  "gbif": {
+   "key": 4803199,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes pandus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BXN",
+   "status": "accepted",
+   "label": "Amitermes pandus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272315",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes papuanus": {
+  "gbif": {
+   "key": 9674244,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes papuanus Roisin, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "66C9N",
+   "status": "accepted",
+   "label": "Amitermes papuanus Roisin, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q104374816",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes paradentatus": {
+  "gbif": {
+   "key": 9718085,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes paradentatus Ahmad, 1955",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BXT",
+   "status": "accepted",
+   "label": "Amitermes paradentatus Ahmad, 1955",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722287",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes parallelus": {
+  "gbif": {
+   "key": 4803152,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes parallelus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BY5",
+   "status": "accepted",
+   "label": "Amitermes parallelus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272316",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes paravilis": {
+  "gbif": {
+   "key": 9650927,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes paravilis Akhtar & Raven, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "66C9T",
+   "status": "accepted",
+   "label": "Amitermes paravilis Ravan & Akhtar, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722288",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes parvidens": {
+  "gbif": {
+   "key": 4803136,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes parvidens Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BY6",
+   "status": "accepted",
+   "label": "Amitermes parvidens Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272318",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes parvulus": {
+  "gbif": {
+   "key": 2007288,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes parvulus Light, 1932",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BXR",
+   "status": "accepted",
+   "label": "Amitermes parvulus (Light, 1932)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582633",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes parvus": {
+  "gbif": {
+   "key": 4803216,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes parvus (Hill, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BY3",
+   "status": "accepted",
+   "label": "Amitermes parvus (Hill, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272319",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes paucinervius": {
+  "gbif": {
+   "key": 8789983,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes paucinervius (Silvestri, 1908)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66C9R",
+   "status": "accepted",
+   "label": "Amitermes paucinervius (Silvestri, 1908)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722289",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes pavidus": {
+  "gbif": {
+   "key": 4803207,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes pavidus (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BXS",
+   "status": "accepted",
+   "label": "Amitermes pavidus (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272320",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes perarmatus": {
+  "gbif": {
+   "key": 4803195,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes perarmatus (Silvestri, 1909)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSV2",
+   "status": "accepted",
+   "label": "Amitermes perarmatus (Silvestri, 1909)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272321",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes perelegans": {
+  "gbif": {
+   "key": 4803148,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes perelegans (Hill, 1935)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSV3",
+   "status": "accepted",
+   "label": "Amitermes perelegans (Hill, 1935)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272322",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes perryi": {
+  "gbif": {
+   "key": 4803225,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes perryi Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSV5",
+   "status": "accepted",
+   "label": "Amitermes perryi Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272323",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes procerus": {
+  "gbif": {
+   "key": 4803213,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes procerus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSV6",
+   "status": "accepted",
+   "label": "Amitermes procerus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272324",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes quadratus": {
+  "gbif": {
+   "key": 4803147,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes quadratus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSV7",
+   "status": "accepted",
+   "label": "Amitermes quadratus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272326",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes ravus": {
+  "gbif": {
+   "key": 4803179,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes ravus (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSV9",
+   "status": "accepted",
+   "label": "Amitermes ravus (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272327",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes rotundus": {
+  "gbif": {
+   "key": 4803197,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes rotundus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BY4",
+   "status": "accepted",
+   "label": "Amitermes rotundus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272328",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes sciangallorum": {
+  "gbif": {
+   "key": 9758950,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes sciangallorum Ghidini, 1941",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVB",
+   "status": "accepted",
+   "label": "Amitermes sciangallorum Ghidini, 1941",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722290",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes scopulus": {
+  "gbif": {
+   "key": 4803177,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes scopulus (Mjöberg, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVC",
+   "status": "accepted",
+   "label": "Amitermes scopulus (Mjöberg, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272329",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes seminotus": {
+  "gbif": {
+   "key": 8937645,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes seminotus (Silvestri, 1908)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVD",
+   "status": "accepted",
+   "label": "Amitermes seminotus (Silvestri, 1908)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722292",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes silvestrianus": {
+  "gbif": {
+   "key": 2007291,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes silvestrianus Light, 1930",
+   "accepted": null
+  },
+  "col": {
+   "id": "66C9S",
+   "status": "accepted",
+   "label": "Amitermes silvestrianus Light, 1930",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582631",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes snyderi": {
+  "gbif": {
+   "key": 2007296,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes snyderi Light, 1930",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVF",
+   "status": "accepted",
+   "label": "Amitermes snyderi Light, 1930",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582630",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes socotrensis": {
+  "gbif": {
+   "key": 9806666,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes socotrensis Harris, 1954",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVG",
+   "status": "accepted",
+   "label": "Amitermes socotrensis Harris, 1954",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49625933",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes somaliensis": {
+  "gbif": {
+   "key": 9751399,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes somaliensis Sjöstedt, 1927",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVH",
+   "status": "accepted",
+   "label": "Amitermes somaliensis Sjöstedt, 1927",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722293",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes spinifer": {
+  "gbif": {
+   "key": 9669832,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes spinifer (Silvestri, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVJ",
+   "status": "accepted",
+   "label": "Amitermes spinifer (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722294",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes stephensoni": {
+  "gbif": {
+   "key": 9679674,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes stephensoni Harris, 1957",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVK",
+   "status": "accepted",
+   "label": "Amitermes stephensoni Harris, 1957",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722295",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes subtilis": {
+  "gbif": {
+   "key": 4803153,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes subtilis Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVL",
+   "status": "accepted",
+   "label": "Amitermes subtilis Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272330",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes truncatidens": {
+  "gbif": {
+   "key": 8781947,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes truncatidens Sands, 1959",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVM",
+   "status": "accepted",
+   "label": "Amitermes truncatidens Sands, 1959",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722296",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes uncinatus": {
+  "gbif": {
+   "key": 4803202,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes uncinatus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVN",
+   "status": "accepted",
+   "label": "Amitermes uncinatus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272331",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes unidentatus": {
+  "gbif": {
+   "key": 9019544,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes unidentatus (Wasmann, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVP",
+   "status": "accepted",
+   "label": "Amitermes unidentatus (Wasmann, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722297",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes vicinus": {
+  "gbif": {
+   "key": 4803181,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes vicinus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVQ",
+   "status": "accepted",
+   "label": "Amitermes vicinus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272332",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes vilis": {
+  "gbif": {
+   "key": 9786435,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes vilis (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVR",
+   "status": "accepted",
+   "label": "Amitermes vilis (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722298",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes viriosus": {
+  "gbif": {
+   "key": 4803143,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes viriosus Gay, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVS",
+   "status": "accepted",
+   "label": "Amitermes viriosus Gay, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272333",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes vitiosus": {
+  "gbif": {
+   "key": 4803150,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes vitiosus (Hill, 1935)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVT",
+   "status": "accepted",
+   "label": "Amitermes vitiosus (Hill, 1935)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272334",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes westraliensis": {
+  "gbif": {
+   "key": 4803156,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes westraliensis (Hill, 1929)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66BWW",
+   "status": "accepted",
+   "label": "Amitermes westraliensis (Hill, 1929)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272336",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes wheeleri": {
+  "gbif": {
+   "key": 2007289,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes wheeleri (Desneux, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVV",
+   "status": "accepted",
+   "label": "Amitermes wheeleri (Desneux, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582640",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes xylophagus": {
+  "gbif": {
+   "key": 4803140,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes xylophagus (Hill, 1935)",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVW",
+   "status": "accepted",
+   "label": "Amitermes xylophagus (Hill, 1935)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272337",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amitermes yasujensis": {
+  "gbif": {
+   "key": 9731941,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amitermes yasujensis Ghayourfar, 2005",
+   "accepted": null
+  },
+  "col": {
+   "id": "CSVX",
+   "status": "accepted",
+   "label": "Amitermes yasujensis Ghayourfar, 2005",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130722299",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

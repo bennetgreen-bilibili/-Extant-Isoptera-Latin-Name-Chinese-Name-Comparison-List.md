@@ -1,0 +1,79 @@
+{
+ "latin": "Hirtitermes",
+ "zh": "多毛白蚁属",
+ "fetched_at": "2026-10-30T16:53:43Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2056255954",
+   "openalex_url": "https://openalex.org/W2056255954",
+   "doi": "10.1080/002229301317067647",
+   "doi_url": "https://doi.org/10.1080/002229301317067647",
+   "title": "A review of the South-East Asian Nasutitermitinae (Isoptera: Termidae), with descriptions of one new genus and a new species and including a key to the genera",
+   "year": 2001,
+   "date": "2001-10-01",
+   "authors": [
+    "F. J. Gathorne-Hardy"
+   ],
+   "venue": "Journal of Natural History",
+   "type": "article",
+   "language": "en",
+   "cited_by": 20,
+   "oa_url": "https://doi.org/10.1080/002229301317067647",
+   "volume": "35",
+   "issue": "10",
+   "pages": "1485-1506",
+   "abstract": "This paper describes Snootitermes leuserensis, gen. et sp. nov. (collected from the Leuser Ecosystem, Sumatra), Hirtitermes brabazoni sp. nov. (collected from north Sulawesi) and the major soldier of Ceylonitermes indicola. It also includes a revised generic key to the Nasutitermitinae of Peninsular Malaysia, Java, Sumatra and Borneo and reassigns the South-East Asian Subulitermes-group of termites to the Nasutitermes-group. Aciculioiditermes denticulatus and A. sarawakensis are considered to be junior synonyms of Aciculioiditermes holmgreni. The genera Aciculioiditermes and Proaciculitermes are considered to be junior synonyms of Malaysiotermes. Therefore Aciculioiditermes holmgreni, Proaciculitermes orientalis, P. sabahensis, P. malayanus and P. lowi are all Malaysiotermes species. Tho's (1982, 1992) unpublished new genus (Genus A) is considered to be a new species of Ceylonitermes. Oriensubulitermes borneensis is shown to be a Subulioiditermes species, S. borneensis. Nasutitermes matangensiformis is shown to be a junior synonym of N. matangensis. Havilanditermes is shown to be a junior synonym of Nasutitermes.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1130,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2582933572",
+   "openalex_url": "https://openalex.org/W2582933572",
+   "doi": "",
+   "doi_url": "",
+   "title": "JENIS RAYAP DAN PENYEBARANNYA PADA KETINGGIAN BERBEDA DI KAWASAN EKOSISTEM SEULAWAH",
+   "year": 2016,
+   "date": "2016-10-20",
+   "authors": [
+    "Farid Aditya"
+   ],
+   "venue": "Electronic theses and dissertations (Syiah Kuala University)",
+   "type": "article",
+   "language": "ms",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "1",
+   "issue": "1",
+   "pages": "",
+   "abstract": "ABSTRAK Penelitian jenis rayap dan penyebarannya pada ketinggian berbeda di Kawasan Ekosistem Seulawah telah dilakukan pada bulan Februari – Juli 2016. Tujuan penelitian ini adalah untuk mengetahui jenis rayap yang ditemukan pada zonasi ketinggian tempat yang berbeda di hutan Kawasan Ekosistem Seulawah (KES). Penelitian ini menggunakan metode survei eksploratif dan teknik belt transek yang dibagi ke dalam 20 bagian dengan panjang 5 m dan lebar 2 m pada setiap bagian. Pengambilan sampel dilakukan pada lima zonasi ketinggian yang berbeda, yaitu 200 mdpl, 400 mdpl, 600 mdpl, 800 mdpl, dan 1000 mdpl. Hasil penelitian menunjukkan bahwa ditemukan 22 jenis yang berasal dari 14 genus rayap. Genus yang ditemukan adalah Bulbitermes, Nasutitermes, Hirtitermes, Odontotermes, Longipeditermes, Hospitalitermes, Microtermes, Macrotermes, Microcerotermes, Schedorhinotermes, Havilanditermes, Coptotermes, Pericapritermes, dan Hypotermes. Jenis rayap dari genus Bulbitermes paling banyak ditemukan dalam penelitian ini. Sedangkan Microtermes pakistanicus adalah jenis rayap yang ditemukan pada semua zona ketinggian, kecuali 1000 mdpl. Kondisi lingkungan yang berbeda pada setiap ketinggian diduga mempengaruhi penyebaran jenis rayap di kawasan hutan Ekosistem Seulawah. Kata kunci: Ketinggian, Rayap, Ekosistem Seulawah. ABSTRACT In February-July 2016 a number of surveys have been type of termite and distribution at different altitude in Seulawah Ecosystem, Aceh Province. Specimens were collected by adopting a explorative survey and Standardized Sampling Protocol (belt transect) at 200 m, 400 m, 600 m, 800 m and 1000 m in altitudes. As many as 22 species and 14 genera (Bulbitermes, Nasutitermes, Hirtitermes, Odontotermes, Longipeditermes, Hospitalitermes, Microtermes, Macrotermes, Microcerotermes, Schedorhinotermes, Havilanditermes, Coptotermes, Pericapritermes, and Hypotermes) collected from difference altitudes. Termite species of the genera Bulbitermes most commonly found in this survey. While Microtermes pakistanicus is termite species found in all elevation zones, except in 1000 m. I found that altitudes effected on species diversity of termites in Seulawah Ecosystem. Environmental factors affected termite species richness at the ecosystem. Keywords: Altitude, Termite, Seulawah Ecosystem",
+   "abstract_source": "openalex",
+   "abstract_chars": 2306,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2414909662",
+   "openalex_url": "https://openalex.org/W2414909662",
+   "doi": "",
+   "doi_url": "",
+   "title": "The diverstiy of termite fauna (order: isoptera) at Mahua, Crocker Range Park, Sabah",
+   "year": 2011,
+   "date": "2011-01-01",
+   "authors": [
+    "Nivaarani Arumugam"
+   ],
+   "venue": "",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "This research was carried out to determine the termite diversity and abundance at Mahua. A pictorial identification key was developed for termite fauna for general use and non-taxonomist. Mahua is a primary forest that located at Crocker Range Park, Sabah. A standardised belt transect (100m x 2m) is used for termite sampling. Three transects were run around the area of Mahua. A total of 19 species from 15 genera were collected in this study. The termite species comprises of family Rhinotermitidae (three species, two genera) and Termitidae (16 species, 13 genera). Shannon-Wiener Diversity Index shows higher termite diversity at Mahua. There were also more evenness among the termite species in the area. Relative abundance of termite species at Mahua was 150. Sub-family Termitinae was the sub-family with higher diversity (ten species) and abundance (107 hits) collected in this study. Species Pericapritermes dolichocephalus (John) found abundant at Mahua with 44 hits. There were also some rare species like Hirtitermes spinocephalus (Oshima), Nasutitermes neoparvus Thapa and Pericapritermes paraspeciosus Thapa, which found only once or twice at Mahua. Moreover, wood-feeders and hypogeal nest-builders dominated the termite assemblages. This feeders play an important role in the wood decomposition process in the forest. Identified termite species from previous study were also included in this study in order to construct the pictorial identification key. Cluster analysis was done for these termites. A pictorial identification key was constructed for 26 termite species using soldier morphology that were identified from cluster analysis. There were twelve new records of termite species for Mahua recorded in this study. Hence, the termite species list of Mahua is updated through this study. Termites play an important role in ecosystem of Mahua. Further research need to be done to identify factor that influence the abundance of termites at Mahua.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1968,
+   "abstract_truncated": false
+  }
+ ]
+}

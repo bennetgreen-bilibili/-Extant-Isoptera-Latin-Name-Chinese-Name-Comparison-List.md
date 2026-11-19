@@ -1,0 +1,21 @@
+{
+ "note": "Description after the original text of Holmgren 1912 (page images of the archive.org item biostor-184513, p. 55). In the original, Rhynchotermes is a subgenus of Armitermes (Untergattung), with no separate genus-level description: only three key characters (one each for the alate, soldier and worker) and one species, so each section is very short and does not go beyond what the key provides.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Established by Holmgren 1912 as a subgenus of Armitermes (Rhynchotermes n. subg.), at that time containing only the species nasutissimus (Mato Grosso, Paraguay, Bolivia). The differences from the other subgenera of the genus are given in the key: in the alate mandibular tooth 1 and tooth 2 are equal in size, the antennae have 14 segments and segment 3 is longer than the adjacent ones; in the soldier the mandibles are fairly robust and very strongly curved, with a quadrangular tooth in the middle, a very well-developed base bearing a sharp molar prominence, the 'nasus' (frontal tube) very long, and each fore coxa with a tooth-like projection; in the worker mandibular tooth 1 and tooth 2 are equal in length."
+  },
+  {
+   "label": "Alate",
+   "text": "Mandibular tooth 1 and tooth 2 equal in size; antennae of 14 segments, segment 3 longer than the adjacent ones."
+  },
+  {
+   "label": "Soldier",
+   "text": "Mandibles fairly robust, very strongly curved, with a quadrangular tooth in the middle; the base very strongly developed, with a sharp molar prominence. The 'nasus' (frontal tube) very long. Each fore coxa with a tooth-like projection."
+  },
+  {
+   "label": "Worker",
+   "text": "Mandibular tooth 1 and tooth 2 equal in length. The original gives only this single key character for the worker of the subgenus, without further description."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "latin": "Machadotermes",
+ "zh": "剑白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Machadotermes Weidner, 1974: 29.",
+ "type_species": "Machadotermes inflatus Weidner, 1974 by original designation.",
+ "references": [
+  {
+   "ref": "Sands, 1998: 52, 117–119, figs. 311–321, pl. 3: fig. 4",
+   "note": "Machadotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 1
+}

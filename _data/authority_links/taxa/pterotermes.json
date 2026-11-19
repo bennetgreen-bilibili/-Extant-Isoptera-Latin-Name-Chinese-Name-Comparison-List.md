@@ -1,0 +1,24 @@
+{
+ "Pterotermes occidentis": {
+  "gbif": {
+   "key": 2007358,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pterotermes occidentis (Walker, 1853)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4Q6NT",
+   "status": "accepted",
+   "label": "Pterotermes occidentis (Walker, 1853)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582588",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

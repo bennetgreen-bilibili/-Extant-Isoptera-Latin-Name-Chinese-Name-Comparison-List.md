@@ -1,0 +1,13 @@
+{
+ "Enetotermes bembicoides": {
+  "label": "Enetotermes bembicoides Sands, 1995",
+  "match": "exact",
+  "notes": "",
+  "otu": 84434,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84434/overview",
+  "valid_label": null,
+  "valid_otu": 84434,
+  "verified": false
+ }
+}

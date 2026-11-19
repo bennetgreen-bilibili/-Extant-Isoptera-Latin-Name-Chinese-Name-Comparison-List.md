@@ -32,8 +32,8 @@
 - 界面文案唯一来源：`_data/i18n.yml`（导航、页脚、页头副标题、语言切换名、回到顶部、页头品牌）。**新增一门语言**只需：① 这里加一个语言键；② `_config.yml` 加 `title_xx`（页头主标题）；③ 建 `xx/` 目录下与根目录一一对应的页面（`lang: xx` + `permalink: /xx/…/`）。模板、hreflang、语言切换、sitemap 脚本都不用改（`build_sitemap_txt.py` 会自动收录新目录）。
 - 页面标题：标签页 `<title>` 只显示本页语言（各页 front matter 的 `title`）；页头显示双语标题——主行＝本页语言（`title_zh` / `title_en` / `title_es`），副行＝另一语言（中文页→英文，英文页→中文，西语页→英文），副行只出现在页头。
 - 物种页 `_species/`、`en/species/`、`es/species/` 三语各一页（见下文「物种页」），每页只放本语言内容；文章 `_posts/` 目前只有中文，不显示语言切换（English/Español 切到 `/en/blog/`、`/es/blog/`），标题为中文标题。
-- 名录索引与译文页：三语 `/list/`（`list.md` 563 行、`en/list.md` 与 `es/list.md` 各 565 行，锚点集合三语同构）只承担索引职能；科／亚科正文的英译、西译同时写进各语言的科页（`/en/family/…`、`/es/family/…`），并在 `/en/list/sections/`、`/es/list/sections/` 保留合订本（各 466 行）。这 5 个页面全部由 `_tools/build_list_index.py` 从 `_data/taxonomy.json`、`_data/list_index_blocks.json`、`_data/taxon_prose.json` 确定性生成，**不要手改**；改分类层级改前者，改索引页导语／按科浏览／参考文献改中者，改科亚科正文改后者。描述性段落为机器翻译初稿，建议母语者校对后再定稿。
-- 分类页与物种页按语言拆成独立页面（2026-11-12 起）：科／亚科／属／物种四类都是「一语言一页」——中文 `/family/<id>/`、英文 `/en/family/<id>/`、西文 `/es/family/<id>/`（subfamily / genus / species，以及各单元的 `…/photos/` 图片页同构）。页内只有本语言正文，不再出现 `.fact-en` / `.fact-es` 小字或 `EN —` / `ES —` 段；front matter 带 `single_lang: true`（物种页另带 `layout: species` + `species_page: true`）。生成器 `.github/workflows/build_taxonomy_pages.py`、`build_species_body.py`、`build_photo_pages.py` 一次写三份；页内译文取自 `_data/translations_en.json` / `_data/translations_es.json`（顶层键 meta / morphology_genera / morphology_species / fauna_families / fauna_genera / fauna_species / fauna_keys，键与原数据文件一致），某条译文缺失时该小节整块省略、页首挂 `<aside class="lang-note">` 单语提示（`page.translation_pending`），**不回退中文**。译文覆盖率与数字对账：`python _tools/translations_merge.py --all --check-only`；页面契约（三语齐备 / permalink / 无三语残留 / 外文页无中文句子 / 站内链带语言前缀）：`python _tools/check_lang_pages.py --ci`。
+- 名录索引与译文页：三语 `/list/`（`list.md` 563 行、`en/list.md` 与 `es/list.md` 各 565 行，锚点集合三语同构）只承担索引职能；科／亚科正文的英译、西译同时写进各语言的科页（`/en/family/…`、`/es/family/…`），并在 `/en/list/sections/`、`/es/list/sections/` 保留合订本（各 466 行）。这 5 个页面全部由 `_tools/build_list_index.py` 从 `_data/taxonomy.json`、`_data/list_index_blocks.json`、`_data/taxon_prose/` 确定性生成，**不要手改**；改分类层级改前者，改索引页导语／按科浏览／参考文献改中者，改科亚科正文改后者。描述性段落为机器翻译初稿，建议母语者校对后再定稿。
+- 分类页与物种页按语言拆成独立页面（2026-11-12 起）：科／亚科／属／物种四类都是「一语言一页」——中文 `/family/<id>/`、英文 `/en/family/<id>/`、西文 `/es/family/<id>/`（subfamily / genus / species，以及各单元的 `…/photos/` 图片页同构）。页内只有本语言正文，不再出现 `.fact-en` / `.fact-es` 小字或 `EN —` / `ES —` 段；front matter 带 `single_lang: true`（物种页另带 `layout: species` + `species_page: true`）。生成器 `.github/workflows/build_taxonomy_pages.py`、`build_species_body.py`、`build_photo_pages.py` 一次写三份；页内译文取自 `_data/translations_en/` / `_data/translations_es/`（顶层键 meta / morphology_genera / morphology_species / fauna_families / fauna_genera / fauna_species / fauna_keys，键与原数据文件一致），某条译文缺失时该小节整块省略、页首挂 `<aside class="lang-note">` 单语提示（`page.translation_pending`），**不回退中文**。译文覆盖率与数字对账：`python _tools/translations_merge.py --all --check-only`；页面契约（三语齐备 / permalink / 无三语残留 / 外文页无中文句子 / 站内链带语言前缀）：`python _tools/check_lang_pages.py --ci`。
 
 ## 结构化数据（按类群拆分）
 - 页面：`data.md`（/data/，列出全部文件及白蚁科 18 亚科的逐文件链接）
@@ -118,11 +118,11 @@
 - 摘要：OpenAlex `abstract_inverted_index` 按词位置还原；Crossref JATS 摘要去标签补缺；单条缺摘要时可点「尝试获取摘要」再查 Crossref / Semantic Scholar。**只使用开放元数据，不抓出版社页面 / PDF，也不抓知网**；摘要版权归原作者 / 出版方，页面注明来源。
 - 摘要翻译：结果卡带「目标语言（中文 / English / Español）+ 翻译摘要」控件，**纯前端直连 MyMemory**（CORS 开放、无密钥、单次 500 字符、按访客 IP 约 5000 字符/天）；按 420 字节分块翻译。**中英互译时用「名录 + 术语表」干预**：3428 条拉丁名⇄中文正名（含 905 个次异名）把学名遮蔽后还原，中文译文首现写成「中文名（拉丁名）」；`_data/translation_glossary.yml` 提供遮蔽术语（**含 90 条昆虫形态/解剖词**：head capsule→头壳、pronotum→前胸背板、antenna→触角、tarsus→跗节、gizzard armature→砂囊结构…；以及 fungus comb→菌圃 等）与中文错译纠正（工人→工蚁、殖民地→巢群、头舱→头壳，带原文守卫）。译文按「原文 + 方向 + 术语表版本」写入 `localStorage` 缓存。额度用尽依次回退站点邮箱额度与 Google 非官方接口，都失败时给 Google / Bing 外部翻译链接。可在 `#papers-app` 配 `data-translate-url`（+ `data-translate-key`）改用自建 LibreTranslate 兼容服务。
 - 引用导出：每条结果可复制 GB/T 7714、BibTeX、RIS；外链预填 Google Scholar / CNKI / 万方 / 百度学术 / BHL / OpenAlex / Crossref。
-- 缓存：`build_papers.py` 按 326 个属查询 OpenAlex（每属 12 条）并补 Crossref 摘要，生成 `_data/papers.json`（物种页静态渲染）与公开副本 `papers-index.json`（`/papers/` 断网兜底）；两者字节一致，`--check` 离线校验。物种页「相关文献」显示本属 top 3 与完整摘要。
+- 缓存：`build_papers.py` 按 326 个属查询 OpenAlex（每属 12 条）并补 Crossref 摘要，生成 `_data/papers/`（物种页静态渲染）与公开副本 `papers-index.json`（`/papers/` 断网兜底）；两者字节一致，`--check` 离线校验。物种页「相关文献」显示本属 top 3 与完整摘要。
 - 覆盖率：本次缓存 1540 条中 1053 条有摘要（68.4%），页面会明确显示「暂无摘要」并给出 DOI / OpenAlex / 外部平台链接；不保证 100%。
 - 额度与回退：OpenAlex 无 API key 时按出口 IP 共享每日免费额度；额度用尽会 429，`build_papers.py` 自动回退 Crossref（摘要覆盖率会降低）。设置 `OPENALEX_API_KEY` 可走自己的额度；也可用 `--crossref-only` 直接只用 Crossref。
 - 刷新：`python .github/workflows/build_papers.py --write`（只补缺失 / 过期）、`--force`（全部重查）、`--refresh --stale-days 180 --time-budget 300`；断点缓存在 `_tmp/papers-cache.json`（不提交）。方法、许可与限制见 `_tools/文献检索器说明.md`。
-- 定时刷新：`.github/workflows/papers_refresh.yml` 每天 03:47 UTC 用 GitHub Secret `OPENALEX_API_KEY` 增量刷新（默认 30 天 / 300 秒预算），自动提交 `_data/papers.json` 与 `papers-index.json` 并触发 Pages；手动触发可勾选 `force` 全量重查。**没有 key 时不要开启每日定时**（只会走 Crossref 回退，且 runner 共享 IP 仍可能 429）。
+- 定时刷新：`.github/workflows/papers_refresh.yml` 每天 03:47 UTC 用 GitHub Secret `OPENALEX_API_KEY` 增量刷新（默认 30 天 / 300 秒预算），自动提交 `_data/papers/` 与 `papers-index.json` 并触发 Pages；手动触发可勾选 `force` 全量重查。**没有 key 时不要开启每日定时**（只会走 Crossref 回退，且 runner 共享 IP 仍可能 429）。
 
 ### 8. 系统发育树：`/phylogeny/`（暂缓发布）（三语，`assets/phylogeny.js` + `_data/phylogeny.json`）
 
@@ -144,12 +144,12 @@
 
 | 功能 | 生成脚本 | 数据缓存 | 页面/模板 |
 |---|---|---|---|
-| 其它数据库外链 + 一致性提示 | `.github/workflows/build_authority_links.py` | `_data/authority_links.json` | `_includes/species-authority.html`、物种页、`/data/#authority` |
-| 世界名录对照（Blattodea Species File） | `.github/workflows/build_bsf_links.py` | `_data/bsf_links.json` + `_tools/bsf对照/工作表.csv` | 物种页「其他数据库」区块 |
-| 开放图片图集与「全部图片页」（CC0 / CC BY / CC BY-SA / 公有领域） | `.github/workflows/build_species_photos.py` + `.github/workflows/crawl_species_photos_loop.py`（循环爬取，`.github/workflows/species_photos_crawl.yml` 每天自动跑）→ `.github/workflows/build_photo_pages.py` 派生 `/photos/` 页面 | `_data/species_photos.json`、`_data/photo_taxa.json` | `_includes/species-gallery.html`、`_includes/taxon-photos.html`、`_layouts/photos.html`、PhotoSwipe 灯箱 |
+| 其它数据库外链 + 一致性提示 | `.github/workflows/build_authority_links.py` | `_data/authority_links/` | `_includes/species-authority.html`、物种页、`/data/#authority` |
+| 世界名录对照（Blattodea Species File） | `.github/workflows/build_bsf_links.py` | `_data/bsf_links/` + `_tools/bsf对照/工作表.csv` | 物种页「其他数据库」区块 |
+| 开放图片图集与「全部图片页」（CC0 / CC BY / CC BY-SA / 公有领域） | `.github/workflows/build_species_photos.py` + `.github/workflows/crawl_species_photos_loop.py`（循环爬取，`.github/workflows/species_photos_crawl.yml` 每天自动跑）→ `.github/workflows/build_photo_pages.py` 派生 `/photos/` 页面 | `_data/species_photos/`、`_data/photo_taxa.json` | `_includes/species-gallery.html`、`_includes/taxon-photos.html`、`_layouts/photos.html`、PhotoSwipe 灯箱 |
 | 分布图（GBIF occurrence → GeoJSON） | `.github/workflows/build_occurrence_geojson.py` | `assets/geo/{family,genus,species}/**` + `_data/occurrence_summary.json` | 科／亚科／属页面标题下方、物种页种级地图（`_includes/distribution-map.html`） |
 | 文献增强（Crossref，可选 BHL） | `.github/workflows/build_references.py` | `_data/references.json`（+ 公开副本 `data/references.json`） | 名录索引页底部 `#references-doi`（`_includes/references.html`） |
-| schema.org 实体图 | 模板内生成（无需脚本） | `_data/authority_links.json`、`_data/bsf_links.json` | `_includes/species-jsonld.html`、首页 Dataset JSON-LD |
+| schema.org 实体图 | 模板内生成（无需脚本） | `_data/authority_links/`、`_data/bsf_links/` | `_includes/species-jsonld.html`、首页 Dataset JSON-LD |
 | 分类树结构化数据 + 三语统计页 | `_tools/build_taxonomy_data.py` | 无（直接读 `_data/taxonomy.json` + `_species/` front matter） | `isoptera-data.json`、`data/index.json`、`data/*.json`、`stats.md` / `en/stats.md` / `es/stats.md` |
 | 命名差异看板（名称差异 / 匹配存疑 / 覆盖缺口 + 逐对关系/方向/补录） | `.github/workflows/build_name_issues.py` | `_data/name_issues.json` + 公开副本 `data/name-issues.json`；人工核对备注 `_data/name_issue_reviews.json` | `/list/name-issues/` 及英/西语版、`downloads/isoptera-name-issues.csv`、`downloads/isoptera-synonym-pairs.csv`、物种页「其他数据库」区块（incoming / outgoing） |
 
@@ -181,7 +181,7 @@
 - 图片热链回原站、不复制入库；没有符合许可的照片的物种不显示该区块。
 - **有多少抓多少**：抓取侧已取消「每物种最多 6 张」的旧上限（现仅保留 `MAX_PHOTOS = 120` 作为单物种病态膨胀的安全阀），两个源都翻页取全。
 - **三层呈现**：物种页只放前 6 张 + 「查看全部 N 张 →」；科／亚科／属页放跨种扁平预览 6 张 + 「查看全部 N 张 →」；`/species/<slug>/photos/`、`/genus/<id>/photos/`、`/subfamily/<id>/photos/`、`/family/<id>/photos/` 是完整图集——分类单元图片页按种分组、每种 6 张再链到该种图片页，避免白蚁科（1918 张 / 106 种）一次性铺满。
-- **循环爬取**：`python .github/workflows/crawl_species_photos_loop.py --round-budget 900` 会一轮接一轮地补，每轮限时、轮间休息，连续几轮没进度就自动停；`_data/species_photos.json` 本身就是断点缓存，随时可以中断。GitHub Actions 工作流 `.github/workflows/species_photos_crawl.yml` 每天 03:17 UTC 自动跑一次，也可以手动触发（可选只抓某个源、或忽略缓存重扫许可）。
+- **循环爬取**：`python .github/workflows/crawl_species_photos_loop.py --round-budget 900` 会一轮接一轮地补，每轮限时、轮间休息，连续几轮没进度就自动停；`_data/species_photos/` 本身就是断点缓存，随时可以中断。GitHub Actions 工作流 `.github/workflows/species_photos_crawl.yml` 每天 03:17 UTC 自动跑一次，也可以手动触发（可选只抓某个源、或忽略缓存重扫许可）。
 - 公有领域文件常常没有作者信息，本站如实写「author not stated」而**不猜测作者**；细节与刷新方式见 `_tools/图片授权与署名说明.md`。
 
 ### 4. 分布图（GBIF occurrence → GeoJSON + Leaflet，内嵌在名录与物种页）
@@ -202,7 +202,7 @@
 ### 7. 命名差异与待核对看板（/list/name-issues/）
 
 - 位置：名录索引页（`/list/`）下一级，三语各一页；从名录索引页搜索框下方与每个物种页「其他数据库」区块底部进入。
-- 内容：把 `_data/authority_links.json` 与 `_data/bsf_links.json` 里需要人工注意的对照结果整理成清单，按三类分组：**名称差异**（外部库把本站名当异名，给出接受名）、**匹配存疑**（模糊匹配 / BSF 多重候选）、**覆盖缺口**（仅上级阶元 / 未收录 / 未检索到）；当前 289 条，涉及 194 个种/亚种。
+- 内容：把 `_data/authority_links/` 与 `_data/bsf_links/` 里需要人工注意的对照结果整理成清单，按三类分组：**名称差异**（外部库把本站名当异名，给出接受名）、**匹配存疑**（模糊匹配 / BSF 多重候选）、**覆盖缺口**（仅上级阶元 / 未收录 / 未检索到）；当前 289 条，涉及 194 个种/亚种。
 - 逐对归并（「把异名记录到对应的接收名下面」）：7 条名称差异整理成 **7 对「本站名 ↔ 外部库主张的接受名」**（同一对多库只算一次），逐对判定两件事：
   - **关系**：加词不同 = 「异名」0 对；同种异属（只是换了属）= 「组合差异」7 对——组合差异不算异名。GBIF 常把本站采用的属并入旧属、把本站名写成它认为的「接受名」，方向容易写反，所以不能一律按外部接受名归并。
   - **方向（接收名）**：逐库按**物种级**结论投票（仅上级阶元 / 模糊匹配 / 未收录都不计票）。真异名：没有任何库说本站名是接受名 → 外部接受名为接收名；组合差异：多数库采用本站名 → **本站名为接收名**，否则「方向待定」。当前 7 对里：外部名为接收名 0 对、本站名为接收名 6 对、方向待定 1 对（6 对存在库间分歧）。
@@ -284,7 +284,7 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
 ## 物种页正文（自动生成）
 - 生成器：`.github/workflows/build_species_body.py`。把 front matter（学名、中文正名、命名人年份、模式产地、分布、异名、依外部权威库补录的异名、亚种）+ `isoptera-data.json`（属内种数、模式属模式种）+ `data/index.json`（科/亚科计数、数据文件路径）写成每个物种页的正文：**摘要 / 分类位置 / 分布 / 次异名 / 亚种**（每页 800–3900 字，3089 条摘要句互不相同）。
 - 内容只写在 `<!-- AUTO:BEGIN -->` 与 `<!-- AUTO:END -->` 两个标记之间。标记**外**的文字可以随意手写（生态习性、照片说明、考证），脚本永远不会覆盖。
-- 三语版本由同一生成器一次写出：中文 `_species/<slug>.md`、英文 `en/species/<slug>.md`、西文 `es/species/<slug>.md`。三份都由脚本整篇写出，**不要直接手改** `en/species/`、`es/species/`；要补英文/西文内容请改 `_data/fauna_species.json`、`_data/morphology_species.json` 或 `_data/translations_*.json`（见「多语言」一节）。页内不再写 `class="fact-en"` / `class="fact-es"` 并列段落——那是拆分前的旧做法，`check_lang_pages.py` 会报错。
+- 三语版本由同一生成器一次写出：中文 `_species/<slug>.md`、英文 `en/species/<slug>.md`、西文 `es/species/<slug>.md`。三份都由脚本整篇写出，**不要直接手改** `en/species/`、`es/species/`；要补英文/西文内容请改 `_data/fauna_species/`、`_data/morphology_species/` 或 `_data/translations_en/` 与 `_data/translations_es/`（见「多语言」一节）。页内不再写 `class="fact-en"` / `class="fact-es"` 并列段落——那是拆分前的旧做法，`check_lang_pages.py` 会报错。
 - 幂等：脚本重复运行零改动，因此更新数据后重新生成时，**只有源数据真正变了的页面才会产生 diff**。
 - 用法：`python .github/workflows/build_species_body.py`（只统计、不写文件）、`--write`（写回 `_species/*.md`）、`--sample <slug>...`（打印生成结果）、`--check-idempotent`。
 - CI 中位于 `pages.yml` 的「Build species page bodies」步骤，在 Jekyll 构建前执行，保证数据变更后正文同步。

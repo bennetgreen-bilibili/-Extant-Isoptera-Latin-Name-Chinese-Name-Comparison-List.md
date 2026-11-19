@@ -1,0 +1,19 @@
+{
+ "latin": "Arcotermes",
+ "zh": "弧白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Arcotermes Fan, 1983: 205, 210.",
+ "type_species": "Arcotermes tubus Fan, 1983 by original designation.",
+ "references": [
+  {
+   "ref": "Huang et al., 1989: 391, 539",
+   "note": "Arcotermes; key; characters; distribution."
+  },
+  {
+   "ref": "Huang et al., 2000: 547, 776",
+   "note": "Arcotermes; key; characters; distribution."
+  }
+ ],
+ "nrefs": 2
+}

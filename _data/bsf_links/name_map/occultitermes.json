@@ -1,0 +1,24 @@
+{
+ "Occultitermes aridus": {
+  "label": "Occultitermes aridus Gay, 1977",
+  "match": "exact",
+  "notes": "",
+  "otu": 84832,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84832/overview",
+  "valid_label": null,
+  "valid_otu": 84832,
+  "verified": false
+ },
+ "Occultitermes occultus": {
+  "label": "Occultitermes occultus (Hill, 1927)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84833,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84833/overview",
+  "valid_label": null,
+  "valid_otu": 84833,
+  "verified": false
+ }
+}

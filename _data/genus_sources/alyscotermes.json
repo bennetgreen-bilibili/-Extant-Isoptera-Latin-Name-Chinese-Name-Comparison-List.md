@@ -1,0 +1,15 @@
+{
+ "latin": "Alyscotermes",
+ "zh": "逃白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Alyscotermes Sands, 1972: 125.",
+ "type_species": "Eutermes kilimandjaricus Sjöstedt, 1907 by original designation.",
+ "references": [
+  {
+   "ref": "Sands, 1998: 57, 150–153, figs. 443–450, pl. 5: figs. 4–6",
+   "note": "Alyscotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 5
+}

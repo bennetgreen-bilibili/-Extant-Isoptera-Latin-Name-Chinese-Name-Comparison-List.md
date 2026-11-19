@@ -1,0 +1,58 @@
+{
+ "book_n": "83",
+ "book_name": "台湾乳白蚁 Coptotermes",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "台湾乳白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.43–1.68"
+    },
+    {
+     "key": "head_max_width",
+     "value": "1.07–1.25"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "0.90–1.05"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "0.93–1.00"
+    },
+    {
+     "key": "postmentum_max_width",
+     "value": "0.37–0.43"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.21–0.26"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.38–0.50"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.80–0.94"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "0.90–1.05"
+    },
+    {
+     "key": "antennal_segments",
+     "value": "14–15"
+    }
+   ],
+   "src_file": "301-400.txt",
+   "src_line": 565,
+   "unit": "mm"
+  }
+ ]
+}

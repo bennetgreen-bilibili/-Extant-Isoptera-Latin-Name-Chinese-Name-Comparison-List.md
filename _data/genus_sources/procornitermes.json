@@ -1,0 +1,43 @@
+{
+ "latin": "Procornitermes",
+ "zh": "前角白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Procornitermes Emerson, 1949j: 260, 375.",
+ "type_species": "Termes striatus Hagen, 1858 by original designation.",
+ "references": [
+  {
+   "ref": "Emerson, 1952b: 483–490",
+   "note": "Procornitermes; generic characters; relationships; nest; behavior."
+  },
+  {
+   "ref": "Morimoto, 1975b: 20",
+   "note": "Procornitermes; key."
+  },
+  {
+   "ref": "Mill, 1983a: 183, 186",
+   "note": "Procornitermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Fontes, 1985c: 8",
+   "note": "Procornitermes; key."
+  },
+  {
+   "ref": "Cancello, 1986: 196–198",
+   "note": "Procornitermes; synonymy; characters."
+  },
+  {
+   "ref": "Constantino, 1999a: 403, 417",
+   "note": "Procornitermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 20",
+   "note": "Procornitermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 20",
+   "note": "Triacitermes; key."
+  }
+ ],
+ "nrefs": 25
+}

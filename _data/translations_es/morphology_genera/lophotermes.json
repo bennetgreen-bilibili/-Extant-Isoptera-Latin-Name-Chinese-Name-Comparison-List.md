@@ -1,0 +1,17 @@
+{
+ "note": "Los caracteres genéricos corresponden a una rediagnosis del grupo de Nueva Guinea; el texto original remite a Miller (1991) para la descripción completa. Alado no descrito.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Soldado con tubérculos frontales y tubérculos laterales desarrollados; mandíbulas por lo general robustas y más largas que la cápsula cefálica; antenas de 14 segmentos (raramente 15); labro habitualmente grande; fórmula de espinas tibiales 3:2:2 o 2:2:2. Obrero monomórfico, con índice mandibular izquierdo superior a 1.5 y a menudo superior a 2.0; P3 del intestino posterior dividido en un segmento posterior menor y un segmento anterior mayor."
+  },
+  {
+   "label": "Soldado",
+   "text": "Tubérculos frontales y tubérculos laterales desarrollados; mandíbulas robustas, de longitud superior a la de la cápsula cefálica; antenas de 14 segmentos, a veces 15; labro habitualmente grande; fórmula de espinas tibiales 3:2:2 o 2:2:2."
+  },
+  {
+   "label": "Obrero",
+   "text": "Monomórfico. Índice mandibular izquierdo superior a 1.5 y a menudo superior a 2.0; P3 del intestino posterior dividido en un segmento posterior pequeño y un segmento anterior mayor."
+  }
+ ]
+}

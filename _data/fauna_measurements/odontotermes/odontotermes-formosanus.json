@@ -1,0 +1,66 @@
+{
+ "book_n": "263",
+ "book_name": "黑翅土白蚁 Odontotermes formosanus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "黑翅土白蚁兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "5.44–6.03"
+    },
+    {
+     "key": "head_width",
+     "value": "1.27–1.44"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.90–1.00"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 1448,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "黑翅土白蚁有翅成虫量度( mm)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length_with_wings",
+     "value": "27.00–29.50"
+    },
+    {
+     "key": "body_length_without_wings",
+     "value": "12.00–14.00"
+    },
+    {
+     "key": "wing_length",
+     "value": "24.00–25.00"
+    },
+    {
+     "key": "ocellus_long_diameter",
+     "value": "0.25–0.34"
+    },
+    {
+     "key": "eye_long_diameter",
+     "value": "0.61–0.68"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.25–0.31"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 1455,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "Mirocapritermes concaveus": {
+  "gbif": {
+   "key": 9663761,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mirocapritermes concaveus Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "43M8Z",
+   "status": "accepted",
+   "label": "Mirocapritermes concaveus Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084744",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Mirocapritermes connectens": {
+  "gbif": {
+   "key": 9120700,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mirocapritermes connectens Holmgren, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "43M92",
+   "status": "accepted",
+   "label": "Mirocapritermes connectens Holmgren, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084745",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Mirocapritermes hsuchiafui": {
+  "gbif": {
+   "key": 9675728,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mirocapritermes hsuchiafui Ping & Yu, 1966",
+   "accepted": null
+  },
+  "col": {
+   "id": "43M93",
+   "status": "accepted",
+   "label": "Mirocapritermes hsuchiafui Yu & Ping, 1966",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084746",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Mirocapritermes jiangchengensis": {
+  "gbif": {
+   "key": 9694441,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mirocapritermes jiangchengensis Huang, Zhu & Yang, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "43M94",
+   "status": "accepted",
+   "label": "Mirocapritermes jiangchengensis Yang, Zhu & Huang, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084747",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Mirocapritermes latignathus": {
+  "gbif": {
+   "key": 9810065,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mirocapritermes latignathus Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "43M95",
+   "status": "accepted",
+   "label": "Mirocapritermes latignathus Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084748",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Mirocapritermes prewensis": {
+  "gbif": {
+   "key": 9777191,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mirocapritermes prewensis Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "43M96",
+   "status": "accepted",
+   "label": "Mirocapritermes prewensis Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084749",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Mirocapritermes snyderi": {
+  "gbif": {
+   "key": 9757761,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mirocapritermes snyderi Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "43M97",
+   "status": "accepted",
+   "label": "Mirocapritermes snyderi Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084750",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Mirocapritermes valeriae": {
+  "gbif": {
+   "key": 9745251,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mirocapritermes valeriae Krishna, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "43M98",
+   "status": "accepted",
+   "label": "Mirocapritermes valeriae Krishna, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084751",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "book_n": "56",
+ "book_name": "小新白蚁 Neotermes humilis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "小新白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "7.29"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "value": "2.30"
+    },
+    {
+     "key": "head_width",
+     "value": "1.70"
+    },
+    {
+     "key": "head_height",
+     "value": "1.30"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.30"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "1.45"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "1.58"
+    },
+    {
+     "key": "postmentum_max_width",
+     "value": "0.70"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "0.70"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.75"
+    },
+    {
+     "key": "hind_femur_length",
+     "value": "1.08"
+    },
+    {
+     "key": "hind_femur_width",
+     "value": "0.40"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 1266,
+   "unit": "mm"
+  }
+ ]
+}

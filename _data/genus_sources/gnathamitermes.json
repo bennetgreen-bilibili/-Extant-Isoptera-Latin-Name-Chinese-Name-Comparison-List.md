@@ -1,0 +1,35 @@
+{
+ "latin": "Gnathamitermes",
+ "zh": "颚钩白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Gnathamitermes Light, 1932e: 390–394.",
+ "type_species": "Amitermes perplexus Banks, 1920 by original designation.",
+ "references": [
+  {
+   "ref": "Light, 1934e: 204, 205",
+   "note": "Amitermes (Gnathamitermes); key."
+  },
+  {
+   "ref": "Weesner, 1965: 33",
+   "note": "Gnathamitermes; key; characters; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 30",
+   "note": "Gnathamitermes; key."
+  },
+  {
+   "ref": "Mill, 1983a: 182, 185",
+   "note": "Gnathamitermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Nickle and Collins, 1990: 94, 114",
+   "note": "Gnathamitermes; key; characters."
+  },
+  {
+   "ref": "Constantino, 2002a: 24",
+   "note": "Gnathamitermes; key."
+  }
+ ],
+ "nrefs": 17
+}

@@ -1,0 +1,81 @@
+{
+ "Grallatotermes africanus": [
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/15454075/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/15454075/medium.jpg",
+   "width": 692,
+   "height": 1024,
+   "credit": "(c) i_c_riddell, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/10976060"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/15454077/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/15454077/medium.jpg",
+   "width": 1024,
+   "height": 713,
+   "credit": "(c) i_c_riddell, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/10976060"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/767252/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/767252/medium.jpg",
+   "width": 1024,
+   "height": 713,
+   "credit": "(c) i_c_riddell, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/608538"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/767253/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/767253/medium.jpg",
+   "width": 1024,
+   "height": 683,
+   "credit": "(c) i_c_riddell, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/608538"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/767254/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/767254/medium.jpg",
+   "width": 683,
+   "height": 1024,
+   "credit": "(c) i_c_riddell, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/608538"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/767255/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/767255/medium.jpg",
+   "width": 683,
+   "height": 1024,
+   "credit": "(c) i_c_riddell, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/608538"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/767257/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/767257/medium.jpg",
+   "width": 692,
+   "height": 1024,
+   "credit": "(c) i_c_riddell, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/608538"
+  }
+ ]
+}

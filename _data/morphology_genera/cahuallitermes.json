@@ -1,0 +1,40 @@
+{
+ "zh_name": "弃白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁上颚片状（laminar），第一缘齿之前具切刻；后颏细皱、侧缘凸；上唇具发达的透明端；头部圆。体型较大（与 Acangaobitermes 比较时语）。分布于墨西哥、伯利兹与洪都拉斯。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头圆；上唇具发达的透明端；后颏侧缘凸、表面细皱。上颚片状，切缘较直、缘齿发达，第一缘齿之前有切刻。"
+  },
+  {
+   "label": "工蚁",
+   "text": "左颚指数 0.5。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0068",
+   "citation": "Rocha M. M.; Cancello E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138: 445-463. https://doi.org/10.11646/zootaxa.5138.4.6",
+   "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）"
+  },
+  {
+   "id": "S0023",
+   "citation": "Rocha M. M.; Cancello E. M.; Cuezzo C. 2011. A new genus and species of mandibulate nasute termite (Isoptera, Termitidae, Syntermitinae) from Brazil. ZooKeys 148: 125-134. https://doi.org/10.3897/zookeys.148.1278",
+   "locator": "Comparisons with other genera of Syntermitinae"
+  },
+  {
+   "id": "S0077",
+   "citation": "Constantino R. 2012. Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records. Zootaxa 3174: 65-68. https://doi.org/10.11646/zootaxa.3174.1.7",
+   "locator": "Comparisons（属名后逗号前的空格系 Plazi 抽取标签剥离所致，原文为紧排）"
+  },
+  {
+   "id": "S0072",
+   "citation": "Rocha M. M.; Cancello E. M.; Carrijo T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37: 793-827. https://doi.org/10.1111/j.1365-3113.2012.00645.x",
+   "locator": "Key to genera of Syntermitinae, couplet 11"
+  }
+ ],
+ "note": "兵蚁据 Rocha & Cancello (2022) 的比较性属征与 Rocha et al. (2012) 的属检索表；工蚁仅知左颚指数。"
+}

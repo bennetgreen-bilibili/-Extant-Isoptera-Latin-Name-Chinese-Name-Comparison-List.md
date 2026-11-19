@@ -1,0 +1,35 @@
+{
+ "latin": "Sphaerotermes",
+ "zh": "圆球白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Sphaerotermes Holmgren, 1912a: 33.",
+ "type_species": "Eutermes sphaerothorax Sjöstedt, 1911c by monotypy.",
+ "references": [
+  {
+   "ref": "Emerson, 1928b: 406, 418, 450",
+   "note": "Sphaerotermes; key; discussion; distribution."
+  },
+  {
+   "ref": "Weidner, 1956b: 66",
+   "note": "Sphaerotermes; key."
+  },
+  {
+   "ref": "Webb, 1961: 15",
+   "note": "Sphaerotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 32, 86, 87, pl. 11: fig. 29c",
+   "note": "Sphaerotermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 17",
+   "note": "Sphaerotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 44, 79–81, figs. 126–134",
+   "note": "Sphaerotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 15
+}

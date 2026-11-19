@@ -1,0 +1,24 @@
+{
+ "Mastotermes darwiniensis": {
+  "gbif": {
+   "key": 4802813,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mastotermes darwiniensis Froggatt, 1897",
+   "accepted": null
+  },
+  "col": {
+   "id": "72V7M",
+   "status": "accepted",
+   "label": "Mastotermes darwiniensis Froggatt, 1897",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q135349",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "book_n": "365",
+ "book_name": "中国华扭白蚁 Sinocapritermes sinicus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "中国华马歪白蚊10个兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.82",
+     "value": "1.75–1.88"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.23",
+     "value": "1.21–1.29"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "0.93",
+     "value": "0.86–0.97"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.37",
+     "value": "0.31–0.42"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.18",
+     "value": "0.17–0.19"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.31",
+     "value": "0.27–0.33"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.71",
+     "value": "0.67–0.75"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 817,
+   "unit": "mm"
+  }
+ ]
+}

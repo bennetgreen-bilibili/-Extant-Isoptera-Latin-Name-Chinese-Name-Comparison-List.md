@@ -1,0 +1,43 @@
+{
+ "latin": "Termitogeton",
+ "zh": "寡脉白蚁属",
+ "family": "termitogetonidae",
+ "treatise": true,
+ "citation": "Termitogeton Desneux, 1904e: 373, 374 [first introduced as a subgenus of Termes Linné, 1758.",
+ "type_species": "Termes planus Haviland, 1898 by original designation.",
+ "references": [
+  {
+   "ref": "Haviland, 1898: 378, 397",
+   "note": "Termes: “section with T. planus as type”; characters; key."
+  },
+  {
+   "ref": "Desneux, 1904b: 29, 32, 46",
+   "note": "Termes (Termitogeton); reference list; key; characters; species included; distribution."
+  },
+  {
+   "ref": "Escherich, 1909: 176",
+   "note": "Termitogeton; characters."
+  },
+  {
+   "ref": "Ahmad, 1958: 59, 60",
+   "note": "Termitogeton; key."
+  },
+  {
+   "ref": "Chhotani, 1984: 111–113",
+   "note": "Termitogeton; key; taxonomy; distribution and zoogeography; biology; ecology; nesting behavior."
+  },
+  {
+   "ref": "Collins, 1984: 76",
+   "note": "Termitogeton; key."
+  },
+  {
+   "ref": "Roonwal and Chhotani, 1989: 513–514",
+   "note": "Termitogeton; synonymy; characters; distribution and composition."
+  },
+  {
+   "ref": "Maiti, 2006: 15, 143–144",
+   "note": "Termitogeton; key; synonymy; characters; key to species; distribution."
+  }
+ ],
+ "nrefs": 24
+}

@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "肠道细菌区系的克隆分析",
+   "heading_en": "Clone analysis of the gut bacterial community",
+   "heading_es": "Análisis de clones de la comunidad bacteriana intestinal",
+   "paragraphs": [
+    {
+     "text": "据摘要，Ohkuma 与 Kudo（1996）不经培养，直接从栖北散白蚁（<i>Reticulitermes speratus</i>）肠道混合 DNA 扩增 16S rDNA 并克隆测序：55 个克隆中 45 个归入细菌域的 4 个大类群，即变形菌门、螺旋体群、拟杆菌群与低 G+C 含量的革兰氏阳性菌；其余 10 个克隆与已知序列的相似度极低，其中 8 个聚成一簇，均不属于上述任何大类群。作者据此认为该种肠道微生物区系的大部分是此前未知的未培养种。",
+     "text_en": "According to the abstract, Ohkuma and Kudo (1996) amplified 16S rDNA directly from mixed-population DNA of the gut of <i>Reticulitermes speratus</i> without cultivation and cloned and sequenced it: of 55 clones sequenced, 45 were affiliated with four major groups of the domain Bacteria, namely the Proteobacteria, the spirochete group, the Bacteroides group and the low-G+C-content gram-positive bacteria; the remaining 10 clones showed very low similarity to known sequences, 8 of them forming a cluster, and none belonged to any of those major groups. The authors concluded that most of the intestinal microflora of this species consists of previously unknown, uncultured species.",
+     "text_es": "Según el resumen, Ohkuma y Kudo (1996) amplificaron el ADNr 16S directamente a partir del ADN de la población mixta del intestino de <i>Reticulitermes speratus</i> sin cultivo y lo clonaron y secuenciaron: de 55 clones secuenciados, 45 se afiliaron a cuatro grandes grupos del dominio Bacteria, a saber, Proteobacteria, el grupo de las espiroquetas, el grupo Bacteroides y las bacterias grampositivas de bajo contenido en G+C; los 10 clones restantes mostraron una similitud muy baja con las secuencias conocidas, 8 de ellos formando un grupo, y ninguno pertenecía a aquellos grandes grupos. Los autores concluyeron que la mayor parte de la microflora intestinal de esta especie está constituida por especies nuevas no cultivadas, desconocidas hasta entonces.",
+     "src": [
+      "S0365"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0365",
+   "citation": "Ohkuma, M.; Kudo, T. 1996. Phylogenetic diversity of the intestinal bacterial community in the termite Reticulitermes speratus. Applied and Environmental Microbiology.",
+   "url": "https://doi.org/10.1128/aem.62.2.461-468.1996"
+  }
+ ]
+}

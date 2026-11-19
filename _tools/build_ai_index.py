@@ -4,7 +4,8 @@
 为什么需要这个脚本
 ------------------
 SITE-INDEX.md 是给下一次改站的 AI 看的入口索引：先读一页，再按表只打开需要的
-那几个文件，不必通读 3,000+ 个页面。索引一旦和仓库脱节（新增了 `_data/xxx.json`、
+那几个文件，不必通读 3,000+ 个页面。索引一旦和仓库脱节（新增了 `_data/xxx.json`
+或 `_data/<数据集>/` 分片目录、
 新增了生成脚本、新增了一篇说明文档却没写进去），它就比没有更糟——读者会以为
 「表里没有的就是不重要」。
 
@@ -14,10 +15,10 @@ SITE-INDEX.md 是给下一次改站的 AI 看的入口索引：先读一页，�
    `<!-- AUTO:INDEX:END -->` 之间），内容只有计数，确定性输出，不含时间戳，
    连跑两次结果不变——regen_all.sh 末尾调用它不会制造 diff 噪音。
 2. `--check` 逐项核对登记完整性：
-   - `_data/` 下每个文件都要在索引里出现（源文件、派生、缓存一个都不能漏）；
+   - `_data/` 下每个顶层文件、每个 `_data/<数据集>/` 分片目录都要在索引里出现；
    - 每个 `build_*.py`（`_tools/` 与 `.github/workflows/`）都要出现；
    - 每篇 `_tools/*.md`、`_reports/**/*.md` 都要出现；
-   - 第 9 节的计数必须与当前仓库一致。
+   - 第 9 节的计数必须与当前仓库一致（含分片目录与分片数）。
 
 用法：
     python _tools/build_ai_index.py --write    # 刷新快照（regen_all.sh 末尾）
@@ -100,18 +101,32 @@ def data_files() -> list[str]:
     return sorted(p.name for p in (ROOT / "_data").iterdir() if p.is_file())
 
 
+def data_dirs() -> list[str]:
+    """`_data/<数据集>/` 分片目录（一阶元一档，聚合文件已删除）。"""
+    return sorted(p.name for p in (ROOT / "_data").iterdir() if p.is_dir())
+
+
+def shard_counts() -> tuple[int, int]:
+    """返回 (分片目录数, 分片文件总数)；只数 *.json，不解析内容。"""
+    dirs = data_dirs()
+    total = sum(1 for d in dirs for _ in (ROOT / "_data" / d).rglob("*.json"))
+    return len(dirs), total
+
+
 def snapshot() -> str:
     tax = taxonomy_counts()
     species, subspecies = count_species()
     pages = count_pages()
     tools_md, reports_md = docs()
+    n_dirs, n_shards = shard_counts()
     rows = [
         ("支系 / 科 / 亚科 / 属", f"{tax['支系']} / {tax['科']} / {tax['亚科']} / {tax['属']}"),
         ("种 / 亚种 / 记录合计", f"{species} / {subspecies} / {species + subspecies}"),
         ("物种页 `_species/*.md`", str(species + subspecies)),
         ("科页 / 亚科页 / 属页（中文）",
          f"{pages['科页']} / {pages['亚科页']} / {pages['属页']}"),
-        ("`_data/` 文件", str(len(data_files()))),
+        ("`_data/` 顶层文件", str(len(data_files()))),
+        ("`_data/` 分片目录（数据集 / 分片文件）", f"{n_dirs} / {n_shards}"),
         ("`build_*.py` 脚本（`_tools/` + `.github/workflows/`）", str(len(scripts()))),
         ("说明文档（`_tools/*.md` / `_reports/**/*.md`）", f"{len(tools_md)} / {len(reports_md)}"),
     ]
@@ -136,6 +151,10 @@ def check() -> int:
     missing_data = [f for f in data_files() if f not in text]
     if missing_data:
         problems.append("`_data/` 下这些文件没在索引里出现：" + "、".join(missing_data))
+
+    missing_dirs = [d for d in data_dirs() if d + "/" not in text]
+    if missing_dirs:
+        problems.append("`_data/` 下这些分片目录没在索引里出现：" + "、".join(missing_dirs))
 
     missing_scripts = [s for s in scripts() if s not in text]
     if missing_scripts:

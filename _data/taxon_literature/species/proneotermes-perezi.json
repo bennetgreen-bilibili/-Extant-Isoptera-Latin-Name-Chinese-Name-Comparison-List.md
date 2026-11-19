@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "量度与分布扩展",
+   "heading_en": "Measurements and expanded distribution",
+   "heading_es": "Medidas y distribución ampliada",
+   "paragraphs": [
+    {
+     "text": "根据 Casalla、Scheffrahn 与 Korb（2016）研究，佩雷斯前新白蚁（<i>Proneotermes perezi</i>）此前由 Krishna（1961）描述有翅成虫与兵蚁但未给量度，该研究补测兵蚁（n = 10）头长（至上颚端）3.05–3.80 毫米，均值 3.36 毫米，头宽最大 1.52 毫米，触角 11–14 节；该种分布自危地马拉延至巴拿马，新增记录包括危地马拉的 San Jose La Arada、Ipala、Jutiapa 与 San José Acatempa，洪都拉斯的 P. N. Capiro 与 Amarateca，以及巴拿马的 Gamboa 与 Valle de las Minas。该种为前新白蚁属（<i>Proneotermes</i>）三种中体型最大者，其有翅成虫的翅较马康多前新白蚁（<i>Proneotermes macondianus</i>）更短、更宽、颜色更深且刻点更多。",
+     "src": [
+      "S0348"
+     ],
+     "text_en": "In the study by Casalla, Scheffrahn and Korb (2016), <i>Proneotermes perezi</i> had been described by Krishna (1961) from alates and soldiers without measurements; the authors measured soldiers (n = 10) with head length to tip of mandibles 3.05-3.80 mm (mean 3.36), maximum head width 1.52 mm and 11-14 antennal articles. The species ranges from Guatemala to Panama, with new records from San Jose La Arada, Ipala, Jutiapa and San José Acatempa in Guatemala, P. N. Capiro and Amarateca in Honduras, and Gamboa and Valle de las Minas in Panama. It is the largest of the three <i>Proneotermes</i> species, and its imago has wings that are shorter, wider, darker and more punctate than those of <i>Proneotermes macondianus</i>.",
+     "text_es": "En el estudio de Casalla, Scheffrahn y Korb (2016), <i>Proneotermes perezi</i> había sido descrita por Krishna (1961) a partir de alados y soldados sin medidas; los autores midieron soldados (n = 10) con longitud de la cabeza hasta el ápice de las mandíbulas de 3.05-3.80 mm (media 3.36), anchura máxima de la cabeza 1.52 mm y 11-14 artejos antenales. La especie se distribuye desde Guatemala hasta Panamá, con nuevos registros en San Jose La Arada, Ipala, Jutiapa y San José Acatempa en Guatemala, P. N. Capiro y Amarateca en Honduras, y Gamboa y Valle de las Minas en Panamá. Es la mayor de las tres especies de <i>Proneotermes</i>, y su imago tiene alas más cortas, más anchas, más oscuras y más punteadas que las de <i>Proneotermes macondianus</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0348",
+   "citation": "Casalla, R.; Scheffrahn, R. H.; Korb, J. 2016. Proneotermes macondianus, a new drywood termite from Colombia and expanded distribution of Proneotermes in the Neotropics (Isoptera, Kalotermitidae). ZooKeys 623.",
+   "doi": "10.3897/zookeys.623.9677"
+  }
+ ]
+}

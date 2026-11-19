@@ -1,0 +1,58 @@
+{
+ "latin": "Sinonasutitermes",
+ "zh": "华象白蚁属",
+ "fetched_at": "2026-10-30T16:54:38Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W3021824873",
+   "openalex_url": "https://openalex.org/W3021824873",
+   "doi": "",
+   "doi_url": "",
+   "title": "Three new Species of new Genus Sinonasutitermes of Subfamily Nasutitermitinae From China (Isoptera:Termitidae)",
+   "year": 1986,
+   "date": "1986-05-22",
+   "authors": [
+    "LI Gui-xiang",
+    "Ping Zheng-ming"
+   ],
+   "venue": "",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "7",
+   "issue": "2",
+   "pages": "89-98",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W985455987",
+   "openalex_url": "https://openalex.org/W985455987",
+   "doi": "",
+   "doi_url": "",
+   "title": "中国华象白蚁属的分类(等翅目:白蚁科:象白蚁亚科)",
+   "year": 1991,
+   "date": "1991-01-01",
+   "authors": [
+    "平正明",
+    "徐月莉",
+    "黄熙盛"
+   ],
+   "venue": "",
+   "type": "article",
+   "language": "zh",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "",
+   "issue": "3",
+   "pages": "1-16",
+   "abstract": "华象白蚁属Sinonasutitermes Li建立于1986年.李桂祥、平正明(1986)报告四种.本文现记述六新种和二新组合,将大鼻象白蚁Nasutitermes grandinasus Tsai et Chen和扁头象白蚁N. platycephalus Ping et Xu移入本属;前者原记述触角12节,现作为该种小兵,后者1988年原记述的鼻长有误.现附入重新测量的量度.列表对我国已知12种的不同兵型作出检索,供作鉴别.该属目前仅局限分布在我国东南部的",
+   "abstract_source": "openalex",
+   "abstract_chars": 233,
+   "abstract_truncated": false
+  }
+ ]
+}

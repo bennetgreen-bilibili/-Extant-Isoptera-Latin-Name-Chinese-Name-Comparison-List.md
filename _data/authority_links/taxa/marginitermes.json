@@ -1,0 +1,71 @@
+{
+ "Marginitermes absitus": {
+  "gbif": {
+   "key": 8887959,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Marginitermes absitus Scheffrahn & Postle, 2013",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Marginitermes Krishna, 1961",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q110272505",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Marginitermes cactiphagus": {
+  "gbif": {
+   "key": 2007327,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Marginitermes cactiphagus Myles, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "3Y5XJ",
+   "status": "accepted",
+   "label": "Marginitermes cactiphagus Myles, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582589",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Marginitermes hubbardi": {
+  "gbif": {
+   "key": 2007328,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Marginitermes hubbardi (Banks, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3Y5XK",
+   "status": "accepted",
+   "label": "Marginitermes hubbardi (Banks, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582590",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

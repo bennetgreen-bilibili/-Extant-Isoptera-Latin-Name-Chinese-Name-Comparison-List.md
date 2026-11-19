@@ -1,0 +1,134 @@
+{
+ "book_n": "299",
+ "book_name": "箕头大自蚁 Macrotermes declivatus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "箕头大白蚁大兵蚁量度 ( mm)",
+   "label_en": "Major soldier measurements",
+   "label_es": "Medidas de soldado mayor",
+   "label_zh": "大兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "4.73",
+     "value": "4.61–4.92"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "3.99",
+     "value": "3.79–4.10"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "2.46",
+     "value": "2.40–2.53"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "3.16",
+     "value": "3.03–3.22"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "1.29",
+     "value": "1.14–1.39"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "2.55",
+     "value": "2.40–2.71"
+    },
+    {
+     "key": "mesonotum_width",
+     "mean": "2.42",
+     "value": "2.21–2.71"
+    },
+    {
+     "key": "metanotum_width",
+     "mean": "2.36",
+     "value": "2.21–2.65"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 662,
+   "unit": "mm"
+  },
+  {
+   "caste": "soldier",
+   "heading": "箕头大白蚁中兵蚁量度",
+   "label_en": "Medium soldier measurements",
+   "label_es": "Medidas de soldado mediano",
+   "label_zh": "中兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "3.74"
+    },
+    {
+     "key": "head_max_width",
+     "value": "2.90"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "1.96"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "2.46"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "1.70"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "2.08"
+    },
+    {
+     "key": "mesonotum_width",
+     "value": "2.15"
+    },
+    {
+     "key": "metanotum_width",
+     "value": "2.02"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 680,
+   "unit": "mm"
+  },
+  {
+   "caste": "soldier",
+   "heading": "箕头大白蚁小兵蚁量度 ( mm)",
+   "label_en": "Minor soldier measurements",
+   "label_es": "Medidas de soldado menor",
+   "label_zh": "小兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.65",
+     "value": "2.46–2.65"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.77",
+     "value": "1.64–1.89"
+    },
+    {
+     "key": "mesonotum_width",
+     "mean": "1.14",
+     "value": "1.07–1.20"
+    },
+    {
+     "key": "metanotum_width",
+     "mean": "1.32",
+     "value": "1.26–1.39"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 688,
+   "unit": "mm"
+  }
+ ]
+}

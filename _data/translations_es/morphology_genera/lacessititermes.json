@@ -1,0 +1,17 @@
+{
+ "note": "Establecido por Holmgren 1912; el catálogo lo sitúa como subgénero 18, señala la región de las Indias Orientales y enumera especies como alipes, atrior, breviarticulatus, filicornis, laborator, lacessitiformis, lacessitus y piliferus (incluidas especies nuevas). El original sólo ofrece entradas de clave, sin caracteres genéricos del obrero.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El nasus del soldado es relativamente estrecho y cónico, las antenas tienen 14 segmentos, la cabeza suele estar constreñida y el segmento antenal 3 es más corto que el 4; en el mismo grupo, Longipeditermes presenta el segmento 3 igual o más largo que el 4, soldados dimórficos y un diente evidente en el ápice mandibular, mientras que Hospitalitermes es monotípico y carece de dientes en el ápice mandibular. En el alado, el clípeo es más corto que su mitad de ancho y sólo muy ligeramente más claro que la frente o del mismo color que ella; la frente presenta una depresión triangular por detrás del clípeo; el cuerpo y las alas son oscuros; el segmento antenal 3 es algo más largo que el 2; la fontanela es poco aparente y fisuriforme, lo que lo distingue de Hospitalitermes (segmento 3 dos veces más largo que el 2; fontanela evidente, ovalada y blanquecina)."
+  },
+  {
+   "label": "Alado",
+   "text": "El clípeo es más corto que su mitad de ancho y sólo (muy) ligeramente más claro que la frente, o del mismo color que ella; la frente presenta una depresión triangular por detrás del clípeo; el color del cuerpo es oscuro y las alas son oscuras; el segmento antenal 3 es algo más largo que el 2; la fontanela es poco aparente y fisuriforme."
+  },
+  {
+   "label": "Soldado",
+   "text": "Nasus relativamente estrecho y cónico; antenas de 14 segmentos; cabeza a menudo constreñida; segmento antenal 3 más corto que el 4; color del cuerpo generalmente oscuro; patas largas."
+  }
+ ]
+}

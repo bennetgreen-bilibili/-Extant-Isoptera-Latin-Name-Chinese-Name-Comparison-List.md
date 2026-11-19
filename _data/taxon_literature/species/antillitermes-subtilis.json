@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn（2016）研究，细瘦安的列斯白蚁（<i>Antillitermes subtilis</i>）与中美洲 3 种微白蚁属（<i>Parvitermes</i>）白蚁共享肠瓣刺朝向肠流反方向的特征，它们均为地下筑巢、以纤维素为食的种类。",
+     "text_en": "According to Scheffrahn (2016), <i>Antillitermes subtilis</i> shares with the three mainland Middle American species of <i>Parvitermes</i> the character of enteric-valve spines directed against the flow of the gut; all of them nest underground and feed on cellulose.",
+     "text_es": "Según Scheffrahn (2016), <i>Antillitermes subtilis</i> comparte con las tres especies continentales de <i>Parvitermes</i> de América Central el carácter de las espinas de la válvula entérica orientadas contra el flujo del intestino; todas ellas anidan bajo tierra y se alimentan de celulosa.",
+     "src": [
+      "S0106"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0106",
+   "citation": "Scheffrahn R. H. 2016 Parvitermes (Isoptera, Termitidae, Nasutitermitinae) in Central America: Two new termite species and reassignment of Nasutitermes mexicanus.",
+   "doi": "10.3897/zookeys.617.10040"
+  }
+ ]
+}

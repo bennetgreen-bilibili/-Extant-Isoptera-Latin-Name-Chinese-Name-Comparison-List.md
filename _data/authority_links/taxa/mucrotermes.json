@@ -1,0 +1,46 @@
+{
+ "Mucrotermes heterochilus": {
+  "gbif": {
+   "key": 9790046,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mucrotermes heterochilus (Silvestri, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "44HK4",
+   "status": "accepted",
+   "label": "Mucrotermes heterochilus (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084752",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Mucrotermes osborni": {
+  "gbif": {
+   "key": 9764767,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Mucrotermes osborni Emerson, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "44HK5",
+   "status": "accepted",
+   "label": "Mucrotermes osborni Emerson, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084753",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

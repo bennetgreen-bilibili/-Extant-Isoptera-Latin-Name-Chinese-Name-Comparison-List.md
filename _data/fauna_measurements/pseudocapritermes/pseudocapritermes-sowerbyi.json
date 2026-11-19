@@ -1,0 +1,58 @@
+{
+ "book_n": "388",
+ "book_name": "圆囟钩扭白蚁 Pseudocapritermes sowerbyi",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "圆囟钩扭白蚊有翅成虫量度( mm)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length_without_wings",
+     "mean": "7.50",
+     "value": "7.00"
+    },
+    {
+     "key": "wing_length",
+     "mean": "10.50",
+     "value": "11.50"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "mean": "1.34",
+     "value": "1.27"
+    },
+    {
+     "key": "eye_long_diameter",
+     "mean": "0.32",
+     "value": "0.34"
+    },
+    {
+     "key": "ocellus_length",
+     "mean": "0.20",
+     "value": "0.16"
+    },
+    {
+     "key": "ocellus_width",
+     "mean": "0.14",
+     "value": "0.11"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.59",
+     "value": "0.59"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.13",
+     "value": "1.07"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 1378,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "Apagotermes stolidus": {
+  "gbif": {
+   "key": 9667085,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apagotermes stolidus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "F6L3",
+   "status": "accepted",
+   "label": "Apagotermes stolidus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225298",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

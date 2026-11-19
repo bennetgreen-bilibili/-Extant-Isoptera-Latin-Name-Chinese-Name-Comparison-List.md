@@ -1,0 +1,23 @@
+{
+ "latin": "Aparatermes",
+ "zh": "弯肠白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Aparatermes Fontes, 1986: 290–293.",
+ "type_species": "Anoplotermes cingulatus abbreviatus Silvestri, 1901 by original designation.",
+ "references": [
+  {
+   "ref": "Fontes, 1992: 245, 248",
+   "note": "Aparatermes; key; distribution. 1346 Bulletin of the American Museum of natural History\b No. 377"
+  },
+  {
+   "ref": "Constantino, 1999a: 398, 412",
+   "note": "Aparatermes; key; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 26",
+   "note": "Aparatermes; key."
+  }
+ ],
+ "nrefs": 8
+}

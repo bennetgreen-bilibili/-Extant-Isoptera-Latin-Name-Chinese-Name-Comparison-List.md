@@ -1,0 +1,46 @@
+{
+ "book_n": "225",
+ "book_name": "多毛杆白蚁 Stylotermescrinis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "多毛杆白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "value": "1.35"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.22"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "1.48"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "1.80"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.50"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.10"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "0.75"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 604,
+   "unit": "mm"
+  }
+ ]
+}

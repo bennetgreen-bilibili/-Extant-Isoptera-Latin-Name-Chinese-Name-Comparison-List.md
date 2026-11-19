@@ -1,0 +1,90 @@
+{
+ "Polyspathotermes bugeserae": {
+  "label": "Polyspathotermes bugeserae (Vincke & Bouillon, 1971)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84998,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84998/overview",
+  "valid_label": null,
+  "valid_otu": 84998,
+  "verified": false
+ },
+ "Polyspathotermes inclitus": {
+  "label": "Polyspathotermes inclitus (Silvestri, 1912)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85015,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85015/overview",
+  "valid_label": null,
+  "valid_otu": 85015,
+  "verified": false
+ },
+ "Polyspathotermes intercalatus": {
+  "label": "Polyspathotermes intercalatus (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85016,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85016/overview",
+  "valid_label": null,
+  "valid_otu": 85016,
+  "verified": false
+ },
+ "Polyspathotermes katangensis": {
+  "label": "Polyspathotermes katangensis (Sjöstedt, 1927)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85089,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85089/overview",
+  "valid_label": null,
+  "valid_otu": 85089,
+  "verified": false
+ },
+ "Polyspathotermes montanus": {
+  "label": "Polyspathotermes montanus (Williams, 1966)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85022,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85022/overview",
+  "valid_label": null,
+  "valid_otu": 85022,
+  "verified": false
+ },
+ "Polyspathotermes oblectatus": {
+  "label": "Polyspathotermes oblectatus (Harris, 1958)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85025,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85025/overview",
+  "valid_label": null,
+  "valid_otu": 85025,
+  "verified": false
+ },
+ "Polyspathotermes sulcifrons": {
+  "label": "Polyspathotermes sulcifrons (Wasmann, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85044,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85044/overview",
+  "valid_label": null,
+  "valid_otu": 85044,
+  "verified": false
+ },
+ "Polyspathotermes umbratus": {
+  "label": "Polyspathotermes umbratus (Williams, 1954)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85051,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85051/overview",
+  "valid_label": null,
+  "valid_otu": 85051,
+  "verified": false
+ }
+}

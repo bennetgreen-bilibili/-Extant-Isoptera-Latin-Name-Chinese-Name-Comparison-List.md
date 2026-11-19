@@ -1,0 +1,268 @@
+{
+ "Prorhinotermes canalifrons": {
+  "gbif": {
+   "key": 9717622,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Prorhinotermes canalifrons (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6W9HC",
+   "status": "accepted",
+   "label": "Prorhinotermes canalifrons (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253578",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Prorhinotermes cotym": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Prorhinotermes Silvestri, 1909",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CHLLV",
+   "status": "accepted",
+   "label": "Prorhinotermes cotym Joseph, Amina & Mathew, 2023",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Prorhinotermes flavus": {
+  "gbif": {
+   "key": 9798256,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Prorhinotermes flavus (Bugnion & Popoff, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "77XHC",
+   "status": "accepted",
+   "label": "Prorhinotermes flavus (Bugnion & Popoff, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591890",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Prorhinotermes hainanensis": {
+  "gbif": {
+   "key": 9683493,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Prorhinotermes hainanensis Ping & Xu, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "789HC",
+   "status": "accepted",
+   "label": "Prorhinotermes hainanensis Ping & Xu, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253579",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Prorhinotermes inopinatus": {
+  "gbif": {
+   "key": 4802747,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Prorhinotermes inopinatus Silvestri, 1909",
+   "accepted": null
+  },
+  "col": {
+   "id": "6VXHB",
+   "status": "accepted",
+   "label": "Prorhinotermes inopinatus Silvestri, 1909",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272546",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Prorhinotermes molinoi": {
+  "gbif": {
+   "key": 8913130,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Prorhinotermes molinoi Snyder, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "6W9HB",
+   "status": "accepted",
+   "label": "Prorhinotermes molinoi Snyder, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253581",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Prorhinotermes oceanicus": {
+  "gbif": {
+   "key": 9734045,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Prorhinotermes oceanicus (Wasmann, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "77XHB",
+   "status": "accepted",
+   "label": "Prorhinotermes oceanicus (Wasmann, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253582",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Prorhinotermes ponapensis": {
+  "gbif": {
+   "key": 9765781,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Prorhinotermes ponapensis (Oshima, 1917)",
+   "accepted": null
+  },
+  "col": {
+   "id": "789HB",
+   "status": "accepted",
+   "label": "Prorhinotermes ponapensis (Oshima, 1917)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253583",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Prorhinotermes rugifer": {
+  "gbif": {
+   "key": 9714514,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Prorhinotermes rugifer Kemner, 1931",
+   "accepted": null
+  },
+  "col": {
+   "id": "6VXHD",
+   "status": "accepted",
+   "label": "Prorhinotermes rugifer Kemner, 1931",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253585",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Prorhinotermes simplex": {
+  "gbif": {
+   "key": 2007373,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Prorhinotermes simplex (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6W9HD",
+   "status": "accepted",
+   "label": "Prorhinotermes simplex (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582609",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Prorhinotermes spectabilis": {
+  "gbif": {
+   "key": 9789058,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Prorhinotermes spectabilis Ping & Xu, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "77XHD",
+   "status": "accepted",
+   "label": "Prorhinotermes spectabilis Ping & Xu, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253586",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Prorhinotermes xishaensis": {
+  "gbif": {
+   "key": 9686564,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Prorhinotermes xishaensis Li & Tsai, 1976",
+   "accepted": null
+  },
+  "col": {
+   "id": "789HD",
+   "status": "accepted",
+   "label": "Prorhinotermes xishaensis Li & Tsai, 1976",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253587",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

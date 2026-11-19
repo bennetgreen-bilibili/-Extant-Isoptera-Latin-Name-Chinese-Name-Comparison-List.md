@@ -1,0 +1,21 @@
+{
+ "zh_name": "多铲白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "本属工蚁肠瓣有两种型式：或仅三片主垫（PC3、PC4、PC5）末端具黄色至褐色的硬化铲状片，或六片主垫全部末端硬化成铲状片。原文将本属对应 clade IV 及 Josens & Deligne (2019) 的 oblectatus 与 sulcifrons 两型，并纳入原 Megagnathotermes katangensis。"
+  },
+  {
+   "label": "工蚁",
+   "text": "肠瓣具六片主垫（PCs）；硬化铲状片或仅见于 PC3、PC4、PC5 末端，或六片主垫末端均具，铲状片黄色至褐色。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0073",
+   "citation": "Hellemans, S.; Deligne, J.; Roisin, Y.; Josens, G. 2021. Phylogeny and revision of the “Cubitermes complex” termites (Termitidae: Cubitermitinae). Systematic Entomology 46(1): 224–238. DOI: 10.1111/syen.12458",
+   "locator": "接受稿 p. 15–16，行 350–353，「Diagnosis」（正式版页码不同）；接受稿 p. 16，行 357–358，「Etymology」（正式版页码不同）；接受稿 p. 16，行 360–362，「Comments」（正式版页码不同）"
+  }
+ ],
+ "note": "接受稿只给工蚁肠瓣（EVA）属征，兵蚁与有翅成虫无属级文本；原文 Species included 列 8 种（含由 Megagnathotermes 转入的 P. katangensis），属名出自希腊语 polys（多）+ spathos（铲）。接受稿页码（p. 15–16，行 347–362）与正式版（Syst. Entomol. 46(1): 224–238）不同。"
+}

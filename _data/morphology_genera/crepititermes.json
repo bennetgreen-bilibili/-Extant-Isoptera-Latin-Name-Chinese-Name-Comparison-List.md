@@ -1,0 +1,24 @@
+{
+ "zh_name": "响白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁额部平坦，与 Mirotermes 属（当时包含该类群的广义属）其它类群明显不同；除此之外与 Mirotermes s. str. 亚属最接近；上颚为弹射式、形态与 Mirotermes s. str. 相同。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头部棕色、宽卵形，密被短毛与刚毛；囟略深于头壳其余部分、不显著；左上颚具 2 大齿（一尖一圆），右上颚仅 1 尖齿；触角第 3 节极短、远短于第 4 节。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头部淡黄色、被短毛，长近长方形，两侧近平行，触角基部前方急剧收窄；触角淡于头部、13 节；上唇具 2 尖；上颚棕色、细长，末端急剧弯曲，基部宽且内缘具齿（左颚比右颚更显著）；前胸背板淡于头部、鞍形。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0083",
+   "citation": "Emerson, A. E. 1925. The Termites of Kartabo, Bartica District, British Guiana. Zoologica (New York) 6(4): 291–459. doi:10.5962/p.190324",
+   "locator": "pp. 433–434"
+  }
+ ]
+}

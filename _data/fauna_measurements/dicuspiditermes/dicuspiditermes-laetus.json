@@ -1,0 +1,86 @@
+{
+ "book_n": "356",
+ "book_name": "龙头突扭白蚁 Dicuspiditermes garthwaitei",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "龙头突扭白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "6.42–6.88"
+    },
+    {
+     "key": "head_length_with_mandibles",
+     "value": "3.86–4.14"
+    },
+    {
+     "key": "head_width",
+     "value": "1.36–1.44"
+    },
+    {
+     "key": "head_height",
+     "value": "1.11–1.22"
+    },
+    {
+     "key": "postmentum_max_width",
+     "value": "0.39–0.44"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.17–0.22"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.61–0.75"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.17–1.19"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 613,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "龙头突扭白蚁有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "12.50"
+    },
+    {
+     "key": "body_length_without_wings",
+     "value": "7.00"
+    },
+    {
+     "key": "wing_length",
+     "value": "10.50"
+    },
+    {
+     "key": "ocellus_length",
+     "value": "0.19"
+    },
+    {
+     "key": "ocellus_width",
+     "value": "0.11"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.11"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 621,
+   "unit": "mm"
+  }
+ ]
+}

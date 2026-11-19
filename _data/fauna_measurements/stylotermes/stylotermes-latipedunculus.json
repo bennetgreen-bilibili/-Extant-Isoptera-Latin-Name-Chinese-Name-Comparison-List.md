@@ -1,0 +1,70 @@
+{
+ "book_n": "235",
+ "book_name": "阔颏杆白蚁 Stylotermes latipedunculus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "阔颏杆白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "2.45"
+    },
+    {
+     "key": "head_max_width",
+     "value": "1.37"
+    },
+    {
+     "key": "head_height",
+     "value": "1.13"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.30"
+    },
+    {
+     "key": "labrum_width",
+     "value": "0.39"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "1.46"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "1.79"
+    },
+    {
+     "key": "postmentum_width",
+     "value": "0.59"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.26"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.80"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "0.70"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.17"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.08"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 810,
+   "unit": "mm"
+  }
+ ]
+}

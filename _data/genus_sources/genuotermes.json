@@ -1,0 +1,35 @@
+{
+ "latin": "Genuotermes",
+ "zh": "膝白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Genuotermes Emerson, 1950: 5–6.",
+ "type_species": "Genuotermes spinifer Emerson, 1950 by monotypy.",
+ "references": [
+  {
+   "ref": "Morimoto, 1975b: 37",
+   "note": "Genuotermes; key. 2138 Bulletin of the American Museum of natural History\b No. 377"
+  },
+  {
+   "ref": "Mathews, 1977: 121, 123",
+   "note": "Genuotermes; synonymy; characters."
+  },
+  {
+   "ref": "Mill, 1983a: 181, 182",
+   "note": "Genuotermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Constantino, 1998b: 201",
+   "note": "Genuotermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 1999a: 406, 417",
+   "note": "Genuotermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 22",
+   "note": "Genuotermes; key."
+  }
+ ],
+ "nrefs": 14
+}

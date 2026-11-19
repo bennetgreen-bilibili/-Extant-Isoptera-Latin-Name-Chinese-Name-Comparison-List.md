@@ -1,0 +1,29 @@
+{
+ "zh_name": "新几内亚白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "新几内亚特有属，含 2 种。兵蚁为小型至中型象白蚁，形态近 Nasutitermes，但头壳触角后无缢缩、触角 12 节、上颚具尖；有翅成虫触角 14 节，是与新几内亚 Nasutitermes 唯一稳定的区别；工蚁二型，肠型可作鉴别。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "小型至中型，触角 14 节；与新几内亚 Nasutitermes 的有翅成虫相比，触角节数（14）似乎是唯一稳定的鉴别特征。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "小型至中型象白蚁，与 Nasutitermes 近缘；单型；头壳触角后无缢缩；触角 12 节；上颚具尖；所辖 2 种均为橙色。"
+  },
+  {
+   "label": "工蚁",
+   "text": "二型；大型工蚁体色随龄期变化；触角 13 节；上颚与 Nasutitermes 很相似，左颚指数 0.38–0.53。肠型具鉴别意义：混合段长，中肠突位于肠曲外侧、以宽的背蒂与其余中肠相连；马氏管成两对、相距远；结肠长，自胃顶部向后，继以两个 180° 弯曲构成三维 S 形，先向前再向下，随后一段近直行至直肠；肠瓣斜置、近对称，上、下两圈具刺区相距远；上圈 6 区、具许多小刺；下圈 3 个隆起，刺向胃的方向渐小；肠瓣骨架不伸入胃内。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0049",
+   "citation": "Roisin, Y.; Pasteels, J. M. 1996. The nasute termites (Isoptera: Nasutitermitinae) of Papua New Guinea. Invertebrate Taxonomy 10: 507–616.",
+   "locator": "Genus Niuginitermes gen. nov. 节"
+  }
+ ],
+ "note": "Roisin & Pasteels 1996 所立新属，含 N. variratae（模式种）等 2 种，新几内亚特有。"
+}

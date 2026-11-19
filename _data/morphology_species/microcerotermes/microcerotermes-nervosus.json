@@ -1,0 +1,29 @@
+{
+ "zh_name": "强健锯白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫与 M. parviceps 极近缘，但体更小、色更浅，翅明显更小更浅、微刺更小更少；与 M. serratus 的区别是后者多毛、色更深、翅更深更长更窄、前胸背板形状不同。兵蚁与 M. newmani 形似，但更大，头、上颚与下唇基形状不同；Holmgren 指出 M. papuanus 兵蚁头更宽且全面被毛、有翅成虫更深多毛并稍大。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头 uniform Sandford’s brown，上颚近黑，胸、足与触角 clay colour；头很长而窄，两侧平行，向颚基几乎不收窄；上颚短而粗，略弯，具细锯齿，近端三分之一处有一小齿，有时被上唇遮住；上唇短宽，两侧平行，端部钝尖，具十根成对排列的刚毛；下唇基长而窄，最窄处约为头宽的五分之一；触角 13 节，较上颚长。"
+  },
+  {
+   "label": "工蚁",
+   "text": "大型个体头与后唇基 ochraceous orange，后唇基在颚关节处有大片暗铁锈色区，前唇基透明，上唇浅橙黄，触角、胸与足 cream buff；小型个体色更浅，额白色。头两侧近平行，后缘宽圆；后唇基强凸，后半呈半球形、前缘平截，具明显的铁锈色中缝；触角 13 节，第 3 节最短，第 4 至 8 节念珠状，第 9 至 12 节陀螺状，第 12 节明显长于第 11 节而短于第 13 节。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "栗色，头稍深于前胸背板与腹部；后唇基 tawny olive，触角、口器与足 clay colour，侧板与腹板染褐，翅淡烟色。与 M. parviceps 极似，但更小更浅；复眼小、圆而突出，单眼很小，与眼相距约等于其长径；触角 14 节，节短而宽，第 14 节与第 13 节等宽；翅较 parviceps 明显更小更浅，微刺更小更少；足短粗，胫距 3:2:2，爪短粗。"
+  }
+ ],
+ "note": "据 Hill 1927（Mem. Natl. Mus. Melbourne 7）改写；原文作 microcerotermes nervosus；量度表 OCR 多处残损，未录；异名、分布与生物学从略。",
+ "sources": [
+  {
+   "id": "S0491",
+   "citation": "Hill G. F. 1927. Termites from the Australian Region. Part I. https://archive.org/details/memoirsnational7natia",
+   "locator": "pp. 73-75（有翅成虫、兵蚁、工蚁）"
+  }
+ ]
+}

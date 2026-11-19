@@ -1,0 +1,46 @@
+{
+ "Verrucositermes hirtus": {
+  "gbif": {
+   "key": 9717255,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Verrucositermes hirtus Deligne, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "5B8NX",
+   "status": "accepted",
+   "label": "Verrucositermes hirtus Deligne, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073686",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Verrucositermes tuberosus": {
+  "gbif": {
+   "key": 9786165,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Verrucositermes tuberosus Emerson, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "5B8NY",
+   "status": "accepted",
+   "label": "Verrucositermes tuberosus Emerson, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073685",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

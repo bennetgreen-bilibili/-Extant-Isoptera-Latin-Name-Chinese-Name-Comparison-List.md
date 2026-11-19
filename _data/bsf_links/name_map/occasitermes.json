@@ -1,0 +1,24 @@
+{
+ "Occasitermes occasus": {
+  "label": "Occasitermes occasus (Silvestri, 1909)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84829,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84829/overview",
+  "valid_label": null,
+  "valid_otu": 84829,
+  "verified": false
+ },
+ "Occasitermes watsoni": {
+  "label": "Occasitermes watsoni Gay, 1974",
+  "match": "exact",
+  "notes": "",
+  "otu": 84830,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84830/overview",
+  "valid_label": null,
+  "valid_otu": 84830,
+  "verified": false
+ }
+}

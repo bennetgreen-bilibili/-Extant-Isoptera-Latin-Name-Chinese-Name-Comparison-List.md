@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "二型兵蚁与多型工蚁",
+   "heading_en": "Dimorphic soldiers and polymorphic workers",
+   "heading_es": "Soldados dimórficos y obreras polimórficas",
+   "paragraphs": [
+    {
+     "text": "据摘要，漂亮钝白蚁（<i>Obtusitermes formosulus</i>）由 Cuezzo 与 Cancello（2009）据二型兵蚁与多型工蚁描述为新种，标本产自委内瑞拉与特立尼达和多巴哥，其兵蚁具 2 型、工蚁呈多型。",
+     "text_en": "According to the abstract, <i>Obtusitermes formosulus</i> was described as a new species by Cuezzo and Cancello (2009) on the basis of dimorphic soldiers and polymorphic workers, with material from Venezuela and Trinidad and Tobago; its soldiers are of 2 forms and its workers polymorphic.",
+     "text_es": "Según el resumen, <i>Obtusitermes formosulus</i> fue descrita como especie nueva por Cuezzo y Cancello (2009) sobre la base de soldados dimórficos y obreras polimórficas, con material de Venezuela y de Trinidad y Tobago; sus soldados presentan 2 formas y sus obreras son polimórficas.",
+     "src": [
+      "S0355"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0355",
+   "citation": "Cuezzo, C.; Cancello, E. M. 2009. A new species of Obtusitermes (Isoptera, Termitidae, Nasutitermitinae) from South America. Zootaxa.",
+   "url": "https://doi.org/10.11646/zootaxa.1993.1.6"
+  }
+ ]
+}

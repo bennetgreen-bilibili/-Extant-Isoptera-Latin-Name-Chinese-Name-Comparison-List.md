@@ -1,0 +1,82 @@
+{
+ "latin": "Unguitermes",
+ "zh": "爪白蚁属",
+ "fetched_at": "2026-10-30T16:54:51Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2626165064",
+   "openalex_url": "https://openalex.org/W2626165064",
+   "doi": "",
+   "doi_url": "",
+   "title": "Four new species of Unguitermes Sjostedt from the Ethiopian region (lsoptera, Termitidae)",
+   "year": 1973,
+   "date": "1973-03-24",
+   "authors": [
+    "J. E. Ruelle"
+   ],
+   "venue": "",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W7167226608",
+   "openalex_url": "https://openalex.org/W7167226608",
+   "doi": "10.5281/zenodo.21183462",
+   "doi_url": "https://doi.org/10.5281/zenodo.21183462",
+   "title": "Allonychella notabilis Silvestri 1918",
+   "year": 2026,
+   "date": "2026-05-26",
+   "authors": [
+    "GRAEME B. SMITH"
+   ],
+   "venue": "",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "http://treatment.plazi.org/id/1C13C956E082FF50FF423418FB38F87D",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "Allonychella notabilis Silvestri, 1918 Allonychella notabilis Silvestri 1918a: 336. Type data: paratypes ♂ ♀ (alcohol) MUSA. Type locality: Guinea (as Gallorum Guinea), Camayenne (Conakry). Type host: Unguitermes acutifrons (Silvestri, 1914) (as Procubitermes acutifrons Silv.) [Termitidae]. Distribution. Guinea. Ecology. Termitophile in nest of Unguitermes acutifrons (Silvestri, 1914) [Termitidae].",
+   "abstract_source": "openalex",
+   "abstract_chars": 401,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W4296049835",
+   "openalex_url": "https://openalex.org/W4296049835",
+   "doi": "10.3390/insects13090841",
+   "doi_url": "https://doi.org/10.3390/insects13090841",
+   "title": "Record of New Termite (Blattodea, Termitidae) Species in Togo West Africa",
+   "year": 2022,
+   "date": "2022-09-15",
+   "authors": [
+    "Toblie Quashie Effowe",
+    "Boris Dodji Kasseney",
+    "Abdoulaye Baila Ndiaye",
+    "Adolé Isabelle Glitho"
+   ],
+   "venue": "Insects",
+   "type": "article",
+   "language": "en",
+   "cited_by": 2,
+   "oa_url": "https://www.mdpi.com/2075-4450/13/9/841/pdf?version=1663250782",
+   "volume": "13",
+   "issue": "9",
+   "pages": "841-841",
+   "abstract": "In Africa, despite their economic and ecological importance, termites are still relatively unknown. Their systematic remains uncertain, the approximate number of species for many biogeographic areas is underestimated, and there is still confusion in the identification of the species for many genera. This study combined morphological traits with morphometric measurements to determine several species collected in Togo and provided head illustrations of soldiers. Termites were sampled within the frame of transects laid in several landscapes inside three different parks including: Fosse aux Lions, Galangashie, and Fazao Malfakassa. Samples were grouped by morphospecies and measurements of part of the body (length and/or width of head, mandible, pronotum, gula, and hind tibia) were conducted. Twelve termite species including Foraminitermescorniferus, Lepidotermes sp., Noditermes cristifrons, Noditermes sp. 1 and Noditermes sp. 2, Promirotermes holmgren infera, Promirotermes sp., Unguitermes sp., Amitermes evuncifer, A. guineensis, A. truncatus, and A. spinifer were separated and pictured. Ten new species were added to the check list of the country, including five unidentified ones. Further studies such as biomolecular analysis should be carried out in order to clarify the status of these unknown species.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1320,
+   "abstract_truncated": false
+  }
+ ]
+}

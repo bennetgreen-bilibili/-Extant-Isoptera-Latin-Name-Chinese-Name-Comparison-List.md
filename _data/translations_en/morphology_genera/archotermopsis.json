@@ -1,0 +1,21 @@
+{
+ "note": "When the original was published the genus was named Termopsis (Heer); the passage on generic characters actually covers the then broad sense of Termopsis (including what is now Zootermopsis); on p. 297 the author states that he had already erected the subgenus Archotermopsis (Desneux 1904, Genera Insectorum XXV, p. 18), and the type species described in the paper is A. wroughtoni, so the generic characters and the species-level description can be assigned to this genus, but it should be noted that some of the features in the generic characters may belong to Termopsis in the broad sense. The generic characters give 27–28 antennal segments, whereas the species-level description gives 24 or 25; the two are inconsistent and must be checked before use.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The original gives the generic characters under the name Termopsis: the alate lacks ocelli entirely and the frontal plate is not projecting, which separates it from groups possessing ocelli; the tarsi appear 4-segmented but are actually 5-segmented, segment 2 being only partly separated from segment 1, and a plantula is present between the tarsal claws; the cerci are long and the male styli are well developed; the wings are broad, less than 4 times as long as wide. The soldier is robust, with a large, subrectangular and flattened head, antennae of more than 20 segments, very strong mandibles with teeth on the inner margin, a pronotum narrower than the head and nearly flat, and long cerci and styli. The author subsequently erected the subgenus Archotermopsis on features such as the shape of the compound eye and the remnants of the wing bases, and noted that it differs from the remaining members of Termopsis."
+  },
+  {
+   "label": "Alate",
+   "text": "Antennae 27–28 segments (the species-level description of the type species, A. wroughtoni, gives 24 or 25 segments, which conflicts with the generic characters and must be checked against specimens); ocelli entirely absent; frontal plate not projecting; compound eyes large, the anterior margin deeply incised and almost kidney-shaped (species level); pronotum nearly flat and narrower than the head; wings less than 4 times as long as wide, the forewing with a subcosta, the radius well developed and giving off several branches that reach the anterior margin, the media near the middle of the wing, the membranous area densely reticulate; tibiae with lateral spines; tarsi appearing 4-segmented but actually 5-segmented, with a plantula between the claws; cerci long and male styli well developed."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body robust; head large, subrectangular and flattened, the posterior margin distinctly concave (species level); eyes small or reduced, the species-level description recording them as small, oval and without ommatidia; antennae of more than 20 segments (species level 22–25 segments); mandibles very strong, the inner margin with irregular strong teeth, the apices curved inwards and sharp; pronotum narrower than the head and nearly flat; tarsi without a plantula (the original states that the plantula occurs only in the alate); cerci and styli both long."
+  },
+  {
+   "label": "Worker",
+   "text": "The original (the species-level description of A. wroughtoni) states that the worker resembles a larva: in the nymphal type the meso- and metathoracic epimera form triangular, leaf-like free processes, as in the soldier, whereas the alate lacks such processes; in some individuals the posterior margins of the meso- and metanota retain scars from broken wing buds, and the head is slightly larger than in the nymph; the original suggests that such individuals perform the worker function."
+  }
+ ]
+}

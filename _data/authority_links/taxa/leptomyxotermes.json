@@ -1,0 +1,24 @@
+{
+ "Leptomyxotermes doriae": {
+  "gbif": {
+   "key": 9728016,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Leptomyxotermes doriae (Silvestri, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3TRR5",
+   "status": "accepted",
+   "label": "Leptomyxotermes doriae (Silvestri, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210763",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

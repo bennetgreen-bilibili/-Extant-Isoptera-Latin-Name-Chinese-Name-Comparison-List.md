@@ -1,0 +1,21 @@
+{
+ "note": "Description after the original text of Holmgren 1912 (page images of the archive.org item biostor-184513, p. 50). The original established it as a subgenus of Cornitermes (Untergattung Labiotermes n. subg.), the generic characters being those of the subgenus, and further subdivided it into two groups (Sektion 1/2); no separate genus-level diagnosis is given in the text, so the 'Diagnostic characters' section is based on the subgeneric characters and the differences between the two groups.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Holmgren 1912 established Labiotermes as a new subgenus within Cornitermes. The alate has large compound eyes and large ocelli set close against them, antennae of 17 segments, and mandibular tooth 1 larger than tooth 2; the soldier has a relatively short frontal tube, a long labrum with a transparent, sharply delimited tip, antennae of 13–15 segments, and at most 2 teeth in the middle of the left mandible; the worker has antennae of 14–15 (16) segments and mandibular tooth 1 longer than tooth 2. The original text further divides the group into two: one with soldier antennae of 15 segments, the left mandible bearing 2 middle teeth and the basal and middle teeth of the right mandible separate; the other with the alate unknown, soldier antennae of 13 segments, the left mandible without middle teeth and the basal and middle teeth of the right mandible fused."
+  },
+  {
+   "label": "Alate",
+   "text": "Compound eyes large; ocelli large, very close to the compound eyes. Antennae of 17 segments. Mandibular tooth 1 larger than tooth 2."
+  },
+  {
+   "label": "Soldier",
+   "text": "Frontal tube relatively short. Labrum long, with a sharply delimited transparent tip. Mandibles robust; left mandible with at most 2 teeth in the middle. Antennae of 13–15 segments."
+  },
+  {
+   "label": "Worker",
+   "text": "Antennae of 14–15 (16) segments. Mandibular tooth 1 longer than tooth 2. The original text gives only these two diagnostic features for the worker of this subgenus and does not describe the rest separately (it still falls within the generic characters of Cornitermes)."
+  }
+ ]
+}

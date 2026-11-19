@@ -1,0 +1,25 @@
+{
+ "zh_name": "隐白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "左颚指数 0.68（有翅成虫）；兵蚁二型——Subulitermes 支系其余各属兵蚁均为单型；兵蚁上颚无端尖。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头与前胸背板密生刚毛与短毛；腹部背板两侧具短毛与少数刚毛、近成边缘列；囟前端明显分叉；后唇基长远大于其宽之半（长 0.22 mm、宽 0.32 mm）；右颚第 2 缘齿显著，左颚第 1+2 缘齿切缘长、左颚端齿相对较长；左颚指数 0.68；前胸背板两侧扁平圆、不如 Australitermes 与 Macrosubulitermes 那样向后收拢；中、后胸背板各有一宽浅凹；胫节距 2:2:2。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "二型；上颚无端尖。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0081",
+   "citation": "Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.",
+   "locator": "p. 18"
+  }
+ ],
+ "note": "单种属（occultus）。原文未单独记述工蚁上颚，故不设工蚁节。"
+}

@@ -1,0 +1,21 @@
+{
+ "zh_name": "贝顿三脉白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与亚种 sulciceps 的区别在于头后无纵沟、鼻较短；N. ruficeps 与 N. gemellus 型 kalaharicus 体型较小。Emerson 仔细比较本种与 N. brutus 的 合模标本后认为两者同物异名，因为体型差异在同一群体内即可见，合模标本小型兵蚁的前胸背板前缘亦无差别。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "大型兵蚁：头红黄色；侧面观凹；触角基部位于头中部之前；头后无纵沟。触角 13 节，第三节通常为第四节长的两倍；有时第四节不完全分开，有时几与第三节等长。鼻比例上较亚种 sulciceps 短，且粗。前胸背板前缘具明显凹缺。头长 2.33–2.58 mm；头宽 1.40–1.44 mm；前胸背板长 0.28 mm、宽 0.67 mm；后胫节长 1.44 mm。小型兵蚁：触角 12 节，第三节约与第四节等长，第二节较小。前胸背板前缘明显凹缺。头长 1.67–1.78 mm；头宽 0.72–0.84 mm；后胫节长 1.27–1.38 mm。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写；原文语言为英文，仅记大型兵蚁与小型兵蚁，未记工蚁与有翅成虫；同一处理中另有亚种 sulciceps 的描述，不属本种，未录；删去图号、产地与野外记录。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

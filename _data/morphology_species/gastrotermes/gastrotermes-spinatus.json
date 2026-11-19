@@ -1,0 +1,21 @@
+{
+ "zh_name": "多刺胃白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "缺 mixed segment、P1 很短、EVS 大而呈三叶，据此归入 Apicotermes 群。与 Labidotermes 亚群其他属不同：本属 EVS 内壁具小型直立刺，P3a 开口处列有粗壮刺。有翅成虫未知；兵蚁未知（原文记 Soldier. Unknown, but may exist）。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头、前胸背板与腹部密被数百根长至很长的毛。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0065",
+   "citation": "Scheffrahn R. H. 2020. Gastrotermes spinatus gen. n. sp. n., an African soil-feeding termite described from the worker caste (Isoptera, Termitidae, Apicotermitidae). Zootaxa 4789(1): 291–296. doi:10.11646/zootaxa.4789.1.12",
+   "locator": "p. 291（Gastrotermes gen. nov.：Description / Diagnosis）"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+}

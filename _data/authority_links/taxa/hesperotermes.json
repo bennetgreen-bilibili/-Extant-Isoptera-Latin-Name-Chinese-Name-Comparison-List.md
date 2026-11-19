@@ -1,0 +1,24 @@
+{
+ "Hesperotermes infrequens": {
+  "gbif": {
+   "key": 4803312,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hesperotermes infrequens (Hill, 1927)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6M36D",
+   "status": "accepted",
+   "label": "Hesperotermes infrequens (Hill, 1927)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272444",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

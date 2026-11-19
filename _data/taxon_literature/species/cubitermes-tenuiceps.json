@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "婚飞触发与性别分配",
+   "heading_en": "Nuptial Flight Triggers and Sex Allocation",
+   "heading_es": "Disparadores del vuelo nupcial y asignación de sexos",
+   "paragraphs": [
+    {
+     "src": [
+      "S0281"
+     ],
+     "text": "根据 Sinotte 等（2021）研究，南非比勒陀利亚的细头方白蚁（<i>Cubitermes tenuiceps</i>）在 2019 年 10 月连续 5 个月无降雨之后，有翅成虫于首场降雨前 1–2 天出现，雨后即再也挖不到，说明婚飞由第一场雨触发；11 座巢的平均性比（雄/总）为 0.33±0.13，其中 8 座显著偏雌、无一偏雄，雌虫干重 4.92±0.35 mg，显著高于雄虫的 4.23±0.21 mg。",
+     "text_en": "According to Sinotte et al. (2021), at Pretoria, South Africa, after five consecutive months without rain from October 2019, alates of <i>Cubitermes tenuiceps</i> appeared one to two days before the first rainfall and could no longer be excavated once the rain had fallen, indicating that nuptial flights are triggered by the first rain; the mean sex ratio (males/total) of 11 nests was 0.33±0.13, with eight nests significantly female-biased and none male-biased; female dry weight was 4.92±0.35 mg, significantly higher than the 4.23±0.21 mg of males.",
+     "text_es": "Según Sinotte et al. (2021), en Pretoria, Sudáfrica, tras cinco meses consecutivos sin lluvia desde octubre de 2019, los alados de <i>Cubitermes tenuiceps</i> aparecieron uno o dos días antes de la primera lluvia y ya no pudieron excavarse después de ella, lo que indica que los vuelos nupciales se desencadenan con la primera lluvia; la proporción de sexos media (machos/total) de 11 nidos fue 0.33±0.13, con ocho nidos significativamente sesgados hacia las hembras y ninguno hacia los machos; el peso seco de las hembras fue 4.92±0.35 mg, significativamente mayor que el de los machos, 4.23±0.21 mg."
+    },
+    {
+     "src": [
+      "S0281"
+     ],
+     "text": "全部巢的 16S rRNA 与 ftsZ 均扩增出沃尔巴克氏体（<i>Wolbachia</i>），最接近黄颈木白蚁（<i>Kalotermes flavicollis</i>）的 F 群菌株（相似度 98.4%–98.8%）；90 mm 培养皿中 78 次择偶试验显示，雄虫选择同巢雌虫的比例为 45.5% 与 62.9%，位置效应不显著、巢间同质，总体随机，作者因此认为该种缺乏近交回避。",
+     "text_en": "All nests yielded amplification of <i>Wolbachia</i> for both 16S rRNA and ftsZ, most closely resembling the supergroup F strain of <i>Kalotermes flavicollis</i> (98.4%–98.8% similarity); 78 mate-choice trials in 90 mm Petri dishes showed that males chose nestmate females in 45.5% and 62.9% of cases, with no significant position effect and with homogeneity among nests, that is, overall random, so the authors consider the species to lack inbreeding avoidance.",
+     "text_es": "Todos los nidos amplificaron <i>Wolbachia</i> tanto para 16S rRNA como para ftsZ, con mayor similitud con la cepa del supergrupo F de <i>Kalotermes flavicollis</i> (98.4%–98.8%); 78 ensayos de elección de pareja en placas de Petri de 90 mm mostraron que los machos eligieron hembras del mismo nido en 45.5% y 62.9% de los casos, sin efecto significativo de la posición y con homogeneidad entre nidos, es decir, en conjunto aleatorio, por lo que los autores consideran que la especie carece de evitación de la endogamia."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0281",
+   "citation": "Sinotte, V. M.; Conlon, B. H.; Seibel, E.; Schwitalla, J. W.; de Beer, Z. W.; Poulsen, M.; Bos, N. 2021. Female‐biased sex allocation and lack of inbreeding avoidance in Cubitermes termites. Wiley.",
+   "doi": "10.1002/ece3.7462"
+  }
+ ]
+}

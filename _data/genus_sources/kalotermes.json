@@ -1,0 +1,43 @@
+{
+ "latin": "Kalotermes",
+ "zh": "木白蚁属",
+ "family": "kalotermitidae",
+ "treatise": true,
+ "citation": "Kalotermes Hagen, 1853: 479, 480.",
+ "type_species": "Termes flavicolle Fabricius, 1793 by subsequent designation; see Wasmann, 1897b: 150 [designated as type species of Calotermes Hagen, 1858 (an unjustified emendation of Kalotermes Hagen, 1853. This designation is invalid since it was not an originally included species]. ICZN, 2002: 209: All previous designations of type species set aside and Termes flavicollis Fabricius, 1793 designated as type species under Plenary Powers of ICZN.",
+ "references": [
+  {
+   "ref": "Hagen, 1858b: 5",
+   "note": "Calotermes [part]; characters; species included."
+  },
+  {
+   "ref": "Hagen, 1858c: 32, 33–38",
+   "note": "Calotermes [part]; synonymy; characters; species included."
+  },
+  {
+   "ref": "Hagen, 1861b: 1",
+   "note": "Kalotermes [part]; characters."
+  },
+  {
+   "ref": "Hagen, 1862a: 58",
+   "note": "Kalotermes [part]; characters."
+  },
+  {
+   "ref": "Brauer, 1868: 392, 393",
+   "note": "Calotermes; key."
+  },
+  {
+   "ref": "Froggatt, 1897a: 517, 521–522",
+   "note": "Calotermes; characters."
+  },
+  {
+   "ref": "Wasmann, 1897b: 150",
+   "note": "Calotermes; characters; Calotermes (Calotermes); characters; Termes flavicollis as type species."
+  },
+  {
+   "ref": "Haviland, 1898: 371, 373–374",
+   "note": "Calotermes; key; characters."
+  }
+ ],
+ "nrefs": 88
+}

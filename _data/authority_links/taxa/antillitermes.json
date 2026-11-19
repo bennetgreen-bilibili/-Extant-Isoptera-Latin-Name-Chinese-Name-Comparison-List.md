@@ -1,0 +1,24 @@
+{
+ "Antillitermes subtilis": {
+  "gbif": {
+   "key": 9666426,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Antillitermes subtilis (Scheffrahn & Křeček, 1993)",
+   "accepted": null
+  },
+  "col": {
+   "id": "67JJV",
+   "status": "accepted",
+   "label": "Antillitermes subtilis (Scheffrahn & Křeček, 1993)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225296",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

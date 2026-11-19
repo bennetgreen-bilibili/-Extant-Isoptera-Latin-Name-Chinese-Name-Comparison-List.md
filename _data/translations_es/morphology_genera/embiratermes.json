@@ -1,0 +1,21 @@
+{
+ "note": "El soldado se describe según los caracteres genéricos comparativos de 2022 y la clave de géneros de 2012; el obrero, según las descripciones de la válvula entérica y de la lengüeta del mesenterón; del alado solo se conoce el índice mandibular izquierdo.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Las mandíbulas del soldado son perforantes y de ápice agudo; el diente marginal se sitúa en el 1/3 proximal de la longitud mandibular, o cerca de la mitad o de la base; el clípeo no está inflado; la cabeza, en vista dorsal, es alargada y casi rectangular, y la longitud de la base cefálica suele ser mayor que su anchura; la coxa protorácica presenta una protuberancia en su margen ventral. En el obrero, la lengüeta del mesenterón es recta y no alcanza la dilatación de P1; el segmento de la válvula entérica es corto y ancho y se sitúa en el punto medio del abdomen. El índice mandibular izquierdo del alado es de 0.7–1.1."
+  },
+  {
+   "label": "Soldado",
+   "text": "Mandíbulas perforantes, de ápice agudo; el diente marginal se sitúa en el 1/3 proximal de la mandíbula y es un diente marginal reconocible (cerca de la mitad o de la base); el clípeo no está inflado. La cápsula cefálica es alargada y casi rectangular en vista dorsal, y la longitud de la base cefálica suele ser mayor que su anchura. La coxa protorácica presenta una protuberancia en su margen ventral."
+  },
+  {
+   "label": "Obrero",
+   "text": "La lengüeta del mesenterón es recta y no alcanza la dilatación de P1; el segmento de la válvula entérica es corto y ancho y se sitúa en el punto medio del abdomen."
+  },
+  {
+   "label": "Alado",
+   "text": "Índice mandibular izquierdo 0.7–1.1, igual que en Armitermes y Labiotermes."
+  }
+ ]
+}

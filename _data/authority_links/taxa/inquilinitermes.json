@@ -1,0 +1,94 @@
+{
+ "Inquilinitermes fur": {
+  "gbif": {
+   "key": 9773595,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Inquilinitermes fur (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MVDB",
+   "status": "accepted",
+   "label": "Inquilinitermes fur (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252598",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Inquilinitermes inquilinus": {
+  "gbif": {
+   "key": 9572171,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Inquilinitermes inquilinus (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6N7DB",
+   "status": "accepted",
+   "label": "Inquilinitermes inquilinus (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252600",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Inquilinitermes johnchapmani": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Inquilinitermes Mathews, 1977",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Inquilinitermes Mathews, 1977",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Inquilinitermes microcerus": {
+  "gbif": {
+   "key": 9690980,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Inquilinitermes microcerus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MVDD",
+   "status": "accepted",
+   "label": "Inquilinitermes microcerus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252601",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

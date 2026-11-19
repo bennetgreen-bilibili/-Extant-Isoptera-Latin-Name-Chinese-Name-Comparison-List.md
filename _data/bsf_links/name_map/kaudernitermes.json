@@ -1,0 +1,46 @@
+{
+ "Kaudernitermes kaudernianus": {
+  "label": "Kaudernitermes kaudernianus (Sjöstedt, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84501,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84501/overview",
+  "valid_label": null,
+  "valid_otu": 84501,
+  "verified": false
+ },
+ "Kaudernitermes laticeps": {
+  "label": "Kaudernitermes laticeps (Wasmann, 1897)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84502,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84502/overview",
+  "valid_label": null,
+  "valid_otu": 84502,
+  "verified": false
+ },
+ "Kaudernitermes nigritus": {
+  "label": "Kaudernitermes nigritus (Wasmann, 1897)",
+  "match": "exact",
+  "notes": "",
+  "otu": 785318,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/785318/overview",
+  "valid_label": null,
+  "valid_otu": 785318,
+  "verified": false
+ },
+ "Kaudernitermes salebrithorax": {
+  "label": "Kaudernitermes salebrithorax (Sjöstedt, 1904)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84504,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84504/overview",
+  "valid_label": null,
+  "valid_otu": 84504,
+  "verified": false
+ }
+}

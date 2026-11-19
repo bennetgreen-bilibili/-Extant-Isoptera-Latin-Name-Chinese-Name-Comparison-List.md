@@ -1,0 +1,43 @@
+{
+ "latin": "Ophiotermes",
+ "zh": "蛇白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Ophiotermes Sjöstedt, 1924b: 257.",
+ "type_species": "Eutermes mandibularis Sjöstedt, 1905 by original designation.",
+ "references": [
+  {
+   "ref": "Sjöstedt, 1926d: 265",
+   "note": "Ophiotermes; reference list; soldier characters."
+  },
+  {
+   "ref": "Emerson, 1928b: 408, 419, 504",
+   "note": "Mirotermes (Ophiotermes); key; characters; distribution."
+  },
+  {
+   "ref": "Harris, 1941: 202",
+   "note": "Ophiotermes; key."
+  },
+  {
+   "ref": "Webb, 1961: 11",
+   "note": "Ophiotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 29, 104, 105, pl. 20: fig. 60e",
+   "note": "Ophiotermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Weidner, 1974: 55–56",
+   "note": "Ophiotermes; characters; remarks."
+  },
+  {
+   "ref": "Morimoto, 1975b: 33",
+   "note": "Ophiotermes; key."
+  },
+  {
+   "ref": "Sands, 1995: 1485",
+   "note": "Ophiotermes; key."
+  }
+ ],
+ "nrefs": 14
+}

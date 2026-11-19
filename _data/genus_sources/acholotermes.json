@@ -1,0 +1,15 @@
+{
+ "latin": "Acholotermes",
+ "zh": "顺白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Acholotermes Sands, 1972: 139.",
+ "type_species": "Acholotermes tithasus Sands, 1972 by original designation.",
+ "references": [
+  {
+   "ref": "Sands, 1998: 58, 155–157, figs. 457–468, pl. 5: figs. 8–10",
+   "note": "key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 1
+}

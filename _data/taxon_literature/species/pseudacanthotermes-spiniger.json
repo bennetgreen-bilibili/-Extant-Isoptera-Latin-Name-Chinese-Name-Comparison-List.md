@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-11",
+ "sections": [
+  {
+   "heading": "黑猩猩取食与食土行为",
+   "paragraphs": [
+    {
+     "text": "据摘要，Uehara（1982）在坦桑尼亚 Mahale 山地对野生黑猩猩 K 群观察发现，它们在短期内使用包括工具在内的多种技术取食具刺伪刺白蚁（Pseudacanthotermes spiniger），并随猎物活动物候调整技术；黑猩猩全年取食该白蚁蚁丘塔上的少量土壤（食土），可能借此从视觉和触觉上判断其繁殖周期；粪便分析显示各年取食量有波动。",
+     "src": [
+      "S0148"
+     ],
+     "text_en": "According to the abstract, Uehara (1982) observed the wild chimpanzee K group in the Mahale Mountains, Tanzania, and found that over a short period they used a variety of techniques, including tools, to feed on Pseudacanthotermes spiniger and adjusted their techniques to the activity phenology of the prey; the chimpanzees fed year-round on small amounts of soil from the mound towers of this termite (geophagy), possibly using it to judge its reproductive cycle visually and by touch; faecal analysis showed that the amount consumed fluctuated between years.",
+     "text_es": "Según el resumen, Uehara (1982) observó en el grupo K de chimpancés silvestres de las montañas Mahale (Tanzania) que durante un período breve emplean diversas técnicas, incluidas herramientas, para alimentarse de Pseudacanthotermes spiniger, y que ajustan la técnica a la fenología de la presa; los chimpancés consumen durante todo el año pequeñas cantidades de tierra de los montículos de esta termita (geofagia), posiblemente para evaluar de forma visual y táctil su ciclo reproductivo. El análisis de heces muestra fluctuaciones anuales en el consumo."
+    }
+   ],
+   "heading_en": "Chimpanzee feeding and geophagy",
+   "heading_es": "Consumo de termitas y geofagia en chimpancés"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0148",
+   "citation": "Uehara, S. 1982. Seasonal changes in the techniques employed by wild chimpanzees in the Mahale Mountains, Tanzania, to feed on termites (Pseudacanthotermes spiniger). Folia Primatologica.",
+   "doi": "10.1159/000156020"
+  }
+ ]
+}

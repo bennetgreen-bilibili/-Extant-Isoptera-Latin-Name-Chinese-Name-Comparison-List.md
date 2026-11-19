@@ -1,0 +1,27 @@
+{
+ "latin": "Cortaritermes",
+ "zh": "利颚白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Cortaritermes Mathews, 1977: 197–199.",
+ "type_species": "Eutermes (Eutermes) silvestri Holmgren, 1910 by original designation.",
+ "references": [
+  {
+   "ref": "Mill, 1983a: 182, 189",
+   "note": "Cortaritermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Constantino, 1999a: 400, 414",
+   "note": "Cortaritermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 8",
+   "note": "Cortaritermes; key."
+  },
+  {
+   "ref": "Ensaf et al., 2003a: 54",
+   "note": "Cortaritermes; key."
+  }
+ ],
+ "nrefs": 11
+}

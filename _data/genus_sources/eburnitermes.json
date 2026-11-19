@@ -1,0 +1,19 @@
+{
+ "latin": "Eburnitermes",
+ "zh": "象牙白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Eburnitermes Noirot, 1966: 336–337.",
+ "type_species": "Eburnitermes grassei Noirot, 1966 by original designation.",
+ "references": [
+  {
+   "ref": "Morimoto, 1975b: 28",
+   "note": "Eburnitermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 50, 110–112, figs. 284–292, pl. 3: fig. 1",
+   "note": "Eburnitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 4
+}

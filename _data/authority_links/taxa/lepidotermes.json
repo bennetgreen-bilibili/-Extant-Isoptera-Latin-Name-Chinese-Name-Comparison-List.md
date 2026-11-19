@@ -1,0 +1,200 @@
+{
+ "Lepidotermes amydrus": {
+  "gbif": {
+   "key": 9681589,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lepidotermes amydrus Uys, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "3TDSF",
+   "status": "accepted",
+   "label": "Lepidotermes amydrus Uys, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210752",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lepidotermes goliathi": {
+  "gbif": {
+   "key": 9770935,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lepidotermes goliathi (Williams, 1954)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3TDSG",
+   "status": "accepted",
+   "label": "Lepidotermes goliathi Williams, 1954",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210753",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lepidotermes lounsburyi": {
+  "gbif": {
+   "key": 9816398,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lepidotermes lounsburyi Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "3TDSH",
+   "status": "accepted",
+   "label": "Lepidotermes lounsburyi (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210754",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lepidotermes mtwalumi": {
+  "gbif": {
+   "key": 9688463,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lepidotermes mtwalumi (Fuller, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3TDSJ",
+   "status": "accepted",
+   "label": "Lepidotermes mtwalumi (Fuller, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210755",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lepidotermes planifacies": {
+  "gbif": {
+   "key": 9707645,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lepidotermes planifacies (Williams, 1954)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3TDSK",
+   "status": "accepted",
+   "label": "Lepidotermes planifacies (Williams, 1954)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210757",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lepidotermes pretoriensis": {
+  "gbif": {
+   "key": 9662786,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lepidotermes pretoriensis (Sjöstedt, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3TDSL",
+   "status": "accepted",
+   "label": "Lepidotermes pretoriensis (Sjöstedt, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210758",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lepidotermes scalenus": {
+  "gbif": {
+   "key": 9657938,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lepidotermes scalenus Uys, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "3TDSM",
+   "status": "accepted",
+   "label": "Lepidotermes scalenus Uys, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210759",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lepidotermes simplex": {
+  "gbif": {
+   "key": 9763853,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lepidotermes simplex (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3TDSN",
+   "status": "accepted",
+   "label": "Lepidotermes simplex (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210760",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Lepidotermes vastus": {
+  "gbif": {
+   "key": 9790970,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Lepidotermes vastus Uys, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "3TDSP",
+   "status": "accepted",
+   "label": "Lepidotermes vastus Uys, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210761",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

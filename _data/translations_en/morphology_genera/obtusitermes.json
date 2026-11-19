@@ -1,0 +1,21 @@
+{
+ "note": "The alate of O. monomorphus is recorded in the original as Imago. Unknown.; the alate section rests only on the genus-level comparison of Cuezzo et al. (2017). Constantino & Acioli (2009) state that the soldier mandibles are without points, which contradicts the small points of Scheffrahn et al. (2025); the text follows the latter's original description and the disagreement is recorded here.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Soldier monotypic, which is the origin of the genus name. Soldier antennae with fewer than 13 segments. The hindgut structure is unique among the Isoptera: P1 is connected to P3 by a very long tubular P2, P2 bent through about 180°, both ends weakly sclerotised."
+  },
+  {
+   "label": "Soldier",
+   "text": "Monotypic, small; head capsule reddish brown, nasus darker; head capsule pear-shaped in dorsal view, constricted at the anterior 1/3, convex in lateral view behind the antennal fossae; nasus broadly conical, upturned about 10°; antennae 11 segments, segment formula 2<3>4≤5; mandibles with small tooth processes. The number of vertex setae differs between species: O. monomorphus has only 6 long setae, whereas O. panamae and O. formosulus have many scattered long and short setae."
+  },
+  {
+   "label": "Worker",
+   "text": "Monotypic; antennae 12 segments; midgut and P1 tubular, the mixed segment absent, P1 with a slightly darker constriction near the middle; left mandible apical tooth as long as the 1st marginal tooth, molar plate ridged; the sclerotised part of the enteric valve very long, tubular, the two rings separated by about 1 mm of smooth cuticle."
+  },
+  {
+   "label": "Alate",
+   "text": "Postclypeus slightly arched in lateral view, anterior margin straight, posterior margin slightly convex, as in Sandsitermes, Caetetermes, Caribitermes, Cortaritermes and Nasutitermes."
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "latin": "Crepititermes",
+ "zh": "响白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Crepititermes Emerson, 1925: 433 [first introduced as a subgenus of Mirotermes Wasmann, 1897].",
+ "type_species": "Mirotermes (Crepititermes) verruculosus Emerson, 1925 by monotypy.",
+ "references": [
+  {
+   "ref": "Emerson, 1925: 433",
+   "note": "Mirotermes (Crepititermes); characters."
+  },
+  {
+   "ref": "Mathews, 1977: 133–134",
+   "note": "Crepititermes; synonymy; characters; comparisons."
+  },
+  {
+   "ref": "Mill, 1983a: 182, 186",
+   "note": "Crepititermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Constantino, 1999a: 405, 419",
+   "note": "Crepititermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 24",
+   "note": "Crepititermes; key."
+  }
+ ],
+ "nrefs": 16
+}

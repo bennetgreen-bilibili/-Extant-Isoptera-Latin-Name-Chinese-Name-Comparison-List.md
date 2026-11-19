@@ -1,0 +1,31 @@
+{
+ "fetched_at": "2026-10-30T15:46:04Z",
+ "latin": "Amicotermes",
+ "papers": [
+  {
+   "abstract": "(Uploaded by Plazi from the Biodiversity Heritage Library) No abstract provided.",
+   "abstract_chars": 80,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "William A. Sands"
+   ],
+   "cited_by": 7,
+   "date": "1999-01-01",
+   "doi": "10.5281/zenodo.16460267",
+   "doi_url": "https://doi.org/10.5281/zenodo.16460267",
+   "id": "https://openalex.org/W2598686008",
+   "issue": "",
+   "language": "en",
+   "oa_url": "https://www.biodiversitylibrary.org/part/76462",
+   "openalex_url": "https://openalex.org/W2598686008",
+   "pages": "145-193",
+   "title": "A review of the soldierless African termite genus Amicotermes Sands 1972 (Isoptera, Termitidae, Apicotermitinae)",
+   "type": "article",
+   "venue": "Biodiversity Heritage Library (Smithsonian Institution)",
+   "volume": "68",
+   "year": 1999
+  }
+ ],
+ "zh": "善白蚁属"
+}

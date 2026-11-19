@@ -1,13 +1,14 @@
 {%- comment -%}
   物种页图片图集：只展示前 6 张（与 _tools/图片授权与署名说明.md 的口径一致），
   其余照片在本语言的「全部图片」页（_layouts/photos.html）。
-  数据：_data/species_photos.json —— 由 .github/workflows/build_species_photos.py 生成，
-  来源 iNaturalist（taxon_name 精确匹配）+ Wikimedia Commons（LicenseShortName 白名单）。
-  没有授权照片的物种不输出任何内容。
+  数据分片：_data/species_photos/species/<属>.json —— 由 .github/workflows/build_species_photos.py 生成,
+  值是 {拉丁学名: [照片]}，<属>＝page.genus_id；照片来源 iNaturalist（taxon_name 精确匹配）
+  + Wikimedia Commons（LicenseShortName 白名单）。没有授权照片的物种不输出任何内容。
 {%- endcomment -%}
 {%- assign sg_photos = nil -%}
+{%- assign _gid = page.genus_id | default: page.latin | split: ' ' | first | downcase -%}
 {%- if site.data.species_photos -%}
-{%- assign sg_photos = site.data.species_photos.species[page.latin] -%}
+{%- assign sg_photos = site.data.species_photos.species[_gid][page.latin] -%}
 {%- endif -%}
 {%- if sg_photos and sg_photos.size > 0 -%}
 {%- assign sg_limit = 6 -%}

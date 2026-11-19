@@ -1,5 +1,9 @@
 
-import json, glob, os, re
+import json, glob, os, re, sys
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(
+    os.path.abspath(__file__)))), "_tools"))
+import shard_io  # noqa: E402
 
 def _fix_latin(t):
     return re.sub(r"\b([A-Z][a-z]{3,}) ([a-z]{2,6})\b", lambda m: m.group(1) + m.group(2), t)
@@ -40,6 +44,9 @@ for page, it in items.items():
     }
     if not any(rec[k] for k in ("soldier","alate","worker","nymph","biology","distribution")): continue
     out[page] = rec
-json.dump(out, open("_data/fauna_species.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1, sort_keys=True)
+# sorted keys: the pre-split aggregate was written with sort_keys=True, so the
+# shards inherit sorted order; keeping it makes a no-op run rewrite nothing
+out = {page: {k: out[page][k] for k in sorted(out[page])} for page in sorted(out)}
+written, removed = shard_io.save("fauna_species", out)
 miss = [p for p in batches if p not in out]
-print("entries", len(out), "bytes", os.path.getsize("_data/fauna_species.json"), "| pages without fauna", len(miss))
+print("entries", len(out), "shard files", written, "removed", removed, "| pages without fauna", len(miss))

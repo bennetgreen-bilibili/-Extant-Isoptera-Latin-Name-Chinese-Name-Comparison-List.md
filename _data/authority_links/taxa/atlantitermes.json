@@ -1,0 +1,178 @@
+{
+ "Atlantitermes guarinim": {
+  "gbif": {
+   "key": 9684660,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Atlantitermes guarinim Fontes, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "JH3L",
+   "status": "accepted",
+   "label": "Atlantitermes guarinim Fontes, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234963",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Atlantitermes ibitiriguara": {
+  "gbif": {
+   "key": 9735972,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Atlantitermes ibitiriguara Fontes, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "JH3M",
+   "status": "accepted",
+   "label": "Atlantitermes ibitiriguara Fontes, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234964",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Atlantitermes kirbyi": {
+  "gbif": {
+   "key": 9799485,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Atlantitermes kirbyi (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "JH3N",
+   "status": "accepted",
+   "label": "Atlantitermes kirbyi (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234965",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Atlantitermes oculatissimus": {
+  "gbif": {
+   "key": 9242013,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Atlantitermes oculatissimus (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "JH3Q",
+   "status": "accepted",
+   "label": "Atlantitermes oculatissimus (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234966",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Atlantitermes osborni": {
+  "gbif": {
+   "key": 9529973,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Atlantitermes osborni (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "JH3R",
+   "status": "accepted",
+   "label": "Atlantitermes osborni (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234967",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Atlantitermes raripilus": {
+  "gbif": {
+   "key": 9715732,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Atlantitermes raripilus (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "JH3S",
+   "status": "accepted",
+   "label": "Atlantitermes raripilus (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234968",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Atlantitermes snyderi": {
+  "gbif": {
+   "key": 9429047,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Atlantitermes snyderi (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "JH3T",
+   "status": "accepted",
+   "label": "Atlantitermes snyderi (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234969",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Atlantitermes stercophilus": {
+  "gbif": {
+   "key": 9787047,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Atlantitermes stercophilus Constantino & DeSouza, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "5VWLD",
+   "status": "accepted",
+   "label": "Atlantitermes stercophilus Constantino & DeSouza, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234970",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

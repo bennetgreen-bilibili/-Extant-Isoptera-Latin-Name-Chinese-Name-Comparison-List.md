@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""建立 _data/authority_links.json：GBIF Backbone + Catalogue of Life (ChecklistBank) + Wikidata 外链与一致性核对。
+"""建立 _data/authority_links/ 分片：GBIF Backbone + Catalogue of Life (ChecklistBank) + Wikidata 外链与一致性核对。
 
 用途
   为站点 3071 个物种/亚种页面提供「其他数据库」外链与「本站名 vs 外部接受名」一致性提示。
@@ -8,12 +8,12 @@
 
 用法
   python .github/workflows/build_authority_links.py                 # 只统计，不写文件
-  python .github/workflows/build_authority_links.py --write         # 增量抓取并写入 _data/authority_links.json + downloads CSV
+  python .github/workflows/build_authority_links.py --write         # 增量抓取并写入 _data/authority_links/ 分片 + downloads CSV
   python .github/workflows/build_authority_links.py --refresh       # 重新抓取缺失/出错条目（默认行为）
   python .github/workflows/build_authority_links.py --refresh-all   # 全部重新抓取
   python .github/workflows/build_authority_links.py --limit 50      # 只抓 50 个（调试）
   python .github/workflows/build_authority_links.py --budget 600    # 最多花 600 秒，剩余条目留给下次
-  python .github/workflows/build_authority_links.py --check         # 校验已提交 JSON 的完整性与一致性
+  python .github/workflows/build_authority_links.py --check         # 校验已提交分片的完整性与一致性
   python .github/workflows/build_authority_links.py --report        # 打印覆盖统计
 
 数据源（均为免费、无需 API key）
@@ -22,8 +22,8 @@
   Wikidata                 https://query.wikidata.org/sparql （P225 taxon name）
 
 说明
-  - 结果缓存进 _data/authority_links.json，重复运行自动增量（--refresh-all 才全量重抓）。
-  - 输出确定性：条目按拉丁名排序、JSON 缩进 1，--check 可校验。
+  - 结果缓存进 _data/authority_links/，重复运行自动增量（--refresh-all 才全量重抓）。
+  - 输出确定性：条目按拉丁名排序、每个属一档分片、JSON 缩进 1，--check 可校验。
   - 礼貌抓取：全局限速、指数退避重试、失败留空不阻断。
 """
 
@@ -45,9 +45,12 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT / "_tools"))
+import shard_io  # noqa: E402
+
 SPECIES_DIR = ROOT / "_species"
 DATA_DIR = ROOT / "_data"
-OUT_PATH = DATA_DIR / "authority_links.json"
+DATA_NAME = "authority_links"
 CSV_PATH = ROOT / "downloads" / "isoptera-authority-crossref.csv"
 
 GBIF_MATCH = "https://api.gbif.org/v1/species/match"
@@ -423,12 +426,12 @@ def consistency_zh(flags: list[str]) -> str:
 # ------------------------------------------------------------------ 主流程
 
 def load_existing() -> dict:
-    if not OUT_PATH.exists():
+    if not shard_io.exists(DATA_NAME):
         return {}
     try:
-        data = json.loads(OUT_PATH.read_text(encoding="utf-8"))
-    except (json.JSONDecodeError, OSError):
-        print(f"warn: {OUT_PATH} 无法解析，按空缓存处理", file=sys.stderr)
+        data = shard_io.load(DATA_NAME)
+    except (json.JSONDecodeError, OSError) as exc:
+        print(f"warn: _data/{DATA_NAME}/ 无法解析，按空缓存处理：{exc}", file=sys.stderr)
         return {}
     return data.get("taxa") or {}
 
@@ -666,10 +669,9 @@ def build_meta(taxa: list[dict], entries: dict, args: argparse.Namespace) -> dic
 
 def write_outputs(taxa: list[dict], entries: dict, args: argparse.Namespace) -> None:
     payload = {"meta": build_meta(taxa, entries, args), "taxa": dict(sorted(entries.items()))}
-    text = json.dumps(payload, ensure_ascii=False, indent=1, sort_keys=False) + "\n"
-    OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    OUT_PATH.write_text(text, encoding="utf-8")
-    print(f"写入 {OUT_PATH.relative_to(ROOT)}  ({len(text) / 1024:.0f} KB, {len(entries)} 条)", file=sys.stderr)
+    written, removed = shard_io.save(DATA_NAME, payload)
+    print(f"写入 _data/{DATA_NAME}/  ({written} 个分片文件, {removed} 个删除, {len(entries)} 条)",
+          file=sys.stderr)
     write_csv(taxa, entries)
 
 
@@ -710,13 +712,13 @@ def write_csv(taxa: list[dict], entries: dict) -> None:
 
 
 def run_check(taxa: list[dict]) -> int:
-    if not OUT_PATH.exists():
-        print(f"error: 缺少 {OUT_PATH}", file=sys.stderr)
+    if not shard_io.exists(DATA_NAME):
+        print(f"error: 缺少 _data/{DATA_NAME}/", file=sys.stderr)
         return 1
     try:
-        payload = json.loads(OUT_PATH.read_text(encoding="utf-8"))
+        payload = shard_io.load(DATA_NAME)
     except json.JSONDecodeError as exc:
-        print(f"error: {OUT_PATH.name} 不是合法 JSON：{exc}", file=sys.stderr)
+        print(f"error: _data/{DATA_NAME}/ 不是合法 JSON：{exc}", file=sys.stderr)
         return 1
     entries = payload.get("taxa") or {}
     names = [t["latin"] for t in taxa]
@@ -748,10 +750,10 @@ def run_check(taxa: list[dict]) -> int:
 
 
 def run_report(taxa: list[dict]) -> int:
-    if not OUT_PATH.exists():
-        print(f"error: 缺少 {OUT_PATH}", file=sys.stderr)
+    if not shard_io.exists(DATA_NAME):
+        print(f"error: 缺少 _data/{DATA_NAME}/", file=sys.stderr)
         return 1
-    payload = json.loads(OUT_PATH.read_text(encoding="utf-8"))
+    payload = shard_io.load(DATA_NAME)
     meta = payload.get("meta") or {}
     entries = payload.get("taxa") or {}
     print(json.dumps(meta.get("counts") or {}, ensure_ascii=False, indent=1))
@@ -764,7 +766,7 @@ def run_report(taxa: list[dict]) -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="GBIF / Catalogue of Life / Wikidata 外链与一致性核对")
-    parser.add_argument("--write", action="store_true", help="写入 _data/authority_links.json 与 CSV")
+    parser.add_argument("--write", action="store_true", help="写入 _data/authority_links/ 分片与 CSV")
     parser.add_argument("--check", action="store_true", help="校验已提交 JSON")
     parser.add_argument("--report", action="store_true", help="打印统计")
     parser.add_argument("--limit", type=int, default=0, help="本次最多抓取多少个学名")

@@ -1,0 +1,112 @@
+{
+ "Protermes hirticeps": {
+  "gbif": {
+   "key": 9784563,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Protermes hirticeps Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "4N3KK",
+   "status": "accepted",
+   "label": "Protermes hirticeps Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084239",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Protermes minimus": {
+  "gbif": {
+   "key": 9770168,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Protermes minimus Ruelle, 1971",
+   "accepted": null
+  },
+  "col": {
+   "id": "4N3KL",
+   "status": "accepted",
+   "label": "Protermes minimus Ruelle, 1971",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084241",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Protermes minutus": {
+  "gbif": {
+   "key": 9802658,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Protermes minutus (Grassé, 1937)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4N3KM",
+   "status": "accepted",
+   "label": "Protermes minutus (Grassé, 1937)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084244",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Protermes mwekerae": {
+  "gbif": {
+   "key": 9651961,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Protermes mwekerae Ruelle, 1971",
+   "accepted": null
+  },
+  "col": {
+   "id": "4N3KN",
+   "status": "accepted",
+   "label": "Protermes mwekerae Ruelle, 1971",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084245",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Protermes prorepens": {
+  "gbif": {
+   "key": 9718796,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Protermes prorepens (Sjöstedt, 1907)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4N3KP",
+   "status": "accepted",
+   "label": "Protermes prorepens (Sjöstedt, 1907)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084247",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

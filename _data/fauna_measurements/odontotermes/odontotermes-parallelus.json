@@ -1,0 +1,58 @@
+{
+ "book_n": "271",
+ "book_name": "平行土白蚁 Odontotermes parallelas",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "浦江土白蚁兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.84",
+     "value": "1.72–1.94"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.50",
+     "value": "1.41–1.56"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.03",
+     "value": "0.97–1.12"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.18",
+     "value": "1.12–1.25"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.65",
+     "value": "0.61–0.69"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.68",
+     "value": "0.66–0.69"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.01",
+     "value": "0.97–1.04"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.46",
+     "value": "1.41–1.53"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 74,
+   "unit": "mm"
+  }
+ ]
+}

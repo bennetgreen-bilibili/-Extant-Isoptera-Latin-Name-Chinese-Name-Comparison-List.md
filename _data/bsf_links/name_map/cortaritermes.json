@@ -1,0 +1,57 @@
+{
+ "Cortaritermes fulviceps": {
+  "label": "Cortaritermes fulviceps (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84407,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84407/overview",
+  "valid_label": null,
+  "valid_otu": 84407,
+  "verified": false
+ },
+ "Cortaritermes intermedius": {
+  "label": "Cortaritermes intermedius (Banks, 1919)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84668,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84668/overview",
+  "valid_label": null,
+  "valid_otu": 84668,
+  "verified": false
+ },
+ "Cortaritermes piliceps": {
+  "label": "Cortaritermes piliceps (Holmgren, 1910)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84754,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84754/overview",
+  "valid_label": null,
+  "valid_otu": 84754,
+  "verified": false
+ },
+ "Cortaritermes rizzinii": {
+  "label": "Cortaritermes rizzinii (Araujo, 1971)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84408,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84408/overview",
+  "valid_label": null,
+  "valid_otu": 84408,
+  "verified": false
+ },
+ "Cortaritermes silvestrii": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 84409 Cortaritermes silvestri (Holmgren, 1910)；OTU 84185 Cornitermes silvestrii Emerson, 1949；OTU 1114068 Silvestritermes Rocha & Cancello, 2012；OTU 782588 Silvestritermes Emerson, 1955 now Silvestritermes Emerson, 1955",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ }
+}

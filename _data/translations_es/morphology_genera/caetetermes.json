@@ -1,0 +1,17 @@
+{
+ "note": "El original indica Imago. Unknown, por lo que no se incluye la sección del alado; los caracteres del obrero proceden de la descripción del obrero mayor (major worker) en el original. La clave de Constantino 1999 incluye además caracteres como el tubo frontal y el número de segmentos antenales, que no se citan en esta ocasión y por ello no se incluyeron en el cuerpo del texto.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "La cabeza del soldado se contrae bruscamente por detrás de las antenas y es globosa en su parte posterior; el nasus es largo y cilíndrico, con la base no especialmente engrosada; el posclípeo es inclinado y claramente visible en vista dorsal; las mandíbulas carecen de diente apical y presentan en su extremo una mancha córnea delgada, manifiesta pero de contorno poco neto. El índice mandibular izquierdo del obrero es 0.49, el diente apical es más corto que M1+2, y el margen cortante de M1+2 es ondulado y está separado de M3 por una escotadura aguda; las patas son largas pero más cortas que en el soldado, y la coxa anterior presenta una elevación débil en su cara externa (en el soldado la elevación es manifiesta)."
+  },
+  {
+   "label": "Soldado",
+   "text": "La cápsula cefálica se contrae bruscamente por detrás de las antenas y es globosa en su parte posterior; el nasus es largo y cilíndrico, con la base no especialmente engrosada; el posclípeo es inclinado y claramente visible en vista dorsal; las mandíbulas carecen de diente apical y presentan en su extremo una mancha córnea delgada, manifiesta pero de contorno poco neto."
+  },
+  {
+   "label": "Obrero",
+   "text": "(Obrero mayor) posclípeo ancho/largo 3.66–4.89; índice mandibular izquierdo 0.49, diente apical más corto que M1+2; margen cortante de M1+2 ondulado y separado de M3 por una escotadura aguda; M3 desarrollado, con el borde posterior convexo; patas largas pero más cortas que en el soldado, con una elevación débil en la cara externa de la coxa anterior."
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "Ekphysotermes jarmuranus": {
+  "gbif": {
+   "key": 4803469,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ekphysotermes jarmuranus (Hill, 1929)",
+   "accepted": null
+  },
+  "col": {
+   "id": "38W8N",
+   "status": "accepted",
+   "label": "Ekphysotermes jarmuranus (Hill, 1929)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272411",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ekphysotermes kalgoorliensis": {
+  "gbif": {
+   "key": 4803470,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ekphysotermes kalgoorliensis (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "38W8P",
+   "status": "accepted",
+   "label": "Ekphysotermes kalgoorliensis (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272412",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ekphysotermes ocellaris": {
+  "gbif": {
+   "key": 4803467,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ekphysotermes ocellaris (Mjöberg, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "38W8Q",
+   "status": "accepted",
+   "label": "Ekphysotermes ocellaris (Mjöberg, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272413",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ekphysotermes pelatus": {
+  "gbif": {
+   "key": 4803472,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ekphysotermes pelatus (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "38W8R",
+   "status": "accepted",
+   "label": "Ekphysotermes pelatus (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272414",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ekphysotermes percomis": {
+  "gbif": {
+   "key": 4803465,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ekphysotermes percomis (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "38W8S",
+   "status": "accepted",
+   "label": "Ekphysotermes percomis (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272415",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

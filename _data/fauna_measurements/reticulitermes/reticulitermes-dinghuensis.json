@@ -1,0 +1,150 @@
+{
+ "book_n": "205",
+ "book_name": "鼎湖散白蚁 Reticulitermes",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.29",
+     "value": "2.06–2.55"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.14",
+     "value": "1.06–1.25"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.06",
+     "value": "1.00–1.13"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.40",
+     "value": "0.33–0.45"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.36",
+     "value": "0.30–0.40"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.04",
+     "value": "0.92–1.15"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.81",
+     "value": "1.63–1.95"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.47",
+     "value": "0.42–0.50"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.14",
+     "value": "0.13–0.16"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.60",
+     "value": "0.57–0.63"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.51",
+     "value": "0.50–0.58"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.88",
+     "value": "0.83–0.95"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.94",
+     "value": "0.83–1.00"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 147,
+   "unit": "mm"
+  },
+  {
+   "caste": "soldier",
+   "heading": "兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.17",
+     "value": "2.04–2.26"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "0.99",
+     "value": "0.97–1.01"
+    },
+    {
+     "key": "head_height",
+     "mean": "0.89",
+     "value": "0.87–0.90"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.41",
+     "value": "0.34–0.45"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.33",
+     "value": "0.30–0.34"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.44",
+     "value": "0.43–0.44"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.10",
+     "value": "0.10–0.11"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.48",
+     "value": "0.43–0.51"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.41",
+     "value": "0.41–0.42"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.74",
+     "value": "0.72–0.76"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.79",
+     "value": "0.78–0.80"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 166,
+   "unit": "mm"
+  }
+ ]
+}

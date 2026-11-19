@@ -1,0 +1,24 @@
+{
+ "Cornicapritermes mucronatus": {
+  "gbif": {
+   "key": 9378860,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cornicapritermes mucronatus Emerson, 1950",
+   "accepted": null
+  },
+  "col": {
+   "id": "YFZJ",
+   "status": "accepted",
+   "label": "Cornicapritermes mucronatus Emerson, 1950",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225310",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

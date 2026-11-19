@@ -1,0 +1,58 @@
+{
+ "book_n": "366",
+ "book_name": "松桃华扭白蚁 Sinocapritermes songtaoensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "松桃华扭白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_mandibles",
+     "value": "3.072–3.264"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.656–1.80"
+    },
+    {
+     "key": "head_width",
+     "value": "1.176–1.20"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "1.56–1.728"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "0.768–0.912"
+    },
+    {
+     "key": "postmentum_max_width",
+     "value": "0.336–0.432"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.168–0.216"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "0.288–0.36"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.60–0.72"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "0.96–1.008"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 831,
+   "unit": "mm"
+  }
+ ]
+}

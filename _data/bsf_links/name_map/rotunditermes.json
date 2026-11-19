@@ -1,0 +1,24 @@
+{
+ "Rotunditermes bragantinus": {
+  "label": "Rotunditermes bragantinus (Roonwal & Rathore, 1976)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84865,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84865/overview",
+  "valid_label": null,
+  "valid_otu": 84865,
+  "verified": false
+ },
+ "Rotunditermes rotundiceps": {
+  "label": "Rotunditermes rotundiceps (Holmgren, 1906)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84866,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84866/overview",
+  "valid_label": null,
+  "valid_otu": 84866,
+  "verified": false
+ }
+}

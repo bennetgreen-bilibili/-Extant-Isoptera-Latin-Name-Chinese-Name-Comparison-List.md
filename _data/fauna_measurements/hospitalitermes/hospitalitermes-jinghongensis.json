@@ -1,0 +1,34 @@
+{
+ "book_n": "390",
+ "book_name": "景洪须白蚁 Hospitalitermes jinghongensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "景洪须白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_width",
+     "value": "1.13–1.20"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.408–0.432"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.672–0.692"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "2.252–2.712"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 1428,
+   "unit": "mm"
+  }
+ ]
+}

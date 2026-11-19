@@ -1,0 +1,50 @@
+{
+ "book_n": "24",
+ "book_name": "福建树白蚊 Glyptotermese fujianensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "福建树白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "value": "0.93–0.95"
+    },
+    {
+     "key": "head_height",
+     "value": "0.90–0.92"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.22–0.23"
+    },
+    {
+     "key": "labrum_width",
+     "value": "0.22"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "0.61–0.66"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "0.44–0.48"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.87–0.92"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "0.60"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 450,
+   "unit": "mm"
+  }
+ ]
+}

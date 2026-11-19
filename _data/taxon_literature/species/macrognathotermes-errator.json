@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "北澳稀树草原的首次正式记录",
+   "heading_en": "First official record for north Australian savanna",
+   "heading_es": "Primer registro oficial para la sabana del norte de Australia",
+   "paragraphs": [
+    {
+     "src": [
+      "S0210"
+     ],
+     "text": "据摘要，Dawes-Gromadzki（2008）在澳大利亚北领地查尔斯·达尔文国家公园的稀树草原样地中记录到游荡长颚白蚁（<i>Macrognathotermes errator</i>），这是该种在北澳稀树草原的首次正式记录。",
+     "text_en": "According to the abstract, Dawes-Gromadzki (2008) recorded <i>Macrognathotermes errator</i> in savanna woodland sites in Charles Darwin National Park, Northern Territory, Australia — the first official record of this species for north Australian savanna.",
+     "text_es": "Según el resumen, Dawes-Gromadzki (2008) registró <i>Macrognathotermes errator</i> en parcelas de sabana arbolada en el Parque Nacional Charles Darwin, Territorio del Norte, Australia: el primer registro oficial de esta especie para la sabana del norte de Australia."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0210",
+   "citation": "Dawes-Gromadzki, T. Z. (2008). Abundance and diversity of termites in a savanna woodland reserve in tropical Australia. Australian Journal of Entomology.",
+   "doi": "10.1111/j.1440-6055.2008.00662.x"
+  }
+ ]
+}

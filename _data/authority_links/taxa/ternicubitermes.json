@@ -1,0 +1,314 @@
+{
+ "Ternicubitermes bilobatodes": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Ternicubitermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V6MTT",
+   "status": "accepted",
+   "label": "Ternicubitermes bilobatodes (Silvestri, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ternicubitermes breviceps": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Ternicubitermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9S7V",
+   "status": "accepted",
+   "label": "Ternicubitermes breviceps (Sjöstedt, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ternicubitermes duplex": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Ternicubitermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9XQC",
+   "status": "accepted",
+   "label": "Ternicubitermes duplex (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ternicubitermes falcifer": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Ternicubitermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9XJW",
+   "status": "accepted",
+   "label": "Ternicubitermes falcifer (Williams, 1966)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ternicubitermes glebae": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Ternicubitermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9VSC",
+   "status": "accepted",
+   "label": "Ternicubitermes glebae (Sjöstedt, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ternicubitermes latens": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Ternicubitermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9SSP",
+   "status": "accepted",
+   "label": "Ternicubitermes latens (Williams, 1966)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ternicubitermes microduplex": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Ternicubitermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9V3S",
+   "status": "accepted",
+   "label": "Ternicubitermes microduplex (Fuller, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ternicubitermes muneris": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Ternicubitermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9X9Q",
+   "status": "accepted",
+   "label": "Ternicubitermes muneris (Sjöstedt, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ternicubitermes pallidiceps": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Ternicubitermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9XS8",
+   "status": "accepted",
+   "label": "Ternicubitermes pallidiceps (Sjöstedt, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ternicubitermes subcrenulatus": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Ternicubitermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9RHF",
+   "status": "accepted",
+   "label": "Ternicubitermes subcrenulatus (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ternicubitermes undulatus": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Ternicubitermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9SX4",
+   "status": "accepted",
+   "label": "Ternicubitermes undulatus (Fuller, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ternicubitermes weissi": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Ternicubitermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9X58",
+   "status": "accepted",
+   "label": "Ternicubitermes weissi (Silvestri, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Ternicubitermes zavattarii": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Ternicubitermes Josens & Deligne, 2021",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9T5L",
+   "status": "accepted",
+   "label": "Ternicubitermes zavattarii (Ghidini, 1937)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

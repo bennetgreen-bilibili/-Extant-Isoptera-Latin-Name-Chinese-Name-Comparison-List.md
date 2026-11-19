@@ -1,0 +1,25 @@
+{
+ "zh_name": "帕塔瓦白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 Grigiotermes 很相似，但可由工蚁肠瓣 armature 的形状清楚区分；此外工蚁 P1 虽膨大，程度不及 Grigiotermes。同一批形态标准（体壁、上颚、消化道与肠瓣）也可将本属与其余南美无兵蚁白蚁属区分。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "硬化部位深褐，密布数千根微小刚毛。头壳具约 100 根稀疏长刚毛。复眼与单眼大。fontanelle 小至中等，位于复眼前缘水平。前胸背板伸长，具数十根长刚毛。中、后胸背板后缘略凹，角强圆。"
+  },
+  {
+   "label": "工蚁",
+   "text": "中至大型，头宽 0.69–1.1 mm（属级量度）。头壳淡黄、圆，散布微小刚毛与约 100 根长刚毛；fontanelle 小、几乎不显；上颚与前胫节形态见原文图 5C、5D。肠瓣插入 paunch 的管状延伸部，armature 发达，由 6 个圆形带刺 pad 组成；肠瓣前部由 6 个卵形 cushion 组成，每个由约 50–80 个鳞片构成，后缘具刺缨。中肠—proctodeum 交界形成小球，被 proctodeum 覆盖，略伸长成短的、明显的 mixed segment；后肠 P1 宽。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0054",
+   "citation": "Bourguignon T.; Roisin Y. 2016. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Grigiotermes Mathews and description of five new genera. Zoological Journal of the Linnean Society 176(1): 15–35. https://doi.org/10.1111/zoj.12305",
+   "locator": "Patawatermes Bourguignon & Roisin, gen. nov. (genus treatment, pp. 23–26 per journal pagination; treatment text read from Zenodo deposit)"
+  }
+ ],
+ "note": "属级量度：工蚁头宽 0.69–1.1 mm。无兵蚁节（soldierless）。属级 treatment 的页码未能从 Zenodo 记录核实（记录只给 isPartOf 全文与作者顺序），故 locator 只写属级 treatment 与作者年。"
+}

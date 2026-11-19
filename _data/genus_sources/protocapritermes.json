@@ -1,0 +1,27 @@
+{
+ "latin": "Protocapritermes",
+ "zh": "始扭白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Protocapritermes Holmgren, 1912a: 108, 109 [first introduced as a subgenus of Mirotermes Wasmann, 1897].",
+ "type_species": "Mirotermes (Protocapritermes) krisiformis Froggatt, 1898 by monotypy.",
+ "references": [
+  {
+   "ref": "Hill, 1942: 14, 377–379, 414",
+   "note": "Mirotermes (Protocapritermes); key; synonymy; imago, soldier, worker diagnosed."
+  },
+  {
+   "ref": "Krishna, 1968: 274",
+   "note": "Protocapritermes; synonymy; key; characters; phylogeny; species included; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 32",
+   "note": "Protocapritermes; key."
+  },
+  {
+   "ref": "Bourguignon et al., 2008: 4, 26",
+   "note": "Protocapritermes; characters; key."
+  }
+ ],
+ "nrefs": 13
+}

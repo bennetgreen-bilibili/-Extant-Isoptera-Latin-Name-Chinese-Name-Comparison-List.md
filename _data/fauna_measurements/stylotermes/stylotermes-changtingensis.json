@@ -1,0 +1,73 @@
+{
+ "book_n": "221",
+ "book_name": "长汀杆白蚁 Stylotermes changtingensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "长汀杆白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.50",
+     "value": "2.44–2.56"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.47",
+     "value": "1.44–1.56"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.21",
+     "value": "1.16–1.25"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.40",
+     "value": "0.38–0.41"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.43",
+     "value": "0.41–0.44"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.60",
+     "value": "1.56–1.66"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.90",
+     "value": "1.78–2.00"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.23",
+     "value": "0.22–0.23"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.68",
+     "value": "0.62–0.75"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.32",
+     "value": "1.25–1.41"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.22",
+     "value": "1.16–1.25"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 498,
+   "unit": "mm"
+  }
+ ]
+}

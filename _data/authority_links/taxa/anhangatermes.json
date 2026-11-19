@@ -1,0 +1,124 @@
+{
+ "Anhangatermes anhanguera": {
+  "gbif": {
+   "key": 8488375,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anhangatermes anhanguera Oliveira",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Anhangatermes Constantino, 1990",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q140725732",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Anhangatermes eurycephalus": {
+  "gbif": {
+   "key": 8633442,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anhangatermes eurycephalus Oliveira & Constantino",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Anhangatermes Constantino, 1990",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q140871259",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Anhangatermes juruena": {
+  "gbif": {
+   "key": 8699331,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anhangatermes juruena Oliveira & Constantino",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Anhangatermes Constantino, 1990",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q140686218",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Anhangatermes macarthuri": {
+  "gbif": {
+   "key": 8505220,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anhangatermes macarthuri Constantino, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "66QBF",
+   "status": "accepted",
+   "label": "Anhangatermes macarthuri Constantino, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234868",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anhangatermes pilosus": {
+  "gbif": {
+   "key": 8565206,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anhangatermes pilosus Oliveira & Constantino",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Anhangatermes Constantino, 1990",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q140748139",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

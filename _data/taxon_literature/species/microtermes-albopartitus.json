@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "研究记述",
+   "heading_en": "Research notes",
+   "heading_es": "Notas de investigación",
+   "paragraphs": [
+    {
+     "text": "据摘要，Bigger（1966）在坦噶尼喀南部 50×24 ft、深 6 ft 的坑中记录部白小白蚁（<i>Microtermes albopartitus</i>）425 个被占用的巢室，这些巢室近随机散布并集中于表层 2 ft。",
+     "text_en": "According to the abstract, in a pit measuring 50×24 ft and 6 ft deep in southern Tanganyika, Bigger (1966) recorded 425 occupied nest chambers of <i>Microtermes albopartitus</i>; the chambers were scattered almost at random and concentrated in the upper 2 ft.",
+     "text_es": "Según el resumen, en una excavación de 50×24 ft y 6 ft de profundidad en el sur de Tanganica, Bigger (1966) registró 425 cámaras de nido ocupadas de <i>Microtermes albopartitus</i>; las cámaras estaban dispersas casi al azar y concentradas en los primeros 2 ft.",
+     "src": [
+      "S0193"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0193",
+   "citation": "M. Bigger 1966 The biology and control of termites damaging field crops in Tanganyika. Bulletin of Entomological Research.",
+   "doi": "10.1017/s0007485300056509"
+  }
+ ]
+}

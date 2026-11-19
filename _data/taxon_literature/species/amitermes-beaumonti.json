@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "肠道原生动物",
+   "heading_en": "Gut protozoa",
+   "heading_es": "Protozoos intestinales",
+   "paragraphs": [
+    {
+     "src": [
+      "S0204"
+     ],
+     "text": "据摘要，Kirby（1932）在博蒙特弓白蚁（<i>Amitermes beaumonti</i>）肠道中描述了两个新种原生动物：细小微单鞭虫（<i>Chilomastix minuta</i>）与白蚁内滴虫（<i>Embadomonas termitis</i>）；并以包括该种在内的 5 种弓白蚁作寄主，描述了博蒙特内阿米巴（<i>Endamoeba beaumonti</i>）。",
+     "text_en": "According to the abstract, Kirby (1932) described two new protozoan species from the gut of <i>Amitermes beaumonti</i>, <i>Chilomastix minuta</i> and <i>Embadomonas termitis</i>, and described <i>Endamoeba beaumonti</i> from five <i>Amitermes</i> hosts including this species.",
+     "text_es": "Según el resumen, Kirby (1932) describió dos especies nuevas de protozoos del intestino de <i>Amitermes beaumonti</i>, <i>Chilomastix minuta</i> y <i>Embadomonas termitis</i>, y describió <i>Endamoeba beaumonti</i> a partir de cinco hospedadores de <i>Amitermes</i>, incluida esta especie."
+    }
+   ]
+  },
+  {
+   "heading": "携带的线虫",
+   "heading_en": "Nematodes carried",
+   "heading_es": "Nematodos transportados",
+   "paragraphs": [
+    {
+     "src": [
+      "S0212"
+     ],
+     "text": "据摘要，Kanzaki 等（2010）从巴拿马巴罗科罗拉多岛采到的博蒙特弓白蚁（<i>Amitermes beaumonti</i>）体内分离到线虫新种 <i>Pseudaphelenchus vindai</i>，该线虫在 SSU rDNA 树上与同属的 <i>Pseudaphelenchus yukiae</i> 聚成高支持分支，位于滑刃科（Aphelenchoididae）基部。",
+     "text_en": "According to the abstract, Kanzaki et al. (2010) isolated the new nematode <i>Pseudaphelenchus vindai</i> from <i>Amitermes beaumonti</i> collected on Barro Colorado Island, Panama; in the SSU rDNA tree this nematode forms a strongly supported clade with the congeneric <i>Pseudaphelenchus yukiae</i> at the base of Aphelenchoididae.",
+     "text_es": "Según el resumen, Kanzaki et al. (2010) aislaron el nuevo nematodo <i>Pseudaphelenchus vindai</i> de <i>Amitermes beaumonti</i> recolectada en la isla Barro Colorado, Panamá; en el árbol de SSU rDNA este nematodo forma un clado con fuerte apoyo con el congénere <i>Pseudaphelenchus yukiae</i> en la base de Aphelenchoididae."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0204",
+   "citation": "Kirby, H. (1932). Protozoa in termites of the genus Amitermes. Parasitology.",
+   "doi": "10.1017/s0031182000020709"
+  },
+  {
+   "id": "S0212",
+   "citation": "Kanzaki, N., Giblin-Davis, R. M., Herre, E. A., Scheffrahn, R. H. & Center, B. J. (2010). Pseudaphelenchus vindai n. sp. (Tylenchomorpha: Aphelenchoididae) associated with termites in Barro Colorado Island, Panama. Nematology.",
+   "doi": "10.1163/138855410x496187"
+  }
+ ]
+}

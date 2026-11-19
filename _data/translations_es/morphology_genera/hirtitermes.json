@@ -1,0 +1,13 @@
+{
+ "note": "Establecido por Holmgren 1912; el catálogo lo sitúa como subgénero 1, con una sola especie, Eutermes (Hirtitermes) hirtiventris Holmgren (Sarawak). En la clave el alado sólo figura como «(?Hirtitermes n. subg.)» tras la entrada de Eutermes s. str., y el propio autor lo considera dudoso, por lo que no se incluye sección de alado; el original no da caracteres genéricos del obrero.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El soldado pertenece al grupo Constrictus y es de un solo tipo: nasus grande, grueso y cónico, con una depresión basal amplia; la base de la mandíbula izquierda lleva dos dientes evidentes; la pilosidad es dura y de color pardo; los segmentos antenales son alargados. El contraste con Eutermes s. str. radica precisamente en esto: en este último la depresión basal del nasus es pequeña o inexistente, la base de las mandíbulas nunca presenta dientes, la pilosidad no es dura y la mayoría de los segmentos antenales son normales."
+  },
+  {
+   "label": "Soldado",
+   "text": "Monotípico. Nasus grande, grueso y cónico; la depresión basal del nasus es marcada —el original señala expresamente, entre los caracteres del grupo, que en este género la depresión es grande—; la base de la mandíbula izquierda lleva dos dientes evidentes; la cabeza y el nasus están cubiertos de setas duras, de color pardo; los segmentos antenales son largos."
+  }
+ ]
+}

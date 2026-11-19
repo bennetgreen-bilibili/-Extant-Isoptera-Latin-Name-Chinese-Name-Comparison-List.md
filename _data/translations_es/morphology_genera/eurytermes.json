@@ -1,0 +1,21 @@
+{
+ "note": "El tramo final del soldado y el del obrero se ven afectados en el OCR por el desalineado de las dos columnas; solo se han tomado las frases legibles de forma continua y no se han completado los fragmentos incompletos. Caracteres genéricos alemanes reescritos; no es una traducción literal.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Alado con cabeza casi circular, que se estrecha en línea recta hacia delante, frente bastante fuertemente convexa, ojos compuestos pequeños y muy salientes, fontanela evidente y muy posterior (por lo que la banda transversa media es bastante larga); antenas de 15 segmentos (o 14), con el 3.º claramente más corto que el 2.º. Soldado con cabeza gruesa, rectangular, sin ojos, suturas cefálicas invisibles, fontanela apenas aparente; labro triangular, mandíbulas bastante cortas y robustas, mandíbula izquierda con 1 diente grande y fuerte, dirigido hacia delante, por delante del punto medio; antenas muy delgadas, de 14 segmentos. Obrero con cabeza oval, cuya longitud apenas supera la anchura."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza casi circular, estrechada en línea recta hacia delante; frente bastante fuertemente convexa; ojos compuestos pequeños, muy salientes; ojo simple relativamente pequeño, separado del ojo compuesto aproximadamente por su diámetro, con el margen interno algo elevado. Fontanela evidente, muy posterior, por lo que la banda transversa media es bastante larga. Placa basal del postclípeo bastante convexa, de longitud igual a la mitad de su anchura o algo menor, con el límite posterior bastante fuertemente arqueado. Labro con la parte media apenas más ancha que la base, sin banda quitinosa transversa. Mandíbulas con la armadura de tipo Termes, con la base poco desarrollada. Antenas de 15 segmentos, el 3.º mucho más corto que el 2.º y algo más corto que el 4.º (o de 14 segmentos, en cuyo caso el 3.º es tan largo como el 2.º). Pronoto más estrecho y más pequeño que la cabeza, con el margen anterior recto y solo ligeramente replegado hacia arriba; meso- y metanoto solo con una escotadura triangular muy estrecha; ángulos posteriores agudos y no redondeados. Escama del ala anterior solo algo más larga que la del ala posterior; alas cubiertas de pelos finos; vena media del ala anterior que nace directamente de la escama alar (en casos anómalos, de la radial sector), vena media del ala posterior que nace de la radial sector; vena media más próxima a la radial sector que a la cubital. Cercos cortos, sin saliente espinoso. La hembra está densamente cubierta de pelos glandulares; el macho también los presenta, pero más escasos. Tibia anterior con 3 espinas apicales. Cuerpo bastante esbelto."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza gruesa, rectangular; sin ojos; suturas cefálicas invisibles; fontanela casi imperceptible; postclípeo corto. Labro triangular, bastante corto, sin punta apical transparente. Mandíbulas bastante cortas y robustas; mandíbula izquierda con 1 diente grande y fuerte, dirigido hacia delante, por delante del punto medio, con vestigios de un diente en su lado basal; mandíbula derecha con 1 diente algo obtuso. Antenas muy delgadas, de 14 segmentos, el 2.º solo algo más largo que el 5.º. Pronoto que apenas alcanza la mitad de la anchura de la cabeza, con lóbulo anterior grande. Cercos cortos, sin saliente espinoso."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza oval, cuya longitud apenas supera la anchura, convexa; frente cóncava por encima de ella."
+  }
+ ]
+}

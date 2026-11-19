@@ -1,0 +1,31 @@
+{
+ "zh_name": "腔白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁额部沿额具脊、前面凹陷（属名由此而来）；头形与 Mirotermes 其他亚属差别很大，但上颚形状与适应方式仍与 Mirotermes s. str. 相似。Constantino（1999）兵蚁检索表以额突宽、前面凹、上颚明显长于头壳、胫节距 2:2:2 的组合鉴别。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头形与 Mirotermes 其他亚属差异很大；额部具脊、前部凹陷；上颚明显长于头壳，形状与功能似 Mirotermes s. str.；胫节距 2:2:2。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0083",
+   "citation": "Emerson, A. E. 1925. The termites of Kartabo, Bartica District, British Guiana. Zoologica 6: 291–459.",
+   "locator": "p. 442（Subgenus Cavitermes 一节）"
+  },
+  {
+   "id": "S0083",
+   "citation": "Emerson, A. E. 1925. The termites of Kartabo, Bartica District, British Guiana. Zoologica 6: 291–459.",
+   "locator": "p. 442（Subgenus Cavitermes 一节）"
+  },
+  {
+   "id": "S0048",
+   "citation": "Constantino, R. 1999. Chave ilustrada para identificação dos gêneros de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papéis Avulsos de Zoologia 40(25): 387–448.",
+   "locator": "p. 418（兵蚁检索表）"
+  }
+ ],
+ "note": "Emerson（1925）把它作为 Mirotermes 的亚属描述；本次未读 Mathews 1977 等后续修订，故只写原描述与 Constantino（1999）检索表可核的性状。"
+}

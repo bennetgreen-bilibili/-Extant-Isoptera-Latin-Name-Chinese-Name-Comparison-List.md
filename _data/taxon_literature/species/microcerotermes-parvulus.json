@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "分布记录与鉴定问题",
+   "heading_en": "Distribution records and identification problems",
+   "heading_es": "Registros de distribución y problemas de identificación",
+   "paragraphs": [
+    {
+     "text": "根据 Ndiaye、Njie 与 Correa（2019）研究，细小锯白蚁（<i>Microcerotermes parvulus</i>）原描述自热带非洲，在非洲各区均有引用记录，并被记录于沙特阿拉伯；该研究认为这种广布记录更可能源于鉴定错误而非真实的强表型可塑性，并据此指出非洲锯白蚁属（<i>Microcerotermes</i>）亟需订正。该研究在冈比亚的样带中还采集到与细小锯白蚁（<i>Microcerotermes parvulus</i>）相近而未定名的类群。",
+     "src": [
+      "S0346"
+     ],
+     "text_en": "In the study by Ndiaye, Njie and Correa (2019), <i>Microcerotermes parvulus</i> was described from tropical Africa, has been cited from every African region and has also been recorded from Saudi Arabia; the study considers such a wide range more likely to reflect misidentification than genuine strong phenotypic plasticity, and concludes that a revision of the African species of <i>Microcerotermes</i> is urgently needed. The transects in The Gambia also yielded unnamed material close to <i>Microcerotermes parvulus</i>.",
+     "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), <i>Microcerotermes parvulus</i> fue descrita del África tropical, se ha citado de todas las regiones africanas y también se ha registrado en Arabia Saudita; el estudio considera que una distribución tan amplia refleja más probablemente errores de identificación que una plasticidad fenotípica real, y concluye que se necesita con urgencia una revisión de las especies africanas de <i>Microcerotermes</i>. Los transectos en Gambia también rindieron material sin nombre cercano a <i>Microcerotermes parvulus</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0346",
+   "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+   "doi": "10.3390/insects10050122"
+  }
+ ]
+}

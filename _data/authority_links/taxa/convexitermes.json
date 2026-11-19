@@ -1,0 +1,46 @@
+{
+ "Convexitermes convexifrons": {
+  "gbif": {
+   "key": 9728793,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Convexitermes convexifrons (Holmgren, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "XYNH",
+   "status": "accepted",
+   "label": "Convexitermes convexifrons (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235347",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Convexitermes manni": {
+  "gbif": {
+   "key": 8800356,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Convexitermes manni (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "XYNJ",
+   "status": "accepted",
+   "label": "Convexitermes manni (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235349",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

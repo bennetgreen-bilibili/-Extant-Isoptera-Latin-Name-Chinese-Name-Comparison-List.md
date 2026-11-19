@@ -1,0 +1,46 @@
+{
+ "Coatitermes clevelandi": {
+  "label": "Coatitermes clevelandi (Snyder, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84389,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84389/overview",
+  "valid_label": null,
+  "valid_otu": 84389,
+  "verified": false
+ },
+ "Coatitermes kartaboensis": {
+  "label": "Coatitermes kartaboensis (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84390,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84390/overview",
+  "valid_label": null,
+  "valid_otu": 84390,
+  "verified": false
+ },
+ "Coatitermes mazaruniensis": {
+  "label": "Coatitermes mazaruniensis (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84391,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84391/overview",
+  "valid_label": null,
+  "valid_otu": 84391,
+  "verified": false
+ },
+ "Coatitermes pallidus": {
+  "label": "Coatitermes pallidus (Snyder, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84392,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84392/overview",
+  "valid_label": null,
+  "valid_otu": 84392,
+  "verified": false
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Generic characters in Sands 1972 pp. 102–104. The original gives only body size (head width W, mm), number of fore tibial apical spurs, mandibular tooth ratios, meso- and metanotal constriction (M/W), fontanelle and head pilosity (where present), and gut/enteric valve structure; antennal segment number, pronotal shape and wing venation are not recorded, so no supplementation is made in this entry. Decimal points shown as “*” in the OCR and i/1 confusions have been normalised to Arabic numerals according to context.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Monotypic genus, separated from Astalotermes mainly by the uniquely developed enteric valve seat; in multivariate similarity analysis close to A. empodius, A. aganus and A. mitis, distinguishable only by several latent vector values. It resembles Acidnotermes in that the left accessory marginal tooth barely emerges from the molar prominence; the worker gut is shorter than in most Astalotermes."
+  },
+  {
+   "label": "Worker",
+   "text": "Large, W 0.85–0.90 mm. Fore tibia weakly inflated, Ti/Tw 4.13–4.54, with 3 apical spurs, the third about half the other two. Mandibular apical teeth short, La/Li 0.53–0.60, Ra/Ri 0.75–0.82; left mandible accessory marginal tooth with its proximal end level with the molar prominence edge; right mandible apical and marginal tooth apices in a line, the marginal tooth anterior margins equal in length. Midgut and hindgut only slightly bent, nearly transverse, to the right of the Malpighian tubule knot. Enteric valve seat with two opposing erect lobes, almost diverticulate, connected by a very short neck to the second hindgut pouch, lateroventrally situated in the unopened abdomen; enteric valve inner cushion without spines, the surface only weakly reticulate."
+  },
+  {
+   "label": "Alate",
+   "text": "Large, W 1.14–1.21 mm. Fore tibia with 3 apical spurs, the third well developed, nearly as large as the other two. Mandibular apical teeth short, La/Li 0.51–0.57, Ra/Ri 0.73–0.87; left mandible accessory marginal tooth with its proximal end exactly level with the molar prominence edge; right mandible apical and marginal tooth apices in a line, the marginal tooth anterior margins equal in length. Meso- and metanotal plates rather narrow at the constriction, M/W 0.24–0.28, transverse suture absent."
+  }
+ ]
+}

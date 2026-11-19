@@ -1,0 +1,35 @@
+{
+ "Armitermes armiger": {
+  "label": "Armitermes armiger (Motschulsky, 1855)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84162,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84162/overview",
+  "valid_label": null,
+  "valid_otu": 84162,
+  "verified": false
+ },
+ "Armitermes bidentatus": {
+  "label": "Armitermes bidentatus Rocha & Cancello, 2012",
+  "match": "exact",
+  "notes": "",
+  "otu": 1055526,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1055526/overview",
+  "valid_label": null,
+  "valid_otu": 1055526,
+  "verified": false
+ },
+ "Armitermes spininotus": {
+  "label": "Armitermes spininotus Rocha & Cancello, 2012",
+  "match": "exact",
+  "notes": "",
+  "otu": 1055527,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1055527/overview",
+  "valid_label": null,
+  "valid_otu": 1055527,
+  "verified": false
+ }
+}

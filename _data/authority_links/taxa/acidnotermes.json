@@ -1,0 +1,24 @@
+{
+ "Acidnotermes praus": {
+  "gbif": {
+   "key": 9671535,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Acidnotermes praus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "64JDQ",
+   "status": "accepted",
+   "label": "Acidnotermes praus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225286",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

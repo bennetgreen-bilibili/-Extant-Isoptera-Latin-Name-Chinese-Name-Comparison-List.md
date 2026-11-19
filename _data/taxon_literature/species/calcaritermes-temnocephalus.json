@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "模式产地与形态鉴别",
+   "heading_en": "Type locality and morphological diagnosis",
+   "heading_es": "Localidad tipo y diagnóstico morfológico",
+   "paragraphs": [
+    {
+     "src": [
+      "S0303"
+     ],
+     "text": "根据 Scheffrahn（2011）研究，切头距白蚁（<i>Calcaritermes temnocephalus</i>）的模式产地为委内瑞拉卡拉沃沃州 Las Trincheras（10.31, −68.09），在加拉加斯附近，1891 年由 Meinert 采得昆虫；该种在佛罗里达大学收藏的同属各种中独一无二：拟工蚁无中胸锉，前胸背板后缘也缺相应凹口，有翅成虫体色橙褐、翅透明，为该属已知成虫中唯一。",
+     "text_en": "According to Scheffrahn (2011), the type locality of <i>Calcaritermes temnocephalus</i> is Las Trincheras, Carabobo state, Venezuela (10.31, −68.09), near Caracas, where insects were collected by Meinert in 1891; the species is unique among the congeners in the University of Florida collection: its pseudergates lack a mesonotal rasp and also lack the corresponding notch on the posterior margin of the pronotum, and the alates are orange-brown with hyaline wings, unique among the adults known in the genus.",
+     "text_es": "Según Scheffrahn (2011), la localidad tipo de <i>Calcaritermes temnocephalus</i> es Las Trincheras, estado Carabobo, Venezuela (10.31, −68.09), cerca de Caracas, donde Meinert recolectó insectos en 1891; la especie es única entre las congéneres de la colección de la Universidad de Florida: sus pseudoergados carecen de raspa mesonotal y tampoco presentan la muesca correspondiente en el margen posterior del pronoto, y los alados son de color pardo anaranjado con alas hialinas, únicos entre los adultos conocidos del género."
+    },
+    {
+     "src": [
+      "S0303"
+     ],
+     "text": "2008 年 5 月 26 日于委内瑞拉 Silva Seco de Capadare（11.154, −68.590，海拔 58 m）采得两个群体，其成熟初生蚁后膨腹程度超出木白蚁科（<i>Kalotermitidae</i>）常规——节间膜宽度远大于相邻腹节骨片，接近鼻白蚁科（<i>Rhinotermitidae</i>，广义）／白蚁科（<i>Termitidae</i>）的水平，卵也异常大。",
+     "text_en": "Two colonies were collected on 26 May 2008 at Silva Seco de Capadare, Venezuela (11.154, −68.590, elevation 58 m); the physogastry of their mature primary queens exceeds what is usual in <i>Kalotermitidae</i> — the intersegmental membranes are much wider than the adjacent abdominal sclerites, approaching the condition in <i>Rhinotermitidae</i>/<i>Termitidae</i> — and the eggs are also unusually large.",
+     "text_es": "Se recolectaron dos colonias el 26 de mayo de 2008 en Silva Seco de Capadare, Venezuela (11.154, −68.590, altitud 58 m); la fisogastría de sus reinas primarias maduras supera lo habitual en <i>Kalotermitidae</i> — las membranas intersegmentales son mucho más anchas que los escleritos abdominales adyacentes, acercándose a la condición de <i>Rhinotermitidae</i>/<i>Termitidae</i> — y los huevos son también inusualmente grandes."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0303",
+   "citation": "Scheffrahn, R. H. 2011. Distribution, diversity, mesonotal morphology, gallery architecture, and queen physogastry of the termite genus Calcaritermes (Isoptera, Kalotermitidae). Pensoft Publishers.",
+   "doi": "10.3897/zookeys.148.1505"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "book_n": "34",
+ "book_name": "大眼树白蚊 Glyptotermes magnioculus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "大眼树白蚊兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.96",
+     "value": "1.91–2.04"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.16",
+     "value": "1.15–1.18"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.06",
+     "value": "1.04–1.07"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.22",
+     "value": "0.18–0.23"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.35",
+     "value": "0.34–0.36"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.49",
+     "value": "1.45–1.55"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.47",
+     "value": "0.46–0.48"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.70",
+     "value": "0.69–0.73"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.19",
+     "value": "1.16–1.21"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.88",
+     "value": "0.87–0.89"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 718,
+   "unit": "mm"
+  }
+ ]
+}

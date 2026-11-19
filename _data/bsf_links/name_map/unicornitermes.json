@@ -1,0 +1,13 @@
+{
+ "Unicornitermes gaerdesi": {
+  "label": "Unicornitermes gaerdesi Coaton, 1971",
+  "match": "exact",
+  "notes": "",
+  "otu": 85151,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85151/overview",
+  "valid_label": null,
+  "valid_otu": 85151,
+  "verified": false
+ }
+}

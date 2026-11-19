@@ -1,0 +1,90 @@
+{
+ "Gnathamitermes grandis": {
+  "gbif": {
+   "key": 2007310,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Gnathamitermes grandis (Light, 1930)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GL7C",
+   "status": "accepted",
+   "label": "Gnathamitermes grandis (Light, 1930)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582521",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Gnathamitermes nigriceps": {
+  "gbif": {
+   "key": 2007308,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Gnathamitermes nigriceps (Light, 1930)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GL7D",
+   "status": "accepted",
+   "label": "Gnathamitermes nigriceps (Light, 1930)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582520",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Gnathamitermes perplexus": {
+  "gbif": {
+   "key": 2007309,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Gnathamitermes perplexus (Banks, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KNQR",
+   "status": "accepted",
+   "label": "Gnathamitermes perplexus (Banks, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582518",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Gnathamitermes tubiformans": {
+  "gbif": {
+   "key": 2007307,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Gnathamitermes tubiformans (Buckley, 1862)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GL7G",
+   "status": "accepted",
+   "label": "Gnathamitermes tubiformans (Buckley, 1862)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582519",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

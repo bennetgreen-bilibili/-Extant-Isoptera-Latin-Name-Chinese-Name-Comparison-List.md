@@ -1,0 +1,43 @@
+{
+ "latin": "Labiotermes",
+ "zh": "厚唇白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Labiotermes Holmgren, 1912a: 50 [first introduced as a subgenus of Cornitermes Wasmann, 1897b].",
+ "type_species": "Cornitermes labralis Holmgren, 1906 by subsequent designation; see Sjöstedt, 1926d: 150.",
+ "references": [
+  {
+   "ref": "Emerson and Banks, 1965: 2–12",
+   "note": "Labiotermes; synonymy; characters; phylogeny; ecology; behavior; nests; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 18",
+   "note": "Labiotermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 207–208",
+   "note": "Labiotermes; synonymy; characters; comparisons."
+  },
+  {
+   "ref": "Mill, 1983a: 183, 186",
+   "note": "Labiotermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Fontes, 1985c: 8",
+   "note": "Labiotermes; key."
+  },
+  {
+   "ref": "Constantino, 1999a: 402, 416",
+   "note": "Labiotermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 4, 20",
+   "note": "Labiotermes; key."
+  },
+  {
+   "ref": "Constantino et al., 2006: 4–6",
+   "note": "Labiotermes; synonymy; characters; gut morphology; species included; distribution. Paracornitermes Emerson, 1949j: 333, 377. Type species: Cornitermes laticephalus Silvestri, 1901 by original designation."
+  }
+ ],
+ "nrefs": 46
+}

@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "据摘要，Watson 与 Perry（1981）修订镰白蚁属（<i>Drepanotermes</i>）时，把巨大镰白蚁（<i>Drepanotermes magnificus</i>）作疑名（nomen dubium）处理，未予承认。",
+     "text_en": "According to the abstract, in their revision of <i>Drepanotermes</i> Watson and Perry (1981) treated <i>Drepanotermes magnificus</i> as a nomen dubium and did not recognise it as a valid species.",
+     "text_es": "Según el resumen, en su revisión de <i>Drepanotermes</i>, Watson y Perry (1981) trataron <i>Drepanotermes magnificus</i> como nomen dubium y no la reconocieron como especie válida.",
+     "src": [
+      "S0190"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0190",
+   "citation": "J. A. L. Watson; D H Perry 1981 The Australian harvester temites of the genus Drepanotermes (Isoptera : Termitinae). Australian Journal of Zoology Supplementary Series.",
+   "doi": "10.1071/ajzs078"
+  }
+ ]
+}

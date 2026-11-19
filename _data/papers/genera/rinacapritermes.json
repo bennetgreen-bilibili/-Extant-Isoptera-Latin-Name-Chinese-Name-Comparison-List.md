@@ -1,0 +1,60 @@
+{
+ "latin": "Rinacapritermes",
+ "zh": "丽娜扭白蚁属",
+ "fetched_at": "2026-10-30T16:54:33Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W4213052651",
+   "openalex_url": "https://openalex.org/W4213052651",
+   "doi": "10.5252/zoosystema2022v44a3",
+   "doi_url": "https://doi.org/10.5252/zoosystema2022v44a3",
+   "title": "Integrative taxonomic studies on Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae) with two new species from India",
+   "year": 2022,
+   "date": "2022-02-11",
+   "authors": [
+    "Poovoli Amina",
+    "Keloth Rajmohana",
+    "Savithramma P. Dinesh‐Kumar",
+    "G. Asha"
+   ],
+   "venue": "Zoosystema",
+   "type": "article",
+   "language": "en",
+   "cited_by": 4,
+   "oa_url": "https://doi.org/10.5252/zoosystema2022v44a3",
+   "volume": "44",
+   "issue": "3",
+   "pages": "",
+   "abstract": "The new genus Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae) and two new species Rinacapritermes silvius Amina & Rajmohana, n. gen., n. sp. and Rinacapritermes abundans Amina & Rajmohana, n. gen., n. sp. are described here based on the distinct morphological characters of the soldier and the worker castes. The new genus and the new species are supported by distinct monophyletic groups based on the preliminary mt COI gene tree. The gut morphology of the worker caste along with the enteric valve armature of the type species, R. silvius Amina & Rajmohana, n. gen., n. sp. are detailed. A dichotomous key to soldiers of all genera under Pericapritermes-group found in the Oriental Region is provided to distinguish the proposed new genus. Additionally for the first time DNA barcodes for the mt COI gene based on worker caste were generated for the 12 species under nine genera for the samples from the Western Ghats. An attempt has been made in the studies to build single gene tree using mt COI gene at the generic level for the subfamily Termitinae Latreille, 1802.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1100,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W4408810027",
+   "openalex_url": "https://openalex.org/W4408810027",
+   "doi": "10.30550/j.azl/2013",
+   "doi_url": "https://doi.org/10.30550/j.azl/2013",
+   "title": "Termites (Blattodea: Isoptera) of India: An updated checklist",
+   "year": 2025,
+   "date": "2025-03-25",
+   "authors": [
+    "Aiswarya Pulikkal Muralidharan",
+    "Honey Sebastian",
+    "Ambalaparambil Vasu Sudhikumar"
+   ],
+   "venue": "Acta Zoológica Lilloana",
+   "type": "article",
+   "language": "es",
+   "cited_by": 0,
+   "oa_url": "https://doi.org/10.30550/j.azl/2013",
+   "volume": "",
+   "issue": "",
+   "pages": "77-158",
+   "abstract": "The current paper provides checklist of termites (Blattodea: Isoptera) of India. A total of 317 species belonging to 53 genera and 6 families have been reported, Termitidae Latreille,1802 being the largest family. The genus Rinacapritermes (Amina and Rajmohana, 2022) has been introduced for the first time from India with the species Rinacapritermes silvius and Rinacapritermes abundans. El artículo actual proporciona una lista de verificación de termitas (Blattodea: Isoptera) de la India. Se han registrado un total de 317 especies pertenecientes a 53 géneros y 6 familias, siendo Termitidae Latreille 1802 la mayor familia. El género Rinacapritermes (Amina y Rajmohana, 2022) ha sido introducido por primera vez desde la India con las especies Rinacapritermes silvius y Rinacapritermes abundans.",
+   "abstract_source": "openalex",
+   "abstract_chars": 800,
+   "abstract_truncated": false
+  }
+ ]
+}

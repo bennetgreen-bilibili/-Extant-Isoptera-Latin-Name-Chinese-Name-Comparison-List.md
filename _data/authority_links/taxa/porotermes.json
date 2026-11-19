@@ -1,0 +1,68 @@
+{
+ "Porotermes adamsoni": {
+  "gbif": {
+   "key": 4802722,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Porotermes adamsoni (Froggatt, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4LYSH",
+   "status": "accepted",
+   "label": "Porotermes adamsoni (Froggatt, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21301179",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Porotermes planiceps": {
+  "gbif": {
+   "key": 9741515,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Porotermes planiceps (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4LYSJ",
+   "status": "accepted",
+   "label": "Porotermes planiceps (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253541",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Porotermes quadricollis": {
+  "gbif": {
+   "key": 9710254,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Porotermes quadricollis (Rambur, 1842)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4LYSK",
+   "status": "accepted",
+   "label": "Porotermes quadricollis (Rambur, 1842)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q16642753",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

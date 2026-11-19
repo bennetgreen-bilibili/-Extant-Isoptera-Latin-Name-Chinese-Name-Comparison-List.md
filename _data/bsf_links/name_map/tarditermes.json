@@ -1,0 +1,13 @@
+{
+ "Tarditermes contracolor": {
+  "label": "Tarditermes contracolor Emerson, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 84900,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84900/overview",
+  "valid_label": null,
+  "valid_otu": 84900,
+  "verified": false
+ }
+}

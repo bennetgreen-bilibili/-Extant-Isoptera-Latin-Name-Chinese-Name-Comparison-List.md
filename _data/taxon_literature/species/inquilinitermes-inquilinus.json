@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "属内首次记录的新成蚁后",
+   "heading_en": "First record of neotenic queens in the genus",
+   "heading_es": "Primer registro de reinas neoténicas en el género",
+   "paragraphs": [
+    {
+     "text": "根据 Hellemans 等（2019）研究，旅居客白蚁（Inquilinitermes inquilinus）严格寄居于凹额缩白蚁（Constrictotermes cavifrons）的树巢，多取巢的下部；14 个采到生殖蚁的巢中 7 个（50%）有 1–10 头新成蚁后，其中 2 个与原始雄蚁共存，另有 3 个巢见 4 头新成蚁王，这是该属首次记录新成蚁后；5 个巢的 8 个微卫星位点显示 22 头若虫系雌性中 11 头（50%）全纯合，1 头原始蚁后亦为孤雌来源；雌雄若虫全年可见，4 对脱翅繁殖蚁可同占一巢；作者认为宿主巢抗逆性差、易被暴雨破坏，促成了补充生殖蚁的出现。",
+     "text_en": "According to Hellemans et al. (2019), <i>Inquilinitermes inquilinus</i> lives strictly as an inquiline in the arboreal nests of <i>Constrictotermes cavifrons</i>, mostly in the lower part of the nest; of 14 nests in which reproductives were collected, 7 (50%) contained 1–10 neotenic queens, two of them together with a primary king, and three further nests contained 4 neotenic kings, the first record of neotenic reproductives in the genus; eight microsatellite loci in 5 nests showed that 11 of 22 nymphal females (50%) were fully homozygous and that one primary queen was also of parthenogenetic origin; male and female nymphs are present all year and 4 pairs of dealate reproductives can share a single nest; the authors suggest that the low durability of the host nest, which is easily destroyed by heavy rain, favours the appearance of replacement reproductives.",
+     "text_es": "Según Hellemans et al. (2019), <i>Inquilinitermes inquilinus</i> vive estrictamente como inquilino en los nidos arbóreos de <i>Constrictotermes cavifrons</i>, sobre todo en la parte inferior del nido; de 14 nidos en los que se recolectaron reproductores, 7 (50%) contenían 1–10 reinas neoténicas, dos de ellas junto con un rey primario, y otros tres nidos contenían 4 reyes neoténicos, el primer registro de reproductores neoténicos en el género; ocho loci microsatélite en 5 nidos mostraron que 11 de 22 hembras ninfales (50%) eran completamente homocigotas y que una reina primaria era también de origen partenogenético; las ninfas macho y hembra están presentes todo el año y 4 parejas de reproductores desalados pueden compartir un mismo nido; los autores sugieren que la escasa durabilidad del nido hospedador, que las lluvias intensas destruyen con facilidad, favorece la aparición de reproductores de reemplazo.",
+     "src": [
+      "S0191"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0191",
+   "citation": "Hellemans, S.; Dolejšová, K.; Křivánek, J.; Fournier, D.; Hanus, R.; Roisin, Y. 2019. Widespread occurrence of asexual reproduction in higher termites of the Termes group (Termitidae: Termitinae). BMC Evolutionary Biology 19.",
+   "doi": "10.1186/s12862-019-1459-3"
+  }
+ ]
+}

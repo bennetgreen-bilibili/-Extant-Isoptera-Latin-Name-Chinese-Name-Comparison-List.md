@@ -1,0 +1,53 @@
+{
+ "book_n": "268",
+ "book_name": "贵州土白蚁 Odontotermes guizhouensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "贵州土白蚁兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.03",
+     "value": "2.00–2.09"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.66",
+     "value": "1.58–1.71"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.39",
+     "value": "0.38–0.41"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.02",
+     "value": "0.99–1.07"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.16",
+     "value": "1.15–1.17"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.04",
+     "value": "1.02–1.07"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.49",
+     "value": "1.45–1.55"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 1545,
+   "unit": "mm"
+  }
+ ]
+}

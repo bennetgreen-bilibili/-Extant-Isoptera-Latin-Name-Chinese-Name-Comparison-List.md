@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "西澳特有种的重新描述",
+   "heading_en": "Redescription of a Western Australian endemic",
+   "heading_es": "Redescripción de un endemismo de Australia Occidental",
+   "paragraphs": [
+    {
+     "src": [
+      "S0334"
+     ],
+     "text": "根据 Sewell 与 Gay（1978）研究，西澳特有的希尔木白蚁（<i>Kalotermes hilli</i>）被重新描述；该种与竞争木白蚁（<i>Kalotermes aemulus</i>）的兵蚁体型变异都很大、不能用于区分，但颚形比例有明确鉴别差异，希尔木白蚁（<i>Kalotermes hilli</i>）的端齿长于竞争木白蚁（<i>Kalotermes aemulus</i>）；其分布范围较竞争木白蚁（<i>Kalotermes aemulus</i>）窄，不及后者伸入西南部更热更干的地区（据摘要）。",
+     "text_en": "According to Sewell and Gay (1978), the Western Australian endemic <i>Kalotermes hilli</i> is redescribed; the size of the soldier is highly variable in both this species and <i>Kalotermes aemulus</i> and provides no clear discrimination, but ratios of mandible shape give distinct diagnostic differences, the apical tooth of <i>Kalotermes hilli</i> being longer than that of <i>Kalotermes aemulus</i>. Its range is narrower than that of <i>Kalotermes aemulus</i>, which extends further into the hotter, drier areas of the south-west (according to the abstract).",
+     "text_es": "Según Sewell y Gay (1978), se redescribe el endemismo de Australia Occidental <i>Kalotermes hilli</i>; el tamaño del soldado es muy variable tanto en esta especie como en <i>Kalotermes aemulus</i> y no permite discriminarlas, pero las proporciones de la forma de la mandíbula ofrecen diferencias diagnósticas claras, con el diente apical de <i>Kalotermes hilli</i> más largo que el de <i>Kalotermes aemulus</i>. Su área es más estrecha que la de <i>Kalotermes aemulus</i>, que penetra más en las zonas cálidas y secas del suroeste (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0334",
+   "citation": "Sewell, J. J.; Gay, F. J. 1978. The genus Kalotermes Hagen in Western Australia (Isoptera: Kalotermitidae). Australian Journal of Entomology.",
+   "url": "https://doi.org/10.1111/j.1440-6055.1978.tb01743.x"
+  }
+ ]
+}

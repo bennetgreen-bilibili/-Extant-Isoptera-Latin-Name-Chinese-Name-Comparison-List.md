@@ -1,0 +1,952 @@
+{
+ "Pericapritermes appellans": {
+  "gbif": {
+   "key": 9652558,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes appellans Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "7756D",
+   "status": "accepted",
+   "label": "Pericapritermes appellans Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077453",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes appellans metata": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes appellans Silvestri, 1914",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CDTRC",
+   "status": "accepted",
+   "label": "Pericapritermes appellans metata Silvestri, 1914",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-30"
+ },
+ "Pericapritermes assamensis": {
+  "gbif": {
+   "key": 9659670,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes assamensis (Mathur & Thapa, 1965)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6V56F",
+   "status": "accepted",
+   "label": "Pericapritermes assamensis (Mathur & Thapa, 1965)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077452",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes beibengensis": {
+  "gbif": {
+   "key": 9691643,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes beibengensis Han & Huang, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "76T6F",
+   "status": "accepted",
+   "label": "Pericapritermes beibengensis Huang & Han, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077451",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes brachygnathus": {
+  "gbif": {
+   "key": 9768097,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes brachygnathus (John, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7756F",
+   "status": "accepted",
+   "label": "Pericapritermes brachygnathus (John, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077450",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes buitenzorgi": {
+  "gbif": {
+   "key": 9786693,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes buitenzorgi (Holmgren, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6V56G",
+   "status": "accepted",
+   "label": "Pericapritermes buitenzorgi (Holmgren, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077449",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes ceylonicus": {
+  "gbif": {
+   "key": 9742338,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes ceylonicus (Holmgren, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "76T6G",
+   "status": "accepted",
+   "label": "Pericapritermes ceylonicus (Holmgren, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30687058",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes chiasognathus": {
+  "gbif": {
+   "key": 9813025,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes chiasognathus (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7756G",
+   "status": "accepted",
+   "label": "Pericapritermes chiasognathus (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077448",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes desaegeri": {
+  "gbif": {
+   "key": 9746988,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes desaegeri Harris, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "6V56H",
+   "status": "accepted",
+   "label": "Pericapritermes desaegeri Harris, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077447",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes dolichocephalus": {
+  "gbif": {
+   "key": 9715386,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes dolichocephalus (John, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "76T6H",
+   "status": "accepted",
+   "label": "Pericapritermes dolichocephalus (John, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077446",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes dumicola": {
+  "gbif": {
+   "key": 9734904,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes dumicola Harris, 1954",
+   "accepted": null
+  },
+  "col": {
+   "id": "7756H",
+   "status": "accepted",
+   "label": "Pericapritermes dumicola Harris, 1954",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077444",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes dunensis": {
+  "gbif": {
+   "key": 9740894,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes dunensis (Roonwal & Sen-Sarma, 1960)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6V56J",
+   "status": "accepted",
+   "label": "Pericapritermes dunensis (Roonwal & Sen-Sarma, 1960)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077443",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes durga": {
+  "gbif": {
+   "key": 9665450,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes durga (Roonwal & Chhotani, 1962)",
+   "accepted": null
+  },
+  "col": {
+   "id": "76T6J",
+   "status": "accepted",
+   "label": "Pericapritermes durga (Roonwal & Chhotani, 1962)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077442",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes fuscotibialis": {
+  "gbif": {
+   "key": 9805297,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes fuscotibialis (Light, 1931)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7756J",
+   "status": "accepted",
+   "label": "Pericapritermes fuscotibialis (Light, 1931)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077441",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes gloveri": {
+  "gbif": {
+   "key": 9755961,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes gloveri Harris, 1951",
+   "accepted": null
+  },
+  "col": {
+   "id": "6V56K",
+   "status": "accepted",
+   "label": "Pericapritermes gloveri Harris, 1951",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077440",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes gutianensis": {
+  "gbif": {
+   "key": 9703529,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes gutianensis Ma & Li, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "76T6K",
+   "status": "accepted",
+   "label": "Pericapritermes gutianensis Li & Ma, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077438",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes hepuensis": {
+  "gbif": {
+   "key": 9749862,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes hepuensis Yang & Gao, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "7756K",
+   "status": "accepted",
+   "label": "Pericapritermes hepuensis Gao & Yang, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077437",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes heteronotus": {
+  "gbif": {
+   "key": 9785217,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes heteronotus Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "6V56L",
+   "status": "accepted",
+   "label": "Pericapritermes heteronotus Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077436",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes latignathus": {
+  "gbif": {
+   "key": 9800588,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes latignathus (Holmgren, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "76T6L",
+   "status": "accepted",
+   "label": "Pericapritermes latignathus (Holmgren, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077435",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes machadoi": {
+  "gbif": {
+   "key": 9674027,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes machadoi Noirot, 1955",
+   "accepted": null
+  },
+  "col": {
+   "id": "7756L",
+   "status": "accepted",
+   "label": "Pericapritermes machadoi Noirot, 1955",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077434",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes magnificus": {
+  "gbif": {
+   "key": 9736297,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes magnificus (Silvestri, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6V56M",
+   "status": "accepted",
+   "label": "Pericapritermes magnificus (Silvestri, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077433",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes minimus": {
+  "gbif": {
+   "key": 9668215,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes minimus Weidner, 1956",
+   "accepted": null
+  },
+  "col": {
+   "id": "7756M",
+   "status": "accepted",
+   "label": "Pericapritermes minimus Weidner, 1956",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077430",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes modiglianii": {
+  "gbif": {
+   "key": 9794323,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes modiglianii (Silvestri, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6V56N",
+   "status": "accepted",
+   "label": "Pericapritermes modiglianii (Silvestri, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077429",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes mohri": {
+  "gbif": {
+   "key": 9814499,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes mohri (Kemner, 1934)",
+   "accepted": null
+  },
+  "col": {
+   "id": "76T6N",
+   "status": "accepted",
+   "label": "Pericapritermes mohri (Kemner, 1934)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077428",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes nigerianus": {
+  "gbif": {
+   "key": 9661028,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes nigerianus Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "7756N",
+   "status": "accepted",
+   "label": "Pericapritermes nigerianus Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077427",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes nitobei": {
+  "gbif": {
+   "key": 9514332,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes nitobei (Shiraki, 1909)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6V56P",
+   "status": "accepted",
+   "label": "Pericapritermes nitobei (Shiraki, 1909)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q97173958",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes paetensis": {
+  "gbif": {
+   "key": 9721350,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes paetensis (Oshima, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "76T6P",
+   "status": "accepted",
+   "label": "Pericapritermes paetensis (Oshima, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077426",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes pallidipes": {
+  "gbif": {
+   "key": 9819317,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes pallidipes (Sjöstedt, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7756P",
+   "status": "accepted",
+   "label": "Pericapritermes pallidipes (Sjöstedt, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077425",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes papuanus": {
+  "gbif": {
+   "key": 7923731,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes papuanus Roisin & Bourguignon, 2008",
+   "accepted": null
+  },
+  "col": {
+   "id": "6V572",
+   "status": "accepted",
+   "label": "Pericapritermes papuanus Bourguignon & Roisin, 2008",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21357330",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes parvus": {
+  "gbif": {
+   "key": 7842869,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes parvus Roisin & Bourguignon, 2008",
+   "accepted": null
+  },
+  "col": {
+   "id": "6V4V2",
+   "status": "accepted",
+   "label": "Pericapritermes parvus Bourguignon & Roisin, 2008",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21357335",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes pilosus": {
+  "gbif": {
+   "key": 8411864,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes pilosus Roisin & Bourguignon, 2008",
+   "accepted": null
+  },
+  "col": {
+   "id": "6V56Q",
+   "status": "accepted",
+   "label": "Pericapritermes pilosus Bourguignon & Roisin, 2008",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21357340",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes planiusculus": {
+  "gbif": {
+   "key": 9697560,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes planiusculus Xu & Ping, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "76SV2",
+   "status": "accepted",
+   "label": "Pericapritermes planiusculus Ping & Xu, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077424",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes schultzei": {
+  "gbif": {
+   "key": 7577372,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes schultzei (Holmgren, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "76T6Q",
+   "status": "accepted",
+   "label": "Pericapritermes schultzei (Holmgren, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077422",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes semarangi": {
+  "gbif": {
+   "key": 9655306,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes semarangi (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "76T72",
+   "status": "accepted",
+   "label": "Pericapritermes semarangi (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077420",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes silvestrianus": {
+  "gbif": {
+   "key": 9754497,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes silvestrianus (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "774V2",
+   "status": "accepted",
+   "label": "Pericapritermes silvestrianus (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077419",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes speciosus": {
+  "gbif": {
+   "key": 9710829,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes speciosus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7756Q",
+   "status": "accepted",
+   "label": "Pericapritermes speciosus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30326307",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes tetraphilus": {
+  "gbif": {
+   "key": 9672634,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes tetraphilus (Silvestri, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "77572",
+   "status": "accepted",
+   "label": "Pericapritermes tetraphilus (Silvestri, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077418",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes topslipensis": {
+  "gbif": {
+   "key": 9649482,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes topslipensis Thakur, 1976",
+   "accepted": null
+  },
+  "col": {
+   "id": "6V573",
+   "status": "accepted",
+   "label": "Pericapritermes topslipensis Thakur, 1976",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077417",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes urgens": {
+  "gbif": {
+   "key": 8762503,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes urgens Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "6V4V3",
+   "status": "accepted",
+   "label": "Pericapritermes urgens Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077416",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes urgens confinis": {
+  "gbif": {
+   "key": 9774279,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Pericapritermes urgens confinis Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2GW5",
+   "status": "accepted",
+   "label": "Pericapritermes urgens confinis Silvestri, 1914",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes urgens urgens": {
+  "gbif": {
+   "key": 9728863,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Pericapritermes urgens urgens Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2GW6",
+   "status": "accepted",
+   "label": "Pericapritermes urgens urgens Silvestri, 1914",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes vermai": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Pericapritermes Silvestri, 1914",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Pericapritermes Silvestri, 1914",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Pericapritermes wuzhishanensis": {
+  "gbif": {
+   "key": 9802030,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pericapritermes wuzhishanensis (Li, 1982)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6V56R",
+   "status": "accepted",
+   "label": "Pericapritermes wuzhishanensis (Li, 1982)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140077415",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "latin": "Verrucositermes",
+ "zh": "疣白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Verrucositermes Emerson, 1960b: 3–6.",
+ "type_species": "Verrucositermes tuberosus Emerson, 1960 by original designation.",
+ "references": [
+  {
+   "ref": "Bouillon and Mathot, 1965: 34, 112, 113, pl. 24: fig. 79c",
+   "note": "Verrucositermes; key; characters; imago mandibles figured."
+  },
+  {
+   "ref": "Sands, 1965d: 133",
+   "note": "Verrucositermes; key."
+  },
+  {
+   "ref": "Sands, 1965c: 13, 14, 156–157",
+   "note": "Verrucositermes; key; characters."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1966: 3",
+   "note": "Verrucositermes; key. 2013 Krishna ET AL.: isoptera: TERMITIDAE: NASUTITERMITINAE\b 1897"
+  },
+  {
+   "ref": "Morimoto, 1975b: 23",
+   "note": "Verrucositermes; key."
+  },
+  {
+   "ref": "Sands, 1995: 1504, 1505, 1507",
+   "note": "Verrucositermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 47, 292–294, figs. 1488–1500, pl. 18: fig. 3",
+   "note": "Verrucositermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 11
+}

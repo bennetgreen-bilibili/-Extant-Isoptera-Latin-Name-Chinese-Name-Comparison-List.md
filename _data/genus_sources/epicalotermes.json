@@ -1,0 +1,43 @@
+{
+ "latin": "Epicalotermes",
+ "zh": "上木白蚁属",
+ "family": "kalotermitidae",
+ "treatise": true,
+ "citation": "Epicalotermes Silvestri, 1918b: 347.",
+ "type_species": "Epicalotermes aethiopicus Silvestri, 1918 by original designation.",
+ "references": [
+  {
+   "ref": "Sjöstedt, 1926d: 23",
+   "note": "Epicalotermes; key."
+  },
+  {
+   "ref": "Krishna, 1961: 374–376",
+   "note": "Epicalotermes; stat. rev.; generic characters; key; reference list; phylogeny; distribution."
+  },
+  {
+   "ref": "Webb, 1961: 8",
+   "note": "Epicalotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 18, 80, 81, pl. 8: fig. 17d",
+   "note": "Epicalotermes; key; characters; imago mandibles figured."
+  },
+  {
+   "ref": "Chaudhry et al., 1972: 5",
+   "note": "Epicalotermes; characters."
+  },
+  {
+   "ref": "Coaton and Sheasby, 1972: 24, 46, 101, figs. 6C–D, 28",
+   "note": "Epicalotermes; soldier figured; key; ecology; biology; distribution. Namibia."
+  },
+  {
+   "ref": "Morimoto, 1975b: 11",
+   "note": "Epicalotermes; key."
+  },
+  {
+   "ref": "Roonwal and Chhotani, 1989: 348–350",
+   "note": "Epicalotermes; synonymy; characters; distribution and composition."
+  }
+ ],
+ "nrefs": 19
+}

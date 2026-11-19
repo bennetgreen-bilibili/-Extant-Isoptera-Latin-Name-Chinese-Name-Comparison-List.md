@@ -1,0 +1,25 @@
+{
+ "zh_name": "耶林变红白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "工蚁在酒精中变红，前足基节（forecoxa）具若干与跗距等大的长而粗的刺——据此可与全部南美无兵蚁白蚁区别。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "复眼与单眼中等大。fontanelle 很小。前胸背板背视半圆形，具数百根刚毛。中、后胸背板后缘颇凹，角圆。"
+  },
+  {
+   "label": "工蚁",
+   "text": "大型，头宽约 1 mm。活体白色，酒精中变红。头壳密布许多小刚毛；fontanelle 很小。前足基节具数根与跗距同大的刺；前胫节略膨大。中肠与 proctodeum 的连接截断，无 mixed segment（原文作 Mesenteron and proctodeum connection truncated, devoid of mixed segment）；肠瓣插入三叶的肠瓣 seating。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0054",
+   "citation": "Bourguignon T.; Roisin Y. 2016. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Grigiotermes Mathews and description of five new genera. Zoological Journal of the Linnean Society 176(1): 15–35. doi 10.1111/zoj.12305",
+   "locator": "Rubeotermes Bourguignon & Roisin, gen. nov. (genus treatment, pp. 27–30)"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+}

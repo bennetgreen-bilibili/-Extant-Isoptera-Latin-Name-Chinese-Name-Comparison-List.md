@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "防御分泌物的作用方式",
+   "heading_en": "Mode of action of the defensive secretion",
+   "heading_es": "Modo de acción de la secreción defensiva",
+   "paragraphs": [
+    {
+     "src": [
+      "S0206"
+     ],
+     "text": "据摘要，Mill（1983）用两种捕食性蚂蚁生物测定 10 种新热带白蚁的防御分泌物：无毛聚白蚁（<i>Syntermes calvus</i>）的分泌物是创伤性毒物，表面活性很弱；戟白蚁属（<i>Armitermes</i>）的分泌物对蚂蚁有驱避作用并具表面毒性；象白蚁属（<i>Nasutitermes</i>）的分泌物兼具粘附缠绕与表面毒性，并有驱避效果；乳白蚁属（<i>Coptotermes</i>）与腹爆白蚁属（<i>Ruptitermes</i>）的粘性分泌物只是粘附缠绕的物理作用，未见明显毒性或信息素活性。",
+     "text_en": "According to the abstract, Mill (1983) bioassayed the defensive secretions of ten Neotropical termite species on two predatory ants and found that the secretion of <i>Syntermes calvus</i> acts as a wound-active poison with little topical activity, that of <i>Armitermes</i> repels ants and shows topical toxicity, and that of <i>Nasutitermes</i> combines adhesive, entangling properties with topical toxicity and repellency, whereas the tacky secretions of <i>Coptotermes</i> and <i>Ruptitermes</i> are merely adhesive entangling agents with no apparent toxic or pheromonal properties.",
+     "text_es": "Según el resumen, Mill (1983) evaluó mediante bioensayos las secreciones defensivas de diez especies neotropicales sobre dos hormigas depredadoras y halló que la secreción de <i>Syntermes calvus</i> actúa como veneno de herida con escasa actividad tópica, la de <i>Armitermes</i> repele a las hormigas y muestra toxicidad tópica, y la de <i>Nasutitermes</i> combina propiedades adhesivas y de enredo con toxicidad tópica y repelencia, mientras que las secreciones pegajosas de <i>Coptotermes</i> y <i>Ruptitermes</i> son solo agentes adherentes de enredo sin propiedades tóxicas ni feromonales aparentes."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0206",
+   "citation": "Mill, A. E. (1983). Behavioural and toxic effects of termite defensive secretions on ants. Physiological Entomology.",
+   "doi": "10.1111/j.1365-3032.1983.tb00375.x"
+  }
+ ]
+}

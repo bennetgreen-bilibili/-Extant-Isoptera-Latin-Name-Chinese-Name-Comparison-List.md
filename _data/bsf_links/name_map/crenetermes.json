@@ -1,0 +1,57 @@
+{
+ "Crenetermes albotarsalis": {
+  "label": "Crenetermes albotarsalis (Sjöstedt, 1897)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84985,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84985/overview",
+  "valid_label": null,
+  "valid_otu": 84985,
+  "verified": false
+ },
+ "Crenetermes elongatus": {
+  "label": "Crenetermes elongatus Weidner, 1974",
+  "match": "exact",
+  "notes": "",
+  "otu": 84986,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84986/overview",
+  "valid_label": null,
+  "valid_otu": 84986,
+  "verified": false
+ },
+ "Crenetermes fruitus": {
+  "label": "Crenetermes fruitus Harris, 1958",
+  "match": "exact",
+  "notes": "",
+  "otu": 84987,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84987/overview",
+  "valid_label": null,
+  "valid_otu": 84987,
+  "verified": false
+ },
+ "Crenetermes mandibulatus": {
+  "label": "Crenetermes mandibulatus Weidner, 1974",
+  "match": "exact",
+  "notes": "",
+  "otu": 84988,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84988/overview",
+  "valid_label": null,
+  "valid_otu": 84988,
+  "verified": false
+ },
+ "Crenetermes mixtus": {
+  "label": "Crenetermes mixtus Williams, 1962",
+  "match": "exact",
+  "notes": "",
+  "otu": 84989,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84989/overview",
+  "valid_label": null,
+  "valid_otu": 84989,
+  "verified": false
+ }
+}

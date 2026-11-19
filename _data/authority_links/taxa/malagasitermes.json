@@ -1,0 +1,24 @@
+{
+ "Malagasitermes milloti": {
+  "gbif": {
+   "key": 9678733,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Malagasitermes milloti (Cachan, 1949)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XLMN",
+   "status": "accepted",
+   "label": "Malagasitermes milloti (Cachan, 1949)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210188",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

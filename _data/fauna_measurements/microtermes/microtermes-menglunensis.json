@@ -1,0 +1,68 @@
+{
+ "book_n": "343",
+ "book_name": "勐仑小白蚁 Microtermes menglunensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "勐仑小白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "4.20",
+     "value": "4.04–4.42"
+    },
+    {
+     "key": "head_length_with_mandibles",
+     "mean": "1.52",
+     "value": "1.48–1.55"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "0.99",
+     "value": "0.94–1.00"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "0.89",
+     "value": "0.87–0.90"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.61",
+     "value": "0.61"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.33",
+     "value": "0.32–0.36"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "0.51",
+     "value": "0.48–0.52"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.42",
+     "value": "0.42"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.39",
+     "value": "0.39"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.62",
+     "value": "0.61–0.65"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 296,
+   "unit": "mm"
+  }
+ ]
+}

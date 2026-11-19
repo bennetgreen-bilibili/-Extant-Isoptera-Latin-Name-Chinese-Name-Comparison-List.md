@@ -1,0 +1,63 @@
+{
+ "book_n": "248",
+ "book_name": "波颚杆白蚁 Stylotermes undulatus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "波频杆白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.24",
+     "value": "1.11–1.32"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.01",
+     "value": "0.97–1.11"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.30",
+     "value": "0.25–0.34"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.36",
+     "value": "0.34–0.39"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.38",
+     "value": "1.30–1.50"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.18",
+     "value": "0.17–0.19"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.58",
+     "value": "0.44–0.67"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.07",
+     "value": "0.90–1.22"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.87",
+     "value": "0.83–0.97"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 1075,
+   "unit": "mm"
+  }
+ ]
+}

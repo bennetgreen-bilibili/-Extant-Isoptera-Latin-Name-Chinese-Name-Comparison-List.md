@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "肠道鞭毛虫与跨科转移",
+   "heading_en": "Gut flagellates and cross-family transfer",
+   "heading_es": "Flagelados intestinales y transferencia entre familias",
+   "paragraphs": [
+    {
+     "src": [
+      "S0217"
+     ],
+     "text": "据摘要，Radek 等（2017）对齿白蚁科（Serritermitidae）两种白蚁肠道鞭毛虫的研究指出，眼显舌白蚁（<i>Glossotermes oculatus</i>）与锯齿白蚁（<i>Serritermes serrifer</i>）具有相似的副基体形态型：大型的类 <i>Pseudotrichonympha</i>、中型具螺旋鞭毛带的类 <i>Leptospironympha</i> 与小型类 <i>Hexamastix</i>，且均未检出 oxymonadid；SSU rRNA 序列显示两个大型 trichonymphid 构成 Teranymphidae 的深分支姊妹群，只有 <i>Hexamastix</i> 类与鼻白蚁科（Rhinotermitidae）的 trichomonadid 近缘。",
+     "text_en": "According to the abstract of Radek et al.'s (2017) study of the gut flagellates of the two Serritermitidae species, <i>Glossotermes oculatus</i> and <i>Serritermes serrifer</i> share similar parabasal morphotypes — a large <i>Pseudotrichonympha</i>-like form, a medium-sized <i>Leptospironympha</i>-like form with a spiral flagellar band, and a small <i>Hexamastix</i>-like form — and no oxymonadids were detected in either; SSU rRNA sequences place the two large trichonymphids as a deep-branching sister group of Teranymphidae, and only the <i>Hexamastix</i>-like form is closely related to trichomonadids of Rhinotermitidae.",
+     "text_es": "Según el resumen del estudio de Radek et al. (2017) sobre los flagelados intestinales de las dos especies de Serritermitidae, <i>Glossotermes oculatus</i> y <i>Serritermes serrifer</i> comparten morfotipos parabasales similares —una forma grande del tipo <i>Pseudotrichonympha</i>, una forma mediana del tipo <i>Leptospironympha</i> con una banda flagelar espiral y una forma pequeña del tipo <i>Hexamastix</i>— y no se detectaron oximonádidos en ninguna de las dos; las secuencias de SSU rRNA sitúan a los dos triconinfos grandes como un grupo hermano de ramificación profunda de Teranymphidae, y solo la forma del tipo <i>Hexamastix</i> está estrechamente emparentada con los tricomonádidos de Rhinotermitidae."
+    },
+    {
+     "src": [
+      "S0217"
+     ],
+     "text": "据摘要，作者据此认为，齿白蚁科拥有两条深分支的 trichonymphid 谱系，却缺少祖先鼻白蚁类的全部特征类群；下等白蚁的肠道鞭毛虫组合除了随垂直遗传逐步丢失外，还受到偶发的跨科水平转移（transfaunation）塑造，并为此建立了新属 <i>Heliconympha</i>（模式种 <i>Heliconympha glossotermitis</i>）。",
+     "text_en": "According to the abstract, the authors concluded that Serritermitidae harbour two deep-branching trichonymphid lineages but lack all the characteristic groups of ancestral rhinotermitids; the gut flagellate assemblages of lower termites are shaped not only by progressive loss through vertical inheritance but also by occasional cross-family horizontal transfer (transfaunation), and they erected the new genus <i>Heliconympha</i> (type species <i>Heliconympha glossotermitis</i>) for the new flagellate.",
+     "text_es": "Según el resumen, los autores concluyeron que Serritermitidae alberga dos linajes de triconinfos de ramificación profunda pero carece de todos los grupos característicos de los rinotermítidos ancestrales; las comunidades de flagelados intestinales de las termitas inferiores no solo se modelan por la pérdida progresiva mediante herencia vertical, sino también por transferencias horizontales ocasionales entre familias (transfaunación), y erigieron el nuevo género <i>Heliconympha</i> (especie tipo <i>Heliconympha glossotermitis</i>) para el nuevo flagelado."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0217",
+   "citation": "Radek, R.; Meuser, K.; Strassert, J. F. H.; Arslan, O.; Teßmer, A.; Šobotník, J.; Sillam-Dussès, D.; Nink, R. A.; Brune, A. 2017. Exclusive Gut Flagellates of Serritermitidae Suggest a Major Transfaunation Event in Lower Termites: Description of Heliconympha glossotermitis gen. nov. spec. nov. Journal of Eukaryotic Microbiology 64(6).",
+   "doi": "10.1111/jeu.12441"
+  }
+ ]
+}

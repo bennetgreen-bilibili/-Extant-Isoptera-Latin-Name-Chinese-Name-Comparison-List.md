@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-14",
+ "sections": [
+  {
+   "heading": "兼性孤雌生殖",
+   "heading_en": "Facultative parthenogenesis",
+   "heading_es": "Partenogénesis facultativa",
+   "paragraphs": [
+    {
+     "src": [
+      "S0236"
+     ],
+     "text": "根据 Kobayashi 与 Miyaguni（2016）研究，恒春新白蚁（<i>Neotermes koshunensis</i>）具兼性孤雌生殖能力：与雄虫隔离的雌虫所产卵可以孵化，但孵化率约为有雄虫配对时的一半——雌-雌配对 0.52 ± 0.07（120 粒卵、27 个群体），雌-雄配对 0.88 ± 0.05（396 粒卵、57 个群体）；两类配对的首次产卵均在第 10 天，首次孵化则雌-雄配对各在第 60 天、雌-雌配对各在第 70 天。试验用 6 个群体于 2014 年 4 月下旬采自冲绳西原（Nishihara）与中城（Nakagusuku），筑巢于活树枯枝，在 27 °C 下饲养观察 90 天。",
+     "text_en": "According to Kobayashi and Miyaguni (2016), <i>Neotermes koshunensis</i> is capable of facultative parthenogenesis: eggs laid by females kept without males do hatch, but at about half the hatching rate of male-female pairs — 0.52 ± 0.07 (120 eggs, 27 colonies) for female-female pairs versus 0.88 ± 0.05 (396 eggs, 57 colonies) for male-female pairs; both pair types began laying on day 10, while first hatching occurred on day 60 in male-female pairs and day 70 in female-female pairs. Six colonies collected in late April 2014 at Nishihara and Nakagusuku, Okinawa, nesting in dead branches of living trees, were reared at 27 °C for 90 days.",
+     "text_es": "Según Kobayashi y Miyaguni (2016), <i>Neotermes koshunensis</i> es capaz de partenogénesis facultativa: los huevos puestos por hembras mantenidas sin machos eclosionan, pero con una tasa de eclosión cercana a la mitad de la de las parejas macho-hembra — 0,52 ± 0,07 (120 huevos, 27 colonias) en parejas hembra-hembra frente a 0,88 ± 0,05 (396 huevos, 57 colonias) en parejas macho-hembra; ambos tipos de pareja empezaron a poner el día 10, mientras que la primera eclosión ocurrió el día 60 en las parejas macho-hembra y el día 70 en las parejas hembra-hembra. Se criaron a 27 °C durante 90 días seis colonias recolectadas a finales de abril de 2014 en Nishihara y Nakagusuku, Okinawa, que anidan en ramas muertas de árboles vivos."
+    },
+    {
+     "src": [
+      "S0236"
+     ],
+     "text": "根据同一研究，孤雌子代只继承母本等位基因，5 个微卫星位点的纯合比例达 0.96–1.00，符合末端融合（terminal fusion）的预期，而与无融合生殖、中心融合等机制不符；作者认为该种仍处于有性生殖与孤雌生殖之间的过渡状态——野外多数群体只有 1 头蚁后或为孤后群体，尚未演化出孤雌蚁后接替（AQS）系统，是已知首个具孤雌生殖能力却无 AQS 的白蚁。",
+     "text_en": "According to the same study, parthenogenetic offspring inherit only maternal alleles, with homozygosity of 0.96-1.00 at five microsatellite loci, matching terminal fusion and excluding gamete duplication and central fusion; the authors conclude that the species is in transition between sexual and parthenogenetic reproduction — most field colonies have a single queen or are queenless, and no asexual queen succession (AQS) system has evolved, making it the first termite known to be capable of parthenogenesis without AQS.",
+     "text_es": "Según el mismo estudio, la descendencia partenogenética hereda solo alelos maternos, con una homocigosidad de 0,96-1,00 en cinco loci de microsatélites, lo que concuerda con la fusión terminal y descarta la duplicación de gametos y la fusión central; los autores concluyen que la especie se encuentra en transición entre la reproducción sexual y la partenogenética — la mayoría de las colonias de campo tienen una sola reina o carecen de reina, y no ha evolucionado un sistema de sucesión asexual de reinas (AQS), por lo que es la primera termita conocida capaz de partenogénesis sin AQS."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0236",
+   "citation": "Kobayashi, K.; Miyaguni, Y. 2016. Facultative parthenogenesis in the Ryukyu drywood termite Neotermes koshunensis. Scientific Reports 6: 30712.",
+   "doi": "10.1038/srep30712"
+  }
+ ]
+}

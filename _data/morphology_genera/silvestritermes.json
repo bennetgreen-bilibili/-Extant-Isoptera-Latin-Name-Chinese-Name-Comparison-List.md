@@ -1,0 +1,25 @@
+{
+ "zh_name": "西尔韦斯特里白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁与 Armitermes 的区别在于：前、中、后胸背板边缘无一行短粗刺。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "单型；头背视圆，或侧缘圆而后侧角成角；额管圆锥形，背视伸出上唇之外。"
+  },
+  {
+   "label": "工蚁",
+   "text": "单型；头圆，额缝不显；囟椭圆但极不显（S. lanei 除外）；后唇基与上唇同有翅成虫；触角 13 或 14 节。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0072",
+   "citation": "Rocha, M. M.; Cancello, E. M.; Carrijo, T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37(4): 793–827. DOI: 10.1111/j.1365-3113.2012.00645.x",
+   "locator": "p. 811–812，「Soldier」段；p. 812，「Comparisons」段；p. 812，「Worker」段"
+  }
+ ],
+ "note": "工蚁消化道（砂囊 24 褶、中肠舌、P1 纺锤形、肠瓣 6 垫）与有翅成虫属级描述原文有述，因每属引文限 3 条未设节；2012 年 PDF 抽取文本保留原排版断行连字符（如 “extend- ing”），引文照抄。"
+}

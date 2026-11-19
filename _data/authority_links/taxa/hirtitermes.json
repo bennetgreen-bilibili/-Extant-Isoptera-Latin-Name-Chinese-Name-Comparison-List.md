@@ -1,0 +1,68 @@
+{
+ "Hirtitermes brabazoni": {
+  "gbif": {
+   "key": 9803161,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hirtitermes brabazoni Gathorne-Hardy, 2001",
+   "accepted": null
+  },
+  "col": {
+   "id": "3M4GF",
+   "status": "accepted",
+   "label": "Hirtitermes brabazoni Gathorne-Hardy, 2001",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251931",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hirtitermes hirtiventris": {
+  "gbif": {
+   "key": 9751996,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hirtitermes hirtiventris (Holmgren, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3M4GG",
+   "status": "accepted",
+   "label": "Hirtitermes hirtiventris (Holmgren, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251932",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hirtitermes spinocephalus": {
+  "gbif": {
+   "key": 9670241,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hirtitermes spinocephalus (Oshima, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3M4GH",
+   "status": "accepted",
+   "label": "Hirtitermes spinocephalus (Oshima, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251933",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

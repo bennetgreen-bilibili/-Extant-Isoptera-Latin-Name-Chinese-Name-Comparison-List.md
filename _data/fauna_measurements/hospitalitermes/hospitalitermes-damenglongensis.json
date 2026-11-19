@@ -1,0 +1,34 @@
+{
+ "book_n": "389",
+ "book_name": "大勐龙须白蚁 Hospitalitermes damenglongensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "大勐龙须白蚁兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_width",
+     "value": "1.06–1.24"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.40–0.45"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.67–0.70"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "2.40–2.62"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 1408,
+   "unit": "mm"
+  }
+ ]
+}

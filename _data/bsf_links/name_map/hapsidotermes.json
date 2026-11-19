@@ -1,0 +1,57 @@
+{
+ "Hapsidotermes harrisi": {
+  "label": "Hapsidotermes harrisi (Mjöberg, 1920)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85436,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85436/overview",
+  "valid_label": null,
+  "valid_otu": 85436,
+  "verified": false
+ },
+ "Hapsidotermes labellus": {
+  "label": "Hapsidotermes labellus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85437,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85437/overview",
+  "valid_label": null,
+  "valid_otu": 85437,
+  "verified": false
+ },
+ "Hapsidotermes longius": {
+  "label": "Hapsidotermes longius Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85438,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85438/overview",
+  "valid_label": null,
+  "valid_otu": 85438,
+  "verified": false
+ },
+ "Hapsidotermes maideni": {
+  "label": "Hapsidotermes maideni (Mjöberg, 1920)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85439,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85439/overview",
+  "valid_label": null,
+  "valid_otu": 85439,
+  "verified": false
+ },
+ "Hapsidotermes orbus": {
+  "label": "Hapsidotermes orbus (Hill, 1927)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85440,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85440/overview",
+  "valid_label": null,
+  "valid_otu": 85440,
+  "verified": false
+ }
+}

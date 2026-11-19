@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "纤维素酶活性",
+   "heading_en": "Cellulase activity",
+   "heading_es": "Actividad celulasa",
+   "paragraphs": [
+    {
+     "src": [
+      "S0276"
+     ],
+     "text": "根据 Li 等（2013）研究，在供试 7 种白蚁中，小象白蚁（<i>Nasutitermes parvonasutus</i>）的总纤维素酶（FPase）与内切 β-1,4-葡聚糖酶（EG）活性最高，黄翅大白蚁（<i>Macrotermes barneyi</i>）的 β-葡萄糖苷酶（BG）活性最高；小象白蚁等 4 个种的纤维素酶活性为首次报道。",
+     "text_en": "According to Li et al. (2013), among the seven termite species tested, <i>Nasutitermes parvonasutus</i> showed the highest total cellulase (FPase) and endo-β-1,4-glucanase (EG) activities, and <i>Macrotermes barneyi</i> the highest β-glucosidase (BG) activity; the cellulase activities of <i>Nasutitermes parvonasutus</i> and three other species are reported for the first time.",
+     "text_es": "Según Li et al. (2013), entre las siete especies de termitas ensayadas, <i>Nasutitermes parvonasutus</i> presentó las mayores actividades de celulasa total (FPase) y de endo-β-1,4-glucanasa (EG), y <i>Macrotermes barneyi</i> la mayor actividad de β-glucosidasa (BG); las actividades celulásicas de <i>Nasutitermes parvonasutus</i> y de otras tres especies se registran por primera vez."
+    },
+    {
+     "src": [
+      "S0276"
+     ],
+     "text": "木食性的小象白蚁（<i>Nasutitermes parvonasutus</i>）采自鼎湖山，按采到的群体数从工蚁体内解剖 4 套肠道；同文供试的培菌性种类采自罗浮山与帽峰山。",
+     "text_en": "The wood-feeding <i>Nasutitermes parvonasutus</i> was collected at Dinghu Mountain, and four guts were dissected from workers according to the number of colonies collected; the fungus-growing species tested in the same paper were collected at Luofu Mountain and Maofeng Mountain.",
+     "text_es": "La especie xilófaga <i>Nasutitermes parvonasutus</i> se recolectó en el monte Dinghu, y se diseccionaron cuatro intestinos de obreras según el número de colonias recolectadas; las especies cultivadoras de hongos estudiadas en el mismo trabajo se recolectaron en el monte Luofu y el monte Maofeng."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0276",
+   "citation": "Li, Z.-Q.; Liu, B.-R.; Zeng, W.; Xiao, W.-L.; Li, Q.; Zhong, J. 2013. Character of Cellulase Activity in the Guts of Flagellate-Free Termites with Different Feeding Habits. Oxford University Press (OUP).",
+   "doi": "10.1673/031.013.3701"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "Ibitermes curupira": {
+  "gbif": {
+   "key": 9803436,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ibitermes curupira Fontes, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "3P8C4",
+   "status": "accepted",
+   "label": "Ibitermes curupira Fontes, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252562",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ibitermes inflatus": {
+  "gbif": {
+   "key": 9700785,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ibitermes inflatus Vasconcellos, 2002",
+   "accepted": null
+  },
+  "col": {
+   "id": "3P8C5",
+   "status": "accepted",
+   "label": "Ibitermes inflatus Vasconcellos, 2002",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252563",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

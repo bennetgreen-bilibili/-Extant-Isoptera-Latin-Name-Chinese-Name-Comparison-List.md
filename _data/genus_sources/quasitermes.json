@@ -1,0 +1,19 @@
+{
+ "latin": "Quasitermes",
+ "zh": "相似白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Quasitermes Emerson, 1950: 10–13.",
+ "type_species": "Quasitermes caprinus Emerson, 1950 (caprinus a synonym of incisus) by original designation.",
+ "references": [
+  {
+   "ref": "Krishna, 1968: 278–280",
+   "note": "Quasitermes; synonymy; key; characters; phylogeny; species included; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 31",
+   "note": "Quasitermes; key."
+  }
+ ],
+ "nrefs": 4
+}

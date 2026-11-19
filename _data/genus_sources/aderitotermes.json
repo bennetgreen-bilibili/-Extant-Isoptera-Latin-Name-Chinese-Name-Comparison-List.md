@@ -1,0 +1,15 @@
+{
+ "latin": "Aderitotermes",
+ "zh": "谐白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Aderitotermes Sands, 1972: 222.",
+ "type_species": "Aderitotermes fossar Sands, 1972 by original designation.",
+ "references": [
+  {
+   "ref": "Sands, 1998: 54, 169–171, figs. 531–542, pl. 9: figs. 1–5",
+   "note": "Aderitotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 1
+}

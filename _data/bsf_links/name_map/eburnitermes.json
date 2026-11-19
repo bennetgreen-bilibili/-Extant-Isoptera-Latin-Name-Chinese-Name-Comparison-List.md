@@ -1,0 +1,13 @@
+{
+ "Eburnitermes grassei": {
+  "label": "Eburnitermes grassei Noirot, 1966",
+  "match": "exact",
+  "notes": "",
+  "otu": 84060,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84060/overview",
+  "valid_label": null,
+  "valid_otu": 84060,
+  "verified": false
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "book_n": "260",
+ "book_name": "锥颚土白蚁 Odontotermes conignathus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "锥颚土白蚊兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "6.27",
+     "value": "1.84–2.12"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.57",
+     "value": "1.48–1.67"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.13",
+     "value": "1.06–1.21"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.14",
+     "value": "1.08–1.28"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.65",
+     "value": "0.61–0.69"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.10",
+     "value": "1.03–1.19"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.36",
+     "value": "1.25–1.44"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 1392,
+   "unit": "mm"
+  }
+ ]
+}

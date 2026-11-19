@@ -1,0 +1,98 @@
+{
+ "book_n": "97",
+ "book_name": "上海乳白蚁 Coptotermes",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "上海乳白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_mandibles",
+     "value": "2.00–2.125"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.25–1.375"
+    },
+    {
+     "key": "head_max_width",
+     "value": "1.025–1.05"
+    },
+    {
+     "key": "head_height",
+     "value": "0.756–0.792"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "0.875–0.925"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.30"
+    },
+    {
+     "key": "labrum_width",
+     "value": "0.25"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "0.70–0.80"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.70–0.725"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "0.90–0.96"
+    },
+    {
+     "key": "antennal_segments",
+     "value": "13–14"
+    }
+   ],
+   "src_file": "301-400.txt",
+   "src_line": 880,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "上海乳白蚁有翅上海乳白蚁有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.27–1.30"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.024–0.036"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.125–1.20"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.65–0.70"
+    },
+    {
+     "key": "forewing_length",
+     "value": "8.80–9.10"
+    },
+    {
+     "key": "antennal_segments",
+     "value": "19"
+    }
+   ],
+   "src_file": "301-400.txt",
+   "src_line": 892,
+   "unit": "mm"
+  }
+ ]
+}

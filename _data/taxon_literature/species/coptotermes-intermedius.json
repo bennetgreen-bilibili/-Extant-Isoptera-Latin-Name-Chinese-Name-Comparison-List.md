@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "多哥北部的木栖种类记录",
+   "heading_en": "A wood-dwelling species in northern Togo",
+   "heading_es": "Una especie xilófila del norte de Togo",
+   "paragraphs": [
+    {
+     "text": "据摘要，Effowe 等（2021）在多哥北部 Galangashi 保护区的 3 个样点记录 28 种白蚁（14 属、6 亚科），其中中间乳白蚁（<i>Coptotermes intermedius</i>）是该区取食功能群 I 的唯一成员，与阴暗富勒白蚁（<i>Fulleritermes tenebricus</i>）同为木栖种类，作者认为二者的出现与当地植被有关。",
+     "text_en": "According to the abstract, Effowe et al. (2021) recorded 28 termite species (14 genera, 6 subfamilies) at three sites in Galangashi Park, northern Togo, among which <i>Coptotermes intermedius</i> is the only member of feeding group I in the area; together with <i>Fulleritermes tenebricus</i> it is a wood-dwelling species, and the authors considered that the occurrence of both is due to the vegetation.",
+     "text_es": "Según el resumen, Effowe et al. (2021) registraron 28 especies de termitas (14 géneros, 6 subfamilias) en tres sitios del parque de Galangashi, en el norte de Togo, entre las cuales <i>Coptotermes intermedius</i> es el único miembro del grupo trófico I en la zona; junto con <i>Fulleritermes tenebricus</i> es una especie xilófila, y los autores consideraron que la presencia de ambas se debe a la vegetación.",
+     "src": [
+      "S0364"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0364",
+   "citation": "Effowe, T. Q.; Kasseney, B. D.; Ndiaye, A. B.; Sanbena, B.; Amevoin, K.; Glitho, I. A. 2021. Termites' diversity in a protected park of the northern Sudanian savanna of Togo (West Africa). Nature Conservation.",
+   "url": "https://doi.org/10.3897/natureconservation.43.59474"
+  }
+ ]
+}

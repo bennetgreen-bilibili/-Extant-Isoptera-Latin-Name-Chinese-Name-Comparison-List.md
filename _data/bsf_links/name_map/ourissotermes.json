@@ -1,0 +1,13 @@
+{
+ "Ourissotermes giblinorum": {
+  "label": "Ourissotermes giblinorum Scheffrahn, Carrijo & Castro, 2023",
+  "match": "exact",
+  "notes": "",
+  "otu": 785315,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/785315/overview",
+  "valid_label": null,
+  "valid_otu": 785315,
+  "verified": false
+ }
+}

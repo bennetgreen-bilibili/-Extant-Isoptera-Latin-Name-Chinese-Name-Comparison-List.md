@@ -1,0 +1,178 @@
+{
+ "Anacanthotermes ahngerianus": {
+  "label": "Anacanthotermes ahngerianus (Jacobson, 1905)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82508,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82508/overview",
+  "valid_label": null,
+  "valid_otu": 82508,
+  "verified": false
+ },
+ "Anacanthotermes baeckmannianus": {
+  "label": "Anacanthotermes baeckmannianus (Vasiljev, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82509,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82509/overview",
+  "valid_label": null,
+  "valid_otu": 82509,
+  "verified": false
+ },
+ "Anacanthotermes baluchistanicus": {
+  "label": "Anacanthotermes baluchistanicus Akhtar, 1974",
+  "match": "exact",
+  "notes": "",
+  "otu": 82510,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82510/overview",
+  "valid_label": null,
+  "valid_otu": 82510,
+  "verified": false
+ },
+ "Anacanthotermes esmailii": {
+  "label": "Anacanthotermes esmailii Ghayourfar, 1998",
+  "match": "exact",
+  "notes": "",
+  "otu": 82511,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82511/overview",
+  "valid_label": null,
+  "valid_otu": 82511,
+  "verified": false
+ },
+ "Anacanthotermes gurganiensis": {
+  "label": "Anacanthotermes gurganiensis Akhtar & Raven, 1999",
+  "match": "exact",
+  "notes": "",
+  "otu": 82512,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82512/overview",
+  "valid_label": null,
+  "valid_otu": 82512,
+  "verified": false
+ },
+ "Anacanthotermes iranicus": {
+  "label": "Anacanthotermes iranicus Ravan & Akhtar, 1993",
+  "match": "exact",
+  "notes": "",
+  "otu": 82513,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82513/overview",
+  "valid_label": null,
+  "valid_otu": 82513,
+  "verified": false
+ },
+ "Anacanthotermes macrocephalus": {
+  "label": "Anacanthotermes macrocephalus (Desneux, 1906)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82514,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82514/overview",
+  "valid_label": null,
+  "valid_otu": 82514,
+  "verified": false
+ },
+ "Anacanthotermes murgabicus": {
+  "label": "Anacanthotermes murgabicus (Vasiljev, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82515,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82515/overview",
+  "valid_label": null,
+  "valid_otu": 82515,
+  "verified": false
+ },
+ "Anacanthotermes ochraceus": {
+  "label": "Anacanthotermes ochraceus (Burmeister, 1839)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82516,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82516/overview",
+  "valid_label": null,
+  "valid_otu": 82516,
+  "verified": false
+ },
+ "Anacanthotermes saudiensis": {
+  "label": "Anacanthotermes saudiensis Chhotani & Bose, 1982",
+  "match": "exact",
+  "notes": "",
+  "otu": 82517,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82517/overview",
+  "valid_label": null,
+  "valid_otu": 82517,
+  "verified": false
+ },
+ "Anacanthotermes sawensis": {
+  "label": "Anacanthotermes sawensis Al-Alawy, Abdul-Rassoul & Al-Azawi, 1990",
+  "match": "exact",
+  "notes": "",
+  "otu": 82519,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82519/overview",
+  "valid_label": null,
+  "valid_otu": 82519,
+  "verified": false
+ },
+ "Anacanthotermes septentrionalis": {
+  "label": "Anacanthotermes septentrionalis (Jacobson, 1905)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82518,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82518/overview",
+  "valid_label": null,
+  "valid_otu": 82518,
+  "verified": false
+ },
+ "Anacanthotermes turkestanicus": {
+  "label": "Anacanthotermes turkestanicus (Jacobson, 1905)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82520,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82520/overview",
+  "valid_label": null,
+  "valid_otu": 82520,
+  "verified": false
+ },
+ "Anacanthotermes ubachi": {
+  "label": "Anacanthotermes ubachi (Navás, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82521,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82521/overview",
+  "valid_label": null,
+  "valid_otu": 82521,
+  "verified": false
+ },
+ "Anacanthotermes vagans": {
+  "label": "Anacanthotermes vagans (Hagen, 1858)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82522,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82522/overview",
+  "valid_label": null,
+  "valid_otu": 82522,
+  "verified": false
+ },
+ "Anacanthotermes viarum": {
+  "label": "Anacanthotermes viarum (König, 1779)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82523,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82523/overview",
+  "valid_label": null,
+  "valid_otu": 82523,
+  "verified": false
+ }
+}

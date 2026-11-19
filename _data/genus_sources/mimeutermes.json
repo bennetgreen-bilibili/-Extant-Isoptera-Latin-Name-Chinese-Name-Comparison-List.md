@@ -1,0 +1,43 @@
+{
+ "latin": "Mimeutermes",
+ "zh": "仿白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Mimeutermes Silvestri, 1914a: 47–48.",
+ "type_species": "Mimeutermes giffardi Silvestri, 1914 by original designation.",
+ "references": [
+  {
+   "ref": "Sjöstedt, 1926d: 290, 359",
+   "note": "Mimeutermes; reference list; key."
+  },
+  {
+   "ref": "Webb, 1961: 10",
+   "note": "Mimeutermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 33, 112, 113, pl. 24: fig. 75c",
+   "note": "Mimeutermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Sands, 1965d: 14, 15, 134, 135",
+   "note": "Mimeutermes; key; characters; ecology; key to species."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1966: 3",
+   "note": "Mimeutermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 23",
+   "note": "Mimeutermes; key."
+  },
+  {
+   "ref": "Sands, 1995: 1506, 1507",
+   "note": "Mimeutermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 46, 297–299, figs. 1519–1541, pl. 18: fig. 6",
+   "note": "Mimeutermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 19
+}

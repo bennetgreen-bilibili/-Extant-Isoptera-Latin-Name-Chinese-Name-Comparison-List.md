@@ -1,0 +1,27 @@
+{
+ "latin": "Furculitermes",
+ "zh": "叉白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Furculitermes Emerson, 1960c: 17–22.",
+ "type_species": "Furculitermes winifredae Emerson, 1960 by original designation.",
+ "references": [
+  {
+   "ref": "Bouillon and Mathot, 1965: 28, 100, 101, pl. 18: fig. 55e",
+   "note": "Furculitermes; key; characters; worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 33",
+   "note": "Furculitermes; key."
+  },
+  {
+   "ref": "Sands, 1995: 1485",
+   "note": "Furculitermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 35, 222–224, figs. 932–954, pl. 12: figs. 3, 4",
+   "note": "Furculitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 6
+}

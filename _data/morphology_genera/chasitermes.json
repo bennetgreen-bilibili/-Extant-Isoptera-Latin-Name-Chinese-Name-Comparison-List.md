@@ -1,0 +1,21 @@
+{
+ "zh_name": "蔡斯白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "以下三特征组合使本属区别于所有 Apicotermitinae 属：EVA 垫不硬化而呈长方形、EVS 具管状延伸、mesenteric tongue 球形突出。目前仅知工蚁，有翅成虫未知。"
+  },
+  {
+   "label": "工蚁",
+   "text": "单型。头壳与触角淡黄。EVA 角质层不硬化，形成 6 个长方形垫，每垫约 100 枚鳞片；EVS 具管状延伸。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0062",
+   "citation": "Scheffrahn R. H., Carrijo T. F. 2023. Chasitermes pax, a new genus and species of soldierless termite (Termitidae, Apicotermitinae) from the island of Trinidad. ZooKeys 1139: 127–136. doi:10.3897/zookeys.1139.94972",
+   "locator": "p. 129（Taxonomy / Chasitermes gen. nov.）"
+  }
+ ],
+ "note": "属名纪念采集者 James A. Chase。原文 Imago unknown；无兵蚁，故只设鉴别要点与工蚁两节。"
+}

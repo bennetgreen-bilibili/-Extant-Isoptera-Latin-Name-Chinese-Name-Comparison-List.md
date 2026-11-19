@@ -1,0 +1,15 @@
+{
+ "latin": "Ateuchotermes",
+ "zh": "无锐白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Ateuchotermes Sands, 1972: 158.",
+ "type_species": "Ateuchotermes pectinatus Sands, 1972 by original designation. 2013 Krishna ET AL.: isoptera: TERMITIDAE: APICOTERMITINAE\b 1369",
+ "references": [
+  {
+   "ref": "Sands, 1998: 56, 164–166, figs. 494–512, pl. 7: figs. 1–11",
+   "note": "Ateuchotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 3
+}

@@ -1,0 +1,66 @@
+{
+ "book_n": "164",
+ "book_name": "幽兰散白蚁 Reticulitermes",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "成虫量度( mm ) (雌雄各2)",
+   "label_en": "Imago measurements",
+   "label_es": "Medidas de imago",
+   "label_zh": "成虫量度",
+   "rows": [
+    {
+     "key": "body_length_with_wings",
+     "value": "9.05–10.02"
+    },
+    {
+     "key": "body_length",
+     "value": "4.90–6.14"
+    },
+    {
+     "key": "head_length_labrum_tip",
+     "value": "1.28–1.45"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "value": "0.92–0.99"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "value": "0.98–1.03"
+    },
+    {
+     "key": "head_width",
+     "value": "0.95–0.99"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.05–0.07"
+    },
+    {
+     "key": "eye_head_lower_margin",
+     "value": "0.16–0.18"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.52–0.56"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.79–0.84"
+    },
+    {
+     "key": "forewing_scale_length",
+     "value": "0.64–0.69"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.11–1.15"
+    }
+   ],
+   "src_file": "401-500.txt",
+   "src_line": 870,
+   "unit": "mm"
+  }
+ ]
+}

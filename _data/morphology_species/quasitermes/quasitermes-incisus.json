@@ -1,0 +1,31 @@
+{
+ "zh_name": "切割相似白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "上唇几乎不对称、侧尖短而锐；Mirocapritermes 的上唇更不对称、分叉更深、侧尖更长更锐（Emerson 1950）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头长形近方形，两侧平行而微凸；额突前指、不甚尖锐（引文在此被原页码书眉打断）；上唇长大于宽，端部浅凹或成角；上颚不对称、适于弹击，左上颚略呈波状，右上颚略向外弯。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0040",
+   "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+   "locator": "p. 10（Quasitermes 兵蚁）"
+  },
+  {
+   "id": "S0040",
+   "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+   "locator": "p. 11（Quasitermes 兵蚁）"
+  },
+  {
+   "id": "S0040",
+   "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+   "locator": "p. 11（Quasitermes 兵蚁）"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+}

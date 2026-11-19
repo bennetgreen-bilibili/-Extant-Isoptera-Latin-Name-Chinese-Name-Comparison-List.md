@@ -1,0 +1,55 @@
+{
+ "latin": "Mimeutermes",
+ "zh": "仿白蚁属",
+ "fetched_at": "2026-10-30T16:54:05Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2162453715",
+   "openalex_url": "https://openalex.org/W2162453715",
+   "doi": "10.1111/j.1365-3113.1956.tb01096.x",
+   "doi_url": "https://doi.org/10.1111/j.1365-3113.1956.tb01096.x",
+   "title": "A NEW SPECIES OF MIMEUTERMES FROM THE GOLD COAST (ISOPTERA: NASUTITERMITINAE)",
+   "year": 1956,
+   "date": "1956-06-01",
+   "authors": [
+    "William A. Sands"
+   ],
+   "venue": "Proceedings of the Royal Entomological Society of London Series B Taxonomy",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "25",
+   "issue": "5-6",
+   "pages": "83-84",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2060535593",
+   "openalex_url": "https://openalex.org/W2060535593",
+   "doi": "10.1111/j.1365-3113.1965.tb01709.x",
+   "doi_url": "https://doi.org/10.1111/j.1365-3113.1965.tb01709.x",
+   "title": "A new species of Mimeutermes Silvestri and the imago of Nasutitermes diabolus (Sjöstedt) from Africa (Isoptera: Nasutitermitinae)",
+   "year": 1965,
+   "date": "1965-10-01",
+   "authors": [
+    "William A. Sands"
+   ],
+   "venue": "Proceedings of the Royal Entomological Society of London Series B Taxonomy",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "34",
+   "issue": "9-10",
+   "pages": "132-136",
+   "abstract": "A new species of Mimeutermes is described from imagos taken in Tanganyika. A key to the four species of Mimeutermes and a note on their distribution are included. The hitherto unknown imago of Nasutitermes diabolus is described from a unique male taken in Gabon.",
+   "abstract_source": "openalex",
+   "abstract_chars": 262,
+   "abstract_truncated": false
+  }
+ ]
+}

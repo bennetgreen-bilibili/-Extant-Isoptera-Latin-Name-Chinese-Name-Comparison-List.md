@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "分布南界",
+   "heading_en": "Southern distribution limit",
+   "heading_es": "Límite meridional de distribución",
+   "paragraphs": [
+    {
+     "src": [
+      "S0247"
+     ],
+     "text": "根据 Scheffrahn 等（2015）研究，红头胄白蚁（<i>Stolotermes ruficeps</i>）在新西兰的分布达南纬约 46°，其南界仅次于方颈洞白蚁（<i>Porotermes quadricollis</i>）的约 48.9°；新西兰因弗卡吉尔（Invercargill）记录地的年均温约 10 °C。",
+     "text_en": "According to Scheffrahn et al. (2015), <i>Stolotermes ruficeps</i> reaches about 46°S in New Zealand, second only to the roughly 48.9°S of <i>Porotermes quadricollis</i>; the record locality at Invercargill, New Zealand, has a mean annual temperature of about 10 °C.",
+     "text_es": "Según Scheffrahn et al. (2015), <i>Stolotermes ruficeps</i> alcanza unos 46°S en Nueva Zelanda, solo superada por los aproximadamente 48,9°S de <i>Porotermes quadricollis</i>; la localidad registrada en Invercargill, Nueva Zelanda, tiene una temperatura media anual de unos 10 °C."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0247",
+   "citation": "Scheffrahn, R. H. 2015. Global elevational, latitudinal, and climatic limits for termites and the redescription of Rugitermes laticollis Snyder (Isoptera: Kalotermitidae) from the Andean Highlands. Universidade Estadual de Feira de Santana.",
+   "doi": "10.13102/sociobiology.v62i3.793"
+  }
+ ]
+}

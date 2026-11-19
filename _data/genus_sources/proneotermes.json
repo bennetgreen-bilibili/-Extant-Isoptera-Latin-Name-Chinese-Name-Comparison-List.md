@@ -1,0 +1,35 @@
+{
+ "latin": "Proneotermes",
+ "zh": "前新白蚁属",
+ "family": "kalotermitidae",
+ "treatise": true,
+ "citation": "Proneotermes Holmgren, 1911a: 53 [first introduced as a subgenus of Calotermes Hagen, 1858].",
+ "type_species": "Calotermes (Proneotermes) perezi Holmgren, 1911 by original designation.",
+ "references": [
+  {
+   "ref": "Holmgren, 1911a: 53, 54",
+   "note": "Calotermes (Proneotermes); characters; species included; distribution."
+  },
+  {
+   "ref": "Sjöstedt, 1926d: 22, 23, 32",
+   "note": "Proneotermes; reference list; key."
+  },
+  {
+   "ref": "Krishna, 1961: 363–365",
+   "note": "Proneotermes; stat. rev.; generic characters; key; reference list; phylogeny; distribution."
+  },
+  {
+   "ref": "Webb, 1961: 9",
+   "note": "Proneotermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 11",
+   "note": "Proneotermes; key."
+  },
+  {
+   "ref": "Constantino, 2002a: 16",
+   "note": "Proneotermes; key."
+  }
+ ],
+ "nrefs": 13
+}

@@ -1,0 +1,338 @@
+{
+ "Heterotermes aureus": [
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/568030665/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/568030665/medium.jpg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Sean Hartnett, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/314496084"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/568030675/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/568030675/medium.jpg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Sean Hartnett, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/314496084"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/480066177/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/480066177/medium.jpeg",
+   "width": 278,
+   "height": 285,
+   "credit": "(c) Bob Miller, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/267153355"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/480066185/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/480066185/medium.jpeg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) Bob Miller, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/267153355"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/471470313/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/471470313/medium.jpeg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/262457244"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/471470322/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/471470322/medium.jpeg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/262457244"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/349074386/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/349074386/medium.jpeg",
+   "width": 1024,
+   "height": 682,
+   "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/198099899"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/306297947/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/306297947/medium.jpg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Alina Martin, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/176197506"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/306297905/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/306297905/medium.jpg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Alina Martin, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/176197506"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/258536762/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/258536762/medium.jpg",
+   "width": 1024,
+   "height": 683,
+   "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/149984866"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/254465952/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/254465952/medium.jpg",
+   "width": 1024,
+   "height": 683,
+   "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/147840288"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/254465954/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/254465954/medium.jpg",
+   "width": 1024,
+   "height": 683,
+   "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/147840288"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/249566213/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/249566213/medium.jpg",
+   "width": 1024,
+   "height": 682,
+   "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/145299894"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/249566216/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/249566216/medium.jpg",
+   "width": 1024,
+   "height": 682,
+   "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/145299894"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/145891195/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/145891195/medium.jpg",
+   "width": 1024,
+   "height": 682,
+   "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/88458010"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/145891200/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/145891200/medium.jpg",
+   "width": 1024,
+   "height": 682,
+   "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/88458010"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/306297860/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/306297860/medium.jpg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Alina Martin, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/176197506"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/306297981/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/306297981/medium.jpg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Alina Martin, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/176197506"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/306297927/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/306297927/medium.jpg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Alina Martin, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/176197506"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/306297977/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/306297977/medium.jpg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Alina Martin, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/176197506"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/254465956/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/254465956/medium.jpg",
+   "width": 1024,
+   "height": 683,
+   "credit": "(c) Jake Nitta, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/147840288"
+  },
+  {
+   "source": "commons",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Desert_subterranean_termite_imported_from_iNaturalist_photo_306297981_on_1_April_2024.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Desert_subterranean_termite_imported_from_iNaturalist_photo_306297981_on_1_April_2024.jpg/960px-Desert_subterranean_termite_imported_from_iNaturalist_photo_306297981_on_1_April_2024.jpg",
+   "width": 1209,
+   "height": 1511,
+   "credit": "(c) Alina Martin, some rights reserved (CC BY)",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Desert_subterranean_termite_imported_from_iNaturalist_photo_306297981_on_1_April_2024.jpg"
+  },
+  {
+   "source": "commons",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Heterotermes_aureus_%28Arizona%2C_USA%29.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Heterotermes_aureus_%28Arizona%2C_USA%29.jpg/960px-Heterotermes_aureus_%28Arizona%2C_USA%29.jpg",
+   "width": 1024,
+   "height": 683,
+   "credit": "Jake Nitta, user froggy143 on iNaturalist",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Heterotermes_aureus_(Arizona,_USA).jpg"
+  }
+ ],
+ "Heterotermes longiceps": [
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/204664976/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/204664976/medium.jpeg",
+   "width": 1024,
+   "height": 1024,
+   "credit": "(c) Jean Martins, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/120973593"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/204665006/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/204665006/medium.jpeg",
+   "width": 1024,
+   "height": 1024,
+   "credit": "(c) Jean Martins, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/120973593"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/204664767/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/204664767/medium.jpeg",
+   "width": 1024,
+   "height": 1024,
+   "credit": "(c) Jean Martins, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/120973456"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/204664795/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/204664795/medium.jpeg",
+   "width": 1024,
+   "height": 1024,
+   "credit": "(c) Jean Martins, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/120973456"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/204664825/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/204664825/medium.jpeg",
+   "width": 1024,
+   "height": 1024,
+   "credit": "(c) Jean Martins, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/120973456"
+  }
+ ],
+ "Heterotermes tenuis": [
+  {
+   "source": "commons",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Morphology_of_Cthylla_microfasciculumque.png",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Morphology_of_Cthylla_microfasciculumque.png/960px-Morphology_of_Cthylla_microfasciculumque.png",
+   "width": 1966,
+   "height": 1721,
+   "credit": "Erick R. James, Noriko Okamoto, Fabien Burki, Rudolf H. Scheffrahn, and Patrick J. Keeling",
+   "license": "CC BY 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+   "page": "https://commons.wikimedia.org/wiki/File:Morphology_of_Cthylla_microfasciculumque.png"
+  },
+  {
+   "source": "commons",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Morphology_of_Cthylla_microfasciculumque_%28A%29.png",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Morphology_of_Cthylla_microfasciculumque_%28A%29.png/960px-Morphology_of_Cthylla_microfasciculumque_%28A%29.png",
+   "width": 1784,
+   "height": 799,
+   "credit": "Erick R. James, Noriko Okamoto, Fabien Burki, Rudolf H. Scheffrahn, and Patrick J. Keeling",
+   "license": "CC BY 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+   "page": "https://commons.wikimedia.org/wiki/File:Morphology_of_Cthylla_microfasciculumque_(A).png"
+  }
+ ]
+}

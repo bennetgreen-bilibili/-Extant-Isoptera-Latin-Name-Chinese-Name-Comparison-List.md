@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "马达加斯加种",
+   "heading_en": "A Malagasy species",
+   "heading_es": "Una especie malgache",
+   "paragraphs": [
+    {
+     "src": [
+      "S0336"
+     ],
+     "text": "根据 Coaton（1962）核订，贝哈拉缩狭白蚁（<i>Coarctotermes beharaensis</i>）是缩狭白蚁属（<i>Coarctotermes</i>）4 个有效种之一，分布于马达加斯加；该种有翅成虫与工蚁左颚的颚齿状态与模式种漏壶缩狭白蚁（<i>Coarctotermes clepsydra</i>）一致，即第 1、2 缘齿愈合后以均匀凹陷的切缘接第 3 缘齿，作者以图版标出这一状态。",
+     "text_en": "According to Coaton's (1962) revision, <i>Coarctotermes beharaensis</i> is one of the four valid species of <i>Coarctotermes</i> and occurs in Madagascar; the dentition of the left mandible in its imago and worker agrees with that of the type species, <i>Coarctotermes clepsydra</i>, the fused first and second marginal teeth being joined to the third by an evenly concave cutting margin, a condition the author illustrates in a figure.",
+     "text_es": "Según la revisión de Coaton (1962), <i>Coarctotermes beharaensis</i> es una de las cuatro especies válidas de <i>Coarctotermes</i> y se distribuye por Madagascar; la dentición de la mandíbula izquierda en su imago y su obrera coincide con la de la especie tipo, <i>Coarctotermes clepsydra</i>, pues los dientes marginales primero y segundo, fusionados, se unen al tercero por un margen cortante uniformemente cóncavo, condición que el autor ilustra en una figura."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0336",
+   "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+   "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+  }
+ ]
+}

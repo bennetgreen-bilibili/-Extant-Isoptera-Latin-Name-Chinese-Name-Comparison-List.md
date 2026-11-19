@@ -1,0 +1,48 @@
+{
+ "Calcaritermes nearcticus": [
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/634045477/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/634045477/medium.jpg",
+   "width": 685,
+   "height": 548,
+   "credit": "(c) Ashwin Srinivasan, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/347718694"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/634045480/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/634045480/medium.jpg",
+   "width": 691,
+   "height": 649,
+   "credit": "(c) Ashwin Srinivasan, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/347718694"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/634045485/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/634045485/medium.jpg",
+   "width": 774,
+   "height": 742,
+   "credit": "(c) Ashwin Srinivasan, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/347718694"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/634045483/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/634045483/medium.jpg",
+   "width": 718,
+   "height": 570,
+   "credit": "(c) Ashwin Srinivasan, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/347718694"
+  }
+ ]
+}

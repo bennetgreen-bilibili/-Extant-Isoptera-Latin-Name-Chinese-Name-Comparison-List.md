@@ -1,0 +1,25 @@
+{
+ "zh_name": "罗伊森白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "Kalotermitidae 中唯一具弹击式（snapping）上颚的属：兵蚁上颚细棒状、齿式极弱；有翅成虫无可见单眼（ocelli），在本科中亦为唯一。按 Krishna (1961) 属级检索表，有翅成虫落于第 2 对（Epicalotermes），兵蚁落于第 17 对（Allotermes）。兵蚁上颚与 Allotermes（尤其 A. denticulatus）的细长、齿近退化者略似，但本属上颚侧视向下弯，为具前伸上颚的 kalotermitid 中所仅见；有翅成虫的翅脉与齿式虽与 Epicalotermes 很接近，兵蚁却与之无任何主要共有特征。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头与前胸背板浅褐橙色，腹节背板较浅，与足、上唇同色；后唇基（postclypeus）近透明。复眼中等大而突出，卵形，近触角窝处平截，约由 85 个小眼组成；单眼既无色素亦无角质突起，完全不可见。触角 9 节以上，节式 1>2=3=4<5（种级记录 14–17 节）。前胸背板宽约为其中长的 2 倍，侧缘具数根长刚毛与较短刚毛。前翅 M 与 Cu 在鳞缝以远共柄，径分脉（Rs）具 5–6 条前支，亚前缘脉（Sc）紧贴前缘、难以分辨；后翅 Rs 与 Cu 于缝后共柄。胫节距式 3:3:3，跗节无 arolium（爪间突）。左上颚缘齿前缘约等于其后缘与第二缘齿后缘合计长度的 1.5 倍；右颚第二缘齿后缘长为磨板（molar plate）的 1.4 倍。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "单型。眼斑明显，大而深褐。额（frons）背视双叶状，覆皱纹状纵脊，额下皱纹纵向排列；腹颊末端具小角状突。上颚细棒状，侧视向下弯；齿式极弱，基部隆起尖锐前突。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0050",
+   "citation": "Scheffrahn R. H.; Bourguignon T.; Akama P. D.; Sillam-Dussès D.; Šobotník J. 2018. Roisinitermes ebogoensis gen. & sp. n., an outstanding drywood termite with snapping soldiers from Cameroon (Isoptera, Kalotermitidae). ZooKeys 787: 91–105. https://doi.org/10.3897/zookeys.787.28195",
+   "locator": "Genus Roisinitermes gen. n. — Winged Imago, Soldier, Diagnosis（ZooKeys 787: 91–105）"
+  }
+ ],
+ "note": "属级仅设有翅成虫与兵蚁两节；原文未单列工蚁（该种具 pseudergates 与短翅若虫，若虫只有种级量度表），故不设「工蚁」「若虫」节。属级未给量度，量度均为种级（有翅成虫 Table 1、兵蚁 Table 2）。"
+}

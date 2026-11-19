@@ -1,0 +1,21 @@
+{
+ "note": "Sands 1965 provides three sections, Imago, Soldier and Worker, all entered as in the original. The left mandible index of the alate is given in the original as 96–98 (percentage scale) and that of the worker as 1.24–1.62 (ratio scale); the two differ in dimension and have been recorded as they stand without conversion.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Sands regarded the genus as the least specialised member of the African Paracornitermes group: the mandibles of the alate and worker, the Y-shaped fontanelle typical of some species, the trilobed anterior margin of the soldier labrum and the generally more numerous setae all point to this. It differs from Vernicositermes and Afrosubulitermes in the denser pilosity (and in size). The soldier is monomorphic, with a conical to cylindrical nasus tapering to a fine, distinctly wrinkled point, a trilobed anterior margin of the labrum, 13-segmented antennae, and a head very weakly to moderately constricted behind the antennae."
+  },
+  {
+   "label": "Alate",
+   "text": "The apical tooth of the left mandible is distinctly longer than the 1st marginal tooth, but the distance between them is slightly shorter than that between the 1st and 3rd marginal teeth (left mandible index 96–98); the cutting edge between the 1st and 3rd marginal teeth is wavy and concave in front of the 3rd marginal tooth, which is nearly equilateral, and a very small subsidiary tooth is visible in the gap between it and the molar prominence. The right mandible has the apical tooth and 1st marginal tooth as in the left, the 2nd marginal tooth small but distinct with a concave posterior edge; the surface of the molar plate has no basal concavity and is asymmetric, its posterior edge forming a large rounded wing and its anterior wing smaller, the ridges weak. Postclypeus convex, 1.8–2.5 times as wide as long. Fontanelle variable in shape: Y-shaped, triangular, dumbbell-shaped or nearly absent. The degree to which the compound eyes protrude from the sides of the head ranges from almost none to distinct. The cephalic pilosity is irregular in length, the conspicuous long setae often arranged in symmetrical pairs. The sides of the pronotum converge weakly towards the rounded posterior margin, the pronotum being about two-thirds as long as wide."
+  },
+  {
+   "label": "Soldier",
+   "text": "Monomorphic. Nasus conical to cylindrical, tapering to a fine point and distinctly wrinkled. Vestigial mandibles with a minute point or with no point at all; anterior margin of the labrum trilobed. Head capsule very weakly to moderately constricted behind the antennae. Antennae 13-segmented. Head and nasus covered with sparse, extremely short fine hairs, longer at the tip of the nasus; in addition, conspicuous longer setae are arranged roughly in two rows, one in front of the constriction (4–10) and one behind it (2–10)."
+  },
+  {
+   "label": "Worker",
+   "text": "Mandibles as in the alate, but with a proportionally longer apical tooth (left mandible index 1.24–1.62) and a more developed molar region."
+  }
+ ]
+}

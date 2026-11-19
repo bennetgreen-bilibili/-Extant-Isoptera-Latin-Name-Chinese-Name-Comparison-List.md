@@ -1,0 +1,33 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "生境与食性",
+   "heading_en": "Habitat and feeding",
+   "heading_es": "Hábitat y alimentación",
+   "paragraphs": [
+    {
+     "text": "据摘要，Pribadi 等（2011）在 Mount Slamet 东坡 5 类土地利用中只于保护林采到马登象白蚁（<i>Nasutitermes matangensis</i>）2 头，为 7 种中数量最少；Ratiknyo 等（2018）在同一山地的海拔梯度调查中，把该种与瓢白蚁属（<i>Bulbitermes</i>）的几种一同归入取食腐殖质的类群，与取食木材和取食土壤的类群分开统计。",
+     "text_en": "According to the abstracts of Pribadi et al. (2011) and Ratiknyo et al. (2018), <i>Nasutitermes matangensis</i> was represented by only 2 individuals, the lowest count among the seven species, and was found solely in protected forest among the five land-use types sampled on the eastern slopes of Mount Slamet; in the altitudinal survey on the same mountain the species was grouped with several <i>Bulbitermes</i> species as humus feeders, separately from wood-feeding and soil-feeding groups.",
+     "text_es": "Según los resúmenes de Pribadi et al. (2011) y Ratiknyo et al. (2018), <i>Nasutitermes matangensis</i> estuvo representada por solo 2 individuos, el conteo más bajo de las siete especies, y se encontró únicamente en bosque protegido entre los cinco tipos de uso del suelo muestreados en la ladera oriental del monte Slamet; en el estudio altitudinal del mismo monte la especie se agrupó con <i>Nasutitermes matangensiformis</i> y varias especies de <i>Bulbitermes</i> como consumidoras de humus, separadas de los grupos xilófagos y geófagos.",
+     "src": [
+      "S0225",
+      "S0227"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0225",
+   "citation": "Pribadi, T. I.; Raffiudin, R.; Harahap, I. S. 2011. Termites community as environmental bioindicators in highlands: a case study in eastern slopes of Mount Slamet, Central Java. Biodiversitas 12(3): 235-240.",
+   "doi": "10.13057/biodiv/d120409"
+  },
+  {
+   "id": "S0227",
+   "citation": "Ratiknyo, H.; Ahmad, I.; Budianto, B. H. 2018. Diversity and abundance of termites along altitudinal gradient and slopes in Mount Slamet, Central Java, Indonesia. Biodiversitas 19(5): 1783-1788.",
+   "doi": "10.13057/biodiv/d190508"
+  }
+ ]
+}

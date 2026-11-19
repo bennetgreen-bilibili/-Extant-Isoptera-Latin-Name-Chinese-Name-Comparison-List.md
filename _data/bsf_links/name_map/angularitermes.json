@@ -1,0 +1,68 @@
+{
+ "Angularitermes clypeatus": {
+  "label": "Angularitermes clypeatus Mathews, 1977",
+  "match": "exact",
+  "notes": "",
+  "otu": 84303,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84303/overview",
+  "valid_label": null,
+  "valid_otu": 84303,
+  "verified": false
+ },
+ "Angularitermes coninasus": {
+  "label": "Angularitermes coninasus Carrijo, Rocha, Cuezzo & Cancello, 2011",
+  "match": "exact",
+  "notes": "",
+  "otu": 84304,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84304/overview",
+  "valid_label": null,
+  "valid_otu": 84304,
+  "verified": false
+ },
+ "Angularitermes nasutissimus": {
+  "label": "Angularitermes nasutissimus (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84305,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84305/overview",
+  "valid_label": null,
+  "valid_otu": 84305,
+  "verified": false
+ },
+ "Angularitermes orestes": {
+  "label": "Angularitermes orestes (Araujo, 1970)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84306,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84306/overview",
+  "valid_label": null,
+  "valid_otu": 84306,
+  "verified": false
+ },
+ "Angularitermes pinocchio": {
+  "label": "Angularitermes pinocchio Cancello & Brandão, 1996",
+  "match": "exact",
+  "notes": "",
+  "otu": 84307,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84307/overview",
+  "valid_label": null,
+  "valid_otu": 84307,
+  "verified": false
+ },
+ "Angularitermes tiguassu": {
+  "label": "Angularitermes tiguassu Cancello & Brandão, 1996",
+  "match": "exact",
+  "notes": "",
+  "otu": 84308,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84308/overview",
+  "valid_label": null,
+  "valid_otu": 84308,
+  "verified": false
+ }
+}

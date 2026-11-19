@@ -1,0 +1,15 @@
+{
+ "latin": "Hapsidotermes",
+ "zh": "络白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Hapsidotermes Miller, 1991: 1242–1244.",
+ "type_species": "Mirotermes maideni Mjöberg, 1920 by original designation.",
+ "references": [
+  {
+   "ref": "Hill, 1942: 14, 377–379",
+   "note": "Mirotermes; as genus and subgenus [part]; key; synonymy; imago, soldier, worker diagnosed."
+  }
+ ],
+ "nrefs": 3
+}

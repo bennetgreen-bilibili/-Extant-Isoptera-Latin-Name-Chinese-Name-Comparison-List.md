@@ -1,0 +1,288 @@
+{
+ "Hypotermes bawanensis": {
+  "gbif": {
+   "key": 9813313,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hypotermes bawanensis Zhu & Wang, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "3NZDN",
+   "status": "accepted",
+   "label": "Hypotermes bawanensis Zhu & Wang, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251992",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hypotermes makhamensis": {
+  "gbif": {
+   "key": 9780754,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hypotermes makhamensis Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "3NZDP",
+   "status": "accepted",
+   "label": "Hypotermes makhamensis Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q15709116",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hypotermes manyunensis": {
+  "gbif": {
+   "key": 9729115,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hypotermes manyunensis (Zhu & Huang, 1990)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3NZDQ",
+   "status": "accepted",
+   "label": "Hypotermes manyunensis (Zhu & Huang, 1990)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251995",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hypotermes meiziensis": {
+  "gbif": {
+   "key": 9794064,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hypotermes meiziensis Huang & Zhu, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "3NZDR",
+   "status": "accepted",
+   "label": "Hypotermes meiziensis Huang & Zhu, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251996",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hypotermes mengdingensis": {
+  "gbif": {
+   "key": 9659911,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hypotermes mengdingensis Zhu & Huang, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "3NZDS",
+   "status": "accepted",
+   "label": "Hypotermes mengdingensis Zhu & Huang, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251998",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hypotermes obscuriceps": {
+  "gbif": {
+   "key": 9709698,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hypotermes obscuriceps (Wasmann, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3NZDT",
+   "status": "accepted",
+   "label": "Hypotermes obscuriceps (Wasmann, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591978",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hypotermes ruiliensis": {
+  "gbif": {
+   "key": 9678668,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hypotermes ruiliensis (Zhu & Wang, 1990)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MQWT",
+   "status": "accepted",
+   "label": "Hypotermes ruiliensis (Zhu & Wang, 1990)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251999",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hypotermes sumatrensis": {
+  "gbif": {
+   "key": 9761764,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hypotermes sumatrensis (Holmgren, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3NZDV",
+   "status": "accepted",
+   "label": "Hypotermes sumatrensis (Holmgren, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252000",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hypotermes wandingensis": {
+  "gbif": {
+   "key": 9793125,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hypotermes wandingensis Zhu & Huang, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "3NZDW",
+   "status": "accepted",
+   "label": "Hypotermes wandingensis Zhu & Huang, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252001",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hypotermes wayaoensis": {
+  "gbif": {
+   "key": 9722504,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hypotermes wayaoensis Zhu & Wang, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "3NZDX",
+   "status": "accepted",
+   "label": "Hypotermes wayaoensis Zhu & Wang, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252003",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hypotermes winifredi": {
+  "gbif": {
+   "key": 9760866,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hypotermes winifredi (Ahmad, 1953)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3NZDY",
+   "status": "accepted",
+   "label": "Hypotermes winifredi (Ahmad, 1953)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q29869106",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hypotermes xenotermitis": {
+  "gbif": {
+   "key": 9648397,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hypotermes xenotermitis (Wasmann, 1896)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3NZDZ",
+   "status": "accepted",
+   "label": "Hypotermes xenotermitis (Wasmann, 1896)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252004",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hypotermes yingjiangensis": {
+  "gbif": {
+   "key": 9806492,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hypotermes yingjiangensis (Huang & Zhu, 1990)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MQX5",
+   "status": "accepted",
+   "label": "Hypotermes yingjiangensis (Huang & Zhu, 1990)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252005",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

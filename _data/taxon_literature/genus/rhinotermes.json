@@ -1,0 +1,67 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "属名的早期历史与现行科位",
+   "paragraphs": [
+    {
+     "text": "根据《白蚁学》（2014），鼻白蚁属（Rhinotermes）由 Hagen 于 1853 年命名，是最早命名的白蚁属之一。",
+     "src": [
+      "S0001"
+     ],
+     "text_en": "According to Termitology (2014), Rhinotermes was named by Hagen in 1853 and is one of the earliest-named termite genera.",
+     "text_es": "Según Termitología (2014), Rhinotermes fue nombrado por Hagen en 1853 y es uno de los géneros de termitas nombrados más tempranamente."
+    },
+    {
+     "text": "根据 Hellemans 等（2024），鼻白蚁属（Rhinotermes）是狭义鼻白蚁科（Rhinotermitidae sensu novo）的模式属；该科现仅含尖鼻白蚁属（Acorhinotermes）、狭鼻白蚁属（Dolichorhinotermes）、棒鼻白蚁属（Parrhinotermes）、鼻白蚁属（Rhinotermes）、长鼻白蚁属（Schedorhinotermes）五属，原鼻白蚁亚科（Rhinotermitinae，旧亚科）提升为科（即 Rhinotermitidae sensu novo），大鼻白蚁属（Macrorhinotermes，异名）被并入长鼻白蚁属（Schedorhinotermes）。",
+     "src": [
+      "S0008"
+     ],
+     "text_en": "According to Hellemans et al. (2024), Rhinotermes is the type genus of Rhinotermitidae sensu novo; the family now contains only five genera, Acorhinotermes, Dolichorhinotermes, Parrhinotermes, Rhinotermes and Schedorhinotermes, the former subfamily Rhinotermitinae having been elevated to family rank (that is, Rhinotermitidae sensu novo), and Macrorhinotermes (a synonym) having been merged into Schedorhinotermes.",
+     "text_es": "Según Hellemans et al. (2024), Rhinotermes es el género tipo de Rhinotermitidae sensu novo; esta familia comprende actualmente solo cinco géneros —Acorhinotermes, Dolichorhinotermes, Parrhinotermes, Rhinotermes y Schedorhinotermes—, la antigua subfamilia Rhinotermitinae se eleva al rango de familia (es decir, Rhinotermitidae sensu novo) y Macrorhinotermes (nombre sinónimo) se incluye en Schedorhinotermes."
+    }
+   ],
+   "heading_en": "Early history of the genus name and its current family placement",
+   "heading_es": "Historia temprana del nombre genérico y posición familiar actual"
+  },
+  {
+   "heading": "化石记录与生境",
+   "heading_en": "Fossil record and habitat",
+   "heading_es": "Registro fósil y hábitat",
+   "paragraphs": [
+    {
+     "src": [
+      "S0286"
+     ],
+     "text": "根据 Schlemmermeyer 与 Cancello（2000）研究，此前唯一记述的鼻白蚁亚科（<i>Rhinotermitinae</i>）化石为鼻白蚁属（<i>Rhinotermes</i>）的 <i>Rhinotermes miocenicus</i>（Nel et al. 1993），来自古北区意大利，仅基于一枚石化翅，作者自言其分类地位相当不确定（非琥珀化石）。",
+     "text_en": "According to Schlemmermeyer and Cancello (2000), the only previously described fossil of <i>Rhinotermitinae</i> was <i>Rhinotermes miocenicus</i> (Nel et al. 1993) of <i>Rhinotermes</i>, from the Palaearctic region in Italy, based solely on a single fossilized wing; the authors themselves consider its taxonomic position rather uncertain (it is not an amber fossil).",
+     "text_es": "Según Schlemmermeyer y Cancello (2000), el único fósil de <i>Rhinotermitinae</i> descrito previamente era <i>Rhinotermes miocenicus</i> (Nel et al. 1993), de <i>Rhinotermes</i>, procedente de la región paleártica de Italia, basado únicamente en un ala fosilizada; los propios autores consideran su posición taxonómica bastante incierta (no se trata de un fósil de ámbar)."
+    },
+    {
+     "src": [
+      "S0286"
+     ],
+     "text": "鼻白蚁属（<i>Rhinotermes</i>）所属的「<i>Rhinotermes</i> 复合体」各种生活于热带雨林或开阔植被的腐木中；作者据多米尼加琥珀源自密林树脂推断该化石种亦营林栖。该文同时指出，鼻白蚁属兵蚁为二型（大兵蚁与小兵蚁），与棒鼻白蚁属（<i>Parrhinotermes</i>）的单型兵蚁不同。",
+     "text_en": "The species of the <i>Rhinotermes</i> complex to which <i>Rhinotermes</i> belongs live in decaying wood in tropical rainforests or in open vegetation; the authors infer from the rainforest origin of the Dominican amber resin that the fossil species was also forest-dwelling. The paper further notes that the soldiers of <i>Rhinotermes</i> are dimorphic (major and minor soldiers), unlike the monomorphic soldiers of <i>Parrhinotermes</i>.",
+     "text_es": "Las especies del complejo <i>Rhinotermes</i>, al que pertenece <i>Rhinotermes</i>, viven en madera en descomposición de selvas tropicales o de vegetación abierta; los autores infieren, a partir del origen selvático de la resina del ámbar dominicano, que la especie fósil también era forestal. El trabajo señala además que los soldados de <i>Rhinotermes</i> son dimórficos (soldados mayores y menores), a diferencia de los soldados monomórficos de <i>Parrhinotermes</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0001",
+   "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+  },
+  {
+   "id": "S0008",
+   "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
+   "doi": "10.1038/s41467-024-51028-y"
+  },
+  {
+   "id": "S0286",
+   "citation": "Schlemmermeyer, T.; Cancello, E. M. 2000. New fóssil termite species: Dolichorhinotermes Dominicanusfrom Dominican Amber (Isoptera, Rhinotermitidae, Rjhinotermitinae). Universidade de São Paulo. Agência de Bibliotecas e Coleções Digitais.",
+   "doi": "10.11606/0031-1049.2000.41.p303-311"
+  }
+ ]
+}

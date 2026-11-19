@@ -1,0 +1,43 @@
+{
+ "latin": "Cubitermes",
+ "zh": "方白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Cubitermes Wasmann, 1906: 573.",
+ "type_species": "Termes bilobatus Haviland, 1898 by original designation.",
+ "references": [
+  {
+   "ref": "Haviland, 1898: 378, 410",
+   "note": "Termes; “section with T. bilobatus for type”; characters; key."
+  },
+  {
+   "ref": "Escherich, 1909: 177",
+   "note": "Cubitermes; characters."
+  },
+  {
+   "ref": "Wasmann, 1911c: 149–150, 151",
+   "note": "Cubitermes; key; characters."
+  },
+  {
+   "ref": "Holmgren, 1912a: 107, 108",
+   "note": "Mirotermes (Cubitermes); key; species included."
+  },
+  {
+   "ref": "Fuller, 1921: 21, 22, 27",
+   "note": "Cubitermes; key."
+  },
+  {
+   "ref": "Emerson, 1928b: 408, 419, 506",
+   "note": "Mirotermes (Cubitermes); key; distribution; nests; characters."
+  },
+  {
+   "ref": "Harris, 1941: 202",
+   "note": "Cubitermes; key."
+  },
+  {
+   "ref": "Cachan, 1949: 186, 240",
+   "note": "Cubitermes; key; synonymy."
+  }
+ ],
+ "nrefs": 38
+}

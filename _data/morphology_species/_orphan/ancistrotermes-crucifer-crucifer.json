@@ -1,0 +1,21 @@
+{
+ "zh_name": "指名亚种",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "较 A. latinotus 稍小。与 A. guineensis 相比体型较小，头两侧较不直，上颚端部弯曲较弱，前胸背板前缘切口较浅。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "大型兵蚁：头壳疏布细刚毛。触角 14—15 节；14 节时第三节略长于第二节，第四节略短于第二节；15 节时第三节短于第四节，第四节短于第二节。上颚端部强弯曲。前胸背板前缘深切入。头长 1.89 mm，头宽 1.10—1.20 mm；前胸背板中部长 0.50 mm，全长 0.60 mm，前胸背板宽 0.72—0.78 mm；后足胫节长 0.97—1.05 mm；左上颚长 0.80 mm。小型兵蚁：触角 14 节。头长 1.44 mm，头宽 0.78 mm；前胸背板中部长 0.33 mm，前胸背板宽 0.58 mm；后足胫节长 0.83 mm；左上颚长 0.67 mm。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写，原文英文；仅兵蚁有性状与量度，工蚁原文只记触角 15 节，未单列成段；异名、图号、产地与筑巢记录未译。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

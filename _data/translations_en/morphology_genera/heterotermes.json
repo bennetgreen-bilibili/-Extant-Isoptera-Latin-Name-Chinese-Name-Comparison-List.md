@@ -1,0 +1,17 @@
+{
+ "note": "The only copy of this paper available locally is the publisher's JATS full-text XML (Europe PMC PMC3264403), with no print PDF, so the locator uses section names rather than page numbers; the jsonl gives the author order as Roisin & Bourguignon, which differs from the order of the contrib elements in the XML (Bourguignon first); the XML is followed here. The worker caste is not described in the original, so no worker section is provided.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The genus is distinguished from other members of the Rhinotermitinae by the following combination: in the soldier the head is long and narrow, rectangular, the mandibles sabre-shaped with slightly curved apices, the left mandible with one tooth and several serrations at the base and the right mandible without teeth or serrations at the base; in the alate the head is almost oval, the anterior part narrower than the posterior, the ocelli situated at the front of the head, before the compound eyes, the antennae usually 15–19 segments, and the pronotum elongate and narrower than the head."
+  },
+  {
+   "label": "Alate",
+   "text": "Head almost oval, the anterior part narrower than the posterior; fontanelle small, situated in the middle of the head; compound eyes small and flat; ocelli situated at the front of the head, before the eyes; antennae usually 15–19 segments; pronotum elongate and narrower than the head. Species level (H. paradoxus): head slightly elongate, bearing several hundred hairs; pronotum elongate and of medium width; antennae usually 18 segments (occasionally 17); compound eyes flat, with small ocelli in front of the eyes."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head long and narrow, rectangular; fontanelle small, circular, situated anteriorly; labrum short to medium, about half the length of the mandibles; mandibles sabre-shaped with slightly curved apices; left mandible with one tooth and several serrations at the base; right mandible without teeth or serrations at the base; antennae 13–18 segments. Species level (H. vagus): soldier small, the head elongate with a distinct swelling anteriorly and densely covered with short hairs; labrum elongate with a sharp apex; antennae usually 13 segments; pronotum short and narrow, bearing about 50 hairs; postmentum slightly narrow and hairless; mandibular apices slightly curved."
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "补充生殖蚁与群体繁殖",
+   "heading_en": "Replacement reproductives and colony reproduction",
+   "heading_es": "Reproductores de reemplazo y reproducción colonial",
+   "paragraphs": [
+    {
+     "src": [
+      "S0201"
+     ],
+     "text": "据摘要，Roisin（1987）的去后实验表明，新赫布里底象白蚁（<i>Nasutitermes novarumhebridarum</i>）的补充生殖蚁只由工蚁发育为工蚁型（ergatoid），从不来自有翅芽的若虫或成虫；工蚁发育为具功能的工蚁型需 3 次蜕皮，比此前已知的其他白蚁多 1 次。",
+     "text_en": "According to the abstract, queen-removal experiments by Roisin (1987) showed that replacement reproductives of <i>Nasutitermes novarumhebridarum</i> develop only from workers as ergatoids, never from nymphs or alates; three moults are required for a worker to become a functional ergatoid, one more than in other termites previously known.",
+     "text_es": "Según el resumen, los experimentos de extracción de la reina de Roisin (1987) mostraron que los reproductores de reemplazo de <i>Nasutitermes novarumhebridarum</i> se desarrollan solo a partir de obreras como ergatoides, nunca de ninfas o alados; se requieren tres mudas para que una obrera se convierta en ergatoide funcional, una más que en otras termitas conocidas hasta entonces."
+    },
+    {
+     "src": [
+      "S0201"
+     ],
+     "text": "据摘要，同一研究指出，在已具功能工蚁型的群体中，部分若虫发育为工蚁状个体；该种与同域的第一象白蚁（<i>Nasutitermes princeps</i>）等近缘种不同，未见由若虫发育的成虫型补充生殖蚁，似乎只靠独立建群的有翅繁殖蚁占据大而有限、彼此远离的死树或受损树干，其品级发育途径被认为适应于把资源最大限度投入扩散性有翅蚁的生产。",
+     "text_en": "The same study notes that in colonies with functional ergatoids some nymphs gave rise to worker-like individuals; unlike the sympatric <i>Nasutitermes princeps</i> and related species, in which imaginal replacement reproductives are readily produced, <i>Nasutitermes novarumhebridarum</i> appears to rely exclusively on independent alate founders that colonise large but finite and widely spaced resources such as dead or damaged tree trunks, its caste pathway being interpreted as channelling a maximum of resources into the production of dispersing alates.",
+     "text_es": "El mismo estudio señala que en colonias con ergatoides funcionales algunas ninfas dieron lugar a individuos semejantes a obreras; a diferencia de la especie simpátrica <i>Nasutitermes princeps</i> y otras afines, en las que se producen fácilmente reproductores imaginales de reemplazo, <i>Nasutitermes novarumhebridarum</i> parece depender exclusivamente de fundadores alados independientes que colonizan recursos grandes pero finitos y muy espaciados, como troncos muertos o dañados, y su vía de desarrollo de castas se interpreta como una canalización del máximo de recursos hacia la producción de alados dispersantes."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0201",
+   "citation": "Roisin, Y. & Pasteels, J. M. (1987). Caste developmental potentialities in the termite Nasutitermes novarumhebridarum. Entomologia Experimentalis et Applicata.",
+   "doi": "10.1111/j.1570-7458.1987.tb00556.x"
+  }
+ ]
+}

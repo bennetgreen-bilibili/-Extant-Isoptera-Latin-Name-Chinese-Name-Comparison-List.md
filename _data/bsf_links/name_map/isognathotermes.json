@@ -1,0 +1,222 @@
+{
+ "Isognathotermes acristatus": {
+  "label": "Isognathotermes acristatus Josens & Deligne, 2025",
+  "match": "exact",
+  "notes": "",
+  "otu": 1411966,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1411966/overview",
+  "valid_label": null,
+  "valid_otu": 1411966,
+  "verified": false
+ },
+ "Isognathotermes bulbifrons": {
+  "label": "Isognathotermes bulbifrons (Sjöstedt, 1924)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84999,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84999/overview",
+  "valid_label": null,
+  "valid_otu": 84999,
+  "verified": false
+ },
+ "Isognathotermes congoensis": {
+  "label": "Isognathotermes congoensis (Emerson, 1928)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85002,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85002/overview",
+  "valid_label": null,
+  "valid_otu": 85002,
+  "verified": false
+ },
+ "Isognathotermes finitimus": {
+  "label": "Isognathotermes finitimus (Schmitz, 1916)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85008,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85008/overview",
+  "valid_label": null,
+  "valid_otu": 85008,
+  "verified": false
+ },
+ "Isognathotermes fungifaber": {
+  "label": "Isognathotermes fungifaber (Sjöstedt, 1896)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85010,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85010/overview",
+  "valid_label": null,
+  "valid_otu": 85010,
+  "verified": false
+ },
+ "Isognathotermes magniplanifrons": {
+  "label": "Isognathotermes magniplanifrons Josens & Deligne, 2025",
+  "match": "exact",
+  "notes": "",
+  "otu": 1412315,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1412315/overview",
+  "valid_label": null,
+  "valid_otu": 1412315,
+  "verified": false
+ },
+ "Isognathotermes minitabundus": {
+  "label": "Isognathotermes minitabundus (Sjöstedt, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85020,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85020/overview",
+  "valid_label": null,
+  "valid_otu": 85020,
+  "verified": false
+ },
+ "Isognathotermes modicus": {
+  "label": "Isognathotermes modicus Josens & Deligne, 2025",
+  "match": "exact",
+  "notes": "",
+  "otu": 1412318,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1412318/overview",
+  "valid_label": null,
+  "valid_otu": 1412318,
+  "verified": false
+ },
+ "Isognathotermes phallicaecalis": {
+  "label": "Isognathotermes phallicaecalis Josens & Deligne, 2025",
+  "match": "exact",
+  "notes": "",
+  "otu": 1412320,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1412320/overview",
+  "valid_label": null,
+  "valid_otu": 1412320,
+  "verified": false
+ },
+ "Isognathotermes phalloides": {
+  "label": "Isognathotermes phalloides Josens & Deligne, 2025",
+  "match": "exact",
+  "notes": "",
+  "otu": 1412321,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1412321/overview",
+  "valid_label": null,
+  "valid_otu": 1412321,
+  "verified": false
+ },
+ "Isognathotermes planifrons": {
+  "label": "Isognathotermes planifrons (Sjöstedt, 1924)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85029,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85029/overview",
+  "valid_label": null,
+  "valid_otu": 85029,
+  "verified": false
+ },
+ "Isognathotermes rectimalatus": {
+  "label": "Isognathotermes rectimalatus Josens & Deligne, 2025",
+  "match": "exact",
+  "notes": "",
+  "otu": 1412326,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1412326/overview",
+  "valid_label": null,
+  "valid_otu": 1412326,
+  "verified": false
+ },
+ "Isognathotermes severus": {
+  "label": "Isognathotermes severus (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85038,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85038/overview",
+  "valid_label": null,
+  "valid_otu": 85038,
+  "verified": false
+ },
+ "Isognathotermes similifinitimus": {
+  "label": "Isognathotermes similifinitimus Josens & Deligne, 2025",
+  "match": "exact",
+  "notes": "",
+  "otu": 1412331,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1412331/overview",
+  "valid_label": null,
+  "valid_otu": 1412331,
+  "verified": false
+ },
+ "Isognathotermes ugandensis": {
+  "label": "Isognathotermes ugandensis (Fuller, 1923)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85050,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85050/overview",
+  "valid_label": null,
+  "valid_otu": 85050,
+  "verified": false
+ },
+ "Isognathotermes ugandensis burundii": {
+  "label": "Isognathotermes ugandensis burundii Josens & Deligne, 2025",
+  "match": "exact",
+  "notes": "",
+  "otu": 1412333,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1412333/overview",
+  "valid_label": null,
+  "valid_otu": 1412333,
+  "verified": false
+ },
+ "Isognathotermes ugandensis kenyae": {
+  "label": "Isognathotermes ugandensis kenyae Josens & Deligne, 2025",
+  "match": "exact",
+  "notes": "",
+  "otu": 1412335,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1412335/overview",
+  "valid_label": null,
+  "valid_otu": 1412335,
+  "verified": false
+ },
+ "Isognathotermes ugandensis malawii": {
+  "label": "Isognathotermes ugandensis malawii Josens & Deligne, 2025",
+  "match": "exact",
+  "notes": "",
+  "otu": 1412336,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1412336/overview",
+  "valid_label": null,
+  "valid_otu": 1412336,
+  "verified": false
+ },
+ "Isognathotermes ugandensis ugandensis": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 85050 Isognathotermes ugandensis (Fuller, 1923)；OTU 1412335 Isognathotermes ugandensis kenyae Josens & Deligne, 2025；OTU 1412336 Isognathotermes ugandensis malawii Josens & Deligne, 2025；OTU 1412333 Isognathotermes ugandensis burundii Josens & Deligne, 2025",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Isognathotermes zenkeri": {
+  "label": "Isognathotermes zenkeri (Desneux, 1904)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85055,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85055/overview",
+  "valid_label": null,
+  "valid_otu": 85055,
+  "verified": false
+ }
+}

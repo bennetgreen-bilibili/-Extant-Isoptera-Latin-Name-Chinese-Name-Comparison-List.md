@@ -1,0 +1,53 @@
+{
+ "book_n": "328",
+ "book_name": "云南亮白蚁 Euhamitermes yunnanensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.80",
+     "value": "1.68"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.15",
+     "value": "1.10"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.22",
+     "value": "1.15"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.46",
+     "value": "0.48"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.41",
+     "value": "0.41"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.76",
+     "value": "0.74"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.10",
+     "value": "1.07"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 1551,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "latin": "Sabahitermes",
+ "zh": "沙巴白蚁属",
+ "fetched_at": "2026-10-30T16:54:36Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W4412778561",
+   "openalex_url": "https://openalex.org/W4412778561",
+   "doi": "10.61507/smj22-2004-it3r-04",
+   "doi_url": "https://doi.org/10.61507/smj22-2004-it3r-04",
+   "title": "The Termites of Sundaland: A Taxonomic Review",
+   "year": 2004,
+   "date": "2004-12-01",
+   "authors": [
+    "F. J. Gathorne-Hardy"
+   ],
+   "venue": "The Sarawak Museum Journal",
+   "type": "article",
+   "language": "en",
+   "cited_by": 6,
+   "oa_url": "https://museum.sarawak.gov.my/web/attachment/show/?docid=Zkh5VVVYTkpPUjRkSjE3S3F1Y09odz09OjqF-DMghmmaz0gsnAW6j_Ye",
+   "volume": "LX",
+   "issue": "81",
+   "pages": "89-133",
+   "abstract": "This paper describes Leucopitermes thoi sp. nov. (found in Sumatra, Borneo and Peninsular Malaysia). It also synonomises 21 species and three genera. Schedorhiotermes sarawakensis becomes the junior synonym of S. malaccensis, S. javanicus and tarakanensis are junior synonyms of S. medioobscurus. Termitogeton minor is a junior synonym of T. planus. Prorhinotermes japonicus, krakataui, tibiaoensis, gracilis, tibiaoensiformis, ravani and panaitanensis all become junior synonyms of P. flavus. Odontotermes sundaicus becomes a junior synonym of O. billitoni, and O. mathuri the junior synonym of O. minutus. Termes boneensis and kalumpangensis are both junior synonyms of T. comis, and Pericaritermes papaspeciosus is the junior synonym of P. speciosus. The genus Coxocapritermes becomes the junior synonym of Pseudocapritermes, Malaysiocapritermes the junior synonym of Procapritermes and Snootitermies the junior synonym of Sabahitermes. Malaysiotermes sabahensis, malayanus, lowi and orientalis are all junior synonyms of M. spincephalus and subulioiditermes major is a junior synonym of S. subulioides. This paper also providesa key to the species of the soil-feeding Nasutitermitinae of Sundaland,as well as a checklist of all species found in the region.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1260,
+   "abstract_truncated": false
+  }
+ ]
+}

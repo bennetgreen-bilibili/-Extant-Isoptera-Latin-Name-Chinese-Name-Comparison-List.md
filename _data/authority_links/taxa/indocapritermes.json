@@ -1,0 +1,24 @@
+{
+ "Indocapritermes aruni": {
+  "gbif": {
+   "key": 9776147,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Indocapritermes aruni Chhotani, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "3PN2G",
+   "status": "accepted",
+   "label": "Indocapritermes aruni Chhotani, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225328",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

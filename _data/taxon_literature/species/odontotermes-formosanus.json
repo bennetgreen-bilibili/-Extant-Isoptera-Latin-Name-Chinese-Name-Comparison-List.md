@@ -1,0 +1,78 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "台湾巢内的炭角菌多样性",
+   "paragraphs": [
+    {
+     "text": "据摘要，Ju 与 Hsieh（2007）在台湾黑翅土白蚁（Odontotermes formosanus）巢中采集到 9 种炭角菌属（Xylaria）真菌，其中 6 种为新种、3 种为已知种；黑翅土白蚁是台湾已知唯一的大白蚁亚科（Macrotermitinae）种类，作者还给出 25 种生于白蚁巢或地面的炭角菌属（Xylaria）真菌分种检索表。",
+     "src": [
+      "S0166"
+     ],
+     "text_en": "According to the abstract, Ju and Hsieh (2007) collected 9 Xylaria species from nests of Odontotermes formosanus in Taiwan, of which 6 were new species and 3 were known species; Odontotermes formosanus is the only member of the Macrotermitinae known from Taiwan, and the authors also provided a key to 25 Xylaria species growing on termite nests or on the ground.",
+     "text_es": "Según el resumen, Ju y Hsieh (2007) recolectaron nueve especies de Xylaria en nidos de Odontotermes formosanus en Taiwán, seis de ellas nuevas y tres ya conocidas; Odontotermes formosanus es la única especie de Macrotermitinae conocida en Taiwán, y los autores ofrecen además una clave dicotómica para las 25 especies de Xylaria que crecen en nidos de termitas o en el suelo."
+    }
+   ],
+   "heading_en": "Xylaria diversity in nests in Taiwan",
+   "heading_es": "Diversidad de Xylaria en nidos de Taiwán"
+  },
+  {
+   "heading": "品级比例、分飞、巢温与基名",
+   "heading_en": "Caste ratios, swarming, nest temperature and the basionym",
+   "heading_es": "Proporción de castas, enjambrazón, temperatura del nido y basónimo",
+   "paragraphs": [
+    {
+     "src": [
+      "S0003"
+     ],
+     "text": "根据蔡邦华等（1964）研究，在湖北荆州解剖的黑翅土白蚁（<i>Odontotermes formosanus</i>）巢群中，大巢群 432 822 头个体里兵蚁占 18.0%，中巢群 131 162 头中占 0.3%，小巢群 699 头中占 0.8%；陈馎尧（1981）在安徽的调查记录工蚁占 87.27%–94.44%、兵蚁占 5.56%–12.73%。",
+     "text_en": "According to Cai et al. (1964), among colonies of <i>Odontotermes formosanus</i> dissected in Jingzhou, Hubei, soldiers made up 18.0% of 432 822 individuals in large colonies, 0.3% of 131 162 in medium colonies and 0.8% of 699 in small colonies; Chen (1981) recorded 87.27%–94.44% workers and 5.56%–12.73% soldiers in Anhui.",
+     "text_es": "Según Cai et al. (1964), en las colonias de <i>Odontotermes formosanus</i> diseccionadas en Jingzhou, Hubei, los soldados constituían el 18,0% de 432 822 individuos en colonias grandes, el 0,3% de 131 162 en medianas y el 0,8% de 699 en pequeñas; Chen (1981) registró 87,27%–94,44% de obreras y 5,56%–12,73% de soldados en Anhui."
+    },
+    {
+     "src": [
+      "S0003"
+     ],
+     "text": "据《中国动物志·昆虫纲·第十七卷·等翅目》记载，一个成熟的黑翅土白蚁（<i>Odontotermes formosanus</i>）群体一年可产生 2 000–9 000 头有翅成虫；其分飞发生在气温达 20 ℃、相对湿度 80% 以上、气压 746–753 mmHg 的落雨傍晚，广东多在 4–6 月、湖北多在 4 月中旬至 5 月中旬。",
+     "text_en": "A mature colony of <i>Odontotermes formosanus</i> produces 2 000–9 000 alates a year; swarming takes place on rainy evenings when temperature reaches 20 °C, relative humidity exceeds 80% and pressure is 746–753 mmHg, mostly in April–June in Guangdong and from mid-April to mid-May in Hubei.",
+     "text_es": "Una colonia madura de <i>Odontotermes formosanus</i> produce 2 000–9 000 aladas al año; la enjambrazón ocurre en tardes lluviosas con temperatura de 20 °C, humedad relativa superior al 80% y presión de 746–753 mmHg, sobre todo entre abril y junio en Guangdong y de mediados de abril a mediados de mayo en Hubei."
+    },
+    {
+     "src": [
+      "S0001"
+     ],
+     "text": "据《白蚁学》（程冬保、杨兆芬，2014）记载，黑翅土白蚁（<i>Odontotermes formosanus</i>）主巢通常维持 24–26 ℃，冬季周围土温降至 9–16 ℃时巢温不低于 20 ℃，夏季土温超过 40 ℃时巢温一般不超过 28 ℃，主巢位于地表下 1–2 m。",
+     "text_en": "According to Cheng and Yang (2014), the main nest of <i>Odontotermes formosanus</i> is usually kept at 24–26 °C; when surrounding soil falls to 9–16 °C in winter the nest stays above 20 °C, and when soil exceeds 40 °C in summer the nest generally stays below 28 °C, the main nest lying 1–2 m below the surface.",
+     "text_es": "Según Cheng y Yang (2014), el nido principal de <i>Odontotermes formosanus</i> se mantiene por lo general a 24–26 °C; cuando el suelo circundante baja a 9–16 °C en invierno el nido no baja de 20 °C, y cuando el suelo supera los 40 °C en verano el nido no suele pasar de 28 °C, situándose el nido principal a 1–2 m de profundidad."
+    },
+    {
+     "src": [
+      "S0004"
+     ],
+     "text": "《白蚁论》记录黑翅土白蚁（<i>Odontotermes formosanus</i>）的基名为白蚁属（<i>Termes</i>）的旧组合 <i>Termes formosana</i> Shiraki, 1909，合模标本为有翅成虫、存放地不明，模式产地为台湾。",
+     "text_en": "The Treatise records the basionym of <i>Odontotermes formosanus</i> as the old combination <i>Termes formosana</i> Shiraki, 1909, based on syntype alates of unknown whereabouts from Taiwan.",
+     "text_es": "El Treatise registra el basónimo de <i>Odontotermes formosanus</i> como la combinación antigua <i>Termes formosana</i> Shiraki, 1909, basada en sintipos alados de paradero desconocido procedentes de Taiwán."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0166",
+   "citation": "Ju, Y.-M.; Hsieh, H.-M. 2007. Xylaria species associated with nests of Odontotermes formosanus in Taiwan. Mycologia 99(6).",
+   "doi": "10.3852/mycologia.99.6.936"
+  },
+  {
+   "id": "S0001",
+   "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+  },
+  {
+   "id": "S0003",
+   "citation": "黄复生, 朱世模, 平正明, 何秀松, 李桂祥, 高道蓉. 中国动物志·昆虫纲·第十七卷·等翅目. 北京: 科学出版社."
+  },
+  {
+   "id": "S0004",
+   "citation": "Krishna K. et al. Treatise on the Isoptera of the world. Bulletin of the American Museum of Natural History 377, 2013."
+  }
+ ]
+}

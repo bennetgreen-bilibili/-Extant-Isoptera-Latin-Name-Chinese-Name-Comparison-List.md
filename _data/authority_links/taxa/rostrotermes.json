@@ -1,0 +1,24 @@
+{
+ "Rostrotermes cornutus": {
+  "gbif": {
+   "key": 9767406,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rostrotermes cornutus Grassé, 1943",
+   "accepted": null
+  },
+  "col": {
+   "id": "4TFRW",
+   "status": "accepted",
+   "label": "Rostrotermes cornutus Grassé, 1943",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084329",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

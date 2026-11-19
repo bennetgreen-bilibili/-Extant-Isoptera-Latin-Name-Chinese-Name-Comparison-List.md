@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "无性蚁后更替与巢群结构",
+   "heading_en": "Asexual queen succession and colony structure",
+   "heading_es": "Sucesión asexual de reinas y estructura de la colonia",
+   "paragraphs": [
+    {
+     "text": "根据 Hellemans 等（2019）在法属圭亚那 Petit Saut 地区的研究，骗子棕榈白蚁（Palmitermes impostor）普遍存在无性蚁后更替（asexual queen succession）：在采到生殖蚁的 19 个巢中，13 个（68%）由原始生殖蚁为首，6 个（32%）的原始蚁后已被 1–129 头若虫型新成蚁后取代且不再有原始蚁后，其中 3 个巢同时有原始雄蚁；对 11 个巢的微卫星分型显示，24 头新成蚁后中的 8 头与 65 头雌性候选者中的 57 头（合计 73%）为孤雌生殖产物，9 个位点全部纯合，符合配子复制型自动孤雌生殖，其余新成蚁后为有性来源，与原始雄蚁交配形成扩展家庭。",
+     "text_en": "According to the study by Hellemans et al. (2019) in the Petit Saut area of French Guiana, <i>Palmitermes impostor</i> commonly practices asexual queen succession: of 19 nests in which reproductives were collected, 13 (68%) were headed by primary reproductives and in 6 (32%) the primary queen had been replaced by 1–129 neotenic queens with no primary queen remaining, three of these nests also containing a primary king; microsatellite typing of 11 nests showed that 8 of 24 neotenic queens and 57 of 65 female aspirants (73% combined) were of parthenogenetic origin, homozygous at all nine loci, consistent with automixis by gamete duplication, while the remaining neotenic queens were sexual and paired with the primary king to form an extended family.",
+     "text_es": "Según el estudio de Hellemans et al. (2019) en la zona de Petit Saut, Guayana Francesa, <i>Palmitermes impostor</i> practica habitualmente la sucesión asexual de reinas: de 19 nidos en los que se recolectaron reproductores, 13 (68%) estaban encabezados por reproductores primarios y en 6 (32%) la reina primaria había sido sustituida por 1–129 reinas neoténicas sin que quedara reina primaria, y en tres de estos nidos también había un rey primario; el tipado con microsatélites de 11 nidos mostró que 8 de 24 reinas neoténicas y 57 de 65 aspirantes femeninas (73% en conjunto) eran de origen partenogenético, homocigotas en los nueve loci, lo que concuerda con automixis por duplicación de gametos, mientras que las demás reinas neoténicas eran de origen sexual y se apareaban con el rey primario formando una familia extensa.",
+     "src": [
+      "S0191"
+     ]
+    },
+    {
+     "text": "该种在 2010–2018 年间共采 32 巢；巢为新筑的地下土巢，土质致密坚硬，偶有少量地上部分，常附着于大树根或倒木；具翅芽的雌性候选者消化道充满土壤、翅芽半透明，可参与巢内劳动；此前该种长期被误定为白蚁属（Termes）种类，已知分布仅限法属圭亚那的 3 个地点。",
+     "text_en": "Thirty-two nests were collected between 2010 and 2018; the nest is a newly built underground earthen structure of compact, hard soil with occasional small above-ground parts, often attached to large roots or fallen logs; winged female aspirants have a soil-filled gut and translucent wing buds and can take part in nest work; the species had long been misidentified as a <i>Termes</i> species and is known from only three localities in French Guiana.",
+     "text_es": "Se recolectaron 32 nidos entre 2010 y 2018; el nido es una estructura subterránea de tierra recién construida, de suelo compacto y duro, con partes aéreas pequeñas y ocasionales, a menudo adherida a raíces grandes o troncos caídos; las aspirantes femeninas con esbozos alares tienen el intestino lleno de suelo y los esbozos alares translúcidos, y pueden participar en las tareas del nido; la especie había sido identificada erróneamente como una especie de <i>Termes</i> durante mucho tiempo y solo se conoce de tres localidades de la Guayana Francesa.",
+     "src": [
+      "S0191"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0191",
+   "citation": "Hellemans, S.; Dolejšová, K.; Křivánek, J.; Fournier, D.; Hanus, R.; Roisin, Y. 2019. Widespread occurrence of asexual reproduction in higher termites of the Termes group (Termitidae: Termitinae). BMC Evolutionary Biology 19.",
+   "doi": "10.1186/s12862-019-1459-3"
+  }
+ ]
+}

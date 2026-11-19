@@ -1,0 +1,35 @@
+{
+ "latin": "Angularitermes",
+ "zh": "棱角白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Angularitermes Emerson, 1925: 419 [first introduced as a subgenus of Nasutitermes Dudley, 1890].",
+ "type_species": "Nasutitermes (Angularitermes) nasutissimus Emerson, 1925 by monotypy.",
+ "references": [
+  {
+   "ref": "Araujo, 1970b: 42",
+   "note": "Angularitermes; characters; comparisons."
+  },
+  {
+   "ref": "Morimoto, 1975b: 20",
+   "note": "Angularitermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 233–235",
+   "note": "Angularitermes; synonymy; characters; comparisons."
+  },
+  {
+   "ref": "Mill, 1983a: 182, 188",
+   "note": "Angularitermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Fontes, 1987b: 503–531",
+   "note": "Angularitermes; worker mandibles described and figured."
+  },
+  {
+   "ref": "Constantino, 2002a: 10",
+   "note": "Angularitermes; key. Tintermes Araujo, 1970b: 41–42. Type species: Tintermes orestes Araujo, 1970 by original designation."
+  }
+ ],
+ "nrefs": 21
+}

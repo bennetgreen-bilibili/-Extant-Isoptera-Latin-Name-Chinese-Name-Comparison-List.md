@@ -1,0 +1,13 @@
+{
+ "Syncapritermes greeni": {
+  "label": "Syncapritermes greeni (John, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85829,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85829/overview",
+  "valid_label": null,
+  "valid_otu": 85829,
+  "verified": false
+ }
+}

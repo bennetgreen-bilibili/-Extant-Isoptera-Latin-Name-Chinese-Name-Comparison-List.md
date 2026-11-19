@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from the species-level description in Chhotani (1997), originally in English; the alate, soldier and worker are all described, the alate description and measurements being taken from Akhtar (1977); the synonymy list, literature citations, figure numbers and distribution records are not translated; the number of antennal segments in the alate is incomplete in the source.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head capsule yellowish brown to dark brown; antennae yellowish brown with paler bases; mandibles reddish brown with paler bases; body yellowish white. Head capsule broadly oval, slightly longer than wide (head length to mandible bases 1.0–1.2, maximum width 0.95–1.08 mm, width/length index 0.87–0.98); anterior part distinctly narrowed (width at mandible bases 0.58–0.70 mm, width at mandible bases/maximum width index 0.58–0.64). Antennae 15–16-segmented, usually segment 3 shortest, sometimes segment 4 shortest. Labrum ligulate, broadly rounded apically (length 0.25–0.28, width 0.23–0.28 mm). Mandibles short and robust, strongly incurved apically; slightly more than half the head length (length 0.55–0.68 mm, mandible length/head length index 0.54–0.63). Left mandible with a prominent tooth slightly before the apical third (tooth distance 0.15–0.20 mm, tooth distance/mandible length index 0.26–0.33); right mandible with a small tooth slightly below the apical third. Postmentum slightly longer than wide, sides strongly convex (length 0.45–0.65, width 0.38–0.50 mm, width/length index 0.84–0.96). Pronotum saddle-shaped (length 0.45–0.55, width 0.70–0.90 mm), anterior margin weakly concave, posterior margin weakly to distinctly incised; mesonotum slightly narrower than the pronotum with a weakly incurved posterior margin; metanotum almost as wide as or slightly wider than the pronotum with a nearly straight posterior margin."
+  },
+  {
+   "label": "Worker",
+   "text": "Workers monomorphic. Head capsule pale yellowish brown to brown; antennae brown with paler bases; body yellowish white. Cephalic and body pilosity moderate. Body length 2.5–4.25 mm. Head capsule subquadrate (head length to mandible bases 0.98–1.40, maximum width 1.08–1.50 mm). Antennae 16–18-segmented, mostly 17-segmented. Postclypeus inflated, less than half as long as wide. Pronotum saddle-shaped, anterior margin incised medially, posterior margin weakly incurved (length 0.33–0.53, width 0.53–0.80 mm)."
+  },
+  {
+   "label": "Alate",
+   "text": "Head capsule dark reddish brown, brownish above the ocelli; antennae dark brown with yellowish brown bases; postclypeus and labrum brown; pronotum reddish brown with a pale (yellowish brown) T-shaped mark in the middle and ocellus-like shoulder spots; abdominal tergites darker than the pronotum, brown with a reddish tinge; sternites yellowish brown; legs pale brown. Cephalic and pronotal pilosity relatively dense, abdominal pilosity dense. Head capsule subcircular (length to the apex of the labrum 2.73–2.93, length to mandible bases 1.77–1.92, maximum width including compound eyes 2.31–2.57 mm). Fontanelle small and circular. Compound eyes large, elongate oval (maximum diameter 0.70–0.80, minimum diameter 0.61–0.70 mm). Ocelli broadly oval (long diameter 0.38, short diameter 0.25–0.26 mm), separated from the compound eyes by one third of the short diameter. Antennae incomplete; segment 2 twice as long as segment 3, segments 3 and 4 subequal. Postclypeus inflated and setose, about half as long as wide (length 0.45–0.49, width 0.93–0.96 mm). Pronotum narrower than the head, trapezoidal (length 1.12–1.22, width 2.25–2.31 mm), anterior and posterior margins weakly concave."
+  },
+  {
+   "label": "Other",
+   "text": "The species was originally described as a subspecies of O. bellahunisensis (1961) and raised to species rank in 1975. O. lokanandi, described by Chatterjee and Thakur (1967), was treated by Chhotani (1977) as a synonym of the species; Thakur (1981) did not recognize the species and placed it in O. bellahunisensis."
+  }
+ ]
+}

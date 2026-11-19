@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "品级分化途径",
+   "heading_en": "Caste differentiation pathways",
+   "heading_es": "Vías de diferenciación de castas",
+   "paragraphs": [
+    {
+     "text": "根据 Haifig 与 Costa-Leonardo（2016）研究，白蚁胚胎后发育分为两条途径：有翅（成虫）品级线包括有翅成虫及其前的若虫阶段，无翅品级线包括工蚁、兵蚁与其前体；对真弓颚西尔韦斯特里白蚁（<i>Silvestritermes euamignathus</i>）的品级分化分析显示，无翅品级线由雌、雄工蚁组成且无性二型，兵蚁全为雌性；有翅品级线经历 5 个若虫龄期，可发育为若虫型副王副后或有翅成虫；该种品级格局与同属另一近缘种相似，提示二者有共同的演化历史。（据摘要）",
+     "src": [
+      "S0338"
+     ],
+     "text_en": "In the study by Haifig and Costa-Leonardo (2016), post-embryonic development in termites is bifurcated: the nymphal-imaginal line comprises the alate reproductives and their preceding nymphal instars, while the apterous line comprises workers, soldiers and their precursors; analysis of caste differentiation in <i>Silvestritermes euamignathus</i> showed that the apterous line consists of male and female workers without sexual dimorphism and that soldiers are exclusively female, while the imaginal line passes through five nymphal instars that may develop into nymphoid neotenics or alates; the caste pattern resembles that of another closely related species of the genus, suggesting a shared evolutionary history. (According to the abstract.)",
+     "text_es": "En el estudio de Haifig y Costa-Leonardo (2016), el desarrollo postembrionario de las termitas es bifurcado: la línea ninfal-imaginal comprende los reproductores alados y sus estadios ninfales previos, mientras que la línea áptera comprende obreros, soldados y sus precursores; el análisis de la diferenciación de castas en <i>Silvestritermes euamignathus</i> mostró que la línea áptera está formada por obreros machos y hembras sin dimorfismo sexual y que los soldados son exclusivamente hembras, mientras que la línea imaginal pasa por cinco estadios ninfales que pueden dar neoténicos ninfoides o alados; el patrón de castas se asemeja al de otra especie cercana del género, lo que sugiere una historia evolutiva compartida. (Según el resumen.)"
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0338",
+   "citation": "Haifig, I.; Costa-Leonardo, A. M. 2016. Caste differentiation pathways in the Neotropical termite Silvestritermes euamignathus (Isoptera: Termitidae). Entomological Science.",
+   "doi": "10.1111/ens.12201"
+  }
+ ]
+}

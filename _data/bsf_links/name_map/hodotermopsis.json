@@ -1,0 +1,13 @@
+{
+ "Hodotermopsis sjostedti": {
+  "label": "Hodotermopsis sjostedti Holmgren, 1911",
+  "match": "exact",
+  "notes": "",
+  "otu": 82496,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82496/overview",
+  "valid_label": null,
+  "valid_otu": 82496,
+  "verified": false
+ }
+}

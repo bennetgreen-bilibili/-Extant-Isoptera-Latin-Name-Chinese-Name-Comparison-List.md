@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "属的客居习性",
+   "heading_en": "Inquiline habits of the genus",
+   "heading_es": "Hábitos inquilinos del género",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn（2014）研究，客白蚁属（<i>Inquilinitermes</i>）的已知种多为缩白蚁属（<i>Constrictotermes</i>）巢内的客居者；新描述的约翰查普曼客白蚁（<i>Inquilinitermes johnchapmani</i>）是该属第 4 个种，也是该属体型最小的种，与同属其他种不同，它并不在缩白蚁属（<i>Constrictotermes</i>）巢内客居。（据摘要）",
+     "src": [
+      "S0351"
+     ],
+     "text_en": "In the study by Scheffrahn (2014), the known species of <i>Inquilinitermes</i> are mostly inquilines in nests of <i>Constrictotermes</i>; the newly described <i>Inquilinitermes johnchapmani</i> is the fourth and smallest species of the genus and, unlike its congeners, is not an inquiline in nests of <i>Constrictotermes</i>. (According to the abstract.)",
+     "text_es": "En el estudio de Scheffrahn (2014), las especies conocidas de <i>Inquilinitermes</i> son en su mayoría inquilinas en nidos de <i>Constrictotermes</i>; la recién descrita <i>Inquilinitermes johnchapmani</i> es la cuarta y menor especie del género y, a diferencia de sus congéneres, no es inquilina en nidos de <i>Constrictotermes</i>. (Según el resumen.)"
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0351",
+   "citation": "Scheffrahn, R. H. 2014. Inquilinitermes johnchapmani, a New Termite (Isoptera: Termitidae: Termitinae) from the Llanos of North Central Bolivia. Sociobiology 61(1): 95-99.",
+   "doi": "10.13102/sociobiology.v61i1.95-99"
+  }
+ ]
+}

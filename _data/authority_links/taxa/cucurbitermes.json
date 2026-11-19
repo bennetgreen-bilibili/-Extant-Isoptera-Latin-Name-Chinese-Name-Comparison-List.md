@@ -1,0 +1,68 @@
+{
+ "Cucurbitermes parviceps": {
+  "gbif": {
+   "key": 9780192,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cucurbitermes parviceps Xu & Dong, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "6BP3Y",
+   "status": "accepted",
+   "label": "Cucurbitermes parviceps Xu & Dong, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237650",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cucurbitermes sinensis": {
+  "gbif": {
+   "key": 9723071,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cucurbitermes sinensis Li & Ping, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "6BP3Z",
+   "status": "accepted",
+   "label": "Cucurbitermes sinensis Li & Ping, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237651",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cucurbitermes yingdeensis": {
+  "gbif": {
+   "key": 9697292,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cucurbitermes yingdeensis Li & Ping, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "6BP3P",
+   "status": "accepted",
+   "label": "Cucurbitermes yingdeensis Li & Ping, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237652",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

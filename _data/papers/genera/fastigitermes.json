@@ -1,0 +1,92 @@
+{
+ "latin": "Fastigitermes",
+ "zh": "峰白蚁属",
+ "fetched_at": "2026-10-30T16:53:38Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W1970292949",
+   "openalex_url": "https://openalex.org/W1970292949",
+   "doi": "10.11646/zootaxa.3946.4.9",
+   "doi_url": "https://doi.org/10.11646/zootaxa.3946.4.9",
+   "title": "Redescription and reclassification of the African termite, Forficulitermes planifrons (Isoptera, Termitidae, Termitinae)",
+   "year": 2015,
+   "date": "2015-04-13",
+   "authors": [
+    "Rudolf H. Scheffrahn",
+    "Jan Křeček"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 3,
+   "oa_url": "",
+   "volume": "3946",
+   "issue": "4",
+   "pages": "591-4",
+   "abstract": "Forficulitermes planifrons is a monotypic genus and species described by Emerson (1960) from three soldiers and a single worker. All known occurrences of Forficulitermes (Emerson 1960, Wango & Josens 2011, this study) originate from equatorial middle Africa. Emerson (1960) compared soldiers of Forficulitermes with Basidentitermes, Proboscitermes, Orthotermes, Profastigitermes, and Fastigitermes, (the latter all in the Cubitermitinae) with respect to the general shape of the labrum, but found no similarities among these genera with respect to either the former's mandibles or the undulating profile surrounding its fontanelle. The only worker morphology noted for F. planifrons by Emerson (1960) was a pair of worn mandibles. Based largely on the enteric valve armature, we herein redescribe F. planifrons and assign this genus to the subfamily Termitinae.",
+   "abstract_source": "openalex",
+   "abstract_chars": 861,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W4312468331",
+   "openalex_url": "https://openalex.org/W4312468331",
+   "doi": "10.25518/2030-6318.4748",
+   "doi_url": "https://doi.org/10.25518/2030-6318.4748",
+   "title": "Structure des assemblages de termites (Insecta : Blattodea) le long d’un gradient d’âge d’anacardiers (Anacardium occidentale L.) dans la région de Ferké (Côte d’Ivoire)",
+   "year": 2020,
+   "date": "2020-01-01",
+   "authors": [
+    "Crolaud Sylvain TRA Bi",
+    "N’Guessan Lucie YEBOUE",
+    "Agbohoun Didier Serge Kpassou",
+    "Souleymane Konaté",
+    "Philippe Kouassi-Kouassi",
+    "Soro Senan",
+    "Yao Tano"
+   ],
+   "venue": "Entomologie faunistique - Faunistic Entomology",
+   "type": "article",
+   "language": "fr",
+   "cited_by": 1,
+   "oa_url": "https://popups.uliege.be/2030-6318/index.php?id=4748&file=1",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "Une étude a été effectuée sur la diversité des termites dans trois parcelles d’anacardes dans la région de Ferké. L’objectif principal de cette étude était de rechercher l’effet de la mise en culture des terres sur la composition de la faune termitique dans ces plantations en fonction d’un gradient d’âge. Ainsi, les parcelles d’anacardes de 3 ans, de 14 ans et de plus de 20 ans ont été choisies. Des transects de 100 m de long et 2 m de large subdivisés en 20 sections consécutives de 5 m x 2 m ont été utilisés pour la collecte des termites. Les résultats obtenus ont permis de répertorier treize espèces de termites qui se répartissent en 2 familles et 5 sous-familles. Les espèces se présentent comme suit: Odontotermes sp., Macrotermes bellicosus, Ancistrotermes guineensis, Ancistrotermes crucifer, Pseudacanthotermes militaris, Trinervitermes geminatus, Trinervitermes togoensis, Trinervitermes oeconomus, Fulleritermes tenebricus, Amitermes evuncifer, Fastigitermes sp., Cubitermes sp. et Coptotermes sp. dont trois espèces sont communes aux trois milieux (F. tenebricus, A. crucifer et A. guineensis). L’indice de Shannon (H’) est relativement élevé dans la parcelle de 14 ans (H’= 1,80). Les parcelles de plus de 20 ans et de 3 ans enregistrent les plus faibles valeurs avec respectivement, H’= 1,65 et H’= 1,58. Au total, quatre groupes trophiques ont été recensés. On note les champignonnistes, les xylophages, les fourrageurs et enfin les humivores. Les champignonnistes sont très abondants dans les parcelles jeunes (3,5 ind/m2), par contre dans les anacardiers âgés, les humivores dominent le peuplement (0,5 ind/m2 à 9 ind/m2).",
+   "abstract_source": "openalex",
+   "abstract_chars": 1645,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W3037451734",
+   "openalex_url": "https://openalex.org/W3037451734",
+   "doi": "",
+   "doi_url": "",
+   "title": "Structure des assemblages de termites (Insecta : Blattodea) le long d’un gradient d’âge d’anacardiers (Anacardium occidentale L.) dans la région de Ferké (Côte d’Ivoire) Diversité des termites des anacardiers de la région de Ferké (Côte d’Ivoire)",
+   "year": 2020,
+   "date": "2020-06-29",
+   "authors": [
+    "Crolaud Sylvain TRA Bi",
+    "N’Guessan Lucie YEBOUE",
+    "Agbohoun Didier Serge Kpassou",
+    "Souleymane Konaté",
+    "Philippe Kouassi-Kouassi",
+    "Soro Senan",
+    "Yao Tano"
+   ],
+   "venue": "Entomologie faunistique - Faunistic Entomology",
+   "type": "article",
+   "language": "fr",
+   "cited_by": 0,
+   "oa_url": "https://popups.uliege.be/2030-6318/index.php?id=4748",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "Une etude a ete effectuee sur la diversite des termites dans trois parcelles d’anacardes dans la region de Ferke. L’objectif principal de cette etude etait de rechercher l’effet de la mise en culture des terres sur la composition de la faune termitique dans ces plantations en fonction d’un gradient d’âge. Ainsi, les parcelles d’anacardes de 3 ans, de 14 ans et de plus de 20 ans ont ete choisies. Des transects de 100 m de long et 2 m de large subdivises en 20 sections consecutives de 5 m x 2 m ont ete utilises pour la collecte des termites. Les resultats obtenus ont permis de repertorier treize especes de termites qui se repartissent en 2 familles et 5 sous-familles. Les especes se presentent comme suit: Odontotermes sp., Macrotermes bellicosus, Ancistrotermes guineensis, Ancistrotermes crucifer, Pseudacanthotermes militaris, Trinervitermes geminatus, Trinervitermes togoensis, Trinervitermes oeconomus, Fulleritermes tenebricus, Amitermes evuncifer, Fastigitermes sp., Cubitermes sp. et Coptotermes sp. dont trois especes sont communes aux trois milieux (F. tenebricus, A. crucifer et A. guineensis). L’indice de Shannon (H’) est relativement eleve dans la parcelle de 14 ans (H’= 1,80). Les parcelles de plus de 20 ans et de 3 ans enregistrent les plus faibles valeurs avec respectivement, H’= 1,65 et H’= 1,58. Au total, quatre groupes trophiques ont ete recenses. On note les champignonnistes, les xylophages, les fourrageurs et enfin les humivores. Les champignonnistes sont tres abondants dans les parcelles jeunes (3,5 ind/m2), par contre dans les anacardiers âges, les humivores dominent le peuplement (0,5 ind/m2 a 9 ind/m2).",
+   "abstract_source": "openalex",
+   "abstract_chars": 1645,
+   "abstract_truncated": false
+  }
+ ]
+}

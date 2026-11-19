@@ -1,0 +1,33 @@
+{
+ "latin": "Sandsitermes",
+ "zh": "桑兹白蚁属",
+ "fetched_at": "2026-10-30T16:54:36Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2572152214",
+   "openalex_url": "https://openalex.org/W2572152214",
+   "doi": "10.11646/zootaxa.4221.5.5",
+   "doi_url": "https://doi.org/10.11646/zootaxa.4221.5.5",
+   "title": "Sandsitermes gen. nov., a new nasute termite genus from South America (Isoptera, Termitidae, Nasutitermitinae)",
+   "year": 2017,
+   "date": "2017-01-20",
+   "authors": [
+    "Carolina Cuezzo",
+    "Eliana M. Cancello",
+    "Tiago F. Carrijo"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 4,
+   "oa_url": "http://publication.plazi.org/id/FFCD5C39FFF7FFE1FFA83E50FFA5C222",
+   "volume": "4221",
+   "issue": "5",
+   "pages": "zootaxa.4221.5.5-zootaxa.4221.5.5",
+   "abstract": "We establish herein a new genus of Neotropical termites of the subfamily Nasutitermitinae, Sandsitermes gen. nov.. The new genus accommodates a previously described species, Nasutitermes robustus (Holmgren), and is diagnosed by worker characters, including the mandibles, the gut-coiling configuration in situ, and the pattern of cushions and spines of the enteric valve. We characterized and illustrated the imago for the first time and redescribe the soldier and worker castes of Sandsitermes robustus gen. et comb. nov. from syntypes and other samples from eastern Peru. We support our taxonomic decision, presenting morphological differences between the gut pattern and enteric valve of S. robustus and 13 neotropical Nasutitermes species studied for this report, and discuss possible relationships with other neotropical nasute termites.",
+   "abstract_source": "openalex",
+   "abstract_chars": 842,
+   "abstract_truncated": false
+  }
+ ]
+}

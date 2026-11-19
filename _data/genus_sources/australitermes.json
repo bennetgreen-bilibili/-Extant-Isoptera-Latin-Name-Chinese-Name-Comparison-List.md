@@ -1,0 +1,23 @@
+{
+ "latin": "Australitermes",
+ "zh": "澳大利亚白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Australitermes Emerson, 1960a: 24–25.",
+ "type_species": "Eutermes dilucidus Hill, 1942 by original designation.",
+ "references": [
+  {
+   "ref": "Hill, 1942: 14, 202–205, 377–379",
+   "note": "Eutermes [part]; Mirotermes; as genus and subgenus [part]; key; synonymy; imago, soldier, worker diagnosed."
+  },
+  {
+   "ref": "Morimoto, 1975b: 20, 23",
+   "note": "Australitermes; key."
+  },
+  {
+   "ref": "Miller, 1984b: 120–121",
+   "note": "Australitermes; synonymy; imago, soldier generic characters."
+  }
+ ],
+ "nrefs": 8
+}

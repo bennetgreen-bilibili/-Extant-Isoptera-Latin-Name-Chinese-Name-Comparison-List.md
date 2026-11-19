@@ -1,0 +1,98 @@
+{
+ "book_n": "9",
+ "book_name": "平阳堆砂白蚁 Cryptotermes pingyangensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "平阻堆砂白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_height",
+     "value": "0.88–1.00"
+    },
+    {
+     "key": "eye_short_diameter",
+     "value": "0.09–0.11"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.83–0.95"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "0.68–0.70"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.13–1.20"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 65,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "平阳堆砂白蚊有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length_without_wings",
+     "value": "4.5–5.5"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.00–1.01"
+    },
+    {
+     "key": "head_width",
+     "value": "0.93–1.00"
+    },
+    {
+     "key": "head_height",
+     "value": "0.56–0.63"
+    },
+    {
+     "key": "eye_head_lower_margin",
+     "value": "0.18–0.20"
+    },
+    {
+     "key": "eye_long_diameter",
+     "value": "0.26–0.29"
+    },
+    {
+     "key": "eye_short_diameter",
+     "value": "0.24–0.26"
+    },
+    {
+     "key": "ocellus_long_diameter",
+     "value": "0.05–0.06"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.63–0.69"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "0.56–0.61"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.91–0.96"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "0.84–0.90"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 75,
+   "unit": "mm"
+  }
+ ]
+}

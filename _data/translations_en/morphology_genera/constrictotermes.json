@@ -1,0 +1,17 @@
+{
+ "note": "A subgenus established by Holmgren 1912 under Eutermes and listed as the 14th subgenus in the catalogue, containing cavifrons Holmgren (Suriname), cyphergaster Silvestri and latinotus Holmgren (Ecuador). The 1912 original gives only key entries and the subgeneric catalogue, with no worker characters, so no Worker section is given. The “position in the key” in the Alate section refers to the key branch and is not a complete description.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The soldier head capsule is markedly dumbbell-shaped, constricted behind the antennal fossae, the dorsal cephalic outline in front of the depression being only slightly longer than behind it, the nasus relatively short and conical, antennae 14–15-segmented. This combination suffices to separate it from Coarctotermes (nasus long and thick, conical, antennae 12–13(–14)-segmented, the anterior part of the head much longer than the posterior), Tenuirostritermes (nasus slender, cylindrical, antennae 11–13-segmented) and Grallatotermes (nasus short and very broadly conical, the head not dumbbell-shaped constricted behind the antennae). Alates are distinguished by the broadly oval head, markedly narrowing anteriorly, with a flattened and rounded occiput, together with rather small and strongly protruding compound eyes and a clypeus concolorous with the frons or only slightly paler, from Velocitermes and Tenuirostritermes (head oval, occiput well developed)."
+  },
+  {
+   "label": "Alate",
+   "text": "Head broadly oval, markedly narrowed anteriorly, the occiput flattened and rounded and gently sloping; compound eyes situated on the sides of the head, relatively small and strongly protruding; clypeus shorter than or about equal to half its width, concolorous with the frons or only slightly paler; antennal segments slightly elongate; pronotum relatively large. In the original key, this genus is placed together with Rotunditermes (eyes very large) and Diversitermes (eyes medium-sized) in a branch characterised by “the 1st marginal tooth of the mandible about as long as the 2nd, and the clypeus equal to or slightly shorter than half its width”."
+  },
+  {
+   "label": "Soldier",
+   "text": "Of the Constrictus group, with a single soldier type. Head capsule dumbbell-shaped, constricted behind the antennal fossae; the dorsal cephalic outline in front of the depression only slightly longer than behind it, the depression itself strong and distinct; nasus relatively short, conical; antennae 14–15-segmented."
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "Cylindrotermes parvignathus": [
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/545873417/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/545873417/medium.jpg",
+   "width": 1024,
+   "height": 682,
+   "credit": "(c) Luan Mazzeo, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/302886598"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/545873404/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/545873404/medium.jpg",
+   "width": 1024,
+   "height": 682,
+   "credit": "(c) Luan Mazzeo, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/302886598"
+  },
+  {
+   "source": "commons",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Cylindrotermes_parvignathus_BIOUG16323-F11%2B1421783392.jpg",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/91/Cylindrotermes_parvignathus_BIOUG16323-F11%2B1421783392.jpg",
+   "width": 640,
+   "height": 360,
+   "credit": "CBG Photography Group, Centre for Biodiversity Genomics",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cylindrotermes_parvignathus_BIOUG16323-F11%2B1421783392.jpg"
+  }
+ ]
+}

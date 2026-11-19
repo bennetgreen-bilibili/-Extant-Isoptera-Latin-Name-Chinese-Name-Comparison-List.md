@@ -1,0 +1,48 @@
+{
+ "book_n": "468",
+ "book_name": "近丘额钝颚白蚁 Ahmaditermes perisinuosus",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "近丘额钝颧白蚊有翅成虫量度( mm)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "head_width_with_eyes",
+     "mean": "1.20",
+     "value": "1.17–1.25"
+    },
+    {
+     "key": "eye_long_diameter",
+     "mean": "0.31",
+     "value": "0.30–0.33"
+    },
+    {
+     "key": "eye_short_diameter",
+     "mean": "0.29",
+     "value": "0.29–0.30"
+    },
+    {
+     "key": "ocellus_long_diameter",
+     "mean": "0.13",
+     "value": "0.12–0.13"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.59",
+     "value": "0.57–0.61"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.57",
+     "value": "1.54–1.62"
+    }
+   ],
+   "src_file": "901-989.txt",
+   "src_line": 118,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "Acangaobitermes krishnai": {
+  "gbif": {
+   "key": 8721000,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Acangaobitermes krishnai Da Rocha, Cancello & Cuezzo, 2011",
+   "accepted": null
+  },
+  "col": {
+   "id": "8SV7",
+   "status": "accepted",
+   "label": "Acangaobitermes krishnai Da Rocha, Cancello & Cuezzo, 2011",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q106715899",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

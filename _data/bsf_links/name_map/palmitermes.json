@@ -1,0 +1,13 @@
+{
+ "Palmitermes impostor": {
+  "label": "Palmitermes impostor Hellemans & Roisin, 2017",
+  "match": "exact",
+  "notes": "",
+  "otu": 1067887,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1067887/overview",
+  "valid_label": null,
+  "valid_otu": 1067887,
+  "verified": false
+ }
+}

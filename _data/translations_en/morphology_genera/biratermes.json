@@ -1,0 +1,17 @@
+{
+ "note": "The source records Imago as Unknown, so no alate section is given; the external morphology of the soldier and worker follows Constantino (1992), and what this revision adds is the mandibular and fore coxal characters shared by the three new genera, together with the gut characters.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "In the worker of this genus the first-order gizzard cushion (pulvillus I) bears conspicuous spines; among the Syntermitinae, only the workers of Biratermes, Mapinguaritermes and Ibitermes have such conspicuous cushion spines, all other genera lacking them."
+  },
+  {
+   "label": "Soldier",
+   "text": "According to the source, the external morphology of the soldier follows the description of Constantino (1992); the source's shared account of the three new genera erected in this revision is: mandibles blade-like and stout, the surface of the fore coxa smooth (by contrast, Embiratermes s.s. has piercing mandibles with a pointed tip and a process on the ventral margin of the fore coxa)."
+  },
+  {
+   "label": "Worker",
+   "text": "The gizzard has 24 visible folds, of which 6 are first-order, 6 second-order and 12 third-order; the ratio of the width of the columnar band to that of the cushion band is about 1; the first-order (large) cushions bear conspicuous spines."
+  }
+ ]
+}

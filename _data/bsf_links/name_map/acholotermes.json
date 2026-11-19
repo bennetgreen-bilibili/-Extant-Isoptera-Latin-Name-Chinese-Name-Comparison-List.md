@@ -1,0 +1,57 @@
+{
+ "Acholotermes chirotus": {
+  "label": "Acholotermes chirotus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83906,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83906/overview",
+  "valid_label": null,
+  "valid_otu": 83906,
+  "verified": false
+ },
+ "Acholotermes epius": {
+  "label": "Acholotermes epius Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83907,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83907/overview",
+  "valid_label": null,
+  "valid_otu": 83907,
+  "verified": false
+ },
+ "Acholotermes imbellis": {
+  "label": "Acholotermes imbellis Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83908,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83908/overview",
+  "valid_label": null,
+  "valid_otu": 83908,
+  "verified": false
+ },
+ "Acholotermes socialis": {
+  "label": "Acholotermes socialis (Sjöstedt, 1899)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83909,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83909/overview",
+  "valid_label": null,
+  "valid_otu": 83909,
+  "verified": false
+ },
+ "Acholotermes tithasus": {
+  "label": "Acholotermes tithasus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83910,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83910/overview",
+  "valid_label": null,
+  "valid_otu": 83910,
+  "verified": false
+ }
+}

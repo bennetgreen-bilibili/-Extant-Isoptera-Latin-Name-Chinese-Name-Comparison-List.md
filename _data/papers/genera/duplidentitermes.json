@@ -1,0 +1,83 @@
+{
+ "latin": "Duplidentitermes",
+ "zh": "双齿白蚁属",
+ "fetched_at": "2026-10-30T16:53:32Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2103042331",
+   "openalex_url": "https://openalex.org/W2103042331",
+   "doi": "10.1111/j.1365-2028.1983.tb01182.x",
+   "doi_url": "https://doi.org/10.1111/j.1365-2028.1983.tb01182.x",
+   "title": "Duplidentitermes furcatidens (Sjöstedt, 1924) (Isoptera, Termitidae) in Northern Guinea savanna habitats, Ghana",
+   "year": 1983,
+   "date": "1983-09-01",
+   "authors": [
+    "John Benzie"
+   ],
+   "venue": "African Journal of Ecology",
+   "type": "article",
+   "language": "sv",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "21",
+   "issue": "3",
+   "pages": "203-204",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W4211183788",
+   "openalex_url": "https://openalex.org/W4211183788",
+   "doi": "10.1016/j.asd.2021.101136",
+   "doi_url": "https://doi.org/10.1016/j.asd.2021.101136",
+   "title": "The ultrastructure of the intramandibular gland in soldiers of the termite Machadotermes rigidus (Blattodea: Termitidae: Apicotermitinae)",
+   "year": 2022,
+   "date": "2022-02-10",
+   "authors": [
+    "Tereza Beránková",
+    "Aleš Buček",
+    "Thomas Bourguignon",
+    "Johanna Romero Arias",
+    "Pierre Dieudonné Akama",
+    "David Sillam‐Dussès",
+    "Jan Šobotník"
+   ],
+   "venue": "Arthropod Structure & Development",
+   "type": "article",
+   "language": "en",
+   "cited_by": 4,
+   "oa_url": "",
+   "volume": "67",
+   "issue": "",
+   "pages": "101136-101136",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W4281294636",
+   "openalex_url": "https://openalex.org/W4281294636",
+   "doi": "10.1016/s1467-8039(22)00038-x",
+   "doi_url": "https://doi.org/10.1016/s1467-8039(22)00038-x",
+   "title": "Outside Front Cover",
+   "year": 2022,
+   "date": "2022-05-01",
+   "authors": [],
+   "venue": "Arthropod Structure & Development",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "68",
+   "issue": "",
+   "pages": "101177-101177",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  }
+ ]
+}

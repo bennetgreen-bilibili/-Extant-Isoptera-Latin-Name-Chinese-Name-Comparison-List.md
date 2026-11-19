@@ -7,12 +7,12 @@
 /list/ 原本同时承担三件事：分类框架说明、科/亚科正文（含插图）、逐条名录（326 属 /
 3021 种）。逐条名录已经迁到 /family/、/subfamily/、/genus/ 各级页面，正文也随之迁走，
 于是 /list/ 只剩索引职能。这个脚本完成迁移所需的数据抽取，之后 list.md 由
-_tools/build_list_index.py 从这两个 JSON 重新生成，不再手写。
+_tools/build_list_index.py 从这两个数据集重新生成，不再手写。
 
 产出（均为确定性输出，LF 换行）
 ----
 _data/taxonomy.json          支系 → 科 → 亚科 → 属 的层级（id / 中文名 / 拉丁名 / 父级）
-_data/taxon_prose.json       三语的科、亚科正文段落与插图（zh / en / es）
+_data/taxon_prose/           三语的科、亚科正文段落与插图（zh / en / es，一阶元一档分片）
 _data/list_index_blocks.json 三语索引页原样保留的说明块（H1 / 导语 / 按科浏览 / 参考文献）
 
 用法
@@ -39,7 +39,7 @@ LIST_MD = ROOT / "list.md"
 LIST_MD_EN = ROOT / "en" / "list.md"
 LIST_MD_ES = ROOT / "es" / "list.md"
 TAXONOMY_OUT = ROOT / "_data" / "taxonomy.json"
-PROSE_OUT = ROOT / "_data" / "taxon_prose.json"
+PROSE_DATA = "taxon_prose"
 BLOCKS_OUT = ROOT / "_data" / "list_index_blocks.json"
 
 HEADING_RE = re.compile(r'<h([2-5])\s+id="([a-z0-9\-]+)"[^>]*>(.*?)</h\1>', re.S)
@@ -51,6 +51,7 @@ CJK_RE = re.compile(u"[\u3000-\u303f\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff0
 TITLE_RE = re.compile(r"^(\S.*?)\s+([A-Za-z].*)$")
 TAG_RE = re.compile(r"<[^>]+>")
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import shard_io  # noqa: E402
 from checklist_headings import SKIP_IDS  # noqa: E402  名录里的导航标题（按科浏览 / 目录 / 参考文献）
 
 
@@ -153,7 +154,7 @@ def load_hierarchy(text: str):
                 sys.exit("error: 属 %s 没有父级科" % anchor)
     if not clades or not families:
         sys.exit("error: list.md 里读不到支系/科标题——它可能已经是索引页了；"
-                 "数据源现在是 _data/taxonomy.json 与 _data/taxon_prose.json")
+                 "数据源现在是 _data/taxonomy.json 与 _data/taxon_prose/ 分片")
     return clades, families, subfamilies, genera
 
 
@@ -266,7 +267,7 @@ def verify(taxonomy: dict, prose: dict, blocks: dict) -> list[str]:
         entry = prose.get(lang) or {}
         missing = sorted(family_ids - set(entry.get("families") or {}))
         if missing:
-            problems.append("taxon_prose.json 的 %s 缺 %d 个科的正文：%s"
+            problems.append("taxon_prose 的 %s 缺 %d 个科的正文：%s"
                             % (lang, len(missing), "、".join(missing[:3])))
         block = blocks.get(lang) or {}
         absent = [key for key in ("h1", "intro", "by_family", "references") if not block.get(key)]
@@ -280,12 +281,14 @@ def main() -> int:
     parser.add_argument("--check", action="store_true", help="校验已提交的 JSON 是否自洽")
     args = parser.parse_args()
     if args.check:
-        paths = (TAXONOMY_OUT, PROSE_OUT, BLOCKS_OUT)
+        paths = (TAXONOMY_OUT, BLOCKS_OUT)
         missing = [str(path.relative_to(ROOT)) for path in paths if not path.is_file()]
+        if not shard_io.exists(PROSE_DATA):
+            missing.append("_data/%s/" % PROSE_DATA)
         if missing:
             sys.exit("not generated yet: " + ", ".join(missing))
         taxonomy = json.loads(TAXONOMY_OUT.read_text(encoding="utf-8"))
-        prose = json.loads(PROSE_OUT.read_text(encoding="utf-8"))
+        prose = shard_io.load(PROSE_DATA)
         blocks = json.loads(BLOCKS_OUT.read_text(encoding="utf-8"))
         problems = verify(taxonomy, prose, blocks)
         if problems:
@@ -294,19 +297,14 @@ def main() -> int:
         print("ok：%(clades)d 支系 · %(families)d 科 · %(subfamilies)d 亚科 · %(genera)d 属" % counts)
         return 0
     taxonomy, prose, blocks = build()
-    outputs = {TAXONOMY_OUT: dump(taxonomy), PROSE_OUT: dump(prose),
-               BLOCKS_OUT: dump(blocks)}
-    if args.check:
-        bad = [str(p) for p, data in outputs.items()
-               if not p.is_file() or p.read_bytes() != data]
-        if bad:
-            sys.exit("not up to date: " + ", ".join(sorted(bad)))
-        print("ok")
-        return 0
+    outputs = {TAXONOMY_OUT: dump(taxonomy), BLOCKS_OUT: dump(blocks)}
     for path, data in outputs.items():
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_bytes(data)
         print("wrote %s (%d bytes)" % (path.relative_to(ROOT), len(data)))
+    written, removed = shard_io.save(PROSE_DATA, prose)
+    print("wrote _data/%s/ (%d shard files, %d removed)"
+          % (PROSE_DATA, written, removed))
     counts = taxonomy["meta"]["counts"]
     print("clades %(clades)d · families %(families)d · subfamilies %(subfamilies)d · genera %(genera)d"
           % counts)

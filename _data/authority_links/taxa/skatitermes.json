@@ -1,0 +1,46 @@
+{
+ "Skatitermes psammophilus": {
+  "gbif": {
+   "key": 9670716,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Skatitermes psammophilus Coaton, 1971",
+   "accepted": null
+  },
+  "col": {
+   "id": "6Z4CX",
+   "status": "accepted",
+   "label": "Skatitermes psammophilus Coaton, 1971",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073814",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Skatitermes watti": {
+  "gbif": {
+   "key": 9750469,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Skatitermes watti Coaton, 1971",
+   "accepted": null
+  },
+  "col": {
+   "id": "6Z4D9",
+   "status": "accepted",
+   "label": "Skatitermes watti Coaton, 1971",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073813",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

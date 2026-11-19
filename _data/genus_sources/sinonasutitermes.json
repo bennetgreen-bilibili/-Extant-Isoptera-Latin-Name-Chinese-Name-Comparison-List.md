@@ -1,0 +1,23 @@
+{
+ "latin": "Sinonasutitermes",
+ "zh": "华象白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Sinonasutitermes Li and Ping, 1986: 88, 97.",
+ "type_species": "Sinonasutitermes dimorphus Li and Ping, 1986 by original designation.",
+ "references": [
+  {
+   "ref": "Huang et al., 1989: 392, 579–580",
+   "note": "Sinonasutitermes; key; characters; distribution."
+  },
+  {
+   "ref": "Huang and Li, 1999: 307, 321",
+   "note": "Sinonasutitermes; key; characters."
+  },
+  {
+   "ref": "Huang et al., 2000: 547, 548, 836–837",
+   "note": "Sinonasutitermes; key; characters; distribution."
+  }
+ ],
+ "nrefs": 3
+}

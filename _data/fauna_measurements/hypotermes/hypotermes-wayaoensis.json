@@ -1,0 +1,68 @@
+{
+ "book_n": "288",
+ "book_name": "瓦窑地白蚁 Hypotermes wayaoensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "瓦窑地白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "4.28",
+     "value": "4.04–4.67"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.28",
+     "value": "1.16–1.39"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.10",
+     "value": "1.00–1.13"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.70",
+     "value": "0.68–0.74"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.27",
+     "value": "0.19–0.29"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.30",
+     "value": "0.29–0.32"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "0.75",
+     "value": "0.71–0.81"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.52",
+     "value": "0.48–0.55"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.80",
+     "value": "0.74–0.84"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.11",
+     "value": "1.06–1.13"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 383,
+   "unit": "mm"
+  }
+ ]
+}

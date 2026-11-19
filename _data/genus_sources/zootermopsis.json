@@ -1,0 +1,43 @@
+{
+ "latin": "Zootermopsis",
+ "zh": "动白蚁属",
+ "family": "archotermopsidae",
+ "treatise": true,
+ "citation": "Zootermopsis Emerson, 1933b: 182.",
+ "type_species": "Termopsis angusticollis Hagen, 1858 by original designation.",
+ "references": [
+  {
+   "ref": "Hagen, 1858c: 32, 74–75",
+   "note": "Termopsis [part]; characters; species included."
+  },
+  {
+   "ref": "Hagen, 1858b: 12",
+   "note": "Termopsis [part]; characters; species included."
+  },
+  {
+   "ref": "Haviland, 1898: 371, 372–373",
+   "note": "Termopsis [part]; characters; key; distribution; species included."
+  },
+  {
+   "ref": "Desneux, 1904b: 12, 13",
+   "note": "Termopsis [part]; reference list; characters; Termopsis (Termopsis); characters; species included; distribution."
+  },
+  {
+   "ref": "Holmgren, 1911a: 37",
+   "note": "Termopsis; characters listed; key; species included."
+  },
+  {
+   "ref": "Light, 1933: 82",
+   "note": "Termopsis [part]; key."
+  },
+  {
+   "ref": "Weidner, 1955f: 51, 69",
+   "note": "Zootermopsis; key; number of species; distribution."
+  },
+  {
+   "ref": "Krishna, 1966: 1092, 1095",
+   "note": "Zootermopsis; key."
+  }
+ ],
+ "nrefs": 47
+}

@@ -1,0 +1,13 @@
+{
+ "note": "Establecido por Holmgren 1912; el catálogo lo sitúa como subgénero 16, con una sola especie, Eutermes (Longipeditermes) longipes Haviland (Malaca y Borneo). En la clave, el alado sólo figura como «(?Longipeditermes n. subg.)» tras la entrada de Hospitalitermes, y el autor lo considera dudoso, por lo que no se incluye sección de alado; el original no da caracteres genéricos del obrero.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El soldado es dimórfico, y ello se señala expresamente en la clave (la mayoría de los demás géneros del grupo son monotípicos); el nasus es relativamente estrecho y cónico, las antenas tienen 14 segmentos, la cabeza suele estar constreñida, el ápice mandibular presenta un solo diente evidente y el segmento antenal 3 es igual o más largo que el 4. En Lacessititermes el segmento 3 es más corto que el 4 y el género es monotípico; Hospitalitermes es monotípico y carece de dientes en el ápice mandibular."
+  },
+  {
+   "label": "Soldado",
+   "text": "Soldado dimórfico. Nasus relativamente estrecho y cónico; antenas de 14 segmentos; cabeza a menudo constreñida; ápice mandibular con un diente evidente; segmento antenal 3 igual o más largo que el 4; patas largas."
+  }
+ ]
+}

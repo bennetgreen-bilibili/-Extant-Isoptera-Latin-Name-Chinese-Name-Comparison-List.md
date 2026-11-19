@@ -1,0 +1,34 @@
+{
+ "book_n": "123",
+ "book_name": "圆唇散白蚁 Reticulitermes",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "成虫量度",
+   "label_en": "Imago measurements",
+   "label_es": "Medidas de imago",
+   "label_zh": "成虫量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "0.97–0.98"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.024–0.059"
+    },
+    {
+     "key": "eye_head_lower_margin",
+     "value": "0.165–0.212"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.48–0.59"
+    }
+   ],
+   "src_file": "401-500.txt",
+   "src_line": 23,
+   "unit": "mm"
+  }
+ ]
+}

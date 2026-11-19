@@ -1,0 +1,43 @@
+{
+ "latin": "Cornitermes",
+ "zh": "角象白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Cornitermes Wasmann, 1897b: 150 [first introduced as a subgenus of Termes Linnaeus, 1758].",
+ "type_species": "Termes (Cornitermes) cumulans Kollar, 1832 by subsequent designation; see Snyder, 1949a: 261.",
+ "references": [
+  {
+   "ref": "Silvestri, 1903: 52–53",
+   "note": "Cornitermes [part]; characters."
+  },
+  {
+   "ref": "Escherich, 1909: 175",
+   "note": "Cornitermes; characters."
+  },
+  {
+   "ref": "Holmgren, 1912a: 45, 49–53",
+   "note": "Cornitermes; characters; key; subgenera included; systematic position; Cornitermes (Cornitermes); described as a new subgenus; characters; key; species included; systematic position."
+  },
+  {
+   "ref": "Snyder, 1926e: 17",
+   "note": "Cornitermes; characters; comparisons."
+  },
+  {
+   "ref": "Emerson, 1952b: 502–510",
+   "note": "Cornitermes; generic characters; synonymy; relationships; nest; behavior; ecology; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 18",
+   "note": "Cornitermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 147, 149",
+   "note": "Cornitermes; synonymy; characters; comparisons."
+  },
+  {
+   "ref": "Mill, 1983a: 182, 186",
+   "note": "Cornitermes; key; number of species in New World; habitat; distribution."
+  }
+ ],
+ "nrefs": 36
+}

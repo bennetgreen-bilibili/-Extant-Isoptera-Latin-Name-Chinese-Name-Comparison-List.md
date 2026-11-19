@@ -1,0 +1,33 @@
+{
+ "latin": "Echinotermes",
+ "zh": "多刺白蚁属",
+ "fetched_at": "2026-10-30T16:53:32Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2796137764",
+   "openalex_url": "https://openalex.org/W2796137764",
+   "doi": "10.3897/zookeys.748.24253",
+   "doi_url": "https://doi.org/10.3897/zookeys.748.24253",
+   "title": "Echinotermes biriba, a new genus and species of soldierless termite from the Colombian and Peruvian Amazon (Termitidae, Apicotermitinae)",
+   "year": 2018,
+   "date": "2018-04-04",
+   "authors": [
+    "Daniel Castro",
+    "Rudolf H. Scheffrahn",
+    "Tiago F. Carrijo"
+   ],
+   "venue": "ZooKeys",
+   "type": "article",
+   "language": "en",
+   "cited_by": 10,
+   "oa_url": "https://doi.org/10.3897/zookeys.748.24253",
+   "volume": "748",
+   "issue": "748",
+   "pages": "21-30",
+   "abstract": "A new Apicotermitinae genus and speciesEchinotermesbiribais described from workers collected on the Andean-Amazon Piedmont in Colombia and Peru. The enteric valve armature ofEchinotermesbiribaCastro & Scheffrahn,gen. et sp. n.is a remarkably diagnostic character. A Bayesian phylogenetic analysis using the COI gene and including all other Neotropical Apicotermitinae genera, supports the new genus as a distinct terminal.",
+   "abstract_source": "openalex",
+   "abstract_chars": 422,
+   "abstract_truncated": false
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "Orthotermes depressifrons": {
+  "gbif": {
+   "key": 9702221,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orthotermes depressifrons Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "74XZ3",
+   "status": "accepted",
+   "label": "Orthotermes depressifrons Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084815",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Orthotermes mansuetus": {
+  "gbif": {
+   "key": 9094955,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Orthotermes mansuetus (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "759YR",
+   "status": "accepted",
+   "label": "Orthotermes mansuetus (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084816",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

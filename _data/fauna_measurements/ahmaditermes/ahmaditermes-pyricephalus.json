@@ -1,0 +1,43 @@
+{
+ "book_n": "470",
+ "book_name": "梨头钝颚白蚁 Ahmaditermes pyricephalus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "梨头钝颚白蚁大兵蚁量度",
+   "label_en": "Major soldier measurements",
+   "label_es": "Medidas de soldado mayor",
+   "label_zh": "大兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_nasal_tip",
+     "mean": "1.50",
+     "value": "1.45–1.54"
+    },
+    {
+     "key": "head_width",
+     "mean": "1.02",
+     "value": "0.95–1.07"
+    },
+    {
+     "key": "head_height",
+     "mean": "0.66",
+     "value": "0.63–0.70"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.14",
+     "value": "0.14–0.15"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.39",
+     "value": "0.38–0.41"
+    }
+   ],
+   "src_file": "901-989.txt",
+   "src_line": 166,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "Invasitermes inermis": {
+  "gbif": {
+   "key": 4803372,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Invasitermes inermis Miller, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "3PTFG",
+   "status": "accepted",
+   "label": "Invasitermes inermis Miller, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272460",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Invasitermes insitivus": {
+  "gbif": {
+   "key": 4803371,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Invasitermes insitivus (Hill, 1929)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3PTFH",
+   "status": "accepted",
+   "label": "Invasitermes insitivus (Hill, 1929)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272461",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

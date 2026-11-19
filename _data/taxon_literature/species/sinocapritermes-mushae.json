@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "肠道纤维素酶",
+   "heading_en": "Gut cellulase",
+   "heading_es": "Celulasa intestinal",
+   "paragraphs": [
+    {
+     "src": [
+      "S0276"
+     ],
+     "text": "根据 Li 等（2013）研究，土食性的台湾华扭白蚁（<i>Sinocapritermes mushae</i>）采自罗浮山；土食性组整体在三段肠之间无显著差异，但该种的 β-葡萄糖苷酶（BG）活性在后肠相对较高，其纤维素酶活性为首次报道。",
+     "text_en": "According to Li et al. (2013), the soil-feeding <i>Sinocapritermes mushae</i> was collected at Luofu Mountain; the soil-feeding group as a whole showed no significant differences among the three gut segments, but in this species β-glucosidase (BG) activity was relatively high in the hindgut, and its cellulase activity is reported for the first time.",
+     "text_es": "Según Li et al. (2013), la especie geófaga <i>Sinocapritermes mushae</i> se recolectó en el monte Luofu; el grupo geófago en conjunto no mostró diferencias significativas entre los tres segmentos del intestino, pero en esta especie la actividad de β-glucosidasa (BG) fue relativamente alta en el intestino posterior, y su actividad celulásica se registra por primera vez."
+    }
+   ]
+  },
+  {
+   "heading": "种内变异与 16S 证据",
+   "heading_en": "Intraspecific variation and 16S evidence",
+   "heading_es": "Variación intraespecífica y evidencia de 16S",
+   "paragraphs": [
+    {
+     "text": "根据 Chiu、Yang 与 Li（2015）研究，台湾华扭白蚁（<i>Sinocapritermes mushae</i>）的线粒体 16S 部分序列证实台湾仅产该一种华扭白蚁属（<i>Sinocapritermes</i>）白蚁，但台湾群体形态变异幅度大；在证实如此大的种内变异之后，该研究认为用于区分中国大陆各种的多数定性特征无效，并据形态测量提议把 5 个描述自中国大陆的种作为本种的次异名。该研究据此强调，华扭白蚁属（<i>Sinocapritermes</i>）的种级划分需要更多标本与更全面的修订。（据摘要）",
+     "src": [
+      "S0350"
+     ],
+     "text_en": "In the study by Chiu, Yang and Li (2015), partial mitochondrial 16S sequences confirmed that <i>Sinocapritermes mushae</i> is the only species of <i>Sinocapritermes</i> in Taiwan, although Taiwanese populations vary widely in morphology; having demonstrated such large intraspecific variation, the study holds that most qualitative characters used to separate the mainland Chinese species are invalid and, on morphometric grounds, proposes five species described from mainland China as junior synonyms of <i>Sinocapritermes mushae</i>. The study therefore stresses that species delimitation in <i>Sinocapritermes</i> needs more specimens and a fuller revision. (According to the abstract.)",
+     "text_es": "En el estudio de Chiu, Yang y Li (2015), secuencias parciales del 16S mitocondrial confirmaron que <i>Sinocapritermes mushae</i> es la única especie de <i>Sinocapritermes</i> en Taiwán, aunque las poblaciones taiwanesas varían ampliamente en morfología; tras demostrar una variación intraespecífica tan grande, el estudio sostiene que la mayoría de los caracteres cualitativos usados para separar las especies de China continental son inválidos y, con base morfométrica, propone cinco especies descritas de China continental como sinónimos posteriores de <i>Sinocapritermes mushae</i>. El estudio subraya por ello que la delimitación de especies en <i>Sinocapritermes</i> requiere más ejemplares y una revisión más completa. (Según el resumen.)"
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0276",
+   "citation": "Li, Z.-Q.; Liu, B.-R.; Zeng, W.; Xiao, W.-L.; Li, Q.; Zhong, J. 2013. Character of Cellulase Activity in the Guts of Flagellate-Free Termites with Different Feeding Habits. Oxford University Press (OUP).",
+   "doi": "10.1673/031.013.3701"
+  },
+  {
+   "id": "S0350",
+   "citation": "Chiu, C.-I.; Yang, M.-M.; Li, H.-F. 2015. Redescription of the Soil-Feeding Termite Sinocapritermes mushae (Isoptera: Termitidae: Termitinae): The First Step of Genus Revision. Annals of the Entomological Society of America.",
+   "doi": "10.1093/aesa/sav106"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "latin": "Ancistrotermes",
+ "zh": "钩白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Ancistrotermes Silvestri, 1912b: 4–5 [first introduced as a subgenus of Termes Linnaeus, 1758].",
+ "type_species": "Termes crucifer Sjöstedt, 1897 by original designation.",
+ "references": [
+  {
+   "ref": "Fuller, 1922: 103, 105",
+   "note": "Microtermes (Ancistrotermes); key; discussion."
+  },
+  {
+   "ref": "Emerson, 1928b: 406, 420, 468",
+   "note": "Ancistrotermes; key; discussion; distribution."
+  },
+  {
+   "ref": "Grassé, 1937a: 68",
+   "note": "Ancistrotermes; characters; remarks."
+  },
+  {
+   "ref": "Harris, 1941: 202",
+   "note": "Ancistrotermes; key."
+  },
+  {
+   "ref": "Weidner, 1956b: 65, 67, 86",
+   "note": "Ancistrotermes; synonymy; key; characters."
+  },
+  {
+   "ref": "Webb, 1961: 18",
+   "note": "Ancistrotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 33, 90, 91, pl. 13: fig. 36b",
+   "note": "Ancistrotermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Harris, 1966c: 6",
+   "note": "Ancistrotermes; imago, soldier, worker described; species included."
+  }
+ ],
+ "nrefs": 39
+}

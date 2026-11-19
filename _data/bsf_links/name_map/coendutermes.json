@@ -1,0 +1,13 @@
+{
+ "Coendutermes tucum": {
+  "label": "Coendutermes tucum Fontes, 1985",
+  "match": "exact",
+  "notes": "",
+  "otu": 84394,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84394/overview",
+  "valid_label": null,
+  "valid_otu": 84394,
+  "verified": false
+ }
+}

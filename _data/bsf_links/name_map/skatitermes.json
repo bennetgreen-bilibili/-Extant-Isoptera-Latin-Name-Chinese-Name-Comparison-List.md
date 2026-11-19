@@ -1,0 +1,24 @@
+{
+ "Skatitermes psammophilus": {
+  "label": "Skatitermes psammophilus Coaton, 1971",
+  "match": "exact",
+  "notes": "",
+  "otu": 84138,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84138/overview",
+  "valid_label": null,
+  "valid_otu": 84138,
+  "verified": false
+ },
+ "Skatitermes watti": {
+  "label": "Skatitermes watti Coaton, 1971",
+  "match": "exact",
+  "notes": "",
+  "otu": 84139,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84139/overview",
+  "valid_label": null,
+  "valid_otu": 84139,
+  "verified": false
+ }
+}

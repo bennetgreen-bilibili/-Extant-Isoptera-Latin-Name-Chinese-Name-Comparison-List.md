@@ -1,0 +1,39 @@
+{
+ "latin": "Curvitermes",
+ "zh": "曲白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Curvitermes Holmgren, 1912a: 55 [first introduced as a subgenus of Armitermes Wasmann, 1897].",
+ "type_species": "Armitermes odontognathus Silvestri, 1901 by subsequent designation, see Snyder, 1949a: 337.",
+ "references": [
+  {
+   "ref": "Morimoto, 1975b: 20",
+   "note": "Curvitermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 221, 223",
+   "note": "Curvitermes; synonymy; characters; comparisons."
+  },
+  {
+   "ref": "Mill, 1983a: 182, 188",
+   "note": "Curvitermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Fontes, 1985c: 9",
+   "note": "Curvitermes; key."
+  },
+  {
+   "ref": "Constantino, 1999a: 401, 416",
+   "note": "Curvitermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 20",
+   "note": "Curvitermes; key."
+  },
+  {
+   "ref": "Carvalho and Constantino, 2011: 645—647",
+   "note": "Curvitermes; imago, soldier, worker characters."
+  }
+ ],
+ "nrefs": 20
+}

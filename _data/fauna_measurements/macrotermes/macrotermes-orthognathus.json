@@ -1,0 +1,68 @@
+{
+ "book_n": "311",
+ "book_name": "直颚大白蚁 Macrotermes orthognathus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "直颚白蚁小兵蚁量度 ( mm)",
+   "label_en": "Minor soldier measurements",
+   "label_es": "Medidas de soldado menor",
+   "label_zh": "小兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.06",
+     "value": "1.92–2.16"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.64",
+     "value": "1.58–1.72"
+    },
+    {
+     "key": "head_width_behind_antennae",
+     "mean": "1.37",
+     "value": "1.35–1.45"
+    },
+    {
+     "key": "head_width_mandible_base",
+     "mean": "0.95",
+     "value": "0.91–1.04"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.39",
+     "value": "1.25–1.48"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.40",
+     "value": "1.28–1.52"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.51",
+     "value": "0.47–0.55"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.51",
+     "value": "0.47–0.54"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.71",
+     "value": "0.67–0.74"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.14",
+     "value": "1.04–1.21"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 1075,
+   "unit": "mm"
+  }
+ ]
+}

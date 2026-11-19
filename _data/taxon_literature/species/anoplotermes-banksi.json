@@ -1,0 +1,55 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "据摘要，Bourguignon 等（2010）重新描述解甲白蚁属（<i>Anoplotermes</i>）模式种太平洋解甲白蚁（<i>Anoplotermes pacificus</i>）时，把班克斯解甲白蚁（<i>Anoplotermes banksi</i>）保留在该属；该研究归并 6 个种名，并提供 4 个遗传标记的 DNA 序列。",
+     "text_en": "According to the abstract, when Bourguignon et al. (2010) redescribed the type species of <i>Anoplotermes</i>, <i>Anoplotermes pacificus</i>, they retained <i>Anoplotermes banksi</i> in the genus; the study synonymised six species-group names and provided DNA sequences for four genetic markers.",
+     "text_es": "Según el resumen, cuando Bourguignon et al. (2010) redescribieron la especie tipo de <i>Anoplotermes</i>, <i>Anoplotermes pacificus</i>, mantuvieron <i>Anoplotermes banksi</i> en el género; el estudio sinonimizó seis nombres de especie y aportó secuencias de ADN de cuatro marcadores genéticos.",
+     "src": [
+      "S0177"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "亚马孙中部树栖巢的群体与生物量",
+   "heading_en": "Colonies and biomass of arboreal nests in central Amazonia",
+   "heading_es": "Colonias y biomasa de nidos arbóreos en la Amazonia central",
+   "paragraphs": [
+    {
+     "src": [
+      "S0264"
+     ],
+     "text": "据摘要，根据 Martius（1996）研究，班克斯解甲白蚁（<i>Anoplotermes banksi</i>）的树栖巢在中亚马孙原生雨林中数量丰富，7 个巢（重 92–6 891 g）的群体含 2 593–39 256 头个体，每巢白蚁鲜重 1.5–22.1 g；工蚁平均个体鲜重 0.9 mg、有翅成虫 2.1 mg、蚁后 10–30 mg。",
+     "text_en": "According to the abstract, Martius (1996) reported that the arboreal nests of <i>Anoplotermes banksi</i> are abundant in primary rain forest of central Amazonia; seven nests (weighing 92–6 891 g) held colonies of 2 593–39 256 individuals, with 1.5–22.1 g fresh weight of termites per nest; mean individual fresh weight was 0.9 mg for workers, 2.1 mg for alates and 10–30 mg for queens.",
+     "text_es": "Según el resumen, Martius (1996) informó de que los nidos arbóreos de <i>Anoplotermes banksi</i> son abundantes en el bosque lluvioso primario de la Amazonia central; siete nidos (de 92–6 891 g) contenían colonias de 2 593–39 256 individuos, con 1.5–22.1 g de peso fresco de termitas por nido; el peso fresco individual medio fue de 0.9 mg en obreras, 2.1 mg en alados y 10–30 mg en reinas."
+    },
+    {
+     "src": [
+      "S0264"
+     ],
+     "text": "巢重与成熟度无相关：工蚁与幼虫之比恒为 1:1，不随巢大小变化，不足 200 g 的巢中已出现有翅成虫；巢密度 12–18 个/ha，占全部等翅类巢数的 12%–15%，但该种白蚁鲜重仅 15–23 mg/m²，只占总白蚁生物量的 0.2%–0.4%（据摘要）。",
+     "text_en": "Nest weight showed no correlation with maturity: the worker-to-larva ratio was consistently 1:1 and did not change with nest size, and alates had already appeared in nests of less than 200 g; nest density was 12–18 per ha, accounting for 12%–15% of all isopteran nests, but the fresh weight of this species was only 15–23 mg/m², just 0.2%–0.4% of total termite biomass (according to the abstract).",
+     "text_es": "El peso del nido no mostró correlación con la madurez: la proporción entre obreras y larvas fue siempre de 1:1 y no varió con el tamaño del nido, y ya había alados en nidos de menos de 200 g; la densidad de nidos fue de 12–18 por ha, lo que representa el 12%–15% de todos los nidos de isópteros, pero el peso fresco de esta especie fue de solo 15–23 mg/m², apenas el 0.2%–0.4% de la biomasa total de termitas (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0177",
+   "citation": "Thomas Bourguignon; Rudolf H. Scheffrahn; Jan Křeček; ZOLTÁN TAMÁS NAGY; Gontran Sonet; Yves Roisin 2010 Towards a revision of the Neotropical soldierless termites (Isoptera : Termitidae): redescription of the genus Anoplotermes and description of Longustitermes, gen. nov.*. Invertebrate Systematics.",
+   "doi": "10.1071/is10012"
+  },
+  {
+   "id": "S0264",
+   "citation": "Martius, C.; Ribeiro, J. D. 1996. Colony Populations and Biomass in Nests of the Amazonian Forest Termite Anoplotermes banksi Emerson (Isoptera: Termitidae). Studies on Neotropical Fauna and Environment.",
+   "doi": "10.1076/snfe.31.2.82.13328"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "latin": "Cyranotermes",
+ "zh": "巨鼻白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Cyranotermes Araujo, 1970c: 365.",
+ "type_species": "Cyranotermes timuassu Araujo, 1970 by original designation.",
+ "references": [
+  {
+   "ref": "Mathews, 1977: 239",
+   "note": "Cyranotermes; synonymy; characters; comparisons."
+  },
+  {
+   "ref": "Mill, 1983a: 182, 189",
+   "note": "Cyranotermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Fontes, 1987b: 503–531",
+   "note": "Cyranotermes; worker mandibles described and figured."
+  },
+  {
+   "ref": "Constantino, 1999a: 401, 414",
+   "note": "Cyranotermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 12",
+   "note": "Cyranotermes; key."
+  }
+ ],
+ "nrefs": 10
+}

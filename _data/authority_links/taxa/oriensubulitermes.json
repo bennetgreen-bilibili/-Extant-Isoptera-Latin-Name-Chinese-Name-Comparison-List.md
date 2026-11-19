@@ -1,0 +1,46 @@
+{
+ "Oriensubulitermes inanis": {
+  "gbif": {
+   "key": 9818373,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Oriensubulitermes inanis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6STJ7",
+   "status": "accepted",
+   "label": "Oriensubulitermes inanis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084798",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Oriensubulitermes kemneri": {
+  "gbif": {
+   "key": 9733983,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Oriensubulitermes kemneri Ahmad, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "6T5J7",
+   "status": "accepted",
+   "label": "Oriensubulitermes kemneri Ahmad, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084799",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

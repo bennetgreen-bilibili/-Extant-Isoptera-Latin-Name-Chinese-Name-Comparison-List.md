@@ -1,0 +1,145 @@
+{
+ "Parrhinotermes aequalis": {
+  "label": "Parrhinotermes aequalis (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83424,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83424/overview",
+  "valid_label": null,
+  "valid_otu": 83424,
+  "verified": false
+ },
+ "Parrhinotermes barbatus": {
+  "label": "Parrhinotermes barbatus Bourguignon & Roisin, 2011",
+  "match": "exact",
+  "notes": "",
+  "otu": 83425,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83425/overview",
+  "valid_label": null,
+  "valid_otu": 83425,
+  "verified": false
+ },
+ "Parrhinotermes browni": {
+  "label": "Parrhinotermes browni (Harris, 1958)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83426,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83426/overview",
+  "valid_label": null,
+  "valid_otu": 83426,
+  "verified": false
+ },
+ "Parrhinotermes buttelreepeni": {
+  "label": "Parrhinotermes buttelreepeni Holmgren, 1913",
+  "match": "exact",
+  "notes": "",
+  "otu": 83427,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83427/overview",
+  "valid_label": null,
+  "valid_otu": 83427,
+  "verified": false
+ },
+ "Parrhinotermes inaequalis": {
+  "label": "Parrhinotermes inaequalis (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83428,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83428/overview",
+  "valid_label": null,
+  "valid_otu": 83428,
+  "verified": false
+ },
+ "Parrhinotermes khasii": {
+  "label": "Parrhinotermes khasii Roonwal & Sen-Sarma, 1956",
+  "match": "exact",
+  "notes": "",
+  "otu": 83429,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83429/overview",
+  "valid_label": null,
+  "valid_otu": 83429,
+  "verified": false
+ },
+ "Parrhinotermes microdentiformis": {
+  "label": "Parrhinotermes microdentiformis Thapa, 1982",
+  "match": "exact",
+  "notes": "",
+  "otu": 83430,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83430/overview",
+  "valid_label": null,
+  "valid_otu": 83430,
+  "verified": false
+ },
+ "Parrhinotermes microdentiformisoides": {
+  "label": "Parrhinotermes microdentiformisoides Thapa, 1982",
+  "match": "exact",
+  "notes": "",
+  "otu": 83431,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83431/overview",
+  "valid_label": null,
+  "valid_otu": 83431,
+  "verified": false
+ },
+ "Parrhinotermes minor": {
+  "label": "Parrhinotermes minor Thapa, 1982",
+  "match": "exact",
+  "notes": "",
+  "otu": 83432,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83432/overview",
+  "valid_label": null,
+  "valid_otu": 83432,
+  "verified": false
+ },
+ "Parrhinotermes pygmaeus": {
+  "label": "Parrhinotermes pygmaeus John, 1925",
+  "match": "exact",
+  "notes": "",
+  "otu": 83433,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83433/overview",
+  "valid_label": null,
+  "valid_otu": 83433,
+  "verified": false
+ },
+ "Parrhinotermes queenslandicus": {
+  "label": "Parrhinotermes queenslandicus Mjöberg, 1920",
+  "match": "exact",
+  "notes": "",
+  "otu": 83434,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83434/overview",
+  "valid_label": null,
+  "valid_otu": 83434,
+  "verified": false
+ },
+ "Parrhinotermes ruiliensis": {
+  "label": "Parrhinotermes ruiliensis Tsai & Huang, 1982",
+  "match": "exact",
+  "notes": "",
+  "otu": 83435,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83435/overview",
+  "valid_label": null,
+  "valid_otu": 83435,
+  "verified": false
+ },
+ "Parrhinotermes shamimi": {
+  "label": "Parrhinotermes shamimi Bose, 1999",
+  "match": "exact",
+  "notes": "",
+  "otu": 83436,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83436/overview",
+  "valid_label": null,
+  "valid_otu": 83436,
+  "verified": false
+ }
+}

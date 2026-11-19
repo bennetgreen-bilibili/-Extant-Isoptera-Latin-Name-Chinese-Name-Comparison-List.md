@@ -1,0 +1,25 @@
+{
+ "zh_name": "坚白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁与 Hoplognathotermes 近缘，头形无属级差别，但头面、后颏及前足基节的毛被远较丰富，后颏全长具横皱，上唇宽而圆、无侧角与尖突，上颚基部短粗；有翅成虫仅凭暂定归属的“Eutermes” tripolitanus 描述，其左上颚第三缘齿的比例远大于任何已知的原始白蚁亚科或弓白蚁亚科属。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "以下属征以“Eutermes” tripolitanus 暂归入本属为前提。两上颚端齿较 Hoplognathotermes 与 Acutidentitermes 工蚁者更小、更细，且更靠近第一缘齿；左上颚端齿与第一缘齿的夹角较锐；左颚第一、二缘齿的实际长度与 Acutidentitermes 相近，但第三缘齿前的缺刻较不锐，第三缘齿的端缘较长（Acutidentitermes 者明显凸而短）；第三缘齿的比例远大于任何已知的原始白蚁亚科或弓白蚁亚科属；左上颚第三缘齿与磨板之间的凹脊下有 2 个小突起，其间的缘凹入（Acutidentitermes 在基磨板下只有 1 个突起）；右上颚第一缘齿在与端齿相接的角附近有退化的副齿痕迹；第二缘齿前后缘均凹，而 Acutidentitermes 者凸钝、前后缘近直；右上颚基板上缘的凹入弱于 Acutidentitermes。前胫各具 3 距，中、后胫各 2 距。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头面、头顶、两侧及后颏散布多数短毛与刚毛，而 Hoplognathotermes subterraneus 与 Acutidentitermes osborni 头面刚毛极少、后颏近于无毛。前足基节端部平凸段的剖面可见 3–4 根刚毛，基部锐凸段的剖面有少量刚毛与短毛，纵脊圆钝，转动基节时可见若干极短毛。头形与 Hoplognathotermes 无属级差别，前部较平，无显著脊或瘤突；囟小而不显。后颏中部缢缩、两侧相当凹（略深于 Hoplognathotermes），全长具一系列不明显的横皱；而 H. subterraneus 仅后部有横皱，A. osborni 后颏呈球状且无横皱。上唇比例上宽如 H. subterraneus，但边缘较圆，无后者或 A. osborni 的侧角与尖突。后唇基明显，与额部之间的缝未消失。上颚基部比例短粗，外缘相当强凸，端部与基部分界处无 Hoplognathotermes 或 Acutidentitermes 那样的角状缺刻；端突较二者短、粗，外缘更弯；模式标本齿基已断，齿形不可知，但右上颚端缘与齿之间的小缺刻示其夹角近于 H. subterraneus 而不同于 A. osborni 较锐的角；基部的齿状突不明显或缺失。前胸背板较 H. subterraneus 小而窄，前叶同样大，前缘中凹同样小而浅；前叶与后部之间的侧观夹角不如 H. subterraneus 锐，近于平凹。前足基节无突起，纵脊相当圆钝，不如 H. subterraneus 锐而长；脊的剖面自转节区至中部平凸、向基部外角转平凹。前胫具 3 端距，外距极短，需仔细拨动方可见；中、后胫各 2 距。"
+  }
+ ],
+ "note": "原文以“?Firmitermes”暂定归属，有翅成虫属征随之带有条件性，改写时保留该前提。原文无工蚁属级记述。据英文属征改写，非逐字翻译。",
+ "sources": [
+  {
+   "id": "S0034",
+   "citation": "Emerson A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43.",
+   "locator": "pp. 4–6（Imago、Soldier 两节；p. 4 起为 Imago，p. 4 末至 p. 6 为 Soldier）"
+  }
+ ]
+}

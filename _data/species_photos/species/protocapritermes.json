@@ -1,0 +1,81 @@
+{
+ "Protocapritermes krisiformis": [
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/620362484/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/620362484/medium.jpg",
+   "width": 1024,
+   "height": 869,
+   "credit": "(c) prissm, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/340852503"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/313052573/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/313052573/medium.jpg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) bughntr, some rights reserved (CC BY-SA)",
+   "license": "CC BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://www.inaturalist.org/observations/179780287"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/313052548/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/313052548/medium.jpg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) bughntr, some rights reserved (CC BY-SA)",
+   "license": "CC BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://www.inaturalist.org/observations/179780287"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/313052561/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/313052561/medium.jpg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) bughntr, some rights reserved (CC BY-SA)",
+   "license": "CC BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://www.inaturalist.org/observations/179780287"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/313052595/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/313052595/medium.jpg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) bughntr, some rights reserved (CC BY-SA)",
+   "license": "CC BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://www.inaturalist.org/observations/179780287"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/313052614/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/313052614/medium.jpg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) bughntr, some rights reserved (CC BY-SA)",
+   "license": "CC BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://www.inaturalist.org/observations/179780287"
+  },
+  {
+   "source": "commons",
+   "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Protocapritermes_krisiformis.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Protocapritermes_krisiformis.jpg/960px-Protocapritermes_krisiformis.jpg",
+   "width": 1536,
+   "height": 2048,
+   "credit": "iNaturalist Australia user: hntro",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Protocapritermes_krisiformis.jpg"
+  }
+ ]
+}

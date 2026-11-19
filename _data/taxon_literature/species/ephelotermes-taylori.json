@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "开阔稀树草原的首次记录",
+   "heading_en": "First record in open savanna woodland",
+   "heading_es": "Primer registro en sabana arbolada abierta",
+   "paragraphs": [
+    {
+     "src": [
+      "S0210"
+     ],
+     "text": "据摘要，Dawes-Gromadzki（2008）在澳大利亚北领地达尔文附近的稀树草原样地中记录到泰勒棒颚白蚁（<i>Ephelotermes taylori</i>），这是该种在开阔稀树草原生境的首次记录；同一调查还首次正式记录了游荡长颚白蚁（<i>Macrognathotermes errator</i>）。",
+     "text_en": "According to the abstract, Dawes-Gromadzki (2008) recorded <i>Ephelotermes taylori</i> in savanna woodland sites near Darwin, Northern Territory, Australia — the first record of this species in open savanna woodland; the same survey provided the first official record of <i>Macrognathotermes errator</i>.",
+     "text_es": "Según el resumen, Dawes-Gromadzki (2008) registró <i>Ephelotermes taylori</i> en parcelas de sabana arbolada cerca de Darwin, Territorio del Norte, Australia: el primer registro de esta especie en sabana arbolada abierta; el mismo muestreo aportó el primer registro oficial de <i>Macrognathotermes errator</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0210",
+   "citation": "Dawes-Gromadzki, T. Z. (2008). Abundance and diversity of termites in a savanna woodland reserve in tropical Australia. Australian Journal of Entomology.",
+   "doi": "10.1111/j.1440-6055.2008.00662.x"
+  }
+ ]
+}

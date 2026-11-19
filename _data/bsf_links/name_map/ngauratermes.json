@@ -1,0 +1,13 @@
+{
+ "Ngauratermes arue": {
+  "label": "Ngauratermes arue Constantino & Acioli, 2009",
+  "match": "exact",
+  "notes": "",
+  "otu": 84820,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84820/overview",
+  "valid_label": null,
+  "valid_otu": 84820,
+  "verified": false
+ }
+}

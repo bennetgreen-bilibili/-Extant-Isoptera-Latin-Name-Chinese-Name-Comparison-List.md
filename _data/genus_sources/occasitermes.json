@@ -1,0 +1,23 @@
+{
+ "latin": "Occasitermes",
+ "zh": "西部白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Occasitermes Holmgren, 1912a: 59, 60 [first introduced as a subgenus of Eutermes Heer, 1849b].",
+ "type_species": "Eutermes occasus Silvestri, 1909 by monotypy.",
+ "references": [
+  {
+   "ref": "Hill, 1942: 14, 202–205",
+   "note": "Eutermes [part]; key; synonymy; imago, soldier, worker diagnosed."
+  },
+  {
+   "ref": "Gay, 1974: 275–276",
+   "note": "Occasitermes; synonymy; characters; comments."
+  },
+  {
+   "ref": "Morimoto, 1975b: 23, 24",
+   "note": "Occasitermes; key."
+  }
+ ],
+ "nrefs": 12
+}

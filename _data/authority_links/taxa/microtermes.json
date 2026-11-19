@@ -1,0 +1,1565 @@
+{
+ "Microtermes aethiopicus": {
+  "gbif": {
+   "key": 9710492,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes aethiopicus Barnett, Cowie & Wood, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "437WM",
+   "status": "accepted",
+   "label": "Microtermes aethiopicus Barnett, Cowie & Wood, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084671",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes albinotus": {
+  "gbif": {
+   "key": 9781568,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes albinotus Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "437WN",
+   "status": "accepted",
+   "label": "Microtermes albinotus Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084672",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes albopartitus": {
+  "gbif": {
+   "key": 9806393,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes albopartitus (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "437WQ",
+   "status": "accepted",
+   "label": "Microtermes albopartitus (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084673",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes alluaudanus": {
+  "gbif": {
+   "key": 9748804,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes alluaudanus (Sjöstedt, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "437WR",
+   "status": "accepted",
+   "label": "Microtermes alluaudanus (Sjöstedt, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084674",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes aluco": {
+  "gbif": {
+   "key": 9691298,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes aluco (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "437WS",
+   "status": "accepted",
+   "label": "Microtermes aluco (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084675",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes baginei": {
+  "gbif": {
+   "key": 9818953,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes baginei Bacchus, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "437WT",
+   "status": "accepted",
+   "label": "Microtermes baginei Bacchus, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084676",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes bharatpurensis": {
+  "gbif": {
+   "key": 9780854,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes bharatpurensis Rathore, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "73K4D",
+   "status": "accepted",
+   "label": "Microtermes bharatpurensis Rathore, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084677",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes bouvieri": {
+  "gbif": {
+   "key": 9674351,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes bouvieri (Sjöstedt, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "437WV",
+   "status": "accepted",
+   "label": "Microtermes bouvieri (Sjöstedt, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084678",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes calvus": {
+  "gbif": {
+   "key": 9722389,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes calvus Emerson, 1928",
+   "accepted": null
+  },
+  "col": {
+   "id": "437WW",
+   "status": "accepted",
+   "label": "Microtermes calvus Emerson, 1928",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084679",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes cherberensis": {
+  "gbif": {
+   "key": 9814163,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes cherberensis Bacchus, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "437WX",
+   "status": "accepted",
+   "label": "Microtermes cherberensis Bacchus, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084680",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes chomaensis": {
+  "gbif": {
+   "key": 9789252,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes chomaensis Bacchus, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "437WY",
+   "status": "accepted",
+   "label": "Microtermes chomaensis Bacchus, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084681",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes congoensis": {
+  "gbif": {
+   "key": 9756327,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes congoensis (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "437WZ",
+   "status": "accepted",
+   "label": "Microtermes congoensis (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084682",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes congoensis comprehensa": {
+  "gbif": {
+   "key": 9705288,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Microtermes congoensis comprehensa Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2D3M",
+   "status": "accepted",
+   "label": "Microtermes congoensis comprehensa Silvestri, 1914",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes congoensis congoensis": {
+  "gbif": {
+   "key": 9665117,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Microtermes congoensis congoensis (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2D3N",
+   "status": "accepted",
+   "label": "Microtermes congoensis congoensis (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes darlingtonae": {
+  "gbif": {
+   "key": 9705973,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes darlingtonae Bacchus, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "437X2",
+   "status": "accepted",
+   "label": "Microtermes darlingtonae Bacchus, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084683",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes depauperata": {
+  "gbif": {
+   "key": 9648497,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes depauperata Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "437X3",
+   "status": "accepted",
+   "label": "Microtermes depauperata Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084684",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes divellens": {
+  "gbif": {
+   "key": 9749521,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes divellens (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "437X5",
+   "status": "accepted",
+   "label": "Microtermes divellens (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084685",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes dubius": {
+  "gbif": {
+   "key": 9741241,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes dubius Fuller, 1922",
+   "accepted": null
+  },
+  "col": {
+   "id": "437X6",
+   "status": "accepted",
+   "label": "Microtermes dubius Fuller, 1922",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084686",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes edwini": {
+  "gbif": {
+   "key": 9679423,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes edwini Bacchus, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "437X7",
+   "status": "accepted",
+   "label": "Microtermes edwini Bacchus, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084687",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes etiolatus": {
+  "gbif": {
+   "key": 9729213,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes etiolatus Fuller, 1922",
+   "accepted": null
+  },
+  "col": {
+   "id": "437X8",
+   "status": "accepted",
+   "label": "Microtermes etiolatus Fuller, 1922",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084688",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes feae": {
+  "gbif": {
+   "key": 9818234,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes feae Silvestri, 1912",
+   "accepted": null
+  },
+  "col": {
+   "id": "437X9",
+   "status": "accepted",
+   "label": "Microtermes feae Silvestri, 1912",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084689",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes grassei": {
+  "gbif": {
+   "key": 9667895,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes grassei Ghidini, 1955",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Microtermes Wasmann, 1902",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q140084690",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Microtermes havilandi": {
+  "gbif": {
+   "key": 8934601,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes havilandi Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XC",
+   "status": "accepted",
+   "label": "Microtermes havilandi Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084691",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes hollandei": {
+  "gbif": {
+   "key": 9686751,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes hollandei Grassé, 1937",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XD",
+   "status": "accepted",
+   "label": "Microtermes hollandei Grassé, 1937",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084692",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes imphalensis": {
+  "gbif": {
+   "key": 9733837,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes imphalensis Roonwal & Chhotani, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RK4C",
+   "status": "accepted",
+   "label": "Microtermes imphalensis Roonwal & Chhotani, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084693",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes incertoides": {
+  "gbif": {
+   "key": 9660007,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes incertoides Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XF",
+   "status": "accepted",
+   "label": "Microtermes incertoides Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084694",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes incertus": {
+  "gbif": {
+   "key": 9788520,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes incertus (Hagen, 1853)",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XG",
+   "status": "accepted",
+   "label": "Microtermes incertus (Hagen, 1853)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084695",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes insperatus": {
+  "gbif": {
+   "key": 9656331,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes insperatus Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XH",
+   "status": "accepted",
+   "label": "Microtermes insperatus Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084696",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes jacobsoni": {
+  "gbif": {
+   "key": 9724582,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes jacobsoni Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XJ",
+   "status": "accepted",
+   "label": "Microtermes jacobsoni Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084697",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes kairoonae": {
+  "gbif": {
+   "key": 9801694,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes kairoonae Bacchus, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XK",
+   "status": "accepted",
+   "label": "Microtermes kairoonae Bacchus, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084698",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes kasaiensis": {
+  "gbif": {
+   "key": 9737362,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes kasaiensis (Sjöstedt, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XL",
+   "status": "accepted",
+   "label": "Microtermes kasaiensis (Sjöstedt, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084699",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes kauderni": {
+  "gbif": {
+   "key": 9773913,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes kauderni Holmgren, 1909",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XM",
+   "status": "accepted",
+   "label": "Microtermes kauderni Holmgren, 1909",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084700",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes lepidus": {
+  "gbif": {
+   "key": 9683297,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes lepidus Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XP",
+   "status": "accepted",
+   "label": "Microtermes lepidus Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084701",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes logani": {
+  "gbif": {
+   "key": 9761677,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes logani Bacchus, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XQ",
+   "status": "accepted",
+   "label": "Microtermes logani Bacchus, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084702",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes lokoriensis": {
+  "gbif": {
+   "key": 9646464,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes lokoriensis Bacchus, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XR",
+   "status": "accepted",
+   "label": "Microtermes lokoriensis Bacchus, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084703",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes lounsburyi": {
+  "gbif": {
+   "key": 9686052,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes lounsburyi Fuller, 1922",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XS",
+   "status": "accepted",
+   "label": "Microtermes lounsburyi Fuller, 1922",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084704",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes luteus": {
+  "gbif": {
+   "key": 9664429,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes luteus Harris, 1954",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XT",
+   "status": "accepted",
+   "label": "Microtermes luteus Harris, 1954",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084705",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes macronotus": {
+  "gbif": {
+   "key": 9693382,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes macronotus Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "73JSC",
+   "status": "accepted",
+   "label": "Microtermes macronotus Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591981",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes magnocellus": {
+  "gbif": {
+   "key": 9766299,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes magnocellus (Sjöstedt, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XV",
+   "status": "accepted",
+   "label": "Microtermes magnocellus (Sjöstedt, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084706",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes magnoculus": {
+  "gbif": {
+   "key": 9727089,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes magnoculus Krishna, 2013",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XW",
+   "status": "accepted",
+   "label": "Microtermes magnoculus Krishna, 2013",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084707",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes mangzhuangensis": {
+  "gbif": {
+   "key": 9702496,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes mangzhuangensis Huang & Zhu, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XX",
+   "status": "accepted",
+   "label": "Microtermes mangzhuangensis Huang & Zhu, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084708",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes mariae": {
+  "gbif": {
+   "key": 9717827,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes mariae Bacchus, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XY",
+   "status": "accepted",
+   "label": "Microtermes mariae Bacchus, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084709",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes menglunensis": {
+  "gbif": {
+   "key": 9785574,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes menglunensis Zhu & Huang, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "437XZ",
+   "status": "accepted",
+   "label": "Microtermes menglunensis Zhu & Huang, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084710",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes mengpengensis": {
+  "gbif": {
+   "key": 9800938,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes mengpengensis Zhu & Huang, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "437Y2",
+   "status": "accepted",
+   "label": "Microtermes mengpengensis Zhu & Huang, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084711",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes microthorax": {
+  "gbif": {
+   "key": 8760467,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes microthorax Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "437Y3",
+   "status": "accepted",
+   "label": "Microtermes microthorax Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084713",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes mokeetsei": {
+  "gbif": {
+   "key": 9757054,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes mokeetsei Fuller, 1922",
+   "accepted": null
+  },
+  "col": {
+   "id": "437Y4",
+   "status": "accepted",
+   "label": "Microtermes mokeetsei Fuller, 1922",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084714",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes mulii": {
+  "gbif": {
+   "key": 9798048,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes mulii Bacchus, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "437Y5",
+   "status": "accepted",
+   "label": "Microtermes mulii Bacchus, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084715",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes mycophagus": {
+  "gbif": {
+   "key": 9805658,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes mycophagus (Desneux, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "437Y6",
+   "status": "accepted",
+   "label": "Microtermes mycophagus (Desneux, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084716",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes najdensis": {
+  "gbif": {
+   "key": 9698620,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes najdensis Harris, 1964",
+   "accepted": null
+  },
+  "col": {
+   "id": "437Y7",
+   "status": "accepted",
+   "label": "Microtermes najdensis Harris, 1964",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084717",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes neghelliensis": {
+  "gbif": {
+   "key": 9808599,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes neghelliensis Ghidini, 1937",
+   "accepted": null
+  },
+  "col": {
+   "id": "437Y8",
+   "status": "accepted",
+   "label": "Microtermes neghelliensis Ghidini, 1937",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084718",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes obesi": {
+  "gbif": {
+   "key": 8980628,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes obesi Holmgren, 1912",
+   "accepted": null
+  },
+  "col": {
+   "id": "437Y9",
+   "status": "accepted",
+   "label": "Microtermes obesi Holmgren, 1912",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591980",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes occidentalis": {
+  "gbif": {
+   "key": 9695828,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes occidentalis Fuller, 1922",
+   "accepted": null
+  },
+  "col": {
+   "id": "73K4C",
+   "status": "accepted",
+   "label": "Microtermes occidentalis Fuller, 1922",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084719",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes osborni": {
+  "gbif": {
+   "key": 9683987,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes osborni Emerson, 1928",
+   "accepted": null
+  },
+  "col": {
+   "id": "437YB",
+   "status": "accepted",
+   "label": "Microtermes osborni Emerson, 1928",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084720",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes pallidiventris": {
+  "gbif": {
+   "key": 9754150,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes pallidiventris Harris, 1953",
+   "accepted": null
+  },
+  "col": {
+   "id": "437YD",
+   "status": "accepted",
+   "label": "Microtermes pallidiventris Harris, 1953",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084721",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes pamelae": {
+  "gbif": {
+   "key": 9721690,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes pamelae Bacchus, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RJSB",
+   "status": "accepted",
+   "label": "Microtermes pamelae Bacchus, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084722",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes problematicus": {
+  "gbif": {
+   "key": 9778661,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes problematicus Grassé, 1937",
+   "accepted": null
+  },
+  "col": {
+   "id": "437YF",
+   "status": "accepted",
+   "label": "Microtermes problematicus Grassé, 1937",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084723",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes pusillus": {
+  "gbif": {
+   "key": 9714327,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes pusillus Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "437YG",
+   "status": "accepted",
+   "label": "Microtermes pusillus Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084724",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes redenianus": {
+  "gbif": {
+   "key": 8921358,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes redenianus (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "437YH",
+   "status": "accepted",
+   "label": "Microtermes redenianus (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084725",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes sakalava": {
+  "gbif": {
+   "key": 9786315,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes sakalava Cachan, 1949",
+   "accepted": null
+  },
+  "col": {
+   "id": "437YJ",
+   "status": "accepted",
+   "label": "Microtermes sakalava Cachan, 1949",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084726",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes sindensis": {
+  "gbif": {
+   "key": 9660681,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes sindensis (Desneux, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "437YK",
+   "status": "accepted",
+   "label": "Microtermes sindensis (Desneux, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084727",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes sjostedti": {
+  "gbif": {
+   "key": 9745938,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes sjostedti Emerson, 1928",
+   "accepted": null
+  },
+  "col": {
+   "id": "437YL",
+   "status": "accepted",
+   "label": "Microtermes sjostedti Emerson, 1928",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084728",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes somaliensis": {
+  "gbif": {
+   "key": 9717123,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes somaliensis (Sjöstedt, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "437YM",
+   "status": "accepted",
+   "label": "Microtermes somaliensis (Sjöstedt, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084729",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes subhyalinus": {
+  "gbif": {
+   "key": 9768444,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes subhyalinus Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "437YN",
+   "status": "accepted",
+   "label": "Microtermes subhyalinus Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084730",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes thoracalis": {
+  "gbif": {
+   "key": 9709790,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes thoracalis Sjöstedt, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "437YQ",
+   "status": "accepted",
+   "label": "Microtermes thoracalis Sjöstedt, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084731",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes toumodiensis": {
+  "gbif": {
+   "key": 9734543,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes toumodiensis Grassé, 1937",
+   "accepted": null
+  },
+  "col": {
+   "id": "437YR",
+   "status": "accepted",
+   "label": "Microtermes toumodiensis Grassé, 1937",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084732",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes tragardhi": {
+  "gbif": {
+   "key": 9058402,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes tragardhi (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "437YS",
+   "status": "accepted",
+   "label": "Microtermes tragardhi (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084733",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes tsavoensis": {
+  "gbif": {
+   "key": 9769171,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes tsavoensis Bacchus, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "437YT",
+   "status": "accepted",
+   "label": "Microtermes tsavoensis Bacchus, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084734",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes unicolor": {
+  "gbif": {
+   "key": 8985905,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes unicolor Snyder, 1933",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RK4B",
+   "status": "accepted",
+   "label": "Microtermes unicolor Snyder, 1933",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084735",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes upembae": {
+  "gbif": {
+   "key": 9653619,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes upembae Harris, 1958",
+   "accepted": null
+  },
+  "col": {
+   "id": "437YV",
+   "status": "accepted",
+   "label": "Microtermes upembae Harris, 1958",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084736",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes vadschaggae": {
+  "gbif": {
+   "key": 8876497,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes vadschaggae (Sjöstedt, 1907)",
+   "accepted": null
+  },
+  "col": {
+   "id": "437YW",
+   "status": "accepted",
+   "label": "Microtermes vadschaggae (Sjöstedt, 1907)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q124987143",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microtermes yemenensis": {
+  "gbif": {
+   "key": 9678755,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microtermes yemenensis Wood, Lamb & Bednarzik, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "437YX",
+   "status": "accepted",
+   "label": "Microtermes yemenensis Wood, Lamb & Bednarzik, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084737",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

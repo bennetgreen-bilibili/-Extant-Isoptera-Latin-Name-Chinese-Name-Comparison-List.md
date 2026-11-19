@@ -1,0 +1,24 @@
+{
+ "Afrosubulitermes congoensis": {
+  "gbif": {
+   "key": 9686777,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Afrosubulitermes congoensis Emerson, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "65HKQ",
+   "status": "accepted",
+   "label": "Afrosubulitermes congoensis Emerson, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225289",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

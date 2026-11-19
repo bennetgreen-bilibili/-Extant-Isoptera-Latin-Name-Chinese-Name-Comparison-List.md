@@ -1,0 +1,167 @@
+{
+ "Orthognathotermes aduncus": {
+  "label": "Orthognathotermes aduncus Emerson, 1949",
+  "match": "exact",
+  "notes": "",
+  "otu": 85676,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85676/overview",
+  "valid_label": null,
+  "valid_otu": 85676,
+  "verified": false
+ },
+ "Orthognathotermes brevipilosus": {
+  "label": "Orthognathotermes brevipilosus Snyder, 1926",
+  "match": "exact",
+  "notes": "",
+  "otu": 85677,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85677/overview",
+  "valid_label": null,
+  "valid_otu": 85677,
+  "verified": false
+ },
+ "Orthognathotermes gibberorum": {
+  "label": "Orthognathotermes gibberorum Mathews, 1977",
+  "match": "exact",
+  "notes": "",
+  "otu": 85678,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85678/overview",
+  "valid_label": null,
+  "valid_otu": 85678,
+  "verified": false
+ },
+ "Orthognathotermes heberi": {
+  "label": "Orthognathotermes heberi Raw & Egler, 1985",
+  "match": "exact",
+  "notes": "",
+  "otu": 85679,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85679/overview",
+  "valid_label": null,
+  "valid_otu": 85679,
+  "verified": false
+ },
+ "Orthognathotermes humilis": {
+  "label": "Orthognathotermes humilis Constantino, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85680,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85680/overview",
+  "valid_label": null,
+  "valid_otu": 85680,
+  "verified": false
+ },
+ "Orthognathotermes insignis": {
+  "label": "Orthognathotermes insignis Araujo, 1977",
+  "match": "exact",
+  "notes": "",
+  "otu": 85681,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85681/overview",
+  "valid_label": null,
+  "valid_otu": 85681,
+  "verified": false
+ },
+ "Orthognathotermes longilamina": {
+  "label": "Orthognathotermes longilamina Da Rocha & Cancello, 2009",
+  "match": "exact",
+  "notes": "",
+  "otu": 85682,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85682/overview",
+  "valid_label": null,
+  "valid_otu": 85682,
+  "verified": false
+ },
+ "Orthognathotermes macrocephalus": {
+  "label": "Orthognathotermes macrocephalus (Holmgren, 1906)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85683,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85683/overview",
+  "valid_label": null,
+  "valid_otu": 85683,
+  "verified": false
+ },
+ "Orthognathotermes mirim": {
+  "label": "Orthognathotermes mirim Da Rocha & Cancello, 2009",
+  "match": "exact",
+  "notes": "",
+  "otu": 85684,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85684/overview",
+  "valid_label": null,
+  "valid_otu": 85684,
+  "verified": false
+ },
+ "Orthognathotermes okeyma": {
+  "label": "Orthognathotermes okeyma Da Rocha & Cancello, 2009",
+  "match": "exact",
+  "notes": "",
+  "otu": 85685,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85685/overview",
+  "valid_label": null,
+  "valid_otu": 85685,
+  "verified": false
+ },
+ "Orthognathotermes orthognathus": {
+  "label": "Orthognathotermes orthognathus (Silvestri, 1903)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85686,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85686/overview",
+  "valid_label": null,
+  "valid_otu": 85686,
+  "verified": false
+ },
+ "Orthognathotermes pilosus": {
+  "label": "Orthognathotermes pilosus Da Rocha & Cancello, 2009",
+  "match": "exact",
+  "notes": "",
+  "otu": 85687,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85687/overview",
+  "valid_label": null,
+  "valid_otu": 85687,
+  "verified": false
+ },
+ "Orthognathotermes tubesauassu": {
+  "label": "Orthognathotermes tubesauassu Da Rocha & Cancello, 2009",
+  "match": "exact",
+  "notes": "",
+  "otu": 85688,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85688/overview",
+  "valid_label": null,
+  "valid_otu": 85688,
+  "verified": false
+ },
+ "Orthognathotermes uncimandibularis": {
+  "label": "Orthognathotermes uncimandibularis Da Rocha & Cancello, 2009",
+  "match": "exact",
+  "notes": "",
+  "otu": 85689,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85689/overview",
+  "valid_label": null,
+  "valid_otu": 85689,
+  "verified": false
+ },
+ "Orthognathotermes wheeleri": {
+  "label": "Orthognathotermes wheeleri Snyder, 1923",
+  "match": "exact",
+  "notes": "",
+  "otu": 85690,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85690/overview",
+  "valid_label": null,
+  "valid_otu": 85690,
+  "verified": false
+ }
+}

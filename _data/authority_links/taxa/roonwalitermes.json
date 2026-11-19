@@ -1,0 +1,24 @@
+{
+ "Roonwalitermes wadhwai": {
+  "gbif": {
+   "key": 9687860,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Roonwalitermes wadhwai Bose, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "78WC6",
+   "status": "accepted",
+   "label": "Roonwalitermes wadhwai Bose, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084327",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Diagnose genérica en Sands 1972, pp. 105–108. El original solo aporta el tamaño corporal (anchura cefálica W, mm), el número de espolones apicales de la tibia anterior, las proporciones de los dientes mandibulares, la constricción de los notos meso- y metatorácicos (M/W), la fontanela y la pilosidad cefálica (cuando las hay), así como la estructura del tubo digestivo y de la válvula entérica; no registra el número de segmentos antenales, la forma del pronoto ni la venación alar, por lo que esta entrada no se completa. Los puntos decimales transcritos como «*» y las confusiones entre i/1 en el OCR se han normalizado a cifras arábigas según el contexto.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Algunas especies son afines a Astalotermes, y el único carácter genérico que permite separar ambos géneros con claridad es la presencia de espinitas en las almohadillas de la válvula entérica. El resto de los caracteres (mandíbulas del alado y del obrero, fontanela, longitud del tubo digestivo del obrero, desarrollo del segmento mixto) varía mucho, por lo que Sands supuso que ambos géneros podrían ser agrupaciones artificiales."
+  },
+  {
+   "label": "Obrero",
+   "text": "Mediano a muy grande, W 0.78–1.09 mm. Tibia anterior ligeramente dilatada o esbelta, Ti/Tw 4.54–7.08, con 3 espolones apicales; el tercero es evidente y nunca está reducido. Diente apical mandibular de corto a largo, La/Li 0.40–0.88, Ra/Ri 0.62–1.10; el extremo proximal del diente submarginal izquierdo está desde apenas hasta muy separado de la prominencia molar, o bien separado por una escotadura profunda; los dientes marginales derechos están alineados, o bien el primer diente marginal está retrasado. La unión del intestino medio con el posterior va desde oblicua hasta una superposición de aproximadamente el doble de la anchura del intestino medio; el extremo proximal del intestino posterior se sitúa a la derecha del nódulo de Malpighi y, en los ejemplares más largos, puede atravesarlo hasta la mitad. La base de la válvula entérica es de débil a fuertemente bilobulada o trilobulada y está unida por un cuello que va de evidente a muy largo; en abdomen sin disecar se sitúa de ventral a dorsal. Las almohadillas de la válvula entérica llevan escamas, la mayoría de las cuales termina en su borde posterior en 1 espinita diminuta, y ninguna sobresale por el orificio valvular."
+  },
+  {
+   "label": "Alado",
+   "text": "Mediano a muy grande, W 0.98–1.61 mm. Tibia anterior con 3 espolones apicales; el tercero es solo algo menor que los otros dos. Diente apical mandibular de corto a medianamente largo, La/Li 0.46–0.80, Ra/Ri 0.58–1.07; el extremo proximal del diente submarginal izquierdo está desde apenas hasta muy separado de la prominencia molar, o bien separado por una escotadura evidente; el diente apical y el ápice del diente marginal derechos quedan casi alineados, y el borde anterior del primer diente marginal es claramente más largo que el del segundo, o casi igual. Los notos meso- y metatorácicos son desde bastante estrechos hasta algo anchos en la constricción, M/W 0.24–0.35; la sutura transversa está siempre presente, a veces débil."
+  }
+ ]
+}

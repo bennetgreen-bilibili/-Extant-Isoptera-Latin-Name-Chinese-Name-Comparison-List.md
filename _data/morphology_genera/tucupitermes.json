@@ -1,0 +1,21 @@
+{
+ "zh_name": "图库皮白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "左上颚切缘长为端齿至 M1+2 距离的 2 倍；stomodeal valve 长为 crop 的 2 倍；Malpighian ampullae 发达，右腹视与背视均可见；mesenteric tongue 长而略呈球状，达腹部中线；P1 与 P3 的连接在任何体视下均不可见，仅见一小的双叶 seating。为该亚科目前已知体型最大者（文题即称 the largest Apicotermitinae）。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头壳深黄，具向顶区汇合的深色纵肌痕；fontanelle 白、凸、滴状。头壳刚毛少、大小不一，后区无刚毛；后唇基小、略膨，刚毛与头壳者同大；上唇凸，长于后唇基与唇基之和，刚毛较粗。触角 13 节，I<II，III 短于其余各节。上颚粗壮：左上颚端齿短于 M1+2；端齿至 M1+2 的距离相对较近，切缘长为该距离的 2 倍；M1+2 与 M3 间切口明显且远离 M1+2；M3 尖，与磨突距离短；磨突锥形，具沟状纹与基部鳞片。右颚端齿略小于 M1，第一缘齿明显大于其余齿；M1 后缘宽于磨突；M1 与 M2 间成 130°；M2 锥形；磨板凹、无沟，具沟状纹与基部鳞片。胸部淡黄；前胸背板宽于头宽之半，边缘多刚毛；中、后胸背板侧缘与后缘具刚毛。胫节较腿节色浅，前表面多不规则刺；前足基节前面具一列明显的刺状刚毛。腹部半透明，背板与腹板被许多大小不一的刚毛。消化道：crop 小、紧接胸部之后；gizzard 退化，无 armature，具 6 个一级 pulvilli；stomodeal valve 很长；中肠具 4 个发达的细长 Malpighian ampullae；P1 长；P2 不对称、三叶；P3 球状，经拱起的 isthmus 接 P4。量度：种级（Table 1，20 头工蚁）。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0055",
+   "citation": "Almeida-Azevedo R.; Acioli A. N. S.; Heleodoro R.; Morais J. W.; Brown G. G.; Kille P.; Cunha L.; Azevedo R. A. 2025. Tucupitermes, the largest Apicotermitinae (Isoptera, Termitidae) from the Amazon Rainforest. Zootaxa 5633(1): 186–194. https://doi.org/10.11646/zootaxa.5633.1.11",
+   "locator": "Tucupitermes gen. nov. — Description: Imago / Genus Diagnosis / Genus Description (Worker) / Digestive tube（Zootaxa 5633: 187–191）"
+  }
+ ],
+ "note": "属级把「Genus Diagnosis」与「Genus Description」分列；imago 原文记为 Unknown，故不设「有翅成虫」节；无兵蚁节（soldierless）。属级量度未给，量度为种级。"
+}

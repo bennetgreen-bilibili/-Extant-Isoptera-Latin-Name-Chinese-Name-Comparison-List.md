@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Combine hand-written genus morphology descriptions into _data/morphology_genera.json.
+"""Combine hand-written genus morphology descriptions into the _data/morphology_genera/ shards.
 
 Each file in descriptions/ is a flat JSON object keyed by page URL, e.g.
 "/genus/allotermes/".  Entries carry sections (label/text), one or more
@@ -15,12 +15,18 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[3]
+sys.path.insert(0, str(ROOT / "_tools"))
+import shard_io  # noqa: E402
+
+DATA = "morphology_genera"
 SRC = Path(__file__).resolve().parent / "descriptions"
-OUT = ROOT / "_data" / "morphology_genera.json"
 
 
 def main() -> int:
-    merged: dict[str, dict] = {}
+    # Start from what is already on disk: this builder only owns the genera that
+    # have a description file, and must not drop the ones that do not.
+    existing = shard_io.load(DATA)
+    merged: dict[str, dict] = dict(existing)
     origin: dict[str, str] = {}
     for path in sorted(SRC.glob("*.json")):
         data = json.loads(path.read_text(encoding="utf-8"))
@@ -29,7 +35,7 @@ def main() -> int:
         for url, entry in data.items():
             if not url.startswith("/genus/") or not url.endswith("/"):
                 raise SystemExit(f"{path}: bad page URL {url!r}")
-            if url in merged:
+            if url in origin:
                 raise SystemExit(f"{path}: duplicate {url} (already in {origin[url]})")
             if not entry.get("sections"):
                 raise SystemExit(f"{path}: {url} has no sections")
@@ -46,8 +52,10 @@ def main() -> int:
             clean["sources"] = srcs
             merged[url] = clean
             origin[url] = path.name
-    OUT.write_text(json.dumps(merged, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"wrote {OUT.relative_to(ROOT)}: {len(merged)} genera from {len(list(SRC.glob('*.json')))} file(s)")
+    written, removed = shard_io.save(DATA, merged)
+    print(f"wrote _data/{DATA}/: {len(merged)} genera ({len(existing)} kept, "
+          f"{written} files written, {removed} removed) from "
+          f"{len(list(SRC.glob('*.json')))} file(s)")
     return 0
 
 

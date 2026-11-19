@@ -1,0 +1,89 @@
+{
+ "fetched_at": "2026-10-30T15:50:02Z",
+ "latin": "Ceratokalotermes",
+ "papers": [
+  {
+   "abstract": "",
+   "abstract_chars": 0,
+   "abstract_source": "",
+   "abstract_truncated": false,
+   "authors": [
+    "Silvia Ghesini",
+    "D. Simon",
+    "Mario Marini"
+   ],
+   "cited_by": 13,
+   "date": "2014-01-01",
+   "doi": "10.1007/s00040-013-0335-1",
+   "doi_url": "https://doi.org/10.1007/s00040-013-0335-1",
+   "id": "https://openalex.org/W2027711535",
+   "issue": "2",
+   "language": "en",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W2027711535",
+   "pages": "123-131",
+   "title": "Kalotermes sinaicus Kemner (Isoptera, Kalotermitidae): new morphological and genetic evidence, and assignment to the new genus Longicaputermes gen. nov",
+   "type": "article",
+   "venue": "Insectes Sociaux",
+   "volume": "61",
+   "year": 2014
+  },
+  {
+   "abstract": "Pillotina spirochaetes have been observed in the hindguts of wood-eating cockroaches (Cryptocercus punctulatus), and in 25 out of 28 species of termites examined. They were especially abundant in 21 species of dry wood termites of the family Kalotermitidae, from Europe, North America and Australia. These included many species of Kalotermes and one or a few of the following: Glyptotermes, Bifidotermes, Neotermes, Ceratokalotermes, Paraneotermes, Cryptotermes, Porotermes, Marginitermes, Pterotermes, Zootermopsis, Reticulitermes, Coptotermes, Heterotermes, and nasutitermitids. Identifications of pillotinas were made on the basis of large size (0.5--2 micromtere in diameter, 50 to greater than 100 micrometers in length) and wave pattern; these were verified by electron microscopy in K. schwarzi, Pterotermes occidentis and others. Pillotinas were also present in all species of subterranean termites (Family Rhinotermitidae) examined, and in the most primitive Australian termite, Mastotermes darwiniensis (Family Mastotermitidae). They were not observed in damp wood termites (Family Hodotermidiae). Pillotinas are invariably associated with a rich, complex xylophagous microbial community composed primarily of motile prokaryotes, and hypermastigote and polymastigote flagellates. Some have been previously described by those primarily concerned with termite hindgut protozoa. Observations were made on their modes of behaviour, division, and microbial associates. A new genus of spirochaetes, Hollandina, is also described. It is distinguished from Pillotina by a smaller size and several ultrastructural features, but is otherwise closely related taxonomically. Evidence is provided to support Hollande and Gharagozlou's (1967) concept that the pillotinas and hollandinas deserve the taxonomic status of 'family' and that they should be classified with the cristispire siprochaetes a-cording to the scheme developed by Hovind-Hougen (1976). Spirochaetes are treated as a Phylum of the Kingdom Monera (Prokaryota) in the five kingdom system of Whittaker (1969).",
+   "abstract_chars": 2071,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Leleng P. To",
+    "Lynn Margulis",
+    "A T Cheung"
+   ],
+   "cited_by": 25,
+   "date": "1978-01-01",
+   "doi": "",
+   "doi_url": "",
+   "id": "https://openalex.org/W19144816",
+   "issue": "88",
+   "language": "en",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W19144816",
+   "pages": "103-33",
+   "title": "Pillotinas and hollandinas: distribution and behaviour of large spirochaetes symbiotic in termites.",
+   "type": "article",
+   "venue": "PubMed",
+   "volume": "22",
+   "year": 1978
+  },
+  {
+   "abstract": "The unmitigated pest risk potential for the importation of unprocessed logs and chips of species of Pinus (Pinus radiata, P. elliottii Engelm. var. elliottii, P. taeda L., and P. caribaea var. hondurensis, principally) from Australia into the United States was assessed by estimating the likelihood and consequences of introduction of representative insects and pathogens of concern. Eleven individual pest risk assessments were prepared, nine dealing with insects and two with pathogens. The selected organisms were representative examples of insects and pathogens found on foliage, on the bark, in the bark, and in the wood of Pinus. Among the insects and pathogens assessed for logs as the commodity, high risk potentials were assigned to two introduced European bark beetles (Hylurgus ligniperda and Hylastes ater), the exotic bark anobiid (Ernobius mollis), ambrosia beetles (Platypus subgranosus, Amasa truncatus; Xyleborus perforans), an introduced wood wasp (Sirex noctilio), dampwood termite (Porotermes adamsoni), giant termite (Mastotermes darwiniensis), drywood termites (Neotermes insularis; Kalotermes rufi notum, K. banksiae; Ceratokalotermes spoliator; Glyptotermes tuberculatus; Bifi ditermes condonensis; Cryptotermes primus, C. brevis, C. domesticus, C. dudleyi, C. cynocephalus), and subterranean termites (Schedorhinotermes intermedius intermedius, S. i. actuosus, S. i. breinli, S. i. seclusus, S. reticulatus; Heterotermes ferox, H. paradoxus; Coptotermes acinaciformis, C. frenchi, C. lacteus, C. raffrayi; Microcerotermes boreus, M. distinctus, M. implicadus, M. nervosus, M. turneri; Nasutitermes exitiosis). A moderate pest risk potential was assigned to pine loopers (Chlenias spp.), endemic weevils (Aesiotes spp.), Sphaeropsis sapinea, and the Armillaria root rot fungi (Armillaria hinnulea, A. luteobubalina, A. novae-zealandiae, and A. pallidula). When chips were considered as the commodity, the risk potentials dropped from high to moderate for the two bark beetles and the ambrosia beetles and dropped from high to low for the Sirex woodwasp and the dampwood, giant, drywood, and subterranean termites. The risk potentials for the Diplodia shoot blight pathogen and the Armillaria root rot fungi dropped from moderate to low for the chip commodity. For those organisms of concern that are associated with logs and chips of Australian Pinus, specifi c phytosanitary measures may be required to ensure the quarantine safety of proposed importations.",
+   "abstract_chars": 2482,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "John T. Kliejunas",
+    "Harold H. Burdsall",
+    "Gregg A. DeNitto",
+    "Andris Eglitis",
+    "Dennis A. Haugen",
+    "Michael I. Haverty",
+    "Jessie Micales Glaeser"
+   ],
+   "cited_by": 7,
+   "date": "2006-01-01",
+   "doi": "",
+   "doi_url": "",
+   "id": "https://openalex.org/W289007575",
+   "issue": "",
+   "language": "en",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W289007575",
+   "pages": "",
+   "title": "Pest risk assessment of the importation into the United States of unprocessed Pinus logs and chips from Australia",
+   "type": "article",
+   "venue": "",
+   "volume": "06",
+   "year": 2006
+  }
+ ],
+ "zh": "角木白蚁属"
+}

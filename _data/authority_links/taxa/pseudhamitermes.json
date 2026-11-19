@@ -1,0 +1,46 @@
+{
+ "Pseudhamitermes khmerensis": {
+  "gbif": {
+   "key": 9796106,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudhamitermes khmerensis Noirot, 1966",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NN7R",
+   "status": "accepted",
+   "label": "Pseudhamitermes khmerensis Noirot, 1966",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084264",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Pseudhamitermes longignathus": {
+  "gbif": {
+   "key": 9712485,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Pseudhamitermes longignathus (Ahmad, 1965)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4NN7S",
+   "status": "accepted",
+   "label": "Pseudhamitermes longignathus (Ahmad, 1965)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084267",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

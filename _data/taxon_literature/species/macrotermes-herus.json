@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-11",
+ "sections": [
+  {
+   "heading": "黑猩猩 B 群的“钓取”记录",
+   "paragraphs": [
+    {
+     "text": "据摘要，Uehara（1982）记录坦桑尼亚 Mahale 山地黑猩猩 B 群在湿季前半段大规模使用“钓取”技术取食优势大白蚁（Macrotermes herus），粪便分析显示 B 群取食的白蚁数量远多于 K 群；作者认为相邻黑猩猩群会依局部昆虫区系差异采用相同或相似的工具技术。",
+     "src": [
+      "S0148"
+     ],
+     "text_en": "According to the abstract, Uehara (1982) recorded that chimpanzee group B in the Mahale Mountains, Tanzania, used ‘fishing’ techniques on a large scale to feed on Macrotermes herus during the first half of the wet season, and faecal analysis showed that group B consumed far more termites than group K; the author considered that neighbouring chimpanzee groups adopt the same or similar tool techniques according to differences in the local insect fauna.",
+     "text_es": "Según el resumen, Uehara (1982) documentó que el grupo B de chimpancés de las montañas Mahale (Tanzania) emplea de forma masiva la técnica de «pesca» para alimentarse de Macrotermes herus durante la primera mitad de la estación húmeda, y que el análisis de heces indica que el grupo B consume muchas más termitas que el grupo K; el autor sostiene que grupos vecinos de chimpancés adoptan técnicas iguales o similares en función de las diferencias locales en la entomofauna."
+    }
+   ],
+   "heading_en": "‘Fishing’ records for chimpanzee group B",
+   "heading_es": "Registros de «pesca» en el grupo B de chimpancés"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0148",
+   "citation": "Uehara, S. 1982. Seasonal changes in the techniques employed by wild chimpanzees in the Mahale Mountains, Tanzania, to feed on termites (Pseudacanthotermes spiniger). Folia Primatologica.",
+   "doi": "10.1159/000156020"
+  }
+ ]
+}

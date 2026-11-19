@@ -1,0 +1,21 @@
+{
+ "zh_name": "无毛小白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与眼前各已知种的区别在于头面完全无毛与刚毛、体型较大以及上颚的齿式。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头卵形，黄色；毛与刚毛几乎缺失，仅头顶有一、二根。后颏很宽。触角 15 节，第三节与第四节等长，小于第二节。左上颚内缘略呈锯齿状。右上颚内缘具两枚微小的齿，一在中部之前，一靠近基部球状突起。前胸背板较头色浅；前后缘均凹缺；密被刚毛。腹节背板具多数刚毛。头长 2.07 mm；头宽 1.10 mm；触角长 1.57 mm；前胸背板长 0.50 mm、宽 0.87 mm；后胫节长 0.95 mm；左上颚长 0.73 mm。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写；原文语言为英文，仅有兵蚁，未记工蚁与有翅成虫；描述基于 2 头兵蚁与若干工蚁；删去图号、产地、命名说明与 Kohl 的野外观察。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

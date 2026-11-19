@@ -1,0 +1,33 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "巢的发现与原始位置",
+   "heading_en": "Discovery of the nest and its primitive position",
+   "heading_es": "Descubrimiento del nido y su posición primitiva",
+   "paragraphs": [
+    {
+     "src": [
+      "S0336",
+      "S0337"
+     ],
+     "text": "特雷高尖白蚁（<i>Apicotermes tragardhi</i>）由 Holmgren 于 1913 年以祖鲁兰北部 Ubombo 区沙地标本描述，其巢长期未知。据 Coaton（1962）记述，该巢直到 1955 年才在 Ubombo 区 Mbazwane 附近被采到，1958 年由 Schmidt 描述；此后确认该种在形态与巢型上都是尖白蚁属（<i>Apicotermes</i>）最原始的种类之一。据摘要，Schmidt（1958）认为该属的地下巢是研究筑巢行为演化的独特材料，这类种特异性的「冻结行为」比筑巢白蚁的形态特征更能说明种间系统发育关系。",
+     "text_en": "<i>Apicotermes tragardhi</i> was described by Holmgren in 1913 from Sandveld material of the Ubombo district in northern Zululand, and its nest long remained unknown. According to Coaton (1962), the nest was not collected until 1955, near Mbazwane in the Ubombo district, and was described by Schmidt in 1958; the species was subsequently confirmed as one of the most primitive members of <i>Apicotermes</i>, both morphologically and in the type of nest it constructs. According to the abstract, Schmidt (1958) regarded the subterranean nests of the genus as unique material for studying the evolution of nest-building behaviour, these species-specific examples of \"frozen behaviour\" revealing more about the phylogeny of the species than the morphological characters of the termites that build and inhabit them.",
+     "text_es": "<i>Apicotermes tragardhi</i> fue descrita por Holmgren en 1913 a partir de material del Sandveld del distrito de Ubombo, en el norte de Zululandia, y su nido permaneció desconocido durante mucho tiempo. Según Coaton (1962), el nido no se recolectó hasta 1955, cerca de Mbazwane, en el distrito de Ubombo, y fue descrito por Schmidt en 1958; posteriormente se confirmó que la especie es una de las más primitivas de <i>Apicotermes</i>, tanto por su morfología como por el tipo de nido que construye. Según el resumen, Schmidt (1958) consideraba los nidos subterráneos del género un material único para estudiar la evolución de la conducta de construcción, pues estos ejemplos específicos de cada especie de \"conducta congelada\" revelan más sobre la filogenia de las especies que los caracteres morfológicos de las termitas que los construyen y habitan."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0336",
+   "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+   "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+  },
+  {
+   "id": "S0337",
+   "citation": "Schmidt, R. S. 1958. The nest of Apicotermes trägårdhi (Isoptera). New evidence on the evolution of nest-building. Behaviour 12(1–2).",
+   "url": "https://doi.org/10.1163/156853957x00083"
+  }
+ ]
+}

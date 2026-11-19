@@ -1,0 +1,79 @@
+{
+ "Ophiotermes gracilis": {
+  "label": "Ophiotermes gracilis Weidner, 1974",
+  "match": "exact",
+  "notes": "",
+  "otu": 85108,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85108/overview",
+  "valid_label": null,
+  "valid_otu": 85108,
+  "verified": false
+ },
+ "Ophiotermes grandilabius": {
+  "label": "Ophiotermes grandilabius (Emerson, 1928)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85109,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85109/overview",
+  "valid_label": null,
+  "valid_otu": 85109,
+  "verified": false
+ },
+ "Ophiotermes mandibularis": {
+  "label": "Ophiotermes mandibularis (Sjöstedt, 1905)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85110,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85110/overview",
+  "valid_label": null,
+  "valid_otu": 85110,
+  "verified": false
+ },
+ "Ophiotermes mirandus": {
+  "label": "Ophiotermes mirandus (Sjöstedt, 1905)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85111,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85111/overview",
+  "valid_label": null,
+  "valid_otu": 85111,
+  "verified": false
+ },
+ "Ophiotermes receptus": {
+  "label": "Ophiotermes receptus (Sjöstedt, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85112,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85112/overview",
+  "valid_label": null,
+  "valid_otu": 85112,
+  "verified": false
+ },
+ "Ophiotermes shabaensis": {
+  "label": "Ophiotermes shabaensis Vincke & Bouillon, 1973",
+  "match": "exact",
+  "notes": "",
+  "otu": 85113,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85113/overview",
+  "valid_label": null,
+  "valid_otu": 85113,
+  "verified": false
+ },
+ "Ophiotermes ugandaensis": {
+  "label": "Ophiotermes ugandaensis Sjöstedt, 1925",
+  "match": "exact",
+  "notes": "",
+  "otu": 85114,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85114/overview",
+  "valid_label": null,
+  "valid_otu": 85114,
+  "verified": false
+ }
+}

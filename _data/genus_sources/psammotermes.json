@@ -1,0 +1,43 @@
+{
+ "latin": "Psammotermes",
+ "zh": "沙白蚁属",
+ "family": "psammotermitidae",
+ "treatise": true,
+ "citation": "Psammotermes Desneux, 1902: 436.",
+ "type_species": "Psammotermes hybostoma Desneux, 1902 by monotypy.",
+ "references": [
+  {
+   "ref": "Desneux, 1904b: 24–25",
+   "note": "Psammotermes; reference list; characters; species included; distribution; biology."
+  },
+  {
+   "ref": "Fuller, 1921: 20, 23, 46",
+   "note": "Psammotermes; key."
+  },
+  {
+   "ref": "Cachan, 1949: 185, 217",
+   "note": "Psammotermes; key; synonymy; characters; species included from Madagascar."
+  },
+  {
+   "ref": "Webb, 1961: 9",
+   "note": "Psammotermes; key."
+  },
+  {
+   "ref": "Roonwal, and Bose, 1964: 8",
+   "note": "Psammotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 20, 74, 75, pl. 5: fig. 1d",
+   "note": "Psammotermes; characters; imago/worker mandibles figured."
+  },
+  {
+   "ref": "Harris, 1968c: 6",
+   "note": "Psammotermes; key."
+  },
+  {
+   "ref": "Chaudhry et al., 1972: 12",
+   "note": "Psammotermes; characters."
+  }
+ ],
+ "nrefs": 46
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Subgénero establecido por Holmgren 1912, catalogado como el subgénero número 7, que incluye convexifrons Holmgren (Perú) y nigricornis Holmgren (Perú). El original no ofrece caracteres genéricos de obrero; el carácter del clípeo del obrero mencionado en la última frase del apartado del soldado es solo un auxilio de la clave y no basta para redactar un apartado de obrero. Los apartados del alado y del soldado pertenecen a troncos distintos de la clave y solo en conjunto forman la combinación diagnóstica del género, que no debe tomarse como descripción completa de una misma casta.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "En la clave, el alado y el soldado de este género ocupan troncos diferentes. En el alado, el primer diente mandibular es claramente mayor que el segundo, la cabeza es anchamente ovalada y generalmente se estrecha hacia delante, y la fontanela se sitúa muy atrás en la cabeza; el soldado corresponde a especies pequeñas, con mandíbulas sin parte apical, nasus corto y gruesamente cónico, antenas de 11 segmentos y perfil frontal convexo. Con ello el soldado se distingue de Occasitermes (nasus largo y gruesamente cónico, antenas de 13 segmentos, perfil frontal recto) y de Eutermellus (cabeza ligeramente constreñida por detrás de las antenas)."
+  },
+  {
+   "label": "Alado",
+   "text": "Primer diente mandibular claramente mayor que el segundo; cabeza anchamente ovalada, generalmente estrechada hacia delante; fontanela situada muy atrás en la cabeza, con el cerebro muy desarrollado en el interior de la cabeza (el original dice Gehirn stark entwickelt); clípeo aproximadamente tan largo como la semianchura, o más corto pero fuertemente convexo, transverso-ovalado y de color amarillo pálido."
+  },
+  {
+   "label": "Soldado",
+   "text": "Especies pequeñas. Mandíbulas sin parte apical (Spitzenteil); nasus corto, grueso y cónico; antenas de 11 segmentos; perfil frontal (Stirnprofil) convexo. La clave emplea además, como carácter auxiliar de la rama en que se sitúa el género, el clípeo del obrero, cuya base es aproximadamente tan larga como su semianchura."
+  }
+ ]
+}

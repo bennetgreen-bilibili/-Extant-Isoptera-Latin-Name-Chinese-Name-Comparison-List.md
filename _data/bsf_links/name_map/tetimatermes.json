@@ -1,0 +1,13 @@
+{
+ "Tetimatermes oliveirae": {
+  "label": "Tetimatermes oliveirae Fontes, 1986",
+  "match": "exact",
+  "notes": "",
+  "otu": 84154,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84154/overview",
+  "valid_label": null,
+  "valid_otu": 84154,
+  "verified": false
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "fetched_at": "2026-10-30T15:50:07Z",
+ "latin": "Chasitermes",
+ "papers": [
+  {
+   "abstract": "Chasitermes pax Scheffrahn & Carrijo gen. et sp. nov. is described from workers collected from a single colony in the Northern Range of Trinidad. The shape and texture of the unsclerotized enteric valve, tubular shape of the enteric valve seating, and prominent spherical mesenteric tongue of C. pax are the diagnostic characters for both the genus and species. A Bayesian phylogenetic analysis using the COI gene and including all neotropical Apicotermitinae genera described to date supports the new genus as a distinct terminal.",
+   "abstract_chars": 531,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Rudolf H. Scheffrahn",
+    "Tiago F. Carrijo"
+   ],
+   "cited_by": 2,
+   "date": "2023-01-11",
+   "doi": "10.3897/zookeys.1139.94972",
+   "doi_url": "https://doi.org/10.3897/zookeys.1139.94972",
+   "id": "https://openalex.org/W4315645409",
+   "issue": "",
+   "language": "en",
+   "oa_url": "https://doi.org/10.3897/zookeys.1139.94972",
+   "openalex_url": "https://openalex.org/W4315645409",
+   "pages": "127-136",
+   "title": "Chasitermes pax, a new genus and species of soldierless termite (Termitidae, Apicotermitinae) from the island of Trinidad",
+   "type": "article",
+   "venue": "ZooKeys",
+   "volume": "1139",
+   "year": 2023
+  },
+  {
+   "abstract": "Most genera of Apicotermitinae described in the Neotropics are still regarded as monotypic. In this paper, we describe a second species for the so far monotypic genus Chasitermes: Chasitermes tupan sp. nov., discovered in the Amazon Rainforest. The worker is characterized by external features, such as a strongly dilated tibia, and internal features, such as a very dilated first procodeal segment and long enteric valve seating. The description of this new taxon within the Apicotermitinae emphasizes the diversity of species of this subfamily, which remains largely unexplored in the Neotropics.",
+   "abstract_chars": 598,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Rayssa Almeida de Azevedo",
+    "Tiago F. Carrijo",
+    "Olga Pinzón-Florián",
+    "José Wellington de Morais",
+    "Renato Almeida de Azevedo"
+   ],
+   "cited_by": 0,
+   "date": "2026-07-20",
+   "doi": "10.13102/sociobiology.v73i3.11987",
+   "doi_url": "https://doi.org/10.13102/sociobiology.v73i3.11987",
+   "id": "https://openalex.org/W7170055056",
+   "issue": "3",
+   "language": "en",
+   "oa_url": "https://periodicos.uefs.br/index.php/sociobiology/article/download/11987/10320",
+   "openalex_url": "https://openalex.org/W7170055056",
+   "pages": "e11987-e11987",
+   "title": "Chasitermes tupan, a New Species of Apicotermitinae (Blattodea, Termitidae) from the Amazon Rainforest, with Addition to the Diagnosis of the Genus",
+   "type": "article",
+   "venue": "Sociobiology",
+   "volume": "73",
+   "year": 2026
+  }
+ ],
+ "zh": "蔡斯白蚁属"
+}

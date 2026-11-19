@@ -1,0 +1,21 @@
+{
+ "zh_name": "长足白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁二型，这一点在检索表中被特别标出（同群其余各属多为单型）；鼻相对狭锥形，触角 14 节，头常缢缩，上颚尖部仅具一枚明显的齿，触角第 3 节等于或长于第 4 节。Lacessititermes 第 3 节短于第 4 节且为单型；Hospitalitermes 单型且上颚尖部无齿。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "兵蚁二型。鼻相对狭锥形；触角 14 节；头常缢缩；上颚尖部具一枚明显的齿；触角第 3 节等于或长于第 4 节；足长。"
+  }
+ ],
+ "note": "Holmgren 1912 建立，名录列为第 16 亚属，仅 Eutermes (Longipeditermes) longipes Haviland（马六甲与婆罗洲）。有翅成虫在检索表中只作「(?Longipeditermes n. subg.)」附于 Hospitalitermes 项之后，作者存疑，故不设有翅成虫段；原文无工蚁属征。",
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+   "locator": "p. 60（Imagines 检索表 aa 项后附注）；p. 62（Soldaten 检索表 B/bb/bb/c）；p. 65（亚属名录第 16 亚属）"
+  }
+ ]
+}

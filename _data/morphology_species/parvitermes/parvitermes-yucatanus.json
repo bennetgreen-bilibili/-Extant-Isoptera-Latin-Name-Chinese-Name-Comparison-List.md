@@ -1,0 +1,25 @@
+{
+ "zh_name": "尤卡坦微白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁与工蚁均与 P. mesoamericanus 相似，仅下列特征不同。兵蚁头连象鼻长 1.28—1.46 mm，最大头宽 0.66—0.78 mm，前胸背板宽 0.34—0.44 mm，后胫节长 0.58—0.76 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "背观象鼻锥形，基部宽约为中点宽的1.6倍；侧观象鼻宽锥形。上颚端部短而很窄。触角11—12节（1>2<3=4）。后胫节通常短于头最大宽。前胸背板前叶边缘具少数较长刚毛（0.10 mm）。"
+  },
+  {
+   "label": "工蚁",
+   "text": "上颚磨板具约七条脊，磨板无背凹；端齿与第一缘齿形状及突出度相似；第三缘齿较小，与第一缘齿之间以微凹的切缘相隔。肠瓣具三列不规则的约7—12枚长、窄、亚三角形且略下弯的刺。"
+  }
+ ],
+ "note": "据 Scheffrahn (2016) 种级描述改写；原文为英文；有翅成虫未知；兵蚁与工蚁原文只记与 P. mesoamericanus 的差异，故未补写其共同特征；量度取正文；未译模式产地与图号。",
+ "sources": [
+  {
+   "id": "S0106",
+   "citation": "Scheffrahn R. H. 2016. Parvitermes (Isoptera, Termitidae, Nasutitermitinae) in Central America: Two new termite species and reassignment of Nasutitermes mexicanus. 10.3897/zookeys.617.10040",
+   "locator": "条目（Parvitermes-(Isoptera,-Termitidae,-Nasutitermitinae)-in-Central-America-Two-new-）"
+  }
+ ]
+}

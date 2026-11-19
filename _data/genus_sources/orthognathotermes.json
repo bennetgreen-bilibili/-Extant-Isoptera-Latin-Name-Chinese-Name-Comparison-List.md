@@ -1,0 +1,43 @@
+{
+ "latin": "Orthognathotermes",
+ "zh": "直颚白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Orthognathotermes Holmgren, 1910b: 286 [genus-group name available by indication of available type species].",
+ "type_species": "Mirotermes macrocephalus Holmgren, 1906 by original designation.",
+ "references": [
+  {
+   "ref": "Holmgren, 1912a: 97, 98, 118–120",
+   "note": "Orthognathotermes; characters; key; species included; systematic position."
+  },
+  {
+   "ref": "Snyder, 1926e: 70",
+   "note": "Orthognathotermes; characters."
+  },
+  {
+   "ref": "Morimoto, 1975b: 37",
+   "note": "Orthognathotermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 124–125",
+   "note": "Orthognathotermes; synonymy; characters."
+  },
+  {
+   "ref": "Mill, 1983a: 182, 185",
+   "note": "Orthognathotermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Nickle and Collins, 1992: 225, 227, 231",
+   "note": "Orthognathotermes; key; characters."
+  },
+  {
+   "ref": "Constantino, 1999a: 407, 419",
+   "note": "Orthognathotermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 24",
+   "note": "Orthognathotermes; key."
+  }
+ ],
+ "nrefs": 24
+}

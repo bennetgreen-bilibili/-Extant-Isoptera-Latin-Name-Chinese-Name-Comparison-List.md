@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "蚁丘土与肠道微生物",
+   "heading_en": "Mound Soil and Gut Microbes",
+   "heading_es": "Suelo del montículo y microbios intestinales",
+   "paragraphs": [
+    {
+     "src": [
+      "S0275"
+     ],
+     "text": "根据 Guimarães 等（2020）研究，巴西利亚 IBGE RECOR 保护区 campo sujo 的惠勒聚白蚁（<i>Syntermes wheeleri</i>）蚁丘土细菌多样性低于 100 m 外的 Cerrado 对照土（Shannon 指数以对照土最高）；只有对照土的 OTU 数随季节显著变化并随雨季推进而下降，旱季丘土中放线菌门（Actinobacteria）与变形菌门（Proteobacteria）的相对丰度显著高于对照。",
+     "text_en": "According to Guimarães et al. (2020), in campo sujo at the IBGE RECOR reserve in Brasília, bacterial diversity in mound soil of <i>Syntermes wheeleri</i> was lower than in Cerrado control soil 100 m away (Shannon index was highest in the control soil); only the control soil showed significant seasonal variation in OTU number, declining as the rainy season progressed, and during the dry season the relative abundance of Actinobacteria and Proteobacteria in mound soil was significantly higher than in the control.",
+     "text_es": "Según Guimarães et al. (2020), en campo sujo de la reserva IBGE RECOR de Brasilia, la diversidad bacteriana del suelo de los montículos de <i>Syntermes wheeleri</i> fue menor que la del suelo testigo de Cerrado situado a 100 m (el índice de Shannon fue máximo en el suelo testigo); solo el suelo testigo mostró variación estacional significativa del número de OTU, que disminuyó con el avance de la estación lluviosa, y en la estación seca la abundancia relativa de Actinobacteria y Proteobacteria en el suelo de los montículos fue significativamente mayor que en el testigo."
+    },
+    {
+     "src": [
+      "S0275"
+     ],
+     "text": "该种肠道 pH 为 9–10，而土壤 pH 为 5–6；肠道优势菌门为厚壁菌门（Firmicutes）、拟杆菌门（Bacteroidetes）与螺旋体门（Spirochaetes），与丘土、巢土以放线菌门和变形菌门为主明显不同。作者于 2017 年 9 月（旱季末）、11 月（过渡期）与 2018 年 3 月（雨季末）在 0–10 cm 与 50–60 cm 两层取样，27 份土样经 16S V3–V4 扩增（Bakt_341F/Bakt_805R）与 Illumina MiSeq 300 bp 测序。",
+     "text_en": "Gut pH in this species is 9–10, whereas soil pH is 5–6; the dominant gut phyla are Firmicutes, Bacteroidetes and Spirochaetes, in marked contrast to mound soil and nest soil, which are dominated by Actinobacteria and Proteobacteria. The authors sampled at two depths, 0–10 cm and 50–60 cm, in September 2017 (end of the dry season), November (transition) and March 2018 (end of the rainy season); 27 soil samples were subjected to 16S V3–V4 amplification (Bakt_341F/Bakt_805R) and Illumina MiSeq sequencing at 300 bp.",
+     "text_es": "El pH intestinal de esta especie es 9–10, mientras que el del suelo es 5–6; los filos dominantes del intestino son Firmicutes, Bacteroidetes y Spirochaetes, en marcado contraste con el suelo del montículo y del nido, dominados por Actinobacteria y Proteobacteria. Los autores muestrearon en dos profundidades, 0–10 cm y 50–60 cm, en septiembre de 2017 (final de la estación seca), noviembre (transición) y marzo de 2018 (final de la estación lluviosa); 27 muestras de suelo se sometieron a amplificación de 16S V3–V4 (Bakt_341F/Bakt_805R) y a secuenciación en Illumina MiSeq a 300 pb."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0275",
+   "citation": "Guimaraes, H. I. P.; Santana, R. H.; Silveira, R.; Otávio Henrique Bezerra Pinto; Betânia Ferraz Quirino; Barreto, C. C.; Bustamante, M.; Ricardo Henrique Krüger. 2020. Seasonal Variations in Soil Microbiota Profile of Termite (Syntermes wheeleri) Mounds in the Brazilian Tropical Savanna. MDPI AG.",
+   "doi": "10.3390/microorganisms8101482"
+  }
+ ]
+}

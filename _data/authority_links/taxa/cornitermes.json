@@ -1,0 +1,310 @@
+{
+ "Cornitermes acignathus": {
+  "gbif": {
+   "key": 8724065,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cornitermes acignathus Silvestri, 1901",
+   "accepted": null
+  },
+  "col": {
+   "id": "YG4H",
+   "status": "accepted",
+   "label": "Cornitermes acignathus Silvestri, 1901",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237530",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cornitermes bequaerti": {
+  "gbif": {
+   "key": 9688530,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cornitermes bequaerti Emerson, 1952",
+   "accepted": null
+  },
+  "col": {
+   "id": "YG4J",
+   "status": "accepted",
+   "label": "Cornitermes bequaerti Emerson, 1952",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237531",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cornitermes bolivianus": {
+  "gbif": {
+   "key": 9206354,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cornitermes bolivianus Snyder, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "YG4K",
+   "status": "accepted",
+   "label": "Cornitermes bolivianus Snyder, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237533",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cornitermes cumulans": {
+  "gbif": {
+   "key": 9791029,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cornitermes cumulans (Kollar, 1832)",
+   "accepted": null
+  },
+  "col": {
+   "id": "YG4L",
+   "status": "accepted",
+   "label": "Cornitermes cumulans (Kollar, 1832)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q10262370",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cornitermes falcatus": {
+  "gbif": {
+   "key": 9719605,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cornitermes falcatus Emerson, 1952",
+   "accepted": null
+  },
+  "col": {
+   "id": "YG4M",
+   "status": "accepted",
+   "label": "Cornitermes falcatus Emerson, 1952",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237534",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cornitermes incisus": {
+  "gbif": {
+   "key": 9816329,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cornitermes incisus Emerson, 1952",
+   "accepted": null
+  },
+  "col": {
+   "id": "YG4N",
+   "status": "accepted",
+   "label": "Cornitermes incisus Emerson, 1952",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237535",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cornitermes ovatus": {
+  "gbif": {
+   "key": 9700724,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cornitermes ovatus Emerson, 1952",
+   "accepted": null
+  },
+  "col": {
+   "id": "YG4T",
+   "status": "accepted",
+   "label": "Cornitermes ovatus Emerson, 1952",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237536",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cornitermes pilosus": {
+  "gbif": {
+   "key": 8787805,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cornitermes pilosus Holmgren, 1906",
+   "accepted": null
+  },
+  "col": {
+   "id": "6B4Y7",
+   "status": "accepted",
+   "label": "Cornitermes pilosus Holmgren, 1906",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237537",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cornitermes pugnax": {
+  "gbif": {
+   "key": 8739783,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cornitermes pugnax Emerson, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "YG4V",
+   "status": "accepted",
+   "label": "Cornitermes pugnax Emerson, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237538",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cornitermes silvestrii": {
+  "gbif": {
+   "key": 9681528,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cornitermes silvestrii Emerson, 1949",
+   "accepted": null
+  },
+  "col": {
+   "id": "YG4W",
+   "status": "accepted",
+   "label": "Cornitermes silvestrii Emerson, 1949",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237539",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cornitermes snyderi": {
+  "gbif": {
+   "key": 9771004,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cornitermes snyderi Emerson, 1952",
+   "accepted": null
+  },
+  "col": {
+   "id": "YG4X",
+   "status": "accepted",
+   "label": "Cornitermes snyderi Emerson, 1952",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237540",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cornitermes villosus": {
+  "gbif": {
+   "key": 9732044,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cornitermes villosus Emerson, 1952",
+   "accepted": null
+  },
+  "col": {
+   "id": "YG4Z",
+   "status": "accepted",
+   "label": "Cornitermes villosus Emerson, 1952",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237541",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cornitermes walkeri": {
+  "gbif": {
+   "key": 9712557,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cornitermes walkeri Snyder, 1929",
+   "accepted": null
+  },
+  "col": {
+   "id": "YG52",
+   "status": "accepted",
+   "label": "Cornitermes walkeri Snyder, 1929",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237542",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cornitermes weberi": {
+  "gbif": {
+   "key": 9455829,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cornitermes weberi Emerson, 1952",
+   "accepted": null
+  },
+  "col": {
+   "id": "YG53",
+   "status": "accepted",
+   "label": "Cornitermes weberi Emerson, 1952",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237543",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

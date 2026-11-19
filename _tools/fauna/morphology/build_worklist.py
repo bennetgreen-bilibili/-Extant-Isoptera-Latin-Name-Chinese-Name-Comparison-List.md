@@ -3,8 +3,8 @@
 Inputs (all generated/curated in-repo):
   _data/taxonomy.json       — 326 genera, family/subfamily names
   _data/fauna_genera.json   — 35 genera already described from Fauna Sinica (2000)
-  _data/genus_sources.json  — Treatise (2013) source pointers, not descriptions
-  _data/morphology_genera.json — genera whose literature-based description is already compiled
+  _data/genus_sources/      — Treatise (2013) source pointers, one file per genus
+  _data/morphology_genera/  — literature-based descriptions, one file per genus
 
 Outputs:
   _reports/genus-morphology-worklist.md
@@ -16,17 +16,21 @@ characters/keys. Treatise itself contains no morphological descriptions.
 """
 import csv
 import json
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[3]
+sys.path.insert(0, str(ROOT / "_tools"))
+import shard_io  # noqa: E402
+
 OUT_DIR = ROOT / "_reports"
 OUT_MD = OUT_DIR / "genus-morphology-worklist.md"
 OUT_CSV = OUT_DIR / "genus-morphology-worklist.csv"
 
 tax = json.load(open(ROOT / "_data/taxonomy.json", encoding="utf-8"))
-sources = json.load(open(ROOT / "_data/genus_sources.json", encoding="utf-8"))
+sources = shard_io.load("genus_sources")
 fauna = json.load(open(ROOT / "_data/fauna_genera.json", encoding="utf-8"))
-morph = json.load(open(ROOT / "_data/morphology_genera.json", encoding="utf-8"))
+morph = shard_io.load("morphology_genera")
 
 families = {f["id"]: f for f in tax["families"]}
 genera = sorted(tax["genera"], key=lambda g: (g["family"], g.get("subfamily") or "", g["latin"]))
@@ -98,7 +102,7 @@ with open(OUT_CSV, "w", encoding="utf-8-sig", newline="") as fh:
 lines = []
 lines.append("# 属级形态描述补写清单")
 lines.append("")
-lines.append("生成日期：2026-11-07。数据源：_data/taxonomy.json、_data/fauna_genera.json、_data/genus_sources.json、_data/morphology_genera.json。")
+lines.append("生成日期：2026-11-07。数据源：_data/taxonomy.json、_data/fauna_genera.json、_data/genus_sources/、_data/morphology_genera/。")
 lines.append("")
 lines.append("## 总览")
 lines.append("")

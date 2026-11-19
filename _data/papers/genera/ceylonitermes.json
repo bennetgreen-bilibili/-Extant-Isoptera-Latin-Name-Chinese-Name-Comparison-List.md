@@ -1,0 +1,83 @@
+{
+ "fetched_at": "2026-10-30T15:50:05Z",
+ "latin": "Ceylonitermes",
+ "papers": [
+  {
+   "abstract": "The genus Ceylonitermes Holmgren, 1912 represented merely by two species, is endemic to Oriental region. New species of Ceylonitermes, Ceylonitermes paulosus sp. nov. (Blattodea: Isoptera: Termitidae: Nasutitermitinae) is described from Kerala, India, based on the characters of soldiers and workers. Morphological measurements of soldiers and workers were given with suitable illustrations. A revised key of the Ceylonitermes was given for better identification. Key words: Ceylonitermes; Kerala; New species; Nasutitermitinae",
+   "abstract_chars": 527,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "CHINNU IPE",
+    "Jobin Mathew"
+   ],
+   "cited_by": 5,
+   "date": "2019-07-30",
+   "doi": "10.12976/jib/2019.11.1.3",
+   "doi_url": "https://doi.org/10.12976/jib/2019.11.1.3",
+   "id": "https://openalex.org/W2966055738",
+   "issue": "1",
+   "language": "en",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W2966055738",
+   "pages": "24-30",
+   "title": "New species of termite Ceylonitermes paulosus sp. nov. (Blattodea: Isoptera: Termitidae: Nasutitermitinae) from Kerala, India",
+   "type": "article",
+   "venue": "Journal of Insect Biodiversity",
+   "volume": "11",
+   "year": 2019
+  },
+  {
+   "abstract": "A new nasute termite Ceylonitermes nivedita sp. nov. (Isoptera: Termitidae) is described from the tropical rainforests of Manipur, India. Both the soldier and worker castes of the species are described. The workers are strongly dimorphic and no such dimorphism is reported hitherto among the 3 known species of Ceylonitermes. A revised dichotomous key to identify all the 4 known species of the genus is also provided. The proposed new species is a minor pest of bamboo. Key words: Ceylonitermes, India, Nasutitermitinae, key",
+   "abstract_chars": 525,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Jayati Basak",
+    "Rituparna Sengupta",
+    "Keloth Rajmohana",
+    "Balmohan Baraik"
+   ],
+   "cited_by": 1,
+   "date": "2020-09-01",
+   "doi": "10.12976/jib/2020.19.1.2",
+   "doi_url": "https://doi.org/10.12976/jib/2020.19.1.2",
+   "id": "https://openalex.org/W3082943651",
+   "issue": "1",
+   "language": "en",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W3082943651",
+   "pages": "8-13",
+   "title": "A new nasute-termite Ceylonitermes nivedita sp. nov. (Isoptera: Termitidae) from India along with first record of worker dimorphism",
+   "type": "article",
+   "venue": "Journal of Insect Biodiversity",
+   "volume": "19",
+   "year": 2020
+  },
+  {
+   "abstract": "This paper describes Snootitermes leuserensis, gen. et sp. nov. (collected from the Leuser Ecosystem, Sumatra), Hirtitermes brabazoni sp. nov. (collected from north Sulawesi) and the major soldier of Ceylonitermes indicola. It also includes a revised generic key to the Nasutitermitinae of Peninsular Malaysia, Java, Sumatra and Borneo and reassigns the South-East Asian Subulitermes-group of termites to the Nasutitermes-group. Aciculioiditermes denticulatus and A. sarawakensis are considered to be junior synonyms of Aciculioiditermes holmgreni. The genera Aciculioiditermes and Proaciculitermes are considered to be junior synonyms of Malaysiotermes. Therefore Aciculioiditermes holmgreni, Proaciculitermes orientalis, P. sabahensis, P. malayanus and P. lowi are all Malaysiotermes species. Tho's (1982, 1992) unpublished new genus (Genus A) is considered to be a new species of Ceylonitermes. Oriensubulitermes borneensis is shown to be a Subulioiditermes species, S. borneensis. Nasutitermes matangensiformis is shown to be a junior synonym of N. matangensis. Havilanditermes is shown to be a junior synonym of Nasutitermes.",
+   "abstract_chars": 1130,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "F. J. Gathorne-Hardy"
+   ],
+   "cited_by": 20,
+   "date": "2001-10-01",
+   "doi": "10.1080/002229301317067647",
+   "doi_url": "https://doi.org/10.1080/002229301317067647",
+   "id": "https://openalex.org/W2056255954",
+   "issue": "10",
+   "language": "en",
+   "oa_url": "https://doi.org/10.1080/002229301317067647",
+   "openalex_url": "https://openalex.org/W2056255954",
+   "pages": "1485-1506",
+   "title": "A review of the South-East Asian Nasutitermitinae (Isoptera: Termidae), with descriptions of one new genus and a new species and including a key to the genera",
+   "type": "article",
+   "venue": "Journal of Natural History",
+   "volume": "35",
+   "year": 2001
+  }
+ ],
+ "zh": "锡兰白蚁属"
+}

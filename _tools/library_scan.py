@@ -43,12 +43,14 @@ from datetime import datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "_tools"))
+import shard_io  # noqa: E402
+
 MANIFEST_PATH = ROOT / "_unpublished" / "文库" / "manifest.json"
 SOURCE_INDEX_PATH = ROOT / ".sources" / "index.json"
 TAXONOMY_PATH = ROOT / "_data" / "taxonomy.json"
 SPECIES_PATH = ROOT / "_data" / "species_by_genus.json"
 NAME_ISSUES_PATH = ROOT / "_data" / "name_issues.json"
-LITERATURE_PATH = ROOT / "_data" / "taxon_literature.json"
 PROGRESS_PATH = ROOT / "_reports" / "library-reading" / "progress.json"
 REFETCH_PATH = ROOT / "_reports" / "library-reading" / "refetch.json"
 
@@ -691,7 +693,7 @@ def scan(limit, focus_arg, date, top_n, abstract_limit=5):
     alias_token_map = build_alias_token_map(alias_names)
     zh_trie = build_zh_trie(zh_names)
     kw_trie = build_keyword_trie()
-    has_lit = load_json(LITERATURE_PATH, {}) or {}
+    has_lit = shard_io.load("taxon_literature")
 
     abstract_pool = sum(
         1 for rec in records

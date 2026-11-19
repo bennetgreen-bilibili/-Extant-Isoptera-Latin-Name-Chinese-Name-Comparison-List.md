@@ -1,0 +1,354 @@
+{
+ "Sinocapritermes albipennis": {
+  "gbif": {
+   "key": 9777974,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinocapritermes albipennis (Tsai & Chen, 1963)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XKPX",
+   "status": "accepted",
+   "label": "Sinocapritermes albipennis (Tsai & Chen, 1963)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084350",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinocapritermes fujianensis": {
+  "gbif": {
+   "key": 9663366,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinocapritermes fujianensis Xu & Ping, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XKPY",
+   "status": "accepted",
+   "label": "Sinocapritermes fujianensis Ping & Xu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084352",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinocapritermes guangxiensis": {
+  "gbif": {
+   "key": 9707046,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinocapritermes guangxiensis Xu & Ping, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XKPZ",
+   "status": "accepted",
+   "label": "Sinocapritermes guangxiensis Ping & Xu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084354",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinocapritermes magnus": {
+  "gbif": {
+   "key": 9695156,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinocapritermes magnus Xu & Ping, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XKQ2",
+   "status": "accepted",
+   "label": "Sinocapritermes magnus Ping & Xu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084356",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinocapritermes mushae": {
+  "gbif": {
+   "key": 6128458,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinocapritermes mushae (Oshima & Maki, 1919)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XKQ3",
+   "status": "accepted",
+   "label": "Sinocapritermes mushae (Oshima & Maki, 1919)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084358",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinocapritermes parvulus": {
+  "gbif": {
+   "key": 9676117,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinocapritermes parvulus (Yu & Ping, 1966)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XKQ4",
+   "status": "accepted",
+   "label": "Sinocapritermes parvulus (Yu & Ping, 1966)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084361",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinocapritermes planifrons": {
+  "gbif": {
+   "key": 9694038,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinocapritermes planifrons Xu & Ping, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XKQ5",
+   "status": "accepted",
+   "label": "Sinocapritermes planifrons Ping & Xu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084363",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinocapritermes pratensis": {
+  "gbif": {
+   "key": 9713220,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinocapritermes pratensis Xu & Ping, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XKQ6",
+   "status": "accepted",
+   "label": "Sinocapritermes pratensis Ping & Xu, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084365",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinocapritermes sinensis": {
+  "gbif": {
+   "key": 9809316,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinocapritermes sinensis Xu & Ping, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XKQ7",
+   "status": "accepted",
+   "label": "Sinocapritermes sinensis Ping & Xu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084367",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinocapritermes sinicus": {
+  "gbif": {
+   "key": 9726398,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinocapritermes sinicus (Li & Xiao, 1989)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XKQ8",
+   "status": "accepted",
+   "label": "Sinocapritermes sinicus (Li & Xiao, 1989)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084370",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinocapritermes songtaoensis": {
+  "gbif": {
+   "key": 9796905,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinocapritermes songtaoensis He, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XKQ9",
+   "status": "accepted",
+   "label": "Sinocapritermes songtaoensis He, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084372",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinocapritermes tianmuensis": {
+  "gbif": {
+   "key": 9645809,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinocapritermes tianmuensis Gao, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "6YQWN",
+   "status": "accepted",
+   "label": "Sinocapritermes tianmuensis Gao, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084374",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinocapritermes vicinus": {
+  "gbif": {
+   "key": 9682197,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinocapritermes vicinus (Xia, Gao, Pan, Tang & Tang, 1983)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XKQB",
+   "status": "accepted",
+   "label": "Sinocapritermes vicinus (Xia, Gao, Pan & Tang, 1983)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084376",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinocapritermes xiai": {
+  "gbif": {
+   "key": 9764468,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinocapritermes xiai Lam & Gao, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XKQC",
+   "status": "accepted",
+   "label": "Sinocapritermes xiai Gao & Lam, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084378",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinocapritermes xiushanensis": {
+  "gbif": {
+   "key": 9790344,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinocapritermes xiushanensis He, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "4XKQD",
+   "status": "accepted",
+   "label": "Sinocapritermes xiushanensis He, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084380",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Sinocapritermes yunnanensis": {
+  "gbif": {
+   "key": 9657364,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Sinocapritermes yunnanensis Xu & Ping, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "6YR8N",
+   "status": "accepted",
+   "label": "Sinocapritermes yunnanensis Ping & Xu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084382",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

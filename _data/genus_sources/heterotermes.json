@@ -1,0 +1,43 @@
+{
+ "latin": "Heterotermes",
+ "zh": "异白蚁属",
+ "family": "heterotermitidae",
+ "treatise": true,
+ "citation": "Heterotermes Froggatt, 1897a: 518, 550.",
+ "type_species": "Heterotermes platycephalus Froggatt, 1897 by monotypy.",
+ "references": [
+  {
+   "ref": "Haviland, 1898: 378, 398",
+   "note": "Termes [section with T. tenuis for type]; characters; key."
+  },
+  {
+   "ref": "Froggatt, 1905: 25",
+   "note": "Heterotermes; characters."
+  },
+  {
+   "ref": "Light, 1930f: 17, 18",
+   "note": "Heterotermes; key."
+  },
+  {
+   "ref": "Light, 1933: 82, 107",
+   "note": "Heterotermes; = Leucotermes; key; remarks."
+  },
+  {
+   "ref": "Snyder, 1934a: 24, 27",
+   "note": "Heterotermes; key."
+  },
+  {
+   "ref": "Light, 1934j: 338",
+   "note": "Heterotermes; key."
+  },
+  {
+   "ref": "Hill, 1942: 14, 120–121",
+   "note": "Heterotermes; key; synonymy; imago, soldier, worker diagnosed."
+  },
+  {
+   "ref": "Cachan, 1949: 186",
+   "note": "Heterotermes; key."
+  }
+ ],
+ "nrefs": 116
+}

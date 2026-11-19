@@ -1,0 +1,41 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "佛州弓白蚁并入本种",
+   "heading_en": "Amitermes floridensis sunk into synonymy",
+   "heading_es": "Amitermes floridensis pasa a la sinonimia",
+   "paragraphs": [
+    {
+     "src": [
+      "S0434"
+     ],
+     "text": "根据 Scheffrahn（2022）的修订，1989 年依据佛罗里达标本描述的佛州弓白蚁（<i>Amitermes floridensis</i>）被降为惠勒弓白蚁（<i>Amitermes wheeleri</i>）的次异名（syn. nov.）；作者认为佛罗里达种群是随观赏棕榈贸易从美国西南部引入的：墨西哥蓝棕（<i>Washingtonia robusta</i>）自得克萨斯至佛罗里达的墨西哥湾沿岸广泛栽培，海枣（<i>Phoenix dactylifera</i>）自 1900 年起在加利福尼亚与亚利桑那栽种，并常作为景观植物输入佛罗里达。",
+     "text_en": "According to the revision by Scheffrahn (2022), <i>Amitermes floridensis</i>, described in 1989 from Florida specimens, is sunk as a junior synonym (syn. nov.) of <i>Amitermes wheeleri</i>; the author suggests that the Florida population was introduced from the southwestern United States with the ornamental palm trade. The Mexican fan palm <i>Washingtonia robusta</i> has been widely cultivated along the Gulf Coast from Texas to Florida, and the date palm <i>Phoenix dactylifera</i>, grown in California and Arizona since 1900, was commonly imported into Florida as a landscape plant.",
+     "text_es": "Según la revisión de Scheffrahn (2022), <i>Amitermes floridensis</i>, descrita en 1989 a partir de ejemplares de Florida, se reduce a sinónimo posterior (syn. nov.) de <i>Amitermes wheeleri</i>; el autor sugiere que la población de Florida fue introducida desde el suroeste de Estados Unidos con el comercio de palmeras ornamentales. La palmera abanico mexicana <i>Washingtonia robusta</i> se cultiva ampliamente en la costa del Golfo desde Texas hasta Florida, y la palmera datilera <i>Phoenix dactylifera</i>, cultivada en California y Arizona desde 1900, se importaba con frecuencia a Florida como planta ornamental."
+    },
+    {
+     "src": [
+      "S0434",
+      "S0137"
+     ],
+     "text": "同一修订指出，新采集记录显示惠勒弓白蚁（<i>Amitermes wheeleri</i>）并未在加利福尼亚被采到，旧记录中的加州个体实为加州弓白蚁（<i>Amitermes californicus</i>）。据摘要，1994 年《佛罗里达白蚁兵蚁与有翅成虫检索表》把佛州弓白蚁列为该州已知 17 种白蚁中唯一的白蚁科（Termitidae）种类，该名称现已归入惠勒弓白蚁。",
+     "text_en": "The same revision notes that new collection records show <i>Amitermes wheeleri</i> has not been collected in California, the Californian specimens of earlier records being <i>Amitermes californicus</i>. According to the abstract, the 1994 keys to the soldier and winged adult termites of Florida listed <i>Amitermes floridensis</i> as the only termitid (Termitidae) among the 17 termite species then known from the state; that name is now placed in the synonymy of <i>Amitermes wheeleri</i>.",
+     "text_es": "La misma revisión señala que los nuevos registros de colecta muestran que <i>Amitermes wheeleri</i> no ha sido recolectada en California, y que los ejemplares californianos de registros anteriores corresponden a <i>Amitermes californicus</i>. Según el resumen, las claves de 1994 para soldados y adultos alados de las termitas de Florida incluían a <i>Amitermes floridensis</i> como el único término (Termitidae) entre las 17 especies entonces conocidas del estado; ese nombre se sitúa ahora en la sinonimia de <i>Amitermes wheeleri</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0434",
+   "citation": "Scheffrahn, R. H. (2022). Amitermes californicus Banks, 1920 (Isoptera, Termitidae, Termitinae) resurrected after ninety years of synonymy and A. floridensis Scheffrahn, 1989 synonymized into A. wheeleri (Desneux, 1906). Zootaxa, 5128(4), 581–588.",
+   "doi": "10.11646/zootaxa.5128.4.7"
+  },
+  {
+   "id": "S0137",
+   "citation": "Scheffrahn, R. H. & Su, N.-Y. (1994). Keys to soldier and winged adult termites (Isoptera) of Florida. Florida Entomologist, 77(4), 460–474.",
+   "doi": "10.2307/3495700"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "note": "Descripción según el original de Holmgren 1912 (imágenes de página del ítem biostor-184513 de archive.org, pp. 114–116). En 1912 el género comprendía dos subgéneros (Neocapritermes y Capritermes s. str.); lo descrito aquí son los caracteres combinados a nivel de género; el listado de subgéneros y especies figura en las pp. 115–116 (especies del Viejo Mundo: chiasognathus, socialis, capricornis, ceylonicus, foraminifer, incola, medius, minor, nemorosus, etc.). El zh_name se usa provisionalmente con el nombre latino (en el lote figura como «—»).",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Holmgren 1912 dividió el género en dos subgéneros bien delimitados: Neocapritermes (todas las especies americanas, más la especie africana C. alienus v. Rosen) y Capritermes s. str. (solo especies del Viejo Mundo). Las diferencias en la clave son: en el alado, el tamaño del primer y del segundo diente, el número de segmentos antenales, la forma del borde posterior del mesonoto y del metanoto y la presencia o ausencia de radio en el ala anterior; en el soldado, únicamente la presencia o ausencia de la abertura de la glándula frontal —Neocapritermes carece de ella y Capritermes s. str. la posee—; en el obrero, si el borde anterior de la coxa anterior se dilata algo en forma de disco y el tamaño del primer diente. Los caracteres comunes a nivel de género son: en el alado, antenas de 15–17 segmentos con el tercero casi siempre corto, membrana alar oscura con puntos espiniformes y media próxima al cúbito; en el soldado, cabeza rectangular alargada y débilmente convexa, mandíbulas del tipo Capritermes, curvadas asimétricamente, antenas de 13–16 segmentos; en el obrero, cabeza más o menos pentagonal y redondeada, antenas de 13–15 segmentos."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza anchamente ovalada, estrechada hacia delante. Ojos compuestos relativamente pequeños, en su mayoría muy prominentes. Ocelos de posición variable, orientados lateralmente. Abertura de la glándula frontal deprimida. Base del clípeo planoconvexa, más corta que su mitad de ancho. Mandíbulas de dos tipos: o con un diente apical grande (en este caso la parte posterior del mesonoto y del metanoto es aguda y las antenas tienen (14–)15 segmentos); o con los dos primeros dientes aproximadamente iguales (en este caso la parte posterior del mesonoto y del metanoto es ancha, el mesonoto casi no está escotado y el metanoto está ampliamente escotado, y las antenas tienen 17 segmentos con radio en el ala anterior). Antenas de 15–17 segmentos, el tercero casi siempre corto. Membrana alar oscura, con pequeños puntos (espinas). Media próxima al cúbito. Tibia anterior con 3 espinas apicales, tibias media y posterior con 2 cada una."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza rectangular alargada, rara vez estrechada hacia delante, débilmente convexa. La abertura de la glándula frontal está presente en la mayoría, expuesta en la parte anterior de la cabeza; falta en todas las especies americanas y en la africana C. alienus. Base del clípeo muy estrecha. Labro alargado y estrecho: o con los ángulos laterales salientes y el medio redondeado o escotado, o trilobulado con lóbulos muy cortos y redondeados. Mandíbulas del tipo Capritermes, curvadas asimétricamente. Antenas de 13–16 segmentos. Pronoto pequeño, en forma de silla de montar."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza más o menos pentagonal y redondeada. Base del clípeo fuertemente abultada, algo más corta que su mitad de ancho. La forma del primer diente mandibular es como en el alado. Antenas de 13–15 segmentos. Pronoto en forma de silla de montar."
+  }
+ ]
+}

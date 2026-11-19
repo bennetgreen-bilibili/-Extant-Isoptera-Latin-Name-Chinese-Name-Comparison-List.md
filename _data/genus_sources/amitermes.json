@@ -1,0 +1,43 @@
+{
+ "latin": "Amitermes",
+ "zh": "弓白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Amitermes Silvestri, 1901: 4.",
+ "type_species": "Amitermes amifer Silvestri, 1901 by subsequent designation, see Banks, 1920: 80.",
+ "references": [
+  {
+   "ref": "Haviland, 1898: 378, 406–407",
+   "note": "Termes “section with T. dentatus for type”; characters; key."
+  },
+  {
+   "ref": "Wasmann, 1902d: 122",
+   "note": "Amitermes; characters; species included."
+  },
+  {
+   "ref": "Silvestri, 1903: 43",
+   "note": "Amitermes; characters; distribution."
+  },
+  {
+   "ref": "Escherich, 1909: 175",
+   "note": "Amitermes; characters."
+  },
+  {
+   "ref": "Banks, 1919: 479",
+   "note": "Amitermes; key."
+  },
+  {
+   "ref": "Banks, 1920: 55",
+   "note": "Amitermes [part]; key; characters."
+  },
+  {
+   "ref": "Emerson, 1928b: 408, 420, 496",
+   "note": "Amitermes; discussion; Amitermes (Amitermes); key; distribution."
+  },
+  {
+   "ref": "Light, 1933: 82, 139",
+   "note": "Amitermes; key."
+  }
+ ],
+ "nrefs": 107
+}

@@ -1,0 +1,58 @@
+{
+ "book_n": "246",
+ "book_name": "三平杆白蚁 Stylotermes triplanus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "三平杆白蚊兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.40",
+     "value": "1.37–1.44"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.15",
+     "value": "1.11–1.21"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.34",
+     "value": "0.30–0.38"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.54",
+     "value": "1.49–1.59"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.85",
+     "value": "1.82–1.90"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.62",
+     "value": "0.61–0.63"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.21",
+     "value": "1.16–1.27"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.12",
+     "value": "1.06–1.19"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 1021,
+   "unit": "mm"
+  }
+ ]
+}

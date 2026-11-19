@@ -1,0 +1,27 @@
+{
+ "Koutabatermes spinifer": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 99,
+   "rank": "KINGDOM",
+   "name": "Animalia",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": null,
+   "label": null,
+   "type": "none",
+   "rank": null,
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_missing"
+  ],
+  "_d": "2026-10-28"
+ }
+}

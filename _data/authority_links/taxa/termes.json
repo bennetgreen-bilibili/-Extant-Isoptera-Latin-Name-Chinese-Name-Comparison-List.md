@@ -1,0 +1,604 @@
+{
+ "Termes amaralii": {
+  "gbif": {
+   "key": 9717527,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes amaralii (Seabra, 1919)",
+   "accepted": null
+  },
+  "col": {
+   "id": "55FRF",
+   "status": "accepted",
+   "label": "Termes amaralii (Seabra, 1919)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073754",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes atlanticus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 95,
+   "rank": "GENUS",
+   "name": "Termes Linnaeus, 1758",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "VRWSG",
+   "status": "accepted",
+   "label": "Termes atlanticus Fontaine, 2026",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Termes ayri": {
+  "gbif": {
+   "key": 9768862,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes ayri Cancello & Bandeira, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "7BS9J",
+   "status": "accepted",
+   "label": "Termes ayri Bandeira & Cancello, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073753",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes baculi": {
+  "gbif": {
+   "key": 9749237,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes baculi (Sjöstedt, 1900)",
+   "accepted": null
+  },
+  "col": {
+   "id": "55FRV",
+   "status": "accepted",
+   "label": "Termes baculi (Sjöstedt, 1900)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073752",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes baculiformis": {
+  "gbif": {
+   "key": 8962635,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes baculiformis (Holmgren, 1909)",
+   "accepted": null
+  },
+  "col": {
+   "id": "55FRW",
+   "status": "accepted",
+   "label": "Termes baculiformis (Holmgren, 1909)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073751",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes bolivianus": {
+  "gbif": {
+   "key": 9295591,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes bolivianus (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "55FS6",
+   "status": "accepted",
+   "label": "Termes bolivianus (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073750",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes boultoni": {
+  "gbif": {
+   "key": 9734144,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes boultoni Sheasby & Coaton, 1978",
+   "accepted": null
+  },
+  "col": {
+   "id": "7C3XJ",
+   "status": "accepted",
+   "label": "Termes boultoni Coaton & Sheasby, 1978",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073749",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes brevicornis": {
+  "gbif": {
+   "key": 9785887,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes brevicornis Haviland, 1898",
+   "accepted": null
+  },
+  "col": {
+   "id": "55FSD",
+   "status": "accepted",
+   "label": "Termes brevicornis Haviland, 1898",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073748",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes capensis": {
+  "gbif": {
+   "key": 9660405,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 99,
+   "rank": "SPECIES",
+   "name": "Termes capensis (Silvestri, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "55FSK",
+   "status": "accepted",
+   "label": "Termes capensis (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073747",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes chocoensis": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 95,
+   "rank": "GENUS",
+   "name": "Termes Linnaeus, 1758",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "VRXVR",
+   "status": "accepted",
+   "label": "Termes chocoensis Fontaine & Roisin, 2026",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Termes comis": {
+  "gbif": {
+   "key": 9660290,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes comis Haviland, 1898",
+   "accepted": null
+  },
+  "col": {
+   "id": "55FST",
+   "status": "accepted",
+   "label": "Termes comis Haviland, 1898",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073746",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes fatalis": {
+  "gbif": {
+   "key": 9606586,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 99,
+   "rank": "SPECIES",
+   "name": "Termes fatalis Linnaeus, 1758",
+   "accepted": null
+  },
+  "col": {
+   "id": "55FTD",
+   "status": "accepted",
+   "label": "Termes fatalis Linnaeus, 1758",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q135495961",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes hispaniolae": {
+  "gbif": {
+   "key": 2007279,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes hispaniolae (Banks, 1918)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7BS87",
+   "status": "accepted",
+   "label": "Termes hispaniolae (Banks, 1918)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582622",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes hospes": {
+  "gbif": {
+   "key": 9813727,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes hospes (Sjöstedt, 1900)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7C487",
+   "status": "accepted",
+   "label": "Termes hospes (Sjöstedt, 1900)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073745",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes huayangensis": {
+  "gbif": {
+   "key": 9773498,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes huayangensis Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "7BRW4",
+   "status": "accepted",
+   "label": "Termes huayangensis Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073744",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes incognitus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 95,
+   "rank": "GENUS",
+   "name": "Termes Linnaeus, 1758",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Termes Linnaeus, 1758",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-31"
+ },
+ "Termes laticornis": {
+  "gbif": {
+   "key": 9683586,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes laticornis Haviland, 1898",
+   "accepted": null
+  },
+  "col": {
+   "id": "7BS7Q",
+   "status": "accepted",
+   "label": "Termes laticornis Haviland, 1898",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073743",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes major": {
+  "gbif": {
+   "key": 9761387,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes major Morimoto, 1973",
+   "accepted": null
+  },
+  "col": {
+   "id": "55FV6",
+   "status": "accepted",
+   "label": "Termes major Morimoto, 1973",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073742",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes marjoriae": {
+  "gbif": {
+   "key": 9679135,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes marjoriae (Snyder, 1934)",
+   "accepted": null
+  },
+  "col": {
+   "id": "55FV9",
+   "status": "accepted",
+   "label": "Termes marjoriae (Snyder, 1934)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073741",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes medioculatus": {
+  "gbif": {
+   "key": 9653210,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes medioculatus Emerson, 1949",
+   "accepted": null
+  },
+  "col": {
+   "id": "7BRVR",
+   "status": "accepted",
+   "label": "Termes medioculatus Emerson, 1949",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073740",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes melindae": {
+  "gbif": {
+   "key": 2007281,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes melindae Harris, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "55FVF",
+   "status": "accepted",
+   "label": "Termes melindae Harris, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582620",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes nigritus": {
+  "gbif": {
+   "key": 9667606,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes nigritus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "55FVV",
+   "status": "accepted",
+   "label": "Termes nigritus Silvestri, 1901",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073739",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes panamaensis": {
+  "gbif": {
+   "key": 2007280,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes panamaensis (Snyder, 1923)",
+   "accepted": null
+  },
+  "col": {
+   "id": "55FW8",
+   "status": "accepted",
+   "label": "Termes panamaensis (Snyder, 1923)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582621",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes propinquus": {
+  "gbif": {
+   "key": 9208336,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes propinquus (Holmgren, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "55FWJ",
+   "status": "accepted",
+   "label": "Termes propinquus (Holmgren, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073738",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes riograndensis": {
+  "gbif": {
+   "key": 9801391,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes riograndensis Jhering",
+   "accepted": null
+  },
+  "col": {
+   "id": "55FWW",
+   "status": "accepted",
+   "label": "Termes riograndensis von Jhering, 1887",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073737",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes rostratus": {
+  "gbif": {
+   "key": 9055833,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes rostratus Haviland, 1898",
+   "accepted": null
+  },
+  "col": {
+   "id": "55FWY",
+   "status": "accepted",
+   "label": "Termes rostratus Haviland, 1898",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073736",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Termes splendens": {
+  "gbif": {
+   "key": 9793521,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Termes splendens (Sjöstedt, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "55FXP",
+   "status": "accepted",
+   "label": "Termes splendens (Sjöstedt, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073735",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

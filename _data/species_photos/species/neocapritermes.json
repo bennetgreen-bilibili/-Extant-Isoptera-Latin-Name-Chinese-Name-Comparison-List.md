@@ -1,0 +1,147 @@
+{
+ "Neocapritermes opacus": [
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/482840786/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/482840786/medium.jpeg",
+   "width": 1024,
+   "height": 769,
+   "credit": "(c) vinicius_s_domingues, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/268611532"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/482840790/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/482840790/medium.jpeg",
+   "width": 1024,
+   "height": 770,
+   "credit": "(c) vinicius_s_domingues, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/268611532"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/243063765/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/243063765/medium.jpeg",
+   "width": 1024,
+   "height": 771,
+   "credit": "(c) Jean Martins, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/141831824"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/243063776/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/243063776/medium.jpeg",
+   "width": 1024,
+   "height": 771,
+   "credit": "(c) Jean Martins, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/141831824"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/240853359/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/240853359/medium.jpeg",
+   "width": 1024,
+   "height": 860,
+   "credit": "(c) Rafael Silva, some rights reserved (CC BY-SA)",
+   "license": "CC BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://www.inaturalist.org/observations/140684333"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/240853393/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/240853393/medium.jpeg",
+   "width": 460,
+   "height": 1024,
+   "credit": "(c) Rafael Silva, some rights reserved (CC BY-SA)",
+   "license": "CC BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://www.inaturalist.org/observations/140684333"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/159173152/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/159173152/medium.jpeg",
+   "width": 1024,
+   "height": 780,
+   "credit": "(c) Lucas Rubio, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/95850719"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/39378030/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/39378030/medium.jpeg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Edson Luis Fabro Gasperin, some rights reserved (CC BY-SA)",
+   "license": "CC BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://www.inaturalist.org/observations/25426241"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/39378057/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/39378057/medium.jpeg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Edson Luis Fabro Gasperin, some rights reserved (CC BY-SA)",
+   "license": "CC BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://www.inaturalist.org/observations/25426241"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/243063793/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/243063793/medium.jpeg",
+   "width": 1024,
+   "height": 771,
+   "credit": "(c) Jean Martins, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/141831824"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/39378093/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/39378093/medium.jpeg",
+   "width": 768,
+   "height": 1024,
+   "credit": "(c) Edson Luis Fabro Gasperin, some rights reserved (CC BY-SA)",
+   "license": "CC BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://www.inaturalist.org/observations/25426241"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/39378141/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/39378141/medium.jpeg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Edson Luis Fabro Gasperin, some rights reserved (CC BY-SA)",
+   "license": "CC BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://www.inaturalist.org/observations/25426241"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/39378178/large.jpeg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/39378178/medium.jpeg",
+   "width": 1024,
+   "height": 768,
+   "credit": "(c) Edson Luis Fabro Gasperin, some rights reserved (CC BY-SA)",
+   "license": "CC BY-SA",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://www.inaturalist.org/observations/25426241"
+  }
+ ]
+}

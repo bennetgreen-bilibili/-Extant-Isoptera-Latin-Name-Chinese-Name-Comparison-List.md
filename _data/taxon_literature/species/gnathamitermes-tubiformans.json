@@ -1,0 +1,60 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "地上廊道的建造代价",
+   "heading_en": "The cost of building above-ground galleries",
+   "heading_es": "El coste de construir galerías aéreas",
+   "paragraphs": [
+    {
+     "src": [
+      "S0234"
+     ],
+     "text": "据摘要，MacKay 等（1985）研究显示，管形颚钩白蚁（<i>Gnathamitermes tubiformans</i>）在北美奇瓦瓦沙漠北部雨后围绕直立的枯死植被修筑泥质廊道，并只刮食直立枯枝表面含氮量最高的组织；作者检验了「修筑廊道的耗能大于从木材所得」的假说，估计从木材获得的能量比修筑廊道的投入高 6 个数量级，该假说因此不成立。",
+     "text_en": "According to the abstract, MacKay et al. (1985) report that <i>Gnathamitermes tubiformans</i>, a common species in the northern Chihuahuan Desert, builds mud galleries around standing dead vegetation after rain and grazes only the nitrogen-richest tissues on the surface of standing dead branches; testing the hypothesis that building the galleries costs more energy than the termites obtain from the wood, they estimated that the energy gained from the wood exceeds the cost of gallery construction by six orders of magnitude, so the hypothesis is rejected.",
+     "text_es": "Según el resumen, MacKay et al. (1985) indican que <i>Gnathamitermes tubiformans</i>, especie común en el norte del desierto de Chihuahua, construye galerías de barro alrededor de la vegetación muerta erecta tras las lluvias y raspa solo los tejidos más ricos en nitrógeno de la superficie de las ramas muertas erectas; al someter a prueba la hipótesis de que construir las galerías cuesta más energía que la que las termitas obtienen de la madera, estimaron que la energía obtenida de la madera supera en seis órdenes de magnitud el coste de la construcción, por lo que la hipótesis se rechaza."
+    }
+   ]
+  },
+  {
+   "heading": "食性与氮素利用",
+   "heading_en": "Feeding Habits and Nitrogen Use",
+   "heading_es": "Hábitos alimentarios y uso del nitrógeno",
+   "paragraphs": [
+    {
+     "src": [
+      "S0307"
+     ],
+     "text": "根据 Spears 与 Ueckert（1976）研究，管形颚钩白蚁（<i>Gnathamitermes tubiformans</i>）工蚁以格兰马草（<i>Bouteloua gracilis</i>）叶加牛粪的天然食料饲养时存活率最高；人工食料中非蛋白氮（NPN）升高时存活率与取食量同时下降，氨基酸氮（AAN）升高只使存活略降、取食量增加；100% 纤维素食料（含氮 0.039%）的存活与取食均最低，说明该种适应低蛋白、低氮食物，不能适应纯纤维素（据摘要）。",
+     "text_en": "According to Spears and Ueckert (1976), workers of <i>Gnathamitermes tubiformans</i> survived best on the natural diet of <i>Bouteloua gracilis</i> leaves plus cattle dung; in artificial diets, increasing non-protein nitrogen (NPN) lowered both survival and consumption, whereas increasing amino acid nitrogen (AAN) only slightly reduced survival while raising consumption; survival and feeding were lowest on a 100% cellulose diet (0.039% nitrogen), indicating that the species is adapted to low-protein, low-nitrogen food and cannot cope with pure cellulose (according to the abstract).",
+     "text_es": "Según Spears y Ueckert (1976), las obreras de <i>Gnathamitermes tubiformans</i> tuvieron la mayor supervivencia con la dieta natural de hojas de <i>Bouteloua gracilis</i> más estiércol bovino; en dietas artificiales, el aumento del nitrógeno no proteico (NPN) redujo tanto la supervivencia como el consumo, mientras que el aumento del nitrógeno aminoacídico (AAN) solo redujo ligeramente la supervivencia y elevó el consumo; la supervivencia y la alimentación fueron mínimas con una dieta de 100% celulosa (0.039% de nitrógeno), lo que indica que la especie está adaptada a alimentos pobres en proteína y nitrógeno y no tolera la celulosa pura (según el resumen)."
+    },
+    {
+     "src": [
+      "S0316"
+     ],
+     "text": "根据 Allen 等（1980）研究，西德克萨斯该种的食物由 3 种禾草组成：<i>Aristida longiseta</i>（三芒草属）占 46%、<i>Buchloe dactyloides</i>（野牛草）占 26%、<i>Bouteloua gracilis</i>（格兰马草）占 24%，年消耗量分别约 27.1、15.4、14.1 g/m²；取食活动春季最低、秋季最高，春季与初夏以活植物为主，夏末与秋季转向立枯植物（据摘要）。",
+     "text_en": "According to Allen et al. (1980), in West Texas the diet of this species consists of three grasses: <i>Aristida longiseta</i> at 46%, <i>Buchloe dactyloides</i> at 26% and <i>Bouteloua gracilis</i> at 24%, with annual consumption of about 27.1, 15.4 and 14.1 g/m² respectively; feeding activity is lowest in spring and highest in autumn, live plants predominate in spring and early summer, and standing dead plants are used in late summer and autumn (according to the abstract).",
+     "text_es": "Según Allen et al. (1980), en el oeste de Texas la dieta de esta especie se compone de tres gramíneas: <i>Aristida longiseta</i> con 46%, <i>Buchloe dactyloides</i> con 26% y <i>Bouteloua gracilis</i> con 24%, con un consumo anual de unos 27.1, 15.4 y 14.1 g/m² respectivamente; la actividad de alimentación es mínima en primavera y máxima en otoño, las plantas vivas predominan en primavera y principios de verano, y a finales de verano y en otoño se recurre a las plantas secas en pie (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0234",
+   "citation": "Mackay, W. P.; Blizzard, J. H.; Miller, J. J.; Whitford, W. G. 1985. Analysis of Above-ground Gallery Construction by the Subterranean Termite Gnathamitermes tubiformans (Isoptera: Termitidae). Environmental Entomology.",
+   "doi": "10.1093/ee/14.4.470"
+  },
+  {
+   "id": "S0307",
+   "citation": "Spears, B. M.; Darrell Ν. Ueckert. 1976. Survival and Food Consumption by the Desert Termite Gnathamitermes tubiformans1 in Relation to Dietary Nitrogen Source and Levels 2. Environmental Entomology.",
+   "doi": "10.1093/ee/5.5.1022"
+  },
+  {
+   "id": "S0316",
+   "citation": "Allen, C. T.; Foster, D. E.; Darrell Ν. Ueckert. 1980. Seasonal Food Habits of a Desert Termite, Gnathamitermes tubiformans1 , in West Texas 2. Environmental Entomology.",
+   "doi": "10.1093/ee/9.4.461"
+  }
+ ]
+}

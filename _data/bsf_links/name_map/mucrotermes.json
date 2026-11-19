@@ -1,0 +1,24 @@
+{
+ "Mucrotermes heterochilus": {
+  "label": "Mucrotermes heterochilus (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85092,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85092/overview",
+  "valid_label": null,
+  "valid_otu": 85092,
+  "verified": false
+ },
+ "Mucrotermes osborni": {
+  "label": "Mucrotermes osborni Emerson, 1960",
+  "match": "exact",
+  "notes": "",
+  "otu": 85093,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85093/overview",
+  "valid_label": null,
+  "valid_otu": 85093,
+  "verified": false
+ }
+}

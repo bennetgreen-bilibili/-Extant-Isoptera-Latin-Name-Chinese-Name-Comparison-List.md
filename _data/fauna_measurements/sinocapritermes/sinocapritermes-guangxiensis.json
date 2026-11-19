@@ -1,0 +1,63 @@
+{
+ "book_n": "359",
+ "book_name": "桂华扭白蚁 Sinocapritermes guangxiensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "桂华扭白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.48",
+     "value": "1.35–1.55"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "2.19",
+     "value": "2.09–2.29"
+    },
+    {
+     "key": "right_mandible_length",
+     "mean": "2.18",
+     "value": "2.06–2.27"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.18",
+     "value": "1.02–1.22"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.48",
+     "value": "0.46–0.51"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.22",
+     "value": "0.20–0.24"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.37",
+     "value": "0.33–0.41"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.83",
+     "value": "0.82–0.87"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.33",
+     "value": "1.30–1.35"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 691,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "Proboscitermes mcgrewi": {
+  "gbif": {
+   "key": 8380235,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Proboscitermes mcgrewi Scheffrahn, 2010",
+   "accepted": null
+  },
+  "col": {
+   "id": "6W9VK",
+   "status": "accepted",
+   "label": "Proboscitermes mcgrewi Scheffrahn, 2010",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21299647",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Proboscitermes tubuliferus": {
+  "gbif": {
+   "key": 9805697,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Proboscitermes tubuliferus (Sjöstedt, 1907)",
+   "accepted": null
+  },
+  "col": {
+   "id": "77XVK",
+   "status": "accepted",
+   "label": "Proboscitermes tubuliferus (Sjöstedt, 1907)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084152",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

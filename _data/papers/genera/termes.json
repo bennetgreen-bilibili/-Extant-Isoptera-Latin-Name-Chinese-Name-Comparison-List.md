@@ -1,0 +1,84 @@
+{
+ "latin": "Termes",
+ "zh": "白蚁属",
+ "fetched_at": "2026-11-07T11:36:27Z",
+ "papers": [
+  {
+   "id": "https://doi.org/10.15560/16.2.271",
+   "openalex_url": "",
+   "doi": "10.15560/16.2.271",
+   "doi_url": "https://doi.org/10.15560/16.2.271",
+   "title": "First records of the termite, Termes hispaniolae (Banks, 1918) (Isoptera, Termitidae, Termitinae), from Bolivia and new Caribbean Basin records",
+   "year": 2020,
+   "date": "2020-03-20",
+   "authors": [
+    "Rudolf H. Scheffrahn"
+   ],
+   "venue": "Check List",
+   "type": "journal-article",
+   "language": "",
+   "cited_by": 3,
+   "oa_url": "",
+   "volume": "16",
+   "issue": "2",
+   "pages": "271-276",
+   "abstract": "The genus Termes Linnaeus, 1758 occurs in the Neotropical, Ethiopian, and Oriental regions and is notable for the long, narrow, and nearly symmetrical mandibles of the soldier caste. &nbsp;I report the presence of T. hispaniolae (Banks, 1918) in Bolivia and provide many additional new geographic records throughout the Caribbean Basin. &nbsp; Termes hispaniolae is common in much of its range, and workers are characterized by a diagnostic enteric valve armature that is described here for the first time.",
+   "abstract_source": "crossref",
+   "abstract_chars": 506,
+   "abstract_truncated": false,
+   "source": "crossref"
+  },
+  {
+   "id": "https://doi.org/10.1007/s000400050047",
+   "openalex_url": "",
+   "doi": "10.1007/s000400050047",
+   "doi_url": "https://doi.org/10.1007/s000400050047",
+   "title": "Diet and nest material of the processional termite Hospitalitermes, and cohabitation of Termes (Isoptera, Termitidae) on Borneo Island",
+   "year": 1997,
+   "date": "1997-08",
+   "authors": [
+    "T. Miura",
+    "T. Matsumoto"
+   ],
+   "venue": "Insectes Sociaux",
+   "type": "journal-article",
+   "language": "en",
+   "cited_by": 25,
+   "oa_url": "",
+   "volume": "44",
+   "issue": "3",
+   "pages": "267-275",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false,
+   "source": "crossref"
+  },
+  {
+   "id": "https://doi.org/10.1111/j.1440-6055.1980.tb00955.x",
+   "openalex_url": "",
+   "doi": "10.1111/j.1440-6055.1980.tb00955.x",
+   "doi_url": "https://doi.org/10.1111/j.1440-6055.1980.tb00955.x",
+   "title": "THE IDENTITIES OF TERMES AUSTRAUS WALKER AND TERMES FUMIPENNIS WALKER (ISOPTERA)",
+   "year": 1980,
+   "date": "1980-05",
+   "authors": [
+    "J. A. L. Watson",
+    "F. J. Gay"
+   ],
+   "venue": "Australian Journal of Entomology",
+   "type": "journal-article",
+   "language": "en",
+   "cited_by": 3,
+   "oa_url": "",
+   "volume": "19",
+   "issue": "1",
+   "pages": "19-25",
+   "abstract": "Termes australis Walker is a senior synonym of Eutermes exitiosus Hill, the well‐known species now called Nasutitermes exitiosus (Hill); a proposal has been put to the International Commission on Zoological Nomenclature to have Walker's name suppressed. Termes fumipennis Walker is a species not of Nasutitermes Dudley, as had been claimed, but of Coptotermes Wasmann, seemingly not Australian.",
+   "abstract_source": "crossref",
+   "abstract_chars": 394,
+   "abstract_truncated": false,
+   "source": "crossref"
+  }
+ ]
+}

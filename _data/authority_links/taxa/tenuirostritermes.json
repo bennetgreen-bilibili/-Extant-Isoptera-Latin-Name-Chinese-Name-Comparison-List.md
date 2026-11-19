@@ -1,0 +1,112 @@
+{
+ "Tenuirostritermes briciae": {
+  "gbif": {
+   "key": 2007273,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tenuirostritermes briciae (Snyder, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "55BQH",
+   "status": "accepted",
+   "label": "Tenuirostritermes briciae (Snyder, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582627",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tenuirostritermes cinereus": {
+  "gbif": {
+   "key": 2007275,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tenuirostritermes cinereus (Buckley, 1862)",
+   "accepted": null
+  },
+  "col": {
+   "id": "55BQJ",
+   "status": "accepted",
+   "label": "Tenuirostritermes cinereus (Buckley, 1862)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582624",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tenuirostritermes incisus": {
+  "gbif": {
+   "key": 2007272,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tenuirostritermes incisus (Snyder, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "55BQK",
+   "status": "accepted",
+   "label": "Tenuirostritermes incisus (Snyder, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582625",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tenuirostritermes strenuus": {
+  "gbif": {
+   "key": 9710367,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tenuirostritermes strenuus (Hagen, 1860)",
+   "accepted": null
+  },
+  "col": {
+   "id": "55BQM",
+   "status": "accepted",
+   "label": "Tenuirostritermes strenuus (Hagen, 1860)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073755",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tenuirostritermes tenuirostris": {
+  "gbif": {
+   "key": 2007274,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tenuirostritermes tenuirostris (Desneux, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "55BQN",
+   "status": "accepted",
+   "label": "Tenuirostritermes tenuirostris (Desneux, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582626",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

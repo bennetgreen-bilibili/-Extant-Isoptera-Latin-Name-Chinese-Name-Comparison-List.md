@@ -1,0 +1,50 @@
+{
+ "book_n": "113",
+ "book_name": "大别山散白蚁 Reticulitermes",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "成虫量度",
+   "label_en": "Imago measurements",
+   "label_es": "Medidas de imago",
+   "label_zh": "成虫量度",
+   "rows": [
+    {
+     "key": "body_length_with_wings",
+     "value": "9.984–10.504"
+    },
+    {
+     "key": "body_length",
+     "value": "6.44–6.65"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "value": "1.13–1.17"
+    },
+    {
+     "key": "head_width",
+     "value": "1.066–1.131"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.04–0.07"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.98–1.01"
+    },
+    {
+     "key": "forewing_scale_length",
+     "value": "0.78–0.88"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.22–1.28"
+    }
+   ],
+   "src_file": "301-400.txt",
+   "src_line": 1286,
+   "unit": "mm"
+  }
+ ]
+}

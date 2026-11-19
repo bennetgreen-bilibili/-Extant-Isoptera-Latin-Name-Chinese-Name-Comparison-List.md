@@ -1,0 +1,35 @@
+{
+ "Divinotermes allognathus": {
+  "label": "Divinotermes allognathus (Mathews, 1977)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85365,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85365/overview",
+  "valid_label": null,
+  "valid_otu": 85365,
+  "verified": false
+ },
+ "Divinotermes digitatus": {
+  "label": "Divinotermes digitatus Carrijo & Cancello, 2011",
+  "match": "exact",
+  "notes": "",
+  "otu": 85366,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85366/overview",
+  "valid_label": null,
+  "valid_otu": 85366,
+  "verified": false
+ },
+ "Divinotermes tuberculatus": {
+  "label": "Divinotermes tuberculatus Carrijo & Cancello, 2011",
+  "match": "exact",
+  "notes": "",
+  "otu": 85367,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85367/overview",
+  "valid_label": null,
+  "valid_otu": 85367,
+  "verified": false
+ }
+}

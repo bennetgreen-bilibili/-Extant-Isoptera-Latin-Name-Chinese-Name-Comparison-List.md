@@ -1,0 +1,63 @@
+{
+ "book_n": "417",
+ "book_name": "山地象白蚁 Nasutitermes garoensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "山地象白蚊兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "4.15",
+     "value": "3.30–4.15"
+    },
+    {
+     "key": "head_length_with_nasus",
+     "mean": "1.54",
+     "value": "1.50–1.57"
+    },
+    {
+     "key": "nasus_length",
+     "mean": "0.67",
+     "value": "0.60–0.67"
+    },
+    {
+     "key": "head_width",
+     "mean": "0.90",
+     "value": "0.87–0.93"
+    },
+    {
+     "key": "head_height",
+     "mean": "0.57",
+     "value": "0.53–0.57"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.30",
+     "value": "0.29–0.30"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.16",
+     "value": "0.13–0.16"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.43",
+     "value": "0.40–0.46"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.93",
+     "value": "0.90–1.00"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 536,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "Baucaliotermes hainesi": {
+  "gbif": {
+   "key": 9671679,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Baucaliotermes hainesi (Fuller, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L3NR",
+   "status": "accepted",
+   "label": "Baucaliotermes hainesi (Fuller, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225303",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

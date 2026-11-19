@@ -1,0 +1,105 @@
+{
+ "latin": "Macuxitermes",
+ "zh": "马库希白蚁属",
+ "fetched_at": "2026-10-30T16:54:00Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2472241043",
+   "openalex_url": "https://openalex.org/W2472241043",
+   "doi": "10.3897/zookeys.587.7557",
+   "doi_url": "https://doi.org/10.3897/zookeys.587.7557",
+   "title": "A new termite (Isoptera, Termitidae, Syntermitinae, Macuxitermes) from Colombia",
+   "year": 2016,
+   "date": "2016-05-10",
+   "authors": [
+    "Anthony C. Postle",
+    "Rudolf H. Scheffrahn"
+   ],
+   "venue": "ZooKeys",
+   "type": "article",
+   "language": "en",
+   "cited_by": 3,
+   "oa_url": "https://doi.org/10.3897/zookeys.587.7557",
+   "volume": "587",
+   "issue": "587",
+   "pages": "21-35",
+   "abstract": "A new species of termite, Macuxitermes colombicus Postle & Scheffrahn is described from soldiers and workers collected from Departamento Magdalena, Colombia. The soldier of Macuxitermes colombicus differs from its lone congener in having no protuberances on the head capsule.",
+   "abstract_source": "openalex",
+   "abstract_chars": 275,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W1044728199",
+   "openalex_url": "https://openalex.org/W1044728199",
+   "doi": "",
+   "doi_url": "",
+   "title": "Morphology of the digestive tube of Macuxitermes triceratops and its phylogenetic implications (Isoptera: Termitidae: Nasutitermitinae)",
+   "year": 1997,
+   "date": "1997-01-01",
+   "authors": [
+    "Reginaldo Constantino"
+   ],
+   "venue": "Acervo Digital da Universidade Estadual Paulista (Universidade Estadual Paulista)",
+   "type": "article",
+   "language": "en",
+   "cited_by": 6,
+   "oa_url": "http://repositorio.unesp.br/handle/11449/31147",
+   "volume": "30",
+   "issue": "",
+   "pages": "225-230",
+   "abstract": "The gross morphology of digestive tube of Macuxitermes triceratops is described and illustrated. The gut of this species is very similar to those of Embiratermes and Ibitermes, and does not show any obvious autopomorphic character. The phylogenetic relations of this genus are discussed based on the available evidence, and it is concluded that it is probably the sister group of Armitermes + Curvitermes + Cryilliotermes.",
+   "abstract_source": "openalex",
+   "abstract_chars": 422,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W7118514755",
+   "openalex_url": "https://openalex.org/W7118514755",
+   "doi": "10.11606/0031-1049.1992.38.p1-8",
+   "doi_url": "https://doi.org/10.11606/0031-1049.1992.38.p1-8",
+   "title": "Macuxitermes Triceratops (Isoptera; Termitidae; Nasutitermitinae), a new genus and species from island of Maracá, Roraima",
+   "year": 2023,
+   "date": "2023-05-03",
+   "authors": [
+    "Eliana M. Cancello",
+    "Adelmar Gomes Bandeira"
+   ],
+   "venue": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "https://www.revistas.usp.br/paz/article/view/211548",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2303409047",
+   "openalex_url": "https://openalex.org/W2303409047",
+   "doi": "10.11646/zootaxa.3174.1.7",
+   "doi_url": "https://doi.org/10.11646/zootaxa.3174.1.7",
+   "title": "Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records",
+   "year": 2012,
+   "date": "2012-01-26",
+   "authors": [
+    "Reginaldo Constantino"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "3174",
+   "issue": "1",
+   "pages": "",
+   "abstract": "Noirotitermes is a monotypic termite genus known only from Brazil. Noirotitermes noiroti was described based on a single sample from Piauí, Brazil, with only a few soldiers and several workers. Noirotitermes seems to be related to Macuxitermes Cancello & Bandeira 1992, another poorly known monotypic genus of Syntermitinae.",
+   "abstract_source": "openalex",
+   "abstract_chars": 324,
+   "abstract_truncated": false
+  }
+ ]
+}

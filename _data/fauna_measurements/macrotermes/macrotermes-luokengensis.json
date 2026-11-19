@@ -1,0 +1,142 @@
+{
+ "book_n": "308",
+ "book_name": "罗坑大白蚁 Macrorermes luokengensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "罗坑大白蚁大兵蚁量度 ( nm)",
+   "label_en": "Major soldier measurements",
+   "label_es": "Medidas de soldado mayor",
+   "label_zh": "大兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_mandibles",
+     "mean": "4.94",
+     "value": "4.5–5.2"
+    },
+    {
+     "key": "head_length_without_mandibles",
+     "mean": "4.19",
+     "value": "3.9–4.4"
+    },
+    {
+     "key": "head_width",
+     "mean": "2.86",
+     "value": "2.6–3.0"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.79",
+     "value": "0.77–0.84"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.55",
+     "value": "0.54–0.61"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "1.06",
+     "value": "1–1.15"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "2.02",
+     "value": "1.9–2.19"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 960,
+   "unit": "mm"
+  },
+  {
+   "caste": "soldier",
+   "heading": "罗坑大白蚁小兵蚁量度",
+   "label_en": "Minor soldier measurements",
+   "label_es": "Medidas de soldado menor",
+   "label_zh": "小兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_mandibles",
+     "mean": "3.23",
+     "value": "2.9–3.5"
+    },
+    {
+     "key": "head_length_without_mandibles",
+     "mean": "2.65",
+     "value": "2.5–2.9"
+    },
+    {
+     "key": "head_width",
+     "mean": "1.79",
+     "value": "1.7–1.9"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.37",
+     "value": "0.35–0.38"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.71",
+     "value": "0.69–0.77"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.20",
+     "value": "1.15–1.23"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 975,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "罗坑大白蚁有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "27.4",
+     "value": "0.26–0.28"
+    },
+    {
+     "key": "body_length_without_wings",
+     "mean": "13.9",
+     "value": "0.13–0.15"
+    },
+    {
+     "key": "wing_length",
+     "mean": "23.0",
+     "value": "22.5–23.5"
+    },
+    {
+     "key": "eye_long_diameter",
+     "mean": "0.63",
+     "value": "0.54–0.69"
+    },
+    {
+     "key": "ocellus_length",
+     "mean": "0.33",
+     "value": "0.3–0.38"
+    },
+    {
+     "key": "ocellus_width",
+     "mean": "0.25",
+     "value": "0.23–0.26"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "mean": "0.16",
+     "value": "0.15–0.19"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 983,
+   "unit": "mm"
+  }
+ ]
+}

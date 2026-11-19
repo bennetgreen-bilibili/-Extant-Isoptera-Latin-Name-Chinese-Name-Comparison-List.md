@@ -1,0 +1,23 @@
+{
+ "latin": "Duplidentitermes",
+ "zh": "双齿白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Duplidentitermes Emerson, 1959: 24–29.",
+ "type_species": "Hoplognathotermes furcatidens Sjöstedt, 1924 by original designation.",
+ "references": [
+  {
+   "ref": "Bouillon and Mathot, 1965: 27, 98, 99, pl. 17: fig. 50d",
+   "note": "Duplidentitermes; key; characters; worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 37",
+   "note": "Duplidentitermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 51, 122–124, figs. 333–338, pl. 3: fig. 5",
+   "note": "Duplidentitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 6
+}

@@ -1,0 +1,134 @@
+{
+ "Calcaritermes brevicollis": {
+  "label": "Calcaritermes brevicollis (Banks, 1918)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82572,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82572/overview",
+  "valid_label": null,
+  "valid_otu": 82572,
+  "verified": false
+ },
+ "Calcaritermes colei": {
+  "label": "Calcaritermes colei Krishna, 1962",
+  "match": "exact",
+  "notes": "",
+  "otu": 82573,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82573/overview",
+  "valid_label": null,
+  "valid_otu": 82573,
+  "verified": false
+ },
+ "Calcaritermes emarginicollis": {
+  "label": "Calcaritermes emarginicollis (Snyder, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82574,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82574/overview",
+  "valid_label": null,
+  "valid_otu": 82574,
+  "verified": false
+ },
+ "Calcaritermes guatemalae": {
+  "label": "Calcaritermes guatemalae (Snyder, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82575,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82575/overview",
+  "valid_label": null,
+  "valid_otu": 82575,
+  "verified": false
+ },
+ "Calcaritermes imminens": {
+  "label": "Calcaritermes imminens (Snyder, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82576,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82576/overview",
+  "valid_label": null,
+  "valid_otu": 82576,
+  "verified": false
+ },
+ "Calcaritermes krishnai": {
+  "label": "Calcaritermes krishnai (Maiti & Chakraborty, 1981)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82944,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82944/overview",
+  "valid_label": null,
+  "valid_otu": 82944,
+  "verified": false
+ },
+ "Calcaritermes nearcticus": {
+  "label": "Calcaritermes nearcticus (Snyder, 1933)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82578,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82578/overview",
+  "valid_label": null,
+  "valid_otu": 82578,
+  "verified": false
+ },
+ "Calcaritermes nigriceps": {
+  "label": "Calcaritermes nigriceps (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82579,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82579/overview",
+  "valid_label": null,
+  "valid_otu": 82579,
+  "verified": false
+ },
+ "Calcaritermes parvinotus": {
+  "label": "Calcaritermes parvinotus (Light, 1933)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82580,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82580/overview",
+  "valid_label": null,
+  "valid_otu": 82580,
+  "verified": false
+ },
+ "Calcaritermes rioensis": {
+  "label": "Calcaritermes rioensis Krishna, 1962",
+  "match": "exact",
+  "notes": "",
+  "otu": 82581,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82581/overview",
+  "valid_label": null,
+  "valid_otu": 82581,
+  "verified": false
+ },
+ "Calcaritermes snyderi": {
+  "label": "Calcaritermes snyderi Krishna, 1962",
+  "match": "exact",
+  "notes": "",
+  "otu": 82842,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82842/overview",
+  "valid_label": null,
+  "valid_otu": 82842,
+  "verified": false
+ },
+ "Calcaritermes temnocephalus": {
+  "label": "Calcaritermes temnocephalus (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82583,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82583/overview",
+  "valid_label": null,
+  "valid_otu": 82583,
+  "verified": false
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "note": "En el momento de la publicación el nombre genérico figuraba como Termopsis (Heer), y el párrafo de caracteres genéricos abarca en realidad el Termopsis en sentido amplio de entonces (que incluye el actual Zootermopsis); el autor indica en p. 297 que ya había establecido el subgénero Archotermopsis (Desneux 1904, Genera Insectorum XXV, p. 18), y la especie tipo descrita en este trabajo es A. wroughtoni, por lo que los caracteres genéricos y la descripción específica pueden atribuirse a este género, aunque debe tenerse en cuenta que parte de los caracteres «genéricos» puede corresponder al Termopsis en sentido amplio. Los caracteres genéricos registran antenas de 27–28 artejos y la descripción específica da 24 o 25, discrepancia que debe verificarse al utilizarlos.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El original expone los caracteres del género bajo el nombre Termopsis: en el alado los ocelos faltan por completo y la placa frontal no es prominente, lo que permite separarlo de los grupos que poseen ocelos; los tarsos son aparentemente de 4 artejos pero en realidad de 5, el artejo 2 solo está parcialmente separado del 1 y entre las uñas tarsales hay una plantula; los cercos son largos y en el macho el estilo es robusto; las alas son amplias, con una longitud inferior a 4 veces su anchura. El soldado es de cuerpo robusto, cabeza grande, casi rectangular y aplanada, antenas de más de 20 artejos, mandíbulas muy fuertes con dientes en el margen interno, pronoto más estrecho que la cabeza y casi plano, y cercos y estilo largos. El autor establece después, sobre la base de la forma del ojo compuesto y de los restos de la base alar, el subgénero Archotermopsis, y señala que difiere de los demás miembros de Termopsis."
+  },
+  {
+   "label": "Alado",
+   "text": "Antenas de 27–28 artejos (la descripción específica de la especie tipo A. wroughtoni da 24 o 25 artejos, lo que no concuerda con los caracteres genéricos y debe verificarse con ejemplares); ocelos completamente ausentes; placa frontal no prominente; ojos compuestos grandes, con el margen anterior profundamente escotado, casi reniforme (nivel específico); pronoto casi plano, más estrecho que la cabeza; alas con longitud inferior a 4 veces su anchura, ala anterior con subcosta, radio desarrollado y con varias ramas que alcanzan el margen anterior, media cercana al centro del ala, zona membranosa densamente reticulada; tibias con espinas laterales; tarsos aparentemente de 4 artejos pero en realidad de 5, con plantula entre las uñas; cercos largos, estilo del macho robusto."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cuerpo robusto; cabeza grande, casi rectangular, aplanada, con el margen posterior marcadamente escotado (nivel específico); ojos pequeños o reducidos, y a nivel específico se registran pequeños, ovales y sin omatidios; antenas de más de 20 artejos (a nivel específico 22–25); mandíbulas muy fuertes, con dientes fuertes irregulares en el margen interno y el extremo curvado hacia dentro y agudo; pronoto más estrecho que la cabeza, casi plano; tarsos sin plantula (el original: la plantula solo se observa en el alado); cercos y estilo largos."
+  },
+  {
+   "label": "Obrero",
+   "text": "El original (descripción específica de A. wroughtoni) señala que el obrero se asemeja a la larva: en la forma ninfal los epímeros (epimera) del mesotórax y metatórax forman una proyección libre, triangular y foliácea, igual que en el soldado, mientras que el alado carece de ella; en algunos individuos el margen posterior del noto del mesotórax y metatórax conserva cicatrices de la rotura de los esbozos alares, y la cabeza es algo mayor que la de la ninfa; el original supone que tales individuos desempeñan la función de obrero."
+  }
+ ]
+}

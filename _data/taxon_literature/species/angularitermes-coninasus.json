@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "新种与额管形态",
+   "heading_en": "The new species and the shape of the frontal tube",
+   "heading_es": "La especie nueva y la forma del tubo frontal",
+   "paragraphs": [
+    {
+     "src": [
+      "S0327"
+     ],
+     "text": "根据 Carrijo 等（2011）研究，锥鼻棱角白蚁（<i>Angularitermes coninasus</i>）据兵蚁与工蚁描述为新种，标本采自巴西亚马孙雨林的地上巢；其兵蚁以短的锥形额管、且基部宽得多这一特征区别于棱角白蚁属（<i>Angularitermes</i>）其他各种（据摘要）。",
+     "text_en": "According to Carrijo et al. (2011), <i>Angularitermes coninasus</i> is described as a new species from the soldier and worker castes, with samples collected from epigeal nests in the Brazilian Amazon rainforest; its soldier is distinguished from those of the other species of <i>Angularitermes</i> by a short conical frontal tube that is much wider at its base (according to the abstract).",
+     "text_es": "Según Carrijo et al. (2011), <i>Angularitermes coninasus</i> se describe como especie nueva a partir de las castas de soldado y obrera, con muestras recolectadas en nidos epigeos de la selva amazónica brasileña; su soldado se distingue del de las demás especies de <i>Angularitermes</i> por un tubo frontal cónico y corto, mucho más ancho en su base (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0327",
+   "citation": "Carrijo, T. F.; Rocha, M. M.; Cuezzo, C.; Cancello, E. M. 2011. Key to the soldiers of Angularitermes Emerson with a new species from Brazilian Amazonia (Isoptera: Termitidae: Nasutitermitinae). Zootaxa 2967.",
+   "url": "https://doi.org/10.11646/zootaxa.2967.1.6"
+  }
+ ]
+}

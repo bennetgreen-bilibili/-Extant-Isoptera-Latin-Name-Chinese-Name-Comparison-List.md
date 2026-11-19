@@ -1,0 +1,17 @@
+{
+ "note": "Especie tipo: Subulitermes hainesi Fuller; el género fue establecido por Sands para acomodar esta especie monotípica, se conoce solo de las zonas áridas de la provincia del Cabo, Sudáfrica, y fue descrito originalmente en Subulitermes, siendo incluido después en Trinervitermes. La descripción del alado se basa en ejemplares desgastados del rey y la reina del morfotipo. Los símbolos de sexo de la fontanela en el original aparecen como «(^» y «?» en el OCR del escaneo; en esta entrada se tratan solo como «un tipo / el otro tipo», sin determinar por ellos el sexo. Sands esperaba que las diferencias entre géneros quedaran más claras al obtener alados frescos; según su relato, la glándula odorífera del borde anterior del quinto esternito parece muy pequeña en las hembras y ausente en los machos, mientras que en Trinervitermes dicha glándula es claramente visible aunque no sea grande.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Los alvéolos de las setas diminutas sobre la cápsula cefálica del soldado (incluido el nasus) son claramente visibles y aparecen dispersos como puntos pálidos, lo que constituye la principal diferencia con Trinervitermes —en esta última los alvéolos no son visibles en el soldado y el soldado es dimórfico—; en el alado la pilosidad es más gruesa y los alvéolos más conspicuos, y la distribución de las zonas pálidas de la cabeza tampoco concuerda con Trinervitermes."
+  },
+  {
+   "label": "Alado",
+   "text": "El diente apical de la mandíbula izquierda es casi tan largo como el primer diente marginal, y la distancia entre ambos (el ejemplar está desgastado) es algo menor que un tercio de la distancia entre el primer y el tercer diente marginal (índice mandibular izquierdo −0.30); el segundo diente marginal ha desaparecido; el margen cortante entre el primer y el tercer diente marginal es completo y recto. El postclípeo es algo más corto que la mitad de su anchura. La fontanela difiere en forma entre los sexos: en un tipo es pequeña, pálida e irregularmente en forma de Y; en el otro es trapezoidal, con los brazos laterales surgiendo de los ángulos anteriores y algo dilatados en el extremo; en ambos sexos hay por detrás de la fontanela una zona cóncava poco profunda y lisa, del mismo color que el resto de la cápsula cefálica. La pilosidad de la cápsula cefálica es desigual y los alvéolos setales varían de tamaño, siendo numerosos y conspicuos los de mayor tamaño."
+  },
+  {
+   "label": "Soldado",
+   "text": "Monotípico. El nasus es muy delgado y cilíndrico, a lo sumo ligeramente atenuado; las mandíbulas reducidas carecen de diente apical; la cápsula cefálica no está constreñida; antenas de 12–14 segmentos, generalmente 14. Los alvéolos de las setas diminutas se ven con claridad como puntos pálidos en toda la cápsula cefálica, incluido el nasus."
+  }
+ ]
+}

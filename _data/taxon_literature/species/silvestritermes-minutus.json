@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "无性蚁后更替与群体生活史",
+   "paragraphs": [
+    {
+     "text": "据摘要，Fougeyrollas 等（2017）在 137 个最小西尔韦斯特里白蚁（Silvestritermes minutus）巢中进行社会结构普查，并对 12 个群体、12 个微卫星位点做基因分型，发现群体由一对远交初生繁殖蚁建立，不到 2 年建巢蚁后被多个新成蚁后替代，后者多经中央融合的自动混合生殖产生；不育品级和 93% 的雌性扩散个体为有性生殖，群体通常在第 3 年后一次性释放有翅成虫。作者认为该种借助无性蚁后更替加快群体生长和有翅成虫生产，而非延长群体寿命。",
+     "src": [
+      "S0182"
+     ],
+     "text_en": "According to the abstract, Fougeyrollas et al. (2017) surveyed social structure in 137 nests of Silvestritermes minutus and genotyped 12 colonies at 12 microsatellite loci; they found that colonies are founded by a pair of outbred primary reproductives, that the founding queens are replaced within 2 years by several new neotenic queens produced mainly through central-fusion automixis, that sterile castes and 93% of female dispersers are sexually produced, and that colonies usually release alates in a single burst after the 3rd year. The authors considered that this species uses asexual queen succession to accelerate colony growth and alate production rather than to extend colony lifespan.",
+     "text_es": "Según el resumen, Fougeyrollas et al. (2017) realizaron un censo de la estructura social en 137 nidos de Silvestritermes minutus y genotiparon 12 colonias con 12 loci de microsatélites; hallaron que las colonias son fundadas por una pareja de reproductores primarios exógamos y que, antes de los dos años, la pareja fundadora es sustituida por varias reinas nuevas, en su mayoría originadas por automixis con fusión central; las castas estériles y el 93 % de las hembras dispersantes se producen por reproducción sexual, y las colonias suelen liberar los alados una sola vez después del tercer año. Los autores concluyen que la especie recurre a la sucesión de reinas asexuales para acelerar el crecimiento de la colonia y la producción de alados, y no para prolongar la vida de la colonia."
+    }
+   ],
+   "heading_en": "Asexual queen succession and colony life history",
+   "heading_es": "Sucesión de reinas asexuales y ciclo de vida de la colonia"
+  },
+  {
+   "heading": "蚁后特有的挥发性大环内酯",
+   "heading_en": "A queen-specific volatile macrolide",
+   "heading_es": "Un macrólido volátil específico de la reina",
+   "paragraphs": [
+    {
+     "src": [
+      "S0223"
+     ],
+     "text": "据摘要，Machara 等（2018）报道，在最小西尔韦斯特里白蚁（<i>Silvestritermes minutus</i>）的蚁后体表、顶空、卵巢与体腔中检出一种此前未知的挥发物，其结构被确定为 14 元大环内酯 (5Z,9S)-tetradec-5-en-9-olide，即 10-pentyl-3,4,5,8,9,10-hexahydro-2H-oxecin-2-one；作者以 (S)-glycidyl tosylate 为起点，完成了该化合物两个对映体的对映发散合成。",
+     "text_en": "According to the abstract of Machara et al. (2018), a previously unknown volatile was detected on the queen's body surface, in the headspace, in the ovaries and in the body cavity of <i>Silvestritermes minutus</i>; its structure was determined as the 14-membered macrolide (5Z,9S)-tetradec-5-en-9-olide (10-pentyl-3,4,5,8,9,10-hexahydro-2H-oxecin-2-one), and both enantiomers were prepared by enantiodivergent synthesis starting from (S)-glycidyl tosylate.",
+     "text_es": "Según el resumen de Machara et al. (2018), se detectó un volátil previamente desconocido en la superficie corporal de la reina, en el espacio de cabeza, en los ovarios y en la cavidad corporal de <i>Silvestritermes minutus</i>; su estructura se determinó como el macrólido de 14 miembros (5Z,9S)-tetradec-5-en-9-olide (10-pentil-3,4,5,8,9,10-hexahidro-2H-oxecin-2-ona), y ambos enantiómeros se prepararon mediante síntesis enantiocomplementaria a partir de (S)-glicidil tosilato."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0182",
+   "citation": "Fougeyrollas, R. et al. 2017. Asexual queen succession mediates an accelerated colony life cycle in the termite Silvestritermes minutus. Molecular Ecology.",
+   "doi": "10.1111/mec.14095"
+  },
+  {
+   "id": "S0223",
+   "citation": "Machara, A.; Křivánek, J.; Dolejšová, K.; Havlíčková, J.; Bednářová, L.; Hanus, R.; Majer, P.; Kyjaková, P. 2018. Identification and Enantiodivergent Synthesis of (5Z,9S)-Tetradec-5-en-9-olide, a Queen-Specific Volatile of the Termite Silvestritermes minutus. Journal of Natural Products 81(10).",
+   "doi": "10.1021/acs.jnatprod.8b00632"
+  }
+ ]
+}

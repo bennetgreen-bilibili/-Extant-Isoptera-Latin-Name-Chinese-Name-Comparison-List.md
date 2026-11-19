@@ -1,0 +1,56 @@
+{
+ "Uncitermes almeriae": {
+  "gbif": {
+   "key": 9129618,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Uncitermes almeriae Carrijo, 2016",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Uncitermes Rocha & Cancello, 2012",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q25389127",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Uncitermes teevani": {
+  "gbif": {
+   "key": 9547733,
+   "status": "SYNONYM",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Uncitermes teevani (Emerson, 1925)",
+   "accepted": {
+    "key": 9734260,
+    "name": "Armitermes teevani Emerson, 1925",
+    "status": null,
+    "rank": "SPECIES"
+   }
+  },
+  "col": {
+   "id": "CHL5N",
+   "status": "accepted",
+   "label": "Uncitermes teevani (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q25389085",
+  "flags": [
+   "gbif_synonym"
+  ],
+  "_d": "2026-10-28"
+ }
+}

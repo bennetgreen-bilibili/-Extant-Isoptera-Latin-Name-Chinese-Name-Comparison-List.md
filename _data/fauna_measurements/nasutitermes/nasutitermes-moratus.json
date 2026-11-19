@@ -1,0 +1,38 @@
+{
+ "book_n": "426",
+ "book_name": "印度象白蚁 Nasutitermes moratus",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "印度象白蚁有翅成虫量度( mm)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "17.00"
+    },
+    {
+     "key": "body_length_without_wings",
+     "value": "8.50"
+    },
+    {
+     "key": "ocellus_length",
+     "value": "0.19"
+    },
+    {
+     "key": "ocellus_width",
+     "value": "0.12"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.29"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 681,
+   "unit": "mm"
+  }
+ ]
+}

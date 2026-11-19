@@ -1,0 +1,24 @@
+{
+ "Unicornitermes gaerdesi": {
+  "gbif": {
+   "key": 9763016,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Unicornitermes gaerdesi Coaton, 1971",
+   "accepted": null
+  },
+  "col": {
+   "id": "7DJM3",
+   "status": "accepted",
+   "label": "Unicornitermes gaerdesi Coaton, 1971",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073695",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

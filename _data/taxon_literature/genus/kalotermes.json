@@ -1,0 +1,46 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "属名的早期历史",
+   "paragraphs": [
+    {
+     "text": "根据程冬保、杨兆芬《白蚁学》（2014），等翅下目（Isoptera）最早定名的属是白蚁属（Termes），由 Linnaeus 于 1758 年命名；木白蚁属（Kalotermes）由 Hagen 于 1853 年命名，是最早命名的一批白蚁属之一。同一段还提到草白蚁属（Hodotermes）、鼻白蚁属（Rhinotermes）也在 1853 年由 Hagen 命名，洞白蚁属和胄白蚁属则命名于 1858 年。",
+     "src": [
+      "S0001"
+     ],
+     "text_en": "According to Cheng Dongbao and Yang Zhaofen's Termitology (2014), the first genus of Isoptera to be named was Termes, named by Linnaeus in 1758; Kalotermes was named by Hagen in 1853 and is one of the earliest-named batch of termite genera. The same passage also mentions that Hodotermes and Rhinotermes were likewise named by Hagen in 1853, while the genera Dongbaiyan and Zhoubaiyan (Chinese-language genus names; the source gives no Latin equivalents) were named in 1858.",
+     "text_es": "Según la obra Termitología (Baitixue, 2014) de Cheng Dongbao y Yang Zhaofen, el primer género nombrado en Isoptera fue Termes, establecido por Linnaeus en 1758; Kalotermes fue nombrado por Hagen en 1853 y es uno de los primeros géneros de termitas descritos. El mismo pasaje menciona que Hodotermes y Rhinotermes también fueron nombrados por Hagen en 1853, mientras que los géneros Dongbaiyan y Zhoubaiyan (nombres chinos; la fuente no da equivalentes latinos) se nombraron en 1858."
+    }
+   ],
+   "heading_en": "Early history of the genus name",
+   "heading_es": "Historia temprana del nombre genérico"
+  },
+  {
+   "heading": "新西兰的粪粒化石",
+   "heading_en": "Coprolite fossils from New Zealand",
+   "heading_es": "Coprolitos fósiles de Nueva Zelanda",
+   "paragraphs": [
+    {
+     "src": [
+      "S0213"
+     ],
+     "text": "据摘要，Kaulfuß 等（2010）在讨论新西兰化石记录时指出，在胄白蚁科的早中新世前翅化石发表之前，新西兰唯一的等翅类化石证据是硅化粪粒，可归入木白蚁属（<i>Kalotermes</i>）的一个种，种名 brauni（本站名录未收录该化石种）；粪粒不能提供翅脉等分类特征，因此其鉴定精度低于实体化石。",
+     "text_en": "According to the abstract of Kaulfuß et al. (2010), before the Early Miocene stolotermitid forewing was described the only fossil termite evidence from New Zealand was silicified faecal pellets assignable to a species of <i>Kalotermes</i> (not covered by this list); pellets preserve no wing venation or other diagnostic characters, so their identification is less precise than that of body fossils.",
+     "text_es": "Según el resumen de Kaulfuß et al. (2010), antes de que se describiera el ala anterior de un estolotermítido del Mioceno temprano, la única evidencia fósil de termitas en Nueva Zelanda eran pellets fecales silicificados atribuibles a una especie de <i>Kalotermes</i> (no incluida en esta lista); los pellets no conservan venación alar ni otros caracteres diagnósticos, por lo que su identificación es menos precisa que la de los fósiles corporales."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0001",
+   "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+  },
+  {
+   "id": "S0213",
+   "citation": "Kaulfuß, U.; Harris, A. C.; Lee, D. E. 2010. A New Fossil Termite (Isoptera, Stolotermitidae, Stolotermes) from the Early Miocene of Otago, New Zealand. Acta Geologica Sinica - English Edition.",
+   "doi": "10.1111/j.1755-6724.2010.00275.x"
+  }
+ ]
+}

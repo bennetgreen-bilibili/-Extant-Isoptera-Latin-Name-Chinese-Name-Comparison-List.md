@@ -1,0 +1,43 @@
+{
+ "latin": "Eurytermes",
+ "zh": "宽白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Eurytermes Wasmann, 1902d: 124.",
+ "type_species": "Eurytermes assmuthi Wasmann, 1902 by monotypy.",
+ "references": [
+  {
+   "ref": "Escherich, 1909: 175",
+   "note": "Eurytermes; characters."
+  },
+  {
+   "ref": "Holmgren, 1912a: 76, 77, 82–83",
+   "note": "Eurytermes; characters; key; species included; systematic position."
+  },
+  {
+   "ref": "Snyder, 1934a: 26, 28",
+   "note": "Eurytermes; key."
+  },
+  {
+   "ref": "Lal and Menon, 1953: 37, 38",
+   "note": "Eurytermes; catalog; reference list; key."
+  },
+  {
+   "ref": "Ahmad, 1958: 86, 90",
+   "note": "Eurytermes; key."
+  },
+  {
+   "ref": "Roonwal and Chhotani, 1966c: 81–88",
+   "note": "Eurytermes; synonymy; characters; affinities; zoogeography."
+  },
+  {
+   "ref": "Chatterjee and Thakur, 1967: 4",
+   "note": "Eurytermes; key."
+  },
+  {
+   "ref": "Bose and Das, 1982: 200",
+   "note": "Eurytermes; key."
+  }
+ ],
+ "nrefs": 29
+}

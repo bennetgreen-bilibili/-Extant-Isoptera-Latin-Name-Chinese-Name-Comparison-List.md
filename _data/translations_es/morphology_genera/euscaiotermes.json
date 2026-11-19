@@ -1,0 +1,17 @@
+{
+ "note": "Género monotípico (E. primus Silvestri), endémico de la India; al no disponer de especímenes, la obra se basa en la descripción original de Silvestri y en las notas de Emerson. Alado desconocido.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Género monotípico endémico de la India. Soldado con cápsula cefálica subrectangular, ligeramente estrechada hacia delante; antenas de 17 segmentos (el 3.º más corto que el 2.º); labro triangular y de ápice agudo; mandíbulas robustas, con el extremo incurvado; mandíbula izquierda con una escotadura por detrás del tercio apical y mandíbula derecha sin dientes; obrero con antenas de 19 segmentos, postclípeo de longitud igual a un tercio de su anchura y mandíbulas del mismo tipo que en Odontotermes."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cápsula cefálica subrectangular, ligeramente estrechada hacia delante; antenas de 17 segmentos, el 3.º más corto que el 2.º; labro triangular, de ápice agudo; mandíbulas robustas, con el extremo incurvado; mandíbula izquierda con una escotadura por detrás del tercio apical, mandíbula derecha sin dientes; postmentón subrectangular; pronoto sillinforme, con escotadura en el margen anterior y margen posterior débilmente cóncavo; fórmula de espinas tibiales 3:2:2, tarsos de 4 tarsómeros; cercos de 2 segmentos; con una proyección espinosa."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cápsula cefálica subcircular, más ancha que larga; fontanela blanca, circular y grande; antenas de 19 segmentos; postclípeo convexo, de longitud igual a un tercio de su anchura; mandíbulas del mismo tipo que en Odontotermes, con diente apical y 2 dientes marginales; pronoto sillinforme; patas como en el soldado."
+  }
+ ]
+}

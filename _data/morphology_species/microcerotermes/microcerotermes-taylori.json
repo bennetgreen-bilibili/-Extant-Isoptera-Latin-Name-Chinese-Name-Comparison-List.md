@@ -1,0 +1,29 @@
+{
+ "zh_name": "泰勒锯白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫与 M. nanus 近缘，区别为体色更深、复眼稍大、触角 13 节、翅微刺明显不同；兵蚁与 M. nanus 的区别是头较短而窄、两侧向颚基的收窄较弱、上颚更长更细、上唇较短窄，下唇基比 M. nanus 窄约四分之一，并在后方三分之一处明显收窄。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头较短窄，上颚更长而细，上唇较短窄；下唇基比 M. nanus 窄约四分之一，并在后方三分之一处明显收窄；触角 13 节。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头 clay colour，缝很清晰；后唇基与头同色，具明显的褐色中缝，在颚关节内方有一大的暗栗色斑；触角 13 或 14 节，第 3 节最短，第 4 节至倒数第二节渐次增长，末节明显更长且稍窄。与 M. nanus 的区别是颚关节斑更大、唇基有暗中缝、额与头后同色而非白色。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "与 M. nanus 近缘；体色更深，复眼稍大，触角 13 节，翅微刺明显不同。头 dark bay，后唇基明显较浅并具暗中缝；触角 13 节，第 3 节最短；复眼较大，单眼宽卵形、很小；前胸背板如 M. nanus。"
+  }
+ ],
+ "note": "据 Hill 1927（Mem. Natl. Mus. Melbourne 7）改写；原文作 microcerotermes taylori；量度表 OCR 多处残损，未录；异名、分布与生物学从略。",
+ "sources": [
+  {
+   "id": "S0491",
+   "citation": "Hill G. F. 1927. Termites from the Australian Region. Part I. https://archive.org/details/memoirsnational7natia",
+   "locator": "pp. 89-91（有翅成虫、兵蚁、工蚁）"
+  }
+ ]
+}

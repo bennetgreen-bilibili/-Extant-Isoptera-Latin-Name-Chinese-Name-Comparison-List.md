@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "消化道固氮菌与食粪行为",
+   "heading_en": "Gut diazotrophs and coprophagy",
+   "heading_es": "Diazótrofos intestinales y coprofagia",
+   "paragraphs": [
+    {
+     "src": [
+      "S0330"
+     ],
+     "text": "据摘要，Golichenkov 等（2006）指出，栗色新白蚁（<i>Neotermes castaneus</i>）的正常生命活动需要消化道内暂驻的固氮细菌持续补充，这一补充通过食粪行为与反复利用富含粪便的基质实现；该研究首次证明，在不能再利用粪便的白蚁中，需氧与兼性厌氧固氮菌复合体会因微生物类群组成的扩展与优势类群的更替而发生显著变化。",
+     "text_en": "According to the abstract, Golichenkov et al. (2006) state that the normal vital activity of <i>Neotermes castaneus</i> requires the presence and continuous replenishment of transient nitrogen-fixing bacteria in the digestive tract, achieved through coprophagy and the repeated use of substrate enriched with termite faeces; the study provides the first demonstration of significant changes in the complex of aerobic and facultatively anaerobic nitrogen fixers, mediated by an extension of microbial group composition and a shift in dominant taxa, in termites that cannot reutilise their faeces.",
+     "text_es": "Según el resumen, Golichenkov et al. (2006) señalan que la actividad vital normal de <i>Neotermes castaneus</i> requiere la presencia y la reposición continua de bacterias fijadoras de nitrógeno transitorias en el tubo digestivo, lo que se logra mediante la coprofagia y la utilización repetida de sustrato enriquecido con heces de termitas; el estudio demuestra por primera vez cambios significativos en el complejo de fijadores aerobios y anaerobios facultativos, mediados por una ampliación de la composición de grupos microbianos y un cambio de los taxones dominantes, en termitas que no pueden reutilizar sus heces."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0330",
+   "citation": "Golichenkov, M. V.; Kostina, N. V.; Ul'yanova, T. A.; Kuznetsova, T. A.; Umarov, M. M. 2006. Diazotrophs in the digestive tract of termite Neotermes castaneus. Biology Bulletin.",
+   "url": "https://doi.org/10.1134/s106235900605013x"
+  }
+ ]
+}

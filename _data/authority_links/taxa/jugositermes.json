@@ -1,0 +1,24 @@
+{
+ "Jugositermes tuberculatus": {
+  "gbif": {
+   "key": 9676695,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Jugositermes tuberculatus Emerson, 1928",
+   "accepted": null
+  },
+  "col": {
+   "id": "3QRVV",
+   "status": "accepted",
+   "label": "Jugositermes tuberculatus Emerson, 1928",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q136325892",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

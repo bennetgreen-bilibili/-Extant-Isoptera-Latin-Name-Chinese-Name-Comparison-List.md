@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "属级归属变迁",
+   "heading_en": "History of its generic placement",
+   "heading_es": "Historia de su ubicación genérica",
+   "paragraphs": [
+    {
+     "text": "根据 Roonwal 与 Chhotani（1965）研究，弗莱彻角白蚁（<i>Angulitermes fletcheri</i>）原由 Holmgren 与 Holmgren 描述为 <i>Mirotermes</i> 属的种，1949 年被 Snyder 置于白蚁属（<i>Termes</i>），1958 年 Ahmad 仍将其列在白蚁属（<i>Termes</i>）中；1961 年 Mathur 与 Sen-Sarma、1965 年 Krishna 先后将其转入角白蚁属（<i>Angulitermes</i>），该文采用后一处理。（据摘要）",
+     "src": [
+      "S0343"
+     ],
+     "text_en": "In the study by Roonwal and Chhotani (1965), <i>Angulitermes fletcheri</i> was originally described by Holmgren and Holmgren as a species of <i>Mirotermes</i>, was placed in <i>Termes</i> by Snyder in 1949 and was still listed in <i>Termes</i> by Ahmad in 1958; Mathur and Sen-Sarma in 1961 and Krishna in 1965 transferred it to <i>Angulitermes</i>, the treatment adopted by the paper. (According to the abstract.)",
+     "text_es": "En el estudio de Roonwal y Chhotani (1965), <i>Angulitermes fletcheri</i> fue descrita originalmente por Holmgren y Holmgren como especie de <i>Mirotermes</i>, fue situada en <i>Termes</i> por Snyder en 1949 y Ahmad la seguía listando en <i>Termes</i> en 1958; Mathur y Sen-Sarma en 1961 y Krishna en 1965 la transfirieron a <i>Angulitermes</i>, tratamiento que adopta el artículo. (Según el resumen.)"
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0343",
+   "citation": "Roonwal, M. L.; Chhotani, O. B. 1965. Two New Termites of Genus Angulitermes Sjostedt (Isoptera: Termitidae) from India, with a Key to Species of Indian Region. Records of the Zoological Survey of India 63(1-4).",
+   "doi": "10.26515/rzsi/v63/i1-4/1965/161567"
+  }
+ ]
+}

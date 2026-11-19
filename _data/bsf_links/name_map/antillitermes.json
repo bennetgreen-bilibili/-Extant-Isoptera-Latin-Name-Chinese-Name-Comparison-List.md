@@ -1,0 +1,13 @@
+{
+ "Antillitermes subtilis": {
+  "label": "Antillitermes subtilis (Scheffrahn & Křeček, 1993)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84312,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84312/overview",
+  "valid_label": null,
+  "valid_otu": 84312,
+  "verified": false
+ }
+}

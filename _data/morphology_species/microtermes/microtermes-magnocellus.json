@@ -1,0 +1,21 @@
+{
+ "zh_name": "大单眼小白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫单眼较大，距复眼仅其直径的六分之一；M. lounsburyi 较小而近缘；M. vadschaggae 单眼较小；M. thoracalis 单眼较小，前胸背板后部两侧较直。兵蚁与 M. subhyalinus 的变种 depauperata 略近，但后者触角十二节；M. subhyalinus 的头比例上较短；M. pusillus 触角十二节。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头黄色，密被短毛；两侧圆，向前收拢。触角 13 节，第三节小于第四节，第四节小于第二节。上唇长，明显超过上颚长度之半。上颚深红褐色，基部黄色。前胸背板前缘深凹。前足胫节膨大。头长 1.22–1.27 mm；头宽 0.64–0.73 mm；触角长 1.05 mm；前胸背板长 0.33 mm、宽 0.47–0.50 mm；后胫节长 0.58 mm；左上颚长 0.56 mm。"
+  }
+ ],
+ "note": "据 Emerson (1928) 种级描述改写；原文语言为英文，有兵蚁与有翅成虫，但切片内有翅成虫仅存比较记述、无完整描述，故只列兵蚁；未记工蚁；删去图号、产地、命名由来与野外观察。",
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. https://hdl.handle.net/2246/852",
+   "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+  }
+ ]
+}

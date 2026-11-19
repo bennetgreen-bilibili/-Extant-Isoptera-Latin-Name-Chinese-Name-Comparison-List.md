@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "对称弹颚兵蚁的化学系统学",
+   "heading_en": "Chemical systematics of the symmetrical snappers",
+   "heading_es": "Sistemática química de los soldados que chasquean simétricamente",
+   "paragraphs": [
+    {
+     "src": [
+      "S0325"
+     ],
+     "text": "根据 Kyjaková 等（2016）研究，在肉瘤腔白蚁（<i>Cavitermes tuberosus</i>）的对称弹颚兵蚁中已发现具活性的额腺与独特的防御化学物；该研究另取 5 个新热带种，比较其额腺解剖与分泌物化学，并把结果映射到新构建的分子系统树上，显示所研全部种类的兵蚁都有功能性额腺，腺体一部分位于头部的额突内，系统树把所研类群分为两支，其防御化学物分别仅来自脂类合成途径，或还含异戊二烯途径的产物。研究还识别出一个与腔白蚁属（<i>Cavitermes</i>）近缘的对称弹颚兵蚁新属，该属在此前多项研究中被错误归类（据摘要）。",
+     "text_en": "According to Kyjaková et al. (2016), an active frontal gland and unique defensive chemicals had already been reported in the symmetrically snapping soldiers of <i>Cavitermes tuberosus</i>; the study examined five additional Neotropical species, comparing the anatomy of the frontal gland and the chemistry of its secretion and mapping the observations onto a newly constructed molecular phylogeny. The soldiers of all studied species possess a functional frontal gland, housed in part in the frontal projections of the head, and the phylogeny groups the studied taxa into two well-defined clades supported by fundamental differences in defensive chemicals, which arise either exclusively from the lipogenic pathway or also include products of the isoprenoid pathway. The results also identify a new genus of symmetrical snappers related to <i>Cavitermes</i> that was incorrectly classified in several previous studies (according to the abstract).",
+     "text_es": "Según Kyjaková et al. (2016), ya se había descrito una glándula frontal activa y sustancias defensivas peculiares en los soldados que chasquean simétricamente de <i>Cavitermes tuberosus</i>; el estudio examinó cinco especies neotropicales adicionales, comparando la anatomía de la glándula frontal y la química de su secreción y proyectando las observaciones sobre una filogenia molecular de nuevo construcción. Los soldados de todas las especies estudiadas poseen una glándula frontal funcional, alojada en parte en las proyecciones frontales de la cabeza, y la filogenia agrupa a los taxones estudiados en dos clados bien definidos, apoyados por diferencias fundamentales en las sustancias defensivas, que proceden exclusivamente de la vía lipogénica o incluyen además productos de la vía isoprenoide. Los resultados identifican también un género nuevo de soldados que chasquean simétricamente, emparentado con <i>Cavitermes</i>, que había sido clasificado erróneamente en varios estudios anteriores (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0325",
+   "citation": "Kyjaková, P.; Roy, V.; Jirošová, A.; Krasulová, J.; Dolejšová, K.; Křivánek, J.; Hadravová, R.; Rybáček, J.; Pohl, R.; Roisin, Y.; Sillam-Dussès, D.; Hanus, R. 2016. Chemical systematics of Neotropical termite genera with symmetrically snapping soldiers (Termitidae: Termitinae). Zoological Journal of the Linnean Society.",
+   "url": "https://doi.org/10.1111/zoj.12486"
+  }
+ ]
+}

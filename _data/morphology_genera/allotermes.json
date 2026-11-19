@@ -1,0 +1,25 @@
+{
+ "zh_name": "奇白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 Procryptotermes 近缘，但兵蚁额与头顶之间无脊，触角第三节呈棒状；有翅成虫爪间突（arolium）缺。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "眼径约 0.35–0.36 mm，单眼接触复眼；左上颚第一、二缘齿基部明显小于第三缘齿，其后缘约为第三缘齿前缘之半；前胸背板略窄于头或与头等宽；爪间突缺。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头长而窄，两侧平行，前部约以 45° 下倾；额与头顶之间无脊；触角窝前下方有微弱的角状突；眼明显，部分种着色；触角 10–12 节，第三节深色、高度骨化、长棒状；上颚长，具明显基瘤，齿退化；前胸背板与头等宽，前缘宽而深凹，两侧圆。"
+  }
+ ],
+ "note": "据 Krishna (1961) 属级记述改写；原文为英文，非逐字翻译。",
+ "sources": [
+  {
+   "id": "S0021",
+   "citation": "Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.",
+   "locator": "p. 358"
+  }
+ ]
+}

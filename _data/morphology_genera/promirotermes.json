@@ -1,0 +1,21 @@
+{
+ "zh_name": "前奇白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头向前显著收窄、两侧近直；上唇前缘凹、末端呈两尖；上颚长而细、黑色、适于弹跳（snapping）；触角 14 节、第 3 节甚长。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头黄色、向前强烈收窄、两侧近平直；触角 14 节（第 3 节甚长、约 0.22–0.32 mm，第 2 与第 4 节约等长）；上唇前缘凹、末端呈两尖；上颚长而细、黑色、适于弹跳；前胸背板前缘微凹。量度（mm）：含颚头长 3.00–3.10、头宽 1.10–1.17、触角 2.20、前胸背板 0.27×0.55、后足胫节 1.27、左颚 1.77–1.84。与 M. bellicosi（前胸背板前缘深裂）、M. gracilipes（更大、头侧不甚直）、M. holmgreni（额突更隆起、头侧不直）相区别。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+   "locator": "pp. 541–542"
+  }
+ ],
+ "note": "Emerson (1928) 将本属作 Mirotermes 的亚属处理；本处仅据其刚果产 Mirotermes (Promirotermes) orthoceps（新种，模式产地 Banana）的兵蚁整理，属级有翅成虫与工蚁未描述。现代属见 Krishna et al. (2013)。"
+}

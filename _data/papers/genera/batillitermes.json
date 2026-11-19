@@ -1,0 +1,31 @@
+{
+ "fetched_at": "2026-10-30T15:49:44Z",
+ "latin": "Batillitermes",
+ "papers": [
+  {
+   "abstract": "Batillitermes monachus, a termitine genus and species from Zimbabwe, is descriptionbed as new. The descriptionption is based on the soldier and worker castes; the imago is unknown. Data on biology and distribution are given, followed by a discussion on the relationships of the genus.",
+   "abstract_chars": 284,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Vivienne M. Uys"
+   ],
+   "cited_by": 3,
+   "date": "1994-01-01",
+   "doi": "",
+   "doi_url": "",
+   "id": "https://openalex.org/W2492809510",
+   "issue": "1",
+   "language": "en",
+   "oa_url": "https://journals.co.za/content/ento/2/1/AJA10213589_132",
+   "openalex_url": "https://openalex.org/W2492809510",
+   "pages": "53-56",
+   "title": "Batillitermes monachus (Isoptera: Termitidae: Termitinae), a new termite genus and species from southern Africa",
+   "type": "article",
+   "venue": "African Entomology",
+   "volume": "2",
+   "year": 1994
+  }
+ ],
+ "zh": "铲白蚁属"
+}

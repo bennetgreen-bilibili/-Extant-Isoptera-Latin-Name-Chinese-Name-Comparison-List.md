@@ -1,9 +1,12 @@
 {%- include lang-path.html -%}
-{%- assign zh_url = path_no_lang -%}
-{%- assign fauna_zh = site.data.fauna_species[zh_url] -%}
+{%- comment -%} 数据分片：_data/fauna_species/<属>/<slug>.json，值是条目本身；
+     键＝page.genus_id（属 id）＋ 页面 URL 最后一段（slug）。 {%- endcomment -%}
+{%- assign _slug = path_no_lang | split: '/' | last -%}
+{%- assign _gid = page.genus_id | default: page.latin | split: ' ' | first | downcase -%}
+{%- assign fauna_zh = site.data.fauna_species[_gid][_slug] -%}
 {%- assign fauna_tr = nil -%}
-{%- if page.lang == 'en' -%}{%- assign fauna_tr = site.data.translations_en.fauna_species[zh_url] -%}
-{%- elsif page.lang == 'es' -%}{%- assign fauna_tr = site.data.translations_es.fauna_species[zh_url] -%}
+{%- if page.lang == 'en' -%}{%- assign fauna_tr = site.data.translations_en.fauna_species[_gid][_slug] -%}
+{%- elsif page.lang == 'es' -%}{%- assign fauna_tr = site.data.translations_es.fauna_species[_gid][_slug] -%}
 {%- endif -%}
 {%- assign fz = fauna_zh -%}
 {%- if page.lang == 'en' or page.lang == 'es' -%}{%- assign fz = fauna_tr -%}{%- endif -%}

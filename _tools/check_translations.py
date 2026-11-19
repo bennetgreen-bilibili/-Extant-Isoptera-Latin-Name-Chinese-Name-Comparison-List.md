@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Verify _data/translations_en.json and _data/translations_es.json.
+"""Verify the _data/translations_en/ and _data/translations_es/ shards.
 
 Checks, per language and per translated data file:
   * the JSON is valid and the top-level layout follows the contract order;
@@ -27,6 +27,8 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
+import shard_io  # noqa: E402
+
 from translations_split import DATA, ROOT, count_chars, extract  # noqa: E402
 from translations_merge import (  # noqa: E402
     CJK_RE,
@@ -45,6 +47,10 @@ def load_json(path):
 
 
 def load_source(name):
+    """Read one source dataset: a `_data/<name>/` shard tree if it exists, else
+    a legacy single file (`fauna_genera` and friends were never split)."""
+    if shard_io.exists(name):
+        return shard_io.load(name)
     return load_json(os.path.join(DATA, name + ".json"))
 
 
@@ -100,7 +106,7 @@ def check_one(lang, name, doc, problems, stats):
     block = doc.get(name)
     if block is None:
         stats["missing_keys"] += len(src_all)
-        problems.append("[%s] %s: whole section missing from translations_%s.json"
+        problems.append("[%s] %s: whole section missing from translations_%s/"
                         % (lang, name, lang))
         return
     translated = 0
@@ -183,23 +189,29 @@ def main():
     problems = []
     per_lang = {}
     for lang in langs:
-        path = os.path.join(DATA, "translations_%s.json" % lang)
+        name = "translations_%s" % lang
         stats = {"keys": 0, "translated": 0, "chars": 0, "missing_keys": 0,
                  "missing_by_name": {}, "files": {}}
-        if not os.path.exists(path):
-            problems.append("[%s] missing file %s" % (lang, os.path.relpath(path, ROOT)))
+        if not shard_io.exists(name):
+            problems.append("[%s] missing shards _data/%s/" % (lang, name))
             per_lang[lang] = stats
             continue
         try:
-            doc = load_json(path)
+            doc = shard_io.load(name)
         except Exception as exc:  # noqa: BLE001
             problems.append("[%s] invalid JSON: %s" % (lang, exc))
             per_lang[lang] = stats
             continue
         top = [k for k in doc if k != "meta"]
-        order = [k for k in ORDER[1:] if k in top]
-        if top != order:
-            problems.append("[%s] top-level order %s != contract order %s" % (lang, top, order))
+        # The shards are one file per block, so merge() yields them in file-name
+        # order; the on-disk order is not the contract order any more. Compare
+        # sets, and keep reporting unknown blocks.
+        want = set(ORDER[1:])
+        unknown = [k for k in top if k not in want]
+        missing = [k for k in ORDER[1:] if k not in top]
+        if unknown or missing:
+            problems.append("[%s] top-level blocks unknown=%s missing=%s"
+                            % (lang, unknown, missing))
         meta = doc.get("meta", {})
         if meta.get("schema") != 1:
             problems.append("[%s] meta.schema != 1" % lang)

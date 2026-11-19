@@ -1,0 +1,37 @@
+{
+ "latin": "Verrucositermes",
+ "zh": "疣白蚁属",
+ "fetched_at": "2026-10-30T16:54:52Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W4320928990",
+   "openalex_url": "https://openalex.org/W4320928990",
+   "doi": "10.1016/j.asd.2023.101238",
+   "doi_url": "https://doi.org/10.1016/j.asd.2023.101238",
+   "title": "The ultrastructure of the rostral gland in soldiers of Verrucositermes tuberosus (Blattodea: Termitidae: Nasutitermitinae)",
+   "year": 2023,
+   "date": "2023-02-15",
+   "authors": [
+    "Cédric Aumont",
+    "Tereza Beránková",
+    "Dino Peter McMahon",
+    "Renate Radek",
+    "Pierre Dieudonné Akama",
+    "David Sillam‐Dussès",
+    "Jan Šobotník"
+   ],
+   "venue": "Arthropod Structure & Development",
+   "type": "article",
+   "language": "en",
+   "cited_by": 2,
+   "oa_url": "",
+   "volume": "73",
+   "issue": "",
+   "pages": "101238-101238",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  }
+ ]
+}

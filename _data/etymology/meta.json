@@ -1,0 +1,12 @@
+{
+ "version": "1.6.0",
+ "sources": [
+  "S0004",
+  "S0018",
+  "S0019",
+  "S0121"
+ ],
+ "scope": "现存等翅下目（白蚁）326 属 + 3021 种 + 68 亚种的属名与种加词词源（去重）。",
+ "method": "拆解式词源：属名拆为词根；种加词按 eponym（人名）/toponym（地名）/描述性拉丁或希腊词根分类。词根依据 Brown (1956)《Composition of Scientific Words》（S0018）；Fontes & Monteiro (1998) 仅作交叉核对（access blocked，S0019）。",
+ "note": "中文为主 + 英文；无法确定的标「词源未详」，具体指向不明的人名/地名标「待考」，不作猜测。词尾 -termes=拉丁文 termes（白蚁），-termopsis=term-+-opsis（外观）。；v1.1.0 并入 15 未详 + 102 高置信 + 子智能体分批查证(569 待考去重)。 种加词中部分为南美图皮语/瓜拉尼语土名（ayri/taracua/cangua/cupiporanga/sapiranga/ubixaba/ibitiriguara/tiapuan），已据当地语言词典落实含义；另补西班牙语（es）对照，由英文释义逐条转译。"
+}

@@ -1,0 +1,59 @@
+{
+ "fetched_at": "2026-10-30T15:46:32Z",
+ "latin": "Anhangatermes",
+ "papers": [
+  {
+   "abstract": "The taxonomy of Anhangatermes Constantino 1990 is revised. Four new species are described: Anhangatermes anhanguera, sp. n., Anhangatermes eurycephalus, sp. n., Anhangatermes juruena, sp. n., and Anhangatermes pilosus, sp. n. The imago of Anhangatermes is described for the first time (A. pilosus). A key to the species of the genus based on soldiers and workers is provided. The diagnosis of the genus is updated to accommodate the new species. The geographic range of the genus is expanded to the Cerrado region of Central Brazil. The gizzard armature of the worker of Anhangatermes is described in detail for the first time.",
+   "abstract_chars": 627,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Danilo Elias de Oliveira",
+    "Hélida Ferreira da Cunha",
+    "Reginaldo Constantino"
+   ],
+   "cited_by": 1,
+   "date": "2014-10-03",
+   "doi": "10.11646/zootaxa.3869.5.2",
+   "doi_url": "https://doi.org/10.11646/zootaxa.3869.5.2",
+   "id": "https://openalex.org/W2140614181",
+   "issue": "5",
+   "language": "en",
+   "oa_url": "https://doi.org/10.11646/zootaxa.3869.5.2",
+   "openalex_url": "https://openalex.org/W2140614181",
+   "pages": "523-36",
+   "title": "A taxonomic revision of the soil-feeding termite genus Anhangatermes (Isoptera: Termitidae: Nasutitermitinae)",
+   "type": "article",
+   "venue": "Zootaxa",
+   "volume": "3869",
+   "year": 2014
+  },
+  {
+   "abstract": "Tiunatermes mariuzani gen. nov. and sp. nov. from the subfamily Nasutitermitinae is described based on soldiers and workers collected in Brazilian savannah (Cerrado), Jalapão region, Brazil. Digital images, scanning electron micrographs and illustrations of diagnostic characters are provided. Soldiers and workers of Tiunatermes share in particular some morphological traits with the neotropical nasute termite genera Anhangatermes Constantino, but soldiers can be distinguished by a conical nasus, procoxa without a hump on the anterior surface, abdominal sclerites well sclerotized, and imbricate tergites and workers are distinguished by mandible morphology, coiling gut in situ, and cuticular armature of the gizzard and the enteric valve.",
+   "abstract_chars": 744,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Tiago F. Carrijo",
+    "Carolina Cuezzo",
+    "Rafaella Gregório Santos"
+   ],
+   "cited_by": 4,
+   "date": "2015-01-12",
+   "doi": "10.1111/aen.12137",
+   "doi_url": "https://doi.org/10.1111/aen.12137",
+   "id": "https://openalex.org/W1547740330",
+   "issue": "4",
+   "language": "en",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W1547740330",
+   "pages": "358-365",
+   "title": "T iunatermes mariuzani gen. nov. et sp. nov., a new nasute termite from the B razilian savannah ( I soptera: T ermitidae)",
+   "type": "article",
+   "venue": "Austral Entomology",
+   "volume": "54",
+   "year": 2015
+  }
+ ],
+ "zh": "魔白蚁属"
+}

@@ -1,0 +1,63 @@
+{
+ "book_n": "287",
+ "book_name": "畹町地白蚊 Hypotermes wandingensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "晚盯地白蚊兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_mandibles",
+     "mean": "1.74",
+     "value": "1.68–1.77"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.14",
+     "value": "1.10–1.19"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "0.97",
+     "value": "0.90–1.00"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.652",
+     "value": "0.65–0.67"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.21",
+     "value": "0.19–0.26"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.25",
+     "value": "0.23–0.29"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.46",
+     "value": "0.42–0.48"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.71",
+     "value": "0.68–0.74"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.05",
+     "value": "1.03–1.06"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 364,
+   "unit": "mm"
+  }
+ ]
+}

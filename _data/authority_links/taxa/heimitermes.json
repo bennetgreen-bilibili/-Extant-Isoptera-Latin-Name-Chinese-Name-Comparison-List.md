@@ -1,0 +1,46 @@
+{
+ "Heimitermes laticeps": {
+  "gbif": {
+   "key": 9689586,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heimitermes laticeps Noirot & Grassé, 1955",
+   "accepted": null
+  },
+  "col": {
+   "id": "3K3TZ",
+   "status": "accepted",
+   "label": "Heimitermes laticeps Noirot & Grassé, 1955",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251907",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heimitermes moorei": {
+  "gbif": {
+   "key": 9815225,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heimitermes moorei Emerson, 1959",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LGFJ",
+   "status": "accepted",
+   "label": "Heimitermes moorei Emerson, 1959",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251908",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

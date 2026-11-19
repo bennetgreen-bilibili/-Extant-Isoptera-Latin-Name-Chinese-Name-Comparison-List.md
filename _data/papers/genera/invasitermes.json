@@ -1,0 +1,31 @@
+{
+ "latin": "Invasitermes",
+ "zh": "闯白蚁属",
+ "fetched_at": "2026-10-30T16:53:50Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2071415501",
+   "openalex_url": "https://openalex.org/W2071415501",
+   "doi": "10.1111/j.1440-6055.1984.tb01902.x",
+   "doi_url": "https://doi.org/10.1111/j.1440-6055.1984.tb01902.x",
+   "title": "INVASITERMES, A NEW GENUS OF SOLDIERLESS TERMITES FROM NORTHERN AUSTRALIA (ISOPTERA: TERMITIDAE)",
+   "year": 1984,
+   "date": "1984-02-01",
+   "authors": [
+    "L. R. Miller"
+   ],
+   "venue": "Australian Journal of Entomology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 19,
+   "oa_url": "",
+   "volume": "23",
+   "issue": "1",
+   "pages": "33-37",
+   "abstract": "Termes insitivus (Hill) and the winged adult previously attributed to T. quadratus (Hill) are not referable to the genus Termes Linnaeus. The 2 species belong to a new genus in the Amitermes group of genera. This genus, in which the soldier caste appears to be lacking, is described, and additional measurements and notes on biology are given for the 2 species, Invasitermes inermis sp. n. and I. insitivus.",
+   "abstract_source": "openalex",
+   "abstract_chars": 407,
+   "abstract_truncated": false
+  }
+ ]
+}

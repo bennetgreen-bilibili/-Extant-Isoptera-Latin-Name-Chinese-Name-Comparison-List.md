@@ -1,0 +1,42 @@
+{
+ "/family/hodotermopsidae/": {
+  "alate": "",
+  "biology": "This group inhabits moist forests, boring into damp logs, fallen timber and stumps, and also damages living trees and the timber of cottages and old buildings; hence the name dampwood termites. Primary and secondary forests suffer especially heavily. Their galleries have no connection with the soil, and they live a concealed, wood-dwelling life.",
+  "book_ref": "(original work, section on the family Hodotermitidae)",
+  "diagnosis": "The grass termites recorded in the book belong to one of the more primitive branches of the Isoptera. No caste has a fontanelle; the pronotum is flat and narrower than the head; the first tarsomere of the hind leg is cleft only on its ventral surface and remains a single segment dorsally, so that the tarsus appears five-segmented in ventral view but only four-segmented in dorsal view; the cerci consist of four to eight segments; the alate lacks ocelli and has antennae of fifteen to twenty-seven segments; the soldier's tibiae bear two to four apical spurs. The transformed caste (the soldier) approaches the primitive type in head shape, mandibular teeth and the number of antennal and cercal segments; caste differentiation is not pronounced, and many ancestral characters are retained.",
+  "distribution": "The book records only one genus and one species as extant in China, found in subtropical montane and hilly forests; the precise localities and hosts are given on the species page for this genus.",
+  "soldier": "The soldier of the single genus recorded for China has a broad, flattened, nearly circular head capsule, with the posterior and lateral margins both rounded; the antennae are many-segmented, up to twenty-four segments; the compound eyes are distinct; the mandibles are robust and strongly curved, with very well developed mandibular teeth, the left mandible bearing four marginal teeth and the right three. The pronotum is flat and slightly narrower than the head; the hind tibia bears two lateral spurs in addition to four apical spurs, whereas the fore and mid tibiae have no lateral spurs; the cerci have four to six segments.",
+  "taxonomy_note": "The original work follows the system of Snyder and Emerson, placing the subfamily Termopsinae within the family Hodotermitidae (noting that the subfamily had been proposed for elevation to the family Termopsidae). This subfamily was later generally raised to the separate family Hodotermopsidae; this site follows the current system, so what is presented on this page is in fact the part of the original work's Hodotermitidae that concerns the Chinese species.",
+  "worker": ""
+ },
+ "/family/kalotermitidae/": {
+  "alate": "",
+  "biology": "In all groups of this family both nesting and feeding are confined to wood, and the galleries do not connect with the soil; seasoned timber, standing dead trees, structural timber and stored wooden articles may all be attacked. Because the colonies are small and concealed, they are often noticed only after the wood has been hollowed out; there are comparatively many records of damage to old buildings and old furniture in southern and coastal China.",
+  "book_ref": "(original work, section on the family Kalotermitidae)",
+  "diagnosis": "This family is a medium-sized, wood-dwelling primitive group, commonly called drywood termites. No caste has a fontanelle; the pronotum is flat, about as wide as the head or slightly wider; the tarsi are four-segmented and the tibiae bear two to four apical spurs; the cerci have only two segments. The soldier retains pale eye spots behind the antennae; the alate has ocelli, the forewing scale is much larger than the hindwing scale and overlies its base, the radial sector is well developed and branches several times, and the subcosta is weak. The family has no worker caste; feeding and brood care are carried out by the nymphs.",
+  "distribution": "The book records five genera from China (Cryptotermes, Kalotermes, Incisitermes, Glyptotermes and Neotermes); the number of genera and species included here under the current classification has been slightly adjusted; see the list below.",
+  "soldier": "",
+  "taxonomy_note": "",
+  "worker": ""
+ },
+ "/family/rhinotermitidae/": {
+  "alate": "",
+  "biology": "Most species of this family are both soil- and wood-dwelling, and the nest may be built underground, in tree trunks or within objects on the ground; colony structure is comparatively complex. They feed on living trees, dead wood and structural timber, and can also damage leather, plastics, cable sheathing and even metal articles; several genera are major cosmopolitan pests, causing particularly severe damage to houses, bridges, utility poles and telecommunications installations.",
+  "book_ref": "(original work, section on the family Rhinotermitidae)",
+  "diagnosis": "The head bears a fontanelle, the most conspicuous feature of the family; the antennae have thirteen to twenty-five segments; the pronotum is flat and narrower than the head; the tarsi are four-segmented, with no arolium beneath the claws; the cerci have two segments. The alate and worker have three marginal teeth on the left mandible and two on the right, the first marginal tooth bearing a subsidiary tooth; the alate has ocelli, the forewing scale is larger than the hindwing scale and the two overlap, and the wing membrane bears cross-veins forming a network.",
+  "distribution": "The family is species-rich and widely distributed, with the Oriental region as its centre of distribution and differentiation; some genera extend into the Neotropical, tropical and Australasian regions, and some species have established populations in the drier parts of the Northern Hemisphere. It occurs throughout China, north and south.",
+  "soldier": "",
+  "taxonomy_note": "The original work's Rhinotermitidae includes groups that have since been separated or synonymised: the genus Stylotermes is now usually placed in a family of its own, Stylotermitidae; the genus Tsaitermes has been sunk into Reticulitermes; and several species of Coptotermes have also been revised. This site follows the current system, so this page does not correspond genus by genus to the chapter in the original work.",
+  "worker": ""
+ },
+ "/family/termitidae/": {
+  "alate": "",
+  "biology": "All members of this family are soil-dwelling, nesting underground, in earthen mounds, in tree trunks or inside buildings. Groups such as the Macrotermitinae cultivate fungus combs in the nest to break down wood; they are important decomposers in tropical and subtropical ecosystems and at the same time major pests of crops, forest trees and buildings.",
+  "book_ref": "(original work, section on the family Termitidae)",
+  "diagnosis": "The largest family in the Isoptera, comprising about three-quarters of all species; its members are soil-dwelling higher termites, nesting mostly underground or within earthen mounds. The book divides it into five subfamilies: the Termitinae, the Amitermitinae, the Macrotermitinae, the Nasutitermitinae, and the Apicotermitinae established separately by Grasse and Noirot in 1954. Soldiers and workers are often markedly polymorphic, and a few groups lack soldiers. The soldier's pronotum is narrower than the head, its anterior margin upturned and saddle-shaped; a fontanelle is present; the cerci have one to two segments and the tarsi three to four. The alate has only one or two marginal teeth on the left mandible; the forewing and hindwing scales are separate, the forewing scale slightly larger; the radial vein is reduced or lost; the postclypeus is large and convex, and the fontanelle is prominent.",
+  "distribution": "The family is most flourishing in the tropics and subtropics; southern China is rich in species, and it is distributed throughout the provinces and regions south of the Yangtze River, being especially concentrated in the mountains of South China and the Southwest.",
+  "soldier": "",
+  "taxonomy_note": "The original work adopts the five-subfamily system and leaves within this family such groups as the genus Indotermes, which have since been proposed for separate family rank; this site follows the current system, so this page is an adapted account of the general characters of the original work's Termitidae, and the placement of individual genera follows the list.",
+  "worker": ""
+ }
+}

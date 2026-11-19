@@ -1,0 +1,57 @@
+{
+ "Spinitermes brevicornutus": {
+  "label": "Spinitermes brevicornutus (Desneux, 1904)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85823,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85823/overview",
+  "valid_label": null,
+  "valid_otu": 85823,
+  "verified": false
+ },
+ "Spinitermes longiceps": {
+  "label": "Spinitermes longiceps Constantino, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85824,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85824/overview",
+  "valid_label": null,
+  "valid_otu": 85824,
+  "verified": false
+ },
+ "Spinitermes nigrostomus": {
+  "label": "Spinitermes nigrostomus Holmgren, 1906",
+  "match": "exact",
+  "notes": "",
+  "otu": 85825,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85825/overview",
+  "valid_label": null,
+  "valid_otu": 85825,
+  "verified": false
+ },
+ "Spinitermes robustus": {
+  "label": "Spinitermes robustus (Snyder, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85826,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85826/overview",
+  "valid_label": null,
+  "valid_otu": 85826,
+  "verified": false
+ },
+ "Spinitermes trispinosus": {
+  "label": "Spinitermes trispinosus (Hagen, 1858)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85827,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85827/overview",
+  "valid_label": null,
+  "valid_otu": 85827,
+  "verified": false
+ }
+}

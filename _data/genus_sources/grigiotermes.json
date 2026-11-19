@@ -1,0 +1,27 @@
+{
+ "latin": "Grigiotermes",
+ "zh": "灰白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Grigiotermes Mathews, 1977: 94–96.",
+ "type_species": "Grigiotermes metoecus Mathews, 1977 by original designation.",
+ "references": [
+  {
+   "ref": "Fontes, 1985a: 3, 4",
+   "note": "Grigiotermes; key; worker gut described."
+  },
+  {
+   "ref": "Fontes, 1992: 245, 248",
+   "note": "Grigiotermes; key; distribution."
+  },
+  {
+   "ref": "Constantino, 1999a: 398, 412",
+   "note": "Grigiotermes; key; biology."
+  },
+  {
+   "ref": "Constantino, 2002a: 26",
+   "note": "Grigiotermes; key."
+  }
+ ],
+ "nrefs": 14
+}

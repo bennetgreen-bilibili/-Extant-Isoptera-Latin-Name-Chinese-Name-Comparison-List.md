@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn（2016）研究，尤卡坦微白蚁（<i>Parvitermes yucatanus</i>）是该文描述的新种之一，与墨西哥微白蚁（<i>Parvitermes mexicanus</i>）、中美洲微白蚁（<i>Parvitermes mesoamericanus</i>）并列于中美洲大陆的 3 种微白蚁属（<i>Parvitermes</i>）。",
+     "text_en": "According to Scheffrahn (2016), <i>Parvitermes yucatanus</i> is one of the new species described in that paper, standing alongside <i>Parvitermes mexicanus</i> and <i>Parvitermes mesoamericanus</i> among the three mainland Middle American species of <i>Parvitermes</i>.",
+     "text_es": "Según Scheffrahn (2016), <i>Parvitermes yucatanus</i> es una de las especies nuevas descritas en ese trabajo y figura junto a <i>Parvitermes mexicanus</i> y <i>Parvitermes mesoamericanus</i> entre las tres especies de <i>Parvitermes</i> del territorio continental de América Central.",
+     "src": [
+      "S0106"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0106",
+   "citation": "Scheffrahn R. H. 2016 Parvitermes (Isoptera, Termitidae, Nasutitermitinae) in Central America: Two new termite species and reassignment of Nasutitermes mexicanus.",
+   "doi": "10.3897/zookeys.617.10040"
+  }
+ ]
+}

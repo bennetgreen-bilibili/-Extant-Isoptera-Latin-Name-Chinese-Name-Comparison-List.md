@@ -1,0 +1,24 @@
+{
+ "Sabahitermes leuserensis": {
+  "label": "Sabahitermes leuserensis (Gathorne-Hardy, 2001)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84870,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84870/overview",
+  "valid_label": null,
+  "valid_otu": 84870,
+  "verified": false
+ },
+ "Sabahitermes malakuni": {
+  "label": "Sabahitermes malakuni Thapa, 1997",
+  "match": "exact",
+  "notes": "",
+  "otu": 84871,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84871/overview",
+  "valid_label": null,
+  "valid_otu": 84871,
+  "verified": false
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "Cephalotermes rectangularis": {
+  "gbif": {
+   "key": 9729094,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cephalotermes rectangularis (Sjöstedt, 1899)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5XJQM",
+   "status": "accepted",
+   "label": "Cephalotermes rectangularis (Sjöstedt, 1899)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q129168127",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

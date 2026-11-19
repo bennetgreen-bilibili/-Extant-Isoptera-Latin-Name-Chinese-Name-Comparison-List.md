@@ -1,0 +1,33 @@
+{
+ "latin": "Protocapritermes",
+ "zh": "始扭白蚁属",
+ "fetched_at": "2026-10-30T16:54:29Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2125744783",
+   "openalex_url": "https://openalex.org/W2125744783",
+   "doi": "10.11646/zootaxa.1769.1.1",
+   "doi_url": "https://doi.org/10.11646/zootaxa.1769.1.1",
+   "title": "Revision of the Termitinae with snapping soldiers (Isoptera: Termitidae) from New Guinea",
+   "year": 2008,
+   "date": "2008-05-14",
+   "authors": [
+    "Thomas Bourguignon",
+    "Maurice Leponce",
+    "Yves Roisin"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 8,
+   "oa_url": "https://doi.org/10.48580/d42yg.v82",
+   "volume": "1769",
+   "issue": "1",
+   "pages": "",
+   "abstract": "Up to now, three described species of Termitinae with snapping soldier mandibles (the Termes–Capritermes group) were known from New Guinea: Termes odontomachus (Desneux), Macrognathotermes errator Miller and Pericapritermes schultzei (Holmgren). Here, we report the presence of seven additional species, among which three are new to science: Pericapritermes parvus, P. pilosus and P. papuanus. The other four, collected in southern Papuan savannas, were previously known from northern Australia: Ephelotermes paleatus Miller, E. cheeli (Mjöberg), Lophotermes aduncus Miller, and L. brevicephalus Miller. We reassign T. odontomachus to Protocapritermes Holmgren. Diagnostic characters andillustrations are provided for all species. The Oriental affinities of the forest fauna of New Guinea and the similarities between Australian and New Guinean savannas are emphasized.",
+   "abstract_source": "openalex",
+   "abstract_chars": 869,
+   "abstract_truncated": false
+  }
+ ]
+}

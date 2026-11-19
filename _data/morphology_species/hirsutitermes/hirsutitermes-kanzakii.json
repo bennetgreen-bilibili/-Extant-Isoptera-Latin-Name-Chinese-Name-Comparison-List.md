@@ -1,0 +1,25 @@
+{
+ "zh_name": "神崎毛糙白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "肠瓣 armature 的后缘具数百根细刺；肠瓣 seating（EVS）管状、三叶而长；mesenteric tongue 长但不膨大。与 Longustitermes 最近：本属的刺较其更长更细，cushion 前部呈梨形（后者更圆；原文此句表述为 the anterior portion of the cushions is more rounded in the latter than pyriform in the former）；Longustitermes 体型更小，EVS 为三叶状而非管状。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "侧视头壳呈很平缓的弧线。fontanelle 明显、心形，位于复眼后缘所在假想线附近、卵形斑（= 上唇中肌）之后。触角窝上方有两个明显卵形斑。触角 12 节，节式 2>3<4≈5。前胸背板中缝明显，前缘隆起。"
+  },
+  {
+   "label": "工蚁",
+   "text": "单型，中型（体与头的大小自中型至大型）。头壳淡黄，密布长毛与稀疏、稍大的刚毛，侧视背面平。触角节半透明白；触角 14 节，节式 2>3=4<5。fontanelle 圆形、明显但边缘模糊；后唇基中度膨大。前胸背板具很长刚毛，尤以前、后叶中部为多；背板与腹板表面具短毛、后缘具长刚毛。前足基节与前腿节具中等大小的刺；前胫节中度膨大，密被大小不一的刺与刚毛。左上颚端齿较 M1+2 突出；M3 两缘成钝角、端部略圆并前指；磨叶明显、未被磨突遮蔽；磨突发达。右颚端齿远较 M1 突出，M1 小、不如 M2 突出，M2 缘弯；磨板凹，具少数脊。消化道：mesenteric tongue 长而不膨大；EVS 较长、管状，常有三个小而明显的叶；背视可见 P3-a 与 seating 的交界；armature 具数百根细长硬化刺，自肠瓣远端第 4 部分起分布。量度：种级（Table 2）。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0027",
+   "citation": "Carrijo T. F.; Castro D.; Wang M.; Constantini J. P.; Bourguignon T.; Cancello E. M.; Roisin Y.; Scheffrahn R. H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317–352. doi 10.3897/zookeys.1167.100001",
+   "locator": "Hirsutitermes gen. nov. — Diagnosis; Description: Imago / Worker; Comparison and remarks（ZooKeys 1167: 317–352）"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+}

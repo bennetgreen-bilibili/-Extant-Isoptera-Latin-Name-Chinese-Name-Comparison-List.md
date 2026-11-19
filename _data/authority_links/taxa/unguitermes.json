@@ -1,0 +1,156 @@
+{
+ "Unguitermes acutifrons": {
+  "gbif": {
+   "key": 9681273,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Unguitermes acutifrons (Silvestri, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7DK8Y",
+   "status": "accepted",
+   "label": "Unguitermes acutifrons (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073702",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Unguitermes bidentatus": {
+  "gbif": {
+   "key": 9650908,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Unguitermes bidentatus (Silvestri, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7DJWX",
+   "status": "accepted",
+   "label": "Unguitermes bidentatus (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073701",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Unguitermes bouilloni": {
+  "gbif": {
+   "key": 9731767,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Unguitermes bouilloni Harris, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "7DJX9",
+   "status": "accepted",
+   "label": "Unguitermes bouilloni Harris, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073700",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Unguitermes magnus": {
+  "gbif": {
+   "key": 9688792,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Unguitermes magnus Ruelle, 1973",
+   "accepted": null
+  },
+  "col": {
+   "id": "7DK8X",
+   "status": "accepted",
+   "label": "Unguitermes magnus Ruelle, 1973",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073699",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Unguitermes proclivifrons": {
+  "gbif": {
+   "key": 9771287,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Unguitermes proclivifrons Ruelle, 1973",
+   "accepted": null
+  },
+  "col": {
+   "id": "7DK99",
+   "status": "accepted",
+   "label": "Unguitermes proclivifrons Ruelle, 1973",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073698",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Unguitermes trispinosus": {
+  "gbif": {
+   "key": 9700468,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Unguitermes trispinosus Ruelle, 1973",
+   "accepted": null
+  },
+  "col": {
+   "id": "7DJWW",
+   "status": "accepted",
+   "label": "Unguitermes trispinosus Ruelle, 1973",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073697",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Unguitermes unidentatus": {
+  "gbif": {
+   "key": 9719871,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Unguitermes unidentatus Ruelle, 1973",
+   "accepted": null
+  },
+  "col": {
+   "id": "7DJX8",
+   "status": "accepted",
+   "label": "Unguitermes unidentatus Ruelle, 1973",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073696",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

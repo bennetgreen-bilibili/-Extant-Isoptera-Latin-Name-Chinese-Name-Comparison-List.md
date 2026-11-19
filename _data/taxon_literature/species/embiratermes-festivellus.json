@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "实验室亚群体中的补充生殖蚁",
+   "heading_en": "Replacement reproductives in a laboratory subcolony",
+   "heading_es": "Reproductores de reemplazo en una subcolonia de laboratorio",
+   "paragraphs": [
+    {
+     "src": [
+      "S0331"
+     ],
+     "text": "根据 Costa-Leonardo 等（1998）研究，喜庆生白蚁（<i>Embiratermes festivellus</i>）的一块巢体（含 3 龄若虫、兵蚁与工蚁）在实验室条件下保存 12 个月后，整个实验亚群体含 2 头具色素的 nymphoid 雌性、2 头具色素的 nymphoid 雄性、仅 1 头幼虫、7 头同龄若虫、148 头工蚁、5 头兵蚁与大量卵；这些雌性在产卵，但一年后仍未像自然界群体中的同种 nymphoid 那样成为 physogastric 个体。作者认为该种具有产生 nymphoid 补充生殖蚁的能力（据摘要）。",
+     "text_en": "According to Costa-Leonardo et al. (1998), a piece of a nest of <i>Embiratermes festivellus</i> containing third-instar nymphs, soldiers and workers was kept under laboratory conditions; after 12 months the whole experimental subcolony contained two pigmented nymphoid females, two pigmented nymphoid males, only one larva, seven nymphs of the same instar, 148 workers, five soldiers and many eggs. The females were laying eggs but were not physogastric after a year, unlike some nymphoids of the same species collected from natural colonies. The authors conclude that the species is capable of producing nymphoid neotenics (according to the abstract).",
+     "text_es": "Según Costa-Leonardo et al. (1998), un fragmento de nido de <i>Embiratermes festivellus</i> con ninfas de tercer estadio, soldados y obreras se mantuvo en condiciones de laboratorio; tras 12 meses, toda la subcolonia experimental contenía dos hembras ninfoides pigmentadas, dos machos ninfoides pigmentados, una sola larva, siete ninfas del mismo estadio, 148 obreras, cinco soldados y muchos huevos. Las hembras estaban poniendo huevos pero no eran fisogástricas al año, a diferencia de algunas ninfoides de la misma especie recogidas en colonias naturales. Los autores concluyen que la especie es capaz de producir neoténicos ninfoides (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0331",
+   "citation": "Costa-Leonardo, A. M.; Soares, H. X.; Barsotti, R. C. 1998. Response to orphaning in two Neotropical termites: Armitermes euamignathus and Embiratermes festivellus. Entomologia Experimentalis et Applicata.",
+   "url": "https://doi.org/10.1046/j.1570-7458.1998.00352.x"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "latin": "Lepidotermes",
+ "zh": "鳞白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Lepidotermes Sjöstedt, 1924d: 497.",
+ "type_species": "Eutermes (Cubitermes) pretoriensis Sjöstedt, 1914 by original designation.",
+ "references": [
+  {
+   "ref": "Webb, 1961: 13",
+   "note": "Lepidotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 29, 106, 107, pl. 21: fig. 63e",
+   "note": "Lepidotermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Coaton and Sheasby, 1972: 25, 73, 101, figs.13A–B, 43",
+   "note": "Lepidotermes; soldier figured; key; ecology; biology; distribution. Namibia."
+  },
+  {
+   "ref": "Morimoto, 1975b: 34",
+   "note": "Lepidotermes; key."
+  },
+  {
+   "ref": "Uys, 1994a: 6–11",
+   "note": "Lepidotermes; characters; species included; relationships."
+  },
+  {
+   "ref": "Sands, 1998: 38, 224–226, figs. 955–966, pl. 14: figs. 3, 4",
+   "note": "Lepidotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  },
+  {
+   "ref": "Uys, 2002: 69, 79–81, fig. 194",
+   "note": "Lepidotermes; key; species included; diagnosis; biology; distribution. South Africa."
+  }
+ ],
+ "nrefs": 16
+}

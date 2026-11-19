@@ -1,0 +1,24 @@
+{
+ "Crepititermes verruculosus": {
+  "gbif": {
+   "key": 9267447,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Crepititermes verruculosus (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6BH8G",
+   "status": "accepted",
+   "label": "Crepititermes verruculosus (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q128925164",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

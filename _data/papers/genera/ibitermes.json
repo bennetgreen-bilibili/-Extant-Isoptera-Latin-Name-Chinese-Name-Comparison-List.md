@@ -1,0 +1,128 @@
+{
+ "latin": "Ibitermes",
+ "zh": "地球白蚁属",
+ "fetched_at": "2026-10-30T16:53:48Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2108501597",
+   "openalex_url": "https://openalex.org/W2108501597",
+   "doi": "10.1590/s0073-47212002000200005",
+   "doi_url": "https://doi.org/10.1590/s0073-47212002000200005",
+   "title": "A new species of Ibitermes (Isoptera, Termitidae) from the Atlantic forest, northeastern Brazil",
+   "year": 2002,
+   "date": "2002-06-30",
+   "authors": [
+    "Alexandre Vasconcellos"
+   ],
+   "venue": "Iheringia Série Zoologia",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "https://www.scielo.br/j/isz/a/mS8ttjV5Q3dczktTkLqnXBk/?lang=en&format=pdf",
+   "volume": "92",
+   "issue": "2",
+   "pages": "53-56",
+   "abstract": "The sterile castes of Ibitermes inflatus sp. nov. from Rio Tinto, State of Paraíba, Brazil are described and illustrated. This is the first record of a species of Ibitermes from the Brazilian northeast and from the Atlantic Forest biome. The absence of ridges in the molar plate of the left mandible and the presence of granules of sand and silt mixed with organic matter in advanced stage of decomposition in the digestive tube of workers suggest that the species is a typical humus feeding termite.",
+   "abstract_source": "openalex",
+   "abstract_chars": 500,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2522042737",
+   "openalex_url": "https://openalex.org/W2522042737",
+   "doi": "",
+   "doi_url": "",
+   "title": "Two new species of termites (Insecta, Isoptera) from western Brazilian Amazonia.",
+   "year": 1990,
+   "date": "1990-01-01",
+   "authors": [
+    "Reginaldo Constantino"
+   ],
+   "venue": "Americanae (AECID Library)",
+   "type": "article",
+   "language": "en",
+   "cited_by": 5,
+   "oa_url": "http://repositorio.museu-goeldi.br/handle/mgoeldi/736",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "Dolichorhinotermes japuraensis, sp. n. (Rhinotermitidae,Rhinotermitinae), and Ibitermes tellustris, sp. n. (Termitidae, Nasutitermi­tinae), collected in primary rainforest near the town of Maraã on the Japurá River, Amazonas State, Brazil, are described. Drawings of the soldier's head and worker's mandibles of both new species are presented.",
+   "abstract_source": "openalex",
+   "abstract_chars": 343,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W1044728199",
+   "openalex_url": "https://openalex.org/W1044728199",
+   "doi": "",
+   "doi_url": "",
+   "title": "Morphology of the digestive tube of Macuxitermes triceratops and its phylogenetic implications (Isoptera: Termitidae: Nasutitermitinae)",
+   "year": 1997,
+   "date": "1997-01-01",
+   "authors": [
+    "Reginaldo Constantino"
+   ],
+   "venue": "Acervo Digital da Universidade Estadual Paulista (Universidade Estadual Paulista)",
+   "type": "article",
+   "language": "en",
+   "cited_by": 6,
+   "oa_url": "http://repositorio.unesp.br/handle/11449/31147",
+   "volume": "30",
+   "issue": "",
+   "pages": "225-230",
+   "abstract": "The gross morphology of digestive tube of Macuxitermes triceratops is described and illustrated. The gut of this species is very similar to those of Embiratermes and Ibitermes, and does not show any obvious autopomorphic character. The phylogenetic relations of this genus are discussed based on the available evidence, and it is concluded that it is probably the sister group of Armitermes + Curvitermes + Cryilliotermes.",
+   "abstract_source": "openalex",
+   "abstract_chars": 422,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W4280547276",
+   "openalex_url": "https://openalex.org/W4280547276",
+   "doi": "10.11646/zootaxa.5138.4.6",
+   "doi_url": "https://doi.org/10.11646/zootaxa.5138.4.6",
+   "title": "Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera",
+   "year": 2022,
+   "date": "2022-05-19",
+   "authors": [
+    "Mauricio M. Rocha",
+    "Eliana M. Cancello"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 6,
+   "oa_url": "https://doi.org/10.11646/zootaxa.5138.4.6",
+   "volume": "5138",
+   "issue": "4",
+   "pages": "445-463",
+   "abstract": "Herein we describe three new genera based on a previous phylogenetic analysis of the termite subfamily Syntermitinae (Termitidae), which indicated that the genera Embiratermes Fontes and Ibitermes Fontes were paraphyletic. In order to resolve this paraphyly, the genus is more narrowly circumscribed, resulting in the following taxonomic changes: Biratermes gen. n., is established to accommodate Embiratermes robustus Constantino, 1992; Vaninitermes gen. n. is described for Armitermes brevinasisus Emerson Banks, 1957 and E. ignotus Constantino, 1991; and Bandeiratermes gen. n., is proposed to accommodate Armitermes silvestrii Emerson in Snyder, 1949 and Ibitermes tellustris Constantino, 1990. In addition, E. parvirostris Constantino, 1992 is considered a new junior subjective synonym of E. ignotus, and the imago of E. ignotus is described for the first time. Descriptions and illustrations of the workers digestive tube are included for all species, along with drawings of the coiling worker gut of E. festivellus (Silvestri, 1901). Photographs are provided for the soldiers of all of the aforementioned species. The new genera are compared with all other genera of Syntermitinae.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1189,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W1995289581",
+   "openalex_url": "https://openalex.org/W1995289581",
+   "doi": "10.1590/s0101-81751985000100002",
+   "doi_url": "https://doi.org/10.1590/s0101-81751985000100002",
+   "title": "New genera and new species of Nasutitermitinae from the Neotropical Region (Isoptera, Termitidae)",
+   "year": 1985,
+   "date": "1985-01-01",
+   "authors": [
+    "Luiz Roberto Fontes"
+   ],
+   "venue": "Revista Brasileira de Zoologia",
+   "type": "article",
+   "language": "en",
+   "cited_by": 28,
+   "oa_url": "https://www.scielo.br/j/rbzool/a/ZNdwrB5FfnY8zTYVhWfsDxP/?lang=en&format=pdf",
+   "volume": "3",
+   "issue": "1",
+   "pages": "7-25",
+   "abstract": "Three new Neotropical genera of Nasutitermitinae, of the group with mandibulate soldiers, are described. Cyrilliotermes, gen. n., is related to Curvitermes and includes C. cupim, sp. n. (type species), C. jaci, sp. n., C. cashassa, sp. n., C. strictinasus (Mathews, 1977), comb, n., and C. angulariceps (Mathews, 1977), comb, n., both C. strictinasus and C. angulariceps being removed from Curvitermes. Alates and soldiers are described for C. cupim, from Brazil, and for C. cachassa, from Suriname, and soldiers for C. jaci, from Suriname; a new locality is reported for C. strictinasus. Embiratermes, gen. n., is related to Armitermes and include E. festivellus (Silvestri, 1901), comb. n. (type species), E. benjamini (Snyder, 1926), comb, n., E. brevinasus (Emerson & Banks, 1957), comb, n., E. chagresi (Snyder, 1925), comb, n., E. heterotypus Silvestri, 1901), comb, n., E. latidens (Emerson & Banks, 1957), comb, n., E. neotenicus (Holmgren, 1906), comb, n., E. silvestrii (Emerson, 1949), comb, n., E. snyderi (Emerson & Banks, 1957), comb, n., E. spissus (Emerson & Banks, 1957), comb, n., and E. transandinus (Araujo, 1977), comb, n., all removed from Armitermes. The creation of Embiratermes, besides being based on morphological characteristics of soldiers, workers and alates, is justified by the defensive behaviour of the soldiers, which is different from that of Armitermes soldiers. Ibitermes, gen. n., which seems to be related to Embiratermes, includes only I. curupira, sp. n., described from a series of soldiers and workers from Brazil. Keys based on the soldier caste are provided for the identification of the 11 genera with mandibulate soldiers of the Nasutitermitinae, and for the species of Rhynchotermes, Curvitermes and Cyrilliotermes. Curvitermes planioculus Mathews, 1977 is considered a junior synonym of C. minor (Silvestri, 1901), syn.n.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1871,
+   "abstract_truncated": false
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "Niuginitermes liklik": {
+  "gbif": {
+   "key": 9682497,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Niuginitermes liklik Pasteels & Roisin, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "47K38",
+   "status": "accepted",
+   "label": "Niuginitermes liklik Roisin & Pasteels, 1996",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084773",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Niuginitermes variratae": {
+  "gbif": {
+   "key": 9817369,
+   "status": "ACCEPTED",
+   "match": "FUZZY",
+   "confidence": 96,
+   "rank": "SPECIES",
+   "name": "Niuginitermes variatae Pasteels & Roisin, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Niuginitermes Roisin & Pasteels, 1996",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_fuzzy",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

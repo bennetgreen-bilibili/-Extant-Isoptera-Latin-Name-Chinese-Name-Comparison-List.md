@@ -9,7 +9,7 @@
 配置）、改一处要连带改哪里、生成链与校验命令、说明文档清单。**改站前先读它**，按表只打开需要的那几个
 文件，不要为了「了解项目」通读工作区——3,000+ 个 `.md` 里绝大多数是生成产物。
 
-新增 `_data/` 文件、`build_*.py`、`_tools/*.md`、`_reports/**/*.md` 时，要一并登记进 `SITE-INDEX.md`
+新增 `_data/` 顶层文件、`_data/<数据集>/` 分片目录、`build_*.py`、`_tools/*.md`、`_reports/**/*.md` 时，要一并登记进 `SITE-INDEX.md`
 （`python _tools/build_ai_index.py --check` 会因漏登记而失败；计数快照由 `_tools/regen_all.sh` 末尾自动刷新）。
 
 ## 1. 来源存档（Source Archive）
@@ -153,5 +153,6 @@
 - 三语（zh-CN / en / es）文案与 i18n key 必须同步。
 - 提交前：`python _tools/check_site.py --ci`、`python _tools/check_liquid.py`。
 - `_species/*.md` 的 `<!-- AUTO:BEGIN -->` 与 `<!-- AUTO:END -->` 之间不要手改。
-- 外部权威库缓存（`_data/authority_links.json` 等）只在需要刷新时跑，刷完必须重跑 `build_name_issues.py`。
+- 大数据在 `_data/<数据集>/` 按一阶元一档分片，布局、读取方式与定位方法见 `_tools/data_shards.md`；改数据只改对应分片，不要重建聚合文件。
+- 外部权威库缓存（`_data/authority_links/` 等分片）只在需要刷新时跑，刷完必须重跑 `build_name_issues.py`。
 - **页面文案只写内容，不写导读**：网页上不得出现面向读者的元说明句——「想确认……从这里查」「本文 / 本页讲的是……」「值得注意」「不难看出」「换句话说」这类介绍内容的句子。读者要的是事实和术语本身，不是对它们的导览。此类引导语只能出现在 `_tools/`、`_reports/`、`_drafts/`、`_pending_pages/` 等不发布的文件里。

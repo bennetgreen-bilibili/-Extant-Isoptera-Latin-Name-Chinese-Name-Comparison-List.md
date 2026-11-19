@@ -1,0 +1,40 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "据摘要，门神解甲白蚁（<i>Anoplotermes janus</i>）同样在 Bourguignon 等（2010）重新描述解甲白蚁属（<i>Anoplotermes</i>）模式种太平洋解甲白蚁（<i>Anoplotermes pacificus</i>）时被留在该属，该研究并为 4 个遗传标记提供了 DNA 序列。",
+     "text_en": "According to the abstract, <i>Anoplotermes janus</i> was likewise kept in <i>Anoplotermes</i> when Bourguignon et al. (2010) redescribed the type species of the genus, <i>Anoplotermes pacificus</i>, and the study provided DNA sequences for four genetic markers.",
+     "text_es": "Según el resumen, <i>Anoplotermes janus</i> también se mantuvo en <i>Anoplotermes</i> cuando Bourguignon et al. (2010) redescribieron la especie tipo del género, <i>Anoplotermes pacificus</i>, y el estudio aportó secuencias de ADN de cuatro marcadores genéticos.",
+     "src": [
+      "S0177"
+     ]
+    },
+    {
+     "src": [
+      "S0300"
+     ],
+     "text": "据摘要，根据 Carrijo 等（2015）研究，门神解甲白蚁（<i>Anoplotermes janus</i>）由 Bourguignon 等（2010）描述。",
+     "text_en": "According to the abstract, Carrijo et al. (2015) noted that <i>Anoplotermes janus</i> was described by Bourguignon et al. (2010).",
+     "text_es": "Según el resumen, Carrijo et al. (2015) señalaron que <i>Anoplotermes janus</i> fue descrita por Bourguignon et al. (2010)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0177",
+   "citation": "Thomas Bourguignon; Rudolf H. Scheffrahn; Jan Křeček; ZOLTÁN TAMÁS NAGY; Gontran Sonet; Yves Roisin 2010 Towards a revision of the Neotropical soldierless termites (Isoptera : Termitidae): redescription of the genus Anoplotermes and description of Longustitermes, gen. nov.*. Invertebrate Systematics.",
+   "doi": "10.1071/is10012"
+  },
+  {
+   "id": "S0300",
+   "citation": "Carrijo, T. F.; Scheffrahn, R. H.; Jan Křeček. 2015. Compositermes bani sp.n. (Isoptera, Termitidae, Apicotermitinae), a new species of soldierless termite from Bolivia. Zootaxa.",
+   "doi": "10.11646/zootaxa.3941.2.10"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "latin": "Eucryptotermes",
+ "zh": "真砂白蚁属",
+ "family": "kalotermitidae",
+ "treatise": true,
+ "citation": "Eucryptotermes Holmgren, 1911a: 53, 55 [first introduced as a subgenus of Calotermes Hagen, 1858].",
+ "type_species": "Calotermes hageni Müller, 1873 (= Eucryptotermes wheeleri Snyder and Emerson, 1949a) by original designation.",
+ "references": [
+  {
+   "ref": "Holmgren, 1911a: 55",
+   "note": "Calotermes (Eucryptotermes); characters; species included; distribution."
+  },
+  {
+   "ref": "Roonwal and Sen-Sarma, 1960: 98",
+   "note": "Eucryptotermes; key."
+  },
+  {
+   "ref": "Krishna, 1961: 328–331",
+   "note": "Eucryptotermes; generic characters; key; reference list; phylogeny; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 10",
+   "note": "Eucryptotermes; key."
+  },
+  {
+   "ref": "Constantino, 1999a: 395, 410",
+   "note": "Eucryptotermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 16",
+   "note": "Eucryptotermes; key."
+  }
+ ],
+ "nrefs": 16
+}

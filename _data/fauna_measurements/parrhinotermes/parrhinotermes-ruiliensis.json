@@ -1,0 +1,75 @@
+{
+ "book_n": "71",
+ "book_name": "瑞丽棒鼻白蚊 Parrhinotermes ruiliensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "瑞丽棒鼻白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "3.35",
+     "value": "2.80–3.75"
+    },
+    {
+     "key": "head_width",
+     "mean": "1.00",
+     "value": "0.90–1.01"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.70",
+     "value": "0.67–0.73"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.35",
+     "value": "0.33–0.39"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.61",
+     "value": "0.61–0.64"
+    }
+   ],
+   "src_file": "301-400.txt",
+   "src_line": 205,
+   "unit": "mm"
+  },
+  {
+   "caste": "worker",
+   "heading": "瑞丽棒鼻白蚁10个工蚊量度 ( mm)",
+   "label_en": "Worker measurements",
+   "label_es": "Medidas de obrera",
+   "label_zh": "工蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "3.65",
+     "value": "3.52–4.00"
+    },
+    {
+     "key": "head_width",
+     "mean": "1.12",
+     "value": "1.10–1.17"
+    },
+    {
+     "key": "head_height",
+     "mean": "0.55",
+     "value": "0.50–0.60"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.56",
+     "value": "0.50–0.62"
+    }
+   ],
+   "src_file": "301-400.txt",
+   "src_line": 213,
+   "unit": "mm"
+  }
+ ]
+}

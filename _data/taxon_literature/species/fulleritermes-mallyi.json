@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "分类沿革与开普省分布",
+   "heading_en": "Taxonomic history and distribution in the Cape Province",
+   "heading_es": "Historia taxonómica y distribución en la provincia del Cabo",
+   "paragraphs": [
+    {
+     "src": [
+      "S0336"
+     ],
+     "text": "根据 Coaton（1962）研究，马利富勒白蚁（<i>Fulleritermes mallyi</i>）1922 年由 Fuller 以开普省 Malmesbury 标本描述为薄嘴白蚁属（<i>Tenuirostritermes</i>）的旧组合 <i>Tenuirostritermes mallyi</i>；该属现知限于新北区与新热带区，把非洲种置于其中属误置。1926 年 Sjöstedt 改作旧属 <i>Eutermes</i> 的 <i>Eutermes mallyi</i>，1949 年 Snyder 置于缩狭白蚁属（<i>Coarctotermes</i>），1962 年 Coaton 依据有翅成虫—工蚁左上颚的深裂将其移入富勒白蚁属（<i>Fulleritermes</i>）。",
+     "text_en": "According to Coaton (1962), Fuller described <i>Fulleritermes mallyi</i> in 1922 from a Malmesbury specimen in the Cape Province as <i>Tenuirostritermes mallyi</i>, a former combination in <i>Tenuirostritermes</i>, a genus now known to be confined to the Nearctic and Neotropical Regions, so that placing an African species there was a misassignment. In 1926 Sjöstedt used the combination <i>Eutermes mallyi</i> in the old genus <i>Eutermes</i>, in 1949 Snyder placed the species in <i>Coarctotermes</i>, and in 1962 Coaton transferred it to <i>Fulleritermes</i> on the basis of the deep cleft of the left mandible of the imago–worker caste.",
+     "text_es": "Según Coaton (1962), Fuller describió <i>Fulleritermes mallyi</i> en 1922 a partir de un ejemplar de Malmesbury, en la provincia del Cabo, como <i>Tenuirostritermes mallyi</i>, combinación antigua en <i>Tenuirostritermes</i>, un género hoy conocido solo del Neártico y el Neotrópico, por lo que situar allí una especie africana fue una asignación errónea. En 1926 Sjöstedt empleó la combinación <i>Eutermes mallyi</i>, en el género antiguo <i>Eutermes</i>; en 1949 Snyder situó la especie en <i>Coarctotermes</i>, y en 1962 Coaton la transfirió a <i>Fulleritermes</i> sobre la base de la hendidura profunda de la mandíbula izquierda de la casta imago–obrera."
+    },
+    {
+     "src": [
+      "S0336"
+     ],
+     "text": "国家白蚁调查把该种已知分布大幅扩展：沿开普省海岸带与山地自纳马夸兰至 Malmesbury，并越过海岸山脉进入 Karoo 内陆，已记录于 Calvinia、Williston、Laingsburg、Ladismith、Beaufort West、Aberdeen、Willowmore 与 Uniondale 等区。",
+     "text_en": "The National Survey of Isoptera greatly extended the known range of the species: along the coastal belt and mountains of the Cape Province from Namaqualand to Malmesbury, and across the coastal mountain ranges into the Karroid interior, it has been recorded in the districts of Calvinia, Williston, Laingsburg, Ladismith, Beaufort West, Aberdeen, Willowmore and Uniondale.",
+     "text_es": "El Estudio Nacional de Isoptera amplió notablemente el área conocida de la especie: a lo largo de la franja costera y las montañas de la provincia del Cabo desde Namaqualand hasta Malmesbury, y a través de las sierras costeras hacia el interior del Karoo, se ha registrado en los distritos de Calvinia, Williston, Laingsburg, Ladismith, Beaufort West, Aberdeen, Willowmore y Uniondale."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0336",
+   "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+   "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+  }
+ ]
+}

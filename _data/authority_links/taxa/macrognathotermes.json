@@ -1,0 +1,90 @@
+{
+ "Macrognathotermes broomensis": {
+  "gbif": {
+   "key": 4803389,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrognathotermes broomensis (Mjöberg, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3X59X",
+   "status": "accepted",
+   "label": "Macrognathotermes broomensis (Mjöberg, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272497",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrognathotermes errator": {
+  "gbif": {
+   "key": 4803386,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrognathotermes errator Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "3X59Y",
+   "status": "accepted",
+   "label": "Macrognathotermes errator Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272498",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrognathotermes prolatus": {
+  "gbif": {
+   "key": 4803387,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrognathotermes prolatus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "3X59Z",
+   "status": "accepted",
+   "label": "Macrognathotermes prolatus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272499",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrognathotermes sunteri": {
+  "gbif": {
+   "key": 4803388,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrognathotermes sunteri (Hill, 1927)",
+   "accepted": null
+  },
+  "col": {
+   "id": "72SCP",
+   "status": "accepted",
+   "label": "Macrognathotermes sunteri (Hill, 1927)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110271953",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

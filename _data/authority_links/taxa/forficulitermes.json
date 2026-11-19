@@ -1,0 +1,24 @@
+{
+ "Forficulitermes planifrons": {
+  "gbif": {
+   "key": 9761618,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Forficulitermes planifrons Emerson, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "6JGTL",
+   "status": "accepted",
+   "label": "Forficulitermes planifrons Emerson, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q128932617",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "Hodotermes erithreensis": {
+  "label": "Hodotermes erithreensis Sjöstedt, 1912",
+  "match": "exact",
+  "notes": "",
+  "otu": 82525,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82525/overview",
+  "valid_label": null,
+  "valid_otu": 82525,
+  "verified": false
+ },
+ "Hodotermes mossambicus": {
+  "label": "Hodotermes mossambicus (Hagen, 1853)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82526,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82526/overview",
+  "valid_label": null,
+  "valid_otu": 82526,
+  "verified": false
+ }
+}

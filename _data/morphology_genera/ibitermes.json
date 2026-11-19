@@ -1,0 +1,35 @@
+{
+ "zh_name": "地球白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁后唇基显著膨大（I. tellustris 除外），上颚无缘齿；体型较大，上颚直而大（Embiratermes 缘齿发达，本属完全无）。工蚁中肠舌长而扭曲，肠瓣段背向。左颚指数 0.9。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "后唇基显著膨大（I. tellustris 例外）；上颚无缘齿。体型较大，上颚直而大。"
+  },
+  {
+   "label": "工蚁",
+   "text": "中肠舌长而扭曲；肠瓣段背向。左颚指数 0.9。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0068",
+   "citation": "Rocha M. M.; Cancello E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138: 445-463. https://doi.org/10.11646/zootaxa.5138.4.6",
+   "locator": "Comparisons with other genera of Syntermitinae（Bandeiratermes 属征比较）；Comparisons with other genera of Syntermitinae（Biratermes 属征比较）"
+  },
+  {
+   "id": "S0077",
+   "citation": "Constantino R. 2012. Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records. Zootaxa 3174: 65-68. https://doi.org/10.11646/zootaxa.3174.1.7",
+   "locator": "Comparisons（属名后逗号前的空格系 Plazi 抽取标签剥离所致）"
+  },
+  {
+   "id": "S0072",
+   "citation": "Rocha M. M.; Cancello E. M.; Carrijo T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37: 793-827. https://doi.org/10.1111/j.1365-3113.2012.00645.x",
+   "locator": "Key to genera of Syntermitinae, couplet 12"
+  }
+ ],
+ "note": "兵蚁据 2022/2012 年属征；工蚁据肠瓣与中肠舌记述；有翅成虫仅知左颚指数。"
+}

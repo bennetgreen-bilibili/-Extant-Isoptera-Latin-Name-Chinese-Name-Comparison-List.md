@@ -1,0 +1,21 @@
+{
+ "zh_name": "多毛白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁属 Constrictus 群，兵型单一：鼻大、粗、锥形，鼻基凹陷大；左上颚基部具两枚明显的齿；被毛硬而呈褐色；触角节伸长。与 Eutermes s. str. 的对比正在于此——后者鼻基凹陷小或无，上颚基部从无齿，被毛不硬，触角节多数正常。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "单型。鼻大、粗、锥形；鼻基凹陷显著，原文在群的特征中特别注明本属凹陷大；左上颚基部具两枚明显的齿；头与鼻被硬毛，褐色；触角节长。"
+  }
+ ],
+ "note": "Holmgren 1912 建立，名录列为第 1 亚属，仅 Eutermes (Hirtitermes) hirtiventris Holmgren（沙捞越）。有翅成虫在检索表中只以「(?Hirtitermes n. subg.)」附于 Eutermes s. str. 项之后，作者本人存疑，故不设有翅成虫段；原文无工蚁属征。",
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+   "locator": "p. 60（Soldaten 检索表 A 群说明及 a/b 支）；p. 62（亚属名录第 1 亚属）"
+  }
+ ]
+}

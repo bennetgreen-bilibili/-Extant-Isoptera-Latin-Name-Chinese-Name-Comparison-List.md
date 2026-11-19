@@ -1,0 +1,43 @@
+{
+ "latin": "Microcerotermes",
+ "zh": "锯白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Microcerotermes Silvestri, 1901: 3.",
+ "type_species": "Termes strunckii Sörensen, 1884 by monotypy.",
+ "references": [
+  {
+   "ref": "Haviland, 1898: 378, 400–401",
+   "note": "Termes “section with T. dubius for type”; characters; key."
+  },
+  {
+   "ref": "Wasmann, 1902d: 119–120",
+   "note": "Microcerotermes; characters; discussion; species included."
+  },
+  {
+   "ref": "Silvestri, 1903: 41",
+   "note": "Microcerotermes; characters; distribution."
+  },
+  {
+   "ref": "Escherich, 1909: 176",
+   "note": "Microcerotermes; characters."
+  },
+  {
+   "ref": "Holmgren, 1912a: 121–124",
+   "note": "Microtermes [typographical error for Microcerotermes]; characters; species included; systematic position."
+  },
+  {
+   "ref": "Fuller, 1921: 18, 20, 21, 23, 24",
+   "note": "Eutermes; synonymy; key; Microcerotermes placed as a synonym of Eutermes."
+  },
+  {
+   "ref": "Fuller, 1925b: 217–220",
+   "note": "Microcerotermes; characters."
+  },
+  {
+   "ref": "Snyder, 1926e: 71–72",
+   "note": "Microcerotermes; characters; Eutermes and validity discussed."
+  }
+ ],
+ "nrefs": 130
+}

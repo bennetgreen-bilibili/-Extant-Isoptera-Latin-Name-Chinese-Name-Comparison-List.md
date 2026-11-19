@@ -1,0 +1,290 @@
+{
+ "Speculitermes angustigulus": {
+  "gbif": {
+   "key": 9699974,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Speculitermes angustigulus He, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "4YH65",
+   "status": "accepted",
+   "label": "Speculitermes angustigulus He, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073811",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Speculitermes chadaensis": {
+  "gbif": {
+   "key": 9782942,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Speculitermes chadaensis Chatterjee & Thapa, 1964",
+   "accepted": null
+  },
+  "col": {
+   "id": "4YH66",
+   "status": "accepted",
+   "label": "Speculitermes chadaensis Chatterjee & Thapa, 1964",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073810",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Speculitermes cyclops": {
+  "gbif": {
+   "key": 9670330,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Speculitermes cyclops Wasmann, 1902",
+   "accepted": null
+  },
+  "col": {
+   "id": "4YH67",
+   "status": "accepted",
+   "label": "Speculitermes cyclops Wasmann, 1902",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073809",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Speculitermes deccanensis": {
+  "gbif": {
+   "key": 9731272,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Speculitermes deccanensis Roonwal & Chhotani, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "4YH68",
+   "status": "accepted",
+   "label": "Speculitermes deccanensis Roonwal & Chhotani, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073808",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Speculitermes dharwarensis": {
+  "gbif": {
+   "key": 9804276,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Speculitermes dharwarensis Roonwal & Chhotani, 1964",
+   "accepted": null
+  },
+  "col": {
+   "id": "4YH69",
+   "status": "accepted",
+   "label": "Speculitermes dharwarensis Roonwal & Chhotani, 1964",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073807",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Speculitermes emersoni": {
+  "gbif": {
+   "key": 9750884,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Speculitermes emersoni Bose, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "6YWT9",
+   "status": "accepted",
+   "label": "Speculitermes emersoni Bose, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073806",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Speculitermes goesswaldi": {
+  "gbif": {
+   "key": 9720350,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Speculitermes goesswaldi Roonwal & Chhotani, 1964",
+   "accepted": null
+  },
+  "col": {
+   "id": "4YH6B",
+   "status": "accepted",
+   "label": "Speculitermes goesswaldi Roonwal & Chhotani, 1964",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073805",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Speculitermes latalabrum": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Speculitermes Wasmann, 1902",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "VPDJ7",
+   "status": "accepted",
+   "label": "Speculitermes latalabrum Aiswarya & Amina, 2026",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Speculitermes macrodentatus": {
+  "gbif": {
+   "key": 9771817,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Speculitermes macrodentatus Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "4YH6C",
+   "status": "accepted",
+   "label": "Speculitermes macrodentatus Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073804",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Speculitermes paivai": {
+  "gbif": {
+   "key": 9815536,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Speculitermes paivai Roonwal & Chhotani, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "4YH6D",
+   "status": "accepted",
+   "label": "Speculitermes paivai Roonwal & Chhotani, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073803",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Speculitermes roonwali": {
+  "gbif": {
+   "key": 9680760,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Speculitermes roonwali Maiti, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "4YH6G",
+   "status": "accepted",
+   "label": "Speculitermes roonwali Maiti, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073802",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Speculitermes sinhalensis": {
+  "gbif": {
+   "key": 9650434,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Speculitermes sinhalensis Roonwal & Sen-Sarma, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "4YH6H",
+   "status": "accepted",
+   "label": "Speculitermes sinhalensis Roonwal & Sen-Sarma, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591982",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Speculitermes triangularis": {
+  "gbif": {
+   "key": 9689303,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Speculitermes triangularis Roonwal & Sen-Sarma, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "4YH6J",
+   "status": "accepted",
+   "label": "Speculitermes triangularis Roonwal & Sen-Sarma, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073801",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

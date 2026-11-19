@@ -1,0 +1,46 @@
+{
+ "Batillitermes clypeatus": {
+  "gbif": {
+   "key": 9707131,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Batillitermes clypeatus Sands, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "KYTD",
+   "status": "accepted",
+   "label": "Batillitermes clypeatus Sands, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235206",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Batillitermes monachus": {
+  "gbif": {
+   "key": 9796804,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Batillitermes monachus Uys, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "68FTD",
+   "status": "accepted",
+   "label": "Batillitermes monachus Uys, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235207",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

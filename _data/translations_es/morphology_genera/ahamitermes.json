@@ -1,0 +1,17 @@
+{
+ "note": "Mjöberg (1920: 89) estableció el género sobre la base de A. nidicola de Queensland, describiendo entonces únicamente el soldado (el holotipo es un soldado aislado, recolectado en la parte lateral de un nido de Coptotermes lacteus); Hill (1942: 308) lo rebajó al rango de subgénero de Hamitermes y añadió los caracteres de la clave subgenérica. El presente catálogo lo trata como género independiente. No se ha encontrado en la bibliografía original una descripción completa del obrero ni del alado.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "De tamaño pequeño, de tipo Hamitermes. Soldado con mandíbulas inermes (la descripción original indica «sin diente medio»), carácter por el que se distingue de Hamitermes s. str. (con dientes mandibulares desarrollados) y de Microcerotermes (con la mayor parte del margen interno mandibular finamente aserrada); la clave de subgéneros de Hill (1942: 310) delimita además este grupo por «dientes mandibulares del soldado ausentes o reducidos» y «último segmento del palpo maxilar del alado dilatado». Hill (1942: 308) señala que el género se estableció inicialmente a partir de especies con mandíbulas del soldado inermes, y que los caracteres del alado se añadieron más tarde a partir de especies afines. Todas las especies viven en el interior de nidos de Coptotermes."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza pequeña, más larga que ancha, con el margen posterior redondeado; clípeo pequeño; labro largo y ancho, estrechado hacia el ápice y de ápice redondeado; mandíbulas cortas y robustas, separadas entre sí y sin diente medio; antenas muy cortas, de 12 segmentos; pronoto ancho, sólo con el margen anterior ligeramente carenado. Soldado de A. nidicola: cuerpo blanco, cabeza y segmentos protorácicos de color amarillo pálido, mandíbulas de color pardo rojizo; cabeza pequeña, ligeramente estrechada hacia delante, más larga que ancha y con el margen posterior redondeado; clípeo con el segmento basal muy corto y amarillo y el apical blanco; labro grande y ancho, estrechado en los lados, de ápice redondeado y piloso; mandíbulas muy cortas y robustas, de base ancha, curvadas y completamente inermes (sólo en la cara interna de la mandíbula izquierda hay dos «dientes» diminutos, casi invisibles); antenas de color amarillo pálido, con el 2.º segmento de longitud y anchura aproximadamente iguales a la mitad de las del 1.º y el 3.º extremadamente corto; pronoto ancho, con el margen anterior ligeramente carenado, los lados redondeados y estrechados hacia la base; patas relativamente cortas, con los fémures más bien gruesos y los tarsos delgados y largos. Medidas (A. nidicola, mm): longitud del cuerpo con mandíbulas 4.4; longitud de la cabeza con mandíbulas 1.56; longitud de la cabeza sin mandíbulas 1.31; anchura de la cabeza 0.87; longitud del pronoto 0.29, anchura 0.72; anchura del abdomen 1.4."
+  },
+  {
+   "label": "Alado",
+   "text": "El último segmento del palpo maxilar dilatado es el carácter del alado que Hill (1942: 310) emplea para separar este grupo de Hamitermes s. str.; aparte de éste, la descripción original no ofrece una descripción completa del alado."
+  }
+ ]
+}

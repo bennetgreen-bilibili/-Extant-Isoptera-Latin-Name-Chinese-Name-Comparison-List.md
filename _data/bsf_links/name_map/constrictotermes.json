@@ -1,0 +1,68 @@
+{
+ "Constrictotermes cacaoensis": {
+  "label": "Constrictotermes cacaoensis Ensaf, Nel & Betsch, 2002",
+  "match": "exact",
+  "notes": "",
+  "otu": 84396,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84396/overview",
+  "valid_label": null,
+  "valid_otu": 84396,
+  "verified": false
+ },
+ "Constrictotermes cavifrons": {
+  "label": "Constrictotermes cavifrons (Holmgren, 1910)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84397,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84397/overview",
+  "valid_label": null,
+  "valid_otu": 84397,
+  "verified": false
+ },
+ "Constrictotermes cyphergaster": {
+  "label": "Constrictotermes cyphergaster (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84398,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84398/overview",
+  "valid_label": null,
+  "valid_otu": 84398,
+  "verified": false
+ },
+ "Constrictotermes guantanamensis": {
+  "label": "Constrictotermes guantanamensis Křeček, Scheffrahn & Roisin, 1996",
+  "match": "exact",
+  "notes": "",
+  "otu": 84400,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84400/overview",
+  "valid_label": null,
+  "valid_otu": 84400,
+  "verified": false
+ },
+ "Constrictotermes latinotus": {
+  "label": "Constrictotermes latinotus (Holmgren, 1910)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84401,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84401/overview",
+  "valid_label": null,
+  "valid_otu": 84401,
+  "verified": false
+ },
+ "Constrictotermes rupestris": {
+  "label": "Constrictotermes rupestris Constantino, 1997",
+  "match": "exact",
+  "notes": "",
+  "otu": 84402,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84402/overview",
+  "valid_label": null,
+  "valid_otu": 84402,
+  "verified": false
+ }
+}

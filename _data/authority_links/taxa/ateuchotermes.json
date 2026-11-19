@@ -1,0 +1,178 @@
+{
+ "Ateuchotermes ctenopher": {
+  "gbif": {
+   "key": 9667833,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ateuchotermes ctenopher Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "J9DX",
+   "status": "accepted",
+   "label": "Ateuchotermes ctenopher Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234955",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ateuchotermes muricatus": {
+  "gbif": {
+   "key": 9801630,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ateuchotermes muricatus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "J9DY",
+   "status": "accepted",
+   "label": "Ateuchotermes muricatus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234956",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ateuchotermes pectinatus": {
+  "gbif": {
+   "key": 9686690,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ateuchotermes pectinatus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "J9DZ",
+   "status": "accepted",
+   "label": "Ateuchotermes pectinatus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234957",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ateuchotermes rastratus": {
+  "gbif": {
+   "key": 9717758,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ateuchotermes rastratus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "687LV",
+   "status": "accepted",
+   "label": "Ateuchotermes rastratus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234958",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ateuchotermes retifaciens": {
+  "gbif": {
+   "key": 9702570,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ateuchotermes retifaciens Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "687M7",
+   "status": "accepted",
+   "label": "Ateuchotermes retifaciens Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234959",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ateuchotermes sentosus": {
+  "gbif": {
+   "key": 9785643,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ateuchotermes sentosus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "5VVM6",
+   "status": "accepted",
+   "label": "Ateuchotermes sentosus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234960",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ateuchotermes spinulatus": {
+  "gbif": {
+   "key": 9652985,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ateuchotermes spinulatus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "5W7M6",
+   "status": "accepted",
+   "label": "Ateuchotermes spinulatus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234961",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ateuchotermes tranquillus": {
+  "gbif": {
+   "key": 9769104,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ateuchotermes tranquillus (Silvestri, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "67VM6",
+   "status": "accepted",
+   "label": "Ateuchotermes tranquillus (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234962",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

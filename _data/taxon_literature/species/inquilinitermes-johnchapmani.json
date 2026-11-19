@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "新种、产地与巢址",
+   "heading_en": "New species, locality and nesting site",
+   "heading_es": "Especie nueva, localidad y sitio de nidificación",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn（2014）研究，约翰查普曼客白蚁（<i>Inquilinitermes johnchapmani</i>）据采自玻利维亚中北部莫霍斯平原（Llanos de Mojos）的兵蚁与工蚁描述，为客白蚁属（<i>Inquilinitermes</i>）第 4 个种，也是该属体型最小的种；与同属其他种不同，它不在缩白蚁属（<i>Constrictotermes</i>）巢内客居，但其与斯奈德角象白蚁（<i>Cornitermes snyderi</i>）巢的关联较为可能。（据摘要）",
+     "src": [
+      "S0351"
+     ],
+     "text_en": "In the study by Scheffrahn (2014), <i>Inquilinitermes johnchapmani</i> is described from soldiers and workers collected in the Llanos de Mojos of north-central Bolivia; it is the fourth and smallest species of <i>Inquilinitermes</i> and, unlike its congeners, is not an inquiline in nests of <i>Constrictotermes</i>, although an association with nests of <i>Cornitermes snyderi</i> is likely. (According to the abstract.)",
+     "text_es": "En el estudio de Scheffrahn (2014), <i>Inquilinitermes johnchapmani</i> se describe a partir de soldados y obreros recolectados en los Llanos de Mojos del centro-norte de Bolivia; es la cuarta y menor especie de <i>Inquilinitermes</i> y, a diferencia de sus congéneres, no es inquilina en nidos de <i>Constrictotermes</i>, aunque es probable su asociación con nidos de <i>Cornitermes snyderi</i>. (Según el resumen.)"
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0351",
+   "citation": "Scheffrahn, R. H. 2014. Inquilinitermes johnchapmani, a New Termite (Isoptera: Termitidae: Termitinae) from the Llanos of North Central Bolivia. Sociobiology 61(1): 95-99.",
+   "doi": "10.13102/sociobiology.v61i1.95-99"
+  }
+ ]
+}

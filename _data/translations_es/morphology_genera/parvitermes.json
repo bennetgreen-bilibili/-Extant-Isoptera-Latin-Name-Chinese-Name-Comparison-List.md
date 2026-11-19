@@ -1,0 +1,17 @@
+{
+ "note": "Establecido por Emerson 1949, con Nasutitermes brooksi Snyder como especie tipo; redescripto a nivel genérico por Roisin et al. 1996. Originalmente considerado un género de las Indias Occidentales, no se confirmó su presencia en el continente centroamericano hasta 2016.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Termita nasutada pequeña y de coloración pálida. El diagnóstico genérico se basa principalmente en la válvula entérica (EVA): el anillo de espinas situado por detrás está formado por 3 almohadillas carenadas, cada una con unas 7–15 espinas largas curvadas en dirección contraria al flujo alimentario («contracorriente»), tanto en el obrero como en el soldado; salvo en Antillitermes, este carácter es único entre los géneros de termitas. P1 largo y en forma de U (más corto y grueso en P. mexicanus); P2 constreñido en forma piriforme cerca de P3. En comparación con los congéneres de América Central, el soldado presenta una cápsula cefálica más pequeña y más pálida que la de Nasutitermes, un tubo nasal manifiestamente más delgado que el de Subulitermes y una cápsula cefálica que no está fuertemente constreñida en la parte media como en Tenuirostritermes."
+  },
+  {
+   "label": "Soldado",
+   "text": "El punto más estrecho de la cápsula cefálica se sitúa en el tercio posterior (P. mexicanus) o en la parte media (P. mesoamericanus, P. yucatanus); la inclinación del tubo nasal respecto al plano de la parte superior de la cabeza permite el diagnóstico específico: en mexicanus ligeramente ascendente, en mesoamericanus y yucatanus coplanaria o descendente; en vista lateral, los dos tercios apicales del tubo nasal son casi cilíndricos en mesoamericanus y cónicos en yucatanus. EVA del mismo tipo que en el obrero."
+  },
+  {
+   "label": "Obrero",
+   "text": "P1 del intestino posterior largo y en forma de U; P2 constreñido en forma piriforme cerca de P3; el anillo de espinas de la EVA está formado por 3 almohadillas carenadas, cada una con 7–15 espinas largas curvadas en sentido contrario al flujo alimentario, con o sin pequeñas manchas de dentículos cónicos entre las almohadillas; en las preparaciones, las espinas quedan a menudo incluidas en masas bacterianas coaguladas."
+  }
+ ]
+}

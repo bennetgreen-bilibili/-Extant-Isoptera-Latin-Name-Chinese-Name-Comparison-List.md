@@ -1,0 +1,24 @@
+{
+ "Chasitermes pax": {
+  "label": "Chasitermes pax Scheffrahn & Carrijo, 2023",
+  "match": "exact",
+  "notes": "",
+  "otu": 738844,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/738844/overview",
+  "valid_label": null,
+  "valid_otu": 738844,
+  "verified": false
+ },
+ "Chasitermes tupan": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 738843 Chasitermes Scheffrahn & Carrijo, 2023",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ }
+}

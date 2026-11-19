@@ -1,0 +1,23 @@
+{
+ "latin": "Ereymatermes",
+ "zh": "无名白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Ereymatermes Constantino, 1991b: 2–3.",
+ "type_species": "Ereymatermes rotundiceps Constantino, 1991 by original designation.",
+ "references": [
+  {
+   "ref": "Roisin, 1995: 289",
+   "note": "Ereymatermes; characters."
+  },
+  {
+   "ref": "Constantino, 1999a: 402, 414",
+   "note": "Ereymatermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 14",
+   "note": "Ereymatermes; key."
+  }
+ ],
+ "nrefs": 7
+}

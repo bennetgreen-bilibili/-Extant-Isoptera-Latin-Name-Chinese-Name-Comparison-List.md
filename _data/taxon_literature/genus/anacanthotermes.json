@@ -1,0 +1,42 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "印度地区的种类与分布",
+   "paragraphs": [
+    {
+     "text": "根据 Roonwal & Bose（1988）研究，无刺白蚁属（Anacanthotermes）当时全世界有 12 种，印度地区有 4 种：俾路支无刺白蚁（Anacanthotermes baluchistanicus）、大头无刺白蚁（Anacanthotermes macrocephalus）、游荡无刺白蚁（Anacanthotermes vagans）和小径无刺白蚁（Anacanthotermes viarum）；属的分布从北非、西亚、阿拉伯半岛和中亚延伸到印度西部与南部。",
+     "src": [
+      "S0105"
+     ],
+     "text_en": "According to Roonwal & Bose's (1988) study, Anacanthotermes then comprised 12 species worldwide, four of them in the Indian region: Anacanthotermes baluchistanicus, Anacanthotermes macrocephalus, Anacanthotermes vagans and Anacanthotermes viarum; the genus ranges from North Africa, West Asia, the Arabian Peninsula and Central Asia to western and southern India.",
+     "text_es": "Según el estudio de Roonwal y Bose (1988), Anacanthotermes contaba entonces con 12 especies en el mundo, cuatro de ellas en la región india: Anacanthotermes baluchistanicus, Anacanthotermes macrocephalus, Anacanthotermes vagans y Anacanthotermes viarum; el género se distribuye desde el norte de África, Asia occidental, la península arábiga y Asia central hasta el oeste y el sur de la India."
+    }
+   ],
+   "heading_en": "Species and distribution in the Indian region",
+   "heading_es": "Especies y distribución en la región india"
+  },
+  {
+   "heading": "南印度与北印度的代表种",
+   "paragraphs": [
+    {
+     "text": "同一研究指出，小径无刺白蚁（Anacanthotermes viarum）是南印度唯一的无刺白蚁属（Anacanthotermes）种类，两个后来描述的种被列为它的次异名；大头无刺白蚁（Anacanthotermes macrocephalus）是北印度的代表种，无刺白蚁属的旧异名 Anacanthotermes peshawarensis（现归入大头无刺白蚁）被列为它的次异名。",
+     "src": [
+      "S0105"
+     ],
+     "text_en": "The same study notes that Anacanthotermes viarum is the only species of Anacanthotermes in southern India, and that two species described later are listed as its junior synonyms; Anacanthotermes macrocephalus is the representative species of northern India, and the old synonym of Anacanthotermes, Anacanthotermes peshawarensis (now placed in Anacanthotermes macrocephalus), is listed as its junior synonym.",
+     "text_es": "El mismo estudio señala que Anacanthotermes viarum es la única especie del género en el sur de la India, y dos especies descritas posteriormente se consideran sinónimos junior de ella; Anacanthotermes macrocephalus es la especie representativa del norte de la India, y el antiguo sinónimo Anacanthotermes peshawarensis (hoy incluido en Anacanthotermes macrocephalus) se considera sinónimo junior de ella."
+    }
+   ],
+   "heading_en": "Representative species in southern and northern India",
+   "heading_es": "Especies representativas del sur y del norte de la India"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0105",
+   "citation": "Roonwal, M. L. & Bose, G. 1988. The Harvester Termites (Anacanthotermes) of the Indian Region. Identity, Distribution and Biology (Isoptera, Hodotermitidae). Records of the Zoological Survey of India, Miscellaneous Publication, Occasional Paper No. 111.",
+   "url": "https://archive.org/details/dli.zoological.occpapers.111"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "zh_name": "无刺白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "Hodotermitinae（草白蚁亚科）三属之一，分布于北非、埃及、西亚、阿拉伯、中亚至西印度与南印度。兵蚁头近方形至略长、两侧近平行，上颚粗壮内弯、具明显缘齿，左颚长与头长（至上颚基）之比，viarum 0.66–0.76、macrocephalus 0.53–0.66；后颏后三分之一或具明显“腰”；前胸背板后缘中央深凹、弱凹或不凹。有翅成虫触角 24–31 节，上唇中部可隆起，复眼与触角基部距离 0.05–0.16 mm。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "小至中型，体长（不含翅）11–15.4 mm。上唇中部隆起（A. viarum）或平直（A. vagans）；触角 29–31 节（baluchistanicus，头宽含眼 3.20–3.42 mm，复眼径 0.63–0.70 mm，前胸背板宽 2.53–2.90 mm）、26–29 节（macrocephalus，多为 27，阿富汗标本 24；头宽 2.70–3.40 mm）、24–27 节（vagans）；复眼与触角基部最小距离 0.13–0.16 mm（viarum、baluchistanicus）或 0.05–0.08 mm（macrocephalus）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "二型（大兵、小兵）。头红褐至栗褐色，近方形、略延长，两侧近平行、中部微凹，被中等长毛；后唇基不明显；颅中缝存在；上唇宽大于长，遍布毛，前部毛较长；触角 23–25 节（baluchistanicus）；上颚粗壮，具发育良好的缘齿，左颚长 2.71 mm（baluchistanicus 大兵）；后颏长（长 2.91 mm，最大宽 1.02 mm、最小宽 0.87 mm），扁平、两侧近平行，后三分之一侧缘弱凹成“腰”（viarum、macrocephalus）或不形成“腰”（baluchistanicus、vagans）；前胸背板前部弱隆起、凸，后缘中央深凹（baluchistanicus）、弱凹（viarum、macrocephalus）或不凹（vagans）；跗节 4 节。"
+  },
+  {
+   "label": "工蚁",
+   "text": "上颚具 2 枚缘齿，左颚两缘齿相距远，右颚两缘齿靠近。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0105",
+   "citation": "Roonwal, M. L.; Bose, G. 1988. The Harvester Termites (Anacanthotermes) of the Indian Region. Identity, Distribution and Biology (Isoptera, Hodotermitidae). Records of the Zoological Survey of India, Occasional Paper No. 111: 1–68.",
+   "locator": "pp. 3–5（属记述与检索表）"
+  }
+ ],
+ "note": "专著未设独立的属鉴别诊断；上列属级特征据其属级分布、有翅成虫与兵蚁检索表及四种记述归纳。印度区已知 4 种（baluchistanicus、macrocephalus、vagans、viarum），全属 12 种。"
+}

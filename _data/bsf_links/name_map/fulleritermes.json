@@ -1,0 +1,46 @@
+{
+ "Fulleritermes coatoni": {
+  "label": "Fulleritermes coatoni Sands, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 84446,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84446/overview",
+  "valid_label": null,
+  "valid_otu": 84446,
+  "verified": false
+ },
+ "Fulleritermes contractus": {
+  "label": "Fulleritermes contractus (Sjöstedt, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84447,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84447/overview",
+  "valid_label": null,
+  "valid_otu": 84447,
+  "verified": false
+ },
+ "Fulleritermes mallyi": {
+  "label": "Fulleritermes mallyi (Fuller, 1922)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84448,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84448/overview",
+  "valid_label": null,
+  "valid_otu": 84448,
+  "verified": false
+ },
+ "Fulleritermes tenebricus": {
+  "label": "Fulleritermes tenebricus (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84449,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84449/overview",
+  "valid_label": null,
+  "valid_otu": 84449,
+  "verified": false
+ }
+}

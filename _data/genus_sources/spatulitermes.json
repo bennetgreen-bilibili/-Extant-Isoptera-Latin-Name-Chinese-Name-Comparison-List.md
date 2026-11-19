@@ -1,0 +1,27 @@
+{
+ "latin": "Spatulitermes",
+ "zh": "匙白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Spatulitermes Coaton, 1971: 28–29.",
+ "type_species": "Spatulitermes coolingi Coaton, 1971 by original designation.",
+ "references": [
+  {
+   "ref": "Coaton and Sheasby, 1972: 24, 97, 101, figs. 25C, D, 59",
+   "note": "Spatulitermes; soldier figured; key; ecology; biology; distribution. Namibia."
+  },
+  {
+   "ref": "Sands, 1995: 1504, 1505, 1507",
+   "note": "Spatulitermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 47, 290–292, figs. 1472–1487, pl. 18: fig. 2",
+   "note": "Spatulitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution. 2013 Krishna ET AL.: isoptera: TERMITIDAE: NASUTITERMITINAE\b 1829"
+  },
+  {
+   "ref": "Uys, 2002: 96, 106–107, fig. 260",
+   "note": "Spatulitermes; key; species included; diagnosis; biology; distribution. South Africa."
+  }
+ ],
+ "nrefs": 4
+}

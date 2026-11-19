@@ -1,0 +1,68 @@
+{
+ "Foraminitermes coatoni": {
+  "label": "Foraminitermes coatoni Krishna, 1963",
+  "match": "exact",
+  "notes": "",
+  "otu": 83893,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83893/overview",
+  "valid_label": null,
+  "valid_otu": 83893,
+  "verified": false
+ },
+ "Foraminitermes corniferus": {
+  "label": "Foraminitermes corniferus (Sjöstedt, 1905)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83894,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83894/overview",
+  "valid_label": null,
+  "valid_otu": 83894,
+  "verified": false
+ },
+ "Foraminitermes harrisi": {
+  "label": "Foraminitermes harrisi Krishna, 1963",
+  "match": "exact",
+  "notes": "",
+  "otu": 83895,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83895/overview",
+  "valid_label": null,
+  "valid_otu": 83895,
+  "verified": false
+ },
+ "Foraminitermes rhinoceros": {
+  "label": "Foraminitermes rhinoceros (Sjöstedt, 1905)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83896,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83896/overview",
+  "valid_label": null,
+  "valid_otu": 83896,
+  "verified": false
+ },
+ "Foraminitermes tubifrons": {
+  "label": "Foraminitermes tubifrons Holmgren, 1912",
+  "match": "exact",
+  "notes": "",
+  "otu": 83897,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83897/overview",
+  "valid_label": null,
+  "valid_otu": 83897,
+  "verified": false
+ },
+ "Foraminitermes valens": {
+  "label": "Foraminitermes valens (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83898,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83898/overview",
+  "valid_label": null,
+  "valid_otu": 83898,
+  "verified": false
+ }
+}

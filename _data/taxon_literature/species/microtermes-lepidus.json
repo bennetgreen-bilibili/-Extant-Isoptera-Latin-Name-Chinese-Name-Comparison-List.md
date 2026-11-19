@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "异名与模式产地",
+   "heading_en": "Synonymy and type locality",
+   "heading_es": "Sinonimia y localidad tipo",
+   "paragraphs": [
+    {
+     "text": "根据 Ndiaye、Njie 与 Correa（2019）研究引述，可爱小白蚁（<i>Microtermes lepidus</i>）由 Sjöstedt 描述，Emerson 在未刊名录中将霍兰德小白蚁（<i>Microtermes hollandei</i>）并入本种；两个名称原描述所用的标本都来自塞内加尔达喀尔佛得角（Cap Vert）地区，该研究据此认为这一合并「完全合理」。",
+     "src": [
+      "S0346"
+     ],
+     "text_en": "In the study by Ndiaye, Njie and Correa (2019), <i>Microtermes lepidus</i>, described by Sjöstedt, is the species into which Emerson placed <i>Microtermes hollandei</i> in an unpublished catalogue; the specimens used for the original descriptions of both names came from the Cap Vert region of Dakar, Senegal, which the study takes to make the synonymy fully justified.",
+     "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), <i>Microtermes lepidus</i>, descrita por Sjöstedt, es la especie en la que Emerson incluyó <i>Microtermes hollandei</i> en un catálogo inédito; los ejemplares usados para las descripciones originales de ambos nombres procedían de la región de Cap Vert, Dakar, Senegal, lo que según el estudio justifica plenamente la sinonimia."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0346",
+   "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+   "doi": "10.3390/insects10050122"
+  }
+ ]
+}

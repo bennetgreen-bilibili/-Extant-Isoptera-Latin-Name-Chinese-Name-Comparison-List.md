@@ -1,0 +1,25 @@
+{
+ "zh_name": "西部白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "在 Holmgren 的 Eutermes 亚属群中，兵蚁以上颚完全无端突、鼻长而粗、触角 12 节、头壳在触角窝后不缢缩相组合；同组的 Eutermellus 头壳在触角窝后仅有弱缢缩，可据头形与鼻形再分。有翅成虫按检索表归入 Subulitermes 组：左上颚第 1 齿明显大于第 2 齿、囟约位于头中部、触角节相对较长、前胸背板窄。Holmgren 在系统学讨论中特别指出，本属有翅成虫属 Subulitermes 组，而兵蚁具长而粗的鼻（与 Rhynchotermes 相似），因此把它当作该支保留原始性状的关键成员；但他给出的只是检索表性状，并未作完整属级描述。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头宽卵形，通常向前变窄；囟约位于头中部；触角节相对较长；前胸背板窄（Taf. III, Fig. 7）。检索表用以引导至本属的对句还包括：唇基通常约与半宽等长，或较短而相当强烈隆起，卵形，淡黄色；左上颚第 1 齿明显大于第 2 齿。翅面毛被与脉序原文未在检索表中限定，仅以图版对照。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "上颚无端突；属小型种，触角 11–12 节，本属作 12 节；鼻锥形，长而粗；额面轮廓平直（检索表以 Taf. III, Fig. 17 对照）；头壳在触角窝后不缢缩。"
+  }
+ ],
+ "note": "原文只有亚属检索表，没有属级 Diagnosis；以上即检索表对句，测量值、体色与工蚁均未给出。Holmgren（p. 68）据其长而粗的鼻与 Subulitermes 组的有翅成虫性状，认为本属是该组中较原始的成员，并推测它与 Tumulitermes 关系较近。属名在原文作新亚属（n. subg.）。",
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren, N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar, 48(4): 59–62, 68–72.",
+   "locator": "p. 59–60（有翅成虫检索表 B/a/bb/ee/d），p. 60–61（兵蚁检索表 A/aa/b/dd/e），p. 68（系统学讨论）"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "天然木材偏好",
+   "heading_en": "Natural wood preferences",
+   "heading_es": "Preferencias por maderas naturales",
+   "paragraphs": [
+    {
+     "src": [
+      "S0208"
+     ],
+     "text": "据摘要，Haverty 与 Nutting（1975）在 69 个随机样方中调查荒漠白蚁的天然取食，直头动白蚁（<i>Paraneotermes simplicicornis</i>）偏好牧豆树（mesquite）、catclaw acacia 与 cholla 仙人掌的枯桩；同一调查中，金黄异白蚁（<i>Heterotermes aureus</i>）取食约 13 种木材，偏好荒漠朴（desert hackberry）与 cholla 枯段。",
+     "text_en": "According to the abstract, Haverty and Nutting (1975) surveyed natural wood feeding in 69 random quadrats and found that <i>Paraneotermes simplicicornis</i> prefers mesquite, catclaw acacia and dead cholla stumps, whereas in the same survey <i>Heterotermes aureus</i> feeds on about 13 wood species and prefers desert hackberry and dead cholla.",
+     "text_es": "Según el resumen, Haverty y Nutting (1975) estudiaron la alimentación natural en 69 cuadrantes aleatorios y hallaron que <i>Paraneotermes simplicicornis</i> prefiere mezquite, catclaw acacia y tocones muertos de cholla, mientras que en el mismo estudio <i>Heterotermes aureus</i> consume unas 13 especies de madera y prefiere el hackberry del desierto y los tallos muertos de cholla."
+    }
+   ]
+  },
+  {
+   "heading": "肠道共生鞭毛虫",
+   "heading_en": "Intestinal symbiotic flagellates",
+   "heading_es": "Flagelados simbióticos intestinales",
+   "paragraphs": [
+    {
+     "text": "根据 Mee 等（2019）研究，简角近新白蚁（<i>Paraneotermes simplicicornis</i>）分布于北美西南部，属木白蚁科，其肠道内栖息专性共生鞭毛虫 <i>Hoplonympha natator</i>；该研究基于 18S rRNA 的最大似然与贝叶斯分析显示，<i>Hoplonympha natator</i> 与栖息于山林原白蚁（<i>Hodotermopsis sjostedti</i>）体内的另一种 <i>Hoplonympha</i> 鞭毛虫构成一枝，节点较深，说明近期发生共生体转移的可能性不大；这种分布可由古老转移或严格的垂直传递并在其他宿主中丢失来解释。（据摘要）",
+     "src": [
+      "S0347"
+     ],
+     "text_en": "In the study by Mee et al. (2019), <i>Paraneotermes simplicicornis</i> occurs in southwestern North America in the family Kalotermitidae and harbours the obligate symbiotic flagellate <i>Hoplonympha natator</i> in its gut; maximum likelihood and Bayesian analyses of 18S rRNA show that <i>Hoplonympha natator</i> forms a clade with the other <i>Hoplonympha</i> species living in <i>Hodotermopsis sjostedti</i>, separated by a deep node that makes recent symbiont transfer unlikely; the distribution may be explained by ancient transfer or by strict vertical inheritance with differential loss from other hosts. (According to the abstract.)",
+     "text_es": "En el estudio de Mee et al. (2019), <i>Paraneotermes simplicicornis</i> se distribuye por el suroeste de Norteamérica en la familia Kalotermitidae y alberga en su intestino al flagelado simbiótico obligado <i>Hoplonympha natator</i>; los análisis de máxima verosimilitud y bayesianos de 18S ARNr muestran que <i>Hoplonympha natator</i> forma un clado con la otra especie de <i>Hoplonympha</i> que vive en <i>Hodotermopsis sjostedti</i>, separadas por un nodo profundo que hace improbable una transferencia reciente del simbionte; la distribución podría explicarse por transferencia antigua o por herencia vertical estricta con pérdida diferencial en otros hospedadores. (Según el resumen.)"
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0208",
+   "citation": "Haverty, M. I. & Nutting, W. L. (1975). Natural wood preferences of desert termites. Annals of the Entomological Society of America, 68(3).",
+   "doi": "10.1093/aesa/68.3.533"
+  },
+  {
+   "id": "S0347",
+   "citation": "Mee, E. D.; Gaylor, M. G.; Jasso-Selles, D. E.; Mizumoto, N.; Gile, G. H. 2019. Molecular Phylogenetic Position of Hoplonympha natator (Trichonymphea, Parabasalia): Horizontal Symbiont Transfer or Differential Loss? Journal of Eukaryotic Microbiology.",
+   "doi": "10.1111/jeu.12765"
+  }
+ ]
+}

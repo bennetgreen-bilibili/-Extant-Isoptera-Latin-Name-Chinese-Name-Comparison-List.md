@@ -1,0 +1,17 @@
+{
+ "note": "Contains 2 species (greavesi, the type species, and perlevis). The original describes the alate and soldier, without describing the worker mandibles separately, hence no worker section.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Alate left mandible index 1.07 (Subulitermes microsoma 1.29–1.33); soldier head larger than in S. microsoma, the posterior part broader and more spherical, head length/head width ratio 1.49–1.71 (S. microsoma 2.27)."
+  },
+  {
+   "label": "Alate",
+   "text": "Apical antennal segment pale, basal segment dark; the dark part of the pronotum the same colour as the head (pronotum paler in S. microsoma); tibiae and the distal parts of the femora darker than the middle of the femora; wings darker than in S. microsoma (punctures denser); sternites with dark patches at the sides, pale in the middle; vertex gently raised between the ocelli; head outline strongly arched, the highest point above the ocelli; fontanelle a pale narrow slit, forked anteriorly, shorter than the ocelli; antennae 15 segments, the 3rd slightly longer than the 2nd and 4th and more spherical at the tip; postclypeus length less than half its width (0.20–0.22 × 0.47 mm); left mandible index 1.07; lateral margins of the pronotum drawn back posteriorly; tibial spur formula 2:2:2."
+  },
+  {
+   "label": "Soldier",
+   "text": "Nasus base and vertex with 8 setae; frontal process and head sparsely covered with short hairs; abdominal tergite hairs denser, only slightly shorter than the marginal setae; head larger than in S. microsoma, the posterior part broader and more spherical; head length/head width ratio 1.49–1.63 (perlevis) or 1.71 (greavesi); head very slightly constricted, with a lateral ridge behind the nasus base; frontal process nearly cylindrical; antennae 12 segments (perlevis), the 2nd, 3rd and 4th segments nearly equal in length; mandibles without apical points; fore tibia nearly as wide as the femur, slightly swollen; abdomen thick, broad and rounded."
+  }
+ ]
+}

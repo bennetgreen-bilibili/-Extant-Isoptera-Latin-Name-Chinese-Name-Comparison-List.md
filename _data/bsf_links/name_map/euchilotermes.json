@@ -1,0 +1,68 @@
+{
+ "Euchilotermes acutidens": {
+  "label": "Euchilotermes acutidens Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 85059,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85059/overview",
+  "valid_label": null,
+  "valid_otu": 85059,
+  "verified": false
+ },
+ "Euchilotermes quadriceps": {
+  "label": "Euchilotermes quadriceps (Emerson, 1928)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85060,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85060/overview",
+  "valid_label": null,
+  "valid_otu": 85060,
+  "verified": false
+ },
+ "Euchilotermes tensus": {
+  "label": "Euchilotermes tensus Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 85061,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85061/overview",
+  "valid_label": null,
+  "valid_otu": 85061,
+  "verified": false
+ },
+ "Euchilotermes tensus arcuata": {
+  "label": "Euchilotermes tensus arcuata Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 85062,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85062/overview",
+  "valid_label": null,
+  "valid_otu": 85062,
+  "verified": false
+ },
+ "Euchilotermes tensus tensus": {
+  "label": "Euchilotermes tensus tensus Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 85063,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85063/overview",
+  "valid_label": null,
+  "valid_otu": 85063,
+  "verified": false
+ },
+ "Euchilotermes umbraticola": {
+  "label": "Euchilotermes umbraticola (Williams, 1954)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85064,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85064/overview",
+  "valid_label": null,
+  "valid_otu": 85064,
+  "verified": false
+ }
+}

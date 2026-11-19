@@ -1,0 +1,35 @@
+{
+ "zh_name": "无颚白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁上颚无端尖，鼻短而呈圆锥形；触角 11-12 节；头顶仅 2-3 根长刚毛，另有多数微毛，长刚毛数目少于 Coatitermes。工蚁左颚第 1+2 缘齿与第 3 缘齿之间的切缘不呈波状。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "上颚无端尖；鼻短、圆锥形；触角 11-12 节；头顶仅 2-3 根长刚毛，另有多数微毛。"
+  },
+  {
+   "label": "工蚁",
+   "text": "左颚第 1+2 缘齿至第 3 缘齿的切缘不呈波状。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0082",
+   "citation": "Snyder, T. E. 1926. Termites collected on the Mulford Biological Exploration to the Amazon Basin, 1921-1922. Proceedings of the United States National Museum 68.",
+   "locator": "pp. 41-42"
+  },
+  {
+   "id": "S0087",
+   "citation": "Fontes, L. R. 1987. Morphology of the alate and worker mandibles of the soil-feeding nasute termites (Isoptera, Termitidae, Nasutitermitinae) from Neotropical region. Revista Brasileira de Zoologia 3(8): 503-531.",
+   "locator": "p. 506"
+  },
+  {
+   "id": "S0048",
+   "citation": "Constantino, R. 1999. Chave ilustrada para identificacao dos generos de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papeis Avulsos de Zoologia 40(25): 387-448.",
+   "locator": "p. 415"
+  }
+ ],
+ "note": "Snyder 1926 以亚属级发表（Nasutitermes 亚属），本条目按属级处理。原文另有工蚁后唇基长度与体色语句，因 OCR 断字（Light- colored）不便逐字引用而未写入正文。有翅成虫原文未描述，故不设该节。"
+}

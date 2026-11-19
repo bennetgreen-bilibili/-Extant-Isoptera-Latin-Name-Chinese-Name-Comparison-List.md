@@ -1,0 +1,21 @@
+{
+ "zh_name": "利颚白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头形如图 83-84，黄褐色；鼻与头顶密布极短的毛；后肠第一段（PI）在右侧体壁观（em vista lateral direita）下形成明显的肠环，多生于潮湿草地。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头形如图 83-84，黄褐色；鼻与头顶具大量极短毛。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0048",
+   "citation": "Constantino, R. 1999. Chave ilustrada para identificacao dos generos de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papeis Avulsos de Zoologia 40(25): 387-448.",
+   "locator": "p. 414"
+  }
+ ],
+ "note": "原始描述（Mathews 1977 专著）未能取得可读全文，本条目仅据 Constantino 1999 的属级检索表，可写特征面窄；该文只给出兵蚁检索性状与肠道特征，故不设工蚁与有翅成虫两节。"
+}

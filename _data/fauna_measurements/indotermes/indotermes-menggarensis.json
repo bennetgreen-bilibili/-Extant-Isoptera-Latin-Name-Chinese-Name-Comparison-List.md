@@ -1,0 +1,46 @@
+{
+ "book_n": "333",
+ "book_name": "勐要印白蚁 Indotermes menggarensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "勐戛印白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_mandibles",
+     "value": "3.57–3.75"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "value": "2.36–2.39"
+    },
+    {
+     "key": "head_max_width",
+     "value": "2.21–2.25"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "1.32–1.39"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.75–0.79"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.00–1.04"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "2.00–2.14"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 24,
+   "unit": "mm"
+  }
+ ]
+}

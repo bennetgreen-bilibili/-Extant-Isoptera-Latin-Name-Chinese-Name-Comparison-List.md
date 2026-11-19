@@ -1,0 +1,21 @@
+{
+ "zh_name": "缩狭白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头红黄褐色、中部显著缢缩，鼻（nasus）色更深；上颚具极小的点、几乎不可辨；鼻与头顶光滑。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头红黄褐色、鼻色更深；头中部显著缢缩；头顶具两根毛；触角 13 节（第 3 节长于第 2 或第 4 节，但不及第 2 节两倍，异于 N. dorix）；上颚具极小的点、几乎不可辨；胸与头近同色；足相对身体不甚长。量度（mm）：头长 1.39–1.47、头宽 0.78、前胸背板 0.18×0.44、后足胫节 1.10。较 N. dorix 小得多；N. coarctatus 缢缩后部头更小、鼻较粗；N. clepsydra 头黑；N. tenebricus 头更长、上颚无点。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+   "locator": "pp. 495–496"
+  }
+ ],
+ "note": "Emerson (1928) 将本属作 Nasutitermes 的亚属处理（Holmgren 建立，拼写以 Coarctotermes 为准）；本处仅据其 Nasutitermes (Coarctotermes) suffuscus（新种）的兵蚁整理，有翅成虫与工蚁未描述。分布跨埃塞俄比亚与马达加斯加区、据当时记录不见于刚果盆地雨林。现代属见 Krishna et al. (2013)。"
+}

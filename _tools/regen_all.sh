@@ -39,7 +39,7 @@ python _tools/stamp_assets.py
 python _tools/check_lang_pages.py --ci
 
 # 仓库根目录 SITE-INDEX.md 的第 9 节快照（计数）。必须排在所有计数来源之后：
-# 它统计 taxonomy.json、_species/、各页面目录与 _data/ 的文件数。
+# 它统计 taxonomy.json、_species/、各页面目录，以及 _data/ 的顶层文件与分片目录（含分片数）。
 python _tools/build_ai_index.py --write
 
 echo "OK: 派生产物已全部重建"

@@ -1,0 +1,24 @@
+{
+ "Coxotermes boukokoensis": {
+  "gbif": {
+   "key": 9657692,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coxotermes boukokoensis Grassé & Noirot, 1955",
+   "accepted": null
+  },
+  "col": {
+   "id": "Z37J",
+   "status": "accepted",
+   "label": "Coxotermes boukokoensis Grassé & Noirot, 1955",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225312",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

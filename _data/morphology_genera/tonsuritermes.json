@@ -1,0 +1,25 @@
+{
+ "zh_name": "奇囟白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "工蚁与有翅成虫的囟极大，背视占头宽直径的 1/4 至 3/4；前足胫节内面具两列刺状刚毛。"
+  },
+  {
+   "label": "工蚁",
+   "text": "单型或二型；头侧视扁平、背视圆；囟缘清晰，凹陷于头顶，占头宽的 1/4 至 3/4；触角 14 节；后唇基中等至高度膨大。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头背视梯形，侧视扁平；后唇基与单眼之间、触角着生处上方有两个额斑，大于单眼；两额斑与囟之间另有两个较小的三角形斑。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0070",
+   "citation": "Constantini, J. P.; Carrijo, T. F.; Palma-Onetto, V.; Scheffrahn, R.; Carnohan, L. P.; Šobotník, J.; Cancello, E. M. 2018. Tonsuritermes, a new soldierless termite genus and two new species from South America (Blattaria: Isoptera: Termitidae: Apicotermitinae). Zootaxa 4531(3): 383–394. DOI: 10.11646/zootaxa.4531.3.4",
+   "locator": "pp. 384–387，「Diagnosis」段；pp. 384–387，「Imago」段；pp. 384–387，「Worker」段"
+  }
+ ],
+ "note": "本属无兵蚁（soldierless）；工蚁肠瓣（P2 无刺、6 个对称垫、近端 3–5 枚小三角刺）原文有述，因引文限额未引。"
+}

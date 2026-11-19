@@ -1,0 +1,176 @@
+{
+ "Eurytermes assmuthi": {
+  "gbif": {
+   "key": 9782647,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eurytermes assmuthi Wasmann, 1902",
+   "accepted": null
+  },
+  "col": {
+   "id": "3D74W",
+   "status": "accepted",
+   "label": "Eurytermes assmuthi Wasmann, 1902",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251135",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eurytermes assmuthi assmuthi": {
+  "gbif": {
+   "key": 9772113,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Eurytermes assmuthi assmuthi Wasmann, 1902",
+   "accepted": null
+  },
+  "col": {
+   "id": "L24Z5",
+   "status": "accepted",
+   "label": "Eurytermes assmuthi assmuthi Wasmann, 1902",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eurytermes assmuthi modestior": {
+  "gbif": {
+   "key": 9650168,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Eurytermes assmuthi modestior Silvestri, 1923",
+   "accepted": null
+  },
+  "col": {
+   "id": "L24Z6",
+   "status": "accepted",
+   "label": "Eurytermes assmuthi modestior Silvestri, 1923",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eurytermes boveni": {
+  "gbif": {
+   "key": 9752390,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eurytermes boveni Chhotani & Roonwal, 1966",
+   "accepted": null
+  },
+  "col": {
+   "id": "3D74X",
+   "status": "accepted",
+   "label": "Eurytermes boveni Chhotani & Roonwal, 1966",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251136",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eurytermes buddha": {
+  "gbif": {
+   "key": 9804581,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eurytermes buddha Bose & Maiti, 1966",
+   "accepted": null
+  },
+  "col": {
+   "id": "3D74Y",
+   "status": "accepted",
+   "label": "Eurytermes buddha Bose & Maiti, 1966",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251139",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eurytermes ceylonicus": {
+  "gbif": {
+   "key": 9670627,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eurytermes ceylonicus Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "3D74Z",
+   "status": "accepted",
+   "label": "Eurytermes ceylonicus Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591983",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eurytermes mohana": {
+  "gbif": {
+   "key": 9750567,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eurytermes mohana Rathore, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "3D753",
+   "status": "accepted",
+   "label": "Eurytermes mohana Rathore, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251141",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Eurytermes topslipensis": {
+  "gbif": {
+   "key": 9699673,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Eurytermes topslipensis (Thapa & Chatterjee, 1963)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3D754",
+   "status": "accepted",
+   "label": "Eurytermes topslipensis (Thapa & Chatterjee, 1963)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251142",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "Adynatotermes moretelae": {
+  "gbif": {
+   "key": 9768844,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Adynatotermes moretelae (Fuller, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "655C2",
+   "status": "accepted",
+   "label": "Adynatotermes moretelae (Fuller, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225288",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

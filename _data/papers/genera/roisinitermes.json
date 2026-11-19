@@ -1,0 +1,35 @@
+{
+ "latin": "Roisinitermes",
+ "zh": "罗伊辛白蚁属",
+ "fetched_at": "2026-10-30T16:54:33Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2895726281",
+   "openalex_url": "https://openalex.org/W2895726281",
+   "doi": "10.3897/zookeys.787.28195",
+   "doi_url": "https://doi.org/10.3897/zookeys.787.28195",
+   "title": "Roisinitermes ebogoensis gen. & sp. n., an outstanding drywood termite with snapping soldiers from Cameroon (Isoptera, Kalotermitidae)",
+   "year": 2018,
+   "date": "2018-10-02",
+   "authors": [
+    "Rudolf H. Scheffrahn",
+    "Thomas Bourguignon",
+    "Pierre Dieudonné Akama",
+    "David Sillam‐Dussès",
+    "Jan Šobotník"
+   ],
+   "venue": "ZooKeys",
+   "type": "article",
+   "language": "en",
+   "cited_by": 16,
+   "oa_url": "https://doi.org/10.3897/zookeys.787.28195",
+   "volume": "787",
+   "issue": "787",
+   "pages": "91-105",
+   "abstract": "Termites have developed a wide array of defensive mechanisms. One of them is the mandibulate soldier caste that crushes or pierces their enemies. However, in several lineages of Termitinae, soldiers have long and slender mandibles that cannot bite but, instead, snap and deliver powerful strikes to their opponents. Here, we use morphological and molecular evidence to describeRoisinitermesebogoensisScheffrahn,gen. & sp. n.from near Mbalmayo, Cameroon. Soldiers ofR.ebogoensisare unique among all other kalotermitid soldiers in that they possess snapping mandibles. The imago ofR.ebogoensisis also easily distinguished from all other Kalotermitidae by the lack of ocelli. Our study reveals a new case of parallel evolution of snapping mandibles in termites, a complex apparatus responsible of one of the fastest biological acceleration rates measured to date.",
+   "abstract_source": "openalex",
+   "abstract_chars": 860,
+   "abstract_truncated": false
+  }
+ ]
+}

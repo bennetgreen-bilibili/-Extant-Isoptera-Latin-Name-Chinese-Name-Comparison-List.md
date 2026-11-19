@@ -1,0 +1,55 @@
+{
+ "latin": "Ekphysotermes",
+ "zh": "瘤突白蚁属",
+ "fetched_at": "2026-10-30T16:53:34Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W4206426175",
+   "openalex_url": "https://openalex.org/W4206426175",
+   "doi": "10.1071/ajzs003",
+   "doi_url": "https://doi.org/10.1071/ajzs003",
+   "title": "The termitinae (Isoptera) of temperate Australia",
+   "year": 1971,
+   "date": "1971-03-01",
+   "authors": [
+    "F. J. Gay"
+   ],
+   "venue": "Australian Journal of Zoology Supplementary Series",
+   "type": "article",
+   "language": "en",
+   "cited_by": 7,
+   "oa_url": "",
+   "volume": "19",
+   "issue": "3",
+   "pages": "1-36",
+   "abstract": "The subfamily Termitinae is represented in temperate Australia by 12 species, 10 of which are known by all castes and two by imagos only. The 12 species are assigned to five genera, two of which, Hesperotermes and Ekphysotermes, are new and proposed to accommodate a number of species previously assigned to the genus Termes. Diagnoses of the new genera and descriptions of four new and one revalidated species of Termes are given, together with keys based on both the imagos and soldiers.",
+   "abstract_source": "openalex",
+   "abstract_chars": 489,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2018069535",
+   "openalex_url": "https://openalex.org/W2018069535",
+   "doi": "10.1071/it9901147",
+   "doi_url": "https://doi.org/10.1071/it9901147",
+   "title": "A revision of the Termes-Capritermes branch of the Termitinae in Australia (Isoptera : Termitidae)",
+   "year": 1990,
+   "date": "1990-12-01",
+   "authors": [
+    "LR Miller"
+   ],
+   "venue": "Invertebrate Taxonomy",
+   "type": "article",
+   "language": "en",
+   "cited_by": 41,
+   "oa_url": "",
+   "volume": "4",
+   "issue": "6",
+   "pages": "1147-1282",
+   "abstract": "The Australian genera belonging to the Termes-Capritermes branch of the Termitinae are revised. Termes fatalis Linnaeus, the type species of Termes Linnaeus, is redescribed and a neotype soldier designated. Eight new genera and 27 new species are described, 18 species presently assigned to the genus Termes are transferred to other genera, Pericapritermes Silvestri is recorded from Australia for the first time. The phylogeny of the group is discussed and the general biology summarised. A key to the genera and species is given. The Australian genera and species are: Xylochomitermes, gen. nov., X. aspinosus, sp. nov., X. melvillensis (Hill), comb. nov., X. occidualis (Gay), comb. nov., X. punctillus, sp, nov., X. reductus (Gay), comb. nov., X. tomentosus (Gay), comb. nov.; Hesperotermes Gay, H. infrequens (Hill); Apsenterotermes, gen. nov., A. aspersus, sp. nov., A. declinatus, sp. nov., A. iridipennis (Gay), comb. nov., A. improcerus, sp. nov., A. stenopronos, sp. nov.; Ephelotermes, gen. nov., E. argutus (Hill), comb. nov., E. cheeli (Mjoberg), comb. nov., E. melachoma, sp. nov., E. paleatus sp. nov., E. persimilis (Gay), comb. nov., E. taylori (Hill), comb. nov.; Ekphysotermes Gay, E. jarmuranus (Hill), comb. nov., E. kalgoorliensis (Hill), E. ocellaris (Mjoberg), E. pelatus (Hill), E. percomis (Hill); Cristatitermes, gen. nov., C. arenicola, sp. nov., C. barretti, sp. nov., C. carinatus, sp. nov., C. froggatti (Hill), comb. nov., C. pineaformis, sp. nov., C. tutulatus, sp. nov.; Lophotermes, gen. nov., L. aduncus, sp. nov., L. brevicephalus, sp. nov., L. crinitus, sp. nov., L. leptognathus, sp. nov., L. parvicornis, sp. nov., L. pectinatus, sp. nov., L. pusillus, sp, nov., L. quadratus (Hill), comb. nov., L. septentrionalis (Hill), comb. nov.; Saxatilitermes, gen. nov., S. saxatilis, sp. nov.; Hapsidotermes, gen. nov., H. harrisi (Mjöberg), comb. nov., H. labellus, sp. nov., H. longius, sp. nov., H. maideni (Mjoberg), comb. nov., H. orbus (Hill), comb. nov.; Macrognathotermes, gen. nov., M. broomensis (Mjöberg), comb. nov., M. errator, sp. nov., M. prolatus, sp. nov., M. sunteri (Hill), comb. nov.; Paracapritermes Hill, P. kraepelinii (Silvestri), P. primus Hill, P. prolixus, sp. nov., P. secundus, sp. nov.; Protocapriterrnes Holmgren, P. krisiformis (Froggatt); Pericapritermes Silvestri, Pericapritermes sp.",
+   "abstract_source": "openalex",
+   "abstract_chars": 2350,
+   "abstract_truncated": false
+  }
+ ]
+}

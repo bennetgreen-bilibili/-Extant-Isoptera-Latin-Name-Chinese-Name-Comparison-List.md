@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "补充生殖蚁的类型",
+   "heading_en": "Types of neotenic reproductives",
+   "heading_es": "Tipos de reproductores neoténicos",
+   "paragraphs": [
+    {
+     "src": [
+      "S0201"
+     ],
+     "text": "据摘要，Roisin 与 Pasteels（1987）比较新赫布里底象白蚁（<i>Nasutitermes novarumhebridarum</i>）与同域的第一象白蚁（<i>Nasutitermes princeps</i>）后发现：新赫布里底象白蚁去后只产生工蚁型（ergatoid）补充生殖蚁，第一象白蚁则容易产生成虫型（具翅芽）补充生殖蚁，两者在同一生境中采取了不同的品级发育策略。",
+     "text_en": "According to the abstract, Roisin and Pasteels (1987) compared <i>Nasutitermes novarumhebridarum</i> with the sympatric <i>Nasutitermes princeps</i> and found that the former produces only ergatoid neotenics after queen removal, whereas the latter readily produces adultoid (brachypterous) neotenics, so the two species adopt different caste-developmental strategies in the same habitat.",
+     "text_es": "Según el resumen, Roisin y Pasteels (1987) compararon <i>Nasutitermes novarumhebridarum</i> con el simpátrico <i>Nasutitermes princeps</i> y hallaron que el primero produce únicamente neoténicos ergatoides tras retirar la reina, mientras que el segundo produce fácilmente neoténicos adultoides (braquípteros), de modo que ambas especies adoptan estrategias distintas de desarrollo de castas en el mismo hábitat."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0201",
+   "citation": "Roisin, Y. & Pasteels, J. M. (1987). Caste developmental potentialities in the termite Nasutitermes novarumhebridarum. Entomologia Experimentalis et Applicata.",
+   "doi": "10.1111/j.1570-7458.1987.tb00556.x"
+  }
+ ]
+}

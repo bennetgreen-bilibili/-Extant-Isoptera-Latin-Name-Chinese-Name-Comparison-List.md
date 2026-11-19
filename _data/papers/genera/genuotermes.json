@@ -1,0 +1,31 @@
+{
+ "latin": "Genuotermes",
+ "zh": "膝白蚁属",
+ "fetched_at": "2026-10-30T16:53:39Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2027054084",
+   "openalex_url": "https://openalex.org/W2027054084",
+   "doi": "10.3897/zookeys.340.6131",
+   "doi_url": "https://doi.org/10.3897/zookeys.340.6131",
+   "title": "Redescription of the enigmatic genus Genuotermes Emerson (Isoptera, Termitidae, Termitinae)",
+   "year": 2013,
+   "date": "2013-10-04",
+   "authors": [
+    "Mauricio M. Rocha"
+   ],
+   "venue": "ZooKeys",
+   "type": "article",
+   "language": "en",
+   "cited_by": 5,
+   "oa_url": "https://doi.org/10.3897/zookeys.340.6131",
+   "volume": "340",
+   "issue": "340",
+   "pages": "107-117",
+   "abstract": "The imago and soldier castes of the Neotropical Termitinae species Genuotermes spinifer Emerson are redescribed. The gut anatomy of the worker is described in detail for the first time, and morphological variations in the soldier are noted and illustrated. The known geographical distribution of Genuotermes spinifer is greatly expanded.",
+   "abstract_source": "openalex",
+   "abstract_chars": 337,
+   "abstract_truncated": false
+  }
+ ]
+}

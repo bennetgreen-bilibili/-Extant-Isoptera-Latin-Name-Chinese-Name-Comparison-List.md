@@ -1,0 +1,38 @@
+{
+ "book_n": "134",
+ "book_name": "奇颏散白蚁 Reticulitermes",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "成虫量度",
+   "label_en": "Imago measurements",
+   "label_es": "Medidas de imago",
+   "label_zh": "成虫量度",
+   "rows": [
+    {
+     "key": "body_length_with_wings",
+     "value": "7.88–8.06"
+    },
+    {
+     "key": "body_length",
+     "value": "4.08–4.56"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.036–0.048"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.768–0.792"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.08"
+    }
+   ],
+   "src_file": "401-500.txt",
+   "src_line": 261,
+   "unit": "mm"
+  }
+ ]
+}

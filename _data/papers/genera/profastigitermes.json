@@ -1,0 +1,32 @@
+{
+ "latin": "Profastigitermes",
+ "zh": "前峰白蚁属",
+ "fetched_at": "2026-10-30T16:54:27Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W1970292949",
+   "openalex_url": "https://openalex.org/W1970292949",
+   "doi": "10.11646/zootaxa.3946.4.9",
+   "doi_url": "https://doi.org/10.11646/zootaxa.3946.4.9",
+   "title": "Redescription and reclassification of the African termite, Forficulitermes planifrons (Isoptera, Termitidae, Termitinae)",
+   "year": 2015,
+   "date": "2015-04-13",
+   "authors": [
+    "Rudolf H. Scheffrahn",
+    "Jan Křeček"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 3,
+   "oa_url": "",
+   "volume": "3946",
+   "issue": "4",
+   "pages": "591-4",
+   "abstract": "Forficulitermes planifrons is a monotypic genus and species described by Emerson (1960) from three soldiers and a single worker. All known occurrences of Forficulitermes (Emerson 1960, Wango & Josens 2011, this study) originate from equatorial middle Africa. Emerson (1960) compared soldiers of Forficulitermes with Basidentitermes, Proboscitermes, Orthotermes, Profastigitermes, and Fastigitermes, (the latter all in the Cubitermitinae) with respect to the general shape of the labrum, but found no similarities among these genera with respect to either the former's mandibles or the undulating profile surrounding its fontanelle. The only worker morphology noted for F. planifrons by Emerson (1960) was a pair of worn mandibles. Based largely on the enteric valve armature, we herein redescribe F. planifrons and assign this genus to the subfamily Termitinae.",
+   "abstract_source": "openalex",
+   "abstract_chars": 861,
+   "abstract_truncated": false
+  }
+ ]
+}

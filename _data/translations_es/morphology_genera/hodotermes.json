@@ -1,0 +1,21 @@
+{
+ "note": "La descripción genérica sigue a Sjöstedt 1900 (cuando Hodotermes era un género en sentido amplio que incluía a los actuales Stolotermes y Porotermes como subgéneros). Los datos biológicos siguen a Haviland y Hachmann: vive en el suelo, no rehúye la luz, actividad diurna al aire libre, a menudo migra en columnas y arrastra briznas de hierba cortadas a las galerías del suelo. Su distribución es principalmente africana, y también se registra en las Indias Orientales, el sur de Persia y las islas Nicobar.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Tanto el soldado como el obrero presentan ojos compuestos negros y conspicuos (raros entre las termitas y signo distintivo de este género); la cápsula cefálica carece de foramen frontal. En el alado las antenas tienen 23–30 segmentos, los ocelos están reducidos a una mancha amarilla junto al ojo, el pronoto es pequeño y casi cordiforme, y el arolio (Haftlappen) falta."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza grande y redonda, epistoma (Epistom) no abultado, ojos compuestos planos y no muy prominentes, ocelos solo como una mancha amarilla junto al ojo; antenas de 23–30 segmentos, con los segmentos basales muy pequeños y esféricos, que se alargan progresivamente hacia el exterior; sin fosa frontal; pronoto no rectangular, algo cordiforme y en forma de silla, con los márgenes posteriores del mesonoto y del metanoto escotados pero sin formar dos puntas; el campo costal del ala anterior lleva venas y la subcosta se ramifica en varias ramas que lo atraviesan; la media y la submedia del ala anterior se separan desde la base de la escama; la membrana alar está recorrida por numerosas ramificaciones finas e irregulares; el 1.er tarsómero es más largo que los dos siguientes; ambos sexos presentan cercos (apéndices anales)."
+  },
+  {
+   "label": "Soldado",
+   "text": "Los ojos compuestos negros y conspicuos están siempre presentes. Cabeza grande, algo redonda, cuadrada o brevemente rectangular, de color rojo amarillento claro u oscuro, sin cavidad frontal; mandíbulas más cortas que la cabeza, muy robustas, con dientes conspicuos siempre presentes en el margen interno (más numerosos en la izquierda que en la derecha) y con el ápice curvado hacia dentro; labro corto y ancho; antenas de 27–30 segmentos (Wasmann registró 21–27); pronoto algo cordiforme (no transversalmente rectangular), en forma de silla, con los ángulos anteriores curvados hacia abajo, cóncavos y algo prominentes; mesonoto y metanoto de anchura igual a la del pronoto, más aplanados y rectangulares, con los bordes laterales redondeados, delgados y replegados hacia arriba, más anchos que el abdomen; el último tarsómero es tan largo como la suma de los restantes; cabeza y cuerpo brillantes como barnizados."
+  },
+  {
+   "label": "Obrero",
+   "text": "Los ojos compuestos negros y conspicuos están siempre presentes. Cabeza de color amarillo a rojo amarillento, redonda; epistoma estrecho; los dos primeros dientes mandibulares pequeños e iguales; antenas de 24–32 segmentos; el tórax es mucho más estrecho que la cabeza y el abdomen y claramente distinto de los segmentos abdominales; el mesonoto y el metanoto se ensanchan progresivamente hacia atrás; el último tarsómero es tan largo como la suma de los restantes."
+  }
+ ]
+}

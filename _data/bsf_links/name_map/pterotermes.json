@@ -1,0 +1,13 @@
+{
+ "Pterotermes occidentis": {
+  "label": "Pterotermes occidentis (Walker, 1853)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83052,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83052/overview",
+  "valid_label": null,
+  "valid_otu": 83052,
+  "verified": false
+ }
+}

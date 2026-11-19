@@ -1,0 +1,13 @@
+{
+ "Apilitermes longiceps": {
+  "label": "Apilitermes longiceps (Sjöstedt, 1899)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84969,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84969/overview",
+  "valid_label": null,
+  "valid_otu": 84969,
+  "verified": false
+ }
+}

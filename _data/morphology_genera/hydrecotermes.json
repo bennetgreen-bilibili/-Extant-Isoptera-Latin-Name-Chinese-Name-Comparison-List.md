@@ -1,0 +1,25 @@
+{
+ "zh_name": "海德瑞克白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "形态上最接近 Grigiotermes 与 Patawatermes，但工蚁更小、肠瓣无硬化 armature，可与之区分；与其他新热带无兵蚁白蚁的差别在于 P1 膨大、腹部粗短、肠瓣垫卵形且无刺。"
+  },
+  {
+   "label": "工蚁",
+   "text": "中型，头宽 0.6–0.8 mm；腹部消化道略膨大；头淡黄、圆形，被 50–200 根刚毛而无微毛；肠瓣垫呈卵形，无刺、无硬化 armature。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "硬化体部深褐，密被数千根微毛；头仅数根长刚毛；复眼与单眼大；fontanelle 相当大，位于复眼后缘水平，呈一无毛斑点。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0054",
+   "citation": "Bourguignon T., Scheffrahn R. H., Nagy Z. T., Sonet G., Host B., Roisin Y. 2016. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Grigiotermes Mathews and description of five new genera. Zoological Journal of the Linnean Society 176(1): 15–35. doi:10.1111/zoj.12305",
+   "locator": "pp. 23–24（Hydrecotermes gen. nov.：描述起于 p. 23，Diagnosis 在 p. 24）"
+  }
+ ],
+ "note": "属名纪念法属圭亚那的 Hydreco 站。原文同时描述工蚁与有翅成虫，无兵蚁，故不设兵蚁节。"
+}

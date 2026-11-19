@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""校验 _data/taxon_literature.json（或审阅草稿 JSON）的结构与引用完整性。
+"""校验 _data/taxon_literature/ 分片（或审阅草稿 JSON）的结构与引用完整性。
 
 检查项：
   - 页面 key 必须是真实存在的 /genus/、/family/、/subfamily/、/species/ 页面；
@@ -23,7 +23,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-LITERATURE = ROOT / "_data" / "taxon_literature.json"
+sys.path.insert(0, str(ROOT / "_tools"))
+import shard_io  # noqa: E402
+
 SOURCES = ROOT / ".sources" / "index.json"
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 PAGE_RE = re.compile(r"^/(genus|family|subfamily|species)/([a-z0-9-]+)/$")
@@ -48,16 +50,20 @@ def page_path(url):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("--file", default=str(LITERATURE), help="要校验的 JSON（默认 _data/taxon_literature.json）")
+    ap.add_argument("--file", default=None,
+                    help="要校验的 JSON（默认读 _data/taxon_literature/ 分片）")
     args = ap.parse_args()
-    path = Path(args.file)
-    if not path.is_absolute():
-        path = ROOT / path
 
     try:
-        data = load(path)
+        if args.file:
+            path = Path(args.file)
+            if not path.is_absolute():
+                path = ROOT / path
+            data = load(path)
+        else:
+            data = shard_io.load("taxon_literature")
     except Exception as exc:
-        print("无法读取 %s：%s" % (path, exc))
+        print("无法读取 %s：%s" % (args.file or "_data/taxon_literature/", exc))
         return 2
     try:
         index = load(SOURCES)

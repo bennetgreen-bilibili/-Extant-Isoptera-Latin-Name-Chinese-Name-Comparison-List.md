@@ -1,0 +1,23 @@
+{
+ "latin": "Ovambotermes",
+ "zh": "奥万博兰白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Ovambotermes Coaton, 1971: 10–12.",
+ "type_species": "Ovambotermes sylvaticus Coaton, 1971 by original designation.",
+ "references": [
+  {
+   "ref": "Coaton and Sheasby, 1972: 25, 69, 101, figs. 13C–D, 40, 41",
+   "note": "Ovambotermes; soldier figured; key; ecology; biology; nest; distribution. Namibia."
+  },
+  {
+   "ref": "Sands, 1998: 40, 215–217, figs. 879–891, pl. 11: fig. 7",
+   "note": "Ovambotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  },
+  {
+   "ref": "Uys, 2002: 66, 86–87, fig. 210",
+   "note": "Ovambotermes; key; species included; diagnosis; biology; distribution. South Africa."
+  }
+ ],
+ "nrefs": 3
+}

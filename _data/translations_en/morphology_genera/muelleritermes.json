@@ -1,0 +1,17 @@
+{
+ "note": "The source also contains a generic description of the alate (head with a semicircular ridge, antennae 15 segments, fore coxa rough laterally, wing with a stellate micraster) and a description of the minor soldier (head narrower, elongate or oval, distinctly constricted behind the antennae); because quotations are limited to 3 per genus, no alate section is given and the minor soldier text is not quoted.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The genus is distinguished from the other genera of the Nasutitermitinae by its trimorphic soldiers and by the pair of vestigial ocelli on the soldier head; within the subfamily only this genus, Velocitermes and Diversitermes have trimorphic soldiers."
+  },
+  {
+   "label": "Soldier",
+   "text": "Trimorphic. Major soldier head broad and round, nearly square or slightly oval, without a constriction behind the antennae (M. globiceps), only slightly constricted in a few individuals of M. fritzi; medium soldier head oval or slightly oval."
+  },
+  {
+   "label": "Worker",
+   "text": "Dimorphic, the minor worker rare; the major worker mandibles are of two forms (called narrow-gap and broad-gap by Fontes, 1987); head circular, antennae 14 segments, postclypeus not inflated, fontanelle indistinct."
+  }
+ ]
+}

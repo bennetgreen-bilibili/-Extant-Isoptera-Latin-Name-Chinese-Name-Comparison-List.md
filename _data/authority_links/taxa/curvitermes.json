@@ -1,0 +1,46 @@
+{
+ "Curvitermes minor": {
+  "gbif": {
+   "key": 9730029,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Curvitermes minor (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6BQX2",
+   "status": "accepted",
+   "label": "Curvitermes minor (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237654",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Curvitermes odontognathus": {
+  "gbif": {
+   "key": 9649232,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Curvitermes odontognathus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6BR92",
+   "status": "accepted",
+   "label": "Curvitermes odontognathus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237656",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

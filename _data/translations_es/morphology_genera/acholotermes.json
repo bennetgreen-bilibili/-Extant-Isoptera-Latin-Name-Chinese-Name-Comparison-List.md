@@ -1,0 +1,17 @@
+{
+ "note": "Caracteres del género en Sands 1972 pp. 139–141. El original solo indica el tamaño corporal (ancho de la cabeza W, mm), el número de espinas apicales de la tibia anterior, las proporciones de los dientes mandibulares, la constricción de los terguitos meso- y metatorácicos (M/W), la fontanela y la pilosidad cefálica (cuando existen) y la estructura del tubo digestivo y de la válvula entérica; no registra el número de segmentos antenales, la forma del pronoto ni la venación alar, por lo que esta entrada no se completa. La confusión, en el OCR, entre el punto decimal «*» y entre i/1 se ha normalizado a cifras árabes según el contexto.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Los dientes apicales de las mandíbulas son largos en ambas castas y Sands los considera el carácter principal que distingue a Acholotermes de la mayoría de los demás géneros. De las cuatro especies, tres son morfológicamente compactas y comparten muchos caracteres; la cuarta, A. epius, presenta el segmento mixto más largo y la tercera espina de la tibia anterior reducida, y se asemeja a algunas especies de Anenteotermes y Astalotermes, con las que también se agrupa en los análisis numéricos."
+  },
+  {
+   "label": "Obrero",
+   "text": "Tamaño medio, ancho de la cabeza W 0.70–0.80 mm. Tibia anterior leve a moderadamente dilatada, relación largo/ancho Ti/Tw 3.91–5.30, con 3 espinas apicales, la tercera generalmente desarrollada, pequeña o reducida solo en una especie. Diente apical de las mandíbulas largo a muy largo, La/Li 0.81–1.07, Ra/Ri 0.97–1.29; el diente subapical de la mandíbula izquierda apenas separado de la prominencia molar en visión superficial o separado por una muesca manifiesta; en la mandíbula derecha el ápice del 1.er diente marginal claramente situado por detrás de la línea que une el diente apical y el 2.º diente marginal, con el margen anterior más corto o igual al del 2.º diente marginal. Unión de mesenterón y proctodeo casi transversal, situada a la derecha del nódulo de Malpighi (3–4 especies), o solapada hasta 2 veces la anchura del mesenterón y alcanzando el nódulo de Malpighi (4.ª especie). Asiento de la válvula entérica manifiestamente pero no prominentemente trilobulado, unido al segundo saco del proctodeo por un cuello largo, situado lateral a dorsalmente en el abdomen sin diseccionar; el colchón interno de la válvula entérica presenta escamas superficiales, cada una con 1 a varias espinitas o aguijones en el margen posterior."
+  },
+  {
+   "label": "Alado",
+   "text": "Tamaño medio, W 0.84–1.06 mm. Tibia anterior con 3 espinas apicales, la tercera pequeña a desarrollada. Diente apical de las mandíbulas largo, La/Li 0.68–1.04, Ra/Ri 0.92–1.45; el diente subapical de la mandíbula izquierda casi a ras del borde de la prominencia molar o ligeramente separado de él; en la mandíbula derecha el ápice del 1.er diente marginal ligera a claramente situado por detrás de la línea que une el diente apical y el 2.º diente marginal, con el margen anterior igual o algo más largo que el del 2.º diente marginal. Terguitos meso- y metatorácicos estrechos a algo anchos en la constricción, M/W 0.25–0.32; sutura transversa débil o ausente en la especie tipo, presente en las demás."
+  }
+ ]
+}

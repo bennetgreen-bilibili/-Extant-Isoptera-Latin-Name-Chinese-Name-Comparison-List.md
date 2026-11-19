@@ -1,0 +1,46 @@
+{
+ "Occasitermes occasus": {
+  "gbif": {
+   "key": 4803037,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Occasitermes occasus (Silvestri, 1909)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48BPK",
+   "status": "accepted",
+   "label": "Occasitermes occasus (Silvestri, 1909)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272533",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Occasitermes watsoni": {
+  "gbif": {
+   "key": 4803039,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Occasitermes watsoni Gay, 1974",
+   "accepted": null
+  },
+  "col": {
+   "id": "48BPL",
+   "status": "accepted",
+   "label": "Occasitermes watsoni Gay, 1974",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272534",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

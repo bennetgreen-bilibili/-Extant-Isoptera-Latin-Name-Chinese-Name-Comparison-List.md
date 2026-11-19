@@ -1,0 +1,38 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "种名保留与肠道固氮菌",
+   "heading_en": "Name conservation and gut nitrogen fixers",
+   "heading_es": "Conservación del nombre y fijadores de nitrógeno intestinales",
+   "paragraphs": [
+    {
+     "src": [
+      "S0004"
+     ],
+     "text": "《白蚁论》记录破坏象白蚁（<i>Nasutitermes exitiosus</i>）由 Hill 于 1925 年以 <i>Eutermes</i> 属的旧组合 <i>Eutermes exitiosus</i> 描述，其种名经国际动物命名法委员会 1985 年第 1310 号意见裁定保留，优先于当时并用的种名 <i>australis</i>；选模为澳大利亚博物馆（NMV）编号 T-10878 的兵蚁，模式产地为澳大利亚西澳大利亚州 Ludlow。",
+     "text_en": "The Treatise records that <i>Nasutitermes exitiosus</i> was described by Hill in 1925 as the old combination <i>Eutermes exitiosus</i>; the specific name was conserved by ICZN Opinion 1310 (1985) over the then-current name <i>australis</i>, with a lectotype soldier NMV No. T-10878 and Ludlow, Western Australia, as the type locality.",
+     "text_es": "El Treatise registra que <i>Nasutitermes exitiosus</i> fue descrita por Hill en 1925 como la combinación antigua <i>Eutermes exitiosus</i>; el nombre específico fue conservado por la Opinión 1310 de la ICZN (1985) frente al nombre entonces en uso <i>australis</i>, con un lectotipo soldado NMV n.º T-10878 y Ludlow, Australia Occidental, como localidad tipo."
+    },
+    {
+     "src": [
+      "S0001"
+     ],
+     "text": "根据 French 等（1976）研究，从达尔文澳白蚁（<i>Mastotermes darwiniensis</i>）、乳色乳白蚁（<i>Coptotermes lacteus</i>）与破坏象白蚁（<i>Nasutitermes exitiosus</i>）的肠道中分离出弗氏柠檬酸杆菌（<i>Citrobacter freundii</i>）的固氮菌株。",
+     "text_en": "According to French et al. (1976), nitrogen-fixing strains of <i>Citrobacter freundii</i> were isolated from the guts of <i>Mastotermes darwiniensis</i>, <i>Coptotermes lacteus</i> and <i>Nasutitermes exitiosus</i>.",
+     "text_es": "Según French et al. (1976), se aislaron cepas fijadoras de nitrógeno de <i>Citrobacter freundii</i> del intestino de <i>Mastotermes darwiniensis</i>, <i>Coptotermes lacteus</i> y <i>Nasutitermes exitiosus</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0001",
+   "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+  },
+  {
+   "id": "S0004",
+   "citation": "Krishna K. et al. Treatise on the Isoptera of the world. Bulletin of the American Museum of Natural History 377, 2013."
+  }
+ ]
+}

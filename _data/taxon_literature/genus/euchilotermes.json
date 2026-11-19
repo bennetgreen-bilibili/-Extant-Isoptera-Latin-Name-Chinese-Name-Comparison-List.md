@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "属的分布与已知种",
+   "heading_en": "Distribution and known species of the genus",
+   "heading_es": "Distribución y especies conocidas del género",
+   "paragraphs": [
+    {
+     "text": "根据 Ndiaye、Njie 与 Correa（2019）研究，真唇白蚁属（<i>Euchilotermes</i>）仅分布于埃塞俄比亚区，已知 4 种：方头真唇白蚁（<i>Euchilotermes quadriceps</i>）见于刚果-扎伊尔（今刚果民主共和国）与马拉维，隐蔽真唇白蚁（<i>Euchilotermes umbraticola</i>）见于东非的肯尼亚与坦桑尼亚，另两个种由 Silvestri 描述为拉长真唇白蚁（<i>Euchilotermes tensus</i>）的尖齿变种与弓形变种，其中尖齿变种经 Emerson 依上颚与后颏差异提升为种，即尖齿真唇白蚁（<i>Euchilotermes acutidens</i>）。该研究在冈比亚 3 处保护区的调查中记录到拉长真唇白蚁弓形亚种（<i>Euchilotermes tensus arcuata</i>），为冈比亚新记录，属该研究新增的 3 种方白蚁亚科记录之一。",
+     "src": [
+      "S0346"
+     ],
+     "text_en": "In the study by Ndiaye, Njie and Correa (2019), <i>Euchilotermes</i> is confined to the Ethiopian region and has four described species: <i>Euchilotermes quadriceps</i> is known from Congo-Zaire (now the Democratic Republic of the Congo) and Malawi, <i>Euchilotermes umbraticola</i> from East Africa (Kenya and Tanzania), and two further species were described by Silvestri as varieties of <i>Euchilotermes tensus</i>, the acutidens and arcuata varieties; the acutidens variety was raised to species rank by Emerson on differences in the mandibles and gula, becoming <i>Euchilotermes acutidens</i>. The study recorded <i>Euchilotermes tensus arcuata</i> in three protected areas of The Gambia, a new record for the country and one of the three new Cubitermitinae records reported.",
+     "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), <i>Euchilotermes</i> se limita a la región etiópica y tiene cuatro especies descritas: <i>Euchilotermes quadriceps</i> se conoce del Congo-Zaire (hoy República Democrática del Congo) y Malawi, <i>Euchilotermes umbraticola</i> de África oriental (Kenia y Tanzania), y otras dos especies fueron descritas por Silvestri como variedades de <i>Euchilotermes tensus</i>, las variedades acutidens y arcuata; la variedad acutidens fue elevada a especie por Emerson por diferencias en las mandíbulas y la gula, pasando a ser <i>Euchilotermes acutidens</i>. El estudio registró <i>Euchilotermes tensus arcuata</i> en tres áreas protegidas de Gambia, un registro nuevo para el país y uno de los tres nuevos registros de Cubitermitinae señalados."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0346",
+   "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+   "doi": "10.3390/insects10050122"
+  }
+ ]
+}

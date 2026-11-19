@@ -1,0 +1,39 @@
+{
+ "zh_name": "生白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁上颚穿刺型、末端锐尖；缘齿位于上颚长度近端 1/3，或近中部、近基部；唇基不膨大；头背面观延长、近长方形，头基部长通常大于宽；前足基节腹缘具突起。工蚁中肠舌直，不达 P1 的膨大部；肠瓣段短而宽，位于腹部中点。有翅成虫左颚指数 0.7–1.1。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "上颚穿刺型、末端锐尖；缘齿位于上颚近端 1/3，为可辨认的缘齿（近中部或近基部）；唇基不膨大。头囊背面观延长、近长方形，头基部长通常大于宽。前足基节腹缘具突起。"
+  },
+  {
+   "label": "工蚁",
+   "text": "中肠舌直，不达 P1 的膨大部；肠瓣段短而宽，位于腹部中点。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "左颚指数 0.7–1.1，与 Armitermes、Labiotermes 同。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0068",
+   "citation": "Rocha M. M.; Cancello E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138: 445-463. https://doi.org/10.11646/zootaxa.5138.4.6",
+   "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）；Comparisons with other genera of Syntermitinae（Bandeiratermes 属征比较）"
+  },
+  {
+   "id": "S0077",
+   "citation": "Constantino R. 2012. Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records. Zootaxa 3174: 65-68. https://doi.org/10.11646/zootaxa.3174.1.7",
+   "locator": "Comparisons（属名后逗号前的空格系 Plazi 抽取标签剥离所致）"
+  },
+  {
+   "id": "S0072",
+   "citation": "Rocha M. M.; Cancello E. M.; Carrijo T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37: 793-827. https://doi.org/10.1111/j.1365-3113.2012.00645.x",
+   "locator": "Key to genera of Syntermitinae, couplet 12；Key to genera of Syntermitinae, couplet 10"
+  }
+ ],
+ "note": "兵蚁据 2022 年比较性属征与 2012 年属检索表；工蚁据肠瓣与中肠舌记述；有翅成虫仅知左颚指数。"
+}

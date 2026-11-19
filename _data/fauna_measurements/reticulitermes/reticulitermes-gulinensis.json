@@ -1,0 +1,42 @@
+{
+ "book_n": "174",
+ "book_name": "古蔺散白蚁 Reticulitermes",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "成虫量度",
+   "label_en": "Imago measurements",
+   "label_es": "Medidas de imago",
+   "label_zh": "成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "6.35–7.15"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "value": "1.19–1.25"
+    },
+    {
+     "key": "head_width",
+     "value": "1.15–1.20"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.046"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.96–1.03"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.35–1.44"
+    }
+   ],
+   "src_file": "401-500.txt",
+   "src_line": 1122,
+   "unit": "mm"
+  }
+ ]
+}

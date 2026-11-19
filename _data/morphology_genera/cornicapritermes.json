@@ -1,0 +1,35 @@
+{
+ "zh_name": "角扭白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 Paracapritermes、Mirocapritermes、Quasitermes 相比，兵蚁上颚的不对称更强、工蚁第二缘齿更不明显；Emerson（1950）认为四者中 Paracapritermes 最一般化，Mirocapritermes 次之，Quasitermes 再次，Cornicapritermes 最特化。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头厚而长，两侧微弯；额部锥状突前指，远超上颚基部，端部略上翘，端前下方有一小瘤，似为囟孔开口。"
+  },
+  {
+   "label": "工蚁",
+   "text": "端齿明显大于第一缘齿；右上颚第二缘齿退化或消失；左上颚第三缘齿与愈合的第一、第二缘齿之间有一小缺刻。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0040",
+   "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+   "locator": "p. 13（Cornicapritermes 兵蚁）"
+  },
+  {
+   "id": "S0040",
+   "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+   "locator": "p. 14（Cornicapritermes 兵蚁）"
+  },
+  {
+   "id": "S0040",
+   "citation": "Emerson, A. E. 1950. Five new genera of termites from South America and Madagascar (Isoptera, Rhinotermitidae, Termitidae). American Museum Novitates 1444: 1–15.",
+   "locator": "p. 14（Cornicapritermes 工蚁）"
+  }
+ ],
+ "note": "上唇端部浅叉、两侧角约 60°、两角间约 150°（Emerson 1950）属种级细节，此处从略。"
+}

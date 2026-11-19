@@ -1,0 +1,53 @@
+{
+ "book_n": "370",
+ "book_name": "滇华扭白蚊 Sinocapritermes yunnanensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "滇华扭白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.11",
+     "value": "1.07–1.15"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.58",
+     "value": "1.55–1.63"
+    },
+    {
+     "key": "right_mandible_length",
+     "mean": "1.62",
+     "value": "1.55–1.63"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.24",
+     "value": "0.21–0.25"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.32",
+     "value": "0.31–0.33"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.62",
+     "value": "0.59–0.64"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.96",
+     "value": "0.92–0.98"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 933,
+   "unit": "mm"
+  }
+ ]
+}

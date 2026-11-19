@@ -1,0 +1,1326 @@
+{
+ "Coptotermes acinaciformis": {
+  "gbif": {
+   "key": 4802734,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes acinaciformis (Froggatt, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8HC",
+   "status": "accepted",
+   "label": "Coptotermes acinaciformis (Froggatt, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q16752093",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes acinaciformis acinaciformis": {
+  "gbif": {
+   "key": 9768238,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Coptotermes acinaciformis acinaciformis Froggatt, 1898",
+   "accepted": null
+  },
+  "col": {
+   "id": "KZYX6",
+   "status": "accepted",
+   "label": "Coptotermes acinaciformis acinaciformis Froggatt, 1898",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes acinaciformis raffrayi": {
+  "gbif": {
+   "key": 9786544,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Coptotermes acinaciformis raffrayi (Wasmann, 1900)",
+   "accepted": null
+  },
+  "col": {
+   "id": "KZYX7",
+   "status": "accepted",
+   "label": "Coptotermes acinaciformis raffrayi (Wasmann, 1900)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes amanii": {
+  "gbif": {
+   "key": 8836837,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes amanii (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8HD",
+   "status": "accepted",
+   "label": "Coptotermes amanii (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235350",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes amboinensis": {
+  "gbif": {
+   "key": 9697705,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes amboinensis Kemner, 1931",
+   "accepted": null
+  },
+  "col": {
+   "id": "5ZXWR",
+   "status": "accepted",
+   "label": "Coptotermes amboinensis Kemner, 1931",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235351",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes bannaensis": {
+  "gbif": {
+   "key": 9728993,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes bannaensis Xia & He, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8HF",
+   "status": "accepted",
+   "label": "Coptotermes bannaensis Xia & He, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235353",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes beckeri": {
+  "gbif": {
+   "key": 9703398,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes beckeri Mathur & Chhotani, 1969",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8HG",
+   "status": "accepted",
+   "label": "Coptotermes beckeri Mathur & Chhotani, 1969",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235354",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes bentongensis": {
+  "gbif": {
+   "key": 9791233,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes bentongensis Krishna, 1956",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8HH",
+   "status": "accepted",
+   "label": "Coptotermes bentongensis Krishna, 1956",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235355",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes boetonensis": {
+  "gbif": {
+   "key": 9698845,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes boetonensis Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8HJ",
+   "status": "accepted",
+   "label": "Coptotermes boetonensis Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235357",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes brunneus": {
+  "gbif": {
+   "key": 4802735,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes brunneus Gay, 1955",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8HK",
+   "status": "accepted",
+   "label": "Coptotermes brunneus Gay, 1955",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21258781",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes ceylonicus": {
+  "gbif": {
+   "key": 8977720,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes ceylonicus Holmgren, 1911",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8HL",
+   "status": "accepted",
+   "label": "Coptotermes ceylonicus Holmgren, 1911",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591864",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes chaoxianensis": {
+  "gbif": {
+   "key": 9795975,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes chaoxianensis Huang & Li, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8HN",
+   "status": "accepted",
+   "label": "Coptotermes chaoxianensis Huang & Li, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235360",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes cooloola": {
+  "gbif": {
+   "key": 9476576,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes cooloola Lee, Evans, Cameron, Ho, Namyatova & Lo, 2017",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Coptotermes Wasmann, 1896",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q110272361",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes curvignathus": {
+  "gbif": {
+   "key": 9785354,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes curvignathus Holmgren, 1913",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8HR",
+   "status": "accepted",
+   "label": "Coptotermes curvignathus Holmgren, 1913",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21258794",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes cyclocoryphus": {
+  "gbif": {
+   "key": 9652693,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes cyclocoryphus Zhu, Li & Ma, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8HS",
+   "status": "accepted",
+   "label": "Coptotermes cyclocoryphus Zhu, Li & Ma, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235363",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes dimorphus": {
+  "gbif": {
+   "key": 9760746,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes dimorphus Xia & He, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8HT",
+   "status": "accepted",
+   "label": "Coptotermes dimorphus Xia & He, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235364",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes dobonicus": {
+  "gbif": {
+   "key": 9603177,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes dobonicus Oshima, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "5ZXX3",
+   "status": "accepted",
+   "label": "Coptotermes dobonicus Oshima, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235365",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes dreghorni": {
+  "gbif": {
+   "key": 4802743,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes dreghorni Hill, 1942",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8HV",
+   "status": "accepted",
+   "label": "Coptotermes dreghorni Hill, 1942",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272362",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes elisae": {
+  "gbif": {
+   "key": 9253942,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes elisae (Desneux, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8HW",
+   "status": "accepted",
+   "label": "Coptotermes elisae (Desneux, 1905)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q16752094",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes emersoni": {
+  "gbif": {
+   "key": 9696023,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes emersoni Ahmad, 1953",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8HX",
+   "status": "accepted",
+   "label": "Coptotermes emersoni Ahmad, 1953",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591868",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes formosanus": {
+  "gbif": {
+   "key": 2007383,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes formosanus Shiraki, 1909",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8HZ",
+   "status": "accepted",
+   "label": "Coptotermes formosanus Shiraki, 1909",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q1754623",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes frenchi": {
+  "gbif": {
+   "key": 4802732,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes frenchi Hill, 1932",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8J2",
+   "status": "accepted",
+   "label": "Coptotermes frenchi Hill, 1932",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q16980949",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes fumipennis": {
+  "gbif": {
+   "key": 9819174,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes fumipennis (Walker, 1853)",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8J3",
+   "status": "accepted",
+   "label": "Coptotermes fumipennis (Walker, 1853)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235366",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes gambrinus": {
+  "gbif": {
+   "key": 9204648,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes gambrinus Bourguignon & Roisin, 2011",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8J4",
+   "status": "accepted",
+   "label": "Coptotermes gambrinus Bourguignon & Roisin, 2011",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q106676318",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes gaurii": {
+  "gbif": {
+   "key": 9778873,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes gaurii Roonwal & Krishna, 1955",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8J5",
+   "status": "accepted",
+   "label": "Coptotermes gaurii Roonwal & Krishna, 1955",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591866",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes gestroi": {
+  "gbif": {
+   "key": 2007381,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes gestroi (Wasmann, 1896)",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8J6",
+   "status": "accepted",
+   "label": "Coptotermes gestroi (Wasmann, 1896)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q2008421",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes grandiceps": {
+  "gbif": {
+   "key": 7747292,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes grandiceps Snyder, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8J7",
+   "status": "accepted",
+   "label": "Coptotermes grandiceps Snyder, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235367",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes grandis": {
+  "gbif": {
+   "key": 9727304,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes grandis Li & Huang, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8J8",
+   "status": "accepted",
+   "label": "Coptotermes grandis Li & Huang, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235368",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes guangdongensis": {
+  "gbif": {
+   "key": 9691502,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes guangdongensis Ping, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8J9",
+   "status": "accepted",
+   "label": "Coptotermes guangdongensis Ping, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235369",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes gulangyuensis": {
+  "gbif": {
+   "key": 9678540,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes gulangyuensis Li & Huang, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JB",
+   "status": "accepted",
+   "label": "Coptotermes gulangyuensis Li & Huang, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235371",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes hainanensis": {
+  "gbif": {
+   "key": 9781798,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes hainanensis Li & Tsai, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JC",
+   "status": "accepted",
+   "label": "Coptotermes hainanensis Li & Tsai, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235372",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes intermedius": {
+  "gbif": {
+   "key": 8717545,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes intermedius Silvestri, 1912",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JG",
+   "status": "accepted",
+   "label": "Coptotermes intermedius Silvestri, 1912",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q124986437",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes kalshoveni": {
+  "gbif": {
+   "key": 9655448,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes kalshoveni Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JH",
+   "status": "accepted",
+   "label": "Coptotermes kalshoveni Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235374",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes kishori": {
+  "gbif": {
+   "key": 9662549,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes kishori Roonwal, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JJ",
+   "status": "accepted",
+   "label": "Coptotermes kishori Roonwal, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235375",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes lacteus": {
+  "gbif": {
+   "key": 4802737,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes lacteus (Froggatt, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JK",
+   "status": "accepted",
+   "label": "Coptotermes lacteus (Froggatt, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q16980955",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes longignathus": {
+  "gbif": {
+   "key": 9690383,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes longignathus Xia & He, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JL",
+   "status": "accepted",
+   "label": "Coptotermes longignathus Xia & He, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235376",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes longistriatus": {
+  "gbif": {
+   "key": 9659797,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes longistriatus Li & Huang, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JM",
+   "status": "accepted",
+   "label": "Coptotermes longistriatus Li & Huang, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235377",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes mauricianus": {
+  "gbif": {
+   "key": 9715246,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes mauricianus (Rambur, 1842)",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JN",
+   "status": "accepted",
+   "label": "Coptotermes mauricianus (Rambur, 1842)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235378",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes melanoistriatus": {
+  "gbif": {
+   "key": 9800715,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes melanoistriatus Gao, Lau & He, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JP",
+   "status": "accepted",
+   "label": "Coptotermes melanoistriatus Gao, Lau & He, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235379",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes menadoae": {
+  "gbif": {
+   "key": 9814363,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes menadoae Oshima, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JQ",
+   "status": "accepted",
+   "label": "Coptotermes menadoae Oshima, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235380",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes michaelseni": {
+  "gbif": {
+   "key": 4802731,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes michaelseni Silvestri, 1909",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JR",
+   "status": "accepted",
+   "label": "Coptotermes michaelseni Silvestri, 1909",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272363",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes minutissimus": {
+  "gbif": {
+   "key": 9749737,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes minutissimus Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JS",
+   "status": "accepted",
+   "label": "Coptotermes minutissimus Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235381",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes monosetosus": {
+  "gbif": {
+   "key": 9679635,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes monosetosus Tsai & Li, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JT",
+   "status": "accepted",
+   "label": "Coptotermes monosetosus Tsai & Li, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235382",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes nanus": {
+  "gbif": {
+   "key": 9358556,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes nanus Lee, Evans, Cameron, Ho, Namyatova & Lo, 2017",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Coptotermes Wasmann, 1896",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q110272364",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes ochraceus": {
+  "gbif": {
+   "key": 9746857,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes ochraceus Ping & Xu, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JV",
+   "status": "accepted",
+   "label": "Coptotermes ochraceus Ping & Xu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235384",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes oshimai": {
+  "gbif": {
+   "key": 9674151,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes oshimai Light & Davis, 1929",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JW",
+   "status": "accepted",
+   "label": "Coptotermes oshimai Light & Davis, 1929",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235385",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes pamuae": {
+  "gbif": {
+   "key": 8800322,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes pamuae Snyder, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JY",
+   "status": "accepted",
+   "label": "Coptotermes pamuae Snyder, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235386",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes paradoxus": {
+  "gbif": {
+   "key": 9702279,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes paradoxus (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8JZ",
+   "status": "accepted",
+   "label": "Coptotermes paradoxus (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235387",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes peregrinator": {
+  "gbif": {
+   "key": 9756104,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes peregrinator Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8K2",
+   "status": "accepted",
+   "label": "Coptotermes peregrinator Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235388",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes premrasmii": {
+  "gbif": {
+   "key": 9806622,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes premrasmii Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8K3",
+   "status": "accepted",
+   "label": "Coptotermes premrasmii Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235389",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes remotus": {
+  "gbif": {
+   "key": 4802741,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 99,
+   "rank": "SPECIES",
+   "name": "Coptotermes remotus Hill, 1927",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8K5",
+   "status": "accepted",
+   "label": "Coptotermes remotus Hill, 1927",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235390",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes sepangensis": {
+  "gbif": {
+   "key": 9793004,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes sepangensis Krishna, 1956",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8K6",
+   "status": "accepted",
+   "label": "Coptotermes sepangensis Krishna, 1956",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235391",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes shanghaiensis": {
+  "gbif": {
+   "key": 9658187,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes shanghaiensis Xia & He, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8K7",
+   "status": "accepted",
+   "label": "Coptotermes shanghaiensis Xia & He, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235392",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes silvaticus": {
+  "gbif": {
+   "key": 9672492,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes silvaticus Harris, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8K8",
+   "status": "accepted",
+   "label": "Coptotermes silvaticus Harris, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235393",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes sinabangensis": {
+  "gbif": {
+   "key": 9748586,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes sinabangensis Oshima, 1923",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8K9",
+   "status": "accepted",
+   "label": "Coptotermes sinabangensis Oshima, 1923",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235394",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes sjostedti": {
+  "gbif": {
+   "key": 8769616,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes sjostedti Holmgren, 1911",
+   "accepted": null
+  },
+  "col": {
+   "id": "5ZY8M",
+   "status": "accepted",
+   "label": "Coptotermes sjostedti Holmgren, 1911",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q124986458",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes testaceus": {
+  "gbif": {
+   "key": 2007380,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes testaceus (Linnaeus, 1758)",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8KD",
+   "status": "accepted",
+   "label": "Coptotermes testaceus (Linnaeus, 1758)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q11842489",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes travians": {
+  "gbif": {
+   "key": 9693175,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes travians (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5ZXWL",
+   "status": "accepted",
+   "label": "Coptotermes travians (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235396",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes truncatus": {
+  "gbif": {
+   "key": 8889197,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes truncatus (Wasmann, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8KF",
+   "status": "accepted",
+   "label": "Coptotermes truncatus (Wasmann, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235397",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Coptotermes varicapitatus": {
+  "gbif": {
+   "key": 9741026,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coptotermes varicapitatus Tsai & Li, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "Y8KG",
+   "status": "accepted",
+   "label": "Coptotermes varicapitatus Tsai & Li, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235398",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

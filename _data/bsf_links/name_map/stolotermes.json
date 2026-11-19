@@ -1,0 +1,79 @@
+{
+ "Stolotermes africanus": {
+  "label": "Stolotermes africanus Emerson, 1942",
+  "match": "exact",
+  "notes": "",
+  "otu": 82539,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82539/overview",
+  "valid_label": null,
+  "valid_otu": 82539,
+  "verified": false
+ },
+ "Stolotermes australicus": {
+  "label": "Stolotermes australicus Mjöberg, 1920",
+  "match": "exact",
+  "notes": "",
+  "otu": 82541,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82541/overview",
+  "valid_label": null,
+  "valid_otu": 82541,
+  "verified": false
+ },
+ "Stolotermes brunneicornis": {
+  "label": "Stolotermes brunneicornis (Hagen, 1858)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82542,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82542/overview",
+  "valid_label": null,
+  "valid_otu": 82542,
+  "verified": false
+ },
+ "Stolotermes inopinus": {
+  "label": "Stolotermes inopinus Gay, 1969",
+  "match": "exact",
+  "notes": "",
+  "otu": 82543,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82543/overview",
+  "valid_label": null,
+  "valid_otu": 82543,
+  "verified": false
+ },
+ "Stolotermes queenslandicus": {
+  "label": "Stolotermes queenslandicus Mjöberg, 1920",
+  "match": "exact",
+  "notes": "",
+  "otu": 82545,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82545/overview",
+  "valid_label": null,
+  "valid_otu": 82545,
+  "verified": false
+ },
+ "Stolotermes ruficeps": {
+  "label": "Stolotermes ruficeps Brauer, 1865",
+  "match": "exact",
+  "notes": "",
+  "otu": 82546,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82546/overview",
+  "valid_label": null,
+  "valid_otu": 82546,
+  "verified": false
+ },
+ "Stolotermes victoriensis": {
+  "label": "Stolotermes victoriensis Hill, 1921",
+  "match": "exact",
+  "notes": "",
+  "otu": 82547,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82547/overview",
+  "valid_label": null,
+  "valid_otu": 82547,
+  "verified": false
+ }
+}

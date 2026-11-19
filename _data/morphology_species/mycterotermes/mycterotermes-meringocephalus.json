@@ -1,0 +1,21 @@
+{
+ "zh_name": "饼头鸟嘴白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "Sands 为西亚丁的 meringocephalus 单立此属，认为它接近 Trinervitermes 但更原始，甚至可能是后者的祖先，其鉴别特征与新热带区的 Diversitermes 有许多共同点。兵蚁二型：大型兵鼻短、柱形，头在触角后方极弱缢缩；小型兵鼻弱锥形、头缢缩更明显；触角大型兵可能 13 节、小型兵 12 节。有翅成虫未知。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "二型。大型兵：鼻短、柱形，退化上颚具小而明显的尖，显示缘齿与端齿的痕迹；头壳在触角后方极弱缢缩，头顶与鼻具短而明显的刚毛状毛。小型兵：除鼻为弱锥形、头壳在触角后方缢缩更明显外，与大型兵相同。触角大型兵可能 13 节、小型兵 12 节。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0047",
+   "citation": "Sands W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172. doi 10.5962/p.193228",
+   "locator": "p. 75（Mycterotermes gen. n.：Imago / Soldier；Remarks）"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+}

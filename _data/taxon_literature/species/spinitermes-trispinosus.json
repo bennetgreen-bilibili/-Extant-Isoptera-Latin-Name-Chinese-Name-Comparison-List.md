@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "巢址与孤雌生殖的证据",
+   "heading_en": "Nesting sites and evidence of parthenogenesis",
+   "heading_es": "Sitios de nidificación y pruebas de partenogénesis",
+   "paragraphs": [
+    {
+     "text": "根据 Hellemans 等（2019）研究，三针针刺白蚁（Spinitermes trispinosus）的巢多位于地下，常筑在塔拉夸新扭白蚁（Neocapritermes taracua）改造过的巢段内或 Astrocaryum 棕榈基部，分布较弥散；14 个巢中 5 个有原始生殖蚁、2 个只有 1 头若虫型新成蚁后、3 个有雌性候选者；4 个巢的 3 个微卫星位点显示单家族结构，8 头若虫系雌性中 4 头全纯合，其中 1 个巢的 1 头候选者缺父本等位基因，可确认孤雌生殖，另 1 个巢的原始蚁后亦为全纯合（有性来源概率 p = 0.008）；5 龄若虫见于 2016 年 6 月与 2017 年 4 月采集的巢，提示分飞发生在雨季末。",
+     "text_en": "According to Hellemans et al. (2019), the nests of <i>Spinitermes trispinosus</i> are mostly subterranean, often built inside nest sections reworked by <i>Neocapritermes taracua</i> or at the base of <i>Astrocaryum</i> palms, and are rather diffuse; of 14 nests, 5 contained primary reproductives, 2 contained a single neotenic queen and 3 contained female aspirants; three microsatellite loci in 4 nests revealed a single-family structure, 4 of 8 nymphal females were fully homozygous, and in one nest an aspirant lacked paternal alleles, confirming parthenogenesis, while the primary queen of another nest was also fully homozygous (probability of sexual origin <i>p</i> = 0.008); fifth-instar nymphs occurred in nests collected in June 2016 and April 2017, indicating that dispersal flights take place at the end of the wet season.",
+     "text_es": "Según Hellemans et al. (2019), los nidos de <i>Spinitermes trispinosus</i> son en su mayoría subterráneos, a menudo construidos dentro de secciones de nido remodeladas por <i>Neocapritermes taracua</i> o en la base de palmas de <i>Astrocaryum</i>, y son bastante difusos; de 14 nidos, 5 contenían reproductores primarios, 2 contenían una sola reina neoténica y 3 contenían aspirantes femeninas; tres loci microsatélite en 4 nidos revelaron una estructura de familia única, 4 de 8 hembras ninfales eran completamente homocigotas y en un nido una aspirante carecía de alelos paternos, lo que confirma la partenogénesis, mientras que la reina primaria de otro nido también era completamente homocigota (probabilidad de origen sexual <i>p</i> = 0,008); los ninfas de quinto estadio aparecieron en nidos recolectados en junio de 2016 y abril de 2017, lo que indica que los vuelos de dispersión tienen lugar al final de la estación húmeda.",
+     "src": [
+      "S0191"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0191",
+   "citation": "Hellemans, S.; Dolejšová, K.; Křivánek, J.; Fournier, D.; Hanus, R.; Roisin, Y. 2019. Widespread occurrence of asexual reproduction in higher termites of the Termes group (Termitidae: Termitinae). BMC Evolutionary Biology 19.",
+   "doi": "10.1186/s12862-019-1459-3"
+  }
+ ]
+}

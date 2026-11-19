@@ -1,0 +1,357 @@
+{
+ "Nitiditermes aemulus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Nitiditermes Emerson, 1960",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9R6Y",
+   "status": "accepted",
+   "label": "Nitiditermes aemulus (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Nitiditermes anatruncatus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Nitiditermes Emerson, 1960",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9TPZ",
+   "status": "accepted",
+   "label": "Nitiditermes anatruncatus (Fuller, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Nitiditermes berghei": {
+  "gbif": {
+   "key": 9729358,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nitiditermes berghei Emerson, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "47JGY",
+   "status": "accepted",
+   "label": "Nitiditermes berghei Emerson, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084772",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nitiditermes curtatus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Nitiditermes Emerson, 1960",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9VDJ",
+   "status": "accepted",
+   "label": "Nitiditermes curtatus (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Nitiditermes fulvus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Nitiditermes Emerson, 1960",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9TSK",
+   "status": "accepted",
+   "label": "Nitiditermes fulvus (Williams, 1966)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Nitiditermes niokoloensis": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Nitiditermes Emerson, 1960",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9SNG",
+   "status": "accepted",
+   "label": "Nitiditermes niokoloensis (Roy-Noël, 1969)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Nitiditermes oculatus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Nitiditermes Emerson, 1960",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9TFM",
+   "status": "accepted",
+   "label": "Nitiditermes oculatus (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Nitiditermes orthognathus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Nitiditermes Emerson, 1960",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9QLN",
+   "status": "accepted",
+   "label": "Nitiditermes orthognathus (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Nitiditermes proximatus": {
+  "gbif": {
+   "key": 11815444,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nitiditermes proximatus",
+   "accepted": null
+  },
+  "col": {
+   "id": "GG3Q9",
+   "status": "accepted",
+   "label": "Nitiditermes proximatus (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nitiditermes sankurensis": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Nitiditermes Emerson, 1960",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9RNG",
+   "status": "accepted",
+   "label": "Nitiditermes sankurensis (Wasmann, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Nitiditermes schereri": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Nitiditermes Emerson, 1960",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9TT6",
+   "status": "accepted",
+   "label": "Nitiditermes schereri (Rosen, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Nitiditermes sierraleonicus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Nitiditermes Emerson, 1960",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9XGB",
+   "status": "accepted",
+   "label": "Nitiditermes sierraleonicus (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Nitiditermes testaceus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Nitiditermes Emerson, 1960",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9SQK",
+   "status": "accepted",
+   "label": "Nitiditermes testaceus (Williams, 1966)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Nitiditermes truncatoides": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Nitiditermes Emerson, 1960",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9T35",
+   "status": "accepted",
+   "label": "Nitiditermes truncatoides (Fuller, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Nitiditermes truncatus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Nitiditermes Emerson, 1960",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9XB5",
+   "status": "accepted",
+   "label": "Nitiditermes truncatus (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

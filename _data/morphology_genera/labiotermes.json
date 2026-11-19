@@ -1,0 +1,29 @@
+{
+ "zh_name": "厚唇白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "Holmgren 1912 以新亚属名义在 Cornitermes 属下建立 Labiotermes。有翅成虫复眼大，单眼大而紧靠复眼，触角 17 节，上颚第 1 齿大于第 2 齿；兵蚁额管相对短，上唇长、端部透明且界限清晰，触角 13—15 节，左上颚中部至多 2 齿；工蚁触角 14—15（16）节，上颚第 1 齿长于第 2 齿。原文再分两群：一群兵蚁触角 15 节、左上颚有 2 枚中齿、右上颚基齿与中齿分离；另一群有翅成虫未知、兵蚁触角 13 节、左上颚无中齿、右上颚基齿与中齿融合。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "复眼大；单眼大，与复眼很靠近。触角 17 节。上颚第 1 齿大于第 2 齿。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "额管相对短。上唇长，具界限清晰的透明端部。上颚粗壮；左上颚中部至多 2 齿。触角 13—15 节。"
+  },
+  {
+   "label": "工蚁",
+   "text": "触角 14—15（16）节。上颚第 1 齿长于第 2 齿。原文对本亚属的工蚁只给出这两项鉴别特征，其余未另行描述（仍属 Cornitermes 属征范围）。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren, N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familien Mastotermitidae, Protermitidae und Mesotermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166, Taf. 1–4.",
+   "locator": "p. 50（archive.org 项 biostor-184513 页面图像）"
+  }
+ ],
+ "note": "描述据 Holmgren 1912 原文（archive.org 项 biostor-184513 的页面图像，p. 50）。原文以 Cornitermes 的亚属（Untergattung Labiotermes n. subg.）建立，属征即亚属特征，另按两群（Sektion 1/2）细分；文中未给独立属级鉴别，故「鉴别要点」段以亚属特征与两群差异为基础。"
+}

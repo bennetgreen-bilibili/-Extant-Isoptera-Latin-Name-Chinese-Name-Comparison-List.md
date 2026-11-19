@@ -1,0 +1,68 @@
+{
+ "Labritermes buttelreepeni": {
+  "gbif": {
+   "key": 9167606,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Labritermes buttelreepeni Holmgren, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "6NQ3J",
+   "status": "accepted",
+   "label": "Labritermes buttelreepeni Holmgren, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210723",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Labritermes emersoni": {
+  "gbif": {
+   "key": 9730050,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Labritermes emersoni Adams & Krishna, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "6NPRM",
+   "status": "accepted",
+   "label": "Labritermes emersoni Adams & Krishna, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210724",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Labritermes kistneri": {
+  "gbif": {
+   "key": 9649252,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Labritermes kistneri Adams & Krishna, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "6NQ3M",
+   "status": "accepted",
+   "label": "Labritermes kistneri Adams & Krishna, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210725",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

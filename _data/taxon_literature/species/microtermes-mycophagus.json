@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "氟虫腈饵剂防除",
+   "heading_en": "Control with fipronil baits",
+   "heading_es": "Control con cebos de fipronil",
+   "paragraphs": [
+    {
+     "text": "根据 Iqbal 等（2015）研究，在巴基斯坦以含 10 ppm 与 30 ppm 氟虫腈的卫生纸饵剂防治食菌小白蚁（<i>Microtermes mycophagus</i>），饵剂浓度由实验室拒避试验选定；4 个群体在投饵前 1 个月以尼罗蓝 A 标记与攻击性试验绘制觅食范围，投饵前每个饵站平均有 782–1938 头工蚁与兵蚁；投饵后各群体被消灭，饵站内不再有工蚁，而对照群体每个饵站平均仍有 1142 头工蚁；3 个可能被消灭的群体在 45–90 天内消耗约 47 毫克饵剂，其中有效成分 4.7 毫克。（据摘要）",
+     "src": [
+      "S0349"
+     ],
+     "text_en": "In the study by Iqbal et al. (2015), baits of toilet paper containing 10 ppm and 30 ppm fipronil were evaluated against <i>Microtermes mycophagus</i> in Pakistan, the concentrations having been selected from laboratory repellency tests; four colonies were monitored for one month before baiting, their foraging territories mapped with Nile Blue A marking and agonistic tests, and before baiting each bait station averaged 782-1938 workers and soldiers; after baiting the colonies were eliminated, with no workers left at the bait stations, whereas the control colony still averaged 1142 workers per station; the three colonies considered possibly eliminated consumed about 47 mg of formulation, equivalent to 4.7 mg of active ingredient, in 45-90 days. (According to the abstract.)",
+     "text_es": "En el estudio de Iqbal et al. (2015), se evaluaron cebos de papel higiénico con 10 ppm y 30 ppm de fipronil contra <i>Microtermes mycophagus</i> en Pakistán, concentraciones seleccionadas a partir de pruebas de repelencia en laboratorio; cuatro colonias se monitorearon durante un mes antes del cebado, con sus territorios de forrajeo cartografiados mediante marcaje con azul de Nilo A y pruebas agonísticas, y antes del cebado cada estación de cebo promediaba 782-1938 obreros y soldados; tras el cebado las colonias fueron eliminadas, sin obreros en las estaciones, mientras que la colonia testigo seguía promediando 1142 obreros por estación; las tres colonias consideradas posiblemente eliminadas consumieron unos 47 mg de formulación, equivalentes a 4.7 mg de ingrediente activo, en 45-90 días. (Según el resumen.)"
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0349",
+   "citation": "Iqbal, N.; Evans, T. A.; Saeed, S.; Khan, H. A. A. 2015. Evaluation of fipronil baits against Microtermes mycophagus (Blattodea: Termitidae). The Canadian Entomologist.",
+   "doi": "10.4039/tce.2015.56"
+  }
+ ]
+}

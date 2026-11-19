@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "模式种与旧组合",
+   "heading_en": "Type species and former combinations",
+   "heading_es": "Especie tipo y combinaciones anteriores",
+   "paragraphs": [
+    {
+     "src": [
+      "S0336"
+     ],
+     "text": "根据 Coaton（1962）研究，收缩富勒白蚁（<i>Fulleritermes contractus</i>）是富勒白蚁属（<i>Fulleritermes</i>）的模式种。该种 1913 年由 Sjöstedt 以当时比属刚果 Katanga 的 Welgelegen 标本描述为旧属 <i>Eutermes</i> 的 <i>Eutermes contractus</i>；1922 年 Fuller 把德兰士瓦 De Wildt 与 Warmbaths 的标本记为 <i>Coarctatotermes contractus</i>（原文标 sic），1926 年 Sjöstedt 与 1949 年 Snyder 则置于缩狭白蚁属（<i>Coarctotermes</i>）。Coaton 依据有翅成虫—工蚁左上颚的深裂把该种移入新属富勒白蚁属（<i>Fulleritermes</i>），并记录其分布于德兰士瓦北部与西部的灌丛，在奥兰治河以北的 Mafeking、Vryburg、Warrenton 渐止。",
+     "text_en": "According to Coaton (1962), <i>Fulleritermes contractus</i> is the type species of <i>Fulleritermes</i>. Sjöstedt described it in 1913 as <i>Eutermes contractus</i>, in the old genus <i>Eutermes</i>, from a specimen from Welgelegen in Katanga, then in the Belgian Congo; in 1922 Fuller recorded material from De Wildt and Warmbaths in the Transvaal as <i>Coarctatotermes contractus</i> (marked sic in the source), and in 1926 Sjöstedt and in 1949 Snyder placed it in <i>Coarctotermes</i>. On the strength of the deep cleft of the left mandible of the imago–worker caste Coaton transferred the species to the new genus <i>Fulleritermes</i> and recorded it from the Bushveld of the northern and western Transvaal, fading out north of the Orange River in the districts of Mafeking, Vryburg and Warrenton.",
+     "text_es": "Según Coaton (1962), <i>Fulleritermes contractus</i> es la especie tipo de <i>Fulleritermes</i>. Sjöstedt la describió en 1913 como <i>Eutermes contractus</i>, en el género antiguo <i>Eutermes</i>, a partir de un ejemplar de Welgelegen, en Katanga, entonces en el Congo Belga; en 1922 Fuller registró material de De Wildt y Warmbaths, en el Transvaal, como <i>Coarctatotermes contractus</i> (marcado sic en la fuente), y en 1926 Sjöstedt y en 1949 Snyder la situaron en <i>Coarctotermes</i>. A partir de la hendidura profunda de la mandíbula izquierda de la casta imago–obrera, Coaton transfirió la especie al nuevo género <i>Fulleritermes</i> y la registró en el Bushveld del norte y el oeste del Transvaal, desapareciendo al norte del río Orange en los distritos de Mafeking, Vryburg y Warrenton."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0336",
+   "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+   "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+  }
+ ]
+}

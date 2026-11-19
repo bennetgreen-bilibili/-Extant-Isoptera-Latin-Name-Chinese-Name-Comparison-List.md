@@ -1,0 +1,24 @@
+{
+ "Coendutermes tucum": {
+  "gbif": {
+   "key": 9166149,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Coendutermes tucum Fontes, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "WTYY",
+   "status": "accepted",
+   "label": "Coendutermes tucum Fontes, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225307",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

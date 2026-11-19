@@ -1,0 +1,25 @@
+{
+ "zh_name": "歧白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "最醒目的特征是兵蚁三型：大型兵的鼻狭细、鼻基凹陷弱；中型与小型兵的头壳多少呈哑铃状缢缩；触角 13 节；两个小型兵型的足相当长。同群中 Velocitermes 为二型（相当于本属的中、小型），Trinervitermes 二型或罕为三型但其上颚无尖部；定型的三种兵型仍是本属最醒目的标志。有翅成虫以眼中等大、上颚第一齿约与第二齿等长、唇基约与半宽等长，与 Rotunditermes（眼极大）区分。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "复眼中等大（原文的检索表把它与 Rotunditermes 的极大眼对置，该分支另记复眼向头侧上方隆起、前胸背板相对大）；上颚第一齿约与第二齿等长；唇基约与半宽等长，或略短而强烈隆起、横卵形、淡黄色，有时深色；触角节伸长程度一般。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "兵蚁三型。大型兵：鼻狭，鼻基凹陷弱。中型与小型兵：头壳或多或少明显呈哑铃状缢缩；触角 13 节。两个小型兵型的足相当长。"
+  }
+ ],
+ "note": "Holmgren 1912 建立，名录列为第 9 亚属，含 diversimilis Silvestri（巴拉圭、阿根廷、巴西、玻利维亚）与 castaniceps Holmgren（巴西）。原文只有检索表条目，未给三型兵蚁的测量数据，故上文只写型数与定性特征；原文亦无工蚁属征。",
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+   "locator": "p. 60（Imagines 检索表 bb/e/dd）；p. 61（Soldaten 检索表 aaa/b/e）；p. 64（亚属名录第 9 亚属）"
+  }
+ ]
+}

@@ -13,7 +13,7 @@
               └─ make_batches.py → _tmp/dz/batches/*.json   合并重复页，按 30 条分批
                   └─ （改写，见 SPEC.md）→ _tmp/dz/out/batch_*.json
                       └─ verify.py                  与原文比对，PASS 才收
-                          └─ build_data.py → _data/fauna_species.json
+                          └─ build_data.py → _data/fauna_species/
 ```
 
 属级：`extract_genera.py` → `make_genus_batches.py` → 改写（SPEC_GENUS.md）→ `build_genus_data.py` → `_data/fauna_genera.json`
@@ -101,10 +101,10 @@ PASS 需同时满足：与原文连续相同片段 < 30 字符、8-gram containm
 「最长公共子串 < 30、8-gram containment < 0.25」规则**不适用**。每张表各自标来源：数据里每个 key 带
 `src_short`（角标短名）与 `source`（完整出处），页面上 summary 行显示短名、页脚拼出完整署名。
 
-## 量度（`_data/fauna_measurements.json`）
+## 量度（`_data/fauna_measurements/`）
 
 - 数据来源：《中国动物志》等翅目卷里每条的「……量度 (mm)」表，从 `_unpublished/文库/中国动物志-昆虫纲-第十七卷-等翅目/*.txt`（10 个分卷）解析。docx 抽取链的表格行序已丢失，量度只认 txt 分卷。
-- `_tools/fauna/measure/extract.py` 生成两份数据：`_data/fauna_measurements.json`（每页 `{book_n, book_name, tables:[{caste, label_zh, label_en, label_es, unit, src_file, src_line, rows:[{key, value, mean?}]}]}`）与 `_data/fauna_measure_terms.json`（量度项的三语名称与量纲 `kind`：`mm` / `count`）。
+- `_tools/fauna/measure/extract.py` 生成两份数据：`_data/fauna_measurements/`（每页 `{book_n, book_name, tables:[{caste, label_zh, label_en, label_es, unit, src_file, src_line, rows:[{key, value, mean?}]}]}`）与 `_data/fauna_measure_terms.json`（量度项的三语名称与量纲 `kind`：`mm` / `count`）。
 - 条目对齐用 `book_n` + 中文正名 + 行内拉丁双名；行首编号会被图注（「1.头及前胸背板背面」）误命中，不能单靠编号。表格块止于下一条目行、下一条「量度」标题、`分布/寄主/生活习性` 行或空行。
 - QC 一律丢行/丢表、不猜数值，唯一修补是 OCR 掉小数点的毫米整数（`047 → 0.47`、`125 → 1.25`）：项目名须映射到术语表；值须为升序区间或整数；`mm` 限 0.02–40；`count` 项须为整数；半格（列数异常）、重复项目、反向区间、表头被当成标题的表全部丢弃；每表至少保留 3 行。
 - 覆盖：检出 518 张量度表，其中 305 张通过 QC，落在 255 个物种页、共 2504 行。未通过的集中在「地区 × 多列」表、值与平均带括号（原书用括号标注培养标本重测）以及 OCR 串列。
@@ -115,15 +115,15 @@ PASS 需同时满足：与原文连续相同片段 < 30 字符、8-gram containm
 
 - `_tools/fauna/morphology/extract_genus_sources.py` 从 `_unpublished/文库/treatise-on-the-isoptera/_full.txt`
   抽取 326 个属的原始描述出处、模式种，以及 Treatise 标注为含 characters / key / diagnosis 的参考文献，
-  写入 `_data/genus_sources.json`（键为 `/genus/<slug>/`）。
+  写入 `_data/genus_sources/`（键为 `/genus/<slug>/`）。
 - **Treatise 不是描述正文**：它只登记原始发表信息、模式种和文献线索。不要把它的文献注记改写成形态描述。
 - `_tools/fauna/morphology/descriptions/*.json` 是人工核对后写成的中文属级描述，按页面 URL 归档；
-  `build_krishna_descriptions.py` 合并为 `_data/morphology_genera.json`，每条含分品级正文与来源 id、locator。
+  `build_krishna_descriptions.py` 合并为 `_data/morphology_genera/`，每条含分品级正文与来源 id、locator。
   单条来源可写成 `source: {id, citation, locator}`，多条写成 `sources: [{...}]`；两种都受支持。
 - `_includes/genus-morphology.html` 的三层逻辑：`_data/fauna_genera.json` 已有《中国动物志》描述 → 不重复；
-  否则 `_data/morphology_genera.json` 有改写稿 → 渲染描述与来源；两者都没有 → 占位，显示原始描述出处与模式种。
+  否则 `_data/morphology_genera/` 有改写稿 → 渲染描述与来源；两者都没有 → 占位，显示原始描述出处与模式种。
 - 物种 / 亚种页由 `_layouts/species.html` 统一挂 `_includes/species-morphology.html`，数据在
-  `_data/morphology_species.json`（键为 `/species/<slug>/`）。已有《中国动物志》记载的 435 个种/亚种不重复；
+  `_data/morphology_species/`（键为 `/species/<slug>/`）。已有《中国动物志》记载的 435 个种/亚种不重复；
   其余先显示三语待补说明并链接属页。单型属可据属级描述生成种级条目，但须在 `note` 写明是属级描述。
 - `_tools/fauna/morphology/build_worklist.py` 生成 `_reports/genus-morphology-worklist.md` 与 `.csv`：
   截至 2026-11-07：326 属中 35 属已有《中国动物志》描述、218 属已补文献描述、73 属待补，其中 8 属在 Treatise 中没有独立条目；

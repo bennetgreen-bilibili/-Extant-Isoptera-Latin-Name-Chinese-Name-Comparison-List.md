@@ -1,0 +1,13 @@
+{
+ "Emersonitermes thekadensis": {
+  "label": "Emersonitermes thekadensis Mathur & Sen-Sarma, 1959",
+  "match": "exact",
+  "notes": "",
+  "otu": 84432,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84432/overview",
+  "valid_label": null,
+  "valid_otu": 84432,
+  "verified": false
+ }
+}

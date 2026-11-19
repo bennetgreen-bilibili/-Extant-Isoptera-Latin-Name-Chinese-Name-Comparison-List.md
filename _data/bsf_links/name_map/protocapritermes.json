@@ -1,0 +1,24 @@
+{
+ "Protocapritermes krisiformis": {
+  "label": "Protocapritermes krisiformis (Froggatt, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85775,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85775/overview",
+  "valid_label": null,
+  "valid_otu": 85775,
+  "verified": false
+ },
+ "Protocapritermes odontomachus": {
+  "label": "Protocapritermes odontomachus (Desneux, 1905)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85776,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85776/overview",
+  "valid_label": null,
+  "valid_otu": 85776,
+  "verified": false
+ }
+}

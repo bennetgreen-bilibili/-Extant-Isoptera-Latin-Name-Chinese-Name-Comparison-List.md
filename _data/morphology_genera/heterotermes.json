@@ -1,0 +1,25 @@
+{
+ "zh_name": "异白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "本属以如下组合与其他鼻白蚁亚科成员相区别：兵蚁头长而窄、呈矩形，上颚剑形、端部微弯，左上颚基部具一齿及若干锯齿，右上颚基部无齿也无锯齿；有翅成虫头近卵形、前部窄于后部，单眼位于头前方、复眼之前，触角一般 15–19 节，前胸背板伸长而窄于头。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头近卵形，前部窄于后部；fontanelle 小，位于头中部；复眼小而平；单眼位于头前方、眼前；触角一般 15–19 节；前胸背板伸长、窄于头。种级（H. paradoxus）：头略伸长、具数百根毛；前胸背板伸长、中等宽；触角一般 18 节（偶 17）；复眼平，眼前方有小单眼。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头长而窄、呈矩形；fontanelle 小、圆形、位于前方；上唇短至中等，约为上颚长的一半；上颚剑形，端部微弯；左上颚基部具一齿及若干锯齿；右上颚基部无齿与锯齿；触角 13–18 节。种级（H. vagus）：兵蚁体型小，头伸长、前部有明显隆起、密被短毛；上唇伸长、端部尖锐；触角一般 13 节；前胸背板短而窄，约具 50 根毛；后颏略窄、无毛；上颚端部微弯。"
+  }
+ ],
+ "note": "本机只有该文的出版社 JATS 全文 XML（Europe PMC PMC3264403），无印刷版 PDF，故 locator 用章节名而非页码；jsonl 中作者顺序作 Roisin & Bourguignon，与 XML contrib 顺序（Bourguignon 在前）不同，此处以 XML 为准。工蚁品级原文未描述，故不设工蚁节。",
+ "sources": [
+  {
+   "id": "S0038",
+   "citation": "Roisin, Y.; Bourguignon, T. 2011. Revision of the termite family Rhinotermitidae (Isoptera) in New Guinea. ZooKeys 148: 55–103. https://doi.org/10.3897/zookeys.148.1826",
+   "locator": "Genus Heterotermes: Diagnosis; species accounts of H. vagus and H. paradoxus"
+  }
+ ]
+}

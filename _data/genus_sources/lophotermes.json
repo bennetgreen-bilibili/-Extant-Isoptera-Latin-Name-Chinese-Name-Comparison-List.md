@@ -1,0 +1,19 @@
+{
+ "latin": "Lophotermes",
+ "zh": "小脊突白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Lophotermes Miller, 1991: 1212.",
+ "type_species": "Lophotermes pectinatus Miller, 1991 by original designation.",
+ "references": [
+  {
+   "ref": "Hill, 1942: 14, 377–379",
+   "note": "Mirotermes [part]; as genus and subgenus; key; synonymy; imago, soldier, worker diagnosed."
+  },
+  {
+   "ref": "Bourguignon et al., 2008: 11, 26",
+   "note": "Lophotermes; characters; key."
+  }
+ ],
+ "nrefs": 4
+}

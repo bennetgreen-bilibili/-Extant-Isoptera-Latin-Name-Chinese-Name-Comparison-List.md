@@ -1,0 +1,43 @@
+{
+ "latin": "Foraminitermes",
+ "zh": "孔白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Foraminitermes Holmgren, 1912a: 125.",
+ "type_species": "Foraminitermes tubifrons Holmgren, 1912 by monotypy.",
+ "references": [
+  {
+   "ref": "Holmgren, 1912a: 50",
+   "note": "Cornitermes (Labiotermes) [part]; characters; species included."
+  },
+  {
+   "ref": "Webb, 1961: 15",
+   "note": "Labiotermes [part]; key."
+  },
+  {
+   "ref": "Krishna, 1963b: 2–5",
+   "note": "Foraminitermes; synonymy; generic characters; imago, soldier described; key to species; relationships."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 25, 92, 93, pl. 14: fig. 40c",
+   "note": "Foraminitermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Harris, 1968c: 6",
+   "note": "Foraminitermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 34",
+   "note": "Foraminitermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 32, 190–192, figs. 682–702",
+   "note": "Foraminitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  },
+  {
+   "ref": "Emerson, 1928b: 408, 420, 502",
+   "note": "Mirotermes (Ceratotermes); key; discussion; distribution."
+  }
+ ],
+ "nrefs": 26
+}

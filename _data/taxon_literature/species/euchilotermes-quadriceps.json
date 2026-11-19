@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "分布",
+   "heading_en": "Distribution",
+   "heading_es": "Distribución",
+   "paragraphs": [
+    {
+     "text": "根据 Ndiaye、Njie 与 Correa（2019）研究，方头真唇白蚁（<i>Euchilotermes quadriceps</i>）由 Emerson 描述，分布于刚果-扎伊尔（今刚果民主共和国）与马拉维；该研究在综述真唇白蚁属（<i>Euchilotermes</i>）时，将其列为该属 4 个已知种之一。",
+     "src": [
+      "S0346"
+     ],
+     "text_en": "In the study by Ndiaye, Njie and Correa (2019), <i>Euchilotermes quadriceps</i>, described by Emerson, is distributed in Congo-Zaire (now the Democratic Republic of the Congo) and Malawi; in their review of <i>Euchilotermes</i> the authors list it as one of the four known species of the genus.",
+     "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), <i>Euchilotermes quadriceps</i>, descrita por Emerson, se distribuye en Congo-Zaire (hoy República Democrática del Congo) y Malawi; en su revisión de <i>Euchilotermes</i> los autores la incluyen entre las cuatro especies conocidas del género."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0346",
+   "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+   "doi": "10.3390/insects10050122"
+  }
+ ]
+}

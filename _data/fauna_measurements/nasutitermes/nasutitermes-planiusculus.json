@@ -1,0 +1,48 @@
+{
+ "book_n": "430",
+ "book_name": "平圆象白蚁 Nasutitermes planiusculus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "平圆象白蚁兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_nasus",
+     "mean": "1.71",
+     "value": "1.61–1.81"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.06",
+     "value": "0.97–1.12"
+    },
+    {
+     "key": "nasus_length",
+     "mean": "0.66",
+     "value": "0.63–0.76"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.21",
+     "value": "0.18–0.25"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.50",
+     "value": "0.43–0.56"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.99",
+     "value": "0.96–1.21"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 753,
+   "unit": "mm"
+  }
+ ]
+}

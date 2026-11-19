@@ -1,0 +1,24 @@
+{
+ "Fastigitermes jucundus": {
+  "gbif": {
+   "key": 9817189,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Fastigitermes jucundus (Sjöstedt, 1907)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3DVW3",
+   "status": "accepted",
+   "label": "Fastigitermes jucundus (Sjöstedt, 1907)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225325",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

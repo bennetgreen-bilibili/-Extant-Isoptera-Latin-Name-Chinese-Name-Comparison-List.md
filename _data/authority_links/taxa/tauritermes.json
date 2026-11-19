@@ -1,0 +1,93 @@
+{
+ "Tauritermes bandeirai": {
+  "gbif": {
+   "key": 10801563,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tauritermes bandeirai Scheffrahn & Vasconcellos, 2020",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Tauritermes Krishna, 1961",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q110594398",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Tauritermes taurocephalus": {
+  "gbif": {
+   "key": 9655463,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tauritermes taurocephalus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "54Z9M",
+   "status": "accepted",
+   "label": "Tauritermes taurocephalus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254589",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tauritermes triceromegas": {
+  "gbif": {
+   "key": 9715224,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tauritermes triceromegas (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "54Z9N",
+   "status": "accepted",
+   "label": "Tauritermes triceromegas (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254590",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Tauritermes vitulus": {
+  "gbif": {
+   "key": 9736455,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tauritermes vitulus Araujo & Fontes, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "54Z9P",
+   "status": "accepted",
+   "label": "Tauritermes vitulus Araujo & Fontes, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140254592",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

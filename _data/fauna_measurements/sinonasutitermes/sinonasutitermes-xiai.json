@@ -1,0 +1,48 @@
+{
+ "book_n": "449",
+ "book_name": "夏氏华象白蚁 Sinonasutitermesxiai",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "夏氏华象白蚁有翅成虫量度 ( mm)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "head_width",
+     "mean": "1.41",
+     "value": "1.36–1.46"
+    },
+    {
+     "key": "eye_long_diameter",
+     "mean": "0.64",
+     "value": "0.62–0.66"
+    },
+    {
+     "key": "eye_short_diameter",
+     "mean": "0.54",
+     "value": "0.53–0.55"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "mean": "0.04",
+     "value": "0.04–0.05"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.86",
+     "value": "0.83–0.90"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.50",
+     "value": "1.45–1.60"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 1165,
+   "unit": "mm"
+  }
+ ]
+}

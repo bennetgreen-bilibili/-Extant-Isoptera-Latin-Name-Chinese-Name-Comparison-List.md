@@ -1,0 +1,32 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "中国记录的来源",
+   "paragraphs": [
+    {
+     "text": "根据何银竹等（2009）研究，云南绿春黄连山和沧源勐角翁丁的标本被首次报道为中国新记录，当时鉴定为罗夫顿古白蚁（Archotermopsis wroughtoni）；本站据 GBIF 记录与后续考订，将这批标本归入库兹涅佐夫古白蚁（Archotermopsis kuznetsovi）。因此本页的中国记录来自这批云南标本，而不是克什米尔产的罗夫顿古白蚁（Archotermopsis wroughtoni）。",
+     "src": [
+      "S0110",
+      "S0112"
+     ],
+     "text_en": "According to He Yinzhu et al.'s (2009) study, specimens from Huanglianshan in Lüchun and Wengding in Mengjiao of Cangyuan, Yunnan, were first reported as a new record for China, identified at the time as Archotermopsis wroughtoni; on the basis of GBIF records and subsequent revisionary work, this checklist assigns these specimens to Archotermopsis kuznetsovi. The Chinese record on this page therefore comes from these Yunnan specimens and not from the Kashmir species Archotermopsis wroughtoni.",
+     "text_es": "Según el estudio de He Yinzhu et al. (2009), los ejemplares de Huanglianshan (Lüchun, Yunnan) y de Wengding (Mengjiao, Cangyuan) se citaron por primera vez como novedad para China, identificados entonces como Archotermopsis wroughtoni; esta lista, basándose en registros de GBIF y en revisiones posteriores, asigna esos ejemplares a Archotermopsis kuznetsovi. Por lo tanto, el registro chino de esta página procede de esos ejemplares de Yunnan y no de Archotermopsis wroughtoni de Cachemira."
+    }
+   ],
+   "heading_en": "Source of the Chinese record",
+   "heading_es": "Origen del registro chino"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0110",
+   "citation": "何银竹, 候清柏, 梁醒财. 2009. 中国原白蚁科一新记录属一新记录种. 昆虫分类学报."
+  },
+  {
+   "id": "S0112",
+   "citation": "GBIF occurrence search: Archotermopsis kuznetsovi and Archotermopsis wroughtoni (country facet), accessed 2026-11-07. https://api.gbif.org/v1/occurrence/search?taxonKey=9660505&facet=country&facetLimit=30&limit=0",
+   "url": "https://api.gbif.org/v1/occurrence/search?taxonKey=9660505&facet=country&facetLimit=30&limit=0"
+  }
+ ]
+}

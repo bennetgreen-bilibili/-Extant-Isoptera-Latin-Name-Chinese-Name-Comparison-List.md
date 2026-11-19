@@ -1,0 +1,90 @@
+{
+ "Leucopitermes leucopiformis": {
+  "gbif": {
+   "key": 9699835,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Leucopitermes leucopiformis Akhtar & Pervez, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "726B5",
+   "status": "accepted",
+   "label": "Leucopitermes leucopiformis Akhtar & Pervez, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210764",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Leucopitermes leucops": {
+  "gbif": {
+   "key": 9782800,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Leucopitermes leucops (Holmgren, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6Q6B6",
+   "status": "accepted",
+   "label": "Leucopitermes leucops (Holmgren, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210765",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Leucopitermes paraleucops": {
+  "gbif": {
+   "key": 9804419,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Leucopitermes paraleucops Morimoto, 1976",
+   "accepted": null
+  },
+  "col": {
+   "id": "726B6",
+   "status": "accepted",
+   "label": "Leucopitermes paraleucops Morimoto, 1976",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210767",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Leucopitermes thoi": {
+  "gbif": {
+   "key": 9720481,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Leucopitermes thoi Gathorne-Hardy, 2004",
+   "accepted": null
+  },
+  "col": {
+   "id": "6Q6B3",
+   "status": "accepted",
+   "label": "Leucopitermes thoi Gathorne-Hardy, 2004",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210768",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

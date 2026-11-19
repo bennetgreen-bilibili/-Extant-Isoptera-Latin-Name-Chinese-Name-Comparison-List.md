@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "爪哇的土地利用记录",
+   "heading_en": "Land-use records from Java",
+   "heading_es": "Registros de uso del suelo en Java",
+   "paragraphs": [
+    {
+     "src": [
+      "S0225"
+     ],
+     "text": "根据 Pribadi 等（2011）在中爪哇 Mount Slamet 东坡 5 类土地利用中的调查，暗黄大白蚁（<i>Macrotermes gilvus</i>）仅见于居民点（海拔约 1001 m），共记录 5 头，是该调查所记 7 种白蚁之一；培菌白蚁在其他 4 类生境中未见记录。",
+     "text_en": "According to the survey by Pribadi et al. (2011) across five land-use types on the eastern slopes of Mount Slamet, Central Java, <i>Macrotermes gilvus</i> was recorded only in settlements (about 1001 m a.s.l.), with 5 individuals, and was one of the seven termite species found in the study; fungus-growing termites were not recorded in the other four land-use types.",
+     "text_es": "Según el muestreo de Pribadi et al. (2011) en cinco tipos de uso del suelo en la ladera oriental del monte Slamet, Java Central, <i>Macrotermes gilvus</i> se registró únicamente en asentamientos (unos 1001 m s.n.m.), con 5 individuos, y fue una de las siete especies de termitas halladas en el estudio; las termitas cultivadoras de hongos no se registraron en los otros cuatro tipos de uso del suelo."
+    }
+   ]
+  },
+  {
+   "heading": "作为拒避与致死试验的受试种",
+   "heading_en": "As the test species in repellency and toxicity assays",
+   "heading_es": "Como especie de ensayo en pruebas de repelencia y toxicidad",
+   "paragraphs": [
+    {
+     "text": "根据 Appalasamy 等（2021）研究，暗黄大白蚁（<i>Macrotermes gilvus</i>）工蚁被用作拒避与致死试验的受试对象，黄球白蚁（<i>Globitermes sulphureus</i>）与炭色大白蚁（<i>Macrotermes carbonarius</i>）两种白蚁的防御液提取物对其拒避等级均达 IV–V 级，20 mg/ml 时拒避率分别为 97.62% 与 98.00%；黄球白蚁（<i>Globitermes sulphureus</i>）提取物对暗黄大白蚁（<i>Macrotermes gilvus</i>）的 LC50 为 16.917 mg/ml，低于炭色大白蚁（<i>Macrotermes carbonarius</i>）提取物的对应值。",
+     "src": [
+      "S0344"
+     ],
+     "text_en": "In the study by Appalasamy et al. (2021), workers of <i>Macrotermes gilvus</i> served as the test insects for the repellency and toxicity assays: extracts of both <i>Globitermes sulphureus</i> and <i>Macrotermes carbonarius</i> were class IV-V repellent to them, with 97.62% and 98.00% repellency at 20 mg/ml; the LC50 of the <i>Globitermes sulphureus</i> extract against <i>Macrotermes gilvus</i> was 16.917 mg/ml, lower than the corresponding value for the <i>Macrotermes carbonarius</i> extract.",
+     "text_es": "En el estudio de Appalasamy et al. (2021), obreros de <i>Macrotermes gilvus</i> sirvieron como insectos de ensayo en las pruebas de repelencia y toxicidad: los extractos de <i>Globitermes sulphureus</i> y de <i>Macrotermes carbonarius</i> resultaron repelentes de clase IV-V para ellos, con 97.62% y 98.00% de repelencia a 20 mg/ml; la CL50 del extracto de <i>Globitermes sulphureus</i> frente a <i>Macrotermes gilvus</i> fue de 16.917 mg/ml, inferior al valor correspondiente del extracto de <i>Macrotermes carbonarius</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0225",
+   "citation": "Pribadi, T. I.; Raffiudin, R.; Harahap, I. S. 2011. Termites community as environmental bioindicators in highlands: a case study in eastern slopes of Mount Slamet, Central Java. Biodiversitas 12(3): 235–240.",
+   "doi": "10.13057/biodiv/d120409"
+  },
+  {
+   "id": "S0344",
+   "citation": "Appalasamy, S.; Alia Diyana, M. H.; Arumugam, N.; Boon, J. G. 2021. Evaluation of the chemical defense fluids of Macrotermes carbonarius and Globitermes sulphureus as possible household repellents and insecticides. Scientific Reports 11.",
+   "doi": "10.1038/s41598-020-80018-5"
+  }
+ ]
+}

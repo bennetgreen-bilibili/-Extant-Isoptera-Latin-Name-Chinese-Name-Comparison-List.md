@@ -1,0 +1,17 @@
+{
+ "note": "En este equipo solo se dispone del XML JATS de texto completo del editor (Europe PMC PMC3264403) y no del PDF impreso, por lo que el locator emplea nombres de sección en lugar de números de página; en el jsonl el orden de autores figura como Roisin & Bourguignon, distinto del orden de los contrib del XML (Bourguignon en primer lugar), y aquí se sigue el XML. El original no describe la casta de obrero, por lo que no se incluye una sección de obrero.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Este género se distingue de los demás miembros de Rhinotermitinae por la siguiente combinación: en el soldado la cabeza es larga y estrecha, rectangular, las mandíbulas son ensiformes con el extremo ligeramente curvado, la mandíbula izquierda lleva un diente y varias denticulaciones en la base y la derecha carece de dientes y de denticulaciones en la base; en el alado la cabeza es casi oval, más estrecha en la parte anterior que en la posterior, los ocelos se sitúan en la parte anterior de la cabeza, por delante de los ojos compuestos, las antenas suelen tener 15–19 artejos y el pronoto es alargado y más estrecho que la cabeza."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza casi oval, más estrecha en la parte anterior que en la posterior; fontanelle pequeño, situado en la parte media de la cabeza; ojos compuestos pequeños y planos; ocelos situados en la parte anterior de la cabeza, por delante de los ojos; antenas generalmente de 15–19 artejos; pronoto alargado y más estrecho que la cabeza. Nivel específico (H. paradoxus): cabeza algo alargada, con varios cientos de pelos; pronoto alargado, de anchura media; antenas generalmente de 18 artejos (a veces 17); ojos compuestos planos, con un ocelo pequeño por delante."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza larga y estrecha, rectangular; fontanelle pequeño, circular y situado en la parte anterior; labro corto a mediano, aproximadamente la mitad de la longitud de las mandíbulas; mandíbulas ensiformes, con el extremo ligeramente curvado; mandíbula izquierda con un diente y varias denticulaciones en la base; mandíbula derecha sin dientes ni denticulaciones en la base; antenas de 13–18 artejos. Nivel específico (H. vagus): soldado de talla pequeña, cabeza alargada con una prominencia manifiesta en la parte anterior, densamente cubierta de pelos cortos; labro alargado, de extremo agudo; antenas generalmente de 13 artejos; pronoto corto y estrecho, con unos 50 pelos; postmentón algo estrecho y sin pelos; extremo de las mandíbulas ligeramente curvado."
+  }
+ ]
+}

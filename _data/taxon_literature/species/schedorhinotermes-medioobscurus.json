@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-14",
+ "sections": [
+  {
+   "heading": "只侵染枯木与伐桩",
+   "heading_en": "Infesting only dead wood and stumps",
+   "heading_es": "Infesta solo madera muerta y tocones",
+   "paragraphs": [
+    {
+     "src": [
+      "S0237"
+     ],
+     "text": "根据 Jasmi 与 Ahmad（2011）研究，中暗长鼻白蚁（<i>Schedorhinotermes medioobscurus</i>）在槟城 Teluk Bahang 森林公园的南洋杉（<i>Araucaria cunninghamii</i>）人工林中主要侵染枯死木与伐桩：13 株被该种侵染的树木中，枯树 4 株、伐桩 8 株、衰退树 1 株，没有健康树被侵染；作者认为该种可能不侵染活树，这与油棕园中该属只侵染枯死植株及植物残体的观察一致。",
+     "text_en": "According to Jasmi and Ahmad (2011), in the <i>Araucaria cunninghamii</i> plantation of Teluk Bahang Forest Park, Penang, <i>Schedorhinotermes medioobscurus</i> mainly infests dead wood and stumps: of the 13 trees infested by this species, 4 were dead trees, 8 were stumps and 1 was declining, with no healthy tree attacked; the authors suggest that the species may not attack living trees, consistent with observations in oil palm plantations where the genus infests only dead palms and plant debris.",
+     "text_es": "Según Jasmi y Ahmad (2011), en la plantación de <i>Araucaria cunninghamii</i> del parque forestal de Teluk Bahang, Penang, <i>Schedorhinotermes medioobscurus</i> infesta sobre todo madera muerta y tocones: de los 13 árboles infestados por esta especie, 4 eran árboles muertos, 8 tocones y 1 estaba en declive, sin que se atacara ningún árbol sano; los autores sugieren que la especie quizá no ataca árboles vivos, en consonancia con lo observado en plantaciones de palma aceitera, donde el género infesta solo palmas muertas y restos vegetales."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0237",
+   "citation": "Jasmi, A. H.; Ahmad, A. H. 2011. Termite Incidence on an Araucaria Plantation Forest in Teluk Bahang, Penang. Insects 2(4).",
+   "doi": "10.3390/insects2040469"
+  }
+ ]
+}

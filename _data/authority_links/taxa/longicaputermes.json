@@ -1,0 +1,28 @@
+{
+ "Longicaputermes sinaicus": {
+  "gbif": {
+   "key": null,
+   "status": "DOUBTFUL",
+   "match": "HIGHERRANK",
+   "confidence": 94,
+   "rank": "GENUS",
+   "name": "Longicaputermes Ghesini, Marini & Simon, 2014",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": null,
+   "label": null,
+   "type": "none",
+   "rank": null,
+   "accepted": null
+  },
+  "wd": "Q17282649",
+  "flags": [
+   "gbif_higherrank",
+   "col_missing"
+  ],
+  "_d": "2026-10-28"
+ }
+}

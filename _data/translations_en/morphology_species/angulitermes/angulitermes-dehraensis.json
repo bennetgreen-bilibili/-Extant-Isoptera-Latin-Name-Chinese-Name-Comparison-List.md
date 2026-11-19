@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the species description in Chhotani (1997), originally in English; all three castes are based on syntypes, and the original states that the specimens are paler than in Gardner's original description; one measurement of alate postclypeus length is lost to OCR damage, so only its width is recorded; synonymy lists, literature citations, figure numbers and distribution records are omitted.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head capsule straw yellow, antennae pale brown, legs and body straw yellow, mandibles reddish brown. Head sparsely pilose, body densely pilose; setae more numerous on the frontal projection, long and curved. Body length 3.9–4.6 mm. Head capsule subrectangular, lateral margins nearly straight and slightly concave at midlength, widest anteriorly (head length including mandibles 2.54–2.75 mm, length to mandible base 1.12–1.40 mm, maximum width 0.89–1.06 mm); frontal projection broad, with a median notch on the anterior margin (frontal projection length 0.10–0.13 mm), extending beyond the mandible base. Antennae 14-segmented, segments appearing slender and elongate; segment 3 longer than segment 2, segment 4 shortest. Anterior margin of labrum deeply concave (length 0.33 mm, width 0.30 mm). Mandibles slender and rod-like, longer than head (length 1.34–1.45 mm, left mandible length/head length 1.16–1.25). Postmentum rod-like (length 0.43–0.45 mm, maximum width 0.30 mm, waist width 0.25 mm). Pronotum strongly saddle-shaped (length 0.23 mm, width 0.50 mm), anterior margin weakly concave."
+  },
+  {
+   "label": "Worker",
+   "text": "Head straw yellow, antennae, legs and body nearly white. Head and body rather densely pilose. Body length about 4.5 mm. Head capsule subcircular (length to apex of labrum 1.0–1.08 mm, length to mandible base 0.65–0.73 mm, maximum width 0.83 mm). Fontanelle plate translucent white, circular. Antennae 14-segmented; segment 3 slightly smaller than segment 2, segment 4 shortest. Postclypeus strongly inflated (length 0.25 mm, width 0.45 mm). Pronotum strongly saddle-shaped (length 0.20 mm, width 0.45–0.50 mm), anterior margin not concave."
+  },
+  {
+   "label": "Alate",
+   "text": "Head capsule brown, postclypeus yellowish brown, antennae pale yellowish brown and paler than postclypeus; pronotum and abdominal tergites slightly paler than head, abdominal sternites paler than tergites; wings brown, transparent. Head and body densely covered with short fine setae mixed with several long setae; wing margins pilose, membrane sparsely pilose. Body length with wings 10.0–12.3 mm, without wings 5.5–6.20 mm. Head capsule subcircular, width including eyes greater than length to mandible base (length to apex of labrum 1.05–1.13 mm, length to mandible base 0.75 mm, maximum width including eyes 0.80–0.93 mm). Fontanelle plate long, linear, slit-like; vertex slightly concave around the fontanelle. Antennae 15-segmented, segment 3 shortest or about as long as segment 4. Postclypeus inflated, anterior margin straight, length slightly less than half its width (width 0.43–0.45 mm). Compound eyes subcircular (maximum diameter 0.20 mm, minimum diameter 0.18 mm); ocelli oval (long diameter 0.08–0.12 mm, short diameter 0.05–0.08 mm), separated from compound eye by about the short diameter or slightly more. Pronotum semicircular (length 0.48–0.52 mm, width 0.70–0.80 mm). Fore wing length 9.5–9.8 mm, hind wing length 8.8–9.00 mm."
+  }
+ ]
+}

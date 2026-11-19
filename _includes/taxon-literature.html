@@ -1,8 +1,10 @@
 {%- comment -%}
-  研究记述（人工整理，按页面 URL 取 _data/taxon_literature.json）。
+  研究记述（人工整理，按「阶元 + id」取 _data/taxon_literature/<rank>/<id>.json）。
 
-  数据形状：
-  "/genus/foo/": {
+  数据分片：_data/taxon_literature/<rank>/<id>.json，值是条目本身，不收外层 URL 键；
+  rank 取页面 URL 的第二段（family / subfamily / genus / species），id 取第三段。
+  每条的形状：
+  {
     "updated": "2026-11-12",
     "sections": [
       {"heading": "分类与分布", "heading_en": "Classification and distribution", "heading_es": "Clasificación y distribución",
@@ -15,8 +17,8 @@
   _tools/sources.py check 校验。参考文献只列本页实际用到的来源。
 
   三语分页之后（2026-11）：本 include 只输出当前页面语言那一份，不再有页内切换按钮
-  （切换改由站点语言切换器负责）；数据键仍是**不带语言前缀**的 URL（/family/x/），
-  所以本 include 自己调一次 _includes/lang-path.html 取出无前缀的 path_no_lang 当数据键
+  （切换改由站点语言切换器负责）；页面 URL 仍**不带语言前缀**（/family/x/），
+  所以本 include 自己调一次 _includes/lang-path.html 取出无前缀的 path_no_lang 再分段当键
   （不能指望 default.html 那一次赋值：它晚于本 include 的调用，外文页会因此取不到数据）。
   外文页缺 text_en / text_es 的段落整段省略，
   回退中文的只是极少数兜底，不允许再出现。
@@ -24,8 +26,10 @@
 {%- comment -%} 本 include 在 species.html 与分类页正文里被调用，那时 default.html 的 path_no_lang 还没赋值；
      lang-path.html 自足，中英西三套页面都能取到同一个数据键。 {%- endcomment -%}
 {%- include lang-path.html -%}
-{%- assign lit_key = path_no_lang -%}
-{%- assign lit = site.data.taxon_literature[lit_key] -%}
+{%- assign lit_parts = path_no_lang | split: '/' -%}
+{%- assign lit_rank = lit_parts[1] -%}
+{%- assign lit_id = lit_parts[2] -%}
+{%- assign lit = site.data.taxon_literature[lit_rank][lit_id] -%}
 {%- assign LL = page.lang | default: 'zh-CN' -%}
 {%- if lit -%}
 <section class="taxon-section taxon-literature" lang="{{ LL }}">

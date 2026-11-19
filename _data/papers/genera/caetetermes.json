@@ -1,0 +1,57 @@
+{
+ "fetched_at": "2026-10-30T15:49:51Z",
+ "latin": "Caetetermes",
+ "papers": [
+  {
+   "abstract": "Caetetermes fontesi sp. nov. is described from soldiers, workers, and winged imagos collected in French Guiana. Soldiers of C. fontesi are distinguished from Caetetermes taquarussu Fontes 1981, until now a monotypic genus, by their larger size, deeper coloration, and shorter and thicker nasus. The imago of C. fontesi is larger and the enteric valve of the dimorphic C. fontesi workers have larger cushions with more and longer spines than C. taquarussu. Worker dimorphism for Neotropical nasutitermitinae is discussed.",
+   "abstract_chars": 520,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Rudolf H. Scheffrahn"
+   ],
+   "cited_by": 0,
+   "date": "2022-12-13",
+   "doi": "10.11646/zootaxa.5219.6.6",
+   "doi_url": "https://doi.org/10.11646/zootaxa.5219.6.6",
+   "id": "https://openalex.org/W4311272065",
+   "issue": "6",
+   "language": "en",
+   "oa_url": "https://www.mapress.com/zt/article/download/zootaxa.5219.6.6/49504",
+   "openalex_url": "https://openalex.org/W4311272065",
+   "pages": "593-600",
+   "title": "Caetetermes fontesi, a new nasutiform termite (Isoptera: Termitidae: Nasutitermitinae) from French Guiana",
+   "type": "article",
+   "venue": "Zootaxa",
+   "volume": "5219",
+   "year": 2022
+  },
+  {
+   "abstract": "Caetetermes Fontes, 1981 is a monotypic South American genus of Nasutitermitinae. Its single species, Caetetermes taquarussu Fontes, 1981, was described based on morphological characters from soldiers and workers collected at three localities in the tropical rainforest of northeastern Ecuador. Several samples of C. taquarussu represented also by the imago caste were examined at the Museu de Zoologia da Universidade de São Paulo, São Paulo, Brazil (MZUSP) and the National Museum of Natural History, Washington D.C., USA (USNM). Herein, we describe the imago caste of Caetetermes for the first time, with notes on soldier and worker caste and new distributional records for the species.",
+   "abstract_chars": 689,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Carolina Cuezzo",
+    "Tiago F. Carrijo",
+    "Eliana M. Cancello"
+   ],
+   "cited_by": 1,
+   "date": "2015-02-11",
+   "doi": "10.11646/zootaxa.3918.2.10",
+   "doi_url": "https://doi.org/10.11646/zootaxa.3918.2.10",
+   "id": "https://openalex.org/W2008296229",
+   "issue": "2",
+   "language": "en",
+   "oa_url": "https://doi.org/10.11646/zootaxa.3918.2.10",
+   "openalex_url": "https://openalex.org/W2008296229",
+   "pages": "295-300",
+   "title": "Caetetermes taquarussu Fontes (Isoptera, Termitidae, Nasutitermitinae): description of the imago caste and new distributional records",
+   "type": "article",
+   "venue": "Zootaxa",
+   "volume": "3918",
+   "year": 2015
+  }
+ ],
+ "zh": "林白蚁属"
+}

@@ -1,0 +1,29 @@
+{
+ "zh_name": "洞白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "原文给出的亚科属检索：有翅成虫无单眼、无 empodium（爪间突）、尾须 5 节者为本属，而有单眼、有 empodium、尾须 2 节者为 Calotermes；兵蚁尾须长、5 节者为本属，尾须短、2 节者为 Calotermes。兵蚁外形易与胄白蚁属（Stolotermes）混淆，但后者体型小、头与体更扁、前胸背板小而成心形、眼具小眼面。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "无单眼；无 empodium；尾须 5 节。种级（P. adamsoni）：触角 15 至 17 节；连翅体长 14–15 mm，体长 7–8 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "尾须长、5 节。种级（P. adamsoni）：触角 16 至 18 节；上颚粗壮，三个种的齿式相同；前胸背板宽约为头宽的 1.5 倍。"
+  },
+  {
+   "label": "工蚁",
+   "text": "本亚科无真正的工蚁品级，工蚁职能由有翅成虫（可能还有兵蚁）的未成熟阶段承担；这种「工蚁-若虫」的属级特征与兵蚁相同。"
+  }
+ ],
+ "note": "属级可用特征集中在 p. 144 的亚科属检索与对比段；体长、触角节数、前胸背板比例等为 P. adamsoni 的种级测量，已标注「种级」。「工蚁」一节是原文对亚科品级的说明，非本属独有，引用时须保留该限定。",
+ "sources": [
+  {
+   "id": "S0045",
+   "citation": "Hill, G. F. 1926. The genus Porotermes (Isoptera). Proceedings of the Royal Society of Victoria, N.S. 38: 143–149.",
+   "locator": "p. 144 (检索表、与 Stolotermes 对比、工蚁品级说明)"
+  }
+ ]
+}

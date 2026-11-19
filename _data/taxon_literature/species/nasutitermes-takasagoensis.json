@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-11",
+ "sections": [
+  {
+   "heading": "内源性内切葡聚糖酶的结构",
+   "paragraphs": [
+    {
+     "text": "据摘要，Khademi 等（2002）解析高砂象白蚁（Nasutitermes takasagoensis）内源性内切葡聚糖酶 NtEgl 的 1.40 Å 晶体结构，显示其具有糖苷水解酶第 9 家族常见的 (α/α)6 桶状折叠，保守 Glu412 为催化酸碱残基，Asp54 或 Asp57 为碱基，底物结合裂隙附近有一个 Ca2+ 结合位点；该结果支持白蚁自身分泌纤维素酶、并非完全依赖共生细菌。",
+     "src": [
+      "S0155"
+     ],
+     "text_en": "According to the abstract, Khademi et al. (2002) determined the 1.40 Å crystal structure of NtEgl, an endogenous endoglucanase of Nasutitermes takasagoensis, showing that it has the (α/α)6 barrel fold typical of glycoside hydrolase family 9, that the conserved Glu412 is the catalytic acid/base residue and Asp54 or Asp57 the base, and that a Ca2+ binding site lies near the substrate-binding cleft; the result supports the view that termites themselves secrete cellulases and do not depend entirely on symbiotic bacteria.",
+     "text_es": "Según el resumen, Khademi et al. (2002) resolvieron la estructura cristalina a 1,40 Å de NtEgl, una endoglucanasa endógena de Nasutitermes takasagoensis, y mostraron que presenta el plegamiento en barril (α/α)6 característico de la familia 9 de glucósido hidrolasas, con Glu412 conservado como residuo ácido-base catalítico, Asp54 o Asp57 como base y un sitio de unión a Ca²⁺ cerca de la hendidura de unión al sustrato; el resultado respalda que las termitas secretan sus propias celulasas y no dependen por completo de bacterias simbiontes."
+    }
+   ],
+   "heading_en": "Structure of an endogenous endoglucanase",
+   "heading_es": "Estructura de una endoglucanasa endógena"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0155",
+   "citation": "Khademi, S. et al. 2002. Structure of an endoglucanase from termite, Nasutitermes takasagoensis. Acta Crystallographica Section D: Biological Crystallography.",
+   "doi": "10.1107/s0907444902002366"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "由变种提升为种",
+   "heading_en": "Raised from variety to species",
+   "heading_es": "Elevada de variedad a especie",
+   "paragraphs": [
+    {
+     "text": "根据 Ndiaye、Njie 与 Correa（2019）研究，尖齿真唇白蚁（<i>Euchilotermes acutidens</i>）原为拉长真唇白蚁（<i>Euchilotermes tensus</i>）的尖齿变种，由 Emerson 提升为种，依据是上颚末端较拉长真唇白蚁（<i>Euchilotermes tensus</i>）更长、更弯，齿更小更尖，后颏更宽。该研究在综述真唇白蚁属（<i>Euchilotermes</i>）的 4 个已知种时采用这一处理，将其与方头真唇白蚁（<i>Euchilotermes quadriceps</i>）、隐蔽真唇白蚁（<i>Euchilotermes umbraticola</i>）并列为该属已知种。",
+     "src": [
+      "S0346"
+     ],
+     "text_en": "In the study by Ndiaye, Njie and Correa (2019), <i>Euchilotermes acutidens</i> was originally the acutidens variety of <i>Euchilotermes tensus</i> and was raised to species rank by Emerson because its mandibles are longer and more curved at the apex than in <i>Euchilotermes tensus</i>, its teeth smaller and sharper and its gula wider. Reviewing the four known species of <i>Euchilotermes</i>, the study adopts this treatment and lists it alongside <i>Euchilotermes quadriceps</i> and <i>Euchilotermes umbraticola</i>.",
+     "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), <i>Euchilotermes acutidens</i> era originalmente la variedad acutidens de <i>Euchilotermes tensus</i> y fue elevada a especie por Emerson porque sus mandíbulas son más largas y curvadas en el ápice que en <i>Euchilotermes tensus</i>, sus dientes más pequeños y agudos y su gula más ancha. Al revisar las cuatro especies conocidas de <i>Euchilotermes</i>, el estudio adopta ese tratamiento y la sitúa junto a <i>Euchilotermes quadriceps</i> y <i>Euchilotermes umbraticola</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0346",
+   "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+   "doi": "10.3390/insects10050122"
+  }
+ ]
+}

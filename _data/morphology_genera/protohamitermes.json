@@ -1,0 +1,25 @@
+{
+ "zh_name": "始钩白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "单型属，仅 globiceps 一种，产婆罗洲砂拉越（Sarawak）。左上颚为 Leucotermes 式齿系（基节之前有 4 枚齿），Holmgren 据此把本属归入 Hamitermes 支系，并认为它在该支系中位置相当原始。有翅成虫褐色、被厚毛，翅相当短且被毛；触角 14 节；工蚁触角 13 节。兵蚁未知。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "褐色，被厚毛，翅相当短、被毛。头很强地宽凸，额腺孔周围略下陷。复眼中等大，相当强凸；单眼相对小，与复眼相距超过一个眼径。额腺孔位于头中部之后，大，暗色。唇基基部很短、平，无纵线，端部大。左上颚为 Leucotermes 式齿系，基节之前有 4 枚齿；右上颚只有 3 个前齿，其中端齿远短于其余各齿。触角 14 节，第 3 节小。前胸背板狭于头；中胸背板后缘的凹口宽于后胸背板。前翅鳞略大于后翅鳞；中脉有 1—2 条端支，肘脉 12—18 支；所有脉明显，内侧 5—7 条加厚。尾须粗而短；无刺突；跗节短。"
+  },
+  {
+   "label": "工蚁",
+   "text": "被毛密而具刚毛。头圆形，有时甚至宽大于长，厚，中部略下陷。额腺孔大，有时呈暗色。唇基基部短、平。上颚基节大，上颚同有翅成虫。触角 13 节，相当粗，第 3 节短于第 2 节，第 4 节长于第 3 节。前胸背板短，鞍形，前缘不凹入。尾须短而粗，无刺突。跗节短。腹部厚。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren, N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familien Mastotermitidae, Protermitidae und Mesotermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166, Taf. 1–4.",
+   "locator": "pp. 77—78（archive.org 项 biostor-184513 页面图像）"
+  }
+ ],
+ "note": "描述据 Holmgren 1912 原文（archive.org 项 biostor-184513 的页面图像，pp. 77—78）。原文明确写「Soldat unbekannt」（兵蚁未知），故只有有翅成虫与工蚁两段；工蚁段起于 p. 77 末行、续于 p. 78 首行。原文为新属新种 Protohamitermes globiceps n. sp.。"
+}

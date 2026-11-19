@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "新种描述与体型比较",
+   "heading_en": "Description of the new species and body-size comparison",
+   "heading_es": "Descripción de la especie nueva y comparación de tamaño",
+   "paragraphs": [
+    {
+     "src": [
+      "S0326"
+     ],
+     "text": "根据 Scheffrahn 与 Postle（2013）研究，遥远边白蚁（<i>Marginitermes absitus</i>）以澳大利亚北部 Cape York 与 Cape Arnhem 的标本、据有翅成虫与兵蚁两个品级描述为新种；该种体型大于边白蚁属（<i>Marginitermes</i>）已知的两种同属种，即新北区西南部的哈伯德边白蚁（<i>Marginitermes hubbardi</i>）与中美洲的食刺边白蚁（<i>Marginitermes cactiphagus</i>）（据摘要）。",
+     "text_en": "According to Scheffrahn and Postle (2013), <i>Marginitermes absitus</i> is described as a new species from specimens collected at Cape York and Cape Arnhem in northern Australia, on the basis of the imago and soldier castes; the species is larger than both previously known congeners, <i>Marginitermes hubbardi</i> from the south-western Nearctic and <i>Marginitermes cactiphagus</i> from Central America (according to the abstract).",
+     "text_es": "Según Scheffrahn y Postle (2013), <i>Marginitermes absitus</i> se describe como especie nueva a partir de ejemplares de Cape York y Cape Arnhem, en el norte de Australia, sobre la base de las castas imago y soldado; la especie es mayor que sus dos congéneres conocidos, <i>Marginitermes hubbardi</i> del suroeste del Neártico y <i>Marginitermes cactiphagus</i> de América Central (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0326",
+   "citation": "Scheffrahn, R. H.; Postle, A. C. 2013. New termite species and newly recorded genus for Australia: Marginitermes absitus (Isoptera: Kalotermitidae). Australian Journal of Entomology.",
+   "url": "https://doi.org/10.1111/aen.12023"
+  }
+ ]
+}

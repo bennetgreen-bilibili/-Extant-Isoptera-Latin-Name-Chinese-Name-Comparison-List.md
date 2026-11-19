@@ -1,0 +1,43 @@
+{
+ "latin": "Eremotermes",
+ "zh": "漠白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Eremotermes Silvestri, 1911: 108–109.",
+ "type_species": "Eremotermes indicatus Silvestri, 1911 by original designation.",
+ "references": [
+  {
+   "ref": "Holmgren, 1912a: 77, 95–96",
+   "note": "Eremotermes; characters; key; species included; systematic position."
+  },
+  {
+   "ref": "Holmgren and Holmgren, 1917: 166",
+   "note": "Eremotermes; characters; relationships."
+  },
+  {
+   "ref": "Snyder, 1934a: 26, 28",
+   "note": "Eremotermes; key."
+  },
+  {
+   "ref": "Lal and Menon, 1953: 37",
+   "note": "Eremotermes; catalog; reference list; key."
+  },
+  {
+   "ref": "Ahmad, 1955b: 219",
+   "note": "Eremotermes; key."
+  },
+  {
+   "ref": "Ahmad, 1958: 87, 90",
+   "note": "Eremotermes; key."
+  },
+  {
+   "ref": "Roonwal and Sen-Sarma, 1960: 46–53",
+   "note": "Eremotermes; synonymy; characters; species included; relationship; distribution."
+  },
+  {
+   "ref": "Webb, 1961: 17",
+   "note": "Eremotermes; key."
+  }
+ ],
+ "nrefs": 45
+}

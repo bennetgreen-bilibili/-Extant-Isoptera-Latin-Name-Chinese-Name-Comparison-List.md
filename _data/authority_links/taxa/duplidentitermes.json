@@ -1,0 +1,68 @@
+{
+ "Duplidentitermes furcatidens": {
+  "gbif": {
+   "key": 9725219,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Duplidentitermes furcatidens (Sjöstedt, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "383HK",
+   "status": "accepted",
+   "label": "Duplidentitermes furcatidens (Sjöstedt, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250584",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Duplidentitermes jurioni": {
+  "gbif": {
+   "key": 9809297,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Duplidentitermes jurioni Emerson, 1959",
+   "accepted": null
+  },
+  "col": {
+   "id": "383HL",
+   "status": "accepted",
+   "label": "Duplidentitermes jurioni Emerson, 1959",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250585",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Duplidentitermes latimentonis": {
+  "gbif": {
+   "key": 9695181,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Duplidentitermes latimentonis Emerson, 1959",
+   "accepted": null
+  },
+  "col": {
+   "id": "383HM",
+   "status": "accepted",
+   "label": "Duplidentitermes latimentonis Emerson, 1959",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250586",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

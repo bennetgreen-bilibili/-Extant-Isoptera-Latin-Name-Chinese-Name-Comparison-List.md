@@ -1,0 +1,145 @@
+{
+ "Procapritermes atypus": {
+  "label": "Procapritermes atypus Holmgren, 1912",
+  "match": "exact",
+  "notes": "",
+  "otu": 85743,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85743/overview",
+  "valid_label": null,
+  "valid_otu": 85743,
+  "verified": false
+ },
+ "Procapritermes dakshinae": {
+  "label": "Procapritermes dakshinae (Chhotani & Ferry, 1995)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85744,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85744/overview",
+  "valid_label": null,
+  "valid_otu": 85744,
+  "verified": false
+ },
+ "Procapritermes holmgreni": {
+  "label": "Procapritermes holmgreni Akhtar, 1975",
+  "match": "exact",
+  "notes": "",
+  "otu": 85745,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85745/overview",
+  "valid_label": null,
+  "valid_otu": 85745,
+  "verified": false
+ },
+ "Procapritermes huananensis": {
+  "label": "Procapritermes huananensis (Yu & Ping, 1966)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85746,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85746/overview",
+  "valid_label": null,
+  "valid_otu": 85746,
+  "verified": false
+ },
+ "Procapritermes keralai": {
+  "label": "Procapritermes keralai (Chhotani & Ferry, 1995)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85747,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85747/overview",
+  "valid_label": null,
+  "valid_otu": 85747,
+  "verified": false
+ },
+ "Procapritermes longignathus": {
+  "label": "Procapritermes longignathus Ahmad, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 85748,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85748/overview",
+  "valid_label": null,
+  "valid_otu": 85748,
+  "verified": false
+ },
+ "Procapritermes martyni": {
+  "label": "Procapritermes martyni Thapa, 1982",
+  "match": "exact",
+  "notes": "",
+  "otu": 85749,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85749/overview",
+  "valid_label": null,
+  "valid_otu": 85749,
+  "verified": false
+ },
+ "Procapritermes minutus": {
+  "label": "Procapritermes minutus (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85750,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85750/overview",
+  "valid_label": null,
+  "valid_otu": 85750,
+  "verified": false
+ },
+ "Procapritermes neosetiger": {
+  "label": "Procapritermes neosetiger Thapa, 1982",
+  "match": "exact",
+  "notes": "",
+  "otu": 85751,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85751/overview",
+  "valid_label": null,
+  "valid_otu": 85751,
+  "verified": false
+ },
+ "Procapritermes prosetiger": {
+  "label": "Procapritermes prosetiger Ahmad, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 85752,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85752/overview",
+  "valid_label": null,
+  "valid_otu": 85752,
+  "verified": false
+ },
+ "Procapritermes sandakanensis": {
+  "label": "Procapritermes sandakanensis Thapa, 1982",
+  "match": "exact",
+  "notes": "",
+  "otu": 85753,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85753/overview",
+  "valid_label": null,
+  "valid_otu": 85753,
+  "verified": false
+ },
+ "Procapritermes setiger": {
+  "label": "Procapritermes setiger (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85754,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85754/overview",
+  "valid_label": null,
+  "valid_otu": 85754,
+  "verified": false
+ },
+ "Procapritermes zhangfengensis": {
+  "label": "Procapritermes zhangfengensis (Yang, Zhu & Huang, 1995)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85755,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85755/overview",
+  "valid_label": null,
+  "valid_otu": 85755,
+  "verified": false
+ }
+}

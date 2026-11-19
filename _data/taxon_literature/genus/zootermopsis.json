@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "Archotermopsidae 的收窄",
+   "heading_en": "Restriction of Archotermopsidae",
+   "heading_es": "Restricción de Archotermopsidae",
+   "paragraphs": [
+    {
+     "text": "据摘要，Wang 等（2022）指出古白蚁科（Archotermopsidae）为并系，修订后该科仅含古白蚁属（Archotermopsis）与动白蚁属（Zootermopsis）两属；同一分析中草白蚁科（Hodotermitidae）为单系，胄白蚁科（Stolotermitidae）与草白蚁科 + 古白蚁科约在 100 Ma 前分开。",
+     "text_en": "According to the abstract, Wang et al. (2022) showed that Archotermopsidae is paraphyletic and restricted the family to <i>Archotermopsis</i> and <i>Zootermopsis</i>; in the same analysis Hodotermitidae was monophyletic, and Stolotermitidae diverged from Hodotermitidae + Archotermopsidae about 100 Ma ago.",
+     "text_es": "Según el resumen, Wang et al. (2022) mostraron que Archotermopsidae es parafilética y restringieron la familia a <i>Archotermopsis</i> y <i>Zootermopsis</i>; en el mismo análisis Hodotermitidae fue monofilética, y Stolotermitidae se separó de Hodotermitidae + Archotermopsidae hace unos 100 Ma.",
+     "src": [
+      "S0196"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0196",
+   "citation": "Wang, M.; Hellemans, S.; Šobotník, J.; et al. 2022. Phylogeny, biogeography and classification of Teletisoptera (Blattaria: Isoptera). Systematic Entomology.",
+   "doi": "10.1111/syen.12548"
+  }
+ ]
+}

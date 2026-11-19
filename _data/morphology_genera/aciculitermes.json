@@ -1,0 +1,25 @@
+{
+ "zh_name": "针白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁上颚完全无端尖，是 Emerson 1960 建立本属时的首要鉴别性状；头部自鼻端至头顶的侧轮廓几乎平直或微凹，仅在鼻基处有一轻微隆起；头相对宽于 Subulitermes microsoma。工蚁左颚指数 0.73，介于 Leucopitermes（0.56）与 Subulitermes（1.33）之间。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头与额突密布极短的微毛，头顶与鼻基另有少数刚毛；头相对宽于 Subulitermes microsoma；头部自鼻端至头顶的侧轮廓几乎平直或微凹，仅在鼻基处有一轻微隆起；上颚无端尖。"
+  },
+  {
+   "label": "工蚁",
+   "text": "左颚指数 0.73；两上颚端齿相对大于 Leucopitermes；左颚第 1 缘齿之后无缺刻；左颚第 3 缘齿较窄。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0081",
+   "citation": "Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.",
+   "locator": "pp. 11-12"
+  }
+ ],
+ "note": "Emerson 1960 的属级鉴别仅一句（上颚无端尖），其余性状取自该文对模式种（当时为单种属）的记述；兵蚁触角节数、右颚第 2 缘齿与磨板轮廓因本次引文限额未写入正文。有翅成虫据原文由 John（1925）与 Kemner（1931）描述，Emerson 未检视标本，故不设该节。"
+}

@@ -1,0 +1,43 @@
+{
+ "latin": "Homallotermes",
+ "zh": "平白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Homallotermes John, 1925: 412–413.",
+ "type_species": "Termes foraminifer Haviland, 1898 by monotypy.",
+ "references": [
+  {
+   "ref": "Haviland, 1898: 378, 419",
+   "note": "Termes “section with T. foraminifer for type”; characters; key."
+  },
+  {
+   "ref": "Ahmad, 1958: 88, 91",
+   "note": "Homallotermes; key."
+  },
+  {
+   "ref": "Krishna, 1968: 284–286",
+   "note": "Homallotermes; synonymy; key; characters; phylogeny; species included; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 32",
+   "note": "Homallotermes; key."
+  },
+  {
+   "ref": "Ahmad and Akhtar, 1981: 2, 3, fig. 11",
+   "note": "Homallotermes; key; enteric valve cushions figured."
+  },
+  {
+   "ref": "Bose, 1984: 101, 103, 142",
+   "note": "Homallotermes; key; synonymy; remarks."
+  },
+  {
+   "ref": "Collins, 1984: 78",
+   "note": "Homallotermes; key."
+  },
+  {
+   "ref": "Chhotani, 1997: 273–275",
+   "note": "Homallotermes; synonymy; characters; distribution and composition."
+  }
+ ],
+ "nrefs": 22
+}

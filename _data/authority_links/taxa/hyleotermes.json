@@ -1,0 +1,23 @@
+{
+ "Hyleotermes brevipilus": {
+  "gbif": {
+   "key": 11494429,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hyleotermes brevipilus (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "BW3Q6",
+   "status": "accepted",
+   "label": "Hyleotermes brevipilus (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

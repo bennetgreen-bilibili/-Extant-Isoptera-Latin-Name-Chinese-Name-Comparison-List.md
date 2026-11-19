@@ -1,0 +1,29 @@
+{
+ "zh_name": "扭白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "Holmgren 1912 将本属分为两个界线分明的亚属：Neocapritermes（全部美洲种，另加非洲的 C. alienus v. Rosen）与 Capritermes s. str.（仅旧世界种类）。二者的检索差别为：有翅成虫看第 1 齿与第 2 齿的大小、触角节数、中后胸后缘形态与前翅有无径脉；兵蚁只看额腺孔之有无——Neocapritermes 无额腺孔，Capritermes s. str. 有；工蚁看前足基节前缘是否略呈盘状扩展及第 1 齿大小。属级共同特征为：有翅成虫触角 15—17 节、第 3 节多短，翅膜暗而具刺点，中脉靠近肘脉；兵蚁头呈长矩形、扁平隆起，上颚为 Capritermes 型、不对称弯曲，触角 13—16 节；工蚁头多少五角形而圆，触角 13—15 节。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头宽卵形，向前收窄。复眼相对小，多数强烈凸出。单眼位置不定，朝侧方。额腺孔下陷。唇基基部平凸，短于其半宽。上颚有两种情形：或具大的端齿（此时中、后胸后部尖，触角（14—）15 节）；或前两齿约等长（此时中、后胸后部宽，中胸几乎不凹入、后胸宽凹，触角 17 节且前翅有径脉）。触角 15—17 节，第 3 节多短。翅膜暗，具小点（刺）。中脉靠近肘脉。前足胫节 3 个端刺，中、后足胫节各 2 个。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头细长矩形，很少向前收窄，扁平隆起。额腺孔多数存在，外露于头前部；所有美洲种与非洲的 C. alienus 则缺额腺孔。唇基基部很窄。上唇细长：或侧角外伸而中部圆或凹入，或呈三叶状而叶很短、圆。上颚为 Capritermes 型，不对称弯曲。触角 13—16 节。前胸背板小，鞍形。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头多少呈五角形而圆。唇基基部强隆起，略短于其半宽。上颚第 1 齿的形态如有翅成虫。触角 13—15 节。前胸背板鞍形。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren, N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familien Mastotermitidae, Protermitidae und Mesotermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166, Taf. 1–4.",
+   "locator": "pp. 114—115（archive.org 项 biostor-184513 页面图像）"
+  }
+ ],
+ "note": "描述据 Holmgren 1912 原文（archive.org 项 biostor-184513 的页面图像，pp. 114—116）。1912 年本属含两亚属（Neocapritermes、Capritermes s. str.），本文所述为属级合并特征；亚属与种名录在 pp. 115—116（旧世界种：chiasognathus、socialis、capricornis、ceylonicus、foraminifer、incola、medius、minor、nemorosus 等）。zh_name 暂用拉丁名（批次标为「—」）。"
+}

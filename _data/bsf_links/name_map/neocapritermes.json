@@ -1,0 +1,189 @@
+{
+ "Neocapritermes angusticeps": {
+  "label": "Neocapritermes angusticeps (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85651,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85651/overview",
+  "valid_label": null,
+  "valid_otu": 85651,
+  "verified": false
+ },
+ "Neocapritermes araguaia": {
+  "label": "Neocapritermes araguaia Krishna & Araujo, 1968",
+  "match": "exact",
+  "notes": "",
+  "otu": 85652,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85652/overview",
+  "valid_label": null,
+  "valid_otu": 85652,
+  "verified": false
+ },
+ "Neocapritermes bodkini": {
+  "label": "Neocapritermes bodkini (Silvestri, 1923)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85653,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85653/overview",
+  "valid_label": null,
+  "valid_otu": 85653,
+  "verified": false
+ },
+ "Neocapritermes braziliensis": {
+  "label": "Neocapritermes braziliensis (Snyder, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85654,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85654/overview",
+  "valid_label": null,
+  "valid_otu": 85654,
+  "verified": false
+ },
+ "Neocapritermes centralis": {
+  "label": "Neocapritermes centralis (Snyder, 1932)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85655,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85655/overview",
+  "valid_label": null,
+  "valid_otu": 85655,
+  "verified": false
+ },
+ "Neocapritermes guyana": {
+  "label": "Neocapritermes guyana Krishna & Araujo, 1968",
+  "match": "exact",
+  "notes": "",
+  "otu": 85656,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85656/overview",
+  "valid_label": null,
+  "valid_otu": 85656,
+  "verified": false
+ },
+ "Neocapritermes longinotus": {
+  "label": "Neocapritermes longinotus (Snyder, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85657,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85657/overview",
+  "valid_label": null,
+  "valid_otu": 85657,
+  "verified": false
+ },
+ "Neocapritermes mirim": {
+  "label": "Neocapritermes mirim Bandeira & Cancello, 1992",
+  "match": "exact",
+  "notes": "",
+  "otu": 85658,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85658/overview",
+  "valid_label": null,
+  "valid_otu": 85658,
+  "verified": false
+ },
+ "Neocapritermes opacus": {
+  "label": "Neocapritermes opacus (Hagen, 1858)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85659,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85659/overview",
+  "valid_label": null,
+  "valid_otu": 85659,
+  "verified": false
+ },
+ "Neocapritermes parvus": {
+  "label": "Neocapritermes parvus (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85660,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85660/overview",
+  "valid_label": null,
+  "valid_otu": 85660,
+  "verified": false
+ },
+ "Neocapritermes pumilis": {
+  "label": "Neocapritermes pumilis Constantino, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85661,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85661/overview",
+  "valid_label": null,
+  "valid_otu": 85661,
+  "verified": false
+ },
+ "Neocapritermes talpa": {
+  "label": "Neocapritermes talpa (Holmgren, 1906)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85662,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85662/overview",
+  "valid_label": null,
+  "valid_otu": 85662,
+  "verified": false
+ },
+ "Neocapritermes talpoides": {
+  "label": "Neocapritermes talpoides Krishna & Araujo, 1968",
+  "match": "exact",
+  "notes": "",
+  "otu": 85663,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85663/overview",
+  "valid_label": null,
+  "valid_otu": 85663,
+  "verified": false
+ },
+ "Neocapritermes taracua": {
+  "label": "Neocapritermes taracua Krishna & Araujo, 1968",
+  "match": "exact",
+  "notes": "",
+  "otu": 85664,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85664/overview",
+  "valid_label": null,
+  "valid_otu": 85664,
+  "verified": false
+ },
+ "Neocapritermes unicornis": {
+  "label": "Neocapritermes unicornis Constantino, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85665,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85665/overview",
+  "valid_label": null,
+  "valid_otu": 85665,
+  "verified": false
+ },
+ "Neocapritermes utiariti": {
+  "label": "Neocapritermes utiariti Krishna & Araujo, 1968",
+  "match": "exact",
+  "notes": "",
+  "otu": 85666,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85666/overview",
+  "valid_label": null,
+  "valid_otu": 85666,
+  "verified": false
+ },
+ "Neocapritermes villosus": {
+  "label": "Neocapritermes villosus (Holmgren, 1906)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85667,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85667/overview",
+  "valid_label": null,
+  "valid_otu": 85667,
+  "verified": false
+ }
+}

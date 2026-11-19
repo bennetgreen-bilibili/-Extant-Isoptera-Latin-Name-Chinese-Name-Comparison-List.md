@@ -1,0 +1,25 @@
+{
+ "zh_name": "弯钩白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁上颚钩状，前、中、后胸背板边缘无一行短粗刺，前足基节无龙骨状突起与粗刚毛，可据此与 Armitermes 区分。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "单型；头背视圆；额管圆锥形，与头基等长，侧视与头基成近 45° 角；触角 15 节；上唇圆，前缘透明而无明显的尖；后颏近长方形。"
+  },
+  {
+   "label": "工蚁",
+   "text": "单型；头圆；额缝不显；囟椭圆、不明显；触角 15 节。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0072",
+   "citation": "Rocha, M. M.; Cancello, E. M.; Carrijo, T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37(4): 793–827. DOI: 10.1111/j.1365-3113.2012.00645.x",
+   "locator": "p. 821，「Soldier」段；p. 821，「Worker」段；p. 822，「Comparisons」段"
+  }
+ ],
+ "note": "有翅成虫属级有描述，因引文限额未设节；兵蚁每颚仅一枚垂直锐缘齿、磨区不明显，前足基节无突起，工蚁腹部卵形半透明，这些细节见原文「Soldier」与「Worker」段。"
+}

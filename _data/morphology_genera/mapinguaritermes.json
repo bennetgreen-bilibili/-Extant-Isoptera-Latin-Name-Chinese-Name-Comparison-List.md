@@ -1,0 +1,25 @@
+{
+ "zh_name": "红懒白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "工蚁砂囊第一级垫饰有发达的刺，原文称其为本属在系统发育分析中的共衍征（synapomorphy）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头背视卵形；额管圆锥形，几与头基平行，侧视长约头基的 4/5；触角 14 节；上唇近五边形，前缘透明而无明显的尖；后颏两侧凹。"
+  },
+  {
+   "label": "工蚁",
+   "text": "单型；头圆；额缝不显；囟椭圆、很不明显；后唇基稍膨大；触角 14 节。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0072",
+   "citation": "Rocha, M. M.; Cancello, E. M.; Carrijo, T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37(4): 793–827. DOI: 10.1111/j.1365-3113.2012.00645.x",
+   "locator": "p. 825，「Comparisons」段；p. 825，「Soldier」段；p. 825，「Worker」段"
+  }
+ ],
+ "note": "工蚁消化道其余特征（中肠舌、P1、肠瓣 3 垫、P3b 倒 U）原文有述，因引文限额未引；有翅成虫原文未作属级描述。"
+}

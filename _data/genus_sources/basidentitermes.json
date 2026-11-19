@@ -1,0 +1,43 @@
+{
+ "latin": "Basidentitermes",
+ "zh": "基齿白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Basidentitermes Holmgren, 1912a: 107 [first introduced as a subgenus of Mirotermes Wasmann, 1897].",
+ "type_species": "Eutermes aurivillii Sjöstedt, 1897 by subsequent designation; see Sjöstedt, 1926d: 271.",
+ "references": [
+  {
+   "ref": "Silvestri, 1914a: 117",
+   "note": "Basidentitermes; characters."
+  },
+  {
+   "ref": "Emerson, 1928b: 408, 419, 535",
+   "note": "Mirotermes (Basidentitermes); key; distribution; discussion."
+  },
+  {
+   "ref": "Harris, 1941: 202",
+   "note": "Basidentitermes; key."
+  },
+  {
+   "ref": "Webb, 1961: 14",
+   "note": "Basidentitermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 31, 108, 109, pl. 22: fig. 70b",
+   "note": "Basidentitermes; key; characters; imago/worker mandibles figured. 2013 Krishna ET AL.: isoptera: TERMITIDAE: CubitERMITInAE\b 1903"
+  },
+  {
+   "ref": "Harris, 1968c: 6",
+   "note": "Basidentitermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 38",
+   "note": "Basidentitermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 36, 245–247, figs. 1114–1139, pl. 15: figs. 1–7",
+   "note": "Basidentitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 18
+}

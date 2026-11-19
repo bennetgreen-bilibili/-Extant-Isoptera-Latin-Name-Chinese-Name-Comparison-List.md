@@ -1,0 +1,40 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "蚁后信息素与线粒体基因组",
+   "heading_en": "Queen Pheromone and Mitochondrial Genome",
+   "heading_es": "Feromona de la reina y genoma mitocondrial",
+   "paragraphs": [
+    {
+     "src": [
+      "S0244"
+     ],
+     "text": "根据 Havlíčková 等（2019）研究，幼态生白蚁（<i>Embiratermes neotenicus</i>）的初生蚁后大量释放 (3R,6E)-nerolidol，该物质是蚁后体表洗出物的主成分，也出现于卵表，而在雄虫、工蚁与兵蚁中均未检出；补充生殖型蚁后同样产生，产量与繁殖力相关。包括本种在内的 4 种聚白蚁亚科（<i>Syntermitinae</i>）只产 (R) 对映体，工蚁触角对天然 (R) 体的反应显著强于 (S) 体（据摘要）。",
+     "text_en": "According to Havlíčková et al. (2019), primary queens of <i>Embiratermes neotenicus</i> release large quantities of (3R,6E)-nerolidol, the main component of the queen's cuticular wash and also present on the surface of eggs, but not detected in males, workers or soldiers; neotenic reproductives produce it as well, and its output correlates with fecundity. Four species of Syntermitinae, including this one, produce only the (R) enantiomer, and worker antennae respond significantly more strongly to the natural (R) form than to the (S) form (according to the abstract).",
+     "text_es": "Según Havlíčková et al. (2019), las reinas primarias de <i>Embiratermes neotenicus</i> liberan grandes cantidades de (3R,6E)-nerolidol, componente principal del lavado cuticular de la reina y presente también en la superficie de los huevos, pero no detectado en machos, obreras ni soldados; las reproductoras neoténicas también lo producen y su producción se correlaciona con la fecundidad. Cuatro especies de Syntermitinae, incluida esta, producen solo el enantiómero (R), y las antenas de las obreras responden de forma significativamente más intensa a la forma (R) natural que a la (S) (según el resumen)."
+    },
+    {
+     "src": [
+      "S0267"
+     ],
+     "text": "根据 Hervé 与 Brune（2017）研究，幼态生白蚁（<i>Embiratermes neotenicus</i>）的线粒体基因组（GenBank KY436202）长 15 868 bp，G+C 含量 33.7 mol%，编码 37 个基因（2 个 rRNA、22 个 tRNA、13 个蛋白编码基因）及控制区，基因顺序与昆虫祖先相同；材料采自法属圭亚那 Petit Saut，作者从 P4 肠道分区宏基因组的 209 047 724 条原始 reads 中调取 269 723 条线粒体 reads，平均深度 2418×。",
+     "text_en": "According to Hervé and Brune (2017), the mitochondrial genome of <i>Embiratermes neotenicus</i> (GenBank KY436202) is 15 868 bp long, has a G+C content of 33.7 mol%, encodes 37 genes (2 rRNA, 22 tRNA and 13 protein-coding genes) plus a control region, and its gene order matches that of the insect ancestor; material was collected at Petit Saut, French Guiana, and the authors retrieved 269 723 mitochondrial reads from 209 047 724 raw reads of the P4 gut-compartment metagenome, at a mean depth of 2418×.",
+     "text_es": "Según Hervé y Brune (2017), el genoma mitocondrial de <i>Embiratermes neotenicus</i> (GenBank KY436202) tiene 15 868 pb, un contenido de G+C de 33.7 mol%, codifica 37 genes (2 de ARNr, 22 de ARNt y 13 codificantes de proteína) más una región de control, y su orden génico coincide con el del ancestro de los insectos; el material se recolectó en Petit Saut, Guayana Francesa, y los autores recuperaron 269 723 lecturas mitocondriales de 209 047 724 lecturas brutas del metagenoma del compartimento intestinal P4, con una profundidad media de 2418×."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0244",
+   "citation": "Jana Havlíčková; Klára Dolejšová; Michal Tichý; Vladimír Vrkoslav; Blanka Kalinová; Pavlína Kyjaková; Hanus, R. 2019. (3R,6E)-nerolidol, a fertility-related volatile secreted by the queens of higher termites (Termitidae: Syntermitinae). Zeitschrift für Naturforschung C.",
+   "doi": "10.1515/znc-2018-0197"
+  },
+  {
+   "id": "S0267",
+   "citation": "Vincent Hervé; Brune, A. 2017. The complete mitochondrial genomes of the higher termites Labiotermes labralis and Embiratermes neotenicus (Termitidae: Syntermitinae). Informa UK Limited.",
+   "doi": "10.1080/23802359.2017.1289349"
+  }
+ ]
+}

@@ -32,7 +32,7 @@ C. 单语：三个语言的页面正文都不得出现 `fact-en` / `fact-es` / `
    （中文专名通常 ≤9 字，长串基本是把中文正文留在了外文页）；
 D. 站内链接：en/es 页里的 {{ site.base_url }}/family/… 一类必须是 /en/family/… 或
    /es/family/…，且不得出现 /en/en/ 双前缀；
-E. 译文覆盖率（警告）：_data/translations_en.json / translations_es.json 是否存在，
+E. 译文覆盖率（警告）：_data/translations_en/ / translations_es/ 是否存在，
    以及 _tools/check_translations.py 的合并结果（若已生成）；
 F. 语言前缀剥离：`_layouts/` 与 `_includes/` 里不得再用
    `page.url | remove_first: '/en' | remove_first: '/es'`——`remove_first` 剥的是整条 URL
@@ -61,10 +61,12 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(ROOT, "_tools"))
+import shard_io  # noqa: E402
+
 TAXONOMY = os.path.join(ROOT, "_data", "taxonomy.json")
 SPECIES_DIR = os.path.join(ROOT, "_species")
-TRANS_EN = os.path.join(ROOT, "_data", "translations_en.json")
-TRANS_ES = os.path.join(ROOT, "_data", "translations_es.json")
+TRANS_DATA = (("en", "translations_en"), ("es", "translations_es"))
 
 # (语言键, 目录前缀, front matter 里的 lang 值)
 LANGS = (("zh", "", "zh-CN"), ("en", "en/", "en"), ("es", "es/", "es"))
@@ -256,19 +258,15 @@ def check_lang_prefix_strip(rep):
 
 
 def coverage(rep):
-    if not (os.path.isfile(TRANS_EN) and os.path.isfile(TRANS_ES)):
-        rep.warn("W010", "_data/translations_*.json", "译文文件尚未生成（en/es 页会缺小节）")
+    have = [(name, shard_io.load(name)) for _lang, name in TRANS_DATA
+            if shard_io.exists(name)]
+    if len(have) < len(TRANS_DATA):
+        rep.warn("W010", "_data/translations_*/", "译文分片尚未生成（en/es 页会缺小节）")
         return
-    for p in (TRANS_EN, TRANS_ES):
-        try:
-            with open(p, encoding="utf-8") as fh:
-                d = json.load(fh)
-        except Exception as exc:  # noqa: BLE001
-            rep.err("E030", os.path.relpath(p, ROOT).replace("\\", "/"), "JSON 解析失败：%s" % exc)
-            continue
+    for name, d in have:
         keys = {k: len(v) if isinstance(v, (list, dict)) else 1 for k, v in d.items() if k != "meta"}
         rep.info_trans = getattr(rep, "info_trans", {})
-        rep.info_trans[os.path.basename(p)] = keys
+        rep.info_trans[name] = keys
 
 
 def main(argv=None):

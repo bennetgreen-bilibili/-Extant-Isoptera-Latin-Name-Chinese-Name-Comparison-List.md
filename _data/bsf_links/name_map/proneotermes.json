@@ -1,0 +1,46 @@
+{
+ "Proneotermes latifrons": {
+  "label": "Proneotermes latifrons (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83049,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83049/overview",
+  "valid_label": null,
+  "valid_otu": 83049,
+  "verified": false
+ },
+ "Proneotermes macondianus": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Proneotermes perezi": {
+  "label": "Proneotermes perezi (Holmgren, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83050,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83050/overview",
+  "valid_label": null,
+  "valid_otu": 83050,
+  "verified": false
+ },
+ "Proneotermes tacicuarensis": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ }
+}

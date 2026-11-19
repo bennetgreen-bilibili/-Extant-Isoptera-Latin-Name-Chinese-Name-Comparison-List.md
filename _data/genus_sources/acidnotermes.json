@@ -1,0 +1,15 @@
+{
+ "latin": "Acidnotermes",
+ "zh": "虚白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Acidnotermes Sands, 1972: 44.",
+ "type_species": "Acidnotermes praus Sands, 1972 by original designation.",
+ "references": [
+  {
+   "ref": "Sands, 1998: 55, 139–141, figs. 391–397, pl. 4: fig. 5",
+   "note": "Acidnotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 1
+}

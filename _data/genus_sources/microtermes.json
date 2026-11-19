@@ -1,0 +1,43 @@
+{
+ "latin": "Microtermes",
+ "zh": "小白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Microtermes Wasmann, 1902d: 115–116.",
+ "type_species": "Termes incertus Hagen, 1853 by original designation.",
+ "references": [
+  {
+   "ref": "Hagen, 1853: 480",
+   "note": "Termes [part]; characters."
+  },
+  {
+   "ref": "Haviland, 1898: 378, 387–388",
+   "note": "Termes “section with T. incertus for type”; characters; key."
+  },
+  {
+   "ref": "Escherich, 1909: 175",
+   "note": "Microtermes; characters."
+  },
+  {
+   "ref": "Holmgren, 1912a: 11, 12, 41–44",
+   "note": "Microtermes; characters; key; species included; systematic position."
+  },
+  {
+   "ref": "Fuller, 1921: 18, 20, 22, 25",
+   "note": "Microtermes; key; remarks; synonymy."
+  },
+  {
+   "ref": "Fuller, 1922: 95–96, 105",
+   "note": "Microtermes (Microtermes); characters; key; discussion."
+  },
+  {
+   "ref": "Bathellier, 1927: 150–152",
+   "note": "Microtermes; generic characters of imago, soldier."
+  },
+  {
+   "ref": "Emerson, 1928b: 406, 420, 469",
+   "note": "Microtermes; key; discussion; distribution."
+  }
+ ],
+ "nrefs": 103
+}

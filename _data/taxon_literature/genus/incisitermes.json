@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "西部大陆亚群的 3 个成员",
+   "heading_en": "The three members of the western continental subgroup",
+   "heading_es": "Los tres miembros del subgrupo continental occidental",
+   "paragraphs": [
+    {
+     "text": "据摘要，Myles（1997）在重新描述边白蚁属（<i>Marginitermes</i>）时指出，该属与楹白蚁属（<i>Incisitermes</i>）的一个西部大陆亚群近缘；该亚群由小楹白蚁（<i>Incisitermes minor</i>）、缘翅楹白蚁（<i>Incisitermes marginipennis</i>）与蛀果楹白蚁（<i>Incisitermes fruticavus</i>）3 种组成。",
+     "text_en": "According to the abstract, in redescribing <i>Marginitermes</i> Myles (1997) noted that the genus is related to a western continental subgroup of <i>Incisitermes</i> composed of three species, <i>Incisitermes minor</i>, <i>Incisitermes marginipennis</i> and <i>Incisitermes fruticavus</i>.",
+     "text_es": "Según el resumen, al redescribir <i>Marginitermes</i>, Myles (1997) señaló que el género está emparentado con un subgrupo continental occidental de <i>Incisitermes</i> integrado por tres especies: <i>Incisitermes minor</i>, <i>Incisitermes marginipennis</i> e <i>Incisitermes fruticavus</i>.",
+     "src": [
+      "S0357"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0357",
+   "citation": "Myles, T. G. 1997. A second species of the drywood termite genus Marginitermes (Isoptera: Kalotermitidae). The Canadian Entomologist.",
+   "url": "https://doi.org/10.4039/ent129757-4"
+  }
+ ]
+}

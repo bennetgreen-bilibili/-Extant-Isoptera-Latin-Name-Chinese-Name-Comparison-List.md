@@ -1,0 +1,26 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "肠道固氮菌",
+   "heading_en": "Gut nitrogen-fixing bacteria",
+   "heading_es": "Bacterias fijadoras de nitrógeno del intestino",
+   "paragraphs": [
+    {
+     "src": [
+      "S0001"
+     ],
+     "text": "根据 French 等（1976）研究，从乳色乳白蚁（<i>Coptotermes lacteus</i>）的肠道中分离出弗氏柠檬酸杆菌（<i>Citrobacter freundii</i>）的固氮菌株。",
+     "text_en": "According to French et al. (1976), nitrogen-fixing strains of <i>Citrobacter freundii</i> were isolated from the gut of <i>Coptotermes lacteus</i>.",
+     "text_es": "Según French et al. (1976), se aislaron cepas fijadoras de nitrógeno de <i>Citrobacter freundii</i> del intestino de <i>Coptotermes lacteus</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0001",
+   "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+  }
+ ]
+}

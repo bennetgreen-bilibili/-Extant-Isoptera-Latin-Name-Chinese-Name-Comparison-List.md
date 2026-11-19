@@ -1,0 +1,43 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "白蚁亚科的收窄（2024）",
+   "paragraphs": [
+    {
+     "text": "根据 Hellemans 等（2024），白蚁亚科（Termitinae sensu novo）被收窄到白蚁属（Termes）及其近缘属，共 23 属，包括后肠白蚁属（Apsenterotermes）、白蚁属（Termes）、扭白蚁属（Capritermes）、腔白蚁属（Cavitermes）、角扭白蚁属（Cornicapritermes）、脊突白蚁属（Cristatitermes）、双戟白蚁属（Dihoplotermes）、迪维努白蚁属（Divinotermes）、瘤突白蚁属（Ekphysotermes）、棒颚白蚁属（Ephelotermes）、络白蚁属（Hapsidotermes）、西澳白蚁属（Hesperotermes）、客白蚁属（Inquilinitermes）、小脊突白蚁属（Lophotermes）、长颚白蚁属（Macrognathotermes）、棕榈白蚁属（Palmitermes）、旁扭白蚁属（Paracapritermes）、始扭白蚁属（Protocapritermes）、相似白蚁属（Quasitermes）、石白蚁属（Saxatilitermes）、针刺白蚁属（Spinitermes）、小瘤白蚁属（Tuberculitermes）、木堆白蚁属（Xylochomitermes）；模式属为白蚁属（Termes Linnaeus, 1758）。",
+     "src": [
+      "S0008"
+     ],
+     "text_en": "According to Hellemans et al. (2024), Termitinae (Termitinae sensu novo) was narrowed to Termes and its close relatives, 23 genera in all, including Apsenterotermes, Termes, Capritermes, Cavitermes, Cornicapritermes, Cristatitermes, Dihoplotermes, Divinotermes, Ekphysotermes, Ephelotermes, Hapsidotermes, Hesperotermes, Inquilinitermes, Lophotermes, Macrognathotermes, Palmitermes, Paracapritermes, Protocapritermes, Quasitermes, Saxatilitermes, Spinitermes, Tuberculitermes and Xylochomitermes, with Termes Linnaeus, 1758 as type genus.",
+     "text_es": "Según Hellemans et al. (2024), Termitinae (sensu novo) queda restringida a Termes y sus géneros afines, 23 en total: Apsenterotermes, Termes, Capritermes, Cavitermes, Cornicapritermes, Cristatitermes, Dihoplotermes, Divinotermes, Ekphysotermes, Ephelotermes, Hapsidotermes, Hesperotermes, Inquilinitermes, Lophotermes, Macrognathotermes, Palmitermes, Paracapritermes, Protocapritermes, Quasitermes, Saxatilitermes, Spinitermes, Tuberculitermes y Xylochomitermes; su género tipo es Termes Linnaeus, 1758."
+    },
+    {
+     "text": "白蚁亚科（Termitinae sensu novo）分布泛热带，见于非洲、澳大利亚、新热带、大洋洲和东方区，取食土壤、蚁丘、木材及土壤-木材过渡带。",
+     "src": [
+      "S0008"
+     ],
+     "text_en": "Termitinae sensu novo is pantropical, occurring in Africa, Australia, the Neotropics, Oceania and the Oriental region, and feeds on soil, mounds, wood and the soil-wood interface.",
+     "text_es": "Termitinae (sensu novo) es pantropical y se encuentra en África, Australia, el Neotrópico, Oceanía y la región Oriental; se alimenta de suelo, termiteros, madera y de la interfaz suelo-madera."
+    },
+    {
+     "text": "旧白蚁亚科（Termitinae）因多系而被拆分，原有类群分别转入恢复或新建的弓白蚁亚科（Amitermitinae）、锯白蚁亚科（Microcerotermitinae）、瘤白蚁亚科（Mirocapritermitinae）、响白蚁亚科（Crepititermitinae）、圆筒白蚁亚科（Cylindrotermitinae）、剪白蚁亚科（Forficulitermitinae）、新扭白蚁亚科（Neocapritermitinae）、始钩白蚁亚科（Protohamitermitinae）、前奇白蚁亚科（Promirotermitinae）等；现生白蚁科（Termitidae）因此共有 18 个亚科。",
+     "src": [
+      "S0008"
+     ],
+     "text_en": "The former Termitinae proved polyphyletic and was split, its constituent groups being transferred to the restored or newly established Amitermitinae, Microcerotermitinae, Mirocapritermitinae, Crepititermitinae, Cylindrotermitinae, Forficulitermitinae, Neocapritermitinae, Protohamitermitinae and Promirotermitinae, among others; the extant Termitidae therefore comprise 18 subfamilies in total.",
+     "text_es": "La antigua Termitinae, polifilética, fue dividida y sus grupos se repartieron entre subfamilias restablecidas o nuevas como Amitermitinae, Microcerotermitinae, Mirocapritermitinae, Crepititermitinae, Cylindrotermitinae, Forficulitermitinae, Neocapritermitinae, Protohamitermitinae y Promirotermitinae, entre otras; por ello Termitidae cuenta ahora con 18 subfamilias actuales."
+    }
+   ],
+   "heading_en": "Narrowing of Termitinae (2024)",
+   "heading_es": "Restricción de Termitinae (2024)"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0008",
+   "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
+   "doi": "10.1038/s41467-024-51028-y"
+  }
+ ]
+}

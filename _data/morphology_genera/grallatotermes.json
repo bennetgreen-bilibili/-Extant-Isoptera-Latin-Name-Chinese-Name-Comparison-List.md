@@ -1,0 +1,25 @@
+{
+ "zh_name": "高跷白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "Sands 视其有翅成虫上颚为非洲种类的唯一组合：左上颚切缘在第一与第三缘齿之间具深缺刻，右上颚臼板具 13–14 条脊且表面轮廓无明显不规则。缺刻一项与 Fulleritermes、Leptomyxotermes 共有，但本属臼板脊数最多（Fulleritermes 7–9 条并在臼板前缘近基部有凹缺，Leptomyxotermes 6–7 条且复眼、单眼极大）。兵蚁单型，鼻粗但仅弱锥形、端部急剧收尖，头在触角后方微缢缩，刚毛仅限鼻端 4 根与后唇基、头顶的成对毛。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "左上颚端齿略短于第 1 缘齿，二者间距约为第 1–3 缘齿间距的四分之一（左颚指数约 25）；第 2 缘齿被第 3 缘齿前方的深切刻分隔，连接第 3 缘齿与臼突的小副齿自上方看退于二者间隙之后。右上颚端齿与第 1 缘齿近等长，第 1 缘齿的后切缘短于第 2 缘齿者且不覆盖第 2 缘齿前缘（表面的重叠埋于平滑发亮的愈合面内）；臼板在表面观轮廓无明显不规则，具 13–14 条脊，向后渐小。后唇基短、轻度隆起，长约宽的三分之一。囟淡色，略呈 T 形。前胸背板几无隆起的前缘。头部毛被稀疏、细而均匀，仅少数较显著的刚毛。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "单型。鼻粗，但仅弱锥形，端部急剧收尖。退化上颚具尖。头壳在触角后方微缢缩；刚毛仅鼻端 4 根，以及后唇基与头顶两侧成对排列者。"
+  }
+ ],
+ "note": "Sands 1965 的属征含 Imago 与 Soldier 两段，属一级未写工蚁，故不设工蚁段。原文把本属与 Hospitalitermes 同置于「头壳在触角后方缢缩」的一群，并指出其有翅成虫上颚在非洲种类中独一无二。Holmgren 1912 的检索表另给兵蚁一条描述（鼻短、极宽锥形、触角 13 节、头在触角后方不呈哑铃状缢缩），与 Sands 的「鼻粗但仅弱锥形、头微缢缩」程度不同；上文以 Sands 的属征为准。",
+ "sources": [
+  {
+   "id": "S0047",
+   "citation": "Sands W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian Region. Bulletin of the British Museum (Natural History), Entomology, Supplement 4: 1–172. https://doi.org/10.5962/p.193228",
+   "locator": "p. 55（Genus Grallatotermes Holmgren：Imago / Soldier；Remarks）"
+  }
+ ]
+}

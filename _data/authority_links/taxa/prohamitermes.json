@@ -1,0 +1,88 @@
+{
+ "Prohamitermes hosei": {
+  "gbif": {
+   "key": 9647733,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Prohamitermes hosei (Desneux, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6W9Z9",
+   "status": "accepted",
+   "label": "Prohamitermes hosei (Desneux, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084215",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Prohamitermes hosei hosei": {
+  "gbif": {
+   "key": 9780040,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Prohamitermes hosei hosei (Desneux, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2JZG",
+   "status": "accepted",
+   "label": "Prohamitermes hosei hosei (Desneux, 1906)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Prohamitermes hosei minor": {
+  "gbif": {
+   "key": 9697128,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Prohamitermes hosei minor Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2JZH",
+   "status": "accepted",
+   "label": "Prohamitermes hosei minor Thapa, 1982",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Prohamitermes mirabilis": {
+  "gbif": {
+   "key": 9673064,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Prohamitermes mirabilis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "77XYX",
+   "status": "accepted",
+   "label": "Prohamitermes mirabilis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084216",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

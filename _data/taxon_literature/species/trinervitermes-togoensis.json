@@ -1,0 +1,40 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "草地生境的指示种",
+   "heading_en": "Indicator species of grassland habitat",
+   "heading_es": "Especie indicadora de hábitat de pastizal",
+   "paragraphs": [
+    {
+     "src": [
+      "S0290"
+     ],
+     "text": "根据 Kasseney 等（2019）研究，多哥兰三脉白蚁（<i>Trinervitermes togoensis</i>）在洛美大学植物园共记录 24 次，全部出现在开阔区（覆盖区 0 次），为开阔区记录最多的白蚁；该种在原文表 7 中以双星号标为草地生境的潜在指示种。",
+     "text_en": "According to Kasseney et al. (2019), <i>Trinervitermes togoensis</i> was recorded 24 times in the botanical garden of the University of Lomé, always in open areas (0 records in covered areas), making it the most frequently recorded termite in open areas; in Table 7 of the original paper the species is marked with a double asterisk as a potential indicator species of grassland habitat.",
+     "text_es": "Según Kasseney et al. (2019), <i>Trinervitermes togoensis</i> se registró 24 veces en el jardín botánico de la Universidad de Lomé, siempre en zonas abiertas (0 registros en zonas cubiertas), por lo que fue la termita más registrada en zonas abiertas; en la tabla 7 del trabajo original la especie aparece marcada con doble asterisco como especie indicadora potencial de hábitat de pastizal."
+    },
+    {
+     "src": [
+      "S0280"
+     ],
+     "text": "根据 Hasnaoui 等（2022）研究，多哥兰三脉白蚁（<i>Trinervitermes togoensis</i>）的形态鉴定与分子鉴定结果不一致，是 9 个形态与分子鉴定不符的种之一。",
+     "text_en": "According to Hasnaoui et al. (2022), the morphological and molecular identifications of <i>Trinervitermes togoensis</i> did not agree, and the species is one of nine whose morphological and molecular identifications were inconsistent.",
+     "text_es": "Según Hasnaoui et al. (2022), las identificaciones morfológica y molecular de <i>Trinervitermes togoensis</i> no coincidieron, y la especie es una de las nueve en las que la identificación morfológica y la molecular discrepan."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0280",
+   "citation": "Hasnaoui, B.; Diarra, A. Z.; Jean-Michel Bérenger; Hacène Medkour; Benakhla, A.; Mediannikov, O.; Parola, P. 2022. Use of the proteomic tool MALDI-TOF MS in termite identification. Springer Science and Business Media LLC.",
+   "doi": "10.1038/s41598-021-04574-0"
+  },
+  {
+   "id": "S0290",
+   "citation": "Kasseney, B. D.; Titati Bassouo N’tie; Nuto, Y.; Dekoninck, W.; Kolo Yéo; Isabelle Adolé Glitho. 2019. Diversity of Ants and Termites of the Botanical Garden of the University of Lomé, Togo. MDPI AG.",
+   "doi": "10.3390/insects10070218"
+  }
+ ]
+}

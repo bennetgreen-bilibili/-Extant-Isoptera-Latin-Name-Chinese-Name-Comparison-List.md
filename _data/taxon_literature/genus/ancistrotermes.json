@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "巢室的空间格局",
+   "heading_en": "Spatial pattern of nest chambers",
+   "heading_es": "Patrón espacial de las cámaras del nido",
+   "paragraphs": [
+    {
+     "text": "据摘要，同一调查中宽背钩白蚁（Ancistrotermes latinotus）有 54 个被占用的巢室；与小白蚁属（Microtermes）两个种近随机散布的巢室不同，钩白蚁属（Ancistrotermes）该种的巢室聚成小簇并以长跑道相连。",
+     "text_en": "According to the abstract, in the same survey <i>Ancistrotermes latinotus</i> occupied 54 nest chambers; unlike the almost randomly scattered chambers of the two <i>Microtermes</i> species, its chambers were clustered in small groups connected by long runways.",
+     "text_es": "Según el resumen, en el mismo estudio <i>Ancistrotermes latinotus</i> ocupaba 54 cámaras; a diferencia de las cámaras casi dispersas al azar de las dos especies de <i>Microtermes</i>, sus cámaras se agrupaban en pequeños conjuntos conectados por largas galerías.",
+     "src": [
+      "S0193"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0193",
+   "citation": "Bigger, M. 1966. The biology and control of termites damaging field crops in Tanganyika. Bulletin of Entomological Research.",
+   "doi": "10.1017/S0007485300056509"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "纳米布沙漠的地下觅食隧道",
+   "heading_en": "Subterranean foraging tunnels in the Namib Desert",
+   "heading_es": "Túneles de forrajeo subterráneos en el desierto del Namib",
+   "paragraphs": [
+    {
+     "text": "根据 Tschinkel（2010）对纳米比亚 NamibRand 自然保护区的海恩斯细颈白蚁（Baucaliotermes hainesi）的研究，该种以地下隧道觅食：巢常露出地表成 10–15 cm 高的小丘，地下至少延伸 60 cm；隧道位于地表下 5–15 cm，以胶结砂粒为壁，从巢向外辐射至少 10–15 m，主隧道之间有横向连接；每隔 50–75 cm（标准差 14–40 cm）有 1 条通往地面的竖直竖井，竖井白天关闭，故觅食个体在地面行走很少超过 0.5–1 m；隧道横断面中央为光滑隆起的走道，两侧凹囊用于暂存从地面采回的草片段。",
+     "text_en": "According to Tschinkel's (2010) study of <i>Baucaliotermes hainesi</i> in the NamibRand Nature Reserve, Namibia, this species forages along subterranean tunnels: the nest often protrudes as a mound 10–15 cm high and extends at least 60 cm below ground; the tunnels lie 5–15 cm below the surface, are lined with cemented sand and radiate at least 10–15 m from the nest, with cross tunnels linking the main ones; every 50–75 cm (SD 14–40 cm) a vertical riser opens to the surface, and the risers are closed during the day, so foragers rarely walk more than 0.5–1 m above ground; in cross-section each tunnel has a smooth raised central walkway flanked by depots where grass fragments collected on the surface are temporarily stored.",
+     "text_es": "Según el estudio de Tschinkel (2010) sobre <i>Baucaliotermes hainesi</i> en la reserva natural de NamibRand, Namibia, esta especie forrajea por túneles subterráneos: el nido suele sobresalir como un montículo de 10–15 cm de alto y se extiende al menos 60 cm bajo el suelo; los túneles se sitúan a 5–15 cm de profundidad, están revestidos de arena cementada y se irradian al menos 10–15 m desde el nido, con túneles transversales que unen los principales; cada 50–75 cm (DE 14–40 cm) un pozo vertical alcanza la superficie y los pozos permanecen cerrados durante el día, por lo que los individuos que forrajean rara vez caminan más de 0,5–1 m sobre el suelo; en sección transversal cada túnel presenta una pasarela central lisa y elevada flanqueada por depósitos donde se almacenan temporalmente los fragmentos de hierba recogidos en la superficie.",
+     "src": [
+      "S0185"
+     ]
+    },
+    {
+     "text": "同一研究解剖 1 个巢并计数约 45,000 头：工蚁约 32,300 头（71%，干重 36 g）、兵蚁约 4,100 头（9.1%，3 g）、具翅芽的未成熟生殖蚁约 2,800 头（6.2%，5 g）、未成熟个体约 6,000 头（13%）；巢内未见原始生殖蚁与「王台」，作者据此推测所解剖的可能是副巢。巢由胶结砂外壳与内层平滑拱面构成，巢内草片段干重合计约 15 g，其中 10–20 cm 层约 10.5 g；该种取食干草，分布限于纳米比亚南部与南非西北开普省。作者另记前奇白蚁属（Promirotermes）1 个种在同一巢的硬外壳内共栖。",
+     "text_en": "The same study dissected one nest and counted about 45,000 termites: roughly 32,300 workers (71%, 36 g dry mass), 4,100 soldiers (9.1%, 3 g), 2,800 immature reproductives with wing buds (6.2%, 5 g) and about 6,000 immatures (13%); no primary reproductives and no royal cell were found, so the authors suggest the dissected nest may have been a satellite nest. The nest consists of a cemented sand carapace and a smooth vaulted inner layer, and the grass fragments inside weighed about 15 g in total, of which about 10.5 g lay in the 10–20 cm layer; the species feeds on dry grass and is restricted to southern Namibia and the north-western Cape Province of South Africa.",
+     "text_es": "El mismo estudio diseccionó un nido y contó unos 45.000 individuos: aproximadamente 32.300 obreros (71%, 36 g de masa seca), 4.100 soldados (9,1%, 3 g), 2.800 reproductores inmaduros con esbozos alares (6,2%, 5 g) y unos 6.000 inmaduros (13%); no se hallaron reproductores primarios ni celda real, por lo que los autores sugieren que el nido diseccionado podría ser un nido satélite. El nido consta de una coraza de arena cementada y una capa interna lisa y abovedada, y los fragmentos de hierba en su interior pesaban unos 15 g en total, de los cuales unos 10,5 g estaban en el estrato de 10–20 cm; la especie se alimenta de hierba seca y se limita al sur de Namibia y al noroeste de la provincia del Cabo, Sudáfrica.",
+     "src": [
+      "S0185"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0185",
+   "citation": "Tschinkel, W. R. 2010. The foraging tunnel system of the Namibian desert termite, Baucaliotermes hainesi. Journal of Insect Science 10.",
+   "doi": "10.1673/031.010.6501"
+  }
+ ]
+}

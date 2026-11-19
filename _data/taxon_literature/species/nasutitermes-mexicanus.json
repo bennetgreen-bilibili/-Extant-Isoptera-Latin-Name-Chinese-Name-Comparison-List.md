@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn（2016）研究，墨西哥象白蚁（<i>Nasutitermes mexicanus</i>）由象白蚁属（<i>Nasutitermes</i>）转入微白蚁属（<i>Parvitermes</i>），成为墨西哥微白蚁（<i>Parvitermes mexicanus</i>），是中美洲大陆该属 3 种之一。",
+     "text_en": "According to Scheffrahn (2016), <i>Nasutitermes mexicanus</i> was transferred from <i>Nasutitermes</i> to <i>Parvitermes</i> and became <i>Parvitermes mexicanus</i>, one of the three mainland Middle American species of the genus.",
+     "text_es": "Según Scheffrahn (2016), <i>Nasutitermes mexicanus</i> fue transferida de <i>Nasutitermes</i> a <i>Parvitermes</i> y pasó a ser <i>Parvitermes mexicanus</i>, una de las tres especies del género del territorio continental de América Central.",
+     "src": [
+      "S0106"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0106",
+   "citation": "Scheffrahn R. H. 2016 Parvitermes (Isoptera, Termitidae, Nasutitermitinae) in Central America: Two new termite species and reassignment of Nasutitermes mexicanus.",
+   "doi": "10.3897/zookeys.617.10040"
+  }
+ ]
+}

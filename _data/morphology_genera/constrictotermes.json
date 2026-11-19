@@ -1,0 +1,25 @@
+{
+ "zh_name": "缩白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头壳在触角窝后方明显呈哑铃状缢缩，凹陷之前的头背轮廓仅略长于凹陷之后，鼻相对短而呈锥形，触角 14–15 节。这套组合足以把它与 Coarctotermes（鼻长而粗、锥形，触角 12–13(–14) 节，头前部远长于后部）、Tenuirostritermes（鼻细、柱形，触角 11–13 节）和 Grallatotermes（鼻短而极宽锥形，头在触角后方不呈哑铃状缢缩）分开。有翅成虫则依头宽卵形、向前明显变窄、后头扁圆，配合较小而强烈突出的复眼、唇基与额同色或仅略浅，区别于 Velocitermes 与 Tenuirostritermes（头卵形、后头发达）。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头宽卵形，前部明显收窄，后头扁圆而平缓；复眼位于头侧，相对小、强烈突出；唇基短于或约等于其半宽，与额同色或仅略浅；触角节稍伸长；前胸背板相对大。在原文检索表中，本属与 Rotunditermes（眼极大）、Diversitermes（眼中等大）同置于「上颚第一齿约与第二齿等长、唇基等于或略短于半宽」的一支。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "属 Constrictus 群，兵型单一。头壳在触角窝后方呈哑铃状缢缩；头背轮廓在凹陷之前仅略长于凹陷之后，凹陷本身强烈而清晰；鼻相对短，锥形；触角 14–15 节。"
+  }
+ ],
+ "note": "Holmgren 1912 在 Eutermes 属下建立的亚属，名录列为第 14 亚属，含 cavifrons Holmgren（苏里南）、cyphergaster Silvestri、latinotus Holmgren（厄瓜多尔）。1912 年原文只给出检索表条目与亚属名录，未写工蚁属征，故不设工蚁段。有翅成虫段里的「检索表位置」是就检索分支而言，不是完整描述。",
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+   "locator": "pp. 59–62（Übersicht der Untergattungen：Imagines 与 Soldaten 检索表）；p. 65（亚属名录第 14 亚属）"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "book_n": "61",
+ "book_name": "楔头新白蚁 Neotermes sphenocephalus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "楔头新白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.77",
+     "value": "2.59–2.90"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "2.02",
+     "value": "1.99–2.07"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.56",
+     "value": "1.52–1.62"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.35",
+     "value": "0.28–0.40"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.46",
+     "value": "0.45–0.47"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.58",
+     "value": "1.48–1.68"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.85",
+     "value": "1.62–2.02"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.75",
+     "value": "0.71–0.77"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.33",
+     "value": "0.30–0.34"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.80",
+     "value": "0.74–0.88"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.97",
+     "value": "1.82–2.12"
+    },
+    {
+     "key": "hind_femur_length",
+     "mean": "1.17",
+     "value": "1.01–1.21"
+    },
+    {
+     "key": "hind_femur_width",
+     "mean": "0.42",
+     "value": "0.37–0.47"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.27",
+     "value": "1.18–1.35"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 1398,
+   "unit": "mm"
+  }
+ ]
+}

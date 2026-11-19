@@ -1,0 +1,24 @@
+{
+ "zh_name": "齿尖白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁具细长、弹射式（snapping）的上颚，头部有圆锥形头额突起（cephalic projection，即额突），并具发达的大型黄色下唇腺、向后延伸深入腹部；属土食性，工蚁肠瓣盔甲（enteric valve armature，EVA）具高度鉴别性。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "上颚细长、弹射式；多数种上颚具边缘齿（唯 D. brevicarinatus 无边缘齿）；末端钩约占上颚全长的 1/7（多数种）或约 1/3（D. pantanalis）；额突的形态（浅/陡、三角/狭梯形、后缘与头顶平面的夹角）为种间鉴别特征。"
+  },
+  {
+   "label": "工蚁",
+   "text": "土食性；肠瓣盔甲具高度鉴别性，但种内无明显差异。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0102",
+   "citation": "Scheffrahn, R. H. 2024. Dentispicotermes trapezia (Isoptera: Termitidae: Amitermitinae), a new termite species from the Pantanal-Chaco Region of South America. Zootaxa 5536(3): 447–453. doi:10.11646/zootaxa.5536.3.4",
+   "locator": "pp. 447–448"
+  }
+ ]
+}

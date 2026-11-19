@@ -1,0 +1,25 @@
+{
+ "zh_name": "魔白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头壳宽圆而鼻呈圆锥柱状、长而细；上唇短，背面观不可见；触角 13 节，稍伸过鼻端；前胸背板宽约为头宽之半。工蚁单型，左颚磨突大而圆、无脊，右颚第 3 缘齿几近消失。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头壳宽而圆；鼻圆锥柱状，长而细；上唇短，背面观不可见；退化上颚无端尖；触角 13 节，略伸过鼻端；前胸背板宽约为头宽之半；头几乎光裸，仅头顶少数刚毛与鼻端毛。"
+  },
+  {
+   "label": "工蚁",
+   "text": "单型；头壳圆，最宽处在头前部；后唇基中度膨大；触角 14 节；头部刚毛少；上颚端齿发达，内缘凹；左颚磨突大而圆、无脊；右颚第 3 缘齿退化几近消失，磨板凹。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0088",
+   "citation": "Constantino, R. 1990. Anhangatermes macarthuri, a new genus and species of soil-feeding nasute termite from Amapa, Brazil (Isoptera, Termitidae, Nasutitermitinae). Goeldiana Zoologia 3.",
+   "locator": "pp. 2-3"
+  }
+ ],
+ "note": "原文明确写「IMAGO - Unknown」，故不设有翅成虫一节；原文另有体毛、胫节距 2:2:2 与肠管性状，因本节引文未覆盖，正文从略。"
+}

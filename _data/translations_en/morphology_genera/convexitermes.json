@@ -1,0 +1,17 @@
+{
+ "note": "A subgenus established by Holmgren 1912 and listed as the 7th subgenus in the catalogue, containing convexifrons Holmgren (Peru) and nigricornis Holmgren (Peru). The original has no worker characters; the worker clypeal character mentioned in the last sentence of the Soldier section is only a key aid and does not suffice for a Worker section. The Alate and Soldier sections lie in different main key branches and only together form the diagnostic combination of the genus; they must not be taken as a complete description of a single caste.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "In the key, the alates and soldiers of this genus run in different main branches. In the alate, the 1st marginal tooth of the mandible is distinctly larger than the 2nd, the head is broadly oval and usually narrows anteriorly, and the fontanelle lies far back on the head; the soldiers are small species with no apical part on the mandibles, a short, thick, conical nasus, 11-segmented antennae and a convex frontal profile. On this basis the soldier is distinguished from Occasitermes (nasus long and thick, conical, antennae 13-segmented, frontal profile straight) and Eutermellus (head slightly constricted behind the antennae)."
+  },
+  {
+   "label": "Alate",
+   "text": "The 1st marginal tooth of the mandible distinctly larger than the 2nd; head broadly oval, usually narrowing anteriorly; fontanelle far back on the head; brain well developed within the head (given as Gehirn stark entwickelt in the original); clypeus about as long as half its width, or shorter but strongly convex, transversely oval and pale yellow."
+  },
+  {
+   "label": "Soldier",
+   "text": "Small species. Mandibles without an apical part (Spitzenteil); nasus short, thick, conical; antennae 11-segmented; frontal profile (Stirnprofil) convex. The key additionally uses the worker clypeus, whose base is about as long as half its width, as an auxiliary character of the branch containing this genus."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "latin": "Anacanthotermes",
+ "zh": "无刺白蚁属",
+ "family": "hodotermitidae",
+ "treatise": true,
+ "citation": "Anacanthotermes Jacobson, 1905: 75 [first introduced as a subgenus of Hodotermes Hagen, 1853].",
+ "type_species": "Termes ochraceus Burmeister, 1839; = Hodotermes ochraceus (Burmeister), 1839 by subsequent designation; see Fuller, 1921: 32 [authorship of the type species mistakenly assigned to Hagen].",
+ "references": [
+  {
+   "ref": "Desneux, 1904b: 15",
+   "note": "Hodotermes (Anacanthotermes) [part]; nomen nudum; reference list; characters; key; species included; distribution."
+  },
+  {
+   "ref": "Holmgren, 1911a: 10, 43",
+   "note": "Hodotermes (Anacanthotermes); key; species included."
+  },
+  {
+   "ref": "Sjöstedt, 1926d: 9, 21",
+   "note": "Anacanthotermes; reference list; key."
+  },
+  {
+   "ref": "Snyder, 1934a: 24, 27",
+   "note": "Hodotermes (Anacanthotermes); key."
+  },
+  {
+   "ref": "Ahmad, 1955b: 207",
+   "note": "Anacanthotermes; key."
+  },
+  {
+   "ref": "Weidner, 1955f: 52, 53, 69",
+   "note": "Anacanthotermes; key; number of species; distribution."
+  },
+  {
+   "ref": "Ahmad, 1958: 56",
+   "note": "Anacanthotermes; key."
+  },
+  {
+   "ref": "Weidner, 1958: 8, 9",
+   "note": "Anacanthotermes; key."
+  }
+ ],
+ "nrefs": 46
+}

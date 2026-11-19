@@ -1,0 +1,25 @@
+{
+ "zh_name": "狭鼻白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫第 3 flagellar 节短于第 1 flagellar 节；大兵蚁上唇明显伸长，端部常伸达上颚末端，而鼻白蚁属（Rhinotermes）的上唇近方形且短得多；小兵蚁额腺开口位于头前部，但不着生在明显的头突上，上颚退化、边缘圆，头背面观侧缘直或凸。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "第 3 flagellar 节短于第 1 flagellar 节。现生种 D. lanciarius 的有翅成虫原文记作「Imago. Unknown.」；化石种 D. apopnus 的有翅成虫：头大而宽圆，前唇基前伸成宽的喙状突起，额腺小、位于喙基，复眼大而外凸，单眼大而伸长、不与复眼相接。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "大兵蚁：头后部较宽，侧缘缓圆、向前收窄；左上颚具两粗齿，第一齿位于中点稍前、第二齿稍后，第一齿明显长于第二齿；右上颚两齿接近中点，第一齿短于第二齿；上唇伸长，端部圆、无凹缺，背面具纵向浅凹；触角至少 14 节，第 3 flagellar 节明显短于第 1 节；前胸背板鞍形。小兵蚁：头侧缘弱凸、向前收窄，后缘圆；触角 16 节，第 3 flagellar 节明显短于第 1 节；上颚退化为宽肉质叶，仅具微小硬化尖；上唇窄长，端部分叉，两叉侧突相距较远。"
+  }
+ ],
+ "note": "有翅成虫节只能依据属级鉴别句（第 3 flagellar 节短于第 1 节）与化石种 D. apopnus 的记述，现生种有翅成虫原文明确为未知。p. 2 为双栏，文本层按栏裁切后重排；引文中的连字符断行（subquad-rate）已合并，词句未改。",
+ "sources": [
+  {
+   "id": "S0042",
+   "citation": "Engel, M. S.; Krishna, K. 2007. New Dolichorhinotermes from Ecuador and in Mexican amber (Isoptera: Rhinotermitidae). American Museum Novitates 3592: 1–8. https://doi.org/10.1206/0003-0082(2007)3592[1:NDFEAI]2.0.CO;2",
+   "locator": "p. 2 (genus diagnosis); pp. 2–3 (D. lanciarius, major and minor soldier)"
+  }
+ ]
+}

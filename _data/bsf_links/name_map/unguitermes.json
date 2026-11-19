@@ -1,0 +1,79 @@
+{
+ "Unguitermes acutifrons": {
+  "label": "Unguitermes acutifrons (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85143,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85143/overview",
+  "valid_label": null,
+  "valid_otu": 85143,
+  "verified": false
+ },
+ "Unguitermes bidentatus": {
+  "label": "Unguitermes bidentatus (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85144,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85144/overview",
+  "valid_label": null,
+  "valid_otu": 85144,
+  "verified": false
+ },
+ "Unguitermes bouilloni": {
+  "label": "Unguitermes bouilloni Harris, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 85145,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85145/overview",
+  "valid_label": null,
+  "valid_otu": 85145,
+  "verified": false
+ },
+ "Unguitermes magnus": {
+  "label": "Unguitermes magnus Ruelle, 1973",
+  "match": "exact",
+  "notes": "",
+  "otu": 85146,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85146/overview",
+  "valid_label": null,
+  "valid_otu": 85146,
+  "verified": false
+ },
+ "Unguitermes proclivifrons": {
+  "label": "Unguitermes proclivifrons Ruelle, 1973",
+  "match": "exact",
+  "notes": "",
+  "otu": 85147,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85147/overview",
+  "valid_label": null,
+  "valid_otu": 85147,
+  "verified": false
+ },
+ "Unguitermes trispinosus": {
+  "label": "Unguitermes trispinosus Ruelle, 1973",
+  "match": "exact",
+  "notes": "",
+  "otu": 85148,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85148/overview",
+  "valid_label": null,
+  "valid_otu": 85148,
+  "verified": false
+ },
+ "Unguitermes unidentatus": {
+  "label": "Unguitermes unidentatus Ruelle, 1973",
+  "match": "exact",
+  "notes": "",
+  "otu": 85149,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85149/overview",
+  "valid_label": null,
+  "valid_otu": 85149,
+  "verified": false
+ }
+}

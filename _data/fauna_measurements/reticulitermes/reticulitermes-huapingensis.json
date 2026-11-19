@@ -1,0 +1,46 @@
+{
+ "book_n": "175",
+ "book_name": "花坪散白蚁 Reticulitermes",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "成虫量度",
+   "label_en": "Imago measurements",
+   "label_es": "Medidas de imago",
+   "label_zh": "成虫量度",
+   "rows": [
+    {
+     "key": "body_length_with_wings",
+     "value": "11.04–12.42"
+    },
+    {
+     "key": "body_length",
+     "value": "6.21–7.45"
+    },
+    {
+     "key": "head_length_labrum_tip",
+     "value": "1.45–1.57"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "value": "1.11–1.23"
+    },
+    {
+     "key": "head_width",
+     "value": "0.95–1.15"
+    },
+    {
+     "key": "eye_head_lower_margin",
+     "value": "0.17–0.22"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.96–1.07"
+    }
+   ],
+   "src_file": "401-500.txt",
+   "src_line": 1150,
+   "unit": "mm"
+  }
+ ]
+}

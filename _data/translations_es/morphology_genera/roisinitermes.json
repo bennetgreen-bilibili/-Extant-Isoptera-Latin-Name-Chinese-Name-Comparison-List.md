@@ -1,0 +1,17 @@
+{
+ "note": "A nivel genérico solo se establecen las secciones de alado y de soldado; el original no trata por separado al obrero (la especie presenta pseudergates y ninfas braquípteras, y las ninfas solo cuentan con una tabla de medidas de nivel específico), por lo que no se incluyen las secciones «Obrero» ni «Ninfa». No se dan medidas de nivel genérico; todas las medidas son de nivel específico (alado: Table 1; soldado: Table 2).",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Único género de Kalotermitidae con mandíbulas de tipo chasqueante (snapping): las mandíbulas del soldado son finamente baciliformes y de dentición muy débil; el alado carece de ocelos visibles (ocelli), lo que constituye también una excepción única en la familia. Según la clave genérica de Krishna (1961), el alado se sitúa en el par 2 (Epicalotermes) y el soldado en el par 17 (Allotermes). Las mandíbulas del soldado se parecen algo a las delgadas y alargadas, con dientes casi degenerados, de Allotermes (en especial A. denticulatus), pero en este género las mandíbulas se curvan hacia abajo en vista lateral, rasgo único entre los kalotérmidos de mandíbulas proyectadas hacia delante; aunque la nerviación alar y la dentición del alado son muy próximas a las de Epicalotermes, el soldado no comparte con él ningún carácter principal."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza y pronoto de color naranja parduzco claro, los terguitos abdominales más claros, del mismo color que las patas y el labro; el postclípeo (postclypeus) casi transparente. Los ojos compuestos son de tamaño medio y prominentes, ovales, truncados junto a la fosa antenal, y constan de unos 85 omatidios; los ocelos carecen tanto de pigmento como de protuberancia córnea y resultan por completo invisibles. Antenas de más de 9 segmentos, con la fórmula 1>2=3=4<5 (registros específicos: 14–17 segmentos). El pronoto es unas 2 veces más ancho que su longitud media y lleva en los márgenes laterales varias setas largas y setas más cortas. En el ala anterior, M y Cu están unidas por un pecíolo más allá de la sutura de la escama, el radio sector (Rs) presenta 5–6 ramas anteriores y la subcosta (Sc) se adosa al margen costal y es difícil de distinguir; en el ala posterior, Rs y Cu están unidas por un pecíolo por detrás de la sutura. Fórmula de espolones tibiales 3:3:3, tarsos sin arolio (arolium). El margen anterior del diente marginal de la mandíbula izquierda es aproximadamente 1.5 veces la longitud conjunta de su margen posterior y del margen posterior del segundo diente marginal; el margen posterior del segundo diente marginal de la mandíbula derecha mide 1.4 veces la longitud de la placa molar (molar plate)."
+  },
+  {
+   "label": "Soldado",
+   "text": "Monotípico. La mancha ocular es patente, grande y de color pardo oscuro. La frente (frons), en vista dorsal, es bilobulada y está cubierta de crestas longitudinales rugosas, dispuestas longitudinalmente por debajo de la frente; el extremo de la parte ventral de la gena lleva una pequeña protuberancia córnea. Las mandíbulas son finamente baciliformes y se curvan hacia abajo en vista lateral; la dentición es muy débil y la elevación basal se proyecta aguda hacia delante."
+  }
+ ]
+}

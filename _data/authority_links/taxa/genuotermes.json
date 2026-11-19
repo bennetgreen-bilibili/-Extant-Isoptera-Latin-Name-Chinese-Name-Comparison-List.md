@@ -1,0 +1,24 @@
+{
+ "Genuotermes spinifer": {
+  "gbif": {
+   "key": 9325831,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Genuotermes spinifer Emerson, 1950",
+   "accepted": null
+  },
+  "col": {
+   "id": "3FNQC",
+   "status": "accepted",
+   "label": "Genuotermes spinifer Emerson, 1950",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251699",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

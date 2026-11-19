@@ -1,0 +1,63 @@
+{
+ "book_n": "236",
+ "book_name": "连平杆白蚁 Stylotermes lianpingensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "连平杆白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.58",
+     "value": "1.52–1.63"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.25",
+     "value": "1.20–1.33"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.42",
+     "value": "0.38–0.44"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.47",
+     "value": "0.46–0.48"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.62",
+     "value": "1.53–1.68"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.81",
+     "value": "1.73–2.01"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.64",
+     "value": "0.61–0.68"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.31",
+     "value": "1.20–1.40"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.29",
+     "value": "1.25–1.33"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 830,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "fetched_at": "2026-10-30T15:46:13Z",
+ "latin": "Ampoulitermes",
+ "papers": [
+  {
+   "abstract": "",
+   "abstract_chars": 0,
+   "abstract_source": "",
+   "abstract_truncated": false,
+   "authors": [
+    "Edwin Joseph",
+    "Sony Joseph",
+    "V. P. Sandra",
+    "M. D. Jerin",
+    "Anita Binu",
+    "B. Radhika",
+    "S. Samyuktha",
+    "Liz Merin Renjith",
+    "Jobin Mathew"
+   ],
+   "cited_by": 3,
+   "date": "2024-11-25",
+   "doi": "10.1007/s42690-024-01387-2",
+   "doi_url": "https://doi.org/10.1007/s42690-024-01387-2",
+   "id": "https://openalex.org/W4404677027",
+   "issue": "6",
+   "language": "en",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W4404677027",
+   "pages": "2857-2862",
+   "title": "A new species of an endemic termite Ampoulitermes zacharia sp.nov (Blattodea: Isoptera: Termitidae: Nasutitermitinae) from Idukki, Kerala, India",
+   "type": "article",
+   "venue": "International Journal of Tropical Insect Science",
+   "volume": "44",
+   "year": 2024
+  },
+  {
+   "abstract": "The present study documents new distributional records of thirteen termite species from four Indian states. Taxonomic studies revealed five species as new addition to the termite fauna of both Arunachal Pradesh and Odisha, while two species are added to the termite fauna of Tamil Nadu and one species to West Bengal. The Indian endemic genus Ampoulitermes Mathur and Thapa, 1962 and genus Pericapritermes Silvestri, 1914 are reported for the first time from Tamil Nadu and Odisha respectively. These findings not only contribute to the understanding of termite diversity in India but also highlight the significance of continued taxonomic surveys in underexplored regions.",
+   "abstract_chars": 673,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Mousumi Roy",
+    "J. Basak",
+    "Balmohan Baraik",
+    "Keloth Rajmohana"
+   ],
+   "cited_by": 1,
+   "date": "2025-09-30",
+   "doi": "10.33307/entomon.v50i3.1531",
+   "doi_url": "https://doi.org/10.33307/entomon.v50i3.1531",
+   "id": "https://openalex.org/W4415604244",
+   "issue": "3",
+   "language": "en",
+   "oa_url": "https://entomon.in/index.php/Entomon/article/download/1531/757",
+   "openalex_url": "https://openalex.org/W4415604244",
+   "pages": "355-362",
+   "title": "New state records and distributional range extensions of termite species in India",
+   "type": "article",
+   "venue": "ENTOMON",
+   "volume": "50",
+   "year": 2025
+  }
+ ],
+ "zh": "安瓿白蚁属"
+}

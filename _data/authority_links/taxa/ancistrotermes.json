@@ -1,0 +1,396 @@
+{
+ "Ancistrotermes cavithorax": {
+  "gbif": {
+   "key": 9763456,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ancistrotermes cavithorax (Sjöstedt, 1899)",
+   "accepted": null
+  },
+  "col": {
+   "id": "DMXD",
+   "status": "accepted",
+   "label": "Ancistrotermes cavithorax (Sjöstedt, 1899)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q124987099",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ancistrotermes crassiceps": {
+  "gbif": {
+   "key": 9727435,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ancistrotermes crassiceps Zhu & Wang, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "66M5G",
+   "status": "accepted",
+   "label": "Ancistrotermes crassiceps Zhu & Wang, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234808",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ancistrotermes crucifer": {
+  "gbif": {
+   "key": 9771362,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ancistrotermes crucifer (Sjöstedt, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "DMXF",
+   "status": "accepted",
+   "label": "Ancistrotermes crucifer (Sjöstedt, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234809",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ancistrotermes crucifer crucifer": {
+  "gbif": {
+   "key": 9731695,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Ancistrotermes crucifer crucifer (Sjöstedt, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "KZQJG",
+   "status": "accepted",
+   "label": "Ancistrotermes crucifer crucifer (Sjöstedt, 1897)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ancistrotermes crucifer diversana": {
+  "gbif": {
+   "key": 9815981,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Ancistrotermes crucifer diversana Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "KZQJH",
+   "status": "accepted",
+   "label": "Ancistrotermes crucifer diversana Silvestri, 1914",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ancistrotermes dimorphus": {
+  "gbif": {
+   "key": 9783365,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ancistrotermes dimorphus (Tsai & Chen, 1963)",
+   "accepted": null
+  },
+  "col": {
+   "id": "DMXG",
+   "status": "accepted",
+   "label": "Ancistrotermes dimorphus (Tsai & Chen, 1963)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234810",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ancistrotermes dubius": {
+  "gbif": {
+   "key": 9743813,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ancistrotermes dubius Sjöstedt, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "DMXH",
+   "status": "accepted",
+   "label": "Ancistrotermes dubius Sjöstedt, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234813",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ancistrotermes equatorius": {
+  "gbif": {
+   "key": 9739470,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ancistrotermes equatorius Harris, 1966",
+   "accepted": null
+  },
+  "col": {
+   "id": "DMXJ",
+   "status": "accepted",
+   "label": "Ancistrotermes equatorius Harris, 1966",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234814",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ancistrotermes ganlanbaensis": {
+  "gbif": {
+   "key": 9700395,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ancistrotermes ganlanbaensis Zhu & Huang, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "DMXK",
+   "status": "accepted",
+   "label": "Ancistrotermes ganlanbaensis Zhu & Huang, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234815",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ancistrotermes guineensis": {
+  "gbif": {
+   "key": 9791388,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ancistrotermes guineensis (Silvestri, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "DMXL",
+   "status": "accepted",
+   "label": "Ancistrotermes guineensis (Silvestri, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234816",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ancistrotermes hekouensis": {
+  "gbif": {
+   "key": 9662400,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ancistrotermes hekouensis Zhu & Wang, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "DMXM",
+   "status": "accepted",
+   "label": "Ancistrotermes hekouensis Zhu & Wang, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234817",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ancistrotermes latinotus": {
+  "gbif": {
+   "key": 9708045,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ancistrotermes latinotus (Holmgren, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "DMXN",
+   "status": "accepted",
+   "label": "Ancistrotermes latinotus (Holmgren, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q124987118",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ancistrotermes menglianensis": {
+  "gbif": {
+   "key": 9719939,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ancistrotermes menglianensis Zhu & Wang, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "DMXP",
+   "status": "accepted",
+   "label": "Ancistrotermes menglianensis Zhu & Wang, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234818",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ancistrotermes microdens": {
+  "gbif": {
+   "key": 9677087,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ancistrotermes microdens Harris, 1966",
+   "accepted": null
+  },
+  "col": {
+   "id": "DMXQ",
+   "status": "accepted",
+   "label": "Ancistrotermes microdens Harris, 1966",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234819",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ancistrotermes pakistanicus": {
+  "gbif": {
+   "key": 9669915,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ancistrotermes pakistanicus (Ahmad, 1955)",
+   "accepted": null
+  },
+  "col": {
+   "id": "DMXR",
+   "status": "accepted",
+   "label": "Ancistrotermes pakistanicus (Ahmad, 1955)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234820",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ancistrotermes periphrasis": {
+  "gbif": {
+   "key": 9811544,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ancistrotermes periphrasis Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "DMXS",
+   "status": "accepted",
+   "label": "Ancistrotermes periphrasis Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234821",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ancistrotermes wasmanni": {
+  "gbif": {
+   "key": 9693049,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ancistrotermes wasmanni Snyder & Emerson, 1949",
+   "accepted": null
+  },
+  "col": {
+   "id": "DMXT",
+   "status": "accepted",
+   "label": "Ancistrotermes wasmanni Snyder & Emerson, 1949",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234822",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ancistrotermes xiai": {
+  "gbif": {
+   "key": 9759197,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ancistrotermes xiai Zhu & Huang, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "66LTD",
+   "status": "accepted",
+   "label": "Ancistrotermes xiai Zhu & Huang, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234823",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

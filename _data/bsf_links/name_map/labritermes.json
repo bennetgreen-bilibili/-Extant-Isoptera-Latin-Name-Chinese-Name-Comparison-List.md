@@ -1,0 +1,35 @@
+{
+ "Labritermes buttelreepeni": {
+  "label": "Labritermes buttelreepeni Holmgren, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 83900,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83900/overview",
+  "valid_label": null,
+  "valid_otu": 83900,
+  "verified": false
+ },
+ "Labritermes emersoni": {
+  "label": "Labritermes emersoni Adams & Krishna, 1982",
+  "match": "exact",
+  "notes": "",
+  "otu": 83901,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83901/overview",
+  "valid_label": null,
+  "valid_otu": 83901,
+  "verified": false
+ },
+ "Labritermes kistneri": {
+  "label": "Labritermes kistneri Adams & Krishna, 1982",
+  "match": "exact",
+  "notes": "",
+  "otu": 83902,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83902/overview",
+  "valid_label": null,
+  "valid_otu": 83902,
+  "verified": false
+ }
+}

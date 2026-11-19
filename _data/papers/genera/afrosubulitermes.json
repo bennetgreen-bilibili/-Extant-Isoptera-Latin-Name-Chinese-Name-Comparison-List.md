@@ -1,0 +1,31 @@
+{
+ "fetched_at": "2026-10-30T15:45:41Z",
+ "latin": "Afrosubulitermes",
+ "papers": [
+  {
+   "abstract": "Winged termites vary in size, from the large Macrotermes with a body length of 19–20 mm and a wing span of about 90 mm, to Afrosubulitermes, which is 4–5 mm long and has a wing span of 9–10 mm. Their color ranges from light to dark brown, and their wings vary from transparent to dark brown. The head is round or slightly oval and flattened above and there are usually large mandibles. In the families Rhinotermitidae and Termitidae, there is a small pore, the fontanelle, medially on the frontal region, usually behind the posterior margin of the eyes. It is the external opening of the frontal gland. In the soldiers of some species, this external gland opening has been modified for the purposes of defense. The compound eyes are large and in all families except Termopsidae and Hodotermitidae there are ocelli situated near the upper border of the eyes. The antennae are long and there are 15–32 beadlike segments. Variations in the number of segments are sometimes related to the number of molts in the nymph stage; the two antennae may not always have the same number of segments.",
+   "abstract_chars": 1086,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "William H. Robinson"
+   ],
+   "cited_by": 0,
+   "date": "2009-12-22",
+   "doi": "10.1017/cbo9780511542718.011",
+   "doi_url": "https://doi.org/10.1017/cbo9780511542718.011",
+   "id": "https://openalex.org/W2132603464",
+   "issue": "",
+   "language": "en",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W2132603464",
+   "pages": "291-327",
+   "title": "Isoptera",
+   "type": "book-chapter",
+   "venue": "Cambridge University Press eBooks",
+   "volume": "",
+   "year": 2009
+  }
+ ],
+ "zh": "非锥白蚁属"
+}

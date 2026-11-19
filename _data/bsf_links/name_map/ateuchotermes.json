@@ -1,0 +1,90 @@
+{
+ "Ateuchotermes ctenopher": {
+  "label": "Ateuchotermes ctenopher Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84045,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84045/overview",
+  "valid_label": null,
+  "valid_otu": 84045,
+  "verified": false
+ },
+ "Ateuchotermes muricatus": {
+  "label": "Ateuchotermes muricatus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84046,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84046/overview",
+  "valid_label": null,
+  "valid_otu": 84046,
+  "verified": false
+ },
+ "Ateuchotermes pectinatus": {
+  "label": "Ateuchotermes pectinatus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84047,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84047/overview",
+  "valid_label": null,
+  "valid_otu": 84047,
+  "verified": false
+ },
+ "Ateuchotermes rastratus": {
+  "label": "Ateuchotermes rastratus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84048,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84048/overview",
+  "valid_label": null,
+  "valid_otu": 84048,
+  "verified": false
+ },
+ "Ateuchotermes retifaciens": {
+  "label": "Ateuchotermes retifaciens Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84049,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84049/overview",
+  "valid_label": null,
+  "valid_otu": 84049,
+  "verified": false
+ },
+ "Ateuchotermes sentosus": {
+  "label": "Ateuchotermes sentosus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84050,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84050/overview",
+  "valid_label": null,
+  "valid_otu": 84050,
+  "verified": false
+ },
+ "Ateuchotermes spinulatus": {
+  "label": "Ateuchotermes spinulatus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 84051,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84051/overview",
+  "valid_label": null,
+  "valid_otu": 84051,
+  "verified": false
+ },
+ "Ateuchotermes tranquillus": {
+  "label": "Ateuchotermes tranquillus (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84052,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84052/overview",
+  "valid_label": null,
+  "valid_otu": 84052,
+  "verified": false
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "latin": "Spinitermes",
+ "zh": "针刺白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Spinitermes Wasmann, 1897b: 152 [first introduced as a subgenus of Termes Linnaeus, 1758].",
+ "type_species": "Termes trispinosus Hagen, 1858c by original designation.",
+ "references": [
+  {
+   "ref": "Silvestri, 1903: 71",
+   "note": "Spinitermes; synonymy; characters."
+  },
+  {
+   "ref": "Escherich, 1909: 177",
+   "note": "Spinitermes; characters."
+  },
+  {
+   "ref": "Holmgren, 1912a: 107, 109",
+   "note": "Mirotermes (Spinitermes); key; species included. 2348 Bulletin of the American Museum of natural History\b No. 377"
+  },
+  {
+   "ref": "Morimoto, 1975b: 38",
+   "note": "Spinitermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 112, 114",
+   "note": "Spinitermes; synonymy; characters."
+  },
+  {
+   "ref": "Mill, 1983a: 181, 182",
+   "note": "Spinitermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Constantino, 1999a: 407, 418",
+   "note": "Spinitermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 24",
+   "note": "Spinitermes; key."
+  }
+ ],
+ "nrefs": 25
+}

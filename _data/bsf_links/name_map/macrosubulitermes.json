@@ -1,0 +1,13 @@
+{
+ "Macrosubulitermes greavesi": {
+  "label": "Macrosubulitermes greavesi (Hill, 1942)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84536,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84536/overview",
+  "valid_label": null,
+  "valid_otu": 84536,
+  "verified": false
+ }
+}

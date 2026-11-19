@@ -1,0 +1,21 @@
+{
+ "note": "This genus is monotypic, containing only this species; the following is the genus-level description based on the original literature; species-level measurements and intraspecific variation are given in the original.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Holmgren 1912 divided the genus into two sharply delimited subgenera: Neocapritermes (all the American species, plus the African C. alienus v. Rosen) and Capritermes s. str. (Old World species only). They are distinguished as follows: in the alate by the size of teeth 1 and 2, the number of antennal segments, the shape of the posterior margins of the meso- and metanota and the presence or absence of a radial vein in the forewing; in the soldier only by the presence or absence of the frontal gland pore — Neocapritermes has no frontal gland pore, Capritermes s. str. has one; in the worker by whether the anterior margin of the fore coxa is slightly disc-like and expanded, and by the size of tooth 1. The characters shared at generic level are: in the alate 15–17 antennal segments, segment 3 mostly short, the wing membrane dark with spine-like points, and the media close to the cubitus; in the soldier the head a long rectangle, flattened and raised, the mandibles of Capritermes type and asymmetrically curved, with 13–16 antennal segments; in the worker the head more or less pentagonal and rounded, with 13–15 antennal segments."
+  },
+  {
+   "label": "Alate",
+   "text": "The head is broadly oval and narrows anteriorly. The compound eyes are relatively small and mostly strongly projecting. The ocelli are variable in position and face laterally. The frontal gland pore is depressed. The base of the clypeus is flatly convex and shorter than half its width. The mandibles are of two kinds: either with a large apical tooth (in which case the posterior parts of the meso- and metanota are pointed and the antennae have (14–)15 segments), or with the first two teeth about equal in length (in which case the posterior parts of the meso- and metanota are broad, the mesonotum is almost non-emarginate, the metanotum broadly emarginate, the antennae have 17 segments and the forewing has a radial vein). There are 15–17 antennal segments, segment 3 mostly short. The wing membrane is dark with small points (spines). The media lies close to the cubitus. The fore tibia bears 3 apical spurs, the mid and hind tibiae 2 each."
+  },
+  {
+   "label": "Soldier",
+   "text": "The head is a slender rectangle, rarely narrowed anteriorly, flattened and raised. The frontal gland pore is mostly present and exposed on the front of the head; it is absent in all the American species and in the African C. alienus. The base of the clypeus is very narrow. The labrum is slender: either the lateral corners project and the middle is rounded or emarginate, or it is trilobed with very short, rounded lobes. The mandibles are of Capritermes type and asymmetrically curved. There are 13–16 antennal segments. The pronotum is small and saddle-shaped."
+  },
+  {
+   "label": "Worker",
+   "text": "The head is more or less pentagonal and rounded. The base of the clypeus is strongly raised and slightly shorter than half its width. The shape of tooth 1 of the mandibles is as in the alate. There are 13–15 antennal segments. The pronotum is saddle-shaped."
+  }
+ ]
+}

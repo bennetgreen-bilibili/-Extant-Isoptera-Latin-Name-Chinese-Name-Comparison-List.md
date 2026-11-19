@@ -1,0 +1,26 @@
+{
+ "zh_name": "弯肠白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "新热带无兵蚁类（Apicotermitinae）中的一枝，以工蚁肠瓣的组合特征界定：垫间角质无鳞片、肠瓣座（EVS）三叶——2023 年工蚁检索表第 14 对即以此组合直接检向本属。肠瓣（EVA）武装为分布于各垫中央部的小刺或尖鳞，垫的后部无鳞片。"
+  },
+  {
+   "label": "工蚁",
+   "text": "肠瓣座三叶，垫间角质裸露、无鳞片；肠瓣具小刺或尖鳞，尖鳞位于垫的中央部，各垫后部无鳞片。中肠舌（混合段）短、滴状，而非球形或延长。P1 与 P3 的连接在背面观呈三叶状肠瓣座。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0027",
+   "citation": "Carrijo T. F.; Castro D.; Wang M.; Constantini J. P.; Bourguignon T.; Cancello E. M.; Scheffrahn R. H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317-352. https://doi.org/10.3897/zookeys.1167.100001",
+   "locator": "Key to neotropical Apicotermitinae genera based on the worker caste, couplet 14 (Aparatermes 分支)；Key to neotropical Apicotermitinae genera based on the worker caste, couplet 12；Comparison and remarks (Mangolditermes)"
+  },
+  {
+   "id": "S0028",
+   "citation": "Constantini J. P.; Castro D.; Scheffrahn R. H. 2020. Rustitermes boteroi, a new genus and species of soldierless termites (Isoptera: Termitidae: Apicotermitinae) from South America. ZooKeys 922: 35-49. https://doi.org/10.3897/zookeys.922.47347",
+   "locator": "Comparison and remarks"
+  }
+ ],
+ "note": "无兵蚁（soldierless）。属级描述只见工蚁肠瓣与中肠舌；本批未采用种数与分布数据。"
+}

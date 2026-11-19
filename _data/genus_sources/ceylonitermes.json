@@ -1,0 +1,43 @@
+{
+ "latin": "Ceylonitermes",
+ "zh": "锡兰白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Ceylonitermes Holmgren, 1912a: 61, 64 [first introduced as a subgenus of Eutermes Heer, 1849].",
+ "type_species": "Eutermes escherichi Holmgren, 1911 by monotypy.",
+ "references": [
+  {
+   "ref": "Lal and Menon, 1953: 36",
+   "note": "Eutermes (Ceylonitermes); key."
+  },
+  {
+   "ref": "Ahmad, 1958: 89",
+   "note": "Ceylonitermes; key. 1548 Bulletin of the American Museum of natural History\b No. 377"
+  },
+  {
+   "ref": "Prashad and Sen-Sarma, 1966b: 3–4",
+   "note": "Ceylonitermes; generic characters; reference list; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 26",
+   "note": "Ceylonitermes; key."
+  },
+  {
+   "ref": "Sen-Sarma et al., 1975: 2, 9",
+   "note": "Ceylonitermes; distribution and ecology; key. India."
+  },
+  {
+   "ref": "Sen-Sarma and Verma, 1984: 101",
+   "note": "Ceylonitermes; soldier, worker described."
+  },
+  {
+   "ref": "Bose, 1984: 104, 238",
+   "note": "Ceylonitermes; key; synonymy; remarks."
+  },
+  {
+   "ref": "Collins, 1984: 77",
+   "note": "Ceylonitermes; key."
+  }
+ ],
+ "nrefs": 21
+}

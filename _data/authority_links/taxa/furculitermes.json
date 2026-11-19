@@ -1,0 +1,178 @@
+{
+ "Furculitermes brevilabius": {
+  "gbif": {
+   "key": 9789355,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Furculitermes brevilabius Emerson, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "6K4PK",
+   "status": "accepted",
+   "label": "Furculitermes brevilabius Emerson, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251566",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Furculitermes brevimalatus": {
+  "gbif": {
+   "key": 9745812,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Furculitermes brevimalatus Emerson, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "6JSPJ",
+   "status": "accepted",
+   "label": "Furculitermes brevimalatus Emerson, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251568",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Furculitermes cubitalis": {
+  "gbif": {
+   "key": 9706095,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Furculitermes cubitalis Emerson, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "6K4PJ",
+   "status": "accepted",
+   "label": "Furculitermes cubitalis Emerson, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251570",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Furculitermes hendrickxi": {
+  "gbif": {
+   "key": 9664318,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Furculitermes hendrickxi Emerson, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "6JSPP",
+   "status": "accepted",
+   "label": "Furculitermes hendrickxi Emerson, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251571",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Furculitermes longilabius": {
+  "gbif": {
+   "key": 9714208,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Furculitermes longilabius Emerson, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "6K4PP",
+   "status": "accepted",
+   "label": "Furculitermes longilabius Emerson, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251572",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Furculitermes parviceps": {
+  "gbif": {
+   "key": 9675166,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Furculitermes parviceps Emerson, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "6JSPN",
+   "status": "accepted",
+   "label": "Furculitermes parviceps Emerson, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251575",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Furculitermes soyeri": {
+  "gbif": {
+   "key": 9797920,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Furculitermes soyeri Emerson, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "6K4PN",
+   "status": "accepted",
+   "label": "Furculitermes soyeri Emerson, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251576",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Furculitermes winifredae": {
+  "gbif": {
+   "key": 9757179,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Furculitermes winifredae Emerson, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "6JSPM",
+   "status": "accepted",
+   "label": "Furculitermes winifredae Emerson, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251577",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

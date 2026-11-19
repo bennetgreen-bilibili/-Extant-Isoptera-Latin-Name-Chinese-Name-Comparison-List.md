@@ -1,0 +1,46 @@
+{
+ "Onkotermes brevicorniger": {
+  "gbif": {
+   "key": 9694854,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Onkotermes brevicorniger (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "49KN6",
+   "status": "accepted",
+   "label": "Onkotermes brevicorniger (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084787",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Onkotermes corochus": {
+  "gbif": {
+   "key": 9809616,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Onkotermes corochus Fontes & Torales, 2008",
+   "accepted": null
+  },
+  "col": {
+   "id": "49KN7",
+   "status": "accepted",
+   "label": "Onkotermes corochus Torales & Fontes, 2008",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084788",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

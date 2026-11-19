@@ -1,0 +1,55 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "中美洲的种类",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn（2016）研究，微白蚁属（Parvitermes）在中美洲大陆已知 3 种：由墨西哥象白蚁（Nasutitermes mexicanus）转入的墨西哥微白蚁（Parvitermes mexicanus），以及新种中美洲微白蚁（Parvitermes mesoamericanus）和尤卡坦微白蚁（Parvitermes yucatanus）；这 3 种与西印度群岛的 9 种微白蚁属（Parvitermes）及细瘦安的列斯白蚁（Antillitermes subtilis）共享肠瓣刺朝向肠流反方向的特征，均为地下筑巢、食纤维素的白蚁。",
+     "src": [
+      "S0106"
+     ],
+     "text_en": "According to Scheffrahn's (2016) study, three species of Parvitermes are known from mainland Central America: Parvitermes mexicanus, transferred from Nasutitermes mexicanus, and the new species Parvitermes mesoamericanus and Parvitermes yucatanus; these three species share with the nine West Indian species of Parvitermes and with Antillitermes subtilis the character of enteric valve spines directed against the gut flow, and all are subterranean-nesting, cellulose-feeding termites.",
+     "text_es": "Según el estudio de Scheffrahn (2016), Parvitermes cuenta en la América Central continental con tres especies conocidas: Parvitermes mexicanus, transferida desde Nasutitermes mexicanus, y las especies nuevas Parvitermes mesoamericanus y Parvitermes yucatanus; estas tres especies comparten con las nueve especies de Parvitermes de las Indias Occidentales y con Antillitermes subtilis el carácter de las espinas de la válvula entérica orientadas en sentido contrario al flujo intestinal, y todas ellas son termitas subterráneas que se alimentan de celulosa."
+    }
+   ],
+   "heading_en": "Species in Central America",
+   "heading_es": "Las especies de América Central"
+  },
+  {
+   "heading": "大安的列斯群岛的小型象白蚁",
+   "heading_en": "Small nasute termites of the Greater Antilles",
+   "heading_es": "Termitas nasutas pequeñas de las Antillas Mayores",
+   "paragraphs": [
+    {
+     "src": [
+      "S0270"
+     ],
+     "text": "根据 Roisin 等（1996）研究，<i>Terrenitermes</i> Spaeth, 1967 被异名化于微白蚁属（<i>Parvitermes</i> Emerson, in Snyder 1949）之下；原置于微白蚁属的 2 个大陆种应移出该属：其一改归为异翅快白蚁（<i>Velocitermes heteropterus</i>，Snyder 1926），另一 <i>Parvitermes bacchanalis</i> Mathews, 1977 的分类位置仍不清楚（据摘要）。",
+     "text_en": "According to Roisin et al. (1996), <i>Terrenitermes</i> Spaeth, 1967 was synonymized under <i>Parvitermes</i> Emerson, in Snyder 1949; two continental species originally placed in <i>Parvitermes</i> should be removed from the genus: one is reassigned to <i>Velocitermes heteropterus</i> (Snyder 1926), while the taxonomic position of <i>Parvitermes bacchanalis</i> Mathews, 1977 remains unclear (according to the abstract).",
+     "text_es": "Según Roisin et al. (1996), <i>Terrenitermes</i> Spaeth, 1967 fue sinonimizado bajo <i>Parvitermes</i> Emerson, in Snyder 1949; dos especies continentales situadas originalmente en <i>Parvitermes</i> deben excluirse del género: una se reasigna a <i>Velocitermes heteropterus</i> (Snyder 1926), mientras que la posición taxonómica de <i>Parvitermes bacchanalis</i> Mathews, 1977 sigue sin estar clara (según el resumen)."
+    },
+    {
+     "src": [
+      "S0270"
+     ],
+     "text": "除古巴有一种缩白蚁属（<i>Constrictotermes</i>）外，大安的列斯群岛及邻近巴哈马、维尔京群岛的小型象白蚁区系在属级上现已视为该地区特有；作者假设一个与钝白蚁属（<i>Obtusitermes</i>）近缘的祖先在大安的列斯群岛分化，衍生出全部微白蚁属物种以及 2 个近缘属的物种（据摘要）。",
+     "text_en": "Except for one species of <i>Constrictotermes</i> in Cuba, the small nasute termite fauna of the Greater Antilles and of the adjacent Bahamas and Virgin Islands is now regarded as endemic to the region at the genus level; the authors hypothesize that an ancestor closely related to <i>Obtusitermes</i> diversified in the Greater Antilles, giving rise to all the species of <i>Parvitermes</i> and to the species of two closely related genera (according to the abstract).",
+     "text_es": "Salvo una especie de <i>Constrictotermes</i> en Cuba, la fauna de termitas nasutas pequeñas de las Antillas Mayores y de las Bahamas y las Islas Vírgenes adyacentes se considera ahora endémica de la región a nivel de género; los autores plantean la hipótesis de que un ancestro próximo a <i>Obtusitermes</i> se diversificó en las Antillas Mayores y dio origen a todas las especies de <i>Parvitermes</i> y a las especies de dos géneros afines (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0106",
+   "citation": "Scheffrahn, R. H. 2016. Parvitermes (Isoptera, Termitidae, Nasutitermitinae) in Central America: two new termite species and reassignment of Nasutitermes mexicanus. ZooKeys 617. https://doi.org/10.3897/zookeys.617.10040",
+   "doi": "10.3897/zookeys.617.10040"
+  },
+  {
+   "id": "S0270",
+   "citation": "Roisin, Y.; Scheffrahn, R. H.; Jan Křečk. 1996. Generic Revision of the Smaller Nasute Termites of the Greater Antilles (Isoptera, Termitidae, Nasutitermitinae). Annals of the Entomological Society of America.",
+   "doi": "10.1093/aesa/89.6.775"
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "Noditermes angolensis": {
+  "gbif": {
+   "key": 9649415,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Noditermes angolensis Weidner, 1974",
+   "accepted": null
+  },
+  "col": {
+   "id": "47LC6",
+   "status": "accepted",
+   "label": "Noditermes angolensis Weidner, 1974",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084775",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Noditermes cristifrons": {
+  "gbif": {
+   "key": 9690322,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Noditermes cristifrons (Wasmann, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "47LC7",
+   "status": "accepted",
+   "label": "Noditermes cristifrons (Wasmann, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084776",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Noditermes festivus": {
+  "gbif": {
+   "key": 9761945,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Noditermes festivus Harris, 1958",
+   "accepted": null
+  },
+  "col": {
+   "id": "47LC8",
+   "status": "accepted",
+   "label": "Noditermes festivus Harris, 1958",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084777",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Noditermes indoensis": {
+  "gbif": {
+   "key": 9772910,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Noditermes indoensis Sjöstedt, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "47LC9",
+   "status": "accepted",
+   "label": "Noditermes indoensis Sjöstedt, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084778",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Noditermes lamanianus": {
+  "gbif": {
+   "key": 9679696,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Noditermes lamanianus (Sjöstedt, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RZ6D",
+   "status": "accepted",
+   "label": "Noditermes lamanianus (Sjöstedt, 1905)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084779",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Noditermes profestus": {
+  "gbif": {
+   "key": 9721423,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Noditermes profestus (Sjöstedt, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "47LCB",
+   "status": "accepted",
+   "label": "Noditermes profestus (Sjöstedt, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084780",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Noditermes wasambaricus": {
+  "gbif": {
+   "key": 9730218,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Noditermes wasambaricus Williams, 1954",
+   "accepted": null
+  },
+  "col": {
+   "id": "47LCC",
+   "status": "accepted",
+   "label": "Noditermes wasambaricus Williams, 1954",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084781",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

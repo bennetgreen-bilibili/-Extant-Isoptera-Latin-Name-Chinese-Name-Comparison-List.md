@@ -1,0 +1,35 @@
+{
+ "zh_name": "努瓦罗努瓦罗白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头后部具四个角状显著突起，两侧凸、前半略收缢；头囊形状极为独特，头表具特征性微刻纹；上颚穿刺型；体型较小。有翅成虫左颚指数 1.5，触角 15 节，节序 1>2>6>5=4>3。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头后部具四个角状的显著突起，两侧凸、前半略收缢；头囊形状极为独特，头表具特征性微刻纹；上颚穿刺型；体型较同类小。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头褐，额部具半圆形淡色斑，囟点椭圆、亦淡，蜕裂线淡。后唇基显著膨大，前缘平直、后缘凸，中线明显。复眼圆形、中等大小；单眼大而明显。上颚端齿大，左 M3 远短于 M1；左颚指数 1.5。触角 15 节，节序 1>2>6>5=4>3。翅面微刻纹几乎缺失，仅前部近端具细点。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0077",
+   "citation": "Constantino R. 2012. Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records. Zootaxa 3174: 65-68. doi 10.11646/zootaxa.3174.1.7",
+   "locator": "Imago（p. 66）；Imago（p. 66–67）"
+  },
+  {
+   "id": "S0068",
+   "citation": "Rocha M. M.; Cancello E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138: 445-463. doi 10.11646/zootaxa.5138.4.6",
+   "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）"
+  },
+  {
+   "id": "S0072",
+   "citation": "Rocha M. M.; Cancello E. M.; Carrijo T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37: 793-827. doi 10.1111/j.1365-3113.2012.00645.x",
+   "locator": "Key to genera of Syntermitinae, couplet 14"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+}

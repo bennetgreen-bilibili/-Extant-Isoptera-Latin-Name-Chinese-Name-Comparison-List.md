@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "肠道共生原核生物的 16S rRNA 调查",
+   "paragraphs": [
+    {
+     "text": "据摘要，Ohkuma 与 Kudo（1998）直接从截头堆砂白蚁（Cryptotermes domesticus）肠道混合 DNA 扩增 16S rRNA 基因并克隆测序，发现其共生原核生物与甲烷短杆菌、明串珠菌、拟杆菌和密螺旋体等类群相关，但大多数序列属于未知种，且存在与其他白蚁不同的白蚁专性类群。",
+     "src": [
+      "S0145"
+     ],
+     "text_en": "According to the abstract, Ohkuma and Kudo (1998) amplified 16S rRNA genes directly from mixed DNA of the gut of Cryptotermes domesticus, cloned and sequenced them, and found that its symbiotic prokaryotes are related to groups such as Methanobrevibacter, Leuconostoc, Bacteroides and Treponema, but that most sequences belong to unknown species and that termite-specific groups differing from those of other termites are present.",
+     "text_es": "Según el resumen, Ohkuma y Kudo (1998) amplificaron, clonaron y secuenciaron el gen del 16S rRNA a partir del ADN intestinal mixto de Cryptotermes domesticus, y hallaron que sus procariotas simbiontes se relacionan con grupos como Methanobrevibacter, Leuconostoc, Bacteroides y Treponema, aunque la mayoría de las secuencias corresponden a especies desconocidas y aparecen linajes exclusivos de termitas que difieren de los de otras especies."
+    }
+   ],
+   "heading_en": "16S rRNA survey of intestinal symbiotic prokaryotes",
+   "heading_es": "Estudio del ARN ribosomal 16S de los procariotas simbiontes del intestino"
+  },
+  {
+   "heading": "澳大利亚北部的原生地位",
+   "heading_en": "Native status in northern Australia",
+   "heading_es": "Estatus nativo en el norte de Australia",
+   "paragraphs": [
+    {
+     "text": "据摘要，Gay 与 Watson（1982）指出，截头堆砂白蚁（Cryptotermes domesticus）与犬头堆砂白蚁（Cryptotermes cynocephalus）过去被视为外来种，实际在澳大利亚北部自然分布，因此在该文中按当地特有种处理；同文记录澳大利亚的外来种为麻头堆砂白蚁（Cryptotermes brevis）与长颚堆砂白蚁（Cryptotermes dudleyi）。",
+     "text_en": "According to the abstract, Gay and Watson (1982) noted that <i>Cryptotermes domesticus</i> and <i>Cryptotermes cynocephalus</i>, formerly regarded as introduced, are in fact naturally distributed in northern Australia and are therefore treated there as endemic; the same paper records <i>Cryptotermes brevis</i> and <i>Cryptotermes dudleyi</i> as the introduced species in Australia.",
+     "text_es": "Según el resumen, Gay y Watson (1982) señalaron que <i>Cryptotermes domesticus</i> y <i>Cryptotermes cynocephalus</i>, antes consideradas introducidas, se distribuyen de forma natural en el norte de Australia y por ello se tratan allí como endémicas; el mismo trabajo registra <i>Cryptotermes brevis</i> y <i>Cryptotermes dudleyi</i> como las especies introducidas en Australia.",
+     "src": [
+      "S0187"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0145",
+   "citation": "Ohkuma, M.; Kudo, T. 1998. Phylogenetic analysis of the symbiotic intestinal microflora of the termite Cryptotermes domesticus. FEMS Microbiology Letters.",
+   "doi": "10.1016/s0378-1097(98)00244-4"
+  },
+  {
+   "id": "S0187",
+   "citation": "Gay, F. J.; Watson, J. A. L. 1982. The genus Cryptotermes in Australia (Isoptera: Kalotermitidae). Australian Journal of Zoology, Supplementary Series 88.",
+   "doi": "10.1071/AJZS088"
+  }
+ ]
+}

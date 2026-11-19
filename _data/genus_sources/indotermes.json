@@ -1,0 +1,43 @@
+{
+ "latin": "Indotermes",
+ "zh": "印白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Indotermes Roonwal, 1958: 81–82 [generic name made available in Roonwal, 1958, who states that the authors of the new taxon are Roonwal and Sen-Sarma, and gives their list of characters purporting to differentiate this taxon from others (characters are given at family- level, but family and genus are monotypic, so characters apply at all levels)].",
+ "type_species": "Indotermes maymensis Roonwal and Sen-Sarma, 1958 by monotypy.",
+ "references": [
+  {
+   "ref": "Ahmad, 1963: 395–396",
+   "note": "Indotermes; characters; affinity."
+  },
+  {
+   "ref": "Ahmad, 1965: 8",
+   "note": "Indotermes; key."
+  },
+  {
+   "ref": "Chaudhry et al., 1972: 41",
+   "note": "Indotermes; characters."
+  },
+  {
+   "ref": "Akhtar, 1975: 59, 113–114",
+   "note": "Indotermes; characters; key; discussion."
+  },
+  {
+   "ref": "Morimoto, 1975b: 28",
+   "note": "Indotermes; key."
+  },
+  {
+   "ref": "Roonwal and Rathore, 1986: 196",
+   "note": "Indotermes; characters; comparisons."
+  },
+  {
+   "ref": "Huang et al., 1989: 391, 418",
+   "note": "Indotermes; key; characters; distribution."
+  },
+  {
+   "ref": "Roonwal and Chhotani, 1989: 602–604",
+   "note": "Indotermes; synonymy; characters; distribution and composition; key to species."
+  }
+ ],
+ "nrefs": 30
+}

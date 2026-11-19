@@ -1,0 +1,508 @@
+{
+ "Syntermes aculeosus": {
+  "gbif": {
+   "key": 9462502,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes aculeosus Emerson, 1945",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YSH",
+   "status": "accepted",
+   "label": "Syntermes aculeosus Emerson, 1945",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q135900660",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes barbatus": {
+  "gbif": {
+   "key": 9722345,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes barbatus Constantino, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YSJ",
+   "status": "accepted",
+   "label": "Syntermes barbatus Constantino, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073778",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes bolivianus": {
+  "gbif": {
+   "key": 9667236,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes bolivianus Holmgren, 1911",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YSK",
+   "status": "accepted",
+   "label": "Syntermes bolivianus Holmgren, 1911",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073777",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes brevimalatus": {
+  "gbif": {
+   "key": 9800984,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes brevimalatus Emerson, 1945",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YSL",
+   "status": "accepted",
+   "label": "Syntermes brevimalatus Emerson, 1945",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073776",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes calvus": {
+  "gbif": {
+   "key": 9570888,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes calvus Emerson, 1945",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YSM",
+   "status": "accepted",
+   "label": "Syntermes calvus Emerson, 1945",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073775",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes cearensis": {
+  "gbif": {
+   "key": 9729262,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes cearensis Constantino, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YSN",
+   "status": "accepted",
+   "label": "Syntermes cearensis Constantino, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073773",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes chaquimayensis": {
+  "gbif": {
+   "key": 8958839,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes chaquimayensis (Holmgren, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YSP",
+   "status": "accepted",
+   "label": "Syntermes chaquimayensis (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073772",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes crassilabrum": {
+  "gbif": {
+   "key": 9766263,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes crassilabrum Constantino, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YSQ",
+   "status": "accepted",
+   "label": "Syntermes crassilabrum Constantino, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073771",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes dirus": {
+  "gbif": {
+   "key": 8945471,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes dirus (Burmeister, 1839)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YSR",
+   "status": "accepted",
+   "label": "Syntermes dirus (Burmeister, 1839)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q64734992",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes grandis": {
+  "gbif": {
+   "key": 9377655,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes grandis (Rambur, 1842)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YSS",
+   "status": "accepted",
+   "label": "Syntermes grandis (Rambur, 1842)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q10262372",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes insidians": {
+  "gbif": {
+   "key": 9818917,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes insidians Silvestri, 1945",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YST",
+   "status": "accepted",
+   "label": "Syntermes insidians Silvestri, 1945",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073770",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes longiceps": {
+  "gbif": {
+   "key": 9686091,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes longiceps Constantino, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "7B9V3",
+   "status": "accepted",
+   "label": "Syntermes longiceps Constantino, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073769",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes magnoculus": {
+  "gbif": {
+   "key": 9813457,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes magnoculus Snyder, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YSV",
+   "status": "accepted",
+   "label": "Syntermes magnoculus Snyder, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073768",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes molestus": {
+  "gbif": {
+   "key": 9583145,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes molestus (Burmeister, 1839)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YSW",
+   "status": "accepted",
+   "label": "Syntermes molestus (Burmeister, 1839)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q10262373",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes nanus": {
+  "gbif": {
+   "key": 8629529,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes nanus Constantino, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YSX",
+   "status": "accepted",
+   "label": "Syntermes nanus Constantino, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073767",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes obtusus": {
+  "gbif": {
+   "key": 8919402,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes obtusus Holmgren, 1911",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YSY",
+   "status": "accepted",
+   "label": "Syntermes obtusus Holmgren, 1911",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073765",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes parallelus": {
+  "gbif": {
+   "key": 9655682,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes parallelus Silvestri, 1923",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YSZ",
+   "status": "accepted",
+   "label": "Syntermes parallelus Silvestri, 1923",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073764",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes peruanus": {
+  "gbif": {
+   "key": 9773875,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes peruanus Holmgren, 1911",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YT2",
+   "status": "accepted",
+   "label": "Syntermes peruanus Holmgren, 1911",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073763",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes praecellens": {
+  "gbif": {
+   "key": 9714994,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes praecellens Silvestri, 1945",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YT3",
+   "status": "accepted",
+   "label": "Syntermes praecellens Silvestri, 1945",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073762",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes spinosus": {
+  "gbif": {
+   "key": 9273818,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes spinosus (Latreille, 1804)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YT4",
+   "status": "accepted",
+   "label": "Syntermes spinosus (Latreille, 1804)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073761",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes tanygnathus": {
+  "gbif": {
+   "key": 9648538,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes tanygnathus Constantino, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YT5",
+   "status": "accepted",
+   "label": "Syntermes tanygnathus Constantino, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073760",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes territus": {
+  "gbif": {
+   "key": 9496256,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes territus Emerson, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YT6",
+   "status": "accepted",
+   "label": "Syntermes territus Emerson, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073759",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Syntermes wheeleri": {
+  "gbif": {
+   "key": 9736695,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syntermes wheeleri Emerson, 1945",
+   "accepted": null
+  },
+  "col": {
+   "id": "53YT7",
+   "status": "accepted",
+   "label": "Syntermes wheeleri Emerson, 1945",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073757",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "zh_name": "小锡兰白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁上颚无端尖；工蚁（若虫）左颚第 1+2 缘齿特别长，左颚指数 0.62，第 3 缘齿相对 Leucopitermes 明显小；右颚磨板轮廓凹；两上颚端齿与第 1 缘齿之间的夹角比东方区任何近缘属都宽。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "上颚无端尖。"
+  },
+  {
+   "label": "工蚁",
+   "text": "原文所记为工蚁-若虫：左颚第 1+2 缘齿特别长；左颚指数 0.62；第 3 缘齿相对 Leucopitermes 明显小；右颚磨板轮廓凹；两上颚端齿与第 1 缘齿之间的夹角宽于东方区任何近缘属。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0081",
+   "citation": "Emerson, A. E. 1960. New genera of termites related to Subulitermes from the Oriental, Malagasy, and Australian regions (Isoptera, Termitidae, Nasutitermitinae). American Museum Novitates 1986: 1-28.",
+   "locator": "pp. 12-13"
+  }
+ ],
+ "note": "有翅成虫未由 Emerson 研究（原文只提到 Bugnion 1914 的描述），故不设该节；兵蚁可引性状仅「上颚无端尖」，该节因此极短。"
+}

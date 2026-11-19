@@ -1,0 +1,40 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "属级修订与肠道共生体",
+   "heading_en": "Generic revision and gut holobiont",
+   "heading_es": "Revisión genérica y holobionte intestinal",
+   "paragraphs": [
+    {
+     "src": [
+      "S0200"
+     ],
+     "text": "据摘要，Constantino 等（2006）修订南美厚唇白蚁属（<i>Labiotermes</i>），承认 10 个种，给出兵蚁与工蚁检索表以及全部种的分布图，并描述亚马逊雨林的大厚唇白蚁（<i>Labiotermes guasu</i>）与巴西中部塞拉多（Cerrado）的山神厚唇白蚁（<i>Labiotermes oreadicus</i>）两个新种；埃默森厚唇白蚁（<i>Labiotermes emersoni</i>）与直头厚唇白蚁（<i>Labiotermes orthocephalus</i>）的成虫首次被描述，全部种的工蚁连同肠瓣与混合节一并描述和图示。",
+     "text_en": "According to the abstract, Constantino et al. (2006) revised the South American genus <i>Labiotermes</i>, recognising 10 species, providing keys to soldiers and workers and distribution maps for all species, and describing two new species, <i>Labiotermes guasu</i> from Amazonian rain forest and <i>Labiotermes oreadicus</i> from the Cerrado of central Brazil; the imagos of <i>Labiotermes emersoni</i> and <i>Labiotermes orthocephalus</i> are described for the first time, and the workers of all species are described and illustrated, including the enteric valve armature and the mixed segment.",
+     "text_es": "Según el resumen, Constantino et al. (2006) revisaron el género sudamericano <i>Labiotermes</i>, reconocieron 10 especies, aportaron claves para soldados y obreras y mapas de distribución de todas las especies, y describieron dos especies nuevas, <i>Labiotermes guasu</i> de la selva amazónica y <i>Labiotermes oreadicus</i> del Cerrado del Brasil central; los imagos de <i>Labiotermes emersoni</i> y <i>Labiotermes orthocephalus</i> se describen por primera vez, y las obreras de todas las especies se describen e ilustran, incluida la armadura de la válvula entérica y el segmento mixto."
+    },
+    {
+     "src": [
+      "S0209"
+     ],
+     "text": "据摘要，Marynowska 等（2023）对细唇厚唇白蚁（<i>Labiotermes labralis</i>）作全共生体多组学分析，发现肠道细菌以厚壁菌门（Firmicutes）为主，并向后方体节逐渐减少，拟杆菌门（Bacteroidetes）、变形菌门（Proteobacteria）与疣微菌门（Verrucomicrobia）相应增加；肠道微生物表达大量降解纤维素与半纤维素的碳水化合物活性酶，宿主自身的纤维素酶在系统发育来源与结构上各不相同。",
+     "text_en": "According to the abstract, Marynowska et al. (2023) applied a holobiont multi-omics approach to <i>Labiotermes labralis</i> and found that the gut bacteria were dominated by Firmicutes, which declined gradually towards the posterior segments while Bacteroidetes, Proteobacteria and Verrucomicrobia increased; the gut microbiota expressed a high diversity of carbohydrate-active enzymes degrading cellulose and hemicelluloses, and the host's own cellulases differ in phylogenetic origin and structure.",
+     "text_es": "Según el resumen, Marynowska et al. (2023) aplicaron un enfoque multiómico a nivel de holobionte a <i>Labiotermes labralis</i> y hallaron que las bacterias intestinales estaban dominadas por Firmicutes, que disminuían gradualmente hacia los segmentos posteriores mientras aumentaban Bacteroidetes, Proteobacteria y Verrucomicrobia; la microbiota intestinal expresaba una alta diversidad de enzimas activas sobre carbohidratos que degradan celulosa y hemicelulosas, y las celulasas propias del hospedero difieren en origen filogenético y estructura."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0200",
+   "citation": "Constantino, R., Acioli, A. N. S., Schmidt, K., Cuezzo, C., Carvalho, S. H. C. & Alexandre, A. (2006). A taxonomic revision of the Neotropical termite genera Labiotermes Holmgren and Paracornitermes Emerson (Isoptera, Termitidae, Syntermitinae). Zootaxa, 1340.",
+   "doi": "10.11646/zootaxa.1340.1.1"
+  },
+  {
+   "id": "S0209",
+   "citation": "Marynowska, M., Sillam-Dussès, D., Untereiner, B., Klimek, D., Goux, X., Gawron, P., Roisin, Y., Delfosse, P. & Całusińska, M. (2023). A holobiont approach towards polysaccharide degradation by the highly compartmentalised gut system of the soil-feeding higher termite Labiotermes labralis. BMC Genomics, 24.",
+   "doi": "10.1186/s12864-023-09224-5"
+  }
+ ]
+}

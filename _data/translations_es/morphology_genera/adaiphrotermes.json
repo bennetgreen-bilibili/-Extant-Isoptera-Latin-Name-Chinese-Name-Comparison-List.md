@@ -1,0 +1,17 @@
+{
+ "note": "Caracteres del género en Sands 1972 pp. 229–231. El original solo indica el tamaño corporal (ancho de la cabeza W, mm), el número de espinas apicales de la tibia anterior, las proporciones de los dientes mandibulares, la constricción de los terguitos meso- y metatorácicos (M/W), la fontanela y la pilosidad cefálica (cuando existen) y la estructura del tubo digestivo y de la válvula entérica; no registra el número de segmentos antenales, la forma del pronoto ni la venación alar, por lo que esta entrada no se completa. La confusión, en el OCR, entre el punto decimal «*» y entre i/1 se ha normalizado a cifras árabes según el contexto.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Tibia anterior con solo 2 espinas apicales; ningún otro género africano carece por completo de la tercera espina apical, por lo que este es el género más fácil de identificar. El tubo digestivo del obrero presenta un «globo» blanco en el mesenterón, reconocible incluso sin abrir el abdomen; el abdomen del obrero no se abre. Además de este, presentan segmento mixto largo Aderitotermes y Anenteotermes, pero en estos dos el extremo del mesenterón no está dilatado."
+  },
+  {
+   "label": "Obrero",
+   "text": "Pequeño a mediano, W 0.59–0.75 mm. Tibia anterior con solo 2 espinas apicales, muy pilosa, con setas conspicuas en el margen posterior, dilatada, Ti/Tw 3.00–4.00. Diente apical de las mandíbulas corto, La/Li 0.46–0.64, Ra/Ri 0.65–1.10; extremo proximal del diente subapical de la mandíbula izquierda claramente separado de la prominencia molar; en la mandíbula derecha el diente apical y el diente marginal de longitud aproximadamente igual y con los ápices en línea. Mesenterón y proctodeo solapados formando un segmento mixto prolongado que rebasa el nódulo de Malpighi, con el extremo del mesenterón dilatado en forma esférica o hemisférica. Primer segmento del proctodeo largo y dilatado, bruscamente constreñido en una válvula entérica tubular; asiento de la válvula entérica con 2 o 3 lóbulos, o de borde simple, sin pedúnculo o con cuello corto, situado dorsalmente en el abdomen sin diseccionar; colchón interno de la válvula entérica sin espinas, reticulado o débilmente escamoso, concentrado sobre todo en la parte proximal."
+  },
+  {
+   "label": "Alado",
+   "text": "Pequeño a mediano, W 0.71–1.01 mm. Tibia anterior con solo 2 espinas apicales. Diente apical de las mandíbulas corto, La/Li 0.43–0.57, Ra/Ri 0.66–0.93; extremo proximal del diente subapical de la mandíbula izquierda claramente separado de la prominencia molar; en la mandíbula derecha el 1.º y el 2.º diente marginal de longitud aproximadamente igual y en línea con el diente apical. Terguitos meso- y metatorácicos estrechos en la constricción, M/W 0.16–0.23; sutura mesotorácica ausente, sutura metatorácica débil o ausente."
+  }
+ ]
+}

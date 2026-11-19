@@ -1,0 +1,29 @@
+{
+ "zh_name": "双齿白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 Hoplognathotermes、Allognathotermes 近缘；兵蚁左右上颚各具 1 枚大型双尖齿，是与近缘属最显著的差别；触角 13–14 节；前足腿节短粗、中部等粗；前足基节锐脊上具 9–11 根成列的显著刚毛。有翅成虫与工蚁上颚亦具相应特征。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "前足基节轮廓具若干短毛及长短刚毛；中胫无外侧对比刺。囟白色、三角形，仅略小于单眼。上颚大体与工蚁者相似：端齿比例较 Hoplognathotermes 大；左上颚自端尖至第一缘齿尖的距离大于第一缘齿尖至第三缘齿尖的距离；左颚第一、二缘齿的切缘呈波状；右上颚第二缘齿退化为一小丘（与 Allognathotermes 同）。中、后胸背板后缘深凹，凹角锐于直角。前足基节具锐纵脊，剖面平凸，脊峰偏向基端而非位于脊中部。端距 3:2:2，前胫外距短而显著退化。前后翅 Sc 均短，紧接基缝之后即并入前缘。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头部硕大，前面较平；额腺开口附近无毛簇；大上唇前端的刚毛散生，不似 Apicotermes 成簇；前足基节锐脊上具 9–11 根显著刚毛排成 1 列，向内缘弯曲并回弯向端部，包绕基节端半部内一近卵形的平区。前胫内侧具数枚特化不强的刺；中胫无外侧对比刺。后颏前部比例较近缘属大，最窄处距前缘约为其长度的 5/6–6/7，侧缝全长可见。触角 13–14 节，与 Allognathotermes 相似（Firmitermes 14 节，Hoplognathotermes 与 Acutidentitermes 15 节）。后唇基与额部之间的缝可见，但不如 Firmitermes 与 Hoplognathotermes 明显。上唇最宽处在明显的侧角（Firmitermes 上唇侧缘凸，Hoplognathotermes 两侧平行而侧角钝，Acutidentitermes 两侧平行并微凹、端部更尖，Allognathotermes 最宽处较圆）。左右上颚各具 1 枚大型双尖齿，据此与全部近缘属显著不同。前足基节纵脊显著、锐，剖面平缓均匀凸出，自端部延伸约基节之半，较 Hoplognathotermes 更拱更显，而与 Allognathotermes 很相似，仅因向内侧微弯延伸而略更明显。前足腿节短粗，两侧平行、中部等粗；前胫略膨大。端距 3:2:2，前胫外距比例短（与 Hoplognathotermes 同）。"
+  },
+  {
+   "label": "工蚁",
+   "text": "上颚特征与有翅成虫相似；前足基节脊较 Hoplognathotermes 工蚁更拱、更突出。"
+  }
+ ],
+ "note": "原文以与 Hoplognathotermes、Allognathotermes 的对比给出属征。据英文属征改写，非逐字翻译。",
+ "sources": [
+  {
+   "id": "S0034",
+   "citation": "Emerson A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43.",
+   "locator": "pp. 25–27（Imago、Soldier、Worker）"
+  }
+ ]
+}

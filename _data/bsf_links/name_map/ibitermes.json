@@ -1,0 +1,24 @@
+{
+ "Ibitermes curupira": {
+  "label": "Ibitermes curupira Fontes, 1985",
+  "match": "exact",
+  "notes": "",
+  "otu": 84214,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84214/overview",
+  "valid_label": null,
+  "valid_otu": 84214,
+  "verified": false
+ },
+ "Ibitermes inflatus": {
+  "label": "Ibitermes inflatus Vasconcellos, 2002",
+  "match": "exact",
+  "notes": "",
+  "otu": 84215,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84215/overview",
+  "valid_label": null,
+  "valid_otu": 84215,
+  "verified": false
+ }
+}

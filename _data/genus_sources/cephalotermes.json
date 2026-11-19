@@ -1,0 +1,39 @@
+{
+ "latin": "Cephalotermes",
+ "zh": "头白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Cephalotermes Silvestri, 1912a: 232–234.",
+ "type_species": "Eutermes rectangularis Sjöstedt, 1899 by original designation.",
+ "references": [
+  {
+   "ref": "Holmgren, 1912a: 76, 77, 84–85",
+   "note": "Cephalotermes; characters; key; species included; systematic position."
+  },
+  {
+   "ref": "Emerson, 1928b: 407, 421",
+   "note": "Cephalotermes; key; distribution."
+  },
+  {
+   "ref": "Weidner, 1956b: 64",
+   "note": "Cephalotermes; key."
+  },
+  {
+   "ref": "Webb, 1961: 14",
+   "note": "Cephalotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 22, 84, 85, pl. 10: fig. 24b",
+   "note": "Cephalotermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 30",
+   "note": "Cephalotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 33, 187–190, figs. 669–681, pl. 9: fig. 7",
+   "note": "Cephalotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution. Rectangulotermes Holmgren, 1912a: [unnecessary nom. nov. for Cephalotermes Silvestri, 1912]."
+  }
+ ],
+ "nrefs": 12
+}

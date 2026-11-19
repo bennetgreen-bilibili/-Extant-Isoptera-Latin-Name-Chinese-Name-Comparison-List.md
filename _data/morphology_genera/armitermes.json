@@ -1,0 +1,29 @@
+{
+ "zh_name": "戟白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫与 Cornitermes 的差别很小，只是头和体型平均略小，触角 14—15 节；兵蚁的头呈梨形，向前拉成或短或长的锥状额管，额腺孔位于管的端部，额腺很大，触角 13—14 节，前胸背板比 Cornitermes 更呈鞍形、前叶常较短。工蚁体色浅，头小。Holmgren 1912 把本属分为 Armitermes s. str.、Curvitermes 与 Rhynchotermes 三个亚属。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "与 Cornitermes 的有翅成虫差别很小，头平均较小，体型也略小。复眼大小多变；单眼大小与位置不一。额腺孔明显，小至很大；额略下陷。唇基基部强隆起，与其半宽等长或更长，比额部明亮，后缘强凸、前缘平直。上颚第 1 齿大于第 2 齿，或与之等长，后者触角为 14 节；触角 14—15 节，在前一种情形下第 3 节远长于其余各节，在后一种情形下则短于第 2 节。胸部和翅如 Cornitermes，但翅上第 1 肘脉支明显比后续各支粗壮；翅膜有时具弱刻点。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头梨形，向前拉成一条或短或长的锥状额管；额腺孔大，位于额管端部，额腺很大。横带与额都很小，藏在「鼻」的下方。唇基小，与横带几乎不能区分。上唇短而相对宽。上颚常很强地弯曲；左侧基部大至很大，常具锐利的磨区角，或在磨区角之前有 2 枚锐齿；中部齿序多变，原文以 5 种型式分别描述齿的数目、分离或融合、磨区角的形状。触角 13—14 节。前胸背板通常比 Cornitermes 更呈鞍形，前叶常较短，其余同该属。"
+  },
+  {
+   "label": "工蚁",
+   "text": "体色浅。头小，与身体其余部分同色，多少呈五边形圆钝。唇基基部约与其半宽等长，强隆起，后缘强凸、前缘平直而界限清楚。上颚第 1 齿几乎总是长于第 2 齿。触角 14—15 节。前胸背板同兵蚁。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren, N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familien Mastotermitidae, Protermitidae und Mesotermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166, Taf. 1–4.",
+   "locator": "pp. 53—54（archive.org 项 biostor-184513 页面图像）"
+  }
+ ],
+ "note": "描述据 Holmgren 1912 原文（archive.org 项 biostor-184513 的页面图像，pp. 53—54）。原文的 Armitermes 含 Armitermes s. str.、Curvitermes、Rhynchotermes 三亚属，属征为三者共有；兵蚁上颚中部齿序的 5 种型式（原文编号 1—5）未逐条译出。"
+}

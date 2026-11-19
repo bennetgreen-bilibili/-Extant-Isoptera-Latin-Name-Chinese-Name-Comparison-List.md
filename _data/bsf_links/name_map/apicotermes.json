@@ -1,0 +1,145 @@
+{
+ "Apicotermes angustatus": {
+  "label": "Apicotermes angustatus Sjöstedt, 1924",
+  "match": "exact",
+  "notes": "",
+  "otu": 84004,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84004/overview",
+  "valid_label": null,
+  "valid_otu": 84004,
+  "verified": false
+ },
+ "Apicotermes arquieri": {
+  "label": "Apicotermes arquieri Noirot & Grassé, 1955",
+  "match": "exact",
+  "notes": "",
+  "otu": 84005,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84005/overview",
+  "valid_label": null,
+  "valid_otu": 84005,
+  "verified": false
+ },
+ "Apicotermes desneuxi": {
+  "label": "Apicotermes desneuxi Emerson, 1953",
+  "match": "exact",
+  "notes": "",
+  "otu": 84006,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84006/overview",
+  "valid_label": null,
+  "valid_otu": 84006,
+  "verified": false
+ },
+ "Apicotermes emersoni": {
+  "label": "Apicotermes emersoni Bouillon",
+  "match": "exact",
+  "notes": "",
+  "otu": 84007,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84007/overview",
+  "valid_label": null,
+  "valid_otu": 84007,
+  "verified": false
+ },
+ "Apicotermes goesswaldi": {
+  "label": "Apicotermes goesswaldi Bouillon, 1966",
+  "match": "exact",
+  "notes": "",
+  "otu": 84008,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84008/overview",
+  "valid_label": null,
+  "valid_otu": 84008,
+  "verified": false
+ },
+ "Apicotermes gurgulifex": {
+  "label": "Apicotermes gurgulifex Emerson, 1956",
+  "match": "exact",
+  "notes": "",
+  "otu": 84009,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84009/overview",
+  "valid_label": null,
+  "valid_otu": 84009,
+  "verified": false
+ },
+ "Apicotermes holmgreni": {
+  "label": "Apicotermes holmgreni Emerson, 1956",
+  "match": "exact",
+  "notes": "",
+  "otu": 84010,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84010/overview",
+  "valid_label": null,
+  "valid_otu": 84010,
+  "verified": false
+ },
+ "Apicotermes kisantuensis": {
+  "label": "Apicotermes kisantuensis Sjöstedt, 1924",
+  "match": "exact",
+  "notes": "",
+  "otu": 84011,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84011/overview",
+  "valid_label": null,
+  "valid_otu": 84011,
+  "verified": false
+ },
+ "Apicotermes lamani": {
+  "label": "Apicotermes lamani (Sjöstedt, 1924)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84012,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84012/overview",
+  "valid_label": null,
+  "valid_otu": 84012,
+  "verified": false
+ },
+ "Apicotermes occultus": {
+  "label": "Apicotermes occultus Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 84013,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84013/overview",
+  "valid_label": null,
+  "valid_otu": 84013,
+  "verified": false
+ },
+ "Apicotermes porifex": {
+  "label": "Apicotermes porifex Emerson, 1953",
+  "match": "exact",
+  "notes": "",
+  "otu": 84014,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84014/overview",
+  "valid_label": null,
+  "valid_otu": 84014,
+  "verified": false
+ },
+ "Apicotermes rimulifex": {
+  "label": "Apicotermes rimulifex Emerson, 1956",
+  "match": "exact",
+  "notes": "",
+  "otu": 84015,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84015/overview",
+  "valid_label": null,
+  "valid_otu": 84015,
+  "verified": false
+ },
+ "Apicotermes tragardhi": {
+  "label": "Apicotermes tragardhi Holmgren, 1912",
+  "match": "exact",
+  "notes": "",
+  "otu": 84016,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84016/overview",
+  "valid_label": null,
+  "valid_otu": 84016,
+  "verified": false
+ }
+}

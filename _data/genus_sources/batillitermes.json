@@ -1,0 +1,23 @@
+{
+ "latin": "Batillitermes",
+ "zh": "铲白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Batillitermes Uys, 1994b: 53–54.",
+ "type_species": "Batillitermes monachus Uys, 1994 by original designation.",
+ "references": [
+  {
+   "ref": "Sands, 1995: 1484, 1485, 1499",
+   "note": "Batillitermes; key; characters."
+  },
+  {
+   "ref": "Sands, 1998: 36, 205–207, figs. 779–791, pl. 10: fig. 4",
+   "note": "Batillitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  },
+  {
+   "ref": "Uys, 2002: 67, 74–75, fig. 177",
+   "note": "Batillitermes; key; species included; diagnosis; biology; distribution. South Africa."
+  }
+ ],
+ "nrefs": 3
+}

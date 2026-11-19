@@ -1,0 +1,57 @@
+{
+ "Eutermellus abruptus": {
+  "label": "Eutermellus abruptus Sands, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 84440,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84440/overview",
+  "valid_label": null,
+  "valid_otu": 84440,
+  "verified": false
+ },
+ "Eutermellus aquilinus": {
+  "label": "Eutermellus aquilinus Sands, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 84441,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84441/overview",
+  "valid_label": null,
+  "valid_otu": 84441,
+  "verified": false
+ },
+ "Eutermellus bipartitus": {
+  "label": "Eutermellus bipartitus (Sjöstedt, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84442,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84442/overview",
+  "valid_label": null,
+  "valid_otu": 84442,
+  "verified": false
+ },
+ "Eutermellus convergens": {
+  "label": "Eutermellus convergens Silvestri, 1912",
+  "match": "exact",
+  "notes": "",
+  "otu": 84443,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84443/overview",
+  "valid_label": null,
+  "valid_otu": 84443,
+  "verified": false
+ },
+ "Eutermellus undulans": {
+  "label": "Eutermellus undulans Sands, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 84444,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84444/overview",
+  "valid_label": null,
+  "valid_otu": 84444,
+  "verified": false
+ }
+}

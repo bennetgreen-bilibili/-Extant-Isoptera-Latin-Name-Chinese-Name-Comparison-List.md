@@ -1,0 +1,23 @@
+{
+ "latin": "Acutidentitermes",
+ "zh": "尖齿白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Acutidentitermes Emerson, 1959",
+ "type_species": "Acutidentitermes osborni Emerson, 1959 by original designation.",
+ "references": [
+  {
+   "ref": "Bouillon and Mathot, 1965: 26, 98, 99, pl. 17: fig. 49d",
+   "note": "Acutidentitermes; key; characters; worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 37",
+   "note": "Acutidentitermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 52, 119–120, figs. 322, 323",
+   "note": "Acutidentitermes; key; worker described; worker mandibles figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 4
+}

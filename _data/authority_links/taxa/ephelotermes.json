@@ -1,0 +1,134 @@
+{
+ "Ephelotermes argutus": {
+  "gbif": {
+   "key": 4803374,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ephelotermes argutus (Hill, 1929)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6FP78",
+   "status": "accepted",
+   "label": "Ephelotermes argutus (Hill, 1929)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272422",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ephelotermes cheeli": {
+  "gbif": {
+   "key": 4803381,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ephelotermes cheeli (Mjöberg, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6FP6V",
+   "status": "accepted",
+   "label": "Ephelotermes cheeli (Mjöberg, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272423",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ephelotermes melachoma": {
+  "gbif": {
+   "key": 4803376,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ephelotermes melachoma Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "6FP77",
+   "status": "accepted",
+   "label": "Ephelotermes melachoma Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272424",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ephelotermes paleatus": {
+  "gbif": {
+   "key": 4803375,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ephelotermes paleatus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "6FP6Y",
+   "status": "accepted",
+   "label": "Ephelotermes paleatus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272425",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ephelotermes persimilis": {
+  "gbif": {
+   "key": 4803377,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ephelotermes persimilis (Gay, 1971)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6FP6X",
+   "status": "accepted",
+   "label": "Ephelotermes persimilis (Gay, 1971)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272426",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ephelotermes taylori": {
+  "gbif": {
+   "key": 4803379,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ephelotermes taylori (Hill, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6FP79",
+   "status": "accepted",
+   "label": "Ephelotermes taylori (Hill, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272427",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

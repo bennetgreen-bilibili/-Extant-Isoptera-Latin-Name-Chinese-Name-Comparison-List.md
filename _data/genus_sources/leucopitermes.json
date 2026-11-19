@@ -1,0 +1,27 @@
+{
+ "latin": "Leucopitermes",
+ "zh": "白脸白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Leucopitermes Emerson, 1960a: 8–9.",
+ "type_species": "Eutermes (Subulitermes) leucops Holmgren, 1914 by original designation.",
+ "references": [
+  {
+   "ref": "Ahmad, 1958: 87",
+   "note": "Subulitermes[part]; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 23, 24",
+   "note": "Leucopitermes; key."
+  },
+  {
+   "ref": "Gathorne-Hardy, 2001: 1500",
+   "note": "Leucopitermes; key."
+  },
+  {
+   "ref": "Gathorne-Hardy, 2004: 128",
+   "note": "Leucopitermes; key."
+  }
+ ],
+ "nrefs": 9
+}

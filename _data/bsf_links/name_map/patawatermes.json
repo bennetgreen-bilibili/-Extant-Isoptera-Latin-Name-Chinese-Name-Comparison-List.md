@@ -1,0 +1,24 @@
+{
+ "Patawatermes nigripunctatus": {
+  "label": "Patawatermes nigripunctatus (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83985,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83985/overview",
+  "valid_label": null,
+  "valid_otu": 83985,
+  "verified": false
+ },
+ "Patawatermes turricola": {
+  "label": "Patawatermes turricola (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83997,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83997/overview",
+  "valid_label": null,
+  "valid_otu": 83997,
+  "verified": false
+ }
+}

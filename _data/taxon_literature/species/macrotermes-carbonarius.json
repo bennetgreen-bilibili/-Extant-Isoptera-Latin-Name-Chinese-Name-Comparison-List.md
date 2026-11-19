@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "四龄幼蚁的鉴别特征",
+   "heading_en": "Diagnostic characters of the fourth-instar larva",
+   "heading_es": "Caracteres diagnósticos de la larva de cuarto instar",
+   "paragraphs": [
+    {
+     "src": [
+      "S0214"
+     ],
+     "text": "据摘要，Neoh 与 Lee（2009）指出，炭色大白蚁（<i>Macrotermes carbonarius</i>）的四龄幼蚁外形虽与小工蚁相似，但色素较浅、腹部膨胀，并已具备前兵蚁式的上颚与中、后胸背板，可据此与工蚁幼蚁区分。",
+     "text_en": "According to the abstract of Neoh and Lee (2009), the fourth-instar larva of <i>Macrotermes carbonarius</i>, although similar in appearance to a minor worker, is paler, has a distended abdomen and already bears the mandibles and meso- and metanotal structures of a presoldier, which separates it from worker larvae.",
+     "text_es": "Según el resumen de Neoh y Lee (2009), la larva de cuarto instar de <i>Macrotermes carbonarius</i>, aunque similar en apariencia a una obrera menor, es más pálida, tiene el abdomen distendido y ya presenta las mandíbulas y las estructuras meso- y metanotales de un presoldado, lo que la distingue de las larvas de obrera."
+    }
+   ]
+  },
+  {
+   "heading": "防御液产量与拒避效果",
+   "heading_en": "Defence-fluid yield and repellency",
+   "heading_es": "Rendimiento del fluido defensivo y repelencia",
+   "paragraphs": [
+    {
+     "text": "根据 Appalasamy 等（2021）研究，炭色大白蚁（<i>Macrotermes carbonarius</i>）兵蚁分大、小两型，每 100 头兵蚁可提取防御液 0.68 克，明显低于黄球白蚁（<i>Globitermes sulphureus</i>）的 2.93 克；其提取物对暗黄大白蚁（<i>Macrotermes gilvus</i>）工蚁的拒避等级为 IV–V 级，1 mg/ml 时拒避率 68.57%，20 mg/ml 时 98.00%，为两种白蚁中的最高值；气相色谱-质谱联用检出 6 种主要化合物，十八烷酸含量最高（20.95 mg/l），月桂酸甲酯最低（0.76 mg/l），薄层色谱呈 4 条带，Rf 值分别为 0.11、0.27、0.42 与 0.70。",
+     "src": [
+      "S0344"
+     ],
+     "text_en": "In the study by Appalasamy et al. (2021), <i>Macrotermes carbonarius</i> has dimorphic major and minor soldiers and yielded 0.68 g of defence fluid per 100 soldiers, clearly less than the 2.93 g obtained from <i>Globitermes sulphureus</i>; its extract was class IV-V repellent to workers of <i>Macrotermes gilvus</i>, with 68.57% repellency at 1 mg/ml and 98.00% at 20 mg/ml, the highest value of the two species; gas chromatography-mass spectrometry detected six major compounds, octadecanoic acid being the most abundant (20.95 mg/l) and lauric acid methyl ester the least (0.76 mg/l), and thin-layer chromatography gave four bands with Rf values of 0.11, 0.27, 0.42 and 0.70.",
+     "text_es": "En el estudio de Appalasamy et al. (2021), <i>Macrotermes carbonarius</i> presenta soldados mayores y menores dimórficos y rindió 0.68 g de fluido defensivo por cada 100 soldados, claramente menos que los 2.93 g obtenidos de <i>Globitermes sulphureus</i>; su extracto resultó repelente de clase IV-V para obreros de <i>Macrotermes gilvus</i>, con 68.57% de repelencia a 1 mg/ml y 98.00% a 20 mg/ml, el valor más alto de las dos especies; la cromatografía de gases-espectrometría de masas detectó seis compuestos principales, siendo el ácido octadecanoico el más abundante (20.95 mg/l) y el laurato de metilo el menos (0.76 mg/l), y la cromatografía en capa fina dio cuatro bandas con Rf de 0.11, 0.27, 0.42 y 0.70."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0214",
+   "citation": "Neoh, K.-B.; Lee, C.-Y. 2009. Developmental Stages and Castes of Two Sympatric Subterranean Termites Macrotermes gilvus and Macrotermes carbonarius (Blattodea: Termitidae). Annals of the Entomological Society of America 102(6).",
+   "doi": "10.1603/008.102.0617"
+  },
+  {
+   "id": "S0344",
+   "citation": "Appalasamy, S.; Alia Diyana, M. H.; Arumugam, N.; Boon, J. G. 2021. Evaluation of the chemical defense fluids of Macrotermes carbonarius and Globitermes sulphureus as possible household repellents and insecticides. Scientific Reports 11.",
+   "doi": "10.1038/s41598-020-80018-5"
+  }
+ ]
+}

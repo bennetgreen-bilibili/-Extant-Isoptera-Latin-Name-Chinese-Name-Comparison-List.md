@@ -1,0 +1,26 @@
+{
+ "Disjunctitermes insularis": {
+  "gbif": {
+   "key": 9373571,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Disjunctitermes insularis Scheffrahn, 2017",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": null,
+   "label": null,
+   "type": "none",
+   "rank": null,
+   "accepted": null
+  },
+  "wd": "Q107392343",
+  "flags": [
+   "col_missing"
+  ],
+  "_d": "2026-10-28"
+ }
+}

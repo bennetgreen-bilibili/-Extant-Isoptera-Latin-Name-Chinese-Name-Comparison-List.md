@@ -1,0 +1,46 @@
+{
+ "Cahuallitermes aduncus": {
+  "gbif": {
+   "key": 2007284,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cahuallitermes aduncus Constantino, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "696R6",
+   "status": "accepted",
+   "label": "Cahuallitermes aduncus Constantino, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582516",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cahuallitermes intermedius": {
+  "gbif": {
+   "key": 2007283,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cahuallitermes intermedius (Snyder, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "69736",
+   "status": "accepted",
+   "label": "Cahuallitermes intermedius (Snyder, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582515",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

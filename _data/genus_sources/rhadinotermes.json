@@ -1,0 +1,31 @@
+{
+ "latin": "Rhadinotermes",
+ "zh": "锥形白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Rhadinotermes Sands, 1965c: 71–72.",
+ "type_species": "Eutermes coarctatus Sjöstedt, 1902 by original designation.",
+ "references": [
+  {
+   "ref": "Bouillon and Mathot, 1966: 2",
+   "note": "Rhadinotermes; key."
+  },
+  {
+   "ref": "Coaton and Sheasby, 1972: 25, 97, 101, figs. 25A, B, 58",
+   "note": "Rhadinotermes; soldier figured; key; ecology; biology; distribution. Namibia. 1820 Bulletin of the American Museum of natural History\b No. 377"
+  },
+  {
+   "ref": "Morimoto, 1975b: 26",
+   "note": "Rhadinotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 43, 264–266, figs. 1271–1284, pl. 17: fig. 1",
+   "note": "Rhadinotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  },
+  {
+   "ref": "Uys, 2002: 96, 104–105, fig. 256",
+   "note": "Rhadinotermes; key; species included; diagnosis; biology; distribution. South Africa."
+  }
+ ],
+ "nrefs": 9
+}

@@ -1,0 +1,112 @@
+{
+ "Apsenterotermes aspersus": {
+  "gbif": {
+   "key": 4803250,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apsenterotermes aspersus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "FY2L",
+   "status": "accepted",
+   "label": "Apsenterotermes aspersus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110885194",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Apsenterotermes declinatus": {
+  "gbif": {
+   "key": 4803251,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apsenterotermes declinatus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "FY2M",
+   "status": "accepted",
+   "label": "Apsenterotermes declinatus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272338",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Apsenterotermes improcerus": {
+  "gbif": {
+   "key": 4803253,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apsenterotermes improcerus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "FY2N",
+   "status": "accepted",
+   "label": "Apsenterotermes improcerus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272339",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Apsenterotermes iridipennis": {
+  "gbif": {
+   "key": 4803254,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apsenterotermes iridipennis (Gay, 1956)",
+   "accepted": null
+  },
+  "col": {
+   "id": "FY2P",
+   "status": "accepted",
+   "label": "Apsenterotermes iridipennis (Gay, 1956)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272340",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Apsenterotermes stenopronos": {
+  "gbif": {
+   "key": 4803252,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apsenterotermes stenopronos Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "FY2Q",
+   "status": "accepted",
+   "label": "Apsenterotermes stenopronos Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272341",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,200 @@
+{
+ "Embiratermes benjamini": {
+  "gbif": {
+   "key": 9775457,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Embiratermes benjamini (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "39FYY",
+   "status": "accepted",
+   "label": "Embiratermes benjamini (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251054",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Embiratermes chagresi": {
+  "gbif": {
+   "key": 9655013,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Embiratermes chagresi (Snyder, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "39FZ2",
+   "status": "accepted",
+   "label": "Embiratermes chagresi (Snyder, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251056",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Embiratermes festivellus": {
+  "gbif": {
+   "key": 9727699,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Embiratermes festivellus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "39FZ3",
+   "status": "accepted",
+   "label": "Embiratermes festivellus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251057",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Embiratermes heterotypus": {
+  "gbif": {
+   "key": 9715663,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Embiratermes heterotypus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "39FZ4",
+   "status": "accepted",
+   "label": "Embiratermes heterotypus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251058",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Embiratermes latidens": {
+  "gbif": {
+   "key": 9807952,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Embiratermes latidens (Banks & Emerson, 1957)",
+   "accepted": null
+  },
+  "col": {
+   "id": "39FZ6",
+   "status": "accepted",
+   "label": "Embiratermes latidens (Banks & Emerson, 1957)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251061",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Embiratermes neotenicus": {
+  "gbif": {
+   "key": 9316129,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Embiratermes neotenicus (Holmgren, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "39FZ7",
+   "status": "accepted",
+   "label": "Embiratermes neotenicus (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251062",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Embiratermes snyderi": {
+  "gbif": {
+   "key": 9819601,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Embiratermes snyderi (Emerson & Banks, 1957)",
+   "accepted": null
+  },
+  "col": {
+   "id": "39FZB",
+   "status": "accepted",
+   "label": "Embiratermes snyderi (Emerson & Banks, 1957)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251067",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Embiratermes spissus": {
+  "gbif": {
+   "key": 9665715,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Embiratermes spissus (Emerson & Banks, 1957)",
+   "accepted": null
+  },
+  "col": {
+   "id": "39FZC",
+   "status": "accepted",
+   "label": "Embiratermes spissus (Emerson & Banks, 1957)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251069",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Embiratermes transandinus": {
+  "gbif": {
+   "key": 9747271,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Embiratermes transandinus (Araujo, 1977)",
+   "accepted": null
+  },
+  "col": {
+   "id": "39FZD",
+   "status": "accepted",
+   "label": "Embiratermes transandinus (Araujo, 1977)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251070",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

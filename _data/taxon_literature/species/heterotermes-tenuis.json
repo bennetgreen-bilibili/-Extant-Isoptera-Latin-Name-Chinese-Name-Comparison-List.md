@@ -1,0 +1,55 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "西印度群岛的分布",
+   "heading_en": "Distribution in the West Indies",
+   "heading_es": "Distribución en las Antillas",
+   "paragraphs": [
+    {
+     "text": "据摘要，Szalanski 等（2004）把除巴巴多斯与马提尼克以外的小安的列斯群岛、厄瓜多尔与苏里南的种群归入细瘦异白蚁（Heterotermes tenuis）。",
+     "text_en": "According to the abstract, Szalanski et al. (2004) assigned populations from the Lesser Antilles except Barbados and Martinique, from Ecuador and from Suriname to <i>Heterotermes tenuis</i>.",
+     "text_es": "Según el resumen, Szalanski et al. (2004) asignaron a <i>Heterotermes tenuis</i> las poblaciones de las Antillas Menores excepto Barbados y Martinica, de Ecuador y de Surinam.",
+     "src": [
+      "S0192"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "兵蚁先导的觅食",
+   "heading_en": "Soldier-led foraging",
+   "heading_es": "Forrajeo encabezado por soldados",
+   "paragraphs": [
+    {
+     "src": [
+      "S0199"
+     ],
+     "text": "根据 Casarin 等（2008）在巴西圣保罗州里奥克拉罗（22°23′43″S，47°32′39″W）对 3 个野外群体历时 12 个月的监测，细瘦异白蚁（<i>Heterotermes tenuis</i>）取食区内的品级比例在群体间无显著差异（ANOVA，F=0.168，df=2，P=0.846），工蚁在各群体中都最多；实验室中，小兵蚁是最常启动觅食的个体，各品级参与觅食的频率取决于兵蚁数量（G=20.5092，df=6，P<0.01），与个体总数无关（G=0.14619，df=2，P>0.01）。",
+     "text_en": "In a 12-month survey of three field colonies at Rio Claro, São Paulo, Brazil (22°23′43″S, 47°32′39″W), Casarin et al. (2008) found no significant difference in caste proportions within the foraging territories of <i>Heterotermes tenuis</i> (ANOVA, F=0.168, df=2, P=0.846), workers being the most abundant caste in every colony. In the laboratory, minor soldiers were the most frequent initiators of foraging, and the frequency with which each caste took part depended on the number of soldiers (G=20.5092, df=6, P<0.01) rather than on the total number of termites (G=0.14619, df=2, P>0.01).",
+     "text_es": "En un seguimiento de 12 meses de tres colonias de campo en Rio Claro, São Paulo, Brasil (22°23′43″S, 47°32′39″O), Casarin et al. (2008) no hallaron diferencias significativas en las proporciones de castas dentro de los territorios de forrajeo de <i>Heterotermes tenuis</i> (ANOVA, F=0,168, gl=2, P=0,846), siendo las obreras la casta más abundante en todas las colonias. En laboratorio, los soldados menores fueron los iniciadores del forrajeo más frecuentes, y la frecuencia con que participaba cada casta dependía del número de soldados (G=20,5092, gl=6, P<0,01) y no del número total de termitas (G=0,14619, gl=2, P>0,01)."
+    },
+    {
+     "src": [
+      "S0199"
+     ],
+     "text": "同一研究的三种生物测定各重复 10 次，在 24–26°C、80% 相对湿度下用 100 头与 200 头个体、兵蚁比例 5% 与 20% 比较；野外群体的取食个体中工蚁占 95%、小型兵蚁占 3%、大型兵蚁占 2%。作者据此推测，细瘦异白蚁觅食的探索阶段受取食区内兵蚁数量调节。",
+     "text_en": "The study's three bioassays, each replicated ten times at 24–26°C and 80% RH, compared groups of 100 and 200 individuals with soldier proportions of 5% and 20%; in the field colonies, foragers consisted of 95% workers, 3% minor soldiers and 2% major soldiers. The authors therefore suggest that the exploratory phase of foraging in <i>Heterotermes tenuis</i> is regulated by the number of soldiers present in the foraging territory.",
+     "text_es": "Los tres bioensayos del estudio, con diez repeticiones cada uno a 24–26 °C y 80 % de humedad relativa, compararon grupos de 100 y 200 individuos con proporciones de soldados del 5 % y del 20 %; en las colonias de campo los forrajeadores consistían en 95 % de obreras, 3 % de soldados menores y 2 % de soldados mayores. Los autores sugieren por ello que la fase exploratoria del forrajeo de <i>Heterotermes tenuis</i> está regulada por el número de soldados presentes en el territorio de forrajeo."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0192",
+   "citation": "Szalanski, A. L.; Scheffrahn, R. H.; Austin, J. W.; Křeček, J.; Su, N.-Y. 2004. Molecular phylogeny and biogeography of Heterotermes (Isoptera: Rhinotermitidae) in the West Indies. Annals of the Entomological Society of America 97: 556–566.",
+   "doi": "10.1603/0013-8746(2004)097[0556:MPABOH]2.0.CO;2"
+  },
+  {
+   "id": "S0199",
+   "citation": "Casarin, F. E., Costa-Leonardo, A. M. & Arab, A. (2008). Soldiers initiate foraging activities in the subterranean termite, Heterotermes tenuis. Journal of Insect Science, 8.",
+   "doi": "10.1673/031.008.0201"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "latin": "Crenetermes",
+ "zh": "刻痕白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Crenetermes Silvestri, 1912a: 245–247.",
+ "type_species": "Eutermes albotarsalis Sjöstedt, 1897 by original designation.",
+ "references": [
+  {
+   "ref": "Holmgren, 1912a: 97, 98, 101–102",
+   "note": "Crenetermes; characters; key; species included; systematic position [incorrectly listed as n. gen. in key]."
+  },
+  {
+   "ref": "Emerson, 1928b: 408, 419",
+   "note": "Crenetermes; key; distribution."
+  },
+  {
+   "ref": "Webb, 1961: 14",
+   "note": "Crenetermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 25, 94, 95, pl. 15: fig. 44f",
+   "note": "Crenetermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 37",
+   "note": "Crenetermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 41, 192–194, figs. 703–719, pl. 9: fig. 9",
+   "note": "Crenetermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  },
+  {
+   "ref": "Uys, 2002: 66, 75–76, fig. 180",
+   "note": "Crenetermes; key; species included; diagnosis; biology; distribution. South Africa. Sulcitermes Holmgren, 1912a: 101 [nomen nudum; unnecessary nom. nov. for Crenetermes Silvestri, 1912]."
+  }
+ ],
+ "nrefs": 17
+}

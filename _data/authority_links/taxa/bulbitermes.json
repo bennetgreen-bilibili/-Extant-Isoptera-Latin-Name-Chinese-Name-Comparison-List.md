@@ -1,0 +1,752 @@
+{
+ "Bulbitermes borneensis": {
+  "gbif": {
+   "key": 9733090,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes borneensis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ5V",
+   "status": "accepted",
+   "label": "Bulbitermes borneensis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621441",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes brevicornis": {
+  "gbif": {
+   "key": 9814852,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes brevicornis (Light & Wilson, 1936)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ5W",
+   "status": "accepted",
+   "label": "Bulbitermes brevicornis (Light & Wilson, 1936)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621442",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes bulbiceps": {
+  "gbif": {
+   "key": 9760272,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes bulbiceps Maiti & Saha, 2000",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ5X",
+   "status": "accepted",
+   "label": "Bulbitermes bulbiceps Maiti & Saha, 2000",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621443",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes busuangae": {
+  "gbif": {
+   "key": 9728512,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes busuangae (Light & Wilson, 1936)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ5Y",
+   "status": "accepted",
+   "label": "Bulbitermes busuangae (Light & Wilson, 1936)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621444",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes constricticeps": {
+  "gbif": {
+   "key": 9668552,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes constricticeps (Light & Wilson, 1936)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ5Z",
+   "status": "accepted",
+   "label": "Bulbitermes constricticeps (Light & Wilson, 1936)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621445",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes constrictiformis": {
+  "gbif": {
+   "key": 8753882,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes constrictiformis (Holmgren, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ62",
+   "status": "accepted",
+   "label": "Bulbitermes constrictiformis (Holmgren, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621446",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes constrictoides": {
+  "gbif": {
+   "key": 8877608,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes constrictoides (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ63",
+   "status": "accepted",
+   "label": "Bulbitermes constrictoides (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621448",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes constrictus": {
+  "gbif": {
+   "key": 9417670,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes constrictus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ64",
+   "status": "accepted",
+   "label": "Bulbitermes constrictus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621449",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes debadiliporum": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Bulbitermes Emerson, 1949",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "BW8Z9",
+   "status": "accepted",
+   "label": "Bulbitermes debadiliporum Das & Choudhury, 2023",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes durianensis": {
+  "gbif": {
+   "key": 9647824,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes durianensis Roonwal & Maiti, 1966",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ65",
+   "status": "accepted",
+   "label": "Bulbitermes durianensis Roonwal & Maiti, 1966",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621450",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes flavicans": {
+  "gbif": {
+   "key": 9235156,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes flavicans (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ67",
+   "status": "accepted",
+   "label": "Bulbitermes flavicans (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621451",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes fulvus": {
+  "gbif": {
+   "key": 9750208,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes fulvus (Tsai & Chen, 1963)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ68",
+   "status": "accepted",
+   "label": "Bulbitermes fulvus (Tsai & Chen, 1963)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621452",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes gedeensis": {
+  "gbif": {
+   "key": 9709134,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes gedeensis (Kemner, 1934)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ69",
+   "status": "accepted",
+   "label": "Bulbitermes gedeensis (Kemner, 1934)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621454",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes germanus": {
+  "gbif": {
+   "key": 9742696,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes germanus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5WSBX",
+   "status": "accepted",
+   "label": "Bulbitermes germanus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621455",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes johorensis": {
+  "gbif": {
+   "key": 9703877,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes johorensis Akhtar & Pervez, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6B",
+   "status": "accepted",
+   "label": "Bulbitermes johorensis Akhtar & Pervez, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621456",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes kraepelini": {
+  "gbif": {
+   "key": 9764858,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes kraepelini (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6C",
+   "status": "accepted",
+   "label": "Bulbitermes kraepelini (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621457",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes lakshmani": {
+  "gbif": {
+   "key": 9697228,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes lakshmani Roonwal & Maiti, 1966",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6D",
+   "status": "accepted",
+   "label": "Bulbitermes lakshmani Roonwal & Maiti, 1966",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621458",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes mariveles": {
+  "gbif": {
+   "key": 9730637,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes mariveles (Light & Wilson, 1936)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6F",
+   "status": "accepted",
+   "label": "Bulbitermes mariveles (Light & Wilson, 1936)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621459",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes mcgregori": {
+  "gbif": {
+   "key": 9666528,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes mcgregori (Oshima, 1916)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6G",
+   "status": "accepted",
+   "label": "Bulbitermes mcgregori (Oshima, 1916)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621460",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes nasutus": {
+  "gbif": {
+   "key": 9079685,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes nasutus (Holmgren, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6H",
+   "status": "accepted",
+   "label": "Bulbitermes nasutus (Holmgren, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621461",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes parapusillus": {
+  "gbif": {
+   "key": 9659331,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes parapusillus Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6J",
+   "status": "accepted",
+   "label": "Bulbitermes parapusillus Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621462",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes perpusillus": {
+  "gbif": {
+   "key": 9804940,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes perpusillus (John, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6K",
+   "status": "accepted",
+   "label": "Bulbitermes perpusillus (John, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621463",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes prabhae": {
+  "gbif": {
+   "key": 9652225,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes prabhae Krishna, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6L",
+   "status": "accepted",
+   "label": "Bulbitermes prabhae Krishna, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621464",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes pronasutus": {
+  "gbif": {
+   "key": 9691988,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes pronasutus Akhtar & Pervez, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6M",
+   "status": "accepted",
+   "label": "Bulbitermes pronasutus Akhtar & Pervez, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621465",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes prorosae": {
+  "gbif": {
+   "key": 9661358,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes prorosae Akhtar & Pervez, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6N",
+   "status": "accepted",
+   "label": "Bulbitermes prorosae Akhtar & Pervez, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621466",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes pusillus": {
+  "gbif": {
+   "key": 8799439,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes pusillus (Holmgren, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6P",
+   "status": "accepted",
+   "label": "Bulbitermes pusillus (Holmgren, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621467",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes pyriformis": {
+  "gbif": {
+   "key": 9812677,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes pyriformis Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6Q",
+   "status": "accepted",
+   "label": "Bulbitermes pyriformis Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621468",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes rosae": {
+  "gbif": {
+   "key": 9807142,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes rosae (Kemner, 1934)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6R",
+   "status": "accepted",
+   "label": "Bulbitermes rosae (Kemner, 1934)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621469",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes salakensis": {
+  "gbif": {
+   "key": 9748098,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes salakensis (Kemner, 1934)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6S",
+   "status": "accepted",
+   "label": "Bulbitermes salakensis (Kemner, 1934)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621470",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes sarawakensis": {
+  "gbif": {
+   "key": 9792522,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes sarawakensis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6T",
+   "status": "accepted",
+   "label": "Bulbitermes sarawakensis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621471",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes singaporiensis": {
+  "gbif": {
+   "key": 9541656,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes singaporiensis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5X4BX",
+   "status": "accepted",
+   "label": "Bulbitermes singaporiensis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621472",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes subulatus": {
+  "gbif": {
+   "key": 9701821,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes subulatus (Holmgren, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6V",
+   "status": "accepted",
+   "label": "Bulbitermes subulatus (Holmgren, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621473",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes umasumasensis": {
+  "gbif": {
+   "key": 9687462,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes umasumasensis Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6W",
+   "status": "accepted",
+   "label": "Bulbitermes umasumasensis Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621474",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Bulbitermes vicinus": {
+  "gbif": {
+   "key": 9740555,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Bulbitermes vicinus (Kemner, 1934)",
+   "accepted": null
+  },
+  "col": {
+   "id": "NQ6X",
+   "status": "accepted",
+   "label": "Bulbitermes vicinus (Kemner, 1934)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130621475",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,2710 @@
+{
+ "Neotermes aburiensis": {
+  "gbif": {
+   "key": 9381676,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes aburiensis Sjöstedt, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "749D5",
+   "status": "accepted",
+   "label": "Neotermes aburiensis Sjöstedt, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q107030465",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes acceptus": {
+  "gbif": {
+   "key": 9813918,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes acceptus Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9CS",
+   "status": "accepted",
+   "label": "Neotermes acceptus Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467041",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes adampurensis": {
+  "gbif": {
+   "key": 9672081,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes adampurensis Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXCS",
+   "status": "accepted",
+   "label": "Neotermes adampurensis Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467042",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes agilis": {
+  "gbif": {
+   "key": 9385219,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes agilis (Sjöstedt, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXD4",
+   "status": "accepted",
+   "label": "Neotermes agilis (Sjöstedt, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q107030489",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes amplilabralis": {
+  "gbif": {
+   "key": 9794590,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes amplilabralis Xu & Han, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9D4",
+   "status": "accepted",
+   "label": "Neotermes amplilabralis Xu & Han, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467043",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes andamanensis": {
+  "gbif": {
+   "key": 9648717,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes andamanensis (Snyder, 1933)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XD4",
+   "status": "accepted",
+   "label": "Neotermes andamanensis (Snyder, 1933)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467044",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes angustigulus": {
+  "gbif": {
+   "key": 9816587,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes angustigulus Han, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "749CS",
+   "status": "accepted",
+   "label": "Neotermes angustigulus Han, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467045",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes araguaensis": {
+  "gbif": {
+   "key": 8790622,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes araguaensis Snyder, 1959",
+   "accepted": null
+  },
+  "col": {
+   "id": "749D4",
+   "status": "accepted",
+   "label": "Neotermes araguaensis Snyder, 1959",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467046",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes aridus": {
+  "gbif": {
+   "key": 9766917,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes aridus Wilkinson, 1959",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXD3",
+   "status": "accepted",
+   "label": "Neotermes aridus Wilkinson, 1959",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467047",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes arthurimuelleri": {
+  "gbif": {
+   "key": 9708300,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes arthurimuelleri (von Rosen, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXCR",
+   "status": "accepted",
+   "label": "Neotermes arthurimuelleri (von Rosen, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467048",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes artocarpi": {
+  "gbif": {
+   "key": 9673772,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes artocarpi (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9CR",
+   "status": "accepted",
+   "label": "Neotermes artocarpi (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467049",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes assamensis": {
+  "gbif": {
+   "key": 9742603,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes assamensis Maiti & Saha, 2000",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9D3",
+   "status": "accepted",
+   "label": "Neotermes assamensis Maiti & Saha, 2000",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467050",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes assmuthi": {
+  "gbif": {
+   "key": 9748181,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes assmuthi (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XCR",
+   "status": "accepted",
+   "label": "Neotermes assmuthi (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467051",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes binovatus": {
+  "gbif": {
+   "key": 9724809,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes binovatus Han, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XD3",
+   "status": "accepted",
+   "label": "Neotermes binovatus Han, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467052",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes blairi": {
+  "gbif": {
+   "key": 9650601,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes blairi Maiti & Chakraborty, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "749CR",
+   "status": "accepted",
+   "label": "Neotermes blairi Maiti & Chakraborty, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467053",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes bosei": {
+  "gbif": {
+   "key": 9702966,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes bosei (Snyder, 1933)",
+   "accepted": null
+  },
+  "col": {
+   "id": "749D3",
+   "status": "accepted",
+   "label": "Neotermes bosei (Snyder, 1933)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467054",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes brachynotum": {
+  "gbif": {
+   "key": 9720188,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes brachynotum Xu & Han, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXD2",
+   "status": "accepted",
+   "label": "Neotermes brachynotum Xu & Han, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467055",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes brevinotus": {
+  "gbif": {
+   "key": 9653386,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes brevinotus (Snyder, 1932)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXCQ",
+   "status": "accepted",
+   "label": "Neotermes brevinotus (Snyder, 1932)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467056",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes buxensis": {
+  "gbif": {
+   "key": 9807972,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes buxensis Roonwal & Sen-Sarma, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9CQ",
+   "status": "accepted",
+   "label": "Neotermes buxensis Roonwal & Sen-Sarma, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467057",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes camerunensis": {
+  "gbif": {
+   "key": 9761449,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes camerunensis (Sjöstedt, 1900)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9D2",
+   "status": "accepted",
+   "label": "Neotermes camerunensis (Sjöstedt, 1900)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467058",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes castaneus": {
+  "gbif": {
+   "key": 2007335,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes castaneus (Burmeister, 1839)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XCQ",
+   "status": "accepted",
+   "label": "Neotermes castaneus (Burmeister, 1839)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582595",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes chilensis": {
+  "gbif": {
+   "key": 9651400,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes chilensis (Blanchard, 1851)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XD2",
+   "status": "accepted",
+   "label": "Neotermes chilensis (Blanchard, 1851)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q107166395",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes collarti": {
+  "gbif": {
+   "key": 9689139,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes collarti Coaton, 1955",
+   "accepted": null
+  },
+  "col": {
+   "id": "749CQ",
+   "status": "accepted",
+   "label": "Neotermes collarti Coaton, 1955",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467059",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes connexus": {
+  "gbif": {
+   "key": 2007333,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes connexus Snyder, 1922",
+   "accepted": null
+  },
+  "col": {
+   "id": "749D2",
+   "status": "accepted",
+   "label": "Neotermes connexus Snyder, 1922",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582593",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes costaseca": {
+  "gbif": {
+   "key": 10562239,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes costaseca Scheffrahn, 2018",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Neotermes Holmgren, 1911",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q107166341",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Neotermes cryptops": {
+  "gbif": {
+   "key": 9730544,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes cryptops (Sjöstedt, 1900)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXCP",
+   "status": "accepted",
+   "label": "Neotermes cryptops (Sjöstedt, 1900)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467060",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes cubanus": {
+  "gbif": {
+   "key": 9798546,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes cubanus (Snyder, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9CP",
+   "status": "accepted",
+   "label": "Neotermes cubanus (Snyder, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q126617992",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes dalbergiae": {
+  "gbif": {
+   "key": 9679194,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes dalbergiae (Kalshoven, 1930)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XCP",
+   "status": "accepted",
+   "label": "Neotermes dalbergiae (Kalshoven, 1930)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467061",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes desneuxi": {
+  "gbif": {
+   "key": 9815713,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes desneuxi (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "749CP",
+   "status": "accepted",
+   "label": "Neotermes desneuxi (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467062",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes dhirendrai": {
+  "gbif": {
+   "key": 9771629,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes dhirendrai Bose, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXCN",
+   "status": "accepted",
+   "label": "Neotermes dhirendrai Bose, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467063",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes dolichognathus": {
+  "gbif": {
+   "key": 9731442,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes dolichognathus Xu & Han, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9CN",
+   "status": "accepted",
+   "label": "Neotermes dolichognathus Xu & Han, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467064",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes dubiocalcaratus": {
+  "gbif": {
+   "key": 9805031,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes dubiocalcaratus Han, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XCN",
+   "status": "accepted",
+   "label": "Neotermes dubiocalcaratus Han, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467065",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes eleanorae": {
+  "gbif": {
+   "key": 9710017,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes eleanorae Bose, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "749CN",
+   "status": "accepted",
+   "label": "Neotermes eleanorae Bose, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467066",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes erythraeus": {
+  "gbif": {
+   "key": 9699232,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes erythraeus Silvestri, 1918",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXCM",
+   "status": "accepted",
+   "label": "Neotermes erythraeus Silvestri, 1918",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467067",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes europae": {
+  "gbif": {
+   "key": 9132292,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes europae (Wasmann, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9CM",
+   "status": "accepted",
+   "label": "Neotermes europae (Wasmann, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467068",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes ferrugineus": {
+  "gbif": {
+   "key": 9697314,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes ferrugineus (Holmgren, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XCM",
+   "status": "accepted",
+   "label": "Neotermes ferrugineus (Holmgren, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467069",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes firmus": {
+  "gbif": {
+   "key": 9793730,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes firmus (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "749CM",
+   "status": "accepted",
+   "label": "Neotermes firmus (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467070",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes fletcheri": {
+  "gbif": {
+   "key": 9779278,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes fletcheri (Holmgren & Holmgren, 1917)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXCL",
+   "status": "accepted",
+   "label": "Neotermes fletcheri (Holmgren & Holmgren, 1917)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467071",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes fovefrons": {
+  "gbif": {
+   "key": 9761203,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes fovefrons Xu & Han, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9CL",
+   "status": "accepted",
+   "label": "Neotermes fovefrons Xu & Han, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467072",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes fujianensis": {
+  "gbif": {
+   "key": 9807049,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes fujianensis Ping, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XCL",
+   "status": "accepted",
+   "label": "Neotermes fujianensis Ping, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467073",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes fulvescens": {
+  "gbif": {
+   "key": 9739723,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes fulvescens (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "749CL",
+   "status": "accepted",
+   "label": "Neotermes fulvescens (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467074",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes gestri": {
+  "gbif": {
+   "key": 9051140,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes gestri Silvestri, 1912",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXCK",
+   "status": "accepted",
+   "label": "Neotermes gestri Silvestri, 1912",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467075",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes glabriusculus": {
+  "gbif": {
+   "key": 9658553,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes glabriusculus de Oliveira, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9CK",
+   "status": "accepted",
+   "label": "Neotermes glabriusculus de Oliveira, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467076",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes gnathoferrum": {
+  "gbif": {
+   "key": 9685446,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes gnathoferrum Ware, Lal & Grimaldi, 2010",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XCK",
+   "status": "accepted",
+   "label": "Neotermes gnathoferrum Ware, Lal & Grimaldi, 2010",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467077",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes gracilidens": {
+  "gbif": {
+   "key": 9735156,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes gracilidens Sjöstedt, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "749CK",
+   "status": "accepted",
+   "label": "Neotermes gracilidens Sjöstedt, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467078",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes grandis": {
+  "gbif": {
+   "key": 9055111,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes grandis Light, 1930",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXCJ",
+   "status": "accepted",
+   "label": "Neotermes grandis Light, 1930",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467079",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes greeni": {
+  "gbif": {
+   "key": 9775474,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes greeni (Desneux, 1908)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XCJ",
+   "status": "accepted",
+   "label": "Neotermes greeni (Desneux, 1908)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591784",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes hirtellus": {
+  "gbif": {
+   "key": 9736039,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes hirtellus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "749CJ",
+   "status": "accepted",
+   "label": "Neotermes hirtellus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467081",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes holmgreni": {
+  "gbif": {
+   "key": 2007330,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes holmgreni Banks, 1918",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXCH",
+   "status": "accepted",
+   "label": "Neotermes holmgreni Banks, 1918",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582598",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes humilis": {
+  "gbif": {
+   "key": 9819579,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes humilis Han, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9CH",
+   "status": "accepted",
+   "label": "Neotermes humilis Han, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467082",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes insularis": {
+  "gbif": {
+   "key": 4802904,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes insularis (Walker, 1853)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XCH",
+   "status": "accepted",
+   "label": "Neotermes insularis (Walker, 1853)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q109121803",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes intracaulis": {
+  "gbif": {
+   "key": 9695590,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes intracaulis Scheffrahn & Křeček, 2003",
+   "accepted": null
+  },
+  "col": {
+   "id": "749CH",
+   "status": "accepted",
+   "label": "Neotermes intracaulis Scheffrahn & Křeček, 2003",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467083",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes jouteli": {
+  "gbif": {
+   "key": 2007332,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes jouteli (Banks, 1919)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9CG",
+   "status": "accepted",
+   "label": "Neotermes jouteli (Banks, 1919)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582597",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes kalimpongensis": {
+  "gbif": {
+   "key": 9693613,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes kalimpongensis Maiti, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XCG",
+   "status": "accepted",
+   "label": "Neotermes kalimpongensis Maiti, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467084",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes kanehirai": {
+  "gbif": {
+   "key": 9800320,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes kanehirai (Oshima, 1917)",
+   "accepted": null
+  },
+  "col": {
+   "id": "749CG",
+   "status": "accepted",
+   "label": "Neotermes kanehirai (Oshima, 1917)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467085",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes kartaboensis": {
+  "gbif": {
+   "key": 9729460,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes kartaboensis (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXDZ",
+   "status": "accepted",
+   "label": "Neotermes kartaboensis (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467086",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes kemneri": {
+  "gbif": {
+   "key": 9711970,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes kemneri Roonwal & Sen-Sarma, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9DZ",
+   "status": "accepted",
+   "label": "Neotermes kemneri Roonwal & Sen-Sarma, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591786",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes keralai": {
+  "gbif": {
+   "key": 9766048,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes keralai Roonwal & Verma, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XDZ",
+   "status": "accepted",
+   "label": "Neotermes keralai Roonwal & Verma, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467087",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes ketelensis": {
+  "gbif": {
+   "key": 9759457,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes ketelensis Kemner, 1932",
+   "accepted": null
+  },
+  "col": {
+   "id": "749DZ",
+   "status": "accepted",
+   "label": "Neotermes ketelensis Kemner, 1932",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467088",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes koshunensis": {
+  "gbif": {
+   "key": 5734050,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes koshunensis (Shiraki, 1909)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXDY",
+   "status": "accepted",
+   "label": "Neotermes koshunensis (Shiraki, 1909)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q126617753",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes krishnai": {
+  "gbif": {
+   "key": 9786965,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes krishnai Bose, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9DY",
+   "status": "accepted",
+   "label": "Neotermes krishnai Bose, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467089",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes lagunensis": {
+  "gbif": {
+   "key": 9776332,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes lagunensis (Oshima, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XDY",
+   "status": "accepted",
+   "label": "Neotermes lagunensis (Oshima, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467090",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes larseni": {
+  "gbif": {
+   "key": 2007334,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes larseni (Light, 1935)",
+   "accepted": null
+  },
+  "col": {
+   "id": "749DY",
+   "status": "accepted",
+   "label": "Neotermes larseni (Light, 1935)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582596",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes laticollis": {
+  "gbif": {
+   "key": 9667425,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes laticollis (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXDX",
+   "status": "accepted",
+   "label": "Neotermes laticollis (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49437277",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes lepersonneae": {
+  "gbif": {
+   "key": 9662145,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes lepersonneae Coaton, 1955",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9DX",
+   "status": "accepted",
+   "label": "Neotermes lepersonneae Coaton, 1955",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467091",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes longiceps": {
+  "gbif": {
+   "key": 9688284,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes longiceps Xu & Han, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XDX",
+   "status": "accepted",
+   "label": "Neotermes longiceps Xu & Han, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467092",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes longipennis": {
+  "gbif": {
+   "key": 9743542,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes longipennis Kemner, 1930",
+   "accepted": null
+  },
+  "col": {
+   "id": "749DX",
+   "status": "accepted",
+   "label": "Neotermes longipennis Kemner, 1930",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467093",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes ludaoensis": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Neotermes Holmgren, 1911",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CG5MB",
+   "status": "accepted",
+   "label": "Neotermes ludaoensis Wu, Tsai & Li, 2024",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Neotermes luykxi": {
+  "gbif": {
+   "key": 2007331,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes luykxi Nickle & Collins, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXDW",
+   "status": "accepted",
+   "label": "Neotermes luykxi Nickle & Collins, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582592",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes magnoculus": {
+  "gbif": {
+   "key": 8741616,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes magnoculus (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9DW",
+   "status": "accepted",
+   "label": "Neotermes magnoculus (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467094",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes malatensis": {
+  "gbif": {
+   "key": 9767831,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes malatensis (Oshima, 1917)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XDW",
+   "status": "accepted",
+   "label": "Neotermes malatensis (Oshima, 1917)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467096",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes mangiferae": {
+  "gbif": {
+   "key": 9678963,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes mangiferae Roonwal & Sen-Sarma, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "749DW",
+   "status": "accepted",
+   "label": "Neotermes mangiferae Roonwal & Sen-Sarma, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467097",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes medius": {
+  "gbif": {
+   "key": 9703798,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes medius Oshima, 1923",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXDV",
+   "status": "accepted",
+   "label": "Neotermes medius Oshima, 1923",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467098",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes megaoculatus": {
+  "gbif": {
+   "key": 9691908,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes megaoculatus Roonwal & Sen-Sarma, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9DV",
+   "status": "accepted",
+   "label": "Neotermes megaoculatus Roonwal & Sen-Sarma, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467099",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes megaoculatus lakhimpuri": {
+  "gbif": {
+   "key": 9812761,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Neotermes megaoculatus lakhimpuri Roonwal & Sen-Sarma, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2C42",
+   "status": "accepted",
+   "label": "Neotermes megaoculatus lakhimpuri Roonwal & Sen-Sarma, 1960",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes megaoculatus megaoculatus": {
+  "gbif": {
+   "key": 9678160,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Neotermes megaoculatus megaoculatus Roonwal & Sen-Sarma, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "7HJNM",
+   "status": "accepted",
+   "label": "Neotermes megaoculatus megaoculatus Roonwal & Sen-Sarma, 1960",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes meruensis": {
+  "gbif": {
+   "key": 9032601,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes meruensis (Sjöstedt, 1907)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XDV",
+   "status": "accepted",
+   "label": "Neotermes meruensis (Sjöstedt, 1907)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467101",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes microculatus": {
+  "gbif": {
+   "key": 9700145,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes microculatus Roonwal & Sen-Sarma, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "749DV",
+   "status": "accepted",
+   "label": "Neotermes microculatus Roonwal & Sen-Sarma, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467102",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes microphthalmus": {
+  "gbif": {
+   "key": 9716553,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes microphthalmus Light, 1930",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXDT",
+   "status": "accepted",
+   "label": "Neotermes microphthalmus Light, 1930",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467103",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes minutus": {
+  "gbif": {
+   "key": 9764045,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes minutus Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9DT",
+   "status": "accepted",
+   "label": "Neotermes minutus Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467104",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes miracapitalis": {
+  "gbif": {
+   "key": 9736874,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes miracapitalis Xu & Han, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XDT",
+   "status": "accepted",
+   "label": "Neotermes miracapitalis Xu & Han, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467105",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes modestus": {
+  "gbif": {
+   "key": 9670166,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes modestus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "749DT",
+   "status": "accepted",
+   "label": "Neotermes modestus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467106",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes mona": {
+  "gbif": {
+   "key": 9648946,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes mona (Banks, 1919)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXDS",
+   "status": "accepted",
+   "label": "Neotermes mona (Banks, 1919)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q129911316",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes nigeriensis": {
+  "gbif": {
+   "key": 9749045,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes nigeriensis (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9DS",
+   "status": "accepted",
+   "label": "Neotermes nigeriensis (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467107",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes nilamburensis": {
+  "gbif": {
+   "key": 9734318,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes nilamburensis Thakur, 1978",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XDS",
+   "status": "accepted",
+   "label": "Neotermes nilamburensis Thakur, 1978",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467108",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes ovatus": {
+  "gbif": {
+   "key": 9649740,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes ovatus Kemner, 1931",
+   "accepted": null
+  },
+  "col": {
+   "id": "749DS",
+   "status": "accepted",
+   "label": "Neotermes ovatus Kemner, 1931",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467109",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes pallidicollis": {
+  "gbif": {
+   "key": 9655870,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes pallidicollis (Sjöstedt, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXDR",
+   "status": "accepted",
+   "label": "Neotermes pallidicollis (Sjöstedt, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467110",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes papua": {
+  "gbif": {
+   "key": 9774548,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes papua (Desneux, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9DR",
+   "status": "accepted",
+   "label": "Neotermes papua (Desneux, 1905)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467111",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes paraensis": {
+  "gbif": {
+   "key": 9659409,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes paraensis (da Costa Lima, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XDR",
+   "status": "accepted",
+   "label": "Neotermes paraensis (da Costa Lima, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467112",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes paratensis": {
+  "gbif": {
+   "key": 9792606,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes paratensis Sen-Sarma & Thakur, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "749DR",
+   "status": "accepted",
+   "label": "Neotermes paratensis Sen-Sarma & Thakur, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467114",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes parviscutatus": {
+  "gbif": {
+   "key": 9698152,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes parviscutatus Light, 1930",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXDQ",
+   "status": "accepted",
+   "label": "Neotermes parviscutatus Light, 1930",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467115",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes phragmosus": {
+  "gbif": {
+   "key": 9796452,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes phragmosus Křeček & Scheffrahn, 2003",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9DQ",
+   "status": "accepted",
+   "label": "Neotermes phragmosus Křeček & Scheffrahn, 2003",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467116",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes pingshanensis": {
+  "gbif": {
+   "key": 9787882,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes pingshanensis Tan & Peng, 2009",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XDQ",
+   "status": "accepted",
+   "label": "Neotermes pingshanensis Tan & Peng, 2009",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467117",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes platyfrons": {
+  "gbif": {
+   "key": 9751060,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes platyfrons Křeček & Scheffrahn, 2001",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXDP",
+   "status": "accepted",
+   "label": "Neotermes platyfrons Křeček & Scheffrahn, 2001",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467118",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes prosonneratiae": {
+  "gbif": {
+   "key": 9655038,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes prosonneratiae Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9DP",
+   "status": "accepted",
+   "label": "Neotermes prosonneratiae Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467119",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes rainbowi": {
+  "gbif": {
+   "key": 9814762,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes rainbowi (Hill, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XDP",
+   "status": "accepted",
+   "label": "Neotermes rainbowi (Hill, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467120",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes rhizophorae": {
+  "gbif": {
+   "key": 9686296,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes rhizophorae Maiti & Chakraborty, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "749DP",
+   "status": "accepted",
+   "label": "Neotermes rhizophorae Maiti & Chakraborty, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467121",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes rouxi": {
+  "gbif": {
+   "key": 9376324,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes rouxi (Holmgren & Holmgren, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXDN",
+   "status": "accepted",
+   "label": "Neotermes rouxi (Holmgren & Holmgren, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467122",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes saleierensis": {
+  "gbif": {
+   "key": 9751908,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes saleierensis Kemner, 1932",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9DN",
+   "status": "accepted",
+   "label": "Neotermes saleierensis Kemner, 1932",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467123",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes samoanus": {
+  "gbif": {
+   "key": 9707466,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes samoanus (Holmgren, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XDN",
+   "status": "accepted",
+   "label": "Neotermes samoanus (Holmgren, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q24956044",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes sanctaecrucis": {
+  "gbif": {
+   "key": 9061169,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes sanctaecrucis (Snyder, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "749DN",
+   "status": "accepted",
+   "label": "Neotermes sanctaecrucis (Snyder, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467124",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes sarasini": {
+  "gbif": {
+   "key": 9463800,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes sarasini (Holmgren & Holmgren, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXDM",
+   "status": "accepted",
+   "label": "Neotermes sarasini (Holmgren & Holmgren, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467125",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes schultzei": {
+  "gbif": {
+   "key": 9677321,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes schultzei (Holmgren, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9DM",
+   "status": "accepted",
+   "label": "Neotermes schultzei (Holmgren, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467126",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes sepulvillus": {
+  "gbif": {
+   "key": 9714802,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes sepulvillus (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XDM",
+   "status": "accepted",
+   "label": "Neotermes sepulvillus (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467127",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes setifer": {
+  "gbif": {
+   "key": 8922045,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes setifer Snyder, 1957",
+   "accepted": null
+  },
+  "col": {
+   "id": "749DM",
+   "status": "accepted",
+   "label": "Neotermes setifer Snyder, 1957",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467129",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes shimogensis": {
+  "gbif": {
+   "key": 9754765,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes shimogensis Thakur, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXDL",
+   "status": "accepted",
+   "label": "Neotermes shimogensis Thakur, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467130",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes sinensis": {
+  "gbif": {
+   "key": 9674576,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes sinensis (Light, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9DL",
+   "status": "accepted",
+   "label": "Neotermes sinensis (Light, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467131",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes sjostedti": {
+  "gbif": {
+   "key": 9755703,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes sjostedti (Desneux, 1908)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XDL",
+   "status": "accepted",
+   "label": "Neotermes sjostedti (Desneux, 1908)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467132",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes sonneratiae": {
+  "gbif": {
+   "key": 9722161,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes sonneratiae Kemner, 1932",
+   "accepted": null
+  },
+  "col": {
+   "id": "749DL",
+   "status": "accepted",
+   "label": "Neotermes sonneratiae Kemner, 1932",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467133",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes sphenocephalus": {
+  "gbif": {
+   "key": 9662962,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes sphenocephalus Xu & Han, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXDK",
+   "status": "accepted",
+   "label": "Neotermes sphenocephalus Xu & Han, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467134",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes sugioi": {
+  "gbif": {
+   "key": 10060221,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes sugioi Yashiro, 2019",
+   "accepted": null
+  },
+  "col": {
+   "id": "8V3Y2",
+   "status": "accepted",
+   "label": "Neotermes sugioi Yashiro, 2019",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes superans": {
+  "gbif": {
+   "key": 9799409,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes superans Silvestri, 1927",
+   "accepted": null
+  },
+  "col": {
+   "id": "9H6GN",
+   "status": "accepted",
+   "label": "Neotermes superans Silvestri, 1927",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467135",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes taishanensis": {
+  "gbif": {
+   "key": 9690817,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes taishanensis Xu & Han, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XDK",
+   "status": "accepted",
+   "label": "Neotermes taishanensis Xu & Han, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467136",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes tectonae": {
+  "gbif": {
+   "key": 9810923,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes tectonae (Dammerman, 1916)",
+   "accepted": null
+  },
+  "col": {
+   "id": "749DK",
+   "status": "accepted",
+   "label": "Neotermes tectonae (Dammerman, 1916)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q24956072",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes tuberogulus": {
+  "gbif": {
+   "key": 9806145,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes tuberogulus Xu & Han, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXDJ",
+   "status": "accepted",
+   "label": "Neotermes tuberogulus Xu & Han, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467137",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes undulatus": {
+  "gbif": {
+   "key": 9790782,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes undulatus Xu & Han, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9DJ",
+   "status": "accepted",
+   "label": "Neotermes undulatus Xu & Han, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467138",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes venkateshwara": {
+  "gbif": {
+   "key": 9791656,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes venkateshwara Bose, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XDJ",
+   "status": "accepted",
+   "label": "Neotermes venkateshwara Bose, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467139",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes viraktamathi": {
+  "gbif": {
+   "key": 12248734,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes viraktamathi Ranjith & Kalleshwaraswamy, 2022",
+   "accepted": null
+  },
+  "col": {
+   "id": "9J5PZ",
+   "status": "accepted",
+   "label": "Neotermes viraktamathi Ranjith & Kalleshwaraswamy, 2022",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q141838555",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes voeltzkowi": {
+  "gbif": {
+   "key": 9744406,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes voeltzkowi (Wasmann, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "749DJ",
+   "status": "accepted",
+   "label": "Neotermes voeltzkowi (Wasmann, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467140",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes wagneri": {
+  "gbif": {
+   "key": 9709216,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes wagneri (Desneux, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RXDH",
+   "status": "accepted",
+   "label": "Neotermes wagneri (Desneux, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467141",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes yunnanensis": {
+  "gbif": {
+   "key": 9704688,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes yunnanensis Xu & Han, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S9DH",
+   "status": "accepted",
+   "label": "Neotermes yunnanensis Xu & Han, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467142",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes zanclus": {
+  "gbif": {
+   "key": 9669355,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes zanclus de Oliveira, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "73XDH",
+   "status": "accepted",
+   "label": "Neotermes zanclus de Oliveira, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467143",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Neotermes zuluensis": {
+  "gbif": {
+   "key": 9719362,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Neotermes zuluensis (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "749DH",
+   "status": "accepted",
+   "label": "Neotermes zuluensis (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131467144",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

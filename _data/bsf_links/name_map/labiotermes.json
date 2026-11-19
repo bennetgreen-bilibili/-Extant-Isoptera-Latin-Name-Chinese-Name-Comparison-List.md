@@ -1,0 +1,112 @@
+{
+ "Labiotermes brevilabius": {
+  "label": "Labiotermes brevilabius Emerson & Banks, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 84218,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84218/overview",
+  "valid_label": null,
+  "valid_otu": 84218,
+  "verified": false
+ },
+ "Labiotermes emersoni": {
+  "label": "Labiotermes emersoni (Araujo, 1954)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84219,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84219/overview",
+  "valid_label": null,
+  "valid_otu": 84219,
+  "verified": false
+ },
+ "Labiotermes guasu": {
+  "label": "Labiotermes guasu Constantino & Acioli, 2006",
+  "match": "exact",
+  "notes": "",
+  "otu": 84220,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84220/overview",
+  "valid_label": null,
+  "valid_otu": 84220,
+  "verified": false
+ },
+ "Labiotermes labralis": {
+  "label": "Labiotermes labralis (Holmgren, 1906)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84221,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84221/overview",
+  "valid_label": null,
+  "valid_otu": 84221,
+  "verified": false
+ },
+ "Labiotermes laticephalus": {
+  "label": "Labiotermes laticephalus (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84222,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84222/overview",
+  "valid_label": null,
+  "valid_otu": 84222,
+  "verified": false
+ },
+ "Labiotermes leptothrix": {
+  "label": "Labiotermes leptothrix Mathews, 1977",
+  "match": "exact",
+  "notes": "",
+  "otu": 84223,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84223/overview",
+  "valid_label": null,
+  "valid_otu": 84223,
+  "verified": false
+ },
+ "Labiotermes longilabius": {
+  "label": "Labiotermes longilabius (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84224,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84224/overview",
+  "valid_label": null,
+  "valid_otu": 84224,
+  "verified": false
+ },
+ "Labiotermes oreadicus": {
+  "label": "Labiotermes oreadicus Constantino, 2006",
+  "match": "exact",
+  "notes": "",
+  "otu": 84225,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84225/overview",
+  "valid_label": null,
+  "valid_otu": 84225,
+  "verified": false
+ },
+ "Labiotermes orthocephalus": {
+  "label": "Labiotermes orthocephalus (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84226,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84226/overview",
+  "valid_label": null,
+  "valid_otu": 84226,
+  "verified": false
+ },
+ "Labiotermes pelliceus": {
+  "label": "Labiotermes pelliceus Emerson & Banks, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 84227,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84227/overview",
+  "valid_label": null,
+  "valid_otu": 84227,
+  "verified": false
+ }
+}

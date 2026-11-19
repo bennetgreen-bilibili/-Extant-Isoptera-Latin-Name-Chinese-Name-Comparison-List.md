@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "新种描述",
+   "heading_en": "Description of the new species",
+   "heading_es": "Descripción de la especie nueva",
+   "paragraphs": [
+    {
+     "text": "根据 Gay（1974）研究，沃森西部白蚁（<i>Occasitermes watsoni</i>）作为新种描述自澳大利亚新南威尔士州，是西部白蚁属（<i>Occasitermes</i>）在模式种西部西部白蚁（<i>Occasitermes occasus</i>）之外新增的种。（据摘要）",
+     "src": [
+      "S0341"
+     ],
+     "text_en": "In the study by Gay (1974), <i>Occasitermes watsoni</i> is described as a new species from New South Wales, Australia, adding a species to <i>Occasitermes</i> besides the type species <i>Occasitermes occasus</i>. (According to the abstract.)",
+     "text_es": "En el estudio de Gay (1974), <i>Occasitermes watsoni</i> se describe como especie nueva de Nueva Gales del Sur, Australia, añadiendo una especie a <i>Occasitermes</i> además de la especie tipo <i>Occasitermes occasus</i>. (Según el resumen.)"
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0341",
+   "citation": "Gay, F. J. 1974. The Australian termite genus Occasitermes (Isoptera: Termitidae: Nasutitermitinae). Australian Journal of Entomology 13.",
+   "doi": "10.1111/j.1440-6055.1974.tb02208.x"
+  }
+ ]
+}

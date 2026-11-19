@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "研究记述",
+   "heading_en": "Research notes",
+   "heading_es": "Notas de investigación",
+   "paragraphs": [
+    {
+     "text": "据摘要，鲍斯新白蚁（<i>Neotermes bosei</i>）在 Thakur 与 Mishra（1996）的饲养比较中属易大量饲养的木栖种，饲养条件为 28±1°C、80–90% RH，容器可用铁制或水泥制。",
+     "text_en": "According to the abstract, <i>Neotermes bosei</i> is among the wood-dwelling species that are easy to rear in large numbers in the rearing comparison by Thakur and Mishra (1996), under 28±1°C and 80–90% RH in iron or cement containers.",
+     "text_es": "Según el resumen, <i>Neotermes bosei</i> figura entre las especies xilófilas fáciles de criar en gran número en la comparación de cría de Thakur y Mishra (1996), a 28±1°C y 80–90% HR en recipientes de hierro o cemento.",
+     "src": [
+      "S0012"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0012",
+   "citation": "Thakur M. L., Mishra S. C. 1996 Laboratory culturing of some Indian wood destroying termites. Journal of Entomological Research 20(1): 73–82.",
+   "url": "https://indianjournals.com/article/jer-20-1-013"
+  }
+ ]
+}

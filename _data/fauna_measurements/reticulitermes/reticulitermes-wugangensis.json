@@ -1,0 +1,54 @@
+{
+ "book_n": "193",
+ "book_name": "武冈散白蚁 Reticulitermes",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "脱翅成虫量度( mm)",
+   "label_en": "Dealate measurements",
+   "label_es": "Medidas de dealado",
+   "label_zh": "脱翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "5.31"
+    },
+    {
+     "key": "head_length_labrum_tip",
+     "value": "1.51"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.12"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "value": "1.12"
+    },
+    {
+     "key": "head_width",
+     "value": "1.06"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.09"
+    },
+    {
+     "key": "eye_head_lower_margin",
+     "value": "0.22"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.63"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.01"
+    }
+   ],
+   "src_file": "401-500.txt",
+   "src_line": 1588,
+   "unit": "mm"
+  }
+ ]
+}

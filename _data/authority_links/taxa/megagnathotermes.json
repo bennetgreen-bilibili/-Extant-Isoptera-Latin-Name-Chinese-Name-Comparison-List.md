@@ -1,0 +1,24 @@
+{
+ "Megagnathotermes notandus": {
+  "gbif": {
+   "key": 9651889,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Megagnathotermes notandus Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "3YTNW",
+   "status": "accepted",
+   "label": "Megagnathotermes notandus Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210080",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

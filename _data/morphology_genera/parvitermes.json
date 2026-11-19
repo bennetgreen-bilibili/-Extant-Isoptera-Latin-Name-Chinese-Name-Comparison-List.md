@@ -1,0 +1,25 @@
+{
+ "zh_name": "微白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "小型、色浅的象白蚁。属级鉴别主要靠后肠瓣（enteric valve，EVA）：其后的刺环由 3 个龙骨状垫组成，每垫具约 7–15 根长刺，刺弯向与食物流相反的方向（“逆流”），工蚁与兵蚁皆然——除 Antillitermes 外，这在白蚁各属中是独一无二的。P1 长、呈 U 形（P. mexicanus 较短粗），P2 在近 P3 处缢缩成梨形。与中美洲同类相比，兵蚁头壳小于、色浅于 Nasutitermes，鼻管明显细于 Subulitermes，头壳也不像 Tenuirostritermes 那样中部强烈缢缩。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头壳最小处在后三分之一（P. mexicanus）或在中部（P. mesoamericanus、P. yucatanus）；鼻管相对头顶平面的倾斜可作种级鉴别：mexicanus 略上扬，mesoamericanus 与 yucatanus 与之共面或向下；侧面观 mesoamericanus 鼻管端部三分之二近圆柱形，yucatanus 为圆锥形。EVA 与工蚁同型。"
+  },
+  {
+   "label": "工蚁",
+   "text": "后肠 P1 长、U 形；P2 近 P3 处缢缩成梨形；EVA 刺环由 3 个龙骨状垫组成，每垫 7–15 根长刺，逆食物流方向弯曲，垫间或有或无小圆锥齿斑；制片中刺常嵌在凝固的细菌团块内。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0106",
+   "citation": "Scheffrahn, R. H. 2016. Parvitermes (Isoptera, Termitidae, Nasutitermitinae) in Central America: Two new termite species and reassignment of Nasutitermes mexicanus. ZooKeys 617: 47–63.",
+   "locator": "pp. 49–51"
+  }
+ ],
+ "note": "Emerson 1949 建立，模式种 Nasutitermes brooksi Snyder；Roisin et al. 1996 作过属级重新描述。原为西印度群岛属，2016 年才确认见于中美洲大陆。"
+}

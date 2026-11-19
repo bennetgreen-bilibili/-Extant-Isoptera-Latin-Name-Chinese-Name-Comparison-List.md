@@ -1,0 +1,42 @@
+{
+ "book_n": "422",
+ "book_name": "木下象白蚁 Nasutitermes kinoshitae",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "木下象白蚁有翅成虫量度",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "15.00–16.00"
+    },
+    {
+     "key": "body_length_without_wings",
+     "value": "6.50–8.00"
+    },
+    {
+     "key": "forewing_length",
+     "value": "12.60–13.00"
+    },
+    {
+     "key": "head_width",
+     "value": "1.50–1.53"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.70"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.37–1.40"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 613,
+   "unit": "mm"
+  }
+ ]
+}

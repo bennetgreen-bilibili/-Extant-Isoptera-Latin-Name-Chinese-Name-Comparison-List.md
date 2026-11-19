@@ -1,0 +1,112 @@
+{
+ "Crenetermes albotarsalis": {
+  "gbif": {
+   "key": 8870914,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Crenetermes albotarsalis (Sjöstedt, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "ZCCT",
+   "status": "accepted",
+   "label": "Crenetermes albotarsalis (Sjöstedt, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237547",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Crenetermes elongatus": {
+  "gbif": {
+   "key": 9755207,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Crenetermes elongatus Weidner, 1974",
+   "accepted": null
+  },
+  "col": {
+   "id": "6BDH9",
+   "status": "accepted",
+   "label": "Crenetermes elongatus Weidner, 1974",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237548",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Crenetermes fruitus": {
+  "gbif": {
+   "key": 9747733,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Crenetermes fruitus Harris, 1958",
+   "accepted": null
+  },
+  "col": {
+   "id": "ZCCV",
+   "status": "accepted",
+   "label": "Crenetermes fruitus Harris, 1958",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237549",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Crenetermes mandibulatus": {
+  "gbif": {
+   "key": 9723504,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Crenetermes mandibulatus Weidner, 1974",
+   "accepted": null
+  },
+  "col": {
+   "id": "ZCCW",
+   "status": "accepted",
+   "label": "Crenetermes mandibulatus Weidner, 1974",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237551",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Crenetermes mixtus": {
+  "gbif": {
+   "key": 9696869,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Crenetermes mixtus Williams, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "ZCCX",
+   "status": "accepted",
+   "label": "Crenetermes mixtus Williams, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237552",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

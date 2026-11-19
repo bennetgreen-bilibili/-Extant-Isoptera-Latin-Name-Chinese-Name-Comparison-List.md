@@ -1,0 +1,24 @@
+{
+ "Longipeditermes kistneri": {
+  "label": "Longipeditermes kistneri Akhtar & Ahmad, 1985",
+  "match": "exact",
+  "notes": "",
+  "otu": 84533,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84533/overview",
+  "valid_label": null,
+  "valid_otu": 84533,
+  "verified": false
+ },
+ "Longipeditermes longipes": {
+  "label": "Longipeditermes longipes (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84534,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84534/overview",
+  "valid_label": null,
+  "valid_otu": 84534,
+  "verified": false
+ }
+}

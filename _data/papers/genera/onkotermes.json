@@ -1,0 +1,63 @@
+{
+ "latin": "Onkotermes",
+ "zh": "倒钩白蚁属",
+ "fetched_at": "2026-10-30T16:54:16Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2481369944",
+   "openalex_url": "https://openalex.org/W2481369944",
+   "doi": "",
+   "doi_url": "",
+   "title": "A reexamination of the systematic position of Amitermes brevicorniger, with the description of a new genus (Isoptera, Termitidae, Termitinae)",
+   "year": 2002,
+   "date": "2002-01-01",
+   "authors": [
+    "Reginaldo Constantino",
+    "Jorge Liotta",
+    "Beatriz Giacosa"
+   ],
+   "venue": "Sociobiology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 6,
+   "oa_url": "http://europepmc.org/abstract/AGR/IND23273605",
+   "volume": "39",
+   "issue": "3",
+   "pages": "453-463",
+   "abstract": "The systematic position of the South American termite Amitermes brevicorniger is reexamined through the analysis of the morphology of soldiers, workers and digestive tube. The characters examined do not support its inclusion neither in genus Amitermes nor in Synhamitermes, and a new genus, Onkotermes, is described to accommodate this species. This species clearly belong to the Amitermes-group, but its affinities within this group are unclear. The species is redescribed and illustrated, with biological notes and new distribution records.",
+   "abstract_source": "openalex",
+   "abstract_chars": 542,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W3149947657",
+   "openalex_url": "https://openalex.org/W3149947657",
+   "doi": "10.2110/palo.2020.057",
+   "doi_url": "https://doi.org/10.2110/palo.2020.057",
+   "title": "DIFFUSE TERMITINAE NESTS SHED LIGHT ON THE AFFINITIES OF LAETOLICHNUS KWEKAI (KRAUSICHNIDAE)",
+   "year": 2021,
+   "date": "2021-03-30",
+   "authors": [
+    "Liliana F. Cantil",
+    "Jorge F. Genise",
+    "Juan L. Farina",
+    "Sebastián Lupo",
+    "Darío Pablo Porrini",
+    "Amandus Kwekason",
+    "Terry Harrison"
+   ],
+   "venue": "Palaios",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "https://pubs.geoscienceworld.org/sepm/palaios/article-pdf/36/3/122/5270960/i0883-1351-36-3-122.pdf",
+   "volume": "36",
+   "issue": "3",
+   "pages": "122-127",
+   "abstract": "The insect trace fossil Laetolichnus kwekai, which is composed of a small chamber extending to slender cylinders at each end, was tentatively included in the ichnofamily Krausichnidae as termite nests. New evidence presented here provides information to validate these inferences. A more complex structure formed by interconnected Laetolichnus was recently found in the same Pliocene deposits (Laetoli, Tanzania) as the isolated specimens reported previously. Our study confirms inclusion of Laetolichnus in Krausichnidae and supports the inference that it represents a nest of a social insect. Neoichnological field studies in the coastal dunes of Buenos Aires Province, Argentina, were undertaken to refine further the nature of these affinities. Survey of the dune surface revealed abundant loose fragments of termite nests of a size and shape comparable to that of L. kwekai. The fragile nests constructed by Onkotermes brevicorniger, which are described here in detail for the first time, enable us to interpret the fossil structures. They consist of connected chambers similar to the interconnected Laetolichnus. These were frequently exposed and broken by wind action resulting in loose fragments similar to the isolated Laetolichnus. The Celliforma ichnofacies represented at Laetoli, which contains L. kwekai, indicates arid or semiarid shrublands and woodlands. The distribution of O. brevicorniger also corresponds to arid and semiarid shrublands and dry woodlands of Argentina. Although the African termite producer of L. kwekai and the South American Onkotermes would be phylogenetically unrelated, the analogous structures probably reflect convergent nesting behaviors as an adaptation to similar arid to semiarid environmental conditions.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1753,
+   "abstract_truncated": false
+  }
+ ]
+}

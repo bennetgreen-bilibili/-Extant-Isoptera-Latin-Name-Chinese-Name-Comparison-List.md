@@ -1,0 +1,35 @@
+{
+ "Allognathotermes aburiensis": {
+  "label": "Allognathotermes aburiensis (Sjöstedt, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83927,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83927/overview",
+  "valid_label": null,
+  "valid_otu": 83927,
+  "verified": false
+ },
+ "Allognathotermes hypogeus": {
+  "label": "Allognathotermes hypogeus Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 83928,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83928/overview",
+  "valid_label": null,
+  "valid_otu": 83928,
+  "verified": false
+ },
+ "Allognathotermes ivorensis": {
+  "label": "Allognathotermes ivorensis Noirot & Grassé, 1955",
+  "match": "exact",
+  "notes": "",
+  "otu": 83929,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83929/overview",
+  "valid_label": null,
+  "valid_otu": 83929,
+  "verified": false
+ }
+}

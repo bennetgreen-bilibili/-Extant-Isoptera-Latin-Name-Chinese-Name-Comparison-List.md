@@ -1,0 +1,24 @@
+{
+ "zh_name": "真砂白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁因额盾状头而与 Cryptotermes 趋同；有翅成虫翅脉与上颚似 Neotermes，但前翅鳞前缘几乎直或微凸，Neotermes 更凸。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "全体黄褐色；眼径 0.43 mm，单眼接触复眼；触角 14–16 节；上颚似 Glyptotermes，左上颚第一、二缘齿与第三缘齿等长，右上颚第二缘齿后缘略长于臼板；前胸背板窄于头；前翅鳞前缘几乎直或微凸；径分脉 5–6 支，第一支约在翅长一半处；中脉骨化强，与径分脉近平行且靠近；爪间突存在。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头黑褐色、额盾状，短而厚，两侧较直、平行，触角处略收；额区光滑、凹入、无刻纹；额与头顶、前部及两侧之间有一锐的环状脊；额区前伸至颚基之前；前面陡；触角窝距头前缘约头长 1/3–1/2；眼存在但不明显、窄；触角 11 节，第三节短于第二节；上唇背面不可见；上颚短、基部宽，具明显基瘤；后颏短、卵形；前胸背板前缘自后部平拱处骤然升起，背面观前缘角状凹且明显锯齿状；腿节不膨大。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0021",
+   "citation": "Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.",
+   "locator": "pp. 328–331"
+  }
+ ]
+}

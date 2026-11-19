@@ -1,0 +1,43 @@
+{
+ "latin": "Archotermopsis",
+ "zh": "古白蚁属",
+ "family": "archotermopsidae",
+ "treatise": true,
+ "citation": "Archotermopsis Desneux, 1904b: 13 [first introduced as a subgenus of Termopsis Heer, 1849].",
+ "type_species": "Termopsis (Archotermopsis) wroughtoni Desneux, 1904 by monotypy.",
+ "references": [
+  {
+   "ref": "Desneux, 1906c: 293",
+   "note": "Termopsis [part]; characters."
+  },
+  {
+   "ref": "Holmgren, 1911a: 10, 35, 36–37",
+   "note": "Archotermopsis; reference list; characters; key; species included."
+  },
+  {
+   "ref": "Emerson, 1933b: 168, 172–173",
+   "note": "Archotermopsis; characters; key; comparisons."
+  },
+  {
+   "ref": "Snyder, 1934a: 24, 27",
+   "note": "Archotermopsis; key."
+  },
+  {
+   "ref": "Lal and Menon, 1953: 5, 6",
+   "note": "Archotermopsis; catalog; reference list; key."
+  },
+  {
+   "ref": "Ahmad, 1955b: 207",
+   "note": "Archotermopsis; key."
+  },
+  {
+   "ref": "Weidner, 1955f: 51, 69",
+   "note": "Archotermopsis; key; number of species; distribution."
+  },
+  {
+   "ref": "Ahmad, 1958: 56, 57",
+   "note": "Archotermopsis; key."
+  }
+ ],
+ "nrefs": 35
+}

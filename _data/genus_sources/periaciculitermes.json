@@ -1,0 +1,19 @@
+{
+ "latin": "Periaciculitermes",
+ "zh": "近针白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Periaciculitermes Li, 1986d: 208, 215.",
+ "type_species": "Periaciculitermes menglunensis Li, 1986 by original designation.",
+ "references": [
+  {
+   "ref": "Huang et al., 1989: 392, 549",
+   "note": "Periaciculitermes; key; characters; distribution."
+  },
+  {
+   "ref": "Huang et al., 2000: 547, 786",
+   "note": "Periaciculitermes; key; characters; distribution."
+  }
+ ],
+ "nrefs": 2
+}

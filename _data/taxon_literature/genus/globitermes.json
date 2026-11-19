@@ -1,0 +1,40 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "兵蚁类型与害虫地位",
+   "heading_en": "Soldier types and pest status",
+   "heading_es": "Tipos de soldados y condición de plaga",
+   "paragraphs": [
+    {
+     "text": "根据 Appalasamy 等（2021）研究，球白蚁属（<i>Globitermes</i>）兵蚁不具有大兵蚁与小兵蚁的二型分化，与大白蚁属（<i>Macrotermes</i>）不同；其体型较小、头部前端具象鼻状额突（nasutoid）的兵蚁依靠大型额腺产生防御液，黄球白蚁（<i>Globitermes sulphureus</i>）每 100 头兵蚁可提取防御液 2.93 克，约为炭色大白蚁（<i>Macrotermes carbonarius</i>）0.68 克的 4 倍。该研究的材料采自马来西亚吉兰丹州 Rantau Panjang 与 Jeli 附近的蚁巢。",
+     "src": [
+      "S0344"
+     ],
+     "text_en": "In the study by Appalasamy et al. (2021), soldiers of <i>Globitermes</i> are not dimorphic into major and minor soldiers, unlike <i>Macrotermes</i>; the smaller nasutoid soldiers rely on a large frontal gland for their defence fluid, and <i>Globitermes sulphureus</i> yielded 2.93 g of defence fluid per 100 soldiers, about four times the 0.68 g obtained from <i>Macrotermes carbonarius</i>. The material was collected from mounds near Rantau Panjang and Jeli in Kelantan, Malaysia.",
+     "text_es": "En el estudio de Appalasamy et al. (2021), los soldados de <i>Globitermes</i> no presentan dimorfismo en soldados mayores y menores, a diferencia de <i>Macrotermes</i>; los soldados nasutoides más pequeños dependen de una glándula frontal grande para su fluido defensivo, y <i>Globitermes sulphureus</i> rindió 2.93 g de fluido por cada 100 soldados, unas cuatro veces los 0.68 g obtenidos de <i>Macrotermes carbonarius</i>. El material se recolectó en montículos cerca de Rantau Panjang y Jeli, Kelantan, Malasia."
+    },
+    {
+     "text": "根据 Khizam 与 Ab Majid（2021）研究，黄球白蚁（<i>Globitermes sulphureus</i>）在马来西亚半岛被视为次要害虫，在乳白蚁属（<i>Coptotermes</i>）等主要害虫被清除之后由自然生境进入城市区域为害；该研究在吉打与槟城取样的 8 个居群中，4 个位于自然生境（枯木、活树、蚁巢），4 个位于城市绿地。",
+     "src": [
+      "S0345"
+     ],
+     "text_en": "In the study by Khizam and Ab Majid (2021), <i>Globitermes sulphureus</i> is regarded as a secondary pest in Peninsular Malaysia that moves from natural habitat into urban areas after primary pests such as <i>Coptotermes</i> have been eliminated; of the eight populations sampled in Kedah and Penang, four came from natural habitats (dead logs, living trees, mounds) and four from urban green areas.",
+     "text_es": "En el estudio de Khizam y Ab Majid (2021), <i>Globitermes sulphureus</i> se considera una plaga secundaria en la península de Malasia que pasa del hábitat natural a las zonas urbanas tras la eliminación de plagas primarias como <i>Coptotermes</i>; de las ocho poblaciones muestreadas en Kedah y Penang, cuatro procedían de hábitats naturales (troncos muertos, árboles vivos, montículos) y cuatro de zonas verdes urbanas."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0344",
+   "citation": "Appalasamy, S.; Alia Diyana, M. H.; Arumugam, N.; Boon, J. G. 2021. Evaluation of the chemical defense fluids of Macrotermes carbonarius and Globitermes sulphureus as possible household repellents and insecticides. Scientific Reports 11.",
+   "doi": "10.1038/s41598-020-80018-5"
+  },
+  {
+   "id": "S0345",
+   "citation": "Khizam, N. A. N.; Ab Majid, A. H. 2021. Population Genetic Structure and Breeding Pattern of Higher Group Termite Globitermes sulphureus (Haviland) (Blattodea: Termitidae). Sociobiology 68(1): e5772.",
+   "doi": "10.13102/sociobiology.v68i1.5772"
+  }
+ ]
+}

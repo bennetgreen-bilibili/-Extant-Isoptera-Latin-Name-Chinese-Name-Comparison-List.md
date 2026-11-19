@@ -1,0 +1,13 @@
+{
+ "Hoplotermes amplus": {
+  "label": "Hoplotermes amplus Light, 1933",
+  "match": "exact",
+  "notes": "",
+  "otu": 85449,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85449/overview",
+  "valid_label": null,
+  "valid_otu": 85449,
+  "verified": false
+ }
+}

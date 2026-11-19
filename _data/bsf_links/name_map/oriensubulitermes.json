@@ -1,0 +1,24 @@
+{
+ "Oriensubulitermes inanis": {
+  "label": "Oriensubulitermes inanis (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84835,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84835/overview",
+  "valid_label": null,
+  "valid_otu": 84835,
+  "verified": false
+ },
+ "Oriensubulitermes kemneri": {
+  "label": "Oriensubulitermes kemneri Ahmad, 1968",
+  "match": "exact",
+  "notes": "",
+  "otu": 84836,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84836/overview",
+  "valid_label": null,
+  "valid_otu": 84836,
+  "verified": false
+ }
+}

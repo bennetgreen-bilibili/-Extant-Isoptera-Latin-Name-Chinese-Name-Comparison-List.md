@@ -1,0 +1,36 @@
+{
+ "latin": "Rubeotermes",
+ "zh": "变红白蚁属",
+ "fetched_at": "2026-10-30T16:54:35Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2232395477",
+   "openalex_url": "https://openalex.org/W2232395477",
+   "doi": "10.1111/zoj.12305",
+   "doi_url": "https://doi.org/10.1111/zoj.12305",
+   "title": "Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genusGrigiotermes Mathews and description of five new genera",
+   "year": 2016,
+   "date": "2016-01-01",
+   "authors": [
+    "Thomas Bourguignon",
+    "Rudolf H. Scheffrahn",
+    "ZOLTÁN TAMÁS NAGY",
+    "Gontran Sonet",
+    "Benoît Host",
+    "Yves Roisin"
+   ],
+   "venue": "Zoological Journal of the Linnean Society",
+   "type": "article",
+   "language": "en",
+   "cited_by": 39,
+   "oa_url": "http://publication.plazi.org/id/FF8FFFAAF5215C0B53398404A52E7855",
+   "volume": "176",
+   "issue": "1",
+   "pages": "15-35",
+   "abstract": "Soldierless termites are extremely abundant in South America where they account for up to one-third of the termite species richness. However, their diversity has mostly been addressed through scattered, indecisive descriptions, leaving large gaps in our understanding of termite diversity. Here, to progress towards a more complete knowledge of this group, we redescribe the genus Grigiotermes and describe five new genera, Amplucrutermes, Humutermes, Hydrecotermes, Patawatermes, and Rubeotermes, comprising a total of nine species. We reassign four species to new genera, synonymize two species, and provide extensive descriptions and diagnoses for all taxa included here. We also provide a molecular phylogeny of selected Neotropical and Old World Apicotermitinae and provide a key to the genera of Neotropical workers to facilitate identification.",
+   "abstract_source": "openalex",
+   "abstract_chars": 851,
+   "abstract_truncated": false
+  }
+ ]
+}

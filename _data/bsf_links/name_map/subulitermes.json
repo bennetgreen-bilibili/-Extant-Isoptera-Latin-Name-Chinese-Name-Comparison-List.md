@@ -1,0 +1,68 @@
+{
+ "Subulitermes angusticeps": {
+  "label": "Subulitermes angusticeps (Snyder, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84891,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84891/overview",
+  "valid_label": null,
+  "valid_otu": 84891,
+  "verified": false
+ },
+ "Subulitermes baileyi": {
+  "label": "Subulitermes baileyi (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84892,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84892/overview",
+  "valid_label": null,
+  "valid_otu": 84892,
+  "verified": false
+ },
+ "Subulitermes constricticeps": {
+  "label": "Subulitermes constricticeps Constantino, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 84893,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84893/overview",
+  "valid_label": null,
+  "valid_otu": 84893,
+  "verified": false
+ },
+ "Subulitermes denisae": {
+  "label": "Subulitermes denisae Roisin, 1995",
+  "match": "exact",
+  "notes": "",
+  "otu": 84894,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84894/overview",
+  "valid_label": null,
+  "valid_otu": 84894,
+  "verified": false
+ },
+ "Subulitermes microsoma": {
+  "label": "Subulitermes microsoma (Silvestri, 1903)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84897,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84897/overview",
+  "valid_label": null,
+  "valid_otu": 84897,
+  "verified": false
+ },
+ "Subulitermes thompsonae": {
+  "label": "Subulitermes thompsonae (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84898,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84898/overview",
+  "valid_label": null,
+  "valid_otu": 84898,
+  "verified": false
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "latin": "Noirotitermes",
+ "zh": "努瓦罗白蚁属",
+ "fetched_at": "2026-10-30T16:54:13Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W103911616",
+   "openalex_url": "https://openalex.org/W103911616",
+   "doi": "",
+   "doi_url": "",
+   "title": "Noirotitermes noiroti (Isoptera, Termitidae, Nasutitermitinae): a new genus and new species from northeastern Brazil.",
+   "year": 2000,
+   "date": "2000-01-01",
+   "authors": [
+    "Eliana M. Cancello",
+    "Timothy Myles"
+   ],
+   "venue": "Sociobiology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 8,
+   "oa_url": "https://www.cabdirect.org/cabdirect/abstract/20003023975",
+   "volume": "36",
+   "issue": "3",
+   "pages": "531-546",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2303409047",
+   "openalex_url": "https://openalex.org/W2303409047",
+   "doi": "10.11646/zootaxa.3174.1.7",
+   "doi_url": "https://doi.org/10.11646/zootaxa.3174.1.7",
+   "title": "Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records",
+   "year": 2012,
+   "date": "2012-01-26",
+   "authors": [
+    "Reginaldo Constantino"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "3174",
+   "issue": "1",
+   "pages": "",
+   "abstract": "Noirotitermes is a monotypic termite genus known only from Brazil. Noirotitermes noiroti was described based on a single sample from Piauí, Brazil, with only a few soldiers and several workers. Noirotitermes seems to be related to Macuxitermes Cancello & Bandeira 1992, another poorly known monotypic genus of Syntermitinae.",
+   "abstract_source": "openalex",
+   "abstract_chars": 324,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W4298514677",
+   "openalex_url": "https://openalex.org/W4298514677",
+   "doi": "10.5281/zenodo.208822",
+   "doi_url": "https://doi.org/10.5281/zenodo.208822",
+   "title": "Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records",
+   "year": 2012,
+   "date": "2012-12-31",
+   "authors": [
+    "Reginaldo Constantino"
+   ],
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "https://www.openaccessrepository.it/record/208822",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "Constantino, Reginaldo (2012): Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records. Zootaxa 3174: 65-68, DOI: 10.5281/zenodo.208822",
+   "abstract_source": "openalex",
+   "abstract_chars": 207,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W1968827921",
+   "openalex_url": "https://openalex.org/W1968827921",
+   "doi": "10.3897/zookeys.148.1278",
+   "doi_url": "https://doi.org/10.3897/zookeys.148.1278",
+   "title": "A new genus and species of mandibulate nasute termite (Isoptera, Termitidae, Syntermitinae) from Brazil",
+   "year": 2011,
+   "date": "2011-11-21",
+   "authors": [
+    "Mauricio M. Rocha",
+    "Eliana M. Cancello",
+    "Carolina Cuezzo"
+   ],
+   "venue": "ZooKeys",
+   "type": "article",
+   "language": "en",
+   "cited_by": 8,
+   "oa_url": "https://doi.org/10.3897/zookeys.148.1278",
+   "volume": "148",
+   "issue": "148",
+   "pages": "125-134",
+   "abstract": "Acangaobitermes krishnaigen. et sp. n., is described here, based on soldiers and workers collected in Brazil. Some characteristics suggest a close kinship with Noirotitermes Cancello & Myles, and both genera share the following traits absent in all other Syntermitinae: the microsculpturing on the soldier head capsule surface with internal granulations; the piercing mandibles with a single very reduced marginal tooth and the worker very similar in both genera. The most conspicuous differences between Acangaobitermes and Noirotitermes are the shape of the soldier head, the frontal tube and pronotum. The shape of the soldier head in Noirotitermes is unusual, with a very broad and short frontal tube, four conspicuous protuberances like sharp corners at the rear, while in the new genus the posterior contour of the head is devoid of these protuberances. The frontal tube of Acangaobitermes is elongate and conical, while in Noirotitermes it is short and very broad. The pronotum of Acangaobitermes is saddle-shaped as is usual in other Syntermitinae, while it is aberrant in Noirotitermes.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1095,
+   "abstract_truncated": false
+  }
+ ]
+}

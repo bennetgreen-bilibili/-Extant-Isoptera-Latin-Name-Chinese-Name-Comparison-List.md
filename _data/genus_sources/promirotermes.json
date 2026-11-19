@@ -1,0 +1,43 @@
+{
+ "latin": "Promirotermes",
+ "zh": "前奇白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Promirotermes Silvestri, 1914a: 131–132.",
+ "type_species": "Mirotermes holmgreni Silvestri, 1912 by original designation.",
+ "references": [
+  {
+   "ref": "Sjöstedt, 1926d: 278",
+   "note": "Promirotermes; reference list; imago characters."
+  },
+  {
+   "ref": "Emerson, 1928b: 408, 420, 541",
+   "note": "Mirotermes (Promirotermes); key; distribution; discussion."
+  },
+  {
+   "ref": "Harris, 1941: 202",
+   "note": "Promirotermes; key."
+  },
+  {
+   "ref": "Webb, 1961: 12",
+   "note": "Promirotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 31, 110, 111, pl. 23: fig. 74b",
+   "note": "Promirotermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Coaton and Sheasby, 1972: 25, 77, 101, figs. 18A–B, 47",
+   "note": "Promirotermes; soldier figured; key; ecology; biology; distribution. Namibia."
+  },
+  {
+   "ref": "Morimoto, 1975b: 37",
+   "note": "Promirotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 34, 256–258, figs. 1194–1219",
+   "note": "Promirotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 19
+}

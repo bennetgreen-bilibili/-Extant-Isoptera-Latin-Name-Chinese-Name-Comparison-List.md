@@ -1,0 +1,63 @@
+{
+ "book_n": "285",
+ "book_name": "梅子地白蚁 Hypotermes meiziensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "梅子地白蚁兵蚁量度(mm).",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "3.78",
+     "value": "3.16–4.48"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.19",
+     "value": "1.16–1.23"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.02",
+     "value": "1.00–1.06"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.66",
+     "value": "0.61–0.68"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.24",
+     "value": "0.23–0.26"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.287",
+     "value": "0.26–0.29"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.47",
+     "value": "0.45–0.48"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.74",
+     "value": "0.68–0.81"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.03",
+     "value": "1.00–1.10"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 332,
+   "unit": "mm"
+  }
+ ]
+}

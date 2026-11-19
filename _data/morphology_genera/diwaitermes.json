@@ -1,0 +1,29 @@
+{
+ "zh_name": "木象白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "Roisin & Pasteels 以新几内亚的 Nasutitermes (Subulitermes) orientis 为模式种建立本属，属名取自新美拉尼西亚语 diwai（木）。兵蚁完全鼻型，与 Nasutitermes 近缘，但头壳在触角窝后方不缢缩、单型、体型小至中等，触角 11 或 12 节。真正把它与 Nasutitermes、Niuginitermes 分开的是工蚁消化道：混合段的肠系膜部分以宽柄附着于中肠背侧偏内，4 条马氏管在附着于中肠—后肠交界处彼此靠拢，幽门瓣上下两圈刺区不对称、下圈刺伸入胃腔；工蚁二型。婆罗洲的 Eleanoritermes 与本属相似，但工蚁上颚臼区更凹、幽门瓣更靠前、仅三个膨突上具少数小刺、结肠更长。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "仅模式种已知。原文未列属级形态特征，只指出触角节数日后可能成为区分本属与 Nasutitermes、Niuginitermes 的依据。原文另比较近缘的 Nasutitermes liklik：它与 D. kanehirae 的差别是各品级均多一节触角（有翅成虫 14 对 13）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "完全鼻型，与 Nasutitermes 近缘。头壳在触角窝后方不缢缩；兵型单一，体型小至中等；触角 11 或 12 节，若为 12 节则第 3 节极短且与第 4 节分离不完全；头壳被毛，具长短不等的许多刚毛；上颚上的尖小，有时缺。"
+  },
+  {
+   "label": "工蚁",
+   "text": "触角 12 或 13 节，若为 13 节则第 3 节极短且与第 4 节分离不完全。上颚与 Nasutitermes 很相似，左颚指数 0.45–0.55。消化道：混合段的肠系膜部分以宽柄附着于中肠其余部分的背侧偏内；4 条马氏管在附着于中肠—后肠交界处彼此靠拢；幽门瓣上圈刺区略不对称，下圈刺伸入胃腔。工蚁二型；大型工蚁的体长分布为单峰，同一龄期内不增长、色素略加深。"
+  }
+ ],
+ "note": "属征按原文 Imago / Soldier / Worker 三段分述；有翅成虫仅模式种已知且无形态描述，该段只记录原文对这一品级的说明，不含任何测量。原文指出 N. orientis 几乎肯定是 Eutermes kanehirae Oshima, 1914 的次异名，属征以 N. orientis 为准；本属含 D. kanehirae、D. foi、D. castanopsis 三个种。",
+ "sources": [
+  {
+   "id": "S0049",
+   "citation": "Roisin Y. & Pasteels J.M. 1996. The nasute termites (Isoptera: Nasutitermitinae) of Papua New Guinea. Invertebrate Taxonomy 10: 507–616. https://doi.org/10.1071/IT9960507",
+   "locator": "p. 583（Genus Diwaitermes, gen. nov.：Imago / Soldier / Worker / Comparisons）；Abstract 见 p. 507"
+  }
+ ]
+}

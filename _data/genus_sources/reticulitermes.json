@@ -1,0 +1,43 @@
+{
+ "latin": "Reticulitermes",
+ "zh": "散白蚁属",
+ "family": "heterotermitidae",
+ "treatise": true,
+ "citation": "Reticulitermes Holmgren, 1913c: 60–61 [first introduced as a subgenus of Leucotermes Silvestri, 1901; misspelled as Reticulotermes on page 15].",
+ "type_species": "Termes flavipes Kollar, 1837 by original designation.",
+ "references": [
+  {
+   "ref": "Banks and Snyder, 1920: 39, 42–43",
+   "note": "Reticulitermes; key; characters."
+  },
+  {
+   "ref": "Light, 1924: 52",
+   "note": "Reticulitermes; key."
+  },
+  {
+   "ref": "Snyder, 1926g: 3, 4",
+   "note": "Reticulitermes; characters; remarks."
+  },
+  {
+   "ref": "Bathellier, 1927: 131, 132",
+   "note": "Leucotermes (Reticulitermes); key."
+  },
+  {
+   "ref": "Light, 1931a: 589–590",
+   "note": "Reticulitermes; key."
+  },
+  {
+   "ref": "Light, 1933: 82",
+   "note": "Reticulitermes; key."
+  },
+  {
+   "ref": "Light, 1934j: 338",
+   "note": "Reticulitermes; key."
+  },
+  {
+   "ref": "Silvestri, 1934: 35",
+   "note": "Reticulitermes; characters."
+  }
+ ],
+ "nrefs": 107
+}

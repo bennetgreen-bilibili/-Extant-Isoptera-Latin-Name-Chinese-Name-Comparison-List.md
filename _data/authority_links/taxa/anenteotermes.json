@@ -1,0 +1,247 @@
+{
+ "Anenteotermes amachetus": {
+  "gbif": {
+   "key": 9791737,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anenteotermes amachetus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "DXW7",
+   "status": "accepted",
+   "label": "Anenteotermes amachetus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234824",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anenteotermes ateuchestes": {
+  "gbif": {
+   "key": 9658631,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anenteotermes ateuchestes Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "DXW8",
+   "status": "accepted",
+   "label": "Anenteotermes ateuchestes Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234825",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anenteotermes cherubimi": {
+  "gbif": {
+   "key": 9961204,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anenteotermes cherubimi Scheffrahn, 2018",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Anenteotermes Sands, 1972",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q79794985",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Anenteotermes cicur": {
+  "gbif": {
+   "key": 9708377,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anenteotermes cicur Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "DXW9",
+   "status": "accepted",
+   "label": "Anenteotermes cicur Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234826",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anenteotermes cnaphorus": {
+  "gbif": {
+   "key": 9743470,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anenteotermes cnaphorus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "66QRF",
+   "status": "accepted",
+   "label": "Anenteotermes cnaphorus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234827",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anenteotermes disluctans": {
+  "gbif": {
+   "key": 9711899,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anenteotermes disluctans Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "DXWB",
+   "status": "accepted",
+   "label": "Anenteotermes disluctans Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234828",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anenteotermes hemerus": {
+  "gbif": {
+   "key": 9759531,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anenteotermes hemerus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "DXWC",
+   "status": "accepted",
+   "label": "Anenteotermes hemerus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234829",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anenteotermes improcinctus": {
+  "gbif": {
+   "key": 9662067,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anenteotermes improcinctus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "DXWD",
+   "status": "accepted",
+   "label": "Anenteotermes improcinctus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234830",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anenteotermes improelatans": {
+  "gbif": {
+   "key": 9795461,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anenteotermes improelatans Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "66R3F",
+   "status": "accepted",
+   "label": "Anenteotermes improelatans Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234831",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anenteotermes nanus": {
+  "gbif": {
+   "key": 9811904,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anenteotermes nanus (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "DXWF",
+   "status": "accepted",
+   "label": "Anenteotermes nanus (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q136439808",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anenteotermes polyscolus": {
+  "gbif": {
+   "key": 9763108,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anenteotermes polyscolus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "DXWG",
+   "status": "accepted",
+   "label": "Anenteotermes polyscolus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q136439809",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

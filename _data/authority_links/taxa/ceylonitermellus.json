@@ -1,0 +1,68 @@
+{
+ "Ceylonitermellus hantanae": {
+  "gbif": {
+   "key": 9772763,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ceylonitermellus hantanae (Holmgren, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "T93Z",
+   "status": "accepted",
+   "label": "Ceylonitermellus hantanae (Holmgren, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30687018",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ceylonitermellus kotuae": {
+  "gbif": {
+   "key": 9690198,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ceylonitermellus kotuae (Bugnion, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "T942",
+   "status": "accepted",
+   "label": "Ceylonitermellus kotuae (Bugnion, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30687021",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ceylonitermellus sahyadriensis": {
+  "gbif": {
+   "key": 12227902,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ceylonitermellus sahyadriensis Ranjith & Kalleshwaraswamy, 2022",
+   "accepted": null
+  },
+  "col": {
+   "id": "9X9GQ",
+   "status": "accepted",
+   "label": "Ceylonitermellus sahyadriensis Ranjith & Kalleshwaraswamy, 2022",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q135251855",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

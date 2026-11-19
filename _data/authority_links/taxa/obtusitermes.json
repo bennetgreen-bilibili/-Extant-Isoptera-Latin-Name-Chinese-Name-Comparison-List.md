@@ -1,0 +1,93 @@
+{
+ "Obtusitermes bacchanalis": {
+  "gbif": {
+   "key": 9767646,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Obtusitermes bacchanalis (Mathews, 1977)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48BGQ",
+   "status": "accepted",
+   "label": "Obtusitermes bacchanalis (Mathews, 1977)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084783",
+  "flags": [],
+  "_d": "2026-10-30"
+ },
+ "Obtusitermes formosulus": {
+  "gbif": {
+   "key": 7856696,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Obtusitermes formosulus Cancello & Cuezzo, 2009",
+   "accepted": null
+  },
+  "col": {
+   "id": "48BGR",
+   "status": "accepted",
+   "label": "Obtusitermes formosulus Cuezzo & Cancello, 2009",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21304014",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Obtusitermes monomorphus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Obtusitermes Snyder, 1924",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "KNKXD",
+   "status": "accepted",
+   "label": "Obtusitermes monomorphus Scheffrahn, 2025",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q134351901",
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Obtusitermes panamae": {
+  "gbif": {
+   "key": 9685277,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Obtusitermes panamae (Snyder, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "48BGS",
+   "status": "accepted",
+   "label": "Obtusitermes panamae (Snyder, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084784",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

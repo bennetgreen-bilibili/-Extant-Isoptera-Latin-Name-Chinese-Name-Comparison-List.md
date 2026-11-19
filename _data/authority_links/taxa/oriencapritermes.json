@@ -1,0 +1,24 @@
+{
+ "Oriencapritermes kluangensis": {
+  "gbif": {
+   "key": 9692232,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Oriencapritermes kluangensis Akhtar & Ahmad, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "6STJD",
+   "status": "accepted",
+   "label": "Oriencapritermes kluangensis Ahmad & Akhtar, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084797",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

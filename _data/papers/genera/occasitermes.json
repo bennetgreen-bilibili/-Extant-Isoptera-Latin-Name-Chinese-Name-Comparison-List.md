@@ -1,0 +1,103 @@
+{
+ "latin": "Occasitermes",
+ "zh": "西部白蚁属",
+ "fetched_at": "2026-10-30T16:54:13Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W4236897423",
+   "openalex_url": "https://openalex.org/W4236897423",
+   "doi": "10.1111/j.1440-6055.1974.tb02208.x",
+   "doi_url": "https://doi.org/10.1111/j.1440-6055.1974.tb02208.x",
+   "title": "THE AUSTRALIAN TERMITE GENUS OCCASITERMES (ISOPTERA: TERMITIDAE: NASUTITERMITINAE)",
+   "year": 1974,
+   "date": "1974-12-01",
+   "authors": [
+    "F. J. Gay"
+   ],
+   "venue": "Australian Journal of Entomology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 7,
+   "oa_url": "",
+   "volume": "13",
+   "issue": "4",
+   "pages": "275-283",
+   "abstract": "The Australian termite genus Occasitermes Holmgren is defined and its phylogenetic position discussed. The type species O. occasus (Silvestri) is described and details are given of its distribution and biology. A new species, O. watsoni, is described from New South Wales.",
+   "abstract_source": "openalex",
+   "abstract_chars": 272,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2006596296",
+   "openalex_url": "https://openalex.org/W2006596296",
+   "doi": "10.1111/j.1440-6055.1984.tb01924.x",
+   "doi_url": "https://doi.org/10.1111/j.1440-6055.1984.tb01924.x",
+   "title": "THE AUSTRALIAN GENERA OF THE SUBULITERMES BRANCH OF THE NASUTITERMITINAE (ISOPTERA: TERMITIDAE)",
+   "year": 1984,
+   "date": "1984-05-01",
+   "authors": [
+    "L. R. Miller"
+   ],
+   "venue": "Australian Journal of Entomology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 6,
+   "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1440-6055.1984.tb01924.x",
+   "volume": "23",
+   "issue": "2",
+   "pages": "119-125",
+   "abstract": "The gut structure and the imago‐worker mandibles of the Australian species included in the Subulitermes branch of the Nasutitermitinae clearly define their relationships. Macrosubulitermes perlevis (Hill) and Termes insignitus (Hill) are transferred to Australitermes Emerson; Macrosubulitermes Emerson and Australitermes are redefined, and additional notes and measurements are given for the 4 species M. greavesi (Hill), A. dilucidus (Hill), A. perlevis and A. insignitus. Occasitermes Holmgren and Occultitermes Emerson do not belong to the Subulitermes branch.",
+   "abstract_source": "openalex",
+   "abstract_chars": 564,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W4312834711",
+   "openalex_url": "https://openalex.org/W4312834711",
+   "doi": "10.1071/am88015",
+   "doi_url": "https://doi.org/10.1071/am88015",
+   "title": "Food preference of the echidna, Tachyglossus aculeatus (Monotremata: Tachyglossidae), in the wheatbelt of Western Australia.",
+   "year": 1988,
+   "date": "1988-06-01",
+   "authors": [
+    "Max Abensperg‐Traun"
+   ],
+   "venue": "Australian Mammalogy",
+   "type": "article",
+   "language": "en",
+   "cited_by": 23,
+   "oa_url": "",
+   "volume": "11",
+   "issue": "2",
+   "pages": "117-123",
+   "abstract": "Forty faeces samples of Tachyglossus aculeatus were collected for analysis from 10 haphazardly selected hollow logs of Eucalyptus salmonophloia (Salmon Gum) and E. wandoo (Wandoo) in two reserves in the wheat belt of Western Australia. The frequency of occurrence of termite species of the study area was determined by sampling the soil, mounds and dead surface wood; soldier-to-worker ratios were visually estimated at sampling sites. The ant fauna was assessed by pitfall trapping. The ratio of Formicidae to Isoptera numbers was 30% to 70%. No faeces samples contained 100% of either Formicidae or Isoptera. Nasutitermitinae (Tumulitermes, Nasutitermes, Occasitermes) accounted for 80% of all the isopteran soldier material (total numbers) and were found in 97% of the samples. Drepanotermes, Schedorhinotermes, Amitermes, Coptotermes and Termes accounted for the remaining 20% of total numbers ingested (soldiers only). Soldier-to-worker ratios at artifical breaks ranged from means of 20:1 for nasute genera to 1:30 for Termes. Relative differences in that ratio between termite genera were apparently maintained by T. aculeatus, and all abundant termite species occurred in the diet. The predominant Formicidae size group preyed on was 2-10 mm long, with 85% of individuals in the lower range of that size category. Large Formicidae (> 10 mm) were absent from the faeces, while small Formicidae ( 75% of Formicidae numbers in pitfall traps. The data suggest that T. aculeatus may forage opportunistically, ingesting prey in proportions as encountered.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1557,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2007189967",
+   "openalex_url": "https://openalex.org/W2007189967",
+   "doi": "10.1111/j.1442-9993.1993.tb00459.x",
+   "doi_url": "https://doi.org/10.1111/j.1442-9993.1993.tb00459.x",
+   "title": "A comparison of two methods for sampling assemblages of subterranean, wood‐eating termites (Isoptera)",
+   "year": 1993,
+   "date": "1993-09-01",
+   "authors": [
+    "Max Abensperg‐Traun"
+   ],
+   "venue": "Australian Journal of Ecology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 19,
+   "oa_url": "",
+   "volume": "18",
+   "issue": "3",
+   "pages": "317-324",
+   "abstract": "Within a 50 × 50 m area of wandoo Eucalyptus capillosa woodland in the Western Australian wheatbelt, the diversity and frequency of occurrence of wood‐eating termite species was assessed at two food types. Over a 12 month period, monthly termite activity was determined: (i) at sound/undecayed artificial baits (seasoned wooden stakes of Jarrah, Karri, Pine, Batu, Oregon; Jarrah sawdust; paper rolls); and (li) at naturally occurring timber, fallen logs and branches of wandoo, in varying stages of decay. Termite diversity was 11 species at baits, 18 species at wandoo out of an overall site richness of 21 species. Karri attracted the most species (9); sawdust attracted none. At wandoo, Nasutitermes exitiosus, Coptotermes acinaciformis and Occasitermes occasus accounted for 59% of samples where termites were recorded. At baits, Heterotermes occiduus accounted for a mean of 80% of samples across bait types, but was rarely sampled at wandoo (5% of samples). Only H. occiduus, C. acinaciformis and Amitermes neogermanus ate bait. Pine, Oregon and paper rolls were most effective in attracting foraging termites in terms of highest per cent of replicates showing bait consumption and highest consumption rates. Jarrah and Batu were least attractive to foraging termites. Samples from wandoo underestimated the relative frequency of occurrence of H. occiduus within the study site. Coptotermes acinaciformis, which attack large food items, and certain species of Amitermes, which forage on subterranean food, may have been underestimated by both sampling methods. These findings indicate that a proper understanding of the structure of wood‐eating termite assemblages within a given area requires a composite sampling strategy which addresses termites that eat sound or decayed wood, as well as surface and subsurface foragers.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1831,
+   "abstract_truncated": false
+  }
+ ]
+}

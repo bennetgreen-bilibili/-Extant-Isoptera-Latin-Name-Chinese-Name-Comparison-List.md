@@ -1,0 +1,43 @@
+{
+ "latin": "Pericapritermes",
+ "zh": "近扭白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Pericapritermes Silvestri, 1914",
+ "type_species": "Pericapritermes urgens Silvestri, 1914 by original designation.",
+ "references": [
+  {
+   "ref": "Sjöstedt, 1926d: 282",
+   "note": "Pericapritermes; reference list; key."
+  },
+  {
+   "ref": "Emerson, 1928b: 409, 420, 543",
+   "note": "Capritermes (Pericapritermes); key; discussion; distribution."
+  },
+  {
+   "ref": "Hill, 1942: 14, 418–420",
+   "note": "Capritermes [part]; key; synonymy; imago, soldier, worker diagnosed."
+  },
+  {
+   "ref": "Webb, 1961: 11",
+   "note": "Pericapritermes; key."
+  },
+  {
+   "ref": "Ahmad, 1965: 8, 9",
+   "note": "Pericapritermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 23, 82, 83, pl. 9: fig. 19b",
+   "note": "Pericapritermes; key; characters; imago/ worker mandibles figured."
+  },
+  {
+   "ref": "Krishna, 1968: 290–294",
+   "note": "Pericapritermes; synonymy; key; characters; phylogeny; species included; distribution."
+  },
+  {
+   "ref": "Chaudhry et al., 1972: 64",
+   "note": "Pericapritermes; characters."
+  }
+ ],
+ "nrefs": 56
+}

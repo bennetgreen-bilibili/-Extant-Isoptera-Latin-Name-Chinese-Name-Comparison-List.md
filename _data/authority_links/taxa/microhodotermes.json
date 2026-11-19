@@ -1,0 +1,68 @@
+{
+ "Microhodotermes maroccanus": {
+  "gbif": {
+   "key": 9708391,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microhodotermes maroccanus (Sjöstedt, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "42X8X",
+   "status": "accepted",
+   "label": "Microhodotermes maroccanus (Sjöstedt, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253523",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microhodotermes viator": {
+  "gbif": {
+   "key": 9662047,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microhodotermes viator (Latreille, 1804)",
+   "accepted": null
+  },
+  "col": {
+   "id": "42X8Y",
+   "status": "accepted",
+   "label": "Microhodotermes viator (Latreille, 1804)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q87837429",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Microhodotermes wasmanni": {
+  "gbif": {
+   "key": 9791751,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Microhodotermes wasmanni (Sjöstedt, 1900)",
+   "accepted": null
+  },
+  "col": {
+   "id": "42X8Z",
+   "status": "accepted",
+   "label": "Microhodotermes wasmanni (Sjöstedt, 1900)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253524",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

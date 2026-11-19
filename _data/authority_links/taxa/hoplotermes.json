@@ -1,0 +1,24 @@
+{
+ "Hoplotermes amplus": {
+  "gbif": {
+   "key": 2007317,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hoplotermes amplus Light, 1933",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MN97",
+   "status": "accepted",
+   "label": "Hoplotermes amplus Light, 1933",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582629",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

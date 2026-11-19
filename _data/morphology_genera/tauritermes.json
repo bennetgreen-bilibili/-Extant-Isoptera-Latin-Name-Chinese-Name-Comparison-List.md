@@ -1,0 +1,24 @@
+{
+ "zh_name": "牛白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫未知；若虫翅芽脉与上颚显示与 Incisitermes、Marginitermes、Allotermes 近缘；兵蚁额具两个明显隆起、隆起间凹，前胸背板前缘锯齿状，可与上述属区别。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头额盾状；前部深色、具刻纹；前面陡；额具两个发达隆起，隆起间宽凹；触角窝上、下均无角状突；触角脊略隆、圆；额与头顶间有很弱的脊，不如 Procryptotermes 锐；眼明显、无色；触角 10–11 节，第三节宽于、长于第二节；上颚细，基瘤明显；前胸背板与头等宽，前缘隆起、覆盖头后部，深凹、波状、锯齿状；腿节不膨大。"
+  },
+  {
+   "label": "若虫",
+   "text": "上颚似 Cryptotermes；左上颚第一、二缘齿基部小于第三缘齿；右上颚第二缘齿后缘明显长于臼板；前翅芽中脉弱、未骨化，位于径分脉与肘脉之间直至翅端。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0021",
+   "citation": "Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.",
+   "locator": "pp. 362–363"
+  }
+ ]
+}

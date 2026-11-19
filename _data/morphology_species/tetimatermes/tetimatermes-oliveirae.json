@@ -1,0 +1,21 @@
+{
+ "zh_name": "橄榄树足白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "在 2023 年新热带无兵蚁类工蚁检索表中，本属以“前胫节具长勺状凹槽”单独成对（第 2 对），不再向下分支；其余特征与近缘属重叠。"
+  },
+  {
+   "label": "工蚁",
+   "text": "前胫节具长的“勺状”凹槽（scooped out excavation，见 Fontes 1986）。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0027",
+   "citation": "Carrijo T. F.; Castro D.; Wang M.; Constantini J. P.; Bourguignon T.; Cancello E. M.; Scheffrahn R. H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317-352. doi 10.3897/zookeys.1167.100001",
+   "locator": "Key to neotropical Apicotermitinae genera based on the worker caste, couplet 2 (Tetimatermes 分支)"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+}

@@ -1,0 +1,55 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "肠道鞭毛虫组合",
+   "heading_en": "Gut flagellate assemblage",
+   "heading_es": "Comunidad de flagelados intestinales",
+   "paragraphs": [
+    {
+     "src": [
+      "S0217"
+     ],
+     "text": "据摘要，Radek 等（2017）发现，锯齿白蚁（<i>Serritermes serrifer</i>）的肠道内至少有 3 类鞭毛虫形态型：大型的类 <i>Pseudotrichonympha</i>、中型具螺旋鞭毛带的类 <i>Leptospironympha</i> 与小型类 <i>Hexamastix</i>，未检出 oxymonadid；这一组合与同科另一属的眼显舌白蚁（<i>Glossotermes oculatus</i>）高度相似，而其中 <i>Hexamastix</i> 类与鼻白蚁科（Rhinotermitidae）的 trichomonadid 近缘，两个大型 trichonymphid 则构成 Teranymphidae 的深分支姊妹群。",
+     "text_en": "According to the abstract of Radek et al. (2017), the gut of <i>Serritermes serrifer</i> harbours at least three flagellate morphotypes: a large <i>Pseudotrichonympha</i>-like form, a medium-sized <i>Leptospironympha</i>-like form with a spirally coiled flagellar band, and a small <i>Hexamastix</i>-like form, with no oxymonadids detected; this assemblage closely resembles that of <i>Glossotermes oculatus</i> in the same family, the <i>Hexamastix</i>-like flagellates being related to rhinotermitid trichomonadids while the two large trichonymphids form a deep-branching sister group of Teranymphidae.",
+     "text_es": "Según el resumen de Radek et al. (2017), el intestino de <i>Serritermes serrifer</i> alberga al menos tres morfotipos de flagelados: una forma grande similar a <i>Pseudotrichonympha</i>, una forma mediana similar a <i>Leptospironympha</i> con una banda flagelar en espiral y una forma pequeña similar a <i>Hexamastix</i>, sin oxymonádidos; esta asociación se parece mucho a la de <i>Glossotermes oculatus</i> de la misma familia, y los flagelados similares a <i>Hexamastix</i> están emparentados con los tricomonádidos de Rhinotermitidae, mientras que los dos triconinfos grandes forman un grupo hermano de ramificación profunda de Teranymphidae."
+    }
+   ]
+  },
+  {
+   "heading": "角象白蚁巢中的客居者",
+   "heading_en": "Inquilines in <i>Cornitermes</i> nests",
+   "heading_es": "Inquilinos en los nidos de <i>Cornitermes</i>",
+   "paragraphs": [
+    {
+     "src": [
+      "S0260"
+     ],
+     "text": "根据 Barbosa 与 Constantino（2017）研究，锯齿白蚁（<i>Serritermes serrifer</i>）为巴西中部 Cerrado 生态区特有种，以客居方式生活在角象白蚁属（<i>Cornitermes</i>）的巢内；该研究测量 11 个体部、共 544 号标本（幼体、类工蚁个体、兵蚁与有翅成虫）（据摘要）。",
+     "text_en": "According to Barbosa and Constantino (2017), <i>Serritermes serrifer</i> is endemic to the Cerrado ecoregion of central Brazil and lives as an inquiline in the nests of <i>Cornitermes</i>; the study measured 11 body parts in a total of 544 specimens (larvae, worker-like individuals, soldiers and alates) (according to the abstract).",
+     "text_es": "Según Barbosa y Constantino (2017), <i>Serritermes serrifer</i> es endémica de la ecorregión del Cerrado del centro de Brasil y vive como inquilina en los nidos de <i>Cornitermes</i>; el estudio midió 11 partes del cuerpo en un total de 544 ejemplares (larvas, individuos similares a obreras, soldados y alados) (según el resumen)."
+    },
+    {
+     "src": [
+      "S0260"
+     ],
+     "text": "与文献旧记载相反，锯齿白蚁（<i>Serritermes serrifer</i>）为线性发育：2 个幼虫龄期、2 种体型的假工蚁、仅 1 种若虫形态；典型群体只有 1 头腹部膨大的原生蚁后和 1 头原生蚁王，配工蚁型繁殖个体相对少见，部分雌性配工蚁腹部可强烈膨大，研究未发现拟若虫型繁殖个体（据摘要）。",
+     "text_en": "Contrary to previous accounts in the literature, <i>Serritermes serrifer</i> shows linear development: two larval instars, pseudergates of two body types and only one nymphal form; a typical colony has only one physogastric primary queen and one primary king, ergatoid reproductives are relatively rare, the abdomen of some female ergatoids may become strongly physogastric, and no nymphoid reproductives were found in the study (according to the abstract).",
+     "text_es": "Contrariamente a los registros antiguos de la literatura, <i>Serritermes serrifer</i> presenta desarrollo lineal: dos estadios larvales, pseudergados de dos tipos corporales y una sola forma de ninfa; una colonia típica tiene únicamente una reina primaria fisogástrica y un rey primario, los reproductores ergatoides son relativamente escasos, el abdomen de algunas ergatoides femeninas puede volverse muy fisogástrico y el estudio no halló reproductores ninfoides (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0217",
+   "citation": "Radek, R.; Meuser, K.; Strassert, J. F. H.; Arslan, O.; Teßmer, A.; Šobotník, J.; Sillam-Dussès, D.; Nink, R. A.; Brune, A. 2017. Exclusive Gut Flagellates of Serritermitidae Suggest a Major Transfaunation Event in Lower Termites: Description of Heliconympha glossotermitis gen. nov. spec. nov. Journal of Eukaryotic Microbiology 64(6).",
+   "doi": "10.1111/jeu.12441"
+  },
+  {
+   "id": "S0260",
+   "citation": "José Renato Chagas Barbosa; Constantino, R. 2017. Polymorphism in the neotropical termite S erritermes serrifer. Entomologia Experimentalis et Applicata.",
+   "doi": "10.1111/eea.12532"
+  }
+ ]
+}

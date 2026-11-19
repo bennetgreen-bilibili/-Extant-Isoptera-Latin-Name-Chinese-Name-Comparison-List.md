@@ -1,0 +1,530 @@
+{
+ "Drepanotermes acicularis": {
+  "gbif": {
+   "key": 4803329,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes acicularis Perry & Watson, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8B",
+   "status": "accepted",
+   "label": "Drepanotermes acicularis Watson & Perry, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272385",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes barretti": {
+  "gbif": {
+   "key": 4803330,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes barretti Perry & Watson, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8C",
+   "status": "accepted",
+   "label": "Drepanotermes barretti Watson & Perry, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272386",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes basidens": {
+  "gbif": {
+   "key": 4803321,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes basidens Perry & Watson, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8D",
+   "status": "accepted",
+   "label": "Drepanotermes basidens Watson & Perry, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272387",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes bellator": {
+  "gbif": {
+   "key": 4803319,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes bellator Perry & Watson, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "6DL6L",
+   "status": "accepted",
+   "label": "Drepanotermes bellator Watson & Perry, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272389",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes brevis": {
+  "gbif": {
+   "key": 4803333,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes brevis Perry & Watson, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8F",
+   "status": "accepted",
+   "label": "Drepanotermes brevis Watson & Perry, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272390",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes calabyi": {
+  "gbif": {
+   "key": 4803340,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes calabyi Perry & Watson, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8G",
+   "status": "accepted",
+   "label": "Drepanotermes calabyi Watson & Perry, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272391",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes clarki": {
+  "gbif": {
+   "key": 4803338,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes clarki (Hill, 1935)",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8H",
+   "status": "accepted",
+   "label": "Drepanotermes clarki (Hill, 1935)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272392",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes columellaris": {
+  "gbif": {
+   "key": 4803332,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes columellaris Perry & Watson, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8J",
+   "status": "accepted",
+   "label": "Drepanotermes columellaris Watson & Perry, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272393",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes corax": {
+  "gbif": {
+   "key": 4803336,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes corax Perry & Watson, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8K",
+   "status": "accepted",
+   "label": "Drepanotermes corax Watson & Perry, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272394",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes crassidens": {
+  "gbif": {
+   "key": 4803328,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes crassidens Perry & Watson, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8L",
+   "status": "accepted",
+   "label": "Drepanotermes crassidens Watson & Perry, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272395",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes daliensis": {
+  "gbif": {
+   "key": 4803327,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes daliensis Hill, 1922",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8M",
+   "status": "accepted",
+   "label": "Drepanotermes daliensis Hill, 1922",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272396",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes dibolia": {
+  "gbif": {
+   "key": 4803318,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes dibolia Perry & Watson, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8N",
+   "status": "accepted",
+   "label": "Drepanotermes dibolia Watson & Perry, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272397",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes diversicolor": {
+  "gbif": {
+   "key": 4803331,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes diversicolor Perry & Watson, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8P",
+   "status": "accepted",
+   "label": "Drepanotermes diversicolor Watson & Perry, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272398",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes gayi": {
+  "gbif": {
+   "key": 4803322,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes gayi Perry & Watson, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8Q",
+   "status": "accepted",
+   "label": "Drepanotermes gayi Watson & Perry, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272400",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes hamulus": {
+  "gbif": {
+   "key": 4803334,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes hamulus Perry & Watson, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8R",
+   "status": "accepted",
+   "label": "Drepanotermes hamulus Watson & Perry, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272401",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes hilli": {
+  "gbif": {
+   "key": 4803323,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes hilli Perry & Watson, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8S",
+   "status": "accepted",
+   "label": "Drepanotermes hilli Watson & Perry, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272402",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes invasor": {
+  "gbif": {
+   "key": 4803343,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes invasor Perry & Watson, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8T",
+   "status": "accepted",
+   "label": "Drepanotermes invasor Watson & Perry, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272403",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes magnificus": {
+  "gbif": {
+   "key": 9708727,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes magnificus (Mjöberg, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6DL6N",
+   "status": "accepted",
+   "label": "Drepanotermes magnificus (Mjöberg, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250582",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes paradoxus": {
+  "gbif": {
+   "key": 4803337,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes paradoxus Perry & Watson, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8V",
+   "status": "accepted",
+   "label": "Drepanotermes paradoxus Watson & Perry, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272404",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes perniger": {
+  "gbif": {
+   "key": 4803325,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes perniger (Froggatt, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8W",
+   "status": "accepted",
+   "label": "Drepanotermes perniger (Froggatt, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272405",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes phoenix": {
+  "gbif": {
+   "key": 4803320,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes phoenix Perry & Watson, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8X",
+   "status": "accepted",
+   "label": "Drepanotermes phoenix Watson & Perry, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272406",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes rubriceps": {
+  "gbif": {
+   "key": 4803341,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes rubriceps (Froggatt, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8Y",
+   "status": "accepted",
+   "label": "Drepanotermes rubriceps (Froggatt, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272407",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes septentrionalis": {
+  "gbif": {
+   "key": 4803324,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes septentrionalis Hill, 1922",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N8Z",
+   "status": "accepted",
+   "label": "Drepanotermes septentrionalis Hill, 1922",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272408",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Drepanotermes tamminensis": {
+  "gbif": {
+   "key": 4803316,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Drepanotermes tamminensis (Hill, 1929)",
+   "accepted": null
+  },
+  "col": {
+   "id": "37N92",
+   "status": "accepted",
+   "label": "Drepanotermes tamminensis (Hill, 1929)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272410",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "book_n": "94",
+ "book_name": "单毛乳白蚊 Coptotermes",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "单毛乳白蚁有翅成虫量度 ( mm)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "head_length_labrum_tip",
+     "mean": "1.43",
+     "value": "1.40–1.46"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.06",
+     "value": "1.04–1.07"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "mean": "1.38",
+     "value": "1.33–1.43"
+    },
+    {
+     "key": "eye_long_diameter",
+     "mean": "0.35",
+     "value": "0.32–0.38"
+    },
+    {
+     "key": "eye_short_diameter",
+     "mean": "0.29",
+     "value": "0.28–0.29"
+    },
+    {
+     "key": "ocellus_long_diameter",
+     "mean": "0.17",
+     "value": "0.15–0.18"
+    },
+    {
+     "key": "ocellus_short_diameter",
+     "mean": "0.136",
+     "value": "0.12–0.14"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.73",
+     "value": "0.72–0.75"
+    },
+    {
+     "key": "pronotum_max_width",
+     "mean": "1.35",
+     "value": "1.32–1.36"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.30",
+     "value": "1.25–1.36"
+    }
+   ],
+   "src_file": "301-400.txt",
+   "src_line": 823,
+   "unit": "mm"
+  }
+ ]
+}

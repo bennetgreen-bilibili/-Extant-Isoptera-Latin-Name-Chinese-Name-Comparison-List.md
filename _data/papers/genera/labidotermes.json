@@ -1,0 +1,31 @@
+{
+ "latin": "Labidotermes",
+ "zh": "钳白蚁属",
+ "fetched_at": "2026-10-30T16:53:53Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W3035568694",
+   "openalex_url": "https://openalex.org/W3035568694",
+   "doi": "10.11646/zootaxa.4789.1.12",
+   "doi_url": "https://doi.org/10.11646/zootaxa.4789.1.12",
+   "title": "Gastrotermes spinatus gen. n. sp. n., an African soil-feeding termite described from the worker caste (Isoptera, Termitidae, Apicotermitidae)",
+   "year": 2020,
+   "date": "2020-06-08",
+   "authors": [
+    "Rudolf H. Scheffrahn"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 1,
+   "oa_url": "https://doi.org/10.11646/zootaxa.4789.1.12",
+   "volume": "4789",
+   "issue": "1",
+   "pages": "zootaxa.4789.1.12-zootaxa.4789.1.12",
+   "abstract": "Gastrotermes spinatus gen. n. sp. n is described from workers of a single foraging group collected in Cameroon. This soil-feeding termite aligns with the Labidotermes subgroup (Apicotermes group) because of its non-protruding and symmetrical enteric valve armature, its short P1, and its globular P3a. An asymmetrical field of robust sclerotized spines at the opening of the P3a is unique among the other Labidotermes subgroup genera.",
+   "abstract_source": "openalex",
+   "abstract_chars": 434,
+   "abstract_truncated": false
+  }
+ ]
+}

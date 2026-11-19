@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "根据 Krishna & Adams（1982）研究，埃默森唇白蚁（<i>Labritermes emersoni</i>）是唇白蚁属（<i>Labritermes</i>）的新种；自 Holmgren（1914）以巴特里彭唇白蚁（<i>Labritermes buttel-reepeni</i>）为模式种建立该属起，属内长期只有 1 种。",
+     "text_en": "According to Krishna and Adams (1982), <i>Labritermes emersoni</i> is a new species of <i>Labritermes</i>; since Holmgren (1914) established the genus with <i>Labritermes buttel-reepeni</i> as its type species, the genus had long contained only that single species.",
+     "text_es": "Según Krishna y Adams (1982), <i>Labritermes emersoni</i> es una especie nueva de <i>Labritermes</i>; desde que Holmgren (1914) estableció el género con <i>Labritermes buttel-reepeni</i> como especie tipo, el género había contenido durante mucho tiempo solo esa especie.",
+     "src": [
+      "S0115"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0115",
+   "citation": "Krishna, Kumar; Adams, Cheryl Lynn 1982 The Oriental termite genus Labritermes Holmgren (Isoptera, Termitidae, Termitinae). American Museum of Natural History.",
+   "url": "https://digitallibrary.amnh.org/handle/2246/5290"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "note": "El diagnóstico genérico de Emerson 1960 se reduce a una frase (mandíbulas sin diente apical); los demás caracteres proceden de la descripción de la especie tipo en ese mismo trabajo (entonces un género monotípico); el número de segmentos antenales del soldado, el diente marginal 2 de la mandíbula derecha y el contorno de la placa molar no se incluyeron en el cuerpo del texto por el límite de citas de esta ocasión. Según el original, el alado fue descrito por John (1925) y Kemner (1931), y Emerson no examinó especímenes, por lo que no se incluye esa sección.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El hecho de que las mandíbulas del soldado carezcan por completo de diente apical constituye el principal carácter diagnóstico con que Emerson 1960 estableció este género; el perfil lateral de la cabeza, desde el extremo del nasus hasta el vértice, es casi recto o ligeramente cóncavo, con una sola elevación leve en la base del nasus; la cabeza es relativamente más ancha que en Subulitermes microsoma. El índice mandibular izquierdo del obrero es 0.73, intermedio entre Leucopitermes (0.56) y Subulitermes (1.33)."
+  },
+  {
+   "label": "Soldado",
+   "text": "La cabeza y la protuberancia frontal están densamente cubiertas de microtriquias muy cortas, y en el vértice y la base del nasus hay además unas pocas setas; la cabeza es relativamente más ancha que en Subulitermes microsoma; el perfil lateral de la cabeza, desde el extremo del nasus hasta el vértice, es casi recto o ligeramente cóncavo, con una sola elevación leve en la base del nasus; las mandíbulas carecen de diente apical."
+  },
+  {
+   "label": "Obrero",
+   "text": "Índice mandibular izquierdo 0.73; los dientes apicales de ambas mandíbulas son proporcionalmente mayores que en Leucopitermes; no hay escotadura después del diente marginal 1 de la mandíbula izquierda; el diente marginal 3 de la mandíbula izquierda es más estrecho."
+  }
+ ]
+}

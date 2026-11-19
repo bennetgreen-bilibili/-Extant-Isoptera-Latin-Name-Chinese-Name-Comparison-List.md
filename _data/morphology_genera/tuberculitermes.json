@@ -1,0 +1,35 @@
+{
+ "zh_name": "小瘤白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头前部延伸成大而显著的鼻状突，头呈长方形；Proboscitermes 头两侧圆。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头后缘两侧各有一近齿状突起；上唇远长于宽；上颚与头壳等长，直，末端钩状弯转。"
+  },
+  {
+   "label": "工蚁",
+   "text": "有翅成虫—工蚁的右上颚第二缘齿消失；Emerson（1960）指出这一式样只与 Euchilotermes、Ophiotermes、Tuberculitermes 与 Spinitermes 相似。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren, N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4).",
+   "locator": "p. 108（Untergattungen 检索表 ee 项）"
+  },
+  {
+   "id": "S0075",
+   "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+   "locator": "p. 419（兵蚁检索表）"
+  },
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+   "locator": "p. 21（Nitiditermes 工蚁）"
+  }
+ ],
+ "note": "兵蚁取自 Holmgren（1912）检索表 ee 项与 Emerson（1928）检索表；工蚁只有 Emerson（1960）的对比陈述。"
+}

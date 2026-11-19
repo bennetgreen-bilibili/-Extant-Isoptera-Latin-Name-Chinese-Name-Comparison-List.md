@@ -1,0 +1,46 @@
+{
+ "Okavangotermes giessi": {
+  "gbif": {
+   "key": 9785625,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Okavangotermes giessi Coaton, 1971",
+   "accepted": null
+  },
+  "col": {
+   "id": "492B5",
+   "status": "accepted",
+   "label": "Okavangotermes giessi Coaton, 1971",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084785",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Okavangotermes guineensis": {
+  "gbif": {
+   "key": 9652960,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Okavangotermes guineensis Sands, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "492B6",
+   "status": "accepted",
+   "label": "Okavangotermes guineensis Sands, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084786",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

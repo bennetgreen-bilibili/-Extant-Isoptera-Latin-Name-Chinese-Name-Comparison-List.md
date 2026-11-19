@@ -1,0 +1,23 @@
+{
+ "latin": "Comatermes",
+ "zh": "毛白蚁属",
+ "family": "kalotermitidae",
+ "treatise": true,
+ "citation": "Comatermes Krishna, 1961: 341.",
+ "type_species": "Calotermes perfectus Hagen, 1858 by original designation.",
+ "references": [
+  {
+   "ref": "Krishna, 1961: 341–343",
+   "note": "Comatermes; generic characters; key; reference list; phylogeny; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 11",
+   "note": "Comatermes; key."
+  },
+  {
+   "ref": "Constantino, 2002a: 16",
+   "note": "Comatermes; key."
+  }
+ ],
+ "nrefs": 7
+}

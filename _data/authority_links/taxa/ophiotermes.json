@@ -1,0 +1,156 @@
+{
+ "Ophiotermes gracilis": {
+  "gbif": {
+   "key": 9663660,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ophiotermes gracilis Weidner, 1974",
+   "accepted": null
+  },
+  "col": {
+   "id": "49ZZW",
+   "status": "accepted",
+   "label": "Ophiotermes gracilis Weidner, 1974",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084789",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ophiotermes grandilabius": {
+  "gbif": {
+   "key": 9797222,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ophiotermes grandilabius (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "49ZZX",
+   "status": "accepted",
+   "label": "Ophiotermes grandilabius (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084791",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ophiotermes mandibularis": {
+  "gbif": {
+   "key": 9645509,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ophiotermes mandibularis (Sjöstedt, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "49ZZY",
+   "status": "accepted",
+   "label": "Ophiotermes mandibularis (Sjöstedt, 1905)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084792",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ophiotermes mirandus": {
+  "gbif": {
+   "key": 9675826,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ophiotermes mirandus (Sjöstedt, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "49ZZZ",
+   "status": "accepted",
+   "label": "Ophiotermes mirandus (Sjöstedt, 1905)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084793",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ophiotermes receptus": {
+  "gbif": {
+   "key": 9726102,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ophiotermes receptus (Sjöstedt, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6T29Z",
+   "status": "accepted",
+   "label": "Ophiotermes receptus (Sjöstedt, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084794",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ophiotermes shabaensis": {
+  "gbif": {
+   "key": 9757856,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ophiotermes shabaensis Vincke & Bouillon, 1973",
+   "accepted": null
+  },
+  "col": {
+   "id": "74PXZ",
+   "status": "accepted",
+   "label": "Ophiotermes shabaensis Vincke & Bouillon, 1973",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084795",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Ophiotermes ugandaensis": {
+  "gbif": {
+   "key": 9810153,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Ophiotermes ugandaensis Sjöstedt, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "74Q9Z",
+   "status": "accepted",
+   "label": "Ophiotermes ugandaensis Sjöstedt, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084796",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

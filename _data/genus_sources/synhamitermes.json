@@ -1,0 +1,43 @@
+{
+ "latin": "Synhamitermes",
+ "zh": "同钩白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Synhamitermes Holmgren, 1912a: 91 [first introduced as a subgenus of Hamitermes Silvestri, 1903].",
+ "type_species": "Amitermes quadriceps Wasmann, 1902 by subsequent designation; see Snyder, 1949a: 129.",
+ "references": [
+  {
+   "ref": "Lal and Menon, 1953: 37, 41",
+   "note": "Hamitermes (Synhamitermes); catalog; reference list; key."
+  },
+  {
+   "ref": "Ahmad, 1958: 87, 90",
+   "note": "Synhamitermes; key."
+  },
+  {
+   "ref": "Roonwal and Chhotani, 1962a: 294",
+   "note": "Synhamitermes; key."
+  },
+  {
+   "ref": "Roonwal and Bose, 1964: 8",
+   "note": "Synhamitermes; key."
+  },
+  {
+   "ref": "Chaudhry et al., 1972: 51",
+   "note": "Synhamitermes; characters."
+  },
+  {
+   "ref": "Akhtar, 1975: 59, 60",
+   "note": "Synhamitermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 29",
+   "note": "Synhamitermes; key."
+  },
+  {
+   "ref": "Sen-Sarma et al., 1975: 2, 4, 8",
+   "note": "Synhamitermes; distribution and ecology; key. India."
+  }
+ ],
+ "nrefs": 31
+}

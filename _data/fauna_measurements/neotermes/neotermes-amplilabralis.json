@@ -1,0 +1,70 @@
+{
+ "book_n": "48",
+ "book_name": "宽唇新白蚁 Neotermes amplilabralis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "细频新白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "11.50"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "value": "3.82"
+    },
+    {
+     "key": "head_width",
+     "value": "2.30"
+    },
+    {
+     "key": "head_height",
+     "value": "1.85"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.45"
+    },
+    {
+     "key": "labrum_width",
+     "value": "0.60"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "3.09"
+    },
+    {
+     "key": "postmentum_max_width",
+     "value": "0.75"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.25"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "1.05"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "2.30"
+    },
+    {
+     "key": "hind_femur_length",
+     "value": "1.50"
+    },
+    {
+     "key": "hind_femur_width",
+     "value": "0.55"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 1092,
+   "unit": "mm"
+  }
+ ]
+}

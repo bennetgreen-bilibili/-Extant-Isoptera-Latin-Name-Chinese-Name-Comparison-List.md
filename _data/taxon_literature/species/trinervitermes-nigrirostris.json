@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "印度新种",
+   "heading_en": "A new species from India",
+   "heading_es": "Una especie nueva de la India",
+   "paragraphs": [
+    {
+     "src": [
+      "S0328"
+     ],
+     "text": "根据 Mathur 与 Sen-Sarma（1960）研究，黑鼻三脉白蚁（<i>Trinervitermes nigrirostris</i>）据 Günther Becker 1956 年在印度采集的标本描述为新种，描述附插图；同一批材料中还建立了埃默森白蚁属（<i>Emersonitermes</i>）与卡迪埃默森白蚁（<i>Emersonitermes thekadensis</i>），而 <i>Nasutitermes beckeri</i> 由 Prashad 与 Sen-Sarma 另文描述（据摘要）。",
+     "text_en": "According to Mathur and Sen-Sarma (1960), <i>Trinervitermes nigrirostris</i> is described as a new species from material collected by Günther Becker in India in 1956, and the description is illustrated; the same collection also yielded the new genus <i>Emersonitermes</i> and <i>Emersonitermes thekadensis</i>, while <i>Nasutitermes beckeri</i> was described elsewhere by Prashad and Sen-Sarma (according to the abstract).",
+     "text_es": "Según Mathur y Sen-Sarma (1960), <i>Trinervitermes nigrirostris</i> se describe como especie nueva a partir de material recolectado por Günther Becker en la India en 1956, y la descripción está ilustrada; de la misma colección proceden también el género nuevo <i>Emersonitermes</i> y <i>Emersonitermes thekadensis</i>, mientras que <i>Nasutitermes beckeri</i> fue descrita en otro trabajo por Prashad y Sen-Sarma (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0328",
+   "citation": "Mathur, R. N.; Sen-Sarma, P. K. 1960. Two new termites Emersonitermes thekadensis gen. et sp. nov. and Trinervitermes nigrirostris sp. nov. from India (Insecta: Isoptera). Zeitschrift für Angewandte Entomologie.",
+   "url": "https://doi.org/10.1111/j.1439-0418.1960.tb01178.x"
+  }
+ ]
+}

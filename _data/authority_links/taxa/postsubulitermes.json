@@ -1,0 +1,24 @@
+{
+ "Postsubulitermes parviconstrictus": {
+  "gbif": {
+   "key": 9666255,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Postsubulitermes parviconstrictus Emerson, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "4M356",
+   "status": "accepted",
+   "label": "Postsubulitermes parviconstrictus Emerson, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084150",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

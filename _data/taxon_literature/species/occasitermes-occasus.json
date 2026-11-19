@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "模式种的地位与记述",
+   "heading_en": "Status and account of the type species",
+   "heading_es": "Estatus y descripción de la especie tipo",
+   "paragraphs": [
+    {
+     "text": "根据 Gay（1974）研究，西部西部白蚁（<i>Occasitermes occasus</i>）由 Silvestri 描述，是西部白蚁属（<i>Occasitermes</i>）的模式种；该文对该种作了描述，并给出其分布与生物学资料。（据摘要）",
+     "src": [
+      "S0341"
+     ],
+     "text_en": "In the study by Gay (1974), <i>Occasitermes occasus</i>, described by Silvestri, is the type species of <i>Occasitermes</i>; the paper describes the species and gives details of its distribution and biology. (According to the abstract.)",
+     "text_es": "En el estudio de Gay (1974), <i>Occasitermes occasus</i>, descrita por Silvestri, es la especie tipo de <i>Occasitermes</i>; el artículo describe la especie y aporta datos sobre su distribución y biología. (Según el resumen.)"
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0341",
+   "citation": "Gay, F. J. 1974. The Australian termite genus Occasitermes (Isoptera: Termitidae: Nasutitermitinae). Australian Journal of Entomology 13.",
+   "doi": "10.1111/j.1440-6055.1974.tb02208.x"
+  }
+ ]
+}

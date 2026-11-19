@@ -1,0 +1,19 @@
+{
+ "latin": "Skatitermes",
+ "zh": "洁白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Skatitermes Coaton, 1971: 2–5.",
+ "type_species": "Skatitermes psammophilus Coaton, 1971 by original designation.",
+ "references": [
+  {
+   "ref": "Coaton and Sheasby, 1972: 24, 59, 63, 101, fig. 35",
+   "note": "Skatitermes; key; ecology; biology; distribution. Namibia."
+  },
+  {
+   "ref": "Sands, 1998: 52, 137–139, figs. 382–390, pl. 3: fig. 8",
+   "note": "Skatitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 2
+}

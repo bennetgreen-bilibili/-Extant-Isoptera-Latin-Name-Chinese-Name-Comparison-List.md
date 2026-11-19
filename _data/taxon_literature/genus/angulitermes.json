@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "印度区种类沿革",
+   "heading_en": "Species history in the Indian region",
+   "heading_es": "Historia de las especies en la región india",
+   "paragraphs": [
+    {
+     "text": "根据 Roonwal 与 Chhotani（1965）研究，角白蚁属（<i>Angulitermes</i>）在印度区的记录始于 Ahmad（1958），当时把 3 个种归入该属，这些种原先多被置于白蚁属（<i>Termes</i>）或 <i>Mirotermes</i> 属；1961 年至 1965 年间，印度区又描述了 4 个新种，其中弗莱彻角白蚁（<i>Angulitermes fletcheri</i>）由 Mathur 与 Sen-Sarma（1961）及 Krishna（1965）从白蚁属（<i>Termes</i>）转入本属；至该文发表时，仍有 2 个原描述自印度区的种留在白蚁属（<i>Termes</i>）。该文另描述采自查谟-克什米尔邦乌达姆普尔县（District Udhampur）的 2 个新种，并给出印度区种类的检索表。（据摘要）",
+     "src": [
+      "S0343"
+     ],
+     "text_en": "In the study by Roonwal and Chhotani (1965), the record of <i>Angulitermes</i> in the Indian region begins with Ahmad (1958), who placed three species in the genus, most of them previously referred to <i>Termes</i> or <i>Mirotermes</i>; between 1961 and 1965 four more species were described from the Indian region, among them <i>Angulitermes fletcheri</i>, which Mathur and Sen-Sarma (1961) and Krishna (1965) transferred from <i>Termes</i>; at the time of publication two species originally described from the Indian region were still left in <i>Termes</i>. The paper describes two further new species from District Udhampur, Jammu and Kashmir State, and provides a key to the species of the Indian region. (According to the abstract.)",
+     "text_es": "En el estudio de Roonwal y Chhotani (1965), el registro de <i>Angulitermes</i> en la región india comienza con Ahmad (1958), quien situó tres especies en el género, la mayoría antes referidas a <i>Termes</i> o a <i>Mirotermes</i>; entre 1961 y 1965 se describieron cuatro especies más de la región india, entre ellas <i>Angulitermes fletcheri</i>, que Mathur y Sen-Sarma (1961) y Krishna (1965) transfirieron desde <i>Termes</i>; en el momento de la publicación dos especies descritas originalmente de la región india seguían en <i>Termes</i>. El artículo describe dos especies nuevas más del distrito de Udhampur, estado de Jammu y Cachemira, y ofrece una clave de las especies de la región india. (Según el resumen.)"
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0343",
+   "citation": "Roonwal, M. L.; Chhotani, O. B. 1965. Two New Termites of Genus Angulitermes Sjostedt (Isoptera: Termitidae) from India, with a Key to Species of Indian Region. Records of the Zoological Survey of India 63(1-4).",
+   "doi": "10.26515/rzsi/v63/i1-4/1965/161567"
+  }
+ ]
+}

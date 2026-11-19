@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "成虫的首次描述",
+   "heading_en": "First description of the alate",
+   "heading_es": "Primera descripción del alado",
+   "paragraphs": [
+    {
+     "src": [
+      "S0200"
+     ],
+     "text": "据摘要，Constantino 等（2006）在修订厚唇白蚁属（<i>Labiotermes</i>）时首次描述了埃默森厚唇白蚁（<i>Labiotermes emersoni</i>）的成虫（有翅繁殖蚁），此前该种只知兵蚁与工蚁。",
+     "text_en": "According to the abstract, in their revision of <i>Labiotermes</i>, Constantino et al. (2006) described the alate of <i>Labiotermes emersoni</i> for the first time; the species had previously been known only from soldiers and workers.",
+     "text_es": "Según el resumen, en su revisión de <i>Labiotermes</i>, Constantino et al. (2006) describieron por primera vez el alado de <i>Labiotermes emersoni</i>; antes, la especie solo se conocía por soldados y obreros."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0200",
+   "citation": "Constantino, R., Acioli, A. N. S., Schmidt, K., Cuezzo, C., Carvalho, S. H. C. & Alexandre, A. (2006). A taxonomic revision of the Neotropical termite genera Labiotermes Holmgren and Paracornitermes Emerson (Isoptera, Termitidae, Syntermitinae). Zootaxa, 1340.",
+   "doi": "10.11646/zootaxa.1340.1.1"
+  }
+ ]
+}

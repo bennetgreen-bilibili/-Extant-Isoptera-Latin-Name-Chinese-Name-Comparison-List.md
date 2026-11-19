@@ -1,0 +1,43 @@
+{
+ "latin": "Parrhinotermes",
+ "zh": "棒鼻白蚁属",
+ "family": "rhinotermitidae",
+ "treatise": true,
+ "citation": "Parrhinotermes Holmgren, 1910b: 285 [genus-group name available by indication of available type species].",
+ "type_species": "Termes aequalis Haviland, 1898 by monotypy.",
+ "references": [
+  {
+   "ref": "Haviland, 1898: 378, 395",
+   "note": "Termes “section with T. aequalis for type”; characters; key."
+  },
+  {
+   "ref": "Holmgren, 1911a: 11, 77, 78, 79",
+   "note": "Parrhinotermes; characters; key; species included; type species T. aequalis; distribution."
+  },
+  {
+   "ref": "Holmgren, 1914: 237",
+   "note": "Parrhinotermes; characters; remarks."
+  },
+  {
+   "ref": "Hill, 1942: 14, 172",
+   "note": "Parrhinotermes; key; synonymy; imago, soldier, worker diagnosed."
+  },
+  {
+   "ref": "Ratcliffe et al., 1952: 54",
+   "note": "Parrhinotermes; key."
+  },
+  {
+   "ref": "Ahmad, 1958: 59, 60",
+   "note": "Parrhinotermes; key."
+  },
+  {
+   "ref": "Roonwal and Chhotani, 1962a: 294",
+   "note": "Parrhinotermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 15",
+   "note": "Parrhinotermes; key."
+  }
+ ],
+ "nrefs": 35
+}

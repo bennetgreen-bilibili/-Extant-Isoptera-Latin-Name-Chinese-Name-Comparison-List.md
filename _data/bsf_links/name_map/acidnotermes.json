@@ -1,0 +1,13 @@
+{
+ "Acidnotermes praus": {
+  "label": "Acidnotermes praus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83912,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83912/overview",
+  "valid_label": null,
+  "valid_otu": 83912,
+  "verified": false
+ }
+}

@@ -1,0 +1,120 @@
+{
+ "book_n": "315",
+ "book_name": "三型大白蚊 Macrotermes trimorphus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "三型大白蚁大兵蚁量度( mm)",
+   "label_en": "Major soldier measurements",
+   "label_es": "Medidas de soldado mayor",
+   "label_zh": "大兵蚁量度",
+   "rows": [
+    {
+     "key": "head_width_mandible_base",
+     "value": "2.25"
+    },
+    {
+     "key": "head_max_width",
+     "value": "3.01"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "2.05"
+    },
+    {
+     "key": "postmentum_width",
+     "value": "0.86"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.64"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "2.63"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "1.05"
+    },
+    {
+     "key": "pronotum_max_width",
+     "value": "2.25"
+    },
+    {
+     "key": "mesonotum_width",
+     "value": "1.91"
+    },
+    {
+     "key": "metanotum_width",
+     "value": "2.01"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 1196,
+   "unit": "mm"
+  },
+  {
+   "caste": "soldier",
+   "heading": "三型大白蚁中兵蚁量度",
+   "label_en": "Medium soldier measurements",
+   "label_es": "Medidas de soldado mediano",
+   "label_zh": "中兵蚁量度",
+   "rows": [
+    {
+     "key": "head_width_mandible_base",
+     "mean": "1.13",
+     "value": "1.09–1.17"
+    },
+    {
+     "key": "head_width_behind_antennae",
+     "mean": "1.60",
+     "value": "1.55–1.66"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.72",
+     "value": "1.68–1.80"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.55",
+     "value": "0.50–0.58"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.38",
+     "value": "0.32–0.40"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.53",
+     "value": "1.41–1.57"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.75",
+     "value": "0.68–0.80"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.32",
+     "value": "1.23–1.35"
+    },
+    {
+     "key": "mesonotum_width",
+     "mean": "1.04",
+     "value": "0.95–1.12"
+    },
+    {
+     "key": "metanotum_width",
+     "mean": "1.25",
+     "value": "1.14–1.29"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 1207,
+   "unit": "mm"
+  }
+ ]
+}

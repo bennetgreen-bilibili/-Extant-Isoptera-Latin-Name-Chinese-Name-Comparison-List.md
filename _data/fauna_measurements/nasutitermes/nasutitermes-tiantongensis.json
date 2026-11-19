@@ -1,0 +1,53 @@
+{
+ "book_n": "436",
+ "book_name": "天童象白蚁 Nasutitermes tiantongensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "天童象白蚊兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_without_nasus",
+     "mean": "0.99",
+     "value": "0.95–1.04"
+    },
+    {
+     "key": "nasus_length",
+     "mean": "0.63",
+     "value": "0.59–0.69"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "0.84",
+     "value": "0.80–0.89"
+    },
+    {
+     "key": "head_height_without_gula",
+     "mean": "0.60",
+     "value": "0.58–0.62"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.17",
+     "value": "0.16–0.18"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.44",
+     "value": "0.42–0.45"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.01",
+     "value": "0.97–1.05"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 851,
+   "unit": "mm"
+  }
+ ]
+}

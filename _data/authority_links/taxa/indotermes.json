@@ -1,0 +1,222 @@
+{
+ "Indotermes arshadi": {
+  "gbif": {
+   "key": 9818108,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Indotermes arshadi Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "3PNQK",
+   "status": "accepted",
+   "label": "Indotermes arshadi Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252584",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Indotermes capillosus": {
+  "gbif": {
+   "key": 9698732,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Indotermes capillosus (Thakur & Chatterjee, 1965)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3PNQL",
+   "status": "accepted",
+   "label": "Indotermes capillosus (Thakur & Chatterjee, 1965)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252585",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Indotermes hainanensis": {
+  "gbif": {
+   "key": 9702390,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Indotermes hainanensis (He & Xia, 1981)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3PNQM",
+   "status": "accepted",
+   "label": "Indotermes hainanensis (He & Xia, 1981)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252587",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Indotermes isodentatus": {
+  "gbif": {
+   "key": 9733705,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Indotermes isodentatus (Tsai & Chen, 1963)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3PNQN",
+   "status": "accepted",
+   "label": "Indotermes isodentatus (Tsai & Chen, 1963)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252588",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Indotermes luxiensis": {
+  "gbif": {
+   "key": 9668001,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Indotermes luxiensis (Huang & Zhu, 1984)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3PNQP",
+   "status": "accepted",
+   "label": "Indotermes luxiensis (Huang & Zhu, 1984)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252589",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Indotermes maymensis": {
+  "gbif": {
+   "key": 9652806,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Indotermes maymensis Roonwal & Sen-Sarma, 1958",
+   "accepted": null
+  },
+  "col": {
+   "id": "3PNQQ",
+   "status": "accepted",
+   "label": "Indotermes maymensis Roonwal & Sen-Sarma, 1958",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252591",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Indotermes menggarensis": {
+  "gbif": {
+   "key": 9749635,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Indotermes menggarensis Tsai & Zhu, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "3PNQR",
+   "status": "accepted",
+   "label": "Indotermes menggarensis Tsai & Zhu, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252592",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Indotermes rongrensis": {
+  "gbif": {
+   "key": 9671520,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Indotermes rongrensis (Roonwal & Chhotani, 1962)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3PNQS",
+   "status": "accepted",
+   "label": "Indotermes rongrensis (Roonwal & Chhotani, 1962)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252593",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Indotermes thailandis": {
+  "gbif": {
+   "key": 9686869,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Indotermes thailandis Ahmad, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "3PNQT",
+   "status": "accepted",
+   "label": "Indotermes thailandis Ahmad, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252596",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Indotermes yunnanensis": {
+  "gbif": {
+   "key": 9785460,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Indotermes yunnanensis (He & Xia, 1981)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6N7Z4",
+   "status": "accepted",
+   "label": "Indotermes yunnanensis (He & Xia, 1981)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140252597",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

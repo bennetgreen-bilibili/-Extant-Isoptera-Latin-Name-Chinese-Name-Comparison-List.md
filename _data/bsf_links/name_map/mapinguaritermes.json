@@ -1,0 +1,35 @@
+{
+ "Mapinguaritermes grandidens": {
+  "label": "Mapinguaritermes grandidens (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84166,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84166/overview",
+  "valid_label": null,
+  "valid_otu": 84166,
+  "verified": false
+ },
+ "Mapinguaritermes marizalensis": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 1411304 Mapinguaritermes marizalensis de Lucena, Cysneiros & Vasconcellos, 2026；OTU 1114075 Mapinguaritermes Rocha & Cancello, 2012",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Mapinguaritermes peruanus": {
+  "label": "Mapinguaritermes peruanus (Holmgren, 1906)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84170,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84170/overview",
+  "valid_label": null,
+  "valid_otu": 84170,
+  "verified": false
+ }
+}

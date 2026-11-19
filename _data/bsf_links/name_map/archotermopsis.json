@@ -1,0 +1,24 @@
+{
+ "Archotermopsis kuznetsovi": {
+  "label": "Archotermopsis kuznetsovi Belyaeva, 2004",
+  "match": "exact",
+  "notes": "",
+  "otu": 82491,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82491/overview",
+  "valid_label": null,
+  "valid_otu": 82491,
+  "verified": false
+ },
+ "Archotermopsis wroughtoni": {
+  "label": "Archotermopsis wroughtoni (Desneux, 1904)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82493,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82493/overview",
+  "valid_label": null,
+  "valid_otu": 82493,
+  "verified": false
+ }
+}

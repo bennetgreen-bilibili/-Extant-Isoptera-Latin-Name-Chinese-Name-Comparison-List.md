@@ -1,0 +1,112 @@
+{
+ "Indotermes arshadi": {
+  "label": "Indotermes arshadi Akhtar, 1975",
+  "match": "exact",
+  "notes": "",
+  "otu": 84108,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84108/overview",
+  "valid_label": null,
+  "valid_otu": 84108,
+  "verified": false
+ },
+ "Indotermes capillosus": {
+  "label": "Indotermes capillosus (Thakur & Chatterjee, 1965)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84109,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84109/overview",
+  "valid_label": null,
+  "valid_otu": 84109,
+  "verified": false
+ },
+ "Indotermes hainanensis": {
+  "label": "Indotermes hainanensis (He & Xia, 1981)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84110,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84110/overview",
+  "valid_label": null,
+  "valid_otu": 84110,
+  "verified": false
+ },
+ "Indotermes isodentatus": {
+  "label": "Indotermes isodentatus (Tsai & Chen, 1963)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84111,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84111/overview",
+  "valid_label": null,
+  "valid_otu": 84111,
+  "verified": false
+ },
+ "Indotermes luxiensis": {
+  "label": "Indotermes luxiensis (Huang & Zhu, 1984)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84112,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84112/overview",
+  "valid_label": null,
+  "valid_otu": 84112,
+  "verified": false
+ },
+ "Indotermes maymensis": {
+  "label": "Indotermes maymensis Roonwal & Sen-Sarma, 1958",
+  "match": "exact",
+  "notes": "",
+  "otu": 84113,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84113/overview",
+  "valid_label": null,
+  "valid_otu": 84113,
+  "verified": false
+ },
+ "Indotermes menggarensis": {
+  "label": "Indotermes menggarensis Tsai & Zhu, 1984",
+  "match": "exact",
+  "notes": "",
+  "otu": 84114,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84114/overview",
+  "valid_label": null,
+  "valid_otu": 84114,
+  "verified": false
+ },
+ "Indotermes rongrensis": {
+  "label": "Indotermes rongrensis (Roonwal & Chhotani, 1962)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84115,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84115/overview",
+  "valid_label": null,
+  "valid_otu": 84115,
+  "verified": false
+ },
+ "Indotermes thailandis": {
+  "label": "Indotermes thailandis Ahmad, 1963",
+  "match": "exact",
+  "notes": "",
+  "otu": 84116,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84116/overview",
+  "valid_label": null,
+  "valid_otu": 84116,
+  "verified": false
+ },
+ "Indotermes yunnanensis": {
+  "label": "Indotermes yunnanensis (He & Xia, 1981)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84117,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84117/overview",
+  "valid_label": null,
+  "valid_otu": 84117,
+  "verified": false
+ }
+}

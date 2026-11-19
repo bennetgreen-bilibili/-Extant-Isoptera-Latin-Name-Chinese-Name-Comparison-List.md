@@ -1,0 +1,58 @@
+{
+ "book_n": "228",
+ "book_name": "贵阳杆白蚁 Stylotermes guiyangensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "贵阳杆白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_height",
+     "mean": "1.17",
+     "value": "1.14–1.25"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.31",
+     "value": "0.30–0.37"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.53",
+     "value": "1.43–1.58"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.78",
+     "value": "1.63–1.93"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.75",
+     "value": "0.69–0.79"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.22",
+     "value": "1.13–1.29"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.05",
+     "value": "0.99–1.09"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.61",
+     "value": "0.57–0.66"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 663,
+   "unit": "mm"
+  }
+ ]
+}

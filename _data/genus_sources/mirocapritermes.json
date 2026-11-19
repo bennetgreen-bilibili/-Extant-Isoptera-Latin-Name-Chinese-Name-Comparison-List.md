@@ -1,0 +1,43 @@
+{
+ "latin": "Mirocapritermes",
+ "zh": "瘤白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Mirocapritermes Holmgren, 1914: 277.",
+ "type_species": "Mirocapritermes connectens Holmgren, 1914 by monotypy.",
+ "references": [
+  {
+   "ref": "Tsai and Chen, 1964b: 72, 73, 84",
+   "note": "Mirocapritermes; key; characters."
+  },
+  {
+   "ref": "Ahmad, 1965: 8",
+   "note": "Mirocapritermes; key."
+  },
+  {
+   "ref": "Krishna, 1968: 305–308",
+   "note": "Mirocapritermes; synonymy; key; characters; phylogeny; species included; distribution."
+  },
+  {
+   "ref": "Chaudhry et al., 1972: 63",
+   "note": "Mirocapritermes; characters."
+  },
+  {
+   "ref": "Akhtar, 1975: 60",
+   "note": "Mirocapritermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 30",
+   "note": "Mirocapritermes; key."
+  },
+  {
+   "ref": "Ahmad and Akhtar, 1981: 2, 3, fig. 11",
+   "note": "Mirocapritermes; key; enteric valve cushions figured."
+  },
+  {
+   "ref": "Huang et al., 1989: 391, 491",
+   "note": "Mirocapritermes; key; characters; distribution."
+  }
+ ],
+ "nrefs": 21
+}

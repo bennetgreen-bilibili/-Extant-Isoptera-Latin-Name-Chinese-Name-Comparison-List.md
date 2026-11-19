@@ -1,0 +1,13 @@
+{
+ "Nasopilotermes jiangxiensis": {
+  "label": "Nasopilotermes jiangxiensis (He, 1988)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84552,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84552/overview",
+  "valid_label": null,
+  "valid_otu": 84552,
+  "verified": false
+ }
+}

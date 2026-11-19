@@ -1,0 +1,46 @@
+{
+ "Araujotermes caissara": {
+  "label": "Araujotermes caissara Fontes, 1982",
+  "match": "exact",
+  "notes": "",
+  "otu": 84314,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84314/overview",
+  "valid_label": null,
+  "valid_otu": 84314,
+  "verified": false
+ },
+ "Araujotermes nanus": {
+  "label": "Araujotermes nanus Constantino, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 84315,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84315/overview",
+  "valid_label": null,
+  "valid_otu": 84315,
+  "verified": false
+ },
+ "Araujotermes parvellus": {
+  "label": "Araujotermes parvellus (Silvestri, 1923)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84316,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84316/overview",
+  "valid_label": null,
+  "valid_otu": 84316,
+  "verified": false
+ },
+ "Araujotermes zeteki": {
+  "label": "Araujotermes zeteki (Snyder, 1924)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84317,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84317/overview",
+  "valid_label": null,
+  "valid_otu": 84317,
+  "verified": false
+ }
+}

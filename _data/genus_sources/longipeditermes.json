@@ -1,0 +1,31 @@
+{
+ "latin": "Longipeditermes",
+ "zh": "长足白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Longipeditermes Holmgren, 1912a: 60, 62, 65 [first introduced as a subgenus of Eutermes Heer, 1849].",
+ "type_species": "Termes longipes Haviland, 1898 by monotypy.",
+ "references": [
+  {
+   "ref": "Ahmad, 1958: 86, 88",
+   "note": "Longipeditermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 25",
+   "note": "Longipeditermes; key."
+  },
+  {
+   "ref": "Collins, 1984: 77",
+   "note": "Longipeditermes; key."
+  },
+  {
+   "ref": "Gathorne-Hardy, 2001: 1501",
+   "note": "Longipeditermes; key."
+  },
+  {
+   "ref": "Sornnuwat et al., 2004: 358, 359",
+   "note": "Longipeditermes; key, number of species. Thailand."
+  }
+ ],
+ "nrefs": 16
+}

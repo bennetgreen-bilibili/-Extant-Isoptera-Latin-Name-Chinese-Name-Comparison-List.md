@@ -1,0 +1,113 @@
+{
+ "book_n": "158",
+ "book_name": "窄头散白蚊 Reticulitermes",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.15",
+     "value": "1.11–1.20"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.46",
+     "value": "0.41–0.46"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.38",
+     "value": "0.36–0.40"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.10",
+     "value": "1.06–1.17"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.71",
+     "value": "1.65–1.76"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.47",
+     "value": "0.41–0.48"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.15",
+     "value": "0.14–0.16"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.57",
+     "value": "0.54–0.61"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.49",
+     "value": "0.45–0.51"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.91",
+     "value": "0.83–0.96"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.96",
+     "value": "0.91–1.02"
+    }
+   ],
+   "src_file": "401-500.txt",
+   "src_line": 714,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "脱翅成虫量度 ( mm)",
+   "label_en": "Dealate measurements",
+   "label_es": "Medidas de dealado",
+   "label_zh": "脱翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "value": "13.68"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "value": "1.08"
+    },
+    {
+     "key": "head_width",
+     "value": "1.04"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.06"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.90"
+    },
+    {
+     "key": "forewing_scale_length",
+     "value": "0.77"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "1.16"
+    }
+   ],
+   "src_file": "401-500.txt",
+   "src_line": 726,
+   "unit": "mm"
+  }
+ ]
+}

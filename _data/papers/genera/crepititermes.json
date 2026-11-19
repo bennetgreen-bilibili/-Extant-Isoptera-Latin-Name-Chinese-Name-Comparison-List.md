@@ -1,0 +1,32 @@
+{
+ "latin": "Crepititermes",
+ "zh": "响白蚁属",
+ "fetched_at": "2026-10-30T16:53:24Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W1094335107",
+   "openalex_url": "https://openalex.org/W1094335107",
+   "doi": "10.1007/s13744-015-0307-4",
+   "doi_url": "https://doi.org/10.1007/s13744-015-0307-4",
+   "title": "Redescription of the Monotypic Neotropical Genus Crepititermes Emerson (Termitidae: Termitinae)",
+   "year": 2015,
+   "date": "2015-08-04",
+   "authors": [
+    "Mauricio M. Rocha",
+    "Carolina Cuezzo"
+   ],
+   "venue": "Neotropical Entomology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 2,
+   "oa_url": "",
+   "volume": "44",
+   "issue": "5",
+   "pages": "457-465",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  }
+ ]
+}

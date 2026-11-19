@@ -1,0 +1,200 @@
+{
+ "Velocitermes barrocoloradensis": {
+  "gbif": {
+   "key": 9793194,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Velocitermes barrocoloradensis (Snyder, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7FKCC",
+   "status": "accepted",
+   "label": "Velocitermes barrocoloradensis (Snyder, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073694",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Velocitermes beebei": {
+  "gbif": {
+   "key": 8940253,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Velocitermes beebei (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7FKCD",
+   "status": "accepted",
+   "label": "Velocitermes beebei (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073693",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Velocitermes glabrinotus": {
+  "gbif": {
+   "key": 9698645,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Velocitermes glabrinotus Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "7FKBW",
+   "status": "accepted",
+   "label": "Velocitermes glabrinotus Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073692",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Velocitermes heteropterus": {
+  "gbif": {
+   "key": 8818446,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Velocitermes heteropterus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7FKC8",
+   "status": "accepted",
+   "label": "Velocitermes heteropterus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q135650855",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Velocitermes laticephalus": {
+  "gbif": {
+   "key": 9679450,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Velocitermes laticephalus (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7FKBX",
+   "status": "accepted",
+   "label": "Velocitermes laticephalus (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073691",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Velocitermes melanocephalus": {
+  "gbif": {
+   "key": 9131513,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Velocitermes melanocephalus (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7FKC9",
+   "status": "accepted",
+   "label": "Velocitermes melanocephalus (Snyder)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073690",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Velocitermes paucipilis": {
+  "gbif": {
+   "key": 9709765,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Velocitermes paucipilis Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "7FKBY",
+   "status": "accepted",
+   "label": "Velocitermes paucipilis Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073689",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Velocitermes uniformis": {
+  "gbif": {
+   "key": 8918977,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Velocitermes uniformis (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7FKBZ",
+   "status": "accepted",
+   "label": "Velocitermes uniformis (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073688",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Velocitermes velox": {
+  "gbif": {
+   "key": 8886492,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Velocitermes velox (Holmgren, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7FKF2",
+   "status": "accepted",
+   "label": "Velocitermes velox (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073687",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

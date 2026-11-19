@@ -1,0 +1,17 @@
+{
+ "note": "Generic characters in Sands 1972 pp. 44–46. The original gives only body size (head width W, mm), number of fore tibial apical spurs, mandibular tooth ratios, meso- and metanotal constriction (M/W), fontanelle and head pilosity (where present), and gut/enteric valve structure; antennal segment number, pronotal shape and wing venation are not recorded, so no supplementation is made in this entry. Decimal points shown as “*” in the OCR and i/1 confusions have been normalised to Arabic numerals according to context.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Small body size, together with mandibular morphology, distinguishes it from all other genera. Closely related to Astalotermes, especially A. comis; but the position of the left accessory marginal tooth and the distinctly shorter gut of the worker are both reminiscent of more primitive groups, and numerical classification also separates it widely. Body size overlaps only with Anenteotermes nanus, but the latter differs in the mandibles of both castes, the worker having a long mixed segment and a spinose enteric valve."
+  },
+  {
+   "label": "Worker",
+   "text": "Very small, W 0.48–0.57 mm. Fore tibia moderately inflated, Ti/Tw 3.46–3.94, with 3 apical spurs, the third nearly as large as the other two. Mandibular apical teeth short, La/Li 0.48–0.54, Ra/Ri 0.60–0.68; left mandible accessory marginal tooth with its proximal end concealed behind the molar prominence in surface view; right mandible proportions as in the alate but with a larger molar plate. Midgut–hindgut junction simple, nearly transverse, without overlap, the midgut short, the Malpighian tubules arising at exactly half its length; first hindgut segment slightly longer than the midgut, slightly inflated, tapering towards the enteric valve; enteric valve seat a simple rim, sessile, attached to the second hindgut pouch, lateroventrally situated in the unopened abdomen; enteric valve inner cushion without spines, scales weak."
+  },
+  {
+   "label": "Alate",
+   "text": "Very small, W 0.57–0.66 mm. Fore tibia with 3 apical spurs, the third well developed, about 2/3 of the other two. Mandibular apical teeth short, La/Li 0.50–0.56, Ra/Ri 0.62–0.71; left mandible accessory marginal tooth with its proximal end exactly level with the molar prominence edge; right mandible apical and marginal tooth apices in a line, but the 2nd marginal tooth broad and its anterior margin longer than that of the 1st marginal tooth. Meso- and metanotal plates narrow at the constriction, M/W 0.21; transverse suture weak but present."
+  }
+ ]
+}

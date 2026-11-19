@@ -1,0 +1,39 @@
+{
+ "latin": "Parvitermes",
+ "zh": "微白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Parvitermes Emerson, 1949j: 376–377, 305.",
+ "type_species": "Nasutitermes (Tenuirostritermes) brooksi Snyder, 1925 by original designation.",
+ "references": [
+  {
+   "ref": "Morimoto, 1975b: 25",
+   "note": "Parvitermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 177–178",
+   "note": "Parvitermes; synonymy; characters."
+  },
+  {
+   "ref": "Mill, 1983a: 183, 188",
+   "note": "Parvitermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Roisin et al., 1996: 777",
+   "note": "Parvitermes; soldier, worker characters."
+  },
+  {
+   "ref": "Constantino, 1999a: 403, 413",
+   "note": "Parvitermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 10",
+   "note": "Parvitermes; key. Terrenitermes Spaeth, 1967: 849–852 [junior subjective synonym of Parvitermes Emerson, 1949; synonymized by Roisin et al., 1996: 782]. Type species: Constrictotermes toussainti Banks, 1919 by original designation."
+  },
+  {
+   "ref": "Mill, 1983a: 183, 188",
+   "note": "Terrenitermes; key; number of species in New World; habitat; distribution."
+  }
+ ],
+ "nrefs": 19
+}

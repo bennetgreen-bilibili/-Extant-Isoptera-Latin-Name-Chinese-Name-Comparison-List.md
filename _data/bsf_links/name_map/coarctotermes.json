@@ -1,0 +1,46 @@
+{
+ "Coarctotermes beharaensis": {
+  "label": "Coarctotermes beharaensis Cachan, 1949",
+  "match": "exact",
+  "notes": "",
+  "otu": 84384,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84384/overview",
+  "valid_label": null,
+  "valid_otu": 84384,
+  "verified": false
+ },
+ "Coarctotermes clepsydra": {
+  "label": "Coarctotermes clepsydra (Sjöstedt, 1904)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84385,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84385/overview",
+  "valid_label": null,
+  "valid_otu": 84385,
+  "verified": false
+ },
+ "Coarctotermes nasonovi": {
+  "label": "Coarctotermes nasonovi (Czerwinski, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84386,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84386/overview",
+  "valid_label": null,
+  "valid_otu": 84386,
+  "verified": false
+ },
+ "Coarctotermes pauliani": {
+  "label": "Coarctotermes pauliani Cachan, 1949",
+  "match": "exact",
+  "notes": "",
+  "otu": 84387,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84387/overview",
+  "valid_label": null,
+  "valid_otu": 84387,
+  "verified": false
+ }
+}

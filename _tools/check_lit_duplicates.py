@@ -8,7 +8,7 @@
 也查不出草稿与既有数据之间的重复。本脚本补这一层。
 
 用法：
-    python _tools/check_lit_duplicates.py                     # 查 _data/taxon_literature.json
+    python _tools/check_lit_duplicates.py                     # 查 _data/taxon_literature/ 分片
     python _tools/check_lit_duplicates.py --draft path.json   # 草稿 vs 既有数据 + 草稿内部
     python _tools/check_lit_duplicates.py --threshold 0.8 --json
 
@@ -24,7 +24,9 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_DATA = ROOT / "_data" / "taxon_literature.json"
+sys.path.insert(0, str(ROOT / "_tools"))
+import shard_io  # noqa: E402
+
 BASELINE = ROOT / "_reports" / "library-reading" / "duplicate-baseline.json"
 TAG_RE = re.compile(r"<[^>]+>")
 WS_RE = re.compile(r"\s+")
@@ -48,8 +50,9 @@ def norm(text: str) -> str:
     return text.lower()
 
 
-def load_pages(path: Path) -> dict:
-    data = json.loads(path.read_text(encoding="utf-8"))
+def load_pages(path: Path | None = None, data: dict | None = None) -> dict:
+    if data is None:
+        data = json.loads(path.read_text(encoding="utf-8"))
     pages = {}
     for url, page in data.items():
         if not isinstance(page, dict) or "sections" not in page:
@@ -73,7 +76,8 @@ def iter_paras(pages: dict):
 
 def main() -> int:
     ap = argparse.ArgumentParser(description="查研究记述的重复段落")
-    ap.add_argument("--data", default=str(DEFAULT_DATA), help="既有数据文件")
+    ap.add_argument("--data", default=None,
+                    help="既有数据 JSON（默认读 _data/taxon_literature/ 分片）")
     ap.add_argument("--draft", help="草稿 JSON；给了就同时比草稿与既有数据")
     ap.add_argument("--threshold", type=float, default=0.70, help="相似度阈值（默认 0.70）")
     ap.add_argument("--min-chars", type=int, default=40, help="参与比较的最短正文字数（默认 40）")
@@ -82,14 +86,16 @@ def main() -> int:
     ap.add_argument("--strict", action="store_true", help="忽略 duplicate-baseline.json（用于清理基线）")
     args = ap.parse_args()
 
-    data_path = Path(args.data)
-    if not data_path.is_absolute():
-        data_path = ROOT / data_path
-    if not data_path.exists():
-        print(f"[dupes] 找不到数据文件：{data_path}", file=sys.stderr)
-        return 2
-
-    base = load_pages(data_path)
+    if args.data:
+        data_path = Path(args.data)
+        if not data_path.is_absolute():
+            data_path = ROOT / data_path
+        if not data_path.exists():
+            print(f"[dupes] 找不到数据文件：{data_path}", file=sys.stderr)
+            return 2
+        base = load_pages(data_path)
+    else:
+        base = load_pages(data=shard_io.load("taxon_literature"))
     base_items = [it for it in iter_paras(base) if len(it[3]) >= args.min_chars]
 
     draft_items = []

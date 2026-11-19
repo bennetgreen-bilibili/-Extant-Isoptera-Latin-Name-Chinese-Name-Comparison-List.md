@@ -1,0 +1,134 @@
+{
+ "Bifiditermes angulatus": {
+  "label": "Bifiditermes angulatus (Wilkinson, 1959)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82559,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82559/overview",
+  "valid_label": null,
+  "valid_otu": 82559,
+  "verified": false
+ },
+ "Bifiditermes beesoni": {
+  "label": "Bifiditermes beesoni (Gardner, 1945)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82560,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82560/overview",
+  "valid_label": null,
+  "valid_otu": 82560,
+  "verified": false
+ },
+ "Bifiditermes durbanensis": {
+  "label": "Bifiditermes durbanensis (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82561,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82561/overview",
+  "valid_label": null,
+  "valid_otu": 82561,
+  "verified": false
+ },
+ "Bifiditermes improbus": {
+  "label": "Bifiditermes improbus (Hagen, 1858)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82562,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82562/overview",
+  "valid_label": null,
+  "valid_otu": 82562,
+  "verified": false
+ },
+ "Bifiditermes indicus": {
+  "label": "Bifiditermes indicus (Holmgren, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82563,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82563/overview",
+  "valid_label": null,
+  "valid_otu": 82563,
+  "verified": false
+ },
+ "Bifiditermes jeannelanus": {
+  "label": "Bifiditermes jeannelanus (Sjöstedt, 1915)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82564,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82564/overview",
+  "valid_label": null,
+  "valid_otu": 82564,
+  "verified": false
+ },
+ "Bifiditermes madagascariensis": {
+  "label": "Bifiditermes madagascariensis (Wasmann, 1897)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82565,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82565/overview",
+  "valid_label": null,
+  "valid_otu": 82565,
+  "verified": false
+ },
+ "Bifiditermes mutubae": {
+  "label": "Bifiditermes mutubae (Harris, 1948)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82566,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82566/overview",
+  "valid_label": null,
+  "valid_otu": 82566,
+  "verified": false
+ },
+ "Bifiditermes pintoi": {
+  "label": "Bifiditermes pintoi (Kemner, 1932)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82567,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82567/overview",
+  "valid_label": null,
+  "valid_otu": 82567,
+  "verified": false
+ },
+ "Bifiditermes rogierae": {
+  "label": "Bifiditermes rogierae Hollande, 1982",
+  "match": "exact",
+  "notes": "",
+  "otu": 82568,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82568/overview",
+  "valid_label": null,
+  "valid_otu": 82568,
+  "verified": false
+ },
+ "Bifiditermes sibayiensis": {
+  "label": "Bifiditermes sibayiensis (Coaton, 1949)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82569,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82569/overview",
+  "valid_label": null,
+  "valid_otu": 82569,
+  "verified": false
+ },
+ "Bifiditermes sylvaticus": {
+  "label": "Bifiditermes sylvaticus (Wilkinson, 1959)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82570,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82570/overview",
+  "valid_label": null,
+  "valid_otu": 82570,
+  "verified": false
+ }
+}

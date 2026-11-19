@@ -1,0 +1,25 @@
+{
+ "zh_name": "圆白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫复眼甚大、明显凸出于头侧（Taf. III, Fig. 10），唇基约与半宽等长或略短、常呈暗色，左上颚第 1 齿约与第 2 齿等长；兵蚁上颚具一个多少明显的端突，头壳在触角窝后不缢缩，鼻短而呈圆柱形，头壳正面观正圆形（Taf. III, Fig. 15）。短圆柱形鼻加正圆头壳，使兵蚁易于与鼻较长、头卵形的 Tumulitermes 以及上颚无端突的 Subulitermes 区分；有翅成虫则以复眼特大与 Diversitermes（复眼中等大）区分。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "左上颚第 1 齿约与第 2 齿等长；唇基约与半宽等长或稍短，常呈暗色；复眼大至甚大，向头两侧上方凸出；前胸背板相对较大。头形与翅面毛被原文未在检索表中另作限定，仅以图版（Taf. III, Fig. 10）对照。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "上颚具一个多少明显的端突；头壳在触角窝后不缢缩；鼻短、圆柱形；头壳正圆形（Tafel III, Fig. 15）。"
+  }
+ ],
+ "note": "原文只有检索表对句与图版，未给属级 Diagnosis；无测量、体色与工蚁记述。Holmgren 把本属与 Diversitermes 放在同一分支，二者以复眼大小区分，本属的复眼为「sehr gross」。",
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren, N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar, 48(4): 59–62, 68–72.",
+   "locator": "p. 60（有翅成虫检索表 aa/bb/e/d），p. 61（兵蚁检索表 bb/c/dd）"
+  }
+ ]
+}

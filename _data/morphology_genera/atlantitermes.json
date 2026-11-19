@@ -1,0 +1,29 @@
+{
+ "zh_name": "阿特拉斯白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头壳在触角插入处之后变细、后部球状，鼻锥形，上颚无端尖；工蚁与有翅成虫上颚相似，但工蚁左颚 M1+2 与 M3 之间的切缘明显呈波状；有翅成虫囟长、前端分叉，眼大，单眼与眼距离小于单眼宽度，后唇基短于其宽之半。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头被微小毛，稀疏，另有少数长刚毛；鼻具无数短毛；头背面在触角插入处之后变细，后部球状；鼻在背面观与侧面观均呈锥形；上颚无端尖。"
+  },
+  {
+   "label": "工蚁",
+   "text": "上颚似有翅成虫，但左颚 M1+2 与 M3 之间的切缘明显呈波状。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头与前胸背板多毛，另有少数长刚毛；囟长形，前端分叉；眼大；单眼与各自眼的距离小于单眼宽度；后唇基短于其宽之半。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0084",
+   "citation": "Fontes, L. R. 1979. Atlantitermes, novo genero de cupim, com duas novas especies do Brasil (Isoptera, Termitidae, Nasutitermitinae). Revista Brasileira de Entomologia 23(4): 219-227.",
+   "locator": "pp. 221-222"
+  }
+ ],
+ "note": "原文以葡萄牙文发表，本条目按原文术语翻译（pêlos=毛，cerdas=刚毛，naso=鼻，pós-clípeo=后唇基）。属级定义仅给出上述三段（有翅成虫、兵蚁、工蚁），故不设若虫一节。"
+}

@@ -1,0 +1,15 @@
+{
+ "latin": "Xylochomitermes",
+ "zh": "木堆白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Xylochomitermes Miller, 1991: 1157–1160.",
+ "type_species": "Capritermes melvillensis Hill, 1915 by original designation.",
+ "references": [
+  {
+   "ref": "Hill, 1942: 14, 377–379",
+   "note": "Mirotermes [as genus and subgenus, part]; key; synonymy; imago, soldier, worker diagnosed."
+  }
+ ],
+ "nrefs": 3
+}

@@ -1,0 +1,29 @@
+{
+ "zh_name": "原方白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头矩形、两侧平直近于平行，无尖锐的颚角突；上唇分叉或深裂；上颚近基部各具一枚小齿、非均匀弯曲（左颚呈肘状、右颚均匀弯曲）；触角 14 节。有翅成虫囟门缝状或小而白，触角 15 节，中、后胸背板后缘具小的凹缺。与 Cubitermes 亚属在许多方面相似。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头矩形、黄至红黄色，两侧平直近于平行；颚角突（gula）无锐突。上唇分叉（niapuensis 尖端间距不一；undulans 深裂、各尖较锐）。上颚近基部各具一枚小齿；niapuensis 上颚略呈肘状而非均匀弯曲，undulans 左颚两处肘折、右颚均匀弯曲。触角 14 节（niapuensis 第 3 节长于第 2 节、第 2 节等于第 4 节；undulans 第 2 节等于第 3 节、第 4 节短于第 3 节）。前胸背板前缘微凹或稍凹。量度（mm）：niapuensis 含颚头长 3.26、头宽 1.37、触角 2.20、前胸背板 0.31×0.70、后足胫节 1.00、左颚 1.71；undulans 含颚头长 3.05、头宽 1.10、触角 2.00、前胸背板 0.26×0.67、后足胫节 0.89、左颚 1.57。"
+  },
+  {
+   "label": "工蚁",
+   "text": "触角 14 节。niapuensis 头宽 0.94 mm、后足胫节 1.00 mm；undulans 头宽 0.86 mm、后足胫节 0.72 mm。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "niapuensis：头中暗红褐、囟门缝状浅色；触角 15 节（第 3 节甚小、第 2 节等于第 4 节）；眼中等大；单眼长 0.14 mm、卵形、朝向侧面、距眼 1.10 mm；后唇基略浅于头、具窄的暗色中线；前胸背板略浅、后缘深凹；中、后胸背板后缘具小的锐凹（夹角小于直角）。量度（mm）：头长 1.22、头宽 1.19、触角 1.78、眼径 0.31、前胸背板 0.59×1.05、后足胫节 1.16；后长 20.00、腹宽 3.50。undulans：头黄褐、卵形；囟门小而白、前方有三处肌肉着生痕；触角第 3 节约为第 2 或第 4 节两倍（显分节迹象）；眼中等大、靠近下缘；单眼中等大、距眼大于其宽；后唇基略浅、具淡中线；前胸背板略浅、后缘凹；中、后胸背板后缘极窄地凹。量度（mm）：头长 1.23、头宽 1.10、眼径 0.38、前胸背板 0.57×0.97、后足胫节 1.03；后长 19.00、腹宽 3.00。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+   "locator": "pp. 529–532"
+  }
+ ],
+ "note": "Emerson (1928) 将本属作为 Mirotermes 的亚属处理（模式种 Procubitermes arboricola (Sjöstedt)），并暂时并入 Sjöstedt (1924) 分立的 Noditermes、Unguitermes、Lepidotermes 等类群。本处属征据其刚果产 Mirotermes (Procubitermes) niapuensis 与 M. (P.) undulans 的兵蚁/工蚁/有翅成虫整理；现代属的界定与异名见 Krishna et al. (2013)。"
+}

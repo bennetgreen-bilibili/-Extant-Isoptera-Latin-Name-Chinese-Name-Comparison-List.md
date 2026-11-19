@@ -1,0 +1,21 @@
+{
+ "zh_name": "尖鼻白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "属级鉴别特征是缺少大兵蚁（major soldier），这是 Emerson 将该种从鼻白蚁属（Rhinotermes）移出、另立本属时所依据的性状；小兵蚁背面观 fontanelle 位于上颚基突（mandibular lobes，即上颚尖的基部）之前，据此与狭鼻白蚁属（Dolichorhinotermes）、鼻白蚁属（Rhinotermes）分开，后两者 fontanelle 位于上颚基突处或其后方。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "仅小兵蚁已知。头背面观侧缘凹入，形成后部缢缩；头顶具 10–12 根长而直立的刚毛，无微毛；触角 15 或 16 节，式 2=3<4=5；上颚退化，尖长、直而锐；上唇极长（hyperelongate），向端部加宽，端部双叶，侧视几与头顶同面；fontanelle 位于上唇基部 1/5 处；前胸背板与头同色，具 4–8 根分散刚毛（前缘 2–4 根、背面 2–4 根），无微毛；腹节淡黄，边缘密被毛；足具多数长短刚毛，前足胫节有粗刚毛。本种小兵蚁的上颚尖较 A. subfusciceps 更长，体型相对更小。"
+  }
+ ],
+ "note": "原文无独立的属级 Diagnosis 节，属级特征取自 Introduction 的属史陈述与基于小兵蚁的亚科检索表首条；其余为 A. claritae 的种级描述，已逐处标注「种级」。本机只有出版社 JATS XML（Europe PMC PMC6882922），无印刷版 PDF，故 locator 用章节名。有翅成虫仅 A. subfusciceps 有图，本次未据以写成虫节。",
+ "sources": [
+  {
+   "id": "S0041",
+   "citation": "Castro Torres, D.; Scheffrahn, R. H. 2019. A new species of Acorhinotermes Emerson, 1949 (Blattodea, Isoptera, Rhinotermitidae) from Colombia, with a key to Neotropical Rhinotermitinae species based on minor soldiers. ZooKeys 891: 61–70. https://doi.org/10.3897/zookeys.891.37523",
+   "locator": "Introduction; Key to the species of Neotropical Rhinotermitinae (couplet 1); Acorhinotermes claritae, Diagnosis and Description"
+  }
+ ]
+}

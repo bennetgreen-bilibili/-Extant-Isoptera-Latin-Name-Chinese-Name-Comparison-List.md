@@ -1,0 +1,15 @@
+{
+ "latin": "Amalotermes",
+ "zh": "软白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Amalotermes Sands, 1972: 47.",
+ "type_species": "Amalotermes phaeocephalus Sands, 1972 by original designation.",
+ "references": [
+  {
+   "ref": "Sands, 1998: 54, 141–143, figs. 398–404, pl. 4: fig. 6",
+   "note": "Amalotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 1
+}

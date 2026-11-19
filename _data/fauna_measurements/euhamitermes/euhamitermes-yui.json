@@ -1,0 +1,62 @@
+{
+ "book_n": "327",
+ "book_name": "尤氏亮白蚁 Euhamitermesyui",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "value": "1.50"
+    },
+    {
+     "key": "head_height",
+     "value": "1.04"
+    },
+    {
+     "key": "left_mandible_length",
+     "value": "0.84"
+    },
+    {
+     "key": "eye_long_diameter",
+     "value": "0.33"
+    },
+    {
+     "key": "eye_head_lower_margin",
+     "value": "0.13"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "1.02"
+    },
+    {
+     "key": "postmentum_width",
+     "value": "0.46"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.32"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "0.38"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "0.71"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "0.99"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 1522,
+   "unit": "mm"
+  }
+ ]
+}

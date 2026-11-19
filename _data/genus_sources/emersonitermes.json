@@ -1,0 +1,31 @@
+{
+ "latin": "Emersonitermes",
+ "zh": "埃默森白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Emersonitermes Mathur and Sen-Sarma, 1959b: 67–68.",
+ "type_species": "Emersonitermes thekadensis Mathur and Sen-Sarma, 1959 by original designation. 2013 Krishna ET AL.: isoptera: TERMITIDAE: NASUTITERMITINAE\b 1575",
+ "references": [
+  {
+   "ref": "Prashad and Sen-Sarma, 1966b: 10–11",
+   "note": "Emersonitermes; generic characters; key; synonymy."
+  },
+  {
+   "ref": "Morimoto, 1975b: 24",
+   "note": "Emersonitermes; key."
+  },
+  {
+   "ref": "Sen-Sarma and Verma, 1984: 102",
+   "note": "Emersonitermes; key; soldier, worker described."
+  },
+  {
+   "ref": "Bose, 1984: 103, 232",
+   "note": "Emersonitermes; key; synonymy; remarks."
+  },
+  {
+   "ref": "Chhotani, 1997: 757–758",
+   "note": "Emersonitermes; synonymy; characters; distribution and composition."
+  }
+ ],
+ "nrefs": 10
+}

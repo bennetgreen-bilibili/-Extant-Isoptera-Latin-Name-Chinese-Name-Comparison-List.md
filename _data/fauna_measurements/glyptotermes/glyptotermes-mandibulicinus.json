@@ -1,0 +1,105 @@
+{
+ "book_n": "35",
+ "book_name": "翘颚树白蚊 Glyptotermes mandibulicinus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "趟频树白蚊兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "0.88",
+     "value": "0.86"
+    },
+    {
+     "key": "head_height",
+     "mean": "0.79",
+     "value": "0.76"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.17",
+     "value": "0.18"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.23",
+     "value": "0.23"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.87",
+     "value": "0.84"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.65",
+     "value": "0.64"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 738,
+   "unit": "mm"
+  },
+  {
+   "caste": "soldier",
+   "heading": "那大树白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.07",
+     "value": "1.73–2.32"
+    },
+    {
+     "key": "head_width",
+     "mean": "1.28",
+     "value": "1.20–1.38"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.15",
+     "value": "1.08–1.25"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.10",
+     "value": "1.05–1.20"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.45",
+     "value": "1.27–1.61"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.46",
+     "value": "0.407–0.50"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.198",
+     "value": "0.19–0.20"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.52",
+     "value": "0.425–0.60"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.17",
+     "value": "1.08–1.22"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 756,
+   "unit": "mm"
+  }
+ ]
+}

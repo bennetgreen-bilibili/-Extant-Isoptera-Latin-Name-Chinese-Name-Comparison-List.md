@@ -1,0 +1,81 @@
+{
+ "fetched_at": "2026-10-30T15:45:34Z",
+ "latin": "Acorhinotermes",
+ "papers": [
+  {
+   "abstract": "Castro, Daniel (2023): Acorhinotermes murui sp. nov. (Blattodea: Isoptera: Rhinotermitidae: Rhinotermitinae), a new termite species from the Amazon basin. Zootaxa 5353 (3): 294-300, DOI: 10.11646/zootaxa.5353.3.7, URL: http://dx.doi.org/10.11646/zootaxa.5353.3.7",
+   "abstract_chars": 262,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Daniel Castro"
+   ],
+   "cited_by": 0,
+   "date": "2023-10-09",
+   "doi": "10.11646/zootaxa.5353.3.7",
+   "doi_url": "https://doi.org/10.11646/zootaxa.5353.3.7",
+   "id": "https://openalex.org/W4387445396",
+   "issue": "3",
+   "language": "en",
+   "oa_url": "http://publication.plazi.org/id/E647FFC57F4F1F121B56E65BFFB9FF97",
+   "openalex_url": "https://openalex.org/W4387445396",
+   "pages": "294-300",
+   "title": "Acorhinotermes murui sp. nov. (Blattodea: Isoptera: Rhinotermitidae:Rhinotermitinae), a new termite species from the Amazon basin",
+   "type": "article",
+   "venue": "Zootaxa",
+   "volume": "5353",
+   "year": 2023
+  },
+  {
+   "abstract": "Acorhinotermes Emerson, 1949 is the only Neotropical Rhinotermitine genus with no major soldier. Herein Acorhinotermes claritae Castro & Scheffrahn, sp. nov. is described based on minor soldiers and an alate nymph collected in a secondary rain forest in the Colombian Amazon. The minor soldier of A. claritae Castro & Scheffrahn, sp. nov. has longer mandibular points and it is comparatively smaller than A. subfusciceps. An illustrated key to the minor soldiers of the Neotropical species of Rhinotermitinae is presented.",
+   "abstract_chars": 522,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Daniel Castro",
+    "Rudolf H. Scheffrahn"
+   ],
+   "cited_by": 8,
+   "date": "2019-11-21",
+   "doi": "10.3897/zookeys.891.37523",
+   "doi_url": "https://doi.org/10.3897/zookeys.891.37523",
+   "id": "https://openalex.org/W2990985746",
+   "issue": "",
+   "language": "en",
+   "oa_url": "https://zookeys.pensoft.net/lib/ajax_srv/generate_pdf.php?document_id=37523&readonly_preview=1&file_id=0",
+   "openalex_url": "https://openalex.org/W2990985746",
+   "pages": "61-70",
+   "title": "A new species of Acorhinotermes Emerson, 1949 (Blattodea, Isoptera, Rhinotermitidae) from Colombia, with a key to Neotropical Rhinotermitinae species based on minor soldiers",
+   "type": "article",
+   "venue": "ZooKeys",
+   "volume": "891",
+   "year": 2019
+  },
+  {
+   "abstract": "A new fóssil termite species, the first Rhinotermitinae in amber, Dolichorhinotermes dominicanus, is described based on a single imago trapped in Dominican Amber.The fóssil indicates that a species of the Rhinotermescomplex (Rhinotermes, Dolichorhinotermes, Acorhinotermes) was present in the Caribbean region in the Miocene.",
+   "abstract_chars": 325,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Thomas Schlemmermeyer",
+    "Eliana M. Cancello"
+   ],
+   "cited_by": 12,
+   "date": "2000-06-28",
+   "doi": "10.11606/0031-1049.2000.41.p303-311",
+   "doi_url": "https://doi.org/10.11606/0031-1049.2000.41.p303-311",
+   "id": "https://openalex.org/W4394951680",
+   "issue": "1-28 (1999-2001)",
+   "language": "es",
+   "oa_url": "https://www.revistas.usp.br/paz/article/download/211857/195087",
+   "openalex_url": "https://openalex.org/W4394951680",
+   "pages": "303-311",
+   "title": "New fóssil termite species: Dolichorhinotermes Dominicanusfrom Dominican Amber (Isoptera, Rhinotermitidae, Rjhinotermitinae)",
+   "type": "article",
+   "venue": "Papéis Avulsos de Zoologia",
+   "volume": "41",
+   "year": 2000
+  }
+ ],
+ "zh": "尖鼻白蚁属"
+}

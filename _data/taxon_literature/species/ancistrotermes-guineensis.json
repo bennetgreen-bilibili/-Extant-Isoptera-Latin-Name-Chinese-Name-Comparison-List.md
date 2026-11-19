@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "乍得甘蔗园的危害与药剂防治",
+   "heading_en": "Damage and chemical control in Chadian sugarcane plantations",
+   "heading_es": "Daños y control químico en plantaciones de caña de azúcar del Chad",
+   "paragraphs": [
+    {
+     "src": [
+      "S0256"
+     ],
+     "text": "据摘要，根据 Rouland-Lefèvre 与 Mora（2002）研究，近十年乍得甘蔗受几内亚钩白蚁（<i>Ancistrotermes guineensis</i>）攻击加剧，产量损失达 25%。",
+     "text_en": "According to the abstract, Rouland-Lefèvre and Mora (2002) reported that attack on sugarcane in Chad by <i>Ancistrotermes guineensis</i> intensified over the previous decade, with yield losses of up to 25%.",
+     "text_es": "Según el resumen, Rouland-Lefèvre y Mora (2002) informaron de que el ataque de <i>Ancistrotermes guineensis</i> a la caña de azúcar en Chad se intensificó durante la década anterior, con pérdidas de rendimiento de hasta el 25%."
+    },
+    {
+     "src": [
+      "S0256"
+     ],
+     "text": "防治思路是用内吸性杀菌剂抑制其共生真菌 <i>Termitomyces medius</i>，从而控制白蚁种群；预筛后选定 Bavistin、Calixin、Erpacide、Sumi 8 四种药剂进入田间试验，菌圃死亡率达 30%，甘蔗产量相应提高 20%（据摘要）。",
+     "text_en": "The control approach was to suppress its symbiotic fungus <i>Termitomyces medius</i> with systemic fungicides and thereby control the termite population; after preliminary screening, four products — Bavistin, Calixin, Erpacide and Sumi 8 — were selected for field trials, in which fungus-comb mortality reached 30% and sugarcane yield rose by 20% accordingly (according to the abstract).",
+     "text_es": "El enfoque de control consistió en suprimir su hongo simbionte <i>Termitomyces medius</i> con fungicidas sistémicos y controlar así la población de termitas; tras un cribado preliminar se seleccionaron cuatro productos — Bavistin, Calixin, Erpacide y Sumi 8 — para ensayos de campo, en los que la mortalidad de los cultivos de hongos alcanzó el 30% y el rendimiento de la caña de azúcar aumentó en consecuencia un 20% (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0256",
+   "citation": "Corinne Rouland-Lefèvre; Mora, P. 2002. Control of Ancistrotermes guineensis Silvestri (Termitidae: Macrotermitinae), a pest of sugarcane in Chad. International Journal of Pest Management.",
+   "doi": "10.1080/09670870110094387"
+  }
+ ]
+}

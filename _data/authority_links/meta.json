@@ -1,0 +1,71 @@
+{
+ "generated": "2026-10-31T10:44:02Z",
+ "sources": {
+  "gbif": {
+   "name": "GBIF Backbone Taxonomy",
+   "api": "https://api.gbif.org/v1/species/match",
+   "url": "https://www.gbif.org/",
+   "license": "CC BY 4.0（GBIF Backbone 元数据；使用须署名）"
+  },
+  "col": {
+   "dataset": "3LR",
+   "key": 316595,
+   "title": "Catalogue of Life",
+   "doi": "10.48580/dgzh4",
+   "issued": "2026-10-14",
+   "version": "2026-10-14",
+   "license": "cc by",
+   "url": "https://www.checklistbank.org/dataset/3LR"
+  },
+  "wikidata": {
+   "name": "Wikidata",
+   "endpoint": "https://query.wikidata.org/sparql",
+   "property": "P225 (taxon name)",
+   "url": "https://www.wikidata.org/",
+   "license": "CC0 1.0"
+  }
+ },
+ "policy": {
+  "scope": "只做外链与一致性提示，不改动本站任何分类数据",
+  "link_rule": "GBIF 仅当 matchType=EXACT（或 FUZZY 且 confidence≥95）且阶元为 SPECIES/SUBSPECIES 时给外链；HIGHERRANK 与同名异名组合不给异名结论",
+  "flag_meanings": {
+   "gbif_missing": "GBIF 未收录",
+   "gbif_synonym": "GBIF 视为异名",
+   "gbif_doubtful": "GBIF 存疑",
+   "gbif_fuzzy": "GBIF 仅模糊匹配",
+   "gbif_higherrank": "GBIF 仅匹配到上级阶元",
+   "gbif_rank_mismatch": "GBIF 阶元不一致",
+   "col_missing": "COL 未收录",
+   "col_synonym": "COL 视为异名",
+   "col_ambiguous": "COL 匹配不确定",
+   "col_rank_mismatch": "COL 阶元不一致",
+   "col_higherrank": "COL 仅匹配到上级阶元"
+  }
+ },
+ "counts": {
+  "total": 3089,
+  "gbif_linked": 2963,
+  "gbif_accepted": 2955,
+  "gbif_synonym": 8,
+  "gbif_missing": 0,
+  "gbif_fuzzy": 4,
+  "gbif_doubtful": 0,
+  "gbif_higherrank": 126,
+  "col_linked": 3008,
+  "col_accepted": 3007,
+  "col_synonym": 1,
+  "col_missing": 17,
+  "col_higherrank": 64,
+  "wikidata": 2873,
+  "consistent": 2898,
+  "flagged": 191
+ },
+ "flag_counts": {
+  "col_higherrank": 64,
+  "col_missing": 17,
+  "col_synonym": 1,
+  "gbif_fuzzy": 4,
+  "gbif_higherrank": 126,
+  "gbif_synonym": 8
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "latin": "Emersonitermes",
+ "zh": "埃默森白蚁属",
+ "fetched_at": "2026-10-30T16:53:34Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W1984192361",
+   "openalex_url": "https://openalex.org/W1984192361",
+   "doi": "10.1111/j.1439-0418.1960.tb01178.x",
+   "doi_url": "https://doi.org/10.1111/j.1439-0418.1960.tb01178.x",
+   "title": "Two new Termites Emersonitermes thekadensis gen. et sp. nov. and Trinervitermes nigrirostris sp. nov. from India (Insecta:Isoptera)1",
+   "year": 2009,
+   "date": "2009-08-26",
+   "authors": [
+    "Ritu Mathur",
+    "P. K. Sen‐Sarma"
+   ],
+   "venue": "Zeitschrift für Angewandte Entomologie",
+   "type": "article",
+   "language": "de",
+   "cited_by": 8,
+   "oa_url": "",
+   "volume": "45",
+   "issue": "1",
+   "pages": "66-78",
+   "abstract": "Summary This account is based on material collected by Prof. Dr. Günther Becker of the Bundesanstalt für Materialprüfung, Berlin-Dahlem, Germany, during his short period of stay in India (1956). His termite collection contains some 20 species, out of which one genus and two species are new to science. The descriptions of Emersonitermes thekadensis gen. et sp. nov. and Trinervitermes nigrirostris sp. nov. are given with illustrations. Nasutitermes beckeri is described by Baini Prashad und P. K. Sen-Sarma and is published elsewhere. Zusammenfassung Dieser Beitrag beruht auf einer Termiten-Sammlung von Prof. Dr. Günther Becker, Bundesanstalt für Materialprüfung, Berlin-Dahlem, Unter den Eichen 87, während seines 3monatigen Aufenthaltes in Indien 1956. Von den bisher bestimmten 20 Arten, die seine Sammlung enthält, sind ein Genus und zwei weitere Arten neu für die Wissenschaft. Emersonitermes thekadensis und Trinervitermes nigrirostris sind mit Abbildungen beschrieben. - Die Beschreibung von Nasutitermes beckeri Prashad und Sen-Sarma wird an anderer Stelle veröffentlicht.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1084,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2066486401",
+   "openalex_url": "https://openalex.org/W2066486401",
+   "doi": "10.1111/j.1439-0418.1978.tb04011.x",
+   "doi_url": "https://doi.org/10.1111/j.1439-0418.1978.tb04011.x",
+   "title": "Bioecological and economical observations on termites of Peninsular India",
+   "year": 1978,
+   "date": "1978-01-12",
+   "authors": [
+    "Mithan Lal Roonwal"
+   ],
+   "venue": "Zeitschrift für Angewandte Entomologie",
+   "type": "article",
+   "language": "en",
+   "cited_by": 16,
+   "oa_url": "",
+   "volume": "85",
+   "issue": "1-4",
+   "pages": "15-30",
+   "abstract": "Here are presented bioecological and economical observations on termites of Peninsular India, especially as regards ecological habitats, mound‐ and nest‐structure, the economic damage caused to forest trees, etc., made on 25 species belonging to 2 families (Rhinotermitidae and Termitidae) and the following 14 genera:Heterotermes, Coptotermes, Eremotermes, Microcerotermes, Angulitermes, Dicuspiditermes, Procapritermes, Labiocapritermes, Macrotermes, Odontotermes, Microtermes, Emersonitermes, NasutitermesandTrinervitermes.The study area covered an extent of roughly 22 400 km2(Tamil Nadu 400 km2, Kerala 9000 km2, and Karnataka 13 000 km2). Mounds and/or nests are described in several species.Microcerotermes minorcauses 20–30% mortality inEucalyptus citriodoraplantations, andOdontotermes horniat least 10% mortality inEucalyptusspp., in both cases by girdling tap roots. Mounds ofOdontotermes brunneus, O. obesusandO. wallonensis, and carton nests aufMicrocerotermes fletcheriandNasutitermes brunneus, are discussed. The mound and nest ofTrinervitermes biformisare described. Zusammenfassung Bioökologische und ökonomische Beobachtungen an Termiten der Halbinsel Indien Es wurden Beobachtungen über die im Südteil Indiens verbreiteten Termiten mitgeteilt, speziell was die Habitats, die Bauten‐ und Neststrukturen sowie den Schaden an Bäumen und anderem betrifft. 25 Arten werden in die Betrachtungen einbezogen. Sie gehören zu 2 Familien (Rhinotermitidae und Termitidae) sowie 14 Gattungen:Heterotermes, Coptotermes, Eremotermes, Microcerotermes, Angulitermes, Dicuspiditermes, Procapritermes, Labiocapritermes, Macrotermes, Odontotermes, Microtermes, Emersonitermes, NasutitermesundTrinervitermes. Das Untersuchungsareal umfaßte die Gebiete von Tamil Nadu, Kerala und Karnataka mit zusammen 22 400 km2.Microtermes minorverursachte 20–30% Schäden inEucalyptus‐citridora‐Plantagen,Odontotermes hornimindestens 10% beiEucalyptusspp. in beiden Fällen durch Ringelung der Hauptwurzel. Die Bauten vonOdontotermes brunneus, O. obesusund O.wallonensis, sowie die Kartonnester vonMicrocerotermes fletcheriundNasutitermes brunneuswerden näher betrachtet. Der Bau und das Nest vonTrinervitermes biformiswerden beschrieben.",
+   "abstract_source": "openalex",
+   "abstract_chars": 2220,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2105817785",
+   "openalex_url": "https://openalex.org/W2105817785",
+   "doi": "10.1111/j.1439-0418.1962.tb04422.x",
+   "doi_url": "https://doi.org/10.1111/j.1439-0418.1962.tb04422.x",
+   "title": "Beiträge zur Kenntnis der geographischen Verbreitung und wirtschaftlichen Bedeutung von Termiten in Indien1",
+   "year": 1962,
+   "date": "1962-01-12",
+   "authors": [
+    "Günther Becker"
+   ],
+   "venue": "Zeitschrift für Angewandte Entomologie",
+   "type": "article",
+   "language": "de",
+   "cited_by": 12,
+   "oa_url": "",
+   "volume": "50",
+   "issue": "1-4",
+   "pages": "143-165",
+   "abstract": "Zusammenfassung Es wird über Ergebnisse von Termiten‐Sammlungen und ‐Beobachtungen berichtet, die von September bis Dezember 1956 in Indien in den Staaten Uttar Pradesh, Bombay, Mysore, Kerala, Madras, Andhra Pradesh, Orissa und in Kalkutta – oft bei nur sehr knapper Zeit – vorgenommen werden konnten. An Termitenarten wurden gefunden: Cryptotermes spec., Heterotermes indicola Wasmann, Heterotermes malabaricus Snyder, Coptotermes ceylonicus Holmgren, Coptotermes heimi Wasmann, Amitermes belli Desneux, Microcerotermes cameroni Snyder, Angulitermes obtusus Holmgren, K. u. N., Macrotermes estherae Desneux, Odontotermes anamallensis Holmgren, K. u. N., Odontotermes assamanensis Holmgren, Odontotermes assmuthi Holmgren, Odontotermes bangalorensis Holmgren, Odontotermes escherichi (Holmgren), Odontotermes feae (Wasmann), Odontotermes malabaricus Holmgren, K. u. N., Odontotermes microdentatus Roonwal and Sen‐Sarma, Odontotermes obesus Rambur, Odontotermes redemanni Wasmann, Odontotermes wallonensis Holmgren, Microtermes anandi Holmgren, Microtermes globicola Wasmann, Nasutitermes anamalaiensis Snyder, Nasutitermes beckeri Prashad and Sen‐Sarma (spec. nova), Nasutitermes brunneus Snyder, Trinervitermes nigrirostris Mathur and Sen‐Sarma (spec. nova), Emersonitermes thekadensis Mathur and Sen‐Sarma (gen. nov., spec. nova). Fundorte und zuvor bekannte Vorkommen werden für die einzelnen Arten angegeben. Für eine Anzahl von ihnen ergibt sich ein ausreichendes Bild ihrer geographischen Verbreitung. Die am häufigsten eingesammelten Arten waren Odontotermes redemanni, O. feae, O. wallonensis, Microtermes anandi und Microcerotermes cameroni. Für einige Gebiete Indiens werden die bedeutendsten dort vertretenen Arten zusammengestellt. Eine Erklärung für die Verbreitungsgrenzen bedarf noch zahlreicher Beobachtungen und ökologischer Untersuchungen über die Voraussetzungen ihres Vorkommens. Die wirtschaftlich wichtigsten Arten sind offenbar für Holz in Gebäuden Heterotermes indicola, Coptotermes heimi und im Süden H. malabaricus und C. ceylonicus, Odontotermes feae, O. redemanni, O. wallonensis, O. assmuthi und O. bangalorensis, für Holz im Freien sind die Heterotermes‐ und Coptotermes‐Arten anscheinend vergleichsweise weniger bedeutend, während Microtermes‐Arten, besonders M. anandi, weitere Odontotermes‐Arten wie O. obesus und Microcerotermes cameroni zu beachten sind. Für die Unterschiede in Gebäuden und im Freien wird eine Erklärung zu geben versucht. Fraß an stehenden Bäumen, der zuvor von Coptotermes ceylonicus, C. heimi, O. obesus, O. redemanni und O. wallonensis bekannt gewesen war, ist außerdem bei Heterotermes malabaricus (in abgestorbenen Teilen), Microcerotermes cameroni (an Kokospalmen und Laubbäumen), Odontotermes assamensis (an Bäumen), O. feae (an verschiedenen Bäumen) und Microtermes anandi (an Kokospalmen) beobachtet worden. Neben Freilandversuchen mit Pflöcken (stakes), bei denen die vorkommenden Termitenarten beachtet werden müssen, sollten Laboratoriumsversuche der natürlichen Widerstandsfähigkeit von Holzarten und der Wirksamkeit von Holzschutzmitteln mit einzelnen Arten ausgeführt werden; dafür sind Heterotermes indicola, Coptotermes heimi und Odontotermes feae besonders zu empfehlen. Summary The results are given of termite collecting and observation carried out – often for only a very short time – in India between September and December 1956 at Uttar Pradesh, Bombay, Mysore, Kerala, Madras, Andhra Pradesh, Orissa and Calcutta. The following species were found: Cryptotermes sp., Heterotermes indicola Wasmann, H. malabaricus Snyder, Coptotermes ceylonicus Holmgren, C. heimi Wasmann, Amitermes belli Desneux, Microcerotermes cameroni Snyder, Angulitermes obtusus Holmgren, K. & N., Macrotermes estherae Desneux, Odontotermes anamallensis Holmgren, K. & N., O. assamanensis Holmgren, O. assmuthi Holmgren, O. bangalorensis Holmgren, O. escherichi (Holmgren), O. feae Wasmann, O. malabaricus Holmgren, K. & N., O. microdentatus Roonwal & Sen‐Sarma, O. obesus Rambur, O. redemanni Wasmann, O. wallonensis Holmgren, Microtermes anandi Holmgren, M. globicola Wasmann, Nasutitermes anamalaiensis Snyder, N. beckeri Prashad & Sen‐Sarma (sp. nov.), N. brunneus Snyder, Trinervitermes nigrirostris Mathur & Sen‐Sarma (sp. nov.), Emersonitermes thekadensis Mathur & Sen‐Sarma (gen. et sp. nov.). Habitats and previous records are given for each species. The species most commonly collected were: Odontotermes redemanni, O. feae, O. wallonensis, Microtermes anandi and Microcerotermes cameroni. The most important species are listed for some Indian areas. An explanation of the distribution still requires numerous observations and ecological studies on the prerequisites for their occurrence. The species most important economically for wood in buildings are; Heterotermes indicola, Coptotermes heimi and, in the south, H. malabaricus and C. ceylonicus, Odontotermes feae, O. redemanni, O. wallonensis, O. assmuthi and O. bangalorensis. For wood outdoors, the Heterotermes and Coptotermes spp. appear to be relatively less important whilst Microtermes spp. particularly.",
+   "abstract_source": "openalex",
+   "abstract_chars": 5126,
+   "abstract_truncated": false
+  }
+ ]
+}

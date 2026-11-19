@@ -1,0 +1,27 @@
+{
+ "Engelitermes zambo": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 99,
+   "rank": "KINGDOM",
+   "name": "Animalia",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CFTN2",
+   "status": "accepted",
+   "label": "Engelitermes zambo Arias, Roisin & Scheffrahn, 2023",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q136067404",
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

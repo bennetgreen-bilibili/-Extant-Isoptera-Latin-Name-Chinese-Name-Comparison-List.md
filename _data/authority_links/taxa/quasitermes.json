@@ -1,0 +1,24 @@
+{
+ "Quasitermes incisus": {
+  "gbif": {
+   "key": 9743372,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Quasitermes incisus (Cachan, 1949)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4R29C",
+   "status": "accepted",
+   "label": "Quasitermes incisus (Cachan, 1949)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084311",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "Biratermes robustus": {
+  "gbif": {
+   "key": 11727216,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Biratermes robustus (Constantino, 1992)",
+   "accepted": null
+  },
+  "col": {
+   "id": "9X5Q2",
+   "status": "accepted",
+   "label": "Biratermes robustus (Constantino, 1992)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

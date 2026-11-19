@@ -1,0 +1,21 @@
+{
+ "note": "Establecido por Silvestri 1914; especie tipo Mimeutermes giffardii. Sands 1965 registra tres especies y considera que el género evolucionó en las selvas de África occidental. Los tres apartados proceden de los caracteres genéricos del original.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Sands incluye este género en el grupo Paracornitermes de la región etiópica. En el alado, el diente apical de la mandíbula izquierda es largo, el margen cortante entre el primero y el tercer diente marginal es corto y algo cóncavo (índice mandibular izquierdo 2.00–2.23), y el espacio entre el tercer diente marginal y la placa molar es inferior a la mitad de la anchura de ese margen cortante; en la mandíbula derecha el segundo diente marginal desaparece, y la placa molar presenta alas redondeadas anterior y posterior bien marcadas, se estrecha hacia el ápice y carece de crestas: la ausencia de crestas permite distinguirlo con facilidad de Fulleritermes, Leptomyxotermes y Grallatotermes, que las poseen. El soldado es monotípico; el nasus es grueso y cónico, se continúa con el estrechamiento basal de la cápsula cefálica, y la cabeza, en vista dorsal, no está constreñida y forma con el nasus una figura de peonza; las antenas tienen 12 segmentos."
+  },
+  {
+   "label": "Alado",
+   "text": "La mandíbula izquierda presenta un diente apical largo; el margen cortante entre el primero y el tercer diente marginal es corto y algo cóncavo (índice mandibular izquierdo 2.00–2.23), y el espacio entre el tercer diente marginal y la placa molar es menor que la mitad de la anchura de ese margen cortante. En la mandíbula derecha, el diente apical y el primer diente marginal son como en la mandíbula izquierda, el segundo diente marginal desaparece, el margen cortante posterior al primer diente marginal es cóncavo y la placa molar presenta alas redondeadas anterior y posterior bien marcadas, se estrecha hacia el ápice y carece de crestas. El postclípeo está ligeramente elevado y su anchura es el doble de su longitud o algo menor. La fontanela es clara, fisuriforme, se bifurca ligeramente por delante y presenta manchas claras, o casi ha desaparecido y es sólo algo más clara que el color de la cabeza. Los ojos compuestos sobresalen ligeramente de los lados de la cabeza. La pilosidad de la cabeza es variable. El borde posterior del pronoto es redondeado y el anterior, cóncavo."
+  },
+  {
+   "label": "Soldado",
+   "text": "Monotípico. El nasus es grueso y cónico, su base se continúa con el estrechamiento de la cápsula cefálica y la fontanela es relativamente grande. Las mandíbulas reducidas presentan ápice o carecen de él; el borde anterior del labro es ondulado. La cápsula cefálica, en vista dorsal, no está constreñida y forma con el nasus una figura de peonza, con los lados paralelos o redondeados hacia atrás. Antenas de 12 segmentos. La cabeza y el nasus sólo presentan unas pocas setas conspicuas. La pilosidad de los terguitos abdominales es escasa, dispersa y muy corta, y la de los bordes posteriores y de los dos o tres terguitos posteriores es más larga; la pilosidad de los esternitos es escasa y corta, y la de los bordes posteriores es aproximadamente el doble de larga que la de las setas cortas."
+  },
+  {
+   "label": "Obrero",
+   "text": "Mandíbulas como en el alado, sólo que la proporción del diente apical es mayor (índice mandibular izquierdo 3.32–3.59) y la placa molar de la mandíbula derecha es mayor, con alas más marcadas."
+  }
+ ]
+}

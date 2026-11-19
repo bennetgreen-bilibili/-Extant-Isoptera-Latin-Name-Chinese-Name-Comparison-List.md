@@ -1,0 +1,13 @@
+{
+ "Jugositermes tuberculatus": {
+  "label": "Jugositermes tuberculatus Emerson, 1928",
+  "match": "exact",
+  "notes": "",
+  "otu": 84119,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84119/overview",
+  "valid_label": null,
+  "valid_otu": 84119,
+  "verified": false
+ }
+}

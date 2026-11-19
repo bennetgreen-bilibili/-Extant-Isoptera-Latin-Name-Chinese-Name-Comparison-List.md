@@ -1,0 +1,79 @@
+{
+ "Silvestritermes almirsateri": {
+  "label": "Silvestritermes almirsateri Rocha & Cancello, 2012",
+  "match": "exact",
+  "notes": "",
+  "otu": 1055532,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1055532/overview",
+  "valid_label": null,
+  "valid_otu": 1055532,
+  "verified": false
+ },
+ "Silvestritermes duende": {
+  "label": "Silvestritermes duende Rocha & Cancello, 2012",
+  "match": "exact",
+  "notes": "",
+  "otu": 1055533,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1055533/overview",
+  "valid_label": null,
+  "valid_otu": 1055533,
+  "verified": false
+ },
+ "Silvestritermes euamignathus": {
+  "label": "Silvestritermes euamignathus (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84164,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84164/overview",
+  "valid_label": null,
+  "valid_otu": 84164,
+  "verified": false
+ },
+ "Silvestritermes gnomus": {
+  "label": "Silvestritermes gnomus (Constantino, 1991)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84165,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84165/overview",
+  "valid_label": null,
+  "valid_otu": 84165,
+  "verified": false
+ },
+ "Silvestritermes heyeri": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 1114068 Silvestritermes Rocha & Cancello, 2012；OTU 782588 Silvestritermes Emerson, 1955 now Silvestritermes Emerson, 1955",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Silvestritermes lanei": {
+  "label": "Silvestritermes lanei (Canter, 1968)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84168,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84168/overview",
+  "valid_label": null,
+  "valid_otu": 84168,
+  "verified": false
+ },
+ "Silvestritermes minutus": {
+  "label": "Silvestritermes minutus (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84169,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84169/overview",
+  "valid_label": null,
+  "valid_otu": 84169,
+  "verified": false
+ }
+}

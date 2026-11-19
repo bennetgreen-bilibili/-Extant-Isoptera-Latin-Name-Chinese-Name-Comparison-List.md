@@ -1,0 +1,19 @@
+{
+ "latin": "Amicotermes",
+ "zh": "善白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Amicotermes Sands, 1972: 152.",
+ "type_species": "Amicotermes galenus Sands, 1972 by original designation.",
+ "references": [
+  {
+   "ref": "Sands, 1998: 58, 162–164, figs. 488–493, pl. 6: figs. 1–8",
+   "note": "Amicotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  },
+  {
+   "ref": "Sands, 1999: 150–151",
+   "note": "Amicotermes; characters; discussion; key to species."
+  }
+ ],
+ "nrefs": 2
+}

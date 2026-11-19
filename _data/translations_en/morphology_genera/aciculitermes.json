@@ -1,0 +1,17 @@
+{
+ "note": "The genus-level diagnosis in Emerson 1960 is a single sentence (mandibles without apical points); the remaining characters are taken from that paper's account of the type species (then a monotypic genus); the number of antennal segments of the soldier, the second marginal tooth of the right mandible and the outline of the molar plate were not written into the main text because of the quotation limits of this task. According to the original, the alate was described by John (1925) and Kemner (1931) and Emerson did not examine specimens, so that section is not provided.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The complete absence of apical points on the soldier mandibles is the primary diagnostic character used by Emerson in 1960 when establishing the genus; the lateral outline of the head from the tip of the nasus to the vertex is almost straight or slightly concave, with only a slight swelling at the base of the nasus; the head is relatively broader than in Subulitermes microsoma. The left mandible index of the worker is 0.73, intermediate between Leucopitermes (0.56) and Subulitermes (1.33)."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head and frontal projection densely covered with very short microsetae, with a few additional setae on the vertex and at the base of the nasus; head relatively broader than in Subulitermes microsoma; lateral outline of the head from the tip of the nasus to the vertex almost straight or slightly concave, with only a slight swelling at the base of the nasus; mandibles without apical points."
+  },
+  {
+   "label": "Worker",
+   "text": "Left mandible index 0.73; the apical teeth of both mandibles relatively larger than in Leucopitermes; no notch behind the first marginal tooth of the left mandible; the third marginal tooth of the left mandible rather narrow."
+  }
+ ]
+}

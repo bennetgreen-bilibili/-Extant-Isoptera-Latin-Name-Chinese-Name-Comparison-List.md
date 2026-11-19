@@ -1,0 +1,38 @@
+{
+ "book_n": "374",
+ "book_name": "合浦近扭白蚁 Pericapritermes hepuensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "合浦近扭白蚊兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.29",
+     "value": "2.21–2.37"
+    },
+    {
+     "key": "head_width",
+     "mean": "1.13",
+     "value": "1.11–1.16"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.74",
+     "value": "0.70–0.76"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.30",
+     "value": "0.29–0.30"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 1025,
+   "unit": "mm"
+  }
+ ]
+}

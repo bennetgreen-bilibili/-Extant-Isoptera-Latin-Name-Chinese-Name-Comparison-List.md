@@ -1,0 +1,82 @@
+{
+ "latin": "Synhamitermes",
+ "zh": "同钩白蚁属",
+ "fetched_at": "2026-10-30T16:54:44Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W7219359060",
+   "openalex_url": "https://openalex.org/W7219359060",
+   "doi": "",
+   "doi_url": "",
+   "title": "Termites (Insecta: Isoptera) from Punjab with New Distributional Records",
+   "year": 2013,
+   "date": "2013-06-01",
+   "authors": [
+    "Sachin Kumar",
+    "R. K. Thakur"
+   ],
+   "venue": "Indian Forester",
+   "type": "article",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "Twenty-seven species of termites belonging to two families (Rhinotermitidae and Termitidae) under eleven genera (Heterotermes,Coptotermes, Speculitermes, Amitermes, Synhamitermes, Eremotermes, Microcerotermes, Dicuspiditermes, Odontotermes, Microtermes and Trinervitermes) are reported from Punjab. Out of 27 species, fifteen termite species are reported first time from Punjab.",
+   "abstract_source": "openalex",
+   "abstract_chars": 378,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2481369944",
+   "openalex_url": "https://openalex.org/W2481369944",
+   "doi": "",
+   "doi_url": "",
+   "title": "A reexamination of the systematic position of Amitermes brevicorniger, with the description of a new genus (Isoptera, Termitidae, Termitinae)",
+   "year": 2002,
+   "date": "2002-01-01",
+   "authors": [
+    "Reginaldo Constantino",
+    "Jorge Liotta",
+    "Beatriz Giacosa"
+   ],
+   "venue": "Sociobiology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 6,
+   "oa_url": "http://europepmc.org/abstract/AGR/IND23273605",
+   "volume": "39",
+   "issue": "3",
+   "pages": "453-463",
+   "abstract": "The systematic position of the South American termite Amitermes brevicorniger is reexamined through the analysis of the morphology of soldiers, workers and digestive tube. The characters examined do not support its inclusion neither in genus Amitermes nor in Synhamitermes, and a new genus, Onkotermes, is described to accommodate this species. This species clearly belong to the Amitermes-group, but its affinities within this group are unclear. The species is redescribed and illustrated, with biological notes and new distribution records.",
+   "abstract_source": "openalex",
+   "abstract_chars": 542,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W3137174534",
+   "openalex_url": "https://openalex.org/W3137174534",
+   "doi": "10.48048/wjst.2021.12708",
+   "doi_url": "https://doi.org/10.48048/wjst.2021.12708",
+   "title": "Isolation and Identification of Cellulolytic Bacteria Symbiont from Various Termites on Different Nest Type in Bukit Baka Bukit Raya National Park, West Kalimantan, Indonesia",
+   "year": 2021,
+   "date": "2021-07-15",
+   "authors": [
+    "Mohamad Rusdi Hidayat"
+   ],
+   "venue": "Walailak Journal of Science and Technology (WJST)",
+   "type": "article",
+   "language": "en",
+   "cited_by": 4,
+   "oa_url": "https://wjst.wu.ac.th/index.php/wjst/article/download/12708/2198",
+   "volume": "18",
+   "issue": "14",
+   "pages": "",
+   "abstract": "The microbial symbiotic community in the digestive tract of termites is reportedly influenced by the taxonomy and feeding habit of the host. Both factors are strongly correlated with the nest type. This study aimed to isolate the cellulolytic bacteria from termite’s digestive tract on different nest types and characterize and identify the potential isolates. The research methods included termite sampling conducted in Bukit Baka Bukit Raya National Park (BBBRNP), Melawi, West Kalimantan, isolation of cellulolytic bacteria from termites’ gut, endoglucanase activity test, biochemical characterization, and DNA analysis based on the amplification of 16S rRNA gene. Thirty isolates from 6 different species of termites on three different nest types were successfully isolated. Sixteen potential endoglucanase bacterial isolates were tested in terms of their endoglucanase activity. The cellulolytic index measured from those isolates ranged from 1.162 - 4.894. Three isolates (MRH.13.S, MRH.13.AF, and MRH.13.O2) with the highest cellulolytic index on each nest type were identified. The analysis of 16S rRNA gene using BLAST (Basic Local Alignment Search Tool for Nucleotides) revealed that isolate MRH.13.S had the closest relationship with Bacillus tequilensis (99 % homology). Based on biochemical characterization, MRH.13.AF and MRH.13.O2 isolates were related to Bacillus spp. HIGHLIGHTS Potential cellulolytic bacteria from termite intestinal tract from different nests (i.e., soil, wood, and arboreal) were isolated and compared Termites were obtained from a lowland dipterocarp primary forest ecosystem in Bukit Baka Bukit Raya National Park, West Kalimantan Province, Indonesia Termite species collected were Termes comis, Dicuspiditermes garthwaitei, Synhamitermes quadriceps, Havilanditermes proatripennis, Bulbitermes borneensis, and Bulbitermes parapusillus Potential cellulolytic bacteria acquired were closely related with Bacillus tequilensis and Bacillus spp GRAPHICAL ABSTRACT",
+   "abstract_source": "openalex",
+   "abstract_chars": 1997,
+   "abstract_truncated": false
+  }
+ ]
+}

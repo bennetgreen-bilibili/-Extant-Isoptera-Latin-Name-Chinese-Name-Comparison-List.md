@@ -1,0 +1,112 @@
+{
+ "Cavitermes parmae": {
+  "gbif": {
+   "key": 9762075,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cavitermes parmae Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "69GR7",
+   "status": "accepted",
+   "label": "Cavitermes parmae Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235326",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cavitermes parvicavus": {
+  "gbif": {
+   "key": 9792802,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cavitermes parvicavus Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "69H2V",
+   "status": "accepted",
+   "label": "Cavitermes parvicavus Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235329",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cavitermes rozeni": {
+  "gbif": {
+   "key": 9659601,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cavitermes rozeni Krishna, 2003",
+   "accepted": null
+  },
+  "col": {
+   "id": "69H37",
+   "status": "accepted",
+   "label": "Cavitermes rozeni Krishna, 2003",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235330",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cavitermes simplicinervis": {
+  "gbif": {
+   "key": 9740835,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cavitermes simplicinervis (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "RYB2",
+   "status": "accepted",
+   "label": "Cavitermes simplicinervis (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235331",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cavitermes tuberosus": {
+  "gbif": {
+   "key": 8948913,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cavitermes tuberosus (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "RYB3",
+   "status": "accepted",
+   "label": "Cavitermes tuberosus (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235333",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "note": "El soldado se describe únicamente según la clave de géneros del grupo Pericapritermes de la región Oriental (1 par + 1 carácter de nivel superior); no se obtuvo el texto completo de la descripción original de John 1925, por lo que solo se incluye la sección de soldado.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "En la clave de soldados del grupo Pericapritermes de la región Oriental, este género se separa por sí solo (4.º par) por la curvatura débil del centro de las mandíbulas; su alternativa es «antenas de 14 segmentos, mandíbulas gruesas, con curvatura moderada a fuerte en el centro», es decir, Mirocapritermes y los géneros siguientes."
+  },
+  {
+   "label": "Soldado",
+   "text": "Antenas de 13 segmentos; mandíbulas delgadas y débiles, con curvatura débil en el centro. La mandíbula izquierda está moderadamente torsionada en su parte media y su extremo es agudo (o en forma de pico o de gancho); este es un carácter de nivel superior en la ruta de la clave."
+  }
+ ]
+}

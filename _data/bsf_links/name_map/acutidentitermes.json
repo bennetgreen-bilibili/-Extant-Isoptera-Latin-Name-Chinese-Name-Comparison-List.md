@@ -1,0 +1,13 @@
+{
+ "Acutidentitermes osborni": {
+  "label": "Acutidentitermes osborni Emerson, 1959",
+  "match": "exact",
+  "notes": "",
+  "otu": 83914,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83914/overview",
+  "valid_label": null,
+  "valid_otu": 83914,
+  "verified": false
+ }
+}

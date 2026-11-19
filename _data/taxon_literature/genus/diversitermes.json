@@ -1,0 +1,40 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "属级修订与客虫记录",
+   "heading_en": "Generic revision and guest records",
+   "heading_es": "Revisión genérica y registros de huéspedes",
+   "paragraphs": [
+    {
+     "src": [
+      "S0312"
+     ],
+     "text": "据摘要，根据 Oliveira 与 Constantino（2016）研究，歧白蚁属（<i>Diversitermes</i>）的修订给出基于兵蚁与工蚁两品级的鉴定检索表；该属旧名 <i>Diversitermes needhami</i> Roonwal、Chhotani 与 Verma, 1981 被定为异翅快白蚁（<i>Velocitermes heteropterus</i>，Silvestri 1901）的次异名，<i>Diversitermes eidmanni</i> Roonwal、Chhotani 与 Verma, 1981 被定为栗头歧白蚁（<i>Diversitermes castaniceps</i>，Holmgren 1910）的次异名。",
+     "text_en": "According to the abstract, Oliveira and Constantino (2016) revised <i>Diversitermes</i> and provided identification keys based on both the soldier and the worker caste; the former name <i>Diversitermes needhami</i> Roonwal, Chhotani &amp; Verma, 1981 was placed as a junior synonym of <i>Velocitermes heteropterus</i> (Silvestri 1901), and <i>Diversitermes eidmanni</i> Roonwal, Chhotani &amp; Verma, 1981 as a junior synonym of <i>Diversitermes castaniceps</i> (Holmgren 1910).",
+     "text_es": "Según el resumen, Oliveira y Constantino (2016) revisaron <i>Diversitermes</i> y aportaron claves de identificación basadas en las castas de soldado y de obrera; el nombre anterior <i>Diversitermes needhami</i> Roonwal, Chhotani &amp; Verma, 1981 se estableció como sinónimo posterior de <i>Velocitermes heteropterus</i> (Silvestri 1901), y <i>Diversitermes eidmanni</i> Roonwal, Chhotani &amp; Verma, 1981 como sinónimo posterior de <i>Diversitermes castaniceps</i> (Holmgren 1910)."
+    },
+    {
+     "src": [
+      "S0310"
+     ],
+     "text": "根据 Zilberman 与 Fontes（2020）研究，一只隐翅虫雄虫正模（MZSP 21174）于 1975 年 7 月 29 日由 de Araujo 采于巴西米纳斯吉拉斯州贝洛奥里藏特，与歧白蚁属（<i>Diversitermes</i>）1 种同采（MZSP 6171）；该白蚁巢样（MZSP 6170）除歧白蚁属外还含针刺白蚁属（<i>Spinitermes</i>，白蚁亚科）、聚白蚁属（<i>Syntermes</i>）与厚唇白蚁属（<i>Labiotermes</i>，聚白蚁亚科 <i>Syntermitinae</i>），作者认为最可能的宿主为歧白蚁属 1 种。",
+     "text_en": "According to Zilberman and Fontes (2020), the male holotype of a staphylinid beetle (MZSP 21174) was collected on 29 July 1975 by de Araujo in Belo Horizonte, Minas Gerais, Brazil, together with one species of <i>Diversitermes</i> (MZSP 6171); the termite nest sample (MZSP 6170) contained, besides <i>Diversitermes</i>, <i>Spinitermes</i> (Termitinae), <i>Syntermes</i> and <i>Labiotermes</i> (Syntermitinae), and the authors consider a species of <i>Diversitermes</i> the most likely host.",
+     "text_es": "Según Zilberman y Fontes (2020), el holotipo macho de un estafilínido (MZSP 21174) fue recolectado el 29 de julio de 1975 por de Araujo en Belo Horizonte, Minas Gerais, Brasil, junto con una especie de <i>Diversitermes</i> (MZSP 6171); la muestra de nido de termitas (MZSP 6170) contenía, además de <i>Diversitermes</i>, <i>Spinitermes</i> (Termitinae), <i>Syntermes</i> y <i>Labiotermes</i> (Syntermitinae), y los autores consideran que la especie de <i>Diversitermes</i> es el huésped más probable."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0310",
+   "citation": "Zilberman, B.; Fontes, L. R. 2020. New species and morphological notes on the termitophilous genera Fonsechellus Silvestri and Oecidiophilus Silvestri from Brazil (Staphylinidae, Aleocharinae, Corotocini, Termitoceina). Universidade de São Paulo. Agência de Bibliotecas e Coleções Digitais.",
+   "doi": "10.11606/1807-0205/2020.60.special-issue.21"
+  },
+  {
+   "id": "S0312",
+   "citation": "de Oliveira, D. E.; Constantino, R. 2016. A taxonomic revision of the neotropical termite genus Diversitermes (Isoptera: Termitidae: Nasutitermitinae). Zootaxa.",
+   "doi": "10.11646/zootaxa.4158.2.5"
+  }
+ ]
+}

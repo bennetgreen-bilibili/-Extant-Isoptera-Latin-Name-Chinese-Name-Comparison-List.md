@@ -1,0 +1,37 @@
+{
+ "latin": "Tonsuritermes",
+ "zh": "奇囟白蚁属",
+ "fetched_at": "2026-10-30T16:54:47Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2905480473",
+   "openalex_url": "https://openalex.org/W2905480473",
+   "doi": "10.11646/zootaxa.4531.3.4",
+   "doi_url": "https://doi.org/10.11646/zootaxa.4531.3.4",
+   "title": "Tonsuritermes, a new soldierless termite genus and two new species from South America (Blattaria: Isoptera: Termitidae: Apicotermitinae)",
+   "year": 2018,
+   "date": "2018-12-13",
+   "authors": [
+    "Joice Paulo Constantini",
+    "Tiago F. Carrijo",
+    "Valeria Palma‐Onetto",
+    "Rudolf H. Scheffrahn",
+    "Lucas Carnohan",
+    "Jan Šobotník",
+    "Eliana M. Cancello"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 13,
+   "oa_url": "https://doi.org/10.11646/zootaxa.4531.3.4",
+   "volume": "4531",
+   "issue": "3",
+   "pages": "383-394",
+   "abstract": "A new genus, Tonsuritermes Cancello Constantini gen. nov., is described from South America. The main morphological features of the new genus are a remarkable frontal gland and protibia with two rows of spine-like bristles. Two new species of Tonsuritermes are described: T. tucki Cancello Constantini sp. nov. and T. mathewsi Cancello Constantini sp. nov. Comparisons, measurements, a map, histology of the frontal gland, and illustration of all fundamental morphological aspects are provided.",
+   "abstract_source": "openalex",
+   "abstract_chars": 493,
+   "abstract_truncated": false
+  }
+ ]
+}

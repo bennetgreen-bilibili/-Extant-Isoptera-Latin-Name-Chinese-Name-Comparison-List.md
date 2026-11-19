@@ -1,0 +1,13 @@
+{
+ "Euscaiotermes primus": {
+  "label": "Euscaiotermes primus (Silvestri, 1923)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83513,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83513/overview",
+  "valid_label": null,
+  "valid_otu": 83513,
+  "verified": false
+ }
+}

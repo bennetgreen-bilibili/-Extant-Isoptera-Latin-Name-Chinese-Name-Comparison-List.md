@@ -1,0 +1,63 @@
+{
+ "book_n": "231",
+ "book_name": "缙云杆白蚁 Stylotermes jinyunicus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "缙云杆白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "mean": "1.35",
+     "value": "1.32–1.39"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.13",
+     "value": "1.11–1.16"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.34",
+     "value": "0.28–0.40"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.39",
+     "value": "0.38–0.40"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.50",
+     "value": "1.47–1.52"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.78",
+     "value": "1.76–1.82"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.57",
+     "value": "0.56–0.58"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.15",
+     "value": "1.11–1.19"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.91",
+     "value": "0.89–0.94"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 720,
+   "unit": "mm"
+  }
+ ]
+}

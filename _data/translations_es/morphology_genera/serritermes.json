@@ -1,0 +1,21 @@
+{
+ "note": "La familia es monotípica y los caracteres genéricos figuran en la p. 3: «Diagnostic Characters. The same as those of the family Serritermitidae.», por lo que en esta entrada se emplea el diagnóstico familiar como diagnóstico genérico. Las secciones del alado, el soldado y el obrero se han reescrito a partir de las descripciones de las pp. 3–4, 6–8 y 8, respectivamente; se omiten las medidas para no confundirlas con las de nivel específico.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Este género es monotípico dentro de Serritermitidae y sus caracteres genéricos coinciden con los familiares: en el alado, el obrero y la ninfa el diente apical de las mandíbulas está proporcionamente alargado y es agudo, separado de un diente marginal situado junto a la ridged molar plate por un margen interno ancho y curvado, lo que los separa de todos los demás Termitidae; en el soldado el segmento apical de ambas mandíbulas es largo y bastante recto, con numerosas denticulaciones gruesas en el margen interno por detrás del ápice; el pronoto es estrecho y alargado, con los bordes anterior y posterior manifiestamente bilobulados y una escotadura profunda en cada uno de ellos."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza oval, de pardo claro a amarillo medio; fontanelle situado en una pequeña depresión, blanco, de tamaño medio, reducido y bifurcado; ojos compuestos de tamaño medio y circulares, situados a una distancia del borde inferior de la cabeza equivalente a 1/4 de su diámetro; ocelos situados entre el ojo compuesto y la frente, menores que el ojo; antenas de 13 o 14 artejos; postclípeo grande, con una longitud algo menor que la mitad de su anchura y una línea longitudinal media; pronoto con una longitud aproximadamente igual a la mitad de su anchura, borde anterior débilmente escotado, márgenes laterales redondeados que se retraen por detrás; cada tibia con 2 espinas apicales; tarsos de 4 artejos; sin arolium; cercos de 2 artejos; sin estilo en ambos sexos."
+  },
+  {
+   "label": "Soldado",
+   "text": "Los dos lados de la cabeza son casi rectos y se estrechan hacia delante, y la anchura cefálica supera la longitud (hasta el anteclípeo); el margen externo de las mandíbulas es cóncavo en la base, casi recto en la parte media y convexo en el ápice; el ápice de ambas mandíbulas casi no forma uncino, el margen interno del tercio apical lleva numerosas denticulaciones gruesas y la base carece de molar ridges; las denticulaciones de la mandíbula izquierda llegan casi hasta la base, y por delante de esta hay una proyección obtusa y un pequeño diente de unos 60°; en la mandíbula derecha, tras 3–4 denticulaciones gruesas apicales hay unas 6 más pequeñas; postclípeo corto, con el borde anterior cóncavo; labro más largo que ancho, de ápice obtuso y agudo; pronoto alargado, con los bordes anterior y posterior profundamente escotados en dos lóbulos; cada tibia con 2 espinas apicales; tarsos de 4 artejos, con el 4.º más largo que la suma de los restantes; sin estilo; cercos de 2 artejos."
+  },
+  {
+   "label": "Obrero",
+   "text": "Antenas de 13 artejos; las mandíbulas son las más especializadas entre los termites conocidos, con el segmento apical proporcionamente alargado y agudo en el extremo, y el diente marginal reducido a uno."
+  }
+ ]
+}

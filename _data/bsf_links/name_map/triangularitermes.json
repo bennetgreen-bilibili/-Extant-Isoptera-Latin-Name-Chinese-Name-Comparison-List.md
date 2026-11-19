@@ -1,0 +1,13 @@
+{
+ "Triangularitermes triangulariceps": {
+  "label": "Triangularitermes triangulariceps Mathews, 1977",
+  "match": "exact",
+  "notes": "",
+  "otu": 84908,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84908/overview",
+  "valid_label": null,
+  "valid_otu": 84908,
+  "verified": false
+ }
+}

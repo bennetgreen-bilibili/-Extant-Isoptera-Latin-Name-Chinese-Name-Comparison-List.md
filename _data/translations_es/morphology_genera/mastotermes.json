@@ -1,0 +1,13 @@
+{
+ "note": "Este trabajo es una revisión taxonómica a nivel de familia, la morfología genérica se concentra en la venación alar y el original no incluye apartados morfológicos de soldado ni de obrero, por lo que solo se redactan los caracteres diagnósticos y el alado. Se evitan dos incorporaciones erróneas: la red archidictyon (el original la señala explícitamente como compartida por Mastotermitidae y Termopsidae, no como carácter genérico) y «la media se une al radio sectorial a corta distancia tras la sutura humeral», que es un carácter general de los termites (en el original 'in nearly all cases'); ninguna de las dos se ha incluido.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Caracteres genéricos a nivel de venación alar: en el ala anterior el radio sectorial está muy fusionado y las ramas superiores contiguas están muy próximas; la sutura humeral (humeral suture) del ala anterior es más curvada y más convexa que en Blattotermes; el ala posterior posee un lóbulo anal desarrollado, que el original señala como carácter de este género y de sus géneros afines; el radio sectorial es compacto y la media está más próxima al radio sectorial que a la cubita anterior, lo que permite asignar a este género los ejemplares representados solo por alas."
+  },
+  {
+   "label": "Alado",
+   "text": "En el ala anterior el radio sectorial está muy fusionado y las ramas superiores contiguas están muy próximas; la sutura humeral (humeral suture) del ala anterior forma una convexidad arqueada manifiesta y es más curvada que en Blattotermes; el lóbulo anal del ala posterior está desarrollado."
+  }
+ ]
+}

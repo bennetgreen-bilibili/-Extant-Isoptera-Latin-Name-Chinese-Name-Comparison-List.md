@@ -1,0 +1,43 @@
+{
+ "latin": "Hypotermes",
+ "zh": "地白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Hypotermes Holmgren, 1913c: 141 [nom. nov. for Xenotermes Holmgren, 1912; first introduced as a subgenus of Odontotermes Holmgren, 1910].",
+ "type_species": "Termes xenotermitis Wasmann, 1896 by subsequent designation; see Snyder, 1949a: 244.",
+ "references": [
+  {
+   "ref": "Bathellier, 1927: 154",
+   "note": "Odontotermes (Hypotermes); characters."
+  },
+  {
+   "ref": "Snyder, 1934a: 25, 28",
+   "note": "Odontotermes (Hypotermes); key."
+  },
+  {
+   "ref": "Lal and Menon, 1953: 36, 70",
+   "note": "Termes (Hypotermes); catalog; reference list; key."
+  },
+  {
+   "ref": "Ahmad, 1958: 97, 98",
+   "note": "Odontotermes (Hypotermes); key."
+  },
+  {
+   "ref": "Roonwal and Chhotani, 1962a: 295",
+   "note": "Hypotermes; key."
+  },
+  {
+   "ref": "Chatterjee and Thakur, 1964d: 172–174",
+   "note": "Hypotermes; characters; relationships; key to species; distribution."
+  },
+  {
+   "ref": "Tsai and Chen, 1964b: 72, 104",
+   "note": "Odontotermes (Hypotermes); key; characters."
+  },
+  {
+   "ref": "Ahmad, 1965: 7, 8",
+   "note": "Hypotermes; key."
+  }
+ ],
+ "nrefs": 53
+}

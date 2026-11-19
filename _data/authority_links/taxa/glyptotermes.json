@@ -1,0 +1,2888 @@
+{
+ "Glyptotermes adamsoni": {
+  "gbif": {
+   "key": 9694520,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes adamsoni Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ6P",
+   "status": "accepted",
+   "label": "Glyptotermes adamsoni Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640771",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes albofemoralis": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Glyptotermes Froggatt, 1897",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CK853",
+   "status": "accepted",
+   "label": "Glyptotermes albofemoralis Wu, Tsai & Li, 2024",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes almorensis": {
+  "gbif": {
+   "key": 8849144,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes almorensis Gardner, 1945",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ6Q",
+   "status": "accepted",
+   "label": "Glyptotermes almorensis Gardner, 1945",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640772",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes amplus": {
+  "gbif": {
+   "key": 9656917,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes amplus Scheffrahn, Su & Křeček, 2001",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ6R",
+   "status": "accepted",
+   "label": "Glyptotermes amplus Scheffrahn, Su & Křeček, 2001",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640773",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes angustithorax": {
+  "gbif": {
+   "key": 9716715,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes angustithorax Ping & Xu, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ6S",
+   "status": "accepted",
+   "label": "Glyptotermes angustithorax Ping & Xu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640774",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes angustus": {
+  "gbif": {
+   "key": 9019303,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes angustus (Snyder, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ6T",
+   "status": "accepted",
+   "label": "Glyptotermes angustus (Snyder, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640776",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes arshadi": {
+  "gbif": {
+   "key": 9802120,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes arshadi Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLS7",
+   "status": "accepted",
+   "label": "Glyptotermes arshadi Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640777",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes asperatus": {
+  "gbif": {
+   "key": 9802304,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes asperatus (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ6V",
+   "status": "accepted",
+   "label": "Glyptotermes asperatus (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640778",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes baliochilus": {
+  "gbif": {
+   "key": 9786780,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes baliochilus Ping & Xu, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ6W",
+   "status": "accepted",
+   "label": "Glyptotermes baliochilus Ping & Xu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640779",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes barretti": {
+  "gbif": {
+   "key": 4802845,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes barretti Eldridge, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ6X",
+   "status": "accepted",
+   "label": "Glyptotermes barretti Eldridge, 1996",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272430",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes besarensis": {
+  "gbif": {
+   "key": 9721272,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes besarensis Thakur, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ6Y",
+   "status": "accepted",
+   "label": "Glyptotermes besarensis Thakur, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640780",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes bilobatus": {
+  "gbif": {
+   "key": 9684399,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes bilobatus (Snyder, 1934)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ6Z",
+   "status": "accepted",
+   "label": "Glyptotermes bilobatus (Snyder, 1934)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640781",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes bimaculifrons": {
+  "gbif": {
+   "key": 9665529,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes bimaculifrons Ping & Liu, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ72",
+   "status": "accepted",
+   "label": "Glyptotermes bimaculifrons Ping & Liu, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640782",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes borneensis": {
+  "gbif": {
+   "key": 9755888,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes borneensis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ73",
+   "status": "accepted",
+   "label": "Glyptotermes borneensis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640783",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes brachythorax": {
+  "gbif": {
+   "key": 9725911,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes brachythorax Ping & Xu, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ74",
+   "status": "accepted",
+   "label": "Glyptotermes brachythorax Ping & Xu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640784",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes brevicaudatus": {
+  "gbif": {
+   "key": 9696227,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes brevicaudatus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ75",
+   "status": "accepted",
+   "label": "Glyptotermes brevicaudatus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640785",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes brevicornis": {
+  "gbif": {
+   "key": 4802838,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes brevicornis Froggatt, 1897",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ76",
+   "status": "accepted",
+   "label": "Glyptotermes brevicornis Froggatt, 1897",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21267482",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes buttelreepeni": {
+  "gbif": {
+   "key": 8722381,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes buttelreepeni (Holmgren, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ77",
+   "status": "accepted",
+   "label": "Glyptotermes buttelreepeni (Holmgren, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640786",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes canellae": {
+  "gbif": {
+   "key": 9673951,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes canellae (Müller, 1873)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ78",
+   "status": "accepted",
+   "label": "Glyptotermes canellae (Müller, 1873)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640787",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes caudomunitus": {
+  "gbif": {
+   "key": 9740810,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes caudomunitus Kemner, 1932",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ79",
+   "status": "accepted",
+   "label": "Glyptotermes caudomunitus Kemner, 1932",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640788",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes ceylonicus": {
+  "gbif": {
+   "key": 9745508,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes ceylonicus (Holmgren, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM3V",
+   "status": "accepted",
+   "label": "Glyptotermes ceylonicus (Holmgren, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591793",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes chapmani": {
+  "gbif": {
+   "key": 9679848,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes chapmani Light, 1930",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7B",
+   "status": "accepted",
+   "label": "Glyptotermes chapmani Light, 1930",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640789",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes chatterjii": {
+  "gbif": {
+   "key": 9718250,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes chatterjii Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7C",
+   "status": "accepted",
+   "label": "Glyptotermes chatterjii Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640790",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes chinpingensis": {
+  "gbif": {
+   "key": 9654026,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes chinpingensis Tsai & Chen, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7D",
+   "status": "accepted",
+   "label": "Glyptotermes chinpingensis Tsai & Chen, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640791",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes chiraharitae": {
+  "gbif": {
+   "key": 9202716,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes chiraharitae Amina & Rajmohana, 2016",
+   "accepted": null
+  },
+  "col": {
+   "id": "F7GZD",
+   "status": "accepted",
+   "label": "Glyptotermes chiraharitae Amina & Rajmohana, 2016",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q48727190",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes concavifrons": {
+  "gbif": {
+   "key": 9768013,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes concavifrons Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM47",
+   "status": "accepted",
+   "label": "Glyptotermes concavifrons Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640792",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes contracticornis": {
+  "gbif": {
+   "key": 9777467,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes contracticornis (Snyder, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7F",
+   "status": "accepted",
+   "label": "Glyptotermes contracticornis (Snyder, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640793",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes coorgensis": {
+  "gbif": {
+   "key": 9815892,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes coorgensis (Holmgren & Holmgren, 1917)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7G",
+   "status": "accepted",
+   "label": "Glyptotermes coorgensis (Holmgren & Holmgren, 1917)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640794",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes curticeps": {
+  "gbif": {
+   "key": 9785127,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes curticeps Fan & Xia, 1980",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7J",
+   "status": "accepted",
+   "label": "Glyptotermes curticeps Fan & Xia, 1980",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640795",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes daiyunensis": {
+  "gbif": {
+   "key": 9770917,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes daiyunensis Li & Huang, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7K",
+   "status": "accepted",
+   "label": "Glyptotermes daiyunensis Li & Huang, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640796",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes daweishanensis": {
+  "gbif": {
+   "key": 9694689,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes daweishanensis Huang, Zhu, Ping, He, Li & Gao, 2000",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7L",
+   "status": "accepted",
+   "label": "Glyptotermes daweishanensis Huang, Zhu, Ping, He, Li & Gao, 2000",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640797",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes dentatus": {
+  "gbif": {
+   "key": 9775646,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes dentatus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7M",
+   "status": "accepted",
+   "label": "Glyptotermes dentatus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640798",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes dilatatus": {
+  "gbif": {
+   "key": 9704863,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes dilatatus (Bugnion & Popoff, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7N",
+   "status": "accepted",
+   "label": "Glyptotermes dilatatus (Bugnion & Popoff, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591791",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes emei": {
+  "gbif": {
+   "key": 9733366,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes emei (Gao, Zhu, Gong & Han, 1981)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7P",
+   "status": "accepted",
+   "label": "Glyptotermes emei (Gao, Zhu, Gong & Han, 1981)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640799",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes eucalypti": {
+  "gbif": {
+   "key": 4802843,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes eucalypti Froggatt, 1897",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7Q",
+   "status": "accepted",
+   "label": "Glyptotermes eucalypti Froggatt, 1897",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272432",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes euryceps": {
+  "gbif": {
+   "key": 9734992,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes euryceps Gao, Zhu & Gong, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7R",
+   "status": "accepted",
+   "label": "Glyptotermes euryceps Gao, Zhu & Gong, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640800",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes ficus": {
+  "gbif": {
+   "key": 9685616,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes ficus Ping & Xu, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7S",
+   "status": "accepted",
+   "label": "Glyptotermes ficus Ping & Xu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640801",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes finniganensis": {
+  "gbif": {
+   "key": 4802837,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes finniganensis Eldridge, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7T",
+   "status": "accepted",
+   "label": "Glyptotermes finniganensis Eldridge, 1996",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272433",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes franciae": {
+  "gbif": {
+   "key": 9087017,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes franciae Snyder, 1958",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLRP",
+   "status": "accepted",
+   "label": "Glyptotermes franciae Snyder, 1958",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640802",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes fujianensis": {
+  "gbif": {
+   "key": 9731610,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes fujianensis Ping, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7V",
+   "status": "accepted",
+   "label": "Glyptotermes fujianensis Ping, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640803",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes fuscus": {
+  "gbif": {
+   "key": 5888405,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes fuscus Oshima, 1912",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7W",
+   "status": "accepted",
+   "label": "Glyptotermes fuscus Oshima, 1912",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640804",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes guamensis": {
+  "gbif": {
+   "key": 9771450,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes guamensis Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7Y",
+   "status": "accepted",
+   "label": "Glyptotermes guamensis Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640806",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes guianaensis": {
+  "gbif": {
+   "key": 9466549,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes guianaensis (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ7Z",
+   "status": "accepted",
+   "label": "Glyptotermes guianaensis (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640807",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes guizhouensis": {
+  "gbif": {
+   "key": 9796269,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes guizhouensis Ping & Xu, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ82",
+   "status": "accepted",
+   "label": "Glyptotermes guizhouensis Ping & Xu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640808",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes hejiangensis": {
+  "gbif": {
+   "key": 9662802,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes hejiangensis Gao, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ83",
+   "status": "accepted",
+   "label": "Glyptotermes hejiangensis Gao, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640809",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes hendrickxi": {
+  "gbif": {
+   "key": 9687203,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes hendrickxi Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ84",
+   "status": "accepted",
+   "label": "Glyptotermes hendrickxi Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640810",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes hesperus": {
+  "gbif": {
+   "key": 9664012,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes hesperus Gao, Zhu & Han, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ85",
+   "status": "accepted",
+   "label": "Glyptotermes hesperus Gao, Zhu & Han, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640811",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes hickmani": {
+  "gbif": {
+   "key": 11187547,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes hickmani Scheffrahn, 2021",
+   "accepted": null
+  },
+  "col": {
+   "id": "9HZTY",
+   "status": "accepted",
+   "label": "Glyptotermes hickmani Scheffrahn, 2021",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes hospitalis": {
+  "gbif": {
+   "key": 9751224,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes hospitalis (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ86",
+   "status": "accepted",
+   "label": "Glyptotermes hospitalis (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640813",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes ignotus": {
+  "gbif": {
+   "key": 9805210,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes ignotus Wilkinson, 1959",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ87",
+   "status": "accepted",
+   "label": "Glyptotermes ignotus Wilkinson, 1959",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640814",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes insulanus": {
+  "gbif": {
+   "key": 9658385,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes insulanus Silvestri, 1912",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ88",
+   "status": "accepted",
+   "label": "Glyptotermes insulanus Silvestri, 1912",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640815",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes iridipennis": {
+  "gbif": {
+   "key": 4802846,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes iridipennis Froggatt, 1897",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ89",
+   "status": "accepted",
+   "label": "Glyptotermes iridipennis Froggatt, 1897",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272434",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes jinyunensis": {
+  "gbif": {
+   "key": 9699057,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes jinyunensis Chen & Ping, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM3P",
+   "status": "accepted",
+   "label": "Glyptotermes jinyunensis Chen & Ping, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640816",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes jurioni": {
+  "gbif": {
+   "key": 9702068,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes jurioni Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8B",
+   "status": "accepted",
+   "label": "Glyptotermes jurioni Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640817",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes kachongensis": {
+  "gbif": {
+   "key": 9645330,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes kachongensis Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8C",
+   "status": "accepted",
+   "label": "Glyptotermes kachongensis Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640818",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes kawandae": {
+  "gbif": {
+   "key": 9777276,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes kawandae Wilkinson, 1954",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8D",
+   "status": "accepted",
+   "label": "Glyptotermes kawandae Wilkinson, 1954",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640819",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes kirbyi": {
+  "gbif": {
+   "key": 9779108,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes kirbyi Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLRQ",
+   "status": "accepted",
+   "label": "Glyptotermes kirbyi Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640820",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes kunakensis": {
+  "gbif": {
+   "key": 9706408,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes kunakensis Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8G",
+   "status": "accepted",
+   "label": "Glyptotermes kunakensis Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640821",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes laticaudomunitus": {
+  "gbif": {
+   "key": 9677165,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes laticaudomunitus Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8H",
+   "status": "accepted",
+   "label": "Glyptotermes laticaudomunitus Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640822",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes latignathus": {
+  "gbif": {
+   "key": 9668472,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes latignathus Gao & Zhu, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8J",
+   "status": "accepted",
+   "label": "Glyptotermes latignathus Gao & Zhu, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640823",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes latithorax": {
+  "gbif": {
+   "key": 9707625,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes latithorax Fan & Xia, 1980",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8K",
+   "status": "accepted",
+   "label": "Glyptotermes latithorax Fan & Xia, 1980",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640824",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes liangshanensis": {
+  "gbif": {
+   "key": 9812938,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes liangshanensis Gao, Zhu & Gong, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8L",
+   "status": "accepted",
+   "label": "Glyptotermes liangshanensis Gao, Zhu & Gong, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640825",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes liberatus": {
+  "gbif": {
+   "key": 9745334,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes liberatus (Snyder, 1929)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8M",
+   "status": "accepted",
+   "label": "Glyptotermes liberatus (Snyder, 1929)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640826",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes lighti": {
+  "gbif": {
+   "key": 8978683,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes lighti Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8N",
+   "status": "accepted",
+   "label": "Glyptotermes lighti Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640827",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes limulingensis": {
+  "gbif": {
+   "key": 9792784,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes limulingensis Ping & Xu, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8P",
+   "status": "accepted",
+   "label": "Glyptotermes limulingensis Ping & Xu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640828",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes longipennis": {
+  "gbif": {
+   "key": 9737800,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes longipennis Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8R",
+   "status": "accepted",
+   "label": "Glyptotermes longipennis Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640829",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes longnanensis": {
+  "gbif": {
+   "key": 9759281,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes longnanensis Gao & Zhu, 1980",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8S",
+   "status": "accepted",
+   "label": "Glyptotermes longnanensis Gao & Zhu, 1980",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640830",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes longuisculus": {
+  "gbif": {
+   "key": 9659586,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes longuisculus Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8T",
+   "status": "accepted",
+   "label": "Glyptotermes longuisculus Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640832",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes luteus": {
+  "gbif": {
+   "key": 9809977,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes luteus Kemner, 1931",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLS2",
+   "status": "accepted",
+   "label": "Glyptotermes luteus Kemner, 1931",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640833",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes maculifrons": {
+  "gbif": {
+   "key": 9663846,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes maculifrons Ping & Li, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8V",
+   "status": "accepted",
+   "label": "Glyptotermes maculifrons Ping & Li, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640834",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes magnioculus": {
+  "gbif": {
+   "key": 9765120,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes magnioculus Ping & Liu, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8W",
+   "status": "accepted",
+   "label": "Glyptotermes magnioculus Ping & Liu, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640835",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes magsaysayi": {
+  "gbif": {
+   "key": 8974775,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes magsaysayi Snyder, 1958",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8X",
+   "status": "accepted",
+   "label": "Glyptotermes magsaysayi Snyder, 1958",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640836",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes mandibulicinus": {
+  "gbif": {
+   "key": 9753016,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes mandibulicinus Ping & Xu, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8Y",
+   "status": "accepted",
+   "label": "Glyptotermes mandibulicinus Ping & Xu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640837",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes marlatti": {
+  "gbif": {
+   "key": 9800501,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes marlatti (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ8Z",
+   "status": "accepted",
+   "label": "Glyptotermes marlatti (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640838",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes matsuurai": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Glyptotermes Froggatt, 1897",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Glyptotermes Froggatt, 1897",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes minutus": {
+  "gbif": {
+   "key": 9662315,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes minutus Kemner, 1932",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ92",
+   "status": "accepted",
+   "label": "Glyptotermes minutus Kemner, 1932",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591803",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes montanus": {
+  "gbif": {
+   "key": 9688444,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes montanus Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ93",
+   "status": "accepted",
+   "label": "Glyptotermes montanus Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640839",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes nadaensis": {
+  "gbif": {
+   "key": 9728772,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes nadaensis Li, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ94",
+   "status": "accepted",
+   "label": "Glyptotermes nadaensis Li, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640840",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes nakajimai": {
+  "gbif": {
+   "key": 9730377,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes nakajimai Morimoto, 1973",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ95",
+   "status": "accepted",
+   "label": "Glyptotermes nakajimai Morimoto, 1973",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640841",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes neoborneensis": {
+  "gbif": {
+   "key": 9656749,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes neoborneensis Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ96",
+   "status": "accepted",
+   "label": "Glyptotermes neoborneensis Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640842",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes nevermani": {
+  "gbif": {
+   "key": 9817558,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes nevermani (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ97",
+   "status": "accepted",
+   "label": "Glyptotermes nevermani (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640843",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes nicobarensis": {
+  "gbif": {
+   "key": 9666783,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes nicobarensis Maiti & Chakraborty, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ98",
+   "status": "accepted",
+   "label": "Glyptotermes nicobarensis Maiti & Chakraborty, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640844",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes niger": {
+  "gbif": {
+   "key": 9733180,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes niger Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ99",
+   "status": "accepted",
+   "label": "Glyptotermes niger Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640845",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes nissanensis": {
+  "gbif": {
+   "key": 9763870,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes nissanensis Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM3Q",
+   "status": "accepted",
+   "label": "Glyptotermes nissanensis Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640846",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes orthognathus": {
+  "gbif": {
+   "key": 9789691,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes orthognathus Ping & Chen, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9B",
+   "status": "accepted",
+   "label": "Glyptotermes orthognathus Ping & Chen, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640847",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes palauensis": {
+  "gbif": {
+   "key": 8904899,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes palauensis Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9C",
+   "status": "accepted",
+   "label": "Glyptotermes palauensis Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640848",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes panaitanensis": {
+  "gbif": {
+   "key": 9763362,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes panaitanensis Thakur, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM42",
+   "status": "accepted",
+   "label": "Glyptotermes panaitanensis Thakur, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640849",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes paracaudomunitus": {
+  "gbif": {
+   "key": 9780385,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes paracaudomunitus Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9F",
+   "status": "accepted",
+   "label": "Glyptotermes paracaudomunitus Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640850",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes paratuberculatus": {
+  "gbif": {
+   "key": 9769807,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes paratuberculatus Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9G",
+   "status": "accepted",
+   "label": "Glyptotermes paratuberculatus Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640851",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes parki": {
+  "gbif": {
+   "key": 9819401,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes parki Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9H",
+   "status": "accepted",
+   "label": "Glyptotermes parki Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640852",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes parvoculatus": {
+  "gbif": {
+   "key": 9712634,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes parvoculatus Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9J",
+   "status": "accepted",
+   "label": "Glyptotermes parvoculatus Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640853",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes parvulus": {
+  "gbif": {
+   "key": 9774371,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes parvulus (Sjöstedt, 1907)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9K",
+   "status": "accepted",
+   "label": "Glyptotermes parvulus (Sjöstedt, 1907)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640854",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes parvus": {
+  "gbif": {
+   "key": 12244025,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes parvus Fan & Xia, 1980",
+   "accepted": null
+  },
+  "col": {
+   "id": "9J4XP",
+   "status": "accepted",
+   "label": "Glyptotermes parvus Fan & Xia, 1980",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes pellucidus": {
+  "gbif": {
+   "key": 9657922,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes pellucidus (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9M",
+   "status": "accepted",
+   "label": "Glyptotermes pellucidus (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640856",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes perparvus": {
+  "gbif": {
+   "key": 9795731,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes perparvus (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9N",
+   "status": "accepted",
+   "label": "Glyptotermes perparvus (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640857",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes pinangae": {
+  "gbif": {
+   "key": 9690174,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes pinangae (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9P",
+   "status": "accepted",
+   "label": "Glyptotermes pinangae (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640858",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes planus": {
+  "gbif": {
+   "key": 9816414,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes planus (Snyder, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9Q",
+   "status": "accepted",
+   "label": "Glyptotermes planus (Snyder, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640859",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes posticus": {
+  "gbif": {
+   "key": 8762352,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes posticus (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9R",
+   "status": "accepted",
+   "label": "Glyptotermes posticus (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640860",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes pubescens": {
+  "gbif": {
+   "key": 8828232,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes pubescens Snyder, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9S",
+   "status": "accepted",
+   "label": "Glyptotermes pubescens Snyder, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640861",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes reticulatus": {
+  "gbif": {
+   "key": 9697483,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes reticulatus Wilkinson, 1954",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLRR",
+   "status": "accepted",
+   "label": "Glyptotermes reticulatus Wilkinson, 1954",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640863",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes rotundifrons": {
+  "gbif": {
+   "key": 9700319,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes rotundifrons Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9V",
+   "status": "accepted",
+   "label": "Glyptotermes rotundifrons Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640864",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes satsumensis": {
+  "gbif": {
+   "key": 5888406,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes satsumensis (Matsumura, 1907)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9W",
+   "status": "accepted",
+   "label": "Glyptotermes satsumensis (Matsumura, 1907)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q114661130",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes schmidti": {
+  "gbif": {
+   "key": 9713876,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes schmidti Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9X",
+   "status": "accepted",
+   "label": "Glyptotermes schmidti Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640865",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes scotti": {
+  "gbif": {
+   "key": 9749949,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes scotti (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9Y",
+   "status": "accepted",
+   "label": "Glyptotermes scotti (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49437266",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes seeversi": {
+  "gbif": {
+   "key": 2007360,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes seeversi Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "3GJ9Z",
+   "status": "accepted",
+   "label": "Glyptotermes seeversi Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582572",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes sensarmai": {
+  "gbif": {
+   "key": 9748358,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes sensarmai Maiti, 1976",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLS3",
+   "status": "accepted",
+   "label": "Glyptotermes sensarmai Maiti, 1976",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640866",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes sepilokensis": {
+  "gbif": {
+   "key": 9715468,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes sepilokensis Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM3R",
+   "status": "accepted",
+   "label": "Glyptotermes sepilokensis Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640867",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes shaanxiensis": {
+  "gbif": {
+   "key": 9788070,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes shaanxiensis Huang & Zhang, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM43",
+   "status": "accepted",
+   "label": "Glyptotermes shaanxiensis Huang & Zhang, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640868",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes sicki": {
+  "gbif": {
+   "key": 9784934,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes sicki Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM3K",
+   "status": "accepted",
+   "label": "Glyptotermes sicki Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640869",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes simaoensis": {
+  "gbif": {
+   "key": 9757684,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes simaoensis Li, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLRL",
+   "status": "accepted",
+   "label": "Glyptotermes simaoensis Li, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640870",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes sinomalatus": {
+  "gbif": {
+   "key": 9720023,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes sinomalatus Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM3L",
+   "status": "accepted",
+   "label": "Glyptotermes sinomalatus Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640871",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes succineus": {
+  "gbif": {
+   "key": 9710908,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes succineus Ping & Gong, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM3M",
+   "status": "accepted",
+   "label": "Glyptotermes succineus Ping & Gong, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640872",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes suturis": {
+  "gbif": {
+   "key": 9789870,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes suturis (Snyder, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLRN",
+   "status": "accepted",
+   "label": "Glyptotermes suturis (Snyder, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640873",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes taruni": {
+  "gbif": {
+   "key": 9743724,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes taruni Bose, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM3N",
+   "status": "accepted",
+   "label": "Glyptotermes taruni Bose, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640874",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes taveuniensis": {
+  "gbif": {
+   "key": 9706583,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes taveuniensis (Hill, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLRG",
+   "status": "accepted",
+   "label": "Glyptotermes taveuniensis (Hill, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640875",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes teknafensis": {
+  "gbif": {
+   "key": 9709382,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes teknafensis Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM3G",
+   "status": "accepted",
+   "label": "Glyptotermes teknafensis Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640876",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes thailandis": {
+  "gbif": {
+   "key": 9783284,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes thailandis Morimoto, 1973",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLRH",
+   "status": "accepted",
+   "label": "Glyptotermes thailandis Morimoto, 1973",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640877",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes tikaderi": {
+  "gbif": {
+   "key": 9650760,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes tikaderi Chhotani & Bose, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM3H",
+   "status": "accepted",
+   "label": "Glyptotermes tikaderi Chhotani & Bose, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640878",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes tripurensis": {
+  "gbif": {
+   "key": 9682859,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes tripurensis Thakur, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLRJ",
+   "status": "accepted",
+   "label": "Glyptotermes tripurensis Thakur, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640879",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes truncatus": {
+  "gbif": {
+   "key": 9655223,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes truncatus Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM3J",
+   "status": "accepted",
+   "label": "Glyptotermes truncatus Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640880",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes tsaii": {
+  "gbif": {
+   "key": 9817745,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes tsaii Huang & Zhu, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLRC",
+   "status": "accepted",
+   "label": "Glyptotermes tsaii Huang & Zhu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640881",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes tuberculatus": {
+  "gbif": {
+   "key": 4802847,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes tuberculatus Froggatt, 1897",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM3C",
+   "status": "accepted",
+   "label": "Glyptotermes tuberculatus Froggatt, 1897",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272435",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes tuberifer": {
+  "gbif": {
+   "key": 9766736,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes tuberifer Krishna & Emerson, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLRD",
+   "status": "accepted",
+   "label": "Glyptotermes tuberifer Krishna & Emerson, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640882",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes ueleensis": {
+  "gbif": {
+   "key": 9760530,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes ueleensis Coaton, 1955",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM3D",
+   "status": "accepted",
+   "label": "Glyptotermes ueleensis Coaton, 1955",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640883",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes ukhiaensis": {
+  "gbif": {
+   "key": 9712152,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes ukhiaensis Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLRF",
+   "status": "accepted",
+   "label": "Glyptotermes ukhiaensis Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640884",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes verrucosus": {
+  "gbif": {
+   "key": 9742429,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes verrucosus (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLRB",
+   "status": "accepted",
+   "label": "Glyptotermes verrucosus (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640885",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes xantholabrum": {
+  "gbif": {
+   "key": 9613388,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes xantholabrum (Hill, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM3B",
+   "status": "accepted",
+   "label": "Glyptotermes xantholabrum (Hill, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640886",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes xiamenensis": {
+  "gbif": {
+   "key": 9754591,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes xiamenensis Li & Huang, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLQZ",
+   "status": "accepted",
+   "label": "Glyptotermes xiamenensis Li & Huang, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640887",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes yingdeensis": {
+  "gbif": {
+   "key": 9652306,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes yingdeensis Li, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KM2Z",
+   "status": "accepted",
+   "label": "Glyptotermes yingdeensis Li, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640888",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes yui": {
+  "gbif": {
+   "key": 9803933,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes yui Ping & Xu, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLSX",
+   "status": "accepted",
+   "label": "Glyptotermes yui Ping & Xu, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640889",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Glyptotermes zhaoi": {
+  "gbif": {
+   "key": 9669525,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Glyptotermes zhaoi Ping, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "6KLT9",
+   "status": "accepted",
+   "label": "Glyptotermes zhaoi Ping, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130640890",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

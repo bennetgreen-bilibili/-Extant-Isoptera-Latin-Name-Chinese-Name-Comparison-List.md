@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "异名修订",
+   "heading_en": "Synonymy",
+   "heading_es": "Sinonimia",
+   "paragraphs": [
+    {
+     "src": [
+      "S0299"
+     ],
+     "text": "据摘要，根据 Constantini 与 Cancello（2016）研究，<i>Rhynchotermes nyctobius</i> 被增列于黑白喙白蚁（<i>Rhynchotermes diphyes</i>）的异名表，成为该种的新异名。",
+     "text_en": "According to the abstract, Constantini and Cancello (2016) added <i>Rhynchotermes nyctobius</i> to the synonymy of <i>Rhynchotermes diphyes</i>, making it a new synonym of that species.",
+     "text_es": "Según el resumen, Constantini y Cancello (2016) añadieron <i>Rhynchotermes nyctobius</i> a la sinonimia de <i>Rhynchotermes diphyes</i>, convirtiéndolo en un nuevo sinónimo de esa especie."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0299",
+   "citation": "Constantini, J. P.; Cancello, E. M. 2016. A taxonomic revision of the Neotropical termite genus Rhynchotermes (Isoptera, Termitidae, Syntermitinae). Zootaxa.",
+   "doi": "10.11646/zootaxa.4109.5.1"
+  }
+ ]
+}

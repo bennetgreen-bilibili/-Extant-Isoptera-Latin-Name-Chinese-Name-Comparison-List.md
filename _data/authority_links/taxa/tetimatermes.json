@@ -1,0 +1,24 @@
+{
+ "Tetimatermes oliveirae": {
+  "gbif": {
+   "key": 9709033,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Tetimatermes oliveirae Fontes, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "55KV7",
+   "status": "accepted",
+   "label": "Tetimatermes oliveirae Fontes, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073734",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

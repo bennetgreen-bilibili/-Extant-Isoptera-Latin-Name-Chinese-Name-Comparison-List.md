@@ -1,0 +1,49 @@
+{
+ "Macuxitermes colombicus": {
+  "gbif": {
+   "key": 8783939,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macuxitermes colombicus Postle & Scheffrahn, 2016",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Macuxitermes Cancello & Bandeira, 1992",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q25360260",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Macuxitermes triceratops": {
+  "gbif": {
+   "key": 9784742,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macuxitermes triceratops Cancello & Bandeira, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "6QRWG",
+   "status": "accepted",
+   "label": "Macuxitermes triceratops Cancello & Bandeira, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210189",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

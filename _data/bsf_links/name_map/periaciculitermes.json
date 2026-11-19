@@ -1,0 +1,13 @@
+{
+ "Periaciculitermes menglunensis": {
+  "label": "Periaciculitermes menglunensis Li, 1986",
+  "match": "exact",
+  "notes": "",
+  "otu": 84853,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84853/overview",
+  "valid_label": null,
+  "valid_otu": 84853,
+  "verified": false
+ }
+}

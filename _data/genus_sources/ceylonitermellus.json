@@ -1,0 +1,23 @@
+{
+ "latin": "Ceylonitermellus",
+ "zh": "小锡兰白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Ceylonitermellus Emerson, 1960",
+ "type_species": "Eutermes hantanae Holmgren, 1911 by original designation.",
+ "references": [
+  {
+   "ref": "Prashad and Sen-Sarma, 1966b: 12–13",
+   "note": "Ceylonitermellus; generic characters; key; synonymy."
+  },
+  {
+   "ref": "Morimoto, 1975b: 20, 23",
+   "note": "Ceylonitermellus; key."
+  },
+  {
+   "ref": "Chhotani, 1997: 760–762",
+   "note": "Ceylonitermellus; synonymy; characters; distribution and composition; key to species."
+  }
+ ],
+ "nrefs": 9
+}

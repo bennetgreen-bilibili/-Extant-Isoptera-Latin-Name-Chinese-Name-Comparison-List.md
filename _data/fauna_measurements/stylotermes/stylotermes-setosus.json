@@ -1,0 +1,46 @@
+{
+ "book_n": "243",
+ "book_name": "刚毛杆白蚁 Stylotermes setosus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "刚毛杆白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "value": "1.40–1.43"
+    },
+    {
+     "key": "head_height",
+     "value": "1.07–1.10"
+    },
+    {
+     "key": "labrum_length",
+     "value": "0.37–0.39"
+    },
+    {
+     "key": "labrum_width",
+     "value": "0.36–0.37"
+    },
+    {
+     "key": "postmentum_min_width",
+     "value": "0.22–0.25"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "value": "0.57–0.60"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.14–1.22"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 956,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "Machadotermes inflatus": {
+  "label": "Machadotermes inflatus Weidner, 1974",
+  "match": "exact",
+  "notes": "",
+  "otu": 84125,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84125/overview",
+  "valid_label": null,
+  "valid_otu": 84125,
+  "verified": false
+ },
+ "Machadotermes latus": {
+  "label": "Machadotermes latus Weidner, 1974",
+  "match": "exact",
+  "notes": "",
+  "otu": 84126,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84126/overview",
+  "valid_label": null,
+  "valid_otu": 84126,
+  "verified": false
+ },
+ "Machadotermes rigidus": {
+  "label": "Machadotermes rigidus Collins, 1977",
+  "match": "exact",
+  "notes": "",
+  "otu": 84127,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84127/overview",
+  "valid_label": null,
+  "valid_otu": 84127,
+  "verified": false
+ }
+}

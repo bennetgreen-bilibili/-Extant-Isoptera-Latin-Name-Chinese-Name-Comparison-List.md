@@ -1,0 +1,57 @@
+{
+ "Cavitermes parmae": {
+  "label": "Cavitermes parmae Mathews, 1977",
+  "match": "exact",
+  "notes": "",
+  "otu": 85308,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85308/overview",
+  "valid_label": null,
+  "valid_otu": 85308,
+  "verified": false
+ },
+ "Cavitermes parvicavus": {
+  "label": "Cavitermes parvicavus Mathews, 1977",
+  "match": "exact",
+  "notes": "",
+  "otu": 85309,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85309/overview",
+  "valid_label": null,
+  "valid_otu": 85309,
+  "verified": false
+ },
+ "Cavitermes rozeni": {
+  "label": "Cavitermes rozeni Krishna, 2003",
+  "match": "exact",
+  "notes": "",
+  "otu": 85310,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85310/overview",
+  "valid_label": null,
+  "valid_otu": 85310,
+  "verified": false
+ },
+ "Cavitermes simplicinervis": {
+  "label": "Cavitermes simplicinervis (Hagen, 1858)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85311,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85311/overview",
+  "valid_label": null,
+  "valid_otu": 85311,
+  "verified": false
+ },
+ "Cavitermes tuberosus": {
+  "label": "Cavitermes tuberosus (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85312,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85312/overview",
+  "valid_label": null,
+  "valid_otu": 85312,
+  "verified": false
+ }
+}

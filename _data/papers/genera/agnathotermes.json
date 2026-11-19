@@ -1,0 +1,103 @@
+{
+ "fetched_at": "2026-10-30T15:45:46Z",
+ "latin": "Agnathotermes",
+ "papers": [
+  {
+   "abstract": "Agnathotermes crassinasus, a new species oftermite collected in primary rain forest near the town of Maraã, Japurá River, Amazonas State, Brazil, is described Drawings of soldier head, worker mandibles and enteric valve armature are presented",
+   "abstract_chars": 242,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Reginaldo Constantino"
+   ],
+   "cited_by": 7,
+   "date": "1990-01-01",
+   "doi": "",
+   "doi_url": "",
+   "id": "https://openalex.org/W2244588579",
+   "issue": "1",
+   "language": "en",
+   "oa_url": "http://repositorio.museu-goeldi.br/handle/mgoeldi/735",
+   "openalex_url": "https://openalex.org/W2244588579",
+   "pages": "43-46",
+   "title": "Agnathotermes crassinasus, new species of termite from the Amazon basin (Isoptera, Termitidae, Nasutitermitinae)",
+   "type": "article",
+   "venue": "Americanae (AECID Library)",
+   "volume": "6",
+   "year": 1990
+  },
+  {
+   "abstract": "",
+   "abstract_chars": 0,
+   "abstract_source": "",
+   "abstract_truncated": false,
+   "authors": [
+    "Luiz Roberto Fontes"
+   ],
+   "cited_by": 4,
+   "date": "1982-03-10",
+   "doi": "",
+   "doi_url": "",
+   "id": "https://openalex.org/W2581534850",
+   "issue": "1",
+   "language": "en",
+   "oa_url": "https://eurekamag.com/research/016/480/016480218.php",
+   "openalex_url": "https://openalex.org/W2581534850",
+   "pages": "99-108",
+   "title": "New taxa and new combinations of termites (Isoptera, Termitidae, Nasutitermitinae) with nasute soldiers from the Neotropical Region Brazil, Agnathotermes, Araujtermes caissara, taxonomic morphology.1",
+   "type": "article",
+   "venue": "Revista Brasileira de Entomologia",
+   "volume": "26",
+   "year": 1982
+  },
+  {
+   "abstract": "The morphology of the mandibles of the alates and workers of the 8 soil-feeding genera with nasute soldiers from the Neotropical Region is studied. Three mandibular patterns are recognized: (1) Convexitermes, Atlantitermes, Araujotermes, Coatitermes, Subulitermes and Agnathotermes have mandibles with complete marginal dentition and no reduced teeth, (2) Angularitermes has mandibles with complete marginal dentition but two teeth are vestigial, and in (3) Cyronotermes the marginal dentition is incomplete. A set of other characteristics is associated with each of these mandibular patterns. Intraspecific variation are registered, either between the alate and the worker castes of all genera, as between the worker types of the dimorphic worker caste of the genera with complete and developed marginal dentition. Such dimorphism was previously unreported for the soil-feeding Nasutitermitinae; the soldier arises from one worker type.",
+   "abstract_chars": 937,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Luiz Roberto Fontes"
+   ],
+   "cited_by": 40,
+   "date": "1986-01-01",
+   "doi": "10.1590/s0101-81751986000400003",
+   "doi_url": "https://doi.org/10.1590/s0101-81751986000400003",
+   "id": "https://openalex.org/W1976254228",
+   "issue": "8",
+   "language": "en",
+   "oa_url": "https://www.scielo.br/j/rbzool/a/JRXTFPSC3PYkQ47mZJdHNWy/?lang=en&format=pdf",
+   "openalex_url": "https://openalex.org/W1976254228",
+   "pages": "503-531",
+   "title": "Morphology of the alate and worker mandibles of the soil-feeding nasute termites (Isoptera, Termitidae, Nasutitermitinae) from the neotropical region",
+   "type": "article",
+   "venue": "Revista Brasileira de Zoologia",
+   "volume": "3",
+   "year": 1986
+  },
+  {
+   "abstract": "The morphology of the parts and the configuration in situ of the worker digestibe tube of the 8 soilfeeding genera with nasute solidiers from the Neotropical Region are studied. All genera showed a reduced or incomplete gizzard armature, a tubular first proctodeal segment terminating in the left half of the abdomen, an enteric valve armature with trilateral symmetry and often with strong spines, a paunch of two large sections separated by a constriction, and a long colon. In addition, a mixed segment at the mesenteron-proctodeal junction is absent in Convexitermes, Atlantitermes, Araujotermes, Coatitermes, Subulitermes and Agnathotermes, and present in Cyranotermes and Angularitermes, the latter having also a gizzard armature stronger than usual in the soilfeeding nasutes. The coiling of the gut and the morphology of some gut parts provide a good means for the identification of undissected workers of all genera.",
+   "abstract_chars": 925,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Luiz Roberto Fontes"
+   ],
+   "cited_by": 19,
+   "date": "1986-01-01",
+   "doi": "10.1590/s0101-81751986000400002",
+   "doi_url": "https://doi.org/10.1590/s0101-81751986000400002",
+   "id": "https://openalex.org/W2020165484",
+   "issue": "8",
+   "language": "en",
+   "oa_url": "https://www.scielo.br/j/rbzool/a/97N8F8Sk9YPdhgyHJKQvsQy/?lang=en&format=pdf",
+   "openalex_url": "https://openalex.org/W2020165484",
+   "pages": "475-501",
+   "title": "Morphology of the worker digestive tube of the soil-feeding nasute termites (Isoptera, Termitidae, Nasutitermitinae ) from the neotropical region",
+   "type": "article",
+   "venue": "Revista Brasileira de Zoologia",
+   "volume": "3",
+   "year": 1986
+  }
+ ],
+ "zh": "无颚白蚁属"
+}

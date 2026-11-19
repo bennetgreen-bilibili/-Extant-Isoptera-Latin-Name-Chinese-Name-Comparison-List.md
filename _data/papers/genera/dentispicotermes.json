@@ -1,0 +1,56 @@
+{
+ "latin": "Dentispicotermes",
+ "zh": "齿尖白蚁属",
+ "fetched_at": "2026-10-30T16:53:28Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W4404085253",
+   "openalex_url": "https://openalex.org/W4404085253",
+   "doi": "10.11646/zootaxa.5536.3.4",
+   "doi_url": "https://doi.org/10.11646/zootaxa.5536.3.4",
+   "title": "Dentispicotermes trapezia (Isoptera: Termitidae: Amitermitinae), a new termite species from the Pantanal-Chaco Region of South America",
+   "year": 2024,
+   "date": "2024-11-05",
+   "authors": [
+    "Rudolf H. Scheffrahn"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 1,
+   "oa_url": "http://publication.plazi.org/id/974F5F52FF93FFB8FFAB5C24FF96FFEC",
+   "volume": "5536",
+   "issue": "3",
+   "pages": "447-453",
+   "abstract": "Dentispicotermes trapezia sp. nov. is described from the soldier and worker castes of specimens collected in Pantanal-Chaco Region of Bolivia and Paraguay. The soldiers differ from its five congeners in having a trapezoidal frontal protuberance with in-line marginal teeth. A key to Dentispicotermes soldiers is provided.",
+   "abstract_source": "openalex",
+   "abstract_chars": 321,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W3014896341",
+   "openalex_url": "https://openalex.org/W3014896341",
+   "doi": "10.15560/16.2.343",
+   "doi_url": "https://doi.org/10.15560/16.2.343",
+   "title": "First record of the termite, Dentispicotermes cupiporanga Bandeira & Cancello, 1992 (Isoptera, Termitidae, Termitinae) from Venezuela and new genus records from Bolivia and Paraguay",
+   "year": 2020,
+   "date": "2020-03-30",
+   "authors": [
+    "Solange Issa",
+    "Rudolf H. Scheffrahn"
+   ],
+   "venue": "Check List",
+   "type": "article",
+   "language": "en",
+   "cited_by": 1,
+   "oa_url": "https://checklist.pensoft.net/lib/ajax_srv/generate_pdf.php?document_id=46812&readonly_preview=1&file_id=0",
+   "volume": "16",
+   "issue": "2",
+   "pages": "343-347",
+   "abstract": "Dentispicotermes Emerson, 1950 comprises five species confined to the Neotropics. We report the presence of D. cupiporanga Bandeira & Cancello, 1992 in northern Venezuela and two undescribed congeners from Bolivia and Paraguay. This soil-feeding termite genus is rare and is characterized by a diagnostic enteric valve armature that we describe for the first time.",
+   "abstract_source": "openalex",
+   "abstract_chars": 364,
+   "abstract_truncated": false
+  }
+ ]
+}

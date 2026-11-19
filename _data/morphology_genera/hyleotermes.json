@@ -1,0 +1,29 @@
+{
+ "zh_name": "森林白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头壳背视卵形，具长的圆柱形鼻，无缢缩、无长刚毛，被显微毛；工蚁轻微二型，混合段很短；肠瓣具 6 个大小不等的瓣垫，每瓣垫着生数枚至数十枚窄刺，刺生于锥形基座上。兵蚁在体型小、色淡黄、鼻圆柱形上与 Ereymatermes、Subulitermes 最近；三者中仅 H. brevipilus、S. constricticeps、S. microsoma 的头壳无长刚毛，而后两者明显更小（头宽约 0.6 mm）。工蚁肠瓣具鉴别意义，与 Ereymatermes、Subulitermes 不同。与 Nasutitermes s. str. 的区别：后者肠瓣武装具尖鳞并向后拖成鳞列、磨板窄直且脊发达、各内颚端齿短而缘齿较大、混合段很长、肠瓣未硬化而仅有微刺；此外 Nasutitermes s. str. 雌性工蚁明显大于雄性。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "复眼大、略卵形；单眼大、椭圆形，约与触角窝等大；后唇基侧视微拱，中线明显并微凹，前缘近直，后缘凸；囟显著、裂隙状；额缝模糊；触角 15 节；内颚齿式与工蚁 2 型相似；前胸背板背视梯形，前、后缘近直；中胸与后胸背板后缘深而宽地凹入，后侧角圆；端距 2:2:2。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "单型；背视头壳长大于宽，无缢缩；鼻细长、近圆柱形；头壳、足与胸部骨片密被短而较粗的毛；内颚具小而清晰的「尖」；触角 12 节；后唇基侧视不凸；上唇宽大于长，前缘圆、侧缘平行，前角圆；前胸背板前叶与后叶同等发达，其间成钝角；前足基节锥形，不形成脊，前表面无隆突；端距 2:2:2。"
+  },
+  {
+   "label": "工蚁",
+   "text": "二型，两型体型相近。1 型左内颚 M3 与磨区隆起之间的间隙窄，头壳色较深、近梯形，前胸背板较窄且前叶大于后叶；2 型间隙宽，头壳色略浅、两侧较凸，前胸背板较宽、前后叶近等大。两型囟均位于头壳后半、色淡，侧视微凹；后唇基不膨隆；触角 13 节；端距 2:2:2。两型左内颚端齿均大于 M1，端齿后缘微凹，端齿后缘与 M1 前缘成锐角，M1 后缘波状；M3 短但清晰，1 型与磨区隆起之间为 V 形间隙、2 型为宽间隙；M4 短、隐于磨区隆起之下；磨区隆起凹、具模糊脊。右内颚端齿大于 M1，M3 退化、端部圆，M3 后缘凹，磨板凹并具模糊脊，基部缺刻清晰但 2 型较窄。"
+  }
+ ],
+ "note": "原文将 Nasutitermes brevipilus 移入本属并作 redescription；属征与各品级描述均在 p. 78，比较讨论在 p. 79。",
+ "sources": [
+  {
+   "id": "S0031",
+   "citation": "Cuezzo C., Scheffrahn R.H. & Constantino R. 2022. Revised systematic position of Nasutitermes brevipilus Emerson, 1925 (Isoptera: Termitidae: Nasutitermitinae) and the designation of Hyleotermes gen. nov. Zootaxa 5195(1): 73–86. https://doi.org/10.11646/zootaxa.5195.1.4",
+   "locator": "p. 78（Hyleotermes gen. nov.: Diagnosis / Description）"
+  }
+ ]
+}

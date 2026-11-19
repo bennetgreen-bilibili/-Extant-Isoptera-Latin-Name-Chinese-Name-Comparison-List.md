@@ -1,0 +1,40 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "模式产地、分布与经济重要性",
+   "heading_en": "Type locality, distribution and economic importance",
+   "heading_es": "Localidad tipo, distribución e importancia económica",
+   "paragraphs": [
+    {
+     "src": [
+      "S0274"
+     ],
+     "text": "根据 Ranjith 与 Kalleshwaraswamy（2021）研究，胖身土白蚁（<i>Odontotermes obesus</i>，Rambur 1842）的模式产地为印度孟买，在南印度安得拉邦、卡纳塔克邦、喀拉拉邦、泰米尔纳德邦四邦均有分布记录。",
+     "text_en": "According to Ranjith and Kalleshwaraswamy (2021), the type locality of <i>Odontotermes obesus</i> (Rambur, 1842) is Mumbai, India, and the species has been recorded from four states of southern India: Andhra Pradesh, Karnataka, Kerala and Tamil Nadu.",
+     "text_es": "Según Ranjith y Kalleshwaraswamy (2021), la localidad tipo de <i>Odontotermes obesus</i> (Rambur, 1842) es Bombay (India), y la especie está registrada en cuatro estados del sur de la India: Andhra Pradesh, Karnataka, Kerala y Tamil Nadu."
+    },
+    {
+     "src": [
+      "S0287"
+     ],
+     "text": "据摘要，根据 Becker（1962）研究，对户外用材而言，异白蚁属（<i>Heterotermes</i>）与乳白蚁属（<i>Coptotermes</i>）的重要性相对较低，而小白蚁属（<i>Microtermes</i>）、胖身土白蚁（<i>Odontotermes obesus</i>）与锯白蚁属（<i>Microcerotermes</i>）更值得注意；截至 1962 年，已知能取食活立木的种包括胖身土白蚁。",
+     "text_en": "According to the abstract, Becker (1962) found that, for timber used out of doors, <i>Heterotermes</i> and <i>Coptotermes</i> were of comparatively low importance, whereas <i>Microtermes</i>, <i>Odontotermes obesus</i> and <i>Microcerotermes</i> were more noteworthy; as of 1962, the species known to feed on living trees included <i>Odontotermes obesus</i>.",
+     "text_es": "Según el resumen, Becker (1962) encontró que, para la madera empleada a la intemperie, <i>Heterotermes</i> y <i>Coptotermes</i> tenían una importancia relativamente baja, mientras que <i>Microtermes</i>, <i>Odontotermes obesus</i> y <i>Microcerotermes</i> merecían mayor atención; hasta 1962, entre las especies conocidas por alimentarse de árboles vivos figuraba <i>Odontotermes obesus</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0274",
+   "citation": "Ranjith, M.; Kalleshwaraswamy, C. M. 2021. Termites (Blattodea: Isoptera) of southern India: current knowledge on distribution and systematic checklist. Wildlife Information Liaison Development Society.",
+   "doi": "10.11609/jott.5781.13.6.18598-18613"
+  },
+  {
+   "id": "S0287",
+   "citation": "Günther Becker. 1962. Beiträge zur Kenntnis der geographischen Verbreitung und wirtschaftlichen Bedeutung von Termiten in Indien1. Zeitschrift für Angewandte Entomologie.",
+   "doi": "10.1111/j.1439-0418.1962.tb04422.x"
+  }
+ ]
+}

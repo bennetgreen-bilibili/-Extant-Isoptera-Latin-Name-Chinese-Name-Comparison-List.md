@@ -1,0 +1,21 @@
+{
+ "zh_name": "凯姆勒白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "东方区 Pericapritermes 组属级兵蚁检索表中，头具高度骨化额脊、略呈“堵塞型”（phragmotic）者仅本属：第 1 对即以此单独分出，其余各属头无额脊、不呈 phragmotic。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头具高度骨化的额脊，头略呈 phragmotic。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0029",
+   "citation": "Amina P. P.; Poovoli A.; Rajmohana K.; Dinesh K. P.; Asha G. 2022. Integrative taxonomic studies on Rinacapritermes Amina & Rajmohana, n. gen. (Blattodea: Isoptera: Termitidae) with two new species from India. Zoosystema 44 (3): 109-124. https://doi.org/10.5252/zoosystema2022v44a3",
+   "locator": "Key to the soldiers of genera under Pericapritermes-group found in the Oriental region, couplet 1 (Kemneritermes 分支)"
+  }
+ ],
+ "note": "兵蚁仅据东方区属检索表第 1 对；原始描述 Ahmad & Akhtar 1981 未获全文，故只有一条特征。"
+}

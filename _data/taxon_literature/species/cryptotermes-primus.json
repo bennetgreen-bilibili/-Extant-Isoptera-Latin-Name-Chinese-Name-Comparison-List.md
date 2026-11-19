@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "据摘要，Gay 与 Watson（1982）把第一堆砂白蚁（<i>Cryptotermes primus</i>）列为澳大利亚特有种，并把堆砂白蚁属的旧异名 <i>Cryptotermes arcanus</i>（堆砂白蚁属的旧异名）并入此种。",
+     "text_en": "According to the abstract, Gay and Watson (1982) treated <i>Cryptotermes primus</i> as an Australian endemic and sank the old name <i>Cryptotermes arcanus</i> (an old synonym in <i>Cryptotermes</i>) into that species.",
+     "text_es": "Según el resumen, Gay y Watson (1982) trataron <i>Cryptotermes primus</i> como endémica de Australia e incluyeron en ella el antiguo nombre <i>Cryptotermes arcanus</i> (antiguo sinónimo de <i>Cryptotermes</i>).",
+     "src": [
+      "S0187"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0187",
+   "citation": "F. J. Gay; J. A. L. Watson 1982 The genus Cryptotermes in Australia (Isoptera : Kalotermitidae). Australian Journal of Zoology Supplementary Series.",
+   "doi": "10.1071/ajzs088"
+  }
+ ]
+}

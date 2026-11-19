@@ -1,0 +1,68 @@
+{
+ "book_n": "233",
+ "book_name": "阔腿杆白蚁 Stylotermes laticrus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "阔腿杆白蚊兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "8.67",
+     "value": "7.98–9.38"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.67",
+     "value": "1.64–1.75"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.36",
+     "value": "1.32–1.39"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.38",
+     "value": "0.35–0.40"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.47",
+     "value": "0.45–0.49"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.76",
+     "value": "1.72–1.80"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "2.11",
+     "value": "2.10–2.15"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.86",
+     "value": "0.81–0.89"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.61",
+     "value": "1.52–1.64"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.41",
+     "value": "1.32–1.47"
+    }
+   ],
+   "src_file": "501-600.txt",
+   "src_line": 766,
+   "unit": "mm"
+  }
+ ]
+}

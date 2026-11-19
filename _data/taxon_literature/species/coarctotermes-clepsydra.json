@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "模式种与左颚颚齿",
+   "heading_en": "The type species and its left mandible",
+   "heading_es": "La especie tipo y su mandíbula izquierda",
+   "paragraphs": [
+    {
+     "src": [
+      "S0336"
+     ],
+     "text": "根据 Coaton（1962）研究，漏壶缩狭白蚁（<i>Coarctotermes clepsydra</i>）是缩狭白蚁属（<i>Coarctotermes</i>）的模式种，分布于马达加斯加。该作者以该种为例说明属级鉴别特征：有翅成虫与工蚁左颚的第 1、2 缘齿愈合，并与第 3 缘齿以一条均匀凹陷的切缘相连；富勒白蚁属（<i>Fulleritermes</i>）在同一位置为深裂，愈合的第 1、2 缘齿与显著的第 3 缘齿被分开，故左颚切缘的凹、裂之别可用于区分这两个形态相近的属。",
+     "text_en": "According to Coaton (1962), <i>Coarctotermes clepsydra</i> is the type species of <i>Coarctotermes</i> and occurs in Madagascar. The author uses this species to illustrate the generic character: in the imago and worker the first and second marginal teeth of the left mandible are fused and joined to the third marginal tooth by an evenly concave cutting margin, whereas in <i>Fulleritermes</i> a deep cleft at the same position separates the fused first and second marginal teeth from the prominent third, so the concave-versus-cleft condition of the left mandibular margin distinguishes the two morphologically similar genera.",
+     "text_es": "Según Coaton (1962), <i>Coarctotermes clepsydra</i> es la especie tipo de <i>Coarctotermes</i> y se distribuye por Madagascar. El autor utiliza esta especie para ilustrar el carácter genérico: en el imago y la obrera, el primer y el segundo diente marginal de la mandíbula izquierda están fusionados y unidos al tercer diente marginal por un margen cortante uniformemente cóncavo, mientras que en <i>Fulleritermes</i> una hendidura profunda en la misma posición separa los dientes primero y segundo fusionados del tercero, prominente; así, la condición cóncava frente a hendida del margen mandibular izquierdo distingue a los dos géneros morfológicamente semejantes."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0336",
+   "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
+   "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "latin": "Coatitermes",
+ "zh": "凸鼻白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Coatitermes Fontes, 1982: 104–105.",
+ "type_species": "Nasutitermes (Convexitermes) clevelandi Snyder, 1926 by original designation.",
+ "references": [
+  {
+   "ref": "Mill, 1983a: 182, 188",
+   "note": "Coatitermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Fontes, 1987b: 503–531",
+   "note": "Coatitermes; worker mandibles described and figured."
+  },
+  {
+   "ref": "Constantino, 1991b: 4",
+   "note": "Coatitermes; characters. 1552 Bulletin of the American Museum of natural History\b No. 377"
+  },
+  {
+   "ref": "Roisin, 1995: 291",
+   "note": "Coatitermes; characters."
+  },
+  {
+   "ref": "Constantino, 1999a: 400, 415",
+   "note": "Coatitermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 12",
+   "note": "Coatitermes; key."
+  }
+ ],
+ "nrefs": 13
+}

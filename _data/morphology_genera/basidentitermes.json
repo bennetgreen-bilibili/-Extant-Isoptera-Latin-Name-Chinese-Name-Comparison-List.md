@@ -1,0 +1,31 @@
+{
+ "zh_name": "基齿白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头前部不覆盖上颚基部；Emerson（1928）的埃塞俄比亚兵蚁检索表即以此与 Fastigitermes 分开，后者头前部覆盖上颚基部。本亚属已知地点很少，分布（Map 20）因而难以说明。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "上颚略长于头壳，作军刀状；上唇前缘在两侧角尖之间呈凸圆的弧形；囟孔开口圆形（Holmgren 1912 检索表 B 项，Taf. IV fig. 10–11）。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0075",
+   "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+   "locator": "p. 419（兵蚁检索表）"
+  },
+  {
+   "id": "S0075",
+   "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401–574.",
+   "locator": "p. 535（Subgenus Basidentitermes 一节）"
+  },
+  {
+   "id": "S0033",
+   "citation": "Holmgren, N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4).",
+   "locator": "p. 107（Untergattungen 检索表 B 项）"
+  }
+ ],
+ "note": "Holmgren（1912）把它作为 Mirotermes 的一个亚属处理；本次未读到 Silvestri 1914 与 Sjöstedt 1924 原文，故只写检索表级特征，不写量度、毛被与触角节数。"
+}

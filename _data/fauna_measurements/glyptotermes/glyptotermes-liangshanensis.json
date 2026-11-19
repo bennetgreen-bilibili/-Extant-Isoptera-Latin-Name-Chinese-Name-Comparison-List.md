@@ -1,0 +1,130 @@
+{
+ "book_n": "30",
+ "book_name": "凉山树白蚁 Glyptotermes liangshanensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "凉山树白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.93",
+     "value": "1.70–2.12"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.23",
+     "value": "1.11–1.29"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.22",
+     "value": "0.12–0.25"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.32",
+     "value": "0.25–0.35"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.09",
+     "value": "1.00–1.25"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "1.39",
+     "value": "1.15–1.57"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.45",
+     "value": "0.41–0.48"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.54",
+     "value": "0.50–0.60"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.11",
+     "value": "1.03–1.20"
+    },
+    {
+     "key": "hind_femur_length",
+     "mean": "0.74",
+     "value": "0.70–0.75"
+    },
+    {
+     "key": "hind_femur_width",
+     "mean": "0.29",
+     "value": "0.25–0.32"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.77",
+     "value": "0.75–0.85"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 605,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "凉山树白蚁有翅成虫量度 ( mm)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "ocellus_length",
+     "mean": "0.07",
+     "value": "0.06–0.08"
+    },
+    {
+     "key": "ocellus_width",
+     "mean": "0.06",
+     "value": "0.05–0.07"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.19",
+     "value": "0.14–0.21"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.40",
+     "value": "0.35–0.45"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.57",
+     "value": "0.55–0.60"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.13",
+     "value": "1.12–1.15"
+    },
+    {
+     "key": "hind_femur_length",
+     "mean": "0.64",
+     "value": "0.55–0.70"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.79",
+     "value": "0.73–0.83"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 617,
+   "unit": "mm"
+  }
+ ]
+}

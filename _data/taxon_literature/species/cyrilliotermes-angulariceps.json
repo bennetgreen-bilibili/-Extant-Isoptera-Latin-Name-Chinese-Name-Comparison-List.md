@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "异名修订",
+   "heading_en": "Synonymy",
+   "heading_es": "Sinonimia",
+   "paragraphs": [
+    {
+     "src": [
+      "S0302"
+     ],
+     "text": "据摘要，根据 Constantino 与 Carvalho（2012）研究，壶头白蚁属（<i>Cyrilliotermes</i>）旧名 <i>Cyrilliotermes cashassa</i> 与 <i>Cyrilliotermes jaci</i> 被同时指定为角头壶头白蚁（<i>Cyrilliotermes angulariceps</i>）的次异名。",
+     "text_en": "According to the abstract, Constantino and Carvalho (2012) simultaneously designated the older names <i>Cyrilliotermes cashassa</i> and <i>Cyrilliotermes jaci</i> as junior synonyms of <i>Cyrilliotermes angulariceps</i>.",
+     "text_es": "Según el resumen, Constantino y Carvalho (2012) designaron simultáneamente los nombres antiguos <i>Cyrilliotermes cashassa</i> y <i>Cyrilliotermes jaci</i> como sinónimos júnior de <i>Cyrilliotermes angulariceps</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0302",
+   "citation": "Constantino, R.; Sérgio H. C. Carvalho. 2012. A taxonomic revision of the Neotropical termite genus Cyrilliotermes Fontes (Isoptera, Termitidae, Syntermitinae). Zootaxa.",
+   "doi": "10.11646/zootaxa.3186.1.2"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "Xiaitermes yinxianensis": {
+  "gbif": {
+   "key": 9779016,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Xiaitermes yinxianensis He & Gao, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "7FXP5",
+   "status": "accepted",
+   "label": "Xiaitermes yinxianensis Gao & He, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073683",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

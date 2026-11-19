@@ -1,0 +1,27 @@
+{
+ "latin": "Paracapritermes",
+ "zh": "旁扭白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Paracapritermes Hill, 1942: 416 [first introduced as a subgenus of Mirotermes Wasmann, 1897].",
+ "type_species": "Mirotermes (Paracapritermes) primus Hill, 1942: by original designation.",
+ "references": [
+  {
+   "ref": "Gay, 1956: 219",
+   "note": "Paracapritermes; synonymy; characters."
+  },
+  {
+   "ref": "Krishna, 1968: 270, 271–274",
+   "note": "Paracapritermes; synonymy; key; characters; phylogeny; species included; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 31",
+   "note": "Paracapritermes; key."
+  },
+  {
+   "ref": "Miller, 1991: 1264, 1278",
+   "note": "Paracapritermes; key; synonymy; gut described."
+  }
+ ],
+ "nrefs": 10
+}

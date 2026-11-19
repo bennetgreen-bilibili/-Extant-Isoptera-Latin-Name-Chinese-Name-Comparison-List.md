@@ -1,0 +1,61 @@
+{
+ "book_n": "22",
+ "book_name": "榕树白蚁 Glyptotermesficus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "榕树白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_max_width",
+     "value": "1.42"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.97",
+     "value": "0.94"
+    },
+    {
+     "key": "postmentum_length",
+     "value": "1.50"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.53",
+     "value": "0.52"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.34",
+     "value": "0.36"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.71",
+     "value": "0.76"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.59",
+     "value": "0.64"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.22",
+     "value": "1.27"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.04",
+     "value": "1.10"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 407,
+   "unit": "mm"
+  }
+ ]
+}

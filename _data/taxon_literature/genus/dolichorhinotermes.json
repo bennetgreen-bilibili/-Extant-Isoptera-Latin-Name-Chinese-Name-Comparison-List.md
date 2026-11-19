@@ -1,0 +1,43 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "兵蚁二型与琥珀化石",
+   "heading_en": "Soldier dimorphism and amber fossils",
+   "heading_es": "Dimorfismo de los soldados y fósiles en ámbar",
+   "paragraphs": [
+    {
+     "src": [
+      "S0286"
+     ],
+     "text": "根据 Schlemmermeyer 与 Cancello（2000）研究，狭鼻白蚁属（<i>Dolichorhinotermes</i>）兵蚁为二型（大兵蚁与小兵蚁），而棒鼻白蚁属（<i>Parrhinotermes</i>）兵蚁为单型；该属与鼻白蚁属（<i>Rhinotermes</i>）在成虫上唯一可用的区分特征是第 3 触角节短于第 1 节。",
+     "text_en": "According to Schlemmermeyer and Cancello (2000), the soldiers of <i>Dolichorhinotermes</i> are dimorphic (major and minor soldiers), whereas those of <i>Parrhinotermes</i> are monomorphic; the only character available for distinguishing the adults of this genus from <i>Rhinotermes</i> is that antennal segment 3 is shorter than segment 1.",
+     "text_es": "Según Schlemmermeyer y Cancello (2000), los soldados de <i>Dolichorhinotermes</i> son dimórficos (soldados mayores y menores), mientras que los de <i>Parrhinotermes</i> son monomórficos; el único carácter disponible para distinguir a los adultos de este género de <i>Rhinotermes</i> es que el segmento antenal 3 es más corto que el 1."
+    },
+    {
+     "src": [
+      "S0286"
+     ],
+     "text": "该文据一枚多米尼加琥珀中的单头有翅成虫描述了一个新种，为琥珀中首个鼻白蚁亚科（<i>Rhinotermitinae</i>）化石；其前翅鳞很大、覆盖后翅鳞，而文献记载鼻白蚁复合群、长鼻白蚁属（<i>Schedorhinotermes</i>）、棒鼻白蚁属与原鼻白蚁属（<i>Prorhinotermes</i>）的前翅鳞通常只覆盖后翅鳞的四分之一至五分之一。",
+     "text_en": "The paper described a new species from a single alate in Dominican amber, the first fossil of <i>Rhinotermitinae</i> in amber; its forewing scale is very large and covers the hindwing scale, whereas the literature records that in the <i>Rhinotermes</i> complex, <i>Schedorhinotermes</i>, <i>Parrhinotermes</i> and <i>Prorhinotermes</i> the forewing scale usually covers only one quarter to one fifth of the hindwing scale.",
+     "text_es": "El trabajo describió una especie nueva a partir de un único alado en ámbar dominicano, el primer fósil de <i>Rhinotermitinae</i> en ámbar; su escama alar anterior es muy grande y cubre la escama alar posterior, mientras que la literatura registra que en el complejo <i>Rhinotermes</i>, en <i>Schedorhinotermes</i>, en <i>Parrhinotermes</i> y en <i>Prorhinotermes</i> la escama alar anterior suele cubrir solo entre un cuarto y un quinto de la escama alar posterior."
+    },
+    {
+     "src": [
+      "S0286"
+     ],
+     "text": "鼻白蚁复合群各种生活于热带雨林或开阔植被的腐木中，作者据多米尼加琥珀源自密林树脂推断，该化石种亦营林栖生活。",
+     "text_en": "The species of the <i>Rhinotermes</i> complex live in decaying wood in tropical rainforest or in open vegetation, and the authors infer from the origin of Dominican amber in dense-forest resin that the fossil species was also forest-dwelling.",
+     "text_es": "Las especies del complejo <i>Rhinotermes</i> viven en madera en descomposición de selvas tropicales o de vegetación abierta, y los autores infieren, a partir del origen del ámbar dominicano en resinas de bosque denso, que la especie fósil también tenía hábitos forestales."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0286",
+   "citation": "Schlemmermeyer, T.; Cancello, E. M. 2000. New fóssil termite species: Dolichorhinotermes Dominicanusfrom Dominican Amber (Isoptera, Rhinotermitidae, Rjhinotermitinae). Universidade de São Paulo. Agência de Bibliotecas e Coleções Digitais.",
+   "doi": "10.11606/0031-1049.2000.41.p303-311"
+  }
+ ]
+}

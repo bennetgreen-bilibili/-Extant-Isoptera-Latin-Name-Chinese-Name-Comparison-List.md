@@ -1,0 +1,21 @@
+{
+ "zh_name": "小囟突扭白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁在体型、上颚与上唇形状、额部倾斜程度上均与 D. gravelyi 极为接近，仅以头侧稍凸并向前弱收敛、头前侧瘤稍长、上唇前侧缘基部凸出而非弱锯齿状等细微特征与之区别；工蚁亦与 D. gravelyi 很相似。两者的划分属暂定性质：当时未能获得 D. gravelyi 的模式标本，可供检查的该种兵蚁标本极少，其变异幅度无从研究，日后若获得较长系列，用于区分二者的这些特征未必成立。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头侧稍凸，向前弱收敛；头前侧瘤较 D. gravelyi 稍长；上唇前侧缘基部呈凸出状，而 D. gravelyi 为弱锯齿状。体型大小、上颚形状、上唇形状与额部倾斜程度均与 D. gravelyi 相近，差异仅在于上述细微特征。"
+  }
+ ],
+ "note": "据 Chhotani (1997) 种级描述改写；原文为英文，兵蚁与工蚁均以与 D. gravelyi 相比较的方式记述，未列量度，详细描述与图示见 Thakur and Chatterjee (1971)；有翅成虫未知；分布记录、图号与分类讨论未录。",
+ "sources": [
+  {
+   "id": "S0104",
+   "citation": "Chhotani O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume II (Family Termitidae). https://archive.org/details/dli.zoological.fi.027",
+   "locator": "条目 189（p. 292）"
+  }
+ ]
+}

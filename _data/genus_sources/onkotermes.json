@@ -1,0 +1,19 @@
+{
+ "latin": "Onkotermes",
+ "zh": "倒钩白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Onkotermes Constantino et al., 2002: 454–456.",
+ "type_species": "Amitermes brevicorniger Silvestri, 1901 by original designation.",
+ "references": [
+  {
+   "ref": "Constantino, 1999a: 407, 419",
+   "note": "Synhamitermes [part]; key, biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 26",
+   "note": "Onkotermes; key."
+  }
+ ],
+ "nrefs": 6
+}

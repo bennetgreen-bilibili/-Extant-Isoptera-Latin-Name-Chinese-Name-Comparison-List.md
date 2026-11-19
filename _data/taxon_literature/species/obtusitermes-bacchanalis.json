@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "归属钝白蚁属的异议",
+   "heading_en": "Doubts about its placement in Obtusitermes",
+   "heading_es": "Dudas sobre su ubicación en Obtusitermes",
+   "paragraphs": [
+    {
+     "text": "据摘要，Cuezzo 与 Cancello（2009）在描述漂亮钝白蚁（<i>Obtusitermes formosulus</i>）时认为，新种的二型兵蚁与多型工蚁描述提供了有力证据，表明酒神钝白蚁（<i>Obtusitermes bacchanalis</i>，原文作 <i>Parvitermes bacchanalis</i> Mathews）不应归入钝白蚁属（<i>Obtusitermes</i>）；摘要未说明该种应归入何属。",
+     "text_en": "According to the abstract, when describing <i>Obtusitermes formosulus</i>, Cuezzo and Cancello (2009) held that the dimorphic soldier and polymorphic worker of the new species provide strong evidence that <i>Parvitermes bacchanalis</i> Mathews (treated here as <i>Obtusitermes bacchanalis</i>) should not be included in <i>Obtusitermes</i>; the abstract does not state which genus should receive it.",
+     "text_es": "Según el resumen, al describir <i>Obtusitermes formosulus</i>, Cuezzo y Cancello (2009) sostuvieron que el soldado dimórfico y la obrera polimórfica de la especie nueva constituyen una prueba sólida de que <i>Parvitermes bacchanalis</i> Mathews (tratada aquí como <i>Obtusitermes bacchanalis</i>) no debe incluirse en <i>Obtusitermes</i>; el resumen no indica a qué género debería transferirse.",
+     "src": [
+      "S0355"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0355",
+   "citation": "Cuezzo, C.; Cancello, E. M. 2009. A new species of Obtusitermes (Isoptera, Termitidae, Nasutitermitinae) from South America. Zootaxa.",
+   "url": "https://doi.org/10.11646/zootaxa.1993.1.6"
+  }
+ ]
+}

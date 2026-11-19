@@ -1,0 +1,134 @@
+{
+ "Angularitermes clypeatus": {
+  "gbif": {
+   "key": 9722099,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angularitermes clypeatus Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "672HG",
+   "status": "accepted",
+   "label": "Angularitermes clypeatus Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234832",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angularitermes coninasus": {
+  "gbif": {
+   "key": 8305247,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angularitermes coninasus Carrijo, Rocha, Cuezzo & Cancello, 2011",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V2HH",
+   "status": "accepted",
+   "label": "Angularitermes coninasus Carrijo, Rocha, Cuezzo & Cancello, 2011",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21237019",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angularitermes nasutissimus": {
+  "gbif": {
+   "key": 8831948,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angularitermes nasutissimus (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "66QHH",
+   "status": "accepted",
+   "label": "Angularitermes nasutissimus (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234833",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angularitermes orestes": {
+  "gbif": {
+   "key": 9648778,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angularitermes orestes (Araujo, 1970)",
+   "accepted": null
+  },
+  "col": {
+   "id": "672HH",
+   "status": "accepted",
+   "label": "Angularitermes orestes (Araujo, 1970)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234835",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angularitermes pinocchio": {
+  "gbif": {
+   "key": 9753843,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angularitermes pinocchio Cancello & Brandão, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V2HM",
+   "status": "accepted",
+   "label": "Angularitermes pinocchio Cancello & Brandão, 1996",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234836",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Angularitermes tiguassu": {
+  "gbif": {
+   "key": 9749110,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Angularitermes tiguassu Cancello & Brandão, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "66QHM",
+   "status": "accepted",
+   "label": "Angularitermes tiguassu Cancello & Brandão, 1996",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234837",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "Ephelotermes argutus": {
+  "label": "Ephelotermes argutus (Hill, 1929)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85400,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85400/overview",
+  "valid_label": null,
+  "valid_otu": 85400,
+  "verified": false
+ },
+ "Ephelotermes cheeli": {
+  "label": "Ephelotermes cheeli (Mjöberg, 1920)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85401,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85401/overview",
+  "valid_label": null,
+  "valid_otu": 85401,
+  "verified": false
+ },
+ "Ephelotermes melachoma": {
+  "label": "Ephelotermes melachoma Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85402,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85402/overview",
+  "valid_label": null,
+  "valid_otu": 85402,
+  "verified": false
+ },
+ "Ephelotermes paleatus": {
+  "label": "Ephelotermes paleatus Miller, 1991",
+  "match": "exact",
+  "notes": "",
+  "otu": 85403,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85403/overview",
+  "valid_label": null,
+  "valid_otu": 85403,
+  "verified": false
+ },
+ "Ephelotermes persimilis": {
+  "label": "Ephelotermes persimilis (Gay, 1971)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85404,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85404/overview",
+  "valid_label": null,
+  "valid_otu": 85404,
+  "verified": false
+ },
+ "Ephelotermes taylori": {
+  "label": "Ephelotermes taylori (Hill, 1915)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85405,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85405/overview",
+  "valid_label": null,
+  "valid_otu": 85405,
+  "verified": false
+ }
+}

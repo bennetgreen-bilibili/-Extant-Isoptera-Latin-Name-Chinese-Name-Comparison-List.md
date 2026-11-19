@@ -1,0 +1,27 @@
+{
+ "latin": "Prohamitermes",
+ "zh": "前钩白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Prohamitermes Holmgren, 1912a: 76, 78–82.",
+ "type_species": "Termes mirabilis Haviland, 1898 by subsequent designation; see Snyder, 1949a: 101 [Prohamitermes mirabilis designated as type species].",
+ "references": [
+  {
+   "ref": "Ahmad, 1958: 85, 90",
+   "note": "Prohamitermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 30",
+   "note": "Prohamitermes; key."
+  },
+  {
+   "ref": "Collins, 1984: 78",
+   "note": "Prohamitermes; key."
+  },
+  {
+   "ref": "Sornnuwat et al., 2004: 357, 359",
+   "note": "Prohamitermes; key, number of species. Thailand."
+  }
+ ],
+ "nrefs": 9
+}

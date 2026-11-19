@@ -1,0 +1,23 @@
+{
+ "latin": "Mucrotermes",
+ "zh": "锐尖白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Mucrotermes Emerson, 1960c: 12–16.",
+ "type_species": "Mucrotermes osborni Emerson, 1960 by original designation.",
+ "references": [
+  {
+   "ref": "Bouillon and Mathot, 1965: 28, 102, 103, pl. 19: fig. 57e",
+   "note": "Mucrotermes; key; characters; worker mandibles figured. 1960 Bulletin of the American Museum of natural History\b No. 377"
+  },
+  {
+   "ref": "Morimoto, 1975b: 33",
+   "note": "Mucrotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 40, 234–236, figs. 1024–1043, pl. 14: figs. 1, 2",
+   "note": "Mucrotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 5
+}

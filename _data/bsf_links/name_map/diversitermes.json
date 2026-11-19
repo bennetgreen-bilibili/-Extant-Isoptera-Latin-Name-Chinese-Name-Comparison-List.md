@@ -1,0 +1,46 @@
+{
+ "Diversitermes aporeticus": {
+  "label": "Diversitermes aporeticus Mathews, 1977",
+  "match": "exact",
+  "notes": "",
+  "otu": 84420,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84420/overview",
+  "valid_label": null,
+  "valid_otu": 84420,
+  "verified": false
+ },
+ "Diversitermes castaniceps": {
+  "label": "Diversitermes castaniceps (Holmgren, 1910)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84421,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84421/overview",
+  "valid_label": null,
+  "valid_otu": 84421,
+  "verified": false
+ },
+ "Diversitermes diversimiles": {
+  "label": "Diversitermes diversimiles (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84422,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84422/overview",
+  "valid_label": null,
+  "valid_otu": 84422,
+  "verified": false
+ },
+ "Diversitermes tiapuan": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 84419 Diversitermes Holmgren, 1912",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ }
+}

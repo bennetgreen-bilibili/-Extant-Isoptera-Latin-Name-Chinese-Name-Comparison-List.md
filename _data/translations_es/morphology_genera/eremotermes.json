@@ -1,0 +1,17 @@
+{
+ "note": "El original registra el alado como desconocido y solo describe la ninfa (antenas de 14 segmentos, cabeza oval, fontanela muy posterior, placa basal del postclípeo de longitud aproximadamente la mitad de su anchura, primer diente de la mandíbula izquierda algo mayor que el segundo). Caracteres genéricos alemanes reescritos a partir del texto OCR; los términos técnicos siguen la traducción habitual en morfología de insectos.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Alado desconocido (solo se conoce la ninfa). Soldado con cabeza de forma semejante a la de Mirotermes, corta y cilíndrica, con una protuberancia frontal evidente y redondeada bajo la cual se abre un poro fontanelar bastante grande; labro triangular y no bilobado; mandíbulas largas y rectas, simétricas, con 1 diente agudo en la parte media dirigido hacia dentro y ligeramente hacia atrás; antenas de 14 segmentos; pronoto en forma de silla de montar, abdomen muy grueso y casi esférico, patas cortas, tibias con 2 espinas apicales."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza como la de Mirotermes, corta y cilíndrica, con una protuberancia frontal evidente, redondeada y obtusa, bajo la cual se abre un poro fontanelar bastante grande; cabeza pilosa, con pelos más densos alrededor de la fontanela; frente que desciende suavemente hacia delante por debajo de la protuberancia frontal. Glándula fontanelar muy grande, que se extiende hacia atrás hasta la parte posterior del cuello. Labro triangular (no bilobado como en Mirotermes). Mandíbulas largas y rectas, con el ápice solo ligeramente curvado hacia dentro, simétricas; con 1 diente agudo en la parte media dirigido hacia dentro y algo hacia atrás; base mandibular muy larga, de igual longitud que el resto; límite entre la base y el cuerpo principal de la mandíbula señalado por un pequeño ángulo en el margen externo; región molar en forma de escalón, cuadrangular. Antenas de 14 segmentos. Pronoto en forma de silla de montar. Abdomen muy grueso, casi esférico, con los flancos abdominales proyectados como bolsas dilatadas; patas cortas; tibias con 2 espinas apicales; cercos cortos, sin saliente espinoso."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza gruesa, anchamente oval; fontanela muy posterior; placa basal del postclípeo de longitud igual a la mitad de su anchura, bastante fuertemente convexa; primer diente mandibular algo mayor que el segundo; antenas relativamente cortas, de segmentos densos, 14 en número; pronoto en forma de silla de montar, abdomen bastante grueso."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "zh_name": "阿劳若白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "头顶具多数长短不一的长刚毛，以此与头顶仅 0-6 根长刚毛、另有多数微毛的 Subulitermes 区分；工蚁左颚第 1+2 缘齿与第 3 缘齿之间的切缘呈波状，且第 3 缘齿与磨突之间的裂隙较 Atlantitermes 等明显更宽。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头顶具多数长刚毛，长度不一。"
+  },
+  {
+   "label": "工蚁",
+   "text": "左颚第 1+2 缘齿至第 3 缘齿的切缘呈波状；第 3 缘齿与磨突之间的裂隙明显更宽。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0048",
+   "citation": "Constantino, R. 1999. Chave ilustrada para identificacao dos generos de cupins (Insecta: Isoptera) que ocorrem no Brasil. Papeis Avulsos de Zoologia 40(25): 387-448.",
+   "locator": "p. 415"
+  },
+  {
+   "id": "S0087",
+   "citation": "Fontes, L. R. 1987. Morphology of the alate and worker mandibles of the soil-feeding nasute termites (Isoptera, Termitidae, Nasutitermitinae) from Neotropical region. Revista Brasileira de Zoologia 3(8): 503-531.",
+   "locator": "p. 506"
+  }
+ ],
+ "note": "Fontes 1982 的原始描述未能取得可读全文；本条目据 Constantino 1999 巴西属检索表（p. 415）与 Fontes 1987 的属间对比，仅写检索表与对比句中可逐字引用的性状。额管形状（检索表第 17 对偶）未引，故未写入；有翅成虫与肠道性状原文未引，不设该节。"
+}

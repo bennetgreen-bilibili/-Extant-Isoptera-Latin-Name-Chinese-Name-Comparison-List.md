@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-14",
+ "sections": [
+  {
+   "heading": "有翅成虫的首次描述",
+   "heading_en": "First description of the alates",
+   "heading_es": "Primera descripción de las aladas",
+   "paragraphs": [
+    {
+     "src": [
+      "S0228"
+     ],
+     "text": "据摘要，Rocha 与 Cancello（2009）在修订直颚白蚁属（<i>Orthognathotermes</i>）的研究中，首次描述了惠勒直颚白蚁（<i>Orthognathotermes wheeleri</i>）的有翅成虫；该种是修订前已命名的 9 个种之一，本次修订对其作了重描述，并将其纳入兵蚁检索表与分布图。",
+     "text_en": "According to the abstract, while revising the genus <i>Orthognathotermes</i>, Rocha and Cancello (2009) described the alates of <i>Orthognathotermes wheeleri</i> for the first time; the species is one of the nine named before the revision, which was redescribed and included in the key to soldiers and in the distribution maps.",
+     "text_es": "Según el resumen, al revisar el género <i>Orthognathotermes</i>, Rocha y Cancello (2009) describieron por primera vez las aladas de <i>Orthognathotermes wheeleri</i>; la especie es una de las nueve ya nombradas antes de la revisión, que fue redescrita e incluida en la clave de soldados y en los mapas de distribución."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0228",
+   "citation": "Rocha, M. M.; Cancello, E. M. 2009. Revision of the Neotropical termite genus Orthognathotermes Holmgren (Isoptera: Termitidae: Termitinae). Zootaxa.",
+   "doi": "10.11646/zootaxa.2280.1.1"
+  }
+ ]
+}

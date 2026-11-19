@@ -1,0 +1,92 @@
+{
+ "latin": "Longustitermes",
+ "zh": "长工白蚁属",
+ "fetched_at": "2026-10-30T16:53:57Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2143194541",
+   "openalex_url": "https://openalex.org/W2143194541",
+   "doi": "10.1071/is10012",
+   "doi_url": "https://doi.org/10.1071/is10012",
+   "title": "Towards a revision of the Neotropical soldierless termites (Isoptera : Termitidae): redescription of the genus Anoplotermes and description of Longustitermes, gen. nov.*",
+   "year": 2010,
+   "date": "2010-12-13",
+   "authors": [
+    "Thomas Bourguignon",
+    "Rudolf H. Scheffrahn",
+    "Jan Křeček",
+    "ZOLTÁN TAMÁS NAGY",
+    "Gontran Sonet",
+    "Yves Roisin"
+   ],
+   "venue": "Invertebrate Systematics",
+   "type": "article",
+   "language": "en",
+   "cited_by": 47,
+   "oa_url": "",
+   "volume": "24",
+   "issue": "4",
+   "pages": "357-370",
+   "abstract": "Soldierless termites are well represented in the Neotropics where they constitute about one-third of the total termite species richness. However, despite their substantial diversity, they have been neglected by most taxonomists because they lack soldiers. Species identification therefore relies upon worker characters, in particular the anatomy of the digestive tract and the enteric valve armature. Here, in order to provide a solid basis for future taxonomic work on this group, we supply detailed descriptions of the type species of the genus Anoplotermes, A. pacificus, and of a few common and widespread species, which we retain in Anoplotermes: A. banksi, A. parvus and A. janus, sp. nov. We transfer Anoplotermes manni to a new genus, Longustitermes, and place six species into synonymy. This redefinition of the genus Anoplotermes is complemented by DNA sequences of four genetic markers to allow species identification by molecular techniques and future phylogenetic studies. This study represents a first step towards a complete revision of the neotropical Anoplotermes-group.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1087,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2022457056",
+   "openalex_url": "https://openalex.org/W2022457056",
+   "doi": "10.11646/zootaxa.3941.2.10",
+   "doi_url": "https://doi.org/10.11646/zootaxa.3941.2.10",
+   "title": "Compositermes bani sp.n. (Isoptera, Termitidae, Apicotermitinae), a new species of soldierless termite from Bolivia",
+   "year": 2015,
+   "date": "2015-03-31",
+   "authors": [
+    "Tiago F. Carrijo",
+    "Rudolf H. Scheffrahn",
+    "Jan Křeček"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 10,
+   "oa_url": "https://doi.org/10.48580/d3qjx.v83",
+   "volume": "3941",
+   "issue": "2",
+   "pages": "294-8",
+   "abstract": "Species of neotropical Apicotermitinae (Termitidae) are soldierless, restricting species identification in this group to workers or seasonally present winged imagos. All neotropical Apicotermitinae were placed in the genus Anoplotermes, until Mathews (1977) described two new genera, Grigiotermes and Ruptitermes. Fontes (1986) described two more genera, Aparatermes and Tetimatermes. Twenty years passed without any taxonomic advances in this group until Scheffrahn et al. 2006 described two new Anoplotermes species from the West Indies and Bourguignon et al. 2010 described Longustitermes manni, (=Anoplotermes manni Snyder), Anoplotermes janus, and placed six other species into synonymy. Finally, Scheffrahn 2013 described a new genus and species, Compositermes vindai, characterized by a ring of sclerotized paddles at the junction of the enteric valve seating (EVS) and paunch (P3).",
+   "abstract_source": "openalex",
+   "abstract_chars": 889,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W1982107118",
+   "openalex_url": "https://openalex.org/W1982107118",
+   "doi": "10.1016/j.ympev.2013.07.007",
+   "doi_url": "https://doi.org/10.1016/j.ympev.2013.07.007",
+   "title": "Delineating species boundaries using an iterative taxonomic approach: The case of soldierless termites (Isoptera, Termitidae, Apicotermitinae)",
+   "year": 2013,
+   "date": "2013-07-24",
+   "authors": [
+    "Thomas Bourguignon",
+    "Jan Šobotník",
+    "Robert Hanus",
+    "Jana Krasulová",
+    "Vladimír Vrkoslav",
+    "Josef Cvačka",
+    "Yves Roisin"
+   ],
+   "venue": "Molecular Phylogenetics and Evolution",
+   "type": "article",
+   "language": "en",
+   "cited_by": 27,
+   "oa_url": "",
+   "volume": "69",
+   "issue": "3",
+   "pages": "694-703",
+   "abstract": "",
+   "abstract_source": "",
+   "abstract_chars": 0,
+   "abstract_truncated": false
+  }
+ ]
+}

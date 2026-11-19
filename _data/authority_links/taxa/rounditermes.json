@@ -1,0 +1,24 @@
+{
+ "Rounditermes dechambrei": {
+  "gbif": {
+   "key": 9283996,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rounditermes dechambrei Nel, Ponchel & Ensaf, 2003",
+   "accepted": null
+  },
+  "col": {
+   "id": "4TGZB",
+   "status": "accepted",
+   "label": "Rounditermes dechambrei Ensaf, Ponchel & Nel, 2003",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084335",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

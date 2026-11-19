@@ -1,0 +1,3219 @@
+{
+ "Reticulitermes aculabialis": {
+  "gbif": {
+   "key": 9659153,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes aculabialis Tsai & Huang, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSCS",
+   "status": "accepted",
+   "label": "Reticulitermes aculabialis Tsai & Huang, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105439",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes aegeus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Reticulitermes Holmgren, 1913",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Reticulitermes Holmgren, 1913",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes affinis": {
+  "gbif": {
+   "key": 9789407,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes affinis Hsia & Fan, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSD4",
+   "status": "accepted",
+   "label": "Reticulitermes affinis Hsia & Fan, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105440",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes altus": {
+  "gbif": {
+   "key": 9733662,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes altus Gao, Pan, Ma & Shi, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4D4",
+   "status": "accepted",
+   "label": "Reticulitermes altus Gao, Pan, Ma & Shi, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105441",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes amamianus": {
+  "gbif": {
+   "key": 9666332,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes amamianus Morimoto, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SCS",
+   "status": "accepted",
+   "label": "Reticulitermes amamianus Morimoto, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q129911023",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes ampliceps": {
+  "gbif": {
+   "key": 9772279,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes ampliceps Wang & Li, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SD4",
+   "status": "accepted",
+   "label": "Reticulitermes ampliceps Wang & Li, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105442",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes ancyleus": {
+  "gbif": {
+   "key": 9745046,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes ancyleus Ping, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "794CS",
+   "status": "accepted",
+   "label": "Reticulitermes ancyleus Ping, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105443",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes angustatus": {
+  "gbif": {
+   "key": 9710640,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes angustatus He & Qui, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "794D4",
+   "status": "accepted",
+   "label": "Reticulitermes angustatus He & Qui, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105444",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes angusticephalus": {
+  "gbif": {
+   "key": 9650016,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes angusticephalus Ping & Xu, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4CV",
+   "status": "accepted",
+   "label": "Reticulitermes angusticephalus Ping & Xu, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105445",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes arenincola": {
+  "gbif": {
+   "key": 2007368,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes arenincola Goellner, 1931",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSD7",
+   "status": "accepted",
+   "label": "Reticulitermes arenincola Goellner, 1931",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582612",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes assamensis": {
+  "gbif": {
+   "key": 9794131,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes assamensis Gardner, 1945",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4D7",
+   "status": "accepted",
+   "label": "Reticulitermes assamensis Gardner, 1945",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105447",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes aurantius": {
+  "gbif": {
+   "key": 9757962,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes aurantius Ping & Xu, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SCV",
+   "status": "accepted",
+   "label": "Reticulitermes aurantius Ping & Xu, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105448",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes balkanensis": {
+  "gbif": {
+   "key": 4514004,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes balkanensis Clément, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "794CV",
+   "status": "accepted",
+   "label": "Reticulitermes balkanensis Clément, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q50399430",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes banyulensis": {
+  "gbif": {
+   "key": 4514000,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes banyulensis Clément, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "794D7",
+   "status": "accepted",
+   "label": "Reticulitermes banyulensis Clément, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q7316729",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes bicristatus": {
+  "gbif": {
+   "key": 9709636,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes bicristatus He & Qui, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSD6",
+   "status": "accepted",
+   "label": "Reticulitermes bicristatus He & Qui, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105449",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes bitumulus": {
+  "gbif": {
+   "key": 9686920,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes bitumulus Ping & Xu, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4D6",
+   "status": "accepted",
+   "label": "Reticulitermes bitumulus Ping & Xu, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105450",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes brachygnathus": {
+  "gbif": {
+   "key": 9792320,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes brachygnathus Li, Ping & Ji, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SD6",
+   "status": "accepted",
+   "label": "Reticulitermes brachygnathus Li, Ping & Ji, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105451",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes brevicurvatus": {
+  "gbif": {
+   "key": 9679579,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes brevicurvatus Ping & Xu, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "794D6",
+   "status": "accepted",
+   "label": "Reticulitermes brevicurvatus Ping & Xu, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105452",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes cancrifemuris": {
+  "gbif": {
+   "key": 9653760,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes cancrifemuris Zhu, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSCX",
+   "status": "accepted",
+   "label": "Reticulitermes cancrifemuris Zhu, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q22108214",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes castanus": {
+  "gbif": {
+   "key": 9806555,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes castanus Ping, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSD9",
+   "status": "accepted",
+   "label": "Reticulitermes castanus Ping, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105453",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes chayuensis": {
+  "gbif": {
+   "key": 9794874,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes chayuensis Tsai & Huang, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4CX",
+   "status": "accepted",
+   "label": "Reticulitermes chayuensis Tsai & Huang, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105454",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes chinensis": {
+  "gbif": {
+   "key": 7346473,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes chinensis Snyder, 1923",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4D9",
+   "status": "accepted",
+   "label": "Reticulitermes chinensis Snyder, 1923",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105455",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes choui": {
+  "gbif": {
+   "key": 9814306,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes choui Ping & Zhang, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SCX",
+   "status": "accepted",
+   "label": "Reticulitermes choui Ping & Zhang, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105456",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes chryseus": {
+  "gbif": {
+   "key": 9761828,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes chryseus Ping, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SD9",
+   "status": "accepted",
+   "label": "Reticulitermes chryseus Ping, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105457",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes citrinus": {
+  "gbif": {
+   "key": 9708927,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes citrinus Ping & Li, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "794CX",
+   "status": "accepted",
+   "label": "Reticulitermes citrinus Ping & Li, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105458",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes clypeatus": {
+  "gbif": {
+   "key": 4514007,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes clypeatus Lash, 1952",
+   "accepted": null
+  },
+  "col": {
+   "id": "794D9",
+   "status": "accepted",
+   "label": "Reticulitermes clypeatus Lash, 1952",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q50399431",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes coelceps": {
+  "gbif": {
+   "key": 9797871,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes coelceps (Zhu, Huang & Wang, 1993)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4CW",
+   "status": "accepted",
+   "label": "Reticulitermes coelceps (Zhu, Huang & Wang, 1993)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105459",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes conus": {
+  "gbif": {
+   "key": 9657180,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes conus Xia & Fan, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSCW",
+   "status": "accepted",
+   "label": "Reticulitermes conus Xia & Fan, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105460",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes croceus": {
+  "gbif": {
+   "key": 9784627,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes croceus Ping & Xu, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4D8",
+   "status": "accepted",
+   "label": "Reticulitermes croceus Ping & Xu, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105461",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes curticeps": {
+  "gbif": {
+   "key": 9760081,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes curticeps Yang, Zhu & Huang, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SCW",
+   "status": "accepted",
+   "label": "Reticulitermes curticeps Yang, Zhu & Huang, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105462",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes curvatus": {
+  "gbif": {
+   "key": 9661534,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes curvatus Hsia & Fan, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SD8",
+   "status": "accepted",
+   "label": "Reticulitermes curvatus Hsia & Fan, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105464",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes cymbidii": {
+  "gbif": {
+   "key": 9741081,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes cymbidii Ping & Xu, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "794CW",
+   "status": "accepted",
+   "label": "Reticulitermes cymbidii Ping & Xu, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105465",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes dabieshanensis": {
+  "gbif": {
+   "key": 9672440,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes dabieshanensis Wang & Li, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "794D8",
+   "status": "accepted",
+   "label": "Reticulitermes dabieshanensis Wang & Li, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105466",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes dantuensis": {
+  "gbif": {
+   "key": 9730090,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes dantuensis Gao & Zhu, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSCZ",
+   "status": "accepted",
+   "label": "Reticulitermes dantuensis Gao & Zhu, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105467",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes dayongensis": {
+  "gbif": {
+   "key": 9652762,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes dayongensis (Zhu, Huang & Wang, 1993)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4CZ",
+   "status": "accepted",
+   "label": "Reticulitermes dayongensis (Zhu, Huang & Wang, 1993)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105468",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes dinghuensis": {
+  "gbif": {
+   "key": 9690436,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes dinghuensis Ping, Zhu & Li, 1980",
+   "accepted": null
+  },
+  "col": {
+   "id": "794CZ",
+   "status": "accepted",
+   "label": "Reticulitermes dinghuensis Ping, Zhu & Li, 1980",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105470",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes emei": {
+  "gbif": {
+   "key": 9654766,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes emei Gao, Zhu, Gong & Han, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4CY",
+   "status": "accepted",
+   "label": "Reticulitermes emei Gao, Zhu, Gong & Han, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105471",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes fengduensis": {
+  "gbif": {
+   "key": 9780684,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes fengduensis Ping & Chen, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SCY",
+   "status": "accepted",
+   "label": "Reticulitermes fengduensis Ping & Chen, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105472",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes flaviceps": {
+  "gbif": {
+   "key": 5888472,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes flaviceps (Oshima, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "794CY",
+   "status": "accepted",
+   "label": "Reticulitermes flaviceps (Oshima, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q114661162",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes flavipes": {
+  "gbif": {
+   "key": 2007366,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes flavipes (Kollar, 1837)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSDC",
+   "status": "accepted",
+   "label": "Reticulitermes flavipes (Kollar, 1837)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q1499375",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes fukienensis": {
+  "gbif": {
+   "key": 9802605,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes fukienensis Light, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SDC",
+   "status": "accepted",
+   "label": "Reticulitermes fukienensis Light, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105473",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes fulvimarginalis": {
+  "gbif": {
+   "key": 9704411,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes fulvimarginalis Wang & Li, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "794DC",
+   "status": "accepted",
+   "label": "Reticulitermes fulvimarginalis Wang & Li, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105474",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes ganga": {
+  "gbif": {
+   "key": 9677917,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes ganga Bose, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSDB",
+   "status": "accepted",
+   "label": "Reticulitermes ganga Bose, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105475",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes gaoshi": {
+  "gbif": {
+   "key": 9748638,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes gaoshi Li & Ma, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4DB",
+   "status": "accepted",
+   "label": "Reticulitermes gaoshi Li & Ma, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105476",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes gaoyaoensis": {
+  "gbif": {
+   "key": 9742906,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes gaoyaoensis Tsai & Li, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SDB",
+   "status": "accepted",
+   "label": "Reticulitermes gaoyaoensis Tsai & Li, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105477",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes grandis": {
+  "gbif": {
+   "key": 9711359,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes grandis Hsia & Fan, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "794DB",
+   "status": "accepted",
+   "label": "Reticulitermes grandis Hsia & Fan, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105478",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes grassei": {
+  "gbif": {
+   "key": 4513999,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes grassei Clément, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSDD",
+   "status": "accepted",
+   "label": "Reticulitermes grassei Clément, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q50399432",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes guangzhouensis": {
+  "gbif": {
+   "key": 9689726,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes guangzhouensis Ping, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4DD",
+   "status": "accepted",
+   "label": "Reticulitermes guangzhouensis Ping, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105479",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes guilinensis": {
+  "gbif": {
+   "key": 9815061,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes guilinensis Li & Xiao, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SDD",
+   "status": "accepted",
+   "label": "Reticulitermes guilinensis Li & Xiao, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105480",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes guiyangensis": {
+  "gbif": {
+   "key": 9696670,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes guiyangensis He & Qui, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "794DD",
+   "status": "accepted",
+   "label": "Reticulitermes guiyangensis He & Qui, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105481",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes guizhouensis": {
+  "gbif": {
+   "key": 9779942,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes guizhouensis Ping & Xu, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSDG",
+   "status": "accepted",
+   "label": "Reticulitermes guizhouensis Ping & Xu, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105482",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes gulinensis": {
+  "gbif": {
+   "key": 9779575,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes gulinensis Gao, Pan, Ma & Shi, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4DG",
+   "status": "accepted",
+   "label": "Reticulitermes gulinensis Gao, Pan, Ma & Shi, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105483",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes hageni": {
+  "gbif": {
+   "key": 2007371,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes hageni Banks, 1920",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SDG",
+   "status": "accepted",
+   "label": "Reticulitermes hageni Banks, 1920",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582611",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes hainanensis": {
+  "gbif": {
+   "key": 9807704,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes hainanensis Tsai & Huang, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "794DG",
+   "status": "accepted",
+   "label": "Reticulitermes hainanensis Tsai & Huang, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105484",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes hesperus": {
+  "gbif": {
+   "key": 2007369,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes hesperus Banks, 1920",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4DF",
+   "status": "accepted",
+   "label": "Reticulitermes hesperus Banks, 1920",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582614",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes huangi": {
+  "gbif": {
+   "key": 9704060,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes huangi Krishna, 2013",
+   "accepted": null
+  },
+  "col": {
+   "id": "794DF",
+   "status": "accepted",
+   "label": "Reticulitermes huangi Krishna, 2013",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105485",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes huapingensis": {
+  "gbif": {
+   "key": 9749679,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes huapingensis Li, 1980",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSDH",
+   "status": "accepted",
+   "label": "Reticulitermes huapingensis Li, 1980",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105486",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes hubeiensis": {
+  "gbif": {
+   "key": 9723712,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes hubeiensis Ping & Huang, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4DH",
+   "status": "accepted",
+   "label": "Reticulitermes hubeiensis Ping & Huang, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105487",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes hunanensis": {
+  "gbif": {
+   "key": 9713415,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes hunanensis Tsai & Peng, 1980",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SDH",
+   "status": "accepted",
+   "label": "Reticulitermes hunanensis Tsai & Peng, 1980",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105488",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes hypsofrons": {
+  "gbif": {
+   "key": 9774826,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes hypsofrons Ping & Li, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "794DH",
+   "status": "accepted",
+   "label": "Reticulitermes hypsofrons Ping & Li, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105489",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes jiangchengensis": {
+  "gbif": {
+   "key": 9753276,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes jiangchengensis Yang, Zhu & Huang, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSDK",
+   "status": "accepted",
+   "label": "Reticulitermes jiangchengensis Yang, Zhu & Huang, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105490",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes kanmonensis": {
+  "gbif": {
+   "key": 9706848,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes kanmonensis Takematsu, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4DK",
+   "status": "accepted",
+   "label": "Reticulitermes kanmonensis Takematsu, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q124096037",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes labralis": {
+  "gbif": {
+   "key": 9800054,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes labralis Hsia & Fan, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SDK",
+   "status": "accepted",
+   "label": "Reticulitermes labralis Hsia & Fan, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105491",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes largus": {
+  "gbif": {
+   "key": 9654448,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes largus Li & Ma, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "794DK",
+   "status": "accepted",
+   "label": "Reticulitermes largus Li & Ma, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105492",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes latilabris": {
+  "gbif": {
+   "key": 9647633,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes latilabris Ping, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSDJ",
+   "status": "accepted",
+   "label": "Reticulitermes latilabris Ping, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105493",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes leiboensis": {
+  "gbif": {
+   "key": 9668746,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes leiboensis Gao & Xia, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SDJ",
+   "status": "accepted",
+   "label": "Reticulitermes leiboensis Gao & Xia, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105494",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes leigongshanensis": {
+  "gbif": {
+   "key": 9663568,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes leigongshanensis (Zhu, Huang, Wang & Han, 1993)",
+   "accepted": null
+  },
+  "col": {
+   "id": "794DJ",
+   "status": "accepted",
+   "label": "Reticulitermes leigongshanensis (Zhu, Huang, Wang & Han, 1993)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105495",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes leptogulus": {
+  "gbif": {
+   "key": 9800788,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes leptogulus Ping & Xu, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSDM",
+   "status": "accepted",
+   "label": "Reticulitermes leptogulus Ping & Xu, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105496",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes leptomandibularis": {
+  "gbif": {
+   "key": 9668042,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes leptomandibularis Hsia & Fan, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4DM",
+   "status": "accepted",
+   "label": "Reticulitermes leptomandibularis Hsia & Fan, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105497",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes levatoriceps": {
+  "gbif": {
+   "key": 9765404,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes levatoriceps He & Qui, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SDM",
+   "status": "accepted",
+   "label": "Reticulitermes levatoriceps He & Qui, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105498",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes lianchengensis": {
+  "gbif": {
+   "key": 9781744,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes lianchengensis Li & Ma, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "794DM",
+   "status": "accepted",
+   "label": "Reticulitermes lianchengensis Li & Ma, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105499",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes lii": {
+  "gbif": {
+   "key": 9721537,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes lii Ping & Huang, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSDL",
+   "status": "accepted",
+   "label": "Reticulitermes lii Ping & Huang, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105500",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes lingulatus": {
+  "gbif": {
+   "key": 9752546,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes lingulatus Ping, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4DL",
+   "status": "accepted",
+   "label": "Reticulitermes lingulatus Ping, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105501",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes longicephalus": {
+  "gbif": {
+   "key": 9694954,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes longicephalus Tsai & Chen, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SDL",
+   "status": "accepted",
+   "label": "Reticulitermes longicephalus Tsai & Chen, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105502",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes longigulus": {
+  "gbif": {
+   "key": 9728326,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes longigulus Ping & Li, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "794DL",
+   "status": "accepted",
+   "label": "Reticulitermes longigulus Ping & Li, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105503",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes longipennis": {
+  "gbif": {
+   "key": 9714169,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes longipennis Wang & Li, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSDN",
+   "status": "accepted",
+   "label": "Reticulitermes longipennis Wang & Li, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105504",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes lucifugus": {
+  "gbif": {
+   "key": 4514005,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes lucifugus Rossi, 1792",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4DN",
+   "status": "accepted",
+   "label": "Reticulitermes lucifugus Rossi, 1792",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q3933745",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes lucifugus corsicus": {
+  "gbif": {
+   "key": 9735774,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Reticulitermes lucifugus corsicus Clément, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2LMX",
+   "status": "accepted",
+   "label": "Reticulitermes lucifugus corsicus Clément, 1977",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes lucifugus lucifugus": {
+  "gbif": {
+   "key": 9819875,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Reticulitermes lucifugus lucifugus Rossi, 1792",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2LMY",
+   "status": "accepted",
+   "label": "Reticulitermes lucifugus lucifugus Rossi, 1792",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes lucifugus siculus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes lucifugus Rossi, 1792",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CJQ7L",
+   "status": "accepted",
+   "label": "Reticulitermes lucifugus siculus Ghesini, Luchetti & Marini, 2024",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes luofunicus": {
+  "gbif": {
+   "key": 9737520,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes luofunicus Zhu, Ma & Li, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SDN",
+   "status": "accepted",
+   "label": "Reticulitermes luofunicus Zhu, Ma & Li, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105505",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes magdalenae": {
+  "gbif": {
+   "key": 9812487,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes magdalenae (Bathellier, 1927)",
+   "accepted": null
+  },
+  "col": {
+   "id": "794DN",
+   "status": "accepted",
+   "label": "Reticulitermes magdalenae (Bathellier, 1927)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105506",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes majiangensis": {
+  "gbif": {
+   "key": 9727950,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes majiangensis (Zhu, Huang & Wang, 1993)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSDQ",
+   "status": "accepted",
+   "label": "Reticulitermes majiangensis (Zhu, Huang & Wang, 1993)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105507",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes malletei": {
+  "gbif": {
+   "key": 9703339,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes malletei Howard & Clément, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4DQ",
+   "status": "accepted",
+   "label": "Reticulitermes malletei Howard & Clément, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105508",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes mangshanensis": {
+  "gbif": {
+   "key": 9716289,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes mangshanensis (Li & Ping, 1983)",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SDQ",
+   "status": "accepted",
+   "label": "Reticulitermes mangshanensis (Li & Ping, 1983)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105509",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes maopingensis": {
+  "gbif": {
+   "key": 9675208,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes maopingensis (Zhu, Huang & Wang, 1993)",
+   "accepted": null
+  },
+  "col": {
+   "id": "794DQ",
+   "status": "accepted",
+   "label": "Reticulitermes maopingensis (Zhu, Huang & Wang, 1993)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105510",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes microcephalus": {
+  "gbif": {
+   "key": 9698780,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes microcephalus Zhu, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSDP",
+   "status": "accepted",
+   "label": "Reticulitermes microcephalus Zhu, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q22108234",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes minutus": {
+  "gbif": {
+   "key": 9754298,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes minutus Ping & Xu, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SDP",
+   "status": "accepted",
+   "label": "Reticulitermes minutus Ping & Xu, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105511",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes mirogulus": {
+  "gbif": {
+   "key": 9747891,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes mirogulus He & Qui, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "794DP",
+   "status": "accepted",
+   "label": "Reticulitermes mirogulus He & Qui, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105512",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes mirus": {
+  "gbif": {
+   "key": 9745769,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes mirus Gao, Zhu & Zhao, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSG6",
+   "status": "accepted",
+   "label": "Reticulitermes mirus Gao, Zhu & Zhao, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105513",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes miyatakei": {
+  "gbif": {
+   "key": 9667047,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes miyatakei Morimoto, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4G6",
+   "status": "accepted",
+   "label": "Reticulitermes miyatakei Morimoto, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105514",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes nanjiangensis": {
+  "gbif": {
+   "key": 9684130,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes nanjiangensis Chen & Ping, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SG6",
+   "status": "accepted",
+   "label": "Reticulitermes nanjiangensis Chen & Ping, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105515",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes nelsonae": {
+  "gbif": {
+   "key": 9757216,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes nelsonae Lim & Forschler, 2012",
+   "accepted": null
+  },
+  "col": {
+   "id": "794G6",
+   "status": "accepted",
+   "label": "Reticulitermes nelsonae Lim & Forschler, 2012",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130239701",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes neochinensis": {
+  "gbif": {
+   "key": 9805504,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes neochinensis Li & Huang, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4FT",
+   "status": "accepted",
+   "label": "Reticulitermes neochinensis Li & Huang, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105516",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes okinawanus": {
+  "gbif": {
+   "key": 9791938,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes okinawanus Morimoto, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSFT",
+   "status": "accepted",
+   "label": "Reticulitermes okinawanus Morimoto, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q129910961",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes oocephalus": {
+  "gbif": {
+   "key": 9658814,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes oocephalus Ping & Li, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSG5",
+   "status": "accepted",
+   "label": "Reticulitermes oocephalus Ping & Li, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105517",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes oreophilus": {
+  "gbif": {
+   "key": 9678602,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes oreophilus (Ping & Li, 1983)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4G5",
+   "status": "accepted",
+   "label": "Reticulitermes oreophilus (Ping & Li, 1983)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105518",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes ovatilabrum": {
+  "gbif": {
+   "key": 9673157,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes ovatilabrum Xia & Fan, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SFT",
+   "status": "accepted",
+   "label": "Reticulitermes ovatilabrum Xia & Fan, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105519",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes paralucifugus": {
+  "gbif": {
+   "key": 9732889,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes paralucifugus Ping & Zhang, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SG5",
+   "status": "accepted",
+   "label": "Reticulitermes paralucifugus Ping & Zhang, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105520",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes parvus": {
+  "gbif": {
+   "key": 9702345,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes parvus Li, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "794FT",
+   "status": "accepted",
+   "label": "Reticulitermes parvus Li, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105521",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes perangustus": {
+  "gbif": {
+   "key": 9708568,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes perangustus Gao, Shi & Zhu, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "794G5",
+   "status": "accepted",
+   "label": "Reticulitermes perangustus Gao, Shi & Zhu, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105522",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes periflaviceps": {
+  "gbif": {
+   "key": 9736490,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes periflaviceps Ping & Xu, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4FW",
+   "status": "accepted",
+   "label": "Reticulitermes periflaviceps Ping & Xu, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105523",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes perilabralis": {
+  "gbif": {
+   "key": 9747528,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes perilabralis Ping & Xu, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSFW",
+   "status": "accepted",
+   "label": "Reticulitermes perilabralis Ping & Xu, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105524",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes perilucifugus": {
+  "gbif": {
+   "key": 9711716,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes perilucifugus Ping, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSG8",
+   "status": "accepted",
+   "label": "Reticulitermes perilucifugus Ping, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105525",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes pingjiangensis": {
+  "gbif": {
+   "key": 9760805,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes pingjiangensis Tsai & Peng, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4G8",
+   "status": "accepted",
+   "label": "Reticulitermes pingjiangensis Tsai & Peng, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105526",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes planifrons": {
+  "gbif": {
+   "key": 9755427,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes planifrons Li & Ping, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SFW",
+   "status": "accepted",
+   "label": "Reticulitermes planifrons Li & Ping, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105527",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes planimentus": {
+  "gbif": {
+   "key": 9661876,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes planimentus (Zhu, Huang & Wang, 1993)",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SG8",
+   "status": "accepted",
+   "label": "Reticulitermes planimentus (Zhu, Huang & Wang, 1993)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105528",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes pseudaculabialis": {
+  "gbif": {
+   "key": 9677571,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes pseudaculabialis Gao, Pan, Ma & Shi, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "794G8",
+   "status": "accepted",
+   "label": "Reticulitermes pseudaculabialis Gao, Pan, Ma & Shi, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105529",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes qingdaoensis": {
+  "gbif": {
+   "key": 9687657,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes qingdaoensis Li & Ma, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4FV",
+   "status": "accepted",
+   "label": "Reticulitermes qingdaoensis Li & Ma, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105530",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes qingjiangensis": {
+  "gbif": {
+   "key": 9807340,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes qingjiangensis Gao & Wang, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSFV",
+   "status": "accepted",
+   "label": "Reticulitermes qingjiangensis Gao & Wang, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105531",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes rectis": {
+  "gbif": {
+   "key": 9660831,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes rectis Xia & Fan, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSG7",
+   "status": "accepted",
+   "label": "Reticulitermes rectis Xia & Fan, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105533",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes rusti": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Reticulitermes Holmgren, 1913",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V9QPM",
+   "status": "accepted",
+   "label": "Reticulitermes rusti Chen, 2025",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q136907777",
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes saraswati": {
+  "gbif": {
+   "key": 9750406,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes saraswati Roonwal & Chhotani, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4G7",
+   "status": "accepted",
+   "label": "Reticulitermes saraswati Roonwal & Chhotani, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105534",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes setosus": {
+  "gbif": {
+   "key": 9767549,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes setosus Li & Xiao, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SFV",
+   "status": "accepted",
+   "label": "Reticulitermes setosus Li & Xiao, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105535",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes solidimandibulas": {
+  "gbif": {
+   "key": 9773047,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes solidimandibulas (Li & Xiao, 1989)",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SG7",
+   "status": "accepted",
+   "label": "Reticulitermes solidimandibulas (Li & Xiao, 1989)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105536",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes speratus": {
+  "gbif": {
+   "key": 8796429,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes speratus (Kolbe, 1885)",
+   "accepted": null
+  },
+  "col": {
+   "id": "794FV",
+   "status": "accepted",
+   "label": "Reticulitermes speratus (Kolbe, 1885)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q5977511",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes speratus kyushuensis": {
+  "gbif": {
+   "key": 9810259,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Reticulitermes speratus kyushuensis Morimoto, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2LN5",
+   "status": "accepted",
+   "label": "Reticulitermes speratus kyushuensis Morimoto, 1968",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "wd": "Q135913123",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes speratus leptolabralis": {
+  "gbif": {
+   "key": 9694242,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Reticulitermes speratus leptolabralis Morimoto, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2LN6",
+   "status": "accepted",
+   "label": "Reticulitermes speratus leptolabralis Morimoto, 1968",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes speratus speratus": {
+  "gbif": {
+   "key": 9776975,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Reticulitermes speratus speratus (Kolbe, 1885)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2LN7",
+   "status": "accepted",
+   "label": "Reticulitermes speratus speratus (Kolbe, 1885)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes subligulosus": {
+  "gbif": {
+   "key": 9819115,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes subligulosus Ping & Xu, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "794G7",
+   "status": "accepted",
+   "label": "Reticulitermes subligulosus Ping & Xu, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105537",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes sublongicapitatus": {
+  "gbif": {
+   "key": 9665949,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes sublongicapitatus Ping, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSFY",
+   "status": "accepted",
+   "label": "Reticulitermes sublongicapitatus Ping, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105538",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes sylvestris": {
+  "gbif": {
+   "key": 9683146,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes sylvestris Ping & Xu, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4FY",
+   "status": "accepted",
+   "label": "Reticulitermes sylvestris Ping & Xu, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105539",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes testudineus": {
+  "gbif": {
+   "key": 9818058,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes testudineus Li & Ping, 1981",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SFY",
+   "status": "accepted",
+   "label": "Reticulitermes testudineus Li & Ping, 1981",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105540",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes tianpingshanensis": {
+  "gbif": {
+   "key": 9785421,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes tianpingshanensis Zhu & Huang, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "794FY",
+   "status": "accepted",
+   "label": "Reticulitermes tianpingshanensis Zhu & Huang, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105541",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes tibetanus": {
+  "gbif": {
+   "key": 9725443,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes tibetanus (Huang & Han, 1988)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSFX",
+   "status": "accepted",
+   "label": "Reticulitermes tibetanus (Huang & Han, 1988)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105542",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes tibialis": {
+  "gbif": {
+   "key": 2007370,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes tibialis Banks, 1920",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSG9",
+   "status": "accepted",
+   "label": "Reticulitermes tibialis Banks, 1920",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582613",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes tirapi": {
+  "gbif": {
+   "key": 9734693,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes tirapi Chhotani & Das, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4FX",
+   "status": "accepted",
+   "label": "Reticulitermes tirapi Chhotani & Das, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105543",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes translucens": {
+  "gbif": {
+   "key": 9723341,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes translucens Ping & Xu, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4G9",
+   "status": "accepted",
+   "label": "Reticulitermes translucens Ping & Xu, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105544",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes trichocephalus": {
+  "gbif": {
+   "key": 9717987,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes trichocephalus Ping, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SFX",
+   "status": "accepted",
+   "label": "Reticulitermes trichocephalus Ping, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105545",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes tricholabralis": {
+  "gbif": {
+   "key": 9706143,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes tricholabralis Ping & Li, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SG9",
+   "status": "accepted",
+   "label": "Reticulitermes tricholabralis Ping & Li, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105546",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes trichothorax": {
+  "gbif": {
+   "key": 9685905,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes trichothorax Ping & Xu, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "794FX",
+   "status": "accepted",
+   "label": "Reticulitermes trichothorax Ping & Xu, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105547",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes tricolorus": {
+  "gbif": {
+   "key": 9673512,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes tricolorus Ping & Li, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "794G9",
+   "status": "accepted",
+   "label": "Reticulitermes tricolorus Ping & Li, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105548",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes urbis": {
+  "gbif": {
+   "key": 4514001,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes urbis Bagnères, Uva & Clément, 2003",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSFZ",
+   "status": "accepted",
+   "label": "Reticulitermes urbis Bagnères, Uva & Clément, 2003",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q50399434",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes virginicus": {
+  "gbif": {
+   "key": 2007367,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes virginicus (Banks, 1907)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4FZ",
+   "status": "accepted",
+   "label": "Reticulitermes virginicus (Banks, 1907)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582610",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes wugangensis": {
+  "gbif": {
+   "key": 9735424,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes wugangensis Huang & Yin, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SFZ",
+   "status": "accepted",
+   "label": "Reticulitermes wugangensis Huang & Yin, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105549",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes wugongensis": {
+  "gbif": {
+   "key": 9697030,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes wugongensis Li & Huang, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "794FZ",
+   "status": "accepted",
+   "label": "Reticulitermes wugongensis Li & Huang, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105550",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes wuyishanensis": {
+  "gbif": {
+   "key": 9817264,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes wuyishanensis Li & Huang, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSGB",
+   "status": "accepted",
+   "label": "Reticulitermes wuyishanensis Li & Huang, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105551",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes xingshanensis": {
+  "gbif": {
+   "key": 9790145,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes xingshanensis Ping & Liu, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4GB",
+   "status": "accepted",
+   "label": "Reticulitermes xingshanensis Ping & Liu, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105552",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes xingyiensis": {
+  "gbif": {
+   "key": 9766455,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes xingyiensis Ping & Xu, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SGB",
+   "status": "accepted",
+   "label": "Reticulitermes xingyiensis Ping & Xu, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105553",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes yaeyamanus": {
+  "gbif": {
+   "key": 9670782,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes yaeyamanus Morimoto, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "794GB",
+   "status": "accepted",
+   "label": "Reticulitermes yaeyamanus Morimoto, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q129910894",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes yinae": {
+  "gbif": {
+   "key": 9804749,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes yinae (Zhu, Huang & Li, 1987)",
+   "accepted": null
+  },
+  "col": {
+   "id": "9H6JF",
+   "status": "accepted",
+   "label": "Reticulitermes yinae (Zhu, Huang & Li, 1987)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105554",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes yingdeensis": {
+  "gbif": {
+   "key": 9812114,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes yingdeensis Tsai & Li, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4GD",
+   "status": "accepted",
+   "label": "Reticulitermes yingdeensis Tsai & Li, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105555",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes yizhangensis": {
+  "gbif": {
+   "key": 9720814,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes yizhangensis Huang & Tong, 1980",
+   "accepted": null
+  },
+  "col": {
+   "id": "78SGD",
+   "status": "accepted",
+   "label": "Reticulitermes yizhangensis Huang & Tong, 1980",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105556",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes yongdingensis": {
+  "gbif": {
+   "key": 9799684,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes yongdingensis Ping, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "794GD",
+   "status": "accepted",
+   "label": "Reticulitermes yongdingensis Ping, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105557",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes yunsiensis": {
+  "gbif": {
+   "key": 9770105,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes yunsiensis (Li & Huang, 1986)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6WSGC",
+   "status": "accepted",
+   "label": "Reticulitermes yunsiensis (Li & Huang, 1986)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105558",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Reticulitermes zhaoi": {
+  "gbif": {
+   "key": 9759728,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Reticulitermes zhaoi Ping & Li, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "6X4GC",
+   "status": "accepted",
+   "label": "Reticulitermes zhaoi Ping & Li, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q131105559",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

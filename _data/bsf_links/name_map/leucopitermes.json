@@ -1,0 +1,46 @@
+{
+ "Leucopitermes leucopiformis": {
+  "label": "Leucopitermes leucopiformis Akhtar & Pervez, 1986",
+  "match": "exact",
+  "notes": "",
+  "otu": 84528,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84528/overview",
+  "valid_label": null,
+  "valid_otu": 84528,
+  "verified": false
+ },
+ "Leucopitermes leucops": {
+  "label": "Leucopitermes leucops (Holmgren, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84529,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84529/overview",
+  "valid_label": null,
+  "valid_otu": 84529,
+  "verified": false
+ },
+ "Leucopitermes paraleucops": {
+  "label": "Leucopitermes paraleucops Morimoto, 1976",
+  "match": "exact",
+  "notes": "",
+  "otu": 84530,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84530/overview",
+  "valid_label": null,
+  "valid_otu": 84530,
+  "verified": false
+ },
+ "Leucopitermes thoi": {
+  "label": "Leucopitermes thoi Gathorne-Hardy, 2004",
+  "match": "exact",
+  "notes": "",
+  "otu": 84531,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84531/overview",
+  "valid_label": null,
+  "valid_otu": 84531,
+  "verified": false
+ }
+}

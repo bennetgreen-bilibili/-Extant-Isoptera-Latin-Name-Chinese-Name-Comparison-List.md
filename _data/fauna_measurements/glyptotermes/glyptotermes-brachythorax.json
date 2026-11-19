@@ -1,0 +1,116 @@
+{
+ "book_n": "15",
+ "book_name": "短胸树白蚁 Glyptotermes brachythorax",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "短胸树白蚊兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "2.43",
+     "value": "2.24–2.52"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.03",
+     "value": "1.00–1.07"
+    },
+    {
+     "key": "head_height",
+     "mean": "0.93",
+     "value": "0.90–0.95"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.22",
+     "value": "0.20–0.23"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.28",
+     "value": "0.26–0.28"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.39",
+     "value": "0.36–0.41"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.19",
+     "value": "0.18–0.20"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.46",
+     "value": "0.43–0.48"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.93",
+     "value": "0.87–0.98"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.66",
+     "value": "0.61–0.71"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 236,
+   "unit": "mm"
+  },
+  {
+   "caste": "alate",
+   "heading": "短胸树白蚊脱翅成虫量度",
+   "label_en": "Dealate measurements",
+   "label_es": "Medidas de dealado",
+   "label_zh": "脱翅成虫量度",
+   "rows": [
+    {
+     "key": "forewing_scale_length",
+     "value": "0.79–0.99"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "value": "1.04–1.12"
+    },
+    {
+     "key": "eye_long_diameter",
+     "value": "0.29–0.33"
+    },
+    {
+     "key": "eye_short_diameter",
+     "value": "0.23–0.28"
+    },
+    {
+     "key": "ocellus_long_diameter",
+     "value": "0.10–0.11"
+    },
+    {
+     "key": "ocellus_short_diameter",
+     "value": "0.06–0.08"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.56–0.66"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.03–1.10"
+    },
+    {
+     "key": "hind_tibia_length",
+     "value": "0.88–1.00"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 249,
+   "unit": "mm"
+  }
+ ]
+}

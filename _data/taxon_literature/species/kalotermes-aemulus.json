@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "西澳新种与巢群结构",
+   "heading_en": "A new species from Western Australia and its colony structure",
+   "heading_es": "Una especie nueva de Australia Occidental y la estructura de sus colonias",
+   "paragraphs": [
+    {
+     "src": [
+      "S0334"
+     ],
+     "text": "根据 Sewell 与 Gay（1978）研究，竞争木白蚁（<i>Kalotermes aemulus</i>）据西澳大利亚标本描述为新种，是该属在西澳的第二个种；两种兵蚁的体型变异都很大、不能用于区分，但比例显示颚形有明确鉴别差异，竞争木白蚁（<i>Kalotermes aemulus</i>）的端齿短于希尔木白蚁（<i>Kalotermes hilli</i>）。该种分布比希尔木白蚁（<i>Kalotermes hilli</i>）更广，伸入西南部更热更干的地区；巢群规模中位数约 430 头，兵蚁平均占 9.3%（据摘要）。",
+     "text_en": "According to Sewell and Gay (1978), <i>Kalotermes aemulus</i> is described as a new species from Western Australia and is the second species of the genus in that state; the size of the soldier is highly variable in both species and provides no clear discrimination, but ratios indicate distinct diagnostic differences in mandible shape, the apical tooth of <i>Kalotermes aemulus</i> being shorter than that of <i>Kalotermes hilli</i>. The species has a wider distribution than <i>Kalotermes hilli</i> and extends into the hotter, drier areas of the south-west; the median colony size is about 430 individuals and soldiers make up 9.3 per cent on average (according to the abstract).",
+     "text_es": "Según Sewell y Gay (1978), <i>Kalotermes aemulus</i> se describe como especie nueva de Australia Occidental y es la segunda especie del género en ese estado; el tamaño del soldado es muy variable en ambas especies y no permite discriminarlas, pero las proporciones indican diferencias diagnósticas claras en la forma de la mandíbula, con el diente apical de <i>Kalotermes aemulus</i> más corto que el de <i>Kalotermes hilli</i>. La especie tiene una distribución más amplia que <i>Kalotermes hilli</i> y penetra en las zonas más cálidas y secas del suroeste; el tamaño mediano de las colonias es de unos 430 individuos y los soldados representan el 9.3 por ciento en promedio (según el resumen)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0334",
+   "citation": "Sewell, J. J.; Gay, F. J. 1978. The genus Kalotermes Hagen in Western Australia (Isoptera: Kalotermitidae). Australian Journal of Entomology.",
+   "url": "https://doi.org/10.1111/j.1440-6055.1978.tb01743.x"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "latin": "Globitermes",
+ "zh": "球白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Globitermes Holmgren, 1912a: 92 [first introduced as a subgenus of Hamitermes Silvestri, 1903].",
+ "type_species": "Termes globosus Haviland, 1898 by subsequent designation, see Snyder, 1949a: 129.",
+ "references": [
+  {
+   "ref": "Haviland, 1898: 378, 405",
+   "note": "Termes “section with T. sulphureus for type”; characters; key."
+  },
+  {
+   "ref": "Bathellier, 1927: 164",
+   "note": "Hamitermes (Globitermes); characters."
+  },
+  {
+   "ref": "Snyder, 1934a: 26, 28",
+   "note": "Amitermes (Globitermes); key."
+  },
+  {
+   "ref": "Lal and Menon, 1953: 37, 40",
+   "note": "Hamitermes (Globitermes); catalog; reference list; key."
+  },
+  {
+   "ref": "Ahmad, 1958: 85, 91",
+   "note": "Globitermes; key."
+  },
+  {
+   "ref": "Tsai and Chen, 1964b: 72",
+   "note": "Globitermes; key; characters."
+  },
+  {
+   "ref": "Ahmad, 1965: 7, 8",
+   "note": "Globitermes; key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 29",
+   "note": "Globitermes; key."
+  }
+ ],
+ "nrefs": 24
+}

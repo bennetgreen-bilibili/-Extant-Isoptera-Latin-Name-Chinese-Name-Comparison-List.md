@@ -1,0 +1,24 @@
+{
+ "Aganotermes oryctes": {
+  "gbif": {
+   "key": 9726256,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Aganotermes oryctes Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "65LCC",
+   "status": "accepted",
+   "label": "Aganotermes oryctes Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225291",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "Emersonitermes thekadensis": {
+  "gbif": {
+   "key": 9670490,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Emersonitermes thekadensis Mathur & Sen-Sarma, 1959",
+   "accepted": null
+  },
+  "col": {
+   "id": "39GMD",
+   "status": "accepted",
+   "label": "Emersonitermes thekadensis Mathur & Sen-Sarma, 1959",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140225317",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

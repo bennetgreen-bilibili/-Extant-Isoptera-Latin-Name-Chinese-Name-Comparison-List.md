@@ -1,7 +1,7 @@
 {%- comment -%}
   把当前页 URL 的语言前缀（/en、/es）去掉，结果写进 `path_no_lang`。
-  站内按「中文页 URL」建键的数据（_data/ 里的 fauna_*、morphology_*、taxon_literature…）
-  与 hreflang、语言切换器都用这个键，所以外文页必须先还原成无前缀形式。
+  hreflang、语言切换器与站内链接都用这个无前缀 URL；`_data/` 分片数据的键不再用整条 URL，
+  而是 `page.genus_id`（属 id）＋ 页面 URL 最后一段（slug），见 _tools/data_shards.md §3。
 
   **不要**再写成 `page.url | remove_first: '/en' | remove_first: '/es'`：
   `remove_first` 剥的是整条 URL 里**第一个**出现的 "/en"，并不锚定在开头。
@@ -14,7 +14,7 @@
   调用方先 include 本文件，再把 path_no_lang assign 到自己的变量名，例如：
 
       {%- include lang-path.html -%}
-      {%- assign lit_key = path_no_lang -%}
+      {%- assign _slug = path_no_lang | split: '/' | last -%}
 {%- endcomment -%}
 {%- assign _lp_segs = page.url | split: '/' -%}
 {%- assign path_no_lang = page.url -%}

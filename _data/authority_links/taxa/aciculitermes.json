@@ -1,0 +1,46 @@
+{
+ "Aciculitermes aciculatus": {
+  "gbif": {
+   "key": 9667980,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Aciculitermes aciculatus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "64HR2",
+   "status": "accepted",
+   "label": "Aciculitermes aciculatus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234472",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Aciculitermes maymyoensis": {
+  "gbif": {
+   "key": 9753343,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Aciculitermes maymyoensis Krishna, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "64HQT",
+   "status": "accepted",
+   "label": "Aciculitermes maymyoensis Krishna, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234476",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

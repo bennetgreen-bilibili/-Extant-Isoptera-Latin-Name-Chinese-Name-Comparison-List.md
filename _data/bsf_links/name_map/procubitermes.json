@@ -1,0 +1,101 @@
+{
+ "Procubitermes aburiensis": {
+  "label": "Procubitermes aburiensis Sjöstedt, 1926",
+  "match": "exact",
+  "notes": "",
+  "otu": 85126,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85126/overview",
+  "valid_label": null,
+  "valid_otu": 85126,
+  "verified": false
+ },
+ "Procubitermes arboricola": {
+  "label": "Procubitermes arboricola (Sjöstedt, 1897)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85127,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85127/overview",
+  "valid_label": null,
+  "valid_otu": 85127,
+  "verified": false
+ },
+ "Procubitermes curvatus": {
+  "label": "Procubitermes curvatus Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 85128,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85128/overview",
+  "valid_label": null,
+  "valid_otu": 85128,
+  "verified": false
+ },
+ "Procubitermes niapuensis": {
+  "label": "Procubitermes niapuensis (Emerson, 1928)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85129,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85129/overview",
+  "valid_label": null,
+  "valid_otu": 85129,
+  "verified": false
+ },
+ "Procubitermes sinuosus": {
+  "label": "Procubitermes sinuosus Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 85130,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85130/overview",
+  "valid_label": null,
+  "valid_otu": 85130,
+  "verified": false
+ },
+ "Procubitermes sjostedti": {
+  "label": "Procubitermes sjostedti (Rosen, 1912)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85131,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85131/overview",
+  "valid_label": null,
+  "valid_otu": 85131,
+  "verified": false
+ },
+ "Procubitermes ueleensis": {
+  "label": "Procubitermes ueleensis Sjöstedt, 1924",
+  "match": "exact",
+  "notes": "",
+  "otu": 85132,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85132/overview",
+  "valid_label": null,
+  "valid_otu": 85132,
+  "verified": false
+ },
+ "Procubitermes undulans": {
+  "label": "Procubitermes undulans Schmitz, 1917",
+  "match": "exact",
+  "notes": "",
+  "otu": 85133,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85133/overview",
+  "valid_label": null,
+  "valid_otu": 85133,
+  "verified": false
+ },
+ "Procubitermes wasmanni": {
+  "label": "Procubitermes wasmanni (Emerson, 1928)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85134,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85134/overview",
+  "valid_label": null,
+  "valid_otu": 85134,
+  "verified": false
+ }
+}

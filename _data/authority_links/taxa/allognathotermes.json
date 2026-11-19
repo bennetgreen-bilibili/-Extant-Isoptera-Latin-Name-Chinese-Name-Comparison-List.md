@@ -1,0 +1,68 @@
+{
+ "Allognathotermes aburiensis": {
+  "gbif": {
+   "key": 9777825,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Allognathotermes aburiensis (Sjöstedt, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "BWNZ",
+   "status": "accepted",
+   "label": "Allognathotermes aburiensis (Sjöstedt, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234541",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Allognathotermes hypogeus": {
+  "gbif": {
+   "key": 9725386,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Allognathotermes hypogeus Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "BWP2",
+   "status": "accepted",
+   "label": "Allognathotermes hypogeus Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234542",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Allognathotermes ivorensis": {
+  "gbif": {
+   "key": 9695024,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Allognathotermes ivorensis Noirot & Grassé, 1955",
+   "accepted": null
+  },
+  "col": {
+   "id": "BWP3",
+   "status": "accepted",
+   "label": "Allognathotermes ivorensis Noirot & Grassé, 1955",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234543",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

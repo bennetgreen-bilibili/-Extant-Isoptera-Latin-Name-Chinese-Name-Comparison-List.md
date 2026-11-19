@@ -1,0 +1,81 @@
+{
+ "Ancistrotermes latinotus": [
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/598959369/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/598959369/medium.jpg",
+   "width": 1024,
+   "height": 740,
+   "credit": "iNaturalist observer myrmecophil",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://www.inaturalist.org/observations/330323061"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/598959286/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/598959286/medium.jpg",
+   "width": 1024,
+   "height": 768,
+   "credit": "iNaturalist observer myrmecophil",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://www.inaturalist.org/observations/330323061"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/333758645/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/333758645/medium.jpg",
+   "width": 1024,
+   "height": 1024,
+   "credit": "(c) Alan Manson, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/190398453"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/333758685/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/333758685/medium.jpg",
+   "width": 610,
+   "height": 1024,
+   "credit": "(c) Alan Manson, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/190398453"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/333758686/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/333758686/medium.jpg",
+   "width": 1024,
+   "height": 1024,
+   "credit": "(c) Alan Manson, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/190398453"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/333758665/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/333758665/medium.jpg",
+   "width": 1024,
+   "height": 930,
+   "credit": "(c) Alan Manson, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/190398453"
+  },
+  {
+   "source": "inaturalist",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/333758681/large.jpg",
+   "thumb": "https://inaturalist-open-data.s3.amazonaws.com/photos/333758681/medium.jpg",
+   "width": 1024,
+   "height": 1024,
+   "credit": "(c) Alan Manson, some rights reserved (CC BY)",
+   "license": "CC BY",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://www.inaturalist.org/observations/190398453"
+  }
+ ]
+}

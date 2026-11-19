@@ -1,0 +1,24 @@
+{
+ "Rhadinotermes coarctatus": {
+  "gbif": {
+   "key": 9755283,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Rhadinotermes coarctatus (Sjöstedt, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4RY84",
+   "status": "accepted",
+   "label": "Rhadinotermes coarctatus (Sjöstedt, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084313",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Tuberculitermes bycanistes": {
+  "label": "Tuberculitermes bycanistes (Sjöstedt, 1905)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85865,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85865/overview",
+  "valid_label": null,
+  "valid_otu": 85865,
+  "verified": false
+ },
+ "Tuberculitermes flexuosus": {
+  "label": "Tuberculitermes flexuosus Roy-Noël, 1969",
+  "match": "exact",
+  "notes": "",
+  "otu": 85866,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85866/overview",
+  "valid_label": null,
+  "valid_otu": 85866,
+  "verified": false
+ },
+ "Tuberculitermes guineensis": {
+  "label": "Tuberculitermes guineensis Silvestri, 1914",
+  "match": "exact",
+  "notes": "",
+  "otu": 85867,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85867/overview",
+  "valid_label": null,
+  "valid_otu": 85867,
+  "verified": false
+ }
+}

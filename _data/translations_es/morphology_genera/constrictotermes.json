@@ -1,0 +1,17 @@
+{
+ "note": "Subgénero establecido por Holmgren 1912 dentro de Eutermes, catalogado como el subgénero número 14, que incluye cavifrons Holmgren (Surinam), cyphergaster Silvestri y latinotus Holmgren (Ecuador). El original de 1912 solo ofrece la entrada de la clave y la lista de subgéneros, sin caracteres genéricos de obrero, por lo que no se incluye un apartado de obrero. La «posición en la clave» del apartado del alado se refiere a la rama de la clave, no a una descripción completa.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "La cápsula cefálica del soldado presenta una marcada constricción en forma de mancuerna por detrás de las fosas antenales; el perfil dorsal de la cabeza por delante de la depresión es solo ligeramente más largo que por detrás de ella; el nasus es relativamente corto y cónico; las antenas tienen 14–15 segmentos. Esta combinación basta para separarlo de Coarctotermes (nasus largo, grueso y cónico, antenas de 12–13(–14) segmentos, parte anterior de la cabeza mucho más larga que la posterior), Tenuirostritermes (nasus fino y cilíndrico, antenas de 11–13 segmentos) y Grallatotermes (nasus corto y muy anchamente cónico, cabeza no constreñida en forma de mancuerna por detrás de las antenas). El alado, en cambio, se distingue por la cabeza anchamente ovalada, claramente estrechada hacia delante y con el occipucio aplanado y redondeado, junto con ojos compuestos pequeños y muy prominentes y un clípeo del mismo color que la frente o solo ligeramente más claro, de Velocitermes y Tenuirostritermes (cabeza ovalada, occipucio desarrollado)."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza anchamente ovalada, con la parte anterior claramente estrechada y el occipucio aplanado, redondeado y suave; ojos compuestos situados en los lados de la cabeza, relativamente pequeños y muy prominentes; clípeo más corto que su semianchura o aproximadamente igual a ella, del mismo color que la frente o solo algo más claro; segmentos antenales ligeramente alargados; pronoto relativamente grande. En la clave del original, este género se sitúa junto con Rotunditermes (ojos muy grandes) y Diversitermes (ojos de tamaño medio) en una rama definida por «primer diente mandibular aproximadamente tan largo como el segundo y clípeo igual o algo más corto que la semianchura»."
+  },
+  {
+   "label": "Soldado",
+   "text": "Pertenece al grupo Constrictus, con una sola forma de soldado. La cápsula cefálica presenta una constricción en forma de mancuerna por detrás de las fosas antenales; el perfil dorsal de la cabeza es solo algo más largo por delante de la depresión que por detrás, y la depresión misma es fuerte y nítida; nasus relativamente corto, cónico; antenas de 14–15 segmentos."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "zh_name": "薄嘴白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁单一型，上颚具端突，头壳在触角窝后呈哑铃状缢缩，鼻窄圆柱形，触角 11–12 节，头侧轮廓在凹陷之前远长于其后（Tafel III, Fig. 26）。与 Constrictotermes 的区别在于凹陷前头侧轮廓远长于后（后者仅稍长），与 Cephalotermes 的区别在于鼻窄而不呈长粗锥形。Holmgren 认为本属是 Velocitermes 向 Constrictotermes 过渡的中间环节：其兵蚁相当于 Velocitermes 的大兵蚁（亦即 Diversitermes 的中兵蚁），小型兵蚁已消失。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "上颚具端突；单一兵蚁型；鼻锥形至圆柱形，绝不很宽；触角 11–12 节；头壳在触角窝后哑铃状缢缩；头侧轮廓在凹陷之前远长于其后；鼻窄圆柱形。"
+  }
+ ],
+ "note": "原文有翅成虫检索表中归于本属的那条对句（位于 Velocitermes 与 Constrictotermes 之间）在 OCR 文本中整段缺失，仅存属名，故不设有翅成虫段；p. 71 的系统学讨论给出其与 Velocitermes、Constrictotermes 的关系，已写入鉴别要点。工蚁在检索表中仅有一条前唇基基节比例，未构成描述，故也不设工蚁段。",
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren, N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar, 48(4): 59–62, 68–72.",
+   "locator": "p. 61（兵蚁检索表 dd/e/f），p. 71（系统学讨论）"
+  }
+ ]
+}

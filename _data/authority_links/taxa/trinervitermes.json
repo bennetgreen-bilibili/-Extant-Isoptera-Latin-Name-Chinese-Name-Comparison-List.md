@@ -1,0 +1,464 @@
+{
+ "Trinervitermes arabiae": {
+  "gbif": {
+   "key": 9770570,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes arabiae Harris, 1957",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VGL",
+   "status": "accepted",
+   "label": "Trinervitermes arabiae Harris, 1957",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073724",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes bettonianus": {
+  "gbif": {
+   "key": 9695418,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes bettonianus (Sjöstedt, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VGM",
+   "status": "accepted",
+   "label": "Trinervitermes bettonianus (Sjöstedt, 1905)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073723",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes biformis": {
+  "gbif": {
+   "key": 9656042,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes biformis (Wasmann, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VGN",
+   "status": "accepted",
+   "label": "Trinervitermes biformis (Wasmann, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30687019",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes dispar": {
+  "gbif": {
+   "key": 9676355,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes dispar (Sjöstedt, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VGQ",
+   "status": "accepted",
+   "label": "Trinervitermes dispar (Sjöstedt, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073722",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes disparatus": {
+  "gbif": {
+   "key": 9674752,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes disparatus (Bathellier, 1927)",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VGR",
+   "status": "accepted",
+   "label": "Trinervitermes disparatus (Bathellier, 1927)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073721",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes fletcheri": {
+  "gbif": {
+   "key": 9756764,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes fletcheri Thakur & Chatterjee, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VGS",
+   "status": "accepted",
+   "label": "Trinervitermes fletcheri Thakur & Chatterjee, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073720",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes geminatus": {
+  "gbif": {
+   "key": 9664707,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes geminatus (Wasmann, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VGT",
+   "status": "accepted",
+   "label": "Trinervitermes geminatus (Wasmann, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073719",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes gratiosus": {
+  "gbif": {
+   "key": 9732455,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes gratiosus (Sjöstedt, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7CSY7",
+   "status": "accepted",
+   "label": "Trinervitermes gratiosus (Sjöstedt, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073718",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes indicus": {
+  "gbif": {
+   "key": 9784157,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes indicus (Snyder, 1934)",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VGW",
+   "status": "accepted",
+   "label": "Trinervitermes indicus (Snyder, 1934)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073717",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes nigrirostris": {
+  "gbif": {
+   "key": 9663133,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes nigrirostris Sen-Sarma & Mathur, 1959",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VGX",
+   "status": "accepted",
+   "label": "Trinervitermes nigrirostris Mathur & Sen-Sarma, 1959",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q128840124",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes occidentalis": {
+  "gbif": {
+   "key": 9816771,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes occidentalis (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VGY",
+   "status": "accepted",
+   "label": "Trinervitermes occidentalis (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073716",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes oeconomus": {
+  "gbif": {
+   "key": 9705699,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes oeconomus (Trägårdh, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VGZ",
+   "status": "accepted",
+   "label": "Trinervitermes oeconomus (Trägårdh, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073715",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes rabidus": {
+  "gbif": {
+   "key": 9701150,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes rabidus (Hagen, 1859)",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VH2",
+   "status": "accepted",
+   "label": "Trinervitermes rabidus (Hagen, 1859)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073714",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes rapulum": {
+  "gbif": {
+   "key": 9657594,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes rapulum (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VH3",
+   "status": "accepted",
+   "label": "Trinervitermes rapulum (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073713",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes rhodesiensis": {
+  "gbif": {
+   "key": 9693796,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes rhodesiensis (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VH4",
+   "status": "accepted",
+   "label": "Trinervitermes rhodesiensis (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073712",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes saudiensis": {
+  "gbif": {
+   "key": 9712974,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes saudiensis Sands, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VH5",
+   "status": "accepted",
+   "label": "Trinervitermes saudiensis Sands, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073711",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes sensarmai": {
+  "gbif": {
+   "key": 9788960,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes sensarmai Bose, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VH6",
+   "status": "accepted",
+   "label": "Trinervitermes sensarmai Bose, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073710",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes sudanicus": {
+  "gbif": {
+   "key": 9707301,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes sudanicus (Sjöstedt, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VH7",
+   "status": "accepted",
+   "label": "Trinervitermes sudanicus (Sjöstedt, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073709",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes togoensis": {
+  "gbif": {
+   "key": 9776505,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes togoensis (Sjöstedt, 1899)",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VH8",
+   "status": "accepted",
+   "label": "Trinervitermes togoensis (Sjöstedt, 1899)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073708",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes trinervius": {
+  "gbif": {
+   "key": 9778235,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes trinervius (Rambur, 1842)",
+   "accepted": null
+  },
+  "col": {
+   "id": "58VH9",
+   "status": "accepted",
+   "label": "Trinervitermes trinervius (Rambur, 1842)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073707",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Trinervitermes trinervoides": {
+  "gbif": {
+   "key": 9738715,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Trinervitermes trinervoides (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7CT9V",
+   "status": "accepted",
+   "label": "Trinervitermes trinervoides (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q4051770",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

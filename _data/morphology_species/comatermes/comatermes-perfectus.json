@@ -1,0 +1,25 @@
+{
+ "zh_name": "完美毛白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "单型属；有翅成虫翅脉似 Paraneotermes 与 Ceratokalotermes，但头和前胸背板具极长、细而略波状的毛；兵蚁与 Ceratokalotermes 的区别是后者头前背面有两个明显叶、前胸背板前缘隆起且深凹，与 Paraneotermes 的区别是后者上颚短而强。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "深褐色；头和前胸背板具极长、细、略波状的毛；眼小，径 0.29–0.31 mm，单眼接触复眼；触角 14 节；左上颚第一、二缘齿后缘与第三缘齿前缘等长；前胸背板宽于头；径分脉 9–10 支；中脉骨化较径分脉弱，与径分脉间多横脉；爪间突存在。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头通常长，有时同种具长头与短头两型；头背腹扁；额中央凹，前部凹入，前背面具两个弱隆起；眼无色；触角 13–14 节，第三节不特化，与第二节等长；上颚强，相对头长较短；前胸背板与头等宽，前缘浅而宽凹；腿节膨大。"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。",
+ "sources": [
+  {
+   "id": "S0021",
+   "citation": "Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.",
+   "locator": "pp. 341–343"
+  }
+ ]
+}

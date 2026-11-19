@@ -1,0 +1,38 @@
+{
+ "latin": "Tucupitermes",
+ "zh": "黄汁白蚁属",
+ "fetched_at": "2026-10-30T16:54:49Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W4410198156",
+   "openalex_url": "https://openalex.org/W4410198156",
+   "doi": "10.11646/zootaxa.5633.1.11",
+   "doi_url": "https://doi.org/10.11646/zootaxa.5633.1.11",
+   "title": "Tucupitermes, the largest Apicotermitinae (Isoptera, Termitidae) from the Amazon Rainforest",
+   "year": 2025,
+   "date": "2025-05-08",
+   "authors": [
+    "Rayssa ALMEIDA-AZEVEDO",
+    "Agno Nonato Serrão Acioli",
+    "Raphael Aquino Heleodoro",
+    "José Wellington de Morais",
+    "George Gardner Brown",
+    "Peter Kille",
+    "LUIS CUNHA",
+    "Renato Almeida de Azevedo"
+   ],
+   "venue": "Zootaxa",
+   "type": "article",
+   "language": "en",
+   "cited_by": 2,
+   "oa_url": "http://publication.plazi.org/id/FFE39D11EF79654BB65E77276C4C8A1D",
+   "volume": "5633",
+   "issue": "1",
+   "pages": "186-194",
+   "abstract": "Soldierless termites of the Apicotermitinae remain one of the least studied groups in termite taxonomy, particularly within the Amazon Rainforest, a biodiversity hotspot. This study introduces Tucupitermes ubixaba Almeida-Azevedo, Acioli & Azevedo gen. et sp. nov., the largest Apicotermitinae in the Amazon Rainforest and a new monotypic genus distinguished by unique morphological traits, including an elongated stomodeal valve, Malpighian ampullae developed, a long mesenteric tongue, and small bilobed seating. These features were documented through detailed analyses of the external and internal morphology of the worker caste. The discovery of this genus not only fills a critical gap in the taxonomy of Apicotermitinae but also provides new insights into the diversity and ecological adaptations of soldierless termites in the Amazon.",
+   "abstract_source": "openalex",
+   "abstract_chars": 841,
+   "abstract_truncated": false
+  }
+ ]
+}

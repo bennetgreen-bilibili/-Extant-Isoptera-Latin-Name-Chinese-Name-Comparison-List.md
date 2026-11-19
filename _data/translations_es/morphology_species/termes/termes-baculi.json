@@ -1,0 +1,17 @@
+{
+ "note": "Adaptado de la descripción de la especie de Sjöstedt (1900); el original está en alemán. El alado figura como desconocido en el original y no se describe ninguna ninfa; las medidas de longitud total y de cabeza con mandíbulas del soldado, y de longitud del cuerpo y anchura de la cabeza del obrero, están incompletas en el texto escaneado y no se registran, mientras que se omiten los números de figura, las localidades y los registros de recolección.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Cabeza rectangular, lados rectos y ángulos redondeados en vista dorsal, rojo-amarilla; frente que se proyecta hacia delante y hacia arriba en un proceso muy agudo y setoso. Mandíbulas de forma peculiar, estrechas, en forma de varilla, sin dientes, casi rectas en vista dorsal, generalmente cruzadas, situadas por delante del ápice de la lingua; mandíbulas algo más largas que la cabeza, curvadas hacia abajo, algo más anchas en el tercio externo, anchas en la base y ahuecadas por encima; su ápice muy corto, curvado hacia dentro. Antenas que sobrepasan ligeramente el ápice de las mandíbulas, amarillo pálido con anillos claros, de 14 segmentos, gradualmente más largas hacia el ápice; segmento basal grueso, más largo que los dos segmentos siguientes juntos, segmentos 3 y 4 pequeños. Fosetas antenales grandes. Labro rectangular, con una pequeña proyección aguda en cada ángulo anterior. Pronoto más estrecho que la cabeza, margen anterior ligeramente cóncavo en el medio; lóbulos anterior y posterior de longitud aproximadamente igual."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza pequeña, amarillo pálido; cuerpo alargado, muy transparente en alcohol; frente por detrás del labro blanca; cabeza con una fina línea blanca que va del centro a las fosetas antenales y al occipucio. Primer diente de la mandíbula derecha evidente pero poco mayor que el segundo; primer diente de la mandíbula izquierda solo algo mayor, tercer diente que se proyecta como una pequeña punta, cuarto diente aproximadamente del tamaño del primero y redondeado en el ápice. Antenas de 14 segmentos, segmentos 3 y 4 de longitud aproximadamente igual y más cortos que los segmentos adyacentes. Margen anterior del pronoto en arco suave, no cóncavo en el medio."
+  },
+  {
+   "label": "Otros",
+   "text": "Se encontraron soldados y obreros junto con soldados y obreros de Eutermes fuscotibialis en madera en descomposición."
+  }
+ ]
+}

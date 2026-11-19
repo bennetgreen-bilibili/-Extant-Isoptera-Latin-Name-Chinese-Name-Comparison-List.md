@@ -1,0 +1,178 @@
+{
+ "Cylindrotermes brevipilosus": {
+  "gbif": {
+   "key": 8932175,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cylindrotermes brevipilosus Snyder, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "334D7",
+   "status": "accepted",
+   "label": "Cylindrotermes brevipilosus Snyder, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237657",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cylindrotermes caata": {
+  "gbif": {
+   "key": 9760333,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cylindrotermes caata Cancello & Da Rocha, 2007",
+   "accepted": null
+  },
+  "col": {
+   "id": "334D8",
+   "status": "accepted",
+   "label": "Cylindrotermes caata Da Rocha & Cancello, 2007",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237659",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cylindrotermes capixaba": {
+  "gbif": {
+   "key": 9678139,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cylindrotermes capixaba Cancello & Da Rocha, 2007",
+   "accepted": null
+  },
+  "col": {
+   "id": "334D9",
+   "status": "accepted",
+   "label": "Cylindrotermes capixaba Da Rocha & Cancello, 2007",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237660",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cylindrotermes flangiatus": {
+  "gbif": {
+   "key": 9742621,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cylindrotermes flangiatus Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "6BSYQ",
+   "status": "accepted",
+   "label": "Cylindrotermes flangiatus Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237661",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cylindrotermes macrognathus": {
+  "gbif": {
+   "key": 9002583,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cylindrotermes macrognathus Snyder, 1929",
+   "accepted": null
+  },
+  "col": {
+   "id": "334DB",
+   "status": "accepted",
+   "label": "Cylindrotermes macrognathus Snyder, 1929",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237662",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cylindrotermes nordenskioldi": {
+  "gbif": {
+   "key": 9691930,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cylindrotermes nordenskioldi Holmgren, 1906",
+   "accepted": null
+  },
+  "col": {
+   "id": "334DC",
+   "status": "accepted",
+   "label": "Cylindrotermes nordenskioldi Holmgren, 1906",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237663",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cylindrotermes parvignathus": {
+  "gbif": {
+   "key": 9013595,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cylindrotermes parvignathus Emerson, 1949",
+   "accepted": null
+  },
+  "col": {
+   "id": "334DD",
+   "status": "accepted",
+   "label": "Cylindrotermes parvignathus Emerson, 1949",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237664",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cylindrotermes sapiranga": {
+  "gbif": {
+   "key": 9774568,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cylindrotermes sapiranga Cancello & Da Rocha, 2007",
+   "accepted": null
+  },
+  "col": {
+   "id": "6BSZ2",
+   "status": "accepted",
+   "label": "Cylindrotermes sapiranga Da Rocha & Cancello, 2007",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237665",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,7 +1,7 @@
 name: Crawl species photos
 
 # 线上循环爬取：每天定时 + 手动触发。
-# 每一轮由 --round-budget 限时，_data/species_photos.json 本身就是断点缓存，
+# 每一轮由 --round-budget 限时，_data/species_photos/ 本身就是断点缓存，
 # 没抓完的物种下一次运行接着抓，不需要从头开始。
 # 照片许可白名单见 _tools/图片授权与署名说明.md（CC0 / CC BY / CC BY-SA / 公有领域）。
 
@@ -82,13 +82,13 @@ jobs:
         id: commit
         if: always() && steps.validate.outcome == 'success'
         run: |
-          if git diff --quiet -- _data/species_photos.json; then
+          if git diff --quiet -- _data/species_photos; then
             echo "no photo changes to commit"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add _data/species_photos.json
+          git add _data/species_photos
           git commit -m "data(photos): 自动循环补抓开放许可图片（含公有领域）"
           echo "changed=true" >> "$GITHUB_OUTPUT"
           for attempt in 1 2 3; do

@@ -1,0 +1,23 @@
+{
+ "latin": "Tetimatermes",
+ "zh": "足白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Tetimatermes Fontes, 1986: 286–289.",
+ "type_species": "Tetimatermes oliveirae Fontes, 1986 by original designation.",
+ "references": [
+  {
+   "ref": "Fontes, 1992: 245, 248",
+   "note": "Tetimatermes; key; distribution."
+  },
+  {
+   "ref": "Constantino, 1999a: 398, 412",
+   "note": "Tetimatermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 26",
+   "note": "Tetimatermes; key."
+  }
+ ],
+ "nrefs": 6
+}

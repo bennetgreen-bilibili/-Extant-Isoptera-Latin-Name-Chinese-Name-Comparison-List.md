@@ -1,0 +1,17 @@
+{
+ "note": "Emerson 1960 describe el alado, el soldado y el obrero de este género; aquí solo se recogen los caracteres diagnósticos de nivel genérico, omitiéndose las medidas y la pilosidad de nivel específico.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Cabeza anchamente oval, de superficie lisa, con finas estrías solo alrededor de la fontanela; fontanela alargada, situada en una depresión corta y estrecha de la superficie cefálica; vértice uniforme y suavemente convexo entre los ocelos; ojos compuestos más bien planos y de tamaño mediano, situados a una distancia del borde inferior de la cabeza algo menor que un tercio de su diámetro."
+  },
+  {
+   "label": "Soldado",
+   "text": "Labro grande, con lóbulos laterales bifurcados y algo estrechos, de extremo redondeado o ligeramente truncado, que sobresale de los dientes marginales de las mandíbulas cuando se proyecta; el borde anterior del labro es profundamente cóncavo: el nombre del género deriva precisamente de este labro bifurcado."
+  },
+  {
+   "label": "Obrero",
+   "text": "El diente apical de las mandíbulas es relativamente grande; el segundo diente marginal de la mandíbula derecha desaparece; entre los géneros afines, este patrón solo se asemeja al de Euchilotermes, Ophiotermes, Tuberculitermes y Spinitermes."
+  }
+ ]
+}

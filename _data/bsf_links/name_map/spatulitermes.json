@@ -1,0 +1,13 @@
+{
+ "Spatulitermes coolingi": {
+  "label": "Spatulitermes coolingi Coaton, 1971",
+  "match": "exact",
+  "notes": "",
+  "otu": 84885,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84885/overview",
+  "valid_label": null,
+  "valid_otu": 84885,
+  "verified": false
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "Incolitermes pumilus": {
+  "gbif": {
+   "key": 4803398,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Incolitermes pumilus (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3PLG6",
+   "status": "accepted",
+   "label": "Incolitermes pumilus (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q111594010",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

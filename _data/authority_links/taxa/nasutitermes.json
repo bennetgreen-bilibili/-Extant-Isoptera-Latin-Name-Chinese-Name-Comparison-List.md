@@ -1,0 +1,5521 @@
+{
+ "Nasutitermes acajutlae": {
+  "gbif": {
+   "key": 9235750,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes acajutlae (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SV5",
+   "status": "accepted",
+   "label": "Nasutitermes acajutlae (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747568",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes acangussu": {
+  "gbif": {
+   "key": 9542283,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes acangussu Bandeira & Fontes, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SV6",
+   "status": "accepted",
+   "label": "Nasutitermes acangussu Bandeira & Fontes, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747569",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes acutus": {
+  "gbif": {
+   "key": 9712710,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes acutus (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SV7",
+   "status": "accepted",
+   "label": "Nasutitermes acutus (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747570",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes aduncus": {
+  "gbif": {
+   "key": 8724063,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes aduncus Snyder, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SV8",
+   "status": "accepted",
+   "label": "Nasutitermes aduncus Snyder, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747571",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes alticola": {
+  "gbif": {
+   "key": 9748261,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes alticola (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SV9",
+   "status": "accepted",
+   "label": "Nasutitermes alticola (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747572",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes amboinensis": {
+  "gbif": {
+   "key": 9649647,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes amboinensis (Kemner, 1931)",
+   "accepted": null
+  },
+  "col": {
+   "id": "74639",
+   "status": "accepted",
+   "label": "Nasutitermes amboinensis (Kemner, 1931)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747573",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes anamalaiensis": {
+  "gbif": {
+   "key": 8911224,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes anamalaiensis Snyder, 1933",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVC",
+   "status": "accepted",
+   "label": "Nasutitermes anamalaiensis Snyder, 1933",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747574",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes anjiensis": {
+  "gbif": {
+   "key": 9678230,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes anjiensis Gao & Guo, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVD",
+   "status": "accepted",
+   "label": "Nasutitermes anjiensis Gao & Guo, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747575",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes anoniensis": {
+  "gbif": {
+   "key": 9796368,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes anoniensis Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S5QW",
+   "status": "accepted",
+   "label": "Nasutitermes anoniensis Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747576",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes aquilinus": {
+  "gbif": {
+   "key": 9668371,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes aquilinus (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVF",
+   "status": "accepted",
+   "label": "Nasutitermes aquilinus (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747577",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes araujoi": {
+  "gbif": {
+   "key": 9736146,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes araujoi Roonwal & Rathore, 1976",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVG",
+   "status": "accepted",
+   "label": "Nasutitermes araujoi Roonwal & Rathore, 1976",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747579",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes arborum": {
+  "gbif": {
+   "key": 9766145,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes arborum (Smeathman, 1781)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVH",
+   "status": "accepted",
+   "label": "Nasutitermes arborum (Smeathman, 1781)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747580",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes arenarius": {
+  "gbif": {
+   "key": 9758697,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes arenarius (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVJ",
+   "status": "accepted",
+   "label": "Nasutitermes arenarius (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747581",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes aruensis": {
+  "gbif": {
+   "key": 9750030,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes aruensis (John, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVK",
+   "status": "accepted",
+   "label": "Nasutitermes aruensis (John, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747582",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes atripennis": {
+  "gbif": {
+   "key": 9684478,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes atripennis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVL",
+   "status": "accepted",
+   "label": "Nasutitermes atripennis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747583",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes aurantius": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 95,
+   "rank": "GENUS",
+   "name": "Nasutitermes Dudley, 1890",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "V7FXH",
+   "status": "accepted",
+   "label": "Nasutitermes aurantius Scheffrahn, 2025",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes balingtauagensis": {
+  "gbif": {
+   "key": 9712735,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes balingtauagensis (Oshima, 1917)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVM",
+   "status": "accepted",
+   "label": "Nasutitermes balingtauagensis (Oshima, 1917)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747584",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes banksi": {
+  "gbif": {
+   "key": 9617652,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes banksi Emerson, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVN",
+   "status": "accepted",
+   "label": "Nasutitermes banksi Emerson, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747585",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes bannaensis": {
+  "gbif": {
+   "key": 9660540,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes bannaensis Li, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVP",
+   "status": "accepted",
+   "label": "Nasutitermes bannaensis Li, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747586",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes bashanensis": {
+  "gbif": {
+   "key": 9672810,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes bashanensis Zhang, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVQ",
+   "status": "accepted",
+   "label": "Nasutitermes bashanensis Zhang, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747587",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes benjamini": {
+  "gbif": {
+   "key": 9763955,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes benjamini Snyder, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVR",
+   "status": "accepted",
+   "label": "Nasutitermes benjamini Snyder, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747588",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes bikpelanus": {
+  "gbif": {
+   "key": 9667741,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes bikpelanus Roisin & Pasteels, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVS",
+   "status": "accepted",
+   "label": "Nasutitermes bikpelanus Roisin & Pasteels, 1996",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747589",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes bivalens": {
+  "gbif": {
+   "key": 9772644,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes bivalens (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVT",
+   "status": "accepted",
+   "label": "Nasutitermes bivalens (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747590",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes boengiensis": {
+  "gbif": {
+   "key": 9788681,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes boengiensis (Kemner, 1934)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RTQW",
+   "status": "accepted",
+   "label": "Nasutitermes boengiensis (Kemner, 1934)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747591",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes boetoni": {
+  "gbif": {
+   "key": 9811718,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes boetoni (Oshima, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVV",
+   "status": "accepted",
+   "label": "Nasutitermes boetoni (Oshima, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747592",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes bolivari": {
+  "gbif": {
+   "key": 9721188,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes bolivari (Snyder, 1959)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVW",
+   "status": "accepted",
+   "label": "Nasutitermes bolivari (Snyder, 1959)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747593",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes bolivianus": {
+  "gbif": {
+   "key": 9743645,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes bolivianus (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVX",
+   "status": "accepted",
+   "label": "Nasutitermes bolivianus (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747594",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes brachynasutus": {
+  "gbif": {
+   "key": 9741813,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes brachynasutus Morimoto, 1973",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SVY",
+   "status": "accepted",
+   "label": "Nasutitermes brachynasutus Morimoto, 1973",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747595",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes brevioculatus": {
+  "gbif": {
+   "key": 9647979,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes brevioculatus (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SW2",
+   "status": "accepted",
+   "label": "Nasutitermes brevioculatus (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747596",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes brevirostris": {
+  "gbif": {
+   "key": 9805131,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes brevirostris (Oshima, 1917)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SW4",
+   "status": "accepted",
+   "label": "Nasutitermes brevirostris (Oshima, 1917)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747598",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes brunneus": {
+  "gbif": {
+   "key": 9218694,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes brunneus Snyder, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SW5",
+   "status": "accepted",
+   "label": "Nasutitermes brunneus Snyder, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747599",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes bulbiceps": {
+  "gbif": {
+   "key": 9137642,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes bulbiceps (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SW6",
+   "status": "accepted",
+   "label": "Nasutitermes bulbiceps (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747600",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes bulbus": {
+  "gbif": {
+   "key": 9794481,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes bulbus Tsai & Huang, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SW7",
+   "status": "accepted",
+   "label": "Nasutitermes bulbus Tsai & Huang, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747601",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes callimorphus": {
+  "gbif": {
+   "key": 9536773,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes callimorphus Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SW8",
+   "status": "accepted",
+   "label": "Nasutitermes callimorphus Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747602",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes camerunensis": {
+  "gbif": {
+   "key": 9710986,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes camerunensis (Sjöstedt, 1899)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SW9",
+   "status": "accepted",
+   "label": "Nasutitermes camerunensis (Sjöstedt, 1899)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747603",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes carnarvonensis": {
+  "gbif": {
+   "key": 5815214,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes carnarvonensis (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RTR8",
+   "status": "accepted",
+   "label": "Nasutitermes carnarvonensis (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q111797819",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes castaneus": {
+  "gbif": {
+   "key": 9659506,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes castaneus (Oshima, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWB",
+   "status": "accepted",
+   "label": "Nasutitermes castaneus (Oshima, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747604",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes celebensis": {
+  "gbif": {
+   "key": 9740735,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes celebensis (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWC",
+   "status": "accepted",
+   "label": "Nasutitermes celebensis (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747605",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes centraliensis": {
+  "gbif": {
+   "key": 5815223,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes centraliensis (Hill, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWD",
+   "status": "accepted",
+   "label": "Nasutitermes centraliensis (Hill, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q111797820",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes ceylonicus": {
+  "gbif": {
+   "key": 9013018,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes ceylonicus (Holmgren, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S5R8",
+   "status": "accepted",
+   "label": "Nasutitermes ceylonicus (Holmgren, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591984",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes changningensis": {
+  "gbif": {
+   "key": 9722968,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes changningensis (Gao, 1988)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWF",
+   "status": "accepted",
+   "label": "Nasutitermes changningensis (Gao, 1988)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747606",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes chapmani": {
+  "gbif": {
+   "key": 9183081,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes chapmani Light & Wilson, 1936",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWG",
+   "status": "accepted",
+   "label": "Nasutitermes chapmani Light & Wilson, 1936",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747607",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes chaquimayensis": {
+  "gbif": {
+   "key": 9657826,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes chaquimayensis (Holmgren, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWH",
+   "status": "accepted",
+   "label": "Nasutitermes chaquimayensis (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747608",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes cherraensis": {
+  "gbif": {
+   "key": 9763971,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes cherraensis Roonwal & Chhotani, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWJ",
+   "status": "accepted",
+   "label": "Nasutitermes cherraensis Roonwal & Chhotani, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747609",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes chhotanii": {
+  "gbif": {
+   "key": 9657845,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes chhotanii Bose, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWK",
+   "status": "accepted",
+   "label": "Nasutitermes chhotanii Bose, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747610",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes choui": {
+  "gbif": {
+   "key": 9744294,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes choui Ping & Xu, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWL",
+   "status": "accepted",
+   "label": "Nasutitermes choui Ping & Xu, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747611",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes chrysopleura": {
+  "gbif": {
+   "key": 9740716,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes chrysopleura (Sjöstedt, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWM",
+   "status": "accepted",
+   "label": "Nasutitermes chrysopleura (Sjöstedt, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747612",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes coalescens": {
+  "gbif": {
+   "key": 5815218,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes coalescens (Mjöberg, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWN",
+   "status": "accepted",
+   "label": "Nasutitermes coalescens (Mjöberg, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q111797821",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes colimae": {
+  "gbif": {
+   "key": 5152439,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes colimae Light, 1933",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWP",
+   "status": "accepted",
+   "label": "Nasutitermes colimae Light, 1933",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582505",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes communis": {
+  "gbif": {
+   "key": 9800399,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes communis Tsai & Chen, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWQ",
+   "status": "accepted",
+   "label": "Nasutitermes communis Tsai & Chen, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747613",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes comorensis": {
+  "gbif": {
+   "key": 8913171,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes comorensis (Wasmann, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWR",
+   "status": "accepted",
+   "label": "Nasutitermes comorensis (Wasmann, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747615",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes comstockae": {
+  "gbif": {
+   "key": 8892188,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes comstockae Emerson, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWS",
+   "status": "accepted",
+   "label": "Nasutitermes comstockae Emerson, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747617",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes corniger": {
+  "gbif": {
+   "key": 5152433,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes corniger (Motschulsky, 1855)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWT",
+   "status": "accepted",
+   "label": "Nasutitermes corniger (Motschulsky, 1855)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q6967778",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes corporaali": {
+  "gbif": {
+   "key": 9796342,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes corporaali (Wasmann, 1922)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S62W",
+   "status": "accepted",
+   "label": "Nasutitermes corporaali (Wasmann, 1922)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747618",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes coxipoensis": {
+  "gbif": {
+   "key": 9129528,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes coxipoensis (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWW",
+   "status": "accepted",
+   "label": "Nasutitermes coxipoensis (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747619",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes crassicornis": {
+  "gbif": {
+   "key": 9022082,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes crassicornis (Holmgren & Holmgren, 1917)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWX",
+   "status": "accepted",
+   "label": "Nasutitermes crassicornis (Holmgren & Holmgren, 1917)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747620",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes crassus": {
+  "gbif": {
+   "key": 8863320,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes crassus Snyder, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SWY",
+   "status": "accepted",
+   "label": "Nasutitermes crassus Snyder, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747621",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes curtinasus": {
+  "gbif": {
+   "key": 9656185,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes curtinasus He, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "BDZ4V",
+   "status": "accepted",
+   "label": "Nasutitermes curtinasus He, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747622",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes dendrophilus": {
+  "gbif": {
+   "key": 8894212,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes dendrophilus (Desneux, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SX5",
+   "status": "accepted",
+   "label": "Nasutitermes dendrophilus (Desneux, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747624",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes devrayi": {
+  "gbif": {
+   "key": 9721164,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes devrayi Maiti & Chakraborty, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SX6",
+   "status": "accepted",
+   "label": "Nasutitermes devrayi Maiti & Chakraborty, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747625",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes diabolus": {
+  "gbif": {
+   "key": 9786144,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes diabolus (Sjöstedt, 1907)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SX7",
+   "status": "accepted",
+   "label": "Nasutitermes diabolus (Sjöstedt, 1907)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747626",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes dimorphus": {
+  "gbif": {
+   "key": 9775551,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes dimorphus Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SX8",
+   "status": "accepted",
+   "label": "Nasutitermes dimorphus Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747627",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes dixoni": {
+  "gbif": {
+   "key": 5815217,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes dixoni (Hill, 1932)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SX9",
+   "status": "accepted",
+   "label": "Nasutitermes dixoni (Hill, 1932)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q111797822",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes dobonensis": {
+  "gbif": {
+   "key": 9671772,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes dobonensis (Oshima, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S638",
+   "status": "accepted",
+   "label": "Nasutitermes dobonensis (Oshima, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747628",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes dolichorhinos": {
+  "gbif": {
+   "key": 9741398,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes dolichorhinos Ping & Xu, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SXB",
+   "status": "accepted",
+   "label": "Nasutitermes dolichorhinos Ping & Xu, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747629",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes dudgeoni": {
+  "gbif": {
+   "key": 9677253,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes dudgeoni Gao & Lam, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SXC",
+   "status": "accepted",
+   "label": "Nasutitermes dudgeoni Gao & Lam, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747630",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes dunensis": {
+  "gbif": {
+   "key": 9743621,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes dunensis Thakur & Chatterjee, 1969",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SXD",
+   "status": "accepted",
+   "label": "Nasutitermes dunensis Thakur & Chatterjee, 1969",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747631",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes ecuadorianus": {
+  "gbif": {
+   "key": 9727604,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes ecuadorianus (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73TQW",
+   "status": "accepted",
+   "label": "Nasutitermes ecuadorianus (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747632",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes ehrhardti": {
+  "gbif": {
+   "key": 8940330,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes ehrhardti (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SXF",
+   "status": "accepted",
+   "label": "Nasutitermes ehrhardti (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747634",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes elegantulus": {
+  "gbif": {
+   "key": 9689039,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes elegantulus (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SXJ",
+   "status": "accepted",
+   "label": "Nasutitermes elegantulus (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747635",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes emersoni": {
+  "gbif": {
+   "key": 9035915,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes emersoni Snyder, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SXK",
+   "status": "accepted",
+   "label": "Nasutitermes emersoni Snyder, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747636",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes ephratae": {
+  "gbif": {
+   "key": 5152437,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes ephratae (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SXL",
+   "status": "accepted",
+   "label": "Nasutitermes ephratae (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582507",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes eucalypti": {
+  "gbif": {
+   "key": 5815219,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes eucalypti (Mjöberg, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SXN",
+   "status": "accepted",
+   "label": "Nasutitermes eucalypti (Mjöberg, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q111797824",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes exitiosus": {
+  "gbif": {
+   "key": 5815215,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes exitiosus (Hill, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SXP",
+   "status": "accepted",
+   "label": "Nasutitermes exitiosus (Hill, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q18379312",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes fabricii": {
+  "gbif": {
+   "key": 9674487,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes fabricii Krishna, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SXQ",
+   "status": "accepted",
+   "label": "Nasutitermes fabricii Krishna, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747637",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes falciformis": {
+  "gbif": {
+   "key": 9746499,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes falciformis Ping & Xu, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SXR",
+   "status": "accepted",
+   "label": "Nasutitermes falciformis Ping & Xu, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747638",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes fengkaiensis": {
+  "gbif": {
+   "key": 9679269,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes fengkaiensis Li, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SXS",
+   "status": "accepted",
+   "label": "Nasutitermes fengkaiensis Li, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747639",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes ferranti": {
+  "gbif": {
+   "key": 9703041,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes ferranti (Wasmann, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SXT",
+   "status": "accepted",
+   "label": "Nasutitermes ferranti (Wasmann, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747640",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes feytaudi": {
+  "gbif": {
+   "key": 9748280,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes feytaudi (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "73TR8",
+   "status": "accepted",
+   "label": "Nasutitermes feytaudi (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747641",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes fletcheri": {
+  "gbif": {
+   "key": 8873367,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes fletcheri (Holmgren & Holmgren, 1917)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SXV",
+   "status": "accepted",
+   "label": "Nasutitermes fletcheri (Holmgren & Holmgren, 1917)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747642",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes fulleri": {
+  "gbif": {
+   "key": 9769706,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes fulleri Emerson, 1928",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SXW",
+   "status": "accepted",
+   "label": "Nasutitermes fulleri Emerson, 1928",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747643",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes fumigatus": {
+  "gbif": {
+   "key": 5815220,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes fumigatus (Brauer)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SXY",
+   "status": "accepted",
+   "label": "Nasutitermes fumigatus (Brauer)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q111797825",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes fuscipennis": {
+  "gbif": {
+   "key": 9681704,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes fuscipennis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SXZ",
+   "status": "accepted",
+   "label": "Nasutitermes fuscipennis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747644",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes gaigei": {
+  "gbif": {
+   "key": 8809146,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes gaigei Emerson, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SY2",
+   "status": "accepted",
+   "label": "Nasutitermes gaigei Emerson, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747645",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes gardneri": {
+  "gbif": {
+   "key": 9765733,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes gardneri Snyder, 1933",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SY3",
+   "status": "accepted",
+   "label": "Nasutitermes gardneri Snyder, 1933",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747646",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes gardneriformis": {
+  "gbif": {
+   "key": 9754668,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes gardneriformis Xia, Gao, Pan & Tang, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SY4",
+   "status": "accepted",
+   "label": "Nasutitermes gardneriformis Xia, Gao, Pan & Tang, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747647",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes garoensis": {
+  "gbif": {
+   "key": 9726940,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes garoensis Roonwal & Chhotani, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SY5",
+   "status": "accepted",
+   "label": "Nasutitermes garoensis Roonwal & Chhotani, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747648",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes glabritergus": {
+  "gbif": {
+   "key": 8828881,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes glabritergus Snyder & Emerson, 1949",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SY6",
+   "status": "accepted",
+   "label": "Nasutitermes glabritergus Snyder & Emerson, 1949",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747649",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes globiceps": {
+  "gbif": {
+   "key": 9818396,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes globiceps (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SY7",
+   "status": "accepted",
+   "label": "Nasutitermes globiceps (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q10262376",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes gracilirostris": {
+  "gbif": {
+   "key": 9789786,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes gracilirostris (Desneux, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SY8",
+   "status": "accepted",
+   "label": "Nasutitermes gracilirostris (Desneux, 1905)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q104374234",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes gracilis": {
+  "gbif": {
+   "key": 9733285,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes gracilis (Oshima, 1916)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SY9",
+   "status": "accepted",
+   "label": "Nasutitermes gracilis (Oshima, 1916)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747650",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes grandinasus": {
+  "gbif": {
+   "key": 9765020,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes grandinasus Tsai & Chen, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "745QW",
+   "status": "accepted",
+   "label": "Nasutitermes grandinasus Tsai & Chen, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747651",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes graveolus": {
+  "gbif": {
+   "key": 5815231,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes graveolus (Hill, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYB",
+   "status": "accepted",
+   "label": "Nasutitermes graveolus (Hill, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110542108",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes guayanae": {
+  "gbif": {
+   "key": 8816670,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes guayanae (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYC",
+   "status": "accepted",
+   "label": "Nasutitermes guayanae (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q105007229",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes guizhouensis": {
+  "gbif": {
+   "key": 9786879,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes guizhouensis Ping & Xu, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYD",
+   "status": "accepted",
+   "label": "Nasutitermes guizhouensis Ping & Xu, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747652",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes haddoensis": {
+  "gbif": {
+   "key": 9693517,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes haddoensis Maiti & Chakraborty, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "745R8",
+   "status": "accepted",
+   "label": "Nasutitermes haddoensis Maiti & Chakraborty, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747653",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes havilandi": {
+  "gbif": {
+   "key": 9797492,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes havilandi (Desneux, 1904)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYF",
+   "status": "accepted",
+   "label": "Nasutitermes havilandi (Desneux, 1904)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q104374671",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes hejiangensis": {
+  "gbif": {
+   "key": 9713781,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes hejiangensis Tian & Gao, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYG",
+   "status": "accepted",
+   "label": "Nasutitermes hejiangensis Gao & Tian, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747654",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes heterodon": {
+  "gbif": {
+   "key": 9811030,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes heterodon (Gao, 1988)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYH",
+   "status": "accepted",
+   "label": "Nasutitermes heterodon (Gao, 1988)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747656",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes hexianensis": {
+  "gbif": {
+   "key": 9737200,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes hexianensis Krishna, 2013",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYJ",
+   "status": "accepted",
+   "label": "Nasutitermes hexianensis Krishna, 2013",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747658",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes hirticeps": {
+  "gbif": {
+   "key": 9686219,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes hirticeps Sands, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYK",
+   "status": "accepted",
+   "label": "Nasutitermes hirticeps Sands, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747659",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes horni": {
+  "gbif": {
+   "key": 9646934,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes horni (Wasmann, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYL",
+   "status": "accepted",
+   "label": "Nasutitermes horni (Wasmann, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591986",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes huangshanensis": {
+  "gbif": {
+   "key": 9750048,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes huangshanensis (Gao & Chen, 1992)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYM",
+   "status": "accepted",
+   "label": "Nasutitermes huangshanensis (Gao & Chen, 1992)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747660",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes hubbardi": {
+  "gbif": {
+   "key": 9715566,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes hubbardi Banks, 1919",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYN",
+   "status": "accepted",
+   "label": "Nasutitermes hubbardi Banks, 1919",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747661",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes inclinasus": {
+  "gbif": {
+   "key": 9689061,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes inclinasus Xu & Ping, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYQ",
+   "status": "accepted",
+   "label": "Nasutitermes inclinasus Ping & Xu, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747662",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes indicola": {
+  "gbif": {
+   "key": 9033881,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes indicola (Holmgren & Holmgren, 1917)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYR",
+   "status": "accepted",
+   "label": "Nasutitermes indicola (Holmgren & Holmgren, 1917)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747663",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes infuscatus": {
+  "gbif": {
+   "key": 9656823,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes infuscatus (Sjöstedt, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYS",
+   "status": "accepted",
+   "label": "Nasutitermes infuscatus (Sjöstedt, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49600800",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes itapocuensis": {
+  "gbif": {
+   "key": 9213232,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes itapocuensis (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7462W",
+   "status": "accepted",
+   "label": "Nasutitermes itapocuensis (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747665",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes jacobsoni": {
+  "gbif": {
+   "key": 9653456,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes jacobsoni Oshima, 1923",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYV",
+   "status": "accepted",
+   "label": "Nasutitermes jacobsoni Oshima, 1923",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747668",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes jalpaigurensis": {
+  "gbif": {
+   "key": 9752910,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes jalpaigurensis Sen-Sarma & Prashad, 1959",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYW",
+   "status": "accepted",
+   "label": "Nasutitermes jalpaigurensis Prashad & Sen-Sarma, 1959",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747671",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes jaraguae": {
+  "gbif": {
+   "key": 8884652,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes jaraguae (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYX",
+   "status": "accepted",
+   "label": "Nasutitermes jaraguae (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747674",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes javanicus": {
+  "gbif": {
+   "key": 9684502,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes javanicus (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYY",
+   "status": "accepted",
+   "label": "Nasutitermes javanicus (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747678",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes jiangxiensis": {
+  "gbif": {
+   "key": 9780307,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes jiangxiensis (Fu & Xu, 1994)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SYZ",
+   "status": "accepted",
+   "label": "Nasutitermes jiangxiensis (Fu & Xu, 1994)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747679",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes johoricus": {
+  "gbif": {
+   "key": 9695282,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes johoricus (John, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZ2",
+   "status": "accepted",
+   "label": "Nasutitermes johoricus (John, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q104374672",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes kali": {
+  "gbif": {
+   "key": 9765043,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes kali Chhotani & Roonwal, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZ3",
+   "status": "accepted",
+   "label": "Nasutitermes kali Roonwal & Chhotani, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747682",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes kemneri": {
+  "gbif": {
+   "key": 9668394,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes kemneri Emerson & Snyder, 1949",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZ4",
+   "status": "accepted",
+   "label": "Nasutitermes kemneri Snyder & Emerson, 1949",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747684",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes kempae": {
+  "gbif": {
+   "key": 9766827,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes kempae Harris, 1954",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZ5",
+   "status": "accepted",
+   "label": "Nasutitermes kempae Harris, 1954",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747688",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes kimberleyensis": {
+  "gbif": {
+   "key": 5815225,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes kimberleyensis (Mjöberg, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZ6",
+   "status": "accepted",
+   "label": "Nasutitermes kimberleyensis (Mjöberg, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q111797827",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes kinoshitai": {
+  "gbif": {
+   "key": 9655113,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes kinoshitai (Hozawa, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZ7",
+   "status": "accepted",
+   "label": "Nasutitermes kinoshitai (Hozawa, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747690",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes koiari": {
+  "gbif": {
+   "key": 9815793,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes koiari Pasteels & Roisin, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZ8",
+   "status": "accepted",
+   "label": "Nasutitermes koiari Roisin & Pasteels, 1996",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q111797828",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes krishna": {
+  "gbif": {
+   "key": 9808077,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes krishna Bose & Roonwal, 1970",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZ9",
+   "status": "accepted",
+   "label": "Nasutitermes krishna Roonwal & Bose, 1970",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747693",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes lacustris": {
+  "gbif": {
+   "key": 9075121,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes lacustris (Bugnion, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "74638",
+   "status": "accepted",
+   "label": "Nasutitermes lacustris (Bugnion, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591985",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes latifrons": {
+  "gbif": {
+   "key": 8923977,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes latifrons (Sjöstedt, 1896)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZB",
+   "status": "accepted",
+   "label": "Nasutitermes latifrons (Sjöstedt, 1896)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747694",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes latus": {
+  "gbif": {
+   "key": 8726988,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes latus Wilson & Light, 1936",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZC",
+   "status": "accepted",
+   "label": "Nasutitermes latus Light & Wilson, 1936",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747696",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes leponcei": {
+  "gbif": {
+   "key": 9738985,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes leponcei Pasteels & Roisin, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZD",
+   "status": "accepted",
+   "label": "Nasutitermes leponcei Roisin & Pasteels, 1996",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747698",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes lividus": {
+  "gbif": {
+   "key": 8851281,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes lividus (Burmeister, 1839)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S5QV",
+   "status": "accepted",
+   "label": "Nasutitermes lividus (Burmeister, 1839)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747700",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes llinquipatensis": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 95,
+   "rank": "GENUS",
+   "name": "Nasutitermes Dudley, 1890",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "45SZF",
+   "status": "accepted",
+   "label": "Nasutitermes llinquipatensis (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747702",
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes longiarticulatus": {
+  "gbif": {
+   "key": 9724089,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes longiarticulatus (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZG",
+   "status": "accepted",
+   "label": "Nasutitermes longiarticulatus (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747705",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes longinasoides": {
+  "gbif": {
+   "key": 9349475,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes longinasoides Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZH",
+   "status": "accepted",
+   "label": "Nasutitermes longinasoides Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747708",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes longinasus": {
+  "gbif": {
+   "key": 9011023,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes longinasus (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZJ",
+   "status": "accepted",
+   "label": "Nasutitermes longinasus (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q104374670",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes longipennis": {
+  "gbif": {
+   "key": 5815227,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes longipennis (Hill, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZK",
+   "status": "accepted",
+   "label": "Nasutitermes longipennis (Hill, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q111797829",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes longirostratus": {
+  "gbif": {
+   "key": 8954725,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes longirostratus (Holmgren, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZL",
+   "status": "accepted",
+   "label": "Nasutitermes longirostratus (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747710",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes longirostris": {
+  "gbif": {
+   "key": 9033328,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes longirostris (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZM",
+   "status": "accepted",
+   "label": "Nasutitermes longirostris (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747712",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes longirostris longirostris": {
+  "gbif": {
+   "key": 9702664,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Nasutitermes longirostris longirostris (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2D4N",
+   "status": "accepted",
+   "label": "Nasutitermes longirostris longirostris (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes longirostris sabahicola": {
+  "gbif": {
+   "key": 9785744,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Nasutitermes longirostris sabahicola Engel & Krishna, 2013",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2D4P",
+   "status": "accepted",
+   "label": "Nasutitermes longirostris sabahicola Engel & Krishna, 2013",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes longwangshanensis": {
+  "gbif": {
+   "key": 9688374,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes longwangshanensis (Gao, 1988)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZN",
+   "status": "accepted",
+   "label": "Nasutitermes longwangshanensis (Gao, 1988)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747715",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes lujae": {
+  "gbif": {
+   "key": 9650694,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes lujae (Wasmann, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZP",
+   "status": "accepted",
+   "label": "Nasutitermes lujae (Wasmann, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747719",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes luzonicus": {
+  "gbif": {
+   "key": 9706481,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes luzonicus (Oshima, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZQ",
+   "status": "accepted",
+   "label": "Nasutitermes luzonicus (Oshima, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747722",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes machengensis": {
+  "gbif": {
+   "key": 9770837,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes machengensis (Ping & Li, 1992)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZR",
+   "status": "accepted",
+   "label": "Nasutitermes machengensis (Ping & Li, 1992)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747724",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes macrocephalus": {
+  "gbif": {
+   "key": 9417059,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes macrocephalus (Silvestri, 1903)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZS",
+   "status": "accepted",
+   "label": "Nasutitermes macrocephalus (Silvestri, 1903)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747729",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes magnus": {
+  "gbif": {
+   "key": 5815224,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes magnus (Froggatt, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RTQV",
+   "status": "accepted",
+   "label": "Nasutitermes magnus (Froggatt, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q111797830",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes maheensis": {
+  "gbif": {
+   "key": 9670063,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes maheensis (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZV",
+   "status": "accepted",
+   "label": "Nasutitermes maheensis (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49437272",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes major": {
+  "gbif": {
+   "key": 9093914,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes major (Holmgren, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZW",
+   "status": "accepted",
+   "label": "Nasutitermes major (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747731",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes makassarensis": {
+  "gbif": {
+   "key": 9739650,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes makassarensis (Kemner, 1934)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZX",
+   "status": "accepted",
+   "label": "Nasutitermes makassarensis (Kemner, 1934)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747734",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes mangshanensis": {
+  "gbif": {
+   "key": 9704765,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes mangshanensis Li, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZY",
+   "status": "accepted",
+   "label": "Nasutitermes mangshanensis Li, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747737",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes maniseri": {
+  "gbif": {
+   "key": 9773754,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes maniseri (John, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45SZZ",
+   "status": "accepted",
+   "label": "Nasutitermes maniseri (John, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747740",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes matangensis": {
+  "gbif": {
+   "key": 9301218,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes matangensis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T22",
+   "status": "accepted",
+   "label": "Nasutitermes matangensis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q104374815",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes matangensis christmasensis": {
+  "gbif": {
+   "key": 9713108,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Nasutitermes matangensis christmasensis Krishna, 2013",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2D4Q",
+   "status": "accepted",
+   "label": "Nasutitermes matangensis christmasensis Krishna, 2013",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes matangensis matangensioides": {
+  "gbif": {
+   "key": 9796784,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Nasutitermes matangensis matangensioides (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2D4R",
+   "status": "accepted",
+   "label": "Nasutitermes matangensis matangensioides (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes matangensis matangensis": {
+  "gbif": {
+   "key": 9676227,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Nasutitermes matangensis matangensis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2D4S",
+   "status": "accepted",
+   "label": "Nasutitermes matangensis matangensis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes matangensis pyricephalus": {
+  "gbif": {
+   "key": 9758279,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Nasutitermes matangensis pyricephalus (Kemner, 1934)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2D4T",
+   "status": "accepted",
+   "label": "Nasutitermes matangensis pyricephalus (Kemner, 1934)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes mauritianus": {
+  "gbif": {
+   "key": 8727180,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes mauritianus (Wasmann, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T23",
+   "status": "accepted",
+   "label": "Nasutitermes mauritianus (Wasmann, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747742",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes maximus": {
+  "gbif": {
+   "key": 9691138,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes maximus (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T24",
+   "status": "accepted",
+   "label": "Nasutitermes maximus (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747745",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes medoensis": {
+  "gbif": {
+   "key": 9763265,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes medoensis Huang & Tsai, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T26",
+   "status": "accepted",
+   "label": "Nasutitermes medoensis Tsai & Huang, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747748",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes meinerti": {
+  "gbif": {
+   "key": 9715539,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes meinerti (Wasmann, 1894)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T27",
+   "status": "accepted",
+   "label": "Nasutitermes meinerti (Wasmann, 1894)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747752",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes meridianus": {
+  "gbif": {
+   "key": 9103609,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes meridianus Wilson & Light, 1936",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T28",
+   "status": "accepted",
+   "label": "Nasutitermes meridianus Light & Wilson, 1936",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747754",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes mexicanus": {
+  "gbif": {
+   "key": 5152438,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes mexicanus Light, 1933",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T29",
+   "status": "accepted",
+   "label": "Nasutitermes mexicanus Light, 1933",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582503",
+  "flags": [],
+  "_d": "2026-10-30"
+ },
+ "Nasutitermes mindanensis": {
+  "gbif": {
+   "key": 8775513,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes mindanensis (Light & Wilson, 1936)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RTR7",
+   "status": "accepted",
+   "label": "Nasutitermes mindanensis (Light & Wilson, 1936)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747757",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes minimus": {
+  "gbif": {
+   "key": 8843585,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes minimus (Holmgren, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2B",
+   "status": "accepted",
+   "label": "Nasutitermes minimus (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747759",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes minor": {
+  "gbif": {
+   "key": 8962622,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes minor (Holmgren, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2C",
+   "status": "accepted",
+   "label": "Nasutitermes minor (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747762",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes mirabilis": {
+  "gbif": {
+   "key": 9711007,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes mirabilis Xu & Ping, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2D",
+   "status": "accepted",
+   "label": "Nasutitermes mirabilis Ping & Xu, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747765",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes mojosensis": {
+  "gbif": {
+   "key": 8810606,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes mojosensis (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S5R7",
+   "status": "accepted",
+   "label": "Nasutitermes mojosensis (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747769",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes mollis": {
+  "gbif": {
+   "key": 9195397,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes mollis Wilson & Light, 1936",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2F",
+   "status": "accepted",
+   "label": "Nasutitermes mollis Light & Wilson, 1936",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747770",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes montanae": {
+  "gbif": {
+   "key": 9748972,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes montanae (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2G",
+   "status": "accepted",
+   "label": "Nasutitermes montanae (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747773",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes moratus": {
+  "gbif": {
+   "key": 9776640,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes moratus (Silvestri, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2H",
+   "status": "accepted",
+   "label": "Nasutitermes moratus (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747775",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes motu": {
+  "gbif": {
+   "key": 9755813,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes motu Pasteels & Roisin, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2J",
+   "status": "accepted",
+   "label": "Nasutitermes motu Roisin & Pasteels, 1996",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747778",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes muli": {
+  "gbif": {
+   "key": 9803316,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes muli Pasteels & Roisin, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2K",
+   "status": "accepted",
+   "label": "Nasutitermes muli Roisin & Pasteels, 1996",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747782",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes myersi": {
+  "gbif": {
+   "key": 8852226,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes myersi Snyder, 1933",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2L",
+   "status": "accepted",
+   "label": "Nasutitermes myersi Snyder, 1933",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747784",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes neonanus": {
+  "gbif": {
+   "key": 9667352,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes neonanus (Cachan, 1949)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2M",
+   "status": "accepted",
+   "label": "Nasutitermes neonanus (Cachan, 1949)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747787",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes neoparvus": {
+  "gbif": {
+   "key": 9612684,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes neoparvus Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2N",
+   "status": "accepted",
+   "label": "Nasutitermes neoparvus Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747791",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes nigriceps": {
+  "gbif": {
+   "key": 5152435,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes nigriceps (Haldeman, 1854)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2P",
+   "status": "accepted",
+   "label": "Nasutitermes nigriceps (Haldeman, 1854)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582502",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes nomadensis": {
+  "gbif": {
+   "key": 9747167,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes nomadensis Pasteels & Roisin, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2Q",
+   "status": "accepted",
+   "label": "Nasutitermes nomadensis Roisin & Pasteels, 1996",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747793",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes nordenskioldi": {
+  "gbif": {
+   "key": 9700906,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes nordenskioldi (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2R",
+   "status": "accepted",
+   "label": "Nasutitermes nordenskioldi (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747796",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes novarumhebridarum": {
+  "gbif": {
+   "key": 9778110,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes novarumhebridarum (Holmgren & Holmgren, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2S",
+   "status": "accepted",
+   "label": "Nasutitermes novarumhebridarum (Holmgren & Holmgren, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q104374233",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes obscurus": {
+  "gbif": {
+   "key": 8813076,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes obscurus (Holmgren, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2T",
+   "status": "accepted",
+   "label": "Nasutitermes obscurus (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747797",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes obtusimandibulus": {
+  "gbif": {
+   "key": 9665601,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes obtusimandibulus Li, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S62V",
+   "status": "accepted",
+   "label": "Nasutitermes obtusimandibulus Li, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747798",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes octopilis": {
+  "gbif": {
+   "key": 9300631,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes octopilis Banks, 1918",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2V",
+   "status": "accepted",
+   "label": "Nasutitermes octopilis Banks, 1918",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747799",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes oculatus": {
+  "gbif": {
+   "key": 9734008,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes oculatus (Holmgren, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2W",
+   "status": "accepted",
+   "label": "Nasutitermes oculatus (Holmgren, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591987",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes olidus": {
+  "gbif": {
+   "key": 9783879,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes olidus (Hill, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2X",
+   "status": "accepted",
+   "label": "Nasutitermes olidus (Hill, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747800",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes orthonasus": {
+  "gbif": {
+   "key": 9722942,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes orthonasus Chen & Tsai, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2Y",
+   "status": "accepted",
+   "label": "Nasutitermes orthonasus Tsai & Chen, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747801",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes oshimai": {
+  "gbif": {
+   "key": 9650674,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes oshimai Wilson & Light, 1936",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T2Z",
+   "status": "accepted",
+   "label": "Nasutitermes oshimai Light & Wilson, 1936",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747802",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes ovatus": {
+  "gbif": {
+   "key": 9806222,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes ovatus Fan, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T32",
+   "status": "accepted",
+   "label": "Nasutitermes ovatus Fan, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747803",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes ovipennis": {
+  "gbif": {
+   "key": 9675552,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes ovipennis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T33",
+   "status": "accepted",
+   "label": "Nasutitermes ovipennis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747804",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes palaoensis": {
+  "gbif": {
+   "key": 9700243,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes palaoensis (Oshima, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T34",
+   "status": "accepted",
+   "label": "Nasutitermes palaoensis (Oshima, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747805",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes panayensis": {
+  "gbif": {
+   "key": 9783189,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes panayensis (Oshima, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T35",
+   "status": "accepted",
+   "label": "Nasutitermes panayensis (Oshima, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747806",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes parviceps": {
+  "gbif": {
+   "key": 9709292,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes parviceps Xu & Ping, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T37",
+   "status": "accepted",
+   "label": "Nasutitermes parviceps Ping & Xu, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747807",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes parvonasutus": {
+  "gbif": {
+   "key": 5888333,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 99,
+   "rank": "SPECIES",
+   "name": "Nasutitermes parvonasutus (Nawa, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T38",
+   "status": "accepted",
+   "label": "Nasutitermes parvonasutus (Nawa, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q114661268",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes parvus": {
+  "gbif": {
+   "key": 8951055,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes parvus Wilson & Light, 1936",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T39",
+   "status": "accepted",
+   "label": "Nasutitermes parvus Light & Wilson, 1936",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747808",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes perparvus": {
+  "gbif": {
+   "key": 9791552,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes perparvus Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "6S637",
+   "status": "accepted",
+   "label": "Nasutitermes perparvus Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747809",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes peruanus": {
+  "gbif": {
+   "key": 9700214,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes peruanus (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T3B",
+   "status": "accepted",
+   "label": "Nasutitermes peruanus (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747810",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes pictus": {
+  "gbif": {
+   "key": 5152436,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes pictus Light, 1933",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T3C",
+   "status": "accepted",
+   "label": "Nasutitermes pictus Light, 1933",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582504",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes pilosus": {
+  "gbif": {
+   "key": 8760050,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 99,
+   "rank": "SPECIES",
+   "name": "Nasutitermes pilosus Snyder, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "73TQV",
+   "status": "accepted",
+   "label": "Nasutitermes pilosus Snyder, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747812",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes pinocchio": {
+  "gbif": {
+   "key": 9683869,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes pinocchio Pasteels & Roisin, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T3G",
+   "status": "accepted",
+   "label": "Nasutitermes pinocchio Roisin & Pasteels, 1996",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747813",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes planiusculus": {
+  "gbif": {
+   "key": 9661204,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes planiusculus Xu & Ping, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T3H",
+   "status": "accepted",
+   "label": "Nasutitermes planiusculus Ping & Xu, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747814",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes pluriarticulatus": {
+  "gbif": {
+   "key": 9189840,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes pluriarticulatus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T3K",
+   "status": "accepted",
+   "label": "Nasutitermes pluriarticulatus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747815",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes pluvialis": {
+  "gbif": {
+   "key": 5815216,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes pluvialis (Mjöberg, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T3L",
+   "status": "accepted",
+   "label": "Nasutitermes pluvialis (Mjöberg, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q111797831",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes princeps": {
+  "gbif": {
+   "key": 5815230,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes princeps (Desneux, 1905)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T3N",
+   "status": "accepted",
+   "label": "Nasutitermes princeps (Desneux, 1905)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q111797832",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes proatripennis": {
+  "gbif": {
+   "key": 9698072,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes proatripennis (Ahmad, 1965)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T3P",
+   "status": "accepted",
+   "label": "Nasutitermes proatripennis (Ahmad, 1965)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747817",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes profuscipennis": {
+  "gbif": {
+   "key": 9799331,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes profuscipennis Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T3Q",
+   "status": "accepted",
+   "label": "Nasutitermes profuscipennis Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747818",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes projectus": {
+  "gbif": {
+   "key": 5815229,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes projectus (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T3R",
+   "status": "accepted",
+   "label": "Nasutitermes projectus (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q111797833",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes proximus": {
+  "gbif": {
+   "key": 9731509,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes proximus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T3S",
+   "status": "accepted",
+   "label": "Nasutitermes proximus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747819",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes qimenensis": {
+  "gbif": {
+   "key": 9724069,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes qimenensis (Gao & Chen, 1992)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T3T",
+   "status": "accepted",
+   "label": "Nasutitermes qimenensis (Gao & Chen, 1992)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747821",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes qingjiensis": {
+  "gbif": {
+   "key": 9696328,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes qingjiensis Li, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "73TR7",
+   "status": "accepted",
+   "label": "Nasutitermes qingjiensis Li, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747822",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes rectangularis": {
+  "gbif": {
+   "key": 9662240,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes rectangularis Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T3V",
+   "status": "accepted",
+   "label": "Nasutitermes rectangularis Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747823",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes regularis": {
+  "gbif": {
+   "key": 9700885,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes regularis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T3W",
+   "status": "accepted",
+   "label": "Nasutitermes regularis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747824",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes retus": {
+  "gbif": {
+   "key": 9709949,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes retus (Kemner, 1931)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T3X",
+   "status": "accepted",
+   "label": "Nasutitermes retus (Kemner, 1931)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747825",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes rippertii": {
+  "gbif": {
+   "key": 9746479,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes rippertii (Rambur, 1842)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T3Y",
+   "status": "accepted",
+   "label": "Nasutitermes rippertii (Rambur, 1842)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747826",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes roboratus": {
+  "gbif": {
+   "key": 9673848,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes roboratus (Silvestri, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T42",
+   "status": "accepted",
+   "label": "Nasutitermes roboratus (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747827",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes rotundatus": {
+  "gbif": {
+   "key": 9698452,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes rotundatus (Holmgren, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T44",
+   "status": "accepted",
+   "label": "Nasutitermes rotundatus (Holmgren, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747829",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes rotundus": {
+  "gbif": {
+   "key": 9227061,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes rotundus Wilson & Light, 1936",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T46",
+   "status": "accepted",
+   "label": "Nasutitermes rotundus Light & Wilson, 1936",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747830",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes saleierensis": {
+  "gbif": {
+   "key": 9724734,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes saleierensis (Kemner, 1934)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T47",
+   "status": "accepted",
+   "label": "Nasutitermes saleierensis (Kemner, 1934)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747832",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes sanctaeanae": {
+  "gbif": {
+   "key": 9678252,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes sanctaeanae (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T48",
+   "status": "accepted",
+   "label": "Nasutitermes sanctaeanae (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747833",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes sandakensis": {
+  "gbif": {
+   "key": 9726917,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes sandakensis (Oshima, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T49",
+   "status": "accepted",
+   "label": "Nasutitermes sandakensis (Oshima, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747834",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes schoutedeni": {
+  "gbif": {
+   "key": 9795629,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes schoutedeni (Sjöstedt, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "745QV",
+   "status": "accepted",
+   "label": "Nasutitermes schoutedeni (Sjöstedt, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747835",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes seghersi": {
+  "gbif": {
+   "key": 9712054,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes seghersi Pasteels & Roisin, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4B",
+   "status": "accepted",
+   "label": "Nasutitermes seghersi Roisin & Pasteels, 1996",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747836",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes seghersi malangganus": {
+  "gbif": {
+   "key": 9658480,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Nasutitermes seghersi malangganus Pasteels & Roisin, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2D4V",
+   "status": "accepted",
+   "label": "Nasutitermes seghersi malangganus Roisin & Pasteels, 1996",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes seghersi seghersi": {
+  "gbif": {
+   "key": 9791572,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Nasutitermes seghersi seghersi Pasteels & Roisin, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2D4W",
+   "status": "accepted",
+   "label": "Nasutitermes seghersi seghersi Roisin & Pasteels, 1996",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes shangchengensis": {
+  "gbif": {
+   "key": 9757606,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes shangchengensis Li & Wang, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4D",
+   "status": "accepted",
+   "label": "Nasutitermes shangchengensis Wang & Li, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747837",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes simaluris": {
+  "gbif": {
+   "key": 9714900,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes simaluris Oshima, 1923",
+   "accepted": null
+  },
+  "col": {
+   "id": "745R7",
+   "status": "accepted",
+   "label": "Nasutitermes simaluris Oshima, 1923",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747838",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes similis": {
+  "gbif": {
+   "key": 9350066,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes similis Emerson, 1935",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4F",
+   "status": "accepted",
+   "label": "Nasutitermes similis Emerson, 1935",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747839",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes simulans": {
+  "gbif": {
+   "key": 9168252,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes simulans Wilson & Light, 1936",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4G",
+   "status": "accepted",
+   "label": "Nasutitermes simulans Light & Wilson, 1936",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747840",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes sinensis": {
+  "gbif": {
+   "key": 9658458,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes sinensis Tian & Gao, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4H",
+   "status": "accepted",
+   "label": "Nasutitermes sinensis Gao & Tian, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747841",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes smithi": {
+  "gbif": {
+   "key": 5815228,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes smithi (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4K",
+   "status": "accepted",
+   "label": "Nasutitermes smithi (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272525",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes stricticeps": {
+  "gbif": {
+   "key": 9774455,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes stricticeps Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4L",
+   "status": "accepted",
+   "label": "Nasutitermes stricticeps Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747842",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes subtibetanus": {
+  "gbif": {
+   "key": 9693544,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes subtibetanus Huang & Tsai, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4M",
+   "status": "accepted",
+   "label": "Nasutitermes subtibetanus Tsai & Huang, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747843",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes subtibialis": {
+  "gbif": {
+   "key": 9721839,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes subtibialis Fan, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4N",
+   "status": "accepted",
+   "label": "Nasutitermes subtibialis Fan, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747844",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes suknensis": {
+  "gbif": {
+   "key": 9812835,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes suknensis Sen-Sarma & Prashad, 1959",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4P",
+   "status": "accepted",
+   "label": "Nasutitermes suknensis Prashad & Sen-Sarma, 1959",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747845",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes surinamensis": {
+  "gbif": {
+   "key": 9612051,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes surinamensis (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4Q",
+   "status": "accepted",
+   "label": "Nasutitermes surinamensis (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q104916896",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes takasagoensis": {
+  "gbif": {
+   "key": 5888327,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 99,
+   "rank": "SPECIES",
+   "name": "Nasutitermes takasagoensis (Nawa, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4R",
+   "status": "accepted",
+   "label": "Nasutitermes takasagoensis (Nawa, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272526",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes tandoni": {
+  "gbif": {
+   "key": 9781407,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes tandoni Bose, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4S",
+   "status": "accepted",
+   "label": "Nasutitermes tandoni Bose, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747846",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes tatarendae": {
+  "gbif": {
+   "key": 9659483,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes tatarendae (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4T",
+   "status": "accepted",
+   "label": "Nasutitermes tatarendae (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747847",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes taylori": {
+  "gbif": {
+   "key": 9066498,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes taylori Wilson & Light, 1936",
+   "accepted": null
+  },
+  "col": {
+   "id": "7462V",
+   "status": "accepted",
+   "label": "Nasutitermes taylori Light & Wilson, 1936",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747848",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes thanensis": {
+  "gbif": {
+   "key": 9770818,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes thanensis Sen-Sarma & Prashad, 1959",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4V",
+   "status": "accepted",
+   "label": "Nasutitermes thanensis Prashad & Sen-Sarma, 1959",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747849",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes tianmuensis": {
+  "gbif": {
+   "key": 9690744,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes tianmuensis (Gao, 1988)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4W",
+   "status": "accepted",
+   "label": "Nasutitermes tianmuensis (Gao, 1988)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747850",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes tiantongensis": {
+  "gbif": {
+   "key": 9731530,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes tiantongensis Xu & Zhou, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4X",
+   "status": "accepted",
+   "label": "Nasutitermes tiantongensis Zhou & Xu, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747851",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes tibetanus": {
+  "gbif": {
+   "key": 9691824,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes tibetanus Huang & Tsai, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4Y",
+   "status": "accepted",
+   "label": "Nasutitermes tibetanus Tsai & Huang, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747852",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes timoriensis": {
+  "gbif": {
+   "key": 9204265,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes timoriensis (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T4Z",
+   "status": "accepted",
+   "label": "Nasutitermes timoriensis (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747853",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes tipuanicus": {
+  "gbif": {
+   "key": 9728694,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes tipuanicus (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T52",
+   "status": "accepted",
+   "label": "Nasutitermes tipuanicus (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747854",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes torresi": {
+  "gbif": {
+   "key": 5815222,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes torresi (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T53",
+   "status": "accepted",
+   "label": "Nasutitermes torresi (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q104374576",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes tredecimarticulatus": {
+  "gbif": {
+   "key": 8772577,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes tredecimarticulatus (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T54",
+   "status": "accepted",
+   "label": "Nasutitermes tredecimarticulatus (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747855",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes triloki": {
+  "gbif": {
+   "key": 9759357,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes triloki Bose, 1980",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T55",
+   "status": "accepted",
+   "label": "Nasutitermes triloki Bose, 1980",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747856",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes triodiae": {
+  "gbif": {
+   "key": 5815226,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes triodiae (Froggatt, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T56",
+   "status": "accepted",
+   "label": "Nasutitermes triodiae (Froggatt, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q18379318",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes tsaii": {
+  "gbif": {
+   "key": 9778493,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes tsaii Han & Huang, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T57",
+   "status": "accepted",
+   "label": "Nasutitermes tsaii Huang & Han, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747857",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes tungsalangensis": {
+  "gbif": {
+   "key": 9732216,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes tungsalangensis Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T58",
+   "status": "accepted",
+   "label": "Nasutitermes tungsalangensis Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747858",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes unduliceps": {
+  "gbif": {
+   "key": 9760447,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes unduliceps Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T59",
+   "status": "accepted",
+   "label": "Nasutitermes unduliceps Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747859",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes vadoni": {
+  "gbif": {
+   "key": 9661181,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes vadoni Cachan, 1951",
+   "accepted": null
+  },
+  "col": {
+   "id": "74637",
+   "status": "accepted",
+   "label": "Nasutitermes vadoni Cachan, 1951",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747860",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes vallis": {
+  "gbif": {
+   "key": 9663920,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes vallis Huang & Tsai, 1979",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T5B",
+   "status": "accepted",
+   "label": "Nasutitermes vallis Tsai & Huang, 1979",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747861",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes vishnu": {
+  "gbif": {
+   "key": 9681033,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes vishnu Bose, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T5C",
+   "status": "accepted",
+   "label": "Nasutitermes vishnu Bose, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747862",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes walkeri": {
+  "gbif": {
+   "key": 5815213,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes walkeri (Hill, 1942)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T5D",
+   "status": "accepted",
+   "label": "Nasutitermes walkeri (Hill, 1942)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q16986213",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes wheeleri": {
+  "gbif": {
+   "key": 8723168,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes wheeleri Emerson, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "6RTR6",
+   "status": "accepted",
+   "label": "Nasutitermes wheeleri Emerson, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747863",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Nasutitermes xingshanensis": {
+  "gbif": {
+   "key": 9739628,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Nasutitermes xingshanensis (Ping & Yin, 1992)",
+   "accepted": null
+  },
+  "col": {
+   "id": "45T5F",
+   "status": "accepted",
+   "label": "Nasutitermes xingshanensis (Ping & Yin, 1992)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q130747864",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

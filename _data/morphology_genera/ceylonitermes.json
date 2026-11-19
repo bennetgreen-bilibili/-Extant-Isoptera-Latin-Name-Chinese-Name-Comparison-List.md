@@ -1,0 +1,25 @@
+{
+ "zh_name": "锡兰白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁鼻长为头长的 2/3，很窄、圆柱形且直；触角长，12 节。工蚁唇基（clypeus）大而膨起，长为其宽之半；上颚前两齿等大；触角 15 节。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "鼻为头长的 2/3，很窄、圆柱形、直；触角长，12 节。"
+  },
+  {
+   "label": "工蚁",
+   "text": "唇基（clypeus）大、膨起，长为其宽之半；上颚前两齿等大；触角 15 节。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0089",
+   "citation": "Holmgren, N. 1913. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Kungliga Svenska Vetenskapsakademiens Handlingar 50(2).",
+   "locator": "pp. 189-191"
+  }
+ ],
+ "note": "原文（Holmgren 1913，Ceylonitermes 亚属一节）写 Imago unbekannt，故不设有翅成虫一节。该文为 Fraktur 体 OCR，讹字多（如 Kopf ziemlieh langgestreekt eiförmig、eingesehnürt），凡不能确读者不引。原描述另含体色与量度，未入本次引文限额。"
+}

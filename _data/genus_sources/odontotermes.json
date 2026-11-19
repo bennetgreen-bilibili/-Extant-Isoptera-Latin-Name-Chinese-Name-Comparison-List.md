@@ -1,0 +1,43 @@
+{
+ "latin": "Odontotermes",
+ "zh": "土白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Odontotermes Holmgren, 1910b: 286 [genus-group name available by indication of available type species; first introduced as a subgenus of Termes Linnaeus, 1758].",
+ "type_species": "Termes vulgaris Haviland, 1898 by original designation.",
+ "references": [
+  {
+   "ref": "Haviland, 1898: 378, 384–385",
+   "note": "Termes [section with T. vulgaris for type]; characters; key."
+  },
+  {
+   "ref": "Wasmann, 1902d: 104",
+   "note": "Termes; Haviland’s “section of T. vulgaris”; characters."
+  },
+  {
+   "ref": "Escherich, 1909: 175",
+   "note": "Termes [part]; characters."
+  },
+  {
+   "ref": "Holmgren, 1912a: 11, 12, 35–40",
+   "note": "Odontotermes; characters; key; subgenera included; systematic position; also as Odontotermes (Odontotermes); key; species included."
+  },
+  {
+   "ref": "Fuller, 1921: 17, 18, 20, 22, 23",
+   "note": "Termes (Termes); remarks; key; Termes (Odontotermes); key."
+  },
+  {
+   "ref": "Fuller, 1922: 82, 83",
+   "note": "Termes (Termes); remarks; key; Termes (Odontotermes); key."
+  },
+  {
+   "ref": "Light, 1924: 53",
+   "note": "Termes [part]; key."
+  },
+  {
+   "ref": "Bathellier, 1927: 153, 154",
+   "note": "Odontotermes; characters; Odontotermes (Odontotermes); characters."
+  }
+ ],
+ "nrefs": 120
+}

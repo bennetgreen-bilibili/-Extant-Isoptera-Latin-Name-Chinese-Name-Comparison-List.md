@@ -1,0 +1,17 @@
+{
+ "note": "Apicotermitinae have no soldiers, and the original describes only the alate and the worker; both genus and species characters rest mainly on the digestive tract (mixed segment, enteric valve seating, enteric valve armature). The ZooKeys XML has no in-page pagination markers, so the locator is by section name and no in-page page numbers have been invented.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "One of the Neotropical Apicotermitinae with dehiscent organs, a structure shared with Dissimulitermes and Ruptitermes. Distinguished from Dissimulitermes by: enteric valve seating (EVS) trilobed (tubular in the latter), enteric valve armature consisting only of spines, without sclerotised plates (the latter with sclerotised plates). Distinguished from Ruptitermes by: enteric valve armed (enteric valve unarmed in the latter, with R. bandeirai as the only exception, and that species is far larger than this genus, its spines concentrated on only 3 cushion lobes). The genus-level key gives the combination 'enteric valve seating trilobed, fewer than 13 spines on the armed cushions of the enteric valve'. The dehiscent organ fills the haemocoel in front of the crop; the junction between the midgut and P1 is clear, but the mixed segment is short."
+  },
+  {
+   "label": "Alate",
+   "text": "Dorsal surface of the head capsule concave in lateral view; fontanelle very prominent; postclypeus almost not inflated, its median suture distinct; antennae 14 or 15 segments (segment formula 2>3<4≈5<6)."
+  },
+  {
+   "label": "Worker",
+   "text": "Dorsal surface of the head capsule slightly concave in lateral view; antennae pale, 13 or 14 segments (2>3<4<5); postclypeus strongly inflated. Apical tooth of the left endognath and M1+2 equally prominent, the edge of M3 forming an obtuse angle, its tip truncate and directed backwards, the raised molar region well developed and projecting, completely concealing the molar lobe process in dorsal view; apical tooth of the right endognath more prominent than M1, M1 well developed, the tip of M2 rounded, projecting and directed backwards, an obtuse angle between M1 and M2. The dehiscent organ is conspicuous in most individuals. The mixed segment of the gut is short, thickened at the midgut tongue; the enteric valve armature consists of 6 cushion lobes with sclerotised, crown-shaped tips bearing spines, located in the posterior part of the cushions."
+  }
+ ]
+}

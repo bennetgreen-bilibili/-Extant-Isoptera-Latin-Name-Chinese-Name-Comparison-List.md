@@ -1,0 +1,73 @@
+{
+ "book_n": "289",
+ "book_name": "曼允壤白蚁 Parahypotermes manyunensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "曼允壤白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "4.63",
+     "value": "4.42–5.05"
+    },
+    {
+     "key": "head_length_with_mandibles",
+     "mean": "1.88",
+     "value": "1.87–1.90"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.25",
+     "value": "1.23–1.26"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.08",
+     "value": "1.06–1.10"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "0.677",
+     "value": "0.65–0.68"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.26",
+     "value": "0.23–0.29"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "0.74",
+     "value": "0.71–0.77"
+    },
+    {
+     "key": "postmentum_width",
+     "mean": "0.48",
+     "value": "0.48"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.51",
+     "value": "0.48–0.52"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.80",
+     "value": "0.77–0.81"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.11",
+     "value": "1.10–1.13"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 416,
+   "unit": "mm"
+  }
+ ]
+}

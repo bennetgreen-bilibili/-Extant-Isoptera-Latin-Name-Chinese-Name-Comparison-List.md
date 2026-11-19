@@ -1,0 +1,21 @@
+{
+ "note": "The original was published in Portuguese and this entry follows the terminology of the original (pêlos = hairs, cerdas = setae, naso = nasus, pós-clípeo = postclypeus). The genus-level definition gives only the three passages above (alate, soldier, worker), so no Nymph section is provided.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "In the soldier the head capsule narrows behind the antennal insertions and is bulbous posteriorly, the nasus is conical, and the mandibles lack apical points; the mandibles of the worker and the alate are similar, but in the worker the cutting edge between M1+2 and M3 of the left mandible is distinctly undulate; in the alate the fontanelle is elongate and forked anteriorly, the eyes are large, the distance between each ocellus and its eye is less than the width of the ocellus, and the postclypeus is shorter than half its width."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head sparsely covered with minute hairs, with a few long setae in addition; nasus with numerous short hairs; the dorsal surface of the head narrows behind the antennal insertions and is bulbous posteriorly; nasus conical in both dorsal and lateral view; mandibles without apical points."
+  },
+  {
+   "label": "Worker",
+   "text": "Mandibles similar to those of the alate, but the cutting edge between M1+2 and M3 of the left mandible is distinctly undulate."
+  },
+  {
+   "label": "Alate",
+   "text": "Head and pronotum hairy, with a few long setae in addition; fontanelle elongate, forked anteriorly; eyes large; the distance between each ocellus and its eye is less than the width of the ocellus; postclypeus shorter than half its width."
+  }
+ ]
+}

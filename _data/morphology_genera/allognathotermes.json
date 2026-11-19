@@ -1,0 +1,25 @@
+{
+ "zh_name": "异颚白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 Hoplognathotermes、Duplidentitermes 近缘。兵蚁上颚的齿较二者不显著，但左颚具 2 枚分离较开的齿，似与 Duplidentitermes 的双尖齿同源；前足基节脊与 Duplidentitermes 很相似，仅因向内侧微弯延伸而略更明显；前足腿节短粗，与 Duplidentitermes 同，而明显不同于 Firmitermes、Hoplognathotermes 与 Acutidentitermes 细长的前足腿节。有翅成虫右上颚第二缘齿退化为小丘。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "右上颚第二缘齿退化为一小丘，与 Duplidentitermes 相同。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "上颚的齿较 Hoplognathotermes 与 Duplidentitermes 不显著，但左颚具 2 枚分离较开的齿，似与 Duplidentitermes 左颚的双尖齿同源。前足基节纵脊很似 Duplidentitermes，仅因有一微弯的内向延伸而略更明显。前足腿节短粗，与 Duplidentitermes 同；而 Firmitermes、Hoplognathotermes、Acutidentitermes 者细长。"
+  }
+ ],
+ "note": "本机全文（Emerson 1956）对该属只有种级描述与系统位置讨论，无独立属级形态志；Emerson 1959 亦未单列该属，属征散见于 Duplidentitermes 属征的对比句，故此处仅收录这些明确针对 Allognathotermes 的属级比较特征，不补充、不外推。",
+ "sources": [
+  {
+   "id": "S0034",
+   "citation": "Emerson A. E. 1959. The African termite genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates 1947: 1–43.",
+   "locator": "pp. 25–27（Duplidentitermes 属征中的对比段落）"
+  }
+ ]
+}

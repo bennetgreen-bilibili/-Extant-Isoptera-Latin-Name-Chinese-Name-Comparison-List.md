@@ -1,0 +1,21 @@
+{
+ "note": "El alado se conoce solo por el único ejemplar del rey del morfotipo (morphotype king), cuyas mandíbulas no fueron disecadas, por lo que Sands describió en su lugar las mandíbulas del obrero (p. 156); Emerson registra además una cabeza redondeado-oval, ojos compuestos proporcionalmente grandes, ocelos separados de los ojos compuestos aproximadamente 2/3 de su anchura, y fórmula de espinas tibiales 2:2:2 (p. 4). Sands considera que esta casta de soldado tan característica es el principal carácter genérico del género y señala que el nasus y su base de Eutermellus y Mimeutermes muestran una tendencia similar a la rugosidad, aunque mucho menos acentuada que en este género (p. 157). Sands indica asimismo que la «mandíbula del obrero» dibujada por Emerson (1960) corresponde en realidad a un ejemplar de Orthotermes depressifrons (Termitinae) mezclado, por lo que la sección del obrero se atiene a la descripción de Sands.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Emerson señaló que las numerosas y conspicuas verrugas de la cápsula cefálica y de las antenas del soldado son únicas entre los nasutitermitinos conocidos y que, por su estructura y posición, se interpretan como sensores olfativos."
+  },
+  {
+   "label": "Alado",
+   "text": "El postclípeo está moderadamente elevado, su anchura es 2–5 veces su longitud y su borde anterior es cóncavo y ondulado; la fontanela es una franja pálida que se adelgaza hacia atrás y está ligeramente deprimida; los ojos compuestos sobresalen ligeramente de los lados de la cabeza y su borde está escotado; la pilosidad de la cabeza es fina, densa y uniforme, con algunas setas más gruesas dispersas; el pronoto se estrecha hacia atrás en ambos lados y su longitud es menor que 2/3 de su anchura."
+  },
+  {
+   "label": "Soldado",
+   "text": "Monotípico. Nasus delgado y cilíndrico, estrechado en una punta fina en el extremo; mandíbulas reducidas sin diente apical, pero de contorno anguloso; borde anterior del labro ondulado. La cápsula cefálica está fuertemente dilatada en la base del nasus y bruscamente constreñida en su parte media, cubierta de pequeñas verrugas irregulares, más densas en la base del nasus y en el lóbulo anterior. Antenas de 12–13 segmentos, con 3 verrugas en la cara interna de los segmentos III–IX o X."
+  },
+  {
+   "label": "Obrero",
+   "text": "El diente apical de la mandíbula izquierda es más largo que el primer diente marginal y la distancia entre ambos es mayor que la distancia entre el primer y el tercer diente marginal (índice mandibular izquierdo 1.36); el margen cortante por delante del tercer diente marginal presenta una escotadura; el espacio entre el tercer diente marginal y el diente molar es algo más ancho que dicha escotadura, y el dentículo situado entre ambos es apenas visible."
+  }
+ ]
+}

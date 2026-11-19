@@ -1,0 +1,13 @@
+{
+ "Caribitermes discolor": {
+  "label": "Caribitermes discolor (Banks, 1919)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84375,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84375/overview",
+  "valid_label": null,
+  "valid_otu": 84375,
+  "verified": false
+ }
+}

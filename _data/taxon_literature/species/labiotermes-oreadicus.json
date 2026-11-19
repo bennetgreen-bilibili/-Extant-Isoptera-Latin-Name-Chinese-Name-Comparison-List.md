@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "2006 年描述的新种",
+   "heading_en": "A species described in 2006",
+   "heading_es": "Una especie descrita en 2006",
+   "paragraphs": [
+    {
+     "src": [
+      "S0200"
+     ],
+     "text": "据摘要，Constantino 等（2006）把采自巴西稀树草原（Cerrado）的山神厚唇白蚁（<i>Labiotermes oreadicus</i>）描述为新种；该修订共承认厚唇白蚁属（<i>Labiotermes</i>）10 个种，并把副角白蚁属（<i>Paracornitermes</i>）作为新异名并入。",
+     "text_en": "According to the abstract, Constantino et al. (2006) described <i>Labiotermes oreadicus</i>, from the Brazilian Cerrado, as a new species; the revision recognized ten species of <i>Labiotermes</i> and placed <i>Paracornitermes</i> in synonymy.",
+     "text_es": "Según el resumen, Constantino et al. (2006) describieron <i>Labiotermes oreadicus</i>, del Cerrado brasileño, como especie nueva; la revisión reconoció diez especies de <i>Labiotermes</i> y situó a <i>Paracornitermes</i> en sinonimia."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0200",
+   "citation": "Constantino, R., Acioli, A. N. S., Schmidt, K., Cuezzo, C., Carvalho, S. H. C. & Alexandre, A. (2006). A taxonomic revision of the Neotropical termite genera Labiotermes Holmgren and Paracornitermes Emerson (Isoptera, Termitidae, Syntermitinae). Zootaxa, 1340.",
+   "doi": "10.11646/zootaxa.1340.1.1"
+  }
+ ]
+}

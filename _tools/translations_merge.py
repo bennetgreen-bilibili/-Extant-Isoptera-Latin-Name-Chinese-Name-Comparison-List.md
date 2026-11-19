@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Validate translation shards and merge them into _data/translations_<lang>.json.
+"""Validate translation shards and write them into the _data/translations_<lang>/ tree.
 
 Usage:
     python _tools/translations_merge.py --files fauna_families,fauna_genera,fauna_keys,morphology_genera
@@ -9,8 +9,9 @@ Usage:
 
 Checks per shard: key set, JSON validity, structure identity, empty stays empty,
 no CJK left, no numeric token lost, no Latin (genus/author) token lost.
-Exit code 1 if any shard is invalid, 0 otherwise (merged files still written from
-the shards that did pass, so a partial wave can be delivered).
+Exit code 1 if any shard is invalid, 0 otherwise (the shards that did pass are
+still written, so a partial wave can be delivered). Nothing is ever written as a
+single aggregate file: _data/translations_<lang>/ is the only copy.
 """
 import argparse
 import copy
@@ -22,6 +23,9 @@ import unicodedata
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "_data")
+sys.path.insert(0, os.path.join(ROOT, "_tools"))
+
+import shard_io  # noqa: E402
 TR = os.path.join(ROOT, "_tmp", "tr")
 LANGS = ("en", "es")
 ORDER = ["meta", "morphology_genera", "morphology_species", "fauna_families",
@@ -161,6 +165,14 @@ NAME_FIELDS = {"latin", "book_name"}
 _VOCAB = None
 
 
+def load_source(name):
+    """Read one translatable source: `_data/<name>/` shards, else the single file."""
+    if shard_io.exists(name):
+        return shard_io.load(name)
+    with open(os.path.join(DATA, name + ".json"), encoding="utf-8") as fh:
+        return json.load(fh)
+
+
 def build_vocab():
     """Taxonomic names and authorities that must survive translation.
 
@@ -170,15 +182,21 @@ def build_vocab():
     supposed to be translated, so it is not checked.
     """
     vocab = set(LATIN_IGNORE)
-    data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "_data")
-    for fn in sorted(os.listdir(data_dir)):
-        if not fn.endswith(".json"):
-            continue
+    objs = []
+    for fn in sorted(os.listdir(DATA)):
+        if fn.endswith(".json"):
+            try:
+                with open(os.path.join(DATA, fn), encoding="utf-8") as fh:
+                    objs.append(json.load(fh))
+            except Exception:  # noqa: BLE001
+                continue
+    # The six translated sources may be shard trees now (one file per genus/species).
+    for name in NAMES:
         try:
-            with open(os.path.join(data_dir, fn), encoding="utf-8") as fh:
-                obj = json.load(fh)
+            objs.append(load_source(name))
         except Exception:  # noqa: BLE001
             continue
+    for obj in objs:
         stack = [obj]
         while stack:
             cur = stack.pop()
@@ -335,12 +353,8 @@ def main():
     merged = {lang: {} for lang in langs}
     prev = {}
     for lang in langs:
-        out_path = os.path.join(DATA, "translations_%s.json" % lang)
-        if os.path.exists(out_path):
-            with open(out_path, encoding="utf-8") as fh:
-                prev[lang] = json.load(fh)
-        else:
-            prev[lang] = {}
+        ds = "translations_%s" % lang
+        prev[lang] = shard_io.load(ds) if shard_io.exists(ds) else {}
     for name in names:
         man_path = os.path.join(TR, "manifest_%s.json" % name)
         if not os.path.exists(man_path):
@@ -348,8 +362,7 @@ def main():
             continue
         with open(man_path, encoding="utf-8") as fh:
             man = json.load(fh)
-        with open(os.path.join(DATA, name + ".json"), encoding="utf-8") as fh:
-            src_all = json.load(fh)
+        src_all = load_source(name)
         for lang in langs:
             good = {}
             bad_shards = []
@@ -410,13 +423,10 @@ def main():
             cov["keys"] += cov["files"][name]["keys"]
             cov["chars"] += cov["files"][name]["chars"]
         root["meta"] = dict(meta, coverage=cov)
-        out_path = os.path.join(DATA, "translations_%s.json" % lang)
-        with open(out_path, "w", encoding="utf-8") as fh:
-            json.dump(root, fh, indent=1, ensure_ascii=False, sort_keys=False)
-            fh.write("\n")
-        size = os.path.getsize(out_path)
-        print("wrote %s (%d keys, %d CJK source chars, %d bytes)"
-              % (os.path.relpath(out_path, ROOT), cov["keys"], cov["chars"], size))
+        ds = "translations_%s" % lang
+        written, removed = shard_io.save(ds, root)
+        print("wrote _data/%s/ (%d keys, %d CJK source chars, %d shard files, %d removed)"
+              % (ds, cov["keys"], cov["chars"], written, removed))
     return 1 if total_bad else 0
 
 

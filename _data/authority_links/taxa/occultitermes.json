@@ -1,0 +1,46 @@
+{
+ "Occultitermes aridus": {
+  "gbif": {
+   "key": 4803369,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Occultitermes aridus Gay, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "6SFCZ",
+   "status": "accepted",
+   "label": "Occultitermes aridus Gay, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272535",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Occultitermes occultus": {
+  "gbif": {
+   "key": 4803370,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Occultitermes occultus (Hill, 1927)",
+   "accepted": null
+  },
+  "col": {
+   "id": "74FCZ",
+   "status": "accepted",
+   "label": "Occultitermes occultus (Hill, 1927)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272536",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

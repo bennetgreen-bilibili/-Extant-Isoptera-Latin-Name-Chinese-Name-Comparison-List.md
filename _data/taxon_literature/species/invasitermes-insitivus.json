@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-14",
+ "sections": [
+  {
+   "heading": "由白蚁属移入",
+   "heading_en": "Moved from the genus Termes",
+   "heading_es": "Traslado desde el género Termes",
+   "paragraphs": [
+    {
+     "src": [
+      "S0241"
+     ],
+     "text": "据摘要，Miller（1984）研究显示，候补闯白蚁（<i>Invasitermes insitivus</i>）原被置于白蚁属（<i>Termes</i>），作为白蚁属（<i>Termes</i>）的旧组合 <i>Termes insitivus</i> 描述；因其不属于白蚁属（<i>Termes</i>），1984 年随闯白蚁属（<i>Invasitermes</i>）的建立而移入该属，文中给出该种的量度与生物学注记。",
+     "text_en": "According to the abstract, Miller (1984) showed that <i>Invasitermes insitivus</i> had been placed in <i>Termes</i>, described there as the old combination <i>Termes insitivus</i>; because it does not belong to <i>Termes</i>, it was moved to <i>Invasitermes</i> when that genus was established in 1984, and the paper gives measurements and biological notes for the species.",
+     "text_es": "Según el resumen, Miller (1984) demostró que <i>Invasitermes insitivus</i> había sido situada en <i>Termes</i>, descrita allí como la combinación antigua <i>Termes insitivus</i>; como no pertenece a <i>Termes</i>, se trasladó a <i>Invasitermes</i> al establecerse ese género en 1984, y el trabajo aporta medidas y notas biológicas de la especie."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0241",
+   "citation": "Miller, L. R. 1984. Invasitermes, a new genus of soldierless termites from northern Australia (Isoptera: Termitidae). Australian Journal of Entomology.",
+   "doi": "10.1111/j.1440-6055.1984.tb01902.x"
+  }
+ ]
+}

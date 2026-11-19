@@ -1,0 +1,57 @@
+{
+ "Ekphysotermes jarmuranus": {
+  "label": "Ekphysotermes jarmuranus (Hill, 1929)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85394,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85394/overview",
+  "valid_label": null,
+  "valid_otu": 85394,
+  "verified": false
+ },
+ "Ekphysotermes kalgoorliensis": {
+  "label": "Ekphysotermes kalgoorliensis (Hill, 1942)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85395,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85395/overview",
+  "valid_label": null,
+  "valid_otu": 85395,
+  "verified": false
+ },
+ "Ekphysotermes ocellaris": {
+  "label": "Ekphysotermes ocellaris (Mjöberg, 1920)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85396,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85396/overview",
+  "valid_label": null,
+  "valid_otu": 85396,
+  "verified": false
+ },
+ "Ekphysotermes pelatus": {
+  "label": "Ekphysotermes pelatus (Hill, 1942)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85397,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85397/overview",
+  "valid_label": null,
+  "valid_otu": 85397,
+  "verified": false
+ },
+ "Ekphysotermes percomis": {
+  "label": "Ekphysotermes percomis (Hill, 1942)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85398,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85398/overview",
+  "valid_label": null,
+  "valid_otu": 85398,
+  "verified": false
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "Vaninitermes brevinasus": {
+  "label": "Vaninitermes brevinasus (Emerson & Banks, 1957)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84200,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84200/overview",
+  "valid_label": null,
+  "valid_otu": 84200,
+  "verified": false
+ },
+ "Vaninitermes ignotus": {
+  "label": "Vaninitermes ignotus (Constantino, 1991)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84204,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84204/overview",
+  "valid_label": null,
+  "valid_otu": 84204,
+  "verified": false
+ }
+}

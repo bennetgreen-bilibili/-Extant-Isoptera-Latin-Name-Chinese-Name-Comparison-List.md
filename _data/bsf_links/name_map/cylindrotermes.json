@@ -1,0 +1,90 @@
+{
+ "Cylindrotermes brevipilosus": {
+  "label": "Cylindrotermes brevipilosus Snyder, 1926",
+  "match": "exact",
+  "notes": "",
+  "otu": 85327,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85327/overview",
+  "valid_label": null,
+  "valid_otu": 85327,
+  "verified": false
+ },
+ "Cylindrotermes caata": {
+  "label": "Cylindrotermes caata Da Rocha & Cancello, 2007",
+  "match": "exact",
+  "notes": "",
+  "otu": 85328,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85328/overview",
+  "valid_label": null,
+  "valid_otu": 85328,
+  "verified": false
+ },
+ "Cylindrotermes capixaba": {
+  "label": "Cylindrotermes capixaba Da Rocha & Cancello, 2007",
+  "match": "exact",
+  "notes": "",
+  "otu": 85329,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85329/overview",
+  "valid_label": null,
+  "valid_otu": 85329,
+  "verified": false
+ },
+ "Cylindrotermes flangiatus": {
+  "label": "Cylindrotermes flangiatus Mathews, 1977",
+  "match": "exact",
+  "notes": "",
+  "otu": 85330,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85330/overview",
+  "valid_label": null,
+  "valid_otu": 85330,
+  "verified": false
+ },
+ "Cylindrotermes macrognathus": {
+  "label": "Cylindrotermes macrognathus Snyder, 1929",
+  "match": "exact",
+  "notes": "",
+  "otu": 85331,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85331/overview",
+  "valid_label": null,
+  "valid_otu": 85331,
+  "verified": false
+ },
+ "Cylindrotermes nordenskioldi": {
+  "label": "Cylindrotermes nordenskioldi Holmgren, 1906",
+  "match": "exact",
+  "notes": "",
+  "otu": 85332,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85332/overview",
+  "valid_label": null,
+  "valid_otu": 85332,
+  "verified": false
+ },
+ "Cylindrotermes parvignathus": {
+  "label": "Cylindrotermes parvignathus Emerson, 1949",
+  "match": "exact",
+  "notes": "",
+  "otu": 85333,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85333/overview",
+  "valid_label": null,
+  "valid_otu": 85333,
+  "verified": false
+ },
+ "Cylindrotermes sapiranga": {
+  "label": "Cylindrotermes sapiranga Da Rocha & Cancello, 2007",
+  "match": "exact",
+  "notes": "",
+  "otu": 85334,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85334/overview",
+  "valid_label": null,
+  "valid_otu": 85334,
+  "verified": false
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "弓白蚁亚科的恢复（2024）",
+   "paragraphs": [
+    {
+     "text": "根据 Hellemans 等（2024），弓白蚁亚科（Amitermitinae stat. nov.）从旧白蚁亚科（Termitinae）中恢复，包含 14 属：无钩白蚁属（Ahamitermes）、弓白蚁属（Amitermes）、齿尖白蚁属（Dentispicotermes）、镰白蚁属（Drepanotermes）、漠白蚁属（Eremotermes）、球白蚁属（Globitermes）、颚钩白蚁属（Gnathamitermes）、武白蚁属（Hoplotermes）、子民白蚁属（Incolitermes）、闯白蚁属（Invasitermes）、直颚白蚁属（Orthognathotermes）、前钩白蚁属（Prohamitermes）、伪钩白蚁属（Pseudhamitermes）、同钩白蚁属（Synhamitermes）；模式属为弓白蚁属（Amitermes Silvestri, 1901）。",
+     "src": [
+      "S0008"
+     ],
+     "text_en": "According to Hellemans et al. (2024), Amitermitinae (Amitermitinae stat. nov.) was restored from the former Termitinae and comprises 14 genera: Ahamitermes, Amitermes, Dentispicotermes, Drepanotermes, Eremotermes, Globitermes, Gnathamitermes, Hoplotermes, Incolitermes, Invasitermes, Orthognathotermes, Prohamitermes, Pseudhamitermes and Synhamitermes, with Amitermes Silvestri, 1901 as type genus.",
+     "text_es": "Según Hellemans et al. (2024), Amitermitinae (stat. nov.) se restablece a partir de la antigua Termitinae y comprende 14 géneros: Ahamitermes, Amitermes, Dentispicotermes, Drepanotermes, Eremotermes, Globitermes, Gnathamitermes, Hoplotermes, Incolitermes, Invasitermes, Orthognathotermes, Prohamitermes, Pseudhamitermes y Synhamitermes; su género tipo es Amitermes Silvestri, 1901."
+    },
+    {
+     "text": "弓白蚁亚科（Amitermitinae）广布于热带和亚热带各生物地理区，取食蚁丘、土壤、木材和草，以及土壤-木材过渡带；兵蚁头一般梨形、无额突，但漠白蚁属（Eremotermes）和齿尖白蚁属（Dentispicotermes）例外。",
+     "src": [
+      "S0008"
+     ],
+     "text_en": "Amitermitinae is widespread in the tropical and subtropical biogeographic regions, feeding on mounds, soil, wood and grass, as well as on the soil-wood interface; the soldier head is generally pear-shaped and lacks a frontal projection, the exceptions being Eremotermes and Dentispicotermes.",
+     "text_es": "Amitermitinae está ampliamente distribuida en todas las regiones biogeográficas tropicales y subtropicales y se alimenta de termiteros, suelo, madera y hierbas, así como de la interfaz suelo-madera; la cabeza del soldado suele ser piriforme y carece de protuberancia frontal, con excepción de Eremotermes y Dentispicotermes."
+    },
+    {
+     "text": "1972 年 Sands 修订非洲无兵蚁白蚁时，曾把弓白蚁亚科（Amitermitinae）作为白蚁亚科（Termitinae）的异名；2024 年的处理恢复了它的亚科地位，因此旧文献中的“Amitermitinae”不能直接按现在的范围理解。",
+     "src": [
+      "S0005",
+      "S0008"
+     ],
+     "text_en": "When Sands revised the soldierless termites of Africa in 1972, he treated Amitermitinae as a synonym of Termitinae; the treatment of 2024 restored its subfamily status, so 'Amitermitinae' in older literature cannot be understood directly in its present circumscription.",
+     "text_es": "Cuando Sands revisó en 1972 las termitas africanas sin soldados, trató Amitermitinae como sinónimo de Termitinae; el tratamiento de 2024 le devuelve el rango de subfamilia, de modo que la Amitermitinae de la literatura antigua no puede entenderse directamente con su delimitación actual."
+    }
+   ],
+   "heading_en": "Restoration of Amitermitinae (2024)",
+   "heading_es": "Restablecimiento de Amitermitinae (2024)"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0005",
+   "citation": "Sands W. A. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology Supplement 18, 1972.",
+   "doi": "10.5962/p.192782"
+  },
+  {
+   "id": "S0008",
+   "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
+   "doi": "10.1038/s41467-024-51028-y"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "异名处理与模式材料",
+   "heading_en": "Synonymy and type material",
+   "heading_es": "Sinonimia y material tipo",
+   "paragraphs": [
+    {
+     "text": "根据 Ndiaye、Njie 与 Correa（2019）研究引述 Krishna 等的意见，霍兰德小白蚁（<i>Microtermes hollandei</i>）被 Emerson 在未刊名录中作为可爱小白蚁（<i>Microtermes lepidus</i>）的异名处理，理由是两者「完全相似」；原描述霍兰德小白蚁（<i>Microtermes hollandei</i>）的 Grassé 曾认为两者差异微小、可用地理差异解释，而两个名称原描述所用的标本都采自塞内加尔达喀尔佛得角（Cap Vert）地区。",
+     "src": [
+      "S0346"
+     ],
+     "text_en": "In the study by Ndiaye, Njie and Correa (2019), citing Krishna et al., <i>Microtermes hollandei</i> is placed in synonymy with <i>Microtermes lepidus</i> by Emerson in an unpublished catalogue, on the grounds that the two are perfectly similar; Grassé, author of the original description of <i>Microtermes hollandei</i>, had considered the differences minor and geographically explicable, and the specimens used for the original descriptions of both names all came from the Cap Vert region of Dakar, Senegal.",
+     "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), citando a Krishna et al., <i>Microtermes hollandei</i> se sitúa en sinonimia con <i>Microtermes lepidus</i> por Emerson en un catálogo inédito, porque ambas son perfectamente similares; Grassé, autor de la descripción original de <i>Microtermes hollandei</i>, había considerado las diferencias menores y explicables geográficamente, y los ejemplares usados para las descripciones originales de ambos nombres procedían todos de la región de Cap Vert, Dakar, Senegal."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0346",
+   "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+   "doi": "10.3390/insects10050122"
+  }
+ ]
+}

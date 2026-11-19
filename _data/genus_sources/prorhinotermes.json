@@ -1,0 +1,43 @@
+{
+ "latin": "Prorhinotermes",
+ "zh": "原鼻白蚁属",
+ "family": "psammotermitidae",
+ "treatise": true,
+ "citation": "Prorhinotermes Silvestri, 1909b: 286.",
+ "type_species": "Prorhinotermes inopinatus Silvestri, 1909 by original designation.",
+ "references": [
+  {
+   "ref": "Holmgren, 1911a: 72, 73",
+   "note": "Arrhinotermes; key; characters; species included."
+  },
+  {
+   "ref": "Banks, 1919: 479, 480",
+   "note": "Prorhinotermes; key."
+  },
+  {
+   "ref": "Banks and Snyder, 1920: 39",
+   "note": "Prorhinotermes; key; characters."
+  },
+  {
+   "ref": "Light, 1921b: 48–49",
+   "note": "Prorhinotermes; diagnosis; systematic position."
+  },
+  {
+   "ref": "Light, 1930f: 15, 17, 18",
+   "note": "Prorhinotermes; synonymy; key."
+  },
+  {
+   "ref": "Hill, 1942: 14, 136–137",
+   "note": "Prorhinotermes; key; synonymy; imago, soldier, worker diagnosed."
+  },
+  {
+   "ref": "Lal and Menon, 1953: 23, 28",
+   "note": "Prorhinotermes; catalog; reference list; synonymy; key."
+  },
+  {
+   "ref": "Ahmad, 1958: 59, 60",
+   "note": "Prorhinotermes; key."
+  }
+ ],
+ "nrefs": 64
+}

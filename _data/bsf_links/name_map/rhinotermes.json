@@ -1,0 +1,46 @@
+{
+ "Rhinotermes hispidus": {
+  "label": "Rhinotermes hispidus Emerson, 1925",
+  "match": "exact",
+  "notes": "",
+  "otu": 83438,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83438/overview",
+  "valid_label": null,
+  "valid_otu": 83438,
+  "verified": false
+ },
+ "Rhinotermes manni": {
+  "label": "Rhinotermes manni Snyder, 1924",
+  "match": "exact",
+  "notes": "",
+  "otu": 83439,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83439/overview",
+  "valid_label": null,
+  "valid_otu": 83439,
+  "verified": false
+ },
+ "Rhinotermes marginalis": {
+  "label": "Rhinotermes marginalis (Linnaeus, 1758)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83440,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83440/overview",
+  "valid_label": null,
+  "valid_otu": 83440,
+  "verified": false
+ },
+ "Rhinotermes nasutus": {
+  "label": "Rhinotermes nasutus (Perty, 1833)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83442,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83442/overview",
+  "valid_label": null,
+  "valid_otu": 83442,
+  "verified": false
+ }
+}

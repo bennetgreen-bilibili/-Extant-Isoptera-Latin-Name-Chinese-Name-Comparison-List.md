@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "根据 Krishna & Adams（1982）研究，基斯特纳唇白蚁（<i>Labritermes kistneri</i>）是与埃默森唇白蚁（<i>Labritermes emersoni</i>）一同发表的新种，使唇白蚁属（<i>Labritermes</i>）的种数由 1 种增至 3 种；该文还指出该属与非洲的孔白蚁属（<i>Foraminitermes</i>）关系密切。",
+     "text_en": "According to Krishna and Adams (1982), <i>Labritermes kistneri</i> is a new species published together with <i>Labritermes emersoni</i>, raising <i>Labritermes</i> from one to three species; the paper also notes that the genus is closely related to the African <i>Foraminitermes</i>.",
+     "text_es": "Según Krishna y Adams (1982), <i>Labritermes kistneri</i> es una especie nueva publicada junto con <i>Labritermes emersoni</i>, con lo que <i>Labritermes</i> pasó de una a tres especies; el trabajo señala además que el género está estrechamente relacionado con <i>Foraminitermes</i>, de África.",
+     "src": [
+      "S0115"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0115",
+   "citation": "Krishna, Kumar; Adams, Cheryl Lynn 1982 The Oriental termite genus Labritermes Holmgren (Isoptera, Termitidae, Termitinae). American Museum of Natural History.",
+   "url": "https://digitallibrary.amnh.org/handle/2246/5290"
+  }
+ ]
+}

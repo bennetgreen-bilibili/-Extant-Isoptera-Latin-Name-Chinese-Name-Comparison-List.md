@@ -1,0 +1,134 @@
+{
+ "Cristatitermes arenicola": {
+  "gbif": {
+   "key": 4803362,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cristatitermes arenicola Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "ZJ3F",
+   "status": "accepted",
+   "label": "Cristatitermes arenicola Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272365",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cristatitermes barretti": {
+  "gbif": {
+   "key": 4803363,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cristatitermes barretti Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "ZJ3G",
+   "status": "accepted",
+   "label": "Cristatitermes barretti Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272366",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cristatitermes carinatus": {
+  "gbif": {
+   "key": 4803361,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cristatitermes carinatus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "ZJ3H",
+   "status": "accepted",
+   "label": "Cristatitermes carinatus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272368",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cristatitermes froggatti": {
+  "gbif": {
+   "key": 4803364,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cristatitermes froggatti (Hill, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "ZJ3J",
+   "status": "accepted",
+   "label": "Cristatitermes froggatti Hill, 1915",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272369",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cristatitermes pineaformis": {
+  "gbif": {
+   "key": 4803367,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cristatitermes pineaformis Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "ZJ3K",
+   "status": "accepted",
+   "label": "Cristatitermes pineaformis Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272371",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cristatitermes tutulatus": {
+  "gbif": {
+   "key": 4803366,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cristatitermes tutulatus Miller, 1991",
+   "accepted": null
+  },
+  "col": {
+   "id": "ZJ3L",
+   "status": "accepted",
+   "label": "Cristatitermes tutulatus Miller, 1991",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272372",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

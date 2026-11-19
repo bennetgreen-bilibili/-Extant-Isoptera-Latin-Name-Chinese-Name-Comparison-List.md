@@ -1,0 +1,25 @@
+{
+ "zh_name": "凸白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "本属在检索表中有翅成虫与兵蚁分处不同主干。有翅成虫上颚第一齿明显大于第二齿，头宽卵形且通常向前收窄，囟远位于头的后部；兵蚁属小型种，上颚无尖部，鼻短而粗的锥形，触角 11 节，额部轮廓凸起。兵蚁据此与 Occasitermes（鼻长而粗的锥形、触角 13 节、额轮廓平直）以及 Eutermellus（头在触角后方微缢缩）区分。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "上颚第一齿明显大于第二齿；头宽卵形，通常向前收窄；囟远位于头后方，头内脑部发达（原文作 Gehirn stark entwickelt）；唇基约与半宽等长，或较短但强烈隆起、横卵形、淡黄色。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "小型种。上颚无尖部（Spitzenteil）；鼻短、粗、锥形；触角 11 节；额部轮廓（Stirnprofil）凸。检索表另以工蚁唇基基部约与其半宽等长作为本属所在分支的辅助特征。"
+  }
+ ],
+ "note": "Holmgren 1912 建立的亚属，名录列为第 7 亚属，含 convexifrons Holmgren（秘鲁）与 nigricornis Holmgren（秘鲁）。原文无工蚁属征；兵蚁段末句提到的工蚁唇基特征只是检索辅助，不足以写成工蚁段。有翅成虫与兵蚁两段分属不同检索主干，合起来才是本属的鉴别组合，不能当作同一品级的完整描述。",
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+   "locator": "p. 59（Imagines 检索表 B/aa/bb/e）；p. 60（Soldaten 检索表 aa/b/c/d）；p. 64（亚属名录第 7 亚属）"
+  }
+ ]
+}

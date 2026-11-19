@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "肠道簇虫的鉴定与接合",
+   "heading_en": "Identification and syzygy of the gut gregarine",
+   "heading_es": "Identificación y syzygy de la gregarina intestinal",
+   "paragraphs": [
+    {
+     "text": "据摘要，Hall 与 Hostettler（1993）把弗吉尼亚散白蚁（<i>Reticulitermes virginicus</i>）与北美散白蚁（<i>Reticulitermes flavipes</i>）肠道内的簇虫视为同一种，并认为其与 <i>Gregarina termitis</i> Leidy 为同种；该名原据单个配子体描述，后被 Henry 误置于 <i>Hirmocystis</i> 属。文中并指出该簇虫的接合（syzygy）发生较晚，作者未观察到这一过程。",
+     "text_en": "According to the abstract, Hall and Hostettler (1993) treated the gregarines in the gut of <i>Reticulitermes virginicus</i> and <i>Reticulitermes flavipes</i> as the same species and considered them identical with <i>Gregarina termitis</i> Leidy, a name originally described from a single gamont and later erroneously placed in the genus <i>Hirmocystis</i> by Henry; the paper also noted that syzygy in this gregarine is late and was not observed.",
+     "text_es": "Según el resumen, Hall y Hostettler (1993) consideraron que las gregarinas del intestino de <i>Reticulitermes virginicus</i> y <i>Reticulitermes flavipes</i> pertenecen a la misma especie y las identificaron con <i>Gregarina termitis</i> Leidy, nombre descrito originalmente a partir de un solo gamonte y situado más tarde erróneamente en el género <i>Hirmocystis</i> por Henry; el trabajo señala además que la singamia (syzygy) de esta gregarina es tardía y no fue observada.",
+     "src": [
+      "S0359"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0359",
+   "citation": "Hall, D. W.; Hostettler, N. 1993. Septate gregarines from Reticulitermes flavipes and Reticulitermes virginicus (Isoptera: Rhinotermitidae). Journal of Eukaryotic Microbiology.",
+   "url": "https://doi.org/10.1111/j.1550-7408.1993.tb04878.x"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "Epicalotermes aethiopicus": {
+  "label": "Epicalotermes aethiopicus Silvestri, 1918",
+  "match": "exact",
+  "notes": "",
+  "otu": 82673,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82673/overview",
+  "valid_label": null,
+  "valid_otu": 82673,
+  "verified": false
+ },
+ "Epicalotermes kempae": {
+  "label": "Epicalotermes kempae (Wilkinson, 1954)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82674,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82674/overview",
+  "valid_label": null,
+  "valid_otu": 82674,
+  "verified": false
+ },
+ "Epicalotermes mkuzii": {
+  "label": "Epicalotermes mkuzii (Coaton, 1949)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82675,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82675/overview",
+  "valid_label": null,
+  "valid_otu": 82675,
+  "verified": false
+ },
+ "Epicalotermes munroi": {
+  "label": "Epicalotermes munroi (Coaton, 1949)",
+  "match": "exact",
+  "notes": "",
+  "otu": 82676,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82676/overview",
+  "valid_label": null,
+  "valid_otu": 82676,
+  "verified": false
+ },
+ "Epicalotermes pakistanicus": {
+  "label": "Epicalotermes pakistanicus Akhtar, 1974",
+  "match": "exact",
+  "notes": "",
+  "otu": 82677,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82677/overview",
+  "valid_label": null,
+  "valid_otu": 82677,
+  "verified": false
+ },
+ "Epicalotermes planifrons": {
+  "label": "Epicalotermes planifrons Krishna, 1962",
+  "match": "exact",
+  "notes": "",
+  "otu": 82678,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82678/overview",
+  "valid_label": null,
+  "valid_otu": 82678,
+  "verified": false
+ }
+}

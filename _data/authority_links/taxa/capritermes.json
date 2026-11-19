@@ -1,0 +1,24 @@
+{
+ "Capritermes capricornis": {
+  "gbif": {
+   "key": 9721753,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Capritermes capricornis (Wasmann, 1893)",
+   "accepted": null
+  },
+  "col": {
+   "id": "QSSC",
+   "status": "accepted",
+   "label": "Capritermes capricornis (Wasmann, 1893)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235325",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

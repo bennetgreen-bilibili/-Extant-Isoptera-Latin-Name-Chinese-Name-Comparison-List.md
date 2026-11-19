@@ -1,0 +1,15 @@
+{
+ "latin": "Ekphysotermes",
+ "zh": "瘤突白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Ekphysotermes Gay, 1971a: 24–25.",
+ "type_species": "Mirotermes (Mirotermes) kalgoorliensis Hill, 1942: by original designation.",
+ "references": [
+  {
+   "ref": "Hill, 1942: 14, 377–379",
+   "note": "Mirotermes; as genus and subgenus [part]; key; synonymy; imago, soldier, worker diagnosed."
+  }
+ ],
+ "nrefs": 3
+}

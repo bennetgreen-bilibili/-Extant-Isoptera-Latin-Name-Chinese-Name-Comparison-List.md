@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-16",
+ "sections": [
+  {
+   "heading": "新异名与分布扩展",
+   "heading_en": "A new synonym and an extended range",
+   "heading_es": "Un sinónimo nuevo y un área ampliada",
+   "paragraphs": [
+    {
+     "src": [
+      "S0323"
+     ],
+     "text": "据摘要，Amina 等（2019）把近扭白蚁属（<i>Pericapritermes</i>）的旧组合 <i>Pericapritermes travancorensis</i> Mathew and Ipe 列为塔库尔克里希纳扭白蚁（<i>Krishnacapritermes thakuri</i>）的新异名；该研究另自多个地点为该种生成基于细胞色素氧化酶 I（COI）基因的 DNA 条形码，并给出其分布范围扩展的数据。",
+     "text_en": "According to the abstract, Amina et al. (2019) treat <i>Pericapritermes travancorensis</i> Mathew and Ipe, a former combination in <i>Pericapritermes</i>, as a new junior synonym of <i>Krishnacapritermes thakuri</i>; the study also generated DNA barcodes based on the cytochrome oxidase I (COI) gene for the species from multiple localities and reported data extending its known distribution range.",
+     "text_es": "Según el resumen, Amina et al. (2019) consideran <i>Pericapritermes travancorensis</i> Mathew and Ipe, combinación antigua en <i>Pericapritermes</i>, un nuevo sinónimo posterior de <i>Krishnacapritermes thakuri</i>; el estudio generó además códigos de barras de ADN basados en el gen de la citocromo oxidasa I (COI) para la especie en varias localidades y aportó datos que amplían su área de distribución conocida."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0323",
+   "citation": "Amina, P.; Rajmohana, K.; Dinesh-Kumar, S. P.; Asha, G.; Sinu, P. A.; Mathew, J. 2019. Two new species of an Indian endemic genus Krishnacapritermes Chhotani (Isoptera: Termitidae) from the Kerala part of the Western Ghats, India. Oriental Insects.",
+   "url": "https://doi.org/10.1080/00305316.2019.1683091"
+  }
+ ]
+}

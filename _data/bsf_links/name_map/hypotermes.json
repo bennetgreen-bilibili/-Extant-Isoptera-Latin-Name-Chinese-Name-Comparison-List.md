@@ -1,0 +1,145 @@
+{
+ "Hypotermes bawanensis": {
+  "label": "Hypotermes bawanensis Zhu & Wang, 1990",
+  "match": "exact",
+  "notes": "",
+  "otu": 83515,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83515/overview",
+  "valid_label": null,
+  "valid_otu": 83515,
+  "verified": false
+ },
+ "Hypotermes makhamensis": {
+  "label": "Hypotermes makhamensis Ahmad, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 83516,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83516/overview",
+  "valid_label": null,
+  "valid_otu": 83516,
+  "verified": false
+ },
+ "Hypotermes manyunensis": {
+  "label": "Hypotermes manyunensis (Zhu & Huang, 1990)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83517,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83517/overview",
+  "valid_label": null,
+  "valid_otu": 83517,
+  "verified": false
+ },
+ "Hypotermes meiziensis": {
+  "label": "Hypotermes meiziensis Huang & Zhu, 1990",
+  "match": "exact",
+  "notes": "",
+  "otu": 83518,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83518/overview",
+  "valid_label": null,
+  "valid_otu": 83518,
+  "verified": false
+ },
+ "Hypotermes mengdingensis": {
+  "label": "Hypotermes mengdingensis Zhu & Huang, 1990",
+  "match": "exact",
+  "notes": "",
+  "otu": 83519,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83519/overview",
+  "valid_label": null,
+  "valid_otu": 83519,
+  "verified": false
+ },
+ "Hypotermes obscuriceps": {
+  "label": "Hypotermes obscuriceps (Wasmann, 1902)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83520,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83520/overview",
+  "valid_label": null,
+  "valid_otu": 83520,
+  "verified": false
+ },
+ "Hypotermes ruiliensis": {
+  "label": "Hypotermes ruiliensis (Zhu & Wang, 1990)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83521,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83521/overview",
+  "valid_label": null,
+  "valid_otu": 83521,
+  "verified": false
+ },
+ "Hypotermes sumatrensis": {
+  "label": "Hypotermes sumatrensis (Holmgren, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83522,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83522/overview",
+  "valid_label": null,
+  "valid_otu": 83522,
+  "verified": false
+ },
+ "Hypotermes wandingensis": {
+  "label": "Hypotermes wandingensis Zhu & Huang, 1990",
+  "match": "exact",
+  "notes": "",
+  "otu": 83523,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83523/overview",
+  "valid_label": null,
+  "valid_otu": 83523,
+  "verified": false
+ },
+ "Hypotermes wayaoensis": {
+  "label": "Hypotermes wayaoensis Zhu & Wang, 1990",
+  "match": "exact",
+  "notes": "",
+  "otu": 83524,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83524/overview",
+  "valid_label": null,
+  "valid_otu": 83524,
+  "verified": false
+ },
+ "Hypotermes winifredi": {
+  "label": "Hypotermes winifredi (Ahmad, 1953)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83525,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83525/overview",
+  "valid_label": null,
+  "valid_otu": 83525,
+  "verified": false
+ },
+ "Hypotermes xenotermitis": {
+  "label": "Hypotermes xenotermitis (Wasmann, 1896)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83526,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83526/overview",
+  "valid_label": null,
+  "valid_otu": 83526,
+  "verified": false
+ },
+ "Hypotermes yingjiangensis": {
+  "label": "Hypotermes yingjiangensis (Huang & Zhu, 1990)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83527,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83527/overview",
+  "valid_label": null,
+  "valid_otu": 83527,
+  "verified": false
+ }
+}

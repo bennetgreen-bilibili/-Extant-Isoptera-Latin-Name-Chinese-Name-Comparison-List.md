@@ -1,0 +1,43 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "鼻白蚁科的拆分（2024）",
+   "paragraphs": [
+    {
+     "text": "根据 Hellemans 等（2024）的基因组系统发育研究，传统意义上的鼻白蚁科（Rhinotermitidae sensu lato）是并系群，被拆分为四个科级支系：异白蚁科（Heterotermitidae，含乳白蚁属 Coptotermes、异白蚁属 Heterotermes、散白蚁属 Reticulitermes）、沙白蚁科（Psammotermitidae，含沙白蚁属 Psammotermes、原鼻白蚁属 Prorhinotermes）、寡脉白蚁科（Termitogetonidae，仅寡脉白蚁属 Termitogeton），以及狭义的鼻白蚁科（Rhinotermitidae sensu novo）。狭义鼻白蚁科只保留尖鼻白蚁属（Acorhinotermes）、狭鼻白蚁属（Dolichorhinotermes）、棒鼻白蚁属（Parrhinotermes）、鼻白蚁属（Rhinotermes）、长鼻白蚁属（Schedorhinotermes）五属，即原来的鼻白蚁亚科（Rhinotermitinae，旧亚科）；大鼻白蚁属（Macrorhinotermes，异名）被处理为长鼻白蚁属（Schedorhinotermes）的次异名。",
+     "src": [
+      "S0008"
+     ],
+     "text_en": "According to the genomic phylogenetic study of Hellemans et al. (2024), Rhinotermitidae in the traditional sense (Rhinotermitidae sensu lato) is paraphyletic and was split into four family-level clades: Heterotermitidae (containing Coptotermes, Heterotermes and Reticulitermes), Psammotermitidae (containing Psammotermes and Prorhinotermes), Termitogetonidae (only Termitogeton), and Rhinotermitidae in the narrow sense (Rhinotermitidae sensu novo). Rhinotermitidae sensu novo retains only five genera, Acorhinotermes, Dolichorhinotermes, Parrhinotermes, Rhinotermes and Schedorhinotermes, that is, the former Rhinotermitinae (the old subfamily); Macrorhinotermes (a synonym) was treated as a junior synonym of Schedorhinotermes.",
+     "text_es": "Según el estudio filogenómico de Hellemans et al. (2024), Rhinotermitidae en su sentido tradicional (Rhinotermitidae sensu lato) es parafilética y fue dividida en cuatro linajes de rango familiar: Heterotermitidae (con Coptotermes, Heterotermes y Reticulitermes), Psammotermitidae (con Psammotermes y Prorhinotermes), Termitogetonidae (solo Termitogeton) y Rhinotermitidae en sentido estricto (Rhinotermitidae sensu novo). Rhinotermitidae sensu novo conserva únicamente cinco géneros —Acorhinotermes, Dolichorhinotermes, Parrhinotermes, Rhinotermes y Schedorhinotermes—, es decir, la antigua subfamilia Rhinotermitinae; Macrorhinotermes (nombre sinónimo) fue tratado como sinónimo junior de Schedorhinotermes."
+    },
+    {
+     "text": "修订后的鼻白蚁科（Rhinotermitidae sensu novo）分布涵盖澳大利亚、非洲、新热带、东方、古北（中日）和大洋洲；兵蚁可为单型、二型或三型；鉴别特征包括膨大的唇基、从囟到唇基的窄沟，以及兵蚁延长且端部呈刷状的上唇，上唇中央有一条供额腺分泌物流动的沟。",
+     "src": [
+      "S0008"
+     ],
+     "text_en": "The revised Rhinotermitidae (Rhinotermitidae sensu novo) ranges across Australia, Africa, the Neotropics, the Oriental region, the Palaearctic (China and Japan) and Oceania; soldiers may be monomorphic, dimorphic or trimorphic; diagnostic features include an inflated clypeus, a narrow groove running from the fontanelle to the clypeus, and, in soldiers, an elongate labrum with a brush-like tip, the labrum bearing a median groove along which the frontal-gland secretion flows.",
+     "text_es": "Rhinotermitidae en su sentido revisado (Rhinotermitidae sensu novo) se distribuye por Australia, África, el Neotrópico, la región Oriental, el Paleártico (China y Japón) y Oceanía; los soldados pueden ser monomórficos, dimórficos o trimórficos; entre sus caracteres diagnósticos figuran el clípeo inflado, un surco estrecho desde la fontanela hasta el clípeo y el labro alargado con el ápice en forma de cepillo, recorrido por un surco central por el que fluye la secreción de la glándula frontal."
+    },
+    {
+     "text": "因此，旧文献中的“鼻白蚁科”不能一律等同于本站现在的鼻白蚁科（Rhinotermitidae sensu novo）；遇到乳白蚁属（Coptotermes）、散白蚁属（Reticulitermes）等属时，应按异白蚁科（Heterotermitidae）处理。",
+     "src": [
+      "S0008"
+     ],
+     "text_en": "Consequently, 'Rhinotermitidae' in older literature cannot be equated throughout with the Rhinotermitidae (Rhinotermitidae sensu novo) of this checklist; where genera such as Coptotermes and Reticulitermes are encountered, they should be treated as Heterotermitidae.",
+     "text_es": "Por lo tanto, la Rhinotermitidae de la literatura antigua no puede equipararse sin más a la Rhinotermitidae actual de esta lista (Rhinotermitidae sensu novo); cuando se trate de géneros como Coptotermes o Reticulitermes, deben considerarse dentro de Heterotermitidae."
+    }
+   ],
+   "heading_en": "The split of Rhinotermitidae (2024)",
+   "heading_es": "Escisión de Rhinotermitidae (2024)"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0008",
+   "citation": "Hellemans S., Rocha M. M., Wang M., et al. Genomic data provide insights into the classification of extant termites. 2024.",
+   "doi": "10.1038/s41467-024-51028-y"
+  }
+ ]
+}

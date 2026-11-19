@@ -1,0 +1,25 @@
+{
+ "zh_name": "冢白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫左上颚第 1 齿明显大于第 2 齿，头宽卵形、常前窄，囟近头中部，触角节较长，前胸背板宽，翅面点状并疏生毛（Taf. III, Fig. 12）；兵蚁上颚具端突（在 T. tumuli 与 T. apiocephalus 中虽弱但确实存在）、头壳在触角窝后不缢缩、鼻相对长而窄、锥形至圆柱形、头卵形（Taf. III, Fig. 13）。与 Subulitermes 以兵蚁端突的有无区分，与 Rotunditermes 以鼻形和头形区分。Holmgren 认为本属在一般体构上与 Eutermes s. str. 差别很小，是该组通向 Eutermes s. str. 的连接环节。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头宽卵形，通常向前变窄；囟约在头中部；触角节相对较长；前胸背板宽；翅面点状并疏生毛（Tafel III, Fig. 12）。左上颚第 1 齿明显大于第 2 齿；唇基约与半宽等长，或较短而强烈隆起、卵形、淡黄色。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "上颚具一个多少明显的端突；头壳在触角窝后不缢缩；鼻相对长而窄，锥形至圆柱形；头卵形（Tafel III, Fig. 13）。"
+  }
+ ],
+ "note": "原文为检索表对句；p. 68 的系统学讨论补充：本组整体具大唇基，Tumulitermes 与 Eutermes s. str. 体构最接近，其兵蚁端突虽弱却存在，故被视为连接环节。无测量、体色与工蚁记述。",
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren, N. 1912. Termitenstudien. 3. Systematik der Termiten. Die Familie Termitidae, Isoptera. Kungliga Svenska Vetenskapsakademiens Handlingar, 48(4): 59–62, 68–72.",
+   "locator": "p. 60（有翅成虫检索表 dd/e），p. 61（兵蚁检索表 c/d），p. 68（系统学讨论）"
+  }
+ ]
+}

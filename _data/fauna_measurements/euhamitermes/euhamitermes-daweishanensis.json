@@ -1,0 +1,38 @@
+{
+ "book_n": "320",
+ "book_name": "大围亮白蚊 Euhamitermes daweishanensis",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "成虫量度",
+   "label_en": "Imago measurements",
+   "label_es": "Medidas de imago",
+   "label_zh": "成虫量度",
+   "rows": [
+    {
+     "key": "eye_long_diameter",
+     "value": "0.31"
+    },
+    {
+     "key": "eye_short_diameter",
+     "value": "0.30"
+    },
+    {
+     "key": "ocellus_eye_distance",
+     "value": "0.07"
+    },
+    {
+     "key": "pronotum_length",
+     "value": "0.68"
+    },
+    {
+     "key": "pronotum_width",
+     "value": "1.17"
+    }
+   ],
+   "src_file": "601-700.txt",
+   "src_line": 1357,
+   "unit": "mm"
+  }
+ ]
+}

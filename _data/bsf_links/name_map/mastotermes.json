@@ -1,0 +1,13 @@
+{
+ "Mastotermes darwiniensis": {
+  "label": "Mastotermes darwiniensis Froggatt, 1897",
+  "match": "exact",
+  "notes": "",
+  "otu": 82462,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/82462/overview",
+  "valid_label": null,
+  "valid_otu": 82462,
+  "verified": false
+ }
+}

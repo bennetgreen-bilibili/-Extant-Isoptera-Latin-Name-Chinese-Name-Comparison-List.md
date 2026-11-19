@@ -1,0 +1,21 @@
+{
+ "zh_name": "曼长工白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "工蚁肠瓣座（EVS）三叶，据此与肠瓣座管状的 Hirsutitermes 分开；肠瓣武装为覆盖垫间角质的连续花环状结构，由数百枚细小薄刺组成。体型较 Hirsutitermes 小。"
+  },
+  {
+   "label": "工蚁",
+   "text": "肠瓣（EVA）武装呈连续花环状，刺小而薄、数以百计，并延伸至垫间角质上；肠瓣座三叶。体型较小。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0027",
+   "citation": "Carrijo T. F.; Castro D.; Wang M.; Constantini J. P.; Bourguignon T.; Cancello E. M.; Scheffrahn R. H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317-352. doi 10.3897/zookeys.1167.100001",
+   "locator": "Key to neotropical Apicotermitinae genera based on the worker caste, couplet 15；Key to neotropical Apicotermitinae genera based on the worker caste, couplet 16 (Longustitermes 分支)；Comparison and remarks (Hirsutitermes)"
+  }
+ ],
+ "note": "该属为单型属，仅含本种；以下为据原始文献的属级描述，种级量度与种内变异见原文。"
+}

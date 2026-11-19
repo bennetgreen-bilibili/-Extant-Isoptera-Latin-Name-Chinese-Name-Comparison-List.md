@@ -1,0 +1,21 @@
+{
+ "zh_name": "针刺白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "Holmgren 1912 将其作为 Mirotermes 的一个亚属处理（Mirotermes (Spinitermes)），并注明「仅分布于南美」，含 4 种：brevicornutus (Desn.) Silv.（马托格罗索、巴拉圭）、gracilis Holmgr.（秘鲁）、nigrostomus Holmgr.（玻利维亚）、trispinosus (Bates) Wasm.（库亚巴、亚马孙）。原文只在一份属下亚属检索表中给出一行特征，未另作独立描述；有翅成虫与工蚁在该书中未涉及。其兵蚁的识别组合为：额突大、呈突起状，两侧各有一明显的瘤突或突起；头后缘无齿状突起；上唇宽大于长；上颚远短于头，相当粗壮，略呈刀状弯曲。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "据亚属检索表：额突大，呈突起状，两侧各有一个明显的瘤突或突起。头后缘无齿状突起。上唇宽大于长。上颚远短于头，相当粗壮，略呈刀状弯曲（图版 IV 图 7）。同表相邻的 Tuberculitermes 亚属则头后缘两侧各有一个近乎齿状的突起、上唇远长于宽、上颚与头等长而直、端部呈钩状反折，可与之区分。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren, N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familien Mastotermitidae, Protermitidae und Mesotermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166, Taf. 1–4.",
+   "locator": "pp. 108—109（archive.org 项 biostor-184513 页面图像）"
+  }
+ ],
+ "note": "描述据 Holmgren 1912 原文（archive.org 项 biostor-184513 的页面图像，pp. 108—109）。1912 年该书把 Spinitermes 作为 Mirotermes 的亚属，仅给出一行检索表特征，无独立属征段落，故本条目不含「有翅成虫」「工蚁」节。校订说明：p. 109 种名录首行原文误排为 »Miroteermes«（重字），据同页其余各行与 p. 108 检索表应为 »Mirotermes«；引文保留原样，此处单独说明。"
+}

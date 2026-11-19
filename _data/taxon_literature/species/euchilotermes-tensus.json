@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-17",
+ "sections": [
+  {
+   "heading": "变种的记载与种级处理",
+   "heading_en": "Varieties and their species-level treatment",
+   "heading_es": "Variedades y su tratamiento a nivel de especie",
+   "paragraphs": [
+    {
+     "text": "根据 Ndiaye、Njie 与 Correa（2019）研究，拉长真唇白蚁（<i>Euchilotermes tensus</i>）由 Silvestri 描述时包含尖齿变种与弓形变种两个变种；其中尖齿变种经 Emerson 依据「上颚末端更长更弯、齿更小更尖、后颏更宽」提升为独立的尖齿真唇白蚁（<i>Euchilotermes acutidens</i>），而弓形变种在该研究中被认为应依属内各种所用鉴别特征提升为种，即拉长真唇白蚁弓形亚种（<i>Euchilotermes tensus arcuata</i>）宜按种级处理。该研究同时指出，拉长真唇白蚁弓形亚种（<i>Euchilotermes tensus arcuata</i>）在塞内加尔尚无分布记录。",
+     "src": [
+      "S0346"
+     ],
+     "text_en": "In the study by Ndiaye, Njie and Correa (2019), <i>Euchilotermes tensus</i> was described by Silvestri with two varieties, acutidens and arcuata; the acutidens variety was raised to species rank by Emerson on the grounds that its mandibles are more prolonged and curved at the apex, its teeth smaller and sharper and its gula wider, becoming <i>Euchilotermes acutidens</i>, while the arcuata variety is held in the same study to deserve species rank on the distinctive features used to describe species in the genus, so that <i>Euchilotermes tensus arcuata</i> should be treated at species level. The study also notes that <i>Euchilotermes tensus arcuata</i> is not yet known from Senegal.",
+     "text_es": "En el estudio de Ndiaye, Njie y Correa (2019), <i>Euchilotermes tensus</i> fue descrita por Silvestri con dos variedades, acutidens y arcuata; la variedad acutidens fue elevada a especie por Emerson porque sus mandíbulas son más prolongadas y curvadas en el ápice, sus dientes más pequeños y agudos y su gula más ancha, pasando a <i>Euchilotermes acutidens</i>, mientras que la variedad arcuata, según el mismo estudio, merece rango de especie por los caracteres distintivos empleados para describir las especies del género, de modo que <i>Euchilotermes tensus arcuata</i> debería tratarse a nivel de especie. El estudio señala además que <i>Euchilotermes tensus arcuata</i> aún no se conoce de Senegal."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0346",
+   "citation": "Ndiaye, A. B.; Njie, E.; Correa, P. A. 2019. Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia). Insects 10: 122.",
+   "doi": "10.3390/insects10050122"
+  }
+ ]
+}

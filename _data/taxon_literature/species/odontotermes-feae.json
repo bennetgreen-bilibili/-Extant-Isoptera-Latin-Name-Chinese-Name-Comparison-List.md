@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-15",
+ "sections": [
+  {
+   "heading": "活立木取食与试验用虫",
+   "heading_en": "Feeding on living trees and test termites",
+   "heading_es": "Alimentación en árboles vivos y termitas de ensayo",
+   "paragraphs": [
+    {
+     "src": [
+      "S0287"
+     ],
+     "text": "据摘要，根据 Becker（1962）研究，菲氏土白蚁（<i>Odontotermes feae</i>）取食多种树木，是当年新增取食活立木记录的种之一；作者建议以异白蚁属（<i>Heterotermes</i>）1 种、乳白蚁属（<i>Coptotermes</i>）1 种与菲氏土白蚁（<i>Odontotermes feae</i>）三种作为木材天然抗性与防腐剂效力室内试验的推荐试虫。",
+     "text_en": "According to the abstract, Becker (1962) reported that <i>Odontotermes feae</i> feeds on a range of tree species and was one of the species newly recorded as feeding on living trees that year; the author recommended one species of <i>Heterotermes</i>, one species of <i>Coptotermes</i> and <i>Odontotermes feae</i> as the three test termites for laboratory trials of the natural resistance of wood and the efficacy of preservatives.",
+     "text_es": "Según el resumen, Becker (1962) informó que <i>Odontotermes feae</i> se alimenta de diversas especies arbóreas y fue una de las especies registradas por primera vez ese año como consumidoras de árboles vivos; el autor recomendó una especie de <i>Heterotermes</i>, una especie de <i>Coptotermes</i> y <i>Odontotermes feae</i> como las tres termitas de ensayo para las pruebas de laboratorio sobre la resistencia natural de la madera y la eficacia de los preservantes."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0287",
+   "citation": "Günther Becker. 1962. Beiträge zur Kenntnis der geographischen Verbreitung und wirtschaftlichen Bedeutung von Termiten in Indien1. Zeitschrift für Angewandte Entomologie.",
+   "doi": "10.1111/j.1439-0418.1962.tb04422.x"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Caracteres del género en Sands 1972 pp. 222–223. El original solo indica el tamaño corporal (ancho de la cabeza W, mm), el número de espinas apicales de la tibia anterior, las proporciones de los dientes mandibulares, la constricción de los terguitos meso- y metatorácicos (M/W), la fontanela y la pilosidad cefálica (cuando existen) y la estructura del tubo digestivo y de la válvula entérica; no registra el número de segmentos antenales, la forma del pronoto ni la venación alar, por lo que esta entrada no se completa. La confusión, en el OCR, entre el punto decimal «*» y entre i/1 se ha normalizado a cifras árabes según el contexto.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El alado se reconoce fácilmente por la combinación de una fontanela conspicua, una pilosidad cefálica plateada muy corta, fina y uniforme, y el gran tamaño; en la misma área solo Astratotermes prosenus se asemeja superficialmente, pero es mayor y de pilosidad no uniforme. El segmento mixto largo del obrero lo distingue de la mayoría de los demás géneros; Adaiphrotermes comparte ese carácter, pero en este el extremo del mesenterón está dilatado y en el presente género no."
+  },
+  {
+   "label": "Obrero",
+   "text": "Grande, W 0.90–0.99 mm. Tibia anterior débil a casi nada dilatada, Ti/Tw 4.21–5.31, con 3 espinas apicales, la tercera aproximadamente la mitad de las otras dos. Diente apical de las mandíbulas corto a medianamente largo, La/Li 0.60–0.79, Ra/Ri 0.78–1.00; entre el diente subapical de la mandíbula izquierda y la prominencia molar media una muesca manifiesta; en la mandíbula derecha el ápice del 1.er diente marginal ligeramente por detrás de la línea que une el diente apical y el 2.º diente marginal, con los márgenes anteriores de los dientes marginales de igual longitud. Mesenterón y proctodeo solapados, prolongados en un segmento mixto manifiesto de longitud aproximadamente 4–5 veces la anchura del mesenterón en el punto de inserción de los túbulos de Malpighi, con el extremo proximal del proctodeo muy a la izquierda del nódulo de Malpighi. Asiento de la válvula entérica con 3 lóbulos conspicuos, de igual tamaño y disposición regular, unido al segundo saco del proctodeo por un cuello manifiesto a muy largo, completamente dorsal en el abdomen sin diseccionar; colchón interno de la válvula entérica retraído o sobresaliendo por el orificio valvular, no esclerotizado, de superficie escamosa, con espinitas diminutas a conspicuas en la pared valvular entre los colchones y fuera de ellos."
+  },
+  {
+   "label": "Alado",
+   "text": "Grande, W 1.04–1.31 mm. Tibia anterior con 3 espinas apicales, la tercera desarrollada, de aproximadamente 2/3 de las otras dos. Diente apical de las mandíbulas corto, La/Li 0.54–0.68, Ra/Ri 0.73–1.06; entre el diente subapical de la mandíbula izquierda y la prominencia molar media una muesca manifiesta; en la mandíbula derecha el diente apical y los ápices de los dientes marginales aproximadamente en línea, con los márgenes anteriores del 1.º y del 2.º diente marginal de igual longitud. Fontanela circular a brevemente oval, conspicua, notablemente más pálida que la cápsula cefálica; pilosidad cefálica de fieltro plateado corto, fino y uniforme, con setas erectas. Terguitos meso- y metatorácicos relativamente anchos en la constricción, M/W 0.28–0.34, sutura transversa presente."
+  }
+ ]
+}

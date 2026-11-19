@@ -1,0 +1,33 @@
+{
+ "latin": "Mirocapritermes",
+ "zh": "瘤白蚁属",
+ "fetched_at": "2026-10-30T16:54:05Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2734884268",
+   "openalex_url": "https://openalex.org/W2734884268",
+   "doi": "",
+   "doi_url": "",
+   "title": "云南白蚁二新种：等翅目：白蚁科",
+   "year": 1995,
+   "date": "1995-01-01",
+   "authors": [
+    "杨兵",
+    "朱世模",
+    "黄复生"
+   ],
+   "venue": "",
+   "type": "article",
+   "language": "zh",
+   "cited_by": 0,
+   "oa_url": "",
+   "volume": "17",
+   "issue": "2",
+   "pages": "79-83",
+   "abstract": "本文描述产于云南的白蚁科２新种：章凤马歪白蚁Ｍａｌａｙｓｉｏｃａｐｒｉｔｅｒｍｅｓ ｚｈａｎｇｆｅｎｇｅｒｓｉｓ ｓｐ．ｎ．、江城瘤歪白蚁Ｍｉｒｏｃａｐｒｉｔｅｒｍｅｓ ｊｉａｎｇｃｈｅｎｇｅｒｓｉｓ ｓｐ．ｎ。在读者讨论中，作者等认为，李桂祥等描述的中国马歪白蚁Ｍ．ｓｉｎｉｃｕｓ Ｌｉ ｅｔ Ｘｉａｏ应转移入华歪白蚁属Ｓｉｎｏｃａｐｒｉｔｅｒｍｅｓ Ｐｉｎｇ ｅｔ Ｘｕ，新组合为中国华歪白蚁Ｓｉ",
+   "abstract_source": "openalex",
+   "abstract_chars": 200,
+   "abstract_truncated": false
+  }
+ ]
+}

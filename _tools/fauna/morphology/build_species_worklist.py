@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Build a worklist of species/subspecies pages lacking a compiled morphology section.
 
-Reads _species/*.md front matter, _data/fauna_species.json and
-_data/morphology_species.json.  Writes _reports/species-morphology-worklist.csv
+Reads _species/*.md front matter and the _data/fauna_species/ and
+_data/morphology_species/ shards.  Writes _reports/species-morphology-worklist.csv
 (one row per page) and .md (summary + per-family counts).  Review aid only.
 """
 from __future__ import annotations
@@ -10,15 +10,17 @@ from __future__ import annotations
 import csv
 import json
 import re
+import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[3]
+sys.path.insert(0, str(ROOT / "_tools"))
+import shard_io  # noqa: E402
+
 SPECIES = ROOT / "_species"
 OUT_CSV = ROOT / "_reports" / "species-morphology-worklist.csv"
 OUT_MD = ROOT / "_reports" / "species-morphology-worklist.md"
-FAUNA = ROOT / "_data" / "fauna_species.json"
-MORPH = ROOT / "_data" / "morphology_species.json"
 
 FIELD = re.compile(r'^([a-z_]+):\s*(.*)$')
 
@@ -49,8 +51,8 @@ def read_front(path: Path) -> dict[str, str]:
 
 
 def main() -> int:
-    fauna = json.loads(FAUNA.read_text(encoding="utf-8")) if FAUNA.exists() else {}
-    morph = json.loads(MORPH.read_text(encoding="utf-8")) if MORPH.exists() else {}
+    fauna = shard_io.load("fauna_species")
+    morph = shard_io.load("morphology_species")
     rows = []
     for path in sorted(SPECIES.glob("*.md")):
         fm = read_front(path)
@@ -86,7 +88,7 @@ def main() -> int:
     for r in rows:
         by_family[r["科"]][r["状态"]] += 1
     lines = ["# 物种 / 亚种形态描述工作清单", ""]
-    lines.append(f"生成自 _species/*.md、_data/fauna_species.json、_data/morphology_species.json；共 **{len(rows)}** 个页面。")
+    lines.append(f"生成自 _species/*.md、_data/fauna_species/、_data/morphology_species/；共 **{len(rows)}** 个页面。")
     lines.append("")
     lines.append("| 状态 | 页面数 |")
     lines.append("| --- | ---: |")
@@ -103,7 +105,7 @@ def main() -> int:
         c = by_family[fam]
         lines.append(f"| {fam or '（未填）'} | {sum(c.values())} | {c.get('已有补充描述', 0)} | {c.get('已有《中国动物志》描述', 0)} | {c.get('待补', 0)} |")
     lines.append("")
-    lines.append("状态含义：已有补充描述 = _data/morphology_species.json 有条目；已有《中国动物志》描述 = _data/fauna_species.json 有条目，页面已渲染动物志一节；待补 = 两者皆无，页面显示待补说明并指向属页。")
+    lines.append("状态含义：已有补充描述 = _data/morphology_species/ 有条目；已有《中国动物志》描述 = _data/fauna_species/ 有条目，页面已渲染动物志一节；待补 = 两者皆无，页面显示待补说明并指向属页。")
     OUT_MD.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"rows {len(rows)} {dict(counts)}")
     print(f"wrote {OUT_CSV.relative_to(ROOT)}")

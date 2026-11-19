@@ -1,0 +1,59 @@
+{
+ "latin": "Euchilotermes",
+ "zh": "真唇白蚁属",
+ "fetched_at": "2026-10-30T16:53:36Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2941825146",
+   "openalex_url": "https://openalex.org/W2941825146",
+   "doi": "10.3390/insects10050122",
+   "doi_url": "https://doi.org/10.3390/insects10050122",
+   "title": "Termites (Blattodea Latreille 1810, Termitoidae Latreille 1802) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia)",
+   "year": 2019,
+   "date": "2019-04-28",
+   "authors": [
+    "Abdoulaye Baila Ndiaye",
+    "Ebrima Njie",
+    "Paul A. Correa"
+   ],
+   "venue": "Insects",
+   "type": "article",
+   "language": "en",
+   "cited_by": 6,
+   "oa_url": "https://www.mdpi.com/2075-4450/10/5/122/pdf?version=1556438387",
+   "volume": "10",
+   "issue": "5",
+   "pages": "122-122",
+   "abstract": "From 28 October to 5 November 2013, a termite study was undertaken in 3 protected sites in The Gambia (West Africa). The aim of the study is to investigate the diversity of termites in three protected areas in the western region of the country. Termite sampling is carried out in 100 m × 2 m transects that are replicated three (3) times in each site. A total of thirty-one (31) termite species, that belong to fungus growing (11), harvester (1), humuvorous (12) and xylophagous (7), were recorded. The following nineteen (19) species are new to The Gambia: Coptotermes intermedius, Astalotermes near quietus, Ancistrotermes cavithorax, Macrotermes bellicosus, Microtermes grassei, M. lepidus, M. subhyalinus, Odontotermes erraticus, O. pauperans, O. sudanensis, Basidentitermes sp., Euchilotermes tensus arcuata, Noditermes cristifrons, Amitermes evuncifer, Amitermes spinifer, Microcerotermes fuscotibialis, Microcerotermes near parvulus, Microcerotermes near solidus and Promirotermes holmgreni. Additional description and/or ecological information on Odontotermes erraticus, Cubitermes severus, Cubitermes n. proximatus, Euchilotermes tensus arcuata, Basidentitermes sp., and Noditermes cristifrons are given.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1213,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2899597192",
+   "openalex_url": "https://openalex.org/W2899597192",
+   "doi": "10.20944/preprints201811.0147.v1",
+   "doi_url": "https://doi.org/10.20944/preprints201811.0147.v1",
+   "title": "Termites (Isoptera Brullé 1832) of Abuko Nature Reserve, Nyambai Forest Park and Tanji Bird Reserve (The Gambia)",
+   "year": 2018,
+   "date": "2018-11-07",
+   "authors": [
+    "Abdoulaye Baila Ndiaye",
+    "Ebrima Njie",
+    "Paul Correa"
+   ],
+   "venue": "Preprints.org",
+   "type": "preprint",
+   "language": "en",
+   "cited_by": 0,
+   "oa_url": "https://www.preprints.org/manuscript/201811.0147/v1/download",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "abstract": "From October 28 to November 05, 2013, we conducted a termite sampling in 3 protected sites in The Gambia (West Africa). Termites sampling is carried out in 100 m x 2 m transects repeated 3 times in each site. A total of 33 species of termites have been recorded. Of the 33 species, 22 are new to The Gambia. Additionnal measurements are given for several collected termite species. Euchilotermes arcuata Silvestri is elevated to the rank of species.",
+   "abstract_source": "openalex",
+   "abstract_chars": 449,
+   "abstract_truncated": false
+  }
+ ]
+}

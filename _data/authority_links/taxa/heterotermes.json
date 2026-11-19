@@ -1,0 +1,688 @@
+{
+ "Heterotermes aethiopicus": {
+  "gbif": {
+   "key": 9665268,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes aethiopicus (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LTYR",
+   "status": "accepted",
+   "label": "Heterotermes aethiopicus (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251911",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes assu": {
+  "gbif": {
+   "key": 9756163,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes assu Constantino, 2000",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LTZ3",
+   "status": "accepted",
+   "label": "Heterotermes assu Constantino, 2000",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251912",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes aureus": {
+  "gbif": {
+   "key": 2007376,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes aureus (Snyder, 1920)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6M5YR",
+   "status": "accepted",
+   "label": "Heterotermes aureus (Snyder, 1920)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582617",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes balwanti": {
+  "gbif": {
+   "key": 9724431,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes balwanti Mathur & Chhotani, 1969",
+   "accepted": null
+  },
+  "col": {
+   "id": "6M5Z3",
+   "status": "accepted",
+   "label": "Heterotermes balwanti Mathur & Chhotani, 1969",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251914",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes brevicatena": {
+  "gbif": {
+   "key": 4802774,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes brevicatena Watson & Miller, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LTYK",
+   "status": "accepted",
+   "label": "Heterotermes brevicatena Watson & Miller, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272445",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes cardini": {
+  "gbif": {
+   "key": 9676899,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes cardini (Snyder, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6M5YK",
+   "status": "accepted",
+   "label": "Heterotermes cardini (Snyder, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251915",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes ceylonicus": {
+  "gbif": {
+   "key": 9153785,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes ceylonicus (Holmgren, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LTYL",
+   "status": "accepted",
+   "label": "Heterotermes ceylonicus (Holmgren, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591888",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes convexinotatus": {
+  "gbif": {
+   "key": 2007375,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes convexinotatus (Snyder, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LTYM",
+   "status": "accepted",
+   "label": "Heterotermes convexinotatus (Snyder, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582615",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes crinitus": {
+  "gbif": {
+   "key": 9449181,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes crinitus (Emerson, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6M5YM",
+   "status": "accepted",
+   "label": "Heterotermes crinitus (Emerson, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251916",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes ferox": {
+  "gbif": {
+   "key": 4802771,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes ferox (Froggatt, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LTYG",
+   "status": "accepted",
+   "label": "Heterotermes ferox (Froggatt, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272446",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes gertrudae": {
+  "gbif": {
+   "key": 8891558,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes gertrudae Roonwal, 1953",
+   "accepted": null
+  },
+  "col": {
+   "id": "6M5YG",
+   "status": "accepted",
+   "label": "Heterotermes gertrudae Roonwal, 1953",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251917",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes indicola": {
+  "gbif": {
+   "key": 8776851,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes indicola (Wasmann, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LTYH",
+   "status": "accepted",
+   "label": "Heterotermes indicola (Wasmann, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591891",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes intermedius": {
+  "gbif": {
+   "key": 4802769,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 99,
+   "rank": "SPECIES",
+   "name": "Heterotermes intermedius Hill, 1932",
+   "accepted": null
+  },
+  "col": {
+   "id": "6M5YH",
+   "status": "accepted",
+   "label": "Heterotermes intermedius Hill, 1932",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272447",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes lauralinearum": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Heterotermes Froggatt, 1897",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Heterotermes Froggatt, 1897",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes longicatena": {
+  "gbif": {
+   "key": 4802767,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes longicatena Watson & Miller, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LTYC",
+   "status": "accepted",
+   "label": "Heterotermes longicatena Watson & Miller, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272448",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes longiceps": {
+  "gbif": {
+   "key": 9695966,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes longiceps (Snyder, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6M5YC",
+   "status": "accepted",
+   "label": "Heterotermes longiceps (Snyder, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251919",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes maculatus": {
+  "gbif": {
+   "key": 2007378,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes maculatus Light, 1933",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LTYD",
+   "status": "accepted",
+   "label": "Heterotermes maculatus Light, 1933",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582616",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes malabaricus": {
+  "gbif": {
+   "key": 9788356,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes malabaricus Snyder, 1933",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LTYF",
+   "status": "accepted",
+   "label": "Heterotermes malabaricus Snyder, 1933",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251920",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes occiduus": {
+  "gbif": {
+   "key": 4802773,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes occiduus (Hill, 1927)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LTYB",
+   "status": "accepted",
+   "label": "Heterotermes occiduus (Hill, 1927)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272449",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes omanae": {
+  "gbif": {
+   "key": 9791174,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes omanae Chhotani, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "6M5YB",
+   "status": "accepted",
+   "label": "Heterotermes omanae Chhotani, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251922",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes pamatatensis": {
+  "gbif": {
+   "key": 9658129,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes pamatatensis Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LTXZ",
+   "status": "accepted",
+   "label": "Heterotermes pamatatensis Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251923",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes paradoxus": {
+  "gbif": {
+   "key": 4802775,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes paradoxus (Froggatt, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6M5XZ",
+   "status": "accepted",
+   "label": "Heterotermes paradoxus (Froggatt, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272450",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes perfidus": {
+  "gbif": {
+   "key": 9700585,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes perfidus (Silvestri, 1936)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6M69Z",
+   "status": "accepted",
+   "label": "Heterotermes perfidus (Silvestri, 1936)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251924",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes philippinensis": {
+  "gbif": {
+   "key": 9719809,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes philippinensis (Light, 1921)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LTZX",
+   "status": "accepted",
+   "label": "Heterotermes philippinensis (Light, 1921)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251925",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes platycephalus": {
+  "gbif": {
+   "key": 4802768,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes platycephalus Froggatt, 1897",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LTZY",
+   "status": "accepted",
+   "label": "Heterotermes platycephalus Froggatt, 1897",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272451",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes sulcatus": {
+  "gbif": {
+   "key": 9727247,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes sulcatus Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "6M5ZZ",
+   "status": "accepted",
+   "label": "Heterotermes sulcatus Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251927",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes tenuior": {
+  "gbif": {
+   "key": 9739283,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes tenuior (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LTZT",
+   "status": "accepted",
+   "label": "Heterotermes tenuior (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251928",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes tenuis": {
+  "gbif": {
+   "key": 2007377,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes tenuis (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6M5ZT",
+   "status": "accepted",
+   "label": "Heterotermes tenuis (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582618",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes vagus": {
+  "gbif": {
+   "key": 4802770,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes vagus (Hill, 1927)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6M5ZV",
+   "status": "accepted",
+   "label": "Heterotermes vagus (Hill, 1927)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272452",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes validus": {
+  "gbif": {
+   "key": 4802765,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes validus Hill, 1915",
+   "accepted": null
+  },
+  "col": {
+   "id": "6LTZW",
+   "status": "accepted",
+   "label": "Heterotermes validus Hill, 1915",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272454",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Heterotermes wittmeri": {
+  "gbif": {
+   "key": 9751507,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Heterotermes wittmeri Chhotani & Bose, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "6M5ZW",
+   "status": "accepted",
+   "label": "Heterotermes wittmeri Chhotani & Bose, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251930",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

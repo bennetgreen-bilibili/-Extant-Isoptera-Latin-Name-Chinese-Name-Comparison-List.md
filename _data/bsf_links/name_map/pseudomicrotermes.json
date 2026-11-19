@@ -1,0 +1,13 @@
+{
+ "Pseudomicrotermes alboniger": {
+  "label": "Pseudomicrotermes alboniger (Wasmann, 1911)",
+  "match": "exact",
+  "notes": "",
+  "otu": 83904,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83904/overview",
+  "valid_label": null,
+  "valid_otu": 83904,
+  "verified": false
+ }
+}

@@ -1,0 +1,865 @@
+{
+ "Hospitalitermes asahinai": {
+  "gbif": {
+   "key": 9751244,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes asahinai Morimoto, 1973",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQSJ",
+   "status": "accepted",
+   "label": "Hospitalitermes asahinai Morimoto, 1973",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251947",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes ataramensis": {
+  "gbif": {
+   "key": 9684382,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes ataramensis Prashad & Sen-Sarma, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQSK",
+   "status": "accepted",
+   "label": "Hospitalitermes ataramensis Prashad & Sen-Sarma, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251948",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes bicolor": {
+  "gbif": {
+   "key": 9783299,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes bicolor (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQSL",
+   "status": "accepted",
+   "label": "Hospitalitermes bicolor (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251950",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes birmanicus": {
+  "gbif": {
+   "key": 9755906,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes birmanicus (Snyder, 1934)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQSM",
+   "status": "accepted",
+   "label": "Hospitalitermes birmanicus (Snyder, 1934)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251951",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes blairi": {
+  "gbif": {
+   "key": 9786756,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes blairi Roonwal & Sen-Sarma, 1956",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQSN",
+   "status": "accepted",
+   "label": "Hospitalitermes blairi Roonwal & Sen-Sarma, 1956",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251952",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes brevirostratus": {
+  "gbif": {
+   "key": 9703590,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes brevirostratus Prashad & Sen-Sarma, 1960",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQSP",
+   "status": "accepted",
+   "label": "Hospitalitermes brevirostratus Prashad & Sen-Sarma, 1960",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251954",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes butteli": {
+  "gbif": {
+   "key": 9190052,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes butteli (Holmgren, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQSQ",
+   "status": "accepted",
+   "label": "Hospitalitermes butteli (Holmgren, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251955",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes damenglongensis": {
+  "gbif": {
+   "key": 9692985,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes damenglongensis He & Gao, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQSR",
+   "status": "accepted",
+   "label": "Hospitalitermes damenglongensis He & Gao, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251958",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes diurnus": {
+  "gbif": {
+   "key": 9673968,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes diurnus Kemner, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQSS",
+   "status": "accepted",
+   "label": "Hospitalitermes diurnus Kemner, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251959",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes ferrugineus": {
+  "gbif": {
+   "key": 9704883,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes ferrugineus (John, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQST",
+   "status": "accepted",
+   "label": "Hospitalitermes ferrugineus (John, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251960",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes flaviventris": {
+  "gbif": {
+   "key": 9819387,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes flaviventris (Wasmann, 1902)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MCVR",
+   "status": "accepted",
+   "label": "Hospitalitermes flaviventris (Wasmann, 1902)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251961",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes flavoantennaris": {
+  "gbif": {
+   "key": 9811622,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes flavoantennaris Oshima, 1923",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQSV",
+   "status": "accepted",
+   "label": "Hospitalitermes flavoantennaris Oshima, 1923",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251964",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes grassii": {
+  "gbif": {
+   "key": 9669976,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes grassii Ghidini, 1937",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQSW",
+   "status": "accepted",
+   "label": "Hospitalitermes grassii Ghidini, 1937",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251965",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes hospitalis": {
+  "gbif": {
+   "key": 9771434,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes hospitalis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQSX",
+   "status": "accepted",
+   "label": "Hospitalitermes hospitalis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q16527871",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes hospitalis hospitalis": {
+  "gbif": {
+   "key": 9815909,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Hospitalitermes hospitalis hospitalis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L26Y4",
+   "status": "accepted",
+   "label": "Hospitalitermes hospitalis hospitalis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes hospitalis hospitaloides": {
+  "gbif": {
+   "key": 9731631,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Hospitalitermes hospitalis hospitaloides (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L26Y5",
+   "status": "accepted",
+   "label": "Hospitalitermes hospitalis hospitaloides (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes irianensis": {
+  "gbif": {
+   "key": 9747051,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes irianensis Roonwal & Maiti, 1966",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQSY",
+   "status": "accepted",
+   "label": "Hospitalitermes irianensis Roonwal & Maiti, 1966",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251966",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes javanicus": {
+  "gbif": {
+   "key": 9727494,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes javanicus Akhtar & Akbar, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQSZ",
+   "status": "accepted",
+   "label": "Hospitalitermes javanicus Akhtar & Akbar, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251968",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes jepsoni": {
+  "gbif": {
+   "key": 9775664,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes jepsoni (Snyder, 1934)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQT2",
+   "status": "accepted",
+   "label": "Hospitalitermes jepsoni (Snyder, 1934)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251969",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes jinghongensis": {
+  "gbif": {
+   "key": 9759261,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes jinghongensis He & Gao, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQT3",
+   "status": "accepted",
+   "label": "Hospitalitermes jinghongensis He & Gao, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251970",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes kali": {
+  "gbif": {
+   "key": 9799210,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes kali Maiti & Chakraborty, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQT4",
+   "status": "accepted",
+   "label": "Hospitalitermes kali Maiti & Chakraborty, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251971",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes krishnai": {
+  "gbif": {
+   "key": 8915445,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes krishnai Syaukani, Thompson & Yamane, 2011",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQT5",
+   "status": "accepted",
+   "label": "Hospitalitermes krishnai Syaukani, Thompson & Yamane, 2011",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21273482",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes lividiceps": {
+  "gbif": {
+   "key": 9743746,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes lividiceps (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQT6",
+   "status": "accepted",
+   "label": "Hospitalitermes lividiceps (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251973",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes madrasi": {
+  "gbif": {
+   "key": 9700335,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes madrasi (Snyder, 1934)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQT7",
+   "status": "accepted",
+   "label": "Hospitalitermes madrasi (Snyder, 1934)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251974",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes majusculus": {
+  "gbif": {
+   "key": 9736240,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes majusculus He & Gao, 1984",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQT8",
+   "status": "accepted",
+   "label": "Hospitalitermes majusculus He & Gao, 1984",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251975",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes medioflavus": {
+  "gbif": {
+   "key": 9658362,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes medioflavus (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQT9",
+   "status": "accepted",
+   "label": "Hospitalitermes medioflavus (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251977",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes moluccanus": {
+  "gbif": {
+   "key": 9788093,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes moluccanus Ahmad, 1947",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MCW3",
+   "status": "accepted",
+   "label": "Hospitalitermes moluccanus Ahmad, 1947",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251978",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes monoceros": {
+  "gbif": {
+   "key": 9708111,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes monoceros (König, 1779)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQTB",
+   "status": "accepted",
+   "label": "Hospitalitermes monoceros (König, 1779)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30326289",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes nemorosus": {
+  "gbif": {
+   "key": 9712174,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes nemorosus Ghidini, 1937",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQTC",
+   "status": "accepted",
+   "label": "Hospitalitermes nemorosus Ghidini, 1937",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251979",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes nicobarensis": {
+  "gbif": {
+   "key": 9662337,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes nicobarensis Maiti & Chakraborty, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQTD",
+   "status": "accepted",
+   "label": "Hospitalitermes nicobarensis Maiti & Chakraborty, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251980",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes nigriantennalis": {
+  "gbif": {
+   "key": 9135216,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes nigriantennalis Syaukani & Thompson, 2016",
+   "accepted": null
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Hospitalitermes Holmgren, 1912",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "wd": "Q22915143",
+  "flags": [
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes papuanus": {
+  "gbif": {
+   "key": 9716739,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes papuanus Ahmad, 1947",
+   "accepted": null
+  },
+  "col": {
+   "id": "6MD7R",
+   "status": "accepted",
+   "label": "Hospitalitermes papuanus Ahmad, 1947",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251983",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes paraschmidti": {
+  "gbif": {
+   "key": 9803915,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes paraschmidti Akhtar & Akbar, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQTF",
+   "status": "accepted",
+   "label": "Hospitalitermes paraschmidti Akhtar & Akbar, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251984",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes proflaviventris": {
+  "gbif": {
+   "key": 9763381,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes proflaviventris Akhtar & Akbar, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQTG",
+   "status": "accepted",
+   "label": "Hospitalitermes proflaviventris Akhtar & Akbar, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251985",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes rufus": {
+  "gbif": {
+   "key": 9768032,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes rufus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQTH",
+   "status": "accepted",
+   "label": "Hospitalitermes rufus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251987",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes schmidti": {
+  "gbif": {
+   "key": 9734966,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes schmidti Ahmad, 1947",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQTJ",
+   "status": "accepted",
+   "label": "Hospitalitermes schmidti Ahmad, 1947",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251988",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes seikii": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Hospitalitermes Holmgren, 1912",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Hospitalitermes Holmgren, 1912",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes sharpi": {
+  "gbif": {
+   "key": 9779084,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes sharpi (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQTK",
+   "status": "accepted",
+   "label": "Hospitalitermes sharpi (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251990",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Hospitalitermes umbrinus": {
+  "gbif": {
+   "key": 9696213,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Hospitalitermes umbrinus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3MQTL",
+   "status": "accepted",
+   "label": "Hospitalitermes umbrinus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140251991",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

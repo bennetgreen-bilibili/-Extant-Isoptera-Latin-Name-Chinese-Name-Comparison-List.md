@@ -1,0 +1,43 @@
+{
+ "latin": "Trinervitermes",
+ "zh": "三脉白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Trinervitermes Holmgren, 1912a: 59, 61, 64, 65 [first introduced as a subgenus of Eutermes Heer, 1849].",
+ "type_species": "Termes trinervius Rambur, 1842 by subsequent designation, see Sjöstedt, 1926d: 325.",
+ "references": [
+  {
+   "ref": "Holmgren, 1913d: 334–336",
+   "note": "Eutermes (Trinervitermes); characters; species included."
+  },
+  {
+   "ref": "Fuller, 1921: 19, 20, 21, 27",
+   "note": "Trinervitermes; key."
+  },
+  {
+   "ref": "Sjöstedt, 1926d: 290, 325",
+   "note": "Trinervitermes; reference list; key."
+  },
+  {
+   "ref": "Bathellier, 1927: 172, 173",
+   "note": "Eutermes (Trinervitermes); key."
+  },
+  {
+   "ref": "Emerson, 1928b: 407, 420, 486",
+   "note": "Nasutitermes (Trinervitermes); key; discussion; distribution."
+  },
+  {
+   "ref": "Harris, 1941: 201",
+   "note": "Trinervitermes; key."
+  },
+  {
+   "ref": "Lal and Menon, 1953: 36",
+   "note": "Eutermes (Trinervitermes); key."
+  },
+  {
+   "ref": "Ahmad, 1958: 85, 88",
+   "note": "Trinervitermes; key."
+  }
+ ],
+ "nrefs": 65
+}

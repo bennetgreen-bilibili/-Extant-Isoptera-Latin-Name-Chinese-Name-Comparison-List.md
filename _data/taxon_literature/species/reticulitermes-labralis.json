@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "补充繁殖蚁的发育",
+   "paragraphs": [
+    {
+     "text": "根据 Su 等（2015）对圆唇散白蚁（Reticulitermes labralis）的研究，成虫型补充繁殖蚁（adultoid reproductives, AR）可由末龄若虫直接蜕皮形成，形态上更接近补充繁殖蚁而非有翅成虫。",
+     "src": [
+      "S0006"
+     ],
+     "text_en": "According to Su et al.'s (2015) study of Reticulitermes labralis, adultoid reproductives (AR) can form by direct moulting from last-instar nymphs and are morphologically closer to neotenic reproductives than to alates.",
+     "text_es": "Según el estudio de Su et al. (2015) sobre Reticulitermes labralis, los reproductores adultoides (adultoid reproductives, AR) pueden formarse por muda directa de las ninfas del último estadio y se parecen más a los reproductores de reemplazo que a los imagos."
+    },
+    {
+     "text": "实验室中，AR 配对在无工蚁时 2 周内全部死亡，且不掘隧道；有翅成虫配对在 3–7 天内掘道，50 对中 44 对存活，约 3 周后产卵。末龄若虫在 9 周内约 67.5% 发育为 AR、32.5% 发育为短翅型补充繁殖蚁（BN）；BN 的保幼激素滴度约为 AR 的 1.5 倍，卵黄原蛋白更高、卵母细胞成熟更早，产卵更早且产卵量更大（BN 平均 2.7 粒，AR 1.3 粒）。",
+     "src": [
+      "S0006"
+     ],
+     "text_en": "In the laboratory, AR pairs all died within 2 weeks when no workers were present and dug no tunnels; alate pairs dug tunnels within 3–7 days, 44 of 50 pairs survived, and they laid eggs after about 3 weeks. Within 9 weeks about 67.5% of last-instar nymphs developed into AR and 32.5% into brachypterous neotenic reproductives (BN); BN had juvenile hormone titres about 1.5 times those of AR, higher vitellogenin, earlier oocyte maturation, and earlier and larger egg production (BN averaged 2.7 eggs, AR 1.3 eggs).",
+     "text_es": "En el laboratorio, las parejas de AR murieron todas en dos semanas en ausencia de obreros y no excavaron túneles; las parejas de imagos excavaron en 3–7 días, 44 de 50 parejas sobrevivieron y pusieron huevos al cabo de unas tres semanas. En nueve semanas, alrededor del 67,5 % de las ninfas del último estadio se desarrollaron como AR y el 32,5 % como reproductores neoténicos braquípteros (BN); los BN presentaron un título de hormona juvenil unas 1,5 veces mayor que los AR, más vitelogenina, ovocitos madurados antes y una puesta más temprana y abundante (2,7 huevos de media en las BN frente a 1,3 en las AR)."
+    }
+   ],
+   "heading_en": "Development of neotenic reproductives",
+   "heading_es": "Desarrollo de los reproductores de reemplazo"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0006",
+   "citation": "Su X. H., Xue W., Liu H., Chen J. L., Zhang X. J., Xing L. X., Liu M. H. The development of adultoid reproductives and brachypterous neotenic reproductives from the last instar nymphs in Reticulitermes labralis (Isoptera: Rhinotermitidae): a comparative study. 2015.",
+   "doi": "10.1093/jisesa/iev130"
+  }
+ ]
+}

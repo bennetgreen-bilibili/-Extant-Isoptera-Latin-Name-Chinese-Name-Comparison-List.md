@@ -1,0 +1,24 @@
+{
+ "zh_name": "后琥珀白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫与兵蚁的中足胫节外侧、近端距处均有一刺，可与 Neotermes 及其他属区别；翅脉似 Neotermes，但中脉骨化较弱。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "通常深褐色；眼通常小，径 0.25–0.50 mm；单眼接触复眼或距眼 0.01–0.04 mm；触角 13–19 节；上颚似 Kalotermes；前胸背板宽于头；各主脉在翅缝处独立伸出；径脉部分种分枝；径分脉 7–8 支，第一支距翅缝约翅长 1/5；中脉骨化较径分脉弱，较近径分脉；肘脉弱、未骨化；跗节距式 3:3:3；中足胫节外侧有一深色刺，略短于端距；爪间突存在。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头长；部分种额具中央凹，形成两侧微隆，约以 25–30° 向唇基下倾；眼多无色，P. pishinensis 略着色；触角 11–18 节，第三节不特化、骨化不强，长于或短于第四节；前胸背板窄于、等于或宽于头，前缘宽而浅凹或角状；跗节距式 3:3:3；中足胫节外侧近端距处有一额外刺。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0021",
+   "citation": "Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 303–408.",
+   "locator": "pp. 320–321"
+  }
+ ]
+}

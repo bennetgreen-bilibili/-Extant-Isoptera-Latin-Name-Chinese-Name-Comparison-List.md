@@ -1,0 +1,123 @@
+{
+ "Parvitermes aequalis": {
+  "label": "Parvitermes aequalis (Snyder, 1924)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84842,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84842/overview",
+  "valid_label": null,
+  "valid_otu": 84842,
+  "verified": false
+ },
+ "Parvitermes antillarum": {
+  "label": "Parvitermes antillarum (Holmgren, 1910)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84843,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84843/overview",
+  "valid_label": null,
+  "valid_otu": 84843,
+  "verified": false
+ },
+ "Parvitermes brooksi": {
+  "label": "Parvitermes brooksi (Snyder, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84844,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84844/overview",
+  "valid_label": null,
+  "valid_otu": 84844,
+  "verified": false
+ },
+ "Parvitermes collinsae": {
+  "label": "Parvitermes collinsae Scheffrahn & Roisin, 1995",
+  "match": "exact",
+  "notes": "",
+  "otu": 84845,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84845/overview",
+  "valid_label": null,
+  "valid_otu": 84845,
+  "verified": false
+ },
+ "Parvitermes dominicanae": {
+  "label": "Parvitermes dominicanae Scheffrahn, Roisin & Su, 1998",
+  "match": "exact",
+  "notes": "",
+  "otu": 84846,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84846/overview",
+  "valid_label": null,
+  "valid_otu": 84846,
+  "verified": false
+ },
+ "Parvitermes flaveolus": {
+  "label": "Parvitermes flaveolus (Banks, 1919)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84847,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84847/overview",
+  "valid_label": null,
+  "valid_otu": 84847,
+  "verified": false
+ },
+ "Parvitermes mesoamericanus": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Parvitermes pallidiceps": {
+  "label": "Parvitermes pallidiceps (Banks, 1919)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84849,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84849/overview",
+  "valid_label": null,
+  "valid_otu": 84849,
+  "verified": false
+ },
+ "Parvitermes toussainti": {
+  "label": "Parvitermes toussainti (Banks, 1919)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84850,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84850/overview",
+  "valid_label": null,
+  "valid_otu": 84850,
+  "verified": false
+ },
+ "Parvitermes wolcotti": {
+  "label": "Parvitermes wolcotti (Snyder, 1924)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84851,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84851/overview",
+  "valid_label": null,
+  "valid_otu": 84851,
+  "verified": false
+ },
+ "Parvitermes yucatanus": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ }
+}

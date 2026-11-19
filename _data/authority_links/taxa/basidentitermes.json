@@ -1,0 +1,220 @@
+{
+ "Basidentitermes amicus": {
+  "gbif": {
+   "key": 9744755,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Basidentitermes amicus Harris, 1936",
+   "accepted": null
+  },
+  "col": {
+   "id": "68D85",
+   "status": "accepted",
+   "label": "Basidentitermes amicus Harris, 1936",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235198",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Basidentitermes aurivillii": {
+  "gbif": {
+   "key": 9676206,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Basidentitermes aurivillii (Sjöstedt, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5WCVS",
+   "status": "accepted",
+   "label": "Basidentitermes aurivillii (Sjöstedt, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235199",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Basidentitermes demoulini": {
+  "gbif": {
+   "key": 9758248,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Basidentitermes demoulini Harris, 1963",
+   "accepted": null
+  },
+  "col": {
+   "id": "5WCW4",
+   "status": "accepted",
+   "label": "Basidentitermes demoulini Harris, 1963",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235200",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Basidentitermes diversifrons": {
+  "gbif": {
+   "key": 9693936,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Basidentitermes diversifrons Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "5WD7S",
+   "status": "accepted",
+   "label": "Basidentitermes diversifrons Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235201",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Basidentitermes mactus": {
+  "gbif": {
+   "key": 9645900,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Basidentitermes mactus (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5WD84",
+   "status": "accepted",
+   "label": "Basidentitermes mactus (Sjöstedt, 1911)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235202",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Basidentitermes mactus mactus": {
+  "gbif": {
+   "key": 9725142,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Basidentitermes mactus mactus (Sjöstedt, 1911)",
+   "accepted": null
+  },
+  "col": {
+   "id": "KZWVL",
+   "status": "accepted",
+   "label": "Basidentitermes mactus mactus Sjöstedt, 1911",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Basidentitermes mactus supera": {
+  "gbif": {
+   "key": 9778087,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Basidentitermes mactus supera Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "KZWVM",
+   "status": "accepted",
+   "label": "Basidentitermes mactus supera Silvestri, 1914",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Basidentitermes malelaensis": {
+  "gbif": {
+   "key": 9726494,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Basidentitermes malelaensis (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "68CVS",
+   "status": "accepted",
+   "label": "Basidentitermes malelaensis (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235203",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Basidentitermes potens": {
+  "gbif": {
+   "key": 9746074,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Basidentitermes potens Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "68CW4",
+   "status": "accepted",
+   "label": "Basidentitermes potens Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235204",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Basidentitermes trilobatus": {
+  "gbif": {
+   "key": 9674902,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Basidentitermes trilobatus Noirot, 1955",
+   "accepted": null
+  },
+  "col": {
+   "id": "68D7S",
+   "status": "accepted",
+   "label": "Basidentitermes trilobatus Noirot, 1955",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235205",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

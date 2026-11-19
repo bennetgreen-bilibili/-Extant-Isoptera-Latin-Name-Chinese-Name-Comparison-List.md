@@ -1,0 +1,40 @@
+{
+ "zh_name": "近曲白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁体型较小；头囊较宽，圆或近方形，头基部长约等于宽；额管发达、圆锥形且较短；上颚穿刺型、明显弯曲，较 Acangaobitermes 更长、弯度较小并具三角形齿，基部附近有显著缘齿。有翅成虫左颚指数约 2.0。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头囊较宽，圆或近方形，头基部长约等于宽。额管发达、圆锥形，较 Biratermes 短。上颚穿刺型，明显弯曲；较 Acangaobitermes 更长、弯度较小，具三角形齿；基部附近具显著缘齿。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "左颚指数约 2.0，与 Curvitermes、Cyrilliotermes 同。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0068",
+   "citation": "Rocha M. M.; Cancello E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138: 445-463. https://doi.org/10.11646/zootaxa.5138.4.6",
+   "locator": "Comparisons with other genera of Syntermitinae（Biratermes 属征比较）"
+  },
+  {
+   "id": "S0023",
+   "citation": "Rocha M. M.; Cancello E. M.; Cuezzo C. 2011. A new genus and species of mandibulate nasute termite (Isoptera, Termitidae, Syntermitinae) from Brazil. ZooKeys 148: 125-134. https://doi.org/10.3897/zookeys.148.1278",
+   "locator": "Comparisons with other genera of Syntermitinae"
+  },
+  {
+   "id": "S0072",
+   "citation": "Rocha M. M.; Cancello E. M.; Carrijo T. F. 2012. Neotropical termites: revision of Armitermes Wasmann (Isoptera, Termitidae, Syntermitinae) and phylogeny of the Syntermitinae. Systematic Entomology 37: 793-827. https://doi.org/10.1111/j.1365-3113.2012.00645.x",
+   "locator": "Key to genera of Syntermitinae, couplet 11；Key to genera of Syntermitinae, couplet 10"
+  },
+  {
+   "id": "S0077",
+   "citation": "Constantino R. 2012. Description of the imago of Noirotitermes noiroti Cancello & Myles 2000 (Isoptera: Termitidae: Syntermitinae), with new records. Zootaxa 3174: 65-68. https://doi.org/10.11646/zootaxa.3174.1.7",
+   "locator": "Comparisons（属名后逗号前的空格系 Plazi 抽取标签剥离所致）"
+  }
+ ],
+ "note": "兵蚁据 2012 年属检索表与 2011/2022 年比较性属征；有翅成虫仅知左颚指数。"
+}

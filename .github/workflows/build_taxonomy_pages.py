@@ -28,17 +28,17 @@ rendering **one** language only — see _tmp/lang-split-CONTRACT.md. Every page 
 a short unique summary (BreadcrumbList comes from _includes/breadcrumb-jsonld.html via the
 breadcrumb list in front matter), a local search box scoped to that taxon, a distribution
 map (reusing _includes/distribution-map.html), the family/subfamily prose from
-_data/taxon_prose.json, and the child list.
+_data/taxon_prose/, and the child list.
 
-The prose (形态/分布/经济意义) lives in _data/taxon_prose.json for all three languages and
+The prose (形态/分布/经济意义) lives in _data/taxon_prose/ for all three languages and
 is its canonical home; the hub page links back to the /list/ anchor. Copying it is
 deliberate: /list/ is a single 450 KB page, so "白蚁科的形态特征" had no citable, shareable
 landing page of its own before this.
 
 Data that has no translation yet
 --------------------------------
-en/es pages read their per-taxon text from _data/translations_en.json /
-_data/translations_es.json (schema in the contract, §5; produced by another step). When a
+en/es pages read their per-taxon text from _data/translations_en/ /
+_data/translations_es/ (schema in the contract, §5; produced by another step). When a
 page's data exists in Chinese but has no translated entry, the section is omitted by the
 includes (never backfilled with Chinese) and the front matter gets
 `translation_pending: true`, which makes _layouts/default.html show the one-line note from
@@ -67,12 +67,12 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT / "_tools"))
+import shard_io  # noqa: E402
 SPECIES_DIR = ROOT / "_species"
 IMAGES_DIR = ROOT / "assets" / "images"
-PROSE_JSON = ROOT / "_data" / "taxon_prose.json"
 PHOTO_TAXA_JSON = ROOT / "_data" / "photo_taxa.json"
 DATA_OUT = ROOT / "_data" / "taxonomy_images.json"
-ETYMOLOGY_JSON = ROOT / "_data" / "etymology.json"
 
 # 三种语言与它们的 URL / 目录前缀（契约 §2、§7）
 LANGS = ("zh-CN", "en", "es")
@@ -375,16 +375,16 @@ def parse_front_matter(text):
     return data
 
 
-# _data/taxon_prose.json 的语言键是 zh / en / es（站点语言键是 zh-CN），必须映射，
+# _data/taxon_prose/ 的语言键是 zh / en / es（站点语言键是 zh-CN），必须映射，
 # 否则 zh 页会一个科/亚科的正文都取不到。
 PROSE_LANG = {"zh-CN": "zh", "en": "en", "es": "es"}
 
 
 def load_prose(lang="zh-CN"):
-    """Read one language of _data/taxon_prose.json, written by _tools/extract_taxon_data.py."""
-    if not PROSE_JSON.is_file():
-        sys.exit("missing %s — run _tools/extract_taxon_data.py" % PROSE_JSON.name)
-    data = json.loads(PROSE_JSON.read_text(encoding="utf-8"))
+    """Read one language of _data/taxon_prose/, written by _tools/extract_taxon_data.py."""
+    if not shard_io.exists("taxon_prose"):
+        sys.exit("missing _data/taxon_prose/ — run _tools/extract_taxon_data.py")
+    data = shard_io.load("taxon_prose")
     return data.get(PROSE_LANG.get(lang, lang)) or {}
 
 
@@ -431,7 +431,7 @@ def list_sections(lang="zh-CN"):
     """Map taxon id -> list of prose paragraphs for families and subfamilies, one language.
 
     The prose used to be copied out of /list/; since /list/ became an index page it lives
-    in _data/taxon_prose.json, and these hub pages are now its canonical home.
+    in _data/taxon_prose/, and these hub pages are now its canonical home.
     """
     prose = load_prose(lang)
     sections = {}
@@ -614,6 +614,9 @@ def load_data_keys():
     """中文数据里有哪些页面的条目 —— 用来判断外文页是否缺译文（→ translation_pending）。"""
     keys = {}
     for name in ("fauna_families", "fauna_genera", "fauna_keys", "morphology_genera"):
+        if shard_io.exists(name):
+            keys[name] = set(shard_io.load(name))
+            continue
         path = ROOT / "_data" / (name + ".json")
         keys[name] = set(json.loads(path.read_text(encoding="utf-8"))) if path.is_file() else set()
     return keys
@@ -623,12 +626,12 @@ def load_translations():
     """en/es 译文（另一环节产出，可能尚未就位）。缺失按空处理，页面因此整节省略。"""
     out = {}
     for lang in ("en", "es"):
-        path = ROOT / "_data" / ("translations_%s.json" % lang)
-        if not path.is_file():
+        name = "translations_%s" % lang
+        if not shard_io.exists(name):
             out[lang] = {}
             continue
         try:
-            out[lang] = json.loads(path.read_text(encoding="utf-8"))
+            out[lang] = shard_io.load(name)
         except ValueError:
             out[lang] = {}
     return out
@@ -707,17 +710,17 @@ def main():
         sys.exit("unexpected taxa: %d families / %d subfamilies / %d genera"
                  % (len(families), len(subfamilies), len(genera)))
 
-    # 科 / 亚科介绍：三语正文都在 _data/taxon_prose.json；属小节只有地图与物种链接，没有正文。
+    # 科 / 亚科介绍：三语正文都在 _data/taxon_prose/；属小节只有地图与物种链接，没有正文。
     intros = {lang: list_sections(lang) for lang in LANGS}
     for lang in LANGS:
         missing = [tid for tid in list(families) + list(subfamilies) if tid not in intros[lang]]
         if missing:
             sys.exit("taxon_prose.json has no %s prose for: %s" % (lang, ", ".join(sorted(missing))))
 
-    # 属级词源：_data/etymology.json 的 genera 键（词根据 Brown 1956, S0018）
+    # 属级词源：_data/etymology/ 的 genera 键（词根据 Brown 1956, S0018）
     etym_genera = {}
-    if ETYMOLOGY_JSON.is_file():
-        etym_genera = json.loads(ETYMOLOGY_JSON.read_text(encoding="utf-8")).get("genera") or {}
+    if shard_io.exists("etymology"):
+        etym_genera = shard_io.load("etymology").get("genera") or {}
 
     for gen in genera.values():
         gen["rows"].sort(key=lambda r: (0 if r["rank"] != "subspecies" else 1,
@@ -1334,7 +1337,7 @@ def main():
         return '{% include genus-morphology.html %}\n'
 
     def literature_section():
-        """人工整理的研究记述（_data/taxon_literature.json，按 page.url 取）。"""
+        """人工整理的研究记述（_data/taxon_literature/，按 page.url 取）。"""
         return '{% include taxon-literature.html %}\n'
 
     def genus_map_note(lang, gen):
@@ -1423,7 +1426,7 @@ def main():
                label, COPY[lang]["search_placeholder"], hint))
 
     def etymology_section(lang, gid):
-        """属级词源（每页只渲染本页语言），来自 _data/etymology.json（词根据 Brown 1956, S0018）。
+        """属级词源（每页只渲染本页语言），来自 _data/etymology/（词根据 Brown 1956, S0018）。
 
         en/es 只在对应字段非空时输出——缺失时整段跳过，绝不拿中文顶替。
         """

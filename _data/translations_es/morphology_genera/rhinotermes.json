@@ -1,0 +1,21 @@
+{
+ "note": "Los caracteres genéricos son la definición de Holmgren citada por Hill y se reproducen literalmente; los tres párrafos del alado, el soldado y el obrero proceden de esa misma cita. Las especies australianas se incluyen en el subgénero Schedorhinotermes, por lo que la mayor parte del material específico registrado en este trabajo no pertenece al subgénero nominal de este género; al redactar se han empleado solo enunciados de nivel genérico y subgenérico, sin mezclar caracteres específicos de las especies australianas.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El soldado presenta dos formas, mayor y menor, ambas con el labro bifurcado; en el soldado mayor las mandíbulas son gruesas y muy fuertes, la izquierda con dos dientes fuertes y la derecha con uno, sin denticulaciones en la base; en el soldado menor las mandíbulas son relativamente más largas, estrechas y rectas, con dientes más estrechos y agudos, o bien reducidas; el labro es relativamente corto y ancho en el soldado mayor y se proyecta más allá de las mandíbulas en el menor, bifurcado en el frente y surcado, más ancho o muy estrecho; antenas de 14–17 artejos; pronoto pequeño, mucho más estrecho que la cabeza; con estilo. En el alado del subgénero Rhinotermes s. str. el clípeo es fuerte, rostral, y cubre la base del labro, la cabeza es relativamente grande, y en el soldado menor el labro es bifurcado y las mandíbulas están reducidas."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza casi circular; clípeo más o menos fuertemente elevado, con surco longitudinal medio; fontanelle abierto y relativamente ancho, situado hacia delante; antenas de 20–22 artejos, con el 3.º más largo que el 2.º."
+  },
+  {
+   "label": "Soldado",
+   "text": "Dos formas, mayor y menor, con el labro bifurcado. Soldado mayor: mandíbulas gruesas y muy fuertes, la izquierda con dos dientes fuertes y la derecha con uno, sin denticulaciones en la base de la mandíbula; labro relativamente corto y ancho, bifurcado en el frente y surcado. Soldado menor: mandíbulas relativamente más largas, estrechas y rectas, con dientes más estrechos y agudos, o reducidas; labro proyectado más allá de las mandíbulas, bifurcado en el frente y surcado. En ambas formas las antenas tienen 14–17 artejos; el pronoto es pequeño y mucho más estrecho que la cabeza; hay estilo."
+  },
+  {
+   "label": "Obrero",
+   "text": "Antenas de 16–18 artejos, con el 3.º más largo que el 2.º; pronoto en silla de montar."
+  }
+ ]
+}

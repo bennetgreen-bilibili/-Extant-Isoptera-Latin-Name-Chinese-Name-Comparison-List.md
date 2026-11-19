@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "亚马逊的种类组成与有翅成虫的首次描述",
+   "heading_en": "Species composition in Amazonia and the first description of the imago caste",
+   "heading_es": "Composición de especies en la Amazonia y primera descripción de la casta imago",
+   "paragraphs": [
+    {
+     "text": "据摘要，Rocha、Carrijo 与 Cancello（2012）开展该研究时，新热带巨鼻白蚁属（<i>Cyranotermes</i>）已知 3 种，即模式种多毛巨鼻白蚁（<i>Cyranotermes timuassu</i> Araujo, 1970）、无毛巨鼻白蚁（<i>Cyranotermes glaber</i> Constantino, 1990）与卡埃特巨鼻白蚁（<i>Cyranotermes caete</i> Cancello, 1987）；该研究据有翅成虫、工蚁与兵蚁 3 个品级连同巢体描述并图示新种卡日普纳巨鼻白蚁（<i>Cyranotermes karipuna</i>），使该属增至 4 种。",
+     "text_en": "According to the abstract, when Rocha, Carrijo and Cancello (2012) carried out this study the Neotropical genus <i>Cyranotermes</i> was known from three species, namely the type species <i>Cyranotermes timuassu</i> Araujo, 1970, <i>Cyranotermes glaber</i> Constantino, 1990 and <i>Cyranotermes caete</i> Cancello, 1987; the study described and illustrated a new species, <i>Cyranotermes karipuna</i>, from the imago, worker and soldier castes together with its nest, raising the genus to four species.",
+     "text_es": "Según el resumen, cuando Rocha, Carrijo y Cancello (2012) realizaron este estudio el género neotropical <i>Cyranotermes</i> era conocido por tres especies, a saber, la especie tipo <i>Cyranotermes timuassu</i> Araujo, 1970, <i>Cyranotermes glaber</i> Constantino, 1990 y <i>Cyranotermes caete</i> Cancello, 1987; el estudio describió e ilustró una especie nueva, <i>Cyranotermes karipuna</i>, a partir de las castas imago, obrera y soldado junto con su nido, elevando el género a cuatro especies.",
+     "src": [
+      "S0353"
+     ]
+    },
+    {
+     "text": "据摘要，同一研究首次描述了巨鼻白蚁属（<i>Cyranotermes</i>）的有翅成虫，所据材料是多毛巨鼻白蚁（<i>Cyranotermes timuassu</i>）有翅成虫的首次描述与新种卡日普纳巨鼻白蚁（<i>Cyranotermes karipuna</i>）的有翅成虫；文中并给出该属各种兵蚁的图示鉴定检索表，以及标示全部种发生地的分布图。",
+     "text_en": "According to the abstract, the same study provided the first description of the imago caste of <i>Cyranotermes</i>, based on the first description of the imago of <i>Cyranotermes timuassu</i> and on the imago of the new species <i>Cyranotermes karipuna</i>; the paper also provided an illustrated identification key to the soldiers of the species of the genus and a map showing the occurrence of all species.",
+     "text_es": "Según el resumen, el mismo estudio aportó la primera descripción de la casta imago de <i>Cyranotermes</i>, basada en la primera descripción del imago de <i>Cyranotermes timuassu</i> y en el imago de la especie nueva <i>Cyranotermes karipuna</i>; el trabajo también incluyó una clave dicotómica ilustrada de los soldados de las especies del género y un mapa con la distribución de todas las especies.",
+     "src": [
+      "S0353"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0353",
+   "citation": "Rocha, M. M.; Carrijo, T. F.; Cancello, E. M. 2012. An illustrated key to the soldiers of Cyranotermes Araujo with a new species from Amazonia (Isoptera: Termitidae: Nasutitermitinae). Zootaxa.",
+   "url": "https://doi.org/10.11646/zootaxa.3196.1.2"
+  }
+ ]
+}

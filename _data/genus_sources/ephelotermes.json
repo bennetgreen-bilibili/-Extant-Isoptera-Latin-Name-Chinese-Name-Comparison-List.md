@@ -1,0 +1,19 @@
+{
+ "latin": "Ephelotermes",
+ "zh": "棒颚白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Ephelotermes Miller, 1991: 1178–1180.",
+ "type_species": "Ephelotermes melachoma Miller, 1991 by original designation.",
+ "references": [
+  {
+   "ref": "Hill, 1942: 14, 377–379",
+   "note": "Mirotermes; as genus and subgenus [part]; key; synonymy; imago, soldier, worker diagnosed."
+  },
+  {
+   "ref": "Bourguignon et al., 2008: 7, 26",
+   "note": "Ephelotermes; characters; key."
+  }
+ ],
+ "nrefs": 4
+}

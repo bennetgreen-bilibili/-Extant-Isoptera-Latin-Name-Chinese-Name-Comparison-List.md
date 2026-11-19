@@ -1,0 +1,43 @@
+{
+ "latin": "Hoplognathotermes",
+ "zh": "锐颚白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Hoplognathotermes Silvestri, 1914a: 25.",
+ "type_species": "Hoplognathotermes subterraneus Silvestri, 1914 by original designation.",
+ "references": [
+  {
+   "ref": "Fuller, 1921: 23",
+   "note": "Hoplognathotermes; key."
+  },
+  {
+   "ref": "Emerson, 1928b: 408, 420",
+   "note": "Hoplognathotermes; key; distribution."
+  },
+  {
+   "ref": "Weidner, 1956b: 65",
+   "note": "Hoplognathotermes; key."
+  },
+  {
+   "ref": "Emerson, 1959: 12–16",
+   "note": "Hoplognathotermes; synonymy; soldier, worker characters; relationships."
+  },
+  {
+   "ref": "Webb, 1961: 17",
+   "note": "Hoplognathotermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 26, 96, 97, pl. 16: fig. 48d",
+   "note": "Hoplognathotermes; key; characters; worker mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 37",
+   "note": "Hoplognathotermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 52, 114–115",
+   "note": "Hoplognathotermes; key; worker described; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 15
+}

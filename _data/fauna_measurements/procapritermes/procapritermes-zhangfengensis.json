@@ -1,0 +1,68 @@
+{
+ "book_n": "355",
+ "book_name": "章凤马扭白蚁 Malaysiocapritermes zhangfengensis",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "章凤马扭白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_mandibles",
+     "mean": "2.94",
+     "value": "2.81–3.06"
+    },
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.46",
+     "value": "1.14–1.55"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.08",
+     "value": "1.06–1.13"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.48",
+     "value": "1.39–1.52"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "0.67",
+     "value": "0.65–0.71"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.33",
+     "value": "0.32–0.35"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.23",
+     "value": "0.23"
+    },
+    {
+     "key": "pronotum_length",
+     "mean": "0.26",
+     "value": "0.26"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.63",
+     "value": "0.58–0.65"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "0.95",
+     "value": "0.90–0.97"
+    }
+   ],
+   "src_file": "701-800.txt",
+   "src_line": 587,
+   "unit": "mm"
+  }
+ ]
+}

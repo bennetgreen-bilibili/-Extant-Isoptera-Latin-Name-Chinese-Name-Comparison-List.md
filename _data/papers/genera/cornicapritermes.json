@@ -1,0 +1,32 @@
+{
+ "latin": "Cornicapritermes",
+ "zh": "角扭白蚁属",
+ "fetched_at": "2026-10-30T16:53:23Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2981145100",
+   "openalex_url": "https://openalex.org/W2981145100",
+   "doi": "10.3406/bsef.2002.16870",
+   "doi_url": "https://doi.org/10.3406/bsef.2002.16870",
+   "title": "Dolichorhinotermes neli n. sp., nouvelle espèce pour la science et Cornicapritermes mucronatus Emerson, 1950, nouvelle espèce de Termite pour la Guyane française (Isopt., Rhinotermitidae et Termitidae)",
+   "year": 2002,
+   "date": "2002-01-01",
+   "authors": [
+    "Alireza Ensaf",
+    "Jean-Marie Betsch"
+   ],
+   "venue": "Bulletin de la Société entomologique de France",
+   "type": "article",
+   "language": "fr",
+   "cited_by": 1,
+   "oa_url": "https://www.persee.fr/doc/bsef_0037-928x_2002_num_107_4_16870",
+   "volume": "107",
+   "issue": "4",
+   "pages": "346-348",
+   "abstract": "Ensaf Alireza, Betsch Jean-Marie. Dolichorhinotermes neli n. sp., nouvelle espèce pour la science et Cornicapritermes mucronatus Emerson, 1950, nouvelle espèce de Termite pour la Guyane française (Isopt., Rhinotermitidae et Termitidae). In: Bulletin de la Société entomologique de France, volume 107 (4), octobre 2002. pp. 346-348.",
+   "abstract_source": "openalex",
+   "abstract_chars": 331,
+   "abstract_truncated": false
+  }
+ ]
+}

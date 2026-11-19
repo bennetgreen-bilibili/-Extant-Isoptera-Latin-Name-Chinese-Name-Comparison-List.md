@@ -1,0 +1,21 @@
+{
+ "zh_name": "埃博戈白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "赤道非洲无兵蚁（soldierless）apicotermitine 工蚁中体型最大者；中肠成环、mixed segment 发达、P1 中等长、具 P3/P4 缢部、P4 长管状，据此归入 Anoplotermes 群。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头、胸、腹与足均被长短不一的刚毛；触角 14 节；后唇基中度膨大；前胫节轻微膨大；胫节距 3:2:2。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0066",
+   "citation": "Scheffrahn R. H., Roisin Y., Akama P. D., Šobotník J. 2021. Ebogotermes raphaeli, new genus and new species, an African soldierless termite described from the worker caste (Isoptera, Termitidae, Apicotermitinae). Zootaxa 5067(2): 279–284. doi:10.11646/zootaxa.5067.2.10",
+   "locator": "p. 279（Taxonomy / Ebogotermes gen. nov.）"
+  }
+ ],
+ "note": "属名取自模式产地附近的喀麦隆 Ebogo 村。原文 Imago. Unknown；Soldier. Unknown, belongs to a soldierless clade，故不设兵蚁与有翅成虫节。"
+}

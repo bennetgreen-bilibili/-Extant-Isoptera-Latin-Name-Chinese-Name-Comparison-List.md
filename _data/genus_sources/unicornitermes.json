@@ -1,0 +1,23 @@
+{
+ "latin": "Unicornitermes",
+ "zh": "独角白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Unicornitermes Coaton, 1971: 23.",
+ "type_species": "Unicornitermes gaerdesi Coaton, 1971 by original designation.",
+ "references": [
+  {
+   "ref": "Coaton and Sheasby, 1972: 24, 73, 101, figs. 15C–D, 45",
+   "note": "Unicornitermes; soldier figured; key; ecology; biology; distribution. Namibia."
+  },
+  {
+   "ref": "Sands, 1998: 38, 238–240, figs. 1071–1082, pl. 13: fig. 6",
+   "note": "Unicornitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  },
+  {
+   "ref": "Uys, 2002: 68, 93–94, fig. 231",
+   "note": "Unicornitermes; key; species included; diagnosis; biology; distribution. South Africa."
+  }
+ ],
+ "nrefs": 3
+}

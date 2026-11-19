@@ -1,0 +1,56 @@
+{
+ "latin": "Leptomyxotermes",
+ "zh": "薄喙白蚁属",
+ "fetched_at": "2026-10-30T16:53:55Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W1978478543",
+   "openalex_url": "https://openalex.org/W1978478543",
+   "doi": "10.1111/j.1365-3113.1975.tb00013.x",
+   "doi_url": "https://doi.org/10.1111/j.1365-3113.1975.tb00013.x",
+   "title": "The systematic position of Kaudernitermes gen.n. (Isoptera: Termitidae, Nasutitermitinae) and its relevance to host relationships of termitophilous staphylinid beetles",
+   "year": 1975,
+   "date": "1975-07-01",
+   "authors": [
+    "William A. Sands",
+    "R. W. LAMB"
+   ],
+   "venue": "Journal of Entomology Series B Taxonomy",
+   "type": "article",
+   "language": "en",
+   "cited_by": 8,
+   "oa_url": "",
+   "volume": "44",
+   "issue": "2",
+   "pages": "189-200",
+   "abstract": "The well‐known theory that termitophilous staphylinid beetles mimic their termite hosts has led to a reassessment of relationships between two termites, Fulleritermes contractus and Nasutitermes kaudernianus. The latter species was found to belong to a new monotypic genus, Kaudernitermes, of the constricted‐headed group of Nasutitermitinae. This Malagasy genus is most closely related to Leptomyxotermes and Fulleritermes of the Ethiopian fauna and Bulbitermes of the Indomalayan. It is diagnosed and a lectotype designated for Kaudernitermes kaudernianus comb.n. New measurements of its associated termitophile Spirachthodes madecassus and of the young stages of many Nasutitermitinae have led to more exact comparisons between supposed beetle mimics and their putative models among different instars of host species. These, with new observations of structural details, give rise to a theory that modes of mimicry and colony integration in the beetles may have followed diverging pathways.",
+   "abstract_source": "openalex",
+   "abstract_chars": 992,
+   "abstract_truncated": false
+  },
+  {
+   "id": "https://openalex.org/W2315195877",
+   "openalex_url": "https://openalex.org/W2315195877",
+   "doi": "10.1093/aesa/66.1.197",
+   "doi_url": "https://doi.org/10.1093/aesa/66.1.197",
+   "title": "The Termitophilous Staphylinidae1 Associated with Grallatotermes in Africa; Their Taxonomy, Behavior, and a Survey of Their Glands of External Secretion2",
+   "year": 1973,
+   "date": "1973-01-15",
+   "authors": [
+    "David H. Kistner"
+   ],
+   "venue": "Annals of the Entomological Society of America",
+   "type": "article",
+   "language": "en",
+   "cited_by": 9,
+   "oa_url": "",
+   "volume": "66",
+   "issue": "1",
+   "pages": "197-222",
+   "abstract": "Three new genera of Staphylinidae (Coleoptera), LEUCOPTOCHUS, MELANOPTOCHUS, and (GRALLOPERINTHUS, are described from nests of the termite Grallatotermes africanus Harris. An additional genus, Idioptochus, is redescribed and illustrated. Three new species are described: Idioptochus boultoni (Mozambique), Melanoptochus alzadae (Tanzania), and Gralloperinthus sandsi (Mozambique). The relationships of these genera are documented and revised phylogenetic trees of the Old World Termitogastrina and Old World Perinthina are presented. Observations of begging behavior of some of the genera Leucoptochus and Idioptochus) are presented. Observations of mutual palpations of termites and termitophiles, observations showing interest of the termites in selected areas of the termitophiles, and observations of the interactions of the termitophiles with the termite queen are also presented. All these observations indicate a high degree of integration into the termite society. A survey of the glands of external secretion is made. The type 2 gland cells seem to be those that the termites regularly lick while the glands in abdominal segment VII, VIII, and IX may be used as either appeasement or defense glands. Certain gland cells associated with the mouthparts, particularly the labrum and maxillae may function when the termitophiles are being fed by the termites. The relationships of the termitophiles show that Grallatotermes is distantly related to Nasutitermes and Trinervitermes, and somewhat closer but still distantly related to Leptomyxotermes and Fulleritermes.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1571,
+   "abstract_truncated": false
+  }
+ ]
+}

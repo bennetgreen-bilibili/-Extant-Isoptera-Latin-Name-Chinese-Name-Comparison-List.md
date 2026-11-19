@@ -1,0 +1,137 @@
+{
+ "Dentispicotermes brevicarinatus": {
+  "gbif": {
+   "key": 9351252,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dentispicotermes brevicarinatus (Emerson, 1950)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6CKG5",
+   "status": "accepted",
+   "label": "Dentispicotermes brevicarinatus (Emerson, 1950)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250545",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dentispicotermes conjunctus": {
+  "gbif": {
+   "key": 9711515,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dentispicotermes conjunctus Araujo, 1969",
+   "accepted": null
+  },
+  "col": {
+   "id": "6CKG6",
+   "status": "accepted",
+   "label": "Dentispicotermes conjunctus Araujo, 1969",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250546",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dentispicotermes cupiporanga": {
+  "gbif": {
+   "key": 9677765,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dentispicotermes cupiporanga Cancello & Bandeira, 1992",
+   "accepted": null
+  },
+  "col": {
+   "id": "6CKFV",
+   "status": "accepted",
+   "label": "Dentispicotermes cupiporanga Cancello & Bandeira, 1992",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250547",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dentispicotermes globicephalus": {
+  "gbif": {
+   "key": 9708770,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dentispicotermes globicephalus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6CKG7",
+   "status": "accepted",
+   "label": "Dentispicotermes globicephalus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250548",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dentispicotermes pantanalis": {
+  "gbif": {
+   "key": 9743074,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Dentispicotermes pantanalis Mathews, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "6CKFW",
+   "status": "accepted",
+   "label": "Dentispicotermes pantanalis Mathews, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140250549",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Dentispicotermes trapezia": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Dentispicotermes Emerson, 1949",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CTJDP",
+   "status": "accepted",
+   "label": "Dentispicotermes trapezia Scheffrahn, 2024",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q134362316",
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Labiocapritermes distortus": {
+  "label": "Labiocapritermes distortus (Silvestri, 1922)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85467,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85467/overview",
+  "valid_label": null,
+  "valid_otu": 85467,
+  "verified": false
+ },
+ "Labiocapritermes ghatensis": {
+  "label": "Labiocapritermes ghatensis Aiswarya & Sudhikumar, 2026",
+  "match": "exact",
+  "notes": "",
+  "otu": 1382705,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1382705/overview",
+  "valid_label": null,
+  "valid_otu": 1382705,
+  "verified": false
+ },
+ "Labiocapritermes microcephalus": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Labiocapritermes wayanadensis": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ }
+}

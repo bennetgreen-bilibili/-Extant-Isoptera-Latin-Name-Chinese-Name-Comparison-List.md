@@ -1,0 +1,17 @@
+{
+ "note": "Caracteres del género en Sands 1972 pp. 47–50. El original solo indica el tamaño corporal (ancho de la cabeza W, mm), el número de espinas apicales de la tibia anterior, las proporciones de los dientes mandibulares, la constricción de los terguitos meso- y metatorácicos (M/W), la fontanela y la pilosidad cefálica (cuando existen) y la estructura del tubo digestivo y de la válvula entérica; no registra el número de segmentos antenales, la forma del pronoto ni la venación alar, por lo que esta entrada no se completa. La confusión, en el OCR, entre el punto decimal «*» y entre i/1 se ha normalizado a cifras árabes según el contexto.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Género monotípico de combinación de caracteres singular, que reúne rasgos considerados primitivos y especializados y no encaja en ningún género conocido; esta conclusión habitual ha sido confirmada también por los análisis multivariantes. Las espinas de la válvula entérica se asemejan algo a las de Alyscotermes, pero en este género el obrero tiene la cabeza pequeña y parda y las espinas de la válvula entérica son casi radialmente simétricas."
+  },
+  {
+   "label": "Obrero",
+   "text": "Mediano, W 0.74–0.79 mm. Tibia anterior esbelta, Ti/Tw 6.14–6.43, con 3 espinas apicales, pero la tercera atrofiada y casi invisible en la mayoría de los ejemplares. Diente apical de las mandíbulas corto, La/Li 0.41–0.51, Ra/Ri 0.53–0.66; el extremo proximal del diente subapical de la mandíbula izquierda oculto tras la prominencia molar en visión superficial; en la mandíbula derecha el margen anterior del 1.er diente marginal claramente más corto que el del 2.º. Mesenterón y proctodeo solapados en aproximadamente 2 veces la anchura del mesenterón en el punto de inserción de los túbulos de Malpighi, extendiéndose hasta la mitad del nódulo de Malpighi. Asiento de la válvula entérica débilmente bilobulado, unido al segundo saco del proctodeo por un cuello corto, situado lateralmente en el abdomen sin diseccionar; colchón interno de la válvula entérica de desarrollo aproximadamente igual en cada lóbulo, con gruesas espinas conspicuas en la parte distal que sobresalen por el orificio valvular."
+  },
+  {
+   "label": "Alado",
+   "text": "Mediano, W 0.81–0.90 mm. Tibia anterior con 3 espinas apicales, pero la tercera atrofiada y casi invisible en algunos ejemplares. Diente apical de las mandíbulas corto, La/Li 0.38–0.48, Ra/Ri 0.56–0.65; extremo proximal del diente subapical de la mandíbula izquierda oculto tras la prominencia molar; en la mandíbula derecha el margen anterior del 1.er diente marginal aproximadamente igual al del 2.º, con el ápice del diente ligeramente por detrás de la línea que une el diente apical y el 2.º diente marginal. Terguitos meso- y metatorácicos relativamente anchos en la constricción, M/W 0.25–0.28, sutura transversa conspicua, generalmente nítida."
+  }
+ ]
+}

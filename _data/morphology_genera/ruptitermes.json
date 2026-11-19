@@ -1,0 +1,30 @@
+{
+ "zh_name": "腹爆白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "工蚁腹部前部具一对发达的球形破裂腺（dehiscent glands），可占腹部体积的 1/3，通常呈白色团块状而易于识别；该腺为本属独有的共有衍征，其他白蚁属均无。有翅成虫大于多数新热带 Apicotermitinae，与 Aparatermes 以后唇基中线两端不凹陷区分。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头背面观短宽而圆，密被短毛与散生刚毛；囟椭圆至圆形，通常明显；复眼较小，单眼圆或椭圆、与复眼相距至少其直径；后唇基小至大、中度至强烈膨大，中线两端凹陷，中线明显但不完整、近前后缘处消失；触角 15 节；各胫节 2 端距；翅面均匀覆 2–4 臂的不规则微鳞；雌性大于雄性。"
+  },
+  {
+   "label": "工蚁",
+   "text": "工蚁单型（个别种另有说明）。头宽而圆，通常骨化强、色深；囟椭圆至圆、大小与颜色多变、通常明显；后唇基膨大或扁平。左上颚端齿（A）短于第一缘齿（M1），M1 与 M3 之间恒有缺刻；右颚磨板凹、无脊。触角 14 节；前胫节具 1–2 列不规则刺状刚毛，多数种前足基节有弯曲或椭圆形的刺列。腹部前部一对球形破裂腺可达腹体积 1/3。肠：嗉囊多很小、砂囊无武装、混合段短至极短、P1 长管状；肠瓣两侧对称、6 条无骨化的网纹脊、多数种无刺；肠瓣（EVA）无武装，仅 R. bandeirai 例外。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0076",
+   "citation": "Acioli A. N. S.; Constantino R. 2015. A taxonomic revision of the neotropical termite genus Ruptitermes (Isoptera, Termitidae, Apicotermitinae). Zootaxa 4032: 451-492. https://doi.org/10.11646/zootaxa.4032.5.1",
+   "locator": "Description › Imago（p. 454）；Description › Worker（p. 454）；Description › Gut morphology（p. 454–455）"
+  },
+  {
+   "id": "S0027",
+   "citation": "Carrijo T. F.; Castro D.; Wang M.; Constantini J. P.; Bourguignon T.; Cancello E. M.; Scheffrahn R. H. 2023. Diminishing the taxonomic gap in the neotropical soldierless termites: descriptions of four new genera and a new Anoplotermes species (Isoptera, Termitidae, Apicotermitinae). ZooKeys 1167: 317-352. https://doi.org/10.3897/zookeys.1167.100001",
+   "locator": "Comparison and remarks (Dissimulitermes)"
+  }
+ ],
+ "note": "无兵蚁。属级 redescription 含工蚁、有翅成虫与消化道；腹部破裂腺为本属独有的共有衍征。"
+}

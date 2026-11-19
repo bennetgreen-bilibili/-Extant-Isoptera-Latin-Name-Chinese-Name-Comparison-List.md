@@ -1,0 +1,32 @@
+{
+ "latin": "Sinqasapatermes",
+ "zh": "鼻大白蚁属",
+ "fetched_at": "2026-10-30T16:54:39Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2089861477",
+   "openalex_url": "https://openalex.org/W2089861477",
+   "doi": "10.3897/zookeys.159.2311",
+   "doi_url": "https://doi.org/10.3897/zookeys.159.2311",
+   "title": "A new genus and species of termites (Isoptera, Termitidae, Nasutitermitinae) from the rainforest of northern Peru",
+   "year": 2011,
+   "date": "2011-12-23",
+   "authors": [
+    "Carolina Cuezzo",
+    "David A. Nickle"
+   ],
+   "venue": "ZooKeys",
+   "type": "article",
+   "language": "en",
+   "cited_by": 6,
+   "oa_url": "https://zookeys.pensoft.net/article/2343/download/pdf/",
+   "volume": "159",
+   "issue": "159",
+   "pages": "1-9",
+   "abstract": "A new genus and species of nasutitermitine termites are described and illustrated, based on soldier and worker characters. Sinqasapatermesgen. n., can be distinguished from all other nasutitermitine genera by its singular worker gut coiling and enteric valve characters: distal margin of the enteric valve not everted into the paunch but bending towards the ileum, that is, directed against the flow of food; enteric valve armature with one ring of six equal subtriangularly-shaped ridges, each ridge with short spines on the entire surface; enteric valve armature situatedonexternal face of cone, facing the internal ileum wall; enteric valve seating tri-lobed and separated from remaining portionof the paunch; paunch subdivided. Sinqasapatermes sachaesp. n., was collected on a tree in a very narrow flattened tunnel that was well concealed beneath lichens in a northern Peru rainforest (Arcadia, Loreto Province).",
+   "abstract_source": "openalex",
+   "abstract_chars": 917,
+   "abstract_truncated": false
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "Eurytermes assmuthi": {
+  "label": "Eurytermes assmuthi Wasmann, 1902",
+  "match": "exact",
+  "notes": "",
+  "otu": 84087,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84087/overview",
+  "valid_label": null,
+  "valid_otu": 84087,
+  "verified": false
+ },
+ "Eurytermes assmuthi assmuthi": {
+  "label": "Eurytermes assmuthi assmuthi Wasmann, 1902",
+  "match": "exact",
+  "notes": "",
+  "otu": 84088,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84088/overview",
+  "valid_label": null,
+  "valid_otu": 84088,
+  "verified": false
+ },
+ "Eurytermes assmuthi modestior": {
+  "label": "Eurytermes assmuthi modestior Silvestri, 1923",
+  "match": "exact",
+  "notes": "",
+  "otu": 84089,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84089/overview",
+  "valid_label": null,
+  "valid_otu": 84089,
+  "verified": false
+ },
+ "Eurytermes boveni": {
+  "label": "Eurytermes boveni Chhotani & Roonwal, 1966",
+  "match": "exact",
+  "notes": "",
+  "otu": 84090,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84090/overview",
+  "valid_label": null,
+  "valid_otu": 84090,
+  "verified": false
+ },
+ "Eurytermes buddha": {
+  "label": "Eurytermes buddha Bose & Maiti, 1966",
+  "match": "exact",
+  "notes": "",
+  "otu": 84091,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84091/overview",
+  "valid_label": null,
+  "valid_otu": 84091,
+  "verified": false
+ },
+ "Eurytermes ceylonicus": {
+  "label": "Eurytermes ceylonicus Holmgren, 1913",
+  "match": "exact",
+  "notes": "",
+  "otu": 84092,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84092/overview",
+  "valid_label": null,
+  "valid_otu": 84092,
+  "verified": false
+ },
+ "Eurytermes mohana": {
+  "label": "Eurytermes mohana Rathore, 1995",
+  "match": "exact",
+  "notes": "",
+  "otu": 84093,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84093/overview",
+  "valid_label": null,
+  "valid_otu": 84093,
+  "verified": false
+ },
+ "Eurytermes topslipensis": {
+  "label": "Eurytermes topslipensis (Thapa & Chatterjee, 1963)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84094,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84094/overview",
+  "valid_label": null,
+  "valid_otu": 84094,
+  "verified": false
+ }
+}

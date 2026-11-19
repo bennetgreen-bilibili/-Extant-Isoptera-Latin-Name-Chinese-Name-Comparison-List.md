@@ -1,0 +1,35 @@
+{
+ "zh_name": "叉白蚁属",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "头宽卵形、表面平滑，仅囟孔周围有细微刻纹；囟孔长形，位于头面一短窄凹窝内；头顶在单眼之间平缓而均匀地凸起；复眼较平、中等大小，距头下缘略小于其直径的三分之一。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "上唇大，两侧叶分叉而略窄，末端圆或略截，伸出时超过上颚缘齿；上唇前缘深凹——属名即取自分叉的上唇。"
+  },
+  {
+   "label": "工蚁",
+   "text": "上颚端齿较大；右上颚第二缘齿消失；此式在近缘属中只与 Euchilotermes、Ophiotermes、Tuberculitermes 与 Spinitermes 相似。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+   "locator": "pp. 3–4（Nitiditermes 有翅成虫）"
+  },
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+   "locator": "p. 20（Furculitermes 兵蚁）"
+  },
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–24.",
+   "locator": "p. 20（Furculitermes 工蚁）"
+  }
+ ],
+ "note": "Emerson 1960 对本属有翅成虫、兵蚁、工蚁均有描述；此处只取属级鉴别性状，种级量度与毛被从略。"
+}

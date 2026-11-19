@@ -1,0 +1,233 @@
+{
+ "Dicuspiditermes achankovili": {
+  "label": "Dicuspiditermes achankovili Verma, 1985",
+  "match": "exact",
+  "notes": "",
+  "otu": 85342,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85342/overview",
+  "valid_label": null,
+  "valid_otu": 85342,
+  "verified": false
+ },
+ "Dicuspiditermes boseae": {
+  "label": "Dicuspiditermes boseae Chhotani, 1997",
+  "match": "exact",
+  "notes": "",
+  "otu": 85343,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85343/overview",
+  "valid_label": null,
+  "valid_otu": 85343,
+  "verified": false
+ },
+ "Dicuspiditermes cacuminatus": {
+  "label": "Dicuspiditermes cacuminatus Krishna, 2001",
+  "match": "exact",
+  "notes": "",
+  "otu": 85344,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85344/overview",
+  "valid_label": null,
+  "valid_otu": 85344,
+  "verified": false
+ },
+ "Dicuspiditermes cornutella": {
+  "label": "Dicuspiditermes cornutella (Silvestri, 1922)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85345,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85345/overview",
+  "valid_label": null,
+  "valid_otu": 85345,
+  "verified": false
+ },
+ "Dicuspiditermes fissifex": {
+  "label": "Dicuspiditermes fissifex Krishna, 2001",
+  "match": "exact",
+  "notes": "",
+  "otu": 85346,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85346/overview",
+  "valid_label": null,
+  "valid_otu": 85346,
+  "verified": false
+ },
+ "Dicuspiditermes fontanellus": {
+  "label": "Dicuspiditermes fontanellus Thakur & Chatterjee, 1971",
+  "match": "exact",
+  "notes": "",
+  "otu": 85347,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85347/overview",
+  "valid_label": null,
+  "valid_otu": 85347,
+  "verified": false
+ },
+ "Dicuspiditermes gravelyi": {
+  "label": "Dicuspiditermes gravelyi (Silvestri, 1922)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85348,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85348/overview",
+  "valid_label": null,
+  "valid_otu": 85348,
+  "verified": false
+ },
+ "Dicuspiditermes hutsoni": {
+  "label": "Dicuspiditermes hutsoni (Kemner, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85349,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85349/overview",
+  "valid_label": null,
+  "valid_otu": 85349,
+  "verified": false
+ },
+ "Dicuspiditermes incola": {
+  "label": "Dicuspiditermes incola (Wasmann, 1893)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85350,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85350/overview",
+  "valid_label": null,
+  "valid_otu": 85350,
+  "verified": false
+ },
+ "Dicuspiditermes kistneri": {
+  "label": "Dicuspiditermes kistneri Krishna, 2001",
+  "match": "exact",
+  "notes": "",
+  "otu": 85351,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85351/overview",
+  "valid_label": null,
+  "valid_otu": 85351,
+  "verified": false
+ },
+ "Dicuspiditermes laetus": {
+  "label": "Dicuspiditermes laetus (Silvestri, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85352,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85352/overview",
+  "valid_label": null,
+  "valid_otu": 85352,
+  "verified": false
+ },
+ "Dicuspiditermes leghugathrae": {
+  "label": "Dicuspiditermes leghugathrae Amina & Rajmohana, 2020",
+  "match": "exact",
+  "notes": "",
+  "otu": 681752,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/681752/overview",
+  "valid_label": null,
+  "valid_otu": 681752,
+  "verified": false
+ },
+ "Dicuspiditermes makhamensis": {
+  "label": "Dicuspiditermes makhamensis Ahmad, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 85353,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85353/overview",
+  "valid_label": null,
+  "valid_otu": 85353,
+  "verified": false
+ },
+ "Dicuspiditermes minutus": {
+  "label": "Dicuspiditermes minutus Akhtar & Riaz, 1992",
+  "match": "exact",
+  "notes": "",
+  "otu": 85354,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85354/overview",
+  "valid_label": null,
+  "valid_otu": 85354,
+  "verified": false
+ },
+ "Dicuspiditermes nemorosus": {
+  "label": "Dicuspiditermes nemorosus (Haviland, 1898)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85355,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85355/overview",
+  "valid_label": null,
+  "valid_otu": 85355,
+  "verified": false
+ },
+ "Dicuspiditermes obtusus": {
+  "label": "Dicuspiditermes obtusus (Silvestri, 1923)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85356,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85356/overview",
+  "valid_label": null,
+  "valid_otu": 85356,
+  "verified": false
+ },
+ "Dicuspiditermes punjabensis": {
+  "label": "Dicuspiditermes punjabensis (Holmgren & Holmgren, 1917)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85357,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85357/overview",
+  "valid_label": null,
+  "valid_otu": 85357,
+  "verified": false
+ },
+ "Dicuspiditermes rothi": {
+  "label": "Dicuspiditermes rothi (Holmgren, 1913)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85358,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85358/overview",
+  "valid_label": null,
+  "valid_otu": 85358,
+  "verified": false
+ },
+ "Dicuspiditermes santschii": {
+  "label": "Dicuspiditermes santschii (Silvestri, 1922)",
+  "match": "exact",
+  "notes": "",
+  "otu": 85359,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85359/overview",
+  "valid_label": null,
+  "valid_otu": 85359,
+  "verified": false
+ },
+ "Dicuspiditermes sisiri": {
+  "label": "Dicuspiditermes sisiri Chhotani, 1997",
+  "match": "exact",
+  "notes": "",
+  "otu": 85360,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85360/overview",
+  "valid_label": null,
+  "valid_otu": 85360,
+  "verified": false
+ },
+ "Dicuspiditermes spinitibialis": {
+  "label": "Dicuspiditermes spinitibialis Krishna, 2001",
+  "match": "exact",
+  "notes": "",
+  "otu": 85361,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85361/overview",
+  "valid_label": null,
+  "valid_otu": 85361,
+  "verified": false
+ }
+}

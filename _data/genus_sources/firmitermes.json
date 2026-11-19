@@ -1,0 +1,27 @@
+{
+ "latin": "Firmitermes",
+ "zh": "坚白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Firmitermes Sjöstedt, 1926d: 191.",
+ "type_species": "Firmitermes abyssinicus Sjöstedt, 1926 by monotypy.",
+ "references": [
+  {
+   "ref": "Emerson, 1959: 2–7",
+   "note": "Firmitermes; synonymy; imago, soldier described; relationships."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 26, 96, 97, pl. 16: fig. 47c",
+   "note": "Firmitermes; key; characters; imago mandibles figured."
+  },
+  {
+   "ref": "Morimoto, 1975b: 37",
+   "note": "Firmitermes; key."
+  },
+  {
+   "ref": "Sands, 1998: 53, 173–175, figs. 559–565, pl. 9: fig. 6",
+   "note": "Firmitermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 12
+}

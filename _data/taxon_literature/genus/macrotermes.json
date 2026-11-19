@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "两种同域大白蚁的幼蚁品级",
+   "heading_en": "Larval instars of two sympatric Macrotermes species",
+   "heading_es": "Instares larvales de dos especies simpátricas de Macrotermes",
+   "paragraphs": [
+    {
+     "src": [
+      "S0214"
+     ],
+     "text": "据摘要，Neoh 与 Lee（2009）对马来西亚同域分布的暗黄大白蚁（<i>Macrotermes gilvus</i>）与炭色大白蚁（<i>Macrotermes carbonarius</i>）的研究，两种大白蚁的幼蚁可分为 5 个界限分明的品级组，小工蚁与大工蚁各具 3 个幼蚁龄；一龄幼蚁雌雄同型，自二龄起出现雌性小于雄性的体型性二型；小兵蚁与大兵蚁均为雌性不育品级；若虫自一龄起经 5 次蜕皮发育为有翅成虫。",
+     "text_en": "According to the abstract of Neoh and Lee (2009), who studied the sympatric <i>Macrotermes gilvus</i> and <i>Macrotermes carbonarius</i> in Malaysia, the larvae of both species fall into five clearly delimited caste groups, with minor and major workers each passing through three larval instars; first-instar larvae are sexually monomorphic, and from the second instar onwards females are smaller than males; minor and major soldiers are both female sterile castes; nymphs develop into alates through five moults starting from the first instar.",
+     "text_es": "Según el resumen de Neoh y Lee (2009), que estudiaron las especies simpátricas <i>Macrotermes gilvus</i> y <i>Macrotermes carbonarius</i> en Malasia, las larvas de ambas especies se agrupan en cinco clases de castas bien delimitadas, y las obreras menores y mayores atraviesan cada una tres estadios larvarios; las larvas de primer estadio son monomórficas entre sexos y a partir del segundo estadio las hembras son menores que los machos; las soldados menores y mayores son castas estériles femeninas; las ninfas se desarrollan hasta alados a través de cinco mudas desde el primer estadio."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0214",
+   "citation": "Neoh, K.-B.; Lee, C.-Y. 2009. Developmental Stages and Castes of Two Sympatric Subterranean Termites Macrotermes gilvus and Macrotermes carbonarius (Blattodea: Termitidae). Annals of the Entomological Society of America 102(6).",
+   "doi": "10.1603/008.102.0617"
+  }
+ ]
+}

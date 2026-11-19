@@ -1,0 +1,46 @@
+{
+ "Malaysiotermes holmgreni": {
+  "gbif": {
+   "key": 9740291,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Malaysiotermes holmgreni (Ahmad, 1968)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6R4SF",
+   "status": "accepted",
+   "label": "Malaysiotermes holmgreni (Ahmad, 1968)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210160",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Malaysiotermes spinocephalus": {
+  "gbif": {
+   "key": 9680371,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Malaysiotermes spinocephalus Ahmad, 1968",
+   "accepted": null
+  },
+  "col": {
+   "id": "6R54F",
+   "status": "accepted",
+   "label": "Malaysiotermes spinocephalus Ahmad, 1968",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210159",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

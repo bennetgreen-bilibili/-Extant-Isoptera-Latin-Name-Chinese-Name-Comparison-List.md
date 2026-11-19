@@ -1,0 +1,74 @@
+{
+ "Armitermes armiger": {
+  "gbif": {
+   "key": 9686351,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Armitermes armiger (Motschulsky, 1855)",
+   "accepted": null
+  },
+  "col": {
+   "id": "GSTS",
+   "status": "accepted",
+   "label": "Armitermes armiger (Motschulsky, 1855)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234919",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Armitermes bidentatus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Armitermes Wasmann, 1897",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CGSDR",
+   "status": "accepted",
+   "label": "Armitermes bidentatus Rocha & Cancello, 2012",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140725869",
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Armitermes spininotus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Armitermes Wasmann, 1897",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "CGSDS",
+   "status": "accepted",
+   "label": "Armitermes spininotus Rocha & Cancello, 2012",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140742386",
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

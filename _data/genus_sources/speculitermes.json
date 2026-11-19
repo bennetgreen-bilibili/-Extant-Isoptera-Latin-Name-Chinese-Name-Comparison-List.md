@@ -1,0 +1,43 @@
+{
+ "latin": "Speculitermes",
+ "zh": "稀白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Speculitermes Wasmann, 1902d: 161–162.",
+ "type_species": "Speculitermes cyclops Wasmann, 1902 by monotypy.",
+ "references": [
+  {
+   "ref": "Escherich, 1909: 178",
+   "note": "Speculitermes; characters."
+  },
+  {
+   "ref": "Holmgren, 1912a: 74",
+   "note": "Anoplotermes (Speculitermes); key; species included."
+  },
+  {
+   "ref": "Snyder, 1934a: 26, 28",
+   "note": "Anoplotermes (Speculitermes); key."
+  },
+  {
+   "ref": "Ahmad, 1958: 87",
+   "note": "Speculitermes; key."
+  },
+  {
+   "ref": "Roonwal and Chhotani, 1959b: 1967–1968",
+   "note": "Speculitermes; key; distribution."
+  },
+  {
+   "ref": "Roonwal and Chhotani, 1962e: 160–161, 165, 166, 167",
+   "note": "Speculitermes; key; discussion; distribution."
+  },
+  {
+   "ref": "Ahmad, 1963: 395",
+   "note": "Speculitermes; characters; affinity."
+  },
+  {
+   "ref": "Roonwal and Bose, 1964: 8",
+   "note": "Speculitermes; key."
+  }
+ ],
+ "nrefs": 50
+}

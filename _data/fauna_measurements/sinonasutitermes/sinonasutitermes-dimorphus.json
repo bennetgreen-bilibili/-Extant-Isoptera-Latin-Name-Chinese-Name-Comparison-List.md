@@ -1,0 +1,43 @@
+{
+ "book_n": "441",
+ "book_name": "二型华象白蚊 Sinonasutitermes dimorphus",
+ "tables": [
+  {
+   "caste": "alate",
+   "heading": "二型华象白蚁10头有翅成虫量度( mm)",
+   "label_en": "Alate measurements",
+   "label_es": "Medidas de alado",
+   "label_zh": "有翅成虫量度",
+   "rows": [
+    {
+     "key": "body_length_with_wings",
+     "mean": "19.11",
+     "value": "18.20–20.51"
+    },
+    {
+     "key": "head_width_with_eyes",
+     "mean": "1.82",
+     "value": "1.75–1.89"
+    },
+    {
+     "key": "eye_long_diameter",
+     "mean": "0.67",
+     "value": "0.64–0.71"
+    },
+    {
+     "key": "eye_short_diameter",
+     "mean": "0.55",
+     "value": "0.53–0.59"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "1.66",
+     "value": "1.54–1.78"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 975,
+   "unit": "mm"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "携带的线虫",
+   "heading_en": "Nematodes carried",
+   "heading_es": "Nematodos transportados",
+   "paragraphs": [
+    {
+     "src": [
+      "S0212"
+     ],
+     "text": "据摘要，Kanzaki 等（2010）从巴拿马巴罗科罗拉多岛采到的微小锯白蚁（<i>Microcerotermes exiguus</i>）体内分离到线虫新种 <i>Pseudaphelenchus vindai</i>；该线虫同时见于博蒙特弓白蚁（<i>Amitermes beaumonti</i>）与巴拿马钝白蚁（<i>Obtusitermes panamae</i>），说明它能利用多个白蚁寄主。",
+     "text_en": "According to the abstract, Kanzaki et al. (2010) isolated the new nematode <i>Pseudaphelenchus vindai</i> from <i>Microcerotermes exiguus</i> collected on Barro Colorado Island, Panama; the nematode also occurs in <i>Amitermes beaumonti</i> and <i>Obtusitermes panamae</i>, showing that it uses several termite hosts.",
+     "text_es": "Según el resumen, Kanzaki et al. (2010) aislaron el nuevo nematodo <i>Pseudaphelenchus vindai</i> de <i>Microcerotermes exiguus</i> recolectada en la isla Barro Colorado, Panamá; el nematodo también aparece en <i>Amitermes beaumonti</i> y <i>Obtusitermes panamae</i>, lo que muestra que utiliza varios hospedadores de termitas."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0212",
+   "citation": "Kanzaki, N., Giblin-Davis, R. M., Herre, E. A., Scheffrahn, R. H. & Center, B. J. (2010). Pseudaphelenchus vindai n. sp. (Tylenchomorpha: Aphelenchoididae) associated with termites in Barro Colorado Island, Panama. Nematology.",
+   "doi": "10.1163/138855410x496187"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "Agnathotermes crassinasus": {
+  "label": "Agnathotermes crassinasus Constantino, 1990",
+  "match": "exact",
+  "notes": "",
+  "otu": 84278,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84278/overview",
+  "valid_label": null,
+  "valid_otu": 84278,
+  "verified": false
+ },
+ "Agnathotermes glaber": {
+  "label": "Agnathotermes glaber (Snyder, 1926)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84279,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84279/overview",
+  "valid_label": null,
+  "valid_otu": 84279,
+  "verified": false
+ }
+}

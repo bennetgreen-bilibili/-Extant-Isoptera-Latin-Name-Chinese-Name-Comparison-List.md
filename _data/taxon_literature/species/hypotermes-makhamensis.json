@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "菌圃腔壁上的客居甲虫",
+   "heading_en": "An inquiline beetle on the walls of the fungus-garden chambers",
+   "heading_es": "Un escarabajo inquilino en las paredes de las celdillas del jardín de hongos",
+   "paragraphs": [
+    {
+     "text": "根据 Maruyama（2012）研究，玛堪地白蚁（<i>Hypotermes makhamensis</i>）的菌圃腔壁上生活着客居甲虫 <i>Termitotrox cupido</i>：2012 年 8 月在柬埔寨暹粒吴哥所采的 25 头标本均得自该种菌圃腔的壁面，而不像同一生境中的蚤蝇科与隐翅虫科客虫那样进入菌圃内部；菌圃被移走后，这些甲虫沿腔壁随白蚁移动，但未观察到白蚁与甲虫的直接接触。",
+     "text_en": "According to the study by Maruyama (2012), the termitophilous beetle <i>Termitotrox cupido</i> lives on the walls of the fungus-garden chambers of <i>Hypotermes makhamensis</i>: all 25 specimens collected in August 2012 at Angkor Wat, Siem Reap, Cambodia, came from the walls of these chambers in the fungus garden of this species, and unlike the phorid and staphylinid inquilines of the same habitat they do not enter the interior of the garden; when the garden was removed the beetles walked along the chamber walls following the termites, but no direct contact between termites and beetles was observed.",
+     "text_es": "Según el estudio de Maruyama (2012), el escarabajo termitófilo <i>Termitotrox cupido</i> vive en las paredes de las celdillas del jardín de hongos de <i>Hypotermes makhamensis</i>: los 25 ejemplares recolectados en agosto de 2012 en Angkor Wat, Siem Reap, Camboya, procedían de las paredes de esas celdillas del jardín de esta especie y, a diferencia de los fóridos y estafilínidos inquilinos del mismo hábitat, no penetran en el interior del jardín; al retirar el jardín, los escarabajos caminaban por las paredes de las celdillas siguiendo a las termitas, pero no se observó contacto directo entre termitas y escarabajos.",
+     "src": [
+      "S0354"
+     ]
+    },
+    {
+     "text": "同一研究记录该甲虫体长 1.13–1.22 mm（正模 1.21 mm），可能是已知最小的金龟，并把地白蚁属（<i>Hypotermes</i>）与土白蚁属（<i>Odontotermes</i>）、前白蚁属（<i>Protermes</i>）并列为 <i>Termitotrox</i> 属甲虫的培菌白蚁寄主属。",
+     "text_en": "The same study recorded the beetle as 1.13–1.22 mm long (holotype 1.21 mm), possibly the smallest known scarab, and listed <i>Hypotermes</i> alongside <i>Odontotermes</i> and <i>Protermes</i> as fungus-growing termite genera that host species of <i>Termitotrox</i>.",
+     "text_es": "El mismo estudio registró una longitud corporal del escarabajo de 1,13–1,22 mm (holotipo 1,21 mm), posiblemente el escarabajo más pequeño conocido, y situó a <i>Hypotermes</i> junto a <i>Odontotermes</i> y <i>Protermes</i> entre los géneros de termitas cultivadoras de hongos que albergan especies de <i>Termitotrox</i>.",
+     "src": [
+      "S0354"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0354",
+   "citation": "Maruyama, M. 2012. Termitotrox cupido sp. n. (Coleoptera, Scarabaeidae), a new termitophilous scarab species from the Indo-Chinese subregion, associated with Hypotermes termites. ZooKeys.",
+   "url": "https://doi.org/10.3897/zookeys.254.4285"
+  }
+ ]
+}

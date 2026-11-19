@@ -1,0 +1,46 @@
+{
+ "Aderitotermes cavator": {
+  "gbif": {
+   "key": 9675981,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Aderitotermes cavator Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "64QGZ",
+   "status": "accepted",
+   "label": "Aderitotermes cavator Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234501",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Aderitotermes fossor": {
+  "gbif": {
+   "key": 9810321,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Aderitotermes fossor Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "652GZ",
+   "status": "accepted",
+   "label": "Aderitotermes fossor Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234506",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

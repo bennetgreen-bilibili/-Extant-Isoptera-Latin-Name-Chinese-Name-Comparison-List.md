@@ -1,0 +1,118 @@
+{
+ "Cortaritermes fulviceps": {
+  "gbif": {
+   "key": 9663348,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cortaritermes fulviceps (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6B4FZ",
+   "status": "accepted",
+   "label": "Cortaritermes fulviceps (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237544",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cortaritermes intermedius": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Cortaritermes Mathews, 1977",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "GG3F6",
+   "status": "accepted",
+   "label": "Cortaritermes intermedius (Banks, 1919)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Cortaritermes piliceps": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Cortaritermes Mathews, 1977",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "VC22J",
+   "status": "accepted",
+   "label": "Cortaritermes piliceps (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Cortaritermes rizzinii": {
+  "gbif": {
+   "key": 9707064,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Cortaritermes rizzinii (Araujo, 1971)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6B4FY",
+   "status": "accepted",
+   "label": "Cortaritermes rizzinii (Araujo, 1971)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140237545",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Cortaritermes silvestrii": {
+  "gbif": {
+   "key": 9744833,
+   "status": "ACCEPTED",
+   "match": "FUZZY",
+   "confidence": 98,
+   "rank": "SPECIES",
+   "name": "Cortaritermes silvestri (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6B4FX",
+   "status": "accepted",
+   "label": "Cortaritermes silvestri (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140761111",
+  "flags": [
+   "gbif_fuzzy"
+  ],
+  "_d": "2026-10-28"
+ }
+}

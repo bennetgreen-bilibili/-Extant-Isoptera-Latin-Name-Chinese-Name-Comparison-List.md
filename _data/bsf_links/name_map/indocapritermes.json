@@ -1,0 +1,13 @@
+{
+ "Indocapritermes aruni": {
+  "label": "Indocapritermes aruni Chhotani, 1997",
+  "match": "exact",
+  "notes": "",
+  "otu": 85453,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85453/overview",
+  "valid_label": null,
+  "valid_otu": 85453,
+  "verified": false
+ }
+}

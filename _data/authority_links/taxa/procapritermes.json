@@ -1,0 +1,288 @@
+{
+ "Procapritermes atypus": {
+  "gbif": {
+   "key": 9762699,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procapritermes atypus Holmgren, 1912",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MMHP",
+   "status": "accepted",
+   "label": "Procapritermes atypus Holmgren, 1912",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084156",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procapritermes dakshinae": {
+  "gbif": {
+   "key": 9804601,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procapritermes dakshinae (Chhotani & Ferry, 1995)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MMHR",
+   "status": "accepted",
+   "label": "Procapritermes dakshinae (Chhotani & Ferry, 1995)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084157",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procapritermes holmgreni": {
+  "gbif": {
+   "key": 9668882,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procapritermes holmgreni Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MMHS",
+   "status": "accepted",
+   "label": "Procapritermes holmgreni Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084160",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procapritermes huananensis": {
+  "gbif": {
+   "key": 9772136,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procapritermes huananensis (Yu & Ping, 1966)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MMHT",
+   "status": "accepted",
+   "label": "Procapritermes huananensis (Yu & Ping, 1966)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084162",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procapritermes keralai": {
+  "gbif": {
+   "key": 9782622,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procapritermes keralai (Chhotani & Ferry, 1995)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6W9VT",
+   "status": "accepted",
+   "label": "Procapritermes keralai (Chhotani & Ferry, 1995)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084163",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procapritermes longignathus": {
+  "gbif": {
+   "key": 9699654,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procapritermes longignathus Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MMHV",
+   "status": "accepted",
+   "label": "Procapritermes longignathus Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084165",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procapritermes martyni": {
+  "gbif": {
+   "key": 9740210,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procapritermes martyni Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MMHW",
+   "status": "accepted",
+   "label": "Procapritermes martyni Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084167",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procapritermes minutus": {
+  "gbif": {
+   "key": 9815206,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procapritermes minutus (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MMHX",
+   "status": "accepted",
+   "label": "Procapritermes minutus (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084169",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procapritermes neosetiger": {
+  "gbif": {
+   "key": 9802733,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procapritermes neosetiger Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MMHZ",
+   "status": "accepted",
+   "label": "Procapritermes neosetiger Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084171",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procapritermes prosetiger": {
+  "gbif": {
+   "key": 9680439,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procapritermes prosetiger Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MMJ3",
+   "status": "accepted",
+   "label": "Procapritermes prosetiger Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084174",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procapritermes sandakanensis": {
+  "gbif": {
+   "key": 9730960,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procapritermes sandakanensis Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MMJ4",
+   "status": "accepted",
+   "label": "Procapritermes sandakanensis Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084176",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procapritermes setiger": {
+  "gbif": {
+   "key": 9701483,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procapritermes setiger (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MMJ5",
+   "status": "accepted",
+   "label": "Procapritermes setiger (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084179",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procapritermes zhangfengensis": {
+  "gbif": {
+   "key": 9750542,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procapritermes zhangfengensis (Yang, Zhu, Huang & Huang, 1995)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MMJ7",
+   "status": "accepted",
+   "label": "Procapritermes zhangfengensis (Yang, Zhu & Huang, 1995)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084181",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

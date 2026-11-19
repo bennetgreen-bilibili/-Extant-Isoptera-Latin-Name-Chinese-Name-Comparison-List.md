@@ -1,0 +1,26 @@
+{
+ "Dissimulitermes invisibilis": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 99,
+   "rank": "KINGDOM",
+   "name": "Animalia",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "KV9FC",
+   "status": "accepted",
+   "label": "Dissimulitermes invisibilis Constantini & Cancello, 2021",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ }
+}

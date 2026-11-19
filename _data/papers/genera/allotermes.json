@@ -1,0 +1,31 @@
+{
+ "fetched_at": "2026-10-30T15:45:59Z",
+ "latin": "Allotermes",
+ "papers": [
+  {
+   "abstract": "",
+   "abstract_chars": 0,
+   "abstract_source": "",
+   "abstract_truncated": false,
+   "authors": [
+    "K Niyogi Krishna"
+   ],
+   "cited_by": 0,
+   "date": "1962-10-20",
+   "doi": "",
+   "doi_url": "",
+   "id": "https://openalex.org/W2964744497",
+   "issue": "",
+   "language": "en",
+   "oa_url": "",
+   "openalex_url": "https://openalex.org/W2964744497",
+   "pages": "1-25",
+   "title": "New species of the genera Allotermes Wasmann, Bicornitermes Krishna, Epicalotermes Silvestri, and Procryptotermes Holmgren",
+   "type": "article",
+   "venue": "",
+   "volume": "2119",
+   "year": 1962
+  }
+ ],
+ "zh": "奇白蚁属"
+}

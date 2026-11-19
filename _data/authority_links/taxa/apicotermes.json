@@ -1,0 +1,288 @@
+{
+ "Apicotermes angustatus": {
+  "gbif": {
+   "key": 9715125,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apicotermes angustatus Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "FLS4",
+   "status": "accepted",
+   "label": "Apicotermes angustatus Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234901",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Apicotermes arquieri": {
+  "gbif": {
+   "key": 9653699,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apicotermes arquieri Noirot & Grassé, 1955",
+   "accepted": null
+  },
+  "col": {
+   "id": "FLS5",
+   "status": "accepted",
+   "label": "Apicotermes arquieri Noirot & Grassé, 1955",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234902",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Apicotermes desneuxi": {
+  "gbif": {
+   "key": 9819050,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apicotermes desneuxi Emerson, 1953",
+   "accepted": null
+  },
+  "col": {
+   "id": "FLS6",
+   "status": "accepted",
+   "label": "Apicotermes desneuxi Emerson, 1953",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235024",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Apicotermes emersoni": {
+  "gbif": {
+   "key": 9655555,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apicotermes emersoni Bouillon",
+   "accepted": null
+  },
+  "col": {
+   "id": "FLS7",
+   "status": "accepted",
+   "label": "Apicotermes emersoni Bouillon",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234904",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Apicotermes goesswaldi": {
+  "gbif": {
+   "key": 9734630,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apicotermes goesswaldi Bouillon, 1966",
+   "accepted": null
+  },
+  "col": {
+   "id": "FLS8",
+   "status": "accepted",
+   "label": "Apicotermes goesswaldi Bouillon, 1966",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235026",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Apicotermes gurgulifex": {
+  "gbif": {
+   "key": 9685967,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apicotermes gurgulifex Emerson, 1956",
+   "accepted": null
+  },
+  "col": {
+   "id": "FLS9",
+   "status": "accepted",
+   "label": "Apicotermes gurgulifex Emerson, 1956",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234907",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Apicotermes holmgreni": {
+  "gbif": {
+   "key": 9788418,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apicotermes holmgreni Emerson, 1956",
+   "accepted": null
+  },
+  "col": {
+   "id": "67NWB",
+   "status": "accepted",
+   "label": "Apicotermes holmgreni Emerson, 1956",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234908",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Apicotermes kisantuensis": {
+  "gbif": {
+   "key": 9684070,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apicotermes kisantuensis Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "FLSB",
+   "status": "accepted",
+   "label": "Apicotermes kisantuensis Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234909",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Apicotermes lamani": {
+  "gbif": {
+   "key": 9717040,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apicotermes lamani (Sjöstedt, 1924)",
+   "accepted": null
+  },
+  "col": {
+   "id": "FLSC",
+   "status": "accepted",
+   "label": "Apicotermes lamani (Sjöstedt, 1924)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234910",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Apicotermes occultus": {
+  "gbif": {
+   "key": 9768363,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apicotermes occultus Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "FLSD",
+   "status": "accepted",
+   "label": "Apicotermes occultus Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234911",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Apicotermes porifex": {
+  "gbif": {
+   "key": 9736561,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apicotermes porifex Emerson, 1953",
+   "accepted": null
+  },
+  "col": {
+   "id": "5VNWH",
+   "status": "accepted",
+   "label": "Apicotermes porifex Emerson, 1953",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234912",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Apicotermes rimulifex": {
+  "gbif": {
+   "key": 9766399,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apicotermes rimulifex Emerson, 1956",
+   "accepted": null
+  },
+  "col": {
+   "id": "FLSF",
+   "status": "accepted",
+   "label": "Apicotermes rimulifex Emerson, 1956",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234913",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Apicotermes tragardhi": {
+  "gbif": {
+   "key": 9786416,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Apicotermes tragardhi Holmgren, 1912",
+   "accepted": null
+  },
+  "col": {
+   "id": "FLSG",
+   "status": "accepted",
+   "label": "Apicotermes tragardhi Holmgren, 1912",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234914",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

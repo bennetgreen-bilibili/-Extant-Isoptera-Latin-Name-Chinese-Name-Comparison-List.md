@@ -1,0 +1,43 @@
+{
+ "latin": "Coarctotermes",
+ "zh": "缩狭白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Coarctotermes Holmgren, 1912a: 61, 65 [first introduced as a subgenus of Eutermes Heer, 1849; name misspelled as Coarctatotermes by Holmgren on p. 61].",
+ "type_species": "Eutermes clepsydra Sjöstedt, 1904 by subsequent designation; see Sjöstedt, 1926d: 354.",
+ "references": [
+  {
+   "ref": "Fuller, 1921: 19, 21",
+   "note": "Coarctotermes; key; raised to generic rank."
+  },
+  {
+   "ref": "Fuller, 1922: 117",
+   "note": "Coarctatotermes [sic]; characters."
+  },
+  {
+   "ref": "Sjöstedt, 1926d: 290, 354",
+   "note": "Coarctotermes [part]; reference list; key; characters."
+  },
+  {
+   "ref": "Emerson, 1928b: 407, 420, 495",
+   "note": "Nasutitermes (Coarctotermes); key; discussion; distribution."
+  },
+  {
+   "ref": "Harris, 1941: 201",
+   "note": "Coarctotermes; key."
+  },
+  {
+   "ref": "Cachan, 1949: 186, 266",
+   "note": "Coarctotermes; key; synonymy; characters."
+  },
+  {
+   "ref": "Webb, 1961: 10",
+   "note": "Coarctotermes [part]; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 35",
+   "note": "Coarctotermes; key; characters."
+  }
+ ],
+ "nrefs": 14
+}

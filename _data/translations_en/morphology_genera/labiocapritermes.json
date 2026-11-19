@@ -1,0 +1,17 @@
+{
+ "note": "The genus characters are taken directly from the genus-level Diagnosis of the original text and are given separately for the two castes, soldier and worker; the original records the alate of all three known species as Imago: Unknown, so no alate section is provided. The variability of the median arm of the Y-shaped suture of the head capsule and the two spine-like tibial spurs were proposed in the original under Remarks and 'proposed as of generic significance' respectively, and have been incorporated above.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The soldier is relatively easy to recognise within the Pericapritermes group by its nearly square head capsule in dorsal view and the absence of frontal processes: the labrum is strongly inflated and asymmetrical left to right, its anterior margin slightly concave, its anterolateral corners either with a very small point or entirely absent; the mandibles are very short, shorter than the head, and extremely asymmetrical left to right — the left mandible is strongly twisted in the middle and its tip bears neither a beak-like process nor a hook, while the right mandible is blade-like with a blunt, non-acuminate tip. Together with the club-shaped postmentum and the strongly saddle-shaped pronotum, this distinguishes it from Pericapritermes and eight other genera. The author additionally proposed a genus-level character: the soldiers of all three known species have two brown, distinct spine-like spurs on the mid tibia."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head capsule subrectangular, without frontal processes; in lateral view the frontal region slopes gently downwards, the fontanelle is small and the fontanelle gland also small. Antennae 14 segments. Labrum asymmetrical and strongly inflated, the lateral margins convex, the anterior margin slightly concave, the anterolateral corners with a very small point (sometimes indistinct). Mandibles strongly asymmetrical and shorter than the head: the left mandible strongly twisted in the middle, its tip without a beak or hook; the right mandible blade-like, distinctly shorter than the left mandible, its tip blunt. Postmentum club-shaped, distinctly constricted at the waist. Pronotum strongly saddle-shaped, the anterior margin weakly concave, the posterior margin without a notch. The median arm of the Y-shaped suture of the head capsule varies from clear to faint to indistinct within a single species and even within a single colony, and the author therefore did not use it as a species-level character."
+  },
+  {
+   "label": "Worker",
+   "text": "Monotypic. Head capsule nearly circular in dorsal view; antennae 14 segments. Each mandible with one apical tooth and two marginal teeth, the apical tooth large; posterior margins of the 1st and 2nd marginal teeth of the left mandible long, the 3rd marginal tooth extremely reduced; 2nd marginal tooth of the right mandible small and projecting, its posterior margin weakly concave; pronotum saddle-shaped. The worker mandibular structure indicates that this genus is a humus/organic-rich soil feeder of feeding group III."
+  }
+ ]
+}

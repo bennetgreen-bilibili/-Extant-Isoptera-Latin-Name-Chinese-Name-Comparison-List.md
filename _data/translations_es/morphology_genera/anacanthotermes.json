@@ -1,0 +1,21 @@
+{
+ "note": "La monografía no establece un diagnóstico genérico independiente; los caracteres genéricos anteriores se resumen a partir de su distribución genérica, de las claves de alados y soldados y de las descripciones de las cuatro especies. En la región india se conocen 4 especies (baluchistanicus, macrocephalus, vagans, viarum), de un total de 12 en el género.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Uno de los tres géneros de Hodotermitinae, distribuido por el norte de África, Egipto, Asia occidental, Arabia y Asia central hasta la India occidental y meridional. En el soldado la cabeza es casi cuadrada a algo alargada, con los lados casi paralelos; las mandíbulas son robustas, incurvadas y con dientes marginales evidentes; la relación entre la longitud de la mandíbula izquierda y la longitud cefálica (hasta la base mandibular) es de 0.66–0.76 en viarum y de 0.53–0.66 en macrocephalus; el tercio posterior del postmentón puede presentar una «cintura» marcada; el margen posterior del pronoto es profundamente escotado, débilmente escotado o no escotado. El alado tiene antenas de 24–31 segmentos, el labro puede estar elevado en su parte media y la distancia entre los ojos compuestos y la base de las antenas es de 0.05–0.16 mm."
+  },
+  {
+   "label": "Alado",
+   "text": "De pequeño a mediano, con longitud corporal (sin alas) de 11–15.4 mm. Labro elevado en su parte media (A. viarum) o recto (A. vagans); antenas de 29–31 segmentos (baluchistanicus, anchura cefálica con ojos 3.20–3.42 mm, diámetro del ojo compuesto 0.63–0.70 mm, anchura del pronoto 2.53–2.90 mm), de 26–29 segmentos (macrocephalus, mayoritariamente 27, ejemplares de Afganistán 24; anchura cefálica 2.70–3.40 mm) o de 24–27 segmentos (vagans); distancia mínima entre los ojos compuestos y la base de las antenas 0.13–0.16 mm (viarum, baluchistanicus) o 0.05–0.08 mm (macrocephalus)."
+  },
+  {
+   "label": "Soldado",
+   "text": "Dimórfico (soldado mayor y soldado menor). Cabeza de pardo rojiza a castaño oscuro, casi cuadrada y algo alargada, con los lados casi paralelos y ligeramente cóncavos en el centro, cubierta de pelos de longitud media; postclípeo poco evidente; sutura craneal presente; labro más ancho que largo, cubierto de pelos, más largos en la parte anterior; antenas de 23–25 segmentos (baluchistanicus); mandíbulas robustas, con dientes marginales bien desarrollados; longitud de la mandíbula izquierda 2.71 mm (soldado mayor de baluchistanicus); postmentón largo (longitud 2.91 mm, anchura máxima 1.02 mm, anchura mínima 0.87 mm), aplanado y con los lados casi paralelos, cuyo tercio posterior presenta los márgenes laterales débilmente cóncavos formando una «cintura» (viarum, macrocephalus) o sin formar «cintura» (baluchistanicus, vagans); parte anterior del pronoto débilmente elevada y convexa, con el margen posterior profundamente escotado (baluchistanicus), débilmente escotado (viarum, macrocephalus) o no escotado (vagans); tarsos de 4 segmentos."
+  },
+  {
+   "label": "Obrero",
+   "text": "Mandíbulas con 2 dientes marginales; en la mandíbula izquierda los dos dientes marginales están muy separados y en la derecha próximos."
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "Ruptitermes araujoi": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 84132 Ruptitermes Mathews, 1977",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Ruptitermes arboreus": {
+  "label": "Ruptitermes arboreus (Emerson, 1925)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84133,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84133/overview",
+  "valid_label": null,
+  "valid_otu": 84133,
+  "verified": false
+ },
+ "Ruptitermes atyra": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 84132 Ruptitermes Mathews, 1977",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Ruptitermes bandeirai": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Ruptitermes cangua": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 84132 Ruptitermes Mathews, 1977",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Ruptitermes franciscoi": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Ruptitermes kaapora": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 84132 Ruptitermes Mathews, 1977",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Ruptitermes krishnai": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Ruptitermes maraca": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 84132 Ruptitermes Mathews, 1977",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Ruptitermes piliceps": {
+  "label": "",
+  "match": null,
+  "notes": "",
+  "otu": null,
+  "status": "missing",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Ruptitermes pitan": {
+  "label": "",
+  "match": null,
+  "notes": "仅模糊候选：OTU 84132 Ruptitermes Mathews, 1977",
+  "otu": null,
+  "status": "ambiguous",
+  "url": null,
+  "valid_label": null,
+  "valid_otu": null,
+  "verified": false
+ },
+ "Ruptitermes reconditus": {
+  "label": "Ruptitermes reconditus (Silvestri, 1901)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84135,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84135/overview",
+  "valid_label": null,
+  "valid_otu": 84135,
+  "verified": false
+ },
+ "Ruptitermes xanthochiton": {
+  "label": "Ruptitermes xanthochiton Mathews, 1977",
+  "match": "exact",
+  "notes": "",
+  "otu": 84136,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84136/overview",
+  "valid_label": null,
+  "valid_otu": 84136,
+  "verified": false
+ }
+}

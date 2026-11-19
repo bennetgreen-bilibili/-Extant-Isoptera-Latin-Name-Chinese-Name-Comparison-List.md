@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "属的近代修订",
+   "paragraphs": [
+    {
+     "text": "根据 Krishna & Adams（1982）研究，Holmgren（1914）以苏门答腊的巴特里彭唇白蚁（Labritermes buttel-reepeni）为模式种建立唇白蚁属（Labritermes），此后长期只有这一种；该文增加埃默森唇白蚁（Labritermes emersoni）和基斯特纳唇白蚁（Labritermes kistneri）两个新种，并指出唇白蚁属（Labritermes）与非洲的孔白蚁属（Foraminitermes）关系密切。",
+     "src": [
+      "S0115"
+     ],
+     "text_en": "According to Krishna & Adams's (1982) study, Holmgren (1914) established the genus Labritermes with Labritermes buttel-reepeni from Sumatra as its type species, and for a long time this remained the only species; that paper adds two new species, Labritermes emersoni and Labritermes kistneri, and points out that Labritermes is closely related to the African genus Foraminitermes.",
+     "text_es": "Según el estudio de Krishna y Adams (1982), Holmgren (1914) estableció Labritermes con Labritermes buttel-reepeni de Sumatra como especie tipo, y durante mucho tiempo el género permaneció monotípico; el trabajo añade dos especies nuevas, Labritermes emersoni y Labritermes kistneri, e indica que Labritermes está estrechamente relacionado con el género africano Foraminitermes."
+    }
+   ],
+   "heading_en": "A modern revision of the genus",
+   "heading_es": "Revisión moderna del género"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0115",
+   "citation": "Krishna, K. & Adams, C. L. 1982. The Oriental termite genus Labritermes Holmgren (Isoptera, Termitidae, Termitinae). American Museum Novitates 2735.",
+   "url": "https://digitallibrary.amnh.org/handle/2246/5290"
+  }
+ ]
+}

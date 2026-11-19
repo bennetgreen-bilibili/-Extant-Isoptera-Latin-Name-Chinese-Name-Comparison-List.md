@@ -1,0 +1,13 @@
+{
+ "Ekueitermes alerosinus": {
+  "label": "Ekueitermes alerosinus Duran-Bautista & Celis-Daza, 2026",
+  "match": "exact",
+  "notes": "",
+  "otu": 1446446,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/1446446/overview",
+  "valid_label": null,
+  "valid_otu": 1446446,
+  "verified": false
+ }
+}

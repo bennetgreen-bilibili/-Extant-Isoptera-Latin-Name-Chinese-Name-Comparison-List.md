@@ -1,0 +1,46 @@
+{
+ "Compositermes bani": {
+  "gbif": {
+   "key": 8559728,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Compositermes bani",
+   "accepted": null
+  },
+  "col": {
+   "id": "KZ6BH",
+   "status": "accepted",
+   "label": "Compositermes bani Carrijo, Scheffrahn & Krecek, 2015",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140760661",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Compositermes vindai": {
+  "gbif": {
+   "key": 8483205,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Compositermes vindai",
+   "accepted": null
+  },
+  "col": {
+   "id": "DLV54",
+   "status": "accepted",
+   "label": "Compositermes vindai Scheffrahn, 2013",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q16526546",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

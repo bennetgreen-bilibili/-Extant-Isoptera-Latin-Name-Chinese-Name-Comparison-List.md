@@ -1,0 +1,43 @@
+{
+ "latin": "Euhamitermes",
+ "zh": "亮白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Euhamitermes Holmgren, 1912a: 88–89 [first introduced as a subgenus of Hamitermes Silvestri, 1903].",
+ "type_species": "Hamitermes (Euhamitermes) hamatus Holmgren, 1912 by monotypy.",
+ "references": [
+  {
+   "ref": "Lal and Menon, 1953: 37, 39",
+   "note": "Hamitermes (Euhamitermes); catalog; reference list; key."
+  },
+  {
+   "ref": "Ahmad, 1958: 90",
+   "note": "Euhamitermes; key."
+  },
+  {
+   "ref": "Roonwal and Chhotani, 1959b: 1967–1968",
+   "note": "Anoplotermes [misidentification]; key; distribution. India."
+  },
+  {
+   "ref": "Roonwal and Chhotani, 1962e: 159–161, 165",
+   "note": "Anoplotermes [misidentification]; key; discussion; distribution. India."
+  },
+  {
+   "ref": "Tsai and Chen, 1964b: 72, 73",
+   "note": "Euhamitermes; key; characters."
+  },
+  {
+   "ref": "Ahmad, 1965: 8",
+   "note": "Euhamitermes; key."
+  },
+  {
+   "ref": "Weidner, 1970a: 457–458",
+   "note": "Euhamitermes; characters; imago mandibles figured; discussion."
+  },
+  {
+   "ref": "Chaudhry et al., 1972: 43",
+   "note": "Euhamitermes; characters."
+  }
+ ],
+ "nrefs": 32
+}

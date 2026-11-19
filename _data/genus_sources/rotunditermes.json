@@ -1,0 +1,43 @@
+{
+ "latin": "Rotunditermes",
+ "zh": "圆白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Rotunditermes Holmgren, 1910c: 206, 208, 218 [first introduced as a subgenus of Eutermes Heer, 1849].",
+ "type_species": "Eutermes rotundiceps Holmgren, 1906 by monotypy.",
+ "references": [
+  {
+   "ref": "Holmgren, 1912a: 60, 61, 64",
+   "note": "Rotunditermes; key; species included."
+  },
+  {
+   "ref": "Snyder, 1934a: 25, 28",
+   "note": "Nasutitermes (Rotunditermes); key."
+  },
+  {
+   "ref": "Lal and Menon, 1953: 36",
+   "note": "Eutermes (Rotunditermes); key."
+  },
+  {
+   "ref": "Morimoto, 1975b: 24",
+   "note": "Rotunditermes; key."
+  },
+  {
+   "ref": "Mathews, 1977: 174, 176",
+   "note": "Rotunditermes; synonymy; characters."
+  },
+  {
+   "ref": "Mill, 1983a: 183, 189",
+   "note": "Rotunditermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Constantino, 1999a: 404, 413",
+   "note": "Rotunditermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 12",
+   "note": "Rotunditermes; key."
+  }
+ ],
+ "nrefs": 24
+}

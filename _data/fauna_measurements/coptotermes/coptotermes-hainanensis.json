@@ -1,0 +1,58 @@
+{
+ "book_n": "89",
+ "book_name": "海南乳白蚁 Coptotermes",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "海南乳白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "1.63",
+     "value": "1.57–1.68"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "1.39",
+     "value": "1.33–1.47"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.00",
+     "value": "0.93–1.07"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "1.05",
+     "value": "1.04–1.07"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.45",
+     "value": "0.43–0.47"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "0.48",
+     "value": "0.46–0.50"
+    },
+    {
+     "key": "pronotum_max_width",
+     "mean": "1.02",
+     "value": "0.93–1.18"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.20",
+     "value": "1.18–1.23"
+    }
+   ],
+   "src_file": "301-400.txt",
+   "src_line": 703,
+   "unit": "mm"
+  }
+ ]
+}

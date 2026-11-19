@@ -1,0 +1,86 @@
+{
+ "updated": "2026-11-18",
+ "sections": [
+  {
+   "heading": "2005 年基于 16S rRNA 的异名处理",
+   "paragraphs": [
+    {
+     "text": "据摘要，Austin 等（2005）用 16S rRNA 线粒体标记分析北美、中美、南美、法国和德国等地 434 个散白蚁属（Reticulitermes）种群，发现北美与德国的北美散白蚁（Reticulitermes flavipes）与法国西部未受干扰林地的散白蚁属旧名 Reticulitermes santonensis 具有完全相同的 DNA 序列；单倍型 F、M、GG 出现在法国，F 也见于德国，GG 还见于复活节岛、智利圣地亚哥和乌拉圭蒙得维的亚。作者结合形态、化学和系统发育证据，认为散白蚁属旧名 Reticulitermes santonensis 应作为北美散白蚁的异名处理。",
+     "src": [
+      "S0144"
+     ],
+     "text_en": "According to the abstract, Austin et al. (2005) used the 16S rRNA mitochondrial marker to analyse 434 Reticulitermes populations from North, Central and South America, France and Germany, and found that Reticulitermes flavipes from North America and Germany shares completely identical DNA sequences with Reticulitermes santonensis (an old name in Reticulitermes) from undisturbed woodland in western France; haplotypes F, M and GG occur in France, F also occurs in Germany, and GG also occurs on Easter Island, in Santiago de Chile and in Montevideo, Uruguay. Combining morphological, chemical and phylogenetic evidence, the authors concluded that Reticulitermes santonensis should be treated as a synonym of Reticulitermes flavipes.",
+     "text_es": "Según el resumen, Austin et al. (2005) analizaron 434 poblaciones de Reticulitermes de América del Norte, América Central, América del Sur, Francia y Alemania con el marcador mitocondrial 16S rRNA, y hallaron que los ejemplares de Reticulitermes flavipes de América del Norte y Alemania presentan secuencias de ADN idénticas a las de Reticulitermes santonensis, antiguo nombre del género en bosques no alterados del oeste de Francia; los haplotipos F, M y GG aparecen en Francia, F también en Alemania, y GG además en la isla de Pascua, Santiago de Chile y Montevideo (Uruguay). A partir de la evidencia morfológica, química y filogenética, los autores concluyen que Reticulitermes santonensis debe considerarse sinónimo de Reticulitermes flavipes."
+    }
+   ],
+   "heading_en": "2005 synonymy based on 16S rRNA",
+   "heading_es": "Sinonimia de 2005 basada en el ARN ribosomal 16S"
+  },
+  {
+   "heading": "基名、模式产地与品级分化的分子基础",
+   "heading_en": "Basionym, type locality and the molecular basis of caste differentiation",
+   "heading_es": "Basónimo, localidad tipo y base molecular de la diferenciación de castas",
+   "paragraphs": [
+    {
+     "src": [
+      "S0004"
+     ],
+     "text": "《白蚁论》记录北美散白蚁（<i>Reticulitermes flavipes</i>）的基名为白蚁属（<i>Termes</i>）的旧组合 <i>Termes flavipes</i> Kollar, 1837，合模标本（MCZ No. 10110）为有翅成虫，模式产地记为奥地利维也纳美泉宫（Schönbrunn）。",
+     "text_en": "The Treatise records the basionym of <i>Reticulitermes flavipes</i> as the old combination <i>Termes flavipes</i> Kollar, 1837, with syntype alates (MCZ No. 10110) and Schönbrunn, Vienna, Austria, as the type locality.",
+     "text_es": "El Treatise registra el basónimo de <i>Reticulitermes flavipes</i> como la combinación antigua <i>Termes flavipes</i> Kollar, 1837, con sintipos alados (MCZ n.º 10110) y Schönbrunn, Viena, Austria, como localidad tipo."
+    },
+    {
+     "src": [
+      "S0002"
+     ],
+     "text": "根据 Scharf 等（2005a）研究，保幼激素处理会改变北美散白蚁（<i>Reticulitermes flavipes</i>）中 hexamerin1、hexamerin2 与 vitellogenin2 等基因的表达，目前已有 4 个基因通过 RNA 干扰被成功沉默，包括 Hex-1、Hex-2 与 Cell-1（Zhou 等 2006a、2006c、2007b、2008）。",
+     "text_en": "According to Scharf et al. (2005a), juvenile hormone treatment alters the expression of genes such as hexamerin1, hexamerin2 and vitellogenin2 in <i>Reticulitermes flavipes</i>, and four genes have so far been silenced by RNA interference, including Hex-1, Hex-2 and Cell-1 (Zhou et al. 2006a, 2006c, 2007b, 2008).",
+     "text_es": "Según Scharf et al. (2005a), el tratamiento con hormona juvenil altera la expresión de genes como hexamerin1, hexamerin2 y vitellogenin2 en <i>Reticulitermes flavipes</i>, y hasta la fecha se han silenciado cuatro genes mediante interferencia de ARN, entre ellos Hex-1, Hex-2 y Cell-1 (Zhou et al. 2006a, 2006c, 2007b, 2008)."
+    },
+    {
+     "src": [
+      "S0002"
+     ],
+     "text": "据《白蚁生物学现代研究合集》记载，北美散白蚁（<i>Reticulitermes flavipes</i>）的储存蛋白充当连接营养信号与保幼激素信号的角色，从而把食物条件与品级分化联系起来。",
+     "text_en": "The storage proteins of <i>Reticulitermes flavipes</i> have been shown to link nutritional signals with juvenile hormone signals, connecting food conditions to caste differentiation.",
+     "text_es": "Se ha demostrado que las proteínas de almacenamiento de <i>Reticulitermes flavipes</i> enlazan las señales nutricionales con las de la hormona juvenil, vinculando las condiciones alimentarias con la diferenciación de castas."
+    }
+   ]
+  },
+  {
+   "heading": "中肠簇虫的生活史",
+   "heading_en": "Life cycle of a midgut gregarine",
+   "heading_es": "Ciclo de vida de una gregarina del intestino medio",
+   "paragraphs": [
+    {
+     "text": "据摘要，Hall 与 Hostettler（1993）记述北美散白蚁（<i>Reticulitermes flavipes</i>）与弗吉尼亚散白蚁（<i>Reticulitermes virginicus</i>）肠道内的有隔簇虫：其发育始于以小型钮扣状前节（epimerite）附着于中肠上皮的滋养体，虫体成为中肠腔内自由生活的配子体（gamont）时前节脱落；成熟配子体进入血腔，成对融合为大型配子囊（gametocyst），后者经一导管附着于白蚁中肠，囊内形成数以千计的孢子囊，成熟孢子囊经连接导管释放入中肠腔并随粪便排出。",
+     "text_en": "According to the abstract, Hall and Hostettler (1993) described the septate gregarines of the gut of <i>Reticulitermes flavipes</i> and <i>Reticulitermes virginicus</i>: development begins with trophozoites attached to the midgut epithelium by a small button-shaped epimerite, and the epimerite is lost when the parasite becomes a free-living gamont in the gut lumen; full-grown gamonts enter the hemocoel and fuse in pairs to form large gametocysts that are attached to the termite midgut by a duct, thousands of sporocysts are formed within the gametocyst, and the mature sporocysts are released into the lumen of the midgut through the connecting duct and passed out with the feces.",
+     "text_es": "Según el resumen, Hall y Hostettler (1993) describieron las gregarinas tabicadas del intestino de <i>Reticulitermes flavipes</i> y <i>Reticulitermes virginicus</i>: el desarrollo comienza con trofozoítos fijados al epitelio del intestino medio mediante un pequeño epimerito en forma de botón, y el epimerito se pierde cuando el parásito pasa a ser un gamonte de vida libre en la luz intestinal; los gamontes maduros entran en el hemocele y se fusionan por parejas para formar grandes gametocistos unidos al intestino medio de la termita por un conducto, dentro del gametocisto se forman miles de esporoquistes, y los esporoquistes maduros se liberan en la luz del intestino medio a través del conducto de conexión y se expulsan con las heces.",
+     "src": [
+      "S0359"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0144",
+   "citation": "Austin, J. W. et al. 2005. Genetic evidence for the synonymy of two Reticulitermes species: Reticulitermes flavipes and Reticulitermes santonensis. Annals of the Entomological Society of America 98.",
+   "doi": "10.1603/0013-8746(2005)098[0395:geftso]2.0.co;2"
+  },
+  {
+   "id": "S0002",
+   "citation": "黄求应 等（译）. 白蚁生物学现代研究合集. 中译合集."
+  },
+  {
+   "id": "S0004",
+   "citation": "Krishna K. et al. Treatise on the Isoptera of the world. Bulletin of the American Museum of Natural History 377, 2013."
+  },
+  {
+   "id": "S0359",
+   "citation": "Hall, D. W.; Hostettler, N. 1993. Septate gregarines from Reticulitermes flavipes and Reticulitermes virginicus (Isoptera: Rhinotermitidae). Journal of Eukaryotic Microbiology.",
+   "url": "https://doi.org/10.1111/j.1550-7408.1993.tb04878.x"
+  }
+ ]
+}

@@ -1,0 +1,1260 @@
+{
+ "Macrotermes acrocephalus": {
+  "gbif": {
+   "key": 9757703,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes acrocephalus Ping, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBSM",
+   "status": "accepted",
+   "label": "Macrotermes acrocephalus Ping, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210329",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes ahmadi": {
+  "gbif": {
+   "key": 9656943,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes ahmadi Tho, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBSN",
+   "status": "accepted",
+   "label": "Macrotermes ahmadi Tho, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49600513",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes aleemi": {
+  "gbif": {
+   "key": 9753029,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes aleemi Akhtar, 1975",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBSP",
+   "status": "accepted",
+   "label": "Macrotermes aleemi Akhtar, 1975",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210330",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes amplus": {
+  "gbif": {
+   "key": 9802329,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes amplus (Sjöstedt, 1899)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBSQ",
+   "status": "accepted",
+   "label": "Macrotermes amplus (Sjöstedt, 1899)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210331",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes annandalei": {
+  "gbif": {
+   "key": 9764918,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes annandalei (Silvestri, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBSR",
+   "status": "accepted",
+   "label": "Macrotermes annandalei (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49600508",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes barneyi": {
+  "gbif": {
+   "key": 9143676,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes barneyi Light, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBSS",
+   "status": "accepted",
+   "label": "Macrotermes barneyi Light, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210332",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes beaufortensis": {
+  "gbif": {
+   "key": 9769599,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes beaufortensis Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBST",
+   "status": "accepted",
+   "label": "Macrotermes beaufortensis Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210334",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes bellicosus": {
+  "gbif": {
+   "key": 9656725,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes bellicosus (Smeathman, 1781)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6QRW8",
+   "status": "accepted",
+   "label": "Macrotermes bellicosus (Smeathman, 1781)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q4043563",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes carbonarius": {
+  "gbif": {
+   "key": 9769827,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes carbonarius (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBSV",
+   "status": "accepted",
+   "label": "Macrotermes carbonarius (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30693471",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes chaiglomi": {
+  "gbif": {
+   "key": 9713899,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes chaiglomi Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBSW",
+   "status": "accepted",
+   "label": "Macrotermes chaiglomi Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210335",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes chebalingensis": {
+  "gbif": {
+   "key": 9797601,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes chebalingensis Ping & Xu, 1993",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBSX",
+   "status": "accepted",
+   "label": "Macrotermes chebalingensis Ping & Xu, 1993",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210336",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes choui": {
+  "gbif": {
+   "key": 9663824,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes choui Ping, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBSY",
+   "status": "accepted",
+   "label": "Macrotermes choui Ping, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210338",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes constrictus": {
+  "gbif": {
+   "key": 9733388,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes constrictus Ping & Li, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBSZ",
+   "status": "accepted",
+   "label": "Macrotermes constrictus Ping & Li, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210339",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes convulsionarius": {
+  "gbif": {
+   "key": 9687390,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes convulsionarius (König, 1779)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBT2",
+   "status": "accepted",
+   "label": "Macrotermes convulsionarius (König, 1779)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30326285",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes declivatus": {
+  "gbif": {
+   "key": 9652500,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes declivatus Zhu, 1995",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBT3",
+   "status": "accepted",
+   "label": "Macrotermes declivatus Zhu, 1995",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49600521",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes denticulatus": {
+  "gbif": {
+   "key": 9805228,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes denticulatus Li & Ping, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBT4",
+   "status": "accepted",
+   "label": "Macrotermes denticulatus Li & Ping, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210340",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes falciger": {
+  "gbif": {
+   "key": 9689975,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes falciger (Gerstaecker, 1891)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBT5",
+   "status": "accepted",
+   "label": "Macrotermes falciger (Gerstaecker, 1891)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210342",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes gilvus": {
+  "gbif": {
+   "key": 9645360,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes gilvus (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBT6",
+   "status": "accepted",
+   "label": "Macrotermes gilvus (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30693475",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes gratus": {
+  "gbif": {
+   "key": 9718469,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes gratus (Sjöstedt, 1900)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBT7",
+   "status": "accepted",
+   "label": "Macrotermes gratus (Sjöstedt, 1900)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210343",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes guangxiensis": {
+  "gbif": {
+   "key": 9725934,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes guangxiensis Han, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBT8",
+   "status": "accepted",
+   "label": "Macrotermes guangxiensis Han, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210344",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes hainanensis": {
+  "gbif": {
+   "key": 9772537,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes hainanensis Li & Ping, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBT9",
+   "status": "accepted",
+   "label": "Macrotermes hainanensis Li & Ping, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210346",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes herus": {
+  "gbif": {
+   "key": 9664034,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes herus (Sjöstedt, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6QRVW",
+   "status": "accepted",
+   "label": "Macrotermes herus (Sjöstedt, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210348",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes hopini": {
+  "gbif": {
+   "key": 9709193,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes hopini Roonwal & Sen-Sarma, 1956",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTB",
+   "status": "accepted",
+   "label": "Macrotermes hopini Roonwal & Sen-Sarma, 1956",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210349",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes incisus": {
+  "gbif": {
+   "key": 9694503,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes incisus He & Qui, 1990",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTC",
+   "status": "accepted",
+   "label": "Macrotermes incisus He & Qui, 1990",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210351",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes ituriensis": {
+  "gbif": {
+   "key": 9810001,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes ituriensis Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTD",
+   "status": "accepted",
+   "label": "Macrotermes ituriensis Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210353",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes ivorensis": {
+  "gbif": {
+   "key": 9699036,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes ivorensis Grassé & Noirot, 1951",
+   "accepted": null
+  },
+  "col": {
+   "id": "6QS7W",
+   "status": "accepted",
+   "label": "Macrotermes ivorensis Grassé & Noirot, 1951",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210354",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes jinghongensis": {
+  "gbif": {
+   "key": 9784913,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes jinghongensis Ping & Li, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTF",
+   "status": "accepted",
+   "label": "Macrotermes jinghongensis Ping & Li, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210355",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes khajuriai": {
+  "gbif": {
+   "key": 9750149,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes khajuriai Roonwal & Chhotani, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTG",
+   "status": "accepted",
+   "label": "Macrotermes khajuriai Roonwal & Chhotani, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210357",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes latignathus": {
+  "gbif": {
+   "key": 9752800,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes latignathus Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTH",
+   "status": "accepted",
+   "label": "Macrotermes latignathus Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210358",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes lilljeborgi": {
+  "gbif": {
+   "key": 8967175,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes lilljeborgi (Sjöstedt, 1896)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTJ",
+   "status": "accepted",
+   "label": "Macrotermes lilljeborgi (Sjöstedt, 1896)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210359",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes longiceps": {
+  "gbif": {
+   "key": 9671016,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes longiceps Li & Ping, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTK",
+   "status": "accepted",
+   "label": "Macrotermes longiceps Li & Ping, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210360",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes longimentis": {
+  "gbif": {
+   "key": 9782226,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes longimentis Zhu & Luo, 1987",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTL",
+   "status": "accepted",
+   "label": "Macrotermes longimentis Zhu & Luo, 1987",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210362",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes luokengensis": {
+  "gbif": {
+   "key": 9668276,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes luokengensis Lin & Shi, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTM",
+   "status": "accepted",
+   "label": "Macrotermes luokengensis Lin & Shi, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210363",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes maesodensis": {
+  "gbif": {
+   "key": 9817775,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes maesodensis Ahmad, 1965",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTN",
+   "status": "accepted",
+   "label": "Macrotermes maesodensis Ahmad, 1965",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210365",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes malaccensis": {
+  "gbif": {
+   "key": 9699260,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes malaccensis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTP",
+   "status": "accepted",
+   "label": "Macrotermes malaccensis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210368",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes meidoensis": {
+  "gbif": {
+   "key": 9706392,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes meidoensis Huang & Han, 1988",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTQ",
+   "status": "accepted",
+   "label": "Macrotermes meidoensis Huang & Han, 1988",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210370",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes menglongensis": {
+  "gbif": {
+   "key": 9802097,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes menglongensis Han, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTR",
+   "status": "accepted",
+   "label": "Macrotermes menglongensis Han, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210372",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes michaelseni": {
+  "gbif": {
+   "key": 9809773,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes michaelseni (Sjöstedt, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTS",
+   "status": "accepted",
+   "label": "Macrotermes michaelseni (Sjöstedt, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q20919345",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes natalensis": {
+  "gbif": {
+   "key": 8742747,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes natalensis (Haviland, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTT",
+   "status": "accepted",
+   "label": "Macrotermes natalensis (Haviland, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q49620889",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes niger": {
+  "gbif": {
+   "key": 9702088,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes niger (Sjöstedt, 1898)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6QS88",
+   "status": "accepted",
+   "label": "Macrotermes niger (Sjöstedt, 1898)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210373",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes nobilis": {
+  "gbif": {
+   "key": 9797385,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes nobilis (Sjöstedt, 1900)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTV",
+   "status": "accepted",
+   "label": "Macrotermes nobilis (Sjöstedt, 1900)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210374",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes orthognathus": {
+  "gbif": {
+   "key": 9680061,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes orthognathus Ping & Xu, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTW",
+   "status": "accepted",
+   "label": "Macrotermes orthognathus Ping & Xu, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210376",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes peritrimorphus": {
+  "gbif": {
+   "key": 9805008,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes peritrimorphus Li & Xiao, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTX",
+   "status": "accepted",
+   "label": "Macrotermes peritrimorphus Li & Xiao, 1989",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210377",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes planicapitatus": {
+  "gbif": {
+   "key": 9740614,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes planicapitatus Gao & Lau, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "3XBTY",
+   "status": "accepted",
+   "label": "Macrotermes planicapitatus Gao & Lau, 1996",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210378",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes probeaufortensis": {
+  "gbif": {
+   "key": 9649762,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes probeaufortensis Thapa, 1982",
+   "accepted": null
+  },
+  "col": {
+   "id": "6R3VW",
+   "status": "accepted",
+   "label": "Macrotermes probeaufortensis Thapa, 1982",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210380",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes renouxi": {
+  "gbif": {
+   "key": 9785151,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes renouxi (L.Armbruster, 1941)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6R47W",
+   "status": "accepted",
+   "label": "†Macrotermes renouxi (Armbruster, 1941)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210381",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes serrulatus": {
+  "gbif": {
+   "key": 8967699,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes serrulatus Snyder, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "72RVW",
+   "status": "accepted",
+   "label": "Macrotermes serrulatus Snyder, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210382",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes singaporensis": {
+  "gbif": {
+   "key": 9682884,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes singaporensis (Oshima, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "72RW8",
+   "status": "accepted",
+   "label": "Macrotermes singaporensis (Oshima, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210384",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes subhyalinus": {
+  "gbif": {
+   "key": 9675674,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes subhyalinus (Rambur, 1842)",
+   "accepted": null
+  },
+  "col": {
+   "id": "72S7W",
+   "status": "accepted",
+   "label": "Macrotermes subhyalinus (Rambur, 1842)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q124987127",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes trapezoides": {
+  "gbif": {
+   "key": 9682656,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes trapezoides Ping & Xu, 1985",
+   "accepted": null
+  },
+  "col": {
+   "id": "72S88",
+   "status": "accepted",
+   "label": "Macrotermes trapezoides Ping & Xu, 1985",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210386",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes trimorphus": {
+  "gbif": {
+   "key": 9721290,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes trimorphus Li & Ping, 1983",
+   "accepted": null
+  },
+  "col": {
+   "id": "733VW",
+   "status": "accepted",
+   "label": "Macrotermes trimorphus Li & Ping, 1983",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210387",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes ukuzii": {
+  "gbif": {
+   "key": 9817535,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes ukuzii Fuller, 1922",
+   "accepted": null
+  },
+  "col": {
+   "id": "733W8",
+   "status": "accepted",
+   "label": "Macrotermes ukuzii Fuller, 1922",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210388",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes vikaspurensis": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Macrotermes Holmgren, 1909",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Macrotermes Holmgren, 1909",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes vitrialatus": {
+  "gbif": {
+   "key": 9725713,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes vitrialatus (Sjöstedt, 1899)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7347W",
+   "status": "accepted",
+   "label": "Macrotermes vitrialatus (Sjöstedt, 1899)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210391",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes yunnanensis": {
+  "gbif": {
+   "key": 9765139,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes yunnanensis Han, 1986",
+   "accepted": null
+  },
+  "col": {
+   "id": "73488",
+   "status": "accepted",
+   "label": "Macrotermes yunnanensis Han, 1986",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210392",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes zhejiangensis": {
+  "gbif": {
+   "key": 9789890,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes zhejiangensis Ping & Dong, 1994",
+   "accepted": null
+  },
+  "col": {
+   "id": "6R3W7",
+   "status": "accepted",
+   "label": "Macrotermes zhejiangensis Ping & Dong, 1994",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210393",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Macrotermes zhui": {
+  "gbif": {
+   "key": 9687182,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Macrotermes zhui Krishna, 2013",
+   "accepted": null
+  },
+  "col": {
+   "id": "6QRW7",
+   "status": "accepted",
+   "label": "Macrotermes zhui Krishna, 2013",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140210394",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

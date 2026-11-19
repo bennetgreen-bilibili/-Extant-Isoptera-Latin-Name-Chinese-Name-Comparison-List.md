@@ -1,0 +1,43 @@
+{
+ "latin": "Protermes",
+ "zh": "前白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Protermes Holmgren, 1910b: 286 [Genus-group name available by indication of available type species].",
+ "type_species": "Eutermes prorepens Sjöstedt, 1907 by original designation.",
+ "references": [
+  {
+   "ref": "Holmgren, 1912a: 11, 12, 24–28",
+   "note": "Protermes; characters; key; subgenera and species included; systematic position; Protermes (Protermes); key; species included."
+  },
+  {
+   "ref": "Emerson, 1928b: 406, 420, 438, 439",
+   "note": "Protermes; discussion; subgenera included; Protermes (Protermes); key; biology; distribution."
+  },
+  {
+   "ref": "Weidner, 1956b: 65, 67",
+   "note": "Protermes; key."
+  },
+  {
+   "ref": "Webb, 1961: 17",
+   "note": "Protermes; key."
+  },
+  {
+   "ref": "Bouillon and Mathot, 1965: 33",
+   "note": "Protermes; key; characters."
+  },
+  {
+   "ref": "Morimoto, 1975b: 17",
+   "note": "Protermes; key."
+  },
+  {
+   "ref": "Ruelle, 1975a: 155–157",
+   "note": "Protermes; characters; comparisons."
+  },
+  {
+   "ref": "Sands, 1998: 28, 29, 93–95, figs. 205–217",
+   "note": "Protermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 23
+}

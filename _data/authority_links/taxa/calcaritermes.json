@@ -1,0 +1,266 @@
+{
+ "Calcaritermes brevicollis": {
+  "gbif": {
+   "key": 9788334,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Calcaritermes brevicollis (Banks, 1918)",
+   "accepted": null
+  },
+  "col": {
+   "id": "PGVF",
+   "status": "accepted",
+   "label": "Calcaritermes brevicollis (Banks, 1918)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235316",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Calcaritermes colei": {
+  "gbif": {
+   "key": 2007337,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Calcaritermes colei Krishna, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "PGVG",
+   "status": "accepted",
+   "label": "Calcaritermes colei Krishna, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582600",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Calcaritermes emarginicollis": {
+  "gbif": {
+   "key": 9743976,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Calcaritermes emarginicollis (Snyder, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "PGVH",
+   "status": "accepted",
+   "label": "Calcaritermes emarginicollis (Snyder, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235317",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Calcaritermes guatemalae": {
+  "gbif": {
+   "key": 9695985,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Calcaritermes guatemalae (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "PGVJ",
+   "status": "accepted",
+   "label": "Calcaritermes guatemalae (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235318",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Calcaritermes imminens": {
+  "gbif": {
+   "key": 9693218,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Calcaritermes imminens (Snyder, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "PGVK",
+   "status": "accepted",
+   "label": "Calcaritermes imminens (Snyder, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235319",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Calcaritermes krishnai": {
+  "gbif": {
+   "key": 9674189,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Calcaritermes krishnai (Maiti & Chakraborty, 1981)",
+   "accepted": null
+  },
+  "col": {
+   "id": "PGVL",
+   "status": "accepted",
+   "label": "Calcaritermes krishnai (Maiti & Chakraborty, 1981)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235320",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Calcaritermes nearcticus": {
+  "gbif": {
+   "key": 2007338,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Calcaritermes nearcticus (Snyder, 1933)",
+   "accepted": null
+  },
+  "col": {
+   "id": "PGVM",
+   "status": "accepted",
+   "label": "Calcaritermes nearcticus (Snyder, 1933)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582599",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Calcaritermes nigriceps": {
+  "gbif": {
+   "key": 9000934,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Calcaritermes nigriceps (Emerson, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "PGVN",
+   "status": "accepted",
+   "label": "Calcaritermes nigriceps (Emerson, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235321",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Calcaritermes parvinotus": {
+  "gbif": {
+   "key": 2007339,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Calcaritermes parvinotus (Light, 1933)",
+   "accepted": null
+  },
+  "col": {
+   "id": "PGVP",
+   "status": "accepted",
+   "label": "Calcaritermes parvinotus (Light, 1933)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582601",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Calcaritermes rioensis": {
+  "gbif": {
+   "key": 9665284,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Calcaritermes rioensis Krishna, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "PGVQ",
+   "status": "accepted",
+   "label": "Calcaritermes rioensis Krishna, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235322",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Calcaritermes snyderi": {
+  "gbif": {
+   "key": 9676917,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Calcaritermes snyderi Krishna, 1962",
+   "accepted": null
+  },
+  "col": {
+   "id": "PGVR",
+   "status": "accepted",
+   "label": "Calcaritermes snyderi Krishna, 1962",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235323",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Calcaritermes temnocephalus": {
+  "gbif": {
+   "key": 9492047,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Calcaritermes temnocephalus (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "PGVS",
+   "status": "accepted",
+   "label": "Calcaritermes temnocephalus (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235324",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

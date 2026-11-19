@@ -1,0 +1,15 @@
+{
+ "latin": "Roonwalitermes",
+ "zh": "鲁恩沃白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Roonwalitermes Bose in Chhotani 1997: 746–747 [Chhotani, 1997 states that this genus was first described in 1992, giving as reference “A new nasutiform termite from northeastern India, J. Zool. Soc. India 42 (1–2): 73–79.” However, this article does not appear in that issue of the journal, and the journal was discontinued immediately after that issue. Therefore, Bose in Chhotani, 1997 is the correct author and date for the genus, as Chhotani, 1997 clearly credits Bose as the author (ICZN, 1999: article 50.1.1)].",
+ "type_species": "Roonwalitermes wadhwai Bose, 1997 in Chhotani, 1997 by original designation.",
+ "references": [
+  {
+   "ref": "Chhotani, 1997: 746–747",
+   "note": "Roonwalitermes; reference list; characters; distribution and composition."
+  }
+ ],
+ "nrefs": 2
+}

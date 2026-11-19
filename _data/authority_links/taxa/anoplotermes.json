@@ -1,0 +1,507 @@
+{
+ "Anoplotermes ater": {
+  "gbif": {
+   "key": 9166628,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes ater (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V8N5",
+   "status": "accepted",
+   "label": "Anoplotermes ater (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234869",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes bahamensis": {
+  "gbif": {
+   "key": 9764064,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes bahamensis Scheffrahn & Křeček, 2006",
+   "accepted": null
+  },
+  "col": {
+   "id": "66WMT",
+   "status": "accepted",
+   "label": "Anoplotermes bahamensis Scheffrahn & Křeček, 2006",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234870",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes banksi": {
+  "gbif": {
+   "key": 8886168,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes banksi Emerson, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "66WN5",
+   "status": "accepted",
+   "label": "Anoplotermes banksi Emerson, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234871",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes bolivianus": {
+  "gbif": {
+   "key": 9700998,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes bolivianus Snyder, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V8N6",
+   "status": "accepted",
+   "label": "Anoplotermes bolivianus Snyder, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234872",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes brucei": {
+  "gbif": {
+   "key": 9049800,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes brucei Snyder, 1955",
+   "accepted": null
+  },
+  "col": {
+   "id": "66WN6",
+   "status": "accepted",
+   "label": "Anoplotermes brucei Snyder, 1955",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234873",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes distans": {
+  "gbif": {
+   "key": 8916272,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes distans Snyder, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "66WN3",
+   "status": "accepted",
+   "label": "Anoplotermes distans Snyder, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234875",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes fumosus": {
+  "gbif": {
+   "key": 2007277,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes fumosus (Hagen, 1860)",
+   "accepted": null
+  },
+  "col": {
+   "id": "678N3",
+   "status": "accepted",
+   "label": "Anoplotermes fumosus (Hagen, 1860)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582514",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes gracilis": {
+  "gbif": {
+   "key": 8805180,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes gracilis Snyder, 1922",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V8MS",
+   "status": "accepted",
+   "label": "Anoplotermes gracilis Snyder, 1922",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234878",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes grandifrons": {
+  "gbif": {
+   "key": 8731670,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes grandifrons Snyder, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V8N4",
+   "status": "accepted",
+   "label": "Anoplotermes grandifrons Snyder, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234879",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes hondurensis": {
+  "gbif": {
+   "key": 9089048,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes hondurensis Snyder, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "66WN4",
+   "status": "accepted",
+   "label": "Anoplotermes hondurensis Snyder, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234882",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes howardi": {
+  "gbif": {
+   "key": 9783100,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes howardi Snyder, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "678MS",
+   "status": "accepted",
+   "label": "Anoplotermes howardi Snyder, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234883",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes inopinatus": {
+  "gbif": {
+   "key": 9804121,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes inopinatus Křeček & Scheffrahn, 2006",
+   "accepted": null
+  },
+  "col": {
+   "id": "678N4",
+   "status": "accepted",
+   "label": "Anoplotermes inopinatus Křeček & Scheffrahn, 2006",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234884",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes janus": {
+  "gbif": {
+   "key": 9310928,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes janus Bourguignon & Roisin, 2010",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V8LW",
+   "status": "accepted",
+   "label": "Anoplotermes janus Bourguignon & Roisin, 2010",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234885",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes meridianus": {
+  "gbif": {
+   "key": 7821482,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes meridianus Emerson, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "678LW",
+   "status": "accepted",
+   "label": "Anoplotermes meridianus Emerson, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234887",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes pacificus": {
+  "gbif": {
+   "key": 9732303,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes pacificus Müller, 1873",
+   "accepted": null
+  },
+  "col": {
+   "id": "66WM9",
+   "status": "accepted",
+   "label": "Anoplotermes pacificus Müller, 1873",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234889",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes parvus": {
+  "gbif": {
+   "key": 9623180,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes parvus Snyder, 1923",
+   "accepted": null
+  },
+  "col": {
+   "id": "678LX",
+   "status": "accepted",
+   "label": "Anoplotermes parvus Snyder, 1923",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234890",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes punctatus": {
+  "gbif": {
+   "key": 9720208,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes punctatus Snyder, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "678M9",
+   "status": "accepted",
+   "label": "Anoplotermes punctatus Snyder, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234891",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes pyriformis": {
+  "gbif": {
+   "key": 9038644,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes pyriformis Snyder, 1934",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V8M6",
+   "status": "accepted",
+   "label": "Anoplotermes pyriformis Snyder, 1934",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234892",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes rotundus": {
+  "gbif": {
+   "key": 9670184,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes rotundus Snyder, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V8M7",
+   "status": "accepted",
+   "label": "Anoplotermes rotundus Snyder, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234893",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes schwarzi": {
+  "gbif": {
+   "key": 9072353,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes schwarzi Banks, 1919",
+   "accepted": null
+  },
+  "col": {
+   "id": "66WLV",
+   "status": "accepted",
+   "label": "Anoplotermes schwarzi Banks, 1919",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234894",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes subterraneus": {
+  "gbif": {
+   "key": 9739746,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes subterraneus Emerson, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "678LV",
+   "status": "accepted",
+   "label": "Anoplotermes subterraneus Emerson, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234895",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes susanae": {
+  "gbif": {
+   "key": 12255463,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes susanae Scheffrahn, Carrijo & Castro, 2023",
+   "accepted": null
+  },
+  "col": {
+   "id": "BJ5CV",
+   "status": "accepted",
+   "label": "Anoplotermes susanae Scheffrahn, Carrijo & Castro, 2023",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Anoplotermes tenebrosus": {
+  "gbif": {
+   "key": 8936742,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Anoplotermes tenebrosus (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5V8LY",
+   "status": "accepted",
+   "label": "Anoplotermes tenebrosus (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234896",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

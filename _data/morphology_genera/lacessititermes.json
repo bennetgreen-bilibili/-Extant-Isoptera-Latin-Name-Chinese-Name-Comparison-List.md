@@ -1,0 +1,25 @@
+{
+ "zh_name": "怒白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁鼻相对狭锥形，触角 14 节，头常缢缩，触角第 3 节短于第 4 节；同群的 Longipeditermes 第 3 节等于或长于第 4 节、兵二型、上颚尖部具一枚明显齿，Hospitalitermes 单型且上颚尖部无齿。有翅成虫唇基短于半宽、仅极略浅于额或与之同色，额在唇基后方呈三角形凹陷，体与翅均深色，触角第 3 节略长于第 2 节，囟不明显而呈裂隙状——与 Hospitalitermes（第 3 节长为第 2 节两倍，囟明显、卵形、发白）区分。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "唇基短于其半宽，仅（极）略浅于额或与额同色；额在唇基后方呈三角形凹陷；体色深，翅深色；触角第 3 节略长于第 2 节；囟不明显，裂隙状。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "鼻相对狭锥形；触角 14 节；头常缢缩；触角第 3 节短于第 4 节；体色多深，足长。"
+  }
+ ],
+ "note": "Holmgren 1912 建立，名录列为第 18 亚属，注明东印度区，列 alipes、atrior、breviarticulatus、filicornis、laborator、lacessitiformis、lacessitus、piliferus 等种（含新种）。原文只有检索表条目，无工蚁属征。",
+ "sources": [
+  {
+   "id": "S0033",
+   "citation": "Holmgren N. 1912. Termitenstudien 3. Systematik der Termiten. Die Familie Metatermitidae. Kungliga Svenska Vetenskapsakademiens Handlingar 48(4): 1–166.",
+   "locator": "p. 60（Imagines 检索表 C/a）；p. 61（Soldaten 检索表 B/bb/aa/b）；p. 65（亚属名录第 18 亚属）"
+  }
+ ]
+}

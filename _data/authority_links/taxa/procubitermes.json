@@ -1,0 +1,200 @@
+{
+ "Procubitermes aburiensis": {
+  "gbif": {
+   "key": 9781429,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procubitermes aburiensis Sjöstedt, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPV9",
+   "status": "accepted",
+   "label": "Procubitermes aburiensis Sjöstedt, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084193",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procubitermes arboricola": {
+  "gbif": {
+   "key": 9785728,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procubitermes arboricola (Sjöstedt, 1897)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPVB",
+   "status": "accepted",
+   "label": "Procubitermes arboricola (Sjöstedt, 1897)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084195",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procubitermes curvatus": {
+  "gbif": {
+   "key": 9753571,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procubitermes curvatus Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPVD",
+   "status": "accepted",
+   "label": "Procubitermes curvatus Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084197",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procubitermes niapuensis": {
+  "gbif": {
+   "key": 9671748,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procubitermes niapuensis (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPVG",
+   "status": "accepted",
+   "label": "Procubitermes niapuensis (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084198",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procubitermes sinuosus": {
+  "gbif": {
+   "key": 9667765,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procubitermes sinuosus Silvestri, 1914",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPVJ",
+   "status": "accepted",
+   "label": "Procubitermes sinuosus Silvestri, 1914",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084201",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procubitermes sjostedti": {
+  "gbif": {
+   "key": 9702646,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procubitermes sjostedti (Rosen, 1912)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPVK",
+   "status": "accepted",
+   "label": "Procubitermes sjostedti (Rosen, 1912)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084204",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procubitermes ueleensis": {
+  "gbif": {
+   "key": 9749391,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procubitermes ueleensis Sjöstedt, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPVL",
+   "status": "accepted",
+   "label": "Procubitermes ueleensis Sjöstedt, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084206",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procubitermes undulans": {
+  "gbif": {
+   "key": 9653061,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procubitermes undulans Schmitz, 1917",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPVM",
+   "status": "accepted",
+   "label": "Procubitermes undulans Schmitz, 1917",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084208",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Procubitermes wasmanni": {
+  "gbif": {
+   "key": 9698469,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Procubitermes wasmanni (Emerson, 1928)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4MPVN",
+   "status": "accepted",
+   "label": "Procubitermes wasmanni (Emerson, 1928)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084210",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

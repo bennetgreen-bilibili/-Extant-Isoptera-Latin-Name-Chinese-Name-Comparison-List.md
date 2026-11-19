@@ -1,0 +1,35 @@
+{
+ "Hirtitermes brabazoni": {
+  "label": "Hirtitermes brabazoni Gathorne-Hardy, 2001",
+  "match": "exact",
+  "notes": "",
+  "otu": 84459,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84459/overview",
+  "valid_label": null,
+  "valid_otu": 84459,
+  "verified": false
+ },
+ "Hirtitermes hirtiventris": {
+  "label": "Hirtitermes hirtiventris (Holmgren, 1912)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84460,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84460/overview",
+  "valid_label": null,
+  "valid_otu": 84460,
+  "verified": false
+ },
+ "Hirtitermes spinocephalus": {
+  "label": "Hirtitermes spinocephalus (Oshima, 1914)",
+  "match": "exact",
+  "notes": "",
+  "otu": 84461,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84461/overview",
+  "valid_label": null,
+  "valid_otu": 84461,
+  "verified": false
+ }
+}

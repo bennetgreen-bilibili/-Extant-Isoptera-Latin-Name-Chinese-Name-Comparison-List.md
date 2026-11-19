@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "澳大利亚的种与检索表",
+   "heading_en": "Australian species and keys",
+   "heading_es": "Especies australianas y claves",
+   "paragraphs": [
+    {
+     "text": "据摘要，Gay 与 Watson（1982）研究澳大利亚的堆砂白蚁属（Cryptotermes），讨论 4 个特有种：吉尔里堆砂白蚁（Cryptotermes gearyi）、第一堆砂白蚁（Cryptotermes primus）（堆砂白蚁属的旧异名 Cryptotermes arcanus 并入此种）、昆士兰堆砂白蚁（Cryptotermes queenslandis）与第二堆砂白蚁（Cryptotermes secundus）（从长颚堆砂白蚁 Cryptotermes dudleyi 的异名中移出）；描述 8 个新种：澳大利亚堆砂白蚁（Cryptotermes austrinus）、高额堆砂白蚁（Cryptotermes cristatus）、希尔堆砂白蚁（Cryptotermes hilli）、亮头堆砂白蚁（Cryptotermes nitidus）、丘翅堆砂白蚁（Cryptotermes papulosus）、里弗赖纳堆砂白蚁（Cryptotermes riverinae）、似昆士兰堆砂白蚁（Cryptotermes simulatus）与热带堆砂白蚁（Cryptotermes tropicalis）；记录外来种麻头堆砂白蚁（Cryptotermes brevis）与长颚堆砂白蚁（Cryptotermes dudleyi）；并指出犬头堆砂白蚁（Cryptotermes cynocephalus）与截头堆砂白蚁（Cryptotermes domesticus）过去被认为外来，实际在澳大利亚北部自然分布，因此改作特有种；文中提供成虫与兵蚁检索表。",
+     "text_en": "According to the abstract, Gay and Watson (1982) studied the genus <i>Cryptotermes</i> in Australia, discussing four endemic species, <i>Cryptotermes gearyi</i>, <i>Cryptotermes primus</i> (<i>Cryptotermes arcanus</i> placed in its synonymy), <i>Cryptotermes queenslandis</i> and <i>Cryptotermes secundus</i> (removed from synonymy with <i>Cryptotermes dudleyi</i>); describing eight new species, <i>Cryptotermes austrinus</i>, <i>Cryptotermes cristatus</i>, <i>Cryptotermes hilli</i>, <i>Cryptotermes nitidus</i>, <i>Cryptotermes papulosus</i>, <i>Cryptotermes riverinae</i>, <i>Cryptotermes simulatus</i> and <i>Cryptotermes tropicalis</i>; recording the introduced species <i>Cryptotermes brevis</i> and <i>Cryptotermes dudleyi</i>; and noting that <i>Cryptotermes cynocephalus</i> and <i>Cryptotermes domesticus</i>, formerly regarded as introduced, are in fact native to northern Australia and are therefore treated as endemic; the paper provides keys to the adults and soldiers.",
+     "text_es": "Según el resumen, Gay y Watson (1982) estudiaron el género <i>Cryptotermes</i> en Australia, tratando cuatro especies endémicas, <i>Cryptotermes gearyi</i>, <i>Cryptotermes primus</i> (<i>Cryptotermes arcanus</i> incluida en su sinonimia), <i>Cryptotermes queenslandis</i> y <i>Cryptotermes secundus</i> (sacada de la sinonimia con <i>Cryptotermes dudleyi</i>); describiendo ocho especies nuevas, <i>Cryptotermes austrinus</i>, <i>Cryptotermes cristatus</i>, <i>Cryptotermes hilli</i>, <i>Cryptotermes nitidus</i>, <i>Cryptotermes papulosus</i>, <i>Cryptotermes riverinae</i>, <i>Cryptotermes simulatus</i> y <i>Cryptotermes tropicalis</i>; registrando las especies introducidas <i>Cryptotermes brevis</i> y <i>Cryptotermes dudleyi</i>; y señalando que <i>Cryptotermes cynocephalus</i> y <i>Cryptotermes domesticus</i>, antes consideradas introducidas, son en realidad nativas del norte de Australia y por ello se tratan como endémicas; el trabajo aporta claves para adultos y soldados.",
+     "src": [
+      "S0187"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0187",
+   "citation": "Gay, F. J.; Watson, J. A. L. 1982. The genus Cryptotermes in Australia (Isoptera: Kalotermitidae). Australian Journal of Zoology, Supplementary Series 88.",
+   "doi": "10.1071/AJZS088"
+  }
+ ]
+}

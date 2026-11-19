@@ -1,0 +1,376 @@
+{
+ "Astalotermes acholus": {
+  "gbif": {
+   "key": 9727109,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astalotermes acholus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "6879S",
+   "status": "accepted",
+   "label": "Astalotermes acholus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234930",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astalotermes aganus": {
+  "gbif": {
+   "key": 9788497,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astalotermes aganus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "HN2B",
+   "status": "accepted",
+   "label": "Astalotermes aganus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234931",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astalotermes amicus": {
+  "gbif": {
+   "key": 9808578,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astalotermes amicus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "HN2C",
+   "status": "accepted",
+   "label": "Astalotermes amicus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234932",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astalotermes benignus": {
+  "gbif": {
+   "key": 9818972,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astalotermes benignus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "HN2D",
+   "status": "accepted",
+   "label": "Astalotermes benignus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234933",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astalotermes brevior": {
+  "gbif": {
+   "key": 9746659,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astalotermes brevior (Holmgren, 1913)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5VV9R",
+   "status": "accepted",
+   "label": "Astalotermes brevior (Holmgren, 1913)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234935",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astalotermes comis": {
+  "gbif": {
+   "key": 9724560,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astalotermes comis Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "HN2F",
+   "status": "accepted",
+   "label": "Astalotermes comis Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234936",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astalotermes concilians": {
+  "gbif": {
+   "key": 9766319,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astalotermes concilians (Silvestri, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "HN2G",
+   "status": "accepted",
+   "label": "Astalotermes concilians (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234937",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astalotermes empodius": {
+  "gbif": {
+   "key": 9705266,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astalotermes empodius Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "HN2H",
+   "status": "accepted",
+   "label": "Astalotermes empodius Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234938",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astalotermes eumenus": {
+  "gbif": {
+   "key": 9715059,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astalotermes eumenus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "HN2J",
+   "status": "accepted",
+   "label": "Astalotermes eumenus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234939",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astalotermes hapalus": {
+  "gbif": {
+   "key": 9756310,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astalotermes hapalus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "HN2K",
+   "status": "accepted",
+   "label": "Astalotermes hapalus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234940",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astalotermes ignavus": {
+  "gbif": {
+   "key": 9665138,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astalotermes ignavus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "HN2L",
+   "status": "accepted",
+   "label": "Astalotermes ignavus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234941",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astalotermes impedians": {
+  "gbif": {
+   "key": 9736636,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astalotermes impedians Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "HN2M",
+   "status": "accepted",
+   "label": "Astalotermes impedians Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234942",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astalotermes irrixosus": {
+  "gbif": {
+   "key": 9684004,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astalotermes irrixosus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "HN2N",
+   "status": "accepted",
+   "label": "Astalotermes irrixosus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234943",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astalotermes mitis": {
+  "gbif": {
+   "key": 9695843,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astalotermes mitis Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "HN2P",
+   "status": "accepted",
+   "label": "Astalotermes mitis Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234944",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astalotermes murcus": {
+  "gbif": {
+   "key": 9798815,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astalotermes murcus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "HN2Q",
+   "status": "accepted",
+   "label": "Astalotermes murcus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234945",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astalotermes obstructus": {
+  "gbif": {
+   "key": 9776064,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astalotermes obstructus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "HN2R",
+   "status": "accepted",
+   "label": "Astalotermes obstructus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234946",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Astalotermes quietus": {
+  "gbif": {
+   "key": 9778684,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Astalotermes quietus (Silvestri, 1914)",
+   "accepted": null
+  },
+  "col": {
+   "id": "HN2S",
+   "status": "accepted",
+   "label": "Astalotermes quietus (Silvestri, 1914)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234947",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

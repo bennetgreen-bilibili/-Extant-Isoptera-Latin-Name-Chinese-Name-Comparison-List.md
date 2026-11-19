@@ -1,0 +1,134 @@
+{
+ "Constrictotermes cacaoensis": {
+  "gbif": {
+   "key": 9433187,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Constrictotermes cacaoensis Ensaf, Nel & Betsch, 2002",
+   "accepted": null
+  },
+  "col": {
+   "id": "5ZVTB",
+   "status": "accepted",
+   "label": "Constrictotermes cacaoensis Ensaf, Nel & Betsch, 2002",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q128865418",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Constrictotermes cavifrons": {
+  "gbif": {
+   "key": 9334317,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Constrictotermes cavifrons (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5ZW5B",
+   "status": "accepted",
+   "label": "Constrictotermes cavifrons (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q116034233",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Constrictotermes cyphergaster": {
+  "gbif": {
+   "key": 9659889,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Constrictotermes cyphergaster (Silvestri, 1901)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5ZVSZ",
+   "status": "accepted",
+   "label": "Constrictotermes cyphergaster (Silvestri, 1901)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q104247779",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Constrictotermes guantanamensis": {
+  "gbif": {
+   "key": 9710604,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Constrictotermes guantanamensis Křeček, Scheffrahn & Roisin, 1996",
+   "accepted": null
+  },
+  "col": {
+   "id": "5ZVSF",
+   "status": "accepted",
+   "label": "Constrictotermes guantanamensis Křeček, Scheffrahn & Roisin, 1996",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235343",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Constrictotermes latinotus": {
+  "gbif": {
+   "key": 8999693,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Constrictotermes latinotus (Holmgren, 1910)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5ZW4F",
+   "status": "accepted",
+   "label": "Constrictotermes latinotus (Holmgren, 1910)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235344",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Constrictotermes rupestris": {
+  "gbif": {
+   "key": 9660787,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Constrictotermes rupestris Constantino, 1997",
+   "accepted": null
+  },
+  "col": {
+   "id": "5ZW4H",
+   "status": "accepted",
+   "label": "Constrictotermes rupestris Constantino, 1997",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140235346",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

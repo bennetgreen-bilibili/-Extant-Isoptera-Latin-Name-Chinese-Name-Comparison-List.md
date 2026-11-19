@@ -1,0 +1,513 @@
+{
+ "Kalotermes aemulus": {
+  "gbif": {
+   "key": 4802866,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes aemulus Sewell & Gay, 1978",
+   "accepted": null
+  },
+  "col": {
+   "id": "3QZHM",
+   "status": "accepted",
+   "label": "Kalotermes aemulus Sewell & Gay, 1978",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21273174",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes approximatus": {
+  "gbif": {
+   "key": 2007364,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes approximatus Snyder, 1920",
+   "accepted": null
+  },
+  "col": {
+   "id": "3QZHP",
+   "status": "accepted",
+   "label": "Kalotermes approximatus Snyder, 1920",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582571",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes atratus": {
+  "gbif": {
+   "key": 4802862,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes atratus Hill, 1933",
+   "accepted": null
+  },
+  "col": {
+   "id": "3QZHQ",
+   "status": "accepted",
+   "label": "Kalotermes atratus Hill, 1933",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272464",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes banksiae": {
+  "gbif": {
+   "key": 4802859,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes banksiae Hill, 1942",
+   "accepted": null
+  },
+  "col": {
+   "id": "3QZHS",
+   "status": "accepted",
+   "label": "Kalotermes banksiae Hill, 1942",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21273177",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes brouni": {
+  "gbif": {
+   "key": 4802858,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes brouni Froggatt, 1897",
+   "accepted": null
+  },
+  "col": {
+   "id": "6NJT5",
+   "status": "accepted",
+   "label": "Kalotermes brouni Froggatt, 1897",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21273180",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes capicola": {
+  "gbif": {
+   "key": 9689352,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes capicola Coaton, 1949",
+   "accepted": null
+  },
+  "col": {
+   "id": "3QZHW",
+   "status": "accepted",
+   "label": "Kalotermes capicola Coaton, 1949",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253510",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes cognatus": {
+  "gbif": {
+   "key": 4802865,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes cognatus Gay, 1976",
+   "accepted": null
+  },
+  "col": {
+   "id": "3QZHX",
+   "status": "accepted",
+   "label": "Kalotermes cognatus Gay, 1976",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21273183",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes convexus": {
+  "gbif": {
+   "key": 4802855,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes convexus (Walker, 1853)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3QZHZ",
+   "status": "accepted",
+   "label": "Kalotermes convexus (Walker, 1853)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272466",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes dispar": {
+  "gbif": {
+   "key": 4514008,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes dispar Grassé, 1938",
+   "accepted": null
+  },
+  "col": {
+   "id": "3QZJ4",
+   "status": "accepted",
+   "label": "Kalotermes dispar Grassé, 1938",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q50399428",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes flavicollis": {
+  "gbif": {
+   "key": 4514009,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes flavicollis (Fabricius, 1793)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3QZJ7",
+   "status": "accepted",
+   "label": "Kalotermes flavicollis (Fabricius, 1793)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q3812640",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes gracilignathus": {
+  "gbif": {
+   "key": 9747489,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes gracilignathus Emerson, 1924",
+   "accepted": null
+  },
+  "col": {
+   "id": "3QZJ9",
+   "status": "accepted",
+   "label": "Kalotermes gracilignathus Emerson, 1924",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253512",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes hilli": {
+  "gbif": {
+   "key": 4802879,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes hilli (Emerson, 1949)",
+   "accepted": null
+  },
+  "col": {
+   "id": "6NK4T",
+   "status": "accepted",
+   "label": "Kalotermes hilli (Emerson, 1949)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272467",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes isaloensis": {
+  "gbif": {
+   "key": 9727912,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes isaloensis (Cachan, 1949)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3QZJD",
+   "status": "accepted",
+   "label": "Kalotermes isaloensis (Cachan, 1949)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253513",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes italicus": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Kalotermes Hagen, 1853",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": "KVHRR",
+   "status": "accepted",
+   "label": "Kalotermes italicus Ghesini & Marini, 2013",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q21273186",
+  "flags": [
+   "gbif_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes jepsoni": {
+  "gbif": {
+   "key": 9665914,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes jepsoni Kemner, 1932",
+   "accepted": null
+  },
+  "col": {
+   "id": "6NK55",
+   "status": "accepted",
+   "label": "Kalotermes jepsoni Kemner, 1932",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q30591788",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes monticola": {
+  "gbif": {
+   "key": 9743317,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes monticola Sjöstedt, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "3QZJM",
+   "status": "accepted",
+   "label": "Kalotermes monticola Sjöstedt, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253514",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes monticola brachycephala": {
+  "gbif": {
+   "key": 9759686,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Kalotermes monticola brachycephala Sjöstedt, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "L29YY",
+   "status": "accepted",
+   "label": "Kalotermes monticola brachycephala Sjöstedt, 1926",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes monticola monticola": {
+  "gbif": {
+   "key": 9661917,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Kalotermes monticola monticola Sjöstedt, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "L29YZ",
+   "status": "accepted",
+   "label": "Kalotermes monticola monticola Sjöstedt, 1925",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes pallidinotum": {
+  "gbif": {
+   "key": 4802853,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes pallidinotum Hill, 1942",
+   "accepted": null
+  },
+  "col": {
+   "id": "6NJSS",
+   "status": "accepted",
+   "label": "Kalotermes pallidinotum Hill, 1942",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272468",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes phoeniciae": {
+  "gbif": {
+   "key": null,
+   "status": "ACCEPTED",
+   "match": "HIGHERRANK",
+   "confidence": 96,
+   "rank": "GENUS",
+   "name": "Kalotermes Hagen, 1853",
+   "accepted": null,
+   "higherrank": true
+  },
+  "col": {
+   "id": null,
+   "status": "accepted",
+   "label": "Kalotermes Hagen, 1853",
+   "type": "higherrank",
+   "rank": "genus",
+   "accepted": null,
+   "higherrank": true
+  },
+  "flags": [
+   "gbif_higherrank",
+   "col_higherrank"
+  ],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes rufinotum": {
+  "gbif": {
+   "key": 4802852,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes rufinotum Hill, 1925",
+   "accepted": null
+  },
+  "col": {
+   "id": "3QZK2",
+   "status": "accepted",
+   "label": "Kalotermes rufinotum Hill, 1925",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272469",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes serrulatus": {
+  "gbif": {
+   "key": 4802864,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes serrulatus Gay, 1977",
+   "accepted": null
+  },
+  "col": {
+   "id": "3QZK5",
+   "status": "accepted",
+   "label": "Kalotermes serrulatus Gay, 1977",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q110272470",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Kalotermes umtatae": {
+  "gbif": {
+   "key": 9804330,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Kalotermes umtatae (Coaton, 1949)",
+   "accepted": null
+  },
+  "col": {
+   "id": "3QZKF",
+   "status": "accepted",
+   "label": "Kalotermes umtatae (Coaton, 1949)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140253518",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

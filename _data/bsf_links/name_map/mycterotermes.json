@@ -1,0 +1,13 @@
+{
+ "Mycterotermes meringocephalus": {
+  "label": "Mycterotermes meringocephalus Sands, 1965",
+  "match": "exact",
+  "notes": "",
+  "otu": 84550,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/84550/overview",
+  "valid_label": null,
+  "valid_otu": 84550,
+  "verified": false
+ }
+}

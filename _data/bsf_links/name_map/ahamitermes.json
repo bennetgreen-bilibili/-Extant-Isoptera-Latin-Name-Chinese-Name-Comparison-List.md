@@ -1,0 +1,35 @@
+{
+ "Ahamitermes hillii": {
+  "label": "Ahamitermes hillii Nicholls, 1929",
+  "match": "exact",
+  "notes": "",
+  "otu": 85153,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85153/overview",
+  "valid_label": null,
+  "valid_otu": 85153,
+  "verified": false
+ },
+ "Ahamitermes inclusus": {
+  "label": "Ahamitermes inclusus Gay, 1955",
+  "match": "exact",
+  "notes": "",
+  "otu": 85154,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85154/overview",
+  "valid_label": null,
+  "valid_otu": 85154,
+  "verified": false
+ },
+ "Ahamitermes nidicola": {
+  "label": "Ahamitermes nidicola Mjöberg, 1920",
+  "match": "exact",
+  "notes": "",
+  "otu": 85155,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/85155/overview",
+  "valid_label": null,
+  "valid_otu": 85155,
+  "verified": false
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-13",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "根据 Chhotani（1997）研究，龙格伦吉里印白蚁（<i>Indotermes rongrensis</i>）的次异名是 <i>Doonitermes buxensis</i>（印白蚁属的旧异名），这一名称由 Thakur & Sen-Sarma（1973）描述自西孟加拉 Buxa 林区。",
+     "text_en": "According to Chhotani (1997), <i>Doonitermes buxensis</i> (an old synonym in <i>Indotermes</i>) is a junior synonym of <i>Indotermes rongrensis</i>; that name had been described by Thakur and Sen-Sarma (1973) from the Buxa forest area in West Bengal.",
+     "text_es": "Según Chhotani (1997), <i>Doonitermes buxensis</i> (antiguo sinónimo de <i>Indotermes</i>) es un sinónimo junior de <i>Indotermes rongrensis</i>; ese nombre había sido descrito por Thakur y Sen-Sarma (1973) en la zona forestal de Buxa, en Bengala Occidental.",
+     "src": [
+      "S0104"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0104",
+   "citation": "Chhotani O. B. 1997 The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume II (Family Termitidae). Zoological Survey of India, Calcutta.",
+   "url": "https://archive.org/details/dli.zoological.fi.027"
+  }
+ ]
+}

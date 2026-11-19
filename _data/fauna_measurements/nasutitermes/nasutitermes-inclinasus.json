@@ -1,0 +1,38 @@
+{
+ "book_n": "421",
+ "book_name": "倾鼻象白蚁 Nasutitermes incinasus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "倾鼻象白蚁兵蚁量度( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_with_nasus",
+     "mean": "1.73",
+     "value": "1.66–1.81"
+    },
+    {
+     "key": "head_height_without_gula",
+     "mean": "0.69",
+     "value": "0.64–0.76"
+    },
+    {
+     "key": "nasus_length",
+     "mean": "0.79",
+     "value": "0.72–0.87"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.12",
+     "value": "1.07–1.15"
+    }
+   ],
+   "src_file": "801-900.txt",
+   "src_line": 602,
+   "unit": "mm"
+  }
+ ]
+}

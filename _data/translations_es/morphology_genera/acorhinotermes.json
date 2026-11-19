@@ -1,0 +1,13 @@
+{
+ "note": "El original no incluye un apartado independiente de Diagnosis genérica; los caracteres genéricos proceden del enunciado sobre la historia del género en la Introduction y de la primera entrada de la clave subfamiliar basada en el soldado menor; el resto corresponde a la descripción específica de A. claritae, señalada caso por caso como «nivel específico». En este equipo solo se dispone del XML JATS del editor (Europe PMC PMC6882922) y no del PDF impreso, por lo que el locator emplea nombres de sección. Del alado solo existe ilustración para A. subfusciceps, que no se ha utilizado aquí para redactar la sección del alado.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El carácter diagnóstico genérico es la ausencia de soldado mayor (major soldier), rasgo en el que se basó Emerson para separar esta especie de Rhinotermes y establecer el género; en el soldado menor, en vista dorsal el fontanelle se sitúa por delante de los lóbulos mandibulares (mandibular lobes, es decir, la base del ápice de las mandíbulas), lo que lo separa de Dolichorhinotermes y de Rhinotermes, en los que el fontanelle se sitúa a la altura de los lóbulos mandibulares o por detrás de ellos."
+  },
+  {
+   "label": "Soldado",
+   "text": "Solo se conoce el soldado menor. En vista dorsal los márgenes laterales de la cabeza están escotados y forman una constricción posterior; el vértice lleva 10–12 setas largas y erectas, sin microtriquias; antenas de 15 o 16 artejos, fórmula 2=3<4=5; mandíbulas reducidas, largas y agudas, rectas y afiladas; labro muy largo (hyperelongate), que se ensancha hacia el extremo, bilobulado en el ápice, casi coplanario con el vértice en vista lateral; fontanelle situado a 1/5 de la base del labro; pronoto del mismo color que la cabeza, con 4–8 setas dispersas (2–4 en el borde anterior y 2–4 en el dorso), sin microtriquias; segmentos abdominales amarillo pálido, con los bordes densamente pilosos; patas con numerosas setas largas y cortas, y la tibia anterior con setas gruesas. El ápice mandibular del soldado menor de esta especie es más largo que en A. subfusciceps y su talla relativamente menor."
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "book_n": "64",
+ "book_name": "波颚新白蚊 Neotermes undulatus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "波颚新白蚁兵蚁量度(mm) 波颚新白蚁兵蚁量度",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "head_length_mandible_base",
+     "mean": "3.40",
+     "value": "3.27–3.62"
+    },
+    {
+     "key": "head_max_width",
+     "mean": "2.12",
+     "value": "2.06–2.18"
+    },
+    {
+     "key": "head_height",
+     "mean": "1.73",
+     "value": "1.66–1.82"
+    },
+    {
+     "key": "labrum_length",
+     "mean": "0.35",
+     "value": "0.30–0.40"
+    },
+    {
+     "key": "labrum_width",
+     "mean": "0.52",
+     "value": "0.50–0.54"
+    },
+    {
+     "key": "left_mandible_length",
+     "mean": "2.01",
+     "value": "1.92–2.05"
+    },
+    {
+     "key": "postmentum_length",
+     "mean": "2.41",
+     "value": "2.26–2.66"
+    },
+    {
+     "key": "postmentum_max_width",
+     "mean": "0.81",
+     "value": "0.75–0.84"
+    },
+    {
+     "key": "postmentum_min_width",
+     "mean": "0.28",
+     "value": "0.27–0.29"
+    },
+    {
+     "key": "pronotum_mid_length",
+     "mean": "1.10",
+     "value": "1.08–1.16"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "2.45",
+     "value": "2.29–2.59"
+    },
+    {
+     "key": "hind_femur_length",
+     "mean": "1.49",
+     "value": "1.38–1.62"
+    },
+    {
+     "key": "hind_femur_width",
+     "mean": "0.59",
+     "value": "0.56–0.62"
+    },
+    {
+     "key": "hind_tibia_length",
+     "mean": "1.55",
+     "value": "1.52–1.58"
+    }
+   ],
+   "src_file": "201-300.txt",
+   "src_line": 1480,
+   "unit": "mm"
+  }
+ ]
+}

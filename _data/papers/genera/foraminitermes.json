@@ -1,0 +1,31 @@
+{
+ "latin": "Foraminitermes",
+ "zh": "孔白蚁属",
+ "fetched_at": "2026-10-30T16:53:38Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W2491530186",
+   "openalex_url": "https://openalex.org/W2491530186",
+   "doi": "",
+   "doi_url": "",
+   "title": "The gut of Termites (Isoptera) comparative anatomy, systematics, phylogeny. II. Higher Termites (Termitidae)",
+   "year": 2001,
+   "date": "2001-01-01",
+   "authors": [
+    "Charles Noirot"
+   ],
+   "venue": "Annales de la Société entomologique de France (N S )",
+   "type": "article",
+   "language": "fr",
+   "cited_by": 114,
+   "oa_url": "",
+   "volume": "37",
+   "issue": "4",
+   "pages": "431-471",
+   "abstract": "Le tube digestif des Termitidae est beaucoup plus diversifie que celui des termites inferieurs etudies precedemment (NOIROT, 1995) mais confirme la monophylie de cette famille. Les caracteres concernant la jonction mesenteron-proctodeum (presence et morphologie du segment mixte) et les tubes de Malpighi (insertion, degre de fusion, fermeture, constitution d'un noeud Malpighien) sont specialement significatifs. Le tube digestif permet de distinguer douze groupes de genres. Le groupe Macrotermes correspond a la sous-famille des Macrotermitinae. Les groupes Apicotermes, Anoplotermes, Speculitermes forment les Apicotermitinae dont la monophylie est egalement confirmee. Parmi les Nasutitermitinae, les genres a soldats mandibules (groupe Syntermes) se distinguent nettement des genres a soldats nasuti (groupes Nasutitermes et Subulitermes) et une paraphylie des Nasutitermitinae est suggeree. Les genres actuellement places dans la sous-famille des Termitinae peuvent etre repartis en cinq groupes. Le groupe Cubitermes est tres homogene. Les genres dont les soldats ont des mandibules de type frappeur pourraient former deux groupes distincts: Termes et Pericapritermes. Le groupe Amitermes est moins bien defini. Enfin le groupe Foraminitermes est tres different de tous les autres (sous-famille distincte?). Les Termitinae ne forment donc pas un clade; il faut au minimum en retirer le groupe Foraminitermes. Une phylogenie des Termitidae est enfin proposee. Basee essentiellement sur les caracteres du tube digestif, elle ne peut etre consideree que comme une hypothese de travail.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1590,
+   "abstract_truncated": false
+  }
+ ]
+}

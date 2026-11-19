@@ -1,0 +1,17 @@
+{
+ "note": "El soldado se describe según los caracteres genéricos de 2022/2012; el obrero, según las descripciones de la válvula entérica y de la lengüeta del mesenterón; del alado solo se conoce el índice mandibular izquierdo.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El postclípeo del soldado está notablemente inflado (excepto en I. tellustris) y las mandíbulas carecen de dientes marginales; el tamaño corporal es mayor y las mandíbulas son rectas y grandes (en Embiratermes los dientes marginales están bien desarrollados y en este género faltan por completo). La lengüeta del mesenterón del obrero es larga y torsionada, y el segmento de la válvula entérica está dirigido dorsalmente. Índice mandibular izquierdo 0.9."
+  },
+  {
+   "label": "Soldado",
+   "text": "Postclípeo notablemente inflado (con la excepción de I. tellustris); mandíbulas sin dientes marginales. Tamaño corporal mayor, mandíbulas rectas y grandes."
+  },
+  {
+   "label": "Obrero",
+   "text": "Lengüeta del mesenterón larga y torsionada; segmento de la válvula entérica dirigido dorsalmente. Índice mandibular izquierdo 0.9."
+  }
+ ]
+}

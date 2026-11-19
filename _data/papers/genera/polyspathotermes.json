@@ -1,0 +1,34 @@
+{
+ "latin": "Polyspathotermes",
+ "zh": "多铲白蚁属",
+ "fetched_at": "2026-10-30T16:54:23Z",
+ "papers": [
+  {
+   "id": "https://openalex.org/W3119431546",
+   "openalex_url": "https://openalex.org/W3119431546",
+   "doi": "10.1111/syen.12458",
+   "doi_url": "https://doi.org/10.1111/syen.12458",
+   "title": "Phylogeny and revision of the ‘ Cubitermes complex’ termites ( Termitidae : Cubitermitinae )",
+   "year": 2021,
+   "date": "2021-01-01",
+   "authors": [
+    "Simon Hellemans",
+    "Jean Deligne",
+    "Yves Roisin",
+    "Guy Josens"
+   ],
+   "venue": "Systematic Entomology",
+   "type": "article",
+   "language": "en",
+   "cited_by": 17,
+   "oa_url": "https://oist.repo.nii.ac.jp/record/2113/files/REPOSITORY_Phylogeny_Cubitermes.pdf",
+   "volume": "46",
+   "issue": "1",
+   "pages": "224-238",
+   "abstract": "The phylogeny of the genus Cubitermes Wasmann was reconstructed using two mitochondrial genes ( COI and COII ) and a fragment of the nuclear 28S rDNA, including samples of Apilitermes Holmgren, Crenetermes Silvestri, Megagnathotermes Silvestri and Thoracotermes Wasmann. Based on our analyses, we recovered these genera within a paraphyletic Cubitermes clade. Cubitermes species are distributed between five main clades, highly reflective of their enteric valve armatures (EVAs). Consequently, Cubitermes is here divided into five monophyletic genera based on phylogenetic analyses and EVAs: Cubitermes ( sensu stricto ), Isognathotermes Sjöstedt, Nitiditermes Emerson, Polyspathotermes Josens & Deligne, gen.n., and Ternicubitermes Josens & Deligne, gen.n. Moreover, the two species of Megagnathotermes included in this study, exhibiting different EVAs, are phylogenetically distant: M. katangensis Sjöstedt belongs in the genus Polyspathotermes, while M. notandus Silvestri remains as a monotypic genus. During the evolution of the Cubitermes complex, sclerotized EVA spatulae appeared twice independently: three or six spatulae in Polyspathotermes ( sulcifrons and oblectatus patterns) and two jaw‐like spatulae in Nitiditermes ( sankurensis pattern), which is absent in some species ( oculatus pattern). Zoobank registration: http://zoobank.org/urn:lsid:zoobank.org:pub:576AAFF8‐63C6‐4962‐A8F5‐75C9317AEA7B.",
+   "abstract_source": "openalex",
+   "abstract_chars": 1411,
+   "abstract_truncated": false
+  }
+ ]
+}

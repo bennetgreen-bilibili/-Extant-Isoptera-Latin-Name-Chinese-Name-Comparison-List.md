@@ -1,0 +1,15 @@
+{
+ "latin": "Megaprotermes",
+ "zh": "大前白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Megaprotermes Ruelle, 1978b: 17.",
+ "type_species": "Allodontermes giffardii Silvestri, 1914 by original designation.",
+ "references": [
+  {
+   "ref": "Sands, 1998: 28, 31, 95–98, figs. 218–229",
+   "note": "Megaprotermes; key; worker described; worker mandibles, gut figured; biology and economic status; distribution."
+  }
+ ],
+ "nrefs": 2
+}

@@ -1,0 +1,33 @@
+{
+ "book_n": "75",
+ "book_name": "大长鼻白蚁 Schdorhinotermesmagnus",
+ "tables": [
+  {
+   "caste": "soldier",
+   "heading": "大长鼻白蚁兵蚁量度 ( mm)",
+   "label_en": "Soldier measurements",
+   "label_es": "Medidas de soldado",
+   "label_zh": "兵蚁量度",
+   "rows": [
+    {
+     "key": "body_length",
+     "mean": "5.12",
+     "value": "4.75–5.63"
+    },
+    {
+     "key": "head_width",
+     "mean": "1.28",
+     "value": "1.25–1.31"
+    },
+    {
+     "key": "pronotum_width",
+     "mean": "0.68",
+     "value": "0.61–0.72"
+    }
+   ],
+   "src_file": "301-400.txt",
+   "src_line": 320,
+   "unit": "mm"
+  }
+ ]
+}

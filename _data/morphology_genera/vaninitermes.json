@@ -1,0 +1,25 @@
+{
+ "zh_name": "瓦宁白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "肠瓣（P2）由三条近等大的脊构成，覆细而弯曲的刺；P3 与 P4 以峡部相连，峡部近端插入。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头近长方形，侧缘与后缘的凸度有变化，后侧角圆；鼻（nasus）圆锥形，中等大小。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头圆；后唇基短而膨大；触角 13 或 14 节。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0068",
+   "citation": "Rocha, M. M.; Cancello, E. M. 2022. Updated taxonomy of Syntermitinae (Blattodea: Isoptera, Termitidae), with the description of three new genera. Zootaxa 5138(4): 445–463. DOI: 10.11646/zootaxa.5138.4.6",
+   "locator": "p. 450–451，「Digestive tube」段；p. 450–451，「Soldier」段；p. 450–451，「Worker」段"
+  }
+ ],
+ "note": "有翅成虫原文仅知 V. ignotus，未作属级描述，故不设有翅成虫节。"
+}

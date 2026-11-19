@@ -1,0 +1,24 @@
+{
+ "Paracurvitermes manni": {
+  "gbif": {
+   "key": 9815294,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Paracurvitermes manni (Snyder, 1926)",
+   "accepted": null
+  },
+  "col": {
+   "id": "4CRXW",
+   "status": "accepted",
+   "label": "Paracurvitermes manni (Snyder, 1926)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140084820",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

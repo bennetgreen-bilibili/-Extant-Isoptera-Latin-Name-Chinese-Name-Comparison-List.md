@@ -1,0 +1,266 @@
+{
+ "Amicotermes autothysius": {
+  "gbif": {
+   "key": 9785484,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amicotermes autothysius Sands, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "CS5W",
+   "status": "accepted",
+   "label": "Amicotermes autothysius Sands, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234553",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amicotermes camerunensis": {
+  "gbif": {
+   "key": 9737456,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amicotermes camerunensis Sands, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "CS5X",
+   "status": "accepted",
+   "label": "Amicotermes camerunensis Sands, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234554",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amicotermes congoensis": {
+  "gbif": {
+   "key": 9656424,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amicotermes congoensis Sands, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "CS5Y",
+   "status": "accepted",
+   "label": "Amicotermes congoensis Sands, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234556",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amicotermes cristatus": {
+  "gbif": {
+   "key": 9765469,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amicotermes cristatus Sands, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "CS5Z",
+   "status": "accepted",
+   "label": "Amicotermes cristatus Sands, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234558",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amicotermes dibogi": {
+  "gbif": {
+   "key": 9717921,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amicotermes dibogi Sands, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "CS62",
+   "status": "accepted",
+   "label": "Amicotermes dibogi Sands, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234559",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amicotermes galenus": {
+  "gbif": {
+   "key": 9769257,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amicotermes galenus Sands, 1972",
+   "accepted": null
+  },
+  "col": {
+   "id": "CS63",
+   "status": "accepted",
+   "label": "Amicotermes galenus Sands, 1972",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234561",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amicotermes gasteruptus": {
+  "gbif": {
+   "key": 9652826,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amicotermes gasteruptus Sands, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "CS64",
+   "status": "accepted",
+   "label": "Amicotermes gasteruptus Sands, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234562",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amicotermes ivorensis": {
+  "gbif": {
+   "key": 9818130,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amicotermes ivorensis Sands, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "CS65",
+   "status": "accepted",
+   "label": "Amicotermes ivorensis Sands, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234563",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amicotermes mayombei": {
+  "gbif": {
+   "key": 9686847,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amicotermes mayombei Sands, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "CS66",
+   "status": "accepted",
+   "label": "Amicotermes mayombei Sands, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234565",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amicotermes mbalmayoensis": {
+  "gbif": {
+   "key": 9733735,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amicotermes mbalmayoensis Sands, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "CS67",
+   "status": "accepted",
+   "label": "Amicotermes mbalmayoensis Sands, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234566",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amicotermes multispinus": {
+  "gbif": {
+   "key": 9683215,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amicotermes multispinus Sands, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "CS68",
+   "status": "accepted",
+   "label": "Amicotermes multispinus Sands, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234569",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Amicotermes spiculatus": {
+  "gbif": {
+   "key": 9789336,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amicotermes spiculatus Sands, 1999",
+   "accepted": null
+  },
+  "col": {
+   "id": "CS69",
+   "status": "accepted",
+   "label": "Amicotermes spiculatus Sands, 1999",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140234573",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "Synacanthotermes heterodon": {
+  "gbif": {
+   "key": 9667329,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Synacanthotermes heterodon (Sjöstedt, 1899)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53SRJ",
+   "status": "accepted",
+   "label": "Synacanthotermes heterodon (Sjöstedt, 1899)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073784",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Synacanthotermes trilobatus": {
+  "gbif": {
+   "key": 9754014,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Synacanthotermes trilobatus Sjöstedt, 1926",
+   "accepted": null
+  },
+  "col": {
+   "id": "53SRK",
+   "status": "accepted",
+   "label": "Synacanthotermes trilobatus Sjöstedt, 1926",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073783",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Synacanthotermes zanzibarensis": {
+  "gbif": {
+   "key": 9672164,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Synacanthotermes zanzibarensis (Sjöstedt, 1915)",
+   "accepted": null
+  },
+  "col": {
+   "id": "53SRL",
+   "status": "accepted",
+   "label": "Synacanthotermes zanzibarensis (Sjöstedt, 1915)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073782",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

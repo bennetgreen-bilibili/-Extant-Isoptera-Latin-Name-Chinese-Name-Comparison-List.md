@@ -1,0 +1,23 @@
+{
+ "Amplucrutermes inflatus": {
+  "gbif": {
+   "key": 10414621,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Amplucrutermes inflatus Bourguignon & Roisin, 2016",
+   "accepted": null
+  },
+  "col": {
+   "id": "DLV5H",
+   "status": "accepted",
+   "label": "Amplucrutermes inflatus Bourguignon & Roisin, 2016",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

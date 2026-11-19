@@ -1,0 +1,110 @@
+{
+ "Zootermopsis angusticollis": {
+  "gbif": {
+   "key": 2007393,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Zootermopsis angusticollis (Hagen, 1858)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5D7JP",
+   "status": "accepted",
+   "label": "Zootermopsis angusticollis (Hagen, 1858)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q4053612",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Zootermopsis laticeps": {
+  "gbif": {
+   "key": 2007389,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Zootermopsis laticeps (Banks, 1906)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5D7JR",
+   "status": "accepted",
+   "label": "Zootermopsis laticeps (Banks, 1906)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582527",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Zootermopsis nevadensis": {
+  "gbif": {
+   "key": 2007390,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Zootermopsis nevadensis (Hagen, 1874)",
+   "accepted": null
+  },
+  "col": {
+   "id": "5D7JS",
+   "status": "accepted",
+   "label": "Zootermopsis nevadensis (Hagen, 1874)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q13582528",
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Zootermopsis nevadensis nevadensis": {
+  "gbif": {
+   "key": 7198563,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Zootermopsis nevadensis nevadensis (Hagen, 1874)",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2TR8",
+   "status": "accepted",
+   "label": "Zootermopsis nevadensis nevadensis (Hagen, 1874)",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ },
+ "Zootermopsis nevadensis nuttingi": {
+  "gbif": {
+   "key": 6193186,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SUBSPECIES",
+   "name": "Zootermopsis nevadensis nuttingi Haverty & Thorne, 1989",
+   "accepted": null
+  },
+  "col": {
+   "id": "L2TR9",
+   "status": "accepted",
+   "label": "Zootermopsis nevadensis nuttingi Haverty & Thorne, 1989",
+   "type": "variant",
+   "rank": "subspecies",
+   "accepted": null
+  },
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}

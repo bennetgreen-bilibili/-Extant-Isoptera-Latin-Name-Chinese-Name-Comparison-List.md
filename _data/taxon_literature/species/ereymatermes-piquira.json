@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-12",
+ "sections": [
+  {
+   "heading": "新种描述与模式产地",
+   "paragraphs": [
+    {
+     "text": "根据 Cancello & Cuezzo（2007），短小无名白蚁（Ereymatermes piquira）由该文描述为新种，模式产地为巴西巴伊亚州 Ilhéus（14.7972°S, 39.073°W），隶属象白蚁亚科（Nasutitermitinae）无名白蚁属（Ereymatermes）。",
+     "src": [
+      "S0098"
+     ],
+     "text_en": "According to Cancello & Cuezzo (2007), Ereymatermes piquira was described as a new species in that paper, with type locality Ilhéus, Bahia, Brazil (14.7972°S, 39.073°W), in the genus Ereymatermes of Nasutitermitinae.",
+     "text_es": "Según Cancello y Cuezzo (2007), Ereymatermes piquira se describe en ese trabajo como especie nueva, con localidad tipo en Ilhéus, Bahía, Brasil (14.7972° S, 39.073° W), dentro de Nasutitermitinae, género Ereymatermes."
+    },
+    {
+     "text": "该文以兵蚁和工蚁标本描述短小无名白蚁（Ereymatermes piquira），并给出兵蚁头壳、象鼻及工蚁上颚的形态图；无名白蚁属（Ereymatermes）兵蚁头壳卵形、触角基后方略收缩，象鼻长圆柱形、不上翘，上唇很退化，触角 12 节，胫节距 2:2:2；工蚁二型，窄隙型更常见。",
+     "src": [
+      "S0098"
+     ],
+     "text_en": "The paper describes Ereymatermes piquira from soldier and worker specimens and provides morphological figures of the soldier head capsule and nasus and of the worker mandibles; in Ereymatermes the soldier head capsule is oval and slightly constricted behind the antennal bases, the nasus is long and cylindrical and not upturned, the labrum is much reduced, the antennae are 12-segmented and the tibial spur formula is 2:2:2; the workers are dimorphic, the narrow-gap type being the more common.",
+     "text_es": "El trabajo describe Ereymatermes piquira a partir de soldados y obreros y ofrece figuras de la cápsula cefálica y el naso del soldado y de las mandíbulas del obrero; en Ereymatermes la cápsula cefálica del soldado es ovalada y se estrecha ligeramente por detrás de la base de las antenas, el naso es largo y cilíndrico y no se inclina hacia arriba, el labro está muy reducido, las antenas tienen 12 artejos y la fórmula de espinas tibiales es 2:2:2; los obreros son dimórficos y el morfotipo de hendidura estrecha es el más frecuente."
+    }
+   ],
+   "heading_en": "Description of the new species and its type locality",
+   "heading_es": "Descripción de la especie nueva y localidad tipo"
+  }
+ ],
+ "references": [
+  {
+   "id": "S0098",
+   "citation": "Cancello E. M., Cuezzo C. A new species of Ereymatermes Constantino (Isoptera, Termitidae, Nasutitermitinae) from the northeastern Atlantic Forest, Brazil. Papéis Avulsos de Zoologia 47(23): 283–288, 2007.",
+   "url": "https://revistas.usp.br/paz/article/view/33691"
+  }
+ ]
+}

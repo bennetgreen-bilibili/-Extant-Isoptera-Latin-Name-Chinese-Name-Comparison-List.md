@@ -1,0 +1,13 @@
+{
+ "Amalotermes phaeocephalus": {
+  "label": "Amalotermes phaeocephalus Sands, 1972",
+  "match": "exact",
+  "notes": "",
+  "otu": 83934,
+  "status": "valid",
+  "url": "https://cockroach.speciesfile.org/otus/83934/overview",
+  "valid_label": null,
+  "valid_otu": 83934,
+  "verified": false
+ }
+}

@@ -1,0 +1,982 @@
+{
+ "sabaeus": {
+  "zh": "拉丁文 Sabaeus（示巴的、阿拉伯的）",
+  "en": "Latin Sabaeus (of Sheba, Arabian)",
+  "es": "Del latín Sabaeus (de Saba, árabe)"
+ },
+ "sabahensis": {
+  "zh": "以地名 沙巴（马来西亚） 命名",
+  "en": "Named after the locality Sabah",
+  "es": "Por la localidad de Sabah"
+ },
+ "sachae": {
+  "zh": "源自克丘亚语 sacha（森林），指其雨林生境；亦或为人名 Sacha",
+  "en": "From Quechua sacha (forest), referring to its rainforest habitat; or a person \"Sacha\"",
+  "es": "Del quechua sacha (bosque), en referencia a su hábitat de selva tropical; o de una persona «Sacha»"
+ },
+ "sahyadriensis": {
+  "zh": "以地名 萨希亚德里（印度） 命名",
+  "en": "Named after the locality Sahyadr",
+  "es": "Por la localidad de Sahyadr"
+ },
+ "sakalava": {
+  "zh": "萨卡拉瓦族（马达加斯加）",
+  "en": "After the Sakalava people (Madagascar)",
+  "es": "En honor del pueblo sakalava (Madagascar)"
+ },
+ "sakarahensis": {
+  "zh": "以萨卡拉哈（Sakaraha，马达加斯加）命名",
+  "en": "Named after Sakaraha (Madagascar)",
+  "es": "Por Sakaraha (Madagascar)"
+ },
+ "sakesarensis": {
+  "zh": "以地名 Sakesar（萨凯萨尔山，巴基斯坦旁遮普盐岭）命名",
+  "en": "Named after the locality Sakesar (Salt Range, Punjab, Pakistan)",
+  "es": "Por la localidad de Sakesar (Salt Range, Punyab, Pakistán)"
+ },
+ "salakensis": {
+  "zh": "以地名 Mount Salak（萨拉克火山，印度尼西亚西爪哇）命名",
+  "en": "Named after the locality Mount Salak (West Java, Indonesia)",
+  "es": "Por la localidad del monte Salak (Java Occidental, Indonesia)"
+ },
+ "salebrifrons": {
+  "zh": "拉丁文 salebra（粗糙）+ frons（额），糙额",
+  "en": "Latin salebra (roughness) + frons (front), rough-fronted",
+  "es": "Del latín salebra (aspereza) + frons (frente), de frente rugosa"
+ },
+ "salebrithorax": {
+  "zh": "拉丁文 salebra（粗糙）+ thorax（胸），糙胸",
+  "en": "Latin salebra (roughness) + thorax (thorax), rough-thoraxed",
+  "es": "Del latín salebra (aspereza) + thorax (tórax), de tórax rugoso"
+ },
+ "saleierensis": {
+  "zh": "以地名 Saleier/Selayar（塞拉亚群岛，印度尼西亚南苏拉威西）命名",
+  "en": "Named after the locality Saleier (Selayar) Islands, South Sulawesi, Indonesia",
+  "es": "Por la localidad de las islas Saleier (Selayar), Célebes Meridional, Indonesia"
+ },
+ "samoanus": {
+  "zh": "以地名 萨摩亚 命名",
+  "en": "Named after the locality Samo",
+  "es": "Por la localidad de Samo"
+ },
+ "sanctaeanae": {
+  "zh": "以圣安娜（Santa Ana）命名",
+  "en": "Named after Santa Ana",
+  "es": "Por Santa Ana"
+ },
+ "sanctaecrucis": {
+  "zh": "拉丁文 sancta（圣）+ crux（十字），圣十字",
+  "en": "Latin sancta (holy) + crux (cross), holy cross",
+  "es": "Del latín sancta (santa) + crux (cruz), santa cruz"
+ },
+ "sanctaeluciae": {
+  "zh": "以圣卢西亚（Saint Lucia）命名",
+  "en": "Named after Saint Lucia",
+  "es": "Por Santa Lucía"
+ },
+ "sandakanensis": {
+  "zh": "以地名 山打根（马来西亚） 命名",
+  "en": "Named after the locality Sandakan",
+  "es": "Por la localidad de Sandakan"
+ },
+ "sandakensis": {
+  "zh": "以地名 山打根（马来西亚） 命名",
+  "en": "Named after the locality Sandak",
+  "es": "Por la localidad de Sandak"
+ },
+ "sankurensis": {
+  "zh": "以地名 Sankuru（刚果）命名",
+  "en": "Named after Sankuru, Congo",
+  "es": "Por Sankuru, Congo"
+ },
+ "santschii": {
+  "zh": "以人名 santsch 命名（F. Santschi（瑞士蚁学家））",
+  "en": "Named after F. Santschi（瑞士蚁学家）",
+  "es": "En honor de F. Santschi (mirmecólogo suizo)"
+ },
+ "sanyuktae": {
+  "zh": "以人名 Sanyukta（印度女性名）命名",
+  "en": "Named after a person \"Sanyukta\" (Indian female name)",
+  "es": "En honor de una persona «Sanyukta» (nombre femenino indio)"
+ },
+ "sapiranga": {
+  "zh": "种加词 sapiranga 为图皮语土名，由 sapi（眼）与 pyranga（红）组成，意为「红眼」。",
+  "en": "From the Tupi name sapiranga, from sapi 'eye' + pyranga 'red', i.e. 'red-eyed'.",
+  "es": "Del nombre tupí sapiranga, de sapi «ojo» + pyranga «rojo», es decir, «de ojos rojos»."
+ },
+ "saraiensis": {
+  "zh": "以地名 沙捞越（马来西亚） 命名",
+  "en": "Named after the locality Sara",
+  "es": "Por la localidad de Sara"
+ },
+ "sarasini": {
+  "zh": "以人名 Sarasin（Fritz 与 Paul Sarasin，瑞士博物学家）命名",
+  "en": "Named after Fritz and Paul Sarasin (Swiss naturalists)",
+  "es": "En honor de Fritz y Paul Sarasin (naturalistas suizos)"
+ },
+ "saraswati": {
+  "zh": "以人名 Saraswati（印度女性名，或娑罗室伐底女神）命名",
+  "en": "Named after \"Saraswati\" (Indian name or the goddess)",
+  "es": "En honor de «Saraswati» (nombre indio o la diosa)"
+ },
+ "saravanensis": {
+  "zh": "以地名 Saravan（萨拉万，伊朗锡斯坦-俾路支斯坦省）命名",
+  "en": "Named after the locality Saravan (Sistan and Baluchestan, Iran)",
+  "es": "Por la localidad de Saravan (Sistán y Baluchistán, Irán)"
+ },
+ "sarawakensis": {
+  "zh": "以地名 沙捞越（马来西亚） 命名",
+  "en": "Named after the locality Sarawak",
+  "es": "Por la localidad de Sarawak"
+ },
+ "sasangirensis": {
+  "zh": "以萨桑吉尔（Sasangire，坦桑尼亚）命名",
+  "en": "Named after Sasangire (Tanzania)",
+  "es": "Por Sasangire (Tanzania)"
+ },
+ "satsumensis": {
+  "zh": "以萨摩（Satsuma，日本）命名",
+  "en": "Named after Satsuma (Japan)",
+  "es": "Por Satsuma (Japón)"
+ },
+ "saudiensis": {
+  "zh": "以地名 沙特阿拉伯 命名",
+  "en": "Named after the locality Saud",
+  "es": "Por la localidad de Saud"
+ },
+ "sawensis": {
+  "zh": "以地名 Sawa（萨瓦湖，伊拉克穆萨纳省）命名",
+  "en": "Named after the locality Sawa (Lake Sawa, Iraq)",
+  "es": "Por la localidad de Sawa (lago Sawa, Irak)"
+ },
+ "saxatilis": {
+  "zh": "拉丁文 saxatilis（栖于岩石的）",
+  "en": "Latin saxatilis (dwelling among rocks)",
+  "es": "Del latín saxatilis (que vive entre las rocas)"
+ },
+ "scalenus": {
+  "zh": "希腊文 skalēnos（不等的、斜的）",
+  "en": "Greek skalēnos (uneven, scalene)",
+  "es": "Del griego skalēnos (desigual, escaleno)"
+ },
+ "scapheutes": {
+  "zh": "希腊文 skapheus（凿舟者、挖掘者）",
+  "en": "Greek skapheus (digger)",
+  "es": "Del griego skapheus (excavador)"
+ },
+ "schereri": {
+  "zh": "以人名 Scherer 命名（具体指代待考）",
+  "en": "Named after a person \"Scherer\" (identity unconfirmed)",
+  "es": "En honor de una persona «Scherer» (identidad no confirmada)"
+ },
+ "schmidti": {
+  "zh": "以 K. P. Schmidt（Karl Patterson Schmidt）博士命名，芝加哥自然历史博物馆动物学首席馆长，其于 1929 年 Crane Pacific Expedition 采集了该种。",
+  "en": "Named in honor of the late Dr. K. P. Schmidt, Chief Curator of Zoology, Chicago Natural History Museum.",
+  "es": "En honor del difunto Dr. K. P. Schmidt, conservador jefe de zoología, Museo de Historia Natural de Chicago."
+ },
+ "schmitzi": {
+  "zh": "以人名 Schmitz 命名",
+  "en": "Named after a person (Schmitz)",
+  "es": "En honor de una persona (Schmitz)"
+ },
+ "schoutedeni": {
+  "zh": "以 H. Schouteden（比利时昆虫学家）命名",
+  "en": "Named after H. Schouteden",
+  "es": "En honor de H. Schouteden"
+ },
+ "schultzei": {
+  "zh": "以 L. Schultze（德国动物学家）命名",
+  "en": "Named after L. Schultze",
+  "es": "En honor de L. Schultze"
+ },
+ "schwarzi": {
+  "zh": "以人名 Schwarz（E. A. Schwarz，美国昆虫学家）命名",
+  "en": "Named after E. A. Schwarz (American entomologist)",
+  "es": "En honor de E. A. Schwarz (entomólogo estadounidense)"
+ },
+ "sciangallorum": {
+  "zh": "以人名 Sciangallo（家族/采集者，属格复数）命名",
+  "en": "Named after the Sciangallo family/collectors (genitive plural)",
+  "es": "En honor de la familia/colectores Sciangallo (genitivo plural)"
+ },
+ "scopulus": {
+  "zh": "拉丁文 scopulus（岩石、悬崖）",
+  "en": "Latin scopulus (crag)",
+  "es": "Del latín scopulus (peñasco)"
+ },
+ "scotti": {
+  "zh": "以人名 Scott（Hugh Scott，英国昆虫学家，塞舌尔考察）命名",
+  "en": "Named after Hugh Scott (British entomologist)",
+  "es": "En honor de Hugh Scott (entomólogo británico)"
+ },
+ "scrutor": {
+  "zh": "拉丁文 scrutor（探查者）",
+  "en": "Latin scrutor (searcher)",
+  "es": "Del latín scrutor (escudriñador)"
+ },
+ "secernens": {
+  "zh": "拉丁文 secernens（分泌的、分离的）",
+  "en": "Latin secernens (separating)",
+  "es": "Del latín secernens (que separa)"
+ },
+ "seclusus": {
+  "zh": "拉丁文 seclusus（隔离的）",
+  "en": "Latin seclusus (secluded)",
+  "es": "Del latín seclusus (apartado, aislado)"
+ },
+ "secundus": {
+  "zh": "拉丁文 secundus（第二）",
+  "en": "Latin secundus (second)",
+  "es": "Del latín secundus (segundo)"
+ },
+ "seeversi": {
+  "zh": "以人名 Seevers（C. H. Seevers，美国昆虫学家）命名",
+  "en": "Named after C. H. Seevers (American entomologist)",
+  "es": "En honor de C. H. Seevers (entomólogo estadounidense)"
+ },
+ "seghersi": {
+  "zh": "以人名 Seghers 命名（具体指代待考）",
+  "en": "Named after a person \"Seghers\" (identity unconfirmed)",
+  "es": "En honor de una persona «Seghers» (identidad no confirmada)"
+ },
+ "seikii": {
+  "zh": "以人名命名；疑纪念日本昆虫学家山根正気（Seiki Yamane，与同文另一新种 Lacessitermes yamanei 相关），原文词源句未读到，待考。",
+  "en": "Named after a person; probably honors the Japanese entomologist Seiki Yamane (cf. Lacessitermes yamanei in the same paper), but the etymology statement was not seen; uncertain.",
+  "es": "En honor de una persona; probablemente honra al entomólogo japonés Seiki Yamane (cf. Lacessitermes yamanei en el mismo artículo), pero no se vio la declaración etimológica; incierto."
+ },
+ "sellathorax": {
+  "zh": "拉丁文 sella（鞍）+ thorax（胸），鞍胸",
+  "en": "Latin sella (saddle) + thorax (thorax), saddle-thoraxed",
+  "es": "Del latín sella (silla de montar) + thorax (tórax), de tórax en silla"
+ },
+ "semarangi": {
+  "zh": "以地名 Semarang（三宝垄，印度尼西亚中爪哇）命名",
+  "en": "Named after the locality Semarang (Central Java, Indonesia)",
+  "es": "Por la localidad de Semarang (Java Central, Indonesia)"
+ },
+ "semilunaris": {
+  "zh": "拉丁文 semi-（半）+ luna（月），半月形",
+  "en": "Latin semi- (half) + luna (moon), half-moon",
+  "es": "Del latín semi- (mitad) + luna (luna), media luna"
+ },
+ "seminotus": {
+  "zh": "拉丁文 semi-（半）+ notus（背），半背",
+  "en": "Latin semi- (half) + notus (back), half-back",
+  "es": "Del latín semi- (mitad) + notus (dorso), medio dorso"
+ },
+ "senegalensis": {
+  "zh": "以地名 塞内加尔 命名",
+  "en": "Named after the locality Senegal",
+  "es": "Por la localidad de Senegal"
+ },
+ "sensarmai": {
+  "zh": "以 P.K. Sen-Sarma（印度白蚁学家）命名",
+  "en": "Named after P.K. Sen-Sarma",
+  "es": "En honor de P.K. Sen-Sarma"
+ },
+ "sentosus": {
+  "zh": "拉丁文 sentosus（多刺的）",
+  "en": "Latin sentosus (thorny)",
+  "es": "Del latín sentosus (espinoso)"
+ },
+ "sepangensis": {
+  "zh": "以地名 Sepang（雪邦，马来西亚）命名",
+  "en": "Named after the locality Sepang (Malaysia)",
+  "es": "Por la localidad de Sepang (Malasia)"
+ },
+ "sepilokensis": {
+  "zh": "以地名 西必洛（马来西亚） 命名",
+  "en": "Named after the locality Sepilok",
+  "es": "Por la localidad de Sepilok"
+ },
+ "septentrionalis": {
+  "zh": "拉丁文 septentrionalis（北方的）",
+  "en": "Latin septentrionalis (northern)",
+  "es": "Del latín septentrionalis (septentrional, del norte)"
+ },
+ "sepulvillus": {
+  "zh": "拉丁语 se-（缺/无）+ pulvillus（小爪垫），无爪垫的，对应原文诊断特征「the pulvillus is lacking」",
+  "en": "From Latin se- (without) + pulvillus (small pad); referring to the lack of a pulvillus",
+  "es": "Del latín se- (sin) + pulvillus (pequeña almohadilla); en referencia a la falta de pulvillus"
+ },
+ "serratus": {
+  "zh": "拉丁文/希腊文 serr（锯齿）+ atus（具），指锯齿具",
+  "en": "From serr (锯齿) + atus (具)",
+  "es": "De serr (sierra) + atus (que posee)"
+ },
+ "serrifer": {
+  "zh": "拉丁文/希腊文 serri（锯齿）+ fer（具），指锯齿具",
+  "en": "From serri (锯齿) + fer (具)",
+  "es": "De serri (sierra) + fer (que lleva)"
+ },
+ "serrulatus": {
+  "zh": "拉丁文/希腊文 serrul（锯齿）+ atus（具），指锯齿具",
+  "en": "From serrul (锯齿) + atus (具)",
+  "es": "De serrul (sierra pequeña) + atus (que posee)"
+ },
+ "setifer": {
+  "zh": "拉丁文/希腊文 seti（刚毛）+ fer（具），指刚毛具",
+  "en": "From seti (刚毛) + fer (具)",
+  "es": "De seti (cerda) + fer (que lleva)"
+ },
+ "setiger": {
+  "zh": "拉丁文/希腊文 seti（刚毛）+ ger（具），指刚毛具",
+  "en": "From seti (刚毛) + ger (具)",
+  "es": "De seti (cerda) + ger (que lleva)"
+ },
+ "setosus": {
+  "zh": "拉丁文/希腊文 set（刚毛）+ osus（多、充满），指刚毛多、充满",
+  "en": "From set (刚毛) + osus (多、充满)",
+  "es": "De set (cerda) + osus (abundante, lleno de)"
+ },
+ "severus": {
+  "zh": "拉丁文 severus（严肃的、严酷的）",
+  "en": "Latin severus (severe)",
+  "es": "Del latín severus (severo)"
+ },
+ "shaanxiensis": {
+  "zh": "以地名 陕西 命名",
+  "en": "Named after the locality Shaanx",
+  "es": "Por la localidad de Shaanxi"
+ },
+ "shabaensis": {
+  "zh": "以沙巴（Shaba，刚果）命名",
+  "en": "Named after Shaba (DR Congo)",
+  "es": "Por Shaba (RD del Congo)"
+ },
+ "shahroudiensis": {
+  "zh": "以地名 Shahroud（沙赫鲁德，伊朗塞姆南省）命名",
+  "en": "Named after the locality Shahroud (Iran)",
+  "es": "Por la localidad de Shahroud (Irán)"
+ },
+ "shamimi": {
+  "zh": "以人名 Shamim 命名（具体指代待考）",
+  "en": "Named after a person \"Shamim\" (identity unconfirmed)",
+  "es": "En honor de una persona «Shamim» (identidad no confirmada)"
+ },
+ "shangchengensis": {
+  "zh": "以地名 商城（河南） 命名",
+  "en": "Named after the locality Shangcheng",
+  "es": "Por la localidad de Shangcheng"
+ },
+ "shanghaiensis": {
+  "zh": "以地名 上海 命名",
+  "en": "Named after the locality Shangha",
+  "es": "Por la localidad de Shanghái"
+ },
+ "sharpi": {
+  "zh": "以人名 sharp 命名（D. Sharp（英国昆虫学家））",
+  "en": "Named after D. Sharp（英国昆虫学家）",
+  "es": "En honor de D. Sharp (entomólogo británico)"
+ },
+ "shillongensis": {
+  "zh": "以地名 西隆（印度） 命名",
+  "en": "Named after the locality Shillong",
+  "es": "Por la localidad de Shillong"
+ },
+ "shimogensis": {
+  "zh": "以地名 希莫加（印度） 命名",
+  "en": "Named after the locality Shimog",
+  "es": "Por la localidad de Shimoga"
+ },
+ "shixingensis": {
+  "zh": "以地名 始兴（广东） 命名",
+  "en": "Named after the locality Shixing",
+  "es": "Por la localidad de Shixing"
+ },
+ "sibayiensis": {
+  "zh": "以地名 Lake Sibaya（锡巴伊湖，南非夸祖鲁-纳塔尔省）命名",
+  "en": "Named after the locality Lake Sibaya (KwaZulu-Natal, South Africa)",
+  "es": "Por la localidad del lago Sibaya (KwaZulu-Natal, Sudáfrica)"
+ },
+ "sichuanensis": {
+  "zh": "以地名 四川 命名",
+  "en": "Named after the locality Sichuan",
+  "es": "Por la localidad de Sichuan"
+ },
+ "sicki": {
+  "zh": "以人名 Sick（Helmut Sick，德国-巴西鸟类学家）命名",
+  "en": "Named after Helmut Sick (German-Brazilian ornithologist)",
+  "es": "En honor de Helmut Sick (ornitólogo germano-brasileño)"
+ },
+ "sierraleonicus": {
+  "zh": "以地名 Sierra Leone（塞拉利昂）命名",
+  "en": "Named after Sierra Leone",
+  "es": "Por Sierra Leona"
+ },
+ "sikkimensis": {
+  "zh": "以地名 锡金 命名",
+  "en": "Named after the locality Sikkim",
+  "es": "Por la localidad de Sikkim"
+ },
+ "sikorae": {
+  "zh": "以人名 Sikora（Franz Sikora，奥地利博物学采集者）命名",
+  "en": "Named after Franz Sikora (Austrian natural history collector)",
+  "es": "En honor de Franz Sikora (colector austriaco de historia natural)"
+ },
+ "silamensis": {
+  "zh": "以地名 Mount Silam（锡拉姆山，马来西亚沙巴）命名",
+  "en": "Named after the locality Mount Silam (Sabah, Malaysia)",
+  "es": "Por la localidad del monte Silam (Sabah, Malasia)"
+ },
+ "silvaticus": {
+  "zh": "拉丁文 silvaticus（森林的，silva=森林）",
+  "en": "Latin silvaticus (of the forest, silva = forest)",
+  "es": "Del latín silvaticus (del bosque, silva = bosque)"
+ },
+ "silvestrianus": {
+  "zh": "以人名 silvestr 命名（意大利昆虫学家 F. Silvestri）",
+  "en": "Named after 意大利昆虫学家 F. Silvestri",
+  "es": "En honor del entomólogo italiano F. Silvestri"
+ },
+ "silvestrii": {
+  "zh": "以人名 Silvestri 命名（意大利昆虫学家 F. Silvestri）",
+  "en": "Named after the entomologist F. Silvestri",
+  "es": "En honor del entomólogo F. Silvestri"
+ },
+ "silvius": {
+  "zh": "拉丁文 silva（森林），森林的",
+  "en": "Latin silva (forest), of the woods",
+  "es": "Del latín silva (bosque), de los bosques"
+ },
+ "simalurensis": {
+  "zh": "以地名 西默卢岛（印度尼西亚） 命名",
+  "en": "Named after the locality Simalur",
+  "es": "Por la localidad de Simalur"
+ },
+ "simaluris": {
+  "zh": "地名：锡默卢岛（印度尼西亚）",
+  "en": "After Simeulue Island (Indonesia)",
+  "es": "Por la isla Simeulue (Indonesia)"
+ },
+ "simaoensis": {
+  "zh": "以地名 思茅（云南） 命名",
+  "en": "Named after the locality Simao",
+  "es": "Por la localidad de Simao"
+ },
+ "similifinitimus": {
+  "zh": "拉丁文/希腊文词根「simil」（相似）",
+  "en": "From the descriptive term 'simil' (similar)",
+  "es": "Del término descriptivo «simil» (similar)"
+ },
+ "similis": {
+  "zh": "拉丁文 similis（相似的）",
+  "en": "Latin similis (similar)",
+  "es": "Del latín similis (similar)"
+ },
+ "simplex": {
+  "zh": "拉丁文 simplex（简单的、不分枝的）",
+  "en": "Latin simplex (simple)",
+  "es": "Del latín simplex (simple)"
+ },
+ "simplicicornis": {
+  "zh": "拉丁文 simplex（简单）+ cornu（角），简单角",
+  "en": "Latin simplex (simple) + cornu (horn), simple-horned",
+  "es": "Del latín simplex (simple) + cornu (cuerno), de cuerno simple"
+ },
+ "simplicidens": {
+  "zh": "拉丁文 simplex（简单）+ dens（齿），简单齿",
+  "en": "Latin simplex (simple) + dens (tooth), simple-toothed",
+  "es": "Del latín simplex (simple) + dens (diente), de diente simple"
+ },
+ "simplicinervis": {
+  "zh": "拉丁文 simplex（简单）+ nervus（脉），简单脉",
+  "en": "Latin simplex (simple) + nervus (vein), simple-veined",
+  "es": "Del latín simplex (simple) + nervus (nervio), de nervadura simple"
+ },
+ "simulans": {
+  "zh": "拉丁文 simulans（模拟的、伪装的）",
+  "en": "Latin simulans (imitating)",
+  "es": "Del latín simulans (que imita)"
+ },
+ "simulatus": {
+  "zh": "拉丁文 simulatus（模拟的）",
+  "en": "Latin simulatus (imitated)",
+  "es": "Del latín simulatus (imitado)"
+ },
+ "sinabangensis": {
+  "zh": "以地名 Sinabang（锡纳邦岛，印度尼西亚）命名",
+  "en": "Named after Sinabang (island, Indonesia)",
+  "es": "Por Sinabang (isla, Indonesia)"
+ },
+ "sinaicus": {
+  "zh": "以地名 Sinai（西奈半岛，埃及）命名",
+  "en": "Named after Sinai (peninsula, Egypt)",
+  "es": "Por Sinaí (península, Egipto)"
+ },
+ "sindensis": {
+  "zh": "以地名 Sind（信德，巴基斯坦）命名",
+  "en": "Named after Sind (Pakistan)",
+  "es": "Por Sind (Pakistán)"
+ },
+ "sinensis": {
+  "zh": "拉丁文 Sinensis（中国的）",
+  "en": "Latin Sinensis (of China)",
+  "es": "Del latín Sinensis (de China)"
+ },
+ "singaporensis": {
+  "zh": "以地名 Singapore（新加坡）命名",
+  "en": "Named after Singapore",
+  "es": "Por Singapur"
+ },
+ "singaporiensis": {
+  "zh": "以地名 Singapore（新加坡）命名",
+  "en": "Named after Singapore",
+  "es": "Por Singapur"
+ },
+ "singsiti": {
+  "zh": "以人名 Singsit（印度曼尼普尔姓氏）命名",
+  "en": "Named after a person \"Singsit\" (Manipuri surname)",
+  "es": "En honor de una persona «Singsit» (apellido manipurí)"
+ },
+ "sinhalensis": {
+  "zh": "以地名 Sinhala（僧伽罗，斯里兰卡）命名",
+  "en": "Named after Sinhala (Sri Lanka)",
+  "es": "Por Sinhala (Sri Lanka)"
+ },
+ "sinicus": {
+  "zh": "以地名 新疆 命名",
+  "en": "Named after the locality Sin",
+  "es": "Por la localidad de Sin"
+ },
+ "sinomalatus": {
+  "zh": "拉丁文/希腊文 sinomal（中国）+ atus（具），指中国具",
+  "en": "From sinomal (中国) + atus (具)",
+  "es": "De sinomal (China) + atus (que posee)"
+ },
+ "sinuosus": {
+  "zh": "拉丁文/希腊文 sinu（波曲）+ osus（多、充满），指波曲多、充满",
+  "en": "From sinu (波曲) + osus (多、充满)",
+  "es": "De sinu (ondulado) + osus (abundante, lleno de)"
+ },
+ "sisiri": {
+  "zh": "以人名 Sisir（印度人名）命名",
+  "en": "Named after a person \"Sisir\" (Indian name)",
+  "es": "En honor de una persona «Sisir» (nombre indio)"
+ },
+ "sistaniensis": {
+  "zh": "以地名 锡斯坦（伊朗） 命名",
+  "en": "Named after the locality Sistan",
+  "es": "Por la localidad de Sistán"
+ },
+ "sjostedti": {
+  "zh": "以人名 Sjöstedt 命名（瑞典昆虫学家 Y. Sjöstedt）",
+  "en": "Named after the entomologist Y. Sjöstedt",
+  "es": "En honor del entomólogo Y. Sjöstedt"
+ },
+ "smeathmani": {
+  "zh": "以人名 Smeathman（Henry Smeathman，英国博物学家）命名",
+  "en": "Named after Henry Smeathman (English naturalist)",
+  "es": "En honor de Henry Smeathman (naturalista inglés)"
+ },
+ "smithi": {
+  "zh": "以人名 smith 命名（昆虫学家 F. Smith）",
+  "en": "Named after 昆虫学家 F. Smith",
+  "es": "En honor del entomólogo F. Smith"
+ },
+ "snyderi": {
+  "zh": "以人名 Snyder 命名（美国白蚁学家 T. E. Snyder）",
+  "en": "Named after the termite taxonomist T. E. Snyder",
+  "es": "En honor del taxónomo de termitas T. E. Snyder"
+ },
+ "socialis": {
+  "zh": "拉丁文 socialis（群居的、社会的）",
+  "en": "Latin socialis (social)",
+  "es": "Del latín socialis (social)"
+ },
+ "socotrensis": {
+  "zh": "以地名 索科特拉（也门） 命名",
+  "en": "Named after the locality Socotr",
+  "es": "Por la localidad de Socotra"
+ },
+ "solidimandibulas": {
+  "zh": "拉丁文 solidus（坚实）+ mandibula（上颚），坚颚",
+  "en": "Latin solidus (solid) + mandibula (mandible), solid-mandibled",
+  "es": "Del latín solidus (sólido) + mandibula (mandíbula), de mandíbulas sólidas"
+ },
+ "solidus": {
+  "zh": "拉丁文 solidus（坚实的）",
+  "en": "Latin solidus (solid)",
+  "es": "Del latín solidus (sólido)"
+ },
+ "solomonensis": {
+  "zh": "以地名 所罗门 命名",
+  "en": "Named after the locality Solomon",
+  "es": "Por las islas Salomón"
+ },
+ "somaliensis": {
+  "zh": "以地名 索马里 命名",
+  "en": "Named after Somalia",
+  "es": "Por Somalia"
+ },
+ "songtaoensis": {
+  "zh": "以地名 松桃（贵州） 命名",
+  "en": "Named after the locality Songtao",
+  "es": "Por la localidad de Songtao"
+ },
+ "sonneratiae": {
+  "zh": "以海桑属（Sonneratia）命名",
+  "en": "After the plant genus Sonneratia",
+  "es": "Por el género de plantas Sonneratia"
+ },
+ "sordidus": {
+  "zh": "拉丁文/希腊文词根「sordid」（污浊）",
+  "en": "From the descriptive term 'sordid' (sordid)",
+  "es": "Del término descriptivo «sordid» (sórdido)"
+ },
+ "sordwanae": {
+  "zh": "以索德瓦纳（Sodwana，南非）命名",
+  "en": "Named after Sodwana (South Africa)",
+  "es": "Por Sodwana (Sudáfrica)"
+ },
+ "sorex": {
+  "zh": "拉丁文 sorex（鼩鼱）",
+  "en": "Latin sorex (shrew)",
+  "es": "Del latín sorex (musaraña)"
+ },
+ "sowerbyi": {
+  "zh": "以人名 Sowerby（A. de C. Sowerby，英国博物学家，在华采集）命名",
+  "en": "Named after A. de C. Sowerby (British naturalist, collector in China)",
+  "es": "En honor de A. de C. Sowerby (naturalista británico, colector en China)"
+ },
+ "soyeri": {
+  "zh": "以 M. L. Soyer 命名，比属刚果国家农艺研究所（INEAC）伊丽莎白维尔地区主任，与其夫人 L. Soyer-Poskin 共同协助作者研究白蚁。",
+  "en": "Named in honor of M. L. Soyer, Directeur Régional de l'Institut National pour l'Étude Agronomique du Congo Belge, Elisabethville.",
+  "es": "En honor de M. L. Soyer, director regional del Institut National pour l’Étude Agronomique du Congo Belge, Elisabethville"
+ },
+ "spathifrons": {
+  "zh": "拉丁文/希腊文 spathi（匙）+ frons（额），指匙额",
+  "en": "From spathi (匙) + frons (额)",
+  "es": "De spathi (cuchara) + frons (frente)"
+ },
+ "speciosus": {
+  "zh": "拉丁文 speciosus（华丽的、美丽的）",
+  "en": "Latin speciosus (beautiful, showy)",
+  "es": "Del latín speciosus (hermoso, vistoso)"
+ },
+ "spectabilis": {
+  "zh": "拉丁文 spectabilis（壮观的、显著的）",
+  "en": "Latin spectabilis (spectacular)",
+  "es": "Del latín spectabilis (espectacular)"
+ },
+ "speiseri": {
+  "zh": "以人名 Speiser 命名（可能为 Paul Speiser，德国昆虫学家）",
+  "en": "Named after a person \"Speiser\" (possibly Paul Speiser, German entomologist)",
+  "es": "En honor de una persona «Speiser» (posiblemente Paul Speiser, entomólogo alemán)"
+ },
+ "speratus": {
+  "zh": "拉丁文 speratus（被期望的）",
+  "en": "Latin speratus (hoped for)",
+  "es": "Del latín speratus (esperado)"
+ },
+ "sphaerothorax": {
+  "zh": "拉丁文/希腊文 sphaero（球）+ thorax（胸），指球胸",
+  "en": "From sphaero (球) + thorax (胸)",
+  "es": "De sphaero (esfera) + thorax (tórax)"
+ },
+ "sphenocephalus": {
+  "zh": "拉丁文/希腊文词根「sph」（球）",
+  "en": "From the descriptive term 'sph' (sphere)",
+  "es": "Del término descriptivo «sph» (esfera)"
+ },
+ "spiculatus": {
+  "zh": "拉丁文 spiculatus（具细刺的）",
+  "en": "Latin spiculatus (pointed, spiculate)",
+  "es": "Del latín spiculatus (puntiagudo, espiculado)"
+ },
+ "spinatus": {
+  "zh": "拉丁文/希腊文 spin（刺）+ atus（具），指刺具",
+  "en": "From spin (刺) + atus (具)",
+  "es": "De spin (espina) + atus (que posee)"
+ },
+ "spinicollis": {
+  "zh": "拉丁文/希腊文 spini（刺）+ collis（颈），指刺颈",
+  "en": "From spini (刺) + collis (颈)",
+  "es": "De spini (espina) + collis (cuello)"
+ },
+ "spinifer": {
+  "zh": "拉丁文 spina（刺）+ -fer（具），具刺",
+  "en": "Latin spina (spine) + -fer (bearing), spiny",
+  "es": "Del latín spina (espina) + -fer (que lleva), espinoso"
+ },
+ "spiniger": {
+  "zh": "拉丁文/希腊文 spini（刺）+ ger（具），指刺具",
+  "en": "From spini (刺) + ger (具)",
+  "es": "De spini (espina) + ger (que lleva)"
+ },
+ "spininotus": {
+  "zh": "拉丁文/希腊文 spini（刺）+ notus（背），指刺背",
+  "en": "From spini (刺) + notus (背)",
+  "es": "De spini (espina) + notus (dorso)"
+ },
+ "spinitibialis": {
+  "zh": "拉丁文/希腊文 spini（刺）+ tibialis（胫），指刺胫",
+  "en": "From spini (刺) + tibialis (胫)",
+  "es": "De spini (espina) + tibialis (tibial)"
+ },
+ "spinocephalus": {
+  "zh": "拉丁文/希腊文词根「spin」（刺）",
+  "en": "From the descriptive term 'spin' (spine)",
+  "es": "Del término descriptivo «spin» (espina)"
+ },
+ "spinosus": {
+  "zh": "拉丁文 spinosus（多刺）",
+  "en": "Latin spinosus (spiny)",
+  "es": "Del latín spinosus (espinoso)"
+ },
+ "spinulatus": {
+  "zh": "拉丁文/希腊文 spinul（细刺）+ atus（具），指细刺具",
+  "en": "From spinul (细刺) + atus (具)",
+  "es": "De spinul (espina fina) + atus (que posee)"
+ },
+ "spissus": {
+  "zh": "拉丁文 spissus（浓密的、稠密的）",
+  "en": "Latin spissus (dense)",
+  "es": "Del latín spissus (denso)"
+ },
+ "splendens": {
+  "zh": "拉丁文/希腊文词根「splend」（光彩）",
+  "en": "From the descriptive term 'splend' (splendid)",
+  "es": "Del término descriptivo «splend» (espléndido)"
+ },
+ "splendidus": {
+  "zh": "拉丁文/希腊文词根「splendid」（华丽）",
+  "en": "From the descriptive term 'splendid' (splendid)",
+  "es": "Del término descriptivo «splendid» (espléndido)"
+ },
+ "spoliator": {
+  "zh": "拉丁文 spoliator（掠夺者）",
+  "en": "Latin spoliator (plunderer)",
+  "es": "Del latín spoliator (saqueador)"
+ },
+ "stanleyvillensis": {
+  "zh": "以地名 斯坦利维尔（刚果） 命名",
+  "en": "Named after the locality Stanleyvill",
+  "es": "Por la localidad de Stanleyville"
+ },
+ "stenopronos": {
+  "zh": "拉丁文/希腊文词根「sten」（窄）",
+  "en": "From the descriptive term 'sten' (narrow)",
+  "es": "Del término descriptivo «sten» (estrecho)"
+ },
+ "stephensoni": {
+  "zh": "以人名 Stephenson 命名（具体指代待考）",
+  "en": "Named after a person \"Stephenson\" (identity unconfirmed)",
+  "es": "En honor de una persona «Stephenson» (identidad no confirmada)"
+ },
+ "stercophilus": {
+  "zh": "希腊文 sterko（粪）+ philos（爱），喜粪",
+  "en": "Greek sterko (dung) + philos (loving), dung-loving",
+  "es": "Griego sterko (estiércol) + philos (amante de), amante del estiércol"
+ },
+ "stercorivorus": {
+  "zh": "拉丁文 stercus（粪）+ vorus（食），食粪",
+  "en": "Latin stercus (dung) + vorus (eating), dung-eating",
+  "es": "Latín stercus (estiércol) + vorus (que come), que come estiércol"
+ },
+ "stolidus": {
+  "zh": "拉丁文 stolidus（迟钝的）",
+  "en": "Latin stolidus (dull)",
+  "es": "Latín stolidus (romo)"
+ },
+ "strenuus": {
+  "zh": "拉丁文 strenuus（强健的、奋发的）",
+  "en": "Latin strenuus (vigorous)",
+  "es": "Latín strenuus (vigoroso)"
+ },
+ "striatus": {
+  "zh": "拉丁文 striatus（具条纹）",
+  "en": "Latin striatus (striped)",
+  "es": "Latín striatus (estriado)"
+ },
+ "stricticeps": {
+  "zh": "拉丁文 strictus（紧、直）+ -ceps（头），紧头",
+  "en": "Latin strictus (tight) + -ceps (head), tight-headed",
+  "es": "Latín strictus (apretado) + -ceps (cabeza), de cabeza apretada"
+ },
+ "strictinasus": {
+  "zh": "拉丁文 strictus（紧、直）+ nasus（鼻），紧鼻",
+  "en": "Latin strictus (tight) + nasus (nose), tight-nosed",
+  "es": "Latín strictus (apretado) + nasus (nariz), de nariz apretada"
+ },
+ "strunckii": {
+  "zh": "以人名 Strunck 命名（具体指代待考）",
+  "en": "Named after a person \"Strunck\" (identity unconfirmed)",
+  "es": "En honor de una persona «Strunck» (identidad no confirmada)"
+ },
+ "subaquilus": {
+  "zh": "拉丁文/希腊文词根「sub」（下、近）",
+  "en": "From the descriptive term 'sub' (sub-)",
+  "es": "Del término descriptivo «sub» (sub-)"
+ },
+ "subcrenulatus": {
+  "zh": "拉丁文/希腊文 subcrenul（下、近）+ atus（具），指下、近具",
+  "en": "From subcrenul (下、近) + atus (具)",
+  "es": "De subcrenul (abajo, cerca) + atus (que tiene)"
+ },
+ "subfusciceps": {
+  "zh": "拉丁文/希腊文 subfusci（下、近）+ ceps（头），指下、近头",
+  "en": "From subfusci (下、近) + ceps (头)",
+  "es": "De subfusci (abajo, cerca) + ceps (cabeza)"
+ },
+ "subhyalinus": {
+  "zh": "拉丁文/希腊文 subhyal（下、近）+ inus（相关），指下、近相关",
+  "en": "From subhyal (下、近) + inus (相关)",
+  "es": "De subhyal (abajo, cerca) + inus (relativo a)"
+ },
+ "subinteger": {
+  "zh": "拉丁文/希腊文 subinte（下、近）+ ger（具），指下、近具",
+  "en": "From subinte (下、近) + ger (具)",
+  "es": "De subinte (abajo, cerca) + ger (que tiene)"
+ },
+ "subligulosus": {
+  "zh": "拉丁文/希腊文 subligul（下、近）+ osus（多、充满），指下、近多、充满",
+  "en": "From subligul (下、近) + osus (多、充满)",
+  "es": "De subligul (abajo, cerca) + osus (abundante, lleno de)"
+ },
+ "sublongicapitatus": {
+  "zh": "拉丁文/希腊文 sublongicapit（下、近）+ atus（具），指下、近具",
+  "en": "From sublongicapit (下、近) + atus (具)",
+  "es": "De sublongicapit (abajo, cerca) + atus (que tiene)"
+ },
+ "submissus": {
+  "zh": "拉丁文/希腊文词根「sub」（下、近）",
+  "en": "From the descriptive term 'sub' (sub-)",
+  "es": "Del término descriptivo «sub» (sub-)"
+ },
+ "subterraneus": {
+  "zh": "拉丁文 subterraneus（地下的）",
+  "en": "Latin subterraneus (subterranean)",
+  "es": "Latín subterraneus (subterráneo)"
+ },
+ "subtibetanus": {
+  "zh": "拉丁文 sub（下、近）＋Tibet（西藏），指近西藏的",
+  "en": "Latin sub (below, near) + Tibet: near Tibet",
+  "es": "Latín sub (debajo, cerca) + Tibet: cercano al Tíbet"
+ },
+ "subtibialis": {
+  "zh": "拉丁文/希腊文 sub（下、近）+ tibialis（胫），指下、近胫",
+  "en": "From sub (下、近) + tibialis (胫)",
+  "es": "De sub (abajo, cerca) + tibialis (tibia)"
+ },
+ "subtilis": {
+  "zh": "拉丁文/希腊文 subt（下、近）+ ilis（相关），指下、近相关",
+  "en": "From subt (下、近) + ilis (相关)",
+  "es": "De subt (abajo, cerca) + ilis (relativo a)"
+ },
+ "subulatus": {
+  "zh": "拉丁文/希腊文 subul（下、近）+ atus（具），指下、近具",
+  "en": "From subul (下、近) + atus (具)",
+  "es": "De subul (abajo, cerca) + atus (que tiene)"
+ },
+ "subulioides": {
+  "zh": "拉丁文/希腊文 subuli（下、近）+ oides（似），指下、近似",
+  "en": "From subuli (下、近) + oides (似)",
+  "es": "De subuli (abajo, cerca) + oides (semejante a)"
+ },
+ "succineus": {
+  "zh": "拉丁文 succineus（琥珀色的）",
+  "en": "Latin succineus (amber-coloured)",
+  "es": "Latín succineus (de color ámbar)"
+ },
+ "sudanensis": {
+  "zh": "以地名 苏丹 命名",
+  "en": "Named after the locality Sudan",
+  "es": "Por la localidad de Sudán"
+ },
+ "sudanicus": {
+  "zh": "以地名 苏丹 命名",
+  "en": "Named after the locality Sudan",
+  "es": "Por la localidad de Sudán"
+ },
+ "sugioi": {
+  "zh": "以人名 Sugio（Koji Sugio，日本昆虫学家）命名",
+  "en": "Named after Professor Koji Sugio (Japanese entomologist)",
+  "es": "En honor del profesor Koji Sugio (entomólogo japonés)"
+ },
+ "sui": {
+  "zh": "以人名 Sui/Su（隋/苏，中国姓氏）命名",
+  "en": "Named after a person \"Sui/Su\" (Chinese surname)",
+  "es": "En honor de una persona «Sui/Su» (apellido chino)"
+ },
+ "sukauensis": {
+  "zh": "以地名 苏高（马来西亚） 命名",
+  "en": "Named after the locality Sukau",
+  "es": "Por la localidad de Sukau"
+ },
+ "suknensis": {
+  "zh": "以地名 Sukna（苏克纳，印度西孟加拉邦大吉岭县）命名",
+  "en": "Named after the locality Sukna (Darjeeling district, West Bengal, India)",
+  "es": "Por la localidad de Sukna (distrito de Darjeeling, Bengala Occidental, India)"
+ },
+ "sulcatus": {
+  "zh": "拉丁文 sulcatus（具沟的）",
+  "en": "Latin sulcatus (grooved)",
+  "es": "Latín sulcatus (surcado)"
+ },
+ "sulcifrons": {
+  "zh": "拉丁文 sulcus（沟）+ frons（额），沟额",
+  "en": "Latin sulcus (groove) + frons (front), grooved-fronted",
+  "es": "Latín sulcus (surco) + frons (frente), de frente surcada"
+ },
+ "sulphureus": {
+  "zh": "拉丁文 sulphureus（硫黄色的）",
+  "en": "Latin sulphureus (sulphur-yellow)",
+  "es": "Latín sulphureus (amarillo azufre)"
+ },
+ "sumatrensis": {
+  "zh": "以地名 苏门答腊 命名",
+  "en": "Named after the locality Sumatr",
+  "es": "Por la localidad de Sumatra"
+ },
+ "sunteri": {
+  "zh": "以人名 Sunter 命名（具体指代待考）",
+  "en": "Named after a person \"Sunter\" (identity unconfirmed)",
+  "es": "En honor de una persona «Sunter» (identidad no confirmada)"
+ },
+ "superans": {
+  "zh": "拉丁文/希腊文词根「super」（上）",
+  "en": "From the descriptive term 'super' (above)",
+  "es": "Del término descriptivo «super» (arriba)"
+ },
+ "surinamensis": {
+  "zh": "以地名 苏里南 命名",
+  "en": "Named after the locality Surinam",
+  "es": "Por la localidad de Surinam"
+ },
+ "susanae": {
+  "zh": "以人名 Susana（女性）命名",
+  "en": "Named after a person \"Susana\" (female name)",
+  "es": "En honor de una persona «Susana» (nombre femenino)"
+ },
+ "suturis": {
+  "zh": "拉丁文 sutura（缝），缝的",
+  "en": "Latin sutura (suture), of the suture",
+  "es": "Latín sutura (sutura), de la sutura"
+ },
+ "sylvaticus": {
+  "zh": "拉丁文 silvaticus（森林的，sylva=森林）",
+  "en": "Latin silvaticus (of the forest, sylva = forest)",
+  "es": "Latín silvaticus (del bosque, sylva = bosque)"
+ },
+ "sylvestris": {
+  "zh": "拉丁文/希腊文词根「sylv」（森林）",
+  "en": "From the descriptive term 'sylv' (forest)",
+  "es": "Del término descriptivo «sylv» (bosque)"
+ },
+ "siculus": {
+  "zh": "拉丁文 siculus（西西里岛的，Sicilia=西西里岛）",
+  "en": "Latin siculus (of Sicily)",
+  "es": "Del latín siculus (de Sicilia)"
+ },
+ "supera": {
+  "zh": "拉丁文 supera（上方的、较高的）",
+  "en": "Latin supera (upper, higher)",
+  "es": "Del latín supera (superior, más alto)"
+ },
+ "sabahicola": {
+  "zh": "以地名 Sabah（沙巴，马来西亚）＋拉丁文 -cola（栖）命名，指沙巴栖",
+  "en": "Named after Sabah (Malaysia) + Latin -cola (dweller)",
+  "es": "Por Sabah (Malasia) + latín -cola (habitante)"
+ }
+}

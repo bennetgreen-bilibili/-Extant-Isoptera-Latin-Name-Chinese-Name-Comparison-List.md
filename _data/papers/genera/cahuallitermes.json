@@ -1,0 +1,36 @@
+{
+ "fetched_at": "2026-10-30T15:49:52Z",
+ "latin": "Cahuallitermes",
+ "papers": [
+  {
+   "abstract": "Las termitas son insectos importantes por su participación en la descomposición de la materia orgánica y el reciclaje de los nutrientes en el suelo, sin embargo, algunas especies causan daños en edificaciones, plantaciones forestales y cultivos agrícolas, donde ocasionan pérdidas significativas. El objetivo de este estudio fue realizar un listado comentado con claves de identificación para las especies de termitas presentes en los sistemas agroforestales y relictos de selva en el Estado de Tabasco, México. La recolecta de las termitas se realizó en 20 sitios distribuidos en las principales zonas forestales de Tabasco, México. El muestreo fue dirigido seleccionando 15 transectos de 10x50 m por cada tipo de vegetación. Se identificaron ocho especies de termitas de las cuales Nasutitermes nigriceps (Haldeman, 1854) y N. corniger (Motschulsky, 1855) estuvieron presente en todas las zonas forestales, seguido de Coptotermes testaceus (Linnaeus, 1758) y Heterotermes convexinotatus (Snyder, 1924). Las especies Microcerotermes septentrionalis Light, 1933, Tenuirostritermes briciae (Snyder, 1922), Cahuallitermes intermedius (Snyder, 1922) e Incisitermes snyderi Light, 1933 solo se recolectaron en una localidad. Se reportan como nuevos registros para Tabasco a las especies T. briciae y M. septentrionalis.",
+   "abstract_chars": 1315,
+   "abstract_source": "openalex",
+   "abstract_truncated": false,
+   "authors": [
+    "Eduardo Capetillo-Concepción",
+    "Manuel Pérez de la Cruz",
+    "Jorge Manuel Valdez-Carrasco",
+    "Aracely De la Cruz-Pérez",
+    "Magdiel Torres-de la Cruz",
+    "Miguel Alberto Magaña Alejandro"
+   ],
+   "cited_by": 2,
+   "date": "2023-05-12",
+   "doi": "10.21829/azm.2023.3912561",
+   "doi_url": "https://doi.org/10.21829/azm.2023.3912561",
+   "id": "https://openalex.org/W4382343641",
+   "issue": "",
+   "language": "es",
+   "oa_url": "https://azm.ojs.inecol.mx/index.php/azm/article/download/2561/3050",
+   "openalex_url": "https://openalex.org/W4382343641",
+   "pages": "1-22",
+   "title": "Lista comentada con clave para la identificación de termitas (Blattodea: Isoptera) asociadas a las zonas forestales de Tabasco, México",
+   "type": "article",
+   "venue": "ACTA ZOOLÓGICA MEXICANA (N S )",
+   "volume": "",
+   "year": 2023
+  }
+ ],
+ "zh": "弃白蚁属"
+}

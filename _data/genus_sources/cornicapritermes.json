@@ -1,0 +1,31 @@
+{
+ "latin": "Cornicapritermes",
+ "zh": "角扭白蚁属",
+ "family": "termitidae",
+ "treatise": true,
+ "citation": "Cornicapritermes Emerson, 1950: 13–15.",
+ "type_species": "Cornicapritermes mucronatus Emerson, 1950 by monotypy.",
+ "references": [
+  {
+   "ref": "Krishna, 1968: 308–310",
+   "note": "Cornicapritermes; synonymy; key; characters; phylogeny; species included; distribution."
+  },
+  {
+   "ref": "Morimoto, 1975b: 30",
+   "note": "Cornicapritermes; key."
+  },
+  {
+   "ref": "Mill, 1983a: 180, 182",
+   "note": "Cornicapritermes; key; number of species in New World; habitat; distribution."
+  },
+  {
+   "ref": "Constantino, 1999a: 405, 418",
+   "note": "Cornicapritermes; key; biology; distribution."
+  },
+  {
+   "ref": "Constantino, 2002a: 22",
+   "note": "Cornicapritermes; key."
+  }
+ ],
+ "nrefs": 13
+}

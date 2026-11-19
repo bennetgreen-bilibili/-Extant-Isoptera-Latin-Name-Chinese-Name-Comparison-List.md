@@ -1,0 +1,24 @@
+{
+ "Syncapritermes greeni": {
+  "gbif": {
+   "key": 9775046,
+   "status": "ACCEPTED",
+   "match": "EXACT",
+   "confidence": 100,
+   "rank": "SPECIES",
+   "name": "Syncapritermes greeni (John, 1925)",
+   "accepted": null
+  },
+  "col": {
+   "id": "7B7CL",
+   "status": "accepted",
+   "label": "Syncapritermes greeni (John, 1925)",
+   "type": "variant",
+   "rank": "species",
+   "accepted": null
+  },
+  "wd": "Q140073781",
+  "flags": [],
+  "_d": "2026-10-28"
+ }
+}
