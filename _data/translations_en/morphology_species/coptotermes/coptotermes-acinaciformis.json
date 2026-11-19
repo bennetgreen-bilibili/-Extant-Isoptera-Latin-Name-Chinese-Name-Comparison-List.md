@@ -1,0 +1,17 @@
+{
+ "note": "Hill (1926) compiled measurements and variation from all castes of 12 colonies in Australia, the most complete measurement record before Hill’s (1942) monograph; the original used “°” as the decimal point, restored here. The soldier head width is given in the original as “1.14—1.88, rarely over 1.19”, which is self-contradictory and suspected to be an OCR misreading; the entry records it as 1.14—1.19 with a note. This species is the most widespread and most destructive Coptotermes in Australia, and its infraspecific variation has been discussed many times since.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Measurements (mm) of 12 colonies (all castes included): body length including wings 11.50—13.00; excluding wings 6.00—7.00; head length to the tip of the labrum 1.36—1.48; head length to the frontoclypeal suture 0.91—1.02; head width 1.19—1.31; eye diameter 0.340—0.408, mostly 0.340; ocellus 0.102—0.136 (also recorded as 0.119—0.187); pronotum length 0.68—0.85, mostly 0.74; pronotum width 1.14—1.22, mostly 1.14; forewing length 8.75—9.50, mostly 9.25; forewing width 2.73—3.00, mostly 2.85; hind tibia length 0.97—1.25; antennae 18—21-segmented, mostly 19-segmented (the type series records 17, an exception). The Banks Island population has the highest antennal segment count and the largest eye diameter."
+  },
+  {
+   "label": "Soldier",
+   "text": "Measurements (mm): body length 5.00—5.30; head length including mandibles 2.28—2.73, usually about 2.50; head length to the tip of the labrum 1.76—2.16, usually about 1.88; head length to the fontanelle opening 1.31—1.53, usually about 1.42; head width 1.14—1.19 (the original also records an upper limit of 1.88, probably an error); width of the postmentum at its narrowest 0.204—0.272, usually about 0.255; inner diameter of the fontanelle opening 0.102—0.136 (the original also records 1.19 as the usual value, clearly a misreading); pronotum length 0.45—0.53, usually about 0.50; width 0.80—0.96, usually about 0.91; hind tibia length 0.91—1.10, usually about 1.02; antennae 15—17-segmented, mostly 16-segmented (the type series records 18). Individuals within a colony differ little; soldiers and workers from different nests often vary in body size and antennal segment count, and the author regarded these as local races."
+  },
+  {
+   "label": "Other",
+   "text": "Distribution: widespread in Australia (based on specimens from more than 90 nests, including northern Queensland, the Northern Territory and adjacent islands). The nest has a clay envelope containing a compact mass of wood fragments resembling a jigsaw puzzle; it is the termite most damaging to living trees, and eucalypts in many areas are almost universally attacked. The distinction from C. lacteus is given under that species."
+  }
+ ]
+}

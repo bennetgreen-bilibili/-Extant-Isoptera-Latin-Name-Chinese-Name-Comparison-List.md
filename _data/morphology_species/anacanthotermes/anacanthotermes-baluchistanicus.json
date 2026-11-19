@@ -1,0 +1,25 @@
+{
+ "zh_name": "俾路支无刺白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "二型。大型兵蚁：头红褐色，略呈方形，两侧近于平行，中部具一浅凹（头长至上颚基 4.17、最大宽 3.53 mm）；具 Y 形缝；生有多数中等长度的毛。前唇基梯形；后唇基分化不明显；上唇宽大于长，遍生毛，前端的毛较长。触角 23 节。复眼与单眼小。上颚粗壮（长 2.71 mm），边缘齿发达。后颏长（长 2.91、最大宽 1.02、最小宽 0.87 mm），平坦，两侧近于平行。前胸背板前部略隆起而凸，后缘中部深凹。跗节 4 节。小型兵蚁：大体同大型兵蚁而较小（头长至上颚基 3.20、头最大宽 2.91 mm）；触角 25 节；后颏两侧呈波状；前胸背板后缘仅具一弱凹缺。"
+  },
+  {
+   "label": "工蚁",
+   "text": "Akhtar 未作描述，仅图示上颚：上颚具 2 枚边缘齿（左上颚两齿相距较远，右上颚两齿靠近）。"
+  },
+  {
+   "label": "其他",
+   "text": "分布：巴基斯坦，仅知模式产地俾路支 Chaman。习性：危害原木，在木材内筑纵向坑道。命名注记：1972 年 Chaudhry and Ahmad 首次使用该名时未作描述（nomen nudum），1974 年 Akhtar 在 Biologia（Lahore）20: 17–40 正式描述兵蚁与工蚁，正模兵蚁存拉合尔旁遮普大学动物系。原文注明有翅成虫未知。"
+  }
+ ],
+ "note": "据 Roonwal & Chhotani 1997 改写；原文英文。原书标注有翅成虫未知（Imago: Unknown）。",
+ "sources": [
+  {
+   "id": "S0561",
+   "citation": "Roonwal M. L.; Chhotani O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume I. Zoological Survey of India, Calcutta.",
+   "locator": "条目（The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-I）p. 144–146"
+  }
+ ]
+}

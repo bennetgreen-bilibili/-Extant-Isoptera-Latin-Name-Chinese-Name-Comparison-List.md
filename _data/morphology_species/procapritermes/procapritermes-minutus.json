@@ -1,0 +1,21 @@
+{
+  "zh_name": "小前扭白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "体长 3.5 mm；头长 1 mm、宽 0.7 mm，淡黄白色。触角 14 节，第 2 节长于第 3 或第 4 节，此后渐长至第 8 节（长不及宽的两倍）。上唇白色、小，具两个微小而尖的分叉叶。上颚长 1.2 mm，鬃状，基部略向内向上，左颚略向下弯。后颏向端部较基部宽。前胸背板短，鞍形，前叶短但隆起明显。后足远超出腹端；腹白色；腹部乳突缺如。"
+    },
+    {
+      "label": "工蚁",
+      "text": "体长 3 mm；头色浅；触角 14 节；唇基凸；腹长圆形，颜色随肠内容物。"
+    }
+  ],
+  "note": "据 Haviland (1898) 的原始种级描述改写，原文英语；原文「Male absent」，仅描述兵蚁与工蚁，量度单位为 mm；「Hab. Borneo (Sarawak). Type, No. 570」。",
+  "sources": [
+    {
+      "id": "S0546",
+      "citation": "Haviland, G. D.; 1898. Observations on termites; with descriptions of new species. Journal of the Linnean Society of London (Zoology) 26: 358-442. https://archive.org/details/zoological-journal-of-the-linnean-society_1898_26",
+      "locator": "p. 415—416"
+    }
+  ]
+}

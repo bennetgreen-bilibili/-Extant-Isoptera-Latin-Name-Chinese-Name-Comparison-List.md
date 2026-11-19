@@ -1,0 +1,21 @@
+{
+ "zh_name": "宽颏双齿白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 D. furcatidens（Sjöstedt）副模兵蚁直接对比：本种体色与毛被与之相近；头上颚上基处与触角基前方的突出较弱，侧面轮廓较平、凹度较小；头部前端的凹陷不似 D. jurioni 那样锐。后颏（postmentum）最宽处与最狭处均宽于 D. furcatidens 与 D. jurioni；后颏侧面轮廓中部凸度略小于 D. furcatidens，且后区无横脊或横沟；后颏的缢缩明显较 D. jurioni 深。上颚基部略粗于 D. furcatidens，齿式相似；前胸背板近于 D. furcatidens，前缘切凹略较 D. jurioni 锐。前足基节形状与毛被似 D. jurioni；胫节距与刺似上述两种。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "描述以与同属两种的比较给出：体色与毛被近于 D. furcatidens；头前部（上颚上基与触角基前方）突出较弱，侧面轮廓较平而凹度小；后颏最宽处与最狭处均较宽，缢缩明显，后区无横脊横沟；触角断缺，前 5 节的相对比例同 D. furcatidens；上颚基部略粗、齿式相同，唯正模标本上颚端部折断；前胸背板近 D. furcatidens，前缘切凹略锐；前足基节与胫节距、刺同 D. jurioni。量度（正模兵蚁，毫米）：头长至上颚侧基 2.74；头宽 2.11；头厚 1.62；后颏长 1.52；后颏最大宽 0.89；后颏最小宽 0.54；上唇宽 0.71；左上颚长 1.47；前胸背板长 0.79；前胸背板宽 1.44；后足胫节长 1.65。"
+  }
+ ],
+ "note": "据 Emerson 1959 改写，原文英文（American Museum Novitates No. 1947：The African Termite Genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes）。新种仅据 1 头兵蚁正模描述（无工蚁），1948 年 5 月 20 日由 A. Emerson 采于比属刚果 Epulu 河 Pygmy Camp（Camp Putnam 以北 4 公里，1°24′N，28°36′E）地下坑道，存美国自然历史博物馆；作者说明该标本上颚端部折断。原文描述全以同属两种的对比形式给出，绝对形态量度取自 TABLE 7（三列对照表），本条目只录 D. latimentonis 一列；表中左、右上颚「apex to inside tip of first marginal tooth」两项对本种记「—」（无法测量），未录。图 7E 的后颏轮廓图未译。",
+ "sources": [
+  {
+   "id": "S0034",
+   "citation": "Emerson A. E. 1959. The African Termite Genera Firmitermes, Hoplognathotermes, Acutidentitermes, Duplidentitermes, and Heimitermes (Termitidae, Termitinae). American Museum Novitates No. 1947.",
+   "locator": "pp. 33–34 / emerson-1959-african-genera"
+  }
+ ]
+}

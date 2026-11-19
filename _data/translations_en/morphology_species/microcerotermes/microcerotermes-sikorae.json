@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the original description by Wasmann (1893): the alate in Latin, the soldier and worker in German; covers all three castes. The numbers of antennal segments and of submedian vein branches are damaged in the scan of the original (“8—0”), so only the legible values are recorded. Type locality: Andrangoloaka, Madagascar.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Pitch black, shining, clothed with grey hairs; head dark brown, mesonotum pale yellow, mouthparts, legs and ventral surface of the thorax pale yellow, antennae grey with white rings, 14-segmented. Ocelli medium-sized, about their own diameter from the compound eye. Postclypeus strongly convex with a median longitudinal groove; frons flat, the fontanelle scarcely projecting and not depressed around it. Head large, round, much wider than the thorax; thorax narrow and short, semicircular; appendages at the end of the abdomen short, conical, 2-segmented. Wings short, pale, veins brown; media straight, simple or forked at its apex; submedia giving off several branches; media and submedia fading towards the apex. Body length 6 mm, with wings 11 mm. Paler than related species, notably by a large yellow patch on the mesonotum, the head relatively larger and the thorax smaller, and the wings clearly shorter and paler."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body about the size of Eutermes capricornis, about 6 mm with the mandibles, but the mandibles are quite differently built: head with mandibles nearly 3 mm, of which the mandibles are only 1 mm. Head pale yellow, elongate rectangular, thick, nearly cylindrical, twice as long as wide, eyeless, no distinct fontanelle above the labrum; mandibles only 1/2 the head length, blackish brown, simply knife-shaped, finely toothed on the inner margin, pointed at the apex. Antennae 13-segmented, slightly shorter than the head, the last segment scarcely longer than the penultimate and blunt, the other segments also short, about as long as wide."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 4—5 mm. Head yellow, round; labrum (epistoma) swollen and raised, with a semicircular depression above it bounded in front by a flat, half-moon-shaped white frontal blister; antennae 13-segmented, as long as the head."
+  }
+ ]
+}

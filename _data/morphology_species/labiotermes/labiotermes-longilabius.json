@@ -1,0 +1,17 @@
+{
+ "zh_name": "长唇厚唇白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "有翅成虫：触角 16 节，第 3 节比第 2 节短不到一半。前胸背板比长宽 1/3，后方收窄。量度：连翅体长 19 mm；去翅体长 11 mm。"
+  }
+ ],
+ "note": "据 Silvestri 1901 年《南美白蚁初报》（拉丁文）改写，原文名为 Cornitermes longilabius 新种，仅记载有翅成虫的触角节数、前胸背板形状与体长；模式产地巴西 Coxipò（Cuyabá）。兵蚁与工蚁的描述见作者 1903 年的详报（本条目未据以补写）。",
+ "sources": [
+  {
+   "id": "S0092",
+   "citation": "Silvestri, F. 1901. Nota preliminare sui Termitidi sud-americani. Bollettino dei Musei di Zoologia ed Anatomia comparata della R. Università di Torino 16(389): 1–8.",
+   "locator": "p. 5"
+  }
+ ]
+}

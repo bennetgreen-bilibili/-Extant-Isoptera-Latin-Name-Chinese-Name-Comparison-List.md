@@ -1,0 +1,17 @@
+{
+  "zh_name": "细齿新白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头长形，几为宽的两倍（原文作 60—63∶33）；触角第 3 节与第 2 节长度近乎相等；上颚具极细小的齿。量度（mm）：头宽 2；头长（连上颚）5.75—6。"
+    }
+  ],
+  "note": "据 Sjöstedt 1925 改写；原文德文；原文所记头长∶头宽比值「60—63∶33」与同处所记头宽 2 mm、头连上颚 5.75—6 mm 彼此不符，疑为排印或抽取时漏字，数值未擅改，照原文并存于此。模式产地马达加斯加（Sikora 采），模式标本存斯德哥尔摩博物馆。",
+  "sources": [
+    {
+      "id": "S0516",
+      "citation": "Sjöstedt Y. 1925. Neue Termiten aus Afrika und Madagaskar (Vorläufige Mitteilung). Konowia 4: 53–55.",
+      "locator": "条目（1925）p. 53"
+    }
+  ]
+}

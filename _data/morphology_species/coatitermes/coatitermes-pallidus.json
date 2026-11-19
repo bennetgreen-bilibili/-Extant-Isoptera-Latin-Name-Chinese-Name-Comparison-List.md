@@ -1,0 +1,25 @@
+{
+  "zh_name": "苍白凸鼻白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁体全长 2.45—2.75 mm，在凸鼻白蚁类中属小型。头浅黄禾秆色，象鼻红褐，与头色明显有别；头背面轮廓凸，最宽处在后部，后缘圆，向前渐窄；象鼻圆锥状、粗壮；头被密长毛，象鼻被密短毛；上颚退化，无尖锐的端部。与 N. nigricornis、N. convexifrons 相比体更小、头更窄，而 convexifrons 头上没有密长刚毛；与 N. kartaboensis 相比色更浅、头更宽；与 N. manni 相比色更浅、头更窄，manni 头上同样没有密长刚毛；与 N. mazaruniensis 相比色更浅、头更宽、象鼻更粗，且 mazaruniensis 头前部（至前缘）的长度大于本种。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "触角浅黄，11 节，被短柔毛；第 3 节短于第 2 节或第 4 节；第 4 节以后各节渐长渐宽。前胸背板白而带黄，鞍形，长约等于其宽的三分之一，边缘具长毛。足白而带黄，不甚长，被短柔毛。腹部污灰带黄，密被短毛，各背板基部另有较长的毛。量度：体全长 2.45—2.75 mm，头连鼻长 1.00 mm，鼻长 0.40 mm，前胸背板长 0.10 mm、宽 0.30 mm，后足胫节长 0.47 mm。"
+    },
+    {
+      "label": "其他",
+      "text": "模式产地玻利维亚 Ivón，1922 年 2 月 W. M. Mann 采得大批兵蚁与工蚁；另在 Cachuela Esperanza（Beni River）3 月采到标本。模式兵蚁登记号 U.S.N.M. 27656。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0082",
+      "citation": "Snyder T. E. 1926. Termites collected on the Mulford Biological Exploration to the Amazon Basin, 1921–1922. Proceedings of the United States National Museum 68(14): 1–76.",
+      "locator": "p. 34"
+    }
+  ],
+  "note": "据 Snyder 1926 的英文原始描述改写，原文以「NASUTITERMES (CONVEXITERMES) PALLIDUS, new species」立种，现归入 Coatitermes。原文依据 1922 年 2 月在玻利维亚模式产地所采的一大批兵蚁与工蚁描述，工蚁仅提及而未作形态描述，故无工蚁一节。量度表中「头不连鼻长」与「头宽」两栏在影印件上印作 0.00 mm，属缺项而非实测值，此处不引。"
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Recast from Sjöstedt 1911; the original gives the alate in Latin with a German rendering, and the soldier and worker in German; the original treats the species as Eutermes mirandus Sjöst. (Arkiv för Zoologi Bd. 2, N:r 16, S. 18, described from the soldier). The OCR has run several numbers together: the measurement sentence reads “Exp. alar. 23—24, long. c. alis 12—13, long. ale 10—11 lat. alae 3,1,—3,35, corp. c. cap. 6—8 mm”, read here from the context; the soldier head width is damaged in the characters of the original and is not recorded.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Whole dorsum almost jet black, mesothorax and metathorax extremely glossy; head oval, narrowed anteriorly, with a small dot in the centre; frons nearly concolorous with the head, large, posterior margin strongly curved, anterior margin truncate; eyes medium; ocelli nearly round, separated from the eye by about one eye diameter; left mandibular tooth 1 extremely large; antenna 16 segments, segment 3 smallest; pronotum semicircular, posterior margin emarginate, anterior margin slightly raised, not notched medially; posterior margins of the mesonotum and metanotum bilobed, the anterior lobe rounded and the posterior lobe sharper; wings dark brown, veins distinct; legs dirty yellow tinged brownish yellow; sternites uniform, dirty yellow. Head length about 1/3 longer than the width between the outer margins of the eyes; pronotum narrower than the head, its anterior lobe extremely short. Measurements: wing length 10—11 mm, width 3.1—3.35 mm; body length with head 6—8 mm; body length with wings 12—13 mm; wingspan 23—24 mm."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head pale yellow, short rectangular; frons obliquely truncate, its upper margin raised, the frontal gland depression densely hairy; labrum slightly longer than wide, anterior margin deeply notched, about 1/3 as long as the mandibles; mandibles long and narrow, almost rod-like, slightly S-shaped, thickened above the middle of the inner margin, apex incurved, pale yellow at the base and grading outwards to red-black, about as long as the head; antenna 14 segments; pronotum small, its width about equal to the head width, the anterior lobe shorter than the posterior lobe. Body length with head 7 mm; head with mandibles 3.5—3.9 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Head pale yellow, frontal vesicle large; mandibular tooth 1 large; antenna 15 segments; pronotum saddle-shaped."
+  }
+ ]
+}

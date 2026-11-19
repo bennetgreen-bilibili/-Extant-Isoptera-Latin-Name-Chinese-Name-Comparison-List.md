@@ -1,0 +1,21 @@
+{
+  "zh_name": "阿马尼",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "大型兵蚁：额向后具一明显而短的中脊；触角 17 节。量度（mm）：头长（连上颚）5.31；头宽 3。与 Odontotermes monodon 相似，但头较窄、更呈矩形。"
+    },
+    {
+      "label": "其他",
+      "text": "模式产地：坦桑尼亚 Usambara 山地 Amani，模式标本存斯德哥尔摩博物馆。"
+    }
+  ],
+  "note": "据 Sjöstedt 1925 改写；原文德文；原文只描述大型兵蚁。",
+  "sources": [
+    {
+      "id": "S0516",
+      "citation": "Sjöstedt Y. 1925. Neue Termiten aus Afrika und Madagaskar (Vorläufige Mitteilung). Konowia 4: 53–55.",
+      "locator": "条目（1925）p. 54"
+    }
+  ]
+}

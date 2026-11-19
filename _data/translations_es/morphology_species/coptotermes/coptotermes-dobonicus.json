@@ -1,0 +1,17 @@
+{
+ "note": "Adaptado de Oshima 1914; el original está en inglés; el OCR está defectuoso: el texto de la anchura de la cabeza del soldado está dañado e ilegible en el original, y la longitud del pronoto del soldado figura en el original como «0959» (posiblemente 0,95 o 0,59, indeterminable); ninguno de los dos datos se recoge aquí. Las tres cifras de longitud del cuerpo, anchura de la cabeza y anchura del pronoto del obrero también están dañadas, por lo que la sección del obrero conserva solo caracteres cualitativos. El original no describe el alado.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Cabeza amarillo pálido, mandíbulas pardas, abdomen blanco; cabeza con pocos pelos, terguitos abdominales densamente cubiertos de pelos finos. Cabeza ovalada, algo aplanada; abertura de la fontanela dirigida hacia delante y ligeramente hacia abajo; base del clípeo corta; labro ligulado, terminado en un triángulo transparente que se extiende más allá de la mitad de las mandíbulas; mandíbulas en forma de espada, terminadas en una punta espinosa curvada hacia dentro; antena de 17 segmentos, segmento 3 más corto que el segmento 2; pronoto ancho, con el margen anterior y el posterior cóncavos en el centro. Medidas (mm): longitud del cuerpo 6,00; longitud de la cabeza (con las mandíbulas) 2,69; longitud de la cabeza (sin las mandíbulas) 1,66; anchura del pronoto 1,06."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza y abdomen blancos; cabeza robusta; antena de 16 segmentos, segmento 2 y segmento 3 de igual longitud; margen anterior del pronoto ligeramente cóncavo en el centro, margen posterior redondeado."
+  },
+  {
+   "label": "Otros",
+   "text": "Localidad tipo: Dobo (isla Arue, islas Aru, Nueva Guinea neerlandesa), recolectado por Kanehira el 6 de mayo de 1913 (mes 5). El original señala que el alado es desconocido. Estrechamente relacionado con Coptotermes curvignathus: en esta especie la cabeza del soldado es más larga y la antena tiene 17 segmentos (14—16 en la otra); la antena del obrero tiene 16 segmentos y el segmento 2 y el segmento 3 son de igual longitud (15 segmentos en la otra, con el segmento 2 mucho más largo que el segmento 3)."
+  }
+ ]
+}

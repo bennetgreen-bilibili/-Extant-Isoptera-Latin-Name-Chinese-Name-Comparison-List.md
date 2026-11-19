@@ -1,0 +1,17 @@
+{
+ "note": "After Haviland 1898 original description (published as TERMES ACICULATUS, in the text following the key to the species of Sarawak). The original describes only three castes, nymph, soldier and worker, and no alate; the title lacks \"n. sp.\" and no plate number is given, so whether it was a new species of that year or a supplementary description of a known species is not stated in the original. The original was extracted by OCR from the BHL/Zenodo scan; duplication of the double pages of the microfilm produced repeated strings such as \"426426\" in the running heads, and a few word forms are erroneous (Gwula=Gula, Antenne=Antennae), checked against the context.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Body length 3.5 mm, slender. Head width 0.8 mm, pale yellowish white (ochroleucous). Antennae 12-segmented, segment 3 shorter than segment 2. Rostrum slender, much shorter than the head. Mandibles reduced. Postmentum length almost equal to width. Pronotum saddle-shaped, the anterior lobe raised but extremely short. Hind legs not reaching the abdominal apex. Abdomen long-oval. Abdominal papillae absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 4 mm, slender. Head pale yellowish white. Antennae 14-segmented. Abdomen long-oval."
+  },
+  {
+   "label": "Other",
+   "text": "Nymph antennae 14-segmented. Distribution: Borneo (Sarawak). Type specimen No. 447."
+  }
+ ]
+}

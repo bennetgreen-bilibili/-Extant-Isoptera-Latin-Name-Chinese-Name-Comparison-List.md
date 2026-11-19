@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from Light & Wilson 1936, whose soldier part restates Oshima's 1916 original description and figures; the original is in English; the measurement lines were re-paired, the original reading in order 'Length of body 4.00 / Length of head with rostrum 1.56 / Length of head 0.90 / Width of head 0.93 / Width of pronotum 0.46'.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head pale brown, the rostrum darker; abdominal tergites pale yellowish white, weakly sclerotised. Head elongate, pear-shaped, with a distinct constriction; dorsal outline nearly concave; rostrum slender, conical, relatively long, the head—rostrum index (head length / length of head with rostrum) less than 0.73 (after Oshima's measurements). Antenna 12-segmented, segments 2—4 subequal in length. Measurements (mm, 1 soldier, measured by Oshima): body length 4.00; length of head with rostrum 1.56; head length 0.90; head width 0.93; pronotum width 0.46."
+  },
+  {
+   "label": "Worker",
+   "text": "The base of the postclypeus is shorter than half its width (the only item of the Oshima description quoted in the original)."
+  },
+  {
+   "label": "Other",
+   "text": "Oshima 1916 described the species from material collected by McGregor in Laguna Province, Luzon, and referred one dealate individual to it; Light & Wilson pointed out that in this dealate specimen the pronotum is distinctly wider than the head and the forewing stubs cover the anterior half of the metanotum, so it should be Rhinotermitidae (probably Schedorhinotermes), and the alate of this species therefore remains unknown. The material of the same name recorded by Oshima 1920 from Antique Province, Panay Island, is in fact his N. panayensis."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+  "zh_name": "阿肯土白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "大型兵蚁：头红黄色，两侧几乎平直而平行；触角第 3 节长于第 4 节而短于第 2 节；触角基后方有黑色眼点；上唇具数根长刚毛，上颚闭合时上唇伸达左上颚的齿；上颚深红褐色，基部色较浅；前胸背板前缘明显凹入。量度（mm）：头长 3.20—3.21，头宽 1.51，前胸背板长 0.58—0.61，前胸背板宽 0.96，后足胫节长 1.19，左上颚长 1.12。小型兵蚁：原文认为可能只是大型兵蚁的变异而非独立的品级。头长 2.90，头宽 1.28，前胸背板宽 0.87，后足胫节长 1.12，左上颚长 0.96 mm。"
+    },
+    {
+      "label": "工蚁",
+      "text": "触角 17 节；头宽 1.45 mm。原文未作其他描述。"
+    },
+    {
+      "label": "鉴别要点",
+      "text": "与 T. pauperans Silvestri 极近，但头两侧更平行、前部收狭不如后者明显、上唇可伸达左上颚的齿。Silvestri 曾检查本种标本，认为它只是 T. stercorivorus 的一个变种；但 T. stercorivorus 头两侧弯曲更强。T. tanganicus 的同模兵蚁明显更大，不过 Silvestri 采集品中同瓶内有一头兵蚁与本种接近甚至相同，原作者认为那应是标本混装之误。"
+    }
+  ],
+  "note": "据 Emerson (1928) 原始描述改写，原文英文；正模为一头兵蚁（美国自然历史博物馆），描述基于 4 头大型兵蚁与 1 头小型兵蚁（得自 Arthroleptus variabilis 胃含物），并附工蚁。有翅成虫未记。异名引证、分布记录与图号未译。摘录按原文行末断字合并。",
+  "sources": [
+    {
+      "id": "S0075",
+      "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57 (Article VII). file: _unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon/part-001.txt",
+      "locator": "p. 464（Text Fig. 25）"
+    }
+  ]
+}

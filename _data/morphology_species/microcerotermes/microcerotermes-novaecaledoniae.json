@@ -1,0 +1,21 @@
+{
+  "zh_name": "新喀里多尼亚锯白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头黄褐色，前部较深；上颚黑色、基部褐色；其余体白黄色；触角浅黄色。头疏生刚毛；腹节背板密被短毛。头近圆柱形，自上方看后角圆。额相当陡地下降，中央有浅沟状凹陷。囟明显。后唇基后缘凸、前缘几直，长短于其宽度的一半，平。上唇舌状，长等于宽，伸过上颚合拢时的前三分之一。上颚相当长、窄，强烈呈刀状弯曲，具极细的锯齿状齿。触角 13 节，第 3 节短于第 2、4 节。前胸背板鞍形，窄于头，宽约为长的 2 倍，前缘中央明显凹入。量度：体长 6 mm；头连上颚 2.96 mm，不连上颚 1.56 mm；头宽 0.95 mm；前胸背板宽 0.65 mm。"
+    },
+    {
+      "label": "工蚁",
+      "text": "大型工蚁：头黄至黄褐，体发白；头疏生短毛，腹节背板被细毛。头四边卵形，长大于宽；复眼呈极小的褐色斑点；囟不明显；后唇基长等于其宽度之半，隆起相当强；触角 13—14 节，第 3 节很小；前胸背板前缘不凹入。"
+    }
+  ],
+  "note": "据 Holmgren & Holmgren (1915) 原始描述改写，原文德语；含兵蚁与大型工蚁；有翅成虫未描述（原文 Imago unbekannt）。",
+  "sources": [
+    {
+      "id": "S0523",
+      "citation": "Holmgren, N.F. & Holmgren, K. (1915) Termiten aus Neu-Caledonien und den benachbarten Inselgruppen. In: Sarasin, F. & Roux, J. (Eds.) Nova Caledonia: Forschungen in Neu-Caledonien und auf den Loyalty-Inseln, A, Zoologie. Vol. 2, Part 2. C.W. Kreidels Verlag, Wiesbaden. pp. 85–93.",
+      "locator": "p. 90—91"
+    }
+  ]
+}

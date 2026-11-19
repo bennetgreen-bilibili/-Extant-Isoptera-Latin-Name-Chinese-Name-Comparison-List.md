@@ -1,0 +1,21 @@
+{
+  "zh_name": "烟色解甲白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "单眼与眼的距离略小于单眼直径，后唇基宽为长之两倍（检索表第 5 项）；体较 ater 大、上颚较长，后唇基比 ater 更突出，上颚略伸过上唇。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "Snyder 复核模式标本（雌，M.C.Z. 模式号 218，产墨西哥 Vera Cruz）所记：体较 ater 大，暗褐色，上颚较长；眼突出、外突；后唇基较头部色浅，突出、外突，宽为长之两倍，分两叶，较 ater 更明显；上颚略伸过上唇之外；单眼与眼的距离约等于其直径；囟为头盖缝基部、单眼后方中央的不显斑点，位置较 ater 更靠前；头盖缝较 ater 明显。左上颚长 0.6—0.7 mm。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0560",
+      "citation": "Snyder, T. E. 1924. Descriptions of new species and hitherto unknown castes of termites from America and Hawaii. Proceedings of the United States National Museum 64 (6): 43 pp.",
+      "locator": "pp. 36—37（A. fumosus, female, type No. 218, M.C.Z.）"
+    }
+  ],
+  "note": "据 Snyder 1924 年英文记述改写；原文英文，Snyder 仅复核 Hagen 1860 年模式的雌性有翅成虫并作比较描述，未重述全形，Hagen 原文未获取；原文比较表的 fumosus 一栏 OCR 列位错乱（表头与数字分行），除正文明确给出的左上颚长 0.6—0.7 mm 外未采表内其它量度，以免误系他种。"
+}

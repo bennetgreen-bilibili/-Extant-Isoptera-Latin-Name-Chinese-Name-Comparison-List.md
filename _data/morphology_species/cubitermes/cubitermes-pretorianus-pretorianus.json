@@ -1,0 +1,21 @@
+{
+  "zh_name": "指名亚种",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "指名亚种即 Silvestri 1914 描述的典型形态，模式产地德兰士瓦比勒陀利亚。与 C. truncatus 近缘，但体型较小；与 C. bilobatus 在体型与上唇形状上差别很大。另一亚种 C. pretorianus heidelbergi 由 Fuller (1925) 描述。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体长 6 mm；头长 1.63 mm、宽 1.30 mm；上颚长 1.43 mm；触角长 1.82 mm；后足胫节 1.10 mm。头长约较宽大 1/4，后角圆形，两侧近平行；上唇中部宽而深凹，前角内侧圆形、外侧近尖；上颚略长于头宽；触角 15 节，第 2 节长几为第 3 节的 2 倍。"
+    }
+  ],
+  "note": "据 Silvestri (1914) 原始描述改写；原文为拉丁文；指名亚种与种同日描述，量度同正模描述；仅兵蚁与工蚁被描述；量度单位 mm 照原文。",
+  "sources": [
+    {
+      "id": "S0534",
+      "citation": "Silvestri F. 1914. Contribuzione alla conoscenza dei Termitidi e Termitofili dell'Africa occidentale. I. Termitidi. Bollettino del Laboratorio di Zoologia Generale e Agraria della R. Scuola Superiore d'Agricoltura in Portici 9: 1-146. https://archive.org/details/bollettinodellab9191415rscufo",
+      "locator": "p. 105"
+    }
+  ]
+}

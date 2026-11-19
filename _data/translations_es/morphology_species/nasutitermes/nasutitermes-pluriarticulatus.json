@@ -1,0 +1,13 @@
+{
+ "note": "La entrada sigue la diagnosis original de Silvestri de 1901 (alado hembra); el original es un texto OCR de biblioteca de un fascículo de BHL, y la diagnosis latina es breve, por lo que solo puede parafrasearse a partir de ella.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "(El original describe solo la hembra.) Antenas de 18 segmentos, segmento 3 algo más largo que el segmento 2. Pronoto un tercio más ancho que largo, casi cordiforme, con una escotadura en el borde posterior. Longitud del cuerpo con alas 19 mm, longitud del cuerpo sin alas 9 mm."
+  },
+  {
+   "label": "Otros",
+   "text": "El original se publicó como Eutermes arenarius subsp. pluriarticulatus, por lo que la descripción original es solo una breve diagnosis latina de esa subespecie; el texto da únicamente la hembra. Localidad Coxipó (Cuiabá), Brasil (recolectado por Silvestri)."
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "note": "The entry follows Holmgren's 1910 original description (alate only). The original is a library OCR text of a BHL scan (Zenodo/Plazi mirror); the German original description was read line by line; figures that the OCR scrambled beyond confirmation are not listed.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Head dark brown and glossy; clypeus, labrum, mandibles and antennae rusty yellow (segment 1 slightly darker); thorax and legs rusty yellow, the coxae brownish; wings grey-brown; abdominal tergites dark brown and dull, the sternites yellowish in the middle and grey-brown at the sides. Head finely hairy; thoracic nota and sternites rather densely hairy; wing membrane finely hairy. Head broadly oval; compound eyes large and prominent; ocelli close to the compound eyes; cephalic sutures very indistinct; fontanelle very small and triangular; a linear transverse muscle scar in front of the fontanelle; antennal organ distinct; clypeus short. Antennae 16-segmented: segment 3 far shorter than segment 2 and equal to segment 4, segment 4 broader and almost circular; segment 5 shorter than segment 2 but longer than segment 4. Pronotum (far) narrower than the head width without the compound eyes, longer than half its width; anterior margin straight, anterior angles depressed and almost angular; lateral margins weakly arcuate and rather long; posterior margin very indistinctly concave in the middle. Mesonotum more deeply concave than the metanotum. Media close to the cubitus with 1—2 branches on its inner side; cubitus with about 12 branches, of which the inner 5 are thickened."
+  },
+  {
+   "label": "Other",
+   "text": "The original describes only the alate and records neither soldier nor worker. The body length with wings, head length and head width are all scrambled in the OCR text and cannot be confirmed, so they are not listed. Type locality Montana, Suriname (collected by Holmgren)."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+  "zh_name": "多刺聚白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "有翅成虫与 S. dirus、S. cearensis、S. aculeosus、S. chaquimayensis、S. tanygnathus 相似，与其中某些难以区分：S. dirus、S. cearensis、S. aculeosus 头部毛更短（S. aculeosus 囟更大、前胸背板不同）；S. tanygnathus 触角 21 节；S. chaquimayensis 见该种比较。该种为森林种，在亚马逊地区似很常见，巢由 Emerson (1938) 描述。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "复眼小，小于头宽的 1/4；单眼小；囟圆而中等大。触角 20 节。前胸背板前角成角并具尖突；侧缘微呈 S 形，前半部近平行。翅短，中脉与肘脉端部明显。头壳有少量散布刚毛；后唇基具 6—8 根刚毛。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头壳短至中等延长，两侧向前收缩；头后缘圆。额管突出，或短而位于一小凹中，孔在背面观通常不可见。上唇短，长与宽近等；侧角约成直角；中叶短。触角 19 或 20 节。后颏不收缩。另有第一型兵蚁的形态（图 271—273），原文分述。"
+    },
+    {
+      "label": "工蚁",
+      "text": "大型工蚁：头壳与后唇基有许多直立刚毛；囟圆而相对小。触角 20 节。胸背刺发达。上颚臼齿板较窄，基部凹口略大于 90°。后肠与 S. dirus 相似，但混合段的主中肠延长部更宽。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0163",
+      "citation": "Constantino, R. 1995. Revision of the Neotropical termite genus Syntermes Holmgren (Isoptera: Termitidae). University of Kansas Science Bulletin 55(13): 455-518.",
+      "locator": "p. 499-501"
+    }
+  ],
+  "note": "据 Constantino (1995) 修订，原文英文。描述了有翅成虫、兵蚁（含第一型兵蚁）与大型工蚁。原文另列 11 个群体 13 头大型工蚁量度（本次未逐项取全）。该种为 Latreille (1804) 所描述的属模式种之一；原文记载 Matto Grosso 的部分兵蚁头部毛较少。"
+}

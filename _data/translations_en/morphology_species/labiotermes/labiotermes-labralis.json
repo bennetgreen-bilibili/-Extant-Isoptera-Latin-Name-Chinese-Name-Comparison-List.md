@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from Emerson (1925); the original is in English. The label line of the soldier measurements (p. 365) is garbled in the PDF-extracted text as “hSLp / Walclithwoi@neatree / meen Or anvernnse / Lene ch Or tronielcubecs / BpeMO UO PTOHOLUIN / WittlEDeOk OrONOENME / Heene Gh Ofsiingdtibiat”; from the magnitude of the values in each row and the row order of the original these are inferred to be total length, head width, antennal length, labrum length, labrum width, pronotum width and hind tibia.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Head dark brown, oval, with a few setae. Fontanelle pore pale, distinct, triangular. Antennae 17-segmented (complete in both king and queen), segment 2 much larger than segment 3, segment 3 slightly larger than segment 4. Compound eyes very large, projecting, very close to the lower margin of the head. Ocelli large (length 0.94 mm), 0.24 mm from the compound eye. Postclypeus yellowish brown, with an indistinct pale median suture. Pronotum the same colour as the head; anterior margin straight; lateral margins and posterior corners rounded; posterior margin concave; with numerous setae. Posterior margins of the mesonotum and metanotum broadly concave. Wings pale yellowish brown; costa and the base of the radial vein dark brown, yellow at the apex. Abdominal tergites brown, sternites yellow. Measurements (mm): body length (with wings) 20.00—21.00; body length (without wings) 10.00—11.00; head length 2.01—2.13; head width 1.90—1.96; antennal length 2.80—3.00; compound eye diameter 0.732—0.77; pronotum length 0.90—0.96, width 1.56—1.61; hind tibia 2.73—2.89; forewing length 16.00—16.80, width 4.90—5.25; queen body length 27.00, abdomen width 8.50."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head yellow, narrowed in front, lateral and posterior margins rounded; head surface with very few scattered short setae. Antennae 15-segmented, segments 2 and 3 equal in length, segment 4 shorter than segment 3. Labrum slender, nearly triangular, the apex transparent and rounded. Mandibles dark brown, only slightly curved at the apex; the left mandible with a notch in the middle and a second, larger notch near the base; the right mandible with a notch in the middle and 4 small blunt teeth between that notch and the base. A short frontal tube in the middle of the frons, white at the tip. Pronotum with a large bilobed anterior lobe, its anterior margin distinctly concave and its posterior margin evenly curved; pronotum about the size of the head. Legs pale. Colour of the abdomen varying with the gut contents. Measurements (mm): total length 4.02; head width 2.24—2.36; antennal length 2.41; labrum length 0.16—0.19; labrum width 0.87; pronotum width 1.22—1.25; hind tibia 2.25."
+  },
+  {
+   "label": "Other",
+   "text": "Comparison: C. longilabius is smaller in build; the mandibular dentition of C. orthocephalus and C. laticephalus is completely different from that of this species. Type locality: Chaquimayo (Peru); new records: Kartabo (British Guiana) and St. Joseph, Trinidad. The description is based on a colony of king, queen and soldiers collected by the author in Trinidad, and on queens, alates and soldiers taken from two colonies at Kartabo."
+  }
+ ]
+}

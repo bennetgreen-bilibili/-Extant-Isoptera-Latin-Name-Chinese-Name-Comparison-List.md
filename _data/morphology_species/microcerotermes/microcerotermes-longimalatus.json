@@ -1,0 +1,17 @@
+{
+  "zh_name": "长腭锯白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头连上颚长 1.93、去上颚长 1.52、头宽 0.68、上颚长 0.88 mm；上颚相对极长。与 Microcerotermes parvus 接近。模式产地比属刚果 Luluabourg，Callewaert 采，模式标本存特尔菲伦与斯德哥尔摩博物馆。"
+    }
+  ],
+  "note": "据 Sjöstedt (1925) 原始描述改写，原文德语；为兵蚁的简短鉴别性描述（vorläufige Mitteilung），仅描述兵蚁。",
+  "sources": [
+    {
+      "id": "S0516",
+      "citation": "Sjöstedt, Y.; 1925. Neue Termiten aus Afrika und Madagaskar. Konowia 4: 53-55.",
+      "locator": "p. 55"
+    }
+  ]
+}

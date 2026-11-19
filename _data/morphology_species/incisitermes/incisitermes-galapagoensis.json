@@ -1,0 +1,21 @@
+{
+ "zh_name": "加拉帕戈斯楹白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "黄褐；口器、触角、足与腹面较浅；翅近透明，亚前缘脉及其分支褐，前缘区略染暗。头相当宽，复眼位于中点之前，单眼存在。前胸背板远宽于长，略窄于头，后缘圆，背面中央有一条浅色线。腹长约等于头与胸之和。翅远比体长，相当宽，端部尖；亚前缘脉直到翅中点之后才分枝；中脉位于亚前缘脉与亚中脉之间，其分支如常、简单，仅近端部分支分叉。"
+  },
+  {
+   "label": "其他",
+   "text": "量度：含翅体长 9.5 mm，体长 5 mm。采集：Wenman 岛，12 月，数头。原文只描述有翅成虫；作者在 Termitidae 一节开头说明该岛所采两种白蚁均与已知种不同，并指出中美洲区系了解更充分后可能发现这两种亦分布于该区。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0654",
+   "citation": "Banks, N. 1901. Papers from the Hopkins Stanford Galapagos Expedition, 1898—1899. V. Entomological results (5). Thysanura and Termitidae. Proceedings of the Washington Academy of Sciences 3: 541—556.",
+   "locator": "pp. 544—545（Calotermes galapagoensis 新种），图 55、56（p. 545）"
+  }
+ ],
+ "note": "据 Banks (1901) 新种原始描述（英文），原文置于 Calotermes 属（Calotermes galapagoensis 新种），后归入 Incisitermes；仅有翅成虫被描述。原文量度只给两行总长，未给分项量度。"
+}

@@ -1,0 +1,25 @@
+{
+ "zh_name": "塞阿腊聚白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫与 S. dirus 难以区分；兵蚁明显比 S. dirus 小、毛被较少，头两侧更平直而平行。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "与 S. dirus 相同。量度（1 个群体 2 头有翅成虫，mm）：头长 2.60—2.65；去复眼头宽 3.05；囟 0.34—0.45；前胸背板长 2.00—2.15；前胸背板宽 3.65—3.85。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头壳略延长，两侧近乎平行；头后缘近圆；额管突出，孔在背面观不可见或勉强可见。上唇短，长与宽近等；上唇侧角呈钝角；中叶短。触角 20 节。后颏不收缩，后部两侧近平行。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0163",
+   "citation": "Constantino, R. 1995. Revision of the Neotropical termite genus Syntermes Holmgren (Isoptera: Termitidae). University of Kansas Science Bulletin 55(13): 455-518.",
+   "locator": "p. 475-478"
+  }
+ ],
+ "note": "据 Constantino (1995) 修订，原文英文。描述了有翅成虫与兵蚁。兵蚁量度：4 个群体 4 头兵蚁，头长 4.90—5.30 mm，头最大宽 4.60—5.00 mm，去后颏头高 2.60—2.90 mm，额管长 0.18—0.25 mm，左上颚长 2.40—2.80 mm，弯曲度 0.90—1.15 mm，左上颚 M1—M2 距离 0.59—0.69 mm。原文标注为 新种（新种）。OCR 噪声已按上下文判读。"
+}

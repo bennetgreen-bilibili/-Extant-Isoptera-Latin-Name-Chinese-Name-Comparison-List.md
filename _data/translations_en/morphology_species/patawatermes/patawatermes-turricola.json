@@ -1,0 +1,17 @@
+{
+ "note": "Recast from the species-level treatment of Bourguignon et al. (2016), original in English; the Plazi text is taken from Zenodo record 10529957. The species is a soldierless soil-feeding termite; the original gives only the diagnostic description of the worker and the alate, together with the worker digestive tract and enteric valve characters, and no complete set of body measurements.",
+ "sections": [
+  {
+   "label": "Worker",
+   "text": "Head with about 100 long setae. Cushions of the enteric valve with sclerotised appendages, arranged in six clusters of about 20 medium-sized spines each."
+  },
+  {
+   "label": "Alate",
+   "text": "Frontal gland pore medium-sized, appearing as a rather pale spot between the compound eyes. Ocelli medium-sized. Posterior margins of the mesonotum and metanotum slightly concave, corners rounded."
+  },
+  {
+   "label": "Other",
+   "text": "It differs from P. nigripunctatus in the enteric valve appendages having fewer, stouter spines that do not all point in the same direction. The original places Grigiotermes bequaerti (Snyder & Emerson, 1949) in the synonymy of this species (syn. nov.). Type material: the worker and alate syntypes of Anoplotermes turricola Silvestri, 1901, from Cuyabá, Brazil, housed in the AMNH."
+  }
+ ]
+}

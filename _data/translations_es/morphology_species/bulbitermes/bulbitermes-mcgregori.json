@@ -1,0 +1,17 @@
+{
+ "note": "Adaptado de Light & Wilson 1936, cuya parte del soldado reproduce la descripción y las figuras originales de Oshima 1916; el original está en inglés; las líneas de medidas se reemparejaron, pues el original dice en orden «Length of body 4.00 / Length of head with rostrum 1.56 / Length of head 0.90 / Width of head 0.93 / Width of pronotum 0.46».",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Cabeza pardo pálido, el rostro más oscuro; terguitos abdominales blanco amarillentos pálidos, poco esclerotizados. Cabeza alargada, piriforme, con una constricción evidente; contorno dorsal casi cóncavo; rostro delgado, cónico, relativamente largo, el índice cabeza—rostro (longitud de la cabeza / longitud de la cabeza con el rostro) menor que 0,73 (según las medidas de Oshima). Antena de 12 segmentos, segmentos 2—4 subiguales en longitud. Medidas (mm, 1 soldado, medido por Oshima): longitud del cuerpo 4,00; longitud de la cabeza con el rostro 1,56; longitud de la cabeza 0,90; anchura de la cabeza 0,93; anchura del pronoto 0,46."
+  },
+  {
+   "label": "Obrero",
+   "text": "La base del posclípeo es más corta que la mitad de su anchura (el único dato de la descripción de Oshima citado en el original)."
+  },
+  {
+   "label": "Otros",
+   "text": "Oshima 1916 describió la especie a partir de material recolectado por McGregor en la provincia de Laguna, Luzón, y le atribuyó un individuo áptero; Light & Wilson señalaron que en ese ejemplar áptero el pronoto es claramente más ancho que la cabeza y los restos de las alas anteriores cubren la mitad anterior del metanoto, por lo que debe tratarse de Rhinotermitidae (probablemente Schedorhinotermes), y por tanto el alado de esta especie sigue siendo desconocido. El material del mismo nombre registrado por Oshima 1920 en la provincia de Antique, isla de Panay, es en realidad su N. panayensis."
+  }
+ ]
+}

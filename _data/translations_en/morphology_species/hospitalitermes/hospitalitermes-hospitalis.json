@@ -1,0 +1,21 @@
+{
+ "note": "After Haviland's original description of 1898 (published as TERMES HOSPITALIS, n. sp.). All four forms (male, female, soldier, worker) are present. The original was extracted by OCR from the BHL/Zenodo scan, so decimal points came through as stray characters or were lost ('3°5 mm' = 3.5 mm) and some words are misspelt (papille=papillae, Antenne=Antennae, Jeu/oba etc.); these have been checked against the context; measurements in mm.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Male body length 9 mm; chestnut brown, the abdominal sternites umbrinous except at the sides, the tibiae and antennae umbrinous. Head oval. Ocelli less than one diameter from the compound eyes. Fontanelle smaller than one ocellus. Antennae 15-segmented, segment 3 longer than segment 2 or segment 4. Epistoma slightly convex and projecting. Pronotum more than half as long as wide, anterior margin straight, anterolateral corners depressed and rounded, posterolateral margins straight. Posterior margin of the meso- and metanotum broad and slightly concave. Fore wing pads slightly larger than the hind wing pads. Wings 14 mm long, umbrinous; subcosta thick and umbrinous, with a yellow spot on its posterior margin; media close to and parallel with the submedia, gradually fading towards the apex and disappearing in the apical third of the wing; submedia with 14 branches, reaching the wing apex but very faint. Hind legs extending far beyond the abdomen. Abdominal papillae absent."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 4 mm. Head and thorax dark chestnut brown, abdomen isabelline. Head width 1 mm. Antennae 3.5 mm long, 14-segmented, segment 3 three times as long as segment 2, the remaining segments gradually shorter towards the apex. Rostrum slender, its front forming a distinct curve with the front of the head. Postmentum shorter than wide. Pronotum saddle-shaped, the anterior lobe not much raised. Hind femora extending but little beyond the abdomen. Abdomen oval, tergites arched. Abdominal papillae absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 4 mm; umbrinous, head black. Antennae 16-segmented. Hind femora reaching abdominal segment 8. Abdomen oval, laterally compressed, strongly arched above."
+  },
+  {
+   "label": "Other",
+   "text": "The abdomen of the queen reaches 20 mm in length; the secondary chitinization is strong and sharply delimited; the abdominal pleura bear minute pigment dots and hairs. The nest is generally built in the centre of the nest of T. comis, with a large entrance in the upper part of the nest. Distribution: Borneo (Sarawak), Malay Peninsula (Singapore). Type specimen No. 304. For the morphology see Pl. 25. figs. 83–86."
+  }
+ ]
+}

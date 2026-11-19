@@ -1,0 +1,21 @@
+{
+ "note": "La entrada sigue la descripción original de Holmgren de 1910 (reina y soldado). El original es un texto OCR de biblioteca de un escaneo de BHL (espejo Zenodo/Plazi); la descripción original alemana se leyó línea por línea; las cifras que el OCR desordenó sin posibilidad de confirmación no se enumeran.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "(El original describe solo la reina.) Color más pálido que en Eutermes major, de la que difiere por las cicatrices musculares intermedias que no se fusionan entre sí sino que solo convergen hacia atrás; borde posterior del pronoto profundamente cóncavo; concavidad del mesonoto más ancha que la del metanoto. La longitud del cuerpo, la longitud y la anchura de la cabeza están desordenadas en el OCR y no se citan."
+  },
+  {
+   "label": "Soldado",
+   "text": "Casi totalmente semejante al soldado de Eutermes major, pero con antenas de 13 segmentos: segmento 3 mucho más largo que el segmento 2 pero menos del doble; segmento 4 igual al segmento 2. El surco de la parte posterior de la cabeza es casi solo un vestigio. El pardo de la cabeza y de la nasa más pálido. Longitud de la cabeza 1.7—1.95 mm (la moda está impresa en el original como '1.5—1.35', evidentemente daño del OCR, por lo que no se cita); anchura de la cabeza 1.05—1.3 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "El original registra el obrero como idéntico al de Eutermes major (sin descripción separada)."
+  },
+  {
+   "label": "Otros",
+   "text": "El original se publicó como Eutermes 13-articulatus n. sp. (el nombre específico significa 'de trece segmentos'); la figura 37 muestra la cabeza de la reina. La localidad tipo no se registra explícitamente en el original."
+  }
+ ]
+}

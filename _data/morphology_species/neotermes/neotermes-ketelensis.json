@@ -1,0 +1,21 @@
+{
+  "zh_name": "凯特拉新白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "底色黄白，头红褐，前部略深。头形四边—卵形，向前略收窄，最宽处在最后四分之一。额有浅沟。右上颚具两枚三角形齿，两齿之间为一角状缺刻分隔。左上颚最外两枚齿大，第三齿几乎不可辨，第 4、5 齿几等大。触角 13—14 节，第 3 节显著大而色深，长于且粗于第 2、4 节。前胸背板宽于头。本种近 N. saleierensis，区别在头形更呈卵形、上颚齿式等；触角第 3 节之大，使人想到狭义的 Kalotermes 属，但是否归入该属须待发现有翅成虫方能决定，因属征在于有翅成虫。"
+    },
+    {
+      "label": "其他",
+      "text": "量度（mm）：体长 8.00—10.00；头连上颚 4.00—5.00；头不连上颚 2.50—3.08；头宽 2.05—2.33；前胸背板宽 2.15—2.30；前胸背板长 0.85—1.01。有翅成虫原文记 Imago: unbekannt（未知）。「工蚁」仅见不同大小的若虫。模式产地：Djampea 岛（西里伯斯与弗洛勒斯之间）的 Poeloe Ketela，1920 年 12 月 29 日，生活于一段树干中。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0601",
+      "citation": "Kemner, N. A. 1932. Neue Termiten aus der orientalischen Region. II. Entomologisk Tidskrift 53(2): 133—155.",
+      "locator": "pp. 135—137（图 3）"
+    }
+  ],
+  "note": "据 Kemner (1932) 新种原始描述（德文），仅兵蚁有描述；有翅成虫原文作 Imago: unbekannt。量度取自原文表（Körperlänge、Kopf mit/ohne Oberkiefer、Kopfbreite、Pronotum 宽长），OCR 中数字有损坏，已按上下文校正并在不可辨处不录。德文术语译为中文全称（Kopfbreite 头宽、Pronotum 前胸背板）。"
+}

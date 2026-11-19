@@ -1,0 +1,25 @@
+{
+  "zh_name": "宽头动白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "体亮红褐色，前部最深；上颚黑而发亮；前胸背板红黄色；腹部与足淡黄色，触角黄褐色。整体与狭颈动白蚁（angusticollis）相似，但头宽得多，尤以后部为甚；头部后方宽度为前胸背板的两倍，前胸背板本身并不更宽；触角约 22 节。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "头略更宽；复眼远比狭颈动白蚁为大，其前缘伸达触角窝。翅的前缘带远比狭颈动白蚁色淡，但翅脉构造与后者相似。"
+    },
+    {
+      "label": "其他",
+      "text": "模式产地美国亚利桑那州 Florence 与 Douglas，8 月由 Snow 与 Biederman 采得数头。原文以 Termopsis 属名发表，现归 Zootermopsis。"
+    }
+  ],
+  "note": "据 Banks (1906) 原始描述改写，原文语言为英文；仅描述兵蚁与有翅成虫，未给量度，仅有比较性描述与触角节数。所据 OCR 为缩微胶卷文本，冠词与介词大量丢失（如「Similar most respects angusticollis」缺 in、to），仅录可辨特征，未曾据残缺处补词。",
+  "sources": [
+    {
+      "id": "S0608",
+      "citation": "Banks, N.; 1906. Two new Termites. Entomological News 17(9): 336-337.",
+      "locator": "p. 337"
+    }
+  ]
+}

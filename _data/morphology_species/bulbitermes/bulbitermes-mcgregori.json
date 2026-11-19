@@ -1,0 +1,25 @@
+{
+  "zh_name": "麦格雷戈瓢白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头淡褐，喙色较深；腹节背板淡黄白色，几丁化弱。头长形，梨状，具明显缢缩；背面轮廓近于凹入；喙细长、圆锥形，相对长，头—喙指数（头长／头连喙长）小于 0.73（据 Oshima 量度）。触角 12 节，第 2—4 节近等长。量度（mm，1 头兵蚁，Oshima 所测）：体长 4.00；头连喙长 1.56；头长 0.90；头宽 0.93；前胸背板宽 0.46。"
+    },
+    {
+      "label": "工蚁",
+      "text": "后唇基基部短于其宽度之半（原文所引 Oshima 描述仅此一项）。"
+    },
+    {
+      "label": "其他",
+      "text": "Oshima 1916 据 McGregor 在吕宋 Laguna 省所采材料描述本种，并把一头脱翅个体归入本种；Light 与 Wilson 指出该脱翅标本前胸背板显著宽于头、前翅残基盖住后胸背板前半，应为 Rhinotermitidae（疑 Schedorhinotermes），故本种有翅成虫仍属未知。Oshima 1920 记自 Panay 岛 Antique 省的同名材料，实为其 N. panayensis。"
+    }
+  ],
+  "note": "据 Light & Wilson 1936 改写，其兵蚁部分系转述 Oshima 1916 的原始描述与图；原文英文；量度行经重新配对，原文依次作「Length of body 4.00 / Length of head with rostrum 1.56 / Length of head 0.90 / Width of head 0.93 / Width of pronotum 0.46」。",
+  "sources": [
+    {
+      "id": "S0537",
+      "citation": "Light S. F.; Wilson F. J. 1936. The nasute termites of the Philippines. Philippine Journal of Science 60: 461–520.",
+      "locator": "条目（The-nasute-termites-of-the-Philippines）p. 509–510"
+    }
+  ]
+}

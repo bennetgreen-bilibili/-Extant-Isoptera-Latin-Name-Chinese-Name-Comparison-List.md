@@ -1,0 +1,21 @@
+{
+  "zh_name": "华美高跷白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头黑色带深紫光泽至深红木色；鼻前半部带红；触角与前胸背板褐色；其余背板淡褐；腹板与足黄褐。头大；头与鼻的形状见原文 fig. 6。鼻短、基部粗厚、稍隆起；背面轮廓凹，但凹度不及 G. admirabilus，不呈波状；上颚刺状，端部中央稍下方仅余一微弱齿痕。触角 13 节，较 G. admirabilus 短，稍长于头连鼻；第 3 节甚长，为第 2 节的两倍以上；第 3 节长于第 4 节；第 5—13 节近等长，约短于第 3 节七分之一。体壁几丁化较弱；腹部细长，不似 G. admirabilus 呈驼背状。量度（mm；典型兵蚁，模式号 238）：头连鼻长 1.95；头长（不含鼻）1.33；鼻长 0.62；触角第 3 节长 0.20；第 4 节长 0.14。"
+    },
+    {
+      "label": "鉴别要点",
+      "text": "与 G. admirabilus 的区别：鼻背面轮廓凹度较小而不呈波状；触角 13 节且较短；上颚仅余微弱齿痕；体壁几丁化较弱、腹部细长而不呈驼背状。"
+    }
+  ],
+  "note": "据 Light & Wilson (1936) 原始描述改写，原文英文；有翅成虫未知（原文 Alate.—Unknown），工蚁未描述。量度表（pp. 478—479）OCR 部分列残缺，仅列可辨各项。模式标本为典型兵蚁（type coll. No. 238）。图片号与分布记录未译。摘录按原文行末断字合并。",
+  "sources": [
+    {
+      "id": "S0549",
+      "citation": "Light S. F. & Wilson F. J. 1936. The Nasute Termites of the Philippines. The Philippine Journal of Science 60(4): 461-520. https://archive.org/details/philippine-journal-of-science_1936-08_60_4",
+      "locator": "pp. 461—462（Text fig. 6）；pp. 478—479（量度表）"
+    }
+  ]
+}

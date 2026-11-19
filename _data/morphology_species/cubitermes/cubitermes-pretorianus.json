@@ -1,0 +1,21 @@
+{
+  "zh_name": "比勒陀利亚方白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "体长 6 mm；头长 1.63 mm、宽 1.30 mm；上颚长 1.43 mm；触角长 1.82 mm；后足胫节 1.10 mm。体乳白色，头淡黄白色，上颚黑色，腹部因肠内容物呈灰色。头长约较宽大 1/4，后角圆形，两侧近平行，额部在囟孔上方略呈圆形隆起；上唇中部略宽而深凹，前角较宽，内侧圆形、外侧近尖。上颚略长于头宽，端部略弯。触角 15 节；第 2 节长几为第 3 节的 2 倍；第 3 与第 4 节近等长；第 5 节略长于第 4 节。前胸背板前叶后缘中部略凹。足毛稀疏，第一对足胫节内缘具较短而较粗的刺，第二对足胫节具粗壮的端外侧刺。腹部背板与腹板具较短毛及 3—4 列短毛和数根较长的毛。"
+    },
+    {
+      "label": "工蚁",
+      "text": "体长 4.5 mm；头长 0.80 mm、宽 0.95 mm；触角长 1.25 mm；后足胫节 0.91 mm。体禾秆色，头乳黄色，腹部因肠内容物呈灰色。头上面具较短毛及较多长毛，唇基大而膨胀良好；触角 15（14）节，第 2 节略长于第 3 节，第 3 节露出裸露的基部分界、较第 4 节约长 1/6，第 5 节与第 3 节近等长。前胸背板前叶后缘中部凹。足与腹部与兵蚁相似。"
+    }
+  ],
+  "note": "据 Silvestri (1914) 原始描述改写（原文误印为 preterianus，即 pretorianus）；原文为拉丁文；仅描述兵蚁与工蚁，未描述蚁后；模式产地德兰士瓦比勒陀利亚；量度单位 mm 照原文。",
+  "sources": [
+    {
+      "id": "S0534",
+      "citation": "Silvestri F. 1914. Contribuzione alla conoscenza dei Termitidi e Termitofili dell'Africa occidentale. I. Termitidi. Bollettino del Laboratorio di Zoologia Generale e Agraria della R. Scuola Superiore d'Agricoltura in Portici 9: 1-146. https://archive.org/details/bollettinodellab9191415rscufo",
+      "locator": "p. 105"
+    }
+  ]
+}

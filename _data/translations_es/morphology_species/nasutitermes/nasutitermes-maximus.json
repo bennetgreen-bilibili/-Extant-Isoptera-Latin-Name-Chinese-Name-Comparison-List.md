@@ -1,0 +1,17 @@
+{
+ "note": "La entrada sigue la descripción original de Holmgren de 1910 (soldado y obrero), publicada como Eutermes maximus n. sp. El original es un texto OCR de biblioteca de un escaneo de BHL (espejo Zenodo/Plazi); la descripción original alemana se leyó línea por línea; las cifras que el OCR desordenó sin posibilidad de confirmación no se enumeran.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 4.5—5 mm, longitud de la cabeza 1.9—2.05 mm (moda 1.95—2 mm), anchura de la cabeza 1.15—1.3 mm (media 1.25 mm, 10 especímenes medidos). Muy semejante a Eutermes major pero claramente mayor. Cabeza pardo oscura brillante, la nasa más pálida; pronoto pardo; el resto del cuerpo pardo herrumbroso a amarillo herrumbroso. Cabeza con cerdas en la base de la nasa, en el vértice y en los lados; terguitos abdominales lisos con solo una fila de cerdas marginales. Cabeza ampliamente ovalada, la nasa gruesa y bastante larga; contorno frontal con una elevación evidente en la base de la nasa. Antenas de 14 segmentos: segmento 3 más largo que el segmento 2; segmento 4 igual al segmento 3; segmento 5 algo más corto que el segmento 4. Pronoto en silla de montar bastante profunda, borde anterior claramente cóncavo."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 5.5—6 mm, longitud de la cabeza 1.54 mm. Placa cefálica y banda transversal pardas; suturas cefálicas, una pequeña mancha en la prolongación de la sutura sagital, clípeo, genas, antenas y piezas bucales blancos a blanco amarillentos; el resto del cuerpo blanco amarillento. Cabeza con pelos extremadamente finos; terguitos abdominales finamente pelosos, a menudo con una fila indistinta de cerdas marginales. Cabeza ampliamente ovalada; suturas cefálicas abiertas y de anchura uniforme; fontanela mal delimitada, alargado-triangular; clípeo mucho más corto que la mitad de su anchura. Antenas de 15 segmentos: segmento 3 igual al segmento 2; segmento 4 algo más corto pero más grueso; segmento 5 globoso. Pronoto fuertemente en silla de montar, borde anterior claramente cóncavo."
+  },
+  {
+   "label": "Otros",
+   "text": "Localidad tipo Chaquimayo, Perú. La figura 40 del original muestra la cabeza del soldado en vista dorsal y lateral."
+  }
+ ]
+}

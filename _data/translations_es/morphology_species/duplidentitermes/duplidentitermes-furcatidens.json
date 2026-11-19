@@ -1,0 +1,13 @@
+{
+ "note": "Adaptado de Emerson 1959; el original está en inglés. En el original la especie figura como Hoplognathotermes furcatidens Sjöstedt, descrita a partir del soldado en 1924, con el alado, el soldado y el obrero añadidos en 1926; Emerson 1959 la situó en el nuevo género Duplidentitermes (combinación nueva). La tabla 6 del original recoge las medidas del alado (macho/hembra) y la tabla 7 las del soldado (paratipo); las tablas dan los nombres de las filas en inglés y no emplean abreviaturas.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "La abertura de la glándula frontal es triangular; la antena tiene 17 artejos; la fórmula de espolones tibiales es 3:2:2. Medidas (tabla 6 del original, macho/hembra, mm): longitud de la cabeza incluido el labro 1,76/1,88; longitud de la cabeza hasta el margen anterior del posclípeo 1,22/1,32; longitud de la cabeza hasta la base de las mandíbulas 1,09/1,22; anchura de la cabeza 1,53/1,61; longitud de la abertura de la glándula frontal 0,12/0,15, anchura 0,15/0,16; diámetro del ojo compuesto 0,36/0,34; distancia del ojo compuesto al margen inferior 0,09/0,10; longitud del ocelo 0,17/0,18, anchura 0,12/0,14; distancia del ocelo al ojo compuesto 0,13/0,15; longitud del posclípeo 0,29/0,32, anchura 0,70/0,73; longitud del pronoto 0,70/0,79, anchura 1,29/1,47; longitud de la tibia posterior 1,69/1,74; longitud del ala anterior desde la sutura 13,91/15,98, anchura 3,69/4,23."
+  },
+  {
+   "label": "Soldado",
+   "text": "La cabeza es amarilla y la mitad externa de las mandíbulas, de color pardo rojizo; el tórax y el abdomen son más claros que la cabeza. La cabeza y el pronoto llevan numerosas setas dispersas, y la cabeza carece de pelos cortos que contrasten con ellas; la mitad anterior del labro lleva numerosas setas dispersas. En el paratipo la gula está desnuda salvo por 3 setas a cada lado cerca del margen anterior. Medidas (tabla 7 del original, paratipo, mm): longitud de la cabeza hasta la base de las mandíbulas 2,66; anchura de la cabeza 2,07; grosor de la cabeza 1,64; longitud de la gula 1,64, anchura máxima 0,80, anchura mínima 0,45; anchura del labro 0,67; longitud de la mandíbula izquierda 1,47; distancia del ápice de la mandíbula izquierda al diente marginal 1: 0,38; distancia del ápice de la mandíbula derecha al diente marginal 1: 0,50; longitud del pronoto 0,78, anchura 1,36; longitud de la tibia posterior 1,71."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Hill (1926) añadió medidas basadas en cotipos de Shoalhaven (Nueva Gales del Sur); el original empleaba «°» como punto decimal, restituido aquí. La descripción del alado sigue los términos de color originales de Froggatt, corregidos aquí a «cabeza pardo avellana, alas pardo rojizas».",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Medidas de los cotipos (Shoalhaven, N.S.W.) (mm): longitud del cuerpo con alas 15,00—15,50; sin alas 6,50—7,00; longitud de la cabeza hasta la sutura frontoclipeal 1,02—1,08; longitud de la cabeza hasta el ápice del labro 1,25—1,36; anchura de la cabeza 1,25; diámetro del ojo 0,306—0,323; longitud del pronoto 0,74, anchura 1,08—1,14; longitud del ala anterior 11,25—11,75, anchura 3,13—3,24; longitud de la tibia posterior 1,08—1,14. Hill había registrado antes, a partir del ejemplar tipo, cabeza pardo avellana y alas pardo rojizas; sobre cotipos mejor conservados y ejemplares recién recolectados por Musgrave, el color del cuerpo se corrige aquí como claramente más oscuro, de acuerdo con la descripción original."
+  },
+  {
+   "label": "Soldado",
+   "text": "Medidas (cotipos, mm): longitud del cuerpo 3,50—3,90; longitud de la cabeza con mandíbulas 1,93—2,10; longitud de la cabeza hasta el ápice del labro 1,42—1,48; longitud de la cabeza hasta el margen anterior del poro de la glándula frontal 1,14—1,31; anchura de la cabeza 1,08—1,14; antenas de 15 o 16 artejos; anchura del postmentón en su parte más estrecha 0,272—0,289; longitud del pronoto 0,40—0,45, anchura 0,80—0,85; longitud de la tibia posterior 0,97. Las medidas del soldado registradas antes por Hill procedían de ejemplares de Uralla (South Australian Museum), que aquí se consideran pertenecientes a C. acinaciformis, por lo que se usan las medidas de los cotipos."
+  },
+  {
+   "label": "Otros",
+   "text": "Distribución: Nueva Gales del Sur (Shoalhaven es la localidad tipo) y otras partes del este de Australia; Mjöberg (1920) la registró en Millaa Millaa, Laura y Alice River, Queensland, lo que Hill puso en duda, asignando a esta especie solo de forma provisional soldados y obreros de Pikedale (sur de Queensland). El nido es un montículo con una envuelta de arcilla que rodea fragmentos de madera."
+  }
+ ]
+}

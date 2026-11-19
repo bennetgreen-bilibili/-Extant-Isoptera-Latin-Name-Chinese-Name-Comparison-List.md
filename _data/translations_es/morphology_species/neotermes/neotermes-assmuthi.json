@@ -1,0 +1,17 @@
+{
+ "note": "Adaptado de Roonwal & Chhotani 1997; original en inglés; el original describe en este orden el alado, el soldado y el pseudoobrero, con medidas para cada uno.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Cabeza parda con tinte ahumado. Longitud del cuerpo sin alas 7.20—8.10 mm; longitud de la cabeza hasta la base de las mandíbulas 1.30—1.45 mm, anchura de la cabeza 1.50 mm; diámetro mayor del ojo compuesto 0.5 mm, a 0.025 mm de las antenas; ocelos 0.20—0.23 mm; antenas de unos 18 segmentos; labro 0.45×0.55 mm; longitud del pronoto 0.80 mm, anchura 1.55—1.60 mm; longitud del ala anterior 12.1 mm; fórmula de espolones tibiales 3:3:3; tarsos de 4 segmentos."
+  },
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 9.5—11.0 mm; longitud de la cabeza hasta la base de las mandíbulas 2.70—3.40 mm, anchura mayor 2.0—2.23 mm, relación anchura/longitud 0.67—0.74; ojo 0.23—0.35 mm; antenas de 16 segmentos; longitud de la mandíbula 1.80—1.95 mm, relación mandíbula/longitud de la cabeza 0.61—0.66; mandíbula izquierda con 5 dientes marginales, mandíbula derecha con 2 dientes marginales grandes; longitud del postmentón 1.9—2.3 mm, anchura mayor 0.75—0.78 mm, anchura de la cintura 0.30 mm; longitud del pronoto 0.98—1.08 mm, anchura 1.93—2.20 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "El original la denomina pseudoobrero. Longitud del cuerpo 6.5—7.0 mm; longitud de la cabeza 1.5—1.6 mm, anchura de la cabeza 1.8—1.9 mm; antenas de 15 segmentos; longitud del pronoto 0.80—0.90 mm, anchura 1.50—1.60 mm."
+  }
+ ]
+}

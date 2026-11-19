@@ -1,0 +1,25 @@
+{
+ "zh_name": "黄色瓢白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头褐黄色，腹部背板带褐色，其余体躯草黄色；头被毛极稀，腹部背板仅一列刚毛。头梨形，收窄极弱；鼻短圆柱形；额部轮廓在鼻基处仅有极弱隆起。触角 12 节，第 3 节远长于第 2 节（棒状），第 4 节约与第 3 节等长但较粗。前胸背板略呈马鞍形，前缘无缺刻。体长 3.3 mm；头连鼻长 1.37 mm、不连鼻 0.8 mm；头宽 0.70 mm；前胸背板宽 0.42 mm。工蚁头黄色、体近白色，触角 13 节，头宽 0.95 mm。有翅成虫未知。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头褐黄色，腹部背板带褐色，其余体躯草黄色。头被毛极稀，腹部背板仅具一列刚毛。头梨形，收窄极弱；鼻短、圆柱形；额部轮廓在鼻基处有一极弱隆起。触角 12 节；第 3 节远长于第 2 节（棒状）；第 4 节约与第 3 节等长但较粗。前胸背板略呈马鞍形，前缘无缺刻。体长 3.3 mm；头连鼻长 1.37 mm；头不连鼻长 0.8 mm；头宽 0.70 mm；前胸背板宽 0.42 mm。产地：婆罗洲砂拉越（Haviland 采）。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头黄色，体近白色。头与腹部背板被毛稀疏。头宽卵形；头缝可见；额腺颇大而不明显。前唇基短、平。触角 13 节；第 2 节几等于第 3、4 节之和；第 4 节长于第 3 节。前胸背板马鞍形，前缘无缺刻。体长 3.5 mm；头宽 0.95 mm；前胸背板宽 0.49 mm。"
+  }
+ ],
+ "note": "据 Holmgren (1913)《Termitenstudien 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region》(Kungliga Svenska Vetenskaps-Akademiens Handlingar 50(2): 1–276) 的原始描述改写，原文为德文；原文以 Eutermes (E.) flavicans 新种 之名发表，记有兵蚁与工蚁，有翅成虫记载为「unbekannt」。原文图版（Tafel VII, Fig. 11）与产地细节未录入，量度按原文表值照录。Ahmad (1965) 据此种兵蚁触角 12 节与近缘种相区别，与原记一致。",
+ "sources": [
+  {
+   "id": "S0561",
+   "citation": "Roonwal M. L. and Chhotani O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume I. https://archive.org/details/dli.zoological.fi.026",
+   "locator": "pp. 173–174（第 10 种）"
+  }
+ ]
+}

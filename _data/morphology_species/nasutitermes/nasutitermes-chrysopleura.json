@@ -1,0 +1,21 @@
+{
+ "zh_name": "金纹象白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫与 E. latifrons 最近，但身体两侧（雌性）有金黄色长绒毛，足与触角淡黄白色，腹板淡褐色可以区别。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "有翅成虫（雌）：体扁平；头、胸、腹背面深褐，身体两侧密生金黄色绒毛；足与触角淡黄白色，不带褐色；腹板淡褐，中央稍浅；触角 13 节（原文记作 13?，存疑）；翅在本标本中缺失，故脉相与量度均无从记述。"
+  }
+ ],
+ "note": "据 Sjöstedt 1897 年原始描述（拉丁文）改写，原文名为 Eutermes chrysopleura 新种，是《Neue Termiten aus West-Afrika》这一「初步通报」中的简短记述，仅有翅成虫（雌）一段；原文注明标本翅已缺失（ale desunt），触角节数作者本人标有疑问（13?），未给量度。模式产地喀麦隆 Victoria，Buchholz 1873 年 9 月采，标本存 Greifswald 博物馆。",
+ "sources": [
+  {
+   "id": "S0536",
+   "citation": "Sjöstedt, Y. 1897. Neue Termiten aus West-Afrika (Vorläufige Mittheilung). Entomologisk Tidskrift 18(3): 123–126.",
+   "locator": "p. 126"
+  }
+ ]
+}

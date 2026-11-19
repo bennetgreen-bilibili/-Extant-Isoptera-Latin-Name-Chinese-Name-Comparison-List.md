@@ -1,0 +1,25 @@
+{
+  "zh_name": "秘鲁象白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "体长 4.5 mm；头长频数峰约 1.59 mm；头宽约 0.95—1.2 mm（原文两项的区间数字被 OCR 打散，写下限与频数峰，不补全区间）。与 E. chaquimayensis 很相似但更大。头褐色，鼻端略深；触角与背板锈褐，体腹面较浅。头仅具数根刚毛；腹部背板被显微毛、几乎光滑，具一列后缘刚毛。头宽卵形，象鼻圆锥形；额部轮廓在鼻基有（不明显的）隆起。触角 13—14 节：第 3 节为第 2 节的两倍长，中部或多或少不明显的再分；第 4 节等于第 2 节。前胸背板弱鞍形，前缘几乎不凹。"
+    },
+    {
+      "label": "工蚁",
+      "text": "头板与横带褐色；头缝、唇基、颊、触角与口器白至白黄；背板锈黄至锈褐，腹板较浅。头被细毛；腹部背板密被毛，无后缘刚毛列。头宽卵形；头缝等宽；囟孔不明显，长三角形；唇基远短于其半宽。触角 15 节：第 2 节长于第 3 节；第 3 节等于第 4 节；第 4 节长于第 5 节。前胸背板呈相当强的鞍形，前缘明显凹入。"
+    },
+    {
+      "label": "其他",
+      "text": "原文另记一变型 Eutermes peruanus f. ecuadorianus：蚁后头黄褐、胸锈黄、腹部背板褐而腹板较浅、毛相当密、头宽卵形、复眼大。模式产地秘鲁 Chaquimayo（Holmgren）。"
+    }
+  ],
+  "note": "条目依据 Holmgren 1910 原始描述（兵蚁、工蚁、变型 ecuadorianus 的蚁后）。原文为 BHL 扫描件的图书馆 OCR 文本（Zenodo/Plazi 镜像），德语原描述逐条辨认；数值凡 OCR 打散无法确认者一律不列。",
+  "sources": [
+    {
+      "id": "S0607",
+      "citation": "Holmgren, N. 1910. Versuch einer Monographie der amerikanischen Eutermes-Arten. Mitteilungen aus dem Zoologischen Museum in Berlin 5(1): 1—324.",
+      "locator": "pp. 240—241, Fig. 27"
+    }
+  ]
+}

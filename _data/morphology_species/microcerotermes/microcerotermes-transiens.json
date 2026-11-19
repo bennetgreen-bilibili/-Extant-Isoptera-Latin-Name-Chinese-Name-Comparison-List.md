@@ -1,0 +1,17 @@
+{
+  "zh_name": "经过锯白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "与主型 Microcerotermes liederi 出自同一巢。区别在于上颚无齿。以此接近 Microcerotermes edentatus，但后者的头颜色更浅、更窄。量度：头连上颚长 3.1 mm，头宽 1.1 mm。"
+    }
+  ],
+  "note": "据 Rosen (1912) 原始描述改写，原文德语；仅描述兵蚁。原文按变种（var. transiens）发表，现按 BSF 作为独立种处理；原文对该变种仅给出上颚无齿这一鉴别特征与两个量度，故条目内容相应简短。",
+  "sources": [
+    {
+      "id": "S0521",
+      "citation": "Rosen, K. von (1912) Neue Termiten aus der zoologischen Staatssamlung in München sowie einigen anderen Sammlungen. Zoologischer Anzeiger 39, 221–232.",
+      "locator": "p. 227"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+ "note": "The entry follows Holmgren's 1910 original description (soldier and worker). The original is a library OCR text of a BHL scan (Zenodo/Plazi mirror); the German original description was read line by line; figures that the OCR scrambled beyond confirmation are not listed.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Body length 4—4.5 mm; head length 1.8—1.89 mm (4 specimens measured); head width 1.25—1.35 mm (from the key, the figure in the text being scrambled by the OCR). Head yellow-red, antennae yellowish brown with pale rings; nota and abdominal tergites pale yellowish brown; venter and legs paler, pale yellow. Head with (very) sparse microscopic hairs and additional longer bristles at the base of the nasus and on the vertex; abdominal tergites finely hairy with longer bristles at the posterior margin but none in the middle of the dorsum; sternites with longer hairs and bristles. Head large, spherical and circular; frontal outline almost perfectly straight, only a trace of an elevation at the base of the nasus; nasus relatively narrow. Antennae 13 or 14-segmented: basal segment equal to the sum of the next two; segment 3 nearly twice as long as segment 2; segment 4 equal to or slightly longer than segment 2; segments 5, 6 and 7 about equal in length and longer than segment 4; from segment 8 onwards the segments progressively shorter (with 14 segments: segment 2 equal to segment 3 and segment 4 slightly larger). Anterior margin of the pronotum not concave."
+  },
+  {
+   "label": "Worker",
+   "text": "Head red-brown (chestnut-brown), the anterior part of the transverse band paler; cephalic sutures, clypeus, labrum, base of the mandibles, region around the antennae, antennae and the rest of the body white-yellow to rusty yellow. Head finely hairy; abdominal tergites shortly hairy and rather densely so; sternites with longer and denser hairs and marginal bristles. Head of the usual shape; fontanelle elongate and its limits with the sagittal suture indistinct; clypeus equal to half its width. Antennae 14 or 15-segmented (with 14: segment 3 slightly longer than segment 2, segment 4 short; with 15: segments 3 and 4 hard to distinguish, segment 3 slightly shorter than segment 2, segment 4 equal to or slightly shorter than segment 3). Anterior margin of the pronotum very distinctly concave. Worker body length 5 mm (the head length and head width figures are scrambled by the OCR and not listed)."
+  },
+  {
+   "label": "Other",
+   "text": "The original was published as Eutermes Nordenskioeldi n. sp.; figure 57 shows the soldier head. Localities: Quinta, southern Bolivia (collected by E. Nordenskiöld); Icano and Salado, Chaco de Santiago del Estero, Argentina (collected by Wagner)."
+  }
+ ]
+}

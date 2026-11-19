@@ -1,0 +1,25 @@
+{
+  "zh_name": "多波乳白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头淡黄，上颚褐，腹部白色；头疏生毛，腹部背板密被细毛。头卵形，稍扁；囟孔开口朝前并略向下倾；唇基基部短；上唇舌状，末端为透明三角形，伸过上颚中部；上颚剑状，末端为内弯的刺状尖；触角 17 节，第 3 节短于第 2 节；前胸背板宽，前缘与后缘中部均凹入。量度（mm）：体长 6.00；头长（连上颚）2.69；头长（不连上颚）1.66；前胸背板宽 1.06。"
+    },
+    {
+      "label": "工蚁",
+      "text": "头与腹部白色；头粗壮；触角 16 节，第 2 节与第 3 节等长；前胸背板前缘中部微凹，后缘圆。"
+    },
+    {
+      "label": "其他",
+      "text": "模式产地：Dobo（阿鲁群岛 Arue 岛，荷属新几内亚），Kanehira 1913 年 5 月 6 日采。原文注明有翅成虫未知。与 Coptotermes curvignathus 近缘：本种兵蚁头更长、触角 17 节（后者 14—16 节）；工蚁触角 16 节、第 2 节与第 3 节等长（后者 15 节、第 2 节远长于第 3 节）。"
+    }
+  ],
+  "note": "据 Oshima 1914 改写；原文英文；OCR 残缺：兵蚁头宽一项原文字样已糊损不可读，兵蚁前胸背板长原文作「0959」（疑为 0.95 或 0.59，无法判定），二者均未录入；工蚁体长、头宽、前胸背板宽三项数字亦糊损，故工蚁一节只保留定性特征。原文未描述有翅成虫。",
+  "sources": [
+    {
+      "id": "S0570",
+      "citation": "Oshima M. 1914. Notes on a collection of termites from the East Indian Archipelago. Annotationes Zoologicae Japonenses 8: 553–585.",
+      "locator": "条目（Notes-on-a-collection-of-termites-from-the-East-Indian-Archipelago）p. 554–555"
+    }
+  ]
+}

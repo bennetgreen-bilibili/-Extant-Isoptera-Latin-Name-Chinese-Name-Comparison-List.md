@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from the original description of Snyder 1926 (published as Cylindrotermes brevipilosus, new species). The soldier and worker are described, the alate is not. The measurement table in the original is printed across columns and the columns are displaced after OCR, with some figures damaged (e.g. \".382\", \"nop\"), so this entry uses only the values that can be reliably aligned: body length 3.90, head including the mandibles 2.10, head length without the mandibles 1.50, left mandible 0.65, hind tibia 0.57, head width 0.80, and for the worker body length 3.0—3.7, head length 0.9—1.1, antennal length 0.85—0.95; the rest (pronotum length and width, abdominal width, etc.) is not entered because of the column displacement and needs checking against the original journal. Note also that the same paper contains another species, Orthognathotermes brevipilosus, which is not this one.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head straw yellow, elongate, the sides nearly parallel, narrowing posteriorly, densely covered with short hairs (only a few long hairs); mandibles black with red, stout, yellowish brown at the base, short and curved. The width of the middle of the postmentum more than half its anterior width. Labrum shape differing from that of nordenskioldi. Antennae pale yellow, 11—12-segmented, finely hairy; if 12-segmented, segment 3 indistinct and very small; segment 4 shorter than segment 2 or 5 (in specimens of C. nordenskioldi from British Guiana the antennae are distinctly 12-segmented). Pronotum pale yellow, saddle-shaped, with a rather large part raised anteriorly, the anterior margin not concave (plate 1, fig. 7)."
+  },
+  {
+   "label": "Worker",
+   "text": "The worker has a denser and longer hair covering than nordenskioldi; the antennae are 13-segmented in both species."
+  },
+  {
+   "label": "Diagnostic characters",
+   "text": "The soldier is smaller than that of C. nordenskioldi Holmgren, the hairs on the head denser and shorter, the mandibles shorter and more curved; the raised part of the pronotum larger, the anterior margin not concave (concave in the soldier of nordenskioldi); the head narrower. The original compares this species item by item in a measurement table with specimens of nordenskioldi from Ivon, Bolivia, from Kartabo and from Panama."
+  },
+  {
+   "label": "Other",
+   "text": "Measurements (mm): soldier body length 3.90; head including the mandibles 2.10; head length without the mandibles (to the anterior margin) 1.50; left mandible length 0.65; hind tibia length 0.57; head width 0.80. Worker body length 3.0—3.7; head length 0.9—1.1; antennal length 0.85—0.95. Type locality: Ivon, Bolivia; a single soldier and several workers collected by W. M. Mann in February 1922 (month 2); type soldier Cat. No. 27673, U.S.N.M."
+  }
+ ]
+}

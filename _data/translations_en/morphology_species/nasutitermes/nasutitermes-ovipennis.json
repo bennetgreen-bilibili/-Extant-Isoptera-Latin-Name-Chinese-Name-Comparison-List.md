@@ -1,0 +1,21 @@
+{
+ "note": "Holmgren's 1913 complete redescription based on Haviland's type material (in German); the original description is Haviland 1898, but that scanned text contains no entry for this species, so this redescription is used. The worker section quotes Haviland's original account as reproduced in the German text. The original is in German, extracted by OCR from an Internet Archive scan, with some word forms and numbers misread (e.g. l,i for 1,1), checked against the context; the measurements of the original are in mm.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Dark chestnut brown. The anterior margin of the transverse band, a large more or less triangular patch on the pronotum, the anterior part of the meso- and metanotum and the middle of the sternites pale yellow to rusty yellow; basal piece of the postclypeus paler; antennae pale brown with a white ring; legs irregularly brownish; wings brown. Pilosity dense and somewhat setiform; the exudate hair (Exudatrichom) of the 5th abdominal sternite golden; wings densely hairy. Head broadly oval, narrowing anteriorly; compound eyes of medium size, fairly strongly projecting; ocelli rather small, the distance to the compound eye slightly greater than their diameter; head sutures only faintly visible; fontanelle small, slit-like or dot-like, situated slightly in front of the middle of the head; basal piece of the postclypeus very short, flat. Antennae 15-segmented, segment 3 slightly shorter than segment 2 and equal to segment 4. Pronotum trapezoidal, distinctly narrowing posteriorly, the posterior margin distinctly concave; mesonotal concavity slightly wider but not deeper than that of the metanotum; posterior corners of the wing scales slightly pointed; media single or with one branch; cubitus with about 10 branches; subcostal line weak, pale yellow."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head yellow, the nasus and antennae slightly brownish; body straw yellow. Head and abdominal tergites essentially bare. Head (without the nasus) almost perfectly circular in dorsal view; nasus slender conical, almost cylindrical, the sides hardly compressed; frontal outline weakly concave, the depression at the base of the nasus. Antennae 13—14-segmented, segment 3 longer than segment 2, segment 4 equal to segment 2. Anterior margin of the pronotum not concave or very slightly concave, saddle-shaped."
+  },
+  {
+   "label": "Worker",
+   "text": "Not described in the original; Haviland's original account is quoted: body length 4 mm, head pale yellowish white, antennae 14-segmented."
+  },
+  {
+   "label": "Other",
+   "text": "Measurements (mm). Alate: length with wings 13.5; body length without wings 8; fore wing length 11; head length 1.4; head width 1.48; pronotum width 1.22, length 0.06 (OCR figure, probably 0.6). Soldier: body length 3.5—4; head length with the nasus 1.9; head length without the nasus 0.95; head width 1.1; pronotum width 0.53. Distribution: Borneo, Sarawak (Haviland)."
+  }
+ ]
+}

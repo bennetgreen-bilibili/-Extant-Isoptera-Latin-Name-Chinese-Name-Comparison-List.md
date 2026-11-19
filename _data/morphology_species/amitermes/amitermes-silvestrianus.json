@@ -1,0 +1,29 @@
+{
+ "zh_name": "西尔韦斯特里弓白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫未见记述。兵蚁属 emersoni 种组，与 A. emersoni 最近，区别在上颚弯曲更强（上颚曲度指数 II 0.11），齿位更低、靠近上颚中部且更小，齿以下的上颚更厚；头收窄程度远小于 A. emersoni，头收缩指数约 0.95。工蚁接近 A. emersoni，但头更窄更长，两侧向后方渐收窄。另据 1932 年订正，其有翅成虫与若虫此时才首次记述。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "体一般白色至淡黄色，仅上颚端部三分之二为淡褐色。头宽卵形，两侧中等凸出，最宽处在中部，后侧角宽圆，向前收窄很少；头相对低平，囟区无 A. emersoni 那样的突起。上颚比 A. emersoni 更弯，左颚齿与齿位平齐，右颚齿在齿位之下；齿小，不突出，顺上颚之半的轴线指向；齿以下（基部除外）上颚最宽。触角与 A. emersoni 相似。后颏比 A. emersoni 更宽更平。量度（毫米；A、B 两头兵蚁）：头长 1.14；最大头宽 0.92；最小头宽 0.87；上颚长 0.92（A）、0.89（B）；后颏长 0.58；最大后颏宽 0.34；最小后颏宽 0.33；前胸背板宽 0.61（A）、0.63（B）；头指数 0.81（A）、0.83（B）；头收缩指数 0.95（A）、0.94（B）；头—上颚指数 0.81（A）、0.79（B）；后颏收缩指数 0.97（A）。"
+  },
+  {
+   "label": "工蚁",
+   "text": "接近 A. emersoni，但头更窄更长，两侧向后渐收窄；上颚如原书图版 14 图 8。量度（毫米；A、B 两工蚁）：头长 0.73（A）、0.76（B）；头宽 0.83（A）、0.94（B）；前胸背板宽 0.46（A）、0.56（B）。"
+  },
+  {
+   "label": "若虫",
+   "text": "末龄生殖型若虫量度（毫米）：头长（含上唇）1.09；最大头宽 0.86；前胸背板宽 0.76；全长 5.35；中胸翅芽长 1.01。"
+  }
+ ],
+ "note": "据 Light 1930 pp. 190—191 改写；原文英文；原文表中 A、B 两列即两个标本，未给平均值。1932 年同一作者在《Contribution toward a revision of the American species of Amitermes》中补记其有翅成虫与若虫（pp. 377—383），本条目仅据 1930 年原文。",
+ "sources": [
+  {
+   "id": "S0716",
+   "citation": "Light, S. F. 1930. The California species of the genus Amitermes Silvestri (Isoptera). University of California Publications in Entomology 5 (9): 173-214. https://archive.org/details/in.ernet.dli.2015.25454",
+   "locator": "pp. 190—191, 'Amitermes silvestrianus new species'"
+  }
+ ]
+}

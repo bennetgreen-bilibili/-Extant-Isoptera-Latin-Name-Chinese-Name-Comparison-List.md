@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the morphological comparison and measurement tables of Scheffrahn et al. (2015) for New World specimens of C. testaceus (including the synonyms C. crassus and C. niger); the original does not rewrite the full description item by item but gives diagnostic characters and measurement ranges. All measurements are from type-locality specimens.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "The only species of the genus in the New World with very dark wings: in life the wings are shiny and nearly black, in alcohol specimens dark brown; the wing membrane and basal veins are very deeply pigmented, whereas the wings of C. formosanus and C. gestroi are paler. Body colour is the darkest of the three species, in the order C. testaceus, C. gestroi, C. formosanus; only C. gestroi has a distinct “antennial spot”. Wing pilosity is diagnostic: the basal quarter is almost bare, hairs are sparse near the radial sector (RS), the second third is denser in the middle of the radial sector and around the cubitus (Cu), and the apical third is evenly pilose; whereas the wing surfaces of C. formosanus and C. gestroi are almost evenly pilose, the hairs of the former being longer and coarser. Measurements (type locality, mm): forewing length including the scale 11.90—12.10; forewing width 3.25—3.65; wing scale length 1.13—1.20; pronotum length 0.93—1.00, width 1.43; head width (excluding eyes) 1.35—1.38; head length 1.10—1.18; eye diameter 0.38—0.40; greatest diameter of the ocellus 0.13—0.15; hind tibia length 1.38—1.48."
+  },
+  {
+   "label": "Soldier",
+   "text": "The arrangement of setae around the fontanelle pore separates the similar species: this species usually has 3 pairs of setae around the pore, C. formosanus has 2 pairs and C. gestroi 1 pair (C. sjostedti also 1 pair). Head pilosity is densest in this species, followed in order by C. formosanus, C. gestroi and C. sjostedti. In dorsal view the greatest width of the head lies anterior to the middle of the head capsule (in the other species mostly at or slightly behind the middle). In lateral view the curve of the vertex before reaching the fontanelle pore is a gentle arc falling abruptly at the end in C. formosanus, and obliquely curved down to the pore in C. gestroi. Measurements (type locality, mm): head length 1.38—1.50; head height (excluding the postmentum) 0.73—0.90; greatest head width 1.13—1.30; left mandible length 0.85—0.95; fontanelle pore height 0.15, width 0.18—0.23; pronotum length 0.48—0.55, width 0.83—0.95; hind tibia length 1.03—1.05."
+  },
+  {
+   "label": "Other",
+   "text": "Taxonomic note: C. crassus (Snyder, 1922) and C. niger (Snyder, 1922) were originally described from soldiers and some alates; on the basis of morphology, measurements and 16S sequences of 1,977 specimens, both are here judged to be regional forms of this species and synonymized under it (priority). Distribution: widespread in the Neotropics, the main nest-building termite of live trees in the Amazon region, entering mangroves and coastal forests; also present on islands such as Trinidad and Grenada. The paired flight recorded here (Honduras, 2007-05-30, daytime) is estimated at more than 430 × 10,000, i.e. 4.3 million, individuals/km²."
+  }
+ ]
+}

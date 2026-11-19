@@ -1,0 +1,25 @@
+{
+  "zh_name": "爪哇象白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "有翅成虫未见描述。兵蚁体长 2.5—3 mm，头连鼻长 1.25 mm、头宽 0.72 mm、前胸背板宽 0.38 mm；工蚁体长 3.5—4 mm、头宽 0.91 mm、前胸背板宽 0.49 mm。兵蚁头宽卵形、向前略收窄，鼻中等长而呈锥状，额轮廓在鼻基处有一弱的横脊，触角 12—13 节而第 4 节明显短于第 3 节。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头黄，鼻带褐色；腹部背板极浅的淡褐至铁锈黄。头薄被显微毛，并有数根较长的刚毛；腹部背板被细的近显微毛，并在后缘另有较长的刚毛。头宽卵形，向前略收窄；鼻中等长、锥状；额轮廓在鼻基处有一弱的横脊，其余平直；触角 12—13 节，第 3 节略长于第 2 节，第 4 节明显短于第 3 节。前胸背板鞍状，前缘不凹入。量度：体长 2.5—3 mm；头连鼻 1.25 mm；头不连鼻 0.65 mm；头宽 0.72 mm；前胸背板宽 0.38 mm。"
+    },
+    {
+      "label": "工蚁",
+      "text": "头片黄褐，体乳白。头与腹部背板被细毛。头略呈五边形、角圆；头缝明显；囟孔不明显；横带前部凹陷；唇基基片短但并非很短，相当拱；触角 14 节，第 2 节与第 3 节等长，第 4 节短于第 3 节。前胸背板鞍状，前缘不凹入。量度：体长 3.5—4 mm；头宽 0.91 mm；前胸背板宽 0.49 mm。分布：爪哇 Tjompea。"
+    }
+  ],
+  "note": "据 Holmgren 1913c（Termitenstudien 4）pp. 175—176 的原始描述改写，原文德文；有翅成虫未见描述（原文作「Imago unbekannt」），只描述兵蚁与工蚁，兵蚁检索表条目见 p. 162。同卷另有 Odontotermes javanicus（p. 132）与 Capritermes javanicus（p. 255），与本种无关。德文原文小数用逗号，此处改为小数点，数值与范围未改。OCR 文本将体长 2,5—3 识为「2.3」或「25」，兵蚁头宽 0,72 与前一种 borneensis 的量度（0,61、0,72）混淆，均据 archive.org BookReader 第 175、176 印刷页（叶序号 174、175）的图像逐字校核后录入；学名当时置于 Eutermes 属。",
+  "sources": [
+    {
+      "id": "S0089",
+      "citation": "Holmgren, N. 1913. Termitenstudien 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Kungliga Svenska Vetenskapsakademiens Handlingar 50(2): 1–276. https://archive.org/details/biostor-244353",
+      "locator": "pp. 175–176（兵蚁、工蚁）；p. 162（兵蚁检索表）"
+    }
+  ]
+}

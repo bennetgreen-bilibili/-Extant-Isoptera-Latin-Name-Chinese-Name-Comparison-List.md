@@ -1,0 +1,29 @@
+{
+  "zh_name": "具齿树白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁头近四方形、几为长的两倍（原文作「长几为宽的两倍」）、近圆柱形，额部强烈下倾而呈双叶；上唇伸过上颚之半；上颚相当短而强壮；触角 10 节，另有一枚第 11 节的痕迹。前胸背板约与头等宽，前缘强凹，两侧仅略向后收，后缘中部略凹。Holmgren 指出 G. hozawai 与本种最近。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "（以下照引 Haviland 1898 第 375 页原记）雌性体长 4.5 mm；单眼与复眼相接；触角 11 节；前胸背板肾形；翅长 4.3 mm、宽 1.1 mm；前缘区窄、无脉，中脉全长紧贴亚前缘脉；足不达腹部末端；第 7 腹板长几等于宽。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "（原文注明可能为小型兵蚁）头黄红、前部染褐；上颚红褐、向端部变黑；体前胸背板带黄，其余发白并透出灰色肠内容物。毛被极稀疏。头近四方形，长几为宽的两倍，近圆柱形；额部强烈下倾，呈双叶；上唇伸过上颚之半；上颚相当短而强壮；触角 10 节，另有一枚第 11 节的痕迹。前胸背板约与头等宽，前缘强凹，两侧仅略向后收，后缘中部略凹。量度（mm）：体长 5、头连上颚长 2.00、头不连上颚长 1.67、头宽 0.91、前胸背板宽 0.84、前胸背板长 0.48。"
+    },
+    {
+      "label": "其他",
+      "text": "另有一对带翅芽的幼体：很长而窄，褐色肠内容物透出体壁。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0609",
+      "citation": "Holmgren N. F. 1913. Termitenstudien. 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Kungliga Svenska Vetenskaps-Akademiens Handlingar 50(2): 1–276. [in German]",
+      "locator": "pp. 51—52"
+    }
+  ],
+  "note": "据 Holmgren 1913 的德文描述改写。原文作 Calotermes (Glyptotermes) dentatus Hav., 1913 年时只见到兵蚁与幼体，有翅成虫一节系照引 Haviland 1898 第 375 页的英文原记，本条目已注明转引来源；这一有翅成虫原记在 Haviland 1898 原书中属于Calotermes 属下另一组（原文种名为 Termes dentatus），Holmgren 依其兵蚁将之归入 Glyptotermes。模式产地婆罗洲 Sarawak。"
+}

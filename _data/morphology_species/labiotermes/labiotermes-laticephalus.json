@@ -1,0 +1,21 @@
+{
+ "zh_name": "宽头厚唇白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁上唇近卵形、宽；上颚稍短，端部尖锐、弯曲，右上颚基部有两个相当小的齿，左上颚有三个齿；触角 15 节，第 3 节与第 4、5 节近等长，比第 2 节稍短。上唇宽卵形、左上颚三齿是与 L. orthocephalus 区别的要点。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "兵蚁：上唇近卵形、宽。上颚稍短，端部尖锐、弯曲；右上颚基部有两个相当小的齿，左上颚有三个齿。触角 15 节，第 3 节与第 4、5 节近等长，比第 2 节稍短。量度：体长 9 mm。"
+  }
+ ],
+ "note": "据 Silvestri 1901 年《南美白蚁初报》（拉丁文）改写，原文名为 Cornitermes laticephalus 新种，仅有兵蚁的简短鉴别特征与体长；模式产地巴西 Coxipò（Cuyabá）。Snyder（1949）以此为模式种建立 Paracornitermes 属，今多归 Labiotermes。",
+ "sources": [
+  {
+   "id": "S0092",
+   "citation": "Silvestri, F. 1901. Nota preliminare sui Termitidi sud-americani. Bollettino dei Musei di Zoologia ed Anatomia comparata della R. Università di Torino 16(389): 1–8.",
+   "locator": "p. 5"
+  }
+ ]
+}

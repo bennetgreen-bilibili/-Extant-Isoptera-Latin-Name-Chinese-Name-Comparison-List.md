@@ -1,0 +1,17 @@
+{
+ "note": "Reescrito de Emerson 1925; el original está en inglés. La columna de etiquetas de las filas de medidas del soldado está totalmente destruida en el texto extraído del PDF (solo sobreviven los valores 2.70—3.50, 1.038—1.12, .45—.48, .6—1.00, .30, .50), por lo que no pueden asignarse a caracteres y no se recogen; la longitud del pronoto del alado también falta en el texto extraído y tampoco se recoge. El original da la longitud de la antena del alado como 1.33—1.88.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Cabeza pardo oscura, ovalada, estrecha; cubierta de pelos muy cortos y de algunas setas más largas. Fontanela muy pequeña, en forma de hendidura, bifurcada en el extremo. Antena oscura, de 14 artejos, artejo 3 más largo que el artejo 2, artejo 4 algo más corto que el artejo 2. Ojos bastante grandes, bastante próximos al margen inferior de la cabeza; ocelos de tamaño medio, a menos de la mitad de su propia longitud del ojo. Labro pálido. Posclípeo casi tan oscuro como la cabeza, grande, sin sutura media, margen posterior fuertemente curvado. Pronoto casi tan oscuro como la cabeza, de contorno semicircular, los márgenes laterales y posterior formando un arco uniforme sin escotadura, con una serie de manchas en T en el centro. Márgenes posteriores del mesonoto y del metanoto anchamente cóncavos. Alas de color ahumado oscuro, con una franja pálida entre la media y el cubito; el sector radial y las primeras ramas del cubito oscuros. Terguitos abdominales oscuros. Medidas (mm): longitud del cuerpo (con alas) 8.50—9.00; longitud del cuerpo (sin alas) 5.00—6.00; longitud de la cabeza 0.80—0.86; anchura de la cabeza 0.64—0.69; longitud de la antena 1.33—1.88; diámetro del ojo 0.20; anchura del pronoto 0.57—0.61; tibia posterior 0.94—0.97; longitud del ala anterior 5.69—6.40; anchura del ala anterior 1.53—1.64."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza amarilla, el rostro rojo pardusco; perfil lateral recto, algo elevado en la base del rostro; ovalada en vista dorsal aparte del rostro; cubierta de pelos cortos, con 4 setas más cortas en la base del rostro y 2 en el vértice. Antena de 11 artejos, artejo 3 más largo que el artejo 2, artejo 2 tan largo como el artejo 4. Rostro más oscuro que la cabeza, largo y fino, cubierto de pelos cortos. Pronoto amarillo pálido. Terguitos abdominales cubiertos de pelos cortos, el margen posterior con una hilera de setas marginales muy cortas, solo algo más largas que la pilosidad; abdomen amarillo pálido."
+  },
+  {
+   "label": "Otros",
+   "text": "Comparación: próxima a N. microsoma, pero el soldado es más pequeño. Localidad tipo Kartabo (Guayana Británica); el holotipo es un alado, el morfotipo un soldado; la descripción se basa en alados de 6 colonias de esa localidad, una pareja de rey y reina y varios soldados."
+  }
+ ]
+}

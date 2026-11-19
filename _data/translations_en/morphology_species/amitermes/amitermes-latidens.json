@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from Mjöberg's (1920) original description, originally in English; that work placed it in Hamitermes, later transferred to Amitermes. The text is OCR from an Internet Archive scan, with line-end hyphenation and some letters misread; the measurements have been corrected from the context (e.g. 1,6 5 read as 1.65, 1,4 1 as 1.41, 0,9 5 as 0.95).",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Small; abdomen dark, head pale yellow. Head small, the posterior margin and sides rounded, the apex convex, sloping slightly downwards anteriorly, sparsely hairy; clypeus short, the sides rounded, the anterior margin broadly concave, forming a projecting rounded frontal angle; mandibles very short and strongly curved, very wide at the base, with one large broad obtusely triangular median tooth; antennae 14-segmented, the basal segment twice as long and twice as wide as segment 2, segment 3 shorter and tapering towards the base, segment 4 shortest, from segment 5 on gradually longer, the last two segments twice as long as wide; anterior margin of the pronotum carinate, the sides rounded; legs moderate; abdomen elongated, round, semitransparent. Measurements: body length with mandibles 4 mm; head length with mandibles 1.65 mm; head length without mandibles 1.41 mm; head width 0.95 mm; pronotum length 0.3 mm, width 0.59 mm; abdominal width 1.4 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Body narrow, slender, white, head pale yellow. Head small, round; clypeus wide and round, its apex forming an angle with the anterior margin; mandibles triangular, the tooth pattern similar to A. obtusidens; antennae 14-segmented, segment 4 shortest, from segment 6 on gradually longer, segments 12 and 13 nearly equal, segment 15 twice as long as wide; anterior margin of the pronotum carinate, the sides narrowing sharply towards the base; sides of the mesonotum rounded; legs moderate; abdomen slender, white. Measurements: body length 3.7 mm; head length 1.00 mm; head width 0.91 mm; pronotum length 0.39 mm, width 0.49 mm; abdominal width 1.22 mm."
+  },
+  {
+   "label": "Other",
+   "text": "The 14-segmented antennae and the peculiar shape of the mandibles make it easy to recognize; it is close to A. heterognathus from Western Australia, but has only 14 antennal segments and a different position and shape of the teeth. Specimens were collected in November (month 11) at Christmas Creek, southern Queensland."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Subespecie nominal, morfología como en N. longirostris (descripción original de Holmgren de 1913, en alemán); se enumera por separado aquí, con las medidas y los caracteres diagnósticos tomados de esa descripción original. El original está en alemán, digitalizado por OCR a partir del escaneo del Internet Archive, con palabras y cifras mal leídas ocasionalmente (p. ej. «l,i» por 1,1), comprobadas con el contexto; el original mide en mm.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Subespecie nominal, muy próxima a E. ovipennis, de la que difiere por el cuerpo algo menor y la cabeza más pequeña con nasa relativamente más larga; antenas de 13 segmentos. Distribución limitada a Sarawak, Borneo."
+  },
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 3.5—4 mm; cabeza incluida la nasa 1.50 mm, cabeza sin nasa 0.91 mm, anchura de la cabeza 0.99 mm, anchura del pronoto 0.40 mm. Antenas de 13 segmentos. Borde anterior del pronoto apenas cóncavo."
+  },
+  {
+   "label": "Obrero",
+   "text": "De dos formas, grande y pequeña: obrero mayor con longitud del cuerpo 5 mm, anchura de la cabeza 1.00 mm, anchura del pronoto 0.60 mm; obrero menor con longitud del cuerpo 4 mm, anchura de la cabeza 0.84 mm, anchura del pronoto 0.46 mm. Suturas cefálicas y fontanela indistintas en el obrero menor; antenas de 14 segmentos."
+  }
+ ]
+}

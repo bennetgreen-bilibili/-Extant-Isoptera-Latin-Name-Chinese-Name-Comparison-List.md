@@ -1,0 +1,29 @@
+{
+  "zh_name": "短毛圆筒白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头草黄色，长形，两侧几平行，向后收窄，密被短毛（长毛仅数根）；上颚黑色带红，粗壮，基部黄褐色，短而弯曲。后颏中部之宽超过其前部之宽的一半。上唇形状与 nordenskioldi 不同。触角淡黄色，11—12 节，被细毛；若为 12 节，则第 3 节不明显、极小；第 4 节短于第 2 节或第 5 节（英属圭亚那的 C. nordenskioldi 标本触角明显为 12 节）。前胸背板淡黄色，鞍形，前部有相当大的一块向上隆起，前缘不凹入（图版 1，图 7）。"
+    },
+    {
+      "label": "工蚁",
+      "text": "工蚁毛被较 nordenskioldi 更密更长；两种触角均为 13 节。"
+    },
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁比 C. nordenskioldi Holmgren 小，头上毛更密更短，上颚更短而更弯；前胸背板向上隆起的部分更大，前缘不凹入（nordenskioldi 的兵蚁前缘凹入）；头较窄。原文以量度表逐项对比本种（玻利维亚 Ivon）、kartabo 与巴拿马的 nordenskioldi 标本。"
+    },
+    {
+      "label": "其他",
+      "text": "量度（mm）：兵蚁体长 3.90；头连上颚长 2.10；去上颚头长（至前缘）1.50；左上颚长 0.65；后足胫节长 0.57；头宽 0.80。工蚁体长 3.0—3.7；头长 0.9—1.1；触角长 0.85—0.95。模式产地：玻利维亚 Ivon；1922 年 2 月 W. M. Mann 采得单头兵蚁与数头工蚁；模式兵蚁 Cat. No. 27673, U.S.N.M.。"
+    }
+  ],
+  "note": "据 Snyder 1926 原始描述（原文作 Cylindrotermes brevipilosus, new species）。有兵蚁与工蚁描述，无有翅成虫。原文的量度表为跨栏排印，OCR 后列间错位、个别数字残缺（如「.382」「nop」），本条目只采用可确定对齐的数值：体长 3.90、头连上颚 2.10、去上颚头长 1.50、左上颚 0.65、后足胫节 0.57、头宽 0.80，以及工蚁体长 3.0—3.7、头长 0.9—1.1、触角长 0.85—0.95；其余（前胸背板长宽、腹部宽等）因列错位未录，需核对原刊。另注意本文另有 Orthognathotermes brevipilosus 一种，非本种。",
+  "sources": [
+    {
+      "id": "S0604",
+      "citation": "Snyder T. E. 1926. Termites collected on the Mulford Biological Exploration to the Amazon Basin, 1921-1922. Proceedings of the U.S. National Museum 68(14): 1–77. https://doi.org/10.5281/zenodo.13675881",
+      "locator": "pp. 58–59"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "zh_name": "利略弓白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁可与南美其他种区分：肠瓣座（enteric-valve seating）显著，即使兵蚁也清晰可见；上颚细长、边缘齿明显且略向后转，与 A. amicki、A. amifer、A. foreli 相近，但体型更小（与 A. foreli 比），上颚更细长、比例更大且边缘齿更尖（与 A. amifer 比）。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头近长方形；侧面观头顶自后缘至中部凸，远端有明显凹陷；唇基短，两侧圆，前缘宽凹形成突出的圆角；上颚很短且强烈弯曲，基部很宽，具一大而宽的钝三角形中齿；触角 14 节；前胸背板前后缘圆；唇基 8—10 根刚毛，最长一对位于端部。量度（10 头，来自 4 个群体，mm）：头长连上颚（CLM）0.90—0.95；头长（LH）1.45—1.50；头宽（WH）1.03—1.08；前胸背板长（LT）0.90—0.98。"
+    },
+    {
+      "label": "工蚁",
+      "text": "上颚为典型木食型。左上颚端齿略大于 M1+2，M3 清楚可辨，边缘齿之间有明显切缘；右颚端齿大于 M1，M2 清楚，具明显后切缘，磨板有 4 条明显脊。"
+    },
+    {
+      "label": "其他",
+      "text": "正模兵蚁，MZUSP 8156 号标本中的个体，1964 年 1 月 30 日 W. Weyrauch 采；模式产地为阿根廷图库曼省 Tapia 市。种名纪念阿根廷博物学家 Miguel Lillo。肠道解剖（肠瓣座、P1/P3/P4 段、肠瓣装置）为该属南美种的比较解剖学依据。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0595",
+      "citation": "Rocha M. M.; Cancello E. M. 2020. Comparative anatomy of the gut of the South American species of Amitermes, with description of two new species and an identification key based on soldiers and workers. Zootaxa 4751(1): 75–104. https://doi.org/10.11646/zootaxa.4751.1.4",
+      "locator": "pp. 98–102"
+    }
+  ],
+  "note": "据 Rocha & Cancello (2020) 新种描述改写，原文英文。原文给出兵蚁、工蚁与肠解剖；量度单位为 mm，缩写首次出现处以括号标注，其后只用中文量度名，区间按原文。"
+}

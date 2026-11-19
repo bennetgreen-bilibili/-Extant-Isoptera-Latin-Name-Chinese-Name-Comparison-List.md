@@ -1,0 +1,21 @@
+{
+ "note": "El original está en alemán y se extrajo mediante OCR de un escaneo de biblioteca en Internet Archive (registro archive.org biostor-232733); algunas cifras y letras están mal reconocidas y se han comprobado con el contexto y las descripciones de las láminas; las cifras que no pudieron confirmarse no se han incluido. Están presentes las tres castas (alado, soldado y obreros de dos tamaños); se trata de la descripción original.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Longitud del cuerpo (con alas) 28 mm, anchura 6 mm; longitud de la cabeza 1.87 mm, anchura de la cabeza 1.56 mm. Cabeza de color pardo betún, cara amarilla, lados cubiertos de pelos cortos. Ojos compuestos bastante grandes. Fontanela pequeña, en forma de rendija, situada donde confluyen las suturas cefálicas; la sutura transversa termina en los ocelos a ambos lados. La banda frontal presenta una pequeña mancha triangular clara delante de la fontanela y una gran mancha ovalada clara a cada lado de su parte anterior. Artejo antenal 2 algo más largo que el 3, artejos 3 y 4 iguales en longitud."
+  },
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 4.7 mm, longitud de la cabeza 1.9 mm, anchura de la cabeza 1.26 mm. Cabeza de color pardo betún, con una banda transversa clara en la parte media del nasus; vértice y frente con sedas aisladas. Pronoto de color pardo herrumbre; el resto del tórax, las piezas bucales, el abdomen y las patas de color amarillo herrumbre. Tórax liso o con algunas sedas; terguitos abdominales a veces con algunas sedas largas en el margen posterior, generalmente completamente lisos; esternitos con una cubierta de pelos cortos además de las sedas largas. Lados de la cabeza redondeados; nasus cónico; contorno frontal con una prominencia media manifiesta. Antenas de 14 artejos, artejo 2 algo más corto que el 3, artejo 4 igual en longitud al 3 pero más grueso. Pronoto en silla de montar, con el margen anterior elevado bastante fuertemente."
+  },
+  {
+   "label": "Obrero",
+   "text": "Obrero grande: longitud del cuerpo 5.9 mm, longitud de la cabeza 1.6 mm, anchura de la cabeza 1.44 mm. Parte superior posterior de la cabeza de color pardo betún claro, cubierta de pelos cortos, parte anterior de la cabeza de color pardo herrumbre; una depresión débil a cada lado de la banda frontal; sutura transversa con escotaduras bastante bruscas a ambos lados; clípeo ligeramente abombado. Antenas de 16 artejos, artejo 2 más corto que el 3, artejo 4 igual en longitud al 2. Tórax y terguitos abdominales con pelos cortos además de algunas sedas largas; esternitos con cubierta de pelos bastante densa y numerosas sedas. Obrero pequeño: longitud del cuerpo 4.3 mm, longitud de la cabeza 1.26 mm, anchura de la cabeza 1.1 mm; color algo más claro. Antenas de 16 artejos, artejo 3 claramente más corto que el 2, artejo 2 igual en longitud al 4."
+  },
+  {
+   "label": "Otros",
+   "text": "Localidad típica: Chaquimayo, provincia de Carabaya, Perú. Forma 1: cabeza mayor y de color más claro, banda transversa clara del nasus poco patente; forma 2: algo menor que la forma principal."
+  }
+ ]
+}

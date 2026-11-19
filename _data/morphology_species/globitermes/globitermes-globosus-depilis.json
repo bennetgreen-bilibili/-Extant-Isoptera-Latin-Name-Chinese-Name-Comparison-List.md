@@ -1,0 +1,29 @@
+{
+  "zh_name": "无毛亚种",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "与 G. globosus 几乎完全一致；但中、后胸背板后缘宽而不深凹，中胸背板比后胸凹得更深；径分脉与中脉之间具多数弱的褐色脉；体型通常与 globosus 相同，但触角较长。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "同 G. globosus，但头无刚毛，前胸背板无长刚毛，腹部被毛远较稀疏而短。"
+    },
+    {
+      "label": "工蚁",
+      "text": "同 G. globosus。"
+    },
+    {
+      "label": "其他",
+      "text": "蚁后：色素很深，甚至腹板与背板之间亦着色。分布：婆罗洲。形态可与 G. globosus 区别处仅在毛被（头与前胸背板无刚毛、腹部毛被薄短）及翅脉（Rs 与 M 间多弱脉）。"
+    }
+  ],
+  "note": "据 Holmgren 1913 原始描述（德文，原文作 Hamitermes (Globitermes) globosus forma depilis n. f.），等级为型（forma），此处按名录处理为亚种。原文为德文，经 Internet Archive 扫描本 OCR 抽取，个别词形与数字有识别错误（如 l,i 应为 1,1），已按上下文核对；原文量度单位为 mm。",
+  "sources": [
+    {
+      "id": "S0089",
+      "citation": "Holmgren N. 1913. Termitenstudien 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Kungliga Svenska Vetenskapsakademiens Handlingar 50(2): 1–276.",
+      "locator": "p. 230"
+    }
+  ]
+}

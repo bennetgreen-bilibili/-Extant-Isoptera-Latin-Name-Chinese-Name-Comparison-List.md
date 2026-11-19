@@ -1,0 +1,25 @@
+{
+  "zh_name": "土栖帕塔瓦白蚁",
+  "sections": [
+    {
+      "label": "工蚁",
+      "text": "头被约 100 根长刚毛。肠瓣（enteric valve）垫具硬化附属物，由六簇组成，每簇约 20 根中等大小的刺。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "额腺孔中等大小，在两眼之间呈较浅的斑点。单眼中等大小。中胸与后胸背板后缘微凹，角圆。"
+    },
+    {
+      "label": "其他",
+      "text": "与 P. nigripunctatus 的区别在于肠瓣附属物刺更少、更粗壮且方向不一致。原文将 Grigiotermes bequaerti (Snyder & Emerson, 1949) 作为本种异名（syn. nov.）。模式标本：Anoplotermes turricola Silvestri, 1901 的工蚁与有翅成虫合模，巴西 Cuyabá，藏 AMNH。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0054",
+      "citation": "Bourguignon T.; Scheffrahn R.H.; Nagy Z.T.; Sonet G.; Host B.; Roisin Y. 2016. Towards a revision of the Neotropical soldierless termites (Isoptera: Termitidae): redescription of the genus Anoplotermes and description of Longustitermes, gen. nov. Zoological Journal of the Linnean Society 176: 758–820. https://doi.org/10.1111/zoj.12305",
+      "locator": "pp. 788–790"
+    }
+  ],
+  "note": "据 Bourguignon et al. (2016) 的种级处理改写，原文英文；Plazi 处理的文本取自 Zenodo record 10529957。该种为无兵蚁的土壤食性白蚁，原文只给出工蚁与有翅成虫的鉴别性描述及工蚁消化管、肠瓣特征，无完整体量表。"
+}

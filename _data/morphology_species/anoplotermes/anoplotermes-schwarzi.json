@@ -1,0 +1,25 @@
+{
+  "zh_name": "施瓦茨解甲白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "与 A. fumosus Hagen 相似，但头、尤其前胸背板更宽，单眼距复眼稍远。前胸背板约与复眼间的头宽等宽，前缘近直，两侧圆滑地转入圆的后缘。翅中脉具相当长的端叉，肘脉 10 支；径分脉之后、通向翅端处有微弱的横脉痕迹，延伸近至中脉之半。原文仅据有翅成虫描述，兵蚁与工蚁未记。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "原文（Banks 1919）以 “Winged.” 一段给出鉴别特征，未列量度；正模出典记为 U.S.N.M.，产地古巴 Cayamas，19 May（Schwarz 采）。"
+    },
+    {
+      "label": "其他",
+      "text": "模式标本采自古巴 Cayamas，采集者 Schwarz，采集日期 5 月 19 日；正模藏 U.S.N.M.。原文同页另记 Leucotermes tenuis (Hagen) 在巴哈马、古巴、海地、波多黎各、牙买加的分布，与本科无关。"
+    }
+  ],
+  "note": "Banks (1919) 对该种仅给出有翅成虫的一段鉴别性描述，未附量度，亦无兵蚁记录；条目按原文字面改写，不补数值。所用文本为 MCZ Bulletin 62 整卷 OCR（Antillean 论文的 Anoplotermes 段落在 `full.txt` 抽取本中缺失，仅存于此卷 OCR）。",
+  "sources": [
+    {
+      "id": "S0704",
+      "citation": "Banks, N. 1919. Antillean Isoptera. https://www.biodiversitylibrary.org/item/95203",
+      "locator": "p. 481-482 / 文库 Antillean-Isoptera/source/bulletinofmuseum62harv.txt"
+    }
+  ]
+}

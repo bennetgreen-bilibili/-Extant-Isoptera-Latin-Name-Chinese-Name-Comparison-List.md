@@ -1,0 +1,21 @@
+{
+ "note": "In the soldier measurements the head width HW and pronotum width PW rows are misordered in value in the PDF text extraction and are not recorded; the rest is transcribed from the three columns holotype [paratypes of the type colony] (three paratypes of Santo080).",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Closely related to Cryptotermes tropicalis from Queensland, from which the soldier can be distinguished by the more slender head; compared with the sympatric C. albipes, its frons is steeply sloping, not perpendicular to the plane of the mandibles nor inclined forwards, whereas the frons of the latter is vertical or even inclined forwards."
+  },
+  {
+   "label": "Alate",
+   "text": "Overall medium brown; head, pronotum and wing scales darker; legs paler, femora paler than tibiae; sternites palest. Wings brown, paler than the tergites, with small tubercles. Sides of the head parallel, posteriorly nearly circular. Compound eyes large; ocelli large, oval, touching the compound eye. Antennae 14—16-segmented in the reproductive (the dealate individual of Santo080 broken at 7 segments). Pronotum almost as wide as the head, anterior margin broadly concave, sides convex, contracting backwards, posterior margin double-convex. Hairs on head and pronotum sparse and short. In the wings the subcosta, radius and radial sector are sclerotized, the cubitus branches slightly sclerotized; the media is not sclerotized (except where it meets the radial sector), the meeting point beyond half the wing length; with arolia. Measurements (4 reproductives of the type colony, the dealate individual of Santo080 in parentheses): eye diameter 0.265—0.295 (0.275); ocellus diameter 0.100—0.115 (0.090); head length (to postclypeus) 0.950—1.000 (0.950); head width (including compound eyes) missing (0.935); head width index 0.695—0.730 (0.705); pronotum width 0.810—0.910 (0.865); hind tibia length 0.745—0.870 (0.825); forewing length 6.82—7.15 (missing)."
+  },
+  {
+   "label": "Soldier",
+   "text": "Posterior part of the head capsule ferruginous, frontal area black. Mandibles nearly black, antennae and labrum deep orange. Head square, distinctly longer than wide, sides straight and parallel, posterior margin convex. Frontal shield distinct only on the sides, extending backwards as a low ridge at about 45° to the sagittal plane. Fronto-vertex ridge concave, enclosing with the backward extension of the frontal shield a triangular depression in front of the frontal area. Frons steeply descending to the postclypeus. Frontal horns stout, distinct, blunt. Genal horns very small, blunt. Sides slightly concave and wrinkled behind the frontal shield. Compound eyes as distinct pale spots. Mandibles long, with a distinct swelling on the outer side at the basal third; marginal teeth small and clear. Antennae 10—15-segmented. Pronotum wide and angularly concave, anterior margin thickened. Measurements (holotype [paratypes of the type colony] (three paratypes of Santo080)): head length (to postclypeus) 1.755 [1.675] (1.610—1.650); left mandible length 1.025 [0.950] (0.955—0.995); labrum width 0.320 [0.270] (0.260—0.325); head depth 1.025 [0.920] (0.925—0.950); hind tibia length 0.920 [0.875] (0.775—0.815)."
+  },
+  {
+   "label": "Other",
+   "text": "Collected on days 9—26 of month 11, 2006, in lowland forest on the Saratsi range above Penaoru village, west coast of the Cumberland Peninsula, Espiritu Santo Island, Vanuatu, at 100 m altitude; the holotype soldier (ULB #Santo003; RBINS #15589) was taken from a small standing dead tree. Known only from the type locality. The specific name derives from the village name of the locality. Earlier material had been identified as C. tropicalis."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "note": "After the original description by Haviland (1898) (in English, placed in the genus Termes in the original). Soldier with vestigial mandibles and a slender nasus, antennae 13-segmented. The original was extracted by OCR from the Internet Archive scan; the scientific names and some word forms are misrecognized (e.g. eostratus for rostratus, latierons for laticornis), and the measurement figures have been checked against the context.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Body length 6.5 mm, dorsum dark chestnut, venter ochraceous brown. Head oval, hairy. Ocellus and compound eye separated by one eye diameter. Fenestra extremely minute. Antennae 14-segmented, segment 3 very short. Postclypeus hardly convex. Pronotum width 1.2 mm, sub-semilunar, anterolateral corners rounded and slightly depressed. Posterior margins of the mesonotum and metanotum with slight incisions. Wings 8.5 mm long, smoky; subcosta broad; mediana slender, closer to the submediana than to the subcosta, reaching the wing apex and giving off 2—3 branches; submediana reaching to about 1/10 of the wing length from the apex, with about 10 branches. Hind legs not reaching the end of the abdomen. Abdominal papillae absent."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 4 mm. Head width 1.0 mm, ochraceous. Antennae 13-segmented, segment 2 longer than segment 3, segment 3 longer than segment 4. Nasus (rostrum) slender. Mandibles vestigial. Postmentum as long as wide. Pronotum saddle-shaped, the anterior part short but raised very high. Hind legs extending beyond the abdomen. Abdomen long-oval. Abdominal papillae absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 6 mm. Head pale yellowish white. Antennae 13-segmented. Abdomen large, oval."
+  },
+  {
+   "label": "Other",
+   "text": "Female: sternite of abdominal segment 7 half as long as wide, posterior margin evenly rounded. Locality: Borneo (Sarawak). Type no. 279."
+  }
+ ]
+}

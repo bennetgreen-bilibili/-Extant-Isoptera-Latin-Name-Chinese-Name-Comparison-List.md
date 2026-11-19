@@ -1,0 +1,21 @@
+{
+  "zh_name": "直颚直颚白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁上颚粗壮，头壳大于 O. brevipilosus、O. longilamina、O. macrocephalus 与 O. okeyma，背面观头侧平行（O. insignis 与 O. uncimandibularis 向前略收敛）；最相似的是 O. heberi，其兵蚁上颚较窄。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "背面观头侧平行。侧面观背瘤略突出，位于侧缘突起之后。上颚第二型，近端半部有齿状突。头壳疏布刚毛与短毛，腹面较密，整个头壳散布微小毛，端区较密。后颏有刚毛与短毛。前胸背板有短毛与刚毛，边缘较多；中胸背板与后胸背板后缘有刚毛与短毛；腹部背片与腹片密被刚毛，腹片后缘有直立刚毛。"
+    }
+  ],
+  "note": "据 Rocha & Cancello (2009) 改写，原文英文；原文有翅成虫记为 Unknown；原组合 Capritermes orthognathus Silvestri, 1903 见原文，未另列。",
+  "sources": [
+    {
+      "id": "S0228",
+      "citation": "Rocha M. M.; Cancello E. M. 2009. Revision of the Neotropical termite genus Orthognathotermes Holmgren (Isoptera: Termitidae: Termitinae). 10.11646/zootaxa.2280.1.1",
+      "locator": "p. 13（treatment 6213701）"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+ "note": "Recast from the original species-level description of Haviland (1898), in English; the original states \"Male absent\" and describes only the soldier and the worker, with measurements in mm; \"Hab. Borneo (Sarawak). Type, No. 570\".",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Body length 3.5 mm; head length 1 mm, width 0.7 mm, pale yellowish white. Antenna 14 segments, segment 2 longer than segment 3 or segment 4, then gradually longer up to segment 8 (less than twice as long as wide). Labrum white, small, with two minute acute divergent lobes. Mandibles 1.2 mm long, bristle-like, slightly turned inwards and upwards at the base, the left slightly downcurved. Postmentum wider at the apex than at the base. Pronotum short, saddle-shaped, the anterior lobe short but distinctly raised. Hind legs far exceeding the end of the abdomen; abdomen white; abdominal papillae absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 3 mm; head pale; antenna 14 segments; clypeus convex; abdomen elongate-oval, its colour following the gut contents."
+  }
+ ]
+}

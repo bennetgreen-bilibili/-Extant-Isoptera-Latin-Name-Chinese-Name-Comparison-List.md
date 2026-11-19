@@ -1,0 +1,17 @@
+{
+  "zh_name": "短小锯白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "与 Microcerotermes parvulus 最接近，但体型更小：头连上颚长 1.55—1.66、头宽 0.65—0.68、上颚长 0.55—0.61 mm。模式产地达荷美（今贝宁）Agouagon，模式标本存巴黎与斯德哥尔摩博物馆。"
+    }
+  ],
+  "note": "据 Sjöstedt (1925) 原始描述改写，原文德语；为兵蚁的简短鉴别性描述（vorläufige Mitteilung），仅描述兵蚁。",
+  "sources": [
+    {
+      "id": "S0516",
+      "citation": "Sjöstedt, Y.; 1925. Neue Termiten aus Afrika und Madagaskar. Konowia 4: 53-55.",
+      "locator": "p. 54"
+    }
+  ]
+}

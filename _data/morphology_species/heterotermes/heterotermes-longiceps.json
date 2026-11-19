@@ -1,0 +1,21 @@
+{
+  "zh_name": "长头异白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "新种（原文作 Leucotermes longiceps，后归 Heterotermes），仅知兵蚁。兵蚁头淡黄褐、细长，长度超过宽度的 2 倍，两侧中部微凹，仅有少量分散长毛；触角 17 节；上颚深栗褐至黑色、细、端部内弯；后颏细长，前部宽为中部之 2 倍；前胸背板白色带黄，近心形，前后缘均凹。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头淡黄褐、细长，长度超过宽度的 2 倍，两侧中部微凹，仅有少量分散长毛。触角白色带黄，17 节，向端部渐宽，被短毛；第 3 节近棒状，短于第 2 与第 4 节。上唇淡黄、端部尖、被长毛，中部最宽。上颚深栗褐至黑色，细，端部内弯。后颏细长，前部宽为中部之 2 倍。前胸背板白色带黄，近心形，具长毛，前后缘均凹；两侧圆并向后收窄。足白色带黄，细长。腹部白色带黄，被密而长的毛。尾须长而明显。量度：兵蚁全长 6.75；头连上颚长 3.2；头不连上颚（至前缘）长 2.2；头长（至上唇端）2.775；前胸背板长 0.5；左上颚长 1.1；后足胫节长 0.708；头宽 1；前胸背板宽 0.8。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0560",
+      "citation": "Snyder, T. E. 1924. Descriptions of new species and hitherto unknown castes of termites from America and Hawaii. Proceedings of the United States National Museum 64 (art. 6).",
+      "locator": "pp. 20-21 (LEUCOTERMES LONGICEPS, new species, soldier)"
+    }
+  ],
+  "note": "据 Snyder 1924 年英文原始描述（新种 Leucotermes longiceps Snyder，模式产地巴西 Cuyabá/Coxipó；后归入 Heterotermes）。原文注明本种仅知兵蚁（known only from the soldier caste），量度为单值。"
+}

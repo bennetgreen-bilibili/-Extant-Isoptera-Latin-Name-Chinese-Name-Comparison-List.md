@@ -1,0 +1,17 @@
+{
+ "note": "Hill (1926) added measurements based on cotypes from Shoalhaven (New South Wales); the original used “°” for the decimal point, restored here. The alate description follows Froggatt’s original colour terms, corrected here to “head hazel brown, wings reddish brown”.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Cotype (Shoalhaven, N.S.W.) measurements (mm): body length including wings 15.00—15.50; excluding wings 6.50—7.00; head length to the frontoclypeal suture 1.02—1.08; head length to the apex of the labrum 1.25—1.36; head width 1.25; eye diameter 0.306—0.323; pronotum length 0.74, width 1.08—1.14; forewing length 11.25—11.75, width 3.13—3.24; hind tibia length 1.08—1.14. Hill had earlier recorded, on the basis of the type specimen, a hazel brown head and reddish brown wings; on better-preserved cotypes and specimens newly collected by Musgrave the body colour is here corrected to be distinctly darker, in agreement with the original description."
+  },
+  {
+   "label": "Soldier",
+   "text": "Measurements (cotypes, mm): body length 3.50—3.90; head length including mandibles 1.93—2.10; head length to the apex of the labrum 1.42—1.48; head length to the anterior margin of the frontal gland pore 1.14—1.31; head width 1.08—1.14; antennae 15- or 16-segmented; width of the postmentum at its narrowest 0.272—0.289; pronotum length 0.40—0.45, width 0.80—0.85; hind tibia length 0.97. The soldier measurements recorded earlier by Hill came from Uralla specimens (South Australian Museum), which are here considered to belong to C. acinaciformis, so the cotype measurements are used here."
+  },
+  {
+   "label": "Other",
+   "text": "Distribution: New South Wales (Shoalhaven is the type locality) and elsewhere in eastern Australia; Mjöberg (1920) recorded it from Millaa Millaa, Laura and Alice River in Queensland, which Hill doubted, tentatively assigning to this species only soldiers and workers from Pikedale (southern Queensland). The nest is a mound with a clay envelope encasing wood fragments."
+  }
+ ]
+}

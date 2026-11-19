@@ -1,0 +1,25 @@
+{
+  "zh_name": "小型象白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "体长 3.1 mm，头长 1.53 mm，头宽 0.95 mm，额突长 0.63 mm。与 Eutermes fulviceps 的区别：额部轮廓更直；腹部刚毛更稀少，腹部中部通常无刚毛；腹背板锈黄色；触角构造不同——触角 13 节，第 2 节长于第 3 节，第 3 节明显长于第 4 节。"
+    },
+    {
+      "label": "工蚁",
+      "text": "（幼体）体长 3.9 mm，头长 1.20 mm，头宽 1 mm。头板浅褐灰色，体灰白，后部透见褐灰色肠内容；头被短毛，其余毛被同兵蚁；头无囟孔，头缝明显、色浅；左上颚基齿几呈四边形。触角 14 节，第 2 节等于第 3 节与第 4 节之和，第 5 节短于第 2 节。"
+    },
+    {
+      "label": "其他",
+      "text": "与 Eutermes arcanus fulviceps 极近，颇难区分。模式产地：玻利维亚 Caupolicán 省 Tuiche。"
+    }
+  ],
+  "note": "原文为德文，经 Internet Archive 的图书馆扫描本 OCR 文本抽取（archive.org 条目 biostor-232733），个别数字与字母有识别错误，已按上下文与图版说明核对；无法确认的数字未写入。 原始描述含兵蚁与幼工蚁。",
+  "sources": [
+    {
+      "id": "S0525",
+      "citation": "Holmgren N. 1906. Studien über südamerikanische Termiten. Zoologische Jahrbücher, Abteilung für Systematik, Geographie und Biologie der Thiere 23: 521–676.",
+      "locator": "pp. 590–591"
+    }
+  ]
+}

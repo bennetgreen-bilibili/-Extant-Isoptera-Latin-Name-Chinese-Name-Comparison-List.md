@@ -1,0 +1,25 @@
+{
+  "zh_name": "丝角怒白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "雄性体长 8 mm；暗黑褐色，头栗色，足赭色。头卵形；单眼与复眼相距两个直径；窗孔小于单眼；触角 15 节，第 3 节略大于第 2 节；唇基凸而突出。前胸背板长约为宽之半，前缘近直，前侧角圆、几不下弯，后侧缘近直；中胸与后胸背板后缘宽、呈钝叶状；前翅芽大于后翅芽。翅长 12 mm，暗褐色，沿亚前缘脉后缘有一淡黄色条纹；中脉较近于亚中脉而远于亚前缘脉，在翅端三分之一处分叉并变淡；亚中脉具 10 条分支，近翅端变淡，止于距翅端五分之一的后缘处。后足伸达第 7 腹节；腹部乳突缺如。雌性第 7 腹节腹板长不及宽之半，后侧缘微凹。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体长 3.55 mm；头近栗色，胸与腹暗褐色，触角浅黄褐色，足淡黄白色。触角长 3 mm，第 3 节不比第 2 节长多少，第 4 节明显更长，第 7 节最长、长约为宽的三倍。喙中等，其前表面与头前表面成明显折角；退化上颚清晰可见；后颏长大于宽。前胸背板鞍形，前叶极短、几不隆起；后足腿节超出腹端；腹小、卵形；腹部乳突缺如。"
+    },
+    {
+      "label": "工蚁",
+      "text": "体长 4 mm；头近栗色，胸与腹上方暗褐色；触角 15 节；后足超出腹端；腹大、卵形，背板拱起。"
+    }
+  ],
+  "note": "据 Haviland (1898) 的原始种级描述改写，原文英语；含 imago、female、soldier、worker，量度单位为 mm。原文「Hab. Borneo (Sarawak). Type, No. 312」。Haviland 原写「TERMES FILICORNIS, D. sp.」，D 为 n 的 OCR 误认。",
+  "sources": [
+    {
+      "id": "S0546",
+      "citation": "Haviland, G. D.; 1898. Observations on termites; with descriptions of new species. Journal of the Linnean Society of London (Zoology) 26: 358-442. https://archive.org/details/zoological-journal-of-the-linnean-society_1898_26",
+      "locator": "p. 433—434"
+    }
+  ]
+}

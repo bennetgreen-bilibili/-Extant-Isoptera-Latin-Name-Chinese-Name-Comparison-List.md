@@ -1,0 +1,21 @@
+{
+ "zh_name": "微象白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "体型很小，体长不足 3 毫米；头形特殊——喙峰突出、头前方凹陷，喙基明显收窄，喙基两侧各有一个前端尖的明显突起；上颚游离部退化；触角 11 节。以此可与菲律宾其他种乃至作者所知的本属其他种区分。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头灰烟黄褐；喙淡褐；腹背板着色极淡。体型很小，体长不足 3 毫米。头与喙形状见图 17 a、b：喙峰突出；头前方凹陷；喙近基部收窄，喙基两侧各有一个前端尖的明显突起。头被一层细长弯曲的白毛及极少数硬刺状毛。上颚游离部退化。触角 11 节。量度（毫米及指数，采自模式采集 No. 314、和乐岛的一头典型兵蚁）：头连喙长 1.20；头长（不含喙）0.76；喙长 0.44；头突出部 0.27；头高 0.48；头宽 0.69；前足胫节长 0.54；头指数 0.91；头喙指数 0.57；头突出指数 0.35；足伸长指数 0.71。"
+  }
+ ],
+ "note": "据 Light & Wilson 1936 改写，原文英文（The nasute termites of the Philippines，The Philippine Journal of Science 60: 461–520）。有翅成虫与工蚁原文均作 Unknown；仅一批标本，Taylor 采于和乐岛（Jolo），模式采集 No. 314。图 17（兵蚁头背面、侧面，左上颚）未译。",
+ "sources": [
+  {
+   "id": "S0537",
+   "citation": "Light S. F. & Wilson F. J. 1936. The nasute termites of the Philippines. The Philippine Journal of Science 60: 461–520.",
+   "locator": "pp. 504–505 / The-nasute-termites-of-the-Philippines"
+  }
+ ]
+}

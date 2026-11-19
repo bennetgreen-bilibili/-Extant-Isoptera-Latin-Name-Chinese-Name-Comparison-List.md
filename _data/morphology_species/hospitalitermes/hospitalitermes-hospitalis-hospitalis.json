@@ -1,0 +1,21 @@
+{
+  "zh_name": "指名亚种",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头与腹部背板深栗褐，喙端色较浅；触角与足红褐。头与腹部背板大部无毛；前胸背板前缘有一列微毛。头梨形，喙基部后方的前部略收缩；喙圆锥形、颇短，其背面与头顶背面成一大弧；触角 14 节，各节细长，第 3 节长过第 2 节 2 倍，第 4 节略短于第 3 节；上颚端部尖；前胸背板鞍形，前缘圆、中部不凹；足细长。量度（mm）：体长 4.00；头连喙长 1.66；头不连喙长 1.19；头宽 0.93；前胸背板宽 0.62。"
+    },
+    {
+      "label": "工蚁",
+      "text": "分大小两型，体色同兵蚁，头与腹部背板被显微细毛。较大型：体长 4.50 mm；头宽 1.12 mm；前胸背板宽 0.78 mm。较小型：体长 3.50 mm；头宽 1.00 mm；前胸背板宽 0.59 mm。"
+    }
+  ],
+  "note": "据 Oshima 1916 改写；原文英文；原文作 Eutermes (Hospitalitermes) hospitalis Haviland，有翅成虫 Unknown（原文未描述）。原文较大型工蚁头宽 OCR 作“112”，按上下文及同段量级校为 1.12 mm。模式产地 Luzon, Laguna, Sarai near Paete（McGregor, 1915 年 6 月采）。",
+  "sources": [
+    {
+      "id": "S0531",
+      "citation": "Oshima M. 1916. A collection of termites from the Philippine Islands. Philippine Journal of Science, Section D, 11: 351–367. https://archive.org/details/philippinejourna0011unse",
+      "locator": "p. 360—361（A-collection-of-termites-from-the-Philippine-Islands）"
+    }
+  ]
+}

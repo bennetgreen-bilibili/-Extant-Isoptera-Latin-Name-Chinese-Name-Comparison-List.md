@@ -1,0 +1,25 @@
+{
+ "note": "Adapted from Silvestri 1914; the original is a Latin diagnosis (one section each for Regina / Rex / Nympha / Miles / Operarius) plus Italian text on the biology and the variety; type locality 'Camayenne, French Guinea', with further specimens from Kakoulima and Ibadan. The author collected the nest in the field, in brown soil at the base of a large tree, partly adjacent to a nest of Pericapritermes appellans. The original volume is the Bollettino del Laboratorio di Zoologia Generale e Agraria di Portici vol. 9 (1914–1915); a variety, var. sinuosa, is also described (Fig. LXIV shows the soldier head, labrum and left mandible drawn from Ibadan material). The original uses a comma as the decimal mark (1,75 = 1.75 mm); this has been converted to a decimal point here. OCR misprints (elypeo, seeundo, artieulatis, the Miles minor/major designations and others) have been read from the context. The 11 morphological figures of Pl. LXIII are not translated.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "This species is distinguished from the others by its larger size, by the acute posterior corners of the meso- and metanotum in the alate (queen), and by the shorter mandibles of the soldier. A variety is also recorded (var. sinuosa, from Ibadan material): soldier mandibles slightly longer and less curved, the anterior margin of the labrum more deeply incised, the front of the head unevenly dark; the material from Kakoulima is slightly larger, with the soldier head rust-coloured and more or less darkened in front."
+  },
+  {
+   "label": "Other",
+   "text": "Queen (Regina): body chestnut, head chestnut, clypeus orange-chestnut, sternites tinged pale brown and milky white in front, the membrane milky white, pleurites with small red dots. The fenestra (fontanelle) of the head partly encircles the vertex and is paler in colour; the clypeus is rather swollen; the compound eyes are rather large and distinctly projecting; the distance between the ocellus and the compound eye is less than the long diameter of the ocellus. In the type specimen the antennae are incomplete, segment 2 about twice as long as segment 3, segment 3 narrower and slightly shorter than segment 4. The posterior margin of the pronotum is shallowly undulate; meso- and metanotum gradually narrowing posteriorly, their posterior margin more deeply concave, the posterior corners acute. Legs with setae, the outer apical spine of the second pair of legs slightly stouter. Abdominal tergites and sternites covered with very short hairs and with a few shorter hairs. Measurements (mm): body length 15, abdomen width 2.5; head length 0.98, head width 0.91; long diameter of the compound eye 0.28; hind tibia 1.04. King (Rex): body length 5.5 mm."
+  },
+  {
+   "label": "Nymph",
+   "text": "Straw-yellow, the compound eyes poorly pigmented. Antennae 15-segmented, segment 2 about twice as long as segment 3; segment 3 with an indistinct basal division trace, almost equal in length to segment 4; segments 4 and 5 about equal in length. The outer apical spine of the tibia of the second pair of legs is finely pointed. Measurements: body length 7 mm, wing pads 0.94 mm."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body straw-yellow, head ochre, mandibles black except at the base (the abdomen coloured by the gut contents). Head slightly longer than wide, thick, truncate almost vertically in front; the fontanelle slightly elongate; labrum nearly quadrate, its anterior margin broadly rounded in the middle, the lateral corners short and projecting, rather narrow and acute. Mandibles slightly longer than the head, gradually tapering, not strongly curved, acute at the tip. Antennae 14-segmented, segment 2 slightly longer than segment 3, segment 3 0.5 times longer than segment 4, segment 5 almost 0.5 times longer than segment 4. The median edge of the anterior lobe of the pronotum is deeply concave. Leg hairs few, the outer apical spine of the tibia of the second pair of legs rather long and stout. Abdominal tergites and sternites with very small hairs, with several short hairs and rather long hairs posteriorly. Measurements (mm): body length 6; head length 1.75, head width 1.38; mandible length 1.56; antennal length 2.15; hind tibia 1.04."
+  },
+  {
+   "label": "Worker",
+   "text": "Body straw-yellow, head milky white, the abdomen greyish from the food contents. The clypeus of the head is rather swollen; antennae 14-segmented, segment 2 slightly longer than segment 3; segment 3 sometimes showing a very indistinct division trace, slightly longer than segment 4; segment 5 slightly longer than segment 4. The median edge of the anterior lobe of the pronotum is shallowly concave. Abdominal tergites and sternites covered with many shorter hairs, with several short or rather long hairs posteriorly. Measurements (mm): body length 5.5; head width 1.04; antennal length 1.54; hind tibia 0.91."
+  }
+ ]
+}

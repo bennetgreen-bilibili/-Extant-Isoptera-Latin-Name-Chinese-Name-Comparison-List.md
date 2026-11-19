@@ -1,0 +1,25 @@
+{
+ "zh_name": "薄嘴薄嘴白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "全长约 3.4 mm；头长（连象鼻）约 1.5 mm。头红褐色，象鼻略深，多少呈梨形；后部膨大而圆；象鼻基部有一两侧几乎平行的膨大部。象鼻延长而细。侧面观时象鼻与头前部膨大处成一直线，与头后部构成明显的角。触角长，13 节，第 3 节长至少为第 2 节的两倍。前胸背板鞍形，前叶垂直上举、边缘完整，后叶强烈收窄。足延长。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "体长约 4 mm。头红褐、圆形，背面强烈隆起。触角 14 节，第 3 节略短于第 2 节的两倍。胸部形状与兵蚁相同。腹部膨大；背板略染褐。"
+  },
+  {
+   "label": "其他",
+   "text": "原文以 Termes tenuirostris 新种 发表。产地：墨西哥 Jalisco 州（Diguet 1900 采，标签记「在乔木上筑巢」）；另 Orizaba（Bilimek 采，维也纳博物馆）。原文强调兵蚁头形为该种的特征。"
+  }
+ ],
+ "note": "条目依据 Desneux 1904 原始描述（兵蚁、有翅成虫）；原文为 BHL 分册的图书馆 OCR 文本。",
+ "sources": [
+  {
+   "id": "S0617",
+   "citation": "Desneux, J. 1904. Trois termites nouveaux. Annales de la Société Entomologique de Belgique 48: 286—289.",
+   "locator": "pp. 287—288"
+  }
+ ]
+}

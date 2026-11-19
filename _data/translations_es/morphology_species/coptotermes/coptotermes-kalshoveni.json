@@ -1,0 +1,13 @@
+{
+ "note": "Reescrito a partir del diagnóstico específico y las medidas de Takematsu y Vongkaluang (2012), el original en inglés; el original sólo da los caracteres diagnósticos y las medidas del soldado, por lo que sólo hay sección de soldado.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Cabeza y pronoto escasamente pilosos; postmentón con algunos pelos largos. Cabeza casi circular, que se estrecha claramente hacia delante, relación entre la anchura de la frente y la anchura máxima de la cabeza 0.50—0.55 (0.52); mandíbulas débilmente incurvadas, relación entre la longitud de la mandíbula izquierda y la longitud de la cabeza 0.57—0.63 (0.59). Antenas de 13—14 artejos. El punto más estrecho del postmentón se sitúa a aproximadamente un tercio de la distancia desde el margen posterior hasta el punto más ancho. Medidas (mm, 11 soldados de tres series): longitud de la cabeza hasta el clípeo 1.04—1.20 (1.10); anchura máxima de la cabeza 0.94—1.01 (0.97); longitud de la mandíbula izquierda 0.61—0.74 (0.65); longitud del pronoto 0.35—0.40 (0.37); anchura del pronoto 0.60—0.73 (0.65); longitud del postmentón 0.61—0.70 (0.65); anchura del postmentón 0.29—0.34 (0.31)."
+  },
+  {
+   "label": "Otros",
+   "text": "Distribución: sur de Tailandia, península Malaya, Sumatra, Borneo, Java; registrada sólo al sur del istmo de Kra. Puede distinguirse de los individuos pequeños de C. gestroi por la cabeza más redondeada, que se estrecha fuertemente hacia delante, y por el punto más estrecho del postmentón cerca del extremo posterior."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "zh_name": "自由树白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "头黄色；上颚红褐、端部黑；前胸背板淡褐；体呈暗黄；足与触角淡色。头长约为宽的两倍，两侧平行、几乎不外凸，后方宽圆，前方陡然下倾；唇基近方形。上颚短于头宽，粗壮，齿如常式。触角短，长几不超过头宽，第三节不变形。眼点不可见。前胸背板宽过于长的两倍，前缘凹、后缘微凸、两侧圆、后方几乎不收窄。头与体被稀疏中等长的直立毛；足短，后足腿节甚膨大。头长 3 mm。"
+  },
+  {
+   "label": "鉴别要点",
+   "text": "同文所附检索表把本种与 K. (K.) bequaerti、K. (K.) banksi、K. (K.) schwarzi、K. (K.) joueli 并列：眼点透明、后颏细者只有 liberatus 与 bequaerti，而 bequaerti 的前胸背板前缘具细锯齿，本种则无。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0638",
+   "citation": "Snyder T. E. 1929. New termites from the Antilles and Middle America. Proceedings of the Entomological Society of Washington 31: 79–97.",
+   "locator": "p. 81"
+  }
+ ],
+ "note": "据 Snyder 1929 的英文原始描述改写。立种缘由：Hagen 1858 依据圣托马斯岛一头脱翅雌虫命名 Calotermes posticus，Banks 1919 又把牙买加的一头兵蚁当作该种的兵蚁并声明「若不是，则为新种」；Snyder 认为 posticus 身份极可疑、很可能是 Cryptotermes（或许即 C. cavifrons），遂为 Banks 所记的牙买加标本另立新名 liberatus，模式产地 Cinchona（牙买加），模式兵蚁存美国自然历史博物馆。原文只描述兵蚁，有翅成虫与工蚁未知；同文检索表以「眼点透明、后颏细」与 bequaerti（眼点透明、后颏细、前胸背板前缘细锯齿）区分。"
+}

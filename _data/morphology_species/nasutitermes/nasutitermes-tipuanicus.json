@@ -1,0 +1,25 @@
+{
+ "zh_name": "蒂普阿尼象白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "体长 4—4.5 mm；头长 1.75 mm（头宽数值被 OCR 打散，不列）。与 Eutermes pluriarticulatus 很相似，体色、毛被与大小大致相同，但象鼻相对更粗。额部轮廓直，鼻基有弱隆起；象鼻上缘与头后部处在同一平面上。触角可能为 13 节：基节短于其后两节之和；第 3 节近乎第 2 节的两倍长，基部收缩、端部粗；第 4 节略长于第 2 节。"
+  },
+  {
+   "label": "工蚁",
+   "text": "体长 6 mm（头长与头宽被 OCR 打散，不列）。头黄褐色；头缝、唇基、上唇、上颚基部、触角周围、触角及其余体白至白黄色。头被相当多的毛；腹部背板毛相当密，并具后缘刚毛。头近圆形；头缝明显；囟孔不明显；唇基短于其半宽；上颚髁大。触角 14 节：第 3 节长于第 2 节；第 4 节近等于第 2 节；第 5 节更长。前胸背板中部仅很弱凹入。"
+  },
+  {
+   "label": "其他",
+   "text": "模式产地玻利维亚 Tipuani；模式标本藏汉堡博物馆。"
+  }
+ ],
+ "note": "条目依据 Holmgren 1910 原始描述（兵蚁、工蚁）。原文以 Eutermes tipuanicus 新种 发表。原文为 BHL 扫描件的图书馆 OCR 文本（Zenodo/Plazi 镜像），德语原描述逐条辨认；数值凡 OCR 打散无法确认者一律不列。",
+ "sources": [
+  {
+   "id": "S0607",
+   "citation": "Holmgren, N. 1910. Versuch einer Monographie der amerikanischen Eutermes-Arten. Mitteilungen aus dem Zoologischen Museum in Berlin 5(1): 1—324.",
+   "locator": "p. 281"
+  }
+ ]
+}

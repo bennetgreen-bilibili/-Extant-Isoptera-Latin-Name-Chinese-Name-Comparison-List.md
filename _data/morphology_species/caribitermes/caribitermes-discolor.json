@@ -1,0 +1,25 @@
+{
+  "zh_name": "异色加勒比白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁头淡黄褐，象鼻比体其余部分更褐；触角褐；前胸背板前部带褐；腹背较暗褐；腹面与足淡。头梨形，头顶不如常例那样圆，中部以下微收缩；象鼻长而细，各部位被细毛，毛大多极短而少数较长；触角细，第 3 节仅略长于第 2 节；足与体被细毛。体长 3.2 mm，头长 1.4 mm。因头微收缩而与 C. toussainti、C. flaveolus 相近，但象鼻远较二者长而细；头色比 C. toussainti 淡、比 C. flaveolus 深；头毛比 C. toussainti 更细，触角远长于 C. flaveolus；头收缩程度小于二者。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头淡黄褐，象鼻比体其余部分更褐；触角褐；前胸背板前部带褐；腹背较暗褐，腹面与足淡。头梨形，头顶不如常例圆，中部以下微收缩；象鼻长而细；各部位被细毛，毛多极短而少数较长；触角细，第 3 节仅略长于第 2 节；足与体被细毛。体长 3.2 mm，头长 1.4 mm。与 Constrictotermes toussainti 与 C. flaveolus 比较：象鼻远较二者长而细；头色较 C. toussainti 淡、较 C. flaveolus 深；头毛较 C. toussainti 更细；触角远长于 C. flaveolus；头收缩程度小于二者。"
+    },
+    {
+      "label": "其他",
+      "text": "模式产地波多黎各 Adjuntas（8—12 六月）与 Manati（6 月 27—29 日），亦见于 Culebra 岛（3 月 5 日，A. M. N. H.）以及波多黎各 El Yunque（2 月，Stejneger 采，U. S. N. M.）。正模 A. M. N. H.，副模 M. C. Z. 10,084。"
+    }
+  ],
+  "note": "原文以 Constrictotermes discolor 发表，后归入 Caribitermes；本条只据原文兵蚁描述，无工蚁与有翅成虫描述。",
+  "sources": [
+    {
+      "id": "S0704",
+      "citation": "Banks, N. 1919. Antillean Isoptera. https://www.biodiversitylibrary.org/item/95203",
+      "locator": "p. 489 / 文库 Antillean-Isoptera/full.txt"
+    }
+  ]
+}

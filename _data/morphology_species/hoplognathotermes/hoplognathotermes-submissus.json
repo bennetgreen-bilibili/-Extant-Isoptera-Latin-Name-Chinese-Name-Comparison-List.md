@@ -1,0 +1,25 @@
+{
+ "zh_name": "地下锐颚白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "大型工蚁与属内前一种的区别在于体型较小、头侧下缘及唇基后方的侧、中区多少发黑、触角 14 节（第 2 节比第 3 节长约 1/4，第 3 节比第 4 节长约 1/3，第 5 节又比第 4 节长约 1/6）、上颚齿尖锐而相当长。有翅成虫与兵蚁原文均未发现。"
+  },
+  {
+   "label": "工蚁",
+   "text": "大型工蚁：体长 6 mm；头长 1.25 mm；头宽 1.32 mm；触角长 1.82 mm；后足胫节长 1.40 mm。上颚齿尖锐且相当长。小型工蚁：触角 14 节，第 2 节比第 3 节长约 1/3，第 3 节比第 4 节长约 1/3。体长 5.5 mm；头长 1.17 mm；头宽 1.25 mm；触角长 1.82 mm；后足胫节长 1.32 mm。"
+  },
+  {
+   "label": "其他",
+   "text": "产地与习性：喀麦隆 Victoria，在一株大树干下的坑道内采得少量工蚁。"
+  }
+ ],
+ "note": "据 Silvestri 1914 年原始描述（拉丁文）改写，原文名为 Hoplognathotermes submissus 新种，并明确注明「Imago et miles ignota」（有翅成虫与兵蚁未知），故仅有工蚁两个品级的描述；模式产地喀麦隆 Victoria。原文量度以逗号作小数点，已按 1.25、1.32 等转写。",
+ "sources": [
+  {
+   "id": "S0534",
+   "citation": "Silvestri, F. 1914. Contribuzione alla conoscenza dei Termitidi e Termitofili dell’Africa occidentale. I. Termitidi. Bollettino del Laboratorio di Zoologia Generale e Agraria della Reale Scuola Superiore d’Agricoltura in Portici 9: 1–146.",
+   "locator": "p. 28"
+  }
+ ]
+}

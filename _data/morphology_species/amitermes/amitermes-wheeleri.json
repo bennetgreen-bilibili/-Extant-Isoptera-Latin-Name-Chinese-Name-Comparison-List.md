@@ -1,0 +1,25 @@
+{
+  "zh_name": "惠勒弓白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "与 A. californicus 最近缘，但上颚基节、颚刃与缘齿均较细弱（A. californicus 更粗壮）；兵蚁头壳较 A. californicus 略小，且不如其呈方形。检索表用「颚刃与齿细长、头宽均值约 0.85 mm」与 A. californicus（齿粗壮、头宽均值约 1.07 mm）区分，但量度表中头宽均值为 0.98 mm（美国个体）与 0.92 mm（佛罗里达个体）。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "兵蚁量度（mm，表 1；最大值/最小值/均值；美国个体与佛罗里达个体分列）：头宽 1.11/0.82/0.98 与 0.98/0.88/0.92；前胸背板宽 0.67/0.51/0.59 与 0.60/0.49/0.53；头长至后唇基 1.39/0.98/1.26 与 1.23/1.11/1.18；上颚内齿基至左颚缘距 0.18/0.07/0.13 与 0.12/0.11/0.12；左缘齿至颚缘宽度 0.26/0.14/0.18 与 0.18/0.14/0.16；上颚外齿基至左颚缘距 0.18/0.11/0.12 与 0.11/0.11/0.11。样本量：美国 56 号/21 巢，佛罗里达 7 号/4 巢。"
+    },
+    {
+      "label": "其他",
+      "text": "Desneux (1906) 依 Wheeler 在得克萨斯 Belton 采到的兵蚁与工蚁口头描述本种；A. floridensis Scheffrahn, Su & Mangold, 1989 现作为本种异名。分布为美国西南部、墨西哥的干旱地带及佛罗里达中部湿润区；据采集记录，本种不见于加利福尼亚，其进入佛罗里达被认为是观赏棕榈贸易引入的结果。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0434",
+      "citation": "Scheffrahn R.H. 2022. Amitermes californicus Banks, 1920 (Isoptera, Termitidae, Termitinae) resurrected after ninety years of synonymy and A. floridensis Scheffrahn, 1989 synonymized into A. wheeleri (Desneux, 1906). Zootaxa 5128(4): 581–588. https://doi.org/10.11646/zootaxa.5128.4.7",
+      "locator": "pp. 585–586"
+    }
+  ],
+  "note": "据 Scheffrahn (2022) 的种级鉴别与量度表改写，原文英文；该文未重写全形描述（并指 Light 1930 与 Desneux 1906 的描述），只补兵蚁上颚与头壳的鉴别特征、并给出量度表，故无有翅成虫与工蚁全描述。A. floridensis 已作为本种异名。"
+}

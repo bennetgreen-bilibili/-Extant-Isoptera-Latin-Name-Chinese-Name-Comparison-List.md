@@ -1,0 +1,17 @@
+{
+ "note": "Rewritten from the original species-level description by Haviland (1898); the original is in English and covers the imago, queen, soldier and worker, measurements in mm. The original gives \"Hab. Borneo (Sarawak), (Marudi). Type, No. 343\". Haviland also established a \"Termes setiger group\", characterized by the setiform, toothless soldier mandibles.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Body length 4.5 mm, upper side dark blackish brown, mesonotum, metanotum and venter pale dark brown. Head oval; ocellus and compound eye separated by less than one diameter; fenestra very small; a pair of pale spots near the lower inner margin of the ocellus. Antennae 14-segmented, segment 2 longer than segment 3; clypeus convex. Pronotum with the anterior margin straight and the posterior margin with a distinct lobe-like process; posterior margins of the mesonotum and metanotum narrow, with a deep median cleft; fore wing pads slightly larger than the hind wing pads. In the female the sternite of abdominal segment 7 is about half as long as wide, with a rounded posterior margin and an indistinct median lobe; the queen's abdomen reaches 20 mm in length, the lateral abdominal cuticle bearing pigment spots."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 5 mm; head length 1.5 mm, width 0.8 mm, pale yellowish white. Antennae 14-segmented, segment 2 and segment 3 nearly equal in length, segment 4 shorter, then gradually lengthening up to segment 8 (almost twice as long as wide) and shortening again towards the terminal segment. Labrum small, white, with two minute, acute divergent lobes. Mandibles 1.8 mm long, slender and setiform, slightly directed upwards and inwards at the base and then slightly curved downwards. Postmentum slender, widening towards the apex. Pronotum short saddle-shaped, the anterior lobe short and raised. Hind legs far exceeding the end of the abdomen; abdomen white; abdominal papillae absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 3 mm; head pale; clypeus convex; antennae 14-segmented; abdomen long-oval, the tergites slightly arched, the colour following the gut contents."
+  }
+ ]
+}

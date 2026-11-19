@@ -1,0 +1,13 @@
+{
+ "note": "Rewritten from the species-level description by Holmgren (1913); the original is in German. The adult is recorded in the original as \"unbekannt\"; only the soldier and worker are described, measurements in mm. The worker head width is damaged by OCR in the scanned text (rendered as \"0,i*ö\") and has not been entered. The original notes that the species may be only a race (Rasse) of sordidus.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head black, the tip of the nasus also black; body pale brown, antennae and femora tinged with brown. Head with a few setae, abdominal tergites with a row of posterior setae. Head wider and thicker than in sordidus. Antennae 14-segmented, segment 3 longer than segment 2, segment 4 longer than segment 3. Measurements: body length 3.7—4 mm, head with nasus 1.67 mm, head without nasus 0.83 mm, head width 1.03 mm, pronotum width 0.57 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "No mature workers available; the workers at hand are pale, measurements: body length 3.5 mm, pronotum width 0.57 mm."
+  }
+ ]
+}

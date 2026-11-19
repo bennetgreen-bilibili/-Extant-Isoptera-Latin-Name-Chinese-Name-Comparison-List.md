@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from Haviland's (1898) original species-level description, originally in English; it describes four castes, king, queen, soldier and worker, with measurements in mm (the original used British measures; all figures on this line are in mm). The original reads “Hab. Malay Peninsula (Malacca), Type, No. 535”.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Body length 8 mm; head chestnut, thorax brick red, abdomen pale chestnut brown, legs ochre. Head oval; ocellus more than one diameter from the compound eye; the fenestra as large as the ocellus; antennal segment 3 longer than segment 2; clypeus slightly projecting. Pronotum length about half its width, anterior margin nearly straight, anterior corners rounded and slightly depressed; posterior margins of the meso- and metanotum wide, forming obtusely rounded lobes; fore wing bud larger than the hind wing bud; abdominal papillae absent. In the female the sternite of the 7th abdominal segment is less than half as long as wide, the posterolateral margins slightly concave; the queen's abdomen is 12 mm long, the tergites strongly arched, the secondary sclerotization marked, the lateral abdominal membrane with minute pigment dots and hairs."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 4 mm; head pale chestnut brown, thorax and abdomen dark brown, legs pale yellow. Head width 1 mm. Antennae 2.5 mm long, 14-segmented, segment 3 much longer than segment 2 but shorter than segment 4, segment 7 longest and more than twice its width. Rostrum rather slender, its anterior surface forming a distinct angle with the anterior surface of the head; in frontal view a swelling between the base of the rostrum and the base of the antennae; vestigial mandibles visible; postmentum shorter than wide. Pronotum not distinctly saddle-shaped, the anterior lobe short and not much raised; hind femur reaching almost the apex of the abdomen; abdomen oval, slightly compressed, the tergites arched; abdominal papillae absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 5 mm; head chestnut, thorax and abdomen dark brown; antennae 15-segmented; abdomen large and oval, the tergites arched; hind legs extending beyond the apex of the abdomen."
+  }
+ ]
+}

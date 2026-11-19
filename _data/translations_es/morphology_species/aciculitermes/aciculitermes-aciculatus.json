@@ -1,0 +1,17 @@
+{
+ "note": "Según la descripción original de Haviland 1898 (publicada como TERMES ACICULATUS, en el texto que sigue a la clave de las especies de Sarawak). El original describe solo tres castas, ninfa, soldado y obrero, y ningún alado; el título no lleva \"n. sp.\" ni número de lámina, por lo que el original no indica si se trata de una especie nueva de ese año o de una descripción complementaria de una especie conocida. El original se extrajo mediante OCR del escaneo de BHL/Zenodo; la duplicación de las páginas dobles del microfilme hizo aparecer cadenas repetidas como \"426426\" en los encabezados, y algunas formas léxicas son erróneas (Gwula=Gula, Antenne=Antennae), verificadas según el contexto.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 3,5 mm, esbelto. Anchura de la cabeza 0,8 mm, blanco amarillento pálido (ochroleucous). Antenas de 12 segmentos, el segmento 3 más corto que el segmento 2. Rostro delgado, mucho más corto que la cabeza. Mandíbulas reducidas. Longitud del posmentón casi igual a su anchura. Pronoto en forma de silla de montar, lóbulo anterior elevado pero extremadamente corto. Patas posteriores que no alcanzan el ápice del abdomen. Abdomen ovalado alargado. Papilas abdominales ausentes."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 4 mm, esbelto. Cabeza blanco amarillento pálido. Antenas de 14 segmentos. Abdomen ovalado alargado."
+  },
+  {
+   "label": "Otros",
+   "text": "Antenas de la ninfa de 14 segmentos. Distribución: Borneo (Sarawak). Ejemplar tipo n.º 447."
+  }
+ ]
+}

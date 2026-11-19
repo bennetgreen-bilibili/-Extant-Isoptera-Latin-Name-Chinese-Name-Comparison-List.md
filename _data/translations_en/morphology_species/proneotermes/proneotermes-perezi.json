@@ -1,0 +1,13 @@
+{
+ "note": "Recast from the English redescription and measurements of Casalla, Scheffrahn and Korb 2016. The original states that the alate and soldier were described morphologically by Krishna (1961) without measurements; that 1961 text was not obtained for this batch, so only the soldier section is written here, with measurements from table 7 (10 individuals). The text also gives a key to the soldiers of the three Proneotermes species; this species falls in the branch with head width 1.15—1.65 mm and the outer margins of the genal angles in line with the sides of the head capsule, and differs from P. latifrons in the frontal plane, which in lateral view runs from the vertex to the mandibles at nearly a right angle (an even arc in latifrons), a postmentum whose length is about three fifths of its width (about one half in latifrons), and a convex posterior margin (conical in latifrons). Distribution from Guatemala through Honduras to Panama.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head robust; frontal plane dark, almost black, grading towards the vertex into rusty orange to orange yellow. Frontal plane meeting the postclypeal plane at 43—50°, without ridges, only with degenerate wrinkles. Mandibles curved upward, the dentition strong, the left mandible larger than the right; the mandibular base swelling pronounced. Eye spots without pigment. Antennal segment 3 larger than segments 2 and 4 and already sclerotized. Pronotum almost as wide as the head. Femora stout, short and thick. Tibial spur formula 3:3:3."
+  },
+  {
+   "label": "Soldier",
+   "text": "Measurements (10 individuals; mm; mean±standard deviation, range): head length to the mandibular apex 3.36±0.23 (3.05—3.80); head length to the frontal angle 2.23±0.09 (2.10—2.35); frontal margin width 0.93±0.11 (0.75—1.10); outer span of the genal angles 1.41±0.11 (1.20—1.60); maximum head width 1.52±0.09 (1.30—1.65); head height without the postmentum 1.24±0.08 (1.10—1.40); maximum pronotum width 1.46±0.13 (1.20—1.55); maximum pronotum length 0.90±0.08 (0.80—1.00); left mandible length (mandibular apex to ventral articulation) 1.28±0.08 (1.15—1.40); total body length 7.88±0.60 (7.00—8.80); number of antennal segments 12±0.9 (11—14)."
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "note": "Adaptado del texto de Hill (1922) en inglés; para perniger el original solo ofrece comparaciones y una discusión con D. rubriceps y D. daliensis (incluidos los caracteres de la clave de Mjöberg) y no una descripción completa aparte; las medidas proceden de la columna de perniger de la tabla de medidas de soldados comparadas de ese trabajo.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Típicamente de la forma de cabeza oscura; mandíbulas muy largas, con dientes anchos y prominentes. Se distingue de D. rubriceps (según la clave de Mjöberg) por las mandíbulas muy largas y los dientes anchos y prominentes, mientras que rubriceps tiene mandíbulas más cortas con dientes triangulares. Mjöberg señala que los ejemplares de distintas localidades varían mucho en color de la cabeza, tamaño y forma de la cabeza, pero no halló ningún carácter estable para basar una especie; Hill, en cambio, consideró que los soldados con distinta intensidad de color de la cabeza corresponden a alados que difieren claramente a nivel de especie y no pueden reunirse. Medidas (en la misma tabla que D. daliensis): cabeza con mandíbulas 3.196 mm; longitud de las mandíbulas 1.598 mm; profundidad de la cabeza 1.034 mm; anchura de la cabeza 1.598 mm; longitud de las antenas 3.666 mm; longitud del pronoto 0.564 mm, anchura 1.081 mm; longitud de las tibias anterior, media y posterior 1.457, 1.363, 2.303 mm."
+  },
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Soldado con mandíbulas muy largas y dientes anchos y prominentes; la cabeza más somera (profundidad 1.034 mm, unos dos tercios de la de D. daliensis); el pronoto más estrecho (anchura 1.081 mm)."
+  }
+ ]
+}

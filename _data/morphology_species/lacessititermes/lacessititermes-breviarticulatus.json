@@ -1,0 +1,25 @@
+{
+  "zh_name": "短节怒白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "无翅个体与 lacessitiformis 极相似，但复眼略大；单眼大，紧靠复眼，几与复眼相接；中胸背板突起略呈角状。量度：去翅体长 7 mm，头宽 1.59 mm。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "与 lacessitiformis 相同，但触角第 3 节通常短于第 2 节。量度：体长 3.5—4 mm，头连鼻长 1.03 mm，头无鼻长 0.8 mm，头宽 0.87 mm，前胸背板宽 0.49 mm。"
+    },
+    {
+      "label": "其他",
+      "text": "蚁后：次生几丁质化范围小，体长 18 mm，腹部两侧几乎无色素。"
+    }
+  ],
+  "note": "据 Holmgren (1913) 的种级描述改写，原文德语；描述无翅成虫（imago flügellos）、兵蚁与蚁后，工蚁原文记「unbekannt」。头长与前胸背板长在扫描文本中 OCR 残损（作「1,gt」「0,oi」），未录入；量度单位为 mm。",
+  "sources": [
+    {
+      "id": "S0089",
+      "citation": "Holmgren, N. F.; 1913. Termitenstudien. 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Kungliga Svenska Vetenskaps-Akademiens Handlingar 50(2): 1-276. https://archive.org/details/biostor-244353",
+      "locator": "p. 199—200"
+    }
+  ]
+}

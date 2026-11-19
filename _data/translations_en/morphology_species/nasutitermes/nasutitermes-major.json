@@ -1,0 +1,21 @@
+{
+ "note": "The original is in German and was extracted by OCR from a library scan on Internet Archive (archive.org item biostor-232733); a few figures and letters are misrecognized and have been checked against the context and the plate descriptions; figures that could not be confirmed have not been entered. All three castes are present (alate, soldier and workers of two sizes); this is the original description.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Body length (with wings) 28 mm, width 6 mm; head length 1.87 mm, head width 1.56 mm. Head pitch-brown, face yellow, sides covered with short hairs. Compound eyes rather large. Fontanelle small, slit-like, situated where the head sutures meet; the transverse suture ends at the ocelli on either side. The frontal band has a small triangular pale spot in front of the fontanelle, and a large oval pale spot on each side of its anterior part. Antennal segment 2 slightly longer than segment 3, segment 3 and segment 4 equal in length."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 4.7 mm, head length 1.9 mm, head width 1.26 mm. Head pitch-brown, with a pale transverse band across the middle of the nasus; vertex and frons with single setae. Pronotum rusty brown; the rest of the thorax, mouthparts, abdomen and legs rusty yellow. Thorax smooth or with a few setae; abdominal tergites sometimes with a few long setae on the posterior margin, generally completely smooth; sternites with a short hair covering in addition to the long setae. Sides of the head rounded; nasus conical; frontal outline with a distinct median swelling. Antennae 14-segmented, segment 2 slightly shorter than segment 3, segment 4 equal in length to segment 3 but stouter. Pronotum saddle-shaped, the anterior margin rising rather strongly."
+  },
+  {
+   "label": "Worker",
+   "text": "Large worker: body length 5.9 mm, head length 1.6 mm, head width 1.44 mm. Upper posterior part of the head pale pitch-brown, covered with short hairs, the anterior part of the head rusty brown; a weak depression on each side of the frontal band; the transverse suture with rather abrupt notches on either side; clypeus slightly inflated. Antennae 16-segmented, segment 2 shorter than segment 3, segment 4 equal in length to segment 2. Thorax and abdominal tergites with short hairs in addition to a few long setae; sternites with a fairly dense hair covering and numerous setae. Small worker: body length 4.3 mm, head length 1.26 mm, head width 1.1 mm; colour slightly paler. Antennae 16-segmented, segment 3 distinctly shorter than segment 2, segment 2 equal in length to segment 4."
+  },
+  {
+   "label": "Other",
+   "text": "Type locality: Chaquimayo, Carabaya Province, Peru. Form 1: head larger and paler, the pale transverse band on the nasus indistinct; form 2: slightly smaller than the main form."
+  }
+ ]
+}

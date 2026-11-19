@@ -1,0 +1,21 @@
+{
+  "zh_name": "尖锐象白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "有翅成虫连翅体长 13—16 mm；检索表中与 Eutermes (E.) Havilandi（Desneux）同处一组，以较大的前翅（11.5—13 mm，后者 10.5 mm）与较窄的前胸背板（0.92—1.1 mm，后者 1.2 mm）区分。头宽 1.18—1.25 mm，前胸背板长 0.57—0.65 mm。原卷只据有翅成虫描述本种，兵蚁与工蚁未见描述。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "头壳浅栗褐，矢状缝与唇基基片较淡；前胸背板略带褐色；中胸与后胸背板淡黄，仅微带褐；腹部背板浅褐，腹板淡黄、两侧微褐；翅灰黄，具黄色亚前缘纹。被毛密，翅具刻点与稀疏毛。头宽圆，几与长等宽；复眼大、强烈隆起；单眼中等大，几与复眼相接；囟孔裂缝状；头缝相当明显；唇基基片短于其半宽但并非很短，相当拱。触角 15 节，第 3 节略短于相邻节。前胸背板窄于头，长于其半宽，前缘平直，后缘极弱凹入；中胸与后胸背板后缘多少深凹，后角多少尖锐；中脉具 2—3 支端枝，肘脉具 10—12 支分枝，其中内侧 6—7 支直。量度：连翅体长 13—16 mm；去翅体长 6.5—7.5 mm；前翅 11.5—13 mm；头长 1.33—1.48 mm；头宽 1.18—1.25 mm；前胸背板宽 0.92—1.1 mm；前胸背板长 0.57—0.65 mm。分布：爪哇 Wonosobo（Jacobson）。"
+    }
+  ],
+  "note": "据 Holmgren 1913c（Termitenstudien 4）p. 189 的原始描述改写，原文德文；检索表条目见 p. 159。原卷只给出有翅成虫描述（原文以「Imago:」起始），无兵蚁、工蚁描述。德文原文小数用逗号，此处改为小数点，数值与范围未改。底本为 BHL/biostor 扫描件的 OCR 文本，小数字符串行严重（6,5 被识为 6,fl、0,65 为 0,05、1,18 为 1,is、0,92—1,1 为 0,92 lj），已用 archive.org BookReader 第 189 印刷页（叶序号 188）的图像逐字校核后录入；学名当时置于 Eutermes 属。",
+  "sources": [
+    {
+      "id": "S0089",
+      "citation": "Holmgren, N. 1913. Termitenstudien 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Kungliga Svenska Vetenskapsakademiens Handlingar 50(2): 1–276. https://archive.org/details/biostor-244353",
+      "locator": "p. 189（有翅成虫）；p. 159（检索表）"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "zh_name": "具毛前扭白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "体长 4.5 mm，上方暗黑褐色，中胸、后胸背板及腹面淡暗褐色。头卵形；单眼与复眼相距不足一个直径；窗孔极小；单眼内下缘附近有一对淡色斑点。触角 14 节，第 2 节长于第 3 节；唇基凸。前胸背板前缘平直、后缘具明显叶状突；中胸与后胸背板后缘窄，呈深中裂状；前翅芽略大于后翅芽。雌性第 7 腹节腹板长约当宽之半，后缘圆、中部呈不明显叶状；蚁后腹部体长 20 mm，腹部侧表皮具色素点。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体长 5 mm；头长 1.5 mm、宽 0.8 mm，淡黄白色。触角 14 节，第 2 节与第 3 节近等长，第 4 节较短，此后渐长至第 8 节（长几为宽两倍），再向端节渐短。上唇小、白色，具两个微小而尖的分叉叶。上颚长 1.8 mm，细长如鬃（setiform），基部略向上向内，随后略向下弯。后颏细长，向端部渐宽。前胸背板短鞍形，前叶短而隆起。后足远超出腹端；腹白色；腹部乳突缺如。"
+    },
+    {
+      "label": "工蚁",
+      "text": "体长 3 mm；头色浅；唇基凸；触角 14 节；腹长卵形，背板微拱，颜色随肠内容物。"
+    }
+  ],
+  "note": "据 Haviland (1898) 的原始种级描述改写，原文英语；含 imago、queen、soldier、worker，量度单位为 mm。原文「Hab. Borneo (Sarawak), (Marudi). Type, No. 343」。Haviland 另立「Termes setiger 组」，其兵蚁上颚鬃状、无齿为其特征。",
+  "sources": [
+    {
+      "id": "S0546",
+      "citation": "Haviland, G. D.; 1898. Observations on termites; with descriptions of new species. Journal of the Linnean Society of London (Zoology) 26: 358-442. https://archive.org/details/zoological-journal-of-the-linnean-society_1898_26",
+      "locator": "p. 415"
+    }
+  ]
+}

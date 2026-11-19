@@ -1,0 +1,25 @@
+{
+  "zh_name": "指名亚种",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "指名亚种，与 E. ovipennis 极近，区别为体略小、头较小而象鼻相对更长；触角 13 节。分布局限于婆罗洲 Sarawak。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体长 3.5—4 mm；头连象鼻长 1.50 mm，去象鼻头长 0.91 mm，头宽 0.99 mm，前胸背板宽 0.40 mm。触角 13 节。前胸背板前缘几乎不凹入。"
+    },
+    {
+      "label": "工蚁",
+      "text": "分大型与小型两型：大型工蚁体长 5 mm、头宽 1.00 mm、前胸背板宽 0.60 mm；小型工蚁体长 4 mm、头宽 0.84 mm、前胸背板宽 0.46 mm。头缝与囟孔在小工蚁中不明显；触角 14 节。"
+    }
+  ],
+  "note": "指名亚种，形态描述同 N. longirostris（Holmgren 1913 原始描述，德文）；此处单列，量度与鉴别特征取自该原始描述。原文为德文，经 Internet Archive 扫描本 OCR 抽取，个别词形与数字有识别错误（如 l,i 应为 1,1），已按上下文核对；原文量度单位为 mm。",
+  "sources": [
+    {
+      "id": "S0089",
+      "citation": "Holmgren N. 1913. Termitenstudien 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Kungliga Svenska Vetenskapsakademiens Handlingar 50(2): 1–276.",
+      "locator": "pp. 169–170"
+    }
+  ]
+}

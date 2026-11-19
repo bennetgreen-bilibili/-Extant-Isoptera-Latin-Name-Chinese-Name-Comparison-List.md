@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Partes superiores castañas, cabeza castaño oscuro, antenas, patas y parte inferior del abdomen pardo amarillento. Cabeza ovalada; ocelos a un diámetro de los ojos compuestos; fenestra estrecha y poco visible; antena de 15 segmentos, segmento 3 más largo que el 2; clípeo casi no saliente. Pronoto aproximadamente la mitad de largo que de ancho, borde anterior casi recto y algo levantado, esquinas anterolaterales redondeadas y algo curvadas hacia abajo, esquinas posterolaterales casi rectas; bordes posteriores del meso- y metanoto bastante anchos, ligeramente cóncavos; esbozos alares anteriores mayores que los posteriores. Longitud del cuerpo de la reina 12 mm, terguitos fuertemente arqueados (sobre todo en la base), quitinización secundaria escasa, epidermis lateral del abdomen con finos puntos de pigmento y setas."
+  },
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 4 mm; cabeza negra, tórax y abdomen pardo negruzco oscuro, tarso claro, abdomen pardo amarillento claro en algunos individuos (posiblemente jóvenes). Anchura de la cabeza 0.8 mm. Antena de 3 mm de longitud, 14 segmentos, segmento 3 el doble de largo que el 2, los siguientes progresivamente más largos, segmento 8 unas tres veces más largo que ancho. Rostro grande, cuya superficie anterior forma una curva marcada con la superficie anterior de la cabeza; mandíbulas vestigiales claramente visibles; posmentón menos de la mitad de largo que de ancho. Pronoto en silla de montar, lóbulo anterior corto, muy poco elevado; fémures posteriores que rebasan el extremo del abdomen; papilas abdominales ausentes."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 5 mm; cabeza castaña, tórax y abdomen pardo oscuro; antena de 15 segmentos; patas posteriores que rebasan el extremo del abdomen; abdomen grande, ovalado, terguitos arqueados."
+  }
+ ],
+ "note": "Adaptado de la descripción original específica de Haviland (1898), original en inglés; incluye imago, reina, soldado y obrero, con medidas en mm. El original indica «Hab. Malay Peninsula (Singapore). Type, No. 102»; el nido era esférico, a unos 10 pies de altura sobre una rama de arbusto."
+}

@@ -1,0 +1,25 @@
+{
+ "note": "Adaptado de la descripción original de Sjöstedt (1911), en alemán. La descripción original es muy breve: sólo da la frase diagnóstica que compara la especie con E. parvus, la longitud del cuerpo y la anchura de la cabeza de cada casta, y los datos de recolección, sin describir color ni estructura, por lo que cada sección contiene únicamente medidas. El original no indica la unidad de medida; siguiendo el uso de todo el trabajo, es el milímetro.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Afín a Eutermes parvus Haviland, de la que difiere por ser en conjunto menor; el original da esto como único carácter diagnóstico."
+  },
+  {
+   "label": "Alado",
+   "text": "Envergadura alar 12 mm, longitud del cuerpo con las alas 7.5 mm, longitud del ala 5.5 mm, anchura del ala 1.45 mm, longitud del cuerpo con la cabeza 4—4.5 mm."
+  },
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 4 mm, longitud de la cabeza con las mandíbulas 1.7—1.8 mm, anchura de la cabeza 0.65 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 3—3.5 mm, anchura de la cabeza 0.55 mm."
+  },
+  {
+   "label": "Otros",
+   "text": "Localidad tipo Mukimbungu, Congo. El 29 de octubre de 1904 (mes 10) se recolectaron 39 alados, 58 soldados y 220 obreros; el 1 de octubre (mes 10) del mismo año 41 alados, 12 soldados y 204 obreros, el 12 de noviembre (mes 11) 44 alados, 21 soldados y 85 obreros, el 4 de noviembre (mes 11) 42 alados, 6 soldados y 10 obreros."
+  }
+ ]
+}

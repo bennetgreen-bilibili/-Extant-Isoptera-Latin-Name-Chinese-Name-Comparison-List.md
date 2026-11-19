@@ -1,0 +1,13 @@
+{
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Closest to Eutermes inanis. Head pale yellow, nasus brown; body dirty white, the gut contents showing through. Head sparsely covered with microscopic fine hairs, with several longer setae in addition; abdominal tergites with almost microscopic fine thin hairs; sternites with longer hairs and a row of marginal setae. Head broadly oval from above, slightly narrowed toward the nasus; nasus narrowly conical, not so narrow as in the other species of the subgenus, slightly shorter than the nasus of E. inanis; the frontal profile almost perfectly straight, with only an almost invisible swelling at the base of the nasus. Mandibles without an apical piece. Antenna rather short, 12-segmented; segment 2 longer than segment 3; segment 4 equal in length to segment 2. Pronotum saddle-shaped, anterior margin not concave. Measurements: body length 2.3 mm; head length including nasus 1.46 mm, excluding nasus 0.84 mm; head width 0.8 mm; pronotum width 0.41 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Head white-yellow, with a yellow head plate; body colour as in the soldier. Head covered with fine short hairs, the abdominal tergites with short hairs. Head oval on all sides; fontanelle situated slightly behind the middle; postclypeus almost half as long as wide, strongly raised; antenna 13-segmented, segment 2 as long as segments 3 and 4 together, segment 3 the shortest, its boundary with segment 4 incomplete. Anterior margin of the pronotum not concave. Measurements: body length 2.5 mm; head width 0.87 mm; pronotum width 0.45 mm."
+  }
+ ],
+ "note": "Adapted from the original description by Holmgren (1914), original in German; includes the soldier and the worker; the alate is not described (the original states \"Imago unbekannt\"). The type localities are Tandjong Slamat in eastern Sumatra and Maxwell's Hill in Malaya, among others."
+}

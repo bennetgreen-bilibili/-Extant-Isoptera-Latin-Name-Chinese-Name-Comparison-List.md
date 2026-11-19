@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the original description of Snyder 1926 (published as Armitermes (Armitermes) benjamini, new species). The original describes the soldier only, with no alate or worker. The text was extracted by OCR from the BHL/Zenodo scan, with broken spacing between words and severe line breaks and some misspellings (papille=papillae, Antenne=Antennae), checked against the context; measurements in mm.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head pale yellowish brown, the nasus darker (pale chestnut brown). Head widest near the base, only slightly narrowing forwards, not convex above, the posterior margin rounded; a few long hairs near the anterior margin. Nasus not reaching the tips of the mandibles, tapering towards the apex, truncate at the tip and with short hairs, thicker than in albidus Hagen. Postmentum long, wider at the middle. Labrum yellowish brown, broadly rounded at the apex, with long hairs. Mandibles reddish brown, yellow at the base, slender, broader than in albidus, strongly curved but less so than in albidus; with a short, pointed, forward-directed tooth whose base is wide and which lies near the base rather than near the tip. Antennae yellowish brown, broken in the specimen, segment 2 short, slightly more than half as long as segment 1. Pronotum yellow, darker at the margins, saddle-shaped, densely covered with long hairs. Legs white tinged with yellow, finely hairy. Abdomen dirty greyish white tinged with yellow, the tergites densely hairy, but with hairs shorter than those of the pronotum and relatively shorter than in albidus."
+  },
+  {
+   "label": "Diagnostic characters",
+   "text": "Compared with albidus Hagen: the nasus thicker, the mandibles broader and less curved, the postmentum of the ventral surface of the head longer and wider at the middle, the hairs of the abdominal tergites relatively shorter; the head hairs fewer than in percutiens Emerson and the narrowing forwards more pronounced."
+  },
+  {
+   "label": "Other",
+   "text": "Measurements: soldier body length 5.60 mm; head with mandibles 2.50 mm; head with nasus 2.10 mm; head length (to the anterior margin) 1.50 mm; nasus length 0.70 mm; left mandible length 1.10 mm; pronotum length 0.35 mm; hind tibia length 1.20 mm; head width (at the widest point) 1.35 mm; pronotum width 0.70 mm. Type locality: Cachuela Esperanza (Beni River), Bolivia; a single soldier collected by W. M. Mann in March 1922 (month 3); type soldier Cat. No. 27649, U.S.N.M. The species is named for the family of Edgar Laing Benjamin."
+  }
+ ]
+}

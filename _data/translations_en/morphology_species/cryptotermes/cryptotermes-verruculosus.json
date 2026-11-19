@@ -1,0 +1,21 @@
+{
+ "note": "The measurement table of the original is an OCR table and some values cannot be read (for example the position of the compound eyes and some widths), so only the confirmable items are recorded; the species was originally described as Kalotermes (Cryptotermes) verruculosus.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "No clear difference from Kalotermes brevis apart from body size; in the soldier the vertex concavity is shallower and the tubercles less prominent than in K. brevis, and the head outline is less straight than in K. brevis; the anterolateral corners of the pronotum are rounder and not pointed, unlike K. brevis. K. infumatus differs in the venation, K. brevicollis is smaller and K. dudleyi larger."
+  },
+  {
+   "label": "Alate",
+   "text": "Head reddish yellow. Antennal segment 3 shorter than segment 2, segment 2 as long as segment 4. Compound eye 0.192 mm from the lower margin of the head. Almost no difference from K. brevis apart from size. Measurements (some individuals from the same colony as the queen and soldiers): body length with wings 9.45 mm; body length without wings 4.73 mm; head length 1.12 mm; head width 0.96 mm; left mandible length 0.51 mm; pronotal width 0.71 mm; forewing length 6.85 mm, width 1.89 mm."
+  },
+  {
+   "label": "Soldier",
+   "text": "Anterior part of the head black, posterior part reddish yellow-brown, with a few setae posteriorly; shape as in K. brevis, but the vertex concavity is shallower and the tubercles weaker; the tubercles of the frontal face are distinct, and the lateral outline is less straight than in K. brevis. Antennae pale, 11—12-segmented, segments 3 and 4 equal and very short, segment 2 as long as segments 3 and 4 together. Compound eyes visible behind the antennal base. Mandibles black and short. Pronotum concolorous with the posterior part of the head, the anterior margin concave with a blunt median angle, the anterolateral corners rounded and not pointed as in K. brevis; abdominal tergites yellow. Measurements: body length 4.50 mm; head length 1.28—1.38 mm; head width 1.03 mm; antennal length 0.81 mm; pronotal length 0.58—0.61 mm, width 0.96 mm; hind tibia length 0.61 mm."
+  },
+  {
+   "label": "Other",
+   "text": "Type locality Kartabo, British Guiana, known only from the type locality. The holotype is a soldier and the morphotype a queen; the description is based on one queen and six soldiers from two colonies, and a separately collected alate that agrees with the queen, whose measurements are also included."
+  }
+ ]
+}

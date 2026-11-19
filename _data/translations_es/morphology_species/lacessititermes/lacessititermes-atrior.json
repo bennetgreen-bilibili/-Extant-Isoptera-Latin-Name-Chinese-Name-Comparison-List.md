@@ -1,0 +1,21 @@
+{
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Cabeza pardo oscuro, postclípeo más claro; pronoto pardo, meso- y metanoto más claros; esternitos (macho) del mismo color que los terguitos; fémures y tibias pardos, tarso claro; alas parduzcas, la estría subcostal pardo amarillenta. Cabeza con solo unas pocas setas; pronoto más densamente peloso; terguitos abdominales densamente pelosos; alas densamente cubiertas de setas cortas. Cabeza ovalada ancha, estrechada hacia delante; fontanela muy estrecha, en forma de hendidura; suturas cefálicas apenas visibles; ojos compuestos medianos, fuertemente salientes; distancia entre el ocelo y el ojo compuesto igual al diámetro corto del ocelo, borde interno del ocelo fuertemente elevado; frente con una depresión bastante profunda; postclípeo corto (aunque no muy corto), bastante fuertemente elevado; antena de 15 segmentos, segmentos 2, 3 y 4 aproximadamente de igual longitud. Pronoto pequeño, fuertemente estrechado por detrás, borde anterior no cóncavo; bordes posteriores del meso- y metanoto ampliamente cóncavos, con protuberancias obtusamente redondeadas; media con 2—3 ramas, cubitus con 8—10 ramas."
+  },
+  {
+   "label": "Soldado",
+   "text": "Pardo negruzco, el rostro negro, cabeza algo más oscura que el resto del cuerpo, más clara alrededor de las antenas, tarso amarillento. Cabeza y dorso del cuerpo sin pelos. Cabeza en vista dorsal redondeado-triangular; rostro largo, cónico, bastante ancho en la base; contorno frontal fuertemente hundido por detrás de la base del rostro; antena de 14 segmentos, segmento 3 menos de dos veces tan largo como el 2, segmento 4 algo más largo que el 3. Pronoto pequeño, borde anterior no cóncavo."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza parda, dorso del cuerpo pardo claro, vientre pardo amarillento; tibias algo más claras que los fémures, tarso amarillento. Cabeza con unas pocas setas cortas, borde posterior de los terguitos abdominales con una hilera de setas cortas. Cabeza algo pentagonal y redondeada; suturas cefálicas muy marcadas; fontanela evidente, alargada; postclípeo muy corto; antena de 15 segmentos, segmentos 2, 3 y 4 aproximadamente de igual longitud; pronoto corto, en silla de montar, borde anterior no cóncavo."
+  },
+  {
+   "label": "Otros",
+   "text": "Medidas (mm). Alado: longitud del cuerpo con alas 15, sin alas 8—9, longitud del ala anterior 12, anchura de la cabeza 1.62, anchura del pronoto 1.29, longitud 0.76. Soldado: longitud del cuerpo 4.5, longitud de la cabeza con el rostro 1.80, longitud de la cabeza (sin rostro) 0.87, anchura de la cabeza 1.14, anchura del pronoto 0.57. Obrero: longitud del cuerpo 4—4.5, anchura del pronoto 0.65. Distribución: Bukit Timah, Borneo; Java."
+  }
+ ],
+ "note": "Adaptado de la descripción específica de Holmgren (1913c), original en alemán; se describen y miden el alado, el soldado y el obrero. Dos cifras, la longitud de la cabeza del alado y la anchura de la cabeza del obrero, están dañadas en el texto escaneado y no se han introducido; el resto de las cifras figuran como en el original. La descripción original de la especie está en Holmgren (1912a); esta entrada sigue la monografía de 1913c."
+}

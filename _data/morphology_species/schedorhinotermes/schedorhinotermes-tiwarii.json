@@ -1,0 +1,21 @@
+{
+  "zh_name": "蒂瓦里长鼻白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "大型兵蚁：体长 5.60—6.60 mm；头长至颚基 1.68—1.85 mm，头宽 1.60—1.68 mm；触角 16 节；上唇宽 0.50—0.53 mm、长 0.33—0.40 mm；上颚长 0.96—1.02 mm；后颏中长 1.12—1.18 mm，最大宽 0.43—0.50 mm，腰宽 0.30—0.33 mm；前胸背板长 0.60—0.63 mm、最大宽 1.00—1.09 mm；胫距 3∶2∶2。小型兵蚁：体长 3.65—4.09 mm；头长 0.90—1.07 mm，头宽 0.76—0.90 mm；触角 15 节；上唇 0.36—0.45×0.20—0.25 mm；上颚 0.53—0.63 mm；后颏 0.53—0.60×0.30—0.36 mm，腰 0.23—0.26 mm；前胸背板宽 0.56—0.63 mm、长 0.40—0.45 mm。"
+    },
+    {
+      "label": "工蚁",
+      "text": "体色淡黄；头部近方形；触角 15 节；其余性状与量度见原文工蚁记述。"
+    }
+  ],
+  "note": "据 Roonwal & Chhotani 1997 改写；原文英文；原文未描述有翅成虫（Imago: Unknown）；大型兵蚁头宽 OCR 作“1.6()^1.68”，按上下文校为 1.60—1.68 mm；工蚁原文有完整描述与量度，此处仅撮其要。",
+  "sources": [
+    {
+      "id": "S0561",
+      "citation": "Roonwal M. L., Chhotani O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume I. Zoological Survey of India, Calcutta. https://archive.org/details/dli.zoological.fi.026",
+      "locator": "p. 554—558（The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-I）"
+    }
+  ]
+}

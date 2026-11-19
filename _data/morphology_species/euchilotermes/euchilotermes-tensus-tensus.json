@@ -1,0 +1,25 @@
+{
+  "zh_name": "指名亚种",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "指名亚种即 Silvestri 1914 描述的典型形态，模式产地为法属几内亚 Mamou。与 var. arcuata 相比，兵蚁上颚较直、弯曲度小；与 var. acutidens 相比，兵蚁头较大、上颚较短（1.38 mm 对 1.57 mm）且颚齿较粗钝。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体长 5 mm；头（不含上颚）长 2.08 mm、宽 1.32 mm；上颚长 1.38 mm；触角长 1.82 mm；后足胫节 1.17 mm。头近矩形，长约较宽大 4/5；囟孔上方突起粗厚、凸起，达上颚基部水平；上唇大，前缘宽而深凹；上颚长与头宽近相等，较直，仅端部弯曲；触角 15 节，第 2 节长为第 3 节的 2 倍。"
+    },
+    {
+      "label": "其他",
+      "text": "蚁后：体长 12 mm，腹部宽 4 mm；头长 0.94 mm、宽 0.91 mm；复眼长径 0.24 mm；后足胫节 1.17 mm。体淡乳白色，头栗色，胸部背板与腹背板黄褐色；囟孔较大，卵形；复眼较大而突出；单眼与复眼距离小于单眼长径。触角 14 节（蚁后触角不完整）。"
+    }
+  ],
+  "note": "据 Silvestri (1914) 原始描述改写；原文为拉丁文；指名亚种与种同日描述，量度同正模描述；量度单位 mm 照原文。",
+  "sources": [
+    {
+      "id": "S0534",
+      "citation": "Silvestri F. 1914. Contribuzione alla conoscenza dei Termitidi e Termitofili dell'Africa occidentale. I. Termitidi. Bollettino del Laboratorio di Zoologia Generale e Agraria della R. Scuola Superiore d'Agricoltura in Portici 9: 1-146. https://archive.org/details/bollettinodellab9191415rscufo",
+      "locator": "p. 86"
+    }
+  ]
+}

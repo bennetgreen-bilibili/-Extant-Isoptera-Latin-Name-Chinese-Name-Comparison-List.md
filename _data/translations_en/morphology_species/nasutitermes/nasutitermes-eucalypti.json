@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from Mjöberg's 1920 original description (in English, Text Figs. 18 c, 26), original name Eutermes eucalypti n. sp.; includes major and minor soldiers and the worker with all measurements; no alate is described. The original uses a comma as the decimal separator (e.g. '3,2 mm'), transcribed here as 3.2; the scan readings '0,si mm', '0,i9 mm' and '0,i7 mm' are OCR errors, restored from context as 0.51, 0.19 and 0.17 mm respectively. The minor soldier body length is printed in the original as 1.27 mm, inconsistent with the head length of 0.82 mm and presumably a misprint for 3.27 mm; it is recorded as printed and flagged here. Text taken from the archive.org scan. Now in Nasutitermes.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Soldiers of two sizes but identical in form. Head rather small, rufous, with a broad transverse chestnut band across the frons broadly interrupted in the middle by a pale thin line, the mouth region slightly darker; posterior margin and sides of the head rounded, abruptly narrowed towards the short and rather stout nasus; antennae 13-segmented, long and slender, segment 3 distinctly longer, wider at the tip than at the base and twice as long as segment 4, segment 5 far longer than segment 4 but shorter than segment 3. Worker head glossy, with darker reddish brown patches on the posterior half; antennae 15-segmented, segment 3 very small."
+  },
+  {
+   "label": "Soldier",
+   "text": "Major soldier (Text Figs. 18 c, 26 b, c): head rather small, rufous, with a broad transverse chestnut band across the frons broadly interrupted in the middle by a pale thin line, the mouth region slightly darker; posterior margin and sides of the head rounded, abruptly narrowed towards the short and rather stout nasus; antennae 13-segmented, long and slender, the basal segment long and thick, segment 2 less broad and only about half as long, segment 3 distinctly longer, wider at the tip than at the base and twice as long as segment 4, segment 4 the shortest, segment 5 far longer than segment 4 but shorter than segment 3, segments 6—12 about twice as long as wide, segment 13 elongate with a rounded tip; all segments pale brown, paler at the base. Measurements: body length 3.2 mm, head length 1.36 mm, nasus length 0.51 mm, nasus base width 0.19 mm, head width 0.82 mm, pronotum length 0.21 mm, width 0.48 mm, abdominal width 0.84 mm. Minor soldier: identical in form to the major soldier. Measurements: body length 1.27 mm (as printed in the original; given the head length of 0.82 mm probably a misprint for 3.27), head length 0.82 mm, nasus length 0.48 mm, nasus base width 0.17 mm, pronotum length 0.23 mm, width 0.42 mm, abdominal width 0.6 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Of the usual Eutermes type; head glossy, with darker reddish brown patches on the posterior half, narrowing in front of the antennae; antennal segment 3 very small, shorter than segments 2 and 4; the distal segments more than twice as long as wide, segment 15 slightly shorter than segment 14. Measurements: body length 5 mm, head length 1.66 mm, head width 1.27 mm, pronotum length 0.29 mm, width 0.68 mm, abdominal width 1.48 mm."
+  },
+  {
+   "label": "Other",
+   "text": "Type locality the Kimberley region of north-western Australia, collected under the bark of gum trees. The species apparently does not build regular nests but covers its galleries and tubes with a clay-like substance. The two soldier forms differ markedly in size (body length 3.2 mm and 1.27 mm) but agree in head shape."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from Krishna 1962; original in English. The column headings of Table 3 (alates), \"holotype / paratype colony numbers\", are scrambled in the extracted text, so the figures cannot be matched one to one with the headings and that table is not reproduced. The three columns of Table 4 (soldiers) are transcribed as \"holotype / 10 paratypes / 5 paratypes\"; in the hind tibia row the original pairs this species with another column out of alignment (\"0.73-0.75 5 0.66-0.69\", with the holotype value missing), and it is recorded here as 0.73 / 0.73—0.75 / 0.66—0.69, which is an inference.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The soldier is closest to C. emarginicollis, from which it differs in all measurements of the head and pronotum being smaller, the front of the head in profile a little greater than vertical, the notch between the frontal lobes narrower, and the emargination of the posterior margin of the pronotum less deep. It differs from C. colei in that the latter has a narrower head, the front of the head vertical in profile, a V-shaped notch between the anterior dorsal frontal lobes, and the outer margin of the mandibles nearly straight; C. guatemalae is much larger in all respects. The alate differs from C. emarginicollis in the slightly longer forewing, the larger ocelli that touch the eye, and the rounded sides of the pronotum."
+  },
+  {
+   "label": "Alate",
+   "text": "Head dark smoky brown; labrum yellowish brown; pronotum smoky brown, paler than the head; antennae brown with white apices of the segments; femora light brown tinged with yellow, tibiae paler than the femora; wings light smoky brown, the wing scales darker. Head with a few scattered erect setae; pronotum with long and short setae along the margins and on the disc. Head hemispherical behind the eyes; frons with 2 round spots; Y suture present but not visible; eyes small; ocelli oval, touching the eyes; antennae 13-segmented, segment 2 equal to segment 3, segment 4 shorter than segment 2 or 3. Pronotum equal to or wider than the head, anterior margin broadly concave, sides rounded, posterior margin emarginate, posterolateral corners rounded. Media of the hindwing arising from the radial sector beyond the wing scale, about 0.83—1.28 mm from the suture."
+  },
+  {
+   "label": "Soldier",
+   "text": "Posterior part of the head yellowish brown, anterior part reddish brown to nearly black; mandibles shining, dark reddish brown, apices nearly black; labrum brown; pronotum brown with darker margins; forelegs light brown, mid and hind legs pale yellow; abdominal sternites dirty yellow tinged with brown. Head with a few scattered erect setae; pronotum with setae along the margins and on the disc. Head thick, variable in size; sides slightly convergent anteriorly; frons bilobed, the surface of the lobes rugose, with a deep U-shaped notch between the two lobes; in profile the top of the frons a little greater than vertical, the middle inclined at about 80°, the dorsum slightly concave; a horn-like process of the gena between the base of the mandible and below the antennal socket. Mandibles short, the outer base slightly humped. Measurements (mm, holotype / range of 10 paratypes / range of 5 paratypes): head length to the lateral base of the mandible 1.65 / 1.61—1.73 / 1.46—1.65; head width 1.28 / 1.24—1.31 / 1.20—1.28; head height 1.20 / 1.14—1.24 / 1.05—1.13; left mandible length 0.68 / 0.68—0.69 / 0.62—0.68; maximum postmentum width 0.41 / 0.39—0.43 / 0.38—0.39; minimum postmentum width 0.30 / 0.30—0.36 / 0.30; postmentum length 0.98 / 0.90—0.99 / 0.73—0.84; pronotum midlength 0.54 / 0.53—0.56 / 0.45—0.53; maximum pronotum length 0.83 / 0.75—0.83 / 0.68—0.75; pronotum width 1.24 / 1.20—1.28 / 1.20—1.24; hind tibia length 0.73 / 0.73—0.75 / 0.66—0.69."
+  },
+  {
+   "label": "Other",
+   "text": "Type locality and collectors: see the original; the species was cited as a new species of Calcaritermes by Kirby 1949 (pp. 366, 371, 379)."
+  }
+ ]
+}

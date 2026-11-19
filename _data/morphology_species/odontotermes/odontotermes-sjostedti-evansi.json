@@ -1,0 +1,21 @@
+{
+  "zh_name": "埃文斯亚种",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头红黄，部分标本因保存而变深；头两侧略圆，向前收窄不多。触角 17 节，第 3 节最小。触角基后方有黑色斑点，应为退化的复眼。上唇不伸达左上颚的齿。前胸背板前缘凹入。量度（mm）：头长 3.21—3.38；头宽 1.48—1.61；前胸背板长 0.58—0.64，宽 1.03—1.09；后足胫节长 1.28；左上颚长 1.28。"
+    },
+    {
+      "label": "其他",
+      "text": "体型大于指名亚种。原文记上颚末端弯曲程度较 Termes pauperans 为弱。正模为兵蚁（存美国自然历史博物馆）。模式产地：喀麦隆 Senegambina，B. C. Z. Evans 采，1920 年 4 月 24 日（编号 228、239）、4 月 25 日（编号 244），及 R. N. Evans 采 1920 年 4 月 29 日（编号 50）；描述据多份标本。"
+    }
+  ],
+  "note": "据 Emerson 1928 改写；原文英文；原文只描述兵蚁。",
+  "sources": [
+    {
+      "id": "S0075",
+      "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57.",
+      "locator": "条目（Termites-of-the-Belgian-Congo-and-the-Cameroon）p. 462–463"
+    }
+  ]
+}

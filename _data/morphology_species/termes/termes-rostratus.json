@@ -1,0 +1,29 @@
+{
+  "zh_name": "尖鼻白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "体长 4.5 mm，背面砖红色（latericious），腹面淡黄褐色。头卵形。单眼几与复眼接触。小窗窄。触角 15 节，第 3 节很短，第 4 节与第 2 节近等长。后唇基凸。前胸背板半月形，前缘近直，前侧角圆。中、后胸背板后缘明显呈叶状。前翅芽略大于后翅芽。翅长 5.5 mm；中脉较亚中脉更近于亚前缘脉，直达翅端；亚中脉达翅端，具约 9 条分支。几丁质板之间即使在有翅成虫期仍以膜相隔。腹瘤缺。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体长 4 mm。头长 1.1 mm、宽 0.7 mm，淡黄白色；头前角突（象鼻）长约 0.5 mm，下缘凸。触角 14 节，第 2 节长于第 3、4 节，此后向端部渐长。上唇小，白色，向上弯曲朝向角突，具 2 根张开的刚毛。上颚长 1 mm，刚毛状，明显向下弯。后颏长约为其宽的两倍，向上渐宽。前胸背板鞍形，前叶较大，抬高不多。后足不达腹部末端。腹纺锤形，因肠内容物而着色。腹瘤缺。"
+    },
+    {
+      "label": "工蚁",
+      "text": "体长 3.5 mm。头小，浅色。触角 14 节。后唇基突出。腹部因肠内容物而着色。"
+    },
+    {
+      "label": "其他",
+      "text": "雌性：第 7 腹节腹板长约为其宽之半，后缘中部双叶状。蚁后腹部可达 15 mm；侧膜具淡色瘤突。产地：婆罗洲（Sarawak）、马来半岛（Singapore、Perak）。模式号 477。"
+    }
+  ],
+  "note": "据 Haviland 1898 原始描述（英文）。原文手写体 OCR 将种名识别为 eostratus，实为 rostratus。原文经 Internet Archive 扫描本 OCR 抽取，学名与个别词形有识别错误（如 eostratus 应为 rostratus、latierons 应为 laticornis），量度数字已按上下文核对。",
+  "sources": [
+    {
+      "id": "S0546",
+      "citation": "Haviland G. D. 1898. Observations on termites; with descriptions of new species. Journal of the Linnean Society of London, Zoology 26: 358–442.",
+      "locator": "pp. 416–417"
+    }
+  ]
+}

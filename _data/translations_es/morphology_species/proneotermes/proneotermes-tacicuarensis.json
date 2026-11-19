@@ -1,0 +1,21 @@
+{
+ "note": "Reescrito de la descripción original en inglés de Jurado-Vargas et al. 2025, publicada como \"Proneotermes tacicuarensis sp. nov.\", con localidad tipo Tacicuaro, Morelia, Michoacán, México (19.7333 N, 101.3333 W, altitud 2084 m); los soldados se recolectaron en madera seca y los alados con una trampa de luz colocada en un santuario de pino. El material comprende 17 soldados, 2 alados y 85 pseudotrabajadores; las medidas de los alados están en la tabla 2 del original. En esa tabla la entrada \"anchura máxima de la cabeza a la altura de los ojos compuestos\" figura como 17.7±0.09 mm, lo que contradice las demás medidas de la misma tabla y la longitud corporal del alado 18.2—19.4 mm y es evidentemente una errata por 1.77 mm, por lo que no se cita esa fila. La parte molecular (COII como marcador principal, 12S y 16S como secundarios) recupera esta especie junto con P. macondianus en un mismo clado con apoyo máximo.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Longitud total del cuerpo 10.5—12.1 mm. Cabeza rectangular en vista dorsal, margen posterior redondeado, pardo amarillenta; el vértice ligeramente inclinado hacia delante y de pardo más oscuro. El margen anterior del primer diente de la mandíbula izquierda forma un ángulo recto y el ápice se curva con menos brusquedad; ambas mandíbulas casi negras. La mandíbula izquierda se curva unos 35° cerca del ápice, la derecha se dobla hacia dentro más bruscamente, más de 40°, y lleva un diente agudo en su parte media. El tercer artejo antenal es mayor que los demás, tan largo como los artejos 4 a 7 juntos, y la antena tiene 12—14 artejos. Clípeo blanco translúcido; labro rectangular, amarillo. Pronoto pardo amarillento, acorazonado, con una escotadura marcada en el centro del margen anterior, tan ancho como la cabeza."
+  },
+  {
+   "label": "Soldado",
+   "text": "Medidas (10 individuos, media±DE, mm): longitud de la cabeza hasta el ápice de las mandíbulas 5.12±0.22; longitud de la cabeza hasta el cuerno frontal 3.12±0.24; anchura del margen frontal 1.93±0.18; anchura genal entre los ángulos genales 1.04±0.11; anchura máxima de la cabeza 2.42±0.11; altura de la cabeza sin el posmentón 1.91±0.09; anchura máxima del pronoto 2.16±0.05; longitud máxima del pronoto 1.67±0.13; longitud de la mandíbula izquierda (del ápice a la articulación ventral) 2.25±0.07; longitud total del cuerpo 10.98±0.57; número de artejos antenales 12.7±0.67. La tabla 1 del original sitúa las medias del soldado de esta especie junto a las de P. macondianus, P. latifrons y P. perezi, y todos los valores de esta especie son significativamente mayores que en las otras tres."
+  },
+  {
+   "label": "Alado",
+   "text": "Longitud total del cuerpo 18.2—19.4 mm. Cabeza pardo amarillenta, ojos compuestos prominentes, negros, de 0.4—0.5 mm de diámetro; ocelos casi blancos, próximos a los ojos compuestos; clípeo trapezoidal, casi blanco. Labro amarillo. Pronoto algo más ancho que la cabeza. Antena de 17—20 artejos, el primero bastante grande y más oscuro. Escama del ala anterior amarilla, con venas pardas translúcidas paralelas; la subcosta va de la sutura alar al margen del ala y ocupa aproximadamente un quinto de la longitud alar; la radial se extiende más de un tercio de la longitud alar y emite 5—7 ramas; la media es bastante evidente, alcanza un tercio de la longitud alar, y desde la base salen 7—9 venas anales."
+  },
+  {
+   "label": "Alado",
+   "text": "Medidas (media±DE, mm): longitud de la cabeza con el labro 2.01±0.07; longitud de la cabeza hasta el posclípeo 1.91±0.07; diámetro del ojo compuesto 0.48±0.06; distancia más corta del ojo compuesto al margen posterior de la cabeza 0.51±0.05; diámetro del ocelo 0.17±0.03; anchura máxima del pronoto 1.95±0.08; longitud máxima del pronoto 0.99±0.05; longitud total del cuerpo sin alas 9.45±0.25; longitud total del cuerpo con alas 19.09±0.50."
+  }
+ ]
+}

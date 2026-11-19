@@ -1,0 +1,17 @@
+{
+ "zh_name": "体大大白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "大型兵蚁：头与上颚黑色，头下侧浅褐色；触角长 7 mm，向后弯折时仅略微超过后颈，或恰好达后颈；腹部背面深褐色，腹面浅黄褐色。量度：全长 16、头连上颚 9、后足胫节 5 mm。模式产地刚果 Umangi（E. Wilverth 采，藏布鲁塞尔与斯德哥尔摩博物馆）。"
+  }
+ ],
+ "note": "据 Sjöstedt 1899 年原始描述（德文，发表时置于 Termes 属下作 Termes amplus 新种），仅描述大型兵蚁，未涉及工蚁与有翅成虫；量度为原文毫米值（原文不标单位 mm，仅写数字）。原文经 Internet Archive 扫描本 OCR 抽取，个别字母有误（heil 应为 hell）。",
+ "sources": [
+  {
+   "id": "S0527",
+   "citation": "Sjöstedt Y. 1899. Neue afrikanische Termiten. Entomologische Nachrichten 25(3): 34–39.",
+   "locator": "p. 35"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Adaptado de la descripción original de Holmgren 1913c (Termitenstudien 4) pp. 175—176, original en alemán; el alado no se describe (el original dice «Imago unbekannt») y solo se describen el soldado y el obrero, con la entrada del soldado en la clave en la p. 162. El mismo volumen contiene también Odontotermes javanicus (p. 132) y Capritermes javanicus (p. 255), ajenos a esta especie. El original alemán usa la coma como separador decimal, cambiada aquí por un punto decimal, sin alterar los valores ni los rangos. El texto OCR leyó la longitud del cuerpo 2,5—3 como «2.3» o «25» y confundió la anchura de la cabeza del soldado 0,72 con las medidas de la especie precedente borneensis (0,61, 0,72); todas las cifras se cotejaron palabra por palabra con las imágenes de las páginas impresas 175 y 176 (hojas 174, 175) del BookReader de archive.org y se introdujeron a partir de ellas. La especie se situaba entonces en Eutermes.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Alado no descrito. Soldado con longitud del cuerpo 2.5—3 mm, cabeza incluida la nasa 1.25 mm, anchura de la cabeza 0.72 mm, anchura del pronoto 0.38 mm; obrero con longitud del cuerpo 3.5—4 mm, anchura de la cabeza 0.91 mm, anchura del pronoto 0.49 mm. Cabeza del soldado ampliamente ovalada, estrechándose ligeramente hacia delante, nasa de longitud media y cónica, contorno frontal con una cresta transversal débil en la base de la nasa, antenas de 12—13 segmentos con el segmento 4 claramente más corto que el segmento 3."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza amarilla, nasa pardusca; terguitos abdominales pardo muy pálido a amarillo herrumbroso. Cabeza finamente cubierta de pelos microscópicos y con algunas cerdas más largas; terguitos abdominales con pelos finos, casi microscópicos, y cerdas más largas adicionales en el borde posterior. Cabeza ampliamente ovalada, estrechándose ligeramente hacia delante; nasa de longitud media, cónica; contorno frontal con una cresta transversal débil en la base de la nasa, por lo demás recto; antenas de 12—13 segmentos, segmento 3 algo más largo que el segmento 2, segmento 4 claramente más corto que el segmento 3. Pronoto en forma de silla de montar, borde anterior no cóncavo. Medidas: longitud del cuerpo 2.5—3 mm; cabeza incluida la nasa 1.25 mm; cabeza sin nasa 0.65 mm; anchura de la cabeza 0.72 mm; anchura del pronoto 0.38 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Placa cefálica pardo amarillenta, cuerpo blanco lechoso. Cabeza y terguitos abdominales finamente pelosos. Cabeza algo pentagonal con ángulos redondeados; suturas cefálicas evidentes; fontanela indistinta; parte anterior de la banda transversal cóncava; esclerito clipeal corto pero no muy corto, bastante arqueado; antenas de 14 segmentos, segmento 2 igual al segmento 3, segmento 4 más corto que el segmento 3. Pronoto en forma de silla de montar, borde anterior no cóncavo. Medidas: longitud del cuerpo 3.5—4 mm; anchura de la cabeza 0.91 mm; anchura del pronoto 0.49 mm. Distribución: Tjompea, Java."
+  }
+ ]
+}

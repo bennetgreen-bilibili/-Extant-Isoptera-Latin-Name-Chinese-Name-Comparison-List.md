@@ -1,0 +1,17 @@
+{
+  "zh_name": "马卡古锯白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头红褐色，长而窄：头连上颚长 2.13、去上颚长 1.53、头宽 0.80、上颚长 0.72—0.75 mm。与 Microcerotermes hamatus 最接近。模式产地比属刚果 Macaco（Luebo），Schouteden 采，模式标本存特尔菲伦与斯德哥尔摩博物馆。"
+    }
+  ],
+  "note": "据 Sjöstedt (1925) 原始描述改写，原文德语；为兵蚁的简短鉴别性描述（vorläufige Mitteilung），仅描述兵蚁。",
+  "sources": [
+    {
+      "id": "S0516",
+      "citation": "Sjöstedt, Y.; 1925. Neue Termiten aus Afrika und Madagaskar. Konowia 4: 53-55.",
+      "locator": "p. 55"
+    }
+  ]
+}

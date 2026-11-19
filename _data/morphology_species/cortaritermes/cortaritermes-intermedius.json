@@ -1,0 +1,25 @@
+{
+ "zh_name": "中间利颚白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头略长于宽，鼻相当长；头前面约有 10 根直立的较长毛，头侧近顶处每侧 2 根，鼻基附近一排 4 根，较低处每侧 1 根；腹部毛极短、几乎不可见，但后缘有较长的刚毛。触角中等长，第 3 节明显长于第 2 节，但不到第 2 节的两倍长，第 4 节短于第 2 节。工蚁头上部两侧具惯有的大暗斑，颜色不如 N. morio 深。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头淡黄褐，鼻稍深，前胸背板与触角淡黄；腹部与足几乎不带黄，近透明。头长 1.35 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头上部两侧具惯有的大暗斑，颜色不如 N. morio 深，每斑上有自顶向下延伸的隐约斜线；头被许多微小毛。"
+  }
+ ],
+ "note": "据 Banks 1919 的英文原始描述改写。原文作 Nasutitermes intermedius, 新种，模式 M.C.Z. 10,079，模式产地特立尼达 Arepo Savanna（Cumuto），Roland Thaxter 采于泥炭藓下；现置利颚白蚁属 Cortaritermes。原文兵蚁只给头长 1.35 mm 一项量度，工蚁无量度；有翅成虫未描述。",
+ "sources": [
+  {
+   "id": "S0673",
+   "citation": "Banks N. 1919. Antillean Isoptera. Bulletin of the Museum of Comparative Zoology at Harvard College 62: 475–489. https://www.biodiversitylibrary.org/partpdf/93317",
+   "locator": "p. 485"
+  }
+ ]
+}

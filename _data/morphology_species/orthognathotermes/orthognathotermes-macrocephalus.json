@@ -1,0 +1,21 @@
+{
+  "zh_name": "大头直颚白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁上颚第二型，头壳在同型种中最小。最相似的是 O. longilamina，区别在后者上颚较窄、头端部有弱收缩。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "背面观头侧向前略收敛。侧面观背瘤略突出，位于侧缘突起之后。上颚第二型，近端半部有齿状突。头壳疏布刚毛与短毛，腹面较密，整个头壳散布微小毛。后颏有刚毛。前胸背板边缘有短毛与刚毛；中胸背板与后胸背板后缘有短毛；腹部背片有短毛与刚毛，腹片有短毛与后缘刚毛。"
+    }
+  ],
+  "note": "据 Rocha & Cancello (2009) 改写，原文英文；原文有翅成虫记为 Unknown；同名异物沿革（Mirotermes macrocephalus Holmgren, 1906）见原文，未另列。",
+  "sources": [
+    {
+      "id": "S0228",
+      "citation": "Rocha M. M.; Cancello E. M. 2009. Revision of the Neotropical termite genus Orthognathotermes Holmgren (Isoptera: Termitidae: Termitinae). 10.11646/zootaxa.2280.1.1",
+      "locator": "p. 11（treatment 6213695）"
+    }
+  ]
+}

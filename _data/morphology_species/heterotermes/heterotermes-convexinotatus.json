@@ -1,0 +1,21 @@
+{
+  "zh_name": "凸背异白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "新种（原文作 Leucotermes convexinotatus，后归 Heterotermes）。模式产地巴拿马科隆。有翅成虫体色较 L. tenuis 淡；头近椭圆形，最宽处位于复眼、较 tenuis 窄；囟不如 tenuis 大，为复眼后一线上的淡色、微隆的圆点；触角 17 节；后唇基显著凸起，宽逾长的 3 倍，后缘明显凸、与头缘之间凹入较 tenuis 深；前胸背板近心形，前缘中部凹入，后缘不凹。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "头黄褐，复眼之间较深，后部较淡，不如 L. tenuis Hagen 深；近椭圆形，最宽处在复眼，较 tenuis 窄，后部圆；被颇密的淡黄色长刚毛与短毛。囟不如 tenuis 大，为复眼后一条线上的淡色、微隆的圆点。触角淡黄褐，17 节，被短毛，各节大小形状有变化；第 1 节长、圆柱形；第 2 节较短且不宽；第 3 节环状，约为第 2 节长之半；第 4 节长于第 3 节；其后各节向端部渐宽、渐呈楔形；末节长、细、椭圆形。复眼黑色，非圆形，不很突出隆起；与头侧缘的距离小于其长径。单眼有或无；存在时为长形，与复眼的距离约等于其短径。上唇淡黄，长大于宽，近中部最宽，略呈舌形，前方宽圆，端部被长毛。后唇基淡黄，突出鼓起如 tenuis，宽逾长的 3 倍；后缘明显凸，头缘凹入较 tenuis 更深；后唇基长于 tenuis 但不如其宽；不像 tenuis 那样明显成两叶。前胸背板颜色与头同，近心形，宽大于长，但不如头宽，后缘不凹，前缘中部凹入；表面与边缘具长刚毛和短毛。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0560",
+      "citation": "Snyder, T. E. 1924. Descriptions of new species and hitherto unknown castes of termites from America and Hawaii. Proceedings of the United States National Museum 64 (art. 6).",
+      "locator": "p. 16 (LEUCOTERMES CONVEXINOTATUS, new species, winged adult)"
+    }
+  ],
+  "note": "据 Snyder 1924 年英文原始描述（新种 Leucotermes convexinotatus Snyder，模式产地巴拿马 Colón；后归入 Heterotermes）。原文对兵蚁、工蚁另有描述；本次窗口覆盖有翅成虫。文中注 12 指出本种与 L. crinitus Emerson MS. 的鉴别特征出自 Emerson 的手稿。"
+}

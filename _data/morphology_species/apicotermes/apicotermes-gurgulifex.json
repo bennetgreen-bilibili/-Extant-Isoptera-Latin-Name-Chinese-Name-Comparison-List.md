@@ -1,0 +1,29 @@
+{
+  "zh_name": "喉头尖白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁极近 A. desneuxi。区别在头顶轮廓：本种头在额与头顶之间相当匀滑地凸起，而 A. desneuxi 的副模兵蚁（刚果 Inkisi 模式群体 2 头、Leopoldville 1 头）在额与头顶之间成一角度、头顶轮廓较平。作者指出这一头形差异仅有暂定分类价值，可能仍落在 A. desneuxi 的正常变异范围内。后颏、前胸背板与前足基节均与 A. desneuxi 相似。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头在额与头顶之间相当匀滑地凸起；其余形态、附图与量度均与 A. desneuxi（Emerson, 1953, pp. 108-113）的描述相近。干燥的正模标本部分刚毛可能已磨落。后颏、前胸背板与前足基节与 A. desneuxi 十分相似。量度（mm，正模 Lunda／副模 Dundo）：头连上颚长 4.63／3.80；头长至上颚侧基 3.21／2.70；头宽 2.51／2.10；头厚 1.77／—；后颏长 2.04／1.60；后颏最宽 0.73／0.59；后颏最窄 0.67／0.44；左上颚长 1.81／1.50；前胸背板长 0.96／0.90；前胸背板宽 1.94／2.00；后足胫节长 1.96／—。"
+    },
+    {
+      "label": "工蚁",
+      "text": "标本保存状况不佳，就足部特征看接近 A. lamani；各工蚁的比较见文末系统发育讨论。"
+    },
+    {
+      "label": "其他",
+      "text": "单一干燥正模兵蚁由 W. V. Harris 与工蚁一同得自 A. W. Exell 在安哥拉 Lunda（Vila Henrique de Carvalho 附近）采集的巢体，1937 年 4 月，沙质土中；正模与巢体均存英国自然历史博物馆。副模群体来自安哥拉 Dundo，A. de Barros Machodo 采，由 H. Weidner 寄来。据信属于本种的巢体记录于比属刚果的 Kondue（Sankuru 区）、Mayidi（Kisantu 附近）、Plateau de Kamina（Lualaba）以及安哥拉的 Haut Zambèze。Weidner（1955, p. 204）曾把 Dundo 的巢体定为 A. machodoensis 新种，后将其标本作副模群体归入本种。"
+    }
+  ],
+  "note": "据 Emerson 1956 改写；原文英文；表 1 中头厚与后足胫节长两行的副模值以「—」留空（原文未给），照录；本种描述以与 A. desneuxi 的鉴别对比为主，未另绘形态特征。",
+  "sources": [
+    {
+      "id": "S0707",
+      "citation": "Emerson, A. E. 1956. Ethospecies, ethotypes, taxonomy, and evolution of Apicotermes and Allognathotermes (Isoptera, Termitidae). American Museum Novitates 1771.",
+      "locator": "pp. 3-5；Table 1 (Soldier)；archive.org ethospeciesetho1771emer (全文)"
+    }
+  ]
+}

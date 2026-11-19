@@ -1,0 +1,25 @@
+{
+  "zh_name": "紧张怒白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "上部栗色，头深栗色，触角、足与腹部下方黄褐色。头卵形；单眼与复眼相距一个直径；窗孔窄而不显；触角 15 节，第 3 节长于第 2 节；唇基几不突出。前胸背板长约为宽之半，前缘近直而略抬升，前侧角圆、略下弯，后侧角近直；中胸与后胸背板后缘较宽、微凹；前翅芽大于后翅芽。蚁后腹部体长 12 mm，背板强烈拱起（尤以基部为甚），次生几丁质化少，腹部侧表皮具微细色素点与毛。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体长 4 mm；头黑色，胸与腹暗黑褐色，跗节浅色，部分个体（可能为幼体）腹部呈浅黄褐色。头宽 0.8 mm。触角长 3 mm、14 节，第 3 节长为第 2 节的两倍，此后各节渐长，第 8 节长约为宽的三倍。喙大，其前表面与头前表面构成明显曲线；退化上颚清晰可见；后颏长不及宽之半。前胸背板鞍形，前叶短、隆起甚微；后足腿节超出腹端；腹部乳突缺如。"
+    },
+    {
+      "label": "工蚁",
+      "text": "体长 5 mm；头栗色，胸与腹暗褐色；触角 15 节；后足超出腹端；腹部大、卵形，背板拱起。"
+    }
+  ],
+  "note": "据 Haviland (1898) 的原始种级描述改写，原文英语；含 imago、queen、soldier、worker，量度单位为 mm。原文「Hab. Malay Peninsula (Singapore). Type, No. 102」，巢球形，位于灌木枝上约 10 英尺高处。",
+  "sources": [
+    {
+      "id": "S0546",
+      "citation": "Haviland, G. D.; 1898. Observations on termites; with descriptions of new species. Journal of the Linnean Society of London (Zoology) 26: 358-442. https://archive.org/details/zoological-journal-of-the-linnean-society_1898_26",
+      "locator": "p. 433"
+    }
+  ]
+}

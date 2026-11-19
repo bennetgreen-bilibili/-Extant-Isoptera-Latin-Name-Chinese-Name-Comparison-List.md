@@ -1,0 +1,17 @@
+{
+ "note": "Adaptado de Bourguignon & Roisin (2011); el original está en inglés. La tabla de medidas del original usa abreviaturas (longitud del cuerpo, longitud de la cabeza hasta el ápice del clípeo, anchura de la cabeza con los ojos compuestos, longitud/anchura del pronoto, longitud del ala anterior, diámetro máximo del ojo compuesto; en el soldado, longitud de la cabeza hasta el ápice del clípeo, longitud de la cabeza hasta el ápice del labro, anchura de la cabeza, longitud/anchura del pronoto, longitud de la mandíbula derecha, anchura máxima del postmentón y longitud de la tibia posterior), que se han sustituido por los nombres completos definidos en las pp. 58—59 del original. El OCR del original presenta varias rayas anómalas (por ejemplo, «0.76—-0.85»), unificadas como «—».",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Se distingue de H. vagus por lo siguiente: el soldado es de mayor tamaño, el labro más corto y de ápice redondeado, y las antenas de 16 o 17 artejos."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza algo alargada, con cientos de setas; pronoto largo y de anchura media, con cientos de setas; antenas generalmente de 18 artejos, a veces de 17; ojos compuestos planos; ocelos pequeños, situados delante de los ojos compuestos. Medidas (mm, 12 individuos, 1 colonia): longitud del cuerpo (sin alas) 5,16—6,31; longitud de la cabeza hasta el ápice del clípeo 1,13—1,29; anchura de la cabeza (con ojos compuestos) 0,98—1,14; longitud del pronoto 0,59—0,64; anchura del pronoto 0,76—0,85; longitud del ala anterior (con escama alar) 8,79—9,92; diámetro máximo del ojo compuesto 0,25—0,33."
+  },
+  {
+   "label": "Soldado",
+   "text": "Grande. Cabeza larga, de ángulos algo redondeados, con una protuberancia bien desarrollada en la parte anterior; ápice del labro redondeado; antenas de 16 o 17 artejos; pronoto largo, con numerosas setas; mandíbulas largas, ligeramente curvadas en el ápice. Medidas (mm, 55 individuos, 19 colonias): longitud de la cabeza hasta el ápice del clípeo 1,34—1,98; longitud de la cabeza hasta el ápice del labro 1,63—2,40; anchura máxima de la cabeza 0,86—1,16; longitud del pronoto 0,39—0,60; anchura del pronoto 0,62—0,87; longitud de la mandíbula derecha 1,03—1,34; anchura máxima del postmentón 0,35—0,48; longitud de la tibia posterior 0,70—0,93."
+  }
+ ]
+}

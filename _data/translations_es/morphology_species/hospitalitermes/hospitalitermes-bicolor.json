@@ -1,0 +1,17 @@
+{
+ "note": "Según la descripción original de Haviland de 1898 (publicada como TERMES BICOLOR, n. sp.). Sólo se describen el soldado, el obrero y el número de artejos antenales de la ninfa; no hay alado ni se indica número de espécimen tipo. El original se extrajo por OCR del escaneo de BHL/Zenodo, por lo que los puntos decimales aparecieron como caracteres extraños o se perdieron: longitud del cuerpo del soldado '3°5 mm' = 3.5 mm, longitud de las antenas '3°5 mm' = 3.5 mm; la anchura de la cabeza del soldado figura en el OCR como '14 mm. broad' y se ha estimado, por la proporción entre anchura de la cabeza y longitud del cuerpo en soldados de otras especies del género y por el contexto, en 1.4 mm; aquí se anota como 1.4 mm, pero sigue siendo recomendable revisarlo. Algunas palabras están mal escritas (papille=papillae, Antenne=Antennae); medidas en mm.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 3.5 mm. Rostro casi subtestáceo, cabeza casi subcastaña; tórax, patas y antenas ocreclaros, abdomen fuliginoso. Anchura de la cabeza 1.4 mm. Antenas de 3.5 mm de longitud, de 14 artejos, artejo 3 tres veces más largo que el artejo 2, los artejos restantes progresivamente más cortos hacia el ápice. Rostro esbelto, cuya cara anterior forma una curva continua con la parte anterior de la cabeza. Mandíbulas vestigiales claramente visibles. Postmentón más corto que ancho. Pronoto en silla de montar, lóbulo anterior poco elevado. Fémures posteriores muy rebasando el abdomen. Abdomen oval, terguitos fuertemente arqueados. Ausencia de papilas abdominales."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 3.5 mm. Cabeza casi subcastaña; tórax y patas ocreclaros; abdomen oval, terguitos fuertemente arqueados. Antenas de 15 artejos. Fémures posteriores alcanzando el segmento abdominal 8."
+  },
+  {
+   "label": "Otros",
+   "text": "Ninfa con antenas de 15 artejos. Distribución: península de Malaca (Singapur, Pulo Brani)."
+  }
+ ]
+}

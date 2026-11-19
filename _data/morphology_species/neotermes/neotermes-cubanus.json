@@ -1,0 +1,21 @@
+{
+ "zh_name": "古巴新白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "本种近于佛罗里达的 Kalotermes jouteli Banks 与安的列斯莫纳岛的 K. mona Banks，但有明确的结构差异，最显著者为上颚宽阔；K. mona 的触角第 3 节更长。与 K. jouteli 相比，本种眼点更小、色素更浅，且后颏（gula）在中部远较 jouteli 为狭，中部宽不及前端宽之半。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头壳栗褐，前部（尤其额面）较深，后部较浅；头长为宽的两倍，前后两端约等宽，两侧缘微凹。后唇基栗色，宽大于长，后缘凸。上唇黄褐，宽大于长，端部宽圆，具长毛。头背面与腹面均散生长而直的立毛。眼点远小于 Kalotermes jouteli，色素亦浅，位于触角窝同一水平线上并靠近触角窝。上颚黑色、粗壮，基部甚宽；左上颚近端部有 2 枚尖缘齿，近基者较宽；右上颚在左上颚缘齿之下方有 2 枚更宽更大的尖齿；上颚端部尖而内弯。触角黄褐，基部 3 节栗色，17 节，长于上颚，被长柔毛；第 3 节大于第 2 节亦大于第 4 节，棒状，色深；末节短细，近卵形。后颏中部甚狭，中部宽不及前端宽之半（原文图 1）。前胸背板黄褐，前缘具深色边，中部宽略不足长的两倍，宽于头；前缘圆弧形内凹，最宽处在近前端，前缘在角部高起；两侧缘圆，向后渐狭；后缘近直；前胸背板边缘具长毛。腹部颜色与前胸背板相近，腹面较浅，被短而浅色的柔毛。足颜色较浅，胫节与跗节较深，腿节极度膨大（原文图 2）。量度：兵蚁全长 13.5 毫米；头连上颚长 5.75 毫米；头长（不含上颚与上唇）3.80 毫米；左上颚长 1.90 毫米；前胸背板长 1.80 毫米；后足胫节长 1.80 毫米；头宽 2.75 毫米；前胸背板宽 3.00 毫米。"
+  }
+ ],
+ "note": "据 Snyder 1922 改写，原文英文（Proceedings of the United States National Museum 61, Art. 20）。原名作 Kalotermes cubanus，今置于新白蚁属（Neotermes）。模式产地 Cuba: Pinar del Rio: Las Playuelas；据 D. T. Barreto 1921 年 1 月采自模式产地的一大批兵蚁描述（采集号 5616，OCR 作 SG1G），正模兵蚁存 U.S.N.M.，目录号 24565。原文仅描述兵蚁，有翅成虫未知（作者推测本种兵蚁或即 K. montanus Snyder 的有翅成虫所对应）。量度项“head without mandibles and labrum”原文 OCR 作 lalmim，已按上下文校读；另有头后颏与后足腿节的图（figs. 1–2）未译。",
+ "sources": [
+  {
+   "id": "S0589",
+   "citation": "Snyder T. E. 1922. New termites from Hawaii, Central and South America, and the Antilles. Proceedings of the United States National Museum 61 (Art. 20).",
+   "locator": "pp. 7–8 / Snyder-T.-E.-1922.-New-termites-from-Hawaii,-Central-and-South-America,-and-the"
+  }
+ ]
+}

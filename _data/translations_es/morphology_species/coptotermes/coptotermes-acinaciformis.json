@@ -1,0 +1,17 @@
+{
+ "note": "Hill (1926) reunió medidas y variación de todas las castas de 12 colonias de Australia, el registro de medidas más completo antes de la monografía de Hill (1942); el original usaba “°” como punto decimal, restituido aquí. La anchura de la cabeza del soldado figura en el original como “1.14—1.88, raramente más de 1.19”, lo que es contradictorio y se sospecha una mala lectura del OCR; la entrada la registra como 1.14—1.19 con una nota. Esta especie es el Coptotermes más extendido y más destructivo de Australia, y su variación infraespecífica se ha discutido muchas veces desde entonces.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Medidas (mm) de 12 colonias (todas las castas incluidas): longitud del cuerpo con alas 11,50—13,00; sin alas 6,00—7,00; longitud de la cabeza hasta el extremo del labro 1,36—1,48; longitud de la cabeza hasta la sutura frontoclipeal 0,91—1,02; anchura de la cabeza 1,19—1,31; diámetro del ojo 0,340—0,408, casi siempre 0,340; ocelo 0,102—0,136 (también registrado 0,119—0,187); longitud del pronoto 0,68—0,85, casi siempre 0,74; anchura del pronoto 1,14—1,22, casi siempre 1,14; longitud del ala anterior 8,75—9,50, casi siempre 9,25; anchura del ala anterior 2,73—3,00, casi siempre 2,85; longitud de la tibia posterior 0,97—1,25; antenas de 18—21 artejos, casi siempre 19 (la serie tipo registra 17, una excepción). La población de la isla Banks tiene el mayor número de artejos antenales y el mayor diámetro del ojo."
+  },
+  {
+   "label": "Soldado",
+   "text": "Medidas (mm): longitud del cuerpo 5,00—5,30; longitud de la cabeza con mandíbulas 2,28—2,73, a menudo unos 2,50; longitud de la cabeza hasta el extremo del labro 1,76—2,16, a menudo unos 1,88; longitud de la cabeza hasta la abertura de la fontanela 1,31—1,53, a menudo unos 1,42; anchura de la cabeza 1,14—1,19 (el original registra además un límite superior de 1,88, probablemente un error); anchura del postmentón en su punto más estrecho 0,204—0,272, a menudo unos 0,255; diámetro interno de la abertura de la fontanela 0,102—0,136 (el original registra además 1,19 como valor habitual, evidentemente una mala lectura); longitud del pronoto 0,45—0,53, a menudo unos 0,50; anchura 0,80—0,96, a menudo unos 0,91; longitud de la tibia posterior 0,91—1,10, a menudo unos 1,02; antenas de 15—17 artejos, casi siempre 16 (la serie tipo registra 18). Los individuos de una misma colonia difieren poco; los soldados y obreros de nidos distintos varían a menudo en tamaño corporal y número de artejos antenales, y el autor los consideró razas locales (local races)."
+  },
+  {
+   "label": "Otros",
+   "text": "Distribución: ampliamente distribuida en Australia (según ejemplares de más de 90 nidos, incluidos el norte de Queensland, el Territorio del Norte y las islas adyacentes). El nido tiene una envoltura de arcilla con una masa compacta de fragmentos de madera que parece un rompecabezas; es la termita más dañina para los árboles vivos, y los eucaliptos de muchas zonas son atacados casi universalmente. La distinción con C. lacteus se da en la entrada de esa especie."
+  }
+ ]
+}

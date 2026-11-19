@@ -1,0 +1,25 @@
+{
+  "zh_name": "白足怒白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "雄性体长 8.5 mm；深栗色，足暗黑褐色，跗节与触角端部几节色淡。头卵形；单眼与复眼相距半个直径；窗孔极窄、几缺如；触角 15 节，第 3 节略大于第 2 节；唇基极微凸。前胸背板长约为宽之半，前缘平直，前角钝圆，后侧缘近直；中胸与后胸背板后缘宽而明显凹；前翅芽略大于后翅芽。翅长 14 mm，暗褐色；中脉远较近于亚中脉，末端极细，发出二至三分支并达翅端；亚中脉具 9 条分支，止于距翅端五分之一处。后足伸达腹端；腹部乳突缺如。雌性第 7 腹节腹板长约为宽之半，后侧缘凹；蚁后腹部体长 14 mm，背板强烈拱起，次生几丁质化少，侧表皮具微细色素点与毛。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体长 4 mm；背面黑色，腹面暗黑褐色，触角端部若干节、胫节与跗节白色。头宽 0.8 mm。触角 14 节，第 3 节长于第 2 节，第 7 节最长、长约当宽的三倍。喙较大，其前表面与头前表面成明显折角；退化上颚清晰可见；后颏几与宽等长。前胸背板鞍形，前叶短、隆起甚微；后足腿节超出腹端；腹小、卵形；腹部乳突缺如。"
+    },
+    {
+      "label": "工蚁",
+      "text": "体长 5 mm，暗黑褐色，头近栗色；触角 15 节；腹较大、卵形，腹板强烈拱起。"
+    }
+  ],
+  "note": "据 Haviland (1898) 的原始种级描述改写，原文英语；含 imago、queen、soldier、worker，量度单位为 mm。原文「Hab. Borneo (Sarawak). Type, No. 363」。兵蚁白色触角节数在扫描件中残损（OCR 作「the 12 apical segments」），按上下文写作「端部若干节」。",
+  "sources": [
+    {
+      "id": "S0546",
+      "citation": "Haviland, G. D.; 1898. Observations on termites; with descriptions of new species. Journal of the Linnean Society of London (Zoology) 26: 358-442. https://archive.org/details/zoological-journal-of-the-linnean-society_1898_26",
+      "locator": "p. 435—436"
+    }
+  ]
+}

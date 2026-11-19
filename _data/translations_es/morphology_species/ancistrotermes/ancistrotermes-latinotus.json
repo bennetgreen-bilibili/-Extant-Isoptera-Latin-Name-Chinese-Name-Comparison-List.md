@@ -1,0 +1,17 @@
+{
+ "note": "Adaptado de Harris (1966); para esta especie el original trata principalmente la historia taxonómica y las medidas, y la descripción morfológica está dispersa en la clave y la discusión (por ejemplo la forma de la cabeza y el grado de curvatura mandibular), sin una redescripción completa. Las medidas se traducen literalmente del original, en milímetros. El original no describe el obrero.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "En la clave: alado con anchura de la cabeza (incluidos los ojos compuestos) mayor de 1.77 mm, tibia posterior más corta de 1.86 mm y ocelos grandes y anchamente ovalados; en esta especie los ocelos son anchamente ovalados y están a aproximadamente la mitad de su diámetro mayor del ojo compuesto, mientras que en A. periphrasis son estrechamente ovalados y están a menos de un tercio de su diámetro mayor del ojo; A. crucifer tiene muchas setas en el vértice, A. cavithorax solo unas pocas setas finas. Soldado mayor con la cabeza rectangular a ovalada y las mandíbulas ligeramente curvadas, longitud de la cabeza con mandíbulas 1.82—2.27 mm; A. periphrasis tiene la cabeza ovalada algo estrechada en el ápice, mandíbulas fuertemente curvadas y longitud de la cabeza con mandíbulas 1.82—1.90 mm. Holmgren afirmó una vez que el pronoto del soldado de esta especie es mucho más ancho que la cabeza; Harris señala que esto procede de un error en la figura de Silvestri de un ejemplar de Luapula y no es un hecho."
+  },
+  {
+   "label": "Alado",
+   "text": "El alado de esta especie fue mencionado por primera vez por Holmgren (1913), que lo distinguió de A. crucifer por los ocelos mayores y la glándula frontal poco conspicua. Medidas (mm; tabla del original, los ejemplares de Malanga, Angola, junto a los de Zambia y Tanganica, la última columna un intervalo): anchura de la cabeza (incluidos los ojos compuestos) 1.82 (1.72—1.86); diámetro del ojo compuesto 0.45 (0.41—0.50); diámetro mayor del ocelo 0.18—0.23 (0.18—0.27), diámetro menor 0.13 (0.13—0.16); ocelo al ojo compuesto 0.13 (0.09—0.18); anchura del pronoto 1.64—1.72 (1.60—1.84), longitud 1.02—1.09 (0.82—1.14); longitud de la tibia posterior 1.86—1.95 (1.86—2.00); longitud del ala anterior 18.0—20.0 (16.0—20.0), anchura 4.0—4.3 (3.8—4.8)."
+  },
+  {
+   "label": "Soldado",
+   "text": "Medidas (mm; tabla del original, ejemplares desde Rodesia del Sur hasta Tanganica, la media entre paréntesis): longitud de la cabeza con mandíbulas, soldado mayor 1.82—2.27 (2.06), soldado menor 1.68—1.90 (1.79); longitud de la cabeza 1.09—1.41 (1.24), 0.86—1.06 (0.97); anchura de la cabeza 1.00—1.36 (1.17), 0.77—1.06 (0.95); longitud de la mandíbula izquierda 0.82—0.95 (0.87), 0.77—0.90 (0.83); anchura del pronoto 0.73—1.00 (0.83), 0.59—0.73 (0.67); longitud de la tibia posterior 1.00—1.14 (1.07), 0.82—1.00 (0.90). A. lembomboensis Fuller 1922 (Suazilandia, Transvaal, Mozambique) es un sinónimo de esta especie; Harris considera que la sinonimia se originó en una mala interpretación de las medidas de Silvestri de los ocelos del alado."
+  }
+ ]
+}

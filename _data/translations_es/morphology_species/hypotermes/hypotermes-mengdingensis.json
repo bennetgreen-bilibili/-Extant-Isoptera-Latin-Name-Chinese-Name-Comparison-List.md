@@ -1,0 +1,13 @@
+{
+ "note": "Reescrito a partir de la entrada número 286 de Fauna Sinica, originalmente en chino; sólo se registra el soldado (el original no da ni el alado ni el obrero); la tabla de medidas se transcribe tal cual (en el original algunos valores de la columna de la media llevan tres decimales, como 0.293, y se transcriben sin cambio).",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Cabeza amarillo oscuro, más clara en la mitad anterior; mandíbulas pardo rojizo; labro y antenas amarillos; pronoto pardo amarillento claro; abdomen y patas amarillo claro. Cabeza con pelos largos dispersos; labro con 6 pares de pelos largos en fila longitudinal desde el ápice hasta el centro y otro par en el centro. Cabeza casi oval. Labro ligulado, ápice algo puntiagudo. Mandíbula izquierda con 3 dientes marginales; mandíbula derecha con 1 pequeño proceso puntiagudo en la base. Los lados de la parte media del postmentón casi paralelos. Antenas de 16 artejos, artejo 4 el más corto, artejo 2 unas 1.5 veces más largo que el artejo 3. Parte anterior del pronoto algo levantada, márgenes anterior y posterior claramente cóncavos en el centro. Medidas (mm, soldado, rango/media): longitud del cuerpo 4.36—4.67/4.53; longitud de la cabeza con las mandíbulas 1.65—1.81/1.75; longitud de la cabeza hasta la base de las mandíbulas 1.13—1.26/1.21; anchura máxima de la cabeza 0.94—1.03/1.01; altura de la cabeza con el postmentón 0.74—0.81/0.77; longitud de la mandíbula izquierda 0.68/0.68; longitud del labro 0.29/0.29; anchura del labro 0.29—0.32/0.293; longitud del postmentón 0.65—0.74/0.71; longitud del pronoto 0.45—0.55/0.49; anchura del pronoto 0.74—0.81/0.77; longitud de la tibia posterior 1.03—1.13/1.08."
+  },
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Labro con 6 pares de pelos largos en fila longitudinal; mandíbula izquierda con 3 dientes marginales, mandíbula derecha con sólo 1 pequeño proceso puntiagudo en la base; antenas de 16 artejos, artejo 4 el más corto, artejo 2 unas 1.5 veces más largo que el artejo 3; los lados de la parte media del postmentón casi paralelos. Distribución conocida sólo de Mengding, Gengma, Yunnan (630 m de altitud)."
+  }
+ ]
+}

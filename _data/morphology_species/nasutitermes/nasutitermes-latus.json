@@ -1,0 +1,25 @@
+{
+  "zh_name": "宽阔象白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁与 N. luzonicus、N. simulans 近似，但头整体更宽、头前部宽平，以致触角窝在背面可见；鼻较短、基部较狭、端部较尖，头较高，鼻隆较低，腹部短而厚。与 N. javanicus 的差别同 N. simulans 与后者的差别。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "兵蚁：头栗色；鼻基部暗烟色、端部淡红；触角自基部淡红渐至端部黄色；背板与背片烟褐，前胸背板最深；腹板极淡褐；其余部分淡黄。头与鼻的形状见图：鼻短、钝，基部相对较狭；鼻隆低但明显；头宽，在触角着生处最宽；触角窝在背面可见；头上有 3—4 根分散的长细毛。触角 13 节，第 4、5 节最短且近等长，第 3 节较长。腹部相对短而宽，略隆起。量度：原文测量表在扫描中损坏，未列数值。"
+    },
+    {
+      "label": "其他",
+      "text": "有翅成虫：未知。分布与生物学：仅一次采集（Sir J. Brooke Point，Palawan，E. H. Taylor 采），得自腐木，其余习性不明。"
+    }
+  ],
+  "note": "据 Light & Wilson 1936 年原始描述（英文）改写，原文名为 Nasutitermes latus, new species，有翅成虫未发现，仅兵蚁；因原书印刷与扫描质量差，兵蚁测量表整段乱码，故只据可读的描述文字，未列量度。模式产地菲律宾巴拉望岛 Sir J. Brooke Point。",
+  "sources": [
+    {
+      "id": "S0537",
+      "citation": "Light, S. F.; Wilson, F. J. 1936. The nasute termites of the Philippines. Philippine Journal of Science 60: 461–520.",
+      "locator": "p. 495"
+    }
+  ]
+}

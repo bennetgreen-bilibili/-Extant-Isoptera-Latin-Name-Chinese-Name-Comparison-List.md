@@ -1,0 +1,21 @@
+{
+ "zh_name": "乔安锯白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫的典型型为体型较大、颜色较深、囟明显隆起，以此与 Adaiphrotermes cuniculator 和 A. scapheutes 清楚区分；较小、颜色较浅、囟平或凹陷的个体则出现于不利条件下、可隔若干年重复出现，故本种曾被误分为两个种。工蚁中前足胫节略不如其他种膨大，但肠管特征似更特化。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头壳由乌贼褐（sepia-brown）至深乌贼褐，单眼上方漆黑；囟由很小、圆形、略凹陷且与头同色，到大于单眼、白色、隆起、延长卵形；中央小斑圆形至卵形、约为单眼的四分之一大，通常略隆起；后唇基乌贼褐，上唇黄褐；额面斑纹多变，通常明显、新月形、无毛、平；触角淡褐。前胸背板乌贼褐，中胸与后胸褐色，无深色缝；足腿节与胫节褐色，跗节淡黄。腹背板乌贼褐，背部气门淡褐；腹板褐色、中线处较淡，腹面气门亦褐色；尾须黄白色。头壳后缘均匀圆；单眼中等大，与复眼的距离为其最小径的二分之一至三分之二；后唇基中等大至大、中度膨大，后唇基长／头宽 0.20—0.30，后缘均匀圆，中缝明显。头壳毛被略不均匀，具多数长毛，尚未密集成毡，褐色。量度（23 头，14 个产地，毫米，括号内为平均值 ± 标准差）：头宽（连复眼）0.71—0.96（0.872 ± 0.063）；单眼 0.06—0.09 × 0.08—0.12（0.072 ± 0.007 × 0.095 ± 0.010）；单眼至复眼 0.03—0.06（0.044 ± 0.009）；后唇基长 0.18—0.25（0.222 ± 0.021）；触角第 3 节 0.01—0.03（0.015 ± 0.004）；第 4 节 0.03—0.05（0.032 ± 0.006）；第 5 节 0.02—0.04（0.030 ± 0.006）；左上颚端齿至第 1 缘齿 0.05—0.08（0.067 ± 0.009）；左上颚第 1 至第 3 缘齿 0.09—0.15（0.131 ± 0.016）；左上颚第 3 缘齿至磨区 0.05—0.07（0.061 ± 0.006）；右上颚端齿至第 1 缘齿 0.05—0.08（0.069 ± 0.009）。"
+  }
+ ],
+ "note": "据 Sands 1972 改写，原文英文（The soldierless termites of Africa (Isoptera: Termitidae)，Bulletin of the British Museum (Natural History), Entomology，Supplement 4 之相关卷次；本条为 Adaiphrotermes choanensis (Fuller) comb. n. 条目，异名 Mirotermes (Procubitermes) choanensis Fuller, 1925: 184）。原描述以 Fuller 1925 的南非 Pretoria 标本为据，本条并指定选模：Transvaal, Pretoria, Arcadia, 1914-11-23, C. Fuller 采，模式巢，存 National Collection of Isoptera, Pretoria；副选模同巢，部分存 AMNH。Sands 记述 39 个巢系，指出 Fuller 曾把一头 Lepidotermes 属兵蚁与同批有翅成虫混放、同管中另有一头 Astalotermes 有翅成虫，这些标本已从选模与副选模中分出。量度表后半（左上颚与右上颚其余各项）在 OCR 中数值与行名错位，未录。原文以小逗号与星号作小数点与乘号（如 0*872），本条目改作小数点。图 634—637（有翅成虫头壳正面、侧面，上颚）未译。",
+ "sources": [
+  {
+   "id": "S0074",
+   "citation": "Sands W. A. 1972. The soldierless termites of Africa (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology, Supplement 4. doi 10.5962/p.193228",
+   "locator": "pp. 232–234 / The-soldierless-termites-of-Africa-(Isoptera-Termitidae)"
+  }
+ ]
+}

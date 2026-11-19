@@ -1,0 +1,25 @@
+{
+  "zh_name": "圭亚那树白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁头长 2.52—2.88 mm、头宽 1.18—1.25 mm，头长远为头宽的两倍以上，两侧直而平行；额部陡斜但不垂直、中部深裂成两叶。与 K. temnocephalus Silvestri、K. triceromegas Silvestri、K. taurocephalus Silvestri 相比兵蚁体型更小；原文指出本种与 K. taurocephalus 极为接近，可能就是该种。有翅成虫与 K. taurocephalus 亦相近。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "头中等浅褐色，宽卵形，最宽处在复眼之后（不计复眼），被多数刚毛。触角浅色（标本中断），第 3 节略大于第 4 节，第 2 节与第 3 节约等长。复眼大，其下缘距头下缘约一个复眼直径。单眼中等，紧靠复眼。前胸背板与头同色，略窄于头，两侧圆，后缘微圆，被多数刚毛。腹部背板与头同色，被多数刚毛。量度（mm）：头长 1.38、头宽 1.30、前胸背板长 0.69、前胸背板宽 1.05；蜂后体长 6.40。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头褐黄，前部较深；头长，两侧直而平行；额部陡斜但不垂直，中部深裂成两叶；被少量刚毛。触角褐黄，11 或 12 节。复眼无色素。上颚褐黑，相当长而粗壮；左上颚具多枚齿，右上颚仅基部一半有齿。前胸背板褐黄，被少量刚毛，约与头等宽，两侧圆，后缘微凹。腹部背板被少量刚毛。量度（mm）：体全长 5.20—5.59、头长 2.52—2.88、头宽 1.18—1.25、触角长 1.19、前胸背板长 0.59—0.70、前胸背板宽 1.18—1.20、后足胫节长 0.76—0.88、左上颚长 0.57。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0530",
+      "citation": "Emerson A. E. 1925. The termites of Kartabo, Bartica District, British Guiana. Zoologica. Scientific Contributions of the New York Zoological Society 6: 291–459.",
+      "locator": "pp. 334—335"
+    }
+  ],
+  "note": "据 Emerson 1925 的英文原始描述改写。原文该种学名拼作 Kalotermes (Glyptotermes) guianensis，仅一个 i，与名录所载 guianaensis 拼式不同，此处按名录拼式立目、原文拼式并存。模式产地英属圭亚那 Kartabo；有翅成虫与兵蚁均据 6 个巢的多数标本描述，有翅成虫量度取单头，兵蚁量度取 2 头以上（原文给区间）。工蚁未描述。"
+}

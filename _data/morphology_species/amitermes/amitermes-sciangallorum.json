@@ -1,0 +1,25 @@
+{
+  "zh_name": "夏安盖洛姆弓白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁大小与体色似 A. spinifer，但上颚形状不同：上颚细长，自基部附近至端部均匀、轻微弯曲，齿明显位于中央之后，突出、直立、等边三角形。头侧面观与 A. acinacifer 相似，可能与之近缘。有翅成虫原文记未见（Unknown）。工蚁后唇基比 A. spinifer 略更膨大，左上颚第 3 缘齿通常略突出于其与第 1 缘齿之间的切缘之外。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头壳侧面观自囟至后头连续弯曲，头顶均匀弧弯。上颚细长，自基部附近至端部均匀、轻微弯曲；齿明显位于中央之后，突出、直立、等边三角形；内缘自齿基至端部为规则弧线，或近齿基处略浅。触角 14 节，第 3、4 节约等长，短于第 5 节；第 2 节等于第 3、4 节之和。头壳散布刚毛。前胸背板前缘完整或微凹，前叶大。前足基节前表面有 3—5 枚刺聚成一组；其余各足具毛与胫距。量度（mm）：头长 1.04—1.07；头最宽 0.84—0.88；上颚基处头宽 0.68—0.72；头厚 0.68—0.72；左上颚长 0.72—0.78；前胸背板长 0.36；前胸背板宽 0.54；后足胫节长 0.70—0.75。"
+    },
+    {
+      "label": "工蚁",
+      "text": "体黄白色。后唇基比 A. spinifer 略更膨大；左上颚第 3 缘齿通常略突出于其与第 1 缘齿之间的切缘之外。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0554",
+      "citation": "Sands, W. A. 1959. A revision of the termites of the genus Amitermes from the Ethiopian region (Isoptera, Termitidae, Amitermitinae). Bulletin of the British Museum (Natural History), Entomology 8: 129-156.",
+      "locator": "pp. 146—147（Amitermes sciangallorum Ghidini）"
+    }
+  ],
+  "note": "据 Sands 1959 年英文描述改写；原文英文，兵蚁一节系对 Ghidini 1941 年描述的补充，有翅成虫原文记 Imago. Unknown，故本条目不列该品级；扫描件 OCR 将小数点识读为冒号（如「0:68—0- 72」），量度按列位与均值还原，只采区间，前胸背板长、宽原文仅单值，如实录单值。"
+}

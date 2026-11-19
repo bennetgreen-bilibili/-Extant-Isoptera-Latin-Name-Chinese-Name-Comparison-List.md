@@ -1,0 +1,25 @@
+{
+ "zh_name": "裂额基齿白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "本种与同属已知各种以兵蚁额面的形状明显不同（种名 diversifrons 即指额面形态）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "小型兵蚁（Miles minor）：体草黄色，头赭色，上颚除基部外黑色。头略长于宽，粗厚，前方几乎垂直截断；囟稍突出；上唇近方形，前缘中部宽圆，两侧角短而突出、较狭、锐。上颚略长于头，渐细，弯曲不大，端部锐。触角 14 节，第 2 节略长于第 3 节，第 3 节比第 4 节长 0.5 倍，第 5 节几比第 4 节长 0.5 倍。前胸背板前叶中缘深凹。足毛少，第 2 对足胫节外端刺颇长而粗壮。腹节背板与腹板具极小的毛，后部另有若干短毛与颇长的毛。量度（毫米）：体长 4.5；头长 1.45，头宽 1.20；上颚长 1.50；触角长 1.70；后足胫节 0.91。大型兵蚁（Miles major）：区别在于头呈砖红色（ferrugineo-latericio）且略大。"
+  },
+  {
+   "label": "工蚁",
+   "text": "体草黄色，头乳白色，腹部因食物内容呈灰色。头上方具较短、短与颇长的毛；唇基相当膨大；触角 14 节，第 2 节略长于第 3 节，第 3 节有时显示很不明显的分裂痕迹、略长于第 4 节，第 5 节略长于第 4 节。前胸背板前叶中缘微凹。腹节背板与腹板被许多较短的毛，后部另有若干短毛或颇长的毛。量度（毫米）：体长 4；头长 0.78，头宽 0.88；触角长 1.04；后足胫节 0.80。"
+  }
+ ],
+ "note": "据 Silvestri 1914 改写，原文为拉丁文诊断（Miles minor / Miles major / Operarius）+ 意大利文（采集与生态）；模式产地「喀麦隆 Victoria」，作者在地下约 10 厘米深的坑道中仅采得极少数标本。原书为 Bollettino del Laboratorio di Zoologia Generale e Agraria di Portici 第 9 卷（1914–1915）。原文以逗号作小数（4,5 = 4.5 毫米），本条目改作小数点；OCR 错字（eremeum、artieulatis、elypeo、ee 等）已按上下文校读。图版 LXXII 的兵蚁头正面与侧面图未译。",
+ "sources": [
+  {
+   "id": "S0534",
+   "citation": "Silvestri F. 1914. Contribuzione alla conoscenza dei Termitidi e Termitofili dell'Africa occidentale. I. Termitidi. Bollettino del Laboratorio di Zoologia Generale e Agraria della R. Scuola Superiore d'Agricoltura in Portici 9. https://archive.org/details/bollettinodellab9191415rscufo",
+   "locator": "pp. 122–123 / Contribuzione-alla-conoscenza-dei-Termitidi-e-Termitofili-dell’Africa-occidentale"
+  }
+ ]
+}

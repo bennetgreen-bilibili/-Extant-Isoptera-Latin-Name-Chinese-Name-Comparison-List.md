@@ -1,0 +1,21 @@
+{
+  "zh_name": "长颚圆筒白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "与 nordenskioldi 的区别为头更宽、前胸背板更短、上颚更深更粗壮；与 brevipilosus Snyder（玻利维亚）的区别为头部的毛更长；与 Emerson 在英属圭亚那采到的一个未描述种的区别为头更宽、上颚更长。头部的毛长于 brevipilosus。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头黄色，长形，后缘圆，眼点痕迹微弱，具许多颇长的毛。额腺开口小，位于颅中缝的顶端。后颏中部细。触角 11—12 节，第 3 节有分裂的趋势。上颚红褐色，长而宽，弯曲，端部向内弯且尖锐，基部附近具 1 枚齿。前胸背板淡黄色，边缘具长毛，前叶明显，中央极弱内凹。腹部背板具长毛。量度：整个兵蚁长 4.20—4.60 mm；头连上颚长 2.25—2.35 mm；头至上颚基长 0.80 mm；前胸背板长 0.37—0.40 mm；后足胫节长 0.62—0.70 mm；头宽 0.95—1.00 mm；前胸背板宽 0.65 mm。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0638",
+      "citation": "New termites from the Antilles and Middle America. Proceedings of the Entomological Society of Washington 31(4): 86—87, 1929.",
+      "locator": "Cylindrotermes macrognathus 新种描述段（New-termites-from-the-Antilles-and-Middle-America，分卷文本；抽取件首页缺失，页码不可见）"
+    }
+  ],
+  "note": "据文库所收 1929 年《New termites from the Antilles and Middle America》本种新种描述改写，原文英语（页眉为 PROC. ENT. SOC. WASH., VOL. 31, NO. 4, APR., 1929）。所据扫描件未含该文首页，作者姓名不可见，故题录暂不署作者；模式产地为巴拿马 Barro Colorado Island，模式标本为兵蚁（USNM Cat. No. 41745）。原文只描述兵蚁。"
+}

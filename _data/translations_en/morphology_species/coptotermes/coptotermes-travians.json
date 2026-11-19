@@ -1,0 +1,21 @@
+{
+ "note": "After Haviland’s 1898 original description (published as TERMES TRAVIANS, n. sp.). All four castes (male, female, soldier, worker) are described. The original was extracted by OCR from the BHL/Zenodo scan: decimal points were recognized as stray characters (“1:3 mm” = 1.3 mm, “‘6” = 0.6 mm) and some word forms are faulty (papille=papillae, Antenne=Antennae, marrower=narrower); these were checked against the context. Measurements in mm.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Male body length 7 mm, dorsum brick red (latericious), venter fulvous, clypeus and antennae pale. Head oval, convex in profile. Ocelli close to the compound eyes. Fontanelle pore small. Antennae 19-segmented, segment 2 large, segments 3 and 4 small. Clypeus not projecting. Pronotum large, reniform, but the anterolateral angles projecting and sharply rounded. Margins of the forewing buds slightly convex, much larger than the hind wing buds, slightly overlapping the latter at the base. Wings 10 mm long, 3 mm wide, hairy; media and submedia pale; media unbranched, its distance from the subcosta three times that from the submedia; submedia giving off about 6 branches. Hind legs not reaching the apex of the abdomen. Abdominal sternites only three times as wide as long. Abdominal tubercles present, small."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 4 mm. Head 1.3 mm long, 1 mm wide, oval, ochraceous. Above the clypeus a broad swelling ending in a large fontanelle pore. Antennae 13- or 14-segmented, segment 3 either larger or smaller than segment 2, the remaining segments slightly increasing in size towards the apex, nearly spherical. Labrum nearly lanceolate, with several hairs at the apex, not reaching the middle of the mandibles. Mandibles 0.6 mm long, pointed and incurved at the apex, cutting edge toothless. Postmentum firmly fused with the head, widening towards the apex, the free part narrower. Pronotum large, reniform, the anterolateral angles rather projecting and sharply rounded. Mesonotum much narrower than the pronotum. Hind legs extending beyond the abdomen. Abdomen elongate-oval. Abdominal tubercles present, small."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 4 mm. Head pale, often darker in alcohol specimens. Antennae about 13-segmented; the segments near the base indistinctly separated, those towards the apex nearly spherical. Legs far from reaching the apex of the elongate-oval abdomen."
+  },
+  {
+   "label": "Other",
+   "text": "Sternite of abdominal segment 7 of the female semicircular; the abdomen of the queen reaches 27 mm, the hairs on the pleural membrane arising from small unpigmented tubercles, the secondary chitinized areas large. This species is one of the principal pests of houses in Singapore and Sarawak. Distribution: Malay Peninsula, Borneo. Type specimen No. 573. Figures: Pl. 23, figs. 19–22."
+  }
+ ]
+}

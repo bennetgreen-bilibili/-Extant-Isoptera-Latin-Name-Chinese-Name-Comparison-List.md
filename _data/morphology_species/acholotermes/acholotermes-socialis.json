@@ -1,0 +1,21 @@
+{
+  "zh_name": "社会顺白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "有翅成虫在多数量度与复合比值上与 Acholotermes chirotus 一致，在检索表中落于该种；区别在于后唇基略长、囟为更细长的椭圆形、单眼更大。因正模标本破碎、复眼塌陷、长期保存严重褪色，比较困难，作者据此不将 A. chirotus 归为本种异名，认为将来若有中间产地材料可能证明二者同物。"
+    },
+    {
+      "label": "其他",
+      "text": "原名 Eutermes socialis Sjöstedt, 1899，Silvestri（1914）据非模式系列材料将其移入 Anoplotermes，Sjöstedt（1926）又置于 Pericapritermes，此后长期以该组合通行于西非。Sands（1972）检视模式系列中 Emerson 1952 年标注的选模式，将其归入新属 Acholotermes 并正式发表选模式指定：有翅成虫，喀麦隆 Mungo River，1874 年 9 月，R. Bucholz 采，存 Naturhistoriska Riksmuseum, Stockholm。以往记为 Pericapritermes socialis 的材料被认定为误订，另立 Pericapritermes nigerianus（Silvestri 变种提为种级）。"
+    }
+  ],
+  "note": "原文为附录中的再处理：正模有翅成虫标本破碎、复眼塌陷且长期褪色，工蚁品级缺失，故未给出独立量度表，仅与 A. chirotus 作比较；本条不含量度数值。",
+  "sources": [
+    {
+      "id": "S0705",
+      "citation": "Sands, W. A. 1972. The Soldierless Termites of Africa (Isoptera: Termitidae). https://archive.org/details/biostor-184496",
+      "locator": "pp. 242-243 / ia/biostor-184496.txt"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+ "note": "Basado en la descripción original de Haviland de 1898 (el original dice TERMES SARAWAKENSIS, el OCR da “0. Sp.”, que debe ser n. sp.). Están presentes las cuatro formas (macho, hembra, soldado, obrero). El original se extrajo por OCR del escaneo de BHL/Zenodo; los puntos decimales se reconocieron como símbolos extraños (“‘8 mm” = 0,8 mm) y algunas formas de palabra son erróneas (papille=papillae, Antenne=Antennae, LEpistoma=Epistoma), comprobadas aquí con el contexto; las medidas están en mm. Las afirmaciones del original sobre el tamaño del soldado en sarawakensis y singaporiensis se contradicen (“soldiers are smaller” aparece en la descripción de singaporiensis); al citar la comparación, hay que consultar el original.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Macho con longitud del cuerpo 7 mm. Cabeza castaño oscura; patas y tórax casi blanco amarillento pálido (subisabelline); abdomen pardo oscuro en el dorso (fuliginous) y pardo oscuro en el vientre (umbrinous). Cabeza ovalada. Ojos y ocelos grandes, próximos entre sí. Poro de la fontanela grande y largo. Antenas de 15 artejos. Epistoma ligeramente saliente. Margen anterior del pronoto recto, elevado en el centro, ángulos anterolaterales deprimidos, márgenes posterolaterales ligeramente convexos y convergentes. Margen posterior del mesonoto ancho y cóncavo. Margen posterior del metanoto más estrecho. Yemas alares anteriores claramente mayores que las posteriores. Alas de 12 mm de longitud, pardo oscuras, con una mancha amarilla detrás de la subcosta; la media más próxima a la subcosta que a la submedia, desvaneciéndose hacia el ápice y desapareciendo antes del ápice del ala; la submedia con 9 ramas, que alcanzan una décima parte antes del ápice del ala, pero muy tenues cerca del ápice. Patas posteriores alcanzando el segmento abdominal 8. Papilas abdominales ausentes."
+  },
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 3 mm. Anchura de la cabeza 0,8 mm, leonada (fulvous). Antenas de 13 artejos, el artejo 3 mucho más largo que el 2 o que el 4. Naso cónico, algo grueso, su cara anterior no está enteramente en el mismo plano que la cara anterior de la cabeza. Mandíbulas reducidas. Postmentón más corto que ancho. Pronoto en forma de silla de montar, lóbulo anterior corto y elevado. Fémur posterior alcanzando el segmento abdominal 8. Abdomen ovalado, terguitos arqueados, pardo oscuro. Papilas abdominales ausentes."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 4 mm. Cabeza castaño parda. Antenas de 14 artejos. Abdomen grande, ovalado, arqueado en el dorso."
+  },
+  {
+   "label": "Otros",
+   "text": "El esternito del segmento abdominal 7 de la hembra mide menos de la mitad de su anchura, márgenes posterolaterales casi rectos; el abdomen de la reina alcanza 18 mm de longitud, con placas quitinizadas secundarias evidentes, la membrana pleural con diminutos puntos de pigmento y pelos. Nido esférico, construido sobre el tallo de un arbusto, a varios pies sobre el suelo. Distribución: Borneo (Sarawak). Ejemplar tipo número No. 265. Esta especie es muy próxima a T. singaporiensis, de la que difiere por el soldado mayor (3 mm frente a 3 mm, pero antenas de 13 artejos frente a 12), el naso más grueso y la superficie dorsal del abdomen arqueada. El original añade: el soldado de singaporiensis es menor, con antenas de 12 artejos y la base del naso algo hinchada."
+  }
+ ]
+}

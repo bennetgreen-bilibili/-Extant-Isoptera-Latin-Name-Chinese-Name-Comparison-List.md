@@ -1,0 +1,21 @@
+{
+ "note": "Based on Haviland’s 1898 original description (the original reads TERMES SARAWAKENSIS, the OCR gives “0. Sp.”, which should be n. sp.). All four forms (male, female, soldier, worker) are present. The original was extracted by OCR from the BHL/Zenodo scan; decimal points were recognised as stray symbols (“‘8 mm” = 0.8 mm), and some word forms are wrong (papille=papillae, Antenne=Antennae, LEpistoma=Epistoma), checked here against the context; measurements are in mm. The original’s statements on soldier size in sarawakensis and singaporiensis conflict (“soldiers are smaller” appears in the account of singaporiensis); when citing the comparison, check the original.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Male body length 7 mm. Head dark chestnut brown; legs and thorax near pale yellowish white (subisabelline); abdomen dark brown above (fuliginous), dark brown below (umbrinous). Head oval. Eyes and ocelli large, close to each other. Fontanelle pore large and long. Antennae 15-segmented. Epistoma slightly projecting. Anterior margin of pronotum straight, raised in the middle, anterolateral angles depressed, posterolateral margins slightly convex and convergent. Posterior margin of mesonotum broad and concave. Posterior margin of metanotum narrower. Forewing buds distinctly larger than hind wing buds. Wings 12 mm long, dark brown, with a yellow spot behind the subcosta; media nearer the subcosta than the submedia, fading towards the apex and disappearing before the wing tip; submedia with 9 branches, reaching one tenth from the wing tip, but very faint near the apex. Hind legs reaching abdominal segment 8. Abdominal papillae absent."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 3 mm. Head width 0.8 mm, fulvous. Antennae 13-segmented, segment 3 much longer than segment 2 or segment 4. Nasus conical, slightly thick, its anterior surface not entirely in the same plane as the front of the head. Mandibles reduced. Postmentum shorter than wide. Pronotum saddle-shaped, anterior lobe short and raised. Hind femur reaching abdominal segment 8. Abdomen oval, tergites arched, dark brown. Abdominal papillae absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 4 mm. Head chestnut brown. Antennae 14-segmented. Abdomen large, oval, arched dorsally."
+  },
+  {
+   "label": "Other",
+   "text": "Sternite of abdominal segment 7 of the female less than half as long as wide, posterolateral margins nearly straight; the queen’s abdomen up to 18 mm long, with distinct secondary chitinized plates, the pleural membrane with minute pigment dots and hairs. Nest spherical, built on the stem of a shrub, several feet above the ground. Distribution: Borneo (Sarawak). Type specimen number No. 265. This species is very close to T. singaporiensis, differing in the larger soldier (3 mm vs 3 mm, but antennae 13-segmented vs 12-segmented), the thicker nasus and the arched dorsal surface of the abdomen. The original adds: the soldier of singaporiensis is smaller, with 12-segmented antennae and the base of the nasus slightly swollen."
+  }
+ ]
+}

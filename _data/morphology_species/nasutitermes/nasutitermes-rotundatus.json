@@ -1,0 +1,25 @@
+{
+  "zh_name": "圆形象白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "体长 4.5 mm，头宽 0.81 mm（头长与额突长的数字在图版说明处被 OCR 打散，未能确认，故不列）。头浅黄色，额突浅锈褐色；额具少量刚毛，其余光滑；胸部、腹部与足淡稻草黄；腹背板被很薄的低毛被，后缘具数根长刚毛；腹板毛被相当密，后缘具数根长刚毛。头近圆形（图版 Q1），额突相当长、窄、锥形；额部轮廓弱凹。触角 13 节，第 3 节长于第 2 节，第 2 节与第 4 节等长。前胸背板前缘斜向上升。"
+    },
+    {
+      "label": "工蚁",
+      "text": "（未完全成熟个体）体长 4.6 mm，头长 1.4 mm，头宽 1.26 mm。头淡稻草黄。与 Eutermes robustus 很相符，但触角 14 节，第 2 节大于第 3 节，第 3 节与第 4 节等大。"
+    },
+    {
+      "label": "其他",
+      "text": "与 Eutermes robustus 近缘，区别在兵蚁触角节数与腹部毛被。模式产地：秘鲁 Carabaya 省 Llinquipata。"
+    }
+  ],
+  "note": "原文为德文，经 Internet Archive 的图书馆扫描本 OCR 文本抽取（archive.org 条目 biostor-232733），个别数字与字母有识别错误，已按上下文与图版说明核对；无法确认的数字未写入。 原始描述含兵蚁与未完全成熟的工蚁。",
+  "sources": [
+    {
+      "id": "S0525",
+      "citation": "Holmgren N. 1906. Studien über südamerikanische Termiten. Zoologische Jahrbücher, Abteilung für Systematik, Geographie und Biologie der Thiere 23: 521–676.",
+      "locator": "pp. 589–590"
+    }
+  ]
+}

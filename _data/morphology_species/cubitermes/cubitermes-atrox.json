@@ -1,0 +1,25 @@
+{
+ "zh_name": "凶猛方白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "较前一种小，黑色，各腹节边缘浅色（白色）；翅平覆于背上，黑色；各足均为浅土色。拉丁原描述：近黑色，腹节边缘浅色，触角与足土色，翅烟色，前缘脉黑色，单眼位于下方，中央具一点状凹。Fabricius 另行描述（Termes arda）：黑色，腹节端部浅色，足浅色。Hagen 说明其本人未见本种有翅成虫，并据 Smeathman 原图指出其单眼大、距复眼远。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "原文据 Smeathman 图与描述记为 puppa militans（兵蚁型若虫）：头极大、土色，前方隆起呈驼峰状，后方卵形、钝而延伸；上颚前伸、分叉、黑色；触角念珠状、土色，与头等长；无眼（盲）；胸部小，腹部卵形，灰铅色；足土色。量度：体长（据原始图）8—13 毫米。"
+  },
+  {
+   "label": "工蚁",
+   "text": "原文记为 larva operaria（工蚁型幼虫）：头浅色，触角念珠状，无眼（盲），上颚短且具齿；胸与腹卵形，灰铅色；足浅色（据 Entom. syst. 作土色）。量度：体长 5 毫米。"
+  }
+ ],
+ "note": "据 Hagen 1858 改写，原文本种条目为拉丁文诊断（Smeathman 原文与 Fabricius 的 Termes arda 描述并存）+ 德文按语（Monographie der Termiten，第 43 号 Termes atrox Smeathman，Smeathman, Philos. Transact. vol. 71, p. 141, no. 3, Tab. 10, fig. 14–18; Tab. 9）。分布记作「赤道非洲（Sierra Leone）」，与条目页的模式产地一致；原文另记其巢为 2—3 英尺高的圆锥形黏土巢，顶圆拱、边缘完整突出，混有草茎。量度：体长 9 毫米；连翅长 17 毫米；翅展 31 毫米（Smeathman 原文称翅展 1 又 1/2 英寸）；幼虫 5 毫米；兵蚁 8—13 毫米（均据原图）。Hagen 推测本种实为与 T. arborum 相近的 Eutermes。原文把上颚分叉的兵蚁型若虫与工蚁型幼虫用作品级描述，本条目按兵蚁、工蚁归并；OCR 错字（Terraes、atris、antennig、productp、nulüs 等）已按上下文校读。",
+ "sources": [
+  {
+   "id": "S0609",
+   "citation": "Hagen H. A. 1858. Monographie der Termiten. Linnaea Entomologica 12: 1–342.",
+   "locator": "pp. 214–215 / Monographie-der-Termiten"
+  }
+ ]
+}

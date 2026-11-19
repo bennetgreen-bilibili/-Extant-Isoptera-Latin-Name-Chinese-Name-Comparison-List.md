@@ -1,0 +1,29 @@
+{
+  "zh_name": "多疣堆砂白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "与 Kalotermes brevis 除体型外无明显区别；兵蚁头顶凹入不如 K. brevis 深、瘤突不及其显著，头部轮廓不及 K. brevis 平直；前胸背板前角较 K. brevis 更圆、不尖。K. infumatus 的翅脉式不同，K. brevicollis 更小，K. dudleyi 更大。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "头红黄色。触角第 3 节短于第 2 节，第 2 节与第 4 节等长。复眼距头下缘 0.192 mm。与 K. brevis 除大小外几无差别。量度（部分个体取自与皇后、兵蚁同群的标本）：有翅体长 9.45 mm；去翅体长 4.73 mm；头长 1.12 mm；头宽 0.96 mm；左上颚长 0.51 mm；前胸背板宽 0.71 mm；前翅长 6.85 mm、宽 1.89 mm。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头前部黑色、后部红黄褐色，后部有少数刚毛；形状似 K. brevis，但头顶凹入不及其深、瘤突较弱；额面瘤突明显，侧面轮廓不及 K. brevis 平直。触角淡色，11—12 节，第 3、4 节等长且很短，第 2 节长等于第 3、4 节之和。复眼在触角基后方可见。上颚黑色而短。前胸背板与头后部同色，前缘凹、中央具钝角，前角圆而不似 K. brevis 尖；腹背板黄色。量度：体长 4.50 mm；头长 1.28—1.38 mm；头宽 1.03 mm；触角长 0.81 mm；前胸背板长 0.58—0.61 mm、宽 0.96 mm；后足胫节长 0.61 mm。"
+    },
+    {
+      "label": "其他",
+      "text": "模式产地英属圭亚那 Kartabo，仅知模式产地。正模为兵蚁，形态模为皇后；描述基于两个群体的一头皇后与六头兵蚁，另有一头单独采到的有翅成虫与皇后相符，其量度一并列入。"
+    }
+  ],
+  "note": "原文量度表为 OCR 表格，部分数值不可辨（如复眼位置、部分宽度），只录可确认项；原文以 Kalotermes (Cryptotermes) verruculosus 发表。",
+  "sources": [
+    {
+      "id": "S0530",
+      "citation": "Emerson, A. E. 1925. The termites of Kartabo, Bartica District, British Guiana.",
+      "locator": "pp. 329-330 / 文库 The-termites-of-Kartabo.../part-001.txt"
+    }
+  ]
+}

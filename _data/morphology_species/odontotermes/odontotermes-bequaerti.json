@@ -1,0 +1,21 @@
+{
+  "zh_name": "贝奎特土白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头大，红黄色；两侧圆，向前略收狭；前部疏生数根刚毛。触角 17 节，第 3 节短于第 4 节，第 4 节短于第 2 节。复眼退化为触角基后方的黑点。上颚除基部附近外黑色；齿式与 T. schmitzi 很相似，但上颚较细。前胸背板前缘与后缘均凹入。量度（mm）：头连上颚长 6.21，头至下唇端长 4.25，头宽 2.89，触角长 2.45，前胸背板长 0.97，前胸背板宽 1.92，后足胫节长 2.27，左上颚长 1.84。"
+    },
+    {
+      "label": "鉴别要点",
+      "text": "与 T. schmitzi 近缘，但头两侧更圆、上颚更细；T. rectanguloides 体型较小；T. badius 头稍宽且两侧向前收狭更明显；T. monodon 同模标本的头宽比例更大、上颚更粗。"
+    }
+  ],
+  "note": "据 Emerson (1928) 原始描述改写，原文英文；正模为兵蚁（刚果博物馆，Tervueren），描述基于少量兵蚁与少量工蚁；工蚁未单独描述，有翅成虫未记。种名献给采集者 J. Bequaert 博士。原始采集记录：黏土中掘出的蚁道内，位于稀树草原中的一条狭窄廊道林带。异名引证、分布与图号未译。摘录按原文行末断字合并。",
+  "sources": [
+    {
+      "id": "S0075",
+      "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57 (Article VII). file: _unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon/part-001.txt",
+      "locator": "p. 454（Text Fig. 16）"
+    }
+  ]
+}

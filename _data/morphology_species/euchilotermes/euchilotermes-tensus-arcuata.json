@@ -1,0 +1,25 @@
+{
+  "zh_name": "弓形亚种",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "上颚较典型形态略短而更弯。头长 2.08 mm、宽 1.43 mm；上颚长 1.32 mm；后足胫节 1.04 mm。头宽较典型形态为大（1.43 mm 对 1.32 mm）。变异：采自 Camayenne 的 2 头与 Kindia 的 1 头兵蚁，头与上颚略小，头长 1.82 mm、宽 1.34 mm、上颚长 1.32 mm、后足胫节 1.04 mm。"
+    },
+    {
+      "label": "其他",
+      "text": "蚁后：头较典型形态略大。体长 14 mm，腹部宽 2.5 mm；头长 1.07 mm、宽 0.98 mm；复眼长径 0.25 mm；后足胫节 1.23 mm。"
+    },
+    {
+      "label": "工蚁",
+      "text": "与典型形态（指名亚种）相似。"
+    }
+  ],
+  "note": "据 Silvestri (1914) 亚种级描述改写；原文为拉丁文；描述了蚁后、兵蚁、工蚁，并附变异量度；量度单位 mm 照原文。同文另有 var. acutidens，见该条目。",
+  "sources": [
+    {
+      "id": "S0534",
+      "citation": "Silvestri F. 1914. Contribuzione alla conoscenza dei Termitidi e Termitofili dell'Africa occidentale. I. Termitidi. Bollettino del Laboratorio di Zoologia Generale e Agraria della R. Scuola Superiore d'Agricoltura in Portici 9: 1-146. https://archive.org/details/bollettinodellab9191415rscufo",
+      "locator": "p. 88"
+    }
+  ]
+}

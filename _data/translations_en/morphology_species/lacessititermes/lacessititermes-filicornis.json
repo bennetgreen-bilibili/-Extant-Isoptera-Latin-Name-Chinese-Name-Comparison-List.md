@@ -1,0 +1,17 @@
+{
+ "note": "Rewritten from the original species-level description by Haviland (1898); the original is in English and covers the imago, female, soldier and worker, measurements in mm. The original gives \"Hab. Borneo (Sarawak). Type, No. 312\". Haviland wrote \"TERMES FILICORNIS, D. sp.\", the D being an OCR misreading of n.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Male body length 8 mm; dark blackish brown, head chestnut, legs ochraceous. Head oval; ocellus and compound eye separated by two diameters; fenestra smaller than the ocellus; antennae 15-segmented, segment 3 slightly larger than segment 2; clypeus convex and projecting. Pronotum about half as long as wide, anterior margin nearly straight, anterolateral corners rounded and hardly deflexed, posterolateral margins nearly straight; posterior margins of the mesonotum and metanotum broad and obtusely lobed; fore wing pads larger than the hind wing pads. Wings 12 mm long, dark brown, with a pale yellow stripe along the posterior margin of the subcosta; mediana closer to the submediana than to the subcosta, forking and becoming faint in the apical third of the wing; submediana with 10 branches, becoming faint near the wing apex and ending on the posterior margin at one fifth of the wing length from the apex. Hind legs reaching abdominal segment 7; abdominal papillae absent. In the female the sternite of abdominal segment 7 is less than half as long as wide, with slightly concave posterolateral margins."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 3.55 mm; head almost chestnut, thorax and abdomen dark brown, antennae pale yellowish brown, legs pale yellowish white. Antennae 3 mm long, segment 3 not much longer than segment 2, segment 4 distinctly longer, segment 7 the longest, about three times as long as wide. Rostrum moderate, its anterior surface forming a distinct angle with the front of the head; vestigial mandibles clearly visible; postmentum longer than wide. Pronotum saddle-shaped, the anterior lobe very short and hardly raised; hind femur extending beyond the end of the abdomen; abdomen small, oval; abdominal papillae absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 4 mm; head almost chestnut, thorax and upper part of the abdomen dark brown; antennae 15-segmented; hind legs extending beyond the end of the abdomen; abdomen large, oval, with arched tergites."
+  }
+ ]
+}

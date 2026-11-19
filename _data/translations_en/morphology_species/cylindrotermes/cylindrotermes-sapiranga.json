@@ -1,0 +1,21 @@
+{
+ "note": "Rewritten from the original description of the new species (Portuguese) in Rocha & Cancello 2007; the measurements are the ranges measured by the authors, and the original uses commas as decimal points, changed here to decimal points. The alate of this species is recorded as unknown in the original. The measurement abbreviations follow Roonwal (1970) and are written out in full here.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "The head is rectangular; in profile the dorsal margin is straight from the posterior third to the level of the fontanelle, where it is raised, and from the fontanelle to the base of the clypeus it forms a concave slope. In profile the head is thicker than in the other species of the genus. The labrum is pentagonal. The antennae have eleven or twelve segments, segment 1 twice as long as segment 2, the remaining segments subequal, segment 3 sometimes split. The mandibles are slender and long, curved inwards only at the tip, slightly shorter than half the head capsule length, each with a tooth at the base. The head is covered with short hairs, fewer posteriorly; the setae are concentrated anteriorly and sparse elsewhere. The labrum bears 7—8 setae, always with a longer pair at the apex, sometimes with a few short hairs in addition. The postmentum is covered with short hairs, sparser posteriorly, and the setae lie mainly on the anterior margin. The pronotum and the remaining thoracic nota are densely covered with short hairs and setae, the setae mainly on the margins; the abdominal tergites and sternites are densely covered with short hairs and setae, with a few erect setae on the posterior margin. Measurements (44 individuals, 9 specimens): head capsule length 1.72—1.96 mm, maximum head width 0.86—0.98 mm, head height 0.74—0.88 mm, maximum length of the left mandible 0.78—0.88 mm, mandible base to tip 0.76—0.88 mm, minimum length of the postmentum 1.18—1.42 mm, length of the left hind tibia 0.62—0.76 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "The antennae have twelve or thirteen segments; segment 1 is the longest, segment 2 is half as long as segment 1, the remaining segments are subequal, segment 3 sometimes subdivided. The head is densely covered with setae and short hairs. The thoracic nota bear short hairs and setae, the setae mainly on the margins; the abdominal tergites and sternites are densely covered with short hairs and bear setae over the whole surface, mainly on the margins, with a few erect setae on the posterior margin."
+  },
+  {
+   "label": "Diagnostic characters",
+   "text": "The soldier has slender mandibles, which distinguishes it from C. brevipilosus and C. caata; there is no projection above the antennal sockets, which distinguishes it from C. flangiatus; the raised fontanelle region distinguishes it from C. macrognathus and C. capixaba; compared with C. parvignathus it is larger, with a relatively wider and thicker head, many short hairs and few setae. The alate is unknown."
+  },
+  {
+   "label": "Other",
+   "text": "The holotype is a soldier (MZUSP 11501, Reserva Ecológica de Sapiranga, state of Bahia, Brazil, 2001-7-25, collected by Yana T. Reis and E. M. Cancello); the paratypes are the remaining soldiers and workers of the same colony and specimens MZUSP 11499—11504. The specific epithet sapiranga refers to the type locality and not to its Tupi meaning. Type locality: Reserva da Sapiranga, Mata de São João, state of Bahia, Brazil (12.565°S, 38.032°W)."
+  }
+ ]
+}

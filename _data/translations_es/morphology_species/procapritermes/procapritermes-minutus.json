@@ -1,0 +1,13 @@
+{
+ "note": "Reescrito de la descripción original específica de Haviland (1898), en inglés; el original indica \"Male absent\" y describe solo el soldado y el obrero, con medidas en mm; \"Hab. Borneo (Sarawak). Type, No. 570\".",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 3.5 mm; longitud de la cabeza 1 mm, anchura 0.7 mm, blanco amarillento pálido. Antena de 14 artejos, artejo 2 más largo que el artejo 3 o el 4, después gradualmente más largo hasta el artejo 8 (menos de dos veces tan largo como ancho). Labro blanco, pequeño, con dos lóbulos divergentes diminutos y agudos. Mandíbulas de 1.2 mm de longitud, en forma de cerda, ligeramente giradas hacia dentro y hacia arriba en la base, la izquierda algo curvada hacia abajo. Posmentón más ancho en el ápice que en la base. Pronoto corto, en silla de montar, el lóbulo anterior corto pero claramente elevado. Patas posteriores sobrepasando mucho el extremo del abdomen; abdomen blanco; papilas abdominales ausentes."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 3 mm; cabeza pálida; antena de 14 artejos; clípeo convexo; abdomen oval-alargado, su color dependiente del contenido intestinal."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "zh_name": "兰森埃特怒白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "与 breviarticulatus 极近，难以确凿区分；区别在中胸背板后方突起圆钝而非角状，中胸与后胸背板的切口很弱，卵形略隆起的囟周围下凹较强。复眼大而突出，单眼较大并靠近复眼；唇基基片比额略浅、很短、微隆起；中脉具 2—3 支，肘脉具 7—8 支。量度：连翅体长 13—14 mm，去翅 7.5 mm，前翅 11 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头褐色至黑褐色，鼻色浅；腹部、胸部与足黄褐色，触角带褐色或锈黄色；仅腹部后部背板具刚毛行。头梨形，鼻锥状；额部轮廓有凹陷。触角 14 节，第 3 节略长于第 2 节，第 4 节远长于第 3 节。前胸背板鞍形，前缘不凹入。"
+  }
+ ],
+ "note": "据 Holmgren (1913) 的种级描述改写，原文德语；含 imago 与 soldat 两品级，量度单位为 mm。头长、头宽与前胸背板长宽在扫描文本中 OCR 残损（作「l,o」「1,0.1」「l,ii」「0,os」），未录入。种名在正文标题处被 OCR 打作「Itan.soiieti」，据正文「Bei Itansoneii」与检索表「Ransoneti 新种, S. 201」定为 ransoneti。",
+ "sources": [
+  {
+   "id": "S0089",
+   "citation": "Holmgren, N. F.; 1913. Termitenstudien. 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Kungliga Svenska Vetenskaps-Akademiens Handlingar 50(2): 1-276. https://archive.org/details/biostor-244353",
+   "locator": "p. 201—202"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Male body length 8.5 mm; dark chestnut, legs dark blackish brown, the tarsi and the apical antennal segments paler. Head oval; ocelli half a diameter from the compound eyes; fenestra very narrow, almost absent; antenna 15-segmented, segment 3 slightly larger than segment 2; clypeus very slightly convex. Pronotum about half as long as wide, anterior margin straight, anterior corners obtusely rounded, posterolateral margins nearly straight; posterior margins of the meso- and metanotum wide and distinctly concave; fore wing buds slightly larger than the hind wing buds. Wing length 14 mm, dark brown; media much nearer to the submedia than to the radius, its tip very fine, giving off two to three branches that reach the wing apex; submedia with 9 branches, ending one fifth of the wing length from the apex. Hind legs reaching the end of the abdomen; abdominal papillae absent. In the female, the sternite of abdominal segment 7 about half as long as wide, the posterolateral margins concave; queen body length 14 mm, the tergites strongly arched, secondary chitinization slight, the lateral epidermis with minute pigment dots and setae."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 4 mm; dorsum black, venter dark blackish brown, several apical antennal segments, tibiae and tarsi white. Head width 0.8 mm. Antenna 14-segmented, segment 3 longer than segment 2, segment 7 the longest, about three times as long as wide. Rostrum rather large, its anterior surface forming a distinct angle with the anterior surface of the head; vestigial mandibles clearly visible; postmentum almost as long as wide. Pronotum saddle-shaped, the anterior lobe short, very slightly raised; hind femora extending beyond the end of the abdomen; abdomen small, oval; abdominal papillae absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 5 mm, dark blackish brown, head nearly chestnut; antenna 15-segmented; abdomen rather large, oval, the sternites strongly arched."
+  }
+ ],
+ "note": "Adapted from the original species-level description by Haviland (1898), original in English; includes imago, queen, soldier and worker, with measurements in mm. The original gives \"Hab. Borneo (Sarawak). Type, No. 363\". The number of white antennal segments in the soldier is damaged in the scanned copy (OCR reads \"the 12 apical segments\"); in keeping with the context it is rendered as \"several apical segments\"."
+}

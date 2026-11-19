@@ -1,0 +1,21 @@
+{
+  "zh_name": "驼背直颚白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁上颚第二型，与其他同型种的区别是整个头壳表面的短毛层更密。与 O. heberi 很接近，头背方两处隆起在同巢个体间有变化。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "背面观头侧平行。侧面观背瘤略突出，位于侧缘突起之后。上颚第二型，中部有齿状突。头壳表面被密集短毛层。后颏有刚毛与稀疏短毛。前胸背板前缘与后缘有刚毛，表面散布短毛；中胸背板与后胸背板后缘有刚毛；腹部背片与腹片密被刚毛，后缘有些直立刚毛。"
+    }
+  ],
+  "note": "据 Rocha & Cancello (2009) 改写，原文英文；原文有翅成虫记为 Unknown；另记头背方两隆起在同群个体间有变异，此点未写成性状。",
+  "sources": [
+    {
+      "id": "S0228",
+      "citation": "Rocha M. M.; Cancello E. M. 2009. Revision of the Neotropical termite genus Orthognathotermes Holmgren (Isoptera: Termitidae: Termitinae). 10.11646/zootaxa.2280.1.1",
+      "locator": "p. 7（treatment 6213683）"
+    }
+  ]
+}

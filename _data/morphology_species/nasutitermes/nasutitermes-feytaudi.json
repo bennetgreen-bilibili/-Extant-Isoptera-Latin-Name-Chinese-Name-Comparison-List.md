@@ -1,0 +1,25 @@
+{
+  "zh_name": "费淘德象白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "与 E. itapocuensis 极近但体形明显较小；横带略深，其上两个肌肉着生痕黄斑不如后者明显；工蚁头平均比 E. itapocuensis 大（头长 1.55 对 1.45 mm），其余完全相同。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "外形与 E. itapocuensis 几完全一致，仅体型显著较小；横带较深，两个黄斑较不明显。量度：头长约 1.65 mm；头宽 1.40—1.46 mm；前胸背板宽 1.30—1.35 mm；两复眼间宽约 0.90 mm；复眼长 0.48—0.53 mm。"
+    },
+    {
+      "label": "工蚁",
+      "text": "与 E. itapocuensis 工蚁完全一致，仅头部平均较大：头长 1.55 mm（后者 1.45 mm），头宽 1.14 mm。"
+    }
+  ],
+  "note": "描述取自 Holmgren 1910 对 Eutermes Feytaudi 的原始描述（德文），含有翅成虫与工蚁，兵蚁未描述；模式产地巴西 Rio de Janeiro: Corcovado。该种与 itapocuensis 的量度列在同一对比表中，表内分列字体被 OCR 混淆，仅录能确认归属本种的数值。原文为德文，BHL 扫描件 OCR 质量一般：小数点常被误认作逗号或冒号，部分量度数字模糊，模糊者不录。学名当时置于 Eutermes 属，现归 Nasutitermes。",
+  "sources": [
+    {
+      "id": "S0607",
+      "citation": "Holmgren, N. 1910. Versuch einer Monographie der amerikanischen Eutermes-Arten. Mitteilungen aus dem Naturhistorischen Museum in Hamburg 27: 171–325.",
+      "locator": "p. 280"
+    }
+  ]
+}

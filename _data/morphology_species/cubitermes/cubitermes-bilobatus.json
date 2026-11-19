@@ -1,0 +1,25 @@
+{
+  "zh_name": "双裂方白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "体长 5.5 mm，粗壮，深栗色，跗节暗褐色。头卵形；复眼突出；单眼与复眼相距一个直径；窗孔存在；触角 15 节，第 2 节大，第 3、4 节小；唇基凸而突出。前胸背板宽 1 mm，半月形，前缘微凹，前侧角较尖、略下压；中胸与后胸背板后缘极窄，呈短而尖的叶状；前翅芽与后翅芽近等长。翅长 11.5 mm；中脉细弱，距亚中脉较亚前缘脉近，达翅端并在端半部发出二至三分支；亚中脉止于距翅端三分之一处，具 8 条分支。后足伸达腹端；腹部乳突缺如。雌性第 7 腹节腹板长约为宽之半，后侧缘在中部相接成圆钝角；蚁后腹部体长可达 15 mm，膨胀不多。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体长 6.5 mm；头宽 1.5 mm，橙黄色，长圆形；触角水平以上方有一大型圆形中隆。触角 14 节，第 2 节略长于第 3 或第 4 节。上唇具两个长而分叉的侧叶，长达上颚长度的三分之一。上颚长 1.5 mm，较细，向端部渐尖，基部微弯而近端部弯曲更甚，切缘无齿。后颏长圆形，与头牢固愈合，但不陷入头侧之间。前胸背板短，鞍形，前部凸、略隆起。后足伸达腹端；腹卵形、尖，颜色随肠内容物；腹部乳突缺如。"
+    },
+    {
+      "label": "工蚁",
+      "text": "体长 4.5 mm；头淡黄白色；触角 14 节，第 2 节长于第 3 节；窗孔缺如；唇基突出；腹长卵形，颜色随肠内容物。"
+    }
+  ],
+  "note": "据 Haviland (1898) 的原始种级描述改写，原文英语；含 imago、queen、soldier、worker，量度单位为 mm。原文「Hab. Natal (Estcourt)」，巢筑于地表。Haviland 将本种置于以 Termes nemorosus 为模式的一组（现 Cubitermes），其兵蚁上唇双叶与无齿上颚为本组特征。",
+  "sources": [
+    {
+      "id": "S0546",
+      "citation": "Haviland, G. D.; 1898. Observations on termites; with descriptions of new species. Journal of the Linnean Society of London (Zoology) 26: 358-442. https://archive.org/details/zoological-journal-of-the-linnean-society_1898_26",
+      "locator": "p. 411—412"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+ "note": "Descripción tomada de la descripción original de Hill de 1925 de Eutermes graveolus (en inglés), que comprende el alado, el soldado y el obrero; localidad tipo Darwin, Territorio del Norte, recolectada también en Bathurst Island; el autor trata las poblaciones de Magnetic Island, Queensland y otros lugares como una raza local de esta especie. La especie construye nidos arbóreos. El original está en inglés y el escaneo de BHL se sometió a OCR, con guiones y dígitos de medida mal leídos ocasionalmente (p. ej. el guion ¬), restituidos aquí por el contexto; los valores que no pueden determinarse no se citan. La especie se situaba entonces en Eutermes y hoy está en Nasutitermes.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Muy próximo a E. exitiosus pero menor (alado con alas 15.00—15.75 mm); antenas de 15 segmentos, ojos compuestos mucho mayores con facetas más gruesas, cabeza más corta y más o menos más pálida, cerdas de cabeza y cuerpo más densas, pronoto más largo y más ancho, alas claramente más cortas y más pálidas cerca de la base; difiere de E. yarrabahensis por el cuerpo menor, la cabeza menor, más pálida y menos pelosa, las alas más cortas y más pálidas, los ojos compuestos menores, el pronoto más estrecho y las antenas con 1 segmento menos. El soldado no puede distinguirse con fiabilidad del de E. exitiosus."
+  },
+  {
+   "label": "Alado",
+   "text": "Muy próximo a E. exitiosus pero menor; cabeza más corta, más o menos más pálida; ojos compuestos mucho mayores con facetas más gruesas; cerdas de cabeza y cuerpo más densas; pronoto más largo y más ancho; alas claramente más cortas y más pálidas (sobre todo cerca de la base), las dos primeras venas claramente más separadas en la base. Medidas: longitud del cuerpo (con alas) 15.00—15.75 mm; sin alas 7.50—8.00 mm; longitud de la cabeza (hasta el extremo del labro) 1.50 mm; longitud de la cabeza (hasta la sutura frontoclipeal) 1.02 mm; anchura de la cabeza 1.42 mm; longitud antenal (15 segmentos) 2.00 mm; diámetro vertical del ojo compuesto 0.493 mm, diámetro transversal 0.595 mm; longitud del pronoto 0.85 mm, anchura 1.42 mm; longitud del ala anterior 12.50 mm, anchura 3.50 mm; longitud del ala posterior 12.00 mm, anchura 3.75 mm; longitud de la tibia posterior 1.70 mm. La colonia tipo contenía además un individuo con alas de solo 13.50 mm de longitud y varios con alas de 8.00—9.00 mm, con alas claramente reducidas, especímenes anómalos."
+  },
+  {
+   "label": "Soldado",
+   "text": "Ningún carácter permite distinguirlo con fiabilidad del soldado de E. exitiosus; los individuos de distintas colonias varían en color y tamaño de la cabeza como en esa especie. Medidas: longitud del cuerpo 4.00 mm; longitud de la cabeza 1.73 mm; anchura de la cabeza 0.97 mm; longitud antenal (13 segmentos) 1.53—2.10 mm; longitud de la tibia posterior 1.14 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Muy semejante al obrero de E. exitiosus, pero la cabeza es en su mayoría más oscura y con una superficie oscura mayor (que se extiende más lateral y posteriormente); las dos especies no pueden separarse por este carácter. Medidas: longitud del cuerpo 5.00 mm; longitud de la cabeza (hasta el extremo del labro) 1.19 mm; longitud de la cabeza (hasta la sutura frontoclipeal) 0.97 mm; anchura de la cabeza 1.36 mm; longitud del pronoto 0.28 mm, anchura 0.68 mm; longitud antenal (14 segmentos) 1.25 mm; longitud de la tibia posterior 1.16 mm."
+  }
+ ]
+}

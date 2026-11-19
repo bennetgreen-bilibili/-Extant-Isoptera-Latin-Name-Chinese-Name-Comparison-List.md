@@ -1,0 +1,21 @@
+{
+  "zh_name": "全黑镰白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "典型为深色头型；上颚很长，上颚上的齿宽而突出。与 D. rubriceps 的区别（据 Mjöberg 检索）在于上颚甚长、齿宽而突出，而 rubriceps 上颚较短、齿呈三角形。Mjöberg 指出各地标本在头色、大小与头形上差异颇大，但未找到可作为分种依据的稳定特征；Hill 则认为头色深浅不同的兵蚁所对应的有翅成虫存在明显种级差异，不能合并。量度（与 D. daliensis 并列）：头连上颚长 3.196 mm；上颚长 1.598 mm；头深 1.034 mm；头宽 1.598 mm；触角长 3.666 mm；前胸背板长 0.564 mm、宽 1.081 mm；前、中、后足胫节长 1.457、1.363、2.303 mm。"
+    },
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁上颚甚长、齿宽而突出，头较浅（深 1.034 mm，约为 D. daliensis 的三分之二）；前胸背板较窄（宽 1.081 mm）。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0273",
+      "citation": "On some Australian termites of the genera Drepanotermes, Hamitermes and Leucotermes (1922) ［Zenodo 镜像：10.5281/zenodo.16157381］",
+      "locator": "「Drepanotermes perniger, Frogg.」比较与讨论段，以及 daliensis 描述中的并列量度表"
+    }
+  ],
+  "note": "据 Hill (1922) 英文记述改写；原文对 perniger 只作与 D. rubriceps、D. daliensis 的比较与讨论（含 Mjöberg 的检索要点），未另立完整描述段，量度取自该文兵蚁并列量度表的 perniger 列。"
+}

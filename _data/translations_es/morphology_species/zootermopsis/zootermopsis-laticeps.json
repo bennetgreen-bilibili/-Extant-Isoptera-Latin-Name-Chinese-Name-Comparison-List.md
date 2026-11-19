@@ -1,0 +1,17 @@
+{
+ "note": "Adaptada de la descripción original de Banks (1906), redactada originalmente en inglés; solo se describen el soldado y el alado, sin medidas, únicamente con descripciones comparativas y el número de artejos antenales. El OCR utilizado es texto de microfilm en el que se han perdido en gran medida artículos y preposiciones (por ejemplo \"Similar most respects angusticollis\" carece de in y to), por lo que solo se recogen los caracteres legibles; no se completaron las partes dañadas con palabras.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Cuerpo rojo herrumbre brillante, más oscuro en la parte anterior; mandíbulas negras y brillantes; pronoto rojo amarillento; abdomen y patas amarillo pálido, antenas pardo amarillentas. En conjunto similar a Zootermopsis angusticollis, pero la cabeza mucho más ancha, sobre todo en la parte posterior; la anchura de la cabeza por detrás es el doble que la del pronoto, y el pronoto mismo no es más ancho; antenas con unos 22 artejos."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza algo más ancha; ojos compuestos mucho mayores que en Zootermopsis angusticollis, su margen anterior alcanza las cavidades antenales. La banda costal del ala mucho más pálida que en Zootermopsis angusticollis, pero la nervadura similar a la de esta última."
+  },
+  {
+   "label": "Otros",
+   "text": "Localidad tipo Florence y Douglas, Arizona, Estados Unidos, varios ejemplares recolectados en el mes 8 (agosto) por Snow y Biederman. Se publicó con el nombre genérico Termopsis y ahora se sitúa en Zootermopsis."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "note": "Adaptado de la descripción original de Silvestri de 1914 (en latín), nombre original Mimeutermes Giffardii sp. n. (escrito M. giffardi en el catálogo de Snyder de 1949); abarca las castas del alado (♀), la ninfa, el soldado y el obrero, con medidas; localidad tipo Camayenne, Guinea Francesa, localidad adicional Aburi, Costa de Oro. Las medidas originales usan la coma como separador decimal (0,78 etc.), transcritas aquí como 0.78 mm.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Cabeza del alado negra a castaña, tórax castaño, dorso abdominal castaño pálido y vientre castaño rosado, la parte media ocre amarillento pálido; antenas de 14 segmentos, el segmento 3 unas 1/3 partes más largo que el segmento 2 y con una línea divisoria indistinta e incompleta. Cabeza del soldado de color culebreado, nasa de rojo ladrillo a rojo castaño, antenas de 12 segmentos, el segmento 3 algo más corto que el segmento 2 — la antena de 12 segmentos es un carácter importante que lo separa de M. sorex y otras especies del género."
+  },
+  {
+   "label": "Alado",
+   "text": "Alado (♀): cabeza negra a castaña, tórax castaño, dorso abdominal castaño pálido, vientre castaño rosado, la parte media ocre amarillento pálido; alas ausentes en este espécimen tipo. Superficie dorsal de la cabeza con muchos pelos cortos y punteaduras densamente agrupadas, y con unos pocos pelos bastante largos. Antenas de 14 segmentos, el segmento 3 unas 1/3 partes más largo que el segmento 2, con una línea divisoria indistinta e incompleta; segmento 4 casi tan largo como el segmento 2 y algo más corto que el segmento 5; en otro espécimen una antena de 14 segmentos y la otra de 15, el segmento 3 más estrecho y más corto que el segmento 2, el segmento 4 unas dos veces más largo que el segmento 3 y algo más largo que el segmento 5; el espécimen de Aburi tiene antenas de 15 segmentos, el segmento 3 más corto que los segmentos 2 y 4. Notos torácicos y patas según las figuras. Terguitos abdominales con pelos cortos, esternitos también con unos pocos pelos bastante largos. Medidas: longitud del cuerpo 5 mm; longitud de la cabeza 0.78 mm; anchura de la cabeza 0.71 mm; diámetro longitudinal del ojo 0.52 mm; longitud antenal 1.5 mm; longitud de la tibia posterior 0.85 mm."
+  },
+  {
+   "label": "Soldado",
+   "text": "Soldado: cuerpo amarillo pajizo, cabeza pardo ocre a herrumbrosa, o pardo ladrillo a herrumbrosa, nasa de rojo ladrillo a rojo castaño, abdomen grisáceo por el contenido intestinal. Cabeza unas 1/5 partes más larga que ancha, nasa que se estrecha gradualmente y es algo más larga que el resto de la cabeza, su superficie con granulación lineal muy fina y unos pocos pelos diminutos, además de 3+3 pelos cortos; antenas de 12 segmentos, el segmento 3 algo más corto que el segmento 2, el segmento 4 casi tan largo como el segmento 2 y solo algo más corto que el segmento 5. Lóbulo anterior del pronoto ligeramente cóncavo en el medio del borde anterior. Tibia anterior con pelos bastante cortos por debajo, espinas externas indistintas o ausentes; tibia media con 2 o unas pocas espinas (o pelos espiniformes) en la cara externa; tibia posterior con bastantes pelos espiniformes cortos y robustos en el ápice y 2—4 espinas externas. Terguitos y esternitos abdominales con pelos muy cortos pero bastante numerosos y unos pocos pelos apicales más cortos. Medidas: longitud del cuerpo 3.5 mm; longitud de la cabeza 1.33 mm; anchura de la cabeza 0.75 mm; longitud de la nasa 0.78 mm; longitud antenal 1.20 mm; longitud de la tibia posterior 0.54 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Obrero: cuerpo amarillo pajizo, cabeza blanco lechoso, abdomen grisáceo por el contenido intestinal. Superficie dorsal de la cabeza con pelos muy cortos, pelos bastante cortos y pelos cortos; antenas de 13 segmentos, el segmento 2 más estrecho que el segmento 3 y dos veces más largo, el segmento 4 unas 1.3 veces más largo que el segmento 3, el segmento 5 casi tan largo como el segmento 4. Lóbulo anterior del pronoto ligeramente cóncavo en el medio del borde anterior. Pelos abdominales algo más largos que en el soldado. Medidas: longitud del cuerpo 3.5 mm; longitud de la cabeza 0.65 mm; anchura de la cabeza 0.72 mm; longitud antenal 1.10 mm; longitud de la tibia posterior 0.55 mm."
+  },
+  {
+   "label": "Otros",
+   "text": "Distribución y costumbres: Camayenne, Guinea Francesa (localidad tipo) y Aburi, Costa de Oro; los especímenes de Aburi son algo mayores, con la cabeza del soldado rojo ladrillo y la nasa rojo castaño. El nido se encuentra en humus a unos 10 cm de profundidad, formado por pequeñas cámaras y galerías interconectadas; en un caso de Conakry su nido estaba mezclado con los de Procubitermes acutifrons y Pericapritermes urgens var. confinis. Los soldados son numerosos, aproximadamente 1 por cada 20—30 obreros."
+  }
+ ]
+}

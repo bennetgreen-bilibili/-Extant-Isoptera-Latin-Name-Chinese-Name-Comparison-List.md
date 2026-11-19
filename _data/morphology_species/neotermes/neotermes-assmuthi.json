@@ -1,0 +1,25 @@
+{
+  "zh_name": "阿斯穆斯新白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "头褐而带烟色。不连翅体长 7.20—8.10 mm；头长至颚基 1.30—1.45 mm，头宽 1.50 mm；复眼最大径 0.5 mm，距触角 0.025 mm；单眼 0.20—0.23 mm；触角约 18 节；上唇 0.45×0.55 mm；前胸背板长 0.80 mm、宽 1.55—1.60 mm；前翅长 12.1 mm；胫距 3∶3∶3；跗节 4 节。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体长 9.5—11.0 mm；头长至颚基 2.70—3.40 mm，最大宽 2.0—2.23 mm，宽与长之比 0.67—0.74；眼 0.23—0.35 mm；触角 16 节；上颚长 1.80—1.95 mm，颚长与头长之比 0.61—0.66；左上颚具 5 枚缘齿，右上颚具 2 枚大缘齿；后颏长 1.9—2.3 mm，最大宽 0.75—0.78 mm，腰宽 0.30 mm；前胸背板长 0.98—1.08 mm、宽 1.93—2.20 mm。"
+    },
+    {
+      "label": "工蚁",
+      "text": "原文称拟工蚁（pseudoworker）。体长 6.5—7.0 mm；头长 1.5—1.6 mm，头宽 1.8—1.9 mm；触角 15 节；前胸背板长 0.80—0.90 mm、宽 1.50—1.60 mm。"
+    }
+  ],
+  "note": "据 Roonwal & Chhotani 1997 改写；原文英文；原文依次记述有翅成虫、兵蚁与拟工蚁，并有各项量度。",
+  "sources": [
+    {
+      "id": "S0561",
+      "citation": "Roonwal M. L., Chhotani O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume I. Zoological Survey of India, Calcutta. https://archive.org/details/dli.zoological.fi.026",
+      "locator": "p. 211—214（The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-I）"
+    }
+  ]
+}

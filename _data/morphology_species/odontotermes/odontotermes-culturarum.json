@@ -1,0 +1,25 @@
+{
+  "zh_name": "栽培土白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "原文仅据一头蚁后描述（Imago (Queen)）。头卵形，褐色；围绕颇不明显的额腺孔有一大块浅色区；头被刚毛与毛；头后部有一中纵暗线。触角第 3 节与第 4 节等长，第 2 节大于第 3、第 4 节。复眼不大，距头下缘颇近。单眼中等大小，宽 0.267 mm，长 0.32 mm，距复眼 0.28 mm。后唇基颇短，较头色浅，具中纵线。前胸背板较头稍浅，两侧略圆并强烈向后收狭；后缘微凹；角圆。中、后胸背板后缘较强凹入。蚁后腹部两侧具疣状增厚（原记为本属的通性）。量度（mm）：头长 3.15，头宽 2.71，复眼直径 0.67，前胸背板长 1.22，前胸背板宽 2.45，后足胫节长 2.54，蚁后体长 71.00，蚁后腹宽 11.00。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头红黄色，矩形；两侧几乎平直而平行。触角第 3 节短于第 4 节，第 4 节与第 2 节等长。复眼表现为触角基后方的黑点。上颚比例上短。前胸背板前缘与后缘均凹入，后缘的凹入较前缘更深。量度（mm）：头长 5.25，头宽 2.40，前胸背板长 0.79，前胸背板宽 1.66，后足胫节长 1.84，左上颚长 1.65。"
+    },
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁：T. anceps 上颚较短；T. badius 头宽比例更大、上颚更长；T. patruus 较小；T. mukimbunginis 头长比例较小；T. monodon 头较短而宽。蚁后：T. apollo 较大；T. diana 单眼距复眼大于其自身长度；T. latialatus 同模标本单眼距复眼 0.13 mm；T. buchholzi 单眼距复眼 0.11 mm。"
+    }
+  ],
+  "note": "据 Emerson (1928) 对 Sjöstedt (1924) 所定种的再描述改写，原文英文；有翅成虫仅据蚁后，未记雄虫；工蚁未描述。标本为刚果民主共和国斯坦利维尔地区（Kohl 采集，No. 26T）同一巢中的一头蚁后与一头兵蚁及若干工蚁；兵蚁与同模标本完全一致，仅稍大。异名引证、分布与图号未译。摘录按原文行末断字合并。",
+  "sources": [
+    {
+      "id": "S0075",
+      "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57 (Article VII). file: _unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon/part-001.txt",
+      "locator": "pp. 460—462（Text Fig. 21）"
+    }
+  ]
+}

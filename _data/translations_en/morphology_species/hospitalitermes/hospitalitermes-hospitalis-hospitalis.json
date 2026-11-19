@@ -1,0 +1,13 @@
+{
+ "note": "Adapted from Oshima (1916); the original is in English, where the species is called Eutermes (Hospitalitermes) hospitalis Haviland; the alate is unknown (not described in the original). The head width of the larger worker is OCR’d as “112” in the original and corrected to 1.12 mm from the context and the magnitudes in the same paragraph. Type locality: Sarai near Paete, Laguna, Luzon (collected by McGregor, June 1915, month 6).",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head and abdominal tergites dark chestnut brown, the tip of the rostrum paler; antennae and legs reddish brown. Head and abdominal tergites largely hairless; the anterior margin of the pronotum bears a row of minute hairs. Head pear-shaped, the front part slightly constricted behind the base of the rostrum; rostrum conical, rather short, its dorsal surface forming a large arc with the dorsum of the head; antennae 14-segmented, the segments slender, segment 3 more than 2 times as long as segment 2, segment 4 slightly shorter than segment 3; mandibles pointed at the apex; pronotum saddle-shaped, anterior margin rounded and not notched in the middle; legs slender. Measurements (mm): body length 4.00; head with rostrum 1.66; head without rostrum 1.19; head width 0.93; pronotum width 0.62."
+  },
+  {
+   "label": "Worker",
+   "text": "In two sizes, coloured as the soldier, head and abdominal tergites covered with microscopic hairs. Larger form: body length 4.50 mm; head width 1.12 mm; pronotum width 0.78 mm. Smaller form: body length 3.50 mm; head width 1.00 mm; pronotum width 0.59 mm."
+  }
+ ]
+}

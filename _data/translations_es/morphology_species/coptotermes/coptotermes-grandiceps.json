@@ -1,0 +1,21 @@
+{
+ "note": "Reescrito a partir de la descripción específica de Bourguignon & Roisin (2011); el original está en inglés y describe el soldado y el alado. Las medidas conservan las unidades mm del original, con las abreviaturas indicadas entre paréntesis en su primera aparición; el original da tres series separadas de cifras, para el holotipo de C. obiratus, para un individuo de la colonia tipo de C. grandiceps y para 27 soldados de 9 colonias.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Próxima a Coptotermes pamuae, de la que se distingue por el soldado de mayor tamaño y las mandíbulas más fuertemente curvadas."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza moderadamente pilosa; pronoto con numerosas sedas medianas; antenas de 20 artejos. Medidas (mm, 6 individuos de la misma colonia): longitud total del cuerpo (TBL) 6.08—7.55; longitud de la cabeza hasta el clípeo (HLC) 1.19—1.27; anchura de la cabeza con los ojos (HWE) 1.33—1.41; longitud del pronoto (PL) 0.73—0.82; anchura del pronoto (PW) 1.23—1.29; longitud del ala anterior (FWL) 9.97—10.61; diámetro ocular (ED) 0.31—0.42."
+  },
+  {
+   "label": "Soldado",
+   "text": "Grande. Cabeza alargada, más ancha en la parte posterior que en la anterior, con unas 30 sedas; glándula frontal estrecha, con la abertura dirigida hacia delante, no visible desde arriba; antenas generalmente de 15 artejos, a veces de 14; pronoto ancho, de longitud mediana, con unas 60 sedas; mandíbulas alargadas, curvadas en el ápice. Medidas (mm, holotipo de C. obiratus; entre corchetes el único individuo de la colonia tipo de C. grandiceps; entre paréntesis 27 soldados de 9 colonias): longitud de la cabeza hasta la fontanela (HLF) 1.53 [1.52] (1.21—1.44); longitud de la cabeza con mandíbulas (HLL) 2.17 [2.19] (1.89—2.20); anchura de la cabeza (HW) 1.38 [1.31] (1.17—1.33); longitud del pronoto (PL) 0.51 [0.50] (0.40—0.56); anchura del pronoto (PW) 0.97 [0.95] (0.79—1.00); longitud de la mandíbula derecha (RML) 1.17 [1.24] (1.03—1.15); anchura del postmentón (MPW) 0.48 [0.42] (0.31—0.46); longitud de la tibia posterior (T3L) 1.22 [n.a.] (1.07—1.21)."
+  },
+  {
+   "label": "Otros",
+   "text": "Localidad típica: islas Salomón; citada del sur de Nueva Guinea y de la península de Papúa."
+  }
+ ]
+}

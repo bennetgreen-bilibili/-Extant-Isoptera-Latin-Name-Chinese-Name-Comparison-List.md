@@ -1,0 +1,25 @@
+{
+ "zh_name": "短刀弓白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁个体较小，额管很短，上颚缘齿弱；与 Amitermes peruanus 最相似，后者体型较大、左上颚缘齿较大。有翅成虫未详。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头壳黄至黄褐色，上颚淡褐至栗褐，触角与足淡黄，其余部分黄白色（腹部因肠内容物透出而显色）。头背面观略长于宽，两侧弯曲，后缘规则圆形；侧面观自囟至后头连续弯曲，前方弯曲较浅。上颚细长、近直，略呈肘状、端部内弯；齿位于基部 1/3 之内，突出、直立、略前指；自齿基至端部的内缘强烈波状。触角 13—14 节，第 2、4、5 节约等长，第 3 节约为其一半（或第 2、5 节约等长，第 3、4 节约等长且为前者之半）。头壳毛稀疏；前胸背板前缘规则弯曲，不凹入；前足基节前表面中部有 3—4 根短粗刺；其余各足多刺与长毛。量度：头长 0.93—0.97，头最宽 0.76—0.82，上颚基宽 0.61—0.63，头厚 0.61—0.64，前胸背板宽 0.47—0.49，后足胫节长 0.70—0.78。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头黄色，触角与其余部分黄白色；左上颚第 3 缘齿通常不超出其与第 1 缘齿之间的切缘。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0554",
+   "citation": "Sands, W. A. 1959. A revision of the termites of the genus Amitermes from the Ethiopian region (Isoptera, Termitidae, Amitermitinae). Bulletin of the British Museum (Natural History), Entomology 8: 129-156.",
+   "locator": "pp. 133-134 (Amitermes acinacifer 新种)"
+  }
+ ],
+ "note": "据 Sands 1959 年英文原始描述（新种 Amitermes acinacifer 新种），描述兵蚁与工蚁，有翅成虫原文记 Unknown；量度给区间与均值，本条目只采区间。原文前胸背板长度一项 OCR 列位错乱，未采入。"
+}

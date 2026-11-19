@@ -1,0 +1,21 @@
+{
+ "zh_name": "新赫布里底象白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "头暗褐色；唇基基片与口器、前胸背板、中胸与后胸背板后半部浅灰黄褐色；中胸与后胸背板前半部较浅；腹部背面褐色，腹面草黄并具褐色侧斑；翅具黄色「亚前缘纹」，烟色。头与腹部背板被密毛。头宽卵形，向前变窄；复眼相当大；单眼中等，紧靠复眼；囟孔不明显，头在囟孔周围凹陷；唇基基片远短于其半宽，隆起不强。触角 15 节：第 3 节略长于第 2 节；第 4 节约等于第 2 节。前胸背板窄于头，近半圆形，前缘近直，前角强圆，后缘明显内凹；中胸背板后缘宽于后胸背板，且凹入更宽、更深。中脉紧靠肘脉，呈叉状分开或具 3—4 条端部支脉；肘脉约 10 条相当长的支脉。连翅体长 16 mm，去翅 8.5 mm；前翅长 13.1 mm、宽 3.38 mm；头宽 1.68 mm；前胸背板宽 1.36 mm、长 0.76 mm。"
+  },
+  {
+   "label": "其他",
+   "text": "原文明确记兵蚁与工蚁未知（Soldaten und Arbeiter unbekannt）。产地：新赫布里底 Ambrym，1911 年 6 月。"
+  }
+ ],
+ "note": "条目依据 Holmgren & Holmgren 1915 原始描述（仅有翅成虫）；原文为 BHL 分册的图书馆 OCR 文本。",
+ "sources": [
+  {
+   "id": "S0523",
+   "citation": "Holmgren, N.; Holmgren, K. 1915. Termiten aus Neu-Caledonien und den benachbarten Inselgruppen. Nova Caledonia, Forschungen in Neu-Caledonien und auf den Loyalty-Inseln, pp. 91—93.",
+   "locator": "pp. 92—93, Fig."
+  }
+ ]
+}

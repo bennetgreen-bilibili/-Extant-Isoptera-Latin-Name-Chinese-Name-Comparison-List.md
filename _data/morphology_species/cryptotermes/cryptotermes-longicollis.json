@@ -1,0 +1,25 @@
+{
+  "zh_name": "长颈堆砂白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁前胸背板宽不超过长的两倍，上颚自背面观不可见；额部隆起的边缘垂直，前胸背板前缘呈斜的浅凹缺。同属 C. brevicollis 前胸背板宽约为长的三倍，C. dudleyi 上颚自背面观可见、额部隆起边缘向后倾斜、前胸背板前缘深而圆地凹入。有翅成虫未描述，原文检索表以其翅面脉纹末端无斜分支、膜面粗点状区分。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头部前部黑色、后部红褐色；前胸背板前缘褐色，其余部分浅色。头背面观长仅略大于宽，前部略宽于后部，两侧微弱收缩；前缘隆起，中央内凹，两侧圆；前部表面具微弱的横向皱纹。侧面观头长约为一又四分之一倍头高。上颚很短，自背面观不可见。前胸背板宽约为长的一又四分之一倍，前缘略呈斜向凹缺，两侧略收狭并圆滑过渡到后缘。头长 1 mm，全长 3.5 mm。"
+    },
+    {
+      "label": "其他",
+      "text": "模式标本采于巴拿马，在窗台木材中（Beaumont 采）；正模存美国自然历史博物馆，副模存比较动物学博物馆。"
+    }
+  ],
+  "note": "原文仅描述兵蚁；有翅成虫在检索表中依翅脉特征与 C. dudleyi 分开，但未作描述，故本条不设有翅成虫一节。",
+  "sources": [
+    {
+      "id": "S0590",
+      "citation": "Banks, N. 1918. The termites of Panama and British Guiana. https://archive.org/details/bulletin-american-museum-natural-history-38-659-667",
+      "locator": "pp. 661-662 / ia/bulletin-american-museum-natural-history-38-659-667.txt"
+    }
+  ]
+}

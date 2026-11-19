@@ -1,0 +1,17 @@
+{
+ "note": "After Haviland's original description of 1898 (published as TERMES RUFUS, n. sp.). Only the soldier and the worker are described; there is no alate. The original was extracted by OCR from the BHL/Zenodo scan, so decimal points came through as stray characters ('3°5 mm' = 3.5 mm, '2°5 mm' = 2.5 mm) and some words are misspelt (papille=papillae, tibie=tibiae); these have been checked against the context; measurements in mm.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Body length 3.5 mm. Head testaceous, darker on the vertex, thorax nearly testaceous; abdomen fuliginous, tibiae ochraceous. Head width 1 mm. Antennae 2.5 mm long, 14-segmented, segment 3 more than twice as long as segment 2; segments 4, 5, 6 and 7 about as long as segment 3, the remaining segments gradually shorter towards the apex. Rostrum slender, its front forming a distinct curve with the front of the head. Vestigial mandibles clearly visible. Postmentum shorter than wide. Pronotum saddle-shaped, the anterior lobe short and not much raised. Hind legs extending beyond the abdomen. Abdomen oval, the tergites not much arched. Abdominal papillae absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 3.5 mm. Head and thorax testaceo-castaneous; abdomen fuliginous; legs umbrinous. Antennae 2.5 mm long, 15-segmented. Hind femora reaching abdominal segment 8. Abdomen oval, tergites strongly arched."
+  },
+  {
+   "label": "Other",
+   "text": "Distribution: Malay Peninsula (Perak). Type specimen No. 115."
+  }
+ ]
+}

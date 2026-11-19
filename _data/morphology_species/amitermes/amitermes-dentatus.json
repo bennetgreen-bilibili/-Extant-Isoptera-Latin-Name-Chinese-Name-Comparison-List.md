@@ -1,0 +1,25 @@
+{
+  "zh_name": "具齿弓白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "原文以 Termes dentatus 发表并以其为「dentatus 组」的模式。兵蚁体长约 4.5 mm，头卵形，触角 14 节；有翅成虫翅长 8—9 mm，中脉较近于亚中脉而非亚前缘脉，直达翅端。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "雄虫体长 5—6 mm；头卵形；触角 15 节，第 2 节长于第 4 节，第 3 节长度可变；上唇基（epistoma）多少凸起、显著；前胸背板前缘近直，前侧角略下倾；翅长 8—9 mm，中脉较近于亚中脉而不近亚前缘脉，并伸达翅端；前翅残茎略大于后翅残茎；腹部乳突缺如。雌虫第 7 腹节腹板长约为宽之半。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体长 4.5 mm；头卵形；触角 14 节，第 2 节长于第 4 节，第 3 节长度可变；上唇完整、卵形，不达上颚之半；上颚强壮、内弯、具刺状端部。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0555",
+      "citation": "Haviland, G. D. 1898. Observations on termites; with descriptions of new species. Journal of the Linnean Society of London, Zoology 26: 358-442.",
+      "locator": "pp. 406-407 (Termes dentatus, section type)"
+    }
+  ],
+  "note": "据 Haviland 1898 年英文原始描述（原文作 Termes dentatus，后归入 Amitermes），描述有翅成虫（雄、雌）与兵蚁；原文以该种作为「dentatus 组」的模式种。兵蚁描述在页面处被图版说明截断，本条止于所读部分，未补写。"
+}

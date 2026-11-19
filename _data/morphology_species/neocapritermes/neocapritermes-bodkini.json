@@ -1,0 +1,21 @@
+{
+  "zh_name": "博德金新扭白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "头颇浅的褐色，宽卵形，被少数长刚毛。囟比头略深，大而圆。单眼前方肌肉附着点不明显。触角第 3 节短于第 4 节、第 4 节短于第 2 节，或第 3 节长于第 2 节而第 2 节与第 4 节等长。复眼中等大而突出，距头下缘约 1/4 眼径。单眼中等大，与眼的距离约等于其自身之长。后唇基与头约同色，中纵线明显。前胸背板与头约同色，具短毛与刚毛；颇宽，后缘深凹，角与两侧圆。中、后胸背板后缘宽凹，或具一颇小的凹口，此性状个体间变异颇大。腹部背板颇浅的褐色。量度：头长 2.14—2.36 mm，头宽 1.93—2.10 mm，眼径 0.52—0.53 mm，前胸背板长 0.86—0.87 mm，前胸背板宽 1.60—1.75 mm，后足胫节长 2.62—2.67 mm。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头黄色，疏被短刚毛，后方最宽，向前收窄，自头后至腺孔开口有一条明显的线。触角略带褐色，15—16 节，第 2、3、4 节等长。上唇被推挤到一侧以顺应上颚形状，端部圆。上颚不对称，黑色；左上颚的弯曲度大于 C. angusticeps 而小于 C. planiceps。胸部黄色，前胸背板宽约 1.40 mm，前缘凹。足黄色。腹部呈肠内容物的颜色，背板具少数缘刚毛。量度：全长 9.00—12.10 mm，头连上颚 6.82—7.26 mm，头宽 3.70—3.73 mm，触角长 4.46 mm，前胸背板宽 1.40 mm，左上颚长 3.58 mm。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0530",
+      "citation": "Emerson, A. E. The termites of Kartabo, Bartica District, British Guiana. Zoologica (New York Zoological Society) 6(4).",
+      "locator": "pp. 446—447（The-termites-of-Kartabo）"
+    }
+  ],
+  "note": "据 Emerson 卡塔博白蚁志改写，原文英语。原书正文以 Japritermes (Neocapritermes) bodkini Silvestri 与 Capritermes (Neocapritermes) bodkini 的组合名出现，异名录并列出 Silvestri 1923 的 var. modestior；Emerson 认为该变种只是蚁巢年龄造成的体型差异。量度表中前胸背板长与后足胫节长的行名 OCR 残缺，未译；原文「Pronotum about 1%…」一句的比值不可辨，故只记量度不记比值。"
+}

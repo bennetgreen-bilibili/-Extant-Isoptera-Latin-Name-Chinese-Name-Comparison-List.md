@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Head dark reddish brown; postclypeus, antennae and legs yellowish brown; labrum very pale yellowish brown; pronotum brown, paler behind; anterior part of the meso- and metanotum cream-brown, the posterior part darker; abdominal tergites dark brown; sternites brown, slightly paler in the middle; wing membrane pale brown, the radial sector dark brown, the costal margin brown, the subcostal streak almost as wide as the radial sector, brown with a yellow tinge. Head shaped as in Fig. 3a of the original, the median area around the fontanelle distinctly depressed; fontanelle spearhead-shaped, wider than half an ocellus and slightly longer than that, expanding forward into two lateral points, which extend as fine lines to the ocelli. Ocelli oval, the long diameter about one third that of the compound eye, the distance to the compound eye equal to the long diameter of the ocellus. Compound eyes large and projecting, about one fifth of their diameter from the lower margin of the head, about one half from the upper margin, and slightly more than their diameter from the posterior margin; head width between the eyes 1.35 mm. Antennal segments uniform in colour, segment 2 much shorter than segment 3. (Key) Posterior margin of the pronotum deeply concave; fontanelle wider than half an ocellus."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head and nasus deep blackish brown, becoming reddish brown toward the base; the apical quarter to fifth of the nasus tinged with red; tergites and abdominal tergites dark brown; antennae, thoracic pleurites and coxae brown; tibiae and tarsi slightly paler. Nasus raised, slightly swollen near the base; base of the nasus thick, gradually tapering toward the apex, about 0.2 mm thick at the middle. Antenna twice as long as the head including the nasus, its segments concolorous; segments 7 and 8 the longest, the apical segments progressively shorter; segment 3 shorter than segment 4 or about equal. Head hairless, or with only one or two setae posterolaterally; head length about 1.80 mm, head width about 1 mm; all abdominal tergites with a row of stiff marginal setae. (Key) Head short, head-nasus index about 0.70; the apical quarter of the nasus tinged with red or yellow."
+  },
+  {
+   "label": "Other",
+   "text": "Measurements (mm). Alate (typical individual of the type colony No. 1712): total length 16.01, fore wing length 14.17, width 3.86, head length 2.16, head capsule length 1.50, head capsule width 1.57, head width including compound eyes 1.87, pronotum length 0.844, width 1.54, compound eye diameter 0.55, ocellus long diameter 0.20, short diameter 0.16. Soldier (same colony): head length including nasus 1.80, head length (without nasus) 1.06, nasus length 0.72, head projection 0.27, head height 0.96, head width 1.14, fore tibia length 1.32; head index 0.90, head-nasus index 0.68, head projection index 0.23, leg extension index 1.15."
+  }
+ ],
+ "note": "Adapted from the original description by Light & Wilson (1936), original in English; both the alate and the soldier are described and measured, type colony No. 1712, type locality Dinagat Island, Philippines."
+}

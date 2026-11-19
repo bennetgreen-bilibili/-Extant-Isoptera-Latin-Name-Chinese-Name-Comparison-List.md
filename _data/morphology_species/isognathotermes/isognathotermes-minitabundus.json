@@ -1,0 +1,17 @@
+{
+  "zh_name": "威吓等颚白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头较淡的红黄色，矩形，向前不收窄，宽约为长的 2/3；额缘自后斜视成均匀的弧，圆但不隆起突出；囟腔大、裸露、方圆，具刚毛环；上唇叉状；上颚细、较直，端部内弯，短于头，黑色而基部黄色；触角 15 节，第 1 节粗、短于其后 3 节之和，第 3 节最小，第 2 节与第 4 节等长，中部各节长约宽的 3 倍，向下变窄；后颏带状、向下收窄；前胸背板远小于后叶，中部极微凹，后叶弧形、后方中央有纵沟。量度：体长 10、头连上颚长 5.45、头宽 2.25 mm。该种介于 Isognathotermes fungifaber 与 I. zenkeri 之间，区别于二者的是上颚几乎直、仅端部内弯，以及囟腔如同 fungifaber 那样敞开（额顶不隆起突出）；体明显大于 fungifaber，几与 zenkeri 等大。"
+    }
+  ],
+  "note": "据 Sjöstedt (1913) 原始描述改写，原文德语；仅描述兵蚁；模式产地为比属刚果加丹加 Welgelegen。",
+  "sources": [
+    {
+      "id": "S0517",
+      "citation": "Sjöstedt, Y.; 1913. Über Termiten aus dem inneren Kongo, Rhodesia und Deutsch-Ostafrika. Revue Zoologique Africaine 2: 354-391.",
+      "locator": "p. 367"
+    }
+  ]
+}

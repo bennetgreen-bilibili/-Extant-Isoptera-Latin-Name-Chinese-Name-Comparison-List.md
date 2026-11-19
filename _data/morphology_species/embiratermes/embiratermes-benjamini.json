@@ -1,0 +1,25 @@
+{
+  "zh_name": "本杰明生白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头淡黄褐色，象鼻颜色较深（淡栗褐色）。头近基部最宽，向前仅略变窄，背面不凸，后缘圆；前缘附近有数根长毛。象鼻不伸达上颚末端，向端部渐细，末端截平并具短毛，比 albidus Hagen 者更粗。后颏长，中部较宽。上唇黄褐色，端部宽圆，被长毛。上颚红褐色，基部黄色，细长，比 albidus 者宽，弯曲强但不若 albidus 之甚；具一短而尖、指向前方的齿，齿基宽，位置靠近基部而非靠近末端。触角黄褐色，标本已断，第 2 节短，略长于第 1 节之半。前胸背板黄色，边缘较深，鞍形，密被长毛。足白色带黄，被细毛。腹部污灰白色带黄，背板毛密，但短于前胸背板者，也比 albidus 者相对更短。"
+    },
+    {
+      "label": "鉴别要点",
+      "text": "与 albidus Hagen 相比：象鼻更粗、上颚更宽而弯曲较弱、头部腹面后颏较长且中部较宽、腹部背板毛相对更短；头毛比 percutiens Emerson 者更少，向前的收窄也更明显。"
+    },
+    {
+      "label": "其他",
+      "text": "量度：兵蚁体长 5.60 mm；头连上颚长 2.50 mm；头连象鼻长 2.10 mm；头长（至前缘）1.50 mm；象鼻长 0.70 mm；左上颚长 1.10 mm；前胸背板长 0.35 mm；后足胫节长 1.20 mm；头宽（最宽处）1.35 mm；前胸背板宽 0.70 mm。模式产地：玻利维亚 Cachuela Esperanza（贝尼河）；1922 年 3 月 W. M. Mann 采得单头兵蚁；模式兵蚁 Cat. No. 27649, U.S.N.M.。种名献给 Edgar Laing Benjamin 一家。"
+    }
+  ],
+  "note": "据 Snyder 1926 原始描述（原文作 Armitermes (Armitermes) benjamini, new species）。原文仅描述兵蚁一型，无有翅成虫与工蚁。原文经 BHL/Zenodo 扫描本 OCR 抽取，词间空格破碎、断行严重，个别词形有误（papille=papillae、Antenne=Antennae），已按上下文核对；量度单位为 mm。",
+  "sources": [
+    {
+      "id": "S0604",
+      "citation": "Snyder T. E. 1926. Termites collected on the Mulford Biological Exploration to the Amazon Basin, 1921-1922. Proceedings of the U.S. National Museum 68(14): 1–77. https://doi.org/10.5281/zenodo.13675881",
+      "locator": "pp. 21–22"
+    }
+  ]
+}

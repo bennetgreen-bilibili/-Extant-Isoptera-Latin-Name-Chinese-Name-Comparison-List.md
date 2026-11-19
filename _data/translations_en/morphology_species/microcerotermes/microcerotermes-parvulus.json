@@ -1,0 +1,25 @@
+{
+ "note": "Adapted from the original description by Sjöstedt (1911), in German. The original description is extremely brief: it gives only the diagnostic sentence comparing the species with E. parvus, the body length and head width of each caste, and the collecting records, without describing colour or structure, so each section holds only measurements. The original does not state the unit of measurement; following the usage of the whole paper it is millimetres.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Related to Eutermes parvus Haviland, differing in being smaller overall; the original gives this as the only diagnostic character."
+  },
+  {
+   "label": "Alate",
+   "text": "Wing expanse 12 mm, body length including the wings 7.5 mm, wing length 5.5 mm, wing width 1.45 mm, body length including the head 4—4.5 mm."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 4 mm, head length including the mandibles 1.7—1.8 mm, head width 0.65 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 3—3.5 mm, head width 0.55 mm."
+  },
+  {
+   "label": "Other",
+   "text": "Type locality Mukimbungu, Congo. On 29 October 1904 (month 10) 39 alates, 58 soldiers and 220 workers were collected; on 1 October (month 10) of the same year 41 alates, 12 soldiers and 204 workers, on 12 November (month 11) 44 alates, 21 soldiers and 85 workers, on 4 November (month 11) 42 alates, 6 soldiers and 10 workers."
+  }
+ ]
+}

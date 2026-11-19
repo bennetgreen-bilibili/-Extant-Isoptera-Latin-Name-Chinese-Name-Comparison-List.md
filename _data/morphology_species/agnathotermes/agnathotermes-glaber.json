@@ -1,0 +1,25 @@
+{
+  "zh_name": "光秃无颚白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头淡黄色，象鼻（囟管）红褐色。头梨形，在触角基部前方约四分之一处收缢，后方最宽；背面略凸，侧面观几近直，收缢处略下凹；散布极短的毛，前、后缘各有数根较长的毛。象鼻短、锥形，并不很粗，末端不上翘，被短毛，端部另有长毛。上颚无尖突。触角淡黄色，11 节，被细毛；第 3 节长于第 2 节或第 4 节；各节向端部渐长而渐宽；末节细长，近椭圆形。前胸背板边缘黄色，鞍形，被短毛。足白色，颇长而细，被细毛。腹部污白色，背板被短毛，尾须颇长。"
+    },
+    {
+      "label": "鉴别要点",
+      "text": "本种原先被归入 Obtusitermes 亚属（该亚属的兵蚁分两型），但仅采到一型兵蚁，即大型兵蚁；其性状介于 Convexitermes 与 Subulitermes 两亚属之间：象鼻短而呈锥形如 Convexitermes，头部轮廓则如 Subulitermes。因未采到工蚁，作者认为它可能属于 Tenuirostritermes 亚属，或另立新亚属（Agnathotermes）；本种即该新亚属的模式种，上颚尖突的消失是本亚属的鉴别特征。"
+    },
+    {
+      "label": "其他",
+      "text": "量度：兵蚁体长 2.70 mm；头连象鼻长 0.90—0.95 mm；去象鼻头长 0.55—0.60 mm；象鼻长 0.85 mm；前胸背板长 0.10 mm；后足胫节长 0.57 mm；头宽 0.50 mm；前胸背板宽 0.25 mm。模式产地：玻利维亚 Cachuela Esperanza（贝尼河）。1922 年 3 月 W. M. Mann 采得 38 头兵蚁，与 Cornitermes (Labiotermes) labralis Holmgren 同巢；模式兵蚁 Cat. No. 27660, U.S.N.M.。"
+    }
+  ],
+  "note": "据 Snyder 1926 原始描述（原文作 Nasutitermes (Agnathotermes) glaber, new species，新亚属与模式种同时发表）。原文仅描述兵蚁，未采到工蚁，亦无有翅成虫。原文经 BHL/Zenodo 扫描本 OCR 抽取，词间空格破碎（逐词换行），个别属名被识别为 Convew/itermes、Z'enwirostritermes（应为 Convexitermes、Tenuirostris termes），已按上下文核对；量度单位为 mm。",
+  "sources": [
+    {
+      "id": "S0604",
+      "citation": "Snyder T. E. 1926. Termites collected on the Mulford Biological Exploration to the Amazon Basin, 1921-1922. Proceedings of the U.S. National Museum 68(14): 1–77. https://doi.org/10.5281/zenodo.13675881",
+      "locator": "pp. 42–43"
+    }
+  ]
+}

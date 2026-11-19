@@ -1,0 +1,21 @@
+{
+ "note": "Reescrito de la descripción original de Lash (1952), en inglés; la descripción del alado es completa y va acompañada de una tabla de medidas, y el soldado se trata solo cualitativamente (se acepta como morfotipo aparte, no como material de la misma colonia). La tabla 3 del original (medidas del soldado) es una tabla apaisada en ese PDF y resulta ilegible tras la extracción porque las líneas están desplazadas, por lo que no se recogen valores del soldado.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Color del cuerpo pardo rojizo claro a pardo rojizo oscuro. Ojos compuestos bastante pequeños, rodeados por un anillo de esclerito proporcionalmente bastante ancho; el ocelo está a menos de su propio diámetro del ojo compuesto. Posclípeo oscuro y claramente prominente, en forma de cuña en vista lateral, su extremo cercano a un ángulo recto. Antena de 17 artejos (16 más el escapo). Las setas de la cabeza son algo más escasas que en otras especies del género. Tibias oscuras, que se vuelven pálidas hacia el extremo, el punto medio del cambio de color aproximadamente a la mitad de la tibia; tarsos pigmentados, opacos."
+  },
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El alado se distingue de las demás especies del género por 3 caracteres: el posclípeo prominente, el cambio gradual de color de la tibia y el anillo de esclerito proporcionalmente ancho alrededor del ojo compuesto. El posclípeo no es prominente en las especies de Reticulitermes de tórax amarillo y de tórax negro ni en el grupo de la termita doméstica, y es prominente solo en R. lucifugus var. santonensis, y en menor grado que en esta especie; el esclerito periocular es estrecho en todas las demás especies."
+  },
+  {
+   "label": "Soldado",
+   "text": "No se encontró ninguna diferencia morfológica estable entre el soldado de esta especie y el de la europea R. lucifugus; el cuerpo es en conjunto claramente menor y se distingue a simple vista, y hay pequeñas diferencias en las medidas, pero el autor consideró que ninguna de ellas, aparte del tamaño corporal, basta para separarlas como especies. Como los soldados no procedían de la misma colonia que los alados, el autor los asignó a esta especie como morfotipo."
+  },
+  {
+   "label": "Otros",
+   "text": "Medidas del alado (mm, n=10): longitud del cuerpo sin alas 4.22—5.09, media 4.33; longitud de la cabeza (hasta la proyección lateral) 0.84—0.94, media 0.89; anchura de la cabeza 0.88—0.98, media 0.93; diámetro mayor del ojo compuesto 0.17—0.21, media 0.20; distancia del ocelo al ojo compuesto 0.02—0.07, media 0.03; anchura del pronoto 0.74—0.80, media 0.76; longitud del pronoto 0.41—0.50, media 0.45; longitud del clípeo 0.21—0.26, media 0.24; longitud del posclípeo 0.17—0.20, media 0.19; anchura del posclípeo 0.46—0.53, media 0.49; antena de 17 artejos. Localidad tipo Jerusalén (Palestina); los alados se recolectaron el 1943-5-16 y los soldados, obreros y ninfas el 1947-1-30; el holotipo y el morfotipo se conservan en la Colección Emerson del Museo Americano de Historia Natural."
+  }
+ ]
+}

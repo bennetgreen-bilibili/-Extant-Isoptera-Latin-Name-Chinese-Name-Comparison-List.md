@@ -1,0 +1,13 @@
+{
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head yellowish brown, darker anteriorly; mandibles black with brown bases; the rest of the body white-yellow; antennae pale yellow. Head sparsely setose; abdominal tergites densely covered with short hairs. Head nearly cylindrical, the posterior corners rounded in dorsal view. Frons descending rather steeply, with a shallow groove-like depression in the middle. Fontanelle distinct. Postclypeus with the posterior margin convex and the anterior margin nearly straight, its length less than half its width, flat. Labrum tongue-shaped, as long as wide, extending beyond the anterior third of the closed mandibles. Mandibles rather long and narrow, strongly sabre-curved, with very fine serrate teeth. Antenna 13-segmented, segment 3 shorter than segments 2 and 4. Pronotum saddle-shaped, narrower than the head, about twice as wide as long, the anterior margin distinctly concave in the middle. Measurements: body length 6 mm; head length including mandibles 2.96 mm, excluding mandibles 1.56 mm; head width 0.95 mm; pronotum width 0.65 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Major worker: head yellow to yellowish brown, body whitish; head sparsely covered with short hairs, the abdominal tergites with fine hairs. Head oval on all sides, longer than wide; compound eyes appearing as very small brown dots; fontanelle indistinct; postclypeus as long as half its width, rather strongly raised; antenna 13—14-segmented, segment 3 very small; anterior margin of the pronotum not concave."
+  }
+ ],
+ "note": "Adapted from the original description by Holmgren & Holmgren (1915), original in German; includes the soldier and the major worker; the alate is not described (the original states \"Imago unbekannt\")."
+}

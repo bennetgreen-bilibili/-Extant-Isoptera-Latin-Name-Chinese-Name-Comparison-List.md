@@ -1,0 +1,21 @@
+{
+ "note": "Adaptado de la descripción original de Snyder 1926 (publicada como Cylindrotermes brevipilosus, new species). Se describen el soldado y el obrero, no el alado. La tabla de medidas del original está impresa a varias columnas y estas quedan desalineadas tras el OCR, con algunas cifras dañadas (p. ej. \".382\", \"nop\"), por lo que esta entrada usa solo los valores que pueden alinearse con seguridad: longitud del cuerpo 3.90, cabeza con mandíbulas 2.10, longitud de la cabeza sin mandíbulas 1.50, mandíbula izquierda 0.65, tibia posterior 0.57, anchura de la cabeza 0.80, y para el obrero longitud del cuerpo 3.0—3.7, longitud de la cabeza 0.9—1.1, longitud de las antenas 0.85—0.95; el resto (longitud y anchura del pronoto, anchura del abdomen, etc.) no se registra por la desalineación de columnas y requiere cotejo con la revista original. Nótese además que el mismo trabajo contiene otra especie, Orthognathotermes brevipilosus, que no es esta.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Cabeza amarillo pajizo, alargada, los lados casi paralelos, que se estrecha hacia atrás, densamente cubierta de pelos cortos (solo unos pocos pelos largos); mandíbulas negras con rojo, robustas, pardo amarillentas en la base, cortas y curvadas. La anchura de la parte media del postmentón es más de la mitad de su anchura anterior. Forma del labro distinta de la de nordenskioldi. Antenas amarillo pálido, de 11—12 segmentos, finamente pilosas; si son de 12 segmentos, el segmento 3 es poco nítido y muy pequeño; segmento 4 más corto que el segmento 2 o el 5 (en ejemplares de C. nordenskioldi de la Guayana Británica las antenas son claramente de 12 segmentos). Pronoto amarillo pálido, acorazonado (en silla de montar), con una parte bastante grande elevada hacia delante, el margen anterior no cóncavo (lámina 1, fig. 7)."
+  },
+  {
+   "label": "Obrero",
+   "text": "El obrero tiene una vestidura de pelos más densa y más larga que la de nordenskioldi; las antenas son de 13 segmentos en ambas especies."
+  },
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El soldado es menor que el de C. nordenskioldi Holmgren, los pelos de la cabeza más densos y cortos, las mandíbulas más cortas y más curvadas; la parte elevada del pronoto mayor, el margen anterior no cóncavo (cóncavo en el soldado de nordenskioldi); la cabeza más estrecha. El original compara esta especie punto por punto en una tabla de medidas con ejemplares de nordenskioldi de Ivon (Bolivia), de Kartabo y de Panamá."
+  },
+  {
+   "label": "Otros",
+   "text": "Medidas (mm): longitud del cuerpo del soldado 3.90; cabeza con mandíbulas 2.10; longitud de la cabeza sin mandíbulas (hasta el margen anterior) 1.50; longitud de la mandíbula izquierda 0.65; longitud de la tibia posterior 0.57; anchura de la cabeza 0.80. Longitud del cuerpo del obrero 3.0—3.7; longitud de la cabeza 0.9—1.1; longitud de las antenas 0.85—0.95. Localidad tipo: Ivon, Bolivia; un soldado y varios obreros recolectados por W. M. Mann en febrero de 1922 (mes 2); soldado tipo Cat. No. 27673, U.S.N.M."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Reescrito a partir de la descripción específica original de Haviland (1898), en inglés; describe cuatro castas, king, queen, soldier y worker, con medidas en mm (el original usaba medidas británicas; todas las cifras de esta línea van en mm). El original dice «Hab. Malay Peninsula (Malacca), Type, No. 535».",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Longitud del cuerpo 8 mm; cabeza castaña, tórax rojo ladrillo, abdomen pardo castaño pálido, patas ocre. Cabeza oval; ocelo a más de un diámetro del ojo compuesto; fenestra del tamaño del ocelo; artejo antenal 3 más largo que el artejo 2; clípeo algo saliente. Longitud del pronoto cerca de la mitad de su anchura, margen anterior casi recto, ángulos anteriores redondeados y algo deprimidos; márgenes posteriores del meso- y del metanoto anchos, formando lóbulos de redondeados a obtusos; esbozo alar anterior mayor que el posterior; papilas abdominales ausentes. En la hembra el esternito del 7.º segmento abdominal es menos de la mitad de largo que de ancho, con los márgenes posterolaterales algo cóncavos; el abdomen de la reina mide 12 mm de largo, con los terguitos fuertemente arqueados, esclerotización secundaria marcada y la membrana lateral del abdomen con puntos de pigmento y pelos diminutos."
+  },
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 4 mm; cabeza pardo castaño pálido, tórax y abdomen pardo oscuros, patas amarillo pálido. Anchura de la cabeza 1 mm. Antenas de 2.5 mm de largo, de 14 artejos, artejo 3 mucho más largo que el artejo 2 pero más corto que el artejo 4, artejo 7 el más largo y más de dos veces su anchura. Rostro bastante delgado, con su superficie anterior formando un ángulo evidente con la superficie anterior de la cabeza; en vista frontal hay un abultamiento entre la base del rostro y la base de las antenas; mandíbulas vestigiales visibles; postmentón más corto que ancho. Pronoto no claramente en silla de montar, lóbulo anterior corto y poco elevado; fémur posterior alcanzando casi el ápice del abdomen; abdomen oval, algo comprimido, con los terguitos arqueados; papilas abdominales ausentes."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 5 mm; cabeza castaña, tórax y abdomen pardo oscuros; antenas de 15 artejos; abdomen grande y oval, con los terguitos arqueados; patas posteriores sobrepasando el ápice del abdomen."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "zh_name": "南方象白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "归 matangensis 组。有翅成虫与 N. luzonicus 极近，仅前胸背板可能略深、囟小而不显（后者囟常多变）。兵蚁头橙褐、触角 13 节，背观轮廓同 N. luzonicus；上颚游离部通常较长，外缘略斜，前窦较短而深，磨区短，其后为短的扁平区，再后内缘略凹。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "与 N. luzonicus 的有翅成虫极近；前胸背板或许略深；囟小、不显（在 N. luzonicus 中则常多变）。其余同 N. luzonicus。量度（毫米，采自模式采集 No. 318，棉兰老 Zamboanga 省的一头典型有翅成虫）：全长 15.2；前翅长 13.4；前翅宽 3.4；头长 1.65；头壳长 1.20；头壳宽 1.30；头宽（连复眼）1.57；前胸背板长 0.74；前胸背板宽 1.32；复眼长径 0.56、短径 0.48；单眼长径 0.20、短径 0.14；单眼至复眼距离 0.06。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头橙褐；喙基部较深、端部淡红；触角、胸部与腹背板黄色带褐调；足黄。头与喙形状见图 14 b 与 e；背观轮廓同 N. luzonicus；上颚多变（图 14 f—i），但通常游离部较长；外缘略斜；前窦较短而深；磨区短，其后为短的扁平区，再后内缘略凹。触角 13 节，几与头连喙等长。量度（毫米及指数，采自采集 318、和乐岛的一头大兵蚁）：头连喙长 1.80；头长（不含喙）1.14；喙长 0.66；头突出部 0.30；头高 0.78；头宽 1.26；前足胫节长 1.14；头指数 1.10；头喙指数 0.56；头突出指数 0.26；足伸长指数 1.00。"
+  }
+ ],
+ "note": "据 Light & Wilson 1936 改写，原文英文（The nasute termites of the Philippines，The Philippine Journal of Science 60: 461–520）。模式采集 No. 318，棉兰老 Zamboanga 省；兵蚁量度另取和乐岛（Jolo）采集 318 的大兵蚁一头。有翅成虫只作与 N. luzonicus 的比较描述，未逐项重述；工蚁原文未描述。图 14（有翅成虫头背面，数个兵蚁头背面以示例体型与比例变异、兵蚁头侧面，兵蚁左上颚变异）未译。",
+ "sources": [
+  {
+   "id": "S0537",
+   "citation": "Light S. F. & Wilson F. J. 1936. The nasute termites of the Philippines. The Philippine Journal of Science 60: 461–520.",
+   "locator": "pp. 498–499 / The-nasute-termites-of-the-Philippines"
+  }
+ ]
+}

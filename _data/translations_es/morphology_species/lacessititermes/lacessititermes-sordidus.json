@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Macho: longitud del cuerpo 7.5 mm; pardo negruzco oscuro, cabeza castaña, patas y antenas pardo oscuro. Ocelos a medio diámetro o menos de los ojos compuestos; fenestra bastante pequeña; antena de 15 segmentos, segmento 3 algo mayor que el 2; clípeo ligeramente convexo y saliente. Pronoto más de la mitad de largo que de ancho, borde anterior recto y algo levantado, esquinas anterolaterales más bien agudamente redondeadas y algo deprimidas, bordes posterolaterales casi rectos; bordes posteriores del meso- y metanoto anchos, ligeramente cóncavos; esbozos alares anteriores mayores que los posteriores. Longitud del ala 12 mm, pardo oscuro; media aproximadamente equidistante de la submedia y de la subcosta, que emite una o dos ramas que alcanzan el ápice del ala, muy pálidas cerca del ápice; submedia con 6 ramas, que terminan en el margen posterior a un tercio de la longitud del ala desde el ápice. Patas posteriores que alcanzan el segmento abdominal 7; papilas abdominales ausentes. En la hembra, el esternito del segmento abdominal 7 menos de la mitad de largo que de ancho, con los bordes posterolaterales cóncavos; longitud del cuerpo de la reina 14 mm, terguitos fuertemente arqueados (sobre todo en la base), quitinización secundaria ausente, epidermis lateral con finos puntos de pigmento y setas."
+  },
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 3.5 mm, pardo negruzco oscuro, cabeza negra. Antena de 3 mm de longitud, 14 segmentos, segmento 3 más largo que el 2 pero muy variable en longitud, segmento 7 el más largo, menos de tres veces más largo que ancho. Rostro bastante grande; mandíbulas vestigiales claramente visibles; posmentón casi tan largo como ancho. Pronoto en silla de montar, lóbulo anterior muy corto, casi sin elevación; fémures posteriores que rebasan el extremo del abdomen; abdomen pequeño, ovalado; papilas abdominales ausentes."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 5 mm, pardo oscuro, cabeza castaña; antena de 15 segmentos; patas posteriores que rebasan el extremo del abdomen; abdomen grande, ovalado."
+  }
+ ],
+ "note": "Adaptado de la descripción original específica de Haviland (1898), original en inglés; incluye imago, reina, soldado y obrero, con medidas en mm. El original indica «Hab. Borneo (Sarawak). Type, No. 261»."
+}

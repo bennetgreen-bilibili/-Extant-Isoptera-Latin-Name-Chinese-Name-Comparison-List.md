@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from Harris (1966); for this species the original deals mainly with taxonomic history and measurements, the morphological description being scattered through the key and the discussion (for instance head shape and the degree of mandibular curvature), with no complete redescription. Measurements are translated verbatim from the original, in millimetres. The original does not describe the worker.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "In the key: alate with head width (including the compound eyes) greater than 1.77 mm, hind tibia shorter than 1.86 mm, and ocelli large and broadly oval; in this species the ocelli are broadly oval and about half their long diameter from the compound eye, whereas in A. periphrasis they are narrowly oval and less than one third of their long diameter from the eye; A. crucifer has many setae on the vertex, A. cavithorax only a few fine setae. Major soldier with the head rectangular to oval and the mandibles slightly curved, head length including mandibles 1.82—2.27 mm; A. periphrasis has an oval head slightly narrowed at the apex, strongly curved mandibles, and head length including mandibles 1.82—1.90 mm. Holmgren once stated that the pronotum of the soldier of this species is much wider than the head; Harris points out that this derives from an error in Silvestri's figure of a Luapula specimen and is not a fact."
+  },
+  {
+   "label": "Alate",
+   "text": "The alate of this species was first mentioned by Holmgren (1913), who distinguished it from A. crucifer by the larger ocelli and the inconspicuous frontal gland. Measurements (mm; table of the original, the specimens from Malanga, Angola, set beside those from Zambia and Tanganyika, the last column a range): head width (including the compound eyes) 1.82 (1.72—1.86); compound eye diameter 0.45 (0.41—0.50); ocellus long diameter 0.18—0.23 (0.18—0.27), short diameter 0.13 (0.13—0.16); ocellus to compound eye 0.13 (0.09—0.18); pronotum width 1.64—1.72 (1.60—1.84), length 1.02—1.09 (0.82—1.14); hind tibia length 1.86—1.95 (1.86—2.00); forewing length 18.0—20.0 (16.0—20.0), width 4.0—4.3 (3.8—4.8)."
+  },
+  {
+   "label": "Soldier",
+   "text": "Measurements (mm; table of the original, specimens from Southern Rhodesia to Tanganyika, the mean in parentheses): head length including mandibles, major soldier 1.82—2.27 (2.06), minor soldier 1.68—1.90 (1.79); head length 1.09—1.41 (1.24), 0.86—1.06 (0.97); head width 1.00—1.36 (1.17), 0.77—1.06 (0.95); left mandible length 0.82—0.95 (0.87), 0.77—0.90 (0.83); pronotum width 0.73—1.00 (0.83), 0.59—0.73 (0.67); hind tibia length 1.00—1.14 (1.07), 0.82—1.00 (0.90). A. lembomboensis Fuller 1922 (Swaziland, Transvaal, Mozambique) is a synonym of this species; Harris considers that the synonymy arose from a misunderstanding of Silvestri's measurements of the alate ocelli."
+  }
+ ]
+}

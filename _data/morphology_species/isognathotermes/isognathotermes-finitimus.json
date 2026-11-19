@@ -1,0 +1,17 @@
+{
+ "zh_name": "近邻等颚白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "单凭兵蚁或有翅成虫难以可靠鉴定：该种在属内形态上处于中间位置，需结合工蚁与兵蚁的肠瓣构造、兵蚁上颚形态与地理来源。兵蚁体型中等，头长（至唇基前缘）2.70—3.45 mm，肠瓣一般可辨为 finitimus 型；额部隆起很小或没有，头上缘仅微凹。与 I. planifrons 相比，上颚曲率沿颚长的变化更快（左颚曲率对数值之差 1.28—2.42，后者 0.89—2.28），即上颚基部较直、端部弯曲更强；I. planifrons 的兵蚁上颚平均弯曲略强。有翅成虫体型中等，头宽（跨复眼）1.47—1.71 mm。工蚁属属内中等体型。生态与分布可辅助鉴定：该种总是发现于 15°E 以东的大陆性森林，与 I. planifrons 的分布区仅在中非共和国西南部重叠。"
+  }
+ ],
+ "note": "据 Josens 等 (2025) 修订中的种级诊断改写，原文英文；量度代号已按原表释义改写为中文名称。原文指出单凭单一品级难以鉴定，主要依靠工蚁肠瓣构造、兵蚁上颚与产地的组合；本条只录可述的鉴别特征，未转录形态描述中的逐项测量表。",
+ "sources": [
+  {
+   "id": "S0025",
+   "citation": "Josens, G.; Deligne, J.; Harry, M.; Roy, V.; Akama, P.D.; Coulibaly, T.; Dosso, K.; Goergen, G.; Hasson, M.; Kasangij A Kasangij, P.; Kifukieto, C.; Le Ru, B.; Loko, L.E.Y.; Ndiaye, A.B.; Roisin, Y.; Sion, N.; Šobotník, J.; Stiblik, P.; Kue Di Kuenda, S.; Traoré, S.; Viage, M.; Wango, S.P.; Kaymak, E.; Bourguignon, T. (2025) An integrative revision of the genus Isognathotermes (Termitidae: Cubitermitinae) with description of seven new species and four new subspecies. European Journal of Taxonomy 1024, 1–197. https://doi.org/10.5852/ejt.2025.1024.3099",
+   "locator": "p. 55—57"
+  }
+ ]
+}

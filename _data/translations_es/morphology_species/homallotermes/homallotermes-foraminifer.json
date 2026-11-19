@@ -1,0 +1,21 @@
+{
+ "note": "Según la descripción original de Haviland de 1898 (publicada como TeRMES FORAMINIFER., sin 'n. sp.', con Pl. 25. figs. 65–68; hoy especie tipo del género Homallotermes). Están presentes las cuatro formas (macho, hembra, soldado, obrero). El original se extrajo por OCR del escaneo de BHL/Zenodo, por lo que los puntos decimales aparecieron como caracteres extraños ('1:2 mm' = 1.2 mm, '1:3 mm' = 1.3 mm, '6°5 mm' = 6.5 mm, '3°5 mm' = 3.5 mm) y algunas palabras están mal escritas (papille=papillae, lear=clear); se han comprobado con el contexto; medidas en mm.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Macho: longitud del cuerpo 5 mm, esbelto, fuliginoso, patas y antenas más claras. Cabeza oval. Ocelos próximos a los ojos compuestos. Fontanela estrecha e indistinta. Antenas de 15 artejos, artejo 3 muy corto. Labro algo convexo. Margen anterior del pronoto casi recto, margen posterior lobulado. Esbozos alares anteriores algo mayores que los posteriores. Alas de 6.5 mm de longitud, pilosas; media muy próxima a la submedia, alcanzando el ápice del ala y emitiendo de dos a tres ramas; submedia emitiendo 6 o 7 ramas. Patas posteriores sin alcanzar el extremo del abdomen. Ausencia de papilas abdominales."
+  },
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 4 mm. Longitud de la cabeza 1.2 mm, anchura 1 mm, ocreclaro, con un diminuto foramen medio algo por encima del nivel de las bases antenales. Antenas de 13 artejos, artejos 2 y 3 de igual longitud, artejo 4 más largo, los artejos siguientes de igual longitud que el artejo 4. Labro pequeño, blanco, con dos diminutos lóbulos laterales agudos y divergentes. Mandíbulas de 1.3 mm de longitud, planas, transparentes, dobladas, la mandíbula izquierda más fuertemente doblada, la mitad basal arqueada. Postmentón ovalado-alargado, de anchura uniforme. Pronoto en silla de montar, lóbulo anterior corto pero muy elevado. Patas posteriores sobrepasando el abdomen. Ausencia de papilas abdominales."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 3.5 mm. Cabeza clara. Antenas de 13 artejos. Labro algo convexo. Abdomen oval, oscuro por el contenido intestinal."
+  },
+  {
+   "label": "Otros",
+   "text": "El esternito del segmento abdominal 7 de la hembra mide menos de la mitad de largo que de ancho; las pleuras abdominales llevan pequeños puntos de pigmento dispersos. Distribución: península de Malaca (Perak); Borneo (Sarawak). Espécimen tipo n.º 114. Para la morfología véase Pl. 25. figs. 65–68. La especie es el tipo del grupo 'que tiene a Termes foraminifer como tipo'."
+  }
+ ]
+}

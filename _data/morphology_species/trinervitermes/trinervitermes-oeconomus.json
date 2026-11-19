@@ -1,0 +1,21 @@
+{
+  "zh_name": "根三脉白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "头壳、额部中央与头顶褐色至深栗褐色；头顶有3条分叉的黄褐色纵纹；后唇基与眼周区域黄褐色，该区域向眼后延伸成一点、向前达上颚基部；上唇与触角黄色至黄褐色。前胸背板黄色至黄褐色；中胸与后胸背板、胸部其余骨片与足黄色。腹部背板褐色至深栗褐色，气门周围略深，具黄色至黄褐色边，前缘两侧角略浅；腹板黄色至黄褐色，气门周围褐色。翅半透明淡褐色，亚前缘脉与径分脉黄色、向端部渐浅，后者基部具褐色轮廓，二者之间的膜质部自翅缝起有一短段褐色；径分脉之后的膜质部有或无橙黄色纵纹；其余脉纹细黄褐色至褐色。头壳后缘在眼后远小于半圆形，紧接眼后微呈波状；囟明显，通常 Y 形，侧臂端部略膨大。"
+    },
+    {
+      "label": "鉴别要点",
+      "text": "Sands 将 Eutermes mobilis Sjöstedt, 1904、Eutermes tchadensis Sjöstedt, 1911、Eutermes schubotzianus Sjöstedt, 1914 均作本种的新异名处理；有翅成虫可依头后缘、囟形与体色与相近种区分。"
+    }
+  ],
+  "note": "据 Sands（1965）修订改写，原文英文；原文记有翅成虫、兵蚁与工蚁，但 IA 全文为单一文本流且该种后段（兵蚁、工蚁、量度）在 OCR 中与其他条目交错严重，故正文只收可确读的有翅成虫描述；量度未录。",
+  "sources": [
+    {
+      "id": "S0047",
+      "citation": "Sands W.A. 1965. A revision of the termite subfamily Nasutitermitinae (Isoptera, Termitidae) from the Ethiopian region. Bulletin of the British Museum (Natural History), Entomology, Supplement.",
+      "locator": "Trinervitermes 属修订，T. oeconomus 一节"
+    }
+  ]
+}

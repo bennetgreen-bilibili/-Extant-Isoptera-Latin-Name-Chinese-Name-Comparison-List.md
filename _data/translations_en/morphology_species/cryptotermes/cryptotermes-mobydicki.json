@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the new-species description of Scheffrahn, Buček, Sillam-Dussès & Šobotník (2025), the original in English; the measurements are in Table 1 of the original, which is not included in the Zenodo text layer, so the values are missing; the locality, type specimens and the reason for the name are given under 'Other'.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Among the drywood termite soldiers of the world it is unique in the following combination: head capsule extremely long and narrow; both the frontal flange and the frontal horns absent; in dorsal view the mandibles extremely concealed by the elongated frontal projection. The second couplet of the worldwide soldier key of Bacchus (1987) and the first couplet of the South American soldier key (Scheffrahn & Vasconcellos 2023) were revised accordingly."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head capsule, in dorsal view, black, elongate, narrowing anteriorly into a blunt frontal projection; the lateral margins with a few setae. Frontal projection and vertex with undulate longitudinal ridges. Occiput chestnut brown, without longitudinal ridges. Pronotum orange-yellow, the anterior margin darker, upturned and weakly serrate; the posterior and lateral margins evenly rounded, with a few setae of unequal length. In lateral view the frontal projection is slightly curved downwards and covers the mandibles for about 1.4 times the length of the whole head capsule. Frontal flange (head ridge) absent. Genal horns weakly curved below the antennal socket; frontal horns absent. In oblique view the mandibles are angular and curved inwards. Frontal projection with a shallow incision, clearest in ventral view. Antennae 11-segmented, the segment formula 2>3=4<5."
+  },
+  {
+   "label": "Other",
+   "text": "Alates and workers have not been described. Type locality Petit Saut, French Guiana, near the Sinnamary River (5.0684, -53.0429), altitude 42 m. The holotype soldier is deposited in the University of Florida Termite Collection (UFTC) FG 1240, placed separately from the rest of the specimens in the same vial; paratypes with the same locality and data, 1 soldier and 10 worker-like individuals. The specific name is taken from Moby Dick by Melville, because in lateral view the frontal projection and the elongated head capsule resemble the head of a sperm whale, and in both the mandibles are hidden by the head, with the position of the whale's eye corresponding to that of the antennal socket of the soldier. Ecology: a small colony was found near the top of a dead standing trunk about 20 cm in diameter at breast height, about 8 m above the ground."
+  }
+ ]
+}

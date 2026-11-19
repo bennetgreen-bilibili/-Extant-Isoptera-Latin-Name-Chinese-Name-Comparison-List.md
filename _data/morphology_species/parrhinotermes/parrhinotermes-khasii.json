@@ -1,0 +1,21 @@
+{
+  "zh_name": "卡西棒鼻白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "印度东北部该属仅 2 种，有翅成虫均未知，检索表以兵蚁体型分开：本种头长（至颚基）1.26 mm、头最大宽 1.08 mm、前胸背板宽 0.72 mm；P. shamimi 分别为 0.95—0.98、0.85、0.50—0.53 mm。Bose 所查阿鲁纳恰尔邦标本的上颚长 0.65—0.75 mm、前胸背板长 0.34—0.47 mm，均大于 P. shamimi（上颚 0.63 mm，前胸背板长 0.28 mm）。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "Bose 1999 对阿鲁纳恰尔邦 5 头兵蚁的量度（mm）：体全长约 3.5—3.75；头长（至上唇端）1.60—1.70；头长（至颚基）1.18—1.30；头最大宽 1.00—1.12；上颚长 0.65—0.75；前胸背板长 0.34—0.47、最大宽 0.65—0.70。原文未给出体色、头形、上颚齿式与毛被的描述。分布：印度梅加拉亚邦卡西丘陵 Nong Priang 溪岸（模式产地）及阿鲁纳恰尔邦 Kameng、上苏班西里等地。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0648",
+      "citation": "Bose G. 1999. Termite fauna of north eastern India. Records of the Zoological Survey of India, Miscellaneous Publication, Occasional Paper 171: 1–148.",
+      "locator": "pp. 54—56"
+    }
+  ],
+  "note": "据 Bose 1999 的兵蚁量度与检索表改写；原文为动物区系性工作，只给量度与分布，没有形态描述，且本种的原始描述（Roonwal & Sen-Sarma 1956）本批未取到全文，故本条目只含量度与检索表鉴别点，不含形态叙述。量度单位毫米。"
+}

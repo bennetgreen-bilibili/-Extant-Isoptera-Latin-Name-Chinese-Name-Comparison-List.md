@@ -1,0 +1,29 @@
+{
+  "zh_name": "喜树象白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "与 E. chaquimayensis 极近但体型更大（有翅成虫连翅 16—17.5 mm，头长 1.78 mm、头宽 1.53 mm）；复眼更大更突出，后尘一基部——尤其侧面——强被刚毛，觖角较长、外节卵形且基部强缩；兵蚁头浅褐色而鼻深色，鼻与头顶处于同一平面，觖角 13 节。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "与 E. chaquimayensis 极近但更大；复眼更大、更突出；后尘一基部强被刚毛，尤其两侧；觖角更长，外部各节卵形、基部强收缩，使觖角显得十分脆弱。自中脉发出若干短分枝伸向 radius sector。量度：体长（连翅）16—17.5 mm；头长 1.78 mm；头宽 1.53 mm；自横带前缘至后头 1.05 mm。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头壳浅褐色，鼻深色，觖角根周围较淡；体上硬化部分黄褐（铁锈褐），足铁锈黄。刚毛如 E. brevioculatus，但前胸背板前缘刚毛更长，且腹部背板亦被毛。头形如 E. brevioculatus，但鼻与头顶处于同一平面。觖角 13 节：第 3 节为第 2 节的两倍或仅略短，第 4 节略长于第 2 节，第 5 节更长。前胸背板前叶（几乎）与后叶垂直，前缘几不凹入。量度：体长 4.5 mm（n=2）；头宽约 0.95—1.06 mm（原文数字含 OCR 残损，头长未录）。"
+    },
+    {
+      "label": "工蚁",
+      "text": "Holmgren 直引 Desneux 的法文描述：头大，染栗褐色（深浅不一），头壳缝浅色、清晰；后尘一不太突出；觖角 14 节，第 5 节通常明显比…（原文此处被截）；前胸背板鞍状，前叶上翘，前缘中央极弱凹入；腹部鼓凸，背板黄褐色（深浅不一）。（引文在原文中未给数值量度。）"
+    }
+  ],
+  "note": "描述取自 Holmgren 1910 对 Eutermes dendrophilus (Desn.) 的重讠（德文，工蚁为直引 Desneux 法文原文）；该种由 Desneux 1906 定名（原作 Termes Ripperti subsp. dendrophilus）。模式产地厄瓜多尔、瓜亚基尔等。原文为德文，BHL 扫描件 OCR 质量一般：小数点常被误认作逗号或冒号，部分量度数字模糊，模糊者不录。学名当时置于 Eutermes 属，现归 Nasutitermes。",
+  "sources": [
+    {
+      "id": "S0607",
+      "citation": "Holmgren, N. 1910. Versuch einer Monographie der amerikanischen Eutermes-Arten. Mitteilungen aus dem Naturhistorischen Museum in Hamburg 27: 171–325.",
+      "locator": "pp. 243–244"
+    }
+  ]
+}

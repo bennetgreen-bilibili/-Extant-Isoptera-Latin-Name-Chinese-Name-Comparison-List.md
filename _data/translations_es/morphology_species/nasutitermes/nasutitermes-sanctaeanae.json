@@ -1,0 +1,17 @@
+{
+ "note": "La entrada sigue la descripción original de Holmgren de 1910 (soldado y obrero), publicada como Eutermes Sanctae-Anae. El original es un texto OCR de biblioteca de un escaneo de BHL (espejo Zenodo/Plazi); la descripción original alemana se leyó línea por línea; las cifras que el OCR desordenó sin posibilidad de confirmación no se enumeran.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Cabeza pardo castaña; antenas y escleritos del cuerpo amarillo herrumbroso; parte anterior del pronoto ligeramente pardusca. Cabeza con solo algunas cerdas; terguitos abdominales lisos con cerdas marginales únicamente. Cabeza casi circular aparte de la nasa; nasa de longitud normal y cónica; contorno frontal con una elevación indistinta en la base de la nasa, o sin ella. Antenas de 13 segmentos: segmento 3 una vez y media más largo que el segmento 2; segmento 4 solo algo más largo que el segmento 2; segmento 5 algo más largo que el segmento 4. Pronoto en silla de montar poco profunda, borde anterior claramente cóncavo. La longitud del cuerpo, la longitud y la anchura de la cabeza están dañadas por el OCR en la impresión original (solo 3 especímenes medidos), por lo que no se citan."
+  },
+  {
+   "label": "Obrero",
+   "text": "Placa cefálica y banda transversal pardo brillante; clípeo blanco amarillento; suturas cefálicas, genas, antenas y piezas bucales amarillo herrumbroso brillante a blanco amarillento. Cabeza cubierta casi solo de pelos microscópicos, con algunas cerdas más largas además; terguitos abdominales con pelos finos muy cortos y con cerdas marginales. Cabeza ampliamente ovalada; suturas cefálicas abiertas y muy evidentes; fontanela mal delimitada y alargada; clípeo algo más corto que la mitad de su anchura. Antenas de 14 segmentos: segmento 3 más largo que el segmento 2 pero menos del doble; segmento 4 más corto que el segmento 2; segmento 5 algo más largo que el segmento 4 pero casi no tanto como el segmento 2. Pronoto en silla de montar bastante profunda, borde anterior cóncavo. Longitud del cuerpo del obrero 5 mm, longitud de la cabeza 1.81 mm, anchura de la cabeza 1.08 mm."
+  },
+  {
+   "label": "Otros",
+   "text": "El original se publicó como Eutermes Sanctae-Anae n. sp., con el sinónimo Eutermes arenarius subsp. proximus var. a Silvestri. Localidad tipo S. Ana, Misiones, Argentina (recolectado por Silvestri)."
+  }
+ ]
+}

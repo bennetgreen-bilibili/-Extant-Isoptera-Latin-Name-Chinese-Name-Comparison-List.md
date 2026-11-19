@@ -1,0 +1,17 @@
+{
+ "note": "Rewritten from Scheffrahn's (2022) species-level diagnosis and measurement table, original in English; that work does not rewrite the full description (it refers to those of Light 1930 and Desneux 1906) but only adds the diagnostic characters of the soldier mandibles and head capsule and gives the measurement table, so there is no full description of the alate and worker. A. floridensis is now a synonym of this species.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Most closely related to A. californicus, but the mandibular base, blade and marginal teeth are all more slender and weaker (A. californicus is stouter); the soldier head capsule is slightly smaller than in A. californicus and less squarely shaped. The key separates it from A. californicus (stout teeth, mean head width about 1.07 mm) by the slender blade and teeth and the mean head width of about 0.85 mm, but in the measurement table the mean head width is 0.98 mm (United States individuals) and 0.92 mm (Florida individuals)."
+  },
+  {
+   "label": "Soldier",
+   "text": "Soldier measurements (mm, table 1; maximum/minimum/mean; United States and Florida individuals listed separately): head width 1.11/0.82/0.98 and 0.98/0.88/0.92; pronotum width 0.67/0.51/0.59 and 0.60/0.49/0.53; head length to the postclypeus 1.39/0.98/1.26 and 1.23/1.11/1.18; distance from the base of the mandibular inner tooth to the left mandible margin 0.18/0.07/0.13 and 0.12/0.11/0.12; width from the left marginal tooth to the mandible margin 0.26/0.14/0.18 and 0.18/0.14/0.16; distance from the base of the outer mandibular tooth to the left mandible margin 0.18/0.11/0.12 and 0.11/0.11/0.11. Sample size: United States 56 specimens/21 nests, Florida 7 specimens/4 nests."
+  },
+  {
+   "label": "Other",
+   "text": "Desneux (1906) described the species from soldiers and workers collected by Wheeler at Belton, Texas, on the basis of an oral description; A. floridensis Scheffrahn, Su & Mangold, 1989 is now a synonym of this species. Distribution: the arid regions of the southwestern United States and Mexico and the moist central part of Florida; according to collection records the species does not occur in California, and its entry into Florida is considered the result of introduction through the ornamental palm trade."
+  }
+ ]
+}

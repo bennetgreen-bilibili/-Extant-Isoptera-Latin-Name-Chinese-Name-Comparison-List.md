@@ -1,0 +1,21 @@
+{
+ "note": "Según la descripción original de Haviland de 1898 (publicada como TERMES TRAVIANS, n. sp.). Se describen las cuatro castas (macho, hembra, soldado, obrero). El original se extrajo por OCR del escaneo de BHL/Zenodo: los puntos decimales fueron reconocidos como caracteres extraños («1:3 mm» = 1,3 mm, «‘6» = 0,6 mm) y algunas formas léxicas son defectuosas (papille=papillae, Antenne=Antennae, marrower=narrower); se comprobaron por el contexto. Medidas en mm.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Macho: longitud del cuerpo 7 mm, dorso rojo ladrillo (latericious), vientre leonado (fulvous), clípeo y antenas pálidos. Cabeza ovalada, convexa de perfil. Ocelos próximos a los ojos compuestos. Poro de la fontanela pequeño. Antenas de 19 artejos, artejo 2 grande, artejos 3 y 4 pequeños. Clípeo no saliente. Pronoto grande, reniforme, pero con los ángulos anterolaterales salientes y agudamente redondeados. Márgenes de los esbozos alares anteriores ligeramente convexos, mucho mayores que los posteriores, cubriendo ligeramente a estos en la base. Alas de 10 mm de longitud y 3 mm de anchura, pilosas; media y submedia pálidas; media sin ramificar, su distancia a la subcostal triple que a la submedia; submedia con unas 6 ramas. Patas posteriores que no alcanzan el extremo del abdomen. Esteritos abdominales solo tres veces más anchos que largos. Tubérculos abdominales presentes, pequeños."
+  },
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 4 mm. Cabeza de 1,3 mm de longitud y 1 mm de anchura, ovalada, ocre (ochraceous). Por encima del clípeo una tumefacción ancha que termina en un poro grande de la fontanela. Antenas de 13 o 14 artejos, artejo 3 mayor o menor que el 2, los demás artejos ligeramente mayores hacia el ápice, casi esféricos. Labro casi lanceolado, con varios pelos en el ápice, que no alcanza la mitad de las mandíbulas. Mandíbulas de 0,6 mm de longitud, agudas y curvadas hacia dentro en el ápice, borde cortante sin dientes. Postmentón firmemente fusionado con la cabeza, ensanchado hacia el ápice, la parte libre más estrecha. Pronoto grande, reniforme, ángulos anterolaterales bastante salientes y agudamente redondeados. Mesonoto mucho más estrecho que el pronoto. Patas posteriores que sobrepasan el abdomen. Abdomen ovalado alargado. Tubérculos abdominales presentes, pequeños."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 4 mm. Cabeza pálida, a menudo más oscura en ejemplares conservados en alcohol. Antenas de unos 13 artejos; los artejos próximos a la base poco diferenciados, los del ápice casi esféricos. Patas que no llegan ni de lejos al extremo del abdomen ovalado alargado."
+  },
+  {
+   "label": "Otros",
+   "text": "El esternito del segmento abdominal 7 de la hembra es semicircular; el abdomen de la reina alcanza 27 mm, los pelos de la membrana pleural nacen de pequeños tubérculos sin pigmento y las áreas secundarias quitinizadas son grandes. Esta especie es una de las principales plagas de las viviendas en Singapur y Sarawak. Distribución: península de Malaca, Borneo. Ejemplar tipo n.º 573. Figuras: lám. 23, figs. 19–22."
+  }
+ ]
+}

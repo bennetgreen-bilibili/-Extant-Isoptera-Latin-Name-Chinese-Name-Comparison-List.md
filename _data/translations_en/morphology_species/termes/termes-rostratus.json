@@ -1,0 +1,21 @@
+{
+ "note": "After the original description by Haviland (1898) (in English). The OCR of the handwritten original reads the species name as eostratus, which is actually rostratus. The original was extracted by OCR from the Internet Archive scan; the scientific names and some word forms are misrecognized (e.g. eostratus for rostratus, latierons for laticornis), and the measurement figures have been checked against the context.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Body length 4.5 mm, dorsum brick-red (latericious), venter pale yellowish brown. Head oval. Ocellus almost touching the compound eye. Fenestra narrow. Antennae 15-segmented, segment 3 very short, segment 4 and segment 2 nearly equal in length. Postclypeus convex. Pronotum semilunar, anterior margin nearly straight, anterolateral corners rounded. Posterior margins of the mesonotum and metanotum distinctly lobed. Fore wing pads slightly larger than the hind wing pads. Wings 5.5 mm long; mediana closer to the subcosta than to the submediana, reaching the wing apex; submediana reaching the wing apex, with about 9 branches. The sclerites remain separated by membrane even in the alate stage. Abdominal papillae absent."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 4 mm. Head length 1.1 mm, width 0.7 mm, pale yellowish white; the anterior frontal process (nasus) about 0.5 mm long, its lower margin convex. Antennae 14-segmented, segment 2 longer than segments 3 and 4, thereafter gradually lengthening towards the apex. Labrum small, white, curved upwards towards the process, with 2 spreading setae. Mandibles 1 mm long, setiform, distinctly curved downwards. Postmentum about twice as long as wide, widening towards the apex. Pronotum saddle-shaped, the anterior lobe rather large and not much raised. Hind legs not reaching the end of the abdomen. Abdomen spindle-shaped, coloured by the gut contents. Abdominal papillae absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 3.5 mm. Head small, pale. Antennae 14-segmented. Postclypeus projecting. Abdomen coloured by the gut contents."
+  },
+  {
+   "label": "Other",
+   "text": "Female: sternite of abdominal segment 7 about half as long as wide, posterior margin bilobed in the middle. The queen's abdomen may reach 15 mm; pleural membrane with pale papillae. Locality: Borneo (Sarawak), Malay Peninsula (Singapore, Perak). Type no. 477."
+  }
+ ]
+}

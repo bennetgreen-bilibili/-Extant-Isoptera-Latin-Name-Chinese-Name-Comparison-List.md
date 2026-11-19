@@ -1,0 +1,21 @@
+{
+ "note": "Adaptado de Maiti 2006; original en inglés; la tabla 16 (brunneus y crassus) está desalineada en filas y columnas en el texto extraído: falta el valor de la longitud de la cabeza hasta la base lateral de la mandíbula de esta especie y, en la misma tabla, el índice cefálico no es coherente con la anchura y la longitud de la cabeza (p. ej. crassus anchura cefálica 1.23, longitud cefálica 0.65, pero índice cefálico 0.82), por lo que las medidas de esa tabla no se registran en absoluto; solo se registran los valores de los ocelos dados explícitamente en el texto.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Posclípeo del alado más de tres veces más ancho que largo; antenas de 20 artejos, artejo 3 o 4 el más corto y estrecho; longitud del ocelo 0.10—0.14 mm, con una distancia al ojo compuesto casi igual a la mitad de su longitud; escama del ala anterior casi el doble de la longitud de la escama del ala posterior, membrana alar sin pelos pero cubierta de micrastras. Cabeza del soldado más profunda en la parte anterior, labro amarillo dorado brillante con extremo transparente, antenas de 17—18 artejos, artejo 3 el más corto."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza, tórax y abdomen marrón oscuro y pelosos, más claros en la cara ventral; escamas alares más oscuras que el resto. Cabeza hemisférica en la parte posterior, estrechada por delante de los ojos compuestos; fontanela poco marcada. Antenas de 20 artejos, artejo 3 o 4 el más corto y estrecho; posclípeo más de tres veces más ancho que largo; ojos compuestos de tamaño medio; longitud del ocelo 0.10—0.14 mm, con una distancia al ojo compuesto casi igual a la mitad de su longitud. Pronoto más estrecho que la cabeza, margen anterior ancho y poco profundamente cóncavo, margen posterior débilmente ondulado. Escama del ala anterior casi el doble de la longitud de la escama del ala posterior; bases de la costa, el sector radial, la media y el cubitus distintas, las demás venas débiles; membrana alar sin pelos pero cubierta de micrastras."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza y pronoto marrón oscuro, la parte anterior de la cabeza la más oscura; labro amarillo dorado brillante con extremo transparente. Cabeza y tórax moderadamente pelosos. Cabeza más larga que ancha, más ancha en el tercio posterior, estrechada gradualmente hacia delante; antenas de 17—18 artejos, artejo 3 el más corto; fontanela de tamaño medio; labro más ancho en el tercio basal, estrechado hacia delante, extremo estrechamente redondeado; pronoto claramente más estrecho que la anchura cefálica, más ancho que largo, margen anterior con una concavidad media ancha, margen posterior poco profundamente cóncavo."
+  },
+  {
+   "label": "Otros",
+   "text": "El material estudiado es un vial de ejemplares del Zoological Survey of India (Kolkata) (ZSI Reg. No. 2764/H8), con 4 alados, 3 soldados y 3 obreros, recolectados 45 millas al norte de Galena, Australia Occidental, por J. H. Calaby el 1955-10-26. Localidad tipo: al norte del río Murchison, cerca de Galena, Australia Occidental."
+  }
+ ]
+}

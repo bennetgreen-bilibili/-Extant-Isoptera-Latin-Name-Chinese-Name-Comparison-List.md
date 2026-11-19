@@ -1,0 +1,25 @@
+{
+  "zh_name": "巴特里彭唇白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "大小、形状与色几与 Parrhinotermes aequalis 完全一致，但毛被略密而更近刚毛状、毛更长。囟沟比 aequalis 略清晰。触角 13 节，第 3 节略长于第 2 节。上唇比 aequalis 略长，不明显。上颚不像 aequalis 与 inaequalis 那样呈膝状弯曲，只强烈弯曲；其端部远短于上颚全长之半。左上颚 2 枚中齿几乎等大（aequalis 外侧齿远大于内侧齿）；右上颚中齿小（aequalis 很大）。前胸背板前缘略上翘，前后缘均略凹入。量度：体长 3.25 mm；头长（双上颚合拢）1.56 mm；头长（不含上颚）1.10 mm；头宽 0.91 mm；前胸背板宽 0.53 mm。"
+    },
+    {
+      "label": "工蚁",
+      "text": "形态上与 P. aequalis 几乎无差别，但略大。触角第 3 节与第 2 节等长或略短（aequalis 第 3 节略长于第 2 节）。量度（本种 / aequalis）：体长 3.3—3.5 mm / 3.4—3.5 mm；头宽 1.03 mm / 0.87—0.95 mm；前胸背板宽 0.57 mm / 0.46—0.49 mm。"
+    },
+    {
+      "label": "其他",
+      "text": "另有ergatoid 生殖型（工蚁状生殖个体）一对：两性均色浅、体型较小，但雌体腹部明显鼓胀；胸部节宽而扁，最像兵蚁的胸节；头为工蚁式头，具囟腺与极小的浅色复眼，无单眼；横带与口器如具翅成虫。触角雄 13 节、雌 14 节，雄第 3 节略长于第 2 节、雌相反。前胸背板前缘弱凹。量度：体长雄 3.5 mm、雌 9.5 mm；头宽 0.99 mm；前胸背板宽 0.65 mm；雌腹部宽 2.28 mm。产地：Malacca 的 Taiping、Maxwell's Hill；苏门答腊 Bandar Baroe（1912 年 6 月 1 日，与 ergatoid 生殖型同采）。生活于半枯树木的孔洞、很湿的腐木中，孔洞内填以湿黏土并有大量通道。Krishna 与 Adams 1982 依据后选模式群体补记具翅成虫：头黄至浅黄褐，单眼间有 3 个组成三角形的淡圆斑；后唇基、前唇基与上唇乳白；触角浅黄；前胸背板乳黄至浅黄；翅鳞褐，翅与足淡黄。量度：头荚长 0.46—0.47 mm；头长（至后唇基）0.41—0.43 mm；头宽 0.61 mm；复眼直径 0.21—0.22 mm；前胸背板最大长 0.33 mm、宽 0.46—0.50 mm；后足胫节长 0.56 mm；前翅（自缝起）长 5.90 mm、宽 1.52 mm。"
+    }
+  ],
+  "note": "原始描述作 Parrhinotermes buttel-reepeni，兵蚁、工蚁与 ergatoid 生殖型齐备；有翅成虫由 Krishna 与 Adams 1982 依据后选模式群体首次描述。Holmgren 原文为德文，取自 Internet Archive 图书馆扫描本 OCR。",
+  "sources": [
+    {
+      "id": "S0591",
+      "citation": "Holmgren N. 1914. Termiten aus Sumatra, Java, Malacca und Ceylon. Wissenschaftliche Ergebnisse einer Forschungsreise nach Ostindien, III. Zoologische Jahrbücher, Abteilung für Systematik, Geographie und Biologie der Tiere.（兵蚁、工蚁、ergatoid 生殖型）；Krishna K., Adams C. 1982. Labritermes Holmgren (Isoptera: Termitidae: Termitinae): redescription of the genus and its type species. American Museum Novitates 2735: 1–16.（有翅成虫）",
+      "locator": "pp. 238–240 / pp. 5–7, Tables 1–2"
+    }
+  ]
+}

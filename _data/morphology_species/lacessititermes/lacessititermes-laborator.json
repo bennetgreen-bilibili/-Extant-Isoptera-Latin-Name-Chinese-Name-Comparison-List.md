@@ -1,0 +1,25 @@
+{
+  "zh_name": "耕地怒白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "体长 8 mm；头栗色，胸砖红色，腹淡栗褐色，足赭色。头卵形；单眼与复眼相距逾一个直径；窗孔与单眼等大；触角第 3 节长于第 2 节；唇基略突出。前胸背板长约为宽之半，前缘近直，前角圆而略下压；中胸与后胸背板后缘宽，呈钝圆叶状；前翅芽大于后翅芽；腹部乳突缺如。雌性第 7 腹节腹板长不及宽之半，后侧缘微凹；蚁后腹部体长 12 mm，背板强烈拱起，次生几丁质化显著，腹部侧表皮具微细色素点与毛。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体长 4 mm；头淡栗褐色，胸与腹暗褐色，足浅黄。头宽 1 mm。触角长 2.5 mm、14 节，第 3 节远长于第 2 节而短于第 4 节，第 7 节最长、长度超过其宽两倍。喙较细，其前表面与头前表面成明显折角；正面观喙基与触角基之间有一隆起；退化上颚可见；后颏长不及宽。前胸背板鞍形不明显，前叶短、隆起不多；后足腿节几达腹端；腹卵形、略侧扁，背板拱起；腹部乳突缺如。"
+    },
+    {
+      "label": "工蚁",
+      "text": "体长 5 mm；头栗色，胸与腹暗褐色；触角 15 节；腹部大而卵形，背板拱起；后足超出腹端。"
+    }
+  ],
+  "note": "据 Haviland (1898) 的原始种级描述改写，原文英语；描述 king、queen、soldier、worker 四个品级，量度单位为 mm（原文用英国度量，此行皆为 mm）。原文「Hab. Malay Peninsula (Malacca), Type, No. 535」。",
+  "sources": [
+    {
+      "id": "S0546",
+      "citation": "Haviland, G. D.; 1898. Observations on termites; with descriptions of new species. Journal of the Linnean Society of London (Zoology) 26: 358-442. https://archive.org/details/zoological-journal-of-the-linnean-society_1898_26",
+      "locator": "p. 432—433"
+    }
+  ]
+}

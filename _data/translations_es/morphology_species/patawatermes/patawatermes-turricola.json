@@ -1,0 +1,17 @@
+{
+ "note": "Reescrito del tratamiento específico de Bourguignon et al. (2016), original en inglés; el texto procesado por Plazi procede del registro Zenodo 10529957. La especie es una termita sin soldados, alimentadora de suelo; el original solo da la descripción diagnóstica del obrero y del alado, junto con los caracteres del tubo digestivo y de la válvula entérica del obrero, sin un conjunto completo de medidas corporales.",
+ "sections": [
+  {
+   "label": "Obrero",
+   "text": "Cabeza con unas 100 setas largas. Los cojines de la válvula entérica tienen apéndices esclerotizados, agrupados en seis racimos de unas 20 espinas medianas cada uno."
+  },
+  {
+   "label": "Alado",
+   "text": "Poro de la glándula frontal de tamaño mediano, que aparece como una mancha bastante pálida entre los ojos compuestos. Ocelos de tamaño mediano. Bordes posteriores del mesonoto y del metanoto ligeramente cóncavos, ángulos redondeados."
+  },
+  {
+   "label": "Otros",
+   "text": "Se diferencia de P. nigripunctatus en que los apéndices de la válvula entérica tienen menos espinas, más robustas y no todas orientadas en la misma dirección. El original incluye Grigiotermes bequaerti (Snyder & Emerson, 1949) en la sinonimia de esta especie (syn. nov.). Material tipo: sintipos obrero y alado de Anoplotermes turricola Silvestri, 1901, de Cuyabá, Brasil, depositados en el AMNH."
+  }
+ ]
+}

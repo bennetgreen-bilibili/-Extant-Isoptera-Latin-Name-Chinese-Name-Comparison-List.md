@@ -1,0 +1,25 @@
+{
+  "zh_name": "长喙象白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "（原文仅描述兵蚁，有翅成虫未知。）与 E. ovipennis 极近，但体略小，头较小而象鼻相对更长。触角 13 节。前胸背板前缘几乎不凹入。被毛与 ovipennis 相同。"
+    },
+    {
+      "label": "工蚁",
+      "text": "大型工蚁：头橙色，横带较浅，其余体草黄色，肠内容物透见。头宽卵形；头缝明显；囟孔相当大；横带前部凹入；后唇基基片很短、平坦；触角 13—14 节，第 2 节长等于第 3+4 节。前胸背板鞍形，前缘略凹入。小型工蚁：头缝与囟孔不明显；触角 14 节，第 2 节几等于第 3+4 节，第 3 节略长于第 4 节；前胸背板前缘不凹入。"
+    },
+    {
+      "label": "其他",
+      "text": "量度（mm）。兵蚁：体长 3.5—4；头连象鼻长 1.50；去象鼻头长 0.91；头宽 0.99；前胸背板宽 0.40。大型工蚁：体长 5；头宽 1.00；前胸背板宽 0.60。小型工蚁：体长 4；头宽 0.84；前胸背板宽 0.46。分布：婆罗洲 Sarawak（Haviland）。"
+    }
+  ],
+  "note": "据 Holmgren 1913 原始描述（德文，原文置于 Eutermes (Eutermes) 亚属下，第 5 种）。有翅成虫未知，仅描述兵蚁与两型工蚁。原文为德文，经 Internet Archive 扫描本 OCR 抽取，个别词形与数字有识别错误（如 l,i 应为 1,1），已按上下文核对；原文量度单位为 mm。",
+  "sources": [
+    {
+      "id": "S0089",
+      "citation": "Holmgren N. 1913. Termitenstudien 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Kungliga Svenska Vetenskapsakademiens Handlingar 50(2): 1–276.",
+      "locator": "pp. 169–170, Taf. VII, Fig. 7"
+    }
+  ]
+}

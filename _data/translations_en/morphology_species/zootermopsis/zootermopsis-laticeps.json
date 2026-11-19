@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the original description of Banks (1906), originally in English; only the soldier and the alate are described, with no measurements, only comparative descriptions and antennal segment counts. The OCR used is microfilm text in which articles and prepositions are largely lost (for example \"Similar most respects angusticollis\" lacks in and to), so only the legible characters are recorded; no words were supplied for the damaged passages.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Body bright reddish brown, darkest in front; mandibles black and shining; pronotum reddish yellow; abdomen and legs pale yellow, antennae yellowish brown. Altogether similar to Zootermopsis angusticollis, but the head much wider, especially behind; the width of the head behind is twice that of the pronotum, and the pronotum itself is not wider; antennae with about 22 segments."
+  },
+  {
+   "label": "Alate",
+   "text": "Head slightly wider; compound eyes much larger than in Zootermopsis angusticollis, their anterior margin reaching the antennal sockets. The costal band of the wing much paler than in Zootermopsis angusticollis, but the venation similar to that of the latter."
+  },
+  {
+   "label": "Other",
+   "text": "Type locality Florence and Douglas, Arizona, United States, several specimens collected in the 8th month (August) by Snow and Biederman. It was published under the genus name Termopsis and is now placed in Zootermopsis."
+  }
+ ]
+}

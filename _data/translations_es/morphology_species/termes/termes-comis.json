@@ -1,0 +1,21 @@
+{
+ "note": "A partir de la descripción original de Haviland 1898 (en inglés). El original registra el macho (alado), la hembra (reina), el soldado y el obrero, y da la longitud corporal, la longitud alar y las medidas de la cabeza y las mandíbulas. El texto se extrajo mediante OCR del escaneo de Internet Archive, con errores de reconocimiento en los nombres científicos y en algunas formas de palabra (por ejemplo eostratus debería ser rostratus, latierons debería ser laticornis); las cifras de las medidas se han verificado con el contexto.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Longitud corporal 4 mm, pardo amarillento isabelino, más pálido por debajo, la cabeza más oscura. Cabeza ovalada. Ocelos casi en contacto con los grandes ojos compuestos. La pequeña fenestra (fontanela) es diminuta. Antenas de 15 artejos, artejo 3 corto, artejos 2 y 4 subiguales. Postclípeo (epistoma) convexo. Margen anterior del pronoto recto, esquinas anterolaterales redondeadas, márgenes posterolaterales convergentes, margen posterior corto. Márgenes posteriores del mesonoto y metanoto bastante anchos pero sólo ligeramente lobulados. Yemas alares anteriores sólo algo mayores que las posteriores. Longitud alar 6.5 mm, amarillo isabelino; la media más próxima a la subcosta que a la submedia, sin ramificar hasta el ápice del ala; la submedia casi alcanza el ápice del ala, con 12—14 ramas. Protuberancias abdominales ausentes."
+  },
+  {
+   "label": "Soldado",
+   "text": "Longitud corporal 5 mm. Longitud de la cabeza 1.5 mm, anchura 0.9 mm, blanco amarillento pálido (ochroleucous); delante de la cabeza hay un proceso corniforme (el nasus), de unos 0.5 mm de longitud, con el margen inferior ligeramente convexo. Antenas de 14 artejos, artejo 2 algo más largo que los artejos 3 y 4. Labro pequeño, blanco, curvado hacia arriba hacia el cuerno, con dos lóbulos diminutos, agudos y divergentes. Mandíbulas de 1.3 mm de longitud, setiformes, ligeramente dirigidas hacia arriba en la base y luego ligeramente curvadas hacia abajo. El ápice del postmentón (gula) es el doble de ancho que su base. Pronoto en forma de silla de montar, el lóbulo anterior saliente y en forma de silla. Patas posteriores casi alcanzan el ápice del abdomen. Abdomen ovalado alargado, coloreado por el contenido intestinal. Protuberancias abdominales ausentes."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud corporal 3.5 mm. Cabeza pequeña, pálida. Antenas de 14 artejos. Abdomen ovalado alargado, negruzco por el contenido intestinal."
+  },
+  {
+   "label": "Otros",
+   "text": "Hembra (reina): esternito del segmento abdominal 7 la mitad de largo que de ancho, margen posterior convexo. El abdomen de la reina puede alcanzar 18 mm de longitud; la membrana lateral con protuberancias tenues y pálidas. Localidad: Borneo (Sarawak), península Malaya (Singapore). Tipo nº 305. El nido de esta especie casi siempre está acompañado por el de Termes umbrinus y lo rodea."
+  }
+ ]
+}

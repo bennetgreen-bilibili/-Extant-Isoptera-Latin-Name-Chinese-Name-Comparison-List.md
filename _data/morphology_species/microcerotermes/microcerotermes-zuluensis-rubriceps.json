@@ -1,0 +1,17 @@
+{
+  "zh_name": "红头亚种",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "兵蚁与主型相同，上颚或略更粗壮，但头红褐色，前胸背板前缘明显凹入。量度：头连上颚长 1.98 mm，头去上颚长 1.29 mm，头宽 0.84 mm。大型工蚁头几呈橙黄色，头宽 0.72 mm；小型工蚁头宽 0.65 mm。"
+    }
+  ],
+  "note": "据 Holmgren (1913) 的原始描述改写（原文作为 M. suluensis f. rubriceps 新型发表，现按 BSF 作 zuluensis 的亚种），原文德语，量度单位 mm；只描述兵蚁与工蚁，模式产地祖鲁兰 Mkosi。",
+  "sources": [
+    {
+      "id": "S0566",
+      "citation": "Holmgren, N.; 1913. Termiten aus Natal und dem Zululande. Entomologisk Tidskrift 34: 321-366. https://archive.org/details/entomologisk-tidskrift-34-2-4-321-366",
+      "locator": "p. 365"
+    }
+  ]
+}

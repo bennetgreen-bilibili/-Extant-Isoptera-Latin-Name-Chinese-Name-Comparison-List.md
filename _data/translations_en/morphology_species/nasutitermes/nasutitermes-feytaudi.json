@@ -1,0 +1,17 @@
+{
+ "note": "Description taken from Holmgren's 1910 original description of Eutermes Feytaudi (in German), including the alate and worker; no soldier is described; type locality Corcovado, Rio de Janeiro, Brazil. The measurements of this species and of itapocuensis are given in the same comparison table, whose separate columns were confounded by the OCR, so only values that can be assigned to this species are cited. The original is in German and the BHL scan OCR is only moderate: decimal points are often misread as commas or colons and some measurement digits are blurred; blurred values are not cited. The species was then placed in Eutermes and is now in Nasutitermes.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Very close to E. itapocuensis but distinctly smaller; transverse band slightly darker, the two yellow muscle scars on it less distinct than in that species; worker head on average larger than in E. itapocuensis (head length 1.55 versus 1.45 mm), otherwise identical."
+  },
+  {
+   "label": "Alate",
+   "text": "In appearance almost identical to E. itapocuensis, only distinctly smaller; transverse band darker, the two yellow spots less distinct. Measurements: head length about 1.65 mm; head width 1.40—1.46 mm; pronotum width 1.30—1.35 mm; width between the compound eyes about 0.90 mm; compound eye length 0.48—0.53 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Identical to the worker of E. itapocuensis, only the head on average larger: head length 1.55 mm (1.45 mm in the latter), head width 1.14 mm."
+  }
+ ]
+}

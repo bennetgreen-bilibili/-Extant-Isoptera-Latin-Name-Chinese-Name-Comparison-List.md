@@ -1,0 +1,21 @@
+{
+  "zh_name": "富勒土白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头红黄色；两侧平直而平行，不向前收狭。触角 15—16 节，通常 16 节，此时第 4 节稍短于第 3 节，第 3 节短于第 2 节。触角基后方的眼点不可见或极不明显。上颚闭合时上唇不达左上颚的齿。前胸背板前缘深凹。量度（mm）：头长 2.73—2.79，头宽 1.28—1.35，前胸背板长 0.48—0.51，前胸背板宽 0.93—0.96，胫节长 0.96，左上颚长 1.12。"
+    },
+    {
+      "label": "鉴别要点",
+      "text": "T. stercorivorus 头长比例更大；T. scrutor 上颚齿不明显且颚端弯曲较小；T. badius 体型大得多。"
+    }
+  ],
+  "note": "据 Emerson (1928) 原始描述改写，原文英文；正模为兵蚁（美国自然历史博物馆），模式产地刚果民主共和国 Niangara（Lang-Chapin 采集，1913 年 5 月 20 日）。有翅成虫与工蚁未记。异名引证、分布与图号未译。摘录按原文行末断字合并。",
+  "sources": [
+    {
+      "id": "S0075",
+      "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57 (Article VII). file: _unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon/part-001.txt",
+      "locator": "p. 465（Text Fig. 26）"
+    }
+  ]
+}

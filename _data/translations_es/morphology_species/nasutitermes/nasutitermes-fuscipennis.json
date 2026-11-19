@@ -1,0 +1,21 @@
+{
+ "note": "Adaptado de la descripción original de Haviland de 1898 (en inglés), nombre original Termes fuscipennis sp. n. (pl. 25, figs. 69—72), espécimen tipo No. 446 recolectado en Sarawak, Borneo. El original describe el alado (macho, hembra y reina), el soldado y el obrero, y registra el nido: construido sobre un tronco vivo, con el alcohol en que se conservaron los especímenes teñido de rojo. El escaneo está recortado al final de la descripción del macho (la proporción del 7.º esternito y parte de la frase sobre los «procesos laterales del abdomen» están incompletas), por lo que ese pasaje no se cita; las demás medidas están completas. El original usa «°» y «:» como puntos decimales (p. ej. «4°5 mm», «1:5 mm», «13:5 mm»), transcritos aquí como 4.5, 1.5 y 13.5. Hoy en Nasutitermes.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Alado de color castaño, cara ventral del abdomen pardo ocre, patas casi gris blanquecinas; ocelos no grandes, a dos veces su diámetro de los ojos compuestos, la fenestra muy pequeña; pronoto casi triangular, 1.5 mm de ancho; alas de 13.5 mm de longitud, pardo ahumado, la subcosta muy ancha con una franja amarilla a lo largo de su borde posterior, la media próxima y paralela a la submedia y alcanzando el ápice del ala, con 4 ramas en la mitad apical del ala. Soldado esbelto, 4.5 mm, cabeza pardo rojiza pálida, 1.2 mm de ancho, antenas de 12 segmentos, nasa cónica, mandíbulas vestigiales, postmentón aproximadamente la mitad de largo que de ancho. Cabeza del obrero pardo pálida, antenas de 15 segmentos."
+  },
+  {
+   "label": "Alado",
+   "text": "Macho con longitud del cuerpo 8 mm, de color castaño, cara ventral del abdomen pardo ocre, patas casi gris blanquecinas. Cabeza ovalada. Ocelos no grandes, a dos veces su diámetro de los ojos compuestos. La fenestra es muy pequeña. Antenas de 15 segmentos, segmento 3 algo más largo que el segmento 2. Clípeo ligeramente saliente y convexo. Pronoto 1.5 mm de ancho, casi triangular, los ángulos redondeados. Bordes posteriores del meso- y metanoto anchos y ligeramente cóncavos. Alas de 13.5 mm de longitud, pardo ahumado; la subcosta muy ancha con una franja amarilla a lo largo de su borde posterior; la media próxima y paralela a la submedia, alcanzando el ápice del ala y con 4 ramas en la mitad apical del ala. El 7.º esternito de la hembra es largo (el original está recortado en este punto); el abdomen de la reina puede superar los 16 mm de longitud, las membranas intersegmentarias abdominales con numerosos puntos de pigmento y pelos diminutos. Procesos laterales abdominales ausentes."
+  },
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 4.5 mm, esbelto. Cabeza 1.2 mm de ancho, pardo rojiza pálida. Segmento antenal 3 más largo que el segmento 2, segmento 6 ovalado. Nasa cónica. Mandíbulas vestigiales. Postmentón aproximadamente la mitad de largo que de ancho. Pronoto en forma de silla de montar, el lóbulo anterior levantado muy corto. Fémur posterior alcanzando el 7.º segmento abdominal. Abdomen rectangular, ligeramente arqueado dorsalmente. Procesos laterales abdominales ausentes."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 4.5 mm. Cabeza pardo pálida. Antenas de 15 segmentos. Pata posterior casi alcanzando el extremo del abdomen. Abdomen ovalado, arqueado dorsalmente."
+  }
+ ]
+}

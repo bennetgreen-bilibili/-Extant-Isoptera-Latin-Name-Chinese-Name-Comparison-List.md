@@ -1,0 +1,25 @@
+{
+ "zh_name": "红色须白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "体长 3.5 mm。头淡黄褐色（testaceous），头顶较深，胸部近淡黄褐；腹部深褐（fuliginous），胫节淡黄褐（ochraceous）。头宽 1 mm。触角长 2.5 mm，14 节，第 3 节长为第 2 节的两倍以上；第 4、5、6、7 节与第 3 节约等长，其余各节向端部渐短。象鼻细，其前面与头前面连成明显弧线。退化上颚清晰可见。后颏长不及宽。前胸背板鞍形，前叶短，隆起不多。后足超过腹部。腹部卵形，背板拱起不多。腹瘤缺。"
+  },
+  {
+   "label": "工蚁",
+   "text": "体长 3.5 mm。头与胸部淡黄褐至栗色（testaceo-castaneous）；腹部深褐；足深褐（umbrinous）。触角长 2.5 mm，15 节。后足股节达第 8 腹节。腹部卵形，背板强拱。"
+  },
+  {
+   "label": "其他",
+   "text": "分布：马来半岛（霹雳）。模式标本编号 No. 115。"
+  }
+ ],
+ "note": "据 Haviland 1898 原始描述（原文作 TERMES RUFUS, 新种）。仅描述兵蚁与工蚁，无有翅成虫。原文经 BHL/Zenodo 扫描本 OCR 抽取，小数点被识别为杂符（「3°5 mm」= 3.5 mm、「2°5 mm」= 2.5 mm），词形有误（papille=papillae、tibie=tibiae），已按上下文核对；量度单位为 mm。",
+ "sources": [
+  {
+   "id": "S0555",
+   "citation": "Haviland G. D. 1898. Observations on Termites; with Descriptions of new Species. Journal of the Linnean Society of London, Zoology 26: 308–440. https://doi.org/10.1111/j.1096-3642.1898.tb00405.x",
+   "locator": "pp. 438–439"
+  }
+ ]
+}

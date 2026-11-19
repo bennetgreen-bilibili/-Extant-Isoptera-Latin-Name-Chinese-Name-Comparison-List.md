@@ -1,0 +1,21 @@
+{
+ "note": "Reescrito a partir de la descripción original en inglés de Mjöberg 1920 (especie nueva, combinación original Hamitermes laurensis); original en inglés; el original describe solo el soldado, el obrero y los reproductores suplementarios neoténicos, sin describir el alado, por lo que se omite esa sección. El OCR del ejemplar escaneado leyó «1.05», «1.10» y «0.89» como «l.os», «l,io» y «0,S9»; aquí se restituyen por contexto y forma de las letras. Todas las medidas son valores únicos, no convertidos en intervalos ni redondeados.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Próxima a H. meridionalis pero claramente distinta: la cabeza del soldado es menor, más corta y más amarillo pálido, menos redondeada en el margen posterior y relativamente más ancha, con los lados algo más estrechados hacia delante; las mandíbulas son más cortas y gruesas, con dientes más romos; el labro es algo menor y menos ancho; los artejos antenales 3 y 4 están fuertemente fusionados y son muy cortos. El obrero se parece al de H. meridionalis pero es más pequeño, con 15 artejos antenales. El nido contiene a menudo 20—30 reinas neoténicas."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza menor, más corta y más amarillo pálido, menos redondeada en el margen posterior, relativamente más ancha, con los lados algo más estrechados hacia delante que en H. meridionalis; mandíbulas más cortas y gruesas, dientes más romos; labro algo menor y más estrecho; artejos antenales 3 y 4 fuertemente fusionados y muy cortos. Medidas: longitud del cuerpo con mandíbulas 4.7 mm, longitud de la cabeza con mandíbulas 1.84 mm, longitud de la cabeza sin mandíbulas (hasta el ápice del labro) 1.5 mm, anchura de la cabeza 1.05 mm, longitud del pronoto 0.32 mm, anchura del pronoto 0.67 mm, anchura del abdomen 1.33 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Como H. meridionalis pero más pequeño; antenas de 15 artejos. Medidas: longitud del cuerpo 4.3 mm, longitud de la cabeza 1.12 mm, anchura de la cabeza 1 mm, longitud del pronoto 0.29 mm, anchura del pronoto 0.65 mm, anchura del abdomen 1.39 mm."
+  },
+  {
+   "label": "Otros",
+   "text": "Reproductores suplementarios neoténicos: cuerpo blanco, con 8 terguitos pardo pálido. Cabeza redonda, ojos compuestos negros, redondos y no salientes; antenas de 15 artejos, artejo 3 muy corto y fusionado con el artejo 4; pronoto densamente cubierto de pelos largos, ancho y corto, escotado en el medio del margen posterior. Medidas: longitud del cuerpo 10 mm, longitud de la cabeza 1.14 mm, anchura de la cabeza 1.10 mm, longitud del pronoto 0.42 mm, anchura del pronoto 0.89 mm, anchura del abdomen 3 mm."
+  }
+ ]
+}

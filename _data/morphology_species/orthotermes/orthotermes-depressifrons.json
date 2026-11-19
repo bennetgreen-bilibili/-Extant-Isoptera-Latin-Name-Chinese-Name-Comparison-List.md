@@ -1,0 +1,25 @@
+{
+ "zh_name": "陷额直白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "属征（Orthotermes 新属）：兵蚁头形可与 Basidentitermes 相区别——额面中部有横压痕、前缘深凹；另与 Pericapritermes 新属、Ceratotermes 新属并列于检索表。本种兵蚁以额面横压低、前胸背板前叶后缘不凹入、第一对足基节外缘具 3 根刺为特征。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "体秆黄色；头黄褐铁锈色，上颚黑色。头见图版 LXXIII 图 1—2；触角 13 节，第 1 节近为第 3 节长的两倍，第 4 节较第 3 节略长、较第 5 节几乎不短。前胸背板前叶后缘不凹入。足：第一对足（图版 LXXIII 图 5）基节外缘具 3 根刺，胫节内缘具 2—3 根刺状毛及另一些毛；第二对足（图版 LXXIII 图 6）胫节具粗壮的外刺。腹部背板具极微小的毛（或极短毛，后部有更短的毛）及少数后部的相当短的毛，腹板具较短的毛、极短的毛及若干后部的较长毛。量度（毫米）：体长 3.9；头长 1.50、头宽 0.78；上颚长 0.87；触角长 1.20；后足胫节 0.65。"
+  },
+  {
+   "label": "工蚁",
+   "text": "体秆黄色，头黄白色，腹部因含食物而呈灰色。触角 13 节：第 1 节较第 2 节约长 1/4，第 2 节为第 3 节长的两倍，第 4 节较第 3 节近长 1/4 并与第 5 节近等。前胸背板前叶不凹入。足与兵蚁相似。腹部背板具较短的毛、极短的毛，后部另有若干后部的毛。量度（毫米）：体长 3.2；头长 0.65、头宽 0.68；触角长 0.92；后足胫节 0.52。"
+  }
+ ],
+ "note": "据 Silvestri 1914 改写，原文拉丁文（Contribuzione alla conoscenza dei Termitidi e Termitofili dell'Africa occidentale. I. Termitidi，Bollettino del Laboratorio di Zoologia Generale e Agraria della R. Scuola Superiore d'Agricoltura in Portici 9）。模式产地：黄金海岸（今加纳）Aburi。生物学：作者在一株倒木下的通道内采得两头兵蚁与两头工蚁。本种为 Orthotermes 新属的模式种，属征段另附与 Basidentitermes 的比较。原文以小逗号作小数点（如 1,50 即 1.50 毫米），本条目改作小数点；图版 LXXIII 图 1—10（兵蚁头正面与侧面、上颚、三对足、工蚁上颚与第二对足胫节端部）未译。",
+ "sources": [
+  {
+   "id": "S0534",
+   "citation": "Silvestri F. 1914. Contribuzione alla conoscenza dei Termitidi e Termitofili dell'Africa occidentale. I. Termitidi. Bollettino del Laboratorio di Zoologia Generale e Agraria della R. Scuola Superiore d'Agricoltura in Portici 9. https://archive.org/details/bollettinodellab9191415rscufo",
+   "locator": "pp. 124–125 / Contribuzione-alla-conoscenza-dei-Termitidi-e-Termitofili-dell’Africa-occidental"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "zh_name": "指名亚种",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "指名亚种即 Holmgren 描述的主型：体色远较 parvus 为浅，头褐色、唇基几呈黄色，翅狭。连翅体长 7 mm，去翅体长 5 mm，前翅长（5.5—）6 mm、宽 1.57 mm，头长 1.03 mm，前胸背板宽 0.64 mm。复眼较 parvus 小、突出较少；单眼与复眼相距超过其直径；前胸背板后缘微凹。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头长方形，长明显大于宽，前部似横截；上颚较短粗、不规则细锯齿状；触角 13 节，第 3 节多短于第 4 节且较窄。体长 4—5.5 mm，头连上颚长 1.56—2.09 mm，头宽 0.65—0.85 mm，前胸背板宽约 0.57 mm。同一巢内兵蚁头长变异极大；比主型头更厚、相对更宽的个体曾被另立为 f. laticeps，更大的个体另立为 f. grandis，头红黄或红褐、上颚几直而端部内折者另立为 f. hamatus。"
+    }
+  ],
+  "note": "指名亚种，内容据 Holmgren (1913) 对主型（原文印作 Microcerotermes suluensis）的原始种级描述改写，原文德语，量度单位 mm。模式产地祖鲁兰 Entendweni、Mkosi、Somkele、Mtewa。",
+  "sources": [
+    {
+      "id": "S0566",
+      "citation": "Holmgren, N.; 1913. Termiten aus Natal und dem Zululande. Entomologisk Tidskrift 34: 321-366. https://archive.org/details/entomologisk-tidskrift-34-2-4-321-366",
+      "locator": "p. 362—364"
+    }
+  ]
+}

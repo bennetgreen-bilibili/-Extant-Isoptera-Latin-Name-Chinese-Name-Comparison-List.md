@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from Maiti 2006; original in English; Table 16 (brunneus and crassus) is misaligned in rows and columns in the extracted text: the value for head length to the lateral base of the mandible of this species is missing, and in the same table the head index is not consistent with the head width and head length (e.g. crassus head width 1.23, head length 0.65, yet head index 0.82), so the measurements of that table are not recorded at all; only the ocellus values given explicitly in the text are recorded.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Alate postclypeus more than three times wider than long; antennae 20-segmented, segment 3 or 4 the shortest and narrowest; ocellus length 0.10—0.14 mm, the distance to the compound eye almost half its length; forewing scale almost twice the length of the hindwing scale, wing membrane without hairs but covered with micrasters. Soldier head deepest anteriorly, labrum bright golden yellow with a transparent tip, antennae 17—18-segmented, segment 3 the shortest."
+  },
+  {
+   "label": "Alate",
+   "text": "Head, thorax and abdomen dark brown and hairy, paler ventrally; wing scales darker than the rest. Head hemispherical posteriorly, narrowed in front of the compound eyes; fontanelle indistinct. Antennae 20-segmented, segment 3 or 4 the shortest and narrowest; postclypeus more than three times wider than long; compound eyes medium-sized; ocellus length 0.10—0.14 mm, the distance to the compound eye almost half its length. Pronotum narrower than the head, anterior margin broad and shallowly concave, posterior margin weakly wavy. Forewing scale almost twice the length of the hindwing scale; the bases of the costa, radius sector, media and cubitus distinct, the other veins weak; wing membrane without hairs but covered with micrasters."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head and pronotum dark brown, the anterior part of the head darkest; labrum bright golden yellow with a transparent tip. Head and thorax moderately hairy. Head longer than wide, widest in the posterior third, gradually narrowed anteriorly; antennae 17—18-segmented, segment 3 the shortest; fontanelle medium-sized; labrum widest in the basal third, narrowed anteriorly, the tip narrowly rounded; pronotum distinctly narrower than the head width, wider than long, anterior margin with a broad median concavity, posterior margin shallowly concave."
+  },
+  {
+   "label": "Other",
+   "text": "The material studied is a vial of specimens in the Zoological Survey of India (Kolkata) (ZSI Reg. No. 2764/H8), containing 4 alates, 3 soldiers and 3 workers, collected 45 miles north of Galena, Western Australia, by J. H. Calaby on 1955-10-26. Type locality: north of the Murchison River, near Galena, Western Australia."
+  }
+ ]
+}

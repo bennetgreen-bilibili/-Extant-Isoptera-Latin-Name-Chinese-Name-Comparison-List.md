@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from Haviland's 1898 original description (in English), original name Termes fuscipennis sp. n. (pl. 25, figs. 69—72), type specimen No. 446 collected in Sarawak, Borneo. The original describes the alate (male, female and queen), soldier and worker, and records the nest: built on a living tree trunk, the alcohol in which the specimens were preserved having been stained red. The scan is cropped at the end of the male description (the proportion of the 7th sternite and part of the sentence on the 'abdominal lateral processes' are incomplete), so that passage is not cited; the remaining measurements are complete. The original uses '°' and ':' as decimal points (e.g. '4°5 mm', '1:5 mm', '13:5 mm'), transcribed here as 4.5, 1.5 and 13.5. Now in Nasutitermes.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Alate chestnut-coloured, abdominal venter ochre-brown, legs almost grey-white; ocelli not large, twice their diameter from the compound eyes, the fenestra very small; pronotum nearly triangular, 1.5 mm wide; wings 13.5 mm long, smoke-brown, the subcosta very broad with a yellow stripe along its posterior margin, the media close to and parallel with the submedia and reaching the wing tip, giving off 4 branches in the apical half of the wing. Soldier slender, 4.5 mm, head pale reddish brown, 1.2 mm wide, antennae 12-segmented, nasus conical, mandibles vestigial, postmentum about half as long as wide. Worker head pale brown, antennae 15-segmented."
+  },
+  {
+   "label": "Alate",
+   "text": "Male body length 8 mm, chestnut-coloured, abdominal venter ochre-brown, legs almost grey-white. Head oval. Ocelli not large, twice their diameter from the compound eyes. The fenestra is very small. Antennae 15-segmented, segment 3 slightly longer than segment 2. Clypeus slightly projecting and convex. Pronotum 1.5 mm wide, nearly triangular, the corners rounded. Posterior margins of the meso- and metanota broad and slightly concave. Wings 13.5 mm long, smoke-brown; the subcosta very broad with a yellow stripe along its posterior margin; the media close to and parallel with the submedia, reaching the wing tip and giving off 4 branches in the apical half of the wing. Female 7th sternite long (the original is cropped at this point); the queen's abdomen may exceed 16 mm in length, the abdominal intersegmental membranes with numerous minute pigment dots and hairs. Abdominal lateral processes absent."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 4.5 mm, slender. Head 1.2 mm wide, pale reddish brown. Antennal segment 3 longer than segment 2, segment 6 oval. Nasus conical. Mandibles vestigial. Postmentum about half as long as wide. Pronotum saddle-shaped, the raised anterior lobe very short. Hind femur reaching the 7th abdominal segment. Abdomen rectangular, slightly arched dorsally. Abdominal lateral processes absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 4.5 mm. Head pale brown. Antennae 15-segmented. Hind leg almost reaching the end of the abdomen. Abdomen oval, arched dorsally."
+  }
+ ]
+}

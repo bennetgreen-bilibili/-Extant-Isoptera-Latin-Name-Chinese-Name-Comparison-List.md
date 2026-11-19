@@ -1,0 +1,29 @@
+{
+  "zh_name": "规律象白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "体长 6.5 mm，背面深栗色，腹面赭褐色。头卵形，被毛。单眼与复眼相距一个眼径。小窗极微小。触角 14 节，第 3 节很短。后唇基几不凸。前胸背板宽 1.2 mm，近半月形，前侧角圆，略下凹。中、后胸背板后缘微具缺刻。翅长 8.5 mm，烟色；亚前缘脉宽；中脉细，较亚前缘脉更近亚中脉，达翅端并分出 2—3 支；亚中脉达距翅端约 1/10 处，具约 10 条分支。后足不达腹部末端。腹瘤缺。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体长 4 mm。头宽 1.0 mm，赭色（ochraceous）。触角 13 节，第 2 节长于第 3 节，第 3 节长于第 4 节。象鼻（rostrum）细。上颚退化。后颏长等于宽。前胸背板鞍形，前部短但抬得很高。后足超过腹部。腹部长卵形。腹瘤缺。"
+    },
+    {
+      "label": "工蚁",
+      "text": "体长 6 mm。头淡黄白色。触角 13 节。腹部大，卵形。"
+    },
+    {
+      "label": "其他",
+      "text": "雌性：第 7 腹节腹板长为宽之半，后缘均匀圆。产地：婆罗洲（Sarawak）。模式号 279。"
+    }
+  ],
+  "note": "据 Haviland 1898 原始描述（英文，原文置于 Termes 属下）。兵蚁上颚退化、象鼻细，触角 13 节。原文经 Internet Archive 扫描本 OCR 抽取，学名与个别词形有识别错误（如 eostratus 应为 rostratus、latierons 应为 laticornis），量度数字已按上下文核对。",
+  "sources": [
+    {
+      "id": "S0546",
+      "citation": "Haviland G. D. 1898. Observations on termites; with descriptions of new species. Journal of the Linnean Society of London, Zoology 26: 358–442.",
+      "locator": "p. 420, pl. 25, figs. 73–75"
+    }
+  ]
+}

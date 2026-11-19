@@ -1,0 +1,17 @@
+{
+ "note": "Adaptado de la descripción a nivel de especie de Bourguignon y Roisin (2011), en inglés; el original describió solo el soldado y registró el alado como desconocido, por lo que no hay sección de alado. Las medidas conservan las unidades mm originales, con las abreviaturas entre paréntesis en su primera aparición.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Próximo a Coptotermes remotus, del que se distingue fácilmente por los ápices mandibulares más cortos y menos curvados."
+  },
+  {
+   "label": "Soldado",
+   "text": "Pequeño. La parte posterior de la cabeza es aproximadamente dos veces más ancha que la anterior (en la base de las mandíbulas), con unos 10 pelos; antenas generalmente de 15 artejos; pronoto con unos 15 pelos, la parte anterior algo mayor que la posterior; mandíbulas muy cortas, el ápice apenas curvado. Medidas (mm, 30 individuos de 10 colonias): longitud de la cabeza hasta la glándula frontal (HLF) 0,92—1,07; longitud de la cabeza con mandíbulas (HLL) 1,22—1,48; anchura de la cabeza (HW) 0,82—0,98; longitud del pronoto (PL) 0,27—0,41; anchura del pronoto (PW) 0,50—0,70; longitud de la mandíbula derecha (RML) 0,56—0,74; anchura del postmentón (MPW) 0,23—0,36; longitud de la tibia posterior (T3L) 0,75—0,88."
+  },
+  {
+   "label": "Otros",
+   "text": "Distribuida en el este de Nueva Guinea y en Nueva Bretaña; el nombre específico honra a la figura legendaria flamenca Gambrinus."
+  }
+ ]
+}

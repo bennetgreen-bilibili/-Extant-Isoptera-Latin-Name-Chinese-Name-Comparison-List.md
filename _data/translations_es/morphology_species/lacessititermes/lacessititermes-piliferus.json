@@ -1,0 +1,13 @@
+{
+ "note": "Reescrito a partir de la descripción específica de Holmgren (1913); el original está en alemán. El adulto figura en el original como «unbekannt»; sólo se describen el soldado y el obrero, con medidas en mm. La anchura cefálica del obrero está dañada por el OCR en el texto escaneado (figura como «0,i*ö») y no se ha incluido. El original señala que la especie podría ser sólo una raza (Rasse) de sordidus.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Cabeza negra, también negra la punta del nasus; cuerpo de color pardo claro, antenas y fémures parduscos. Cabeza con pocas sedas, terguitos abdominales con una fila de sedas posteriores. Cabeza más ancha y más gruesa que en sordidus. Antenas de 14 artejos, artejo 3 más largo que el 2, artejo 4 más largo que el 3. Medidas: longitud del cuerpo 3.7—4 mm, cabeza con nasus 1.67 mm, cabeza sin nasus 0.83 mm, anchura de la cabeza 1.03 mm, anchura del pronoto 0.57 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "No se obtuvieron obreros maduros; los obreros disponibles son de color claro; medidas: longitud del cuerpo 3.5 mm, anchura del pronoto 0.57 mm."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+  "zh_name": "完胜弓白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "有翅成虫：囟为长卵形，常部分或完全凹陷，小于单眼；左上颚第 3 缘齿突出于其与第 1 缘齿之间的切缘之外；端齿与第 1 缘齿尖之间的距离小于第 1 与第 3 缘齿之间的距离。兵蚁：体型变异远大于以往记载，前足基节无刺。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "在 Sjöstedt 描述之外补充：囟长卵形，常部分或完全凹陷，小于单眼；左上颚第 3 缘齿突出于连接第 1 缘齿的切缘之外；端齿尖与第 1 缘齿尖之间的距离小于第 1 与第 3 缘齿尖之间的距离。量度：头宽（连复眼）1.02—1.11，复眼最大直径 0.28—0.31，单眼长 0.06—0.09、宽 0.10—0.16，单眼至复眼距 0.02—0.07，前胸背板宽 0.86—0.97、长 0.54—0.61，后足胫节长 1.00—1.14，前翅长 8.00—10.7。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体型变异较以往记载大得多；前足基节无刺。量度：头长 1.14—1.66，头最宽 1.02—1.30，上颚基宽 0.70—0.87，头厚 0.82—1.00，左上颚长 0.61—0.75，前胸背板长 0.30—0.40、宽 0.61—0.75。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0554",
+      "citation": "Sands, W. A. 1959. A revision of the termites of the genus Amitermes from the Ethiopian region (Isoptera, Termitidae, Amitermitinae). Bulletin of the British Museum (Natural History), Entomology 8: 129-156.",
+      "locator": "pp. 135-137 (Amitermes evuncifer Silvestri)"
+    }
+  ],
+  "note": "据 Sands 1959 年英文修订（Amitermes evuncifer Silvestri），原描述见 Silvestri 1912 年 Ann. Mus. civ. Stor. nat. Genova 45: 211-255；本文对 Sjöstedt 的描述作补充并给量度区间与均值，条目只采区间。异名与文献沿革见原文。"
+}

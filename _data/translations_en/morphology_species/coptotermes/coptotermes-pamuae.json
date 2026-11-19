@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the species-level description of Bourguignon & Roisin (2011), originally in English; the original describes only the soldier and records the alate as Unknown, so there is no alate section. The measurements are kept in mm as in the original, with abbreviations spelled out in brackets on first occurrence.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Closely related to Coptotermes grandiceps and imperfectly separated from it; the main differences are the smaller soldier, the fewer pronotal setae and the weaker mandibular curvature. Some individuals cannot be assigned with certainty."
+  },
+  {
+   "label": "Soldier",
+   "text": "Medium-sized. Head elongate, oval, slightly wider posteriorly than anteriorly, with about 30 setae; frontal gland narrow, opening forwards; antennae usually 13-segmented, sometimes 14-segmented; pronotum short and narrow, with about 40 setae; mandibles elongate, slightly curved at the apex. Measurements (mm, 1 paratype; in brackets 12 individuals from 4 colonies): head length to the frontal gland (HLF) 1.28 (1.11—1.27); head length including the mandibles (HLL) 1.70 (1.58—1.79); head width (HW) 1.12 (1.00—1.10); pronotum length (PL) 0.41 (0.31—0.44); pronotum width (PW) 0.79 (0.63—0.74); right mandible length (RML) 0.77 (0.89—0.98); postmentum width (MPW) 0.37 (0.28—0.32); hind tibia length (T3L) 0.82 (0.92—1.08)."
+  },
+  {
+   "label": "Other",
+   "text": "Type locality Pamua on San Cristobal, Solomon Islands; in Papua New Guinea it is known only from the Fly savannas in the south and from the Port Moresby area."
+  }
+ ]
+}

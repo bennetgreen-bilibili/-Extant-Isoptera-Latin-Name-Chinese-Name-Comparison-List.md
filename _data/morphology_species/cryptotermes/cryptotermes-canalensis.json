@@ -1,0 +1,21 @@
+{
+ "zh_name": "卡纳拉堆砂白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "头浅褐，腹面黄，翅带褐色、前缘脉较深；毛被稀疏，翅面密布刻点。头四角状卵形；复眼中等大，突出不多；单眼中等大，几乎与复眼相接；触角 16 节，第 2 节略长于第 3 节，第 3 节与第 4 节等长，自第 9 节起各节逐渐变长。前胸背板约与头等宽，横四角形、角圆，前缘内凹。翅长而窄：径脉伸过翅的第一个四分之一；径分脉具 7—8 条前缘分支；中脉长而不分枝，在翅最后四分之一处与径分脉相接；肘脉标记不很强，具 14—15 条多不分枝的分支。尾须短；雄虫具刺毛状附器。量度：连翅体长 8.5 mm，不连翅 5 mm，前翅长 7 mm，头宽 0.91 mm，前胸背板宽 0.91 mm、长 0.49 mm。"
+  },
+  {
+   "label": "其他",
+   "text": "兵蚁与工蚁未知。模式产地新喀里多尼亚 Canala，1911 年 10 月 30 日采；原作者据其细长体形与 Glyptotermes 相似而倾向置于 Procryptotermes 亚属，但因缺兵蚁未能确定。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0523",
+   "citation": "Holmgren N. & Holmgren N. 1915. Termiten aus Neu-Caledonien und den Loyalty-Inseln. Nova Caledonia. Forschungen in Neu-Caledonien und auf den Loyalty-Inseln, Zoologie 2(2): 85–93. [in German]",
+   "locator": "pp. 88—89"
+  }
+ ],
+ "note": "据 Holmgren & Holmgren 1915 的德文原始描述改写，原文作「Calotermes (Procryptotermes?) canalensis 新种」，模式产地新喀里多尼亚 Canala，1911 年 10 月 30 日采。原文仅有翅成虫，兵蚁与工蚁未知；作者因无兵蚁而无法判定应归 Cryptotermes 亚属还是 Procryptotermes 亚属，但体形细长近 Glyptotermes，倾向后者。翅脉分支数与节数照录。"
+}

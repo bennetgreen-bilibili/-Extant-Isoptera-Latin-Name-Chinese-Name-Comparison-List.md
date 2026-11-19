@@ -1,0 +1,33 @@
+{
+ "zh_name": "异背近扭白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 Pericapritermes urgens 极近，区别在于：有翅成虫（蚁后）体型略大、触角第 3 节略长、中胸与后胸的形状，以及兵蚁略大。"
+  },
+  {
+   "label": "其他",
+   "text": "蚁后（Regina）：体黄褐栗色；头近栗色；唇基黄褐铁锈色；中胸与后胸部分呈黄白色；第 1—5 腹板除淡黄褐色的两侧外为黄白色；膜质部污奶油色；侧板具红色斑点；足红铁锈色。头（图版 LXXXII，1—2）的唇基略膨大，囟窗（fenestra）延长椭圆形、黄白色；复眼大而明显突出；单眼与复眼的距离小于单眼的长径；触角不全，第 2 节较第 3 节略长，第 3—5 节彼此长度近等。前胸背板后缘几乎不凹入；中胸与后胸向后方略收狭，后缘宽而浅地切入，后角尖。量度（毫米）：体长 25，腹宽 5；头长 1.04、头宽 0.91；复眼长径 0.39；后足胫节 1.34。"
+  },
+  {
+   "label": "若虫",
+   "text": "体秆黄色，复眼变黑，触角 15 节，第 2 节较第 3 节略长。量度（毫米）：体长 7，翅芽长 2.8。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "大兵蚁：体黄白色，头赭色，前方多多少少带铁锈色，上颚黑色。头（图版 LXXXII，3—4）长为宽的两倍，形状为典型式；触角 14 节，第 4 节较第 3 节短，第 5 节较第 4 节略长。前胸背板前叶后缘中部略凹入并具少数长毛；前胸、中胸、后胸背板后缘各有若干长毛。第一对足基节外缘具 2—3 根短毛，胫节内缘具少数不强的毛。腹部背板具极微小的毛、相当多的短毛以及若干长毛（尤以后部为多），腹板具极微小的毛、短毛与后部的长毛。量度（毫米）：体长 6.5；头长 2.86、头宽 1.39；左上颚长 1.72；触角长 2.40；后足胫节 1.32。小兵蚁：触角 14 节，第 3 节与第 2 节近等并较第 4 节长。量度（毫米）：体长 5.8；头长 2.54、头宽 1.28；左上颚长 1.64；触角长 2.10；后足胫节 1.15。其余兵蚁大小居中。"
+  },
+  {
+   "label": "工蚁",
+   "text": "体奶油色，头赭黄至黄白色，腹部因含食物而呈灰色。头的唇基略膨大；触角 14 节，第 2 节较第 3 节约长 1/4，第 3 节约为第 4 节的两倍长，第 5 节较第 4 节约长 1/4。前胸背板前叶后缘中部不凹或几乎不凹。足毛发达：第一对足基节外侧具 2 根短而相当粗壮的毛，胫节的毛较前一种更细。腹部背板与腹板具较短的毛、短毛及若干后部的相当长的毛。量度（毫米）：体长 4；头长 0.97、头宽 1.04；触角长 1.35；后足胫节 0.92。"
+  }
+ ],
+ "note": "据 Silvestri 1914 改写，原文拉丁文（Contribuzione alla conoscenza dei Termitidi e Termitofili dell'Africa occidentale. I. Termitidi，Bollettino del Laboratorio di Zoologia Generale e Agraria della R. Scuola Superiore d'Agricoltura in Portici 9）。模式产地：几内亚 Kindia。生物学：本种在地面用腐殖土筑亚圆锥形巢，高约 20 厘米、基部直径约相同；作者在一个巢的王室中见到三头真蚁后与一头蚁王；兵蚁以兵蚁上颚弹跳（如作者对 Neocapritermes 所记），约每百头工蚁一兵。原文以小逗号作小数点（如 2,86 即 2.86 毫米），本条目改作小数点；图版 LXXXII 图 1—4（蚁后头与前胸背板正面、侧面，兵蚁头正面、侧面）未译。",
+ "sources": [
+  {
+   "id": "S0534",
+   "citation": "Silvestri F. 1914. Contribuzione alla conoscenza dei Termitidi e Termitofili dell'Africa occidentale. I. Termitidi. Bollettino del Laboratorio di Zoologia Generale e Agraria della R. Scuola Superiore d'Agricoltura in Portici 9. https://archive.org/details/bollettinodellab9191415rscufo",
+   "locator": "pp. 137–138 / Contribuzione-alla-conoscenza-dei-Termitidi-e-Termitofili-dell’Africa-occidental"
+  }
+ ]
+}

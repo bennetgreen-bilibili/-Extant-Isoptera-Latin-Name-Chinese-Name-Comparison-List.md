@@ -1,0 +1,25 @@
+{
+  "zh_name": "甘布里努斯乳白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "与 Coptotermes remotus 近缘，上颚端部更短、弯曲更弱，易于区分。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体型小。头后部宽约为前部（上颚基部处）的两倍，约 10 根刚毛；触角一般 15 节；前胸背板约 15 根刚毛，前部略大于后部；上颚甚短，端部几乎不弯曲。量度（mm，10 群体 30 头）：头长至额腺（HLF）0.92—1.07；头长连上颚（HLL）1.22—1.48；头宽（HW）0.82—0.98；前胸背板长（PL）0.27—0.41；前胸背板宽（PW）0.50—0.70；右上颚长（RML）0.56—0.74；后颏宽（MPW）0.23—0.36；后足胫节长（T3L）0.75—0.88。"
+    },
+    {
+      "label": "其他",
+      "text": "分布于新几内亚东部与新不列颠岛；种名纪念佛兰德斯传说人物 Gambrinus。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0038",
+      "citation": "Bourguignon T.; Roisin Y. 2011. Revision of the termite family Rhinotermitidae (Isoptera) in New Guinea. ZooKeys 148: 55–103. https://doi.org/10.3897/zookeys.148.1826",
+      "locator": "p. 67"
+    }
+  ],
+  "note": "据 Bourguignon & Roisin (2011) 种级描述改写，原文英文；原文只描述了兵蚁，有翅成虫记为 unknown，故无有翅成虫一节。量度保留原文 mm 单位，缩写首次出现处以括号标注。"
+}

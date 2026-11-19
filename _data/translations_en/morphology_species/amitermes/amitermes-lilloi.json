@@ -1,0 +1,21 @@
+{
+ "note": "Rewritten from the new species description of Rocha & Cancello (2020), original in English. The original gives the soldier, the worker and the gut anatomy; measurements are in mm, the abbreviations given in parentheses at their first occurrence and only the morphological terms used thereafter, ranges as in the original.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The soldier can be distinguished from the other South American species: the enteric-valve seating is conspicuous, clearly visible even in the soldier; the mandibles are slender and elongate, with distinct marginal teeth slightly turned backwards, similar to A. amicki, A. amifer and A. foreli, but the body is smaller (than in A. foreli), and the mandibles are more slender and elongate, proportionally larger and with sharper marginal teeth (than in A. amifer)."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head nearly rectangular; in profile the vertex convex from the posterior margin to the middle, with a distinct depression distally; clypeus short, rounded at the sides, the anterior margin broadly concave, forming projecting rounded corners; mandibles very short and strongly curved, very broad at the base, with one large broad blunt triangular median tooth; antennae 14-segmented; pronotum rounded at the anterior and posterior margins; clypeus with 8—10 setae, the longest pair at the end. Measurements (10 soldiers from 4 colonies, mm): head length including mandibles (CLM) 0.90—0.95; head length (LH) 1.45—1.50; head width (WH) 1.03—1.08; pronotum length (LT) 0.90—0.98."
+  },
+  {
+   "label": "Worker",
+   "text": "Mandibles of the typical wood-feeding type. Apical tooth of the left mandible slightly larger than M1+2, M3 clearly discernible, with a distinct cutting edge between the marginal teeth; right mandible with the apical tooth larger than M1, M2 distinct, with a distinct posterior cutting edge, the molar plate with 4 distinct ridges."
+  },
+  {
+   "label": "Other",
+   "text": "Holotype soldier, an individual of specimen MZUSP 8156, collected on 30 January 1964 (month 1) by W. Weyrauch; type locality Tapia, Tucumán Province, Argentina. The specific name honours the Argentine naturalist Miguel Lillo. The gut anatomy (enteric-valve seating, segments P1/P3/P4, enteric-valve apparatus) is the comparative anatomical basis for the South American species of the genus."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "zh_name": "布鲁斯解甲白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "有翅成虫较 A. pacificus 小，囟（透明）较小，单眼较大且距眼较近；与 A. pacificus 在检索表中位置相近。Snyder 1926 曾将此虫误定为 A. pacificus。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "雌虫：头深栗褐，密被长毛。囟透明，圆形。眼黑色，近圆形，突出；单眼近椭圆形，上缘突出，与眼的距离略小于其长径。后唇基浅栗褐，分两叶，突出，被长毛。触角黄褐，15 节，第 3 节短。前胸背板较头略浅，鞍形，两侧圆滑过渡至后缘，密被长毛。翅烟灰色；前翅中脉较近肘脉而远于亚前缘脉，具 2 条分支达翅端；肘脉具 10 条支脉达翅下缘，宽度占翅之半。足黄褐。腹部背板栗褐，被长毛。量度（mm）：有翅成虫全长 14.00；脱翅成虫长 7.50；头长（至上唇端）1.70；前胸背板长（至前角）0.80；前翅长 12.00；后足胫节长 1.50；眼长径 0.25；头宽（眼处）1.40；前胸背板宽 1.40；前翅宽 3.00。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0706",
+      "citation": "Snyder, T. E. 1955. Anoplotermes brucei, new species, from Bolivia (Isoptera, Termitidae). Proceedings of the Entomological Society of Washington 57 (6): 299-300. https://archive.org/details/biostor-99270",
+      "locator": "pp. 299—300"
+    }
+  ],
+  "note": "据 Snyder 1955 年英文原始描述改写；原文英文，描述雌性有翅成虫（模式产地玻利维亚 Rosario, Lake Romagna，1921 年 11 月 W. M. Mann 采；全模为有翅成虫）；原文注明此前（Snyder 1926）曾把该种误定为 A. pacificus Fr. Müller，本种名献予 E. L. Bruce。"
+}

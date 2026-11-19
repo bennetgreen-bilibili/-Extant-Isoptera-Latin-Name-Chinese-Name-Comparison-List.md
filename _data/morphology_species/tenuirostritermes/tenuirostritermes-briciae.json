@@ -1,0 +1,21 @@
+{
+  "zh_name": "布瑞西亚薄嘴白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头浅栗褐，象鼻色较深（端部除外），部分个体（未成熟？）头呈草黄色；头深缢缩，头与象鼻形状与 Constrictotermes incisus 相似，但头与体更长、更宽、更厚；头基部最宽，与胸成角。头的毛与刚毛同 C. incisus。头腹面略浅。触角黄褐，13 节，被短毛：第 1 节长、圆柱形、粗；第 2 节短、较细、圆柱形，长不及第 1 节之半；第 3 节棒状、长、基部细，长为第 2 节的 2 倍；第 4 节等于第 2 节；第 5 节短于第 3 节；末节长、细、近卵形。前胸背板浅黄褐、鞍形、宽于长，比 incisus 更长，前区被短毛，前缘与侧缘有少数长刚毛。中胸与后胸背板同色，比 incisus 更长。腹部背面略深（灰），腹面较浅；腹部被长金黄色毛。足淡黄、长而细。量度：兵蚁全长 3.25—3.85 mm；头连象鼻长 1.40—1.50 mm；头长（不连象鼻）0.75—1.0 mm；象鼻长 0.45—0.50 mm；腹与胸合计长 2.10—2.70 mm；前胸背板长 0.105—0.107 mm；后足胫节长 0.808—1.10 mm；头宽 0.60—0.64 mm。"
+    },
+    {
+      "label": "其他",
+      "text": "原文以 Constrictotermes (Tenuirostritermes) briciae 发表。模式产地英属洪都拉斯（Belize）；模式标本 USNM No. 24575。原文指出本种与 incisus 一样只知一种兵蚁型。"
+    }
+  ],
+  "note": "条目依据 Snyder 1922 原始描述（兵蚁）；原文为 BHL 分册的图书馆 OCR 文本。",
+  "sources": [
+    {
+      "id": "S0589",
+      "citation": "Snyder, T. E. 1922. New termites from Hawaii, Central and South America and the Antilles. Proceedings of the United States National Museum 61(2441): 1—32. DOI 10.5479/si.00963801.61-2441.1.",
+      "locator": "pp. 24—25, Pl. 3 figs. 12—13"
+    }
+  ]
+}

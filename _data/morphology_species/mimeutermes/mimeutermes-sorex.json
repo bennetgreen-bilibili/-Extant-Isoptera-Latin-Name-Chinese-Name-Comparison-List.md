@@ -1,0 +1,29 @@
+{
+ "zh_name": "吻长仿白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头比宽稍长，额中央宽、相当凸并逐渐过渡为鼻，鼻在近端处稍狭；触角 12 节，第 2 节比第 3 节长 2/5，第 4 节比第 3 节稍长、比第 5 节稍短。工蚁上颚外齿较长，是本种与近缘种区别的关键。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "兵蚁：头黄铁锈色，鼻向前逐渐砖红，胸淡赭白，腹草黄、因肠内容物而呈榛色。头比宽稍长，额中央宽、相当凸并逐渐过渡为鼻；鼻在近端处稍狭。触角 12 节，第 2 节比第 3 节长 2/5，第 4 节比第 3 节稍长、比第 5 节稍短。前胸背板前叶前缘中央略凹。前足与工蚁者相似（胫节外刺有时不明显或无）。腹部背板与腹板有极短而相当多的毛及少数短的端毛。量度：体长 3.6 mm；头长 1.42 mm；头宽 0.78 mm；鼻长 0.85 mm；触角长 1.30 mm；后足胫节长 0.65 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "工蚁：体草黄，头赭色，腹部因肠内容物而呈灰色。触角第 3 节比第 4 节稍长，第 5 节比第 4 节稍长；上颚外齿较长。前胸背板前叶前缘中央不凹或几不凹。腹部与兵蚁者相似。量度：体长 4 mm；头长 0.72—0.85 mm；头宽 0.85—0.90 mm；触角长 1.10 mm；后足胫节长 0.54 mm。"
+  },
+  {
+   "label": "其他",
+   "text": "若虫：体淡赭白，眼黑；头形与 M. giffardii 若虫相似，触角 15 节，第 3 节短、与第 4 节不能很好分开；体长 6 mm，翅芽长 1 mm。产地：法属几内亚马穆；巢位于树干基部腐殖土中约 10 cm 深处。"
+  }
+ ],
+ "note": "据 Silvestri 1914 年原始描述（拉丁文）改写，原文名为 Mimeutermes sorex 新种，含若虫、兵蚁、工蚁及量度；模式产地法属几内亚马穆（Mamou）。原文量度以逗号作小数点，已转写为 3.6、1.42 等。",
+ "sources": [
+  {
+   "id": "S0534",
+   "citation": "Silvestri, F. 1914. Contribuzione alla conoscenza dei Termitidi e Termitofili dell’Africa occidentale. I. Termitidi. Bollettino del Laboratorio di Zoologia Generale e Agraria della Reale Scuola Superiore d’Agricoltura in Portici 9: 1–146.",
+   "locator": "p. 50"
+  }
+ ]
+}

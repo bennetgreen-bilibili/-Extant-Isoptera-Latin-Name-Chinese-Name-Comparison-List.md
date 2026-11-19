@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the original description in Holmgren 1913c (Termitenstudien 4) pp. 175—176, original in German; the alate is not described (the original reads 'Imago unbekannt') and only the soldier and worker are described, the soldier key entry being on p. 162. The same volume also contains Odontotermes javanicus (p. 132) and Capritermes javanicus (p. 255), unrelated to this species. The German original uses a comma as the decimal separator, changed here to a decimal point, the values and ranges being unchanged. The OCR text read the body length 2,5—3 as '2.3' or '25' and confounded the soldier head width 0,72 with the measurements of the preceding species borneensis (0,61, 0,72); all figures were checked word by word against the images of printed pages 175 and 176 (leaf numbers 174, 175) in the archive.org BookReader and entered from them. The species was then placed in Eutermes.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Alate not described. Soldier body length 2.5—3 mm, head including nasus 1.25 mm, head width 0.72 mm, pronotum width 0.38 mm; worker body length 3.5—4 mm, head width 0.91 mm, pronotum width 0.49 mm. Soldier head broadly oval, slightly narrowing anteriorly, nasus of medium length and conical, frontal outline with a weak transverse ridge at the base of the nasus, antennae 12—13-segmented with segment 4 distinctly shorter than segment 3."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head yellow, nasus brownish; abdominal tergites very pale brownish to rusty yellow. Head thinly covered with microscopic hairs and with a few longer bristles; abdominal tergites with fine, almost microscopic hairs and additional longer bristles at the posterior margin. Head broadly oval, slightly narrowing anteriorly; nasus of medium length, conical; frontal outline with a weak transverse ridge at the base of the nasus, otherwise straight; antennae 12—13-segmented, segment 3 slightly longer than segment 2, segment 4 distinctly shorter than segment 3. Pronotum saddle-shaped, anterior margin not concave. Measurements: body length 2.5—3 mm; head including nasus 1.25 mm; head without nasus 0.65 mm; head width 0.72 mm; pronotum width 0.38 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Head plate yellowish brown, body milky white. Head and abdominal tergites finely hairy. Head somewhat pentagonal with rounded corners; cephalic sutures distinct; fontanelle indistinct; anterior part of the transverse band concave; clypeal sclerite short but not very short, rather arched; antennae 14-segmented, segment 2 equal to segment 3, segment 4 shorter than segment 3. Pronotum saddle-shaped, anterior margin not concave. Measurements: body length 3.5—4 mm; head width 0.91 mm; pronotum width 0.49 mm. Distribution: Tjompea, Java."
+  }
+ ]
+}

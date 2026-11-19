@@ -1,0 +1,21 @@
+{
+ "note": "Recast from the species-level description of Lim & Forschler (2012), the original in English; only the soldier and the alate are described and the worker is not described morphologically. In section 4.1 of the original the head width is given as \"0.054 mm\", which contradicts the 0.78 mm ± 0.05 of the description in 4.2 and of table 4a; the values of the description section are adopted here. The measurements keep the units of the original (mm) and its standard deviations.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Soldier head capsule small, mean head length (to the lateral margin of the head capsule) 1.407 mm, mean head width 0.78 mm, head length/head width ratio 1.793. Alate body colour pale brown, wings unpigmented, body length with wings mean 7.080 mm, body length without wings mean 3.93 mm."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head capsule rectangular, usually longer than wide; head capsule yellow, mandibles dark brown to black; body pale yellow to white. Mean head length 1.41 mm ± 0.13, mean head width 0.78 mm ± 0.05, head length/head width ratio 1.793 ± 0.09. Mandible bending angles: smac1 = 10.7° ± 2.21, smac2 = 27.27° ± 2.65."
+  },
+  {
+   "label": "Alate",
+   "text": "Body colour pale brown, antenna 14 segments, wings unpigmented, legs pale brown to dark brown. Mean body length without wings 3.93 mm ± 0.24, mean body length with wings 7.08 mm ± 0.29, mean forewing length 5.43 mm ± 0.21, mean hindwing length 5.32 mm ± 0.30. Sexual dimorphism is not evident and the sexes can be separated by the shape of the 8th abdominal sternite."
+  },
+  {
+   "label": "Other",
+   "text": "The swarming period is estimated as 2 to 5, partly overlapping that of R. flavipes (11 to 4 of the following year) and the May records of both R. virginicus and R. malletei. The species occurs in the woodland of the Atlantic Coastal Plain and in the soils of the South Atlantic Coastal Plain of the southeastern United States; the type locality is Sapelo Island, McIntosh County, Georgia, and repeated sampling in the soils of the Piedmont did not find it."
+  }
+ ]
+}

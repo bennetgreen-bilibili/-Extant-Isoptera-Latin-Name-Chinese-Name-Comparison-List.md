@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Alate pale to deep reddish brown, the wings white as glass; distance between ocellus and compound eye greater than the ocellus diameter; several veins run from below and outside the subcosta toward the wing apex; pronotum as wide as the head (including the eyes), semicircular, the anterior corners very slightly projecting; media and submedia of the fore wing not united at the wing base but arising separately from the wing scale — the latter character is the main basis both for the name of the species and for distinguishing it from its relatives."
+  },
+  {
+   "label": "Alate",
+   "text": "Alate: body pale reddish brown or deep reddish brown; wings white, transparent as glass; distance between ocellus and compound eye greater than the ocellus diameter; several veins run from below and outside the subcosta to the wing apex; pronotum as wide as the head (including the eyes), semicircular, the anterior corners slightly projecting; media and submedia of the fore wing not united at the true base of the wing but arising separately from the wing scale. Measurements: body length with wings 43 mm; wingspan 76 mm; wing length 35 mm, width 9 mm; body (including head) length 21 mm."
+  },
+  {
+   "label": "Other",
+   "text": "Queen: total length 72 mm. Localities: Congo (18 June 1893 (month 6), collected by H. Freyschmidt, specimen in the Hamburg Museum; Umangi, collected by E. Wilverth, specimens in the Brussels and Stockholm museums)."
+  }
+ ],
+ "note": "Adapted from the original description by Sjöstedt 1899 (in German), where the species was named Termes vitrialatus n. sp.; it includes the alate and the queen; \"vitrialatus\" means \"glass-winged\". The original measurements use a comma as the decimal point. Type locality Congo; described in the same paper as Termes amplus and T. speciosus."
+}

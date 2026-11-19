@@ -1,0 +1,17 @@
+{
+ "note": "La entrada sigue la descripción original de Holmgren de 1910 (soldado y obrero). El original es un texto OCR de biblioteca de un escaneo de BHL (espejo Zenodo/Plazi); la descripción original alemana se leyó línea por línea; las cifras que el OCR desordenó sin posibilidad de confirmación no se enumeran.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 2.9—4 mm; longitud de la cabeza 1.68—1.76 mm; anchura de la cabeza 1.1—1.22 mm (5 especímenes medidos). Muy semejante a Eutermes major pero algo más oscuro. Terguitos abdominales cubiertos de pelos finos y bastante densos y con una fila transversal de cerdas delante y detrás; pelos de los esternitos más largos. Contorno frontal casi recto, la elevación en la base de la nasa muy pequeña. Antenas de 13 segmentos: segmento 3 más largo que el segmento 2; segmento 4 igual al segmento 2; segmento 5 más largo que el segmento 4. Borde anterior del pronoto no cóncavo."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza pardo rojiza (pardo castaña) y bastante brillante; fontanela, sutura transversal, parte media y anterior de la banda transversal, región alrededor de las antenas, antenas, clípeo, labro y base de las mandíbulas amarillo herrumbroso; el resto del cuerpo rojo amarillento; parte anterior de la cabeza finamente pelosa; terguitos abdominales con pelos cortos bastante densos; borde posterior de los terguitos con o sin filas de cerdas, los esternitos siempre con filas marginales de cerdas. Cabeza de forma habitual; fontanela alargado-triangular; sutura sagital muy fina y cerrada; sutura transversal ancha y abierta; clípeo más corto que la mitad de su anchura; cóndilos mandibulares grandes. Antenas de 14 o 15 segmentos (con 14: segmento 2 igual al segmento 3; segmento 4 mucho más corto que el segmento 3; segmento 5 claramente más largo que el segmento 4; con 15: segmento 3 menos de la mitad del segmento 2; segmento 4 algo más largo que el segmento 3; segmento 5 igual al segmento 4; segmento 6 más largo que el segmento 5). Borde anterior del pronoto (muy) claramente cóncavo. Longitud del cuerpo del obrero 5 mm, longitud de la cabeza 1.64 mm."
+  },
+  {
+   "label": "Otros",
+   "text": "Localidad tipo Tatarenda, Bolivia (recolectado por Nordenskiöld). La figura 32 del original muestra la cabeza del soldado en vista dorsal y lateral."
+  }
+ ]
+}

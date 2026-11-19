@@ -1,0 +1,17 @@
+{
+ "zh_name": "球额等颚白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "该种包含体型中等（旧称 I. gibbifrons）与大型（旧称 I. bulbifrons）两个形态；二者依据分布、生态与线粒体基因组序列被合并。兵蚁属具 finitimus 型肠瓣构造的中至大型种类，头长（至唇基前缘）2.65—3.76 mm，左上颚小曲率 0.14—0.31 mm，即上颚弯曲较缓；头自侧面观明显呈球状隆起，头上缘凹度矢高 0.01—0.12 mm，平均明显大于 I. magniplanifrons，但这一点与 I. severus、I. minitabundus、I. ugandensis 相同（后三者肠瓣为 fungifaber 型）。有翅成虫属中至大型，头宽（跨复眼）1.44—1.73 mm；左上颚端齿至第一缘齿的距离 0.20—0.30 mm，明显大于同肠瓣类型的其他各种。工蚁头宽 1.11—1.43 mm，属中等至最大的工蚁之列。生态上所有已知标本均来自距大西洋岸约 300 km 以内的林区。"
+  }
+ ],
+ "note": "据 Josens 等 (2025) 修订中的种级诊断改写，原文英文；原文主要依据多变量形态测量与分子数据，量度代号已按原表释义改写为中文名称（头长、头宽、上颚曲率、头上缘凹度）；本条仅录该修订给出的鉴别特征，未逐项转录其形态描述段落。",
+ "sources": [
+  {
+   "id": "S0025",
+   "citation": "Josens, G.; Deligne, J.; Harry, M.; Roy, V.; Akama, P.D.; Coulibaly, T.; Dosso, K.; Goergen, G.; Hasson, M.; Kasangij A Kasangij, P.; Kifukieto, C.; Le Ru, B.; Loko, L.E.Y.; Ndiaye, A.B.; Roisin, Y.; Sion, N.; Šobotník, J.; Stiblik, P.; Kue Di Kuenda, S.; Traoré, S.; Viage, M.; Wango, S.P.; Kaymak, E.; Bourguignon, T. (2025) An integrative revision of the genus Isognathotermes (Termitidae: Cubitermitinae) with description of seven new species and four new subspecies. European Journal of Taxonomy 1024, 1–197. https://doi.org/10.5852/ejt.2025.1024.3099",
+   "locator": "p. 42—43"
+  }
+ ]
+}

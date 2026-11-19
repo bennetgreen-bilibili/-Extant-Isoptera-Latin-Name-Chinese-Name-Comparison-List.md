@@ -1,0 +1,17 @@
+{
+ "note": "Reescrito a partir de la descripción específica de Bourguignon & Roisin (2011), original en inglés; el original describe solo el soldado y registra el alado como Unknown, por lo que no hay apartado de alado. Las medidas se mantienen en mm como en el original, con las abreviaturas desarrolladas entre paréntesis en su primera aparición.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Próximo a Coptotermes grandiceps y mal separado de él; las diferencias principales son el soldado de menor tamaño, las setas del pronoto menos numerosas y la curvatura mandibular más débil. Algunos individuos no pueden asignarse con seguridad."
+  },
+  {
+   "label": "Soldado",
+   "text": "De tamaño medio. Cabeza alargada, oval, algo más ancha en la parte posterior que en la anterior, con unas 30 setas; glándula frontal estrecha, con la abertura dirigida hacia delante; antenas generalmente de 13 artejos, a veces de 14; pronoto corto y estrecho, con unas 40 setas; mandíbulas alargadas, algo curvadas en el ápice. Medidas (mm, 1 paratipo; entre paréntesis 12 individuos de 4 colonias): longitud de la cabeza hasta la glándula frontal (HLF) 1.28 (1.11—1.27); longitud de la cabeza con las mandíbulas (HLL) 1.70 (1.58—1.79); anchura de la cabeza (HW) 1.12 (1.00—1.10); longitud del pronoto (PL) 0.41 (0.31—0.44); anchura del pronoto (PW) 0.79 (0.63—0.74); longitud de la mandíbula derecha (RML) 0.77 (0.89—0.98); anchura del postmentón (MPW) 0.37 (0.28—0.32); longitud de la tibia posterior (T3L) 0.82 (0.92—1.08)."
+  },
+  {
+   "label": "Otros",
+   "text": "Localidad típica Pamua, en San Cristóbal, islas Salomón; en Papúa Nueva Guinea solo se conoce de las sabanas del Fly, en el sur, y de la zona de Port Moresby."
+  }
+ ]
+}

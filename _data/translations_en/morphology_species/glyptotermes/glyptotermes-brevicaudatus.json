@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from Haviland's 1898 original English description. The original describes it as Calotermes brevicaudatus, n. sp., type locality Sarawak, Borneo (type number 237). The original marks decimals with an old-style superior point (e.g. \"23 mm\" for 2.3 mm, \"*9 mm\" for 0.9 mm); this entry converts them to decimal millimetres; the soldier occurs in two size classes, whose measurements are given side by side. The original gives the soldier antennal segment count as 11 or 12.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Soldier head earth yellow, darker in front, nearly cylindrical and obliquely truncate; the species is distinctly dimorphic: major head 2.3 mm long and 1.3 mm wide, minor head 1.4 mm long and 0.9 mm wide; mandibles 0.8 mm long in both (major), broad at the base and earth yellow, black at the tip, the right mandible with 1 tooth and the left with 2 teeth. Alate head width 1.0 mm, ocelli touching the compound eyes, pronotum with a pale f-shaped marking, wings 6 mm long and 1.7 mm wide."
+  },
+  {
+   "label": "Alate",
+   "text": "(Recorded as Male in the original, i.e. the alate here.) Body length 4.5 mm, dorsum dark chestnut brown (badious), venter paler. Head width 1.0 mm. Ocelli touching the compound eyes. Antennae 13-segmented, the 2nd segment only slightly longer than the 3rd. Pronotum slightly narrower than the head, with a pale f-shaped marking. Wings 6 mm long and 1.7 mm wide; costal area narrow and veinless; media closely applied to the subcosta along its whole length. Hind legs extending beyond the short abdomen. Seventh sternite of the female crescent-shaped."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length varying from 7 mm to 5 mm. Head earth yellow, darker in front, nearly cylindrical, obliquely truncate; in the major form 2.3 mm long and 1.3 mm wide, in the minor form 1.4 mm long and 0.9 mm wide. Antennae 11 or 12-segmented, the 2nd segment only slightly longer than the 3rd. Labrum blunt, reaching two thirds of the length of the mandibles. Mandibles 0.8 mm long in the major soldier, broad at the base and earth yellow, black at the tip, the right mandible with 1 tooth and the left with 2 teeth. Postmentum (gula) narrow, wider in the distal third, fused with the head along almost its whole length. Posterior lateral angles of the pronotum rounded, the posterior margin broadly and faintly shallowly lobed. Hind legs reaching the 7th abdominal segment."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 8 mm, cylindrical."
+  }
+ ]
+}

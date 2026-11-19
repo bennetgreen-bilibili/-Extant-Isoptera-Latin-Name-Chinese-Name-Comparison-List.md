@@ -1,0 +1,17 @@
+{
+ "note": "La entrada sigue la descripción original de Holmgren de 1910 (soldado, obrero y reina de la forma ecuadorianus). El original es un texto OCR de biblioteca de un escaneo de BHL (espejo Zenodo/Plazi); la descripción original alemana se leyó línea por línea; las cifras que el OCR desordenó sin posibilidad de confirmación no se enumeran.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 4.5 mm; moda de la longitud de la cabeza unos 1.59 mm; anchura de la cabeza unos 0.95—1.2 mm (las cifras del intervalo en el original están desordenadas por el OCR, por lo que se dan el límite inferior y la moda y no se completa el intervalo). Muy semejante a E. chaquimayensis pero mayor. Cabeza parda, el ápice de la nasa algo más oscuro; antenas y notas pardo herrumbroso, la cara ventral más pálida. Cabeza con solo algunas cerdas; terguitos abdominales con pelos microscópicos y casi lisos, con una fila de cerdas marginales. Cabeza ampliamente ovalada, nasa cónica; contorno frontal con una elevación (indistinta) en la base de la nasa. Antenas de 13—14 segmentos: segmento 3 el doble de largo que el segmento 2, más o menos indistintamente subdividido en el centro; segmento 4 igual al segmento 2. Pronoto débilmente en silla de montar, borde anterior apenas cóncavo."
+  },
+  {
+   "label": "Obrero",
+   "text": "Placa cefálica y banda transversal pardas; suturas cefálicas, clípeo, genas, antenas y piezas bucales blancos a blanco amarillentos; notas amarillo herrumbroso a pardo herrumbroso, los esternitos más pálidos. Cabeza finamente pelosa; terguitos abdominales densamente pelosos, sin fila de cerdas marginales. Cabeza ampliamente ovalada; suturas cefálicas de anchura uniforme; fontanela indistinta, alargado-triangular; clípeo mucho más corto que la mitad de su anchura. Antenas de 15 segmentos: segmento 2 más largo que el segmento 3; segmento 3 igual al segmento 4; segmento 4 más largo que el segmento 5. Pronoto en silla de montar bastante marcada, borde anterior claramente cóncavo."
+  },
+  {
+   "label": "Otros",
+   "text": "El original registra además una forma Eutermes peruanus f. ecuadorianus: reina con cabeza pardo amarillenta, tórax amarillo herrumbroso, terguitos abdominales pardos con esternitos más pálidos, pelos bastante densos, cabeza ampliamente ovalada y ojos compuestos grandes. Localidad tipo Chaquimayo, Perú (Holmgren)."
+  }
+ ]
+}

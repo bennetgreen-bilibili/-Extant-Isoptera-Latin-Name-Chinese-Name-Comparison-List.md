@@ -1,0 +1,17 @@
+{
+ "note": "El original está en alemán y se extrajo mediante OCR de un escaneo de biblioteca en Internet Archive (registro archive.org biostor-232733); algunas cifras y letras están mal reconocidas y se han comprobado con el contexto y las descripciones de las láminas; las cifras que no pudieron confirmarse no se han incluido. La descripción original comprende el soldado y un obrero no completamente maduro.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 4.5 mm, anchura de la cabeza 0.81 mm (las cifras de longitud de la cabeza y de longitud del nasus aparecen desordenadas por el OCR en la descripción de la lámina y no pudieron confirmarse, por lo que no se indican). Cabeza de color amarillo pálido, nasus de color pardo herrumbre claro; frente con algunas sedas, por lo demás lisa; tórax, abdomen y patas de color amarillo pajizo claro; terguitos abdominales con una cubierta de pelos muy fina y baja y algunas sedas largas en el margen posterior; esternitos con una cubierta de pelos bastante densa y algunas sedas largas en el margen posterior. Cabeza casi circular (lámina Q1), nasus bastante largo, estrecho y cónico; contorno frontal débilmente cóncavo. Antenas de 13 artejos, artejo 3 más largo que el 2, artejo 2 igual en longitud al 4. Margen anterior del pronoto ascendente de forma oblicua."
+  },
+  {
+   "label": "Obrero",
+   "text": "(individuo no completamente maduro) longitud del cuerpo 4.6 mm, longitud de la cabeza 1.4 mm, anchura de la cabeza 1.26 mm. Cabeza de color amarillo pajizo claro. Concuerda bien con Eutermes robustus, pero las antenas son de 14 artejos, artejo 2 mayor que el 3, artejos 3 y 4 del mismo tamaño."
+  },
+  {
+   "label": "Otros",
+   "text": "Próxima a Eutermes robustus, de la que se diferencia por el número de artejos antenales del soldado y por la pilosidad abdominal. Localidad típica: Llinquipata, provincia de Carabaya, Perú."
+  }
+ ]
+}

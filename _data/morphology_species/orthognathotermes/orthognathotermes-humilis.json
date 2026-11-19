@@ -1,0 +1,21 @@
+{
+  "zh_name": "小直颚白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁上颚第一型，头壳在同型种中最大。与 O. wheeleri 的区别是后者兵蚁有单眼斑、上颚较短（自边缘齿状突至端部），与 O. aduncus 的区别是后者较小，与 O. tubesauassu 的区别是后者侧缘突起较小、基部略收缩。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "背面观头侧向前略收敛。侧面观背瘤突出，位于侧缘突起之后。上颚第一型，近端半部有齿状突。头壳疏布短毛与刚毛，短毛在腹面较密，表面散布微小毛，端部较密。后颏有短毛。前胸背板表面有短毛，前缘与后缘有刚毛；中胸背板与后胸背板后缘有短毛与刚毛；腹部背片短毛较密、边缘有少量刚毛，腹片表面有短毛、后缘有刚毛。"
+    }
+  ],
+  "note": "据 Rocha & Cancello (2009) 改写，原文英文；原文有翅成虫记为 Unknown；无量度数据。",
+  "sources": [
+    {
+      "id": "S0228",
+      "citation": "Rocha M. M.; Cancello E. M. 2009. Revision of the Neotropical termite genus Orthognathotermes Holmgren (Isoptera: Termitidae: Termitinae). 10.11646/zootaxa.2280.1.1",
+      "locator": "p. 8–9（treatment 6213687）"
+    }
+  ]
+}

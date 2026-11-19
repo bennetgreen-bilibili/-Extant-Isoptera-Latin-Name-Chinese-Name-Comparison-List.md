@@ -1,0 +1,21 @@
+{
+ "zh_name": "团结无利器白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "有翅雌虫：连翅体长 10 mm，去翅体长 6 mm；头长 0.80 mm、宽 0.70 mm；复眼长径 0.24 mm；触角长 1.56 mm；前翅长 8.5 mm、宽 2.15 mm；后足胫节 0.90 mm。体栗色，头近黑色，唇基红褐色，前胸背板具一几不可辨的十字形斑，腹板中央较狭处呈污乳白色，翅淡烟色至榛色，前缘脉淡黄褐色。囟孔小，卵形，较周围额区略淡；唇基较膨胀，略长于其宽度之半；复眼较小，不甚突出；单眼小，与复眼相距较远；触角 15 节，第 2 节长几为第 3 节的 2 倍，第 3—5 节近等长。前胸背板较头连复眼之宽小约 1/4，后缘略凹；中、后胸背板后部渐狭，后缘中部略宽而深凹，后角近尖。翅面除脉上的毛外具稀疏毛，并有 3—4 射的小疣突。雄虫：连翅体长 9 mm，去翅体长 5.8 mm；前翅长 8 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "体长 3.3 mm；头长 0.69 mm、宽 0.73 mm；触角长 1.20 mm；后足胫节 0.61 mm。体白禾秆色，头乳黄色，腹部因肠内容物呈灰色。头上面具较多短毛；唇基略膨胀，略宽于其长度之半；触角 14 节，第 2 节长于第 3 节，第 3 节几不长于第 4 节，第 5 节略短于第 4 节。前胸背板前叶圆形。足多毛，与前一种相似。"
+  }
+ ],
+ "note": "据 Silvestri (1914) 原始描述改写（原以 Anoplotermes concilians 之名发表，后归入 Astalotermes）；原文为拉丁文；该属无兵蚁，仅描述了有翅雌、雄虫与工蚁；量度单位 mm 照原文。",
+ "sources": [
+  {
+   "id": "S0534",
+   "citation": "Silvestri F. 1914. Contribuzione alla conoscenza dei Termitidi e Termitofili dell'Africa occidentale. I. Termitidi. Bollettino del Laboratorio di Zoologia Generale e Agraria della R. Scuola Superiore d'Agricoltura in Portici 9: 1-146. https://archive.org/details/bollettinodellab9191415rscufo",
+   "locator": "p. 58"
+  }
+ ]
+}

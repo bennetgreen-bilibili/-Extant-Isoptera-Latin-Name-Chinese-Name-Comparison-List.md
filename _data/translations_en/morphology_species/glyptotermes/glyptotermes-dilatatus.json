@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from the German description of Holmgren 1913 (the original description was published by Bugnion & Popoff 1910; Holmgren here redescribes it and adds measurements). Type locality Ambalangoda, Ceylon. The original's section on the whitish 'Arbeiter' (worker) gives a body length of 4.0 mm, a head width of 0.65 mm and a value for the pronotal width; the last is printed as '1,44' in the photocopy and is inconsistent with the head width of 0.65, so it is probably a misprint or OCR error and this entry does not cite that value. The original also states that the alates on which its 1911 description was based do not belong to this species but to G. ceylonicus.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Soldier: head almost cylindrical, much longer than wide; frons strongly inclined, strongly concave in the middle and bilobed, the lateral swellings slightly pointed; labrum extending only beyond the first third of the closed mandibles; mandibles relatively long and stout; antennae 12 (13)-segmented, with 12 segments segment 3 slightly longer than segment 2, with 13 segments segment 3 very short. Compared with the closely related G. ceylonicus this species has longer and stouter mandibles, a shorter labrum and a different number of antennal segments (see the entry for that species). Alate (wingless): body length 6 mm, head length 1.48 mm, pronotal width about 1.1 mm."
+  },
+  {
+   "label": "Alate",
+   "text": "(The original's account is based on a wingless individual.) Brownish yellow, head and pronotum slightly darker, venter whitish yellow. Vestiture very sparse. Head broadly oval, slightly longer than wide; cranial sutures almost invisible; compound eyes rather small, not much protruding; ocelli almost touching the compound eyes; mandibular condyles large; postclypeus short; labrum small, strongly inclined; the number of antennal segments is defective in the original (segment 3 slightly smaller than segment 2, equal in length to segment 4). Pronotum with broadly rounded anterior corners and a posterior margin that is not concave; mesonotum and metanotum almost not concave. Measurements (mm): body length without wings 6, head length 1.48, pronotal width 1.1 (printed as 'I, 1' in the original), pronotal length 0.9 (last digit defective in the original); the head width is defective in the photocopy."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head yellow-red, tinged with brown anteriorly; mandibles black with a red base; body straw-yellow. Vestiture very sparse. Head almost cylindrical, much longer than wide; frons strongly inclined, strongly concave in the middle and bilobed, the lateral swellings slightly pointed; postclypeus short; labrum extending only beyond the first third of the closed mandibles; mandibles relatively long and stout; antennae 12 (13)-segmented, segment 3 slightly longer than segment 2 (with 13 segments segment 3 very short). Pronotum about as wide as the head, shorter than half its width; anterior margin concave, almost parallel to the posterior margin; lateral margins narrowing posteriorly. Measurements (mm): body length 6, head length with mandibles 3.08 and 2.85, head length without mandibles 2.13 and 2.01, head width 1.29 and 1.33, pronotal width 1.29, pronotal length 0.65 and 0.66."
+  },
+  {
+   "label": "Worker",
+   "text": "Head yellow; pronotum very wide, strongly arched. Measurements (mm): body length 4.0, head width 0.65; the pronotal width appears as 1.44 in the photocopy and is inconsistent with the head width, so it is probably a misprint and is not cited. Younger immatures have wing-like expansions of the pronotum."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "note": "Adaptado de la descripción original en inglés de Haviland 1898. El original la describe como Calotermes borneensis, n. sp., localidad tipo Sarawak, Borneo (número de tipo 439). El original marca los decimales con un punto volado de estilo antiguo (p. ej. «8*5 mm» por 8.5 mm, «2*4 mm» por 2.4 mm); esta entrada los convierte a milímetros decimales.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Cabeza del soldado de 2.4 mm de longitud y 1.7 mm de anchura, amarillo terroso oscuro, más pálida por detrás, con dos tubérculos redondeados anchos en la parte anterior y una depresión media entre ellos; antenas de 11 artejos, el artejo 3 más largo que el 2 y el 4; labro romo, casi alcanzando el ápice de las mandíbulas; mandíbulas de 0.9 mm de longitud, casi negras, bordes ligeramente dentados. Anchura de la cabeza del alado no indicada por separado en el original; pronoto algo más ancho que la cabeza y arriñonado; longitud del ala 17 mm, anchura 1.8 mm."
+  },
+  {
+   "label": "Alado",
+   "text": "(Registrado como Male en el original.) Longitud del cuerpo 7 mm, dorso castaño oscuro, vientre más pálido. Ocelos algo separados de los ojos compuestos. Antenas de 12 artejos, los artejos 2 y 3 casi iguales en longitud. Pronoto algo más ancho que la cabeza, arriñonado. Alas de 17 mm de longitud y 1.8 mm de anchura, color té intenso; el área costal normalmente (pero no siempre) estrecha y sin venas, la media robusta y muy próxima y paralela a la subcostal. Patas posteriores que alcanzan el 6.º segmento abdominal. Séptimo esternito de la hembra parabólico."
+  },
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 8.5 mm. Cabeza amarillo terroso oscuro, más pálida por detrás, de 2.4 mm de longitud y 1.7 mm de anchura, con dos tubérculos redondeados anchos en la parte anterior y una depresión media entre ellos. Antenas de 11 artejos, el artejo 3 más largo que el 2 o el 4. Labro romo, casi alcanzando el ápice de las mandíbulas. Mandíbulas de 0.9 mm de longitud, casi negras, bordes ligeramente dentados. Mitad basal del postmentón estrecha, ensanchándose hacia el ápice, fusionada con la cabeza en casi toda su longitud. Pronoto amarillo terroso, tan ancho como la cabeza. Patas posteriores que alcanzan el 8.º segmento abdominal."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 10 mm, cilíndrico."
+  }
+ ]
+}

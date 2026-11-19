@@ -1,0 +1,29 @@
+{
+ "zh_name": "砂拉越瓢白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "雄虫体长 7 mm。头深栗褐色；足与胸部近淡黄白（subisabelline）；腹部背面深褐（fuliginous），腹面深褐（umbrinous）。头卵形。复眼与单眼大，相互靠近。囟孔大而长。触角 15 节。上唇基略突出。前胸背板前缘直、中部隆起，前侧角下压，后侧缘微凸而收拢。中胸背板后缘宽而凹。后胸背板后缘较窄。前翅芽明显大于后翅芽。翅长 12 mm，深褐，亚前缘脉后有一黄色斑；中脉较亚中脉更近亚前缘脉，向端部渐淡，未达翅端即消失；亚中脉具 9 支，达距翅端十分之一处，但近端部极淡。后足达第 8 腹节。腹瘤缺。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "体长 3 mm。头宽 0.8 mm，黄褐（fulvous）。触角 13 节，第 3 节远长于第 2 节或第 4 节。象鼻锥形，略粗，其前面与头前面不完全在同一平面上。上颚退化。后颏长不及宽。前胸背板鞍形，前叶短而隆起。后足股节达第 8 腹节。腹部卵形，背板拱起，深褐色。腹瘤缺。"
+  },
+  {
+   "label": "工蚁",
+   "text": "体长 4 mm。头栗褐色。触角 14 节。腹部大、卵形，背拱。"
+  },
+  {
+   "label": "其他",
+   "text": "雌虫第 7 腹节腹板长不及宽之半，后侧缘几直；蚁后腹部长达 18 mm，具明显的次生几丁化板，腹部侧膜具微小色素点与毛。巢球形，筑于灌木茎上，距地面数英尺。分布：婆罗洲（砂拉越）。模式标本编号 No. 265。本种与 T. singaporiensis 极近，区别在于兵蚁较大（3 mm 对 3 mm，但触角 13 节对 12 节）、象鼻较粗、腹部背面拱起。原文另注：singaporiensis 的兵蚁更小，触角 12 节，象鼻基部略膨大。"
+  }
+ ],
+ "note": "据 Haviland 1898 原始描述（原文作 TERMES SARAWAKENSIS，OCR 作「0. Sp.」，应为 新种）。四型（雄、雌、兵蚁、工蚁）齐备。原文经 BHL/Zenodo 扫描本 OCR 抽取，小数点被识别为杂符（「‘8 mm」= 0.8 mm），词形有误（papille=papillae、Antenne=Antennae、LEpistoma=Epistoma），已按上下文核对；量度单位为 mm。原文对 sarawakensis 与 singaporiensis 兵蚁大小的表述有矛盾（「soldiers are smaller」出现在 singaporiensis 的记述中），引用对比时须回原文核对。",
+ "sources": [
+  {
+   "id": "S0555",
+   "citation": "Haviland G. D. 1898. Observations on Termites; with Descriptions of new Species. Journal of the Linnean Society of London, Zoology 26: 308–440. https://doi.org/10.1111/j.1096-3642.1898.tb00405.x",
+   "locator": "pp. 429–430"
+  }
+ ]
+}

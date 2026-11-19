@@ -1,0 +1,21 @@
+{
+ "zh_name": "梨形解甲白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "以大型、透明、梨形的囟为特征，囟比 punctatus 更大。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头栗褐，密被长毛；囟大、透明、梨形，略小于单眼；后唇基黄褐，宽为长之三倍；眼黑色、不呈圆形，紧靠头侧缘；单眼透明、近椭圆形、突出，与眼的距离小于单眼直径；上颚边缘红褐。触角 15 节，第 3 节短于第 2 或第 4 节。前胸背板略浅于头色，后缘浅凹，密被长毛。翅灰色，前缘区黄褐，翅面细点刻并具毛；前翅中脉在翅中略上方分支达翅端，较近肘脉而远于亚前缘脉。腹部背板灰褐，密被长毛。量度：雌有翅成虫全长 10.50—11.00 mm，雄 10.00—10.50 mm；雌脱翅成虫 6.00 mm，雄 5.00—5.50 mm；头长 1.20 mm；左上颚长 0.60 mm；前胸背板长 0.60 mm；后足胫节长 1.00 mm；雌前翅长 9.00 mm；眼长径 0.25 mm；头宽（眼处）0.95—1.00 mm；前胸背板宽 0.70 mm；雌前翅宽 3.20 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0635",
+   "citation": "Snyder, T. E. 1934. Two new termites from Costa Rica. Proceedings of the Biological Society of Washington 47: 95-98. https://archive.org/details/biostor-83412",
+   "locator": "pp. 96—97（Anoplotermes (Anoplotermes) pyriformis, 新种）"
+  }
+ ],
+ "note": "据 Snyder 1934 年英文原始描述改写；原文英文，仅描述有翅成虫（模式产地哥斯达黎加 Hamburg Farm，灯诱）；量度原文为单值或区间，逐字照录，未取整。"
+}

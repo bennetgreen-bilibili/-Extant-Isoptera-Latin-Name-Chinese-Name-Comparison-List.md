@@ -1,0 +1,29 @@
+{
+  "zh_name": "稍重象白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "与 E. exitiosus 极近但更小（有翅成虫连翅 15.00—15.75 mm）；觖角 15 节，复眼大得多且小眼面更粗，头更短且多少更淡，头与体刚毛更密，前胸背板更长更宽，翅明显更短、近基部色更淡；与 E. yarrabahensis 区别在体更小、头更小更淡更少毛、翅更短更淡、复眼更小、前胸背板更窄、觖角少 1 节。兵蚁与 E. exitiosus 无可靠区别特征。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "与 E. exitiosus 极近但更小；头更短，色多少更淡；复眼大得多且小眼面更粗；头与体刚毛更密；前胸背板更长更宽；翅明显更短、色更淡（尤其近基部），最前两条脉在基部分离明显更开。量度：体长（连翅）15.00—15.75 mm；去翅 7.50—8.00 mm；头长（至上唇末端）1.50 mm；头长（至额唇缝）1.02 mm；头宽 1.42 mm；觖角（15 节）长 2.00 mm；复眼垂直径 0.493 mm、横径 0.595 mm；前胸背板长 0.85 mm、宽 1.42 mm；前翅长 12.50 mm、宽 3.50 mm；后翅长 12.00 mm、宽 3.75 mm；后足胫节长 1.70 mm。模式巢中另有一头连翅仅 13.50 mm 的个体及多头连翅 8.00—9.00 mm 者，翅明显退化，属异常标本。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "无可靠特征与 E. exitiosus 的兵蚁相区别；不同巢的个体在头色与头大小上变化如后者。量度：体长 4.00 mm；头长 1.73 mm；头宽 0.97 mm；觖角（13 节）长 1.53—2.10 mm；后足胫节长 1.14 mm。"
+    },
+    {
+      "label": "工蚁",
+      "text": "与 E. exitiosus 工蚁极相似，但头多数更深、深色区域更大（向侧、向后延展更多）；两种不能以此区分。量度：体长 5.00 mm；头长（至上唇末端）1.19 mm；头长（至额唇缝）0.97 mm；头宽 1.36 mm；前胸背板长 0.28 mm、宽 0.68 mm；觖角（14 节）长 1.25 mm；后足胫节长 1.16 mm。"
+    }
+  ],
+  "note": "描述取自 Hill 1925 对 Eutermes graveolus 的原始描述（英文），含有翅成虫、兵蚁、工蚁；模式产地北领地 Darwin，亦采于 Bathurst Island；作者把昆士兰 Magnetic Island 等地的居群视为本种的一个地方类群。本种营树栖蚁巢。原文为英文，BHL 扫描件经 OCR，连字符与度量数字偶有误读（如连字符 ¬），已按上下文还原；无法确定者不录。学名当时置于 Eutermes 属，现归 Nasutitermes。",
+  "sources": [
+    {
+      "id": "S0614",
+      "citation": "Hill, G. F. 1925. Termites from the Australian region: descriptions of new species and hitherto undescribed castes. Proceedings of the Royal Society of Victoria, New Series 37(2): 206–229, pls. 23–26.",
+      "locator": "pp. 226–228"
+    }
+  ]
+}

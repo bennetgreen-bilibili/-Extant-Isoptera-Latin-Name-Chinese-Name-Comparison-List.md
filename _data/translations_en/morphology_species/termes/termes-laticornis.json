@@ -1,0 +1,17 @@
+{
+ "note": "Based on the original description of Haviland 1898 (in English). The original did not describe the alate, only the soldier and the worker. The text was extracted by OCR from an Internet Archive scan and the scientific names and a few word forms contain recognition errors (e.g. eostratus for rostratus, latierons for laticornis); the measurement figures were checked against the context.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Body length 6 mm. Head length 1.8 mm, width 1.3 mm, orange yellow; anterior horn (nasus) short and acute, with a broad base. Antennae 14 segments, segment 2 longer than segment 3, segment 3 longer than segment 4, the segments from 4 onwards nearly equal in length. Labrum small, white, with minute, spreading, acute lobes. Mandibles 1.8 mm long, setiform, slightly upward at the base and then slightly downcurved. Postmentum narrow at the base, widening towards the apex almost to twice. Pronotum saddle-shaped. Hind legs almost reaching the end of the abdomen. Abdomen long oval, coloured by the gut contents. Abdominal tubercles absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 4 mm. Head pale yellowish white. Antennae 14 segments. Postclypeus convex. Abdomen rather large, long oval."
+  },
+  {
+   "label": "Other",
+   "text": "Locality: Borneo (Sarawak). Type number 231."
+  }
+ ]
+}

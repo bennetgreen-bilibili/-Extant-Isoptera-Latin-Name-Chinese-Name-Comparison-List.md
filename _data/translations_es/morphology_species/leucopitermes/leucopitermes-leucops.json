@@ -1,0 +1,13 @@
+{
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Muy próxima a Eutermes inanis. Cabeza amarillo claro, rostro pardo; cuerpo blanco sucio, con el contenido intestinal visible por transparencia. Cabeza con pelos finos microscópicos dispersos y además varias setas más largas; terguitos abdominales con pelos finos casi microscópicos; esternitos con pelos más largos y una hilera de setas marginales. Cabeza ovalada ancha en vista dorsal, algo estrechada hacia el rostro; rostro cónico estrecho, no tan estrecho como en las demás especies del subgénero, algo más corto que el rostro de E. inanis; perfil frontal casi completamente recto, con solo un abultamiento casi invisible en la base del rostro. Mandíbulas sin pieza apical. Antena bastante corta, de 12 segmentos; segmento 2 más largo que el 3; segmento 4 de longitud igual al 2. Pronoto en silla de montar, borde anterior no cóncavo. Medidas: longitud del cuerpo 2.3 mm; cabeza con rostro 1.46 mm, sin rostro 0.84 mm; anchura de la cabeza 0.8 mm; anchura del pronoto 0.41 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza amarillo blanquecino, con placa cefálica amarilla; color del cuerpo como en el soldado. Cabeza cubierta de pelos cortos finos, terguitos abdominales con pelos cortos. Cabeza ovalada en sus cuatro lados; fontanela situada algo por detrás del centro; postclípeo casi la mitad de largo que de ancho, fuertemente elevado; antena de 13 segmentos, segmento 2 tan largo como los segmentos 3 y 4 juntos, segmento 3 el más corto, con el límite respecto al 4 incompleto. Borde anterior del pronoto no cóncavo. Medidas: longitud del cuerpo 2.5 mm; anchura de la cabeza 0.87 mm; anchura del pronoto 0.45 mm."
+  }
+ ],
+ "note": "Adaptado de la descripción original de Holmgren (1914), original en alemán; incluye soldado y obrero; el alado no se describe (el original indica «Imago unbekannt»). Las localidades tipo son Tandjong Slamat, en el este de Sumatra, y Maxwell's Hill, en Malaya, entre otras."
+}

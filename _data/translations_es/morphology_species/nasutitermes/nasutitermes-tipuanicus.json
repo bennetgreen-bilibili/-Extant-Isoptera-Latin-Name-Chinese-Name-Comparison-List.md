@@ -1,0 +1,17 @@
+{
+ "note": "La entrada sigue la descripción original de Holmgren de 1910 (soldado y obrero), publicada como Eutermes tipuanicus n. sp. El original es un texto OCR de biblioteca de un escaneo de BHL (espejo Zenodo/Plazi); la descripción original alemana se leyó línea por línea; las cifras que el OCR desordenó sin posibilidad de confirmación no se enumeran.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 4—4.5 mm; longitud de la cabeza 1.75 mm (la anchura de la cabeza está desordenada por el OCR y no se cita). Muy semejante a Eutermes pluriarticulatus, de color, pilosidad y tamaño aproximadamente iguales, pero con la nasa relativamente más gruesa. Contorno frontal recto con una elevación débil en la base de la nasa; el borde superior de la nasa y la parte posterior de la cabeza en el mismo plano. Antenas probablemente de 13 segmentos: segmento basal más corto que la suma de los dos siguientes; segmento 3 casi el doble de largo que el segmento 2, contraído en la base y grueso en el ápice; segmento 4 algo más largo que el segmento 2."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 6 mm (longitud y anchura de la cabeza desordenadas por el OCR y no citadas). Cabeza pardo amarillenta; suturas cefálicas, clípeo, labro, base de las mandíbulas, región alrededor de las antenas, antenas y el resto del cuerpo blancos a blanco amarillentos. Cabeza con bastantes pelos; terguitos abdominales bastante densamente pelosos con cerdas marginales. Cabeza casi circular; suturas cefálicas evidentes; fontanela indistinta; clípeo más corto que la mitad de su anchura; cóndilos mandibulares grandes. Antenas de 14 segmentos: segmento 3 más largo que el segmento 2; segmento 4 aproximadamente igual al segmento 2; segmento 5 más largo. Pronoto solo muy débilmente cóncavo en el centro."
+  },
+  {
+   "label": "Otros",
+   "text": "Localidad tipo Tipuani, Bolivia; el ejemplar tipo se conserva en el Museo de Hamburgo."
+  }
+ ]
+}

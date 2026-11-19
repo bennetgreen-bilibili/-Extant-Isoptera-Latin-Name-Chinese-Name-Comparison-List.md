@@ -1,0 +1,21 @@
+{
+  "zh_name": "白脸白脸白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "与 Eutermes inanis 最接近。头浅黄色，鼻褐色；体污白色，透出肠内容物。头疏被显微细毛，另有若干较长刚毛；腹节背板被几乎显微级的细薄毛；腹板毛较长，并有一列后缘刚毛。头自上方看宽卵形，向鼻部略收窄；鼻窄锥形，不如该亚属其他种那样窄，略短于 E. inanis 的鼻；额剖面几乎完全平直，仅在鼻基有一几乎不可见的隆起。上颚无端piece。触角相当短，12 节；第 2 节长于第 3 节；第 4 节与第 2 节等长。前胸背板鞍形，前缘不凹入。量度：体长 2.3 mm；头连鼻 1.46 mm，不连鼻 0.84 mm；头宽 0.8 mm；前胸背板宽 0.41 mm。"
+    },
+    {
+      "label": "工蚁",
+      "text": "头白黄色，具黄色头盖板；体色如兵蚁。头被细短毛，腹节背板被短毛。头四边卵形；囟位于中部稍后；后唇基长几等于其宽度之半，隆起强；触角 13 节，第 2 节长等于第 3、4 节之和，第 3 节最短，与第 4 节分界不完全。前胸背板前缘不凹。量度：体长 2.5 mm；头宽 0.87 mm；前胸背板宽 0.45 mm。"
+    }
+  ],
+  "note": "据 Holmgren (1914) 原始描述改写，原文德语；含兵蚁与工蚁；有翅成虫未描述（原文 Imago unbekannt）。模式产地为苏门答腊东部 Tandjong Slamat 与马来亚 Maxwell's Hill 等地。",
+  "sources": [
+    {
+      "id": "S0524",
+      "citation": "Holmgren, N.F. (1914) Wissenschaftliche Ergebnisse einer Forschungsreise nach Ostindien, ausgeführt im Auftrage der Kgl. Preuss. Akademie der Wissenschaften zu Berlin von H. v. Buttel-Reepen. III. Termiten aus Sumatra, Java, Malacca und Ceylon. Zoologische Jahrbücher, Abteilung für Systematik, Ökologie und Geographie der Tiere, 36(2-3), 229–290.",
+      "locator": "p. 252—253"
+    }
+  ]
+}

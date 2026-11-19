@@ -1,0 +1,17 @@
+{
+ "note": "Reescrito según Roonwal & Chhotani 1997; el original está en inglés. El original da el diámetro mayor del ojo compuesto como \"0.S0-0.S3\" (la letra S del OCR en lugar de 5), corregido a partir del contexto a 0.50—0.53 mm. El original no describe el soldado grande.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Individuo dealado: longitud del cuerpo sin alas 6.8—7.0 mm; longitud de la cabeza 1.38—1.40 mm, anchura de la cabeza (con los ojos compuestos) 1.75 mm; diámetro mayor del ojo compuesto 0.50—0.53 mm, diámetro menor 0.48 mm; ocelo 0.18 mm, distancia al ojo compuesto 0.05—0.08 mm; antena de 14 artejos o más; labro 0.37×0.53 mm; anchura del pronoto 1.48—1.55 mm, longitud 0.85—0.90 mm; fórmula de espolones tibiales 3:2:2; tarso de 4 artejos."
+  },
+  {
+   "label": "Soldado",
+   "text": "Soldado grande no disponible en el original (Soldier major: Unknown). Soldado pequeño: longitud del cuerpo 2.95—3.30 mm; longitud de la cabeza hasta la base mandibular 0.73—0.79 mm, anchura de la cabeza 0.68—0.70 mm; antena de 14 artejos; longitud del labro 0.38—0.43 mm, anchura 0.15—0.20 mm; longitud de la mandíbula 0.45—0.50 mm; longitud del posmentón 0.38—0.40 mm, anchura máxima 0.28 mm, anchura de la cintura 0.18—0.20 mm; anchura del pronoto 0.43—0.48 mm, longitud 0.30 mm; fórmula de espolones tibiales 3:2:2."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 3.90—4.40 mm; longitud de la cabeza 0.98—1.05 mm, anchura de la cabeza 1.13—1.18 mm; antena de 15 artejos; anchura del pronoto 0.55—0.58 mm, longitud 0.23—0.25 mm."
+  }
+ ]
+}

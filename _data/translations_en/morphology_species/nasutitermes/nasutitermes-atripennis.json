@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from Haviland's 1898 original description (in English), original name Termes atripennis sp. n., type specimen No. 427 from Sarawak, Borneo; includes the alate (male, female and queen), soldier and worker with measurements. The same work establishes a Section with this species as type, whose diagnostic characters are merged into the 'Other' section here. The original measurements use '°' as the decimal point (e.g. '1°5 mm', '5°55 mm'), transcribed here as 1.5 and 5.55. Now in Nasutitermes.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Alate (male): body length 9 mm, sooty black (fuliginous), the meso- and metanota and the underside of the body umber-brown (umbrinous). Head oval. Ocelli separated from the eyes by one ocellar diameter. Fenestra large and distinct, the size of an ocellus. Antennae 15-segmented, segment 3 only slightly larger than segment 2. Clypeus only slightly convex, not prominent. Pronotum 1.5 mm wide, nearly triangular, the corners rounded. Posterior margins of the meso- and metanota broadly and distinctly concave. Wings 22 mm long, sooty black; subcosta broad; media close to and parallel with the submedia, fine, reaching the wing tip, giving off several branches in the apical half; submedia giving off 8 branches, reaching to 1/3 from the wing tip. The 7th sternite of the female about half as long as wide; the abdomen of the queen may reach 18 mm, with distinct secondary sclerotization, the cuticle of the sides of the abdomen with numerous small pigment dots and hairs."
+  },
+  {
+   "label": "Soldier",
+   "text": "Soldier: body length 5.55 mm. Head width 1.5 mm, fulvous. Antennae 14-segmented, segments 2 and 3 subequal and far smaller than segment 4, segment 6 oval. Nasus large, conical. Mandibles reduced. Postmentum shorter than wide. Pronotum saddle-shaped, the raised anterior part very short. Pro-, meso- and metanota fulvous, abdominal tergites sooty black, arched. Hind femur reaching the 7th abdominal segment. Abdominal papillae (abdominal papille) absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Worker: body length 6 mm. Head nearly chestnut, abdominal tergites sooty black. Antennae 15-segmented. A-suture distinct. Clypeus hardly projecting. Abdomen large, strongly arched dorsally."
+  },
+  {
+   "label": "Other",
+   "text": "Locality: Borneo (Sarawak), type specimen No. 427. The same work also gives the diagnosis of the Section represented by this species (with Termes atripennis as type): male 5—10 mm long, antennae 15—17-segmented, clypeus convex and prominent, fore wing buds slightly larger than the hind wing buds, the media of the wing much closer to the submedia than to the subcosta, abdominal papillae absent; soldier 3—5 mm long, head nearly orange, nasus stout, antennae 14-segmented with segment 6 oval, mandibles reduced, postmentum shorter than wide, pronotum saddle-shaped with a short and very high anterior lobe, hind femur reaching the 7th abdominal segment, abdominal papillae absent; worker 3.5 mm long, head pale, antennae 13-segmented, clypeus convex, abdomen oval and dark from the intestinal contents."
+  }
+ ]
+}

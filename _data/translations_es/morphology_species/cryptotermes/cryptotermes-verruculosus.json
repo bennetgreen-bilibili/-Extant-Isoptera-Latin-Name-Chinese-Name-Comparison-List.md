@@ -1,0 +1,21 @@
+{
+ "note": "La tabla de medidas del original es una tabla OCR y algunos valores no pueden leerse (por ejemplo la posición de los ojos compuestos y algunas anchuras), por lo que solo se recogen los datos confirmables; la especie fue descrita originalmente como Kalotermes (Cryptotermes) verruculosus.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Sin diferencias claras respecto de Kalotermes brevis aparte del tamaño corporal; en el soldado la concavidad del vértice es menos profunda y los tubérculos menos prominentes que en K. brevis, y el contorno de la cabeza es menos recto que en K. brevis; los ángulos anterolaterales del pronoto son más redondeados y no puntiagudos, a diferencia de K. brevis. K. infumatus difiere por la venación, K. brevicollis es menor y K. dudleyi mayor."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza amarillo rojiza. Segmento antenal 3 más corto que el segmento 2, segmento 2 tan largo como el segmento 4. Ojo compuesto a 0.192 mm del margen inferior de la cabeza. Casi sin diferencias respecto de K. brevis aparte del tamaño. Medidas (algunos individuos de la misma colonia que la reina y los soldados): longitud del cuerpo con alas 9.45 mm; longitud del cuerpo sin alas 4.73 mm; longitud de la cabeza 1.12 mm; anchura de la cabeza 0.96 mm; longitud de la mandíbula izquierda 0.51 mm; anchura del pronoto 0.71 mm; longitud del ala anterior 6.85 mm, anchura 1.89 mm."
+  },
+  {
+   "label": "Soldado",
+   "text": "Parte anterior de la cabeza negra, parte posterior pardo amarillo rojiza, con algunas setas en la parte posterior; forma como en K. brevis, pero la concavidad del vértice es menos profunda y los tubérculos más débiles; los tubérculos de la cara frontal son marcados y el contorno lateral es menos recto que en K. brevis. Antenas claras, de 11—12 segmentos, segmentos 3 y 4 iguales y muy cortos, segmento 2 tan largo como los segmentos 3 y 4 juntos. Ojos compuestos visibles por detrás de la base antenal. Mandíbulas negras y cortas. Pronoto del mismo color que la parte posterior de la cabeza, margen anterior cóncavo con un ángulo medio romo, ángulos anterolaterales redondeados y no puntiagudos como en K. brevis; terguitos abdominales amarillos. Medidas: longitud del cuerpo 4.50 mm; longitud de la cabeza 1.28—1.38 mm; anchura de la cabeza 1.03 mm; longitud de las antenas 0.81 mm; longitud del pronoto 0.58—0.61 mm, anchura 0.96 mm; longitud de la tibia posterior 0.61 mm."
+  },
+  {
+   "label": "Otros",
+   "text": "Localidad tipo Kartabo, Guayana Británica, conocida solo de la localidad tipo. El holotipo es un soldado y el morfotipo una reina; la descripción se basa en una reina y seis soldados de dos colonias, y en un alado recolectado por separado que coincide con la reina, cuyas medidas se incluyen también."
+  }
+ ]
+}

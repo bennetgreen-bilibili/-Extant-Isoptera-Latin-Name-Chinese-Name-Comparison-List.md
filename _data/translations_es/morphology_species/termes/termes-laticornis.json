@@ -1,0 +1,17 @@
+{
+ "note": "Basada en la descripción original de Haviland 1898 (en inglés). El original no describió el alado, solo el soldado y el obrero. El texto se extrajo mediante OCR de un escaneo de Internet Archive y los nombres científicos y algunas formas léxicas presentan errores de reconocimiento (p. ej. eostratus por rostratus, latierons por laticornis); las cifras de las medidas se comprobaron con el contexto.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 6 mm. Longitud de la cabeza 1.8 mm, anchura 1.3 mm, amarillo anaranjado; cuerno anterior (naso) corto y agudo, de base ancha. Antenas con 14 artejos, artejo 2 más largo que el artejo 3, artejo 3 más largo que el artejo 4, los artejos a partir del 4 casi iguales en longitud. Labro pequeño, blanco, con lóbulos diminutos, extendidos y agudos. Mandíbulas de 1.8 mm de longitud, setiformes, ligeramente hacia arriba en la base y luego ligeramente curvadas hacia abajo. Postmentón estrecho en la base, ensanchándose hacia el ápice casi hasta el doble. Pronoto en forma de silla de montar. Patas posteriores casi alcanzando el extremo del abdomen. Abdomen ovalado largo, coloreado por el contenido intestinal. Tubérculos abdominales ausentes."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 4 mm. Cabeza blanco amarillento pálido. Antenas con 14 artejos. Postclípeo convexo. Abdomen bastante grande, ovalado largo."
+  },
+  {
+   "label": "Otros",
+   "text": "Localidad: Borneo (Sarawak). Número de tipo 231."
+  }
+ ]
+}

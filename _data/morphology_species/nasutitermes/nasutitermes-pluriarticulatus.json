@@ -1,0 +1,21 @@
+{
+  "zh_name": "多节象白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "（原文仅记雌虫）触角 18 节，第 3 节略长于第 2 节。前胸背板宽于长三分之一，近心形，后缘具缺刻。连翅体长 19 mm，去翅体长 9 mm。"
+    },
+    {
+      "label": "其他",
+      "text": "原文以 Eutermes arenarius subsp. pluriarticulatus 发表，故原始描述仅为该亚种的简短拉丁鉴别；正文仅给雌虫。产地巴西 Coxipó（Cuiabá，Silvestri 采）。"
+    }
+  ],
+  "note": "条目依据 Silvestri 1901 原始鉴别（有翅雌虫）；原文为 BHL 分册的图书馆 OCR 文本，拉丁文鉴别短小，仅能据此转述。",
+  "sources": [
+    {
+      "id": "S0092",
+      "citation": "Silvestri, F. 1901. Nota preliminare sui Termitidi sud-americani. Bollettino dei Musei di Zoologia ed Anatomia comparata della R. Università di Torino 16(389).",
+      "locator": "p. 8 (nr. 51)"
+    }
+  ]
+}

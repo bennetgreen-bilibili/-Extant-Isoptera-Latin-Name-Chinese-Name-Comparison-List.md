@@ -1,0 +1,21 @@
+{
+ "zh_name": "柔软象白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "菲律宾唯一兵蚁头为黄色、喙呈圆锥形的象白蚁；与 N. javanicus（Holmgren）最近，但明显更大。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头后部烟黄褐，两侧与前方较深；喙基部焦茶色（burnt umber）、端部淡红；腹背板淡烟褐；背板淡黄、带隐约烟调；其余部分淡白黄。头与喙形状见图 9 a、b；背观轮廓明显凸，喙基处因轻微收缩而凹。头被密集的细长白毛。触角 11 节，约为头连喙长的三分之二。量度（毫米及指数，采自模式采集 No. 1131、棉兰老 Cotabato 省的三头典型兵蚁）：头连喙长 1.23、1.23、1.29；头长（不含喙）0.78、0.75、0.81；喙长 0.45、0.48、0.48；头突出部 0.22、0.22、0.24；头高 0.45、0.43、0.51；头宽 0.74、0.72、0.81；前足胫节长 0.54、0.48、0.54；头指数 0.95、0.96、1.00；头喙指数 0.65、0.71、0.70；头突出指数 0.29、0.33、0.29；足伸长指数 0.83、0.76。"
+  }
+ ],
+ "note": "据 Light & Wilson 1936 改写，原文英文（The nasute termites of the Philippines，The Philippine Journal of Science 60: 461–520）。有翅成虫与工蚁原文均作 Unknown；模式采集 No. 1131，棉兰老 Cotabato 省；本种在采集记录中出现二十次，分布自吕宋 Ilocos Norte 至巴拉望南部 Sir J. Brooke Point 与棉兰老 Cotabato，在 Mariveles 与 Maquiling 山坡尤多。图 9（兵蚁头背面、侧面，左上颚）未译。",
+ "sources": [
+  {
+   "id": "S0537",
+   "citation": "Light S. F. & Wilson F. J. 1936. The nasute termites of the Philippines. The Philippine Journal of Science 60: 461–520.",
+   "locator": "p. 486 / The-nasute-termites-of-the-Philippines"
+  }
+ ]
+}

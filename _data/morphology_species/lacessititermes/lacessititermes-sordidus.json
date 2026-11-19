@@ -1,0 +1,25 @@
+{
+  "zh_name": "肮脏怒白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "雄性体长 7.5 mm；暗黑褐色，头栗色，足与触角暗褐色。单眼与复眼相距半个直径或更近；窗孔较小；触角 15 节，第 3 节略大于第 2 节；唇基微凸而突出。前胸背板长大于宽之半，前缘平直而略抬升，前侧角较尖地圆、略下压，后侧缘近直；中胸与后胸背板后缘宽、微凹；前翅芽大于后翅芽。翅长 12 mm，暗褐色；中脉与亚中脉、亚前缘脉距离相近，发出一或二分支并达翅端，近端甚淡；亚中脉具 6 条分支，止于距翅端三分之一的后缘处。后足伸达第 7 腹节；腹部乳突缺如。雌性第 7 腹节腹板长不及宽之半，后侧缘凹；蚁后腹部体长 14 mm，背板强烈拱起（尤以基部），次生几丁质化缺如，侧表皮具微细色素点与毛。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体长 3.5 mm，暗黑褐色，头黑色。触角长 3 mm、14 节，第 3 节长于第 2 节但长度变化大，第 7 节最长、长不及宽的三倍。喙较大；退化上颚清晰可见；后颏几与宽等长。前胸背板鞍形，前叶极短、几不隆起；后足腿节超出腹端；腹小、卵形；腹部乳突缺如。"
+    },
+    {
+      "label": "工蚁",
+      "text": "体长 5 mm，暗褐色，头栗色；触角 15 节；后足超出腹端；腹大、卵形。"
+    }
+  ],
+  "note": "据 Haviland (1898) 的原始种级描述改写，原文英语；含 imago、queen、soldier、worker，量度单位为 mm。原文「Hab. Borneo (Sarawak). Type, No. 261」。",
+  "sources": [
+    {
+      "id": "S0546",
+      "citation": "Haviland, G. D.; 1898. Observations on termites; with descriptions of new species. Journal of the Linnean Society of London (Zoology) 26: 358-442. https://archive.org/details/zoological-journal-of-the-linnean-society_1898_26",
+      "locator": "p. 434—435"
+    }
+  ]
+}

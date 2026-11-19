@@ -1,0 +1,21 @@
+{
+ "zh_name": "弓颚弓白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "属征：头具囟（fenestra）；触角 15 节；兵蚁上颚镰刀形，触角 13—14 节；前胸背板中央前部上翘。本种兵蚁原文未另作描述，条目内容据新种的有翅成虫描述。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "触角第 3 节很小，比第 2 节短一半以上，第 4 节与第 5 节约等长。前胸背板略宽于长，前角圆，后部收窄，中央具凹口。体长（连翅）10.5 mm，去翅体长 5.6 mm。产地：阿根廷、巴拉圭、马托格罗索。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0551",
+   "citation": "Silvestri, F. 1901. Nota preliminare sui Termitidi sud-americani. Bollettino dei Musei di Zoologia ed Anatomia comparata della R. Università di Torino 16(389): 1-8.",
+   "locator": "p. 3, no. 17"
+  }
+ ],
+ "note": "据 Silvestri 1901 年拉丁文原始描述（新种 Amitermes amifer 新种，为属的模式种之一批原始种）；该文为「初步纪要」，只给出简短鉴别式，描述了有翅成虫，兵蚁仅见于属征。量度为单个标本数值。"
+}

@@ -1,0 +1,25 @@
+{
+ "zh_name": "双色须白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "体长 3.5 mm。象鼻近淡黄褐色（subtestaceous），头近栗色（subcastaneous）；胸部、足与触角淡黄白色（ochroleucous），腹部深褐（fuliginous）。头宽 1.4 mm。触角长 3.5 mm，14 节，第 3 节长为第 2 节的三倍，其余各节向端部渐短。象鼻细，其前面与头前面连成弧线。退化上颚清晰可见。后颏长不及宽。前胸背板鞍形，前叶隆起不多。后足股节远超过腹部。腹部卵形，背板强拱。腹瘤缺。"
+  },
+  {
+   "label": "工蚁",
+   "text": "体长 3.5 mm。头近栗色；胸部与足淡黄白色；腹部卵形，背板强拱。触角 15 节。后足股节达第 8 腹节。"
+  },
+  {
+   "label": "其他",
+   "text": "若虫触角 15 节。分布：马来半岛（新加坡，Pulo Brani）。"
+  }
+ ],
+ "note": "据 Haviland 1898 原始描述（原文作 TERMES BICOLOR, 新种）。仅描述兵蚁、工蚁与若虫触角节数，无有翅成虫，亦未给模式标本编号。原文经 BHL/Zenodo 扫描本 OCR 抽取，小数点被识别为杂符或丢失：兵蚁体长「3°5 mm」= 3.5 mm、触角长「3°5 mm」= 3.5 mm；兵蚁头宽 OCR 作「14 mm. broad」，按同属其他种兵蚁头宽与体长的比例及上下文判定为 1.4 mm，已按 1.4 mm 写入，仍建议复核。词形有误（papille=papillae、Antenne=Antennae），量度单位为 mm。",
+ "sources": [
+  {
+   "id": "S0555",
+   "citation": "Haviland G. D. 1898. Observations on Termites; with Descriptions of new Species. Journal of the Linnean Society of London, Zoology 26: 308–440. https://doi.org/10.1111/j.1096-3642.1898.tb00405.x",
+   "locator": "p. 439"
+  }
+ ]
+}

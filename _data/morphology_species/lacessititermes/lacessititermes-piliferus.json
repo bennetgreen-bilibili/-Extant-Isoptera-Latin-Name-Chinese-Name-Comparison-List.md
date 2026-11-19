@@ -1,0 +1,21 @@
+{
+  "zh_name": "具毛怒白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "头部黑色，鼻端亦黑；体浅褐色，触角与腿节带褐色。头上有少量刚毛，腹部背板具一行后方刚毛。头比 sordidus 更宽更厚。触角 14 节，第 3 节长于第 2 节，第 4 节长于第 3 节。量度：体长 3.7—4 mm，头连鼻长 1.67 mm，头无鼻长 0.83 mm，头宽 1.03 mm，前胸背板宽 0.57 mm。"
+    },
+    {
+      "label": "工蚁",
+      "text": "未获成熟工蚁；现有工蚁体色浅，量度：体长 3.5 mm，前胸背板宽 0.57 mm。"
+    }
+  ],
+  "note": "据 Holmgren (1913) 的种级描述改写，原文德语；成虫原文记「unbekannt」，仅描述兵蚁与工蚁，量度单位为 mm。工蚁头宽在扫描文本中 OCR 残损（作「0,i*ö」），未录入。原文附注认为本种可能只是 sordidus 的一个宗（Rasse）。",
+  "sources": [
+    {
+      "id": "S0089",
+      "citation": "Holmgren, N. F.; 1913. Termitenstudien. 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Kungliga Svenska Vetenskaps-Akademiens Handlingar 50(2): 1-276. https://archive.org/details/biostor-244353",
+      "locator": "p. 206—207"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+ "note": "After Snyder 1926 original description (published as Nasutitermes (Agnathotermes) glaber, new species, the new subgenus and the type species published together). The original describes only the soldier; no workers were collected and there are no alates. The original was extracted by OCR from the BHL/Zenodo scan, with the spaces between words broken up (one word per line) and a few genus names recognised as Convew/itermes, Z'enwirostritermes (should be Convexitermes, Tenuirostris termes), checked against the context; measurements in mm.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head pale yellow, rostrum (fontanelle tube) reddish brown. Head pear-shaped, constricted about one quarter of the way in front of the antennal bases, widest behind; dorsum slightly convex, almost straight in lateral view, slightly depressed at the constriction; sparsely covered with very short hairs, with several longer hairs on the anterior and posterior margins. Rostrum short, conical, not very thick, apex not upturned, covered with short hairs, with additional long hairs at the tip. Mandibles without a pointed process. Antennae pale yellow, 11-segmented, finely hairy; segment 3 longer than segment 2 or segment 4; segments gradually longer and wider towards the apex; apical segment slender, nearly oval. Pronotum yellow at the margins, saddle-shaped, covered with short hairs. Legs white, rather long and slender, finely hairy. Abdomen dirty white, tergites covered with short hairs, cerci rather long."
+  },
+  {
+   "label": "Diagnostic characters",
+   "text": "Originally placed in the subgenus Obtusitermes (whose soldiers are dimorphic), but only one soldier form was collected, the major soldier; its characters are intermediate between the subgenera Convexitermes and Subulitermes: the rostrum is short and conical as in Convexitermes, while the head outline is as in Subulitermes. Because no workers were collected, the author considered that it might belong to the subgenus Tenuirostritermes or to a new subgenus (Agnathotermes); this species is the type species of that new subgenus, and the loss of the mandibular pointed process is the diagnostic character of the subgenus."
+  },
+  {
+   "label": "Other",
+   "text": "Measurements: soldier body length 2.70 mm; head with rostrum 0.90—0.95 mm; head without rostrum 0.55—0.60 mm; rostrum length 0.85 mm; pronotum length 0.10 mm; hind tibia length 0.57 mm; head width 0.50 mm; pronotum width 0.25 mm. Type locality: Cachuela Esperanza, Bolivia (Beni River). In March 1922 (month 3) W. M. Mann collected 38 soldiers, in the same nest as Cornitermes (Labiotermes) labralis Holmgren; type soldier Cat. No. 27660, U.S.N.M."
+  }
+ ]
+}

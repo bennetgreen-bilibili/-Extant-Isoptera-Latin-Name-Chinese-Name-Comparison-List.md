@@ -1,0 +1,21 @@
+{
+ "zh_name": "阿布里异颚白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "最显著的种级特征在前胸背板前缘：A. hypogeus 与 A. ivorensis 的中凹较窄而尖，前缘两峰在正前方彼此靠近；本种凹入较宽而不尖，两峰相距较远，凹入角约 135°。头较 A. hypogeus 长，两侧较直，向前收窄的方式接近 A. ivorensis。左侧上颚第 1 缘齿较 A. hypogeus 小，与端部切缘所成角度远为平缓而宽；A. hypogeus 与 A. ivorensis 在这一点上相近。后颏较 A. hypogeus 长，前部与缢缩之间的两侧较直；缢缩宽度与 A. hypogeus 阿迪奥波杜梅标本相同，明显不及副模兵蚁与 A. ivorensis 图示者收缢之甚。前足基节与 A. hypogeus 几乎相同。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头毛被接近 A. hypogeus，但头顶后部的刚毛不如后者长。头较 A. hypogeus 长，两侧较直，向前收窄。触角 14 节。上颚接近 A. hypogeus。后颏较 A. hypogeus 长，两侧较直；副模兵蚁后颏缢缩之前的部段，约等于后颏自中部后缘起长度的 1/8。前胸背板前缘中凹宽而不尖，两峰相距较远，凹入角约 135°。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0707",
+   "citation": "Emerson, A. E. 1956. Ethospecies, ethotypes, taxonomy, and evolution of Apicotermes and Allognathotermes (Isoptera, Termitidae). American Museum Novitates 1771: 1-31. https://archive.org/details/ethospeciesetho1771emer",
+   "locator": "pp. 24—26（Allognathotermes aburiensis (Sjöstedt), new combination）"
+  }
+ ],
+ "note": "据 Emerson 1956 年英文描述改写；原文英文。本种原被 Sjöstedt 1926 置于 Apicotermes，Emerson 依伦敦自然史博物馆借得的合模兵蚁与斯德哥尔摩博物馆交换的副模兵蚁移入 Allognathotermes。原文的兵蚁量度表在扫描件中整段呈镜像错乱（如「eIqi} pury Jo y43ua]」），无法可靠还原，故未采录量度；模式产地黄金海岸 Aburi。"
+}

@@ -1,0 +1,25 @@
+{
+  "zh_name": "科西波象白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁体长仅约 4 mm，头壳深褐色、鼻端较淡，头仅有几根刚毛；觖角长，13 节；工蚁头长 1.53 mm、头宽 1.20 mm，体长 4.5 mm，为较小的种。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头壳深褐色，鼻端较淡；体铁锈黄至浅铁锈褐。头仅有几根刚毛；腹部背板光滑，具一排后缘刚毛。头宽卵形，鼻锥状；额轮廓在鼻基有弱隆起。觖角长，13 节：第 3 节至少为第 2 节的两倍，第 4 节明显长于第 2 节，第 5 节长于第 4 节。前胸背板深鞍状，前缘不凹入。量度：体长约 4 mm（头长、头宽原文数字 OCR 碎损，未录）。"
+    },
+    {
+      "label": "工蚁",
+      "text": "头顶板连同横带褐色，后尘一较淡；头壳缝、觖角、颊、口器与体余白黄色。头几仅在显微镜下可见微毛；腹部背板亦仅微毛，具一排后缘刚毛。头宽卵形，头壳缝明显且等宽；后尘一略短于其半宽。觖角 14 节：第 3 节长于第 2 节，第 4 节短于第 2 节。前胸背板深鞍状，前缘极少凹入。量度：体长 4.5 mm；头长 1.53 mm；头宽 1.20 mm。"
+    }
+  ],
+  "note": "描述取自 Holmgren 1910 对 Eutermes coxipoensis 的原始描述（德文），含兵蚁与工蚁，有翅成虫未知；模式产地巴西 Mato Grosso: Coxipó (Cuyabá)。Holmgren 将 Silvestri 所记 E. arenarius subsp. proximus var. α 归入本种。原文为德文，BHL 扫描件 OCR 质量一般：小数点常被误认作逗号或冒号，部分量度数字模糊，模糊者不录。学名当时置于 Eutermes 属，现归 Nasutitermes。",
+  "sources": [
+    {
+      "id": "S0607",
+      "citation": "Holmgren, N. 1910. Versuch einer Monographie der amerikanischen Eutermes-Arten. Mitteilungen aus dem Naturhistorischen Museum in Hamburg 27: 171–325.",
+      "locator": "pp. 248–249"
+    }
+  ]
+}

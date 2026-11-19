@@ -1,0 +1,25 @@
+{
+  "zh_name": "树荫突扭白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "体长 6 mm，上方暗黑褐色，中胸、后胸背板及腹面暗褐色。头卵形；单眼与复眼相距约一个直径；窗孔不显；触角 14 或 15 节，第 3 节长于第 2 节；唇基不突出。前胸背板前缘平直，前侧角尖而略下弯，后缘呈不明显的双叶状；中胸与后胸背板后缘窄，呈较尖的叶状；前翅芽略大于后翅芽；后足几不达腹端；腹部乳突缺如。雌性第 7 腹节腹板长不及宽之半，后缘圆；蚁后腹部体长 22 mm，膨胀明显，腹部侧表皮具色素点。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体长 5 mm；头淡黄白色，长 3 mm、宽 1 mm。触角 14 节，第 2 节与第 3 节近等长。上唇柔软、白色、长 0.5 mm，不对称，微呈叶状，每叶末端具一柔软刚毛。上颚长 1.5 mm，形状同 speciosus：线形、强烈弯曲，右颚较短而直，左颚基三分之一向内、中三分之一急转外、端三分之一复向前。后颏在基三分之一处收窄，端部三分之二均匀增宽。前胸背板鞍形，前部隆起。后足腿节伸达腹端；腹部乳突缺如；腹长圆形，白色。"
+    },
+    {
+      "label": "工蚁",
+      "text": "体长 4 mm；头淡黄白色；触角 14 节；胸部窄；腹长卵形，宽于头，因肠内容物而显深色。"
+    }
+  ],
+  "note": "据 Haviland (1898) 的原始种级描述改写，原文英语；含 imago、queen、soldier、worker，量度单位为 mm。原文「Hab. Borneo (Sarawak). Type, No. 377」。本种为 Haviland 所立「Termes nemorosus 组」的模式种，该组现归 Dicuspiditermes。",
+  "sources": [
+    {
+      "id": "S0546",
+      "citation": "Haviland, G. D.; 1898. Observations on termites; with descriptions of new species. Journal of the Linnean Society of London (Zoology) 26: 358-442. https://archive.org/details/zoological-journal-of-the-linnean-society_1898_26",
+      "locator": "p. 413—414"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from the original description of Holmgren 1913 (German, published as Hamitermes (Globitermes) globosus forma depilis n. f.), of the rank of form (forma), treated here as a subspecies following the catalogue. The original is in German, extracted by OCR from the Internet Archive scan, with a few misrecognised words and figures (e.g. l,i for 1,1), checked against the context; measurements in mm.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Almost entirely identical with G. globosus; the posterior margins of the meso- and metanotum, however, broadly but not deeply concave, the mesonotum concave more deeply than the metanotum; many weak brown veins between the radial sector and the media; the size usually the same as in globosus, but the antennae longer."
+  },
+  {
+   "label": "Soldier",
+   "text": "As in G. globosus, but the head without setae, the pronotum without long setae, and the abdominal pilosity far sparser and shorter."
+  },
+  {
+   "label": "Worker",
+   "text": "As in G. globosus."
+  },
+  {
+   "label": "Other",
+   "text": "Queen: very deeply pigmented, even between the sternites and the tergites. Distribution: Borneo. Distinguishable from G. globosus only in the pilosity (head and pronotum without setae, abdominal pilosity thin and short) and in the wing venation (many weak veins between Rs and M)."
+  }
+ ]
+}

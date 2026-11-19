@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from Haviland's 1898 original English description. The original describes it as Calotermes borneensis, n. sp., type locality Sarawak, Borneo (type number 439). The original marks decimals with an old-style superior point (e.g. \"8*5 mm\" for 8.5 mm, \"2*4 mm\" for 2.4 mm); this entry converts them to decimal millimetres.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Soldier head 2.4 mm long and 1.7 mm wide, dark earth yellow, paler behind, with two broad rounded tubercles in front and a median depression between them; antennae 11-segmented, the 3rd segment longer than the 2nd and the 4th; labrum blunt, almost reaching the tip of the mandibles; mandibles 0.9 mm long, nearly black, the edges slightly toothed. Alate head width not given separately in the original; pronotum slightly wider than the head and kidney-shaped; wing length 17 mm, width 1.8 mm."
+  },
+  {
+   "label": "Alate",
+   "text": "(Recorded as Male in the original.) Body length 7 mm, dorsum dark chestnut brown, venter paler. Ocelli slightly separated from the compound eyes. Antennae 12-segmented, the 2nd and 3rd segments about equal in length. Pronotum slightly wider than the head, kidney-shaped. Wings 17 mm long and 1.8 mm wide, deep tea-coloured; the costal area usually (but not always) narrow and veinless, the media stout and closely parallel to the subcosta. Hind legs reaching the 6th abdominal segment. Seventh sternite of the female parabolic."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 8.5 mm. Head dark earth yellow, paler behind, 2.4 mm long and 1.7 mm wide, with two broad rounded tubercles in front and a median depression between them. Antennae 11-segmented, the 3rd segment longer than the 2nd or the 4th. Labrum blunt, almost reaching the tip of the mandibles. Mandibles 0.9 mm long, nearly black, the edges slightly toothed. Basal half of the postmentum narrow, widening towards the tip, fused with the head along almost its whole length. Pronotum earth yellow, as wide as the head. Hind legs reaching the 8th abdominal segment."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 10 mm, cylindrical."
+  }
+ ]
+}

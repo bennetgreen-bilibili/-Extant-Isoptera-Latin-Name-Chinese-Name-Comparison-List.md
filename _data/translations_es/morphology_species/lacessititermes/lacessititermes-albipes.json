@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Macho: longitud del cuerpo 8.5 mm; castaño oscuro, patas pardo negruzco oscuro, tarso y últimos segmentos antenales más claros. Cabeza ovalada; ocelos a medio diámetro de los ojos compuestos; fenestra muy estrecha, casi ausente; antena de 15 segmentos, segmento 3 algo mayor que el 2; clípeo muy ligeramente convexo. Pronoto aproximadamente la mitad de largo que de ancho, borde anterior recto, esquinas anteriores obtusamente redondeadas, bordes posterolaterales casi rectos; bordes posteriores del meso- y metanoto anchos y marcadamente cóncavos; esbozos alares anteriores algo mayores que los posteriores. Longitud del ala 14 mm, pardo oscuro; media mucho más próxima a la submedia que a la radio, de extremo muy fino, que emite dos a tres ramas que alcanzan el ápice del ala; submedia con 9 ramas, que terminan a un quinto de la longitud del ala desde el ápice. Patas posteriores que alcanzan el extremo del abdomen; papilas abdominales ausentes. En la hembra, el esternito del segmento abdominal 7 aproximadamente la mitad de largo que de ancho, con los bordes posterolaterales cóncavos; longitud del cuerpo de la reina 14 mm, terguitos fuertemente arqueados, quitinización secundaria escasa, epidermis lateral con finos puntos de pigmento y setas."
+  },
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 4 mm; dorso negro, vientre pardo negruzco oscuro, varios segmentos apicales de la antena, tibias y tarso blancos. Anchura de la cabeza 0.8 mm. Antena de 14 segmentos, segmento 3 más largo que el 2, segmento 7 el más largo, unas tres veces más largo que ancho. Rostro bastante grande, cuya superficie anterior forma un ángulo marcado con la superficie anterior de la cabeza; mandíbulas vestigiales claramente visibles; posmentón casi tan largo como ancho. Pronoto en forma de silla de montar, lóbulo anterior corto, muy poco elevado; fémures posteriores que rebasan el extremo del abdomen; abdomen pequeño, ovalado; papilas abdominales ausentes."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 5 mm, pardo negruzco oscuro, cabeza casi castaña; antena de 15 segmentos; abdomen bastante grande, ovalado, esternitos fuertemente arqueados."
+  }
+ ],
+ "note": "Adaptado de la descripción original específica de Haviland (1898), original en inglés; incluye imago, reina, soldado y obrero, con medidas en mm. El original indica «Hab. Borneo (Sarawak). Type, No. 363». El número de segmentos antenales blancos del soldado está dañado en el ejemplar escaneado (el OCR lee «the 12 apical segments»); de acuerdo con el contexto se traduce como «varios segmentos apicales»."
+}

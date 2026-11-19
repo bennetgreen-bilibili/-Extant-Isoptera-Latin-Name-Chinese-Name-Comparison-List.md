@@ -1,0 +1,25 @@
+{
+  "zh_name": "长矛弓白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "原文作 Termes hastatus Haviland, 1898（南非开普省 Port Elizabeth）。Sands 修订时把 Hamitermes runconifer、atlanticus、capicola、gunni、kellyi、kenhardti、libertatis、londonensis、murraysburgi、schoombiensis、zuurbergi 等一并归为异名。有翅成虫触角 14 或 15 节，体型变异幅度较原描述大。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "对 Haviland 原描述须作补充：触角可为 14 或 15 节；已知体型变异幅度更大。量度：头宽（连复眼）0.95—1.16，复眼最大直径 0.23—0.29，单眼长 0.07—0.10、宽 0.10—0.14，单眼至复眼距 0.03—0.08，前胸背板宽 0.76—1.04、长 0.44—0.64，后足胫节长 0.93—1.25，前翅长 8.00—12.6。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头壳背面观长大于宽，由圆角长方形至宽卵形，向前变窄；侧面观上表面平坦，或仅在囟上方折褶与后头之间略弯、随后均匀弯向后头。触角 13—15 节。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0554",
+      "citation": "Sands, W. A. 1959. A revision of the termites of the genus Amitermes from the Ethiopian region (Isoptera, Termitidae, Amitermitinae). Bulletin of the British Museum (Natural History), Entomology 8: 129-156.",
+      "locator": "pp. 137-139 (Amitermes hastatus (Haviland))"
+    }
+  ],
+  "note": "据 Sands 1959 年英文修订；原始描述为 Haviland 1898（Journal of the Linnean Society, Zoology 26: 358-442，原文作 Termes hastatus）。本文补充有翅成虫量度与兵蚁头形，兵蚁量度在本次所读窗口之外未采入。"
+}

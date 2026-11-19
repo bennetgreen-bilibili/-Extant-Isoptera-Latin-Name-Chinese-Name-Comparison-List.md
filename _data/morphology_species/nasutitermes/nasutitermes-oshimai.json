@@ -1,0 +1,21 @@
+{
+ "zh_name": "大岛象白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "属褐头 matangensis 组，与 N. panayensis 最近：体型远小、后足胫节远短、腹背板不着色。模式产地为吕宋 Laguna 省 Paete，本组中吕宋已知的唯一象白蚁。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头淡橙褐，后部较淡；喙中央较深；腹背板几乎不着色。头与喙形状见图 15 a、b，极似 N. panayensis 但较小；喙基部较后者略粗。上颚见图 15 b。触角淡黄，12 节，略短于头连喙长。量度（毫米及指数，采自模式采集 No. 1509、Laguna 的一头典型兵蚁）：头连喙长 1.47；头长（不含喙）0.90；喙长 0.57；头突出部 0.24；头高 0.60；头宽 0.90；前足胫节长 0.78；头指数 1.00；头喙指数 0.63；头突出指数 0.27；足伸长指数 0.87。"
+  }
+ ],
+ "note": "据 Light & Wilson 1936 改写，原文英文（The nasute termites of the Philippines，The Philippine Journal of Science 60: 461–520）。有翅成虫与工蚁原文均作 Unknown。仅两批标本、各含一头兵蚁，采自吕宋 Laguna 省 Paete（McGregor 采），原被 Oshima 作为 N. gracilis 的同模（autotypes）寄来，与 Oshima 原描述明显不符；作者认为可能来自南部岛屿、处理时错置，两批标本或出自同一巢。种名献予菲律宾白蚁研究的先驱 Masamitsu Oshima。图 15（兵蚁头背面、侧面，左上颚）未译。",
+ "sources": [
+  {
+   "id": "S0537",
+   "citation": "Light S. F. & Wilson F. J. 1936. The nasute termites of the Philippines. The Philippine Journal of Science 60: 461–520.",
+   "locator": "p. 501 / The-nasute-termites-of-the-Philippines"
+  }
+ ]
+}

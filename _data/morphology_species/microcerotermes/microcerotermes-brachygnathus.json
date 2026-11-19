@@ -1,0 +1,25 @@
+{
+ "zh_name": "短颚锯白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "以兵蚁头部的长度与相对较短的上颚易于区分：头长约与头宽相等（1.75 比 0.87 毫米，长为宽的两倍），上颚长 0.80 毫米，明显短于头宽，上颚粗壮、端部弯而尖、内缘不规则且深刻锯齿状。本种与 Microcerotermes parvulus 生物学相似。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "体奶油色，头赭色，上颚黑色，腹部灰色、略有斑点。头（图版 XXXVIII，1）长为宽的两倍，两侧平行，后角圆，背面略凸，具少量刚毛，前方倾斜；上唇基部略宽于长，前缘宽圆。触角 13 节：第 2 节较第 3、4 节之和仅略短；第 3 节与第 4 节长度近等，较第 4 节狭，且与第 4 节分界不明显。上颚较头宽略短，粗壮，端部弯而尖，内缘不规则且相当深地呈锯齿状。前胸背板前叶后缘中部略凹入。足毛稀疏，第二对足的胫节（图版 XXXVIII，4）外侧端部有小而相当粗壮的刺。腹部具较多短毛，各节后缘另有若干短至相当长的毛。量度（毫米）：体长 5；头长 1.75、头宽 0.87；上颚长 0.80；触角长 1.10；后足胫节 0.65。"
+  },
+  {
+   "label": "工蚁",
+   "text": "大工蚁：体秆黄色，头赭色，腹部因含食物而具灰色斑点。头的前唇基略膨大；触角 13 节，第 2 节较第 3、4 节之和略短，第 3 节较第 4 节略短且与第 4 节分界不明显、颜色较浅、通常仅具 1—3 根外侧毛，第 5 节较第 4 节略长。前胸背板前叶后缘圆；足与腹部同兵蚁。量度（毫米）：体长 4.2；头长 0.91、头宽 0.91；触角长 0.91；后足胫节 0.52。小工蚁：触角 13 节，第 3 节与第 4 节通常分界明显，第 3 节具若干背毛。量度（毫米）：体长 4；头长 0.68、头宽 0.68；触角长 0.91；后足胫节 0.58。"
+  }
+ ],
+ "note": "据 Silvestri 1914 改写，原文拉丁文（Contribuzione alla conoscenza dei Termitidi e Termitofili dell'Africa occidentale. I. Termitidi，Bollettino del Laboratorio di Zoologia Generale e Agraria della R. Scuola Superiore d'Agricoltura in Portici 9）。模式产地：几内亚 Kindia。作者另立一变种 var. progrediens（兵蚁，触角差异），其拉丁描述在本卷 OCR 中残缺，仅存起首「Miles. An…」，未译未录。原文页码页脚在本段 OCR 中大量缺失，locator 的页数据相邻页脚（p. 68—69 与 p. 100）序列推算，可能有一页出入；图版 XXXVIII（兵蚁头、上唇、上颚、第二对足胫节）未译。",
+ "sources": [
+  {
+   "id": "S0534",
+   "citation": "Silvestri F. 1914. Contribuzione alla conoscenza dei Termitidi e Termitofili dell'Africa occidentale. I. Termitidi. Bollettino del Laboratorio di Zoologia Generale e Agraria della R. Scuola Superiore d'Agricoltura in Portici 9. https://archive.org/details/bollettinodellab9191415rscufo",
+   "locator": "pp. 71–73 / Contribuzione-alla-conoscenza-dei-Termitidi-e-Termitofili-dell’Africa-occidental"
+  }
+ ]
+}

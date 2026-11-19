@@ -1,0 +1,29 @@
+{
+ "zh_name": "团结象白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁体型与 E. kimberleyensis 相近，但头形不同、颜色更偏橙红，象鼻基部更宽更粗壮，触角较短而更细，第 3、4 节大多愈合。头红橙色，后部宽而圆，向象鼻急收；触角长而细，第 3 节明显短而窄并大多与第 4 节愈合。工蚁与 E. kimberleyensis 的工蚁很相似，但头上表面更偏红橙，15 节触角的各节略长、颜色更浅。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "与 E. kimberleyensis Mjöb. 同大、外观相同，但头形不同，颜色更偏橙红，象鼻基部更宽更粗壮，触角不及其长而更细，第 3、4 节大多愈合。头红橙色，后部宽而圆，向象鼻急收；触角长而细，但各节不似 E. kimberleyensis 那样宽而长；第 3 节明显短、也不那么宽，与第 4 节愈合，第 4 节长度约与第 3 节相同；其后各节约长为宽的 2 倍，颜色比 E. kimberleyensis 略深；前胸背板略宽；其余特征与该种很相似。量度：体长 4 mm，头长 1.44 mm，象鼻长 0.56 mm，象鼻基部宽 0.25 mm，前胸背板长 0.29 mm、宽 0.53 mm，腹部宽 0.82 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "与 E. kimberleyensis Mjöb. 的工蚁很相似，但头上表面更偏红橙；15 节触角的各节略长、颜色更浅。量度：体长 5 mm，头长 1.62 mm，头宽 1.37 mm，前胸背板长 0.42 mm、宽 0.8 mm，腹部宽 1.5 mm。"
+  },
+  {
+   "label": "其他",
+   "text": "模式产地为西澳大利亚西南部的 Mundaring，1911 年 8 月采于树皮下。"
+  }
+ ],
+ "note": "据 Mjöberg 1920 年原始描述（英文，Text Figs. 17、24）改写，原文名 Eutermes coalescens 新种，与同文描述的 E. kimberleyensis 逐项对比写成；含兵蚁与工蚁两品级及全部量度，未描述有翅成虫。原文以逗号作小数点（如「1,44 mm」），已转写为 1.44。文本抽自 archive.org 扫描本，个别词形有 OCR 误（breath=breadth、simular=similar、5rd=3rd），已按上下文核对。今归 Nasutitermes。",
+ "sources": [
+  {
+   "id": "S0113",
+   "citation": "Mjöberg, E. 1920. Results of Dr E. Mjöberg's Swedish scientific expeditions to Australia 1910–1913. 19. Isoptera. Arkiv för Zoologi 12(15): 1–128.",
+   "locator": "pp. 51—52"
+  }
+ ]
+}

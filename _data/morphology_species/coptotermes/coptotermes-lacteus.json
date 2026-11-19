@@ -1,0 +1,25 @@
+{
+  "zh_name": "乳色乳白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "共型（Shoalhaven, N.S.W.）量度（mm）：体长连翅 15.00—15.50；不连翅 6.50—7.00；头长至额唇基缝 1.02—1.08；头长至上唇端 1.25—1.36；头宽 1.25；眼径 0.306—0.323；前胸背板长 0.74、宽 1.08—1.14；前翅长 11.25—11.75、宽 3.13—3.24；后足胫节长 1.08—1.14。Hill 早先依模式标本记头色榛褐、翅赤褐，本文据保存更好的共型与 Musgrave 新采标本订正为体色显著更深，与原描述一致。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "量度（共型，mm）：体长 3.50—3.90；头长连上颚 1.93—2.10；头长至上唇端 1.42—1.48；头长至额腺孔前缘 1.14—1.31；头宽 1.08—1.14；触角 15 或 16 节；后颏最窄处宽 0.272—0.289；前胸背板长 0.40—0.45、宽 0.80—0.85；后足胫节长 0.97。Hill 早先所记兵蚁量度出自 Uralla 标本（南澳大利亚博物馆），本文认为应归入 C. acinaciformis，故此处以共型量度为准。"
+    },
+    {
+      "label": "其他",
+      "text": "分布：新南威尔士（Shoalhaven 为共型产地）等澳大利亚东部；Mjöberg (1920) 记于昆士兰 Millaa Millaa、Laura 与 Alice River，Hill 对此存疑，仅将 Pikedale（南昆士兰）的兵蚁与工蚁暂归本种。巢为黏土外壳包被木质碎屑的块状巢。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0585",
+      "citation": "Hill G.F. 1926. Australian termites (Isoptera). Notes on Stolotermes, Calotermes, and Coptotermes, with descriptions of new species. Proceedings of the Royal Society of Victoria 38: 192–214.",
+      "locator": "pp. 202–205"
+    }
+  ],
+  "note": "Hill (1926) 依 Shoalhaven（新南威尔士）共型标本补记量度；原文以「°」作小数点，此处还原。有翅成虫描述沿用 Froggatt 原描述的颜色术语，本文补正为「头色榛褐、翅呈赤褐」。"
+}

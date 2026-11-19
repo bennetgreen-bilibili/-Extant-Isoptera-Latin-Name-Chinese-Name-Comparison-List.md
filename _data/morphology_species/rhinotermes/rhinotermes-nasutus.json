@@ -1,0 +1,21 @@
+{
+  "zh_name": "大鼻鼻白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "与 R. marginalis 的区别是体色更浅、体型更大，触角第 3 节明显比第 1 节长；触角 20 节，第 3 节约为第 2 节长的三倍。原描述者为 Holmgren（1912），所据为大型兵蚁的上颚。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "头橙黄色，具若干刚毛；圆形；单眼前方有两个大的、明显的肌肉附着点。触角橙黄色，20 节，第 3 节极大而长，为第 2 节长的三倍，且明显长于第 1 节，端部膨大。复眼颇大，距头下缘约 1/4 眼径。单眼颇大，与眼距小于其直径。唇基突出，与本亚属其他种相同。胸部具许多刚毛。前胸背板橙黄色，几与头等宽；两侧圆；后缘微凹。中、后胸背板后缘平直。翅透明，基部近缝合线处带褐色；具网状纹。足橙黄色。腹部橙黄色，具许多刚毛。量度：连翅长 18.91 mm，不连翅长 10.00—11.00 mm；头长 2.47—2.57 mm，头宽 2.28—2.35 mm；触角长 3.85 mm；眼径 0.65 mm；前胸背板长 1.25—1.28 mm，宽 2.12—2.15 mm；后足胫节长 2.70—2.73 mm；前翅长 14.18 mm，宽 4.02 mm。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0530",
+      "citation": "Emerson, A. E. The termites of Kartabo, Bartica District, British Guiana. Zoologica (New York Zoological Society) 6(4).",
+      "locator": "pp. 347—348（The-termites-of-Kartabo）"
+    }
+  ],
+  "note": "据 Emerson 卡塔博白蚁志改写，原文英语。原书以 Rhinotermes nasutus Holmgren（1912）的组合名出现，描述依据三头有翅成虫（一头采于 Issororo，两头采于 Kartabo）；该段之后接 R. marginalis，本种大兵蚁的形态未再描述。"
+}

@@ -1,0 +1,25 @@
+{
+ "zh_name": "圣安娜象白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "头栗褐色；触角与体板锈黄；前胸背板前部略染褐。头仅具数根刚毛；腹部背板光滑，仅有后缘刚毛。头除象鼻外几乎呈圆形；象鼻长度正常、圆锥形；额部轮廓在鼻基有不明显的隆起，或完全没有隆起。触角 13 节：第 3 节为第 2 节的一倍半长；第 4 节仅略长于第 2 节；第 5 节略长于第 4 节。前胸背板呈不深的鞍形，前缘明显凹入。体长与头长、头宽数值在原文排印中被 OCR 损坏（仅记量 3 头），故不列。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头板与横带亮褐色；唇基白黄色；头缝、颊、触角与口器亮锈黄至白黄色。头几乎仅被显微毛，另有数根较长刚毛；腹部背板被很短的细毛，并有后缘刚毛。头宽卵形；头缝开放、非常明显；囟孔界限不清、长形；唇基略短于其半宽。触角 14 节：第 3 节长于第 2 节但不到两倍；第 4 节短于第 2 节；第 5 节略长于第 4 节，但几乎不及第 2 节长。前胸背板呈相当深的鞍形，前缘凹入。工蚁体长 5 mm、头长 1.81 mm、头宽 1.08 mm。"
+  },
+  {
+   "label": "其他",
+   "text": "原文以 Eutermes Sanctae-Anae 新种 发表，异名 Eutermes arenarius subsp. proximus var. a Silvestri。模式产地阿根廷 Misiones 的 S. Ana（Silvestri 采）。"
+  }
+ ],
+ "note": "条目依据 Holmgren 1910 原始描述（兵蚁、工蚁），原文作 Eutermes Sanctae-Anae。原文为 BHL 扫描件的图书馆 OCR 文本（Zenodo/Plazi 镜像），德语原描述逐条辨认；数值凡 OCR 打散无法确认者一律不列。",
+ "sources": [
+  {
+   "id": "S0607",
+   "citation": "Holmgren, N. 1910. Versuch einer Monographie der amerikanischen Eutermes-Arten. Mitteilungen aus dem Zoologischen Museum in Berlin 5(1): 1—324.",
+   "locator": "pp. 246—247"
+  }
+ ]
+}

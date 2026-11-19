@@ -1,0 +1,17 @@
+{
+ "note": "The original is in German and was extracted by OCR from a library scan on Internet Archive (archive.org item biostor-232733); a few figures and letters are misrecognized and have been checked against the context and the plate descriptions; figures that could not be confirmed have not been entered. The original description covers the soldier and a not fully mature worker.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Body length 4.5 mm, head width 0.81 mm (the figures for head length and nasus length are broken up by the OCR in the plate description and could not be confirmed, so they are not listed). Head pale yellow, nasus pale rusty brown; frons with a few setae, otherwise smooth; thorax, abdomen and legs pale straw-yellow; abdominal tergites with a very thin, low hair covering and a few long setae on the posterior margin; sternites with a fairly dense hair covering and a few long setae on the posterior margin. Head subcircular (plate Q1), nasus rather long, narrow and conical; frontal outline weakly concave. Antennae 13-segmented, segment 3 longer than segment 2, segment 2 equal in length to segment 4. Anterior margin of the pronotum rising obliquely."
+  },
+  {
+   "label": "Worker",
+   "text": "(not fully mature individual) body length 4.6 mm, head length 1.4 mm, head width 1.26 mm. Head pale straw-yellow. Fits Eutermes robustus well, but the antennae are 14-segmented, segment 2 larger than segment 3, segments 3 and 4 equal in size."
+  },
+  {
+   "label": "Other",
+   "text": "Closely related to Eutermes robustus, from which it differs in the number of antennal segments of the soldier and in the abdominal pilosity. Type locality: Llinquipata, Carabaya Province, Peru."
+  }
+ ]
+}

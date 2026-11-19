@@ -1,0 +1,21 @@
+{
+  "zh_name": "卓越土白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "翅透明，微带黄褐色；前胸背板前缘全缘（无凹缺）；单眼短卵形，与复眼相距约其长径的 5/6；中脉基柄具 2—3 个分枝。量度：翅展 68 mm，前翅长 32 mm。"
+    },
+    {
+      "label": "其他",
+      "text": "模式产地：英属东非（Lindblom 采），模式标本存斯德哥尔摩博物馆。原文记与 Odontotermes badius、O. transvaalensis 最近。"
+    }
+  ],
+  "note": "据 Sjöstedt 1925 改写；原文德文；原文只描述有翅成虫。",
+  "sources": [
+    {
+      "id": "S0516",
+      "citation": "Sjöstedt Y. 1925. Neue Termiten aus Afrika und Madagaskar (Vorläufige Mitteilung). Konowia 4: 53–55.",
+      "locator": "条目（1925）p. 53"
+    }
+  ]
+}

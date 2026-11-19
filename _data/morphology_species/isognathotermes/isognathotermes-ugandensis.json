@@ -1,0 +1,17 @@
+{
+  "zh_name": "乌干达等颚白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "与 I. minitabundus、I. severus 极近。兵蚁属中至大型，平均略大于 I. severus；左上颚微弯至几乎直，明显比右上颚弯曲更弱（与 I. minitabundus 相同），但左右不对称程度大于 I. severus：左上颚小曲率与右上颚小曲率之比 0.68—1.02（I. minitabundus 0.51—1.03，I. severus 0.79—1.24）。头一般明显呈球状（与 I. severus 及具 finitimus 型肠瓣的 I. bulbifrons 相同）。工蚁属中至大型，肠瓣为 fungifaber 型，约 6% 样品介于 fungifaber 型与 finitimus 型之间；左颚前臼齿比多数种明显（与 I. severus、I. minitabundus 相同）。有翅成虫属中至大型，左颚前臼齿同样明显；该修订依据体型（第一主成分）与复眼、单眼尺寸（第二主成分）另立 4 个亚种，指名亚种为其中之一。"
+    }
+  ],
+  "note": "据 Josens 等 (2025) 修订中的种级诊断改写，原文英文；量度代号与比值已改写为中文名称。原文对该种另设 4 个亚种，本条只按种的鉴别特征记述，未展开亚种间的区别。",
+  "sources": [
+    {
+      "id": "S0025",
+      "citation": "Josens, G.; Deligne, J.; Harry, M.; Roy, V.; Akama, P.D.; Coulibaly, T.; Dosso, K.; Goergen, G.; Hasson, M.; Kasangij A Kasangij, P.; Kifukieto, C.; Le Ru, B.; Loko, L.E.Y.; Ndiaye, A.B.; Roisin, Y.; Sion, N.; Šobotník, J.; Stiblik, P.; Kue Di Kuenda, S.; Traoré, S.; Viage, M.; Wango, S.P.; Kaymak, E.; Bourguignon, T. (2025) An integrative revision of the genus Isognathotermes (Termitidae: Cubitermitinae) with description of seven new species and four new subspecies. European Journal of Taxonomy 1024, 1–197. https://doi.org/10.5852/ejt.2025.1024.3099",
+      "locator": "p. 143—145"
+    }
+  ]
+}

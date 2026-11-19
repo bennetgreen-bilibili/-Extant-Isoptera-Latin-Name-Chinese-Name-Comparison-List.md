@@ -1,0 +1,29 @@
+{
+  "zh_name": "查基马约聚白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "有翅成虫与 S. dirus、S. spinosus 相似，但头壳毛被不同。最相似的兵蚁是 S. spinosus，后者通常更大、上颚更长且齿更大；但 S. spinosus 兵蚁变异很大，两者在体型上有重叠。分布为从哥伦比亚到玻利维亚的一条狭窄地带。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "复眼小，小于去复眼头宽的 1/4；单眼小；囟大而圆。触角 20 节。前胸背板前角成角并具尖突；侧缘近平直并向后收缩。翅相对短而深色；中脉与肘脉端部明显。头壳密被众多长毛；后唇基约有 16 根毛。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头壳短，长与宽近等，两侧向前收缩；后缘近圆或弱三叶状。额管突出，孔在背面观不可见。上唇短，长与宽近等；侧角约成直角；中叶短。触角 19—20 节。后颏不收缩，后部两侧近平行或微凹。"
+    },
+    {
+      "label": "工蚁",
+      "text": "大型工蚁：头壳有数根散布的直立刚毛；后唇基约有 12 根刚毛；囟大而圆。触角 19 或 20 节。胸背刺发达。上颚与 S. spinosus 很相似。后肠似与 S. dirus 相同，但材料保存不佳。量度（4 个群体 4 头，mm）：头长 2.60—2.85。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0163",
+      "citation": "Constantino, R. 1995. Revision of the Neotropical termite genus Syntermes Holmgren (Isoptera: Termitidae). University of Kansas Science Bulletin 55(13): 455-518.",
+      "locator": "p. 479-480"
+    }
+  ],
+  "note": "据 Constantino (1995) 修订，原文英文。描述了有翅成虫、兵蚁与大型工蚁；有翅成虫为该文首次描述。兵蚁量度：5 个群体 5 头兵蚁，头长 5.60—6.20 mm，头最大宽 5.60—6.10 mm，去后颏头高 3.05—3.50 mm，额管长 0.13—0.22 mm，左上颚长 2.70—3.30 mm。原文指定秘鲁 Ulinquipata 的兵蚁选模。S. chaquimayensis parvinasus Emerson 1945 已被归为 S. spinosus 的次异名（该文提出）。"
+}

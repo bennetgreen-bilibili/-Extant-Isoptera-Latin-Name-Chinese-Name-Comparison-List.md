@@ -1,0 +1,17 @@
+{
+ "note": "After Haviland's original description of 1898 (published as TERMES BICOLOR, n. sp.). Only the soldier, the worker and the number of antennal segments of the nymph are described; there is no alate, and no type specimen number is given. The original was extracted by OCR from the BHL/Zenodo scan, so decimal points came through as stray characters or were lost: soldier body length '3°5 mm' = 3.5 mm, antennal length '3°5 mm' = 3.5 mm; the soldier head width appears in the OCR as '14 mm. broad' and has been judged, from the ratio of head width to body length in soldiers of other species of the genus and from the context, to be 1.4 mm; it is entered here as 1.4 mm, but rechecking is still advisable. Some words are misspelt (papille=papillae, Antenne=Antennae); measurements in mm.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Body length 3.5 mm. Rostrum nearly subtestaceous, head nearly subcastaneous; thorax, legs and antennae ochroleucous, abdomen fuliginous. Head width 1.4 mm. Antennae 3.5 mm long, 14-segmented, segment 3 three times as long as segment 2, the remaining segments gradually shorter towards the apex. Rostrum slender, its front forming one continuous curve with the front of the head. Vestigial mandibles clearly visible. Postmentum shorter than wide. Pronotum saddle-shaped, the anterior lobe not much raised. Hind femora extending far beyond the abdomen. Abdomen oval, tergites strongly arched. Abdominal papillae absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 3.5 mm. Head nearly subcastaneous; thorax and legs ochroleucous; abdomen oval, tergites strongly arched. Antennae 15-segmented. Hind femora reaching abdominal segment 8."
+  },
+  {
+   "label": "Other",
+   "text": "Nymph with 15-segmented antennae. Distribution: Malay Peninsula (Singapore, Pulo Brani)."
+  }
+ ]
+}

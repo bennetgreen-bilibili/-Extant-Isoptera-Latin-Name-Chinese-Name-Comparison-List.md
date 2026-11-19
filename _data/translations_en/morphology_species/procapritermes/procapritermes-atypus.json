@@ -1,0 +1,17 @@
+{
+ "note": "Recast from the species-level description of Holmgren (1913c), in German; the original describes only the soldier and the worker and marks the alate as unknown. The species was first described in Holmgren (1912a), and this entry follows the 1913c monograph. In the scanned text the epithet is misspelt \"atypns\"/\"atypus\" in several places; it is determined as atypus from the index and the keys.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head yellow, the brown of the right mandible slightly paler than that of the left; body white to straw yellow. Head with a few setae; abdominal tergites with a row of setae only along the posterior margin. Head depressed-cylindrical, sloping slightly downwards anteriorly; fontanelle on the sloping surface, transverse, surrounded by several setae, the fontanelle gland small; sagittal suture distinct; antennal carinae flat, antennal fossae large; postclypeus small; labrum distinctly longer than wide, divided at the apex into two halves, the anterior corners acute; mandibles rod-like, slightly longer than the head, the right slightly shorter than the left, the left only very weakly twisted (somewhat Capritermes-like); antenna 14 segments, segments 3 and 4 equal in length and slightly longer than segment 2; pronotum saddle-shaped, anterior margin not concave."
+  },
+  {
+   "label": "Worker",
+   "text": "Head brownish yellow, body white, pilosity sparse. Head oval; fontanelle in the middle of the head, large, slightly bullate or depressed; frons concave anteriorly; postclypeus much shorter than half its width, posterior margin nearly straight, anterior margin straight, gently arched; first mandibular tooth very large; antenna 14 segments, segments 2, 3 and 4 about equal in length; pronotum saddle-shaped, anterior margin not concave."
+  },
+  {
+   "label": "Other",
+   "text": "Measurements (mm). Soldier: body length 8, head including mandibles 5.69, head length (without mandibles) 2.02, head width 1.68, pronotum width 1.00. Worker: body length 6, head width 1.14, pronotum width 0.62. Alate not described. Distribution: Sarawak, Borneo (collected by Haviland)."
+  }
+ ]
+}

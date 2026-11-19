@@ -1,0 +1,17 @@
+{
+ "note": "The entry follows Holmgren's 1910 original description (soldier, worker and the queen of form ecuadorianus). The original is a library OCR text of a BHL scan (Zenodo/Plazi mirror); the German original description was read line by line; figures that the OCR scrambled beyond confirmation are not listed.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Body length 4.5 mm; head length mode about 1.59 mm; head width about 0.95—1.2 mm (the range figures in the original are scrambled by the OCR, so the lower limit and the mode are given and the range is not completed). Very similar to E. chaquimayensis but larger. Head brown, the tip of the nasus slightly darker; antennae and nota rusty brown, the venter paler. Head with only a few bristles; abdominal tergites with microscopic hairs and almost smooth, with one row of marginal bristles. Head broadly oval, nasus conical; frontal outline with an (indistinct) elevation at the base of the nasus. Antennae 13—14-segmented: segment 3 twice as long as segment 2, more or less indistinctly subdivided in the middle; segment 4 equal to segment 2. Pronotum weakly saddle-shaped, anterior margin hardly concave."
+  },
+  {
+   "label": "Worker",
+   "text": "Head plate and transverse band brown; cephalic sutures, clypeus, genae, antennae and mouthparts white to white-yellow; nota rusty yellow to rusty brown, the sternites paler. Head finely hairy; abdominal tergites densely hairy, without a row of marginal bristles. Head broadly oval; cephalic sutures of uniform width; fontanelle indistinct, elongate-triangular; clypeus far shorter than half its width. Antennae 15-segmented: segment 2 longer than segment 3; segment 3 equal to segment 4; segment 4 longer than segment 5. Pronotum a rather strong saddle, anterior margin distinctly concave."
+  },
+  {
+   "label": "Other",
+   "text": "The original also records a form Eutermes peruanus f. ecuadorianus: queen with a yellowish brown head, rusty yellow thorax, brown abdominal tergites with paler sternites, rather dense hairs, broadly oval head and large compound eyes. Type locality Chaquimayo, Peru (Holmgren)."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+  "zh_name": "指名亚种",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "指名亚种（原文作 Hamitermes (Globitermes) globosus 的模式型）。兵蚁头宽大于长、几呈正圆形，上颚弯曲很强、中部之后具一向后的长齿，触角 15 节；有翅成虫在径分脉与中脉之间无脉。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "体长 3.5 mm（大型）／3.2 mm（小型）；头连上颚长 1.52／1.41 mm；去上颚头长 0.8／0.66 mm；头宽 0.95／0.76 mm；前胸背板宽 0.61／0.49 mm。头褐黄色，上颚褐色，体白色；触角 15 节；后颏前部强烈膨大如突起。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "连翅长 9 mm，去翅体长 5.6 mm，前翅长 7—7.6 mm；头长 1.4 mm、宽 0.99 mm；前胸背板宽 0.8 mm、长 0.46 mm。翅在径分脉与中脉之间无脉。"
+    }
+  ],
+  "note": "指名亚种；形态描述同 G. globosus（Holmgren 1913 重描述，德文）。原文为德文，经 Internet Archive 扫描本 OCR 抽取，个别词形与数字有识别错误（如 l,i 应为 1,1），已按上下文核对；原文量度单位为 mm。",
+  "sources": [
+    {
+      "id": "S0089",
+      "citation": "Holmgren N. 1913. Termitenstudien 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Kungliga Svenska Vetenskapsakademiens Handlingar 50(2): 1–276.",
+      "locator": "pp. 229–230"
+    }
+  ]
+}

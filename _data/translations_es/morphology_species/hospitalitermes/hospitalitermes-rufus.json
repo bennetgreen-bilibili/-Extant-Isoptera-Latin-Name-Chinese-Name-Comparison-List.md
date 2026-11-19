@@ -1,0 +1,17 @@
+{
+ "note": "Según la descripción original de Haviland de 1898 (publicada como TERMES RUFUS, n. sp.). Sólo se describen el soldado y el obrero; no hay alado. El original se extrajo por OCR del escaneo de BHL/Zenodo, por lo que los puntos decimales aparecieron como caracteres extraños ('3°5 mm' = 3.5 mm, '2°5 mm' = 2.5 mm) y algunas palabras están mal escritas (papille=papillae, tibie=tibiae); se han comprobado con el contexto; medidas en mm.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 3.5 mm. Cabeza testácea, más oscura en el vértice, tórax casi testáceo; abdomen fuliginoso, tibias ocráceas. Anchura de la cabeza 1 mm. Antenas de 2.5 mm de longitud, de 14 artejos, artejo 3 más de dos veces más largo que el artejo 2; artejos 4, 5, 6 y 7 aproximadamente tan largos como el artejo 3, los artejos restantes progresivamente más cortos hacia el ápice. Rostro esbelto, cuya cara anterior forma una curva neta con la parte anterior de la cabeza. Mandíbulas vestigiales claramente visibles. Postmentón más corto que ancho. Pronoto en silla de montar, lóbulo anterior corto y poco elevado. Patas posteriores rebasando el abdomen. Abdomen oval, terguitos poco arqueados. Ausencia de papilas abdominales."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 3.5 mm. Cabeza y tórax de testáceo a castaño; abdomen fuliginoso; patas umbrinas. Antenas de 2.5 mm de longitud, de 15 artejos. Fémures posteriores alcanzando el segmento abdominal 8. Abdomen oval, terguitos muy arqueados."
+  },
+  {
+   "label": "Otros",
+   "text": "Distribución: península de Malaca (Perak). Espécimen tipo n.º 115."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "note": "Recast from the original English description of Haviland 1898. The original gives it as Termes aequalis, n. sp. (the group of Termes “with Termes aequalis as type”), the type locality Sarawak, Borneo (the type number is not given in that passage); it was later transferred to Parrhinotermes by Holmgren. A body length of 11 mm is also recorded for neoteinic queens. The original marks decimals with old-style superscript points (e.g. “3*5 mm” for 3.5 mm, and “5 mm”, the point dropped, for 0.5 mm); these are converted here from the context.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Soldier head nearly square, flattened, ochraceous, 1 mm long and 1 mm wide; a minute pore above the clypeus, with a shallow groove running from it to the apex of the clypeus. Mandibles broad at the base, narrow apically and ending in indexed (notched) points; the broad base of the left mandible ends in a large forward-pointing lanceolate tooth separated from the point by a deep gap, with another small tooth at the base of the large one; the indexed point of the right mandible is thicker than that of the left. Pronotum only about half the head width, flattened, posterior margin semicircular."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 3.5 mm. Head 1 mm long and 1 mm wide, nearly square, flattened, ochraceous; a minute pore above the clypeus, with a shallow groove running from that pore to the apex of the clypeus. Antenna 13 segments, segment 2 shortest. Labrum wide, nearly square, white apically, reaching the apex of the mandibles. Mandibles 0.5 mm long, broad at the base, ending apically in narrow indexed points; the broad base of both mandibles ends in a forward-pointing lanceolate tooth separated from the point by a deep gap; the left mandible has another small tooth at the base of the large one; the indexed point of the right mandible is thicker than that of the left. Postmentum rather narrow at the base, widening over the apical two-thirds. Pronotum 0.6 mm wide, anterior margin convex, sides sharply rounded, posterior margin semicircular. Mesonotum and metanotum slightly narrower than the pronotum. Hind femur reaching abdominal segment 8. Abdomen narrow and long. Abdominal setal appendages absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 3.5 mm. Head pale yellowish white (ochroleucous). Antenna 13 segments, segment 2 and segment 3 nearly equal in length. Thorax narrowed. Hind leg falling well short of the apex of the abdomen. Abdomen narrow and long. Abdominal setal appendages absent."
+  },
+  {
+   "label": "Other",
+   "text": "Neoteinic queens with body length 11 mm: clypeus fairly prominent, but in the same plane as the frons and not raised; the pale spots corresponding to the ocelli level with the lower margin of the compound eyes; antenna 16 or 17 segments, segment 2 and segment 3 nearly equal in length; pronotum kidney-shaped."
+  }
+ ]
+}

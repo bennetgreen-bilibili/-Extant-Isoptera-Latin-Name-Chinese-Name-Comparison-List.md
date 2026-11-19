@@ -1,0 +1,17 @@
+{
+ "note": "Reescrito a partir de la descripción de nivel subespecífico de Silvestri (1914); el original está en latín; se describen la reina, el soldado y el obrero, con medidas de la variación; las medidas van en mm como en el original. La misma obra describe la var. acutidens, que tiene su propia entrada.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Mandíbulas algo más cortas y más fuertemente curvadas que en la forma típica. Longitud de la cabeza 2.08 mm, anchura 1.43 mm; longitud de las mandíbulas 1.32 mm; tibia posterior 1.04 mm. Anchura de la cabeza mayor que en la forma típica (1.43 mm frente a 1.32 mm). Variación: en 2 soldados de Camayenne y 1 de Kindia la cabeza y las mandíbulas son algo menores, longitud de la cabeza 1.82 mm, anchura 1.34 mm, longitud de las mandíbulas 1.32 mm, tibia posterior 1.04 mm."
+  },
+  {
+   "label": "Otros",
+   "text": "Reina: cabeza algo mayor que en la forma típica. Longitud del cuerpo 14 mm, anchura del abdomen 2.5 mm; longitud de la cabeza 1.07 mm, anchura 0.98 mm; diámetro mayor del ojo compuesto 0.25 mm; tibia posterior 1.23 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Semejante a la forma típica (la subespecie nominotípica)."
+  }
+ ]
+}

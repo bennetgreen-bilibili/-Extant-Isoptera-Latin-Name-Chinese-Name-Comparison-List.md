@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from Snyder’s 1926 original English description; the original established the species as “NASUTITERMES (CONVEXITERMES) PALLIDUS, new species”, now placed in Coatitermes. The original described it from a large series of soldiers and workers collected in February 1922 (month 2) at the type locality in Bolivia; the worker is only mentioned and not described morphologically, hence there is no worker section. In the measurement table the columns “head length without nasus” and “head width” are printed as 0.00 mm on the photocopy, which are missing entries rather than measured values, and are therefore not cited here.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Soldier total body length 2.45—2.75 mm, small among the nasute termites. Head pale yellow straw-coloured, nasus reddish brown, clearly distinct from the head colour; dorsal profile of the head convex, widest posteriorly, posterior margin rounded, narrowing anteriorly; nasus conical, stout; head densely covered with long hairs, nasus densely covered with short hairs; mandibles reduced, without sharp tips. Compared with N. nigricornis and N. convexifrons: smaller and with a narrower head, and convexifrons lacks the dense long setae on the head; compared with N. kartaboensis: paler and with a broader head; compared with N. manni: paler and with a narrower head, and manni likewise lacks the dense long setae on the head; compared with N. mazaruniensis: paler, with a broader head and a thicker nasus, and in mazaruniensis the anterior part of the head (to the anterior margin) is longer than in this species."
+  },
+  {
+   "label": "Soldier",
+   "text": "Antennae pale yellow, 11-segmented, covered with short pubescence; segment 3 shorter than segment 2 or segment 4; segments after segment 4 gradually longer and wider. Pronotum white with a yellowish tinge, saddle-shaped, about one third as long as wide, margins with long hairs. Legs white with a yellowish tinge, not very long, covered with short pubescence. Abdomen dirty grey with a yellowish tinge, densely covered with short hairs, the base of each tergite with additional longer hairs. Measurements: total body length 2.45—2.75 mm, head length including nasus 1.00 mm, nasus length 0.40 mm, pronotum length 0.10 mm, width 0.30 mm, hind tibia length 0.47 mm."
+  },
+  {
+   "label": "Other",
+   "text": "Type locality Ivón, Bolivia, where W. M. Mann collected a large series of soldiers and workers in February 1922 (month 2); specimens were also collected in March (month 3) at Cachuela Esperanza (Beni River). Type soldier registration number U.S.N.M. 27656."
+  }
+ ]
+}

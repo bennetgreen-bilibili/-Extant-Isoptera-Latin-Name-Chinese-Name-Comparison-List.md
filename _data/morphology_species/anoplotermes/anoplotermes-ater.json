@@ -1,0 +1,21 @@
+{
+ "zh_name": "暗黑解甲白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "本种为小型、暗黑色种类，上颚短；与 A. fumosus 相比体型较小、体色较深、上颚较短，后唇基分两叶的程度不如后者，囟位置较后者更靠后，额缝不如后者明显。"
+  },
+  {
+   "label": "其他",
+   "text": "雌虫（模式，M.C.Z. 第 208 号，巴西）：体小，暗黑色，上颚短。眼突出而显著。后唇基淡褐，略隆起，分两叶，后缘凸，宽过其长之两倍。囟为眼后方凹陷中的一小而不显的斑点，位置较 A. fumosus 更近后缘。额缝不如 A. fumosus 明显。上颚端部红至黑色，基部黄褐，稍伸出上唇之外。单眼大而显著，与眼的距离约等于其长径。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0560",
+   "citation": "Snyder, T. E. 1924. Descriptions of new species and hitherto unknown castes of termites from America and Hawaii. Proceedings of the United States National Museum 64 (6): 43 pp.",
+   "locator": "pp. 35—36（A. ater Hagen, 模式雌虫之复核描述）"
+  }
+ ],
+ "note": "据 Snyder 1924 年英文描述改写；原文英文。此为 Snyder 在比较 A. ater 与 A. fumosus、A. tenebrosus 模式标本时对 A. ater 模式雌虫（Hagen 1858，巴西）的形态复核，非完整原始描述，原文未给量度，故本条目无量度。"
+}

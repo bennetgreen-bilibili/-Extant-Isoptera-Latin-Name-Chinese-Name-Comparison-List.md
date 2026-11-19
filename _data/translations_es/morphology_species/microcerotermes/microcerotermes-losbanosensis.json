@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Cabeza amarilla, mandíbulas pardas, abdomen blanco. Setas de la cabeza extremadamente escasas, terguitos abdominales con solo pelos finos microscópicos. Cabeza algo rectangular alargada, cuatro esquinas redondeadas, dorso algo arqueado, truncada por delante; sin fontanela; postclípeo con borde posterior arqueado y borde anterior recto; labro corto y ancho, linguiforme; mandíbulas delgadas y alargadas, en forma de sable, fuertemente curvadas hacia dentro en el ápice formando una espina, margen masticador finamente aserrado; antena de 13 segmentos, segmento 1 muy grueso, segmento 3 más corto y estrecho que el 2, segmento 4 tan largo como el 2; pronoto en silla de montar, bordes anterior y posterior redondeados."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza amarillo claro, abdomen blanco. Cabeza con setas moderadas, terguitos abdominales densamente cubiertos de pelos finos. Cabeza ovalada ancha, algo más larga que ancha; suturas cefálicas poco marcadas, blanquecinas; base del postclípeo la mitad de larga que ancha, borde anterior recto, borde posterior convexo, algo elevado, con un surco poco profundo en el centro; antena de 13 segmentos, segmento 3 extremadamente pequeño, la mitad de largo que el 2, segmento 4 más largo que el 3; pronoto en silla de montar, borde anterior ligeramente cóncavo en el centro."
+  },
+  {
+   "label": "Otros",
+   "text": "Medidas (mm). Soldado: longitud del cuerpo 5.50, longitud de la cabeza con mandíbulas 2.56—2.66, longitud de la cabeza (sin mandíbulas) 1.66—1.72, longitud del pronoto 0.66. Obrero: anchura de la cabeza 0.94, anchura del pronoto 0.58. Alado no descrito. Localidad tipo Los-Banos, isla de Luzón, Filipinas, recolectada por el profesor Baker."
+  }
+ ],
+ "note": "Adaptado de la descripción original de Oshima (1914), original en inglés; el original describe solo el soldado y el obrero e indica que el alado es desconocido. En el texto escaneado hay tres cifras dañadas (que figuran como «O3», «0.34» y «42O» para la anchura de la cabeza del soldado, la anchura del pronoto del soldado y la longitud del cuerpo del obrero, respectivamente) que no pueden restituirse con fiabilidad y por ello no se introducen; las demás cifras siguen el original."
+}

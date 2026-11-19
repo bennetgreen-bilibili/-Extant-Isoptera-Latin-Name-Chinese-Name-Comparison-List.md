@@ -1,0 +1,13 @@
+{
+ "note": "Rewritten from the species-level diagnosis and measurements of Takematsu & Vongkaluang (2012), the original in English; the original gives only the diagnostic characters and measurements of the soldier, so there is only a soldier section.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head and pronotum sparsely hairy; postmentum with a few long hairs. Head nearly circular, distinctly narrowing forwards, the ratio of the frons width to the maximum head width 0.50—0.55 (0.52); mandibles weakly incurved, the ratio of the left mandible length to the head length 0.57—0.63 (0.59). Antennae 13—14-segmented. The narrowest point of the postmentum lies at about one third of the distance from the posterior margin to the widest point. Measurements (mm, 11 soldiers from three series): head length to clypeus 1.04—1.20 (1.10); maximum head width 0.94—1.01 (0.97); left mandible length 0.61—0.74 (0.65); pronotum length 0.35—0.40 (0.37); pronotum width 0.60—0.73 (0.65); postmentum length 0.61—0.70 (0.65); postmentum width 0.29—0.34 (0.31)."
+  },
+  {
+   "label": "Other",
+   "text": "Distribution: southern Thailand, the Malay Peninsula, Sumatra, Borneo, Java; recorded only south of the Isthmus of Kra. It can be distinguished from small individuals of C. gestroi by the rounder head, which narrows strongly forwards, and the narrowest point of the postmentum near the posterior end."
+  }
+ ]
+}

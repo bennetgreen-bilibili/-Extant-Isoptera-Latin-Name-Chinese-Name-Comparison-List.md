@@ -1,0 +1,21 @@
+{
+ "note": "After Haviland's original description of 1898 (published as TeRMES FORAMINIFER., with no 'n. sp.', with Pl. 25. figs. 65–68; now the type species of the genus Homallotermes). All four forms (male, female, soldier, worker) are present. The original was extracted by OCR from the BHL/Zenodo scan, so decimal points came through as stray characters ('1:2 mm' = 1.2 mm, '1:3 mm' = 1.3 mm, '6°5 mm' = 6.5 mm, '3°5 mm' = 3.5 mm) and some words are misspelt (papille=papillae, lear=clear); these have been checked against the context; measurements in mm.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Male body length 5 mm, slender, fuliginous, the legs and antennae paler. Head oval. Ocelli close to the compound eyes. Fontanelle narrow and indistinct. Antennae 15-segmented, segment 3 very short. Labrum slightly convex. Anterior margin of the pronotum almost straight, the posterior margin lobed. Fore wing pads slightly larger than the hind wing pads. Wings 6.5 mm long, hairy; media very close to the submedia, reaching the wing apex, giving off two to three branches; submedia giving off 6 or 7 branches. Hind legs not reaching the tip of the abdomen. Abdominal papillae absent."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 4 mm. Head length 1.2 mm, width 1 mm, pale ochroleucous, with a minute median foramen slightly above the level of the antennal bases. Antennae 13-segmented, segments 2 and 3 equal in length, segment 4 longer, the following segments equal in length to segment 4. Labrum small, white, with two minute acute divergent lateral lobes. Mandibles 1.3 mm long, flat, transparent, bent, the left mandible more strongly bent, the basal half bow-shaped. Postmentum elongated-oval, of uniform width. Pronotum saddle-shaped, the anterior lobe short but very highly raised. Hind legs extending beyond the abdomen. Abdominal papillae absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 3.5 mm. Head pale. Antennae 13-segmented. Labrum slightly convex. Abdomen oval, dark from the gut contents."
+  },
+  {
+   "label": "Other",
+   "text": "The sternite of abdominal segment 7 of the female is less than half as long as wide; the abdominal pleura bear small scattered pigment dots. Distribution: Malay Peninsula (Perak); Borneo (Sarawak). Type specimen No. 114. For the morphology see Pl. 25. figs. 65–68. The species is the type of the group 'with Termes foraminifer as type'."
+  }
+ ]
+}

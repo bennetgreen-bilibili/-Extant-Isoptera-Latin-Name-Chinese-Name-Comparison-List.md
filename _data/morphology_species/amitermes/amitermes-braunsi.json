@@ -1,0 +1,25 @@
+{
+  "zh_name": "布劳恩斯弓白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "有翅成虫：头后缘几呈半圆形；囟与单眼等大或更大，向前延伸成窄浅带，部分凹陷或近平，其中心明显位于两复眼后缘连线之后；复眼与后唇基约等长；单眼大而宽、卵形，与复眼的间距略小于其自身宽度；后唇基略长于宽之半，鼓起，前缘直，后缘均匀凸。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "雌虫：体色因陈旧标本褪色不能确定。头后缘几呈半圆形；囟与单眼等大或更大，向前有窄的浅色延伸，部分凹陷或近于平坦，中心明显位于连结两复眼后缘的线之后；复眼约与后唇基等长；单眼大、宽、卵形，与复眼距离略小于其自身宽度；后唇基长略大于宽之半，鼓起，前缘直，后缘均匀凸起；触角 15 节，第 3 节短于第 4 节，第 4 与第 5 节约等长。前胸背板窄于头（连复眼），前缘直，两侧宽圆，向后收敛至波状后缘。雄虫除囟稍大外与雌虫同。量度：头宽（连复眼）1.00，复眼最大直径 0.24，单眼 0.09×0.13，单眼至复眼距 0.07—0.08，前胸背板宽 0.78、长 0.47，后足胫节长 0.97—1.00，前翅长 9.6。"
+    },
+    {
+      "label": "工蚁",
+      "text": "左上颚第 3 缘齿突出于其与第 1 缘齿之间的切缘之外。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0554",
+      "citation": "Sands, W. A. 1959. A revision of the termites of the genus Amitermes from the Ethiopian region (Isoptera, Termitidae, Amitermitinae). Bulletin of the British Museum (Natural History), Entomology 8: 129-156.",
+      "locator": "pp. 134-136 (Amitermes braunsi Fuller)"
+    }
+  ],
+  "note": "据 Sands 1959 年英文修订（Amitermes braunsi Fuller）；原始描述见 Fuller 1922 年 South African Journal of Natural History 3(2): 70-131（原文作 Hamitermes braunsi，南非 Willowmore）。有翅成虫量度多为单值（仅个别给区间），兵蚁描述见同文他处。"
+}

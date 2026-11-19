@@ -1,0 +1,25 @@
+{
+  "zh_name": "奥斯本锐尖白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁头宽 1.35—1.50 mm、头连上颚长 3.23—3.47 mm、前胸背板宽 0.69—0.75 mm。与同属的 M. heterochilus（Silvestri）相比体型较大（后者兵蚁头宽 1.10 mm），后颏后部的隆起较弱，上唇前缘凹陷较浅、侧尖较钝，上唇侧尖之后的侧缘凹陷较浅，上颚肘部离基部较近，前胸背板前缘的凹陷较深。有翅成虫未见描述。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头褐黄，前胸背板一般较头色淡，足与腹部较前胸背板更淡。头顶与两侧有少数散生刚毛与短毛，囟孔开口附近有极少数短毛；触角基部下后方的侧隆突上通常有一根刚毛。后颏无毛无刚毛。上唇前缘两侧有数根刚毛。前胸背板两侧与后方有数根刚毛，但前缘在多数标本上仅有短毛，少数标本有 1—2 根刚毛。腹节背板与腹板各有一排缘刚毛；背板两侧有少数短毛；腹板有若干短毛，不形成毡。触角 14 或 15 节：15 节时第 3 节远短于第 2 节或第 4 节；14 节时第 3 节与第 2 节等长，并略长于第 4 节。其余特征见属征。量度（mm，括注为样本数）：头连上颚长 3.23—3.47（n=2）；头长至上颚侧基 1.59—1.76（n=11）；头宽 1.35—1.50（n=11）；头厚（含后颏）1.30—1.44（n=11）；后颏中部长 0.93—1.00（n=4）；后颏中部最宽 0.37—0.43（n=11）；上唇两尖间宽 0.40—0.47（n=10）；左上颚长 1.68—1.85（n=11）；前胸背板长 0.30—0.32（n=7）；前胸背板宽 0.69—0.75（n=11）；后足胫节长 1.03—1.18（n=11）。"
+    },
+    {
+      "label": "其他",
+      "text": "模式材料：正模与副模共 6 头兵蚁、1 头工蚁，1948 年 5 月 20 日 A. Emerson 采于比属刚果 Epulu 河 Camp Putnam 以北 4 km 的 Pygmy camp 地面（1°24′N，28°36′E）；副模群体 5 头兵蚁、2 头工蚁，1948 年 5 月 29 日采于 Yangambi（0°47′N，24°23′E）一处被 Protermes prorepens（Sjöstedt）占据的树基土垄外层。种名献给纽约动物学会主席 Fairfield Osborn。同属另含 M. heterochilus（Silvestri）以及一种产自法属几内亚的未描述种。"
+    }
+  ],
+  "note": "据 Emerson 1960 的种级描述改写，原文英文，刊于 American Museum Novitates 1988（pp. 1–49）；种级描述起于 p. 16（兵蚁、Table 3），p. 17 为比较与模式材料，属征见 pp. 12–15。只描述兵蚁与工蚁，有翅成虫未见描述；工蚁形态仅在属征中给出（p. 14），未作种级描述，故不单列工蚁节。量度录自 p. 16 的 Table 3，样本数（No.）原样照录。底本 _tmp/fleet_01/pdf4/emerson1960-sixgenera.pdf 无文字层（PyMuPDF 仅抽出 481 字符），另据 archive.org 同一刊物的扫描件（identifier sixnewgenerater1988emer）的 OCR 文本录入，并用 tesseract 对本机 PDF 逐页 OCR 交叉核对 Table 3 的 11 组数值，两路结果一致。",
+  "sources": [
+    {
+      "id": "S0100",
+      "citation": "Emerson, A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988: 1–49. https://archive.org/details/sixnewgenerater1988emer",
+      "locator": "pp. 16–17（兵蚁描述、Table 3、比较与模式材料）；pp. 12–15（属征）"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "zh_name": "莫比迪克堆砂白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "在全球堆砂白蚁兵蚁中独有下列组合：头壳极长而窄；额突缘（frontal flange）与额角（frontal horns）均缺；背面观上颚被延长的额突极度遮盖。Bacchus (1987) 全球兵蚁检索表第二对句、南美兵蚁检索表（Scheffrahn & Vasconcellos 2023）第一对句均据此作了修订。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头壳背面观黑色，延长，向前收窄成钝的额突；侧缘有少量刚毛。额突与头顶具波状纵脊。后头栗褐色，无纵脊。前胸背板橘黄色，前缘较深色、向上翘起、弱锯齿状；后缘与侧缘均匀圆，具少量长短不一的刚毛。侧面观额突略向下弯，遮盖上颚的长度约为整个头壳长的 1.4 倍。额突缘（头脊）缺。颊角在触角窝下方弱弯曲；额角缺。斜视上颚角状、向内弯。额突具浅切口，腹面观最清楚。触角 11 节，节式 2＞3＝4＜5。"
+    },
+    {
+      "label": "其他",
+      "text": "有翅成虫与工蚁均未描述。模式产地法属圭亚那 Petit Saut，靠近 Sinnamary 河（5.0684, -53.0429），海拔 42 m。正模兵蚁存佛罗里达大学白蚁收藏（UFTC）FG 1240，与同管其余标本分开另置；副模同产地同数据，1 兵蚁与 10 拟工蚁。种名取自梅尔维尔《白鲸》中的 Moby Dick，因兵蚁额突与延长头壳的侧视形似抹香鲸头，且两者上颚都被头部遮盖、鲸眼与兵蚁触角窝的位置相当。生态：小群体见于胸高处直径约 20 cm 的枯立木近顶端、离地约 8 m 处。"
+    }
+  ],
+  "note": "据 Scheffrahn, Buček, Sillam-Dussès & Šobotník (2025) 新种描述改写，原文英文；量度在原文表 1，Zenodo 文本层未含该表，故数值从缺；产地、模式标本与命名缘由见「其他」。",
+  "sources": [
+    {
+      "id": "S0684",
+      "citation": "Scheffrahn R. H.; Buček A.; Sillam-Dussès D.; Šobotník J. 2025. Cryptotermes mobydicki (Isoptera, Kalotermitidae), an extraordinary new termite species from French Guiana. 10.3897/zookeys.1258.166021",
+      "locator": "p. 305–311（Zenodo 记录 17543589，ZooKeys 1258）"
+    }
+  ]
+}

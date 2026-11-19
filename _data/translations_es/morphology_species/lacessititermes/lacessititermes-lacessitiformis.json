@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Cabeza pardo oscuro, placa clypeal más clara, cuerpo pardo claro; antenas, fémures y tibias parduzcos, tarso amarillo; alas pardo claro, venas pardas, con estría subcostal. Setas bastante densas en la cabeza, el pronoto y el dorso del abdomen, superficie alar punteada y densamente cubierta de setas cortas. Cabeza ovalada ancha, estrechada hacia delante; ojos compuestos bastante grandes y fuertemente salientes; ocelos medianos, a aproximadamente un diámetro de ocelo del ojo compuesto. Fontanela en forma de hendidura, rodeada por una fina línea ovalada, algo elevada; borde anterior de la banda transversal cóncavo; placa clypeal corta, bastante fuertemente elevada. Antena de 15 segmentos, segmento 3 algo más largo que el 2, segmento 4 aproximadamente tan largo como el 2. Pronoto trapezoidal, esquinas anteriores cortas y redondeadas, borde anterior ligeramente cóncavo en el centro, borde posterior ligeramente cóncavo; incisión del mesonoto algo más profunda que la del metanoto, protuberancia del metanoto ampliamente redondeada; media bifurcada más allá del centro, con 2—3 ramas; cubitus con 6—7 ramas. Medidas: longitud del cuerpo con alas 14 mm, sin alas 8.5 mm, ala anterior 11—11.5 mm, longitud de la cabeza 1.82 mm, anchura de la cabeza 1.6 mm, anchura del pronoto 1.22 mm, longitud 0.57 mm."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza negra, punta del rostro con tinte rojo, cuerpo parduzco; antenas pardo negruzco, fémures y tibias parduzcos, tarso claro. Cabeza sin pelos, terguitos abdominales posteriores con una hilera de setas posteriores. Cabeza piriforme, rostro bastante largo; elevación de la fosa antenal pequeña; contorno frontal con una depresión. Antena de 14 segmentos, segmento 3 de longitud igual al 2, segmento 4 claramente más largo que el 3. Pronoto en silla de montar, borde anterior no cóncavo. Medidas: longitud del cuerpo 3.5 mm, longitud de la cabeza con rostro 1.6 mm, longitud de la cabeza sin rostro 0.8 mm, anchura del pronoto 0.49 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Coloración y pilosidad como en lacessitus, con diferencias solo de tamaño corporal. Medidas: longitud del cuerpo 4.5—5 mm, anchura del pronoto 0.53 mm."
+  }
+ ],
+ "note": "Adaptado de la descripción específica de Holmgren (1913), original en alemán; incluye imago, soldat y arbeiter, medidas originales en mm. La anchura de la cabeza del soldado y la del obrero están dañadas por el OCR en el escaneo de Internet Archive (aparecen como «0,o» y «l,u») y no se han introducido en la entrada."
+}

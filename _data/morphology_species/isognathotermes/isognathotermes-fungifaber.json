@@ -1,0 +1,17 @@
+{
+  "zh_name": "菌匠等颚白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁是属内最小的种类之一，头长（至唇基前缘）2.37—3.11 mm；但在部分样品中可与 I. severus 最小的兵蚁同样大。上颚自基部至端部弯曲最为均匀（与 I. planifrons 并列，左颚曲率对数值之差 0.85—1.88）。工蚁及其肠瓣在属内最小，肠瓣通常呈 muneris 型；约 2% 的样品肠瓣介于 fungifaber 型与 finitimus 型之间。有翅成虫平均而言与 I. phalloides 同为属内最小，头宽（跨复眼）1.40—1.61 mm。生态与分布：总是见于常绿林，自科特迪瓦至加蓬、距大西洋岸不足 300 km，筑蘑菇状地栖巢（种名即指此）。"
+    }
+  ],
+  "note": "据 Josens 等 (2025) 修订中的种级诊断改写，原文英文；量度代号已按原表释义改写为中文名称。本条录该修订的鉴别特征与生态要点，未转录其形态描述段落与测量表。",
+  "sources": [
+    {
+      "id": "S0025",
+      "citation": "Josens, G.; Deligne, J.; Harry, M.; Roy, V.; Akama, P.D.; Coulibaly, T.; Dosso, K.; Goergen, G.; Hasson, M.; Kasangij A Kasangij, P.; Kifukieto, C.; Le Ru, B.; Loko, L.E.Y.; Ndiaye, A.B.; Roisin, Y.; Sion, N.; Šobotník, J.; Stiblik, P.; Kue Di Kuenda, S.; Traoré, S.; Viage, M.; Wango, S.P.; Kaymak, E.; Bourguignon, T. (2025) An integrative revision of the genus Isognathotermes (Termitidae: Cubitermitinae) with description of seven new species and four new subspecies. European Journal of Taxonomy 1024, 1–197. https://doi.org/10.5852/ejt.2025.1024.3099",
+      "locator": "p. 65—67"
+    }
+  ]
+}

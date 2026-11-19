@@ -1,0 +1,13 @@
+{
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Soldier head capsule pale orange-yellow. Head length (including mandibles) 2.06 mm, head length (excluding mandibles) 1.54 mm, mandible length 0.75 mm, head width 0.78 mm. Closest to Microcerotermes zuluensis."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head capsule pale orange-yellow. Head length (including mandibles) 2.06 mm; head length (excluding mandibles) 1.54 mm; mandible length 0.75 mm; head width 0.78 mm. Closest to Microcerotermes zuluensis Holmgren. Type locality Luluabourg, Belgian Congo (collected by Callewaert)."
+  }
+ ],
+ "note": "Adapted from the original description in Sjöstedt (1925) \"Neue Termiten aus Afrika und Madagaskar\" (Konowia 4: 53–55), original in German; that paper follows the short \"n. sp.\" format, with only 2—5 lines per species, and the original entry for this species gives only the colour of the soldier, 4 measurements, the closest relative and the type locality, without any other morphological description. This entry therefore contains only the diagnostic characters and the soldier; the alate and the worker are not recorded in the original. In the OCR \"Mandeln\" is an error for \"Mandibeln\" (mandibles) and has been read according to the sense."
+}

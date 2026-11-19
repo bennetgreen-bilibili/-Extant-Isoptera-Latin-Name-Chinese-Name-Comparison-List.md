@@ -1,0 +1,21 @@
+{
+ "note": "Reescrito de la descripción a nivel de especie de Lim & Forschler (2012), original en inglés; solo se describen el soldado y el alado y no se describe morfológicamente el obrero. En la sección 4.1 del original la anchura de la cabeza figura como \"0.054 mm\", lo que contradice los 0.78 mm ± 0.05 de la descripción en 4.2 y de la tabla 4a; aquí se adoptan los valores de la sección descriptiva. Las medidas conservan las unidades del original (mm) y sus desviaciones típicas.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Cápsula cefálica del soldado pequeña, longitud media de la cabeza (hasta el margen lateral de la cápsula cefálica) 1.407 mm, anchura media de la cabeza 0.78 mm, relación longitud/anchura de la cabeza 1.793. Color del alado pardo claro, alas sin pigmentar, longitud del cuerpo con alas media 7.080 mm, longitud del cuerpo sin alas media 3.93 mm."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cápsula cefálica rectangular, generalmente más larga que ancha; cápsula cefálica amarilla, mandíbulas pardo oscuro a negras; cuerpo amarillo pálido a blanco. Longitud media de la cabeza 1.41 mm ± 0.13, anchura media de la cabeza 0.78 mm ± 0.05, relación longitud/anchura de la cabeza 1.793 ± 0.09. Ángulos de curvatura de las mandíbulas: smac1 = 10.7° ± 2.21, smac2 = 27.27° ± 2.65."
+  },
+  {
+   "label": "Alado",
+   "text": "Color del cuerpo pardo claro, antena de 14 artejos, alas sin pigmentar, patas pardo claro a pardo oscuro. Longitud media del cuerpo sin alas 3.93 mm ± 0.24, longitud media del cuerpo con alas 7.08 mm ± 0.29, longitud media del ala anterior 5.43 mm ± 0.21, longitud media del ala posterior 5.32 mm ± 0.30. El dimorfismo sexual no es evidente y los sexos pueden separarse por la forma del 8.º esternito abdominal."
+  },
+  {
+   "label": "Otros",
+   "text": "El período de enjambrazón se estima de 2 a 5, solapándose en parte con el de R. flavipes (11 a 4 del año siguiente) y con los registros de mayo de R. virginicus y R. malletei. La especie habita en los bosques de la llanura costera atlántica y en los suelos de la llanura costera suratlántica del sureste de Estados Unidos; la localidad tipo es la isla Sapelo, condado de McIntosh, Georgia, y el muestreo repetido en los suelos del Piedmont no la encontró."
+  }
+ ]
+}

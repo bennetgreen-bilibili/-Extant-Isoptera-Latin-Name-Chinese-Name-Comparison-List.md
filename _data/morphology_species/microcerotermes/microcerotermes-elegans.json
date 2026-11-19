@@ -1,0 +1,21 @@
+{
+ "zh_name": "苗条锯白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头壳浅橙黄色。头长（含上颚）2.06 mm、头长（不含上颚）1.54 mm、上颚长 0.75 mm、头宽 0.78 mm。与 Microcerotermes zuluensis 最近。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头壳浅橙黄色。头长（含上颚）2.06 mm；头长（不含上颚）1.54 mm；上颚长 0.75 mm；头宽 0.78 mm。与 Microcerotermes zuluensis Holmgren 最近缘。模式产地为比属刚果 Luluabourg（Callewaert 采）。"
+  }
+ ],
+ "note": "据 Sjöstedt (1925)《Neue Termiten aus Afrika und Madagaskar》(Konowia 4: 53–55) 的原始描述改写，原文为德文；该文为「新种」短记体例，每个种仅 2—5 行，本种原文只有兵蚁的颜色、4 项量度、最近缘种与模式产地，无其他形态描述。因此本条目仅含鉴别要点与兵蚁两节；有翅成虫与工蚁原文未记。OCR 中「Mandeln」为「Mandibeln」（上颚）之误，已按文意校读。",
+ "sources": [
+  {
+   "id": "S0561",
+   "citation": "Roonwal M. L. and Chhotani O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume I. https://archive.org/details/dli.zoological.fi.026",
+   "locator": "pp. 54–55"
+  }
+ ]
+}

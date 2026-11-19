@@ -1,0 +1,21 @@
+{
+  "zh_name": "三针针刺白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁额突具 8 个尖，两侧突小于中突；上颚黑色，除基部齿外平滑；头亚长方形、两侧平直平行。作者指出卡塔博标本与 Silvestri（1903）所记的 S. trispinosus 并不完全相符（后者头更宽、额突两侧突比例更大），并认为 M. nigrostomus Holmgren 与本种可能是同物；与 M. gracilis Holmgren 的区别是额突较短、上唇端部凹而无凸起的中央部。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头黄色，前部较深；被少数短刚毛；亚长方形，两侧平直平行，后缘圆。触角 14 节，略深于头色。上唇略深于头，宽，具 2 尖。上颚黑色，略弯，除基部的齿外平滑。象鼻有时端部上翘，具毛，具 8 个尖，两侧突小于中突。胸部淡色，前胸背板前缘圆。足淡色。腹部背板淡色，被短毛与少数刚毛。量度：全长 5.00—7.00 mm，头长 2.75—3.00 mm；另组量度：头长（不连上颚）1.86—2.12 mm，头宽 1.08—1.26 mm，触角长 1.50—1.90 mm，前胸背板宽 0.68 mm，后足胫节长 0.97 mm，左上颚长 1.51 mm。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0530",
+      "citation": "Emerson, A. E. The termites of Kartabo, Bartica District, British Guiana. Zoologica (New York Zoological Society) 6(4).",
+      "locator": "p. 444 起（The-termites-of-Kartabo）"
+    }
+  ],
+  "note": "据 Emerson 卡塔博白蚁志改写，原文英语。S. trispinosus 的原描述者为 Silvestri（1903），本条据 Emerson 对卡塔博材料的描述与比较；原文将量度分为两组（第二组行名 OCR 残缺，如「Peat neater」为 Width of head、「SWAG RNalu(aving…」为 Width of pronotum），已按数值与行序复原。原文只给兵蚁，工蚁未作描述。"
+}

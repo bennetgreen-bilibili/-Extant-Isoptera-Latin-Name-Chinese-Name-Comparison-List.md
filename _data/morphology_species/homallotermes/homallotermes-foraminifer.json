@@ -1,0 +1,29 @@
+{
+ "zh_name": "具孔平白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "雄虫体长 5 mm，细长，深褐（fuliginous），足与触角较淡。头卵形。单眼接近复眼。囟孔窄而不明。触角 15 节，第 3 节很短。上唇基凸。前胸背板前缘几直，后缘呈叶状。前翅芽略大于后翅芽。翅长 6.5 mm，具毛；中脉极靠近亚中脉，达翅端，分出二至三支；亚中脉分出 6 或 7 支。后足不达腹端。腹瘤缺。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "体长 4 mm。头长 1.2 mm、宽 1 mm，淡黄白色（ochroleucous），在触角基部水平稍上方有一微小的中位孔（foramen）。触角 13 节，第 2、3 节等长，第 4 节较长，其后各节与第 4 节等长。上唇小、白色，具两个微小而尖的、向外分开的侧叶。上颚长 1.3 mm，扁平、透明、弯折，左上颚弯折更甚，基部一半呈弓形。后颏长椭圆形，宽度均一。前胸背板鞍形，前叶短但隆起很高。后足超过腹部。腹瘤缺。"
+  },
+  {
+   "label": "工蚁",
+   "text": "体长 3.5 mm。头淡色。触角 13 节。上唇基凸。腹部卵形，因肠内容物而色深。"
+  },
+  {
+   "label": "其他",
+   "text": "雌虫第 7 腹节腹板长不及宽之半；腹部侧膜具小而散布的色素点。分布：马来半岛（霹雳）；婆罗洲（砂拉越）。模式标本编号 No. 114。图中形态见 Pl. 25. figs. 65–68。该种为「以 Termes foraminifer 为模式」的类群的模式种。"
+  }
+ ],
+ "note": "据 Haviland 1898 原始描述（原文作 TeRMES FORAMINIFER.，未注「新种」，附 Pl. 25. figs. 65–68；现为 Homallotermes 属的模式种）。四型（雄、雌、兵蚁、工蚁）齐备。原文经 BHL/Zenodo 扫描本 OCR 抽取，小数点被识别为杂符（「1:2 mm」= 1.2 mm、「1:3 mm」= 1.3 mm、「6°5 mm」= 6.5 mm、「3°5 mm」= 3.5 mm），词形有误（papille=papillae、lear=clear），已按上下文核对；量度单位为 mm。",
+ "sources": [
+  {
+   "id": "S0555",
+   "citation": "Haviland G. D. 1898. Observations on Termites; with Descriptions of new Species. Journal of the Linnean Society of London, Zoology 26: 308–440. https://doi.org/10.1111/j.1096-3642.1898.tb00405.x",
+   "locator": "pp. 420–421"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "zh_name": "比特恩佐格近扭白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "量度（mm，3 头兵蚁）：头长（至上颚侧基）2.10—2.38；头最大宽 1.24—1.34；左上颚长 1.48—1.58；上唇最大长 0.19—0.20，最大宽 0.26—0.32；后颏最大长 1.30—1.40，最大宽 0.42—0.45，最小宽 0.21—0.24；前胸背板长 0.32—0.34，宽 0.72—0.80。"
+    },
+    {
+      "label": "其他",
+      "text": "材料：南安达曼 Chidyatapu（Mundapahar）1 瓶，内 3 头兵蚁与数头工蚁，1979 年 1 月 10 日 P. K. Maiti 等采，采集记录作「原木下」。原文记该种在湿润林地表原木下活动，既不钻入木材，也不向邻近土壤扩展。分布：南安达曼；此外为印度尼西亚（爪哇 Bogor、西爪哇、Peutjang 岛）、马来半岛（Malacca）。"
+    }
+  ],
+  "note": "据 Maiti & Chakraborty 1994 改写；原文英文；本书对本种只给兵蚁量度与采集、分布记录，未作文字形态描述，故兵蚁一节仅为量度；原文未描述有翅成虫与工蚁形态。",
+  "sources": [
+    {
+      "id": "S0563",
+      "citation": "Maiti P. K.; Chakraborty S. K. 1994. Termite fauna (Isoptera) of the Andaman and Nicobar Islands, Indian Ocean. Records of the Zoological Survey of India, Occasional Paper 167.",
+      "locator": "条目（Termite-fauna-(Isoptera)-of-the-Andaman-and-Nicobar-Islands,-Indian-Ocean）p. 76"
+    }
+  ]
+}

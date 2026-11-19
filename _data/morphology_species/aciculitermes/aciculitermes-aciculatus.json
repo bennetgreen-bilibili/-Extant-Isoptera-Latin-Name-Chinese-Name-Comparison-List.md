@@ -1,0 +1,25 @@
+{
+ "zh_name": "针状针白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "体长 3.5 mm，细长。头宽 0.8 mm，淡黄白色（ochroleucous）。触角 12 节，第 3 节短于第 2 节。象鼻细，远短于头。上颚退化。后颏长几等于宽。前胸背板鞍形，前叶隆起但极短。后足不达腹端。腹部长椭圆形。腹瘤（abdominal papillae）缺。"
+  },
+  {
+   "label": "工蚁",
+   "text": "体长 4 mm，细长。头淡黄白色。触角 14 节。腹部长椭圆形。"
+  },
+  {
+   "label": "其他",
+   "text": "若虫触角 14 节。分布：婆罗洲（砂拉越）。模式标本编号 No. 447。"
+  }
+ ],
+ "note": "据 Haviland 1898 原始描述（原文作 TERMES ACICULATUS，位于砂拉越种检索表之后的正文中）。原文仅描述若虫、兵蚁与工蚁三型，无有翅成虫；标题未附「新种」，亦无图版号，是否为当年新种或已知种补描述，原文未明言。原文经 BHL/Zenodo 扫描本 OCR 抽取，缩微胶片的双页重复使页眉出现「426426」之类重复串，个别词形有误（Gwula=Gula、Antenne=Antennae），已按上下文核对。",
+ "sources": [
+  {
+   "id": "S0555",
+   "citation": "Haviland G. D. 1898. Observations on Termites; with Descriptions of new Species. Journal of the Linnean Society of London, Zoology 26: 308–440. https://doi.org/10.1111/j.1096-3642.1898.tb00405.x",
+   "locator": "p. 426"
+  }
+ ]
+}

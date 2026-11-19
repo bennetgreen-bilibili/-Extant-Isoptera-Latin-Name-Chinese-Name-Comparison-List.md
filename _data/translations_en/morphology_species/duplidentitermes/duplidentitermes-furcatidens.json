@@ -1,0 +1,13 @@
+{
+ "note": "Adapted from Emerson 1959; the original is in English. The original treated the species as Hoplognathotermes furcatidens Sjöstedt, described from the soldier in 1924, with the alate, soldier and worker added in 1926; Emerson 1959 placed it in the new genus Duplidentitermes (new combination). Table 6 of the original gives alate (male/female) measurements and Table 7 gives soldier (paratype) measurements; the tables list the row names in English and use no abbreviations.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "The frontal gland opening is triangular; the antenna has 17 segments; the tibial spur formula is 3:2:2. Measurements (original Table 6, male/female, mm): head length including the labrum 1.76/1.88; head length to the anterior margin of the postclypeus 1.22/1.32; head length to the base of the mandibles 1.09/1.22; head width 1.53/1.61; length of the frontal gland opening 0.12/0.15, width 0.15/0.16; diameter of the compound eye 0.36/0.34; distance from the compound eye to the lower margin 0.09/0.10; length of the ocellus 0.17/0.18, width 0.12/0.14; distance from the ocellus to the compound eye 0.13/0.15; length of the postclypeus 0.29/0.32, width 0.70/0.73; length of the pronotum 0.70/0.79, width 1.29/1.47; length of the hind tibia 1.69/1.74; length of the forewing from the suture 13.91/15.98, width 3.69/4.23."
+  },
+  {
+   "label": "Soldier",
+   "text": "The head is yellow, the outer half of the mandibles reddish brown; the thorax and abdomen are paler than the head. The head and pronotum bear numerous sparse setae, and the head has no contrasting short hairs; the anterior half of the labrum carries numerous scattered setae. In the paratype the gula is bare except for 3 setae on each side near the anterior margin. Measurements (original Table 7, paratype, mm): head length to the base of the mandibles 2.66; head width 2.07; head thickness 1.64; length of the gula 1.64, maximum width 0.80, minimum width 0.45; width of the labrum 0.67; length of the left mandible 1.47; distance from the apex of the left mandible to marginal tooth 1: 0.38; distance from the apex of the right mandible to marginal tooth 1: 0.50; length of the pronotum 0.78, width 1.36; length of the hind tibia 1.71."
+  }
+ ]
+}

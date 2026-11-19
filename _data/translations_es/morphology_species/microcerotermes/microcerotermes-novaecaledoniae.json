@@ -1,0 +1,13 @@
+{
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Cabeza pardo amarillento, más oscura por delante; mandíbulas negras con la base parda; resto del cuerpo amarillo blanquecino; antenas amarillo claro. Cabeza con setas escasas; terguitos abdominales densamente cubiertos de pelos cortos. Cabeza casi cilíndrica, esquinas posteriores redondeadas en vista dorsal. Frente que desciende bastante abruptamente, con una depresión poco profunda en forma de surco en el centro. Fontanela evidente. Postclípeo con borde posterior convexo y borde anterior casi recto, su longitud menor que la mitad de su anchura, plano. Labro linguiforme, tan largo como ancho, que se extiende más allá del tercio anterior de las mandíbulas cerradas. Mandíbulas bastante largas y estrechas, fuertemente curvadas en forma de sable, con dientes finamente aserrados. Antena de 13 segmentos, segmento 3 más corto que los segmentos 2 y 4. Pronoto en silla de montar, más estrecho que la cabeza, aproximadamente dos veces tan ancho como largo, borde anterior claramente cóncavo en el centro. Medidas: longitud del cuerpo 6 mm; longitud de la cabeza con mandíbulas 2.96 mm, sin mandíbulas 1.56 mm; anchura de la cabeza 0.95 mm; anchura del pronoto 0.65 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Obrero mayor: cabeza amarilla a pardo amarillento, cuerpo blanquecino; cabeza con pelos cortos escasos, terguitos abdominales con pelos finos. Cabeza ovalada en sus cuatro lados, más larga que ancha; ojos compuestos que aparecen como puntos pardos muy pequeños; fontanela poco marcada; postclípeo tan largo como la mitad de su anchura, bastante fuertemente elevado; antena de 13—14 segmentos, segmento 3 muy pequeño; borde anterior del pronoto no cóncavo."
+  }
+ ],
+ "note": "Adaptado de la descripción original de Holmgren & Holmgren (1915), original en alemán; comprende soldado y obrero mayor; el alado no se describe (el original indica «Imago unbekannt»)."
+}

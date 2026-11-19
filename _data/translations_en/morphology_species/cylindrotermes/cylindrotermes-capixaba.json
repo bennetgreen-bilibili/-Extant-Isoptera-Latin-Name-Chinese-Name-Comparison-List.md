@@ -1,0 +1,21 @@
+{
+ "note": "Rewritten from the original description of the new species (Portuguese) in Rocha & Cancello 2007; the measurements are the ranges measured by the authors, and the original uses commas as decimal points, changed here to decimal points. The alate of this species is recorded as unknown in the original. The measurement abbreviations follow Roonwal (1970) and are written out in full here (head capsule length, maximum head width, head height, maximum length of the left mandible, mandible base to tip, minimum length of the postmentum, length of the left hind tibia).",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "The posterior third of the head is wider than the anterior part; in profile the dorsal margin forms a shallow, continuous arc from the base of the clypeus to the back of the head. In profile the head is thicker than in all the other species of the genus. The labrum is pentagonal, its apex very rounded, the lateral margins ranging from bluntly rounded to distinctly angular. The antennae have eleven segments, segment 1 twice as long as segment 2, the remaining segments subequal, segment 3 sometimes split. The mandibles are slender, curved inwards only at the tip, slightly shorter than half the head capsule length, each with a tooth at the base. The head bears setae and short hairs, sparser posteriorly and denser in the fontanelle region. The labrum bears 5—8 setae, always with a longer pair at the apex. The short hairs of the postmentum are sparse, and there are setae on the anterior margin. The pronotum and the remaining thoracic nota are covered with short hairs, with setae concentrated mainly along the margins; the abdominal tergites and sternites are densely covered with short hairs and setae, with erect setae on both the anterior and the posterior margins. Measurements (6 individuals, 1 specimen): head capsule length 1.62—1.74 mm, maximum head width 0.92—0.94 mm, head height 0.78—0.82 mm, maximum length of the left mandible 0.76—0.80 mm, mandible base to tip 0.76—0.80 mm, minimum length of the postmentum 1.04—1.26 mm, length of the left hind tibia 0.72—0.74 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "The antennae have thirteen segments; segment 1 is the longest, segment 2 is half as long as segment 1, segment 3 is one third as long as segment 2, segment 4 is twice as long as segment 3, segment 5 is twice as long as segment 6, and the remaining segments are subequal. The head bears many setae and sparse short hairs. The thoracic nota bear many short hairs and setae; the abdominal tergites and sternites bear many short hairs and few setae, and the last 4 tergites and the posterior margin of all the sternites bear erect setae."
+  },
+  {
+   "label": "Diagnostic characters",
+   "text": "In the soldier the posterior third of the head is wider than the anterior part, a feature shared only with Cylindrotermes macrognathus; it differs in the relatively shorter mandibles and in the pilosity, the short hairs being far more abundant. The alate is unknown."
+  },
+  {
+   "label": "Other",
+   "text": "The holotype is a soldier (MZUSP 1796, Cariacica, state of Espírito Santo, Brazil, 1954-5, collected by R. L. Araujo); the paratypes are the 6 soldiers and all the workers of the same sample. The specific epithet capixaba designates a person born in the state of Espírito Santo, where the type specimen was collected. Type locality: Cariacica, state of Espírito Santo, Brazil (20.2639°S, 40.42°W)."
+  }
+ ]
+}

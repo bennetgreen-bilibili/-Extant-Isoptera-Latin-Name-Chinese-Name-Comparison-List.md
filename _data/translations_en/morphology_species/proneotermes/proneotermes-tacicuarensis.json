@@ -1,0 +1,21 @@
+{
+ "note": "Recast from the English original description of Jurado-Vargas et al. 2025, published there as \"Proneotermes tacicuarensis sp. nov.\", type locality Tacicuaro, Morelia, Michoacán, Mexico (19.7333 N, 101.3333 W, altitude 2084 m); soldiers were taken from dry wood and alates from a light trap placed in a pine shrine. The material comprises 17 soldiers, 2 alates and 85 pseudoworkers; the alate measurements are in table 2 of the original. In that table the entry \"greatest head width at the compound eyes\" is printed as 17.7±0.09 mm, which contradicts the other measurements of the same table and the alate body length 18.2—19.4 mm and is evidently a misprint for 1.77 mm, so that row is not cited here. The molecular part (COII as the main marker, 12S and 16S as secondary markers) recovers this species together with P. macondianus in one clade with full support.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Total body length 10.5—12.1 mm. Head rectangular in dorsal view, the posterior margin rounded, yellowish brown; the vertex slightly inclined forward and darker brown. The anterior margin of the first tooth of the left mandible forms a right angle, the apex curving less sharply; both mandibles nearly black. The left mandible curves about 35° near the apex, the right one bends inward more steeply, more than 40°, with a sharp tooth in its middle. The third antennal segment is larger than the others, as long as segments 4 to 7 together, the antenna with 12—14 segments. Clypeus translucent white; labrum rectangular, yellow. Pronotum yellowish brown, heart-shaped, with a distinct notch in the middle of the anterior margin, as wide as the head."
+  },
+  {
+   "label": "Soldier",
+   "text": "Measurements (10 individuals, mean±SD, mm): head length to the apex of the mandibles 5.12±0.22; head length to the frontal horn 3.12±0.24; width of the frontal margin 1.93±0.18; genal width across the genal angles 1.04±0.11; greatest head width 2.42±0.11; head height without the postmentum 1.91±0.09; greatest pronotum width 2.16±0.05; greatest pronotum length 1.67±0.13; left mandible length (from the apex to the ventral articulation) 2.25±0.07; total body length 10.98±0.57; number of antennal segments 12.7±0.67. Table 1 of the original places the soldier means of this species beside those of P. macondianus, P. latifrons and P. perezi, and every value of this species is significantly larger than in the other three."
+  },
+  {
+   "label": "Alate",
+   "text": "Total body length 18.2—19.4 mm. Head yellowish brown, compound eyes projecting, black, 0.4—0.5 mm in diameter; ocelli nearly white, near the compound eyes; clypeus trapezoidal, nearly white. Labrum yellow. Pronotum slightly wider than the head. Antenna 17—20 segments, the first rather large and darker. Forewing scale yellow, with translucent brown veins lying parallel; the subcosta runs from the wing suture to the wing margin and occupies about one fifth of the wing length; the radius extends more than one third of the wing length and gives off 5—7 branches; the media is rather distinct, reaching one third of the wing length, and 7—9 anal veins arise from the base."
+  },
+  {
+   "label": "Alate",
+   "text": "Measurements (mean±SD, mm): head length including the labrum 2.01±0.07; head length to the postclypeus 1.91±0.07; compound eye diameter 0.48±0.06; shortest distance from the compound eye to the posterior margin of the head 0.51±0.05; ocellus diameter 0.17±0.03; greatest pronotum width 1.95±0.08; greatest pronotum length 0.99±0.05; total body length without wings 9.45±0.25; total body length with wings 19.09±0.50."
+  }
+ ]
+}

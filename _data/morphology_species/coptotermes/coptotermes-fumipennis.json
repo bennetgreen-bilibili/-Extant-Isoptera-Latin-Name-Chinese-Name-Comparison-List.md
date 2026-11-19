@@ -1,0 +1,21 @@
+{
+ "zh_name": "烟翅乳白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "属 Eutermes 类群，形态与色泽最近 T. opacus。全身漆黑、有毛、具光泽，体几呈线状，腹面革黄色；头几呈椭圆形、远长于宽，头顶压低，前部革黄色，与胸部等宽；单眼紧贴复眼；上颚端部黑色；触角革黄色，略长于头，各节近等长；前胸背板几为长的两倍宽，前缘凹、后缘凸、两侧略凸；腹呈棒状，腹面黄色，略长且宽于胸部；足革黄色，胫节深于腿节；跗节第 4 节几为前面各节的两倍长；翅褐色，长于体两倍余，翅脉褐色，缘室无横脉，亚前缘脉与中脉间有大量不明显的横脉，中脉分叉，亚中脉具 12 个分支。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "拉丁原描述（Walker 原文，Hagen 转译）：Piceus, subtus, antennis pedibusque fulvis; caput antice fulvum; abdomen subtus luteum, alae fuscae。量度：体长 5 毫米（2 法分）；翅展 24 毫米（12 法分）。德文转述见「鉴别要点」各项。产地：新荷兰（Neuholland），英国博物馆藏。"
+  }
+ ],
+ "note": "据 Hagen 1858《Monographie der Termiten》第 40 号条目改写，原文拉丁文（Walker 原描述）+ 德文（Hagen 转译）。Hagen 自述未另作详细描述，仅转译 Walker 原文，故本节实际内容为 Walker 的原描述；仅有有翅成虫（imago），作者指出它属 Eutermes，形态色泽最近 T. opacus。文末另记一头疑属本种的工蚁「Nasutus」，采自 Elmeo 岛（瑞典巡防舰 Eugenie 环球航行采集，斯德哥尔摩博物馆藏），体长 3 毫米，形态色泽几与 T. morio 条下描述的 T. corniger 相同——是否同种存疑，未并入本节。",
+ "sources": [
+  {
+   "id": "S0609",
+   "citation": "Hagen H. A. 1858. Monographie der Termiten. Linnaea Entomologica 12.",
+   "locator": "pp. 209–210 / Monographie-der-Termiten"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Male body length 7.5 mm; dark blackish brown, head chestnut, legs and antennae dark brown. Ocelli half a diameter or less from the compound eyes; fenestra rather small; antenna 15-segmented, segment 3 slightly larger than segment 2; clypeus slightly convex and projecting. Pronotum more than half as long as wide, anterior margin straight and slightly raised, the anterolateral corners rather sharply rounded and slightly depressed, the posterolateral margins nearly straight; posterior margins of the meso- and metanotum wide, slightly concave; fore wing buds larger than the hind wing buds. Wing length 12 mm, dark brown; media about equally distant from the submedia and the subcosta, giving off one or two branches that reach the wing apex, very pale near the apex; submedia with 6 branches, ending on the posterior margin one third of the wing length from the apex. Hind legs reaching abdominal segment 7; abdominal papillae absent. In the female, the sternite of abdominal segment 7 less than half as long as wide, the posterolateral margins concave; queen body length 14 mm, the tergites strongly arched (especially at the base), secondary chitinization absent, the lateral epidermis with minute pigment dots and setae."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 3.5 mm, dark blackish brown, head black. Antenna 3 mm long, 14-segmented, segment 3 longer than segment 2 but very variable in length, segment 7 the longest, less than three times as long as wide. Rostrum rather large; vestigial mandibles clearly visible; postmentum almost as long as wide. Pronotum saddle-shaped, the anterior lobe very short, almost not raised; hind femora extending beyond the end of the abdomen; abdomen small, oval; abdominal papillae absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 5 mm, dark brown, head chestnut; antenna 15-segmented; hind legs extending beyond the end of the abdomen; abdomen large, oval."
+  }
+ ],
+ "note": "Adapted from the original species-level description by Haviland (1898), original in English; includes imago, queen, soldier and worker, with measurements in mm. The original gives \"Hab. Borneo (Sarawak). Type, No. 261\"."
+}

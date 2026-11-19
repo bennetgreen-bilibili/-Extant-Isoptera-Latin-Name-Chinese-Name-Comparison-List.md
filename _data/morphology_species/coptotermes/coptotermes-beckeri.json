@@ -1,0 +1,25 @@
+{
+ "zh_name": "贝克乳白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头卵形、长而窄，形似 C. sepangensis 而较小、较窄、较薄；上颚短、端部内弯；触角 13 节，第 2 节长于第 3 节，第 3 节略短于或等于第 4 节；后颏短、中部强烈收缩；前胸背板平、窄于头，宽明显大于长，前缘凸而微隆、具中缺。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "腹密生毛，后缘有一列毛。头卵形、长而窄，形似 C. sepangensis 但更小、较窄较薄；上颚短，端部内弯；触角 13 节，第 2 节长于第 3 节，第 3 节略短于或等于第 4 节；后颏短，中部强烈收缩；前胸背板平、窄于头，宽明显大于长，前缘凸而微隆并具中缺，两侧斜下、较直或圆，后缘微凹。量度（mm）：头长至上颚侧基 1.10—1.13；头最大宽 0.90—0.98；头前缘宽 0.50；头指数 0.80—0.87；上唇长 0.28—0.30，宽 0.23；上颚长 0.73—0.78；头颚指数 0.65；后颏中长 0.75—0.83，最大宽 0.35—0.38，腰部宽 0.20—0.21；前胸背板长 0.33—0.36，宽 0.58—0.63；前胸指数 0.58；前胸／头宽指数 0.62—0.68。"
+  },
+  {
+   "label": "其他",
+   "text": "模式产地印度泰米尔纳德邦（Tamil Nadu）。研究材料为 F.R.I. Dehra Dun 的一瓶标本（No. 199），含正模兵蚁，G. Baker 采于 1956-11-05。"
+  }
+ ],
+ "note": "据 Maiti 2006 改写；原文英文；正文注「Measurements : Table 14 (S.)」而表 14 实为 bentongensis 与 sepangensis，本种量度见表 13，已按表 13 录。表 13 触角节数一行为单值，未录。",
+ "sources": [
+  {
+   "id": "S0720",
+   "citation": "Maiti, P. K. 2006. A taxonomic monograph on the world species of termites of the family Rhinotermitidae (Isoptera: Insecta). Memoirs of the Zoological Survey of India 20(4): 1-272.",
+   "locator": "pp. 38-39；Table 13 (Soldier)；archive.org dli.zoological.memoirs.020.04 (全文)"
+  }
+ ]
+}

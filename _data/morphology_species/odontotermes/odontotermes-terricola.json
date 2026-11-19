@@ -1,0 +1,25 @@
+{
+  "zh_name": "地栖土白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "蚁后头在雌性中比 T. schmitzi 更狭，前胸背板明显更呈角状；T. agilis 略大；T. apollo 更大；T. aurora 的单眼与眼距大于其长；与 T. buchholzi 的描述难以区分，但后者单眼距眼更近（0.11 mm）；T. diana 的单眼与眼距大于其长；T. latialatus 副模的单眼距眼更近（0.13 mm）。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "蚁后头黄褐色，每根毛的基部有一淡色小点，使头呈斑点状；头卵形，被颇长的毛；囟为头中央一个颇不显眼的小点。触角第 3 节与第 4 节等长，第 2 节大于第 3 或第 4 节。复眼中等大，距下缘不很近。单眼颇大，宽 0.267 mm，长 0.33 mm，距眼 0.20 mm。后唇基长不及宽之半，比头略浅，具中纵线。前胸背板比例上宽而短，前缘均匀内凹，后缘近直或弱凹但无缺刻，两侧近直并强烈向后收拢；比头略浅。中、后胸背板后缘近直、略凹。蚁后腹部两侧具疣状增厚。量度：头长 3.00 mm，头宽 2.67 mm，眼径 0.67 mm，前胸背板长 1.17 mm，前胸背板宽 2.50 mm，蚁后体长 59.00 mm，蚁后腹部宽 10.00 mm。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头红黄色，长方形，两侧近直而平行。触角第 3 节小于第 4 节，第 4 节与第 2 节等长。眼退化，为触角基后方的黑点。上颚比例上短。前胸背板前缘与后缘均凹，后缘的凹入较前缘更深。量度：头长 5.25 mm，头宽 2.40 mm，前胸背板长 0.79 mm，前胸背板宽 1.66 mm，后足胫节长 1.84 mm，左上颚长 1.65 mm。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0075",
+      "citation": "Emerson, A. E. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57.",
+      "locator": "pp. 458—459（Termites-of-the-Belgian-Congo-and-the-Cameroon）"
+    }
+  ],
+  "note": "据 Emerson 比属刚果与喀麦隆白蚁志改写，原文英语。原书以 Termes (Termes) terricola Sjöstedt 的组合名出现，所据为蚁后与一个兵蚁；种级鉴别段落逐条与 T. schmitzi、T. buchholzi、T. diana、T. latialatus 等比较，已并入「鉴别要点」。"
+}

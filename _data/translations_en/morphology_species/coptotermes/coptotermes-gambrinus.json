@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the species-level description in Bourguignon & Roisin (2011), in English; the original described only the soldier, recorded the alate as unknown, hence no alate section. Measurements keep the original mm units, with abbreviations given in parentheses at first occurrence.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Closely related to Coptotermes remotus, from which it is easily distinguished by the shorter and less curved mandible apices."
+  },
+  {
+   "label": "Soldier",
+   "text": "Small. Posterior part of the head about twice as wide as the anterior part (at the mandibular bases), with about 10 setae; antennae usually 15-segmented; pronotum with about 15 setae, the anterior part slightly larger than the posterior; mandibles very short, the apex hardly curved. Measurements (mm, 30 individuals from 10 colonies): head length to the frontal gland (HLF) 0.92—1.07; head length including mandibles (HLL) 1.22—1.48; head width (HW) 0.82—0.98; pronotum length (PL) 0.27—0.41; pronotum width (PW) 0.50—0.70; right mandible length (RML) 0.56—0.74; postmentum width (MPW) 0.23—0.36; hind tibia length (T3L) 0.75—0.88."
+  },
+  {
+   "label": "Other",
+   "text": "Distributed in eastern New Guinea and New Britain; the species name honours the Flemish legendary figure Gambrinus."
+  }
+ ]
+}

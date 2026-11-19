@@ -1,0 +1,13 @@
+{
+ "note": "Recast from Maiti & Chakraborty 1994, original in English; for this species the work gives only soldier measurements together with collection and distribution records, with no descriptive text, so the soldier section is measurements only; the original does not describe the alate or worker morphology.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Measurements (mm, 3 soldiers): head length (to the lateral base of the mandibles) 2.10—2.38; maximum head width 1.24—1.34; left mandible length 1.48—1.58; maximum labrum length 0.19—0.20, maximum width 0.26—0.32; maximum postmentum length 1.30—1.40, maximum width 0.42—0.45, minimum width 0.21—0.24; pronotum length 0.32—0.34, width 0.72—0.80."
+  },
+  {
+   "label": "Other",
+   "text": "Material: 1 vial from Chidyatapu (Mundapahar), South Andaman, containing 3 soldiers and several workers, collected on 1979-1-10 by P. K. Maiti et al., the collection record reading “under a log”. The original records that the species forages under logs on the floor of moist forest, neither boring into the wood nor extending into the adjacent soil. Distribution: South Andaman; also Indonesia (Bogor, Java; West Java; Peutjang Island) and the Malay Peninsula (Malacca)."
+  }
+ ]
+}

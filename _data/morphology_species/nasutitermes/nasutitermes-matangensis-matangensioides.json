@@ -1,0 +1,29 @@
+{
+  "zh_name": "似马登亚种",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "（原文作 Eutermes matangensis 的变型 matangensioides n. f.）与 E. matangensis 很一致，但略小，前胸背板后缘凹入较浅。连翅体长 15—16 mm；去翅体长 9 mm；前翅长 13 mm；头长 1.79 mm；头宽 1.63—1.67 mm（原文排印作 1,63—1,07，后一数字疑为 1.67 之误）；前胸背板宽 1.33—1.37 mm，长 0.77 mm。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "色与毛被同主型（matangensis），体型略小。体长 4—4.5 mm；头连象鼻长 1.9—1.98 mm；头长（不含象鼻）1.03 mm；头宽 1.33 mm；前胸背板宽 0.68 mm。"
+    },
+    {
+      "label": "工蚁",
+      "text": "同主型。体长 5—6 mm；头宽 1.44 mm；前胸背板宽 0.91 mm。"
+    },
+    {
+      "label": "其他",
+      "text": "分布：婆罗洲沙捞越（Haviland）；Krakatau（Jacobson）。Holmgren 注明此型即 Haviland 的 matangensis 型第 359 号。检索表中以「前胸背板凹入极弱、头宽 1.33 mm、复眼较大」与 matangensiformis 区分。"
+    }
+  ],
+  "note": "原始描述作 Eutermes matangensis 的变型（forma）matangensioides，有翅成虫、兵蚁、工蚁齐备。原文为德文，取自 Internet Archive 图书馆扫描本 OCR；头宽一项原件排印有误，已在正文说明。",
+  "sources": [
+    {
+      "id": "S0089",
+      "citation": "Holmgren N. 1913. Termitenstudien 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Kungliga Svenska Vetenskapsakademiens Handlingar 50(2).",
+      "locator": "pp. 183–184"
+    }
+  ]
+}

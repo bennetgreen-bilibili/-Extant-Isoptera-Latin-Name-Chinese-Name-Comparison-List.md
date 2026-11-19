@@ -1,0 +1,21 @@
+{
+ "note": "From the original description by Haviland 1898 (in English). The original records the male (alate), the female (queen), the soldier and the worker, and gives body length, wing length and head and mandible measurements. The text was extracted by OCR from the Internet Archive scan, with recognition errors in the scientific names and in a few word forms (e.g. eostratus should be rostratus, latierons should be laticornis); the measurement figures have been checked against the context.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Body length 4 mm, isabelline yellowish brown, paler beneath, the head darker. Head oval. Ocelli almost touching the large compound eyes. The small fenestra (fontanelle) is minute. Antennae 15-segmented, segment 3 short, segments 2 and 4 subequal. Postclypeus (epistoma) convex. Anterior margin of the pronotum straight, anterolateral corners rounded, posterolateral margins converging, posterior margin short. Posterior margins of the mesonotum and metanotum rather broad but only slightly lobed. Forewing buds only slightly larger than the hindwing buds. Wing length 6.5 mm, isabelline yellow; the media closer to the subcosta than the submedia, unbranched up to the wing apex; the submedia almost reaching the wing apex, with 12—14 branches. Abdominal protuberances absent."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 5 mm. Head length 1.5 mm, width 0.9 mm, pale yellowish white (ochroleucous); a horn-like process (the nasus) in front of the head, about 0.5 mm long, its lower margin slightly convex. Antennae 14-segmented, segment 2 slightly longer than segments 3 and 4. Labrum small, white, curved upwards towards the horn, with two minute, sharp, diverging lobes. Mandibles 1.3 mm long, setiform, slightly directed upwards at the base and then slightly curved downwards. The apex of the postmentum (gula) twice as wide as its base. Pronotum saddle-shaped, the anterior lobe projecting and saddle-shaped. Hind legs almost reaching the apex of the abdomen. Abdomen long-oval, coloured by the intestinal contents. Abdominal protuberances absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 3.5 mm. Head small, pale. Antennae 14-segmented. Abdomen long-oval, blackish owing to the intestinal contents."
+  },
+  {
+   "label": "Other",
+   "text": "Female (queen): sternite of abdominal segment 7 half as long as wide, posterior margin convex. The queen's abdomen may reach 18 mm in length; the lateral membrane with faint, pale protuberances. Locality: Borneo (Sarawak), Malay Peninsula (Singapore). Type no. 305. The nest of this species is almost always accompanied by, and surrounds, that of Termes umbrinus."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "zh_name": "埃默森乳白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头梨形、长大于宽、后缘圆；囟开口卵形，恰在后唇基之后；触角 13 节，第 3 节小于第 2 或第 4 节；上唇长大于宽，端部尖具透明端，其下有两根长刚毛；头仅在囟两侧各有一根毛。与 C. gaurii、C. kishori、C. minutissimus 及 C. kalshoveni 的兵蚁接近，区别见检索表。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头浅褐；触角、上唇、前胸背板与腹节较头壳淡；头仅在囟两侧各有一根毛；前胸背板疏生毛，腹毛较多而不规则。头梨形、长大于宽，后缘圆；囟开口卵形，恰位于后唇基之后；触角 13 节，第 3 节小于第 2 或第 4 节；上唇长大于宽，端部尖具透明端，其下有两根长刚毛。量度（mm）：头长至上颚侧基 1.05—1.18；头最大宽 0.88—0.96；头前缘宽 0.63—0.70；头高 0.63；头收缩指数 0.59；头指数 0.82；上唇长 0.30，宽 0.25；上颚长 0.82；头颚指数 0.70；后颏中长 0.83，最大宽 0.35，腰部宽 0.13；前胸背板长 0.28—0.35，宽 0.57—0.65；前胸指数 0.53；前胸／头宽指数 0.63。"
+  },
+  {
+   "label": "其他",
+   "text": "有翅成虫未知。正模兵蚁存斯里兰卡国家博物馆。分布：斯里兰卡科伦坡，仅知模式产地。"
+  }
+ ],
+ "note": "据 Maiti 2006 改写；原文英文；表 18 上唇长宽、后颏三行本种有值而与其同表的 remotus 缺，已按列核对照录。",
+ "sources": [
+  {
+   "id": "S0720",
+   "citation": "Maiti, P. K. 2006. A taxonomic monograph on the world species of termites of the family Rhinotermitidae (Isoptera: Insecta). Memoirs of the Zoological Survey of India 20(4): 1-272.",
+   "locator": "p. 52 前后；Table 18 (Soldier)；archive.org dli.zoological.memoirs.020.04 (全文)"
+  }
+ ]
+}

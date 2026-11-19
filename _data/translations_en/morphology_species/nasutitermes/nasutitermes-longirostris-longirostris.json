@@ -1,0 +1,17 @@
+{
+ "note": "Nominate subspecies, morphology as in N. longirostris (Holmgren's 1913 original description, in German); listed separately here, the measurements and diagnostic characters taken from that original description. The original is in German, OCR'd from the Internet Archive scan, with occasional misread words and figures (e.g. 'l,i' for 1,1), checked against the context; the original measures in mm.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Nominate subspecies, very close to E. ovipennis, differing in the slightly smaller body and the smaller head with a relatively longer nasus; antennae 13-segmented. Distribution confined to Sarawak, Borneo."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 3.5—4 mm; head including nasus 1.50 mm, head without nasus 0.91 mm, head width 0.99 mm, pronotum width 0.40 mm. Antennae 13-segmented. Anterior margin of the pronotum hardly concave."
+  },
+  {
+   "label": "Worker",
+   "text": "Of two forms, large and small: major worker body length 5 mm, head width 1.00 mm, pronotum width 0.60 mm; minor worker body length 4 mm, head width 0.84 mm, pronotum width 0.46 mm. Cephalic sutures and fontanelle indistinct in the minor worker; antennae 14-segmented."
+  }
+ ]
+}

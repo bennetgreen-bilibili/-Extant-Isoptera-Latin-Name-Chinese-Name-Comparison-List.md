@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from Haviland's (1898) original species-level description, originally in English; it includes imago, queen, soldier and worker, with measurements in mm. The original reads “Hab. Natal (Estcourt)”, the nest being built on the surface of the ground. Haviland placed this species in the group typified by Termes nemorosus (now Cubitermes), whose soldier has a bilobed labrum and toothless mandibles.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Body length 5.5 mm, robust, dark chestnut, tarsi dark brown. Head oval; compound eyes projecting; ocellus one diameter from the compound eye; fenestra present; antennae 15-segmented, segment 2 large, segments 3 and 4 small; clypeus convex and projecting. Pronotum width 1 mm, crescent-shaped, anterior margin slightly concave, the anterolateral corners rather sharp and slightly depressed; posterior margins of the meso- and metanotum very narrow, forming short pointed lobes; fore and hind wing buds nearly equal in length. Wing length 11.5 mm; media slender and weak, closer to the submedia than to the subcosta, reaching the wing apex and giving off two or three branches in the apical half; submedia ending one third of the way from the wing apex, with 8 branches. Hind legs reaching the apex of the abdomen; abdominal papillae absent. In the female the sternite of the 7th abdominal segment is about half as long as wide, the posterolateral margins meeting in the middle at an obtusely rounded angle; the queen's abdomen may reach 15 mm in length and is not much inflated."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 6.5 mm; head width 1.5 mm, orange yellow, elongate-oval; above the level of the antennae a large rounded median swelling. Antennae 14-segmented, segment 2 slightly longer than segment 3 or segment 4. Labrum with two long bifurcate lateral lobes, reaching one third of the mandible length. Mandibles 1.5 mm long, rather slender, tapering towards the apex, slightly curved at the base and more strongly curved near the apex, the cutting edge toothless. Postmentum elongate-oval, firmly fused with the head but not sunk between the sides of the head. Pronotum short, saddle-shaped, the anterior part convex and slightly raised. Hind legs reaching the apex of the abdomen; abdomen oval, pointed, coloured by the gut contents; abdominal papillae absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 4.5 mm; head pale yellowish white; antennae 14-segmented, segment 2 longer than segment 3; fenestra absent; clypeus projecting; abdomen elongate-oval, coloured by the gut contents."
+  }
+ ]
+}

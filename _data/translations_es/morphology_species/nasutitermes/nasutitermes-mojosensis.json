@@ -1,0 +1,21 @@
+{
+ "note": "La entrada sigue la descripción original de Holmgren de 1910 (reina, soldado y obrero). El original es un texto OCR de biblioteca de un escaneo de BHL (espejo Zenodo/Plazi); la descripción original alemana se leyó línea por línea; las cifras que el OCR desordenó sin posibilidad de confirmación no se enumeran.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "(El original describe solo la reina.) Muy semejante a Eutermes chaquimayensis, del mismo color, la cabeza cubierta de pelos blancos bastante densos, del mismo tamaño; el occipucio posiblemente algo más largo y el pronoto algo más ancho."
+  },
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 3—3.5 mm; moda de la longitud de la cabeza 1.40—1.45 mm (el intervalo impreso en el original está dañado por el OCR como '1.55—1.55', por lo que solo se da la moda); anchura de la cabeza 0.75—0.95 mm (51 especímenes medidos). Cabeza parda, más pálida alrededor de las antenas y en el ápice de la nasa; antenas, patas y el resto del cuerpo amarillo herrumbroso. Cabeza con algunas cerdas en la base de la nasa y en el vértice; terguitos abdominales casi totalmente lisos con una fila de cerdas marginales, los esternitos además pelosos. Cabeza ovalada; nasa casi cilíndrica por delante, cónica y ensanchada en la base en vista lateral; elevación de la base de la nasa evidente. Antenas de 13 segmentos: segmento 3 más largo que el segmento 2; segmento 4 algo más corto que el segmento 2. Parte anterior del pronoto levantada casi en ángulo recto, borde anterior no cóncavo."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza parda; ángulos anteriores de la banda transversal, clípeo, base de las mandíbulas, labro y región alrededor de las antenas amarillo herrumbroso; sutura sagital blanca; patas y escleritos del cuerpo amarillo herrumbroso. Cabeza con pelos extremadamente finos; terguitos abdominales pelosos con algunas cerdas marginales largas (las cerdas de los terguitos cortas). Cabeza ampliamente ovalada, más ancha a la altura de las antenas; sutura sagital abierta; sutura transversal casi totalmente cerrada; fontanela alargado-triangular; esclerito clipeal corto y bastante fuertemente convexo, la convexidad no alcanza los cóndilos mandibulares de tamaño medio. Antenas de 14 segmentos: segmento 3 aproximadamente igual al segmento 2 o algo más largo; segmento 4 claramente más corto que el segmento 2."
+  },
+  {
+   "label": "Otros",
+   "text": "El original se publicó como Eutermes mojosensis n. sp.; la figura 20 muestra la cabeza de la reina y la del soldado; la especie es una de las del género cuyas curvas de variación de longitud y anchura de la cabeza del soldado se midieron espécimen por espécimen (51 especímenes)."
+  }
+ ]
+}

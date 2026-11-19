@@ -1,0 +1,17 @@
+{
+ "note": "Recast after Roonwal & Chhotani 1997; the original is in English. The original gives the greatest diameter of the compound eye as \"0.S0-0.S3\" (the OCR letter S standing for 5), corrected from the context to 0.50—0.53 mm. The original does not describe the large soldier.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Dealate individual: body length without wings 6.8—7.0 mm; head length 1.38—1.40 mm, head width (including the compound eyes) 1.75 mm; greatest diameter of the compound eye 0.50—0.53 mm, least diameter 0.48 mm; ocellus 0.18 mm, distance to the compound eye 0.05—0.08 mm; antenna 14 or more segments; labrum 0.37×0.53 mm; pronotum width 1.48—1.55 mm, length 0.85—0.90 mm; tibial spur formula 3:2:2; tarsi 4-segmented."
+  },
+  {
+   "label": "Soldier",
+   "text": "Large soldier not available in the original (Soldier major: Unknown). Small soldier: body length 2.95—3.30 mm; head length to the mandibular base 0.73—0.79 mm, head width 0.68—0.70 mm; antenna 14 segments; labrum length 0.38—0.43 mm, width 0.15—0.20 mm; mandible length 0.45—0.50 mm; postmentum length 0.38—0.40 mm, greatest width 0.28 mm, waist width 0.18—0.20 mm; pronotum width 0.43—0.48 mm, length 0.30 mm; tibial spur formula 3:2:2."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 3.90—4.40 mm; head length 0.98—1.05 mm, head width 1.13—1.18 mm; antenna 15 segments; pronotum width 0.55—0.58 mm, length 0.23—0.25 mm."
+  }
+ ]
+}

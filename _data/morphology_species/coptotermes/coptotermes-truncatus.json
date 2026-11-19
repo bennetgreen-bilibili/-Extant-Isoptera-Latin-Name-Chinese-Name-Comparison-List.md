@@ -1,0 +1,17 @@
+{
+ "zh_name": "伤残乳白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "兵蚁体长 4—6 mm，变化较大，可分出两种体型的兵蚁，但两者之间别无其他差异。头连上颚长约 2.3 mm，或为 1.9—2 mm；头宽 1.2 mm（原文按 Sjöstedt 的平均值记作体长 5、头连上颚 2、头宽 1.2 mm）。触角 15 节：第 2 节约与第 3 节等长但明显更粗，第 4 节略短于第 3 节。额管短；唇基区因额管的发育在中部被极度压缩，因而很短，但向两侧略向后延伸至上颚关节处；唇基的透明端区相当短，但仍清晰可见。横带上的触角斑相当明显；触角窝位于头侧，自上方被略为隆起的触角脊遮盖。触角前方的头两侧平行延伸，以容纳上颚的外侧关节突。额管背面覆有同心几丁质环纹。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0722",
+   "citation": "Holmgren, N. 1910. Madagassische Termiten gesammelt von Walter Kaudern. Arkiv för Zoologi 5(13): 1-28.",
+   "locator": "p. 2—3（Coptotermes truncatus 一节）"
+  }
+ ],
+ "note": "据 Holmgren 1910（德文）改写。原文是对 Wasmann 1897 原始描述之后一批马达加斯加标本的再描述（redescription），并非 1897 年的原始描述；原文明确说明 Coptotermes truncatus 的兵蚁系 Wasmann 所描述，本处所记为其后所采兵蚁的补充描述与量度。同文 biostor-184507 仅列该种于名录，未作描述。"
+}

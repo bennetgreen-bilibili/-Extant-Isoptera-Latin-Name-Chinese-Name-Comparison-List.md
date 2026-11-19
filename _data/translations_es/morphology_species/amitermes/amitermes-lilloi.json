@@ -1,0 +1,21 @@
+{
+ "note": "Reescrito a partir de la descripción de la nueva especie de Rocha y Cancello (2020), original en inglés. El original incluye el soldado, el obrero y la anatomía del intestino; las medidas están en mm, con las abreviaturas entre paréntesis en su primera aparición y solo los términos morfológicos después, y los intervalos según el original.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El soldado puede distinguirse de las demás especies sudamericanas: el asiento de la válvula entérica es conspicuo, claramente visible incluso en el soldado; las mandíbulas son delgadas y alargadas, con dientes marginales netos y algo girados hacia atrás, semejantes a A. amicki, A. amifer y A. foreli, pero el cuerpo es menor (que en A. foreli), y las mandíbulas son más delgadas y alargadas, proporcionalmente mayores y con dientes marginales más agudos (que en A. amifer)."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza casi rectangular; en vista lateral el vértice convexo desde el margen posterior hasta el centro, con una depresión neta en la parte distal; clípeo corto, redondeado en los lados, con el margen anterior ampliamente cóncavo, formando ángulos redondeados salientes; mandíbulas muy cortas y fuertemente curvadas, muy anchas en la base, con un diente medio grande, ancho y triangular romo; antenas de 14 artejos; pronoto redondeado en los márgenes anterior y posterior; clípeo con 8—10 setas, el par más largo en el extremo. Medidas (10 soldados de 4 colonias, mm): longitud de la cabeza con mandíbulas (CLM) 0.90—0.95; longitud de la cabeza (LH) 1.45—1.50; anchura de la cabeza (WH) 1.03—1.08; longitud del pronoto (LT) 0.90—0.98."
+  },
+  {
+   "label": "Obrero",
+   "text": "Mandíbulas del tipo xilófago típico. Diente apical de la mandíbula izquierda algo mayor que M1+2, M3 claramente discernible, con un borde cortante neto entre los dientes marginales; mandíbula derecha con el diente apical mayor que M1, M2 neto, con un borde cortante posterior neto, y la placa molar con 4 crestas netas."
+  },
+  {
+   "label": "Otros",
+   "text": "Holotipo soldado, un individuo del ejemplar MZUSP 8156, recolectado el 30 de enero de 1964 (mes 1) por W. Weyrauch; localidad tipo Tapia, provincia de Tucumán, Argentina. El nombre específico honra al naturalista argentino Miguel Lillo. La anatomía del intestino (asiento de la válvula entérica, segmentos P1/P3/P4, aparato de la válvula entérica) es la base anatómica comparativa para las especies sudamericanas del género."
+  }
+ ]
+}

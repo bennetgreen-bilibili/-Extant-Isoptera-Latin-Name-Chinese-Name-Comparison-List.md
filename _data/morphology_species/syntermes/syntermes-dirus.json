@@ -1,0 +1,29 @@
+{
+  "zh_name": "可怕聚白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "有翅成虫与 S. cearensis 无法区分，与 S. aculeosus、S. spinosus、S. chaquimayensis、S. tanygnathus 很相似；S. cearensis 前胸背板更宽、囟更大，S. spinosus 与 S. chaquimayensis 头部毛更长更多，S. tanygnathus 见该种下比较。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "复眼小，小于去复眼头宽的 1/4；单眼小；囟圆而大。触角 20 节。前胸背板前角成角状并具尖突；侧缘微呈 S 形，前半部近平行。翅深色而相对短；中脉与肘脉端部明显。头壳有散布的极短毛，有时几乎不可见；后唇基具 6—8 根短毛；前胸背板外缘多毛，表面仅有少量散毛；腹背板后缘具极短毛。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头壳短，头长与头宽近等；两侧近平行或向前微收缩；头后缘近圆或弱三叶状。额管突出而宽，孔在背面观不可见。上唇短，长与宽近等。"
+    },
+    {
+      "label": "工蚁",
+      "text": "工蚁：头壳覆有众多短而直的刚毛；后唇基约有 12 根刚毛；囟大而圆；胸部背板刺发达。触角 20 节。上颚臼齿板较窄，基部凹口成钝角。后肠见 Kovoor (1969) 的详细描述。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0163",
+      "citation": "Constantino, R. 1995. Revision of the Neotropical termite genus Syntermes Holmgren (Isoptera: Termitidae). University of Kansas Science Bulletin 55(13): 455-518.",
+      "locator": "p. 478-481"
+    }
+  ],
+  "note": "据 Constantino (1995) 修订，原文英文。描述了有翅成虫、兵蚁（含不同群体的头）与工蚁。兵蚁量度：18 个群体 19 头兵蚁，头长 5.10—7.00 mm，头最大宽 4.80—6.70 mm，去后颏头高 2.70—3.80 mm，额管长 0.24—0.37 mm，左上颚长 2.70—3.10 mm，弯曲度 0.85—1.50 mm，左上颚 M1—M2 距离 0.62—0.94 mm，左上颚宽 0.77—1.04 mm，左上颚 M1 长 0.18—0.35 mm，后颏最小宽 0.79—1.09 mm，前胸背板宽 3.50—5.00 mm，后胸背板宽 3.60—5.70 mm，后足胫节长 4.80—6.80 mm。该种分布广、变异大，量度范围宽。OCR 中「5.10-7,00」类标点已校正。"
+}

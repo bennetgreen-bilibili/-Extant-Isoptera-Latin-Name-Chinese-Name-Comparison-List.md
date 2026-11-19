@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from Oshima 1914; the original is in English; the OCR is defective: the wording for the soldier head width is damaged and illegible in the original, and the soldier pronotum length is given in the original as '0959' (possibly 0.95 or 0.59, undeterminable); neither is entered here. The three figures for the worker body length, head width and pronotum width are also damaged, so the worker section retains only qualitative characters. The original does not describe the alate.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head pale yellow, mandibles brown, abdomen white; head sparsely hairy, abdominal tergites densely covered with fine hairs. Head oval, somewhat flattened; fontanelle opening directed forwards and slightly downwards; base of the clypeus short; labrum ligulate, ending in a transparent triangle that extends beyond the middle of the mandibles; mandibles sword-shaped, ending in an incurved spinous point; antenna 17-segmented, segment 3 shorter than segment 2; pronotum broad, the anterior and the posterior margin both concave in the middle. Measurements (mm): body length 6.00; head length (with the mandibles) 2.69; head length (without the mandibles) 1.66; pronotum width 1.06."
+  },
+  {
+   "label": "Worker",
+   "text": "Head and abdomen white; head stout; antenna 16-segmented, segment 2 and segment 3 equal in length; anterior margin of the pronotum slightly concave in the middle, posterior margin rounded."
+  },
+  {
+   "label": "Other",
+   "text": "Type locality: Dobo (Arue Island, Aru Islands, Dutch New Guinea), collected by Kanehira on 6 May 1913 (month 5). The original notes that the alate is unknown. Closely related to Coptotermes curvignathus: in this species the soldier head is longer and the antenna has 17 segments (14—16 in the latter); the worker antenna has 16 segments with segment 2 and segment 3 equal in length (15 segments in the latter, with segment 2 much longer than segment 3)."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "zh_name": "球形象白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "头淡黄、喙淡红、腹背板淡黄且几丁化极轻；背观轮廓凹（虽有轻微喙峰）；头前方凹陷；喙端部略上翘；触角 12 节，第 2、3 节近等。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头暗黄；喙淡红；腹背板淡黄、几丁化极轻。头与喙形状见图 18 a、b：背观轮廓凹，虽有轻微的喙峰；头前方凹陷；喙端部略上翘。头被一层细长白毛及少数散布的刺状毛。左上颚见图 18 c。触角 12 节，约为头连喙长的七分之五，第 2、3 节近等。量度（毫米及指数，采自模式采集 No. 1154、棉兰老 Cotabato 的一头典型兵蚁）：头连喙长 1.62；头长（不含喙）0.96；喙长 0.66；头突出部 0.24；头高 0.66；头宽 1.02；前足胫节长 0.72；头指数 1.06；头喙指数 0.69；头突出指数 0.25；足伸长指数 0.75。"
+  }
+ ],
+ "note": "据 Light & Wilson 1936 改写，原文英文（The nasute termites of the Philippines，The Philippine Journal of Science 60: 461–520）。有翅成虫与工蚁原文均作 Unknown；仅一批标本，Taylor 采于棉兰老 Cotabato 海岸，模式采集 No. 1154；生物学未知。图 18（兵蚁头背面、侧面，左上颚）未译。",
+ "sources": [
+  {
+   "id": "S0537",
+   "citation": "Light S. F. & Wilson F. J. 1936. The nasute termites of the Philippines. The Philippine Journal of Science 60: 461–520.",
+   "locator": "pp. 504–505 / The-nasute-termites-of-the-Philippines"
+  }
+ ]
+}

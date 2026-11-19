@@ -1,0 +1,25 @@
+{
+  "zh_name": "黑暗解甲白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "雌虫体形大于美洲已知各 Anoplotermes 种。头暗褐黑、具毛；复眼大而突出；上颚长；单眼与复眼间距近等于其长径；囟为小型黄色隆起；后唇基暗褐、隆起、长约当宽的 1/3；前胸背板较头色淡；后足胫节黄褐、延长。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "雌虫：头暗褐黑、具毛；复眼大而突出；上颚长；单眼与复眼间距近等于单眼长径；囟为小型黄色隆起；后唇基暗褐、隆起，长约当宽的 1/3；前胸背板较头色淡；后足胫节黄褐、延长。量度（雌）：有翅体长 14.5+ mm；去翅体长 5.5+ mm；头长 1.35 mm、头宽 1.3 mm；前胸背板长 0.65 mm、宽 1.15 mm；左上颚长 0.65—0.70 mm；后足胫节长 1.4 mm；前翅长 13 mm、宽 3.2 mm；复眼径 0.35 mm。"
+    },
+    {
+      "label": "其他",
+      "text": "模式产地巴西圣保罗州 Ypanema；模式雌虫 Type No. 422（M. C. Z.）。Snyder 1924 依据模式标本给出上述描述与量度，用以与 A. hondurensis、A. fumosus、A. ater 比较。"
+    }
+  ],
+  "note": "此处为 Kollar 模式雌虫的再描述与量度（Snyder 1924 与 A. hondurensis 对比时给出），非新种原始描述；原文只述雌虫。",
+  "sources": [
+    {
+      "id": "S0560",
+      "citation": "Snyder, T. E. 1924. Descriptions of new species and hitherto unknown castes of termites from America and Hawaii.",
+      "locator": "pp. 35-36 / 文库 Descriptions-of-new-species.../0001-0046.txt"
+    }
+  ]
+}

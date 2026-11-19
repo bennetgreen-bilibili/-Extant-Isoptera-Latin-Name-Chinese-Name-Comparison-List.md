@@ -1,0 +1,21 @@
+{
+  "zh_name": "最新象白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "触角 13 节，第 3 节略长于第 2 节，其余各节延长。体长 4.3 mm。"
+    },
+    {
+      "label": "其他",
+      "text": "原文以 Eutermes arenarius subsp. proximus 发表，原始描述为简短拉丁鉴别，仅记上述两项；产地巴西 Coxipó。Holmgren 1910 曾将它作为独立种重新描述并给出检索表位置（p. 249）。"
+    }
+  ],
+  "note": "条目依据 Silvestri 1901 原始鉴别；原文为 BHL 分册的图书馆 OCR 文本。",
+  "sources": [
+    {
+      "id": "S0092",
+      "citation": "Silvestri, F. 1901. Nota preliminare sui Termitidi sud-americani. Bollettino dei Musei di Zoologia ed Anatomia comparata della R. Università di Torino 16(389).",
+      "locator": "p. 7 (nr. 50)"
+    }
+  ]
+}

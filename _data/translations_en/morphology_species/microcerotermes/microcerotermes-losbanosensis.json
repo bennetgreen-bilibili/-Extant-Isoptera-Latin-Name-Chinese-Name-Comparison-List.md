@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head yellow, mandibles brown, abdomen white. Setae on the head extremely sparse, the abdominal tergites with only microscopic fine hairs. Head slightly elongate-rectangular, the four corners rounded, the dorsum slightly arched, truncate anteriorly; no fontanelle; postclypeus with the posterior margin arched and the anterior margin straight; labrum short and wide, tongue-shaped; mandibles slender and elongate, sabre-like, strongly incurved at the apex into a spine, the masticatory margin finely serrate; antenna 13-segmented, segment 1 very thick, segment 3 shorter and narrower than segment 2, segment 4 as long as segment 2; pronotum saddle-shaped, both the anterior and posterior margins rounded."
+  },
+  {
+   "label": "Worker",
+   "text": "Head pale yellow, abdomen white. Head with moderate setae, the abdominal tergites densely covered with fine hairs. Head broadly oval, slightly longer than wide; head sutures indistinct, whitish; base of the postclypeus half as long as wide, the anterior margin straight, the posterior margin convex, slightly raised, with a shallow groove in the middle; antenna 13-segmented, segment 3 extremely small, half as long as segment 2, segment 4 longer than segment 3; pronotum saddle-shaped, the anterior margin slightly concave in the middle."
+  },
+  {
+   "label": "Other",
+   "text": "Measurements (mm). Soldier: body length 5.50, head length including mandibles 2.56—2.66, head length (without mandibles) 1.66—1.72, pronotum length 0.66. Worker: head width 0.94, pronotum width 0.58. Alate not described. Type locality Los-Banos, Luzon, Philippines, collected by Professor Baker."
+  }
+ ],
+ "note": "Adapted from the original description by Oshima (1914), original in English; the original describes only the soldier and the worker and notes that the alate is unknown. In the scanned text three figures are damaged (given as \"O3\", \"0.34\" and \"42O\" for the soldier head width, the soldier pronotum width and the worker body length respectively) and cannot be reliably restored, so they are not entered; the remaining figures follow the original."
+}

@@ -1,0 +1,29 @@
+{
+  "zh_name": "沟额多铲白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "（原文置于 Cubitermes 属）翅展 30—32 mm；连翅体长 19—20 mm；翅长 15 mm、宽近 5 mm；去翅体长 9.5—10 mm，宽 2.5 mm。上面淡褐色，除头外仅弱光泽，黄色毛被比 C. fungifaber 与 C. zenkeri 更密更长。头连突出的复眼几与前胸背板等宽，至上唇长略小于宽；复眼比 fungifaber 小；单眼大、横椭圆形，与复眼相距超过其直径。额平凹，有一大而具隆起边缘的圆形囟孔窝，窝前有一强纵脊。后唇基（epistomum）强凸，宽为长的三倍，前缘强波状，远较 fungifaber 短而凸。上唇大，稍宽于长，前方圆。触角 16 节，粗壮，超过前胸背板后缘；第 3、4 节小于且窄于相邻节，第 5—11 节长渐增，第 5、6 节方形，其后各节约长为宽的 1.5 倍、彼此几等长。前胸背板近半圆形，宽为长的两倍，两侧渐圆收，后缘远较 fungifaber 宽；近前缘的横沟终止于凹下前倾的前角，中央纵沟很浅，后缘既不凹入也无缺刻。翅淡褐，相对体短而很宽，仅为宽的 3 倍；前翅长 15 mm、宽 4.8 mm，后翅长 14.5 mm、宽 5 mm；褐色脉纹清晰，亚前缘脉伴一条至翅中部消失的暗纹；前翅端部四分之一处亚前缘脉向下发出一列细波状横脉，后翅端部三分之一处则发出一短粗强弯的分支，在近亚前缘脉端处伸入翅外缘；中脉自翅中部即分叉，端部略下弯，前翅有 3 条简单分支，后翅中部裂为 2 支后再各分 2；亚中脉（肘脉）强下弯，具 8 条简单分支。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头两侧直，向前略收，后缘仅微圆。触角 15 节，第 3 节短于第 4 节，第 4 节稍短于第 2 节。上唇很深地切开，两突很薄。上颚弯曲相当强。前胸背板前缘微凹。量度：头连上颚长 5.80 mm；头长至上唇端 4.40 mm；头长至触角基后方 2.80 mm；头宽 2.54 mm；触角长 5.20 mm；前胸背板长 0.64 mm、宽 1.30 mm；后足胫节长 2.18 mm；左上颚长 2.80 mm；左上颚弯曲度（颚尖至基突连线与最大弯曲处的距离）0.40 mm。"
+    },
+    {
+      "label": "工蚁",
+      "text": "触角 15 节。头宽 1.32 mm；后足胫节长 1.50 mm。"
+    },
+    {
+      "label": "其他",
+      "text": "产地：喀麦隆（Senegambina，R. N. Evans 采集，1920 年 4 月 24 日）。Emerson 依据 1 头兵蚁与多头皮工蚁重描述，指出同模标本（cotypes）上唇切口较浅，其余完全一致；与 M. intercalatus 很近，但后者上唇切口较浅、上颚端部更弯且略短；与 M. kemneri 描述相近，但后者上颚仅微弯、前胸背板前叶中央不切开；与 M. hamatus 很近但更大。蚁后体长 30 mm、宽 10 mm，淡黄色，前体与背板褐色，背板宽几达 3 mm，毛被大部磨去故前体更光亮。"
+    }
+  ],
+  "note": "原始描述为 Wasmann 1911（Revue Zoologique Africaine，Cubitermes sulcifrons）；兵蚁与工蚁的量度及比较文字取自 Emerson 1928 的重描述。原文经 Internet Archive 图书馆扫描本 OCR 抽取；Wasmann 原文为德文。",
+  "sources": [
+    {
+      "id": "S0075",
+      "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57.（兵蚁、工蚁）；Wasmann E. 1911. Zur Kenntnis der Termiten und Termitengäste vom Belgischen Kongo. Revue Zoologique Africaine (Bruxelles) 1.（有翅成虫、蚁后）",
+      "locator": "pp. 508–509 / pp. 153, 163"
+    }
+  ]
+}

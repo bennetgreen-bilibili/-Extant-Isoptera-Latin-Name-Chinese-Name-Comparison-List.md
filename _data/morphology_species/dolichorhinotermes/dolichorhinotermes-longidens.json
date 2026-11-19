@@ -1,0 +1,21 @@
+{
+  "zh_name": "长齿狭鼻白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "比英属圭亚那的 R. longilabius Emerson 小，但上颚更长、边缘齿更大、上唇更窄、前胸背板更小；右上颚上缘齿更大，且与上颚边缘平行；触角 15 节，longilabius 为 16 节。美洲大兵蚁具长上唇的种类已知仅 3 种，除上述两种外尚有产于玻利维亚的 R. intermedius Snyder。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "大兵蚁：头草黄，上唇黄褐，上颚基部黄、端部栗褐。头前部窄、后部圆，散布长毛；上唇细长，基部最宽；上颚细长尖锐、向内弯曲，边缘齿显著；触角 15 节，白色带黄，第 3 节细长、亚棒状，短于第 2 节而长于第 4 节；前胸背板鞍形，后缘近直线，前缘隆起；足白色、细长、被毛；腹淡草黄，尾须显著。量度：全长 3.60 mm；头连上颚 1.65 mm；头不含上颚（至前端）1.00 mm；左上颚长 0.80 mm；上唇长 0.60 mm；前胸背板长 0.27 mm；后足胫节 0.76 mm；头宽（最宽处）1.00 mm；上唇端宽 0.15 mm、基宽 0.22 mm、中部平均宽 0.15 mm；前胸背板宽 0.55 mm。小兵蚁：头淡草黄、后部更淡，后缘最宽，端部呈圆锥状；上唇细长，基部微缢，端部分叉、每叉一长毛；上颚端部退化，几乎不可见；触角 14 节，第 3 节亚棒状，长于第 2 与第 4 节；前胸背板淡黄、鞍形，后缘微凹；足白带黄、细长、具长毛；腹淡黄，各背板基部有一排长毛，尾须显著。量度：全长 2.20—2.40 mm；头连上唇 1.05 mm；头不含上唇 0.57 mm；上唇长 0.50 mm；前胸背板长 0.22 mm；后足胫节 0.57—0.60 mm。"
+    }
+  ],
+  "note": "据 Snyder 1924 的英文原始描述改写，原文作 Rhinotermes longidens, new species，分大、小兵蚁两型并各列一组量度（大兵蚁配图版 X 图 1，小兵蚁图 2）；有翅成虫与工蚁未描述。原文未记模式产地与采集记录（篇名「An extraordinary new Rhinotermes from Panama」）；原文脚注说明 R. longilabius 的记述出自匹兹堡大学的 A. Emerson，本条目所引与之比较的内容亦出自该脚注所指的记述。",
+  "sources": [
+    {
+      "id": "S0676",
+      "citation": "Snyder T. E. 1924. An extraordinary new Rhinotermes from Panama. Proceedings of the Biological Society of Washington 37: 83–85. https://www.biodiversitylibrary.org/partpdf/43774",
+      "locator": "pp. 83—84"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+ "note": "Reescrito a partir de la descripción original de la nueva especie (portugués) de Rocha y Cancello 2007; las medidas son los rangos medidos por los autores y el original usa comas como separador decimal, aquí cambiadas a punto decimal. El alado de esta especie figura como desconocido en el original. Las abreviaturas de medida siguen a Roonwal (1970) y aquí se desarrollan por extenso (longitud de la cápsula cefálica, anchura máxima de la cabeza, altura de la cabeza, longitud máxima de la mandíbula izquierda, base de la mandíbula a la punta, longitud mínima del postmentón, longitud de la tibia posterior izquierda).",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "El tercio posterior de la cabeza es más ancho que la parte anterior; en vista lateral el margen dorsal forma un arco poco profundo y continuo desde la base del clípeo hasta la parte posterior de la cabeza. En vista lateral la cabeza es más gruesa que en las demás especies del género. El labro es pentagonal, con el ápice muy redondeado, y los márgenes laterales varían de romos a claramente angulosos. Las antenas tienen once artejos, el artejo 1 mide el doble del artejo 2, los restantes son subiguales y el artejo 3 a veces está dividido. Las mandíbulas son esbeltas, curvadas hacia dentro solo en la punta, algo más cortas que la mitad de la longitud de la cápsula cefálica, cada una con un diente en la base. La cabeza lleva setas y pelos cortos, más ralos en la parte posterior y más densos en la región del fontanela. El labro lleva 5—8 setas, siempre con un par más largo en el ápice. Los pelos cortos del postmentón son escasos y hay setas en el margen anterior. El pronoto y los restantes notos torácicos están cubiertos de pelos cortos, con setas concentradas sobre todo a lo largo de los márgenes; los terguitos y esternitos abdominales están densamente cubiertos de pelos cortos y setas, con setas erectas tanto en el margen anterior como en el posterior. Medidas (6 individuos, 1 ejemplar): longitud de la cápsula cefálica 1.62—1.74 mm, anchura máxima de la cabeza 0.92—0.94 mm, altura de la cabeza 0.78—0.82 mm, longitud máxima de la mandíbula izquierda 0.76—0.80 mm, base de la mandíbula a la punta 0.76—0.80 mm, longitud mínima del postmentón 1.04—1.26 mm, longitud de la tibia posterior izquierda 0.72—0.74 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Las antenas tienen trece artejos; el artejo 1 es el más largo, el artejo 2 mide la mitad del artejo 1, el artejo 3 mide un tercio del artejo 2, el artejo 4 mide el doble del artejo 3, el artejo 5 mide el doble del artejo 6 y los restantes son subiguales. La cabeza lleva muchas setas y pelos cortos escasos. Los notos torácicos llevan muchos pelos cortos y setas; los terguitos y esternitos abdominales llevan muchos pelos cortos y pocas setas, y los últimos 4 terguitos y el margen posterior de todos los esternitos llevan setas erectas."
+  },
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "En el soldado el tercio posterior de la cabeza es más ancho que la parte anterior, rasgo que comparte solo con Cylindrotermes macrognathus; se distingue por las mandíbulas relativamente más cortas y por la pilosidad, con pelos cortos mucho más abundantes. El alado es desconocido."
+  },
+  {
+   "label": "Otros",
+   "text": "El holotipo es un soldado (MZUSP 1796, Cariacica, estado de Espírito Santo, Brasil, 1954-5, recolectado por R. L. Araujo); los paratipos son los 6 soldados y todas las obreras de la misma muestra. El epíteto específico capixaba designa a una persona nacida en el estado de Espírito Santo, donde se recolectó el ejemplar tipo. Localidad tipo: Cariacica, estado de Espírito Santo, Brasil (20.2639°S, 40.42°W)."
+  }
+ ]
+}

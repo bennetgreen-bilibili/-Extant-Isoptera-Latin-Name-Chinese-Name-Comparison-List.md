@@ -1,0 +1,21 @@
+{
+  "zh_name": "树栖腹爆白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "（模式标本为蚁后）头黑褐色，卵形，被相当短的毛与较长刚毛。囟孔与头同色，大而圆，与 A. silvestrii 的相似。触角第 2 节略长于第 3 节，第 3 节等于第 4 节。复眼中等大，不靠近头下缘；单眼相当大、突出，与复眼相距约等于其自身宽度。后唇基黑褐，中线模糊或缺失。前胸背板黑褐，侧缘圆，后缘略凹。中、后胸背板两侧有白色边缘，后缘窄而深凹。基节与股节暗褐；前足胫节大部暗色，其余黄色；中、后足胫节大部黄色，跗节黄色。腹背板黑褐。量度：头长 1.83 mm；头宽 1.67 mm；复眼直径 0.43 mm；前胸背板长 0.90 mm、宽 1.61 mm；后足胫节长 2.30 mm；蚁后体长 19 mm，腹部宽 4.80 mm。"
+    },
+    {
+      "label": "其他",
+      "text": "与 A. reconditus（Silvestri 1903，小卵形囟孔）及 Holmgren 1906 所记（缝状囟孔）均不同，Emerson 认为后两者可能各自为独立种。该种是本属在英属圭亚那唯一在离地数英尺以上营巢者；工蚁头暗色，可与其在英属圭亚那的其他同属种区分。模式产地：英属圭亚那 Kartabo，仅知模式产地；模式标本为蚁后。描述依据作者在 Kartabo 采得的单头蚁后，该种在该地显然稀少，仅见 3 个群落，巢与附近其他巢明显不同。"
+    }
+  ],
+  "note": "原始描述为 Emerson 1925 的 Anoplotermes (Speculitermes) arboreus，仅依据单头蚁后（无兵蚁，本属亦无兵蚁）；Ruptitermes 属为后人所分。原文经 Internet Archive 图书馆扫描本 OCR 抽取。",
+  "sources": [
+    {
+      "id": "S0083",
+      "citation": "Emerson A. E. 1925. The termites of Kartabo, Bartica District, British Guiana. Zoologica (New York Zoological Society) 6(4): 291–459.",
+      "locator": "pp. 427–428"
+    }
+  ]
+}

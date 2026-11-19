@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from Mjöberg's 1920 original description (in English, Text Figs. 17, 24), original name Eutermes coalescens n. sp., written as a point-by-point comparison with E. kimberleyensis described in the same work; includes the soldier and worker with all measurements; no alate is described. The original uses a comma as the decimal separator (e.g. '1,44 mm'), transcribed here as 1.44. The text is taken from the archive.org scan, with a few OCR word-form errors (breath=breadth, simular=similar, 5rd=3rd), checked against the context. Now in Nasutitermes.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Soldier similar in size to E. kimberleyensis, but with a different head shape, a more orange-red colour, a broader and stouter base of the nasus, and shorter and more slender antennae in which segments 3 and 4 are mostly fused. Head orange-red, broad and rounded posteriorly, abruptly narrowed towards the nasus; antennae long and slender, segment 3 distinctly short and narrow and mostly fused with segment 4. The worker is very similar to that of E. kimberleyensis, but the upper surface of the head is more orange-red and the segments of the 15-segmented antennae are slightly longer and paler."
+  },
+  {
+   "label": "Soldier",
+   "text": "Same size and appearance as E. kimberleyensis Mjöb., but with a different head shape, a more orange-red colour, a broader and stouter base of the nasus, and antennae shorter than in that species and more slender, with segments 3 and 4 mostly fused. Head orange-red, broad and rounded posteriorly, abruptly narrowed towards the nasus; antennae long and slender, but the segments not as broad and long as in E. kimberleyensis; segment 3 distinctly short and also less broad, fused with segment 4, segment 4 about the same length as segment 3; the following segments about twice as long as wide, slightly darker than in E. kimberleyensis; pronotum slightly wider; other characters very similar to that species. Measurements: body length 4 mm, head length 1.44 mm, nasus length 0.56 mm, nasus base width 0.25 mm, pronotum length 0.29 mm, width 0.53 mm, abdominal width 0.82 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Very similar to the worker of E. kimberleyensis Mjöb., but the upper surface of the head is more orange-red; the segments of the 15-segmented antennae are slightly longer and paler. Measurements: body length 5 mm, head length 1.62 mm, head width 1.37 mm, pronotum length 0.42 mm, width 0.8 mm, abdominal width 1.5 mm."
+  },
+  {
+   "label": "Other",
+   "text": "Type locality Mundaring, south-western Western Australia, collected under bark in the 8th month (August) of 1911."
+  }
+ ]
+}

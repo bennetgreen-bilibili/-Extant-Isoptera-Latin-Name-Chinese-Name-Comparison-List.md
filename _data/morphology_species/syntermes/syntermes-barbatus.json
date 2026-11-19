@@ -1,0 +1,25 @@
+{
+  "zh_name": "倒钩聚白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁上颚短、毛被稠密、头前部具皱褶、胸背刺短，与同属其它种明显不同；后肠仅与 S. praecellens 相似。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头壳短，两侧平行；不去上颚的头长与头宽近等；头后缘明显呈三叶状，且不规则地粗皱。额管突出，孔在背面观不可见。上唇短，长与宽近等；侧角近直角；中叶短。触角节数原文残缺。"
+    },
+    {
+      "label": "工蚁",
+      "text": "大型工蚁：头部稀疏地被直立刚毛；囟圆而小；触角 20 节；胸部背板刺甚短。上颚在唯一可得标本上保存不佳；工蚁后肠未解剖。量度：头长 2.85 mm，头最大宽 3.40 mm，囟长 0.17 mm，前胸背板宽 2.25 mm，后胸背板宽 2.25 mm，后足胫节长 4.75 mm。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0163",
+      "citation": "Constantino, R. 1995. Revision of the Neotropical termite genus Syntermes Holmgren (Isoptera: Termitidae). University of Kansas Science Bulletin 55(13): 455-518.",
+      "locator": "p. 471-472"
+    }
+  ],
+  "note": "据 Constantino (1995) 修订，原文英文。该文描述了兵蚁与大型工蚁，有翅成虫原文记作未知；兵蚁触角节数在 OCR 文本中被截断，未采入。量度仅 1 头大型工蚁。OCR 噪声（如「ccnered」=covered、「fiti」=66）已按上下文判读。"
+}

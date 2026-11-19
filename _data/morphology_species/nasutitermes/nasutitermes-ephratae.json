@@ -1,0 +1,25 @@
+{
+  "zh_name": "埃夫拉塔象白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "与 E. chaquimayensis 极近，区别在于头部毛被较稀且毛较短、复眼更大且更突出，触角第 3 节与第 2 节几等长或仅略长（后者第 3 节远长于第 2 节）；头宽较大（1.44 mm），横带前角略突出。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "描述主要以与 E. chaquimayensis 的对比给出：头部毛被不如后者密而长，复眼更大、更突出；触角第 3 节与第 2 节等长或几不可察地略长，第 4 节与第 3 节等长或略短。量度：体长（连翅）12.5—13.0 mm；头长 1.66 mm；头宽 1.44 mm；自横带前缘至后头 1.0 mm。"
+    },
+    {
+      "label": "工蚁",
+      "text": "头褐色，略有光泽；头壳缝、后尘一、上唇、上颌基部、触角周围、触角与体余稻黄至铁锈黄。头稀被刚毛，腹部背板被毛较密并在后缘有较长刚毛。头形如常；矢状缝极窄；额痕边界明显，长为宽的两倍；后尘一短于其半宽。触角 14 节：第 3 节与第 2 节等长，第 4 节远短，第 5 节略长于第 4 节。前胸背板前缘不凹入。量度：体长 4.5 mm；头长 1.03 mm；头宽 0.86 mm。"
+    }
+  ],
+  "note": "描述取自 Holmgren 1910 对 Eutermes Ephratae 的原始描述（德文），含有翅成虫与（可能较小的）工蚁，兵蚁未描述。模式产地苏里南 Ephrata。原文为德文，BHL 扫描件 OCR 质量一般：小数点常被误认作逗号或冒号，部分量度数字模糊，模糊者不录。学名当时置于 Eutermes 属，现归 Nasutitermes。",
+  "sources": [
+    {
+      "id": "S0607",
+      "citation": "Holmgren, N. 1910. Versuch einer Monographie der amerikanischen Eutermes-Arten. Mitteilungen aus dem Naturhistorischen Museum in Hamburg 27: 171–325.",
+      "locator": "pp. 223–224"
+    }
+  ]
+}

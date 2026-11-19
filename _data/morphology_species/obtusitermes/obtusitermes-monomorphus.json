@@ -1,0 +1,25 @@
+{
+  "zh_name": "单型钝白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁单型、体型小，是本属唯一具单型兵蚁的种。与 O. panamae、O. formosulus 的大兵蚁区别在于头顶具 6 根长刚毛，而后两者头顶散布大量长短刚毛；头壳背面观比另两种更呈梨形。与巴拿马其他单型小鼻白蚁的区别是头壳、触角节与下颚须红褐色而非黄色；鼻管较宽阔、呈圆锥形，仅 Coatitermes clevelandi 例外。该类群中只有本属与 Atlantitermes kirbyi 头壳上仅 6 根长刚毛，其余类群多达数十根。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "单型，体型小。头壳红褐色，鼻管颜色更深；触角节与下颚须红褐色。头壳背面观梨形，在前三分之一处缢缩；侧面观触角窝后方头壳凸起；头顶凸起顶点 2 根长刚毛，头顶后半 4 根长刚毛。鼻管宽锥形，向上翘约 10°。触角 11 节，节式 2＜3＞4≤5。上颚具小尖。量度（n=5，mean／max／min）：头长 1.25／1.30／1.20；头长至鼻管基 0.81／0.85／0.78；鼻管长 0.43／0.45／0.40；头最大宽 0.72／0.78／0.68；触角窝后缘处头宽 0.55／0.58／0.53；鼻管中部宽 0.10／0.10／0.10；后头缘处头最大高 0.49／0.50／0.45；前胸背板宽 0.42／0.45／0.38；后足胫节长 0.87／0.90／0.83。"
+    },
+    {
+      "label": "其他",
+      "text": "正模兵蚁存佛罗里达大学白蚁收藏（UFTC）PN153；模式产地巴拿马 Coclé 省 El Cope 国家公园（8.6790, -80.5972），海拔 841 m，2005 年 5 月 30 日，J. Chase 采，大量兵蚁与工蚁得自马粪之下。副模：巴拿马 Guna Yala（旧称 San Blas），Kuna Rd. Stop 4（9.3261, 78.9992），海拔 360 m，2010 年 6 月 5 日，R. Scheffrahn 采，得自腐枝之下。种名指本属独有的单型兵蚁品级。有翅成虫未知。"
+    }
+  ],
+  "note": "据 Scheffrahn, Roisin, Wang, Bourguignon & Hellemans (2025) 新种描述改写，原文英文；量度照录表 1 的 mean/max/min（n=5，两群体），单位 mm；有翅成虫原文记 Unknown。",
+  "sources": [
+    {
+      "id": "S0685",
+      "citation": "Scheffrahn R. H.; Roisin Y.; Wang M.; Bourguignon T.; Hellemans S. 2025. Obtusitermes monomorphus, a new termite species (Isoptera: Termitidae: Nasutitermitinae) from Panama. 10.11646/zootaxa.5583.3.9",
+      "locator": "p. 572–574（Zootaxa 5583(3): 567-578；Zenodo 处理记录 14862136，量度表 15160122）"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+ "note": "Adaptado de la descripción original de Haviland de 1898 (en inglés), nombre original Termes atripennis sp. n., espécimen tipo No. 427 de Sarawak, Borneo; comprende el alado (macho, hembra y reina), el soldado y el obrero, con medidas. La misma obra establece una Section cuyo tipo es esta especie, cuyos caracteres diagnósticos se integran aquí en la sección «Otros». Las medidas originales usan «°» como punto decimal (p. ej. «1°5 mm», «5°55 mm»), transcritas aquí como 1.5 y 5.55. Hoy en Nasutitermes.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Alado (macho): longitud del cuerpo 9 mm, negro hollín (fuliginous), meso- y metanoto y cara inferior del cuerpo pardo umbra (umbrinous). Cabeza ovalada. Ocelos separados de los ojos por un diámetro ocular. Fenestra grande y evidente, del tamaño de un ocelo. Antenas de 15 segmentos, el segmento 3 solo algo mayor que el segmento 2. Clípeo solo ligeramente convexo, no prominente. Pronoto de 1.5 mm de anchura, casi triangular, ángulos redondeados. Bordes posteriores del meso- y metanoto amplia y claramente cóncavos. Alas de 22 mm de longitud, negro hollín; subcosta ancha; media próxima y paralela a la submedia, fina, alcanzando el ápice del ala y emitiendo varias ramas en la mitad apical; submedia que emite 8 ramas, alcanzando 1/3 desde el ápice del ala. El 7.º esternito de la hembra aproximadamente la mitad de largo que de ancho; el abdomen de la reina puede alcanzar 18 mm, con esclerotización secundaria evidente, la cutícula de los lados del abdomen con numerosos puntos de pigmento pequeños y pelos."
+  },
+  {
+   "label": "Soldado",
+   "text": "Soldado: longitud del cuerpo 5.55 mm. Anchura de la cabeza 1.5 mm, fulvous. Antenas de 14 segmentos, segmentos 2 y 3 subiguales y mucho menores que el segmento 4, segmento 6 ovalado. Nasa grande, cónica. Mandíbulas reducidas. Posmentón más corto que ancho. Pronoto en forma de silla de montar, la parte anterior levantada muy corta. Pro-, meso- y metanoto fulvous, terguitos abdominales negro hollín, arqueados. Fémur posterior que alcanza el 7.º segmento abdominal. Papilas abdominales (abdominal papille) ausentes."
+  },
+  {
+   "label": "Obrero",
+   "text": "Obrero: longitud del cuerpo 6 mm. Cabeza casi castaña, terguitos abdominales negro hollín. Antenas de 15 segmentos. Sutura A evidente. Clípeo apenas saliente. Abdomen grande, fuertemente arqueado dorsalmente."
+  },
+  {
+   "label": "Otros",
+   "text": "Localidad: Borneo (Sarawak), espécimen tipo No. 427. La misma obra da también el diagnóstico de la Sección representada por esta especie (con Termes atripennis como tipo): macho de 5—10 mm de longitud, antenas de 15—17 segmentos, clípeo convexo y prominente, esbozos alares anteriores algo mayores que los posteriores, la media del ala mucho más próxima a la submedia que a la subcosta, papilas abdominales ausentes; soldado de 3—5 mm de longitud, cabeza casi anaranjada, nasa robusta, antenas de 14 segmentos con el segmento 6 ovalado, mandíbulas reducidas, posmentón más corto que ancho, pronoto en forma de silla de montar con el lóbulo anterior corto y muy alto, fémur posterior que alcanza el 7.º segmento abdominal, papilas abdominales ausentes; obrero de 3.5 mm de longitud, cabeza pálida, antenas de 13 segmentos, clípeo convexo, abdomen ovalado y oscuro por el contenido intestinal."
+  }
+ ]
+}

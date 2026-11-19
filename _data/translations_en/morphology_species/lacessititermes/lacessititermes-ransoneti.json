@@ -1,0 +1,13 @@
+{
+ "note": "Adapted from the species-level description of Holmgren (1913), originally in German; it contains two castes, imago and soldat, and the measurements are in mm. Head length, head width and pronotal length and width are damaged in the OCR of the scanned text (reading “l,o”, “1,0.1”, “l,ii”, “0,os”) and have not been entered. The species name is OCR'd as “Itan.soiieti” in the heading and is determined as ransoneti from the text (“Bei Itansoneii”) and from the key (“Ransoneti n. sp., S. 201”).",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Very close to breviarticulatus and difficult to distinguish with certainty; it differs in that the posterior process of the mesonotum is rounded rather than angular, the incisions of the meso- and metanotum are very weak, and the depression around the oval, slightly raised fontanelle is stronger. Compound eyes large and projecting, ocelli relatively large and close to the compound eyes; the basal piece of the clypeus slightly paler than the frons, very short, slightly raised; media with 2—3 branches, cubitus with 7—8 branches. Measurements: body length with wings 13—14 mm, without wings 7.5 mm, fore wing 11 mm."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head brown to blackish brown, the nasus paler; abdomen, thorax and legs yellowish brown, antennae brownish or rusty yellow; only the posterior abdominal tergites with rows of setae. Head pear-shaped, the nasus conical; the frontal outline with a depression. Antennae 14-segmented, segment 3 slightly longer than segment 2, segment 4 much longer than segment 3. Pronotum saddle-shaped, the anterior margin not concave."
+  }
+ ]
+}

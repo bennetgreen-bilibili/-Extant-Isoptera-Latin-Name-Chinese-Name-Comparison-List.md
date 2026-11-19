@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19 23:00",
-  "count": 65,
+  "updated_at": "2026-11-20 01:35",
+  "count": 100,
   "note": "自动生成：待人工获取的 OA 全文。抓取成功或本地 library-add 后自动移除。不要手工编辑本文件，改由 _tools/fetch_fulltext.py --write 重建。",
   "items": [
     {
@@ -628,26 +628,6 @@
       "attempts": 1
     },
     {
-      "doi": "10.1080/03946975.1997.10539337",
-      "title": "Key to the soldiers ofAtlantitermesFontes 1979, with a new species from Brazil (Isoptera Termitidae Nasutitermitinae)",
-      "year": 1997,
-      "venue": "Tropical Zoology",
-      "publisher": "Informa UK Limited",
-      "cited_by": 7,
-      "landing": "https://www.tandfonline.com/doi/pdf/10.1080/03946975.1997.10539337?needAccess=true",
-      "reason": "blocked",
-      "hosts": [
-        "www.tandfonline.com"
-      ],
-      "tried": [
-        "https://www.tandfonline.com/doi/pdf/10.1080/03946975.1997.10539337?needAccess=true"
-      ],
-      "last_result": "www.tandfonline.com/doi/pdf/10.1080/03946975.1997.10539337?needAccess=→HTTP 403",
-      "last_tried": 1794807985.5717747,
-      "first_seen": 1794808106.714615,
-      "attempts": 1
-    },
-    {
       "doi": "10.1111/j.1440-6055.1983.tb01845.x",
       "title": "THE OCCURRENCE IN AUSTRALIA OF PRORHINOTERMES INOPINATUS SILVESTRI (ISOPTERA: RHINOTERMITIDAE)",
       "year": 1983,
@@ -733,6 +713,30 @@
       "last_result": "doi.org/10.48580/d3mjz.v81→落地页无 PDF 地址（403） / www.biotaxa.org/Zootaxa/article/download/zootaxa.4109.3.10/20445→返回网页非 PDF",
       "last_tried": 1795099417.5608747,
       "first_seen": 1795099497.517668,
+      "attempts": 1
+    },
+    {
+      "doi": "10.11646/zootaxa.5583.3.9",
+      "title": "Obtusitermes monomorphus, a new termite species (Isoptera: Termitidae: Nasutitermitinae) from Panama",
+      "year": 2025,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 0,
+      "landing": "https://oist.repo.nii.ac.jp/records/2001067",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org",
+        "hdl.handle.net",
+        "oist.repo.nii.ac.jp"
+      ],
+      "tried": [
+        "https://oist.repo.nii.ac.jp/records/2001067",
+        "http://hdl.handle.net/2013/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/389690",
+        "https://doi.org/10.48580/dgndj.v8"
+      ],
+      "last_result": "oist.repo.nii.ac.jp/records/2001067→落地页无 PDF 地址（None） / hdl.handle.net/2013/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/389690→落地页无 PDF 地址（200） / doi.org/10.48580/dgndj.v8→冷却中，跳过",
+      "last_tried": 1795109518.2577274,
+      "first_seen": 1795109732.4552033,
       "attempts": 1
     },
     {
@@ -884,6 +888,88 @@
       "attempts": 1
     },
     {
+      "doi": "10.12976/jib/2020.19.1.1",
+      "title": "New species of termite Pseudocapritermes kunjepu Mathew sp",
+      "year": 2020,
+      "venue": "Journal of Insect Biodiversity",
+      "publisher": "Insect Biodiversity Research Group",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.12976/jib/2020.19.1.1",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.12976/jib/2020.19.1.1"
+      ],
+      "last_result": "doi.org/10.12976/jib/2020.19.1.1→冷却中，跳过",
+      "last_tried": 1795109620.431739,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.11646/zootaxa.4604.3.10",
+      "title": "Taxonomic assessment of the termite genus Neotermes (Isoptera: Kalotermitidae) in the Ryukyu-Taiwan Island arc, with description of a new species",
+      "year": 2019,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 0,
+      "landing": "https://www.biotaxa.org/Zootaxa/article/download/zootaxa.4604.3.10/45010",
+      "reason": "blocked",
+      "hosts": [
+        "www.biotaxa.org"
+      ],
+      "tried": [
+        "https://www.biotaxa.org/Zootaxa/article/download/zootaxa.4604.3.10/45010"
+      ],
+      "last_result": "www.biotaxa.org/Zootaxa/article/download/zootaxa.4604.3.10/45010→返回网页非 PDF",
+      "last_tried": 1795109505.7307017,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.12976/jib/2019.11.1.3",
+      "title": "New species of termite Ceylonitermes paulosus sp",
+      "year": 2019,
+      "venue": "Journal of Insect Biodiversity",
+      "publisher": "Insect Biodiversity Research Group",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.12976/jib/2019.11.1.3",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org",
+        "www.mapress.com"
+      ],
+      "tried": [
+        "https://doi.org/10.12976/jib/2019.11.1.3",
+        "https://www.mapress.com/jib/article/download/2019.11.1.3/29361"
+      ],
+      "last_result": "doi.org/10.12976/jib/2019.11.1.3→HTML 页面→找到 PDF 地址 / www.mapress.com/jib/article/download/2019.11.1.3/29361→返回网页非 PDF",
+      "last_tried": 1795108959.371817,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1071/is16089",
+      "title": "Mitochondrial and chemical profiles reveal a new genus and species of Neotropical termite with snapping soldiers, Palmitermes impostor (Termitidae : Termitinae)",
+      "year": 2017,
+      "venue": "Invertebrate Systematics",
+      "publisher": "CSIRO Publishing",
+      "cited_by": 0,
+      "landing": "https://dipot.ulb.ac.be/dspace/bitstream/2013/258519/3/Hellemans_et_al_2017_Mitochondrial_chemical_profiles.pdf",
+      "reason": "blocked",
+      "hosts": [
+        "dipot.ulb.ac.be"
+      ],
+      "tried": [
+        "https://dipot.ulb.ac.be/dspace/bitstream/2013/258519/3/Hellemans_et_al_2017_Mitochondrial_chemical_profiles.pdf"
+      ],
+      "last_result": "dipot.ulb.ac.be/dspace/bitstream/2013/258519/3/Hellemans_et_al_2017_Mi→返回网页非 PDF",
+      "last_tried": 1795109524.0593653,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
       "doi": "10.1017/s0007485315000097",
       "title": "Molecular characterization and phylogeny ofKalotermespopulations from the Levant, and description ofKalotermes phoeniciaesp. nov.",
       "year": 2015,
@@ -903,6 +989,551 @@
       "last_result": "doi.org/10.1017/s0007485315000097→HTML 页面→找到 PDF 地址 / www.cambridge.org/core/services/aop-cambridge-core/content/view/8F2CFC→HTML 页面→找到 PDF 地址",
       "last_tried": 1795100115.831738,
       "first_seen": 1795100409.5485091,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1206/377.1",
+      "title": "Treatise on the Isoptera of the World",
+      "year": 2013,
+      "venue": "Bulletin of the American Museum of Natural History",
+      "publisher": "American Museum of Natural History",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.1206/377.1",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1206/377.1"
+      ],
+      "last_result": "doi.org/10.1206/377.1→冷却中，跳过",
+      "last_tried": 1795109174.0208843,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1206/377.7",
+      "title": "Treatise on the Isoptera of the World",
+      "year": 2013,
+      "venue": "Bulletin of the American Museum of Natural History",
+      "publisher": "American Museum of Natural History",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.1206/377.7",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1206/377.7"
+      ],
+      "last_result": "doi.org/10.1206/377.7→冷却中，跳过",
+      "last_tried": 1795109165.7562284,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1653/024.096.0127",
+      "title": "A Dark-Necked Drywood Termite (Isoptera: Kalotermitidae) in Italy: Description of Kalotermes italicus sp",
+      "year": 2013,
+      "venue": "Florida Entomologist",
+      "publisher": "Walter de Gruyter GmbH",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.1653/024.096.0127",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org",
+        "www.openaccessrepository.it"
+      ],
+      "tried": [
+        "https://www.openaccessrepository.it/record/53804",
+        "https://doi.org/10.1653/024.096.0127"
+      ],
+      "last_result": "www.openaccessrepository.it/record/53804→落地页无 PDF 地址（404） / doi.org/10.1653/024.096.0127→冷却中，跳过",
+      "last_tried": 1795109131.722263,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.11646/zootaxa.2328.1.3",
+      "title": "A new termite species (Isoptera: Termitidae: Termitinae: Amitermes) and first record of a Subterranean Termite from the Coastal Desert of South America",
+      "year": 2010,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.11646/zootaxa.2328.1.3",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org",
+        "mapress.com"
+      ],
+      "tried": [
+        "https://doi.org/10.11646/zootaxa.2328.1.3",
+        "https://mapress.com/zt/article/download/zootaxa.2328.1.3/16613"
+      ],
+      "last_result": "doi.org/10.11646/zootaxa.2328.1.3→HTML 页面→找到 PDF 地址 / mapress.com/zt/article/download/zootaxa.2328.1.3/16613→返回网页非 PDF",
+      "last_tried": 1795108819.5968053,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.11646/zootaxa.2670.1.3",
+      "title": "A new termite (Isoptera: Termitidae: Termitinae: Proboscitermes) from Tanzania",
+      "year": 2010,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.48580/d3y49.v82",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.48580/d3y49.v82"
+      ],
+      "last_result": "doi.org/10.48580/d3y49.v82→冷却中，跳过",
+      "last_tried": 1795109579.509652,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1664/09-ra-009r.1",
+      "title": "Neotermes gnathoferrum (Isoptera: Kalotermitidae), a New Species from Fiji that Infests Mahogany",
+      "year": 2010,
+      "venue": "Entomologica Americana",
+      "publisher": "New York Entomological Society",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.1664/09-ra-009r.1",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1664/09-ra-009r.1"
+      ],
+      "last_result": "doi.org/10.1664/09-ra-009r.1→冷却中，跳过",
+      "last_tried": 1795109394.89577,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.26515/rzsi/v108/i3/2008/159038",
+      "title": "Description of Two New Species of Termites (Isoptera : Insecta) from the Himalaya",
+      "year": 2008,
+      "venue": "Records of the Zoological Survey of India",
+      "publisher": "Zoological Survey of India",
+      "cited_by": 0,
+      "landing": "http://recordsofzsi.com/index.php/zsoi/article/download/159038/109698",
+      "reason": "blocked",
+      "hosts": [
+        "recordsofzsi.com"
+      ],
+      "tried": [
+        "http://recordsofzsi.com/index.php/zsoi/article/download/159038/109698"
+      ],
+      "last_result": "recordsofzsi.com/index.php/zsoi/article/download/159038/109698→HTTP 403",
+      "last_tried": 1795108810.937041,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1603/0013-8746(2006)99[463:tbanot]2.0.co;2",
+      "title": "Taxonomy, Biogeography, and Notes on Termites (Isoptera: Kalotermitidae, Rhinotermitidae, Termitidae) of the Bahamas and Turks and Caicos Islands",
+      "year": 2006,
+      "venue": "Annals of the Entomological Society of America",
+      "publisher": "Oxford University Press (OUP)",
+      "cited_by": 0,
+      "landing": "https://academic.oup.com/aesa/article-pdf/99/3/463/40400959/aesame0463.pdf",
+      "reason": "blocked",
+      "hosts": [
+        "academic.oup.com"
+      ],
+      "tried": [
+        "https://academic.oup.com/aesa/article-pdf/99/3/463/40400959/aesame0463.pdf"
+      ],
+      "last_result": "academic.oup.com/aesa/article-pdf/99/3/463/40400959/aesame0463.pdf→HTTP 403",
+      "last_tried": 1795108900.7972348,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.11646/zootaxa.1012.1.4",
+      "title": "A new termite species from Iran, Microcerotermes shahroudiensis sp",
+      "year": 2005,
+      "venue": "Zootaxa",
+      "publisher": "Magnolia Press",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.11646/zootaxa.1012.1.4",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.11646/zootaxa.1012.1.4"
+      ],
+      "last_result": "doi.org/10.11646/zootaxa.1012.1.4→冷却中，跳过",
+      "last_tried": 1795109183.4514143,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1080/00379271.2003.10697373",
+      "title": "<i>Paraconvexitermes acangapua</i>(Isoptera: Termitidae, Nasutitermitinae), a new genus and new species of the so-called “small Neotropical soil-feeding nasutes” from South America",
+      "year": 2003,
+      "venue": "Annales de la Société entomologique de France (N.S.)",
+      "publisher": "Informa UK Limited",
+      "cited_by": 0,
+      "landing": "https://www.tandfonline.com/doi/pdf/10.1080/00379271.2003.10697373?needAccess=true&role=button",
+      "reason": "blocked",
+      "hosts": [
+        "www.tandfonline.com"
+      ],
+      "tried": [
+        "https://www.tandfonline.com/doi/pdf/10.1080/00379271.2003.10697373?needAccess=true&role=button"
+      ],
+      "last_result": "www.tandfonline.com/doi/pdf/10.1080/00379271.2003.10697373?needAccess=→冷却中，跳过",
+      "last_tried": 1795109547.6054363,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1653/0015-4040(2003)086[0073:npandt]2.0.co;2",
+      "title": "NEOTERMES PHRAGMOSUS, A NEW DAMPWOOD TERMITE (ISOPTERA: KALOTERMITIDAE) FROM SOUTHEASTERN CUBA",
+      "year": 2003,
+      "venue": "Florida Entomologist",
+      "publisher": "Walter de Gruyter GmbH",
+      "cited_by": 0,
+      "landing": "https://bioone.org/journals/florida-entomologist/volume-86/issue-1/0015-4040_2003_086_0073_NPANDT_2.0.CO_2/NEOTERMES-PHRAGMOSUS-A-NEW-DAMPWOOD-TERMITE-ISOPTERA--KALOTERMITIDAE-FROM/10.1653/0015-4040(2003)086[0073:NPANDT]2.0.CO;2.pdf",
+      "reason": "blocked",
+      "hosts": [
+        "bioone.org"
+      ],
+      "tried": [
+        "https://bioone.org/journals/florida-entomologist/volume-86/issue-1/0015-4040_2003_086_0073_NPANDT_2.0.CO_2/NEOTERMES-PHRAGMOSUS-A-NEW-DAMPWOOD-TERMITE-ISOPTERA--KALOTERMITIDAE-FROM/10.1653/0015-4040(2003)086[0073:NPANDT]2.0.CO;2.pdf"
+      ],
+      "last_result": "bioone.org/journals/florida-entomologist/volume-86/issue-1/0015-4040_2→返回网页非 PDF",
+      "last_tried": 1795109475.456514,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.3406/bsef.2003.16998",
+      "title": "Description d'une nouvelle espèce de Termite : Reticulitermes urbis n. sp. (Isopt., Rhinotermitidae)",
+      "year": 2003,
+      "venue": "Bulletin de la Société entomologique de France",
+      "publisher": "Societe entomologique de France",
+      "cited_by": 0,
+      "landing": "https://www.persee.fr/doc/bsef_0037-928x_2003_num_108_4_16998",
+      "reason": "blocked",
+      "hosts": [
+        "www.persee.fr"
+      ],
+      "tried": [
+        "https://www.persee.fr/doc/bsef_0037-928x_2003_num_108_4_16998",
+        "https://www.persee.fr/docAsPDF/bsef_0037-928x_2003_num_108_4_16998.pdf"
+      ],
+      "last_result": "www.persee.fr/doc/bsef_0037-928x_2003_num_108_4_16998→HTML 页面→找到 PDF 地址 / www.persee.fr/docAsPDF/bsef_0037-928x_2003_num_108_4_16998.pdf→HTTP 403",
+      "last_tried": 1795109732.446514,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.2307/3496503",
+      "title": "Glyptotermes amplus, a New Dampwood Termite (Isoptera: Kalotermitidae) from St. Lucia",
+      "year": 2001,
+      "venue": "The Florida Entomologist",
+      "publisher": "Walter de Gruyter GmbH",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.2307/3496503",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.2307/3496503"
+      ],
+      "last_result": "doi.org/10.2307/3496503→冷却中，跳过",
+      "last_tried": 1795109085.5981572,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.2307/3496665",
+      "title": "Neotermes platyfrons, a New Dampwood Termite (Isoptera, Kalotermitidae) from the Dominican Republic",
+      "year": 2001,
+      "venue": "The Florida Entomologist",
+      "publisher": "Walter de Gruyter GmbH",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.2307/3496665",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.2307/3496665"
+      ],
+      "last_result": "doi.org/10.2307/3496665→冷却中，跳过",
+      "last_tried": 1795109489.7321324,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1163/187631200x00499",
+      "title": "Key to the soldiers of South American Heterotermes with a new species from Brazil (Isoptera: Rhinotermitidae)",
+      "year": 2000,
+      "venue": "Insect Systematics &amp; Evolution",
+      "publisher": "Brill",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.1163/187631200x00499",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1163/187631200x00499"
+      ],
+      "last_result": "doi.org/10.1163/187631200x00499→冷却中，跳过",
+      "last_tried": 1795109111.0664299,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.26515/rzsi/v98/i4/2000/159653",
+      "title": "Description of Two New Species of Termites (Isoptera : Insecta) from Assam, India",
+      "year": 2000,
+      "venue": "Records of the Zoological Survey of India",
+      "publisher": "Zoological Survey of India",
+      "cited_by": 0,
+      "landing": "http://recordsofzsi.com/index.php/zsoi/article/download/159653/110335",
+      "reason": "blocked",
+      "hosts": [
+        "recordsofzsi.com"
+      ],
+      "tried": [
+        "http://recordsofzsi.com/index.php/zsoi/article/download/159653/110335"
+      ],
+      "last_result": "recordsofzsi.com/index.php/zsoi/article/download/159653/110335→HTTP 403",
+      "last_tried": 1795108945.48527,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.2307/3495832",
+      "title": "Amitermes amicki, a New Subterranean Termite (Isoptera: Termitidae: Termitinae) from Aruba",
+      "year": 1999,
+      "venue": "The Florida Entomologist",
+      "publisher": "Walter de Gruyter GmbH",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.2307/3495832",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.2307/3495832"
+      ],
+      "last_result": "doi.org/10.2307/3495832→返回网页非 PDF",
+      "last_tried": 1795108814.50084,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.2307/3496583",
+      "title": "Procryptotermes edwardsi, a New Drywood Termite (Isoptera: Kalotermitidae) from Jamaica",
+      "year": 1999,
+      "venue": "The Florida Entomologist",
+      "publisher": "Walter de Gruyter GmbH",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.2307/3496583",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.2307/3496583"
+      ],
+      "last_result": "doi.org/10.2307/3496583→冷却中，跳过",
+      "last_tried": 1795109596.1001463,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.2307/3496084",
+      "title": "Greater Antillean Nasutitermitinae (Isoptera: Termitidae): Parvitermes dominicanae, a New Subterranean Termite from Hispaniola",
+      "year": 1998,
+      "venue": "The Florida Entomologist",
+      "publisher": "Walter de Gruyter GmbH",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.2307/3496084",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.2307/3496084"
+      ],
+      "last_result": "doi.org/10.2307/3496084→冷却中，跳过",
+      "last_tried": 1795109562.7030807,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.2307/3496085",
+      "title": "Cryptotermes abruptus, a New Drywood Termite (Isoptera: Kalotermitidae) from Southeastern Mexico",
+      "year": 1998,
+      "venue": "The Florida Entomologist",
+      "publisher": "Walter de Gruyter GmbH",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.2307/3496085",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.2307/3496085"
+      ],
+      "last_result": "doi.org/10.2307/3496085→冷却中，跳过",
+      "last_tried": 1795108975.068605,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1080/03946975.1997.10539337",
+      "title": "Key to the soldiers of<i>Atlantitermes</i>Fontes 1979, with a new species from Brazil (Isoptera Termitidae Nasutitermitinae)",
+      "year": 1997,
+      "venue": "Tropical Zoology",
+      "publisher": "Informa UK Limited",
+      "cited_by": 0,
+      "landing": "https://www.tandfonline.com/doi/pdf/10.1080/03946975.1997.10539337?needAccess=true",
+      "reason": "blocked",
+      "hosts": [
+        "www.tandfonline.com"
+      ],
+      "tried": [
+        "https://www.tandfonline.com/doi/pdf/10.1080/03946975.1997.10539337?needAccess=true"
+      ],
+      "last_result": "www.tandfonline.com/doi/pdf/10.1080/03946975.1997.10539337?needAccess=→HTTP 403",
+      "last_tried": 1795108918.8934348,
+      "first_seen": 1794808106.714615,
+      "attempts": 2
+    },
+    {
+      "doi": "10.1080/21686351.1997.12279176",
+      "title": "Presence in Western Africa of the Genus <i>Eremotermes</i> (Isoptera: Termitidae). Description of a new Species from Senegal with Some Ecological Data",
+      "year": 1997,
+      "venue": "Annales de la Société entomologique de France (N.S.)",
+      "publisher": "Informa UK Limited",
+      "cited_by": 0,
+      "landing": "https://www.tandfonline.com/doi/pdf/10.1080/21686351.1997.12279176?needAccess=true",
+      "reason": "blocked",
+      "hosts": [
+        "www.tandfonline.com"
+      ],
+      "tried": [
+        "https://www.tandfonline.com/doi/pdf/10.1080/21686351.1997.12279176?needAccess=true"
+      ],
+      "last_result": "www.tandfonline.com/doi/pdf/10.1080/21686351.1997.12279176?needAccess=→HTTP 403",
+      "last_tried": 1795109005.4168108,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1111/j.1440-6055.1996.tb01383.x",
+      "title": "Revision of Australian Glyptotermes Froggatt (Isoptera: Kalotermitidae)",
+      "year": 1996,
+      "venue": "Australian Journal of Entomology",
+      "publisher": "Wiley",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.1111/j.1440-6055.1996.tb01383.x",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1111/j.1440-6055.1996.tb01383.x"
+      ],
+      "last_result": "doi.org/10.1111/j.1440-6055.1996.tb01383.x→冷却中，跳过",
+      "last_tried": 1795109095.348068,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.2307/3495815",
+      "title": "Greater Antillean Nasutitermitinae (Isoptera: Termitidae): Constrictotermes guantanamensis, a New Subterranean Termite from Eastern Cuba",
+      "year": 1996,
+      "venue": "The Florida Entomologist",
+      "publisher": "Walter de Gruyter GmbH",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.2307/3495815",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.2307/3495815"
+      ],
+      "last_result": "doi.org/10.2307/3495815→返回网页非 PDF",
+      "last_tried": 1795108969.2551088,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.2307/3496106",
+      "title": "Incisitermes furvus, a New Drywood Termite (Isoptera: Kalotermitidae) from Puerto Rico",
+      "year": 1994,
+      "venue": "The Florida Entomologist",
+      "publisher": "Walter de Gruyter GmbH",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.2307/3496106",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.2307/3496106"
+      ],
+      "last_result": "doi.org/10.2307/3496106→冷却中，跳过",
+      "last_tried": 1795109119.1535525,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.2307/3495649",
+      "title": "Cryptotermes chasei, a New Drywood Termite (Isoptera: Kalotermitidae) from the Dominican Republic",
+      "year": 1993,
+      "venue": "The Florida Entomologist",
+      "publisher": "Walter de Gruyter GmbH",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.2307/3495649",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.2307/3495649"
+      ],
+      "last_result": "doi.org/10.2307/3495649→冷却中，跳过",
+      "last_tried": 1795108985.9649177,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.2307/3495793",
+      "title": "Parvitermes subtilis, a New Subterranean Termite (Isoptera: Termitidae) from Cuba and the Dominican Republic",
+      "year": 1993,
+      "venue": "The Florida Entomologist",
+      "publisher": "Walter de Gruyter GmbH",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.2307/3495793",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.2307/3495793"
+      ],
+      "last_result": "doi.org/10.2307/3495793→返回网页非 PDF",
+      "last_tried": 1795108915.9964285,
+      "first_seen": 1795109732.4552033,
       "attempts": 1
     },
     {
@@ -1363,6 +1994,86 @@
       "last_result": "doi.org/10.48580/d3nbg.v84→落地页无 PDF 地址（403）",
       "last_tried": 1795100091.8758276,
       "first_seen": 1795100409.5485091,
+      "attempts": 1
+    },
+    {
+      "doi": "10.11606/d.59.2009.tde-24072009-100426",
+      "title": "Revisão taxonômica do gênero Spinitermes Wasmann, 1897 (Isoptera, Termitidae, Termitinae)",
+      "year": 2009,
+      "venue": "Digital Library of Theses and Dissertations  (Universidade de São Paulo)",
+      "publisher": "Universidade de São Paulo. Agência de Bibliotecas e Coleções Digitais",
+      "cited_by": 0,
+      "landing": "http://americanae.aecid.es/americanae/es/registros/registro.do?tipoRegistro=MTD&idBib=2256165",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "americanae.aecid.es"
+      ],
+      "tried": [
+        "http://americanae.aecid.es/americanae/es/registros/registro.do?tipoRegistro=MTD&idBib=2256165"
+      ],
+      "last_result": "americanae.aecid.es/americanae/es/registros/registro.do?tipoRegistro=M→落地页无 PDF 地址（None）",
+      "last_tried": 1795109075.1437578,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.54207/bsmps1000-2008-bl6r4n",
+      "title": "Angulitermes bhagsunagensis, a new species from India (Oriental region) (Isoptera: Termitidae: Termitinae)",
+      "year": 2008,
+      "venue": "Indian Journal of Forestry",
+      "publisher": "Messrs Bishen Singh Mahendra Pal Singh",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.54207/bsmps1000-2008-bl6r4n",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.54207/bsmps1000-2008-bl6r4n"
+      ],
+      "last_result": "doi.org/10.54207/bsmps1000-2008-bl6r4n→落地页无 PDF 地址（200）",
+      "last_tried": 1795108876.8255467,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1080/09397140.2005.10638083",
+      "title": "Three new species of termite from Iran (Isoptera, Termitidae)",
+      "year": 2005,
+      "venue": "Zoology in the Middle East",
+      "publisher": "Taylor & Francis",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.1080/09397140.2005.10638083",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1080/09397140.2005.10638083"
+      ],
+      "last_result": "doi.org/10.1080/09397140.2005.10638083→落地页无 PDF 地址（403）",
+      "last_tried": 1795108860.2716215,
+      "first_seen": 1795109732.4552033,
+      "attempts": 1
+    },
+    {
+      "doi": "10.1080/00222939500770641",
+      "title": "New genera and species of soil feeding termites (Isoptera: Termitidae) from African savannas",
+      "year": 1995,
+      "venue": "Journal of Natural History",
+      "publisher": "Taylor & Francis",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.1080/00222939500770641",
+      "reason": "no-pdf-link",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1080/00222939500770641"
+      ],
+      "last_result": "doi.org/10.1080/00222939500770641→落地页无 PDF 地址（403）",
+      "last_tried": 1795108939.406587,
+      "first_seen": 1795109732.4552033,
       "attempts": 1
     }
   ]

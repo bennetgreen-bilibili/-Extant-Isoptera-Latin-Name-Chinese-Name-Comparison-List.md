@@ -1,0 +1,21 @@
+{
+  "zh_name": "策特克阿劳若白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "仅知兵蚁（有翅成虫未知），为中美洲首次发现的 Subulitermes 亚属种；体小（兵蚁体长 2.2—3.1 mm），头浅黄色、厘形细长，鼻栗褐色、细长直伸；觖角仅 11 节，上颌缺失；头与体被浓密长短刚毛，体色白带黄。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头浅黄色，具鼻状，厘形细长，向前逐渐变窄但前端略变厚（高），被密长毛与短毛；鼻栗褐色，细长、笔直，从基部到末端与背腹两面均被密短毛；上颌缺失。觖角白带黄色，11 节，被短毛，自基部向末端各节逐渐变宽、变长：第 1 节长而宽、四柱状；第 2 节短于第 1 节；第 3 节亚棒状、细，略长于第 2、4 节，又略细；第 4 节亚棒状，略长于第 2 节；末节细长、近椭圆。前胸背板白带黄色、前缘更黄，鞍状，远窄于头，具长刚毛。足白带黄色，相当长而细，被短毛。腹部灰白带黄，背腹两面密被短的淡黄刚毛，各节基部两侧有长刚毛。量度：兵蚁体长 2.2—3.1 mm；头长（含鼻）0.95—1.1 mm；头长（不含鼻）0.6—0.7 mm；鼻长 0.35—0.38 mm；前胸背板长 0.11 mm、宽 0.27 mm；头宽 0.42—0.46 mm；后足胫节长 0.45—0.50 mm。"
+    }
+  ],
+  "note": "描述取自 Snyder 1924 对 Nasutitermes (Subulitermes) zeteki 的原始描述（英文）；仅基于兵蚁（模式标本 U.S.N.M. No. 25766），原文明言有翅成虫未知；模式产地巴拿马运河区 Summit。该种现置于 Araujotermes 属，作者当时将其放在 Nasutitermes 的 Subulitermes 亚属下。原文为拉丁文，BHL 扫描件经 OCR：罗马数字与阿拉伯数字混用（如“I”即 1），小数点偶被误读为逗号。模糊者不录。",
+  "sources": [
+    {
+      "id": "S0560",
+      "citation": "Snyder, T. E. 1924. Descriptions of new species and hitherto unknown castes of termites from America and Hawaii. Proceedings of the United States National Museum 64(6): 1–40, pls. 1–5.",
+      "locator": "pp. 32–33"
+    }
+  ]
+}

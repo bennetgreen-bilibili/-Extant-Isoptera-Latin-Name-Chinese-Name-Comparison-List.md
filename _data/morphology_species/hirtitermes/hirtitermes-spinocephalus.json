@@ -1,0 +1,25 @@
+{
+ "zh_name": "刺头多毛白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "本种最近的近缘种为 Eutermes (Hirtitermes) hirtiventris Holmgren，但本种兵蚁头壳密被刺状毛，而后者头壳裸净。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头与前胸背板褐黄；喙稍深；触角较浅；腹背板灰色，腹板灰黄。头、喙基部与胸部密被粗壮的刺状毛；腹背板具两列硬刺毛。头宽卵形，短；喙粗壮而显著延长，其前表面与头前表面形成明显弧线；触角基节突出；触角 13 节，各节延长，第 3 节与第 1 节等长，且超过第 2 节的两倍长，第 4 节短于第 3 节之半并与第 5 节等长；前胸背板马鞍形，前缘中央凹入；足细长；尾须粗壮、尖。量度：头连喙长 2.19 毫米；去喙头长 1.22 毫米；前胸背板宽 0.53 毫米。"
+  },
+  {
+   "label": "工蚁",
+   "text": "体色与毛被似兵蚁，前胸背板稍浅；上唇密被微毛。头五边形、扁平，角部圆；头壳缝明显、发白；囟点三角形；唇基基部很短，宽为长的四倍，略膨大；触角 14 节，第 3 节短于第 2 节的两倍长，第 4 节短于第 2、5 节；前胸背板马鞍形，前缘中央几乎不凹。量度：前胸背板宽 0.69 毫米。"
+  }
+ ],
+ "note": "据 Oshima 1914 改写，原文英文（Annotationes Zoologicae Japonenses 8(3): 553–585）。新种描述，有翅成虫未知（原文 Imago unknown）；模式产地 Tarakan（荷属婆罗洲 Dutch Borneo），1913 年 5 月 23 日由 Kanehira 采。原文把本种置于 Eutermes 属的 Hirtitermes 亚属（今多毛白蚁属 Hirtitermes）。量度表 OCR 破损严重：兵蚁体长与头宽、工蚁体长与头宽四行数值被破坏成乱码（原文分别作 DOO THM.／BOOTA／CO TM.／I2 MM.），已不录；可读的数值按原文逗号小数照录（2,19 mm 转写为 2.19 毫米）。Plate X, fig. 7 的兵蚁图未译。",
+ "sources": [
+  {
+   "id": "S0570",
+   "citation": "Oshima M. 1914. Notes on a collection of termites from the East Indian Archipelago. Annotationes Zoologicae Japonenses 8(3): 553–585.",
+   "locator": "pp. 574–575 / Notes-on-a-collection-of-termites-from-the-East-Indian-Archipelago"
+  }
+ ]
+}

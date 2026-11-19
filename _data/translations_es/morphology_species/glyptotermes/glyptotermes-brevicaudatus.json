@@ -1,0 +1,21 @@
+{
+ "note": "Adaptado de la descripción original en inglés de Haviland 1898. El original la describe como Calotermes brevicaudatus, n. sp., localidad tipo Sarawak, Borneo (número de tipo 237). El original marca los decimales con un punto volado de estilo antiguo (p. ej. «23 mm» por 2.3 mm, «*9 mm» por 0.9 mm); esta entrada los convierte a milímetros decimales; el soldado se presenta en dos clases de tamaño, cuyas medidas se dan en paralelo. El original indica el número de artejos antenales del soldado como 11 o 12.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Cabeza del soldado amarillo terroso, más oscura en la parte anterior, casi cilíndrica y oblicuamente truncada; la especie es claramente dimorfa: cabeza mayor de 2.3 mm de longitud y 1.3 mm de anchura, cabeza menor de 1.4 mm de longitud y 0.9 mm de anchura; mandíbulas de 0.8 mm de longitud en ambas (mayor), anchas en la base y amarillo terroso, negras en el ápice, la mandíbula derecha con 1 diente y la izquierda con 2 dientes. Anchura de la cabeza del alado 1.0 mm, ocelos en contacto con los ojos compuestos, pronoto con una mancha pálida en forma de f, alas de 6 mm de longitud y 1.7 mm de anchura."
+  },
+  {
+   "label": "Alado",
+   "text": "(Registrado como Male en el original, es decir, el alado aquí.) Longitud del cuerpo 4.5 mm, dorso castaño oscuro (badious), vientre más pálido. Anchura de la cabeza 1.0 mm. Ocelos en contacto con los ojos compuestos. Antenas de 13 artejos, el artejo 2 sólo algo más largo que el 3. Pronoto algo más estrecho que la cabeza, con una mancha pálida en forma de f. Alas de 6 mm de longitud y 1.7 mm de anchura; área costal estrecha y sin venas; media muy aplicada a la subcostal en toda su longitud. Patas posteriores que se extienden más allá del abdomen corto. 7.º esternito de la hembra en forma de media luna."
+  },
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo variable de 7 mm a 5 mm. Cabeza amarillo terroso, más oscura en la parte anterior, casi cilíndrica, oblicuamente truncada; en la forma mayor de 2.3 mm de longitud y 1.3 mm de anchura, en la forma menor de 1.4 mm de longitud y 0.9 mm de anchura. Antenas de 11 o 12 artejos, el artejo 2 sólo algo más largo que el 3. Labro romo, que alcanza los dos tercios de la longitud de las mandíbulas. Mandíbulas de 0.8 mm de longitud en el soldado mayor, anchas en la base y amarillo terroso, negras en el ápice, la mandíbula derecha con 1 diente y la izquierda con 2 dientes. Postmentón (gula) estrecho, más ancho en el tercio distal, fusionado con la cabeza en casi toda su longitud. Ángulos laterales posteriores del pronoto redondeados, margen posterior anchamente y débilmente lobulado. Patas posteriores que alcanzan el 7.º segmento abdominal."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 8 mm, cilíndrico."
+  }
+ ]
+}

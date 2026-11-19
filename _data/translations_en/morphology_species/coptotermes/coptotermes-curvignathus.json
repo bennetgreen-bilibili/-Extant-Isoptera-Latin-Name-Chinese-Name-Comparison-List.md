@@ -1,0 +1,13 @@
+{
+ "note": "Adapted from the species-level diagnosis and measurements of Takematsu & Vongkaluang (2012), originally in English; for this species that work gives only the diagnostic characters and measurements of the soldier (its morphological description is not rewritten in detail), so there is only a soldier section.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head and pronotum with many long hairs; postmentum with several long hairs. Head distinctly narrowed anteriorly, the frontal width (width at the narrowest part of the head, bHW) to maximum head width (mHW) ratio 0.55—0.61 (0.59); mandibles strongly incurved, the left mandible length (LML) to head length (HL) ratio 0.66—0.74 (0.70). Antennae 15—16-segmented. The narrowest part of the postmentum lies at about one third of the distance from the posterior margin to the widest point. Measurements (mm, 12 soldiers from three series): head length to the clypeus 1.52—1.75 (1.61); maximum head width 1.30—1.56 (1.43); left mandible length 1.04—1.18 (1.14); pronotum length 0.57—0.65 (0.60); pronotum width 0.98—1.14 (1.05); postmentum length 1.04—1.11 (1.06); postmentum width 0.42—0.46 (0.44)."
+  },
+  {
+   "label": "Other",
+   "text": "Distribution: Thailand, Myanmar, Vietnam, Cambodia, China, the Malay Peninsula, Sumatra, Borneo, Java. No other species in the Indo-Malayan region reaches this large size, although the head shape and the chaetotaxy vary greatly (Tho 1992); the strongly incurved mandibles are also diagnostic of the species."
+  }
+ ]
+}

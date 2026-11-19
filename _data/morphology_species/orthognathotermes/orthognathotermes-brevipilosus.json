@@ -1,0 +1,21 @@
+{
+  "zh_name": "短毛直颚白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁上颚第二型，头壳短于 O. gibberorum、O. heberi、O. insignis、O. orthognathus 与 O. uncimandibularis；与其他种的区别是短毛仅密集于头壳腹面，且无刚毛。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "背面观头侧向前略收敛。侧面观背瘤略突出，位于侧缘突起之后。上颚第二型，近端半部有齿状突。头壳表面疏布刚毛，腹面短毛较密，表面有微小毛。后颏表面刚毛与短毛较密。前胸背板前缘与后缘有刚毛；中胸背板与后胸背板后缘有刚毛；腹部背片与腹片密被刚毛。"
+    }
+  ],
+  "note": "据 Rocha & Cancello (2009) 改写，原文英文；原文有翅成虫记为 Unknown，故只列兵蚁；无量度数据。",
+  "sources": [
+    {
+      "id": "S0228",
+      "citation": "Rocha M. M.; Cancello E. M. 2009. Revision of the Neotropical termite genus Orthognathotermes Holmgren (Isoptera: Termitidae: Termitinae). 10.11646/zootaxa.2280.1.1",
+      "locator": "p. 6（treatment 6213681）"
+    }
+  ]
+}

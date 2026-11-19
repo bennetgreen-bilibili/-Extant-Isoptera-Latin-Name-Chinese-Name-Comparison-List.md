@@ -1,0 +1,25 @@
+{
+  "zh_name": "希伯直颚白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "有翅成虫以单眼与复眼均小、囟门大的组合区别本属其他种；与 O. insignis 的区别是上唇刚毛分散、单眼椭圆形且远离复眼，与 O. longilamina 的区别是单眼较不突出。兵蚁大于 O. brevipilosus、O. longilamina、O. macrocephalus 与 O. okeyma，背面观头侧平行，而 O. insignis 与 O. uncimandibularis 头侧向前略收敛。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "复眼小，与头下缘的距离小于单眼的最大直径。单眼背面观肾形；侧面观椭圆形，与复眼的距离等于其最小直径。囟门宽，中等大小。头壳有少量短毛与刚毛。上唇刚毛不成列。前胸背板密被刚毛；中胸背板与后胸背板刚毛少，集中在中央与后缘。头深褐至淡褐，前胸背板与背片淡褐色，腹片黄色，足与翅鳞淡褐色。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "背面观头侧平行。侧面观背瘤略突出，位于侧缘突起之后。上颚第二型，近端半部有齿状突。头壳疏布刚毛，腹面短毛较密，表面散布微小毛，后缘较密。后颏有刚毛。前胸背板表面有短毛、边缘有刚毛；中胸背板与后胸背板后缘有刚毛与短毛；腹部背片被短毛与刚毛，腹片刚毛在后缘较长。"
+    }
+  ],
+  "note": "据 Rocha & Cancello (2009) 改写，原文英文；无量度数据。原文另记原始描述中的\"小型兵蚁\"实为被棘头虫寄生的个体、兵蚁为单型，此点未写成性状。",
+  "sources": [
+    {
+      "id": "S0228",
+      "citation": "Rocha M. M.; Cancello E. M. 2009. Revision of the Neotropical termite genus Orthognathotermes Holmgren (Isoptera: Termitidae: Termitinae). 10.11646/zootaxa.2280.1.1",
+      "locator": "p. 7–8（treatment 6213685）"
+    }
+  ]
+}

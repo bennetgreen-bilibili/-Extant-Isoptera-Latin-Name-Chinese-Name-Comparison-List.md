@@ -1,0 +1,21 @@
+{
+ "note": "Reescrito a partir de la revisión del género Syntermes de Constantino (1995), original en inglés. Esa obra da las descripciones del alado, del soldado y del obrero mayor, junto con las medidas del soldado (11 colonias, 11 soldados: longitud de la cabeza 6.30—7.10 mm, anchura máxima de la cabeza 6.50—7.20 mm, altura de la cabeza sin el postmentón 3.70—4.30 mm, longitud del tubo frontal 0.27—0.42 mm, longitud de la mandíbula izquierda 3.20—4.00 mm, curvatura de la mandíbula izquierda 1.40—2.00 mm, distancia M1—M2 de la mandíbula izquierda 0.76—1.09 mm). El original es un texto OCR de un escaneo de BHL, con algunas cifras rotas (p. ej. «6.30-7. 10»), corregidas aquí por el contexto; los datos de ejemplares y de localidad típica no se han recogido.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Soldado: se distingue de las demás especies del género por el tamaño grande, la cabeza densamente cubierta de pelos finos, largos y rizados, las espinas muy grandes del pronoto y del meso- y metanoto, y los dientes mandibulares gruesos; se aproxima a los individuos grandes de S. dirus por el tamaño y la pilosidad, pero esta última es siempre de menor tamaño, tiene dientes mandibulares más pequeños y el borde cortante apical de la mandíbula izquierda claramente en forma de S. Alado semejante a S. dirus, pero con el pronoto relativamente más ancho y más corto y la fontanela mayor."
+  },
+  {
+   "label": "Alado",
+   "text": "Ojos compuestos pequeños, con un diámetro inferior a 1/4 de la anchura de la cabeza; ocelos pequeños, de longitud aproximada 1/10 de la anchura de la cabeza; fontanela grande y redonda. Antenas de 20 artejos. Ángulos anterolaterales del pronoto agudos y angulosos, márgenes laterales redondeados y convergentes hacia atrás. Alas relativamente cortas, con la media y el cúbito evidentes en el ápice. Cabeza con algunos pelos muy cortos dispersos, postclípeo con 6—8 pelos cortos; márgenes externos del pronoto peludos, superficie con solo algunos pelos dispersos; margen posterior de los terguitos abdominales con una hilera de pelos. Cabeza y pronoto de color castaño pálido."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza corta y ancha, con los lados rectos y convergentes hacia delante y el margen posterior uniformemente redondeado. Tubo frontal saliente. Ángulos laterales del labro obtusos. Antenas de 20 artejos. Lados de la parte posterior del postmentón casi paralelos. Margen anterior del pronoto cóncavo (visible solo en vista posterior)."
+  },
+  {
+   "label": "Obrero",
+   "text": "Obrero mayor: relación entre la longitud y la anchura de la cabeza 0.79—1.02; relación entre la distancia M1—M2 de la mandíbula izquierda y la longitud de esa mandíbula 0.23—0.33; relación entre la altura de la cabeza y su anchura máxima 0.56—0.60; relación entre la anchura y la longitud de la mandíbula izquierda 0.29—0.39."
+  }
+ ]
+}

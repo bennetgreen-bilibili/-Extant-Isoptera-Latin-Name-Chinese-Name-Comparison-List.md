@@ -1,0 +1,21 @@
+{
+  "zh_name": "卡丁异白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "新种（原文作 Leucotermes cardini，后归 Heterotermes）。模式产地巴哈马安德罗斯岛，古巴亦有记录。有翅成虫头淡黄褐，复眼之间较深；触角 17 节；复眼黑色、非圆、略突出；上唇与后唇基同 L. convexinotatus；前胸背板近心形，前缘中部凹入，后缘略凹；中胸与后胸背板后缘不凹，中胸背板被翅鳞覆盖。兵蚁头部毛较 convexinotatus 多。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "头淡黄褐，复眼之间较深，后部较淡；近椭圆形，最宽处在复眼，后部圆；被密的长短毛。囟为复眼后一条线上的淡色、微隆的圆点。触角淡黄，17 节，被短毛，各节大小形状有变化；第 1 节长、圆柱形；第 2 节短于第 1 节；第 3 节环状，约为第 2 节长之半；第 4 节环状、长于第 3 节；末节长、细、椭圆形。复眼黑色、非圆形、略突出；与头侧缘的距离小于（或等于）其长径。单眼有或无，与复眼的距离约等于单眼短径。上唇与后唇基同 L. convexinotatus。前胸背板颜色与头同，近心形，前缘中部凹入，后缘略凹，具长毛与短毛。中胸与后胸背板后缘不凹；中胸背板被翅鳞覆盖。足淡黄、细长。翅烟色，前缘脉黄色，翅缘具缘毛，翅面点状，表面毛少。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0560",
+      "citation": "Snyder, T. E. 1924. Descriptions of new species and hitherto unknown castes of termites from America and Hawaii. Proceedings of the United States National Museum 64 (art. 6).",
+      "locator": "pp. 17-18 (LEUCOTERMES CARDINI, new species, winged adult)"
+    }
+  ],
+  "note": "据 Snyder 1924 年英文原始描述（新种 Leucotermes cardini Snyder，模式产地巴哈马 Andros Island；后归入 Heterotermes）。窗口内为有翅成虫前半段，翅脉与量度续段未采入。原文指出兵蚁与 convexinotatus 难以仅凭兵蚁区分，cardini 兵蚁头部毛更多。"
+}

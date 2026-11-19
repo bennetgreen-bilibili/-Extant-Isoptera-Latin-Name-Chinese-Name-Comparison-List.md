@@ -1,0 +1,17 @@
+{
+ "note": "El original describe solo el soldado; el alado se separa de C. dudleyi en la clave por caracteres de la venación alar, pero no se describe, por lo que esta entrada no tiene sección de alados.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Soldado con el pronoto no más de dos veces tan ancho como largo, mandíbulas no visibles en vista dorsal; el margen de la prominencia frontal vertical, el margen anterior del pronoto con una escotadura oblicua poco profunda. En el mismo género, C. brevicollis tiene el pronoto unas tres veces tan ancho como largo; C. dudleyi tiene las mandíbulas visibles en vista dorsal, el margen de la prominencia frontal inclinado hacia atrás y el margen anterior del pronoto profunda y redondeadamente escotado. El alado no se describe; en la clave original se separa por la ausencia de ramas oblicuas en los extremos de las venas alares y por la membrana gruesamente punteada."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza negra en la parte anterior y pardo rojiza en la posterior; margen anterior del pronoto pardo, el resto claro. Cabeza en vista dorsal solo algo más larga que ancha, parte anterior algo más ancha que la posterior, lados débilmente contraídos; margen anterior elevado, cóncavo en el centro, redondeado a los lados; superficie anterior con arrugas transversales débiles. Cabeza de perfil aproximadamente una vez y cuarto tan larga como alta. Mandíbulas muy cortas, no visibles en vista dorsal. Pronoto aproximadamente una vez y cuarto tan ancho como largo, margen anterior ligeramente escotado de forma oblicua, lados algo estrechados y unidos suavemente al margen posterior. Longitud de la cabeza 1 mm, longitud total 3.5 mm."
+  },
+  {
+   "label": "Otros",
+   "text": "El espécimen tipo fue recolectado en Panamá, en madera de un alféizar (recolectado por Beaumont); el holotipo está en el American Museum of Natural History y el paratipo en el Museum of Comparative Zoology."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+  "zh_name": "短小无利器白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "体色同 f. obscurus，但较其更小。囟点状或裂隙状，相当深地下凹。量度：连翅体长 10—10.5 mm，去翅体长 6 mm，前翅长 9 mm、宽 2.2 mm，头长 1.22 mm，头宽 1.06 mm，前胸背板宽 0.94 mm。兵蚁未知；工蚁与主种（M. natalensis）相同。"
+    }
+  ],
+  "note": "据 Holmgren (1913) 的原始描述改写（原文作为 Mirotermes (Cubitermes) natalensis f. brevior 新型发表，现按 BSF 作 Astalotermes brevior），原文德语，量度单位 mm；只有有翅成虫形态，兵蚁未知，模式产地祖鲁兰 Mkosi。",
+  "sources": [
+    {
+      "id": "S0566",
+      "citation": "Holmgren, N.; 1913. Termiten aus Natal und dem Zululande. Entomologisk Tidskrift 34: 321-366. https://archive.org/details/entomologisk-tidskrift-34-2-4-321-366",
+      "locator": "p. 357"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "zh_name": "沃斯曼钩白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "检索表中以大兵蚁左上颚具 2 枚极小的缘齿、头连上颚长 1.8—2.0 mm 与 A. microdens（左上颚仅 1 枚中位缘齿）及本属其他种区分。刚果的一批兵蚁与工蚁被 Wasmann 1911 鉴定为 Termes cavithorax，但他同时指出大兵蚁上颚「强烈弯曲且尖锐，右上颚无齿，左上颚中部有 2 枚极小的齿，后侧的齿仅在放大下可见」，与 Sjöstedt 的描述不合；Snyder & Emerson 1949 据此把这批标本立为新种 wasmanni，未作进一步讨论。Harris 1966 未能检查这批标本，故本种的形态资料仍限于 Wasmann 的原记述。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "Wasmann 给出的量度（mm）：体全长 大兵蚁 4.0—4.3、小兵蚁 2.5—3.6；头连上颚长 大兵蚁 1.8—2.0、小兵蚁 1.2—1.6。模式产地为刚果 Sankuru。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0610",
+      "citation": "Harris W. V. 1966. The genus Ancistrotermes (Isoptera). Bulletin of the British Museum (Natural History), Entomology 18(1): 1–20.",
+      "locator": "p. 20"
+    }
+  ],
+  "note": "据 Harris 1966 转引。Harris 明言未能检查 Wasmann 的标本，本条只能保留 Wasmann 1911 的兵蚁记述与量度、以及 Snyder & Emerson 1949 的命名处理；单位毫米。"
+}

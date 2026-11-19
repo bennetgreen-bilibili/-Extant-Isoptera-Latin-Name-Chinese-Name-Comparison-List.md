@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from Roonwal & Chhotani 1997; original in English; the original describes the alate, the soldier and the pseudoworker in that order, with measurements for each.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Head brownish with a smoky tinge. Body length without wings 7.20—8.10 mm; head length to the base of the mandibles 1.30—1.45 mm, head width 1.50 mm; greatest compound eye diameter 0.5 mm, 0.025 mm from the antennae; ocelli 0.20—0.23 mm; antennae about 18-segmented; labrum 0.45×0.55 mm; pronotum length 0.80 mm, width 1.55—1.60 mm; fore wing length 12.1 mm; tibial spur formula 3:3:3; tarsi 4-segmented."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 9.5—11.0 mm; head length to the base of the mandibles 2.70—3.40 mm, greatest width 2.0—2.23 mm, width-to-length ratio 0.67—0.74; eye 0.23—0.35 mm; antennae 16-segmented; mandible length 1.80—1.95 mm, mandible-to-head length ratio 0.61—0.66; left mandible with 5 marginal teeth, right mandible with 2 large marginal teeth; postmentum length 1.9—2.3 mm, greatest width 0.75—0.78 mm, waist width 0.30 mm; pronotum length 0.98—1.08 mm, width 1.93—2.20 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "The original calls it a pseudoworker. Body length 6.5—7.0 mm; head length 1.5—1.6 mm, head width 1.8—1.9 mm; antennae 15-segmented; pronotum length 0.80—0.90 mm, width 1.50—1.60 mm."
+  }
+ ]
+}

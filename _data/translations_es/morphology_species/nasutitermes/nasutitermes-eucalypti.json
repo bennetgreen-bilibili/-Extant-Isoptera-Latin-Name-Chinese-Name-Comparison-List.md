@@ -1,0 +1,21 @@
+{
+ "note": "Adaptado de la descripción original de Mjöberg de 1920 (en inglés, Text Figs. 18 c, 26), nombre original Eutermes eucalypti n. sp.; comprende soldados mayor y menor y el obrero con todas las medidas; no se describe alado. El original usa la coma como separador decimal (p. ej. «3,2 mm»), transcrita aquí como 3.2; las lecturas del escaneo «0,si mm», «0,i9 mm» y «0,i7 mm» son errores de OCR, restituidas por el contexto como 0.51, 0.19 y 0.17 mm respectivamente. La longitud del cuerpo del soldado menor figura en el original como 1.27 mm, incoherente con la longitud de la cabeza de 0.82 mm y presumiblemente una errata por 3.27 mm; se registra tal como está impreso y se advierte aquí. Texto tomado del escaneo de archive.org. Hoy en Nasutitermes.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Soldados de dos tamaños pero de forma idéntica. Cabeza bastante pequeña, rufa, con una ancha banda transversal castaña a través de la frente ampliamente interrumpida en el centro por una fina línea pálida, la región bucal algo más oscura; borde posterior y lados de la cabeza redondeados, bruscamente estrechados hacia la nasa corta y bastante robusta; antenas de 13 segmentos, largas y esbeltas, segmento 3 claramente más largo, más ancho en el ápice que en la base y el doble de largo que el segmento 4, segmento 5 mucho más largo que el segmento 4 pero más corto que el segmento 3. Cabeza del obrero brillante, con manchas pardo rojizas más oscuras en la mitad posterior; antenas de 15 segmentos, segmento 3 muy pequeño."
+  },
+  {
+   "label": "Soldado",
+   "text": "Soldado mayor (Text Figs. 18 c, 26 b, c): cabeza bastante pequeña, rufa, con una ancha banda transversal castaña a través de la frente ampliamente interrumpida en el centro por una fina línea pálida, la región bucal algo más oscura; borde posterior y lados de la cabeza redondeados, bruscamente estrechados hacia la nasa corta y bastante robusta; antenas de 13 segmentos, largas y esbeltas, el segmento basal largo y grueso, segmento 2 menos ancho y solo aproximadamente la mitad de largo, segmento 3 claramente más largo, más ancho en el ápice que en la base y el doble de largo que el segmento 4, segmento 4 el más corto, segmento 5 mucho más largo que el segmento 4 pero más corto que el segmento 3, segmentos 6—12 aproximadamente el doble de largos que anchos, segmento 13 alargado con el ápice redondeado; todos los segmentos pardo pálido, más claros en la base. Medidas: longitud del cuerpo 3.2 mm, longitud de la cabeza 1.36 mm, longitud de la nasa 0.51 mm, anchura de la base de la nasa 0.19 mm, anchura de la cabeza 0.82 mm, longitud del pronoto 0.21 mm, anchura 0.48 mm, anchura abdominal 0.84 mm. Soldado menor: idéntico en forma al soldado mayor. Medidas: longitud del cuerpo 1.27 mm (así impresa en el original; dada la longitud de la cabeza de 0.82 mm, probablemente errata por 3.27), longitud de la cabeza 0.82 mm, longitud de la nasa 0.48 mm, anchura de la base de la nasa 0.17 mm, longitud del pronoto 0.23 mm, anchura 0.42 mm, anchura abdominal 0.6 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Del tipo habitual de Eutermes; cabeza brillante, con manchas pardo rojizas más oscuras en la mitad posterior, estrechándose por delante de las antenas; segmento antenal 3 muy pequeño, más corto que los segmentos 2 y 4; los segmentos distales más de dos veces más largos que anchos, segmento 15 algo más corto que el segmento 14. Medidas: longitud del cuerpo 5 mm, longitud de la cabeza 1.66 mm, anchura de la cabeza 1.27 mm, longitud del pronoto 0.29 mm, anchura 0.68 mm, anchura abdominal 1.48 mm."
+  },
+  {
+   "label": "Otros",
+   "text": "Localidad tipo la región de Kimberley, noroeste de Australia, recolectada bajo la corteza de eucaliptos (gum trees). La especie al parecer no construye nidos regulares sino que recubre sus galerías y tubos con una sustancia arcillosa. Las dos formas de soldado difieren notablemente en tamaño (longitud del cuerpo 3.2 mm y 1.27 mm) pero coinciden en la forma de la cabeza."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from Constantino's (1995) revision, originally in English. The alate, the soldier and the major worker are described. Alate measurements: 5 colonies, 5 individuals, head length 2.15—2.25 mm, head width without the eyes 2.33—2.55 mm, fontanelle length 0.34—0.45 mm, pronotum length 1.60—1.73 mm and width 2.95—3.05 mm, hind tibia length 4.00—4.50 mm, maximum diameter of the compound eye 0.69—0.81 mm, ocellus length 0.27—0.34 mm, fore wing length 22.00—26.00 mm. Soldier measurements: 10 colonies, 10 individuals, maximum head width 3.00—3.65 mm, head height without postmentum 1.80—2.23 mm, frontal tube length 0.03—0.08 mm, left mandible length 2.05—2.20 mm, curvature 0.70—0.98 mm, left mandible M1—M2 distance 0.17—0.25 mm. The soldier head length is severely damaged in the OCR (“3.7.3-1.30”) and has not been entered.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "All castes close to S. nanus and clearly distinct from the other species of the genus. Alate characterized by its small size, large compound eyes, rounded pronotal corners, long transparent wings and a postclypeus with only 4 setae; the alate of S. nanus is smaller, darker, with a smaller fontanelle and a narrower pronotum. Soldier characterized by its small size, elongated mandibles with reduced marginal teeth, a strongly hooked apex and the absence of thoracic spines; the soldier of S. nanus is smaller, with parallel sides of the head, less hooked mandibles and hairs on the posterior part of the postmentum."
+  },
+  {
+   "label": "Alate",
+   "text": "Compound eyes of medium size, larger than 1/4 of the head width; ocelli large; fontanelle round and large. Antennae 20-segmented. Anterior corners of the pronotum rounded; lateral margins rounded and converging posteriorly. Wings long; media and cubitus not distinct apically. Head capsule with numerous long setae……"
+  },
+  {
+   "label": "Soldier",
+   "text": "Head capsule elongated, the sides converging anteriorly; posterior margin of the head round or weakly trilobed. Frontal tube very short, the opening clearly visible in dorsal view. Labrum short, length and width nearly equal; lateral corners about right-angled; median lobe large. Antennae 19 or 20-segmented. Postmentum slightly constricted."
+  },
+  {
+   "label": "Worker",
+   "text": "Major worker: head capsule with many short erect setae; postclypeus with about 14 setae; fontanelle round and relatively large. Antennae 19 or 20-segmented. Lateral margins of the thoracic tergites angular but without spines. Mandibles similar to those of S. dirus, the apical tooth of the left mandible short, the M1 cutting edge of the left mandible slightly wavy."
+  }
+ ]
+}

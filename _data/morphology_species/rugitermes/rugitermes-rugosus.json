@@ -1,0 +1,21 @@
+{
+  "zh_name": "皱纹皱白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "有翅成虫漆黑、与 C. nodulosus 极相似但翅色更深。区别在于：头比 nodulosus 稍粗壮、无光泽、具细颗粒状刻纹，前缘压痕更强；前胸背板略宽于头、亦无光泽而具细刻纹，前角更圆，两侧曲线使前胸背板向后略变宽；雌虫第 6 腹板强烈增大。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "漆黑；口器、触角与跗节淡黄，胫节与触角第 1 节浅褐；翅同 C. nodulosus 但更暗。与 C. nodulosus 极相似。头同其形状但稍粗壮、无光泽、具细颗粒状刻纹，前缘的压痕更强。触角 16 节（是否完整不明），同 nodulosus。前胸背板略宽于头，无光泽、具细刻纹，前角圆得更多；两侧曲线使前胸背板向后略变宽。足同 nodulosus，雌虫第 6 腹板强烈增大。翅与脉序同 nodulosus，但更为粗壮明显。量度：连翅长 10 mm，体长 7 mm，翅展 16 mm。"
+    }
+  ],
+  "note": "据 Hagen 1858《Monographie der Termiten》（Linnaea Entomologica 12，p. 63）的原始描述，原文为拉丁文诊断加德文简述（与 Calotermes nodulosus 逐项对比写成）。Hagen 只描述有翅成虫，共见 4 头完全一致的干标本，自巴西里约热内卢附近的 Constancia 由 Rev. Clark 采得，藏大英博物馆。原记载置于 Calotermes 属下（Calotermes rugosus），今归 Rugitermes。Hagen 指出本种有可能是 C. nodulosus 的黑胸变型，但因两者特征有别而暂分为两种。",
+  "sources": [
+    {
+      "id": "S0609",
+      "citation": "Hagen, H. A. 1858. Monographie der Termiten. Linnaea Entomologica 12: 1–342.",
+      "locator": "p. 63"
+    }
+  ]
+}

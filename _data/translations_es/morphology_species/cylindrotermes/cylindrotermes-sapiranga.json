@@ -1,0 +1,21 @@
+{
+ "note": "Reescrito a partir de la descripción original de la nueva especie (portugués) de Rocha y Cancello 2007; las medidas son los rangos medidos por los autores y el original usa comas como separador decimal, aquí cambiadas a punto decimal. El alado de esta especie figura como desconocido en el original. Las abreviaturas de medida siguen a Roonwal (1970) y aquí se desarrollan por extenso.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "La cabeza es rectangular; en vista lateral el margen dorsal es recto desde el tercio posterior hasta el nivel del fontanela, donde se eleva, y desde el fontanela hasta la base del clípeo forma una pendiente cóncava. En vista lateral la cabeza es más gruesa que en las demás especies del género. El labro es pentagonal. Las antenas tienen once o doce artejos, el artejo 1 mide el doble del artejo 2, los restantes son subiguales y el artejo 3 a veces está dividido. Las mandíbulas son esbeltas y largas, curvadas hacia dentro solo en la punta, algo más cortas que la mitad de la longitud de la cápsula cefálica, cada una con un diente en la base. La cabeza está cubierta de pelos cortos, menos abundantes en la parte posterior; las setas se concentran en la parte anterior y son escasas en el resto. El labro lleva 7—8 setas, siempre con un par más largo en el ápice y a veces además algunos pelos cortos. El postmentón está cubierto de pelos cortos, más ralos en la parte posterior, y las setas se sitúan principalmente en el margen anterior. El pronoto y los restantes notos torácicos están densamente cubiertos de pelos cortos y setas, las setas sobre todo en los márgenes; los terguitos y esternitos abdominales están densamente cubiertos de pelos cortos y setas, con pocas setas erectas en el margen posterior. Medidas (44 individuos, 9 ejemplares): longitud de la cápsula cefálica 1.72—1.96 mm, anchura máxima de la cabeza 0.86—0.98 mm, altura de la cabeza 0.74—0.88 mm, longitud máxima de la mandíbula izquierda 0.78—0.88 mm, base de la mandíbula a la punta 0.76—0.88 mm, longitud mínima del postmentón 1.18—1.42 mm, longitud de la tibia posterior izquierda 0.62—0.76 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Las antenas tienen doce o trece artejos; el artejo 1 es el más largo, el artejo 2 mide la mitad del artejo 1, los restantes son subiguales y el artejo 3 a veces se subdivide. La cabeza está densamente cubierta de setas y pelos cortos. Los notos torácicos llevan pelos cortos y setas, las setas sobre todo en los márgenes; los terguitos y esternitos abdominales están densamente cubiertos de pelos cortos y llevan setas en toda la superficie, principalmente en los márgenes, con pocas setas erectas en el margen posterior."
+  },
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El soldado tiene mandíbulas esbeltas, lo que lo distingue de C. brevipilosus y C. caata; no hay proyección por encima de las cavidades antenales, lo que lo distingue de C. flangiatus; la región elevada del fontanela lo distingue de C. macrognathus y C. capixaba; frente a C. parvignathus es de mayor tamaño, con la cabeza relativamente más ancha y gruesa, muchos pelos cortos y pocas setas. El alado es desconocido."
+  },
+  {
+   "label": "Otros",
+   "text": "El holotipo es un soldado (MZUSP 11501, Reserva Ecológica de Sapiranga, estado de Bahía, Brasil, 2001-7-25, recolectado por Yana T. Reis y E. M. Cancello); los paratipos son los demás soldados y obreras de la misma colonia y los ejemplares MZUSP 11499—11504. El epíteto específico sapiranga se refiere a la localidad tipo y no a su significado en tupí. Localidad tipo: Reserva da Sapiranga, Mata de São João, estado de Bahía, Brasil (12.565°S, 38.032°W)."
+  }
+ ]
+}

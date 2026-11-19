@@ -1,0 +1,25 @@
+{
+  "zh_name": "鼻长象白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "小型兵蚁：头红黄色，象鼻略带褐色；腹背板浅黄褐色；其余体锈黄色至黄白色。头与腹背板被毛几不可见（显微级）。头（去象鼻）背面观正圆形；象鼻长，圆锥形，端尖。额部轮廓直，但在象鼻基部之后有极弱的凹陷。触角 13 节，第 3 节略长于第 2 节，第 4 节短于第 2 节。前胸背板鞍形，前缘不凹入。"
+    },
+    {
+      "label": "工蚁",
+      "text": "头橙色，横带较浅；体草黄色。头被毛稀疏；腹背板短毛相当密。头宽卵形；头缝可见；囟孔相当明显；横带前部凹入；后唇基基片相当短而平凸。"
+    },
+    {
+      "label": "其他",
+      "text": "量度（mm）。小型兵蚁：体长 3—3.5；头连象鼻长 1.90；去象鼻头长 0.87；头宽 1.01；前胸背板宽 0.57。工蚁：体长 3—3.5；头宽 1.14；前胸背板宽 0.65。分布：婆罗洲 Sarawak（Haviland）、马来亚（v. Buttel-Reepen）。注：原文脚注记 v. Buttel-Reepen 日后将发表的采集中有两个兵蚁等级，较大者头连象鼻长 2.3—2.2 mm、头宽 1.4—1.1 mm。"
+    }
+  ],
+  "note": "据 Holmgren 1913 原始描述（德文）。有翅成虫未知；原文描述小型兵蚁与工蚁，并脚注提及同种大型兵蚁的量度。原文为德文，经 Internet Archive 扫描本 OCR 抽取，个别词形与数字有识别错误（如 l,i 应为 1,1），已按上下文核对；原文量度单位为 mm。",
+  "sources": [
+    {
+      "id": "S0089",
+      "citation": "Holmgren N. 1913. Termitenstudien 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Kungliga Svenska Vetenskapsakademiens Handlingar 50(2): 1–276.",
+      "locator": "pp. 171–172, Taf. VII, Fig. 8"
+    }
+  ]
+}

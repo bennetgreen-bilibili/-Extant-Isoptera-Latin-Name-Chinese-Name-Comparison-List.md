@@ -1,0 +1,21 @@
+{
+ "zh_name": "巴拿马白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "头淡黄色，前缘附近较深（黄褐）；两侧几乎平行，前方略宽；前突（额突）大于 nigritus Silvestri 者，被密的毛；头比 nigritus 更粗壮（更高），有稀疏的长短毛。上唇黄色、延长，两侧各一窄长的侧叶，中央凹入，有长毛。上颚黑色、延长、细长、弯曲，端部内弯。触角黄褐，14 节，被短毛：第 3 节短于第 2 节，略长于第 4 节；自第 5 节起各节向端部渐长渐宽；末节延长、窄、端部尖。前胸背板白而带黄，鞍形，前缘略凹，有长毛。足白而带黄，爪褐色、延长、细长、被毛。腹部污灰白带黄，被密短毛，背板基部另有一列长毛。量度：兵蚁全长 5.1—5.6 mm；头连上颚长 2.90—3.3 mm；头长（不连上颚，至前缘）1.50 mm；左上颚长 1.80 mm；前胸背板长 0.30 mm；后足胫节长 0.85 mm；头最宽处 0.90—0.95 mm；前胸背板宽 0.60 mm。大型个体头色更浅、更粗壮，上颚更长。"
+  },
+  {
+   "label": "其他",
+   "text": "原文以 Mirotermes panamaensis, 新种 发表；模式产地巴拿马运河区 Barro Colorado Island（Zetek 采）。名录中置于 Termes 属，属级归属以名录所据的后续修订为准。"
+  }
+ ],
+ "note": "条目依据 Snyder 1923 原始描述（兵蚁）；原文为 BHL 分册的图书馆 OCR 文本。",
+ "sources": [
+  {
+   "id": "S0616",
+   "citation": "Snyder, T. E. 1923. Three new termites from the Canal Zone, Panama. Proceedings of the Entomological Society of Washington 25(5—6): 127—131.",
+   "locator": "pp. 128—129"
+  }
+ ]
+}

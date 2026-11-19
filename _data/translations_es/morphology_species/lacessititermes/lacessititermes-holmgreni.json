@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Cabeza pardo rojizo oscuro; postclípeo, antenas y patas pardo amarillento; labro pardo amarillento muy claro; pronoto pardo, más claro por detrás; parte anterior del meso- y metanoto pardo crema, la posterior más oscura; terguitos abdominales pardo oscuro; esternitos pardos, algo más claros en el centro; membrana alar pardo claro, sector radial pardo oscuro, margen costal pardo, estría subcostal casi tan ancha como el sector radial, parda con tinte amarillo. Cabeza con la forma de la fig. 3a del original, la región media alrededor de la fontanela marcadamente hundida; fontanela en forma de punta de lanza, más ancha que medio ocelo y algo más larga que este, que se expande hacia delante en dos puntas laterales que se prolongan como líneas finas hasta los ocelos. Ocelos ovalados, diámetro mayor aproximadamente un tercio del del ojo compuesto, distancia al ojo compuesto igual al diámetro mayor del ocelo. Ojos compuestos grandes y salientes, a aproximadamente un quinto de su diámetro del borde inferior de la cabeza, a aproximadamente la mitad del borde superior y a algo más de su diámetro del borde posterior; anchura de la cabeza entre los ojos 1.35 mm. Segmentos antenales de color uniforme, segmento 2 mucho más corto que el 3. (Clave) Borde posterior del pronoto profundamente cóncavo; fontanela más ancha que medio ocelo."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza y rostro pardo negruzco oscuro, que hacia la base pasan a pardo rojizo; cuarto a quinto apical del rostro con tinte rojo; terguitos y terguitos abdominales pardo oscuro; antenas, pleuritos torácicos y coxas pardos; tibias y tarso algo más claros. Rostro levantado, algo abultado cerca de la base; base del rostro gruesa, que se afila gradualmente hacia el ápice, de unos 0.2 mm de grosor en el medio. Antena dos veces tan larga como la cabeza con el rostro, sus segmentos del mismo color; segmentos 7 y 8 los más largos, los apicales progresivamente más cortos; segmento 3 más corto que el 4 o aproximadamente igual. Cabeza sin pelos, o con solo una o dos setas posterolateralmente; longitud de la cabeza unos 1.80 mm, anchura unos 1 mm; todos los terguitos abdominales con una hilera de setas marginales rígidas. (Clave) Cabeza corta, índice cabeza-rostro unos 0.70; cuarto apical del rostro con tinte rojo o amarillo."
+  },
+  {
+   "label": "Otros",
+   "text": "Medidas (mm). Alado (individuo típico de la colonia tipo n.º 1712): longitud total 16.01, longitud del ala anterior 14.17, anchura 3.86, longitud de la cabeza 2.16, longitud de la cápsula cefálica 1.50, anchura de la cápsula cefálica 1.57, anchura de la cabeza con ojos compuestos 1.87, longitud del pronoto 0.844, anchura 1.54, diámetro del ojo compuesto 0.55, diámetro mayor del ocelo 0.20, diámetro menor 0.16. Soldado (misma colonia): longitud de la cabeza con el rostro 1.80, longitud de la cabeza (sin rostro) 1.06, longitud del rostro 0.72, proyección cefálica 0.27, altura de la cabeza 0.96, anchura de la cabeza 1.14, longitud de la tibia anterior 1.32; índice cefálico 0.90, índice cabeza-rostro 0.68, índice de proyección cefálica 0.23, índice de extensión de la pata 1.15."
+  }
+ ],
+ "note": "Adaptado de la descripción original de Light & Wilson (1936), original en inglés; se describen y miden el alado y el soldado, colonia tipo n.º 1712, localidad tipo isla de Dinagat, Filipinas."
+}

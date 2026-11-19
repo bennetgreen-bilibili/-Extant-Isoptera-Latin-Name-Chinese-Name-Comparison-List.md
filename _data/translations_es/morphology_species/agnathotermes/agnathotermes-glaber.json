@@ -1,0 +1,17 @@
+{
+ "note": "Según la descripción original de Snyder 1926 (publicada como Nasutitermes (Agnathotermes) glaber, new species; el nuevo subgénero y la especie tipo se publicaron al mismo tiempo). El original solo describe al soldado; no se recolectaron obreros ni hay alados. El original se extrajo mediante OCR del escaneo de BHL/Zenodo; los espacios entre palabras están fragmentados (una palabra por línea) y algunos nombres de género fueron reconocidos como Convew/itermes, Z'enwirostritermes (deberían ser Convexitermes, Tenuirostris termes), verificados según el contexto; la unidad de medida es mm.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Cabeza amarillo pálido, rostro (tubo de la fontanela) pardo rojizo. Cabeza piriforme, constreñida aproximadamente a un cuarto por delante de la base de las antenas, más ancha por detrás; dorso ligeramente convexo, casi recto en visión lateral, ligeramente deprimido en la constricción; dispersamente cubierta de pelos muy cortos, con varios pelos más largos en los márgenes anterior y posterior. Rostro corto, cónico, no muy grueso, ápice no curvado hacia arriba, cubierto de pelos cortos, con pelos largos adicionales en el extremo. Mandíbulas sin proceso puntiagudo. Antenas amarillo pálido, de 11 segmentos, finamente pilosas; segmento 3 más largo que el segmento 2 o el segmento 4; segmentos gradualmente más largos y anchos hacia el ápice; segmento apical delgado, casi ovalado. Pronoto amarillo en los márgenes, en forma de silla de montar, cubierto de pelos cortos. Patas blancas, bastante largas y delgadas, finamente pilosas. Abdomen blanco sucio, terguitos cubiertos de pelos cortos, cercos bastante largos."
+  },
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Originalmente situada en el subgénero Obtusitermes (cuyos soldados son dimórficos), pero solo se recolectó una forma de soldado, el soldado mayor; sus caracteres son intermedios entre los subgéneros Convexitermes y Subulitermes: el rostro es corto y cónico como en Convexitermes, mientras que el contorno de la cabeza es como en Subulitermes. Como no se recolectaron obreros, el autor consideró que podría pertenecer al subgénero Tenuirostritermes o a un nuevo subgénero (Agnathotermes); esta especie es la especie tipo de ese nuevo subgénero, y la pérdida del proceso puntiagudo de las mandíbulas es el carácter diagnóstico del subgénero."
+  },
+  {
+   "label": "Otros",
+   "text": "Medidas: longitud del cuerpo del soldado 2,70 mm; cabeza con rostro 0,90—0,95 mm; cabeza sin rostro 0,55—0,60 mm; longitud del rostro 0,85 mm; longitud del pronoto 0,10 mm; longitud de la tibia posterior 0,57 mm; anchura de la cabeza 0,50 mm; anchura del pronoto 0,25 mm. Localidad tipo: Cachuela Esperanza, Bolivia (río Beni). En marzo de 1922 (mes 3) W. M. Mann recolectó 38 soldados, en el mismo nido que Cornitermes (Labiotermes) labralis Holmgren; soldado tipo Cat. No. 27660, U.S.N.M."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "zh_name": "福雷尔弓白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁体长 6—6.5 mm，头连上颚长 2.5 mm；全体白色，头白黄色；头大、球形、强烈凸起，后部强烈圆，前部收窄，长略大于宽；额无刺，前部具沟；上颚约为头长之半，端部漆黑、强壮、强烈弯曲，各于中部之前具一枚齿。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "体长 6—6.5 mm；头连上颚长 2.5 mm。体白色，头白黄色。头大、球形、甚凸，后方甚圆，前方收窄，长仅略大于宽。触角向端部各节明显变长，倒数第 4 节长为宽的 2 倍或更多，末节长为宽的 4 倍、长于前一节。额无刺，前方具沟。上颚长约为头之半，端部漆黑，粗壮，强烈弯曲，各在上颚中部之前具一齿。上唇卵形，不达上颚中部，长仅略大于宽，向端部变窄并尖。前胸背板小，几被头遮盖，较头窄一倍以上，横置。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0557",
+   "citation": "Wasmann, E. 1902. Species novae insectorum termitophilorum ex America Meridionali. Tijdschrift voor Entomologie 45: 95-107.",
+   "locator": "pp. 106-107 (Amitermes Foreli 新种)"
+  }
+ ],
+ "note": "据 Wasmann 1902 年拉丁文原始描述（新种 Amitermes Foreli 新种），仅描述兵蚁（Miles），模式产地哥伦比亚。原文触角节数 OCR 残损（作「44-vel 12-articulatae」，疑为 11 或 12 节），故条目内不写节数。文末另引 Silvestri 1901 年 Bollettino dei Musei di Zoologia ed Anatomia comparata della R. Università di Torino 16(389) 的记载。"
+}

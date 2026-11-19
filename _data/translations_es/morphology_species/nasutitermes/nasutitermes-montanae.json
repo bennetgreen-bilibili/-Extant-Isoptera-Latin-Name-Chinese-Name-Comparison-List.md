@@ -1,0 +1,13 @@
+{
+ "note": "La entrada sigue la descripción original de Holmgren de 1910 (solo el alado). El original es un texto OCR de biblioteca de un escaneo de BHL (espejo Zenodo/Plazi); la descripción original alemana se leyó línea por línea; las cifras que el OCR desordenó sin posibilidad de confirmación no se enumeran.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Cabeza pardo oscura y brillante; clípeo, labro, mandíbulas y antenas amarillo herrumbroso (segmento 1 algo más oscuro); tórax y patas amarillo herrumbroso, las coxas parduscas; alas pardo grisáceas; terguitos abdominales pardo oscuros y mates, los esternitos amarillentos en el centro y pardo grisáceos en los lados. Cabeza finamente pelosa; notas y esternitos torácicos bastante densamente pelosos; membrana alar finamente pelosa. Cabeza ampliamente ovalada; ojos compuestos grandes y prominentes; ocelos próximos a los ojos compuestos; suturas cefálicas muy indistintas; fontanela muy pequeña y triangular; una cicatriz muscular transversal lineal por delante de la fontanela; órgano antenal evidente; clípeo corto. Antenas de 16 segmentos: segmento 3 mucho más corto que el segmento 2 e igual al segmento 4, segmento 4 más ancho y casi circular; segmento 5 más corto que el segmento 2 pero más largo que el segmento 4. Pronoto (mucho) más estrecho que la anchura de la cabeza sin los ojos compuestos, más largo que la mitad de su anchura; borde anterior recto, ángulos anteriores deprimidos y casi angulosos; márgenes laterales débilmente arqueados y bastante largos; borde posterior muy indistintamente cóncavo en el centro. Mesonoto más profundamente cóncavo que el metanoto. Media próxima al cúbito con 1—2 ramas en su lado interno; cúbito con unas 12 ramas, de las cuales las 5 internas están engrosadas."
+  },
+  {
+   "label": "Otros",
+   "text": "El original describe solo el alado y no registra ni soldado ni obrero. La longitud del cuerpo con alas, la longitud de la cabeza y la anchura de la cabeza están desordenadas en el texto OCR y no pueden confirmarse, por lo que no se citan. Localidad tipo Montana, Surinam (recolectado por Holmgren)."
+  }
+ ]
+}

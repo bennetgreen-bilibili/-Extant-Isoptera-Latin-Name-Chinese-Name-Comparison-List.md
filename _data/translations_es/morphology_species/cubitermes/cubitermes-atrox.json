@@ -1,0 +1,17 @@
+{
+ "note": "Reescrito a partir de Hagen 1858. La entrada original de esta especie consta de una diagnosis latina (el texto original de Smeathman y la descripción de Termes arda de Fabricius, uno junto al otro) más comentarios en alemán (Monographie der Termiten, n.º 43 Termes atrox Smeathman, Smeathman, Philos. Transact. vol. 71, p. 141, no. 3, Tab. 10, fig. 14–18; Tab. 9). La distribución se indica como «África ecuatorial (Sierra Leone)», coincidente con la localidad tipo de la página de la entrada; el original registra además su nido como un nido cónico de arcilla de 2—3 pies de alto, con cúpula redondeada y borde completo y saliente, mezclado con tallos de hierba. Medidas: longitud del cuerpo 9 mm; longitud con alas 17 mm; envergadura 31 mm (el original de Smeathman da una envergadura de 1 1/2 pulgadas); larva 5 mm; soldado 8—13 mm (todas según las figuras originales). Hagen supuso que esta especie es en realidad un Eutermes próximo a T. arborum. El original utiliza ninfas de forma soldado con mandíbulas bifurcadas y larvas de forma obrera como descripciones de casta; esta entrada las reúne bajo soldado y obrero. Los errores de OCR (Terraes, atris, antennig, productp, nulüs, etc.) se han leído según el contexto.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Más pequeña que la especie precedente, negra, con los márgenes de cada segmento abdominal claros (blancos); las alas se disponen planas sobre el dorso y son negras; todas las patas son de color terroso claro. Descripción latina original: casi negra, márgenes de los segmentos abdominales claros, antenas y patas de color terroso, alas ahumadas, costa negra, ocelos situados por debajo, con una depresión puntiforme en el centro. Fabricius la describió por separado (Termes arda): negra, ápice de los segmentos abdominales claro, patas claras. Hagen señala que él mismo nunca vio el alado de esta especie y, a partir de la figura original de Smeathman, indica que sus ocelos son grandes y están lejos de los ojos compuestos."
+  },
+  {
+   "label": "Soldado",
+   "text": "El original, siguiendo la figura y la descripción de Smeathman, lo registra como puppa militans (ninfa de forma soldado): la cabeza es muy grande y de color terroso, elevada en la parte anterior a modo de joroba, ovalada en la posterior, roma y prolongada; las mandíbulas se proyectan hacia delante, son bifurcadas y negras; las antenas son moniliformes, de color terroso e iguales en longitud a la cabeza; no hay ojos (ciego); el tórax es pequeño, el abdomen ovalado y de color gris plomo; las patas son de color terroso. Medidas: longitud del cuerpo (según la figura original) 8—13 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Registrado en el original como larva operaria (larva de forma obrera): la cabeza es clara, las antenas moniliformes, los ojos ausentes (ciego), las mandíbulas cortas y dentadas; el tórax y el abdomen son ovalados y de color gris plomo; las patas son claras (en Entom. syst. se indican como de color terroso). Medidas: longitud del cuerpo 5 mm."
+  }
+ ]
+}

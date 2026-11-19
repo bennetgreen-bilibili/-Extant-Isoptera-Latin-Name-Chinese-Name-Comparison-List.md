@@ -1,0 +1,25 @@
+{
+  "zh_name": "大眼直颚白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "有翅成虫以复眼大、囟门小的组合区别于本属其他种；最相似的是 O. aduncus 与 O. wheeleri，区别在囟门小。兵蚁头壳大于 O. mirim 与 O. pilosus、小于 O. humilis，侧缘突起基部有明显弱收缩；最相似的是 O. aduncus，其侧缘突起基部无收缩。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "复眼大，与头下缘的距离小于单眼的最大直径。单眼背面观肾形、大；侧面观椭圆形，与复眼的距离小于其最小直径。囟门宽而小。头壳被短毛，散布刚毛。上唇刚毛排成两列。前胸背板被较密的短毛与刚毛；中胸背板与后胸背板有短毛，集中在中央与后缘。头深褐至褐色，前胸背板与背片褐色至淡褐，腹片淡黄色，足淡褐色，翅鳞褐色。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "背面观头侧平行，侧缘突起有明显弱收缩。侧面观背瘤突出，位于侧缘突起之后。上颚第一型，中部有齿状突。头壳有短毛（腹面较密）与散布刚毛，整个头壳有微小毛。后颏有刚毛。前胸背板有短毛与刚毛，边缘较多；中胸背板与后胸背板后缘有刚毛；腹部背片密被刚毛，腹片有短毛、后缘有直立刚毛。"
+    }
+  ],
+  "note": "据 Rocha & Cancello (2009) 新种描述改写，原文英文；无量度数据。",
+  "sources": [
+    {
+      "id": "S0228",
+      "citation": "Rocha M. M.; Cancello E. M. 2009. Revision of the Neotropical termite genus Orthognathotermes Holmgren (Isoptera: Termitidae: Termitinae). 10.11646/zootaxa.2280.1.1",
+      "locator": "p. 14（treatment 6213705）"
+    }
+  ]
+}

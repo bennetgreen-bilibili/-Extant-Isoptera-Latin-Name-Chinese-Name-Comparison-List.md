@@ -1,0 +1,25 @@
+{
+  "zh_name": "厚壳乳白蚁",
+  "sections": [
+    {
+      "label": "有翅成虫",
+      "text": "新大陆唯一翅色极深的本属种类：活体翅光亮近黑，酒精标本呈深褐；翅膜与基部脉极深着色，而 C. formosanus 与 C. gestroi 的翅色较浅。体背色在三种中最深，依次为 C. testaceus、C. gestroi、C. formosanus；仅 C. gestroi 有明显「触角斑」。翅被毛具鉴别性：基部四分之一几乎裸，径向扇区（RS）附近毛稀疏，第二段三分之一在径向扇区中部及肘脉（Cu）一带较密，端部三分之一被毛均匀；而 C. formosanus 与 C. gestroi 的翅面被毛几近均匀，前者毛更长更粗。量度（模式产地，mm）：前翅长含翅鳞 11.90—12.10；前翅宽 3.25—3.65；翅鳞长 1.13—1.20；前胸背板长 0.93—1.00、宽 1.43；头宽（不含眼）1.35—1.38；头长 1.10—1.18；眼径 0.38—0.40；单眼最大径 0.13—0.15；后足胫节长 1.38—1.48。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "额腺孔周围刚毛排列可用以区分近似种：本种通常有 3 对刚毛环绕额腺孔，C. formosanus 为 2 对，C. gestroi 为 1 对（C. sjostedti 亦 1 对）。头壳被毛在本种最密，其后依次为 C. formosanus、C. gestroi、C. sjostedti。背视头最大宽位于头壳中点之前（其余种多在中点或略后）。侧视头顶在抵达额腺孔前的曲线，C. formosanus 为平缓弧线、末端骤降，C. gestroi 为斜曲后至额腺孔。量度（模式产地，mm）：头长 1.38—1.50；头高（不含后颏）0.73—0.90；头最大宽 1.13—1.30；左上颚长 0.85—0.95；额腺孔高 0.15、宽 0.18—0.23；前胸背板长 0.48—0.55、宽 0.83—0.95；后足胫节长 1.03—1.05。"
+    },
+    {
+      "label": "其他",
+      "text": "分类注记：C. crassus（Snyder, 1922）与 C. niger（Snyder, 1922）原以兵蚁及部分有翅成虫描述，本文据 1,977 号标本的形态量度与 16S 序列判定二者均为本种的地区性记述，并入本种（优先律）。分布：新热带广布，为亚马孙地区主要的活树筑巢白蚁，可入红树林与海岸林；特立尼达、格林纳达等岛亦有分布。本文所载配对飞行记录（洪都拉斯，2007-05-30，昼间）估算逾 430 万只/km²。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0584",
+      "citation": "Scheffrahn R.H.; Carrijo T.F.; Křeček J.; Su N.-Y.; Szalanski A.L.; Austin J.W.; Chase J.A.; Mangold J.R. 2015. A single endemic and three exotic species of the termite genus Coptotermes (Isoptera, Rhinotermitidae) in the New World. Arthropod Systematics & Phylogeny 73(2): 333–348. https://doi.org/10.3897/asp.73.e31811",
+      "locator": "pp. 340–341"
+    }
+  ],
+  "note": "据 Scheffrahn et al. (2015) 对 C. testaceus（含同物异名 C. crassus、C. niger）新大陆标本的形态比较与量表改写；原文未逐项重写全形描述，而是给出鉴别特征与量度区间。量度均为模式产地标本。"
+}

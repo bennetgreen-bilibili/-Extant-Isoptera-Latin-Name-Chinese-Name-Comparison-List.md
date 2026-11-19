@@ -1,0 +1,21 @@
+{
+ "note": "According to Haviland's 1898 original description (in English). The handwriting OCR read the species name as brevicorjsts. The original was extracted by OCR from an Internet Archive scan, and the scientific names and some word forms are misread (e.g. eostratus for rostratus, latierons for laticornis); the measurement figures have been checked against the context.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Body length 5 mm, head chestnut, dorsum of the thorax and abdomen nearly brick red, venter Isabelle yellow. Ocelli almost touching the compound eyes. Fenestra narrow. Antennal segments 2, 3 and 4 nearly equal. Postclypeus slightly convex and projecting. Anterior margin of the pronotum slightly concave, the anterolateral corners obtusely rounded, the posterior margin hardly lobed. Posterior margins of the meso- and metanotum broadly lobed. Fore wing bud larger than the hind wing bud. Hind legs reaching almost the end of the abdomen. Abdominal papillae absent."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body length 5 mm. Head pale yellowish white, length 1.5 mm, width 1.0 mm; the anterior angular process (nasus) very short and blunt, the head at the level of the antennal insertions nearly truncate. Antennae 14-segmented, segments 2 and 3 nearly equal, segment 4 shorter, the segments from 5 on nearly equal. Labrum small, pale, slightly upturned, with two minute, sharp, divergent lobes. Mandibles 1.6 mm long, setiform, slightly upward at the base and then curved downwards. Base of the postmentum not very narrow, widening towards the apex to almost twice. Pronotum saddle-shaped, the convex anterior lobe raised very high. Hind legs reaching almost the end of the abdomen. Abdomen elongate-oval, spindle-shaped, coloured by the gut contents. Abdominal papillae absent."
+  },
+  {
+   "label": "Worker",
+   "text": "Body length 4 mm. Head white, antennae 14-segmented. Postclypeus convex. Abdomen elongate-oval, dark from the gut contents."
+  },
+  {
+   "label": "Other",
+   "text": "Female: the sternite of the 7th abdominal segment is about half as long as wide. The queen's abdomen is 15 mm long, with secondary sclerotized plates, the lateral membrane with small scattered pigment dots. Locality: Borneo (Sarawak). Type no. 458."
+  }
+ ]
+}

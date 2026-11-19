@@ -1,0 +1,29 @@
+{
+  "zh_name": "婆罗瓢白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "有翅成虫（据 Haviland 原记）：体暗烟褐色，头栗褐色，中、后胸背板前部、触角与足淡黄白色；头卵形；单眼与复眼相距近一个直径；触角 15 节，第 3 节与第 2 节近等长；前胸背板宽 1 mm，前缘直；中、后胸背板后缘各具两个宽而钝角的叶；翅 9 mm 长、2.5 mm 宽，烟褐色，中脉偏近亚中脉而远离亚前缘脉，在翅端四分之一处发出 2—3 个分支，亚中脉伸至距翅端五分之一处、具 8 个分支；后足伸达腹端。兵蚁头褐黄色，颈背有一近白色斑；头梨形、较长，收窄弱；鼻短而粗、锥形；触角 13 节；体长 2.7—3 mm。工蚁头宽卵形、略呈五边形，触角 13 节，体长 3 mm，头宽 0.72 mm。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "体暗烟褐色；头栗褐色；中胸与后胸背板前部、触角及足淡黄白色。头卵形。单眼与复眼相距近一个直径。囟（fenestra）颇不明显。触角 15 节，第 3 节与第 2 节近等长。唇基片不突出。前胸背板宽 1 mm，前缘直。中胸与后胸背板后缘各具两个宽而呈钝角的叶。前翅芽仅略大于后翅芽。翅长 9 mm、宽 2.5 mm，烟褐色；中脉较近亚中脉而远离亚前缘脉，在翅端四分之一处发出 2—3 个分支；亚中脉伸至距翅端五分之一处，具 8 个分支。后足伸达腹部末端。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头褐黄色，颈背有一近白色斑；腹部背板浅褐色。头具 1 对刚毛；腹部背板有微毛及一列弱的后缘刚毛。头梨形、延长，收窄弱；鼻短而粗、锥形；额部轮廓直。触角 13 节；第 3 节长于第 2 节；第 4 节与第 3 节等长。前胸背板马鞍形，前缘无缺刻。体长 2.7—3 mm。产地：婆罗洲砂拉越（Haviland 采）。"
+    },
+    {
+      "label": "工蚁",
+      "text": "头黄色，体近白色。头与腹部背板被毛极稀。头宽卵形（略呈五边形）；头缝与额腺不明显；前唇基很短、颇隆起。触角 13 节；第 3 节短于第 2 节；第 4 节约与第 2 节等长。前胸背板马鞍形，前缘无缺刻。腹部大、略膨大。体长 3 mm；头宽 0.72 mm。"
+    }
+  ],
+  "note": "据 Holmgren (1913)《Termitenstudien 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region》(Kungliga Svenska Vetenskaps-Akademiens Handlingar 50(2): 1–276) 第 12 种「Eutermes (E.) borneensis Hav.」改写，原文为德文；有翅成虫一节系 Holmgren 逐字引述 Haviland 的英文原记，兵蚁与工蚁为 Holmgren 的记述。原始描述见 Haviland (1898)《Observations on termites; with descriptions of new species》。原文兵蚁的头连鼻长、头不连鼻长、头宽与前胸背板宽几项在 OCR 中数字残缺（约 1.1、0.61、0.37 mm），未录入；图版（Tafel VII, Fig. 13）未录。",
+  "sources": [
+    {
+      "id": "S0561",
+      "citation": "Roonwal M. L. and Chhotani O. B. 1997. The Fauna of India and the Adjacent Countries: Isoptera (Termites), Volume I. https://archive.org/details/dli.zoological.fi.026",
+      "locator": "pp. 175–176（第 12 种）"
+    }
+  ]
+}

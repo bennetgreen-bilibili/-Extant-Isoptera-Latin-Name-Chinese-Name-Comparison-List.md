@@ -1,0 +1,17 @@
+{
+ "note": "Adaptado de la descripción original de Wasmann (1893): el alado en latín y el soldado y el obrero en alemán; abarca las tres castas. El número de artejos antenales y el de ramas de la submediana están dañados en el escaneo del original («8—0»), por lo que solo se registran los valores legibles. Localidad tipo: Andrangoloaka, Madagascar.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Negro de pez, brillante, cubierto de pelos grises; cabeza pardo oscura, mesonoto amarillo pálido, piezas bucales, patas y cara ventral del tórax amarillo pálido, antenas grises con anillos blancos, de 14 artejos. Ocelos de tamaño mediano, a una distancia del ojo compuesto aproximadamente igual a su diámetro. Posclípeo muy convexo, con un surco longitudinal mediano; frente plana, la fontanela apenas sobresaliente y sin depresión a su alrededor. Cabeza grande y redondeada, mucho más ancha que el tórax; tórax estrecho y corto, semicircular; apéndices del extremo del abdomen cortos, cónicos, de 2 artejos. Alas cortas, claras, venas pardas; media recta, simple o bifurcada en el ápice; submedia con varias ramas; media y submedia se desvanecen hacia el ápice. Longitud del cuerpo 6 mm, con alas 11 mm. Más pálida que las especies afines, sobre todo por una gran mancha amarilla en el mesonoto, la cabeza relativamente mayor y el tórax menor, y las alas claramente más cortas y pálidas."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cuerpo de tamaño semejante a Eutermes capricornis, unos 6 mm con las mandíbulas, pero con las mandíbulas de estructura completamente distinta: cabeza con mandíbulas de casi 3 mm, de los cuales las mandíbulas solo miden 1 mm. Cabeza amarillo pálido, rectangular alargada, gruesa, casi cilíndrica, el doble de larga que ancha, sin ojos, sin fontanela manifiesta por encima del labro; mandíbulas de solo 1/2 de la longitud de la cabeza, pardo negruzcas, simplemente en forma de cuchilla, con dientes finos en el margen interno y el ápice agudo. Antenas de 13 artejos, algo más cortas que la cabeza, el último apenas más largo que el penúltimo y romo, los demás también cortos, casi tan largos como anchos."
+  },
+  {
+   "label": "Obrero",
+   "text": "Longitud del cuerpo 4—5 mm. Cabeza amarilla y redondeada; labro (epistoma) hinchado y elevado, con una depresión semicircular por encima, delimitada por delante por una ampolla frontal blanca, aplanada y semilunar; antenas de 13 artejos, tan largas como la cabeza."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "zh_name": "尖齿真唇白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "与典型形态的区别在于：头略小，上颚略长且颚齿较小而尖，上唇略狭，触角第 3 节略大。头长 2 mm、宽 1.36 mm；上颚长 1.57 mm；后足胫节 1.20 mm。模式产地为黄金海岸（今加纳）Aburi。"
+    },
+    {
+      "label": "鉴别要点",
+      "text": "上颚长为 1.57 mm，明显长于 var. arcuata（1.32 mm）与指名亚种（1.38 mm），且颚齿小而尖；头较指名亚种略小（长 2 mm 对 2.08 mm）。"
+    }
+  ],
+  "note": "据 Silvestri (1914) 描述改写（原以 Euchilotermes tensus var. acutidens 之名发表，后提升为种）；原文为拉丁文；仅描述兵蚁，未描述蚁后与工蚁；量度单位 mm 照原文。",
+  "sources": [
+    {
+      "id": "S0534",
+      "citation": "Silvestri F. 1914. Contribuzione alla conoscenza dei Termitidi e Termitofili dell'Africa occidentale. I. Termitidi. Bollettino del Laboratorio di Zoologia Generale e Agraria della R. Scuola Superiore d'Agricoltura in Portici 9: 1-146. https://archive.org/details/bollettinodellab9191415rscufo",
+      "locator": "p. 89"
+    }
+  ]
+}

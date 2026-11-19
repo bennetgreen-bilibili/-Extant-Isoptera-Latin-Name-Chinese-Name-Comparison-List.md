@@ -1,0 +1,25 @@
+{
+  "zh_name": "埃尔哈特象白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "Holmgren 1910 将其作为 E. Rippertii 的一个形式（forma Ehrhardti）描述；今视为独立种。有翅成虫体长 21 mm、体宽 6 mm、头长 1.65 mm，觖角 16 节；兵蚁头铁锈黄、鼻端较深，觖角 13 或常为 14 节。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "头壳浅栗褐色，后尘一、觖角、上唇与上颌基部稻草黄色，胸背板灰褐色；腹部背板褐色，腹板浅铁锈黄。头刚毛不密，体余刚毛较密。头宽卵形；复眼大且突出；单眼相当大，跟复眼仅略有距离；额痕长裂缝状；头壳缝弱可见；横带处肌肉着生痕在额痕前方呈弱弧；觖角器官相当明显；后尘一基部相当短。觖角 16 节：第 3 节短于第 2 节且与第 4 节等长。前胸背板长为其宽的一半，前缘平直，后缘中央凹入。量度：体长 21 mm；体宽 6 mm；头长 1.65 mm；自横带前缘至后头 1.15 mm（头宽数字 OCR 模糊，未录）。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头壳铁锈黄色，鼻端较深；体背面黄至铁锈黄至浅褐，腹面与足较淡。头在鼻基与头顶有几根刚毛；腹部背板密被极细毛，板后缘有较长刚毛；腹板毛较背板长。额轮廓相当直，鼻基有隆起；鼻背与头顶轮廓成一直线。觖角有时 13 节、通常 14 节。前胸背板鞍状。（本种兵蚁量度在原文中为对比式描写，未给独立数值，故不录。）"
+    }
+  ],
+  "note": "描述取自 Holmgren 1910 对 Eutermes Ripperti f. Ehrhardti 的原始描述（德文），含有翅成虫（原文称 Königin，实为有翅成虫）与兵蚁；模式产地巴西 Rio Grande do Sul、Santa Catarina: Blumenau、Jaraguá。作者当时定位为 E. Rippertii 的一个形式，学名今作 Nasutitermes ehrhardti。原文为德文，BHL 扫描件 OCR 质量一般：小数点常被误认作逗号或冒号，部分量度数字模糊，模糊者不录。学名当时置于 Eutermes 属，现归 Nasutitermes。",
+  "sources": [
+    {
+      "id": "S0607",
+      "citation": "Holmgren, N. 1910. Versuch einer Monographie der amerikanischen Eutermes-Arten. Mitteilungen aus dem Naturhistorischen Museum in Hamburg 27: 171–325.",
+      "locator": "pp. 276–277"
+    }
+  ]
+}

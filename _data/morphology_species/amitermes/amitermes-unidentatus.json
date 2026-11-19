@@ -1,0 +1,25 @@
+{
+  "zh_name": "单齿弓白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "兵蚁上颚齿突出程度弱于 A. truncatidens、A. evuncifer、A. importunus；兵蚁与工蚁前足基节均无刺，据此与 A. messinae、A. spinifer 区分。兵蚁头壳与上颚形状、比例高度变异。A. elongatus、A. limpopoensis、A. meruensis、A. macrocephalus 的模式或地模标本与大量 A. unidentatus 标本构成连续变异系列，均降为本种同物异名。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "对 Sjöstedt 原描述作如下补充：囟大于单眼，变异大，可从平坦至深凹，有时很大、超过眼径之半；后唇基膨大，后缘凸、两侧略波状，前缘平直；左上颚第 3 缘齿明显，端齿与第 1 缘齿之间的距离通常小于第 1 与第 3 缘齿之间的距离；触角 14—15 节。量度（mm）：头宽连眼 1.04—1.22；眼最大直径 0.26—0.32；单眼 0.07—0.09 × 0.09—0.13；单眼至眼 0.05—0.09；前胸背板宽 0.86—1.11，长 0.56—0.75；后足胫节长 1.04—1.33；前翅长 8.40—12.0。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头壳与上颚的形状和比例高度变异。头背面观通常近矩形；侧面观自囟至后头连续弯曲，前方弯曲较浅。兵蚁上颚齿自突出至近于消失不等。兵蚁与工蚁前足基节均无刺。量度（mm）：头长 1.13—1.79；头最宽 0.96—1.39；上颚基处头宽 0.72—0.93；头厚 0.75—1.11；左上颚长 0.66—0.90；前胸背板长 0.32—0.47，宽 0.57—0.84；后足胫节长 0.87—1.14。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0554",
+      "citation": "Sands, W. A. 1959. A revision of the termites of the genus Amitermes from the Ethiopian region (Isoptera, Termitidae, Amitermitinae). Bulletin of the British Museum (Natural History), Entomology 8: 129-156.",
+      "locator": "pp. 154—156（Amitermes unidentatus (Wasmann)）"
+    }
+  ],
+  "note": "据 Sands 1959 年英文描述改写；原文英文，有翅成虫一节系对 Sjöstedt 描述的补充，兵蚁一节记变异与量度但未重述全形；扫描件 OCR 将小数点识读为冒号、且连字符与冒号混用（如「1:04-1:22」「0-:72—0:93」），量度按列位与均值还原为区间，未采均值；原文记 Sjöstedt 关于黄金海岸的记录未能核查、未采入。"
+}

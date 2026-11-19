@@ -1,0 +1,17 @@
+{
+ "note": "La entrada sigue la descripción original de Holmgren de 1910 (soldado y obrero). El original es un texto OCR de biblioteca de un escaneo de BHL (espejo Zenodo/Plazi); la descripción original alemana se leyó línea por línea; las cifras que el OCR desordenó sin posibilidad de confirmación no se enumeran.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Longitud del cuerpo 4—4.5 mm; longitud de la cabeza 1.8—1.89 mm (4 especímenes medidos); anchura de la cabeza 1.25—1.35 mm (según la clave, la cifra del texto está desordenada por el OCR). Cabeza amarillo rojiza, antenas pardo amarillentas con anillos pálidos; notas y terguitos abdominales pardo amarillento pálido; cara ventral y patas más pálidas, amarillo pálido. Cabeza con pelos microscópicos (muy) escasos y cerdas más largas adicionales en la base de la nasa y en el vértice; terguitos abdominales finamente pelosos con cerdas más largas en el borde posterior pero ausentes en el centro del dorso; esternitos con pelos y cerdas más largos. Cabeza grande, esférica y circular; contorno frontal casi perfectamente recto, solo un indicio de elevación en la base de la nasa; nasa relativamente estrecha. Antenas de 13 o 14 segmentos: segmento basal igual a la suma de los dos siguientes; segmento 3 casi el doble de largo que el segmento 2; segmento 4 igual o algo más largo que el segmento 2; segmentos 5, 6 y 7 aproximadamente iguales en longitud y más largos que el segmento 4; desde el segmento 8 los segmentos progresivamente más cortos (con 14 segmentos: segmento 2 igual al segmento 3 y segmento 4 algo mayor). Borde anterior del pronoto no cóncavo."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza pardo rojiza (pardo castaña), la parte anterior de la banda transversal más pálida; suturas cefálicas, clípeo, labro, base de las mandíbulas, región alrededor de las antenas, antenas y el resto del cuerpo blanco amarillento a amarillo herrumbroso. Cabeza finamente pelosa; terguitos abdominales con pelos cortos y bastante densos; esternitos con pelos y cerdas marginales más largos y densos. Cabeza de forma habitual; fontanela alargada y sus límites con la sutura sagital indistintos; clípeo igual a la mitad de su anchura. Antenas de 14 o 15 segmentos (con 14: segmento 3 algo más largo que el segmento 2, segmento 4 corto; con 15: segmentos 3 y 4 difíciles de distinguir, segmento 3 algo más corto que el segmento 2, segmento 4 igual o algo más corto que el segmento 3). Borde anterior del pronoto muy claramente cóncavo. Longitud del cuerpo del obrero 5 mm (las cifras de longitud y anchura de la cabeza están desordenadas por el OCR y no se citan)."
+  },
+  {
+   "label": "Otros",
+   "text": "El original se publicó como Eutermes Nordenskioeldi n. sp.; la figura 57 muestra la cabeza del soldado. Localidades: Quinta, sur de Bolivia (recolectado por E. Nordenskiöld); Icano y Salado, Chaco de Santiago del Estero, Argentina (recolectado por Wagner)."
+  }
+ ]
+}

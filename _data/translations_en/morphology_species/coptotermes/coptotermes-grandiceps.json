@@ -1,0 +1,21 @@
+{
+ "note": "Rewritten from the species-level description by Bourguignon & Roisin (2011); the original is in English and describes the soldier and alate. The measurements keep the mm units of the original, with the abbreviations given in parentheses where they first appear; the original gives three separate sets of figures, for the holotype of C. obiratus, for an individual of the type colony of C. grandiceps and for 27 soldiers from 9 colonies.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Closely related to Coptotermes pamuae, from which it is distinguished by the larger soldier and the more strongly curved mandibles."
+  },
+  {
+   "label": "Alate",
+   "text": "Head moderately hairy; pronotum with numerous medium-sized setae; antennae 20-segmented. Measurements (mm, 6 individuals from the same colony): total body length (TBL) 6.08—7.55; head length to clypeus (HLC) 1.19—1.27; head width including eyes (HWE) 1.33—1.41; pronotum length (PL) 0.73—0.82; pronotum width (PW) 1.23—1.29; forewing length (FWL) 9.97—10.61; eye diameter (ED) 0.31—0.42."
+  },
+  {
+   "label": "Soldier",
+   "text": "Large. Head elongate, wider posteriorly than anteriorly, with about 30 setae; frontal gland narrow, opening anteriorly, not visible from above; antennae usually 15-segmented, sometimes 14-segmented; pronotum broad, of medium length, with about 60 setae; mandibles elongate, curved apically. Measurements (mm, holotype of C. obiratus; in square brackets the single individual of the type colony of C. grandiceps; in parentheses 27 soldiers from 9 colonies): head length to fontanelle (HLF) 1.53 [1.52] (1.21—1.44); head length with mandibles (HLL) 2.17 [2.19] (1.89—2.20); head width (HW) 1.38 [1.31] (1.17—1.33); pronotum length (PL) 0.51 [0.50] (0.40—0.56); pronotum width (PW) 0.97 [0.95] (0.79—1.00); right mandible length (RML) 1.17 [1.24] (1.03—1.15); postmentum width (MPW) 0.48 [0.42] (0.31—0.46); hind tibia length (T3L) 1.22 [n.a.] (1.07—1.21)."
+  },
+  {
+   "label": "Other",
+   "text": "Type locality: Solomon Islands; recorded from southern New Guinea and the Papuan peninsula."
+  }
+ ]
+}
