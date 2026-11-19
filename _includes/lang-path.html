@@ -1,0 +1,25 @@
+{%- comment -%}
+  把当前页 URL 的语言前缀（/en、/es）去掉，结果写进 `path_no_lang`。
+  站内按「中文页 URL」建键的数据（_data/ 里的 fauna_*、morphology_*、taxon_literature…）
+  与 hreflang、语言切换器都用这个键，所以外文页必须先还原成无前缀形式。
+
+  **不要**再写成 `page.url | remove_first: '/en' | remove_first: '/es'`：
+  `remove_first` 剥的是整条 URL 里**第一个**出现的 "/en"，并不锚定在开头。
+  属名 / 种名 / 亚科名以 en 开头时（enetotermes、engelitermes、engelitermitinae…），
+  /genus/enetotermes/ 的首个 "/en" 落在 "genus|en…" 之间，被剥成 /genusetotermes/——
+  于是 hreflang、语言切换器、文献与形态描述的数据键一起指向一个不存在的地址
+  （GSC 2026-11-14 报出的 https://termite-extant-isoptera.org/genusetotermes/ 404 就是这个）。
+
+  正确做法：只看**第一段**是不是 en / es，是才按那一段的长度整段切掉，否则原样返回。
+  调用方先 include 本文件，再把 path_no_lang assign 到自己的变量名，例如：
+
+      {%- include lang-path.html -%}
+      {%- assign lit_key = path_no_lang -%}
+{%- endcomment -%}
+{%- assign _lp_segs = page.url | split: '/' -%}
+{%- assign path_no_lang = page.url -%}
+{%- if _lp_segs[1] == 'en' or _lp_segs[1] == 'es' -%}
+  {%- assign _lp_cut = _lp_segs[1] | size | plus: 1 -%}
+  {%- assign path_no_lang = page.url | slice: _lp_cut, 100000 -%}
+  {%- if path_no_lang == '' -%}{%- assign path_no_lang = '/' -%}{%- endif -%}
+{%- endif -%}

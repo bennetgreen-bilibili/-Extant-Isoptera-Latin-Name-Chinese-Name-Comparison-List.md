@@ -124,8 +124,8 @@
 <link rel="alternate" type="application/feed+json" title="{{ site.title_zh }}" href="{{ site.base_url }}/feed.json">
 <link rel="alternate" type="application/atom+xml" title="Changelog" href="{{ site.base_url }}/changelog.atom">
 <link rel="search" type="application/opensearchdescription+xml" title="{{ site.title_zh }}" href="{{ site.base_url }}/opensearch.xml">
-{%- comment -%} 页面路径去掉语言前缀（/en、/es），用于 hreflang 与语言切换 {%- endcomment -%}
-{% assign path_no_lang = page.url | remove_first: '/en' | remove_first: '/es' %}
+{%- comment -%} 页面路径去掉语言前缀（/en、/es），用于 hreflang 与语言切换；只认第一段，实现见 _includes/lang-path.html {%- endcomment -%}
+{% include lang-path.html %}
 {%- comment -%} 只有名录主页面才加载地图 / 文献增强与名录排版；/list/ 的子页面（如 /list/name-issues/）不继承这些资源 {%- endcomment -%}
 {%- assign is_list_page = false -%}{%- if path_no_lang == '/list/' -%}{%- assign is_list_page = true -%}{%- endif -%}
 {%- assign is_papers_page = false -%}{%- if path_no_lang == '/papers/' -%}{%- assign is_papers_page = true -%}{%- endif -%}

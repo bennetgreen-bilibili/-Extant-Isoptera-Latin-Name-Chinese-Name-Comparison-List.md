@@ -3,7 +3,7 @@
     "version": 1,
     "count": 490,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-19T02:30:03+08:00",
+    "updated": "2026-11-19T18:50:33+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -26857,7 +26857,7 @@
       "file_path": "_unpublished/文库/hill-1927-termites-australian-region-1",
       "chars": 332231,
       "retrieved_via": "文库（外部文本（--text））",
-      "accessed": "2026-11-19T02:30:03+08:00",
+      "accessed": "2026-11-19T18:50:33+08:00",
       "notes": "全文存于 _unpublished/文库/hill-1927-termites-australian-region-1（332231 字符），抽取：外部文本（--text）；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "hill-1927-termites-australian-region-1",
@@ -26893,6 +26893,7 @@
       "lang": "en",
       "url": "https://archive.org/details/memoirsnational7natia",
       "used_in": [
+        "_data/morphology_species.json",
         "_reports/species-morphology-coverage.md"
       ],
       "evidence": [

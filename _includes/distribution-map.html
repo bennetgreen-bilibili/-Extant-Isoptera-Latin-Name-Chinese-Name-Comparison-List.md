@@ -117,7 +117,8 @@
 </div>
   {%- endif -%}
 {%- elsif dmode == 'species' -%}
-  {%- assign dm_slug = page.url | remove_first: '/en' | remove_first: '/es' | remove_first: '/species/' | remove: '/' -%}
+  {%- include lang-path.html -%}
+  {%- assign dm_slug = path_no_lang | remove_first: '/species/' | remove: '/' -%}
   {%- assign dm = site.data.occurrence_summary.species[dm_slug] -%}
   {%- if dm and dm.file -%}
 <div class="species-map" aria-labelledby="species-map-title" data-pagefind-ignore data-taxon="{{ dm_slug }}">

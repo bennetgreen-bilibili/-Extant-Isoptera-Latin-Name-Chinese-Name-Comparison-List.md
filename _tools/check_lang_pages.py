@@ -33,7 +33,13 @@ C. 单语：三个语言的页面正文都不得出现 `fact-en` / `fact-es` / `
 D. 站内链接：en/es 页里的 {{ site.base_url }}/family/… 一类必须是 /en/family/… 或
    /es/family/…，且不得出现 /en/en/ 双前缀；
 E. 译文覆盖率（警告）：_data/translations_en.json / translations_es.json 是否存在，
-   以及 _tools/check_translations.py 的合并结果（若已生成）。
+   以及 _tools/check_translations.py 的合并结果（若已生成）；
+F. 语言前缀剥离：`_layouts/` 与 `_includes/` 里不得再用
+   `page.url | remove_first: '/en' | remove_first: '/es'`——`remove_first` 剥的是整条 URL
+   里第一个出现的 "/en"，不锚定在开头，属名 / 种名 / 亚科名以 en 开头时
+   （/genus/enetotermes/）会被剥成 /genusetotermes/，hreflang、语言切换器与
+   `_data/` 的数据键一起指向不存在的地址（GSC 2026-11-14 报过这个 404）。
+   统一走 `_includes/lang-path.html`。
 
 用法
 ----
@@ -81,6 +87,11 @@ SECTIONS = (
 )
 
 FM_RE = re.compile(r"\A---\s*\n(.*?)\n---\s*\n", re.S)
+
+# F 语言前缀剥离：只允许走 _includes/lang-path.html
+STRIP_BAD = re.compile(r"remove_first:\s*['\"]/(?:en|es)['\"]")
+# 这个文件在注释里**示范**「不要这么写」，所以它自己命中的不算错
+STRIP_DOC = {"_includes/lang-path.html"}
 
 
 class Report:
@@ -218,6 +229,32 @@ def load_units(only):
     return units
 
 
+def check_lang_prefix_strip(rep):
+    """F 语言前缀剥离：模板里不得再用 remove_first 剥 /en、/es。
+
+    remove_first 剥的是整条 URL 里第一个出现的 "/en"，不锚定在开头：
+    /genus/enetotermes/ → /genusetotermes/（GSC 2026-11-14 报的 404 就是这么来的）。
+    统一走 _includes/lang-path.html（它只看第一段）。
+    """
+    for sub in ("_layouts", "_includes"):
+        d = os.path.join(ROOT, sub)
+        if not os.path.isdir(d):
+            continue
+        for name in sorted(os.listdir(d)):
+            if not name.endswith(".html"):
+                continue
+            rel = "%s/%s" % (sub, name)
+            if rel in STRIP_DOC:
+                continue
+            with open(os.path.join(d, name), encoding="utf-8") as fh:
+                for lineno, line in enumerate(fh, 1):
+                    if STRIP_BAD.search(line):
+                        rep.err("E040", rel,
+                                '第 %d 行用 remove_first 剥语言前缀：它剥的是 URL 里第一个 "/en"、'
+                                "不锚定开头，属名/种名以 en 开头时会剥出错误地址；"
+                                "改用 _includes/lang-path.html" % lineno)
+
+
 def coverage(rep):
     if not (os.path.isfile(TRANS_EN) and os.path.isfile(TRANS_ES)):
         rep.warn("W010", "_data/translations_*.json", "译文文件尚未生成（en/es 页会缺小节）")
@@ -253,6 +290,7 @@ def main(argv=None):
         for lang, prefix, want in LANGS:
             check_page(rep, rank, slug, lang, prefix, want)
     coverage(rep)
+    check_lang_prefix_strip(rep)
 
     if not args.quiet:
         print("检查页面：%d 个文件（%d 个分类单元/物种 × 3 语言）" % (rep.checked, len(units)))

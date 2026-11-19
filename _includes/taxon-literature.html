@@ -16,13 +16,15 @@
 
   三语分页之后（2026-11）：本 include 只输出当前页面语言那一份，不再有页内切换按钮
   （切换改由站点语言切换器负责）；数据键仍是**不带语言前缀**的 URL（/family/x/），
-  所以这里直接从 page.url 去掉 /en、/es 得到该键（不能依赖 path_no_lang：它在
-  default.html 里赋值，晚于本 include 的调用，外文页会因此取不到数据）。外文页缺 text_en / text_es 的段落整段省略，
+  所以本 include 自己调一次 _includes/lang-path.html 取出无前缀的 path_no_lang 当数据键
+  （不能指望 default.html 那一次赋值：它晚于本 include 的调用，外文页会因此取不到数据）。
+  外文页缺 text_en / text_es 的段落整段省略，
   回退中文的只是极少数兜底，不允许再出现。
 {%- endcomment -%}
 {%- comment -%} 本 include 在 species.html 与分类页正文里被调用，那时 default.html 的 path_no_lang 还没赋值；
-     这里直接用 page.url 去掉语言前缀，中英西三套页面都能取到同一个数据键。 {%- endcomment -%}
-{%- assign lit_key = page.url | remove_first: '/en' | remove_first: '/es' -%}
+     lang-path.html 自足，中英西三套页面都能取到同一个数据键。 {%- endcomment -%}
+{%- include lang-path.html -%}
+{%- assign lit_key = path_no_lang -%}
 {%- assign lit = site.data.taxon_literature[lit_key] -%}
 {%- assign LL = page.lang | default: 'zh-CN' -%}
 {%- if lit -%}

@@ -97,6 +97,12 @@ defaults:
       path: "AGENTS.md"
     values:
       sitemap: false
+  # 站点内部索引：给以后改站的 AI / 维护者用的入口表，不是给读者看的页面
+  -
+    scope:
+      path: "SITE-INDEX.md"
+    values:
+      sitemap: false
   -
     scope:
       path: "现存等翅下目 Extant Isoptera（白蚁领科）拉丁学名 — 中文正名对照名录Latin Name — Chinese Name Comparison List.md"

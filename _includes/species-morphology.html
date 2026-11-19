@@ -8,7 +8,8 @@
 {%- assign LP = '' -%}
 {%- if page.lang == 'en' -%}{%- assign LP = '/en' -%}
 {%- elsif page.lang == 'es' -%}{%- assign LP = '/es' -%}{%- endif -%}
-{%- assign zh_url = page.url | remove_first: '/en' | remove_first: '/es' -%}
+{%- include lang-path.html -%}
+{%- assign zh_url = path_no_lang -%}
 {%- assign morph = site.data.morphology_species[zh_url] -%}
 {%- assign fauna = site.data.fauna_species[zh_url] -%}
 {%- if page.lang == 'en' -%}

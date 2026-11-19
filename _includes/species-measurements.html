@@ -1,4 +1,5 @@
-{%- assign zh_url = page.url | remove_first: '/en' | remove_first: '/es' -%}
+{%- include lang-path.html -%}
+{%- assign zh_url = path_no_lang -%}
 {%- assign fmeas = site.data.fauna_measurements[zh_url] -%}
 {%- assign mterms = site.data.fauna_measure_terms -%}
 {%- if fmeas and fmeas.tables.size > 0 -%}

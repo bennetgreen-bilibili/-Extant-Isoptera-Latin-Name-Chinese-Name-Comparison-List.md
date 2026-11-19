@@ -13,9 +13,11 @@
 {%- endcomment -%}
 {%- comment -%}
   页面 URL 去掉语言前缀回到数据键（数据键一律是 /genus/<id>/）：
-  /en/genus/x/、/es/genus/x/ 都要还原成 /genus/x/。
+  /en/genus/x/、/es/genus/x/ 都要还原成 /genus/x/。前缀剥离统一走 _includes/lang-path.html
+  （只认第一段，不会把属名里的 "en" 一起剥掉——/genus/enetotermes/ 曾因此取不到数据）。
 {%- endcomment -%}
-{%- assign _key = page.url | remove_first: '/en' | remove_first: '/es' -%}
+{%- include lang-path.html -%}
+{%- assign _key = path_no_lang -%}
 {%- assign _fz = site.data.fauna_genera[_key] -%}
 {%- assign gs = site.data.genus_sources[_key] -%}
 {%- assign mg_zh = site.data.morphology_genera[_key] -%}
