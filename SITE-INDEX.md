@@ -376,7 +376,7 @@ cd ../.. && python _tools/merge_lang_sites.py
 | 物种页 `_species/*.md` | 3089 |
 | 科页 / 亚科页 / 属页（中文） | 13 / 18 / 326 |
 | `_data/` 顶层文件 | 26 |
-| `_data/` 分片目录（数据集 / 分片文件） | 14 / 8062 |
+| `_data/` 分片目录（数据集 / 分片文件） | 14 / 8245 |
 | `build_*.py` 脚本（`_tools/` + `.github/workflows/`） | 20 |
 | 说明文档（`_tools/*.md` / `_reports/**/*.md`） | 15 / 16 |
 

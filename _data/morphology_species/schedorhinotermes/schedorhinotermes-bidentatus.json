@@ -1,0 +1,21 @@
+{
+ "zh_name": "双齿长鼻白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "大型兵蚁头深黄、长方形，仅略长于宽；上唇前缘两叶，右上颚 2 枚、左上颚 1 枚（或 2 枚）缘齿，两上颚均短；触角 16 节，第 3 节几为第 2 节长的两倍；后颏前部宽为中部腰宽的 2 倍；前胸背板前缘无凹缺、后缘有凹缺。小型兵蚁与大型兵蚁相似而体很小，上唇几达上颚端部，触角 16 节，第 2 节与第 3 节等长、第 4 节最短。有翅成虫未知。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "大型兵蚁：头深黄、长方形，仅略长于宽。上唇前缘两叶。右上颚具 2 枚、左上颚具 1 枚（或 2 枚）缘齿，两上颚均短。触角 16 节，第 3 节几为第 2 节长的两倍。后颏前部宽为中部腰宽的 2 倍。前胸背板前缘无凹缺，后缘有凹缺。量度（毫米）：头长 2.05；头宽 1.96；上颚长 0.73；后颏最宽 0.52、最窄 0.26；前胸背板长 0.68、宽 1.30。小型兵蚁：与大型兵蚁相似，但体很小；上唇几达上颚端部；触角 16 节，第 2 节与第 3 节等长，第 4 节最短。量度（毫米）：头长 1.08；头宽 1.04；前胸背板长 0.43、宽 0.79。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0720",
+   "citation": "Maiti, A taxonomic monograph on the world species of termites, Memoirs of the Zoological Survey of India 20(4)",
+   "locator": "条目"
+  }
+ ],
+ "note": "据 Maiti《A taxonomic monograph on the world species of termites》（Memoirs of the Zoological Survey of India 第 20 卷第 4 号，archive.org 标识 dli.zoological.memoirs.020.04）的「Diagnostic character」与量度表改写，原文英文；该文注明手头无标本，鉴别特征据 Ahmad 1958 与 Snyder & Francia 1960 转述，故属二手鉴别性记述。原文记有翅成虫未知，未补写。素材包第 111 行起为下一个种 Schedorhinotermes brachyceps，未采用。"
+}

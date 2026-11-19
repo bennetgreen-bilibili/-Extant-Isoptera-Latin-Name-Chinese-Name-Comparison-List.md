@@ -148,9 +148,10 @@
     "last_reason": "返回网页非 PDF"
   },
   "dipot.ulb.ac.be": {
-    "fails": 1,
-    "last": 1795109524.0593023,
-    "last_reason": "返回网页非 PDF"
+    "fails": 0,
+    "blocked_until": 0,
+    "last": 1795120848.0230901,
+    "last_reason": "ok"
   },
   "www.persee.fr": {
     "fails": 1,

@@ -1,0 +1,13 @@
+{
+ "note": "Adapted from Silvestri, 'Contribuzione alla conoscenza dei Termitidi e Termitofili dell'Africa occidentale' (Bollettino del Laboratorio di Zoologia Generale e Agraria di Portici, vol. 9, archive.org identifier bollettinodellab9191415rscufo); the original is in Italian, with the descriptions in Latin. For this variety the original gives only measurements of the queen and one diagnostic sentence (the compound eyes shorter), and states explicitly that the soldier and worker are the same as in the typical form; the entry therefore contains only measurements, and no morphology has been added. The measurements of the typical form A. crucifer and of A. latinotus in the source package belong to other taxa and were not used. The year of publication, 1914, has not been verified against the title page.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "A variety of Ancistrotermes crucifer (var. diversana), distinguished from the typical form by the shorter compound eyes (oculis minus longis); the soldier and worker are the same as in the typical form, and the author gave no separate description of them."
+  },
+  {
+   "label": "Other",
+   "text": "Queen: body length 27 mm; head length 1.50, head width 1.30 mm; long diameter of the compound eye 0.45 mm; abdominal width 7 mm."
+  }
+ ]
+}

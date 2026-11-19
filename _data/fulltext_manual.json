@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20 01:35",
-  "count": 100,
+  "updated_at": "2026-11-20 04:40",
+  "count": 96,
   "note": "自动生成：待人工获取的 OA 全文。抓取成功或本地 library-add 后自动移除。不要手工编辑本文件，改由 _tools/fetch_fulltext.py --write 重建。",
   "items": [
     {
@@ -716,77 +716,6 @@
       "attempts": 1
     },
     {
-      "doi": "10.11646/zootaxa.5583.3.9",
-      "title": "Obtusitermes monomorphus, a new termite species (Isoptera: Termitidae: Nasutitermitinae) from Panama",
-      "year": 2025,
-      "venue": "Zootaxa",
-      "publisher": "Magnolia Press",
-      "cited_by": 0,
-      "landing": "https://oist.repo.nii.ac.jp/records/2001067",
-      "reason": "blocked",
-      "hosts": [
-        "doi.org",
-        "hdl.handle.net",
-        "oist.repo.nii.ac.jp"
-      ],
-      "tried": [
-        "https://oist.repo.nii.ac.jp/records/2001067",
-        "http://hdl.handle.net/2013/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/389690",
-        "https://doi.org/10.48580/dgndj.v8"
-      ],
-      "last_result": "oist.repo.nii.ac.jp/records/2001067→落地页无 PDF 地址（None） / hdl.handle.net/2013/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/389690→落地页无 PDF 地址（200） / doi.org/10.48580/dgndj.v8→冷却中，跳过",
-      "last_tried": 1795109518.2577274,
-      "first_seen": 1795109732.4552033,
-      "attempts": 1
-    },
-    {
-      "doi": "10.22271/j.ento.2025.v13.i6c.9646",
-      "title": "Morphological and molecular characterization of Proneotermes tacicuarensis sp. nov.: A new termite from central Mexico",
-      "year": 2025,
-      "venue": "Journal of Entomology and Zoology Studies",
-      "publisher": "AkiNik Publications",
-      "cited_by": 0,
-      "landing": "https://www.entomoljournal.com/archives/2025/vol13issue6/PartC/13-6-20-266.pdf",
-      "reason": "blocked",
-      "hosts": [
-        "www.entomoljournal.com"
-      ],
-      "tried": [
-        "https://www.entomoljournal.com/archives/2025/vol13issue6/PartC/13-6-20-266.pdf"
-      ],
-      "last_result": "www.entomoljournal.com/archives/2025/vol13issue6/PartC/13-6-20-266.pdf→返回网页非 PDF",
-      "last_tried": 1795098774.2572985,
-      "first_seen": 1795099497.517668,
-      "attempts": 1
-    },
-    {
-      "doi": "10.3897/zookeys.1258.166021",
-      "title": "Cryptotermes mobydicki (Isoptera, Kalotermitidae), an extraordinary new termite species from French Guiana",
-      "year": 2025,
-      "venue": "ZooKeys",
-      "publisher": "Pensoft Publishers",
-      "cited_by": 0,
-      "landing": "https://zookeys.pensoft.net/article/166021/download/pdf/",
-      "reason": "blocked",
-      "hosts": [
-        "doi.org",
-        "pmc.ncbi.nlm.nih.gov",
-        "www.ebi.ac.uk",
-        "www.ncbi.nlm.nih.gov"
-      ],
-      "tried": [
-        "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12616274/fullTextXML",
-        "https://www.ncbi.nlm.nih.gov/pmc/articles/12616274",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12616274/pdf/zookeys-1258-305_article-166021__.pdf",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12616274/",
-        "https://doi.org/10.3897/zookeys.1258.166021"
-      ],
-      "last_result": "www.ebi.ac.uk/europepmc/webservices/rest/PMC12616274/fullTextXML→超时/网络异常 / www.ncbi.nlm.nih.gov/pmc/articles/12616274→HTML 页面→找到 PDF 地址 / pmc.ncbi.nlm.nih.gov/articles/PMC12616274/pdf/zookeys-1258-305_article→返回网页非 PDF / pmc.ncbi.nlm.nih.gov/articles/PMC12616274/→HTML 页面→找到 PDF 地址 / doi.org/10.3897/",
-      "last_tried": 1795099857.1348639,
-      "first_seen": 1795100409.5485091,
-      "attempts": 1
-    },
-    {
       "doi": "10.13102/sociobiology.v69i4.8268",
       "title": "Occurrence of Gregarines (Protozoa: Apicomplexa) in the Neotropical Soldierless Ruptitermes spp. (Isoptera, Termitidae, Apicotermitinae)",
       "year": 2022,
@@ -1050,28 +979,6 @@
       ],
       "last_result": "www.openaccessrepository.it/record/53804→落地页无 PDF 地址（404） / doi.org/10.1653/024.096.0127→冷却中，跳过",
       "last_tried": 1795109131.722263,
-      "first_seen": 1795109732.4552033,
-      "attempts": 1
-    },
-    {
-      "doi": "10.11646/zootaxa.2328.1.3",
-      "title": "A new termite species (Isoptera: Termitidae: Termitinae: Amitermes) and first record of a Subterranean Termite from the Coastal Desert of South America",
-      "year": 2010,
-      "venue": "Zootaxa",
-      "publisher": "Magnolia Press",
-      "cited_by": 0,
-      "landing": "https://doi.org/10.11646/zootaxa.2328.1.3",
-      "reason": "blocked",
-      "hosts": [
-        "doi.org",
-        "mapress.com"
-      ],
-      "tried": [
-        "https://doi.org/10.11646/zootaxa.2328.1.3",
-        "https://mapress.com/zt/article/download/zootaxa.2328.1.3/16613"
-      ],
-      "last_result": "doi.org/10.11646/zootaxa.2328.1.3→HTML 页面→找到 PDF 地址 / mapress.com/zt/article/download/zootaxa.2328.1.3/16613→返回网页非 PDF",
-      "last_tried": 1795108819.5968053,
       "first_seen": 1795109732.4552033,
       "attempts": 1
     },
@@ -1537,6 +1444,26 @@
       "attempts": 1
     },
     {
+      "doi": "10.1111/j.1365-3113.1990.tb00068.x",
+      "title": "Notes on the genus\n                    <i>Sinocapritermes</i>\n                    (Isoptera: Termitidae) from China, with description of a new species",
+      "year": 1990,
+      "venue": "Systematic Entomology",
+      "publisher": "Wiley",
+      "cited_by": 0,
+      "landing": "https://doi.org/10.1111/j.1365-3113.1990.tb00068.x",
+      "reason": "blocked",
+      "hosts": [
+        "doi.org"
+      ],
+      "tried": [
+        "https://doi.org/10.1111/j.1365-3113.1990.tb00068.x"
+      ],
+      "last_result": "doi.org/10.1111/j.1365-3113.1990.tb00068.x→冷却中，跳过",
+      "last_tried": 1795120830.4594274,
+      "first_seen": 1795120851.7137492,
+      "attempts": 1
+    },
+    {
       "doi": "10.1007/s00040-013-0335-1",
       "title": "Kalotermes sinaicus Kemner (Isoptera, Kalotermitidae): new morphological and genetic evidence, and assignment to the new genus Longicaputermes gen. nov",
       "year": 2014,
@@ -1753,26 +1680,6 @@
       ],
       "last_result": "publication.plazi.org/id/5F2202754378D8314969FFB1F00A5B63→落地页无 PDF 地址（200）",
       "last_tried": 1795098710.092439,
-      "first_seen": 1795099497.517668,
-      "attempts": 1
-    },
-    {
-      "doi": "10.11646/zootaxa.5821.3.6",
-      "title": "Tiunatermes tapirape (Isoptera: Termitidae: Nasutitermitinae): description of a new species and the imago for the genus",
-      "year": 2026,
-      "venue": "Zootaxa",
-      "publisher": "Magnolia Press",
-      "cited_by": 0,
-      "landing": "http://publication.plazi.org/id/FFC3FF80FFA93A44FFF3FFD3A605FFCF",
-      "reason": "no-pdf-link",
-      "hosts": [
-        "publication.plazi.org"
-      ],
-      "tried": [
-        "http://publication.plazi.org/id/FFC3FF80FFA93A44FFF3FFD3A605FFCF"
-      ],
-      "last_result": "publication.plazi.org/id/FFC3FF80FFA93A44FFF3FFD3A605FFCF→落地页无 PDF 地址（200）",
-      "last_tried": 1795098754.3966672,
       "first_seen": 1795099497.517668,
       "attempts": 1
     },

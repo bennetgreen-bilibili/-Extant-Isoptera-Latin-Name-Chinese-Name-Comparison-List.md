@@ -1,0 +1,13 @@
+{
+ "note": "Adaptada de la descripción a nivel de especie de Ahmad (1965) Termites of Thailand, original en inglés; este paquete de material solo contiene la frase comparativa, la leyenda de la fig. 81, la localidad típica y las medidas de los soldados de las tablas 31 y 32. La prosa descriptiva sobre el soldado y el obrero se encuentra en las páginas anteriores al paquete y no está incluida, por lo que solo se recogen los caracteres diagnósticos y las medidas de los soldados dimórficos; el obrero no se trata (la leyenda solo registra una figura de la mandíbula del obrero, sin texto). El OCR insertó una leyenda de figura en la frase N. cherraensis y el extracto se conserva tal como está. Los sinónimos, las citas bibliográficas, la distribución y los números de figura no se traducen.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "En comparación con otras especies de Nasutitermes con soldados dimórficos de la región indomalaya, el tamaño corporal es claramente menor; N. bulbiceps y N. longinasus son mucho mayores y tienen el naso relativamente más largo; la otra especie con soldados dimórficos, N. cherraensis (Roonwal y Chhotani), también es mayor y presenta una forma cefálica diferente."
+  },
+  {
+   "label": "Soldado",
+   "text": "Soldado mayor (holotipo y paratipos, 10 individuos; cada medida se expresa como: valor (intervalo, media), en milímetros): longitud de la cabeza con el naso 1,53 (1,53—1,58, media 1,54); longitud de la cabeza (sin naso) 1,01 (0,96—1,04, media 1,00); anchura de la cabeza 0,91 (0,91—0,96, media 0,93); altura de la cabeza 0,70 (0,65—0,72, media 0,67); longitud del pronoto 0,15 (0,15—0,18, media 0,15); anchura del pronoto 0,41 (0,39—0,44, media 0,41).\nSoldado menor (morfotipo y paratipos, 10 individuos; igualmente valor (intervalo, media), en milímetros): longitud de la cabeza con el naso 1,06 (1,01—1,11, media 1,06); longitud de la cabeza (sin naso) 0,65 (0,63—0,67, media 0,65); anchura de la cabeza 0,52 (0,52—0,57, media 0,53); altura de la cabeza 0,36 (0,36—0,41, media 0,39); longitud del pronoto 0,13 (0,10—0,13, media 0,10); anchura del pronoto 0,31 (0,28—0,31, media 0,29).\nLos soldados son dimórficos, mayores y menores; la localidad típica es Kan Tang, y el holotipo y los paratipos del soldado mayor, el morfotipo y los paratipos del soldado menor, y los obreros fueron recolectados el 8-3-1962 por M. Ahmad en un nido de Hypotermes."
+  }
+ ]
+}

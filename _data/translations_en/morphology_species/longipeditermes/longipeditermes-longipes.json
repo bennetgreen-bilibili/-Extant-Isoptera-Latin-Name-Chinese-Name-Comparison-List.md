@@ -1,0 +1,13 @@
+{
+ "note": "Rewritten from the species-level description in Ahmad 1958 (Biologia vol. 4, Indomalayan termites); the original is in English; three sections, alate, major soldier and minor soldier; the worker is not recorded in the original. The original gives the measurements as two parallel series, '(range) value', which are transcribed as they stand without being merged. OCR problems: parentheses and hyphens are occasionally defective; the unit mm is omitted in the original and has been supplied here.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Head oval; ocelli very close to the compound eyes; anterior margin of the pronotum straight, anterior lateral angles broadly rounded (Haviland, in Holmgren 1913). No measurements recorded in the original."
+  },
+  {
+   "label": "Soldier",
+   "text": "Major soldier: head dark brown, hairless, broadly triangular, distinctly wider than long (excluding the nasus); nasus small, conical. Antennae 14-segmented, segment 3 more than three times as long as segment 2 and two and a half times segment 4; anterior and posterior margins of the pronotum not concave. Head length including nasus (2.08—2.10) 2.38 mm, head length excluding nasus 1.25 mm, head width (1.58—1.63) 1.76 mm; nasus length 0.67—0.72 mm; pronotum length 0.36—0.39 mm, width (0.65—0.67) 0.72 mm (after Holmgren 1913).\nMinor soldier: head length including nasus (1.53—1.63) 1.75 mm, head length excluding nasus (0.67)—0.87 mm, head width (0.75—0.80) 0.87 mm; pronotum length 0.23—0.26 mm, width (0.41—0.46) 0.49 mm (after Holmgren 1913)."
+  }
+ ]
+}

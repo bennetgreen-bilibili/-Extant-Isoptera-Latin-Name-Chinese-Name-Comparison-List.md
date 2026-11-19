@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from the new-species description in Holmgren's Termitenstudien (Kungliga Svenska Vetenskapsakademiens Handlingar, Band 50, No. 2), originally in German; it includes the alate descriptions of two forms, form nymanni (more reddish brown in colour, slightly smaller) and form Buitenzorghi (darker than the main form, body length (with wings) 27—30 mm). The measurement section of the original is rather badly damaged by OCR; only the values with legible labels are retained, and the rest must be checked against the original book.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "(Plate IV, fig. 6) Chestnut brown. The antennal spot and the often present transverse band over the whole anterior margin, the postclypeus, mouthparts, antennae, the T-shaped mark and two shoulder spots on the pronotum, the anterior part of the meso- and metanota, the underside and the legs are all rusty yellow; the sides of the abdominal sternites are light brown; the wings (in alcohol) yellowish brown. The pilosity of the head is partly short and partly long, not very dense; the wing membrane bears very sparse hairs only near the apex. Head broadly oval, narrowed anteriorly. Compound eyes medium-sized, slightly projecting. Ocelli (slightly) lateral, about one ocellar diameter from the compound eye. The area around the fontanelle is a pale spot, punctiform and raised. Postclypeus far shorter than half its width, fairly flat. Antennae 19-segmented; segment 3 about as long as segment 2, slightly longer than segment 4. Pronotum trapezoidal, the anterior and posterior margins both weakly concave; the lateral parts behind the T-shaped mark are yellowish brown. The media forks before or after the middle, with 3—4 often forked branches; the cubitus has 10—15 branches, of which 3 arise on the inner side of the origin of the media."
+  },
+  {
+   "label": "Soldier",
+   "text": "(Plate V, fig. 6) Head yellow, body white. The pilosity of the head is very sparse; the hairs of the abdominal tergites are not particularly dense. Head quadrangular-oval, longer than wide, the lateral margins weakly arcuate; head weakly convex. Fontanelle invisible. Postclypeus very short. Labrum ligulate, triangularly pointed, reaching only half the length of the mandibles. Mandibles rather short, weakly curved, robust; the left mandible has a step-like tooth near the base, the right mandible is toothless. Antennae 17-segmented; segment 2 much longer than segment 3; segment 4 slightly longer than segment 3; segment 5 as long as segment 3. The anterior lobe of the pronotum is fairly large, and the anterior and posterior margins are both very distinctly concave."
+  },
+  {
+   "label": "Worker",
+   "text": "(Two size classes) Head yellowish brown, body white, the gut contents visible through the cuticle. Head and body hairs fairly sparse. Head quadrangular-oval; fontanelle distinct. Postclypeus short, flatly arched. Antennae (17—)18-segmented; segment 2 as long as segments 3 and 4 together; segment 3 longer than segment 4. The anterior margin of the pronotum is slightly concave. The smaller workers have 17-segmented antennae, segment 3 as long as segment 4, and the pronotum is not concave."
+  },
+  {
+   "label": "Other",
+   "text": "Measurements (mm; the original is laid out as a table and some labels are damaged by OCR, so only the legible values are given). Alate: body length (with wings) 25—27; forewing length 10—12; head length 2.66; head width 2.48; pronotal width 2.28; pronotal length 1.14. Soldier: body length 6—6.5; head length (with mandibles) 3.42; head length (without mandibles) 2.36; head width 1.9; pronotal width 1.33. Worker: large form body length 3—4, head width 0.99, pronotal width 0.8; small form body length 3.5, pronotal width 0.68."
+  }
+ ]
+}

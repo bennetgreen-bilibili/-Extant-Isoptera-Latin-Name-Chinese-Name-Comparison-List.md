@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from the species-level description in Holmgren, Termitenstudien, the original in German; the entry is headed \"7. Odontotermes grandiceps n. sp.\" and is immediately followed by \"8. Odontotermes fatalis\", so only the text of entry 7 is used. OCR problems: the measurement table of the alate has been broken up into garbled fragments (line-initial labels and figures out of alignment) and cannot be reliably matched, so only the qualitative description is given, with no figures; the labels and figures of the soldier and worker measurements are still legible and have been preserved verbatim.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "This species is very close to O. dives; the alate differs mainly in its larger size, darker colour and longer wings, and is therefore easily distinguished from the alate of O. javanicus. The soldier and worker are much like those of O. javanicus but average larger and darker."
+  },
+  {
+   "label": "Alate",
+   "text": "Very similar to O. dives but larger; the frontal gland swelling is wider; the ridge in front of the frontal gland is fairly sharp; the compound eyes are relatively small; the antennal segments are thicker and the antennae shorter; the distance from the ocellus to the anterior margin of the compound eye is about equal to the long diameter of the ocellus."
+  },
+  {
+   "label": "Soldier",
+   "text": "Body form as in O. javanicus. Head (yellowish) brown, dark; body straw yellow to rusty yellow. Head with only a few bristles; the hairs on the abdominal tergites are finer and bear bristles. Head broadly oval, strongly rounded posteriorly, narrowing anteriorly in an arc, fairly convex; frontal gland plate present, small, very inconspicuous; the basal piece of the postclypeus short and flat; antennal carinae fairly strongly convergent; labrum triangular, pointed, reaching about as far as the mandibular teeth; mandibles relatively short, sickle-shaped; the median tooth of the left mandible lies at one third of the mandibular base; the right mandible has no distinct tooth, its base is indistinct and bears a rudimentary tooth (very inconspicuous); antennae 17-segmented, segment 3 much shorter than segment 2 and not distinctly shorter than segment 4, segment 5 as long as segment 3. Pronotum saddle-shaped, both the anterior and the posterior margin notched. Measurements (mm): body length 7.5—8; head with mandibles 3.61; head without mandibles 2.51; head width 2.18; pronotum width 1.48."
+  },
+  {
+   "label": "Worker",
+   "text": "In two forms, major and minor, very similar to the workers of O. javanicus. Head reddish yellow, body pale straw yellow; pilosity as in O. javanicus or possibly slightly denser. Head quadrangular-oval, rather flat, depressed anteriorly; frontal gland distinct; the basal piece of the postclypeus short and flatly convex; antennae 17—18-segmented, segment 2 about as long as segments 3 and 4 together, segment 3 slightly longer than segment 4. Anterior margin of the pronotum slightly concave. Measurements (mm): major worker body length 3.7, head width 1.56—1.60, pronotum width 0.87; minor worker body length 3.5, head width 1.06, pronotum width 0.76."
+  }
+ ]
+}

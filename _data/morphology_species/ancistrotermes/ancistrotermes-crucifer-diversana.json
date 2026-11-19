@@ -1,0 +1,21 @@
+{
+ "zh_name": "相异亚种",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "为 Ancistrotermes crucifer 的一个变种（var. diversana），与典型型的区别在复眼较短（oculis minus longis）；兵蚁与工蚁与典型型相同，作者未另作描述。"
+  },
+  {
+   "label": "其他",
+   "text": "蚁后：体长 27 毫米；头长 1.50、头宽 1.30 毫米；复眼长径 0.45 毫米；腹部宽 7 毫米。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0534",
+   "citation": "Silvestri 1914, Bollettino del Laboratorio di Zoologia Generale e Agraria di Portici 9",
+   "locator": "条目"
+  }
+ ],
+ "note": "据 Silvestri《Contribuzione alla conoscenza dei Termitidi e Termitofili dell'Africa occidentale》（Bollettino del Laboratorio di Zoologia Generale e Agraria di Portici 第 9 卷，archive.org 标识 bollettinodellab9191415rscufo）改写，原文意大利文、描述用拉丁文。原文对此变种只有蚁后量度与一句鉴别（复眼较短），并明言兵蚁、工蚁与典型型相同；故本条目只有量度，未补写形态。素材包中典型型 A. crucifer 及 A. latinotus 的量度属其他分类单元，未采用。出版年 1914 未经版本页核实。"
+}

@@ -1,0 +1,13 @@
+{
+ "note": "Adapted from the 'Diagnostic character' and the measurement tables of Maiti, 'A taxonomic monograph on the world species of termites' (Memoirs of the Zoological Survey of India, vol. 20, no. 4, archive.org identifier dli.zoological.memoirs.020.04); the original is in English. That work notes that no specimens were at hand and that the diagnostic characters are quoted from Ahmad 1958 and Snyder & Francia 1960, so this is a secondary diagnostic account. The alate is recorded as unknown in the original and has not been supplied. From line 111 of the source package onwards the text belongs to the next species, Schedorhinotermes brachyceps, and was not used.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Major soldier: head dark yellow, rectangular, only slightly longer than wide; anterior margin of the labrum bilobed, right mandible with 2 and left mandible with 1 (or 2) marginal teeth, both mandibles short; antennae 16-segmented, segment 3 almost twice as long as segment 2; anterior width of the postmentum twice the width of the median waist; anterior margin of the pronotum without a notch, posterior margin notched. Minor soldier: similar to the major soldier but much smaller, the labrum almost reaching the tips of the mandibles, antennae 16-segmented, segments 2 and 3 equal, segment 4 shortest. Alate unknown."
+  },
+  {
+   "label": "Soldier",
+   "text": "Major soldier: head dark yellow, rectangular, only slightly longer than wide. Anterior margin of the labrum bilobed. Right mandible with 2 and left mandible with 1 (or 2) marginal teeth, both mandibles short. Antennae 16-segmented, segment 3 almost twice as long as segment 2. Anterior width of the postmentum twice the width of the median waist. Anterior margin of the pronotum without a notch, posterior margin notched. Measurements (mm): head length 2.05; head width 1.96; mandible length 0.73; maximum width of the postmentum 0.52, minimum 0.26; pronotum length 0.68, width 1.30. Minor soldier: similar to the major soldier but much smaller; the labrum almost reaches the tips of the mandibles; antennae 16-segmented, segments 2 and 3 equal, segment 4 shortest. Measurements (mm): head length 1.08; head width 1.04; pronotum length 0.43, width 0.79."
+  }
+ ]
+}

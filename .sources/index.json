@@ -1,9 +1,9 @@
 {
  "meta": {
   "version": 1,
-  "count": 723,
+  "count": 736,
   "created": "2026-11-06T16:19:16.272Z",
-  "updated": "2026-11-20T03:45:34+08:00",
+  "updated": "2026-11-20T05:12:18+08:00",
   "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
  },
  "sources": [
@@ -5199,7 +5199,7 @@
     "Araujo, R. L."
    ],
    "publisher": "American Museum of Natural History",
-   "retrieved_via": "web_fetch (archive.org djvu.txt OCR)",
+   "retrieved_via": "文库（text）",
    "evidence": [
     {
      "quote": "Imago: Head usually without dense pubescence, in some cases covered with short hair and a few bristles of two sizes; pronotum more densely covered with hair and bristles. Fontanelle plate sclerotized, without visible opening. Ocellus large, not touching eye. Antennae with 16 or 17 articles.",
@@ -5210,16 +5210,115 @@
      "quote": "Soldier: Neotropical Termitinae with conspicuously distorted, asymmetrical, snapping mandibles and without “nose” or conical horizontal projection of frons; monomorphic (in spite of variation in size), without frontal gland; fontanelle circular; head not flattened, evenly rounded at posterior margin.",
      "locator": "p. 88 (Soldier)",
      "note": "支撑：兵蚁不对称弹射上颚、无额腺、囟圆形、头后缘圆"
+    },
+    {
+     "quote": "Imago Female (fig. 10): Head capsule \nlight reddish brown; antennae, mouth parts, \nmandibles (except apices) straw-colored; tho¬ \nrax lighter than head; legs straw-colored, \nwing scales darker; abdomen slightly darker \nthan thorax; wings with a very slight brown¬ \nish tinge, their veins light brownish. Head cap¬ \nsule with numerous erect, fine, almost color¬ \nless bristles of two sizes, scantier on sides; \npostclypeus with very few bristles; labrum \nwith about six longish bristles; pronotum \nwith longish and short bristles along margins \nand extremely short pubescence on disc;",
+     "locator": "条目",
+     "note": "支撑：有翅成虫体色与被毛"
+    },
+    {
+     "quote": "Head in profile slightly \ndepressed around fontanelle plate, sloping in \nfront of ocelli. Eyes strongly prominent, con¬ \nvex. Ocelli oblong, with hind margin straight, \nremainder semicircular. Antennae with 16 \narticles, third and fourth very short, fifth \nthrough eighth gradually increasing, eighth \nthrough fourteenth subequal, fifteenth \nslightly shorter, sixteenth oblong, slightly \nshorter than preceding article. Pronotum of a \nwidth equal to 0.81 of head width, mostly \nflat, with front margin straight, slightly up¬ \nturned medially, sides semicircular, and a \nslight, shallow excision on hind margin. \nMesonotum hind margin with conspicuous, \ndeep, right-angled median indentation, out¬ \nstanding lateral points. Metanotum hind \nindentation less deeply marked.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫头、触角、前胸背板与翅基结构"
+    },
+    {
+     "quote": "Soldier (fig. 11): Head light yellowish to \nbrownish, with anterior margin and margins \nof pronotum darker; antennae and mouth \nparts straw-yellow to light brown; mandibles \ndark brown to shiny black; thorax with \nyellowish tinge; abdomen dirty white.",
+     "locator": "条目",
+     "note": "支撑：兵蚁体色"
+    },
+    {
+     "quote": "Female Imago (fig. 15): Head capsule \nbrownish, with a reddish tinge and narrow \nlighter area around fontanelle plate; post- \nclypeus lighter than rest of head; mandibles \nyellowish, with black tips; mouth parts, legs, \nand antennae straw-colored; pronotum a \nlittle darker than mesonotum and metano- \ntum; wing scales light brown; abdominal \nsegments same color as pronotum (striking \nvariation in color, some specimens being dark \nbrown, with yellowish trochanters and fe¬ \nmora and light brown tibiae and tarsi; some \nmales also quite dark, with pure yellow tro¬ \nchanters and femora).",
+     "locator": "条目",
+     "note": "支撑：有翅成虫（雌）体色、毛被与头部形态（触角 17 节之前的定性描述）"
+    },
+    {
+     "quote": "Measurements (in Millimeters) of Six Imagoes of \nNeocapritermes opacus (Hagen) \n\n\n\nLectotype \n\nPlesiotype \n\nParaguay \n\nSao Paulo \n\nRange \n\nLateral length of head capsule \n\n1.38 \n\n1.43 \n\n1.22- 1.33 \n\nWidth of head with eyes \n\n1.89 \n\n1.89 \n\n1.79- 1.94 \n\nDiameter of eye \n\n0.49 \n\n0.49 \n\n0.46- 0.49 \n\nEye from lower margin \n\n0.10 \n\n0.10 \n\n0.10 \n\nLongest diameter of ocellus \n\n0.15 \n\n0.15 \n\n0.14- 0.15 \n\nShortest diameter of ocellus \n\n0.10 \n\n0.10 \n\n0.10 \n\nOcellus from eye \n\n0.13 \n\n0.14 \n\n0.13- 0.14 \n\nLength of fontanelle plate \n\n0.23 \n\n0.20 \n\n0.20 \n\nMaximum length of pronotum \n\n1.05 \n\n1.00 \n\n0.92- 1.02 \n\nMedian length of pronotum \n\n1.00 \n\n0.92 \n\n0.89- 0.97 \n\nMaximum width of pronotum \n\n1.68 \n\n1.68 \n\n1.53- 1.58 \n\nLength of hind tibia \n\n2.14 \n\n2.14 \n\n2.14- 2.19 \n\nLength of forewing from suture \n\n14.90 \n\n14.10 \n\n14.40-14.80 \n\nWidth of forewing \n\n4.10 \n\n4.10 \n\n4.10- 4.30",
+     "locator": "条目",
+     "note": "支撑：有翅成虫全部量度（头侧长、头宽、复眼/单眼、额腺板、前胸背板、后足胫节、前翅），TABLE 12"
+    },
+    {
+     "quote": "Soldier (fig. 16): Head straw-colored; \nwith anterior margin of head, mouth parts, \nantennae, postmentum sutures, and epi¬ \ncranial line brownish; mandibles, except \nbrown bases, shiny black; pronotum and legs \nyellowish; abdomen creamy. Head dorsally \nwith many sparse, fine, erect bristles, absent \nfrom under side; postmentum with two stiff \nmarginal bristles at each anterolateral corner; \nlabrum with a few erect bristles on disc and \ngroup of about four longer and finer ones at \ntip of median lobule; pronotum with anterior \nsurface covered with very short, sparse bris¬ \ntles, rim of anterior lobe with a row of minute \nhairs, and hind surface with many sparse, \nlong, stiff bristles, very thin on hind lobe; \nlegs barely hairy, with an irregular row of \ndifferent-sized hairs on longitudinal ridge \n\n\nand a few others on surface of fore coxae; \ncervical sclerites bare.",
+     "locator": "条目",
+     "note": "支撑：兵蚁体色、毛被与头部/上唇/前胸背板/足的描述；头长宽比与为左上颚长倍数紧随其后一句"
+    },
+    {
+     "quote": "Soldier (fig. 17): Head yellowish, ante¬ \nrior margins of head and base of mandibles \nbrown; lateral margins of postmentum and \nantennal segments light brown; mandibles \nshiny black; labrum light yellow; remainder \nof body dirty white.",
+     "locator": "条目",
+     "note": "支撑：兵蚁各部位颜色（条目「兵蚁」节开头）。"
+    },
+    {
+     "quote": "left side drawn into small but conspicuous, \nspinelike, erect projection; and fontanelle \nsmall, circular, and barely perceptible.",
+     "locator": "条目",
+     "note": "支撑：后唇基左侧刺状突起与囟的形态（该性状用于与 N. araguaia、N. angusticeps 区分）。"
+    },
+    {
+     "quote": "Lateral length of head capsule \n\n3.05 \n\n3.01-3.11 \n\n3.04 \n\nMaximum width of head \n\n1.40 \n\n1.40-1.48 \n\n1.43 \n\nMaximum height of head \n\n1.12 \n\n1.20-1.22 \n\n1.17 \n\nLength of left mandible \n\n2.10 \n\n2.09-2.24 \n\n2.13 \n\nLength of right mandible \n\n2.03 \n\n1.99-2.09 \n\n2.02 \n\nMaximum width of postmentum \n\n0.42 \n\n0.42-0.47 \n\n0.45 \n\nMinimum width of postmentum \n\n0.25 \n\n0.25-0.31 \n\n0.27 \n\nLength of postmentum \n\n2.73 \n\n2.04-2.73 \n\n2.25",
+     "locator": "条目",
+     "note": "支撑：TABLE 14 前 8 项量度，逐字（每项三列依次为选模、区间、均值）；后颏长三值不相容可在此核对。"
+    },
+    {
+     "quote": "Soldier (fig. 18 ): Head yellowish; ante¬ \nrior margin of head, antennae, and margin of \npostmentum brownish; labrum light yellow; \nthoracic nota and legs yellowish; abdomen \ndirty white; mandibles shiny black.",
+     "locator": "条目",
+     "note": "支撑：兵蚁各部位颜色。该描述位于 parvus 素材包（同一文献卷内 talpa 的处理），talpa 自身素材包无种级描述。"
+    },
+    {
+     "quote": "Antennae with 16 articles, fourth article \nshortest, very slightly shorter than third, \nfifth through tenth increasing in length, \neleventh and twelfth equal to tenth, thir¬ \nteenth through fifteenth identical, sixteenth \noblong, very slightly longer than fifteenth.",
+     "locator": "条目",
+     "note": "支撑：兵蚁触角 16 节及各节长度关系（条目「兵蚁」节的触角句）。"
+    },
+    {
+     "quote": "Lateral length of head capsule \n\n3.72 \n\n3.06-3.72 \n\n3.29 \n\nMaximum width of head \n\n1.89 \n\n1.63-1.89 \n\n1.76 \n\nMaximum height of head \n\n1.61 \n\n1.43-1.66 \n\n1.54 \n\nLength of left mandible \n\n2.35 \n\n2.04-2.35 \n\n2.21 \n\nLength of right mandible \n\n2.04 \n\n1.79-2.04 \n\n1.92 \n\nMaximum width of postmentum \n\n0.61 \n\n0.51-0.61 \n\n0.56 \n\nMinimum width of postmentum \n\n0.27 \n\n0.24-0.31 \n\n0.28",
+     "locator": "条目",
+     "note": "支撑：TABLE 15 前 7 项量度，逐字（每项三列依次为共模、区间、均值）。"
+    },
+    {
+     "quote": "Imago Female (fig. 4) : Head and thoracic \nand abdominal nota light brown; wing veins \nbrownish; mouth parts, labrum, mandibles \n(except black apex), antennae, legs, thoracic \nand some abdominal sterna yellowish; some \nsutures and some abdominal sterna brownish.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫（雌）的颜色描述（条目「有翅成虫」节开头）。"
+    },
+    {
+     "quote": "Antennae \nwith 17 articles, third and fourth very small, \ntogether equaling second in length, fifth \nslightly longer than fourth, sixth slightly \nthicker than seventh, eighth through four¬ \nteenth increasing in length, fifteenth through \nseventeenth subequal, last oblong.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫触角 17 节及各节长度关系（条目「有翅成虫」节）。"
+    },
+    {
+     "quote": "Lateral length of head capsule \n\n1.12- 1.22 \n\n1.17 \n\nWidth of head with eyes \n\n1.58- 1.66 \n\n1.63 \n\nDiameter of eye \n\n0.54- 0.59 \n\n0.56 \n\nEye from lower margin \n\n0.03- 0.04 \n\n0.04 \n\nLongest diameter of ocellus \n\n0.20- 0.26 \n\n0.22 \n\nShortest diameter of ocellus \n\n0.13- 0.15 \n\n0.14 \n\nOcellus from eye \n\n0.05- 0.06 \n\n0.05 \n\nLong diameter of fontanelle plate \n\n0.10- 0.12 \n\n0.11 \n\nMaximum length of pronotum \n\n0.92- 0.97 \n\n0.95",
+     "locator": "条目",
+     "note": "支撑：TABLE 2 前 9 项有翅成虫量度，逐字（区间、均值两列）。"
     }
    ],
    "used_in": [
     "_data/morphology_genera.json",
+    "_data/morphology_species/neocapritermes/neocapritermes-angusticeps.json",
+    "_data/morphology_species/neocapritermes/neocapritermes-braziliensis.json",
+    "_data/morphology_species/neocapritermes/neocapritermes-opacus.json",
+    "_data/morphology_species/neocapritermes/neocapritermes-parvus.json",
+    "_data/morphology_species/neocapritermes/neocapritermes-talpa.json",
     "_tools/fauna/morphology/descriptions/neocapritermes1968.json"
    ],
-   "notes": "正文据 archive.org 的 djvu.txt OCR 文本读取；OCR 有个别字符噪声，引用句段为干净段落。原书只列 Imago 与 Soldier 属级诊断，工蚁仅给图 1 上颚图。",
-   "accessed": "2026-11-07T06:43:59+08:00",
+   "notes": "正文据 archive.org 的 djvu.txt OCR 文本读取；OCR 有个别字符噪声，引用句段为干净段落。原书只列 Imago 与 Soldier 属级诊断，工蚁仅给图 1 上颚图；全文存于 _unpublished/文库/A-revision-of-the-neotropical-termite-genus-Neocapritermes-(Isoptera,-Termitidae（140786 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "accessed": "2026-11-20T05:12:18+08:00",
    "canonical_key": "url:https://archive.org/details/bulletin-american-museum-natural-history-138-085-130",
-   "id": "S0061"
+   "id": "S0061",
+   "library": {
+    "book": "A-revision-of-the-neotropical-termite-genus-Neocapritermes-(Isoptera,-Termitidae",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T05:09:25",
+    "chunks": [
+     {
+      "chunk": "full",
+      "txt": "_unpublished/文库/A-revision-of-the-neotropical-termite-genus-Neocapritermes-(Isoptera,-Termitidae/full.txt",
+      "chars": 140786,
+      "paragraphs": 6964,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-american-museum-natural-history-138-085-130.txt",
+      "sha256": "32f5bc53712676aff6d9c22bdaf21b6720892411b1758d80ac9f58f12b562447",
+      "bytes": 141490
+     }
+    ]
+   },
+   "file_path": "_unpublished/文库/A-revision-of-the-neotropical-termite-genus-Neocapritermes-(Isoptera,-Termitidae",
+   "chars": 140786
   },
   {
    "title": "Chasitermes pax, a new genus and species of soldierless termite (Termitidae, Apicotermitinae) from the island of Trinidad",
@@ -6967,7 +7066,7 @@
    "publisher": "Smithsonian Institution / U.S. National Museum",
    "lang": "en",
    "license": "unknown",
-   "notes": "Agnathotermes 作为 Nasutitermes 亚属首次发表处（pp. 41-42）；文章起止页未能从 OCR 页眉确认，引用页为印刷页码。OCR 把 subgenera 断作 sub genera，故引文自 mandibles without points 起。",
+   "notes": "Agnathotermes 作为 Nasutitermes 亚属首次发表处（pp. 41-42）；文章起止页未能从 OCR 页眉确认，引用页为印刷页码。OCR 把 subgenera 断作 sub genera，故引文自 mandibles without points 起；全文存于 _unpublished/文库/Termites-collected-on-the-Mulford-Biological-Exploration-to-the-Amazon-Basin,-19（178606 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
    "evidence": [
     {
      "quote": "mandibles without points, nasus short and conical as in the subgenus Convexitermes Holmgren. Antenna with 11-12 segments.",
@@ -6985,10 +7084,29 @@
     "_data/morphology_species/coatitermes/coatitermes-pallidus.json",
     "_tools/fauna/morphology/descriptions/08-nasuti-a.json"
    ],
-   "accessed": "2026-11-20T02:58:01+08:00",
+   "accessed": "2026-11-20T05:09:26+08:00",
    "canonical_key": "url:https://archive.org/details/biostor-79693",
    "id": "S0082",
-   "retrieved_via": "fleet"
+   "retrieved_via": "文库（text）",
+   "library": {
+    "book": "Termites-collected-on-the-Mulford-Biological-Exploration-to-the-Amazon-Basin,-19",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T05:09:26",
+    "chunks": [
+     {
+      "chunk": "full",
+      "txt": "_unpublished/文库/Termites-collected-on-the-Mulford-Biological-Exploration-to-the-Amazon-Basin,-19/full.txt",
+      "chars": 178606,
+      "paragraphs": 6270,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\biostor-79693.txt",
+      "sha256": "aabe29705b3db7d98140143740ffb457f2752a408c40111523d75b9e7797b2c5",
+      "bytes": 179430
+     }
+    ]
+   },
+   "file_path": "_unpublished/文库/Termites-collected-on-the-Mulford-Biological-Exploration-to-the-Amazon-Basin,-19",
+   "chars": 178606
   },
   {
    "title": "Emerson A. E. 1925. The termites of Kartabo, Bartica District, British Guiana. Zoologica (New York Zoological Society) 6(4): 291–459.",
@@ -7712,6 +7830,56 @@
      "quote": "Körperlänge 3,5—4 mm\nKopfbreite 0,91 »\nBreite des Pronotums 0,49 »\nGeographische Verbreitung: Java, Tjompea.",
      "locator": "p. 176（工蚁量度与地理分布）",
      "note": "工蚁量度与分布地（爪哇 Tjompea）逐字照录；数值与该页图像一致。分布记入条目「工蚁」节。"
+    },
+    {
+     "quote": "Imago [Tafel IV, Fig. 9]: Kopf kastanienbraun, im getrockneten Zustande glän¬ \nzend schwarz. Clypeobasale, Vorderecken des Transversalbandes, Antennen, Mund¬ \nteile, ein Y-förmiger Fleck und zwei Schulterflecke auf dem Pronotum, Unterseite \nund Beine rostgelb. Abdominalsternite jedoch lateral hell braun. Flügel grau, bei \nSpiritus-Stücken graugelb, mit braunen vorderen Rippen. \n\nKopf teils kurz behaart, teils mit längeren Borsten ziemlich reich besetzt 1 Körper¬ \nbehaarung ziemlich dicht. Flügel gegen die Spitze mit einigen Haaren. \n\nKopf breit oval, nach vorn verschmälert. Stirn etwas gewölbt, nicht einge¬ \ndrückt. Fontanelle deutlich erhaben, punktförmig. Von der Fontanelle aus läuft \neine schwache Längsleiste nach vorn aus. Transversalband mit drei schwachen diver¬ \ngierenden Längseindrücken. Augen mittelgross, hervorstehend. Ozellen mittelgross, \nvon den Augen um ihren kürzeren Durchmesser oder etwas mehr entfernt, etwas \nseitwärts gerichtet. Clypeobasale bedeutend kürzer als seine halbe Breite, flach ge¬ \nwölbt, nach hinten konvex, nach vorn schwach konkav begrenzt. Antennen 19-gliedrig.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫体色、毛被、头/额腺/单眼/后唇基/触角 19 节与翅脉"
+    },
+    {
+     "quote": "Länge mit Flügeln \n\no o \n\nTypen \n\n26 \n\nmm \n\nSpiritus-Stücke \n\n21—28 mm \n\n» ohne » \n\n10 \n\n» \n\n12 \n\nder Vorderflügel \n\n99 \n\n» \n\n22—23 » \n\nKopflänge.. \n\n2.55—2,66 \n\n» \n\n2.60 \n\nKopf breite \n\n2,28-2,47 \n\n» \n\n2,51 — 2,74 > \n\nBreite des Pronotums \n\n2,2 —2,34 \n\n» \n\n2,32 — 2,43 » \n\nLänge * » \n\n1,06 \n\n» \n\n1,14",
+     "locator": "条目",
+     "note": "支撑：主型有翅成虫量度两列（模式标本／酒精标本），含体长连翅、不连翅、前翅、头长、头宽、前胸背板宽与长"
+    },
+    {
+     "quote": "Kopf oval, noch vorn verschmälert. Fontanelle nicht sichtbar. Mandibelkon- \ndyle gross. Clypeobasale klein. Oberlippe zungenförmig nach vorn etwas zugespitzt, \nnicht die Hälfte der Mandibeln überdeckend. Mandibeln ziemlich lang, schwach ge¬ \nbogen. Zahn des linken Kiefers klein im ersten Drittel der Mandibel gelegen. Rechter \nKiefer ohne Zahn. Antennen 17-gliedrig. 3. Glied viel kürzer als 2. und etwas \nkürzer als 4.; 3. so lang wie 5. \n\nPronotum vorn eingeschnitten. \n\n\n\n\n\n\n\n132 \n\n\nNILS HOLMGREN, TERMITENSTUDIEN. \n\n\nKörperlänge..... 7 mm \n\nKopf mit Mandibeln —.. 3,19 » \n\n» ohne » . 2,13 » \n\nKopfbreite. l,7i » \n\nBreite des Prono tu ms - .. 1,18 » \n\n\nArbeiter: Zwei Grössen. \n\nKopf gelblich, Körper weisslieh. \n\nBehaarung ziemlich dünn. \n\nKopf viereckig abgerundet. Fontanelle gross, sehr deutlich. Clypeobasale kurz, \netwas aufgetrieben. Antennen bei den kleineren Soldaten 17-gliedrig, bei den grös¬ \nseren 18-gliedrig. Bei grösseren: 4. Glied am kürzesten; bei kleineren: 3. Glied am \nkürzesten. \n\nPronotum vorn etwas ausgeschnitten. \n\n\nGrosser Arbeiter \n\n\nKörperlänge . 6 mm \n\nKopf breite . 1,67 » \n\nBreite des Pronotums 0,87 » \n\n\nKleiner Arbeiter \n\n4,5 nun \n1,29 » \n\n0,63 »",
+     "locator": "条目",
+     "note": "支撑：Forma celebensis 兵蚁与工蚁的形态及量度（兵 7/3,19/2,13/1,71/1,18；工蚁大 6/1,67/0,87、小 4,5/1,29/0,63）；该段前为 celebensis 有翅成虫量度 14 mm / 2,62 / 2,43 / 1,14，其头长 OCR 作「2,6«」不可辨故未采用"
+    },
+    {
+     "quote": "Imago: Kopf kastanienbraun, mit gelbem Clypeus und Antennen. Pronotum und \nHinterleibstergite heller braun. Meso- und Metanotum nebst Unterseite und Beinen \nrostgelblich. Flägel grau.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫体色（德文）"
+    },
+    {
+     "quote": "Kopf etwas langgestreckt oval, nach vorn verschmälert. Facettenaugen gross, \nflach. Ozellen relativ klein, von den Augen um weniger als ihren kleineren Durch- \nmesser entfernt. Fontanelle eingedräckt, etwas hinter der Mitte des Kopfes. Clypeo- \nbasale sehr kurz, hinten sehr schwach konvex, vorn gerade oder sogar etwas kon- \nkav begrenzt, flach. Antennen 153-gliedrig. 2. Glied undeutlich länger als 3.; 3. so \nlang wie 4. \n\nPronotum vorn undeutlich eingeschnitten, hinten schwach ausgerandet. Meso- \nnotum tiefer ausgeschnitten als das Metanotum. Mediana einfach oder gabelförmig. \nCubitus mit ca. 8 Zweigen.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫头、单眼、触角与翅脉"
+    },
+    {
+     "quote": "Soldat [Tafel VIII, Fig. 15]: Kopf gelb bis braungelb. Oberkiefer gegen die \nSpitze braun. Körper weissgelb. \n\nKopf mit spärlichen Borsten. Hinterleibstergite nur mit einer hinteren Bor- \nstenreihe. \n\nKopf oval, nach vorn etwas verschmälert. Fontanelle hinter der Kopfmitte. \nClypeobasale relåtiv kurz und flach. Oberlippe dreieckig zugespitzt. Oberkiefer käurzer \nals der Kopf im ibrigen, säbelförmig, relativ schmal, basal mit der typischen Pro- \nhamitermes-Bezahnung. Antennen 14-gliedrig, ziemlich lang. 3. Glied länger als 2.; \n4. kärzer als 2. Submentum in der Mitte aufgetrieben.",
+     "locator": "条目",
+     "note": "支撑：兵蚁形态"
+    },
+    {
+     "quote": "6. Odontotermes javanicus n. sp. \n\n\nImago [Tafel IV, Fig. 6]: Kastanienbraun. Antennenflecke und oft auch der \nganze Vorderrand des Transversalbandes, Clypeobasale, Mundteile, Antennen, ein \nT-Fleck und zwei Schulterflecke auf dem Pronotum, Vorderteil des Meso- und Meta- \nnotums, Unterseite und Beine rostgelb. Abdominalsternite lateral hellbraun. Flägel \ngelblichbraun (in Spiritus).",
+     "locator": "条目",
+     "note": "Holmgren《Termitenstudien》新种描述：有翅成虫（图版 IV 图 6）、兵蚁（图版 V 图 6）、工蚁（大、小两型）齐备并各含量度，另有型 nymanni、型 Buitenzorghi 的有翅成虫描述；量度区 OCR 损坏较重，仅保留标签可辨的数值。已写条目。"
+    },
+    {
+     "quote": "Imago [Tafel IV, Fig. 8]: O. dives sehr ähnlich aber grösser. Fontanellenerhe- \nbung breiter. Leiste vor der Fontanelle ziemlich scharf. Facettenaugen relativ kleiner. \nAntennenglieder dicker. Antennen kärzer. Ozellen vorn den Augen um ihren längeren \nDurchmesser entfernt.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫与 O. dives 的定性差别（故本条目有翅成虫不列数字）"
+    },
+    {
+     "quote": "Kopf (gelb)braun, dunkel, Körper strohgelb bis rostgelb. \n\nKopf mit nur einigen Borsten. Abdominaltergite ziemlich diänn, borstig behaart. \n\nKopf breit oval, hinten stark abgerundet, nach vorn bogenförmig verengt, ziem- \nlich gewölbt. Fontanellenplatte vorhanden, klein, sehr undeutlich. Clypeobasale kurz, \nflach. Antennenleisten recht stark konvergierend. Oberlippe dreieckig zugespitzt, \n\n\nKUNGL. SV. VET. AKADEMIENS HANDLINGAR. BAND 50. N:o 2. 135 \n\n\netwa bis zum Mandibelzahn reichend. Oberkiefer relativ kurz, säbelförmig gebogen. \nMittelzahn des linken Oberkiefers in basalen Drittel des Kiefers gelegen. Rechter Ober- \nkiefer ohne deutlich Zähne. Basalteil wenig prononciert mit Rudimentärzahn, (sehr \nundeutlich). Antennen 17-gliedrig. 3. Glied viel kärzer als 2. und undeutlich kurzer \nals 4.; 5. so lang wie 3. \n\nPronotum sattelförmig, vorn und hinten ausgeschnitten. \n\n\nIKörperlange erat pare ae 7,5—8 mm \nKopf mit Mandibeln - 3,61 \n\n» ohne ESAs gr rakan 2,51 » \nIKöpibreltes = Se Tar 2,18 > \nBreite des Pronotums ...——----- 1,48 >",
+     "locator": "条目",
+     "note": "支撑：兵蚁体色、头形、上颚与齿位、触角 17 节及兵蚁量度（体长/头连上颚/头不连上颚/头宽/前胸背板宽）"
+    },
+    {
+     "quote": "Arbeiter (zwei Grössen): Den Arbeiten von 0. javanicus äusserst ähnlich. \n\nKopf rötliech—gelb. Körper hell strohgelb. \n\nBehaarung wie bei O. javanicus oder möglicherweise etwas dichter. Kopf vier- \neckig oval, relativ flach, nach vorn eingedräckt. Fontanelle deutlich. Clypeobasale \nkurz, flach gewölbt. Antennen 17'—18-gliedrig. 2. Glied etwa so lang vie 3. + 4.; \n3. etwes länger als 4. \n\nPronotum vorn etwas eingeschnitten. \n\n\nGrosser Arbeiter Kleiner Arbeiter \nKörperlänge SET 3,7 mm 3,5 mm \nIKOpIbrerteE Es Eee TN 1,56—1,60 > 1,06 > \nBreite des Pronotums -.. 0,87 > 0,76",
+     "locator": "条目",
+     "note": "支撑：工蚁两型的形态与量度（大 3,7/1,56—1,60/0,87；小 3,5/1,06/0,76）"
     }
    ],
    "used_in": [
@@ -7738,10 +7906,14 @@
     "_data/morphology_species/nasutitermes/nasutitermes-matangensis-matangensioides.json",
     "_data/morphology_species/nasutitermes/nasutitermes-ovipennis.json",
     "_data/morphology_species/nasutitermes/nasutitermes-timoriensis.json",
+    "_data/morphology_species/odontotermes/odontotermes-dives.json",
+    "_data/morphology_species/odontotermes/odontotermes-grandiceps.json",
+    "_data/morphology_species/odontotermes/odontotermes-javanicus.json",
     "_data/morphology_species/procapritermes/procapritermes-atypus.json",
+    "_data/morphology_species/prohamitermes/prohamitermes-mirabilis.json",
     "_tools/fauna/morphology/descriptions/08-nasuti-a.json"
    ],
-   "accessed": "2026-11-20T02:58:01+08:00",
+   "accessed": "2026-11-20T05:12:18+08:00",
    "canonical_key": "url:https://archive.org/details/biostor-244353",
    "id": "S0089",
    "retrieved_via": "fleet"
@@ -8088,7 +8260,7 @@
    "publisher": "American Museum of Natural History",
    "lang": "en",
    "license": "unknown",
-   "notes": "AMNH Novitates 单篇扫描，djvu OCR；页码按页眉还原（Novitates no. 1988）。；AMNH handle：http://hdl.handle.net/2246/4713",
+   "notes": "AMNH Novitates 单篇扫描，djvu OCR；页码按页眉还原（Novitates no. 1988）。；AMNH handle：http://hdl.handle.net/2246/4713；全文存于 _unpublished/文库/Six-new-genera-of-Termitinae-from-the-Belgian-Congo-(Isoptera,-Termitidae)（108967 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
    "evidence": [
     {
      "quote": "The imago-worker mandibles, with the absence of the second marginal tooth in the right mandible, are similar only to those of Euchilotermes, Ophiotermes, Tuberculitermes, and Spini- termes",
@@ -8224,23 +8396,84 @@
      "quote": "Head proportionately short, wide, and thick; almost circular from above. Sides and rear margin of head somewhat convexly curved. Front of vertex from above obtusely and weakly pointed. One soldier in the series has a bilobed or weakly indented hind margin of the head.",
      "locator": "p. 36 / ia/sixnewgenerater1988emer.txt",
      "note": ""
+    },
+    {
+     "quote": "SOLDIER (FIGs. 7, 8A, 9A): Top of head in profile (fig. 7B) nearly \nstraight or slightly concave (one specimen is slightly convex). The most \ndistinctive specific characters are the size and proportions of the parts, \nthe shape of the labrum (fig. 9A), and the shape of the mandibles (fig. \n8A). Antenna with 14 or 15 articles. Mandibles in some specimens a \nlittle more irregular in outline than in figure 8A, but all have a fairly \nevenly convex outer edge and are not elbowed as in F. cubitalis (fig. 9C).",
+     "locator": "条目",
+     "note": "支撑：兵蚁全段描述（头顶轮廓、触角 14—15 节、上唇与上颚形状）"
+    },
+    {
+     "quote": "Comparisons: Mucrotermes heterochilus (Silvestri) was originally \nassigned to Procubitermes but is surely congeneric with Mucrotermes \nosborni. The soldier mandibles, particularly the basal portions, the \ngeneral shape of the head of the soldier, the lateral small hump behind \neach antennal base, the slope of the vertex, the position and pilosity of \nthe frontal gland opening, and the proportions of the maxillary palps, \nindicate close affinity. The worker mandibles of M. heterochilus are \nclose to those of M. osborni, except that the apical tooth of each man- \ndible is proportionately somewhat larger. A cotype soldier of M. hetero- \nchilus from Segboroué (latitude 6° 20’ N., longitude 2° 0’ E.), Dahomey, \ndiffers from M. osborni in its smaller size (width of head, 1.10 mm.);",
+     "locator": "条目",
+     "note": "支撑：鉴别要点（副模兵蚁头宽 1.10 mm 及与 M. osborni 的差异）"
+    },
+    {
+     "quote": "SOLDIER (FIGS. 9E, 10D): The soldier is close to that of F. winifredae, \nwith the exception of the labrum which is shorter in the middle, with \nlong, moderately thin, lateral lobes and with conspicuously more \ncurved lateral margins (figs. 9A, 9E). Top of head in profile slightly \nconvex, with a slight concavity behind the frontal projection. Antenna \nwith 14 or 15 articles. Mandibles (fig. 10D) with fairly evenly convex \nouter margins. \n\nComparisons: The soldier of F. cubitalis has somewhat elbowed man- \ndibles (fig. 10C) and a more concave profile of the head behind the \nfrontal projection. \n\nLOCALITIES AND MATERIAL: The descriptions are based on one mor- \nphotype queen, seven soldiers (holotype, paratypes), workers, and \nnymphs from the type colony collected by A. Emerson at a Pygmy \ncamp, 4 kilometers north of Camp Putnam (latitude 1° 24 N., longi- \ntude 28° 36’ E.) on the Epulu River, Belgian Congo, on May 19, 1948, \nin the base of a deserted mound of loose dirt. A paratype soldier with \nworkers was collected by A.",
+     "locator": "条目",
+     "note": "支撑：兵蚁与 F. winifredae 的鉴别及上唇形态"
+    },
+    {
+     "quote": "Lepidotermes planifacies (Williams) conforms to the generic char- \nacters of Lepidotermes in its minutely granular upper and under \nsurfaces of the soldier mandibles from the marginal tooth to the apex \nand fine striations visible in a favorable light near the apex and near \nthe marginal tooth. The tooth-like projection of the molar plate of \nthe left mandible does not project forward so much as in L. goliathi, \nbut projects forward more than in Nitiditermes berghei. The labrum \nof the soldier of Lepidotermes planifacies is not indented in the middle \nso much as in Nitiditermes berghei, nor are the lateral points so sharp. \nThe irregular postmentum of the soldier in profile, the sharper front \nin profile, and the equal distance of the left imago-worker mandible \nfrom the apex to the first marginal tooth compared to the distance \nbetween the tips of the first and third marginal teeth suggest the possi- \nbility that Lepidotermes planifacies may belong to a new genus ap- \nproaching Fastigitermes.",
+     "locator": "条目",
+     "note": "支撑：上颚颗粒与条纹、磨板齿突、上唇凹陷"
+    },
+    {
+     "quote": "The tooth-like projection of the molar plate of \nthe left mandible does not project forward so much as in L. goliathi, \nbut projects forward more than in Nitiditermes berghei. The labrum \nof the soldier of Lepidotermes planifacies is not indented in the middle \nso much as in Nitiditermes berghei, nor are the lateral points so sharp. \nThe irregular postmentum of the soldier in profile, the sharper front \nin profile, and the equal distance of the left imago-worker mandible \nfrom the apex to the first marginal tooth compared to the distance \nbetween the tips of the first and third marginal teeth suggest the possi- \nbility that Lepidotermes planifacies may belong to a new genus ap- \nproaching Fastigitermes. Lepidotermes planifacies is distinct from \nProfastigitermes putnam: described in the following pages and, in the \nopinion of the author, seems best included in Lepidotermes, at least \nuntil a more exacting study of related species has been made.",
+     "locator": "条目",
+     "note": "支撑：后颏、额部与左上颚距离特征"
+    },
+    {
+     "quote": "Imaco (KING AND DEALATED MALE; FIG. 1): Portions of the under",
+     "locator": "条目",
+     "note": "支撑：有翅成虫（王与脱翅雄虫）描述起始（OCR 作 Imaco）"
+    },
+    {
+     "quote": "SOLDIER (FIG. 2): Head light brownish yellow",
+     "locator": "条目",
+     "note": "支撑：兵蚁体色、头部隆起与触角"
+    },
+    {
+     "quote": "MEASUREMENTS (IN MILLIMETERS) OF SOLDIERS FROM Four COLONIES",
+     "locator": "条目",
+     "note": "支撑：兵蚁量度表（表 2）"
     }
    ],
    "used_in": [
     "_data/etymology.json",
     "_data/morphology_genera.json",
+    "_data/morphology_species/furculitermes/furculitermes-brevilabius.json",
+    "_data/morphology_species/furculitermes/furculitermes-winifredae.json",
+    "_data/morphology_species/lepidotermes/lepidotermes-planifacies.json",
+    "_data/morphology_species/mucrotermes/mucrotermes-heterochilus.json",
     "_data/morphology_species/mucrotermes/mucrotermes-osborni.json",
+    "_data/morphology_species/nitiditermes/nitiditermes-berghei.json",
     "_data/morphology_species/pilotermes/pilotermes-langi.json",
     "_tools/fauna/morphology/descriptions/08-african.json",
     "_tools/fauna/morphology/descriptions/09-unassigned.json"
    ],
-   "accessed": "2026-11-20T02:58:01+08:00",
+   "accessed": "2026-11-20T05:12:18+08:00",
    "canonical_key": "url:https://archive.org/details/sixnewgenerater1988emer",
    "id": "S0100",
-   "body_sha256": "0d64cf4714dc0d5709464bea96240f434bd95fed8c10f826aa140eabb622a67b",
-   "chars": 108969,
-   "file_path": "_tmp/lit/fulltext/09-unassigned/forficulitermes_emerson1960.txt",
-   "retrieved_via": "web_search"
+   "chars": 108967,
+   "file_path": "_unpublished/文库/Six-new-genera-of-Termitinae-from-the-Belgian-Congo-(Isoptera,-Termitidae)",
+   "retrieved_via": "文库（text）",
+   "library": {
+    "book": "Six-new-genera-of-Termitinae-from-the-Belgian-Congo-(Isoptera,-Termitidae)",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T04:52:08",
+    "chunks": [
+     {
+      "chunk": "full",
+      "txt": "_unpublished/文库/Six-new-genera-of-Termitinae-from-the-Belgian-Congo-(Isoptera,-Termitidae)/full.txt",
+      "chars": 108967,
+      "paragraphs": 2465,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\sixnewgenerater1988emer.txt",
+      "sha256": "324c0c221047fa96025f34c2df1057d09de7a18113bcd77d71bad89699dfec73",
+      "bytes": 109191
+     }
+    ]
+   }
   },
   {
    "title": "Termites (Blattodea: Isoptera) of Canada, continental USA, and Mexico: an identification key to families and genera, checklist of species, and new records for Mexico",
@@ -10210,7 +10443,7 @@
     "Krishna K.",
     "Emerson A. E."
    ],
-   "retrieved_via": "web_search",
+   "retrieved_via": "文库（text）",
    "evidence": [
     {
      "quote": "The species is named in honor of the late Dr. K. P. Schmidt, Chief Curator of Zoology, Chicago Natural History Museum, Chicago, Illinois.",
@@ -10321,12 +10554,23 @@
      "quote": "Head elongate, slightly narrower posteriorly; anterodorsal prominences distinct, pointed; frons depressed and concave. Eyes large, suboval. Labrum with anterior margin straight. Mandibles long, outer bases humped; left mandible with three marginal teeth, first subconical, second with posterior margin concave; right mandible with two marginal teeth, point of first marginal tooth 0.38 mm. from tip of apical tooth. Postmentum shaped as in figure, less than twice as wide in broadest part as in narrowest.",
      "locator": "p. 22 / ia/newspeciesgenus2089kris.txt",
      "note": ""
+    },
+    {
+     "quote": "Imaco (FIc. 23): Head reddish brown, frons lighter; pronotum yellow- \nish brown; labrum brownish; antennae and legs yellowish; wing scale \nreddish brown; wing membrane translucent, with a light yellowish tinge. \nHead moderately covered with both long and short bristles; pronotum \nwith both long and short bristles along margins and on disc. Head \n\n\n1962 KRISHNA AND EMERSON: GLYPTOTERMES 43 \n\n\nFic. 23. Imago of Glypiotermes contracticorns (Snyder). A. Head and pronotum \nfrom above. B. Head from side. Morphotype colony from 8 miles from San José, \nCosta Rica. \n\n\nposterior to eyes semicircular. Eyes large and swollen, shaped as in \nfigure. Ocellus oblique, touching the eye. Antenna with 14 to 15 articles; \nsecond article longer than third or fourth, third longer than fourth. \nPronotum slightly narrower than head; anterior margin broadly concave; \nsides rounded; posterior margin slightly emarginate. Hind wing with",
+     "locator": "条目",
+     "note": "支撑：有翅成虫：色/毛/复眼/单眼/触角/前胸背板"
+    },
+    {
+     "quote": "Diameter of eye 0.39-0.44 0 \nEye from lower margin 0.18-0.19 0. \nLength of ocellus 0.15-0.18 0.17 \nMedian length of pronotum 0.70-0.83 0 \nWidth of pronotum 1, 28-1.48 l \nLength of hind tibia 1.35-1.50 1 \nLength of forewing from suture 10.53-11.45 10. \nWidth of forewing 2.83-2.97 2.,",
+     "locator": "条目",
+     "note": "支撑：表23：复眼径至前翅宽各量度"
     }
    ],
    "used_in": [
     "_data/etymology.json",
     "_data/morphology_species/glyptotermes/glyptotermes-adamsoni.json",
     "_data/morphology_species/glyptotermes/glyptotermes-concavifrons.json",
+    "_data/morphology_species/glyptotermes/glyptotermes-contracticornis.json",
     "_data/morphology_species/glyptotermes/glyptotermes-guamensis.json",
     "_data/morphology_species/glyptotermes/glyptotermes-hendrickxi.json",
     "_data/morphology_species/glyptotermes/glyptotermes-jurioni.json",
@@ -10345,10 +10589,30 @@
     "_data/morphology_species/glyptotermes/glyptotermes-truncatus.json",
     "_data/morphology_species/glyptotermes/glyptotermes-tuberifer.json"
    ],
-   "accessed": "2026-11-20T02:58:01+08:00",
+   "accessed": "2026-11-20T05:12:18+08:00",
    "canonical_key": "url:https://archive.org/details/newspeciesgenus2089kris",
    "id": "S0133",
-   "notes": "agent-collected; quote verbatim from the archived full text."
+   "notes": "agent-collected; quote verbatim from the archived full text.；全文存于 _unpublished/文库/New-species-of-the-genus-Glyptotermes-Froggatt-from-the-Papuan,-Oriental,-Ethiop（114590 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "library": {
+    "book": "New-species-of-the-genus-Glyptotermes-Froggatt-from-the-Papuan,-Oriental,-Ethiop",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T04:52:08",
+    "chunks": [
+     {
+      "chunk": "full",
+      "txt": "_unpublished/文库/New-species-of-the-genus-Glyptotermes-Froggatt-from-the-Papuan,-Oriental,-Ethiop/full.txt",
+      "chars": 114590,
+      "paragraphs": 3026,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\newspeciesgenus2089kris.txt",
+      "sha256": "28d81b1f481211a2c97fa77ad75f9bae294c0505791c53ce6361166f6a125efc",
+      "bytes": 114862
+     }
+    ]
+   },
+   "file_path": "_unpublished/文库/New-species-of-the-genus-Glyptotermes-Froggatt-from-the-Papuan,-Oriental,-Ethiop",
+   "chars": 114590,
+   "publisher": "New York, N.Y. : American Museum of Natural History"
   },
   {
    "title": "The caste- and sex-specific DNA methylome of the termite Zootermopsis nevadensis",
@@ -30459,57 +30723,57 @@
    "id": "S0533"
   },
   {
-   "title": "Contribuzione alla conoscenza dei Termitidi e Termitofili dell’Africa occidentale. I. Termitidi",
+   "title": "Bollettino del Laboratorio di zoologia generale e agraria della R. Scuola superiore d'agricoltura in Portici",
    "source_type": "paper",
    "reliability": "peer_reviewed",
    "canonical_key": "url:https://archive.org/details/bollettinodellab9191415rscufo",
-   "file_path": "_unpublished/文库/Contribuzione-alla-conoscenza-dei-Termitidi-e-Termitofili-dell’Africa-occidental",
+   "file_path": "_unpublished/文库/Bollettino-del-Laboratorio-di-zoologia-generale-e-agraria-della-R.-Scuola-superi",
    "chars": 736739,
    "retrieved_via": "文库（text）",
-   "accessed": "2026-11-20T03:38:34+08:00",
-   "notes": "全文存于 _unpublished/文库/Contribuzione-alla-conoscenza-dei-Termitidi-e-Termitofili-dell’Africa-occidental（736739 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "accessed": "2026-11-20T05:12:18+08:00",
+   "notes": "全文存于 _unpublished/文库/Bollettino-del-Laboratorio-di-zoologia-generale-e-agraria-della-R.-Scuola-superi（736739 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
    "library": {
-    "book": "Contribuzione-alla-conoscenza-dei-Termitidi-e-Termitofili-dell’Africa-occidental",
+    "book": "Bollettino-del-Laboratorio-di-zoologia-generale-e-agraria-della-R.-Scuola-superi",
     "manifest": "_unpublished/文库/manifest.json",
-    "generated": "2026-11-20T02:57:53",
+    "generated": "2026-11-20T04:52:07",
     "chunks": [
      {
       "chunk": "part-001",
-      "txt": "_unpublished/文库/Contribuzione-alla-conoscenza-dei-Termitidi-e-Termitofili-dell’Africa-occidental/part-001.txt",
+      "txt": "_unpublished/文库/Bollettino-del-Laboratorio-di-zoologia-generale-e-agraria-della-R.-Scuola-superi/part-001.txt",
       "chars": 199955,
       "paragraphs": 6624,
       "table_rows": 0,
-      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fleet_01\\ia_txt\\bollettinodellab9191415rscufo.txt",
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bollettinodellab9191415rscufo.txt",
       "sha256": "66968ffaf09bfcaaa361cf77ebebd1d4a3f9816224a700abf8ed9221946933a4",
       "bytes": 200948
      },
      {
       "chunk": "part-002",
-      "txt": "_unpublished/文库/Contribuzione-alla-conoscenza-dei-Termitidi-e-Termitofili-dell’Africa-occidental/part-002.txt",
+      "txt": "_unpublished/文库/Bollettino-del-Laboratorio-di-zoologia-generale-e-agraria-della-R.-Scuola-superi/part-002.txt",
       "chars": 199965,
       "paragraphs": 6200,
       "table_rows": 0,
-      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fleet_01\\ia_txt\\bollettinodellab9191415rscufo.txt",
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bollettinodellab9191415rscufo.txt",
       "sha256": "5fb73b854ebe4f7c5d0319823965e7d01b1258c4122ddb1185161e353a2657cd",
       "bytes": 201921
      },
      {
       "chunk": "part-003",
-      "txt": "_unpublished/文库/Contribuzione-alla-conoscenza-dei-Termitidi-e-Termitofili-dell’Africa-occidental/part-003.txt",
+      "txt": "_unpublished/文库/Bollettino-del-Laboratorio-di-zoologia-generale-e-agraria-della-R.-Scuola-superi/part-003.txt",
       "chars": 199989,
       "paragraphs": 6376,
       "table_rows": 0,
-      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fleet_01\\ia_txt\\bollettinodellab9191415rscufo.txt",
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bollettinodellab9191415rscufo.txt",
       "sha256": "5bfb3ad29ae495e4866e0e671566ac8cecce256d718eb52a9c14975143c44e0f",
       "bytes": 203013
      },
      {
       "chunk": "part-004",
-      "txt": "_unpublished/文库/Contribuzione-alla-conoscenza-dei-Termitidi-e-Termitofili-dell’Africa-occidental/part-004.txt",
+      "txt": "_unpublished/文库/Bollettino-del-Laboratorio-di-zoologia-generale-e-agraria-della-R.-Scuola-superi/part-004.txt",
       "chars": 136830,
       "paragraphs": 4400,
       "table_rows": 0,
-      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fleet_01\\ia_txt\\bollettinodellab9191415rscufo.txt",
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bollettinodellab9191415rscufo.txt",
       "sha256": "e71a96354097eb82e5adfbe1976f3f59c4f173aa2ce11eb6f2a74401812ca251",
       "bytes": 138897
      }
@@ -30522,6 +30786,7 @@
    "publisher": "Bollettino del Laboratorio di Zoologia Generale e Agraria della Reale Scuola Superiore d’Agricoltura in Portici 9: 1–146",
    "url": "https://archive.org/details/bollettinodellab9191415rscufo",
    "used_in": [
+    "_data/morphology_species/ancistrotermes/ancistrotermes-crucifer-diversana.json",
     "_data/morphology_species/astalotermes/astalotermes-concilians.json",
     "_data/morphology_species/basidentitermes/basidentitermes-diversifrons.json",
     "_data/morphology_species/cubitermes/cubitermes-pretorianus-pretorianus.json",
@@ -30612,9 +30877,20 @@
      "quote": "Cubitermes preterianus sp. n. — Miles. Corpus cremeum capite ochroleuco mandibulis nigris ... Long. corp. mm. 6, long. capitis 1,63, ejusdem lat. 1,30, long. mandibularum 1,43, antennarum 1,82, tibiae III 1,10. Habitat. Transvaal: Pretoria.",
      "locator": "p. 105",
      "note": "种级描述（原文逐字，拉丁文；OCR 断行已并合）"
+    },
+    {
+     "quote": "Regina. Long. corp. mm 27; long. capitis 1,50, ejusdem lat. 1,30, \ndiametros long. oculi 0,45, lat. abdominis 7. \n\nMilites et operarii ejsdem for- \nmae typicae similes sunt. \n\nHabitat. Gallorum Guinea: Ca- \nmayenne, Kakoulima, Kindia. \n\nObservatio. Varietas haee a \nforma typiea oculis minus longis \ndiffert. \n\n\nAneistrotermes erueifer (Sjöst.). \n\n\nvar. guineensis Silv. \n\n\nTermes (Ancistrotermes) crucifer guine- \nensis Silv. Ann. Mus. Genova (3) \nVi 1912 4p 227: \n\nMicrotermes guineensis Holmgren, Ent. \n\nTidskr. 1913, p. 333. \nzuinea francese: Mamou \n(buon numero di operai grandi \npiccoli, soldati piccoli e uno \n\n\ne \ninspectum; 3. ejusdem frontis particula cum grande). \n\n\nFig. VIII. Ancistrotermes erueifer v. diversana: \n1. feminae caput pronum; 2. idem lateraliter \n\n\nfontanella F magis ampliata; 4. militis majoris \n\n\na Ramon Rapp eo Ora che ho esaminato buon \n\nnumero di soldati della forma \ntipica di Ancistrotermes crucifer e A. crucifer var. diversana, \nnon mi sembra notare differenze apprezzabili nella grandezza e \nnella forma dei soldati; trovo invece una diversità di grandezza \nnel capo degli operai grandi. \n\nQuesto nell’A.",
+     "locator": "条目",
+     "note": "支撑：本亚种蚁后量度与描述"
+    },
+    {
+     "quote": "Milites et operarii ejsdem for- \nmae typicae similes sunt. \n\nHabitat. Gallorum Guinea: Ca- \nmayenne, Kakoulima, Kindia. \n\nObservatio. Varietas haee a \nforma typiea oculis minus longis \ndiffert. \n\n\nAneistrotermes erueifer (Sjöst.). \n\n\nvar. guineensis Silv. \n\n\nTermes (Ancistrotermes) crucifer guine- \nensis Silv. Ann. Mus. Genova (3) \nVi 1912 4p 227: \n\nMicrotermes guineensis Holmgren, Ent. \n\nTidskr. 1913, p. 333. \nzuinea francese: Mamou \n(buon numero di operai grandi \npiccoli, soldati piccoli e uno \n\n\ne \ninspectum; 3. ejusdem frontis particula cum grande). \n\n\nFig. VIII. Ancistrotermes erueifer v. diversana: \n1. feminae caput pronum; 2. idem lateraliter \n\n\nfontanella F magis ampliata; 4. militis majoris \n\n\na Ramon Rapp eo Ora che ho esaminato buon \n\nnumero di soldati della forma \ntipica di Ancistrotermes crucifer e A. crucifer var. diversana, \nnon mi sembra notare differenze apprezzabili nella grandezza e \nnella forma dei soldati; trovo invece una diversità di grandezza \nnel capo degli operai grandi. \n\nQuesto nell’A. crucifer var. guineensis è largo 1,43, mentre \nnella forma tipica e nella varietà diversana è largo 1,36.",
+     "locator": "条目",
+     "note": "支撑：兵蚁与工蚁同典型型"
     }
    ],
-   "id": "S0534"
+   "id": "S0534",
+   "lang": "en"
   },
   {
    "title": "Zur Termitenfauna Kongos",
@@ -33134,73 +33410,73 @@
    "source_type": "paper",
    "reliability": "peer_reviewed",
    "canonical_key": "url:https://archive.org/details/dli.zoological.fi.026",
-   "file_path": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-I",
+   "file_path": "_unpublished/文库/Isoptera-(Termites)",
    "chars": 1101660,
    "retrieved_via": "文库（text）",
-   "accessed": "2026-11-20T03:38:34+08:00",
-   "notes": "全文存于 _unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-I（1101660 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "accessed": "2026-11-20T05:12:18+08:00",
+   "notes": "全文存于 _unpublished/文库/Isoptera-(Termites)（1101660 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
    "library": {
-    "book": "The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-I",
+    "book": "Isoptera-(Termites)",
     "manifest": "_unpublished/文库/manifest.json",
-    "generated": "2026-11-20T02:57:53",
+    "generated": "2026-11-20T04:52:05",
     "chunks": [
      {
       "chunk": "part-001",
-      "txt": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-I/part-001.txt",
+      "txt": "_unpublished/文库/Isoptera-(Termites)/part-001.txt",
       "chars": 199934,
       "paragraphs": 6977,
       "table_rows": 0,
-      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fleet_07\\pdf\\chhotani1997_fauna_india_v1.txt",
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\dli.zoological.fi.026.txt",
       "sha256": "3c5cd07b7ca28aa6b5617ffa41514a23b99fa9461b8ebdae42a29161b2d52367",
       "bytes": 200502
      },
      {
       "chunk": "part-002",
-      "txt": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-I/part-002.txt",
+      "txt": "_unpublished/文库/Isoptera-(Termites)/part-002.txt",
       "chars": 199920,
       "paragraphs": 5681,
       "table_rows": 0,
-      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fleet_07\\pdf\\chhotani1997_fauna_india_v1.txt",
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\dli.zoological.fi.026.txt",
       "sha256": "5f3cf9c24810db1ed5ed09d2ea9e3ee83aa33d0045074fddbe278622833537b0",
       "bytes": 200070
      },
      {
       "chunk": "part-003",
-      "txt": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-I/part-003.txt",
+      "txt": "_unpublished/文库/Isoptera-(Termites)/part-003.txt",
       "chars": 199977,
       "paragraphs": 5044,
       "table_rows": 0,
-      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fleet_07\\pdf\\chhotani1997_fauna_india_v1.txt",
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\dli.zoological.fi.026.txt",
       "sha256": "017d54b03c60d005c587c8c373b7144b577eeef454dcd22013e211db468ddd77",
       "bytes": 200045
      },
      {
       "chunk": "part-004",
-      "txt": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-I/part-004.txt",
+      "txt": "_unpublished/文库/Isoptera-(Termites)/part-004.txt",
       "chars": 200000,
       "paragraphs": 5567,
       "table_rows": 0,
-      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fleet_07\\pdf\\chhotani1997_fauna_india_v1.txt",
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\dli.zoological.fi.026.txt",
       "sha256": "6c444c109f66a9d7d647a1953d0f284d1a8a9bc4b34709ef124e1909cbc319ed",
       "bytes": 200091
      },
      {
       "chunk": "part-005",
-      "txt": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-I/part-005.txt",
+      "txt": "_unpublished/文库/Isoptera-(Termites)/part-005.txt",
       "chars": 199941,
       "paragraphs": 5515,
       "table_rows": 0,
-      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fleet_07\\pdf\\chhotani1997_fauna_india_v1.txt",
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\dli.zoological.fi.026.txt",
       "sha256": "f3f86d80681082af0c2d26bc034d034a743e08768e51db18726dc6444a67e629",
       "bytes": 200055
      },
      {
       "chunk": "part-006",
-      "txt": "_unpublished/文库/The-Fauna-of-India-and-the-Adjacent-Countries-Isoptera-(Termites),-Volume-I/part-006.txt",
+      "txt": "_unpublished/文库/Isoptera-(Termites)/part-006.txt",
       "chars": 101888,
       "paragraphs": 3347,
       "table_rows": 0,
-      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fleet_07\\pdf\\chhotani1997_fauna_india_v1.txt",
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\dli.zoological.fi.026.txt",
       "sha256": "4de3f5a253685c88f3ff75d3e207421b7f8d760d49ad7a8784b3a229a873962e",
       "bytes": 101960
      }
@@ -33215,17 +33491,31 @@
    "url": "https://archive.org/details/dli.zoological.fi.026",
    "used_in": [
     "_data/morphology_species/bifiditermes/bifiditermes-pintoi.json",
+    "_data/morphology_species/calcaritermes/calcaritermes-krishnai.json",
+    "_data/morphology_species/cryptotermes/cryptotermes-karachiensis.json",
+    "_data/morphology_species/epicalotermes/epicalotermes-pakistanicus.json",
+    "_data/morphology_species/glyptotermes/glyptotermes-arshadi.json",
+    "_data/morphology_species/glyptotermes/glyptotermes-coorgensis.json",
+    "_data/morphology_species/heterotermes/heterotermes-balwanti.json",
     "_data/morphology_species/incisitermes/incisitermes-didwanaensis.json",
+    "_data/morphology_species/indotermes/indotermes-arshadi.json",
     "_data/morphology_species/neotermes/neotermes-adampurensis.json",
     "_data/morphology_species/neotermes/neotermes-artocarpi.json",
     "_data/morphology_species/neotermes/neotermes-buxensis.json",
     "_data/morphology_species/neotermes/neotermes-dhirendrai.json",
     "_data/morphology_species/neotermes/neotermes-eleanorae.json",
     "_data/morphology_species/neotermes/neotermes-fletcheri.json",
+    "_data/morphology_species/neotermes/neotermes-greeni.json",
     "_data/morphology_species/neotermes/neotermes-kalimpongensis.json",
     "_data/morphology_species/neotermes/neotermes-kemneri.json",
     "_data/morphology_species/neotermes/neotermes-keralai.json",
     "_data/morphology_species/neotermes/neotermes-krishnai.json",
+    "_data/morphology_species/neotermes/neotermes-microculatus.json",
+    "_data/morphology_species/neotermes/neotermes-nilamburensis.json",
+    "_data/morphology_species/neotermes/neotermes-paratensis.json",
+    "_data/morphology_species/neotermes/neotermes-prosonneratiae.json",
+    "_data/morphology_species/neotermes/neotermes-venkateshwara.json",
+    "_data/morphology_species/postelectrotermes/postelectrotermes-bhimi.json",
     "_data/morphology_species/postelectrotermes/postelectrotermes-militaris.json",
     "_data/morphology_species/postelectrotermes/postelectrotermes-nayari.json",
     "_data/morphology_species/postelectrotermes/postelectrotermes-pasniensis.json",
@@ -33233,6 +33523,8 @@
     "_data/morphology_species/procryptotermes/procryptotermes-dhari.json",
     "_data/morphology_species/procryptotermes/procryptotermes-hunsurensis.json",
     "_data/morphology_species/procryptotermes/procryptotermes-valeriae.json",
+    "_data/morphology_species/reticulitermes/reticulitermes-saraswati.json",
+    "_data/morphology_species/schedorhinotermes/schedorhinotermes-brevialatus.json",
     "_data/morphology_species/stylotermes/stylotermes-ahmadi.json",
     "_data/morphology_species/stylotermes/stylotermes-beesoni.json",
     "_data/morphology_species/stylotermes/stylotermes-bengalensis.json",
@@ -33240,7 +33532,8 @@
     "_data/morphology_species/stylotermes/stylotermes-dunensis.json",
     "_data/morphology_species/stylotermes/stylotermes-faveolus.json",
     "_data/morphology_species/stylotermes/stylotermes-fletcheri.json",
-    "_data/morphology_species/stylotermes/stylotermes-parabengalensis.json"
+    "_data/morphology_species/stylotermes/stylotermes-parabengalensis.json",
+    "_data/morphology_species/termitogeton/termitogeton-umbilicatus.json"
    ],
    "evidence": [
     {
@@ -33372,9 +33665,165 @@
      "quote": "Head-capsule subrectangular, parallel sided (length to base of mandibles 3.80-4.20, max. width 2.70-2.80 mm); width about 2/3rd of length (index Width/Length 0.64-0.72); posterior margin rounded; frons sloping anteriorly and slightly depressed medially; Y-suture distinct.",
      "locator": "p. 242",
      "note": "支撑：Neotermes kalimpongensis 兵蚁头囊形态与量度"
+    },
+    {
+     "quote": "Soldier (Fig. 308): Head and body brown with reddish or smoky \ntinge; tip of abdomen yellowish, a white median str^k runs from pronotum \nto 9th abdominal tergum. Head with a dense covering of short hairs and a \nfew long bristles; postclypeus as hairy as head; labrum wth a few somewhat \nlonger hairs. Head subrectangular (length to base of mandibles 2.72- \n2.91 mm, maximum width 2.66-2.93 mm), large, heavy and strongly \nhypognathus, sides weakly convex; posterior margin weakly incurved; Y- \nsuture faint. Eyes and ocelli absent. Antennae with 14-15 segments (in IS- \nsegmented condition, segment 2 twice as long as 3). Clypeus clearly \nseparated from frons.",
+     "locator": "条目",
+     "note": "支撑：兵蚁体色与毛被、头近长方形与量度（头长/头宽写在同一段）"
+    },
+    {
+     "quote": "Imago (Fig. 142) Head-capsule yellowish brown to deep reddish \nbrown; pronotum brown to deep brown; antennae and legs yellowish; body \nyellowish whitev Head and pronotum sparsely and body fairly, pilose. Total \nlength without wings c 8.60-9.75, with wings c 15.50-17.30 mm. Head- \ncapsule subsquarish; (length of head to base of mandibles 1.50-1.65, width \n1.55-1.75 mm), posteriorly rounded; with long hairs; Y-suture distinct; frons \ngently sloping in front. Eyes subcircular (max. diameter 0.50-0.58, min. \ndiameter 0.48-0.55 mm); lying very close to antennal sockets, eye-antennal \ndistance 0.03-0.05 mm. Ocelli large, oval (max. diameter 0.20-0.25, min.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫体色与头部描述"
+    },
+    {
+     "quote": "Soldier (Fig. 143) Head-capsule yellowish brown to deep reddish \nbrown; antennae basally deep brown, apically darker mandibles, basally deep \nreddish brown, apically blackish; pronotum paler than head-capsule; \nabdomen yellowish. Head and pronotum sparsely and body fairly, pilose. \nTotal length 10.00-11.90 mm. Head-capsule subrec^ngular (head-length \nto base of mandibles 3.20-3.50, head-width 2.0-2.18 mm); sides subparallel, \nhead-dorsum flat; Y-suture distinct; frons gently sloping in front. Eyes large, \noblong (max. diameter 0.18-0.38, min. diameter 0.10-0.25 mm); eye- \nantennal distance 0.13-0.23 mm. Ocelli absent. Antennae with 12-15 \nsegments; segment 3 longer than 2; 4 shortest.",
+     "locator": "条目",
+     "note": "支撑：兵蚁描述与量度（体长 10.00—11.90、头长 3.20—3.50 等）"
+    },
+    {
+     "quote": "Imago (Fig. 283): Head-capsule light reddish brown; pronotum lighter \nthan head and abdomen darker; labrum and legs brownish yellow; antennae \n\n\n\n560 \n\n\nROONWAL AND CHHOTANI: FAUNA OF INDIA : ISOPTERA \n\n\nlight brownish yellow; postclypeus brownish yellow with brown median \nline. Head with a few scattered bristles; postclypeus with a few hairs along \nanterior margin; labrum with a few hairs near tip and on body; pronotum \nwith long bristles on margins and a few on body. Total body-length with \nwings 12.0-14.5, without wings 8.0-9.0 mm.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫描述（图注印作 S. translucens 的问题见 note）"
+    },
+    {
+     "quote": "Soldier major (Fig. 284): Head-capsule, postmentum and pronotum \nyellowish to reddish yellow; labrum and abdomen slightly paler, straw \nyellow; mandibles brownish to reddish brown, basally lighter; legs yellowish \nbrown. Head and body sparsely hairy. Total body-length c 6.0 mm. \nHead-capsule subsquarish, little longer than broad, length 1.59-1.88 mm, \nwidth 1.49-1.84 mm; widest at posterior half. Fontanelle circular, situated \nanteriorly; with a groove running in front to tip of labrum. Postclypeus \nbroader than long with a median groove. Labrum slightly broader than \nlong, broadest below middle; with a few hairs on body and a fringe of hairs \nforming a **daubing brush’’ on anterior margin.",
+     "locator": "条目",
+     "note": "支撑：大兵蚁描述与量度"
+    },
+    {
+     "quote": "Imago (Fig. 265) : Specimens not seen; description drawn from \nliterature. Rust coloured; antennae darker, brownish; margins of pronotum, \nlegs and abdomen from underneath paler, yellowish; wings ash-grey, \nmarginal veins brownish. Body thickly and finely hairy. Total length with \nwings 8.0 and without wings 3.5 mm. Head triangular; strongly depressed \n\n\n\nGENUS TERMITOGETON \n\n\n515 \n\n\n\nFig. 265. Termitogeton umbilicatus. Queen, in dorsal view. (After Bugnion 1914.) \n\n\nand flattened. Eyes of medium size, slightly bulging. Ocelli oval, situated \nnear eyes.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫据文献描述（未见标本）"
+    },
+    {
+     "quote": "Soldier (Fig. 266) Head-capsule, pronotum, body and legs pale \ngolden to reddish yellow; mandibles light reddish brown, paler basally; \nantennae pale yellow. Head and body densely hairy. Total body-length \n4.50-5.0 mm. Head triangularly oval; dorso-ventrally flattened; widest a \nlittle behind middle whence strongly narrowing in front; sides rounded; \nposterior margin incurved and with a median bulge; posterior angles sharp; \nlength to base of mandibles 1.5-1.55, max. head-width 1.44-1.55 mm. \nFontanelle small, round; situated on head in front of mid point. Eyes and \nocelli absent. Antennae with 14-15 segments; segment 2 subequal to or \nlonger than 3.",
+     "locator": "条目",
+     "note": "支撑：兵蚁描述与量度"
+    },
+    {
+     "quote": "Imago (Figs. 128, 129): Head-capsule, pronotum and abdomen brown \nabove; antennae, legs and abdominal stemites pale brownish yellow; wing- \nscales and veins brownish, wing membrane transparent. Head and body \nfairly pilose with long and short hairs. Total length with wings 13.70-15.0, \nwithout wings 7.S-9.S mm.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫全段形态描述与量度（连翅体长 13.70—15.0 mm、去翅 7.S-9.S mm）"
+    },
+    {
+     "quote": "Soldier (Fig. 130): Head-capsule pale brown to dark brown; antennae \nbrownish, basally paler; mandibles black, basally reddish brown; body and \nlegs yellowish to pale brown. Head and body fairly pilose with long and \nshort hairs. Total body-length 9.0-11.0 mm.",
+     "locator": "条目",
+     "note": "支撑：兵蚁全段描述与量度（体长 9.0—11.0 mm、头长 1.8—3.5、头宽 1.07—2.4 mm）"
+    },
+    {
+     "quote": "Imago (Fig. 144) : Head-capsule, pronotum and wing scales dark \nreddish, abdominal tergites paler; antennae, labrum, legs and abdominal \nstemites deep yellowish brown. Head and pronotum sparsely and body \nfairly, pilose. Total length without wings c 7.55-8.55 mm.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫描述与量度（无翅体长 7.55—8.55 mm）"
+    },
+    {
+     "quote": "Soldier (Fig. 145) Head capsule golden reddish brown, darker \nanteriorly; antennae and labrum basally, rusty brown, apically paler; \nmandibles basally deep reddish brown otherwise blackish; legs and body \nyellowish white. Head and pronotum moderately and body fairly, pilose. \nTotal length 9.03-9.15 mm.",
+     "locator": "条目",
+     "note": "支撑：兵蚁描述与量度"
+    },
+    {
+     "quote": "Imago (Fig. 191) : Head yellowish brown, with a pale V-shaped \nimpression in front of Y-suture; anteclypeus light brown; pronotum slightly \n\n\n\nFig. 191. Epbahtermes pakistanicus. Imago. (A) Head and pronotum, in dorsal view. \n(B) Head, in side view. (C) and (D) Left and right mandibles. (E) Basal part of antenna. \n(After Akhtar 1974a). \n\n\n352 \n\n\nROONWAL AND CHHOTANI: FAUNA OF INDIA : ISOPTERA \n\n\npaler to as dark as head; coxae and femora whitish, tibiae and tarsi light \nbrown; wing membrane clear, costa, subcosta, radius, and radial sector \nsclerotised, media and cubitus light brown, not strongly sclerotised. Head \nsparsely pilose, with few long and short hairs; labrum with a few hairs on \nanterior margin and on middle of body; pronotum also with a few hairs on \nmargins and on body; wings with a few hairs along costal margin. Head- \ncapsule parallel-sided; length to base of mandibles 0.94-1.17, maximum \nwidth 1.10-1.22 mm; semicircular behind eyes. Y-suture distinct; Eyes \nlarge,, oval; long diameter 0.38-0.45. Ocelli oval; length 0.14-0.17, width \n0.09-0.11 mm; almost touching eyes.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫描述与量度（头宽 1.10—1.22 mm 等）"
+    },
+    {
+     "quote": "Soldier (Fig. 192) : Head yellowish brown, anteriorly darker; \npostclypeus, antennal carinae and labrum light brownish red; mandibles \nbasally reddish brown, apically blackish; antennae yellowish brown, basally \npale brownish red; pronotum light reddish brown; legs yellowish brown to \npale brown; abdomen pale brownish yellow. Head sparsely pilose with \nshort and long hairs; labrum with a few hairs on anterior margin and on \nbody; postmentum with a few bristles in anterior half and short hairs all over \nbody; pronotum with a few hairs on margins and on body. Head-capsule \ndorso-ventrally flattened, longer than broad; length to mandible-base 1.94- \n2.44, width 1.61-1.93 mm",
+     "locator": "条目",
+     "note": "支撑：兵蚁描述与量度"
+    },
+    {
+     "quote": "Soldier (Fig. 262) Head-capsule straw yellow; labrum yellow, with a \ntransparent tip; mandibles dark brown, paler basally; antennae, legs and \nbody whitish. Head moderately and body fairly densely, pilose. Total \nbody-length c 4.0 mm. Head-capsule subrectangular (length 1.53, max. \nwidth 1.00 mm), sides subparallel; frons swollen, \\yith a pair of frontal \nprotuberances at base and sloping at an angle of a little more than 45° \nFontanelle minute, circular, situated at base of swollen portion of frons. \nAntennae with 11+ segments; segment 3 shortest; 4 larger than 2. Clypeus \nnot clearly differentiated into ante-and postclypeus. Labrum triangularly \ntongue-shaped, with a pair of long bristles at the transparent tip. Mandibles \nsabre-shaped, short and stout (length 0.86 mm); about half of head-length; \nleft with only proximal crenulations distinct otherwise smooth, basal \nprojection prominent; right mandible smooth, with a minute tooth near \nbase. Postmentum club-shaped, broadest at anterior third whence sides \nnarrowing behind into a long narrow waist; width at waist less than one- \nthird of maximum width; length 1.08, max.",
+     "locator": "条目",
+     "note": "支撑：兵蚁形态与量度（体全长约 4.0 毫米等）"
+    },
+    {
+     "quote": "Imago Not known.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫未记载"
+    },
+    {
+     "quote": "Imago (Fig. 146) : Head-capsule reddish brown; frons, postclypeus, \nlabrum and antennae apically, yellowish brown; pronotum and wings light \nbrown; legs paler. Head sparsely and pronotum fairly pilose; wings with \nshort hairs along costal margin. Head-capsule subsquarish (length to base of \nmandibles 1.65-1.70, width with eyes 1.80-1.86 mm); posterior margin \nrounded; frons sloping gently in front; Y-suture distinct, with a Y-shaped \ndepression above. Eyes subcircular, truncated anteriorly (max. diameter \n0.57-0.61, min. diameter 0.52-0.57 mm); eye-antennal distance 0.50 mm. \nOcelli prominent, touching eyes, suboval (length 0.23-0.25, width 0.18- \n0.20 mm). Antennae with 17-19 segments; segment 3 shortest; 4 and 5 \nsubequal. Mandibles of Neotermes-iype; left and right mandibles each with \n2 marginal teeth. Postclypeus not differentiated from frons, with a few hairs \non anterior margin; anteclypeus trapezoidal. Labrum broader than long, \nanterior margin weakly concave; with hairs on anterior margin and on body. \nPronotum pilose, subrectangular, broader than head with eyes (length \n\n\n\n\nFig. 146. Neotermes prosonneratiae. Imago.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫形态与量纲"
+    },
+    {
+     "quote": "Soldier (Fig. 149): Head-capsule yellowish brown",
+     "locator": "条目",
+     "note": "支撑：兵蚁体色、毛被与头壳形态"
+    },
+    {
+     "quote": "PSEUliOWORKER",
+     "locator": "条目",
+     "note": "支撑：拟工蚁（OCR 作 PSEUliOWORKER）描述起始"
+    },
+    {
+     "quote": "Total body-length 9.2-9.8 mm",
+     "locator": "条目",
+     "note": "支撑：兵蚁体全长量度"
+    },
+    {
+     "quote": "Soldier (Fig. 159) : Head-capsule bicwn at frons",
+     "locator": "条目",
+     "note": "支撑：兵蚁体色（含 OCR 疑误词 bicwn）"
+    },
+    {
+     "quote": "mandibular index 0.51-0.54",
+     "locator": "条目",
+     "note": "支撑：兵蚁上颚长与头—上颚指数"
+    },
+    {
+     "quote": "Soldier (Fig. 141) : Head-capsule and mandibles reddish brown",
+     "locator": "条目",
+     "note": "支撑：兵蚁体色、头壳与毛被"
+    },
+    {
+     "quote": "Total body-length c 10.7 mm",
+     "locator": "条目",
+     "note": "支撑：兵蚁体全长"
+    },
+    {
+     "quote": "Soldier (Fig. 95): Head-capsule brownish",
+     "locator": "条目",
+     "note": "支撑：兵蚁体色与头壳描述"
+    },
+    {
+     "quote": "Pseudoworker (Fig. 96): Head capsule creamy white",
+     "locator": "条目",
+     "note": "支撑：拟工蚁描述起始"
+    },
+    {
+     "quote": "Total length including mandibles c 7.8 mm",
+     "locator": "条目",
+     "note": "支撑：兵蚁全长量度"
+    },
+    {
+     "quote": "Imago (Fig. 210): Head and pronotum pale reddish brown; anteclypeus \nyellowish white; labrum yellowish brown; antennae brownish yellow. Head \nsparsely hairy and pronotum with a few scattered bristles and short hairs on \nmargins and body. Head-capsule subrectangular with sides subparallel; \nlength to base of mandibles 0.95-0.97, width 1.00-1.01 mm; posterior \nmargin weakly convex; Y-suture indistinct. Eyes slightly bulging, elongately \noval (maximum diameter 0.33-0.36 mm). Ocelli oval GeQgth 0.13-0.15, \nwidth 0.09-0.11 mm); almost touching eyes. Labrum wider than long; sides \nconveiging posteriorly,antero^lateral sides rounded, convex; anterior margin \nweakly convex. Mandibles as in genus. Antennal segments 2 and 3 \nsubequal; 4 shorter than second. Pronotum subrectangular O^Qgth 0.59, \nwidth 0.98-1.01 mm); almost as broad as head; anterior maigin shallowly \nconcave; sides convex; posterior margin weakly emarginate medially. Tibial \nspurs 3:3:3; tarsi 4-jointed.",
+     "locator": "条目",
+     "note": "支撑：cryptotermes karachiensis 种级形态描述原文"
+    },
+    {
+     "quote": "Imago (Figs. 162-164): Head-capsule dark castaneous brown; labrum \nand legs brownish; antennae a little darker; thorax and abdomen a little \npaler than head; abdominal sternites paler than tergites, basal 4 sternites pale \nyellowish medially. Head and body fairly pilose. Total body-length with \n\n\n\nFig. 163. Glyptotermes coorgensis. Imago. (A) Head and pronotum, in dorsal view. (B) Same, \nside view. (Redrawn from Chhotani, 1975a). \n\nwings 6.40-6.70, without wings 4.(X)-4.70 mm. Head-capsule subsquarish \n(length to base of mandibles 0.87-0.90, width 0.85-0.93 mm); Y-suture \npresent. Eyes oval (long-diameter 0.25 mm), black, separated from lower \nmargin of head by less than their short diameter. Ocelli small, oval (0.07 \nmm long, 0.05 mm wide), translucent, touching the eyes and directed \nvertically in lateral view. Antennae with 11-12 segments; segment 2 about \nhalf of 1, 3 slightly shorter than 2. Clypeus subtrapezoidal, indistinctly \ndivided into ante- and postclypeus; anteclypeus apilose, medially weakly \nprojected in front; postclypeus with a few, short hairs near posterior margin.",
+     "locator": "条目",
+     "note": "支撑：glyptotermes coorgensis 种级形态描述原文"
+    },
+    {
+     "quote": "Imago DEALATE(Fig. 179)::Head-caspsule,pronotum, wing-scales and \nabdominal tergites dark brown; antennae, labrum, legs and stemites paler. \nHead and body sparsely pilose. Total length without wings 4.25 mm. \nHead-capsule subrounded, length to base of mandibles (0.88 mm) a little \nmore than width including eyes (0.84 mm); posterior margin rounded. Eyes \nblack, suboval, maximum diameter 0.25 mm; situated at a distance of \n0.14 mm from lower margin of head-capsule. Ocelli oval, translucent, \nsmall; maximum diameter 0.07 mm; situated very close to ocular sclerite. \nAntennae 5+ segmented; segment 2 shortest. Anteclypeus whitish, subtra- \npezoidal; much broader than long. Postclypeus paler than frons, strip-like; \nanterior margin substraight. Labrum broadly tongue-shaped, pilose; \nanterior margin rounded; width much more than length (width 0.38, length \n0.26 mm).",
+     "locator": "条目",
+     "note": "支撑：calcaritermes krishnai 种级形态描述原文"
+    },
+    {
+     "quote": "Soldier (Fig. 248): Head-capsule creamish white to yellowish brown; \nbody whitish; mandibles dark brown. Head moderately and body burly \ndensely hairy. Total body-length c 3.3-4.0 mm. Head-capsule subrec- \ntangular, about one-and-a-half times as long as wide (length to base of \nmandibles (1.00-1.10, width 0.70-0.75 mm); sides parallel; posterior margin \nround; anteriorly swollen and with a median groove; frons sloping sharply in \nfront. Fontanelle minute; leading into a small, brownish tube; situated at \nbase of median groove. Eyes and ocelli absent. Antennae with 12-14 \n(mostly 14) segments; segment 3 variable, generally subequal to or \nsometimes a little longer than 4. Labrum triangular (length with tip 0.30- \n0.38, width 0.20-0.25 mm); with a long, acuminate, hyaline tip; a pair of",
+     "locator": "条目",
+     "note": "支撑：兵蚁：色/体长/头壳长宽/触角"
+    },
+    {
+     "quote": "Worker (Fig. 249): Head-capsule pale yellowish; body paler. Head \nand body moderately densely hairy. Total body-length c 2.80-3.50 mm. \nHead-capsule subsquarish, a little broader than length to base of mandibles \n(length to base of mandibles 0.73-0.85, max. width 0.75-0.85 mm). Eyes \nand ocelli absent. Fontanelle indistinct. Antennae with 13-14 segments. \nPostclypeus weakly swollen, length less than half of width. Mandibles as in",
+     "locator": "条目",
+     "note": "支撑：工蚁：体长/头壳长宽/触角"
     }
    ],
-   "id": "S0561"
+   "id": "S0561",
+   "lang": "en"
   },
   {
    "title": "Roonwal M. L. and Maiti P. K. 1966. Termites from Indonesia including West Irian. Treubia 27(1): 63–140. https://archive.org/details/treubia-v27i1-1556",
@@ -33645,39 +34094,39 @@
    "id": "S0564"
   },
   {
-   "title": "Termites (Isoptera) of Thailand",
+   "title": "bulletin-american-museum-natural-history-131-001-113",
    "source_type": "paper",
    "reliability": "peer_reviewed",
    "canonical_key": "url:https://archive.org/details/bulletin-american-museum-natural-history-131-001-113",
-   "file_path": "_unpublished/文库/Termites-(Isoptera)-of-Thailand",
-   "chars": 333024,
+   "file_path": "_unpublished/文库/Termites-of-Thailand",
+   "chars": 332098,
    "retrieved_via": "文库（text）",
-   "accessed": "2026-11-20T03:39:35+08:00",
-   "notes": "全文存于 _unpublished/文库/Termites-(Isoptera)-of-Thailand（333024 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "accessed": "2026-11-20T05:12:18+08:00",
+   "notes": "全文存于 _unpublished/文库/Termites-of-Thailand（332098 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
    "library": {
-    "book": "Termites-(Isoptera)-of-Thailand",
+    "book": "Termites-of-Thailand",
     "manifest": "_unpublished/文库/manifest.json",
-    "generated": "2026-11-20T03:39:35",
+    "generated": "2026-11-20T05:09:25",
     "chunks": [
      {
       "chunk": "part-001",
-      "txt": "_unpublished/文库/Termites-(Isoptera)-of-Thailand/part-001.txt",
-      "chars": 199979,
-      "paragraphs": 9471,
+      "txt": "_unpublished/文库/Termites-of-Thailand/part-001.txt",
+      "chars": 199924,
+      "paragraphs": 8841,
       "table_rows": 0,
-      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_unpublished\\文库\\Termites-(Isoptera)-of-Thailand\\source\\amnh-B131a01.txt",
-      "sha256": "4ad54d434217eef4d7d13b28b30d1f10e06282744d7c3df22c23efea67bbff69",
-      "bytes": 199979
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-american-museum-natural-history-131-001-113.txt",
+      "sha256": "20fa2010a2d19e48c5eacf8f3d3fca69a7ccea2938f3ce1e0b91e5e02780627f",
+      "bytes": 200582
      },
      {
       "chunk": "part-002",
-      "txt": "_unpublished/文库/Termites-(Isoptera)-of-Thailand/part-002.txt",
-      "chars": 133045,
-      "paragraphs": 5474,
+      "txt": "_unpublished/文库/Termites-of-Thailand/part-002.txt",
+      "chars": 132174,
+      "paragraphs": 6195,
       "table_rows": 0,
-      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_unpublished\\文库\\Termites-(Isoptera)-of-Thailand\\source\\amnh-B131a01.txt",
-      "sha256": "d05a345b25ffd524553de2f1314fbb63ac05d4848b637b52cfdfabb8d578847a",
-      "bytes": 133045
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-american-museum-natural-history-131-001-113.txt",
+      "sha256": "804169e237fb4794ae2721a36c82a10f09e7139b095efcaffd47bc461658ffa7",
+      "bytes": 132554
      }
     ]
    },
@@ -33690,10 +34139,15 @@
    "used_in": [
     "_data/morphology_species/dicuspiditermes/dicuspiditermes-makhamensis.json",
     "_data/morphology_species/hypotermes/hypotermes-makhamensis.json",
+    "_data/morphology_species/indotermes/indotermes-thailandis.json",
+    "_data/morphology_species/macrotermes/macrotermes-malaccensis.json",
     "_data/morphology_species/microcerotermes/microcerotermes-minutus.json",
     "_data/morphology_species/microcerotermes/microcerotermes-paracelebensis.json",
+    "_data/morphology_species/nasutitermes/nasutitermes-dimorphus.json",
+    "_data/morphology_species/nasutitermes/nasutitermes-johoricus.json",
     "_data/morphology_species/nasutitermes/nasutitermes-perparvus.json",
     "_data/morphology_species/nasutitermes/nasutitermes-tungsalangensis.json",
+    "_data/morphology_species/odontotermes/odontotermes-longignathus.json",
     "_data/morphology_species/odontotermes/odontotermes-oblongatus.json",
     "_data/morphology_species/odontotermes/odontotermes-paraoblongatus.json",
     "_data/morphology_species/odontotermes/odontotermes-sarawakensis.json",
@@ -33857,6 +34311,66 @@
      "quote": "Comparison: Postelectrotermes tongyaii, new species, can easily be distinguished from P. militaris (Desneux), the only other species of Postelectrotermes from the Indo-Malayan Region of which the imago caste is known, by its distinctly smaller size and by the fact that its apical spine on the middle tibia is closer to the outer apical spur.",
      "locator": "p. 10",
      "note": "支撑：本种与 P. militaris 的鉴别依据（体型与中足胫节端刺位置）及本区已知有翅成虫范围的限定"
+    },
+    {
+     "quote": "Major Soldier (fig. 35): Head light red¬ \ndish brown, small area surrounding fontanelle \nbrown; postclypeus slightly darker than head \ncapsule; labrum reddish brown; antennae \nbrown; mandibles dark brown; pronotum \nbrownish yellow; mesonotum and meta- \nnotum and abdominal tergites slightly lighter \nthan pronotum; legs pale. Head scantily \nhairy; labrum with long bristles on sides \nand at base of hyaline tip; postmentum \nwith two pairs of bristles near anterior \nend; pronotum with a few short hairs on \nanterior margin and a few bristles on disc. \nHead distinctly narrowed anteriorly, one and \na half times as broad posteriorly as anteriorly; \nfontanelle minute, circular, placed in anterior \nhalf. Eyes dotlike, circular, whitish. Labrum \ndome shaped, broadest in anterior half; tip \nhyaline, trilobed, median lobe greatly pro¬ \nduced. Mandibles long, saber shaped, curved \napically; left mandible with three crenula- \ntions at base; right mandible without crenu- \nlation. Postmentum elongated, narrow, \nslightly arched; lateral margins almost paral¬",
+     "locator": "条目",
+     "note": "种级描述见于 Ahmad 1965《Termites of Thailand》：大兵蚁（图 35）与小兵蚁（图 36）两套完整描述并各含量度（大兵蚁 10 头、小兵蚁 10 头，区间+均值）；有翅成虫、工蚁仅见异名表引证（Holmgren 1913b、Ahmad 1958），包内无描述。已写条目。"
+    },
+    {
+     "quote": "Comparisons: Nasutitermes dimorphus , new \nspecies, can be easily distinguished from all \nother Indo-Malayan species of Nasutitermes \nwith dimorphic soldiers by its much smaller \nsize. Nasutitermes bulbiceps (Holmgren) and \nN. longinasus John are much larger and have \na relatively longer nasus. Nasutitermes cher - \n\n\n\nFig. 81. Nasutitermes dimorphus , new species. \nMajor soldier: A. Head and pronotum from above. \nB. Head from side. C. Mandibles. D. Antenna. \nMinor soldier: F. Head from above. G. Head from \nside. H. Mandibles. I. Pronotum from above. J. \nAntenna. Worker: E. Mandibles. \n\n\nraensis Roonwal and Chhotani, another di¬ \nmorphic Nasutitermes species, is also larger \nand has a head of different shape.",
+     "locator": "条目",
+     "note": "比较句：本种以体型更小区别于印马区其他二型兵蚁种（含 N. cherraensis）。"
+    },
+    {
+     "quote": "TABLE 31 \n\n\nMeasurements (in Millimeters) of 10 Major Soldiers of Nasutitermermes dimorphus , New Species \n\n\n\nHolotype \n\nRange \n\nMean \n\nLength of head with nasus \n\n1.53 \n\n1.53-1.58 \n\n1.54 \n\nLength of head without nasus \n\n1.01 \n\n0.96-1.04 \n\n1.00 \n\nWidth of head \n\n0.91 \n\n0.91-0.96 \n\n0.93 \n\nHeight of head \n\n0.70 \n\n0.65-0.72 \n\n0.67 \n\nLength of pronotum \n\n0.15 \n\n0.15-0.18 \n\n0.15 \n\nWidth of pronotum \n\n0.41 \n\n0.39-0.44",
+     "locator": "条目",
+     "note": "表 31：10 头大型兵蚁（正模/范围/均值）量度，写入兵蚁量度。"
+    },
+    {
+     "quote": "TABLE 32 \n\n\nMeasurements (in Millimeters) of 10 Minor Soldiers of Nasutitermes dimorphus , New Species \n\n\n\nMorphotype \n\nRange \n\nMean \n\nLength of head with nasus \n\n1.06 \n\n1.01-1.11 \n\n1.06 \n\nLength of head without nasus \n\n0.65 \n\n0.63-0.67 \n\n0.65 \n\nWidth of head \n\n0.52 \n\n0.52-0.57 \n\n0.53 \n\nHeight of head \n\n0.36 \n\n0.36-0.41 \n\n0.39 \n\nLength of pronotum \n\n0.13 \n\n0.10-0.13 \n\n0.10 \n\nWidth of pronotum \n\n0.31 \n\n0.28-0.31",
+     "locator": "条目",
+     "note": "表 32：10 头小型兵蚁（形态模/范围/均值）量度，写入兵蚁量度。"
+    },
+    {
+     "quote": "Soldier (fig. 83): Head reddish orange; \nnasus light reddish brown; thoracic tergites \nbrownish yellow; abdominal tergites light \nbrown; legs pale. Head with a few scattered \nbristles; tip of nasus with four short hairs and \ntwo bristles a little posteriorly; anterior mar¬ \ngin of pronotum fringed with minute hairs, \na few minute hairs elsewhere; abdominal ter¬ \ngites with a few minute hairs and from two to \nthree bristles at posterior margins; sternites \nwith short hairs and long bristles. Head cap¬ \nsule almost round, not constricted behind \nantennae; dorsal profile straight; rostral \nhump indicated; nasus short, conical, thick¬ \nness at base shows some variability within \nand between colonies.",
+     "locator": "条目",
+     "note": "支撑：兵蚁颜色、毛被与头囊、鼻突形态（条目「兵蚁」节前半）。"
+    },
+    {
+     "quote": "apical portion. Antennae with 12-13 articles; \nin specimens with 13 articles, third article \nslightly longer than second and nearly twice \nas long as fourth. Pronotum saddle shaped; \nanterior margin not notched in middle; pos¬ \nterior margin convex, not emarginate.",
+     "locator": "条目",
+     "note": "支撑：上颚缺端部、触角节数与前胸背板形状（条目「兵蚁」节后半）。"
+    },
+    {
+     "quote": "Measurements (in Mm.) of 13 Soldiers: \nRange of measurements, with means in pa¬ \nrentheses: Length of head with nasus, 1.19— \n1.35 (1.26); length of head without nasus, \n0.75-0.91 (0.83); width of head, 0.75-0.85 \n(0.79); height of head, 0.46-0.57 (0.53); \nlength of pronotum, 0.18 (0.18); width of \npronotum, 0.39-0.44 (0.42).",
+     "locator": "条目",
+     "note": "支撑：条目所记 6 项兵蚁量度的逐字来源（13 头，括号内为均值）。"
+    },
+    {
+     "quote": "399 (soldier, worker), figs, la-j (soldier), 2a-h \n(worker). \n\nSoldier (fig. 57): The following descrip¬ \ntion is quoted from Ahmad (1963)",
+     "locator": "条目",
+     "note": "支撑：本条目所用描述的文献归属——卷内明言系逐字引述 Ahmad 1963 的原描述，且原描述含兵蚁与工蚁两个品级。"
+    },
+    {
+     "quote": "Locality: Tung Sa-Lang Luang National \nPark, two soldiers, workers, collected by M. \nAhmad, April 7, 1962",
+     "locator": "条目",
+     "note": "支撑：所记 2 头兵蚁的产地与采集记录；描述文字本身（颜色、毛被、头形）在素材包中是双栏 OCR 交错，逐字句不便整段引用，故只引该条目的行文框架，见 note。"
+    },
+    {
+     "quote": "mandible, 1.17-1.19 (1.18); tooth of right \nmandible from tip, 0.54-0.57 (0.55); width \nof head at side base of mandibles, 1.71-1.76 \n(1.73); width of head in middle, 1.66-1.74 \n(1.70); length of postmentum, 1.22-1.24 \n(1.23); maximum width of postmentum, 0.45 \n(0.45); minimum width of postmentum, 0.23- \n0.26 (0.24); length of pronotum, 0.59-0.65 \n(0.62); width of pronotum, 0.83 (0.83).",
+     "locator": "条目",
+     "note": "支撑：条目所记 9 项兵蚁量度的逐字来源（2 头，括号内为均值）；该段是量度区中唯一未被双栏 OCR 打乱、可整段引用的连续行。"
+    },
+    {
+     "quote": "Soldier (fig. 49): Head light reddish \nbrown; mandibles dark brown; antennae \nbrown; pronotum yellow. Head scantily \nhairy; labrum with long bristles arranged in \na row along lateral sides; postmentum with \ntwo bristles near anterior end; pronotum \nmore pubescent than head. Head subrectan- \ngular. Labrum slightly longer than broad; tip \nnarrowly rounded. Mandibles long, thick, \ntips hooked; left mandible with a prominent, \nbroad-based, laterally directed tooth situated \nin middle; right mandible without any denti¬ \ncle, in some specimens an indistinct denticle \npresent. Postmentum elongate, slightly \narched; lateral margins slightly depressed in \nfront of middle, convex in basal third; maxi¬ \nmum width in basal third. Antennae with \n17 articles; second one and a half times as \nlong as third; fourth slightly longer than \nthird and fifth. Pronotum slightly indented \nanteriorly in middle; posterior margin weakly \ndepressed in middle; lateral margins broadly \nrounded.",
+     "locator": "条目",
+     "note": "支撑：兵蚁色斑、头形、上唇、上颚（左上颚宽基侧向齿、右上颚无齿）、后颏、触角 17 节、前胸背板形态"
+    },
+    {
+     "quote": "Measurements (in Mm.) of 10 Soldiers: \nRange of measurements, with means in pa¬ \nrentheses: Length of head to side base of \nmandibles, 2.70-2.96 (2.89); width of head at \nside base of mandibles, 1.45-1.61 (1.52); \nwidth of head at posterolateral ends of anten¬ \nnal carinae, 1.97-2.13 (2.06); maximum width \nof head, 2.23-2.60 (2.37); length of left man¬ \ndible, 1.40-1.56 (1.45); tooth of left mandible \n\n\n\nFig. 49. Soldier of Odontotermes longignathus \nHolmgren. A. Head and pronotum from above. B. \nLabrum from above. C. Mandibles. D. Post¬ \nmentum from below. E. Antenna. \n\nfrom tip, 0.75-0.78 (0.77); length of post¬ \nmentum, 1.71-1.92 (1.83); width of post¬ \nmentum, 0.83-0.93 (0.86); length of pro¬ \nnotum, 0.83-0.88 (0.86); width of pronotum, \n1.61-1.82 (1.68).",
+     "locator": "条目",
+     "note": "支撑：10 头兵蚁 10 项量度的区间与均值（头长 2.70—2.96 至前胸背板宽 1.61—1.82 mm）"
     }
    ],
    "id": "S0565",
@@ -38596,22 +39110,108 @@
    "reliability": "peer_reviewed",
    "doi": "",
    "url": "https://archive.org/details/dli.zoological.memoirs.021.02",
-   "year": null,
-   "retrieved_via": "fleet",
+   "year": 2008,
+   "retrieved_via": "文库（text）",
    "evidence": [
     {
      "quote": "Head-capsule subrectangular; broadest just behind antero-lateral comers, whence gradually converging behind; antero-lateral comers somewhat prominent and comparatively chitinised; frontal projection fairly large, prominent with rounded anterior margin.",
      "locator": "p. 90",
      "note": "支撑：Angulitermes nepalensis 兵蚁头囊与前侧角、额突形态"
+    },
+    {
+     "quote": "(ii) Soldier (Fig. 106a-b) : Head pale brown; \nrostrum yellowish brown, darker at the apex. \nAntennae; pronotum and abdominal tergites pale \nbrown. Head and pronotum with sparse minute \nhairs; abdomen with more erect hairs. \n\n\n0.5 mm \n\ni \n\n—i \n\nFig. 106. : Ahmaditermes sikkimensis sp. nov.; a-b, Soldier, \na. Head, dorsal view; b. Head, side view. \n\nHead excluding antennae almost pgar-shaped \nwith distinct constriction behind the base of the \nantennae; head slightly longer than broad, broadest \nposteriorly and slightly smaller than the double \n\n\n\n\n\n176 \n\n\nMemoirs of the Zoological Survey of India \n\n\nTable 67 : Measurements (in mm) etc. of Caste-Soldier.",
+     "locator": "条目",
+     "note": "支撑：兵蚁体色与毛被，以及随后头形、喙、触角、上唇、唇基、上颚、后颏、前胸背板的描述"
+    },
+    {
+     "quote": "Diagnostic Character : (i) Imago (Fig. 5a-b): \n\nHead and postclypeus pale to deep brown; labrum \nand pronotum brown. Head and pronotum sparsely \npilose. \n\nHead suboval, slightly broader than long, sides \ngradually converging posteriorly, Y-suture distinct. \n\nOcelli translucent, large, oval, almost touching the \nocular sclerites. Antennae with 18-19 segments, 2 \nmuch longer than 3; 3 longer than 4. Clypeus \ntrapezoidal. Labrum tongue-shaped and pilose. \n\nMandibles of Neotermes-type. Pronotum \nsubrectangular, broader than head-width with eyes; \nanterior margin broadly concave; posterior margin \nsubstraight. Wing Venation broadly as in genus. \n\n(ii) Soldier (Fig. 5c-d) : Head brown to dark \nbrown, body whitish. Head subrectangular, with \n\n\nTable 5 : Measurements (in mm) etc. of Caste-Soldier. \n\n\n\nN. kalimpongensis \n\nN.",
+     "locator": "条目",
+     "note": "支撑：鉴别特征与量度表表述"
+    },
+    {
+     "quote": "Head sub-circular, a large sub-triangular mid",
+     "locator": "条目",
+     "note": "支撑：有翅成虫头壳、单眼、触角、上颚与前翅特征"
+    },
+    {
+     "quote": "Diagnostic Character : (i) Imago : Head deep",
+     "locator": "条目",
+     "note": "支撑：有翅成虫鉴别色征"
+    },
+    {
+     "quote": "(ii) Soldier (Fig. 31a-e): Head light castaneous",
+     "locator": "条目",
+     "note": "支撑：兵蚁体色与毛被（描述自此截断）"
+    },
+    {
+     "quote": "(ii) Soldier (Fig. 85a-b) : Head; antennae \nyellowish to yellowish brown, uniformly coloured; \npronotum and body straw yellow, much paler \nthan head. \n\nHead broadly oval, broadest near the \nposterior third. Fontanelle indistinct. Antennae \nwith 15-16 segments, 2 about one and a half \ntimes of 3; 3 shortest. Labrum tongue-shaped, with \nhairs. Mandibles sickle-shaped, short and slightly \nmore than half of head-length, apices weakly \nincurved. Left mandible with a prominent acute \ntooth, placed near the upper edge of apical third. \nPostmentum subrectangular, sides well arched, \n\n\nabruptly narrowing near the anterior one-fourth, \nanterior margin sub-straight, posterior margin \nweakly concave. Pronotum saddle-shaped, \ndistinctly narrower than head-width, anterior \nmargin weakly but distinctly notched in the \nmiddle; posterior margin broadly concave \nmedially. \n\nDistribution : INDIA : Eastern Himalaya : \nSikkim : Namchi. \n\nRemarks : Nothing is known about its biology, \nsince it is not recorded after its discovery from \nSikkim. However, it is a very close species to \nO. boveni, from which it can be isolated by its \nnarrower head of soldiers.",
+     "locator": "条目",
+     "note": "支撑：odontotermes sikkimensis 种级形态描述原文"
+    },
+    {
+     "quote": "Diagnostic Character : (i) Imago (Fig. 19a-b): \nHead and thorax straw yellow to light brown; \nantennae, labium, abdominal tergites paler. Head \nand pronotum sparsely and abdomen moderately \npilose. \n\nHead subsquarish with sides weakly and \nposterior margin fairly strongly rounded. Fontanelle \nsmall, minute and circular. Ocelli very small, dot¬ \nlike, separated from eyes by double its long \ndiameter. Antennae with 16-18 segments, 3 and 4 \nalmost subequal. Postclypeus weakly swollen with \na distinct median line. Labrum and mandibles are \nof Heterotermes type. Pronotum trapezoidal, \nnarrower than head-width with eyes, anterior and \nposterior margins almost straight with feeble \ninvagination. Wings weakly hairy. Venation of \nHeterotermes- type.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫：头/前胸背板/触角/翅"
+    },
+    {
+     "quote": "(ii) Soldier (Fig. 19c-e) : Head pale yellow to \nbrownish yellow. Head and pronotum with a few \nlarge and several small hairs, abdomen fairly pilose. \n\nHead rectangular, distinctly longer than broad; \nsides subparallel, converging posteriorly and \nterminating into a rounded posterior margin. \nFontanelle indistinct with a brownish tube; \nfontanelle gland area pale yellowish. Antennae \nwith 14-16 (generally 15) segments, 3 variable- \neither shorter or longer than 2 and either subequal \nto or longer than 4. Labrum lanceolate shape with \na hyaline spine-like tip. Mandibles long, sabre¬ \nshaped, outer margin fairly straight with weakly \nincurved apices. Postmentum club-shaped, fairly \nlong, widest at club. Pronotum subtrapezoidal, \nanterior margin medially weakly notched; posterior \nmargin also weakly to deeply notched, broader \nthan long.",
+     "locator": "条目",
+     "note": "支撑：兵蚁：头形/囟/触角/上颚/后颏"
     }
    ],
    "used_in": [
-    "_data/morphology_species/angulitermes/angulitermes-nepalensis.json"
+    "_data/morphology_species/ahmaditermes/ahmaditermes-sikkimensis.json",
+    "_data/morphology_species/angulitermes/angulitermes-nepalensis.json",
+    "_data/morphology_species/heterotermes/heterotermes-indicola.json",
+    "_data/morphology_species/indotermes/indotermes-capillosus.json",
+    "_data/morphology_species/neotermes/neotermes-megaoculatus.json",
+    "_data/morphology_species/odontotermes/odontotermes-sikkimensis.json"
    ],
-   "notes": "agent-collected; quote verbatim from the archived full text.",
-   "accessed": "2026-11-20T02:58:01+08:00",
+   "notes": "agent-collected; quote verbatim from the archived full text.；全文存于 _unpublished/文库/Memoirs-of-the-Zoological-Survey,-Volume-21,-Issue-2（591339 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "accessed": "2026-11-20T05:12:18+08:00",
    "canonical_key": "url:https://archive.org/details/dli.zoological.memoirs.021.02",
-   "id": "S0670"
+   "id": "S0670",
+   "library": {
+    "book": "Memoirs-of-the-Zoological-Survey,-Volume-21,-Issue-2",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T04:52:05",
+    "chunks": [
+     {
+      "chunk": "part-001",
+      "txt": "_unpublished/文库/Memoirs-of-the-Zoological-Survey,-Volume-21,-Issue-2/part-001.txt",
+      "chars": 199973,
+      "paragraphs": 11650,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\dli.zoological.memoirs.021.02.txt",
+      "sha256": "29984b61b1357c4192728e4880de44026339c585fba05d7ea01105c3a44679e7",
+      "bytes": 200124
+     },
+     {
+      "chunk": "part-002",
+      "txt": "_unpublished/文库/Memoirs-of-the-Zoological-Survey,-Volume-21,-Issue-2/part-002.txt",
+      "chars": 199977,
+      "paragraphs": 12019,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\dli.zoological.memoirs.021.02.txt",
+      "sha256": "f1b8f36eff1ee85973c73c82176ae414a0ea12282e8065aca980aea3ce08bedf",
+      "bytes": 200130
+     },
+     {
+      "chunk": "part-003",
+      "txt": "_unpublished/文库/Memoirs-of-the-Zoological-Survey,-Volume-21,-Issue-2/part-003.txt",
+      "chars": 191389,
+      "paragraphs": 11283,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\dli.zoological.memoirs.021.02.txt",
+      "sha256": "3a9553c805264c389fc4fe5f5008d0a63c2fd53ef92c53f7db06c7cd37893de9",
+      "bytes": 191736
+     }
+    ]
+   },
+   "file_path": "_unpublished/文库/Memoirs-of-the-Zoological-Survey,-Volume-21,-Issue-2",
+   "chars": 591339,
+   "lang": "en",
+   "publisher": "Zoological Survey of India"
   },
   {
    "title": "Termiten aus Accra (gesammelt von A. W. J. Pomeroy)",
@@ -40844,53 +41444,53 @@
    "source_type": "paper",
    "reliability": "peer_reviewed",
    "canonical_key": "url:https://archive.org/details/dli.zoological.memoirs.020.04",
-   "file_path": "_unpublished/文库/A-taxonomic-monograph-on-the-world-species-of-termites-of-the-family-Rhinotermit",
+   "file_path": "_unpublished/文库/Memoirs-of-the-Zoological-Survey,-Volume-20,-Issue-4",
    "chars": 742572,
    "retrieved_via": "文库（text）",
-   "accessed": "2026-11-20T03:38:25+08:00",
-   "notes": "全文存于 _unpublished/文库/A-taxonomic-monograph-on-the-world-species-of-termites-of-the-family-Rhinotermit（742572 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "accessed": "2026-11-20T05:12:18+08:00",
+   "notes": "全文存于 _unpublished/文库/Memoirs-of-the-Zoological-Survey,-Volume-20,-Issue-4（742572 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
    "library": {
-    "book": "A-taxonomic-monograph-on-the-world-species-of-termites-of-the-family-Rhinotermit",
+    "book": "Memoirs-of-the-Zoological-Survey,-Volume-20,-Issue-4",
     "manifest": "_unpublished/文库/manifest.json",
-    "generated": "2026-11-20T03:34:18",
+    "generated": "2026-11-20T04:52:05",
     "chunks": [
      {
       "chunk": "part-001",
-      "txt": "_unpublished/文库/A-taxonomic-monograph-on-the-world-species-of-termites-of-the-family-Rhinotermit/part-001.txt",
+      "txt": "_unpublished/文库/Memoirs-of-the-Zoological-Survey,-Volume-20,-Issue-4/part-001.txt",
       "chars": 199971,
       "paragraphs": 8413,
       "table_rows": 0,
-      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_2\\txt\\dli.zoological.memoirs.020.04.txt",
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\dli.zoological.memoirs.020.04.txt",
       "sha256": "abe750b55156c533546cbf63c70d1dcbb51c508b22af5e8587c71b575532fdc1",
       "bytes": 200025
      },
      {
       "chunk": "part-002",
-      "txt": "_unpublished/文库/A-taxonomic-monograph-on-the-world-species-of-termites-of-the-family-Rhinotermit/part-002.txt",
+      "txt": "_unpublished/文库/Memoirs-of-the-Zoological-Survey,-Volume-20,-Issue-4/part-002.txt",
       "chars": 199978,
       "paragraphs": 11578,
       "table_rows": 0,
-      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_2\\txt\\dli.zoological.memoirs.020.04.txt",
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\dli.zoological.memoirs.020.04.txt",
       "sha256": "817a1e77aaea8bea37b7c2b1dd8059eafa31eeb95a8d4b79b52735d4038e3f05",
       "bytes": 200232
      },
      {
       "chunk": "part-003",
-      "txt": "_unpublished/文库/A-taxonomic-monograph-on-the-world-species-of-termites-of-the-family-Rhinotermit/part-003.txt",
+      "txt": "_unpublished/文库/Memoirs-of-the-Zoological-Survey,-Volume-20,-Issue-4/part-003.txt",
       "chars": 199998,
       "paragraphs": 8627,
       "table_rows": 0,
-      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_2\\txt\\dli.zoological.memoirs.020.04.txt",
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\dli.zoological.memoirs.020.04.txt",
       "sha256": "013301935d1dcb1e92b5f62510179828a57ad138d1a7f162a1bf5c8c3426f249",
       "bytes": 200067
      },
      {
       "chunk": "part-004",
-      "txt": "_unpublished/文库/A-taxonomic-monograph-on-the-world-species-of-termites-of-the-family-Rhinotermit/part-004.txt",
+      "txt": "_unpublished/文库/Memoirs-of-the-Zoological-Survey,-Volume-20,-Issue-4/part-004.txt",
       "chars": 142625,
       "paragraphs": 7966,
       "table_rows": 0,
-      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_2\\txt\\dli.zoological.memoirs.020.04.txt",
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\dli.zoological.memoirs.020.04.txt",
       "sha256": "0730069bdb2a804e01b8e156119bc0314402749fdd7fd87dd940eaaaa257a228",
       "bytes": 142703
      }
@@ -40904,6 +41504,7 @@
    "lang": "en",
    "url": "https://archive.org/details/dli.zoological.memoirs.020.04",
    "used_in": [
+    "_data/morphology_species/acorhinotermes/acorhinotermes-subfusciceps.json",
     "_data/morphology_species/coptotermes/coptotermes-acinaciformis-acinaciformis.json",
     "_data/morphology_species/coptotermes/coptotermes-acinaciformis-raffrayi.json",
     "_data/morphology_species/coptotermes/coptotermes-amanii.json",
@@ -40916,7 +41517,18 @@
     "_data/morphology_species/coptotermes/coptotermes-emersoni.json",
     "_data/morphology_species/coptotermes/coptotermes-frenchi.json",
     "_data/morphology_species/coptotermes/coptotermes-kishori.json",
-    "_data/morphology_species/coptotermes/coptotermes-michaelseni.json"
+    "_data/morphology_species/coptotermes/coptotermes-michaelseni.json",
+    "_data/morphology_species/coptotermes/coptotermes-minutissimus.json",
+    "_data/morphology_species/coptotermes/coptotermes-sinabangensis.json",
+    "_data/morphology_species/heterotermes/heterotermes-philippinensis.json",
+    "_data/morphology_species/heterotermes/heterotermes-sulcatus.json",
+    "_data/morphology_species/parrhinotermes/parrhinotermes-minor.json",
+    "_data/morphology_species/parrhinotermes/parrhinotermes-pygmaeus.json",
+    "_data/morphology_species/parrhinotermes/parrhinotermes-queenslandicus.json",
+    "_data/morphology_species/rhinotermes/rhinotermes-manni.json",
+    "_data/morphology_species/schedorhinotermes/schedorhinotermes-bidentatus.json",
+    "_data/morphology_species/schedorhinotermes/schedorhinotermes-brachyceps.json",
+    "_data/morphology_species/schedorhinotermes/schedorhinotermes-umbraticus.json"
    ],
    "evidence": [
     {
@@ -40983,6 +41595,111 @@
      "quote": "41. Coptotermes michaelseni Silvestri 1. Coptotermes michaelseni Silvestri 1909. Silvestri, Fauna sudxvest Australians, 2 : 293. Im, S. and W. Type-locality : Mundijong, Western Australia. 1920. Mjoburg, Ark. For. Zoo/., 12 (15) : 30 1942. Hill, Termites (Isoptera) from the Australian Region, CSIRCb pp. 162-164. 1949. Synder, Smiths, misc. Coll., 112 : 80. 1970. Gay and Calaby, in: Biology of Termites. Krishna and Weesner (Eds.), 2 : 419 Material : A. Present in Z.S.I., Kolkata : (i) one vial (ZSI Reg. No.2767/H8) with 3 Im., 4S, and 3W., Perth, West Australia, D. H. Perry coll, 8.viii.l960 (Don. CSIRO, Ent. div., Australia). B. Present in F.R.I., Dehra Dun (ii) one vial with 1 Im., 2S and 2W., Merredin, West Australia, C.L.J.Newman coll. , det. G.F.Hill, (from A. M. N. H., New York).",
      "locator": "part-002.txt L698–L724",
      "note": "支撑：Coptotermes michaelseni 的种级命名与形态描述（自节标题起连续引文，part-002.txt L698 起）。"
+    },
+    {
+     "quote": "IMAGO (Fig. 75.A) : \nHead pale yellow with patches of yellowish \nbrown patches on vertex, as postclypeus and \nantennae yellowish white, pronotum yellowish \nbronw. Wings translucent, subcosta and redius \nsector pale yellow. \n\nHead, postclypeus and labrum with stout long \nand fine short setae sloping forward, pronotum \nwith many stout hairs. \n\nHead elongate, sides almost straight, posterior \nmargin semicircular. Eyes less bulging out. Ocelli \ninconspicuous, broadly oval, very close or almost \ntouching the eyes. Fontanelle small and raised \nabove the vertex. Antennae with 16 segments, 2 \nlonger than 3, 3 and 5 subequal. Pronotum \nnarrower than head, anterior margin indented. \n\nMeasurements : \n\n\nHead-length \n\n0.77-0.80 \n\nHead-width across eyes \n\n0.77-0.79 \n\nMax. diameter of eye \n\n0.22-0.23 \n\nMax. diameter of ocellus \n\n0.05-0.06 \n\nMin. diameter of ocellus \n\n0.04-0.05 \n\nEye-ocellus distance \n\n0.00-0.01 \n\nPronotum-width \n\n0.62-0.65 \n\nPronotum-length \n\n0.46-0.48 \n\nLength of forewing \n\n8.25-8.50",
+     "locator": "条目",
+     "note": "支撑：有翅成虫描述与全量度行（头、复眼、单眼、前胸背板、前翅长 8.25—8.50 mm）"
+    },
+    {
+     "quote": "SOLDIER (Fig. 75.B) : Head pale yellow, \npaler posteriously; frons, postcly perns antemal \nsockets and labrum darker yellow. Head with \nsparse setae anteriorly. \n\nHead with parallel sides and with round \nposterior margin, sloping in front with bilobed \nfrons, V-shaped furrow in between lobes. Frontal \ngland opening immediately behind the *urrow. \nLabrum broadest at posterior one-third. Left \nmandible with 4 rudi mentary teeth at base. \nPostmentum broadest near the front, more than \ntwice as broad as on waist. Pronotum subcordate, \nbroader than long, posterior margin either straight \nor weakly concave. \n\n\nMeasurements (in mm) : \n\n\nHead-length \n\n1.23-1.35 \n\nHead-width \n\n0.70-0.76 \n\nMandible-length \n\n0.89-0.96 \n\nPronotum length \n\n0.37-0.46 \n\nPronotum width \n\n0.52-0.61 \n\n\nTypes : In (i) Mus. de Zoologia, Univ. of Sao \nPaulo; and (ii) Brit. Mus. Nat. Hist, London (are \nto be deposited, Methews, 1977)",
+     "locator": "条目",
+     "note": "支撑：兵蚁全段描述与量度"
+    },
+    {
+     "quote": "IMAGO (one queen) \n(Emerson, 1925) (Fig. 144. A-B) : Head reddish \nyellow, widely oval with a few long bristles. \nLateral and posterior margins united to form a \nregular rounded margin. Antennae broken, 3 \nlonger than 2 or 4 and not so long as first, 2 \n\n\nsubequal to 4. Eyes of medium size, 1.3 mm. from \nthe lower margin of head, oval in shape. Ocelli \nof medium size, oval, placed about their long \ndiameter from eye. Clypeus projecting viewed \nfrom the sides, appearing pointed tip. Pronotum \nreddish yellow with numerous long bristles, sides \nand posterior margin making nearly a perfect \nsemi-circle posterior margin, devoid of any \nemargination. Wing scale and abdomen yellow. \n\n\nMeasurements : \n\n\nHead-length \n\n1.50 \n\nHead-width \n\n1.35 \n\nDiameter of eye \n\n0.32 \n\nLength of pronotum \n\n0.67 \n\nWidth of pronotum \n\n1.06 \n\nLength of queen \n\n8.27",
+     "locator": "条目",
+     "note": "支撑：有翅成虫（一王后）描述与量度（头长 1.50、头宽 1.35、前胸背板长 0.67、宽 1.06 mm）"
+    },
+    {
+     "quote": "brown, contrasting with labrum. Head somewhat \nconstricted behind, making sides concave, widest \nin front of the middle, clothed with numerous \nbristles. A tubercle visible at the base of each \nantennae. Antennae with 15 segments, 3 longer \nthan 2, 4 a little enlarged at tip, 2 equal to 4. \nLabrum much elongate, thin and forked at tip, a \ngroove extending down the middle. Mandible \nvestigeal, but visible as sharp points beneath the \nlabrum. \n\nPronotum same colour as that of head, width \nat the middle, posterior margin not emarginate, \nfront prolonged, somewhat projected into a lobe. \nAbdomen reddish yellow. \n\nMeasurements : \n\n\nLength of head \n\n1.48 \n\nWidth of head \n\n0.65 0.68 \n\nLength of pronotum \n\n0.42 \n\nWidth of pronotum \n\n0.51",
+     "locator": "条目",
+     "note": "支撑：小兵蚁描述与量度（头长 1.48、头宽 0.65 0.68 mm）"
+    },
+    {
+     "quote": "IMAGO : Head light \nyellow; antennae, labrum and abdomen paller; \nthorax and legs still paler. \n\nHead moderately hairy, a little longer than \nbroad, widest behind eyes, whence narrowing \n\n\n\n\nM&m : A taxonomic monograph on the world species of Termites \n\n\n129 \n\n\nposteriorly. Labrum as long as broad, tip bluntly \nround with 2-3 short bristles. Frons depressed \nbetween clypeus and fontanelle. Postclypeus \nbroader than long and convex with a median \ngroove. Eyes small nearly round with distinct \nfacets, placed slightly behind lateral margin of \nhead and separated from lower margin by a \ndistance equal to half diameter of eyes. Ocelli \nabsent. Fontanelle small, placed about midway \nbetween clypeal suture and posterior margin of \nhead, antennae with 17 segments, sparsely \npulsescent, 2,4 and 5 subequal, 3 almost half the 2. \n\nPronotum slightly wider than long, slightly \nnarrower than head, widest anteriorly, anterior \nmargin with median concavity, posterior margin \nnearly round.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫描述（头部、上唇、复眼、单眼缺、触角 17 节、前胸背板）"
+    },
+    {
+     "quote": "SOLDIER (Fig.74.A-B) : \n\nHead chestnut \n\n\nbrown, labrum, base of mandibles, pronotum \npaler; mandibles blackish brown. Head and \npronotum sparsely hairy, abdomen more hairy. \n\nHead subrectangular, lateral margins feebly \noutcurved with rounded posterior margin. \nFontalle indistinct, placed slightly above the \nmiddle, frontal gland transparent and triangular \nin shape. Labrum lanseolate in shape with hyaline \n\n\n\nFig. 74. Heterotermes philippinensis (Light) A-B, Soldier, A. \nHead and pronotum, dorsal view; B, postmentum. \n\nniddle-like projection. Mandibles substraight with \nvery weakly hooked apices. Antennae broken, 3 \nsmallest slightly longer than 2 and 4. Postmentum \nas long as mandibles, widest width slightly below \nthe apical margin and with distinctly projected \nlateral corners, waist at posterior third. Pronotum \nnarrower than head, anterior margin convex with \ndistinct median notch, posterior margin weakly \noutcurved. \n\nMeasurements : Table 39(s.)",
+     "locator": "条目",
+     "note": "支撑：兵蚁全段描述（量度表 39 不在素材包内）"
+    },
+    {
+     "quote": "Diagnostic character : (i) IMAGO (Dealate) : \nHead yellowish brown, postcelypeus and \nmandible deep brown, wing stumps dark brown. \nPostclypeus narrowed anteriorly, nose-like, \noverhanging the base of the labnum. Eyes small. \n\n\nbroadly oval, very prominent. Ocelli small, \nprominent, well separated from the eyes. Frons \nstrongly arched and deeply grooved, vertex and \nfrons markedly rugose. Thorax and abdomen \nwith scantly long hairs, (ii) SOLDIER (MAJOR) : \nUnknown, (iii) SOLDIER (MINOR) (Fig. 136. A- \nB) : Smaller form. Head short and wide, widest \nat the middle and much narrowing beyond the \nantennal insertion, posterior margin round with \na few hairs. Labrum long, grooved in the middle, \nterminating into bilobed apical margin fringed \nwith minute hairs and extending beyond the tips \nof the mandibles. Mandibles long and thin with \npointed apices, left with two and right with one \nmarginal teeth. Antennae with 12-13 segments, \nnormally with 13, 3 smallest. Pronotum small, \nanterior margin medially produced and posterior \nmargin with median emargination.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫诊断特征，大型兵蚁 Unknown"
+    },
+    {
+     "quote": "Diagnostic character : (i) IMAGO : Unknown, \n(ii) SOLDIER MAJOR : Head dark yellow and \nrectangular, only slightly longer than wide. \nLabrum bilobed anteriorly, right mandibles with \ntwo and left with single (or two) marginal teeth, \nboth the mandebles short. Antennae with 16 \nsegments, 3 nearly twice as long as 2. \nPostmentum twice as wide anteriorly as in below \nthe middle at waist. Pronotum not emarginate \nanteriorly and emarginate posteriorly, (iii) \nSOLDIER MINOR : Similar to soldier major, but \nvery small in size, except labrum extending \nalmost upto tip of mandibles, antennae with 16 \nsegments, 2 as long as 3, 4 shortest. \n\n\nMeasurements : \n\nS. \n\n(maj.) \n\nS. (min.) \n\nHead length \n\n2.05 \n\n1.08 \n\nHead width \n\n1.96 \n\n1.04 \n\nLength of mandible \n\n0.73 \n\n- \n\nWidest width of \npostmentum \n\n0.52 \n\n_ \n\n\nNarrowest width of \n\n\n\npost mentum \n\n0.26 \n\n- \n\nPronotum length \n\n0.68 \n\n0.43 \n\nPronotum width \n\n1.30 \n\n0.79 \n\nDistribution : ASIA : \n\nPhilippines : \n\n: Panay, Culasi \n\n\n(Antique Prov.). \n\nRemarks : The species is of moderate size. It \nbuilds nests in the soil and infests felled logs, \ndead stumps, bamboo and rotten wood.",
+     "locator": "条目",
+     "note": "支撑：大、小型兵蚁诊断特征"
+    },
+    {
+     "quote": "SOLDIER : Head pale yellowish brown",
+     "locator": "条目",
+     "note": "支撑：兵蚁体色、头形、囟、触角与前胸背板描述"
+    },
+    {
+     "quote": "Material : Since no material is available",
+     "locator": "条目",
+     "note": "支撑：本条目为转述 Kemner 1934，非新观察"
+    },
+    {
+     "quote": "Measurements (in mm.) of Soldiers",
+     "locator": "条目",
+     "note": "支撑：兵蚁五项量度"
+    },
+    {
+     "quote": "(ii) SOLDIER MAJOR (Fig.105. A-B) : Head \nyellowish to yellowish brown, devoid of hairs, \nalmost as long as based or slightly broader than \nlong. Fontanelle distinct, circular with anterior \ngroove reaching to tip of labrum. Labrum broad \nbase with narrowed and bilobed apical margin \nwith minute hairs, a few errect hairs below the \nmargin. Mandibles short and stout, left with two \nblunt and right with one somewhat pointed teeth. \nAntennae with 16 segments, 3 slightly longer than \n2, 4 shorter. Pronotum narrower than head-width, \nanterjor margin outcurved and posterior margin \nwith median emargination. (iii) SOLDIER \n(MINOR) : Head yellowish with darker \nmandibles, slightly longer than broad, mandibles \n\n\n\n\n\n\n186 \n\n\nMemoirs of the Zoological Survey of India, \n\n\nthin and elongate with pointed apical teeth. \nAntennae with 15 segments, 2 longer than 3, \notherwise very similar to major soldier, except \nsmaller in size.",
+     "locator": "条目",
+     "note": "支撑：schedorhinotermes brachyceps 种级形态描述原文"
+    },
+    {
+     "quote": "(ii) SOLDIER (MAJOR) (Fig. 138. A) - Head \nyellowish brown, flat, longer than broad, broadest \nposteriorly with narrow postero-lateral angles and \nscattered long hairs. Fontanelle small with a \ngroove leading from opening to labrum. Labrum \ntongue-shaped, as broad as long, with a median \ngroove, tip white, fleshy, broadly rounded with \nshort hairs. Left mandible with two sharp \nmarginal teeth near the middle, first larger than \nsecond; right mandible with upper tooth near the \nmiddle, not prominent; lower tooth prominent, \nsharp near base. Antennae with 18 segments, 2 \nshort, 3 subequal to 4. Pronotum yellowish- \nbrown, anterior margin raised, slightly \nemarginate.",
+     "locator": "条目",
+     "note": "支撑：rhinotermes manni 种级形态描述原文"
+    },
+    {
+     "quote": "(ii) SOLDIER (Fig. 101.A-E) : Head and labrum \nbrownish yellow to brown and other body parts \npaler. Head and abdomen densely and pronotum \nsparsely hairy. Head evoid, but not so narrowed \nanterior lateral sides. Outcurved and posterior \nmargin medially produced with weak \nemargination on either side. Fontanlle as in other \nspecies. Labrum somewhat rectangular with \nhyaline, convex apical margin with microhairs \nand with a few bristle little below. Antenne with \n13 segments, 3 shorter than 2 and subequal to 4. \nMandibles strongly bent almost at the middle and \nterminating into incurved pointed apices with \noutcurved inner margin. Left mandible with \nunequal two and right with a single broad base \nmarginal teeth. Postmentum fairly bilobed \nanteriorly, widest width almost double the waist, \nbody densely pilese throughout. Pronotum much \nnarrower than head, anterior margin produced \nmedially and posterior margin weakly emarginate.",
+     "locator": "条目",
+     "note": "支撑：parrhinotermes minor 种级形态描述原文"
+    },
+    {
+     "quote": "Diagnostic characters : (i) IMAGO (Based on \nJohn, 1925, Neotenic Queen). \n\nHead brownish yellow, thorax pale yellow, \nwing sheeth yellow, abdominal tergites light \nbrownish and with white lateral spot on each \nside. Head thorax and abdomen fairly densely \nhairty. \n\nHead narrowing anteriorly with indistinct \nsuture. Eyes medium sized. Ocelli absent. \nFontanelle fairly distinct. Antennae with 17 \nsegments, 3 shorter than 4. Mandibles of typical \nParrhinotermes type. Pronotum narrower than \nhead, width double the length.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫（据新生王后）：色/触角/前胸背板"
+    },
+    {
+     "quote": "Measurements (in mm) : \n\n\nBody length \n\n8.00 \n\nWidth of head \n\n1.03 \n\nWidth of pronotum \n\n0.87",
+     "locator": "条目",
+     "note": "支撑：量度：体长8.00/头宽1.03/前胸背板宽0.87"
+    },
+    {
+     "quote": "Diagnostic character : (i) IMAGO (After Hill, \n1942) : Head light brown and with few hairs, \npaler in front; labnum, legs and under parts dull \nyellow; pronotum and fore wing stump a little \ndarker than legs. Eyes very large (0.36 x 0.36m) \nocelli fairly larger (0.14 long), broadly oval. \nFontanelle small and spherical, a shallow groove \nextending from the fontanelle to the postclypeus. \nPostclypeus, a little more than one-third as long \nas wide. Antennae with segment 2 less than half \nas long as 1st, very little longer than 3rd. \nPronotum flat, narrower than head, much wider \nthan long, arcuate in front, antero-lateral angles \nand sides rounded; posterior margins of meso \nand metandtum widely arcuate.",
+     "locator": "条目",
+     "note": "支撑：有翅成虫：复眼/单眼/囟/前胸背板"
+    },
+    {
+     "quote": "Measurements : \n\n\nHead to apex of labnum \n\n1.06 \n\nHead to clypefrontal suture \n\n0.80 \n\nHead-width \n\n1.10 \n\nPronotum length \n\n0.47 \n\nPronotum-width \n\n0.88",
+     "locator": "条目",
+     "note": "支撑：有翅成虫量度：1.06/0.80/1.10/0.47/0.88"
+    },
+    {
+     "quote": "(ii) SOLDIER (Fig. 103 A-B.) : Head straw \ncoloured, longer than wide, slightly rounded at \nsides andslightly narrowing anteriorly, widest \nwidth midway between fontanelle and the \nposterior margin. Labnum nearly one-fourth \nlonger than its width, at the base, barely reaching \nthe tip of mandibles Fontanelle small, circular \nvery distinct; Antennae with 13 segments, 2 \nshorter than either 3 or 4. Mandibles with apical \ntooth in the left mandible opposite the tooth in \nthe right mandible. Pronotum with anterior \nmargin convex and slightly emarginate medially, \nposterior margin less convex and devoid of any \nmedian emargination. Head and thorax with \nsparse long hairs.",
+     "locator": "条目",
+     "note": "支撑：兵蚁：头形/上唇/囟/触角/前胸背板"
+    },
+    {
+     "quote": "(ii) SOLDIER (Fig. 46.A-B) : Head straw-yellow \nand with a few scattered hairs, other body parts \nstill paler. Head broadly pyriform, maximum \nwidth almost equal to one and a half times as \nbroad as anterior end. Fontanelle fairly large.",
+     "locator": "条目",
+     "note": "支撑：兵蚁：头形/最大宽为前端宽的一倍半/囟"
+    },
+    {
+     "quote": "weakly efaced posteriorly and almost touching \npostelypeus. Antennae with 15 segments, 3 \nnarrowest and smaller than 2 and longer than 4. \nLabrum elongately dome-shaped with a lyaline \napex. Somewhat pointed and in curved at apices \nmandibles and two pair of hairs at the \ncommencement of hyaline portion. Postmentum \nvash-shaped, narrowest width almost half the \nmaximum width and at posterior third. \n\nPronotum much narrower than head and more \ndensely hairy, with broad meaidn emargination \nwhence outcurved on either side with 4-5 erect \nhairs at the anterior margin, posterior margin \nwith shallow median emargination.",
+     "locator": "条目",
+     "note": "支撑：兵蚁：触角15节/上唇/后颏/前胸背板"
     }
    ],
    "id": "S0720"
@@ -41268,6 +41985,902 @@
     }
    ],
    "id": "S0724"
+  },
+  {
+   "title": "Description of two new species of Termes (Isoptera: Termitidae) from Colombia and Venezuela using morphological and mitochondrial data",
+   "source_type": "paper",
+   "reliability": "peer_reviewed",
+   "canonical_key": "doi:10.11646/zootaxa.5821.4.5",
+   "file_path": "_unpublished/文库/10.11646-zootaxa.5821.4.5",
+   "chars": 47002,
+   "retrieved_via": "文库（pdf-text）",
+   "accessed": "2026-11-20T04:40:51+08:00",
+   "notes": "全文存于 _unpublished/文库/10.11646-zootaxa.5821.4.5（15 页，47002 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文；OA 全文自动归档（unpaywall PDF）；全文只存本地文库供检索，不发布、不对外分发。标题/作者/年份取自开放元数据，引用以出版方原文为准。",
+   "library": {
+    "book": "10.11646-zootaxa.5821.4.5",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T04:40:51",
+    "chunks": [
+     {
+      "chunk": "0001-0015",
+      "txt": "_unpublished/文库/10.11646-zootaxa.5821.4.5/0001-0015.txt",
+      "chars": 47002,
+      "paragraphs": 620,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\fulltext\\fulltext.pdf",
+      "sha256": "d7edd408d69e82540c81073a835d311b369d01657ca882fcf848e2a8dce6da6b",
+      "bytes": 47440
+     }
+    ]
+   },
+   "year": 2026,
+   "publisher": "Magnolia Press",
+   "lang": "en",
+   "license": "other-oa",
+   "doi": "10.11646/zootaxa.5821.4.5",
+   "url": "https://mapress.com/zt/article/download/zootaxa.5821.4.5/59215",
+   "used_in": [],
+   "evidence": [],
+   "id": "S0725"
+  },
+  {
+   "title": "Termite (Insecta: Isoptera) Fauna of Gujarat and Rajasthan-Present State of Knowledge",
+   "source_type": "paper",
+   "reliability": "peer_reviewed",
+   "canonical_key": "url:https://archive.org/details/dli.zoological.occpapers.223",
+   "file_path": "_unpublished/文库/Termite-(Insecta-Isoptera)-Fauna-of-Gujarat-and-Rajasthan-Present-State-of-Knowl",
+   "chars": 153308,
+   "retrieved_via": "文库（text）",
+   "accessed": "2026-11-20T04:52:06+08:00",
+   "notes": "全文存于 _unpublished/文库/Termite-(Insecta-Isoptera)-Fauna-of-Gujarat-and-Rajasthan-Present-State-of-Knowl（153308 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "library": {
+    "book": "Termite-(Insecta-Isoptera)-Fauna-of-Gujarat-and-Rajasthan-Present-State-of-Knowl",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T04:52:06",
+    "chunks": [
+     {
+      "chunk": "full",
+      "txt": "_unpublished/文库/Termite-(Insecta-Isoptera)-Fauna-of-Gujarat-and-Rajasthan-Present-State-of-Knowl/full.txt",
+      "chars": 153308,
+      "paragraphs": 6586,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\dli.zoological.occpapers.223.txt",
+      "sha256": "ca15277cc71b0fb94545e13b540130657e9060b4aba5eb265bc4be8e9298fec5",
+      "bytes": 153378
+     }
+    ]
+   },
+   "authors": [
+    "Rathore, Narendra S.",
+    "Bhattacharyya, Asit K."
+   ],
+   "year": 2004,
+   "lang": "en",
+   "url": "https://archive.org/details/dli.zoological.occpapers.223",
+   "used_in": [],
+   "evidence": [],
+   "id": "S0726"
+  },
+  {
+   "title": "Biologia  1958-12: Vol 4 Iss 2",
+   "source_type": "paper",
+   "reliability": "peer_reviewed",
+   "canonical_key": "url:https://archive.org/details/biologia_1958-12_4_2",
+   "file_path": "_unpublished/文库/Biologia-1958-12-Vol-4-Iss-2",
+   "chars": 218935,
+   "retrieved_via": "文库（text）",
+   "accessed": "2026-11-20T05:12:18+08:00",
+   "notes": "全文存于 _unpublished/文库/Biologia-1958-12-Vol-4-Iss-2（218935 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "library": {
+    "book": "Biologia-1958-12-Vol-4-Iss-2",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T04:52:06",
+    "chunks": [
+     {
+      "chunk": "part-001",
+      "txt": "_unpublished/文库/Biologia-1958-12-Vol-4-Iss-2/part-001.txt",
+      "chars": 199992,
+      "paragraphs": 5611,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\biologia_1958-12_4_2.txt",
+      "sha256": "229333a554054ea611325b4bbf807e7d093adf3f6cf26b53bb85548a6fbd7d4d",
+      "bytes": 200671
+     },
+     {
+      "chunk": "part-002",
+      "txt": "_unpublished/文库/Biologia-1958-12-Vol-4-Iss-2/part-002.txt",
+      "chars": 18943,
+      "paragraphs": 1062,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\biologia_1958-12_4_2.txt",
+      "sha256": "6044e5e7ef0e0c96e4eb6cc873ea24fb5ba02f572b064561a313c602846c006d",
+      "bytes": 19001
+     }
+    ]
+   },
+   "year": 1958,
+   "lang": "en",
+   "url": "https://archive.org/details/biologia_1958-12_4_2",
+   "used_in": [
+    "_data/morphology_species/hirtitermes/hirtitermes-hirtiventris.json",
+    "_data/morphology_species/longipeditermes/longipeditermes-longipes.json",
+    "_data/morphology_species/mirocapritermes/mirocapritermes-connectens.json"
+   ],
+   "evidence": [
+    {
+     "quote": "SOLDIER: Head light yellow, with rather thick growth of short hairs, \ncylindrical, frons sloping; frontal projection seen above triangular; \n\n\nVOL. 4, 1958 INDOMALAYAN TERMITES 183 \n\n\nlabrum rectangular, with long antero-lateral processes; mandibles \nasymmetrical; antennae with 14 articles, the second as long as the third \nand fourth combined; head length with mandibles 2.01, without man- \ndibles 1.03, width 0.68; pronotum width 0.41. (Holmgren, 1914).",
+     "locator": "条目",
+     "note": "支撑：兵蚁头形、额突、上唇、触角节数与量度"
+    },
+    {
+     "quote": "SOLDIER: head almost round without nasus",
+     "locator": "条目",
+     "note": "支撑：兵蚁描述起始句（含 OCR 矛盾处，原文照录）"
+    },
+    {
+     "quote": "head length with nasus 2.62, without \nnasus 1.71",
+     "locator": "条目",
+     "note": "支撑：兵蚁头长、头宽与前胸背板量度"
+    },
+    {
+     "quote": "IMAGO: Head oval; ocelli very close to the eyes; pronotum straight \nanteriorly, antero-lateral corners broadly rounded. (Haviland in Holm- \ngren, 1913). \n\n\nMAJOR SOLDIER : Head dark brown, without hairs, broadly triangular, \nmuch wider than long (without nasus), nasus small, conical; antennae \nwith 14 articles, the third more than three times as long as the second \nand two-and-a-half times as long as the fourth; pronotum neither indented \nanteriorly nor posteriorly; head length with nasus (2.08-2.10)2.38, \nwithout nasus 1.25, width (1.58-1.63)1.76; length of nasus (0.67-0.72); \npronotum length (0.36-0.39), width (0.65-0.67) 0.72. (Holmgren, 1913). \n\n\nMINOR SOLDIER : Head length with nasus {1.53-1.63) 1.75, without \nnasus (0.67)-0.87, width (0.75-0.80)0.87; pronotum length (0.23-0.26), \nwidth (0.41-0.46)0.49. (Holmgren, 1913). \n\n\n*The other two species of this genus, viz, MH. sinabangensis Oshima and \nH. spinocephalus (Oshima), could not be included in this key because of the non- \navailability of the material and the description. \n\n\n/ \n\n\nVOL.",
+     "locator": "条目",
+     "note": "支撑：longipeditermes longipes 种级形态描述原文"
+    }
+   ],
+   "id": "S0727"
+  },
+  {
+   "title": "A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera)",
+   "source_type": "paper",
+   "reliability": "peer_reviewed",
+   "canonical_key": "url:https://archive.org/details/bulletin-american-museum-natural-history-122-307-408",
+   "file_path": "_unpublished/文库/A-generic-revision-and-phylogenetic-study-of-the-family-Kalotermitidae-(Isoptera",
+   "chars": 241565,
+   "retrieved_via": "文库（text）",
+   "accessed": "2026-11-20T05:12:18+08:00",
+   "notes": "全文存于 _unpublished/文库/A-generic-revision-and-phylogenetic-study-of-the-family-Kalotermitidae-(Isoptera（241565 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "library": {
+    "book": "A-generic-revision-and-phylogenetic-study-of-the-family-Kalotermitidae-(Isoptera",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T04:52:06",
+    "chunks": [
+     {
+      "chunk": "part-001",
+      "txt": "_unpublished/文库/A-generic-revision-and-phylogenetic-study-of-the-family-Kalotermitidae-(Isoptera/part-001.txt",
+      "chars": 199983,
+      "paragraphs": 8775,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-american-museum-natural-history-122-307-408.txt",
+      "sha256": "7b8cdbfea60954e14e681f7a7456ad6e58b51c4628b1e029bc5e72845c4073dd",
+      "bytes": 200682
+     },
+     {
+      "chunk": "part-002",
+      "txt": "_unpublished/文库/A-generic-revision-and-phylogenetic-study-of-the-family-Kalotermitidae-(Isoptera/part-002.txt",
+      "chars": 41582,
+      "paragraphs": 1816,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-american-museum-natural-history-122-307-408.txt",
+      "sha256": "33aec40d3b74c62d95c68d34bb4a5fdf4a37dff067bb264292371498f10837e8",
+      "bytes": 41739
+     }
+    ]
+   },
+   "authors": [
+    "Krishna, Kumar"
+   ],
+   "year": 1961,
+   "lang": "en",
+   "url": "https://archive.org/details/bulletin-american-museum-natural-history-122-307-408",
+   "used_in": [
+    "_data/morphology_species/allotermes/allotermes-paradoxus.json",
+    "_data/morphology_species/epicalotermes/epicalotermes-aethiopicus.json",
+    "_data/morphology_species/tauritermes/tauritermes-taurocephalus.json"
+   ],
+   "evidence": [
+    {
+     "quote": "Imago: Yellowish brown. Diameter of eye,",
+     "locator": "条目",
+     "note": "支撑：有翅成虫描述起始与眼径量度"
+    },
+    {
+     "quote": "Soldier (fig. 72): Head long and broad",
+     "locator": "条目",
+     "note": "支撑：兵蚁头部、触角、上颚与前胸背板描述"
+    },
+    {
+     "quote": "Type Species: Epicalotermes aethiopicus",
+     "locator": "条目",
+     "note": "支撑：本种为该属模式种，属征即据本种材料"
+    },
+    {
+     "quote": "Soldier (fig. 56): Head phragmotic; \nanterior region dark and sculptured; profile of \nfront steep; frons with two well-developed \nprominences, widely concave between promi- \n\n\n\nFig. 56. Soldier of Tauritermes taurocephalus (Silvestri). A. Head and pronotum \nfrom above. B. Head from side. C. Postmentum from below. Cotype from Corumba, \nMato Grasso, Brazil. \n\n\n\n\n1961 \n\n\nKRISHNA: KALOTERMITIDAE \n\n\n363 \n\n\nnences; horn-like projections absent in front \nof and above or below antennal socket; anten¬ \nnal carinae slightly prominent and rounded; a \nvery faint ridge between frons and vertex, not \nso sharp as in the genus Procryptotermes . Eyes \ndistinct and unpigmented. Antenna with 10 \nto 11 articles; third article wider and longer \nthan second. Mandibles slender, with marked \nbasal hump. Pronotum as broad as head; \nanterior margin raised and covering posterior \nregion of head, deeply emarginate, sinuate, \nand serrated. Femur not swollen. Tibial spurs \n3:3:3.",
+     "locator": "条目",
+     "note": "Krishna 1961 新属 Tauritermes 条目下给出该种兵蚁（图 56）与若虫上颚、前翅芽的完整描述，有翅成虫原文记作 Unknown；描述未附量度。已写条目。"
+    },
+    {
+     "quote": "Imago: Diameter of eye, 0.35-0.36 mm. \nOcellus in contact with eye. Antennal joints \nunknown. Mandibles as in the genus Crypto - \ntermes } i.e., left mandible with first plus sec¬ \nond marginal tooth much smaller at base \nthan third marginal tooth; posterior margin \nof first plus second marginal tooth half of \nlength of anterior margin of third marginal \ntooth (fig. 50). Right mandible with posterior \nmargin of second marginal longer than molar \nplate (fig. 50). Pronotum slightly narrower \nthan or as broad as head. Forewing pad of \nnymph with media weak, running midway \nbetween radial sector and cubitus to tip of \nwing. Tibial spurs 3:3:3. Arolium absent.",
+     "locator": "条目",
+     "note": "有翅成虫段落：复眼直径 0.35-0.36 mm、上颚与胫节距 3:3:3、跗爪间突缺。"
+    },
+    {
+     "quote": "Soldier (fig. 51): Head long, narrow;sides \nparallel, sloping in front at angle of approxi¬ \nmately 45 degrees; ridge absent between frons \nand vertex; faint horn-like projection formed \nby prolongation of ventral genae, below and \nin front of antennal socket. Eyes distinct, in \nsome species pigmented. Antenna with 10 to \n12 articles, third article darker and heavily \nsclerotized, long, and club-shaped. Mandibles \nlong, with a prominent basal hump; teeth \nrudimentary. Pronotum as broad as head; \nanterior margin broadly and deeply concave; \nsides evenly rounded. Femur not swollen. \nTibial spurs 3:3:3.",
+     "locator": "条目",
+     "note": "兵蚁段落：头形、触角 10 to 12 节、上颚与股节特征、胫节距 3:3:3。"
+    },
+    {
+     "quote": "Comparisons: The imago resembles that of \nIncisitermes in wing venation, but differs from \nit in having the arolium always absent and \nthe first plus second marginal tooth in the left \nmandible much smaller than the third. The \nsoldier can also be distinguished from that of \nIncisitermes in having a faint horn-like projec¬ \ntion below and in front of the antennal socket, \nthe head not dorsoventrally flattened, the \nmandible long and slender, and the femur not \nswollen.",
+     "locator": "条目",
+     "note": "与 Incisitermes 的比较，写入鉴别要点。"
+    }
+   ],
+   "id": "S0728"
+  },
+  {
+   "title": "The phylogeny of termite genera based on imago-worker mandibles",
+   "source_type": "paper",
+   "reliability": "peer_reviewed",
+   "canonical_key": "url:https://archive.org/details/bulletin-american-museum-natural-history-95-041-086",
+   "file_path": "_unpublished/文库/The-phylogeny-of-termite-genera-based-on-imago-worker-mandibles",
+   "chars": 121291,
+   "retrieved_via": "文库（text）",
+   "accessed": "2026-11-20T04:52:06+08:00",
+   "notes": "全文存于 _unpublished/文库/The-phylogeny-of-termite-genera-based-on-imago-worker-mandibles（121291 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "library": {
+    "book": "The-phylogeny-of-termite-genera-based-on-imago-worker-mandibles",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T04:52:06",
+    "chunks": [
+     {
+      "chunk": "full",
+      "txt": "_unpublished/文库/The-phylogeny-of-termite-genera-based-on-imago-worker-mandibles/full.txt",
+      "chars": 121291,
+      "paragraphs": 4081,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-american-museum-natural-history-95-041-086.txt",
+      "sha256": "e818b8c07720a954e03fa91ff259ddedeedb146b82658abc8a3755bcc9759bbc",
+      "bytes": 121796
+     }
+    ]
+   },
+   "authors": [
+    "Ahmad, Muzaffer"
+   ],
+   "year": 1950,
+   "lang": "en",
+   "url": "https://archive.org/details/bulletin-american-museum-natural-history-95-041-086",
+   "used_in": [],
+   "evidence": [],
+   "id": "S0729"
+  },
+  {
+   "title": "Smithsonian miscellaneous collections. Volume 130 (1956)",
+   "source_type": "paper",
+   "reliability": "peer_reviewed",
+   "canonical_key": "url:https://archive.org/details/smithsonianmisce1301956smit",
+   "file_path": "_unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-130-(1956)",
+   "chars": 1207481,
+   "retrieved_via": "文库（text）",
+   "accessed": "2026-11-20T05:00:27+08:00",
+   "notes": "全文存于 _unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-130-(1956)（1207481 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "library": {
+    "book": "Smithsonian-miscellaneous-collections.-Volume-130-(1956)",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T05:00:27",
+    "chunks": [
+     {
+      "chunk": "part-001",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-130-(1956)/part-001.txt",
+      "chars": 200000,
+      "paragraphs": 9126,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisce1301956smit.txt",
+      "sha256": "a49a33edfc0f0107a5981e74a77612075402a29944abe0a3250c4f6dca7829e4",
+      "bytes": 200510
+     },
+     {
+      "chunk": "part-002",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-130-(1956)/part-002.txt",
+      "chars": 199962,
+      "paragraphs": 8378,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisce1301956smit.txt",
+      "sha256": "ba296d7091c44482618d8a38f07aeb82ead48f1e7851a38f612c5b5eb2f38e2f",
+      "bytes": 200494
+     },
+     {
+      "chunk": "part-003",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-130-(1956)/part-003.txt",
+      "chars": 199976,
+      "paragraphs": 8215,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisce1301956smit.txt",
+      "sha256": "3fa64b7d80ae0a5fd598aa24be2ab18b6903f3ef816b193f52d1c8d384ff93ee",
+      "bytes": 200750
+     },
+     {
+      "chunk": "part-004",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-130-(1956)/part-004.txt",
+      "chars": 199993,
+      "paragraphs": 8570,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisce1301956smit.txt",
+      "sha256": "52eec709bca296f112460aa3ab306d361671dcbf64aa1dd6a8923752d92cebbc",
+      "bytes": 201025
+     },
+     {
+      "chunk": "part-005",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-130-(1956)/part-005.txt",
+      "chars": 199972,
+      "paragraphs": 8779,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisce1301956smit.txt",
+      "sha256": "d694fcfdd441bb3e7a70c19b6ded11919fa93678d5fbbf0fa04ec59cd74281ed",
+      "bytes": 200663
+     },
+     {
+      "chunk": "part-006",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-130-(1956)/part-006.txt",
+      "chars": 199967,
+      "paragraphs": 8508,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisce1301956smit.txt",
+      "sha256": "db3b8b4d3a0279871bcbd698203a2b5f9dbb947f82095a1882ed84a95b404aa8",
+      "bytes": 200458
+     },
+     {
+      "chunk": "part-007",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-130-(1956)/part-007.txt",
+      "chars": 7611,
+      "paragraphs": 437,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisce1301956smit.txt",
+      "sha256": "c089d23d75f66090c29ec7828b62dac287a1b828414e24013f37e89a176349c3",
+      "bytes": 7634
+     }
+    ]
+   },
+   "authors": [
+    "Smithsonian Institution"
+   ],
+   "year": 1862,
+   "lang": "en",
+   "url": "https://archive.org/details/smithsonianmisce1301956smit",
+   "used_in": [],
+   "evidence": [],
+   "id": "S0730"
+  },
+  {
+   "title": "Smithsonian miscellaneous collections. Volume 143 (1961-1962)",
+   "source_type": "paper",
+   "reliability": "peer_reviewed",
+   "canonical_key": "url:https://archive.org/details/smithsonianmisce14319611962smit",
+   "file_path": "_unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-143-(1961-1962)",
+   "chars": 1363926,
+   "retrieved_via": "文库（text）",
+   "accessed": "2026-11-20T05:00:27+08:00",
+   "notes": "全文存于 _unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-143-(1961-1962)（1363926 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "library": {
+    "book": "Smithsonian-miscellaneous-collections.-Volume-143-(1961-1962)",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T05:00:27",
+    "chunks": [
+     {
+      "chunk": "part-001",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-143-(1961-1962)/part-001.txt",
+      "chars": 199997,
+      "paragraphs": 18545,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisce14319611962smit.txt",
+      "sha256": "bb63fadffb558b8fbbd1324fe037541bfc34f6a1466c19813e5b4d2168750590",
+      "bytes": 208483
+     },
+     {
+      "chunk": "part-002",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-143-(1961-1962)/part-002.txt",
+      "chars": 199978,
+      "paragraphs": 10432,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisce14319611962smit.txt",
+      "sha256": "0b2807e10b2f54acd1582483a9366c78bae6a707c1f3c5baf33568f4a0456629",
+      "bytes": 202434
+     },
+     {
+      "chunk": "part-003",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-143-(1961-1962)/part-003.txt",
+      "chars": 199994,
+      "paragraphs": 7894,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisce14319611962smit.txt",
+      "sha256": "a4ddf5e304fadc88d54004c3d565b0d3275b1eb0302b05be57af7a13622454fb",
+      "bytes": 200563
+     },
+     {
+      "chunk": "part-004",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-143-(1961-1962)/part-004.txt",
+      "chars": 199996,
+      "paragraphs": 7873,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisce14319611962smit.txt",
+      "sha256": "a9938dd20d0501a363d50999a7b356a7f652d375a46c940cedddb9322eb49894",
+      "bytes": 200382
+     },
+     {
+      "chunk": "part-005",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-143-(1961-1962)/part-005.txt",
+      "chars": 199935,
+      "paragraphs": 8009,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisce14319611962smit.txt",
+      "sha256": "cf3a1df26c9f05eb1eda059005f286c9408eb348422adbf24f0689f1b7323045",
+      "bytes": 205941
+     },
+     {
+      "chunk": "part-006",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-143-(1961-1962)/part-006.txt",
+      "chars": 199943,
+      "paragraphs": 4884,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisce14319611962smit.txt",
+      "sha256": "3726731c931610062b315f810dd08d5c079e5c8fe2e9746a9b7d087cad526f20",
+      "bytes": 200602
+     },
+     {
+      "chunk": "part-007",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections.-Volume-143-(1961-1962)/part-007.txt",
+      "chars": 164083,
+      "paragraphs": 3364,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisce14319611962smit.txt",
+      "sha256": "ec46abca9a2420ca9f48ea087594d178daeca7e146cfd8a63c05ca8c1c1b5a68",
+      "bytes": 164445
+     }
+    ]
+   },
+   "authors": [
+    "Smithsonian Institution"
+   ],
+   "year": 1862,
+   "lang": "en",
+   "url": "https://archive.org/details/smithsonianmisce14319611962smit",
+   "used_in": [],
+   "evidence": [],
+   "id": "S0731"
+  },
+  {
+   "title": "Catalog of Neotropical termites (update, 1998) and phylogeny of Neotropical genera of Nasutitermitinae",
+   "source_type": "paper",
+   "reliability": "peer_reviewed",
+   "canonical_key": "url:https://archive.org/details/Termites1998CatalogPhylogeny",
+   "file_path": "_unpublished/文库/Catalog-of-Neotropical-termites-(update,-1998)-and-phylogeny-of-Neotropical-gene",
+   "chars": 164781,
+   "retrieved_via": "文库（text）",
+   "accessed": "2026-11-20T04:52:08+08:00",
+   "notes": "全文存于 _unpublished/文库/Catalog-of-Neotropical-termites-(update,-1998)-and-phylogeny-of-Neotropical-gene（164781 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "library": {
+    "book": "Catalog-of-Neotropical-termites-(update,-1998)-and-phylogeny-of-Neotropical-gene",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T04:52:08",
+    "chunks": [
+     {
+      "chunk": "full",
+      "txt": "_unpublished/文库/Catalog-of-Neotropical-termites-(update,-1998)-and-phylogeny-of-Neotropical-gene/full.txt",
+      "chars": 164781,
+      "paragraphs": 6453,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\Termites1998CatalogPhylogeny.txt",
+      "sha256": "dbcdbb53c54149ca826721957306147adb94512289ceab610391d7ba634b3bea",
+      "bytes": 167166
+     }
+    ]
+   },
+   "authors": [
+    "Luiz Roberto Fontes"
+   ],
+   "lang": "en",
+   "url": "https://archive.org/details/Termites1998CatalogPhylogeny",
+   "used_in": [],
+   "evidence": [],
+   "id": "S0732"
+  },
+  {
+   "title": "Catalog of termites (Isoptera) of the world",
+   "source_type": "paper",
+   "reliability": "peer_reviewed",
+   "canonical_key": "url:https://archive.org/details/biostor-127224",
+   "file_path": "_unpublished/文库/Catalog-of-termites-(Isoptera)-of-the-world",
+   "chars": 1018728,
+   "retrieved_via": "文库（text）",
+   "accessed": "2026-11-20T04:52:08+08:00",
+   "notes": "全文存于 _unpublished/文库/Catalog-of-termites-(Isoptera)-of-the-world（1018728 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "library": {
+    "book": "Catalog-of-termites-(Isoptera)-of-the-world",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T04:52:08",
+    "chunks": [
+     {
+      "chunk": "part-001",
+      "txt": "_unpublished/文库/Catalog-of-termites-(Isoptera)-of-the-world/part-001.txt",
+      "chars": 199982,
+      "paragraphs": 7568,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\biostor-127224.txt",
+      "sha256": "4e62435eb2bfba50998c14174a4122f7b8d208f8b9258e5e4b299d1182a80879",
+      "bytes": 200748
+     },
+     {
+      "chunk": "part-002",
+      "txt": "_unpublished/文库/Catalog-of-termites-(Isoptera)-of-the-world/part-002.txt",
+      "chars": 199980,
+      "paragraphs": 7944,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\biostor-127224.txt",
+      "sha256": "3c57b6c2e8fbf7a6f3dbeabf092ecdb7071af4c00f216299446ce3ee87b211e9",
+      "bytes": 200839
+     },
+     {
+      "chunk": "part-003",
+      "txt": "_unpublished/文库/Catalog-of-termites-(Isoptera)-of-the-world/part-003.txt",
+      "chars": 199990,
+      "paragraphs": 7507,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\biostor-127224.txt",
+      "sha256": "9f571dd6e5f909722e3b475c12d4ed97bbce0e27c48bf00548ad30b9e7bb6160",
+      "bytes": 201132
+     },
+     {
+      "chunk": "part-004",
+      "txt": "_unpublished/文库/Catalog-of-termites-(Isoptera)-of-the-world/part-004.txt",
+      "chars": 199993,
+      "paragraphs": 8511,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\biostor-127224.txt",
+      "sha256": "f68b4ebac8a4af8ec7fff583bf13dd29d7304fbf75b521f26e153c3e44faf83c",
+      "bytes": 200709
+     },
+     {
+      "chunk": "part-005",
+      "txt": "_unpublished/文库/Catalog-of-termites-(Isoptera)-of-the-world/part-005.txt",
+      "chars": 199952,
+      "paragraphs": 9599,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\biostor-127224.txt",
+      "sha256": "7923a31cbf3ae1dfd5c7d1ae1ec0d1db847cbe378f188855cdab94aa21225283",
+      "bytes": 200392
+     },
+     {
+      "chunk": "part-006",
+      "txt": "_unpublished/文库/Catalog-of-termites-(Isoptera)-of-the-world/part-006.txt",
+      "chars": 18831,
+      "paragraphs": 501,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\biostor-127224.txt",
+      "sha256": "943dfa2983ff8a0d9ff089884cc6278b78fb5b4346855ba0445f17a7f7ceca35",
+      "bytes": 18905
+     }
+    ]
+   },
+   "authors": [
+    "Thomas E Snyder"
+   ],
+   "year": 1949,
+   "lang": "en",
+   "url": "https://archive.org/details/biostor-127224",
+   "used_in": [],
+   "evidence": [],
+   "id": "S0733"
+  },
+  {
+   "title": "Smithsonian miscellaneous collections",
+   "source_type": "paper",
+   "reliability": "peer_reviewed",
+   "canonical_key": "url:https://archive.org/details/smithsonianmisc15231968s",
+   "file_path": "_unpublished/文库/Smithsonian-miscellaneous-collections",
+   "chars": 758185,
+   "retrieved_via": "文库（text）",
+   "accessed": "2026-11-20T04:52:09+08:00",
+   "notes": "全文存于 _unpublished/文库/Smithsonian-miscellaneous-collections（758185 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "library": {
+    "book": "Smithsonian-miscellaneous-collections",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T04:52:09",
+    "chunks": [
+     {
+      "chunk": "part-001",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections/part-001.txt",
+      "chars": 199978,
+      "paragraphs": 7072,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisc15231968s.txt",
+      "sha256": "0c96e0bb3cb89336cffacbd60aa2ca2a99c47d51ef2223e62c71b9519dd5a955",
+      "bytes": 200268
+     },
+     {
+      "chunk": "part-002",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections/part-002.txt",
+      "chars": 199998,
+      "paragraphs": 7033,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisc15231968s.txt",
+      "sha256": "eee8a25e0a14d7d8e8b8c4ba581daa34c7c1a38eceff6d2c3ce0da53c9354846",
+      "bytes": 200263
+     },
+     {
+      "chunk": "part-003",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections/part-003.txt",
+      "chars": 199997,
+      "paragraphs": 8585,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisc15231968s.txt",
+      "sha256": "2290f738ec3e13eab229d9d0081368792d12ca214769a7c5497faaee5c3310bf",
+      "bytes": 200452
+     },
+     {
+      "chunk": "part-004",
+      "txt": "_unpublished/文库/Smithsonian-miscellaneous-collections/part-004.txt",
+      "chars": 158212,
+      "paragraphs": 5614,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\smithsonianmisc15231968s.txt",
+      "sha256": "a68a18f6f3853f62e6ab20c4dac86618bc7ffbbc17eb6577490eb1c7dade06c4",
+      "bytes": 158417
+     }
+    ]
+   },
+   "authors": [
+    "Smithsonian Institution"
+   ],
+   "year": 1862,
+   "lang": "en",
+   "url": "https://archive.org/details/smithsonianmisc15231968s",
+   "used_in": [],
+   "evidence": [],
+   "id": "S0734"
+  },
+  {
+   "title": "Termite fauna of southern India",
+   "source_type": "paper",
+   "reliability": "peer_reviewed",
+   "canonical_key": "url:https://archive.org/details/dli.zoological.occpapers.049",
+   "file_path": "_unpublished/文库/Termite-fauna-of-southern-India",
+   "chars": 384006,
+   "retrieved_via": "文库（text）",
+   "accessed": "2026-11-20T05:09:26+08:00",
+   "notes": "全文存于 _unpublished/文库/Termite-fauna-of-southern-India（384006 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "library": {
+    "book": "Termite-fauna-of-southern-India",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T05:09:26",
+    "chunks": [
+     {
+      "chunk": "part-001",
+      "txt": "_unpublished/文库/Termite-fauna-of-southern-India/part-001.txt",
+      "chars": 199981,
+      "paragraphs": 10606,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\dli.zoological.occpapers.049.txt",
+      "sha256": "4f9d5fabf3fe3977069526bcf97a35949f3dd94d483b2dc15c0b774cd431f17c",
+      "bytes": 202978
+     },
+     {
+      "chunk": "part-002",
+      "txt": "_unpublished/文库/Termite-fauna-of-southern-India/part-002.txt",
+      "chars": 184025,
+      "paragraphs": 8888,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\dli.zoological.occpapers.049.txt",
+      "sha256": "f49de3959669ac1a0255eca614d4a06e18e67ada1d65d153e10fb5e0db859a06",
+      "bytes": 186004
+     }
+    ]
+   },
+   "authors": [
+    "Bose, Geeta"
+   ],
+   "year": 1984,
+   "lang": "en",
+   "url": "https://archive.org/details/dli.zoological.occpapers.049",
+   "used_in": [],
+   "evidence": [],
+   "id": "S0735"
+  },
+  {
+   "title": "Bulletin of Entomological Research  1955-1956: Vol 46",
+   "source_type": "paper",
+   "reliability": "peer_reviewed",
+   "canonical_key": "url:https://archive.org/details/bulletin-of-entomological-research_1955-1956_46",
+   "file_path": "_unpublished/文库/Bulletin-of-Entomological-Research-1955-1956-Vol-46",
+   "chars": 2546727,
+   "retrieved_via": "文库（text）",
+   "accessed": "2026-11-20T05:09:26+08:00",
+   "notes": "全文存于 _unpublished/文库/Bulletin-of-Entomological-Research-1955-1956-Vol-46（2546727 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "library": {
+    "book": "Bulletin-of-Entomological-Research-1955-1956-Vol-46",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T05:09:26",
+    "chunks": [
+     {
+      "chunk": "part-001",
+      "txt": "_unpublished/文库/Bulletin-of-Entomological-Research-1955-1956-Vol-46/part-001.txt",
+      "chars": 199930,
+      "paragraphs": 4770,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-of-entomological-research_1955-1956_46.txt",
+      "sha256": "ee37ac30123d23ba743b8f4d3b634ea6f03f86e5e983aec194987c54301071f7",
+      "bytes": 201138
+     },
+     {
+      "chunk": "part-002",
+      "txt": "_unpublished/文库/Bulletin-of-Entomological-Research-1955-1956-Vol-46/part-002.txt",
+      "chars": 199939,
+      "paragraphs": 4660,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-of-entomological-research_1955-1956_46.txt",
+      "sha256": "6c7dc00c40362c50205d2359fffeffb5914f1751113859997fb12f320769cf20",
+      "bytes": 201082
+     },
+     {
+      "chunk": "part-003",
+      "txt": "_unpublished/文库/Bulletin-of-Entomological-Research-1955-1956-Vol-46/part-003.txt",
+      "chars": 199996,
+      "paragraphs": 5155,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-of-entomological-research_1955-1956_46.txt",
+      "sha256": "5a6dc38fa442fb99fd5aafc0e3e1c56fd27abcf0818b60dd7a6cd97e3ac07c2c",
+      "bytes": 201676
+     },
+     {
+      "chunk": "part-004",
+      "txt": "_unpublished/文库/Bulletin-of-Entomological-Research-1955-1956-Vol-46/part-004.txt",
+      "chars": 199971,
+      "paragraphs": 4719,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-of-entomological-research_1955-1956_46.txt",
+      "sha256": "dd11b87a80d2aeb386dd5c0bb467f1e6fa444ebf5db5ef991d6aa03e9de8f681",
+      "bytes": 201133
+     },
+     {
+      "chunk": "part-005",
+      "txt": "_unpublished/文库/Bulletin-of-Entomological-Research-1955-1956-Vol-46/part-005.txt",
+      "chars": 199996,
+      "paragraphs": 4936,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-of-entomological-research_1955-1956_46.txt",
+      "sha256": "8472d6073d4b0e8c019631bd4fcb29ba76de0db862d6b2410d9f25deddf899b1",
+      "bytes": 202359
+     },
+     {
+      "chunk": "part-006",
+      "txt": "_unpublished/文库/Bulletin-of-Entomological-Research-1955-1956-Vol-46/part-006.txt",
+      "chars": 199950,
+      "paragraphs": 5282,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-of-entomological-research_1955-1956_46.txt",
+      "sha256": "7a7298824bffe771fde5e54e88ccc0851b0526cf2102493af533ebb008b31d2b",
+      "bytes": 201068
+     },
+     {
+      "chunk": "part-007",
+      "txt": "_unpublished/文库/Bulletin-of-Entomological-Research-1955-1956-Vol-46/part-007.txt",
+      "chars": 199998,
+      "paragraphs": 6319,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-of-entomological-research_1955-1956_46.txt",
+      "sha256": "45e2e4a9976d643e11b69bd9748b36da504f135da5fc8332003c6071d34acc5b",
+      "bytes": 201746
+     },
+     {
+      "chunk": "part-008",
+      "txt": "_unpublished/文库/Bulletin-of-Entomological-Research-1955-1956-Vol-46/part-008.txt",
+      "chars": 199955,
+      "paragraphs": 5172,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-of-entomological-research_1955-1956_46.txt",
+      "sha256": "8feb43062b6caf477b5aedf5ee48b3a5f06d8c1001eb73b94d62721ac6e4a7af",
+      "bytes": 200811
+     },
+     {
+      "chunk": "part-009",
+      "txt": "_unpublished/文库/Bulletin-of-Entomological-Research-1955-1956-Vol-46/part-009.txt",
+      "chars": 199999,
+      "paragraphs": 5621,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-of-entomological-research_1955-1956_46.txt",
+      "sha256": "908cee8ed3bef66009cdd0317490643cf0205022b48213e55f9ab7cc08537164",
+      "bytes": 201657
+     },
+     {
+      "chunk": "part-010",
+      "txt": "_unpublished/文库/Bulletin-of-Entomological-Research-1955-1956-Vol-46/part-010.txt",
+      "chars": 199955,
+      "paragraphs": 5272,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-of-entomological-research_1955-1956_46.txt",
+      "sha256": "44aabee98287eee4d64c2df0ba1eecf346a23f4afa1dc254f6cd671a86c4a40f",
+      "bytes": 200966
+     },
+     {
+      "chunk": "part-011",
+      "txt": "_unpublished/文库/Bulletin-of-Entomological-Research-1955-1956-Vol-46/part-011.txt",
+      "chars": 199929,
+      "paragraphs": 4948,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-of-entomological-research_1955-1956_46.txt",
+      "sha256": "43d39ceb70511f02fa358349d00edd1a827c5531f2f11a000334c23afe1f7ab7",
+      "bytes": 201208
+     },
+     {
+      "chunk": "part-012",
+      "txt": "_unpublished/文库/Bulletin-of-Entomological-Research-1955-1956-Vol-46/part-012.txt",
+      "chars": 199930,
+      "paragraphs": 5150,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-of-entomological-research_1955-1956_46.txt",
+      "sha256": "15ac8b34ab0bd32b0f05eb3243dc774549de531451b3d8064e2df55e06d7ff92",
+      "bytes": 201628
+     },
+     {
+      "chunk": "part-013",
+      "txt": "_unpublished/文库/Bulletin-of-Entomological-Research-1955-1956-Vol-46/part-013.txt",
+      "chars": 147179,
+      "paragraphs": 7150,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\bulletin-of-entomological-research_1955-1956_46.txt",
+      "sha256": "913198c5931cb2749f740a047401bdeb4ffbf31b6203b9fbbbb9445e63f1d2c1",
+      "bytes": 147936
+     }
+    ]
+   },
+   "year": 1955,
+   "lang": "en",
+   "url": "https://archive.org/details/bulletin-of-entomological-research_1955-1956_46",
+   "used_in": [],
+   "evidence": [],
+   "id": "S0736"
+  },
+  {
+   "title": "Nasutitermes aurantius (Isoptera, Termitidae, Nasutitermitinae), a new nasutiform termite species from Panama and a key to soldiers of Central American Nasutitermes Dudley, 1890",
+   "source_type": "paper",
+   "reliability": "peer_reviewed",
+   "canonical_key": "url:https://archive.org/details/nasutitermesaur1256sche",
+   "file_path": "_unpublished/文库/Nasutitermes-aurantius-(Isoptera,-Termitidae,-Nasutitermitinae),-a-new-nasutifor",
+   "chars": 39303,
+   "retrieved_via": "文库（text）",
+   "accessed": "2026-11-20T05:09:26+08:00",
+   "notes": "全文存于 _unpublished/文库/Nasutitermes-aurantius-(Isoptera,-Termitidae,-Nasutitermitinae),-a-new-nasutifor（39303 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+   "library": {
+    "book": "Nasutitermes-aurantius-(Isoptera,-Termitidae,-Nasutitermitinae),-a-new-nasutifor",
+    "manifest": "_unpublished/文库/manifest.json",
+    "generated": "2026-11-20T05:09:26",
+    "chunks": [
+     {
+      "chunk": "full",
+      "txt": "_unpublished/文库/Nasutitermes-aurantius-(Isoptera,-Termitidae,-Nasutitermitinae),-a-new-nasutifor/full.txt",
+      "chars": 39303,
+      "paragraphs": 1241,
+      "table_rows": 0,
+      "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\ia_bulk\\nasutitermesaur1256sche.txt",
+      "sha256": "7b3790f43ecb86067f90ac0b53b6203103c00c342c61f2fc257e5782f681fc94",
+      "bytes": 39386
+     }
+    ]
+   },
+   "authors": [
+    "Scheffrahn, Rudolf H.",
+    "Wang, Menglin",
+    "Bourguignon, Thomas",
+    "Rocha, Mauricio M.",
+    "Cancello, Eliana M.",
+    "Roisin, Yves",
+    "Hellemans, Simon"
+   ],
+   "year": 2025,
+   "lang": "en",
+   "url": "https://archive.org/details/nasutitermesaur1256sche",
+   "used_in": [],
+   "evidence": [],
+   "id": "S0737"
   }
  ]
 }

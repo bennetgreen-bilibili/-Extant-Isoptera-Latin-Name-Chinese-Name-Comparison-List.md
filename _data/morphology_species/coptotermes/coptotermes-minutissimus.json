@@ -1,0 +1,25 @@
+{
+ "zh_name": "最小乳白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "本种迄今仅知兵蚁；其前胸背板略呈鞍形（saddle-shaped），此特征使其区别于巴布亚区（Papuan region）所有其他乳白蚁属（Coptotermes）种类。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头淡黄褐色，上颚外缘褐色；体白色；头疏具毛；各腹背板后缘具一行长刚毛，其余毛不规则。头平坦而拱起，中部最宽，向前收窄。后颏收窄不强烈，前部小而宽。囟（fontanelle）管状，较小，其开口外缘不外突。上唇端部明亮渐尖。触角 13 节，第 2 节长于第 3 节，第 3 节短于第 4 节。前胸背板长大于宽之半，弱鞍形，边缘拱起并具一浅中缺。"
+  },
+  {
+   "label": "其他",
+   "text": "量度（兵蚁，mm）：头长（含上颚）1.80—1.85；头长（不含上颚）1.13—1.22；头宽 0.99—1.02；前胸背板宽 0.59—0.63；前胸背板长 0.31—0.35。模式标本已不可查（原文 Types: Not traceable）。"
+  }
+ ],
+ "note": "据《Memoirs of the Zoological Survey of India》Coptotermes 属条目中「42. Coptotermes minutissimus Kemner」改写，原文英文。原文明确说明：无标材可供研究，描述与量度均据 Kemner (1934) 的原始描述转述。原文有翅成虫记作 Unknown。",
+ "sources": [
+  {
+   "id": "S0720",
+   "citation": "Memoirs of the Zoological Survey of India（乳白蚁属 Coptotermes 条目，据 Kemner 1934 描述）",
+   "locator": "条目"
+  }
+ ]
+}

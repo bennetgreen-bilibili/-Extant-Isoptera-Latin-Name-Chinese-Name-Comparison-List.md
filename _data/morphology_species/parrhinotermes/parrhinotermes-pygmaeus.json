@@ -1,0 +1,21 @@
+{
+ "zh_name": "侏儒棒鼻白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "体中偏小：有翅成虫（据新生王后）体长 8.00 mm，头宽 1.03 mm，前胸背板宽 0.87 mm；触角 17 节，第 3 节短于第 4 节；单眼缺。兵蚁原文记「Not studied」。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头褐黄，胸淡黄，翅芽黄，腹部背板淡褐并两侧各具一白斑。头、胸、腹被毛较密。头向前收狭，缝不明显。复眼中等。单眼缺。囟较明显。触角 17 节，第 3 节短于第 4 节。上颚属 Parrhinotermes 型。前胸背板窄于头，宽为长的两倍。量度（mm）：体长 8.00；头宽 1.03；前胸背板宽 0.87。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0720",
+   "citation": "Maiti, Memoirs of the Zoological Survey of India: A taxonomic monograph on the world species of termites",
+   "locator": "条目"
+  }
+ ],
+ "note": "据 Maiti（Memoirs of the Zoological Survey of India）种级描述改写，原文英文；有翅成虫一节原文注明「Based on John, 1925, Neotenic Queen」，即据新生王后描述；兵蚁原文记「Not studied」，故无兵蚁节；量度仅体长、头宽、前胸背板宽三项。"
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the Allotermes section of Krishna (1961), a revision of the genera of the family Kalotermitidae, the original in English; that section then had this species as its type species and as the only species known in the genus (two unnamed new species from Madagascar are listed separately), so the Imago and Soldier sections are the description of this species; the original has a genus-level tone (e.g. in some species pigmented). The only measurements are the eye diameter and the tibial spur formula 3:3:3; the number of antennal segments is recorded in the original as unknown; the soldier prose contains two further numerals, antennae 10—12-segmented and the tibial spur formula. The synonymy, type locality, distribution and figure numbers are not translated.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Compared with the genus Incisitermes: the alate wing venation is similar, but the arolium is consistently absent and the posterior margin of the fused first and second marginal teeth of the left mandible is much smaller than the third marginal tooth; the soldier has weak horn-like processes below and in front of the antennal fossae, the head is not dorsoventrally flattened, the mandibles are slender and long, and the femora are not swollen."
+  },
+  {
+   "label": "Alate",
+   "text": "Compound eye diameter 0.35—0.36 mm. Ocellus touching the compound eye. Number of antennal segments unknown. Mandibles as in the genus Cryptotermes: the base of the fused first and second marginal teeth of the left mandible is much smaller than the third marginal tooth; the posterior margin of that fused part is about half the length of the anterior margin of the third marginal tooth (Fig. 50). In the right mandible the posterior margin of the second marginal tooth is longer than the molar plate (Fig. 50). Pronotum slightly narrower than the head, or as wide as the head. The media of the nymphal wing bud is weak, running between the radial sector and the cubitus as far as the wing apex. Tibial spur formula 3:3:3. Arolium absent."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head long and narrow; sides parallel, the anterior part sloping at an angle of about 45 degrees; no ridge between the frons and the vertex; the genae are prolonged ventrally, forming weak horn-like processes below and in front of the antennal fossae. Compound eyes distinct, in some species pigmented. Antennae 10—12-segmented, segment 3 darker, more heavily sclerotised, long and club-shaped. Mandibles long, with a prominent basal swelling; teeth reduced. Pronotum as wide as the head; anterior margin wide and deeply concave; sides evenly rounded. Femora not swollen. Tibial spur formula 3:3:3."
+  }
+ ]
+}

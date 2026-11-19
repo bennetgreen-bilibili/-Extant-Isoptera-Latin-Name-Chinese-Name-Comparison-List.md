@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from the German species-level description in Holmgren's Termitenstudien (Kungl. Svenska Vetenskapsakademiens Handlingar 50); the species was originally recorded as Haviland 1898. All four castes, alate, queen, soldier and worker, are described. The measurement block is badly damaged by OCR (antennal segment counts and head widths come out as strings of garbled characters), so only the values that could be confirmed are given; the geographical distribution is omitted.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head yellow to brownish yellow, mandibles brown towards the apex, body white-yellow. Head with sparse setae; abdominal tergites with only a single row of posterior marginal setae. Head oval, slightly narrowed anteriorly; fontanelle behind the middle of the head; postclypeus relatively short and flat; labrum triangular, pointed at the apex; mandibles shorter than the rest of the head length, sickle-shaped, relatively narrow, with the dentition typical of the genus at the base; antennae 14-segmented, fairly long, segment 3 longer than segment 2, segment 4 shorter than segment 2; submentum raised in the middle. The anterior lobe of the pronotum is large, erect and triangular, slightly notched in the middle. Measurements: body length 5.5 mm, head length 1.22 mm, pronotal width 0.65 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Head white-yellow, with a few setae; abdominal tergites sparsely covered with setae. Head rounded-pentagonal; fontanelle slightly posterior; postclypeus almost as long as half its width, strongly raised; antennae 14-segmented, segment 2 as long as segment 3, segment 4 slightly shorter. Pronotum strongly saddle-shaped, the anterior margin with a very shallow notch. Measurements: pronotal width 0.61 mm."
+  },
+  {
+   "label": "Alate",
+   "text": "Head chestnut brown, postclypeus and antennae yellow; pronotum and abdominal tergites lighter brown; meso- and metanota together with the underside and legs rusty yellow; wings grey; pilosity dense, the wings (according to Haviland) hairy. Head slightly elongate-oval, narrowed anteriorly; compound eyes large and flat; ocelli relatively small, their distance to the compound eye less than the short diameter of the ocellus; fontanelle depressed, situated slightly behind the middle of the head; postclypeus very short, its posterior margin very weakly convex, the anterior margin straight or even slightly concave, flat. The anterior margin of the pronotum has an indistinct notch, the posterior margin is weakly concave; the mesonotal notch is deeper than that of the metanotum; the media is single or branched, the cubitus with about 8 branches. Measurements: body length with wings 10 mm, without wings 5.5 mm, forewing 8.5 mm, head width 0.95 mm, pronotal width 0.91 mm and length 0.46 mm."
+  },
+  {
+   "label": "Other",
+   "text": "The queen has no pigment on the sides of the body and bears sparse exudate hairs and very fine longitudinal wrinkles; body length 14—18 mm, abdomen width 4 mm."
+  }
+ ]
+}

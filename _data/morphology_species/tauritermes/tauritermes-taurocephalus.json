@@ -1,0 +1,21 @@
+{
+ "zh_name": "牛头牛白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "（图 56）头为堵塞型（phragmotic）；前部深色并具刻纹；额面轮廓陡；额具 2 个发达突起，两突起之间宽凹；触角窝前上方与下方均无角状突；触角脊略隆起而圆；额与头顶之间有一条极模糊的脊，不若 Procryptotermes 属那样锐利。复眼明显、无色素。触角 10—11 节；第 3 节较第 2 节宽且长。上颚细长，基部隆起显著。前胸背板与头等宽；前缘隆起并覆盖头后部，深凹、波状、具锯齿。腿节不膨大。胫节距 3:3:3。"
+  },
+  {
+   "label": "若虫",
+   "text": "上颚与 Cryptotermes 属相同：左上颚基部第一加第二缘齿小于第三缘齿（图 57）；右上颚第二缘齿后缘明显长于磨板（图 57）。前翅芽的中脉弱、未硬化，行于径分脉与肘脉之间直至翅端。"
+  }
+ ],
+ "note": "据 Krishna 1961《A generic revision and phylogenetic study of the family Kalotermitidae》（Bulletin of the American Museum of Natural History 122: 307—408）改写，原文英文；有翅成虫原文记作 Unknown。该描述置于新属 Tauritermes 属征条目下，但附图 56 标明为 T. taurocephalus（Silvestri）兵蚁（巴西 Mato Grosso, Corumba 副模），实为该种兵蚁描述。",
+ "sources": [
+  {
+   "id": "S0728",
+   "citation": "Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae. Bulletin of the American Museum of Natural History 122: 307–408（bulletin-american-museum-natural-history-122-307-408）",
+   "locator": "条目"
+  }
+ ]
+}

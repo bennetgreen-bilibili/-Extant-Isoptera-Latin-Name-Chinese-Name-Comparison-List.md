@@ -1,0 +1,21 @@
+{
+ "note": "Adaptada de la descripción alemana a nivel de especie de Holmgren, Termitenstudien (Kungl. Svenska Vetenskapsakademiens Handlingar 50); la especie fue registrada originalmente como Haviland 1898. Se describen las cuatro castas: alado, reina, soldado y obrero. El bloque de medidas está muy deteriorado por el OCR (el número de artejos antenales y las anchuras cefálicas aparecen como series de caracteres ilegibles), por lo que solo se recogen los valores confirmables; la distribución geográfica se omite.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Cabeza amarilla a amarillo pardusco, mandíbulas pardas hacia el ápice, cuerpo blanco amarillento. Cabeza con setas dispersas; los terguitos abdominales presentan solo una hilera de setas en el margen posterior. Cabeza ovalada, ligeramente estrechada hacia delante; fontanela detrás de la mitad de la cabeza; posclípeo relativamente corto y plano; labro triangular, puntiagudo en el extremo; mandíbulas más cortas que el resto de la longitud cefálica, falciformes, relativamente estrechas, con la dentición típica del género en la base; antenas de 14 artejos, bastante largas, el artejo 3 más largo que el 2 y el 4 más corto que el 2; posmentón elevado en el centro. El lóbulo anterior del pronoto es grande, erecto y triangular, ligeramente escotado en el centro. Medidas: longitud del cuerpo 5,5 mm, longitud de la cabeza 1,22 mm, anchura del pronoto 0,65 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza blanco amarillenta, con varias setas; terguitos abdominales con setas dispersas. Cabeza de contorno pentagonal redondeado; fontanela ligeramente posterior; posclípeo casi tan largo como la mitad de su anchura, muy elevado; antenas de 14 artejos, el artejo 2 tan largo como el 3 y el 4 algo más corto. Pronoto muy marcado en silla de montar, con una escotadura muy poco profunda en el borde anterior. Medidas: anchura del pronoto 0,61 mm."
+  },
+  {
+   "label": "Alado",
+   "text": "Cabeza pardo castaña, posclípeo y antenas amarillos; pronoto y terguitos abdominales de un pardo más claro; mesonoto y metanoto, junto con la cara ventral y las patas, de color amarillo herrumbroso; alas grises; pilosidad densa, las alas (según Haviland) pilosas. Cabeza algo ovalada alargada, estrechada hacia delante; ojos compuestos grandes y planos; ocelos relativamente pequeños, con una distancia al ojo compuesto menor que su diámetro corto; fontanela deprimida, situada algo por detrás de la mitad de la cabeza; posclípeo muy corto, con el borde posterior muy débilmente convexo y el anterior recto o incluso ligeramente cóncavo, plano. El borde anterior del pronoto presenta una escotadura poco marcada y el posterior es débilmente cóncavo; la escotadura del mesonoto es más profunda que la del metanoto; la media es simple o ramificada y la cubital tiene unas 8 ramas. Medidas: longitud del cuerpo con alas 10 mm, sin alas 5,5 mm, ala anterior 8,5 mm, anchura de la cabeza 0,95 mm, anchura del pronoto 0,91 mm y longitud 0,46 mm."
+  },
+  {
+   "label": "Otros",
+   "text": "La reina carece de pigmento en los lados del cuerpo y presenta pelos exudatorios dispersos y arrugas longitudinales muy finas; longitud del cuerpo 14—18 mm, anchura del abdomen 4 mm."
+  }
+ ]
+}

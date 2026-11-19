@@ -1,0 +1,13 @@
+{
+ "note": "Reescrito a partir de la descripción específica de Ahmad 1958 (Biologia vol. 4, Indomalayan termites); el original está en inglés; tres secciones, alado, soldado mayor y soldado menor; el obrero no se registra en el original. El original da las medidas como dos series paralelas, '(intervalo) valor', que se transcriben tal como figuran, sin fusionarlas. Problemas de OCR: los paréntesis y guiones aparecen ocasionalmente defectuosos; la unidad mm se omite en el original y se ha añadido aquí.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Cabeza ovalada; ocelos muy próximos a los ojos compuestos; margen anterior del pronoto recto, ángulos anterolaterales ampliamente redondeados (Haviland, en Holmgren 1913). El original no registra medidas."
+  },
+  {
+   "label": "Soldado",
+   "text": "Soldado mayor: cabeza pardo oscuro, sin pelos, ampliamente triangular, claramente más ancha que larga (sin el nasus); nasus pequeño, cónico. Antenas de 14 artejos, artejo 3 más de tres veces más largo que el 2 y dos veces y media el 4; márgenes anterior y posterior del pronoto no cóncavos. Longitud de la cabeza con nasus (2.08—2.10) 2.38 mm, longitud de la cabeza sin nasus 1.25 mm, anchura de la cabeza (1.58—1.63) 1.76 mm; longitud del nasus 0.67—0.72 mm; longitud del pronoto 0.36—0.39 mm, anchura (0.65—0.67) 0.72 mm (según Holmgren 1913).\nSoldado menor: longitud de la cabeza con nasus (1.53—1.63) 1.75 mm, longitud de la cabeza sin nasus (0.67)—0.87 mm, anchura de la cabeza (0.75—0.80) 0.87 mm; longitud del pronoto 0.23—0.26 mm, anchura (0.41—0.46) 0.49 mm (según Holmgren 1913)."
+  }
+ ]
+}

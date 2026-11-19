@@ -1,0 +1,17 @@
+{
+ "zh_name": "异唇锐尖白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁（据采自达荷美 Segboroué 的一副模兵蚁与 Mucrotermes osborni 比较）：体型较小，头宽 1.10 mm；后颏后部的隆起更为显著；上唇前缘的凹陷更深；上唇两侧的尖角更锐利，尖角之后的侧缘凹陷也更深；各上颚的肘部距基部相对更远；前胸背板前缘的凹陷较浅。其兵蚁上颚（尤其是基部）、头部的一般形状、每个触角基后方的小隆起、头顶的倾斜度、额腺开口的位置与毛被、下颚须的比例，都指示它与 M. osborni 近缘；工蚁上颚也与 M. osborni 接近，只是各上颚的端齿比例略大。该种原被归入 Procubitermes 属。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0100",
+   "citation": "Emerson 1960, American Museum Novitates No. 1988 (New Termitinae)",
+   "locator": "条目"
+  }
+ ],
+ "note": "据 Emerson 1960 种级描述改写，原文英文；素材包中该种部分只有 Comparisons 段（此段之前无 Imago/Soldier 小标题，之前的正文未收入包），故只列「鉴别要点」一节，不加品级小节。模式产地为比属刚果 Epulu 河 Camp Putnam 以北 4 公里俾格米营地，正模与副模共 6 兵蚁、1 工蚁；另有 Yangambi 副模群体 5 兵蚁、2 工蚁。head width 1.10 mm 逐字保留。"
+}

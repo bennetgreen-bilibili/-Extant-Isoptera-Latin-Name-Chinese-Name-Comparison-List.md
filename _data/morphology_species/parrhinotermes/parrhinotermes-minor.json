@@ -1,0 +1,21 @@
+{
+ "zh_name": "小棒鼻白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 P. aequalis 极近，区别在体型较小、兵蚁触角第 2 节较长。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头与上唇黄褐至褐，体其余部分较淡。头与腹密被毛，前胸背板疏被毛。头卵形，前侧缘不甚收窄；两侧外弯，后缘中部前突，两侧各具弱凹缺。囟点同属内他种。上唇略呈长方形，端缘半透明而凸，具微毛，其下有几根刚毛。触角 13 节，第 3 节短于第 2 节并与第 4 节近等长。上颚几在中部强弯，末端为内弯的尖，内缘外弯。左上颚具 2 枚不等大的缘齿，右上颚具 1 枚宽基缘齿。后颏前部明显双叶状，最大宽几为腰部宽的两倍；体通体密被毛。前胸背板远窄于头，前缘中部前突，后缘弱凹缺。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0720",
+   "citation": "Maiti, Memoirs of the Zoological Survey of India: A taxonomic monograph on the world species of Termites",
+   "locator": "条目"
+  }
+ ],
+ "note": "据 Maiti（Memoirs of the Zoological Survey of India，世界白蚁属级专著）种级描述改写，原文英文，原始描述见 Thapa 1981/1982；原文 IMAGO: Unknown，仅兵蚁有描述。兵蚁量度原文标注为 Table 51，该表未在所给素材节选中，故未录数字。OCR 问题：「evoid」读作 ovoid（卵形），「Fontanlle」读作 fontanelle。"
+}

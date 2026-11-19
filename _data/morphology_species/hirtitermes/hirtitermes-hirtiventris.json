@@ -1,0 +1,17 @@
+{
+ "zh_name": "毛腹多毛白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "头近圆形；额突（nasus，原文 frontal projection）无毛、无刚毛，nasus 甚长，背面轮廓略下凹。触角 13 节，第 3 节长为第 2 节的两倍。上颚基部具 2 枚小齿。头长（含 nasus）2.62、头长（不含 nasus）1.71、头宽 1.22—1.29；前胸背板宽 0.61—0.65。"
+  }
+ ],
+ "note": "据 Ahmad 1958（Indomalayan Termites, Biologia 4）转引 Holmgren 1913 的兵蚁描述改写，原文英文。OCR 问题：原文「head almost round without nasus (frontal projection), without hairs or bristles, nasus very long」自相矛盾（既称无 nasus 又称 nasus 甚长），疑「without hairs」一类字样串行；此处按「头近圆形；额突无毛」处理，原句原样存入 evidence。仅兵蚁一个品级。",
+ "sources": [
+  {
+   "id": "S0727",
+   "citation": "Ahmad 1958, Indomalayan Termites（Biologia, Lahore, 4）",
+   "locator": "条目"
+  }
+ ]
+}

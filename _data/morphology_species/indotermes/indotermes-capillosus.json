@@ -1,0 +1,25 @@
+{
+ "zh_name": "多毛印白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫头深黑褐色（原文 fuscous），近后头处略浅；后唇基与前胸背板深栗褐色；上唇、触角与足深麦秆色。头与体密被毛。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头近圆形；头壳中部有一大型近三角形中背斑；Y 形缝不可见。单眼大，卵形。触角 15 节，第 3 节最短。后唇基中度隆起，密被短毛，其间杂有数根长毛。上唇近圆形。左上颚具 1 枚端齿与 2 枚缘齿；右上颚具 1 枚端齿、2 枚缘齿及一磨板。前胸背板平坦，近梯形。前翅翅鳞大，径脉短，独立起于翅鳞；后翅与前翅近同。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头壳淡栗褐色，背面具浅色纵纹；腹部背板略浅于头。头密被微小毛，其间杂有数根长毛；体被长毛较多。（原文描述在此处中断，其后为图 31 图注与两种对比量度表。）"
+  }
+ ],
+ "note": "据《Memoirs of the Zoological Survey of India》所载 Mukherjee et al.《Termite (Isoptera) fauna of the Himalaya including its zoogeographical analysis》种级描述改写，原文英文。素材包在此种描述中途被截断：兵蚁仅存开头（体色、毛被），此后为 fig. 31 图注与表 23/24 量度对比表；表 24（兵蚁量度）按 I. capillosus 与 I. rongrensis 双种多列排版，列归属 OCR 不可靠，故未转录量度，待核。",
+ "sources": [
+  {
+   "id": "S0670",
+   "citation": "Mukherjee et al., Termite (Isoptera) fauna of the Himalaya including its zoogeographical analysis（Memoirs of the Zoological Survey of India）",
+   "locator": "条目"
+  }
+ ]
+}

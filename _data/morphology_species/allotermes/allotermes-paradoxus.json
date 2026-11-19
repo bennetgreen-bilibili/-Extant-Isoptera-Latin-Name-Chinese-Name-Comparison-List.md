@@ -1,0 +1,25 @@
+{
+ "zh_name": "奇异奇白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 Incisitermes 属相比：有翅成虫翅脉相似，但跗爪间突（arolium）恒缺，左上颚第一与第二缘齿合并部的后缘远小于第三缘齿；兵蚁于触角窝下方及前方有微弱的角状突，头不背腹扁平，上颚细长，股节不膨大。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "复眼直径 0.35—0.36 毫米。单眼与复眼相接。触角节数不明。上颚同 Cryptotermes 属：左上颚第一与第二缘齿合并部的基部远小于第三缘齿；该合并部后缘长度约为第三缘齿前缘之半（图 50）。右上颚第二缘齿后缘较磨板（molar plate）长（图 50）。前胸背板稍窄于头，或与头等宽。若虫翅芽的中脉弱，行于径分脉与肘脉之间直至翅端。胫节距 3:3:3。跗爪间突缺。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头长而狭；两侧平行，前部以约 45 度角倾斜；额与头顶之间无脊；腹面颊部（genae）延长，在触角窝下方及前方形成微弱的角状突。复眼清楚，某些种具色素。触角 10—12 节，第 3 节色较深、硬化较重、长且呈棒状。上颚长，具显著的基部隆起；齿退化。前胸背板与头等宽；前缘宽而深凹；两侧均匀圆弧。股节不膨大。胫节距 3:3:3。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0728",
+   "citation": "Krishna K. 1961. A generic revision and phylogenetic study of the family Kalotermitidae (Isoptera). Bulletin of the American Museum of Natural History 122: 307—408. https://archive.org/details/bulletin-american-museum-natural-history-122-307-408",
+   "locator": "条目"
+  }
+ ],
+ "note": "据 Krishna (1961) 卡白蚁科属订正一文中 Allotermes 属一节改写，原文英文；该节当时以本种为模式种且属内仅本种已知（另列马达加斯加两个未命名新种），Imago 与 Soldier 两节即本种之记述，原文带属级口吻（如 in some species pigmented）。量度仅复眼直径与胫节距 3:3:3，触角节数原文记不明；兵蚁散文含触角 10—12 节、胫节距两处数值。异名、模式产地、分布与图号未译。"
+}

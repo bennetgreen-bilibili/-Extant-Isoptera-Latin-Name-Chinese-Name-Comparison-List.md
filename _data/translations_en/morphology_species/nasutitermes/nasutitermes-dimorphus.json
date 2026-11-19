@@ -1,0 +1,13 @@
+{
+ "note": "Adapted from the species-level account in Ahmad (1965) Termites of Thailand, originally in English; this material package contains only the comparative sentence, the caption of fig. 81, the type locality, and the soldier measurements of tables 31 and 32. The descriptive prose on the soldier and worker lies on the pages before the package and is not included, so only the diagnostic characters and the measurements of the dimorphic soldiers are compiled; the worker is not treated (the caption records only one figure of the worker mandible, without text). The OCR inserted a figure caption at the phrase N. cherraensis, and the excerpt is kept as it stands. Synonyms, literature citations, distribution and figure numbers are not translated.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Compared with other species of Nasutitermes with dimorphic soldiers in the Indo-Malayan region, the body size is distinctly smaller; N. bulbiceps and N. longinasus are much larger, with a relatively longer nasus; the other species with dimorphic soldiers, N. cherraensis (Roonwal and Chhotani), is also larger and has a different head shape."
+  },
+  {
+   "label": "Soldier",
+   "text": "Major soldier (holotype and paratypes, 10 individuals; each measurement is given as: value (range, mean), in millimetres): head length with nasus 1.53 (1.53—1.58, mean 1.54); head length (without nasus) 1.01 (0.96—1.04, mean 1.00); head width 0.91 (0.91—0.96, mean 0.93); head height 0.70 (0.65—0.72, mean 0.67); pronotal length 0.15 (0.15—0.18, mean 0.15); pronotal width 0.41 (0.39—0.44, mean 0.41).\nMinor soldier (morphotype and paratypes, 10 individuals; likewise value (range, mean), in millimetres): head length with nasus 1.06 (1.01—1.11, mean 1.06); head length (without nasus) 0.65 (0.63—0.67, mean 0.65); head width 0.52 (0.52—0.57, mean 0.53); head height 0.36 (0.36—0.41, mean 0.39); pronotal length 0.13 (0.10—0.13, mean 0.10); pronotal width 0.31 (0.28—0.31, mean 0.29).\nThe soldiers are dimorphic, major and minor; the type locality is Kan Tang, and the holotype and paratypes of the major soldier, the morphotype and paratypes of the minor soldier, and the workers were all collected on 8-3-1962 by M. Ahmad from a Hypotermes nest."
+  }
+ ]
+}

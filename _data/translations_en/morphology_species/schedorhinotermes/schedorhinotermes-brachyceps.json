@@ -1,0 +1,13 @@
+{
+ "note": "Adapted from the species-level description in Maiti (Memoirs of the Zoological Survey of India, monograph on the world genera of termites); the original is in English. As no specimens were available, both the diagnostic characters and the measurements are taken from Kemner 1931; the original gives IMAGO: Unknown, and only the two soldier forms. The measurements in the original are a two-column table (S. maj. / S. min.) and are given here side by side as major/minor.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Major soldier: head yellow to yellowish brown, hairless, about as long as the basal width or slightly wider than long. Fontanelle spot prominent, circular, with a fontanellar groove running forward to the tip of the labium. Labrum broad at the base, narrowing to a bilobed apex, with microscopic hairs and a few erect hairs below the margin. Mandibles short and stout, the left mandible with 2 blunt teeth, the right mandible with 1 slightly pointed tooth. Antennae 16-segmented, segment 3 slightly longer than segment 2, segment 4 shorter. Pronotum narrower than the head, anterior margin convex, posterior margin notched in the middle.\nMinor soldier: head yellow, mandibles darker; head slightly longer than wide; mandibles slender, the apical tooth pointed. Antennae 15-segmented, segment 2 longer than segment 3; otherwise similar to the major soldier but smaller."
+  },
+  {
+   "label": "Other",
+   "text": "Measurements (after Kemner 1931; major soldier/minor soldier): body length 4.80—5.00/3.50—3.65 mm; head length with mandibles 2.10—2.12/1.31—1.34 mm; head length without mandibles 1.31—1.34/0.77—0.81 mm; head width 1.34—1.38/0.70 mm; pronotum width 0.74/0.48 mm; pronotum length 0.42/0.38 mm."
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "zh_name": "锡纳邦乳白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫未知。兵蚁头宽梨形，最大宽几为前端宽的一倍半；囟较大；触角 15 节，第 3 节最窄，短于第 2 节、长于第 4 节；后颏瓶状，最窄宽几为最大宽之半。原文指出其兵蚁形态接近 C. lacteus，但头背无波状起伏。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头草黄，疏被毛，其余体部更淡。头宽梨形，最大宽几为前端宽的一倍半。囟较大，后部弱消失，几乎触及后唇基。触角 15 节，第 3 节最窄，短于第 2 节、长于第 4 节。上唇长圆顶状，端部透明、略尖，端部内弯；透明部分起始处具两对毛。后颏瓶状，最窄宽几为最大宽之半，位于后三分之一处。前胸背板远窄于头、被毛较密，具宽中凹，两侧外弯，前缘有 4—5 根立毛，后缘具浅中凹。（量度见原文表 21）"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0720",
+   "citation": "Maiti, Memoirs of the Zoological Survey of India: A taxonomic monograph on the world species of termites",
+   "locator": "条目"
+  }
+ ],
+ "note": "据 Maiti（Memoirs of the Zoological Survey of India）种级描述改写，原文英文；有翅成虫原文记「Unknown」，故只有兵蚁节；兵蚁量度在原文表 21，正文未列数字。"
+}

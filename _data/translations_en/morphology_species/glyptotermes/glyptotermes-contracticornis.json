@@ -1,0 +1,13 @@
+{
+ "note": "Rewritten from the species-level description in Krishna & Emerson 1962; the original is in English; this package contains only the alate description of the species and table 23; the soldier is not in the package (the original notes that Snyder 1925 named the species on the soldier alone); in table 23 the rows for head length (to the labral apex, to the mandible base) and head width have disordered OCR digit strings (fragments such as .58-1.88 remain) and are not included; the pronotum width row reads '1, 28-1.48' in the OCR, presumably 1.28—1.48, and was not included because the punctuation is doubtful.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Compared with Glyptotermes longipennis the wings are shorter and narrower, the pronotum wider and its posterolateral angles rounded (comparative sentence of the original). Ocelli touching the compound eyes; antennae 14—15-segmented, segment 2 longer than segment 3 or 4, segment 3 longer than segment 4."
+  },
+  {
+   "label": "Alate",
+   "text": "Head reddish brown, frons paler; pronotum yellowish brown; labrum brown; antennae and legs pale yellow; wing scales reddish brown; wing membrane semi-transparent, with a pale yellow tinge. Head moderately covered with long and short setae; pronotum with long and short setae on the margins and on the disc. Postocular head margin semicircular. Compound eyes large and swollen. Ocelli oblique, touching the compound eyes. Antennae 14—15-segmented; segment 2 longer than segment 3 or 4, segment 3 longer than segment 4. Pronotum slightly narrower than the head; anterior margin broadly concave; sides rounded; posterior margin slightly concave. In the hindwing the media arises from the radial sector about 1.13 mm outside the wing scale. Measurements (mm, table 23 of the original): compound eye diameter 0.39—0.44; compound eye to lower margin 0.18—0.19; ocellus length 0.15—0.18 (mean 0.17); pronotum median length 0.70—0.83; hind tibia length 1.35—1.50; forewing length from the suture 10.53—11.45; forewing width 2.83—2.97."
+  }
+ ]
+}

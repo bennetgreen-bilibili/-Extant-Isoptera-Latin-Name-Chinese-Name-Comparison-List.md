@@ -1,0 +1,21 @@
+{
+ "zh_name": "锡金土白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 O. boveni 极近，可依兵蚁头较窄区分（原文 Remarks）。有翅成虫未知。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头、触角黄至黄褐，色泽均匀；前胸背板与体草黄，远淡于头。头宽卵形，最宽处在后三分之一。囟点不显。触角 15—16 节，第 2 节约为第 3 节的一倍半长；第 3 节最短。上唇舌形，具毛。上颚镰刀形，短，长略逾头长之半，先端弱内弯；左上颚具一显著锐齿，位于端部三分之一的上缘附近。后颏近长方形，两侧明显拱起，于前四分之一处骤收；前缘近直，后缘弱凹。前胸背板鞍形，明显窄于头宽；前缘中部弱而明显具缺刻；后缘中部宽凹。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0670",
+   "citation": "Mukherjee et al., Memoirs of the Zoological Survey of India: Termite (Isoptera) fauna of the Himalaya",
+   "locator": "条目"
+  }
+ ],
+ "note": "据 Mukherjee et al.（Memoirs of the Zoological Survey of India，喜马拉雅等翅目区系）种级描述改写，原文英文，原始描述见 Thakur & Rathore 1986；原文 Imago: Unknown，仅兵蚁有描述。表 54 给出兵蚁量度，但 OCR 断行后三列物种（O. prolatigula / O. redemanni / O. sikkimensis）的数值交错、部分格缺失，无法可靠归属，故不转录数字。"
+}

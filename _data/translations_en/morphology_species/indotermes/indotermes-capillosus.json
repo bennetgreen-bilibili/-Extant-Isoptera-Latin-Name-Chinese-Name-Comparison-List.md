@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the species-level description in Mukherjee et al., 'Termite (Isoptera) fauna of the Himalaya including its zoogeographical analysis' (Memoirs of the Zoological Survey of India); the original is in English. The description is cut off in the source package partway through this species: only the beginning of the soldier account (body colour, pilosity) is present, followed by the caption of fig. 31 and the comparative measurement tables 23/24; table 24 (soldier measurements) is laid out in several columns for I. capillosus and I. rongrensis, and the column attribution is unreliable under OCR, so the measurements have not been transcribed and remain to be checked.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Alate head dark blackish brown (fuscous in the original), slightly paler near the occiput; postclypeus and pronotum dark chestnut brown; labrum, antennae and legs dark straw-coloured. Head and body densely hairy."
+  },
+  {
+   "label": "Alate",
+   "text": "Head almost circular; a large, almost triangular median dorsal patch in the middle of the head capsule; Y-shaped suture not visible. Ocelli large, oval. Antennae 15-segmented, segment 3 shortest. Postclypeus moderately raised, densely covered with short hairs interspersed with several long ones. Labrum almost circular. Left mandible with 1 apical tooth and 2 marginal teeth; right mandible with 1 apical tooth, 2 marginal teeth and a molar plate. Pronotum flat, almost trapezoidal. Fore wing scale large, radius short, arising independently from the wing scale; hind wing almost the same as the fore wing."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head capsule pale chestnut brown, with pale longitudinal stripes dorsally; abdominal tergites slightly paler than the head. Head densely covered with microscopic hairs interspersed with several long ones; body with rather many long hairs. (The description in the original breaks off at this point; what follows is the caption of fig. 31 and a comparative measurement table for the two species.)"
+  }
+ ]
+}

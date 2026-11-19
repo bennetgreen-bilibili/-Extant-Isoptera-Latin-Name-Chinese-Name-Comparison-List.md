@@ -1,0 +1,21 @@
+{
+ "note": "Adaptada de la descripción de la nueva especie en Termitenstudien de Holmgren (Kungliga Svenska Vetenskapsakademiens Handlingar, Band 50, No. 2), original alemán; incluye la descripción de los alados de dos formas, la forma nymanni (color más pardo rojizo, algo menor) y la forma Buitenzorghi (más oscura que la forma principal, longitud del cuerpo (con alas) 27—30 mm). La sección de medidas del original está bastante dañada por el OCR; solo se conservan los valores con etiqueta legible y el resto debe cotejarse con el libro original.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "(Lámina IV, fig. 6) Pardo castaño. La mancha antenal y la banda transversal que a menudo ocupa todo el borde anterior, el posclípeo, las piezas bucales, las antenas, la mancha en T y las dos manchas escapulares del pronoto, la parte anterior del mesonoto y del metanoto, la cara ventral y las patas son de color amarillo herrumbroso; los lados de los esternitos abdominales son de un pardo claro; las alas (en alcohol) son de un pardo amarillento. La pilosidad cefálica es en parte corta y en parte larga, no muy densa; la membrana alar solo lleva pelos muy dispersos cerca del ápice. Cabeza anchamente ovalada, estrechada hacia delante. Ojos compuestos de tamaño medio, ligeramente salientes. Ocelos (algo) laterales, a una distancia del ojo compuesto de aproximadamente un diámetro ocelar. La zona que rodea la fontanela es una mancha clara, puntiforme y elevada. Posclípeo mucho más corto que la mitad de su anchura, bastante plano. Antenas de 19 artejos; el artejo 3 casi tan largo como el 2 y algo más largo que el 4. Pronoto trapezoidal, con los bordes anterior y posterior débilmente cóncavos; las partes laterales por detrás de la mancha en T son de color pardo amarillento. La media se bifurca antes o después del centro, con 3—4 ramas a menudo bifurcadas; la cubital tiene 10—15 ramas, de las cuales 3 nacen en el lado interno del origen de la media."
+  },
+  {
+   "label": "Soldado",
+   "text": "(Lámina V, fig. 6) Cabeza amarilla, cuerpo blanco. La pilosidad cefálica es muy dispersa; los pelos de los terguitos abdominales no son especialmente densos. Cabeza ovalada cuadrangular, más larga que ancha, con los bordes laterales débilmente arqueados; cabeza débilmente convexa. Fontanela invisible. Posclípeo muy corto. Labro ligulado, con punta triangular, que alcanza solo la mitad de la longitud de las mandíbulas. Mandíbulas bastante cortas, débilmente curvadas, robustas; la mandíbula izquierda presenta un diente en escalón cerca de la base y la derecha carece de dientes. Antenas de 17 artejos; el artejo 2 mucho más largo que el 3; el 4 algo más largo que el 3; el 5 tan largo como el 3. El lóbulo anterior del pronoto es bastante grande y los bordes anterior y posterior son muy marcadamente cóncavos."
+  },
+  {
+   "label": "Obrero",
+   "text": "(Dos clases de tamaño) Cabeza pardo amarillenta, cuerpo blanco, con el contenido intestinal visible a través de la cutícula. Pelos cefálicos y corporales bastante dispersos. Cabeza ovalada cuadrangular; fontanela evidente. Posclípeo corto, arqueado de forma plana. Antenas de (17—)18 artejos; el artejo 2 tan largo como los artejos 3 y 4 juntos; el 3 más largo que el 4. Borde anterior del pronoto ligeramente cóncavo. Los obreros más pequeños tienen antenas de 17 artejos, el artejo 3 tan largo como el 4 y el pronoto no cóncavo."
+  },
+  {
+   "label": "Otros",
+   "text": "Medidas (mm; el original está maquetado como tabla y algunas etiquetas están dañadas por el OCR, por lo que solo se recogen los valores legibles). Alado: longitud del cuerpo (con alas) 25—27; longitud del ala anterior 10—12; longitud de la cabeza 2,66; anchura de la cabeza 2,48; anchura del pronoto 2,28; longitud del pronoto 1,14. Soldado: longitud del cuerpo 6—6,5; longitud de la cabeza (con mandíbulas) 3,42; longitud de la cabeza (sin mandíbulas) 2,36; anchura de la cabeza 1,9; anchura del pronoto 1,33. Obrero: forma mayor, longitud del cuerpo 3—4, anchura de la cabeza 0,99, anchura del pronoto 0,8; forma menor, longitud del cuerpo 3,5, anchura del pronoto 0,68."
+  }
+ ]
+}
