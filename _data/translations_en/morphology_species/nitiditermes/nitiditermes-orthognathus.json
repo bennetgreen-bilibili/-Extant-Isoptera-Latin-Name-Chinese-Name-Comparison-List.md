@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from Emerson's original English description of 1928 (new species Mirotermes (Cubitermes) orthognathus, later placed in Nitiditermes); the original describes the soldier and the worker, with no alate. The \"head length including mandibles\" entry is incomplete in the OCR of the original (it reads 3.7^,) and the figure is incomplete, so it has not been used. The type locality is written Faradie in the original, i.e. Faradje, Congo (Kinshasa) (consistent with the species page on this site); the note in the entry gives it in parentheses.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "In the soldier the mandibles are very straight, curved only at the apex; the mandibles of Mirotermes bisulcatus and M. sankurensis are more strongly curved, while those of M. minitabundus are shorter than the head."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head capsule red-yellow; the sides rather straight, slightly narrowing anteriorly. Antennae 15-segmented, segment 3 slightly shorter than segment 4, segment 4 about as long as segment 2. Mandibles very straight, curved only at the apex. Anterior margin of the pronotum concave. Measurements: head length (to the posterior edge of the antennal base) 1.78 mm; head width 1.67 mm; antennal length 2.33 mm; pronotal length 0.44 mm; pronotal width 0.89 mm; hind tibia length 1.27 mm; left mandible length 1.95 mm; curvature of the left mandible 0.24 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Antennae 15-segmented. Head width 1.11 mm; hind tibia length 1.11 mm."
+  },
+  {
+   "label": "Other",
+   "text": "Type locality Faradje, Belgian Congo (the OCR of the original reads Faradie), collected by Lang-Chapin, No. 316; holotype a soldier (AMNH). Other localities: Faradje (No. 316, 335, 1912, months 1-2), near Yakuluku (No. 302, 303, 1911, month 12). The description is based on numerous soldiers and workers. Lang's field notes state that No. 316 and 303 came from a \"mushroom-shaped termite structure\"; the bottle of No. 302 also contained Ancistrotermes crucifer, Nasutitermes suffuscus and Mirotermes (Euchilotermes) quadriceps."
+  }
+ ]
+}

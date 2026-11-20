@@ -1,0 +1,21 @@
+{
+ "note": "Reescrito a partir de la descripción original de Glyptotermes franciae de Snyder (1958); el original está en inglés. El original solo recoge el soldado (con medidas) y las mandíbulas de la ninfa; el alado y el obrero no se describen. Problemas de OCR: en la tabla de medidas, todos los conceptos salvo la longitud total, la longitud de la cabeza con mandíbulas y la longitud de la cabeza (sin mandíbulas) tienen las etiquetas sustituidas en el texto escaneado por cadenas ilegibles (0.90, 1.00, 1.30, 1.80 mm), por lo que no puede determinarse su atribución y no se registran; la longitud de la cabeza con mandíbulas 3.30 mm se confirma con la clave de soldados del final del trabajo. La especie siguiente de la misma ventana, Glyptotermes magsaysayi, es otra especie nueva y se ha excluido.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Mayor en tamaño corporal que la especie de cabeza corta G. chapmani, del mismo género, de Filipinas, y con la cabeza también más larga. Clave de soldados: cabeza con una escotadura profunda en forma de V en la parte anterior, cabeza alargada, longitud con mandíbulas 3.30 mm, parda amarillenta, antenas de 12—13 artejos: esta es la especie; G. chapmani tiene la cabeza corta, longitud con mandíbulas 1.15 mm y antenas de 11 artejos; G. magsaysayi tiene longitud con mandíbulas 2.60 mm y antenas de 11 artejos."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza parda amarillenta, con pelos largos dispersos, su longitud casi el doble de su anchura; parte anterior fuertemente inclinada hacia delante, formando una estructura bilobulada en V profunda. Mancha ocular transparente, mayor que la fosa antenal. Mandíbula izquierda con 2 dientes marginales en el ápice y 1 en el centro; mandíbula derecha con 2 en el centro. Postmentón ancho en el centro. Antenas de 12—13 artejos, el artejo 3 no engrosado, más corto que el 2 o el 4. Pronoto más ancho que largo, margen anterior débilmente cóncavo, margen posterior débilmente cóncavo. Fémures no engrosados como en Kalotermes. Medidas: longitud total del soldado 8.50—10.00 mm, longitud de la cabeza con mandíbulas 3.30 mm, longitud de la cabeza (sin mandíbulas, hasta el extremo anterior) 2.60 mm."
+  },
+  {
+   "label": "Ninfa",
+   "text": "Mandíbulas del tipo Glyptotermes."
+  },
+  {
+   "label": "Otros",
+   "text": "Localidad típica: monte Makiling, Laguna, Luzón, Filipinas; recogido el 1957-10-16 por F. C. Francia sobre Canarium luzonicum, descrito a partir de 4 soldados y ninfas; el soldado holotipo (Cat. No. 64121, U. S. National Museum) y los paratipos se conservan en ese museo."
+  }
+ ]
+}

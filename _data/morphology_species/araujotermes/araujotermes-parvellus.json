@@ -1,0 +1,29 @@
+{
+ "zh_name": "长毛阿劳若白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫与 N. microsoma、N. thompsonae 的区别在于头部与腹背板上的毛比较长。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "头褐色，密布细斑点，两侧与触角周围较浅；卵形；被相当长的毛。囟（fontanelle）呈缝状，约与单眼等长，末端分叉；肌肉着生点明显。触角浅色，14 节，第 2、3、4 节等长，或第 3 节略长于其余各节。复眼相当大，不特别突出，紧靠头下缘。单眼比例上大，靠近复眼。上唇浅色。后唇基浅色，具中纵线。前胸背板比头浅，中部有一 T 形浅色斑；半月形，两侧与后缘构成完整的弧线。中、后胸背板后缘微凹，两侧强烈收敛。翅浅烟色，近端部的前缘脉浅色，径脉基部深色。腹背板与前胸背板同色。量度：连翅长 9.00—10.00 mm；不连翅长 6.00—6.50 mm；头长 0.90 mm；头宽 0.73—0.77 mm；触角长 1.17—1.38 mm；复眼直径 0.27 mm；前胸背板长 0.33—0.40 mm；前胸背板宽 0.53—0.57 mm；后足胫节长 0.80 mm；前翅长 6.56—7.00 mm；前翅宽 1.77—1.90 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头黄色，卵形，侧面观平凸；被小毛，额与头顶的毛较长。触角浅色，12 节，第 3 节长于第 2 节，第 2 节与第 4 节等长。象鼻深色，直而细，被小毛。前胸背板浅色。腹部浅色；背板被长毛，后缘有一列刚毛。量度：全长 2.30—4.00 mm；头长 0.95—1.03 mm；头宽 0.53—0.57 mm；触角长 0.86—1.00 mm；前胸背板宽 0.31 mm；后足胫节长 0.52—0.57 mm。"
+  },
+  {
+   "label": "其他",
+   "text": "描述据作者在 Kartabo 采自九个不同群体的大量有翅成虫与兵蚁；F. M. Gaige 在 Dunoon 采自单一群体的兵蚁，以及作者在特立尼达三个群体采得的兵蚁，均与 Kartabo 标本一致。模式产地英属圭亚那 Kartabo；其他产地为 Potaro River 的 Dunoon 与特立尼达的 Port of Spain；分布英属圭亚那、特立尼达。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0083",
+   "citation": "Emerson 1925, Termites of Kartabo, Zoologica (N. Y. Zoological Society), vol. VI, no. 4",
+   "locator": "Nasutitermes (Subulitermes) parvellus 条目，pp. 400—402"
+  }
+ ],
+ "note": "据 Emerson 1925 对 Eutermes parvellus Silvestri, 1923（模式产地 Kartabo, British Guiana）的种级描述改写；原文英文，用旧组合 Nasutitermes (Subulitermes) parvellus，今置 Araujotermes。OCR：有翅成虫触角长原文作「1.17- .138」，按位数还原为 1.17—1.38 mm；连翅长原文作「?.9.00-10.00」；多处量度小数点前的 0 被吞（如「Total length.2.30-4.00」）。原文比较句只涉及有翅成虫的 N. microsoma 与 N. thompsonae。"
+}

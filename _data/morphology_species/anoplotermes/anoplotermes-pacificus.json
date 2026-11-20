@@ -1,0 +1,29 @@
+{
+ "zh_name": "太平洋解甲白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "头与背烟黑色，腹栗色，中部饰稻草色横带，宽窄不一。各节遍被短毛与长毛。头具圆形窗（fenestra）。单眼距眼稍远。触角 15 节，第 3 节长约为第 2 节的二分之一或更短，第 4 节较第 3 节稍长。前胸背板宽为长的两倍，前角圆，后部宽圆。翅面具极小的三角形刺及少数散毛。前翅中脉具 2-4 小脉，亚中脉 9 小脉。尾须极短，2 节，第 2 节锥状，具长刚毛。足胫节下方具少数单列小刺，末端具 2 根粗壮刺。量度（毫米）：体长（连翅）16,5；体长 8,5；触角长 2,1；头宽 1,3；前胸背板长 0,7、宽 1,4；前翅长 14、后翅长 13,5。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头与前胸背板稻草色，腹部因食物而或多或少呈灰色。各节具短毛与稀疏长毛。触角 14 节，第 3 节短于第 2 节。前胸背板前缘半圆形。量度：原文此行 OCR 作 \"Lons; corp: eslataea pit ale\"，无法辨读，未猜补。"
+  },
+  {
+   "label": "若虫",
+   "text": "体苍白，眼黑色。触角 15 节。量度（毫米）：体长 8,5；翅芽长 1,4。"
+  },
+  {
+   "label": "其他",
+   "text": "蚁后：体长 25；腹宽 5,5（毫米）。幼虫：全体苍白，被短毛；触角 12 节，第 3 节裸、与第 2 节等长；体长 1,1（毫米）。分布：巴拉圭 Tacurù Pucù、Villa Encarnacion、Villa Rica；阿根廷 S. Ana（Misiones）。本属兵蚁缺（Miles — Abest）。"
+  }
+ ],
+ "note": "据 Silvestri《Termitidi e termitofili dell'America meridionale》中 Anoplotermes pacificus 的拉丁文描述改写为中文；原文量度用逗号作小数点（如 16,5），按原样照录。工蚁量度行 OCR 乱码（\"Lons; corp: eslataea pit ale\"），未猜补。原文属级描述记兵蚁缺（Miles — Abest）、工蚁触角 14 节。年份 1903 依 archive.org 标识 redia11903isti，片段内无题名页。",
+ "sources": [
+  {
+   "id": "S0766",
+   "citation": "Silvestri F. 1903. Termitidi e termitofili dell'America meridionale. Redia 1.",
+   "locator": "p. 96（redia11903isti）"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "note": "Rewritten from Snyder's (1958) original description of Glyptotermes franciae; the original is in English. The original records only the soldier (with measurements) and the nymphal mandibles; the alate and the worker are not described. OCR problems: in the measurement table, all items except the total length, the head length with mandibles and the head length (without mandibles) have their labels replaced in the scanned text by garbled strings (0.90, 1.00, 1.30, 1.80 mm), so their attribution cannot be determined and they are not recorded; the head length with mandibles 3.30 mm is confirmed by the key to soldiers at the end of the paper. The next species in the same window, Glyptotermes magsaysayi, is another new species and has been excluded.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Larger in body than the short-headed G. chapmani of the same genus from the Philippines, and with a longer head. Key to soldiers: head with a deep V-shaped notch anteriorly, head elongate, length with mandibles 3.30 mm, brownish yellow, antennae 12—13-segmented — this is the species; G. chapmani has a short head, length with mandibles 1.15 mm and 11-segmented antennae; G. magsaysayi has length with mandibles 2.60 mm and 11-segmented antennae."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head brownish yellow, with scattered long hairs, its length nearly twice its width; anterior part steeply inclined forwards, forming a deep V-shaped bilobed structure. Eye spot transparent, larger than the antennal socket. Left mandible with 2 marginal teeth at the apex and 1 in the middle; right mandible with 2 in the middle. Postmentum wide in the middle. Antennae 12—13-segmented, segment 3 not swollen, shorter than segment 2 or 4. Pronotum wider than long, anterior margin shallowly concave, posterior margin slightly concave. Femora not swollen as in Kalotermes. Measurements: soldier total length 8.50—10.00 mm, head length with mandibles 3.30 mm, head length (without mandibles, to the anterior end) 2.60 mm."
+  },
+  {
+   "label": "Nymph",
+   "text": "Mandibles of the Glyptotermes type."
+  },
+  {
+   "label": "Other",
+   "text": "Type locality Mt. Makiling, Laguna, Luzon, Philippines; collected on 1957-10-16 by F. C. Francia on Canarium luzonicum, described from 4 soldiers and nymphs; the holotype soldier (Cat. No. 64121, U. S. National Museum) and the paratypes are deposited in that museum."
+  }
+ ]
+}

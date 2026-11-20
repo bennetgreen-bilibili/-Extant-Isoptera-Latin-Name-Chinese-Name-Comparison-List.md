@@ -1,0 +1,13 @@
+{
+ "note": "The entry for this species in the source pack contains only the \"supplementary measurements of a single soldier from the type colony\" and the note on the queen's antennae; there is no descriptive text. The original description is in Hill 1915 (Proc. Linn. Soc. N.S.W., vol. XL, pl. IV fig. 121), which the pack does not include, so this entry has measurements only. The original uses the old combination Mirotermes froggatti. OCR: the labels and values of the measurement table are set in two columns (label first, value after) and correspond in order; \"1 *15\" and \"0-90\" are read as 1.15 and 0.90 respectively.",
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "The source pack gives only the supplementary measurements of a single soldier from the type colony: head length (to the tip of the frontal projection) 1.15 mm; head width 0.90 mm; pronotum length 0.23 mm; pronotum width 0.47 mm; hind tibia length 0.78 mm."
+  },
+  {
+   "label": "Other",
+   "text": "Note in the original: the queen of the type series is recorded with antennae of 13 segments, but the terminal segment is missing, so the actual number of segments cannot be determined. Locality Darwin, Northern Territory."
+  }
+ ]
+}

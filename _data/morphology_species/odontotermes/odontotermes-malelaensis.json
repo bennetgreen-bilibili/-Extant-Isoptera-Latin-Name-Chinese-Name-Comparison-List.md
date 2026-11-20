@@ -1,0 +1,29 @@
+{
+ "zh_name": "马雷拉土白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 T. pauperans 很近，但据 Silvestri 的图，上颚与齿的形状不同，且体型略大；与 T. ostentans 也近，但上颚齿式（据 Silvestri 的图）不同；与 T. sudanensis 近而头前部更窄；T. badius 明显更大。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头红黄色，前部明显较深；前部略变窄；被少量稀疏刚毛。触角 17 节，第 3 节最短，第 4 节短于第 2 节。眼斑深色。上唇两侧圆，尖端远不如 T. sjostedti var. evansi 那样尖；末端具一列长刚毛。上颚闭合时上唇达不到左上颚的齿。上颚深红褐色，基部与头同色。前胸背板前缘凹。量度：头长 3.20 mm；头宽 1.61—1.70 mm；前胸背板长 0.70 mm；前胸背板宽 1.10 mm；后足胫节长 1.40—1.56 mm；左上颚长 1.19—1.28 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "触角 17 节；头宽 1.45 mm。"
+  },
+  {
+   "label": "其他",
+   "text": "正模为兵蚁（A. M. N. H.），据 Lang 与 Bequaert 采自同一巢的大量兵蚁与工蚁描述；模式产地比属刚果 Malela（Lang-Chapin Coll. No. 961，1915-07-04）。巢为高约 30 cm 的黏土丘，内部有大型菌圃。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0747",
+   "citation": "Emerson 1928, Termites of the Belgian Congo and the Cameroon, Bulletin of the American Museum of Natural History 57: 401—574",
+   "locator": "Termes (Termes) malelaensis 条目，p. 464"
+  }
+ ],
+ "note": "据 Emerson 1928 的新种描述改写；原文英文，用旧组合 Termes (Termes) malelaensis，今置 Odontotermes。OCR：量度表的标签（头长、头宽、前胸背板长/宽、后足胫节长、左上颚长）与数值被拆成两段，按标签顺序与数值顺序（3.20 / 1.61—1.70 / 0.70 / 1.10 / 1.40—1.56 / 1.19—1.28）对应；小数点前的 0 多处被吞。"
+}

@@ -1,0 +1,13 @@
+{
+ "note": "Rewritten from the soldier description of \"Furculitermes longilabius, new species\" in Emerson 1960 (American Museum Novitates No. 1988); the original is in English. The source pack is cut off at the third sentence of the soldier description (\"Profile of postmentum evenly convex, withou…\"), so the rest of the morphological description, the measurement table and the accounts of the type specimens and type locality are not in the pack; no measurements can therefore be recorded, and only the 3 sentences that can be read reliably are kept. The pack also contains the comparison sentence between F. longilabius and F. soyeri of the same genus, used here as the diagnostic characters. The title and year are inferred from the page header (1960 EMERSON: NEW TERMITINAE; AMERICAN MUSEUM NOVITATES No. 1988) and the identifier sixnewgenerater1988emer; the full title and the author's full name were not seen. OCR problems: Fics. (FIGS.), SOYERT (SOYERI), etc., do not affect the reading of the morphology.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The mandibles of the soldier are less strongly elbowed and longer; the lateral outline of the head is similar to that of F. soyeri, but the median part of the labrum is distinctly longer."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head (in dorsal view) markedly narrowed towards the front; vertex slightly concave in lateral view; postmentum evenly convex in lateral view."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "zh_name": "亨德里克斯叉白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁体型与比例接近 F. winifredae，区别在上唇形状（图 9A、9G），尤以上唇侧叶自基部起的长度为著；F. cubitalis 上颚更弯折（图 10C），且头顶侧面观凹。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头顶侧面观平或微凸，额突之后无凹；头两侧向前收窄。触角 15 节。上唇外缘微凸，侧叶较短。上颚外缘较均匀凸出。原文表 6 列 17 项量度，数值在 OCR 中全毁，见注。"
+  },
+  {
+   "label": "其他",
+   "text": "仅知兵蚁。正模兵蚁 1 头：Camp Putnam（1°24′N，28°36′E），Epulu 河，比属刚果，1948 年 5 月 12 日；采于树上近地面一个旧封口的 Cubitermes 巢内，与 Crenetermes、Noditermes、Pericapritermes 同巢。种名纪念 M. F. L. Hendrickx。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0100",
+   "citation": "Emerson A. E. 1960. Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae). American Museum Novitates 1988.",
+   "locator": "p. 25–26（sixnewgenerater1988emer）"
+  }
+ ],
+ "note": "据 Emerson 1960（American Museum Novitates No. 1988《Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae)》）p. 25–26 种级描述改写，原文英文。原文表 6 列出 17 项兵蚁量度的列名（连上颚头长、头宽、上唇侧叶长、前胸背板长宽、后足胫节长等），但数值在 OCR 中全毁，成「FPF oornNcocoorrrF Wb」「POWWNHAN WP OWA CO OR」一类乱码，无法逐项对应，故量度一律不录、不猜补。本种发表时仅据单头正模兵蚁。素材包第 177 行起为 Furculitermes brevilabius 新种，未采用。"
+}

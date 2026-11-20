@@ -1,0 +1,21 @@
+{
+ "zh_name": "弗洛格特脊突白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "素材包只给出模式群体一只兵蚁的补充量度：头长（至额突顶端）1.15 mm；头宽 0.90 mm；前胸背板长 0.23 mm；前胸背板宽 0.47 mm；后足胫节长 0.78 mm。"
+  },
+  {
+   "label": "其他",
+   "text": "原文附注：模式标本的蚁后（queen）记载触角 13 节，但末端节缺失，实际节数无法确定。产地北领地 Darwin。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0760",
+   "citation": "Hill, Termites from the Australian Region, Memoirs of the National Museum of Victoria 7: 99—100",
+   "locator": "Mirotermes froggatti 条目，p. 99"
+  }
+ ],
+ "note": "素材包内本种条目只有「据模式群体一只兵蚁的补充量度」与蚁后触角附注，没有描述性文字；原始描述见 Hill 1915（Proc. Linn. Soc. N.S.W., vol. XL，图版 IV fig. 121），包内未含，故本条目只有量度。原文用旧组合 Mirotermes froggatti。OCR：量度表标签与数值分成两栏（标签在前、数值在后），按顺序对应；「1 *15」「0-90」等分别读作 1.15、0.90。"
+}

@@ -1,0 +1,21 @@
+{
+ "note": "Rewritten from Holmgren 1913, Termitenstudien 4, p. 139; the original is in German. Only 139 and 140 appear in the page headers of the scanned bundle, and the text of this species lies between them, but the OCR line order is disturbed and the first page may be p. 138, so the pagination awaits checking against the original journal. The labels of the five soldier measurement rows are destroyed in the OCR (\"IKörperlangepar a fo ang\", \"NRO [NIA ESR 3 ae nrg EN se\"), while the values 5,5—6, 2,74, 1,82, 1,48, 1,03 are clear; the order of the rows is read according to the fixed arrangement of the measurement rows in other species of the same genus in the same work (body length / head length with mandibles / head length without mandibles / head width / pronotum width), and the correspondence of items 2 and 3 with their labels still requires checking against p. 139 of the original journal. For the worker the body-length row survives in the OCR only as garbage with no figures, so it is not recorded; head width 1,41 and pronotum width 0,76 are clear. The material from line 71 on is the new species O. oblongatus, which was not used.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The soldier resembles that of O. javanicus but is smaller."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head yellow, body straw yellow. Pilosity of the head very sparse, that of the abdominal tergites denser. Head narrowed very slightly anteriorly, plano-convex. Fontanelle indistinct. Postclypeus short. Labrum pointed, lanceolate, covering more than half of the closed mandibles. Mandibles very slightly curved, almost straight; left mandible with a tooth at the first third; right mandible with a degenerate, almost invisible tooth in the same position. Antennae 17-segmented: segment 2 equal to segments 3 + 4; segment 3 equal to segment 4; segment 5 slightly shorter. Anterior margin of the pronotum with a rather strong notch. Measurements (mm): body length 5.5—6; head length with mandibles 2.74; head length without mandibles 1.82; head width 1.48; pronotum width 1.03."
+  },
+  {
+   "label": "Worker",
+   "text": "Head brownish yellow, body (with the gut contents showing through) straw yellow. Pilosity rather dense. Head subpentagonal and rounded, thick. Fontanelle distinct. Postclypeus rather large, strongly arched. Antennae 17—18-segmented; with 17 segments: segment 2 about equal to segments 3 + 4, segment 3 shorter than 4 and equal to 5; with 18 segments: segment 2 about equal to segments 3 + 4, segment 3 more than twice as long as segment 4. Anterior margin of the pronotum very slightly notched. Measurements (mm): head width 1.41; pronotum width 0.76."
+  },
+  {
+   "label": "Other",
+   "text": "Distribution: Billiton (collected by C. Aurivillius), specimens in the Reichsmuseum, Stockholm. Plate V, Fig. 9 shows the soldier."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "zh_name": "巴布亚须白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与菲律宾的 H. luzonensis 最近；区别为喙略粗、喙突（rostral hump）较不明显、头后部较宽。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头除头顶外深褐；头顶、触角、颚须（palpi）、胸腹背板及足褐；喙端、腹部腹面、转节、胫节关节浅褐。头部刚毛少量：头顶 2 根，喙基 2 根，喙上 1—2 根；背板刚毛细小而分散；腹板刚毛长，以后侧为多。头后部宽卵形；侧面观中等凹，具轻微喙突。触角 14 节，第 3 节略短于第 4 节。上颚尖锐。前胸背板宽近于其长的 1.5 倍，中部有浅色纵纹延至中、后胸背板；前胸背板角圆。量度（毫米；10 头，范围／均值）：连喙头长 1.80—1.98／1.93；头宽 1.17—1.25／1.22；喙长 0.63—0.73／0.68；前胸背板长 0.40—0.44／0.42；前胸背板宽 0.64—0.70／0.68。"
+  },
+  {
+   "label": "其他",
+   "text": "模式产地：Strickland River，巴布亚，1928 年 7 月 31 日，数头兵蚁与工蚁（C. E. Pemberton）。图 4：A 头背面，B 前胸背板，C 头侧面。原文只描述兵蚁，未描述工蚁与有翅成虫。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0755",
+   "citation": "New Termites. American Museum Novitates 1344 (15 April 1947).",
+   "locator": "p. 4–5（dli.ernet.28272）"
+  }
+ ],
+ "note": "据 American Museum Novitates 1344（1947 年 4 月 15 日）《New Termites》p. 4–5 种级描述改写，原文英文。素材包所给 archive.org 标识 dli.ernet.28272 的题名作「New Termites (Indian Zoological Memoirs / 1947)」，与正文刊头（AMERICAN MUSEUM NOVITATES, No. 1344）不符，著者名在包内未出现（待核）。前胸背板宽原文印作「'0.64-0.70」（多一单引号，OCR 噪声），数值照录不改。包内第 124 行起为 Hospitalitermes moluccanus 新种，未采用。"
+}

@@ -1,0 +1,21 @@
+{
+ "zh_name": "似寄宿亚种",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁与主型 Hospitalitermes hospitalis 极相似：鼻略长，腹部背面远较腹面深暗。工蚁与主型无区别。有翅成虫未知。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "与主型极相似。鼻略长。腹部背面远较腹面深暗。量度：体长约 4 mm；头长（含鼻）1.86 mm；头宽 1.18 mm；前胸背板宽 0.65 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0089",
+   "citation": "Holmgren N. 1913. Termitenstudien 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Kungliga Svenska Vetenskaps-Akademiens Handlingar 50(2): 1—276.",
+   "locator": "p. 213 (E. hospitalis f. hospitaloides)"
+  }
+ ],
+ "note": "据 Holmgren 1913（Termitenstudien 4，Kungl. Sv. Vet.-Akad. Handl. 50(2)）所立 Eutermes hospitalis forma hospitaloides 的原始描述改写，原文德文；原描述极简（有翅成虫未知，工蚁与主型无区别），且 OCR 严重（量度标签成串乱码、句中断行），只写能可靠读出的 4 个数值与 3 项性状，未猜补；模式产地 Borneo: Miri Hills（Haviland）。同一素材包前半为 Termes hospitalis 主型的有翅成虫、兵蚁与工蚁描述，不属于本亚种，未采用。"
+}

@@ -1,0 +1,29 @@
+{
+ "zh_name": "霍斯前钩白蚁",
+ "sections": [
+  {
+   "label": "兵蚁",
+   "text": "头褐黄，上颚褐；体稻草黄至浅锈黄。头具数根刚毛；腹部背板后缘有短刚毛。头宽，圆角方形，向前明显收窄，略长于宽。囟小，位于头中部稍后。后唇基短而宽，平。上唇圆舌形。上颚强弯、尖、宽，具典型齿。触角长，15 节，第 2、3、4 节近等长。下唇基平凸。前胸背板前叶大、直立、三角形，前缘中部明显凹缺。量度（毫米）：体长 7—7.6；连上颚头长 2.85；不连上颚头长 2.09；头宽 1.82；前胸背板宽 1.14。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头浅灰褐，圆，唇基片很凸出。触角比兵蚁的短，15 节，第 2、3 节近等长。前胸背板鞍形，前叶颇大、直立上举。腹部膨大，因肠内容呈深灰。体长 5—6 毫米。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "体背黑褐、被毛较强，腹面浅。头卵形，向前三角形收窄，上面近于平。囟存在但很小。复眼较小而突出，圆形；单眼卵形，与复眼的距离小于其自身长度。触角 16 节，第 2、3 节近等长、细长，长于第 4 节。唇基片比额略浅，突出不显。上颚前两齿近等长。前胸背板比含复眼的头略窄，后部略收，前缘直，两侧多少圆，后缘缺刻较宽。中、后胸背板后缘缺刻，角收窄。翅较大，略带黄褐；前缘脉与径脉粗而甚靠近；中脉近直，距肘脉较径脉近，达翅端，具 1 支或无分支；中脉与径脉之间有若干斜脉；肘脉较长，向后缘约 11 支。体长 7—7.5 毫米；前翅（不含翅鳞）13.6×3.9 毫米。"
+  },
+  {
+   "label": "其他",
+   "text": "分布：Sarawak（Hose 采）。图版 VIII 图 14 为兵蚁。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0089",
+   "citation": "Holmgren N. 1913. Termitenstudien 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Kungliga Svenska Vetenskapsakademiens Handlingar 50(2).",
+   "locator": "p. 220–221（biostor-244353）"
+  }
+ ],
+ "note": "据 Holmgren 1913《Termitenstudien 4》p. 220–221 改写，原文德文；有翅成虫与工蚁的描述系转引 Desneux（原法文），兵蚁为 Holmgren 自述。法文 OCR 字母讹误较多（pubeseent=pubescent、artieles=articles、eötes=côtés、ecliancre=échancré、Longeur=Longueur、milk=mill.），按上下文读正，量度数值照录不改。兵蚁量度在原刊分四行列出（Kopf mit Kiefern 2,85 / ohne 2,09 / Kopfbreite 1,82 / Breite des Pronotums 1,14），已按中文全称对应。包内其后为 Eurytermes 属检索表及 E. Assmuthi，未采用。"
+}

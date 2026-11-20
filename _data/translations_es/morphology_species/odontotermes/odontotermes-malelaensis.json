@@ -1,0 +1,21 @@
+{
+ "note": "Adaptado de la descripción de especie nueva de Emerson 1928; original en inglés, bajo la combinación antigua Termes (Termes) malelaensis, hoy en Odontotermes. OCR: las etiquetas de la tabla de medidas (longitud de la cabeza, anchura de la cabeza, longitud/anchura del pronoto, longitud de la tibia posterior, longitud de la mandíbula izquierda) y los valores se separaron en dos tramos y se han hecho corresponder en el orden de las etiquetas y de los valores (3.20 / 1.61—1.70 / 0.70 / 1.10 / 1.40—1.56 / 1.19—1.28); el 0 antes del punto decimal falta en varios lugares.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Muy próximo a T. pauperans, pero según las figuras de Silvestri la forma de las mandíbulas y de los dientes difiere, y el tamaño es algo mayor; también próximo a T. ostentans, pero la dentición mandibular (según las figuras de Silvestri) difiere; próximo a T. sudanensis pero con la parte anterior de la cabeza más estrecha; T. badius es claramente mayor."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza amarillo rojiza, la parte anterior claramente más oscura; la parte anterior ligeramente estrechada; con escasas setas dispersas. Antenas de 17 artejos, el artejo 3 el más corto, el artejo 4 más corto que el 2. Mancha ocular oscura. Labro redondeado en los lados, el ápice mucho menos agudo que en T. sjostedti var. evansi; el ápice con una hilera de setas largas. Con las mandíbulas cerradas el labro no alcanza el diente de la mandíbula izquierda. Mandíbulas pardo rojizo oscuro, la base del mismo color que la cabeza. Margen anterior del pronoto cóncavo. Medidas: longitud de la cabeza 3.20 mm; anchura de la cabeza 1.61—1.70 mm; longitud del pronoto 0.70 mm; anchura del pronoto 1.10 mm; longitud de la tibia posterior 1.40—1.56 mm; longitud de la mandíbula izquierda 1.19—1.28 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Antenas de 17 artejos; anchura de la cabeza 1.45 mm."
+  },
+  {
+   "label": "Otros",
+   "text": "Holotipo un soldado (A. M. N. H.), descrito a partir de numerosos soldados y obreros recolectados por Lang y Bequaert en el mismo nido; localidad tipo Malela, Congo Belga (Lang-Chapin Coll. No. 961, 1915-07-04). El nido es un montículo de arcilla de unos 30 cm de alto con un gran jardín de hongos en su interior."
+  }
+ ]
+}

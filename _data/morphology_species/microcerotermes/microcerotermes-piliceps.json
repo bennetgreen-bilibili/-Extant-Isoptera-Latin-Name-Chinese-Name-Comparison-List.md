@@ -1,0 +1,21 @@
+{
+ "zh_name": "毛头锯白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "本种以兵蚁头壳密被粗长刚毛为显著特征。与婆罗洲的 M. serrula Desneux 相比，本种兵蚁体形较大、头壳毛被更密（M. serrula 兵蚁体小、头壳毛被较稀疏）；与Barkuda Island的 M. annandalei Silvestri 相比，本种头壳毛被亦更密。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头壳栗色（红褐色）；头长不及头宽的 2 倍，圆柱形，两侧平行（中部微凹）；头在后部最宽、向前收窄，后缘圆；额缝（epicranial suture）显著前倾；头壳密被相当长的刚毛。囟（fontanelle）透明、小而明显、隆起、近椭圆形，位于额缝起点处。眼点（原文作 Bye pot，疑为 Eye spot 之 OCR 误）明显，位于触角窝所在凹陷的下缘。前颏（gula）中部宽略小于最大前宽的 1/2。上唇淡黄褐色，宽大于长，前部近三角形，具长毛。上颚深红褐色（基部较浅），呈弓形或军刀形；左颚“弓”深 0.6 mm（自内缘至连接颚尖与基部的直线）；上颚基部宽，向端部收窄成尖并在端部内弯，基部 2/3 的内缘具不规则粗齿。触角黄至淡黄褐色，13 节；各节向端部渐宽，具长毛；第 3 节长为第 2 节的 1/2；第 4 节略短于第 2 节；末节延长、细、近椭圆形。前胸背板淡黄褐色，鞍形，前、后缘中央浅圆凹；两侧向后渐圆收，边缘密生长毛。足带黄色，细长，具长毛。腹部带黄色；背板密被长毛；尾须不明显。量度：兵蚁全长 5.3 mm（原文注“疑标本皱缩”）；头长（含上颚） 2.7 mm；头长（不含上颚，至前缘） 1.9 mm；左上颚长 1.25 mm；前胸背板长 0.3 mm；后足胫节长 0.9 mm；头宽（后部） 1.2 mm；头宽（前部） 1 mm；头高（中部） 1 mm；前胸背板宽 0.75 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0761",
+   "citation": "Journal of the Washington Academy of Sciences 15(19): 443-444, 1925 (Microcerotermes piliceps, new species).",
+   "locator": "pp. 443-444"
+  }
+ ],
+ "note": "据 1925 年《Journal of the Washington Academy of Sciences》15(19) 页 443-444 的新种描述改写，原文英文。原文仅描述兵蚁（模式标本为兵蚁 Cat. No. 15297, MCZ，采自所罗门群岛 Ugi 岛，与工蚁同采），工蚁与有翅成虫未描述；著者与本文题名不在素材包内，仅据页眉（VOL. 15, NO. 19；页 444）确认期刊与年份。OCR 问题：red-browm（red-brown）、posterior rnargin（margin）、Memurements（Measurements）、Bye pot（疑 Eye spot）为扫描误识；量度数字均清晰可读。"
+}

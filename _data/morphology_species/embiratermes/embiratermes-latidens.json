@@ -1,0 +1,21 @@
+{
+ "zh_name": "宽齿生白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁上颚边缘齿基部宽，左颚尤为明显（据 Emerson & Banks 1957 原描述插图，见原文图 2A）。头部、鼻与后颏上散布短毛；鼻端三分之一的背面与头后部几乎裸露（引自 Emerson & Banks 1957: 4）。与 E. festivellus 相比，本种兵蚁上颚整体更粗壮，边缘齿之外的上颚刃更长更细，上颚外缘有浅凹，鼻与上颚平行而不分叉。"
+  },
+  {
+   "label": "其他",
+   "text": "肠瓣由三个指状垫组成，三者长度不同，覆有 80-100 枚微小刺，其间夹三个较短较宽的区，覆有更细小的刺；本种较宽区的刺成组（双、三、四枚一组），E. spissus 则为单刺。本种与 E. spissus 为属内最大者，兵蚁头宽 1.55-1.77 mm（原文该范围为两种合计）。"
+  }
+ ],
+ "note": "据 Scheffrahn（Check List 17 (4): 1043）Identification 段改写；原文英文。本段是本种兵蚁的鉴别记述（上颚、毛被、肠瓣），原文未列本种量度：文中 1.55-1.77 mm 为 E. latidens 与 E. spissus 两种合计的兵蚁头宽，已在正文注明；原文称「原描述的量度与本文材料一致」但未给数字。OCR：本种学名多处作 E. /atidens、EF. latidens、FE. /atidens，按上下文还原为 E. latidens；图注 (D) 为 worker enteric valve armature。",
+ "sources": [
+  {
+   "id": "S0765",
+   "citation": "Scheffrahn. Embiratermes Fontes, 1985 from South America（running head）. Check List 17 (4): 1043-1045. 题名、年份与 DOI 未见于本段 OCR。",
+   "locator": "p. 1043（newrecordsfourt17sche）"
+  }
+ ]
+}

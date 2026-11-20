@@ -1,0 +1,29 @@
+{
+ "zh_name": "弗朗西亚树白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "体大于菲律宾同属的短头种 G. chapmani，头也较长。兵蚁检索表：头前部具深 V 形凹、头伸长、连上颚长 3.30 mm、褐黄色、触角 12—13 节者即本种；G. chapmani 头短、连上颚长 1.15 mm、触角 11 节，G. magsaysayi 连上颚长 2.60 mm、触角 11 节。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头褐黄色，散生长毛，长几为宽的两倍；前部陡峭前倾，呈深 V 形的双叶状。眼斑透明，大于触角窝。左上颚端部具 2 枚缘齿、中部具 1 枚；右上颚中部具 2 枚。后颏中部宽。触角 12—13 节，第 3 节不膨大，短于第 2 节或第 4 节。前胸背板宽大于长，前缘浅凹，后缘微凹。股节不似 Kalotermes 那样膨大。量度：兵蚁全体长 8.50—10.00 mm，头连上颚长 3.30 mm，头长（去上颚，至前端）2.60 mm。"
+  },
+  {
+   "label": "若虫",
+   "text": "上颚属 Glyptotermes 型。"
+  },
+  {
+   "label": "其他",
+   "text": "模式产地菲律宾吕宋岛拉古纳省马基林山（Mt. Makiling, Laguna），1957 年 10 月 16 日 F. C. Francia 采自 Canarium luzonicum，据 4 头兵蚁与若虫描述；正模兵蚁（Cat. No. 64121，U. S. National Museum）与副模同藏该馆。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0762",
+   "citation": "Snyder T. E. 1958. Proceedings of the Entomological Society of Washington 60(5): 229–231（Glyptotermes franciae, new species）. archive.org: proceedingsofent5960195758ento",
+   "locator": "pp. 229–231"
+  }
+ ],
+ "note": "据 Snyder (1958) 对 Glyptotermes franciae 的原始描述改写，原文英文；原文只有兵蚁（含量度）与若虫上颚的记述，未描述有翅成虫与工蚁。OCR 问题：量度表中除全体长、头连上颚长、头长（去上颚）外的各项，其标签在扫描文本中已被替换成乱码字符串（0.90、1.00、1.30、1.80 mm），无法确定归属，故不录；头连上颚长 3.30 mm 由文末兵蚁检索表复核。同一窗口其后的 Glyptotermes magsaysayi 为另一新种，已排除。"
+}

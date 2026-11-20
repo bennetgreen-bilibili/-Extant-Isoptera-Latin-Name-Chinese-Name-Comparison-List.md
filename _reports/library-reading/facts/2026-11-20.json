@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-20",
+  "work": "日读轮次：S0368 全文 + 14 个摘要长度 chunk + 5 条仅摘要记录（详见 _tmp/library-scan/2026-11-20/units.json）",
+  "unit": "见各条",
+  "locator": "见各条",
+  "facts": [
+    {
+      "page": null,
+      "claim": "多米尼加琥珀（晚渐新世至早中新世，14–26 Ma）保存有乳白蚁属与异白蚁属的化石记录；散白蚁属现代种的最近共同祖先约在 18 Ma（另引 Dedeine 等 2015 的 18.4 Ma）。",
+      "quote": "Dominican Republic (Dominican amber), dated from the Late Oligocene to Early Miocene, 14–26 Ma [13,19].",
+      "src": "S0368",
+      "work": "Oceanic dispersal, vicariance and human introduction shaped the modern distribution of the termites Reticulitermes, Heterotermes and Coptotermes (Bourguignon et al. 2016)",
+      "unit": "Results / Divergence times（散白蚁属与化石年代）",
+      "locator": "L115–116 / 0001-0009.txt",
+      "status": "queued",
+      "note": "两属属页已写最老化石（欧洲 H. eocenicus 与波罗的海琥珀约 34 Ma），琥珀 14–26 Ma 一条可与冠群年代对照时再补，本轮页面未落。"
+    },
+    {
+      "page": null,
+      "claim": "瑞明乳白蚁（Coptotermes elisae）是台湾乳白蚁（Coptotermes formosanus）、C. kalshoveni、C. remotus、C. sepengensis 四者所构成支系的姐妹群，而不只是与台湾乳白蚁单系互为姐妹群。",
+      "quote": "C. elisae was the sister group of C. formosanus þ C. kalshoveni þ C. remotus þ C. sepengensis in PF32.",
+      "src": "S0368",
+      "work": "Oceanic dispersal, vicariance and human introduction shaped the modern distribution of the termites Reticulitermes, Heterotermes and Coptotermes (Bourguignon et al. 2016)",
+      "unit": "Results / Biogeography of Coptotermes（PF32 支系）",
+      "locator": "L260 / 0001-0009.txt",
+      "status": "queued",
+      "note": "本轮 `/species/coptotermes-elisae/` 与 `/species/coptotermes-formosanus/` 写作「与台湾乳白蚁互为姐妹群」，较原文的四种合并支系简化；下一轮可按此句细化，另三个种本站无页面，需只写拉丁名。"
+    },
+    {
+      "page": null,
+      "claim": "漂浮在海面上的树可为白蚁群体提供足够食物，使其存活数月，这是海洋筏运假说的机制前提。",
+      "quote": "tree floating on sea would probably contain enough food for a termite colony to survive for many months",
+      "src": "S0368",
+      "work": "Oceanic dispersal, vicariance and human introduction shaped the modern distribution of the termites Reticulitermes, Heterotermes and Coptotermes (Bourguignon et al. 2016)",
+      "unit": "Discussion / Transoceanic dispersal",
+      "locator": "L477–478 / 0001-0009.txt",
+      "status": "queued",
+      "note": "乳白蚁属页只写了「随漂浮木跨海」，可存活数月的机制细节留待属页扩写。"
+    },
+    {
+      "page": "/genus/ophiotermes/",
+      "claim": "蛇白蚁属（Ophiotermes）与方白蚁属（Cubitermes）一并计入土食白蚁的氮代谢测定；N2 与 N2O 排放速率都是几种白蚁合并给出的，摘要未按属分列。",
+      "quote": "Here, we studied the metabolism of nitrate in the different gut compartments of two Cubitermes and one Ophiotermes species using (15)N isotope tracer analysis.",
+      "src": "S0378",
+      "work": "Ngugi & Brune 2011, Environmental Microbiology",
+      "unit": "仅摘要记录 S0378",
+      "locator": "_unpublished/文库/10.1111-j.1462-2920.2011.02648.x/full.txt（摘要全文 1719 字符）",
+      "status": "rejected",
+      "note": "属级无独立事实：速率为三种白蚁合并值，写成蛇白蚁属的数字即把合并样本外推成属级结论（m01204），故该属页本轮不写；方白蚁属页只写机制、不写单一属的速率。"
+    },
+    {
+      "page": null,
+      "claim": "新热带具鼻状兵蚁的土食象白蚁亚科 8 属，其有翅成虫与工蚁上颚分三种模式：边缘齿列完整且无退化齿（凸白蚁属、阿特拉斯白蚁属、阿劳若白蚁属、凸鼻白蚁属、锥白蚁属、无颚白蚁属）、边缘齿列完整但两齿退化（棱角白蚁属）、边缘齿列不完整（摘要写作 Cyronotermes，本站名为巨鼻白蚁属 Cyranotermes）。",
+      "quote": "Three mandibular patterns are recognized: (1) Convexitermes, Atlantitermes, Araujotermes, Coatitermes, Subulitermes and Agnathotermes have mandibles with complete marginal dentition and no reduced teeth, (2) Angularitermes has mandibles with complete marginal dentition but two teeth are vestigial, and in (3) Cyronotermes the marginal dentition is incomplete.",
+      "src": "S0384",
+      "work": "Fontes 1986, Revista Brasileira de Zoologia",
+      "unit": "仅摘要记录 S0384",
+      "locator": "_unpublished/文库/10.1590-s0101-81751986000400003/full.txt（摘要全文 938 字符）",
+      "status": "queued",
+      "note": "6 个属共用同一模式，逐属写会成为复制段落；且摘要把巨鼻白蚁属写作 Cyronotermes，与本站 Cyranotermes 拼写冲突，待核对原文图版后再落到各属页。"
+    },
+    {
+      "page": null,
+      "claim": "对新几内亚未描述种 Termitogeton nr. planus 的品级发育研究：发育自 2 个白色不活动龄期（幼虫）开始，随后经 4 个拟工蚁龄期；老龄拟工蚁可经前兵蚁成为兵蚁，也可蜕为具长翅芽的若虫再发育为成虫；成熟群体约 10³ 头。",
+      "quote": "The development begins with two white inactive instars (larvae), the second of which possesses small wing buds.",
+      "src": "S0383",
+      "work": "Parmentier & Roisin 2002, Journal of Morphology",
+      "unit": "仅摘要记录 S0383",
+      "locator": "_unpublished/文库/10.1002-jmor.10047/full.txt（摘要全文 1829 字符）",
+      "status": "queued",
+      "note": "研究对象是 Termitogeton nr. planus 而非平坦寡脉白蚁（Termitogeton planus）本身，不能写入该种页面；寡脉白蚁属属页可作「无真正工蚁、品级经拟工蚁」的间接材料，但需与属页既有记述核对后再用。"
+    },
+    {
+      "page": null,
+      "claim": "佛罗里达 17 种白蚁的兵蚁与有翅成虫检索表：木白蚁科 10 种、鼻白蚁科 5 种、白蚁科 1 种。",
+      "quote": "Illustrated identification keys are presented for soldiers and winged adults of the following 17 termite species known from Florida: Calcaritermes nearcticus Snyder, Neotermes castaneus (Burmeister), N. jouteli (Banks), N. luykxi Nickle and Collins, Kalotermes approximatus Snyder, Incisitermes milleri (Emerson), I. minor (Hagen), I. schwarzi (Banks), I. snyderi (Light), Cryptotermes brevis (Walker",
+      "src": "S0137",
+      "work": "Scheffrahn & Su 1994, Florida Entomologist",
+      "unit": "仅摘要记录 S0137",
+      "locator": "摘要",
+      "status": "rejected",
+      "note": "只有名录级信息（列名字及其所在科），没有各种自身的事实，按 m01204 不写种页；可作地区名录页的二级引用，本轮无地区页。"
+    },
+    {
+      "page": "/species/pterotermes-occidentis/",
+      "claim": "直径约 220 Å 的纵向微管见于 Pillotina、Diplocalyx、Hollandina 三种螺旋体，也见于西部翅白蚁（Pterotermes occidentis）的一种滑行细菌，可能由微管蛋白组成。",
+      "quote": "Longitudinally aligned microtubules, about 220 A in diameter, have been seen in the protoplasmic cylinders of the following spirochetes (symbiotic in the hindguts of dry-wood and subterranean termites): Pillotina sp., Diplocalyx sp., Hollandina sp. They are also present in a gliding bacterium from Pterotermes occidentis. These microtubules are probably composed of tubulin, as determined by stainin",
+      "src": "S0154",
+      "work": "Margulis, To & Chase 1978, Science",
+      "unit": "仅摘要记录 S0154",
+      "locator": "摘要",
+      "status": "rejected",
+      "note": "西部翅白蚁在该文中只是「一种滑行细菌的宿主」被提及，摘要未给出该种自身形态、分布或行为事实，单独成段会变成框架性表述（SOP §8）。"
+    }
+  ]
+}

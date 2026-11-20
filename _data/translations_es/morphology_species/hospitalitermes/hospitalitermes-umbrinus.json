@@ -1,0 +1,21 @@
+{
+ "note": "Reescrito a partir de la descripción específica de Eutermes (Hospitalitermes) umbrinus Haviland en Holmgren, Termitenstudien (Kungl. Svenska Vetenskapsakademiens Handlingar, Bd. 50, No. 2, pp. 200—212); el original está en alemán. La entrada comprende cuatro castas: Imago, Königin, Soldat (Tafel VII, Fig. 33) y Arbeiter. La distribución se indica como Borneo: Sarawak (recogido por Haviland). Problemas de OCR: las longitudes corporales y algunas medidas de las distintas castas aparecen como cadenas ilegibles (la longitud con alas, la anchura de la cabeza y la anchura del pronoto del alado; la longitud corporal y la longitud de la cabeza del soldado; la longitud corporal del obrero), y siguiendo el PROTOCOL no se registran ni se conjeturan; el número de artejos antenales del alado y del obrero figura en el original como «153-gliedrig» y se interpreta como 15 artejos según el cómputo alemán (el «14-gliedrig» del soldado es claro); las cifras que pudieron leerse se dan con punto en lugar de la coma decimal alemana, como en el original, y los intervalos con «—». En la misma ventana se describe después la variedad E. umbrinus f. Sharpi (península de Malaca, Singapur; soldado semejante a la forma típica pero más pequeño y más claro), cuyas medidas también están en gran parte ilegibles y no se registran; el Eutermes (H.) hospitalis que sigue pertenece a otra especie y se ha excluido.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Cuerpo pardo oscuro, la parte anterior de la cabeza algo más clara. Antenas claras excepto el artejo basal; pronoto con una mancha en T y dos manchas escapulares; tibias y tarsos claros. Los terguitos torácicos son más claros que los abdominales, los esternitos ampliamente amarillentos en el centro; fémures pardos claros; alas oscuras. Cabeza sin pelos, abdomen muy escasamente piloso, alas bastante densamente cubiertas de pelos. Cabeza oval ancha, estrechada hacia delante. Ojos compuestos medianos, bastante fuertemente salientes. Ocelos medianos, a una distancia del ojo compuesto aproximadamente igual a su diámetro, su margen interno bastante fuertemente elevado. Fontanela muy grande, blanco amarillenta, mayor que el ocelo. Banda transversa bastante profundamente cóncava. Postclípeo corto, elevado. Antenas de 15 artejos, el artejo 3 menos de dos veces tan largo como el 2, el artejo 4 algo más largo que el 2. Pronoto grande, trapezoidal, mucho más largo que la mitad de su anchura, margen posterior débilmente cóncavo; márgenes posteriores del mesonoto y el metanoto amplia y profundamente cóncavos. Sector radial muy fuerte, con una «línea subcostal» amarillenta por debajo; media débil, con 2—3 ramas apicales; cubito con 10—14 ramas, de las cuales las 6—7 internas están engrosadas. Medidas: longitud del ala anterior 13.5—14, longitud de la cabeza 1.82."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza negra, naso (proyección frontal) claro. Antenas claras excepto el artejo basal. Escleritos del cuerpo pardos, los esternitos abdominales mucho más claros; fémures pardos claros; tibias y tarsos claros. Cabeza y dorso del cuerpo sin pelos. Cabeza en vista dorsal triangular redondeada, ensanchada en las antenas; naso cónico, relativamente largo y estrecho; frente deprimida por detrás de la base de las antenas. Antenas longitud 4, de 14 artejos, el artejo 3 casi 3 veces tan largo como el 2. Pronoto en silla de montar aplanada, margen anterior no cóncavo. Medidas: anchura de la cabeza 1.18, anchura del pronoto 0.68."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza pardo negruzca. Antenas claras excepto el artejo basal. Dorso del cuerpo pardo, la parte inferior del abdomen mucho más clara; fémures pardos; tibias y tarsos claros. Pilosidad como en el soldado. Cabeza pentagonal redondeada; sutura cefálica marcada; fontanela poco visible, con una depresión a su alrededor y en la parte anterior de la banda transversa; postclípeo corto, hinchado y elevado. Antenas de 15 artejos, el artejo 3 algo más largo que el 2. Pronoto en silla de montar, margen anterior no cóncavo; abdomen fuertemente elevado. Medidas: anchura de la cabeza 0.84—0.99, anchura del pronoto 0.53—0.65."
+  },
+  {
+   "label": "Otros",
+   "text": "Reina: longitud corporal 22; estructuras secundarias quitinizadas grandes; esternitos pigmentados."
+  }
+ ]
+}

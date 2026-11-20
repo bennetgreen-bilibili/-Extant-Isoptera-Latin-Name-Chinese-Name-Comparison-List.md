@@ -1,0 +1,29 @@
+{
+ "zh_name": "利顿土白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁与 O. javanicus 的兵蚁相似但较小。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头黄，体稻草黄。头被毛很稀，腹部背板被毛较多。头向前收窄极微，平凸。囟不明显。后唇基短。上唇尖，披针形，覆及闭合上颚之半以上。上颚弯曲极小，几直；左上颚第一三分之一处具一齿；右上颚同位置有退化齿，几不可见。触角 17 节：第 2 节等于第 3＋4 节；第 3 节等于第 4 节；第 5 节略短。前胸背板前缘缺刻较强。量度（毫米）：体长 5.5—6；连上颚头长 2.74；不连上颚头长 1.82；头宽 1.48；前胸背板宽 1.03。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头褐黄，体（透出肠内容）稻草黄。被毛较密。头近五边形而圆，厚。囟明显。后唇基颇大，拱起较强。触角 17—18 节；17 节者：第 2 节约等于第 3＋4 节，第 3 节短于第 4 节而等于第 5 节；18 节者：第 2 节约等于第 3＋4 节，第 3 节长于第 4 节的两倍以上。前胸背板前缘凹缺极微。量度（毫米）：头宽 1.41；前胸背板宽 0.76。"
+  },
+  {
+   "label": "其他",
+   "text": "分布：Billiton（C. Aurivillius 采），标本藏 Stockholm 的 Reichsmuseum。图版 V 图 9 为兵蚁。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0089",
+   "citation": "Holmgren N. 1913. Termitenstudien 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Kungliga Svenska Vetenskapsakademiens Handlingar 50(2).",
+   "locator": "p. 139（kunglsvenskavete50kung）"
+  }
+ ],
+ "note": "据 Holmgren 1913《Termitenstudien 4》p. 139 改写，原文德文；包内页眉只出现 139、140 两处，本种正文位于二者之间，但 OCR 行序有乱，起页可能为 p. 138，页码待核原刊。兵蚁量度五行标签 OCR 损毁（「IKörperlangepar a fo ang」「NRO [NIA ESR 3 ae nrg EN se」），数值 5,5—6、2,74、1,82、1,48、1,03 清晰；各行次序按同文同属其他种量度行的固定排列（体长／连上颚头长／不连上颚头长／头宽／前胸背板宽）判读，第 2、3 项与标签的对应仍需核对原刊 p. 139。工蚁体长一行 OCR 只剩乱码无数字，故未录；头宽 1,41、前胸背板宽 0,76 清晰。包内第 71 行起为 O. oblongatus 新种，未采用。"
+}

@@ -1,0 +1,25 @@
+{
+  "zh_name": "施米茨土白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "有翅成虫与 T. latialatus 相比，后者前胸背板前缘的缺刻几乎不可辨、前胸背板更宽；T. buchholzi 与 T. agilis 体型更大；T. salebrifrons 前胸背板宽约等于头在两复眼间处的宽度；T. culturarum 的单眼距眼更远；T. amanicus 前胸背板更大。兵蚁与 T. culturarum 相比后者较小；纳塔尔（Natal，1894 年，Haviland 采）的 T. badius 上颚比例上更长、头更短且两侧向前收狭更明显；T. monodon 的头比例上更宽；T. amanicus 近缘，但头面龙骨更明显。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "头褐色，卵形，密被长毛。囟为额中央的一个小点。触角 19 节，第 3 节略小于第 4 节，第 4 节短于第 2 节。复眼颇大，距头下缘颇近。单眼在雄性中大，距眼小于其宽度；在雌性中较小，距眼约等于其宽度。上唇具一条浅色横带。后唇基长远不及宽之半，中纵线可见。前胸背板颜色与头近同；两侧强烈向后收拢，角圆；后缘略凹，前缘凹入。中胸与后胸背板后缘宽凹，角圆。翅黄褐色。量度（mm）：连翅长 25.00—26.00，去翅长 11.00—12.00，头长 2.89—3.06，头宽 2.62—2.71，眼径 0.73—0.74，前胸背板长 1.09—1.23，前胸背板宽 2.23—2.36，后足胫节长 2.71—2.80，前翅长 21.00—22.00，前翅宽 5.50—5.60；蚁后体长 75.00，蚁后腹部宽 18.00。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "头红黄色；两侧略圆，向前收狭；头面疏生数根刚毛。触角 17 节，第 3 节小于第 2 节，第 4 节与第 2 节等长。触角基后方具黑色眼点。上颚除基部外黑色。前胸背板前缘与后缘均凹入。量度（mm）：头长 5.25—5.68，头宽 2.89—3.23，触角长 2.62—2.89，前胸背板长 0.87—1.05，前胸背板宽 1.95—2.01，后足胫节长 2.27—2.45，左上颚长 1.66—1.92。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0075",
+      "citation": "Emerson A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57 (Article VII). file: _unpublished/文库/Termites-of-the-Belgian-Congo-and-the-Cameroon/part-001.txt",
+      "locator": "pp. 456—458（Termes (Termes) schmitzi，Text Figs. 18—19）"
+    }
+  ],
+  "note": "据 Emerson (1928) 种级描述改写，原文英文；原书以旧组合 Termes (Termes) schmitzi 发表，现置于 Odontotermes（Species File：Odontotermes schmitzi (Emerson, 1928)），模式产地 Stanleyville 与名录一致。正模为有翅成虫，形态型（morphotype）为兵蚁；描述基于多只有翅成虫与兵蚁、一头蚁后（No. 25T）及多只工蚁，工蚁未单独描述。模式产地：比属刚果 Stanleyville 一带（Kohl 采，No. 22T）；另一产地：Lukolela 附近（Lang-Chapin 采，1909 年 7 月 17 日）。种名献给耶稣会士 H. Schmitz 神父。原文另有一个蚁后量度（体长 75.00 mm、腹部宽 18.00 mm）已并入有翅成虫段。OCR 问题：连翅长原为「25 00-26.00」（小数点识别为空格）、后足胫节原为「2 . 71- 2.80」，已按数值复原；异名引证、图号与比较段中未涉及本种的部分未译。"
+}

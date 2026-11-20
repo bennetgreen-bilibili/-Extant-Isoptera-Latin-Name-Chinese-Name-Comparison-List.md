@@ -1,0 +1,21 @@
+{
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Cabeza y dorso negro ahumado, abdomen castaño, con una banda transversal pajiza de anchura variable en la parte media. Todos los segmentos cubiertos de pelos cortos y largos. Cabeza con una fenestra redonda. Ocelos algo separados de los ojos. Antenas de 15 artejos; artejo 3 aproximadamente la mitad de la longitud del artejo 2 o más corto; artejo 4 algo más largo que el artejo 3. Pronoto dos veces más ancho que largo, ángulos anteriores redondeados, parte posterior ampliamente redondeada. Superficie alar con espinas triangulares muy pequeñas y algunos pelos dispersos. Ala anterior: media con 2-4 venillas, submedia con 9 venillas. Cercos muy cortos, de 2 artejos, artejo 2 cónico, con setas largas. Tibias con unas pocas espinas pequeñas en una sola fila por debajo, ápice con 2 espinas robustas. Medidas (mm): longitud del cuerpo (con alas) 16,5; longitud del cuerpo 8,5; longitud de las antenas 2,1; anchura de la cabeza 1,3; longitud del pronoto 0,7, anchura 1,4; longitud del ala anterior 14, longitud del ala posterior 13,5."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza y pronoto pajizos; abdomen más o menos gris según el alimento. Segmentos con pelos cortos y pelos largos dispersos. Antenas de 14 artejos; artejo 3 más corto que el artejo 2. Margen anterior del pronoto semicircular. Medidas: esta línea está corrupta en el OCR del original como \"Lons; corp: eslataea pit ale\", ilegible, y no se ha restituido por conjetura."
+  },
+  {
+   "label": "Ninfa",
+   "text": "Cuerpo pálido, ojos negros. Antenas de 15 artejos. Medidas (mm): longitud del cuerpo 8,5; longitud del esbozo alar 1,4."
+  },
+  {
+   "label": "Otros",
+   "text": "Reina: longitud del cuerpo 25; anchura del abdomen 5,5 (mm). Larva: cuerpo enteramente pálido, cubierto de pelos cortos; antenas de 12 artejos, artejo 3 desnudo e igual en longitud al artejo 2; longitud del cuerpo 1,1 (mm). Distribución: Tacurù Pucù, Villa Encarnacion y Villa Rica, Paraguay; S. Ana (Misiones), Argentina. El soldado falta en este género (Miles — Abest)."
+  }
+ ],
+ "note": "Reescrito a partir de la descripción latina de Anoplotermes pacificus en Termitidi e termitofili dell'America meridionale, de Silvestri; el original emplea la coma como separador decimal en las medidas (p. ej. 16,5), que se reproducen tal como están impresas. La línea de medidas del obrero está corrupta en el OCR (\"Lons; corp: eslataea pit ale\") y no se ha restituido por conjetura. La descripción genérica original registra la ausencia de soldado (Miles — Abest) y antenas de 14 artejos en el obrero. El año 1903 sigue el identificador de archive.org redia11903isti; la portada no aparece en el fragmento capturado."
+}

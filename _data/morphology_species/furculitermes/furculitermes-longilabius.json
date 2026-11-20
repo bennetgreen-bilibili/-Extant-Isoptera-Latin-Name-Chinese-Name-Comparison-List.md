@@ -1,0 +1,21 @@
+{
+ "zh_name": "长唇叉白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁上颚呈肘状弯曲的程度较浅，且较长；头侧面轮廓与 F. soyeri 相似，但上唇中部明显更长。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头（自上视）显著向头前部收窄；头顶侧面观微凹；后颏（postmentum）侧面观均匀凸出。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0100",
+   "citation": "Emerson, A. E. 1960. American Museum Novitates, No. 1988: 30-33 (new Termitinae).",
+   "locator": "pp. 31-32"
+  }
+ ],
+ "note": "据 Emerson 1960（American Museum Novitates No. 1988）「Furculitermes longilabius, new species」的兵蚁描述改写，原文英文。素材包在该种兵蚁描述第 3 句处截断（「Profile of postmentum evenly convex, withou…」），后续形态描述、量度表与模式标本／模式产地记载均不在包内，故无量度可录，仅保留能可靠读出的 3 句；包内另有同属 F. longilabius 与 F. soyeri 的比较句，用作鉴别要点。题名与年份据页眉（1960 EMERSON: NEW TERMITINAE；AMERICAN MUSEUM NOVITATES No. 1988）与标识符 sixnewgenerater1988emer 推定，未见完整题名与作者全名。OCR 问题：Fics.（FIGS.）、SOYERT（SOYERI）等，不影响形态读取。"
+}

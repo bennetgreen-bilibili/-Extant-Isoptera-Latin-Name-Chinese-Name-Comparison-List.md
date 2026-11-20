@@ -1,0 +1,21 @@
+{
+ "note": "Adaptado de la descripción original en inglés de Emerson (1928) (especie nueva Mirotermes (Cubitermes) orthognathus, transferida después a Nitiditermes); el original describe al soldado y al obrero, sin alado. La entrada \"longitud de la cabeza con mandíbulas\" está incompleta en el OCR del original (dice 3.7^,) y la cifra es incompleta, por lo que no se ha utilizado. La localidad tipo figura en el original como Faradie, es decir Faradje, Congo (Kinshasa) (coincidente con la página de la especie en este sitio); la nota del registro la indica entre paréntesis.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "En el soldado las mandíbulas son muy rectas, curvadas solo en el ápice; las mandíbulas de Mirotermes bisulcatus y M. sankurensis están más fuertemente curvadas, mientras que las de M. minitabundus son más cortas que la cabeza."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cápsula cefálica amarillo rojiza; los lados bastante rectos, ligeramente estrechados hacia delante. Antenas de 15 artejos, el artejo 3 algo más corto que el 4, el artejo 4 aproximadamente tan largo como el 2. Mandíbulas muy rectas, curvadas solo en el ápice. Margen anterior del pronoto cóncavo. Medidas: longitud de la cabeza (hasta el borde posterior de la base antenal) 1.78 mm; anchura de la cabeza 1.67 mm; longitud de las antenas 2.33 mm; longitud del pronoto 0.44 mm; anchura del pronoto 0.89 mm; longitud de la tibia posterior 1.27 mm; longitud de la mandíbula izquierda 1.95 mm; curvatura de la mandíbula izquierda 0.24 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Antenas de 15 artejos. Anchura de la cabeza 1.11 mm; longitud de la tibia posterior 1.11 mm."
+  },
+  {
+   "label": "Otros",
+   "text": "Localidad tipo Faradje, Congo Belga (el OCR del original dice Faradie), recolectada por Lang-Chapin, No. 316; holotipo un soldado (AMNH). Otras localidades: Faradje (No. 316, 335, 1912, meses 1-2), cerca de Yakuluku (No. 302, 303, 1911, mes 12). La descripción se basa en numerosos soldados y obreros. Las notas de campo de Lang indican que los No. 316 y 303 proceden de una \"estructura termítica en forma de seta\"; el frasco del No. 302 contenía además Ancistrotermes crucifer, Nasutitermes suffuscus y Mirotermes (Euchilotermes) quadriceps."
+  }
+ ]
+}

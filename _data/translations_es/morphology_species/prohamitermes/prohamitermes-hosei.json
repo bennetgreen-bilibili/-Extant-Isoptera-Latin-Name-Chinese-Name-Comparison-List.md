@@ -1,0 +1,21 @@
+{
+ "note": "Reescrito a partir de Holmgren 1913, Termitenstudien 4, p. 220—221; el original está en alemán. Las descripciones del alado y del obrero proceden de Desneux (originalmente en francés), mientras que el soldado es descripción del propio Holmgren. El OCR francés presenta muchas erratas de letras (pubeseent=pubescent, artieles=articles, eötes=côtés, ecliancre=échancré, Longeur=Longueur, milk=mill.), que se han leído correctamente por el contexto, sin modificar los valores de las medidas. Las medidas del soldado figuran en el original en cuatro líneas (Kopf mit Kiefern 2,85 / ohne 2,09 / Kopfbreite 1,82 / Breite des Pronotums 1,14) y se han hecho corresponder a los términos completos en chino. El material que sigue en el lote es la clave del género Eurytermes y E. Assmuthi, que no se han utilizado.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "Cabeza pardo amarillento, mandíbulas pardas; cuerpo amarillo pajizo a amarillo oxidado pálido. Cabeza con algunas sedas; margen posterior de los terguitos abdominales con sedas cortas. Cabeza ancha, cuadrada de ángulos redondeados, claramente estrechada hacia delante, algo más larga que ancha. Fontanela pequeña, situada algo por detrás del centro de la cabeza. Postclípeo corto y ancho, plano. Labro redondeado-ligulado. Mandíbulas fuertemente curvadas, puntiagudas, anchas, con los dientes típicos. Antenas largas, de 15 artejos, artejos 2, 3 y 4 subiguales. Postmentón planoconvexo. Lóbulo anterior del pronoto grande, erecto, triangular, con una escotadura marcada en el centro de su margen anterior. Medidas (mm): longitud del cuerpo 7—7.6; longitud de la cabeza con mandíbulas 2.85; longitud de la cabeza sin mandíbulas 2.09; anchura de la cabeza 1.82; anchura del pronoto 1.14."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza pardo grisáceo pálido, redondeada, pieza clypeal muy prominente. Antenas más cortas que en el soldado, de 15 artejos, artejos 2 y 3 subiguales. Pronoto en forma de silla de montar, lóbulo anterior bastante grande, erecto y levantado. Abdomen dilatado, gris oscuro por el contenido intestinal. Longitud del cuerpo 5—6 mm."
+  },
+  {
+   "label": "Alado",
+   "text": "Dorso pardo negruzco, bastante densamente piloso, vientre pálido. Cabeza oval, estrechada hacia delante en triángulo, con la superficie superior casi plana. Fontanela presente pero muy pequeña. Ojos compuestos bastante pequeños y salientes, circulares; ocelos ovales, con una distancia al ojo compuesto menor que su propia longitud. Antenas de 16 artejos, artejos 2 y 3 subiguales y delgados, más largos que el artejo 4. Pieza clypeal algo más pálida que la frente, con la proyección poco aparente. Los dos primeros dientes mandibulares subiguales. Pronoto algo más estrecho que la cabeza incluidos los ojos compuestos, ligeramente estrechado en la parte posterior, margen anterior recto, lados más o menos redondeados, margen posterior con una escotadura bastante ancha. Márgenes posteriores del meso- y del metanoto escotados, con los ángulos estrechados. Alas bastante grandes, ligeramente pardo amarillentas; costa y radio gruesos y muy próximos; media casi recta, más cercana al cúbito que al radio, alcanzando el ápice del ala, con 1 rama o sin ramificar; varias venas oblicuas entre la media y el radio; cúbito largo, con unas 11 ramas hacia el margen posterior. Longitud del cuerpo 7—7.5 mm; ala anterior (sin la escama) 13.6 x 3.9 mm."
+  },
+  {
+   "label": "Otros",
+   "text": "Distribución: Sarawak (recolectado por Hose). La lámina VIII, Fig. 14 representa el soldado."
+  }
+ ]
+}

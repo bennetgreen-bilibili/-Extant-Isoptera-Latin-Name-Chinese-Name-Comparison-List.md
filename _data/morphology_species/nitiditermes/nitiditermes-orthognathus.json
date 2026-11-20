@@ -1,0 +1,29 @@
+{
+ "zh_name": "直颚净白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁上颚极直，仅端部弯曲；Mirotermes bisulcatus 与 M. sankurensis 的上颚弯曲更强，M. minitabundus 的上颚则短于头长。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头壳红黄色；两侧较直，向前略收窄。触角 15 节，第 3 节略短于第 4 节，第 4 节约与第 2 节等长。上颚极直，仅端部弯曲。前胸背板前缘凹入。量度：头长（至触角基后缘）1.78 mm；头宽 1.67 mm；触角长 2.33 mm；前胸背板长 0.44 mm；前胸背板宽 0.89 mm；后足胫节长 1.27 mm；左上颚长 1.95 mm；左上颚弯曲度 0.24 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "触角 15 节。头宽 1.11 mm；后足胫节长 1.11 mm。"
+  },
+  {
+   "label": "其他",
+   "text": "模式产地比属刚果 Faradje（原文 OCR 作 Faradie），Lang-Chapin 采集，第 316 号；正模为兵蚁（AMNH）。其他产地：Faradje（第 316、335 号，1912 年 1、2 月）、Yakuluku 附近（第 302、303 号，1911 年 12 月）。描述据众多兵蚁与工蚁。Lang 的野外记录称第 316、303 号采自「蘑菇状白蚁构造」；第 302 号同瓶另有 Ancistrotermes crucifer、Nasutitermes suffuscus 与 Mirotermes (Euchilotermes) quadriceps。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0747",
+   "citation": "Emerson, A. E. 1928. Termites of the Belgian Congo and the Cameroon. Bulletin of the American Museum of Natural History 57: 401-574 (Mirotermes (Cubitermes) orthognathus, new species).",
+   "locator": "pp. 525-526，图 65，Mirotermes (Cubitermes) orthognathus 新种"
+  }
+ ],
+ "note": "据 Emerson 1928 年英文原始描述（新种 Mirotermes (Cubitermes) orthognathus，后归 Nitiditermes）改写，原文描述兵蚁与工蚁，无有翅成虫。「头连上颚长」一项原文 OCR 残缺（作 3.7^,），数字不完整，未采入。模式产地原文作 Faradie，即刚果（金）Faradje（与本站种名页一致），条目内已括注。"
+}

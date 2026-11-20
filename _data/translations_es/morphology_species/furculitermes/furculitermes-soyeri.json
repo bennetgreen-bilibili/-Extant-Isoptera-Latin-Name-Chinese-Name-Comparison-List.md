@@ -1,0 +1,13 @@
+{
+ "note": "Reescrito a partir de la descripción de la nueva especie en Emerson 1960 (American Museum Novitates n.º 1988); el original está en inglés. Solo se describe el soldado; el alado y el obrero no se describen. Las medidas proceden de la tabla 10 de esa obra: los valores de la columna del holotipo y de algunas columnas de paratipos fueron truncados o desalineados por el OCR (los valores del holotipo para la longitud de la cabeza hasta el ápice de la proyección frontal, el grosor de la cabeza, la longitud media del postmentón y la longitud de la mandíbula izquierda desde el diente hasta el ápice), por lo que solo se dan las cifras que pueden leerse con fiabilidad, sin conjeturas. A partir de la línea 88 el paquete de fuentes pasa a la especie siguiente, Furculitermes parviceps, cuya descripción no se utiliza.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "En el soldado la parte media del labro es más larga y los lóbulos laterales son anchos, con el margen externo fuertemente curvado, combinación única entre las especies conocidas del género. En comparación con F. longilabius, el postmentón de esta especie está algo elevado en el centro en vista lateral (uniformemente convexo y sin elevación en aquella), y la escotadura media del margen anterior del pronoto es más profunda."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza ligeramente estrechada hacia delante. Margen superior de la cabeza débilmente convexo en vista lateral. Proyección frontal bastante ancha en vista dorsal (1.04 mm). Postmentón algo elevado en el centro en vista lateral. Antenas de 15 artejos. Parte media del labro más larga, lóbulos laterales anchos con el margen externo fuertemente curvado. Mandíbulas ligeramente acodadas, la sección media más bien recta. Escotadura media del margen anterior del pronoto más profunda. Medidas (mm; holotipo, entre paréntesis el intervalo de los paratipos): longitud de la cabeza con mandíbulas 3.68 (3.59); longitud de la cabeza hasta la base mandibular 1.91 (1.74—1.88); longitud de la cabeza hasta el ápice de la proyección frontal 1.65—1.79 (paratipos); anchura de la cabeza 1.60 (1.53—1.72); grosor de la cabeza con el postmentón 1.26; longitud media del postmentón 0.85; anchura máxima del postmentón 0.45 (0.43—0.46); anchura mínima del postmentón 0.30; longitud media del labro 0.32 (0.27—0.32); longitud del lóbulo lateral del labro desde la base 1.04 (0.93—1.03); longitud de la mandíbula izquierda 2.06 (1.97—2.12); longitud de la mandíbula izquierda desde el diente hasta el ápice 1.12—1.28 (paratipos); longitud del pronoto 0.37 (0.37—0.41), anchura 0.83 (0.80—0.88); longitud de la tibia posterior 1.18 (1.12—1.21)."
+  }
+ ]
+}

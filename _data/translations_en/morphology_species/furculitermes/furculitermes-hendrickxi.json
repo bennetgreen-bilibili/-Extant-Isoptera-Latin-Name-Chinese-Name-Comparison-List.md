@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The soldier resembles F. winifredae in size and proportions, differing in the shape of the labrum (Figs. 9A, 9G), especially in the length of the lateral lobes of the labrum from the base; F. cubitalis has more strongly bent mandibles (Fig. 10C) and a concave vertex in lateral view."
+  },
+  {
+   "label": "Soldier",
+   "text": "Vertex flat or slightly convex in lateral view, without a concavity behind the frontal projection; sides of the head narrowing anteriorly. Antennae 15-segmented. Outer margin of the labrum slightly convex, lateral lobes short. Outer margin of the mandibles rather evenly convex. Table 6 of the original lists 17 measurements, all of whose values are destroyed in the OCR; see the note."
+  },
+  {
+   "label": "Other",
+   "text": "Known only from the soldier. Holotype soldier, 1 specimen: Camp Putnam (1°24′N, 28°36′E), Epulu River, Belgian Congo, 1948-5-12; taken near the ground in a tree, in an old sealed Cubitermes nest, together with Crenetermes, Noditermes and Pericapritermes in the same nest. The species is named after M. F. L. Hendrickx."
+  }
+ ],
+ "note": "Rewritten from the species-level description on pp. 25–26 of Emerson 1960 (American Museum Novitates No. 1988, Six new genera of Termitinae from the Belgian Congo (Isoptera, Termitidae)), the original in English. Table 6 of the original lists the column headings of 17 soldier measurements (head length with mandibles, head width, length of the lateral lobe of the labrum, pronotal length and width, hind tibia length, etc.), but the values are entirely destroyed in the OCR, reduced to strings such as \"FPF oornNcocoorrrF Wb\" and \"POWWNHAN WP OWA CO OR\", which cannot be matched column by column; the measurements are therefore omitted altogether and not conjecturally restored. The species was described from a single holotype soldier. From line 177 of the source pack the text is the new species Furculitermes brevilabius, which was not used."
+}

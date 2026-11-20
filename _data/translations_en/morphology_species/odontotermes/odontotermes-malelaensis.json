@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from Emerson's 1928 new-species description; originally in English, under the old combination Termes (Termes) malelaensis, now placed in Odontotermes. OCR: the labels of the measurement table (head length, head width, pronotal length/width, hind tibia length, left mandible length) and the values were split into two stretches and have been matched in label order and value order (3.20 / 1.61—1.70 / 0.70 / 1.10 / 1.40—1.56 / 1.19—1.28); the 0 before the decimal point is often lost.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Very close to T. pauperans, but according to Silvestri's figures the shape of the mandibles and of the teeth differs, and the size is slightly larger; also close to T. ostentans, but the mandibular dentition (according to Silvestri's figures) differs; close to T. sudanensis but with the anterior part of the head narrower; T. badius is distinctly larger."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head red-yellow, the anterior part distinctly darker; the anterior part slightly narrowed; with a few scattered setae. Antennae 17-segmented, segment 3 the shortest, segment 4 shorter than segment 2. Eye spot dark. Labrum rounded at the sides, the tip far less pointed than in T. sjostedti var. evansi; the apex with a row of long setae. With the mandibles closed the labrum does not reach the tooth of the left mandible. Mandibles dark red-brown, the base concolorous with the head. Anterior margin of the pronotum concave. Measurements: head length 3.20 mm; head width 1.61—1.70 mm; pronotal length 0.70 mm; pronotal width 1.10 mm; hind tibia length 1.40—1.56 mm; left mandible length 1.19—1.28 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Antennae 17-segmented; head width 1.45 mm."
+  },
+  {
+   "label": "Other",
+   "text": "Holotype a soldier (A. M. N. H.), described from numerous soldiers and workers collected by Lang and Bequaert from the same nest; type locality Malela, Belgian Congo (Lang-Chapin Coll. No. 961, 1915-07-04). The nest is a clay mound about 30 cm high with a large fungus garden inside."
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "note": "La entrada de esta especie en el paquete de fuentes contiene solo las «medidas complementarias de un único soldado de la colonia típica» y la nota sobre las antenas de la reina; no hay texto descriptivo. La descripción original está en Hill 1915 (Proc. Linn. Soc. N.S.W., vol. XL, lám. IV fig. 121), que el paquete no incluye, por lo que esta entrada solo tiene medidas. El original emplea la combinación antigua Mirotermes froggatti. OCR: las etiquetas y los valores de la tabla de medidas están dispuestos en dos columnas (primero la etiqueta, después el valor) y se corresponden en orden; «1 *15» y «0-90» se leen como 1.15 y 0.90 respectivamente.",
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "El paquete de fuentes solo proporciona las medidas complementarias de un único soldado de la colonia típica: longitud de la cabeza (hasta el ápice de la proyección frontal) 1.15 mm; anchura de la cabeza 0.90 mm; longitud del pronoto 0.23 mm; anchura del pronoto 0.47 mm; longitud de la tibia posterior 0.78 mm."
+  },
+  {
+   "label": "Otros",
+   "text": "Nota del original: la reina del material típico se describe con antenas de 13 artejos, pero falta el artejo terminal, por lo que el número real de artejos no puede determinarse. Localidad Darwin, Territorio del Norte."
+  }
+ ]
+}

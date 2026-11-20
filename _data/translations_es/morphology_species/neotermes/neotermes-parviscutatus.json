@@ -1,0 +1,21 @@
+{
+ "note": "Reescrito a partir de la descripción de la nueva especie N. parviscutatus en Light 1930, Philippine Termites, IV; el fragmento comienza en la parte final de la descripción del alado, por lo que la descripción previa de la cabeza del adulto, las alas y cuestiones similares, así como la diagnosis, no están incluidas. La longitud del cuerpo del soldado figura como \"8-00\" en el OCR del original y se reproduce tal cual. La frase \"shorter than long\" sobre las antenas de la ninfa es así en el original y no se ha modificado.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Lados del pronoto convexos, ángulos posterolaterales muy retraídos y unidos a un margen posterior casi recto, ligeramente cóncavo cerca del centro y sin escotadura; los dos extremos del pronoto parecen doblados hacia delante en el cuarto externo; aparte de los caracteres anteriores y de los indicados en la diagnosis, similar a N. malatensis (el fragmento comienza a mitad de este párrafo y el texto previo se ha perdido). Medidas (mm, rey / reina): longitud del cuerpo 11.0 / 12.0; longitud de la cabeza (total) 2.34 / 2.34; longitud de la cabeza (hasta la sutura frontoclipeal) 1.82 / 1.82; anchura de la cabeza 2.16 / 2.16; diámetro del ojo 0.64 / 0.64; diámetro del ocelo 0.27 / 0.27; anchura del pronoto (in situ) 2.34 / 2.34; longitud del pronoto (in situ) 1.24 / 1.24."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza arqueada, ensanchada en la parte posterior, estrechada hacia delante, lados convexos; suturas marcadas; margen dorsal de las fosas antenales proyectado y levantado. Mandíbulas apenas curvadas hacia arriba; mandíbula izquierda con 2 dientes próximos entre sí cerca del ápice; mandíbula derecha con 2 dientes muy separados, de los cuales el más distal es opuesto al diente más proximal de la mandíbula izquierda; mandíbula izquierda más incurvada que la derecha, con la base claramente dilatada. Ojos reducidos a una mancha translúcida vertical estrecha y alargada. Pronoto muy corto, mucho más estrecho que la cabeza, margen anterior anchamente cóncavo y margen posterior convexo; lados muy convexos, que pasan suavemente a los márgenes anterior y posterior; mesonoto y metanoto mucho más estrechos que el pronoto. Medidas (mm): longitud del cuerpo 8-00; longitud de la cabeza (con mandíbulas) 3.55; longitud de la cabeza (sin mandíbulas) 2.16; anchura de la cabeza 1.93; longitud del pronoto 0.63; anchura del pronoto 1.62."
+  },
+  {
+   "label": "Ninfa",
+   "text": "Pequeña, la mayor de menos de 6 mm; sin rastro de esbozos alares; cabeza amarillo pálido, cuerpo casi blanco amarillento; parte posterior de la cabeza redondeada, lados aproximadamente paralelos, ligeramente dilatados por debajo de las antenas; antenas de 12 o 13 artejos (11 en individuos muy jóvenes), artejo I el mayor, artejo II mayor que los artejos III a VII, artejo III pequeño pero mayor que IV y V; artejo IV muy pequeño, discoidal, a menudo indistinguible del III; artejo V de dos a tres veces más largo que el IV pero más corto que largo (así en el original); artejo VI casi tan largo como ancho; artejos VII hasta el penúltimo aumentando gradualmente de tamaño; artejo terminal más pequeño y estrecho. Pigmento ocular pálido. Pronoto pequeño, con la forma del soldado. Cuerpo como en el soldado. Cercos marcados, estilos largos y delgados. Medidas (mm): longitud del cuerpo 6.0; anchura de la cabeza 1.42; longitud de la cabeza 1.62; longitud de la cabeza (hasta la sutura frontoclipeal) 1.40; anchura del pronoto (in situ) 1.20; longitud del pronoto 0.45."
+  },
+  {
+   "label": "Otros",
+   "text": "Localidad típica: montañas detrás de Dumaguete, Negros Occidental, isla de Negros; números 564 y 567; recolectados por J. W. Chapman y S. F. Light el 9 de mayo de 1921 (mes 5); de un tocón cuyo resto había proporcionado colonias de Glyptotermes y Heterotermes."
+  }
+ ]
+}

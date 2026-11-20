@@ -1,0 +1,17 @@
+{
+ "note": "Reescrito a partir de Silvestri 1914; el original está en latín. Esta sección del original trata de var. redundans nov., una variedad de P. holmgreni (Silv.), y describe sólo el soldado y el obrero, siendo las medidas dadas las de la variedad; el original indica que su soldado es \"aliquantum major\" (algo mayor) que en la forma típica, y no da medidas de la forma típica. El original usa una coma pequeña como signo decimal (5,5, es decir, 5.5 mm); en esta entrada se cambian al punto decimal, sin modificar las cifras. El símbolo de fracción aparece en el OCR como \"!/,\" y \"1,/\" y se lee como 1/4 según el uso de la misma obra. La longitud de la cabeza del obrero 0.95 y la anchura de la cabeza 1.04 están separadas en el OCR por el pie de figura \"Fig. LXXIX. Promirotermes Holmgreni v. redundans: 1.-2. militis caput pronum et lateraliter inspectum; 3. ejusdem frontis pars mediana cum labro.\", conservándose como \"cap. 0,95\" y \"dem lat. 1,04\" respectivamente; se han restaurado por el contexto, sin modificar las cifras. El número de página se deduce del marcador de página \"— 134 —\" del texto. Localidad: Mamou, Guinea francesa. La lámina LXXIX, figuras 1—3 (cabeza del soldado en vista frontal y lateral, parte frontal con el labro) no se traduce.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El soldado de esta variedad (var. redundans) es algo mayor que en la forma típica de la especie, para la que el original no da medidas; el margen anterior del labro es profunda y anchamente cóncavo, con los lados ligeramente convexos, y las antenas tienen 14 artejos."
+  },
+  {
+   "label": "Soldado",
+   "text": "Soldado algo mayor que en la forma típica de la especie. Labro (lámina LXXIX, 3) con el margen anterior profunda y anchamente cóncavo y los lados ligeramente convexos; antenas de 14 artejos, el artejo 3 aproximadamente 1/4 más largo que el artejo 2, el artejo 4 casi tan largo como el artejo 2. Medidas (mm): longitud del cuerpo 5.5; longitud de la cabeza 1.45, anchura de la cabeza 1.20; longitud de las mandíbulas 1.82; longitud de las antenas 2.50; tibia posterior 1.30."
+  },
+  {
+   "label": "Obrero",
+   "text": "Medidas (mm): longitud del cuerpo 5.2; longitud de la cabeza 0.95, anchura de la cabeza 1.04; longitud de las antenas 1.56; tibia posterior 1.04. El artejo antenal 2 es aproximadamente 1/4 más largo que el artejo 3, y el artejo 3 aproximadamente 1/4 más largo que el artejo 4."
+  }
+ ]
+}

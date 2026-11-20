@@ -1,0 +1,21 @@
+{
+ "note": "Reescrito a partir de Holmgren 1913, Termitenstudien 4, p. 139; el original está en alemán. En los encabezados de página del lote escaneado sólo aparecen 139 y 140, y el texto de esta especie se sitúa entre ambos, pero el orden de las líneas del OCR está alterado y la página inicial podría ser la p. 138, por lo que la paginación queda pendiente de comprobación con la revista original. Las etiquetas de las cinco filas de medidas del soldado están destruidas en el OCR (\"IKörperlangepar a fo ang\", \"NRO [NIA ESR 3 ae nrg EN se\"), mientras que los valores 5,5—6, 2,74, 1,82, 1,48, 1,03 son claros; el orden de las filas se interpreta según la disposición fija de las filas de medidas de otras especies del mismo género en la misma obra (longitud del cuerpo / longitud de la cabeza con mandíbulas / longitud de la cabeza sin mandíbulas / anchura de la cabeza / anchura del pronoto), y la correspondencia de los puntos 2 y 3 con sus etiquetas aún debe comprobarse con la p. 139 de la revista original. En el obrero, la fila de la longitud del cuerpo sólo se conserva en el OCR como basura sin cifras, por lo que no se registra; la anchura de la cabeza 1,41 y la anchura del pronoto 0,76 son claras. El material a partir de la línea 71 corresponde a la nueva especie O. oblongatus, que no se ha utilizado.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El soldado se parece al de O. javanicus pero es más pequeño."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza amarilla, cuerpo amarillo pajizo. Pilosidad de la cabeza muy escasa, la de los terguitos abdominales más densa. Cabeza muy ligeramente estrechada hacia delante, planoconvexa. Fontanela indistinta. Postclípeo corto. Labro puntiagudo, lanceolado, que cubre más de la mitad de las mandíbulas cerradas. Mandíbulas muy ligeramente curvadas, casi rectas; mandíbula izquierda con un diente en el primer tercio; mandíbula derecha con un diente degenerado, casi invisible, en la misma posición. Antenas de 17 artejos: artejo 2 igual a los artejos 3 + 4; artejo 3 igual al 4; artejo 5 algo más corto. Margen anterior del pronoto con una escotadura bastante marcada. Medidas (mm): longitud del cuerpo 5.5—6; longitud de la cabeza con mandíbulas 2.74; longitud de la cabeza sin mandíbulas 1.82; anchura de la cabeza 1.48; anchura del pronoto 1.03."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza pardo amarillento, cuerpo (con el contenido intestinal visible) amarillo pajizo. Pilosidad bastante densa. Cabeza subpentagonal y redondeada, gruesa. Fontanela marcada. Postclípeo bastante grande, fuertemente arqueado. Antenas de 17—18 artejos; con 17 artejos: artejo 2 aproximadamente igual a los artejos 3 + 4, artejo 3 más corto que el 4 e igual al 5; con 18 artejos: artejo 2 aproximadamente igual a los artejos 3 + 4, artejo 3 más de dos veces más largo que el artejo 4. Margen anterior del pronoto muy ligeramente escotado. Medidas (mm): anchura de la cabeza 1.41; anchura del pronoto 0.76."
+  },
+  {
+   "label": "Otros",
+   "text": "Distribución: Billiton (recolectados por C. Aurivillius), ejemplares en el Reichsmuseum, Estocolmo. La lámina V, Fig. 9 representa el soldado."
+  }
+ ]
+}

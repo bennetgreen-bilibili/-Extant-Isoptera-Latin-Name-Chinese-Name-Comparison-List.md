@@ -1,0 +1,13 @@
+{
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head reddish brown except the vertex; vertex, genae and the region around the rostral hump slightly paler; antennae, coxae and femora brown; sternites, tibiae and tarsi light brown; tergites dark brown. A pair of setae on the vertex, a pair behind the frons, 1–2 on the frons; pronotal margins with very short setae; tergites with short, scattered setae; sternites with long setae. Head shaped as in the original figure; in lateral view moderately concave, the rostral hump slightly indicated; rostrum short. Antennae 14-segmented; segment 2 half the length of segment 3, segment 3 slightly longer than segment 4. Pronotum nearly twice as wide as long; anterior margin moderately convex. Measurements (10 soldiers, in mm; range / mean): head length (including rostrum) 1.62–1.82/1.76; head width 1.09–1.19/1.15; rostrum length (from the tip of the rostrum to the deepest point below its base, measured along the rostral axis) 0.50–0.58/0.55; pronotal length 0.31–0.36/0.34; pronotal width 0.63–0.67/0.64."
+  },
+  {
+   "label": "Diagnostic characters",
+   "text": "Close to H. rufus from the Malay Peninsula, differing in the stouter frons; the relative length of antennal segments 3 and 4 (in H. rufus segment 3 is equal in length to segment 4); and the slightly less convex anterior margin of the pronotum. H. monoceros from Ceylon is also close, but differs in body colour and in the length of the antennal segments."
+  }
+ ],
+ "note": "Rewritten from Ahmad 1947. Lines 6–9 at the start of the window are the collection record of the preceding species, and lines 30–48 together with the figures scattered in lines 62–117 are the measurement table of the preceding species (two-column OCR, interleaved, with no correspondence to the headings); none of them belongs to this species. The measurement table of this species follows the caption of Fig. 3 (lines 137–157). OCR: \"ineluding\" is including; \"0 50-0.58\", \"0 31-0 36\" and \"0 48-0.53\" are misplaced decimal points, recorded as 0.50–0.58, 0.31–0.36 and 0.48–0.53. Type locality: Lembeh Island, north Celebes, 1929-06-22, collected by K. P. Schmidt. Author and journal title follow the card record of the same batch (newtermitesfromno13ahma) and the page header AMERICAN MUSEUM NOVITATES [No. 1342]."
+}

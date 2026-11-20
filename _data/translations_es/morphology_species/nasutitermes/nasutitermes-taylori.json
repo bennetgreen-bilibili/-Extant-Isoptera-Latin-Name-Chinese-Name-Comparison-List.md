@@ -1,0 +1,17 @@
+{
+ "note": "Reescrito a partir de la descripción original de la nueva especie de Light y Wilson (1936) (Nasutitermes taylori sp. nov.); el original está en inglés. La ventana de texto comienza en la mitad de la descripción del alado, por lo que el material previo sobre el color de la cabeza, la venación alar y cuestiones similares no está incluido y del alado sólo se registran el pasaje sobre ocelos/ojos compuestos y la tabla de medidas; la sección del soldado y las Remarks están completas. El término original Head production se reproduce tal cual; Antenne es una pérdida del OCR por antenna; las medidas van en milímetros según el encabezado de la tabla. Las subdivisiones de la Fig. 20 (a, cabeza del alado en vista dorsal; b, d, cabeza del soldado en vista dorsal; c, e, cabeza del soldado en vista lateral; f, mandíbula izquierda del soldado) no se transcriben.",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "El diámetro mayor del ocelo es aproximadamente el doble del diámetro menor; el diámetro mayor es aproximadamente la mitad del diámetro del ojo compuesto; la distancia al ojo compuesto es aproximadamente igual al diámetro mayor del ocelo. Ojos compuestos pequeños, salientes; separados del margen inferior de la cabeza por cerca de un tercio de su propio diámetro, del margen superior por más de la mitad de su propio diámetro y del margen posterior de la cabeza por más de su propio diámetro. Medidas (mm): longitud total 13.06; longitud del ala anterior 11.04; anchura del ala anterior 2.94; longitud de la cabeza 1.51; longitud de la cápsula cefálica 1.05; anchura de la cápsula cefálica 1.08; anchura de la cabeza incluidos los ojos compuestos 1.33; longitud del pronoto 0.69; anchura del pronoto 1.12; diámetro del ojo compuesto 0.36; diámetro mayor del ocelo 0.14; diámetro menor del ocelo 0.12; distancia del ocelo al ojo compuesto 0.09. Medidas tomadas de un alado típico de la serie típica (No. 1158, Cotabato, Mindanao)."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza pardo amarillento ahumado pálido, más clara en la parte posterior; rostro rojo, más oscuro en la base; notos pardos, fuertemente quitinizados. Forma de la cabeza y del rostro como en la Fig. 20 b—e; rostro largo, tubérculo rostral prominente; constricción marcada; finos pelos blancos dispersos por la cabeza. Antenas de 12 o 13 artejos; cuando tienen 13, los artejos II y IV son los más cortos y el artejo III es el doble de largo que el IV. Medidas e índices (mm): cabeza con rostro 1.62; longitud de la cabeza (sin rostro) 0.96; longitud del rostro 0.66; producción cefálica 0.33; altura de la cabeza 0.62; anchura de la cabeza 0.91; longitud de la tibia anterior 0.84; índice cefálico 0.95; índice cabeza-rostro 0.69; índice de producción cefálica 0.34; índice de extensión de la pata 0.88. Medidas tomadas de un soldado típico de la colección 1158."
+  },
+  {
+   "label": "Otros",
+   "text": "Colección típica No. 1158, procedente de Cotabato, Mindanao. Las dos series de esta especie fueron recolectadas por Taylor: una en la isla de Tatayan, frente a la costa de Cotabato, Mindanao, y la otra en Caldera, cerca de Cotabato; la serie recogida a principios de abril (mes 4) contiene muchos alados completamente coloreados. El soldado se parece a N. castaneus, pero la cabeza es mayor y el rostro relativamente más corto, con un índice cabeza-rostro inferior a 0.70, mientras que en N. castaneus es superior a 0.75; el pronoto también está menos fuertemente quitinizado que en N. castaneus."
+  }
+ ]
+}

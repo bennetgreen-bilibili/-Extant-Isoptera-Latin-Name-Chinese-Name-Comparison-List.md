@@ -1,0 +1,13 @@
+{
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Head thick; frontal projection distinct, its anterior margin rounded in lateral view; frons inclined about 50° towards the anteclypeus; head oval in lateral view, dorsal margin weakly concave behind the frontal projection. Mandibles short, outer margin of the base weakly concave; lower half of the left mandible with three obtuse tooth-like notches. Postmental constriction index 0.69–0.79. Antennae 13–14-segmented; segment 2 equal in length to segment 3, segment 4 slightly shorter than segment 3 and equal to segment 5. Anterior margin of the pronotum weakly concave in the middle, posterior margin weakly notched. Longitudinal ridge of the fore coxa with a short hair on the proximal half and, in some specimens, with a stout short bristle on the distal half. Measurements (36 soldiers, in mm; holotype / range / mean): head length (to mandible base) 2.00/1.95–2.29/2.13; head width 1.54/1.52–1.71/1.60; head height 1.35/1.35–1.50/1.42; left mandible length 0.81/0.81–0.90/0.86; postmentum greatest width 0.53/0.48–0.56/0.53; postmentum least width 0.34/0.32–0.38/0.36; postmentum length 1.20/1.20–1.50/1.40; pronotum greatest length 0.45/0.45–0.53/0.49; pronotum width 0.90/0.90–1.09/0.99; hind tibia length 1.24/1.20–1.28/1.25."
+  },
+  {
+   "label": "Diagnostic characters",
+   "text": "The soldier is closest to F. rhinoceros and F. harrisi. It differs from F. harrisi in the narrower head, the weaker median constriction of the postmentum, and the thinner mandibles, whose outer margin curves less strongly towards the apex than in the latter. F. rhinoceros is larger in all its parts."
+  }
+ ],
+ "note": "Rewritten from Krishna 1963; the captured window begins with the word fragment \"tles;\", so the beginning of the species description (colour, etc.) lies outside the window; the description is split by TABLE 2 into a part before and a part after the table. OCR misread coatoni as \"coatont\" and harrisi as \"harrist\"; the space-displaced measurements \"1 .95—2.29\" and \"1 .20—1.50\" are recorded as 1.95–2.29 and 1.20–1.50. Type locality: Kalina Woods, Leopoldville (Congo), collected by Emerson on 1948-04-06."
+}

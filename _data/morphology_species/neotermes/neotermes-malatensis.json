@@ -1,0 +1,21 @@
+{
+  "zh_name": "马拉蒂新白蚁",
+  "sections": [
+    {
+      "label": "兵蚁",
+      "text": "原文指出该种变异很大，现有量度系列不足以确定各量度与比例指数的平均值或范围，仅能给出以下大致范围（mm）：体长（头伸出）8.0—13.0；头长（连伸出的上颚）4.0—5.5；头长（至额唇基缝）2.5—3.7；头宽 1.&—2.5（原文 OCR 数字残缺，未猜补）；前胸背板宽 1.8—2.5；前胸背板长 0.7—1.25。"
+    },
+    {
+      "label": "其他",
+      "text": "第二型蚁后：No. 483，吕宋岛 Bulacan 省 Bulacan，Tansinsin 采，1921 年 4 月 5 日，采于橙树（“In an orange tree”）。体色上面黄色带褐色调，下面较浅。头、前胸背板及其他背面骨片明显几丁质化。复眼大、明显、突出、完全无色素，眼上方有一小白点。触角残断，但基部如若虫。胸背板上的中纵浅色线与凹陷明显；具小翅芽；腹部短；其余特征同该种若虫。"
+    }
+  ],
+  "note": "据 Light (1930) 种级记述改写，原文英文。窗口文本自该种记述的末段起（前接「为该变异极大的种的一个极端」一句），该种成虫与兵蚁的散文描述位于本窗口之前的页次，未收入窗口；此处只录兵蚁量度范围与该种第二型蚁后的描述。OCR 问题：头宽一行原作“1.&- 2.5”，数字残缺，未猜补；ai^d 即 and，selerites 即 sclerites，Antennse 即 antennae，{Oshima) 即 (Oshima)，to described 即 to describe。",
+  "sources": [
+    {
+      "id": "S0548",
+      "citation": "Light, S. F. 1930. Notes on Philippine termites, IV. Philippine Journal of Science 42(1): 21—45.",
+      "locator": "pp. 26—27（Second form queen 段；兵蚁量度表）"
+    }
+  ]
+}

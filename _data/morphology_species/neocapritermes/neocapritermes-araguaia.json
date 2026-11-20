@@ -1,0 +1,21 @@
+{
+ "zh_name": "阿拉瓜亚新扭白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁头前部具一显著的刺状突；在具此突的各种中，本种最接近 N. angusticeps 与 N. parvus，但后两者各项量度均较大。N. parvus 头部的刺状突较不显著，上唇侧叶更突出，上颚相对头壳远较短，头/上颚指数（左上颚长/头长）为 0.65（本种为 0.85）。模式产地：巴西 Goiás，Ilha do Bananal 以南约 100 km 的 Fazenda Piedade；仅 2 头兵蚁（正模与副模），Peter Kaiser 采。正模存美国自然历史博物馆，副模存巴西圣保罗动物学系。种名源自 Araguaia 河。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "中胸背板侧缘圆而突出，后缘直。后胸背板与前胸背板等宽，侧缘圆，后缘呈宽角状。中足胫节外缘近中部具 1 刺，比普通刚毛稍粗。量度（mm；依次为正模、副模）：头壳侧长 2.24、2.24；头最大宽 1.20、1.17；头最大高 1.02、1.02；左上颚长 1.94、1.86；右上颚长 1.79、1.79；后颏最大宽 0.41、0.41；后颏最小宽 0.20、0.20；后颏长 1.63、1.58；前胸背板中长 0.56、0.56；前胸背板最小长 0.56、0.56；前胸背板最大长 0.59、0.56；前胸背板最大宽 0.77、0.74；后足胫节长 0.97、0.97。"
+  }
+ ],
+ "note": "据 Krishna & Araujo (1968) 新种记述改写；原文英文。素材自 p. 100 页首起于句中（「erceptible.」为前页「imperceptible」之尾），兵蚁头壳、上唇与上颚的描述段在素材之外，故本条只含中胸背板、后胸背板、中足胫节三句与 TABLE 4 量度，及比较、模式资料；量度仅正模与 1 副模两列。",
+ "sources": [
+  {
+   "id": "S0061",
+   "citation": "Krishna K. & Araujo R. L. 1968. A revision of the neotropical termite genus Neocapritermes (Isoptera, Termitidae, Termitinae). Bulletin of the American Museum of Natural History 138: 85-130.",
+   "locator": "pp. 100-101（TABLE 4；bulletin-american-museum-natural-history-138-085-130）"
+  }
+ ]
+}

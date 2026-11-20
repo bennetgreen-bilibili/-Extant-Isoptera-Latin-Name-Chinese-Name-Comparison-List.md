@@ -1,0 +1,25 @@
+{
+ "zh_name": "大齿红懒白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与 Armitermes peruanus Holmgren 最接近，但体型较小；上颚齿的比例大于 Holmgren（1912，p. 57）图中所绘。原文仅有兵蚁，巢与繁殖型未被发现，故无有翅成虫与工蚁描述。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头壳黄褐色，圆卵形，侧面轮廓凸；头面通常有 6—10 根刚毛。触角 14 节，第 2 节与第 3 节等长，第 4 节略短于第 3 节。上唇端部圆。上颚暗红褐色，粗壮而弯曲，长约额管（鼻）长的 2/3；左上颚中部有一大而强的三角形齿，略向上指；右上颚与之相似。额管长而粗，略带红色。前胸背板前缘黄色，边缘有长刚毛。腹部呈肠内容物之色；腹板有长毛。量度：全长 7.50—8.00 mm；头长 3.21—3.37 mm；头宽 1.71—1.77 mm；触角长 2.15—2.25 mm；前胸背板长 0.53—0.57 mm；前胸背板宽 0.96—1.03 mm；后足胫节长 1.54—1.60 mm；左上颚长 1.22 mm。"
+  },
+  {
+   "label": "其他",
+   "text": "模式产地 Kartabo（英属圭亚那），仅知模式产地；正模为兵蚁。作者据采自两个不同巢群的众多兵蚁作描述，巢与繁殖型始终未被发现（图 52）。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0083",
+   "citation": "Emerson, A. E. 1925. The termites of Kartabo, Bartica District, British Guiana. Zoologica (New York Zoological Society) 6 (4): 373-375 (Armitermes (Armitermes) grandidens, sp. nov.).",
+   "locator": "pp. 373-374，Armitermes (Armitermes) grandidens 新种，图 52"
+  }
+ ],
+ "note": "据 Emerson 1925 年英文原始描述（新种 Armitermes (Armitermes) grandidens，后归 Mapinguaritermes）改写，仅兵蚁一个品级。原文量度一项一行、无单位标注，按该文惯例为 mm，已按项名归并。页码据书眉 374、375 推断，起始页 373 系推算。"
+}

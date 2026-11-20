@@ -1,0 +1,21 @@
+{
+ "note": "Rewritten from the species-level description of Eutermes (Hospitalitermes) umbrinus Haviland in Holmgren, Termitenstudien (Kungl. Svenska Vetenskapsakademiens Handlingar, Bd. 50, No. 2, pp. 200—212); the original is in German. The entry covers four castes: Imago, Königin, Soldat (Tafel VII, Fig. 33) and Arbeiter. The distribution is given as Borneo: Sarawak (collected by Haviland). OCR problems: the body lengths and some measurements of the various castes are reduced to strings of garbage (the length with wings, head width and pronotum width of the alate; the body length and head length of the soldier; the body length of the worker), and following PROTOCOL they are not recorded or guessed; the antennal segment counts of the alate and the worker are both printed \"153-gliedrig\" in the original and are read as 15 segments according to German counting (the soldier's \"14-gliedrig\" is clear); the figures that could be read are given with a point instead of the German decimal comma, as in the original, and ranges use \"—\". The same window afterwards describes the variety E. umbrinus f. Sharpi (Malay Peninsula, Singapore; soldier resembling the typical form but smaller and paler), whose measurements are also largely garbled and are not recorded; the following Eutermes (H.) hospitalis belongs to another species and has been excluded.",
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Body dark brown, the front part of the head slightly paler. Antennae pale except for the basal segment; pronotum with a T-shaped mark and two shoulder spots; tibiae and tarsi pale. The thoracic tergites are paler than the abdominal tergites, the sternites broadly pale yellow in the middle; femora pale brown; wings dark. Head without hairs, the abdomen very sparsely hairy, the wings rather densely covered with hairs. Head broadly oval, narrowed forwards. Compound eyes medium-sized, rather strongly protruding. Ocelli medium-sized, about one diameter from the compound eye, their inner margin rather strongly raised. Fontanelle very large, yellowish white, larger than the ocellus. Transverse band rather deeply concave. Postclypeus short, raised. Antennae 15-segmented, segment 3 less than twice as long as segment 2, segment 4 slightly longer than segment 2. Pronotum large, trapezoidal, much longer than half its width, posterior margin slightly concave; posterior margins of the mesonotum and metanotum broadly and deeply concave. Radius sector very strong, with a pale yellow \"subcostal line\" below it; media weak, with 2—3 apical branches; cubitus with 10—14 branches, of which the inner 6—7 are thickened. Measurements: forewing length 13.5—14, head length 1.82."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head black, the nasus (frontal projection) pale. Antennae pale except for the basal segment. Body sclerites brown, the abdominal sternites much paler; femora pale brown; tibiae and tarsi pale. Head and dorsum of the body without hairs. Head in dorsal view rounded-triangular, widened at the antennae; nasus conical, relatively long and narrow; frons depressed behind the antennal bases. Antennae length 4, 14-segmented, segment 3 almost 3 times as long as segment 2. Pronotum flatly saddle-shaped, anterior margin not concave. Measurements: head width 1.18, pronotum width 0.68."
+  },
+  {
+   "label": "Worker",
+   "text": "Head brownish black. Antennae pale except for the basal segment. Dorsum of the body brown, the underside of the abdomen much paler; femora brown; tibiae and tarsi pale. Pilosity as in the soldier. Head rounded-pentagonal; head suture distinct; fontanelle indistinct, with a depression around it and in the front part of the transverse band; postclypeus short, swollen and raised. Antennae 15-segmented, segment 3 slightly longer than segment 2. Pronotum saddle-shaped, anterior margin not concave; abdomen strongly raised. Measurements: head width 0.84—0.99, pronotum width 0.53—0.65."
+  },
+  {
+   "label": "Other",
+   "text": "Queen: body length 22; secondary chitinized structures large; sternites pigmented."
+  }
+ ]
+}

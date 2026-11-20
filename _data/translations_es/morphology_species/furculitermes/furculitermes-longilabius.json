@@ -1,0 +1,13 @@
+{
+ "note": "Reescrito a partir de la descripción del soldado de «Furculitermes longilabius, new species» en Emerson 1960 (American Museum Novitates n.º 1988); el original está en inglés. El paquete de fuentes se interrumpe en la tercera frase de la descripción del soldado («Profile of postmentum evenly convex, withou…»), por lo que el resto de la descripción morfológica, la tabla de medidas y los datos sobre los ejemplares y la localidad típicos no están en el paquete; no hay, pues, medidas que registrar, y solo se conservan las 3 frases que pueden leerse con fiabilidad. El paquete contiene además la frase comparativa entre F. longilabius y F. soyeri del mismo género, utilizada aquí como caracteres diagnósticos. El título y el año se infieren de la cabecera de página (1960 EMERSON: NEW TERMITINAE; AMERICAN MUSEUM NOVITATES No. 1988) y del identificador sixnewgenerater1988emer; no se han visto el título completo ni el nombre completo del autor. Problemas de OCR: Fics. (FIGS.), SOYERT (SOYERI), etc., no afectan a la lectura de la morfología.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Las mandíbulas del soldado están menos acodadas y son más largas; el contorno lateral de la cabeza es similar al de F. soyeri, pero la parte media del labro es claramente más larga."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza (en vista dorsal) marcadamente estrechada hacia la parte anterior; vértice débilmente cóncavo en vista lateral; postmentón uniformemente convexo en vista lateral."
+  }
+ ]
+}

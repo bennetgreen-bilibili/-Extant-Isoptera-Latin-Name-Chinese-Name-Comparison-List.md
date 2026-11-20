@@ -1,0 +1,21 @@
+{
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Head and dorsum smoky black, abdomen chestnut, with a straw-coloured transverse band of variable width across the middle. All segments covered with short and long hairs. Head with a round fenestra. Ocelli slightly removed from the eyes. Antennae 15-segmented; segment 3 about one-half the length of segment 2 or shorter; segment 4 slightly longer than segment 3. Pronotum twice as wide as long, anterior angles rounded, posterior part broadly rounded. Wing surface with very small triangular spines and a few scattered hairs. Forewing media with 2-4 small veins, submedia with 9 small veins. Cerci very short, 2-segmented, segment 2 conical, with long setae. Tibiae with a few small spines in a single row below, apex with 2 stout spines. Measurements (mm): body length (including wings) 16,5; body length 8,5; antennal length 2,1; head width 1,3; pronotal length 0,7, width 1,4; forewing length 14, hindwing length 13,5."
+  },
+  {
+   "label": "Worker",
+   "text": "Head and pronotum straw-coloured; abdomen more or less grey depending on food. Segments with short hairs and sparse long hairs. Antennae 14-segmented; segment 3 shorter than segment 2. Anterior margin of the pronotum semicircular. Measurements: this line is OCR-garbled in the original as \"Lons; corp: eslataea pit ale\", illegible, and has not been conjecturally restored."
+  },
+  {
+   "label": "Nymph",
+   "text": "Body pale, eyes black. Antennae 15-segmented. Measurements (mm): body length 8,5; wing-bud length 1,4."
+  },
+  {
+   "label": "Other",
+   "text": "Queen: body length 25; abdominal width 5,5 (mm). Larva: whole body pale, covered with short hairs; antennae 12-segmented, segment 3 bare and equal in length to segment 2; body length 1,1 (mm). Distribution: Tacurù Pucù, Villa Encarnacion and Villa Rica, Paraguay; S. Ana (Misiones), Argentina. The soldier is absent in this genus (Miles — Abest)."
+  }
+ ],
+ "note": "Rewritten from the Latin description of Anoplotermes pacificus in Silvestri's Termitidi e termitofili dell'America meridionale; the original uses a comma as the decimal separator in measurements (e.g. 16,5), reproduced here as printed. The worker measurement line is OCR-garbled (\"Lons; corp: eslataea pit ale\") and has not been conjecturally restored. The original genus-level description records the soldier as absent (Miles — Abest) and the worker antennae as 14-segmented. The year 1903 follows the archive.org identifier redia11903isti; the title page is not in the captured fragment."
+}
