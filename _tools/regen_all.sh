@@ -38,8 +38,9 @@ python _tools/stamp_assets.py
 # 三语分页（zh / en / es）自检：漏页、混语残留、站内链接缺语言前缀
 python _tools/check_lang_pages.py --ci
 
-# 仓库根目录 SITE-INDEX.md 的第 9 节快照（计数）。必须排在所有计数来源之后：
+# 仓库根目录 SITE-INDEX.md 的现状快照（计数）。必须排在所有计数来源之后：
 # 它统计 taxonomy.json、_species/、各页面目录，以及 _data/ 的顶层文件与分片目录（含分片数）。
+# 登记检查（--check）把 SITE-INDEX.md 与 _meta/*.md 一起算。
 python _tools/build_ai_index.py --write
 
 echo "OK: 派生产物已全部重建"

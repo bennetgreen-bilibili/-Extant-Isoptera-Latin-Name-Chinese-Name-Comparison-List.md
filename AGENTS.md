@@ -5,12 +5,24 @@
 
 ## 0. 先读站点索引
 
-`SITE-INDEX.md` 是本仓库的入口索引：页面 → 源文件的对照表、`_data/` 每个文件的角色（源 / 派生 / 缓存 /
-配置）、改一处要连带改哪里、生成链与校验命令、说明文档清单。**改站前先读它**，按表只打开需要的那几个
-文件，不要为了「了解项目」通读工作区——3,000+ 个 `.md` 里绝大多数是生成产物。
+`SITE-INDEX.md` 是本仓库的入口索引，**改站前先读它**，按表只打开需要的那几个文件，不要为了「了解项目」
+通读工作区——3,000+ 个 `.md` 里绝大多数是生成产物。它分三层，后两层只在对应任务时才打开：
 
-新增 `_data/` 顶层文件、`_data/<数据集>/` 分片目录、`build_*.py`、`_tools/*.md`、`_reports/**/*.md` 时，要一并登记进 `SITE-INDEX.md`
-（`python _tools/build_ai_index.py --check` 会因漏登记而失败；计数快照由 `_tools/regen_all.sh` 末尾自动刷新）。
+| 读什么 | 什么时候 |
+| --- | --- |
+| `SITE-INDEX.md`（约 12 KB） | 任何改动：页面 → 源文件对照、目录地图、连带影响、搜索纪律 |
+| `_meta/DATA-MAP.md` | 改 `_data/` 的内容，或判断某个数据文件是源 / 派生 / 缓存 |
+| `_meta/PIPELINE.md` | 跑生成链、本地构建、交付前校验 |
+| `_meta/DOCS.md` | 查某份说明文档讲什么 |
+
+**搜索纪律**：`_langsrc/`（26k 文件）、`_site-*`（16k）、`_tmp/`（173k）、`_data/` 分片（8.5k）都是生成物或
+临时件，全仓 grep / glob 会先走进它们、打满扫描预算后截断，得到假的「没有匹配」。一律把路径限定到
+`_species/`、`_data/taxonomy.json`、`_tools/`、`_includes/`、`_layouts/` 这样的目标位置上（细则见
+`SITE-INDEX.md` §0.2）。
+
+新增 `_data/` 顶层文件、`_data/<数据集>/` 分片目录、`build_*.py`、`_tools/*.md`、`_reports/**/*.md` 时，要一并登记进
+`SITE-INDEX.md` 或 `_meta/*.md`（`python _tools/build_ai_index.py --check` 会把这几处合起来核对，漏登记就失败；
+计数快照由 `_tools/regen_all.sh` 末尾自动刷新）。
 
 ## 1. 来源存档（Source Archive）
 

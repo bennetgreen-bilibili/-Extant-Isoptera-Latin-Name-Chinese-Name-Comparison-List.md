@@ -1,24 +1,27 @@
 #!/usr/bin/env python3
-"""维护仓库根目录的 SITE-INDEX.md：刷新第 9 节计数，并校验「新增的东西有没有登记」。
+"""维护仓库根目录的 SITE-INDEX.md：刷新现状快照，并校验「新增的东西有没有登记」。
 
 为什么需要这个脚本
 ------------------
 SITE-INDEX.md 是给下一次改站的 AI 看的入口索引：先读一页，再按表只打开需要的
-那几个文件，不必通读 3,000+ 个页面。索引一旦和仓库脱节（新增了 `_data/xxx.json`
-或 `_data/<数据集>/` 分片目录、
+那几个文件，不必通读 3,000+ 个页面。为了不让入口页本身变成要通读的长文，
+细节拆在 `_meta/` 里（`DATA-MAP.md` 数据层、`PIPELINE.md` 生成链与校验、
+`DOCS.md` 文档索引），只在需要时打开。
+
+索引一旦和仓库脱节（新增了 `_data/xxx.json` 或 `_data/<数据集>/` 分片目录、
 新增了生成脚本、新增了一篇说明文档却没写进去），它就比没有更糟——读者会以为
 「表里没有的就是不重要」。
 
 所以这里做两件事：
 
-1. `--write` 重新计算第 9 节的快照（`<!-- AUTO:INDEX:BEGIN -->` 与
+1. `--write` 重新计算 SITE-INDEX.md 的现状快照（`<!-- AUTO:INDEX:BEGIN -->` 与
    `<!-- AUTO:INDEX:END -->` 之间），内容只有计数，确定性输出，不含时间戳，
    连跑两次结果不变——regen_all.sh 末尾调用它不会制造 diff 噪音。
-2. `--check` 逐项核对登记完整性：
-   - `_data/` 下每个顶层文件、每个 `_data/<数据集>/` 分片目录都要在索引里出现；
+2. `--check` 逐项核对登记完整性。登记语料 = `SITE-INDEX.md` + `_meta/*.md`：
+   - `_data/` 下每个顶层文件、每个 `_data/<数据集>/` 分片目录都要在语料里出现；
    - 每个 `build_*.py`（`_tools/` 与 `.github/workflows/`）都要出现；
    - 每篇 `_tools/*.md`、`_reports/**/*.md` 都要出现；
-   - 第 9 节的计数必须与当前仓库一致（含分片目录与分片数）。
+   - 快照的计数必须与当前仓库一致（含分片目录与分片数）。
 
 用法：
     python _tools/build_ai_index.py --write    # 刷新快照（regen_all.sh 末尾）
@@ -35,6 +38,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 INDEX = ROOT / "SITE-INDEX.md"
+DETAIL_DIR = ROOT / "_meta"
 BEGIN = "<!-- AUTO:INDEX:BEGIN -->"
 END = "<!-- AUTO:INDEX:END -->"
 
@@ -53,6 +57,18 @@ def read_index() -> str:
     if BEGIN not in text or END not in text:
         raise SystemExit(f"[build_ai_index] {INDEX.name} 缺少自动区块锚点")
     return text
+
+
+def corpus_text(index_text: str | None = None) -> str:
+    """登记语料：SITE-INDEX.md（入口页）+ `_meta/*.md`（按需打开的细节页）。
+
+    登记检查看的是「有没有写到某一页」，不关心写在哪一页——细节下沉到 `_meta/`
+    以后，入口页可以被裁剪而不触发缺登记。
+    """
+    parts = [read_index() if index_text is None else index_text]
+    if DETAIL_DIR.is_dir():
+        parts += [p.read_text(encoding="utf-8") for p in sorted(DETAIL_DIR.glob("*.md"))]
+    return "\n".join(parts)
 
 
 def count_pages() -> dict[str, int]:
@@ -145,7 +161,8 @@ def apply_snapshot(text: str, body: str) -> str:
 
 
 def check() -> int:
-    text = read_index()
+    index_text = read_index()
+    text = corpus_text(index_text)
     problems: list[str] = []
 
     missing_data = [f for f in data_files() if f not in text]
@@ -165,10 +182,10 @@ def check() -> int:
     if missing_docs:
         problems.append("这些文档没在索引里出现：" + "、".join(missing_docs))
 
-    current = text.split(BEGIN, 1)[1].split(END, 1)[0].strip()
+    current = index_text.split(BEGIN, 1)[1].split(END, 1)[0].strip()
     fresh = snapshot().strip()
     if current != fresh:
-        problems.append("第 9 节快照已过期：跑 `python _tools/build_ai_index.py --write`")
+        problems.append("现状快照已过期：跑 `python _tools/build_ai_index.py --write`")
 
     if problems:
         for p in problems:
@@ -187,7 +204,7 @@ def main(argv: list[str]) -> int:
         new = apply_snapshot(text, snapshot())
         if new != text:
             INDEX.write_text(new, encoding="utf-8")
-            print("[build_ai_index] 已刷新第 9 节快照")
+            print("[build_ai_index] 已刷新现状快照")
         else:
             print("[build_ai_index] 快照已是最新，未改动")
         return 0
