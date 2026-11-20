@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-20",
  "sections": [
   {
    "heading": "巢壁穿孔与环形廊道",
@@ -54,6 +54,21 @@
      "text_es": "Como el género no construye estructuras superficiales, sus nidos son normalmente muy difíciles de localizar; una vez comprobado en el Parque Nacional Kruger que los nidos se encontraban con facilidad volteando bloques y piedras, la técnica se aplicó ampliamente en las expediciones de muestreo y, en tres años, extendió los registros del género al distrito de Soutpansberg, los sectores de Sibasa, Pilgrim's Rest y Nelspruit, y los distritos de Barberton e Ingwavuma."
     }
    ]
+  },
+  {
+   "heading": "地下巢结构的自组织模型",
+   "heading_en": "A self-organization model of subterranean nest structure",
+   "heading_es": "Un modelo de autoorganización de la estructura del nido subterráneo",
+   "paragraphs": [
+    {
+     "text": "据摘要，Heyde 等（2021）记录非洲拉曼尖白蚁（<i>Apicotermes lamani</i>）地下巢内的迷宫式结构，并建立一个只依赖白蚁、信息素与泥三者物理和生物相互作用的模型；该模型能解释平行地板的形成，以及连接这些地板的直线与螺旋坡道，结果与实测巢结构一致。作者把这种结构视为在多个长度与时间尺度上涌现的自组织，而不是由个体预先设计的蓝图。",
+     "text_en": "According to the abstract, Heyde et al. (2021) documented the labyrinthine structure inside the subterranean nest of <i>Apicotermes lamani</i> in Africa and built a model that depends only on the physical and biological interactions of termites, pheromones and mud; the model explains the formation of the parallel floors and of the straight and helical ramps that connect them, and its results agree with the measured nest. The authors treat this structure as self-organization emerging across several length and time scales rather than as a blueprint designed in advance by individuals.",
+     "text_es": "Según el resumen, Heyde et al. (2021) documentaron la estructura laberíntica del interior del nido subterráneo de <i>Apicotermes lamani</i> en África y construyeron un modelo que depende solo de las interacciones físicas y biológicas de termitas, feromonas y barro; el modelo explica la formación de los pisos paralelos y de las rampas rectas y helicoidales que los conectan, y sus resultados coinciden con el nido medido. Los autores consideran esta estructura como autoorganización emergente en varias escalas de longitud y de tiempo, y no como un plano diseñado de antemano por los individuos.",
+     "src": [
+      "S0377"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -66,6 +81,11 @@
    "id": "S0336",
    "citation": "Coaton, W. G. H. 1962. Survey of the termites of the Kruger National Park (including diagnosis of Fulleritermes gen. nov.: Nasutitermitinae). Koedoe 5(1).",
    "url": "https://doi.org/10.4102/koedoe.v5i1.842"
+  },
+  {
+   "id": "S0377",
+   "citation": "Heyde, A.; Guo, L.; Jost, C.; Theraulaz, G.; Mahadevan, L. 2021. Self-organized biotectonics of termite nests. Proceedings of the National Academy of Sciences.",
+   "url": "https://doi.org/10.1073/pnas.2006985118"
   }
  ]
 }

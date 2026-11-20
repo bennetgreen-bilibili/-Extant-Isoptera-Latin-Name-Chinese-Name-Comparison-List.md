@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-20",
  "sections": [
   {
    "heading": "多鞭毛精子的超微结构",
@@ -30,6 +30,44 @@
      "text_es": "Según French et al. (1976), se aislaron cepas fijadoras de nitrógeno de <i>Citrobacter freundii</i> del intestino de <i>Mastotermes darwiniensis</i>."
     }
    ]
+  },
+  {
+   "heading": "群体遗传结构：高亲缘与距离隔离",
+   "heading_en": "Colony genetic structure: high relatedness and isolation by distance",
+   "heading_es": "Estructura genética de las colonias: parentesco elevado y aislamiento por distancia",
+   "paragraphs": [
+    {
+     "text": "据摘要，Goodisman 与 Crozier（2002）在澳大利亚 24 个地点、136 株受害树上采集 1591 头达尔文澳白蚁（<i>Mastotermes darwiniensis</i>）工蚁，地点相距 2–350 km，分属相距约 1500 km 的两个区域，用 6 个多态微卫星位点分型；结果显示同一群体常取食多株树，线性跨度可达 320 m，且群体常由多个生殖蚁领导。",
+     "text_en": "According to the abstract, Goodisman and Crozier (2002) collected 1591 workers of <i>Mastotermes darwiniensis</i> from 136 infested trees at 24 Australian localities 2–350 km apart in two regions about 1500 km apart, and genotyped them at six polymorphic microsatellite loci; colonies often fed on several trees, extended up to 320 m along a line of trees, and were often headed by multiple reproductives.",
+     "text_es": "Según el resumen, Goodisman y Crozier (2002) recolectaron 1591 obreras de <i>Mastotermes darwiniensis</i> en 136 árboles infestados de 24 localidades australianas separadas 2–350 km en dos regiones distantes unos 1500 km, y las genotipificaron en seis loci microsatélites polimórficos; las colonias se alimentaban a menudo de varios árboles, se extendían hasta 320 m a lo largo de una línea de árboles y con frecuencia estaban encabezadas por varios reproductivos.",
+     "src": [
+      "S0369"
+     ]
+    },
+    {
+     "text": "据摘要，同一研究测得工蚁间亲缘系数 r=0.40、近交系数 f=0.10，群体间分化 θ<sub>locale</sub>=0.50、θ<sub>region</sub>=0.37，区域内存在距离隔离；作者把高亲缘与快速扩张解释为对局部生境的适应，并指出若只按形态或巢位划分群体，会低估实际群体的大小与数量。",
+     "text_en": "According to the abstract, the same study measured a relatedness of r = 0.40 and an inbreeding coefficient of f = 0.10 among workers, a differentiation of θ<sub>locale</sub> = 0.50 and θ<sub>region</sub> = 0.37 between colonies, and isolation by distance within regions; the authors explain the high relatedness together with rapid expansion as adaptation to local habitats, and note that delimiting colonies only by morphology or nest position would underestimate their true size and number.",
+     "text_es": "Según el resumen, el mismo estudio midió un parentesco de r = 0,40 y un coeficiente de endogamia de f = 0,10 entre obreras, una diferenciación de θ<sub>locale</sub> = 0,50 y θ<sub>region</sub> = 0,37 entre colonias, y aislamiento por distancia dentro de las regiones; los autores explican el parentesco elevado junto con la expansión rápida como adaptación a hábitats locales, y señalan que delimitar las colonias solo por la morfología o la posición del nido subestimaría su tamaño y número reales.",
+     "src": [
+      "S0369"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "琥珀化石中的肠道微生物群",
+   "heading_en": "Gut microbiota preserved in amber",
+   "heading_es": "Microbiota intestinal conservada en ámbar",
+   "paragraphs": [
+    {
+     "text": "据摘要，Wier 等（2002）把琥珀化石种 <i>Mastotermes electrodominicus</i> 肠组织中保存的微生物组合与现生达尔文澳白蚁（<i>Mastotermes darwiniensis</i>）的肠道微生物群作了比较，两者高度相似；化石肠组织的薄片里还可见发育中的导管分子、纤维与纹孔等木质部结构，以及一个可能属于 <i>Arthromitus</i> 的内生孢子。",
+     "text_en": "According to the abstract, Wier et al. (2002) compared the microbial assemblage preserved in the gut tissue of the amber fossil <i>Mastotermes electrodominicus</i> with the gut microbiota of the extant <i>Mastotermes darwiniensis</i> and found the two closely similar; thin sections of the fossil gut also show xylem structures such as developing vessel elements, fibres and pits, together with an endospore possibly belonging to <i>Arthromitus</i>.",
+     "text_es": "Según el resumen, Wier et al. (2002) compararon la comunidad microbiana conservada en el tejido intestinal del fósil en ámbar <i>Mastotermes electrodominicus</i> con la microbiota intestinal de la especie actual <i>Mastotermes darwiniensis</i> y hallaron que ambas son muy similares; los cortes del intestino fósil muestran además estructuras del xilema, como elementos de vaso en desarrollo, fibras y punteaduras, junto con una endospora que posiblemente pertenece a <i>Arthromitus</i>.",
+     "src": [
+      "S0373"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -41,6 +79,16 @@
   {
    "id": "S0001",
    "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
+  },
+  {
+   "id": "S0369",
+   "citation": "Goodisman, M. A. D.; Crozier, R. H. 2002. Population and colony genetic structure of the primitive termite Mastotermes darwiniensis. Evolution.",
+   "url": "https://doi.org/10.1111/j.0014-3820.2002.tb00850.x"
+  },
+  {
+   "id": "S0373",
+   "citation": "Wier, A. M.; Dolan, M. F.; Grimaldi, D. A.; Guerrero, R.; Wagensberg, J.; Margulis, L. 2002. Spirochete and protist symbionts of a termite (Mastotermes electrodominicus) in Miocene amber. Proceedings of the National Academy of Sciences.",
+   "url": "https://doi.org/10.1073/pnas.022643899"
   }
  ]
 }

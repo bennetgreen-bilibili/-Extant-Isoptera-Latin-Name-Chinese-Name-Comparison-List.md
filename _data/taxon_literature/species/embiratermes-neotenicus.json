@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-20",
  "sections": [
   {
    "heading": "蚁后信息素与线粒体基因组",
@@ -23,6 +23,29 @@
      "text_es": "Según Hervé y Brune (2017), el genoma mitocondrial de <i>Embiratermes neotenicus</i> (GenBank KY436202) tiene 15 868 pb, un contenido de G+C de 33.7 mol%, codifica 37 genes (2 de ARNr, 22 de ARNt y 13 codificantes de proteína) más una región de control, y su orden génico coincide con el del ancestro de los insectos; el material se recolectó en Petit Saut, Guayana Francesa, y los autores recuperaron 269 723 lecturas mitocondriales de 209 047 724 lecturas brutas del metagenoma del compartimento intestinal P4, con una profundidad media de 2418×."
     }
    ]
+  },
+  {
+   "heading": "群体结构与产雌孤雌",
+   "heading_en": "Colony composition and thelytokous parthenogenesis",
+   "heading_es": "Composición de las colonias y partenogénesis telítoca",
+   "paragraphs": [
+    {
+     "text": "据摘要，Fougeyrollas 等（2015）分析了幼态生白蚁（<i>Embiratermes neotenicus</i>）的 10 个群体，每群有 1 头初生蚁王，配 1 头初生蚁后或近 200 头补充繁殖蚁后；工蚁、兵蚁与多数将来扩散的有翅生殖蚁由有性生殖产生，只有不扩散的补充繁殖蚁后来自孤雌生殖。",
+     "text_en": "According to the abstract, Fougeyrollas et al. (2015) analysed 10 colonies of <i>Embiratermes neotenicus</i>, each with one primary king together with either one primary queen or nearly 200 supplementary neotenic queens; workers, soldiers and most of the future dispersing alate reproductives were produced sexually, and only the non-dispersing supplementary neotenic queens arose by parthenogenesis.",
+     "text_es": "Según el resumen, Fougeyrollas et al. (2015) analizaron 10 colonias de <i>Embiratermes neotenicus</i>, cada una con un rey primario junto con una reina primaria o casi 200 reinas neoténicas suplementarias; las obreras, los soldados y la mayoría de los reproductivos alados que se dispersarán se producían sexualmente, y solo las reinas neoténicas suplementarias no dispersantes se originaban por partenogénesis.",
+     "src": [
+      "S0375"
+     ]
+    },
+    {
+     "text": "据摘要，同一研究用 5 个新开发的微卫星位点分析这些补充繁殖蚁后的基因型，判定其孤雌方式最可能是中央融合的自体混合，即减数分裂后两个中央产物融合，因而保留杂合性；散白蚁属（<i>Reticulitermes</i>）已知的 AQS 为末端融合，会丢失杂合性。两种机制不同，作者据此认为该种的 AQS 与散白蚁属的 AQS 各自独立起源。",
+     "text_en": "According to the abstract, the same study genotyped these supplementary neotenic queens at five newly developed microsatellite loci and concluded that the mechanism is most probably automixis with central fusion, in which the two central products of meiosis fuse and heterozygosity is therefore retained; the AQS known in <i>Reticulitermes</i> involves terminal fusion, which loses heterozygosity. Because the mechanisms differ, the authors conclude that AQS in this species and in <i>Reticulitermes</i> originated independently.",
+     "text_es": "Según el resumen, el mismo estudio genotipificó estas reinas neoténicas suplementarias en cinco loci microsatélites recién desarrollados y concluyó que el mecanismo es muy probablemente automixis con fusión central, en la que se fusionan los dos productos centrales de la meiosis y por tanto se conserva la heterocigosidad; la AQS conocida en <i>Reticulitermes</i> implica fusión terminal, que pierde heterocigosidad. Como los mecanismos difieren, los autores concluyen que la AQS de esta especie y la de <i>Reticulitermes</i> se originaron de forma independiente.",
+     "src": [
+      "S0375"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -35,6 +58,11 @@
    "id": "S0267",
    "citation": "Vincent Hervé; Brune, A. 2017. The complete mitochondrial genomes of the higher termites Labiotermes labralis and Embiratermes neotenicus (Termitidae: Syntermitinae). Informa UK Limited.",
    "doi": "10.1080/23802359.2017.1289349"
+  },
+  {
+   "id": "S0375",
+   "citation": "Fougeyrollas, R.; Dolejšová, K.; Sillam-Dussès, D.; Roy, V.; Poteaux, C.; Hanus, R.; Roisin, Y. 2015. Asexual queen succession in the higher termite Embiratermes neotenicus. Proceedings of the Royal Society B.",
+   "url": "https://doi.org/10.1098/rspb.2015.0260"
   }
  ]
 }

@@ -1,0 +1,13 @@
+{
+ "sections": [
+  {
+   "label": "Soldado",
+   "text": "El clípeo anterior trapezoidal, translúcido, blanco. Las mandíbulas cortas y robustas, la base externa marcadamente elevada; algo más largas que la mitad de la longitud de la cabeza (longitud de la mandíbula 1,75—1,93 mm, índice longitud de la mandíbula / longitud de la cabeza 0,51—0,56). La mandíbula izquierda con 5 dientes marginales, el primero y el segundo mayores; la mandíbula derecha con 2 dientes marginales grandes, situados en la parte media. El postmentón largo, claviforme; la clava bilobulada; el pedúnculo forma una cintura larga y bastante ancha (anchura máxima 0,75—0,80 mm, anchura de la cintura 0,33—0,38 mm). El pronoto subcuadrado, algo más estrecho que la cabeza, más de dos veces tan ancho como largo (anchura 2,23—2,35 mm); el margen anterior débilmente incurvado; los lados redondeados; el margen posterior cóncavo en el centro. Las patas cortas y delgadas; espolones apicales tibiales 3:3:3; tarsos de 4 segmentos. El abdomen delgado, cilíndrico; los cercos de 2 segmentos."
+  },
+  {
+   "label": "Obrero",
+   "text": "Obrero falso (pseudoworker): la cápsula cefálica amarillo pálido a amarilla; el tórax y el abdomen blanco lechoso. La cabeza y el cuerpo con pilosidad moderada. Longitud del cuerpo sin alas 6,5—8,0 mm. La cápsula cefálica casi circular, los lados algo rectos, más ancha que larga (longitud de la cabeza hasta la base mandibular 1,40—1,50 mm, anchura 1,63—1,70 mm). Los ojos compuestos degenerados, blancos. Las antenas de 16—18 segmentos. El postclípeo casi rectangular, más profundo que la frente; el anteclípeo blanco, trapezoidal. El labro casi cuadrado, casi tan largo como ancho. Las mandíbulas del tipo típico de Neotermes. El pronoto casi rectangular, más estrecho que la cabeza (longitud 0,73—0,88 mm, anchura 1,43—1,50 mm); el margen anterior incurvado, con una escotadura media. Las patas y el abdomen como en el soldado."
+  }
+ ],
+ "note": "Adaptado del volumen de Isoptera de Roonwal & Chhotani 1989, The Fauna of India (original en inglés). Localidad tipo: Shimoga, Karnataka, India (13°55' N, 75°30' E); solo se conoce de la localidad tipo. La figura del soldado está redibujada de Thakur (1980c). El comienzo de la sección del soldado falta en el escaneo (el color de la cápsula cefálica, la longitud del cuerpo y las antenas no se conservan) y solo queda el fragmento \"triangular\" en el salto de página; la longitud del postmentón figuraba como \"2.3*2.S\" y la del pronoto como \"1.0-1.IS\", ambas defectuosas en el OCR y por ello no transcritas. Las medidas del soldado y del obrero falso están traducidas literalmente del original, en mm. El original denomina a esta casta pseudoworker y no registra al alado."
+}

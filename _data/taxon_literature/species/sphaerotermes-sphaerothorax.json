@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-20",
+ "sections": [
+  {
+   "heading": "埃及巢迹化石与亚科归属",
+   "heading_en": "Egyptian trace-fossil nests and subfamily placement",
+   "heading_es": "Nidos fósiles de Egipto y asignación a subfamilia",
+   "paragraphs": [
+    {
+     "text": "据摘要，Genise 与 Bown（1994）在埃及北部上始新统—下中新统发现的地下白蚁巢迹中，除 Krausichnus trompitus 与 A' altus 外，其余遗迹种都与现生圆胸圆球白蚁（<i>Sphaerotermes sphaerothorax</i>）的巢有不同程度的相似；研究者还把原先合一的 Termitichnus qatranii 拆为 <i>Termitichnus qatranii</i> 与 <i>Termitichnus simplicidens</i> 两个遗迹种。这批材料说明该种所代表的巢型在始新世—中新世已有可比的化石记录。",
+     "text_en": "According to the abstract, among the subterranean termite nests that Genise and Bown (1994) found in upper Eocene to lower Miocene strata of northern Egypt, all the ichnospecies except <i>Krausichnus trompitus</i> and A' altus resemble the nests of the living <i>Sphaerotermes sphaerothorax</i> to varying degrees; the authors also split the former <i>Termitichnus qatranii</i> into two ichnospecies, <i>Termitichnus qatranii</i> and <i>Termitichnus simplicidens</i>. This material shows that the nest type represented by this species already had a comparable fossil record in the Eocene–Miocene.",
+     "text_es": "Según el resumen, entre los nidos subterráneos de termitas que Genise y Bown (1994) encontraron en estratos del Eoceno superior al Mioceno inferior del norte de Egipto, todas las icnoespecies salvo <i>Krausichnus trompitus</i> y A' altus se parecen en distinto grado a los nidos de <i>Sphaerotermes sphaerothorax</i> actual; los autores también dividieron el antiguo <i>Termitichnus qatranii</i> en dos icnoespecies, <i>Termitichnus qatranii</i> y <i>Termitichnus simplicidens</i>. Este material muestra que el tipo de nido representado por esta especie ya tenía un registro fósil comparable en el Eoceno–Mioceno.",
+     "src": [
+      "S0151"
+     ]
+    },
+    {
+     "text": "据摘要，同一研究把圆胸圆球白蚁（<i>Sphaerotermes sphaerothorax</i>）置于白蚁科（<i>Termitidae</i>）大白蚁亚科（<i>Macrotermitinae</i>）；本站现置于白蚁科圆球白蚁亚科（<i>Sphaerotermitinae</i>）。同一批巢迹中，Vondrichnus obovatus 为扁球状的简单巢、可能属大白蚁亚科，而 Fleaglellius pagodus 的地下塔状结构近似现生方白蚁属（<i>Cubitermes</i>）在地表筑的丘。",
+     "text_en": "According to the abstract, the same study placed <i>Sphaerotermes sphaerothorax</i> in the subfamily <i>Macrotermitinae</i> of <i>Termitidae</i>, whereas this site now places it in <i>Sphaerotermitinae</i> of <i>Termitidae</i>. Within the same assemblage, <i>Vondrichnus obovatus</i> is a simple, oblate nest possibly referable to <i>Macrotermitinae</i>, while the subterranean tower of <i>Fleaglellius pagodus</i> resembles the mounds that living <i>Cubitermes</i> build above ground.",
+     "text_es": "Según el resumen, el mismo estudio situó <i>Sphaerotermes sphaerothorax</i> en la subfamilia <i>Macrotermitinae</i> de <i>Termitidae</i>, mientras que este sitio la sitúa ahora en <i>Sphaerotermitinae</i> de <i>Termitidae</i>. Dentro del mismo conjunto, <i>Vondrichnus obovatus</i> es un nido simple y oblato posiblemente atribuible a <i>Macrotermitinae</i>, mientras que la torre subterránea de <i>Fleaglellius pagodus</i> se parece a los montículos que las <i>Cubitermes</i> vivas construyen sobre el suelo.",
+     "src": [
+      "S0151"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0151",
+   "citation": "Genise, J. F.; Bown, T. M. 1994. New trace fossils of termites (Insecta: Isoptera) from the late Eocene-early Miocene of Egypt, and the reconstruction of ancient isopteran social behavior. Ichnos.",
+   "url": "https://doi.org/10.1080/10420949409386386"
+  }
+ ]
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-20",
  "sections": [
   {
    "heading": "群体大小与社会性免疫",
@@ -30,6 +30,29 @@
      "text_es": "Según Scheffrahn et al. (2015), <i>Zootermopsis angusticollis</i> está registrada en Prince Rupert, Columbia Británica, Canadá, a 54,3°N, el registro más septentrional para las termitas."
     }
    ]
+  },
+  {
+   "heading": "远交的疾病代价",
+   "heading_en": "The disease cost of outbreeding",
+   "heading_es": "El coste de la exogamia en términos de enfermedad",
+   "paragraphs": [
+    {
+     "text": "据摘要，Rosengaus 与 Traniello（1993）把狭颈动白蚁（<i>Zootermopsis angusticollis</i>）的初生生殖蚁按同胞或非同胞配对，结果显示与非同胞配对者在配对后 10–40 天内死亡率更高，死亡与真菌、细菌病原的侵染有关；群体建立之后，两种配对的雌雄死亡率模式趋于相似。",
+     "text_en": "According to the abstract, Rosengaus and Traniello (1993) paired primary reproductives of <i>Zootermopsis angusticollis</i> with siblings or non-siblings and found that termites paired with non-siblings suffered higher mortality 10–40 days after pairing, associated with infection by fungal and bacterial pathogens; once colonies were established, the mortality patterns of males and females became similar in both pairing types.",
+     "text_es": "Según el resumen, Rosengaus y Traniello (1993) aparearon reproductivos primarios de <i>Zootermopsis angusticollis</i> con hermanos o con no hermanos y encontraron que las termitas apareadas con no hermanos sufrieron mayor mortalidad entre 10 y 40 días después del apareamiento, asociada a la infección por patógenos fúngicos y bacterianos; una vez establecidas las colonias, los patrones de mortalidad de machos y hembras se hicieron similares en ambos tipos de pareja.",
+     "src": [
+      "S0374"
+     ]
+    },
+    {
+     "text": "据摘要，同一研究未检出近交的负效应：同胞与非同胞配对在产卵数、幼虫数上没有总体差异，建群 4 年后群体大小与生物量也无差异；作者据此提出，病原暴露的风险与对当地病原的适应能力共同影响初生生殖蚁的遗传身份与近交程度，即远交在疾病压力下也可能付出代价。",
+     "text_en": "According to the abstract, the same study found no negative effect of inbreeding: sibling and non-sibling pairs did not differ overall in the number of eggs or larvae, and four years after colony founding they did not differ in colony size or biomass. The authors therefore propose that the risk of pathogen exposure, together with adaptation to local pathogens, shapes the genetic identity and degree of inbreeding of primary reproductives, so that outbreeding too can carry a cost under disease pressure.",
+     "text_es": "Según el resumen, el mismo estudio no encontró un efecto negativo de la endogamia: las parejas de hermanos y de no hermanos no difirieron en el número de huevos ni de larvas, y cuatro años después de la fundación de la colonia tampoco difirieron en tamaño ni en biomasa. Los autores proponen por tanto que el riesgo de exposición a patógenos, junto con la adaptación a los patógenos locales, determina la identidad genética y el grado de endogamia de los reproductivos primarios, de modo que la exogamia también puede tener un coste bajo presión de enfermedad.",
+     "src": [
+      "S0374"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -41,6 +64,11 @@
    "id": "S0247",
    "citation": "Scheffrahn, R. H. 2015. Global elevational, latitudinal, and climatic limits for termites and the redescription of Rugitermes laticollis Snyder (Isoptera: Kalotermitidae) from the Andean Highlands. Universidade Estadual de Feira de Santana.",
    "doi": "10.13102/sociobiology.v62i3.793"
+  },
+  {
+   "id": "S0374",
+   "citation": "Rosengaus, R. B.; Traniello, J. F. A. 1993. Disease risk as a cost of outbreeding in the termite Zootermopsis angusticollis. Proceedings of the National Academy of Sciences.",
+   "url": "https://doi.org/10.1073/pnas.90.14.6641"
   }
  ]
 }

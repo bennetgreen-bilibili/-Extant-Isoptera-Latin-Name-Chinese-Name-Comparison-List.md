@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-20",
+ "sections": [
+  {
+   "heading": "基于可遗传气味的巢友识别",
+   "heading_en": "Nest-mate recognition based on heritable odours",
+   "heading_es": "Reconocimiento de compañeros de nido basado en olores heredables",
+   "paragraphs": [
+    {
+     "text": "据摘要，Adams（1991）发现树栖锯白蚁（<i>Microcerotermes arboreus</i>）的工蚁能依据气味区分巢友与外来个体；控制交配实验显示，群体气味的变异有一部分来自遗传，即气味特征可以遗传。",
+     "text_en": "According to the abstract, Adams (1991) found that workers of <i>Microcerotermes arboreus</i> distinguish nest-mates from foreign individuals by odour, and controlled mating experiments showed that part of the variation in colony odour is genetic, so that odour profiles are heritable.",
+     "text_es": "Según el resumen, Adams (1991) encontró que las obreras de <i>Microcerotermes arboreus</i> distinguen a los compañeros de nido de los individuos extraños por el olor, y experimentos de apareamiento controlado mostraron que parte de la variación del olor de la colonia es genética, de modo que los perfiles de olor son heredables.",
+     "src": [
+      "S0376"
+     ]
+    },
+    {
+     "text": "据摘要，Adams（1991）的同一批实验里，工蚁对陌生的亲属攻击性低于非亲属，并能区分陌生个体的亲缘程度；但陌生亲属尽管与巢友的遗传相似度相近，被攻击的频率仍高于巢友。作者据此认为巢友识别不只依赖个体可遗传的特征，还包含群体层面的信息，而母源与父源线索的效应没有差异。",
+     "text_en": "According to the abstract, in the same experiments reported by Adams (1991) workers were less aggressive towards unfamiliar relatives than towards non-relatives and could discriminate the degree of relatedness of unfamiliar individuals; yet unfamiliar relatives, although genetically as similar to the residents as nest-mates are, were attacked more often than nest-mates. The author concludes that nest-mate recognition relies not only on individually heritable cues but also on colony-level information, and that maternal and paternal cues had no differential effect.",
+     "text_es": "Según el resumen, en los mismos experimentos de Adams (1991) las obreras fueron menos agresivas con parientes desconocidos que con no parientes y pudieron discriminar el grado de parentesco de individuos desconocidos; sin embargo, los parientes desconocidos, aunque genéticamente tan similares a los residentes como los compañeros de nido, fueron atacados con más frecuencia que estos. El autor concluye que el reconocimiento de compañeros de nido no depende solo de señales hereditarias individuales sino también de información a nivel de colonia, y que las señales maternas y paternas no tuvieron efectos distintos.",
+     "src": [
+      "S0376"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0376",
+   "citation": "Adams, E. S. 1991. Nest-mate recognition based on heritable odors in the termite Microcerotermes arboreus. Proceedings of the National Academy of Sciences.",
+   "url": "https://doi.org/10.1073/pnas.88.5.2031"
+  }
+ ]
+}

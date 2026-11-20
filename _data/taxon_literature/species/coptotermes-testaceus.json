@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-20",
+ "sections": [
+  {
+   "heading": "琥珀化石与现存分布",
+   "heading_en": "Amber fossils and the extant range",
+   "heading_es": "Fósiles en ámbar y distribución actual",
+   "paragraphs": [
+    {
+     "text": "根据 Bourguignon 等（2016）研究，多米尼加琥珀中已记述乳白蚁属（<i>Coptotermes</i>）3 个化石种，而新热带区今天只剩厚壳乳白蚁（<i>Coptotermes testaceus</i>）1 种。",
+     "text_en": "According to Bourguignon et al. (2016), three fossil species of <i>Coptotermes</i> have been described from Dominican amber, whereas only <i>Coptotermes testaceus</i> occurs in the Neotropical region today.",
+     "text_es": "Según Bourguignon et al. (2016), se han descrito tres especies fósiles de <i>Coptotermes</i> en el ámbar dominicano, mientras que hoy solo <i>Coptotermes testaceus</i> habita la región neotropical.",
+     "src": [
+      "S0368"
+     ]
+    },
+    {
+     "text": "根据同一研究，该文发表时把乳白蚁属（<i>Coptotermes</i>）连同散白蚁属（<i>Reticulitermes</i>）、异白蚁属（<i>Heterotermes</i>）一并放在广义的鼻白蚁科（<i>Rhinotermitidae</i>）内；2024 年该科拆分后，本站把厚壳乳白蚁（<i>Coptotermes testaceus</i>）置于异白蚁科（<i>Heterotermitidae</i>）。",
+     "text_en": "In the same study the genus <i>Coptotermes</i> was still placed, together with <i>Reticulitermes</i> and <i>Heterotermes</i>, in a broadly defined <i>Rhinotermitidae</i>; after the 2024 split of that family this site places <i>Coptotermes testaceus</i> in <i>Heterotermitidae</i>.",
+     "text_es": "En el mismo estudio el género <i>Coptotermes</i> seguía situado, junto con <i>Reticulitermes</i> y <i>Heterotermes</i>, en una <i>Rhinotermitidae</i> de sentido amplio; tras la división de esa familia en 2024, este sitio sitúa a <i>Coptotermes testaceus</i> en <i>Heterotermitidae</i>.",
+     "src": [
+      "S0368"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0368",
+   "citation": "Bourguignon, T.; Lo, N.; Šobotník, J.; Sillam-Dussès, D.; Roisin, Y.; Evans, T. A. 2016. Oceanic dispersal, vicariance and human introduction shaped the modern distribution of the termites Reticulitermes, Heterotermes and Coptotermes. Proceedings of the Royal Society B.",
+   "url": "https://doi.org/10.1098/rspb.2016.0179"
+  }
+ ]
+}

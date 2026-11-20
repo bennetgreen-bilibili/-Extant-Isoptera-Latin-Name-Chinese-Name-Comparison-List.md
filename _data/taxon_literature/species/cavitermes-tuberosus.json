@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-20",
+ "sections": [
+  {
+   "heading": "群体组成与孤雌蚁后的遗传来源",
+   "heading_en": "Colony composition and the genetic origin of parthenogenetic queens",
+   "heading_es": "Composición de las colonias y origen genético de las reinas partenogenéticas",
+   "paragraphs": [
+    {
+     "text": "据摘要，Fournier 等（2016）在法属圭亚那检查肉瘤腔白蚁（<i>Cavitermes tuberosus</i>）的 95 个巢：39 个含初生蚁后，28 个含补充繁殖雌蚁，每巢 2–667 头，通常同时有初生蚁王；微卫星分析证实这些群体由一对生殖蚁经大规模分飞后建立，而不是由出芽产生。",
+     "text_en": "According to the abstract, Fournier et al. (2016) examined 95 nests of <i>Cavitermes tuberosus</i> in French Guiana: 39 contained a primary queen and 28 contained supplementary neotenic females, 2–667 per nest, usually together with a primary king; microsatellite analysis showed that these colonies were founded by a single pair of reproductives after a large dispersal flight rather than by budding.",
+     "text_es": "Según el resumen, Fournier et al. (2016) examinaron 95 nidos de <i>Cavitermes tuberosus</i> en la Guayana Francesa: 39 contenían una reina primaria y 28 contenían hembras neoténicas suplementarias, de 2 a 667 por nido, generalmente junto con un rey primario; el análisis de microsatélites mostró que estas colonias fueron fundadas por una sola pareja de reproductivos tras un vuelo de dispersión masivo y no por gemación.",
+     "src": [
+      "S0379"
+     ]
+    },
+    {
+     "text": "据摘要，同一研究中超过 80% 的补充繁殖雌蚁为纯母源且完全纯合，符合配子二倍化的自体混合孤雌；工蚁、兵蚁、多数有翅成虫与初生生殖蚁为有性产生，说明孤雌只用于更替蚁后。该种的 AQS 多发生在群体成熟后，作者认为这与群体较小、稳定性较低、迁移性较高有关，并据此支持 AQS 在等翅下目内多次起源。",
+     "text_en": "According to the abstract, in the same study more than 80% of the supplementary neotenic females were purely maternal and completely homozygous, consistent with automixis by gamete duplication; workers, soldiers, most alates and the primary reproductives were produced sexually, so parthenogenesis serves only to replace the queen. AQS in this species usually occurs after the colony has matured, which the authors relate to smaller, less stable and more mobile colonies, and on this basis they support multiple origins of AQS within Isoptera.",
+     "text_es": "Según el resumen, en el mismo estudio más del 80% de las hembras neoténicas suplementarias eran de origen puramente materno y completamente homocigotas, lo que concuerda con automixis por duplicación de gametos; las obreras, los soldados, la mayoría de los alados y los reproductivos primarios se producían sexualmente, de modo que la partenogénesis sirve solo para reemplazar a la reina. La AQS en esta especie suele ocurrir después de que la colonia madura, lo que los autores relacionan con colonias más pequeñas, menos estables y más móviles, y sobre esta base apoyan múltiples orígenes de la AQS dentro de Isoptera.",
+     "src": [
+      "S0379"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0379",
+   "citation": "Fournier, D.; Hellemans, S.; Hanus, R.; Roisin, Y. 2016. Facultative asexual reproduction and genetic diversity of populations in the humivorous termite Cavitermes tuberosus. Proceedings of the Royal Society B.",
+   "url": "https://doi.org/10.1098/rspb.2016.0196"
+  }
+ ]
+}

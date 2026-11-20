@@ -1,0 +1,21 @@
+{
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The alate is very close to M. pallidus: wings faintly greyish yellow, pronotum slightly narrower, mesonotum and metanotum with deeper notches and pointed posterior angles, media of the forewing arising from the base of the cubitus, wings shorter. The soldier agrees with M. pallidus in shape and colour but is markedly smaller, with denser setae on the abdominal tergites. The worker is dimorphic, with smaller mandibular condyles and a weaker notch on the anterior margin of the pronotum."
+  },
+  {
+   "label": "Alate",
+   "text": "Colour and pilosity as in M. pallidus. Wings faintly greyish yellow (pale yellow in M. pallidus). Pronotum slightly narrower than in M. pallidus. Mesonotum and metanotum narrower than in M. pallidus, but with deeper notches and pointed posterior angles (posterior angles blunt in M. pallidus). Media of the forewing arising from the base of the cubitus (in M. pallidus directly from the wing scale). Wings shorter than in M. pallidus. Measurements (mm): body length with wings 16; body length without wings 9; forewing length 13—13.5; head length 1.63; head width 1.6; pronotal width 1.37, length 0.72."
+  },
+  {
+   "label": "Soldier",
+   "text": "Shape and colour very similar to M. pallidus, but far smaller. Setae on the abdominal tergites slightly denser than in M. pallidus. Head shape, labrum, mandibles and pronotum identical in shape and length to M. pallidus, but all dimensions markedly smaller. Measurements (mm): body length 3.33; head length with mandibles 1.37; head length without mandibles 0.84; head width 0.8; pronotal width 0.57."
+  },
+  {
+   "label": "Worker",
+   "text": "Dimorphic. Very similar to the worker of M. pallidus. Head yellow; body almost white. Pilosity as in M. pallidus. Head shape, cephalic sutures, fontanelle, clypeus and antennae as in M. pallidus; mandibular condyles smaller. Anterior margin of the pronotum weakly concave. Measurements (mm): small worker body length 2.6, head width 0.84, pronotal width 0.42; large worker body length 3.7—4, head width 1.14, pronotal width 0.61."
+  }
+ ],
+ "note": "Adapted from Holmgren's 1913 original German description (new species, described there as Microtermes Jacobsoni). Type locality: Samarang, Java, collected by Jacobson. German measurements use the comma as the decimal mark (e.g. 1,63); here they are uniformly changed to a point without altering the values, and the tables in the original carry over the mm unit of the preceding line by a ditto mark. The column order of the soldier and worker measurement tables is disordered in the scan, so the corresponding values of the small and the large worker have been paired by their size relation and the values are transcribed as printed; the worker measurement table in the upper part of the same scanned page (body length 4—4.5 mm and 3 mm, head width 1.25 and 0.87, pronotal width 0.66 and 0.53) belongs to M. pallidus and is not counted for this species. The original does not record the nymph and has no key; the differences from M. pallidus are scattered through the descriptions of the several castes."
+}

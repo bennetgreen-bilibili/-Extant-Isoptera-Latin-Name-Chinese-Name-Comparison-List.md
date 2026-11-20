@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-20",
  "sections": [
   {
    "heading": "西印度群岛的 16S 系统发育与科级归属",
@@ -24,6 +24,37 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "泛热带分布、三次扩散与最老化石",
+   "heading_en": "Pantropical range, three dispersal events and the oldest fossils",
+   "heading_es": "Distribución pantropical, tres eventos de dispersión y los fósiles más antiguos",
+   "paragraphs": [
+    {
+     "text": "根据 Bourguignon 等（2016）研究，异白蚁属（<i>Heterotermes</i>）在非洲只于埃塞俄比亚周边有一小块分布区，而其余热带大洲都有原生种；该属在澳大利亚区、东方区与新热带区的多样性大致相当。该文沿用广义鼻白蚁科（<i>Rhinotermitidae</i>）的安置，本站现改置异白蚁科（<i>Heterotermitidae</i>）。",
+     "text_en": "According to the study by Bourguignon et al. (2016), <i>Heterotermes</i> occupies only a small area around Ethiopia in Africa, while every other tropical continent has native species; its diversity is roughly equal in the Australian, Oriental and Neotropical realms. The paper kept the genus in <i>Rhinotermitidae</i> in the broad sense, whereas this site now places it in <i>Heterotermitidae</i>.",
+     "text_es": "Según el estudio de Bourguignon et al. (2016), <i>Heterotermes</i> ocupa solo una pequeña área alrededor de Etiopía en África, mientras que todos los demás continentes tropicales tienen especies nativas; su diversidad es aproximadamente igual en los reinos australiano, oriental y neotropical. El artículo mantuvo el género en <i>Rhinotermitidae</i> en sentido amplio, mientras que este sitio lo sitúa ahora en <i>Heterotermitidae</i>.",
+     "src": [
+      "S0368"
+     ]
+    },
+    {
+     "text": "根据同一研究，现代异白蚁属（<i>Heterotermes</i>）的最近共同祖先位于东方区，年代约 36.0 Ma（33.9–40.5 Ma）；该属共推断出 3 次扩散：约 28.3–32.7 Ma（24.5–37.2 Ma）进入新热带区，约 12.9–21.0 Ma（10.3–25.1 Ma）从新热带区到达澳大利亚，另一次可能晚于 14.3 Ma 由东方区再次进入澳大利亚，即澳大利亚被定殖两次。",
+     "text_en": "According to the same study, the most recent common ancestor of modern <i>Heterotermes</i> lived in the Oriental realm about 36.0 Ma (33.9–40.5 Ma); three dispersal events were inferred for the genus: into the Neotropical realm at about 28.3–32.7 Ma (24.5–37.2 Ma), from the Neotropical realm to Australia at about 12.9–21.0 Ma (10.3–25.1 Ma), and possibly a second arrival in Australia from the Oriental realm after 14.3 Ma, so that Australia was colonized twice.",
+     "text_es": "Según el mismo estudio, el ancestro común más reciente de <i>Heterotermes</i> moderno vivió en el reino oriental hace unos 36,0 Ma (33,9–40,5 Ma); se infirieron tres eventos de dispersión para el género: hacia el reino neotropical hace unos 28,3–32,7 Ma (24,5–37,2 Ma), desde el reino neotropical hasta Australia hace unos 12,9–21,0 Ma (10,3–25,1 Ma), y posiblemente una segunda llegada a Australia desde el reino oriental después de 14,3 Ma, de modo que Australia fue colonizada dos veces.",
+     "src": [
+      "S0368"
+     ]
+    },
+    {
+     "text": "根据同一研究，异白蚁属（<i>Heterotermes</i>）已知最老的化石是产自欧洲的 <i>Heterotermes eocenicus</i>，年代约 34 Ma；该研究为该属取样的 14 份标本作了全线粒体基因组测序（约 16 kb），作者指出若补采印度、埃塞俄比亚与新热带的种类，可改进该属祖先分布区的重建。",
+     "text_en": "According to the same study, the oldest known fossils of <i>Heterotermes</i> are those of <i>Heterotermes eocenicus</i> from Europe, about 34 Ma old; the study sequenced complete mitochondrial genomes (about 16 kb) for 14 specimens of the genus, and the authors note that sampling additional species from India, Ethiopia and the Neotropical region would improve the reconstruction of the ancestral range.",
+     "text_es": "Según el mismo estudio, los fósiles más antiguos conocidos de <i>Heterotermes</i> son los de <i>Heterotermes eocenicus</i> de Europa, de unos 34 Ma; el estudio secuenció genomas mitocondriales completos (unos 16 kb) de 14 ejemplares del género, y los autores señalan que muestrear más especies de la India, Etiopía y la región neotropical mejoraría la reconstrucción del área ancestral.",
+     "src": [
+      "S0368"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -36,6 +67,11 @@
    "id": "S0008",
    "citation": "Hellemans, S.; Rocha, M. M.; Wang, M.; et al. 2024. Genomic data provide insights into the classification of extant termites. Nature Communications 15.",
    "doi": "10.1038/s41467-024-51028-y"
+  },
+  {
+   "id": "S0368",
+   "citation": "Bourguignon, T.; Lo, N.; Šobotník, J.; Sillam-Dussès, D.; Roisin, Y.; Evans, T. A. 2016. Oceanic dispersal, vicariance and human introduction shaped the modern distribution of the termites Reticulitermes, Heterotermes and Coptotermes. Proceedings of the Royal Society B.",
+   "url": "https://doi.org/10.1098/rspb.2016.0179"
   }
  ]
 }

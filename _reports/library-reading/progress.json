@@ -1,7 +1,7 @@
 {
  "version": 1,
  "created": "2026-11-11",
- "updated": "2026-11-18T21:35:40+08:00",
+ "updated": "2026-11-20T21:17:17+08:00",
  "notes": "每轮 20 个阅读单元（15 个文库 chunk + 5 条仅摘要记录）。扫描产出候选后由 _tools/library_scan.py mark --date 登记；只有草稿获用户批准并落盘后，才把该轮 reading_passes 记为完成。",
  "quota": {
   "total": 20,
@@ -480,8 +480,8 @@
    ]
   },
   "abstract:S0137": {
-   "reads": 4,
-   "last_read": "2026-11-16T00:30:50+08:00",
+   "reads": 5,
+   "last_read": "2026-11-20T21:17:17+08:00",
    "history": [
     {
      "date": "2026-11-11-r2",
@@ -501,6 +501,11 @@
     {
      "date": "2026-11-15-r2b",
      "focus": "taxonomy",
+     "source_id": "S0137"
+    },
+    {
+     "date": "2026-11-20",
+     "focus": "morphology",
      "source_id": "S0137"
     }
    ]
@@ -1096,8 +1101,8 @@
    ]
   },
   "abstract:S0151": {
-   "reads": 3,
-   "last_read": "2026-11-16T00:30:50+08:00",
+   "reads": 4,
+   "last_read": "2026-11-20T21:17:17+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -1112,13 +1117,18 @@
     {
      "date": "2026-11-15-r2b",
      "focus": "ecology",
+     "source_id": "S0151"
+    },
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
      "source_id": "S0151"
     }
    ]
   },
   "abstract:S0152": {
-   "reads": 3,
-   "last_read": "2026-11-16T00:30:50+08:00",
+   "reads": 4,
+   "last_read": "2026-11-20T21:17:17+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -1133,13 +1143,18 @@
     {
      "date": "2026-11-15-r2b",
      "focus": "ecology",
+     "source_id": "S0152"
+    },
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
      "source_id": "S0152"
     }
    ]
   },
   "abstract:S0154": {
-   "reads": 3,
-   "last_read": "2026-11-16T00:30:50+08:00",
+   "reads": 4,
+   "last_read": "2026-11-20T21:17:17+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -1155,12 +1170,17 @@
      "date": "2026-11-15-r2b",
      "focus": "ecology",
      "source_id": "S0154"
+    },
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
+     "source_id": "S0154"
     }
    ]
   },
   "abstract:S0155": {
-   "reads": 3,
-   "last_read": "2026-11-16T00:30:50+08:00",
+   "reads": 4,
+   "last_read": "2026-11-20T21:17:17+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -1175,6 +1195,11 @@
     {
      "date": "2026-11-15-r2b",
      "focus": "ecology",
+     "source_id": "S0155"
+    },
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
      "source_id": "S0155"
     }
    ]
@@ -3386,6 +3411,171 @@
      "date": "2026-11-18",
      "focus": "taxonomy",
      "source_id": "S0367"
+    }
+   ]
+  },
+  "Oceanic-dispersal,-vicariance-and-human-introduction-shaped-the-modern-distribut::0001-0009": {
+   "reads": 1,
+   "last_read": "2026-11-20T21:17:17+08:00",
+   "history": [
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
+     "source_id": "S0368"
+    }
+   ]
+  },
+  "10.1111-j.0014-3820.2002.tb00850.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-20T21:17:17+08:00",
+   "history": [
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
+     "source_id": "S0369"
+    }
+   ]
+  },
+  "10.1098-rspb.1997.0156::full": {
+   "reads": 1,
+   "last_read": "2026-11-20T21:17:17+08:00",
+   "history": [
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
+     "source_id": "S0370"
+    }
+   ]
+  },
+  "Solution-structure-of-termicin,-an-antimicrobial-peptide-from-the-termite-Pseuda::0001-0009": {
+   "reads": 1,
+   "last_read": "2026-11-20T21:17:17+08:00",
+   "history": [
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
+     "source_id": "S0371"
+    }
+   ]
+  },
+  "10.1073-pnas.022643899::full": {
+   "reads": 1,
+   "last_read": "2026-11-20T21:17:17+08:00",
+   "history": [
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
+     "source_id": "S0373"
+    }
+   ]
+  },
+  "10.1073-pnas.90.14.6641::full": {
+   "reads": 1,
+   "last_read": "2026-11-20T21:17:17+08:00",
+   "history": [
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
+     "source_id": "S0374"
+    }
+   ]
+  },
+  "10.1098-rspb.2015.0260::full": {
+   "reads": 1,
+   "last_read": "2026-11-20T21:17:17+08:00",
+   "history": [
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
+     "source_id": "S0375"
+    }
+   ]
+  },
+  "10.1073-pnas.88.5.2031::full": {
+   "reads": 1,
+   "last_read": "2026-11-20T21:17:17+08:00",
+   "history": [
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
+     "source_id": "S0376"
+    }
+   ]
+  },
+  "10.1073-pnas.2006985118::full": {
+   "reads": 1,
+   "last_read": "2026-11-20T21:17:17+08:00",
+   "history": [
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
+     "source_id": "S0377"
+    }
+   ]
+  },
+  "10.1111-j.1462-2920.2011.02648.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-20T21:17:17+08:00",
+   "history": [
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
+     "source_id": "S0378"
+    }
+   ]
+  },
+  "10.1098-rspb.2016.0196::full": {
+   "reads": 1,
+   "last_read": "2026-11-20T21:17:17+08:00",
+   "history": [
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
+     "source_id": "S0379"
+    }
+   ]
+  },
+  "10.2108-zsj.15.843::full": {
+   "reads": 1,
+   "last_read": "2026-11-20T21:17:17+08:00",
+   "history": [
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
+     "source_id": "S0380"
+    }
+   ]
+  },
+  "10.1111-j.1095-8312.2010.01392.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-20T21:17:17+08:00",
+   "history": [
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
+     "source_id": "S0381"
+    }
+   ]
+  },
+  "10.1002-jmor.10047::full": {
+   "reads": 1,
+   "last_read": "2026-11-20T21:17:17+08:00",
+   "history": [
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
+     "source_id": "S0383"
+    }
+   ]
+  },
+  "10.1590-s0101-81751986000400003::full": {
+   "reads": 1,
+   "last_read": "2026-11-20T21:17:17+08:00",
+   "history": [
+    {
+     "date": "2026-11-20",
+     "focus": "taxonomy",
+     "source_id": "S0384"
     }
    ]
   }

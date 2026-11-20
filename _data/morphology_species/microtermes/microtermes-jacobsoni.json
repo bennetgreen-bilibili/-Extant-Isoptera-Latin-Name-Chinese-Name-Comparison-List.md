@@ -1,0 +1,29 @@
+{
+  "zh_name": "雅各布森小白蚁",
+  "sections": [
+    {
+      "label": "鉴别要点",
+      "text": "有翅成虫与 M. pallidus 极近：翅微带灰黄、前胸背板略窄、中胸与后胸背板凹刻较深而后角尖、前翅中脉自肘脉基部分出、翅较短；兵蚁形与色同 M. pallidus 而显著更小，腹背板毛较密；工蚁二型，上颚髁较小，前胸背板前缘凹刻较弱。"
+    },
+    {
+      "label": "有翅成虫",
+      "text": "色泽与毛被同 M. pallidus。翅微带灰黄（M. pallidus 为淡黄）。前胸背板略窄于 M. pallidus。中胸与后胸背板较 M. pallidus 窄，但凹刻更深，后角尖（M. pallidus 后角钝）。前翅中脉自肘脉基部分出（M. pallidus 直接自翅鳞分出）。翅短于 M. pallidus。量度（mm）：连翅体长 16；不连翅体长 9；前翅长 13—13.5；头长 1.63；头宽 1.6；前胸背板宽 1.37、长 0.72。"
+    },
+    {
+      "label": "兵蚁",
+      "text": "形与色极似 M. pallidus，而远为小。腹背板毛较 M. pallidus 略密。头形，上唇、上颚与前胸背板的形状及长度均同 M. pallidus，但各部量度显著较小。量度（mm）：体长 3.33；头连上颚长 1.37；头不连上颚长 0.84；头宽 0.8；前胸背板宽 0.57。"
+    },
+    {
+      "label": "工蚁",
+      "text": "二型。极似 M. pallidus 工蚁。头黄色；体近白色。毛被同 M. pallidus。头形、头缝、囟、唇基、触角同 M. pallidus；上颚髁较小。前胸背板前缘弱凹。量度（mm）：小型工蚁体长 2.6、头宽 0.84、前胸背板宽 0.42；大型工蚁体长 3.7—4、头宽 1.14、前胸背板宽 0.61。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S0089",
+      "citation": "Holmgren N. 1913. Termitenstudien 4. Versuch einer systematischen Monographie der Termiten der orientalischen Region. Almqvist & Wiksell, Uppsala & Stockholm.",
+      "locator": "pp. 148—149（biostor-244353；图版 VI 图 6、图 8）"
+    }
+  ],
+  "note": "据 Holmgren 1913 德文原始描述改写（新种，原文作 Microtermes Jacobsoni）。模式产地爪哇三宝垄（Samarang），Jacobson 采。德文量度以逗号作小数点（如 1,63），此处统一改为句点，数值未变；原文各表以「»」承前行的 mm。扫描件兵蚁与工蚁量度表列序错乱，小型工蚁与大型工蚁的对应数值依其大小关系配对，量值照录；同一扫描页上半的工蚁量度表（体长 4—4.5 mm 与 3 mm、头宽 1.25 与 0.87、前胸背板宽 0.66 与 0.53）属 M. pallidus，未计入本种。原文未记若虫，无检索表，与 M. pallidus 的差别散见于各族记述。"
+}

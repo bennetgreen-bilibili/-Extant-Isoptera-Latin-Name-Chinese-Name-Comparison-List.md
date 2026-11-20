@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-20",
+ "sections": [
+  {
+   "heading": "与台湾乳白蚁的系统位置",
+   "heading_en": "Phylogenetic position relative to Coptotermes formosanus",
+   "heading_es": "Posición filogenética respecto a Coptotermes formosanus",
+   "paragraphs": [
+    {
+     "text": "根据 Bourguignon 等（2016）研究，瑞明乳白蚁（<i>Coptotermes elisae</i>）是台湾乳白蚁（<i>Coptotermes formosanus</i>）的姐妹群，二者一起嵌套在东方区的乳白蚁属（<i>Coptotermes</i>）支系之内；该文比较了 31 份乳白蚁属标本的全线粒体基因组（每份约 16 kb），据此重建了这一支系的系统关系。",
+     "text_en": "According to Bourguignon et al. (2016), <i>Coptotermes elisae</i> is the sister group of <i>Coptotermes formosanus</i>, and the two are nested together within the Oriental clade of <i>Coptotermes</i>; the study compared complete mitochondrial genomes (about 16 kb each) of 31 <i>Coptotermes</i> specimens and reconstructed the relationships of this clade from them.",
+     "text_es": "Según Bourguignon et al. (2016), <i>Coptotermes elisae</i> es el grupo hermano de <i>Coptotermes formosanus</i>, y ambos quedan anidados dentro del clado oriental de <i>Coptotermes</i>; el estudio comparó genomas mitocondriales completos (unos 16 kb cada uno) de 31 ejemplares de <i>Coptotermes</i> y reconstruyó con ellos las relaciones de este clado.",
+     "src": [
+      "S0368"
+     ]
+    },
+    {
+     "text": "根据同一研究，瑞明乳白蚁（<i>Coptotermes elisae</i>）在形态上与曲颚乳白蚁（<i>Coptotermes curvignathus</i>）相似，而全线粒体基因组数据显示它与台湾乳白蚁（<i>Coptotermes formosanus</i>）构成姐妹群。",
+     "text_en": "In the same study, <i>Coptotermes elisae</i> resembles <i>Coptotermes curvignathus</i> in morphology, yet the complete mitochondrial genomes place it as the sister group of <i>Coptotermes formosanus</i>.",
+     "text_es": "En el mismo estudio, <i>Coptotermes elisae</i> se parece morfológicamente a <i>Coptotermes curvignathus</i>, pero los genomas mitocondriales completos la sitúan como grupo hermano de <i>Coptotermes formosanus</i>.",
+     "src": [
+      "S0368"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0368",
+   "citation": "Bourguignon, T.; Lo, N.; Šobotník, J.; Sillam-Dussès, D.; Roisin, Y.; Evans, T. A. 2016. Oceanic dispersal, vicariance and human introduction shaped the modern distribution of the termites Reticulitermes, Heterotermes and Coptotermes. Proceedings of the Royal Society B.",
+   "url": "https://doi.org/10.1098/rspb.2016.0179"
+  }
+ ]
+}

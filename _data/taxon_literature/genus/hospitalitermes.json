@@ -1,0 +1,43 @@
+{
+ "updated": "2026-11-20",
+ "sections": [
+  {
+   "heading": "觅食纵队的品级分化与性别二型",
+   "heading_en": "Caste differentiation and sexual dimorphism in the processional columns",
+   "heading_es": "Diferenciación de castas y dimorfismo sexual en las columnas de forrajeo",
+   "paragraphs": [
+    {
+     "text": "据摘要，Miura、Roisin 与 Matsumoto（1998）研究中黄须白蚁（<i>Hospitalitermes medioflavus</i>）时指出，须白蚁属（<i>Hospitalitermes</i>）是排成觅食纵队活动的象白蚁亚科（<i>Nasutitermitinae</i>）属之一，该种兵蚁为单型、工蚁分为三型；参加觅食的品级为兵蚁与小、中、大三种工蚁。",
+     "text_en": "According to the abstract, in their study of <i>Hospitalitermes medioflavus</i>, Miura, Roisin and Matsumoto (1998) note that <i>Hospitalitermes</i> is one of the <i>Nasutitermitinae</i> genera that forage in processional columns, that the soldier of this species is monomorphic and the workers fall into three types, and that the castes taking part in foraging are soldiers and small, medium and large workers.",
+     "text_es": "Según el resumen, en su estudio de <i>Hospitalitermes medioflavus</i>, Miura, Roisin y Matsumoto (1998) señalan que <i>Hospitalitermes</i> es uno de los géneros de <i>Nasutitermitinae</i> que forrajean en columnas procesionales, que el soldado de esta especie es monomórfico y las obreras se dividen en tres tipos, y que las castas que participan en el forrajeo son los soldados y las obreras pequeñas, medianas y grandes.",
+     "src": [
+      "S0380"
+     ]
+    },
+    {
+     "text": "据摘要，同一研究以解剖与组织染色判定：兵蚁与小工蚁为雄性，中工蚁与大工蚁为雌性；幼虫头宽的频次分布出现 3 个明显峰，最小的峰为第一龄的两性个体，中间的峰只含雄性，最大的峰只含雌性，属第二龄。蜕皮个体与上颚形态的观察确认了这些品级之间的发育关系。",
+     "text_en": "According to the abstract, the same study used dissections and histological staining to determine that soldiers and small workers are male while medium and large workers are female; the frequency distribution of larval head widths shows 3 distinct peaks, the smallest containing both sexes at the first instar, the middle one containing only males and the largest only females at the second instar. Observations of moulting individuals and of mandible morphology confirmed the developmental relationships among these castes.",
+     "text_es": "Según el resumen, el mismo estudio utilizó disecciones y tinciones histológicas para determinar que los soldados y las obreras pequeñas son machos, mientras que las obreras medianas y grandes son hembras; la distribución de frecuencias del ancho de la cabeza larval muestra 3 picos definidos, el menor con ambos sexos en el primer estadio, el intermedio solo con machos y el mayor solo con hembras en el segundo estadio. La observación de individuos en muda y de la morfología de las mandíbulas confirmó las relaciones de desarrollo entre estas castas.",
+     "src": [
+      "S0380"
+     ]
+    },
+    {
+     "text": "据摘要，同一研究把这种无性品级途径与象白蚁属（<i>Nasutitermes</i>）的相应途径并列：雄性个体由啃食的小工蚁转为防御的兵蚁，雌性个体专司觅食中的啃咬与搬运，须白蚁属（<i>Hospitalitermes</i>）工蚁分 3 型，因而同时表现出时间上的多型（个体随龄期改变职能）与性别上的多型（雌雄承担不同职能）。",
+     "text_en": "According to the abstract, the same study places this neuter developmental pathway alongside the corresponding pathway in <i>Nasutitermes</i>: males pass from gnawing small workers to defensive soldiers, while females specialize in the biting and carrying tasks of foraging, so that <i>Hospitalitermes</i>, with 3 worker types, shows both temporal polyethism, with individuals changing tasks as they age, and sexual polyethism, with the sexes taking different roles.",
+     "text_es": "Según el resumen, el mismo estudio sitúa esta vía de desarrollo de las castas neutras junto a la vía correspondiente en <i>Nasutitermes</i>: los machos pasan de obreras pequeñas que roen a soldados defensivos, mientras que las hembras se especializan en las tareas de morder y transportar del forrajeo, de modo que <i>Hospitalitermes</i>, con 3 tipos de obreras, muestra a la vez politeísmo temporal, con individuos que cambian de tarea con la edad, y politeísmo sexual, con los sexos desempeñando papeles distintos.",
+     "src": [
+      "S0380"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0380",
+   "citation": "Miura, T.; Roisin, Y.; Matsumoto, T. 1998. Developmental pathways and polyethism of neuter castes in the processional nasute termite Hospitalitermes medioflavus (Isoptera: Termitidae). Zoological Science.",
+   "url": "https://doi.org/10.2108/zsj.15.843"
+  }
+ ]
+}

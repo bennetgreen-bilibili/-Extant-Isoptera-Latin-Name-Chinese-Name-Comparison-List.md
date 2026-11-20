@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-20",
+ "sections": [
+  {
+   "heading": "觅食品级与性别判定",
+   "heading_en": "Foraging castes and sex determination",
+   "heading_es": "Castas de forrajeo y determinación del sexo",
+   "paragraphs": [
+    {
+     "text": "据摘要，Miura、Roisin 与 Matsumoto（1998）记录中黄须白蚁（<i>Hospitalitermes medioflavus</i>）参加觅食的品级为兵蚁及小、中、大三种工蚁；经解剖与组织染色判定，兵蚁与小工蚁为雄性，中工蚁与大工蚁为雌性，即觅食队伍中的个体按性别分工。",
+     "text_en": "According to the abstract, Miura, Roisin and Matsumoto (1998) recorded that the castes of <i>Hospitalitermes medioflavus</i> taking part in foraging are soldiers together with small, medium and large workers; dissections and histological staining showed that soldiers and small workers are male while medium and large workers are female, so that individuals in the foraging column are divided by sex.",
+     "text_es": "Según el resumen, Miura, Roisin y Matsumoto (1998) registraron que las castas de <i>Hospitalitermes medioflavus</i> que participan en el forrajeo son los soldados junto con obreras pequeñas, medianas y grandes; las disecciones y tinciones histológicas mostraron que los soldados y las obreras pequeñas son machos mientras que las obreras medianas y grandes son hembras, de modo que los individuos de la columna de forrajeo se dividen por sexo.",
+     "src": [
+      "S0380"
+     ]
+    },
+    {
+     "text": "据摘要，同一研究测得幼虫头宽频次分布有 3 个峰：最小的峰为第一龄两性个体，中间的峰只含雄性、最大的峰只含雌性，二者均为第二龄；结合蜕皮个体的观察与上颚形态，作者确认了小工蚁→兵蚁与中、大工蚁各自的发育来源。成体群体中兵蚁为单型，工蚁为三型。",
+     "text_en": "According to the abstract, the same study found 3 peaks in the frequency distribution of larval head widths: the smallest peak contains both sexes at the first instar, the middle peak contains only males and the largest only females, both at the second instar; combining observations of moulting individuals with mandible morphology, the authors established the developmental origin of soldiers from small workers and of the medium and large worker types. In mature colonies the soldier is monomorphic and the workers comprise three types.",
+     "text_es": "Según el resumen, el mismo estudio encontró 3 picos en la distribución de frecuencias del ancho de la cabeza larval: el pico menor contiene ambos sexos en el primer estadio, el intermedio solo machos y el mayor solo hembras, ambos en el segundo estadio; combinando observaciones de individuos en muda con la morfología de las mandíbulas, los autores establecieron el origen de los soldados a partir de obreras pequeñas y de los tipos de obreras mediana y grande. En colonias maduras el soldado es monomórfico y las obreras comprenden tres tipos.",
+     "src": [
+      "S0380"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0380",
+   "citation": "Miura, T.; Roisin, Y.; Matsumoto, T. 1998. Developmental pathways and polyethism of neuter castes in the processional nasute termite Hospitalitermes medioflavus (Isoptera: Termitidae). Zoological Science.",
+   "url": "https://doi.org/10.2108/zsj.15.843"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El alado es muy próximo a M. pallidus: alas con un leve tinte gris amarillento, pronoto algo más estrecho, mesonoto y metanoto con escotaduras más profundas y ángulos posteriores agudos, media del ala anterior que se origina en la base del cubito, alas más cortas; el soldado coincide con M. pallidus en forma y color pero es marcadamente menor, con setas más densas en los terguitos abdominales; el obrero es dimorfo, con cóndilos mandibulares menores y una escotadura más débil en el margen anterior del pronoto."
+  },
+  {
+   "label": "Alado",
+   "text": "Color y pilosidad como en M. pallidus. Alas con un leve tinte gris amarillento (amarillo pálido en M. pallidus). Pronoto algo más estrecho que en M. pallidus. Mesonoto y metanoto más estrechos que en M. pallidus, pero con escotaduras más profundas y ángulos posteriores agudos (ángulos posteriores romos en M. pallidus). La media del ala anterior se origina en la base del cubito (en M. pallidus directamente en la escama alar). Alas más cortas que en M. pallidus. Medidas (mm): longitud del cuerpo con alas 16; longitud del cuerpo sin alas 9; longitud del ala anterior 13—13,5; longitud de la cabeza 1,63; anchura de la cabeza 1,6; anchura del pronoto 1,37, longitud 0,72."
+  },
+  {
+   "label": "Soldado",
+   "text": "Forma y color muy similares a M. pallidus, pero mucho menor. Las setas de los terguitos abdominales algo más densas que en M. pallidus. La forma de la cabeza, el labro, las mandíbulas y el pronoto, así como sus longitudes, idénticos a M. pallidus, pero todas las medidas marcadamente menores. Medidas (mm): longitud del cuerpo 3,33; longitud de la cabeza con mandíbulas 1,37; longitud de la cabeza sin mandíbulas 0,84; anchura de la cabeza 0,8; anchura del pronoto 0,57."
+  },
+  {
+   "label": "Obrero",
+   "text": "Dimorfo. Muy similar al obrero de M. pallidus. Cabeza amarilla; cuerpo casi blanco. Pilosidad como en M. pallidus. La forma de la cabeza, las suturas cefálicas, la fontanela, el clípeo y las antenas como en M. pallidus; los cóndilos mandibulares menores. El margen anterior del pronoto débilmente cóncavo. Medidas (mm): obrero menor longitud del cuerpo 2,6, anchura de la cabeza 0,84, anchura del pronoto 0,42; obrero mayor longitud del cuerpo 3,7—4, anchura de la cabeza 1,14, anchura del pronoto 0,61."
+  }
+ ],
+ "note": "Adaptado de la descripción original alemana de Holmgren 1913 (especie nueva, descrita allí como Microtermes Jacobsoni). Localidad tipo: Samarang, Java, recolectada por Jacobson. Las medidas alemanas usan la coma como signo decimal (p. ej. 1,63); aquí se han convertido uniformemente en punto sin alterar los valores, y las tablas del original arrastran la unidad mm de la línea anterior mediante una marca de repetición. El orden de las columnas de las tablas de medidas del soldado y del obrero está descolocado en el escaneo, por lo que los valores correspondientes al obrero menor y al obrero mayor se han emparejado según su relación de tamaño y los valores se transcriben tal como figuran; la tabla de medidas del obrero de la parte superior de la misma página escaneada (longitud del cuerpo 4—4,5 mm y 3 mm, anchura de la cabeza 1,25 y 0,87, anchura del pronoto 0,66 y 0,53) pertenece a M. pallidus y no se ha contado para esta especie. El original no registra la ninfa y no tiene clave; las diferencias con M. pallidus están dispersas en las descripciones de las distintas castas."
+}

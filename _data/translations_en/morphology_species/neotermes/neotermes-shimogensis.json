@@ -1,0 +1,13 @@
+{
+ "sections": [
+  {
+   "label": "Soldier",
+   "text": "Anterior clypeus trapezoidal, translucent, white. Mandibles short and stout, the outer base markedly raised; slightly longer than half the head length (mandible length 1.75—1.93 mm, mandible length / head length index 0.51—0.56). Left mandible with 5 marginal teeth, the first and second larger; right mandible with 2 large marginal teeth, situated in the middle. Postmentum long, club-shaped; the club bilobed; the stalk forming a long and rather broad waist (greatest width 0.75—0.80 mm, waist width 0.33—0.38 mm). Pronotum subquadrate, slightly narrower than the head, more than twice as wide as long (width 2.23—2.35 mm); anterior margin weakly incurved; sides rounded; posterior margin concave in the middle. Legs short and slender; tibial apical spurs 3:3:3; tarsi 4-segmented. Abdomen slender, cylindrical; cerci 2-segmented."
+  },
+  {
+   "label": "Worker",
+   "text": "Pseudoworker: head capsule pale yellow to yellow; thorax and abdomen milk-white. Head and body moderately hairy. Body length without wings 6.5—8.0 mm. Head capsule nearly circular, the sides slightly straight, wider than long (head length to the mandibular base 1.40—1.50 mm, width 1.63—1.70 mm). Compound eyes degenerate, white. Antennae 16—18-segmented. Postclypeus nearly rectangular, deeper than the frons; anteclypeus white, trapezoidal. Labrum nearly square, almost as long as wide. Mandibles of the typical Neotermes type. Pronotum nearly rectangular, narrower than the head (length 0.73—0.88 mm, width 1.43—1.50 mm); anterior margin incurved, with a median notch. Legs and abdomen as in the soldier."
+  }
+ ],
+ "note": "Adapted from the Isoptera volume of Roonwal & Chhotani 1989, The Fauna of India (original in English). Type locality: Shimoga, Karnataka, India (13°55' N, 75°30' E); known only from the type locality. The soldier figure is redrawn from Thakur (1980c). The beginning of the soldier section is missing from the scan — head colour, body length and antennae are not preserved — and only the fragment \"triangular\" survives across the page break; the postmentum length was printed as \"2.3*2.S\" and the pronotal length as \"1.0-1.IS\", both defective in the OCR and therefore not transcribed. The soldier and pseudoworker measurements are translated verbatim from the original, in mm. The original calls this caste the pseudoworker and does not record the alate."
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-20",
  "sections": [
   {
    "heading": "蚁巢被蚂蚁占用",
@@ -54,6 +54,45 @@
      "text_es": "Según el resumen, Okwakol (1980) informó que una sola obrera de <i>Cubitermes</i> consume 0.72–0.911 mg de suelo y 0.65–0.84 mg de materia orgánica por día; extrapolado a las poblaciones de obreras en el campo, ello equivale a 69–88 mg de suelo consumido y 62–81 mg de materia orgánica extraída por metro cuadrado al año, y el autor considera que el efecto global es desfavorable porque reduce el contenido de materia orgánica del suelo."
     }
    ]
+  },
+  {
+   "heading": "肠道硝酸盐还原与巢迹化石",
+   "heading_en": "Gut nitrate reduction and trace-fossil nests",
+   "heading_es": "Reducción de nitrato en el intestino y nidos fósiles",
+   "paragraphs": [
+    {
+     "text": "据摘要，Ngugi 与 Brune（2011）用 <sup>15</sup>N 示踪研究 2 种方白蚁属（<i>Cubitermes</i>）与 1 种蛇白蚁属（<i>Ophiotermes</i>）的肠道氮代谢，测得活白蚁排放 N<sub>2</sub> 的速率为 3.8–6.8 nmol h<sup>-1</sup> (g fresh wt)<sup>-1</sup>；该速率为 3 种合并值，摘要未按属分列。",
+     "text_en": "According to the abstract, Ngugi and Brune (2011) used <sup>15</sup>N tracing to study gut nitrogen metabolism in two species of <i>Cubitermes</i> and one of <i>Ophiotermes</i> and measured N<sub>2</sub> emission by live termites at 3.8–6.8 nmol h<sup>-1</sup> (g fresh wt)<sup>-1</sup>; this rate is pooled for the three species and the abstract does not separate the genera.",
+     "text_es": "Según el resumen, Ngugi y Brune (2011) utilizaron trazadores de <sup>15</sup>N para estudiar el metabolismo del nitrógeno intestinal en dos especies de <i>Cubitermes</i> y una de <i>Ophiotermes</i> y midieron una emisión de N<sub>2</sub> por termitas vivas de 3,8–6,8 nmol h<sup>-1</sup> (g peso fresco)<sup>-1</sup>; esta tasa es un valor conjunto para las tres especies y el resumen no la separa por género.",
+     "src": [
+      "S0378"
+     ]
+    },
+    {
+     "text": "据摘要，同一研究在肠段匀浆中发现反硝化只限于后肠后段，而硝酸盐氨化出现在所有肠段并以前肠为主；全肠的硝酸盐氨化潜力约为反硝化的 10 倍，说明氨化是摄入硝酸盐的主要去向。由于前肠已高效还原硝酸盐，后肠的反硝化过程必须依赖内源的氧化态氮。",
+     "text_en": "According to the abstract, the same study found in gut homogenates that denitrification was confined to the posterior hindgut, whereas nitrate ammonification occurred in all gut segments and predominated in the foregut; the ammonification potential of the whole gut was about ten times the denitrification potential, showing that ammonification is the main fate of ingested nitrate. Because the foregut already reduces nitrate efficiently, denitrification in the hindgut must rely on endogenous oxidized nitrogen.",
+     "text_es": "Según el resumen, el mismo estudio encontró en homogeneizados intestinales que la desnitrificación se limitaba al intestino posterior y que la amonificación del nitrato ocurría en todos los segmentos, predominando en el intestino anterior; el potencial de amonificación de todo el intestino era unas diez veces el de desnitrificación, lo que muestra que la amonificación es el destino principal del nitrato ingerido. Como el intestino anterior ya reduce el nitrato con eficacia, la desnitrificación del intestino posterior debe depender de nitrógeno oxidado endógeno.",
+     "src": [
+      "S0378"
+     ]
+    },
+    {
+     "text": "据摘要，同一研究在 P4 肠段观察到 <sup>15</sup>N-氨被厌氧氧化为亚硝酸盐，推测由三价铁驱动，但未检出硝化与厌氧氨氧化；其中 2 种白蚁排放 N<sub>2</sub>O 的速率为 0.4–3.9 nmol h<sup>-1</sup> (g fresh wt)<sup>-1</sup>，作者据此认为土食性白蚁是热带土壤中此前未被认识的温室气体源。",
+     "text_en": "According to the abstract, the same study observed <sup>15</sup>N-ammonia being oxidized anaerobically to nitrite in the P4 gut segment, probably driven by ferric iron, but detected neither nitrification nor anammox; two of the termite species emitted N<sub>2</sub>O at 0.4–3.9 nmol h<sup>-1</sup> (g fresh wt)<sup>-1</sup>, and the authors conclude that soil-feeding termites are a previously unrecognized source of greenhouse gases in tropical soils.",
+     "text_es": "Según el resumen, el mismo estudio observó que el <sup>15</sup>N-amonio se oxidaba anaeróbicamente a nitrito en el segmento intestinal P4, probablemente impulsado por hierro férrico, pero no detectó ni nitrificación ni anammox; dos de las especies de termitas emitían N<sub>2</sub>O a 0,4–3,9 nmol h<sup>-1</sup> (g peso fresco)<sup>-1</sup>, y los autores concluyen que las termitas que se alimentan de suelo son una fuente de gases de efecto invernadero antes no reconocida en los suelos tropicales.",
+     "src": [
+      "S0378"
+     ]
+    },
+    {
+     "text": "据摘要，Genise 与 Bown（1994）记述埃及北部上始新统—下中新统地层中的地下白蚁巢迹，其中 Fleaglellius pagodus 由腔室逐层叠置、垂直生长成地下塔状，与现生方白蚁属（<i>Cubitermes</i>）在地表筑丘的巢相近；作者据此认为至少有两类此前只见于现生地表的建筑类型，最初是由地下生活的种类发展出来的。",
+     "text_en": "According to the abstract, Genise and Bown (1994) described subterranean termite nests from upper Eocene to lower Miocene strata of northern Egypt, among them <i>Fleaglellius pagodus</i>, which grew vertically into a subterranean tower by stacking chambers in successive layers and resembles the mounds that living <i>Cubitermes</i> build above ground; the authors conclude that at least two architectural types previously known only from the present-day surface were first developed by subterranean-dwelling termites.",
+     "text_es": "Según el resumen, Genise y Bown (1994) describieron nidos subterráneos de termitas en estratos del Eoceno superior al Mioceno inferior del norte de Egipto, entre ellos <i>Fleaglellius pagodus</i>, que crecía verticalmente formando una torre subterránea por apilamiento sucesivo de cámaras y se parece a los montículos que las <i>Cubitermes</i> vivas construyen sobre el suelo; los autores concluyen que al menos dos tipos arquitectónicos conocidos antes solo en la superficie actual fueron desarrollados primero por termitas de vida subterránea.",
+     "src": [
+      "S0151"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -76,6 +115,11 @@
    "id": "S0296",
    "citation": "Okwakol, M. J. N. 1980. Estimation of soil and organic matter consumption by termites of the genus Cubitermes. African Journal of Ecology.",
    "doi": "10.1111/j.1365-2028.1980.tb00276.x"
+  },
+  {
+   "id": "S0378",
+   "citation": "Ngugi, D. K.; Brune, A. 2011. Nitrate reduction, nitrous oxide formation, and anaerobic ammonia oxidation to nitrite in the gut of soil-feeding termites (Cubitermes and Ophiotermes spp.). Environmental Microbiology.",
+   "url": "https://doi.org/10.1111/j.1462-2920.2011.02648.x"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-20",
  "sections": [
   {
    "heading": "对称弹颚兵蚁的化学系统学",
@@ -15,6 +15,29 @@
      "text_es": "Según Kyjaková et al. (2016), ya se había descrito una glándula frontal activa y sustancias defensivas peculiares en los soldados que chasquean simétricamente de <i>Cavitermes tuberosus</i>; el estudio examinó cinco especies neotropicales adicionales, comparando la anatomía de la glándula frontal y la química de su secreción y proyectando las observaciones sobre una filogenia molecular de nuevo construcción. Los soldados de todas las especies estudiadas poseen una glándula frontal funcional, alojada en parte en las proyecciones frontales de la cabeza, y la filogenia agrupa a los taxones estudiados en dos clados bien definidos, apoyados por diferencias fundamentales en las sustancias defensivas, que proceden exclusivamente de la vía lipogénica o incluyen además productos de la vía isoprenoide. Los resultados identifican también un género nuevo de soldados que chasquean simétricamente, emparentado con <i>Cavitermes</i>, que había sido clasificado erróneamente en varios estudios anteriores (según el resumen)."
     }
    ]
+  },
+  {
+   "heading": "兼性孤雌生殖在腔白蚁属的证实",
+   "heading_en": "Facultative asexual reproduction confirmed in Cavitermes",
+   "heading_es": "Reproducción asexual facultativa confirmada en Cavitermes",
+   "paragraphs": [
+    {
+     "text": "据摘要，Fournier 等（2016）在肉瘤腔白蚁（<i>Cavitermes tuberosus</i>）中证实了兼性孤雌生殖（asexual queen succession, AQS）：非扩散的补充繁殖蚁后由初生蚁后产雌孤雌产生，随后与初生蚁王交配，而工蚁、兵蚁、多数有翅成虫与初生生殖蚁仍为有性产生。研究者检查的 95 个巢中，39 个有初生蚁后，28 个含 2–667 头补充繁殖雌蚁，通常同时有初生蚁王。",
+     "text_en": "According to the abstract, Fournier et al. (2016) demonstrated facultative asexual reproduction, or asexual queen succession (AQS), in <i>Cavitermes tuberosus</i>: non-dispersing supplementary neotenic queens are produced parthenogenetically by the primary queen and later mate with the primary king, while workers, soldiers, most alates and the primary reproductives are still produced sexually. Of the 95 nests examined, 39 contained a primary queen and 28 contained 2–667 supplementary neotenic females, usually together with a primary king.",
+     "text_es": "Según el resumen, Fournier et al. (2016) demostraron la reproducción asexual facultativa, o sucesión asexual de reinas (AQS), en <i>Cavitermes tuberosus</i>: las reinas neoténicas suplementarias no dispersantes son producidas partenogenéticamente por la reina primaria y después se aparean con el rey primario, mientras que las obreras, los soldados, la mayoría de los alados y los reproductivos primarios siguen produciéndose sexualmente. De los 95 nidos examinados, 39 contenían una reina primaria y 28 contenían de 2 a 667 hembras neoténicas suplementarias, generalmente junto con un rey primario.",
+     "src": [
+      "S0379"
+     ]
+    },
+    {
+     "text": "据摘要，同一研究检查的 95 个巢中有 28 个含补充繁殖雌蚁；研究把腔白蚁属（<i>Cavitermes</i>）的 AQS 与散白蚁属（<i>Reticulitermes</i>）、生白蚁属（<i>Embiratermes</i>）的相应现象并列，认为该类繁殖方式在等翅下目内多次独立起源；在腔白蚁属（<i>Cavitermes</i>）中，AQS 多发生在群体成熟之后，而不是建群初期，作者把这种时机与群体较小、稳定性较低、迁移性较高的生活史特征联系起来。",
+     "text_en": "According to the abstract, 28 of the 95 nests examined in the same study contained supplementary neotenic females; the study places AQS in <i>Cavitermes</i> alongside the corresponding phenomena in <i>Reticulitermes</i> and <i>Embiratermes</i> and concludes that this mode of reproduction originated independently several times within Isoptera; in <i>Cavitermes</i>, AQS usually occurs after the colony has matured rather than at founding, and the authors link this timing to life-history traits such as smaller colony size, lower stability and higher mobility.",
+     "text_es": "Según el resumen, 28 de los 95 nidos examinados en el mismo estudio contenían hembras neoténicas suplementarias; el estudio sitúa la AQS de <i>Cavitermes</i> junto a los fenómenos correspondientes en <i>Reticulitermes</i> y <i>Embiratermes</i> y concluye que este modo de reproducción se originó de forma independiente varias veces dentro de Isoptera; en <i>Cavitermes</i>, la AQS suele ocurrir después de que la colonia ha madurado y no en su fundación, y los autores relacionan este momento con rasgos de historia de vida como un tamaño de colonia menor, una estabilidad menor y una movilidad mayor.",
+     "src": [
+      "S0379"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -22,6 +45,11 @@
    "id": "S0325",
    "citation": "Kyjaková, P.; Roy, V.; Jirošová, A.; Krasulová, J.; Dolejšová, K.; Křivánek, J.; Hadravová, R.; Rybáček, J.; Pohl, R.; Roisin, Y.; Sillam-Dussès, D.; Hanus, R. 2016. Chemical systematics of Neotropical termite genera with symmetrically snapping soldiers (Termitidae: Termitinae). Zoological Journal of the Linnean Society.",
    "url": "https://doi.org/10.1111/zoj.12486"
+  },
+  {
+   "id": "S0379",
+   "citation": "Fournier, D.; Hellemans, S.; Hanus, R.; Roisin, Y. 2016. Facultative asexual reproduction and genetic diversity of populations in the humivorous termite Cavitermes tuberosus. Proceedings of the Royal Society B.",
+   "url": "https://doi.org/10.1098/rspb.2016.0196"
   }
  ]
 }

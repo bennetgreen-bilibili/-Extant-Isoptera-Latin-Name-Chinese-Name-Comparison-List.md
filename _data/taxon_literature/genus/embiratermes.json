@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-20",
+ "sections": [
+  {
+   "heading": "高等白蚁中的兼性孤雌生殖",
+   "heading_en": "Facultative asexual reproduction in a higher termite",
+   "heading_es": "Reproducción asexual facultativa en una termita superior",
+   "paragraphs": [
+    {
+     "text": "据摘要，Fougeyrollas 等（2015）指出兼性孤雌生殖（AQS）此前只在 3 种散白蚁属（<i>Reticulitermes</i>，低等白蚁）中已知，而他们在幼态生白蚁（<i>Embiratermes neotenicus</i>）的 10 个群体中检出了同一现象；生白蚁属（<i>Embiratermes</i>）属白蚁科（<i>Termitidae</i>），本站现置于聚白蚁亚科（<i>Syntermitinae</i>），因此 AQS 并不限于低等白蚁。",
+     "text_en": "According to the abstract, Fougeyrollas et al. (2015) note that facultative asexual reproduction (AQS) was previously known only in three species of <i>Reticulitermes</i>, a lower termite, and that they detected the same phenomenon in 10 colonies of <i>Embiratermes neotenicus</i>; <i>Embiratermes</i> belongs to <i>Termitidae</i> and is placed here in <i>Syntermitinae</i>, so AQS is not restricted to lower termites.",
+     "text_es": "Según el resumen, Fougeyrollas et al. (2015) señalan que la reproducción asexual facultativa (AQS) solo se conocía antes en tres especies de <i>Reticulitermes</i>, una termita inferior, y que detectaron el mismo fenómeno en 10 colonias de <i>Embiratermes neotenicus</i>; <i>Embiratermes</i> pertenece a <i>Termitidae</i> y aquí se sitúa en <i>Syntermitinae</i>, de modo que la AQS no se limita a las termitas inferiores.",
+     "src": [
+      "S0375"
+     ]
+    },
+    {
+     "text": "据摘要，同一研究用 5 个新开发的微卫星位点证明幼态生白蚁（<i>Embiratermes neotenicus</i>）的非扩散补充繁殖蚁后由初生蚁后产雌孤雌产生，其孤雌方式最可能是中央融合的自体混合（automixis with central fusion），而散白蚁属（<i>Reticulitermes</i>）已知的方式为末端融合；机制不同支持 AQS 在低等白蚁与高等白蚁中各独立起源。",
+     "text_en": "According to the abstract, the same study used five newly developed microsatellite loci to show that the non-dispersing supplementary neotenic queens of <i>Embiratermes neotenicus</i> are produced parthenogenetically by the primary queen, most probably by automixis with central fusion, whereas the mechanism known in <i>Reticulitermes</i> is terminal fusion; the difference in mechanism supports independent origins of AQS in lower and higher termites.",
+     "text_es": "Según el resumen, el mismo estudio utilizó cinco loci microsatélites recién desarrollados para mostrar que las reinas neoténicas suplementarias no dispersantes de <i>Embiratermes neotenicus</i> son producidas partenogenéticamente por la reina primaria, muy probablemente por automixis con fusión central, mientras que el mecanismo conocido en <i>Reticulitermes</i> es la fusión terminal; la diferencia de mecanismo apoya orígenes independientes de la AQS en termitas inferiores y superiores.",
+     "src": [
+      "S0375"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0375",
+   "citation": "Fougeyrollas, R.; Dolejšová, K.; Sillam-Dussès, D.; Roy, V.; Poteaux, C.; Hanus, R.; Roisin, Y. 2015. Asexual queen succession in the higher termite Embiratermes neotenicus. Proceedings of the Royal Society B.",
+   "url": "https://doi.org/10.1098/rspb.2015.0260"
+  }
+ ]
+}

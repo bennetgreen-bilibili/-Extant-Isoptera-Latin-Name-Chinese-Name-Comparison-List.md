@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-20",
  "sections": [
   {
    "heading": "肠道鞭毛虫组合",
@@ -38,6 +38,21 @@
      "text_es": "Contrariamente a los registros antiguos de la literatura, <i>Serritermes serrifer</i> presenta desarrollo lineal: dos estadios larvales, pseudergados de dos tipos corporales y una sola forma de ninfa; una colonia típica tiene únicamente una reina primaria fisogástrica y un rey primario, los reproductores ergatoides son relativamente escasos, el abdomen de algunas ergatoides femeninas puede volverse muy fisogástrico y el estudio no halló reproductores ninfoides (según el resumen)."
     }
    ]
+  },
+  {
+   "heading": "额腺发育与近缘关系",
+   "heading_en": "Frontal-gland development and close relationship",
+   "heading_es": "Desarrollo de la glándula frontal y relación cercana",
+   "paragraphs": [
+    {
+     "text": "据摘要，Šobotník 等（2010）指出锯齿白蚁（<i>Serritermes serrifer</i>）的额腺发育方式与眼显舌白蚁（<i>Glossotermes oculatus</i>）相似；结合形态与遗传分析，这一相似性支持齿白蚁属（<i>Serritermes</i>）与舌白蚁属（<i>Glossotermes</i>）近缘，而后者兵蚁的额腺分泌物靠体壁破裂释放，用于封堵受攻击的通道。",
+     "text_en": "According to the abstract, Šobotník et al. (2010) note that the frontal gland of <i>Serritermes serrifer</i> develops in a way similar to that of <i>Glossotermes oculatus</i>; together with morphological and genetic analyses, this similarity supports a close relationship between <i>Serritermes</i> and <i>Glossotermes</i>, whose soldiers release frontal-gland secretion by rupture of the body wall in order to block an attacked tunnel.",
+     "text_es": "Según el resumen, Šobotník et al. (2010) señalan que la glándula frontal de <i>Serritermes serrifer</i> se desarrolla de forma similar a la de <i>Glossotermes oculatus</i>; junto con análisis morfológicos y genéticos, esta similitud apoya una relación cercana entre <i>Serritermes</i> y <i>Glossotermes</i>, cuyos soldados liberan la secreción de la glándula frontal por ruptura de la pared corporal para bloquear un túnel atacado.",
+     "src": [
+      "S0381"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -50,6 +65,11 @@
    "id": "S0260",
    "citation": "José Renato Chagas Barbosa; Constantino, R. 2017. Polymorphism in the neotropical termite S erritermes serrifer. Entomologia Experimentalis et Applicata.",
    "doi": "10.1111/eea.12532"
+  },
+  {
+   "id": "S0381",
+   "citation": "Šobotník, J.; Bourguignon, T.; Hanus, R.; Weyda, F.; Roisin, Y. 2010. Structure and function of defensive glands in soldiers of Glossotermes oculatus (Isoptera: Serritermitidae). Biological Journal of the Linnean Society.",
+   "url": "https://doi.org/10.1111/j.1095-8312.2010.01392.x"
   }
  ]
 }

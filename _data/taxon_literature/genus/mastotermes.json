@@ -1,0 +1,40 @@
+{
+ "updated": "2026-11-20",
+ "sections": [
+  {
+   "heading": "群体结构特点与琥珀化石中的肠道共生体",
+   "heading_en": "Colony structure and gut symbionts preserved in amber",
+   "heading_es": "Estructura de las colonias y simbiontes intestinales conservados en ámbar",
+   "paragraphs": [
+    {
+     "text": "据摘要，Goodisman 与 Crozier（2002）以微卫星标记研究澳白蚁属（<i>Mastotermes</i>）现存的唯一一种，即达尔文澳白蚁（<i>Mastotermes darwiniensis</i>），发现同一群体常同时取食多株树，沿树列可延伸至 320 m，且群体常由多个生殖蚁共同领导；作者据此指出，若只按单株树或单个巢位划分群体，会低估实际群体的大小与数量。",
+     "text_en": "According to the abstract, Goodisman and Crozier (2002) used microsatellite markers to study the only living species of <i>Mastotermes</i>, <i>Mastotermes darwiniensis</i>, and found that a single colony often feeds on several trees at once, may extend up to 320 m along a line of trees, and is often headed by several reproductives; the authors therefore note that delimiting colonies by single trees or nest positions alone would underestimate their true size and number.",
+     "text_es": "Según el resumen, Goodisman y Crozier (2002) utilizaron marcadores microsatélites para estudiar la única especie viva de <i>Mastotermes</i>, <i>Mastotermes darwiniensis</i>, y encontraron que una sola colonia suele alimentarse de varios árboles a la vez, puede extenderse hasta 320 m a lo largo de una línea de árboles y a menudo está encabezada por varios reproductivos; los autores señalan por ello que delimitar las colonias solo por árboles individuales o posiciones de nido subestimaría su tamaño y número reales.",
+     "src": [
+      "S0369"
+     ]
+    },
+    {
+     "text": "据摘要，Wier 等（2002）在中新世琥珀中记述了澳白蚁属（<i>Mastotermes</i>）的化石种 <i>Mastotermes electrodominicus</i>，其肠组织里保存着螺旋体细菌与木食性原生生物；薄片中还可见木质部的发育中导管分子、纤维与纹孔，以及一个可能属于 <i>Arthromitus</i>（即 <i>Bacillus</i>）的内生孢子和大型螺旋体。该肠道微生物群与现生达尔文澳白蚁（<i>Mastotermes darwiniensis</i>）的组成高度相似，是 2000 万年前木食白蚁微生物群落的直接观察。",
+     "text_en": "According to the abstract, Wier et al. (2002) described the fossil <i>Mastotermes electrodominicus</i> from Miocene amber, whose gut tissue preserves spirochete bacteria and xylophagic protists; thin sections also show developing vessel elements, fibres and pits of xylem, an endospore possibly belonging to <i>Arthromitus</i> (that is, <i>Bacillus</i>), and large spirochetes. This gut microbiota closely resembles that of the living <i>Mastotermes darwiniensis</i>, and the material is a direct observation of a wood-feeding termite microbial community 20 million years ago.",
+     "text_es": "Según el resumen, Wier et al. (2002) describieron el fósil <i>Mastotermes electrodominicus</i> del ámbar del Mioceno, cuyo tejido intestinal conserva bacterias espiroquetas y protistas xilófagos; los cortes finos muestran además elementos de vaso en desarrollo, fibras y punteaduras del xilema, una endospora posiblemente perteneciente a <i>Arthromitus</i> (es decir, <i>Bacillus</i>) y grandes espiroquetas. Esta microbiota intestinal se parece mucho a la de <i>Mastotermes darwiniensis</i> actual, y el material constituye una observación directa de una comunidad microbiana de termitas xilófagas de hace 20 millones de años.",
+     "src": [
+      "S0373"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0369",
+   "citation": "Goodisman, M. A. D.; Crozier, R. H. 2002. Population and colony genetic structure of the primitive termite Mastotermes darwiniensis. Evolution.",
+   "url": "https://doi.org/10.1111/j.0014-3820.2002.tb00850.x"
+  },
+  {
+   "id": "S0373",
+   "citation": "Wier, A. M.; Dolan, M. F.; Grimaldi, D. A.; Guerrero, R.; Wagensberg, J.; Margulis, L. 2002. Spirochete and protist symbionts of a termite (Mastotermes electrodominicus) in Miocene amber. Proceedings of the National Academy of Sciences.",
+   "url": "https://doi.org/10.1073/pnas.022643899"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-20",
+ "sections": [
+  {
+   "heading": "地下巢的迷宫结构与形成模型",
+   "heading_en": "Labyrinthine nest structure and a model of its formation",
+   "heading_es": "Estructura laberíntica del nido y modelo de su formación",
+   "paragraphs": [
+    {
+     "text": "据摘要，Heyde 等（2021）记录了拉曼尖白蚁（<i>Apicotermes lamani</i>）地下巢内部的迷宫式结构，其显著特征是成组的平行地板，以及连接这些地板的直线坡道与螺旋坡道；该研究同时建立了一个简单的数学模型来描述这种结构的形成。",
+     "text_en": "According to the abstract, Heyde et al. (2021) documented the labyrinthine interior of the subterranean nest of <i>Apicotermes lamani</i>, characterized by sets of parallel floors together with straight and helical ramps connecting them; the study also built a simple mathematical model to describe how this structure forms.",
+     "text_es": "Según el resumen, Heyde et al. (2021) documentaron el interior laberíntico del nido subterráneo de <i>Apicotermes lamani</i>, caracterizado por conjuntos de pisos paralelos junto con rampas rectas y helicoidales que los conectan; el estudio construyó además un modelo matemático sencillo para describir cómo se forma esta estructura.",
+     "src": [
+      "S0377"
+     ]
+    },
+    {
+     "text": "据摘要，同一研究的模型只包含白蚁、信息素与泥 3 类要素的相互作用，模拟结果再现了平行地板与两类坡道，并与实测巢结构一致；作者由此认为该巢型是多个长度与时间尺度上涌现的自组织，个体只需遵循局部规则即可形成整体有序的架构。",
+     "text_en": "According to the abstract, the model of the same study includes only the interactions among 3 elements: termites, pheromones and mud; its simulations reproduce the parallel floors and both kinds of ramp and agree with the measured nest. The authors therefore interpret this nest type as self-organization emerging across several length and time scales, in which individuals following local rules generate an ordered architecture at the whole-nest level.",
+     "text_es": "Según el resumen, el modelo del mismo estudio incluye solo las interacciones entre 3 elementos: termitas, feromonas y barro; sus simulaciones reproducen los pisos paralelos y ambos tipos de rampa y coinciden con el nido medido. Los autores interpretan por tanto este tipo de nido como autoorganización emergente en varias escalas de longitud y de tiempo, en la que individuos que siguen reglas locales generan una arquitectura ordenada a escala del nido completo.",
+     "src": [
+      "S0377"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0377",
+   "citation": "Heyde, A.; Guo, L.; Jost, C.; Theraulaz, G.; Mahadevan, L. 2021. Self-organized biotectonics of termite nests. Proceedings of the National Academy of Sciences.",
+   "url": "https://doi.org/10.1073/pnas.2006985118"
+  }
+ ]
+}

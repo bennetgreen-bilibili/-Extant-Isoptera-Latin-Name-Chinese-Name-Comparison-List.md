@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-20",
  "sections": [
   {
    "heading": "现行科位与兵蚁特征",
@@ -54,6 +54,45 @@
      "text_es": "Según Schlemmermeyer y Cancello (2000), Emerson (1971) describió dos especies nuevas de <i>Coptotermes</i> en ámbar neotropical; <i>Coptotermes</i> se sitúa ahora en <i>Heterotermitidae</i>. Las subfamilias <i>Psammotermitinae</i> (hoy familia <i>Psammotermitidae</i>) y <i>Termitogetoninae</i> (hoy familia <i>Termitogetonidae</i>), entonces incluidas en <i>Rhinotermitidae</i> sensu lato, siguen sin registro fósil."
     }
    ]
+  },
+  {
+   "heading": "冠群年代、起源情景与跨洋扩散",
+   "heading_en": "Crown age, ancestral scenarios and transoceanic dispersal",
+   "heading_es": "Edad de la corona, escenarios ancestrales y dispersión transoceánica",
+   "paragraphs": [
+    {
+     "text": "根据 Bourguignon 等（2016）研究，乳白蚁属（<i>Coptotermes</i>）的多样性中心在东方亚洲，其次为巴布亚，作者指出这两处的许多「种」可能只是异名；三属之中它的分布最广，热带各大洲都有原生种。该文仍按广义鼻白蚁科（<i>Rhinotermitidae</i>）处理，本站现改置异白蚁科（<i>Heterotermitidae</i>）。",
+     "text_en": "According to the study by Bourguignon et al. (2016), the diversity centre of <i>Coptotermes</i> lies in Oriental Asia and the second centre in Papua, where the authors note that many of the named species may be synonyms; of the three genera it has the widest range, with native species on every tropical continent. The paper still treated it under <i>Rhinotermitidae</i> in the broad sense, whereas this site now places it in <i>Heterotermitidae</i>.",
+     "text_es": "Según el estudio de Bourguignon et al. (2016), el centro de diversidad de <i>Coptotermes</i> está en Asia oriental y el segundo en Papúa, donde los autores señalan que muchas de las especies nombradas pueden ser sinónimos; de los tres géneros es el de distribución más amplia, con especies nativas en todos los continentes tropicales. El artículo lo trataba aún bajo <i>Rhinotermitidae</i> en sentido amplio, mientras que este sitio lo sitúa ahora en <i>Heterotermitidae</i>.",
+     "src": [
+      "S0368"
+     ]
+    },
+    {
+     "text": "根据同一研究，乳白蚁属（<i>Coptotermes</i>）冠群年代为 24.5 Ma（21.0–27.8 Ma），属渐新世；祖先分布区有两种可能：东方区约 24.5 Ma，或非洲热带。按东方区起源的情景，该属此后发生 5 次扩散——约 16.0–24.5 Ma 进入非洲热带、约 13.3–16.0 Ma（11.1–18.5 Ma）到达澳大利亚、约 1.7–21.7 Ma 进入新热带（支持较弱），以及晚于 5.7 Ma 与晚于 11.6 Ma 两次进入新几内亚。作者指出现代乳白蚁属（<i>Coptotermes</i>）的分析倾向东方区起源，但支持不强，不能排除非洲热带起源。",
+     "text_en": "According to the same study, the crown age of <i>Coptotermes</i> is 24.5 Ma (21.0–27.8 Ma), in the Oligocene; two ancestral areas are possible, the Oriental realm at about 24.5 Ma or tropical Africa. Under the Oriental-origin scenario the genus subsequently dispersed five times: into tropical Africa at about 16.0–24.5 Ma, to Australia at about 13.3–16.0 Ma (11.1–18.5 Ma), into the Neotropical realm at about 1.7–21.7 Ma (weakly supported), and twice into New Guinea, after 5.7 Ma and after 11.6 Ma. The authors note that the analysis of modern <i>Coptotermes</i> favours an Oriental origin but with weak support, so a tropical African origin cannot be excluded.",
+     "text_es": "Según el mismo estudio, la edad de la corona de <i>Coptotermes</i> es de 24,5 Ma (21,0–27,8 Ma), en el Oligoceno; son posibles dos áreas ancestrales, el reino oriental hace unos 24,5 Ma o el África tropical. En el escenario de origen oriental el género se dispersó después cinco veces: hacia el África tropical hace unos 16,0–24,5 Ma, a Australia hace unos 13,3–16,0 Ma (11,1–18,5 Ma), hacia el reino neotropical hace unos 1,7–21,7 Ma (con apoyo débil) y dos veces a Nueva Guinea, después de 5,7 Ma y después de 11,6 Ma. Los autores señalan que el análisis de <i>Coptotermes</i> moderno favorece un origen oriental pero con apoyo débil, por lo que no puede excluirse un origen en el África tropical.",
+     "src": [
+      "S0368"
+     ]
+    },
+    {
+     "text": "根据同一研究，多米尼加琥珀中已记述 3 种乳白蚁属（<i>Coptotermes</i>），而今日新热带区只剩下厚壳乳白蚁（<i>Coptotermes testaceus</i>）1 种；非洲虽有较多名称，但只有 3 个现代种的有效性有可靠证据，该研究取样覆盖了其中 2 个。",
+     "text_en": "According to the same study, three species of <i>Coptotermes</i> have been described from Dominican amber, whereas only one, <i>Coptotermes testaceus</i>, survives in the Neotropical realm today; Africa has many names, but only three modern species have reliable evidence of validity, and the study sampled two of them.",
+     "text_es": "Según el mismo estudio, se han descrito tres especies de <i>Coptotermes</i> del ámbar dominicano, mientras que hoy solo sobrevive una, <i>Coptotermes testaceus</i>, en el reino neotropical; África tiene muchos nombres, pero solo tres especies modernas tienen pruebas fiables de validez, y el estudio muestreó dos de ellas.",
+     "src": [
+      "S0368"
+     ]
+    },
+    {
+     "text": "根据同一研究，三属在取食方式上分化：散白蚁属（<i>Reticulitermes</i>）与异白蚁属（<i>Heterotermes</i>）取食倒木的小块，乳白蚁属（<i>Coptotermes</i>）则取食整株树木、常在树干内筑巢；跨海扩散依赖漂浮木筏，三属 14 次分布区间断中有 8 次由海洋木筏完成，筏上须携带整个群体或能产生补充生殖蚁的个体，一株漂浮树可维持群体数月。人类引入的物种都是食木、在木内筑巢的种类；乳白蚁属（<i>Coptotermes</i>）因而在入侵地点数上多于另两属。",
+     "text_en": "According to the same study, the three genera differ in feeding habit: <i>Reticulitermes</i> and <i>Heterotermes</i> feed on small pieces of fallen wood, whereas <i>Coptotermes</i> feeds on whole trees and often nests inside the trunk; transoceanic dispersal depends on floating rafts of wood, eight of the 14 disjunctions among the three genera having been achieved by oceanic rafting; a raft must carry either a whole colony or individuals able to produce neotenic reproductives, and a single floating tree can sustain a colony for months. The species introduced by humans are all wood-feeding species that nest within wood; <i>Coptotermes</i> accordingly has more invasion sites than either of the other two genera.",
+     "text_es": "Según el mismo estudio, los tres géneros difieren en su forma de alimentación: <i>Reticulitermes</i> y <i>Heterotermes</i> se alimentan de pequeños fragmentos de madera caída, mientras que <i>Coptotermes</i> se alimenta de árboles enteros y a menudo anida dentro del tronco; la dispersión transoceánica depende de balsas de madera flotante: ocho de las 14 disyunciones entre los tres géneros se lograron por balsas oceánicas, y una balsa debe transportar una colonia completa o individuos capaces de producir reproductivos neoténicos, mientras que un solo árbol flotante puede sostener una colonia durante meses. Las especies introducidas por el hombre son todas especies xilófagas que anidan dentro de la madera; <i>Coptotermes</i> tiene por ello más lugares de invasión que los otros dos géneros.",
+     "src": [
+      "S0368"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -76,6 +115,11 @@
    "id": "S0287",
    "citation": "Günther Becker. 1962. Beiträge zur Kenntnis der geographischen Verbreitung und wirtschaftlichen Bedeutung von Termiten in Indien1. Zeitschrift für Angewandte Entomologie.",
    "doi": "10.1111/j.1439-0418.1962.tb04422.x"
+  },
+  {
+   "id": "S0368",
+   "citation": "Bourguignon, T.; Lo, N.; Šobotník, J.; Sillam-Dussès, D.; Roisin, Y.; Evans, T. A. 2016. Oceanic dispersal, vicariance and human introduction shaped the modern distribution of the termites Reticulitermes, Heterotermes and Coptotermes. Proceedings of the Royal Society B.",
+   "url": "https://doi.org/10.1098/rspb.2016.0179"
   }
  ]
 }

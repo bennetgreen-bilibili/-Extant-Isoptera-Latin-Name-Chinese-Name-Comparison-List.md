@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-20",
  "sections": [
   {
    "heading": "属级组成：散白蚁属旧名 Reticulitermes santonensis 的异名化",
@@ -46,6 +46,37 @@
      "text_es": "Según el resumen, Gile et al. (2017) muestran que los flagelados de <i>Spirotrichonympha</i> del intestino posterior de <i>Reticulitermes</i> no son monofiléticos, y el trabajo describe tres especies nuevas a partir de tres especies de <i>Reticulitermes</i>; el género también aparece en <i>Coptotermes</i> y <i>Hodotermopsis</i>, pero los miembros de estos géneros se separan en ramas independientes, lo que concuerda con la hipótesis de una sustitución de la fauna de simbiontes en el ancestro de <i>Reticulitermes</i>."
     }
    ]
+  },
+  {
+   "heading": "线粒体基因组揭示的分布格局与分歧年代",
+   "heading_en": "Distribution pattern and divergence dates inferred from mitochondrial genomes",
+   "heading_es": "Patrón de distribución y fechas de divergencia inferidos de genomas mitocondriales",
+   "paragraphs": [
+    {
+     "text": "根据 Bourguignon 等（2016）研究，散白蚁属（<i>Reticulitermes</i>）与异白蚁属（<i>Heterotermes</i>）、乳白蚁属（<i>Coptotermes</i>）构成一个小支系，三属的分布区部分重叠，各大洲都有原生种；在 97 种被视为农林业与木结构主要害虫的白蚁中，39 种属于这三个属，28 种入侵白蚁中约有一半也属于这三个属。该文把这一支系置于广义的鼻白蚁科（<i>Rhinotermitidae</i>），本站现归入异白蚁科（<i>Heterotermitidae</i>）。",
+     "text_en": "According to the study by Bourguignon et al. (2016), <i>Reticulitermes</i>, together with <i>Heterotermes</i> and <i>Coptotermes</i>, forms a small clade; the ranges of the three genera partly overlap, and every continent has native species. Of the 97 species regarded as major pests of agriculture, forestry and wooden structures, 39 belong to these three genera, and about half of the 28 invasive termite species also belong to them. The paper assigned this clade to <i>Rhinotermitidae</i> in the broad sense, whereas this site now assigns it to <i>Heterotermitidae</i>.",
+     "text_es": "Según el estudio de Bourguignon et al. (2016), <i>Reticulitermes</i>, junto con <i>Heterotermes</i> y <i>Coptotermes</i>, forma un pequeño clado; las áreas de los tres géneros se solapan en parte y todos los continentes tienen especies nativas. De las 97 especies consideradas plagas importantes de la agricultura, la silvicultura y las estructuras de madera, 39 pertenecen a estos tres géneros, y cerca de la mitad de las 28 especies invasoras de termitas también pertenecen a ellos. El artículo asignaba este clado a <i>Rhinotermitidae</i> en sentido amplio, mientras que este sitio lo asigna ahora a <i>Heterotermitidae</i>.",
+     "src": [
+      "S0368"
+     ]
+    },
+    {
+     "text": "根据同一研究，散白蚁属（<i>Reticulitermes</i>）在 59.5 Ma（49.9–69.5 Ma）与异白蚁属（<i>Heterotermes</i>）加乳白蚁属（<i>Coptotermes</i>）的共同祖先分开；散白蚁属（<i>Reticulitermes</i>）现代种的最近共同祖先为 16.1 Ma（13.4–19.5 Ma）；旧世界种类与新世界种类约在 12.6–16.1 Ma（9.8–19.5 Ma）分歧；欧洲种类与中日区种类的最近共同祖先为中新世的 14.0 Ma（11.4–17.1 Ma），当时温带森林自欧洲连续延伸到东亚。",
+     "text_en": "According to the same study, <i>Reticulitermes</i> separated from the common ancestor of <i>Heterotermes</i> and <i>Coptotermes</i> at 59.5 Ma (49.9–69.5 Ma); the most recent common ancestor of modern <i>Reticulitermes</i> species dates to 16.1 Ma (13.4–19.5 Ma); Old World and New World species diverged around 12.6–16.1 Ma (9.8–19.5 Ma); and the most recent common ancestor of the European and Sino-Japanese species dates to the Middle Miocene, 14.0 Ma (11.4–17.1 Ma), when temperate forests formed a continuous belt from Europe to East Asia.",
+     "text_es": "Según el mismo estudio, <i>Reticulitermes</i> se separó del ancestro común de <i>Heterotermes</i> y <i>Coptotermes</i> hace 59,5 Ma (49,9–69,5 Ma); el ancestro común más reciente de las especies modernas de <i>Reticulitermes</i> data de 16,1 Ma (13,4–19,5 Ma); las especies del Viejo y del Nuevo Mundo divergieron hace unos 12,6–16,1 Ma (9,8–19,5 Ma); y el ancestro común más reciente de las especies europeas y sino-japonesas data del Mioceno medio, 14,0 Ma (11,4–17,1 Ma), cuando los bosques templados formaban una franja continua desde Europa hasta Asia oriental.",
+     "src": [
+      "S0368"
+     ]
+    },
+    {
+     "text": "根据同一研究，散白蚁属（<i>Reticulitermes</i>）呈温带全北区分布，北亚里海以东的干旱区没有该属分布；多样性最高在中国，其次在地中海地区，作者指出这两处的许多「种」很可能是异名。该属共推断出 4 次分布区间断，其中 1 次由人为引入造成；该属最老的化石产自欧洲波罗的海琥珀，年代为晚始新世约 34 Ma。",
+     "text_en": "According to the same study, <i>Reticulitermes</i> has a temperate Holarctic distribution and is absent from the dry regions of northern Asia east of the Caspian Sea; diversity is highest in China and second highest around the Mediterranean, where the authors note that many of the named species are probably synonyms. Four disjunctions between biogeographic realms were inferred for the genus, one of them caused by human introduction; the oldest fossils of the genus come from Baltic amber in Europe and date to the Late Eocene, about 34 Ma.",
+     "text_es": "Según el mismo estudio, <i>Reticulitermes</i> presenta una distribución holártica templada y falta en las regiones áridas del norte de Asia al este del mar Caspio; la diversidad es máxima en China y la segunda en el Mediterráneo, donde los autores señalan que muchas de las especies nombradas son probablemente sinónimos. Se infirieron cuatro disyunciones entre reinos biogeográficos para el género, una de ellas causada por introducción humana; los fósiles más antiguos del género proceden del ámbar báltico en Europa y datan del Eoceno tardío, hace unos 34 Ma.",
+     "src": [
+      "S0368"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -68,6 +99,11 @@
    "id": "S0280",
    "citation": "Hasnaoui, B.; Diarra, A. Z.; Jean-Michel Bérenger; Hacène Medkour; Benakhla, A.; Mediannikov, O.; Parola, P. 2022. Use of the proteomic tool MALDI-TOF MS in termite identification. Springer Science and Business Media LLC.",
    "doi": "10.1038/s41598-021-04574-0"
+  },
+  {
+   "id": "S0368",
+   "citation": "Bourguignon, T.; Lo, N.; Šobotník, J.; Sillam-Dussès, D.; Roisin, Y.; Evans, T. A. 2016. Oceanic dispersal, vicariance and human introduction shaped the modern distribution of the termites Reticulitermes, Heterotermes and Coptotermes. Proceedings of the Royal Society B.",
+   "url": "https://doi.org/10.1098/rspb.2016.0179"
   }
  ]
 }

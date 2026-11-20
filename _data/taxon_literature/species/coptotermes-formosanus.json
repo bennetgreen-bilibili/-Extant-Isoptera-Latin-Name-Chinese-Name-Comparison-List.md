@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-20",
  "sections": [
   {
    "heading": "区域诱饵防治的密度与成本",
@@ -54,6 +54,29 @@
      "text_es": "Según Li et al. (2009), Taiwán es la localidad tipo de <i>Coptotermes formosanus</i>; las poblaciones taiwanesas son las más próximas a las de Japón y a algunas de China en las secuencias mitocondriales COII, 12S rRNA y 16S rRNA, y la variación intraespecífica entre siete poblaciones taiwanesas fue del 0,7%–0,8% en los tres genes."
     }
    ]
+  },
+  {
+   "heading": "系统位置与原产地",
+   "heading_en": "Phylogenetic position and region of origin",
+   "heading_es": "Posición filogenética y región de origen",
+   "paragraphs": [
+    {
+     "text": "根据 Bourguignon 等（2016）研究，台湾乳白蚁（<i>Coptotermes formosanus</i>）与瑞明乳白蚁（<i>Coptotermes elisae</i>）互为姐妹群，二者一起嵌套在东方区的乳白蚁属（<i>Coptotermes</i>）支系之内；该研究的全线粒体基因组分析把台湾乳白蚁（<i>Coptotermes formosanus</i>）的祖先定位在新几内亚或东方区。该文发表时该种仍属广义鼻白蚁科（<i>Rhinotermitidae</i>），本站现改置异白蚁科（<i>Heterotermitidae</i>）。",
+     "text_en": "According to the study by Bourguignon et al. (2016), <i>Coptotermes formosanus</i> and <i>Coptotermes elisae</i> are sister groups, and together they are nested within the Oriental <i>Coptotermes</i> lineage; the complete mitochondrial genome analysis placed the ancestor of <i>Coptotermes formosanus</i> in New Guinea or the Oriental realm. In that paper the species still belonged to <i>Rhinotermitidae</i> in the broad sense; this site now places it in <i>Heterotermitidae</i>.",
+     "text_es": "Según el estudio de Bourguignon et al. (2016), <i>Coptotermes formosanus</i> y <i>Coptotermes elisae</i> son grupos hermanos y, juntos, están anidados dentro del linaje oriental de <i>Coptotermes</i>; el análisis de genomas mitocondriales completos situó el ancestro de <i>Coptotermes formosanus</i> en Nueva Guinea o en el reino oriental. En aquel artículo la especie seguía perteneciendo a <i>Rhinotermitidae</i> en sentido amplio; este sitio la sitúa ahora en <i>Heterotermitidae</i>.",
+     "src": [
+      "S0368"
+     ]
+    },
+    {
+     "text": "根据同一研究，现代台湾乳白蚁（<i>Coptotermes formosanus</i>）的原产地为中日区（southern China），新北区的种群是从这一原产地引入的；该种因而与乳白蚁属（<i>Coptotermes</i>）中其他依赖漂浮木跨海扩散的种类不同，其现代分布格局由人类运输造成。",
+     "text_en": "According to the same study, the modern <i>Coptotermes formosanus</i> is native to the Sino-Japanese realm (southern China), and the populations in the Nearctic realm were introduced from there; the species therefore differs from other <i>Coptotermes</i> species that crossed the sea on floating wood, because its modern distribution results from human transport.",
+     "text_es": "Según el mismo estudio, el <i>Coptotermes formosanus</i> moderno es nativo del reino sino-japonés (sur de China), y las poblaciones del reino neártico fueron introducidas desde allí; la especie difiere por tanto de otras especies de <i>Coptotermes</i> que cruzaron el mar sobre madera flotante, porque su distribución moderna resulta del transporte humano.",
+     "src": [
+      "S0368"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -70,6 +93,11 @@
    "id": "S0372",
    "citation": "Li H.-F.; Ye W.; Su N.-Y.; Kanzaki N. 2009. Phylogeography of Coptotermes gestroi and Coptotermes formosanus (Isoptera: Rhinotermitidae) in Taiwan. Annals of the Entomological Society of America 102(4): 684–693.",
    "doi": "10.1603/008.102.0413"
+  },
+  {
+   "id": "S0368",
+   "citation": "Bourguignon, T.; Lo, N.; Šobotník, J.; Sillam-Dussès, D.; Roisin, Y.; Evans, T. A. 2016. Oceanic dispersal, vicariance and human introduction shaped the modern distribution of the termites Reticulitermes, Heterotermes and Coptotermes. Proceedings of the Royal Society B.",
+   "url": "https://doi.org/10.1098/rspb.2016.0179"
   }
  ]
 }

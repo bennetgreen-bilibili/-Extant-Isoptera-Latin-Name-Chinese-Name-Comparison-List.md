@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-20",
+ "sections": [
+  {
+   "heading": "埃及巢迹化石与现生巢的比较",
+   "heading_en": "Egyptian trace-fossil nests compared with living nests",
+   "heading_es": "Nidos fósiles de Egipto comparados con nidos actuales",
+   "paragraphs": [
+    {
+     "text": "据摘要，Genise 与 Bown（1994）描述埃及北部上始新统—下中新统地下白蚁巢迹（含伴生廊道）中的 3 个新遗迹属、5 个新遗迹种；除 Krausichnus trompitus 与 A' altus 外，其余遗迹种都与现生土栖的圆胸圆球白蚁（<i>Sphaerotermes sphaerothorax</i>）的巢有不同程度的相似。这说明与圆球白蚁属（<i>Sphaerotermes</i>）巢型可比的建筑在始新世—中新世已经出现，而具有该巢型的现生种属白蚁科（<i>Termitidae</i>），本站现置于圆球白蚁亚科（<i>Sphaerotermitinae</i>）。",
+     "text_en": "According to the abstract, Genise and Bown (1994) described three new ichnogenera and five new ichnospecies of subterranean termite nests, with associated galleries, from upper Eocene to lower Miocene strata of northern Egypt; apart from <i>Krausichnus trompitus</i> and A' altus, the trace fossils all resemble the nests of the living soil-dwelling <i>Sphaerotermes sphaerothorax</i> to varying degrees. Buildings comparable to the nest type of <i>Sphaerotermes</i> therefore already existed in the Eocene–Miocene, and the living species with this nest type belongs to <i>Termitidae</i> and is placed here in <i>Sphaerotermitinae</i>.",
+     "text_es": "Según el resumen, Genise y Bown (1994) describieron tres nuevos icnogéneros y cinco nuevas icnoespecies de nidos subterráneos de termitas, con galerías asociadas, en estratos del Eoceno superior al Mioceno inferior del norte de Egipto; salvo <i>Krausichnus trompitus</i> y A' altus, los fósiles se parecen en distinto grado a los nidos de la especie actual que vive en el suelo, <i>Sphaerotermes sphaerothorax</i>. Existían por tanto construcciones comparables al tipo de nido de <i>Sphaerotermes</i> ya en el Eoceno–Mioceno, y la especie actual con este tipo de nido pertenece a <i>Termitidae</i> y aquí se sitúa en <i>Sphaerotermitinae</i>.",
+     "src": [
+      "S0151"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0151",
+   "citation": "Genise, J. F.; Bown, T. M. 1994. New trace fossils of termites (Insecta: Isoptera) from the late Eocene-early Miocene of Egypt, and the reconstruction of ancient isopteran social behavior. Ichnos.",
+   "url": "https://doi.org/10.1080/10420949409386386"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "updated": "2026-11-20",
+ "sections": [
+  {
+   "heading": "多生殖蚁群体的来源与亲缘",
+   "heading_en": "Origin and relatedness of multiple reproductives in colonies",
+   "heading_es": "Origen y parentesco de los reproductivos múltiples en las colonias",
+   "paragraphs": [
+    {
+     "text": "据摘要，Atkinson 与 Adams（1997）用直接测序与 DSCP 分析线粒体 DNA，检查具角象白蚁（<i>Nasutitermes corniger</i>）44 个群体的生殖蚁来源；多数群体由一对母系无关的生殖蚁建立，说明常见情形仍是单对建群。",
+     "text_en": "According to the abstract, Atkinson and Adams (1997) used direct sequencing and DSCP analysis of mitochondrial DNA to examine the origin of reproductives in 44 colonies of <i>Nasutitermes corniger</i>; most colonies were founded by a single pair of maternally unrelated reproductives, so single-pair founding remains the common case.",
+     "text_es": "Según el resumen, Atkinson y Adams (1997) utilizaron secuenciación directa y análisis DSCP de ADN mitocondrial para examinar el origen de los reproductivos en 44 colonias de <i>Nasutitermes corniger</i>; la mayoría de las colonias fueron fundadas por una sola pareja de reproductivos maternalmente no emparentados, de modo que la fundación por una pareja sigue siendo el caso habitual.",
+     "src": [
+      "S0370"
+     ]
+    },
+    {
+     "text": "据摘要，同一研究在 2 个双后单巢群体中发现两头蚁后的单倍型不同，说明它们是无亲缘关系的蚁后共同建巢；另有 7 个单巢群体含 11–49 头生殖蚁，且全部为同一单倍型，说明这些蚁后是原有单对的后代、通过替换取得生殖地位。",
+     "text_en": "According to the abstract, the same study found two haplotype classes of queens in each of two double-queen single-nest colonies, showing that unrelated queens had founded those nests together; another seven single-nest colonies contained 11–49 reproductives, all of a single haplotype, showing that these queens were offspring of the original pair that had acquired reproductive status by replacement.",
+     "text_es": "Según el resumen, el mismo estudio encontró dos clases de haplotipos de reinas en cada una de dos colonias de nido único con dos reinas, lo que muestra que reinas no emparentadas habían fundado esos nidos juntas; otras siete colonias de nido único contenían de 11 a 49 reproductivos, todos de un solo haplotipo, lo que muestra que esas reinas eran descendientes de la pareja original que habían alcanzado el estatus reproductivo por reemplazo.",
+     "src": [
+      "S0370"
+     ]
+    },
+    {
+     "text": "据摘要，同一研究中替换型蚁后共存的数目多于共同建巢型蚁后；若干复杂群体含 2 个以上单倍型的蚁后，并分布在多个相互连通的巢中，说明多母系状态可以经出芽与后代替换同时延续。作者用孤立实验证实，这类多母系群体在失去原有蚁后后仍能维持生殖，因此并不依赖单次建群事件。",
+     "text_en": "According to the abstract, more replacement queens coexisted than co-founding queens in the same study; several complex colonies contained queens of two or more haplotypes distributed over multiple interconnected nests, showing that a multi-maternal state can persist through both budding and daughter replacement. Orphaning experiments confirmed that such multi-maternal colonies continue to reproduce after losing their original queens and therefore do not depend on a single founding event.",
+     "text_es": "Según el resumen, en el mismo estudio coexistían más reinas de reemplazo que reinas cofundadoras; varias colonias complejas contenían reinas de dos o más haplotipos distribuidas en múltiples nidos interconectados, lo que muestra que un estado multimaternal puede persistir tanto por gemación como por reemplazo por descendientes. Experimentos de orfandad confirmaron que esas colonias multimaternales siguen reproduciéndose tras perder a sus reinas originales y por tanto no dependen de un único evento de fundación.",
+     "src": [
+      "S0370"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0370",
+   "citation": "Atkinson, L.; Adams, E. S. 1997. The origins and relatedness of multiple reproductives in colonies of the termite Nasutitermes corniger. Proceedings of the Royal Society B.",
+   "url": "https://doi.org/10.1098/rspb.1997.0156"
+  }
+ ]
+}

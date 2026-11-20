@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-20",
  "sections": [
   {
    "heading": "2005 年基于 16S rRNA 的异名处理",
@@ -61,6 +61,29 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "法国旧名与近期人为引入",
+   "heading_en": "The French synonym and a recent human introduction",
+   "heading_es": "El sinónimo francés y una introducción humana reciente",
+   "paragraphs": [
+    {
+     "text": "根据 Bourguignon 等（2016）研究，法国记载的散白蚁属的旧异名 <i>Reticulitermes santonensis</i> 在系统树上嵌套于新北区的散白蚁属（<i>Reticulitermes</i>）支系之内，而不是与其他欧洲种类聚在一起，这一位置支持法国种群是近期从北美引入的；该文沿用 <i>Reticulitermes santonensis</i> 与北美散白蚁（<i>Reticulitermes flavipes</i>）同物异名的处理。该研究为散白蚁属（<i>Reticulitermes</i>）取样 13 份标本，测了全线粒体基因组（约 16 kb）。",
+     "text_en": "According to the study by Bourguignon et al. (2016), the old French synonym <i>Reticulitermes santonensis</i> is nested within the Nearctic <i>Reticulitermes</i> lineage rather than grouping with the other European species, a position that supports a recent introduction of the French populations from North America; the paper follows the treatment of <i>Reticulitermes santonensis</i> as a synonym of <i>Reticulitermes flavipes</i>. The study sequenced complete mitochondrial genomes (about 16 kb) for 13 specimens of <i>Reticulitermes</i>.",
+     "text_es": "Según el estudio de Bourguignon et al. (2016), el antiguo sinónimo francés <i>Reticulitermes santonensis</i> está anidado dentro del linaje neártico de <i>Reticulitermes</i> y no se agrupa con las demás especies europeas, posición que apoya una introducción reciente de las poblaciones francesas desde América del Norte; el artículo sigue el tratamiento de <i>Reticulitermes santonensis</i> como sinónimo de <i>Reticulitermes flavipes</i>. El estudio secuenció genomas mitocondriales completos (unos 16 kb) de 13 ejemplares de <i>Reticulitermes</i>.",
+     "src": [
+      "S0368"
+     ]
+    },
+    {
+     "text": "根据同一研究，该数据的 14 次分布区间断中只有 2 次由人为引入造成，法国这一支是其中之一；北美散白蚁（<i>Reticulitermes flavipes</i>）所在的新北区支系本身是原生的，欧洲出现的种群与该支系的最近共同祖先远晚于欧洲—北美分离的年代，因此不能用大陆漂移或陆桥解释。",
+     "text_en": "According to the same study, only two of the 14 disjunctions between biogeographic realms in the dataset were caused by human introduction, and the French lineage is one of them; the Nearctic lineage that contains <i>Reticulitermes flavipes</i> is itself native, and the populations appearing in Europe share a most recent common ancestor with that lineage far more recent than the separation of Europe and North America, so continental drift or land bridges cannot explain them.",
+     "text_es": "Según el mismo estudio, solo dos de las 14 disyunciones entre reinos biogeográficos del conjunto de datos fueron causadas por introducción humana, y el linaje francés es una de ellas; el linaje neártico que contiene <i>Reticulitermes flavipes</i> es nativo, y las poblaciones que aparecen en Europa comparten con ese linaje un ancestro común más reciente mucho más tardío que la separación entre Europa y América del Norte, por lo que ni la deriva continental ni los puentes de tierra pueden explicarlas.",
+     "src": [
+      "S0368"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -81,6 +104,11 @@
    "id": "S0359",
    "citation": "Hall, D. W.; Hostettler, N. 1993. Septate gregarines from Reticulitermes flavipes and Reticulitermes virginicus (Isoptera: Rhinotermitidae). Journal of Eukaryotic Microbiology.",
    "url": "https://doi.org/10.1111/j.1550-7408.1993.tb04878.x"
+  },
+  {
+   "id": "S0368",
+   "citation": "Bourguignon, T.; Lo, N.; Šobotník, J.; Sillam-Dussès, D.; Roisin, Y.; Evans, T. A. 2016. Oceanic dispersal, vicariance and human introduction shaped the modern distribution of the termites Reticulitermes, Heterotermes and Coptotermes. Proceedings of the Royal Society B.",
+   "url": "https://doi.org/10.1098/rspb.2016.0179"
   }
  ]
 }
