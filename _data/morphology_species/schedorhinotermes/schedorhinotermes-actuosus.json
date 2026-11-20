@@ -1,0 +1,29 @@
+{
+ "zh_name": "活跃长鼻白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "原文（Hill 1942）作为 Rhinotermes (Schedorhinotermes) intermedius 的亚种处理，标题作 Rhinotermes (Schedorhinotermes) intermedins actuosus Hill，模式产地北领地达尔文；1933 年原描述即为亚种。有翅成虫与典型亚种及 R. seclusus 相似而较小，径脉与径分脉较淡，翅膜微带黄色，复眼通常较小；兵蚁大形头近方形、两侧不圆，大颚粗壮、端部急剧内弯，右上颚在基部与大齿之间具一短齿，可与 R. intermedius、R. seclusus 区分。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "与典型亚种及 R. seclusus 相似但较小，径脉与径分脉较淡，翅膜微带黄色，复眼通常较小。量度：具翅长 12.50—14.00；去翅长 7.00—8.00；头长（至上唇端）1.61—1.77（原文 OCR 作「1.6 l」，末位为数字 1）；头长（至额唇基缝）1.14—1.35；头宽 1.50—1.66；复眼最大直径 0.40—0.48；单眼长 0.16—0.22；前胸背板长 0.77—0.85；前胸背板宽 1.32—1.44；前翅长 10.00—10.40；前翅宽 3.00—3.35。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "大形：头（Fig. 94）多少呈方形，两侧不圆。上颚粗壮，端部急剧内弯；右上颚在基部与大齿之间具一短齿。触角 18 节（极少 17 节）；第 3 节通常与第 2 节等长或略长，极少接近 R. derosus 那样最短。本亚种在头与上颚的形状上与 R. intermedius、R. seclusus 不同，并因右上颚具短基齿而更易与 R. intermedius 区分。小形：与 R. intermedius 相同，唯后颏几乎恒明显较窄；触角第 2 节通常与第 3 节等长，极少稍短或稍长。量度（大形／小形）：全长 6.00—7.00／4.00—4.50；头长（连上颚）2.45—3.25／1.68—1.85；头长（至囟点后缘）1.77—1.96／0.91—1.00；头宽 1.80—2.10／0.91—1.00；后颏最小宽 0.25—0.40／0.22—0.27；前胸背板长 0.60—0.74／0.44—0.51；前胸背板宽 1.30—1.48／0.78—0.83。"
+  },
+  {
+   "label": "其他",
+   "text": "地理变异：北领地内陆的有翅成虫复眼通常稍小，大形兵蚁通常较小且头毛较多；北昆士兰 Atherton—Cairns 至 Gordonvale 一带的兵蚁头通常较小、毛明显多于其他产区。该变型的生殖品级未知。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Rhinotermes (Schedorhinotermes) intermedins actuosus Hill（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文。原文标题把种加词排作 intermedins（OCR 将末尾 m 识别为 in），并有「Fig. 94; plate 3, fig. 2」。亚种级描述中的两型兵蚁量度按原文两列以「／」分列；地理变异段原文附于量度之后，此处单列「其他」。"
+}

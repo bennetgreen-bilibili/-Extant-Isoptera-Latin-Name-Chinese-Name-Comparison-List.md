@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Largest species in Australia. Head, labrum and tubercle shape as in its closest relative H. harrisi; mandibles very long and relatively stout; antennae 14-segmented, segment 2 shorter than segment 3, segment 3 slightly longer than segment 4, the remaining segments longer and wider than in H. harrisi, approaching M. broomensis (original combination)."
+  },
+  {
+   "label": "Alate",
+   "text": "Not recorded in the original (Not known)."
+  },
+  {
+   "label": "Soldier",
+   "text": "Largest species in Australia (see Diagnostic characters). Mjöberg's original description and figures do not show lateral tubercles, but the paratype borrowed from the Stockholm Museum and another specimen in the author's collection both have lateral tubercles. Measurements: total length 8.00 mm (Mjöberg), head length (including mandibles) 5.00 mm (Mjöberg), head length (excluding mandibles) 2.50 mm (Mjöberg), head length (to apex of frontal tubercle) 2.09 mm, head width 1.50 mm (Mjöberg gives 1.67 mm), pronotum length 0.44 mm (Mjöberg gives 0.38 mm), width 0.91 mm (Mjöberg gives 0.93 mm)."
+  }
+ ],
+ "note": "Adapted from the species-level description in Hill (1942), originally in English; the original describes only the soldier, the alate is recorded as Not known. The values in parentheses are Mjöberg's (1920) originals; the others are Hill's measurements. OCR problems: the genus name appears as \"-M joberg\" and \"M , bro omens is..\", i.e. Mjöberg and M. broomensis. The type locality Queensland: Cooktown agrees with the list. Distribution and biology are not translated into the morphology section."
+}

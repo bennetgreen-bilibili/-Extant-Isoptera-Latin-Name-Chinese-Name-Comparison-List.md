@@ -1,0 +1,21 @@
+{
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Published by Hill (1942) under the name Eutermes walkeri, with the type locality Sydney. The alate is closely related to E. graveolus, slightly larger, sometimes darker, with distinctly longer wings; the soldier resembles E. graveolus but is larger and has a distinctly longer rostrum (about two-fifths of the total head length) that is broader at the base. The species name honours Francis Walker."
+  },
+  {
+   "label": "Alate",
+   "text": "Closely related to E. graveolus, differing in being slightly larger, sometimes darker, and in the distinctly longer wings. Postclypeus more than half as long as wide. Measurements: length with wings 16.00—20.00; length without wings 8.00—9.50; head length (to anterior margin of clypeus) 1.68—1.87; head length (to clypeofrontal suture) 1.06—1.21; head width 1.50—1.60; maximum diameter of compound eye 0.57—0.62; ocellus length 0.15—0.18; pronotum length 0.73—0.84; pronotum width 1.37—1.46; fore wing length 14.50—17.50; fore wing width 4.33—4.50."
+  },
+  {
+   "label": "Soldier",
+   "text": "Resembling E. graveolus, differing in being larger, in the distinctly longer rostrum (about two-fifths of the total head length) and in its broader base (Figs. 226, 227). Body size very variable, the smallest and largest individuals often occurring in the same series. Head with many long and short hairs. Mandibles with long points. Measurements: total length 5.00—7.00; head length (to apex of rostrum) 1.83—2.32; head width 1.06—1.46; pronotum width 0.55—0.93."
+  },
+  {
+   "label": "Worker",
+   "text": "Vertex red-brown to chestnut, with a faint pale line on each side running backwards from the middle; sides of the head, frons and postclypeus yellow; labrum paler than the postclypeus. Antennae 14-segmented; segment 3 longer than segments 2 and 5; segment 4 the shortest; segment 5 slightly shorter than segment 6. Postclypeus less than half as long as wide. Measurements: total length 6.00—6.25; head length (to anterior margin of clypeus) 1.87; head length (to clypeofrontal suture) 1.10; head width 1.50; pronotum width 0.88."
+  }
+ ],
+ "note": "Rewritten from the English species-level description in Hill (1942); the original uses the old combination Eutermes walkeri (now placed in Nasutitermes). The measurements given for the soldier head and for the alate are preserved digit for digit; the pronotum width of the worker was OCRed in the original as \"Q. 88\" and is transcribed as 0.88."
+}

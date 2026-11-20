@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "La especie más grande de Australia. Forma de la cabeza, el labro y los tubérculos como en su pariente más próximo H. harrisi; mandíbulas muy largas y relativamente robustas; antenas de 14 artejos, el artejo 2 más corto que el 3, el artejo 3 algo más largo que el 4, y los artejos restantes más largos y anchos que en H. harrisi, próximos a M. broomensis (combinación original)."
+  },
+  {
+   "label": "Alado",
+   "text": "No consta en el original (Not known)."
+  },
+  {
+   "label": "Soldado",
+   "text": "La especie más grande de Australia (véanse los caracteres diagnósticos). La descripción y las figuras originales de Mjöberg no muestran tubérculos laterales, pero el paratipo solicitado al Museo de Estocolmo y otro ejemplar de la colección del autor presentan ambos tubérculos laterales. Medidas: longitud total 8.00 mm (Mjöberg), longitud de la cabeza (incluidas las mandíbulas) 5.00 mm (Mjöberg), longitud de la cabeza (excluidas las mandíbulas) 2.50 mm (Mjöberg), longitud de la cabeza (hasta el ápice del tubérculo frontal) 2.09 mm, ancho de la cabeza 1.50 mm (Mjöberg da 1.67 mm), longitud del pronoto 0.44 mm (Mjöberg da 0.38 mm), ancho 0.91 mm (Mjöberg da 0.93 mm)."
+  }
+ ],
+ "note": "Adaptado de la descripción específica de Hill (1942), cuyo original está en inglés; el original describe solo al soldado, el alado figura como Not known. Los valores entre paréntesis son los originales de Mjöberg (1920); los demás son medidas de Hill. Problemas de OCR: el nombre del género aparece como \"-M joberg\" y \"M , bro omens is..\", es decir, Mjöberg y M. broomensis. La localidad tipo Queensland: Cooktown coincide con la lista. La distribución y la biología no se traducen en la sección de morfología."
+}

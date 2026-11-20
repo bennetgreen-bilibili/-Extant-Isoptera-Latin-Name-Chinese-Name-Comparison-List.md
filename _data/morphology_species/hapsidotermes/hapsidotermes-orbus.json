@@ -1,0 +1,25 @@
+{
+ "zh_name": "孤儿络白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫粗看与 M. sunteri（原书组合）相似，但背面稍暗、腹面明显较暗，复眼通常较小，前胸背板小得多且形状不同。兵蚁与北方小脊突白蚁（Lophotermes septentrionalis）最近缘，主要区别为上唇小而窄、前侧角不发达。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "复眼小，不显著突出。单眼宽卵形（长 0.10 mm），距复眼约其短径。囟线状，无次裂，约与单眼等长。后唇基长稍小于宽之半（0.18 mm × 0.47 mm）。上颚同 M. kalgoorliensis（原书组合）。触角 15 节；第 2 节约为第 1 节之半；第 3 节很短而窄；第 4 节约与第 6 节等大。前胸背板窄于头，前缘凹，后缘微波状。中、后胸背板后缘深凹。中脉不分枝；肘脉 8 支，其中 1—2 支再分枝。前翅残柄稍大于后翅残柄。量度：连翅长 10.00 mm，不连翅长 5.00—5.25 mm，头长（至上唇端）1.00—1.17 mm，头长（至额唇基缝）0.62—0.65 mm，头宽 0.91—0.99 mm，复眼最大直径 0.25 mm，单眼长 0.10 mm，前胸背板长 0.58 mm、宽 0.82—0.88 mm，前翅长 8.40—8.60 mm、宽 2.16—2.20 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "与北方小脊突白蚁最近缘，头形相近，但上唇小而窄、前侧角弱；触角 14 节。量度：头长（至额瘤端）1.90 mm，头宽 1.24 mm，前胸背板长 0.33 mm、宽 0.84 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Mirotermes (Mirotermes) orbus Hill（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 英文种级描述改写；原文描述有翅成虫与兵蚁，工蚁仅列为形态型（morphotype）而未作描述。兵蚁量度原文仅一组数值，未标范围，当为单个标本。OCR 问题：「f ran」为 from；「Fon-tanelle」为 Fontanelle；「AT.」为 M.；「M. Kalgoorliensis」种加词原书作大写 K；「Ist」为 1st；「pi.」为 pl.；「frcm」为 from。模式产地 Northern Territory: Stapleton 与清单一致。分布与生物学（两只有翅成虫、一只兵蚁与两只工蚁来自 Coptotermes acinaciformis 巢壁近地面处；另数只有翅成虫 9 月 30 日室内灯光诱得）未译入形态节。"
+}

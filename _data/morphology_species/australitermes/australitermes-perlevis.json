@@ -1,0 +1,21 @@
+{
+ "zh_name": "极轻澳大利亚白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "原文（Hill 1942）以 Eutermes perlevis 为名发表，模式产地北领地达尔文以南 34 英里（34 mile Siding），有翅成虫与工蚁均未记载。兵蚁为中等体形种，头宽而两侧明显圆、背部侧视微凸，喙甚细；与小形的 E. occultus 相似但大得多。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "中等体形种，头宽圆、喙甚细，与小形的 E. occultus 相似但大得多。头部淡橙色，后部与前胸背板稍淡，喙红橙色。头毛极少，宽，两侧明显圆，背面侧视微凸；喙约为头其余部分长的五分之三，甚细，前四分之三几呈圆柱形（Figs. 206、207）。触角短，12 节；第 2 节约为第 1 节长之半且窄得多，为全触角最短最窄者；第 3 节几与第 1 节等长，细；第 4—11 节略短于第 3 节且与第 3 节等宽；第 12 节几与第 11 节等长，长椭圆形。上颚无尖。量度：全长 4.00；头长（至喙端）1.54—1.61；头宽 0.99—1.02；前胸背板宽 0.44。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Eutermes perlevis sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文。原文用老组合 Eutermes perlevis，今置 Australitermes。原文「Winged adult and worker: Not known.」，故仅有兵蚁一节。模式系列采自 Mirotermes sunteri 建于一个大型废弃巢侧壁上的巢中，为一小群落。"
+}

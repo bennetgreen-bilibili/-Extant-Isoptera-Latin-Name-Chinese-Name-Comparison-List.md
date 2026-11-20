@@ -1,0 +1,21 @@
+{
+ "zh_name": "易动锯白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "比 M. serratus 的典型标本略深、通常稍大。前胸背板后部比上述种通常更宽，但该特征不够稳定，不具鉴别价值（图 352）。量度（mm）：连翅体长 9.50—10.00；去翅体长 5.00—5.50；头长（至上唇端）1.08—1.10；头长（至额唇基缝）0.58—0.62；头宽 0.91—0.93；复眼最大直径 0.25；单眼长 0.10；前胸背板长 0.44；前胸背板宽 0.69—0.73；前翅长 7.25—8.00；前翅宽 2.09—2.16。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "中型种，头长而窄，上颚短粗（图 353）。与 M. distinctus 近缘，区别在于头相对更短更宽、上颚更长且常更弯曲。量度（mm；原文分「模式群／采自 Narrandera」两列）：体长 5.25—5.50／4.30—4.80；头连上颚长 2.45—2.56／2.00—2.20；头长（至唇基缝）1.52—1.57／1.32—1.39；头宽 0.93—0.95／0.80—0.82；前胸背板长 0.29／0.26—0.29；前胸背板宽 0.66／0.55。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Microcerotermes implacidus sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 新种描述改写，原文英文。量度单位 mm，兵蚁量度原文按「模式群／采自 Narrandera」两列给出，已照录为两组数值。分布：新南威尔士 Griffith 东南 20 英里（模式产地，即清单所记 32 km SE Griffith）、Narrandera、Wagga Wagga、Young；维多利亚 Bendigo、Charlton、Goschen、Gohuna、Echuca、Rochester、Cohram、Yarrawonga、Rutherglen、Wangaratta、Benalla、Tallarook、Mildura、Kiata、Linga。OCR 问题：兵蚁量度表「lon S」为「long」之误识；有翅成虫「eyes, max. diameter 0.25'」末撇号为 OCR 噪声。"
+}

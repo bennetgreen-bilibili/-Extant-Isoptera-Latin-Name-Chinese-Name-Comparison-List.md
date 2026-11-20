@@ -1,0 +1,25 @@
+{
+ "zh_name": "相会弓白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫体色淡，除真帅弓白蚁（A. perelegans）和胆小弓白蚁（A. pavidus）外，可与澳洲其他种相区别；与这两种相比体形明显较大。兵蚁以上颚与上颚齿的形状易于与西澳其他种相区别。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "淡黄褐色的种，头染有较深的褐色，后唇基明显较头为淡。单眼大，宽卵形，靠近复眼。囟大。触角 15 或 16 节，通常 16 节；第 3 节很小，为各节中最小，几乎总是与稍大的第 4 节紧密愈合；第 6 节小于第 5、7 节。量度：连翅长 14.75—15.25 mm，不连翅长 6.50—7.00 mm，头长（至上唇端）1.28—1.32 mm，头长（至额唇基缝）0.55—0.69 mm，头宽 1.17—1.19 mm，复眼最大直径 0.29—0.31 mm，单眼长 0.17 mm，前胸背板长 0.55 mm、宽 1.02—1.06 mm，前翅长 12.50—12.75 mm、宽 3.65—3.90 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "中等大小的种，头短而深，上颚相对短粗。上唇较大，两侧平行，端部宽圆。上颚齿发达，倒钩状，约位于上颚基部与端部之间的中点。触角 14 或 15 节；第 3 或第 4 节最短。量度：全长 5.00—5.50 mm，头长（上颚伸展，含上颚）2.12—2.14 mm，头长（上颚于齿处交叉，含上颚）1.90—2.09 mm，头长（至额唇基缝）1.21—1.35 mm，头长（至上唇端）1.61—1.83 mm，头宽 1.13—1.21 mm，前胸背板长 0.33—0.35 mm、宽 0.69—0.75 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Hamitermes (Hamitermes) obeuntis Silvestri（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 英文种级描述改写；原文描述有翅成虫与兵蚁，未描述工蚁（Silvestri 原记载含蚁后与工蚁，Hill 未复述）。OCR 问题：异名行「Hamitermes obeuntie」「Leuootermes clarhi (partun)」分别应为 obeuntis、Leucotermes clarhi (partim)；「Pigs.」为 Figs. 之误；「dead, to apex of labrum」应为 head；「1.6 l - 1.83」为 1.61—1.83；「5-50」为 5.50；头宽「1.21+」中的 + 为脚注符号，非数值。分布与生物学未译入形态节。"
+}

@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Se distingue con facilidad de las especies afines A. perarmatus y A. heterognathus."
+  },
+  {
+   "label": "Alado",
+   "text": "No consta en el original (Not known)."
+  },
+  {
+   "label": "Soldado",
+   "text": "Especie pequeña; cabeza ocre, ampliamente oval, profunda. Mandíbulas de color herrumbre, alrededor de un tercio de la longitud de la cápsula cefálica, el borde externo casi recto, el ápice ligeramente incurvado, la parte media con un diente grande, largo, puntiagudo y dirigido hacia delante. Antenas de 15 artejos; el artejo 3 el más corto y estrecho, íntimamente fusionado con el artejo 4; los artejos 4 y 5 de tamaño aproximadamente igual, claramente menores que el artejo 6. Medidas: longitud total 3.50—3.75 mm, longitud de la cabeza (mandíbulas cruzadas en el diente, incluidas las mandíbulas) 1.46 mm, longitud de la cabeza (hasta la sutura clipeofrontal) 1.10 mm, ancho de la cabeza (0.91) 1.10 mm, longitud del pronoto 0.29 mm, ancho 0.64 mm."
+  }
+ ],
+ "note": "Adaptado de la descripción específica de Hill (1942), cuyo original está en inglés; el original describe solo al soldado, el alado figura como Not known y la obrera no se describe. Problemas de OCR: la longitud total figura como \"3-50 - 3-75\" (registrada como 3.50—3.75); \"head, wide (0.9 l) 1.10\", con el valor entre paréntesis dañado por el OCR (registrado como 0.91, dudoso); \"Pig.\" es un error por Fig.; en la línea de sinonimia \"Monodont ermes\" es una división de palabra de Monodontermes. El original indica que el estado del material tipo de Silvestri es desconocido. La distribución y la biología no se traducen en la sección de morfología."
+}

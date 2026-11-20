@@ -1,0 +1,17 @@
+{
+ "zh_name": "候补闯白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "中等偏大种，与 M. kalgoorliensis 近缘，区别如下：体型较小且略多毛；单眼较小、距复眼较远；囟由一个小卵形前孔与一个小的、分离的、球状近黑色后部组成（不像西澳种那样为一条细长的缝）；触角第 3 节最小；前胸背板（图 298）较窄而较长，中、后胸背板后缘较窄且明显更深地凹缺。量度（mm）：连翅体长 11.00—11.50；去翅体长 6.00—6.50；头长（至上唇端）原文 OCR 残缺，未能转录；头长（至额唇基缝）0.57—0.66；头宽 1.13—1.24；复眼最大直径 0.29—0.32；单眼长 0.12—0.13；前胸背板长 0.75—0.84；前胸背板宽 1.13—1.28；前翅长 9.00—9.50；前翅宽 2.70。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Mirotermes (Mirotermes) insitivus Hill（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原组合为 Mirotermes insitivus Hill, 1929，今置于 Invasitermes。量度单位 mm。分布：北昆士兰 Townsville。原文记本种仅知有翅成虫，采于 Townsville Town Common 连续两个季节；兵蚁与工蚁至今未知。1919—1920 与 1920—1921 年 9 月至次年 2 月，许多仍被 Eutermes magnus 占据的巢中含有大量本种第一型若虫与有翅成虫，客居种与寄主共用同一虫道，且无自己的兵蚁与工蚁。模式标本存墨尔本国家博物馆。OCR 问题：头长（至上唇端）一行严重残缺，原文作「lm rr ~ I'2 1 ' 21」，无法可靠复原，故该量度留空；「(Pig/ 298)」为 Fig. 之误识；「Luring」为 During 之误识；「Mirotermee」为 Mirotermes 之误识。"
+}

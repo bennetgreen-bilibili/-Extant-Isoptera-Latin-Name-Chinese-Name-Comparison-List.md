@@ -1,0 +1,25 @@
+{
+ "zh_name": "小山弓白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "上颚齿的位置与形状与多齿弓白蚁（A. dentosus）相似，但两者的体色与头形颇不相同；本种为一十分独特的种，无近缘种。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "原文未记载（Not known）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "中等大小的种，上颚较长、微弯；上颚齿短、三角形，位于上颚基部附近。头淡黄色至橙黄色；上唇与触角橙黄色；上颚铁锈色，基部橙黄色。头卵形，中部最宽，毛很少。上颚略短于头壳长；齿几乎与上唇端部在同一线上。上唇基半两侧近平行，端半收窄至钝尖的端部。触角 15 节；第 3 节很小；第 4 节仅略长于第 5 节；第 6 节长于第 4、5 节。量度：全长 5.15—5.25 mm，头长（含上颚）2.20—2.34 mm，头长（至额唇基缝）1.17—1.28 mm，头长（至上唇端）1.65—1.72 mm，头宽 1.10—1.15 mm，前胸背板长 0.34—0.38 mm、宽 0.67—0.69 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Hamitermes (Hamitermes) colonus sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 英文种级描述改写；原文只描述兵蚁，有翅成虫记为 Not known，未描述工蚁。标题行 OCR 作「Hamitermes (Hamitermes) c olonu& sp. nov.」，图注作「Hamitermes Colonus」；「Pig.」为 Fig. 之误；「sth」为 5th 之误。模式产地 New South Wales: Griffith 与清单一致。分布与生物学未译入形态节。"
+}

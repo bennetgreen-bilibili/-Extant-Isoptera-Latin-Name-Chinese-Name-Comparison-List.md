@@ -1,0 +1,17 @@
+{
+ "note": "Adaptado de la descripción específica en inglés de Hill (1942); el original describe solo el soldado, da el alado como Not known y menciona al obrero únicamente como morfotipo sin describirlo. La entrada original no tiene una sección Affinities propia; la comparación en que se basan los caracteres diagnósticos está en las Affinities de la entrada de H. orbus. Problemas de OCR: el encabezado dice «septentrional is»; «Not -known»; «Pig. 312» es Fig.; «comers» es corners; «1.72 1.83» y «1.24- - 1.36» están cortados por el salto de línea y aquí se recogen como 1.72—1.83 y 1.24—1.36. La entrada abarca volúmenes: el texto está al final de part-004 y el resto posterior a Distribution/Biology (incluido Types) al comienzo de part-005. La localidad tipo, Northern Territory: Darwin, coincide con la lista. La distribución (Darwin, Stapleton, Brock's Creek) y la biología (tres de las cuatro series conocidas se tomaron de paredes de nidos abandonados de otras especies de termitas y la restante de un nido al pie de un Eucalyptus) no se han traducido a las secciones de morfología.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Una de las especies más grandes. Es muy afín a H. orbus (Hill la compara en la entrada de esta última) y se distingue por el labro muy grande, claramente ensanchado en su parte anterior, con ángulos anterolaterales fuertemente desarrollados, y por la ausencia de tubérculos laterales."
+  },
+  {
+   "label": "Alado",
+   "text": "No consta en el original (Not known)."
+  },
+  {
+   "label": "Soldado",
+   "text": "Cabeza y antenas rojo anaranjado, labro ocre amarillo. Lados de la cabeza paralelos, borde posterior truncado. Los tubérculos frontales varían incluso dentro de una misma serie, pero son siempre cortos, anchos y romos; tubérculos laterales ausentes. Antenas de 14 segmentos; los segmentos 2 y 4, o más cortos o más largos que el segmento 3. Labro muy grande, claramente ensanchado en su parte anterior, ángulos anterolaterales fuertemente desarrollados. Medidas: longitud total 7.00 mm (mandíbulas completamente extendidas), longitud de la cabeza (con mandíbulas) 3.96 mm, longitud de la cabeza (hasta el ápice del tubérculo frontal) 1.72—1.83 mm, anchura de la cabeza 1.24—1.36 mm, longitud del pronoto 0.42—0.44 mm, anchura 0.84 mm."
+  }
+ ]
+}

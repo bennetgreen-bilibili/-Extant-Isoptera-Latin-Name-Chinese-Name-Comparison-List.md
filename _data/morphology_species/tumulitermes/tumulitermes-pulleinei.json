@@ -1,0 +1,25 @@
+{
+ "zh_name": "普雷勒冢白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁分大型与小型。大型与 E. marcidus 相似，区别为头色较淡（暗橙红）、鼻突较短、触角 13 节、第 4 节全体最短并与第 5 节愈合，鼻突约为整个头壳长的 3/8。小型很小，头相对长而窄、中部明显收缩，触角 12 节，鼻突约为整个头长的 2/3。有翅成虫原文未记载。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "大型：与 E. marcidus 相似，区别为头色较淡（暗橙红）、鼻突较短、触角 13 节、第 4 节全体最短并与第 5 节愈合；鼻突约为整个头壳长的 3/8。小型：很小。头暗橙红；头与腹部具稀少的长毛与短毛。头相对长而窄，后部宽圆，向前收窄，中部明显收缩。触角 12 节；第 2、3 节约等长，第 2 节圆柱形，第 3 节基部较窄；第 4 节长于第 2 或第 3 节，与第 5 节愈合。鼻突约为整个头长的 2/3。\n量度（同型标本）：大型 体长 3.00 mm，头长（至鼻突端）1.54 mm，头宽 0.84 mm，前胸背板宽 0.51 mm；小型 体长 2.67 mm，头长（至鼻突端）1.17、1.21 mm，头宽 0.49、0.51 mm，前胸背板宽 0.34、0.36 mm。Mjöberg 原量度：大型 体长 3.00 mm、头长 1.37 mm、鼻突长 0.53 mm、鼻突基部宽 0.15 mm、头宽 0.70 mm、前胸背板长 0.25 mm、前胸背板宽 0.49 mm、腹宽 0.67 mm；小型 体长 2.80 mm、头长 1.06 mm、鼻突长 0.48 mm、鼻突基部宽 0.13 mm、头宽 0.51 mm、前胸背板长 0.13 mm、前胸背板宽 0.32 mm、腹宽 0.65 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "据原文摘录：头背面具淡红黄色斑块，每侧被一条淡色中线分开；唇基基部白色、凸，基部与两侧圆；触角 14 节，淡黄色，第 3 节较长，第 4 节很短（长仅为宽之半），第 5 节及以后较细。\n量度：体长 3.8 mm；头长 1.52 mm；头宽 0.99 mm；前胸背板长 0.25 mm；前胸背板宽 0.68 mm；腹宽 1.29 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Eutermes pulleinei Mjoberg（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原书作 Eutermes pulleinei，异名栏引 Mjöberg 1920 的 Eutermes (Trinervitites) pulleinei。工蚁一节为 Hill 转摘 Mjöberg 原始描述，原书即注明 abstracted from the original description。有翅成虫原文记 'Not known'，故不列该节。模式产地：原书记 Queensland: Cedar Creek (type locality)，清单作 Ravenshoe，二者同处 Atherton Tableland 一带，需主控核对。原文 Distribution、Biology 未译入形态节。OCR 误识：'Pigs.'='Figs.'、'hy'='by'、'fomid'='found'、'IQ2C'='1920'。"
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the species-level description in Hill (1942), original in English; the original work has it as Eutermes dalbiensis sp. nov. (the OCR gives the heading as 'Eutermee'), the type locality Dalby (Qld), described from a series of soldiers and workers taken in shallow galleries under a stone. The original gives the alate as 'Not known', so that section is not included. The head length of the soldier is given in the original as a single value, 1.45 mm (not a range), and is transcribed as such. OCR misreadings: 'bastille' = 'hastilis', 'hent upwards' = 'bent upwards', 'sth' = '5th', 'Man-dibles' broken across lines = mandibles, 'hastills' = 'hastilis'.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "A rather small species with a dark orange head and antennae of 13 or 14 long segments. Very close to E. hastilis, differing as follows: body larger, head a little darker in tone and more constricted, more concave at the middle in dorsal view, nasus much longer and stouter and upturned. The alate is not recorded in the original."
+  },
+  {
+   "label": "Soldier",
+   "text": "A rather small species with a dark orange head and antennae of 13 or 14 long segments. Very close to E. hastilis, differing as follows: body larger, head a little darker in tone and more constricted, more concave at the middle in dorsal view, nasus much longer and stouter and upturned. Antennae usually 14-segmented; the basal segments variable; usually segment 1 long, nearly cylindrical; segment 2 slightly shorter than segment 4, nearly cylindrical; segment 3 shorter than segments 2 and 4; segment 5 slightly shorter than segment 4; segments 6—13 long and narrow, segment 14 shorter than segment 13. Segments 3 and 4 of one or both antennae are often more or less closely fused, or merge into a single segment almost as long as segment 1 (the latter giving a 13-segmented antenna). Mandibles usually with a pointed tooth. Measurements: body length 4.25—4.60 mm; head length (to apex of nasus) 1.45 mm; head width 0.74—0.80 mm; pronotum width 0.55 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Like the worker of E. hastilis, but the antennae as in the soldier. Postclypeus slightly more than half as long as wide. Measurements: body length 5.00—5.50 mm; head length (to apex of labrum) 1.72—1.76 mm; head length (to clypeofrontal suture) 0.95—1.00 mm; head width 1.28—1.32 mm; pronotum width 0.77—0.80 mm."
+  }
+ ]
+}

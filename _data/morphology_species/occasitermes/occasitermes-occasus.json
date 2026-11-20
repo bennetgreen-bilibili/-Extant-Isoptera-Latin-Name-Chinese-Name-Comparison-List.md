@@ -1,0 +1,25 @@
+{
+ "zh_name": "西部西部白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "总体较烟色象白蚁（Nasutitermes fumigatus，原文作 E. fumigatus）稍大，但其余特征无法与之区分。量度（Katanning 系列）：连翅长 11.75—12.00 mm，不连翅长 5.25—5.50 mm，头长（至上唇端）1.17 mm，头长（至额唇基缝）0.73—0.77 mm，头宽 0.99—1.02 mm，复眼最大直径 0.29 mm，单眼长 0.10—0.12 mm，前胸背板长 0.45 mm、宽 0.80 mm，前翅长 9.25—9.60 mm、宽 2.50—2.70 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "体色与烟色象白蚁相同，与之近缘，区别为体型明显较大、象鼻状喙（rostrum）更粗更长、头形不同（侧面观尤为明显）。喙长约头壳长的七分之五。上颚通常具尖。量度：全长 3.70—4.10 mm，头长（至喙端）1.68—1.85 mm，头宽 0.91—0.98 mm，前胸背板宽 0.46—0.53 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头主要为淡赭色。触角 14 节；第 4 节最短。后唇基长约与宽之半相等。量度：全长 4.25—4.75 mm，头长（至上唇端）1.32—1.35 mm，头长（至额唇基缝）0.73 mm，头宽 1.06—1.10 mm，前胸背板宽 0.62 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Eutermes occasus Silvestri（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 英文种级描述改写；原文描述有翅成虫、兵蚁与工蚁三个品级。学名沿革：Silvestri 1909 年置于 Eutermes，Holmgren 1912 年立亚属 occasi-termes（OCR 作 occasttermes），今作 Occasitermes occasus。OCR 问题：标题属名作「Eutermjes」；「hut otherwise」为 but otherwise；「labmrn」为 labrum；「9.2 5」为 9.25；「3-70」为 3.70；「ldEg」为 long；「clype of rental」为 clypeofrontal；「Pigs.」为 Figs.；「Premantle」为 Fremantle；「Kebnscott」为 Keysbrook 一类地名，存疑未改。分类疑点：有翅成虫与 E. fumigatus 无鉴别特征，仅以体形稍大区分，量度取自 Katanning 系列而非模式产地 Collie。模式产地 Western Australia: Collie 与清单一致。分布与生物学未译入形态节。"
+}

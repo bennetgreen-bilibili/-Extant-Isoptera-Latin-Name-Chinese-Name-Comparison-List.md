@@ -1,0 +1,21 @@
+{
+ "zh_name": "凿洞锯白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "原文称本种有翅成虫无确切标本（Authentic examples of this caste are not known），仅 Wagga Wagga 一批只含兵蚁与工蚁的系列可能属于本种；该批与 M. leai 仅量度不同。量度（mm，据该可疑系列）：连翅体长 6.30—7.25；去翅体长 4.25—5.25；头长（至上唇端）0.88—0.91；头长（至额唇基缝）0.51—0.55；头宽 0.77—0.80；复眼最大直径 0.22；单眼长 0.07；前胸背板长 0.36；前胸背板宽 0.58；前翅长 5.00—5.45；前翅宽 1.36。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "与 M. boreus 及 M. leai 近缘；比前者小且上颚更细，比后者大且上颚更粗；与两者之别在于额部具一个相当明显、略呈方形的凹（图 351）。量度（mm；原文分 Tamworth／Griffith 两列）：体长 4.75／5.40—6.10；头连上颚长 2.49／2.60—2.78；头长（至唇基缝）1.39／1.43—1.54；头宽 0.84／0.84—0.86；前胸背板长 0.27／0.29；前胸背板宽 0.55／0.60—0.62。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Microcerotermes cavus sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 新种描述改写，原文英文。量度单位 mm，兵蚁量度原文按两批标本分列（Tamworth／Griffith），已照录为两组数值。分布：维多利亚 near Swan Hill（模式产地）、Redcliffs、Halbert、Violet Town、Charlton、Linga；新南威尔士 near Griffith、Pillaga、Dubbo、Tamworth、near Wagga Wagga、Broken Hill；西澳 Kalgoorlie。模式标本为 C.S.I.R. 收藏的兵蚁正模。原文明确记有翅成虫量度仅来自「可能属于本种」的 Wagga Wagga 系列，故其有翅成虫描述与量度均非确证。OCR 问题：兵蚁量度表「lon S」为「long」之误识。"
+}

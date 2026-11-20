@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The original (Hill 1942) keeps the combination Rhinotermes reticulatus Froggatt, 1898 (type locality Kalgoorlie, Western Australia). The alate differs from R. intermedius and its subspecies in the darker body and wings (amber brown), the smaller compound eyes and ocelli, the ocelli nearly circular and far from the compound eyes (the distance about equal to their long diameter), and the 20-segmented antennae. The soldier is dimorphic, major and minor; in the major form the sides of the head are nearly parallel, the posterior part very broadly rounded, the mandibles short and stout, the tooth of the right mandible usually with a short accessory point on its inner margin, and no short tooth near the base."
+  },
+  {
+   "label": "Alate",
+   "text": "Differs from R. intermedius and the other subspecies in the darker body (amber brown) and wings, the smaller compound eyes and ocelli, the ocelli more or less circular and far from the compound eyes, the distance about equal to their long diameter. Antennae 20-segmented; segment 3 darker than the other segments; segments 2 and 3 about equal in length, segment 3 slightly wider than segment 2, or segment 3 slightly longer than segment 2; segment 4 shortest (Fig. 98). Measurements: length with wings 12.00—13.50; length without wings 6.50—7.50; head length (to apex of labrum) 1.61—1.88 (the original OCR reads \"1.6 l\"); head length (to clypeofrontal suture) 0.97—1.35; head width 1.52—1.66; greatest diameter of compound eye 0.33—0.37; ocellus length 0.07—0.11; pronotum length 0.74—0.82; pronotum width 1.29—1.44; forewing length 9.00—10.00; forewing width 2.60—3.20."
+  },
+  {
+   "label": "Soldier",
+   "text": "Major: head (Fig. 99) with the sides nearly parallel, slightly narrower anteriorly, the posterior part very broadly rounded. Antennae 16—18-segmented, usually 18; segments 2, 3 and 4 variable in length. Mandibles short and stout; the tooth of the right mandible usually with a short accessory point on its inner margin. No short tooth near the base of the right mandible. Minor: head (Fig. 100) with the sides parallel, the posterior part broadly rounded. Mandibles stouter, the tooth of the right mandible sometimes with an accessory point, as in the major soldier. Antennae 16-segmented, the segmentation as in the major form. Measurements (major/minor): total length 5.00—6.00/4.00—5.00; head length (with mandibles) 2.20—2.51/1.59—1.92; head length (to posterior margin of fontanelle) 1.15—1.33/0.86—1.02; head width 1.36—1.50/0.88—0.99; minimum width of postmentum 0.33—0.40/0.29—0.36; pronotum length 0.51—0.62/0.47—0.55; pronotum width 1.06—1.12/0.71—0.91."
+  }
+ ],
+ "note": "Adapted from the species-level description in Hill (1942), originally in English. The specific epithet appears in the original heading and synonymy mostly OCR'd as \"retioulatus\" (i.e. reticulatus). The original does not describe the worker, so no worker section is given; the localities and host timbers given under distribution and biology are not included in the morphology section."
+}

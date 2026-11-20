@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Especie pequeña de color pardo oscuro, con antenas pardo oscuro, los lados de la cabeza y la mitad basal del rostro más oscuros, la mitad distal del rostro pardo herrumbre oscuro, el tórax pardo claro, los fémures y los terguitos abdominales más oscuros y los tarsos y el vientre blancos. El soldado tiene la cabeza pequeña, oval, claramente contraída, y el rostro delgado, algo más largo que 3/5 del resto de la cabeza; antenas de 13 artejos, artejo 4 el más corto y estrecho de todos. La comparación con E. curtus figura en el original como \"See E. curtus\". El alado no consta en el original."
+  },
+  {
+   "label": "Soldado",
+   "text": "Especie pequeña de color pardo oscuro, con antenas pardo oscuro, los lados de la cabeza y la mitad basal del rostro más oscuros, la mitad distal del rostro pardo herrumbre oscuro, el tórax pardo claro, los fémures y los terguitos abdominales más oscuros y los tarsos y el vientre blancos. Cabeza pequeña, con algunos microtricos, oval, claramente contraída, con el dorso ligeramente convexo cerca de la mitad en vista lateral; rostro delgado, algo más largo que 3/5 del resto de la cabeza. Antenas de 13 artejos; artejo 1 1/3 más largo que el artejo 2, ambos casi cilíndricos; artejo 3 tan largo como el artejo 2, ensanchado en el ápice; artejo 4 el más corto y estrecho de todos; artejo 5 tan largo como el artejo 2; artejo 6 algo más largo que el artejo 5; artejos 7—13 aproximadamente iguales en longitud. Tórax y abdomen con pelos pequeños dispersos.\nMedidas: longitud del cuerpo 3.50 mm; longitud de la cabeza (hasta el ápice del rostro) 1.36 mm; anchura de la cabeza 0.66 mm; anchura del pronoto 0.37 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza principalmente parda, algo más oscura que el abdomen del soldado, las suturas media y transversa muy marcadas, el postclípeo amarillo pajizo. El postclípeo es algo más de la mitad de largo que de ancho. Antenas de 14 artejos; artejo 4 el más corto y estrecho de todos.\nMedidas: longitud del cuerpo 4.25 mm; longitud de la cabeza (hasta el ápice del labro) 1.48 mm; longitud de la cabeza (hasta la sutura clipeofrontal) 0.85 mm; anchura de la cabeza 1.14 mm; anchura del pronoto 0.62 mm."
+  }
+ ],
+ "note": "Reescrito a partir de la descripción específica en inglés de Hill (1942); el original la da como Eutermes subaquilus sp. nov., con localidad típica Narrogin (WA), registrada también en Wongan Hills. El alado figura como 'Not known' en el original, por lo que no se incluye esa sección. La frase sobre el postclípeo del obrero dice en el OCR original \"Postclypeus a little more than half as wide as long\" (longitud y anchura invertidas) y, siguiendo la formulación uniforme empleada para las demás especies del mismo libro, se lee como \"slightly more than half as long as wide\"; el coordinador debe verificar el libro original. Errores de OCR: 'abdcmen'='abdomen', 'ova l 9 n °k'='oval, markedly', 'sth'='5th', 'clype of rontal'='clypeofrontal', 'Micro-cerotermes distinotus'='Microcerotermes distinctus', 'eurtus'='curtus', 'tor resi'='torresi'."
+}

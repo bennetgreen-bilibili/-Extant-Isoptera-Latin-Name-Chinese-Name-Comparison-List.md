@@ -1,0 +1,17 @@
+{
+ "note": "Adaptado de la descripción específica en inglés de Hill (1942); el original describe el alado y el soldado, y solo menciona al obrero como morfotipo sin describirlo. El original da un único conjunto de medidas del soldado, sin intervalo, presumiblemente de un solo ejemplar. Problemas de OCR: «f ran» es from; «Fon-tanelle» es Fontanelle; «AT.» es M.; «M. Kalgoorliensis» lleva el epíteto específico en mayúscula en el original; «Ist» es 1st; «pi.» es pl.; «frcm» es from. La localidad tipo, Northern Territory: Stapleton, coincide con la lista. La distribución y la biología (dos alados, un soldado y dos obreros tomados cerca del suelo en la pared de un nido de Coptotermes acinaciformis; otros varios alados capturados con luz en interior el 30 de septiembre, mes 9) no se han traducido a las secciones de morfología.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "A primera vista el alado se parece a M. sunteri (la combinación usada en el original), pero es algo más oscuro por arriba, claramente más oscuro por abajo, los ojos compuestos suelen ser más pequeños y el pronoto es mucho menor y de forma distinta. El soldado es muy afín a Lophotermes septentrionalis y se distingue sobre todo por el labro pequeño y estrecho, con ángulos anterolaterales poco desarrollados."
+  },
+  {
+   "label": "Alado",
+   "text": "Ojos compuestos pequeños, no claramente salientes. Ocelos anchamente ovalados (longitud 0.10 mm), separados del ojo compuesto por aproximadamente su diámetro menor. Línea frontal linear, sin divisiones secundarias, aproximadamente tan larga como el ocelo. Postclípeo algo menos de la mitad de largo que de ancho (0.18 mm × 0.47 mm). Mandíbulas como en M. kalgoorliensis (la combinación usada en el original). Antenas de 15 segmentos; el segmento 2 aproximadamente la mitad del segmento 1; el segmento 3 muy corto y estrecho; el segmento 4 aproximadamente del tamaño del segmento 6. Pronoto más estrecho que la cabeza, borde anterior cóncavo, borde posterior ligeramente ondulado. Bordes posteriores del mesonoto y del metanoto profundamente cóncavos. Media sin ramificar; cubito con 8 ramas, 1—2 de ellas ramificadas de nuevo. Peciolo residual del ala anterior algo mayor que el del ala posterior. Medidas: longitud con alas 10.00 mm, longitud sin alas 5.00—5.25 mm, longitud de la cabeza (hasta el ápice del labro) 1.00—1.17 mm, longitud de la cabeza (hasta la sutura clípeo-frontal) 0.62—0.65 mm, anchura de la cabeza 0.91—0.99 mm, diámetro mayor del ojo compuesto 0.25 mm, longitud del ocelo 0.10 mm, longitud del pronoto 0.58 mm, anchura 0.82—0.88 mm, longitud del ala anterior 8.40—8.60 mm, anchura 2.16—2.20 mm."
+  },
+  {
+   "label": "Soldado",
+   "text": "Muy afín a Lophotermes septentrionalis, de forma de cabeza similar, pero con el labro pequeño y estrecho y ángulos anterolaterales débiles; antenas de 14 segmentos. Medidas: longitud de la cabeza (hasta el ápice del tubérculo frontal) 1.90 mm, anchura de la cabeza 1.24 mm, longitud del pronoto 0.33 mm, anchura 0.84 mm."
+  }
+ ]
+}

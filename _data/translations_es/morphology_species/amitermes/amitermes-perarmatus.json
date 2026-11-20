@@ -1,0 +1,17 @@
+{
+ "note": "Adaptado de la descripción específica en inglés de Hill (1942); el original describe solo al soldado, registra el alado como Not known y no describe al obrero. Problemas de OCR: el original dice «4. 50 -4.& 5» para la longitud total, con la última cifra defectuosa, por lo que solo se registra el límite inferior de 4.50 mm; «clvpeofrontal» es un error por clypeofrontal; «hent inwards» es un error por bent inwards; «The antennae ... segment smallest of all» carece de «3rd»; «lahrum» es un error por labrum; «ialgoo» es Yalgoo (la localidad tipo). La distribución y la biología no se han traducido a las secciones de morfología.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Especie pequeña, muy afín a A. hartmeyeri; se distingue porque los lados y la parte posterior de la cabeza están menos redondeados, la parte media del borde anterodorsal de la cabeza es claramente más elevada y las mandíbulas son mucho más largas y claramente curvadas hacia dentro."
+  },
+  {
+   "label": "Alado",
+   "text": "No consta en el original (Not known)."
+  },
+  {
+   "label": "Soldado",
+   "text": "Especie pequeña. Antenas de 15 segmentos, el segmento 3 el más pequeño. En algunos individuos el labro sobresale más de lo que muestra la Fig. 257. Medidas: longitud total (mandíbulas cruzadas por los dientes) superior a 4.50 mm (el límite superior está defectuoso en el original), longitud de la cabeza (mandíbulas en la misma posición, con mandíbulas) 1.54—1.61 mm, longitud de la cabeza (hasta la sutura clípeo-frontal) 0.99—1.02 mm, anchura de la cabeza 0.91—1.10 mm, longitud del pronoto 0.25—0.27 mm, anchura 0.50 mm."
+  }
+ ]
+}

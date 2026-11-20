@@ -1,0 +1,25 @@
+{
+ "zh_name": "修长冢白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁分大型与小型。大型头暗橙红，头后半部半球形、无毛，前部略收缩，鼻突长而细、略长于整个头长的 2/3；触角 13 节；上颚无尖齿。小型与大形一般相似但明显较小，头窄得多、略更收缩，最宽处在后 1/3，自此向鼻突基部明显收窄，触角 12 节。大型兵蚁与 E. tumuli 的区别为鼻突基部更细、触角节比例不同、头胸腹与足颜色淡得多；小型兵蚁同样较淡且头更收缩。工蚁头暗红褐，触角 14 节、第 4 节全体最短最窄。有翅成虫原文未记载。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "大型：头暗橙红，鼻突端部通常暗铁锈色；触角、胸与腹部腹板浅褐，触角最深，腿节与腹部背板较腹板淡，胫节白色。头后半部半球形、无毛，前部略收缩；鼻突长而细，略长于整个头长的 2/3，端部具许多短毛；侧面观背面几乎直，中部略后有一浅凹。触角 13 节；第 2 节约为第 1 节之半、窄 1/3，近圆柱形；第 3 节短于或等于第 2 节，基部窄；第 4 节全体最短最窄；第 5 节约与第 2 节等长但较宽；第 6—12 节略长于第 5 节；第 13 节与第 2 节等长。胸与腹毛很少。上颚无尖齿。小型：与大形一般相似，但明显较小，头窄得多且略更收缩。头两侧自最宽处（后 1/3）向鼻突基部明显收窄。触角 12 节；第 3 节总是全体最小；第 4 节较第 2 节长而宽；第 5 节短于第 4、6 节；其余同大形。上颚无尖齿。\n量度：大型 体长 3.25—3.60 mm，头长（至鼻突端）1.50—1.60 mm，头宽 0.73—0.80 mm，前胸背板宽 0.40—0.45 mm；小型 体长 2.50—2.75 mm，头长（至鼻突端）1.18—1.33 mm，头宽 0.55—0.59 mm，前胸背板宽 0.33—0.36 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头暗红褐，较兵蚁深，横缝与中缝很清楚（白色）；横缝向前侧方扩展成一片草黄色大区，并向后方在头侧延伸为两条多少清楚的宽线；后唇基橙黄，有时染浅褐；上唇淡草黄色；胸与腹部背板染褐。头长大于宽，最宽处在前面，向宽圆的后缘收窄，具很少的短毛。后唇基强凸，长大于宽之半。触角 14 节；第 4 节全体最短最窄。\n量度：体长 4.00 mm；头长（至上唇端）1.43—1.55 mm；头长（至额唇基缝）0.80—0.92 mm；头宽 1.10—1.14 mm；前胸背板宽 0.55—0.60 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Eutermes petilus sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原书作 Eutermes petilus sp. nov.（标题行 OCR 作 'Futernes pGtilus'），模式产地 Tammin（原文 OCR 'Tainmin'），另记 Merredin、Northam、Toodyay、Mullewa。有翅成虫原文记 'Not known'，故不列该节。Affinities 中描述大型兵蚁触角差异的一句 OCR 严重乱码（'the antennae have w?ZV e f n i a i °n'），未译入，需主控核对原书。OCR 误识：'Pigs.'='Figs.'、'stemites'='sternites'、'sth'='5th'、'hr own'/'lahr um'='brown'/'labrum'、'Tainmin'='Tammin'、'her shawl'='kershawi'、'POBtPum'='rostrum'、'Eutermes oentraliensis'='centraliensis'、'Hamiteriws'='Hamitermes'、'distinczus'='distinctus'、'1,60'/'1,18'/'1,33' 用逗号作小数点。"
+}

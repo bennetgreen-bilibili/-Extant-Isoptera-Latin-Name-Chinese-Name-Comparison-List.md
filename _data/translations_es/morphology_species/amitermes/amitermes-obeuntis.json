@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El alado es pálido y, salvo por A. perelegans y A. pavidus, puede distinguirse de las demás especies australianas; es claramente mayor que cualquiera de esas dos. El soldado se distingue fácilmente de las demás especies de Australia Occidental por la forma de las mandíbulas y de los dientes mandibulares."
+  },
+  {
+   "label": "Alado",
+   "text": "Especie de color pardo amarillento pálido, con la cabeza teñida de pardo más oscuro y el postclípeo claramente más pálido que la cabeza. Ocelos grandes, ampliamente ovales, próximos a los ojos compuestos. Fontanela grande. Antenas de 15 o 16 artejos, generalmente 16; artejo 3 muy pequeño, el menor de todos, casi siempre estrechamente fusionado con el artejo 4, algo mayor; artejo 6 menor que los artejos 5 y 7. Medidas: longitud con alas 14.75—15.25 mm, longitud sin alas 6.50—7.00 mm, longitud de la cabeza (hasta el ápice del labro) 1.28—1.32 mm, longitud de la cabeza (hasta la sutura clipeofrontal) 0.55—0.69 mm, anchura de la cabeza 1.17—1.19 mm, diámetro máximo del ojo compuesto 0.29—0.31 mm, longitud del ocelo 0.17 mm, longitud del pronoto 0.55 mm, anchura 1.02—1.06 mm, longitud del ala anterior 12.50—12.75 mm, anchura 3.65—3.90 mm."
+  },
+  {
+   "label": "Soldado",
+   "text": "Especie de tamaño mediano, con la cabeza corta y profunda y las mandíbulas relativamente cortas y robustas. Labro bastante grande, de lados paralelos y ápice ampliamente redondeado. Diente mandibular bien desarrollado, en forma de gancho, situado aproximadamente a mitad de camino entre la base y el ápice de la mandíbula. Antenas de 14 o 15 artejos; artejo 3 o artejo 4 el más corto. Medidas: longitud total 5.00—5.50 mm, longitud de la cabeza (mandíbulas extendidas, con mandíbulas) 2.12—2.14 mm, longitud de la cabeza (mandíbulas cruzadas por el diente, con mandíbulas) 1.90—2.09 mm, longitud de la cabeza (hasta la sutura clipeofrontal) 1.21—1.35 mm, longitud de la cabeza (hasta el ápice del labro) 1.61—1.83 mm, anchura de la cabeza 1.13—1.21 mm, longitud del pronoto 0.33—0.35 mm, anchura 0.69—0.75 mm."
+  }
+ ],
+ "note": "Reescrito a partir de la descripción específica en inglés de Hill (1942); el original describe el alado y el soldado, pero no el obrero (la descripción original de Silvestri incluía la reina y el obrero, que Hill no repite). Problemas de OCR: las líneas de sinónimos \"Hamitermes obeuntie\" y \"Leuootermes clarhi (partun)\" deben leerse obeuntis y Leucotermes clarhi (partim); \"Pigs.\" es un error por Figs.; \"dead, to apex of labrum\" debe leerse head; \"1.6 l - 1.83\" es 1.61—1.83; \"5-50\" es 5.50; el + de la anchura de la cabeza \"1.21+\" es un símbolo de nota al pie, no un valor. La distribución y la biología no se traducen en las secciones morfológicas."
+}

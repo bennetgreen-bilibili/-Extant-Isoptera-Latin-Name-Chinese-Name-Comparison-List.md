@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from the species-level description in Hill (1942), original in English. The heading in the original sets the specific epithet as intermedins (the OCR reads the final m as in), and there is also \"Fig. 94; plate 3, fig. 2\". The measurements of the two forms of soldier in the subspecies description are set out in the original in two columns separated by \"/\"; the paragraph on geographical variation follows the measurements in the original and is placed here under a separate \"Other\" section.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The original (Hill 1942) treats it as a subspecies of Rhinotermes (Schedorhinotermes) intermedius, the heading reading Rhinotermes (Schedorhinotermes) intermedins actuosus Hill, the type locality being Darwin, Northern Territory; the 1933 original description already treated it as a subspecies. The alate resembles the typical subspecies and R. seclusus but is smaller, the radius and radial sector are paler, the wing membrane is faintly yellowish and the compound eyes are usually smaller; the large soldier has a nearly square head with unrounded sides, stout mandibles sharply curved inwards at the tip, and a short tooth on the right mandible between the base and the large tooth, by which it can be distinguished from R. intermedius and R. seclusus."
+  },
+  {
+   "label": "Alate",
+   "text": "Resembles the typical subspecies and R. seclusus but is smaller, the radius and radial sector are paler, the wing membrane is faintly yellowish and the compound eyes are usually smaller. Measurements: length with wings 12.50—14.00; length without wings 7.00—8.00; head length (to apex of labrum) 1.61—1.77 (the OCR gives \"1.6 l\", the last character being the digit 1); head length (to clypeofrontal suture) 1.14—1.35; head width 1.50—1.66; greatest diameter of compound eye 0.40—0.48; ocellus length 0.16—0.22; pronotum length 0.77—0.85; pronotum width 1.32—1.44; fore wing length 10.00—10.40; fore wing width 3.00—3.35."
+  },
+  {
+   "label": "Soldier",
+   "text": "Large form: head (Fig. 94) more or less square, sides unrounded. Mandibles stout, sharply curved inwards at the tip; right mandible with a short tooth between the base and the large tooth. Antennae 18-segmented (very rarely 17); segment 3 usually as long as or slightly longer than segment 2, very rarely the shortest as in R. derosus. This subspecies differs from R. intermedius and R. seclusus in the shape of the head and mandibles, and is more easily distinguished from R. intermedius by the short basal tooth of the right mandible. Small form: the same as R. intermedius, except that the postmentum is almost always distinctly narrower; segment 2 of the antennae usually as long as segment 3, very rarely slightly shorter or slightly longer. Measurements (large form / small form): total length 6.00—7.00 / 4.00—4.50; head length (including mandibles) 2.45—3.25 / 1.68—1.85; head length (to posterior margin of fontanelle) 1.77—1.96 / 0.91—1.00; head width 1.80—2.10 / 0.91—1.00; least width of postmentum 0.25—0.40 / 0.22—0.27; pronotum length 0.60—0.74 / 0.44—0.51; pronotum width 1.30—1.48 / 0.78—0.83."
+  },
+  {
+   "label": "Other",
+   "text": "Geographical variation: alates from inland Northern Territory usually have slightly smaller compound eyes, and large soldiers are usually smaller with more head hairs; soldiers from the Atherton—Cairns to Gordonvale area of northern Queensland usually have smaller heads with distinctly more hairs than those from other regions. The reproductive caste of this form is unknown."
+  }
+ ]
+}

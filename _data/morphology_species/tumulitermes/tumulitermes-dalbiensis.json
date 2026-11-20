@@ -1,0 +1,25 @@
+{
+ "zh_name": "多尔比冢白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "较小的种，头暗橙，触角 13 或 14 个长节。与 E. hastilis 很近，区别为：体较大，头色调略深、更收缩，背观中部更凹，鼻突长、粗壮得多并向上翘。有翅成虫原文未记载。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "较小的种，头暗橙，触角 13 或 14 个长节。与 E. hastilis 很近，区别为：体较大，头色调略深、更收缩，背观中部更凹，鼻突长、粗壮得多并向上翘。触角通常 14 节；基部各节变异；通常第 1 节长、近圆柱形；第 2 节略短于第 4 节、近圆柱形；第 3 节短于第 2、4 节；第 5 节略短于第 4 节；第 6—13 节长而窄，第 14 节短于第 13 节。一侧或两侧触角的第 3、4 节常或多或少紧密愈合，或合为一节而几与第 1 节等长（后者即成为 13 节触角）。上颚通常具尖齿。\n量度：体长 4.25—4.60 mm；头长（至鼻突端）1.45 mm；头宽 0.74—0.80 mm；前胸背板宽 0.55 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "如 E. hastilis 的工蚁，唯触角如兵蚁。后唇基长略大于宽之半。\n量度：体长 5.00—5.50 mm；头长（至上唇端）1.72—1.76 mm；头长（至额唇基缝）0.95—1.00 mm；头宽 1.28—1.32 mm；前胸背板宽 0.77—0.80 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Eutermes dalbiensis sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原书作 Eutermes dalbiensis sp. nov.（标题行 OCR 作 'Eutermee'），模式产地 Dalby（Qld），据石下浅坑道中的一批兵蚁与工蚁描述。有翅成虫原文记 'Not known'，故不列该节。兵蚁头长原文只给单一值 1.45 mm（非范围），照录。OCR 误识：'bastille'='hastilis'、'hent upwards'='bent upwards'、'sth'='5th'、'Man-dibles' 断行为 mandibles、'hastills'='hastilis'。"
+}

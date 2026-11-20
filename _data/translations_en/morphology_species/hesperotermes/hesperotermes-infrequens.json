@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from Hill's (1942) English species-level description; the original describes the alate and the soldier, the worker being listed only as a morphotype and not described. OCR problems: the specific epithet appears capitalised as 'Infrequens' in the heading; 'Pig. 297' is Fig.; 'Meloourne' is Melbourne; 'dark hay head' is hay-coloured (straw yellow); 'sth' is 5th; 'Hea,d' and 'Lab rum' are broken words; 'toxapex' is to apex; the apostrophe in 'type locality'' is an OCR artefact; a line 'Total length 7.50; width of abdomen 2.50.' is misplaced after the alate measurements and has been listed separately. Taxonomic doubt: Hill gives the type locality as 'Wongong', the checklist as 'Wungong' (present-day Wungong, Western Australia), the spellings disagree and the lead should verify. Distribution (Wongong, Ludlow, Armadale) and biology are not translated into the morphology sections.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The alate can be distinguished from the other species of southern Australia by its small size. The soldier is distinctly different from any known species, its most conspicuous diagnostic features being the truncate and narrowed head, the extremely reduced frontal tubercles and the laterally compressed postmentum."
+  },
+  {
+   "label": "Alate",
+   "text": "A small species; head dark straw yellow, the postclypeus paler, the wings pale smoky brown. Compound eyes small, rather protruding. Ocelli broadly oval, the inner margin raised, about half their width from the compound eyes. Postclypeus width slightly more than half its length. Fontanelle linear, with a secondary cleft, longer than the ocelli. Antennae 15-segmented; segment 3 very short and narrow; segment 4 long, about as wide as segment 6; segment 5 larger than segment 3 but smaller than segments 4 and 6. Pronotum narrower than the head, the anterior margin nearly straight, the sides rounded, the posterior margin broadly rounded without an emargination. Posterior margin of mesonotum and metanotum deeply and sharply emarginate. Measurements: length with wings 7.50 mm, length without wings 4.00 mm, head length (to apex of labrum) 0.86—0.91 mm, head length (to clypeofrontal suture) 0.52 mm, head width 0.76 mm, maximum diameter of compound eye 0.18 mm, ocellus length 0.09 mm, pronotum length 0.34—0.36 mm, width 0.57—0.60 mm; the original also records a body length of 7.50 mm and an abdominal width of 2.50 mm."
+  },
+  {
+   "label": "Soldier",
+   "text": "A very small species; head ochre, the frontal face vertical, the frontal tubercles very small. Head widest anteriorly, in side view the dorsum distinctly and irregularly concave; frontal tubercles hardly projecting beyond the frontal face, slightly upturned, dark. Hypostoma prolonged into a short stout point, shaped like the frontal tubercles. Labrum large, the anterior angles distinctly expanded. Postmentum wide anteriorly, narrow and ridged posteriorly. Antennae 14-segmented; segment 2 about half of segment 1; segment 3 about one-fifth shorter than segment 2; segment 4 shortest and narrowest. Measurements: total length 4.00 mm, head length (including mandibles, mandibles fully extended) 2.16 mm, head length (to apex of frontal tubercles) 0.98—1.08 mm, head width 0.84—0.87 mm, pronotum length 0.22 mm, width 0.40—0.42 mm."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "zh_name": "异颚弓白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "Hill 本人未见本种标本，原描述据 Silvestri（1909）仅记兵蚁；其最近缘种为哈特迈耶弓白蚁（A. hartmeyeri），比较见该种。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "原文未记载（Not known）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "据 Silvestri 拉丁文原描述：头浅稻草色而带铁锈赭色，自头顶至额前部有一长倒三角形乳白斑；上颚黄铁锈色；腹部因内容物而呈灰色。头长大于宽约六分之一，向前、向后均稍收窄，具相当多的刚毛。触角 15 节，第 3 节较第 4 节细而短。上唇短，近三角形，端部微圆。上颚长约头长之半，弯而尖，具一向前微倾的大三角形齿。前胸背板前部明显上弯，边缘宽圆，中部几乎不凹，刚毛不多。腹部背板与腹板具多数短刚毛，腹板另具侧长刚毛；侧板具极小的疣，各生一极短刚毛。足刚毛较多。量度：体长 4.6 mm，头长 1.56 mm，头宽 1.3 mm，头高 0.85 mm，触角长 1.43 mm，上颚长 0.76 mm，后足胫节长 0.91 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Hamitermes (Hamitermes) heterognathus Silvestri（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 转引的 Silvestri 拉丁文原描述改写；Hill 明言「This species is unknown to me」，原文仅有兵蚁。拉丁量度「Long. corp. 4,6; long. capitis 1,56; lat. capitis 1,3; altitudo capitis 0,85; long. antennarum 1,43; mandibularum 0,76; tibiae III 0,91」按逗号小数照录为 4.6/1.56/1.3/0.85/1.43/0.76/0.91 mm。标题行 OCR 作「Hamitermes {Hamitermes)」；模式产地清单作「Daydown」，原文作 Day Dawn。分布与生物学未译入形态节。"
+}

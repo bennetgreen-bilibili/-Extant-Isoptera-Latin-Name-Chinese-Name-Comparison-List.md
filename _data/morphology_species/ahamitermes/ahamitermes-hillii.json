@@ -1,0 +1,21 @@
+{
+ "zh_name": "希尔无钩白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "与 H. nidicola 极近缘，可以显著更宽的前胸背板区别（图 274）。胫距 3:2:2。量度（mm）：连翅体长 11.25—12.25；去翅体长 5.75—6.00；头长（至上唇端）1.13；头长（至额唇基缝）0.55；头宽 0.97—1.08；复眼最大直径 0.27；单眼长 0.09；前胸背板长 0.73—0.80；前胸背板宽 1.02—1.21；前翅长 8.90—8.96；前翅宽 2.70。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "以以下特征与 H. nidicola 区别：后唇基两叶较短而更圆，上唇明显更窄且更尖，头的前背缘中部更隆起（图 275）。胫距 3:2:2。量度（mm）：体长 4.20—5.50；头连上颚长 1.85—2.20；头长（至额唇基缝）1.10—1.21；头宽 0.82—0.93；前胸背板长 0.33—0.40；前胸背板宽 0.71—0.80。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Hamitermes (Ahamitermes) hilli (Nicholls)（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原组合为 Ahamitermes hillii Nicholls, 1929，标题作 Hamitermes (Ahamitermes) hilli (Nicholls)（OCR 作 Tiilli）。量度单位 mm。分布：西澳 Kalgoorlie（模式产地）、Karramindie、Greenbushes、Toodyay、Mt. Barker。原文记本种仅知五六批标本，全部采自 Coptotermes（大概为 C. acinaciformis 与 C. raffrayi）巢的黏土外壁；有翅型仅知两批（3 月 20 日与 4 月 26 日采）。原文认为本种与 H. nidicola 很可能是同一种的地理宗。模式标本：有翅成虫后选模与兵蚁、工蚁后选形态模存 C.S.I.R.。OCR 问题：兵蚁体长「4.20 5-50」缺连接号，读作 4.20—5.50。"
+}

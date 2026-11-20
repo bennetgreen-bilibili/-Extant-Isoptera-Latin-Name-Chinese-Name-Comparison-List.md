@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The original (Hill 1942) treats Heterotermes intermedius described by Hill in 1932 (type locality near Kalgoorlie, Western Australia) as a subspecies of Heterotermes paradoxus, under the heading Heterotermes paradoxus intermedius; as this conflicts, in the sense of the International Code of Zoological Nomenclature, with the homonym described by Light in 1933, Hill (1942) used the subspecies name. The alate differs from the typical subspecies in the smaller head, compound eyes and pronotum, the usually longer and darker wings, and the narrower and more deeply excavated posterior margin of the mesonotum; the soldier agrees with the typical subspecies except in the width of the postmentum and the number of antennal segments."
+  },
+  {
+   "label": "Alate",
+   "text": "Differs from the typical subspecies (H. paradoxus paradoxus) in the smaller head, compound eyes (diameter 0.18—0.20) and pronotum, the usually longer and darker wings, and the narrower and more deeply excavated posterior margin of the mesonotum. Ocelli present. Antennae 16—18-segmented. Measurements: length with wings 10.00—10.50; length without wings 4.50—5.50; head length (to clypeofrontal suture) 0.73—0.79; head width 0.80—0.85; pronotum length 0.44—0.48; pronotum width 0.69; forewing length 8.00—8.75; forewing width 2.00—2.16."
+  },
+  {
+   "label": "Soldier",
+   "text": "Agrees with the typical subspecies, but the postmentum is constantly 0.18 wide and the antennae consist of 16 or 17 segments (the original OCR reads \"16 or 7.7 segments\", 7.7 being clearly an error for 17) (Fig. 69). Measurements: total length 5.00; head length (with mandibles) 2.67—2.81; head length (to clypeofrontal suture) 1.65; head width 0.95—1.00; pronotum length 0.38—0.48; pronotum width 0.72—0.83."
+  }
+ ],
+ "note": "Adapted from the species-level description in Hill (1942), originally in English. The book treats the species as a subspecies of H. paradoxus (Heterotermes paradoxus intermedius); the species name Heterotermes intermedius of the 1932 original description is no longer used at species rank because it conflicts with the homonym described by Light in 1933. The entry follows current species-level treatment (Heterotermes intermedius), while the morphological content is still taken from the original subspecies description. The worker is not redescribed here in the original, so no worker section is given."
+}

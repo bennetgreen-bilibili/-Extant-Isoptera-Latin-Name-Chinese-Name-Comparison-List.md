@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the species-level description in Hill (1942), original in English; the original work has it as Eutermes pulleinei, and the synonymy cites Eutermes (Trinervitites) pulleinei Mjöberg, 1920. The worker section is Hill's abstract of Mjöberg's original description; the original work itself notes that it is abstracted from the original description. The original gives the alate as 'Not known', so that section is not included. Type locality: the original work gives Queensland: Cedar Creek (type locality), while the checklist gives Ravenshoe; both are in the Atherton Tableland area, and the lead should check this. Distribution and Biology from the original are not translated into the morphology sections. OCR misreadings: 'Pigs.' = 'Figs.', 'hy' = 'by', 'fomid' = 'found', 'IQ2C' = '1920'.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The soldier occurs in a large and a small form. The large form resembles E. marcidus and differs in the paler head (dark orange red), the shorter nasus, the 13-segmented antennae with segment 4 the shortest of the whole antenna and fused with segment 5, and the nasus about 3/8 of the total length of the head capsule. The small form is very small, with a relatively long and narrow head distinctly constricted at the middle, 12-segmented antennae, and a nasus about 2/3 of the total head length. The alate is not recorded in the original."
+  },
+  {
+   "label": "Soldier",
+   "text": "Large form: resembles E. marcidus, differing in the paler head (dark orange red), the shorter nasus, the 13-segmented antennae with segment 4 the shortest of the whole antenna and fused with segment 5; the nasus is about 3/8 of the total length of the head capsule. Small form: very small. Head dark orange red; head and abdomen with sparse long and short hairs. Head relatively long and narrow, broadly rounded behind, narrowed in front, distinctly constricted at the middle. Antennae 12-segmented; segments 2 and 3 about equal, segment 2 cylindrical, segment 3 narrower at the base; segment 4 longer than segment 2 or 3, fused with segment 5. Nasus about 2/3 of the total head length. Measurements (homotype specimens): large form, body length 3.00 mm, head length (to apex of nasus) 1.54 mm, head width 0.84 mm, pronotum width 0.51 mm; small form, body length 2.67 mm, head length (to apex of nasus) 1.17, 1.21 mm, head width 0.49, 0.51 mm, pronotum width 0.34, 0.36 mm. Mjöberg's original measurements: large form, body length 3.00 mm, head length 1.37 mm, nasus length 0.53 mm, nasus basal width 0.15 mm, head width 0.70 mm, pronotum length 0.25 mm, pronotum width 0.49 mm, abdominal width 0.67 mm; small form, body length 2.80 mm, head length 1.06 mm, nasus length 0.48 mm, nasus basal width 0.13 mm, head width 0.51 mm, pronotum length 0.13 mm, pronotum width 0.32 mm, abdominal width 0.65 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Abstracted from the original: dorsum of the head with pale reddish yellow patches, each side separated by a pale median line; base of the clypeus white, convex, base and sides rounded; antennae 14-segmented, pale yellow, segment 3 rather long, segment 4 very short (only half as long as wide), segments from the fifth onwards more slender. Measurements: body length 3.8 mm; head length 1.52 mm; head width 0.99 mm; pronotum length 0.25 mm; pronotum width 0.68 mm; abdominal width 1.29 mm."
+  }
+ ]
+}

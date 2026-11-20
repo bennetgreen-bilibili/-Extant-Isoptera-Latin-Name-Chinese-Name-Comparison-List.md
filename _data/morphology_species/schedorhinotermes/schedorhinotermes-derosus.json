@@ -1,0 +1,25 @@
+{
+ "zh_name": "流浪长鼻白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "原文（Hill 1942）作为 Rhinotermes (Schedorhinotermes) intermedius 的亚种处理，标题 OCR 作 Rhinotermes (Schedorhinotermes) intermedins derosus Hill，1933 年原描述即为亚种，模式产地西澳德比（Derby）。有翅成虫与 R. actuosus 相似而较小。兵蚁大形与 R. actuosus 相似，但头后部较宽、后颏通常较宽、触角多数节稍长且第 3 节明显较长；小形大于 R. actuosus，触角节较长、第 3 节明显较长、后颏通常较宽。原文指出，检视更广产地材料后，可能显示本种即与 R. actuosus 同物。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "与 R. actuosus 相似但较小。量度：具翅长 12.00—12.50；去翅长 6.75—7.00；头长（至上唇端）1.54；头长（至额唇基缝）1.06—1.18；头宽 1.38—1.46；复眼最大直径 0.40（原文 OCR 作「C. 40」）；单眼长 0.16—0.18；前胸背板长 0.69—0.72；前胸背板宽 1.17—1.25；前翅长 8.50；前翅宽 2.67。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "大形：与 R. actuosus 相似。头后部较宽，后颏通常较宽，触角多数节稍长，第 3 节明显较长。小形：大于 R. actuosus，触角节较长，第 3 节明显较长，后颏通常较宽；右上颚在大齿与基部之间有时具一极退化的小齿。量度（大形／小形）：全长 7.00—7.50／5.40；头长（连上颚）2.33—2.66／2.00；头长（至囟点后缘）1.66—1.77／1.11；头宽 1.85—2.00／1.03；后颏最小宽 0.29—0.37／0.30；前胸背板长 0.74—0.81／0.55；前胸背板宽 1.18—1.42／0.87。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Rhinotermes (Schedorhinotermes) intermedins derosns Hill（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文。标题行 OCR 把属名排作「Bhinotermes」、种加词排作「derosns」（即 derosus），正文 1933 年文献行亦作「derosns」。小形兵蚁量度原文只有单值（5.40、2.00、1.11、1.03、0.30、0.55、0.87），未构成范围，照录。"
+}

@@ -1,0 +1,21 @@
+{
+ "zh_name": "具瘤树白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "小型浅色种，总体赭色，后唇基、触角与足比头略浅，主翅脉红褐色。头（图 46）毛极少，头顶平而皱。复眼大、突出。触角 15 或 16 节，通常 15。前胸背板边缘具印痕，宽于头，前缘宽凹，两侧仅微圆并向后收窄，后缘宽而微呈波状，疏具一列短毛与中等长的毛。量度（mm）：连翅体长 10.25—11.00；去翅体长 5.75—7.00；头长（至上唇端）1.30—1.46；头长（至额唇基缝）1.02—1.06；头宽 1.13—1.17；前胸背板长 0.65—0.69；前胸背板宽 1.19—1.24；前翅长 8.50；前翅宽 2.20。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头长，对该亚属而言相对较宽，前背突起很发达（图 47、48）。触角 12 或 13 节，通常 13。右上颚具 2 枚短的中央齿；左上颚具 3 枚短齿，基齿距中齿较端齿距中齿稍远。复眼退化。量度（mm）：体长 5.50—7.00；头连上颚长 2.27—2.68；头长（至唇基缝）1.76—2.09；头宽 1.21—1.32；前胸背板长 0.58—0.69；前胸背板宽 1.24—1.35。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Calotermes (Glyptotermes) tuberoulatus (Froggatt)（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原组合为 Glyptotermes tuberculatus Froggatt, 1896（OCR 多作 uuberoula-tus／tuberoulatus），标题作 Calotermes (Glyptotermes) tuberoulatus (Froggatt)。量度单位 mm。分布：新南威尔士 Uralla（模式产地）、Kincumber、Minnamurra、Narrabeen、Woronora、Galston、Tomerong、Jervis Bay、Kowen、Eden；新西兰 Auckland（传入）。原文记本种多在小群中，见于原木、火烧疤痕附近及 Banksia 与数种桉树的活树健全木部；有翅成虫 12 月 28 日至 1 月 21 日采到。模式标本：兵蚁后选模与有翅成虫后选形态模存 C.S.I.R.。与 C. brevicornis 之别见该种条目：有翅成虫以更方的前胸背板区别，兵蚁则以较小的体型与头前缘明显更发达的突起区别。"
+}

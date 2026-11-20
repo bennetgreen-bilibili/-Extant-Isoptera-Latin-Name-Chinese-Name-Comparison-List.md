@@ -1,0 +1,25 @@
+{
+ "zh_name": "克肖冢白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "很小的种，与 E. petilus 很近，与该种的小型相比：体较大，头更收缩，鼻突略粗，头与鼻突一致的橙红色，触角深得多且节长得多。兵蚁触角 12 节、偶 13 节，上颚具或不具尖齿。工蚁与 E. petilus 很相似，触角 15 节。有翅成虫原文未记载。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "很小的种，与 E. petilus 很近，与该种的小型相比：体较大，头更收缩，鼻突略粗，头与鼻突一致的橙红色，触角深得多且节长得多。触角 12 节，偶 13 节；12 节者第 2 节全体最短，仅略短于第 3 节；第 4—11 节长于第 3 节、细，第 4 节有时略显分节痕迹（13 节者此分节清楚，第 4 节成为全体最短最窄）。上颚具或不具尖齿。\n量度：体长 2.80—3.00 mm；头长（至鼻突端）1.30—1.35 mm；头宽 0.55—0.59 mm；前胸背板宽 0.35—0.40 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "与 E. petilus 的工蚁很相似。触角 15 节；第 3 节很小。后唇基长大于宽之半。\n量度：体长 3.50—4.00 mm；头长（至上唇端）1.43—1.60 mm；头长（至额唇基缝）0.75—0.88 mm；头宽 1.17—1.28 mm；前胸背板宽 0.58—0.70 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Eutermes kershawi sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原书作 Eutermes kershawi sp. nov.，正文记「named in honour of Mr. James A. Kershaw」，模式产地 Forrest（WA），另记 New South Wales: Broken Hill。标题行 OCR 作 'Eutermes hersliawi'，图注作 'Kerehawi'/'kershawi'，据命名说明与产地判为本种。有翅成虫原文记 'Not known'，故不列该节。OCR 误识：'4.Q0'='4.00'、'1-60'='1.60'、'13-segme.nted'='13-segmented'、'pro-notum' 断行。"
+}

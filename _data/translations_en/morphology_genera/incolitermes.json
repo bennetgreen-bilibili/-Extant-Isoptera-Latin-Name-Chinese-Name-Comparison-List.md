@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Small, dark termites living underground, in the nests of other termites (mainly Coptotermes). Alate head broad behind and narrowed anteriorly; antennae 15-segmented, segment 3 shortest; apical mandibular tooth distinctly larger than and widely separated from the second tooth; apical segment of the maxillary palp markedly inflated; fore tibiae with 2 or 3 apical spurs, mid and hind tibiae with 2 each. Soldier very small, head distinctly longer than wide, narrowed anteriorly, mandibles short and stout, scythe-shaped, teeth vestigial or wanting, postclypeus large, antennae 13-segmented, pronotum very short, about half as long as wide."
+  },
+  {
+   "label": "Alate",
+   "text": "Small, dark coloured. Head wide behind, narrowed anteriorly; antennae 15-segmented, segment 3 shortest; apical tooth of the mandibles distinctly larger than the second tooth and widely separated from it; apical segment of the maxillary palp markedly inflated, a subgeneric diagnostic character; fore tibiae with 2 or 3 apical spurs, mid and hind tibiae with 2 each."
+  },
+  {
+   "label": "Soldier",
+   "text": "Very small. Head distinctly longer than wide, shallow, usually markedly narrowed anteriorly and slightly constricted on the sides, sometimes only slightly narrowed anteriorly with the sides slightly widened; mandibles short, stout, scythe-shaped, not concave externally at the base, teeth vestigial or wanting; postclypeus large; antennae 13-segmented, segment 3 shortest; pronotum very short, about half as long as wide, a little narrower than the head, anterior margin slightly elevated; tibial spurs as in the alate."
+  }
+ ],
+ "note": "Rewritten from Hill's (1942) definition of the subgenus Ahamitermes, original English; Hill placed it as a subgenus of Hamitermes, now ranked as the genus Incolitermes (Gay 1966: 41, type species Hamitermes (Ahamitermes) pumilus Hill, 1942). Worker characters were described by Hill at genus level under Hamitermes and are not separately given."
+}

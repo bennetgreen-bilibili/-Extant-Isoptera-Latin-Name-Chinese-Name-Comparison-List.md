@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Termitas pequeñas y oscuras, de vida subterránea, que habitan en los nidos de otras termitas (principalmente Coptotermes). Cabeza del alado ancha en la parte posterior y estrechada hacia delante; antenas de 15 artejos, el 3.º el más corto; diente apical de las mandíbulas claramente mayor que el 2.º diente y muy separado de él; artejo apical del palpo maxilar marcadamente inflado; tibias anteriores con 2 o 3 espolones apicales, tibias medias y posteriores con 2 cada una. Soldado muy pequeño, cabeza claramente más larga que ancha, estrechada hacia delante, mandíbulas cortas y gruesas, en forma de hoz, dientes vestigiales o ausentes, postclípeo grande, antenas de 13 artejos, pronoto muy corto, aproximadamente la mitad de largo que de ancho."
+  },
+  {
+   "label": "Alado",
+   "text": "Pequeño, de color oscuro. Cabeza ancha en la parte posterior, estrechada hacia delante; antenas de 15 artejos, el 3.º el más corto; diente apical de las mandíbulas claramente mayor que el 2.º diente y muy separado de él; artejo apical del palpo maxilar marcadamente inflado, carácter diagnóstico subgenérico; tibias anteriores con 2 o 3 espolones apicales, tibias medias y posteriores con 2 cada una."
+  },
+  {
+   "label": "Soldado",
+   "text": "Muy pequeño. Cabeza claramente más larga que ancha, poco profunda, por lo general marcadamente estrechada hacia delante y ligeramente constreñida en los lados, a veces solo ligeramente estrechada hacia delante y con los lados algo ensanchados; mandíbulas cortas, gruesas, en forma de hoz, no cóncavas externamente en la base, dientes vestigiales o ausentes; postclípeo grande; antenas de 13 artejos, el 3.º el más corto; pronoto muy corto, aproximadamente la mitad de largo que de ancho, algo más estrecho que la cabeza, margen anterior ligeramente elevado; espolones tibiales como en el alado."
+  }
+ ],
+ "note": "Reescrito a partir de la definición del subgénero Ahamitermes de Hill (1942), original en inglés; Hill lo situó como subgénero de Hamitermes, hoy elevado al género Incolitermes (Gay 1966: 41, especie tipo Hamitermes (Ahamitermes) pumilus Hill, 1942). Los caracteres del obrero fueron descritos por Hill a nivel de género en Hamitermes y no se detallan por separado."
+}

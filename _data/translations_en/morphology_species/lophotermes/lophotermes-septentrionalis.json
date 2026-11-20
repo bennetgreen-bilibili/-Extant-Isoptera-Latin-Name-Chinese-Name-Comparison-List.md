@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the English species-level description in Hill (1942); the original describes the soldier only, gives the alate as Not known, and lists the worker merely as a morphotype without describing it. The original entry has no separate Affinities section; the comparison behind the diagnostic characters is in the Affinities of the entry for H. orbus. OCR problems: the heading reads \"septentrional is\"; \"Not -known\"; \"Pig. 312\" is Fig.; \"comers\" is corners; \"1.72 1.83\" and \"1.24- - 1.36\" are broken across lines and are recorded here as 1.72—1.83 and 1.24—1.36. The entry spans volumes: the text is at the end of part-004 and the remainder after Distribution/Biology (including Types) is at the beginning of part-005. The type locality, Northern Territory: Darwin, agrees with the checklist. Distribution (Darwin, Stapleton, Brock's Creek) and biology (three of the four known series were taken from the walls of abandoned nests of other termite species, the remaining one from a nest at the base of a Eucalyptus) are not translated into the morphology sections.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "One of the largest species. It is closest to H. orbus (Hill compares it under the entry for the latter) and differs in the very large labrum, clearly widened in front, with strongly developed anterolateral angles, and in the absence of lateral tubercles."
+  },
+  {
+   "label": "Alate",
+   "text": "Not recorded in the original (Not known)."
+  },
+  {
+   "label": "Soldier",
+   "text": "Head and antennae orange red, labrum yellow ochre. Sides of the head parallel, posterior margin truncate. Frontal tubercles vary even within the same series, but are always short, wide and blunt; lateral tubercles absent. Antennae 14-segmented; segment 2 and segment 4 either shorter or longer than segment 3. Labrum very large, clearly widened in front, anterolateral angles strongly developed. Measurements: total length 7.00 mm (mandibles fully extended), head length (including mandibles) 3.96 mm, head length (to apex of frontal tubercle) 1.72—1.83 mm, head width 1.24—1.36 mm, pronotum length 0.42—0.44 mm, width 0.84 mm."
+  }
+ ]
+}

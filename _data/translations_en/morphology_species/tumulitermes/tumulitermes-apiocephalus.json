@@ -1,0 +1,25 @@
+{
+ "note": "Adapted from Hill's (1942) species-level description, the original in English; the original treats Tumulitermes as a subgenus of Eutermes, under the name Eutermes apiocephalus. The alate was added by Hill (1925); Silvestri's (1909) original account covered the nymph, soldier and worker. Distribution, biology and affinities are not translated into the morphology sections. OCR misreadings: 'Pigs.'='Figs.', 'lahrum'='labrum', 'fbrewing'='forewing', 'Pistrihution'='Distribution', 'Euterwes'='Eutermes'.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The alate is small and nearly black, the wings smoky, the body length with wings 9.30—10.30 mm; it can be distinguished from E. tumuli by the distinctly smaller size, the paler postclypeus and the differently shaped pronotum. The soldier has an oval head and a long nasus and pigmented abdominal tergites, which distinguish it from other easily confused species; its head is less rounded than in E. comatus, the nasus is narrower, and the mid-dorsal margin of the head in side view is more arched."
+  },
+  {
+   "label": "Alate",
+   "text": "Small, nearly black, the wings smoky; antennae, abdomen and legs slightly paler than the head and pronotum; clypeus red-brown; apex of the tibiae and the tarsi pale. Head small and smooth, with hairs of medium density, hemispherical behind the compound eyes; frons flat; fontanelle small and very inconspicuous; compound eyes small; ocelli minute, far from the compound eyes. Postclypeus length more than half its width (0.33 × 0.51). Antennae 15-segmented; segment 1 about twice as long as wide; segment 2 nearly cylindrical, about half the length of segment 1 and distinctly narrower; segment 3 about half the length of segment 2, the shortest of all; segment 4 as long as segment 2 and slightly wider. Pronotum with hairs of medium density, short and wide, the anterior margin distinctly raised, the anterolateral angles narrow. Posterior margin of mesonotum and metanotum deeply concave. Measurements: body length with wings 9.30—10.30 mm; body length without wings 5.50—6.50 mm; head length (to apex of labrum) 1.28—1.35 mm; head length (to clypeofrontal suture) 0.62—0.69 mm; head width 1.08—1.15 mm; maximum diameter of compound eye 0.29—0.33 mm; ocellus length 0.10 mm; pronotum length 0.47—0.54 mm; pronotum width 0.99—1.02 mm; forewing length 7.25—8.00 mm; forewing width 2.00—2.20 mm."
+  },
+  {
+   "label": "Soldier",
+   "text": "Small, almost hairless. Head dark orange-red, the posterior margin and a broad band near the base of the nasus palest, the nasus the darkest part of the head; antennae, anterior margin of the pronotum and abdominal tergites pale brown. Head in dorsal view long-oval, narrowing uniformly towards the stouter nasus; head in side view shallow, the mid-dorsal margin convex; nasus about 2/3 of the head capsule in length. Mandibles without apical teeth. Antennae 13-segmented; segment 4 the shortest of all; segments 2, 3 and 5 about equal in length but different in shape. Measurements: body length 3.60—3.80 mm; head length (to apex of nasus) 1.32—1.40 mm; head width 0.62—0.65 mm; pronotum width 0.42 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Head dark orange, the postclypeus pale orange-yellow. Postclypeus length slightly more than half its width. Antennae 14-segmented; segment 4 the shortest of all. Measurements: body length 4.50—4.80 mm; head length (to apex of labrum) 1.30 mm; head length (to clypeofrontal suture) 0.77—0.84 mm; head width 1.10—1.20 mm."
+  },
+  {
+   "label": "Other",
+   "text": "Queen: body length 13.00 mm; abdominal width 4.00 mm."
+  }
+ ]
+}

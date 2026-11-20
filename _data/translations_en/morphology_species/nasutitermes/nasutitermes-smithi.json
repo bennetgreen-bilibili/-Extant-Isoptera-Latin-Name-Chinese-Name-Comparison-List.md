@@ -1,0 +1,21 @@
+{
+ "note": "Adapted from the species-level description in Hill (1942), original in English; the original uses the old combination Eutermes smithi (now placed in Nasutitermes). The pronotum width in the alate measurements is damaged in the OCR and has not been filled in. Nesting and biology (dome-shaped earth mounds) are not written into the morphology sections.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The original (Hill 1942) was published under the name Eutermes smithi, with the type locality at Johnston's Lagoon, Northern Territory, 45 miles north of Newcastle Waters. The alate is closely related to E. magnus, with shorter and narrower antennal segments; the soldier is closely related to E. magnus but smaller, with a distinctly narrower rostrum; the specific name honours S. Y. Churchill Smith."
+  },
+  {
+   "label": "Alate",
+   "text": "Closely related to E. magnus, distinguished by the shorter and narrower antennal segments. Antennae 16-segmented; segment 2 shorter than or equal to segment 3; segment 3 usually longer than segment 4; segment 4 the shortest, long-oval; segment 5 longer and wider than segments 4 and 6; segments 6—16 about equal in length. Postclypeus less than half as long as wide. Ocelli large, broadly oval. Compound eyes very large (Fig. 218). Media of the fore wing with several branches, the first fairly close to the base, the main stem joining the margin at the wing apex; cubitus with 6 or 7 branches. Measurements: length with wings 19.50—22.50; length without wings 10.00—12.00; head length (to anterior margin of clypeus) 1.98—2.00; head length (to clypeofrontal suture) 1.00—1.13; head width 1.83—1.94; greatest diameter of compound eye 0.66; ocellus length 0.23—0.25; pronotum length 1.00—1.06; fore wing length 17.50—18.50; fore wing width 3.00—3.90; pronotum width given in the OCR as \"x'ln “ I * 9 °\", damaged and illegible."
+  },
+  {
+   "label": "Soldier",
+   "text": "Closest to E. magnus, differing as follows: body smaller; head (Figs. 219, 220) with slightly more hairs, rostrum distinctly narrower, sides of the head more arched above the antennae; antennae paler and with distinctly shorter segments. Segment 2 of the antennae usually the shortest except segment 14, very rarely as long as segment 3; segment 3 usually distinctly longer than segment 2, about as long as segment 5; segment 6 slightly longer than segment 5; segments 3—10 or 11 without notable differences in length, segments 11—13 shorter than those before them; segment 14 oval, shorter than segment 13. Mandibles with a short point or without a point. Measurements: total length 3.75—4.50; head length (to apex of rostrum) 1.72—1.87; head width 1.02—1.17; pronotum width 0.58—0.62."
+  },
+  {
+   "label": "Worker",
+   "text": "Similar to E. magnus, but the antennal segments shorter, segment 2 usually the shortest, segment 3 usually distinctly longer than segments 2 and 4. Postclypeus less than half as long as wide. Measurements: total length 5.00—5.50; head length (to anterior margin of clypeus) 1.72; head length (to clypeofrontal suture) 1.06; head width 1.54; pronotum width 0.90."
+  }
+ ]
+}

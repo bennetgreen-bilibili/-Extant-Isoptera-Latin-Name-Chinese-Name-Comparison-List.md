@@ -1,0 +1,13 @@
+{
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Algo más oscura y por lo general un poco mayor que los ejemplares típicos de M. serratus. La parte posterior del pronoto suele ser más ancha que en esa especie, pero el carácter no es lo bastante constante para tener valor diagnóstico (Fig. 352). Medidas (mm): longitud con alas 9.50—10.00; longitud sin alas 5.00—5.50; longitud de la cabeza (hasta el ápice del labro) 1.08—1.10; longitud de la cabeza (hasta la sutura clipeofrontal) 0.58—0.62; anchura de la cabeza 0.91—0.93; diámetro máximo del ojo compuesto 0.25; longitud del ocelo 0.10; longitud del pronoto 0.44; anchura del pronoto 0.69—0.73; longitud del ala anterior 7.25—8.00; anchura del ala anterior 2.09—2.16."
+  },
+  {
+   "label": "Soldado",
+   "text": "Especie de tamaño mediano, con cabeza larga y estrecha y mandíbulas cortas y robustas (Fig. 353). Próxima a M. distinctus, de la que se distingue por la cabeza relativamente más corta y ancha y las mandíbulas más largas y a menudo más curvadas. Medidas (mm; el original da dos columnas, \"serie típica / colectados en Narrandera\"): longitud del cuerpo 5.25—5.50 / 4.30—4.80; longitud de la cabeza con mandíbulas 2.45—2.56 / 2.00—2.20; longitud de la cabeza (hasta la sutura clipeal) 1.52—1.57 / 1.32—1.39; anchura de la cabeza 0.93—0.95 / 0.80—0.82; longitud del pronoto 0.29 / 0.26—0.29; anchura del pronoto 0.66 / 0.55."
+  }
+ ],
+ "note": "Reescrito a partir de la descripción de la nueva especie de Hill (1942); el original está en inglés. Medidas en mm; las del soldado se dan en el original en dos columnas, \"serie típica / colectados en Narrandera\", y aquí se transcriben como dos conjuntos de valores. Distribución: New South Wales, 20 millas al sureste de Griffith (localidad típica, los 32 km SE Griffith que registra la lista), Narrandera, Wagga Wagga, Young; Victoria, Bendigo, Charlton, Goschen, Gohuna, Echuca, Rochester, Cohram, Yarrawonga, Rutherglen, Wangaratta, Benalla, Tallarook, Mildura, Kiata, Linga. Problemas de OCR: en la tabla de medidas del soldado \"lon S\" es una lectura errónea de \"long\"; en el alado \"eyes, max. diameter 0.25'\" tiene un apóstrofo final que es ruido de OCR."
+}

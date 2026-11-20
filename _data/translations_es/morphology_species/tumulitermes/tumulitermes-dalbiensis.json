@@ -1,0 +1,17 @@
+{
+ "note": "Adaptado de la descripción específica de Hill (1942), original en inglés; la obra original la recoge como Eutermes dalbiensis sp. nov. (el OCR da el encabezado como «Eutermee»), con localidad tipo Dalby (Qld), descrita a partir de una serie de soldados y obreros tomados en galerías poco profundas bajo una piedra. El original da el alado como «Not known», por lo que esa sección no se incluye. La longitud de la cabeza del soldado se da en el original como un único valor, 1.45 mm (no un intervalo), y así se transcribe. Errores de OCR: «bastille» = «hastilis», «hent upwards» = «bent upwards», «sth» = «5th», «Man-dibles» cortado por el salto de línea = mandibles, «hastills» = «hastilis».",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Especie más bien pequeña, con la cabeza naranja oscuro y antenas de 13 o 14 segmentos largos. Muy afín a E. hastilis, de la que se distingue por: cuerpo mayor, cabeza de tono algo más oscuro y más contraída, más cóncava en el centro en vista dorsal, nasus mucho más largo y grueso y levantado hacia arriba. El alado no consta en el original."
+  },
+  {
+   "label": "Soldado",
+   "text": "Especie más bien pequeña, con la cabeza naranja oscuro y antenas de 13 o 14 segmentos largos. Muy afín a E. hastilis, de la que se distingue por: cuerpo mayor, cabeza de tono algo más oscuro y más contraída, más cóncava en el centro en vista dorsal, nasus mucho más largo y grueso y levantado hacia arriba. Antenas generalmente de 14 segmentos; los segmentos basales variables; por lo general el segmento 1 largo, casi cilíndrico; el segmento 2 algo más corto que el 4, casi cilíndrico; el segmento 3 más corto que los segmentos 2 y 4; el segmento 5 algo más corto que el 4; los segmentos 6—13 largos y estrechos, el segmento 14 más corto que el 13. Los segmentos 3 y 4 de una o de ambas antenas suelen estar más o menos estrechamente fusionados, o se unen en un solo segmento casi tan largo como el segmento 1 (en este último caso la antena pasa a tener 13 segmentos). Mandíbulas generalmente con un diente puntiagudo. Medidas: longitud del cuerpo 4.25—4.60 mm; longitud de la cabeza (hasta el ápice del nasus) 1.45 mm; anchura de la cabeza 0.74—0.80 mm; anchura del pronoto 0.55 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Como el obrero de E. hastilis, pero con las antenas como en el soldado. Postclípeo algo más de la mitad de largo que de ancho. Medidas: longitud del cuerpo 5.00—5.50 mm; longitud de la cabeza (hasta el ápice del labro) 1.72—1.76 mm; longitud de la cabeza (hasta la sutura clípeo-frontal) 0.95—1.00 mm; anchura de la cabeza 1.28—1.32 mm; anchura del pronoto 0.77—0.80 mm."
+  }
+ ]
+}

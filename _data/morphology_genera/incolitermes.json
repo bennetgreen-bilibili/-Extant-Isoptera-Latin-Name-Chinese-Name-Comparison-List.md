@@ -1,0 +1,25 @@
+{
+ "zh_name": "子民白蚁属",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "小型、深色白蚁，营地下生活，栖于其他白蚁（主要为家白蚁属 Coptotermes）的巢内。有翅成虫头在后部宽、向前收窄，触角 15 节，第 3 节最短，上颚端齿明显大于并远离第 2 齿，下颚须末节显著膨大；前足胫节端距 2 或 3 枚，中、后足各 2 枚。兵蚁体型很小，头明显长大于宽，前部收窄，上颚短粗、镰刀状，齿退化或缺失，后唇基大，触角 13 节，前胸背板很短、长约宽的之半。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "小型，深色。头后部宽、向前收窄；触角 15 节，第 3 节最短；上颚端齿明显大于第 2 齿，两者相距较远；下颚须末节显著膨大，为亚属级鉴别特征；前足胫节端距 2 或 3 枚，中足与后足各 2 枚。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "体型很小。头明显长大于宽，较浅，通常前部明显收窄，两侧有时略收缩，或仅前部稍收窄而两侧略外扩；上颚短、粗、镰刀状，基部外侧不凹入，齿退化或缺失；后唇基大；触角 13 节，第 3 节最短；前胸背板很短，长约宽的之半，略窄于头，前缘稍隆起；胫节端距同有翅成虫。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "pp. 361–362（亚属 Ahamitermes 定义）"
+  }
+ ],
+ "note": "据 Hill (1942) 的亚属 Ahamitermes 定义改写，原文英文；Hill 将其置于 Hamitermes 属下作亚属，今独立为子民白蚁属 Incolitermes（Gay 1966: 41，模式种 Hamitermes (Ahamitermes) pumilus Hill, 1942）。工蚁特征原书在 Hamitermes 属级一并描述，未单列。"
+}

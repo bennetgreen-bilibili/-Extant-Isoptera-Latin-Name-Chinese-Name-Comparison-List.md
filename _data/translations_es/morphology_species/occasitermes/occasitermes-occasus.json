@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "Por lo general algo mayor que Nasutitermes fumigatus (el original escribe E. fumigatus), pero por lo demás indistinguible de ella. Medidas (serie de Katanning): longitud con alas 11.75—12.00 mm, longitud sin alas 5.25—5.50 mm, longitud de la cabeza (hasta el ápice del labro) 1.17 mm, longitud de la cabeza (hasta la sutura clipeofrontal) 0.73—0.77 mm, ancho de la cabeza 0.99—1.02 mm, diámetro máximo del ojo compuesto 0.29 mm, longitud del ocelo 0.10—0.12 mm, longitud del pronoto 0.45 mm, ancho 0.80 mm, longitud del ala anterior 9.25—9.60 mm, ancho 2.50—2.70 mm."
+  },
+  {
+   "label": "Soldado",
+   "text": "Color como en Nasutitermes fumigatus, a la que es afín, y de la que difiere por el tamaño claramente mayor, el rostro nasuto más robusto y largo y la forma distinta de la cabeza (especialmente de perfil). Rostro cerca de cinco séptimos de la longitud de la cápsula cefálica. Mandíbulas por lo general con puntas. Medidas: longitud total 3.70—4.10 mm, longitud de la cabeza (hasta el ápice del rostro) 1.68—1.85 mm, ancho de la cabeza 0.91—0.98 mm, ancho del pronoto 0.46—0.53 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Cabeza principalmente ocre pálido. Antenas de 14 artejos; el artejo 4 el más corto. Postclípeo aproximadamente la mitad de largo que de ancho. Medidas: longitud total 4.25—4.75 mm, longitud de la cabeza (hasta el ápice del labro) 1.32—1.35 mm, longitud de la cabeza (hasta la sutura clipeofrontal) 0.73 mm, ancho de la cabeza 1.06—1.10 mm, ancho del pronoto 0.62 mm."
+  }
+ ],
+ "note": "Adaptado de la descripción específica en inglés de Hill (1942); el original describe las tres castas: alado, soldado y obrera. Historia nomenclatural: Silvestri la situó en Eutermes en 1909, Holmgren erigió el subgénero occasi-termes en 1912 (el OCR lee occasttermes) y hoy es Occasitermes occasus. Problemas de OCR: el nombre del género en el encabezado dice \"Eutermjes\"; \"hut otherwise\" es but otherwise; \"labmrn\" es labrum; \"9.2 5\" es 9.25; \"3-70\" es 3.70; \"ldEg\" es long; \"clype of rental\" es clypeofrontal; \"Pigs.\" es Figs.; \"Premantle\" es Fremantle; \"Kebnscott\" es un topónimo del tipo Keysbrook, dudoso y dejado sin cambiar. Dudas taxonómicas: el alado no tiene ningún carácter diagnóstico que lo separe de E. fumigatus y solo se distingue por su tamaño algo mayor; las medidas proceden de la serie de Katanning, no de la localidad tipo Collie. La localidad tipo Australia Occidental: Collie coincide con la lista. La distribución y la biología no se traducen en la sección de morfología."
+}

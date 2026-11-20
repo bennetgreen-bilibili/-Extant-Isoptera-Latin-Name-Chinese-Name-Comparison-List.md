@@ -1,0 +1,21 @@
+{
+ "zh_name": "易辨澳大利亚白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "原文（Hill 1942）以 Mirotermes (Mirotermes) insignitus 为名发表，仅据有翅成虫描述；模式标本采自北领地 Wauchope Well（Tennant’s Creek 以南约 75 英里），10 月于灯下采得。与 M. percomis 近缘而明显不同：后者体较大、较暗、毛明显较少，前胸背板形状也明显不同。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "中等体形的黄褐色多毛种，翅淡烟色，触角长，复眼与单眼很大。头（Fig. 316）在复眼之后很短并宽圆，向前收窄，两侧单眼之间平坦。后唇基强烈膨大，长略大于宽之半；前唇基大，中部明显突出。复眼与单眼很突出；单眼宽椭圆形，长大于宽五分之一。上颚如 Fig. 317。囟点小、线状。触角 15 或 16 节；第 1 节很大，长为第 2 节的两倍；第 3、4 节约等长并与第 2 节等长，紧密愈合，或第 2 与第 5 节为全触角最短者；第 3 节略长于第 4 节；第 5 节约等于第 4 节，或较第 4 节短；第 6 节及其后各节长，末节圆柱状、端部宽圆。前胸背板窄于头，前缘波状，前侧角窄，两侧急剧收窄至浅凹的后缘。中胸背板后缘较宽并具浅凹；后胸背板后缘窄得多，但同样具凹。量度：具翅长 9.50（原文 OCR 作「9-50」）；去翅长 4.50—4.70；头长（至上唇端）1.00—1.06；头长（至额唇基缝）0.60—0.66；头宽 0.93—0.95；复眼最大直径 0.33；单眼长 0.18；前胸背板长 0.47—0.51；前胸背板宽 0.80—0.88；前翅长 8.00—8.50；前翅宽一项 OCR 缺（原文续接下页图注处截断），未能辨读。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Mirotermes (Mirotermes) insignitus sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文。原文用老组合 Mirotermes insignitus，今置 Australitermes。模式产地原文作 Wauchope Well（Tennant’s Creek 以南约 75 英里），与分组清单所记「Wauchope Creek」用字不同，属同一地点名的异写。原文仅有翅成虫描述，无兵蚁、工蚁节。前翅宽一项 OCR 缺失，未补数字。"
+}

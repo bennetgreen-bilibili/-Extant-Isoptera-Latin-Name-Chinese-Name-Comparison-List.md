@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "A small dark brown species, with dark brown antennae, the sides of the head and the basal half of the rostrum darkest, the distal half of the rostrum dark rusty, the thorax pale brown, the femora and abdominal tergites darker, the tarsi and venter white. The soldier has a small, oval, distinctly contracted head and a slender rostrum slightly longer than 3/5 of the rest of the head; antennae 13-segmented, segment 4 the shortest and narrowest of all. The comparison with E. curtus is given in the original as \"See E. curtus\". The alate is not recorded in the original."
+  },
+  {
+   "label": "Soldier",
+   "text": "A small dark brown species, with dark brown antennae, the sides of the head and the basal half of the rostrum darkest, the distal half of the rostrum dark rusty, the thorax pale brown, the femora and abdominal tergites darker, the tarsi and venter white. Head small, with a few microtrichia, oval, distinctly contracted, the dorsum slightly convex near the middle in lateral view; rostrum slender, slightly longer than 3/5 of the rest of the head. Antennae 13-segmented; segment 1 1/3 longer than segment 2, both nearly cylindrical; segment 3 as long as segment 2, widened at the apex; segment 4 the shortest and narrowest of all; segment 5 as long as segment 2; segment 6 slightly longer than segment 5; segments 7—13 about equal in length. Thorax and abdomen with sparse small hairs.\nMeasurements: body length 3.50 mm; head length (to apex of rostrum) 1.36 mm; head width 0.66 mm; pronotum width 0.37 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Head mainly brown, slightly darker than the abdomen of the soldier, the median and transverse sutures very distinct, the postclypeus straw yellow. The postclypeus is slightly more than half as long as wide. Antennae 14-segmented; segment 4 the shortest and narrowest of all.\nMeasurements: body length 4.25 mm; head length (to apex of labrum) 1.48 mm; head length (to clypeofrontal suture) 0.85 mm; head width 1.14 mm; pronotum width 0.62 mm."
+  }
+ ],
+ "note": "Rewritten from the English species-level description in Hill (1942); the original gives it as Eutermes subaquilus sp. nov., with the type locality Narrogin (WA), also recorded from Wongan Hills. The alate is recorded as 'Not known' in the original, so that section is not included. The sentence on the worker postclypeus reads in the original OCR \"Postclypeus a little more than half as wide as long\" (length and width reversed) and, following the uniform wording used for the other species in the same book, is read as \"slightly more than half as long as wide\"; the lead should check the original book. OCR misreadings: 'abdcmen'='abdomen', 'ova l 9 n °k'='oval, markedly', 'sth'='5th', 'clype of rontal'='clypeofrontal', 'Micro-cerotermes distinotus'='Microcerotermes distinctus', 'eurtus'='curtus', 'tor resi'='torresi'."
+}

@@ -1,0 +1,21 @@
+{
+ "zh_name": "布鲁姆长颚白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "原文（Hill 1942）沿用 1920 年 Mjöberg 的 Mirotermes broomensis，模式产地西澳布鲁姆，有翅成虫未记载。兵蚁为大形种，头短、宽、两侧平行，上颚甚长而细；与 M. quadratus 最近缘，可依其长而分节的触角以及更粗、更上翘的中瘤区分。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "大形种，头短、宽、两侧平行（Fig. 290）。上颚甚长而细。上唇长，两侧平行，前侧角延伸成发达的尖。中瘤基部粗，端部较钝；侧瘤发达，除 M. quadratus 外大于任何其他种。触角 14 节；第 3 节最短；第 2 与第 4 节约等长，略长于第 3 节；第 5—14 节长而窄。量度：全长 7.00（Mjöberg）；头长（连上颚）4.20（Mjöberg）；头长（不连上颚）1.73（Mjöberg）；头长（至额瘤端）1.61；头宽 1.21；前胸背板长 0.36；前胸背板宽 0.73。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Mirotermes (Mirotermes) broomens is Mjoberg（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文。标题行 OCR 把种加词断作「broomens is」，实为 broomensis。原文仅记兵蚁（有翅成虫 Not known；工蚁仅见于 Mjöberg 原描述，本书未重述）。量度末项 OCR 作「head, to apex of frontal tubercle, long 1.6 l」，按 1.61 转写。全长为 Mjöberg 原测值，Hill 于该值后括注 Mjöberg。原文提出仅据脱翅成虫描述的 M. jarmuranus 可能与本种同物。"
+}

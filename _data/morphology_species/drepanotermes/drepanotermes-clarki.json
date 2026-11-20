@@ -1,0 +1,21 @@
+{
+ "zh_name": "克拉克镰白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "原文记「Not known」，本种有翅成虫未见记载。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头暗红木色，前胸背板与触角略浅；足与腹部背板比前胸背板浅。体色与总体外观与 H. rubriceps var. opacus 很相似，但以颚齿锐尖、具倒刺状齿而易区别。头（图 281）多少呈方形，向前收窄。上唇相对小，相当尖。触角 17 节；第 3、4 节最短，或第 4 节短于第 3 节；其余各节长而细。量度（mm）：体长 6.00；头连上颚长（上颚于齿处交叉）2.77；头长（至额唇基缝）1.50；头长（至上唇端）1.96；头宽 1.55—1.61；前胸背板长 0.44—0.47；前胸背板宽 0.92—0.96。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Hamitermes (Drepanotermes) clarki Hill（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原组合为 Hamitermes clarki Hill, 1935（OCR 多作 darki／elarki），标题作 Hamitermes (Drepanotermes) darki Hill，今置于 Drepanotermes。量度单位 mm。分布：西澳 Eradu。原文记本种仅知模式系列——3 头兵蚁，与 E. rubriceps var. opacus 的采集群同采；模式标本：兵蚁正模存 C.S.I.R.。量度仅 3 头模式标本，故多数为单值。"
+}

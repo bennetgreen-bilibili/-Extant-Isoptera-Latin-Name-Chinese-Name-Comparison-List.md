@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Generally slightly larger than Nasutitermes fumigatus (the original writes E. fumigatus), but otherwise indistinguishable from it. Measurements (Katanning series): length with wings 11.75—12.00 mm, length without wings 5.25—5.50 mm, head length (to apex of labrum) 1.17 mm, head length (to clypeofrontal suture) 0.73—0.77 mm, head width 0.99—1.02 mm, greatest diameter of compound eye 0.29 mm, ocellus length 0.10—0.12 mm, pronotum length 0.45 mm, width 0.80 mm, forewing length 9.25—9.60 mm, width 2.50—2.70 mm."
+  },
+  {
+   "label": "Soldier",
+   "text": "Colour as in Nasutitermes fumigatus, to which it is closely related, differing in the distinctly larger size, the stouter and longer nasute rostrum, and the different head shape (especially in profile). Rostrum about five sevenths of the head-capsule length. Mandibles usually with points. Measurements: total length 3.70—4.10 mm, head length (to apex of rostrum) 1.68—1.85 mm, head width 0.91—0.98 mm, pronotum width 0.46—0.53 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Head mainly pale ochraceous. Antennae 14-segmented; segment 4 shortest. Postclypeus about half as long as wide. Measurements: total length 4.25—4.75 mm, head length (to apex of labrum) 1.32—1.35 mm, head length (to clypeofrontal suture) 0.73 mm, head width 1.06—1.10 mm, pronotum width 0.62 mm."
+  }
+ ],
+ "note": "Adapted from the English species-level description in Hill (1942); the original describes all three castes: alate, soldier and worker. Nomenclatural history: Silvestri placed it in Eutermes in 1909, Holmgren erected the subgenus occasi-termes in 1912 (OCR reads occasttermes), and it is now Occasitermes occasus. OCR problems: the genus name in the heading reads \"Eutermjes\"; \"hut otherwise\" is but otherwise; \"labmrn\" is labrum; \"9.2 5\" is 9.25; \"3-70\" is 3.70; \"ldEg\" is long; \"clype of rental\" is clypeofrontal; \"Pigs.\" is Figs.; \"Premantle\" is Fremantle; \"Kebnscott\" is a place name of the Keysbrook kind, doubtful and left unchanged. Taxonomic doubts: the alate has no diagnostic character separating it from E. fumigatus and is distinguished only by its slightly larger size; the measurements are taken from the Katanning series, not from the type locality Collie. The type locality Western Australia: Collie agrees with the list. Distribution and biology are not translated into the morphology section."
+}

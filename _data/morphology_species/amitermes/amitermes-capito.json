@@ -1,0 +1,25 @@
+{
+ "zh_name": "大头弓白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁上颚相对细长，上颚齿小而呈角状，头顶隆起，据此与同属各种相区别。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "原文未记载（Not known）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头赭橙色，触角黄赭色，上颚淡铁锈色。头短、宽而很深，中部略宽，后缘几乎平截；侧面观额以颇陡的角度上升至十分突出的头顶，随后陡降至后缘。上颚长、细而甚弯，齿很小，齿位略近端部而远于基部。后颏很狭（宽 0.22），两侧近平行，明显凸。上唇较小，长约等于宽，端部圆锥状。触角 15 节，第 3 节最小。量度：全长 5.25 mm，头长（上颚交叉，含上颚）2.22 mm，头长（至上唇端）1.66—1.70 mm，头宽 1.25—1.32 mm，前胸背板长 0.33—0.37 mm、宽 0.70 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Hamitermes (Hamitermes) capito Hill（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 英文种级描述改写；原文只描述兵蚁，有翅成虫记为 Not known，工蚁仅有形态型（morphotype）而未作描述，故不列工蚁节。异名表记本种原由 Hill 1933 年以 Ramitermes capito 发表于 Coun. Sci. Ind. Res. (Aust.) Pamph. no. 52, p. 29（清单作 Hill, 1935，存疑待核）。OCR 问题：属名作 Hcmitermes、种名标题作「capito Hill」而正文图注作 Hcmitermes；额倾角 OCR 作「k3°」（疑为 43°），未据以改写；「3nd」为 3rd 之误；「G-ula」为 gula（后颏）。分布与生物学未译入形态节。"
+}

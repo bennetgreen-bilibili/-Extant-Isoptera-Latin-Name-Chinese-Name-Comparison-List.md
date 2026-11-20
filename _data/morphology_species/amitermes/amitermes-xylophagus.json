@@ -1,0 +1,25 @@
+{
+ "zh_name": "食木弓白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫与新芽弓白蚁（A. neogermanus）很相似，区别在于体形较小、后唇基稍暗、囟相对较大、前中后胸背板形状不同以及脉序差异。兵蚁最易与该种混淆，区别在于上颚、较小的上唇与较深的头（另见中等弓白蚁 A. modicus）。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "前胸背板与新芽弓白蚁相似，但两侧较圆、后缘凹刻较深。中、后胸背板后部明显收窄，后缘的凹刻较该种更深更尖。两翅径脉近消失。量度：连翅长 13.25 mm，不连翅长 7.25—7.40 mm，头长（至上唇端）1.48 mm，头长（至额唇基缝）0.74 mm，头宽 1.14 mm，复眼最大直径 0.29 mm，单眼长 0.12 mm，前胸背板长 0.55—0.59 mm、宽 1.03 mm，前翅长 11.25—12.00 mm、宽 3.10—3.20 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头赭色黄褐，上颚铁锈色，触角与足稻草色。头较深，后部宽圆，两侧略收缩。上唇长大于宽，前部宽圆。上颚稍长于头壳长之半，细，在远端五分之二处具一钝尖、向后的齿。触角 15 节；第 3 节通常最小，有时与第 4 节愈合；第 4 节约与第 6 节等长；第 5 节短于第 6 节。量度：全长 5.50 mm，头长（含上颚）2.00 mm，头长（至额唇基缝）1.14—1.18 mm，头长（至上唇端）1.50 mm，头宽 1.03 mm，前胸背板长 0.37 mm、宽 0.66 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Hamitermes (Hamitermes) xylophagus Hill（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 英文种级描述改写；原文描述有翅成虫与兵蚁，工蚁仅列为形态型（morphotype）而未作描述。OCR 问题：标题行作「Hamitermes (Hamit ernes) xylophcijgus Hill」；「Pairiph.」为 Pamph.；「Pig.」为 Fig.；「ochraceous huff」为 buff；「sth」为 5th；「heighc」为 height。模式产地 Australian Capital Territory: Canberra 与清单一致。分布与生物学未译入形态节。"
+}

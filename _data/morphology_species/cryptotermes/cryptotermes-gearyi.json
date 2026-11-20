@@ -1,0 +1,25 @@
+{
+ "zh_name": "吉尔里堆砂白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫头小、两侧近平行，复眼小（直径 0.33），单眼很小并与复眼相接，触角 15 或 16 节（通常 16），前胸背板宽于头、宽大于长，翅密被鳞片状微刺（脉上尤多）。与 C. queenslandis 的比较见该种；兵蚁与 C. primus 相比体较大、触角第 3 节较长且着色、额突较大、额深凹，与 C. nocens 相比体较大、触角第 3 节与额突更发达。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "背面与翅脉暗褐，腹面与翅膜略淡，足与上唇黄褐。头小，两侧近平行，具微细斑纹，具稀少短毛。复眼小（直径 0.33）而突出。单眼很小，与复眼相接。横缝之后头两侧各有一明显的额斑，与单眼及后唇基侧缘成一线。触角 15 或 16 节，通常 16；第 3 节常较第 2 节长而宽，有时第 2、3、4 节等长；自第 4 节至第 14 或 15 节依次渐长渐宽，末节较次末节短而窄。前胸背板宽于头，宽大于长，强拱起，前缘具宽而浅的凹，两侧略圆，后缘宽圆、中部微凹，边缘凹陷并具中等长的短毛，其余部分毛少。翅中等长而窄，密被鳞片状微刺，脉上尤多。\n量度：带翅体长 9.00—9.25 mm；去翅体长 5.50—7.00 mm；头长（至上唇端）1.43 mm；头长（至唇基缝）1.06 mm；头宽 1.13 mm；前胸背板长 0.69 mm；前胸背板宽 1.21 mm；前翅长 6.60—6.75 mm；前翅宽 1.72 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "上颚、后唇基与额为黑色；头顶与颈侧板暗红褐，后头区较淡。头略长于宽，复眼之后较中部略窄，后部宽圆，具微细斑纹。上颚相对长，具发达齿。额突发达，侧面观明显隆起、悬于额上，中部深裂，向两侧扩展至复眼；此扩展区中部凹且明显皱缩。后唇基两端附近各有一短而粗的角状突起，腹面颊部的延长形成一相似突起。复眼长卵形。触角 11—14 节，通常 12；第 3 节深着色，通常与第 2 节等长或更长。前胸背板与头等宽，前缘上翘，中部深而宽地凹，明显呈锯齿状，两侧锐圆至宽圆的中央，后侧角宽圆，后缘直，两侧与后缘凹陷，具稀少较长的毛。\n量度：体长（头与体成 45°）6.50—7.00 mm；头长（自基部至上颚端）2.16 mm；头长（自基部至额突）1.28 mm；头长（自基部至唇基缝）1.54 mm；头宽 1.43 mm；前胸背板长 0.84 mm；前胸背板宽 1.43 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Calotermes (Cryptotermes) gearyi sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原书作 Calotermes (Cryptotermes) gearyi sp. nov.，模式产地 Dalby（Qld），据活树与死枝中的多批标本描述（寄主含 Eucalyptus melliodora、E. rostrata、Callitris glauca）。原文只有有翅成虫与兵蚁两节，无工蚁描述。Affinities 一句 OCR 残作「The soldier from C. primus in its larger size…」，动词缺失，按上下文读作「与 C. primus 相比……」；此处 C. primus 指同书 Cryptotermes 属的 C. primus，与清单中 Mirotermes (Paracapritermes) primus 为同名异物，需主控留意。OCR 误识：'postclypeuS'='postclypeus'、'shagreened' 为原书术语、'molllocLora'/'melllodora'/'melliodora' 均指 Eucalyptus melliodora、'fumlgatus'='fumigatus'、'takai'='taken'、'1,43' 用逗号作小数点、'6.60 - 6.75-' 末破折号为 OCR 噪声。"
+}

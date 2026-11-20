@@ -1,0 +1,25 @@
+{
+ "zh_name": "克雷珀林旁扭白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫中型、多毛，翅暗烟色，后唇基长约为宽之半（0.22×0.44），触角 15 节，前胸背板窄于头，径脉很短，中脉经翅的前 1/3、简单或分支，肘脉具 8—13 支。兵蚁头长而窄、两侧平行、大小有变异，额瘤大、基部粗、端部上弯，触角 14 节。原文记本种在南半球无近缘种，同属其它种仅凭大小与额瘤形状即可与本种区分（所举近似种名 OCR 残缺，见 note）。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "中型、多毛的种，翅暗烟色。头、胸与腹部背板暗褐，后唇基较浅的褐，上唇淡橙黄。后唇基长约为宽之半（0.22×0.44）。囟有变异，通常披针形，有时向前延长或模糊分叉。复眼较大而突出。单眼大小有变异，内缘略隆起。上颚端齿不比第 2 齿大多少。触角 15 节；第 3 节很小；第 4 节大于第 3 节；第 5 节小于第 4 节但大于第 3 节。前胸背板窄于头，前缘凹，前侧角圆，两侧圆至宽而呈波状的后缘。中胸与后胸背板后缘收窄并深而尖锐地凹。径脉很短；中脉经翅的前 1/3，简单或分支；肘脉具 8—13 支。\n量度：带翅体长 11.00 mm；去翅体长 5.25—5.50 mm；头长（至上唇端）0.91—1.06 mm；头长（至额唇基缝）0.65—0.69 mm；头宽 0.90—0.95 mm；复眼最大径 0.23—0.25 mm；单眼长 0.06—0.10 mm；前胸背板长 0.44—0.47 mm；前胸背板宽 0.74—0.80 mm；前翅长 9.50 mm；前翅宽 2.40—2.50 mm。蚁后：体长 17.00 mm；腹宽 4.00 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头、触角与触须淡橙黄，胸与足草黄色。头长而窄，两侧平行，大小有变异。上唇有变异，通常两侧平行、前面平截，但常前侧角延长成尖。额瘤大，大小有变异，基部粗，端部上弯。触角 14 节；第 3、4 节等长、全体最短，或第 4 节短于第 3 节；第 5 节略长于第 4 节；第 6—14 节细长，依次渐长。\n量度：体长 4.25—5.80 mm；头长（含上颚）2.56—3.08 mm；头长（至额瘤端）1.30—2.00 mm；头宽 0.85—1.21 mm；前胸背板长 0.25—0.33 mm；前胸背板宽 0.56—0.73 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Mirotermes (Mirotermes) kraepelini Silvestri（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文。分类疑点（需主控复核）：原书把本种置于 Mirotermes 亚属 Mirotermes s.str.（标题 'Mirotermes (Mirotermes) kraepelini Silvestri'，Fig. 300-302），并非 Paracapritermes 亚属，与清单属名 Paracapritermes kraepelinii 不一致；本条目按清单的属名与 gid 归档，locator 保留原文标题。异名栏含 1929 Mirotermes argatus Hill（Victoria），模式产地 Mundaring（WA）。原文有 Winged adult、Queen（体长 17.00 mm、腹宽 4.00 mm）与 Soldier 三节，无工蚁描述；Queen 量度并入有翅成虫节。Affinities 所举近似种 OCR 作 'M. hrisiformis'、'M. infrequens'，前者拼写未能确定。OCR 误识：'Pig.'='Fig.'、'Labmm'='Labrum'、'10ng 35'='long'、'pro-no turn'='pronotum'、'plаtyocephalus'='platycephalus'、'obeuntis' 为 Hamitermes 种名。"
+}

@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "Especie muy pequeña, próxima a E. petilus; en comparación con la forma pequeña de esa especie: el cuerpo es mayor, la cabeza más contraída, el rostro algo más grueso, la cabeza y el rostro de color rojo anaranjado uniforme, y las antenas mucho más oscuras y con artejos mucho más largos. El soldado tiene antenas de 12 artejos, ocasionalmente 13, y las mandíbulas con o sin diente agudo. El obrero es muy semejante al de E. petilus, con antenas de 15 artejos. El alado no consta en el original."
+  },
+  {
+   "label": "Soldado",
+   "text": "Especie muy pequeña, próxima a E. petilus; en comparación con la forma pequeña de esa especie: el cuerpo es mayor, la cabeza más contraída, el rostro algo más grueso, la cabeza y el rostro de color rojo anaranjado uniforme, y las antenas mucho más oscuras y con artejos mucho más largos. Antenas de 12 artejos, ocasionalmente 13; con 12 artejos, artejo 2 el más corto de todos, solo algo más corto que el artejo 3; artejos 4—11 más largos que el artejo 3, delgados, artejo 4 que a veces muestra un leve indicio de subdivisión (con 13 artejos esta subdivisión es clara y el artejo 4 pasa a ser el más corto y estrecho de todos). Mandíbulas con o sin diente agudo.\nMedidas: longitud del cuerpo 2.80—3.00 mm; longitud de la cabeza (hasta el ápice del rostro) 1.30—1.35 mm; anchura de la cabeza 0.55—0.59 mm; anchura del pronoto 0.35—0.40 mm."
+  },
+  {
+   "label": "Obrero",
+   "text": "Muy semejante al obrero de E. petilus. Antenas de 15 artejos; artejo 3 muy pequeño. Postclípeo más de la mitad de largo que de ancho.\nMedidas: longitud del cuerpo 3.50—4.00 mm; longitud de la cabeza (hasta el ápice del labro) 1.43—1.60 mm; longitud de la cabeza (hasta la sutura clipeofrontal) 0.75—0.88 mm; anchura de la cabeza 1.17—1.28 mm; anchura del pronoto 0.58—0.70 mm."
+  }
+ ],
+ "note": "Reescrito a partir de la descripción específica en inglés de Hill (1942); el original la da como Eutermes kershawi sp. nov., con el texto \"named in honour of Mr. James A. Kershaw\" y la localidad típica Forrest (WA), registrada también en New South Wales: Broken Hill. La línea del encabezado fue OCR como 'Eutermes hersliawi' y los pies de figura como 'Kerehawi'/'kershawi'; la especie se identifica por la declaración de denominación y la localidad. El alado figura como 'Not known' en el original, por lo que no se incluye esa sección. Errores de OCR: '4.Q0'='4.00', '1-60'='1.60', '13-segme.nted'='13-segmented', 'pro-notum' partido en líneas."
+}

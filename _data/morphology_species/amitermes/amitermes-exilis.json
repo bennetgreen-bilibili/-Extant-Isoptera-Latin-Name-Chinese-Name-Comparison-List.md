@@ -1,0 +1,25 @@
+{
+ "zh_name": "纤细弓白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "以很长的上颚、细弱而近直的上颚，以及位于各上颚基部附近的短钝齿与所有其他种相区别；哈特迈耶弓白蚁（A. hartmeyeri）的上颚亦长而仅微弯，但其齿较大、较尖、指向前方，并位于上颚中部。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "原文未记载（Not known）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头与上颚基部赭橙色；上唇稍淡；上颚铁锈色。头宽卵形，中部最宽。上唇长大于宽，收窄至相当尖的圆锥状端部，遮盖住上颚齿；后唇基明显二叶状。上颚很长而细，至近端部几乎直，端部微弯，基部附近具一小钝齿，齿的后缘直，与头轴成直角。触角 15 节；第 3 节最小。量度：全长 5.25 mm，头长（含上颚）2.44 mm，头长（至额唇基缝）1.13 mm，头长（至上唇端）1.62 mm，上颚长（自外关节起）1.22 mm，头宽 1.14 mm，前胸背板长 0.37 mm、宽 0.74 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Hamitermes (Hamitermes) exilis Hill（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 英文种级描述改写；原文只描述兵蚁，有翅成虫记为 Not known，工蚁仅列为形态型而未作描述。标题行 OCR 作「Hamitermes (Hamitermes) exit is Hill」、异名行作「Hamitermes eatlts Hill」，均系 exilis 之误认，据命名人 Hill 1935、模式产地 Western Australia: Mullewa 确认为本种；「Pig.」为 Fig. 之误；「ocnraceous」为 ochraceous 之误；全长作「5,25」按 5.25 录。分布与生物学未译入形态节。"
+}

@@ -1,0 +1,17 @@
+{
+ "zh_name": "贾穆瘤突白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "原文 Winged adult 记作「Not known」，仅有脱翅成虫（dealated adult）描述：大型种，多毛，部分毛明显长。头、胸及腹部背板乌褐（argus brown）；足、触角及腹部腹板鼠李褐（buckthorn brown）；唇基赭黄褐。头（图 299）背面观近球形。额凹。囟线状。复眼中等大、突出。单眼大、宽卵形，内缘明显隆起，距复眼略小于其短径。触角长，15 节；第 3 节很长，比第 1 节短不了多少；第 2 节很小；第 4、5 节长而窄，比第 3 节短且窄，其余各节长。上颚端齿远长于并远隔于次一齿。后唇基小，长为其宽之半（0.25 × 0.50）。前胸背板很大，明显宽大于长，强烈拱起，前方明显凹，两侧斜向宽圆的后缘。中、后胸背板后缘窄而深凹缺。量度（mm，脱翅成虫）：去翅体长 6.15；头长（至上唇端）1.32；头长（至额唇基缝）0.74；头宽 1.22；复眼最大直径 0.33；单眼长 0.17；触角长 2.28；前胸背板长 0.77；前胸背板宽 1.19。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Mirotermes (Mirotermes) jarmuranus Hill（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原组合为 Mirotermes jarmuranus Hill, 1929（标题行 OCR 作 Mirozermes (Mirot ernes)），今置于 Ekphysotermes。分布：西澳 Broome 东南 130 英里（清单记 208 km SE Broome）。仅知模式标本（正模脱翅雌虫，墨尔本国家博物馆）。原文提出本种可能与仅知兵蚁的 M. broomensis 为同种。量度均为脱翅成虫，单位 mm；原文对 Winged adult 明确记「Not known」，故不另立有翅成虫量度。"
+}

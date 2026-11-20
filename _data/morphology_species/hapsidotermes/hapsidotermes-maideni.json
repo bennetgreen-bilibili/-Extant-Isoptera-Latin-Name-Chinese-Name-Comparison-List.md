@@ -1,0 +1,25 @@
+{
+ "zh_name": "梅登络白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "澳洲最大的种。头、上唇与瘤的形状同其最近缘的哈里斯络白蚁（H. harrisi）；上颚很长且相对粗壮；触角 14 节，第 2 节短于第 3 节，第 3 节稍长于第 4 节，其余各节较哈里斯络白蚁更长更宽，接近 M. broomensis（原书组合）。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "原文未记载（Not known）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "澳洲最大的种（见鉴别要点）。Mjöberg 的原描述与图未示侧瘤，但自斯德哥尔摩博物馆借得的副模及作者自藏的另一标本均具侧瘤。量度：全长 8.00 mm（Mjöberg），头长（含上颚）5.00 mm（Mjöberg），头长（不含上颚）2.50 mm（Mjöberg），头长（至额瘤端）2.09 mm，头宽 1.50 mm（Mjöberg 作 1.67 mm），前胸背板长 0.44 mm（Mjöberg 作 0.38 mm）、宽 0.91 mm（Mjöberg 作 0.93 mm）。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Mirotermes (Mirotermes) maideni Mjöberg（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 英文种级描述改写；原文只描述兵蚁，有翅成虫记为 Not known。量度中括号内为 Mjöberg (1920) 原值，其余为 Hill 实测值。OCR 问题：属名作「-M joberg」「M , bro omens is..」，即 Mjöberg、M. broomensis。模式产地 Queensland: Cooktown 与清单一致。分布与生物学未译入形态节。"
+}

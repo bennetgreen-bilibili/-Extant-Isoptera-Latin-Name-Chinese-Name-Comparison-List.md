@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Very small species, head very dark brown, thorax and abdomen paler brown. Soldier head widest in the posterior 1/3, narrowing from there to the base of the nasus, the nasus short and stout; antennae 12 or 13-segmented, usually 13; mandibles without pointed teeth. It can be distinguished from E. mareebensis by the shape of the head and antennae and by the much darker thorax and abdomen; E. nichollsi is similarly coloured but has a slender nasus and long antennal segments; E. subaquilus is slightly larger, has a relatively more slender nasus, a paler head and abdomen and much darker antennae, and its worker is also larger than the worker of this species, with a much paler head, an uncoloured thorax and abdomen and much darker antennae. The alate is not recorded in the original."
+  },
+  {
+   "label": "Soldier",
+   "text": "Very small species, head very dark brown, thorax and abdomen paler brown. Base of the nasus darker than the vertex, the apex red, antennae yellowish brown, legs and abdominal sternites greyish brown, thoracic and abdominal tergites ochraceous brown (distinctly paler than the head and darker than the legs). Head sparsely hairy, widest in the posterior 1/3, narrowing from there to the base of the nasus, moderately deep, the dorsal margin convex in the middle in profile; nasus short and stout, less than 1/3 of the rest of the head. Antennae 12 or 13-segmented, usually 13; in the 12-segmented form segment 3 usually slightly shorter than segment 2, segment 4 much longer and wider than segment 2, segment 5 the shortest and narrowest of all; in the 13-segmented form segment 4 shortest, sometimes closely fused with the distinctly larger segment 5; the remaining segments long, segment 12 almost as long as segment 11, the apex obtusely rounded. Anterior lobe of the pronotum with a few large hairs, the posterior lobe with fewer and smaller hairs. Mandibles without pointed teeth.\nMeasurements: body length 2.58 mm; head length (to apex of nasus) 1.10—1.17 mm; head width 0.60—0.66 mm; pronotum width 0.40—0.44 mm."
+  },
+  {
+   "label": "Worker",
+   "text": "Dorsum of the head dark brown, the sides white tinged with brown, the sutures very distinct; postclypeus pale yellowish brown; labrum yellow; thorax, legs and abdomen as in the soldier. Antennae 14-segmented; segment 3 distinctly shorter than segments 2 and 4. Postclypeus more than half as long as wide.\nMeasurements: body length 2.75—3.00 mm; head length (to apex of labrum) 1.24—1.29 mm; head length (to clypeofrontal suture) 0.58—0.62 mm; head width 0.96 mm; pronotum width 0.47—0.50 mm."
+  }
+ ],
+ "note": "Adapted from the species-level description in Hill (1942), originally in English; the original reads Eutermes curtus sp. nov., type locality Mareeba (Qld), described from a few soldiers and workers. The alate is recorded in the original as \"Not known\", so no section is given for it. The soldier total length is OCR'd in the original as \"Total length 2.58 -\" (upper limit missing), so only 2.58 mm is recorded; the nasus proportion is damaged in the OCR as \"a little mO^Q-, ?qpT third\", read from the context as \"less than 1/3 of the rest of the head\"; the lead should check this sentence against the original book. OCR misreadings: \"stemites\"=\"sternites\", \"Pigs.\"=\"Figs.\", \"m the former\"=\"in the former\", \"&h\"=\"5th\", \"13-seffn«ited\"=\"13-segmented\", \"bead\"=\"head\", \"niehollsi\"=\"nichollsi\", \"subuouttus\"=\"subaquilus\"."
+}

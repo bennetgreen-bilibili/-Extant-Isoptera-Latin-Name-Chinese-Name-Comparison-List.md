@@ -1,0 +1,21 @@
+{
+ "zh_name": "凸木白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "小型、无毛、深褐色，前胸背板比头略深，前唇基带白色，上唇柠檬黄，翅浅褐色。复眼小（径 0.22 × 0.25）。单眼小，靠近复眼但不接触。触角 12—14 节。前胸背板（图 52）大，显著宽于头，拱起不明显，前缘强烈凹，两侧中部明显加宽，后缘宽而相当深地凹，边缘具印痕，仅有稀疏极短的毛。翅浅褐色，脉序多变异；前翅亚前缘脉约与翅在缝处的宽度等长；径脉约为亚前缘脉的两倍长；径分脉约 12 支；中脉大体与径分脉平行至翅端，距径分脉较距肘脉为近，或在翅中部之前或之后与径分脉相接；肘脉几乎与中脉平行，行经翅中部略上或略下，或在翅端之前与径分脉相接。胫距无锯齿。量度（mm）：连翅体长 8.00；去翅体长 4.40—5.75；头长（至上唇端）1.21；头长（至额唇基缝）0.80—0.91；头宽 0.95—1.00；前胸背板长 0.58—0.66；前胸背板宽 1.10—1.13；前翅长 6.75；前翅宽 1.90。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "原文标「Soldier (undescribed)」：塔斯马尼亚曾采到两种未鉴定的 Calotermes 兵蚁，目前无法判定其中是否有属于本种者，故无兵蚁形态描述与量度。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Calotermes (subgen. ?) convexus (Walker)（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原组合为 Termes convexus Walker, 1853，今置于 Kalotermes。量度单位 mm。分布：塔斯马尼亚。原文记 2 月 12 日自 Macquarie River 及 Hobart 的柴堆采到少数有翅成虫，推测是林中常见种。模式标本：有翅成虫正模存英国博物馆。分类疑点：Hagen (1858) 曾把西澳的 T. obscurus Walker 并入本种并描述了「兵蚁与工蚁」，Hill 指出二者非同种；Holmgren 认为 Froggatt 记作 C. convexus 的兵蚁与工蚁实为 Porotermes froggatti，Hill 认为 Hagen 所记兵蚁很可能即 P. froggatti。OCR 问题：属名多作 oonvexas／conveccus；「Calotermes {Cryptotermes ?) conveccus」花括号为圆括号误识；去翅体长原 OCR 作「4. l+O - 5.75」，按数字形态读作 4.40—5.75；「la.hrum」「Habrum」为 labrum 之误识。"
+}

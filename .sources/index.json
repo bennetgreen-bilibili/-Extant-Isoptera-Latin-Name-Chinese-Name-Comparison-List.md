@@ -3,7 +3,7 @@
     "version": 1,
     "count": 765,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-20T21:16:27+08:00",
+    "updated": "2026-11-21T00:28:45+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -9709,24 +9709,64 @@
       "reliability": "primary",
       "canonical_key": "url:https://nla.gov.au/nla.obj-911352544",
       "file_path": "_unpublished/文库/Termites-(Isoptera)-from-the-Australian-Region",
-      "chars": 9814,
+      "chars": 930951,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
-      "notes": "全文存于 _unpublished/文库/Termites-(Isoptera)-from-the-Australian-Region（9814 字符），抽取：text；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF。",
+      "accessed": "2026-11-21T00:28:45+08:00",
+      "notes": "全文存于 _unpublished/文库/Termites-(Isoptera)-from-the-Australian-Region（930951 字符），抽取：text；文本由原书 DOCX/PDF 抽取或 OCR 而来，不是原书：拉丁学名、性别词尾、图注可能损坏，正式引用前须核对纸本或原书 PDF。",
       "library": {
         "book": "Termites-(Isoptera)-from-the-Australian-Region",
         "manifest": "_unpublished/文库/manifest.json",
-        "generated": "2026-11-20T02:57:53",
+        "generated": "2026-11-21T00:15:32",
         "chunks": [
           {
-            "chunk": "full",
-            "txt": "_unpublished/文库/Termites-(Isoptera)-from-the-Australian-Region/full.txt",
-            "chars": 9814,
-            "paragraphs": 154,
+            "chunk": "part-001",
+            "txt": "_unpublished/文库/Termites-(Isoptera)-from-the-Australian-Region/part-001.txt",
+            "chars": 199983,
+            "paragraphs": 4447,
             "table_rows": 0,
-            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\lit\\hill1942\\hill1942_transcription.txt",
-            "sha256": "c90404391114b03c575b2ad2881e80a1508d9ad8b8800d7e093677b084dc9bd1",
-            "bytes": 9814
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\hill1942_ocr.txt",
+            "sha256": "cb83336a0734cc5a4d8c391e4aca272a3bcd977a380b9fc8bf8f896f818f357a",
+            "bytes": 200511
+          },
+          {
+            "chunk": "part-002",
+            "txt": "_unpublished/文库/Termites-(Isoptera)-from-the-Australian-Region/part-002.txt",
+            "chars": 200000,
+            "paragraphs": 4188,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\hill1942_ocr.txt",
+            "sha256": "f90bb325477934761f14cd81af7f74ff7fa886bfec7a8efe61968f64539b12b4",
+            "bytes": 200231
+          },
+          {
+            "chunk": "part-003",
+            "txt": "_unpublished/文库/Termites-(Isoptera)-from-the-Australian-Region/part-003.txt",
+            "chars": 200000,
+            "paragraphs": 4281,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\hill1942_ocr.txt",
+            "sha256": "40cbb76d1506faa3ad49d6d151d3e10bb6831eda66ad498ae41c2a5d90d58b7d",
+            "bytes": 200215
+          },
+          {
+            "chunk": "part-004",
+            "txt": "_unpublished/文库/Termites-(Isoptera)-from-the-Australian-Region/part-004.txt",
+            "chars": 199986,
+            "paragraphs": 4259,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\hill1942_ocr.txt",
+            "sha256": "8948665d60e3fcf948e315444d2815177336cfcd223dfbeeb9393fcdadafd0ad",
+            "bytes": 200200
+          },
+          {
+            "chunk": "part-005",
+            "txt": "_unpublished/文库/Termites-(Isoptera)-from-the-Australian-Region/part-005.txt",
+            "chars": 130982,
+            "paragraphs": 3163,
+            "table_rows": 0,
+            "source_file": "C:\\Users\\32304\\Documents\\GitHub\\-Extant-Isoptera-Latin-Name-Chinese-Name-Comparison-List.md\\_tmp\\hill1942_ocr.txt",
+            "sha256": "422267816a3e3b1d1f416f622952f24af44b6e9159a4f649fecbbe2561bcb218",
+            "bytes": 131338
           }
         ]
       },
@@ -9737,6 +9777,90 @@
       "lang": "en",
       "url": "https://nla.gov.au/nla.obj-911352544",
       "used_in": [
+        "_data/morphology_genera/incolitermes.json",
+        "_data/morphology_species/ahamitermes/ahamitermes-hillii.json",
+        "_data/morphology_species/amitermes/amitermes-capito.json",
+        "_data/morphology_species/amitermes/amitermes-colonus.json",
+        "_data/morphology_species/amitermes/amitermes-dentosus.json",
+        "_data/morphology_species/amitermes/amitermes-exilis.json",
+        "_data/morphology_species/amitermes/amitermes-hartmeyeri.json",
+        "_data/morphology_species/amitermes/amitermes-heterognathus.json",
+        "_data/morphology_species/amitermes/amitermes-modicus.json",
+        "_data/morphology_species/amitermes/amitermes-obeuntis.json",
+        "_data/morphology_species/amitermes/amitermes-pavidus.json",
+        "_data/morphology_species/amitermes/amitermes-perarmatus.json",
+        "_data/morphology_species/amitermes/amitermes-perelegans.json",
+        "_data/morphology_species/amitermes/amitermes-ravus.json",
+        "_data/morphology_species/amitermes/amitermes-vitiosus.json",
+        "_data/morphology_species/amitermes/amitermes-xylophagus.json",
+        "_data/morphology_species/australitermes/australitermes-insignitus.json",
+        "_data/morphology_species/australitermes/australitermes-perlevis.json",
+        "_data/morphology_species/bifiditermes/bifiditermes-improbus.json",
+        "_data/morphology_species/coptotermes/coptotermes-dreghorni.json",
+        "_data/morphology_species/cryptotermes/cryptotermes-gearyi.json",
+        "_data/morphology_species/cryptotermes/cryptotermes-queenslandis.json",
+        "_data/morphology_species/drepanotermes/drepanotermes-clarki.json",
+        "_data/morphology_species/ekphysotermes/ekphysotermes-jarmuranus.json",
+        "_data/morphology_species/ekphysotermes/ekphysotermes-kalgoorliensis.json",
+        "_data/morphology_species/ekphysotermes/ekphysotermes-pelatus.json",
+        "_data/morphology_species/ekphysotermes/ekphysotermes-percomis.json",
+        "_data/morphology_species/glyptotermes/glyptotermes-brevicornis.json",
+        "_data/morphology_species/glyptotermes/glyptotermes-tuberculatus.json",
+        "_data/morphology_species/hapsidotermes/hapsidotermes-harrisi.json",
+        "_data/morphology_species/hapsidotermes/hapsidotermes-maideni.json",
+        "_data/morphology_species/hapsidotermes/hapsidotermes-orbus.json",
+        "_data/morphology_species/hesperotermes/hesperotermes-infrequens.json",
+        "_data/morphology_species/heterotermes/heterotermes-ferox.json",
+        "_data/morphology_species/heterotermes/heterotermes-intermedius.json",
+        "_data/morphology_species/heterotermes/heterotermes-platycephalus.json",
+        "_data/morphology_species/incolitermes/incolitermes-pumilus.json",
+        "_data/morphology_species/invasitermes/invasitermes-insitivus.json",
+        "_data/morphology_species/kalotermes/kalotermes-banksiae.json",
+        "_data/morphology_species/kalotermes/kalotermes-convexus.json",
+        "_data/morphology_species/kalotermes/kalotermes-pallidinotum.json",
+        "_data/morphology_species/kalotermes/kalotermes-rufinotum.json",
+        "_data/morphology_species/lophotermes/lophotermes-quadratus.json",
+        "_data/morphology_species/lophotermes/lophotermes-septentrionalis.json",
+        "_data/morphology_species/macrognathotermes/macrognathotermes-broomensis.json",
+        "_data/morphology_species/macrognathotermes/macrognathotermes-sunteri.json",
+        "_data/morphology_species/microcerotermes/microcerotermes-boreus.json",
+        "_data/morphology_species/microcerotermes/microcerotermes-cavus.json",
+        "_data/morphology_species/microcerotermes/microcerotermes-distinctus.json",
+        "_data/morphology_species/microcerotermes/microcerotermes-implacidus.json",
+        "_data/morphology_species/microcerotermes/microcerotermes-leai.json",
+        "_data/morphology_species/nasutitermes/nasutitermes-carnarvonensis.json",
+        "_data/morphology_species/nasutitermes/nasutitermes-dixoni.json",
+        "_data/morphology_species/nasutitermes/nasutitermes-fumigatus.json",
+        "_data/morphology_species/nasutitermes/nasutitermes-projectus.json",
+        "_data/morphology_species/nasutitermes/nasutitermes-smithi.json",
+        "_data/morphology_species/nasutitermes/nasutitermes-torresi.json",
+        "_data/morphology_species/nasutitermes/nasutitermes-walkeri.json",
+        "_data/morphology_species/occasitermes/occasitermes-occasus.json",
+        "_data/morphology_species/occultitermes/occultitermes-occultus.json",
+        "_data/morphology_species/paracapritermes/paracapritermes-kraepelinii.json",
+        "_data/morphology_species/paracapritermes/paracapritermes-primus.json",
+        "_data/morphology_species/porotermes/porotermes-adamsoni.json",
+        "_data/morphology_species/schedorhinotermes/schedorhinotermes-actuosus.json",
+        "_data/morphology_species/schedorhinotermes/schedorhinotermes-derosus.json",
+        "_data/morphology_species/schedorhinotermes/schedorhinotermes-intermedius.json",
+        "_data/morphology_species/schedorhinotermes/schedorhinotermes-reticulatus.json",
+        "_data/morphology_species/stolotermes/stolotermes-brunneicornis.json",
+        "_data/morphology_species/tumulitermes/tumulitermes-apiocephalus.json",
+        "_data/morphology_species/tumulitermes/tumulitermes-comatus.json",
+        "_data/morphology_species/tumulitermes/tumulitermes-curtus.json",
+        "_data/morphology_species/tumulitermes/tumulitermes-dalbiensis.json",
+        "_data/morphology_species/tumulitermes/tumulitermes-hastilis.json",
+        "_data/morphology_species/tumulitermes/tumulitermes-kershawi.json",
+        "_data/morphology_species/tumulitermes/tumulitermes-marcidus.json",
+        "_data/morphology_species/tumulitermes/tumulitermes-mareebensis.json",
+        "_data/morphology_species/tumulitermes/tumulitermes-nichollsi.json",
+        "_data/morphology_species/tumulitermes/tumulitermes-peracutus.json",
+        "_data/morphology_species/tumulitermes/tumulitermes-petilus.json",
+        "_data/morphology_species/tumulitermes/tumulitermes-pulleinei.json",
+        "_data/morphology_species/tumulitermes/tumulitermes-recalvus.json",
+        "_data/morphology_species/tumulitermes/tumulitermes-subaquilus.json",
+        "_data/morphology_species/tumulitermes/tumulitermes-tumuli.json",
+        "_data/morphology_species/tumulitermes/tumulitermes-westraliensis.json",
         "_tools/fauna/morphology/descriptions/14-hill1942.json"
       ],
       "evidence": [
@@ -9764,6 +9888,556 @@
           "quote": "Species of the subgenus Ahamitermes live exclusively in the nests of Coptotermes.",
           "locator": "p. 309",
           "note": "支撑：全部种类栖于 Coptotermes 巢内"
+        },
+        {
+          "quote": "Sukgenus AHAMITERMES Mjokerg\n1920 Mjokerg, Arkiv for Zoologi, vol. 12, no. 15, p. 89\n(gen. ).\n1929 Nicholls, J. Roy. Soc. W. Aust. , vol. 15, p. 20 (gen.)\nWinged adult: Small, dark coloured. Head wide kehind,\nnarrowed anteriorly; antennae of 15 segments, 3rd segment\nshortest of all; mandihles with apical tooth distinctly\nlarger than, and widely separated from 2nd tooth (Fig. 277);\napical segment of maxillary palpi markedly inflated; fore\ntikiae with 2 or 3, mid and hind tikiae with 2 apical spurs.",
+          "locator": "p. 361（亚属 Ahamitermes 定义，OCR 原文）",
+          "note": "支撑：子民白蚁属（原 Ahamitermes 亚属）有翅成虫鉴别特征"
+        },
+        {
+          "quote": "Soldier: Very small. Head distinctly longer than wide,\nshallow, usually markedly narrowed anteriorly, and slightly\nconstricted on the sides, sometimes only slightly narrowed\nanteriorly and the sides slightly widened; mandibles short,\nstout, scythe-shaped, not concave externally at the base,\nteeth vestigial or wanting; postclypeus large; antennae\nof 13 segments; 3rd segment shortest of all; pronotum\nvery short, about half as long as wide, a little narrower\nthan head, anterior margin slightly elevated; tibial spurs\nas in winged adult.",
+          "locator": "p. 362（亚属 Ahamitermes 定义，OCR 原文）",
+          "note": "支撑：子民白蚁属兵蚁特征"
+        },
+        {
+          "quote": "Winged adult\nSmall, nearly black, with sooty wings; antennae\nabdomen and legs a little paler than head and pronotum;\nclypeus auburn; apex of tibiae and tarsi pale. Head\n(Fig. 101) small, glabrous, moderately hairy, hemispherical\nbehind the eyes. Frons flattened. Fontanelle small,\nvery indistinct. Eyes rather small. Ocelli very small,\nwidely separated from the eyes. Postclypeus more than\nhalf as long as wide (0.33 x 0.51). Antennae of 15 seg\n\n\nments; Ist segment nearly twice as long as wide; 2nd\nalmost cylindrical, half as long and much narrower than\nIst; 3rd half as long as 2nd, smallest of all; 4th a s\nlong as 2nd and a little wider. Pronotum moderately\nhairy, short and wide, the anterior margin markedly\nelevated, the anterolateral corners narrow. Posterior\nmargin of meso- and metanotum strongly emarginate.\nMeasurements. - Length with wings 9.30 - 10. 30; length\nwithout wings 5.50 - 6.50; head, to apex of lahrum,\nlong 1.28 - 1.35,* head, to clypeofrontal suture, long\n0.62 - 0.69; head, wide 1.08 - 1.15; eyes, max. diameter\n0.29 - 0.33; ocelli, long 0.10; pronotum, long 0.47 -",
+          "locator": "条目 Eutermes apiocephalus Silvestri（Hill 1942）",
+          "note": "支撑：蜂头冢白蚁（Tumulitermes apiocephalus）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 9078-9100。"
+        },
+        {
+          "quote": "Winged adult\nNot known.\nSoldier\nA small species with almost hairless head and abdomen.\nHead orange rufous, rostrum darkest, antennae orange yellow.\nPosterior two—thirds of head (in dorsal aspect) spherical;\nrostrum very long, a little more than two-thirds as long as\nremainder of head, rather wide at hase evenly tapered to\nthe acutely pointed apex (Fig. 189). Dorsal surface of\nhead in profile almost straight, or with rostrum slightly\nhent up (Fig. 190). Antennae of 13 segments; Ist segment\nlong and slender; 2nd about half as long as Ist and much\nnarrower, cylindrical; 3rd about as long as, but narrower\nthan 2nd; 4th much shorter than 3rd and sth; 6th - 9th of\nabout equal length, longer than sth; 10th - 12th equal in\nlength, shorter than 13th; 13th about as long as 3rd,\ndistinctly shorter than 12th. Mandibles usually with a\npoint.\nFig. 189 - Eutermes comatus: Head of soldier.\nFig. 190 - Eutermes comatus : Head of soldier (in profile).\n\n\nMeasurements. - Total length 3.00 - 3.75; head, to apex of\nrostrum, long 1.32 - 1.52; head, wide 0.66 - 0.80; pro-\nnotum, wide 0.38 - 0.44.\nWorker",
+          "locator": "条目 Eutermes comatus sp. nov.（Hill 1942）",
+          "note": "支撑：长毛冢白蚁（Tumulitermes comatus）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 12283-12308。"
+        },
+        {
+          "quote": "Winged adult\nNot known.\nSoldier\nA very small species with very dark brown head and\nlighter brown thorax and abdomen. Proximal part of rostrum\ndarker than vertex, apex reddish, antennae yellowish brown,\nlegs and stemites of abdomen greyish brown, thorax and\ntergites of abdomen umber (distinctly paler than head and\ndarker than legs). Head with few hairs, widest at the\nposterior third, thence narrowed to the base of the rostrum,\nmoderately deep, the dorsal margin convex in the middle in\n\n\nprofile; rostrum short and stout, a little mO^Q-, ?qpT\nthird as long as the remainder of head (Pigs. 191 and. 192).\nAntennae of 12 or 13 segments, usually 13; m the former\nthe 3rd segment usually is a little shorter\nthan 2nd and the 4th much longer and wider than the 2nd,\n&h is shortest and narrowest of all; .in 13-seffn«ited\nantennae the 4th is shortest, and sometimes is closely fused\nwith the much larger sth segment; the remaining segments\nlong, the 12th nearly as long as 11th, bluntly rounded at\nthe apex. Pronotum with a few large hairs on anterior lohe,",
+          "locator": "条目 Eutermes curtus sp. nov.（Hill 1942）",
+          "note": "支撑：缩短冢白蚁（Tumulitermes curtus）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 12335-12357。"
+        },
+        {
+          "quote": "Winged adult\nNot known.\nSoldier\nA rather small species, with dark orange head, and\nantennae of 13 or 14 long segments. Very closely allied\nto E. bastille, from which it differs as follows:- It is\nlarger, head a shade darker and more constricted, and, in\ndorsal aspect more concave about the middle, rostrum long,\nmuch stouter and hent upwards (Figs. 193 and 194). Antennae\nusually of 14 segments; the proximal segments variable;\nusually with Ist segment long, subcylindrical; 2nd a little\nshorter than 4th, subcylindrical; 3rd shorter than 2nd and\n4th; sth a little shorter than 4th; 6th - 13th long and\nnarrow, 14th shorter than 13th. The 3rd and 4th segments\nof one or both antennae often are more or less closely fused,\nor together form one segment almost as long as the Ist (in\nthe latter case forming an antenna of 13 segments). Man-\ndibles usually with a point.\nMeasurements. - Total length 4.25 - 4.60; head, to apex of\nrostrum, long 1.45; head, wide 0.74 - 0.80; pronotum,\nwide 0.55.\nWorker\nas in E. hastills , excepting that the antennae are",
+          "locator": "条目 Eutermee dalbiensis sp. nov.（Hill 1942）",
+          "note": "支撑：多尔比冢白蚁（Tumulitermes dalbiensis）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 12396-12418。"
+        },
+        {
+          "quote": "Winged adult\nA medium sized, very dark brown species with wing\nmembrane hyaline or faintly tinged with brown, and head and\npronotum densely clothed with short hairs. Head, thorax\nand tergites of abdomen dark brown, legs, antennae and under\nparts paler, postclypeus yellowish brown to dark brown,\nusually distinctly paler than head. Head (Fig. 123) broad-\nly oval. Eyes moderately large and prominent. Ocelli\nbroadly oval, about\"\"their long diameter from the eyes.\nFontanelle smaller than ocelli, forked anteriorly. Post-\nclypeus more than half as long as wide. First and second\nteeth of mandibles of about the same length. Antennae of\n16 or 17 segments, usually 17 (15 or 16 in a few examples\nfrom Northam, W.A. ); 3rd segment very short and narrow,\nrarely longer than 2nd; 4th and 6th subequal; sth smaller\nthan 4th and 6th. Pronotum very little narrower than head,\nanterior aid posterior margins slightly sinuate, the sides\nrather markedly narrowed. Posterior margin of me so- and\nmetanotum widely and rather deeply notched, sometimes with\na slight projection at the apex of the notch. Wings",
+          "locator": "条目 Eutermes hastilis Froggatt（Hill 1942）",
+          "note": "支撑：甘蔗冢白蚁（Tumulitermes hastilis）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 10049-10068。"
+        },
+        {
+          "quote": "Winged adult\nNot known.\nSoldier\nA very small species, closely allied to E. petilus ,\nfrom the small form of which it differs as follows:-\nlarger, head more constricted, rostrum a little stouter,\nhead and rostrum uniform reddish orange, antennae much\n\n\ndarker and with much longer segments (Figs. 200 and 201).\nAntennae of 12, or rarely 13 segments; in the former the\n2nd segment is shortest of all, very little shorter than\n3rd; 4th - 11th longer than 3rd, slender, 4th sometimes\nwith slight indication of subdivision (in 13-segme.nted\nantennae this subdivision is clearly defined, the 4th seg-\nment becoming the shortest and narrowest of all). Mandibles\nwith or without points.\nMeasurements. - Total length 2.80 - 3.00; head, to apex of\nrostrum, long 1. 30 - 1.35; head, wide 0.55 - 0.59; pro-\nnotum, wide 0.35 - 0.40.\nWorker\nVery similar to E . petilus. The antennae have 15\nsegments; 3rd segment very small. Postclypeus more than\nhalf as long as wide.\nMeasurements. - Total length 3.50 - 4.Q0; head, to apex of\nlabrum, long 1.43 - 1-60; head, to clypeofrontal suture,",
+          "locator": "条目 Eutermes hersliawi sp. nov.（Hill 1942）",
+          "note": "支撑：克肖冢白蚁（Tumulitermes kershawi）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 12554-12579。"
+        },
+        {
+          "quote": "Queen\nA medium sized, very dark brown (almost black) species.\nVery closely allied to E. hastilis , from which it differs,\ninter alia , in being darker (particularly the postclypeus,\nantennae and lab rum ) and having a shorter postclypeus and\ndifferently segmented antennae. Antennae (mutilated) with\n2nd and 3rd segments of about equal length; 4th distinctly\nshorter than 2nd and 3rd, shortest of all. Postclypeus\napproximately half as long as wide.\nMeasurements. - Total length 14.00; width of abdomen 3.00;\nhead, to apex of labrum, long 1.46; head, to clypeofrontal\nsuture, long 0.88; head, wide 1.24; eyes, max. diameter\n0.33; ocelli, long 0.10; pronotum, long 0.62; pronotum,\nwide 1.06.\nSoldier\nOf medium size. Head, excepting a paler wide band\nacross anterior one-third and the posterior margin, light\nmahogany red, rostrum mahogany red, antennae light orange.\nHead, thorax and abdomen with very scanty, short hairs.\nPosterior half of head hemispherical, narrowed and con-\nstricted anteriorly; rostrum long, about three-fourths\nthe length of head capsule, rather narrow, somewhat variable",
+          "locator": "条目 Eutermes marcidus sp. nov.（Hill 1942）",
+          "note": "支撑：凋零冢白蚁（Tumulitermes marcidus）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 12599-12620。"
+        },
+        {
+          "quote": "Winged adult\nA very small, moderately hairy, mummy brown species,\nwith small eyes and large oceuli. Tergites of abdomen\nvery little paler than head and thorax. Postclypeus yellow-\nish brown, about half as long as wide. Antennae of 14 seg-\nments; 3rd segment markedly shorter and narrower than 2nd,\nsmallest of all; 14th longer than 13th. First tooth on\neach mandible longer than second tooth. Pronotum (Pig. 137)\na little narrower than head, slightly arcuate anteriorly,\nanterolateral corners narrow, sides sloping sharply to the\nslightly sinuate posterior margin; posterior margin of\nmesonotum widely and rather deeply concave; posterior mar-\ngin of metanotum with rather deep and narrow emargination.\nWings slender, the radial sector and the six or seven\nproximal branches of the cubitus very distinct.\nMeasurements. - Length with wings 7. 50 - 8. 50; length with-\nout wings 4.10 - 4.90; head, to apex of labrum, long 0.91;\nhead, to clypeofrontal suture, long 0.44 - 0.47; head, wide\n0.69 - 0.73; eyes, max. diameter 0.20; ocelli, long 0,09 -\n0.10; pronotum, long 0.34; pronotum, wide 0.60 - 0.62;",
+          "locator": "条目 Eutermes mareebensie Hill（Hill 1942）",
+          "note": "支撑：马里巴冢白蚁（Tumulitermes mareebensis）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 10598-10617。"
+        },
+        {
+          "quote": "Winged adult\nNot known.\n\n\nFig. 204 - Eutermes nichollsi: Head of soldier.\nFig. 205 - Eutermes nichollsi: Head of soldier\n(in profile).\nSoldier\nA small species, with dark brown head, lighter brown\nthorax and abdomen, and antennae of 13 segments. Very\nclosely allied to E. mareebensis, from which it differs as\nfollows:- Head (Figs. 204 and 205) a little larger, less\nconstricted, the dorsal surface concave in profile, rostrum\n(very slender) narrower and with the apical half paler in\ncolour than the basal half, antennae with longer and paler\nsegments, thorax and tergites of abdomen darker. The Ist\nsegment of the antennae is long and slender; 2nd about\nhalf as long as Ist; 3rd as long as Ist, markedly narrowed\nat the base; 4th a little shorter than 2nd, shortest of\nall; sth shorter than 6th; 6th -12th long and narrow;\n13th shorter than 12th. Mandibles without a point. The\nrostrum is about three-fourths the length of the remainder\nof the head.\nMeasurements. - Total length 2.86 - 3.48; head, to apex\nof rostrum, long 1.39 - 1.46; head, wide 0.59 - 0.62;\npronotum, wide 0.36.\nWorker",
+          "locator": "条目 Eutermes niohollsi sp. nov.（Hill 1942）",
+          "note": "支撑：尼科尔斯冢白蚁（Tumulitermes nichollsi）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 12669-12695。"
+        },
+        {
+          "quote": "Winged adult\nNot known.\nSoldier\nLarge form: A medium sized species with long narrow, reddish\nhead, long rostrum and long jointed antennae, and darkly pig-\n.. C, 7308-/7\n\n\nmented thorax and abdomen. Head, thorax and abdomen with\nvery few\" rather long hairs, and many minute hairs. Posterior\npart of head chestnut, shading to very dark brown anteriorly;\nthe basal part of rostrum nearly black, apical part reddish;\nfirst segment of the antennae of the same colour as the\napical part of rostrum, the remaining segments dark brown;\nthorax and abdomen dark brown, femora somewhat paler. Head\n(Fig. 158) widest about the posterior third, then narrowed\nsharply to the base of the rostrum, where it is slightly\nconstricted; rostrum a little more than two-thirds the\nlength of the entire head; head in profile (Fig. 159)\nstrongly depressed about the middle of the capsule, thence\nnearly straight to the apex of the rostrum (in one series\nmany individuals have the rostrum curved downwards). Antennae\nusually of 14 segments (13 segments in a few individuals in",
+          "locator": "条目 Eutermes peraoutus Hill（Hill 1942）",
+          "note": "支撑：锐利冢白蚁（Tumulitermes peracutus）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 11310-11332。"
+        },
+        {
+          "quote": "Winged adult\nNot known.\nSoldier\nLarge form: Head dark reddish orange, apex of rostrum usually\ndark ferruginous, antennae, thorax and stemites of abdomen\nlight brown, antennae darkest, femora and tergites of abdomen\npaler than sternites, tibiae whitish. Posterior half of head\nhemispherical, without hairs, anterior part slightly con-\nstricted; rostrum long and slender, a little more than two-\nthirds the length of the entire head (Fig. 208), apex with\nmany short hairs; dorsal surface viewed in profile (Fig. 209)\nnearly straight, with a slight depression a little posterior\nto the middle. Antennae of 13 segments; 2nd about half as\nlong and one-third narrower than Ist, nearly cylindrical;\n3rd shorter than, or equal in length to 2nd, narrow at the\nbase; 4th shortest and narrowest of all; sth about as long\nas, but wider than 2nd; 6th -12th a little longer than sth;\n13th as long as 2nd. Thorax and abdomen with very few hairs.\nMandibles without points.\nSmall form: Generally similar to large form, but considerably\nsmaller, head much narrower and slightly more constricted.",
+          "locator": "条目 Futernes pGtilus sp. nov.（Hill 1942）",
+          "note": "支撑：修长冢白蚁（Tumulitermes petilus）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 12747-12767。"
+        },
+        {
+          "quote": "Winged adult\nNot known.\nSoldier\nLarge form: Similar to E. rmreidus sp. nov. , from which' it\ndiffers as follows:- head paler coloured (dark reddish\norange), rostrum shorter, antennae of 13 segments, 4th seg-\nment shortest of all, fused with sth. The rostrum is about\nthree-eighths the length of the entire head capsule (Pigs.\n163 and 164) •\nSmall form: Very small. Head dark reddish orange, with\nscanty long and short hairs on head and abdomen. Head\nrelatively long and narrow (Pigs. 165 and 166), broadly\nrounded behind, narrowed anteriorly, markedly constricted\nin the middle. Antennae of 12 segments; 2nd and 3rd seg-\nments of about equal length, 2nd cylindrical, 3rd narrowed\nat the base; 4th longer than 2nd or 3rd, fused with sth.\nThe rostrum is about two—thirds the length of the entire\nhead.\n\n\nMeasurements (of cotypes). -\nLarge form Small form\nTotal length 3.00 2.67\nHead, to apex of rostrum, long 1.54 1.17, 1.21\nHead, wide 0.84 0.49, 0.51\nPronotum, wide 0.51 0.34, 0.36\nThe following measurements are given hy Mjoberg:—\nLarge form Small form\nLength of body 3.00 2.80",
+          "locator": "条目 Eutermes pulleinei Mjoberg（Hill 1942）",
+          "note": "支撑：普雷勒冢白蚁（Tumulitermes pulleinei）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 11530-11558。"
+        },
+        {
+          "quote": "Winged adult\nNot known.\n\n\nFig. 214 - Eutermes recabvus: Head of large soldier.\nFig. 215 - Eutermes recalvus : Head of large soldier\n(in profile).\nFig. 216 - Eutermes recalvus: Head of small soldier.\nFig. 217 - Eutermes recalvus: Head of small soldier\n(in profile).\nSol dier\nLarge form: A moderately large species with head and basal\nsegment of antenna light reddish brown, remainder of antenna\number; thorax and abdomen darkly pigmented (umber), sternites\nof abdomen and femora somewhat paler; tibiae and tarsi\nwhitish. Head, thorax and abdomen clothed mainly with\nminute hairs; same longer hairs on the apical third of\nrostrum, and only a few somewhat longer hairs at the apex\nof rostrum and on the distal segments of the abdomen. Head\nviewed in dorsal aspect (Fig. 214) somewhat variable in\nshape; usually widest in the middle, slightly to rather\nmarkedly rounded on the sides and broadly rounded behind;\nsometimes widest at the anterior third and slightly narrow-\ned posteriorly; sometimes there is a suggestion of a con-\nstriction about the middle; rostrum moderately long and",
+          "locator": "条目 Eutermes recalvus sp. nov.（Hill 1942）",
+          "note": "支撑：无毛冢白蚁（Tumulitermes recalvus）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 12884-12908。"
+        },
+        {
+          "quote": "Winged adult\nNot known.\nSoldier\nA small dark brown species, with dark brown antennae,\nsides and basal half of rostrum darkest, apical half of\nrostrum dark ferruginous, thorax light brown, femora and\ntergites of abdcmen darker, tarsi and under parts whitish.\nHead (Figs. 221 and 222) small, with a few minute hairs,\nova l 9 n °\"k constricted, dorsal surface in profile slightly\nconvex near the middle; rostrum slender, a little more\nthan three-fifths the length of the remainder of head.\nAntennae of 13 segments; Ist segment one-third longer\nthan 2nd, both nearly cylindrical; 3rd as long as 2nd,\nwidened at apex; 4th shortest and narrowest of all; sth\nas long as 2nd; 6th little longer than sth; 7th- 13th of\nabout equal length. Thorax and abdomen with scanty, small\nhairs.\nMeasurements. - Total length 3.50; head, to apex of rostrum,\nlong 1.36; head, wide 0.66; pronotum, wide 0.37.\nWorker\nHead mainly brown, a little darker than abdomen of\nsoldier, median and transverse sutures very distinct, post-\nclypeus straw colour. Postclypeus a little more than half",
+          "locator": "条目 Eutermes subaquilus sp. nov.（Hill 1942）",
+          "note": "支撑：稍暗冢白蚁（Tumulitermes subaquilus）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 13072-13094。"
+        },
+        {
+          "quote": "Winged adult (hitherto undescribed)\nHead, pronotum and first segment of antennae very dark\nbrown, almost black; postclypeus, thorax, tergites of abdomen\nand legs (excepting the tarsi and apex of tibiae) a little\npaler; stemites of abdomen paler than tergites; wings dark\nsmoky. Head moderately large, flattened on the vertex, with\nscanty, snail hairs (Fig. 177). Eyes rather large and\nprominent. Ocelli small, prominent, widely separated from\nthe eyes. Fontanelle about as long as ocelli, narrowed\nposteriorly, widened anteriorly. Antennae of 15 segments;\n2nd segment half as long as, and much narrower than Ist,\nnearly cylindrical; 3rd-sth variable; 3rd shortest and\nnarrowest of all, and 4th a little shorter than sth, or 3rd\nlonger than 2nd and 4th, and sth shortest of all. Post-\nclypeus a little more than half as long as wide. Ist tooth\nof right mandible slightly longer and narrower than 2nd.\nIst tooth of left mandible slightly longer than, but about\nthe same width as 2nd. Pronotum with scanty, small hairs,\nanterior margin widely and shallowly concave, anterolateral",
+          "locator": "条目 Eutermes tumuli Froggatt.（Hill 1942）",
+          "note": "支撑：土垄冢白蚁（Tumulitermes tumuli）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 11994-12012。"
+        },
+        {
+          "quote": "Winged adult\nA small, very dark species, with dark \"brown wings.\nHead and thorax nearly \"black, Ist segment of antennae,\nabdomen and legs somewhat paler; postclypeus a little\npaler than legs. Head (Pig. 182) glabrous, with scanty,\nsmall hairs, hemispherical posterior to the eyes, frons\nflattened. Pont an el le small, usually not well defined,\nabout as long as ocelli, widened anteriorly. Eyes rather\nsmall and prominent. Ocelli small, prominent, widely\nseparated from the eyes. Postclypeus small, less than\nhalf as long as wide, strongly convex, glabrous. Antennae\nof 16 segments; 3rd segment short .and narrow, shortest of\nall; 4th wider and more globose than 3rd; sth longer and\nwider than 4th and 6th. Mandibles (Pig. 183) with second\ntooth about as large as first. Pronotum much narrower than\nhead, with scanty short, yellowish hairs, anterior margin\nnearly straight, anterolateral corners rounded, the sides\nnarrowed to the slightly sinuate posterior margin. Posterior\nmargin of me so- and metanotum widely and shallowly emarginate.\nMeasurements. - Length with wings 11.50 - 12.00; length",
+          "locator": "条目 Eutermes westraliens is Hill（Hill 1942）",
+          "note": "支撑：西澳冢白蚁（Tumulitermes westraliensis）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 12122-12141。"
+        },
+        {
+          "quote": "Winged adult\nUpper surface and wing veins dark ‘brown, under sur-\nface and wing membrane somewhat lighter, legs and lab rum\nbrownish yellow. Head small, nearly parallel on the sides,\nminutely shagreened, with scanty short hairs (Fig. 36).\nEyes small (0.33 diam. ), prominent. Ocelli very small,\ncontiguous with eyes. A conspicuous frons spot on either\nside of the head posterior to transverse suture and in line\nwith the ocelli and lateral margin of postclypeus. Antennae\nof 15 or 16 segments, usually 16; the 3rd often longer and\nwider than the 2nd, sometimes 2nd, 3rd and 4th of equal\nlength; 4th-l4th or 15th progressively longer and wider,\nthe last segment shorter and narrower than the penultimate\nsegment. Pronotum wider than head, wider than long, strong-\nly arched, anterior margin with wide and shallow concavity,\nsides slightly rounded, posterior margin broadly rounded,\nslightly concave in the middle, the margin impressed and\nfringed with moderately short hairs, few hairs elsewhere.\nWings moderately long and narrow, densely covered with scale-\nlike micrasters, especially on veins.",
+          "locator": "条目 Calotermes ( Cryptotermes) gearyi sp. nov.（Hill 1942）",
+          "note": "支撑：吉尔里堆砂白蚁（Cryptotermes gearyi）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 3733-3752。"
+        },
+        {
+          "quote": "Winged adult\nA small dark \"brown species. Head, thorax and abdomen\ndark \"brown, wing veins lighter brown, but darker than mem-\nbrane. Head small, longer than wide, widest behind the\neyes, narrowed anteriorly, minutely shagreened. Eyes small\n(0.25 x 0.29 diam. ) and prominent. Antennae of 14-16 seg-\nments (Pig. 34). Pronotum large, much wider than head,\nmarkedly arched, minutely shagreened, the border impressed,\nanterior margin broadly concave, the sides, posterolateral\nangles and posterior margin rounded, posterior margin slight-\nly notched medially, several deep impressions in the anterior\none-third beginning near the anterior margin midway between\nthe middle and lateral margins and extending posteriorly and\ndiagonally towards the midline. Stumps of forewing very\nlarge, almost completely covering those of hindwing. Wings\nshort, subcosta of forewing short, about as long as width of\nwing at suture; radius a little more than twice as long as\nsubcosta.\nMeasurements. - Length with wings 8.50; length without wings\n5.50; head, to apex of labrum, long 1.25: head, to clypeo-",
+          "locator": "条目 Galotermes (Cryptotermes) queenslandis Hill（Hill 1942）",
+          "note": "支撑：昆士兰堆砂白蚁（Cryptotermes queenslandis）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 3620-3639。"
+        },
+        {
+          "quote": "Winged adult\nA medium sized, very hairy species, with dark smoky\nwings. Head, thorax and tergites of abdomen dark brown,\npostclypeus lighter brown, labrum light orange yellow.\nPostclypeus half as long as wide (0.22 x 0.44). Fontanelle\nvariable, usually lanceolate, sometimes prolonged or\nobscurely forked anteriorly. Eyes rather large and\n\n\nprominent. Ocelli variable in size, with inner margin\nslightly elevated (Pig. 300). Mandibles (Pig. 30l) with\napical tooth not much larger than the second tooth.\nAntennae of 15 segments; 3rd segment very small; 4th\nlarger than 3rd; sth smaller than 4th but larger than 3rd.\nPronotum narrower than head, concave anteriorly, antero-\nlateral corners rounded, sides rounded to the wide and\nsinuate posterior margin. Posterior margin of meso- and\nmetanotum narrowed and deeply and- acutely notched. Radius\nvery short; media passing through the anterior third of\nwing, simple or branched; cubitus with 8-13 branches.\nMeasurements. - Length with wings 11.00; length without\nwings 5.25 - 5.50; head, to apex of labrum, long 0.91 -",
+          "locator": "条目 Mirotermes ( Mirotermes) kraepelini Silvestri（Hill 1942）",
+          "note": "支撑：克雷珀林旁扭白蚁（Paracapritermes kraepelinii）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 16661-16682。"
+        },
+        {
+          "quote": "Dealated adult\nA small, dark brown species, head and pronotum dark-\nest, postclypeus, antennae and tergites of abdomen somewhat\npaler, legs mainly clay colour, tibiae suffused with brown,\nunder parts light brown. Head (Fig. 325) small, very little\nnarrowed anteriorly, broadly rounded Dehind, rather flat on\nsummit, very hairy. Eyes prominent, 0.22 x 0.25 diam..\nOcelli small (0.09 long) widely separated from theeyes,\ninner margin slightly raised. Fontanelle cleft-like, extend-\ned anteriorly as an obscure secondary cleft. Mandibles (Fig.\n326) with first tooth larger than the second. Postclypeus\n0.18 long x 0.40 wide (at the base), anterior margin slightly\nconcave; anteclypeus nearly as long as postclypeus, markedly\nproduced anteriorly. Labrum small, narrow at the base,\nwidest in the middle, bluntly rounded at the ap-ex, not mark-\nedly inflated. Antennae of 15 segments; l3t segment long\nand narrow; 2nd about half as long as Ist and much narrower;\n3rd very short and narrow; ,4th longer than sth, as long as\n6th; 6th - 14th increasing in length progressively; 15th",
+          "locator": "条目 Mirotermes (Par aoapr itemes) primus sp. nov.（Hill 1942）",
+          "note": "支撑：第一旁扭白蚁（Paracapritermes primus）的形态描述与量度；逐字摘录自 OCR 全文分块，行号 17606-17628。"
+        },
+        {
+          "quote": "Measurements. - Total length 5.25; head,.with mandibles\ncrossed, long 2.22; head, to apex of labrum, long 1.66 - 1.70;\nhead, wide 1.25 - 1.32; pronotum, long 0.33 - 0.37; pronotum,\nwide 0.70.\nDistribution. - Western Australia: Mullewa (type locality),\nBolgart.\nFig. 228 - Hcmitermes capito: Head and pronotum\nof soldier.\nFig. 229 - Hamitermes capito: Head of soldier\n(in profile).\n\n\nBiology. - The type colony and another very small colony were\nfound damaging a railway sleeper and a stockyard post respec-\ntively. The only other known series comprises a soldier\nand a few workers which were taken with another species of\nucmi vermes in unrecorded circumstances.\nAffinities. - The soldier of this species is easily disting-\nuished from its congeners by its relatively long slender\nmandibles, small angular mandibular teeth and elevated vertex.",
+          "locator": "条目 Hamitermes (Hamitermes) capito Hill（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. - Total length 5.15 - 5.25; head, with man-\ndibles, long 2.20 - 2.34; head, to clypeofrontal suture,\nlong 1.17 - 1.28; head, to apex of lab rum, long 1.65 -\n1.72; head, wide 1.10 - 1.15; pronotum, long 0.34 - 0.38;\npronotum, wide 0.67 - 0.69.\nDistribution. - New South Wales: Griffith.\nBiology. - Described from four small series, comprising\nsoldiers, workers and nymphs (penultimate instar), from\nrecently turned plough furrows (1.11.38), in sandy loam\ngrazing land which had been cleared many years previously,\nbut still contained many tree roots. H. neogermanus ,\nH. rubriceps var. opacus , H. modicus and an undescribed\nspecies of Homitermes , as well as Heterotermes ferox,\nRhinotermes sp. , Eutermes reoalvus and Eutermes sp.\n(allied to E. pulleinei) , were found in these furrows.\nAffinities. - A very distinct species without close allies.",
+          "locator": "条目 Hamitermes (Hamitermes) colonus sp. nov.（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. - Length with wings 12.00; length without\nwings 5.75 - 6.60; head, to apex of labrum, long 1.51 - 1.55;\nhead, to clypeofrohtal suture, long 0.66 - 0.74; head, wide\n1.07 - 1.11; eyes, max. diameter 0.25; ocelli, long 0.12;\npronotum, long 0.55 - 0.59; pronotum, wide 0.91 - 1.07;\nforewing, long 10.70; forewing, wide 2.59 - 2.66.\n\n\nFig. 232 - Hamitermes dentosus : Head and pronotum\nof winged adult.\nFig. 233 - Hamitermes dentosus : Head and pronotum\nof soldier.\nSoldier\nHead ochraceous tawny, with a large pale area extending\nfrom the clypeofrontal suture nearly to the posterior margin,\nmandibles dark ferruginous, darkest at the tips. Head (Fig.\n233) short, wide and deep, longer than wide, widest across\nthe middle, slightly rounded on the sides, semicircular behind.\nMandibles short and stout, about one half as long as remainder",
+          "locator": "条目 Hamitermes (Hamitermes) dentosus Hill（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. - Total length 5,25; head, with mandibles,\nlong 2.44; head, to clypeofrontal suture, long 1.13; head,\nto apex of labrum, long 1.62; mandibles, from external\narticulation, long 1.22; head, wide 1.14; pronotum, long\n0.37; pronotum, wide 0.74.\nFig. 235 - Hamitermes exilis: Head and pronotum\nof soldier.\n\n\nDistribution. - Western Australia: near Mullewa.\nBiology. - Described from one soldier and several workers\nfoundunder a stone with soldiers and workers of H. rubriceps\nvar. opacus.\nAffinities. - Distinguished from all other species hy the\nvery long 7 slender and nearly straight mandibles, and the\nshort obtuse tooth situated near the base of eacn\nmandible. In H. hartmeyeri the mandibles are long and only\nslightly curved, but the teeth are larger, more pointed,\ndirected anteriorly and are situated in the middle of the\nmandibles.",
+          "locator": "条目 Hamitermes (Hamitermes) exilis Hill（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. - Total length 3-50 - 3-75; head, with man-\ndibles crossed at teeth, long 1.46; head, to clypeofrontal\nsuture, long 1.10; head, wide (0.9 l) 1.10; pronotum, long\n0.29; pronotum, wide 0.64.\nDistribution. - Western Australia: Day Dawn (type locality),\nMullewa.\nAffinities. - H. hartmeyeri is evidently easily distinguished\nfran H. perarmatue and H. heterognathus , its nearest allies\n(see Pigs. 257 and 241).\nMaterial examined. - One series comprising two soldiers and\nseveral workers.\nTypes. - No information is available regarding the type\nmaterial of this or any other Australian termites described\nby Silvestri.\nHamitermes (Hamiternes) herbertensis Mjdberg\n(Figs. 239 and 240)\n1920 Hamitermes herbertensis Mjoberg, Arkiv for Zoologi,\nvol. 12, no. 15, p. 78, text-figs. 39a\n(description of winged adult, soldier and worker;\nbiology; from Queensland).\nWinged adult",
+          "locator": "条目 Hamitermes (Hamitermes) hartmeyeri (Silvestri)（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Winged adult\nNot known.\n\n\nSoldier\nThis species is unknown to me. The following descrip-\ntion and figure (Pig. 241) are from Silvestri’s paper:-\n\"Miles. Stramineus capite furrugineo-ochraceo,\nmacula cremea obtriangulari longa, a vertice ad frontis partem\nanticam extensa, ornato, mandibulis fulvo-furrugineis,\nabdomine cibi contenti causa cinereo. Caput (fig. 157) l/6\nlongius quam latius partem anticam et partem posticam versus\nparum angustius, setis sat numerosis instructum. Antennae\n15 articulatae, articulo tertio quam quartus subtiliore et\nbreviore. Labrum breve, subtriangulare, apice parum rotundato\nMandibulae (fig. 157) quam capitis longitudo fere duplo\nbreviores sat bene arcuatae et acutae, dente magno triangulari\nantrorsum parum vergente armatae.\nPronotum parte antica sursum bene vergente, margine\nlate rotundato, medio vix inciso, setis parum numerosis\ninstrue turn.",
+          "locator": "条目 Hamitermes (Hamitermes) heterognathus Silvestri（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. - Total length 4.25 - 4.60; head, with man-\ndibles, long 1.68 - 1.83; head, to clypeofrontal suture,\nlong 1.06-1.13; head, to apex of lab rum, long 1.50 -\nI. head, wide 0.99 - 1.06; pronotum, long 0.29 - 0.31;\npronotum, wide 0.64 - 0.73.\n\n\nDistribution. - New South Wales: G-riffith (type locality);\nSouth Australia: 22 miles north of Hawker.\nBiology. - Described from five series comprising soldiers,\nworkers and nymphs, as follows:- (i) G-riffith: from\nRhinotermes-Inf ested log; (ii) from a stump in which was\ntaken also Coptotermes aoinaoiformis , Eutermes fwmigatus\nand Microcerotermes sp.; (iii) from large earth-filled\nstump in which was found also all castes of Coptotermes\nfrenohi ; (iv) taken with H. neogermanus from recently\nturned plough furrow in land containing many decaying tree\nroots; (v) near Hawker; under a stone.",
+          "locator": "条目 Hamitermes (Hamitermes) modicus sp. nov.（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. - Length with wings 14.75 - 15.25; length\nwithout wings 6.50 - 7.00; head, to apex of labrum, long\n1.28 - 1.32; head, to clypeofrontal suture, long 0.55 -\n0.69; head, wide 1.17 - 1.19; eyes, max. diameter 0.29 -\n0.31; ocelli, long 0.17; pronotum, long 0.55; pronotum,\nwide 1.02 - 1.06; forewing, long 12.50 - 12.75; forewing,\nwide 3.65 - 3.90.\nSoldier\nA medium sized species with a short, deep head, and\nrelatively short, stout mandibles (Pig. 252). Labrum rather\nlarge, parallel or the sides, and broadly rounded at the apex.\nMandibular teeth well developed, barb-like, about midway\nbetween the base and apex of the mandibles. Antennae of 14\nor 15 segments; 3rd or 4th segment shortest of all.\nMeasurements. - Total length 5.00 - 5-50; head, with man-\ndibles extended, long 2.12 - 2.14; head, with mandibles\ncrossed at teeth, long 1.90 - 2.09; head, to clypeofrontal",
+          "locator": "条目 Hamitermes (Hamitermes) obeuntis Silvestri（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. - Length with wings 10.50 - 11.00; length\nwithout wings 5.50 - 6.25; head, to apex of lab rum, long\n1.10 - 1.17; head, to clypeofrontal suture, long 0.56 -\n0.66; head, wide 1.00 - 1.08; eyes, max. diameter 0.29 -\n0.31; ocelli, long 0.14; pronotum, long 0.47 - 0.51;\npronotum, wide 0.84 - 0.88; forewing, long 8.50; fore-\nwing, wide 2.20.\nSoldier\nVery closely allied to H. laurensis , from which it\ndiffers, inter alia, in having antennae of 13 segments. The\n2nd segment of the antennae is very little longer and wider\nthan 3rd; 4th distinctly longer than 2nd (Pig. 272).\nMeasurements. - Total length 4.50 - 5.00;. head, with man-\ndibles crossed at teeth, long 1.87; head, to clypeofrontal\nsuture, long 1.21 - 1.32; head, to apex of labrum, long\n1.65 - 1.75; head, wide 1.13 - 1.17; pronotum, long 0.36;\npronotum, wide 0.73.\nBiology. - Described from four series from the Townsville",
+          "locator": "条目 Hamitermes (Hamitermes) pavidus sp. nov.（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. - Total length (mandibles crossed at. teeth)\n4. 50 -4.& 5; head, with mandibles as abo-ve, long 1.54 -1.6 l;\nhead, to clvpeofrontal suture, long 0.99 - 1.02; head, wide\n0.91 - 1.10; pronotum, long 0.25 - 0.27; pronotum, wide 0.50.\nDistribution. - Western Australia: \"ialgoo (type locality),\nMorowa, Beverley.\nTypes. - See H. hartmeyeri .\nHamitermes ( Hamitermes ) perelegans Hill\n(Pigs. 258-260)\n1935 Hamitermes perelegans Hill, Coun. Sci. Ind. Res. (Aust.),\nPamph. no. 52, p. 25, figs. 27-31 (description of\nwinged adult, soldier and worker; biology; from\nNorthern Territory).",
+          "locator": "条目 Hamitermes (Hamitermes) perarmatus (Silvestri)（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. - Length with wings 10.00; length without\nwings 5.00; head, to apex of labrum, long 1.06 - 1.17;\nhead, to clypeofrontal suture, long 0.55 - 0.62; head,\nwide 1.00 - 1.07; eyes, max. diameter 0.33; ocelli, long\n0.12 - 0.13; pronotum, long 0.47 - 0.51; pronotum, wide\n0.80 - 0.91; forewing, long 8.25; forewing, wide 2.40.\nSoldier\nA small species with buff coloured head, basal half\nof mandibles light ferruginous, and apical half of mandibles\ndark ferruginous. Head (Fig. 260) short, wide and deep,\nnearly parallel or moderately rounded on the sides. Man-\ndibles short, stout, markedly curved, wide at base, with a\nshort, rather blunt, backwardly directed tooth about the\nmiddle. Antennae of 14 segments; 3rd segment longer than\n4th; sth longer than 3rd, or, rarely, 4th and sth subequal.\n\n\nMeasurements. - Total length 4.50; head, with mandibles",
+          "locator": "条目 Hamitermes (Hamitermes) perelegans Hill（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. - Total length 4.00 - 5.50; head, with man-\ndibles, long 1.98 - 2.49; head, to clypeofrontal suture,\nlong 1.02 - 1.39; head, to apex of labrum, long 1.1+4 -\n1.90; head, wide 1.04 - 1.39; pronotum, long 0.33 - 0.42;\npronotum, wide 0.62 - 0.84.\nThe above are measurements of the smallest and\nlargest examples in the type colony. The majority of\nspecimens in this, and in three other colonies, are a\nlittle under the maximum size.\nDistribution. - Queensland: Rollingstone (type locality),\nChinbi (50 miles south-west of Hughenden.), Homestead,\nTorrens Creek.\n\n\nFig. 273 - Hamitermes ravus: Head of soldier.\nBiology. - Described from four series of soldiers and work-\ners, as follows:- (i) Rollingstone: a rather large colony\nin a stump the greater part of which had keen covered ky the\ntermites with a sheathing of clayey matter; Heterotermes",
+          "locator": "条目 Hamitermes (Hamitermes) ravus sp. nov.（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. -\nType Roper River, Homestead, Q.\ncolony N.T. (one example)\nLength with wings 12.75-14.00 14.00-15.50 12.25\nLength without wings 6.60- 8.00 7.25- 8.25 7.60\nHead, to apex of lab rum,\nlong 1.50- 1.70 1.43- 1.56 1.46\nHead, to clypeofrontal\nsuture, long 0.73- 0.84 0.88 0.82\nHead, wide 1.34 I*4o I*37 1*43 1.21\nEyes, max. diameter 0.33 0.30- 0.33 0.31\nOcelli, long 0.11- 0.14 0.11- 0.14 0.14\nPronotum, long 0.66- 0.73 0.69- 0.73 0.64\nPronotum, wide 1.23- 1.36 1.24- 1.35 1.02\nPorewing, long 10.75-11.25 11.50-12.00 10.00\nPorewing, wide 3.00- 3.30 3.25- 3.50 2.50\nFig. 262 - Hamitermes vitiosus: Head and pronotum of\nwinged adult.\nFig. 263 - Hamitermes vitiosus: Head of soldier.\n\n\nSoldier\nA variable species, with dark orange head. Head\n(Fig. 263) slightly rounded on the sides, broadly rounded\nposteriorly. Mandibles typically moderately short and",
+          "locator": "条目 Hamitermes (Hamitermes) vitiosus Hill（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. - Length with wings 13.25; length without\nwings 7.25 - 7.40; head, to apex of labrum, long 1.48;\nhead, to clypeofrontal suture, long 0.74; head, wide 1.14;\neyes, max. diameter 0.29; ocelli, long 0.12; pronotum,\nlong 0.55 - 0.59; pronotum, wide 1.03; forewing, long\n11.25 - 12.00; forewing, wide 3.10 - 3.20.\n\n\nFig. 266 - Hamitermes xylophagus: Head, and thorax of\nwinged adult.\nFig. 267 - Hamitermes xylophagus: Head of soldier.\nFig. 268 - Hamitermes xylophagus : Head of soldier\n(in profile).\nSoldier\nHead ochraceous huff, mandibles ferruginous, antennae\nand legs straw colour. Head rather deep, broadly rounded\nbehind, slightly constricted on the sides. Labrum longer\nthan wide, broadly rounded in front. Mandibles a little\nlonger than half the length of the head capsule, slender,\nwith an obtusely pointed, backwardly directed tooth at the",
+          "locator": "条目 Hamitermes (Hamitermes) xylophagus Hill（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "very stout and broad. Measurements: Length of body with\nW^ n ? S length of body without wings 7.15 mm, length\nof head 1.17 mm, breadth of head 1.06 mm, length‘of pro-\n■cnorax 0.63 mm, breadth of prothorax 0.89 mm, length of\nforewing 9 mm, breadth of forewing 2.5 mm, length of hind-\nwing 8.5 mm, breadth of hindwing 2.8 mm, breadth of\nabdomen 1.4 mm.\" (Fig, 294).\nFi g . 294 - Mirotermes harrisi: Pronotum of winged adult.\nFig. 295 - Mirotermes harrisi: Head and pronotum of\nsoldier.\nFig. 296 - Mirotermes harrisi: Head of soldier (in\nprofile).\n\n\nSoldier\nDiffers from M. broomensis as follows:- head (Figs.\n295 and 296) longer in proportion to width; labrum a\nlittle longer and with lateral points somewhat more\ndeveloped; mandibles shorter, but of about the same thick-\nness; median tubercle narrower at the base, and more\npointed at the apex; lateral tubercles closer together",
+          "locator": "条目 Mirotermes (Mirotermes) harrisi Mjöberg（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. - Total length 8.00 (Mjoberg); head, with\nmandibles, long 5.00 (Mjoberg); head, without mandibles,\nlong 2.50 (Mjoberg); head, to apex of frontal tubercle,\nlong 2.09; head, wide 1.50 (1.67 Mjoberg); pronotum, long\n0.44 (0.38 Mjoberg); pronotum, wide 0.91 (0.93 Mjoberg).\nDistribution. - Queensland: Cooktown.\nBiology. - Mjoberg’s series was taken under a log, where it\nhad formed earthy galleries.\nAffinities. - See M. broomensis (p. 379) and M. qucudratus\n(p. 402).\nTypes. - In Natural History Museum, Stockholm.\nFig. 303 - Mirotermes maideni : Head and pronotum\nof s oldier.",
+          "locator": "条目 Mirotermes (Mirotermes) maideni Mjöberg（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. - Length with wings 10.00; length without\nwings 5.00 -5.25; head, to apex of labrum, long 1.00 -\n1.17; head, to clypeofrontal suture, long 0.62 - 0.65;\nhead, wide 0.91 - 0.99; eyes, max. diameter 0.25; ocelli,\nlong 0.10; pronotum, long 0.58; pronotum, wide 0.82 -\n0.88; forewing, long 8.40 - 8.60; forewing, wide 2.16 -\n2.20.\nFig. 309 - Mirotermes orbus: Head and pronotum\nof winged adult.\nSoldier\nVery closely allied to M. septentrional is, from which\nit differs mainly in having a small, narrow labrum, with\nfeebly developed anterolateral corners. The antennae have\n14 segments.\nMeasurements. - Head, to apex of frontal tubercle, long 1.90;\nhead, wide 1.24; pronotum, long 0.33; pronotum, wide 0.84.\nDistribution. - Northern Territory: Stapleton (type local-\nity), Marrakai.\nC.TSOB-26.\n\n\nBiology. - Known from two alates, one soldier and two",
+          "locator": "条目 Mirotermes (Mirotermes) orbus Hill（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. - Length with wings 13.50 - 14.50; length\nwithout wings 6.80 - 7-50; head, to apex of labrum, long\n\n\n1.39 - 1.50; head, to clypeofrontal suture, long 0.77 -\n0.84; head, wide 1.43; eyes, max. diameter 0.40; ocelli,\nlong 0.12; pronotum, long 0.95; pronotum, wide 1.*54 -\n1.57; forewing, long 10.00; forewing, wide 3.00.\nSoldier\nVery closely allied to M. broomensis f from which it\ndiffers as follows:- head (Fig. 311) relatively shorter\nand wider; mandibles shorter, but of about the same thick-\nness; frontal tubercle a little narrower at the base,\ndistinctly more pointed at the apex and more horizontal;\nantennae (l 4 segments), with 2nd, 3rd and 4th segments of\nabout equal length; the remaining segments distinctly\nshorter and more slender. The labrum usually has less\ndeveloped anterolateral corners, but sometimes is of the\nsame form as in M. broomensis.",
+          "locator": "条目 Mirotermes (Mirotermes) quadratus Hill（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. - Total length* 7.00; head, with mandibles,\n3.96; head, to apex of frontal tubercle, long 1.72\n1.83; head, wide 1.24- - 1.36; pronotum, long 0.42 - 0.44;\npronotum, wide 0.84.\nDistribution. - Northern Territory: Darwin (type locality),\nStapleton, Brock’s Creek.\nBiology. - Three of the four known series were taken from\nthe walls of abandoned nests of other kinds of termites.",
+          "locator": "条目 Mirotermes (Mirotermes) septentrionalis Hill（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Two imagos with the general label ’ improbus Hagen + Van Diem.\nSchayer’. The asterisk denotes that Hagen determined the\nspecimen. (i) Labelled on pin 2742. (This refers to a\ncatalogue I did not see). Only head and pronotum remain;\nthe rest eaten by pests. L. of pronotum: 1.19 mm., diam.\nof eye: .45, distance of ocelli from eye: .11, W. of head\n1.58. (ii) Labelled on pin 4052. Austral. Daewel (spelling ?).\nW. of head: 1.68, diam. of eye: .50, from ocelli (almost in\ncontact), L. of pronotum 1,13. Seems with little doubt to be\na distinct species from (i), which is the holotype.”\nDistribution. - Taanania.\nType. - Holotype in Berlin Museum.\nCalotermes (subgen. ?) obsourus (Walker)\n(Pigs. 53 and 54)\n\\",
+          "locator": "条目 Calotermes (subgen. ?) improbus Hagen（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements.•- Length with wings 7.50; length without\nwings 4.00; head, toxapex of labrum, long 0.86- 0.91;\nhead, to clypeofrontal suture, long 0.52; head, wide 0.76;\neyes, max. diameter 0.18; ocelli, long 0.09; pronotum,\nlong 0.34 - 0.36; pronotum, wide 0.57 - 0.60.\nTotal length 7.50; width of abdomen 2.50.\nSoldier\nA very small species with sienna coloured head,\nvertical frons, and very small frontal tubercle. Hea,d\n(Pig. 297) widest anteriorly, dorsal surface markedly and\nirregularly concave when viewed in profile; frontal\ntubercle hardly projecting beyond the frons, slightly bent\nup, deeply pigmented. Ventral genae prolonged into a\nshort, stout point (resembling the frontal tubercle).\nLab rum large, with markedly extended anterior corners.\nGula wide anteriorly, narrow and keel-like posteriorly.\nAntennae of 14 segments, 2nd segment about half as long",
+          "locator": "条目 Mirotermes (Mirotermes) infrequens Hill（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. - Total length 3-70 - 4.10; head, to apex\nof rostrum, long 1.68 - 1.85; head, wide 0.91 - 0.98;\npronotum, wide 0.46 - 0.53*\nWorker\nHead mainly pale ochraceous. Antennae of 14 seg-\nments; 4th segment shortest of all. Postclypeus about\nhalf as long as wide.\n\n\nFig. 142 - Eutermes occasus: Head of soldier.\nFig. 143 - Eutermes occasus: Head of soldier\n(in profile).\nMeasurements.- Total length 4.25 - 4.75; head, to apex of\nlahrum, ldEg 1.32 - 1.35; head, to clype of rental suture,\nlong 0.73; head, wide 1.06 - 1.10; pronotum, wide 0.62.\nDistribution. -Western Australia: Collie # (type locality),\nWooroloo, Lion Mill, Guildford, Premantle (recorded by\nSilvestri), Armadale, Katanning, Bridgetown, Dwellingup,\nJarrahdale, Kebnscott, Myalup, Palgarup, Ghooli, Mundanng,\nNational Park.\nBiology. - The habits of this very abundant species are.",
+          "locator": "条目 Eutermes occasus Silvestri（Hill 1942）",
+          "note": "支撑：有翅成虫、兵蚁、工蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Measurements. - Length with wings 13.00 (Hagen); length with-\nout wings 8.00; head, to apex of labrum, long 1.65 - 1.76;\nhead, to clypeofrontal suture, long 1.17 - 1.24; head, wide\n1.50 - 1.61; eyes, max. diameter 0.33 - 0.36; pronotum, long\n0.62 - 0.73; pronotum, wide 1.10 - 1.24; forewing, long\n10.40; forewing, wide 3*30.\nSoldier\nHead cadmium yellow, a little darker anteriorly; labrum\nantennae and palpi as in middle of head; base of mandibles\nas in fore part of head, apical third dark ferruginous; eyes\nmore or less pigmented; thorax and abdomen cream coloured.\nHead (Pig. 10) variable in shape, often nearly parallel sided,\nsometimes widened on the sides, or slightly widened or narrow-\ned anteriorly. Antennae of 15-17 segments; 3rd and sometimes\n4th segment very small and closely fused, 4th usually a little\nlonger than 3rd. Labrum large, widest at the base, Slightly",
+          "locator": "条目 Stolotermes brunneicornis (Hagen)（Hill 1942）",
+          "note": "支撑：鉴别要点、有翅成虫、兵蚁 的量度与形态表述"
+        },
+        {
+          "quote": "Eutermes carnarvonensis sp. nov.\n(Figs. 186-188)\nWinged adult\nA rather large brown species, with long brown wings\nwith yellowish anterior margin. Head dark chestnut brown;\npostclypeus, pronotum, wing stumps and lateral margins of\nabdominal tergites somewhat paler; mid-dorsum of abdomen\nyellowish brown, anterior half of meso- and metanotum and\nthe legs paler; tergites of abdomen pale buff. Head,\nthorax and abdomen only moderately hairy. Eyes large, with\nhyaline margin. Ocelli rather small. Fontanelle distinct.\nPostclypeus a little less than half as long as wide (Fig.\n186). Mandibles with the second tooth about as long as\nfirst, but a little wider. Antennae of 15 segments; 2nd\nand sth segments of equal length, shortest of all, or sth a\nlittle shorter than 2nd; 3rd very little longer than 4th,\nabout as long as 6th. Median vein usually with 6or 7\nshort, oblique branches towards the radius.\nM",
+          "locator": "条目 Eutermes carnarvonensis sp. nov.（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Eatermes dixoni Hill\n(Figs. 106-108)\n1932 Eutermes dixoni Hill, Proc. Roy. Soc. Viet., vol. hk,\npt. 2, p. 150, figs. 13-16 (description of winged*\nadult, soldier and worker; \"biology; from\nAustralian Capital Territory and Victoria).\nWinged adult\nA small, very dark \"brown species, intermediate in\nsize \"between E . famigatus and E. exitiosus (two species\nwith approximately the same geographical distribution as\nthe species under discussion). Head, antennae, pronotum\nand tergites of abdomen darkest, postclypeus yellowish,\nsuffused with brown, wings rather dark brown, usually with\na distinct hyaline area in the basal half of the wing\nbetween the media and cubitus, with very dark veins. Post-\nclypeus less than half as long as wide. Mandibles with\nthe first and second teeth of about equal size. Fontanelle\noften indistinct. Antennae of 15 segments; 3rd segment\nsmallest of all: 4th and 6th larger",
+          "locator": "条目 Eatermes dixoni Hill（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Eutermes fumigatus Brauer\n(Figs. 114-116)\n1865 Eutermes fumigatus Brauer. Verh. Zool.'Bot. Ges.\nWien, vol. 15, p. 977 (fide Desneux, 1904).\n1866 Eutermes fimigatus Brauer. Brauer, Reise der Novara\nZool. Theil, vol. 2, pt. 1, Neuroptera, p. 48\n(description of winged adult, soldier and worker:\nfrom New South Wales).\n1898 Eutermes fumigatus Brauer. Froggatt, Proc. Linn.\nSoc. N.S.W., vol. 22, pt. 4, p. 755, pi. 35, figs.\n5,5 a (description of winged adult, soldier and\nworker; biology; from New South Wales).\n1904 Termes ( Eutermes ) fumigatus Brauer. Desneux, Gen.\nInsectorum, fasc. 25, p. 42.\n1905 Eutermes fumigatus Brauer. Froggatt, Agric. Gaz.\nN.S.W., vol. 16, p. 763, 768.\n1912 Eutermes fumigatus Brauer. Holmgren, K. Svenska Vet. -\nAkad. Handl. , vol. 48, no. 4, p. 63.\n1915 Eutermes fumigatus Brauer. Froggatt, Dept. Agric.\nN.S.W. , Farmers’ Bull., no. 60 (2nd Ed.), p. 37,\n40.\n1920 Eutermes",
+          "locator": "条目 Eutermes fumigatus Brauer（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Eutermes projectus sp. nov.\n(Figs. 212 and 213)\nWinged adult\nNot known.\nSoldier\nA small species with long, narrow, chestnut brown\nhead, and deeply pigmented thorax and abdomen. Head palest\nposteriorly, with whitish median line extending to the\nmetanotum; rostrum with apical one-third or less dark\nferruginous; antennae a little paler than abdorren; legs\nlight yellowish brown. Head viewed from above (Fig. 212)\nsomewhat truncate posteriorly, rounded on the sides,\nslightly constricted about the middle, thence gradually\ntapered to the rather stout rostrum, clothed with scanty\nlong hairs (as on thorax and abdomen); dorsal surface of\nhead in profile (Fig. 213) feebly convex above the insertion\nof the antennae; rostrum long, about three-eighths as long\nas entire head, slightly elevated at the apex. Mandibles\nwith long points. Antennae long and slender, of 14 seg-\nments; 2nd segment usually short",
+          "locator": "条目 Eutermes projectus sp. nov.（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Entermes smithi sp. nov.\n(Figs. 218-220; plate 16, fig. 2)\nWinged adult\n. , closely allied to E . magnus, from which it differs\nouter alia, m having antennae with shorter and narrower seg-\nments. Antennae of 16 segments; 2nd segment shorter than\nor equal in iength to, 3rd; 3rd usually longer than 4th;\n4th shortest of all, elongate oval; sth longer and wider\nthan 4th and 6th; 6th-l6th about equal in length. Post-\nclypeus less than half as long as wide. Ocelli large\nbroadly oval. Eyes very large (Fig. 218). Median vein of\nforewing with several branches, the first rather near the\nbase, the main stem joining the margin at the apex of the\nwing; cubitus with 6 or 7 branches.\nMeasurements. - Length with wings 19.50 - 22.50; length with-\nout wings 10.00 - 12.00; head, to apex of labrum, long 1.98 -\n2.00; head, to clypeofrontal suture, long 1.00 - 1.13; head\nwide 1.83 - 1.94; eyes, max. diameter",
+          "locator": "条目 Entermes smithi sp. nov.（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Eutermes tor resi sp. nov.\n(Figs. 223-225)\nWinged adult\nA very large, dark brown species, with smoky wings\nmargined anteriorly with yellow; closely allied to E. triodiae ,\nfrom which it differs, inter alia, in being a little smaller,\nand in having the antennae darker in colour and with mainly\nshorter and less clavate segments. Head and pronotum (Fig.\n223) very hairy. Eyes very large and prominent. Postclypeus\na little less than half as long as wide. First and 2nd tooth\nof left mandible similar; 2nd tooth of right mandible a little\nshorter and wider than Ist. Antennae of 16 segments; 2nd -\n6th segments variable; usually 3rd distinctly longer than 2nd\nand 4th; 4th and 6th smallest of all; sth longer and wider\nthan 4th and 6th, or 2nd and 3rd of about equal length; 7th\nabout as long as sth, but narrower, shorter than Bth - 14th;\n\n\n15th a little longer than 14 th; 16th about as long as 14th,",
+          "locator": "条目 Eutermes tor resi sp. nov.（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Eutermes walkeri sp. nov.\n(Figs. 226 and 227)\nWinged adult\nClosely allied to E. graveolus , from which it differs\nin being a little larger and sometimes darker, and in having\ndistinctly longer wings. Postclypeus more than half as\nlong as wide.\nMeasurements. - Length with wings 16.00 - 20.00; length\nwithout wings 8.00 - 9.50; head, to apex of lahrum, long\n1.68 - 1.87; head, to clypeofrontal suture, long 1.06 -\n1.21; head, wide 1.50 - 1.60; eyes, max. diameter 0.57 -\n0.62; ocelli, long 0.15 - 0.18; pronotum, long 0.73 - 0.84;\npronotum, wide 1.37 - 1.46; forewing, long 14.50 - 17.50;\nforewing, wide 4.33 - 4.50.\nC. 7908 - 20\n\n\nSoldier\nSimilar to E . graveolus, from which it differs in\nbeing larger, and having the rostrum markedly longer (about\ntwo-fifths the length of entire head) and also wider at the\nbase (Figs. 226. and 227). It is very variable in size,\nthe smallest and largest often occ",
+          "locator": "条目 Eutermes walkeri sp. nov.（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Heterotermes ferox (Froggatt)\n(Figs. 3, 65 and 66)\n1898 Termes ferox Froggatt, Proc. Linn. Soc. N.S.W., vol.\n22, pt. 4, p. 724, pi. 34, figs. 1, la, Lb\n(description of winged adult, soldier and worker;\nbiology; from New South Wales).\n1904 Termes (Leuootermes) ferox Froggatt. Desneux, Gen.\nInsectorum, fasc. 25, p. 33.\n1905 Termes ferox Froggatt. Froggatt, Agric. Gaz. N.S.W.\nvol. 16, p. 754*\n1909 Psalidotermes ferox Froggatt. Silvestri, Fauna\nSiidwest Australiens, vol. 2, no. 17, p. 297, pi.\n19, figs. 122-132.\n1913 Leuootermes ferox (Froggatt). Holmgren, K. Svenska\nVet. - Akad. Handl. , vol. 50, no. 2, p. 60.\n1915 Termes ferox Froggatt. Froggatt, Dept. Agric.\nN.S.W., Farmers’ Bull., no. 60 (2nd Ed.), p. 28.\n1920 Leuootermes ferox (Froggatt). Mjoberg,.Arkiv for\nZoologi, vol. 12, no. 15, p. 29.\n1927 Leuootermes oooiduus Hill, Mem. Nat. Mus., Melbourne,\nno. 7, p. 50, pi. 2, figs. 46-48, pi. 5",
+          "locator": "条目 Heterotermes ferox (Froggatt)（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Heterotermes paradoxus intermedins Hil]\n(Fig. 69)\n1932 Heterotermes intermedins Hill, Proc. Roy. Soc. Viet. ,\nvol. 44, pt. 2, p. 144, figs. 9-12 (description of\nwinged adult, soldier and worker; from Western\nAustralia); nec Light, 1933, Univ. Calif. Publ.\nin Entom., vol. 5, p. 112.\nWinged adult\nDiffers from the typical form in having a smaller\nhead, eyes (0.18 - 0.20 diam. ) and pronotum, usually longer\nand darker wings, and the posterior margin of the mesonotum\nnarrower and more deeply notched. Ocelli present. The\nantennae have from 16-I8 segments.\nMeasurements. - Length with wings 10.00 - 10.50; length\nwithout wings 4.50 - 5.50; head, to clypeofrontal suture,\nlong 0.73 - 0.79; head, wide 0.80 - 0.85; pronotum, long\n0.44 - 0.48; pronotum, wide 0.69; forewing, long 8.00 -\n8.75; forewing, wide 2.00 - 2.16.\nSoldier\nAs in typical form, excepting that the gula is\ninvariably 0.18 wide and the",
+          "locator": "条目 Heterotermes paradoxus intermedins Hill（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Heterotermes platycephalus Froggatt\nfFigs. 72-74)\n1896 Heterotermes platycephalus Froggatt, Proc. Linn.\nSoc. N.S.W., vol. 21, pt. 4, p. 551, pi. 35,\nfig. 10, pi. 36, fig. 4 (description of winged\nadult; from South Australia).\n1904 ? Termes ( Leucotermes) platycephalus Froggatt.\nDesneux, Gen. Insectorum, fasc. 25, p. 32, 33-\n1905 Heterotermes platycephalus Froggatt. Froggatt,\nAgric. Gaz. N.S.W., vol. 16, p. 656.\n1911 Leucotermes platycephalus (Froggatt). Holmgren,\nK. Svenska Vet. - Akad. Handl. , vol. 46, no. 6,\np. 69.\n1915 Heterotermes platycephalus Froggatt. Froggatt,\nDept. Agric. N.S.W., Farmers' Bull., no. 60\n(2nd Ed.), p. 27.\n1920 Leucotermes platycephalus (Froggatt). Mjoberg,\nArkiv for Zoologi, vol. 12, no. 15, p. 124.\n1922 Leucotermes clarhi Hill, Bull. Entom. Res. , vol.\n12, pt. 4, p. 395 (soldier only).\n1927 Leucotermes clarhi Hill. Hill, Mem. Nat. Mus. ,\nMelbourne, no. 7, p. 45",
+          "locator": "条目 Heterotermes platycephalus Froggatt（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Rhinotermes (Schedorhinotermes) intermedins actuosus Hill\n(Fig. 94; plate 3, fig- 2)\n1915 Rhinotermes reticulatus Hill. Hill, Proc. Linn.\nSoc. N.S.W. , vol. 40, pt. 1, p. 109 (biology;_\nfrom Northern Territory); nec Froggatt, 1896,\nProc. Linn. Soc. N.S.W., vol. 21, pt. 4, p. 540.\n1933 Rhinotermes intermedins actuosus Hill, Proc. Roy.\nSoc. Viet., vol. 45, pt. 1, p. 7, pl« 2, fig. 5,\npi. 3, fig. 6 (description of winged adult and\nsoldiers; biology; from Northern Territory).\nWinged adult\nSimilar to the typical form and to R • seclusus hut\nsmaller, the radius and radial sector paler, wing membrane\nfaintly tinged with yellow, and the eyes usually smaller.\nMeasurements. - Length with wings 12.50 - 14.00; length\nwithout wings 7.00 - 8.00; head, to apex of labrum, long\n1.6 l - 1.77; head, to clypeofrontal suture, long 1.14 -\n1.35; head, wide 1.50 - 1.66; eyes, max. diameter 0.40 -\n0.48; ocelli,",
+          "locator": "条目 Rhinotermes (Schedorhinotermes) intermedins actuosus Hill（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Bhinotermes ( Schedorhinotermes ) intermedins derosns Hill\n1933 Bhinotermes intermedins derosns Hill, Proc. Roy. Soc.\nViet., vol. 40, pt. 1, p. 8, pi. 3, figs. 7, 8\n(description of winged adult and soldiers; from\nWestern Australia).\nWinged adult\nSimilar to B. actnosus but smaller.\nMeasurements. - Length with wings 12.00 - 12.50; length\nwithout wings 6.75 - 7.00; head, to apex of labrum, long\n1.54; head, to clypeofrontal suture, long 1.06 - 1.18;\nhead, wide 1.38 - 1.46; eyes, max. diameter C. 40; ocelli,\nlong 0.16 - 0.18; pronotum, long 0.69 - 0.72; pronotum,\nwide 1.17 - 1.25; forewing, long 8.50; forewing, wide 2.67.\nSoldier\nLarge form: Similar to B. aotnosns. The head is wider\nposteriorly, the gula usually is wider, most of the seg-\nments of the antennae are a little longer, and the 3rd seg-\nment is markedly longer.\nSmall form: Larger than B. actnosus f segments of the\nantennae longer,",
+          "locator": "条目 Bhinotermes (Schedorhinotermes) intermedins derosns Hill（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Rhinotermes (Schedorhinotermes) intermedins intermedins Brauer\n(Figs. 92 and 93)\n1865 Rhinotermes intermedins Brauer, Verh. Zool. Bot. Ges.\nWien, vol. 15, p. 977 (fide Desneux, 1904) (descrip-\ntion of winged adult; from New South Wales).\n1866 Rhinotermes intermedins Brauer. Brauer, Reise der\nNovara, Zool. Theil, vol. 2, Neuroptera, p. 49\n(description of winged adult; from New South Wales).\n1896 Rhinotermes intermedins Brauer. Froggatt, Proc. Linn.\nSoc. N.S.W., vol. 21, pt. 4, p. 542 (biology).\n1904 Rhinotermes intermedins Brauer. Desneux Gen.\nInsectorum, fasc. 25, p. 28.\n1905 Rhinotermes intermedins Brauer. Frossatt Asric\nGaz. N.S.W. , vol. 16, p. 654.\n1909 Bchedorhinotermes intermedins (Brauer). Silvestri\nFauna Siidwest Australiens, vol. 2, no. 17, p. 290,\npi. 18, figs. 71-87 (figures of winged adult,\nsoldiers and worker).\n\n\n1911 Rhinotermes ( Sohedorhinotermes ) intermedins (Brauer)\nHo",
+          "locator": "条目 Rhinotermes (Schedorhinotermes) intermedins intermedins Brauer（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Rhinotermes ( Schedorhinotermes ) retioulatus Froggatt\n(Figs. 98-100)\n1898 Rhinotermes retioulatus Froggatt, Proc. Linn. Soc.\nN.S.W. . vol. 21, pt. 4, p. 540, pi. 36, figs.\n3 a-c (description of winged adult, soldiers and\nworker; from Western Australia).\n1904 Rhinotermes retioulatus Froggatt. Desneux, G-en.\nInsectorum, fasc. 25, p. 28.\n1905 Rhinotermes retioulatus Froggatt. ’Froggatt, Agric.\nGaz. N.S.W., vol. 16, p. 654.\n1909 Sohedorhinotermes retioulatus (Froggatt). Silvestri,\nFauna Siidwest Australiens, vol. 2, no. 17, p. 291,\npi. 18, figs. 88-93 (description of minor soldier\nand worker).\n1913 Rhinotermes ( Sohedorhinotermes) retioulatus (Froggatt)\nHolmgren, K. Svenska Vet.- Akad. Handl., vol. 46,\nno. 6, p. 79.\n1915 Rhinotermes retioulatus Froggatt. Froggatt, Dept.\nAgric. N.S.W., Fanners' Bull., no. 60 (2nd Ed.),\np. 24.\n1920 Rhinotermes hetioulatus Froggatt. Mjoberg, Arkiv\nfor Zoologi,",
+          "locator": "条目 Rhinotermes (Schedorhinotermes) retioulatus Froggatt（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Mirotermes ( Mirotermes ) insignitus sp. nov.\n(Figs. 316 and 317)\nWinged adult\nA medium sized yellowish brown, hairy species with\nlight anoky wings, long antennae and very large eyes and\nocelli. Head (Fig. 316) posterior to the eyes very short\nand broadly rounded, narrowed anteriorly, flat between the\nocelli. Postclypeus strongly inflated, a little longer\nthan half its width; anteclypeus large, markedly produced\nin the middle. Eyes and ocelli very prominent; the\nlatter broadly oval, one-fifth longer than wide. Mandibles\nas in Fig. 317. Fontanelle small, linear. - Antennae of\n15 or 16 segments; Ist segment very large, twice as long\nas 2nd; 3rd and 4th subequal, as long as 2nd, closely\nfused, or 2nd and sth shortest of all; 3rd a little longer\nthan 4th; sth about as long as, or shorter than and\n4th; 6th and following segments long, the last segment\ncylindrical, with broadly rounded apex. P",
+          "locator": "条目 Mirotermes (Mirotermes) insignitus sp. nov.（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Eutermes perlevis sp. nov.\n(Figs. 206 and 207)\nWinged adult and worker\nNot known.\nSoldier\n4. medium sized species with \"broadly rounded head and\nvery slender rostrum, similar to the small form of E • oocultus\nhut much larger. Head light orange, posterior part and\npronotum somewhat paler, rostrum reddish orange. Head with\nvery few hairs, wide, markedly rounded on the sides, dorsal\nsurface slightly convex in profile; rostrum about three-\nfifths the length of the remainder of the head, very slender,\nthe anterior three-fourths almost cylindrical (Figs. 206 and\n207). Antennae short, of 12 segments; 2nd segment about\nhalf as long and much narrower than Ist, shortest and narrow-\nest of all; 3rd nearly as long as Ist, slender; 4th - 11th a\nlittle shorter than, and as wide as 3rd; 12th nearly as long\nas 11th, elongate oval. Mandibles without points.\nMeasurements. - Total length 4.00; head, to ape",
+          "locator": "条目 Eutermes perlevis sp. nov.（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Mirotermes ( Mirotermes) broomens is Mjoberg\n(Pig. 290)\n1920 Mirotermes broomensis Mjoberg, Arkiv for Zoologi, vol.\n12, no. 15, p. 99, pi. 2, fig. 3, text-fig. 50\n(description of soldier and worker; biology;\nfrom Western Australia).\nx The frontal process is rather weakly developed in M-\nodontomachus (from New Guinea); thus the fontanelle is\nnot so completely concealed as in the mainland species.\n\n\nWinged adult\nNot known.\nSoldier\nA large species with short, wide ana parallel sided\nhead (Pig. 290). Mandibles very long and slender. Labrum\nlong, parallel on the sides, anterolateral corners prolonged\ninto well developed points. Median tubercle thick at base,\nrather bluntly pointed; lateral tubercles well developed,\nlarger than in any other species excepting M. quadratus.\nAntennae with 14 segments; 3rd segment smallest of all;\n2nd and 4th about the same length, a little longer than 3rd;\nsth -",
+          "locator": "条目 Mirotermes (Mirotermes) broomens is Mjoberg（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Mirotermes ( Mirotermes) sunteri Kill\n(Figs. 313 and 314; plate 20, fig. l)\n1927 Mirotermes~sunteri Hill, Mem. Nat. Mus. , Melbourne,\nno. 7, p. 106, pi. 4, figs. 133-138 + , pi. 6, fig.\n210, pi. 9, fig. 211, pi. 7, figs. 223, 224\n(description of winged adult, soldier and worker;\nbiology; from Northern Territory).\nWinged adult\nMarkedly smaller than M. quadratus and larger than M.\nmelvillensis. Head, pronotum, anterior one-third of meso-\nand metanotum and proximal abdominal tergites dark chestnut,\nthe remaining tergites and pleura lighter brown; wings\nfuscous, as in if. oheeli. Head and pronotum very hairy.\nEyes with hyaline margin, not very prominent, variable in\nsize. Ocelli broadly oval, about their short diameter\ndistant from the eyes, the inner margin slightly elevated.\nFontanelle linear, narrow, longer than the ocelli. Post-\nclypeus about half as long as wide (0.22 x 0.44 - 0.24 x 0.",
+          "locator": "条目 Mirotermes (Mirotermes) sunteri Kill（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Coptotermes dreghorni sp. nov..\nWinged adult\nVery similar to C. Idcteus, from some examples of\nwhich it is doubtfully distinguishable. Usually the head\nis relatively narrower, the pronotum less narrowed\nposteriorly, the wings shorter and lighter in colour, and\nthe yellowish brown areas of the abdominal sternites more\nextensive than in the southern species. The antennae have\n18 or 19 segments; the 3rd segment usually is very short.\nThe ocelli are 0.11 long, and about half their length from\nthe eyes.\n\n\nMeasurements. - Length with wings 14.00; length without\nwings 6.25 - 6.80; head, to apex of lahrum, long 1.43 -\n1.50; head, to clypeofrontal suture, long 0.95 - 1.10;\nhead, wide 1.17 - 1.21; eyes, max. diameter 0.31 x 0.33 -\n0.33 x 0.36; pronotum, long 0.73; pronotum, wide 1.15 -\n1.19; forewing, long 9.50; forewing, wide 2.67.\nSoldier\nA large species, distinguishable from certain\nexamples of",
+          "locator": "条目 Coptotermes dreghorni sp. nov.（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Hamitermes (Ahamitermes) pumilus sp. nov.\n(Figs. 279 and 280)\nWinged adult\nNot known.\nNymphs in the penultimate stage of development have\npartly pigmented eyes, mandibles as in Fig. 279, wing\nrudiments about 0.66 long, and hemispherical pronotum\n(quite distinct in form from the pronotum of the correspond-\ning stage in H. nidioola and H. hi Hi). Tibial spurs\n2:2:2.\nSoldier\nMuch smaller and paler in colour than H. nidioola.\nPronotum and most of head pale yellow, vertex cream, man-\ndibles light ferruginous at the tips, shading to dull orange\nat the base. Head and thorax with scanty long, straight\nhairs; antennae and legs with more numerous long, curved\nhairs. Abdomen with rather scanty, short hairs. Head\n(Fig. 280) feebly arched, much longer than wide, widest\nabout the posterior third, slightly narrowed anteriorly.\nLabrum short, wide and strongly convex, very little wider\nthan long, slightl",
+          "locator": "条目 Hamitermes (Ahamitermes) pumilus sp. nov.（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "Eutermes occultus (Hill)\n(Pigs. 144-149)\n1927 Mlrotermes occultus Hill, Mem. Nat. Mus. , Melbourne,\nno. 7, p. 112, pl. 4, figs.' 147-149, pl. 6, fig.\n215 (description of winged adult; from Northern\nTerritory),\n\n\nFig. 144 - Eutermes occultus: Head and pronotum of\nwinged adult.\nFig. 145 - Eutermes occultus: Mandibles of winged adult.\nFig. 146 - Eutermes occultus: Head of large soldier.\nFig. 147 - Eutermes occultus: Head of large soldier\n(in profile).\nFig. 148 - Eutermes occultus: Head of small soldier.\nFig. 149 - Eutermes occultus : Head of small soldier\n(in profile).\nWinged adult\nThe smallest known Australian species; pale coloured.\nHead chestnut, postclypeus clay colour, lahrum light orange\nyellow, thorax and abdomen a little paler than head, under\nsurface, legs and wings ochraceous-tawny. Head moderately\nhairy, hairs short. Fontanelle usually long and narrow\nobscurely forked anteriorly.",
+          "locator": "条目 Eutermes occultus (Hill)（Hill 1942）",
+          "note": "支撑：本种种级描述（鉴别要点与各品级形态、量度）"
+        },
+        {
+          "quote": "1927 Leuootermes oooiduus Hill, Mem. Nat. Mus., Melbourne,\nno. 7, p. 50, pi. 2, figs. 46-48, pi. 5, fig. 175,\npi. 8, fig. 176 (description of winged adult,\nsoldier and worker; biology).\n1932 Heterotermes ferox (Froggatt). Hill, Coun. Sci.\nInd. Res. (Aust.), Pamph. no. 25, p. 23, fig.\n15 a-c (biology).\n1932 Heterotermes ferox (Froggatt). Hill, Proc. Roy.\nSoc. Viet., vol. 44, pt. 2, p. 143 (syn. of\nH. ferox and H. oooiduus ; biology).\n1938 Heterotermes ferox (Froggatt). Hill, Proc. Roy.\nSoc. Viet. , vol. 50, pt. 2, p. 354.\nWinged adult\nA small dark brown species, wj.th somewhat lighter\nbrown antennae, palpi and postclypeus, femora a little\npaler than antennae, apical part of tibiae and tarsi c",
+          "locator": "条目 Heterotermes ferox (Froggatt) 异名表（Hill 1942）",
+          "note": "支撑：mention 判定——本种在本书中仅作 H. ferox 的异名出现，无独立描述"
+        },
+        {
+          "quote": "(Incjuding Australia, New Guinea and Islands South of the\nEquator between 140°E. Longitude and !70°W. Longitude)\nBy\nGERALD F. HILL\nMELBOURNE, 1942\nC.7908/42.\nH. E. Daw, Government Printer, Melbourne.\n\n\n\n\nCONTENTS\nPage\nFOREWORD 4\nINTRODUCTION 5\nCLASSIFICATION 6\nLIST OF SPECIES AND SYNONYMS 7\nLIST OF",
+          "locator": "书名页范围说明（Hill 1942）",
+          "note": "支撑：notfound 判定——本书地理范围不含喀麦隆，且全文无 Unguitermes/bidentatus 任何命中"
+        },
+        {
+          "quote": "Winged adult\nDorsal surface chestnut brown; postclypeus distinctly\nlighter; pleura and legs ochraceous-tawny; wings dark smoky\nEyes and ocelli large for the genus; the former prominent,\nthe latter distant about half their short diameter from the\nhyaline margin of the eyes. Postclypeus a little less than\nhalf as long as wide. Antennae of Ik segments; 3rd seg-\nment very short and narrow, always the shortest of all; 4th\ndistinctly longer and wider—than 3rd; sth about as long as\n2nd; 6th- 13th segments increasing very slightly progress-\nively. Pronotum with the anterior margin nearly straight,\nslightly bent up, sides curved to the rather broadly rounded\nand slightly sinuate posterior margin; posterior margin of\nmesonotum wide, widely and shallowly concave; posterior\nmargin of metanotum usually rounded, sometimes slightly con-\ncave in the middle.",
+          "locator": "条目 Microcerotermes boreus（Hill 1942）",
+          "note": "支撑：Microcerotermes boreus 的形态描述"
+        },
+        {
+          "quote": "Measurements. - Length with wings 9*25 - 9.50; length with-\nout wings 5.25 - 5.50; head, to apex of labrum, long 1.00 -\n1.10; head, to clypeofrontal suture, long 0.58 - O.o2;\nhead, wide 0.85 - 0.92; eyes, max. diameter 0.29; ocelli,\nlong 0.10; pronotum, long 0.4© - 0.44; pronotum, wide\n0.64 - 0.69; forewing, long 8.25; forewing, wide 2.10.",
+          "locator": "条目 Microcerotermes boreus（Hill 1942）",
+          "note": "支撑：Microcerotermes boreus 的量度数据"
+        },
+        {
+          "quote": "Winged adult\nAuthentic examples of this caste are not known, but\na series from Wagga Wagga, where soldiers and workers have\nbeen taken, may be referable to this species. They differ\nfrcm M. leai in measurements only.\nMeasurements. - Length with wings 6.30 - 7.25; length with-\nout wings 4.25 - 5.25; head, to apex of labrum, long 0.88 -\n0.91; head, to clypeofrontal suture, long 0.51 - 0.55;\nhead, wide 0.77 - 0.80;. eyes, max. diameter 0.22; ocelli,\nlong 0.07; pronotum, long 0.36; pronotum, wide 0.58;\nforewing, long 5.00 - 5.45; forewing, wide 1.36.",
+          "locator": "条目 Microcerotermes cavus（Hill 1942）",
+          "note": "支撑：Microcerotermes cavus 的形态描述"
+        },
+        {
+          "quote": "Measurements. -\nFrom Tamworth From Griffith\nTotal length 4.75 5,40 - 6.10\nHead, with mandibles, long 2.49 2.60 - 2.78\nHead, to clypeal suture,\nlon S 1.39 1.43 - 1.54\nHead, wide 0.84 0.84 - 0.86\nPronotum, long 0.27 0.29\nPronotum, wide 0.55 0.60 - 0.62",
+          "locator": "条目 Microcerotermes cavus（Hill 1942）",
+          "note": "支撑：Microcerotermes cavus 的量度数据"
+        },
+        {
+          "quote": "Ringed adult\nAlmost entirely very dark brown; postclypeus a\nshade paler than head; tarsi light brownish yellow; wings\ndark smoky. Easily distinguished from M. biroi by its\ndarker colour (particularly of legs and under surface),\npaler tarsi, and smaller size and from all mainland species\nby its darker colour and contrast in colour between tarsi\nand the remainder of the legs (Pig. 332).",
+          "locator": "条目 Microcerotermes distinctus（Hill 1942）",
+          "note": "支撑：Microcerotermes distinctus 的形态描述"
+        },
+        {
+          "quote": "Measurements. - Total length 5.10 - 7.75; head, with man-\ndibles, long 2.45 - 2.86; head, to clypeal suture, long\n1.72 - 1.96; head, wide 0.87 - 0.98; pronotum, long 0.31 -\n0.36; pronotum, wide 0.58 - 0.66.",
+          "locator": "条目 Microcerotermes distinctus（Hill 1942）",
+          "note": "支撑：Microcerotermes distinctus 的量度数据"
+        },
+        {
+          "quote": "Measurements. - Length with wings 9.50 - 10.00; length\nwithout wings 5.00 - 5.50; head, to apex of labrum, long\n1.08 - 1.10; head, to clypeofrontal suture, long 0.58 -\n0.62; head, wide 0.91 - 0.93; eyes, max. diameter 0.25';\nocelli, long 0.10; pronotum, long 0.44; pronotum, wide\n0.69 - 0.73; forewing, long 7.25 - 8.00; forewing, wide\n2.09 - 2.16.",
+          "locator": "条目 Microcerotermes implacidus（Hill 1942）",
+          "note": "支撑：Microcerotermes implacidus 的量度数据"
+        },
+        {
+          "quote": "Measurements. -\nType colony From Narrandera\nTotal length 5.25 - 5.50 4.30 - 4.80\nHead, with mandibles, long 2.45 - 2.56 2.00 - 2.20\nHead, to clypeal suture,\nlon S 1.52 - 1.57 1.32 - 1.39\nHead, wide 0.93 - 0.95 0.80 - 0.82\nPronotum, long 0.29 0.26 - 0.29\nPronotum, wide 0.66 0.55",
+          "locator": "条目 Microcerotermes implacidus（Hill 1942）",
+          "note": "支撑：Microcerotermes implacidus 的量度数据"
+        },
+        {
+          "quote": "Measurements. - Length with wings 7.50 - 7.75; length with-\nout wings 4.25 - 4.75; head, to apex of labrum, long 0.97 -\n0.99; head, to clypeofrontal suture, long 0.57; head, wide\n0.79 - 0.82; eyes, max. diameter 0.20 - 0.23; ocelli,\nlong 0.09; pronotum, long 0.36 - 0.40; pronotum, wide\n0.62 - 0.69; forewing, long 5.70; forewing, wide 1.50.",
+          "locator": "条目 Microcerotermes leai（Hill 1942）",
+          "note": "支撑：Microcerotermes leai 的量度数据"
+        },
+        {
+          "quote": "Measurements. - Total length 5*00; head, with mandibles,\nlong 2.40 - 2.62; head, to clypeal suture, long 1.41;\nhead, wide 0.78; pronotum, long 0.29; pronotum, wide\n0.58.",
+          "locator": "条目 Microcerotermes leai（Hill 1942）",
+          "note": "支撑：Microcerotermes leai 的量度数据"
+        },
+        {
+          "quote": "Winged adult\nNot known.\nDealated adult\nA large species, very hairy, some of the hairs\nmarkedly long. Head, thorax and tergites of abdomen\nargus brown; legs, antennae and sternites of abdomen\nbuckthorn brown; clypeus ochraceous-tawny. Head (Fig.\n299) almost spherical in dorsal aspect. Frons depressed.\nFontanelle linear. Eyes of moderate size, prominent.\nOcelli large, broadly oval, inner margin markedly elevated,\na little less than their short diameter from the eyes.\nAntennae long, of 15 segments; 3rd very long, not much\nshorter than Ist; 2nd very small; 4th and sth long and\nnarrow, shorter and narrower than 3rd, the remaining seg-\nments long. Apical tooth of mandibles much longer than,\nand widely separated from, the next. Postclypeus small,\nhalf as long as wide (0.25 x 0.50). Pronotum very large,\nmarkedly wider than long, strongly arched, markedly con-\ncave .in front, sides sloping to the broadly rounded\nposterior margin. Posterior margin of meso- and meta-\nnotum narrow and deeply emarginate.\nIt is possible that the termite described above is\nthe same as M. broomensis , only the soldier of which is\nknown.",
+          "locator": "条目 Mirotermes jarmuranus（Hill 1942）",
+          "note": "支撑：Mirotermes jarmuranus 的形态描述"
+        },
+        {
+          "quote": "Measurements. - Length without wings 6.15; head, to\napex of labrum, long 1.32; head, to. clypeofrontal suture,\nlong 0.74; head, wide 1.22; eyes, max. diameter 0.33;\nocelli, long 0.17; antennae, long 2.28; pronotum, long\n0.77; pronotum, wide 1.19*",
+          "locator": "条目 Mirotermes jarmuranus（Hill 1942）",
+          "note": "支撑：Mirotermes jarmuranus 的量度数据"
+        },
+        {
+          "quote": "Measurements. - Length with wings -±2.00; length without\nwings 5.50 - 6.00; head, to apex of lab rum, long 1.32 -\n1.39: head, to clypeofrontal suture, long 0.73 - 0.80;\nhead, wide 1.35; eyes, max. diameter 0.44; ocelli, long\n0.20 - 0.22; pronotum, long 0.69 - 0.73; pronotum, wide\n1.32 - 1.35; forewing, long 8.90 - 9.60; forewing, wide\n2.65 - 2.90.",
+          "locator": "条目 Mirotermes kalgoorliensis（Hill 1942）",
+          "note": "支撑：Mirotermes kalgoorliensis 的量度数据"
+        },
+        {
+          "quote": "Winged adult\nVery closely related to, \"but apparently specifically\ndistinct from, M. peroomis . It differs from the latter\nspecies as follows:- head larger, eyes larger, fontanelle\nlanceolate, antennae of 16 segments; pronotum wider, wings\nand tergites of abdomen mostly darker. The Ist segment of\nthe antennae usually is deeply pigmented; 3rd segment small-\nest of all; 4th a little longer and wider than 3rd; 3th\nand 6th equal; 7th a little longer than 6th; remaining seg-\nments long and narrow. The hairs on head, thorax and\nabdomen arfe very short (Pigs. 4 and 320).",
+          "locator": "条目 Mirotermes pelatus（Hill 1942）",
+          "note": "支撑：Mirotermes pelatus 的形态描述"
+        },
+        {
+          "quote": "A large species, conspicuous for its large eyes and\nocelli (Pig. 318) and very short, dense hairs on head,\nthorax and abdomen. Similar in general appearance to M.\njarmuranus , but easily distinguished by its larger size,\nlarger eyes and ocelli, wider fontanelle, differently seg-\nmented antennae and absence of long hairs. Eyes and\nocelli very large and prominent; ocelli not much longer\nthan wide (0.17 x 0.20;. Mandibles as in Pig. 319.\nAntennae of 15 segments; 2nd segment shortest of all;\n3rd, 4th and sth about equal in length; the remaining\nsegments long. Pronotum very large, about as wide as\nhead, much wider than long, markedly concave anteriorly,\nanterolateral comers narrow, sides narrowed to the\nsinuate posterior margin. Posterior margin of mesor and\nmetanotum widely and rather shallowly notched. Wings dark\nsmoky, with very short radius; cubitus with eight branches,\none or two of which may be branched; media traversing the\nwing above the middle, unbranched, very close to the cubitus.",
+          "locator": "条目 Mirotermes (Mirotermes) kalgoorliensis sp. nov.（Hill 1942）",
+          "note": "支撑：Mirotermes kalgoorliensis 的形态描述"
+        },
+        {
+          "quote": "Measurements. - Length with wings 10.25; length without\nwings 5.00 - 5.30; head, to apex of labrum, long 1.21 -\n1.24; head, to clypeofrontal suture, long 0.64 - 0.66;\nhead, wide 1.17 - 1.21; eyes, max. diameter 0.38 - 0.40;\n\n\nocelli, long 0.18; pronotum, long 0.55 - 0.66; pronotum,\nwide 1.10 - 1.17; forewing, long 8.00 - 8.30;' forewing,\nwide 2.30 - 2.60.",
+          "locator": "条目 Mirotermes pelatus（Hill 1942）",
+          "note": "支撑：Mirotermes pelatus 的量度数据"
+        },
+        {
+          "quote": "Winged adult\nA moderately large species, very closely allied to\nM. pelatus (q.v.) and M, coellaris. It is distinguished\nfrom the latter hy the following characters:- smaller head,\neyes and ocelli; narrower and differently shaped pronotum\n(cf. Figs. 320, 307 and 321); distal half of antennae with\nshorter segments; head, thorax and abdomen clothed with\nvery short hairs. Postclypeus half as long as wide (0.25 x\n0.50). Ocelli large, broadly oval. The antennae have 15\nsegments; 2nd, 3rd and 4th segments variable, usually\nequally long; sometimes 2nd, or 2nd and 3rd shortest of all.\nMandibles as in M. kalgo orltens is . Radius obsolete or\nobsolescent; media passing through the anterior third of\n\n\nthe wing, without branches; cubitus very close to media,\npassing through the middle of the wing, with nine branches,\ntwo or three of which usually are forked.",
+          "locator": "条目 Mirotermes percomis（Hill 1942）",
+          "note": "支撑：Mirotermes percomis 的形态描述"
+        },
+        {
+          "quote": "Measurements. - Length with wings 10.70 - 10.75; length\nwithout wings 5.50 - 6.00; head, to apex of labrum, long\n1.17; head, to clypeofrontal suture, long 0.62; head, wide\n1.13; eyes, max. diameter 0.36; ocelli, long 0.18; pro-\nnotum, long 0.65; pronotum, 1.06; forewing, long\n8.25; forewing, wide 2.50.",
+          "locator": "条目 Mirotermes percomis（Hill 1942）",
+          "note": "支撑：Mirotermes percomis 的量度数据"
+        },
+        {
+          "quote": "Winged adult\nA small, dark brown species; upper surface uniformly\nvery dark, under surface, legs and antennae lighter brown,\nlab rum dark yellow, anteclypeus whitish. Head (Pig. 6l)\nnearly parallel on the sides, moderately glabrous, with\nscanty hairs. Labrum short and wide, strongly convex,\nanterior margin rounded. Postclypeus short and narrow, a\nmoderately deep transverse depression at the clypeofrontal\nsuture. Eyes sub triangular, 0.22 x 0.25 - 0.25 x 0.29\ndiam. . Ocelli small, about as long as wide, very close\nto the eyes. Antennae of 14-1 6 segments, usually 15; Ist\nsegment short and stout; 2nd as long as 3rd, but wider at\nthe base; the following segments globose. Pronotum\nreniform, a little wider than head, not markedly arched,\nmargins obscurely impressed, with scanty moderately long\nhairs, the anterior margin widely concave, a deep irregular\ndepression on either side near the anterior margin, widest\nacross the middle, sides slightly rounded, posterolateral\nangles oblique, posterior margin broadly rounded, slightly\nconcave in the middle. Wings short. Costa of forewing\nvery short or wanting.",
+          "locator": "条目 Calotermes banksiae（Hill 1942）",
+          "note": "支撑：Calotermes banksiae 的形态描述"
+        },
+        {
+          "quote": "Measurements. - Total length 7.00 - 7.30; head, to apex of\nmandibles, long 3.00 - 3.10; head, to clypeaL suture, long\n2.05 - 2.10; head, wide 1.17 - 1.28; pronotum, long 0.62\n0.69; pronotum, wide 1.02 - 1.13*",
+          "locator": "条目 Calotermes banksiae（Hill 1942）",
+          "note": "支撑：Calotermes banksiae 的量度数据"
+        },
+        {
+          "quote": "Winged adult\nSmall, glabrous, dark brown, pronotum a shade darker\nthan head, anteclypeus whitish, labrum lemon yellow, wings\nlight brown. Eyes small (0.22 x 0.25 diam.). Ocelli small,\nnear to but not in contact with eyes. Antennae of 12-14\nsegments. Pronotum (Fig. 52) large, conspicuously wider\n'■fchan head, no£ markedly arched, anterior margin strongly\nconcave, sides markedly widened in the middle, posterior\nmargin wide and rather deeply concave, the margin impressed,\nwith scanty, very short hairs. Wings light brown, venation\nvery variable; forewing with the subcosta about as long as\nthe wing is wide at the suture; radius about twice as long\nas subcosta; radial sector with about 12 branches. Media\nmore or less parallel to the radial sectob to the apex of\nthe wing, a little nearer to the radial sector than to the\ncubitus, or joining the radial sector before or beyond the\nmiddle of the wing; cubitus nearly parallel to the media,\ntraversing the wing a little above or a little below the\nmiddle-of the wing ? or joining the radial sector between the\ntermination of the media and the apex of the wing.",
+          "locator": "条目 Calotermes convexus（Hill 1942）",
+          "note": "支撑：Calotermes convexus 的形态描述"
+        },
+        {
+          "quote": "Measurements. - Length with wings 8.00; length without\nwings 4. l+O - 5.75; head, to apex of lahrurn, long 1.21;\nhead, to clypeofrontal suture, long 0.80 - 0.91; head,\nwide 0.95 - 1.00; pronotum, long 0.58 - 0.66; pronotum,\nwide 1.10 - 1.13; forewing, long 6.75; forewing, wide\n1.90.",
+          "locator": "条目 Calotermes convexus（Hill 1942）",
+          "note": "支撑：Calotermes convexus 的量度数据"
+        },
+        {
+          "quote": "Soldier (undescribed)\nSoldiers of two unidentified, species of Calotermes\nhave been collected in Tasmania. It is impossible at\npresent to determine which, if either, is referable to the\nspecies under discussion.",
+          "locator": "条目 Calotermes convexus（Hill 1942）",
+          "note": "支撑：Calotermes convexus 的形态描述"
+        },
+        {
+          "quote": "Measurements. - Length with wings 9.00 - 9.50; length with-\nout wings 4.50; head, to apex of Habrum, long 1.32 - 1.46;\nhead, to clypeofrontal suture, long 0.95 - 1.07; head, wide\n1.60 - 1.13; pronotum, long 0.66 - 0.77; pronotum, wide\n1.21 - 1.24; forewing, long 7.00 - 7.25; forewing, wide\n2.49. Queen: Total length 13.38.",
+          "locator": "条目 Calotermes rufinotum（Hill 1942）",
+          "note": "支撑：Calotermes rufinotum 的量度数据"
+        },
+        {
+          "quote": "Measurements. -\nAverage of six\n£gPiL e specimens\nTotal length (5.00)* 5.25 - 6.50\nHead, to apex of\nmandibles, long (2.12) 2.56 - 3.06 2.83\nHead, to clypeal\nsuture, long (1.57) 1.83 - 2.20 2.08\nHead, wide (1.02) 1.10 - 1.28 1.21\nG-ula, at narrowest\npart, wide (0.18) 0.16 - 0.22 0.19\nPronotum, long (0.44) 0.55 - 0.77 0.69\nPronotum, wide (0.84) 0.95 - 1.24 1.15\nx Progeny of a recently mated pair.",
+          "locator": "条目 Calotermes rufinotum（Hill 1942）",
+          "note": "支撑：Calotermes rufinotum 的量度数据"
+        },
+        {
+          "quote": "Winged adult\nHead, tergites and apical stemites of abdomen dark\nbrown, meso- and metanotum, remaining stemites and wings a\nlittle lighter, pronotum and lab rum yellowish brown, legs,\nantennae and palpi light brown, femora siiffused with darker\nbrown, tibiae sometimes yellowish brown. Head (Fig. 63)\nvery small, nearly parallel on the sides, with few hairs.\nFrons with relatively large concavity. Anteclypeus strong-\nly arched in the middle. Eyes small (0.22 - 0.24 diam. ).\nOcelli very small and very close to eyes. Antennae of 13\nor 14 segments, usually 14; Ist segment short, narrow,\n\n\nFig. 63 - Calotermes pallidinotum: Head and pronotum\nof winged adult.\nFig. 64 - Colotermes pallidinotum: Head and pronotum\nof soldier.\nnearly cylindrical; 2nd about one-fourth narrower than Ist,\nusually about the same length as 3nd and 4th; 3nd some-\ntimes shorter than 2nd and 4th; remaining segments gLobose,\nincreasing in length progressively to the penultimate seg-\nment, the apical segment as in sth.",
+          "locator": "条目 Calotermes pallidinotum（Hill 1942）",
+          "note": "支撑：Calotermes pallidinotum 的形态描述"
+        },
+        {
+          "quote": "Measurements. - Total length 4.60 - 5.70; head, to apex\nof mandibles, long 2.01 - 2.34; head, bo clypeal suture,\nlong 1.46 - 1.83; head, wide 0.84 - 1.32; gula, at\nnarrowest part, wide 0.14 - 0.18; pronotum, long 0.44 -\n0.58; pronotum, wide 0.73 - 0.95.",
+          "locator": "条目 Calotermes pallidinotum（Hill 1942）",
+          "note": "支撑：Calotermes pallidinotum 的量度数据"
+        },
+        {
+          "quote": "Measurements. -\nSydney S. Queensland N. Queensland\nLength with wings - 10.00-11.50 10.50-12.00\nLength without\nwings 5.30-5.80 5.50- 6.50 5.75- 7.50\nHead, to apex of\nlab rum, long 1.08-1.21 1.32- 1.50 1.39- 1.68\nHead, to clypeo-\nfrontal suture,\nlong 0.84-0.94 0.91- 1.21 1.17- 1.28\nHead, wide 0.97-1.10 1.13- 1.28 1.21- 1.46\nPronotum, long 0.58 0.58- 0.66 0.69- 0.80\nPronotum, wide 0.91-0.95 1.06- 1.24 1.17- 1.43",
+          "locator": "条目 Calotermes brevicornis（Hill 1942）",
+          "note": "支撑：Calotermes brevicornis 的量度数据"
+        },
+        {
+          "quote": "Measurements. -\nSydney S. Queensland N. Queensland\nTotal length 7.25 4.50-7.35 6.25-9.75\nHead, to apex of\nmandibles, long 2.93 2.09-3.11 2.86-4.66\nHead, to clypeal\nsuture, long 2.27 1.50-2.38 2.12-3.22\nHead, wide 1.32 1.06-1.35 1.28-1.87\nPronotum, long 0.66 0.40-0.66 0.56-0.84\nPronotum, wide 1.17 0.93-1.32 1.21-1.68",
+          "locator": "条目 Calotermes brevicornis（Hill 1942）",
+          "note": "支撑：Calotermes brevicornis 的量度数据"
+        },
+        {
+          "quote": "Winged adult\nA small light coloured species, general colour ochra-\nceous, postclypeus, antennae and legs slightly paler than\nhead, principal veins reddish brown. Head (Fig. 46) with\nvery few hairs, vertex flattened and rugose. Eyes large,\nprominent. Antennae of 15 or 16 segments, usually 15.\nPronotum with impressed margin, wider than head, widely con-\ncave in front, sides only slightly rounded and narrowed\nposteriorly, posterior margin wide and slightly sinuate,\nwith a scanty fringe of short and moderately long hairs.",
+          "locator": "条目 Calotermes tuberculatus（Hill 1942）",
+          "note": "支撑：Calotermes tuberculatus 的形态描述"
+        },
+        {
+          "quote": "Measurements. - Total length 5.50 - 7.00; head, to apex of\nmandibles, long 2.27 - 2.68; head, to clypeal suture, long\n1.76 - 2.09; head, wide 1.21 - 1.32; pronotum, long 0.58 -\n0.69; pronotum, wide 1.24 - 1.35.",
+          "locator": "条目 Calotermes tuberculatus（Hill 1942）",
+          "note": "支撑：Calotermes tuberculatus 的量度数据"
+        },
+        {
+          "quote": "Winged adult\nNot known.",
+          "locator": "条目 Hamitermes (Drepanotermes) clarki Hill（Hill 1942）",
+          "note": "支撑：Hamitermes clarki 的形态描述"
+        },
+        {
+          "quote": "Measurements. - Total length 6.00; head, with mandibles\ncrossed at teeth, long 2.77; head, to clypeofrontal suture,\nlong 1.50; head, to apex of labrum, long 1.96; head, wide\n1.55 - 1.61; pronotum, long 0.44 - 0.47; pronotum, wide\n0.92 - 0.96.\nFig. 281 - Hamitermes elarki : Head and pronotum\nof soldier.",
+          "locator": "条目 Hamitermes (Drepanotermes) clarki Hill（Hill 1942）",
+          "note": "支撑：Hamitermes clarki 的量度数据"
+        },
+        {
+          "quote": "Winged adult\nVery closely allied to E. nidi-cola, from which it\ncan be distinguished by its conspicuously wider pronotum\n(Pig. 274). Tibial spurs 3:2:2.",
+          "locator": "条目 Hamitermes (Ahamitermes) hilli (Nicholls)（Hill 1942）",
+          "note": "支撑：Hamitermes hilli 的形态描述"
+        },
+        {
+          "quote": "Measurements. - Total length 4.20 5-50; head, with man-\ndibles, long 1.85 - 2.20; head; to clypeofrontal suture,\nlong 1.10 - 1.21; head, wide 0.82 - 0.93; pronotum, long\n0.33 - 0.40; pronotum, wide 0.71 - 0.80.",
+          "locator": "条目 Hamitermes (Ahamitermes) hilli (Nicholls)（Hill 1942）",
+          "note": "支撑：Hamitermes hilli 的量度数据"
+        },
+        {
+          "quote": "Winged adult\nA moderately large species, closely allied to M- .\nkalgoorliensis sp. nov. from which it differs, inter alia ,\nas follows:- smaller and a little more hairy; ocelli\nsmaller and further from the eyes; fontanelle composed\nof a small oval anterior pore and a small, detached,\nspherical. blackish posterior part (not an elongate narrow\ncleft, as\"in the Western Australian species); 3rd segment\nof the antennae smallest of all; pronotum (Pig. 298)\nnarrower and longer, posterior margin of me so- and metanotum\nnarrower and distinctly more deeply emarginate.\n\n\nFig. 298 - Mirotermes insitivus: Head and pronotum\nof winged adult.",
+          "locator": "条目 Mirotermes insitivus（Hill 1942）",
+          "note": "支撑：Mirotermes insitivus 的形态描述"
+        },
+        {
+          "quote": "Measurements. - Length with wings 11.00 - 11.50; length\nwithout wings 6.00 - 6.50; head, to apex of lahrum, long\nlm rr ~ I’2 1 ’ 21 * to clypeofrontal suture, long 0.57 -\n0.66; head, wide 1.13 - 1.24; eyes, max. diameter 0.29 -\n0.32; ocelli, long 0.12 - 0.13; pronotum, long 0.75 -\n0.84; pronotum, wide 1.13 - 1.28; forewing, long 9.00 -\n9.50; forewing, wide 2.70.",
+          "locator": "条目 Mirotermes insitivus（Hill 1942）",
+          "note": "支撑：Mirotermes insitivus 的量度数据"
+        },
+        {
+          "quote": "Winged adult\nA medium sized light brown species, head darker tnan\nthorax, abdomen and legs, wing veins same colour as legs,\nwing membrane paler, markedly reticulate. Head large,\nround (Pig. 19). Eyes relatively small (about 0.40 - 0.50\nmax. diam. ). Antennae long and slender, with 15-18 seg-\nments. Radius with one or two branches, radial sector with\n6 or more branches; media passing through the anterior\nthird of the wing, with several branches; cubitus with 10\nor more branches. Pronotum reniform, about as wide as\nhead, and about half as long as wide. Tibial spurs variable\nfore tibiae with 3, mid with 3 or 4, hind with 2, 3 or 4\nspurs.",
+          "locator": "条目 Porotermes adamsoni（Hill 1942）",
+          "note": "支撑：Porotermes adamsoni 的形态描述"
+        },
+        {
+          "quote": "Measurements. - Total length 9*50 - 15.00; head., to apex of\nmandibles, long 3*36 - 7.00; head, wide 1.82 - 4.00;\npronotum, long 0.74 - 1.53; pronotum, wide 1.20 - 2.90.",
+          "locator": "条目 Porotermes adamsoni（Hill 1942）",
+          "note": "支撑：Porotermes adamsoni 的量度数据"
+        },
+        {
+          "quote": "I suggest that Proggatt included two species in his\ndescription of C. eucalypti , an error which could easily be\nmade in view of the frequent close association of winged\nadults of one species with soldiers of another. The avail-\nable type material comprises several winged adults and one\nsoldier. I have been unable to separate the former from\nalates of C. neotuberculatus (described on p. 92), and the\nlatter from soldiers of C. pallidinotum sp. nov. (described\non p. 117), ‘two species which are now known from a considerable\nnumber of colonies the soldiers in which are unquestionably\nconspecific with their associated, reproductive forms. Should\nthe examination later of adequate material from Proggatt’s\nlocalities support the above suggestion, C. neo tuber culatus\nwill become a synonym of C. eucalypti: in the meantime it is",
+          "locator": "条目 Calotermes (Glyptotermes) eucalypti (Froggatt)（Hill 1942）",
+          "note": "本种在 Hill 1942 中只有异名表、模式材料与归并讨论，无任一品级的形态描述；原文并指出有翅成虫无法与 C. neotuberculatus 区别、兵蚁无法与 C. pallidinotum 区别"
+        },
+        {
+          "quote": "1920 Eutermes magnifious Mjoberg 35 , Arkiv for Zoologi, vol.\n12, no. 15, p. 63-65, text-figs. 32a, b, 33, 34\n(description, of winged adult;",
+          "locator": "条目 Hamitermes (Drepanotermes) rubriceps (Froggatt) 异名表（Hill 1942）",
+          "note": "作为 Hamitermes (Drepanotermes) rubriceps 的异名列出，无独立条目"
+        },
+        {
+          "quote": "1929 Mirotermes argatus Hill, Proc. Roy. Soc. Viet., vol.\nill, pt. 2, p. 92, text-fig. lc (description of\nsoldier and worker;",
+          "locator": "条目 Mirotermes (Mirotermes) kraepelini Silvestri 异名表（Hill 1942）",
+          "note": "作为 Mirotermes kraepelini 的异名列出，无独立条目"
         }
       ],
       "id": "S0114"

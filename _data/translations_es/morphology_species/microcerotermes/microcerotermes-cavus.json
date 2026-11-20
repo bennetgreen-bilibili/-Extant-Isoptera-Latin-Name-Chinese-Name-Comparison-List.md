@@ -1,0 +1,13 @@
+{
+ "note": "Adaptado de la descripción de especie nueva de Hill (1942), original en inglés. Medidas en mm; las del soldado se dan en el original en dos columnas (Tamworth / Griffith) y aquí se transcriben como dos conjuntos de valores. Distribución: Victoria, cerca de Swan Hill (localidad tipo), Redcliffs, Halbert, Violet Town, Charlton, Linga; Nueva Gales del Sur, cerca de Griffith, Pillaga, Dubbo, Tamworth, cerca de Wagga Wagga, Broken Hill; Australia Occidental, Kalgoorlie. El material tipo es un holotipo soldado de la colección del C.S.I.R. El original indica expresamente que las medidas del alado proceden solo de la serie de Wagga Wagga que «podría pertenecer a esta especie», por lo que ni la descripción del alado ni sus medidas están confirmadas. Problema de OCR: «lon S» en la tabla de medidas del soldado es un error de reconocimiento de «long».",
+ "sections": [
+  {
+   "label": "Alado",
+   "text": "El original afirma que no se conocen ejemplares auténticos de esta casta; solo una serie de Wagga Wagga que contiene soldados y obreros podría pertenecer a esta especie, y esa serie se diferencia de M. leai únicamente por las medidas. Medidas (mm, según esa serie dudosa): longitud con alas 6.30—7.25; longitud sin alas 4.25—5.25; longitud de la cabeza (hasta el ápice del labro) 0.88—0.91; longitud de la cabeza (hasta la sutura clípeo-frontal) 0.51—0.55; anchura de la cabeza 0.77—0.80; diámetro mayor del ojo compuesto 0.22; longitud del ocelo 0.07; longitud del pronoto 0.36; anchura del pronoto 0.58; longitud del ala anterior 5.00—5.45; anchura del ala anterior 1.36."
+  },
+  {
+   "label": "Soldado",
+   "text": "Afín a M. boreus y a M. leai; más pequeño que el primero y con mandíbulas más finas, más grande que el segundo y con mandíbulas más gruesas; se distingue de ambos por la depresión bastante evidente y algo cuadrangular de la frente (Fig. 351). Medidas (mm; el original da dos columnas, Tamworth / Griffith): longitud del cuerpo 4.75 / 5.40—6.10; longitud de la cabeza con mandíbulas 2.49 / 2.60—2.78; longitud de la cabeza (hasta la sutura clipeal) 1.39 / 1.43—1.54; anchura de la cabeza 0.84 / 0.84—0.86; longitud del pronoto 0.27 / 0.29; anchura del pronoto 0.55 / 0.60—0.62."
+  }
+ ]
+}

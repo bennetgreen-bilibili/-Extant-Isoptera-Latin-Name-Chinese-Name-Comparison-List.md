@@ -1,0 +1,21 @@
+{
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "Hill (1942) adopts the species Termes ferox Froggatt, 1898, with the type locality Sydney, and lists Leucotermes occiduus Hill, described in 1927, as a synonym. The alate is small and dark brown and can be distinguished from the other Australian species by its very dark coloration; the soldier varies greatly in size and is usually difficult to distinguish from H. paradoxus and H. intermedius, but in Western Australia it is often distinctly smaller."
+  },
+  {
+   "label": "Alate",
+   "text": "A small dark brown species, with the antennae, maxillary palpi and postclypeus slightly paler brown, the femora slightly paler than the antennae, the apices of the tibiae and the tarsi milk-white, and the wings dark brown. Head (Fig. 65) longer than wide, slightly narrower behind. Fontanelle very small but fairly distinct, in line with the posterior margin of the compound eyes. Postclypeus small, moderately convex. Compound eyes small (diameter 0.22—0.25), nearly triangular, projecting very little or not at all beyond the sides of the head, the outer ommatidia often colourless. Ocelli always present, very small, slightly variable in size and shape, touching or separate from the compound eyes. Antennae 15—17-segmented; segment 3 usually the smallest, sometimes degenerate, sometimes larger than segment 4. Pronotum strongly convex, deeply concave and folded upwards in front, the sides distinctly contracting towards the posterior margin, the middle of the posterior margin deeply or shallowly concave; the middle of the posterior margin of the mesonotum deeply concave; the posterior margin of the metanotum more shallowly concave or merely wavy. Media of the fore wing (Fig. 3) single or with 1—2 branches, nearer the cubitus or equidistant from it and the radial sector; cubitus with 9—11 branches. Measurements (New South Wales / south-western Australia, the two columns of the original): length with wings 10.50—11.50 / 9.75—11.50; length without wings 4.50—5.00 / 4.00—4.50; head length (to clypeofrontal suture) 0.74—0.80 / 0.66—0.80; head width 0.91 / 0.73—0.86; pronotum length 0.44—0.50 / 0.40—0.45 (OCRed as \"O.UO - 0.45\"); pronotum width 0.68—0.73 / 0.57—0.64; fore wing length 9.00—9.50 / 8.50—9.50; fore wing width 2.07—2.28 / 2.00—2.38."
+  },
+  {
+   "label": "Soldier",
+   "text": "Size very variable; usually difficult to distinguish from H. paradoxus and H. intermedius, but often much smaller (in Western Australia consistently distinctly smaller). Antennae 15—17-segmented, with great variation in the segmentation. The anterior half of the head and the labrum are often entirely dark brown (Fig. 66). Measurements (New South Wales / south-western Australia, the two columns of the original): total length 4.50—5.50 / 3.75—4.50; head length (including mandibles) 2.23—2.67 / 1.98—2.42; head length (to clypeofrontal suture) 1.17—1.54 / 1.13—1.35; head width 0.91—1.00 / 0.71—0.88; pronotum length 0.40—0.55 / 0.33—0.44; pronotum width 0.69—0.88 / 0.50—0.69."
+  },
+  {
+   "label": "Other",
+   "text": "Queen: total length 19.00; abdominal width 3.50."
+  }
+ ],
+ "note": "Rewritten from the English species-level description in Hill (1942). The original lists Leucotermes occiduus Hill, described in 1927 (type locality Mundaring, Western Australia), as a synonym of this species, so H. occiduus has no separate species-level description in this book. The measurements are given in the two columns of the original (New South Wales / south-western Australia), separated here by a slash; the pronotum length was OCRed as \"O.UO - 0.45\" and is transcribed as 0.40—0.45 with a note. The original gives no separate Worker section for this species, so no worker section is provided."
+}

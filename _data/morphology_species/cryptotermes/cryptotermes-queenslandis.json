@@ -1,0 +1,25 @@
+{
+ "zh_name": "昆士兰堆砂白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "小型的暗褐种。有翅成虫头、胸与腹暗褐，翅脉较浅的褐但较翅膜深，复眼小（0.25×0.29），触角 14—16 节，前翅残基很大、几乎完全盖住后翅残基。与 C. atratus 相比体较大、前胸背板不同、触角多 1—3 节、翅膜无刺状微刺；与 C. gearyi（澳洲另一种暗褐种）相比体较小。兵蚁以相对较浅的头和明显倾斜的额易于与所有其他澳洲种区分，头形似 C. canalensis；New South Wales 与 Victoria 的兵蚁前部突起更长更粗，额突的凹在 Victoria 标本中尤深。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "小型的暗褐种。头、胸与腹暗褐，翅脉较浅的褐，但较翅膜深。头小，长大于宽，复眼之后最宽，向前收窄，具微细斑纹。复眼小（0.25×0.29）而突出。触角 14—16 节。前胸背板大，远宽于头，明显拱起，具微细斑纹，边缘凹陷；前缘宽凹，两侧、后侧角与后缘圆，后缘中部微凹；前 1/3 有数个深印痕，起于前缘上中线与侧缘之间的中点附近，向后并向斜方延伸至中线。前翅残基很大，几乎完全盖住后翅残基。翅短；前翅亚前缘脉短，约与翅在缝处的宽度等长；径脉较亚前缘脉长两倍余。\n量度：带翅体长 8.50 mm；去翅体长 5.50 mm；头长（至上唇端）1.25 mm；头长（至额唇基缝）0.85—0.96 mm；前胸背板长 0.63 mm；前胸背板宽 1.12—1.22 mm；前翅长 6.00 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "上颚、后唇基与额为黑色；头顶、触须、颈侧板暗红褐，后头区较淡。头短而宽，具细斑纹，头顶凹陷；额突除两侧端外不明显，两端突出，具退化的中裂；腹面颊部有一短而粗的角状延长，后唇基侧缘附近另有一稍大的突起。额皱缩并以 45° 角倾斜。触角 13—15 节，通常 13 节，第 3 节短、窄、色深。上颚中等长，基部外侧隆起，具发达齿。前胸背板略窄于头，前缘宽而深凹、略呈锯齿状。\n量度：体长（头与体成直角）4.00 mm；头长（至额突前缘）1.11 mm；头长（至上颚端）2.03 mm；头宽 1.25 mm；前胸背板长 0.77 mm；前胸背板宽 1.22 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Calotermes (Cryptotermes) queenslandis Hill（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原书作 Calotermes (Cryptotermes) queenslandis Hill（标题行 OCR 作 'Galotermes'），异名栏引 1933 Calotermes (Cryptotermes) queenslandis Hill，模式产地 Toowoomba（Qld），另记 Wallaville、Yarraman、Galston（NSW）、Mallacoota（Vic.）。原文只有有翅成虫与兵蚁两节，无工蚁描述。头长（至额突前缘）原文 OCR 作 'd.ll'，读作 1.11 mm，需主控核对。OCR 误识：'Pigs.'='Figs.'、'Prons'='Frons'、'preminent'='prominent'、'13~15'='13-15'、'serra’te'='serrate'、'obsolescent'、'shagreened' 为原书术语。"
+}

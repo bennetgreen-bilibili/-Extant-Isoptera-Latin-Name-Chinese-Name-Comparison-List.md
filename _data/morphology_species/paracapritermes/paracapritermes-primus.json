@@ -1,0 +1,25 @@
+{
+ "zh_name": "第一旁扭白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "亚属 Paracapritermes 特征（本种为亚属模式种）：兵蚁头具发达的额突，自上而观遮住囟；上颚不对称，左上颚强烈扭转、基部具一短钝刺状齿，右上颚较左短、强烈弯曲但不扭转、内缘基部具一小而明显的裂口；触角 14 节。有翅成虫原文未记载，原文仅有去翅成虫描述。本种为小型暗褐种；兵蚁头淡黄、细长，额突端部上翘，无侧突。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "原文记有翅成虫未见（Not known），仅有去翅成虫描述：小型暗褐种，头与前胸背板最深，后唇基、触角与腹部背板略淡，足主要为黏土色、胫节染褐，腹面浅褐。头小，向前几乎不收窄，后部宽圆，顶部较平，多毛。复眼突出（0.22×0.25）。单眼小（长 0.09），与复眼远离，内缘略隆起。囟裂状，向前延为一条模糊的次生裂。上颚第 1 齿大于第 2 齿。后唇基长 0.18、基部宽 0.40，前缘微凹；前唇基几与后唇基等长，明显向前伸出。上唇小，基部窄，中部最宽，端部钝圆，不明显膨胀。触角 15 节；第 1 节长而窄；第 2 节约为第 1 节之半且窄得多；第 3 节很短很窄；第 4 节长于第 5 节，与第 6 节等长；第 6—14 节依次渐长；第 15 节较第 14 节短而窄，长卵形，中部最宽。前胸背板略窄于头，几乎半球形，前缘直，后缘几无凹缺，前缘之后不远每侧各有一坑状印痕，距中线较距侧缘为近。中胸与后胸背板明显收窄，后缘深而尖锐地凹。\n量度：去翅体长 4.50 mm；头长（至上唇端）1.00 mm；头长（至额唇基缝）0.55 mm；头宽 0.82 mm；前胸背板长 0.47 mm；前胸背板宽 0.73 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头淡黄、细长，额突端部上翘，无侧突。右上颚较左短，强烈弯曲但不扭转；左上颚强烈扭转，如 Capritermes 者。上唇窄、厚，两侧平行，前侧角成尖，两尖之间平截。后唇基很窄。自上而观头时囟被额突遮住。触角 14 节。\n量度：体长 4.10—4.40 mm；头长（含上颚）2.01—2.38 mm；头长（至额突端）1.28—1.43 mm；头宽 0.88—0.95 mm；前胸背板长 0.25—0.27 mm；前胸背板宽 0.55 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Mirotermes (Paracapritermes) primus sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原书作 Mirotermes (Paracapritermes) primus sp. nov.（亚属名标题 OCR 作 'PAR AO APR ITERMES'），为亚属 Paracapritermes 的模式种，模式产地 North Queensland: Mt. Molloy，另记 Clohesy River。原文只有 Dealated adult 与 Soldier 两节，无有翅成虫与工蚁描述；有翅成虫一节按原文说明记为未见，内容为去翅成虫。兵蚁一句原文 OCR 作「Right mandible shorter than the left, strongly curved, but not twisted; the right mandible strongly twisted, as in Capritermes.」——第二个「right」应为「left」，据亚属特征句（'the left mandible strongly twisted'）校正并已在正文按左上颚表述。与 Cryptotermes primus 为同名异物。OCR 误识：'Pigsc'/'Pig.'='Figs.'/'Fig.'、'Dehind'='behind'、'l3t'='1st'、'sth'='5th'、'ap-ex'='apex'、'Lent upwards'='bent upwards'、'comers'='corners'、'man-dibles' 断行、'55' 为 OCR 噪声、'Corynbosa'='corymbosa'。"
+}

@@ -1,0 +1,17 @@
+{
+ "zh_name": "可爱瘤突白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "中型偏大种，与 M. pelatus 及 M. ocellaris 极近缘。与 M. ocellaris 之别为：头、复眼与单眼更小；前胸背板更窄且形状不同（比较图 320、307、321）；触角远端各节较短；头、胸、腹部被很短毛。后唇基长为其宽之半（0.25 × 0.50）。单眼大、宽卵形。触角 15 节；第 2、3、4 节有变异，通常等长；有时第 2 节或第 2、3 节最短。上颚同 M. kalgoorliensis。径脉消失或近消失；中脉行于翅前三分之一，不分叉；肘脉很靠近中脉，行于翅中部，具 9 条分支，其中常有 2—3 条分叉。量度（mm）：连翅体长 10.70—10.75；去翅体长 5.50—6.00；头长（至上唇端）1.17；头长（至额唇基缝）0.62；头宽 1.13；复眼最大直径 0.36；单眼长 0.18；前胸背板长 0.65；前胸背板宽 1.06；前翅长 8.25；前翅宽 2.50。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Mirotermes (Mirotermes) percomis sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 新种描述改写，原文英文。分布：昆士兰 Cunnamulla。仅据数头有翅成虫（12 月 12 日与 17 日室内灯光诱集）描述，正模存 C.S.I.R.；兵蚁与工蚁未见记载。量度单位 mm。OCR 问题：原文量度「pronotum, 1.06」漏「wide」字样，据前后条目体例补注为前胸背板宽；「M, coellaris」为「M. ocellaris」之误识。"
+}

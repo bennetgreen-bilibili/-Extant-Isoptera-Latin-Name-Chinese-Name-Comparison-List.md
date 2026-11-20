@@ -1,0 +1,29 @@
+{
+ "zh_name": "凋零冢白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "兵蚁中型，头（除前 1/3 的淡色宽带与后缘外）为浅红木色，鼻突红木色，触角橙黄；头后半部半球形，前部收窄并收缩；鼻突长、约为头壳的 3/4，较窄而宽度略有变异；上颚通常无尖齿；触角通常 14 节，有时 13 节。兵蚁似 E. pulleinei 两型中较大者，区别主要在头色与鼻突、触角的形态；E. pulleinei 触角 13 节，而本种 13 节为例外。蚁后中型、很暗的褐（几乎黑），与 E. hastilis 很近，区别为体更暗（尤其后唇基、触角与上唇）、后唇基较短、触角分节不同。有翅成虫原文未记载。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "中型。头除横过前 1/3 的淡色宽带与后缘外为浅红木色，鼻突红木色，触角橙黄。头、胸与腹具很稀少的短毛。头后半部半球形，前部收窄并收缩；鼻突长，约为头壳的 3/4，较窄，宽度略有变异；头在侧面观较浅，中部之后微凹。上颚通常无尖齿。触角通常 14 节；第 3 节全体最短；第 4 节长于第 2 节；有时 13 节，则第 4 节全体最短。\n量度：体长 3.50—3.80 mm；头长（至鼻突端）1.51—1.65 mm；头宽 0.79—0.88 mm；前胸背板宽 0.48—0.51 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头具 4 条宽而暗的赭褐色纵纹，每条向两侧渐为浅褐，头顶浅褐。触角 15 节；第 3 节长于第 2 节；第 4 节全体最短。后唇基长略大于宽之半。\n量度：体长 3.90—4.75 mm；头长（至上唇端）1.65 mm；头长（至额唇基缝）0.88 mm；头宽 1.21 mm；前胸背板宽 0.74 mm。"
+  },
+  {
+   "label": "其他",
+   "text": "蚁后：中型、很暗的褐（几乎黑）的种。与 E. hastilis 很近，区别为体更暗（尤其后唇基、触角与上唇）、后唇基较短、触角分节不同。触角（残缺）第 2、3 节约等长；第 4 节明显短于第 2、3 节，全体最短。后唇基长约宽之半。\n量度：体长 14.00 mm；腹宽 3.00 mm；头长（至上唇端）1.46 mm；头长（至额唇基缝）0.88 mm；头宽 1.24 mm；复眼最大径 0.33 mm；单眼长 0.10 mm；前胸背板长 0.62 mm；前胸背板宽 1.06 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Eutermes marcidus sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原书作 Eutermes marcidus sp. nov.，模式产地 Torres Strait: Banks Island，另记 Queensland: Mitchell River Mission Station (Cape York)、Millungera。有翅成虫原文记 'Not known'，故不列该节；原文另有 Queen 一节（触角残缺 mutilated），归入「其他」。原书记巢为基部宽 12 英寸、高 12 英寸的尖顶巢，建于干燥砂土；巢内有发育良好的若虫与大量碎草，Mitchell River 巢内大若虫可深达地面下 8 英寸。OCR 误识：'Pigs.'/'Pig.'='Figs.'/'Fig.'、'lahrum'='labrum'、'pro-notom'='pronotum'、'deadated'='dealated'、'pulleine t'='pulleinei'、'marocdus'='marcidus'、'Eamitermes'='Hamitermes'、'of rontal'='ofrontal'。"
+}

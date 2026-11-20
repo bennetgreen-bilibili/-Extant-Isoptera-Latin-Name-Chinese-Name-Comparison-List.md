@@ -1,0 +1,25 @@
+{
+ "zh_name": "雷德霍恩乳白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "原文（Hill 1942）以 Coptotermes dreghorni 为名发表，模式产地昆士兰 Timber Reserve No. 263（Ravenshoe 以东约 5 英里）。有翅成虫与 C. lacteus 很相似，某些标本难以区分：头通常相对较窄，前胸背板向后收窄较少，翅较短且较淡，腹板黄褐区较大；兵蚁为大形种，仅能依头部前半部或更多部分（上方与下方）多少不规则地染有暗褐，与 C. acinaciformis 和 C. raffrayi 的某些标本区分。种名纪念发现者、林务员 R. B. Dreghorn。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "与 C. lacteus 很相似，某些标本难以区分。通常头相对较窄，前胸背板向后收窄较少，翅较短且较淡，腹部腹板的黄褐区较南方种为大。触角 18 或 19 节；第 3 节通常很短。单眼长 0.11，与复眼相距约其长之半。量度：具翅长 14.00；去翅长 6.25—6.80；头长（至上唇端）1.43—1.50；头长（至额唇基缝）0.95—1.10；头宽 1.17—1.21；复眼最大直径 0.31×0.33—0.33×0.36；前胸背板长 0.73；前胸背板宽 1.15—1.19；前翅长 9.50；前翅宽 2.67。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "大形种，仅能依头部前半部或更多部分（上方与下方）多少不规则地染有暗褐色，与 C. acinaciformis 与 C. raffrayi 的某些标本区分。触角 16 节；第 3—5 节可变，第 3 节通常最短。量度：全长 5.25—5.50；头长（连上颚）2.38—2.45；头长（不连上颚）1.57—1.65；头长（至囟点）1.39—1.54；头最大宽 1.28—1.32；头最小宽 0.73—0.80；后颏最小宽 0.25；前胸背板长 0.51—0.55；前胸背板宽 0.95—0.99。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Coptotermes dreghorni sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文。原文标题后 OCR 多一「..」。原文未描述工蚁，故不设工蚁节。模式系列采自活黑胡桃（Endiandra Palmerstoni）树干内的巢。"
+}

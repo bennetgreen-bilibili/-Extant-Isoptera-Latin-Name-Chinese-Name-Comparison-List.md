@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from the English species-level description in Hill (1942); the original describes only the soldier, records the alate as Not known and does not describe the worker. OCR problems: the original reads \"4. 50 -4.& 5\" for the total length, with the last digit defective, so only the lower limit of 4.50 mm is recorded; \"clvpeofrontal\" is an error for clypeofrontal; \"hent inwards\" is an error for bent inwards; \"The antennae ... segment smallest of all\" lacks \"3rd\"; \"lahrum\" is an error for labrum; \"ialgoo\" is Yalgoo (the type locality). Distribution and biology have not been translated into the morphology sections.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "A small species, closest to A. hartmeyeri; it differs in the sides and posterior part of the head being less rounded, the middle of the anterodorsal margin of the head distinctly more raised, and the mandibles much longer and distinctly bent inwards."
+  },
+  {
+   "label": "Alate",
+   "text": "Not recorded in the original (Not known)."
+  },
+  {
+   "label": "Soldier",
+   "text": "A small species. Antennae 15-segmented, segment 3 the smallest. In some individuals the labrum projects further than shown in Fig. 257. Measurements: total length (mandibles crossed at the teeth) more than 4.50 mm (the upper limit is defective in the original), head length (mandibles in the same position, including mandibles) 1.54—1.61 mm, head length (to clypeofrontal suture) 0.99—1.02 mm, head width 0.91—1.10 mm, pronotum length 0.25—0.27 mm, width 0.50 mm."
+  }
+ ]
+}

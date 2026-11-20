@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The alate is pale and, apart from A. perelegans and A. pavidus, can be distinguished from the other Australian species; it is distinctly larger than either of those two. The soldier is readily distinguished from the other Western Australian species by the shape of the mandibles and of the mandibular teeth."
+  },
+  {
+   "label": "Alate",
+   "text": "A pale yellowish brown species, the head tinged with darker brown, the postclypeus distinctly paler than the head. Ocelli large, broadly oval, close to the compound eyes. Fontanelle large. Antennae 15- or 16-segmented, usually 16; segment 3 very small, the smallest of all, almost always closely fused with the slightly larger segment 4; segment 6 smaller than segments 5 and 7. Measurements: length with wings 14.75—15.25 mm, length without wings 6.50—7.00 mm, head length (to apex of labrum) 1.28—1.32 mm, head length (to clypeofrontal suture) 0.55—0.69 mm, head width 1.17—1.19 mm, maximum diameter of compound eye 0.29—0.31 mm, ocellus length 0.17 mm, pronotum length 0.55 mm, width 1.02—1.06 mm, fore wing length 12.50—12.75 mm, width 3.65—3.90 mm."
+  },
+  {
+   "label": "Soldier",
+   "text": "A medium-sized species with a short, deep head and relatively short, stout mandibles. Labrum rather large, with parallel sides and a broadly rounded apex. Mandibular tooth well developed, hooked, situated about midway between the base and the apex of the mandible. Antennae 14- or 15-segmented; segment 3 or segment 4 the shortest. Measurements: total length 5.00—5.50 mm, head length (mandibles extended, including mandibles) 2.12—2.14 mm, head length (mandibles crossed at the tooth, including mandibles) 1.90—2.09 mm, head length (to clypeofrontal suture) 1.21—1.35 mm, head length (to apex of labrum) 1.61—1.83 mm, head width 1.13—1.21 mm, pronotum length 0.33—0.35 mm, width 0.69—0.75 mm."
+  }
+ ],
+ "note": "Rewritten from the English species-level description in Hill (1942); the original describes the alate and the soldier but not the worker (Silvestri's original account included the queen and the worker, which Hill did not repeat). OCR problems: the synonym lines \"Hamitermes obeuntie\" and \"Leuootermes clarhi (partun)\" should read obeuntis and Leucotermes clarhi (partim); \"Pigs.\" is an error for Figs.; \"dead, to apex of labrum\" should read head; \"1.6 l - 1.83\" is 1.61—1.83; \"5-50\" is 5.50; the + in the head width \"1.21+\" is a footnote symbol, not a value. Distribution and biology are not translated into the morphological sections."
+}

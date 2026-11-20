@@ -1,0 +1,25 @@
+{
+ "zh_name": "全武弓白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "小型的种，与哈特迈耶弓白蚁（A. hartmeyeri）最近缘；区别在于头两侧与后部较不圆，头的前背缘中部明显更隆起，上颚长得多且明显向内弯。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "原文未记载（Not known）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "小型的种。触角 15 节，第 3 节最小。某些个体的上唇比图 257 所示伸出更多。量度：全长（上颚于齿处交叉）4.50 mm 以上（原文上限残缺），头长（上颚姿势同上，含上颚）1.54—1.61 mm，头长（至额唇基缝）0.99—1.02 mm，头宽 0.91—1.10 mm，前胸背板长 0.25—0.27 mm、宽 0.50 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Hamitermes (Hamitermes) perarmatus (Silvestri)（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 英文种级描述改写；原文只描述兵蚁，有翅成虫记为 Not known，未描述工蚁。OCR 问题：全长原文本作「4. 50 -4.& 5」，末位数字残缺，故只录下限 4.50 mm；「clvpeofrontal」为 clypeofrontal 之误；「hent inwards」为 bent inwards 之误；「The antennae ... segment smallest of all」缺「3rd」；「lahrum」为 labrum 之误；「ialgoo」为 Yalgoo（模式产地）。分布与生物学未译入形态节。"
+}

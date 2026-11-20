@@ -1,0 +1,25 @@
+{
+ "zh_name": "长毛冢白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "小型种，头与腹几乎无毛。兵蚁头橙红棕，鼻突最深，触角橙黄；头后 2/3 背观球形，鼻突很长、略长于头其余部分的 2/3，基部较宽，向锐尖端均匀渐细；触角 13 节；上颚通常具尖齿。有翅成虫原文未记载。种间比较原文只作「See E. apiocephalus」，未在本种名下另述。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "小型种，头与腹几乎无毛。头橙红棕，鼻突最深，触角橙黄。头后 2/3（背观）为球形；鼻突很长，略长于头其余部分的 2/3，基部较宽，向锐尖端均匀渐细。头背在侧面观几乎直，或鼻突略向上翘。触角 13 节；第 1 节长而细；第 2 节约为第 1 节之半且明显较窄，圆柱形；第 3 节约与第 2 节等长但较窄；第 4 节远短于第 3、5 节；第 6—9 节约等长，长于第 5 节；第 10—12 节等长，短于第 13 节；第 13 节约与第 3 节等长，明显短于第 12 节。上颚通常具尖齿。\n量度：体长 3.00—3.75 mm；头长（至鼻突端）1.32—1.52 mm；头宽 0.66—0.80 mm；前胸背板宽 0.38—0.44 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头橙色，最宽处在前面，向半球形的后缘收窄。触角 14 节；第 2 节明显长于第 3 节；第 4 节全体最短。后唇基长约与宽相等。\n量度：体长 3.75—4.00 mm；头长（至上唇端）1.24 mm；头长（至额唇基缝）0.70 mm；头宽 0.95 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Eutermes comatus sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原书作 Eutermes comatus sp. nov.，模式产地 Magnetic Island（Qld）。有翅成虫原文记 'Not known'，故不列该节。Affinities 原文仅 'See E. apiocephalus'，未在本种下展开比较。OCR 误识：'hase'='base'、'hent up'='bent up'、'pro-notum' 断行为 pronotum、'3-75'='3.75'、'Eamiterrwes'='Hamitermes'、'Miorocerotermes'='Microcerotermes'、'apiooephalus'='apiocephalus'。"
+}

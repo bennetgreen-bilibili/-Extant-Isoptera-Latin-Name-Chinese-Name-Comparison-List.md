@@ -1,0 +1,13 @@
+{
+ "sections": [
+  {
+   "label": "Alate",
+   "text": "Slightly darker and usually a little larger than typical specimens of M. serratus. The posterior part of the pronotum is usually wider than in that species, but the character is not constant enough to be of diagnostic value (Fig. 352). Measurements (mm): length with wings 9.50—10.00; length without wings 5.00—5.50; head length (to apex of labrum) 1.08—1.10; head length (to clypeofrontal suture) 0.58—0.62; head width 0.91—0.93; maximum diameter of compound eye 0.25; ocellus length 0.10; pronotum length 0.44; pronotum width 0.69—0.73; fore wing length 7.25—8.00; fore wing width 2.09—2.16."
+  },
+  {
+   "label": "Soldier",
+   "text": "A medium-sized species with a long, narrow head and short, stout mandibles (Fig. 353). Closely related to M. distinctus, from which it differs in the relatively shorter and broader head and the longer, often more curved mandibles. Measurements (mm; the original gives two columns, \"type series / collected at Narrandera\"): body length 5.25—5.50 / 4.30—4.80; head length including mandibles 2.45—2.56 / 2.00—2.20; head length (to clypeal suture) 1.52—1.57 / 1.32—1.39; head width 0.93—0.95 / 0.80—0.82; pronotum length 0.29 / 0.26—0.29; pronotum width 0.66 / 0.55."
+  }
+ ],
+ "note": "Rewritten from the new-species description in Hill (1942); the original is in English. Measurements in mm; the soldier measurements are given in the original in two columns, \"type series / collected at Narrandera\", and are transcribed here as two sets of values. Distribution: New South Wales, 20 miles south-east of Griffith (type locality, the 32 km SE Griffith recorded in the checklist), Narrandera, Wagga Wagga, Young; Victoria, Bendigo, Charlton, Goschen, Gohuna, Echuca, Rochester, Cohram, Yarrawonga, Rutherglen, Wangaratta, Benalla, Tallarook, Mildura, Kiata, Linga. OCR problems: in the soldier measurement table \"lon S\" is a misreading of \"long\"; in the alate \"eyes, max. diameter 0.25'\" has a trailing apostrophe that is OCR noise."
+}

@@ -1,0 +1,17 @@
+{
+ "zh_name": "脱皮瘤突白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "与 M. percomis 极近缘，但显然为不同种。与后者之别为：头更大，复眼更大，囟披针形，触角 16 节；前胸背板更宽；翅与腹部背板多更深。触角第 1 节通常深色；第 3 节最小；第 4 节比第 3 节略长且宽；第 5、6 节等长；第 7 节比第 6 节略长；其余各节长而窄。头、胸、腹部毛很短（图 4、320）。量度（mm）：连翅体长 10.25；去翅体长 5.00—5.30；头长（至上唇端）1.21—1.24；头长（至额唇基缝）0.64—0.66；头宽 1.17—1.21；复眼最大直径 0.38—0.40；单眼长 0.18；前胸背板长 0.55—0.66；前胸背板宽 1.10—1.17；前翅长 8.00—8.30；前翅宽 2.30—2.60。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Mirotermes (Mirotermes) pelatus sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 新种描述改写，原文英文。分布：昆士兰 near Cunnamulla。仅据数头有翅成虫描述（疑为室内灯光诱集），正模存 C.S.I.R.；兵蚁与工蚁未见记载。量度单位 mm。OCR 问题：原文「3th and 6th equal」之「3th」为 5th 的误识，已按第 5、6 节等长转录；「G. S. I.R. Collection」为「C.S.I.R. Collection」之误识。"
+}

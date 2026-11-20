@@ -2,6 +2,8 @@
 
 站点 326 个属页：`_data/fauna_genera.json` 35 属、《中国动物志》改写；`_data/morphology_genera.json` 242 属、补充描述；两处均无条目者 **49 属**。
 
+> **2026-11-21 状态**：Allodontermes、Caribitermes、Hesperotermes、Ephelotermes（S0329）、Incolitermes（S0114）已写出属级条目，缺口由 49 降为 **44 属**；本文其余段落为 2026-11-19 的原始勘察记录。
+
 ## 总数
 
 - 缺属：49（Termitidae 47、Kalotermitidae 1、Hodotermitidae 1）

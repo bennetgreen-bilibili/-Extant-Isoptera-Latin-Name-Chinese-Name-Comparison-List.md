@@ -1,0 +1,25 @@
+{
+ "zh_name": "中等弓白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与食木弓白蚁（A. xylophagus）的区别在于头向前收窄更多，且触角通常少一节；与新芽弓白蚁（A. neogermanus）的区别在于头短得多、上颚也较短。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "原文未记载（Not known）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "小型的种，头淡黄色，上颚短粗，中部附近具一倒钩状齿。头较长而深，两侧微圆，中部最宽，后部宽圆，毛很少而较长。后颏宽（0.33）。上颚强弯，齿几乎与上唇端部在同一线上，基部三分之一橙黄色，端部三分之二铁锈色。上唇钝圆锥形，长稍短于基部宽。触角通常 14 节；第 4 节最短；在 15 节的触角中，第 3 节很短并与第 4 节紧密愈合；第 5 节约与第 4 节等长。量度：全长 4.25—4.60 mm，头长（含上颚）1.68—1.83 mm，头长（至额唇基缝）1.06—1.13 mm，头宽 0.99—1.06 mm，前胸背板长 0.29—0.31 mm、宽 0.64—0.73 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Hamitermes (Hamitermes) modicus sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 英文种级描述改写；原文只描述兵蚁，有翅成虫记为 Not known，未描述工蚁。OCR 问题：标题行作「Ham itermes (Homitermes ) modicus」；「Pig.」为 Fig. 之误；「sth」为 5th 之误；头长（至上唇端）原文本作「1.50 - I.」，后一数值 OCR 残缺，故该量度未录入，待核。模式产地 New South Wales: Griffith 与清单一致。分布与生物学未译入形态节。"
+}

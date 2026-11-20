@@ -1,0 +1,25 @@
+{
+ "zh_name": "棕角胄白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫可依体型较大与具大型触角斑与维多利亚胄白蚁（S. victoriensis）区分；现有材料中未找到可靠特征以区分本种兵蚁与该种的某些个体。另见昆士兰胄白蚁（S. queenslandicus）。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "暗褐色；触角基节、口器、额中部一不规则区域、足、前胸背板前侧二区与中央一较大区域暗草黄色（dark buff）。头圆，毛少，额具大而不规则的凹。额斑明显。中缝与横缝清晰。触角 16 节；第 3、4、5 节变异很大：第 3、4 节很小、等长且愈合，或第 3 节明显小于第 4 节而第 4 节有时大于第 5 节，或第 3—7 节依次渐长。复眼近球形。前胸背板前缘宽而浅凹，两侧圆并稍收窄，后缘宽而微凹；前缘具中等密度的短毛缘缨，其余部分毛较长而稀。翅暗烟色；脉至末端均清晰；径脉伸至径分脉第一分支；径分脉 7 支达前缘；中脉行于翅前三分之一，5 支达后缘，其中部分分支；肘脉约终止于翅中部，5 支。中、后胸背板后缘很宽，直或微凹。胫节距 3:3:2。尾须 4 节。量度：连翅长 13.00 mm（Hagen），不连翅长 8.00 mm，头长（至上唇端）1.65—1.76 mm，头长（至额唇基缝）1.17—1.24 mm，头宽 1.50—1.61 mm，复眼最大直径 0.33—0.36 mm，前胸背板长 0.62—0.73 mm、宽 1.10—1.24 mm，前翅长 10.40 mm、宽 3.30 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头镉黄色，前部稍暗；上唇、触角与下颚须颜色同头中部；上颚基部同头前部，端部三分之一暗铁锈色；复眼多少着色；胸、腹奶油色。头形可变，常两侧近平行，有时两侧加宽，或前部稍加宽或收窄。触角 15—17 节；第 3 节、有时第 4 节很小且紧密愈合，第 4 节通常稍长于第 3 节。上唇大，基部最宽，向钝锥形端部稍收窄。后颏长而窄，最窄处约为头宽的十分之一。左上颚端半具二大齿与一小齿，后者与大而显著的臼齿相距很远；右上颚端半具二大齿与一大的基部臼齿。前胸背板前、后缘均宽而浅凹，两侧向后缘倾斜，毛稀少而中等大，主要位于边缘。中、后胸背板后缘宽截；翅芽毛中等多，其余部分毛少。足短而粗，毛少。胫节距 3:3:2。量度：全长 9.25—10.00 mm，头长（至颚端）3.85—4.36 mm，头长（至唇基缝）2.56—3.06 mm，头宽 1.76—1.90 mm，前胸背板长 0.58—0.77 mm、宽 1.06—1.35 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Stolotermes brunneicornis (Hagen)（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 英文种级描述改写；原文描述有翅成虫与兵蚁，未描述工蚁。学名沿革：Hagen 1858 年置于 Hodotermes (Stolotermes)，此后 Froggatt、Desneux、Holmgren、Mjöberg 均用 Stolotermes brunneicornis；Froggatt 1905、1915 两条误系于 Brauer。OCR 问题：标题作「Stolotermes brunneieornis」；异名表多处作「brunneicomis」；「Btoloteriwes」为 Stolotermes；「mouth pans」为 mouth parts；「sth」为 5th；「arid」为 and；「snaller」为 smaller；「medial]」为 median；「Slightly」前有 OCR 杂符；「l/lO」为 1/10；「3*30」「4*36」为 3.30、4.36；「Pig. 10」为 Fig.；「queen standi oils」为 queenslandicus；「vietoriensis」为 victoriensis。模式产地 Tasmania（Bruni Island / Adventure Bay 等）与清单一致。分布与生物学（仅见于潮湿处腐木）未译入形态节。"
+}

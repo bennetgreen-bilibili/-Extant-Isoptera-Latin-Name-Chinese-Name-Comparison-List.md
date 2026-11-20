@@ -1,0 +1,21 @@
+{
+ "zh_name": "易识锯白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "几乎全为很暗的褐色；后唇基比头略浅；跗节浅黄褐色；翅暗烟色。与 M. biroi 之别在于色更深（尤其足与腹面）、跗节较浅、体型较小；与所有大陆种之别在于色更深，且跗节与足其余部分颜色对比明显（图 332）。量度（mm）：连翅体长 9.40—10.50；去翅体长 4.50—5.60；头长（至上唇端）0.91—1.06；头长（至额唇基缝）0.57—0.64；头宽 0.85—0.88；复眼最大直径 0.18—0.22；单眼长 0.07—0.09；前胸背板长 0.40—0.45；前胸背板宽 0.73；前翅长 7.75—8.40；前翅宽 1.88—2.05。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头橙至橙红褐色，常前部最深。头（图 333）长与宽之比例很大。上颚远短于头壳，很粗壮，两侧直，端部急内弯，端部相当钝。额微凸、分界明显，在额唇基缝附近具一个小而相当明显的中央凹。以长而窄的头与短粗的上颚易与其他种区别。量度（mm）：体长 5.10—7.75；头连上颚长 2.45—2.86；头长（至唇基缝）1.72—1.96；头宽 0.87—0.98；前胸背板长 0.31—0.36；前胸背板宽 0.58—0.66。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Microcerotermes distinctus Silvestri（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原描述出自 Silvestri 1909（Fauna Südwest-Australiens）。量度单位 mm。分布：西澳 Coolgardie（模式产地）、Kalgoorlie、G-hooli（OCR 残缺，地点名不全）、Merredin、Northam、Wongan Hills、Seabrook、Mundaring、Hovea、Jigalong、Derby、Wyndham；南澳 Normanville、Cambrai；维多利亚 Linga；新南威尔士 Menindie；昆士兰 Cunnamulla、Morven。模式标本：兵蚁正模存斯德哥尔摩自然历史博物馆，有翅成虫形态模存南澳博物馆。OCR 问题：「Ringed adult」为「Winged adult」之误识；「Pronotum, wide - 0.73」原文仅给单值。"
+}

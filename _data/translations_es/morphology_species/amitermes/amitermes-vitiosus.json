@@ -1,0 +1,17 @@
+{
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El alado es afín a A. dentosus y A. darwini; es claramente mayor que los individuos típicos del primero y tiene 1 artejo antenal más, y algo mayor que el segundo, con 1 artejo antenal más por lo general. El soldado es menor y más oscuro que el de A. darwini, con mandíbulas más cortas y relativamente robustas."
+  },
+  {
+   "label": "Alado",
+   "text": "Afín a A. dentosus y A. darwini (véanse las comparaciones en esas especies). Medidas (colonia tipo): longitud con alas 12.75—14.00 mm, longitud sin alas 6.60—8.00 mm, longitud de la cabeza (hasta el ápice del labro) 1.50—1.70 mm, longitud de la cabeza (hasta la sutura clipeofrontal) 0.73—0.84 mm, ancho de la cabeza 1.34—1.40 mm, diámetro máximo del ojo compuesto 0.33 mm, longitud del ocelo 0.11—0.14 mm, longitud del pronoto 0.66—0.73 mm, ancho 1.23—1.36 mm, longitud del ala anterior 10.75—11.25 mm, ancho 3.00—3.30 mm."
+  },
+  {
+   "label": "Soldado",
+   "text": "Especie muy variable, cabeza naranja oscuro. Lados de la cabeza ligeramente redondeados, la parte posterior ampliamente redondeada. Mandíbulas por lo general moderadamente cortas y robustas, claramente más cortas que la cápsula cefálica; el diente mandibular algo más cerca de la base que del ápice, no claramente en forma de gancho (en algunas series de Queensland todos los individuos o parte de ellos tienen mandíbulas más estrechas). Antenas de 15 artejos; el artejo 3 el más pequeño. Medidas (colonia tipo): longitud total 4.50—4.60 mm, longitud de la cabeza (incluidas las mandíbulas) 2.18—2.25 mm, longitud de la cabeza (hasta la sutura clipeofrontal) 1.06—1.28 mm, longitud de la cabeza (hasta el ápice del labro) 1.58—1.72 mm, ancho de la cabeza 1.10—1.18 mm, ancho del postmentón 0.29—0.33 mm, longitud del pronoto 0.36—0.44 mm, ancho 0.73—0.81 mm."
+  }
+ ],
+ "note": "Adaptado de la descripción específica de Hill (1942), cuyo original está en inglés; el original describe el alado y el soldado, y la obrera solo se enumera como morfotipo sin descripción. Las medidas originales forman una tabla de tres a cuatro columnas (colonia tipo, un ejemplar único de Roper River, N.T., Homestead, Q., y la tabla del soldado incluye además una serie pequeña 3.25—4.00 mm); esta entrada toma solo la columna de la colonia tipo. La tabla está muy desalineada de filas y columnas por el OCR (por ejemplo, la fila del ancho de la cabeza \"1.34 I*4o I*37 1*43 1.21\" se lee como tres columnas 1.34—1.40 / 1.37—1.43 / 1.21), y las columnas restantes no se registran, pendientes de verificación. OCR además: el nombre del género aparece como Hcmitermes, la línea de sinonimia como Hmitermes; \"Porewing\" es Forewing; \"sth\" es 5th. La distribución y la biología no se traducen en la sección de morfología."
+}

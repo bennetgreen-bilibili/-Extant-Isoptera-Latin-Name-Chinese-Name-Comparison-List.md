@@ -1,0 +1,21 @@
+{
+ "zh_name": "亚当森洞白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "中型浅褐色种，头比胸、腹与足深，翅脉与足同色，翅膜较浅、明显呈网纹。头大、圆（图 19）。复眼相对小（最大径约 0.40—0.50）。触角长而细，15—18 节。径脉具 1 或 2 支，径分脉 6 支以上；中脉行经翅前三分之一，具数支；肘脉 10 支以上。前胸背板肾形，约与头等宽，长约与宽之半相等。胫距多变：前足 3 枚、中足 3 或 4 枚、后足 2、3 或 4 枚。量度（mm）：连翅体长 14.25—17.75；去翅体长 8.00—11.00；头长（至上唇端）1.82—2.36；头宽 1.67—1.96；前胸背板长 0.74—0.92；前胸背板宽 1.40—1.92。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "大型至很大型；头平，长大于宽，两侧或圆或近于平行，或前部略微加宽（图 20）。上颚黑色、很粗壮，约为头长的三分之一。触角 15—18 节。前胸背板宽于头之半，长约与宽之半相等，多少呈半圆形。前足胫节 3 枚距，中足 2、3 或 4 枚，后足 2 或 3 枚。量度（mm）：体长 9.50—15.00；头连上颚长 3.36—7.00；头宽 1.82—4.00；前胸背板长 0.74—1.53；前胸背板宽 1.20—2.90。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Porotermes adamsoni (Froggatt)（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原组合为 Calotermes adamsoni Froggatt, 1896（OCR 多作 Proggatt），标题作 Porotermes adamsoni (Froggatt)。量度单位 mm。分布：新南威尔士东部（模式产地 Uralla）、澳大利亚首都直辖区、维多利亚南部与东部（西至 Castlemaine）、昆士兰 Mt. Tambourine、塔斯马尼亚、南澳 Belair 与 Kangaroo Island。原文强调本种以变异极大著称，尤其兵蚁头的大小与形状：大型兵蚁见于维多利亚 Otway Forest、Korumburra 及首都直辖区山地，后一地区同一巢内常见极端变异。异名：Porotermes grandis Holmgren、P. froggatti Holmgren（nomen nudum 及后来的异名）。原文记本种在桉属林木的破坏上于澳大利亚东南部与塔斯马尼亚无出其右，寄主树种列有 Eucalyptus gigantea、E. longifolia、E. fastigata、E. viminalis、E. rubida、E. radiata、E. stellulata、E. Dalrympleana、E. macrorrhyncha、E. microcorys、E. polyanthemos、E. melliodora、E. coriacea、E. maculosa、E. Muelleriana、E. regnans、E. obliqua、E. pilularis、E. dives 及 Pinus radiata 等。OCR 问题：属名作 Proggatt／Pore tibiae（后足胫节）等误识；兵蚁「head., to apex of mandibles」中逗号为噪声；「9*50」「3*36」中的星号为小数点误识，读作 9.50、3.36。"
+}

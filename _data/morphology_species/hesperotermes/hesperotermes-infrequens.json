@@ -1,0 +1,25 @@
+{
+ "zh_name": "罕见西澳白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "有翅成虫可依体型小与澳洲南部其他种区分。兵蚁与任何已知种都明显不同，最显著的鉴别特征是平截而收窄的头、极退化的额瘤与侧扁的后颏。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "小型的种，头暗草黄色，后唇基色较淡，翅淡烟褐色。复眼小、较突出。单眼宽卵形，内缘隆起，距复眼约其宽度之半。后唇基宽稍大于长之半。囟线状，具次裂，长于单眼。触角 15 节；第 3 节很短而窄；第 4 节长、宽约与第 6 节同；第 5 节大于第 3 节，但小于第 4、6 节。前胸背板窄于头，前缘近直，两侧圆，后缘宽圆而无凹缺。中、后胸背板后缘深而锐地凹缺。量度：连翅长 7.50 mm，不连翅长 4.00 mm，头长（至上唇端）0.86—0.91 mm，头长（至额唇基缝）0.52 mm，头宽 0.76 mm，复眼最大直径 0.18 mm，单眼长 0.09 mm，前胸背板长 0.34—0.36 mm、宽 0.57—0.60 mm；原文另记体长 7.50 mm、腹宽 2.50 mm。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "很小的种，头赭色，额面垂直，额瘤很小。头前部最宽，侧面观背面明显而不规则地凹入；额瘤几乎不突出于额面，稍向上弯，深色。下颊延长成一短而粗的尖，形状似额瘤。上唇大，前角明显扩展。后颏前部宽，后部窄而成脊状。触角 14 节；第 2 节约为第 1 节之半；第 3 节比第 2 节短约五分之一；第 4 节最短最窄。量度：全长 4.00 mm，头长（含上颚，上颚完全伸展）2.16 mm，头长（至额瘤端）0.98—1.08 mm，头宽 0.84—0.87 mm，前胸背板长 0.22 mm、宽 0.40—0.42 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Mirotermes (Mirotermes) infrequens Hill（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 英文种级描述改写；原文描述有翅成虫与兵蚁，工蚁仅列为形态型（morphotype）而未作描述。OCR 问题：标题种加词作大写「Infrequens」；「Pig. 297」为 Fig.；「Meloourne」为 Melbourne；「dark hay head」为 hay 色（干草黄）；「sth」为 5th；「Hea,d」「Lab rum」断字；「toxapex」为 to apex；「type locality'」撇号为 OCR 误符；有翅成虫量度后另有一行「Total length 7.50; width of abdomen 2.50.」位置错乱，已单列。分类疑点：Hill 记模式产地为「Wongong」，清单作「Wungong」（今西澳 Wungong），拼写不符，需主控复核。分布（Wongong、Ludlow、Armadale）与生物学未译入形态节。"
+}

@@ -1,0 +1,25 @@
+{
+ "zh_name": "尼科尔斯冢白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "小型种，头暗褐，胸与腹为较淡的褐，触角 13 节。与 E. mareebensis 很近，区别为：头略大、收缩较轻，侧面观背面凹；鼻突很细，较窄，端半较基半色淡；触角节较长较淡；胸与腹部背板较深。上颚无尖齿。有翅成虫原文未记载。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "小型种，头暗褐，胸与腹为较淡的褐，触角 13 节。与 E. mareebensis 很近，区别为：头略大、收缩较轻，侧面观背面凹；鼻突很细，较窄，端半较基半色淡；触角节较长较淡；胸与腹部背板较深。触角第 1 节长而细；第 2 节约为第 1 节之半；第 3 节与第 1 节等长，基部明显变窄；第 4 节略短于第 2 节，全体最短；第 5 节短于第 6 节；第 6—12 节长而窄；第 13 节短于第 12 节。上颚无尖齿。鼻突约为头其余部分的 3/4。\n量度：体长 2.86—3.48 mm；头长（至鼻突端）1.39—1.46 mm；头宽 0.59—0.62 mm；前胸背板宽 0.36 mm。"
+  },
+  {
+   "label": "工蚁",
+   "text": "头背面为一致的暗褐，缝很清楚；后唇基、前胸背板与腹部背板略淡。触角 15 节；第 3 节通常全体最短。后唇基长略大于宽之半。\n量度：体长 4.00 mm；头长（至上唇端）1.39 mm；头长（至额唇基缝）0.80 mm；头宽 1.06 mm；前胸背板宽 0.60 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Eutermes nichollsi sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原书作 Eutermes nichollsi sp. nov.（标题行 OCR 作 'Eutermes niohollsi'），模式产地 Yalgoo（WA），种名献给 Aubrey G. Nicholls。有翅成虫原文记 'Not known'，故不列该节。OCR 误识：'Pigs.'='Figs.'、'sth'/'6th' 混用为第 5/6 节、'?/ide'='wide'、'clypeof rontal'='clypeofrontal'、'C.S.I.E.'='C.S.I.R.'、'undeseribed'='undescribed'。"
+}

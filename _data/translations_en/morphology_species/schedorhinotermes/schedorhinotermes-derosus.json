@@ -1,0 +1,17 @@
+{
+ "note": "Adapted from Hill's (1942) species-level description, the original in English. The heading line OCRs the genus as 'Bhinotermes' and the specific epithet as 'derosns' (i.e. derosus), and the 1933 literature line also reads 'derosns'. The minor-soldier measurements are single values in the original (5.40, 2.00, 1.11, 1.03, 0.30, 0.55, 0.87) and form no range; they are transcribed as they stand.",
+ "sections": [
+  {
+   "label": "Diagnostic characters",
+   "text": "The original (Hill 1942) treated it as a subspecies of Rhinotermes (Schedorhinotermes) intermedius, the heading in the OCR reading Rhinotermes (Schedorhinotermes) intermedins derosus Hill; the 1933 original description is already as a subspecies, the type locality Derby, Western Australia. The alate resembles R. actuosus but is smaller. The major soldier resembles R. actuosus, but the posterior part of the head is wider, the postmentum usually wider, most antennal segments slightly longer and segment 3 distinctly longer; the minor soldier is larger than in R. actuosus, with longer antennal segments, segment 3 distinctly longer, and the postmentum usually wider. The original notes that examination of material from a wider range of localities may show the species to be conspecific with R. actuosus."
+  },
+  {
+   "label": "Alate",
+   "text": "Similar to R. actuosus but smaller. Measurements: length with wings 12.00—12.50; length without wings 6.75—7.00; head length (to apex of labrum) 1.54; head length (to clypeofrontal suture) 1.06—1.18; head width 1.38—1.46; maximum diameter of compound eye 0.40 (given as 'C. 40' in the original OCR); ocellus length 0.16—0.18; pronotum length 0.69—0.72; pronotum width 1.17—1.25; forewing length 8.50; forewing width 2.67."
+  },
+  {
+   "label": "Soldier",
+   "text": "Major: similar to R. actuosus. Posterior part of the head wider, the postmentum usually wider, most antennal segments slightly longer, segment 3 distinctly longer. Minor: larger than in R. actuosus, the antennal segments longer, segment 3 distinctly longer, the postmentum usually wider; the right mandible sometimes with a very reduced small tooth between the large tooth and the base. Measurements (major / minor): total length 7.00—7.50 / 5.40; head length (including mandibles) 2.33—2.66 / 2.00; head length (to posterior margin of fontanelle) 1.66—1.77 / 1.11; head width 1.85—2.00 / 1.03; minimum postmentum width 0.29—0.37 / 0.30; pronotum length 0.74—0.81 / 0.55; pronotum width 1.18—1.42 / 0.87."
+  }
+ ]
+}

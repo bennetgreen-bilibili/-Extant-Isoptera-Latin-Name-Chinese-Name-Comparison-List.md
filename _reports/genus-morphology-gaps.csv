@@ -1,4 +1,4 @@
-﻿url,latin,zh,family,type_species,citation,nrefs,library_hits,route
+url,latin,zh,family,type_species,citation,nrefs,library_hits,route
 /genus/allodontermes/,Allodontermes,奇齿白蚁属,termitidae,"Termes schultzei Silvestri, 1908 by original designation.","Allodontermes Silvestri, 1912b: 2 [first introduced as a subgenus of Termes Linnaeus, 1758].",25,HOLM:2 BEL:8 FAUNA:1,已写（BHL/IA 属级描述）
 /genus/antillitermes/,Antillitermes,安的列斯白蚁属,termitidae,"Parvitermes subtilis Scheffrahn and Křeček, 1993 by original designation.","Antillitermes Roisin et al., 1996: 783.",3,,按原始文献查（BHL / 出版社 / 馆际）
 /genus/apolemotermes/,Apolemotermes,和平白蚁属,termitidae,,,0,,先补原始文献出处（GBIF/COL/BSF）
@@ -15,7 +15,7 @@
 /genus/ephelotermes/,Ephelotermes,棒颚白蚁属,termitidae,"Ephelotermes melachoma Miller, 1991 by original designation.","Ephelotermes Miller, 1991: 1178–1180.",4,,已写（S0329 Bourguignon et al. 2008 属级 Diagnosis）
 /genus/hapsidotermes/,Hapsidotermes,络白蚁属,termitidae,"Mirotermes maideni Mjöberg, 1920 by original designation.","Hapsidotermes Miller, 1991: 1242–1244.",3,,按原始文献查（BHL / 出版社 / 馆际）
 /genus/hesperotermes/,Hesperotermes,西澳白蚁属,termitidae,"Mirotermes infrequens Hill, 1927 by original designation.","Hesperotermes Gay, 1971a: 20–21.",3,,已写（BHL/IA 属级描述）
-/genus/incolitermes/,Incolitermes,子民白蚁属,termitidae,"Hamitermes (Ahamitermes) pumilus Hill, 1942: by original designation.","Incolitermes Gay, 1966: 41.",4,FAUNA:2,按原始文献查（BHL / 出版社 / 馆际）
+/genus/incolitermes/,Incolitermes,子民白蚁属,termitidae,"Hamitermes (Ahamitermes) pumilus Hill, 1942: by original designation.","Incolitermes Gay, 1966: 41.",4,FAUNA:2,已写（S0114 Hill 1942 pp.361–362 亚属 Ahamitermes 定义；现属界定见 Gay 1966，未读原文）
 /genus/invasitermes/,Invasitermes,闯白蚁属,termitidae,"Invasitermes inermis Miller, 1984 by original designation.","Invasitermes Miller, 1984a: 33.",3,,按原始文献查（BHL / 出版社 / 馆际）
 /genus/kaudernitermes/,Kaudernitermes,考登白蚁属,termitidae,"Eutermes kaudernianus Sjöstedt, 1914 by original designation.","Kaudernitermes Sands and Lamb, 1975: 190–191.",1,,按原始文献查（BHL / 出版社 / 馆际）
 /genus/koutabatermes/,Koutabatermes,库塔巴白蚁属,termitidae,,,0,,先补原始文献出处（GBIF/COL/BSF）

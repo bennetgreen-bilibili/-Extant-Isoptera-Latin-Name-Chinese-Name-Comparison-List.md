@@ -1,0 +1,25 @@
+{
+ "zh_name": "中间异白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "原文（Hill 1942）把 1932 年 Hill 所描述的 Heterotermes intermedius（模式产地西澳卡尔古利附近）作为 Heterotermes paradoxus 的亚种处理，标题作 Heterotermes paradoxus intermedius；《国际动物命名法规》意义上与 Light 1933 年的同名种冲突，故 Hill 1942 改以亚种名相称。有翅成虫与典型亚种的区别在于头、复眼与前胸背板较小，翅通常较长较暗，中胸背板后缘较窄且凹入较深；兵蚁除后颏宽度与触角节数外与典型亚种相同。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "与典型亚种（H. paradoxus paradoxus）的区别是头、复眼（直径 0.18—0.20）与前胸背板较小，翅通常较长且较暗，中胸背板后缘较窄并凹入较深。具单眼。触角 16—18 节。量度：具翅长 10.00—10.50；去翅长 4.50—5.50；头长（至额唇基缝）0.73—0.79；头宽 0.80—0.85；前胸背板长 0.44—0.48；前胸背板宽 0.69；前翅长 8.00—8.75；前翅宽 2.00—2.16。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "与典型亚种相同，但后颏恒为 0.18 宽，触角由 16 或 17 节组成（原文 OCR 作「16 or 7.7 segments」，7.7 显为 17 之误）（Fig. 69）。量度：全长 5.00；头长（连上颚）2.67—2.81；头长（至额唇基缝）1.65；头宽 0.95—1.00；前胸背板长 0.38—0.48；前胸背板宽 0.72—0.83。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Heterotermes paradoxus intermedius Hill（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文。本书把该种作为 H. paradoxus 的亚种（Heterotermes paradoxus intermedius）处理，1932 年原描述的种名 Heterotermes intermedius 因与 Light 1933 年同名种冲突而不再作种名使用；条目按现行种级处理（Heterotermes intermedius），形态内容仍取自原文亚种描述。原文未在此处重述工蚁，故不设工蚁节。"
+}

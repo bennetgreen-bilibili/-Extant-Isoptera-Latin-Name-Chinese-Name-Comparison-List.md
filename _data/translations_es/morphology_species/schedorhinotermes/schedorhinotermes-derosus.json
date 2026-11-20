@@ -1,0 +1,17 @@
+{
+ "note": "Adaptado de la descripción de Hill (1942) a nivel de especie, original en inglés. La línea del encabezado figura en el OCR con el género como 'Bhinotermes' y el epíteto específico como 'derosns' (es decir, derosus), y la línea bibliográfica de 1933 también dice 'derosns'. Las medidas del soldado menor son valores únicos en el original (5.40, 2.00, 1.11, 1.03, 0.30, 0.55, 0.87) y no forman intervalo; se transcriben tal como figuran.",
+ "sections": [
+  {
+   "label": "Caracteres diagnósticos",
+   "text": "El original (Hill 1942) la trató como subespecie de Rhinotermes (Schedorhinotermes) intermedius, con el encabezado en el OCR como Rhinotermes (Schedorhinotermes) intermedins derosus Hill; la descripción original de 1933 ya es como subespecie, con localidad típica en Derby, Australia Occidental. El alado se parece a R. actuosus pero es menor. El soldado mayor se parece a R. actuosus, pero la parte posterior de la cabeza es más ancha, el postmentón por lo general más ancho, la mayoría de los artejos antenales algo más largos y el artejo 3 claramente más largo; el soldado menor es mayor que en R. actuosus, con artejos antenales más largos, artejo 3 claramente más largo y postmentón por lo general más ancho. El original señala que el examen de material de una gama más amplia de localidades podría mostrar que la especie es conespecífica con R. actuosus."
+  },
+  {
+   "label": "Alado",
+   "text": "Similar a R. actuosus pero menor. Medidas: longitud con alas 12.00—12.50; longitud sin alas 6.75—7.00; longitud de la cabeza (hasta el ápice del labro) 1.54; longitud de la cabeza (hasta la sutura clípeo-frontal) 1.06—1.18; anchura de la cabeza 1.38—1.46; diámetro máximo del ojo compuesto 0.40 (en el OCR del original figura como 'C. 40'); longitud del ocelo 0.16—0.18; longitud del pronoto 0.69—0.72; anchura del pronoto 1.17—1.25; longitud del ala anterior 8.50; anchura del ala anterior 2.67."
+  },
+  {
+   "label": "Soldado",
+   "text": "Mayor: similar a R. actuosus. Parte posterior de la cabeza más ancha, postmentón por lo general más ancho, la mayoría de los artejos antenales algo más largos, artejo 3 claramente más largo. Menor: mayor que en R. actuosus, artejos antenales más largos, artejo 3 claramente más largo, postmentón por lo general más ancho; la mandíbula derecha a veces con un diente pequeño muy reducido entre el diente grande y la base. Medidas (mayor / menor): longitud total 7.00—7.50 / 5.40; longitud de la cabeza (con mandíbulas) 2.33—2.66 / 2.00; longitud de la cabeza (hasta el margen posterior de la fontanela) 1.66—1.77 / 1.11; anchura de la cabeza 1.85—2.00 / 1.03; anchura mínima del postmentón 0.29—0.37 / 0.30; longitud del pronoto 0.74—0.81 / 0.55; anchura del pronoto 1.18—1.42 / 0.87."
+  }
+ ]
+}

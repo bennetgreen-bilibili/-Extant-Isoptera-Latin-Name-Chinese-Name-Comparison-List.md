@@ -1,0 +1,25 @@
+{
+ "zh_name": "北方小脊突白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "最大的种之一。与孤儿络白蚁（H. orbus）最近缘（Hill 在后者条目下作比较），区别为上唇很大、前部明显加宽、前侧角强烈发达，侧瘤缺。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "原文未记载（Not known）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头与触角橙红色，上唇黄赭色。头两侧平行，后缘平截。额瘤在同一系列内亦有变异，但总是短、宽而钝；侧瘤缺。触角 14 节；第 2 与第 4 节或短于、或长于第 3 节。上唇很大，前部明显加宽，前侧角强烈发达。量度：全长 7.00 mm（上颚完全伸展），头长（含上颚）3.96 mm，头长（至额瘤端）1.72—1.83 mm，头宽 1.24—1.36 mm，前胸背板长 0.42—0.44 mm、宽 0.84 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Mirotermes (Mirotermes) septentrionalis Hill（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 英文种级描述改写；原文只描述兵蚁，有翅成虫记为 Not known，工蚁仅列为形态型（morphotype）而未作描述。原文该条目无独立 Affinities 段，鉴别要点所据比较见孤儿络白蚁（H. orbus）条目的 Affinities。OCR 问题：标题作「septentrional is」；「Not -known」；「Pig. 312」为 Fig.；「comers」为 corners；「1.72 1.83」「1.24- - 1.36」断行错位，按 1.72—1.83、1.24—1.36 录。条目跨分卷：正文在 part-004 末，Distribution/Biology 之后余文（含 Types）在 part-005 开头。模式产地 Northern Territory: Darwin 与清单一致。分布（Darwin、Stapleton、Brock's Creek）与生物学（四组已知系列中三组取自他种白蚁废弃巢壁，余一组取自桉树基部的巢）未译入形态节。"
+}

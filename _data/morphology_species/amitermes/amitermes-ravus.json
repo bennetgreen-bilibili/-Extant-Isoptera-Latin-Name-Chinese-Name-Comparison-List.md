@@ -1,0 +1,25 @@
+{
+ "zh_name": "茶色弓白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与达尔文弓白蚁（A. darwini）最近缘；区别在于头较深、头顶更圆，上唇较短较窄，上颚形状相似但颚齿略呈倒钩状，后颏通常明显较宽。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "原文未记载（Not known）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "头较深，头顶较圆；上唇较短较窄；上颚与达尔文弓白蚁形状相似，但颚齿略呈倒钩状。后颏通常明显较宽：极小个体最狭处宽 0.33 mm，普通与大形个体约 0.40 mm；达尔文弓白蚁后颏最大宽度为 0.33 mm。触角 15 节；第 3 节最小，常与第 4 节紧密愈合；第 5 节短于第 4、6 节；或第 4 节有时小于第 3 节，第 3 与第 5 节约等。量度（模式群体中最小与最大个体）：全长 4.00—5.50 mm，头长（含上颚）1.98—2.49 mm，头长（至额唇基缝）1.02—1.39 mm，头长（至上唇端）1.14—1.90 mm，头宽 1.04—1.39 mm，前胸背板长 0.33—0.42 mm、宽 0.62—0.84 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Hamitermes (Hamitermes) ravus sp. nov.（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 英文种级描述改写；原文只描述兵蚁，有翅成虫记为 Not known，未描述工蚁（模式群体含工蚁但无形态记述）。OCR 问题：标题及属名作「Eamitermes」（Hamitermes）；后颏宽度「o.l+o」残缺，按字形与前后文判读为 0.40 mm，存疑；头长（至上唇端）「1.1+4 - 1.90」按 1.14—1.90 录；「sth」为 5th。量度原文注明系模式群体中最小与最大个体，多数标本略小于最大值。模式产地 Queensland: Rollingstone 与清单一致。"
+}

@@ -1,0 +1,25 @@
+{
+ "zh_name": "哈特迈耶弓白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "与近缘的全武弓白蚁（A. perarmatus）和异颚弓白蚁（A. heterognathus）显然易于区分。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "原文未记载（Not known）。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "小型的种，头赭色、宽卵形、深。上颚铁锈色，长约一头壳长的三分之一，外缘近直，端部微内弯，中部具一长而尖、指向前方的大齿。触角 15 节；第 3 节最短最窄，与第 4 节紧密愈合；第 4、5 节约等大，明显小于第 6 节。量度：全长 3.50—3.75 mm，头长（上颚于齿处交叉，含上颚）1.46 mm，头长（至额唇基缝）1.10 mm，头宽（0.91）1.10 mm，前胸背板长 0.29 mm、宽 0.64 mm。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Hamitermes (Hamitermes) hartmeyeri (Silvestri)（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 英文种级描述改写；原文只描述兵蚁，有翅成虫记为 Not known，未描述工蚁。OCR 问题：全长作「3-50 - 3-75」（按 3.50—3.75 录）、「head, wide (0.9 l) 1.10」括号内数值 OCR 残缺（按 0.91 录，存疑）；「Pig.」为 Fig. 之误；异名行「Monodont ermes」为 Monodontermes 断字。Silvestri 模式标本情况原文称不详。分布与生物学未译入形态节。"
+}

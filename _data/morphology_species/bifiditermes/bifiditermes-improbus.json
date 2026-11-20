@@ -1,0 +1,21 @@
+{
+ "zh_name": "不诚双裂白蚁",
+ "sections": [
+  {
+   "label": "鉴别要点",
+   "text": "自一份不完整标本描述，此后采集未再确认。Brauer（1868）记于新西兰的 C. improbus 实为 C. brouni，并非本种；Desneux（1904）亦持此说。"
+  },
+  {
+   "label": "有翅成虫",
+   "text": "据 Emerson 1927 年在柏林博物馆代为检查模式标本的记录：两只有翅成虫，总标签「improbus Hagen + Van Diem. Schayer」。(i) 针号 2742（正模），仅存头与前胸背板，其余部分被虫蛀食：前胸背板长 1.19 mm，复眼直径 0.45 mm，单眼距复眼 0.11 mm，头宽 1.58 mm。(ii) 针号 4052，标签「Austral. Daewel（拼写存疑）」：头宽 1.68 mm，复眼直径 0.50 mm，单眼儿相接触，前胸背板长 1.13 mm；Emerson 认为该标本与本种正模几乎可肯定是不同种。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Calotermes (subgen. ?) improbus Hagen（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 英文条目改写；原文此条无独立的 Winged adult / Soldier / Worker 描述节，只有异名表（Hagen 1858 起至 Froggatt 1915 共 8 条）与模式标本说明，本条目所据全是 Emerson 的量度记录，故只能给出模式标本残存部分的量度。若按「仅有名录与说明者记 mention」的口径，本条可降级为 mention，请主控裁定。OCR 问题：属名首行作「Calotermes」而正文作「C.」；「Linn. Ent om.」为 Linn. Entom.；「Desneux, Gen. Insectorum」前作「Calotermes improuus nagen」，即 improbus Hagen；「Proggatt」为 Froggatt；「Agric. G-az.」为 Agric. Gaz.；「Taanania」为 Tasmania；Emerson 引文中「diam. of eye: .45」「L. of pronotum 1,13」等小数写法照录（.45 即 0.45）。模式产地 Tasmania 与清单一致。异名与文献沿革未译入形态节。"
+}

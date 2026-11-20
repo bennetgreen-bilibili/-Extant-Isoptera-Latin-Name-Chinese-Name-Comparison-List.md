@@ -1,0 +1,21 @@
+{
+ "zh_name": "短角树白蚁",
+ "sections": [
+  {
+   "label": "有翅成虫",
+   "text": "小型、大小多变，上面赤褐色（脱翅繁殖个体深得多），翅芽较深，腹板与胫节浅褐色，股节较浅，翅褐色而翅脉较深。头（图 38）细密鲨皮状，具少数短毛，略长于宽，两侧向后微收窄，头顶微凹，中部与复眼同一线上有少数皱。复眼大小多变异。触角 13—16 节，通常 15。前胸背板约与头等宽，前缘凹，两侧圆，两侧与后缘具明显印痕。翅的前缘脉与亚前缘脉很短，肘脉除基部外不清晰，行经翅中部略上，具 8—12 支。翅膜具多数微星（micrasters）。足短而粗，胫距长，细锯齿状或无锯齿。量度（mm；原文三列 Sydney／南昆士兰／北昆士兰）：连翅体长 —／10.00—11.50／10.50—12.00；去翅体长 5.30—5.80／5.50—6.50／5.75—7.50；头长（至上唇端）1.08—1.21／1.32—1.50／1.39—1.68；头长（至额唇基缝）0.84—0.94／0.91—1.21／1.17—1.28；头宽 0.97—1.10／1.13—1.28／1.21—1.46；前胸背板长 0.58／0.58—0.66／0.69—0.80；前胸背板宽 0.91—0.95／1.06—1.24／1.17—1.43。"
+  },
+  {
+   "label": "兵蚁",
+   "text": "大小很多变，小型至中型，幼群中的个体相对很小。头赭黄褐色，向前渐变黄褐色（russet），上颚黑色、基部暗栗色。头（图 39）长而窄，两侧平行，细密鲨皮状，前背缘具相当不明显的侧突。后唇基短而宽，前缘附近有一列约 8 根毛。额具宽而浅的凹，微皱。上唇短而宽，边缘具窄印痕。上颚短，宽度与齿式很多变，右颚基半部具 2 枚短齿，左颚中部三分之一具 3 枚较小的齿；有一例右上颚仅有 1 枚极短的齿、左上颚 3 枚退化齿。触角 11—15 节，通常 13。前胸背板约与头等宽，边缘具窄印痕，前缘深而宽地凹。足很短而粗，后足股节宽超过长之半。胫距大，隐约有锯齿。量度（mm；原文三列 Sydney／南昆士兰／北昆士兰）：体长 7.25／4.50—7.35／6.25—9.75；头连上颚长 2.93／2.09—3.11／2.86—4.66；头长（至唇基缝）2.27／1.50—2.38／2.12—3.22；头宽 1.32／1.06—1.35／1.28—1.87；前胸背板长 0.66／0.40—0.66／0.56—0.84；前胸背板宽 1.17／0.93—1.32／1.21—1.68。"
+  }
+ ],
+ "sources": [
+  {
+   "id": "S0114",
+   "citation": "Hill, G. F. 1942. Termites (Isoptera) from the Australian Region. Council for Scientific and Industrial Research, Melbourne. https://nla.gov.au/nla.obj-911352544",
+   "locator": "条目 Calotermes (Glyptotermes) brevicornis (Froggatt)（Hill 1942）"
+  }
+ ],
+ "note": "据 Hill (1942) 种级描述改写，原文英文；原组合为 Glyptotermes brevicornis Froggatt, 1897，标题作 Calotermes (Glyptotermes) brevicornis (Froggatt)。量度单位 mm；量度按 Sydney／南昆士兰／北昆士兰三列照录，原文第一列无连翅体长数据。分布：昆士兰 Mackay（模式产地）、Mt. Tambourine、Imbil、MacPherson Range、Glasshouse Mountains、Brisbane、Cedar Creek、Malanda、Herberton、Ravenshoe、Lake Barrine、Cairns、Gordonvale、Bellenden Ker、Innisfail 一带、Palm Island；新南威尔士 Wauchope、Coffs Harbour、Sydney、Grafton、Narrabeen；Lord Howe Island；Norfolk Island；斐济群岛（存疑）。异名：C. affinis Mjöberg、C. trilineatus Mjöberg、C. dubius Mjöberg、C. nigrolabrum Hill、C. claripennis Hill、C. perangustus Hill 均并入本种。模式标本：原文称模式系列似仅存翅，无可选作新模式者，异名各种的副模存自然历史博物馆。"
+}
