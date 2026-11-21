@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-21",
+  "work": "日读轮次：15 个摘要长度 chunk（S0385–S0401）+ 5 条仅摘要记录（S0010/S0011/S0012/S0098/S0144，均已在前轮入页）；详见 _tmp/library-scan/2026-11-21/units.json",
+  "unit": "见各条",
+  "locator": "见各条",
+  "facts": [
+    {
+      "page": null,
+      "claim": "6 种高等白蚁肠道 FTHFS 基因多样性：treponeme 类序列在全部 6 种中都出现，但只在食木的 Nasutitermes sp. 与食棕榈的 Microcerotermes sp. 中占多数；其余 4 种（Gnathamitermes sp.、2 种 Amitermes spp.、食凋落物的 Rhynchotermes sp.）得到低等白蚁中未见的新支系，包括 2 个可能的嘌呤分解 Firmicutes 簇与一大群与杂食性蟑螂肠道相关的潜在 homoacetogen。",
+      "quote": "While sequences belonging to this group were present in the guts of all six higher termites examined, treponeme-like FTHFS sequences represented the majority of recovered sequences in only two species (a wood-feeding Nasutitermes sp. and a palm-feeding Microcerotermes sp.).",
+      "src": "S0385",
+      "work": "Formyltetrahydrofolate Synthetase Gene Diversity in the Guts of Higher Termites with Different Diets and Lifestyles (Ottesen & Leadbetter 2011)",
+      "unit": "Abstract",
+      "locator": "full.txt",
+      "status": "queued",
+      "note": "全部为属级或 sp. 级记述，无可落的种页；属页（Nasutitermes、Microcerotermes、Gnathamitermes、Amitermes、Rhynchotermes）本轮未开，留待后续轮。"
+    },
+    {
+      "page": null,
+      "claim": "巴西东北甘蔗园共记录 4 种白蚁并首次报道与甘蔗关联：Amitermes nordestinus Mélo & Fontes、Cylindrotermes nordenskioeldi Holmgren、Nasutitermes coxipoensis (Holmgren)、Syntermes nanus Constantino；C. nordenskioeldi 有害，A. nordestinus 为潜在害虫，N. coxipoensis 与 S. nanus 不是潜在害虫；白蚁的丰度与空间分布主要受植物根生物量和土壤有机质影响。",
+      "quote": "Four species were found: Amitermes nordestinus Mélo & Fontes, Cylindrotermes nordenskioeldi Holmgren, Nasutitermes coxipoensis (Holmgren) and Syntermes nanus Constantino, which we reported by the first time in association to sugar cane.",
+      "src": "S0386",
+      "work": "Termites in sugar cane in Northeast Brazil: ecological aspects and pest status (Miranda, Vasconcellos & Bandeira 2004)",
+      "unit": "Abstract",
+      "locator": "full.txt",
+      "status": "queued",
+      "note": "C. nordenskioldi、N. coxipoensis、S. nanus 三页已写（各自只写本种那几句）；Amitermes nordestinus 站内无页面，事实留此。"
+    },
+    {
+      "page": null,
+      "claim": "Santo Antonio da Patrulha 三处湿地 murundus 中，Camponotus fastigatus 见于全部土丘，被认为是建丘者；Anoplotermes sp. 与 Aparatermes sp. 在三个点的土丘中与蚁群共栖，Cortaritermes sp. 只在一个点出现，这些白蚁为 inquiline。",
+      "quote": "In the mounds of the three sites, colonies of Anoplotermes sp. and/or Aparatermes sp. termites were found together with the ant colonies. Another cohabiting termite species, Cortaritermes sp., was found only in the mounds of one site.",
+      "src": "S0391",
+      "work": "Ant and termite mound coinhabitants in the wetlands of Santo Antonio da Patrulha, Rio Grande do Sul, Brazil (Diehl, Junqueira & Berti-Filho 2005)",
+      "unit": "Abstract",
+      "locator": "full.txt",
+      "status": "queued",
+      "note": "白蚁仅鉴定到属或 sp.，无法落种页；且主角是蚁类区系。"
+    },
+    {
+      "page": null,
+      "claim": "4 种植物（Phyllanthus niruri、Leucaena leucocephala、Andrographis paniculata、Azadirachta indica）的甲醇粗提物在 10,000 ppm 下对 Globitermes sulphureus 与 Coptotermes gestroi 造成最高死亡率，暴露 14 天呈时间与浓度依赖；同浓度甲醇提取物在选择性生测中也有强驱避作用。",
+      "quote": "The highest mortality of G. sulpureus and C. gestroi were noted in all methanolic extracts of P. niruri, L. leucocephala, A. paniculata, Az. indica at 10,000 ppm.",
+      "src": "S0392",
+      "work": "Evaluation of the toxicity and repellency of tropical plant extract against subterranean termites, Globitermes sulphureus and Coptotermes gestroi (Bakaruddin et al. 2018)",
+      "unit": "Abstract",
+      "locator": "full.txt",
+      "status": "queued",
+      "note": "防治类事实；两个受试种站内都有页面（/species/globitermes-sulphureus/、/species/coptotermes-gestri/），后续轮可作为防治记述补入。"
+    },
+    {
+      "page": null,
+      "claim": "法属圭亚那 3 个干扰程度不同的样点、17 个巢、338 头中性个体与 14 头初生生殖蚁，6 个微卫星标记显示全部巢为单配；其中一个样点所有巢感染同一 Wolbachia 株，且与线粒体单倍型无关；在最受干扰的样点，初生生殖蚁间的高亲缘度与显著近交系数提示人为生境破碎化已造成种群遗传隔离。",
+      "quote": "We showed that all nests were monogamous. In a single site, all nests were infected by the same Wolbachia strain.",
+      "src": "S0394",
+      "work": "Genetic variability of the soil-feeding termite Labiotermes labralis (Isoptera, Termitidae, Syntermitinae) in relation to habitat fragmentation (Dupont, Roy, Bakkali & Harry 2008)",
+      "unit": "Abstract",
+      "locator": "full.txt",
+      "status": "queued",
+      "note": "细唇厚唇白蚁（Labiotermes labralis）页已有其他来源的记述；本条与遗传结构相关，后续轮可补一节。"
+    },
+    {
+      "page": null,
+      "claim": "玉米上 Microtermes sp.、Odontotermes sp. 与 Allodontermes sp. 的化学防治：吡虫啉喷雾总体防效好，最佳施药期为出苗后 6–10 周的花前阶段，花前施药优于花后；氟虫腈颗粒剂有应用前景；出苗后 4 周侧施毒死蜱颗粒剂显著降低倒伏；鱼粉与柴油两项新方法也压低危害。",
+      "quote": "Imidacloprid spray applications generally provided good control of termites. The optimum plant growth stage for imidacloprid application was during the pre-flowering stage, 6 to 10 weeks after plant emergence.",
+      "src": "S0396",
+      "work": "Evaluation of chemical control measures for termites in maize (Riekert & Van den Berg 2003)",
+      "unit": "Abstract",
+      "locator": "full.txt",
+      "status": "queued",
+      "note": "白蚁仅到属或 sp. 级，无种页可落；防治数据留待写属页或专题时用。"
+    },
+    {
+      "page": null,
+      "claim": "新热带 8 个具鼻兵蚁的土食属，工蚁消化道共有：前胃铠甲退化或不完整、第一前肠段管状并止于腹部左半、肠瓣铠甲三边对称且常有粗刺、paunch 两大段由缢缩分隔、结肠长；中肠—前肠交界处的混合段在 Convexitermes、Atlantitermes、Araujotermes、Coatitermes、Subulitermes、Agnathotermes 缺失，在 Cyranotermes 与 Angularitermes 存在，后者的前胃铠甲也比一般土食类更强；肠道盘曲与部分结构可用于鉴定未解剖的工蚁。",
+      "quote": "In addition, a mixed segment at the mesenteron-proctodeal junction is absent in Convexitermes, Atlantitermes, Araujotermes, Coatitermes, Subulitermes and Agnathotermes, and present in Cyranotermes and Angularitermes, the latter having also a gizzard armature stronger than usual in the soilfeeding nasutes.",
+      "src": "S0398",
+      "work": "Morphology of the worker digestive tube of the soil-feeding nasute termites (Isoptera, Termitidae, Nasutitermitinae) from the Neotropical Region (Fontes 1986)",
+      "unit": "Abstract",
+      "locator": "full.txt",
+      "status": "queued",
+      "note": "全部为属级结论；涉及的属多数站内尚无 taxon_literature 页面，后续轮按属开页时使用。"
+    },
+    {
+      "page": null,
+      "claim": "昆士兰 Townsville 地区雨季，Amitermes laurensis 的土丘中已知蚁类超过 30 种，单个土丘最多 7 种，绝大多数为 inquiline；雨季资料不足以说明它们对该白蚁种群动态有显著作用，对白蚁更重要的是种内竞争与生境空间变异。",
+      "quote": "More than 30 ant species are now known from mounds of A. laurensis with up to seven species in a single mound.",
+      "src": "S0399",
+      "work": "Ants (Hymenoptera: Formicidae) in mounds of Amitermes laurensis (Isoptera: Termitidae) (Holt & Greenslade 1980)",
+      "unit": "Abstract",
+      "locator": "full.txt",
+      "status": "queued",
+      "note": "主体是蚁类区系；白蚁侧只有土丘密度与群落增长背景，未单独立页。"
+    }
+  ]
+}
