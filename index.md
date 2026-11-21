@@ -196,6 +196,14 @@ permalink: /
 
 {% if site.dataset.doi %}<p class="doi-line"><strong>数据集 DOI</strong>：<a href="https://doi.org/{{ site.dataset.doi }}">{{ site.dataset.doi }}</a>（版本 DOI）{% if site.dataset.concept_doi %} · <a href="https://doi.org/{{ site.dataset.concept_doi }}">{{ site.dataset.concept_doi }}</a>（概念 DOI，始终指向最新版）{% endif %} · <a href="{{ site.base_url }}/data/">数据与字段说明</a></p>{% endif %}
 
+## 交流与文献补充
+
+**QQ 群**：「班奈特格林的主巢」<code>952218784</code>，在 QQ 里搜索群号就能加入。
+
+**邮箱**：<a href="mailto:Termite-Extant-Isoptera@protonmail.com">Termite-Extant-Isoptera@protonmail.com</a>
+
+本站想多收集一些能补充名录的文献：新发表或漏掉的分类阶元、学名变动与异名、模式产地、分布记录、中文正名的旧译和出处都行。发的时候顺手带上作者、年份、刊物或书名、DOI 或页码即可，能用的补正会写进名录和版本记录。群里说一声、发邮件，或者去[留言板](https://termite-extant-isoptera.org/guestbook/)留言。
+
 ## 页面导航
 
 <ul>

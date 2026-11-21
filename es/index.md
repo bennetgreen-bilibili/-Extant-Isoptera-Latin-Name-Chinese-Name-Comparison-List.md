@@ -191,6 +191,14 @@ permalink: /es/
 **Citación sugerida** (APA):
 > 班奈特格林 (Bennet Green). (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》(Extant Isoptera Latin–Chinese Name Comparison List) (2026.10.30). https://termite-extant-isoptera.org/es/
 
+## Contacto y aportes bibliográficos
+
+**Grupo de QQ**: «班奈特格林的主巢» (el nido principal de Bennet Green), <code>952218784</code>: busca el número en QQ para entrar.
+
+**Correo**: <a href="mailto:Termite-Extant-Isoptera@protonmail.com">Termite-Extant-Isoptera@protonmail.com</a>
+
+Al sitio le gustaría reunir más bibliografía que permita ampliar la lista: taxones nuevos o que falten, cambios de nombre y sinonimias, localidades tipo, registros de distribución y traducciones antiguas del nombre chino con su procedencia, todo sirve. Basta con indicar autores, año, revista o libro y DOI o páginas cuando los tengas; las correcciones que encajen pasan a la lista y al historial de versiones. Cuéntalo en el grupo, mándalo por correo o deja un mensaje en el [libro de visitas](https://termite-extant-isoptera.org/es/guestbook/).
+
 ## Páginas
 
 <ul>
