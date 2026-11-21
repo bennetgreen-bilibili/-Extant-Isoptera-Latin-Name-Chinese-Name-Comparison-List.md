@@ -5,7 +5,7 @@ description: "Full-text search across the checklist, 3089 species pages, statist
 lang: en
 author: 班奈特格林
 date: 2026-10-17
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termites, Isoptera, search, full-text, Pagefind, AI chat, Cloudflare]
 permalink: /en/search/
 noindex: true

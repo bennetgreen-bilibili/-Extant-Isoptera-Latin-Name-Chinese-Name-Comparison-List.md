@@ -1,11 +1,11 @@
 ---
 layout: default
 title: 版本记录 — 现存等翅下目（白蚁）拉丁学名—中文正名对照名录
-description: "版本发布记录：每个版本号即其发布日期（YYYY.MM.DD），列出该版的数据变更、归档文件与 Zenodo DOI，可按 Atom 源订阅更新。｜本站《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》（2026.10.30 最终版），全站收录 13 科、18 亚科、326 属、3021 种、68 亚种的现生类群。"
+description: "版本发布记录：每个版本号即其发布日期（YYYY.MM.DD），列出该版的数据变更、归档文件与 Zenodo DOI，可按 Atom 源订阅更新。｜本站《现存等翅下目（白蚁）拉丁学名—中文正名对照名录》（2026.11.21 最终版），全站收录 13 科、18 亚科、326 属、3021 种、68 亚种的现生类群。"
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-29
-version: 2026.10.30
+version: 2026.11.21
 permalink: /changelog/
 ---
 {%- assign CH = site.data.changelog -%}

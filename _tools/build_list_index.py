@@ -68,7 +68,7 @@ description: "现存等翅下目（白蚁）分类索引：6 支系、13 科、1
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-17
-version: 2026.10.30
+version: 2026.11.21
 keywords: [白蚁, 等翅目, Isoptera, 学名, 中文名, 名录索引, 分类, Termitidae]
 permalink: /list/
 ---""",
@@ -79,7 +79,7 @@ description: "Taxonomic index of extant Isoptera: 6 clades, 13 families, 18 subf
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termites, Isoptera, index, families, genera, species, taxonomy, Termitidae]
 permalink: /en/list/
 ---""",
@@ -90,16 +90,16 @@ description: "Índice taxonómico de Isoptera actuales: 6 clados, 13 familias, 1
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termitas, Isoptera, índice, familias, géneros, especies, taxonomía, Termitidae]
 permalink: /es/list/
 ---""",
 }
 
 H1 = {
-    "zh": "# 现存等翅下目 Extant Isoptera（白蚁领科）分类索引（2026.10.30）",
-    "en": "# Extant Isoptera (Termites) — Taxonomic Index (2026.10.30)",
-    "es": "# Isópteros actuales (termitas) — índice taxonómico (2026.10.30)",
+    "zh": "# 现存等翅下目 Extant Isoptera（白蚁领科）分类索引（2026.11.21）",
+    "en": "# Extant Isoptera (Termites) — Taxonomic Index (2026.11.21)",
+    "es": "# Isópteros actuales (termitas) — índice taxonómico (2026.11.21)",
 }
 
 LABELS = {
@@ -151,7 +151,7 @@ title: Sections in English — family and subfamily accounts
 description: "English text of all 13 family accounts and 18 subfamily accounts of extant termites, with illustrations; the Chinese originals sit on the family and subfamily pages."
 lang: en
 date: 2026-10-17
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termites, Isoptera, families, subfamilies, morphology, distribution]
 permalink: /en/list/sections/
 hreflang_skip: true
@@ -163,7 +163,7 @@ title: Textos en español — familias y subfamilias
 description: "Texto en español de las 13 familias y 18 subfamilias de termitas actuales, con ilustraciones; los originales en chino están en las páginas de familia y subfamilia."
 lang: es
 date: 2026-10-17
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termitas, Isoptera, familias, subfamilias, morfología, distribución]
 permalink: /es/list/sections/
 hreflang_skip: true

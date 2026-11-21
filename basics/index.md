@@ -5,7 +5,7 @@ description: 白蚁基础知识入口：形态篇（头壳、囟、上颚、翅�
 lang: zh-CN
 author: 班奈特格林
 date: 2026-11-05
-version: 2026.10.30
+version: 2026.11.21
 keywords: [白蚁, 基础知识, 形态, 品级]
 permalink: /basics/
 ---

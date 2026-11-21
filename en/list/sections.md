@@ -4,7 +4,7 @@ title: Sections in English — family and subfamily accounts
 description: "English text of all 13 family accounts and 18 subfamily accounts of extant termites, with illustrations; the Chinese originals sit on the family and subfamily pages."
 lang: en
 date: 2026-10-17
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termites, Isoptera, families, subfamilies, morphology, distribution]
 permalink: /en/list/sections/
 hreflang_skip: true

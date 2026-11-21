@@ -60,7 +60,7 @@ defaults:
       path: ""
     values:
       # 全站统一的数据版本日期：sitemap.xml 的 <lastmod> 与结构化为 dateModified 用
-      last_modified_at: 2026-10-30
+      last_modified_at: 2026-11-21
   # ---------------------------------------------------------------------------
   # sitemap.xml 收录范围（与 sitemap.txt 对齐）
   # GitHub Pages 的默认插件会把「没有 front matter 的 Markdown / HTML」也渲染成页面
@@ -141,13 +141,13 @@ plugins:
 # 完整流程见 _tools/数据集DOI与归档发布指南.md。
 # ---------------------------------------------------------------------------
 dataset:
-  doi: "10.5281/zenodo.23646836"            # 版本 DOI（2026.10.17 已发布；2026.10.30 版待 Zenodo「New version」后回填）
+  doi: "10.5281/zenodo.23646836"            # 版本 DOI（2026.10.17 已发布；2026.11.21 版待 Zenodo「New version」后回填）
   concept_doi: "10.5281/zenodo.23646835"    # 概念 DOI（全部版本）
-  version: "2026.10.30"
+  version: "2026.11.21"
   publisher: "Zenodo"
   license_name: "CC BY 4.0"
   license_url: "https://creativecommons.org/licenses/by/4.0/"
-  archive_file: "downloads/isoptera-checklist-v2026.10.30.zip"  # 与 build_dataset.py 输出一致
+  archive_file: "downloads/isoptera-checklist-v2026.11.21.zip"  # 与 build_dataset.py 输出一致
 
 # ---------------------------------------------------------------------------
 # 外部权威库（物种页「其他数据库」外链 + JSON-LD sameAs）

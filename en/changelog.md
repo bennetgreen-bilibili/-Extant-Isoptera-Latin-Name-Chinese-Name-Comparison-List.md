@@ -5,7 +5,7 @@ description: "Release history of the checklist: each version is its publication 
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-29
-version: 2026.10.30
+version: 2026.11.21
 permalink: /en/changelog/
 ---
 {%- assign CH = site.data.changelog -%}

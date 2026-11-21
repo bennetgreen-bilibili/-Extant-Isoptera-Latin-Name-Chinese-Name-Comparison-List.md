@@ -5,7 +5,7 @@ description: "Machine-readable JSON data: data/index.json holds the full taxonom
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termites, Isoptera, structured data, JSON, checklist, taxonomy, Termitidae]
 permalink: /en/data/
 ---

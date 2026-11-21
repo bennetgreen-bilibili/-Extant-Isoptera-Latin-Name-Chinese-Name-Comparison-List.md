@@ -5,7 +5,7 @@ description: "全站检索：名录、3089 个物种页、统计页、数据页�
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-17
-version: 2026.10.30
+version: 2026.11.21
 keywords: [白蚁, 等翅目, Isoptera, 搜索, 全文检索, Pagefind, AI 问答, Cloudflare]
 permalink: /search/
 noindex: true

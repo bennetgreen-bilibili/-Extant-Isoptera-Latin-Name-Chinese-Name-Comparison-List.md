@@ -5,7 +5,7 @@ description: "Datos JSON legibles por máquina: data/index.json contiene el árb
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termitas, Isoptera, datos estructurados, JSON, listado, taxonomía, Termitidae]
 permalink: /es/data/
 ---

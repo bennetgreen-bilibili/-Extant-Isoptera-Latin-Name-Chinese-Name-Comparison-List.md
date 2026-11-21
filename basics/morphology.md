@@ -5,7 +5,7 @@ description: 白蚁形态学术语表格式说明：按品级、头部、胸部�
 lang: zh-CN
 author: 班奈特格林
 date: 2026-11-04
-version: 2026.10.30
+version: 2026.11.21
 keywords: [白蚁, 形态学, 解剖, 术语, 头壳, 囟, 上颚, 翅, 跗节, Isoptera, morphology]
 permalink: /basics/morphology/
 ---

@@ -5,7 +5,7 @@ description: "Comparación de nombres con GBIF Backbone, Catalogue of Life y Bla
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-29
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termitas, Isoptera, lista, discrepancias de nombres, revisión taxonómica, GBIF, Catalogue of Life, Blattodea Species File]
 permalink: /es/list/name-issues/
 pagefind: true

@@ -335,7 +335,7 @@ jobs:
               ("/feed.json", None),
               ("/opensearch.xml", None),
               ("/changelog.atom", None),
-              ("/changelog/", "2026.10.30"),
+              ("/changelog/", "2026.11.21"),
               ("/list/name-issues/", "ni-row"),
               ("/family/termitidae/", "Termitidae"),
               ("/subfamily/macrotermitinae/", "Macrotermitinae"),

@@ -5,7 +5,7 @@ description: "Morfología de los termites término a término: cabeza, fontanela
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-11-04
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termites, Isoptera, morfología, anatomía, glosario, fontanela, mandíbula, tarso]
 permalink: /es/basics/morphology/
 ---

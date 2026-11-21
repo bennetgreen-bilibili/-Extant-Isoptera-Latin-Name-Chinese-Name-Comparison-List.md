@@ -5,7 +5,7 @@ description: "Busque literatura de termitas por nombre latino, nombre chino o pa
 lang: es
 author: 班奈特格林
 date: 2026-10-30
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termitas, Isoptera, búsqueda bibliográfica, artículos, OpenAlex, Crossref, resúmenes]
 permalink: /es/papers/
 ---

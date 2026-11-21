@@ -4,7 +4,7 @@ title: Textos en español — familias y subfamilias
 description: "Texto en español de las 13 familias y 18 subfamilias de termitas actuales, con ilustraciones; los originales en chino están en las páginas de familia y subfamilia."
 lang: es
 date: 2026-10-17
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termitas, Isoptera, familias, subfamilias, morfología, distribución]
 permalink: /es/list/sections/
 hreflang_skip: true

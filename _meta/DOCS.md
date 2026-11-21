@@ -16,7 +16,7 @@
 | `_tools/data_shards.md` | `_data` 一阶元一档分片布局、读取方式对照、改分片数据怎么定位 |
 | `_tools/数据集DOI与归档发布指南.md` | 数据集 DOI、Zenodo / GBIF / ScienceDB 路线 |
 | `_tools/Zenodo发布逐步操作手册.md` | 照抄式发布操作单（字段值、命令、验收） |
-| `_tools/Zenodo新版描述-2026.10.30.md` | 当前版本的 Zenodo 描述文案 |
+| `_tools/Zenodo新版描述-2026.11.21.md` | 当前版本的 Zenodo 描述文案 |
 | `_tools/分布图与瓦片使用政策.md` | 分布图流水线、1° 网格聚合、化石过滤、瓦片政策 |
 | `_tools/外部权威库与一致性核对.md` | GBIF / CoL / Wikidata / BSF 外链与判定规则 |
 | `_tools/文献检索器说明.md` | `/papers/` 的数据来源、查询与导出 |

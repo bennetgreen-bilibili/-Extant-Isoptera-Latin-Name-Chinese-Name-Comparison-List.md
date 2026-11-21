@@ -5,12 +5,12 @@ description: "Taxonomic index of extant Isoptera: 6 clades, 13 families, 18 subf
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termites, Isoptera, index, families, genera, species, taxonomy, Termitidae]
 permalink: /en/list/
 ---
 
-# Extant Isoptera (Termites) — Taxonomic Index (2026.10.30)
+# Extant Isoptera (Termites) — Taxonomic Index (2026.11.21)
 
 ## Taxonomic framework
 

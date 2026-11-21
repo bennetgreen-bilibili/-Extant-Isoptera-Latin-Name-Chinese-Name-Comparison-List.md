@@ -33,14 +33,27 @@ BULLET_RE = re.compile(r"^(\s*)[-*]\s+(.+?)\s*$")
 CODE_RE = re.compile(r"`([^`]+)`")
 LINK_RE = re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)")
 BOLD_RE = re.compile(r"\*\*([^*]+)\*\*")
+ITALIC_RE = re.compile(r"(?<!\*)\*([^*\n]+?)\*(?!\*)")
+TOKEN_RE = re.compile("\x00(\\d+)\x00")
 
 
 def inline_html(text: str) -> str:
-    """把 CHANGELOG 条目里的行内 Markdown 转成最小 HTML（page 里直接输出，无需 markdown 渲染）。"""
+    """把 CHANGELOG 条目里的行内 Markdown 转成最小 HTML（page 里直接输出，无需 markdown 渲染）。
+
+    code 先用占位符抽出，避免其中的 `*`（如 `.search-ai-*`）被斜体规则误配。
+    """
     s = escape(text)
-    s = CODE_RE.sub(lambda m: "<code>" + m.group(1) + "</code>", s)
+    tokens = []
+
+    def stash(m):
+        tokens.append("<code>" + m.group(1) + "</code>")
+        return "\x00%d\x00" % (len(tokens) - 1)
+
+    s = CODE_RE.sub(stash, s)
     s = LINK_RE.sub(lambda m: '<a href="' + m.group(2) + '">' + m.group(1) + "</a>", s)
     s = BOLD_RE.sub(lambda m: "<strong>" + m.group(1) + "</strong>", s)
+    s = ITALIC_RE.sub(lambda m: "<em>" + m.group(1) + "</em>", s)
+    s = TOKEN_RE.sub(lambda m: tokens[int(m.group(1))], s)
     return s
 
 

@@ -2,7 +2,7 @@
  "@context": "https://schema.org",
  "@type": "Dataset",
  "name": "尖白蚁亚科 Apicotermitinae",
- "version": "2026.10.30",
+ "version": "2026.11.21",
  "isPartOf": {
   "@id": "https://termite-extant-isoptera.org/data/index.json",
   "family": {

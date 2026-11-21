@@ -3,7 +3,7 @@
 > 这是"照着做"的操作单：每一步都有可勾选框、可直接复制的值和"怎么判断成功"。
 > 讲"为什么这样做、有哪几条路"的是同目录的《数据集DOI与归档发布指南.md》；本文件只讲"手怎么动"。
 >
-> **2026-10-30 更新**：仓库内数据/站点版本已升到 **2026.10.30**（异名补录与命名差异判定修订），归档包为 `downloads/isoptera-checklist-v2026.10.30.zip`，**尚未上传 Zenodo**；下面记录区的 DOI、字节数、MD5 仍指已发布的 2026.10.17 版，等新版用 Zenodo「New version」上传后再回填。
+> **2026-11-21 更新**：仓库内数据/站点版本已升到 **2026.11.21**（种级形态描述补全、来源存档扩容与数据分片），归档包为 `downloads/isoptera-checklist-v2026.11.21.zip`，**尚未上传 Zenodo**；下面记录区的 DOI、字节数、MD5 仍指已发布的 2026.10.17 版，等新版用 Zenodo「New version」上传后再回填。
 >
 > **当前状态（2026-10-26 核对：已发布）**
 > - ✅ **记录已发布**：<https://zenodo.org/records/23646836>（2026-10-25 发布，DataCite 状态 findable）
@@ -41,7 +41,7 @@ python .github/workflows/build_dataset.py --check
 ```text
 记录 3068 条（种 3004，亚种 64）；属 323；科 13；亚科 18；支系 6
 次异名 699 条；参考文献 77 条（含 DOI 46 条）
-数据文件合计 3652162 字节；归档包 downloads/isoptera-checklist-v2026.10.30.zip 489029 字节；产物 13 个
+数据文件合计 3069496 字节；归档包 downloads/isoptera-checklist-v2026.11.21.zip 490933 字节；产物 13 个
 ok: 全部 13 个产物与生成结果一致
 ```
 
@@ -70,7 +70,7 @@ ok: 全部 13 个产物与生成结果一致
 **只传这一个文件就够了。** 它是"一键下载"的完整包，里面是：
 
 ```text
-isoptera-checklist-2026.10.30/
+isoptera-checklist-2026.11.21/
   README.md            10,785 B   归档说明（来源/方法/字段/限制/引用）
   LICENSE               1,913 B   CC BY 4.0
   CITATION.cff          1,757 B   机器可读引用（含 doi: 一行）

@@ -2,6 +2,19 @@
 
 版本号采用名录发布日期（YYYY.MM.DD）。同一版本重跑生成脚本应得到逐字节一致的文件；新增/修订数据请升版本号后再归档。
 
+## 2026.11.21 — 种级形态描述补全、来源存档扩容与数据分片
+
+- **本版取代 2026.10.30 版（该版尚未归档发布）**：2026.10.30 之后新增的内容此前只以「同一版本，尚未归档发布」的日期子条目挂在 10.30 条目下，Zenodo 上也从未建立对应版本；本版把这些内容与 2026-11-18 之后的补全一并归档。10.30 条目原样保留在下方作开发过程记录。数据集版本号、归档包名与 DataCite / CITATION / `.zenodo.json` 元数据同步改为 2026.11.21；Zenodo 尚未创建新版本，`dataset.doi` 仍指向 2026.10.17 版 10.5281/zenodo.23646836，概念 DOI 10.5281/zenodo.23646835 不变，上传后回填新版本 DOI。
+- **种级形态描述三语补全**：`_data/morphology_species/` 现有 1451 条（1427 种 + 24 亚种；`_orphan/` 下 6 条随接受名合并而孤立的条目不计），`_data/morphology_genera/` 247 属；`_data/translations_en/morphology_*`、`_data/translations_es/morphology_*` 与中文同步，物种页按当前语言渲染。新增描述的来源包括 archive.org 书籍全文检索（61 种）、BHL 扫描件、Hill (1942) 的 83 个澳洲种与子民白蚁属 *Incolitermes*、Bourguignon et al. (2008) 的 9 种 1 属，以及 B/C 类记录核对 76 种。
+- **来源存档扩容**：`.sources/` 现有 765 条记录（元数据 + 逐字摘录 + locator + used_in），覆盖本轮所据的图书、论文与数据库页面；`python _tools/sources.py check --strict` 通过。
+- **文献阅读笔记**：`_data/taxon_literature/` 按科 / 亚科 / 属 / 种分片（298 个文件），记录各类群已读文献与待读缺口；`_reports/library-reading/progress.json` 记录阅读配额与进度。
+- **待补原文清单**：`_reports/morphology-request-list.csv` 列出 127 篇 1990 年后、尚缺原文的文献，`_reports/morphology-request-emails.md` 是发给 6 位作者的索取邮件草稿。
+- **数据分片架构**：`_data/` 下的 `authority_links`、`bsf_links`、`papers`、`taxon_literature`、`morphology_species`、`morphology_genera` 改为按一阶元分片（`_data/<数据集>/`），解决单文件过大与合并冲突；`_tools/data_shards.py --adopt` 可把回潮的聚合文件重新拆分，CI 与 `_tools/regen_all.sh` 按同一顺序重建。
+- **站点修复**：species-authority 区块残留的 `</div>` 导致整块空白；英文首页 `title` 与 basics 形态篇 front matter 缺引号；sitemap 排除构建清单与百度验证文件；物种页 `<title>` 改为学名前置。
+- **首页新增「交流与文献补充」**：QQ 群 952218784（班奈特格林的主巢）与邮箱 Termite-Extant-Isoptera@protonmail.com，征集能补充名录的文献（新阶元、学名变动与异名、模式产地、分布记录、中文正名旧译）。
+- **计数不变**：13 科、18 亚科、326 属、3021 种、68 亚种（3089 条物种记录），与 2026.10.30 版一致；本版补描述与来源，不改分类主体。
+- **归档文件**：`downloads/isoptera-checklist-v2026.11.21.zip`；Darwin Core Archive 为 `downloads/isoptera-checklist-v2026.11.21-dwca.zip`。数据许可 CC BY 4.0。
+
 ## 2026.10.30 — 异名补录与命名差异判定修订
 
 - **站内 AI 层改为对话组件（2026-11-17，同一版本，尚未归档发布）**：上一轮接入的 AI 语义搜索弹窗在实践中不优于原有 Pagefind 全文检索，故撤掉弹窗、改为 Cloudflare AI Search 的官方对话组件 `<chat-bubble-snippet>`（右下角浮动气泡，全站常驻），原有 Pagefind 全局搜索浮层与 Ctrl/⌘+K、名录检索等架构与交互一律不动；新增 `_data/ai_chat.yml`（`api_url` 与官方 `search-snippet.es.js` 地址，当前 `v0.0.25`；`api_url` 留空即整层停用，模板连气泡元素与脚本都不输出）、`_includes/ai-chat.html`（气泡占位，`data-pagefind-ignore`）、`_includes/ai-chat-block.html`（`/search/` 页顶部入口块，含 `data-ai-chat-open` 按钮与 `[data-ai-chat-status]` 状态行）、`assets/ai-chat.js`（页面空闲时用 `requestIdleCallback`（回退 `load` 后 800 ms）注入官方 ESM，`customElements.whenDefined` 后同步 `theme`，并用 `MutationObserver` 跟随 `<html data-theme>` 切换；点击入口块按钮时打开气泡，加载/失败文案写进状态行），删除 `_data/ai_search.yml`、`_includes/ai-search-block.html`、`assets/ai-search.js`，并把 `assets/search-widget.js` 恢复原状（不再占用捕获阶段的 Ctrl/⌘+K）；`assets/custom.css` 把原 `.search-ai-*`／`.ai-search-*` 规则换成 `.ai-chat-*` 与气泡配色覆盖（组件写死 `--search-snippet-*` 变量，外部覆盖需 `!important`，值映射到本站 `--card/--paper/--ink/--muted/--line/--line-soft/`，主色固定用站点深绿 `#2f6b4f`（组件的 `.button` 与用户气泡把文字写死为白字，夜间若跟随 `--accent` 换成浅绿 `#62b78a`，白字对比度只剩约 1.7:1），层级压到 900，低于搜索浮层的 1000；打印时隐藏）；`_data/i18n.yml` 三语删去九个 `search_ai_*` 键（保留 `search_local_heading`），新增 `ai_chat_heading`、`ai_chat_lead`、`ai_chat_cta`、`ai_chat_placeholder`、`ai_chat_loading`、`ai_chat_error` 六个键使三语键集一致；`search.md`、`en/search.md`、`es/search.md` 的 description、keywords 与页顶入口块同步改为「AI 问答」，并保留「本地全文索引查询不出浏览器 / 联网问答把问题直接发往 Cloudflare」的边界表述，`llms.txt` 第 14／28／42／64 行同改，README 第 5.1 节重写。README 与代码注释同时记录该组件的两个限制：`AISearchClient.chat()` 每次只发当前这一句、不携带对话历史（追问不会延续上下文），返回的 `chunks`（来源页）组件也不展示；气泡与面板自身的界面文字在 shadow DOM 内只有英文，无法随站点语言切换。实例能力已实测：`OPTIONS /chat/completions` 允许本站来源，`POST` 以中文提问返回基于站点页面的中文回答（`@cf/meta/llama-3.3-70b-instruct-fp8-fast`）；若站点启用 WAF / Bot Management / Turnstile，仍需为 User-Agent `Cloudflare-AI-Search` 放行，否则后续抓取会被拦。

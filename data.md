@@ -5,7 +5,7 @@ description: "机器可读的 JSON 结构化数据：入口 data/index.json 给�
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-17
-version: 2026.10.30
+version: 2026.11.21
 keywords: [白蚁, 等翅目, Isoptera, 结构化数据, JSON, 名录, 分类, Termitidae]
 permalink: /data/
 ---

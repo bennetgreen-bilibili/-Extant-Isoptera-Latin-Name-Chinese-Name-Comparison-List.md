@@ -5,7 +5,7 @@ description: "文献检索：按拉丁学名、中文正名或多关键词查找
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-30
-version: 2026.10.30
+version: 2026.11.21
 keywords: [白蚁, 等翅目, Isoptera, 文献检索, 论文, OpenAlex, Crossref, 摘要]
 permalink: /papers/
 ---

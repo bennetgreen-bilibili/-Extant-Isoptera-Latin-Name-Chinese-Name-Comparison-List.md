@@ -5,7 +5,7 @@ description: "Búsqueda de texto completo en el listado, las 3089 páginas de es
 lang: es
 author: 班奈特格林
 date: 2026-10-17
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termitas, Isoptera, búsqueda, texto completo, Pagefind, chat con IA, Cloudflare]
 permalink: /es/search/
 noindex: true

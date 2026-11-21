@@ -5,12 +5,12 @@ description: "Índice taxonómico de Isoptera actuales: 6 clados, 13 familias, 1
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-17
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termitas, Isoptera, índice, familias, géneros, especies, taxonomía, Termitidae]
 permalink: /es/list/
 ---
 
-# Isópteros actuales (termitas) — índice taxonómico (2026.10.30)
+# Isópteros actuales (termitas) — índice taxonómico (2026.11.21)
 
 ## Marco taxonómico
 

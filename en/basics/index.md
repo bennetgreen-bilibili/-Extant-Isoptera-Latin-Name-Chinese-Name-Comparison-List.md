@@ -5,7 +5,7 @@ description: "Entry page to the termite basics: morphology (head, fontanelle, ma
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-11-05
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termites, Isoptera, basics, morphology, castes]
 permalink: /en/basics/
 ---

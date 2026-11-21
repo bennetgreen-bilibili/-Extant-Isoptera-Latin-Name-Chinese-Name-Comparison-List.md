@@ -74,7 +74,7 @@
 - Jekyll 静态站，GitHub Pages 部署，自定义域名 **https://termite-extant-isoptera.org**（`_config.yml` 的 `url`，`baseurl: ""`）。
 - 三语：中文在站点根、英文 `/en/`、西班牙文 `/es/`；一套模板（`_layouts/default.html` 按 front matter 的 `lang` 决定语言）。
 - 规模：6 支系、13 科、18 亚科、326 属、3,021 种、68 亚种 = **3,089 条**记录；三语各一套页面，构建约 11,300 页。
-- 数据版本 2026.10.30；版本 DOI `10.5281/zenodo.23646836`，概念 DOI `10.5281/zenodo.23646835`（CC BY 4.0）。
+- 数据版本 2026.11.21；版本 DOI `10.5281/zenodo.23646836`，概念 DOI `10.5281/zenodo.23646835`（CC BY 4.0）。
 - 每次构建：`make_lang_sources.py` 造三份硬链接镜像 → 三个容器并行 Jekyll → `merge_lang_sites.py` 合并；细节见 `CONTRIBUTING.md` §发布构建、`_meta/PIPELINE.md` §4。
 
 ## 2. 数据层速查

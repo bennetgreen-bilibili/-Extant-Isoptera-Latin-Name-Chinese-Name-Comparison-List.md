@@ -5,7 +5,7 @@ description: "Termite morphology term by term: head, fontanelle, mandibles, wing
 lang: en
 author: 班奈特格林 (Bennet Green)
 date: 2026-11-04
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termites, Isoptera, morphology, anatomy, glossary, fontanelle, mandible, tarsus]
 permalink: /en/basics/morphology/
 ---

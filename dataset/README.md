@@ -9,20 +9,20 @@
 
 **引用格式 Citation（中文 / APA 7）**
 
-> 班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.10.30 正式版）》(版本 2026.10.30) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23646836
+> 班奈特格林. (2026). 《现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.11.21 正式版）》(版本 2026.11.21) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23646836
 
 **Citation (English, APA 7)**
 
-> Bennet Green. (2026). Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (version 2026.10.30) (Version 2026.10.30) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23646836
+> Bennet Green. (2026). Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (version 2026.11.21) (Version 2026.11.21) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23646836
 
 **BibTeX**
 
 ```bibtex
 @misc{extantisopterachecklist2026,
   author    = {班奈特格林},
-  title     = {Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (version 2026.10.30)},
+  title     = {Checklist of extant Isoptera (termites): Latin scientific names with Chinese standard names (version 2026.11.21)},
   year      = {2026},
-  version   = {2026.10.30},
+  version   = {2026.11.21},
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.23646836},
   url       = {https://doi.org/10.5281/zenodo.23646836}
@@ -57,14 +57,14 @@
 | 文件 File | 内容 Content | 记录数 Rows | 字节 Bytes | SHA-256 |
 |---|---|---|---|---|
 | `data/isoptera-checklist.csv` | 逐条分类单元表（Darwin Core 风格列名；含中文正名、模式产地、分布、次异名） | 3089 | 1374319 | `04db399063895b89…` |
-| `data/isoptera-taxonomy.json` | 完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接） | 3089 | 1530514 | `968caaf4e8274b55…` |
+| `data/isoptera-taxonomy.json` | 完整分类树（支系—科—亚科—属—种/亚种，含各级计数与页面链接） | 3089 | 1530514 | `09fad629494df9d7…` |
 | `data/isoptera-synonyms.csv` | 次异名长表（一行一次异名，含其模式产地） | 704 | 148261 | `b8f4c57b9de98ff2…` |
 | `data/isoptera-counts.csv` | 科/亚科级分类单元计数 | 31 | 2216 | `98771ea03f265251…` |
 | `data/isoptera-references.csv` | 参考文献清单（有 DOI 者随条目给出） | 77 | 14186 | `ae7befd446eaac7b…` |
 
 统计 Counts：6 支系 · 13 科 · 18 亚科 · 326 属 · 3021 种 · 68 亚种，合计 3089 条分类单元记录（每条均含中文正名）；参考文献 77 条，其中 46 条带 DOI。
 
-版本 Version：2026.10.30　生成 Generator：.github/workflows/build_dataset.py（可由仓库来源完全重建）　本区块由脚本自动生成，请勿手工编辑；标记外的手写内容不受影响。
+版本 Version：2026.11.21　生成 Generator：.github/workflows/build_dataset.py（可由仓库来源完全重建）　本区块由脚本自动生成，请勿手工编辑；标记外的手写内容不受影响。
 <!-- AUTO:END -->
 
 ## 与项目网站的关系 Relationship to the project website

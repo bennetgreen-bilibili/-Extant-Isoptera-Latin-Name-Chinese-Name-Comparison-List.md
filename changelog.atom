@@ -5,8 +5,26 @@
   <id>https://termite-extant-isoptera.org/changelog/</id>
   <link rel="self" type="application/atom+xml" href="https://termite-extant-isoptera.org/changelog.atom"/>
   <link rel="alternate" type="text/html" href="https://termite-extant-isoptera.org/changelog/"/>
-  <updated>2026-10-30T00:00:00Z</updated>
+  <updated>2026-11-21T00:00:00Z</updated>
   <author><name>班奈特格林 (Bennet Green)</name><uri>https://termite-extant-isoptera.org/</uri></author>
+  <entry>
+    <title>2026.11.21 — 种级形态描述补全、来源存档扩容与数据分片</title>
+    <id>https://termite-extant-isoptera.org/changelog/2026-11-21/</id>
+    <link rel="alternate" type="text/html" href="https://termite-extant-isoptera.org/changelog/#v2026-11-21"/>
+    <updated>2026-11-21T00:00:00Z</updated>
+    <published>2026-11-21T00:00:00Z</published>
+    <content type="text">**本版取代 2026.10.30 版（该版尚未归档发布）**：2026.10.30 之后新增的内容此前只以「同一版本，尚未归档发布」的日期子条目挂在 10.30 条目下，Zenodo 上也从未建立对应版本；本版把这些内容与 2026-11-18 之后的补全一并归档。10.30 条目原样保留在下方作开发过程记录。数据集版本号、归档包名与 DataCite / CITATION / `.zenodo.json` 元数据同步改为 2026.11.21；Zenodo 尚未创建新版本，`dataset.doi` 仍指向 2026.10.17 版 10.5281/zenodo.23646836，概念 DOI 10.5281/zenodo.23646835 不变，上传后回填新版本 DOI。
+**种级形态描述三语补全**：`_data/morphology_species/` 现有 1451 条（1427 种 + 24 亚种；`_orphan/` 下 6 条随接受名合并而孤立的条目不计），`_data/morphology_genera/` 247 属；`_data/translations_en/morphology_*`、`_data/translations_es/morphology_*` 与中文同步，物种页按当前语言渲染。新增描述的来源包括 archive.org 书籍全文检索（61 种）、BHL 扫描件、Hill (1942) 的 83 个澳洲种与子民白蚁属 *Incolitermes*、Bourguignon et al. (2008) 的 9 种 1 属，以及 B/C 类记录核对 76 种。
+**来源存档扩容**：`.sources/` 现有 765 条记录（元数据 + 逐字摘录 + locator + used_in），覆盖本轮所据的图书、论文与数据库页面；`python _tools/sources.py check --strict` 通过。
+**文献阅读笔记**：`_data/taxon_literature/` 按科 / 亚科 / 属 / 种分片（298 个文件），记录各类群已读文献与待读缺口；`_reports/library-reading/progress.json` 记录阅读配额与进度。
+**待补原文清单**：`_reports/morphology-request-list.csv` 列出 127 篇 1990 年后、尚缺原文的文献，`_reports/morphology-request-emails.md` 是发给 6 位作者的索取邮件草稿。
+**数据分片架构**：`_data/` 下的 `authority_links`、`bsf_links`、`papers`、`taxon_literature`、`morphology_species`、`morphology_genera` 改为按一阶元分片（`_data/&amp;lt;数据集&amp;gt;/`），解决单文件过大与合并冲突；`_tools/data_shards.py --adopt` 可把回潮的聚合文件重新拆分，CI 与 `_tools/regen_all.sh` 按同一顺序重建。
+**站点修复**：species-authority 区块残留的 `&amp;lt;/div&amp;gt;` 导致整块空白；英文首页 `title` 与 basics 形态篇 front matter 缺引号；sitemap 排除构建清单与百度验证文件；物种页 `&amp;lt;title&amp;gt;` 改为学名前置。
+**首页新增「交流与文献补充」**：QQ 群 952218784（班奈特格林的主巢）与邮箱 Termite-Extant-Isoptera@protonmail.com，征集能补充名录的文献（新阶元、学名变动与异名、模式产地、分布记录、中文正名旧译）。
+**计数不变**：13 科、18 亚科、326 属、3021 种、68 亚种（3089 条物种记录），与 2026.10.30 版一致；本版补描述与来源，不改分类主体。
+**归档文件**：`downloads/isoptera-checklist-v2026.11.21.zip`；Darwin Core Archive 为 `downloads/isoptera-checklist-v2026.11.21-dwca.zip`。数据许可 CC BY 4.0。
+</content>
+  </entry>
   <entry>
     <title>2026.10.30 — 异名补录与命名差异判定修订</title>
     <id>https://termite-extant-isoptera.org/changelog/2026-10-30/</id>

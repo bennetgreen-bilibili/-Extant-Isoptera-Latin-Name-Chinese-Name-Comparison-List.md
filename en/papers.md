@@ -5,7 +5,7 @@ description: "Search termite literature by Latin name, Chinese name or several k
 lang: en
 author: 班奈特格林
 date: 2026-10-30
-version: 2026.10.30
+version: 2026.11.21
 keywords: [termites, Isoptera, literature search, papers, OpenAlex, Crossref, abstracts]
 permalink: /en/papers/
 ---

@@ -5,12 +5,12 @@ description: "现存等翅下目（白蚁）分类索引：6 支系、13 科、1
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-17
-version: 2026.10.30
+version: 2026.11.21
 keywords: [白蚁, 等翅目, Isoptera, 学名, 中文名, 名录索引, 分类, Termitidae]
 permalink: /list/
 ---
 
-# 现存等翅下目 Extant Isoptera（白蚁领科）分类索引（2026.10.30）
+# 现存等翅下目 Extant Isoptera（白蚁领科）分类索引（2026.11.21）
 
 ## 分类框架
 

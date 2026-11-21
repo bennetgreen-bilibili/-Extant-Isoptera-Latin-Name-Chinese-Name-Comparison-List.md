@@ -5,7 +5,7 @@ description: "Historial de versiones: cada versión es su fecha de publicación 
 lang: es
 author: 班奈特格林 (Bennet Green)
 date: 2026-10-29
-version: 2026.10.30
+version: 2026.11.21
 permalink: /es/changelog/
 ---
 {%- assign CH = site.data.changelog -%}

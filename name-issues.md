@@ -5,7 +5,7 @@ description: "名录与 GBIF Backbone、Catalogue of Life、Blattodea Species Fi
 lang: zh-CN
 author: 班奈特格林
 date: 2026-10-29
-version: 2026.10.30
+version: 2026.11.21
 keywords: [白蚁, 等翅目, 名录, 命名差异, 分类核对, GBIF, Catalogue of Life, Blattodea Species File]
 permalink: /list/name-issues/
 pagefind: true
