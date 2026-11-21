@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-21",
  "sections": [
   {
    "heading": "新北区西南部的同属种",
@@ -30,6 +30,21 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "佛罗里达的一次采集与销毁（2002）",
+   "heading_en": "A collection and destruction in Florida (2002)",
+   "heading_es": "Una recolección y destrucción en Florida (2002)",
+   "paragraphs": [
+    {
+     "src": [
+      "S0390"
+     ],
+     "text": "据摘要，Scheffrahn（2013）在佛罗里达非本地白蚁的现状综述中记载，坦帕（Tampa）附近采集到的哈伯德边白蚁（<i>Marginitermes hubbardi</i>）单一群体于 2002 年被销毁；该综述的记录依据佛罗里达大学白蚁收藏的凭证标本。",
+     "text_en": "According to the abstract, in his review of the status of non-native termites in Florida, Scheffrahn (2013) recorded that a single colony of <i>Marginitermes hubbardi</i> collected near Tampa was destroyed in 2002; the records in the review are based on voucher specimens in the University of Florida Termite Collection.",
+     "text_es": "Según el resumen, en su revisión del estado de las termitas no nativas de Florida, Scheffrahn (2013) registró que una única colonia de <i>Marginitermes hubbardi</i> recolectada cerca de Tampa fue destruida en 2002; los registros de la revisión se basan en especímenes testigo de la Colección de Termitas de la Universidad de Florida."
+    }
+   ]
   }
  ],
  "references": [
@@ -42,6 +57,11 @@
    "id": "S0357",
    "citation": "Myles, T. G. 1997. A second species of the drywood termite genus Marginitermes (Isoptera: Kalotermitidae). The Canadian Entomologist.",
    "url": "https://doi.org/10.4039/ent129757-4"
+  },
+  {
+   "id": "S0390",
+   "citation": "Scheffrahn, R. H. 2013. Overview and current status of non-native termites (Isoptera) in Florida. Florida Entomologist.",
+   "url": "https://doi.org/10.1653/024.096.0311"
   }
  ]
 }

@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-21",
+ "sections": [
+  {
+   "heading": "巴西东北甘蔗园中的记录与害虫地位（2004）",
+   "heading_en": "Record in sugar cane in Northeast Brazil and pest status (2004)",
+   "heading_es": "Registro en caña de azúcar del nordeste de Brasil y estatus de plaga (2004)",
+   "paragraphs": [
+    {
+     "src": [
+      "S0386"
+     ],
+     "text": "据摘要，侏儒聚白蚁（<i>Syntermes nanus</i>）是巴西东北甘蔗园记录的 4 种白蚁之一，也是该种首次被报道与甘蔗相关联；Miranda 等（2004）评估该种不构成潜在害虫。",
+     "text_en": "According to the abstract, <i>Syntermes nanus</i> is one of the four species recorded in sugar cane plantations in Northeast Brazil and was reported for the first time in association with this crop; Miranda et al. (2004) assessed it as not a potential pest.",
+     "text_es": "Según el resumen, <i>Syntermes nanus</i> es una de las cuatro especies registradas en plantaciones de caña de azúcar del nordeste de Brasil y se citó por primera vez asociada a este cultivo; Miranda et al. (2004) la evaluaron como no potencialmente plaga."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0386",
+   "citation": "Miranda, C. S.; Vasconcellos, A.; Bandeira, A. G. 2004. Termites in sugar cane in Northeast Brazil: ecological aspects and pest status. Neotropical Entomology.",
+   "url": "https://doi.org/10.1590/s1519-566x2004000200015"
+  }
+ ]
+}

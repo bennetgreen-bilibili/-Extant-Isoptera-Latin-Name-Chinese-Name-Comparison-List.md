@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "sections": [
   {
    "heading": "高等白蚁中的兼性孤雌生殖",
@@ -23,6 +23,29 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "属的建立与 11 个新组合（1985）",
+   "heading_en": "Establishment of the genus and eleven new combinations (1985)",
+   "heading_es": "Establecimiento del género y once combinaciones nuevas (1985)",
+   "paragraphs": [
+    {
+     "src": [
+      "S0387"
+     ],
+     "text": "据摘要，Fontes（1985）建立生白蚁属（<i>Embiratermes</i>），以喜庆生白蚁（<i>Embiratermes festivellus</i>）为模式种，并把戟白蚁属（<i>Armitermes</i>）的 11 个种全部移入该属，形成 11 个新组合；新属与戟白蚁属近缘。该文当时把新属置于象白蚁亚科（<i>Nasutitermitinae</i>），本站现置于聚白蚁亚科（<i>Syntermitinae</i>）。",
+     "text_en": "According to the abstract, Fontes (1985) erected <i>Embiratermes</i> with <i>Embiratermes festivellus</i> as type species and transferred all 11 species of <i>Armitermes</i> into the new genus, producing 11 new combinations; the new genus is related to <i>Armitermes</i>. The paper placed the new genus in <i>Nasutitermitinae</i>, whereas this site now places it in <i>Syntermitinae</i>.",
+     "text_es": "Según el resumen, Fontes (1985) estableció <i>Embiratermes</i> con <i>Embiratermes festivellus</i> como especie tipo y transfirió las 11 especies de <i>Armitermes</i> al género nuevo, formando 11 combinaciones nuevas; el género nuevo está relacionado con <i>Armitermes</i>. El trabajo lo situó en <i>Nasutitermitinae</i>, mientras que este sitio lo sitúa ahora en <i>Syntermitinae</i>."
+    },
+    {
+     "src": [
+      "S0387"
+     ],
+     "text": "据摘要，建立生白蚁属的依据不只是兵蚁、工蚁与有翅成虫的形态特征，还包括兵蚁的防御行为：生白蚁属兵蚁的防御行为与戟白蚁属兵蚁不同。",
+     "text_en": "According to the abstract, the new genus was justified not only by morphological characters of soldiers, workers and alates but also by soldier defensive behaviour: the defensive behaviour of <i>Embiratermes</i> soldiers differs from that of <i>Armitermes</i> soldiers.",
+     "text_es": "Según el resumen, el género nuevo no se justificó solo por caracteres morfológicos de soldados, obreras y alados, sino también por el comportamiento defensivo de los soldados: el de los soldados de <i>Embiratermes</i> difiere del de los de <i>Armitermes</i>."
+    }
+   ]
   }
  ],
  "references": [
@@ -30,6 +53,11 @@
    "id": "S0375",
    "citation": "Fougeyrollas, R.; Dolejšová, K.; Sillam-Dussès, D.; Roy, V.; Poteaux, C.; Hanus, R.; Roisin, Y. 2015. Asexual queen succession in the higher termite Embiratermes neotenicus. Proceedings of the Royal Society B.",
    "url": "https://doi.org/10.1098/rspb.2015.0260"
+  },
+  {
+   "id": "S0387",
+   "citation": "Fontes, L. R. 1985. New genera and new species of Nasutitermitinae from the Neotropical Region (Isoptera, Termitidae). Revista Brasileira de Zoologia.",
+   "url": "https://doi.org/10.1590/s0101-81751985000100002"
   }
  ]
 }

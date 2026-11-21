@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-21",
+ "sections": [
+  {
+   "heading": "属的模式种与描述基础（1985）",
+   "heading_en": "Type species and material of 1985",
+   "heading_es": "Especie tipo y material de 1985",
+   "paragraphs": [
+    {
+     "src": [
+      "S0387"
+     ],
+     "text": "据摘要，长毛地球白蚁（<i>Ibitermes curupira</i>）是 Fontes（1985）建立地球白蚁属（<i>Ibitermes</i>）时该属唯一的种，并被指定为模式种；其描述依据是来自巴西的一批兵蚁与工蚁。",
+     "text_en": "According to the abstract, <i>Ibitermes curupira</i> was the only species included when Fontes (1985) erected <i>Ibitermes</i> and was designated its type species; the description was based on a series of soldiers and workers from Brazil.",
+     "text_es": "Según el resumen, <i>Ibitermes curupira</i> fue la única especie incluida cuando Fontes (1985) estableció <i>Ibitermes</i> y fue designada su especie tipo; la descripción se basó en una serie de soldados y obreras de Brasil."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0387",
+   "citation": "Fontes, L. R. 1985. New genera and new species of Nasutitermitinae from the Neotropical Region (Isoptera, Termitidae). Revista Brasileira de Zoologia.",
+   "url": "https://doi.org/10.1590/s0101-81751985000100002"
+  }
+ ]
+}

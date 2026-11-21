@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-21",
+ "sections": [
+  {
+   "heading": "巴西东北甘蔗园中的记录与害虫地位（2004）",
+   "heading_en": "Record in sugar cane in Northeast Brazil and pest status (2004)",
+   "heading_es": "Registro en caña de azúcar del nordeste de Brasil y estatus de plaga (2004)",
+   "paragraphs": [
+    {
+     "src": [
+      "S0386"
+     ],
+     "text": "据摘要，Miranda 等（2004）在巴西东北的甘蔗园记录努登舍尔德圆筒白蚁（<i>Cylindrotermes nordenskioldi</i>），这是该种首次被报道与甘蔗相关联；研究把该种列为有害种类，并建议开展其繁殖生物学与种群动态研究。",
+     "text_en": "According to the abstract, Miranda et al. (2004) recorded <i>Cylindrotermes nordenskioldi</i> in sugar cane plantations in Northeast Brazil, the first report of the species in association with sugar cane; the study classified it as a harmful species and recommended research on its reproductive biology and population dynamics.",
+     "text_es": "Según el resumen, Miranda et al. (2004) registraron <i>Cylindrotermes nordenskioldi</i> en plantaciones de caña de azúcar del nordeste de Brasil, el primer registro de la especie asociada a la caña de azúcar; el estudio la clasificó como especie dañina y recomendó investigar su biología reproductiva y dinámica poblacional."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0386",
+   "citation": "Miranda, C. S.; Vasconcellos, A.; Bandeira, A. G. 2004. Termites in sugar cane in Northeast Brazil: ecological aspects and pest status. Neotropical Entomology.",
+   "url": "https://doi.org/10.1590/s1519-566x2004000200015"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-21",
+ "sections": [
+  {
+   "heading": "1985 年的属级关系与种检索表",
+   "heading_en": "Generic relationships and species key of 1985",
+   "heading_es": "Relaciones genéricas y clave de especies de 1985",
+   "paragraphs": [
+    {
+     "src": [
+      "S0387"
+     ],
+     "text": "据摘要，Fontes（1985）指出壶头白蚁属（<i>Cyrilliotermes</i>）与曲白蚁属（<i>Curvitermes</i>）近缘，并把当时置于曲白蚁属的 2 个种移入壶头白蚁属；同一研究提供曲白蚁属的种检索表，用于鉴定该属各种。",
+     "text_en": "According to the abstract, Fontes (1985) considered <i>Cyrilliotermes</i> to be related to <i>Curvitermes</i> and transferred two species then placed in <i>Curvitermes</i> to <i>Cyrilliotermes</i>; the same study provided a species key for <i>Curvitermes</i>.",
+     "text_es": "Según el resumen, Fontes (1985) consideró que <i>Cyrilliotermes</i> está relacionado con <i>Curvitermes</i> y transfirió dos especies entonces situadas en <i>Curvitermes</i> a <i>Cyrilliotermes</i>; el mismo estudio aportó una clave de especies para <i>Curvitermes</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0387",
+   "citation": "Fontes, L. R. 1985. New genera and new species of Nasutitermitinae from the Neotropical Region (Isoptera, Termitidae). Revista Brasileira de Zoologia.",
+   "url": "https://doi.org/10.1590/s0101-81751985000100002"
+  }
+ ]
+}

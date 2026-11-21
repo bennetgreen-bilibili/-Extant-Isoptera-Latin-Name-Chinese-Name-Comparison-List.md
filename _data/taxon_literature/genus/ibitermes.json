@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-21",
+ "sections": [
+  {
+   "heading": "属的建立（1985）",
+   "heading_en": "Establishment of the genus (1985)",
+   "heading_es": "Establecimiento del género (1985)",
+   "paragraphs": [
+    {
+     "src": [
+      "S0387"
+     ],
+     "text": "据摘要，Fontes（1985）建立地球白蚁属（<i>Ibitermes</i>），当时仅含长毛地球白蚁（<i>Ibitermes curupira</i>）1 种，描述依据是来自巴西的一批兵蚁与工蚁；新属似与生白蚁属（<i>Embiratermes</i>）近缘。该文当时把新属置于象白蚁亚科（<i>Nasutitermitinae</i>），本站现置于聚白蚁亚科（<i>Syntermitinae</i>）。",
+     "text_en": "According to the abstract, Fontes (1985) erected <i>Ibitermes</i> with a single species, <i>Ibitermes curupira</i>, described from a series of soldiers and workers from Brazil; the new genus appears to be related to <i>Embiratermes</i>. The paper placed the new genus in <i>Nasutitermitinae</i>, whereas this site now places it in <i>Syntermitinae</i>.",
+     "text_es": "Según el resumen, Fontes (1985) estableció <i>Ibitermes</i> con una sola especie, <i>Ibitermes curupira</i>, descrita a partir de una serie de soldados y obreras de Brasil; el género nuevo parece estar relacionado con <i>Embiratermes</i>. El trabajo lo situó en <i>Nasutitermitinae</i>, mientras que este sitio lo sitúa ahora en <i>Syntermitinae</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0387",
+   "citation": "Fontes, L. R. 1985. New genera and new species of Nasutitermitinae from the Neotropical Region (Isoptera, Termitidae). Revista Brasileira de Zoologia.",
+   "url": "https://doi.org/10.1590/s0101-81751985000100002"
+  }
+ ]
+}

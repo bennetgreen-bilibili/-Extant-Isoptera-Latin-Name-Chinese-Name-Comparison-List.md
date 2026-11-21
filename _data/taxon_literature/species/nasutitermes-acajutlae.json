@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-21",
+ "sections": [
+  {
+   "heading": "佛罗里达干坞帆船上的一次截获（2012）",
+   "heading_en": "An interception on a dry-docked sailboat in Florida (2012)",
+   "heading_es": "Una interceptación en un velero en dique seco en Florida (2012)",
+   "paragraphs": [
+    {
+     "src": [
+      "S0390"
+     ],
+     "text": "据摘要，Scheffrahn（2013）记载，佛罗里达皮尔斯堡（Fort Pierce）一艘干坞帆船上的一群成熟阿卡胡特拉象白蚁（<i>Nasutitermes acajutlae</i>）于 2012 年被销毁；该记录依据佛罗里达大学白蚁收藏的凭证标本。",
+     "text_en": "According to the abstract, Scheffrahn (2013) recorded that a mature colony of <i>Nasutitermes acajutlae</i> on a dry-docked sailboat at Fort Pierce, Florida, was destroyed in 2012; the record is based on voucher specimens in the University of Florida Termite Collection.",
+     "text_es": "Según el resumen, Scheffrahn (2013) registró que una colonia madura de <i>Nasutitermes acajutlae</i> en un velero en dique seco en Fort Pierce, Florida, fue destruida en 2012; el registro se basa en especímenes testigo de la Colección de Termitas de la Universidad de Florida."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0390",
+   "citation": "Scheffrahn, R. H. 2013. Overview and current status of non-native termites (Isoptera) in Florida. Florida Entomologist.",
+   "url": "https://doi.org/10.1653/024.096.0311"
+  }
+ ]
+}

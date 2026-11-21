@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-21",
+ "sections": [
+  {
+   "heading": "属的建立（2021）",
+   "heading_en": "Establishment of the genus (2021)",
+   "heading_es": "Establecimiento del género (2021)",
+   "paragraphs": [
+    {
+     "src": [
+      "S0393"
+     ],
+     "text": "据摘要，Romero Arias 等（2021）基于 113 个线粒体基因组的系统发育分析建立单型新属库塔巴白蚁属（<i>Koutabatermes</i>）；在尖白蚁亚科（<i>Apicotermitinae</i>）中，该属位于有兵蚁类群的一条长枝上。",
+     "text_en": "According to the abstract, Romero Arias et al. (2021) erected the monotypic genus <i>Koutabatermes</i> on the basis of a phylogenetic analysis of 113 mitogenomes; within <i>Apicotermitinae</i> it sits on a long branch among the soldiered taxa.",
+     "text_es": "Según el resumen, Romero Arias et al. (2021) establecieron el género monotípico <i>Koutabatermes</i> a partir de un análisis filogenético de 113 mitogenomas; dentro de <i>Apicotermitinae</i> se sitúa en una rama larga entre los taxones con soldados."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0393",
+   "citation": "Romero Arias, J.; Boom, A. F.; Wang, M.; Clitheroe, C.; Šobotník, J.; Stiblík, P.; Bourguignon, T.; Roisin, Y. 2021. Molecular phylogeny and historical biogeography of Apicotermitinae (Blattodea: Termitidae). Systematic Entomology.",
+   "url": "https://doi.org/10.1111/syen.12486"
+  }
+ ]
+}

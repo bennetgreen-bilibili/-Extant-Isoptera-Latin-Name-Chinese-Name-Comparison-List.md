@@ -1,0 +1,43 @@
+{
+ "updated": "2026-11-21",
+ "sections": [
+  {
+   "heading": "113 个线粒体基因组的系统发育（2021）",
+   "heading_en": "Phylogeny from 113 mitogenomes (2021)",
+   "heading_es": "Filogenia a partir de 113 mitogenomas (2021)",
+   "paragraphs": [
+    {
+     "src": [
+      "S0393"
+     ],
+     "text": "据摘要，Romero Arias 等（2021）用 113 个线粒体基因组重建尖白蚁亚科（<i>Apicotermitinae</i>）的系统发育，结果支持该亚科为单系；有兵蚁的类群位于基部，两个无兵蚁的支系嵌套在有兵蚁类群之中。",
+     "text_en": "According to the abstract, Romero Arias et al. (2021) reconstructed the phylogeny of <i>Apicotermitinae</i> from 113 mitogenomes and recovered the subfamily as monophyletic; the soldiered taxa are basal, and two soldierless lineages are nested within them.",
+     "text_es": "Según el resumen, Romero Arias et al. (2021) reconstruyeron la filogenia de <i>Apicotermitinae</i> a partir de 113 mitogenomas y recuperaron la subfamilia como monofilética; los taxones con soldados son basales y dos linajes sin soldados están anidados dentro de ellos."
+    },
+    {
+     "src": [
+      "S0393"
+     ],
+     "text": "据摘要，同一项基于 113 个线粒体基因组的研究显示，解甲白蚁属（<i>Anoplotermes</i>）、腹爆白蚁属（<i>Ruptitermes</i>）与无利器白蚁属（<i>Astalotermes</i>）均为多系群；亚洲的属构成一个单系群，是新热带解甲白蚁属群与一个含和白蚁属（<i>Adaiphrotermes</i>）、和平白蚁属（<i>Apolemotermes</i>）的非洲小支的姐妹群。",
+     "text_en": "According to the abstract, the same analysis of 113 mitogenomes recovered <i>Anoplotermes</i>, <i>Ruptitermes</i> and <i>Astalotermes</i> as polyphyletic; the Asian genera form a monophyletic group that is the sister group of the Neotropical <i>Anoplotermes</i> group plus a small African clade containing <i>Adaiphrotermes</i> and <i>Apolemotermes</i>.",
+     "text_es": "Según el resumen, el mismo análisis de 113 mitogenomas recuperó <i>Anoplotermes</i>, <i>Ruptitermes</i> y <i>Astalotermes</i> como polifiléticos; los géneros asiáticos forman un grupo monofilético que es grupo hermano del grupo neotropical de <i>Anoplotermes</i> más un pequeño clado africano que contiene <i>Adaiphrotermes</i> y <i>Apolemotermes</i>."
+    },
+    {
+     "src": [
+      "S0393"
+     ],
+     "text": "据摘要，尖白蚁亚科经历两次走出非洲的扩散，一次进入东方区，一次进入新热带区；其分化与扩散的时间在始新世—渐新世界线之后，与其他新等翅类（Neoisoptera）类群一致。",
+     "text_en": "According to the abstract, <i>Apicotermitinae</i> dispersed out of Africa twice, once into the Oriental region and once into the Neotropical region; its divergence and dispersal dates fall after the Eocene–Oligocene boundary, in agreement with other Neoisoptera.",
+     "text_es": "Según el resumen, <i>Apicotermitinae</i> se dispersó fuera de África dos veces, una hacia la región Oriental y otra hacia la región Neotropical; sus fechas de divergencia y dispersión son posteriores al límite Eoceno–Oligoceno, en consonancia con otros Neoisoptera."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0393",
+   "citation": "Romero Arias, J.; Boom, A. F.; Wang, M.; Clitheroe, C.; Šobotník, J.; Stiblík, P.; Bourguignon, T.; Roisin, Y. 2021. Molecular phylogeny and historical biogeography of Apicotermitinae (Blattodea: Termitidae). Systematic Entomology.",
+   "url": "https://doi.org/10.1111/syen.12486"
+  }
+ ]
+}

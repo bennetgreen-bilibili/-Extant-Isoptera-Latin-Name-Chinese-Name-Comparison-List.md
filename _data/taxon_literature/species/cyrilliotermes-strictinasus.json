@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-21",
  "sections": [
   {
    "heading": "异名修订",
@@ -15,6 +15,21 @@
      "text_es": "Según el resumen, Constantino y Carvalho (2012) confirmaron <i>Cyrilliotermes strictinasus</i> como especie válida distinta y trataron <i>Cyrilliotermes cupim</i> como su sinónimo posterior."
     }
    ]
+  },
+  {
+   "heading": "1985 年的新组合与产地记录",
+   "heading_en": "New combination and locality record of 1985",
+   "heading_es": "Combinación nueva y registro de localidad de 1985",
+   "paragraphs": [
+    {
+     "src": [
+      "S0387"
+     ],
+     "text": "据摘要，Fontes（1985）把当时置于曲白蚁属的缩鼻壶头白蚁（<i>Cyrilliotermes strictinasus</i>）移入新建的壶头白蚁属（<i>Cyrilliotermes</i>），并为该种报告了一个新产地；该种由此成为壶头白蚁属建立时的 5 个种之一。",
+     "text_en": "According to the abstract, Fontes (1985) transferred <i>Cyrilliotermes strictinasus</i>, then placed in <i>Curvitermes</i>, to the newly erected <i>Cyrilliotermes</i> and reported a new locality for the species; it thus became one of the five species included in the genus at its establishment.",
+     "text_es": "Según el resumen, Fontes (1985) transfirió <i>Cyrilliotermes strictinasus</i>, entonces situada en <i>Curvitermes</i>, al género recién establecido <i>Cyrilliotermes</i> y registró una localidad nueva para la especie; esta pasó así a ser una de las cinco especies incluidas en el género al establecerse."
+    }
+   ]
   }
  ],
  "references": [
@@ -22,6 +37,11 @@
    "id": "S0302",
    "citation": "Constantino, R.; Sérgio H. C. Carvalho. 2012. A taxonomic revision of the Neotropical termite genus Cyrilliotermes Fontes (Isoptera, Termitidae, Syntermitinae). Zootaxa.",
    "doi": "10.11646/zootaxa.3186.1.2"
+  },
+  {
+   "id": "S0387",
+   "citation": "Fontes, L. R. 1985. New genera and new species of Nasutitermitinae from the Neotropical Region (Isoptera, Termitidae). Revista Brasileira de Zoologia.",
+   "url": "https://doi.org/10.1590/s0101-81751985000100002"
   }
  ]
 }

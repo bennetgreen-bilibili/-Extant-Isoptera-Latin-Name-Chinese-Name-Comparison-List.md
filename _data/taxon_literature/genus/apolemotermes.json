@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-21",
+ "sections": [
+  {
+   "heading": "属的建立与系统位置（2021）",
+   "heading_en": "Establishment and phylogenetic position (2021)",
+   "heading_es": "Establecimiento y posición filogenética (2021)",
+   "paragraphs": [
+    {
+     "src": [
+      "S0393"
+     ],
+     "text": "据摘要，Romero Arias 等（2021）建立单型新属和平白蚁属（<i>Apolemotermes</i>），系统发育分析显示它与和白蚁属（<i>Adaiphrotermes</i>）互为姐妹群；两属同处一个非洲小支，该小支与单系的新热带解甲白蚁属（<i>Anoplotermes</i>）群互为姐妹群，而亚洲的属又位于这一大支之外。",
+     "text_en": "According to the abstract, Romero Arias et al. (2021) erected the monotypic genus <i>Apolemotermes</i>, which the phylogenetic analysis recovered as the sister group of <i>Adaiphrotermes</i>; both genera belong to a small African clade that is the sister group of the monophyletic Neotropical <i>Anoplotermes</i> group, and the Asian genera lie outside this larger clade.",
+     "text_es": "Según el resumen, Romero Arias et al. (2021) establecieron el género monotípico <i>Apolemotermes</i>, que el análisis filogenético recuperó como grupo hermano de <i>Adaiphrotermes</i>; ambos géneros forman parte de un pequeño clado africano que es grupo hermano del grupo neotropical monofilético de <i>Anoplotermes</i>, y los géneros asiáticos quedan fuera de ese clado mayor."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0393",
+   "citation": "Romero Arias, J.; Boom, A. F.; Wang, M.; Clitheroe, C.; Šobotník, J.; Stiblík, P.; Bourguignon, T.; Roisin, Y. 2021. Molecular phylogeny and historical biogeography of Apicotermitinae (Blattodea: Termitidae). Systematic Entomology.",
+   "url": "https://doi.org/10.1111/syen.12486"
+  }
+ ]
+}

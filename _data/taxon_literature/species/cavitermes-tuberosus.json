@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "sections": [
   {
    "heading": "群体组成与孤雌蚁后的遗传来源",
@@ -23,6 +23,37 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "菌胞体样结构与 wCtub 菌株（2018）",
+   "heading_en": "Bacteriome-like structure and strain wCtub (2018)",
+   "heading_es": "Estructura similar a un bacterioma y cepa wCtub (2018)",
+   "paragraphs": [
+    {
+     "src": [
+      "S0401"
+     ],
+     "text": "据摘要，Hellemans 等（2018）在肉瘤腔白蚁（<i>Cavitermes tuberosus</i>）蚁后的中肠前部发现类似菌胞体的结构，蚁后经配子二倍化孤雌产生非扩散蚁后。",
+     "text_en": "According to the abstract, Hellemans et al. (2018) found a bacteriome-like structure in the anterior mesenteron of <i>Cavitermes tuberosus</i> queens, which produce non-dispersing queens parthenogenetically through gamete duplication.",
+     "text_es": "Según el resumen, Hellemans et al. (2018) hallaron una estructura similar a un bacterioma en el mesenterón anterior de las reinas de <i>Cavitermes tuberosus</i>, que producen reinas no dispersantes por partenogénesis mediante duplicación de gametos."
+    },
+    {
+     "src": [
+      "S0401"
+     ],
+     "text": "据摘要，同一菌株 wCtub（Wolbachia F 超群）见于法属圭亚那、特立尼达与巴西帕拉伊巴的 28 个巢，跨度超过 3500 km；感染不分品级、性别与生殖来源（有性生殖或孤雌生殖），qPCR 显示菌胞体样结构及其周围肠道的细菌密度更高，16S 测序中 Wolbachia 占菌胞体内细菌 reads 的 97% 以上。",
+     "text_en": "According to the abstract, a single strain, wCtub (Wolbachia supergroup F), was found in 28 nests from French Guiana, Trinidad and Paraíba, Brazil, spanning more than 3,500 km; infection is not restricted by caste, sex or reproductive origin (sexual or parthenogenetic), qPCR showed higher bacterial density in the bacteriome-like structure and the surrounding gut, and in 16S sequencing Wolbachia accounted for more than 97% of the bacterial reads in the bacteriome.",
+     "text_es": "Según el resumen, una única cepa, wCtub (supergrupo F de Wolbachia), se encontró en 28 nidos de Guayana Francesa, Trinidad y Paraíba (Brasil), con una extensión de más de 3500 km; la infección no está restringida por casta, sexo ni origen reproductivo (sexual o partenogenético), la qPCR mostró mayor densidad bacteriana en la estructura similar a un bacterioma y en el intestino circundante, y en la secuenciación 16S Wolbachia representó más del 97 % de las lecturas bacterianas del bacterioma."
+    },
+    {
+     "src": [
+      "S0401"
+     ],
+     "text": "据摘要，wCtub 与臭虫（<i>Cimex lectularius</i>）的专性营养共生体 wCle 在 16S、bioA 与 5 个 MLST 基因上的一致性达 99%。",
+     "text_en": "According to the abstract, wCtub shares 99% identity with wCle, the obligate nutritional symbiont of <i>Cimex lectularius</i>, across 16S, bioA and five MLST genes.",
+     "text_es": "Según el resumen, wCtub comparte un 99 % de identidad con wCle, el simbionte nutricional obligado de <i>Cimex lectularius</i>, en 16S, bioA y cinco genes MLST."
+    }
+   ]
   }
  ],
  "references": [
@@ -30,6 +61,11 @@
    "id": "S0379",
    "citation": "Fournier, D.; Hellemans, S.; Hanus, R.; Roisin, Y. 2016. Facultative asexual reproduction and genetic diversity of populations in the humivorous termite Cavitermes tuberosus. Proceedings of the Royal Society B.",
    "url": "https://doi.org/10.1098/rspb.2016.0196"
+  },
+  {
+   "id": "S0401",
+   "citation": "Hellemans, S.; Kaczmarek, N.; Marynowska, M.; Całusińska, M.; Roisin, Y.; Fournier, D. 2018. Bacteriome-associated Wolbachia of the parthenogenetic termite Cavitermes tuberosus. FEMS Microbiology Ecology.",
+   "url": "https://doi.org/10.1093/femsec/fiy235"
   }
  ]
 }

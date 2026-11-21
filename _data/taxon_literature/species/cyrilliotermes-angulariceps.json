@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-21",
  "sections": [
   {
    "heading": "异名修订",
@@ -15,6 +15,21 @@
      "text_es": "Según el resumen, Constantino y Carvalho (2012) designaron simultáneamente los nombres antiguos <i>Cyrilliotermes cashassa</i> y <i>Cyrilliotermes jaci</i> como sinónimos júnior de <i>Cyrilliotermes angulariceps</i>."
     }
    ]
+  },
+  {
+   "heading": "1985 年的新组合",
+   "heading_en": "New combination of 1985",
+   "heading_es": "Combinación nueva de 1985",
+   "paragraphs": [
+    {
+     "src": [
+      "S0387"
+     ],
+     "text": "据摘要，Fontes（1985）从曲白蚁属（<i>Curvitermes</i>）移出 2 个种另立壶头白蚁属（<i>Cyrilliotermes</i>），角头壶头白蚁（<i>Cyrilliotermes angulariceps</i>）是其中之一，在新属中作新组合处理。",
+     "text_en": "According to the abstract, Fontes (1985) removed two species from <i>Curvitermes</i> to form the new genus <i>Cyrilliotermes</i>; one of them is <i>Cyrilliotermes angulariceps</i>, which is treated there as a new combination.",
+     "text_es": "Según el resumen, Fontes (1985) separó dos especies de <i>Curvitermes</i> para formar el género nuevo <i>Cyrilliotermes</i>; una de ellas es <i>Cyrilliotermes angulariceps</i>, tratada allí como combinación nueva."
+    }
+   ]
   }
  ],
  "references": [
@@ -22,6 +37,11 @@
    "id": "S0302",
    "citation": "Constantino, R.; Sérgio H. C. Carvalho. 2012. A taxonomic revision of the Neotropical termite genus Cyrilliotermes Fontes (Isoptera, Termitidae, Syntermitinae). Zootaxa.",
    "doi": "10.11646/zootaxa.3186.1.2"
+  },
+  {
+   "id": "S0387",
+   "citation": "Fontes, L. R. 1985. New genera and new species of Nasutitermitinae from the Neotropical Region (Isoptera, Termitidae). Revista Brasileira de Zoologia.",
+   "url": "https://doi.org/10.1590/s0101-81751985000100002"
   }
  ]
 }

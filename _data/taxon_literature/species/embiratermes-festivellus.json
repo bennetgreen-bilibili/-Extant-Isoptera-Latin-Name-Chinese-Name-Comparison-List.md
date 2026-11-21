@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-21",
  "sections": [
   {
    "heading": "实验室亚群体中的补充生殖蚁",
@@ -15,6 +15,21 @@
      "text_es": "Según Costa-Leonardo et al. (1998), un fragmento de nido de <i>Embiratermes festivellus</i> con ninfas de tercer estadio, soldados y obreras se mantuvo en condiciones de laboratorio; tras 12 meses, toda la subcolonia experimental contenía dos hembras ninfoides pigmentadas, dos machos ninfoides pigmentados, una sola larva, siete ninfas del mismo estadio, 148 obreras, cinco soldados y muchos huevos. Las hembras estaban poniendo huevos pero no eran fisogástricas al año, a diferencia de algunas ninfoides de la misma especie recogidas en colonias naturales. Los autores concluyen que la especie es capaz de producir neoténicos ninfoides (según el resumen)."
     }
    ]
+  },
+  {
+   "heading": "模式种的指定（1985）",
+   "heading_en": "Designation as type species (1985)",
+   "heading_es": "Designación como especie tipo (1985)",
+   "paragraphs": [
+    {
+     "src": [
+      "S0387"
+     ],
+     "text": "据摘要，Fontes（1985）建立生白蚁属（<i>Embiratermes</i>）时，把当时置于戟白蚁属（<i>Armitermes</i>）的喜庆生白蚁（<i>Embiratermes festivellus</i>）指定为模式种，并作新组合处理。",
+     "text_en": "According to the abstract, when Fontes (1985) erected <i>Embiratermes</i>, he designated <i>Embiratermes festivellus</i>, then placed in <i>Armitermes</i>, as the type species and treated it as a new combination.",
+     "text_es": "Según el resumen, cuando Fontes (1985) estableció <i>Embiratermes</i>, designó <i>Embiratermes festivellus</i>, entonces situada en <i>Armitermes</i>, como especie tipo y la trató como combinación nueva."
+    }
+   ]
   }
  ],
  "references": [
@@ -22,6 +37,11 @@
    "id": "S0331",
    "citation": "Costa-Leonardo, A. M.; Soares, H. X.; Barsotti, R. C. 1998. Response to orphaning in two Neotropical termites: Armitermes euamignathus and Embiratermes festivellus. Entomologia Experimentalis et Applicata.",
    "url": "https://doi.org/10.1046/j.1570-7458.1998.00352.x"
+  },
+  {
+   "id": "S0387",
+   "citation": "Fontes, L. R. 1985. New genera and new species of Nasutitermitinae from the Neotropical Region (Isoptera, Termitidae). Revista Brasileira de Zoologia.",
+   "url": "https://doi.org/10.1590/s0101-81751985000100002"
   }
  ]
 }

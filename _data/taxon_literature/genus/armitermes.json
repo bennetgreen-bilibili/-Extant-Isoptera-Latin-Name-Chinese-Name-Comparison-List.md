@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-21",
+ "sections": [
+  {
+   "heading": "1985 年移出的 11 个种",
+   "heading_en": "Eleven species transferred out in 1985",
+   "heading_es": "Once especies transferidas en 1985",
+   "paragraphs": [
+    {
+     "src": [
+      "S0387"
+     ],
+     "text": "据摘要，Fontes（1985）把戟白蚁属（<i>Armitermes</i>）的 11 个种全部移入新建的生白蚁属（<i>Embiratermes</i>），组成 11 个新组合；作者指出戟白蚁属兵蚁的防御行为与生白蚁属兵蚁不同，这一行为差异与兵蚁、工蚁、有翅成虫的形态特征共同支持把后者分出。",
+     "text_en": "According to the abstract, Fontes (1985) transferred all 11 species of <i>Armitermes</i> to the newly erected <i>Embiratermes</i>, forming 11 new combinations; the author noted that the defensive behaviour of <i>Armitermes</i> soldiers differs from that of <i>Embiratermes</i> soldiers, and this behavioural difference, together with morphological characters of soldiers, workers and alates, supported the separation of the new genus.",
+     "text_es": "Según el resumen, Fontes (1985) transfirió las 11 especies de <i>Armitermes</i> al género recién establecido <i>Embiratermes</i>, formando 11 combinaciones nuevas; el autor señaló que el comportamiento defensivo de los soldados de <i>Armitermes</i> difiere del de los de <i>Embiratermes</i>, y esa diferencia conductual, junto con caracteres morfológicos de soldados, obreras y alados, respaldó la separación del género nuevo."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0387",
+   "citation": "Fontes, L. R. 1985. New genera and new species of Nasutitermitinae from the Neotropical Region (Isoptera, Termitidae). Revista Brasileira de Zoologia.",
+   "url": "https://doi.org/10.1590/s0101-81751985000100002"
+  }
+ ]
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-21",
  "sections": [
   {
    "heading": "属级修订与异名整理",
@@ -15,6 +15,37 @@
      "text_es": "Según Constantino y Carvalho (2012), la revisión taxonómica de <i>Cyrilliotermes</i> incorpora la morfología intestinal a la diagnosis del género y aporta una clave de soldados y mapas de distribución de todas las especies; la misma revisión asignó además los tres nombres antiguos del género a sus respectivas especies (según el resumen)."
     }
    ]
+  },
+  {
+   "heading": "属的建立与 5 个种（1985）",
+   "heading_en": "Establishment of the genus and its five species (1985)",
+   "heading_es": "Establecimiento del género y sus cinco especies (1985)",
+   "paragraphs": [
+    {
+     "src": [
+      "S0387"
+     ],
+     "text": "据摘要，Fontes（1985）描述新热带具颚兵蚁组的 3 个新属，其中壶头白蚁属（<i>Cyrilliotermes</i>）与曲白蚁属（<i>Curvitermes</i>）近缘。该属建立时含 5 个种：自曲白蚁属移入的缩鼻壶头白蚁（<i>Cyrilliotermes strictinasus</i>）与角头壶头白蚁（<i>Cyrilliotermes angulariceps</i>），以及 3 个新种，即壶头白蚁属的旧异名 <i>Cyrilliotermes cupim</i>（被指定为模式种）、壶头白蚁属的旧异名 <i>Cyrilliotermes jaci</i> 与壶头白蚁属的旧异名 <i>Cyrilliotermes cashassa</i>。该文当时把新属置于象白蚁亚科（<i>Nasutitermitinae</i>），本站现置于聚白蚁亚科（<i>Syntermitinae</i>）。",
+     "text_en": "According to the abstract, Fontes (1985) described three new Neotropical genera of the mandibulate-soldier group of Nasutitermitinae, among which <i>Cyrilliotermes</i> is related to <i>Curvitermes</i>. The genus was erected with five species: <i>Cyrilliotermes strictinasus</i> and <i>Cyrilliotermes angulariceps</i>, transferred from <i>Curvitermes</i>, and three new species, namely the former names <i>Cyrilliotermes cupim</i> (designated as type species), <i>Cyrilliotermes jaci</i> and <i>Cyrilliotermes cashassa</i>. The paper placed the new genus in <i>Nasutitermitinae</i>, whereas this site now places it in <i>Syntermitinae</i>.",
+     "text_es": "Según el resumen, Fontes (1985) describió tres géneros neotropicales nuevos del grupo de soldados mandibulados de <i>Nasutitermitinae</i>, entre los cuales <i>Cyrilliotermes</i> está relacionado con <i>Curvitermes</i>. El género se estableció con cinco especies: <i>Cyrilliotermes strictinasus</i> y <i>Cyrilliotermes angulariceps</i>, transferidas de <i>Curvitermes</i>, y tres especies nuevas, a saber, los nombres antiguos <i>Cyrilliotermes cupim</i> (designada especie tipo), <i>Cyrilliotermes jaci</i> y <i>Cyrilliotermes cashassa</i>. El trabajo situó el género nuevo en <i>Nasutitermitinae</i>, mientras que este sitio lo sitúa ahora en <i>Syntermitinae</i>."
+    },
+    {
+     "src": [
+      "S0387"
+     ],
+     "text": "据摘要，同一研究据巴西标本描述 <i>Cyrilliotermes cupim</i> 的有翅成虫与兵蚁，据苏里南标本描述 <i>Cyrilliotermes cashassa</i> 的有翅成虫与兵蚁，并据苏里南的兵蚁描述 <i>Cyrilliotermes jaci</i>；缩鼻壶头白蚁另有一个新产地记录。",
+     "text_en": "According to the abstract, the same study described alates and soldiers of <i>Cyrilliotermes cupim</i> from Brazilian material and of <i>Cyrilliotermes cashassa</i> from Surinamese material, and soldiers of <i>Cyrilliotermes jaci</i> from Suriname; a new locality was also reported for <i>Cyrilliotermes strictinasus</i>.",
+     "text_es": "Según el resumen, el mismo estudio describió alados y soldados de <i>Cyrilliotermes cupim</i> a partir de material de Brasil y de <i>Cyrilliotermes cashassa</i> a partir de material de Surinam, y soldados de <i>Cyrilliotermes jaci</i> de Surinam; además se registró una localidad nueva para <i>Cyrilliotermes strictinasus</i>."
+    },
+    {
+     "src": [
+      "S0387"
+     ],
+     "text": "据摘要，该研究提供具颚兵蚁组 11 个属的兵蚁检索表，以及喙白蚁属（<i>Rhynchotermes</i>）、曲白蚁属（<i>Curvitermes</i>）与壶头白蚁属（<i>Cyrilliotermes</i>）的种检索表。",
+     "text_en": "According to the abstract, the study provided a key to the soldiers of the 11 genera of the mandibulate-soldier group, as well as species keys for <i>Rhynchotermes</i>, <i>Curvitermes</i> and <i>Cyrilliotermes</i>.",
+     "text_es": "Según el resumen, el estudio aportó una clave de soldados para los 11 géneros del grupo de soldados mandibulados, así como claves de especies para <i>Rhynchotermes</i>, <i>Curvitermes</i> y <i>Cyrilliotermes</i>."
+    }
+   ]
   }
  ],
  "references": [
@@ -22,6 +53,11 @@
    "id": "S0302",
    "citation": "Constantino, R.; Sérgio H. C. Carvalho. 2012. A taxonomic revision of the Neotropical termite genus Cyrilliotermes Fontes (Isoptera, Termitidae, Syntermitinae). Zootaxa.",
    "doi": "10.11646/zootaxa.3186.1.2"
+  },
+  {
+   "id": "S0387",
+   "citation": "Fontes, L. R. 1985. New genera and new species of Nasutitermitinae from the Neotropical Region (Isoptera, Termitidae). Revista Brasileira de Zoologia.",
+   "url": "https://doi.org/10.1590/s0101-81751985000100002"
   }
  ]
 }

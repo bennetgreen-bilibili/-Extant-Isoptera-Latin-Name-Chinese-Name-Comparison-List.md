@@ -1,0 +1,43 @@
+{
+ "updated": "2026-11-21",
+ "sections": [
+  {
+   "heading": "去王后的工蚁型补充生殖蚁（1990）",
+   "heading_en": "Ergatoid replacement reproductives after orphaning (1990)",
+   "heading_es": "Reproductores de reemplazo ergatoides tras la orfandad (1990)",
+   "paragraphs": [
+    {
+     "src": [
+      "S0397"
+     ],
+     "text": "据摘要，Roisin（1990）对巴布亚锯白蚁（<i>Microcerotermes papuanus</i>）的野外巢作实验性去王处理，巢内大量工蚁仅经一次蜕皮即成为工蚁型（ergatoid）补充生殖蚁，其中雌性约 2 个月后开始产卵。",
+     "text_en": "According to the abstract, Roisin (1990) experimentally orphaned field nests of <i>Microcerotermes papuanus</i>; numerous workers of the colony became ergatoid replacement reproductives after a single moult, and the females began laying eggs about two months later.",
+     "text_es": "Según el resumen, Roisin (1990) eliminó experimentalmente a las reinas en nidos de campo de <i>Microcerotermes papuanus</i>; numerosas obreras de la colonia se convirtieron en reproductores de reemplazo ergatoides tras una sola muda, y las hembras comenzaron a poner huevos unos dos meses después."
+    },
+    {
+     "src": [
+      "S0397"
+     ],
+     "text": "据摘要，该种若虫正常在 8–9 月发育到末龄，此时部分若虫会蜕皮为若虫型（nymphoid）补充生殖蚁；在长期实验中，若虫型补充生殖蚁完全取代了工蚁型补充生殖蚁，雌性变为膨腹的 physogastric 个体。",
+     "text_en": "According to the abstract, nymphs of the species normally reach their final instars in August–September, when some of them moult into nymphoid replacement reproductives; in long-term experiments the nymphoids completely replaced the ergatoids, and the females became physogastric.",
+     "text_es": "Según el resumen, las ninfas de la especie alcanzan normalmente sus estadios finales en agosto–septiembre, momento en que algunas mudan a reproductores de reemplazo ninfoides; en experimentos prolongados los ninfoides reemplazaron por completo a los ergatoides y las hembras se volvieron physogástricas."
+    },
+    {
+     "src": [
+      "S0397"
+     ],
+     "text": "据摘要，作者认为以补充生殖蚁替代蚁后的过程虽省时，但对群体耗能很大，因而选择压力弱于同域分布的第一象白蚁（<i>Nasutitermes princeps</i>）。",
+     "text_en": "According to the abstract, the author considered that replacing the queen with replacement reproductives saves time but is energetically costly for the colony, so the selective pressure is weaker than in the sympatric <i>Nasutitermes princeps</i>.",
+     "text_es": "Según el resumen, el autor consideró que reemplazar a la reina por reproductores de reemplazo ahorra tiempo pero es energéticamente costoso para la colonia, por lo que la presión selectiva es más débil que en <i>Nasutitermes princeps</i>, especie simpátrica."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0397",
+   "citation": "Roisin, Y. 1990. Queen replacement in the termite Microcerotermes papuanus. Entomologia Experimentalis et Applicata.",
+   "url": "https://doi.org/10.1111/j.1570-7458.1990.tb01383.x"
+  }
+ ]
+}

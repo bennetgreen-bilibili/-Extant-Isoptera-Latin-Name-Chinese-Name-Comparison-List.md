@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-21",
  "sections": [
   {
    "heading": "补充生殖蚁的类型",
@@ -15,6 +15,21 @@
      "text_es": "Según el resumen, Roisin y Pasteels (1987) compararon <i>Nasutitermes novarumhebridarum</i> con el simpátrico <i>Nasutitermes princeps</i> y hallaron que el primero produce únicamente neoténicos ergatoides tras retirar la reina, mientras que el segundo produce fácilmente neoténicos adultoides (braquípteros), de modo que ambas especies adoptan estrategias distintas de desarrollo de castas en el mismo hábitat."
     }
    ]
+  },
+  {
+   "heading": "与巴布亚锯白蚁补充生殖蚁策略的对比（1990）",
+   "heading_en": "Contrast with the replacement-reproductive strategy of Microcerotermes papuanus (1990)",
+   "heading_es": "Contraste con la estrategia de reproductores de reemplazo de Microcerotermes papuanus (1990)",
+   "paragraphs": [
+    {
+     "src": [
+      "S0397"
+     ],
+     "text": "据摘要，Roisin（1990）把巴布亚锯白蚁（<i>Microcerotermes papuanus</i>）的补充生殖蚁形成与同域分布的第一象白蚁（<i>Nasutitermes princeps</i>）相比较，认为前者虽能以工蚁型（ergatoid）补充生殖蚁迅速替代蚁后，但过程对群体耗能大，其选择压力弱于第一象白蚁。",
+     "text_en": "According to the abstract, Roisin (1990) compared replacement-reproductive formation in <i>Microcerotermes papuanus</i> with that of the sympatric <i>Nasutitermes princeps</i> and concluded that, although the former can quickly replace its queen with ergatoid reproductives, the process is energetically costly for the colony, so its selective pressure is weaker than in <i>Nasutitermes princeps</i>.",
+     "text_es": "Según el resumen, Roisin (1990) comparó la formación de reproductores de reemplazo en <i>Microcerotermes papuanus</i> con la de <i>Nasutitermes princeps</i>, especie simpátrica, y concluyó que, aunque la primera puede sustituir rápidamente a su reina por reproductores ergatoides, el proceso es energéticamente costoso para la colonia, por lo que su presión selectiva es más débil que en <i>Nasutitermes princeps</i>."
+    }
+   ]
   }
  ],
  "references": [
@@ -22,6 +37,11 @@
    "id": "S0201",
    "citation": "Roisin, Y. & Pasteels, J. M. (1987). Caste developmental potentialities in the termite Nasutitermes novarumhebridarum. Entomologia Experimentalis et Applicata.",
    "doi": "10.1111/j.1570-7458.1987.tb00556.x"
+  },
+  {
+   "id": "S0397",
+   "citation": "Roisin, Y. 1990. Queen replacement in the termite Microcerotermes papuanus. Entomologia Experimentalis et Applicata.",
+   "url": "https://doi.org/10.1111/j.1570-7458.1990.tb01383.x"
   }
  ]
 }

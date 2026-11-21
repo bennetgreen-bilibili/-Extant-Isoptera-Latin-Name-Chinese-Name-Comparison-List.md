@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-21",
+ "sections": [
+  {
+   "heading": "1985 年的次异名处理",
+   "heading_en": "A junior synonym established in 1985",
+   "heading_es": "Un sinónimo posterior establecido en 1985",
+   "paragraphs": [
+    {
+     "src": [
+      "S0387"
+     ],
+     "text": "据摘要，Fontes（1985）把曲白蚁属的旧组合 <i>Curvitermes planioculus</i> Mathews, 1977 处理为小型曲白蚁（<i>Curvitermes minor</i>）的次异名。",
+     "text_en": "According to the abstract, Fontes (1985) treated the former combination <i>Curvitermes planioculus</i> Mathews, 1977 as a junior synonym of <i>Curvitermes minor</i>.",
+     "text_es": "Según el resumen, Fontes (1985) trató la combinación antigua <i>Curvitermes planioculus</i> Mathews, 1977 como sinónimo posterior de <i>Curvitermes minor</i>."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0387",
+   "citation": "Fontes, L. R. 1985. New genera and new species of Nasutitermitinae from the Neotropical Region (Isoptera, Termitidae). Revista Brasileira de Zoologia.",
+   "url": "https://doi.org/10.1590/s0101-81751985000100002"
+  }
+ ]
+}
