@@ -41,8 +41,10 @@
 | `_reports/species-morphology-no-source.md` | 文库中对不上号的待补种 |
 | `_reports/species-morphology-bd-review.md` | B/C 类种级形态复核方法与结果 |
 | `_reports/species-morphology-bd-disposition.csv` | B/C 类逐种处置表 |
-| `_reports/species-morphology-dispatch.md` | 剩余 2177 种 + 46 属的补全派单（批次、渠道、工时） |
+| `_reports/species-morphology-dispatch.md` | 剩余待补种与缺属的补全派单（批次、渠道、工时） |
 | `_reports/species-morphology-dispatch.csv` | 派单逐条明细（每种的 BSF 入口、目标文献、获取渠道） |
+| `_reports/morphology-request-list.csv` | 1990 年后待补种的原始文献索取清单（127 篇，含 DOI、建议收件邮箱） |
+| `_reports/morphology-request-emails.md` | 按作者整理的索取邮件正文与文献表（可直接粘贴发送） |
 | `_reports/域名迁移可行性评估-2026-11-12.md` | 换域名的判断依据 |
 | `_reports/域名迁移操作手册-2026-11-12.md` | 域名迁移步骤 |
 | `_reports/域名迁移验收-2026-11-14.md` | 301 现状与收尾 |

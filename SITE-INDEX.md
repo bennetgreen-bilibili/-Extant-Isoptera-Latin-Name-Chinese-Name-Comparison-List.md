@@ -135,7 +135,7 @@
 | `_data/` 顶层文件 | 26 |
 | `_data/` 分片目录（数据集 / 分片文件） | 14 / 8812 |
 | `build_*.py` 脚本（`_tools/` + `.github/workflows/`） | 20 |
-| 说明文档（`_tools/*.md` / `_reports/**/*.md`） | 15 / 16 |
+| 说明文档（`_tools/*.md` / `_reports/**/*.md`） | 15 / 17 |
 
 > 数字由 `_tools/build_ai_index.py --write` 从 `_data/taxonomy.json`、`_species/`、各页面目录与文件系统直接统计，改完数据请重跑 `_tools/regen_all.sh`。
 <!-- AUTO:INDEX:END -->
