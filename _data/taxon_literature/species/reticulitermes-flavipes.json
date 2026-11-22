@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-23",
  "sections": [
   {
    "heading": "2005 年基于 16S rRNA 的异名处理",
@@ -84,6 +84,21 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "俄勒冈州群体的形态与分子鉴定",
+   "heading_en": "Morphological and molecular identification of an Oregon population",
+   "heading_es": "Identificación morfológica y molecular de una población de Oregón",
+   "paragraphs": [
+    {
+     "text": "据摘要，根据 McKern 等（2006）研究，俄勒冈州 Keizer 的一个群体以 2 头兵蚁按 Scheffrahn 与 Su（1994）检索表及兵蚁上唇特征鉴定为北美散白蚁（<i>Reticulitermes flavipes</i>），其工蚁 16S rRNA 序列属单倍型 FF（GenBank 登录号 D2001958）；该单倍型主要见于美国东部，作者据此认为俄勒冈群体来自人为引入。",
+     "text_en": "According to the study by McKern et al. (2006), a colony at Keizer, Oregon, was identified as <i>Reticulitermes flavipes</i> on the basis of 2 soldiers using the keys of Scheffrahn and Su (1994) and soldier labral characters, and the 16S rRNA sequence of its workers belonged to haplotype FF (GenBank accession D2001958); this haplotype is found mainly in the eastern United States, and the authors therefore consider the Oregon population to be an anthropogenic introduction.",
+     "text_es": "Según el estudio de McKern et al. (2006), una colonia de Keizer, Oregón, fue identificada como <i>Reticulitermes flavipes</i> a partir de 2 soldados usando las claves de Scheffrahn y Su (1994) y caracteres del labro de los soldados, y la secuencia de 16S rRNA de sus obreras pertenecía al haplotipo FF (número de acceso GenBank D2001958); este haplotipo se encuentra principalmente en el este de Estados Unidos, por lo que los autores consideran que la población de Oregón es una introducción antrópica.",
+     "src": [
+      "S0403"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -93,12 +108,12 @@
    "doi": "10.1603/0013-8746(2005)098[0395:geftso]2.0.co;2"
   },
   {
-   "id": "S0002",
-   "citation": "黄求应 等（译）. 白蚁生物学现代研究合集. 中译合集."
-  },
-  {
    "id": "S0004",
    "citation": "Krishna K. et al. Treatise on the Isoptera of the world. Bulletin of the American Museum of Natural History 377, 2013."
+  },
+  {
+   "id": "S0002",
+   "citation": "黄求应 等（译）. 白蚁生物学现代研究合集. 中译合集."
   },
   {
    "id": "S0359",
@@ -109,6 +124,11 @@
    "id": "S0368",
    "citation": "Bourguignon, T.; Lo, N.; Šobotník, J.; Sillam-Dussès, D.; Roisin, Y.; Evans, T. A. 2016. Oceanic dispersal, vicariance and human introduction shaped the modern distribution of the termites Reticulitermes, Heterotermes and Coptotermes. Proceedings of the Royal Society B.",
    "url": "https://doi.org/10.1098/rspb.2016.0179"
+  },
+  {
+   "id": "S0403",
+   "citation": "McKern, J. A.; Szalanski, A. L.; Austin, J. W. 2006. First record of Reticulitermes flavipes and Reticulitermes hageni in Oregon (Isoptera: Rhinotermitidae). Florida Entomologist.",
+   "doi": "10.1653/0015-4040(2006)89[541:frorfa]2.0.co;2"
   }
  ]
 }

@@ -1,0 +1,28 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "查科公园的树巢与木食记录",
+   "heading_en": "Arboreal nests and wood feeding in Chaco National Park",
+   "heading_es": "Nidos arbóreos y alimentación de madera en el Parque Nacional Chaco",
+   "paragraphs": [
+    {
+     "text": "根据 Laffont 等（2004）研究，阿根廷查科省 Chaco 国家公园的斯特伦基锯白蚁（<i>Microcerotermes strunckii</i>）在活树干与枝条上筑树巢，巢位高逾 3 m；该种蚁巢（n=6）平均高 0.44 m（0.26–0.68 m）、平均直径 0.68 m（0.40–0.93 m），取食木材。",
+     "text_en": "According to the study by Laffont et al. (2004), <i>Microcerotermes strunckii</i> builds arboreal nests on living trunks and branches in Chaco National Park, Chaco Province, Argentina, at heights above 3 m; its nests (n = 6) have a mean height of 0.44 m (0.26–0.68 m) and a mean diameter of 0.68 m (0.40–0.93 m), and the species feeds on wood.",
+     "text_es": "Según el estudio de Laffont et al. (2004), <i>Microcerotermes strunckii</i> construye nidos arbóreos sobre troncos y ramas vivos en el Parque Nacional Chaco, provincia de Chaco, Argentina, a alturas superiores a 3 m; sus nidos (n = 6) tienen una altura media de 0,44 m (0,26–0,68 m) y un diámetro medio de 0,68 m (0,40–0,93 m), y la especie se alimenta de madera.",
+     "src": [
+      "S0414"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0414",
+   "citation": "Laffont, E. R.; Torales, G. J.; Coronel, J. M.; Arbino, M. O.; Godoy, M. C. 2004. Termite (Insecta, Isoptera) fauna from natural parks of the northeast region of Argentina. Scientia Agricola 61(6): 665–670.",
+   "doi": "10.1590/s0103-90162004000600016",
+   "url": "https://www.scielo.br/j/sa/a/X7SLZBZHRgxCFJnjsYkZf8P/?lang=en&format=pdf"
+  }
+ ]
+}

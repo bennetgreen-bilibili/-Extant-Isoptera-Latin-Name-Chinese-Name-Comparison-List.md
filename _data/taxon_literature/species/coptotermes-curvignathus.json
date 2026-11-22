@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-23",
  "sections": [
   {
    "heading": "南洋杉人工林中的危害",
@@ -15,6 +15,21 @@
      "text_es": "Según Jasmi y Ahmad (2011), <i>Coptotermes curvignathus</i> es la principal especie plaga en la plantación de <i>Araucaria cunninghamii</i> del parque forestal de Teluk Bahang, Penang, Malasia: de 289 árboles inspeccionados, 62 (21,5%) estaban infestados por termitas y 46 de ellos por esta especie, es decir el 74% de todos los árboles infestados; se registró en árboles sanos, en declive, muertos y en tocones (4, 12, 11 y 19 respectivamente), y en cuatro árboles aparentemente sanos ya se veían signos iniciales de infestación, como láminas y tubos de barro; los autores citan además bibliografía previa según la cual la especie puede dañar y acabar matando árboles de cualquier edad."
     }
    ]
+  },
+  {
+   "heading": "油棕园泥炭地中的活组织取食",
+   "heading_en": "Feeding on living oil palm tissue in peat-land plantations",
+   "heading_es": "Consumo de tejido vivo de palma aceitera en plantaciones sobre turba",
+   "paragraphs": [
+    {
+     "text": "据摘要，根据 Kon 等（2012）研究，在马来西亚砂拉越的油棕园（北砂拉越 5–7 年生、南砂拉越 13–15 年生植株，各设 2 个样点）调查中，曲颚乳白蚁（<i>Coptotermes curvignathus</i>）取食油棕活组织，造成植株受害甚至死亡；同一调查以 50×6 m 改良样带记录 18 种白蚁，分属 2 科 11 属，其中乳白蚁属（<i>Coptotermes</i>）与长鼻白蚁属（<i>Schedorhinotermes</i>）当时归入鼻白蚁科（Rhinotermitidae），该科在 2024 年被拆分，乳白蚁属现置于异白蚁科（Heterotermitidae）。",
+     "text_en": "According to the study by Kon et al. (2012), in oil palm plantations in Sarawak, Malaysia (palms 5–7 years old in northern Sarawak and 13–15 years old in southern Sarawak, with two sites each), <i>Coptotermes curvignathus</i> fed on living oil palm tissues, causing damage and even death of the trees. The same survey recorded 18 termite species in 50 × 6 m modified transects, belonging to 2 families and 11 genera; <i>Coptotermes</i> and <i>Schedorhinotermes</i> were then placed in Rhinotermitidae, a family split in 2024, and <i>Coptotermes</i> is now placed in Heterotermitidae.",
+     "text_es": "Según el estudio de Kon et al. (2012), en plantaciones de palma aceitera de Sarawak, Malasia (palmas de 5–7 años en el norte de Sarawak y de 13–15 años en el sur, con dos sitios en cada zona), <i>Coptotermes curvignathus</i> se alimentó de tejidos vivos de la palma, causando daños e incluso la muerte de los árboles. El mismo muestreo registró 18 especies de termitas en transectos modificados de 50 × 6 m, pertenecientes a 2 familias y 11 géneros; <i>Coptotermes</i> y <i>Schedorhinotermes</i> se situaban entonces en Rhinotermitidae, familia dividida en 2024, y <i>Coptotermes</i> se ubica actualmente en Heterotermitidae.",
+     "src": [
+      "S0402"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -22,6 +37,11 @@
    "id": "S0237",
    "citation": "Jasmi, A. H.; Ahmad, A. H. 2011. Termite Incidence on an Araucaria Plantation Forest in Teluk Bahang, Penang. Insects 2(4).",
    "doi": "10.3390/insects2040469"
+  },
+  {
+   "id": "S0402",
+   "citation": "Kon, T.-W.; Bong, J. C. F.; King, J.-H. P.; Leong, C.-T. S. 2012. Biodiversity of Termite (Insecta: Isoptera) in Tropical Peat Land Cultivated with Oil Palms. Pakistan Journal of Biological Sciences.",
+   "doi": "10.3923/pjbs.2012.108.120"
   }
  ]
 }

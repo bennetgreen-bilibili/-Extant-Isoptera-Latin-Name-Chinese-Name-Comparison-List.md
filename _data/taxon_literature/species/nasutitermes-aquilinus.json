@@ -1,0 +1,28 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "阿根廷东北的树巢尺寸",
+   "heading_en": "Arboreal nest dimensions in northeastern Argentina",
+   "heading_es": "Dimensiones de los nidos arbóreos en el noreste de Argentina",
+   "paragraphs": [
+    {
+     "text": "根据 Laffont 等（2004）研究，阿根廷查科省 Chaco 与科连特斯省 Mburucuyá 两处国家公园的鹰喙象白蚁（<i>Nasutitermes aquilinus</i>）树巢（n=10）平均高 1.39 m（0.65–2.10 m）、平均直径 1.19 m（0.42–1.80 m），为该研究所量蚁巢中最高；该种也利用倒茎，在公园居民区于桉树（<i>Eucalyptus</i>）与 <i>Melia</i> azedarach 上筑巢。",
+     "text_en": "According to the study by Laffont et al. (2004), arboreal nests (n = 10) of <i>Nasutitermes aquilinus</i> in Chaco National Park (Chaco Province) and Mburucuyá National Park (Corrientes Province), Argentina, have a mean height of 1.39 m (0.65–2.10 m) and a mean diameter of 1.19 m (0.42–1.80 m), the tallest among the nests measured in that study; the species also uses fallen stems and nests on <i>Eucalyptus</i> and <i>Melia</i> azedarach in the residential area of the park.",
+     "text_es": "Según el estudio de Laffont et al. (2004), los nidos arbóreos (n = 10) de <i>Nasutitermes aquilinus</i> en el Parque Nacional Chaco (provincia de Chaco) y el Parque Nacional Mburucuyá (provincia de Corrientes), Argentina, tienen una altura media de 1,39 m (0,65–2,10 m) y un diámetro medio de 1,19 m (0,42–1,80 m), la mayor altura entre los nidos medidos en ese estudio; la especie también utiliza tallos caídos y anida sobre <i>Eucalyptus</i> y <i>Melia</i> azedarach en la zona residencial del parque.",
+     "src": [
+      "S0414"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0414",
+   "citation": "Laffont, E. R.; Torales, G. J.; Coronel, J. M.; Arbino, M. O.; Godoy, M. C. 2004. Termite (Insecta, Isoptera) fauna from natural parks of the northeast region of Argentina. Scientia Agricola 61(6): 665–670.",
+   "doi": "10.1590/s0103-90162004000600016",
+   "url": "https://www.scielo.br/j/sa/a/X7SLZBZHRgxCFJnjsYkZf8P/?lang=en&format=pdf"
+  }
+ ]
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-23",
  "sections": [
   {
    "heading": "肠道鞭毛虫组合",
@@ -53,6 +53,21 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "工蚁唾液腺的细胞类型",
+   "heading_en": "Cell types of the worker salivary gland",
+   "heading_es": "Tipos celulares de la glándula salival de la obrera",
+   "paragraphs": [
+    {
+     "text": "据摘要，根据 Costa-Leonardo（1997）研究，锯齿白蚁（<i>Serritermes serrifer</i>）工蚁的唾液腺腺泡由 4 型分泌细胞与中央管细胞组成：I 型细胞含大量电子透明液泡且液泡可相互汇合，II 型细胞窄小、液泡少，III 型细胞位于腺泡周边、常 2 个一组、顶端膜深内陷并具微绒毛，IV 型细胞含电子致密颗粒（小颗粒或螺旋、同心环状大颗粒）；其中 IV 型细胞为等翅目唾液腺中首次报道（摘要为法文）。",
+     "text_en": "According to the study by Costa-Leonardo (1997), the salivary gland acini of <i>Serritermes serrifer</i> workers consist of four types of secretory cells plus central duct cells: type I cells contain numerous electron-lucent vacuoles that may coalesce, type II cells are narrow with few vacuoles, type III cells lie at the periphery of the acinus, often in pairs, with deeply invaginated apical membranes bearing microvilli, and type IV cells contain electron-dense granules (small granules or large spiral and concentric ones); type IV cells are reported for the first time in the salivary glands of Isoptera (abstract in French).",
+     "text_es": "Según el estudio de Costa-Leonardo (1997), los acinos de la glándula salival de las obreras de <i>Serritermes serrifer</i> constan de cuatro tipos de células secretoras y células del conducto central: las células de tipo I contienen numerosas vacuolas electrónlucidas que pueden fusionarse, las de tipo II son estrechas y con pocas vacuolas, las de tipo III se sitúan en la periferia del acino, a menudo en pares, con membranas apicales profundamente invaginadas y microvellosidades, y las de tipo IV contienen gránulos electrón-densos (gránulos pequeños o grandes espirales y concéntricos); las células de tipo IV se registran por primera vez en las glándulas salivales de Isoptera (resumen en francés).",
+     "src": [
+      "S0404"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -70,6 +85,11 @@
    "id": "S0381",
    "citation": "Šobotník, J.; Bourguignon, T.; Hanus, R.; Weyda, F.; Roisin, Y. 2010. Structure and function of defensive glands in soldiers of Glossotermes oculatus (Isoptera: Serritermitidae). Biological Journal of the Linnean Society.",
    "url": "https://doi.org/10.1111/j.1095-8312.2010.01392.x"
+  },
+  {
+   "id": "S0404",
+   "citation": "Costa-Leonardo, A. M. 1997. Secretion of salivary glands of the Brazilian termite Serritermes serrifer Hagen & Bates (Isoptera: Serritermitidae). Annales de la Société entomologique de France (Nouvelle Série).",
+   "doi": "10.1080/21686351.1997.12279175"
   }
  ]
 }

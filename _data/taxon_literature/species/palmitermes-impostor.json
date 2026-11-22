@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-23",
  "sections": [
   {
    "heading": "无性蚁后更替与巢群结构",
@@ -23,6 +23,21 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "兵蚁形态与工蚁特征的冲突",
+   "heading_en": "Conflict between soldier morphology and worker characters",
+   "heading_es": "Conflicto entre la morfología del soldado y los caracteres de la obrera",
+   "paragraphs": [
+    {
+     "text": "据摘要，根据 Hellemans 等（2017）研究，骗子棕榈白蚁（<i>Palmitermes impostor</i>）兵蚁具弹击式上颚、外形与白蚁属（<i>Termes</i>）相似，仅凭兵蚁形态会被归入该属；其工蚁的消化道与上颚却与腔白蚁属（<i>Cavitermes</i>）一致，作者据此讨论了单独依据兵蚁形态建立属名的风险。",
+     "text_en": "According to the study by Hellemans et al. (2017), soldiers of <i>Palmitermes impostor</i> have snapping mandibles and resemble those of <i>Termes</i>, so that soldier morphology alone would place the species in that genus; the workers' digestive tract and mandibles, however, agree with <i>Cavitermes</i>, and the authors discuss the risk of erecting genus names on soldier morphology alone.",
+     "text_es": "Según el estudio de Hellemans et al. (2017), los soldados de <i>Palmitermes impostor</i> tienen mandíbulas de chasquido y se parecen a los de <i>Termes</i>, de modo que la morfología del soldado por sí sola situaría la especie en ese género; sin embargo, el tubo digestivo y las mandíbulas de las obreras coinciden con <i>Cavitermes</i>, y los autores discuten el riesgo de erigir nombres genéricos basándose solo en la morfología del soldado.",
+     "src": [
+      "S0407"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -30,6 +45,11 @@
    "id": "S0191",
    "citation": "Hellemans, S.; Dolejšová, K.; Křivánek, J.; Fournier, D.; Hanus, R.; Roisin, Y. 2019. Widespread occurrence of asexual reproduction in higher termites of the Termes group (Termitidae: Termitinae). BMC Evolutionary Biology 19.",
    "doi": "10.1186/s12862-019-1459-3"
+  },
+  {
+   "id": "S0407",
+   "citation": "Hellemans, S.; Bourguignon, T.; Kyjaková, P.; Hanus, R.; Roisin, Y. 2017. Mitochondrial and chemical profiles reveal a new genus and species of Neotropical termite with snapping soldiers, Palmitermes impostor (Termitidae: Termitinae). Invertebrate Systematics.",
+   "doi": "10.1071/is16089"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-23",
  "sections": [
   {
    "heading": "追踪信息素与专性客居者",
@@ -61,6 +61,21 @@
      "text_es": "Las obreras que las transportan continúan por la pista de forrajeo hasta que las larvas se desprenden y caen en la hojarasca, donde después se entierran en el suelo (según el resumen)."
     }
    ]
+  },
+  {
+   "heading": "巢群中的多繁殖个体",
+   "heading_en": "Multiple reproductives in nests",
+   "heading_es": "Múltiples reproductores en los nidos",
+   "paragraphs": [
+    {
+     "text": "据摘要，根据 Cunha 与 Brandão（2002）研究，巴西戈亚斯州 Serra de Caldas Novas 州立公园的弯肠缩白蚁（<i>Constrictotermes cyphergaster</i>）树巢中，4 个巢含多个繁殖个体，26 个巢见补充繁殖个体；这些巢中客白蚁属（<i>Inquilinitermes</i>）若虫占 9.47%，弯肠缩白蚁若虫占 0.78%。",
+     "text_en": "According to the study by Cunha and Brandão (2002), in arboreal nests of <i>Constrictotermes cyphergaster</i> at the Serra de Caldas Novas State Park, Goiás, Brazil, 4 nests contained multiple reproductives and secondary reproductives were found in 26 nests; in these nests, nymphs of <i>Inquilinitermes</i> accounted for 9.47% and nymphs of <i>Constrictotermes cyphergaster</i> for 0.78%.",
+     "text_es": "Según el estudio de Cunha y Brandão (2002), en los nidos arbóreos de <i>Constrictotermes cyphergaster</i> del Parque Estatal de Serra de Caldas Novas, Goiás, Brasil, 4 nidos contenían múltiples reproductores y se encontraron reproductores secundarios en 26 nidos; en esos nidos, las ninfas de <i>Inquilinitermes</i> representaron el 9,47% y las de <i>Constrictotermes cyphergaster</i> el 0,78%.",
+     "src": [
+      "S0416"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -78,6 +93,11 @@
    "id": "S0245",
    "citation": "Mário Herculano de Oliveira; Vieira, R. V. D. S.; Eloi, I.; Pires-Silva, C. M.; de Lima, H. V. G.; Andrade, M. R. D. L.; Maria Avany Bezerra‐Gusmão. 2018. “The road to reproduction”: foraging trails of Constrictotermes cyphergaster (Termitidae: Nasutitermitinae) as maternities for Staphylinidae beetles. Sociobiology.",
    "doi": "10.13102/sociobiology.v65i3.2902"
+  },
+  {
+   "id": "S0416",
+   "citation": "Cunha, H. F. da; Brandão, D. 2002. Multiple reproductives in nests of the Neotropical termite Constrictotermes cyphergaster (Isoptera, Termitidae, Nasutitermitinae). Revista Brasileira de Entomologia.",
+   "doi": "10.1590/s0085-56262002000100004"
   }
  ]
 }

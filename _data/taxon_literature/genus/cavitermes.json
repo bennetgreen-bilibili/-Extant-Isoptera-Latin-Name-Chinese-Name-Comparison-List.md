@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-23",
  "sections": [
   {
    "heading": "对称弹颚兵蚁的化学系统学",
@@ -38,6 +38,21 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "与棕榈白蚁属的姐妹群关系",
+   "heading_en": "Sister-group relationship with <i>Palmitermes</i>",
+   "heading_es": "Relación de grupos hermanos con <i>Palmitermes</i>",
+   "paragraphs": [
+    {
+     "text": "据摘要，根据 Hellemans 等（2017）研究，全线粒体基因组与工蚁表皮碳氢化合物分析支持腔白蚁属（<i>Cavitermes</i>）与棕榈白蚁属（<i>Palmitermes</i>）互为姐妹群；棕榈白蚁属（<i>Palmitermes</i>）的兵蚁形态与白蚁属（<i>Termes</i>）相似，但工蚁特征与腔白蚁属（<i>Cavitermes</i>）一致。",
+     "text_en": "According to the study by Hellemans et al. (2017), complete mitochondrial genomes and worker cuticular hydrocarbons support <i>Cavitermes</i> and <i>Palmitermes</i> as sister groups; the soldiers of <i>Palmitermes</i> resemble those of <i>Termes</i>, whereas its worker characters agree with <i>Cavitermes</i>.",
+     "text_es": "Según el estudio de Hellemans et al. (2017), los genomas mitocondriales completos y los hidrocarburos cuticulares de las obreras apoyan a <i>Cavitermes</i> y <i>Palmitermes</i> como grupos hermanos; los soldados de <i>Palmitermes</i> se parecen a los de <i>Termes</i>, mientras que los caracteres de sus obreras coinciden con <i>Cavitermes</i>.",
+     "src": [
+      "S0407"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -50,6 +65,11 @@
    "id": "S0379",
    "citation": "Fournier, D.; Hellemans, S.; Hanus, R.; Roisin, Y. 2016. Facultative asexual reproduction and genetic diversity of populations in the humivorous termite Cavitermes tuberosus. Proceedings of the Royal Society B.",
    "url": "https://doi.org/10.1098/rspb.2016.0196"
+  },
+  {
+   "id": "S0407",
+   "citation": "Hellemans, S.; Bourguignon, T.; Kyjaková, P.; Hanus, R.; Roisin, Y. 2017. Mitochondrial and chemical profiles reveal a new genus and species of Neotropical termite with snapping soldiers, Palmitermes impostor (Termitidae: Termitinae). Invertebrate Systematics.",
+   "doi": "10.1071/is16089"
   }
  ]
 }

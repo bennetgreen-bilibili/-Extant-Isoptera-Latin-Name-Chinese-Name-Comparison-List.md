@@ -1,7 +1,7 @@
 {
  "version": 1,
  "created": "2026-11-11",
- "updated": "2026-11-21T21:21:28+08:00",
+ "updated": "2026-11-23T02:37:26+08:00",
  "notes": "每轮 20 个阅读单元（15 个文库 chunk + 5 条仅摘要记录）。扫描产出候选后由 _tools/library_scan.py mark --date 登记；只有草稿获用户批准并落盘后，才把该轮 reading_passes 记为完成。",
  "quota": {
   "total": 20,
@@ -309,8 +309,8 @@
    ]
   },
   "abstract:S0136": {
-   "reads": 4,
-   "last_read": "2026-11-17T21:05:47+08:00",
+   "reads": 5,
+   "last_read": "2026-11-23T02:37:26+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -330,6 +330,11 @@
     {
      "date": "2026-11-17",
      "focus": "taxonomy",
+     "source_id": "S0136"
+    },
+    {
+     "date": "2026-11-23",
+     "focus": "morphology",
      "source_id": "S0136"
     }
    ]
@@ -531,8 +536,8 @@
    ]
   },
   "abstract:S0139": {
-   "reads": 4,
-   "last_read": "2026-11-17T21:05:47+08:00",
+   "reads": 5,
+   "last_read": "2026-11-23T02:37:26+08:00",
    "history": [
     {
      "date": "2026-11-11-r2",
@@ -552,13 +557,18 @@
     {
      "date": "2026-11-17",
      "focus": "taxonomy",
+     "source_id": "S0139"
+    },
+    {
+     "date": "2026-11-23",
+     "focus": "morphology",
      "source_id": "S0139"
     }
    ]
   },
   "abstract:S0140": {
-   "reads": 4,
-   "last_read": "2026-11-17T21:05:47+08:00",
+   "reads": 5,
+   "last_read": "2026-11-23T02:37:26+08:00",
    "history": [
     {
      "date": "2026-11-11-r2",
@@ -578,13 +588,18 @@
     {
      "date": "2026-11-17",
      "focus": "taxonomy",
+     "source_id": "S0140"
+    },
+    {
+     "date": "2026-11-23",
+     "focus": "morphology",
      "source_id": "S0140"
     }
    ]
   },
   "abstract:S0141": {
-   "reads": 4,
-   "last_read": "2026-11-17T21:05:47+08:00",
+   "reads": 5,
+   "last_read": "2026-11-23T02:37:26+08:00",
    "history": [
     {
      "date": "2026-11-11-r2",
@@ -605,12 +620,17 @@
      "date": "2026-11-17",
      "focus": "taxonomy",
      "source_id": "S0141"
+    },
+    {
+     "date": "2026-11-23",
+     "focus": "morphology",
+     "source_id": "S0141"
     }
    ]
   },
   "abstract:S0143": {
-   "reads": 4,
-   "last_read": "2026-11-17T21:05:47+08:00",
+   "reads": 5,
+   "last_read": "2026-11-23T02:37:26+08:00",
    "history": [
     {
      "date": "2026-11-11-r2",
@@ -630,6 +650,11 @@
     {
      "date": "2026-11-17",
      "focus": "taxonomy",
+     "source_id": "S0143"
+    },
+    {
+     "date": "2026-11-23",
+     "focus": "morphology",
      "source_id": "S0143"
     }
    ]
@@ -3766,6 +3791,171 @@
      "date": "2026-11-21",
      "focus": "taxonomy",
      "source_id": "S0401"
+    }
+   ]
+  },
+  "10.3923-pjbs.2012.108.120::full": {
+   "reads": 1,
+   "last_read": "2026-11-23T02:37:26+08:00",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "focus": "taxonomy",
+     "source_id": "S0402"
+    }
+   ]
+  },
+  "10.1653-0015-4040(2006)89[541-frorfa]2.0.co;2::full": {
+   "reads": 1,
+   "last_read": "2026-11-23T02:37:26+08:00",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "focus": "taxonomy",
+     "source_id": "S0403"
+    }
+   ]
+  },
+  "10.1080-21686351.1997.12279175::full": {
+   "reads": 1,
+   "last_read": "2026-11-23T02:37:26+08:00",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "focus": "taxonomy",
+     "source_id": "S0404"
+    }
+   ]
+  },
+  "10.1099-ijsem.0.002169::full": {
+   "reads": 1,
+   "last_read": "2026-11-23T02:37:26+08:00",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "focus": "taxonomy",
+     "source_id": "S0405"
+    }
+   ]
+  },
+  "10.32473-edis-in526-2005::full": {
+   "reads": 1,
+   "last_read": "2026-11-23T02:37:26+08:00",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "focus": "taxonomy",
+     "source_id": "S0406"
+    }
+   ]
+  },
+  "10.1071-is16089::full": {
+   "reads": 1,
+   "last_read": "2026-11-23T02:37:26+08:00",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "focus": "taxonomy",
+     "source_id": "S0407"
+    }
+   ]
+  },
+  "10.1590-s0085-56262002000100001::full": {
+   "reads": 1,
+   "last_read": "2026-11-23T02:37:26+08:00",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "focus": "taxonomy",
+     "source_id": "S0408"
+    }
+   ]
+  },
+  "10.1590-1809-43921998283324::full": {
+   "reads": 1,
+   "last_read": "2026-11-23T02:37:26+08:00",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "focus": "taxonomy",
+     "source_id": "S0409"
+    }
+   ]
+  },
+  "10.1590-s0102-33062003000100004::full": {
+   "reads": 1,
+   "last_read": "2026-11-23T02:37:26+08:00",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "focus": "taxonomy",
+     "source_id": "S0410"
+    }
+   ]
+  },
+  "10.1046-j.1471-8278.2001.00094.x::full": {
+   "reads": 1,
+   "last_read": "2026-11-23T02:37:26+08:00",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "focus": "taxonomy",
+     "source_id": "S0411"
+    }
+   ]
+  },
+  "10.5109-2603::full": {
+   "reads": 1,
+   "last_read": "2026-11-23T02:37:26+08:00",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "focus": "taxonomy",
+     "source_id": "S0412"
+    }
+   ]
+  },
+  "10.1590-s0103-90162004000600016::0001-0006": {
+   "reads": 1,
+   "last_read": "2026-11-23T02:37:26+08:00",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "focus": "taxonomy",
+     "source_id": "S0414"
+    }
+   ]
+  },
+  "10.1016-j.envpol.2019.113064::full": {
+   "reads": 1,
+   "last_read": "2026-11-23T02:37:26+08:00",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "focus": "taxonomy",
+     "source_id": "S0415"
+    }
+   ]
+  },
+  "10.1590-s0085-56262002000100004::full": {
+   "reads": 1,
+   "last_read": "2026-11-23T02:37:26+08:00",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "focus": "taxonomy",
+     "source_id": "S0416"
+    }
+   ]
+  },
+  "10.1590-s0101-81752001000200012::full": {
+   "reads": 1,
+   "last_read": "2026-11-23T02:37:26+08:00",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "focus": "taxonomy",
+     "source_id": "S0417"
     }
    ]
   }

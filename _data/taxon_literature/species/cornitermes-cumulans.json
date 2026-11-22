@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-23",
  "sections": [
   {
    "heading": "巢的生长阶段与微形态",
@@ -61,6 +61,21 @@
      "text_es": "Según el resumen, Santos et al. (2026) combinaron mediciones de la temperatura crítica máxima (CT<sub>max</sub>), observaciones de campo del microclima del montículo y estimaciones mecanicistas de la temperatura corporal operativa a lo largo de un gradiente climático, y hallaron que en el sitio de Campinas la temperatura dentro del montículo variaba mucho menos que las condiciones ambientales y que las temperaturas operativas modeladas indicaban márgenes de seguridad térmica positivos en todo el gradiente; no obstante, la CT<sub>max</sub> siguió asociada al clima regional, aumentando con la precipitación anual y disminuyendo con el rango térmico diario medio; la morfología de las obreras también varió fuertemente con el clima, mientras que la actividad de β-glucanasa y la riqueza de bacterias intestinales estuvieron impulsadas por factores climáticos distintos; en los escenarios futuros SSP2–4.5 y SSP5–8.5 los márgenes de seguridad térmica se reducen de forma sustancial, con mayores pérdidas en latitudes bajas."
     }
    ]
+  },
+  {
+   "heading": "阿根廷两处公园的丘体尺寸",
+   "heading_en": "Mound dimensions in two Argentine parks",
+   "heading_es": "Dimensiones de los montículos en dos parques argentinos",
+   "paragraphs": [
+    {
+     "text": "根据 Laffont 等（2004）研究，在阿根廷科连特斯省 Mburucuyá 与米西奥内斯省 Iguassu 两处国家公园，成堆角象白蚁（<i>Cornitermes cumulans</i>）筑土丘巢（n=10），平均高 0.79 m（0.45–1.44 m）、平均直径 2.75 m（1.05–3.47 m），直径为该研究所量 6 种蚁巢中最大；该种也利用倒茎，取食凋落物、禾草根叶与木材。",
+     "text_en": "According to the study by Laffont et al. (2004), in Mburucuyá National Park (Corrientes Province) and Iguassu National Park (Misiones Province), Argentina, <i>Cornitermes cumulans</i> builds epigeal nests (n = 10) with a mean height of 0.79 m (0.45–1.44 m) and a mean diameter of 2.75 m (1.05–3.47 m), the largest diameter among the 6 termite nest types measured in that study; the species also uses fallen stems and feeds on litter, grass roots and leaves, and wood.",
+     "text_es": "Según el estudio de Laffont et al. (2004), en el Parque Nacional Mburucuyá (provincia de Corrientes) y el Parque Nacional Iguazú (provincia de Misiones), Argentina, <i>Cornitermes cumulans</i> construye nidos epigeos (n = 10) con una altura media de 0,79 m (0,45–1,44 m) y un diámetro medio de 2,75 m (1,05–3,47 m), el mayor diámetro entre los 6 tipos de nidos medidos en ese estudio; la especie también utiliza tallos caídos y se alimenta de hojarasca, raíces y hojas de gramíneas y madera.",
+     "src": [
+      "S0414"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -78,6 +93,12 @@
    "id": "S0443",
    "citation": "Santos, M. D.; da Costa Barreto, I.; Damasio, A.; Faria, A. F.; Cavieres, G.; Aguilera-Olivares, D.; Haifig, I.; Carrijo, T. F.; Arab, A. 2026. Thermal buffering by termite mounds maintains safety margins while worker traits track climate. Insectes Sociaux.",
    "doi": "10.1007/s00040-026-01142-5"
+  },
+  {
+   "id": "S0414",
+   "citation": "Laffont, E. R.; Torales, G. J.; Coronel, J. M.; Arbino, M. O.; Godoy, M. C. 2004. Termite (Insecta, Isoptera) fauna from natural parks of the northeast region of Argentina. Scientia Agricola 61(6): 665–670.",
+   "doi": "10.1590/s0103-90162004000600016",
+   "url": "https://www.scielo.br/j/sa/a/X7SLZBZHRgxCFJnjsYkZf8P/?lang=en&format=pdf"
   }
  ]
 }

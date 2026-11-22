@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "岩石露头上与凤梨的共存",
+   "heading_en": "Co-occurrence with a bromeliad on rocky outcrops",
+   "heading_es": "Coexistencia con una bromelia en afloramientos rocosos",
+   "paragraphs": [
+    {
+     "text": "据摘要，根据 Waldemar 与 Irgang（2003）研究，巴西南里奥格兰德州 Itapuã 州立公园岩石露头上的西尔韦斯特里利颚白蚁（<i>Cortaritermes silvestrii</i>）巢常与凤梨科（Bromeliaceae）植物 <i>Dyckia</i> maritima 共存：在 Morro da Grota1 样点，裸露岩石与植被岛上的白蚁巢有 92.0% 与该凤梨关联，而在有该凤梨分布的植被岛中 31.2% 出现这种共存。作者首次描述这一现象，并将其判为兼性互利共生。",
+     "text_en": "According to the study by Waldemar and Irgang (2003), nests of <i>Cortaritermes silvestrii</i> on rocky outcrops of Itapuã State Park, Rio Grande do Sul, Brazil, frequently co-occur with the bromeliad <i>Dyckia</i> maritima: at the Morro da Grota1 site, 92.0% of the termite nests on exposed rock and on vegetation islands were associated with this bromeliad, and 31.2% of the vegetation islands where the bromeliad occurs showed the association. The authors describe the phenomenon for the first time and interpret it as a facultative mutualism.",
+     "text_es": "Según el estudio de Waldemar e Irgang (2003), los nidos de <i>Cortaritermes silvestrii</i> en los afloramientos rocosos del Parque Estatal de Itapuã, Rio Grande do Sul, Brasil, coexisten con frecuencia con la bromelia <i>Dyckia</i> maritima: en el sitio Morro da Grota1, el 92,0% de los nidos de termitas sobre roca expuesta y en islas de vegetación estaban asociados a esta bromelia, y el 31,2% de las islas de vegetación donde la bromelia está presente mostró la asociación. Los autores describen el fenómeno por primera vez y lo interpretan como un mutualismo facultativo.",
+     "src": [
+      "S0410"
+     ]
+    },
+    {
+     "text": "据摘要，同项研究比较了巢基质与苔藓下腐殖土，发现巢基质的磷、钾、钙、镁、锌、锰含量与阳离子交换量更高，细颗粒（尤其粉粒）比例也更高；在 2.7–8.0 m² 的植被岛上，生长于大巢上的该凤梨盖度高于无巢或仅有小巢的岛。",
+     "text_en": "According to the abstract, the same study compared the nest substrate with the humic soil beneath mosses and found that the nest substrate had higher contents of phosphorus, potassium, calcium, magnesium, zinc and manganese and a higher cation exchange capacity, as well as a higher proportion of fine particles, especially silt. On vegetation islands of 2.7–8.0 m², the bromeliad reached higher cover when growing on large nests than on islands without nests or with only small nests.",
+     "text_es": "Según el resumen, el mismo estudio comparó el sustrato de los nidos con el suelo húmico bajo musgos y encontró que el sustrato de los nidos presentaba mayores contenidos de fósforo, potasio, calcio, magnesio, zinc y manganeso y una mayor capacidad de intercambio catiónico, así como una mayor proporción de partículas finas, especialmente limo. En islas de vegetación de 2,7–8,0 m², la bromelia alcanzó mayor cobertura al crecer sobre nidos grandes que en islas sin nidos o con nidos pequeños.",
+     "src": [
+      "S0410"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0410",
+   "citation": "Waldemar, C. C.; Irgang, B. E. 2003. A ocorrência do mutualismo facultativo entre Dyckia maritima Backer (Bromeliaceae) e o cupim Cortaritermes silvestrii (Holmgren), Nasutitermitinae, em afloramentos rochosos no Parque Estadual de Itapuã, Viamão, RS. Acta Botanica Brasilica.",
+   "doi": "10.1590/s0102-33062003000100004"
+  }
+ ]
+}
