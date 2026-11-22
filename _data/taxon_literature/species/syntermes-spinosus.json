@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "体重的量度",
+   "heading_en": "Body-mass measurements",
+   "heading_es": "Mediciones de masa corporal",
+   "paragraphs": [
+    {
+     "text": "据摘要，根据 Martius（1998）研究，多刺聚白蚁（<i>Syntermes spinosus</i>）工蚁平均干重 13.1±1.4 mg，兵蚁平均干重 51.0±1.7 mg，属于世界最大白蚁之列；该种鲜重约为干重的 4.7 倍，该比值大于其他白蚁种类。",
+     "text_en": "According to the study by Martius (1998), workers of <i>Syntermes spinosus</i> have a mean dry weight of 13.1 ± 1.4 mg and soldiers 51.0 ± 1.7 mg, placing the species among the largest termites in the world; its fresh weight is about 4.7 times its dry weight, a ratio higher than in other termites.",
+     "text_es": "Según el estudio de Martius (1998), las obreras de <i>Syntermes spinosus</i> tienen un peso seco medio de 13,1 ± 1,4 mg y los soldados 51,0 ± 1,7 mg, lo que sitúa a la especie entre las termitas más grandes del mundo; su peso fresco es aproximadamente 4,7 veces el peso seco, una proporción mayor que en otras termitas.",
+     "src": [
+      "S0409"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0409",
+   "citation": "Martius, C. 1998. Occurrence, body mass and biomass of Syntermes spp. (Isoptera: Termitidae) in Reserva Ducke, Central Amazonia. Acta Amazonica.",
+   "doi": "10.1590/1809-43921998283324"
+  }
+ ]
+}

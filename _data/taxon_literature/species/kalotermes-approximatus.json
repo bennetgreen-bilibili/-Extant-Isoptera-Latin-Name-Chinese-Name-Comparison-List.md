@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "美国唯一的木白蚁属成员",
+   "heading_en": "The only <i>Kalotermes</i> species in the United States",
+   "heading_es": "La única especie de <i>Kalotermes</i> en Estados Unidos",
+   "paragraphs": [
+    {
+     "text": "据摘要，根据 Cabrera 与 Scheffrahn（2001，2005 年修订）研究，邻近木白蚁（<i>Kalotermes approximatus</i>）是美国现知唯一的木白蚁属（<i>Kalotermes</i>）种类，分布于佛罗里达州及美国东南部，向北可达弗吉尼亚州。",
+     "text_en": "According to the abstract of the account by Cabrera and Scheffrahn (2001, revised 2005), <i>Kalotermes approximatus</i> is the only species of <i>Kalotermes</i> currently known from the United States, occurring in Florida and the southeastern United States north to Virginia.",
+     "text_es": "Según el resumen del trabajo de Cabrera y Scheffrahn (2001, revisado en 2005), <i>Kalotermes approximatus</i> es la única especie de <i>Kalotermes</i> conocida actualmente en Estados Unidos, presente en Florida y el sureste del país hasta Virginia.",
+     "src": [
+      "S0406"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0406",
+   "citation": "Cabrera, B. J.; Scheffrahn, R. H. 2001 (revised 2005). Western Drywood Termite, Incisitermes minor (Hagen) (Insecta: Isoptera: Kalotermitidae). EDIS, University of Florida (EENY-248/IN526).",
+   "doi": "10.32473/edis-in526-2005"
+  }
+ ]
+}

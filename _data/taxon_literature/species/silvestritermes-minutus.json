@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-23",
  "sections": [
   {
    "heading": "无性蚁后更替与群体生活史",
@@ -30,6 +30,21 @@
      "text_es": "Según el resumen de Machara et al. (2018), se detectó un volátil previamente desconocido en la superficie corporal de la reina, en el espacio de cabeza, en los ovarios y en la cavidad corporal de <i>Silvestritermes minutus</i>; su estructura se determinó como el macrólido de 14 miembros (5Z,9S)-tetradec-5-en-9-olide (10-pentil-3,4,5,8,9,10-hexahidro-2H-oxecin-2-ona), y ambos enantiómeros se prepararon mediante síntesis enantiocomplementaria a partir de (S)-glicidil tosilato."
     }
    ]
+  },
+  {
+   "heading": "甲基汞的富集与组织分布",
+   "heading_en": "Methylmercury enrichment and tissue distribution",
+   "heading_es": "Enriquecimiento de metilmercurio y distribución tisular",
+   "paragraphs": [
+    {
+     "text": "据摘要，根据 Diouf 等（2019）研究，法属圭亚那土壤食性的最小西尔韦斯特里白蚁（<i>Silvestritermes minutus</i>）巢内总汞与可移动汞低于周边土壤，但甲基汞在巢中富集约 17 倍；该种白蚁体内甲基汞浓度最高，相对土壤的生物富集系数为 58，且去肠体的汞浓度（683 ng/g）高于肠道（221 ng/g），说明甲基汞并不局限于肠道。",
+     "text_en": "According to the study by Diouf et al. (2019), nests of the soil-feeding <i>Silvestritermes minutus</i> in French Guiana were depleted in total and mobile mercury relative to the surrounding soil but were enriched about 17-fold in methylmercury; the highest methylmercury concentrations occurred in the termite bodies, with a bioconcentration factor of 58 relative to the soil for this species, and the gut-free carcasses contained more mercury (683 ng/g) than the guts (221 ng/g), indicating that methylmercury is not confined to the gut.",
+     "text_es": "Según el estudio de Diouf et al. (2019), los nidos de la termita humívora <i>Silvestritermes minutus</i> en la Guayana Francesa presentaban concentraciones menores de mercurio total y móvil que el suelo circundante, pero estaban enriquecidos unas 17 veces en metilmercurio; las mayores concentraciones de metilmercurio se encontraron en los cuerpos de las termitas, con un factor de bioconcentración de 58 respecto al suelo para esta especie, y las carcasas sin intestino contenían más mercurio (683 ng/g) que los intestinos (221 ng/g), lo que indica que el metilmercurio no se limita al intestino.",
+     "src": [
+      "S0415"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -42,6 +57,11 @@
    "id": "S0223",
    "citation": "Machara, A.; Křivánek, J.; Dolejšová, K.; Havlíčková, J.; Bednářová, L.; Hanus, R.; Majer, P.; Kyjaková, P. 2018. Identification and Enantiodivergent Synthesis of (5Z,9S)-Tetradec-5-en-9-olide, a Queen-Specific Volatile of the Termite Silvestritermes minutus. Journal of Natural Products 81(10).",
    "doi": "10.1021/acs.jnatprod.8b00632"
+  },
+  {
+   "id": "S0415",
+   "citation": "Diouf, M.; Sillam-Dussès, D.; Alphonse, V.; Fréchault, S.; Miambi, E.; Mora, P. 2019. Mercury species in the nests and bodies of soil-feeding termites, Silvestritermes spp. (Termitidae, Syntermitinae), in French Guiana. Environmental Pollution.",
+   "doi": "10.1016/j.envpol.2019.113064"
   }
  ]
 }

@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "俄勒冈州 Salem 的分子记录",
+   "heading_en": "A molecular record from Salem, Oregon",
+   "heading_es": "Un registro molecular de Salem, Oregón",
+   "paragraphs": [
+    {
+     "text": "据摘要，根据 McKern 等（2006）研究，俄勒冈州 Salem 的一个群体未采到兵蚁，仅凭 1 头工蚁的 16S rRNA 序列定为哈根散白蚁（<i>Reticulitermes hageni</i>），未做形态鉴定；Salem 与采到北美散白蚁（<i>Reticulitermes flavipes</i>）的 Keizer 均位于波特兰 50 km 范围内。",
+     "text_en": "According to the study by McKern et al. (2006), no soldiers were collected from a colony at Salem, Oregon, and the colony was assigned to <i>Reticulitermes hageni</i> solely on the 16S rRNA sequence of 1 worker, without morphological identification; Salem and Keizer, where <i>Reticulitermes flavipes</i> was collected, both lie within 50 km of Portland.",
+     "text_es": "Según el estudio de McKern et al. (2006), no se recolectaron soldados en una colonia de Salem, Oregón, y la colonia se asignó a <i>Reticulitermes hageni</i> únicamente por la secuencia de 16S rRNA de 1 obrera, sin identificación morfológica; Salem y Keizer, donde se recolectó <i>Reticulitermes flavipes</i>, se encuentran ambas a menos de 50 km de Portland.",
+     "src": [
+      "S0403"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0403",
+   "citation": "McKern, J. A.; Szalanski, A. L.; Austin, J. W. 2006. First record of Reticulitermes flavipes and Reticulitermes hageni in Oregon (Isoptera: Rhinotermitidae). Florida Entomologist.",
+   "doi": "10.1653/0015-4040(2006)89[541:frorfa]2.0.co;2"
+  }
+ ]
+}

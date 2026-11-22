@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "两个异名的归并",
+   "heading_en": "Synonymy of two names",
+   "heading_es": "Sinonimia de dos nombres",
+   "paragraphs": [
+    {
+     "text": "据摘要，根据 Takematsu 与 Yamaoka（1997）研究，中岛树白蚁（<i>Glyptotermes nakajimai</i>）与树白蚁属（<i>Glyptotermes</i>）的旧异名 <i>Glyptotermes kushimensis</i> 的工蚁表皮碳氢化合物组成相同，形态特征亦相符；作者据此把树白蚁属（<i>Glyptotermes</i>）的旧异名 <i>Glyptotermes kushimensis</i> 与 <i>Glyptotermes kodamai</i> 一并降为中岛树白蚁的次异名。",
+     "text_en": "According to the study by Takematsu and Yamaoka (1997), <i>Glyptotermes nakajimai</i> shares its worker cuticular hydrocarbon composition with the old synonym <i>Glyptotermes kushimensis</i>, and their morphological characters also agree; on this basis the authors synonymized the old synonyms <i>Glyptotermes kushimensis</i> and <i>Glyptotermes kodamai</i> under <i>Glyptotermes nakajimai</i>.",
+     "text_es": "Según el estudio de Takematsu y Yamaoka (1997), <i>Glyptotermes nakajimai</i> comparte la composición de hidrocarburos cuticulares de sus obreras con el sinónimo antiguo <i>Glyptotermes kushimensis</i>, y sus caracteres morfológicos también coinciden; sobre esta base, los autores sinonimizaron los sinónimos antiguos <i>Glyptotermes kushimensis</i> y <i>Glyptotermes kodamai</i> bajo <i>Glyptotermes nakajimai</i>.",
+     "src": [
+      "S0412"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0412",
+   "citation": "Takematsu, Y.; Yamaoka, R. 1997. Taxonomy of Glyptotermes (Isoptera, Kalotermitidae) in Japan with reference to cuticular hydrocarbon analysis as chemotaxonomic characters. Esakia.",
+   "doi": "10.5109/2603"
+  }
+ ]
+}

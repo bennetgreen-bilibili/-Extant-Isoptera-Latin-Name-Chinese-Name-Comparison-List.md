@@ -3,7 +3,7 @@
     "version": 1,
     "count": 765,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-21T21:21:19+08:00",
+    "updated": "2026-11-23T02:37:15+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -25515,7 +25515,7 @@
       "file_path": "_unpublished/文库/10.3923-pjbs.2012.108.120",
       "chars": 1710,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T02:37:15+08:00",
       "notes": "全文存于 _unpublished/文库/10.3923-pjbs.2012.108.120（1710 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.3923-pjbs.2012.108.120",
@@ -25544,9 +25544,26 @@
       "publisher": "Pakistan Journal of Biological Sciences",
       "lang": "en",
       "doi": "10.3923/pjbs.2012.108.120",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/coptotermes-curvignathus.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Coptotermes curvignathus Holmgren was identified to feed on the living tissues of oil palm causing damage or death of the tree",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：曲颚乳白蚁取食油棕活组织、致植株死亡"
+        },
+        {
+          "quote": "Results of quadrate (25 x 25 x 30 cm) sampling showed termite was significantly higher in relative density with increasing depth of soil (0-10 = 21.23, 10-20 = 42.52 and 20-30 cm = 81.12%)",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：白蚁相对密度随深度升高（21.23/42.52/81.12%）"
+        },
+        {
+          "quote": "18 species of termites from 2 families (Rhinotermitidae and Termitidae), 5 subfamilies (Rhinotermitinae, Coptotermitinae, Termitinae, Macrotermitinae and Nasutitermitinae) and 11 genera (Coptotermes, Schedorhinotermes, Termes, Macrotermes, Nasutitermes, Globitermes, Amitermes, Parrhinotermes, Pericapritermes, Havilanditermes and Prohamitermes",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：改良样带记录 18 种、2 科、5 亚科、11 属"
+        }
+      ],
       "id": "S0402"
     },
     {
@@ -25557,7 +25574,7 @@
       "file_path": "_unpublished/文库/10.1653-0015-4040(2006)89[541-frorfa]2.0.co;2",
       "chars": 3351,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T02:37:15+08:00",
       "notes": "全文存于 _unpublished/文库/10.1653-0015-4040(2006)89[541-frorfa]2.0.co;2（3351 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1653-0015-4040(2006)89[541-frorfa]2.0.co;2",
@@ -25585,9 +25602,27 @@
       "publisher": "Florida Entomologist",
       "lang": "en",
       "doi": "10.1653/0015-4040(2006)89[541:frorfa]2.0.co;2",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/reticulitermes-flavipes.json",
+        "_data/taxon_literature/species/reticulitermes-hageni.json"
+      ],
+      "evidence": [
+        {
+          "quote": "collected from a total of 79 different colonies from 34 locations in Oregon located in the following counties: Clackamas, Coos, Jackson, Klamath, Lane, Linn, Marion, Multnomah, Polk, Umatilla, Washington, and Yamhill",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：俄勒冈 12 县 34 地点 79 个群体采样"
+        },
+        {
+          "quote": "flavipes soldier specimens collected from a colony at a collection site in Keizer, OR were identified morphologically, applying keys of Scheffrahn & Su (1994) and by evaluating soldier labra (Hostettler et al.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：Keizer 群体兵蚁形态鉴定为北美散白蚁"
+        },
+        {
+          "quote": "haplotype was FF (GenBank Accession D2001958)",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：单倍型 FF 与 GenBank D2001958"
+        }
+      ],
       "id": "S0403"
     },
     {
@@ -25598,7 +25633,7 @@
       "file_path": "_unpublished/文库/10.1080-21686351.1997.12279175",
       "chars": 1283,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T02:37:15+08:00",
       "notes": "全文存于 _unpublished/文库/10.1080-21686351.1997.12279175（1283 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1080-21686351.1997.12279175",
@@ -25624,9 +25659,21 @@
       "publisher": "Annales de la Société entomologique de France (N S )",
       "lang": "fr",
       "doi": "10.1080/21686351.1997.12279175",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/serritermes-serrifer.json"
+      ],
+      "evidence": [
+        {
+          "quote": "quatre types de cellules sécrétrices, en plus des cellules canaliculaires placées au centre de chaque acinus",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：唾液腺腺泡含 4 型分泌细胞与中央管细胞"
+        },
+        {
+          "quote": "Ce type IV est cité pour la première fois dans le cas des glandes salivaires d'Isoptères.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：IV 型细胞为等翅目唾液腺首次报道"
+        }
+      ],
       "id": "S0404"
     },
     {
@@ -25686,7 +25733,7 @@
       "file_path": "_unpublished/文库/10.32473-edis-in526-2005",
       "chars": 1191,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T02:37:15+08:00",
       "notes": "全文存于 _unpublished/文库/10.32473-edis-in526-2005（1191 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.32473-edis-in526-2005",
@@ -25713,9 +25760,32 @@
       "publisher": "EDIS",
       "lang": "en",
       "doi": "10.32473/edis-in526-2005",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/incisitermes-minor.json",
+        "_data/taxon_literature/species/kalotermes-approximatus.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Originally described as Kalotermes minor by Hagen (1858), I. minor was reclassified into the genus Incisitermes by Krishna (1961)",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：Hagen 1858 以 Kalotermes minor 描述、1961 年移入楹白蚁属"
+        },
+        {
+          "quote": "In California, Incisitermes minor infestations are still sometimes referred to by some pest control operators as \"Kalos\" and designated with a \"K\" on termite inspection reports",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：加州虫害业仍称 Kalos、检查报告标 K"
+        },
+        {
+          "quote": "Currently, there is only one Kalotermes species in the United States (Kalotermes approximatus (Snyder), found in Florida and the southeastern U.S. north to Virginia",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：美国仅 1 种木白蚁属、佛罗里达至弗吉尼亚"
+        },
+        {
+          "quote": "Published: November 2001. Revised: December 2005",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：概况页 2001 年发表、2005 年修订"
+        }
+      ],
       "id": "S0406"
     },
     {
@@ -25726,7 +25796,7 @@
       "file_path": "_unpublished/文库/10.1071-is16089",
       "chars": 1323,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T02:37:15+08:00",
       "notes": "全文存于 _unpublished/文库/10.1071-is16089（1323 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1071-is16089",
@@ -25756,9 +25826,23 @@
       "publisher": "Invertebrate Systematics",
       "lang": "en",
       "doi": "10.1071/is16089",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/genus/cavitermes.json",
+        "_data/taxon_literature/genus/palmitermes.json",
+        "_data/taxon_literature/species/palmitermes-impostor.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Palmitermes impostor Hellemans & Roisin, 2017 (Termitidae: Termitinae), a new termite genus and species from French Guiana",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：新属新种采自法属圭亚那"
+        },
+        {
+          "quote": "The sister-group relationship between Palmitermes and Cavitermes was confirmed by a phylogenetic reconstruction based on full mitochondrial genome sequences as well as by the comparison of the profiles of cuticular hydrocarbons of workers with those of related taxa",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：全线粒体基因组与表皮碳氢化合物支持与腔白蚁属姐妹群"
+        }
+      ],
       "id": "S0407"
     },
     {
@@ -25769,7 +25853,7 @@
       "file_path": "_unpublished/文库/10.1590-s0085-56262002000100001",
       "chars": 1022,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T02:37:15+08:00",
       "notes": "全文存于 _unpublished/文库/10.1590-s0085-56262002000100001（1022 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1590-s0085-56262002000100001",
@@ -25796,9 +25880,21 @@
       "publisher": "Revista Brasileira de Entomologia",
       "lang": "pt",
       "doi": "10.1590/s0085-56262002000100001",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/family/termitidae.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Glandular openings were not found in the legs of Anoplotermes sp., Ruptitermes sp.(Apicotermitinae, Termitidae) or Glyptotermes planus (Kalotermitidae)",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：3 种无腺开口（含平扁树白蚁）"
+        },
+        {
+          "quote": "The occurrence of leg exocrine glands in the family Termitidae is reported for the first time",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：白蚁科足部外分泌腺首次报道"
+        }
+      ],
       "id": "S0408"
     },
     {
@@ -25809,7 +25905,7 @@
       "file_path": "_unpublished/文库/10.1590-1809-43921998283324",
       "chars": 834,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T02:37:15+08:00",
       "notes": "全文存于 _unpublished/文库/10.1590-1809-43921998283324（834 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1590-1809-43921998283324",
@@ -25835,9 +25931,21 @@
       "publisher": "Acta Amazonica",
       "lang": "en",
       "doi": "10.1590/1809-43921998283324",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/syntermes-spinosus.json"
+      ],
+      "evidence": [
+        {
+          "quote": "have average body dry weights of 4.5±0.2 and 13.1±1.4 mg, and the weight of their soldiers is 8.2±0.2 and 51.0±1.7 mg, respectively.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：两种工蚁与兵蚁干重"
+        },
+        {
+          "quote": "The biomass of the populations of both species amounted to about 1 g m-2 (dry weight; indirect estimate), which rises previous assessments of the total termite biomass by about 36-45%, to a value of 3.0-3.5 g m-2",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：种群生物量与总量上调 36–45%"
+        }
+      ],
       "id": "S0409"
     },
     {
@@ -25848,7 +25956,7 @@
       "file_path": "_unpublished/文库/10.1590-s0102-33062003000100004",
       "chars": 1455,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T02:37:15+08:00",
       "notes": "全文存于 _unpublished/文库/10.1590-s0102-33062003000100004（1455 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1590-s0102-33062003000100004",
@@ -25875,9 +25983,26 @@
       "publisher": "Acta Botanica Brasilica",
       "lang": "pt",
       "doi": "10.1590/s0102-33062003000100004",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/cortaritermes-silvestrii.json"
+      ],
+      "evidence": [
+        {
+          "quote": "92,0 % dos termiteiros situados na rocha exposta e em ilhas de vegetação estão associados a D. maritima",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：92.0% 白蚁巢与该凤梨关联"
+        },
+        {
+          "quote": "31,2 % das ilhas na qual esta bromélia se faz presente",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：有凤梨的植被岛中 31.2% 出现共存"
+        },
+        {
+          "quote": "teores mais elevados dos nutrientes P, K, Ca, Mg, Zn e Mn, maior CTC e maiores teores de partículas finas, principalmente o silte",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：巢基质 P K Ca Mg Zn Mn、CTC 与粉粒更高"
+        }
+      ],
       "id": "S0410"
     },
     {
@@ -25930,7 +26055,7 @@
       "file_path": "_unpublished/文库/10.5109-2603",
       "chars": 675,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T02:37:15+08:00",
       "notes": "全文存于 _unpublished/文库/10.5109-2603（675 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.5109-2603",
@@ -25957,9 +26082,22 @@
       "publisher": "ESAKIA",
       "lang": "en",
       "doi": "10.5109/2603",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/genus/glyptotermes.json",
+        "_data/taxon_literature/species/glyptotermes-nakajimai.json"
+      ],
+      "evidence": [
+        {
+          "quote": "It was found that G. fuscus, G. satsumensis and G. rzakajimcri have different hydrocarbon compositions, respectively, and that G. kushimensis has the same components as those of G. nakajimai",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：3 种组分各异、kushimensis 与 nakajimai 相同"
+        },
+        {
+          "quote": "G. kushimerzsis and G. kodamai are synonymized with G. nakajimai",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：kushimensis 与 kodamai 降为 nakajimai 次异名"
+        }
+      ],
       "id": "S0412"
     },
     {
@@ -26012,7 +26150,7 @@
       "file_path": "_unpublished/文库/10.1590-s0103-90162004000600016",
       "chars": 38963,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T02:37:15+08:00",
       "notes": "全文存于 _unpublished/文库/10.1590-s0103-90162004000600016（6 页，38963 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1590-s0103-90162004000600016",
@@ -26044,8 +26182,29 @@
       "license": "cc-by-nc",
       "doi": "10.1590/s0103-90162004000600016",
       "url": "https://www.scielo.br/j/sa/a/X7SLZBZHRgxCFJnjsYkZf8P/?lang=en&format=pdf",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/family/termitidae.json",
+        "_data/taxon_literature/species/cornitermes-cumulans.json",
+        "_data/taxon_literature/species/microcerotermes-strunckii.json",
+        "_data/taxon_literature/species/nasutitermes-aquilinus.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Among the four termite families recorded from Argentina, the family Termitidae was the best represented at the three sampled areas",
+          "locator": "第 20–21 行 / 0001-0006.txt",
+          "note": "支撑：白蚁科在 3 个园区最有代表性"
+        },
+        {
+          "quote": "The recorded genera (15) were: Rugitermes Holmgren and Tauritermes Krishna (Kalotermitidae), Heterotermes Frogatt (Rhinotermitidae), Cornitermes Wasmann, Cortaritermes Mathews, Diversitermes Holmgren, Nasutitermes Dudley, Velocitermes Holmgren (Nasutitermitinae), Amitermes Silvestri, Microcerotermes Silvestri, Neocapritermes Holmgren, Termes Linné (Termitinae), Anoplotermes Müller, Aparatermes Fontes and Ruptitermes Mathews (Apicotermitinae) (Termitidae)",
+          "locator": "第 21–25 行 / 0001-0006.txt",
+          "note": "支撑：3 个园区共记录 15 属"
+        },
+        {
+          "quote": "None of the collected termite species was common to the three National Parks, and only four of them were detected at two of the reserves",
+          "locator": "第 25–27 行 / 0001-0006.txt",
+          "note": "支撑：无一种三园共有、仅 4 种见于两个园区"
+        }
+      ],
       "id": "S0414"
     },
     {
@@ -26056,7 +26215,7 @@
       "file_path": "_unpublished/文库/10.1016-j.envpol.2019.113064",
       "chars": 1764,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T02:37:15+08:00",
       "notes": "全文存于 _unpublished/文库/10.1016-j.envpol.2019.113064（1764 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1016-j.envpol.2019.113064",
@@ -26087,9 +26246,21 @@
       "publisher": "Environmental Pollution",
       "lang": "en",
       "doi": "10.1016/j.envpol.2019.113064",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/silvestritermes-minutus.json"
+      ],
+      "evidence": [
+        {
+          "quote": "mean bioconcentration factors of 58 for S. minutus and 179 for S. holmgreni relative to the soil",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：最小西尔韦斯特里白蚁 BCF 58、S. holmgreni 179"
+        },
+        {
+          "quote": "concentrations of 221 ng g−1 for the guts and even higher for the gut-free carcasses (683 ng g−1), suggesting that methylmercury is not confined to the gut where it was likely produced, but rather stored in various tissues",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：肠道 221 ng/g、去肠体 683 ng/g"
+        }
+      ],
       "id": "S0415"
     },
     {
@@ -26100,7 +26271,7 @@
       "file_path": "_unpublished/文库/10.1590-s0085-56262002000100004",
       "chars": 458,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T02:37:15+08:00",
       "notes": "全文存于 _unpublished/文库/10.1590-s0085-56262002000100004（458 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1590-s0085-56262002000100004",
@@ -26127,9 +26298,21 @@
       "publisher": "Revista Brasileira de Entomologia",
       "lang": "en",
       "doi": "10.1590/s0085-56262002000100004",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/constrictotermes-cyphergaster.json"
+      ],
+      "evidence": [
+        {
+          "quote": "there were four nests with multiple reproductives, and secondary reproductives were found in 26 nests",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：4 个巢含多个繁殖个体、26 个巢见补充繁殖个体"
+        },
+        {
+          "quote": "Nymphs of Inquilinitermes were more abundant (9,47%) than nymphs of C. cyphergaster (0,78%)",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：客白蚁属若虫 9.47%、弯肠缩白蚁若虫 0.78%"
+        }
+      ],
       "id": "S0416"
     },
     {
@@ -26140,7 +26323,7 @@
       "file_path": "_unpublished/文库/10.1590-s0101-81752001000200012",
       "chars": 1379,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T02:37:15+08:00",
       "notes": "全文存于 _unpublished/文库/10.1590-s0101-81752001000200012（1379 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1590-s0101-81752001000200012",
@@ -26166,9 +26349,21 @@
       "publisher": "Revista Brasileira de Zoologia",
       "lang": "es",
       "doi": "10.1590/s0101-81752001000200012",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/silvestritermes-euamignathus.json"
+      ],
+      "evidence": [
+        {
+          "quote": "there were 80 to100 sensory bristles around the frontal pore",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：额孔周围 80–100 根感觉刚毛、无钟形感器"
+        },
+        {
+          "quote": "The lack of class 3 cells and the presence of an intrinsic musculature are two anatomical features of the A. euamignathus frontal gland that will be important in the phylogenetic relationships of the Nasutitermitinae",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：缺 class 3 细胞、具内在肌"
+        }
+      ],
       "id": "S0417"
     },
     {

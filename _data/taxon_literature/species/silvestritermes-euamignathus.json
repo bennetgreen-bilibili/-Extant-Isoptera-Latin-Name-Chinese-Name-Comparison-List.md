@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-23",
  "sections": [
   {
    "heading": "品级分化途径",
@@ -15,6 +15,21 @@
      "text_es": "En el estudio de Haifig y Costa-Leonardo (2016), el desarrollo postembrionario de las termitas es bifurcado: la línea ninfal-imaginal comprende los reproductores alados y sus estadios ninfales previos, mientras que la línea áptera comprende obreros, soldados y sus precursores; el análisis de la diferenciación de castas en <i>Silvestritermes euamignathus</i> mostró que la línea áptera está formada por obreros machos y hembras sin dimorfismo sexual y que los soldados son exclusivamente hembras, mientras que la línea imaginal pasa por cinco estadios ninfales que pueden dar neoténicos ninfoides o alados; el patrón de castas se asemeja al de otra especie cercana del género, lo que sugiere una historia evolutiva compartida. (Según el resumen.)"
     }
    ]
+  },
+  {
+   "heading": "兵蚁额腺的细胞组成",
+   "heading_en": "Cellular composition of the soldier frontal gland",
+   "heading_es": "Composición celular de la glándula frontal del soldado",
+   "paragraphs": [
+    {
+     "text": "据摘要，根据 Costa-Leonardo（2001）研究，真弓颚西尔韦斯特里白蚁（<i>Silvestritermes euamignathus</i>，原文用戟白蚁属旧组合 <i>Armitermes euamignathus</i>）兵蚁的额腺上皮仅由 1 类细胞（Noirot 与 Quennedey 分类的 I 型）组成，细胞具顶端微绒毛、基底层迷路与大量光滑内质网，分泌大脂滴；额孔周围有 80–100 根感觉刚毛、无钟形感器，上皮外覆厚角质层，额孔处角质层减薄并有储存脂滴的皮下间隙。作者指出，额腺缺少第 3 类细胞、具内在肌，是象白蚁亚科（Nasutitermitinae）系统发育上的重要特征。该种原文置于象白蚁亚科，本站现置于聚白蚁亚科（Syntermitinae）。",
+     "text_en": "According to the study by Costa-Leonardo (2001), the frontal gland epithelium of <i>Silvestritermes euamignathus</i> soldiers (published under the old combination <i>Armitermes euamignathus</i> in the genus <i>Armitermes</i>) consists of a single cell type (class 1 of the Noirot and Quennedey classification); the cells bear apical microvilli, a basal labyrinth and abundant smooth endoplasmic reticulum, and secrete large lipid droplets. Around the frontal pore there are 80–100 sensory bristles and no campaniform sensilla, and the epithelium is covered by a thick cuticle that is reduced at the pore, where a subcuticular space stores lipid droplets. The authors note that the absence of class 3 cells together with the presence of intrinsic musculature are important features for the phylogeny of Nasutitermitinae. The species was placed in Nasutitermitinae in the original paper and is here placed in Syntermitinae.",
+     "text_es": "Según el estudio de Costa-Leonardo (2001), el epitelio de la glándula frontal de los soldados de <i>Silvestritermes euamignathus</i> (publicado con la combinación antigua <i>Armitermes euamignathus</i> en el género <i>Armitermes</i>) consta de un solo tipo celular (clase 1 de la clasificación de Noirot y Quennedey); las células presentan microvellosidades apicales, un laberinto basal y abundante retículo endoplasmático liso, y secretan grandes gotas lipídicas. Alrededor del poro frontal hay 80–100 setas sensoriales y no hay sensilas campaniformes, y el epitelio está cubierto por una cutícula gruesa que se adelgaza en el poro, donde un espacio subcuticular almacena gotas lipídicas. Los autores señalan que la ausencia de células de clase 3 junto con la presencia de musculatura intrínseca son caracteres importantes para la filogenia de Nasutitermitinae. La especie se situó en Nasutitermitinae en el trabajo original y aquí se sitúa en Syntermitinae.",
+     "src": [
+      "S0417"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -22,6 +37,11 @@
    "id": "S0338",
    "citation": "Haifig, I.; Costa-Leonardo, A. M. 2016. Caste differentiation pathways in the Neotropical termite Silvestritermes euamignathus (Isoptera: Termitidae). Entomological Science.",
    "doi": "10.1111/ens.12201"
+  },
+  {
+   "id": "S0417",
+   "citation": "Costa-Leonardo, A. M. 2001. The frontal weapon of the termite Armitermes euamignathus Silvestri (Isoptera, Termitidae, Nasutitermitinae). Revista Brasileira de Zoologia.",
+   "doi": "10.1590/s0101-81752001000200012"
   }
  ]
 }

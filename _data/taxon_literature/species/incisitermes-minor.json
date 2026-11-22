@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-23",
  "sections": [
   {
    "heading": "北美西部的扩散与中国的最早记录",
@@ -31,16 +31,36 @@
      "text_es": "Según Cabrera y Rust (1996), las ninfas de <i>Incisitermes minor</i> se refugian bajo la parte cubierta de una placa cuando se ilumina con luz fluorescente o incandescente, pero no muestran preferencia clara con una lámpara roja de cuarto oscuro."
     }
    ]
+  },
+  {
+   "heading": "原名、组合变动与俗名的沿用",
+   "heading_en": "Original name, recombination and persistence of a common name",
+   "heading_es": "Nombre original, recombinación y persistencia de un nombre común",
+   "paragraphs": [
+    {
+     "text": "据摘要，根据 Cabrera 与 Scheffrahn（2001，2005 年修订）研究，小楹白蚁（<i>Incisitermes minor</i>）由 Hagen 于 1858 年以木白蚁属（<i>Kalotermes</i>）的旧组合 <i>Kalotermes minor</i> 描述，1961 年 Krishna 将其移入楹白蚁属（<i>Incisitermes</i>）；美国加利福尼亚州的虫害防治人员至今仍以 “Kalos” 称呼该种，并在白蚁检查报告上以 “K” 标记。该种是美国西南部最常见的危害建筑的干木白蚁。",
+     "text_en": "According to the abstract of the account by Cabrera and Scheffrahn (2001, revised 2005), <i>Incisitermes minor</i> was described by Hagen in 1858 under the old combination <i>Kalotermes minor</i> in the genus <i>Kalotermes</i>, and Krishna transferred it to <i>Incisitermes</i> in 1961. Pest control operators in California still refer to the species as “Kalos” and mark it with a “K” on termite inspection reports. It is the most common structure-infesting drywood termite in the southwestern United States.",
+     "text_es": "Según el resumen del trabajo de Cabrera y Scheffrahn (2001, revisado en 2005), <i>Incisitermes minor</i> fue descrita por Hagen en 1858 con la combinación antigua <i>Kalotermes minor</i> en el género <i>Kalotermes</i>, y Krishna la transfirió a <i>Incisitermes</i> en 1961. Los operadores de control de plagas de California siguen llamando a la especie “Kalos” y la marcan con una “K” en los informes de inspección de termitas. Es la termita de madera seca que más comúnmente infesta estructuras en el suroeste de Estados Unidos.",
+     "src": [
+      "S0406"
+     ]
+    }
+   ]
   }
  ],
  "references": [
+  {
+   "id": "S0003",
+   "citation": "黄复生, 朱世模, 平正明, 何秀松, 李桂祥, 高道蓉. 中国动物志·昆虫纲·第十七卷·等翅目. 北京: 科学出版社."
+  },
   {
    "id": "S0001",
    "citation": "程冬保, 杨兆芬. 白蚁学. 北京: 科学出版社, 2014."
   },
   {
-   "id": "S0003",
-   "citation": "黄复生, 朱世模, 平正明, 何秀松, 李桂祥, 高道蓉. 中国动物志·昆虫纲·第十七卷·等翅目. 北京: 科学出版社."
+   "id": "S0406",
+   "citation": "Cabrera, B. J.; Scheffrahn, R. H. 2001 (revised 2005). Western Drywood Termite, Incisitermes minor (Hagen) (Insecta: Isoptera: Kalotermitidae). EDIS, University of Florida (EENY-248/IN526).",
+   "doi": "10.32473/edis-in526-2005"
   }
  ]
 }

@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "属的建立与系统位置",
+   "heading_en": "Establishment and phylogenetic position of the genus",
+   "heading_es": "Establecimiento y posición filogenética del género",
+   "paragraphs": [
+    {
+     "text": "据摘要，根据 Hellemans 等（2017）研究，棕榈白蚁属（<i>Palmitermes</i>）以采自法属圭亚那的骗子棕榈白蚁（<i>Palmitermes impostor</i>）为模式种建立，隶白蚁科（Termitidae）白蚁亚科（Termitinae）；其兵蚁形态近似白蚁属（<i>Termes</i>），但工蚁的消化道与上颚特征显示与腔白蚁属（<i>Cavitermes</i>）近缘，全线粒体基因组与工蚁表皮碳氢化合物数据支持两属互为姐妹群。",
+     "text_en": "According to the study by Hellemans et al. (2017), the genus <i>Palmitermes</i> was established with <i>Palmitermes impostor</i> from French Guiana as its type species, in Termitidae, Termitinae. Its soldiers resemble those of <i>Termes</i>, but the workers' digestive tract and mandibles indicate a close relationship with <i>Cavitermes</i>, and complete mitochondrial genomes and worker cuticular hydrocarbons support the two genera as sister groups.",
+     "text_es": "Según el estudio de Hellemans et al. (2017), el género <i>Palmitermes</i> se estableció con <i>Palmitermes impostor</i> de la Guayana Francesa como especie tipo, en Termitidae, Termitinae. Sus soldados se parecen a los de <i>Termes</i>, pero el tubo digestivo y las mandíbulas de las obreras indican una relación cercana con <i>Cavitermes</i>, y los genomas mitocondriales completos y los hidrocarburos cuticulares de las obreras apoyan a ambos géneros como grupos hermanos.",
+     "src": [
+      "S0407"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0407",
+   "citation": "Hellemans, S.; Bourguignon, T.; Kyjaková, P.; Hanus, R.; Roisin, Y. 2017. Mitochondrial and chemical profiles reveal a new genus and species of Neotropical termite with snapping soldiers, Palmitermes impostor (Termitidae: Termitinae). Invertebrate Systematics.",
+   "doi": "10.1071/is16089"
+  }
+ ]
+}
