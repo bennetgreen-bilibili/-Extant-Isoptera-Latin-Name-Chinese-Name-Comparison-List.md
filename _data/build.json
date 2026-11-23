@@ -2,7 +2,7 @@
   "_comment": "由 _tools/stamp_assets.py 生成，请勿手改；内容指纹随 assets/*.css|js 变化。",
   "assets": {
     "ai-chat.js": "ae81766cb4",
-    "custom.css": "745d5703f1",
+    "custom.css": "6044d9e33f",
     "gallery.css": "ac940330c9",
     "gallery.js": "fbcc0c5339",
     "map.css": "ddca26612d",
@@ -18,7 +18,7 @@
     "search-page.js": "3a4f105af7",
     "search-widget.js": "27805b4e9a",
     "search.js": "ebf188df29",
-    "site.js": "3439f2e930",
+    "site.js": "cc86be7f63",
     "taxon-search.js": "2ca6de7661"
   }
 }

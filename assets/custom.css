@@ -738,3 +738,35 @@ chat-bubble-snippet[api-url]{
   .cite-block .cite-copy{padding:8px 14px;line-height:1.4}
   .content summary{padding:6px 0}
 }
+
+/* ===== 移动端导航横滑提示：两端可点箭头（由 site.js 注入，纯增强，无 JS 时不影响） =====
+   .nav-inner 作为定位上下文；右箭头用 --nav-search-w 让开搜索按钮（JS 量宽后写入）。 */
+.nav-inner{position:relative}
+.nav-scroll{
+  display:none;position:absolute;top:50%;transform:translateY(-50%);z-index:2;
+  width:30px;height:30px;padding:0;align-items:center;justify-content:center;
+  border:1px solid var(--line);border-radius:50%;
+  background:var(--card);color:var(--accent,#8a6d3b);
+  box-shadow:var(--shadow-sm);cursor:pointer;
+  opacity:0;pointer-events:none;transition:opacity .18s ease;
+  -webkit-tap-highlight-color:transparent;
+}
+.nav-scroll.is-shown{opacity:1;pointer-events:auto}
+.nav-scroll:active{background:var(--accent-softer)}
+.nav-scroll-prev{left:2px}
+.nav-scroll-next{right:calc(var(--nav-search-w,0px) + 6px)}
+.nav-scroll span{display:block;width:0;height:0;border-top:5px solid transparent;border-bottom:5px solid transparent}
+.nav-scroll-next span{border-left:7px solid currentColor}
+.nav-scroll-prev span{border-right:7px solid currentColor}
+@keyframes nav-scroll-nudge{
+  0%,100%{transform:translateY(-50%) translateX(0)}
+  50%{transform:translateY(-50%) translateX(-4px)}
+}
+@media (max-width:720px){
+  .nav-scroll{display:flex}
+  .nav-scroll.is-nudging{animation:nav-scroll-nudge .65s ease-in-out 2}
+}
+@media (prefers-reduced-motion:reduce){
+  .nav-scroll{transition:none}
+  .nav-scroll.is-nudging{animation:none}
+}

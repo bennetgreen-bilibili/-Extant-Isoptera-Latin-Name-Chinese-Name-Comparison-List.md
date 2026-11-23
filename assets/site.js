@@ -376,6 +376,87 @@
     });
   }
 
+  /* 移动端顶部导航是横向长条（10 项约 740px），只靠右端渐隐不足以让人发现还能滑：
+     在两端各放一个可点的箭头，滚到头就隐藏；首次出现时轻推两下。 */
+  var NAV_SCROLL_LABELS = {
+    zh: { prev: '向左滚动导航', next: '向右滚动导航' },
+    en: { prev: 'Scroll navigation left', next: 'Scroll navigation right' },
+    es: { prev: 'Desplazar la navegación a la izquierda', next: 'Desplazar la navegación a la derecha' }
+  };
+
+  function setupNavScrollHint() {
+    var links = document.querySelector('.nav-links');
+    if (!links) return;
+    var wrap = links.parentNode;
+    if (!wrap) return;
+    var labels = NAV_SCROLL_LABELS[pageLang()] || NAV_SCROLL_LABELS.zh;
+
+    function makeBtn(cls, label) {
+      var btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'nav-scroll ' + cls;
+      btn.setAttribute('aria-label', label);
+      btn.setAttribute('title', label);
+      var glyph = document.createElement('span');
+      glyph.setAttribute('aria-hidden', 'true');
+      btn.appendChild(glyph);
+      wrap.appendChild(btn);
+      return btn;
+    }
+    var btnPrev = makeBtn('nav-scroll-prev', labels.prev);
+    var btnNext = makeBtn('nav-scroll-next', labels.next);
+
+    function setShown(btn, shown) {
+      if (shown === btn.classList.contains('is-shown')) return;
+      if (shown) btn.classList.add('is-shown'); else btn.classList.remove('is-shown');
+    }
+
+    function maxScroll() { return links.scrollWidth - links.clientWidth; }
+    var nudged = false;
+
+    function nudge() {
+      btnNext.classList.add('is-nudging');
+      btnNext.addEventListener('animationend', function () {
+        btnNext.classList.remove('is-nudging');
+      }, { once: true });
+    }
+
+    function update() {
+      var max = maxScroll();
+      var x = links.scrollLeft;
+      var overflow = max > 4;
+      setShown(btnPrev, overflow && x > 2);
+      setShown(btnNext, overflow && x < max - 2);
+      if (overflow) wrap.classList.add('nav-scrollable'); else wrap.classList.remove('nav-scrollable');
+      if (!nudged && btnNext.classList.contains('is-shown')) { nudged = true; nudge(); }
+    }
+
+    function step(dir) {
+      var delta = dir * Math.max(120, Math.round(links.clientWidth * 0.7));
+      if (links.scrollTo) links.scrollTo({ left: links.scrollLeft + delta, behavior: 'smooth' });
+      else links.scrollLeft += delta;
+    }
+
+    btnPrev.addEventListener('click', function () { step(-1); });
+    btnNext.addEventListener('click', function () { step(1); });
+    links.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update);
+
+    /* 右箭头要让开右侧的搜索按钮：量一次宽度给 CSS 变量 */
+    var searchBtn = document.getElementById('nav-search-btn');
+    function syncGutter() {
+      var w = searchBtn ? searchBtn.getBoundingClientRect().width : 0;
+      wrap.style.setProperty('--nav-search-w', Math.round(w) + 'px');
+    }
+    syncGutter();
+    window.addEventListener('resize', syncGutter);
+
+    if (window.ResizeObserver) {
+      try { new ResizeObserver(update).observe(links); } catch (e) {}
+    }
+    update();
+  }
+
   /* 打印时自动展开「引用本种」区块，避免 <details> 折叠内容打印不出来 */
   function openCiteDetailsForPrint() {
     var details = document.querySelectorAll('details.species-cite');
@@ -384,7 +465,7 @@
 
   function ready(fn) { if (document.readyState !== 'loading') fn(); else document.addEventListener('DOMContentLoaded', fn); }
   ready(function () {
-    setupToc(); italicizeTaxa(); wrapTables(); setupBackTop(); setupCitations(); setupTheme();
+    setupToc(); italicizeTaxa(); wrapTables(); setupBackTop(); setupCitations(); setupTheme(); setupNavScrollHint();
     window.addEventListener('beforeprint', openCiteDetailsForPrint);
   });
 })();
