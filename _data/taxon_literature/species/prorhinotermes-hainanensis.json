@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "2011 年的异名处理",
+   "heading_en": "Synonymy proposed in 2011",
+   "heading_es": "Sinonimia propuesta en 2011",
+   "paragraphs": [
+    {
+     "text": "据摘要，海南原鼻白蚁（<i>Prorhinotermes hainanensis</i>，1989 年由 Ping 与 Xu 描述）同样被 Li 等（2011）并入上述 1912 年描述的原鼻白蚁属物种，理由是新描述的兵蚁、有翅成虫与新生蚁后在形态上与海南原鼻白蚁相符；该处理未被本站名录采纳，海南原鼻白蚁（<i>Prorhinotermes hainanensis</i>）仍按独立种处理。",
+     "src": [
+      "S0420"
+     ],
+     "text_en": "According to the abstract, Prorhinotermes hainanensis Ping & Xu, 1989 was likewise merged by Li et al. (2011) into the Prorhinotermes species described in 1912, on the grounds that the newly described soldier, alate and neotenic queens agree in morphology with Prorhinotermes hainanensis; the checklist on this site does not adopt this treatment and still treats Prorhinotermes hainanensis as a separate species.",
+     "text_es": "Según el resumen, Prorhinotermes hainanensis Ping & Xu, 1989 fue igualmente incluida por Li et al. (2011) en la especie de Prorhinotermes descrita en 1912, porque el soldado, el imago y las reinas neoténicas recién descritos coinciden morfológicamente con Prorhinotermes hainanensis; el catálogo de este sitio no adopta ese tratamiento y sigue tratando a Prorhinotermes hainanensis como especie independiente."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0420",
+   "citation": "Li H.-F.; Lan Y.-C.; Su N.-Y. 2011. Redescription of Prorhinotermes japonicus (Isoptera: Rhinotermitidae) from Taiwan.",
+   "doi": "10.1603/an11064"
+  }
+ ]
+}

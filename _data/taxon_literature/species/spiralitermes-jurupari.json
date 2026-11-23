@@ -1,0 +1,50 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "模式标本与量度",
+   "heading_en": "Type material and measurements",
+   "heading_es": "Material tipo y medidas",
+   "paragraphs": [
+    {
+     "text": "尤鲁帕里螺旋白蚁（<i>Spiralitermes jurupari</i>）的正模工蚁为 INPA-ISO 000006，副模为 INPA-ISO 000007、INPA-ISO 000008 与 MPEG-05054196，均由 C. S. Dambros 于 2012 年 9 月 1–17 日采自巴西罗赖马州 Maracá 生态站。",
+     "src": [
+      "S0117"
+     ],
+     "text_en": "The holotype worker of Spiralitermes jurupari is INPA-ISO 000006, and the paratypes are INPA-ISO 000007, INPA-ISO 000008 and MPEG-05054196, all collected by C. S. Dambros between 1 and 17 September 2012 at the Maracá Ecological Station, Roraima, Brazil.",
+     "text_es": "El holotipo obrero de Spiralitermes jurupari es INPA-ISO 000006, y los paratipos son INPA-ISO 000007, INPA-ISO 000008 y MPEG-05054196, todos recolectados por C. S. Dambros entre el 1 y el 17 de septiembre de 2012 en la Estación Ecológica de Maracá, Roraima, Brasil."
+    },
+    {
+     "text": "30 头工蚁的量度为：头宽 0.68–0.90（0.80）mm，头长 0.75–0.85（0.83）mm，后胫长 0.73–0.85（0.78）mm，前胸背板宽 0.43–0.48（0.46）mm；有翅成虫未知。",
+     "src": [
+      "S0117"
+     ],
+     "text_en": "Measurements of 30 workers: head width 0.68–0.90 (0.80) mm, head length 0.75–0.85 (0.83) mm, hind tibia length 0.73–0.85 (0.78) mm, pronotal width 0.43–0.48 (0.46) mm; the alate is unknown.",
+     "text_es": "Medidas de 30 obreros: ancho de la cabeza 0,68–0,90 (0,80) mm, longitud de la cabeza 0,75–0,85 (0,83) mm, longitud de la tibia posterior 0,73–0,85 (0,78) mm, ancho del pronoto 0,43–0,48 (0,46) mm; el imago es desconocido."
+    }
+   ]
+  },
+  {
+   "heading": "生境与词源",
+   "heading_en": "Habitat and etymology",
+   "heading_es": "Hábitat y etimología",
+   "paragraphs": [
+    {
+     "text": "该种直接采自土壤，采集地植被包括开阔雨林、落叶与半落叶季雨林、buriti 棕榈沼泽、沼泽以及小片稀树草原；种名词源 jurupari 为图皮语系民族传说中的神灵。",
+     "src": [
+      "S0117"
+     ],
+     "text_en": "The species was taken directly from soil, in vegetation ranging from open rainforest and deciduous to semi-deciduous seasonal forest, buriti palm swamp, marsh and small patches of savanna; the specific epithet jurupari refers to a deity of Tupi-speaking peoples.",
+     "text_es": "La especie se recogió directamente del suelo, en vegetación que abarca selva abierta, bosque estacional deciduo y semideciduo, pantano de palmas buriti, marisma y pequeñas manchas de sabana; el epíteto específico jurupari alude a una deidad de los pueblos de lengua tupí."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0117",
+   "citation": "Almeida-Azevedo R.; Rocha M.; de Morais J. W.; de Azevedo R. A. 2026. Spiralitermes jurupari, a New Genus and Species of Soldierless Termites (Blattodea: Termitidae) From the Amazon Rainforest.",
+   "doi": "10.1111/aen.70084"
+  }
+ ]
+}

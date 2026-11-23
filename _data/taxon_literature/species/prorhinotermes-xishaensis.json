@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "2011 年的异名处理",
+   "heading_en": "Synonymy proposed in 2011",
+   "heading_es": "Sinonimia propuesta en 2011",
+   "paragraphs": [
+    {
+     "text": "西沙原鼻白蚁（<i>Prorhinotermes xishaensis</i>）由 Li 与 Tsai 于 1976 年描述。据摘要，Li 等（2011）在首次描述一个原鼻白蚁属物种的有翅成虫时指出，该物种的兵蚁与有翅成虫和西沙原鼻白蚁的形态一致，据此把西沙原鼻白蚁处理为该物种的次异名；本站名录目前仍保留西沙原鼻白蚁（<i>Prorhinotermes xishaensis</i>）的种级地位。",
+     "src": [
+      "S0420"
+     ],
+     "text_en": "Prorhinotermes xishaensis was described by Li and Tsai in 1976. According to the abstract, when Li et al. (2011) described for the first time the alate of a Prorhinotermes species, they found its soldier and alate to agree with those of Prorhinotermes xishaensis and therefore treated the latter as a junior synonym of that species; the checklist on this site still keeps Prorhinotermes xishaensis as a species.",
+     "text_es": "Prorhinotermes xishaensis fue descrita por Li y Tsai en 1976. Según el resumen, cuando Li et al. (2011) describieron por primera vez el imago de una especie de Prorhinotermes, hallaron que su soldado y su imago coincidían con los de Prorhinotermes xishaensis y por ello trataron a esta última como sinónimo junior de esa especie; el catálogo de este sitio sigue manteniendo a Prorhinotermes xishaensis como especie."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0420",
+   "citation": "Li H.-F.; Lan Y.-C.; Su N.-Y. 2011. Redescription of Prorhinotermes japonicus (Isoptera: Rhinotermitidae) from Taiwan.",
+   "doi": "10.1603/an11064"
+  }
+ ]
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-23",
  "sections": [
   {
    "heading": "1920 年的野外生境记录",
@@ -46,6 +46,29 @@
      "text_es": "Según Imms y Hickson (1920), <i>Archotermopsis wroughtoni</i> se considera una de las termitas vivientes más primitivas; la especie fue descrita por Desneux a partir de ejemplares recolectados por Wroughton en junio de 1903 en tocones viejos, formados principalmente por <i>Pinus</i>, en el valle de Cachemira."
     }
    ]
+  },
+  {
+   "heading": "1918 年的原生动物研究",
+   "heading_en": "The protozoan studies of 1918",
+   "heading_es": "Los estudios de protozoos de 1918",
+   "paragraphs": [
+    {
+     "text": "根据 Cutler（1919）研究，Imms 此前已描述罗夫顿古白蚁（<i>Archotermopsis wroughtoni</i>）后肠寄生的部分原生动物，如 <i>Ditrichomonas</i> (<i>Trichomonas</i>) <i>termitis</i>；这批虫体当时饲养在曼彻斯特的 Imms 实验室。",
+     "src": [
+      "S0422"
+     ],
+     "text_en": "According to Cutler (1919), Imms had already described some of the protozoa parasitic in the hind gut of Archotermopsis wroughtoni, such as Ditrichomonas (Trichomonas) termitis; the insects were then being kept in Imms' laboratory at Manchester.",
+     "text_es": "Según Cutler (1919), Imms ya había descrito algunos de los protozoos parásitos del intestino posterior de Archotermopsis wroughtoni, como Ditrichomonas (Trichomonas) termitis; los insectos se mantenían entonces en el laboratorio de Imms en Mánchester."
+    },
+    {
+     "text": "Cutler 于 1918 年初决定对这些寄生虫作系统检查，其余材料由 Imms 提供，该文为系列研究的第一部分。",
+     "src": [
+      "S0422"
+     ],
+     "text_en": "Cutler decided early in 1918 to examine these parasites systematically, obtaining the remaining material from Imms; the paper is the first part of a series.",
+     "text_es": "Cutler decidió a comienzos de 1918 examinar estos parásitos de forma sistemática y obtuvo el material restante de Imms; el trabajo es la primera parte de una serie."
+    }
+   ]
   }
  ],
  "references": [
@@ -67,6 +90,11 @@
    "id": "S0247",
    "citation": "Scheffrahn, R. H. 2015. Global elevational, latitudinal, and climatic limits for termites and the redescription of Rugitermes laticollis Snyder (Isoptera: Kalotermitidae) from the Andean Highlands. Universidade Estadual de Feira de Santana.",
    "doi": "10.13102/sociobiology.v62i3.793"
+  },
+  {
+   "id": "S0422",
+   "citation": "Cutler D. W. 1919. Observations on the Protozoa Parasitic in the Hind Gut of Archotermopsis wroughtoni Desn: Part I.—Ditrichomonas (Trichomonas) termitis, Imms.",
+   "doi": "10.1242/jcs.s2-63.252.555"
   }
  ]
 }

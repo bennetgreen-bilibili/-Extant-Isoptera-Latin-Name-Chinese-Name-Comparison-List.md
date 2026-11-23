@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "假工蚁的肠道形态",
+   "heading_en": "Gut morphology of the pseudergates",
+   "heading_es": "Morfología intestinal de los pseudergados",
+   "paragraphs": [
+    {
+     "text": "据摘要，Godoy（2004）分析新热带牛白蚁属（<i>Tauritermes</i>）2 种白蚁的假工蚁（pseudergates）肠道，涉及中肠长度、第一与第二前胃节的结构和角质装饰、第三与第四前胃节的连接方式，以及直肠瓣的装饰。",
+     "src": [
+      "S0421"
+     ],
+     "text_en": "According to the abstract, Godoy (2004) analysed the gut of the pseudergates of two Neotropical Tauritermes species, covering midgut length, the structure and cuticular armature of the first and second proctodeal segments, the connection between the third and fourth segments, and the armature of the rectal valve.",
+     "text_es": "Según el resumen, Godoy (2004) analizó el intestino de los pseudergados de dos especies neotropicales de Tauritermes, incluyendo la longitud del intestino medio, la estructura y la armadura cuticular del primer y segundo segmento proctodeal, la conexión entre el tercer y cuarto segmento y la armadura de la válvula rectal."
+    },
+    {
+     "text": "上述特征与木白蚁科（Kalotermitidae）其他属明显不同，可用于识别牛白蚁属（<i>Tauritermes</i>）的成员。",
+     "src": [
+      "S0421"
+     ],
+     "text_en": "These characters differ clearly from those of other genera of Kalotermitidae and can be used to recognise members of Tauritermes.",
+     "text_es": "Estos caracteres difieren claramente de los de otros géneros de Kalotermitidae y permiten reconocer a los miembros de Tauritermes."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0421",
+   "citation": "Godoy M. C. 2004. Gut structure of two species of the neotropical genus Tauritermes Krishna (Isoptera: Kalotermitidae).",
+   "doi": "10.1590/s1519-566x2004000200006"
+  }
+ ]
+}

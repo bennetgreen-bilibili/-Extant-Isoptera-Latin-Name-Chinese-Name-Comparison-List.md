@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "2011 年的修订",
+   "heading_en": "The 2011 revision",
+   "heading_es": "La revisión de 2011",
+   "paragraphs": [
+    {
+     "text": "据摘要，Li 等（2011）以台湾标本首次描述了一种原鼻白蚁属（<i>Prorhinotermes</i>）的有翅成虫，并重描述了其兵蚁与 2 型新生蚁后；依据兵蚁、有翅成虫与新生蚁后的形态相似，该研究把西沙原鼻白蚁（<i>Prorhinotermes xishaensis</i>）与海南原鼻白蚁（<i>Prorhinotermes hainanensis</i>）并入一个 1912 年描述的原鼻白蚁属物种，作为其次异名。",
+     "src": [
+      "S0420"
+     ],
+     "text_en": "According to the abstract, Li et al. (2011) described for the first time the alate of a Prorhinotermes species from Taiwan and redescribed its soldier and two types of neotenic queens; on the basis of the morphological similarity of soldier, alate and neotenic queens, the study placed Prorhinotermes xishaensis and Prorhinotermes hainanensis as junior synonyms of a Prorhinotermes species described in 1912.",
+     "text_es": "Según el resumen, Li et al. (2011) describieron por primera vez el imago de una especie de Prorhinotermes de Taiwán y redescribieron su soldado y dos tipos de reinas neoténicas; a partir de la semejanza morfológica del soldado, el imago y las reinas neoténicas, el estudio situó a Prorhinotermes xishaensis y Prorhinotermes hainanensis como sinónimos junior de una especie de Prorhinotermes descrita en 1912."
+    },
+    {
+     "text": "该研究另比较了中国云南与菲律宾的原鼻白蚁属标本，并指出上述 1912 年描述的物种分布于南海北部周边的热带岛屿；文中把原鼻白蚁属置于鼻白蚁科（Rhinotermitidae），本站现按 2024 年鼻白蚁科的拆分将其置于沙白蚁科（Psammotermitidae）。",
+     "src": [
+      "S0420"
+     ],
+     "text_en": "The study also compared Prorhinotermes material from Yunnan, China, with material from the Philippines, and noted that the species described in 1912 occurs on tropical islands around the northern South China Sea; it placed the genus in Rhinotermitidae, whereas this site follows the 2024 split of that family and places it in Psammotermitidae.",
+     "text_es": "El estudio comparó además material de Prorhinotermes de Yunnan, China, con material de Filipinas, y señaló que la especie descrita en 1912 habita islas tropicales del norte del mar de China Meridional; situó al género en Rhinotermitidae, mientras que este sitio sigue la división de 2024 de esa familia y lo sitúa en Psammotermitidae."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0420",
+   "citation": "Li H.-F.; Lan Y.-C.; Su N.-Y. 2011. Redescription of Prorhinotermes japonicus (Isoptera: Rhinotermitidae) from Taiwan.",
+   "doi": "10.1603/an11064"
+  }
+ ]
+}

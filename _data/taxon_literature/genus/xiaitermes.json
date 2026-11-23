@@ -1,0 +1,43 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "属的修订与异名",
+   "heading_en": "Revision of the genus and its synonymy",
+   "heading_es": "Revisión del género y su sinonimia",
+   "paragraphs": [
+    {
+     "text": "根据 Ye 等（2026）研究，夏氏白蚁属（<i>Xiaitermes</i>）为中国特有属，隶于白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae），此前仅知 2 种，均为危害建筑木材的经济害虫；该研究结合线粒体基因组与形态数据，确认夏氏白蚁属的旧异名 <i>Xiaitermes tiantaiensis</i> 是鄞县夏氏白蚁（<i>Xiaitermes yinxianensis</i>）的次异名，该名原作为独立种描述。",
+     "src": [
+      "S0116"
+     ],
+     "text_en": "According to Ye et al. (2026), Xiaitermes is a genus endemic to China, placed in Termitidae: Nasutitermitinae, previously known from only two species, both economic pests of building timber; combining mitochondrial genomic and morphological data, the study confirmed that the former name Xiaitermes tiantaiensis, originally described as a separate species, is a junior synonym of Xiaitermes yinxianensis.",
+     "text_es": "Según Ye et al. (2026), Xiaitermes es un género endémico de China, situado en Termitidae: Nasutitermitinae, conocido antes por solo dos especies, ambas plagas económicas de la madera de construcción; combinando datos mitocondriales y morfológicos, el estudio confirmó que el nombre anterior Xiaitermes tiantaiensis, descrito originalmente como especie independiente, es un sinónimo junior de Xiaitermes yinxianensis."
+    },
+    {
+     "text": "同一研究首次测定该属的线粒体基因组：夏氏白蚁属的旧异名 <i>Xiaitermes tiantaiensis</i> 的序列长 15,867 bp，鄞县夏氏白蚁（<i>Xiaitermes yinxianensis</i>）为 15,866 bp，两者序列一致性达 99.9%，共 23 个变异位点，其中 CYTB 最多（5 个），rrnL 仅 1 个，COII 单倍型相同。",
+     "src": [
+      "S0116"
+     ],
+     "text_en": "The same study determined the first mitochondrial genomes for the genus: Xiaitermes tiantaiensis has 15,867 bp and Xiaitermes yinxianensis 15,866 bp, with 99.9% sequence identity; only 23 variable sites were found, most of them in CYTB (five), whereas rrnL has a single one, and the COII haplotype is identical.",
+     "text_es": "El mismo estudio determinó los primeros genomas mitocondriales del género: Xiaitermes tiantaiensis tiene 15.867 pb y Xiaitermes yinxianensis 15.866 pb, con 99,9 % de identidad de secuencia; solo se hallaron 23 sitios variables, la mayoría en CYTB (cinco), mientras que rrnL presenta uno solo, y el haplotipo de COII es idéntico."
+    },
+    {
+     "text": "Ye 等（2026）的系统发育分析显示，夏氏白蚁属（<i>Xiaitermes</i>）与钝颚白蚁属（<i>Ahmaditermes</i>）互为姐妹群；在多数线粒体基因组树中，大白蚁亚科（Macrotermitinae）是白蚁科（Termitidae）其余亚科的姐妹群。",
+     "src": [
+      "S0116"
+     ],
+     "text_en": "The phylogenetic analyses of Ye et al. (2026) show that Xiaitermes and Ahmaditermes are sister genera, and that in most mitochondrial-genome trees Macrotermitinae is the sister group of the remaining subfamilies of Termitidae.",
+     "text_es": "Los análisis filogenéticos de Ye et al. (2026) muestran que Xiaitermes y Ahmaditermes son géneros hermanos y que, en la mayoría de los árboles de genomas mitocondriales, Macrotermitinae es el grupo hermano de las demás subfamilias de Termitidae."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0116",
+   "citation": "Ye F.; Ke Y. L.; Li Z. Q. 2026. Revisiting a Chinese Endemic Termite Genus of Building Timber Pests: Mitochondrial Genomic and Morphological Dissection and Phylogenetic Positioning of Xiaitermes Gao & He, 1994 (Termitidae: Nasutitermitinae).",
+   "doi": "10.3390/insects17060602"
+  }
+ ]
+}

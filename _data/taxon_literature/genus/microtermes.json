@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-23",
  "sections": [
   {
    "heading": "坦噶尼喀农田的巢室密度",
@@ -38,6 +38,44 @@
      "text_es": "Según Kasseney et al. (2019), en el Jardín Botánico de la Universidad de Lomé, Togo, las termitas cultivadoras de hongos como <i>Microtermes</i>, <i>Allodontermes</i>, <i>Ancistrotermes</i> y <i>Macrotermes</i> son comunes en la selva tropical y la sabana; dado que pueden alimentarse de una amplia variedad de materiales ricos en celulosa, como hojarasca, hierbas, ramitas, troncos e incluso muebles de interior, pueden ocupar diversos hábitats; ambos hábitats compartieron 10 de 17 especies (Jaccard 58.8%, Sørensen 74%)."
     }
    ]
+  },
+  {
+   "heading": "玉米上的危害与轮作试验",
+   "heading_en": "Damage to maize and rotation trials",
+   "heading_es": "Daños al maíz y ensayos de rotación",
+   "paragraphs": [
+    {
+     "text": "据摘要，Riekert 与 Van den Berg（2003）在南非 1995/96 至 1999/2000 季的田间试验中，把小白蚁属（<i>Microtermes</i>）与奇齿白蚁属（<i>Allodontermes</i>）的培菌白蚁列为撒哈拉以南非洲玉米的重要害虫；高粱与向日葵受害开始较晚、增幅也较慢。",
+     "src": [
+      "S0423"
+     ],
+     "text_en": "According to the abstract, in field trials in South Africa from 1995/96 to 1999/2000, Riekert and Van den Berg treated the fungus-growing termites of Microtermes and Allodontermes as major pests of maize in sub-Saharan Africa; sorghum and sunflower were attacked later and the damage increased more slowly.",
+     "text_es": "Según el resumen, en ensayos de campo en Sudáfrica entre 1995/96 y 1999/2000, Riekert y Van den Berg consideraron a las termitas cultivadoras de hongos de Microtermes y Allodontermes plagas importantes del maíz en el África subsahariana; el sorgo y el girasol fueron atacados más tarde y el daño aumentó más despacio."
+    }
+   ]
+  },
+  {
+   "heading": "倒伏率与经济分析",
+   "heading_en": "Lodging rates and economic analysis",
+   "heading_es": "Tasas de encamado y análisis económico",
+   "paragraphs": [
+    {
+     "text": "1998/99 季收获时，玉米倒伏率为 100%，高粱 1%，向日葵 0.7%；虫压高时所有玉米品种的倒伏率都超过 85%，虫压低时品种间差异显著；1999/2000 季高粱与向日葵均无倒伏。",
+     "src": [
+      "S0423"
+     ],
+     "text_en": "At harvest in 1998/99, lodging reached 100% in maize, 1% in sorghum and 0.7% in sunflower; under high termite pressure all maize cultivars lodged above 85%, whereas under low pressure the cultivars differed significantly; in 1999/2000 neither sorghum nor sunflower lodged.",
+     "text_es": "En la cosecha de 1998/99, el encamado alcanzó el 100 % en el maíz, el 1 % en el sorgo y el 0,7 % en el girasol; con alta presión de termitas todos los cultivares de maíz se encamaron por encima del 85 %, mientras que con baja presión los cultivares difirieron de forma significativa; en 1999/2000 ni el sorgo ni el girasol se encamaron."
+    },
+    {
+     "text": "1995/96 至 1999/2000 季的试验中，前作向日葵或高粱并不抑制后作玉米上的白蚁活动，经济分析显示向日葵轮作最为有利。",
+     "src": [
+      "S0423"
+     ],
+     "text_en": "In the trials from 1995/96 to 1999/2000, a preceding crop of sunflower or sorghum did not suppress termite activity in the following maize, and the economic analysis showed sunflower rotation to be the most profitable option.",
+     "text_es": "En los ensayos de 1995/96 a 1999/2000, un cultivo previo de girasol o sorgo no suprimió la actividad de las termitas en el maíz siguiente, y el análisis económico mostró que la rotación con girasol era la opción más rentable."
+    }
+   ]
   }
  ],
  "references": [
@@ -55,6 +93,11 @@
    "id": "S0290",
    "citation": "Kasseney, B. D.; Titati Bassouo N’tie; Nuto, Y.; Dekoninck, W.; Kolo Yéo; Isabelle Adolé Glitho. 2019. Diversity of Ants and Termites of the Botanical Garden of the University of Lomé, Togo. MDPI AG.",
    "doi": "10.3390/insects10070218"
+  },
+  {
+   "id": "S0423",
+   "citation": "Riekert H. F.; Van den Berg J. 2003. Evaluation of maize cultivars and rotation crops for resistance to damage by fungus-growing termites.",
+   "doi": "10.1080/02571862.2003.10634911"
   }
  ]
 }

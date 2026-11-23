@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-23",
  "sections": [
   {
    "heading": "属级组成：散白蚁属旧名 Reticulitermes santonensis 的异名化",
@@ -77,6 +77,29 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "北美的分布",
+   "heading_en": "Distribution in North America",
+   "heading_es": "Distribución en Norteamérica",
+   "paragraphs": [
+    {
+     "text": "据摘要，Su 等（2001）指出，北美多数地下白蚁害虫属于散白蚁属（<i>Reticulitermes</i>），该属在除阿拉斯加外的美国本土各州均有记录，以温暖湿润的东南部最常见。",
+     "src": [
+      "S0424"
+     ],
+     "text_en": "According to the abstract, Su et al. (2001) noted that most subterranean termite pests in North America belong to Reticulitermes, a genus recorded in every state of the contiguous United States except Alaska and most common in the warm, humid Southeast.",
+     "text_es": "Según el resumen, Su et al. (2001) señalaron que la mayoría de las termitas subterráneas plaga de Norteamérica pertenecen a Reticulitermes, género registrado en todos los estados continentales de Estados Unidos salvo Alaska y más común en el sudeste cálido y húmedo."
+    },
+    {
+     "text": "在北美，北美散白蚁（<i>Reticulitermes flavipes</i>）分布最广，自北美东部北至加拿大安大略、南至佛罗里达 Key Largo；太平洋沿岸与西部山间地区的种类组成与之不同。",
+     "src": [
+      "S0424"
+     ],
+     "text_en": "In North America, Reticulitermes flavipes is the most widely distributed species, from eastern North America north to Ontario, Canada, and south to Key Largo, Florida; the species composition along the Pacific coast and in the western intermountain region differs.",
+     "text_es": "En Norteamérica, Reticulitermes flavipes es la especie de mayor distribución, desde el este de Norteamérica hacia el norte hasta Ontario, Canadá, y hacia el sur hasta Key Largo, Florida; la composición de especies de la costa del Pacífico y de la región intermontana occidental es distinta."
+    }
+   ]
   }
  ],
  "references": [
@@ -104,6 +127,11 @@
    "id": "S0368",
    "citation": "Bourguignon, T.; Lo, N.; Šobotník, J.; Sillam-Dussès, D.; Roisin, Y.; Evans, T. A. 2016. Oceanic dispersal, vicariance and human introduction shaped the modern distribution of the termites Reticulitermes, Heterotermes and Coptotermes. Proceedings of the Royal Society B.",
    "url": "https://doi.org/10.1098/rspb.2016.0179"
+  },
+  {
+   "id": "S0424",
+   "citation": "Su N.-Y.; Scheffrahn R. H.; Cabrera B. J. 2001. Native Subterranean Termites: Reticulitermes flavipes (Kollar), Reticulitermes virginicus (Banks), Reticulitermes hageni Banks (Insecta: Isoptera: Rhinotermitidae). EENY-212/IN369.",
+   "doi": "10.32473/edis-in369-2001"
   }
  ]
 }

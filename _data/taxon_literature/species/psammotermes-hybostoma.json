@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-23",
  "sections": [
   {
    "heading": "品级体系与干旱适应",
@@ -55,6 +55,36 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "昆虫病原真菌的致病力",
+   "heading_en": "Virulence of entomopathogenic fungi",
+   "heading_es": "Virulencia de hongos entomopatógenos",
+   "paragraphs": [
+    {
+     "text": "据摘要，Somalian 等（2019）以金龟子绿僵菌（<i>Metarhizium anisopliae</i>）、球孢白僵菌（<i>Beauveria bassiana</i>）与黑曲霉（<i>Aspergillus niger</i>）处理弯嘴沙白蚁（<i>Psammotermes hybostoma</i>），一周后死亡率分别为 22.5%、15.0% 与 13.3%，LC50 分别为 3.278×10⁶、4.6526×10⁶ 与 5.4982×10⁶ 孢子/ml。",
+     "src": [
+      "S0425"
+     ],
+     "text_en": "According to the abstract, Somalian et al. (2019) treated Psammotermes hybostoma with Metarhizium anisopliae, Beauveria bassiana and Aspergillus niger, obtaining mortalities of 22.5%, 15.0% and 13.3% after one week, with LC50 values of 3.278×10⁶, 4.6526×10⁶ and 5.4982×10⁶ spores/ml respectively.",
+     "text_es": "Según el resumen, Somalian et al. (2019) trataron Psammotermes hybostoma con Metarhizium anisopliae, Beauveria bassiana y Aspergillus niger, con mortalidades de 22,5 %, 15,0 % y 13,3 % tras una semana, y valores de CL50 de 3,278×10⁶, 4,6526×10⁶ y 5,4982×10⁶ esporas/ml respectivamente."
+    }
+   ]
+  },
+  {
+   "heading": "诱饵取食的降低率",
+   "heading_en": "Reduction in bait consumption",
+   "heading_es": "Reducción del consumo de cebos",
+   "paragraphs": [
+    {
+     "text": "在 4×10⁶ 孢子/ml 浓度下，黑曲霉、球孢白僵菌与金龟子绿僵菌处理诱饵的取食降低率分别为 61.52%、35.54% 与 20.06%；作者认为黑曲霉的降低率偏高，是因为工蚁避开处理过的诱饵，即黑曲霉对工蚁有驱避作用。",
+     "src": [
+      "S0425"
+     ],
+     "text_en": "At 4×10⁶ spores/ml, the reduction in bait consumption was 61.52% for Aspergillus niger, 35.54% for Beauveria bassiana and 20.06% for Metarhizium anisopliae; the authors attribute the high value for Aspergillus niger to workers avoiding the treated bait, that is, to a repellent effect.",
+     "text_es": "A 4×10⁶ esporas/ml, la reducción del consumo de cebo fue del 61,52 % con Aspergillus niger, del 35,54 % con Beauveria bassiana y del 20,06 % con Metarhizium anisopliae; los autores atribuyen el valor alto de Aspergillus niger a que los obreros evitan el cebo tratado, es decir, a un efecto repelente."
+    }
+   ]
   }
  ],
  "references": [
@@ -72,6 +102,11 @@
    "id": "S0360",
    "citation": "Abushama, F. T.; Abdel Nur, H. O. 1978. Natural resistance of Sudanese timber against the sand termite Psammotermes hybostoma. Entomologia Experimentalis et Applicata.",
    "url": "https://doi.org/10.1111/j.1570-7458.1978.tb02774.x"
+  },
+  {
+   "id": "S0425",
+   "citation": "Somalian M.; Khalaph Allah R.; Hammad M.; Ebnalwaled A. A. 2019. Biological control of subterranean termites (Psammotermes hypostoma) by entomopathogenic fungi.",
+   "doi": "10.21608/sjas.2019.53985"
   }
  ]
 }

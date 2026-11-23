@@ -1,0 +1,42 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "兵蚁二型与形态量度",
+   "heading_en": "Soldier dimorphism and morphometrics",
+   "heading_es": "Dimorfismo de los soldados y morfometría",
+   "paragraphs": [
+    {
+     "text": "根据 Ye 等（2026）研究，鄞县夏氏白蚁（<i>Xiaitermes yinxianensis</i>）的兵蚁为二型，而其旧异名 <i>Xiaitermes tiantaiensis</i> 的兵蚁为单型；两者的 7 项形态量度范围高度重叠、差异不显著，兵蚁上颚端突又有明显的种内变异，均不足以区分这两个名。",
+     "src": [
+      "S0116"
+     ],
+     "text_en": "According to Ye et al. (2026), the soldiers of Xiaitermes yinxianensis are dimorphic, whereas those of its former name Xiaitermes tiantaiensis are monomorphic; the ranges of seven morphological measurements overlap strongly and do not differ significantly, and the apical tooth of the soldier mandible varies considerably within species, so neither character separates the two names.",
+     "text_es": "Según Ye et al. (2026), los soldados de Xiaitermes yinxianensis son dimórficos, mientras que los de su nombre anterior Xiaitermes tiantaiensis son monomórficos; los rangos de siete medidas morfológicas se solapan ampliamente y no difieren de forma significativa, y el diente apical de la mandíbula del soldado varía mucho dentro de la especie, por lo que ninguno de los dos caracteres separa ambos nombres."
+    }
+   ]
+  },
+  {
+   "heading": "分布与危害对象",
+   "heading_en": "Distribution and host plants",
+   "heading_es": "Distribución y plantas huésped",
+   "paragraphs": [
+    {
+     "text": "该研究检视的鄞县夏氏白蚁（<i>Xiaitermes yinxianensis</i>）标本采自安徽黄山祁门（117°31′41″E，29°36′56″N），采集日期为 2023 年 6 月 9 日；该种主要分布于浙江，并记录于邻近的安徽，除危害建筑木材外，还取食杨梅（<i>Myrica rubra</i>）。",
+     "src": [
+      "S0116"
+     ],
+     "text_en": "The specimens of Xiaitermes yinxianensis examined in the study were collected at Qimen, Huangshan, Anhui (117°31′41″ E, 29°36′56″ N) on 9 June 2023; the species is mainly distributed in Zhejiang, with records also from neighbouring Anhui, and besides damaging building timber it feeds on Chinese bayberry (Myrica rubra).",
+     "text_es": "Los ejemplares de Xiaitermes yinxianensis examinados en el estudio se recolectaron en Qimen, Huangshan, Anhui (117°31′41″ E, 29°36′56″ N) el 9 de junio de 2023; la especie se distribuye principalmente en Zhejiang y también se ha registrado en la vecina Anhui, y además de dañar la madera de construcción se alimenta de arrayán chino (Myrica rubra)."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0116",
+   "citation": "Ye F.; Ke Y. L.; Li Z. Q. 2026. Revisiting a Chinese Endemic Termite Genus of Building Timber Pests: Mitochondrial Genomic and Morphological Dissection and Phylogenetic Positioning of Xiaitermes Gao & He, 1994 (Termitidae: Nasutitermitinae).",
+   "doi": "10.3390/insects17060602"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "属的建立与组成",
+   "heading_en": "Establishment and composition of the genus",
+   "heading_es": "Establecimiento y composición del género",
+   "paragraphs": [
+    {
+     "text": "据摘要，Cancello 与 Noirot（2003）建立近凸白蚁属（<i>Paraconvexitermes</i>），隶于白蚁科（Termitidae）象白蚁亚科（Nasutitermitinae），含新种圆头近凸白蚁（<i>Paraconvexitermes acangapua</i>），以及由凸白蚁属（<i>Convexitermes</i>）移入的黑角近凸白蚁（<i>Paraconvexitermes nigricornis</i>）与细长近凸白蚁（<i>Paraconvexitermes junceus</i>）。",
+     "src": [
+      "S0428"
+     ],
+     "text_en": "According to the abstract, Cancello and Noirot (2003) erected Paraconvexitermes in Termitidae: Nasutitermitinae, containing the new species Paraconvexitermes acangapua together with Paraconvexitermes nigricornis and Paraconvexitermes junceus, both transferred from Convexitermes.",
+     "text_es": "Según el resumen, Cancello y Noirot (2003) erigieron Paraconvexitermes en Termitidae: Nasutitermitinae, con la especie nueva Paraconvexitermes acangapua junto con Paraconvexitermes nigricornis y Paraconvexitermes junceus, ambas transferidas desde Convexitermes."
+    },
+    {
+     "text": "凸白蚁属（<i>Convexitermes</i>）经此调整后仅余曼凸白蚁（<i>Convexitermes manni</i>）与凸额凸白蚁（<i>Convexitermes convexifrons</i>）2 种。",
+     "src": [
+      "S0428"
+     ],
+     "text_en": "After this rearrangement Convexitermes retains only two species, Convexitermes manni and Convexitermes convexifrons.",
+     "text_es": "Tras este reajuste, Convexitermes conserva solo dos especies, Convexitermes manni y Convexitermes convexifrons."
+    }
+   ]
+  },
+  {
+   "heading": "消化道与系统关系",
+   "heading_en": "Gut anatomy and relationships",
+   "heading_es": "Anatomía intestinal y relaciones",
+   "paragraphs": [
+    {
+     "text": "该研究比较了近凸白蚁属（<i>Paraconvexitermes</i>）、凸白蚁属（<i>Convexitermes</i>）与阿特拉斯白蚁属（<i>Atlantitermes</i>）工蚁的消化道，据此界定这 3 个属，并提供工蚁消化道与上颚、兵蚁头部、有翅成虫头部与次生繁殖雌蚁的图。",
+     "src": [
+      "S0428"
+     ],
+     "text_en": "The study compared the worker digestive tract of Paraconvexitermes, Convexitermes and Atlantitermes as a basis for delimiting the three genera, and illustrated the worker gut and mandibles, the soldier head, the alate head and the secondary reproductive female.",
+     "text_es": "El estudio comparó el tubo digestivo de los obreros de Paraconvexitermes, Convexitermes y Atlantitermes como base para delimitar los tres géneros, e ilustró el intestino y las mandíbulas del obrero, la cabeza del soldado, la cabeza del imago y la hembra reproductora secundaria."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0428",
+   "citation": "Cancello E. M.; Noirot C. 2003. Paraconvexitermes acangapua(Isoptera: Termitidae, Nasutitermitinae), a new genus and new species of the so-called “small Neotropical soil-feeding nasutes” from South America.",
+   "doi": "10.1080/00379271.2003.10697373"
+  }
+ ]
+}

@@ -99,6 +99,29 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "北美东部的分布",
+   "heading_en": "Distribution in eastern North America",
+   "heading_es": "Distribución en el este de Norteamérica",
+   "paragraphs": [
+    {
+     "text": "据摘要，Su 等（2001）记载北美散白蚁（<i>Reticulitermes flavipes</i>）是分布最广的散白蚁属（<i>Reticulitermes</i>）种类，分布区自北美东部向北到加拿大安大略、向南到佛罗里达 Key Largo。",
+     "src": [
+      "S0424"
+     ],
+     "text_en": "According to the abstract, Su et al. (2001) recorded Reticulitermes flavipes as the most widely distributed species of Reticulitermes, its range extending from eastern North America north to Ontario, Canada, and south to Key Largo, Florida.",
+     "text_es": "Según el resumen, Su et al. (2001) registraron a Reticulitermes flavipes como la especie de Reticulitermes de mayor distribución, con un área que va del este de Norteamérica al norte hasta Ontario, Canadá, y al sur hasta Key Largo, Florida."
+    },
+    {
+     "text": "佛罗里达除北美散白蚁（<i>Reticulitermes flavipes</i>）外，还分布另外 2 种散白蚁属（<i>Reticulitermes</i>）种类。",
+     "src": [
+      "S0424"
+     ],
+     "text_en": "Besides Reticulitermes flavipes, Florida also harbours two other species of Reticulitermes.",
+     "text_es": "Además de Reticulitermes flavipes, Florida alberga otras dos especies de Reticulitermes."
+    }
+   ]
   }
  ],
  "references": [
@@ -129,6 +152,11 @@
    "id": "S0403",
    "citation": "McKern, J. A.; Szalanski, A. L.; Austin, J. W. 2006. First record of Reticulitermes flavipes and Reticulitermes hageni in Oregon (Isoptera: Rhinotermitidae). Florida Entomologist.",
    "doi": "10.1653/0015-4040(2006)89[541:frorfa]2.0.co;2"
+  },
+  {
+   "id": "S0424",
+   "citation": "Su N.-Y.; Scheffrahn R. H.; Cabrera B. J. 2001. Native Subterranean Termites: Reticulitermes flavipes (Kollar), Reticulitermes virginicus (Banks), Reticulitermes hageni Banks (Insecta: Isoptera: Rhinotermitidae). EENY-212/IN369.",
+   "doi": "10.32473/edis-in369-2001"
   }
  ]
 }

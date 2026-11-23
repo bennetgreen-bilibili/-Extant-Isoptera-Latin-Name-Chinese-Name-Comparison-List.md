@@ -1,0 +1,43 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "额腺的分布与超微结构",
+   "heading_en": "Distribution and ultrastructure of the frontal gland",
+   "heading_es": "Distribución y ultraestructura de la glándula frontal",
+   "paragraphs": [
+    {
+     "text": "根据 Šobotník 等（2004）研究，简单原鼻白蚁（<i>Prorhinotermes simplex</i>）的额腺仅见于前兵蚁、兵蚁、有翅成虫以及兵蚁—若虫中间型；腺体囊状，经额孔开口，分泌上皮由单一细胞型构成。",
+     "src": [
+      "S0205"
+     ],
+     "text_en": "According to Šobotník et al. (2004), the frontal gland of Prorhinotermes simplex occurs only in presoldiers, soldiers, alates and the soldier–nymph intercastes; it is saccular, opens through the frontal pore, and its secretory epithelium is of a single cell type.",
+     "text_es": "Según Šobotník et al. (2004), la glándula frontal de Prorhinotermes simplex solo aparece en presoldados, soldados, imagos y en las intercastas soldado–ninfa; es sacular, se abre por el poro frontal y su epitelio secretor es de un único tipo celular."
+    },
+    {
+     "text": "兵蚁的角质内膜源自内角质层，没有真正的微绒毛，而已知的其它原鼻白蚁属种类为表角质层起源或两者兼有；有翅成虫的角质层分为表角质层、表角质层丝层与基底层，兵蚁—若虫中间型的头部构造近似有翅成虫、胸部近似兵蚁。",
+     "src": [
+      "S0205"
+     ],
+     "text_en": "In soldiers the cuticular intima derives from the endocuticle and bears no true microvilli, whereas in the other Prorhinotermes species studied so far it is of epicuticular origin or a mixture of both; the alate cuticle is divided into epicuticle, epicuticular filament layer and basal layer, and the soldier–nymph intercaste has a head resembling that of the alate and a thorax resembling that of the soldier.",
+     "text_es": "En los soldados la íntima cuticular deriva del endocutículo y carece de microvellosidades verdaderas, mientras que en las otras especies de Prorhinotermes estudiadas hasta ahora es de origen epicuticular o mixta; la cutícula del imago se divide en epicutícula, capa de filamentos epicuticulares y capa basal, y la intercasta soldado–ninfa tiene la cabeza semejante a la del imago y el tórax semejante al del soldado."
+    },
+    {
+     "text": "防御物质 E-1-硝基十五碳烯在兵蚁中含量最高，有翅成虫约为兵蚁的五分之一，前兵蚁与中间型中缺失；研究材料为 1964 年 12 月 14 日采于古巴 Soroa（Pinar del Río）的简单原鼻白蚁（<i>Prorhinotermes simplex</i>）群体。",
+     "src": [
+      "S0205"
+     ],
+     "text_en": "The defensive compound (E)-1-nitropentadecene is most abundant in soldiers, reaches about one fifth of the soldier level in alates, and is absent from presoldiers and intercastes; the colony studied was collected on 14 December 1964 at Soroa, Pinar del Río, Cuba.",
+     "text_es": "El compuesto defensivo (E)-1-nitropentadeceno es más abundante en los soldados, alcanza cerca de una quinta parte del nivel del soldado en los imagos y falta en presoldados e intercastas; la colonia estudiada se recolectó el 14 de diciembre de 1964 en Soroa, Pinar del Río, Cuba."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0205",
+   "citation": "Šobotník J.; Weyda F.; Hanus R.; Kyjaková P.; Doubský J. 2004. Ultrastructure of the frontal gland in Prorhinotermes simplex (Isoptera: Rhinotermitidae) and quantity of the defensive substance.",
+   "doi": "10.14411/eje.2004.020"
+  }
+ ]
+}

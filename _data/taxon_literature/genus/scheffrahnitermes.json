@@ -1,0 +1,50 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "属的建立",
+   "heading_en": "Establishment of the genus",
+   "heading_es": "Establecimiento del género",
+   "paragraphs": [
+    {
+     "text": "根据 Mellado 等（2026）研究，谢弗拉恩白蚁属（<i>Scheffrahnitermes</i>）为新属，隶于白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae），模式种为乌班图谢弗拉恩白蚁（<i>Scheffrahnitermes ubuntu</i>）；其肠瓣座内部具 2 片不对称的骨化带刺板，外部形成小囊，工蚁在酒精中保存后体色变红。",
+     "src": [
+      "S0119"
+     ],
+     "text_en": "According to Mellado et al. (2026), Scheffrahnitermes is a new genus in Termitidae: Apicotermitinae, with Scheffrahnitermes ubuntu as its type species; its enteric valve seat bears two asymmetrical sclerotized spiny plates internally and forms a small pouch externally, and workers turn red in alcohol.",
+     "text_es": "Según Mellado et al. (2026), Scheffrahnitermes es un género nuevo de Termitidae: Apicotermitinae, con Scheffrahnitermes ubuntu como especie tipo; el asiento de su válvula entérica presenta internamente dos placas esclerotizadas espinosas asimétricas y forma externamente una pequeña bolsa, y los obreros se vuelven rojos en alcohol."
+    }
+   ]
+  },
+  {
+   "heading": "分布与比较",
+   "heading_en": "Distribution and comparisons",
+   "heading_es": "Distribución y comparaciones",
+   "paragraphs": [
+    {
+     "text": "该属记录于哥伦比亚 Llanos 与巴西的亚马孙（Amazon）、塞拉多（Cerrado）、大西洋森林（Atlantic Forest）与卡廷加（Caatinga）共 5 个植物地理区，见于浅层土壤、倒木以及废弃或受侵蚀的角象白蚁属（<i>Cornitermes</i>）巢中。",
+     "src": [
+      "S0119"
+     ],
+     "text_en": "The genus is recorded from the Llanos of Colombia and from five phytogeographic domains in Brazil (Amazon, Cerrado, Atlantic Forest and Caatinga), in shallow soil, in fallen logs and in abandoned or eroded nests of Cornitermes.",
+     "text_es": "El género se registra en los Llanos de Colombia y en cinco dominios fitogeográficos de Brasil (Amazonia, Cerrado, Mata Atlántica y Caatinga), en suelo superficial, en troncos caídos y en nidos abandonados o erosionados de Cornitermes."
+    },
+    {
+     "text": "谢弗拉恩白蚁属（<i>Scheffrahnitermes</i>）目前无分子数据；它与变红白蚁属（<i>Rubeotermes</i>）、奇囟白蚁属（<i>Tonsuritermes</i>）一样在酒精中变红，但体型、肠道盘曲方式与混合段不同。",
+     "src": [
+      "S0119"
+     ],
+     "text_en": "No molecular data are available for Scheffrahnitermes; like Rubeotermes and Tonsuritermes it turns red in alcohol, but it differs in body size, gut coiling and the mixed segment.",
+     "text_es": "No hay datos moleculares de Scheffrahnitermes; como Rubeotermes y Tonsuritermes se vuelve rojo en alcohol, pero difiere en el tamaño corporal, el plegamiento del intestino y el segmento mixto."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0119",
+   "citation": "Mellado C. C.; Messina G. G.; Carvalho A.; Oliveira D. E.; Almeida-Azevedo R.; Almeida de Azevedo R.; Cunha H. F.; Lucena E. F.; Constantini J. P.; Pinzón-Florián O. P.; Carrijo T. F. 2026. Scheffrahnitermes ubuntu (Isoptera: Apicotermitinae), Description of a New Termite Using a Collaborative Approach to Address the Wallacean Shortfall.",
+   "doi": "10.1002/njz2.70025"
+  }
+ ]
+}

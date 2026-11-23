@@ -1,0 +1,50 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "属的建立",
+   "heading_en": "Establishment of the genus",
+   "heading_es": "Establecimiento del género",
+   "paragraphs": [
+    {
+     "text": "根据 Almeida-Azevedo 等（2026）研究，螺旋白蚁属（<i>Spiralitermes</i>）为新属，隶于白蚁科（Termitidae）尖白蚁亚科（Apicotermitinae），模式种为尤鲁帕里螺旋白蚁（<i>Spiralitermes jurupari</i>）；该亚科的兵蚁缺失，属与种的识别依赖肠道解剖。",
+     "src": [
+      "S0117"
+     ],
+     "text_en": "According to Almeida-Azevedo et al. (2026), Spiralitermes is a new genus placed in Termitidae: Apicotermitinae, with Spiralitermes jurupari as its type species; soldiers are absent in this subfamily, so generic and specific identification rests on gut anatomy.",
+     "text_es": "Según Almeida-Azevedo et al. (2026), Spiralitermes es un género nuevo situado en Termitidae: Apicotermitinae, con Spiralitermes jurupari como especie tipo; en esta subfamilia faltan los soldados, por lo que la identificación de géneros y especies depende de la anatomía del intestino."
+    }
+   ]
+  },
+  {
+   "heading": "鉴别特征",
+   "heading_en": "Diagnostic characters",
+   "heading_es": "Caracteres diagnósticos",
+   "paragraphs": [
+    {
+     "text": "螺旋白蚁属（<i>Spiralitermes</i>）的第一前胃节极长并呈螺旋形，在腹面构成完整的一圈；中肠舌呈管状，约为中肠长的三分之一；肠瓣座不分叶、呈漏斗状，肠瓣由 6 个对称瓣组成，刺位于近端中部并朝向第一前胃节。",
+     "src": [
+      "S0117"
+     ],
+     "text_en": "In Spiralitermes the firstproctodeal segment is extremely long and spiral, forming a complete ring on the ventral side; the mesenteric tongue is tubular and about one third of the midgut length; the enteric valve seat is unlobed and funnel-shaped, the valve consists of six symmetrical lobes, and the spines sit in the proximal middle and point towards the first proctodeal segment.",
+     "text_es": "En Spiralitermes el primer segmento proctodeal es extremadamente largo y espiralado, y forma un anillo completo en la cara ventral; la lengua mesentérica es tubular y mide cerca de un tercio del intestino medio; el asiento de la válvula entérica no está lobulado y tiene forma de embudo, la válvula consta de seis lóbulos simétricos y las espinas se sitúan en la parte proximal media y apuntan hacia el primer segmento proctodeal."
+    },
+    {
+     "text": "该属的肠道特征可与曼戈尔德白蚁属（<i>Mangolditermes</i>）、黄汁白蚁属（<i>Tucupitermes</i>）与毛糙白蚁属（<i>Hirsutitermes</i>）区分：曼戈尔德白蚁属的肠瓣座分三叶，黄汁白蚁属的口道瓣长、马氏管壶腹膨大，毛糙白蚁属的肠瓣座亦分三叶且肠瓣具刺。",
+     "src": [
+      "S0117"
+     ],
+     "text_en": "The gut characters separate the genus from Mangolditermes, Tucupitermes and Hirsutitermes: the enteric valve seat of Mangolditermes is trilobed, Tucupitermes has a long stomodeal valve and swollen Malpighian ampullae, and Hirsutitermes also has a trilobed seat and a spiny enteric valve.",
+     "text_es": "Los caracteres del intestino separan al género de Mangolditermes, Tucupitermes e Hirsutitermes: el asiento de la válvula entérica de Mangolditermes es trilobulado, Tucupitermes presenta una válvula estomodeal larga y ampollas de Malpighi dilatadas, e Hirsutitermes también tiene el asiento trilobulado y la válvula entérica con espinas."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0117",
+   "citation": "Almeida-Azevedo R.; Rocha M.; de Morais J. W.; de Azevedo R. A. 2026. Spiralitermes jurupari, a New Genus and Species of Soldierless Termites (Blattodea: Termitidae) From the Amazon Rainforest.",
+   "doi": "10.1111/aen.70084"
+  }
+ ]
+}

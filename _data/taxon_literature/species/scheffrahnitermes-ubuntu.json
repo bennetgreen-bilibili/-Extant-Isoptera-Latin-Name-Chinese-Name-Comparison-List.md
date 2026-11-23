@@ -1,0 +1,50 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "模式标本与量度",
+   "heading_en": "Type material and measurements",
+   "heading_es": "Material tipo y medidas",
+   "paragraphs": [
+    {
+     "text": "乌班图谢弗拉恩白蚁（<i>Scheffrahnitermes ubuntu</i>）的正模工蚁为 MZUSP 18093，采自巴西朗多尼亚州 Porto Velho 的 UHE Jirau（09°38′32.0″S，65°26′46.5″W），2011 年 4 月 5 日由 V. Mercado 与 R. Probst 采集。",
+     "src": [
+      "S0119"
+     ],
+     "text_en": "The holotype worker of Scheffrahnitermes ubuntu is MZUSP 18093, collected at UHE Jirau, Porto Velho, Rondônia, Brazil (09°38′32.0″ S, 65°26′46.5″ W) on 5 April 2011 by V. Mercado and R. Probst.",
+     "text_es": "El holotipo obrero de Scheffrahnitermes ubuntu es MZUSP 18093, recolectado en UHE Jirau, Porto Velho, Rondônia, Brasil (09°38′32,0″ S, 65°26′46,5″ O) el 5 de abril de 2011 por V. Mercado y R. Probst."
+    },
+    {
+     "text": "30 头工蚁（来自 6 巢）的量度为：头宽 0.63–0.73（0.68）mm，头长 0.78–0.90（0.83）mm，前胫宽 0.09–0.13（0.11）mm，前胫长 0.36–0.49（0.45）mm，胫指数 0.74–0.87（0.82）。",
+     "src": [
+      "S0119"
+     ],
+     "text_en": "Measurements of 30 workers from six colonies: head width 0.63–0.73 (0.68) mm, head length 0.78–0.90 (0.83) mm, foretibia width 0.09–0.13 (0.11) mm, foretibia length 0.36–0.49 (0.45) mm, tibial index 0.74–0.87 (0.82).",
+     "text_es": "Medidas de 30 obreros de seis colonias: ancho de la cabeza 0,63–0,73 (0,68) mm, longitud de la cabeza 0,78–0,90 (0,83) mm, ancho de la tibia anterior 0,09–0,13 (0,11) mm, longitud de la tibia anterior 0,36–0,49 (0,45) mm, índice tibial 0,74–0,87 (0,82)."
+    }
+   ]
+  },
+  {
+   "heading": "词源与伴生种类",
+   "heading_en": "Etymology and associated genera",
+   "heading_es": "Etimología y géneros asociados",
+   "paragraphs": [
+    {
+     "text": "种名 ubuntu 取自恩古尼语中的「I am because we are」，指社会性群体中个体的相互依存；该种与直颚白蚁属（<i>Orthognathotermes</i>）、针刺白蚁属（<i>Spinitermes</i>）、克雷切克白蚁属（<i>Krecekitermes</i>）等常在同一地点出现。",
+     "src": [
+      "S0119"
+     ],
+     "text_en": "The specific epithet ubuntu comes from the Nguni phrase \"I am because we are\", referring to the mutual dependence of individuals in a social colony; the species often co-occurs with Orthognathotermes, Spinitermes and Krecekitermes.",
+     "text_es": "El epíteto específico ubuntu procede de la frase nguni «I am because we are», que alude a la dependencia mutua de los individuos en una colonia social; la especie suele coexistir con Orthognathotermes, Spinitermes y Krecekitermes."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0119",
+   "citation": "Mellado C. C.; Messina G. G.; Carvalho A.; Oliveira D. E.; Almeida-Azevedo R.; Almeida de Azevedo R.; Cunha H. F.; Lucena E. F.; Constantini J. P.; Pinzón-Florián O. P.; Carrijo T. F. 2026. Scheffrahnitermes ubuntu (Isoptera: Apicotermitinae), Description of a New Termite Using a Collaborative Approach to Address the Wallacean Shortfall.",
+   "doi": "10.1002/njz2.70025"
+  }
+ ]
+}

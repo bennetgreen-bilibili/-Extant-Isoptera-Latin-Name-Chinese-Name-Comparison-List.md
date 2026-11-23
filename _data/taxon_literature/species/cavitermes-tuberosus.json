@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-23",
  "sections": [
   {
    "heading": "群体组成与孤雌蚁后的遗传来源",
@@ -54,6 +54,36 @@
      "text_es": "Según el resumen, wCtub comparte un 99 % de identidad con wCle, el simbionte nutricional obligado de <i>Cimex lectularius</i>, en 16S, bioA y cinco genes MLST."
     }
    ]
+  },
+  {
+   "heading": "品级发育路径",
+   "heading_en": "Caste developmental pathways",
+   "heading_es": "Vías de desarrollo de las castas",
+   "paragraphs": [
+    {
+     "text": "据摘要，Hellemans 等（2017）研究肉瘤腔白蚁（<i>Cavitermes tuberosus</i>）的品级系统，其发育路径与白蚁科（Termitidae）的经典模式一致：一龄幼虫之后分为无翅线（二龄幼虫、若干工蚁龄、前兵蚁、兵蚁）与有翅线（5 个若虫龄与成虫），工蚁以雄性偏多，兵蚁则全为雌性。",
+     "src": [
+      "S0419"
+     ],
+     "text_en": "According to the abstract, Hellemans et al. (2017) studied the caste system of Cavitermes tuberosus, whose developmental pathways follow the classical pattern of Termitidae: after the first instar the brood divides into a wingless line (second instar, several worker instars, presoldier, soldier) and a winged line (five nymphal instars and the alate), with workers biased towards males and soldiers exclusively female.",
+     "text_es": "Según el resumen, Hellemans et al. (2017) estudiaron el sistema de castas de Cavitermes tuberosus, cuyas vías de desarrollo siguen el patrón clásico de Termitidae: tras el primer estadio la cría se divide en una línea áptera (segundo estadio, varios estadios de obrero, presoldado, soldado) y una línea alada (cinco estadios de ninfa y el imago), con los obreros sesgados hacia los machos y los soldados exclusivamente femeninos."
+    }
+   ]
+  },
+  {
+   "heading": "补充繁殖蚁后",
+   "heading_en": "Neotenic queens",
+   "heading_es": "Reinas neoténicas",
+   "paragraphs": [
+    {
+     "text": "该种的补充蚁后来自三、四龄若虫，具特殊的「aspirants」形态，多数由孤雌生殖产生；aspirants 存在于所有巢中，在蚁后存活时承担工蚁任务，待蚁后死亡后才分化为补充繁殖蚁后。",
+     "src": [
+      "S0419"
+     ],
+     "text_en": "The neotenic queens of this species derive from third- and fourth-instar nymphs, have a distinctive \"aspirant\" morphology and are mostly produced by parthenogenesis; aspirants occur in every colony, perform worker tasks while the queen is alive, and differentiate into neotenic reproductives only after the queen dies.",
+     "text_es": "Las reinas neoténicas de esta especie proceden de ninfas de tercer y cuarto estadio, presentan una morfología distintiva de «aspirante» y se producen en su mayoría por partenogénesis; las aspirantes existen en todas las colonias, realizan tareas de obrero mientras la reina vive y solo se diferencian en reproductoras neoténicas tras la muerte de la reina."
+    }
+   ]
   }
  ],
  "references": [
@@ -66,6 +96,11 @@
    "id": "S0401",
    "citation": "Hellemans, S.; Kaczmarek, N.; Marynowska, M.; Całusińska, M.; Roisin, Y.; Fournier, D. 2018. Bacteriome-associated Wolbachia of the parthenogenetic termite Cavitermes tuberosus. FEMS Microbiology Ecology.",
    "url": "https://doi.org/10.1093/femsec/fiy235"
+  },
+  {
+   "id": "S0419",
+   "citation": "Hellemans S.; Fournier D.; Hanus R.; Roisin Y. 2017. Secondary queens in the parthenogenetic termite Cavitermes tuberosus develop through a transitional helper stage.",
+   "doi": "10.1111/ede.12240"
   }
  ]
 }

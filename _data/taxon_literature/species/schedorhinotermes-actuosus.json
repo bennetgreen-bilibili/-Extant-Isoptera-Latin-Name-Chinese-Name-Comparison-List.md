@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-23",
+ "sections": [
+  {
+   "heading": "蚁后迁移",
+   "heading_en": "Queen migration",
+   "heading_es": "Migración de la reina",
+   "paragraphs": [
+    {
+     "text": "据摘要，Miller（1994）在北领地 Gunn Point 一根原木中的巢内采到活跃长鼻白蚁（<i>Schedorhinotermes actuosus</i>）的蚁后，证据显示该蚁后是从其他巢址迁入的；活跃长鼻白蚁似乎不具备长鼻白蚁属（<i>Schedorhinotermes</i>）其他种类已知的 2 种中间型兵蚁。",
+     "src": [
+      "S0418"
+     ],
+     "text_en": "According to the abstract, Miller (1994) took the queen of Schedorhinotermes actuosus from a nest inside a log at Gunn Point, Northern Territory, and the evidence indicates that she had migrated there from another nest site; Schedorhinotermes actuosus appears to lack the two kinds of intermediate soldiers known in other species of the genus.",
+     "text_es": "Según el resumen, Miller (1994) extrajo la reina de Schedorhinotermes actuosus de un nido dentro de un tronco en Gunn Point, Territorio del Norte, y las pruebas indican que había migrado allí desde otro emplazamiento del nido; Schedorhinotermes actuosus parece carecer de los dos tipos de soldados intermedios conocidos en otras especies del género."
+    },
+    {
+     "text": "同文记录 Kakadu 的布赖内尔长鼻白蚁（<i>Schedorhinotermes breinli</i>）巢系也有群体迁移的证据，并记载乳白蚁属（<i>Coptotermes</i>）的 1 种蚁后在土丘内作季节性迁移；作者据此推测蚁后迁移在筑巢白蚁中可能相当普遍。",
+     "src": [
+      "S0418"
+     ],
+     "text_en": "The same paper records evidence of colony migration in nests of Schedorhinotermes breinli at Kakadu and notes that the queen of a Coptotermes species moves seasonally within its mound; the author suggests that queen migration may be widespread among mound-building termites.",
+     "text_es": "El mismo trabajo recoge pruebas de migración de colonias en nidos de Schedorhinotermes breinli en Kakadu y señala que la reina de una especie de Coptotermes se desplaza estacionalmente dentro de su montículo; el autor sugiere que la migración de la reina puede ser frecuente entre las termitas constructoras de montículos."
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0418",
+   "citation": "Miller L. R. 1994. Nests and Queen Migration in Schedorhinotermes actuosus (Hill), Schedorhinotermes breinli (Hill) and Coptotermes acinaciformis (Froggatt) (Isoptera: Rhinotermitidae).",
+   "doi": "10.1111/j.1440-6055.1994.tb01236.x"
+  }
+ ]
+}

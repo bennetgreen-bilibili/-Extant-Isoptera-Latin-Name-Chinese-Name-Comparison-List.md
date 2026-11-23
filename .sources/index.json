@@ -3,7 +3,7 @@
     "version": 1,
     "count": 765,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-23T02:43:25+08:00",
+    "updated": "2026-11-23T22:55:44+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -10534,7 +10534,7 @@
       "file_path": "_unpublished/文库/xiaitermes-revision-2026",
       "chars": 40108,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T22:53:14+08:00",
       "notes": "全文存于 _unpublished/文库/xiaitermes-revision-2026（40108 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "xiaitermes-revision-2026",
@@ -10565,7 +10565,8 @@
       "doi": "10.3390/insects17060602",
       "url": "https://doi.org/10.3390/insects17060602",
       "used_in": [
-        "_data/fauna_genera.json"
+        "_data/fauna_genera.json",
+        "_data/taxon_literature.json"
       ],
       "evidence": [
         {
@@ -10604,7 +10605,7 @@
       "file_path": "_unpublished/文库/Spiralitermes-jurupari,-a-New-Genus-and-Species-of-Soldierless-Termites-(Blattod",
       "chars": 26193,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T22:53:14+08:00",
       "notes": "全文存于 _unpublished/文库/Spiralitermes-jurupari,-a-New-Genus-and-Species-of-Soldierless-Termites-(Blattod（26193 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "Spiralitermes-jurupari,-a-New-Genus-and-Species-of-Soldierless-Termites-(Blattod",
@@ -10635,6 +10636,7 @@
       "license": "CC-BY",
       "doi": "10.1111/aen.70084",
       "used_in": [
+        "_data/taxon_literature.json",
         "_tools/fauna/morphology/descriptions/21-spiralitermes2026.json"
       ],
       "evidence": [
@@ -10809,7 +10811,7 @@
       "file_path": "_unpublished/文库/Scheffrahnitermes-ubuntu-(Isoptera-Apicotermitinae),-Description-of-a-New-Termit",
       "chars": 44008,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T22:53:14+08:00",
       "notes": "全文存于 _unpublished/文库/Scheffrahnitermes-ubuntu-(Isoptera-Apicotermitinae),-Description-of-a-New-Termit（44008 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "Scheffrahnitermes-ubuntu-(Isoptera-Apicotermitinae),-Description-of-a-New-Termit",
@@ -10846,6 +10848,7 @@
       "doi": "10.1002/njz2.70025",
       "url": "https://doi.org/10.1002/njz2.70025",
       "used_in": [
+        "_data/taxon_literature.json",
         "_tools/fauna/morphology/descriptions/24-scheffrahnitermes2026.json"
       ],
       "evidence": [
@@ -12043,7 +12046,7 @@
         }
       ],
       "notes": "无 OA 全文，仅有摘要（abstract_source=openalex，摘要 800 字）。",
-      "accessed": "2026-11-13T21:04:38+08:00",
+      "accessed": "2026-11-23T22:53:14+08:00",
       "used_in": [
         "_data/taxon_literature.json"
       ],
@@ -15128,7 +15131,7 @@
       "file_path": "_unpublished/文库/Ultrastructure-of-the-frontal-gland-in-Prorhinotermes-simplex-(Isoptera-Rhinoter",
       "chars": 42539,
       "retrieved_via": "文库（外部文本（--text））",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T22:53:14+08:00",
       "notes": "全文存于 _unpublished/文库/Ultrastructure-of-the-frontal-gland-in-Prorhinotermes-simplex-(Isoptera-Rhinoter（42539 字符），抽取：外部文本（--text）；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "Ultrastructure-of-the-frontal-gland-in-Prorhinotermes-simplex-(Isoptera-Rhinoter",
@@ -15160,7 +15163,9 @@
       "license": "cc-by",
       "doi": "10.14411/eje.2004.020",
       "url": "http://www.eje.cz/doi/10.14411/eje.2004.020.pdf",
-      "used_in": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
       "evidence": [
         {
           "quote": "The frontal gland as a sac-like organ in Prorhinotermes simplex is present only in presoldiers, soldiers, and imagoes, but\nexists also in nymph-soldier intercastes.",
@@ -26374,7 +26379,7 @@
       "file_path": "_unpublished/文库/10.1111-j.1440-6055.1994.tb01236.x",
       "chars": 592,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T22:55:44+08:00",
       "notes": "全文存于 _unpublished/文库/10.1111-j.1440-6055.1994.tb01236.x（592 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1111-j.1440-6055.1994.tb01236.x",
@@ -26400,9 +26405,26 @@
       "publisher": "Australian Journal of Entomology",
       "lang": "en",
       "doi": "10.1111/j.1440-6055.1994.tb01236.x",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "A queen of the termite Schedorhinotermes actuosus was collected from a nest in a log at Gunn Point, N.T. There is evidence that the queen migrated to the log from some other nest site.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：活跃长鼻白蚁蚁后的采集地与迁入证据"
+        },
+        {
+          "quote": "S. actuosus does not appear to have either of the intermediate soldier forms known to exist in some other Schedorhinotermes spp.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：该种缺中间型兵蚁"
+        },
+        {
+          "quote": "Queens of Coptotermes acinaciformes migrate seasonally within their mounds.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：乳白蚁属蚁后季节性迁移的对比记述"
+        }
+      ],
       "id": "S0418"
     },
     {
@@ -26413,7 +26435,7 @@
       "file_path": "_unpublished/文库/10.1111-ede.12240",
       "chars": 1331,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T22:55:44+08:00",
       "notes": "全文存于 _unpublished/文库/10.1111-ede.12240（1331 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1111-ede.12240",
@@ -26442,9 +26464,26 @@
       "publisher": "Evolution & Development",
       "lang": "en",
       "doi": "10.1111/ede.12240",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The caste system of C. tuberosus follows the classical pathway of Termitidae. After the first larval instar, there is a bifurcation between two developmental lines.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：肉瘤腔白蚁品级发育路径"
+        },
+        {
+          "quote": "Workers display a consistent male bias and soldiers are female-only.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：工蚁雄性偏多、兵蚁全雌"
+        },
+        {
+          "quote": "We highlight that neotenic queens derive from third and fourth instar nymphs displaying peculiar morphological traits, here termed \"aspirants,\" most of which are produced by parthenogenesis.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：补充蚁后来源、aspirants 形态与孤雌生殖"
+        }
+      ],
       "id": "S0419"
     },
     {
@@ -26455,7 +26494,7 @@
       "file_path": "_unpublished/文库/10.1603-an11064",
       "chars": 757,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T22:55:44+08:00",
       "notes": "全文存于 _unpublished/文库/10.1603-an11064（757 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1603-an11064",
@@ -26483,9 +26522,26 @@
       "publisher": "Annals of the Entomological Society of America",
       "lang": "en",
       "doi": "10.1603/an11064",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The winged imago of Prorhinotermes japonicus (Holmgren 1912) is described herein for the first time.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：有翅成虫首次描述"
+        },
+        {
+          "quote": "Based on the similar morphology of soldier, alate and neotenic, two Chinese species, Prorhinotermes xishaensisLi & Tsai 1976 and Prorhinotermes hainanensisPing & Xu 1989, are reverted to junior synonyms of P. japonicus.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：西沙原鼻白蚁与海南原鼻白蚁被降为次异名"
+        },
+        {
+          "quote": "The current distribution of P. japonicus includes tropical islands surrounding the northern part of the South China Sea.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：该种现分布范围"
+        }
+      ],
       "id": "S0420"
     },
     {
@@ -26496,7 +26552,7 @@
       "file_path": "_unpublished/文库/10.1590-s1519-566x2004000200006",
       "chars": 765,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T22:55:44+08:00",
       "notes": "全文存于 _unpublished/文库/10.1590-s1519-566x2004000200006（765 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1590-s1519-566x2004000200006",
@@ -26522,9 +26578,26 @@
       "publisher": "Neotropical Entomology",
       "lang": "en",
       "doi": "10.1590/s1519-566x2004000200006",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Gut morphology of two species of the neotropical genus Tauritermes Krishna was analyzed.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：研究材料为新热带牛白蚁属两种"
+        },
+        {
+          "quote": "some differences among this genus and other Kalotermitidae genera were: the length of the midgut, the structure and cuticular ornamentation of the first and second proctodeal segments, the junction of the third and fourth proctodeal segments and the armature of the rectal valve.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：与木白蚁科其它属的肠道差异性状"
+        },
+        {
+          "quote": "Tauritermes was differentiated from other Kalotermitidae genera by means of the gut characters, currently used in termite systematics and phylogeny.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：肠道特征用于属级区分"
+        }
+      ],
       "id": "S0421"
     },
     {
@@ -26535,7 +26608,7 @@
       "file_path": "_unpublished/文库/10.1242-jcs.s2-63.252.555",
       "chars": 612,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T22:55:44+08:00",
       "notes": "全文存于 _unpublished/文库/10.1242-jcs.s2-63.252.555（612 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1242-jcs.s2-63.252.555",
@@ -26561,9 +26634,21 @@
       "publisher": "Journal of Cell Science",
       "lang": "en",
       "doi": "10.1242/jcs.s2-63.252.555",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Dr. Imms (12)1 has described some of the species of Protozoa parasitic in the hind gut of an Indian termite—Archotermopsis wroughtoni Desn.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：寄主为罗夫顿古白蚁，Imms 已先行描述部分种类"
+        },
+        {
+          "quote": "Early in 1918 I decided to make a thorough investigation of these parasites, and Dr. Imms kindly placed at my disposal the remainder of his material.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：1918 年起系统研究及其材料来源"
+        }
+      ],
       "id": "S0422"
     },
     {
@@ -26574,7 +26659,7 @@
       "file_path": "_unpublished/文库/10.1080-02571862.2003.10634911",
       "chars": 1557,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T22:55:44+08:00",
       "notes": "全文存于 _unpublished/文库/10.1080-02571862.2003.10634911（1557 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1080-02571862.2003.10634911",
@@ -26601,9 +26686,31 @@
       "publisher": "South African Journal of Plant and Soil",
       "lang": "en",
       "doi": "10.1080/02571862.2003.10634911",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The fungus-growing termites, Microtermes spp. and Allodontermes spp. are important maize pests in sub-Saha- ran Africa.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：两属为撒哈拉以南非洲玉米重要害虫"
+        },
+        {
+          "quote": "Incidence of lodged plants at harvest was 100% for maize, 1 % for sorghum and 0.7% for sunflower in the 1998/99 season.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：1998/99 季收获倒伏率"
+        },
+        {
+          "quote": "At high infestation pressure, the incidence of lodging was higher than 85% for all maize cultivars.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：高虫压下所有玉米品种倒伏超过 85%"
+        },
+        {
+          "quote": "Economic analyses indicated sunflower to be the most profitable crop to cultivate in fungus- growing termite infested fields.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：经济分析结论"
+        }
+      ],
       "id": "S0423"
     },
     {
@@ -26614,7 +26721,7 @@
       "file_path": "_unpublished/文库/10.32473-edis-in369-2001",
       "chars": 1233,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T22:55:44+08:00",
       "notes": "全文存于 _unpublished/文库/10.32473-edis-in369-2001（1233 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.32473-edis-in369-2001",
@@ -26642,9 +26749,31 @@
       "publisher": "EDIS",
       "lang": "en",
       "doi": "10.32473/edis-in369-2001",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Most pest species of subterranean termites in North America belong to the endemic genus Reticulitermes.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：北美地下白蚁害虫多属特有属散白蚁属"
+        },
+        {
+          "quote": "Reticulitermes species are found in every state in the continental United States except Alaska, but are most common in the warm and humid southeastern region.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：属级分布与最常见区域"
+        },
+        {
+          "quote": "The eastern subterranean termite, R. flavipes is the most widely distributed and is found in the entire eastern region of North America as far north as Ontario, Canada, and south to Key Largo, Florida.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：北美散白蚁分布最广及南北界"
+        },
+        {
+          "quote": "In addition to R. flavipes, two other Reticulitermes occur in Florida, R. virginicus, and R. hageni.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：佛罗里达另有弗吉尼亚散白蚁与哈根散白蚁"
+        }
+      ],
       "id": "S0424"
     },
     {
@@ -26655,7 +26784,7 @@
       "file_path": "_unpublished/文库/10.21608-sjas.2019.53985",
       "chars": 1420,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T22:55:44+08:00",
       "notes": "全文存于 _unpublished/文库/10.21608-sjas.2019.53985（1420 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.21608-sjas.2019.53985",
@@ -26684,9 +26813,26 @@
       "publisher": "Scientific Journal of Agricultural Sciences",
       "lang": "en",
       "doi": "10.21608/sjas.2019.53985",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The fungi M.ansiopliae more effectiveness than B.bassiana and A.niger which the mortality rates were 22.5%, 15.0% and 13.3% to M.ansiopliae, B.bassiana and A.niger respectively.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：三种真菌处理后一周死亡率"
+        },
+        {
+          "quote": "The LC50 for three fungi were 3.278×106, 4.6526×106 and 5.4982×106 for M.anisopliae, B.bassiana and A.niger, respectively.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：三种真菌 LC50"
+        },
+        {
+          "quote": "The reduction percentages for trap treated with concentrations of A. niger were height due to not attack by workers, due to the fungi A. niger has a repellent or an antipathetic effect to worker.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：黑曲霉因驱避工蚁而降低率偏高"
+        }
+      ],
       "id": "S0425"
     },
     {
@@ -26781,7 +26927,7 @@
       "file_path": "_unpublished/文库/10.1080-00379271.2003.10697373",
       "chars": 694,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-23T22:55:44+08:00",
       "notes": "全文存于 _unpublished/文库/10.1080-00379271.2003.10697373（694 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1080-00379271.2003.10697373",
@@ -26808,9 +26954,26 @@
       "publisher": "Annales de la Société entomologique de France (N S )",
       "lang": "fr",
       "doi": "10.1080/00379271.2003.10697373",
-      "fulltext_status": "abstract-download-failed",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature.json"
+      ],
+      "evidence": [
+        {
+          "quote": "A new genus Paraconvexitermes is described, comprising Paraconvexitermes acangapua, new species, P. nigricornis (Holmgren) and P. junceus (Emerson), both previously in Convexitermes Holmgren.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：新属组成与两种由凸白蚁属移入"
+        },
+        {
+          "quote": "Now, Convexitermes comprises C. manni Emerson and C. convexifrons (Holmgren).",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：凸白蚁属现存两种"
+        },
+        {
+          "quote": "The worker’s digestive tube of both genera along with those of Atlantitermes species allowed to get a better definition of these three genera.",
+          "locator": "摘要 / full.txt",
+          "note": "支撑：工蚁消化道比较用于界定三属"
+        }
+      ],
       "id": "S0428"
     },
     {
