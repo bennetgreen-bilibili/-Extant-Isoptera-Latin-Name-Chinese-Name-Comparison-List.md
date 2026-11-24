@@ -1,0 +1,50 @@
+{
+ "updated": "2026-11-24",
+ "sections": [
+  {
+   "heading": "婚飞时间与地点",
+   "heading_en": "Timing and place of the dispersal flight",
+   "heading_es": "Momento y lugar del vuelo de dispersión",
+   "paragraphs": [
+    {
+     "text": "根据 Leuthold 与 Bruinsma（1977）研究，莫桑比克草白蚁（<i>Hodotermes mossambicus</i>）在肯尼亚奥洛格萨伊利（Olorgesailie）的婚飞发生在雨季开始后的晴天下午，1976 年 4 月 9 日的一次约在 16:30，飞行距离不足 100 m；该地年降水仅 300–400 mm，集中在 2–5 月与 10–11 月。",
+     "text_en": "According to Leuthold and Bruinsma (1977), <i>Hodotermes mossambicus</i> swarms at Olorgesailie in Kenya on sunny afternoons after the onset of the rains; the flight observed on 9 April 1976 began at about 16:30 and covered less than 100 m. Annual rainfall there is only 300-400 mm, concentrated in February-May and, to a lesser extent, October-November.",
+     "text_es": "Según Leuthold y Bruinsma (1977), <i>Hodotermes mossambicus</i> enjambra en Olorgesailie (Kenia) en tardes soleadas tras el inicio de las lluvias; el vuelo observado el 9 de abril de 1976 comenzó hacia las 16:30 y cubrió menos de 100 m. La precipitación anual allí es de solo 300-400 mm, concentrada entre febrero y mayo y, en menor medida, en octubre y noviembre.",
+     "src": [
+      "S0466"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "角色反转的配对行为",
+   "heading_en": "Sex-role reversal during pairing",
+   "heading_es": "Inversión de roles sexuales durante el emparejamiento",
+   "paragraphs": [
+    {
+     "text": "根据 Leuthold 与 Bruinsma（1977）研究，莫桑比克草白蚁（<i>Hodotermes mossambicus</i>）的配对角色与多数白蚁相反：雄虫高举腹部呈「召唤」姿态、露出胸腹腺并寻找掘洞地点，雌虫则爬上草茎探嗅，可从上风 2.5 m 甚至 3 m 处察觉雄虫，以 5–10 cm/s 的速度呈之字形奔跑接近。",
+     "text_en": "According to Leuthold and Bruinsma (1977), pairing in <i>Hodotermes mossambicus</i> reverses the roles usual in termites: males run with the abdomen raised in a calling posture that exposes the sternal gland while searching for a digging site, whereas females climb grass stems to scent the male, detect him from at least 2.5 m and sometimes 3 m upwind, and approach in a zigzag run at 5-10 cm/s.",
+     "text_es": "Según Leuthold y Bruinsma (1977), el emparejamiento de <i>Hodotermes mossambicus</i> invierte los roles habituales en las termitas: los machos corren con el abdomen elevado en postura de llamada que expone la glándula esternal mientras buscan un lugar para excavar, mientras que las hembras suben a tallos de hierba para olfatear al macho, lo detectan al menos a 2,5 m y a veces a 3 m contra el viento y se acercan con una carrera en zigzag a 5-10 cm/s.",
+     "src": [
+      "S0466"
+     ]
+    },
+    {
+     "text": "根据 Leuthold 与 Bruinsma（1977）研究，莫桑比克草白蚁（<i>Hodotermes mossambicus</i>）雌虫以触角触碰雄虫腹部后，雄虫转身并收回胸腹腺、停止召唤，此后不再吸引其他雌虫；配对后没有固定的「串联行走」，合适地面上数分钟内即掘入地下；若地面过硬或遭蚂蚁攻击，雄虫另寻地点、雌虫跟随。人为移走雌虫后雄虫恢复召唤，但飞后次日实验室中的生殖型不再恢复性吸引。",
+     "text_en": "According to Leuthold and Bruinsma (1977), once a female touches the male's abdomen with her antennae, the male turns around, retracts the sternal gland and stops calling, after which he attracts no further females; the pair shows no fixed tandem run and disappears into suitable ground within minutes. If the substrate is too hard or the pair is attacked by ants, the male moves on and the female follows. Removing the female makes the male resume calling, but reproductives kept in the laboratory did not resume sexual attraction on the day after the flight.",
+     "text_es": "Según Leuthold y Bruinsma (1977), cuando una hembra toca el abdomen del macho con las antenas, el macho gira, retrae la glándula esternal y deja de llamar, tras lo cual no atrae a más hembras; la pareja no muestra una marcha en tándem fija y desaparece en el sustrato adecuado en pocos minutos. Si el sustrato es demasiado duro o la pareja es atacada por hormigas, el macho busca otro lugar y la hembra lo sigue. Si se retira la hembra, el macho reanuda la llamada, pero los reproductivos mantenidos en laboratorio no reanudaron la atracción sexual al día siguiente del vuelo.",
+     "src": [
+      "S0466"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0466",
+   "citation": "Leuthold, R. H.; Bruinsma, O. 1977. Pairing behavior in Hodotermes mossambicus (Isoptera). Psyche 84: 109–119.",
+   "url": "https://doi.org/10.1155/1977/64060"
+  }
+ ]
+}

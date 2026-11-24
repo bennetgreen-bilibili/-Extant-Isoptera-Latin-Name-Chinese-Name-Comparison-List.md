@@ -1,63 +1,59 @@
 {
- "description": "按页面 URL 存放人工整理的研究记述，由 _includes/taxon-literature.html 渲染。每个 section/paragraph 同时保存中文、英文、西班牙文三种文本（heading_en/heading_es、text_en/text_es），页面上的按钮按 section 局部切换；每个 src 指向 .sources 中的 Sxxxx 存档记录。",
- "schema": {
-  "/genus/foo/": {
-   "updated": "YYYY-MM-DD",
-   "sections": [
-    {
-     "heading": "中文小节标题",
-     "heading_en": "English section heading",
-     "heading_es": "Título de sección en español",
-     "paragraphs": [
-      {
-       "text": "根据……研究，……",
-       "text_en": "According to …",
-       "text_es": "Según …",
-       "src": [
-        "S0001"
-       ]
-      }
-     ]
+  "description": "按页面 URL 存放人工整理的研究记述，由 _includes/taxon-literature.html 渲染。每个 section/paragraph 同时保存中文、英文、西班牙文三种文本（heading_en/heading_es、text_en/text_es），页面上的按钮按 section 局部切换；每个 src 指向 .sources 中的 Sxxxx 存档记录。",
+  "schema": {
+    "/genus/foo/": {
+      "updated": "YYYY-MM-DD",
+      "sections": [
+        {
+          "heading": "中文小节标题",
+          "heading_en": "English section heading",
+          "heading_es": "Título de sección en español",
+          "paragraphs": [
+            {
+              "text": "根据……研究，……",
+              "text_en": "According to …",
+              "text_es": "Según …",
+              "src": [
+                "S0001"
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "id": "S0001",
+          "citation": "作者. 年份. 标题. 刊名/出版社.",
+          "url": "https://example.org/..."
+        }
+      ]
     }
-   ],
-   "references": [
-    {
-     "id": "S0001",
-     "citation": "作者. 年份. 标题. 刊名/出版社.",
-     "url": "https://example.org/..."
-    }
-   ]
-  }
- },
- "updated": "2026-11-23",
- "last_batch": {
-  "date": "2026-11-23",
-  "round": "daily",
-  "pages": 335,
-  "batch_pages": 20,
-  "units": 20,
-  "chunks": 15,
-  "abstracts": 5,
-  "sources": [
-   "S0116",
-   "S0117",
-   "S0119",
-   "S0146",
-   "S0205",
-   "S0418",
-   "S0419",
-   "S0420",
-   "S0421",
-   "S0422",
-   "S0423",
-   "S0424",
-   "S0425",
-   "S0428"
+  },
+  "updated": "2026-11-24",
+  "last_batch": {
+    "date": "2026-11-24",
+    "round": "daily",
+    "pages": 339,
+    "batch_pages": 17,
+    "units": 20,
+    "chunks": 15,
+    "abstracts": 5,
+    "sources": [
+      "S0382",
+      "S0395",
+      "S0400",
+      "S0441",
+      "S0461",
+      "S0462",
+      "S0463",
+      "S0464",
+      "S0465",
+      "S0466"
+    ]
+  },
+  "languages": [
+    "zh-CN",
+    "en",
+    "es"
   ]
- },
- "languages": [
-  "zh-CN",
-  "en",
-  "es"
- ]
 }

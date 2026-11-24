@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-24",
  "sections": [
   {
    "heading": "丘的通风方式",
@@ -45,6 +45,29 @@
      "text_es": "Según el resumen, Dangerfield et al. (1998) describen a <i>Macrotermes michaelseni</i> como un termite constructor de montículos, empleado como especie de caso para explicar el concepto de ingeniería de ecosistemas; se considera que los cambios en los flujos de recursos que provoca persisten a largo plazo y condicionan la estructura biótica del hábitat."
     }
    ]
+  },
+  {
+   "heading": "1970 年的异名处理与模式系列",
+   "heading_en": "Synonymy and type series in the 1970 revision",
+   "heading_es": "Sinonimia y serie tipo en la revisión de 1970",
+   "paragraphs": [
+    {
+     "text": "根据 Ruelle（1970）研究，米夏埃尔森大白蚁（<i>Macrotermes michaelseni</i>）被处理为大白蚁属（<i>Macrotermes</i>）旧组合 <i>Macrotermes mossambicus</i> 的次异名；后者以 1 头雌性有翅成虫为正模，产地仅记「莫桑比克」，无具体地点与日期（Peters 采集），藏柏林洪堡大学动物学博物馆。",
+     "text_en": "According to Ruelle (1970), <i>Macrotermes michaelseni</i> was treated as a junior synonym of the old combination <i>Macrotermes mossambicus</i>; the latter is based on a single female alate holotype labelled only \"Mozambique\", without a precise locality or date (collected by Peters) and deposited in the Zoological Museum of Humboldt University, Berlin.",
+     "text_es": "Según Ruelle (1970), <i>Macrotermes michaelseni</i> fue tratada como sinónimo posterior de la antigua combinación <i>Macrotermes mossambicus</i>; esta se basa en un único alado hembra (holotipo) etiquetado solo como «Mozambique», sin localidad ni fecha precisas (recogido por Peters) y depositado en el Museo Zoológico de la Universidad Humboldt de Berlín.",
+     "src": [
+      "S0462"
+     ]
+    },
+    {
+     "text": "根据 Ruelle（1970）研究，米夏埃尔森大白蚁（<i>Macrotermes michaelseni</i>）的模式系列采自西南非洲的奥卡汉贾（Okahandja），分别由 G. Fock（1910）与 W. Michaelsen（1911）采得，分藏汉堡、斯德哥尔摩、美国自然历史博物馆与南非国家昆虫收藏；勇猛大白蚁（<i>Macrotermes bellicosus</i>）的 3 个变种 <i>Macrotermes bellicosus kunenensis</i>、<i>Macrotermes bellicosus limpopoensis</i> 与 <i>Macrotermes bellicosus tonga</i> 也并入该种。该研究对大兵蚁的测量覆盖 104 个地点的 171 号标本，对小兵蚁覆盖 76 个地点的 180 号标本。",
+     "text_en": "According to Ruelle (1970), the type series of <i>Macrotermes michaelseni</i> came from Okahandja in South West Africa, collected by G. Fock (1910) and W. Michaelsen (1911) and divided among Hamburg, Stockholm, the American Museum of Natural History and the National Collection of Insects of South Africa; three varieties of <i>Macrotermes bellicosus</i> — <i>Macrotermes bellicosus kunenensis</i>, <i>Macrotermes bellicosus limpopoensis</i> and <i>Macrotermes bellicosus tonga</i> — were also synonymised with it. The measurements covered 171 major-soldier specimens from 104 localities and 180 minor-soldier specimens from 76 localities.",
+     "text_es": "Según Ruelle (1970), la serie tipo de <i>Macrotermes michaelseni</i> procede de Okahandja, en el África del Suroeste, recogida por G. Fock (1910) y W. Michaelsen (1911) y repartida entre Hamburgo, Estocolmo, el American Museum of Natural History y la Colección Nacional de Insectos de Sudáfrica; tres variedades de <i>Macrotermes bellicosus</i> — <i>Macrotermes bellicosus kunenensis</i>, <i>Macrotermes bellicosus limpopoensis</i> y <i>Macrotermes bellicosus tonga</i> — también se sinonimizaron con ella. Las mediciones abarcaron 171 ejemplares de soldado mayor de 104 localidades y 180 de soldado menor de 76 localidades.",
+     "src": [
+      "S0462"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -62,6 +85,11 @@
    "id": "S0226",
    "citation": "Schuurman, G. 2006. Foraging and distribution patterns in a termite assemblage dominated by fungus-growing species in semi-arid northern Botswana. Journal of Tropical Ecology 22(3).",
    "doi": "10.1017/s0266467405003044"
+  },
+  {
+   "id": "S0462",
+   "citation": "Ruelle, J.-E. 1970. A revision of the termites of the genus Macrotermes from the Ethiopian region (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology 24: 363–444.",
+   "url": "https://doi.org/10.5962/bhl.part.1525"
   }
  ]
 }

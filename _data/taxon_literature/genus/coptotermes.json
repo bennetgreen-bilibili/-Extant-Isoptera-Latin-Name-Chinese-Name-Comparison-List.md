@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-24",
  "sections": [
   {
    "heading": "现行科位与兵蚁特征",
@@ -93,6 +93,37 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "多米尼加琥珀中的化石乳白蚁",
+   "heading_en": "Fossil Coptotermes in Dominican amber",
+   "heading_es": "Coptotermes fósiles en el ámbar dominicano",
+   "paragraphs": [
+    {
+     "text": "根据 Krishna 与 Grimaldi（2009）研究，多米尼加琥珀中的白蚁动物群含 4 科 17 属 39 种，多于伊斯帕尼奥拉岛现生种类；该文描述 29 个新种，其中鼻白蚁科 2 种、白蚁科 27 种，全部置于现生属。",
+     "text_en": "According to Krishna and Grimaldi (2009), the termite fauna preserved in Dominican amber contains 39 species in 17 genera and 4 families, more than the extant fauna of Hispaniola; the paper describes 29 new species, two in the Rhinotermitidae and 27 in the Termitidae, all placed in extant genera.",
+     "text_es": "Según Krishna y Grimaldi (2009), la fauna de termitas conservada en el ámbar dominicano comprende 39 especies de 17 géneros y 4 familias, más que la fauna actual de La Española; el trabajo describe 29 especies nuevas, dos de Rhinotermitidae y 27 de Termitidae, todas asignadas a géneros actuales.",
+     "src": [
+      "S0382"
+     ]
+    },
+    {
+     "text": "根据 Krishna 与 Grimaldi（2009）研究，乳白蚁属（<i>Coptotermes</i>）的 <i>Coptotermes priscus</i> 成虫被重新描述，其兵蚁为首次描述，是该属首个被描述的化石兵蚁：兵蚁头梨形，囟（fontanelle）呈大的圆形开口，上唇近三角形、末端透明，上颚军刀状，后颏（postmentum）棒状、长约宽的 2 倍；兵蚁头长（至颚基）1.00–1.07 mm、头宽 0.77 mm、头高 0.61 mm、左颚长 0.53–0.56 mm；成虫头长 1.28–1.32 mm、头宽 1.02–1.17 mm、前翅长 7.50–8.00 mm、触角 21 节。",
+     "text_en": "According to Krishna and Grimaldi (2009), the imago of <i>Coptotermes priscus</i> is redescribed and its soldier described for the first time, the earliest fossil soldier known for the genus: the soldier head is pyriform, the fontanelle is a large circular opening, the labrum is nearly triangular with a hyaline tip, the mandibles are sabre-like and the postmentum is rod-shaped and about twice as long as wide; soldier head length to the mandibular bases is 1.00-1.07 mm, head width 0.77 mm, head height 0.61 mm and left mandible 0.53-0.56 mm; the imago head is 1.28-1.32 mm long and 1.02-1.17 mm wide, the forewing 7.50-8.00 mm long and the antennae have 21 segments.",
+     "text_es": "Según Krishna y Grimaldi (2009), se redescribe el imago de <i>Coptotermes priscus</i> y se describe por primera vez su soldado, el soldado fósil más antiguo conocido del género: la cabeza del soldado es piriforme, la fontanela es una abertura circular grande, el labro es casi triangular con el extremo hialino, las mandíbulas son falciformes y el postmentón es baciliforme y unas dos veces más largo que ancho; la longitud de la cabeza del soldado hasta la base de las mandíbulas es de 1,00-1,07 mm, la anchura 0,77 mm, la altura 0,61 mm y la mandíbula izquierda 0,53-0,56 mm; la cabeza del imago mide 1,28-1,32 mm de largo y 1,02-1,17 mm de ancho, el ala anterior 7,50-8,00 mm y las antenas tienen 21 artejos.",
+     "src": [
+      "S0382"
+     ]
+    },
+    {
+     "text": "根据 Krishna 与 Grimaldi（2009）研究，乳白蚁属（<i>Coptotermes</i>）在琥珀中另有两个新种：<i>Coptotermes hirsutus</i> 全身密被长毛（最长约 0.19 mm）、触角 18–19 节，<i>Coptotermes paleodominicanus</i> 的头明显更长更宽（头长 1.83 mm、头宽 1.53 mm、眼径 0.59 mm）。<i>Coptotermes priscus</i> 是琥珀中最常见的白蚁，常成婚飞群一起保存。",
+     "text_en": "According to Krishna and Grimaldi (2009), two further <i>Coptotermes</i> species are new: <i>Coptotermes hirsutus</i> is densely covered with long setae (up to about 0.19 mm) and has 18-19 antennal segments, while <i>Coptotermes paleodominicanus</i> has a distinctly longer and wider head (head length 1.83 mm, width 1.53 mm, eye diameter 0.59 mm). <i>Coptotermes priscus</i> is the most common termite in the amber and is often preserved in swarming groups.",
+     "text_es": "Según Krishna y Grimaldi (2009), otras dos especies de <i>Coptotermes</i> son nuevas: <i>Coptotermes hirsutus</i> está densamente cubierta de setas largas (hasta unos 0,19 mm) y tiene 18-19 artejos antenales, mientras que <i>Coptotermes paleodominicanus</i> presenta una cabeza claramente más larga y ancha (longitud 1,83 mm, anchura 1,53 mm, diámetro ocular 0,59 mm). <i>Coptotermes priscus</i> es la termita más común del ámbar y suele conservarse en grupos de enjambrazón.",
+     "src": [
+      "S0382"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -120,6 +151,11 @@
    "id": "S0368",
    "citation": "Bourguignon, T.; Lo, N.; Šobotník, J.; Sillam-Dussès, D.; Roisin, Y.; Evans, T. A. 2016. Oceanic dispersal, vicariance and human introduction shaped the modern distribution of the termites Reticulitermes, Heterotermes and Coptotermes. Proceedings of the Royal Society B.",
    "url": "https://doi.org/10.1098/rspb.2016.0179"
+  },
+  {
+   "id": "S0382",
+   "citation": "Krishna, K.; Grimaldi, D. A. 2009. Diverse Rhinotermitidae and Termitidae (Isoptera) in Dominican amber. American Museum Novitates 3640: 1–48.",
+   "url": "https://doi.org/10.1206/633.1"
   }
  ]
 }

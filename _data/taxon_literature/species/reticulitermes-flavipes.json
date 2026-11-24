@@ -1,162 +1,205 @@
 {
- "updated": "2026-11-23",
- "sections": [
-  {
-   "heading": "2005 年基于 16S rRNA 的异名处理",
-   "paragraphs": [
+  "updated": "2026-11-24",
+  "sections": [
     {
-     "text": "据摘要，Austin 等（2005）用 16S rRNA 线粒体标记分析北美、中美、南美、法国和德国等地 434 个散白蚁属（Reticulitermes）种群，发现北美与德国的北美散白蚁（Reticulitermes flavipes）与法国西部未受干扰林地的散白蚁属旧名 Reticulitermes santonensis 具有完全相同的 DNA 序列；单倍型 F、M、GG 出现在法国，F 也见于德国，GG 还见于复活节岛、智利圣地亚哥和乌拉圭蒙得维的亚。作者结合形态、化学和系统发育证据，认为散白蚁属旧名 Reticulitermes santonensis 应作为北美散白蚁的异名处理。",
-     "src": [
-      "S0144"
-     ],
-     "text_en": "According to the abstract, Austin et al. (2005) used the 16S rRNA mitochondrial marker to analyse 434 Reticulitermes populations from North, Central and South America, France and Germany, and found that Reticulitermes flavipes from North America and Germany shares completely identical DNA sequences with Reticulitermes santonensis (an old name in Reticulitermes) from undisturbed woodland in western France; haplotypes F, M and GG occur in France, F also occurs in Germany, and GG also occurs on Easter Island, in Santiago de Chile and in Montevideo, Uruguay. Combining morphological, chemical and phylogenetic evidence, the authors concluded that Reticulitermes santonensis should be treated as a synonym of Reticulitermes flavipes.",
-     "text_es": "Según el resumen, Austin et al. (2005) analizaron 434 poblaciones de Reticulitermes de América del Norte, América Central, América del Sur, Francia y Alemania con el marcador mitocondrial 16S rRNA, y hallaron que los ejemplares de Reticulitermes flavipes de América del Norte y Alemania presentan secuencias de ADN idénticas a las de Reticulitermes santonensis, antiguo nombre del género en bosques no alterados del oeste de Francia; los haplotipos F, M y GG aparecen en Francia, F también en Alemania, y GG además en la isla de Pascua, Santiago de Chile y Montevideo (Uruguay). A partir de la evidencia morfológica, química y filogenética, los autores concluyen que Reticulitermes santonensis debe considerarse sinónimo de Reticulitermes flavipes."
-    }
-   ],
-   "heading_en": "2005 synonymy based on 16S rRNA",
-   "heading_es": "Sinonimia de 2005 basada en el ARN ribosomal 16S"
-  },
-  {
-   "heading": "基名、模式产地与品级分化的分子基础",
-   "heading_en": "Basionym, type locality and the molecular basis of caste differentiation",
-   "heading_es": "Basónimo, localidad tipo y base molecular de la diferenciación de castas",
-   "paragraphs": [
-    {
-     "src": [
-      "S0004"
-     ],
-     "text": "《白蚁论》记录北美散白蚁（<i>Reticulitermes flavipes</i>）的基名为白蚁属（<i>Termes</i>）的旧组合 <i>Termes flavipes</i> Kollar, 1837，合模标本（MCZ No. 10110）为有翅成虫，模式产地记为奥地利维也纳美泉宫（Schönbrunn）。",
-     "text_en": "The Treatise records the basionym of <i>Reticulitermes flavipes</i> as the old combination <i>Termes flavipes</i> Kollar, 1837, with syntype alates (MCZ No. 10110) and Schönbrunn, Vienna, Austria, as the type locality.",
-     "text_es": "El Treatise registra el basónimo de <i>Reticulitermes flavipes</i> como la combinación antigua <i>Termes flavipes</i> Kollar, 1837, con sintipos alados (MCZ n.º 10110) y Schönbrunn, Viena, Austria, como localidad tipo."
+      "heading": "2005 年基于 16S rRNA 的异名处理",
+      "paragraphs": [
+        {
+          "text": "据摘要，Austin 等（2005）用 16S rRNA 线粒体标记分析北美、中美、南美、法国和德国等地 434 个散白蚁属（Reticulitermes）种群，发现北美与德国的北美散白蚁（Reticulitermes flavipes）与法国西部未受干扰林地的散白蚁属旧名 Reticulitermes santonensis 具有完全相同的 DNA 序列；单倍型 F、M、GG 出现在法国，F 也见于德国，GG 还见于复活节岛、智利圣地亚哥和乌拉圭蒙得维的亚。作者结合形态、化学和系统发育证据，认为散白蚁属旧名 Reticulitermes santonensis 应作为北美散白蚁的异名处理。",
+          "src": [
+            "S0144"
+          ],
+          "text_en": "According to the abstract, Austin et al. (2005) used the 16S rRNA mitochondrial marker to analyse 434 Reticulitermes populations from North, Central and South America, France and Germany, and found that Reticulitermes flavipes from North America and Germany shares completely identical DNA sequences with Reticulitermes santonensis (an old name in Reticulitermes) from undisturbed woodland in western France; haplotypes F, M and GG occur in France, F also occurs in Germany, and GG also occurs on Easter Island, in Santiago de Chile and in Montevideo, Uruguay. Combining morphological, chemical and phylogenetic evidence, the authors concluded that Reticulitermes santonensis should be treated as a synonym of Reticulitermes flavipes.",
+          "text_es": "Según el resumen, Austin et al. (2005) analizaron 434 poblaciones de Reticulitermes de América del Norte, América Central, América del Sur, Francia y Alemania con el marcador mitocondrial 16S rRNA, y hallaron que los ejemplares de Reticulitermes flavipes de América del Norte y Alemania presentan secuencias de ADN idénticas a las de Reticulitermes santonensis, antiguo nombre del género en bosques no alterados del oeste de Francia; los haplotipos F, M y GG aparecen en Francia, F también en Alemania, y GG además en la isla de Pascua, Santiago de Chile y Montevideo (Uruguay). A partir de la evidencia morfológica, química y filogenética, los autores concluyen que Reticulitermes santonensis debe considerarse sinónimo de Reticulitermes flavipes."
+        }
+      ],
+      "heading_en": "2005 synonymy based on 16S rRNA",
+      "heading_es": "Sinonimia de 2005 basada en el ARN ribosomal 16S"
     },
     {
-     "src": [
-      "S0002"
-     ],
-     "text": "根据 Scharf 等（2005a）研究，保幼激素处理会改变北美散白蚁（<i>Reticulitermes flavipes</i>）中 hexamerin1、hexamerin2 与 vitellogenin2 等基因的表达，目前已有 4 个基因通过 RNA 干扰被成功沉默，包括 Hex-1、Hex-2 与 Cell-1（Zhou 等 2006a、2006c、2007b、2008）。",
-     "text_en": "According to Scharf et al. (2005a), juvenile hormone treatment alters the expression of genes such as hexamerin1, hexamerin2 and vitellogenin2 in <i>Reticulitermes flavipes</i>, and four genes have so far been silenced by RNA interference, including Hex-1, Hex-2 and Cell-1 (Zhou et al. 2006a, 2006c, 2007b, 2008).",
-     "text_es": "Según Scharf et al. (2005a), el tratamiento con hormona juvenil altera la expresión de genes como hexamerin1, hexamerin2 y vitellogenin2 en <i>Reticulitermes flavipes</i>, y hasta la fecha se han silenciado cuatro genes mediante interferencia de ARN, entre ellos Hex-1, Hex-2 y Cell-1 (Zhou et al. 2006a, 2006c, 2007b, 2008)."
+      "heading": "基名、模式产地与品级分化的分子基础",
+      "heading_en": "Basionym, type locality and the molecular basis of caste differentiation",
+      "heading_es": "Basónimo, localidad tipo y base molecular de la diferenciación de castas",
+      "paragraphs": [
+        {
+          "src": [
+            "S0004"
+          ],
+          "text": "《白蚁论》记录北美散白蚁（<i>Reticulitermes flavipes</i>）的基名为白蚁属（<i>Termes</i>）的旧组合 <i>Termes flavipes</i> Kollar, 1837，合模标本（MCZ No. 10110）为有翅成虫，模式产地记为奥地利维也纳美泉宫（Schönbrunn）。",
+          "text_en": "The Treatise records the basionym of <i>Reticulitermes flavipes</i> as the old combination <i>Termes flavipes</i> Kollar, 1837, with syntype alates (MCZ No. 10110) and Schönbrunn, Vienna, Austria, as the type locality.",
+          "text_es": "El Treatise registra el basónimo de <i>Reticulitermes flavipes</i> como la combinación antigua <i>Termes flavipes</i> Kollar, 1837, con sintipos alados (MCZ n.º 10110) y Schönbrunn, Viena, Austria, como localidad tipo."
+        },
+        {
+          "src": [
+            "S0002"
+          ],
+          "text": "根据 Scharf 等（2005a）研究，保幼激素处理会改变北美散白蚁（<i>Reticulitermes flavipes</i>）中 hexamerin1、hexamerin2 与 vitellogenin2 等基因的表达，目前已有 4 个基因通过 RNA 干扰被成功沉默，包括 Hex-1、Hex-2 与 Cell-1（Zhou 等 2006a、2006c、2007b、2008）。",
+          "text_en": "According to Scharf et al. (2005a), juvenile hormone treatment alters the expression of genes such as hexamerin1, hexamerin2 and vitellogenin2 in <i>Reticulitermes flavipes</i>, and four genes have so far been silenced by RNA interference, including Hex-1, Hex-2 and Cell-1 (Zhou et al. 2006a, 2006c, 2007b, 2008).",
+          "text_es": "Según Scharf et al. (2005a), el tratamiento con hormona juvenil altera la expresión de genes como hexamerin1, hexamerin2 y vitellogenin2 en <i>Reticulitermes flavipes</i>, y hasta la fecha se han silenciado cuatro genes mediante interferencia de ARN, entre ellos Hex-1, Hex-2 y Cell-1 (Zhou et al. 2006a, 2006c, 2007b, 2008)."
+        },
+        {
+          "src": [
+            "S0002"
+          ],
+          "text": "据《白蚁生物学现代研究合集》记载，北美散白蚁（<i>Reticulitermes flavipes</i>）的储存蛋白充当连接营养信号与保幼激素信号的角色，从而把食物条件与品级分化联系起来。",
+          "text_en": "The storage proteins of <i>Reticulitermes flavipes</i> have been shown to link nutritional signals with juvenile hormone signals, connecting food conditions to caste differentiation.",
+          "text_es": "Se ha demostrado que las proteínas de almacenamiento de <i>Reticulitermes flavipes</i> enlazan las señales nutricionales con las de la hormona juvenil, vinculando las condiciones alimentarias con la diferenciación de castas."
+        }
+      ]
     },
     {
-     "src": [
-      "S0002"
-     ],
-     "text": "据《白蚁生物学现代研究合集》记载，北美散白蚁（<i>Reticulitermes flavipes</i>）的储存蛋白充当连接营养信号与保幼激素信号的角色，从而把食物条件与品级分化联系起来。",
-     "text_en": "The storage proteins of <i>Reticulitermes flavipes</i> have been shown to link nutritional signals with juvenile hormone signals, connecting food conditions to caste differentiation.",
-     "text_es": "Se ha demostrado que las proteínas de almacenamiento de <i>Reticulitermes flavipes</i> enlazan las señales nutricionales con las de la hormona juvenil, vinculando las condiciones alimentarias con la diferenciación de castas."
-    }
-   ]
-  },
-  {
-   "heading": "中肠簇虫的生活史",
-   "heading_en": "Life cycle of a midgut gregarine",
-   "heading_es": "Ciclo de vida de una gregarina del intestino medio",
-   "paragraphs": [
-    {
-     "text": "据摘要，Hall 与 Hostettler（1993）记述北美散白蚁（<i>Reticulitermes flavipes</i>）与弗吉尼亚散白蚁（<i>Reticulitermes virginicus</i>）肠道内的有隔簇虫：其发育始于以小型钮扣状前节（epimerite）附着于中肠上皮的滋养体，虫体成为中肠腔内自由生活的配子体（gamont）时前节脱落；成熟配子体进入血腔，成对融合为大型配子囊（gametocyst），后者经一导管附着于白蚁中肠，囊内形成数以千计的孢子囊，成熟孢子囊经连接导管释放入中肠腔并随粪便排出。",
-     "text_en": "According to the abstract, Hall and Hostettler (1993) described the septate gregarines of the gut of <i>Reticulitermes flavipes</i> and <i>Reticulitermes virginicus</i>: development begins with trophozoites attached to the midgut epithelium by a small button-shaped epimerite, and the epimerite is lost when the parasite becomes a free-living gamont in the gut lumen; full-grown gamonts enter the hemocoel and fuse in pairs to form large gametocysts that are attached to the termite midgut by a duct, thousands of sporocysts are formed within the gametocyst, and the mature sporocysts are released into the lumen of the midgut through the connecting duct and passed out with the feces.",
-     "text_es": "Según el resumen, Hall y Hostettler (1993) describieron las gregarinas tabicadas del intestino de <i>Reticulitermes flavipes</i> y <i>Reticulitermes virginicus</i>: el desarrollo comienza con trofozoítos fijados al epitelio del intestino medio mediante un pequeño epimerito en forma de botón, y el epimerito se pierde cuando el parásito pasa a ser un gamonte de vida libre en la luz intestinal; los gamontes maduros entran en el hemocele y se fusionan por parejas para formar grandes gametocistos unidos al intestino medio de la termita por un conducto, dentro del gametocisto se forman miles de esporoquistes, y los esporoquistes maduros se liberan en la luz del intestino medio a través del conducto de conexión y se expulsan con las heces.",
-     "src": [
-      "S0359"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "法国旧名与近期人为引入",
-   "heading_en": "The French synonym and a recent human introduction",
-   "heading_es": "El sinónimo francés y una introducción humana reciente",
-   "paragraphs": [
-    {
-     "text": "根据 Bourguignon 等（2016）研究，法国记载的散白蚁属的旧异名 <i>Reticulitermes santonensis</i> 在系统树上嵌套于新北区的散白蚁属（<i>Reticulitermes</i>）支系之内，而不是与其他欧洲种类聚在一起，这一位置支持法国种群是近期从北美引入的；该文沿用 <i>Reticulitermes santonensis</i> 与北美散白蚁（<i>Reticulitermes flavipes</i>）同物异名的处理。该研究为散白蚁属（<i>Reticulitermes</i>）取样 13 份标本，测了全线粒体基因组（约 16 kb）。",
-     "text_en": "According to the study by Bourguignon et al. (2016), the old French synonym <i>Reticulitermes santonensis</i> is nested within the Nearctic <i>Reticulitermes</i> lineage rather than grouping with the other European species, a position that supports a recent introduction of the French populations from North America; the paper follows the treatment of <i>Reticulitermes santonensis</i> as a synonym of <i>Reticulitermes flavipes</i>. The study sequenced complete mitochondrial genomes (about 16 kb) for 13 specimens of <i>Reticulitermes</i>.",
-     "text_es": "Según el estudio de Bourguignon et al. (2016), el antiguo sinónimo francés <i>Reticulitermes santonensis</i> está anidado dentro del linaje neártico de <i>Reticulitermes</i> y no se agrupa con las demás especies europeas, posición que apoya una introducción reciente de las poblaciones francesas desde América del Norte; el artículo sigue el tratamiento de <i>Reticulitermes santonensis</i> como sinónimo de <i>Reticulitermes flavipes</i>. El estudio secuenció genomas mitocondriales completos (unos 16 kb) de 13 ejemplares de <i>Reticulitermes</i>.",
-     "src": [
-      "S0368"
-     ]
+      "heading": "中肠簇虫的生活史",
+      "heading_en": "Life cycle of a midgut gregarine",
+      "heading_es": "Ciclo de vida de una gregarina del intestino medio",
+      "paragraphs": [
+        {
+          "text": "据摘要，Hall 与 Hostettler（1993）记述北美散白蚁（<i>Reticulitermes flavipes</i>）与弗吉尼亚散白蚁（<i>Reticulitermes virginicus</i>）肠道内的有隔簇虫：其发育始于以小型钮扣状前节（epimerite）附着于中肠上皮的滋养体，虫体成为中肠腔内自由生活的配子体（gamont）时前节脱落；成熟配子体进入血腔，成对融合为大型配子囊（gametocyst），后者经一导管附着于白蚁中肠，囊内形成数以千计的孢子囊，成熟孢子囊经连接导管释放入中肠腔并随粪便排出。",
+          "text_en": "According to the abstract, Hall and Hostettler (1993) described the septate gregarines of the gut of <i>Reticulitermes flavipes</i> and <i>Reticulitermes virginicus</i>: development begins with trophozoites attached to the midgut epithelium by a small button-shaped epimerite, and the epimerite is lost when the parasite becomes a free-living gamont in the gut lumen; full-grown gamonts enter the hemocoel and fuse in pairs to form large gametocysts that are attached to the termite midgut by a duct, thousands of sporocysts are formed within the gametocyst, and the mature sporocysts are released into the lumen of the midgut through the connecting duct and passed out with the feces.",
+          "text_es": "Según el resumen, Hall y Hostettler (1993) describieron las gregarinas tabicadas del intestino de <i>Reticulitermes flavipes</i> y <i>Reticulitermes virginicus</i>: el desarrollo comienza con trofozoítos fijados al epitelio del intestino medio mediante un pequeño epimerito en forma de botón, y el epimerito se pierde cuando el parásito pasa a ser un gamonte de vida libre en la luz intestinal; los gamontes maduros entran en el hemocele y se fusionan por parejas para formar grandes gametocistos unidos al intestino medio de la termita por un conducto, dentro del gametocisto se forman miles de esporoquistes, y los esporoquistes maduros se liberan en la luz del intestino medio a través del conducto de conexión y se expulsan con las heces.",
+          "src": [
+            "S0359"
+          ]
+        }
+      ]
     },
     {
-     "text": "根据同一研究，该数据的 14 次分布区间断中只有 2 次由人为引入造成，法国这一支是其中之一；北美散白蚁（<i>Reticulitermes flavipes</i>）所在的新北区支系本身是原生的，欧洲出现的种群与该支系的最近共同祖先远晚于欧洲—北美分离的年代，因此不能用大陆漂移或陆桥解释。",
-     "text_en": "According to the same study, only two of the 14 disjunctions between biogeographic realms in the dataset were caused by human introduction, and the French lineage is one of them; the Nearctic lineage that contains <i>Reticulitermes flavipes</i> is itself native, and the populations appearing in Europe share a most recent common ancestor with that lineage far more recent than the separation of Europe and North America, so continental drift or land bridges cannot explain them.",
-     "text_es": "Según el mismo estudio, solo dos de las 14 disyunciones entre reinos biogeográficos del conjunto de datos fueron causadas por introducción humana, y el linaje francés es una de ellas; el linaje neártico que contiene <i>Reticulitermes flavipes</i> es nativo, y las poblaciones que aparecen en Europa comparten con ese linaje un ancestro común más reciente mucho más tardío que la separación entre Europa y América del Norte, por lo que ni la deriva continental ni los puentes de tierra pueden explicarlas.",
-     "src": [
-      "S0368"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "俄勒冈州群体的形态与分子鉴定",
-   "heading_en": "Morphological and molecular identification of an Oregon population",
-   "heading_es": "Identificación morfológica y molecular de una población de Oregón",
-   "paragraphs": [
-    {
-     "text": "据摘要，根据 McKern 等（2006）研究，俄勒冈州 Keizer 的一个群体以 2 头兵蚁按 Scheffrahn 与 Su（1994）检索表及兵蚁上唇特征鉴定为北美散白蚁（<i>Reticulitermes flavipes</i>），其工蚁 16S rRNA 序列属单倍型 FF（GenBank 登录号 D2001958）；该单倍型主要见于美国东部，作者据此认为俄勒冈群体来自人为引入。",
-     "text_en": "According to the study by McKern et al. (2006), a colony at Keizer, Oregon, was identified as <i>Reticulitermes flavipes</i> on the basis of 2 soldiers using the keys of Scheffrahn and Su (1994) and soldier labral characters, and the 16S rRNA sequence of its workers belonged to haplotype FF (GenBank accession D2001958); this haplotype is found mainly in the eastern United States, and the authors therefore consider the Oregon population to be an anthropogenic introduction.",
-     "text_es": "Según el estudio de McKern et al. (2006), una colonia de Keizer, Oregón, fue identificada como <i>Reticulitermes flavipes</i> a partir de 2 soldados usando las claves de Scheffrahn y Su (1994) y caracteres del labro de los soldados, y la secuencia de 16S rRNA de sus obreras pertenecía al haplotipo FF (número de acceso GenBank D2001958); este haplotipo se encuentra principalmente en el este de Estados Unidos, por lo que los autores consideran que la población de Oregón es una introducción antrópica.",
-     "src": [
-      "S0403"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "北美东部的分布",
-   "heading_en": "Distribution in eastern North America",
-   "heading_es": "Distribución en el este de Norteamérica",
-   "paragraphs": [
-    {
-     "text": "据摘要，Su 等（2001）记载北美散白蚁（<i>Reticulitermes flavipes</i>）是分布最广的散白蚁属（<i>Reticulitermes</i>）种类，分布区自北美东部向北到加拿大安大略、向南到佛罗里达 Key Largo。",
-     "src": [
-      "S0424"
-     ],
-     "text_en": "According to the abstract, Su et al. (2001) recorded Reticulitermes flavipes as the most widely distributed species of Reticulitermes, its range extending from eastern North America north to Ontario, Canada, and south to Key Largo, Florida.",
-     "text_es": "Según el resumen, Su et al. (2001) registraron a Reticulitermes flavipes como la especie de Reticulitermes de mayor distribución, con un área que va del este de Norteamérica al norte hasta Ontario, Canadá, y al sur hasta Key Largo, Florida."
+      "heading": "法国旧名与近期人为引入",
+      "heading_en": "The French synonym and a recent human introduction",
+      "heading_es": "El sinónimo francés y una introducción humana reciente",
+      "paragraphs": [
+        {
+          "text": "根据 Bourguignon 等（2016）研究，法国记载的散白蚁属的旧异名 <i>Reticulitermes santonensis</i> 在系统树上嵌套于新北区的散白蚁属（<i>Reticulitermes</i>）支系之内，而不是与其他欧洲种类聚在一起，这一位置支持法国种群是近期从北美引入的；该文沿用 <i>Reticulitermes santonensis</i> 与北美散白蚁（<i>Reticulitermes flavipes</i>）同物异名的处理。该研究为散白蚁属（<i>Reticulitermes</i>）取样 13 份标本，测了全线粒体基因组（约 16 kb）。",
+          "text_en": "According to the study by Bourguignon et al. (2016), the old French synonym <i>Reticulitermes santonensis</i> is nested within the Nearctic <i>Reticulitermes</i> lineage rather than grouping with the other European species, a position that supports a recent introduction of the French populations from North America; the paper follows the treatment of <i>Reticulitermes santonensis</i> as a synonym of <i>Reticulitermes flavipes</i>. The study sequenced complete mitochondrial genomes (about 16 kb) for 13 specimens of <i>Reticulitermes</i>.",
+          "text_es": "Según el estudio de Bourguignon et al. (2016), el antiguo sinónimo francés <i>Reticulitermes santonensis</i> está anidado dentro del linaje neártico de <i>Reticulitermes</i> y no se agrupa con las demás especies europeas, posición que apoya una introducción reciente de las poblaciones francesas desde América del Norte; el artículo sigue el tratamiento de <i>Reticulitermes santonensis</i> como sinónimo de <i>Reticulitermes flavipes</i>. El estudio secuenció genomas mitocondriales completos (unos 16 kb) de 13 ejemplares de <i>Reticulitermes</i>.",
+          "src": [
+            "S0368"
+          ]
+        },
+        {
+          "text": "根据同一研究，该数据的 14 次分布区间断中只有 2 次由人为引入造成，法国这一支是其中之一；北美散白蚁（<i>Reticulitermes flavipes</i>）所在的新北区支系本身是原生的，欧洲出现的种群与该支系的最近共同祖先远晚于欧洲—北美分离的年代，因此不能用大陆漂移或陆桥解释。",
+          "text_en": "According to the same study, only two of the 14 disjunctions between biogeographic realms in the dataset were caused by human introduction, and the French lineage is one of them; the Nearctic lineage that contains <i>Reticulitermes flavipes</i> is itself native, and the populations appearing in Europe share a most recent common ancestor with that lineage far more recent than the separation of Europe and North America, so continental drift or land bridges cannot explain them.",
+          "text_es": "Según el mismo estudio, solo dos de las 14 disyunciones entre reinos biogeográficos del conjunto de datos fueron causadas por introducción humana, y el linaje francés es una de ellas; el linaje neártico que contiene <i>Reticulitermes flavipes</i> es nativo, y las poblaciones que aparecen en Europa comparten con ese linaje un ancestro común más reciente mucho más tardío que la separación entre Europa y América del Norte, por lo que ni la deriva continental ni los puentes de tierra pueden explicarlas.",
+          "src": [
+            "S0368"
+          ]
+        }
+      ]
     },
     {
-     "text": "佛罗里达除北美散白蚁（<i>Reticulitermes flavipes</i>）外，还分布另外 2 种散白蚁属（<i>Reticulitermes</i>）种类。",
-     "src": [
-      "S0424"
-     ],
-     "text_en": "Besides Reticulitermes flavipes, Florida also harbours two other species of Reticulitermes.",
-     "text_es": "Además de Reticulitermes flavipes, Florida alberga otras dos especies de Reticulitermes."
+      "heading": "俄勒冈州群体的形态与分子鉴定",
+      "heading_en": "Morphological and molecular identification of an Oregon population",
+      "heading_es": "Identificación morfológica y molecular de una población de Oregón",
+      "paragraphs": [
+        {
+          "text": "据摘要，根据 McKern 等（2006）研究，俄勒冈州 Keizer 的一个群体以 2 头兵蚁按 Scheffrahn 与 Su（1994）检索表及兵蚁上唇特征鉴定为北美散白蚁（<i>Reticulitermes flavipes</i>），其工蚁 16S rRNA 序列属单倍型 FF（GenBank 登录号 D2001958）；该单倍型主要见于美国东部，作者据此认为俄勒冈群体来自人为引入。",
+          "text_en": "According to the study by McKern et al. (2006), a colony at Keizer, Oregon, was identified as <i>Reticulitermes flavipes</i> on the basis of 2 soldiers using the keys of Scheffrahn and Su (1994) and soldier labral characters, and the 16S rRNA sequence of its workers belonged to haplotype FF (GenBank accession D2001958); this haplotype is found mainly in the eastern United States, and the authors therefore consider the Oregon population to be an anthropogenic introduction.",
+          "text_es": "Según el estudio de McKern et al. (2006), una colonia de Keizer, Oregón, fue identificada como <i>Reticulitermes flavipes</i> a partir de 2 soldados usando las claves de Scheffrahn y Su (1994) y caracteres del labro de los soldados, y la secuencia de 16S rRNA de sus obreras pertenecía al haplotipo FF (número de acceso GenBank D2001958); este haplotipo se encuentra principalmente en el este de Estados Unidos, por lo que los autores consideran que la población de Oregón es una introducción antrópica.",
+          "src": [
+            "S0403"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "北美东部的分布",
+      "heading_en": "Distribution in eastern North America",
+      "heading_es": "Distribución en el este de Norteamérica",
+      "paragraphs": [
+        {
+          "text": "据摘要，Su 等（2001）记载北美散白蚁（<i>Reticulitermes flavipes</i>）是分布最广的散白蚁属（<i>Reticulitermes</i>）种类，分布区自北美东部向北到加拿大安大略、向南到佛罗里达 Key Largo。",
+          "src": [
+            "S0424"
+          ],
+          "text_en": "According to the abstract, Su et al. (2001) recorded Reticulitermes flavipes as the most widely distributed species of Reticulitermes, its range extending from eastern North America north to Ontario, Canada, and south to Key Largo, Florida.",
+          "text_es": "Según el resumen, Su et al. (2001) registraron a Reticulitermes flavipes como la especie de Reticulitermes de mayor distribución, con un área que va del este de Norteamérica al norte hasta Ontario, Canadá, y al sur hasta Key Largo, Florida."
+        },
+        {
+          "text": "佛罗里达除北美散白蚁（<i>Reticulitermes flavipes</i>）外，还分布另外 2 种散白蚁属（<i>Reticulitermes</i>）种类。",
+          "src": [
+            "S0424"
+          ],
+          "text_en": "Besides Reticulitermes flavipes, Florida also harbours two other species of Reticulitermes.",
+          "text_es": "Además de Reticulitermes flavipes, Florida alberga otras dos especies de Reticulitermes."
+        }
+      ]
+    },
+    {
+      "heading": "实验室初建群体的发育速度",
+      "heading_en": "Development rate of incipient laboratory colonies",
+      "heading_es": "Velocidad de desarrollo de colonias incipientes en laboratorio",
+      "paragraphs": [
+        {
+          "text": "根据 Howard 等（1981）研究，北美散白蚁（<i>Reticulitermes flavipes</i>）的未飞有翅成虫在密西西比州德索托国家森林的倒木中采得；春季配对的组合在 8–15 天内产卵、38–45 天出现首批幼虫、约 75 天出现四龄幼虫，秋季配对的组合约 25 天产卵、约 60 天出现首批幼虫、83 天出现四龄幼虫。",
+          "text_en": "According to Howard et al. (1981), alates of <i>Reticulitermes flavipes</i> were taken before flight from logs in De Soto National Forest, Mississippi; spring pairs laid eggs within 8-15 days, produced the first larvae in 38-45 days and fourth-instar larvae in about 75 days, whereas autumn pairs laid eggs in about 25 days, produced the first larvae in about 60 days and fourth-instar larvae in 83 days.",
+          "text_es": "Según Howard et al. (1981), los alados de <i>Reticulitermes flavipes</i> se recogieron antes del vuelo en troncos del bosque nacional De Soto (Misisipi); las parejas de primavera pusieron huevos en 8-15 días, produjeron las primeras larvas en 38-45 días y larvas de cuarto estadio en unos 75 días, mientras que las de otoño pusieron en unos 25 días, produjeron las primeras larvas en unos 60 días y el cuarto estadio en 83 días.",
+          "src": [
+            "S0464"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "种间杂交",
+      "heading_en": "Interspecific hybridisation",
+      "heading_es": "Hibridación interespecífica",
+      "paragraphs": [
+        {
+          "text": "根据 Howard 等（1981）研究，弗吉尼亚散白蚁（<i>Reticulitermes virginicus</i>）雄虫与北美散白蚁（<i>Reticulitermes flavipes</i>）雌虫在实验室中容易交配，后代数量与同种配对相当；检查的 17 头杂交幼虫全部检出肠道原生生物，其中 3 头为北美散白蚁型、5 头为弗吉尼亚散白蚁型，其余 9 头为两型混合。",
+          "text_en": "According to Howard et al. (1981), <i>Reticulitermes virginicus</i> males mated readily with <i>Reticulitermes flavipes</i> females in the laboratory, producing progeny in numbers comparable to conspecific pairs; all 17 hybrid larvae examined harboured gut protozoa, three of the <i>Reticulitermes flavipes</i> type, five of the <i>Reticulitermes virginicus</i> type and the remaining nine a mixture of both types.",
+          "text_es": "Según Howard et al. (1981), los machos de <i>Reticulitermes virginicus</i> se aparearon con facilidad con hembras de <i>Reticulitermes flavipes</i> en el laboratorio, produciendo una descendencia comparable en número a la de parejas coespecíficas; las 17 larvas híbridas examinadas albergaban protozoos intestinales, tres del tipo <i>Reticulitermes flavipes</i>, cinco del tipo <i>Reticulitermes virginicus</i> y las nueve restantes una mezcla de ambos tipos.",
+          "src": [
+            "S0464"
+          ]
+        },
+        {
+          "text": "根据 Howard 等（1981）研究，北美散白蚁（<i>Reticulitermes flavipes</i>）雄虫与弗吉尼亚散白蚁（<i>Reticulitermes virginicus</i>）雌虫的配对同样产卵，但幼虫数量远少于上述反交；10 头幼虫中有 7 头检出原生生物（2 头北美散白蚁型、2 头弗吉尼亚散白蚁型、3 头混合型）。由于北美散白蚁的双雌配对虽产下大量卵却仅 1 粒孵化，作者据此推断这些杂交后代来自异种雄虫的受精，而非孤雌发育；幼虫同时带双亲的原生生物，提示其与双亲都有肛饲往来。",
+          "text_en": "According to Howard et al. (1981), <i>Reticulitermes flavipes</i> males paired with <i>Reticulitermes virginicus</i> females also produced eggs, but far fewer larvae than the reciprocal cross; 7 of 10 larvae examined harboured protozoa (two of the <i>Reticulitermes flavipes</i> type, two of the <i>Reticulitermes virginicus</i> type and three mixed). Because female-female pairs of <i>Reticulitermes flavipes</i> laid many eggs yet only one of them ever hatched, the authors inferred that these hybrids arose from fertilisation by the heterospecific male rather than by parthenogenesis; the larvae carried protozoa of both parents, indicating proctodeal feeding with both.",
+          "text_es": "Según Howard et al. (1981), los machos de <i>Reticulitermes flavipes</i> emparejados con hembras de <i>Reticulitermes virginicus</i> también produjeron huevos, pero muchas menos larvas que el cruzamiento recíproco; 7 de 10 larvas examinadas albergaban protozoos (dos del tipo <i>Reticulitermes flavipes</i>, dos del tipo <i>Reticulitermes virginicus</i> y tres mixtos). Dado que las parejas de dos hembras de <i>Reticulitermes flavipes</i> pusieron muchos huevos pero solo uno eclosionó, los autores infirieron que estos híbridos procedían de la fecundación por el macho heteroespecífico y no de partenogénesis; las larvas portaban protozoos de ambos progenitores, lo que indica alimentación proctodeal con los dos.",
+          "src": [
+            "S0464"
+          ]
+        }
+      ]
     }
-   ]
-  }
- ],
- "references": [
-  {
-   "id": "S0144",
-   "citation": "Austin, J. W. et al. 2005. Genetic evidence for the synonymy of two Reticulitermes species: Reticulitermes flavipes and Reticulitermes santonensis. Annals of the Entomological Society of America 98.",
-   "doi": "10.1603/0013-8746(2005)098[0395:geftso]2.0.co;2"
-  },
-  {
-   "id": "S0004",
-   "citation": "Krishna K. et al. Treatise on the Isoptera of the world. Bulletin of the American Museum of Natural History 377, 2013."
-  },
-  {
-   "id": "S0002",
-   "citation": "黄求应 等（译）. 白蚁生物学现代研究合集. 中译合集."
-  },
-  {
-   "id": "S0359",
-   "citation": "Hall, D. W.; Hostettler, N. 1993. Septate gregarines from Reticulitermes flavipes and Reticulitermes virginicus (Isoptera: Rhinotermitidae). Journal of Eukaryotic Microbiology.",
-   "url": "https://doi.org/10.1111/j.1550-7408.1993.tb04878.x"
-  },
-  {
-   "id": "S0368",
-   "citation": "Bourguignon, T.; Lo, N.; Šobotník, J.; Sillam-Dussès, D.; Roisin, Y.; Evans, T. A. 2016. Oceanic dispersal, vicariance and human introduction shaped the modern distribution of the termites Reticulitermes, Heterotermes and Coptotermes. Proceedings of the Royal Society B.",
-   "url": "https://doi.org/10.1098/rspb.2016.0179"
-  },
-  {
-   "id": "S0403",
-   "citation": "McKern, J. A.; Szalanski, A. L.; Austin, J. W. 2006. First record of Reticulitermes flavipes and Reticulitermes hageni in Oregon (Isoptera: Rhinotermitidae). Florida Entomologist.",
-   "doi": "10.1653/0015-4040(2006)89[541:frorfa]2.0.co;2"
-  },
-  {
-   "id": "S0424",
-   "citation": "Su N.-Y.; Scheffrahn R. H.; Cabrera B. J. 2001. Native Subterranean Termites: Reticulitermes flavipes (Kollar), Reticulitermes virginicus (Banks), Reticulitermes hageni Banks (Insecta: Isoptera: Rhinotermitidae). EENY-212/IN369.",
-   "doi": "10.32473/edis-in369-2001"
-  }
- ]
+  ],
+  "references": [
+    {
+      "id": "S0144",
+      "citation": "Austin, J. W. et al. 2005. Genetic evidence for the synonymy of two Reticulitermes species: Reticulitermes flavipes and Reticulitermes santonensis. Annals of the Entomological Society of America 98.",
+      "doi": "10.1603/0013-8746(2005)098[0395:geftso]2.0.co;2"
+    },
+    {
+      "id": "S0004",
+      "citation": "Krishna K. et al. Treatise on the Isoptera of the world. Bulletin of the American Museum of Natural History 377, 2013."
+    },
+    {
+      "id": "S0002",
+      "citation": "黄求应 等（译）. 白蚁生物学现代研究合集. 中译合集."
+    },
+    {
+      "id": "S0359",
+      "citation": "Hall, D. W.; Hostettler, N. 1993. Septate gregarines from Reticulitermes flavipes and Reticulitermes virginicus (Isoptera: Rhinotermitidae). Journal of Eukaryotic Microbiology.",
+      "url": "https://doi.org/10.1111/j.1550-7408.1993.tb04878.x"
+    },
+    {
+      "id": "S0368",
+      "citation": "Bourguignon, T.; Lo, N.; Šobotník, J.; Sillam-Dussès, D.; Roisin, Y.; Evans, T. A. 2016. Oceanic dispersal, vicariance and human introduction shaped the modern distribution of the termites Reticulitermes, Heterotermes and Coptotermes. Proceedings of the Royal Society B.",
+      "url": "https://doi.org/10.1098/rspb.2016.0179"
+    },
+    {
+      "id": "S0403",
+      "citation": "McKern, J. A.; Szalanski, A. L.; Austin, J. W. 2006. First record of Reticulitermes flavipes and Reticulitermes hageni in Oregon (Isoptera: Rhinotermitidae). Florida Entomologist.",
+      "doi": "10.1653/0015-4040(2006)89[541:frorfa]2.0.co;2"
+    },
+    {
+      "id": "S0424",
+      "citation": "Su N.-Y.; Scheffrahn R. H.; Cabrera B. J. 2001. Native Subterranean Termites: Reticulitermes flavipes (Kollar), Reticulitermes virginicus (Banks), Reticulitermes hageni Banks (Insecta: Isoptera: Rhinotermitidae). EENY-212/IN369.",
+      "doi": "10.32473/edis-in369-2001"
+    },
+    {
+      "id": "S0464",
+      "citation": "Howard, R. W.; Mallette, E. J.; Haverty, M. I.; Smythe, R. V. 1981. Laboratory evaluation of within-species, between-species, and parthenogenetic reproduction in Reticulitermes flavipes and Reticulitermes virginicus. Psyche 88: 75–87.",
+      "url": "https://doi.org/10.1155/1981/36030"
+    }
+  ]
 }

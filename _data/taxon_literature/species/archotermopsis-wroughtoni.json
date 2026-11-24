@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "sections": [
   {
    "heading": "1920 年的野外生境记录",
@@ -69,6 +69,21 @@
      "text_es": "Cutler decidió a comienzos de 1918 examinar estos parásitos de forma sistemática y obtuvo el material restante de Imms; el trabajo es la primera parte de una serie."
     }
    ]
+  },
+  {
+   "heading": "兵蚁头形的比较记述",
+   "heading_en": "Comparative note on soldier head shape",
+   "heading_es": "Nota comparativa sobre la forma de la cabeza del soldado",
+   "paragraphs": [
+    {
+     "text": "根据 Belyaeva（2004）研究，罗夫顿古白蚁（<i>Archotermopsis wroughtoni</i>）的兵蚁头部明显呈三叶状，并在前方收窄；这一头形与库兹涅佐夫古白蚁（<i>Archotermopsis kuznetsovi</i>）方形、两侧平行且不前收的头部不同。",
+     "text_en": "According to Belyaeva (2004), the soldier head of <i>Archotermopsis wroughtoni</i> is distinctly trilobed and narrows anteriorly; this shape differs from the square head of <i>Archotermopsis kuznetsovi</i>, whose sides are parallel and not narrowed in front.",
+     "text_es": "Según Belyaeva (2004), la cabeza del soldado de <i>Archotermopsis wroughtoni</i> es claramente trilobulada y se estrecha hacia delante; esta forma difiere de la cabeza cuadrada de <i>Archotermopsis kuznetsovi</i>, cuyos lados son paralelos y no se estrechan en la parte anterior.",
+     "src": [
+      "S0463"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -95,6 +110,10 @@
    "id": "S0422",
    "citation": "Cutler D. W. 1919. Observations on the Protozoa Parasitic in the Hind Gut of Archotermopsis wroughtoni Desn: Part I.—Ditrichomonas (Trichomonas) termitis, Imms.",
    "doi": "10.1242/jcs.s2-63.252.555"
+  },
+  {
+   "id": "S0463",
+   "citation": "Беляева, Н. В. 2004. Новый вид термитов рода Archotermopsis Desneux из Северного Вьетнама (Isoptera, Hodotermitidae, Termopsinae). Энтомологическое обозрение 83(2): 369–377."
   }
  ]
 }

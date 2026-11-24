@@ -1,0 +1,42 @@
+{
+ "date": "2026-11-24",
+ "work": "每日文库研读：15 个 chunk 单元 + 5 条仅摘要记录（S0439–S0466、S0137/S0151/S0152/S0154/S0155），单元见 _tmp/library-scan/2026-11-24/units.json",
+ "facts": [
+  {
+   "page": "/species/cornitermes-cumulans/",
+   "claim": "Campinas 样地丘内温度波动明显低于环境；CTmax 随年降水量升高而升高、随平均日温差升高而降低；在 SSP2–4.5 与 SSP5–8.5 下热安全边际大幅缩小。",
+   "quote": "mound interiors showed markedly lower thermal variation than ambient conditions, while modelled operative temperatures indicated positive thermal safety margins across the broader climatic gradient. Nevertheless, CT max remained associated with regional climate, increasing with annual precipitation and decreasing with",
+   "src": "S0443",
+   "work": "Thermal-buffering-by-termite-mounds-maintains-safety-margins-while-worker-traits",
+   "unit": "full.txt",
+   "locator": "full.txt",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "queued",
+   "note": "仅摘要长度单元（1914 字符），按「据摘要」处理；本轮页面数已满未立页。"
+  },
+  {
+   "page": "/species/coptotermes-formosanus/",
+   "claim": "台湾中科园区与新竹园区 2 年饵剂计划共消灭 11 巢，平均 1.82±1.25 个月/巢，每巢取食 164.3±68.6 g（约 1 支饵管）。",
+   "quote": "A total of 11 colonies were eliminated, with a mean elimination time of 1.82 ± 1.25 months and bait consumption of 164.3 ± 68.6 g (∼1 bait tube) per colony. Based on empirical data, including baiting processes, colony territory size, and landscape features, we simulated bait station spacings (6 to 16 m) to evaluate the",
+   "src": "S0442",
+   "work": "Area-wide-evaluation-of-bait-density-and-cost-effectiveness-in-the-elimination-o",
+   "unit": "full.txt",
+   "locator": "full.txt",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "queued",
+   "note": "页面已有 S0442 的密度与成本记述，本条数值未逐项写入；复核时可补。"
+  },
+  {
+   "page": "/genus/anoplotermes/",
+   "claim": "多米尼加琥珀中描述解甲白蚁属（Anoplotermes）8 个新种（A. bohio、A. cacique、A. carib、A. maboya、A. naboria、A. nitaino、A. quisqueya、A. taino），均据成虫建立；该属现生 34 种，伊斯帕尼奥拉岛仅 1 种。",
+   "quote": "bohio, A. cacique, A. carib, A. maboya, A. naboria, A. nitaino, A. quisqueya, A. taino, Atlantitermes antillea, A. caribea, A. magnoculus, Microcerotermes insulanus, M. setosus, Nasutitermes amplioculatus, N. incisus, N. magnocellus, N. medioculatus, N. pilosus, N. seminudus, Subulitermes hispaniola, S. insularis, and",
+   "src": "S0382",
+   "work": "10.1206-633.1",
+   "unit": "0001-0048.txt",
+   "locator": "0001-0048.txt",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "queued",
+   "note": "8 个琥珀种站内无页面、无中文正名，本轮只在乳白蚁属页写了化石乳白蚁，未立解甲白蚁属页。"
+  }
+ ]
+}

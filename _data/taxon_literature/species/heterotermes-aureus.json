@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-24",
  "sections": [
   {
    "heading": "天然木材偏好",
@@ -15,6 +15,29 @@
      "text_es": "Según el resumen, Haverty y Nutting (1975) estudiaron la alimentación natural en 69 cuadrantes aleatorios y hallaron que <i>Heterotermes aureus</i> consume unas 13 especies de madera y prefiere el hackberry del desierto y los tallos muertos de cholla, mientras que en el mismo estudio <i>Paraneotermes simplicicornis</i> prefirió mezquite, catclaw acacia y tocones de cholla, y tres especies de <i>Amitermes</i> prefirieron catclaw acacia y blue palo-verde."
     }
    ]
+  },
+  {
+   "heading": "巢间领域的边界与兵蚁格斗",
+   "heading_en": "Territory boundaries and soldier combat between colonies",
+   "heading_es": "Límites de territorio y combate entre soldados de distintas colonias",
+   "paragraphs": [
+    {
+     "text": "根据 Binder（1988）研究，亚利桑那图森（Tucson）周边的金黄异白蚁（<i>Heterotermes aureus</i>）每巢觅食领域约 12.5 m²，相邻巢的领域边界分明；不同巢的兵蚁相遇时先以触角相触，随即张开上颚反复咬合，一旦咬穿对方头、胸或腹部即停止撕咬。",
+     "text_en": "According to Binder (1988), each colony of <i>Heterotermes aureus</i> around Tucson, Arizona, forages over a territory of about 12.5 m², and the boundaries between neighbouring colonies are well defined; soldiers from different colonies first touch antennae and then open their mandibles and snap repeatedly, stopping once they have bitten through the opponent's head, thorax or abdomen.",
+     "text_es": "Según Binder (1988), cada colonia de <i>Heterotermes aureus</i> en los alrededores de Tucson, Arizona, explota un territorio de unos 12.5 m² y los límites entre colonias vecinas están bien definidos; los soldados de colonias distintas primero se tocan con las antenas y luego abren las mandíbulas y muerden repetidamente, y dejan de hacerlo cuando han perforado la cabeza, el tórax o el abdomen del contrario.",
+     "src": [
+      "S0465"
+     ]
+    },
+    {
+     "text": "根据 Binder（1988）研究，同巢兵蚁与工蚁配对时没有攻击行为，而异巢配对在 1.5、3.0、4.5 与 6.0 cm² 的 arena 中都有超过一半的工蚁受到致命伤；兵蚁完成一次致命咬合的平均耗时随 arena 面积增大而延长，分别为 37±7 秒、51±10 秒、62±8 秒与 80 秒左右。",
+     "text_en": "According to Binder (1988), pairings of soldiers and workers from the same colony showed no aggression, whereas in pairings from different colonies more than half of the workers were fatally wounded in arenas of 1.5, 3.0, 4.5 and 6.0 cm²; the mean time a soldier needed to deliver a fatal bite increased with arena size, from 37±7 s and 51±10 s to 62±8 s and about 80 s.",
+     "text_es": "Según Binder (1988), las parejas de soldados y obreros de la misma colonia no mostraron agresión, mientras que en las parejas de colonias distintas más de la mitad de los obreros sufrieron heridas mortales en arenas de 1.5, 3.0, 4.5 y 6.0 cm²; el tiempo medio que un soldado necesitó para asestar una mordedura fatal aumentó con el tamaño de la arena, de 37±7 s y 51±10 s a 62±8 s y unos 80 s.",
+     "src": [
+      "S0465"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -22,6 +45,11 @@
    "id": "S0208",
    "citation": "Haverty, M. I. & Nutting, W. L. (1975). Natural wood preferences of desert termites. Annals of the Entomological Society of America, 68(3).",
    "doi": "10.1093/aesa/68.3.533"
+  },
+  {
+   "id": "S0465",
+   "citation": "Binder, B. F. 1988. Intercolonial aggression in the subterranean termite Heterotermes aureus (Isoptera: Rhinotermitidae). Psyche 95: 123–137.",
+   "url": "https://doi.org/10.1155/1988/28452"
   }
  ]
 }

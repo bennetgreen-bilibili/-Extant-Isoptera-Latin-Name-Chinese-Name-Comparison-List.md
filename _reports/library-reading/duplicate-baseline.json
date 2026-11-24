@@ -1,24 +1,105 @@
 {
   "_readme": "check_lit_duplicates.py 的既有近似重复基线。每条 {a: 页面A, b: 页面B, reason: 说明}。基线内配对默认只提示、不判失败；`--strict` 会忽略本文件。新增条目须在 reason 里写清「为何两条都要保留 / 何时重写」，不要用基线掩盖本轮新写的重复。",
   "pairs": [
-    {"a": "/species/orthognathotermes-wheeleri/", "b": "/species/orthognathotermes-heberi/", "reason": "S0228 修订：两页都写「首次描述有翅成虫」，句式模板相同，事实各自成立；待改写措辞"},
-    {"a": "/genus/pericapritermes/", "b": "/species/pericapritermes-dolichocephalus/", "reason": "S0227 海拔梯度：属页与种页共享同一句名录式表述；待属页收窄为属级结论"},
-    {"a": "/species/mastotermes-darwiniensis/", "b": "/species/coptotermes-lacteus/", "reason": "S0001 French 1976 固氮菌：同一实验两种白蚁各写一句，仅种名不同；模板句"},
-    {"a": "/species/amitermes-amifer/", "b": "/species/amitermes-foreli/", "reason": "S0434 兵蚁上颚分组：同组多种的名单式表述；待改写"},
-    {"a": "/species/amitermes-foreli/", "b": "/species/amitermes-emersoni/", "reason": "S0434 同上"},
-    {"a": "/species/anoplotermes-pacificus/", "b": "/species/anoplotermes-banksi/", "reason": "S0177 巢群与生物量：两种各写一段同模板数据"},
-    {"a": "/genus/amitermes/", "b": "/species/amitermes-amifer/", "reason": "S0434 属页与种页共享分组句"},
-    {"a": "/species/anacanthotermes-vagans/", "b": "/species/anacanthotermes-viarum/", "reason": "S0105 分布与习性：两种同模板"},
-    {"a": "/species/mastotermes-darwiniensis/", "b": "/species/nasutitermes-exitiosus/", "reason": "S0001 固氮菌同一实验"},
-    {"a": "/genus/amitermes/", "b": "/species/amitermes-beaumonti/", "reason": "S0212 属页与种页共享同一分布句"},
-    {"a": "/genus/ancistrotermes/", "b": "/species/ancistrotermes-latinotus/", "reason": "S0193 属页与种页共享同一分布句"},
-    {"a": "/species/nasutitermes-exitiosus/", "b": "/species/coptotermes-lacteus/", "reason": "S0001 固氮菌同一实验"},
-    {"a": "/species/microcerotermes-exiguus/", "b": "/species/obtusitermes-panamae/", "reason": "S0212 分布句模板"},
-    {"a": "/species/drepanotermes-daliensis/", "b": "/species/drepanotermes-magnificus/", "reason": "S0190 两种同模板分布句"},
-    {"a": "/species/anoplotermes-banksi/", "b": "/species/anoplotermes-janus/", "reason": "S0177 巢群数据模板"},
-    {"a": "/species/microcerotermes-lateralis/", "b": "/species/pericapritermes-pallidipes/", "reason": "S0005 分布句模板"},
-    {"a": "/species/macrotermes-hainanensis/", "b": "/species/macrotermes-peritrimorphus/", "reason": "S0111 分布句模板"},
-    {"a": "/genus/amitermes/", "b": "/species/amitermes-emersoni/", "reason": "S0434 属页与种页共享分组句"},
-    {"a": "/species/amitermes-amifer/", "b": "/species/amitermes-emersoni/", "reason": "S0434 同组名单"}
+    {
+      "a": "/species/orthognathotermes-wheeleri/",
+      "b": "/species/orthognathotermes-heberi/",
+      "reason": "S0228 修订：两页都写「首次描述有翅成虫」，句式模板相同，事实各自成立；待改写措辞"
+    },
+    {
+      "a": "/genus/pericapritermes/",
+      "b": "/species/pericapritermes-dolichocephalus/",
+      "reason": "S0227 海拔梯度：属页与种页共享同一句名录式表述；待属页收窄为属级结论"
+    },
+    {
+      "a": "/species/mastotermes-darwiniensis/",
+      "b": "/species/coptotermes-lacteus/",
+      "reason": "S0001 French 1976 固氮菌：同一实验两种白蚁各写一句，仅种名不同；模板句"
+    },
+    {
+      "a": "/species/amitermes-amifer/",
+      "b": "/species/amitermes-foreli/",
+      "reason": "S0434 兵蚁上颚分组：同组多种的名单式表述；待改写"
+    },
+    {
+      "a": "/species/amitermes-foreli/",
+      "b": "/species/amitermes-emersoni/",
+      "reason": "S0434 同上"
+    },
+    {
+      "a": "/species/anoplotermes-pacificus/",
+      "b": "/species/anoplotermes-banksi/",
+      "reason": "S0177 巢群与生物量：两种各写一段同模板数据"
+    },
+    {
+      "a": "/genus/amitermes/",
+      "b": "/species/amitermes-amifer/",
+      "reason": "S0434 属页与种页共享分组句"
+    },
+    {
+      "a": "/species/anacanthotermes-vagans/",
+      "b": "/species/anacanthotermes-viarum/",
+      "reason": "S0105 分布与习性：两种同模板"
+    },
+    {
+      "a": "/species/mastotermes-darwiniensis/",
+      "b": "/species/nasutitermes-exitiosus/",
+      "reason": "S0001 固氮菌同一实验"
+    },
+    {
+      "a": "/genus/amitermes/",
+      "b": "/species/amitermes-beaumonti/",
+      "reason": "S0212 属页与种页共享同一分布句"
+    },
+    {
+      "a": "/genus/ancistrotermes/",
+      "b": "/species/ancistrotermes-latinotus/",
+      "reason": "S0193 属页与种页共享同一分布句"
+    },
+    {
+      "a": "/species/nasutitermes-exitiosus/",
+      "b": "/species/coptotermes-lacteus/",
+      "reason": "S0001 固氮菌同一实验"
+    },
+    {
+      "a": "/species/microcerotermes-exiguus/",
+      "b": "/species/obtusitermes-panamae/",
+      "reason": "S0212 分布句模板"
+    },
+    {
+      "a": "/species/drepanotermes-daliensis/",
+      "b": "/species/drepanotermes-magnificus/",
+      "reason": "S0190 两种同模板分布句"
+    },
+    {
+      "a": "/species/anoplotermes-banksi/",
+      "b": "/species/anoplotermes-janus/",
+      "reason": "S0177 巢群数据模板"
+    },
+    {
+      "a": "/species/microcerotermes-lateralis/",
+      "b": "/species/pericapritermes-pallidipes/",
+      "reason": "S0005 分布句模板"
+    },
+    {
+      "a": "/species/macrotermes-hainanensis/",
+      "b": "/species/macrotermes-peritrimorphus/",
+      "reason": "S0111 分布句模板"
+    },
+    {
+      "a": "/genus/amitermes/",
+      "b": "/species/amitermes-emersoni/",
+      "reason": "S0434 属页与种页共享分组句"
+    },
+    {
+      "a": "/species/amitermes-amifer/",
+      "b": "/species/amitermes-emersoni/",
+      "reason": "S0434 同组名单"
+    },
+    {
+      "a": "/species/embiratermes-neotenicus/",
+      "b": "/species/labiotermes-labralis/",
+      "reason": "S0267 蚁后信息素与线粒体基因组：两页各写同一项研究的两个侧面（蚁后信息素 / 线粒体基因组），句式相近但事实不同；该配对自 2026-11-21 即存在，非本轮新写，待后续改写措辞"
+    }
   ]
 }

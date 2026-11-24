@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-24",
  "sections": [
   {
    "heading": "中国记录的来源",
@@ -16,6 +16,44 @@
    ],
    "heading_en": "Source of the Chinese record",
    "heading_es": "Origen del registro chino"
+  },
+  {
+   "heading": "模式产地与成虫测量",
+   "heading_en": "Type locality and measurements of the adult",
+   "heading_es": "Localidad tipo y medidas del adulto",
+   "paragraphs": [
+    {
+     "text": "根据 Belyaeva（2004）研究，库兹涅佐夫古白蚁（<i>Archotermopsis kuznetsovi</i>）的模式产地为越南北部沙坝（Sa Pa）东南 5 km 的壳斗科（Fagaceae）树桩，海拔 1700–1850 m；正模为 1 头雄性成虫，与副模一同存莫斯科大学昆虫学教研室，种名纪念 A. N. Kuznetsov。",
+     "text_en": "According to Belyaeva (2004), the type locality of <i>Archotermopsis kuznetsovi</i> is a Fagaceae stump 5 km southeast of Sa Pa in northern Vietnam, at 1700-1850 m; the holotype is a single male adult, deposited with the paratypes in the Department of Entomology of Moscow University, and the species is named after A. N. Kuznetsov.",
+     "text_es": "Según Belyaeva (2004), la localidad tipo de <i>Archotermopsis kuznetsovi</i> es un tocón de Fagaceae a 5 km al sureste de Sa Pa, en el norte de Vietnam, entre 1700 y 1850 m; el holotipo es un adulto macho, depositado con los paratipos en el Departamento de Entomología de la Universidad de Moscú, y la especie está dedicada a A. N. Kuznetsov.",
+     "src": [
+      "S0463"
+     ]
+    },
+    {
+     "text": "根据 Belyaeva（2004）研究，库兹涅佐夫古白蚁（<i>Archotermopsis kuznetsovi</i>）成虫头长（至上唇端）2.65–3.15 mm、头宽（含复眼）2.55–2.90 mm、上唇长 0.50–0.60 mm、复眼长 0.85–0.95 mm、前胸背板长 0.95–1.25 mm、宽 2.00–2.20 mm；触角 19–20 节、跗节 5 节、尾须 6–7 节，腹刺仅见于雄性。",
+     "text_en": "According to Belyaeva (2004), the adult of <i>Archotermopsis kuznetsovi</i> has a head 2.65-3.15 mm long (to the tip of the labrum) and 2.55-2.90 mm wide across the compound eyes, a labrum 0.50-0.60 mm long, compound eyes 0.85-0.95 mm long and a pronotum 0.95-1.25 mm long and 2.00-2.20 mm wide; the antennae have 19-20 segments, the tarsi 5 segments and the cerci 6-7 segments, and styli occur only in males.",
+     "text_es": "Según Belyaeva (2004), el adulto de <i>Archotermopsis kuznetsovi</i> tiene la cabeza de 2,65-3,15 mm de largo (hasta el extremo del labro) y 2,55-2,90 mm de ancho a través de los ojos compuestos, el labro de 0,50-0,60 mm, los ojos compuestos de 0,85-0,95 mm y el pronoto de 0,95-1,25 mm de largo por 2,00-2,20 mm de ancho; las antenas tienen 19-20 artejos, los tarsos 5 artejos y los cercos 6-7 artejos, y los estilos solo aparecen en los machos.",
+     "src": [
+      "S0463"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "兵蚁的测量与上颚齿式",
+   "heading_en": "Measurements and mandibular dentition of the soldier",
+   "heading_es": "Medidas y dentición mandibular del soldado",
+   "paragraphs": [
+    {
+     "text": "根据 Belyaeva（2004）研究，库兹涅佐夫古白蚁（<i>Archotermopsis kuznetsovi</i>）兵蚁头长（含上颚）6.20–9.10 mm、头宽 3.60–4.90 mm、喉片（gula）长 2.50–4.50 mm，触角 24 节；头方形、两侧平行、不前收；左上颚具 3 个缘齿，其中第 2 齿扁平不突出、第 3 齿宽且有中凹，右上颚具 2 个缘齿，均扁平并有中凹。",
+     "text_en": "According to Belyaeva (2004), the soldier of <i>Archotermopsis kuznetsovi</i> has a head 6.20-9.10 mm long including the mandibles and 3.60-4.90 mm wide, a gula 2.50-4.50 mm long and 24 antennal segments; the head is quadrate with parallel sides and does not narrow anteriorly; the left mandible bears three marginal teeth, the second flat and inconspicuous and the third broad with a median notch, and the right mandible bears two flat marginal teeth, each with a median notch.",
+     "text_es": "Según Belyaeva (2004), el soldado de <i>Archotermopsis kuznetsovi</i> tiene la cabeza de 6,20-9,10 mm de largo incluida la mandíbula y 3,60-4,90 mm de ancho, la gula de 2,50-4,50 mm y 24 artejos antenales; la cabeza es cuadrada, de lados paralelos, y no se estrecha hacia delante; la mandíbula izquierda lleva tres dientes marginales, el segundo plano e inconspicuo y el tercero ancho con una escotadura media, y la derecha lleva dos dientes marginales planos, cada uno con una escotadura media.",
+     "src": [
+      "S0463"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -27,6 +65,10 @@
    "id": "S0112",
    "citation": "GBIF occurrence search: Archotermopsis kuznetsovi and Archotermopsis wroughtoni (country facet), accessed 2026-11-07. https://api.gbif.org/v1/occurrence/search?taxonKey=9660505&facet=country&facetLimit=30&limit=0",
    "url": "https://api.gbif.org/v1/occurrence/search?taxonKey=9660505&facet=country&facetLimit=30&limit=0"
+  },
+  {
+   "id": "S0463",
+   "citation": "Беляева, Н. В. 2004. Новый вид термитов рода Archotermopsis Desneux из Северного Вьетнама (Isoptera, Hodotermitidae, Termopsinae). Энтомологическое обозрение 83(2): 369–377."
   }
  ]
 }

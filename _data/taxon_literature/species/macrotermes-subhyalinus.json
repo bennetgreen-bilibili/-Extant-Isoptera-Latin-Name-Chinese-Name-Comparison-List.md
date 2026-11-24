@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-24",
+ "sections": [
+  {
+   "heading": "取代勇猛大白蚁的种级地位",
+   "heading_en": "Specific status replacing Macrotermes bellicosus",
+   "heading_es": "Estatus específico en sustitución de Macrotermes bellicosus",
+   "paragraphs": [
+    {
+     "text": "根据 Ruelle（1970）研究，此前被鉴作勇猛大白蚁（<i>Macrotermes bellicosus</i>）的西非种群应改归近明大白蚁（<i>Macrotermes subhyalinus</i>）；改动之后，近明大白蚁（<i>Macrotermes subhyalinus</i>）成为该属分布最广的种，耐旱性强于勇猛大白蚁（<i>Macrotermes bellicosus</i>）。",
+     "text_en": "According to Ruelle (1970), the West African populations previously identified as <i>Macrotermes bellicosus</i> belong instead to <i>Macrotermes subhyalinus</i>; after this change <i>Macrotermes subhyalinus</i> is the most widely distributed species of the genus and tolerates drier conditions than <i>Macrotermes bellicosus</i>.",
+     "text_es": "Según Ruelle (1970), las poblaciones de África occidental identificadas hasta entonces como <i>Macrotermes bellicosus</i> pertenecen en realidad a <i>Macrotermes subhyalinus</i>; tras este cambio, <i>Macrotermes subhyalinus</i> es la especie más ampliamente distribuida del género y tolera condiciones más secas que <i>Macrotermes bellicosus</i>.",
+     "src": [
+      "S0462"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0462",
+   "citation": "Ruelle, J.-E. 1970. A revision of the termites of the genus Macrotermes from the Ethiopian region (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology 24: 363–444.",
+   "url": "https://doi.org/10.5962/bhl.part.1525"
+  }
+ ]
+}

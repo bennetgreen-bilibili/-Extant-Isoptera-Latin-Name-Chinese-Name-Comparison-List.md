@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-24",
+ "sections": [
+  {
+   "heading": "西非林缘至萨赫勒的分布",
+   "heading_en": "Distribution from the West African forest margin to the Sahel",
+   "heading_es": "Distribución desde el borde del bosque de África occidental hasta el Sahel",
+   "paragraphs": [
+    {
+     "text": "根据 Ruelle（1970）研究，修订后的勇猛大白蚁（<i>Macrotermes bellicosus</i>）分布于西非从林缘到萨赫勒稀树草原的带内，年降水约 800–400 mm，西起塞内加尔、东至乌干达并见于刚果盆地。",
+     "text_en": "According to Ruelle (1970), after the revision <i>Macrotermes bellicosus</i> occupies a belt from the West African forest margin to the Sahelian savanna where annual rainfall is about 800-400 mm, from Senegal east to Uganda and including the Congo basin.",
+     "text_es": "Según Ruelle (1970), tras la revisión <i>Macrotermes bellicosus</i> ocupa una franja desde el borde del bosque de África occidental hasta la sabana saheliana, con una precipitación anual de unos 800-400 mm, desde Senegal hacia el este hasta Uganda e incluyendo la cuenca del Congo.",
+     "src": [
+      "S0462"
+     ]
+    },
+    {
+     "text": "根据 Ruelle（1970）研究，勇猛大白蚁（<i>Macrotermes bellicosus</i>）所在带内的更干旱地段由近明大白蚁（<i>Macrotermes subhyalinus</i>）取代，后者是该属分布最广、最耐旱的种。",
+     "text_en": "According to Ruelle (1970), the drier parts of this belt are occupied instead by <i>Macrotermes subhyalinus</i>, the most widespread and most drought-tolerant species of the genus.",
+     "text_es": "Según Ruelle (1970), las partes más secas de esta franja están ocupadas por <i>Macrotermes subhyalinus</i>, la especie más ampliamente distribuida y más tolerante a la sequía del género.",
+     "src": [
+      "S0462"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0462",
+   "citation": "Ruelle, J.-E. 1970. A revision of the termites of the genus Macrotermes from the Ethiopian region (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology 24: 363–444.",
+   "url": "https://doi.org/10.5962/bhl.part.1525"
+  }
+ ]
+}

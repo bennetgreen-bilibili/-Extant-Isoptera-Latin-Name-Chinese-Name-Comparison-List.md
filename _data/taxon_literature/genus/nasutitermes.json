@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-24",
  "sections": [
   {
    "heading": "北澳稀树草原的群落组成",
@@ -69,6 +69,37 @@
      "text_es": "Según el resumen, en Constantino (1998) el nombre antiguo <i>Nasutitermes columbicus</i> de <i>Nasutitermes</i> fue tratado como sinónimo junior de <i>Nasutitermes guayanae</i>."
     }
    ]
+  },
+  {
+   "heading": "兵蚁的黏性液体套索",
+   "heading_en": "Adhesive liquid lassos of the soldiers",
+   "heading_es": "Lazos líquidos adhesivos de los soldados",
+   "paragraphs": [
+    {
+     "text": "根据 Challita 等（2026）研究，象白蚁属（<i>Nasutitermes</i>）树栖种的兵蚁体长约 5 mm，额腺可占体质量的近 10%，分泌物以单萜（α-蒎烯、柠檬烯）为溶剂，并含二萜树脂；研究材料采自秘鲁亚马孙、巴拿马巴罗科罗拉多岛与哥斯达黎加。该文为 bioRxiv 预印本，尚未经同行评审。",
+     "text_en": "According to Challita et al. (2026), soldiers of arboreal <i>Nasutitermes</i> species are about 5 mm long and their frontal gland may reach nearly 10% of body mass; the secretion uses monoterpenes (α-pinene, limonene) as solvent and contains diterpene resins. The material came from Amazonian Peru, Barro Colorado Island in Panama and Costa Rica. The paper is a bioRxiv preprint and has not yet been peer reviewed.",
+     "text_es": "Según Challita et al. (2026), los soldados de las especies arborícolas de <i>Nasutitermes</i> miden unos 5 mm y su glándula frontal puede alcanzar casi el 10% de la masa corporal; la secreción emplea monoterpenos (α-pineno, limoneno) como disolvente y contiene resinas diterpénicas. El material procede de la Amazonia peruana, de la isla Barro Colorado (Panamá) y de Costa Rica. El trabajo es una prepublicación de bioRxiv que aún no ha sido revisada por pares.",
+     "src": [
+      "S0441"
+     ]
+    },
+    {
+     "text": "根据 Challita 等（2026）研究，象白蚁属（<i>Nasutitermes</i>）兵蚁的额腺开口仅 14–32 µm，喷射峰值速度 0.65±0.23 m/s、持续 125±52 ms、单次体积 6–132 nL；喷射时头部以 5–30 Hz 横向摆动、角幅 10°–40°，横扫宽度约 1.25 mm。",
+     "text_en": "According to Challita et al. (2026), the frontal-gland opening of <i>Nasutitermes</i> soldiers is only 14-32 µm wide; the jet reaches a peak velocity of 0.65±0.23 m/s, lasts 125±52 ms and delivers 6-132 nL per shot. During the shot the head sweeps laterally at 5-30 Hz through 10°-40°, covering about 1.25 mm.",
+     "text_es": "Según Challita et al. (2026), la abertura de la glándula frontal de los soldados de <i>Nasutitermes</i> mide solo 14-32 µm; el chorro alcanza una velocidad máxima de 0,65±0,23 m/s, dura 125±52 ms y descarga 6-132 nL por disparo. Durante el disparo la cabeza barre lateralmente a 5-30 Hz con una amplitud de 10°-40°, cubriendo unos 1,25 mm.",
+     "src": [
+      "S0441"
+     ]
+    },
+    {
+     "text": "根据 Challita 等（2026）研究，象白蚁属（<i>Nasutitermes</i>）兵蚁的分泌物在空中被拉成细丝，卷绕频率 250–3000 Hz、丝速 0.03–0.24 m/s，可伸出约 3 个体长；沉积后表观拉伸黏度升高 8–80 倍，成为持久黏胶，把捕食蚂蚁的触角黏住并拴在基质上。",
+     "text_en": "According to Challita et al. (2026), the <i>Nasutitermes</i> soldier secretion is drawn into a filament in the air that coils at 250-3000 Hz, travels at 0.03-0.24 m/s and may extend about three body lengths; after deposition its apparent extensional viscosity rises 8-80 fold, forming a persistent glue that entangles the antennae of predatory ants and tethers them to the substrate.",
+     "text_es": "Según Challita et al. (2026), la secreción de los soldados de <i>Nasutitermes</i> se estira en el aire formando un filamento que se enrolla a 250-3000 Hz, avanza a 0,03-0,24 m/s y puede extenderse unas tres longitudes corporales; tras depositarse, su viscosidad extensional aparente aumenta de 8 a 80 veces y forma un adhesivo persistente que enreda las antenas de las hormigas depredadoras y las fija al sustrato.",
+     "src": [
+      "S0441"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -96,6 +127,11 @@
    "id": "S0308",
    "citation": "Seevers, C. H. 1960. New Termitophilous Staphylinidae of Zoogeographic Significance (Coleoptera)1. Annals of the Entomological Society of America.",
    "doi": "10.1093/aesa/53.6.825"
+  },
+  {
+   "id": "S0441",
+   "citation": "Challita, E. J.; Ames, D. C.; Harrison, J. S.; McDonald, C.; Rohilla, P.; Sehgal, P.; Nickle, D. A.; Mueller, J.; Bhamla, S. 2026. Viscoelastic liquid lassos extend the defensive reach of termite soldiers. bioRxiv 预印本（未经同行评审）。",
+   "url": "https://doi.org/10.64898/2026.10.27.762288"
   }
  ]
 }

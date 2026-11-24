@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-24",
  "sections": [
   {
    "heading": "属的建立与中国记录",
@@ -16,6 +16,51 @@
    ],
    "heading_en": "Establishment of the genus and records from China",
    "heading_es": "Establecimiento del género y registros chinos"
+  },
+  {
+   "heading": "越南北部的新种",
+   "heading_en": "A new species from northern Vietnam",
+   "heading_es": "Una nueva especie del norte de Vietnam",
+   "paragraphs": [
+    {
+     "text": "根据 Belyaeva（2004）研究，古白蚁属（<i>Archotermopsis</i>）在越南北部新增 1 种，标本采自沙坝（Sa Pa）东南 5 km、海拔 1700–1850 m 的壳斗科（Fagaceae）树桩，采集时间为 1996 年 12 月至 1997 年 1 月；类型系列含 8 头成虫（其中 4 头雄性，含正模）、11 头兵蚁、3 头若虫、22 头拟工蚁与 8 头幼蚁，存莫斯科大学昆虫学教研室。",
+     "text_en": "According to Belyaeva (2004), one species is added to <i>Archotermopsis</i> from the Hoang Lien Son range of northern Vietnam; the specimens were taken from Fagaceae stumps 5 km southeast of Sa Pa at 1700-1850 m, in December 1996 and January 1997. The type series comprises 8 adults (4 males, including the holotype), 11 soldiers, 3 nymphs, 22 pseudergates and 8 larvae, deposited in the Department of Entomology of Moscow University.",
+     "text_es": "Según Belyaeva (2004), se añade una especie a <i>Archotermopsis</i> procedente de la cordillera de Hoang Lien Son, en el norte de Vietnam; los ejemplares se obtuvieron de tocones de Fagaceae a 5 km al sureste de Sa Pa, entre 1700 y 1850 m, en diciembre de 1996 y enero de 1997. La serie tipo comprende 8 adultos (4 machos, incluido el holotipo), 11 soldados, 3 ninfas, 22 pseudoergates y 8 larvas, depositados en el Departamento de Entomología de la Universidad de Moscú.",
+     "src": [
+      "S0463"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "属内三种的兵蚁比较",
+   "heading_en": "Comparison of the soldiers of the three species",
+   "heading_es": "Comparación de los soldados de las tres especies",
+   "paragraphs": [
+    {
+     "text": "根据 Belyaeva（2004）研究，古白蚁属（<i>Archotermopsis</i>）内三种兵蚁的头形可以区分：罗夫顿古白蚁（<i>Archotermopsis wroughtoni</i>）的头明显三叶状、向前收窄，<i>Archotermopsis deodarae</i> 的头中部向前胸背板方向拉长、前胸背板六边形；新种的头方形、两侧平行而不前收，前胸背板卵形，体型与上颚接近罗夫顿古白蚁（<i>Archotermopsis wroughtoni</i>），头形近 <i>Archotermopsis deodarae</i>。",
+     "text_en": "According to Belyaeva (2004), the soldiers of the three <i>Archotermopsis</i> species differ in head shape: <i>Archotermopsis wroughtoni</i> has a distinctly trilobed head that narrows anteriorly, <i>Archotermopsis deodarae</i> has a head elongated mid-dorsally toward the pronotum and a hexagonal pronotum, while the new species has a quadrate head with parallel sides that does not narrow anteriorly and an oval pronotum; its body size and mandibles resemble <i>Archotermopsis wroughtoni</i> and its head shape resembles <i>Archotermopsis deodarae</i>.",
+     "text_es": "Según Belyaeva (2004), los soldados de las tres especies de <i>Archotermopsis</i> difieren en la forma de la cabeza: <i>Archotermopsis wroughtoni</i> tiene una cabeza claramente trilobulada que se estrecha hacia delante, <i>Archotermopsis deodarae</i> tiene la cabeza alargada en su parte media hacia el pronoto y un pronoto hexagonal, mientras que la nueva especie presenta una cabeza cuadrada de lados paralelos que no se estrecha hacia delante y un pronoto oval; su tamaño corporal y sus mandíbulas recuerdan a <i>Archotermopsis wroughtoni</i> y la forma de la cabeza a <i>Archotermopsis deodarae</i>.",
+     "src": [
+      "S0463"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "当时的科级归属",
+   "heading_en": "Family placement at the time of description",
+   "heading_es": "Ubicación familiar en el momento de la descripción",
+   "paragraphs": [
+    {
+     "text": "根据 Belyaeva（2004）研究，该新种发表时被置于草白蚁科（<i>Hodotermitidae</i>）原白蚁亚科（<i>Termopsinae</i>）；本站现按 2022 年以来的处理把它归入古白蚁科（<i>Archotermopsidae</i>）。",
+     "text_en": "According to Belyaeva (2004), the new species was placed in the Hodotermitidae, subfamily Termopsinae, at the time of description; following the classification adopted since 2022, this site places it in the Archotermopsidae.",
+     "text_es": "Según Belyaeva (2004), la nueva especie se situó en el momento de su descripción en Hodotermitidae, subfamilia Termopsinae; siguiendo la clasificación adoptada desde 2022, este sitio la incluye en Archotermopsidae.",
+     "src": [
+      "S0463"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -27,6 +72,10 @@
    "id": "S0112",
    "citation": "GBIF occurrence search: Archotermopsis kuznetsovi and Archotermopsis wroughtoni (country facet), accessed 2026-11-07. https://api.gbif.org/v1/occurrence/search?taxonKey=9660505&facet=country&facetLimit=30&limit=0",
    "url": "https://api.gbif.org/v1/occurrence/search?taxonKey=9660505&facet=country&facetLimit=30&limit=0"
+  },
+  {
+   "id": "S0463",
+   "citation": "Беляева, Н. В. 2004. Новый вид термитов рода Archotermopsis Desneux из Северного Вьетнама (Isoptera, Hodotermitidae, Termopsinae). Энтомологическое обозрение 83(2): 369–377."
   }
  ]
 }

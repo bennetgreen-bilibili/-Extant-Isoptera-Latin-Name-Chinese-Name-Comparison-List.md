@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-24",
  "sections": [
   {
    "heading": "多生殖蚁群体的来源与亲缘",
@@ -31,6 +31,29 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "巢的外形与内部结构",
+   "heading_en": "External form and internal structure of the nest",
+   "heading_es": "Forma externa y estructura interna del nido",
+   "paragraphs": [
+    {
+     "text": "根据 Thorne（1980）研究，具角象白蚁（<i>Nasutitermes corniger</i>）的巢外表深褐、密布小瘤突，小巢近球形（直径不超过 20 cm）、大巢椭球形；在巴拿马巴罗科罗拉多岛测量的 102 个巢中，最大者 68×46×34 cm、重 28.0 kg。",
+     "text_en": "According to Thorne (1980), nests of <i>Nasutitermes corniger</i> are dark brown outside and densely covered with small tubercles, small nests being nearly spherical (up to 20 cm in diameter) and large ones ellipsoidal; among the 102 nests measured on Barro Colorado Island, Panama, the largest was 68×46×34 cm and weighed 28.0 kg.",
+     "text_es": "Según Thorne (1980), los nidos de <i>Nasutitermes corniger</i> son de color pardo oscuro en el exterior y están densamente cubiertos de pequeños tubérculos; los nidos pequeños son casi esféricos (hasta 20 cm de diámetro) y los grandes elipsoidales; entre los 102 nidos medidos en la isla Barro Colorado (Panamá), el mayor medía 68×46×34 cm y pesaba 28,0 kg.",
+     "src": [
+      "S0461"
+     ]
+    },
+    {
+     "text": "根据 Thorne（1980）研究，具角象白蚁（<i>Nasutitermes corniger</i>）巢内全为深褐色纸板状巢材，王台最大宽 1.5–8.0 cm、高 0.6–0.9 cm，周围厚巢材向外延伸 2–20 cm，小巢中王台壁仅 1–2 cm 厚；巢内通道高度多不超过 0.7 cm。",
+     "text_en": "According to Thorne (1980), the interior of a <i>Nasutitermes corniger</i> nest is made entirely of dark brown carton; the royal cell is at most 1.5-8.0 cm wide and 0.6-0.9 cm high, with thick carton extending 2-20 cm around it, while in small nests its walls are only 1-2 cm thick; most galleries in the nest are no more than 0.7 cm high.",
+     "text_es": "Según Thorne (1980), el interior del nido de <i>Nasutitermes corniger</i> está hecho enteramente de cartón pardo oscuro; la cámara real mide como máximo 1,5-8,0 cm de ancho y 0,6-0,9 cm de alto, con cartón grueso que se extiende 2-20 cm a su alrededor, mientras que en los nidos pequeños sus paredes tienen solo 1-2 cm de espesor; la mayoría de las galerías no superan los 0,7 cm de altura.",
+     "src": [
+      "S0461"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -38,6 +61,11 @@
    "id": "S0370",
    "citation": "Atkinson, L.; Adams, E. S. 1997. The origins and relatedness of multiple reproductives in colonies of the termite Nasutitermes corniger. Proceedings of the Royal Society B.",
    "url": "https://doi.org/10.1098/rspb.1997.0156"
+  },
+  {
+   "id": "S0461",
+   "citation": "Thorne, B. L. 1980. Differences in nest architecture between the Neotropical arboreal termites Nasutitermes corniger and Nasutitermes ephratae (Isoptera: Termitidae). Psyche 87(3–4): 235–243.",
+   "url": "https://doi.org/10.1155/1980/12305"
   }
  ]
 }

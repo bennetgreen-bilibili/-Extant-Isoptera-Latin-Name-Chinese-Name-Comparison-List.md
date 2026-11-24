@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-24",
  "sections": [
   {
    "heading": "天然木材偏好",
@@ -30,6 +30,44 @@
      "text_es": "En el estudio de Mee et al. (2019), <i>Paraneotermes simplicicornis</i> se distribuye por el suroeste de Norteamérica en la familia Kalotermitidae y alberga en su intestino al flagelado simbiótico obligado <i>Hoplonympha natator</i>; los análisis de máxima verosimilitud y bayesianos de 18S ARNr muestran que <i>Hoplonympha natator</i> forma un clado con la otra especie de <i>Hoplonympha</i> que vive en <i>Hodotermopsis sjostedti</i>, separadas por un nodo profundo que hace improbable una transferencia reciente del simbionte; la distribución podría explicarse por transferencia antigua o por herencia vertical estricta con pérdida diferencial en otros hospedadores. (Según el resumen.)"
     }
    ]
+  },
+  {
+   "heading": "地下生活与分布",
+   "heading_en": "Subterranean habit and distribution",
+   "heading_es": "Hábitat subterráneo y distribución",
+   "paragraphs": [
+    {
+     "text": "根据 Nutting（1966）研究，简角近新白蚁（<i>Paraneotermes simplicicornis</i>）是木白蚁科（<i>Kalotermitidae</i>）中的一个例外：迄今未发现其生殖中心，营基本地下生活；分布自美国南加州、下加利福尼亚北部经内华达南部、得克萨斯西南至墨西哥锡那罗亚北部，侵害干谷与峡谷中潮湿的木材。",
+     "text_en": "According to Nutting (1966), <i>Paraneotermes simplicicornis</i> is exceptional among the Kalotermitidae: no reproductive centre has ever been found and the species is fundamentally subterranean, ranging from southern California and northern Baja California through southern Nevada and southwestern Texas to northern Sinaloa, Mexico, where it attacks moist wood in washes and canyons.",
+     "text_es": "Según Nutting (1966), <i>Paraneotermes simplicicornis</i> es una excepción entre los Kalotermitidae: nunca se ha encontrado su centro reproductivo y la especie es fundamentalmente subterránea; se distribuye desde el sur de California y el norte de Baja California por el sur de Nevada y el suroeste de Texas hasta el norte de Sinaloa (México), donde ataca madera húmeda en ramblas y cañones.",
+     "src": [
+      "S0395"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "亚巢与有翅成虫的集中发育",
+   "heading_en": "Subcolonies and the synchronized maturation of alates",
+   "heading_es": "Subcolonias y maduración sincronizada de los alados",
+   "paragraphs": [
+    {
+     "text": "根据 Nutting（1966）研究，亚利桑那图森北部的观察点在 7 年内记录到 78 次婚飞；19 个亚巢样本显示亚成虫若虫存在于 8 月 30 日至次年 5 月 20 日，1961 年 5 月 20 日取出的一个亚巢含 39 头兵蚁与 760 头若虫，6 月 2–15 日全部发育为 130 头有翅成虫；同年 6 月 14 日另一亚巢含 104 头兵蚁、至少 1100 头若虫与 190 头有翅成虫，该地当年首次婚飞见于 7 月 5 日。",
+     "text_en": "According to Nutting (1966), 78 flights were recorded over seven years at a site in north-central Tucson, Arizona; samples from 19 subcolonies showed subimaginal nymphs to be present between 30 August and 20 May. A subcolony taken on 20 May 1961 contained 39 soldiers and 760 nymphs, all of which developed into 130 alates between 2 and 15 June; another subcolony found on 14 June 1961 contained 104 soldiers, at least 1,100 nymphs and 190 alates, and the first flight of that year was seen on 5 July.",
+     "text_es": "Según Nutting (1966), se registraron 78 vuelos en siete años en un sitio del centro-norte de Tucson (Arizona); las muestras de 19 subcolonias mostraron ninfas subimaginales presentes entre el 30 de agosto y el 20 de mayo. Una subcolonia recogida el 20 de mayo de 1961 contenía 39 soldados y 760 ninfas, que entre el 2 y el 15 de junio se transformaron en 130 alados; otra subcolonia hallada el 14 de junio de 1961 contenía 104 soldados, al menos 1.100 ninfas y 190 alados, y el primer vuelo de ese año se observó el 5 de julio.",
+     "src": [
+      "S0395"
+     ]
+    },
+    {
+     "text": "根据 Nutting（1966）研究，简角近新白蚁（<i>Paraneotermes simplicicornis</i>）的有翅成虫在约 3 周内集中完成发育，作者推测这与 5–6 月晴热天气下土壤强烈升温有关，该地月均气温由 4 月的 18.1 °C 升至 7 月的 30.1 °C。",
+     "text_en": "According to Nutting (1966), the alates of <i>Paraneotermes simplicicornis</i> mature within about three weeks, which the author attributes to the intense heating of the soil during the clear, dry months of May and June, when mean monthly air temperature at the site rises from 18.1 °C in April to 30.1 °C in July.",
+     "text_es": "Según Nutting (1966), los alados de <i>Paraneotermes simplicicornis</i> maduran en unas tres semanas, lo que el autor atribuye al intenso calentamiento del suelo durante los meses claros y secos de mayo y junio, cuando la temperatura media mensual del aire en el sitio pasa de 18,1 °C en abril a 30,1 °C en julio.",
+     "src": [
+      "S0395"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -42,6 +80,11 @@
    "id": "S0347",
    "citation": "Mee, E. D.; Gaylor, M. G.; Jasso-Selles, D. E.; Mizumoto, N.; Gile, G. H. 2019. Molecular Phylogenetic Position of Hoplonympha natator (Trichonymphea, Parabasalia): Horizontal Symbiont Transfer or Differential Loss? Journal of Eukaryotic Microbiology.",
    "doi": "10.1111/jeu.12765"
+  },
+  {
+   "id": "S0395",
+   "citation": "Nutting, W. L. 1966. Colonizing flights and associated activities of termites. I. The desert damp-wood termite Paraneotermes simplicicornis (Kalotermitidae). Psyche 73: 131–149.",
+   "url": "https://doi.org/10.1155/1966/59080"
   }
  ]
 }

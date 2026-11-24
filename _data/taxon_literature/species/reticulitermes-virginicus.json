@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-24",
  "sections": [
   {
    "heading": "肠道簇虫的鉴定与接合",
@@ -15,6 +15,36 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "雌虫单独建群的可能",
+   "heading_en": "Possible colony founding by females alone",
+   "heading_es": "Posible fundación de colonias por hembras solas",
+   "paragraphs": [
+    {
+     "text": "根据 Howard 等（1981）研究，弗吉尼亚散白蚁（<i>Reticulitermes virginicus</i>）的雌性有翅成虫单独配对时，生殖潜力与正常的雌雄配对相当，作者据此认为该种可能由雌虫单独孤雌建立新群体；但所有雌虫均未解剖验证是否已无精子，所用有翅成虫都在正常婚飞期前取自倒木、翅完整，作者推测其在巢内无法交配。",
+     "text_en": "According to Howard et al. (1981), female alates of <i>Reticulitermes virginicus</i> paired alone showed a reproductive potential equal to that of normal male-female pairs, which led the authors to suggest that females alone might found colonies parthenogenetically in this species; no female was dissected to confirm the absence of sperm, but all alates were taken from logs before the normal flight period with wings intact, which the authors consider would have prevented copulation inside the galleries.",
+     "text_es": "Según Howard et al. (1981), las aladas hembra de <i>Reticulitermes virginicus</i> emparejadas solas mostraron un potencial reproductivo igual al de las parejas normales de macho y hembra, lo que llevó a los autores a sugerir que las hembras solas podrían fundar colonias por partenogénesis en esta especie; no se disecó ninguna hembra para confirmar la ausencia de espermatozoides, pero todos los alados se tomaron de troncos antes del período normal de vuelo y con las alas intactas, lo que según los autores habría impedido la cópula dentro de las galerías.",
+     "src": [
+      "S0464"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "与北美散白蚁的杂交",
+   "heading_en": "Hybridisation with Reticulitermes flavipes",
+   "heading_es": "Hibridación con Reticulitermes flavipes",
+   "paragraphs": [
+    {
+     "text": "根据 Howard 等（1981）研究，弗吉尼亚散白蚁（<i>Reticulitermes virginicus</i>）雄虫与北美散白蚁（<i>Reticulitermes flavipes</i>）雌虫在实验室中容易交配，后代数量与同种配对相当，且这些杂交幼虫同时带有双亲类型的肠道原生生物，说明它们与双亲都有肛饲往来；两种的婚飞期相隔约 1 个月，但密西西比州海湾港的未发表记录显示北美散白蚁几乎每月都有婚飞，种间配对在理论上仍有可能。",
+     "text_en": "According to Howard et al. (1981), <i>Reticulitermes virginicus</i> males mate readily with <i>Reticulitermes flavipes</i> females in the laboratory and produce progeny in numbers comparable to conspecific pairs, and the hybrid larvae carried gut protozoa of both parental types, indicating proctodeal feeding with both parents. The flight periods of the two species are about one month apart, but unpublished records from Gulfport, Mississippi, show that <i>Reticulitermes flavipes</i> may fly in almost every month of the year, so interspecific pairing remains theoretically possible.",
+     "text_es": "Según Howard et al. (1981), los machos de <i>Reticulitermes virginicus</i> se aparean fácilmente en laboratorio con hembras de <i>Reticulitermes flavipes</i> y producen una descendencia comparable en número a la de parejas coespecíficas, y las larvas híbridas portaban protozoos intestinales de ambos tipos parentales, lo que indica alimentación proctodeal con los dos progenitores. Los períodos de vuelo de ambas especies están separados por cerca de un mes, pero registros inéditos de Gulfport (Misisipi) muestran que <i>Reticulitermes flavipes</i> puede volar casi todos los meses del año, de modo que el apareamiento interespecífico sigue siendo teóricamente posible.",
+     "src": [
+      "S0464"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -22,6 +52,11 @@
    "id": "S0359",
    "citation": "Hall, D. W.; Hostettler, N. 1993. Septate gregarines from Reticulitermes flavipes and Reticulitermes virginicus (Isoptera: Rhinotermitidae). Journal of Eukaryotic Microbiology.",
    "url": "https://doi.org/10.1111/j.1550-7408.1993.tb04878.x"
+  },
+  {
+   "id": "S0464",
+   "citation": "Howard, R. W.; Mallette, E. J.; Haverty, M. I.; Smythe, R. V. 1981. Laboratory evaluation of within-species, between-species, and parthenogenetic reproduction in Reticulitermes flavipes and Reticulitermes virginicus. Psyche 88: 75–87.",
+   "url": "https://doi.org/10.1155/1981/36030"
   }
  ]
 }

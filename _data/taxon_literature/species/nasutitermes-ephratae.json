@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-24",
  "sections": [
   {
    "heading": "建巢初期的产卵与品级发育",
@@ -23,6 +23,37 @@
      "text_es": "Según el resumen, el mismo estudio muestra que el desarrollo embrionario dura 22-23 días a 30-32 °C, unos 25-26 días a 28 °C, unos 30-31 días a 26 °C y unos 42 días a 24 °C; los primeros presoldados aparecen a los 14 días aproximadamente a 29 °C y a los 21 días a 24 °C, y mudan a soldados en 7-8 días con escasa influencia de la temperatura; las primeras obreras de cabeza oscura completan el oscurecimiento entre 2 días (32 °C) y 13 días (24 °C) después de la aparición de los primeros presoldados, de modo que la casta de obreras completa su desarrollo unos días antes que la de soldados."
     }
    ]
+  },
+  {
+   "heading": "巢壁的分层与表被",
+   "heading_en": "Layering of the nest wall and the superficial envelope",
+   "heading_es": "Estratificación de la pared del nido y envoltura superficial",
+   "paragraphs": [
+    {
+     "text": "根据 Thorne（1980）研究，埃夫拉塔象白蚁（<i>Nasutitermes ephratae</i>）的巢外表浅褐、光滑呈革质，轮廓比具角象白蚁（<i>Nasutitermes corniger</i>）更均整；除直径小于 15 cm 的小巢外，薄内层之外裹有一层 4.0–6.5 cm 厚的极硬巢材带，其中通道直径不超过 0.5 cm。",
+     "text_en": "According to Thorne (1980), nests of <i>Nasutitermes ephratae</i> are pale brown, smooth and leathery outside and more evenly contoured than those of <i>Nasutitermes corniger</i>; except in nests smaller than 15 cm in diameter, a very hard band of carton 4.0-6.5 cm thick surrounds the thin inner layer, and the galleries within it are no more than 0.5 cm across.",
+     "text_es": "Según Thorne (1980), los nidos de <i>Nasutitermes ephratae</i> son de color pardo claro, lisos y coriáceos en el exterior y de contorno más regular que los de <i>Nasutitermes corniger</i>; salvo en nidos de menos de 15 cm de diámetro, una banda muy dura de cartón de 4,0-6,5 cm de espesor rodea la capa interna delgada, y las galerías que contiene no superan los 0,5 cm de diámetro.",
+     "src": [
+      "S0461"
+     ]
+    },
+    {
+     "text": "根据 Thorne（1980）研究，埃夫拉塔象白蚁（<i>Nasutitermes ephratae</i>）巢的最外层是可以整片揭下的表被，表面密布微孔，作者推测与气体交换或调温有关；王台外有 1.0–1.6 cm 厚的硬壳，悬在薄巢材构成的大通道之间。其单位体积巢材的重量显著低于具角象白蚁（<i>Nasutitermes corniger</i>）（p<0.01，巴拿马巴罗科罗拉多岛 29 个巢）。",
+     "text_en": "According to Thorne (1980), the outermost layer of a <i>Nasutitermes ephratae</i> nest is an envelope that can be peeled off in one piece and is riddled with micropores, which the author suggests may serve gas exchange or thermoregulation; the royal cell has a hard shell 1.0-1.6 cm thick and hangs among large galleries built of thin carton. Its carton weighs significantly less per unit volume than that of <i>Nasutitermes corniger</i> (p<0.01; 29 nests on Barro Colorado Island, Panama).",
+     "text_es": "Según Thorne (1980), la capa más externa del nido de <i>Nasutitermes ephratae</i> es una envoltura que puede desprenderse entera y está llena de microporos, que la autora relaciona con el intercambio de gases o la termorregulación; la cámara real tiene una envuelta dura de 1,0-1,6 cm de espesor y cuelga entre grandes galerías de cartón fino. Su cartón pesa significativamente menos por unidad de volumen que el de <i>Nasutitermes corniger</i> (p<0,01; 29 nidos en la isla Barro Colorado, Panamá).",
+     "src": [
+      "S0461"
+     ]
+    },
+    {
+     "text": "根据 Thorne（1980）研究，两种象白蚁的有翅成虫可凭翅色与单眼位置区分：具角象白蚁（<i>Nasutitermes corniger</i>）的翅黑色，单眼与复眼相距约 2 个单眼直径；埃夫拉塔象白蚁（<i>Nasutitermes ephratae</i>）的翅黄褐色，单眼紧贴复眼。浸入酒精后埃夫拉塔象白蚁（<i>Nasutitermes ephratae</i>）兵蚁的头变为红褐色。",
+     "text_en": "According to Thorne (1980), alates of the two <i>Nasutitermes</i> species can be separated by wing colour and ocellus position: <i>Nasutitermes corniger</i> has black wings and an ocellus about two ocellar diameters from the compound eye, whereas <i>Nasutitermes ephratae</i> has yellowish brown wings and an ocellus adjacent to the eye. In alcohol the soldier head of <i>Nasutitermes ephratae</i> turns reddish brown.",
+     "text_es": "Según Thorne (1980), los alados de las dos especies de <i>Nasutitermes</i> se distinguen por el color de las alas y la posición del ocelo: <i>Nasutitermes corniger</i> tiene alas negras y un ocelo situado a unos dos diámetros ocelares del ojo compuesto, mientras que <i>Nasutitermes ephratae</i> tiene alas de color pardo amarillento y el ocelo junto al ojo. En alcohol, la cabeza del soldado de <i>Nasutitermes ephratae</i> se vuelve de color pardo rojizo.",
+     "src": [
+      "S0461"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -30,6 +61,11 @@
    "id": "S0242",
    "citation": "Becker, G. 1961. Beobachtungen und Versuche über den Beginn der Kolonie-Entwicklung von Nasutitermes ephratae Holmgren (Isoptera). Zeitschrift für Angewandte Entomologie.",
    "doi": "10.1111/j.1439-0418.1961.tb02856.x"
+  },
+  {
+   "id": "S0461",
+   "citation": "Thorne, B. L. 1980. Differences in nest architecture between the Neotropical arboreal termites Nasutitermes corniger and Nasutitermes ephratae (Isoptera: Termitidae). Psyche 87(3–4): 235–243.",
+   "url": "https://doi.org/10.1155/1980/12305"
   }
  ]
 }

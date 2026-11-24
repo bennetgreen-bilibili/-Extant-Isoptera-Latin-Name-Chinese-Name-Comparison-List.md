@@ -3,7 +3,7 @@
     "version": 1,
     "count": 765,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-23T22:55:44+08:00",
+    "updated": "2026-11-24T23:36:05+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -24579,7 +24579,7 @@
       "file_path": "_unpublished/文库/10.1206-633.1",
       "chars": 128058,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-24T23:36:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.1206-633.1（48 页，128058 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1206-633.1",
@@ -24606,8 +24606,16 @@
       "publisher": "American Museum Novitates",
       "lang": "en",
       "doi": "10.1206/633.1",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/genus/coptotermes.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The most diverse and best-preserved paleofauna of the higher termites heretofore known, all\n    found in Miocene amber of the Dominican Republic, is described. The imago of Coptotermes\n     priscus Emerson is redescribed, and the soldier of C. priscus, the first known fossil soldier of this\n     genus, is described. The fauna includes the following 29 new species, all in existing genera, with\n    Krishna and Grimaldi as authors of each: in the Rhinotermitidae, two new species based on\n    imagoes of each—Coptotermes hirsutus and C. paleodominicanus; in the Termitidae, 23 new species\n    based on imagoes—Amitermes lucidus, Anoplotermes bohio, A. cacique, A. carib, A. maboya, A.\n     naboria, A. nitaino, A. quisqueya, A. taino, Atlantitermes antillea, A. caribea, A. magnoculus,\n    Microcerotermes insulanus, M. setosus, Nasutitermes amplioculatus, N. incisus, N. magnocellus, N.\n     medioculatus, N. pilosus, N. seminudus, Subulitermes hispaniola, S. insularis, and Termes primitivus;",
+          "locator": "第 19–28 行 / 0001-0048.txt",
+          "note": "摘要：本文描述多米尼加琥珀中 29 个新种，并重描述 Coptotermes priscus 成虫、首次描述其兵蚁（该属首个化石兵蚁）"
+        }
+      ],
       "id": "S0382",
       "url": "https://bioone.org/journals/american-museum-novitates/volume-2009/issue-3640/633.1/Diverse-Rhinotermitidae-and-Termitidae-Isoptera-in-Dominican-Amber/10.1206/633.1.pdf",
       "license": "cc-by-nc-sa"
@@ -25206,7 +25214,7 @@
       "file_path": "_unpublished/文库/10.1155-1966-59080",
       "chars": 51127,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-24T23:36:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.1155-1966-59080（20 页，51127 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1155-1966-59080",
@@ -25232,8 +25240,16 @@
       "publisher": "Psyche A Journal of Entomology",
       "lang": "en",
       "doi": "10.1155/1966/59080",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/paraneotermes-simplicicornis.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Development    of    alates   and    pre-flight    behavior.  —  Light\n (’37)  termed  the  large  aggregations  of nymphs  and  soldiers  of  this\nspecies  “temporary  outposts”  or  “foraging  subcolonies”  ; no  repro-\nductives  of any  form, eggs  or  small nymphs have  yet been found  in\nthem.  Samples  from  19  subcolonies  collected  in  or  within  25  miles\nof  Tucson  have  revealed  subimaginal nymphs  (with  large  wing  pads)\nto  be  present  between  August  30  (1962)  and May  2O1  (1961). On\nthe  latter  date an  entire  subcolony was removed from a large  timber\nbeneath  the  steps  of a farm  building and  set up  in a laboratory  ob-\n            servation nest. It contained 39 soldiers and 760 nymphs, many of\nthem  pre-alates. Between  June  2 and  15,  all  of  these had  developed",
+          "locator": "第 106–116 行 / 0001-0020.txt",
+          "note": "亚巢（temporary outposts）无生殖型、卵或小若虫；1961-05-20 一亚巢含 39 头兵蚁与 760 头若虫"
+        }
+      ],
       "id": "S0395",
       "url": "https://downloads.hindawi.com/journals/psyche/1966/059080.pdf",
       "license": "public-domain"
@@ -25423,7 +25439,7 @@
       "file_path": "_unpublished/文库/10.1155-1966-20139",
       "chars": 41328,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-24T23:36:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.1155-1966-20139（16 页，41328 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1155-1966-20139",
@@ -25449,8 +25465,16 @@
       "publisher": "Psyche A Journal of Entomology",
       "lang": "ceb",
       "doi": "10.1155/1966/20139",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/pterotermes-occidentis.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The colony staged 40 separate  flights during the 43 days beginning\nJuly  22  and  ending  Sept.   2.  The  smallest   flight  consisted  of  one\nalate,  the  largest  199,  and  roughly  equal  numbers  of  males  and\nfemales  were  trapped.  Twenty-five  alates  were  later  found  to  have\nescaped  the  trap and  established  themselves  in  cells  within  the same\ntree  from  which  they  flew.  These  plus  those  from  the  trap  gave  a\ntotal  of  1688  alates  produced  by  the  colony.  Nearly   six  months\nlater  the  entire  colony  was  removed  from  the  tree  and  found  to\ncontain  4055  nymphs  (Table   2,  No.   3).  Assuming  that  there  were",
+          "locator": "第 306–314 行 / 0001-0016.txt",
+          "note": "1965 年 7 月 22 日至 9 月 2 日 43 天内 40 批婚飞，1–199 头，合计 1688 头有翅成虫；半年后该群体有 4055 头若虫"
+        }
+      ],
       "id": "S0400",
       "url": "https://downloads.hindawi.com/journals/psyche/1966/020139.pdf",
       "license": "public-domain"
@@ -27501,7 +27525,7 @@
       "file_path": "_unpublished/文库/Viscoelastic-liquid-lassos-extend-the-defensive-reach-of-termite-soldiers",
       "chars": 90413,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-24T23:36:05+08:00",
       "notes": "全文存于 _unpublished/文库/Viscoelastic-liquid-lassos-extend-the-defensive-reach-of-termite-soldiers（13 页，90413 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "Viscoelastic-liquid-lassos-extend-the-defensive-reach-of-termite-soldiers",
@@ -27535,8 +27559,21 @@
       "publisher": "bioRxiv (preprint)",
       "lang": "en",
       "doi": "10.64898/2026.10.27.762288",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/genus/nasutitermes.json"
+      ],
+      "evidence": [
+        {
+          "quote": "15                Small animals face a severe size asymmetry when defending themselves against larger predators.\n16                 Soldiers of Nasutitermes termites overcome this constraint by ejecting tens of nanoliters of secretion\n17              through a cephalic nozzle, the nasus. High-speed imaging in the field, rheometry, micro-CT, flow\n18                simulation, behavioral assays, and scaled experiments reveal a multistage defense. A near-linear",
+          "locator": "第 23–26 行 / 0001-0013.txt",
+          "note": "摘要：兵蚁经头前端鼻状喷口喷射数十纳升分泌物，构成多阶段防御"
+        },
+        {
+          "quote": "117   strate. The jet diameter measured from high-speed im- 170  Coil diameter also increased approximately linearly with\n118  ages was dj = 35 ± 10 µm.  Across n = 11 individu- 171  nozzle–substrate distance, d = 0.26H (R2 = 0.8, inter-\n119   als, the secretion was expelled at a mean exit speed of 172  cept of order 10−5 m). These measurements support the\n120  uo = 0.32 ± 0.15 m/s and a mean per-individual peak173  interpretation that the deposited filament coils in the vis-\n121  speed of umax = 0.65 ± 0.23 m/s (mean ± SD), with 174  cous regime.\n122  an ejection duration of τ = 125 ± 52 ms (Fig. S1). Ap- 175    In the natural defensive behavior, however, the nozzle\n123  proximating the ejected filament as a cylindrical jet gives 176   is not stationary. During ejection, the soldier swept its\n124  an estimated volume per event of V– ≈πd2juoτ/4 ≈6– 177  head laterally in approximately sinusoidal arcs, scanning\n125  132 nL. This range is consistent with classical squeeze- 178  the filament across the target (Fig. 1d–f). The mean lat-",
+          "locator": "第 114–122 行 / 0001-0013.txt",
+          "note": "射流直径 35±10 µm、平均出口速度 0.32±0.15 m/s、个体峰值 0.65±0.23 m/s、持续 125±52 ms、每次约 6–132 nL（该 PDF 双栏抽取交错，字符逐字）"
+        }
+      ],
       "id": "S0441"
     },
     {
@@ -28448,7 +28485,7 @@
       "file_path": "_unpublished/文库/10.1155-1980-12305",
       "chars": 16420,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-24T23:36:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.1155-1980-12305（10 页，16420 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1155-1980-12305",
@@ -28473,8 +28510,22 @@
       "license": "public-domain",
       "doi": "10.1155/1980/12305",
       "url": "https://downloads.hindawi.com/journals/psyche/1980/012305.pdf",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/nasutitermes-corniger.json",
+        "_data/taxon_literature/species/nasutitermes-ephratae.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The dark brown surface of an N. corniger nest is coarse with small\nbumps  covering  the  entire  exterior  [Figure  la]. Nests tend  to be\nroughly  spherical when  small (diameter C20 cm), and grow more\nellipsoidal as they enlarge. (The largest N. corniger nest dissected in\nthis study was 68 X 46 X 34 cm 3  ; 28.0 kilos.) Localized additions to\f1980]                Thorne — Nasutitermes                  237",
+          "locator": "第 80–84 行 / 0001-0010.txt",
+          "note": "具角象白蚁巢外表深褐、密布小瘤突，小巢近球形，本研究最大巢 68×46×34 cm³、28.0 kg"
+        },
+        {
+          "quote": "The smooth surface covering on the outside  of an N. ephratae\n  nest encases the dense layer of carton but unlike N. corniger nests,  it\n  is not attached to the internal carton at the terminus of each gallery.\n  Rather, the surface  layer  is a  “superficial envelope”  (Noirot  1970).\n  This envelope  is  easily removed  in  large  sections. Inspection  of a\n  piece  of  the  envelope  reveals  tiny  perforations  over  the  entire\n  surface.  (Beaumont  (Dudley &  Beaumont  1889a)  noticed  small",
+          "locator": "第 163–169 行 / 0001-0010.txt",
+          "note": "埃夫拉塔象白蚁巢最外层为可整片揭下的“表被”，满布微孔"
+        }
+      ],
       "id": "S0461"
     },
     {
@@ -28485,7 +28536,7 @@
       "file_path": "_unpublished/文库/10.5962-bhl.part.1525",
       "chars": 242750,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-24T23:36:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.5962-bhl.part.1525（83 页，242750 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.5962-bhl.part.1525",
@@ -28510,8 +28561,29 @@
       "license": "cc-by-nc-sa",
       "doi": "10.5962/bhl.part.1525",
       "url": "https://doi.org/10.5962/bhl.part.1525",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/genus/macrotermes.json",
+        "_data/taxon_literature/species/macrotermes-bellicosus.json",
+        "_data/taxon_literature/species/macrotermes-michaelseni.json",
+        "_data/taxon_literature/species/macrotermes-subhyalinus.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The genus Macrotermes, including the genus Bellicositermes of some authors,  is revised for the\nEthiopian  Zoogeographical  Region.  Of  23  species  and  n  forms  or  varieties  found  in  the\nliterature, the varieties have not been retained  ; ten specific names are found to be synonymous\nand three more are dubious. Since one  variety has been given  specific status and one species\nhas  been  split  into  two,  this  leaves  12  recognized and  redescribed  species.  M.  ukuzii and\nM. mossambicus  have been  given  specific  status  (the  latter  being  a  senior synonym  of M.\nmichaelseni) , M. falciger  is another senior synonym (of M. goliath), M. natalensis has been  split\ninto M.  bellicosus and M.  natalensis, M.  subhyalinus  replaces M.  bellicosus.  Keys  are  given\nto the species  ; notes are provided on their distribution and biology.",
+          "locator": "第 114–122 行 / 0001-0083.txt",
+          "note": "修订后 12 个确认种；M. ukuzii 与 M. mossambicus 提升为种（mossambicus 为 michaelseni 的高级异名）；M. subhyalinus 取代 M. bellicosus"
+        },
+        {
+          "quote": "Smeathman   (1781)  described  the   first  known   species   of   this  genus  (Termes   belli-\ncosus).  Holmgren   (1909,  1910)  introduced  the  name  Macrotermes  as  a  subgenus   of\nTermes.    Various    generic   names   were    attributed    to   the    Ethiopian   Macrotermes\nfrom  1910  to  1926  (year  of  Sjostedt's   last   revision).  The  three  genera  recognized  by\nSjostedt,   with  22   species   altogether,  were  reduced   in   Snyder's   catalogue   (1949)   to\none   (Macrotermes},   with   23   species.   After   1949,  two  new   species  were   described\n(M.   angolensis,  M.   ivorensis)  and  two  synonymized  (M.  convexus,  M.   jeanneli]  .",
+          "locator": "第 134–140 行 / 0001-0083.txt",
+          "note": "命名史：Smeathman 1781 描述首个种，Holmgren 1909/1910 把 Macrotermes 作为 Termes 的亚属"
+        },
+        {
+          "quote": "MATERIAL\n\n  A   total   of  2,123  nest   series  from   all  parts   of   Africa  have  been  examined,  con-\n          taining each  from  one  to  sometimes  more  than  one  hundred  insects.  The  study\nstarted   with   the   material   of   the    British  Museum   (Natural    History)    (B.M.(N.H.)),\nmuch   of  which  had  been   collected  by  the  members   of  the  Termite  Research   Unit.",
+          "locator": "第 149–155 行 / 0001-0083.txt",
+          "note": "材料：检查全非洲 2,123 个巢系列"
+        }
+      ],
       "id": "S0462"
     },
     {
@@ -28522,7 +28594,7 @@
       "file_path": "_unpublished/文库/belyaeva-2004-archotermopsis-kuznetsovi",
       "chars": 16916,
       "retrieved_via": "文库（外部文本（--text））",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-24T23:31:24+08:00",
       "notes": "全文存于 _unpublished/文库/belyaeva-2004-archotermopsis-kuznetsovi（16916 字符），抽取：外部文本（--text）；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "belyaeva-2004-archotermopsis-kuznetsovi",
@@ -28548,7 +28620,10 @@
       "publisher": "Энтомологическое обозрение",
       "lang": "ru",
       "used_in": [
-        "_data/morphology_species.json"
+        "_data/morphology_species.json",
+        "_data/taxon_literature/genus/archotermopsis.json",
+        "_data/taxon_literature/species/archotermopsis-kuznetsovi.json",
+        "_data/taxon_literature/species/archotermopsis-wroughtoni.json"
       ],
       "evidence": [
         {
@@ -28582,7 +28657,7 @@
       "file_path": "_unpublished/文库/10.1155-1981-36030",
       "chars": 27838,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-24T23:36:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.1155-1981-36030（14 页，27838 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1155-1981-36030",
@@ -28603,8 +28678,32 @@
       },
       "year": 1981,
       "doi": "10.1155/1981/36030",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/reticulitermes-flavipes.json",
+        "_data/taxon_literature/species/reticulitermes-virginicus.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Unflown   alates  were   collected  from   fallen  logs   in  the  De  Soto\nNational   Forest   in   southern   Mississippi.   R.   flavipes   alates   were\ncollected  from  mid-March   to   early   April   of  1968,  1969,  and  1970\n(one  source  colony  each   year)  and  from  mid-September   to   early\nOctober  of  1967,  1968,  and  1969  (one  source  colony  each  year).  R.\nvirginicus   alates  were   collected   in  mid- April   to  mid-May   of  1968,\n1969,  and   1970   (one   source   colony   each   year).   At   least   500\nalates/ source   colony  were   anesthetized   with  CO2   (200   ml/ min),\nsexed,  placed   in  separate   petri   dishes   lined  with  moistened   filter\npaper,  and  transferred  to  a dark  incubator  at  25  +1°C  for  less  than\none  week.  R.  flavipes  alates  to  be  paired  with  R.  virginicus  alates\nwere  held  in  their  source wood  for up  to 30  days  in an  incubator  at\n15  +1°C   until   R.   virginicus   alates  were   available.   All   alates  were\nallowed   to   lose   their  wings   naturally  before   pairing.",
+          "locator": "第 60–73 行 / 0001-0014.txt",
+          "note": "未飞有翅成虫采自密西西比 De Soto 国家森林倒木；北美散白蚁 3 月中–4 月初与 9 月中–10 月初两季，弗吉尼亚散白蚁 4 月中–5 月中"
+        },
+        {
+          "quote": "R.   flavipes  male  + R.   virginicus  female:  Ten   larvae  beyond  the\n third    instar   from   four   experimental   units   were   examined   for\n protozoa.   Seven   larvae   contained   protozoa,   and   of   these,   two\n contained  protozoa   typical   of   R.   flavipes,  two   contained  protozoa\n typical  of  R.  virginicus,  and  the  remaining  three  contained  mixtures\n of  protozoa   characteristics   of  both   termite   species.",
+          "locator": "第 314–319 行 / 0001-0014.txt",
+          "note": "北美散白蚁雄 × 弗吉尼亚散白蚁雌：4 个单元 10 头幼虫，7 头含原生生物（2/2/3）"
+        },
+        {
+          "quote": "R.   virginicus  male  + R.   flavipes   female:  Seventeen   larvae  from\n five   experimental   units   were   examined   for   protozoa.    All   larvae\n contained   protozoa.   Three   contained   protozoa   typical   of   R.    fla-\n          vipes, five  contained  protozoa  typical  of  R.  virginicus,  and  the\n remaining   nine   contained   mixtures   of   protozoa   typical   of   both\n termite   species.",
+          "locator": "第 320–325 行 / 0001-0014.txt",
+          "note": "弗吉尼亚散白蚁雄 × 北美散白蚁雌：5 个单元 17 头幼虫全部含原生生物（3/5/9）"
+        },
+        {
+          "quote": "We  have  also  found  that  R.  virginicus  males  readily  mate  with  R.\nflavipes   females    in   the    laboratory,   producing   apparently    viable\n progeny  at  rates  comparable  to  those  from  same-species  pairings.  In\n contrast,  the  pairing  of  R.  flavipes  males  with  R.  virginicus  females\n results   in   nuptial   cell   construction,  but   only  a very  low   rate   of\n progeny  production. We  infer  from  our  data  that  the  progeny  of  the\n R.   virginicus   male   +  R.   flavipes   female   combinations   are   true\n interspecific   hybrids    rather   than   parthenogenetic   progeny,    since\n paired  R.  flavipes  females  laid many  eggs,  but  only one  of them  ever\n hatched.   Since  the   larvae   resulting  from  these  mixed-species  mat-",
+          "locator": "第 364–373 行 / 0001-0014.txt",
+          "note": "雄虫易与异种雌虫交配并产生可育后代；作者据双雌配对仅 1 粒卵孵化推断杂交后代为真杂种而非孤雌"
+        }
+      ],
       "id": "S0464",
       "url": "https://downloads.hindawi.com/journals/psyche/1981/036030.pdf",
       "publisher": "Cambridge Entomological Club",
@@ -28625,7 +28724,7 @@
       "file_path": "_unpublished/文库/10.1155-1988-28452",
       "chars": 32509,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-24T23:36:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.1155-1988-28452（16 页，32509 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1155-1988-28452",
@@ -28650,8 +28749,21 @@
       "license": "public-domain",
       "doi": "10.1155/1988/28452",
       "url": "https://downloads.hindawi.com/journals/psyche/1988/028452.pdf",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/heterotermes-aureus.json"
+      ],
+      "evidence": [
+        {
+          "quote": "(Haverty  et   al.,  1974).  Average  foraging  territory  for  a colony  of  H.\naureus  is estimated  to be approximately  12.5 square meters and each\ncolony   apparently  maintains  a discrete  boundary   with  other  con-\nspecific  colonies  (Haverty  et   al.,  1975). How  these  termites  achieve",
+          "locator": "第 16–19 行 / 0001-0016.txt",
+          "note": "金黄异白蚁每巢觅食领域约 12.5 m²，巢间边界分明"
+        },
+        {
+          "quote": "than  50%  of  the  workers  were   fatally  wounded.  Only  the  soldier\nmade  additional  contacts  following  a fatal  snap  while  both  the  sol-\n      dier and the worker participated  in encounters  if there was no  fatal\nsnap.  Again,   soldiers  refrained  from  further  snaps  during  contacts\nafter  a fatal  snap.  Soldiers  delivered  a fatal  snap  in  a mean  time  (±\nstandard  error)  of  37  ± 7 seconds   in  a 1.5  cm2  arena,  51  + 10\nseconds  in a 3.0 cm2 arena, 62 + 8 seconds  in a 4.5 cm2 arena, and 80\n± 13  seconds  in  a 6.0 cm2  arena  (Fig.  2b). The  percentage  of  soldier\nencounters   following  a  fatal  snap   decreased   as   the   arena   size\nincreased and was 66%  at  1.5 cm2, 58%  at  3.0 cm2, 53%  at  4.5 cm2,\nand 37%  at  6.0 cm2  (Fig.  2c). The number  of  encounters  following a\nfatal  snap  by  a soldier  was  higher  at  smaller  arena  sizes  since  the\nencounter  rate  was  higher  and  more  than  80%  of  the  fatal  snaps\nwere  delivered  by  the   third  encounter.  The   soldier  also  required\nfewer  snaps  to  deliver  a fatal  snap  as  arena  size  diminished  (Figure\n2d).",
+          "locator": "第 155–170 行 / 0001-0016.txt",
+          "note": "异巢配对中逾 50% 工蚁受致命伤；致命咬合平均耗时 37±7 s（1.5 cm²）、51±10、62±8、80±13 s（6.0 cm²）"
+        }
+      ],
       "id": "S0465"
     },
     {
@@ -28662,7 +28774,7 @@
       "file_path": "_unpublished/文库/10.1155-1977-64060",
       "chars": 27403,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-24T23:36:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.1155-1977-64060（12 页，27403 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1155-1977-64060",
@@ -28687,8 +28799,26 @@
       "license": "public-domain",
       "doi": "10.1155/1977/64060",
       "url": "https://downloads.hindawi.com/journals/psyche/1977/064060.pdf",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/hodotermes-mossambicus.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The  swarming   referred   to   in   this  paper  occurred  on   9.4.1976\naround   16.30  h (sunshine).   After  a short   dispersal   flight   of   less\nthan  100 m the  alates  landed  individually  on  the  ground,  shed  their\nwings  and   started  running  about.   [Behavioral   details   of   this   se-\n        quence have been described by Hewitt and Nel, 1969.] The MALES\nrambled  with  their  abdomens  raised  in  “calling”  position  and  their\nhuge  sternal  glands  exposed  (Fig.  1)  in  search  of  a digging  ground.\nIf  they  found  a suitable   place,  they  started  excavating  a hole  by\nflicking  dust   particles  out  with   their  legs  and  often  carrying  out\nsoil   bits  with   their  mandibles.  They  held   their  abdomens  perma-\n        nently in “calling” posture as long as they were unpaired. The un-\n         paired FEMALES, on  the  other  hand,  repeatedly  climbed on  ele-\n       vated structures, such as grass stems, apparently  for  “sniffing”  for\nthe  male’s   scent.  They   clearly  perceived  the  presence   of  a male\nfrom  a distance  of  at  least  2.5 m up-wind.  They  obviously  became",
+          "locator": "第 93–107 行 / 0001-0012.txt",
+          "note": "1976-04-09 约 16:30 婚飞，飞行 <100 m；雄虫高举腹部 calling、露出胸腹腺；雌虫可自上风 2.5 m 感知气味"
+        },
+        {
+          "quote": "excited  and  ran   slightly  zig-zag  towards  the   calling  male,  without\never  failing  to  reach  the  goal  (Fig.  2).  The  joining  of  a female  with\na digging  male  was  analyzed  from  two  film  sequences:  the  female\ntouched  the  male’s  abdomen  with  her  antennae.  On   this  stimulus\nthe  male  turned  around  through  180°  and  palpated  the  female’s\nabdomen    intensively.   With   that   stimulus,   apparently,   the   male\nterminated   calling  behavior  by  lowering  the  abdomen  and   retract-\n     ing the  sternal  gland.  Henceforth,  no  other  female  was  attracted,",
+          "locator": "第 108–115 行 / 0001-0012.txt",
+          "note": "雌虫之字奔向 calling 雄虫，触其腹部后雄转向并停止 calling"
+        },
+        {
+          "quote": "not even from  as  close  as a few cm. The  pair met  either  during  the\nmale’s  exploratory  run  or  on  the  male’s  digging   site.  In  the  latter\ncase  the  female   participated   in  excavating   behavior.   In  the   first\ncase  she  followed  him  in  loose  formation on  the  search  for  digging\nterrain.  However,  no  rigid  pattern  such  as  that  referred  to  as  “tan-\n    dem run” was  ever  observed.  In  suitable ground  the  digging  pair\ndisappeared  from  the  surface  within  minutes.   If  the  substrate  was\ntoo  hard  or   if  the  pair was  attacked  by  ants,  the male went on  in\nsearch  of  another  place,  followed  by  the  female.  In  the  postflight\nbehavior  the  male  was  always  the   attracting  and  leading  partner\nand  the  female  actively  hunted  for  him.   If  the  female  was  experi-\n           mentally removed from the pair, the male resumed calling behavior.",
+          "locator": "第 116–127 行 / 0001-0012.txt",
+          "note": "雌触雄腹后雄停止 calling、收回腺体；无 rigid tandem；地面合适数分钟内掘入；移除雌虫后雄恢复 calling"
+        }
+      ],
       "id": "S0466"
     },
     {
