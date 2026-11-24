@@ -20,7 +20,7 @@
 **待补原文清单**：`_reports/morphology-request-list.csv` 列出 127 篇 1990 年后、尚缺原文的文献，`_reports/morphology-request-emails.md` 是发给 6 位作者的索取邮件草稿。
 **数据分片架构**：`_data/` 下的 `authority_links`、`bsf_links`、`papers`、`taxon_literature`、`morphology_species`、`morphology_genera` 改为按一阶元分片（`_data/&amp;lt;数据集&amp;gt;/`），解决单文件过大与合并冲突；`_tools/data_shards.py --adopt` 可把回潮的聚合文件重新拆分，CI 与 `_tools/regen_all.sh` 按同一顺序重建。
 **站点修复**：species-authority 区块残留的 `&amp;lt;/div&amp;gt;` 导致整块空白；英文首页 `title` 与 basics 形态篇 front matter 缺引号；sitemap 排除构建清单与百度验证文件；物种页 `&amp;lt;title&amp;gt;` 改为学名前置。
-**首页新增「交流与文献补充」**：QQ 群 952218784（班奈特格林的主巢）与邮箱 Termite-Extant-Isoptera@protonmail.com，征集能补充名录的文献（新阶元、学名变动与异名、模式产地、分布记录、中文正名旧译）。
+**首页新增「交流与文献补充」**：QQ 群 952218784（班奈特格林的主巢）与邮箱 `Termite-Extant-Isoptera@protonmail.com`，征集能补充名录的文献（新阶元、学名变动与异名、模式产地、分布记录、中文正名旧译）。
 **计数不变**：13 科、18 亚科、326 属、3021 种、68 亚种（3089 条物种记录），与 2026.10.30 版一致；本版补描述与来源，不改分类主体。
 **归档文件**：`downloads/isoptera-checklist-v2026.11.21.zip`；Darwin Core Archive 为 `downloads/isoptera-checklist-v2026.11.21-dwca.zip`。数据许可 CC BY 4.0。
 </content>

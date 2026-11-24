@@ -45,6 +45,11 @@ jobs:
           destination: ./_site
 
       # 站内链接与锚点：--offline 不访问网络，只校验 _site 内的文件路径 / #fragment。
+      # --exclude-path 按正则编译（不是 glob）：「**/pagefind/**」会报
+      #   Error: regex parse error: repetition operator missing expression
+      # 整个动作直接失败，所以这里写不带通配符的片段正则。
+      # --root-dir _site：页面里有以 / 开头的站内绝对路径（/assets/images/...），
+      # 不给根目录 lychee 无法解析，会整批报「Cannot resolve root-relative link」。
       # 排除 pagefind：构建时生成的检索 bundle（js / wasm / 分片），不是页面。
       - name: Check internal links and anchors (offline)
         uses: lycheeverse/lychee-action@v2
@@ -54,13 +59,17 @@ jobs:
             --offline
             --include-fragments
             --no-progress
-            --exclude-path '**/pagefind/**'
+            --root-dir _site
+            --exclude-path 'pagefind'
             _site
 
       # 外链：真实请求；iNaturalist / Wikimedia 图床与 doi.org 跳转容易限流/反爬，
       # 完整排除清单见根目录 lychee.toml（不排除的话每周会有大量误报）。
       # 这里再排除 sitemap.txt：它是纯文本 URL 列表（3000+ 条站内页面），
       # 会被 lychee 当作链接逐条请求，既慢又重复（站内链接已由 offline 步骤覆盖）。
+      # 同样给 --root-dir _site，让 / 开头的站内绝对路径按本地文件校验（不联网）。
+      # 202 / 403 / 418 视为可达：AMNH 数字库的条目页返回 202，gbif.org、checklistbank.org
+      # 等对批量抓取返回 WAF 页（403 / 418），状态码说明不了条目是否存在；完整策略见 lychee.toml。
       - name: Check external links (online)
         uses: lycheeverse/lychee-action@v2
         with:
@@ -68,10 +77,11 @@ jobs:
           args: >-
             _site
             --max-retries 2
-            --accept 200,206,429
+            --accept 200,202,206,403,418,429
             --no-progress
-            --exclude-path '**/pagefind/**'
-            --exclude-path '**/sitemap.txt'
+            --root-dir _site
+            --exclude-path 'pagefind'
+            --exclude-path 'sitemap[.]txt$'
             --exclude '^https?://(inaturalist|static|upload|commons)\.'
 
       # 失败时开一条 issue（同标题的 issue 已开着就跳过，避免每周刷屏）

@@ -12,7 +12,10 @@
 # 注意：命令行参数优先于本文件（linkcheck.yml 里显式写了 --max-retries / --accept）。
 
 max_retries = 2
-accept = [200, 206, 429]
+# 202：digitallibrary.amnh.org 的 DSpace 条目页以 202 Accepted 返回（页面本身正常）。
+# 403 / 418 视为「可达」：gbif.org、checklistbank.org 等库对批量抓取返回 WAF 页
+# （403 / 418 + __goaway_challenge），状态码说明不了条目是否存在。
+accept = [200, 202, 206, 403, 418, 429]
 
 exclude = [
   # iNaturalist 观察记录页、图片 CDN 与开放数据镜像
@@ -26,4 +29,7 @@ exclude = [
   "^https?://(dx\\.)?doi\\.org/",
   # 本站域名（站内链接由 --offline 步骤负责）；2026-11-12 起为自定义域名
   "^https?://termite-extant-isoptera\\.org/",
+  # GitHub「新建 issue」预填链接：3 语言 × 3000+ 物种，共 9,267 条，永远是同一张表单页；
+  # 每条都请求一次既拖慢巡检，也不提供任何「链接是否活着」的信息。
+  "^https?://github\\.com/[^/]+/[^/]+/issues/new",
 ]
