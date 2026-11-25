@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-25",
+ "sections": [
+  {
+   "heading": "印度尼西亚的重描述",
+   "heading_en": "Redescription from Indonesia",
+   "heading_es": "Redescripción de Indonesia",
+   "paragraphs": [
+    {
+     "text": "根据 Syaukani（2017）研究，常见瓢白蚁（<i>Bulbitermes germanus</i>）的 212 个群体采自印度尼西亚海拔 1–1400 m 的 30 个地点，包括韦岛（Pulau Weh）、锡默卢岛（Simeulue）、勒塞尔山（Gunung Leuser，106 个群体）、巴当加迪斯（Batang Gadis）、西比路岛（Siberut）、尼亚斯岛（Nias）、西波拉岛（Sipora）、Bukit Barisan Selatan、Kota Bumi、庞岸达兰（Pangandaran）、Halimun、茂物植物园（Kebun Raya Bogor）、Cibodas、Tangkuban Perahu、默拉皮火山（Merapi）、Tanjung Puting、Betung Kerihun（16 个群体）、Pararawen、Barito Ulu（12 个群体）、Bukit Suharto、Malinau、Tarakan、Gunung Palung、巴厘岛、龙目岛、松巴哇岛、Sentani 与 Gunung Siklop。",
+     "text_en": "According to Syaukani (2017), 212 colonies of <i>Bulbitermes germanus</i> were collected at 30 localities in Indonesia between 1 and 1,400 m, including Pulau Weh, Simeulue, Gunung Leuser (106 colonies), Batang Gadis, Siberut, Nias, Sipora, Bukit Barisan Selatan, Kota Bumi, Pangandaran, Halimun, Kebun Raya Bogor, Cibodas, Tangkuban Perahu, Merapi, Tanjung Puting, Betung Kerihun (16 colonies), Pararawen, Barito Ulu (12 colonies), Bukit Suharto, Malinau, Tarakan, Gunung Palung, Bali, Lombok, Sumbawa, Sentani and Gunung Siklop.",
+     "text_es": "Según Syaukani (2017), se recolectaron 212 colonias de <i>Bulbitermes germanus</i> en 30 localidades de Indonesia entre 1 y 1.400 m, entre ellas Pulau Weh, Simeulue, Gunung Leuser (106 colonias), Batang Gadis, Siberut, Nias, Sipora, Bukit Barisan Selatan, Kota Bumi, Pangandaran, Halimun, Kebun Raya Bogor, Cibodas, Tangkuban Perahu, Merapi, Tanjung Puting, Betung Kerihun (16 colonias), Pararawen, Barito Ulu (12 colonias), Bukit Suharto, Malinau, Tarakan, Gunung Palung, Bali, Lombok, Sumbawa, Sentani y Gunung Siklop.",
+     "src": [
+      "S0469"
+     ]
+    },
+    {
+     "text": "兵蚁头梨形、在触角基部下方收缩，触角 12 节（第 3 节长于第 2、第 4 节，第 4 节短于第 5 节），头长（不含鼻）0.91–0.98 mm、鼻长 0.42–0.51 mm、连鼻头长 1.38–1.42 mm、最大头宽 0.74–0.79 mm、头高 0.58–0.61 mm、前胸背板长 0.14–0.18 mm、宽 0.49–0.55 mm；工蚁触角 14 节，第 4 节最短且与第 3 节分界不清，左颚上齿短于第 1 缘齿、第 2 缘齿缺失、第 3 缘齿可见、第 4 缘齿被磨板（molar prominence）遮住。与同属近似种相比，其工蚁触角第 4 节最短。",
+     "text_en": "The soldier head is pyriform and constricted below the antennal bases, with 12 antennal articles (article 3 longer than 2 and 4, article 4 shorter than 5); head length without the nasus 0.91–0.98 mm, nasus length 0.42–0.51 mm, head length with nasus 1.38–1.42 mm, maximum head width 0.74–0.79 mm, head height 0.58–0.61 mm, pronotum 0.14–0.18 mm long and 0.49–0.55 mm wide. Workers have 14 antennal articles, the fourth being the shortest and poorly delimited from the third; on the left mandible the apical tooth is shorter than the first marginal tooth, the second marginal tooth is absent, the third is visible and the fourth is hidden by the molar prominence. The worker antenna with the shortest fourth article separates the species from its congeners.",
+     "text_es": "La cabeza del soldado es piriforme y está constreñida por debajo de las bases antenales, con 12 artejos antenales (el 3 más largo que el 2 y el 4, el 4 más corto que el 5); longitud cefálica sin el nasus 0,91–0,98 mm, longitud del nasus 0,42–0,51 mm, longitud cefálica con el nasus 1,38–1,42 mm, anchura máxima de la cabeza 0,74–0,79 mm, altura de la cabeza 0,58–0,61 mm, pronoto de 0,14–0,18 mm de largo y 0,49–0,55 mm de ancho. Los obreros tienen 14 artejos antenales, el cuarto es el más corto y está mal delimitado respecto del tercero; en la mandíbula izquierda el diente apical es más corto que el primer diente marginal, el segundo falta, el tercero es visible y el cuarto queda oculto por la prominencia molar. La antena del obrero con el cuarto artejo más corto separa la especie de sus congéneres.",
+     "src": [
+      "S0469"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0469",
+   "citation": "Syaukani. 2017. Deskripsi ulang dan sarang Bulbitermes germanus (Haviland) (Isoptera: Termitidae) di Indonesia. Jurnal Entomologi Indonesia 14(1): 44. https://doi.org/10.5994/jei.14.1.44",
+   "doi": "10.5994/jei.14.1.44"
+  }
+ ]
+}

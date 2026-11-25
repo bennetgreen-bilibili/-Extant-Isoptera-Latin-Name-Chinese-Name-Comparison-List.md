@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-25",
  "sections": [
   {
    "heading": "日本种类的表皮碳氢化合物与异名整理",
@@ -15,6 +15,29 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "巴拉圭的首批记录",
+   "heading_en": "The first records from Paraguay",
+   "heading_es": "Los primeros registros de Paraguay",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn（2021）研究，树白蚁属（<i>Glyptotermes</i>）由 Froggatt 建立，全球已知 127 种，是木白蚁科（Kalotermitidae）最大的属；新世界有 27 种且全为新热带种类，数量仅次于堆砂白蚁属（<i>Cryptotermes</i>）。该属需要较高的木材含水率，不见于新热带干旱区，无经济重要性；巴拉圭此前没有该属记录。",
+     "text_en": "According to Scheffrahn (2021), <i>Glyptotermes</i> was established by Froggatt and contains 127 species worldwide, making it the largest genus of Kalotermitidae; the New World holds 27 species, all Neotropical, second only to <i>Cryptotermes</i> in number. The genus requires wood with a high moisture content, is absent from the dry Neotropics and has no economic importance; it had not been recorded from Paraguay before.",
+     "text_es": "Según Scheffrahn (2021), <i>Glyptotermes</i> fue establecido por Froggatt y contiene 127 especies en el mundo, por lo que es el género más grande de Kalotermitidae; el Nuevo Mundo alberga 27 especies, todas neotropicales, superado sólo por <i>Cryptotermes</i> en número. El género requiere madera con alto contenido de humedad, falta en las zonas áridas neotropicales y carece de importancia económica; no había sido citado de Paraguay.",
+     "src": [
+      "S0474"
+     ]
+    },
+    {
+     "text": "该研究依据巴拉圭 3 个地点的标本描述希克曼树白蚁（<i>Glyptotermes hickmani</i>）新种，并首次在巴拉圭记录卡内尔树白蚁（<i>Glyptotermes canellae</i>）；两种的分布在本生物群系内各扩展约 340 km。巴拉圭其他木白蚁科种类还有堆砂白蚁属、新白蚁属（<i>Neotermes</i>）、皱白蚁属（<i>Rugitermes</i>）与牛白蚁属（<i>Tauritermes</i>）的成员。",
+     "text_en": "On the basis of specimens from three Paraguayan localities the study describes the new species <i>Glyptotermes hickmani</i> and records <i>Glyptotermes canellae</i> from Paraguay for the first time; the known ranges of both species are extended by about 340 km within the biome. Other Kalotermitidae in Paraguay belong to <i>Cryptotermes</i>, <i>Neotermes</i>, <i>Rugitermes</i> and <i>Tauritermes</i>.",
+     "text_es": "Sobre la base de ejemplares de tres localidades paraguayas, el estudio describe la especie nueva <i>Glyptotermes hickmani</i> y cita <i>Glyptotermes canellae</i> de Paraguay por primera vez; las áreas conocidas de ambas especies se amplían unos 340 km dentro del bioma. Otras Kalotermitidae de Paraguay pertenecen a <i>Cryptotermes</i>, <i>Neotermes</i>, <i>Rugitermes</i> y <i>Tauritermes</i>.",
+     "src": [
+      "S0474"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -22,6 +45,11 @@
    "id": "S0412",
    "citation": "Takematsu, Y.; Yamaoka, R. 1997. Taxonomy of Glyptotermes (Isoptera, Kalotermitidae) in Japan with reference to cuticular hydrocarbon analysis as chemotaxonomic characters. Esakia.",
    "doi": "10.5109/2603"
+  },
+  {
+   "id": "S0474",
+   "citation": "Scheffrahn, R. H. 2021. The termite genus Glyptotermes (Isoptera, Kalotermitidae) from Paraguay. ZooKeys 1059: 23–33. https://doi.org/10.3897/zookeys.1059.70500",
+   "doi": "10.3897/zookeys.1059.70500"
   }
  ]
 }

@@ -1,0 +1,171 @@
+{
+ "date": "2026-11-25",
+ "work": "每日文库研读：15 个 chunk 单元 + 5 条仅摘要记录（S0041、S0348、S0467–S0478；S0010/S0011/S0012/S0098/S0144 仅摘要），单元见 _tmp/library-scan/2026-11-25/units.json",
+ "facts": [
+  {
+   "page": "/genus/acorhinotermes/",
+   "claim": "尖鼻白蚁属是新热带鼻白蚁亚科唯一无大型兵蚁的属；克拉丽塔尖鼻白蚁据小型兵蚁与有翅若虫描述，采于哥伦比亚亚马孙次生雨林。",
+   "quote": "Acorhinotermes Emerson, 1949 is the only Neotropical Rhinotermitine genus with no major soldier. Herein Acorhinotermes claritae Castro & Scheffrahn, sp. nov. is described based on minor soldiers and an alate nymph collected in a secondary rain forest in the Colombian Amazon.",
+   "src": "S0041",
+   "unit": "n/a（文库论文全文）",
+   "locator": "Abstract，第一页",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "used",
+   "note": "支撑：尖鼻白蚁属无大型兵蚁、为新热带鼻白蚁亚科唯一；新种据小型兵蚁与有翅若虫描述，采于哥伦比亚亚马孙次生雨林"
+  },
+  {
+   "page": "/genus/nasutitermes/",
+   "claim": "象白蚁属兵蚁喷液以 300 帧/秒高速摄影记录；兵蚁约占群体 50%，外围守卫点 70–90%。",
+   "quote": "Da der eigentliche Spritzakt der Nasutitermes-Soldaten in wenigen Sekundenbruchteilen sich abspielt, kontrollierten wir unsere Beobachtungen mit Hilfe eines Zeitdehnerfilmes (300 Bilder/ Sekunde) !.",
+   "src": "S0467",
+   "unit": "n/a（文库论文全文）",
+   "locator": "正文，高速摄影方法段",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "used",
+   "note": "支撑：以 300 帧/秒高速摄影记录象白蚁兵蚁喷液动作"
+  },
+  {
+   "page": "/species/bulbitermes-debadiliporum/",
+   "claim": "德巴迪利普瓢白蚁模式产地为梅加拉亚邦 Mawlynnong（530 m），工蚁二型，大工左颚磨板 10 脊、小工 6 脊。",
+   "quote": "nov., of the nasutiform genus Bulbitermes is described here from the Mawlynnong area of the East Khasi Hills district and Nongkhrah Village of the Ri-Bhoi district of Meghalaya, India.",
+   "src": "S0468",
+   "unit": "n/a（文库论文全文）",
+   "locator": "Abstract（接首句）",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "used",
+   "note": "支撑：新种模式产地为梅加拉亚邦 Mawlynnong 与 Nongkhrah"
+  },
+  {
+   "page": "/species/bulbitermes-germanus/",
+   "claim": "常见瓢白蚁广布苏门答腊、爪哇、婆罗洲与新几内亚；巢信息首次报道，212 个群体采自 1–1400 m 的 30 个地点。",
+   "quote": "Rayap ini mempunyai sebaran yang luas di Sumatera, Jawa, Borneo, serta Papua. Informasi tentang sarang B. germanus baru pertama dilaporkan dalam artikel ini.",
+   "src": "S0469",
+   "unit": "n/a（文库论文全文）",
+   "locator": "ABSTRAK",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "used",
+   "note": "支撑：常见瓢白蚁广布苏门答腊、爪哇、婆罗洲与新几内亚；巢信息首次报道"
+  },
+  {
+   "page": "/species/caetetermes-fontesi/",
+   "claim": "丰特斯林白蚁采于法属圭亚那 Petit Saut；属此前为单型属，仅 C. taquarussu。",
+   "quote": "Caetetermes fontesi sp. nov. is described from soldiers, workers, and winged imagos collected in French Guiana. Soldiers of C. fontesi are distinguished from Caetetermes taquarussu Fontes 1981, until now a monotypic genus, by their larger size, deeper coloration, and shorter and thicker nasus.",
+   "src": "S0470",
+   "unit": "n/a（文库论文全文）",
+   "locator": "Abstract",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "used",
+   "note": "支撑：新种采于法属圭亚那；属此前为单型属（仅 C. taquarussu）；鉴别特征为体型更大、色更深、鼻更短粗"
+  },
+  {
+   "page": "/species/ceylonitermellus-sahyadriensis/",
+   "claim": "萨亚德里小锡兰白蚁以 COI 基因（580 bp，OQ471904）与形态特征作分子鉴定；Mamalakandam 采自木棉树皮。",
+   "quote": "Molecular characterization of Ceylonitermellus sahyadriensis (Termitidae, Nasutitermitinae), using the cytochrome oxidase I (COI) gene was studied, along with its morphological characteristics.",
+   "src": "S0471",
+   "unit": "n/a（文库论文全文）",
+   "locator": "ABSTRACT",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "used",
+   "note": "支撑：该种以 COI 基因与形态特征作分子鉴定"
+  },
+  {
+   "page": "/species/cyranotermes-caete/",
+   "claim": "卡埃特巨鼻白蚁采于巴西 Serra dos Carajás 雨林；正模兵蚁 MZUSP 8711。",
+   "quote": "Cyranotermes caete, sp.n. was collected in rain foresí habitai in Serra dos Carajás, Brazil.",
+   "src": "S0472",
+   "unit": "n/a（文库论文全文）",
+   "locator": "Abstract（原文 OCR 保留原样）",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "used",
+   "note": "支撑：新种采于巴西 Serra dos Carajás 雨林"
+  },
+  {
+   "page": "/species/eremotermes-neoparadoxalis/",
+   "claim": "新奇异漠白蚁在哈里亚纳邦 Palwal（Hodal）从粪饼中采得，为该邦新记录。",
+   "quote": "Eremotermes neoparadoxalis as a new record trapped from dung cake in Palwal (Hodal), Haryana.",
+   "src": "S0473",
+   "unit": "n/a（文库论文全文）",
+   "locator": "Short Communication 正文",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "used",
+   "note": "支撑：该种在哈里亚纳邦 Palwal（Hodal）从粪饼中采得，为新记录"
+  },
+  {
+   "page": "/genus/glyptotermes/",
+   "claim": "树白蚁属全球 127 种，为木白蚁科最大属；2012 年考察首次在巴拉圭记录该属，含新种 G. hickmani 与首记 G. canellae。",
+   "quote": "A 2012 termite expedition yielded the first species of Glyptotermes known from Paraguay, G. hickmani sp. nov. and G. canellae (Müller, 1873), the latter previously known from Argentina and Brazil.",
+   "src": "S0474",
+   "unit": "n/a（文库论文全文）",
+   "locator": "Abstract",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "used",
+   "note": "支撑：巴拉圭首次记录树白蚁属，含新种 G. hickmani 与首记 G. canellae"
+  },
+  {
+   "page": "/species/ibitermes-inflatus/",
+   "claim": "高唇基地球白蚁采于帕拉伊巴州 Rio Tinto 的 Guaribas 保护区，为巴西东北部与大西洋森林的首次属记录。",
+   "quote": "The sterile castes of Ibitermes inflatus sp. nov. from Rio Tinto, State of Paraíba, Brazil are described and illustrated. This is the first record of a species of Ibitermes from the Brazilian northeast and from the Atlantic Forest biome.",
+   "src": "S0475",
+   "unit": "n/a（文库论文全文）",
+   "locator": "ABSTRACT",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "used",
+   "note": "支撑：新种采于帕拉伊巴州 Rio Tinto；为巴西东北部与大西洋森林的首次属记录"
+  },
+  {
+   "page": "/species/leucopitermes-leucops/",
+   "claim": "白脸白脸白蚁兵蚁触角 12 节、淡黄色；Haviland 1898 以 Termes aciculatus 之名首次描述。",
+   "quote": "Antena kasta prajurit berjumlah 12 segmen dengan warna kuning pucat.",
+   "src": "S0476",
+   "unit": "n/a（文库论文全文）",
+   "locator": "Hasil",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "used",
+   "note": "支撑：兵蚁触角 12 节、淡黄色"
+  },
+  {
+   "page": "/species/niuginitermes-liklik/",
+   "claim": "小新几内亚白蚁在菲律宾 Los Baños（14°09′38″N, 121°14′17″E, 81 m）首次记录，标本 20 兵蚁 30 工蚁。",
+   "quote": "PHILIPPINES — Laguna Province • Los Baños, University of the Philippines Los Baños; 14°09′38″N, 121°14′17″E; 81 m elev.; 29.XII.2025; JEI De Luna leg.; UFTC ASA 369; 20 soldiers, 30 workers.",
+   "src": "S0477",
+   "unit": "n/a（文库论文全文）",
+   "locator": "Material examined",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "used",
+   "note": "支撑：菲律宾拉古纳 Los Baños 81 m 的新记录标本（20 兵蚁 30 工蚁，UFTC ASA 369）"
+  },
+  {
+   "page": "/species/rhynchotermes-piauy/",
+   "claim": "皮奥伊喙白蚁采于皮奥伊州 Corrente 以北 10 km，为卡廷加中的塞拉多飞地；R. guarany 采于戈亚斯 Alto Paraíso。",
+   "quote": "The first one came from Alto Paraiso de Goids, in the State of Goids, covered by \"campo rupestre\" vegetation and the second one from Corrente, in the State ofPiaui, an enclave of \"cerrado \" in the \"caatinga \" dominium.",
+   "src": "S0478",
+   "unit": "n/a（文库论文全文）",
+   "locator": "Introduction（原文 OCR 保留原样）",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "used",
+   "note": "支撑：R. guarany 采于戈亚斯 Alto Paraíso，R. piauy 采于皮奥伊 Corrente——卡廷加中的塞拉多飞地"
+  },
+  {
+   "page": "/genus/caetetermes/",
+   "claim": "新热带白蚁多样性：巴西 369 种、玻利维亚 145 种、秘鲁 115 种，法属圭亚那 104 种居第四。",
+   "quote": "In the Neotropics, the termite diversity of French Guiana, with 104 described termite species, is fourth to Brazil at 369, Bolivia at 145, and Peru at 115 species (Constantino 2020, Scheffrahn 2019).",
+   "src": "S0470",
+   "unit": "n/a（文库论文全文）",
+   "locator": "Discussion，白蚁多样性段",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "queued",
+   "note": "本轮未写入页面（属页只写到属的分布扩展），下轮可写入属页或科页背景。"
+  },
+  {
+   "page": "/genus/rhynchotermes/",
+   "claim": "R. guarany 与 R. piauy 同文描述为新种；R. guarany 站内无种页（2016 年已被归为 R. nasutissimus 异名）。",
+   "quote": "In this paper are described Rhynchotermes guarany, new species and Rhynchotermes piauy, new species.",
+   "src": "S0478",
+   "unit": "n/a（文库论文全文）",
+   "locator": "Abstract",
+   "quote_note": "原文连续片段，仅将换行与连续空白折叠为单个空格",
+   "status": "queued",
+   "note": "R. guarany 的分类沿革（1997 新种 → 2016 归为 R. nasutissimus 异名）已有 S0299 写在属页；本轮不重复，下轮若需种页再补。"
+  }
+ ]
+}

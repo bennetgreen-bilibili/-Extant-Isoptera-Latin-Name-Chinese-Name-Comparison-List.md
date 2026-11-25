@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-25",
+ "sections": [
+  {
+   "heading": "属征与在鼻白蚁亚科中的位置",
+   "heading_en": "Diagnostic characters and position in Rhinotermitinae",
+   "heading_es": "Caracteres diagnósticos y posición en Rhinotermitinae",
+   "paragraphs": [
+    {
+     "text": "根据 Castro Torres 与 Scheffrahn（2019）研究，尖鼻白蚁属（<i>Acorhinotermes</i>）由 Emerson 于 1949 年建立，是新热带唯一不具大型兵蚁的鼻白蚁亚科（Rhinotermitinae）属；其模式种棕头尖鼻白蚁（<i>Acorhinotermes subfusciceps</i>）原置于鼻白蚁属（<i>Rhinotermes</i>），由 Emerson 在 Snyder（1949）中依据无大型兵蚁这一特征移入新属。该研究把鼻白蚁亚科列为 6 属，包括棒鼻白蚁属（<i>Parrhinotermes</i>）、长鼻白蚁属（<i>Schedorhinotermes</i>）、鼻白蚁属、狭鼻白蚁属（<i>Dolichorhinotermes</i>）与尖鼻白蚁属，其中鼻白蚁属、狭鼻白蚁属与尖鼻白蚁属 3 属限于新热带。",
+     "text_en": "According to Castro Torres and Scheffrahn (2019), <i>Acorhinotermes</i> was established by Emerson in 1949 and is the only Neotropical genus of Rhinotermitinae without major soldiers; its type species, <i>Acorhinotermes subfusciceps</i>, had been placed in <i>Rhinotermes</i> and was transferred to the new genus by Emerson in Snyder (1949) on the basis of that absence. The study lists six genera in Rhinotermitinae, including <i>Parrhinotermes</i>, <i>Schedorhinotermes</i>, <i>Rhinotermes</i>, <i>Dolichorhinotermes</i> and <i>Acorhinotermes</i>; the last three are restricted to the Neotropics.",
+     "text_es": "Según Castro Torres y Scheffrahn (2019), <i>Acorhinotermes</i> fue establecido por Emerson en 1949 y es el único género neotropical de Rhinotermitinae que carece de soldados mayores; su especie tipo, <i>Acorhinotermes subfusciceps</i>, había sido situada en <i>Rhinotermes</i> y fue transferida al nuevo género por Emerson en Snyder (1949) sobre la base de esa ausencia. El estudio enumera seis géneros en Rhinotermitinae, entre ellos <i>Parrhinotermes</i>, <i>Schedorhinotermes</i>, <i>Rhinotermes</i>, <i>Dolichorhinotermes</i> y <i>Acorhinotermes</i>; los tres últimos están restringidos al Neotrópico.",
+     "src": [
+      "S0041"
+     ]
+    },
+    {
+     "text": "同一研究记载，尖鼻白蚁属的分布范围包括亚马逊盆地、圭亚那地盾与卡廷加（Caatinga）植被区；哥伦比亚此前只记录过鼻白蚁属的 2 种，该文提供的是以小型兵蚁为依据的新热带鼻白蚁亚科检索表。",
+     "text_en": "The same study records the range of <i>Acorhinotermes</i> as the Amazon basin, the Guiana Shield and the Caatinga; Colombia had previously yielded only two species of <i>Rhinotermes</i>, and the paper provides a key to the Neotropical Rhinotermitinae based on minor soldiers.",
+     "text_es": "El mismo estudio registra el área de <i>Acorhinotermes</i> en la cuenca amazónica, el escudo guayanés y la Caatinga; Colombia sólo había aportado dos especies de <i>Rhinotermes</i>, y el trabajo aporta una clave de los Rhinotermitinae neotropicales basada en los soldados menores.",
+     "src": [
+      "S0041"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0041",
+   "citation": "Castro Torres, D.; Scheffrahn, R. H. 2019. A new species of Acorhinotermes Emerson, 1949 (Blattodea, Isoptera, Rhinotermitidae) from Colombia, with a key to Neotropical Rhinotermitinae species based on minor soldiers. ZooKeys 891: 61–70. https://doi.org/10.3897/zookeys.891.37523",
+   "doi": "10.3897/zookeys.891.37523"
+  }
+ ]
+}

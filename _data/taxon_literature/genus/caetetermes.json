@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-25",
+ "sections": [
+  {
+   "heading": "属征、近缘属与已知种数",
+   "heading_en": "Diagnosis, allied genera and known species",
+   "heading_es": "Diagnosis, géneros afines y especies conocidas",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn（2022）研究，林白蚁属（<i>Caetetermes</i>）由 Fontes 于 1981 年建立，原为单型属，仅含塔夸拉林白蚁（<i>Caetetermes taquarussu</i>），标本采于厄瓜多尔亚马孙的原始与次生雨林；其兵蚁单态，头壳强烈收缩、鼻细圆柱形。近缘属为薄嘴白蚁属（<i>Tenuirostritermes</i>，兵蚁单态）、凋落白蚁属（<i>Ngauratermes</i>，二态）以及歧白蚁属（<i>Diversitermes</i>）与快白蚁属（<i>Velocitermes</i>）（二态或三态），后几属的鼻较宽短。",
+     "text_en": "According to Scheffrahn (2022), <i>Caetetermes</i> was established by Fontes in 1981 as a monotypic genus containing only <i>Caetetermes taquarussu</i>, collected in primary and secondary rainforest in Amazonian Ecuador; its soldiers are monomorphic, with a strongly constricted head and a slender cylindrical nasus. Its closest relatives are <i>Tenuirostritermes</i> (monomorphic soldiers), <i>Ngauratermes</i> (dimorphic) and <i>Diversitermes</i> and <i>Velocitermes</i> (dimorphic or trimorphic), the last genera having a broader and shorter nasus.",
+     "text_es": "Según Scheffrahn (2022), <i>Caetetermes</i> fue establecido por Fontes en 1981 como género monotípico que contenía sólo <i>Caetetermes taquarussu</i>, recolectada en selva primaria y secundaria de la Amazonia ecuatoriana; sus soldados son monomorfos, con la cabeza muy constreñida y el nasus fino y cilíndrico. Sus parientes más cercanos son <i>Tenuirostritermes</i> (soldados monomorfos), <i>Ngauratermes</i> (dimorfo) y <i>Diversitermes</i> y <i>Velocitermes</i> (dimorfos o trimorfos), géneros estos últimos con nasus más ancho y corto.",
+     "src": [
+      "S0470"
+     ]
+    },
+    {
+     "text": "该属此前仅知厄瓜多尔 1 种；法属圭亚那低地林的新种把属的分布扩展到圭亚那地盾，也使该属增至 2 种。",
+     "text_en": "The genus was previously known from a single Ecuadorian species; the new species from the lowland forest of French Guiana extends the genus to the Guiana Shield and brings it to two species.",
+     "text_es": "El género se conocía antes por una sola especie ecuatoriana; la nueva especie de la selva baja de la Guayana Francesa extiende el género al escudo guayanés y lo eleva a dos especies.",
+     "src": [
+      "S0470"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0470",
+   "citation": "Scheffrahn, R. H. 2022. Caetetermes fontesi, a new nasutiform termite (Isoptera: Termitidae: Nasutitermitinae) from French Guiana. Zootaxa 5219(6): 593–600. https://doi.org/10.11646/zootaxa.5219.6.6",
+   "doi": "10.11646/zootaxa.5219.6.6"
+  }
+ ]
+}

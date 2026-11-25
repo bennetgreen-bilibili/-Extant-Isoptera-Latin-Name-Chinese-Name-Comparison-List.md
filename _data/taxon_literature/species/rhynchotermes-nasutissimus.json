@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-25",
  "sections": [
   {
    "heading": "鼠尸中的首次记录",
@@ -31,6 +31,29 @@
      "text_es": "Según Constantini y Cancello (2016), el nombre antiguo <i>Rhynchotermes guarany</i> fue reducido a nuevo sinónimo de <i>Rhynchotermes nasutissimus</i> (según el resumen)."
     }
    ]
+  },
+  {
+   "heading": "巢、栖境与工蚁上颚",
+   "heading_en": "Nest, habitat and worker mandibles",
+   "heading_es": "Nido, hábitat y mandíbulas del obrero",
+   "paragraphs": [
+    {
+     "text": "根据 Cancello（1997）研究，巨鼻喙白蚁（<i>Rhynchotermes nasutissimus</i>）是该属当时唯一有巢描述的种，Silvestri 1903 年记载其地下巢；该研究指出，Mathews（1977）认为喙白蚁属各种均为凋落物取食者、经地下廊道到地表觅食、从不在其他白蚁的巢中营巢，但 Cancello 的标本采于废弃巢、角象白蚁属（<i>Cornitermes</i>）巢、牛粪下、倒木下与棕榈叶上，说明其栖境并不限于此。",
+     "text_en": "According to Cancello (1997), <i>Rhynchotermes nasutissimus</i> was the only species of the genus with a described nest, the underground nest recorded by Silvestri in 1903; the study notes that Mathews (1977) considered all <i>Rhynchotermes</i> species to be litter feeders that reach the surface through underground galleries and never nest in the nests of other termites, yet Cancello's specimens were taken in an abandoned nest, in a <i>Cornitermes</i> nest, under cattle dung, under fallen logs and on palm leaves, showing that its habitat is not restricted in that way.",
+     "text_es": "Según Cancello (1997), <i>Rhynchotermes nasutissimus</i> era la única especie del género con nido descrito, el nido subterráneo registrado por Silvestri en 1903; el estudio señala que Mathews (1977) consideraba que todas las especies de <i>Rhynchotermes</i> se alimentan de hojarasca, alcanzan la superficie por galerías subterráneas y nunca anidan en nidos de otras termitas, pero los ejemplares de Cancello se recolectaron en un nido abandonado, en un nido de <i>Cornitermes</i>, bajo estiércol vacuno, bajo troncos caídos y sobre hojas de palma, lo que muestra que su hábitat no está restringido de ese modo.",
+     "src": [
+      "S0478"
+     ]
+    },
+    {
+     "text": "工蚁上颚磨板（molar plate）的脊在皮奥伊喙白蚁（<i>Rhynchotermes piauy</i>）中较巨鼻喙白蚁更明显；Fontes（1987a）认为角象白蚁属、喙白蚁属、聚白蚁属（<i>Syntermes</i>）、缩白蚁属（<i>Constrictotermes</i>）、薄嘴白蚁属（<i>Tenuirostritermes</i>）、快白蚁属（<i>Velocitermes</i>）与歧白蚁属（<i>Diversitermes</i>）的上颚模式相同。",
+     "text_en": "The ridges of the worker molar plate are more distinct in <i>Rhynchotermes piauy</i> than in <i>Rhynchotermes nasutissimus</i>; Fontes (1987a) considered the mandibular pattern of <i>Cornitermes</i>, <i>Rhynchotermes</i>, <i>Syntermes</i>, <i>Constrictotermes</i>, <i>Tenuirostritermes</i>, <i>Velocitermes</i> and <i>Diversitermes</i> to be the same.",
+     "text_es": "Las crestas de la placa molar del obrero son más marcadas en <i>Rhynchotermes piauy</i> que en <i>Rhynchotermes nasutissimus</i>; Fontes (1987a) consideraba que el patrón mandibular de <i>Cornitermes</i>, <i>Rhynchotermes</i>, <i>Syntermes</i>, <i>Constrictotermes</i>, <i>Tenuirostritermes</i>, <i>Velocitermes</i> y <i>Diversitermes</i> es el mismo.",
+     "src": [
+      "S0478"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -43,6 +66,11 @@
    "id": "S0299",
    "citation": "Constantini, J. P.; Cancello, E. M. 2016. A taxonomic revision of the Neotropical termite genus Rhynchotermes (Isoptera, Termitidae, Syntermitinae). Zootaxa.",
    "doi": "10.11646/zootaxa.4109.5.1"
+  },
+  {
+   "id": "S0478",
+   "citation": "Cancello, E. M. 1997. Rhynchotermes guarany, new species and Rhynchotermes piauy, new species (Isoptera, Termitidae, Nasutitermitinae) from Brazil. Papéis Avulsos de Zoologia 40(9): 147–159. https://doi.org/10.11606/0031-1049.1997.40.p147-159",
+   "doi": "10.11606/0031-1049.1997.40.p147-159"
   }
  ]
 }

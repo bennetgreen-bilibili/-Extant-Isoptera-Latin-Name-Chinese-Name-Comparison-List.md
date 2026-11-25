@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "sections": [
   {
    "heading": "北澳稀树草原的群落组成",
@@ -100,6 +100,37 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "兵蚁的守卫与喷液",
+   "heading_en": "Soldier guarding and the ejection of secretion",
+   "heading_es": "Vigilancia de los soldados y eyección de la secreción",
+   "paragraphs": [
+    {
+     "text": "根据 Ernst（1959）对 1 个 1957 年 1 月自科特迪瓦输入巴塞尔瑞士热带研究所、养在木质纸板巢（carton nest）中的群体的观察（原文未鉴定到种），象白蚁属（<i>Nasutitermes</i>）兵蚁约占群体的 50%，在外围守卫点计数时可达 70–90%；具有普通颚型兵蚁的种，其兵蚁比例约为 5–20%。",
+     "text_en": "In the observations of Ernst (1959) on a single colony brought from Côte d'Ivoire to the Swiss Tropical Institute in Basel in January 1957 and kept in a wooden carton nest (the species was not identified), soldiers make up about 50% of the colony and 70–90% of the individuals counted at peripheral guard stations, whereas species with ordinary mandibulate soldiers have about 5–20% soldiers.",
+     "text_es": "En las observaciones de Ernst (1959) sobre una colonia llevada de Costa de Marfil al Instituto Tropical Suizo de Basilea en enero de 1957 y mantenida en un nido de cartón de madera (la especie no fue identificada), los soldados constituyen alrededor del 50% de la colonia y del 70–90% de los individuos contados en puestos de vigilancia periféricos, mientras que las especies con soldados mandibulados ordinarios tienen alrededor del 5–20% de soldados.",
+     "src": [
+      "S0467"
+     ]
+    },
+    {
+     "text": "修建通道或取食廊之前，兵蚁在敞开道路两侧排成疏密不一的岗链、头朝外，取食点上的工蚁在多重兵蚁警戒线后啃食；换岗没有规律，个别兵蚁可在同一位置停留达 2 小时。机械震动、微风或异味在 1.5–2 cm 之外只引起无定向反应，距离小于 1.5 cm 时多数兵蚁定向面对并包围敌害，触发喷射的临界距离（触角端至敌害）为 1–2 mm。",
+     "text_en": "Before galleries or feeding shelters are built, soldiers line the open path in a loose chain with heads facing outward, and workers at the feeding site gnaw behind several ranks of guards; relief is irregular and individual soldiers can remain at one station for up to two hours. Mechanical vibration, a light breeze or an odour beyond 1.5–2 cm elicits only undirected activity, whereas at less than 1.5 cm most soldiers orient towards and surround the intruder, and the threshold distance for ejection (from the antennal tip to the intruder) is 1–2 mm.",
+     "text_es": "Antes de construir galerías o refugios de alimentación, los soldados se alinean en el camino abierto formando una cadena laxa con la cabeza hacia fuera, y los obreros del punto de alimentación roen detrás de varias filas de guardianes; el relevo es irregular y un soldado puede permanecer hasta dos horas en el mismo puesto. Una vibración mecánica, una brisa suave o un olor a más de 1,5–2 cm sólo provocan actividad no dirigida, mientras que a menos de 1,5 cm la mayoría de los soldados se orienta hacia el intruso y lo rodea, y la distancia umbral para la eyección (desde la punta de la antena hasta el intruso) es de 1–2 mm.",
+     "src": [
+      "S0467"
+     ]
+    },
+    {
+     "text": "以每秒 300 帧的高速摄影记录到，兵蚁喷射时头迅速前推、由头背腹肌把分泌物压出细流射向目标，随后头回收、把黏丝末端在基质上抹掉并退开；未观察到同一兵蚁第二次喷射，另有 1 例以连续侧向甩头把分泌物甩到稍远的果蝇上。被喷中的蚂蚁、果蝇与其他种白蚁很快死亡；只喷到附肢时敌害暂时受困、可自行清理，死亡率低，覆盖较大体面或堵塞气门才致死；以浸过分泌物的滤纸喂木白蚁属（<i>Kalotermes</i>）未见肠道毒性，说明主要作用是机械黏附，但未排除杀虫活性。",
+     "text_en": "High-speed photography at 300 frames per second showed that a soldier thrusts its head forward, the dorsal and ventral cephalic muscles force the secretion out as a thin jet towards the target, and the head is then withdrawn, the end of the sticky thread wiped on the substrate, and the soldier retreats; no second ejection by the same soldier was observed, and in one case repeated lateral head swings flung the secretion onto a fruit fly at a short distance. Ants, fruit flies and termites of other species struck by the jet die quickly; when only appendages are hit the intruder is temporarily trapped and cleans itself, with low mortality, and death follows only when a larger body surface is covered or the spiracles are blocked; filter paper soaked in the secretion and fed to <i>Kalotermes</i> showed no intestinal toxicity, indicating that the main effect is mechanical adhesion, although an insecticidal action is not excluded.",
+     "text_es": "La fotografía de alta velocidad a 300 fotogramas por segundo mostró que el soldado proyecta la cabeza hacia delante, los músculos cefálicos dorsales y ventrales impulsan la secreción como un chorro fino hacia el objetivo, y luego retira la cabeza, limpia el extremo del hilo pegajoso en el sustrato y se retira; no se observó una segunda eyección del mismo soldado y, en un caso, repetidos giros laterales de la cabeza lanzaron la secreción sobre una mosca de la fruta situada a corta distancia. Las hormigas, moscas y termitas de otras especies alcanzadas por el chorro mueren rápidamente; cuando sólo se alcanzan los apéndices, el intruso queda atrapado temporalmente y se limpia, con baja mortalidad, y la muerte sólo sobreviene cuando se cubre una superficie corporal mayor o se obstruyen los espiráculos; el papel de filtro impregnado con la secreción y ofrecido a <i>Kalotermes</i> no mostró toxicidad intestinal, lo que indica que el efecto principal es la adhesión mecánica, aunque no se excluye una acción insecticida.",
+     "src": [
+      "S0467"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -132,6 +163,11 @@
    "id": "S0441",
    "citation": "Challita, E. J.; Ames, D. C.; Harrison, J. S.; McDonald, C.; Rohilla, P.; Sehgal, P.; Nickle, D. A.; Mueller, J.; Bhamla, S. 2026. Viscoelastic liquid lassos extend the defensive reach of termite soldiers. bioRxiv 预印本（未经同行评审）。",
    "url": "https://doi.org/10.64898/2026.10.27.762288"
+  },
+  {
+   "id": "S0467",
+   "citation": "Ernst, E. 1959. Beobachtungen beim Spritzakt der Nasutitermes-Soldaten. Revue Suisse de Zoologie 66: 289–295. https://doi.org/10.5962/bhl.part.75218",
+   "doi": "10.5962/bhl.part.75218"
   }
  ]
 }

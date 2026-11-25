@@ -3,7 +3,7 @@
     "version": 1,
     "count": 765,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-24T23:36:05+08:00",
+    "updated": "2026-11-26T01:08:36+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -4123,15 +4123,22 @@
           "quote": "Acorhinotermes claritae Castro & Scheffrahn, sp. nov. http://zoobank.org/92519036-1333-4086-9485-BBF1D8A33B3E Type material.",
           "locator": "species description (OA full text)",
           "note": "支撑：Acorhinotermes claritae 的种级形态描述"
+        },
+        {
+          "quote": "Acorhinotermes Emerson, 1949 is the only Neotropical Rhinotermitine genus with no major soldier. Herein Acorhinotermes claritae Castro & Scheffrahn, sp. nov. is described based on minor soldiers and an alate nymph collected in a secondary rain forest in the Colombian Amazon.",
+          "locator": "Abstract，第一页",
+          "note": "支撑：尖鼻白蚁属无大型兵蚁、为新热带鼻白蚁亚科唯一；新种据小型兵蚁与有翅若虫描述，采于哥伦比亚亚马孙次生雨林"
         }
       ],
       "used_in": [
         "_data/morphology_genera.json",
         "_data/morphology_species.json",
+        "_data/taxon_literature/genus/acorhinotermes.json",
+        "_data/taxon_literature/species/acorhinotermes-claritae.json",
         "_tools/fauna/morphology/descriptions/02other-families.json"
       ],
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T01:08:32+08:00",
       "canonical_key": "doi:10.3897/zookeys.891.37523",
       "id": "S0041",
       "library": {
@@ -28829,7 +28836,7 @@
       "file_path": "_unpublished/文库/10.5962-bhl.part.75218",
       "chars": 13479,
       "retrieved_via": "文库（外部文本（--text））",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T01:08:32+08:00",
       "notes": "全文存于 _unpublished/文库/10.5962-bhl.part.75218（13479 字符），抽取：外部文本（--text）；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.5962-bhl.part.75218",
@@ -28857,8 +28864,16 @@
       "license": "cc-by-nc-sa",
       "doi": "10.5962/bhl.part.75218",
       "url": "https://www.biodiversitylibrary.org/partpdf/75218",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/genus/nasutitermes.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Da der eigentliche Spritzakt der Nasutitermes-Soldaten in wenigen Sekundenbruchteilen sich abspielt, kontrollierten wir unsere Beobachtungen mit Hilfe eines Zeitdehnerfilmes (300 Bilder/ Sekunde) !.",
+          "locator": "正文，高速摄影方法段",
+          "note": "支撑：以 300 帧/秒高速摄影记录象白蚁兵蚁喷液动作"
+        }
+      ],
       "id": "S0467"
     },
     {
@@ -28869,7 +28884,7 @@
       "file_path": "_unpublished/文库/10.11609-jott.7827.15.3.22850-22858",
       "chars": 67543,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T01:08:32+08:00",
       "notes": "全文存于 _unpublished/文库/10.11609-jott.7827.15.3.22850-22858（14 页，67543 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.11609-jott.7827.15.3.22850-22858",
@@ -28895,8 +28910,17 @@
       "year": 2023,
       "lang": "en",
       "doi": "10.11609/jott.7827.15.3.22850-22858",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/genus/bulbitermes.json",
+        "_data/taxon_literature/species/bulbitermes-debadiliporum.json"
+      ],
+      "evidence": [
+        {
+          "quote": "nov., of the nasutiform genus Bulbitermes is described here from the Mawlynnong area of the East Khasi Hills district and Nongkhrah Village of the Ri-Bhoi district of Meghalaya, India.",
+          "locator": "Abstract（接首句）",
+          "note": "支撑：新种模式产地为梅加拉亚邦 Mawlynnong 与 Nongkhrah"
+        }
+      ],
       "id": "S0468"
     },
     {
@@ -28907,7 +28931,7 @@
       "file_path": "_unpublished/文库/10.5994-jei.14.1.44",
       "chars": 28527,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T01:08:32+08:00",
       "notes": "全文存于 _unpublished/文库/10.5994-jei.14.1.44（7 页，28527 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.5994-jei.14.1.44",
@@ -28933,8 +28957,17 @@
       "year": 2017,
       "lang": "id",
       "doi": "10.5994/jei.14.1.44",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/genus/bulbitermes.json",
+        "_data/taxon_literature/species/bulbitermes-germanus.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Rayap ini mempunyai sebaran yang luas di Sumatera, Jawa, Borneo, serta Papua. Informasi tentang sarang B. germanus baru pertama dilaporkan dalam artikel ini.",
+          "locator": "ABSTRAK",
+          "note": "支撑：常见瓢白蚁广布苏门答腊、爪哇、婆罗洲与新几内亚；巢信息首次报道"
+        }
+      ],
       "id": "S0469"
     },
     {
@@ -28945,7 +28978,7 @@
       "file_path": "_unpublished/文库/10.11646-zootaxa.5219.6.6",
       "chars": 21013,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T01:08:32+08:00",
       "notes": "全文存于 _unpublished/文库/10.11646-zootaxa.5219.6.6（8 页，21013 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.11646-zootaxa.5219.6.6",
@@ -28970,8 +29003,17 @@
       "year": 2022,
       "lang": "en",
       "doi": "10.11646/zootaxa.5219.6.6",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/genus/caetetermes.json",
+        "_data/taxon_literature/species/caetetermes-fontesi.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Caetetermes fontesi sp. nov. is described from soldiers, workers, and winged imagos collected in French Guiana. Soldiers of C. fontesi are distinguished from Caetetermes taquarussu Fontes 1981, until now a monotypic genus, by their larger size, deeper coloration, and shorter and thicker nasus.",
+          "locator": "Abstract",
+          "note": "支撑：新种采于法属圭亚那；属此前为单型属（仅 C. taquarussu）；鉴别特征为体型更大、色更深、鼻更短粗"
+        }
+      ],
       "id": "S0470"
     },
     {
@@ -28982,7 +29024,7 @@
       "file_path": "_unpublished/文库/10.33307-entomon.v50i1.1407",
       "chars": 22873,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T01:08:32+08:00",
       "notes": "全文存于 _unpublished/文库/10.33307-entomon.v50i1.1407（6 页，22873 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.33307-entomon.v50i1.1407",
@@ -29013,8 +29055,17 @@
       "year": 2025,
       "lang": "en",
       "doi": "10.33307/entomon.v50i1.1407",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/genus/ceylonitermellus.json",
+        "_data/taxon_literature/species/ceylonitermellus-sahyadriensis.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Molecular characterization of Ceylonitermellus sahyadriensis (Termitidae, Nasutitermitinae), using the cytochrome oxidase I (COI) gene was studied, along with its morphological characteristics.",
+          "locator": "ABSTRACT",
+          "note": "支撑：该种以 COI 基因与形态特征作分子鉴定"
+        }
+      ],
       "id": "S0471"
     },
     {
@@ -29025,8 +29076,8 @@
       "file_path": "_unpublished/文库/10.11606-0031-1049.1983.36.p251-255",
       "chars": 11659,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
-      "notes": "全文存于 _unpublished/文库/10.11606-0031-1049.1983.36.p251-255（6 页，11659 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
+      "accessed": "2026-11-26T01:08:32+08:00",
+      "notes": "全文存于 _unpublished/文库/10.11606-0031-1049.1983.36.p251-255（6 页，11659 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。出版年复核：文库分卷 txt 页首标「36(21):251-255  20. II. 1987」，1985 为标本采集年（VII–VIII/1985），2026-11-25 更正 year=1987。",
       "library": {
         "book": "10.11606-0031-1049.1983.36.p251-255",
         "manifest": "_unpublished/文库/manifest.json",
@@ -29047,11 +29098,19 @@
       "authors": [
         "Eliana M. Cancello"
       ],
-      "year": 1985,
+      "year": 1987,
       "lang": "en",
       "doi": "10.11606/0031-1049.1983.36.p251-255",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/cyranotermes-caete.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Cyranotermes caete, sp.n. was collected in rain foresí habitai in Serra dos Carajás, Brazil.",
+          "locator": "Abstract（原文 OCR 保留原样）",
+          "note": "支撑：新种采于巴西 Serra dos Carajás 雨林"
+        }
+      ],
       "id": "S0472"
     },
     {
@@ -29062,7 +29121,7 @@
       "file_path": "_unpublished/文库/10.11609-jott.7776.14.8.21715-21719",
       "chars": 54792,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T01:08:32+08:00",
       "notes": "全文存于 _unpublished/文库/10.11609-jott.7776.14.8.21715-21719（10 页，54792 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.11609-jott.7776.14.8.21715-21719",
@@ -29089,8 +29148,16 @@
       "year": 2022,
       "lang": "en",
       "doi": "10.11609/jott.7776.14.8.21715-21719",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/eremotermes-neoparadoxalis.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Eremotermes neoparadoxalis as a new record trapped from dung cake in Palwal (Hodal), Haryana.",
+          "locator": "Short Communication 正文",
+          "note": "支撑：该种在哈里亚纳邦 Palwal（Hodal）从粪饼中采得，为新记录"
+        }
+      ],
       "id": "S0473"
     },
     {
@@ -29101,7 +29168,7 @@
       "file_path": "_unpublished/文库/10.3897-zookeys.1059.70500",
       "chars": 18949,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T01:08:32+08:00",
       "notes": "全文存于 _unpublished/文库/10.3897-zookeys.1059.70500（11 页，18949 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.3897-zookeys.1059.70500",
@@ -29126,8 +29193,23 @@
       "year": 2021,
       "lang": "en",
       "doi": "10.3897/zookeys.1059.70500",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/genus/glyptotermes.json",
+        "_data/taxon_literature/species/glyptotermes-canellae.json",
+        "_data/taxon_literature/species/glyptotermes-hickmani.json"
+      ],
+      "evidence": [
+        {
+          "quote": "A 2012 termite expedition yielded the first species of Glyptotermes known from Paraguay, G. hickmani sp. nov. and G. canellae (Müller, 1873), the latter previously known from Argentina and Brazil.",
+          "locator": "Abstract",
+          "note": "支撑：巴拉圭首次记录树白蚁属，含新种 G. hickmani 与首记 G. canellae"
+        },
+        {
+          "quote": "Glyptotermes Froggatt, with 127 species worldwide, is the most speciose genus in the termite family Kalotermitidae (Krishna et al. 2013).",
+          "locator": "Introduction",
+          "note": "支撑：树白蚁属全球 127 种，为木白蚁科最大属"
+        }
+      ],
       "id": "S0474"
     },
     {
@@ -29138,7 +29220,7 @@
       "file_path": "_unpublished/文库/10.1590-s0073-47212002000200005",
       "chars": 11000,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T01:08:32+08:00",
       "notes": "全文存于 _unpublished/文库/10.1590-s0073-47212002000200005（4 页，11000 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1590-s0073-47212002000200005",
@@ -29164,13 +29246,19 @@
       "lang": "en",
       "doi": "10.1590/s0073-47212002000200005",
       "used_in": [
-        "_data/morphology_species.json"
+        "_data/morphology_species.json",
+        "_data/taxon_literature/species/ibitermes-inflatus.json"
       ],
       "evidence": [
         {
           "quote": "Ibitermes inflatus sp. nov. (Figs. 1-9) Type material. BRAZIL, Paraíba: Rio Tinto, Reserva Biológica Guaribas (06o48’S; 35o06’W), 19.VI.2000, A.",
           "locator": "species description (OA full text)",
           "note": "支撑：Ibitermes inflatus 的种级形态描述"
+        },
+        {
+          "quote": "The sterile castes of Ibitermes inflatus sp. nov. from Rio Tinto, State of Paraíba, Brazil are described and illustrated. This is the first record of a species of Ibitermes from the Brazilian northeast and from the Atlantic Forest biome.",
+          "locator": "ABSTRACT",
+          "note": "支撑：新种采于帕拉伊巴州 Rio Tinto；为巴西东北部与大西洋森林的首次属记录"
         }
       ],
       "id": "S0475"
@@ -29183,7 +29271,7 @@
       "file_path": "_unpublished/文库/10.22373-ekw.v4i2.4001",
       "chars": 23513,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T01:08:32+08:00",
       "notes": "全文存于 _unpublished/文库/10.22373-ekw.v4i2.4001（13 页，23513 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.22373-ekw.v4i2.4001",
@@ -29210,8 +29298,21 @@
       "year": 2018,
       "lang": "id",
       "doi": "10.22373/ekw.v4i2.4001",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/leucopitermes-leucops.json"
+      ],
+      "evidence": [
+        {
+          "quote": "Antena kasta prajurit berjumlah 12 segmen dengan warna kuning pucat.",
+          "locator": "Hasil",
+          "note": "支撑：兵蚁触角 12 节、淡黄色"
+        },
+        {
+          "quote": "Leucopitermes leucops pertama kali dideskripsikan oleh Haviland (1898) sebagai Termes aciculatus.",
+          "locator": "Hasil",
+          "note": "支撑：该种由 Haviland 1898 以 Termes aciculatus 之名首次描述"
+        }
+      ],
       "id": "S0476"
     },
     {
@@ -29222,7 +29323,7 @@
       "file_path": "_unpublished/文库/10.15560-22.5.840",
       "chars": 32402,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T01:08:32+08:00",
       "notes": "全文存于 _unpublished/文库/10.15560-22.5.840（8 页，32402 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.15560-22.5.840",
@@ -29250,13 +29351,19 @@
       "lang": "en",
       "doi": "10.15560/22.5.840",
       "used_in": [
-        "_data/morphology_species.json"
+        "_data/morphology_species.json",
+        "_data/taxon_literature/species/niuginitermes-liklik.json"
       ],
       "evidence": [
         {
           "quote": "Niuginitermes liklik Roisin & Pasteels, 1996 Figures 2–7 New record. PHILIPPINES — Laguna Province • Los Baños, University of the Philippines Los Baños;",
           "locator": "species description (OA full text)",
           "note": "支撑：Niuginitermes liklik 的种级形态描述"
+        },
+        {
+          "quote": "PHILIPPINES — Laguna Province • Los Baños, University of the Philippines Los Baños; 14°09′38″N, 121°14′17″E; 81 m elev.; 29.XII.2025; JEI De Luna leg.; UFTC ASA 369; 20 soldiers, 30 workers.",
+          "locator": "Material examined",
+          "note": "支撑：菲律宾拉古纳 Los Baños 81 m 的新记录标本（20 兵蚁 30 工蚁，UFTC ASA 369）"
         }
       ],
       "id": "S0477"
@@ -29269,7 +29376,7 @@
       "file_path": "_unpublished/文库/10.11606-0031-1049.1997.40.p147-159",
       "chars": 26045,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T01:08:32+08:00",
       "notes": "全文存于 _unpublished/文库/10.11606-0031-1049.1997.40.p147-159（16 页，26045 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.11606-0031-1049.1997.40.p147-159",
@@ -29295,13 +29402,20 @@
       "lang": "en",
       "doi": "10.11606/0031-1049.1997.40.p147-159",
       "used_in": [
-        "_data/morphology_species.json"
+        "_data/morphology_species.json",
+        "_data/taxon_literature/species/rhynchotermes-nasutissimus.json",
+        "_data/taxon_literature/species/rhynchotermes-piauy.json"
       ],
       "evidence": [
         {
           "quote": "Rhynchotermes piauy, sp. n. (figs.? - 13) Etimology: \"Piauy\" - from Tupi, meaning \"Piau river\". The \"piaus\" (Tupipy-ydu) are freshwater fishes of the genus Leporinus (Anostomidae) living in most Brazilian river basins.",
           "locator": "species description (OA full text)",
           "note": "支撑：Rhynchotermes piauy 的种级形态描述"
+        },
+        {
+          "quote": "The first one came from Alto Paraiso de Goids, in the State of Goids, covered by \"campo rupestre\" vegetation and the second one from Corrente, in the State ofPiaui, an enclave of \"cerrado \" in the \"caatinga \" dominium.",
+          "locator": "Introduction（原文 OCR 保留原样）",
+          "note": "支撑：R. guarany 采于戈亚斯 Alto Paraíso，R. piauy 采于皮奥伊 Corrente——卡廷加中的塞拉多飞地"
         }
       ],
       "id": "S0478"

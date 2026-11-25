@@ -1,0 +1,43 @@
+{
+ "updated": "2026-11-25",
+ "sections": [
+  {
+   "heading": "模式产地之外的新记录",
+   "heading_en": "A new record outside the type locality",
+   "heading_es": "Un registro nuevo fuera de la localidad tipo",
+   "paragraphs": [
+    {
+     "text": "根据 Joseph 等（2025）研究，萨亚德里小锡兰白蚁（<i>Ceylonitermellus sahyadriensis</i>）在喀拉拉邦伊杜基县（Idukki）Mamalakandam 采到 12 头兵蚁与 10 头工蚁（群体号 CMSZ126，2022 年 5 月 11 日，Edwin Joseph 采），标本采自木棉（<i>Bombax ceiba</i>）树皮并以 80% 酒精保存；这是该种在模式产地 Meppadi 之外的首次记录。",
+     "text_en": "According to Joseph et al. (2025), 12 soldiers and ten workers of <i>Ceylonitermellus sahyadriensis</i> (colony CMSZ126) were collected at Mamalakandam, Idukki, Kerala, on 11 May 2022 by Edwin Joseph from the bark of <i>Bombax ceiba</i> and preserved in 80% ethanol; this is the first record of the species outside its type locality of Meppadi.",
+     "text_es": "Según Joseph et al. (2025), se recolectaron 12 soldados y diez obreros de <i>Ceylonitermellus sahyadriensis</i> (colonia CMSZ126) en Mamalakandam, Idukki, Kerala, el 11 de mayo de 2022 por Edwin Joseph en la corteza de <i>Bombax ceiba</i>, conservados en etanol al 80%; es el primer registro de la especie fuera de su localidad tipo, Meppadi.",
+     "src": [
+      "S0471"
+     ]
+    },
+    {
+     "text": "兵蚁单态，头梨形、金黄色，有稀疏短毛与 2 根长毛，鼻红褐色、细圆柱形、与头约等长、端部多毛，头腺管可见，触角 12 节（第 2 节最短，第 3–5 节近等长），上颚退化、无刺状端突，前胸背板鞍形、窄于头，尾须 2 节，胫距式 2:2:2，跗节 4 节；量度（10 头）为体长 3.11–3.64 mm、连鼻头长 1.56–1.66 mm、不连鼻头长 0.72–0.77 mm、头宽 0.68–0.72 mm、鼻长 0.82–0.90 mm、前胸背板长 0.15–0.18 mm、宽 0.34–0.37 mm。工蚁单态，头近圆形、最宽处在触角基部、淡黄色、密被毛，触角 13 节（第 3 节最短）。",
+     "text_en": "The soldier is monomorphic: head pyriform and golden yellow with sparse short setae and two long setae, nasus reddish brown, slender and cylindrical, about as long as the head and densely setose at the tip, cephalic gland duct visible, antenna with 12 articles (the second shortest, articles 3–5 subequal), mandibles vestigial without spine-like processes, pronotum saddle-shaped and narrower than the head, cerci with two articles, tibial spur formula 2:2:2 and tarsi four-segmented. Measurements of ten soldiers: body length 3.11–3.64 mm, head length with nasus 1.56–1.66 mm, without nasus 0.72–0.77 mm, head width 0.68–0.72 mm, nasus length 0.82–0.90 mm, pronotum 0.15–0.18 mm long and 0.34–0.37 mm wide. Workers are monomorphic, with a nearly circular pale-yellow head widest at the antennal bases and densely setose, and 13 antennal articles (the third shortest).",
+     "text_es": "El soldado es monomorfo: cabeza piriforme y amarillo dorada con setas cortas dispersas y dos setas largas, nasus pardo rojizo, fino y cilíndrico, casi tan largo como la cabeza y muy setoso en el ápice, conducto de la glándula cefálica visible, antena con 12 artejos (el segundo el más corto, artejos 3–5 subiguales), mandíbulas vestigiales sin procesos espiniformes, pronoto en silla de montar y más estrecho que la cabeza, cercos con dos artejos, fórmula de espolones tibiales 2:2:2 y tarsos de cuatro artejos. Medidas de diez soldados: longitud corporal 3,11–3,64 mm, longitud cefálica con nasus 1,56–1,66 mm, sin nasus 0,72–0,77 mm, anchura cefálica 0,68–0,72 mm, longitud del nasus 0,82–0,90 mm, pronoto de 0,15–0,18 mm de largo y 0,34–0,37 mm de ancho. Los obreros son monomorfos, con cabeza casi circular, amarillo pálida, más ancha en las bases antenales y densamente setosa, y 13 artejos antenales (el tercero el más corto).",
+     "src": [
+      "S0471"
+     ]
+    },
+    {
+     "text": "分子数据显示其细胞色素 c 氧化酶 I（COI）序列长 580 bp（GenBank OQ471904），A、T、G、C 含量分别为 33%、30%、15%、22%（A+T 63%），与长喙象白蚁（<i>Nasutitermes longirostris</i>）聚为一支、遗传距离 0.0983，与成对三脉白蚁（<i>Trinervitermes geminatus</i>）的遗传距离为 0.1059，以长颚堆砂白蚁（<i>Cryptotermes dudleyi</i>）为外群。",
+     "text_en": "The molecular data show a cytochrome c oxidase I (COI) sequence of 580 bp (GenBank OQ471904) with 33% A, 30% T, 15% G and 22% C (A+T 63%); the sequence clusters with <i>Nasutitermes longirostris</i> at a genetic distance of 0.0983, its distance to <i>Trinervitermes geminatus</i> is 0.1059, and <i>Cryptotermes dudleyi</i> serves as outgroup.",
+     "text_es": "Los datos moleculares muestran una secuencia de citocromo c oxidasa I (COI) de 580 pb (GenBank OQ471904) con 33% de A, 30% de T, 15% de G y 22% de C (A+T 63%); la secuencia se agrupa con <i>Nasutitermes longirostris</i> a una distancia genética de 0,0983, su distancia a <i>Trinervitermes geminatus</i> es 0,1059 y <i>Cryptotermes dudleyi</i> sirve de grupo externo.",
+     "src": [
+      "S0471"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0471",
+   "citation": "Joseph, E.; Mathew, J.; Rayeefa Fathima, C. P.; Kalyani, J.; Vince, J. E.; Mathews, B. J.; Babu, T. A. 2025. Molecular characterization of Ceylonitermellus sahyadriensis Emerson, 1960 (Termitidae, Nasutitermitinae) — a rare species from Kerala part of Western Ghats, India. Entomon 50(1): 13–18. https://doi.org/10.33307/entomon.v50i1.1407",
+   "doi": "10.33307/entomon.v50i1.1407"
+  }
+ ]
+}

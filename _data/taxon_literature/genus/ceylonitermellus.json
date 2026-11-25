@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-25",
+ "sections": [
+  {
+   "heading": "属的建立与分布",
+   "heading_en": "Establishment and distribution of the genus",
+   "heading_es": "Establecimiento y distribución del género",
+   "paragraphs": [
+    {
+     "text": "根据 Joseph 等（2025）研究，小锡兰白蚁属（<i>Ceylonitermellus</i>）由 Emerson 于 1960 年建立，是东方区特有且罕见的类群，模式种为汉塔娜小锡兰白蚁（<i>Ceylonitermellus hantanae</i>）；该属原以为斯里兰卡特有，自 2013 年印度喀拉拉邦的记录之后，已知印度亦有分布。萨亚德里小锡兰白蚁（<i>Ceylonitermellus sahyadriensis</i>）由 Renjith 等 2022 年描述，模式产地为喀拉拉邦瓦亚纳德（Wayanad）的 Meppadi。",
+     "text_en": "According to Joseph et al. (2025), <i>Ceylonitermellus</i> was established by Emerson in 1960 and is a rare genus endemic to the Oriental region, with <i>Ceylonitermellus hantanae</i> as type species; it was long thought to be endemic to Sri Lanka and has been known from India since its first record in Kerala in 2013. <i>Ceylonitermellus sahyadriensis</i> was described by Renjith et al. in 2022 from Meppadi, Wayanad, Kerala.",
+     "text_es": "Según Joseph et al. (2025), <i>Ceylonitermellus</i> fue establecido por Emerson en 1960 y es un género raro endémico de la región oriental, con <i>Ceylonitermellus hantanae</i> como especie tipo; durante mucho tiempo se consideró endémico de Sri Lanka y se conoce de la India desde su primer registro en Kerala en 2013. <i>Ceylonitermellus sahyadriensis</i> fue descrita por Renjith et al. en 2022 a partir de Meppadi, Wayanad, Kerala.",
+     "src": [
+      "S0471"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0471",
+   "citation": "Joseph, E.; Mathew, J.; Rayeefa Fathima, C. P.; Kalyani, J.; Vince, J. E.; Mathews, B. J.; Babu, T. A. 2025. Molecular characterization of Ceylonitermellus sahyadriensis Emerson, 1960 (Termitidae, Nasutitermitinae) — a rare species from Kerala part of Western Ghats, India. Entomon 50(1): 13–18. https://doi.org/10.33307/entomon.v50i1.1407",
+   "doi": "10.33307/entomon.v50i1.1407"
+  }
+ ]
+}

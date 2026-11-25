@@ -1,0 +1,48 @@
+{
+ "updated": "2026-11-25",
+ "sections": [
+  {
+   "heading": "属征与区系",
+   "heading_en": "Diagnosis and regional representation",
+   "heading_es": "Diagnosis y representación regional",
+   "paragraphs": [
+    {
+     "text": "根据 Das 与 Choudhury（2023）研究，瓢白蚁属（<i>Bulbitermes</i>）由 Emerson 于 1949 年自象白蚁属（<i>Nasutitermes</i>）分出，依据是兵蚁头壳在触角后方明显收缩（constricted head）；该属兵蚁单态，群体修建覆盖式通道，不在地表自由活动（non-free-ranging）。该研究统计全球共 33 种，印度区（含孟加拉、巴基斯坦、斯里兰卡、不丹、尼泊尔与缅甸）原记录 4 种。",
+     "text_en": "According to Das and Choudhury (2023), <i>Bulbitermes</i> was separated from <i>Nasutitermes</i> by Emerson in 1949 on the basis of the soldier head being markedly constricted behind the antennae; its soldiers are monomorphic and the colonies build covered galleries rather than foraging freely on the surface. The study counts 33 species worldwide, four of them previously recorded from the Indian region (Bangladesh, Pakistan, Sri Lanka, Bhutan, Nepal and Myanmar).",
+     "text_es": "Según Das y Choudhury (2023), <i>Bulbitermes</i> fue separado de <i>Nasutitermes</i> por Emerson en 1949 sobre la base de la cabeza del soldado marcadamente constreñida por detrás de las antenas; los soldados son monomorfos y las colonias construyen galerías cubiertas en lugar de forrajear libremente en la superficie. El estudio contabiliza 33 especies en el mundo, cuatro de ellas citadas previamente de la región india (Bangladesh, Pakistán, Sri Lanka, Bután, Nepal y Myanmar).",
+     "src": [
+      "S0468"
+     ]
+    },
+    {
+     "text": "根据 Syaukani（2017）对印度尼西亚群体的观察，瓢白蚁属的巢多筑于灌木或树枝分叉处、离地不高，在苏门答腊与加里曼丹的原始林中常位于龙脑香科（Dipterocarpaceae）树木的板根之间，也有悬于藤本的近球形或椭圆形巢；巢外层薄软、可防雨，内层坚硬并含朽木与土；通道口有兵蚁守卫，受扰时兵蚁自巢口喷出黏稠液体，王室与普通巢室无明显差别、难以找到。",
+     "text_en": "In the observations of Syaukani (2017) on Indonesian colonies, nests of <i>Bulbitermes</i> are usually built low above the ground at the forks of shrubs or branches, often between the buttresses of Dipterocarpaceae trees in the forests of Sumatra and Kalimantan, and some are nearly spherical or oval nests suspended on lianas; the outer layer is thin and soft and sheds rain, whereas the inner layer is hard and contains decayed wood and soil. Soldiers guard the gallery entrances and eject a viscous fluid from the nest opening when disturbed, and the royal cell is hard to find because it does not differ noticeably from ordinary cells.",
+     "text_es": "En las observaciones de Syaukani (2017) sobre colonias de Indonesia, los nidos de <i>Bulbitermes</i> suelen construirse a poca altura, en las horquillas de arbustos o ramas, a menudo entre las contrafuertes de árboles de Dipterocarpaceae en los bosques de Sumatra y Kalimantán, y algunos son nidos casi esféricos u ovales suspendidos de lianas; la capa externa es delgada y blanda y repele la lluvia, mientras que la interna es dura y contiene madera en descomposición y suelo. Los soldados custodian las entradas de las galerías y expulsan un líquido viscoso por la boca del nido cuando se les molesta, y la cámara real es difícil de localizar porque no difiere apreciablemente de las cámaras comunes.",
+     "src": [
+      "S0469"
+     ]
+    },
+    {
+     "text": "该属主要树栖，在树干、枝条或灌丛上筑球形或长形的粪质纸板巢（stercoral carton nest），也有木巢；据其取食死木的习性，作者将其归入 feeding group II。",
+     "text_en": "The genus is mainly arboreal, building spherical or elongate stercoral carton nests on trunks, branches or undergrowth, and also nests in wood; on account of its habit of feeding on dead wood the authors place it in feeding group II.",
+     "text_es": "El género es principalmente arbóreo y construye nidos esféricos o alargados de cartón estecoral en troncos, ramas o matorral, y también nidos en madera; por su hábito de alimentarse de madera muerta los autores lo incluyen en el grupo trófico II.",
+     "src": [
+      "S0468"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0468",
+   "citation": "Das, K. S.; Choudhury, S. 2023. A new termite species of the genus Bulbitermes (Blattodea: Isoptera: Termitidae) from Meghalaya, India. Journal of Threatened Taxa 15(3): 22850–22858. https://doi.org/10.11609/jott.7827.15.3.22850-22858",
+   "doi": "10.11609/jott.7827.15.3.22850-22858"
+  },
+  {
+   "id": "S0469",
+   "citation": "Syaukani. 2017. Deskripsi ulang dan sarang Bulbitermes germanus (Haviland) (Isoptera: Termitidae) di Indonesia. Jurnal Entomologi Indonesia 14(1): 44. https://doi.org/10.5994/jei.14.1.44",
+   "doi": "10.5994/jei.14.1.44"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "updated": "2026-11-25",
+ "sections": [
+  {
+   "heading": "新种与模式材料",
+   "heading_en": "The new species and its type material",
+   "heading_es": "La especie nueva y su material tipo",
+   "paragraphs": [
+    {
+     "text": "根据 Cancello（1987）研究，卡埃特巨鼻白蚁（<i>Cyranotermes caete</i>）的模式产地为巴西帕拉州卡拉雅斯（Carajás）Serra Norte 的 N-3 林道，1985 年 7–8 月由 R. Constantino 采于「road N1–N5」与「Núcleo 3」之间的原始林，巢未知；正模为 1 头兵蚁（MZUSP 8711），副模包括同批 15 头工蚁与 7 头兵蚁（8711）以及另批 5 头兵蚁与 4 头工蚁（8712）。",
+     "text_en": "According to Cancello (1987), <i>Cyranotermes caete</i> was described from the N-3 forest track at Serra Norte, Carajás, Pará, Brazil, where R. Constantino collected it in July–August 1985 in primary forest between “road N1–N5” and “Núcleo 3”; no nest was found. The holotype is one soldier (MZUSP 8711), and paratypes comprise 15 workers and seven soldiers from lot 8711 and five soldiers and four workers from lot 8712.",
+     "text_es": "Según Cancello (1987), <i>Cyranotermes caete</i> se describió de la pista forestal N-3 en Serra Norte, Carajás, Pará, Brasil, donde R. Constantino la recolectó en julio–agosto de 1985 en selva primaria entre la «road N1–N5» y el «Núcleo 3»; no se encontró nido. El holotipo es un soldado (MZUSP 8711) y los paratipos comprenden 15 obreros y siete soldados del lote 8711 y cinco soldados y cuatro obreros del lote 8712.",
+     "src": [
+      "S0472"
+     ]
+    },
+    {
+     "text": "兵蚁单态，头略长、后部宽于触角处，侧面后缘圆形、有一凹陷接驼峰，鼻锥形、端微下弯，上唇短宽、不三裂，上颚退化，触角 13 节（第 3 节最长，末节或末 3 节最短），头无毛、表面粗糙，鼻端有 4 根毛，胫距式 2:2:2；量度（14 头兵蚁）为头至鼻端 1.84–2.03 mm、头至鼻基 0.81–0.90 mm、后足胫节 1.19–1.31 mm、头宽 0.65–0.75 mm、触角处头宽 0.56–0.62 mm、鼻基宽 0.25–0.31 mm、前胸背板宽 0.44–0.52 mm。",
+     "text_en": "The soldier is monomorphic: the head is slightly elongate and wider behind than at the antennae, the posterior margin is circular in profile with a depression before a hump, the nasus is conical with a slightly down-curved tip, the labrum is short and broad and not trilobed, the mandibles are vestigial, the antenna has 13 articles (article 3 the longest, the last or last three the shortest), the head is hairless and rugose, the nasus bears four setae at the tip, and the tibial spur formula is 2:2:2. Measurements of 14 soldiers: head length to nasus tip 1.84–2.03 mm, head length to nasus base 0.81–0.90 mm, hind tibia 1.19–1.31 mm, head width 0.65–0.75 mm, head width at antennae 0.56–0.62 mm, nasus basal width 0.25–0.31 mm, pronotal width 0.44–0.52 mm.",
+     "text_es": "El soldado es monomorfo: la cabeza es algo alargada y más ancha por detrás que a la altura de las antenas, el margen posterior es circular de perfil con una depresión antes de una joroba, el nasus es cónico con el ápice ligeramente curvado hacia abajo, el labro es corto y ancho y no trilobulado, las mandíbulas son vestigiales, la antena tiene 13 artejos (el 3 el más largo, el último o los tres últimos los más cortos), la cabeza es glabra y rugosa, el nasus lleva cuatro setas en el ápice y la fórmula de espolones tibiales es 2:2:2. Medidas de 14 soldados: longitud cefálica hasta el ápice del nasus 1,84–2,03 mm, hasta la base del nasus 0,81–0,90 mm, tibia posterior 1,19–1,31 mm, anchura cefálica 0,65–0,75 mm, anchura cefálica a la altura de las antenas 0,56–0,62 mm, anchura basal del nasus 0,25–0,31 mm, anchura del pronoto 0,44–0,52 mm.",
+     "src": [
+      "S0472"
+     ]
+    },
+    {
+     "text": "工蚁单态，头圆形，触角 13 或 14 节（第 1 节最大，第 2–4 节近等长，第 5 节以后较长），前胸背板微凹。",
+     "text_en": "Workers are monomorphic with a rounded head; the antenna has 13 or 14 articles (the first the largest, articles 2–4 subequal, article 5 and following longer), and the pronotum is slightly emarginate.",
+     "text_es": "Los obreros son monomorfos, con cabeza redondeada; la antena tiene 13 o 14 artejos (el primero el mayor, los artejos 2–4 subiguales y el 5 y siguientes más largos), y el pronoto está ligeramente emarginado.",
+     "src": [
+      "S0472"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0472",
+   "citation": "Cancello, E. M. 1987. Observation on Cyranotermes Araújo, with a description of C. caete, new species (Isoptera, Termitidae, Nasutitermitinae). Papéis Avulsos de Zoologia 36(21): 251–255. https://doi.org/10.11606/0031-1049.1983.36.p251-255",
+   "doi": "10.11606/0031-1049.1983.36.p251-255"
+  }
+ ]
+}
