@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-26",
+  "work": "2026-11-26 轮 20 个阅读单元（15 个文库 chunk + 5 条仅摘要记录）",
+  "unit": "按 chunk 与摘要单元逐条抽取；本轮未写进页面或只写进部分页面的可核查事实",
+  "locator": "_tmp/library-scan/2026-11-26/units.json",
+  "facts": [
+    {
+      "page": "/species/cryptotermes-garifunae/",
+      "claim": "加里富纳堆砂白蚁（Cryptotermes garifunae）的兵蚁与有翅成虫是新世界堆砂白蚁属中最小的。",
+      "quote": "The C. garifunae soldier and imago are the smallest of the New World Cryptotermes.",
+      "src": "S0500",
+      "work": "A New Cryptotermes (Blattodea (Isoptera): Kalotermitidae) from Honduras and Known Distribution of New World Cryptotermes Species",
+      "unit": "摘要",
+      "locator": "0001-0007.txt / 摘要",
+      "status": "queued",
+      "note": "站内正名为「加利福尼亚堆砂白蚁」，与种名词源 Garifuna（洪都拉斯海岸民族）不符，须先核名再写种页"
+    },
+    {
+      "page": "/species/cryptotermes-garifunae/",
+      "claim": "该种是加勒比盆地与西印度群岛已知第 22 个堆砂白蚁属种；新世界共 31 种，分布图据 1,452 条新记录绘制。",
+      "quote": "represents the twenty-second Cryptotermes species known from the Caribbean Basin and West Indies.",
+      "src": "S0500",
+      "work": "A New Cryptotermes (Blattodea (Isoptera): Kalotermitidae) from Honduras and Known Distribution of New World Cryptotermes Species",
+      "unit": "摘要",
+      "locator": "0001-0007.txt / 摘要",
+      "status": "queued",
+      "note": "31 种与 1,452 条记录见同段 Distribution maps 句"
+    },
+    {
+      "page": "—",
+      "claim": "印度白蚁名录记 320 种、53 属、8 科，白蚁科最大。",
+      "quote": "A total of 320 species belonging to 53 genera and 8 families have been reported, Termitidae Latreille,1802 being the largest family.",
+      "src": "S0492",
+      "work": "Termites (Blattodea: Isoptera) of India: An updated checklist",
+      "unit": "摘要",
+      "locator": "0001-0082.txt / 摘要",
+      "status": "queued",
+      "note": "纯名录级，按 SOP §4.4.1 不写种页；下一轮若要做区系统计从此取数"
+    },
+    {
+      "page": "—",
+      "claim": "喀拉拉邦名录记 93 种、3 科、34 属，白蚁科 76 种 27 属 4 亚科。",
+      "quote": "A total of 93 species from three families and 34 genera are documented.",
+      "src": "S0493",
+      "work": "Termites (Isoptera) of Kerala: An updated checklist and comprehensive review of species diversity",
+      "unit": "摘要",
+      "locator": "0001-0012.txt / 摘要",
+      "status": "queued",
+      "note": "纯名录级，特有种 41/93（44.08%）见同段"
+    },
+    {
+      "page": "/species/rugitermes-aridus/",
+      "claim": "干皱白蚁（Rugitermes aridus）正模兵蚁采于秘鲁瓦努科（Huánuco）东北 10 km、海拔 2127 m，采集号 UFTC PU991。",
+      "quote": "(-9.877, -76.1641), elev. 2127 m, 1 Jun. 2014, R. Scheffrahn et al. (R. Scheffrahn, T. Carrijo, J. Chase, J. Křeček, E. Kuswanto, J. Mangold, A. Mullins, and T. Nishimura), University of Florida Termite Collection (UFTC), Davie Florida, no. PU991.",
+      "src": "S0496",
+      "work": "Three new species of Rugitermes (Isoptera, Kalotermitidae) from Peru and Bolivia",
+      "unit": "Rugitermes aridus 新种处理 / 模式材料",
+      "locator": "full.txt / 模式材料段",
+      "status": "queued",
+      "note": "本轮属页只作分布概述，种页留待下一轮"
+    },
+    {
+      "page": "/species/tauritermes-bandeirai/",
+      "claim": "班代拉牛白蚁（Tauritermes bandeirai）兵蚁量度取自 9 个群体 21 头兵蚁。",
+      "quote": "Table 2. Measurements of Tauritermes bandeirai sp. nov. soldiers (n = 21) from nine colonies.",
+      "src": "S0479",
+      "work": "Tauritermes bandeirai: A new drywood termite (Isoptera, Kalotermitidae) from the Caatinga and Atlantic Forest of Brazil",
+      "unit": "Table 2 / 量度",
+      "locator": "0001-0010.txt / Table 2",
+      "status": "queued",
+      "note": "头长含上颚 2.12（1.95–2.25）mm、头宽 1.11（0.95–1.20）mm 等已写入种页；有翅成虫量度（n=7）未写"
+    },
+    {
+      "page": "/genus/macrotermes/",
+      "claim": "Ruelle 1970 修订埃塞俄比亚区大白蚁属时检查了 2,123 个巢系。",
+      "quote": "A total of 2,123 nest series from all parts of Africa have been examined",
+      "src": "S0462",
+      "work": "A revision of the termites of the genus Macrotermes from the Ethiopian region (Isoptera: Termitidae)",
+      "unit": "Material / 模式材料说明",
+      "locator": "part-001.txt / MATERIAL 段",
+      "status": "queued",
+      "note": "同一著作在 .sources 中有 S0490（无 DOI）与 S0462（有 DOI）两条记录；本轮统一引 S0462"
+    },
+    {
+      "page": "/species/macrotermes-michaelseni/",
+      "claim": "据摘要，米夏埃尔森大白蚁（Macrotermes michaelseni）作为生态系统工程师在多个空间尺度上起作用，其影响通过带反馈的生物物理过程累积。",
+      "quote": "It is argued that this species acts as an ecosystem engineer across a range of spatial scales, from alteration of local infiltration rates to the creation of landscape mosaics, and that its impacts accrue because of the initiation of biophysical processes that often include feedback mechanisms.",
+      "src": "S0136",
+      "work": "The mound-building termite Macrotermes michaelseni as an ecosystem engineer",
+      "unit": "摘要",
+      "locator": "摘要",
+      "status": "queued",
+      "note": "仅摘要，且全为框架性表述，按 SOP §8 不立页；若日后写生态节须标「据摘要」"
+    },
+    {
+      "page": "/species/macrotermes-michaelseni/",
+      "claim": "据摘要，该种蚁丘以风为主要通风能源，巢内为风速风向变化驱动的潮汐式气流。",
+      "quote": "Wind is a significant source of energy for powering nest ventilation, despite the mound being a completely enclosed structure. Nests are ventilated by a tidal movement of air driven by temporal variation in wind speed and wind direction.",
+      "src": "S0143",
+      "work": "On the Mound of Macrotermes michaelseni as an Organ of Respiratory Gas Exchange",
+      "unit": "摘要",
+      "locator": "摘要",
+      "status": "queued",
+      "note": "仅摘要；可与既有 michaelseni 页的生态段合并时标「据摘要」"
+    },
+    {
+      "page": "—",
+      "claim": "据摘要，Constantino 1998 的新世界名录记 86 属、543 种，并把 Curvitermes projectidens 移入戟白蚁属（Armitermes）、把 Nasutitermes columbicus 降为 N. guayanae 的异名。",
+      "quote": "The number of termite genera recorded for the New World is 86, and the number of species 543.",
+      "src": "S0140",
+      "work": "Catalog of the living termites of the New World (Insecta: Isoptera)",
+      "unit": "摘要",
+      "locator": "摘要",
+      "status": "queued",
+      "note": "仅摘要；名录级信息，按 SOP §4.4.1 不写种页"
+    },
+    {
+      "page": "—",
+      "claim": "据摘要，网翅目系统发育分析支持 Blattodea + Cryptocercidae 与 Mantodea 互为姐妹群，等翅目为该复合体的姐妹群。",
+      "quote": "strongly supporting Blattodea + Cryptocercidae as a sister group to Mantodea, with the Isoptera as a sister group to that complex.",
+      "src": "S0141",
+      "work": "Phylogeny of the Dictyoptera",
+      "unit": "摘要",
+      "locator": "摘要",
+      "status": "queued",
+      "note": "仅摘要；目级结论，无对应属种页面可落"
+    },
+    {
+      "page": "—",
+      "claim": "据摘要，Redford 1984 讨论巴西 cerrado 中 Cornitermes cumulans 蚁丘的密度、描述、废弃、共栖者、捕食与侵袭。",
+      "quote": "Densite des termitieres; description de celles-ci; leur abandon; commensaux; predation et attaque des termitieres",
+      "src": "S0139",
+      "work": "The Termitaria of Cornitermes cumulans (Isoptera, Termitidae) and Their Role in Determining a Potential Keystone Species",
+      "unit": "摘要（法文）",
+      "locator": "摘要",
+      "status": "queued",
+      "note": "仅摘要且为内容清单，无具体数值，按 SOP §8 不立页"
+    },
+    {
+      "page": "—",
+      "claim": "Hill 1927《Termites from the Australian Region. Part I》OCR 严重破碎，无法抽取可核查的种级处理。",
+      "quote": "Termites from the Australian Region",
+      "src": "S0491",
+      "work": "Termites from the Australian Region. Part I",
+      "unit": "全文（chunk part-001）",
+      "locator": "part-001.txt / 全篇",
+      "status": "rejected",
+      "note": "OCR 一词一行、字符错乱；仅 L416–435 的属级名单可读，按 SOP §9 不入库、不 OCR，待抓取工作流换更好的扫描件"
+    }
+  ]
+}

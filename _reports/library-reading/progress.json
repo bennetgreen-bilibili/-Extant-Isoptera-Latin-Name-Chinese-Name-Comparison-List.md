@@ -1,7 +1,7 @@
 {
  "version": 1,
  "created": "2026-11-11",
- "updated": "2026-11-24T23:31:31+08:00",
+ "updated": "2026-11-26T20:09:39+08:00",
  "notes": "每轮 20 个阅读单元（15 个文库 chunk + 5 条仅摘要记录）。扫描产出候选后由 _tools/library_scan.py mark --date 登记；只有草稿获用户批准并落盘后，才把该轮 reading_passes 记为完成。",
  "quota": {
   "total": 20,
@@ -185,8 +185,8 @@
    ]
   },
   "abstract:S0010": {
-   "reads": 5,
-   "last_read": "2026-11-21T21:21:28+08:00",
+   "reads": 6,
+   "last_read": "2026-11-26T20:09:39+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -211,13 +211,18 @@
     {
      "date": "2026-11-21",
      "focus": "morphology",
+     "source_id": "S0010"
+    },
+    {
+     "date": "2026-11-25",
+     "focus": "ecology",
      "source_id": "S0010"
     }
    ]
   },
   "abstract:S0011": {
-   "reads": 5,
-   "last_read": "2026-11-21T21:21:28+08:00",
+   "reads": 6,
+   "last_read": "2026-11-26T20:09:39+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -242,13 +247,18 @@
     {
      "date": "2026-11-21",
      "focus": "morphology",
+     "source_id": "S0011"
+    },
+    {
+     "date": "2026-11-25",
+     "focus": "ecology",
      "source_id": "S0011"
     }
    ]
   },
   "abstract:S0012": {
-   "reads": 5,
-   "last_read": "2026-11-21T21:21:28+08:00",
+   "reads": 6,
+   "last_read": "2026-11-26T20:09:39+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -273,13 +283,18 @@
     {
      "date": "2026-11-21",
      "focus": "morphology",
+     "source_id": "S0012"
+    },
+    {
+     "date": "2026-11-25",
+     "focus": "ecology",
      "source_id": "S0012"
     }
    ]
   },
   "abstract:S0098": {
-   "reads": 5,
-   "last_read": "2026-11-21T21:21:28+08:00",
+   "reads": 6,
+   "last_read": "2026-11-26T20:09:39+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -304,6 +319,11 @@
     {
      "date": "2026-11-21",
      "focus": "morphology",
+     "source_id": "S0098"
+    },
+    {
+     "date": "2026-11-25",
+     "focus": "ecology",
      "source_id": "S0098"
     }
    ]
@@ -830,8 +850,8 @@
    ]
   },
   "abstract:S0144": {
-   "reads": 5,
-   "last_read": "2026-11-21T21:21:28+08:00",
+   "reads": 6,
+   "last_read": "2026-11-26T20:09:39+08:00",
    "history": [
     {
      "date": "2026-11-11",
@@ -856,6 +876,11 @@
     {
      "date": "2026-11-21",
      "focus": "morphology",
+     "source_id": "S0144"
+    },
+    {
+     "date": "2026-11-25",
+     "focus": "ecology",
      "source_id": "S0144"
     }
    ]
@@ -4336,6 +4361,171 @@
      "date": "2026-11-24",
      "focus": "taxonomy",
      "source_id": "S0464"
+    }
+   ]
+  },
+  "10.5962-bhl.part.75218::full": {
+   "reads": 1,
+   "last_read": "2026-11-26T20:09:39+08:00",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "focus": "taxonomy",
+     "source_id": "S0467"
+    }
+   ]
+  },
+  "acorhinotermes-2019-zookeys891::0001-0010": {
+   "reads": 1,
+   "last_read": "2026-11-26T20:09:39+08:00",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "focus": "taxonomy",
+     "source_id": null
+    }
+   ]
+  },
+  "10.3897-zookeys.891.37523::0001-0010": {
+   "reads": 1,
+   "last_read": "2026-11-26T20:09:39+08:00",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "focus": "taxonomy",
+     "source_id": "S0041"
+    }
+   ]
+  },
+  "10.11609-jott.7827.15.3.22850-22858::0001-0014": {
+   "reads": 1,
+   "last_read": "2026-11-26T20:09:39+08:00",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "focus": "taxonomy",
+     "source_id": "S0468"
+    }
+   ]
+  },
+  "10.5994-jei.14.1.44::0001-0007": {
+   "reads": 1,
+   "last_read": "2026-11-26T20:09:39+08:00",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "focus": "taxonomy",
+     "source_id": "S0469"
+    }
+   ]
+  },
+  "10.11646-zootaxa.5219.6.6::0001-0008": {
+   "reads": 1,
+   "last_read": "2026-11-26T20:09:39+08:00",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "focus": "taxonomy",
+     "source_id": "S0470"
+    }
+   ]
+  },
+  "10.33307-entomon.v50i1.1407::0001-0006": {
+   "reads": 1,
+   "last_read": "2026-11-26T20:09:39+08:00",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "focus": "taxonomy",
+     "source_id": "S0471"
+    }
+   ]
+  },
+  "10.11606-0031-1049.1983.36.p251-255::0001-0006": {
+   "reads": 1,
+   "last_read": "2026-11-26T20:09:39+08:00",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "focus": "taxonomy",
+     "source_id": "S0472"
+    }
+   ]
+  },
+  "10.11609-jott.7776.14.8.21715-21719::0001-0010": {
+   "reads": 1,
+   "last_read": "2026-11-26T20:09:39+08:00",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "focus": "taxonomy",
+     "source_id": "S0473"
+    }
+   ]
+  },
+  "10.3897-zookeys.1059.70500::0001-0011": {
+   "reads": 1,
+   "last_read": "2026-11-26T20:09:39+08:00",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "focus": "taxonomy",
+     "source_id": "S0474"
+    }
+   ]
+  },
+  "10.1590-s0073-47212002000200005::0001-0004": {
+   "reads": 1,
+   "last_read": "2026-11-26T20:09:39+08:00",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "focus": "taxonomy",
+     "source_id": "S0475"
+    }
+   ]
+  },
+  "10.22373-ekw.v4i2.4001::0001-0013": {
+   "reads": 1,
+   "last_read": "2026-11-26T20:09:39+08:00",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "focus": "taxonomy",
+     "source_id": "S0476"
+    }
+   ]
+  },
+  "10.15560-22.5.840::0001-0008": {
+   "reads": 1,
+   "last_read": "2026-11-26T20:09:39+08:00",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "focus": "taxonomy",
+     "source_id": "S0477"
+    }
+   ]
+  },
+  "10.3897-zookeys.623.9677::0001-0018": {
+   "reads": 1,
+   "last_read": "2026-11-26T20:09:39+08:00",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "focus": "taxonomy",
+     "source_id": "S0348"
+    }
+   ]
+  },
+  "10.11606-0031-1049.1997.40.p147-159::0001-0016": {
+   "reads": 1,
+   "last_read": "2026-11-26T20:09:39+08:00",
+   "history": [
+    {
+     "date": "2026-11-25",
+     "focus": "taxonomy",
+     "source_id": "S0478"
     }
    ]
   }
