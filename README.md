@@ -10,7 +10,7 @@
 | `basics/index.md` | 白蚁基础知识索引（`/basics/`）：入口页，只列形态篇，附用法与分类口径说明；三语（`en/basics/index.md`、`es/basics/index.md`） |
 | `basics/morphology.md` | 形态篇（`/basics/morphology/`）：形态学器官与部位的中文名、拉丁/英文名与识别要点，按品级、头、胸、腹、兵蚁、内部器官分组，附命名与异名对照及文献出处；三语（`en/basics/morphology.md`、`es/basics/morphology.md`） |
 | `_pending_pages/basics/biology.md` | 生物学篇（`/basics/biology/`）：品级发育、筑巢、食性与消化共生、生活史、社会行为、防御、生态功能，附文献；三语（`_pending_pages/basics/en/biology.md`、`_pending_pages/basics/es/biology.md`）；**2026-11-15 起从站点移除**，恢复步骤见 `_pending_pages/basics/README.md` |
-| `search.md` | 全文搜索：全站全文检索页（Pagefind 静态索引，含名录、物种页、统计、数据与博客；支持 `?q=` 预填） |
+| `search.md` | 全文搜索：全站全文检索页（Pagefind 静态索引，含名录、物种页、统计与数据；支持 `?q=` 预填） |
 | `papers.md` | 文献检索：按拉丁名/中文名/多个关键词检索 OpenAlex + Crossref，默认限定白蚁（等翅目）文献，自动合并次异名，显示摘要，摘要可机器翻译成中文 / English / Español，导出 GB/T 7714 / BibTeX / RIS；三语 |
 | `stats.md` | 统计：科/亚科/属级物种数统计表 |
 | `name-issues.md` | 命名差异：名录索引页下一级（`/list/name-issues/`），把本站名与 GBIF / Catalogue of Life / BSF 的对照结果整理成可筛选清单（名称差异 / 匹配存疑 / 覆盖缺口），支持按类型、来源、关键词筛选与每页 50 条分页，附 CSV 与公开 JSON |
@@ -26,13 +26,15 @@
 
 > 系统发育树页面（原 `/phylogeny/`、`/en/phylogeny/`、`/es/phylogeny/`）自 2026-11-02 起暂缓发布：三个页面已移到 `_pending_pages/phylogeny/`，`_data/phylogeny.json`、`assets/phylogeny.js`、`assets/phylogeny.css`、`_includes/phylogeny.html` 与三语文案（i18n 的 phylogeny 段）仍保留；等新论文发表后按 `_pending_pages/phylogeny/README.md` 恢复即可。
 
+> 博客页面（原 `/blog/`、`/en/blog/`、`/es/blog/`）自 2026-11-26 起从站点移除：三语博客页与 `_posts/` 下唯一一篇文章已移到 `_pending_pages/blog/`，导航栏、首页卡片、搜索页与检索提示里的博客入口一并撤下；文章布局 `_layouts/post.html`、`_config.yml` 的 `_posts` defaults、`feed.xml` 与 `feed.json` 仍保留。需要恢复时按 `_pending_pages/blog/README.md` 操作。
+
 > 分布图与文献不再是独立页面：**分布图**内嵌在每个科页、亚科页与属页的标题下方（每个物种页另有该种自己的种级地图）；**77 条参考文献的 Crossref / DOI 增强视图**内嵌在名录索引页底部（`#references-doi`）。原来的 `/distribution/`、`/references/` 三语页面已移除。
 
 ## 多语言（中文 / English / Español）
 - 三种语言一套模板：`_layouts/default.html` 读页面 front matter 的 `lang`（`zh-CN` / `en` / `es`）决定语言前缀、导航、页脚与语言切换；页面路径去掉 `/en`、`/es` 前缀后同构，`hreflang` 与语言切换链接都由它推导。
 - 界面文案唯一来源：`_data/i18n.yml`（导航、页脚、页头副标题、语言切换名、回到顶部、页头品牌）。**新增一门语言**只需：① 这里加一个语言键；② `_config.yml` 加 `title_xx`（页头主标题）；③ 建 `xx/` 目录下与根目录一一对应的页面（`lang: xx` + `permalink: /xx/…/`）。模板、hreflang、语言切换、sitemap 脚本都不用改（`build_sitemap_txt.py` 会自动收录新目录）。
 - 页面标题：标签页 `<title>` 只显示本页语言（各页 front matter 的 `title`）；页头显示双语标题——主行＝本页语言（`title_zh` / `title_en` / `title_es`），副行＝另一语言（中文页→英文，英文页→中文，西语页→英文），副行只出现在页头。
-- 物种页 `_species/`、`en/species/`、`es/species/` 三语各一页（见下文「物种页」），每页只放本语言内容；文章 `_posts/` 目前只有中文，不显示语言切换（English/Español 切到 `/en/blog/`、`/es/blog/`），标题为中文标题。
+- 物种页 `_species/`、`en/species/`、`es/species/` 三语各一页（见下文「物种页」），每页只放本语言内容；文章目录 `_posts/` 随博客封存（2026-11-26 起没有文章，见 `_pending_pages/blog/README.md`）；恢复后文章只有中文，不显示语言切换（English/Español 切到 `/en/blog/`、`/es/blog/`），标题为中文标题。
 - 名录索引与译文页：三语 `/list/`（`list.md` 563 行、`en/list.md` 与 `es/list.md` 各 565 行，锚点集合三语同构）只承担索引职能；科／亚科正文的英译、西译同时写进各语言的科页（`/en/family/…`、`/es/family/…`），并在 `/en/list/sections/`、`/es/list/sections/` 保留合订本（各 466 行）。这 5 个页面全部由 `_tools/build_list_index.py` 从 `_data/taxonomy.json`、`_data/list_index_blocks.json`、`_data/taxon_prose/` 确定性生成，**不要手改**；改分类层级改前者，改索引页导语／按科浏览／参考文献改中者，改科亚科正文改后者。描述性段落为机器翻译初稿，建议母语者校对后再定稿。
 - 分类页与物种页按语言拆成独立页面（2026-11-12 起）：科／亚科／属／物种四类都是「一语言一页」——中文 `/family/<id>/`、英文 `/en/family/<id>/`、西文 `/es/family/<id>/`（subfamily / genus / species，以及各单元的 `…/photos/` 图片页同构）。页内只有本语言正文，不再出现 `.fact-en` / `.fact-es` 小字或 `EN —` / `ES —` 段；front matter 带 `single_lang: true`（物种页另带 `layout: species` + `species_page: true`）。生成器 `.github/workflows/build_taxonomy_pages.py`、`build_species_body.py`、`build_photo_pages.py` 一次写三份；页内译文取自 `_data/translations_en/` / `_data/translations_es/`（顶层键 meta / morphology_genera / morphology_species / fauna_families / fauna_genera / fauna_species / fauna_keys，键与原数据文件一致），某条译文缺失时该小节整块省略、页首挂 `<aside class="lang-note">` 单语提示（`page.translation_pending`），**不回退中文**。译文覆盖率与数字对账：`python _tools/translations_merge.py --all --check-only`；页面契约（三语齐备 / permalink / 无三语残留 / 外文页无中文句子 / 站内链带语言前缀）：`python _tools/check_lang_pages.py --ci`。
 
@@ -233,7 +235,7 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
 - 各脚本都支持 `--check`（离线校验）与断点续跑；缓存文件变大是正常的（`_data/` 下最大的是权威库与图片缓存）。
 
 ## 订阅与分发（Atom / JSON Feed / OpenSearch / 版本记录）
-- `feed.xml`（Atom，博客文章）与 `feed.json`（JSON Feed 1.1）由 Jekyll 页面模板直接输出（`permalink: /feed.xml`、`/feed.json`，`sitemap: false`），不依赖插件；`_layouts/default.html` 的 `<head>` 里有 `<link rel="alternate">` 自动发现。
+- `feed.xml`（Atom，博客文章）与 `feed.json`（JSON Feed 1.1）由 Jekyll 页面模板直接输出（`permalink: /feed.xml`、`/feed.json`，`sitemap: false`），不依赖插件。博客封存后 `_posts` 为空，两个订阅源仍照常生成、只是条目为空；`_layouts/default.html` 的 `<head>` 不再写 `<link rel="alternate">`（恢复时按 `_pending_pages/blog/README.md` 加回）。
 - `changelog.atom`：由 `_tools/build_changelog.py` 从 `dataset/CHANGELOG.md` 生成（确定性输出，`--check` 校验），逐版本列出归档变更；人读版在 `/changelog/`（三语，`_data/changelog.json` 驱动）。
 - `opensearch.xml`：OpenSearch 描述文档，浏览器可把本站加为搜索引擎（检索地址 `/search/?q=…`）。
 - `index.md`（三语）输出 `WebSite` + `SearchAction` JSON-LD（与已有 Dataset 实体并存），便于搜索引擎识别站内搜索框。
@@ -297,7 +299,7 @@ python .github/workflows/build_occurrence_geojson.py --write --refresh   # GBIF 
 ## 搜索引擎收录推送（IndexNow）
 - 根目录 `e2e5803b0bdbaf2841439d61209ca404.txt` 是 IndexNow 的 key 验证文件：文件名就是 key，内容也必须恰好是同一串 key。**不要改名、不要删、不要改内容**，否则 IndexNow 会拒收提交。
 - `.github/workflows/indexnow.py` 在 `pages.yml` 的 `indexnow` job（`needs: deploy`）里执行：部署完成后读取线上 sitemap，把本次提交改动到的页面 URL 批量 POST 到 `https://api.indexnow.org/indexnow`（Bing / Yandex / Seznam / Naver / Yep 共享端点），让它们分钟级重新抓取。
-- 默认只推送**本次改动涉及的 URL**（`--changed`，用 `git diff HEAD^` 映射：`_species/x.md → /species/x/`、`list.md → /list/`、`en/x.md → /en/x/`、`es/x.md → /es/x/`、`_posts/2026-10-22-welcome.md → /blog/2026/10/22/welcome/`…）。若改动涉及模板/配置（`_layouts/`、`_data/`、`assets/`、`_config.yml`），自动退化为提交整个 sitemap。
+- 默认只推送**本次改动涉及的 URL**（`--changed`，用 `git diff HEAD^` 映射：`_species/x.md → /species/x/`、`list.md → /list/`、`en/x.md → /en/x/`、`es/x.md → /es/x/`、`_posts/YYYY-MM-DD-标题.md → /blog/YYYY/MM/DD/标题/`…）。若改动涉及模板/配置（`_layouts/`、`_data/`、`assets/`、`_config.yml`），自动退化为提交整个 sitemap。
 - 该 step 设了 `continue-on-error: true`：推送失败只会标黄，不会让部署失败。
 - 手动执行：`python .github/workflows/indexnow.py --dry-run`（只解析不提交）、`--changed --dry-run`、`--sitemap <本地或线上 sitemap 路径>`。
 - Google 不支持 IndexNow（sitemap ping 也已停用），Google 侧依靠 `sitemap.xml` + 站内链接 + 时间；百度/必应中国的站长平台 API 需要 token，暂未接入。

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Full-site search
-description: "Full-text search across the checklist, 3089 species pages, statistics, data and blog: Chinese (traditional too), Latin names and pinyin. Local queries stay in the browser; the optional AI chat sends questions to Cloudflare."
+description: "Full-text search across the checklist, 3089 species pages, statistics and data: Chinese (traditional too), Latin names and pinyin. Local queries stay in the browser; the optional AI chat sends questions to Cloudflare."
 lang: en
 author: 班奈特格林
 date: 2026-10-17
@@ -21,7 +21,7 @@ pagefind: true
 
 <h2 id="local-fulltext">{{ site.data.i18n[page.lang].search_local_heading }}</h2>
 
-<p>Search everything on the site: the checklist text, all 3089 species pages, the statistics and data pages, and blog posts. The index is generated at build time by the open-source <a href="https://pagefind.app/">Pagefind</a> tool; queries are matched against that local index in your browser and the search terms are not sent to any server, this site's included.</p>
+<p>Search everything on the site: the checklist text, all 3089 species pages, the statistics and data pages. The index is generated at build time by the open-source <a href="https://pagefind.app/">Pagefind</a> tool; queries are matched against that local index in your browser and the search terms are not sent to any server, this site's included.</p>
 
 <div id="pagefind-search" data-pagefind-ignore data-lang="en" data-base="{{ site.base_url }}"></div>
 

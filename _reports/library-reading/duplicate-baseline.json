@@ -2,9 +2,44 @@
  "_readme": "check_lit_duplicates.py 的既有近似重复基线。每条 {a: 页面A, b: 页面B, reason: 说明}。基线内配对默认只提示、不判失败；`--strict` 会忽略本文件。新增条目须在 reason 里写清「为何两条都要保留 / 何时重写」，不要用基线掩盖本轮新写的重复。",
  "pairs": [
   {
+   "a": "/family/hodotermitidae/",
+   "b": "/species/anacanthotermes-ochraceus/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.73）"
+  },
+  {
+   "a": "/family/kalotermitidae/",
+   "b": "/genus/cryptotermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.71）"
+  },
+  {
    "a": "/family/stolotermitidae/",
    "b": "/family/stolotermitidae/",
    "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.77）"
+  },
+  {
+   "a": "/genus/acanthotermes/",
+   "b": "/genus/angulitermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.71）"
+  },
+  {
+   "a": "/genus/acanthotermes/",
+   "b": "/genus/baucaliotermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.75）"
+  },
+  {
+   "a": "/genus/acanthotermes/",
+   "b": "/genus/capritermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.70）"
+  },
+  {
+   "a": "/genus/acanthotermes/",
+   "b": "/genus/cyranotermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.72）"
+  },
+  {
+   "a": "/genus/acanthotermes/",
+   "b": "/genus/euscaiotermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.70）"
   },
   {
    "a": "/genus/aciculitermes/",
@@ -13,8 +48,23 @@
   },
   {
    "a": "/genus/afrosubulitermes/",
+   "b": "/genus/bulbitermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.71）"
+  },
+  {
+   "a": "/genus/afrosubulitermes/",
+   "b": "/genus/ceylonitermellus/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.70）"
+  },
+  {
+   "a": "/genus/afrosubulitermes/",
    "b": "/genus/forficulitermes/",
    "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.70）"
+  },
+  {
+   "a": "/genus/afrosubulitermes/",
+   "b": "/genus/furculitermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.74）"
   },
   {
    "a": "/genus/agnathotermes/",
@@ -42,6 +92,11 @@
    "reason": "S0434 属页与种页共享分组句"
   },
   {
+   "a": "/genus/ampoulitermes/",
+   "b": "/genus/baucaliotermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.72）"
+  },
+  {
    "a": "/genus/anacanthotermes/",
    "b": "/genus/postelectrotermes/",
    "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.74）"
@@ -52,6 +107,56 @@
    "reason": "S0193 属页与种页共享同一分布句"
   },
   {
+   "a": "/genus/angularitermes/",
+   "b": "/genus/bulbitermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.71）"
+  },
+  {
+   "a": "/genus/angularitermes/",
+   "b": "/genus/cornicapritermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.74）"
+  },
+  {
+   "a": "/genus/angularitermes/",
+   "b": "/genus/dentispicotermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.72）"
+  },
+  {
+   "a": "/genus/angulitermes/",
+   "b": "/genus/eremotermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.71）"
+  },
+  {
+   "a": "/genus/anhangatermes/",
+   "b": "/genus/ereymatermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.72）"
+  },
+  {
+   "a": "/genus/apilitermes/",
+   "b": "/genus/coarctotermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.74）"
+  },
+  {
+   "a": "/genus/apilitermes/",
+   "b": "/genus/diversitermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.70）"
+  },
+  {
+   "a": "/genus/apilitermes/",
+   "b": "/genus/hospitalitermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.72）"
+  },
+  {
+   "a": "/genus/araujotermes/",
+   "b": "/genus/cyranotermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.71）"
+  },
+  {
+   "a": "/genus/araujotermes/",
+   "b": "/genus/embiratermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.73）"
+  },
+  {
    "a": "/genus/basidentitermes/",
    "b": "/genus/ceylonitermes/",
    "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.74）"
@@ -60,6 +165,41 @@
    "a": "/genus/basidentitermes/",
    "b": "/genus/convexitermes/",
    "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.73）"
+  },
+  {
+   "a": "/genus/baucaliotermes/",
+   "b": "/genus/capritermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.70）"
+  },
+  {
+   "a": "/genus/baucaliotermes/",
+   "b": "/genus/euscaiotermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.70）"
+  },
+  {
+   "a": "/genus/bulbitermes/",
+   "b": "/genus/ceylonitermellus/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.73）"
+  },
+  {
+   "a": "/genus/bulbitermes/",
+   "b": "/genus/cornicapritermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.71）"
+  },
+  {
+   "a": "/genus/bulbitermes/",
+   "b": "/genus/dentispicotermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.73）"
+  },
+  {
+   "a": "/genus/bulbitermes/",
+   "b": "/genus/forficulitermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.71）"
+  },
+  {
+   "a": "/genus/bulbitermes/",
+   "b": "/genus/furculitermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.74）"
   },
   {
    "a": "/genus/caetetermes/",
@@ -82,9 +222,24 @@
    "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.71）"
   },
   {
+   "a": "/genus/ceylonitermellus/",
+   "b": "/genus/forficulitermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.74）"
+  },
+  {
+   "a": "/genus/ceylonitermellus/",
+   "b": "/genus/furculitermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.71）"
+  },
+  {
    "a": "/genus/ceylonitermes/",
    "b": "/genus/convexitermes/",
    "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.79）"
+  },
+  {
+   "a": "/genus/coarctotermes/",
+   "b": "/genus/diversitermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.72）"
   },
   {
    "a": "/genus/coendutermes/",
@@ -107,6 +262,16 @@
    "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.73）"
   },
   {
+   "a": "/genus/cornicapritermes/",
+   "b": "/genus/dentispicotermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.70）"
+  },
+  {
+   "a": "/genus/cornicapritermes/",
+   "b": "/genus/forficulitermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.72）"
+  },
+  {
    "a": "/genus/crenetermes/",
    "b": "/genus/euchilotermes/",
    "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.72）"
@@ -117,14 +282,44 @@
    "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.71）"
   },
   {
+   "a": "/genus/drepanotermes/",
+   "b": "/genus/eremotermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.72）"
+  },
+  {
+   "a": "/genus/drepanotermes/",
+   "b": "/genus/euscaiotermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.72）"
+  },
+  {
+   "a": "/genus/embiratermes/",
+   "b": "/genus/ereymatermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.74）"
+  },
+  {
+   "a": "/genus/ephelotermes/",
+   "b": "/genus/eremotermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.71）"
+  },
+  {
    "a": "/genus/eremotermes/",
    "b": "/genus/euscaiotermes/",
    "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.70）"
   },
   {
+   "a": "/genus/forficulitermes/",
+   "b": "/genus/furculitermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.78）"
+  },
+  {
    "a": "/genus/fulleritermes/",
    "b": "/genus/furculitermes/",
    "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.70）"
+  },
+  {
+   "a": "/genus/hypotermes/",
+   "b": "/genus/hypotermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.73）"
   },
   {
    "a": "/genus/indocapritermes/",
@@ -187,6 +382,11 @@
    "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.71）"
   },
   {
+   "a": "/genus/syntermes/",
+   "b": "/genus/velocitermes/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.72）"
+  },
+  {
    "a": "/species/amitermes-amifer/",
    "b": "/species/amitermes-emersoni/",
    "reason": "S0434 同组名单"
@@ -237,6 +437,11 @@
    "reason": "S0111 分布句模板"
   },
   {
+   "a": "/species/macrotermes-michaelseni/",
+   "b": "/species/macrotermes-subhyalinus/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.71）"
+  },
+  {
    "a": "/species/mastotermes-darwiniensis/",
    "b": "/species/coptotermes-lacteus/",
    "reason": "S0001 French 1976 固氮菌：同一实验两种白蚁各写一句，仅种名不同；模板句"
@@ -255,6 +460,11 @@
    "a": "/species/microcerotermes-lateralis/",
    "b": "/species/pericapritermes-pallidipes/",
    "reason": "S0005 分布句模板"
+  },
+  {
+   "a": "/species/nasutitermes-ephratae/",
+   "b": "/species/rhynchotermes-perarmatus/",
+   "reason": "《白蚁学》目录式信息（命名人、年份、种数、分布区）句式模板相同、事实主体不同，已人工核对非实质重复（0.77）"
   },
   {
    "a": "/species/nasutitermes-exitiosus/",

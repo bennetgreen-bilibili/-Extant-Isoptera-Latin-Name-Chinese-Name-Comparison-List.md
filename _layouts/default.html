@@ -120,9 +120,8 @@
 <link rel="cite-as" href="https://doi.org/{{ site.dataset.doi }}">
 <link rel="describedby" type="application/vnd.datacite.datacite+xml" href="{{ site.base_url }}/dataset/datacite-metadata.xml">
 {% endif %}
-{%- comment -%} 订阅与搜索发现：Atom feed / JSON Feed / 版本记录 Atom / OpenSearch 描述文档 {%- endcomment -%}
-<link rel="alternate" type="application/atom+xml" title="{{ site.title_zh }}" href="{{ site.base_url }}/feed.xml">
-<link rel="alternate" type="application/feed+json" title="{{ site.title_zh }}" href="{{ site.base_url }}/feed.json">
+{%- comment -%} 订阅与搜索发现：版本记录 Atom / OpenSearch 描述文档。博客已封存（2026-11-26），
+    feed.xml 与 feed.json 仍照常生成、仍可直达，但不再写进 head 的 alternate；恢复步骤见 _pending_pages/blog/README.md。 {%- endcomment -%}
 <link rel="alternate" type="application/atom+xml" title="Changelog" href="{{ site.base_url }}/changelog.atom">
 <link rel="search" type="application/opensearchdescription+xml" title="{{ site.title_zh }}" href="{{ site.base_url }}/opensearch.xml">
 {%- comment -%} 页面路径去掉语言前缀（/en、/es），用于 hreflang 与语言切换；只认第一段，实现见 _includes/lang-path.html {%- endcomment -%}
@@ -203,7 +202,8 @@
 {%- endif -%}
 
 {%- comment -%}
-  三语切换目标：文章页没有其他语种版本，指向各语种博客列表；
+  三语切换目标：文章页没有其他语种版本，指向各语种博客列表（博客已封存 2026-11-26，
+  目前没有文章页，此分支闲置；恢复见 _pending_pages/blog/README.md）；
   分类页/物种页现在三语各有独立页面，path_no_lang 派生的 /en、/es 地址就是对应语言页；
   仍然单语无对照的页面（图集、待审稿页）用 front matter 的 lang_only: true 排除。
   hreflang_skip: true 的页面（只有 en/es 版的 /list/sections/ 合订本）不输出 hreflang，
@@ -264,7 +264,6 @@
     <a href="{{ site.base_url }}{{ LANGP }}/data/" class="nav-link{% if page.url contains '/data' %} active{% endif %}">{{ T.nav_data }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/api/" class="nav-link{% if page.url contains '/api' %} active{% endif %}">{{ T.nav_api }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/download/" class="nav-link{% if page.url contains '/download' %} active{% endif %}">{{ T.nav_download }}</a>
-    <a href="{{ site.base_url }}{{ LANGP }}/blog/" class="nav-link{% if page.url contains '/blog' %} active{% endif %}">{{ T.nav_blog }}</a>
     <a href="{{ site.base_url }}{{ LANGP }}/guestbook/" class="nav-link{% if page.url contains '/guestbook' %} active{% endif %}">{{ T.nav_guestbook }}</a>
     </div>
     <button type="button" class="nav-search-btn" id="nav-search-btn" aria-label="{{ T.search_shortcut }}" title="{{ T.search_shortcut }}"><span aria-hidden="true">⌕</span> {{ T.nav_search }}</button>

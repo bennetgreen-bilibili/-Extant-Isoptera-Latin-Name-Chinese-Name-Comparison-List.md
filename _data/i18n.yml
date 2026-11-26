@@ -90,7 +90,7 @@ zh-CN:
   back_top: 回到顶部
   skip_to_content: 跳到主要内容
   search_shortcut: 全文搜索（Ctrl/⌘+K）
-  search_overlay_placeholder: 搜索名录、物种页、博客…（Esc 关闭）
+  search_overlay_placeholder: 搜索名录、物种页…（Esc 关闭）
   search_overlay_all: 查看全部结果
   search_overlay_empty: 没有匹配的结果
   search_overlay_loading: 搜索中…
@@ -248,7 +248,7 @@ en:
   back_top: Back to top
   skip_to_content: Skip to main content
   search_shortcut: Search (Ctrl/⌘+K)
-  search_overlay_placeholder: Search checklist, species pages, blog… (Esc to close)
+  search_overlay_placeholder: Search checklist, species pages… (Esc to close)
   search_overlay_all: See all results
   search_overlay_empty: No matching results
   search_overlay_loading: Searching…
@@ -406,7 +406,7 @@ es:
   back_top: Volver arriba
   skip_to_content: Ir al contenido principal
   search_shortcut: Búsqueda (Ctrl/⌘+K)
-  search_overlay_placeholder: Buscar en el listado, especies, blog… (Esc para cerrar)
+  search_overlay_placeholder: Buscar en el listado, especies… (Esc para cerrar)
   search_overlay_all: Ver todos los resultados
   search_overlay_empty: Sin resultados
   search_overlay_loading: Buscando…

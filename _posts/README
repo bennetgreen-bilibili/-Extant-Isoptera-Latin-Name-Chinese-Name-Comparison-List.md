@@ -1,0 +1,14 @@
+_posts/（博客已封存，2026-11-26）
+
+2026-11-26 起博客从站点撤下：三语博客页面（/blog/、/en/blog/、/es/blog/）与唯一一篇文章都已移到
+_pending_pages/blog/。本目录暂时不放文章。
+
+保留这个目录和本说明的原因：
+- _tools/make_lang_sources.py 会把不存在的 _posts 记为缺失项；
+- _tools/merge_lang_sites.py 读它来算三语构建的共享产物；
+- 以后恢复博客可以直接在这里放文章。
+
+写新文章前先读 _pending_pages/blog/README.md（封存原因与恢复步骤）和 _tools/新文章模板.md。
+
+注意：这里刻意不放 README.md——.github/workflows/build_sitemap_txt.py 会遍历 _posts/*.md，
+文件名不匹配 Jekyll 日期规则时直接 sys.exit 报错；Jekyll 则忽略所有不匹配日期文件名的条目。

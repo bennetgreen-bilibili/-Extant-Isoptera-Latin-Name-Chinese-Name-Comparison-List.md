@@ -8,7 +8,7 @@ sitemap: false
   <subtitle>{{ site.description | strip_newlines | xml_escape }}</subtitle>
   <id>{{ site.base_url }}/feed.xml</id>
   <link rel="self" type="application/atom+xml" href="{{ site.base_url }}/feed.xml"/>
-  <link rel="alternate" type="text/html" href="{{ site.base_url }}/blog/"/>
+  <link rel="alternate" type="text/html" href="{{ site.base_url }}/changelog/"/>
   <updated>{% if site.posts.size > 0 %}{{ site.posts.first.date | date_to_xmlschema }}{% else %}2026-10-17T00:00:00Z{% endif %}</updated>
   <author><name>班奈特格林 (Bennet Green)</name><uri>{{ site.base_url }}/</uri></author>
 {% for post in site.posts limit:20 %}

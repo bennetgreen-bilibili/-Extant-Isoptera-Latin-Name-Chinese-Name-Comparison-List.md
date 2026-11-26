@@ -26,7 +26,7 @@
 | `_tools/图片版权核查与处理清单.md` | `assets/images/` 插图的逐张核查结果 |
 | `_tools/开源功能与工作流扩展建议.md` | 可加功能清单（读者收益 × 可维护性 × 工作量） |
 | `_tools/物种介绍选题清单.md` | 按真实搜索需求排的选题清单 |
-| `_tools/新文章模板.md` | 博客文章 front matter 模板 |
+| `_tools/新文章模板.md` | 博客文章 front matter 模板（博客 2026-11-26 起封存，见 `_pending_pages/blog/README.md`） |
 | `_tools/manual_fulltext.md` | 待人工获取全文清单（自动生成，勿手改） |
 | `_reports/library-reading/SOP.md` | 文库阅读与摘录的工作流 |
 | `_reports/library-reading/taxonomy-crosswalk.md` | 分类变更对照表（可读版） |

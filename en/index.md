@@ -203,11 +203,10 @@ The site would like to collect more literature that can extend the checklist: ne
 
 <ul>
   <li><a href="https://termite-extant-isoptera.org/en/list/"><strong>List</strong></a> — the complete checklist (clade–family–subfamily–genus–species), with an inline GBIF distribution map under every family and genus heading and the enriched 77-reference DOI view at the end.</li></li>
-  <li><a href="https://termite-extant-isoptera.org/en/search/"><strong>Search</strong></a> — full-site search across the checklist, all 3089 species pages, statistics, data and blog (pinyin and traditional Chinese supported).</li>
+  <li><a href="https://termite-extant-isoptera.org/en/search/"><strong>Search</strong></a> — full-site search across the checklist, all 3089 species pages, statistics and data (pinyin and traditional Chinese supported).</li>
   <li><a href="https://termite-extant-isoptera.org/en/stats/"><strong>Statistics</strong></a> — species counts by rank (family/subfamily/genus).</li>
   <li><a href="https://termite-extant-isoptera.org/en/data/"><strong>Data</strong></a> — machine-readable structured data (JSON, split by taxon, each file accessible).</li>
   <li><a href="https://termite-extant-isoptera.org/en/download/"><strong>Download</strong></a> — files in the downloads/ folder, listed automatically.</li>
-  <li><a href="https://termite-extant-isoptera.org/en/blog/"><strong>Blog</strong></a> — articles and update notes (Word docs auto-converted, listed from _posts/).</li>
   <li><a href="https://termite-extant-isoptera.org/en/guestbook/"><strong>Guestbook</strong></a> — leave a message (sign in with GitHub).</li>
   <li><a href="{{ site.base_url }}/en/basics/"><strong>Basics</strong></a> — index: morphology (head capsule, fontanelle, mandibles, wings, tarsi, abdominal plates and internal organs, with Latin/English names, caste notes and a note on competing names).</li>
   <li><a href="{{ site.base_url }}/en/list/name-issues/"><strong>Name discrepancies</strong></a> — rows needing human review after cross-checking against GBIF / Catalogue of Life / Blattodea Species File, filterable by type, source and keyword.</li>

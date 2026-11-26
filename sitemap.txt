@@ -4,7 +4,6 @@ https://termite-extant-isoptera.org/papers/
 https://termite-extant-isoptera.org/stats/
 https://termite-extant-isoptera.org/data/
 https://termite-extant-isoptera.org/download/
-https://termite-extant-isoptera.org/blog/
 https://termite-extant-isoptera.org/api/
 https://termite-extant-isoptera.org/basics/
 https://termite-extant-isoptera.org/basics/morphology/
@@ -678,7 +677,6 @@ https://termite-extant-isoptera.org/en/
 https://termite-extant-isoptera.org/en/api/
 https://termite-extant-isoptera.org/en/basics/
 https://termite-extant-isoptera.org/en/basics/morphology/
-https://termite-extant-isoptera.org/en/blog/
 https://termite-extant-isoptera.org/en/changelog/
 https://termite-extant-isoptera.org/en/data/
 https://termite-extant-isoptera.org/en/download/
@@ -4444,7 +4442,6 @@ https://termite-extant-isoptera.org/es/
 https://termite-extant-isoptera.org/es/api/
 https://termite-extant-isoptera.org/es/basics/
 https://termite-extant-isoptera.org/es/basics/morphology/
-https://termite-extant-isoptera.org/es/blog/
 https://termite-extant-isoptera.org/es/changelog/
 https://termite-extant-isoptera.org/es/data/
 https://termite-extant-isoptera.org/es/download/
@@ -8206,7 +8203,6 @@ https://termite-extant-isoptera.org/es/subfamily/syntermitinae/
 https://termite-extant-isoptera.org/es/subfamily/syntermitinae/photos/
 https://termite-extant-isoptera.org/es/subfamily/termitinae/
 https://termite-extant-isoptera.org/es/subfamily/termitinae/photos/
-https://termite-extant-isoptera.org/blog/2026/10/22/welcome/
 https://termite-extant-isoptera.org/species/acangaobitermes-krishnai/
 https://termite-extant-isoptera.org/species/acanthotermes-acanthothorax/
 https://termite-extant-isoptera.org/species/acholotermes-chirotus/

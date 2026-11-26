@@ -91,7 +91,7 @@ python .github/workflows/build_name_issues.py --write
 
 两条硬约束（改模板前先看）：
 
-- **共享清单是全有或全无**：`_posts` / `downloads/` 决定 `blog.md` / `download.md` 系列能否列出内容
+- **共享清单是全有或全无**：`_posts` / `downloads/` 决定 `download.md` 系列能否列出内容（博客 2026-11-26 起封存，`blog.md` 已移出三语切片，`_posts` 仍随切片走）
   （`site.posts`、`site.static_files`）；`assets/` 与 `robots.txt` 决定三份产物形状一致——少一份 `assets/`，那份语言的
   样式/图标就整片缺失，而只给 zh 一份 `robots.txt` 时，en/es 切片会被 `jekyll-sitemap` 补出内容不同的同名文件，
   合并阶段直接判冲突（2026-11-17 第一次真实运行就是这样红的：`robots.txt（来自 en，与已有版本内容不同）`）。

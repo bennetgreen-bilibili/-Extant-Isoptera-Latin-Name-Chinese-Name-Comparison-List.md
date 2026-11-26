@@ -15,7 +15,7 @@
 | `assets/` | CSS / JS / 图片 / `geo/` 分布图 GeoJSON / `vendor/`（Leaflet 等） | 可改；改完 `stamp_assets.py` 自动更新缓存戳 |
 | `family/`、`subfamily/`、`genus/`、`photos/` | 13 + 18 + 326 个中文分类页，以及按分类单元聚合的图集页 | **生成** |
 | `en/`、`es/` | 对应语言的 11 个根页面 + `basics/` + 分类页 / 物种页 / 图集页 | 根页面可改；分类页与物种页**生成** |
-| `basics/`、`_posts/` | 基础知识（`index.md` 入口、`morphology.md` 形态篇，正文来自 `_unpublished` 的书稿）；博客文章（模板见 `_tools/新文章模板.md`） | 可改 |
+| `basics/`、`_posts/` | 基础知识（`index.md` 入口、`morphology.md` 形态篇，正文来自 `_unpublished` 的书稿）；博客文章（模板见 `_tools/新文章模板.md`）。博客 2026-11-26 封存，`_posts/` 现只有一份 `README` 说明 | 可改 |
 | `data/`、`downloads/`、`dataset/` | 公开 JSON、对外下载件、带 DOI 的归档数据集 | 各目录的 `metadata.json` / `CHANGELOG.md` / `README.md` / `LICENSE` 可改，其余**生成** |
 | `list.md`、`stats.md`、`changelog.md`、`name-issues.md`、`isoptera-data.json`、`search-index.json`、`sitemap.txt`、`papers-index.json` | 三语同名页面的中文版 + 整棵分类树 / 检索索引 / 纯文本站点地图 / 文献缓存 | **生成** |
 | `feed.xml`、`feed.json`、`opensearch.xml`、`robots.txt`、`favicon.ico` | 订阅源与站点元文件 | 可改 |
@@ -41,7 +41,7 @@
 | 统计 `/stats/` | `stats.md` | `en/stats.md` | `es/stats.md` | `build_taxonomy_data.py` |
 | 数据 `/data/` | `data.md` | `en/data.md` | `es/data.md` | 手写清单 + `build_taxonomy_data.py` 产出 `data/*.json` |
 | 下载 `/download/` | `download.md` | `en/download.md` | `es/download.md` | 手写；列出 `downloads/` 里的静态文件 |
-| 博客 `/blog/` | `blog.md` | `en/blog.md` | `es/blog.md` | Jekyll 自动列出 `_posts/` |
+| 博客 `/blog/`（2026-11-26 封存，不发布） | — | — | — | 三语页面与唯一一篇文章在 `_pending_pages/blog/`，恢复见该目录 README |
 | 版本记录 `/changelog/` | `changelog.md` | `en/changelog.md` | `es/changelog.md` | `build_changelog.py`（源：`dataset/CHANGELOG.md`） |
 | 留言 `/guestbook/` | `guestbook.md` | `en/guestbook.md` | `es/guestbook.md` | Giscus |
 | 基础知识 `/basics/` | `basics/index.md` | `en/basics/index.md` | `es/basics/index.md` | 手写 |

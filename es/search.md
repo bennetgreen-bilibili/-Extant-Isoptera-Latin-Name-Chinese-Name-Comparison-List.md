@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Búsqueda en todo el sitio
-description: "Búsqueda de texto completo en el listado, las 3089 páginas de especies, estadísticas, datos y blog: chino (también tradicional), nombres latinos y pinyin. Las consultas locales no salen del navegador; el chat con IA, opcional, envía las preguntas a Cloudflare."
+description: "Búsqueda de texto completo en el listado, las 3089 páginas de especies, estadísticas y datos: chino (también tradicional), nombres latinos y pinyin. Las consultas locales no salen del navegador; el chat con IA, opcional, envía las preguntas a Cloudflare."
 lang: es
 author: 班奈特格林
 date: 2026-10-17
@@ -21,7 +21,7 @@ pagefind: true
 
 <h2 id="local-fulltext">{{ site.data.i18n[page.lang].search_local_heading }}</h2>
 
-<p>Busca en todo el sitio: el texto del listado, las 3089 páginas de especies, las tablas estadísticas, las páginas de datos y el blog. El índice se genera al compilar el sitio con la herramienta libre <a href="https://pagefind.app/">Pagefind</a>; las consultas se resuelven contra ese índice local en su navegador y los términos no se envían a ningún servidor, tampoco al de este sitio.</p>
+<p>Busca en todo el sitio: el texto del listado, las 3089 páginas de especies, las tablas estadísticas, y las páginas de datos. El índice se genera al compilar el sitio con la herramienta libre <a href="https://pagefind.app/">Pagefind</a>; las consultas se resuelven contra ese índice local en su navegador y los términos no se envían a ningún servidor, tampoco al de este sitio.</p>
 
 <div id="pagefind-search" data-pagefind-ignore data-lang="es" data-base="{{ site.base_url }}"></div>
 

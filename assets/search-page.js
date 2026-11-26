@@ -11,7 +11,7 @@
 
   var TEXT = {
     'zh-CN': {
-      placeholder: '搜索全站：名录、物种页、统计、博客…',
+      placeholder: '搜索全站：名录、物种页、统计…',
       zero_results: '未找到「[SEARCH_TERM]」相关结果',
       load_more: '加载更多结果',
       clear_search: '清空',
@@ -22,7 +22,7 @@
       fallback_url: base + '/list/'
     },
     en: {
-      placeholder: 'Search the whole site: checklist, species pages, blog…',
+      placeholder: 'Search the whole site: checklist, species pages…',
       zero_results: 'No results for “[SEARCH_TERM]”',
       load_more: 'Load more results',
       clear_search: 'Clear',
@@ -33,7 +33,7 @@
       fallback_url: base + '/en/list/'
     },
     es: {
-      placeholder: 'Buscar en todo el sitio: listado, especies, blog…',
+      placeholder: 'Buscar en todo el sitio: listado, especies…',
       zero_results: 'Sin resultados para «[SEARCH_TERM]»',
       load_more: 'Cargar más resultados',
       clear_search: 'Limpiar',
