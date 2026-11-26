@@ -107,6 +107,8 @@
     try {
       ui = new PagefindUI({
         element: '#pagefind-search',
+        // 离线包在 WebView 里跑，独立 Worker 未必可用；主线程检索更稳。
+        noWorker: true,
         bundlePath: bundle,
         baseUrl: base + '/',
         showSubResults: true,
@@ -127,7 +129,24 @@
     }
     var q = '';
     try { q = new URLSearchParams(window.location.search).get('q') || ''; } catch (err) { q = ''; }
-    if (q && typeof ui.triggerSearch === 'function') ui.triggerSearch(q);
+    if (q && typeof ui.triggerSearch === 'function') {
+      // 老 WebView 的 WebAssembly 可能编译不了 Pagefind 索引，而且失败不一定抛出，
+      // 表现为永远停在「正在搜索」。给一个超时兜底，退回静态提示。
+      try {
+        ui.triggerSearch(q);
+      } catch (err) {
+        showFallback();
+        return;
+      }
+      setTimeout(function () {
+        if (document.querySelector('.search-fallback')) return;
+        if (document.querySelectorAll('.pagefind-ui__result').length) return;
+        var note = document.querySelector('.pagefind-ui__message');
+        // 已经给出「无结果」之类的结论时不要覆盖
+        if (note && note.textContent.indexOf(q) < 0) return;
+        showFallback();
+      }, 8000);
+    }
     setupTracking(q);
   }
 

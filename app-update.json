@@ -1,0 +1,21 @@
+{
+  "_readme": "APP 更新清单。键是包名；APP 启动 6 秒后请求本文件，versionCode 大于本机已装版本才提示下载。url 留空表示不提示。中文包 org.termite.extantisoptera，英文 .en，西班牙文 .es。",
+  "org.termite.extantisoptera": {
+    "versionCode": 1,
+    "versionName": "1.0",
+    "url": "",
+    "notes": ""
+  },
+  "org.termite.extantisoptera.en": {
+    "versionCode": 1,
+    "versionName": "1.0",
+    "url": "",
+    "notes": ""
+  },
+  "org.termite.extantisoptera.es": {
+    "versionCode": 1,
+    "versionName": "1.0",
+    "url": "",
+    "notes": ""
+  }
+}
