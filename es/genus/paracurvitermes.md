@@ -8,7 +8,7 @@ author: 班奈特格林
 family_id: termitidae
 subfamily_id: syntermitinae
 genus_id: paracurvitermes
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-21
 permalink: /es/genus/paracurvitermes/
 sitemap: true
 has_map: true

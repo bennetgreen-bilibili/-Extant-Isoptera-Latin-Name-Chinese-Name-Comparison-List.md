@@ -81,6 +81,11 @@ jobs:
       - name: Build sitemap.txt
         run: python .github/workflows/build_sitemap_txt.py
 
+      # 分类核心页优先 sitemap（三语 首页 + 名录索引 + 科/亚科/属聚合页，约 1,000 条）：
+      # 新域名抓取配额有限，先提交这一份，整份 sitemap.xml 等核心页收录稳定后再提交
+      - name: Build sitemap-core.xml (taxonomy hubs first)
+        run: python .github/workflows/build_sitemap_core.py
+
       # 命名差异看板数据（/list/name-issues/）：从 GBIF / COL / BSF 缓存整理，确定性输出
       - name: Build name-issues dashboard data
         run: python .github/workflows/build_name_issues.py --write
@@ -328,6 +333,7 @@ jobs:
               ("/species/mastotermes-darwiniensis/", "Mastotermes darwiniensis"),
               ("/search/", None),
               ("/sitemap.xml", None),
+              ("/sitemap-core.xml", "<urlset"),
               ("/search-index.json", None),
               ("/data/index.json", None),
               ("/pagefind/pagefind.js", None),

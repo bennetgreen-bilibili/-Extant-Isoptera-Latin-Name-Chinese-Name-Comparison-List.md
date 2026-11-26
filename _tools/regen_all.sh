@@ -23,6 +23,7 @@ python .github/workflows/build_species_body.py --write
 python .github/workflows/build_photo_pages.py
 python .github/workflows/build_taxonomy_pages.py
 python .github/workflows/build_sitemap_txt.py
+python .github/workflows/build_sitemap_core.py
 python .github/workflows/build_search_index.py --write --no-enrich
 python .github/workflows/build_dataset.py --write
 # DwC-A 依赖上一步产出的 isoptera-taxonomy.json 与 isoptera-synonyms.csv，必须排在它之后

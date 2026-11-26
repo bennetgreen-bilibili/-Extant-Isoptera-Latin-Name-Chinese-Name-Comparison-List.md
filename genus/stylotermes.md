@@ -7,7 +7,7 @@ single_lang: true
 author: 班奈特格林
 family_id: stylotermitidae
 genus_id: stylotermes
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-21
 permalink: /genus/stylotermes/
 sitemap: true
 has_map: true

@@ -8,7 +8,7 @@ author: 班奈特格林
 family_id: termitidae
 subfamily_id: promirotermitinae
 genus_id: angulitermes
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-21
 permalink: /en/genus/angulitermes/
 sitemap: true
 has_map: true

@@ -8,7 +8,7 @@ author: 班奈特格林
 family_id: termitidae
 subfamily_id: neocapritermitinae
 genus_id: schievitermes
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-21
 permalink: /genus/schievitermes/
 sitemap: true
 has_map: true

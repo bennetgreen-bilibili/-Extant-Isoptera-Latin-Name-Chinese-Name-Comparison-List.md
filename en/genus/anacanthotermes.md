@@ -7,7 +7,7 @@ single_lang: true
 author: 班奈特格林
 family_id: hodotermitidae
 genus_id: anacanthotermes
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-21
 permalink: /en/genus/anacanthotermes/
 sitemap: true
 has_map: true

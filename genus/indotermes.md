@@ -8,7 +8,7 @@ author: 班奈特格林
 family_id: termitidae
 subfamily_id: apicotermitinae
 genus_id: indotermes
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-21
 permalink: /genus/indotermes/
 sitemap: true
 taxon_search: true

@@ -8,7 +8,7 @@ author: 班奈特格林
 family_id: termitidae
 subfamily_id: macrotermitinae
 genus_id: acanthotermes
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-21
 permalink: /genus/acanthotermes/
 sitemap: true
 has_map: true

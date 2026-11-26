@@ -8,7 +8,7 @@ author: 班奈特格林
 family_id: termitidae
 subfamily_id: apicotermitinae
 genus_id: disjunctitermes
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-21
 permalink: /es/genus/disjunctitermes/
 sitemap: true
 has_map: true

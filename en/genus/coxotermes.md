@@ -8,7 +8,7 @@ author: 班奈特格林
 family_id: termitidae
 subfamily_id: apicotermitinae
 genus_id: coxotermes
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-21
 permalink: /en/genus/coxotermes/
 sitemap: true
 has_map: true

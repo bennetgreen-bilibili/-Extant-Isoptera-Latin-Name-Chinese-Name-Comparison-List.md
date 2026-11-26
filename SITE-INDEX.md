@@ -97,7 +97,7 @@
 `list.md`、`en/list.md`、`es/list.md`、`en/list/sections.md`、`es/list/sections.md`、
 `family/*.md`、`subfamily/*.md`、`genus/*.md`、`en/` 与 `es/` 下的全部分类页与物种页、
 `photos/**`、`stats.md`、`en/stats.md`、`es/stats.md`、`isoptera-data.json`、`data/*.json`、
-`search-index.json`、`sitemap.txt`、`changelog.md`、`changelog.atom`、`name-issues.md`、
+`search-index.json`、`sitemap.txt`、`sitemap-core.xml`、`changelog.md`、`changelog.atom`、`name-issues.md`、
 `dataset/data/*`、`dataset/datapackage.json`、`dataset/datacite-metadata.xml`、`dataset/CHECKSUMS.sha256`、
 `downloads/*.zip`、`_data/` 里 `_meta/DATA-MAP.md` §2 与 §3 列出的文件（§1 的分片是源文件，不在此列）。
 
@@ -134,7 +134,7 @@
 | 科页 / 亚科页 / 属页（中文） | 13 / 18 / 326 |
 | `_data/` 顶层文件 | 26 |
 | `_data/` 分片目录（数据集 / 分片文件） | 14 / 8870 |
-| `build_*.py` 脚本（`_tools/` + `.github/workflows/`） | 20 |
+| `build_*.py` 脚本（`_tools/` + `.github/workflows/`） | 21 |
 | 说明文档（`_tools/*.md` / `_reports/**/*.md`） | 15 / 17 |
 
 > 数字由 `_tools/build_ai_index.py --write` 从 `_data/taxonomy.json`、`_species/`、各页面目录与文件系统直接统计，改完数据请重跑 `_tools/regen_all.sh`。

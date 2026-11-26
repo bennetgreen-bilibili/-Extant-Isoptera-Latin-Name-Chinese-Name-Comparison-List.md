@@ -6,7 +6,7 @@ lang: zh-CN
 single_lang: true
 author: 班奈特格林
 family_id: serritermitidae
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-21
 permalink: /family/serritermitidae/
 sitemap: true
 has_map: true

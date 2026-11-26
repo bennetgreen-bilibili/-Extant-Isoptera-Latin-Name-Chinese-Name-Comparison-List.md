@@ -7,7 +7,7 @@ single_lang: true
 author: 班奈特格林
 family_id: psammotermitidae
 genus_id: prorhinotermes
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-21
 permalink: /es/genus/prorhinotermes/
 sitemap: true
 has_map: true

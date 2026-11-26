@@ -20,7 +20,7 @@ bash _tools/regen_all.sh
 | 5 | `build_species_body.py --write` | `_species` front matter → 物种页正文 + `en/species/` + `es/species/` |
 | 6 | `build_photo_pages.py` | `species_photos/` → `photos/` 三语图集页 + `photo_taxa.json` |
 | 7 | `build_taxonomy_pages.py` | `taxonomy.json` + `taxon_prose/` + `_species` → `family/`、`subfamily/`、`genus/` 三语 |
-| 8 | `build_sitemap_txt.py` | 页面清单 → `sitemap.txt` |
+| 8 | `build_sitemap_txt.py` + `build_sitemap_core.py` | 页面清单 → `sitemap.txt`（整份）；分类层级页 → `sitemap-core.xml`（三语 首页 + 名录索引 + 科/亚科/属聚合页，先在 GSC 提交的那一份） |
 | 9 | `build_search_index.py --write --no-enrich` | → `search-index.json`（基础版；CI 部署时生成增强版） |
 | 10 | `build_dataset.py --write` | → `dataset/`、`downloads/*.zip`、`CITATION.cff`、`.zenodo.json` |
 | 11 | `_tools/build_dwca.py --write` | `dataset/data/*` → `dataset/dwca/` + DwC-A zip |

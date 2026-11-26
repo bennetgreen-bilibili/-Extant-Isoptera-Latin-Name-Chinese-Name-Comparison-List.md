@@ -92,6 +92,29 @@ DATASET_ID = "{{ site.base_url }}/#dataset"
 DATASET_VERSION = "{{ site.dataset.version }}"
 DATASET_DATE = "{{ site.dataset.version | replace: '.', '-' }}"
 
+
+def _lastmod_from_dataset_version() -> str:
+    """分类层级页的 last_modified_at 跟 `_config.yml` 的 dataset.version 走。
+
+    以前写死 2026-10-30：数据集升到 2026.11.21、物种数与页面正文都变了，
+    但 sitemap.xml 的 <lastmod> 和 JSON-LD 的 dateModified 一直停在 10-30，
+    等于告诉 Google「这些页没动过」，核心页因此等不到重抓。
+    """
+    text = (ROOT / "_config.yml").read_text(encoding="utf-8")
+    start = text.find("\ndataset:")
+    if start < 0:
+        sys.exit("error: _config.yml 里找不到 dataset: 段")
+    for line in text[start + 1:].splitlines()[1:]:
+        if line and not line[0].isspace() and not line.lstrip().startswith("#"):
+            break
+        m = re.match(r"\s+version:\s*[\"']?(\d{4})\.(\d{2})\.(\d{2})[\"']?", line)
+        if m:
+            return "-".join(m.groups())
+    sys.exit("error: _config.yml 的 dataset: 段里找不到 version")
+
+
+TAXONOMY_LASTMOD = _lastmod_from_dataset_version()
+
 # description 必须落在 150-160 字符之间（Bing 对过短的描述降权）。zh 一直如此；en/es 在
 # 拆分后同样按 150-160 生成——比契约里允许的 140-180 更严，因此每条外文描述都是
 # 「core 模板 + 短尾」拼到窗口内，不靠放宽下限过关。
@@ -1104,7 +1127,7 @@ def main():
         return TITLE_FMT[lang][rank] % (display_latin(latin), zh)
 
     def front_matter(lang, title, description, permalink, breadcrumb, image, family_id,
-                     last_modified="2026-10-30", has_map=False, taxon_search=False,
+                     last_modified=None, has_map=False, taxon_search=False,
                      has_photos=False, translation_pending=False,
                      subfamily_id=None, genus_id=None):
         lines = ["---", "layout: default", "title: " + json.dumps(title, ensure_ascii=False),
@@ -1121,6 +1144,8 @@ def main():
             lines.append("subfamily_id: " + subfamily_id)
         if genus_id:
             lines.append("genus_id: " + genus_id)
+        if last_modified is None:
+            last_modified = TAXONOMY_LASTMOD
         lines += ["last_modified_at: " + last_modified,
                   "permalink: " + LANG_PREFIX[lang] + permalink, "sitemap: true"]
         if has_map:

@@ -8,7 +8,7 @@ author: 班奈特格林
 family_id: termitidae
 subfamily_id: nasutitermitinae
 genus_id: sabahitermes
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-21
 permalink: /en/genus/sabahitermes/
 sitemap: true
 taxon_search: true
