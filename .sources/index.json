@@ -3,7 +3,7 @@
     "version": 1,
     "count": 765,
     "created": "2026-11-06T16:19:16.272Z",
-    "updated": "2026-11-26T01:08:36+08:00",
+    "updated": "2026-11-26T20:48:49+08:00",
     "notes": "见 .sources/README.md；用 _tools/sources.py 维护"
   },
   "sources": [
@@ -23199,7 +23199,7 @@
       "file_path": "_unpublished/文库/10.4039-ent129757-4",
       "chars": 769,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T20:47:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.4039-ent129757-4（769 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.4039-ent129757-4",
@@ -23226,7 +23226,8 @@
       "lang": "en",
       "doi": "10.4039/ent129757-4",
       "used_in": [
-        "_data/taxon_literature.json"
+        "_data/taxon_literature.json",
+        "_data/taxon_literature/genus/incisitermes.json"
       ],
       "evidence": [
         {
@@ -26583,7 +26584,7 @@
       "file_path": "_unpublished/文库/10.1590-s1519-566x2004000200006",
       "chars": 765,
       "retrieved_via": "文库（text）",
-      "accessed": "2026-11-23T22:55:44+08:00",
+      "accessed": "2026-11-26T20:47:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.1590-s1519-566x2004000200006（765 字符），抽取：text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.1590-s1519-566x2004000200006",
@@ -26610,7 +26611,8 @@
       "lang": "en",
       "doi": "10.1590/s1519-566x2004000200006",
       "used_in": [
-        "_data/taxon_literature.json"
+        "_data/taxon_literature.json",
+        "_data/taxon_literature/genus/tauritermes.json"
       ],
       "evidence": [
         {
@@ -28543,7 +28545,7 @@
       "file_path": "_unpublished/文库/10.5962-bhl.part.1525",
       "chars": 242750,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-24T23:36:05+08:00",
+      "accessed": "2026-11-26T20:47:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.5962-bhl.part.1525（83 页，242750 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.5962-bhl.part.1525",
@@ -28571,7 +28573,9 @@
       "used_in": [
         "_data/taxon_literature/genus/macrotermes.json",
         "_data/taxon_literature/species/macrotermes-bellicosus.json",
+        "_data/taxon_literature/species/macrotermes-falciger.json",
         "_data/taxon_literature/species/macrotermes-michaelseni.json",
+        "_data/taxon_literature/species/macrotermes-natalensis.json",
         "_data/taxon_literature/species/macrotermes-subhyalinus.json"
       ],
       "evidence": [
@@ -29428,7 +29432,7 @@
       "file_path": "_unpublished/文库/10.3897-zookeys.954.52335",
       "chars": 24357,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T20:47:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.3897-zookeys.954.52335（10 页，24357 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.3897-zookeys.954.52335",
@@ -29455,7 +29459,9 @@
       "lang": "en",
       "doi": "10.3897/zookeys.954.52335",
       "used_in": [
-        "_data/morphology_species.json"
+        "_data/morphology_species.json",
+        "_data/taxon_literature/genus/tauritermes.json",
+        "_data/taxon_literature/species/tauritermes-bandeirai.json"
       ],
       "evidence": [
         {
@@ -29474,7 +29480,7 @@
       "file_path": "_unpublished/文库/syaukani-2019-oriensubulitermes-inanis",
       "chars": 31225,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T20:47:05+08:00",
       "notes": "全文存于 _unpublished/文库/syaukani-2019-oriensubulitermes-inanis（8 页，31225 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "syaukani-2019-oriensubulitermes-inanis",
@@ -29508,6 +29514,8 @@
       "doi": "10.5994/jei.16.2.75",
       "used_in": [
         "_data/morphology_species.json",
+        "_data/taxon_literature/genus/oriensubulitermes.json",
+        "_data/taxon_literature/species/oriensubulitermes-inanis.json",
         "_reports/species-morphology-coverage.md"
       ],
       "evidence": [
@@ -30095,7 +30103,7 @@
       "file_path": "_unpublished/文库/10.11646-zootaxa.5428.3.6",
       "chars": 41639,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T20:48:49+08:00",
       "notes": "全文存于 _unpublished/文库/10.11646-zootaxa.5428.3.6（13 页，41639 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.11646-zootaxa.5428.3.6",
@@ -30124,8 +30132,31 @@
       "lang": "en",
       "doi": "10.11646/zootaxa.5428.3.6",
       "url": "https://mapress.com/zt/article/download/zootaxa.5428.3.6/53149",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/genus/incisitermes.json",
+        "_data/taxon_literature/species/incisitermes-lisae.json",
+        "_data/taxon_literature/species/incisitermes-mariae.json",
+        "_data/taxon_literature/species/incisitermes-platycephalus.json",
+        "_data/taxon_literature/species/incisitermes-rhyzophorae.json",
+        "_data/taxon_literature/species/incisitermes-schwarzi.json"
+      ],
+      "evidence": [
+        {
+          "quote": "The termite genus Incisitermes Krishna, 1961 consists of 29 species (Constantino 2020) following the synonymy of I. nigritus (Snyder, 1946) into I. platycephalus (Light, 1933) by Scheffrahn (2020).",
+          "locator": "第 33–34 行 / 0001-0013.txt",
+          "note": "支撑：楹白蚁属（Incisitermes）的种数与 nigritus 并入 platycephalus"
+        },
+        {
+          "quote": "Although all Incisitermes species nest in relatively dry wood such as dead branches and fence posts, Incisitermes minor (Hagen, 1858) endemic to the southeastern Nearctic, is by far the greatest structural pest owing to its low moisture requirement (Cabrera & Scheffrahn 2001).",
+          "locator": "第 36–39 行 / 0001-0013.txt",
+          "note": "支撑：属内均在较干木材筑巢、小楹白蚁（Incisitermes minor）为最大建筑害虫"
+        },
+        {
+          "quote": "Herein, is described Incisitermes lisae sp. nov. from the Yucatan region and I. mariae sp. nov. from Trinidad and Venezuela. We further place I. tabogae syn. nov. into I. schwarzi which is the most-wide ranging Incisitermes in the New World.",
+          "locator": "第 40–42 行 / 0001-0013.txt",
+          "note": "支撑：莉萨楹白蚁（Incisitermes lisae）与玛丽亚楹白蚁（Incisitermes mariae）两新种、tabogae 并入施瓦茨楹白蚁（Incisitermes schwarzi）"
+        }
+      ],
       "id": "S0494"
     },
     {
@@ -30136,7 +30167,7 @@
       "file_path": "_unpublished/文库/10.3897-zookeys.1057.65877",
       "chars": 31847,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T20:47:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.3897-zookeys.1057.65877（31847 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.3897-zookeys.1057.65877",
@@ -30167,7 +30198,9 @@
       "doi": "10.3897/zookeys.1057.65877",
       "url": "https://doi.org/10.3897/zookeys.1057.65877",
       "used_in": [
-        "_data/morphology_species/rugitermes/rugitermes-ursulae.json"
+        "_data/morphology_species/rugitermes/rugitermes-ursulae.json",
+        "_data/taxon_literature/genus/rugitermes.json",
+        "_data/taxon_literature/species/rugitermes-ursulae.json"
       ],
       "evidence": [
         {
@@ -30186,7 +30219,7 @@
       "file_path": "_unpublished/文库/10.3897-zookeys.1000.59219",
       "chars": 25354,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T20:47:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.3897-zookeys.1000.59219（25354 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.3897-zookeys.1000.59219",
@@ -30218,7 +30251,8 @@
       "used_in": [
         "_data/morphology_species/rugitermes/rugitermes-aridus.json",
         "_data/morphology_species/rugitermes/rugitermes-rufus.json",
-        "_data/morphology_species/rugitermes/rugitermes-volcanensis.json"
+        "_data/morphology_species/rugitermes/rugitermes-volcanensis.json",
+        "_data/taxon_literature/genus/rugitermes.json"
       ],
       "evidence": [
         {
@@ -30237,7 +30271,7 @@
       "file_path": "_unpublished/文库/10.3897-zookeys.963.55843",
       "chars": 16060,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T20:47:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.3897-zookeys.963.55843（8 页，16060 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.3897-zookeys.963.55843",
@@ -30267,7 +30301,9 @@
       "doi": "10.3897/zookeys.963.55843",
       "url": "https://doi.org/10.3897/zookeys.963.55843",
       "used_in": [
-        "_data/morphology_species/rugitermes/rugitermes-tinto.json"
+        "_data/morphology_species/rugitermes/rugitermes-tinto.json",
+        "_data/taxon_literature/genus/rugitermes.json",
+        "_data/taxon_literature/species/rugitermes-tinto.json"
       ],
       "evidence": [
         {
@@ -30286,7 +30322,7 @@
       "file_path": "_unpublished/文库/10.3897-zookeys.892.38743",
       "chars": 13878,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T20:47:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.3897-zookeys.892.38743（13878 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.3897-zookeys.892.38743",
@@ -30315,7 +30351,9 @@
       "doi": "10.3897/zookeys.892.38743",
       "url": "https://doi.org/10.3897/zookeys.892.38743",
       "used_in": [
-        "_data/morphology_species/rhynchotermes/rhynchotermes-armatus.json"
+        "_data/morphology_species/rhynchotermes/rhynchotermes-armatus.json",
+        "_data/taxon_literature/species/rhynchotermes-armatus.json",
+        "_data/taxon_literature/species/rhynchotermes-perarmatus.json"
       ],
       "evidence": [
         {
@@ -30334,7 +30372,7 @@
       "file_path": "_unpublished/文库/10.3897-zookeys.793.28342",
       "chars": 11981,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T20:47:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.3897-zookeys.793.28342（11981 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.3897-zookeys.793.28342",
@@ -30364,7 +30402,8 @@
       "doi": "10.3897/zookeys.793.28342",
       "url": "https://doi.org/10.3897/zookeys.793.28342",
       "used_in": [
-        "_data/morphology_species/anenteotermes/anenteotermes-cherubimi.json"
+        "_data/morphology_species/anenteotermes/anenteotermes-cherubimi.json",
+        "_data/taxon_literature/species/anenteotermes-cherubimi.json"
       ],
       "evidence": [
         {
@@ -30431,7 +30470,7 @@
       "file_path": "_unpublished/文库/10.11609-jott.3909.10.9.12218-12225",
       "chars": 43449,
       "retrieved_via": "文库（pdf-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T20:48:49+08:00",
       "notes": "全文存于 _unpublished/文库/10.11609-jott.3909.10.9.12218-12225（10 页，43449 字符），抽取：pdf-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.11609-jott.3909.10.9.12218-12225",
@@ -30460,8 +30499,21 @@
       "license": "cc-by",
       "doi": "10.11609/jott.3909.10.9.12218-12225",
       "url": "https://threatenedtaxa.org/index.php/JoTT/article/download/3909/4585",
-      "used_in": [],
-      "evidence": [],
+      "used_in": [
+        "_data/taxon_literature/species/rhynchotermes-perarmatus.json"
+      ],
+      "evidence": [
+        {
+          "quote": "belonging to four genera of the subfamily Syntermitinae, are recorded",
+          "locator": "第 47 行 / 0001-0010.txt（两栏排版，取左栏连续片段）",
+          "note": "支撑：聚白蚁亚科（Syntermitinae）4 属在哥伦比亚首次记录；同页左栏列出 8 个种名"
+        },
+        {
+          "quote": "for the first time in Colombia (Figs. 1–4 & Images 1–8).",
+          "locator": "第 118 行 / 0001-0010.txt（两栏排版，取单栏连续片段）",
+          "note": "支撑：全武喙白蚁（Rhynchotermes perarmatus）为哥伦比亚首次记录"
+        }
+      ],
       "id": "S0501"
     },
     {
@@ -30472,7 +30524,7 @@
       "file_path": "_unpublished/文库/10.3897-zookeys.595.8626",
       "chars": 9836,
       "retrieved_via": "文库（xml-text）",
-      "accessed": "2026-11-20T02:57:53+08:00",
+      "accessed": "2026-11-26T20:47:05+08:00",
       "notes": "全文存于 _unpublished/文库/10.3897-zookeys.595.8626（9836 字符），抽取：xml-text；文本由 PDF/XML 抽取，不是排版原貌：上标引文编号、表格、图注可能错位，正式引用前须核对出版方原文。",
       "library": {
         "book": "10.3897-zookeys.595.8626",
@@ -30503,7 +30555,9 @@
       "doi": "10.3897/zookeys.595.8626",
       "url": "https://doi.org/10.3897/zookeys.595.8626",
       "used_in": [
-        "_data/morphology_species/uncitermes/uncitermes-almeriae.json"
+        "_data/morphology_species/uncitermes/uncitermes-almeriae.json",
+        "_data/taxon_literature/species/uncitermes-almeriae.json",
+        "_data/taxon_literature/species/uncitermes-teevani.json"
       ],
       "evidence": [
         {

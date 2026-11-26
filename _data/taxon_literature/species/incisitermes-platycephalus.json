@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-26",
+ "sections": [
+  {
+   "heading": "形态与异名",
+   "heading_en": "Morphology and synonymy",
+   "heading_es": "Morfología y sinonimia",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn 等（2024）研究，宽头楹白蚁（<i>Incisitermes platycephalus</i>）有翅成虫体色比莉萨楹白蚁（<i>Incisitermes lisae</i>）更浅，头顶刚毛着生处没有浅色斑点；旧名 <i>Incisitermes nigritus</i> 已并入本种，楹白蚁属（<i>Incisitermes</i>）因此记为 29 种。",
+     "text_en": "According to the study by Scheffrahn et al. (2024), the imago of <i>Incisitermes platycephalus</i> is paler than that of <i>Incisitermes lisae</i> and lacks pale spots at the sites where the setae arise on the vertex; the old name <i>Incisitermes nigritus</i> has been placed in synonymy with this species, so that <i>Incisitermes</i> now contains 29 species.",
+     "text_es": "Según el estudio de Scheffrahn et al. (2024), el imago de <i>Incisitermes platycephalus</i> es más pálido que el de <i>Incisitermes lisae</i> y carece de manchas claras en los puntos de inserción de las setas del vértice; el nombre antiguo <i>Incisitermes nigritus</i> se ha sinonimizado con esta especie, por lo que <i>Incisitermes</i> reúne ahora 29 especies.",
+     "src": [
+      "S0494"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0494",
+   "citation": "Scheffrahn, R. H.; Austin, J. W.; Szalanski, A. L. 2024. Two new Incisitermes (Isoptera: Kalotermitidae) species from the Caribbean Basin, genetic relationships with other regional Incisitermes, and synonymy of Incisitermes tabogae with I. schwarzi. Zootaxa 5428(3): 427–439.",
+   "doi": "10.11646/zootaxa.5428.3.6"
+  }
+ ]
+}

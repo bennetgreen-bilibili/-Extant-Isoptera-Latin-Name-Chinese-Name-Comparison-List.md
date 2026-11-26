@@ -1,0 +1,27 @@
+{
+ "updated": "2026-11-26",
+ "sections": [
+  {
+   "heading": "分类沿革",
+   "heading_en": "Taxonomic history",
+   "heading_es": "Historia taxonómica",
+   "paragraphs": [
+    {
+     "text": "根据 Ruelle（1970）研究，当时归于纳塔尔大白蚁（<i>Macrotermes natalensis</i>）名下的材料被拆分为勇猛大白蚁（<i>Macrotermes bellicosus</i>）与纳塔尔大白蚁两种，作者为前者指定了新模；文献中记于 <i>Amplitermes</i>、<i>Macrotermes</i> 与旧属名 <i>Bellicositermes</i> 之下的 natalensis 记录，若采自勇猛大白蚁分布区内，应改归勇猛大白蚁。",
+     "text_en": "According to the study by Ruelle (1970), the material then placed under <i>Macrotermes natalensis</i> was divided into two species, <i>Macrotermes bellicosus</i> and <i>Macrotermes natalensis</i>, and the author designated a neotype for the former; records of natalensis published under <i>Amplitermes</i>, <i>Macrotermes</i> and the old genus name <i>Bellicositermes</i> that come from within the range of <i>Macrotermes bellicosus</i> should be transferred to that species.",
+     "text_es": "Según el estudio de Ruelle (1970), el material entonces incluido en <i>Macrotermes natalensis</i> se dividió en dos especies, <i>Macrotermes bellicosus</i> y <i>Macrotermes natalensis</i>, y el autor designó un neotipo para la primera; los registros de natalensis publicados bajo <i>Amplitermes</i>, <i>Macrotermes</i> y el antiguo nombre genérico <i>Bellicositermes</i> que proceden del área de distribución de <i>Macrotermes bellicosus</i> deben atribuirse a esta última.",
+     "src": [
+      "S0462"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0462",
+   "citation": "Ruelle, J.-E. 1970. A revision of the termites of the genus Macrotermes from the Ethiopian region (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology 24: 363–444.",
+   "doi": "10.5962/bhl.part.1525"
+  }
+ ]
+}

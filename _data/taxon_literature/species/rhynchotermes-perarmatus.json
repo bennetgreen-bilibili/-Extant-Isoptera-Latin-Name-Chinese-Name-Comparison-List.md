@@ -1,0 +1,47 @@
+{
+ "updated": "2026-11-26",
+ "sections": [
+  {
+   "heading": "兵蚁形态与异名",
+   "heading_en": "Soldier morphology and synonymy",
+   "heading_es": "Morfología del soldado y sinonimia",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn（2019）研究，全武喙白蚁（<i>Rhynchotermes perarmatus</i>）兵蚁头长 2.5–2.6 mm，其异名 <i>Rhynchotermes major</i> 头长 3.0–3.2 mm；本种头红褐色、上颚长于头壳，与头黄色、上颚较窄的武装喙白蚁（<i>Rhynchotermes armatus</i>）不同。",
+     "text_en": "According to the study by Scheffrahn (2019), the soldier of <i>Rhynchotermes perarmatus</i> has a head length of 2.5–2.6 mm, while its synonym <i>Rhynchotermes major</i> has a head length of 3.0–3.2 mm; the head of this species is reddish brown and the mandibles are longer than the head capsule, unlike the yellowish head and narrower mandibles of <i>Rhynchotermes armatus</i>.",
+     "text_es": "Según el estudio de Scheffrahn (2019), el soldado de <i>Rhynchotermes perarmatus</i> tiene una longitud cefálica de 2,5–2,6 mm, mientras que su sinónimo <i>Rhynchotermes major</i> mide 3,0–3,2 mm; la cabeza de esta especie es castaño rojiza y las mandíbulas son más largas que la cápsula cefálica, a diferencia de la cabeza amarilla y las mandíbulas más estrechas de <i>Rhynchotermes armatus</i>.",
+     "src": [
+      "S0498"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "哥伦比亚记录",
+   "heading_en": "Records from Colombia",
+   "heading_es": "Registros de Colombia",
+   "paragraphs": [
+    {
+     "text": "据 Pinzón 与 Castro（2018）研究，全武喙白蚁在哥伦比亚乌伊拉省 El Agrado（2.26750N, 75.67330W）的干林采到 1 头兵蚁，头与 nasus 合计长 2.50–2.60 mm、头宽 0.65–0.67 mm，上颚闭合时背视明显可见，为该种在哥伦比亚的首次记录。",
+     "text_en": "According to the study by Pinzón and Castro (2018), one soldier of <i>Rhynchotermes perarmatus</i> was collected in dry forest at El Agrado, Huila, Colombia (2.26750N, 75.67330W), with head plus nasus 2.50–2.60 mm long and head width 0.65–0.67 mm, the mandibles clearly visible in dorsal view when closed; this is the first record of the species in Colombia.",
+     "text_es": "Según el estudio de Pinzón y Castro (2018), se recolectó un soldado de <i>Rhynchotermes perarmatus</i> en bosque seco en El Agrado, Huila, Colombia (2.26750N, 75.67330W), con cabeza más nasus de 2,50–2,60 mm de longitud y anchura cefálica de 0,65–0,67 mm, con las mandíbulas claramente visibles en vista dorsal al cerrarse; es el primer registro de la especie en Colombia.",
+     "src": [
+      "S0501"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0498",
+   "citation": "Scheffrahn, R. H. 2019. Rhynchotermes armatus, a new mandibulate nasute termite (Isoptera, Termitidae, Syntermitinae) from Colombia. ZooKeys 892.",
+   "doi": "10.3897/zookeys.892.38743"
+  },
+  {
+   "id": "S0501",
+   "citation": "Pinzón, J.; Castro, D. 2018. New records of termites (Blattodea: Termitidae: Syntermitinae) from Colombia. Journal of Threatened Taxa 10(9): 12218–12225.",
+   "doi": "10.11609/jott.3909.10.9.12218-12225"
+  }
+ ]
+}

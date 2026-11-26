@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-26",
+ "sections": [
+  {
+   "heading": "属征与已知种",
+   "heading_en": "Diagnosis and known species",
+   "heading_es": "Diagnosis y especies conocidas",
+   "paragraphs": [
+    {
+     "text": "根据 Syaukani 等（2019）研究，东锥白蚁属（<i>Oriensubulitermes</i>）工蚁左上颚的端齿与第 1 缘齿彼此分离，这一特征把该属与东方区锥白蚁支系（Subulitermes-branch）的针白蚁属（<i>Aciculitermes</i>）、似锥白蚁属（<i>Subulioiditermes</i>）、白脸白蚁属（<i>Leucopitermes</i>）、马来白蚁属（<i>Malaysiotermes</i>）与沙巴白蚁属（<i>Sabahitermes</i>）区分开。",
+     "text_en": "According to the study by Syaukani et al. (2019), in the worker of <i>Oriensubulitermes</i> the apical tooth of the left mandible is separated from the first marginal tooth, a character that distinguishes the genus from the other genera of the Oriental Subulitermes-branch: <i>Aciculitermes</i>, <i>Subulioiditermes</i>, <i>Leucopitermes</i>, <i>Malaysiotermes</i> and <i>Sabahitermes</i>.",
+     "text_es": "Según el estudio de Syaukani et al. (2019), en la obrera de <i>Oriensubulitermes</i> el diente apical de la mandíbula izquierda está separado del primer diente marginal, carácter que distingue al género de los demás géneros de la rama Subulitermes oriental: <i>Aciculitermes</i>, <i>Subulioiditermes</i>, <i>Leucopitermes</i>, <i>Malaysiotermes</i> y <i>Sabahitermes</i>.",
+     "src": [
+      "S0480"
+     ]
+    },
+    {
+     "text": "该属现知 2 种：缺齿东锥白蚁（<i>Oriensubulitermes inanis</i>）见于马来半岛、苏门答腊与婆罗洲，凯姆勒东锥白蚁（<i>Oriensubulitermes kemneri</i>）仅见于婆罗洲。",
+     "text_en": "The genus contains two known species: <i>Oriensubulitermes inanis</i> occurs on the Malay Peninsula, Sumatra and Borneo, while <i>Oriensubulitermes kemneri</i> is known only from Borneo.",
+     "text_es": "El género contiene dos especies conocidas: <i>Oriensubulitermes inanis</i> se encuentra en la península de Malaca, Sumatra y Borneo, mientras que <i>Oriensubulitermes kemneri</i> solo se conoce de Borneo.",
+     "src": [
+      "S0480"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0480",
+   "citation": "Syaukani, S.; Husni, H.; Alfizar, A.; Kesumawati, E.; Novita, N.; Rusdiana, S.; Muarrif, S.; Pribadi, T. 2019. Deskripsi ulang rayap tanah (Subulitermes-branch): Oriensubulitermes inanis (Haviland) (Termitidae: Nasutitermitinae) di Indonesia. Jurnal Entomologi Indonesia 16(2): 75–82.",
+   "doi": "10.5994/jei.16.2.75"
+  }
+ ]
+}

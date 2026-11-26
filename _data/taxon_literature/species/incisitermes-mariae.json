@@ -1,0 +1,50 @@
+{
+ "updated": "2026-11-26",
+ "sections": [
+  {
+   "heading": "模式材料与鉴别",
+   "heading_en": "Type material and diagnosis",
+   "heading_es": "Material tipo y diagnosis",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn 等（2024）研究，玛丽亚楹白蚁（<i>Incisitermes mariae</i>）的正模兵蚁编号 UFTC TT1169，采于特立尼达和多巴哥 Pax Guest House 西北的溪径（10.7, -61.4），海拔 320 m；副模来自委内瑞拉 Falcón 州 Carizalito（1156 m）与 Lara 州 Churaguara（341 m）。",
+     "text_en": "According to the study by Scheffrahn et al. (2024), the holotype soldier of <i>Incisitermes mariae</i> is UFTC TT1169, collected on the creek trail northwest of Pax Guest House, Trinidad and Tobago (10.7, -61.4), 320 m; paratypes come from Carizalito, Falcón, Venezuela (1156 m) and Churaguara, Lara, Venezuela (341 m).",
+     "text_es": "Según el estudio de Scheffrahn et al. (2024), el soldado holotipo de <i>Incisitermes mariae</i> es UFTC TT1169, recolectado en el sendero del arroyo al noroeste de Pax Guest House, Trinidad y Tobago (10.7, -61.4), a 320 m; los paratipos proceden de Carizalito, Falcón, Venezuela (1156 m) y Churaguara, Lara, Venezuela (341 m).",
+     "src": [
+      "S0494"
+     ]
+    },
+    {
+     "text": "该种兵蚁在所有量度上都是同属最小的；与红树楹白蚁（<i>Incisitermes rhyzophorae</i>）最近，区别在于第 3 触角节柄更细，且红树楹白蚁前胸背板前缘深凹而本种仅浅凹。",
+     "text_en": "The soldier is the smallest in the genus in all measurements; it is closest to <i>Incisitermes rhyzophorae</i>, from which it differs in the thinner stem of the third antennal article, and in the shallowly concave anterior pronotal margin, which is deeply incised in <i>Incisitermes rhyzophorae</i>.",
+     "text_es": "El soldado es el más pequeño del género en todas las medidas; es afín a <i>Incisitermes rhyzophorae</i>, de la que difiere por el tallo más delgado del tercer artejo antenal y por el margen anterior del pronoto poco cóncavo, mientras que en <i>Incisitermes rhyzophorae</i> está profundamente escotado.",
+     "src": [
+      "S0494"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "有翅成虫、分布与词源",
+   "heading_en": "Alate, distribution and etymology",
+   "heading_es": "Alado, distribución y etimología",
+   "paragraphs": [
+    {
+     "text": "其有翅成虫是深色楹白蚁中最小者，与红树楹白蚁难以区分，后者仅见于古巴与巴哈马；该种仅见于海拔 320–1156 m 山地林的枯木，5 月下旬羽化；种名纪念作者的大女儿 Mary。",
+     "text_en": "Its alate is the smallest of the darkly pigmented <i>Incisitermes</i> species and is difficult to separate from <i>Incisitermes rhyzophorae</i>, which is known only from Cuba and the Bahamas; the species has been found only in dead wood of montane forests at 320–1156 m and matures alates in late May; it is named after the senior author's elder daughter Mary.",
+     "text_es": "Su alado es el más pequeño de las especies oscuras de <i>Incisitermes</i> y resulta difícil de separar de <i>Incisitermes rhyzophorae</i>, conocida solo de Cuba y Bahamas; la especie solo se ha encontrado en madera muerta de bosques montanos entre 320 y 1156 m y produce alados maduros a fines de mayo; está dedicada a Mary, hija mayor del autor principal.",
+     "src": [
+      "S0494"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0494",
+   "citation": "Scheffrahn, R. H.; Austin, J. W.; Szalanski, A. L. 2024. Two new Incisitermes (Isoptera: Kalotermitidae) species from the Caribbean Basin, genetic relationships with other regional Incisitermes, and synonymy of Incisitermes tabogae with I. schwarzi. Zootaxa 5428(3): 427–439.",
+   "doi": "10.11646/zootaxa.5428.3.6"
+  }
+ ]
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-26",
  "sections": [
   {
    "heading": "西非林缘至萨赫勒的分布",
@@ -18,6 +18,37 @@
      "text": "根据 Ruelle（1970）研究，勇猛大白蚁（<i>Macrotermes bellicosus</i>）所在带内的更干旱地段由近明大白蚁（<i>Macrotermes subhyalinus</i>）取代，后者是该属分布最广、最耐旱的种。",
      "text_en": "According to Ruelle (1970), the drier parts of this belt are occupied instead by <i>Macrotermes subhyalinus</i>, the most widespread and most drought-tolerant species of the genus.",
      "text_es": "Según Ruelle (1970), las partes más secas de esta franja están ocupadas por <i>Macrotermes subhyalinus</i>, la especie más ampliamente distribuida y más tolerante a la sequía del género.",
+     "src": [
+      "S0462"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "异名、模式与命名史",
+   "heading_en": "Synonymy, type and nomenclatural history",
+   "heading_es": "Sinonimia, tipo e historia nomenclatural",
+   "paragraphs": [
+    {
+     "text": "根据 Ruelle（1970）研究，勇猛大白蚁（<i>Macrotermes bellicosus</i>）最初由 Smeathman 于 1781 年以 <i>Termes bellicosus</i> 之名描述，模式产地为塞拉利昂，模式材料已丢失；Ruelle 把 <i>Termes nigeriensis</i>（模式产地尼日利亚 Yaba）与 <i>Termes carboniceps</i>（模式产地刚果 Yambata）降为该种的新异名，并把 Grassé（1937）描述为 <i>Bellicositermes convexus</i> 的种群也并入该种。",
+     "text_en": "According to the study by Ruelle (1970), <i>Macrotermes bellicosus</i> was first described by Smeathman in 1781 as <i>Termes bellicosus</i>, with the type locality in Sierra Leone and the type material lost; Ruelle synonymized <i>Termes nigeriensis</i> (type locality Yaba, Nigeria) and <i>Termes carboniceps</i> (type locality Yambata, Congo) with the species and also included the population described by Grassé (1937) as <i>Bellicositermes convexus</i>.",
+     "text_es": "Según el estudio de Ruelle (1970), <i>Macrotermes bellicosus</i> fue descrita por primera vez por Smeathman en 1781 como <i>Termes bellicosus</i>, con localidad tipo en Sierra Leona y material tipo perdido; Ruelle sinonimizó <i>Termes nigeriensis</i> (localidad tipo Yaba, Nigeria) y <i>Termes carboniceps</i> (localidad tipo Yambata, Congo) con la especie e incluyó también la población descrita por Grassé (1937) como <i>Bellicositermes convexus</i>.",
+     "src": [
+      "S0462"
+     ]
+    },
+    {
+     "text": "同研究指出，Hagen（1858）首次把 Smeathman 的名字误订，此后该名长期被用于今天的近明大白蚁（<i>Macrotermes subhyalinus</i>）；文献中置于 <i>Amplitermes</i>、<i>Macrotermes</i> 与 <i>Bellicositermes</i> 名下的纳塔尔大白蚁（<i>Macrotermes natalensis</i>）记录，在勇猛大白蚁的分布区内应改归该种。",
+     "text_en": "The same study notes that Hagen (1858) first misapplied Smeathman's name, which was long used for what is now <i>Macrotermes subhyalinus</i>; records of <i>Macrotermes natalensis</i> published under <i>Amplitermes</i>, <i>Macrotermes</i> and <i>Bellicositermes</i> should be referred to <i>Macrotermes bellicosus</i> within the range of the latter.",
+     "text_es": "El mismo estudio señala que Hagen (1858) aplicó erróneamente por primera vez el nombre de Smeathman, que durante mucho tiempo se usó para lo que hoy es <i>Macrotermes subhyalinus</i>; los registros de <i>Macrotermes natalensis</i> publicados bajo <i>Amplitermes</i>, <i>Macrotermes</i> y <i>Bellicositermes</i> deben atribuirse a <i>Macrotermes bellicosus</i> dentro del área de distribución de esta última.",
+     "src": [
+      "S0462"
+     ]
+    },
+    {
+     "text": "Ruelle 检查了 314 个巢系，并指出该种的建筑是所有大白蚁属中最精致的；该属的生态与筑巢行为此前已由 Smeathman（1781）、Kutter（1943）与 Grassé 等反复研究。",
+     "text_en": "Ruelle examined 314 nest series and noted that the architecture of this species is the most elaborate of all <i>Macrotermes</i>; its ecology and mound building had already been studied repeatedly by Smeathman (1781), Kutter (1943) and Grassé and co-workers.",
+     "text_es": "Ruelle examinó 314 series de nidos y señaló que la arquitectura de esta especie es la más elaborada de todo <i>Macrotermes</i>; su ecología y la construcción de termiteros ya habían sido estudiadas repetidamente por Smeathman (1781), Kutter (1943) y Grassé y colaboradores.",
      "src": [
       "S0462"
      ]

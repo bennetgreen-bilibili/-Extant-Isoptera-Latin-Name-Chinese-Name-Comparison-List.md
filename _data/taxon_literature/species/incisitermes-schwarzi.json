@@ -1,0 +1,50 @@
+{
+ "updated": "2026-11-26",
+ "sections": [
+  {
+   "heading": "异名归并与形态变异",
+   "heading_en": "Synonymy and morphological variation",
+   "heading_es": "Sinonimia y variación morfológica",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn 等（2024）研究，施瓦茨楹白蚁（<i>Incisitermes schwarzi</i>）的异名 <i>Incisitermes tabogae</i> 被正式归并；Banks（1920）依据佛罗里达与西古巴的标本描述了该种的有翅成虫与两种兵蚁型，Snyder（1924、1926）未把它与施瓦茨楹白蚁比较，此后 Scheffrahn 等（1994、2003、2005 年）在开曼、多米尼克、瓜德罗普、马提尼克、特立尼达和多巴哥与尼加拉瓜的记录一直沿用两个种的划分。",
+     "text_en": "According to the study by Scheffrahn et al. (2024), <i>Incisitermes tabogae</i> is formally synonymized with <i>Incisitermes schwarzi</i>; Banks (1920) described the alate and two soldier morphs from Florida and western Cuba, Snyder (1924, 1926) did not compare them with <i>Incisitermes schwarzi</i>, and later records by Scheffrahn et al. (1994, 2003, 2005) from the Cayman Islands, Dominica, Guadeloupe, Martinique, Trinidad and Tobago and Nicaragua maintained the two species as distinct.",
+     "text_es": "Según el estudio de Scheffrahn et al. (2024), <i>Incisitermes tabogae</i> se sinonimiza formalmente con <i>Incisitermes schwarzi</i>; Banks (1920) describió el alado y dos morfos de soldado de Florida y el oeste de Cuba, Snyder (1924, 1926) no los comparó con <i>Incisitermes schwarzi</i>, y los registros posteriores de Scheffrahn et al. (1994, 2003, 2005) en las islas Caimán, Dominica, Guadalupe, Martinica, Trinidad y Tobago y Nicaragua mantuvieron ambas especies separadas.",
+     "src": [
+      "S0494"
+     ]
+    },
+    {
+     "text": "共生鞭毛虫的证据支持归并：Strassert 等（2012）在佛罗里达的施瓦茨楹白蚁与伯利兹的 <i>Incisitermes tabogae</i> 体内都发现 'Candidatus Ancillula trichonymphae'，Boscaro 等（2017）发现两者的 Trichonympha 互为姐妹种。",
+     "text_en": "Evidence from symbiotic flagellates supports the synonymy: Strassert et al. (2012) found 'Candidatus Ancillula trichonymphae' in both Floridian <i>Incisitermes schwarzi</i> and Belizean <i>Incisitermes tabogae</i>, and Boscaro et al. (2017) found their Trichonympha to be sister species.",
+     "text_es": "La evidencia de flagelados simbiontes apoya la sinonimia: Strassert et al. (2012) encontraron 'Candidatus Ancillula trichonymphae' tanto en <i>Incisitermes schwarzi</i> de Florida como en <i>Incisitermes tabogae</i> de Belice, y Boscaro et al. (2017) hallaron que sus Trichonympha son especies hermanas.",
+     "src": [
+      "S0494"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "分布范围",
+   "heading_en": "Distribution",
+   "heading_es": "Distribución",
+   "paragraphs": [
+    {
+     "text": "该种是自南佛罗里达至南美北岸的优势广布种，研究共检查 1,575 个群体。",
+     "text_en": "The species is the dominant and widespread <i>Incisitermes</i> from southern Florida to the northern coast of South America, and the study examined 1,575 colonies.",
+     "text_es": "La especie es la <i>Incisitermes</i> dominante y ampliamente distribuida desde el sur de Florida hasta la costa norte de América del Sur, y el estudio examinó 1.575 colonias.",
+     "src": [
+      "S0494"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0494",
+   "citation": "Scheffrahn, R. H.; Austin, J. W.; Szalanski, A. L. 2024. Two new Incisitermes (Isoptera: Kalotermitidae) species from the Caribbean Basin, genetic relationships with other regional Incisitermes, and synonymy of Incisitermes tabogae with I. schwarzi. Zootaxa 5428(3): 427–439.",
+   "doi": "10.11646/zootaxa.5428.3.6"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "updated": "2026-11-26",
+ "sections": [
+  {
+   "heading": "新种、模式与鉴别",
+   "heading_en": "New species, type material and diagnosis",
+   "heading_es": "Nueva especie, material tipo y diagnosis",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn 与 Pinzón-Florián（2020）研究，咖啡皱白蚁（<i>Rugitermes tinto</i>）是皱白蚁属在南美的第 9 种，也是该属在哥伦比亚的首次记录；正模兵蚁 1998 年 4 月 11 日采于哥伦比亚里萨拉尔达省佩雷拉（4.810, -75.695），海拔 1410 m，J. Navarro 与 A. Arevalo 采，编号 UFTC CO919，另有昆迪纳马卡省 Villeta（5.017, -74.467）海拔 842 m 的标本。",
+     "text_en": "According to the study by Scheffrahn and Pinzón-Florián (2020), <i>Rugitermes tinto</i> is the ninth South American species of <i>Rugitermes</i> and the first record of the genus from Colombia; the holotype soldier was collected at Pereira, Risaralda, Colombia (4.810, -75.695), 1410 m, on 11 April 1998 by J. Navarro and A. Arevalo, UFTC CO919, and there is further material from Villeta, Cundinamarca (5.017, -74.467), 842 m.",
+     "text_es": "Según el estudio de Scheffrahn y Pinzón-Florián (2020), <i>Rugitermes tinto</i> es la novena especie sudamericana de <i>Rugitermes</i> y el primer registro del género en Colombia; el soldado holotipo se recolectó en Pereira, Risaralda, Colombia (4.810, -75.695), a 1410 m, el 11 de abril de 1998 por J. Navarro y A. Arevalo, UFTC CO919, y hay material adicional de Villeta, Cundinamarca (5.017, -74.467), a 842 m.",
+     "src": [
+      "S0497"
+     ]
+    },
+    {
+     "text": "该种兵蚁是全球唯一前头壳深色的非 phragmotic 木白蚁科兵蚁，额脊前侧角成约 65° 的锐角，而同属其他南美、中美与大洋洲种为直角或钝角；有翅成虫头部黑色、前胸背板褐橙色，大背皱白蚁（<i>Rugitermes magninotus</i>）则为褐头黄前胸背板。",
+     "text_en": "The soldier is the only non-phragmotic <i>Kalotermitidae</i> in the world with a dark anterior head capsule; the anterolateral corners of its frontal ridges form an acute angle of about 65 degrees, whereas in the other South American, Central American and Oceanian species of the genus they are right-angled or obtuse. The alate has a black head and a brownish orange pronotum, while <i>Rugitermes magninotus</i> has a brown head and a yellow pronotum.",
+     "text_es": "El soldado es el único <i>Kalotermitidae</i> no fragmótico del mundo con la parte anterior de la cápsula cefálica oscura; las esquinas anterolaterales de sus crestas frontales forman un ángulo agudo de unos 65 grados, mientras que en las demás especies sudamericanas, centroamericanas y oceánicas del género son rectas u obtusas. El alado tiene la cabeza negra y el pronoto pardo anaranjado, mientras que <i>Rugitermes magninotus</i> tiene la cabeza parda y el pronoto amarillo.",
+     "src": [
+      "S0497"
+     ]
+    },
+    {
+     "text": "6 头兵蚁头长 2.83（2.47–2.99）mm、头宽 1.72（1.52–1.90）mm、前胸背板宽 1.86（1.58–2.04）mm、前胸背板长 0.90（0.86–0.95）mm；有翅成虫头宽 1.31 mm、前胸背板宽 1.43 mm、体长 7.9 mm。",
+     "text_en": "In six soldiers the head length is 2.83 (2.47–2.99) mm, head width 1.72 (1.52–1.90) mm, pronotal width 1.86 (1.58–2.04) mm and pronotal length 0.90 (0.86–0.95) mm; the alate has a head width of 1.31 mm, a pronotal width of 1.43 mm and a body length of 7.9 mm.",
+     "text_es": "En seis soldados la longitud de la cabeza es 2,83 (2,47–2,99) mm, la anchura de la cabeza 1,72 (1,52–1,90) mm, la anchura del pronoto 1,86 (1,58–2,04) mm y la longitud del pronoto 0,90 (0,86–0,95) mm; el alado tiene una anchura cefálica de 1,31 mm, una anchura pronotal de 1,43 mm y una longitud corporal de 7,9 mm.",
+     "src": [
+      "S0497"
+     ]
+    },
+    {
+     "text": "该种分布于考卡河谷（Cauca）的山地湿润生态区与马格达莱纳河谷（Magdalena）上坡较干的地段；种名 tinto 指哥伦比亚的黑咖啡。",
+     "text_en": "The species occurs in the montane, moist ecoregion of the Cauca River valley and on the drier upper slopes of the Magdalena River valley; the specific name tinto refers to Colombian black coffee.",
+     "text_es": "La especie habita la ecorregión montana húmeda del valle del río Cauca y las laderas superiores más secas del valle del río Magdalena; el nombre específico tinto alude al café negro colombiano.",
+     "src": [
+      "S0497"
+     ]
+    },
+    {
+     "text": "据同研究，哥伦比亚木白蚁科的记录几乎全部来自加勒比海区，安第斯山区经确认的只有咖啡皱白蚁、麻头堆砂白蚁（<i>Cryptotermes brevis</i>）与伤残树白蚁（<i>Glyptotermes truncatus</i>）。",
+     "text_en": "The same study notes that nearly all Colombian records of <i>Kalotermitidae</i> come from the Caribbean region, and that the only confirmed Andean species are <i>Rugitermes tinto</i>, <i>Cryptotermes brevis</i> and <i>Glyptotermes truncatus</i>.",
+     "text_es": "El mismo estudio señala que casi todos los registros colombianos de <i>Kalotermitidae</i> proceden de la región del Caribe y que las únicas especies andinas confirmadas son <i>Rugitermes tinto</i>, <i>Cryptotermes brevis</i> y <i>Glyptotermes truncatus</i>.",
+     "src": [
+      "S0497"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0497",
+   "citation": "Scheffrahn, R. H.; Pinzón-Florián, O. 2020. Rugitermes tinto: A new termite (Isoptera, Kalotermitidae) from the Andean region of Colombia. ZooKeys 963: 37–44.",
+   "doi": "10.3897/zookeys.963.55843"
+  }
+ ]
+}

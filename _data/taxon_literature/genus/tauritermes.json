@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-26",
  "sections": [
   {
    "heading": "假工蚁的肠道形态",
@@ -23,6 +23,29 @@
      "text_es": "Estos caracteres difieren claramente de los de otros géneros de Kalotermitidae y permiten reconocer a los miembros de Tauritermes."
     }
    ]
+  },
+  {
+   "heading": "属的组成与分布",
+   "heading_en": "Composition and distribution of the genus",
+   "heading_es": "Composición y distribución del género",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn 与 Vasconcellos（2020）研究，牛白蚁属（<i>Tauritermes</i>）在班代拉牛白蚁（<i>Tauritermes bandeirai</i>）描记之前已知 3 种，新种的加入使该属增至 4 种；该属与距白蚁属（<i>Calcaritermes</i>）、堆砂白蚁属（<i>Cryptotermes</i>）、真砂白蚁属（<i>Eucryptotermes</i>）、树白蚁属（<i>Glyptotermes</i>）、前新白蚁属（<i>Proneotermes</i>）同属南美兵蚁以头部堵塞巢口的 6 个木白蚁科（<i>Kalotermitidae</i>）属。",
+     "text_en": "According to the study by Scheffrahn and Vasconcellos (2020), <i>Tauritermes</i> contained three species before <i>Tauritermes bandeirai</i> was described, and the new species raises the genus to four species; together with <i>Calcaritermes</i>, <i>Cryptotermes</i>, <i>Eucryptotermes</i>, <i>Glyptotermes</i> and <i>Proneotermes</i>, it is one of the six South American genera of <i>Kalotermitidae</i> whose soldiers plug the nest opening with the head.",
+     "text_es": "Según el estudio de Scheffrahn y Vasconcellos (2020), <i>Tauritermes</i> comprendía tres especies antes de la descripción de <i>Tauritermes bandeirai</i>, y la nueva especie eleva el género a cuatro especies; junto con <i>Calcaritermes</i>, <i>Cryptotermes</i>, <i>Eucryptotermes</i>, <i>Glyptotermes</i> y <i>Proneotermes</i>, es uno de los seis géneros sudamericanos de <i>Kalotermitidae</i> cuyos soldados obturan la abertura del nido con la cabeza.",
+     "src": [
+      "S0479"
+     ]
+    },
+    {
+     "text": "同研究指出，牛白蚁属原先仅知分布于巴西南部与阿根廷北部，Dambros 等（2013）把分布扩大至亚马孙州马瑙斯，Scheffrahn（2019）又报道了玻利维亚与巴拉圭的标本；班代拉牛白蚁则产于巴西东北部的卡廷加（Caatinga）与大西洋林。",
+     "text_en": "The same study notes that the genus was previously known only from southern Brazil and northern Argentina; Dambros et al. (2013) extended the range to Manaus in Amazonas, and Scheffrahn (2019) reported specimens from Bolivia and Paraguay. <i>Tauritermes bandeirai</i> occurs in the Caatinga and the Atlantic Forest of northeastern Brazil.",
+     "text_es": "El mismo estudio señala que el género se conocía solo del sur de Brasil y el norte de Argentina; Dambros et al. (2013) ampliaron su área a Manaos, en Amazonas, y Scheffrahn (2019) registró ejemplares de Bolivia y Paraguay. <i>Tauritermes bandeirai</i> habita la Caatinga y el Bosque Atlántico del nordeste de Brasil.",
+     "src": [
+      "S0479"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -30,6 +53,11 @@
    "id": "S0421",
    "citation": "Godoy M. C. 2004. Gut structure of two species of the neotropical genus Tauritermes Krishna (Isoptera: Kalotermitidae).",
    "doi": "10.1590/s1519-566x2004000200006"
+  },
+  {
+   "id": "S0479",
+   "citation": "Scheffrahn, R. H.; Vasconcellos, A. 2020. Tauritermes bandeirai: A new drywood termite (Isoptera, Kalotermitidae) from the Caatinga and Atlantic Forest of Brazil. ZooKeys 954: 75–84.",
+   "doi": "10.3897/zookeys.954.52335"
   }
  ]
 }

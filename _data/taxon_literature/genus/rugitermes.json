@@ -1,0 +1,53 @@
+{
+ "updated": "2026-11-26",
+ "sections": [
+  {
+   "heading": "属的组成与南美分布",
+   "heading_en": "Composition and South American distribution of the genus",
+   "heading_es": "Composición y distribución sudamericana del género",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn 与 Carrijo（2020）研究，皱白蚁属（<i>Rugitermes</i>）是中南美广布的干木白蚁，Krishna 等（2013）记录 12 种，大洋洲另有一种阿瑟顿皱白蚁（<i>Rugitermes athertoni</i>）；南美已知 8 种，其中双色皱白蚁（<i>Rugitermes bicolor</i>）产于亚马孙、宽颈皱白蚁（<i>Rugitermes laticollis</i>）产于安第斯高地、金黄皱白蚁（<i>Rugitermes flavicinctus</i>）与大背皱白蚁（<i>Rugitermes magninotus</i>）产于圭亚那、皱纹皱白蚁（<i>Rugitermes rugosus</i>）产于巴西南部、西部皱白蚁（<i>Rugitermes occidentalis</i>）产于阿根廷。",
+     "text_en": "According to the study by Scheffrahn and Carrijo (2020), <i>Rugitermes</i> is a genus of drywood termites widespread in Central and South America; Krishna et al. (2013) recorded 12 species, and one further species, <i>Rugitermes athertoni</i>, occurs in Oceania. Eight species are known from South America, among them <i>Rugitermes bicolor</i> from Amazonia, <i>Rugitermes laticollis</i> from the high Andes, <i>Rugitermes flavicinctus</i> and <i>Rugitermes magninotus</i> from Guiana, <i>Rugitermes rugosus</i> from southern Brazil and <i>Rugitermes occidentalis</i> from Argentina.",
+     "text_es": "Según el estudio de Scheffrahn y Carrijo (2020), <i>Rugitermes</i> es un género de termitas de madera seca ampliamente distribuido en América Central y del Sur; Krishna et al. (2013) registraron 12 especies y una más, <i>Rugitermes athertoni</i>, habita Oceanía. Se conocen ocho especies en América del Sur, entre ellas <i>Rugitermes bicolor</i> de la Amazonia, <i>Rugitermes laticollis</i> de los Andes altos, <i>Rugitermes flavicinctus</i> y <i>Rugitermes magninotus</i> de las Guayanas, <i>Rugitermes rugosus</i> del sur de Brasil y <i>Rugitermes occidentalis</i> de Argentina.",
+     "src": [
+      "S0496"
+     ]
+    },
+    {
+     "text": "根据 Scheffrahn 与 Pinzón-Florián（2020）研究，南美食木白蚁中兵蚁几乎没有头壳 phragmosis 的只有 4 属：毛白蚁属（<i>Comatermes</i>）、楹白蚁属（<i>Incisitermes</i>）、新白蚁属（<i>Neotermes</i>）与皱白蚁属（<i>Rugitermes</i>）；多数皱白蚁的头壳与前胸背板颜色强烈对比，属征还包括兵蚁触角窝前方内侧的显著脊与有翅成虫前翅短而硬化的中脉。",
+     "text_en": "According to the study by Scheffrahn and Pinzón-Florián (2020), only four South American genera of drywood termites have soldiers with essentially no cephalic phragmosis: <i>Comatermes</i>, <i>Incisitermes</i>, <i>Neotermes</i> and <i>Rugitermes</i>. In most <i>Rugitermes</i> the head capsule contrasts strongly in colour with the pronotum, and the genus is further characterized by a prominent ridge on the soldier head in front of and medial to the antennal socket and by the short, sclerotized median vein of the alate forewing.",
+     "text_es": "Según el estudio de Scheffrahn y Pinzón-Florián (2020), solo cuatro géneros sudamericanos de termitas de madera seca tienen soldados sin fragmosis cefálica apreciable: <i>Comatermes</i>, <i>Incisitermes</i>, <i>Neotermes</i> y <i>Rugitermes</i>. En la mayoría de <i>Rugitermes</i> la cápsula cefálica contrasta fuertemente en color con el pronoto, y el género se caracteriza además por una cresta prominente en la cabeza del soldado, por delante y por dentro de la cavidad antenal, y por la vena media corta y esclerotizada del ala anterior del alado.",
+     "src": [
+      "S0497"
+     ]
+    },
+    {
+     "text": "根据 Casalla 等（2021）研究，基于线粒体 COII（约 740 bp、30 种木白蚁科）的系统树支持皱白蚁属为单系群，并与后琥珀白蚁属（<i>Postelectrotermes</i>）互为姐妹群。",
+     "text_en": "According to the study by Casalla et al. (2021), a phylogenetic tree based on mitochondrial COII (about 740 bp, 30 species of <i>Kalotermitidae</i>) supports <i>Rugitermes</i> as monophyletic and as the sister group of <i>Postelectrotermes</i>.",
+     "text_es": "Según el estudio de Casalla et al. (2021), un árbol filogenético basado en el COII mitocondrial (unos 740 pb, 30 especies de <i>Kalotermitidae</i>) apoya la monofilia de <i>Rugitermes</i> y su condición de grupo hermano de <i>Postelectrotermes</i>.",
+     "src": [
+      "S0495"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0496",
+   "citation": "Scheffrahn, R. H.; Carrijo, T. F. 2020. Three new species of Rugitermes (Isoptera, Kalotermitidae) from Peru and Bolivia. ZooKeys 1000.",
+   "doi": "10.3897/zookeys.1000.59219"
+  },
+  {
+   "id": "S0497",
+   "citation": "Scheffrahn, R. H.; Pinzón-Florián, O. 2020. Rugitermes tinto: A new termite (Isoptera, Kalotermitidae) from the Andean region of Colombia. ZooKeys 963: 37–44.",
+   "doi": "10.3897/zookeys.963.55843"
+  },
+  {
+   "id": "S0495",
+   "citation": "Casalla, R.; Scheffrahn, R. H.; Korb, J. 2021. Rugitermes ursulae (Isoptera, Kalotermitidae), a new drywood termite from the Caribbean coast of Colombia. ZooKeys 1057.",
+   "doi": "10.3897/zookeys.1057.65877"
+  }
+ ]
+}

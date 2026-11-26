@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-26",
  "sections": [
   {
    "heading": "西部大陆亚群的 3 个成员",
@@ -15,6 +15,29 @@
      ]
     }
    ]
+  },
+  {
+   "heading": "属的规模、分布与危害",
+   "heading_en": "Size, distribution and pest status of the genus",
+   "heading_es": "Tamaño, distribución y condición de plaga del género",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn 等（2024）研究，楹白蚁属（<i>Incisitermes</i>）在 Constantino（2020）的名录中有 29 种，主要分布于新世界，另有 8 种见于澳大利亚、印度、太平洋岛屿、菲律宾与台湾；该属白蚁都在较干的木材中筑巢，小楹白蚁（<i>Incisitermes minor</i>）因需水量低而成为危害最大的建筑害虫。",
+     "text_en": "According to the study by Scheffrahn et al. (2024), <i>Incisitermes</i> contains 29 species in the catalogue of Constantino (2020), mainly in the New World, with eight further species in Australia, India, the Pacific islands, the Philippines and Taiwan; all species nest in relatively dry wood, and <i>Incisitermes minor</i> is the most destructive structural pest because of its low water requirement.",
+     "text_es": "Según el estudio de Scheffrahn et al. (2024), <i>Incisitermes</i> comprende 29 especies en el catálogo de Constantino (2020), principalmente del Nuevo Mundo, con ocho especies más en Australia, India, las islas del Pacífico, Filipinas y Taiwán; todas anidan en madera relativamente seca, y <i>Incisitermes minor</i> es la plaga estructural más destructiva por su baja demanda de agua.",
+     "src": [
+      "S0494"
+     ]
+    },
+    {
+     "text": "同研究把施瓦茨楹白蚁（<i>Incisitermes schwarzi</i>）的异名 <i>Incisitermes tabogae</i> 正式归并，并依据 16S（428 bp）重建属内关系：小楹白蚁最远离其余种，玛丽亚楹白蚁（<i>Incisitermes mariae</i>）与缘翅楹白蚁（<i>Incisitermes marginipennis</i>）成一支，施瓦茨楹白蚁与暗黑楹白蚁（<i>Incisitermes furvus</i>）成另一支。",
+     "text_en": "The same study formally synonymizes <i>Incisitermes tabogae</i> with <i>Incisitermes schwarzi</i> and reconstructs the relationships within the genus from 16S (428 bp): <i>Incisitermes minor</i> is the most distant species, <i>Incisitermes mariae</i> groups with <i>Incisitermes marginipennis</i>, and <i>Incisitermes schwarzi</i> groups with <i>Incisitermes furvus</i>.",
+     "text_es": "El mismo estudio sinonimiza formalmente <i>Incisitermes tabogae</i> con <i>Incisitermes schwarzi</i> y reconstruye las relaciones del género con 16S (428 pb): <i>Incisitermes minor</i> es la especie más alejada, <i>Incisitermes mariae</i> se agrupa con <i>Incisitermes marginipennis</i> y <i>Incisitermes schwarzi</i> con <i>Incisitermes furvus</i>.",
+     "src": [
+      "S0494"
+     ]
+    }
+   ]
   }
  ],
  "references": [
@@ -22,6 +45,11 @@
    "id": "S0357",
    "citation": "Myles, T. G. 1997. A second species of the drywood termite genus Marginitermes (Isoptera: Kalotermitidae). The Canadian Entomologist.",
    "url": "https://doi.org/10.4039/ent129757-4"
+  },
+  {
+   "id": "S0494",
+   "citation": "Scheffrahn, R. H.; Austin, J. W.; Szalanski, A. L. 2024. Two new Incisitermes (Isoptera: Kalotermitidae) species from the Caribbean Basin, genetic relationships with other regional Incisitermes, and synonymy of Incisitermes tabogae with I. schwarzi. Zootaxa 5428(3): 427–439.",
+   "doi": "10.11646/zootaxa.5428.3.6"
   }
  ]
 }

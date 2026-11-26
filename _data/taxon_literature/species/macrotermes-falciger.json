@@ -1,0 +1,43 @@
+{
+ "updated": "2026-11-26",
+ "sections": [
+  {
+   "heading": "修订、模式与异名",
+   "heading_en": "Revision, type and synonymy",
+   "heading_es": "Revisión, tipo y sinonimia",
+   "paragraphs": [
+    {
+     "text": "根据 Ruelle（1970）研究，镰刀大白蚁（<i>Macrotermes falciger</i>）被重新确认并移到 <i>Macrotermes</i> 属，其模式为 Gerstäcker（1891）描述的 <i>Termes falciger</i>，采于坦桑尼亚 Mbusine；Ruelle 把 <i>Termes goliath</i>（坦桑尼亚 Kilimandjaro）、<i>Termes michelli</i>（刚果北加丹加）、<i>Termes swaziae</i>（南非 Tzaneen）、<i>Macrotermes usutu</i>（斯威士兰 Usutu 河）与 <i>Tumulitermes kibonotensis</i>（坦桑尼亚 Kilimandjaro Kibonoto）都降为该种的异名。",
+     "text_en": "According to the study by Ruelle (1970), <i>Macrotermes falciger</i> is reinstated and transferred to <i>Macrotermes</i>; its type is <i>Termes falciger</i> Gerstäcker, 1891, collected at Mbusine, Tanzania, and Ruelle synonymized <i>Termes goliath</i> (Kilimandjaro, Tanzania), <i>Termes michelli</i> (North Katanga, Congo), <i>Termes swaziae</i> (Tzaneen, South Africa), <i>Macrotermes usutu</i> (Usutu River, Swaziland) and <i>Tumulitermes kibonotensis</i> (Kibonoto, Kilimandjaro, Tanzania) with the species.",
+     "text_es": "Según el estudio de Ruelle (1970), <i>Macrotermes falciger</i> se restablece y se transfiere a <i>Macrotermes</i>; su tipo es <i>Termes falciger</i> Gerstäcker, 1891, recolectado en Mbusine, Tanzania, y Ruelle sinonimizó <i>Termes goliath</i> (Kilimandjaro, Tanzania), <i>Termes michelli</i> (norte de Katanga, Congo), <i>Termes swaziae</i> (Tzaneen, Sudáfrica), <i>Macrotermes usutu</i> (río Usutu, Suazilandia) y <i>Tumulitermes kibonotensis</i> (Kibonoto, Kilimandjaro, Tanzania) con la especie.",
+     "src": [
+      "S0462"
+     ]
+    },
+    {
+     "text": "其有翅成虫头部深栗褐、囟门周围较浅，前胸背板比头部更深，中央有 T 形黄斑、前侧角附近有两个黄点，胫节比腿节深，翅呈浅烟色。",
+     "text_en": "The alate has a dark chestnut-brown head that is paler around the fontanelle, a pronotum darker than the head with a T-shaped yellow mark in the middle and two yellow spots near the anterolateral corners, tibiae darker than the femora, and light smoky wings.",
+     "text_es": "El alado tiene la cabeza castaño oscuro, más pálida alrededor de la fontanela, el pronoto más oscuro que la cabeza con una mancha amarilla en forma de T en el centro y dos manchas amarillas cerca de las esquinas anterolaterales, las tibias más oscuras que los fémures y las alas de color ahumado claro.",
+     "src": [
+      "S0462"
+     ]
+    },
+    {
+     "text": "该种主要分布于东非与南非，对湿度的要求高于纳塔尔大白蚁（<i>Macrotermes natalensis</i>）。",
+     "text_en": "The species is distributed mainly in East and southern Africa and has higher humidity requirements than <i>Macrotermes natalensis</i>.",
+     "text_es": "La especie se distribuye principalmente en África oriental y austral y tiene mayores requerimientos de humedad que <i>Macrotermes natalensis</i>.",
+     "src": [
+      "S0462"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0462",
+   "citation": "Ruelle, J.-E. 1970. A revision of the termites of the genus Macrotermes from the Ethiopian region (Isoptera: Termitidae). Bulletin of the British Museum (Natural History), Entomology 24: 363–444.",
+   "doi": "10.5962/bhl.part.1525"
+  }
+ ]
+}

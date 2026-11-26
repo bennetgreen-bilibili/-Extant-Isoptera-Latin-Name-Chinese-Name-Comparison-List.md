@@ -1,0 +1,50 @@
+{
+ "updated": "2026-11-26",
+ "sections": [
+  {
+   "heading": "模式材料与分布",
+   "heading_en": "Type material and distribution",
+   "heading_es": "Material tipo y distribución",
+   "paragraphs": [
+    {
+     "text": "根据 Scheffrahn 等（2024）研究，莉萨楹白蚁（<i>Incisitermes lisae</i>）的正模为小型兵蚁，编号 UFTC MX120，采于墨西哥尤卡坦州 295 号公路 15 km 处（20.82460, -88.19358）；副模来自伯利兹 Hopkins 以南 5 km 的红树林（10 m）、危地马拉 Saljalal（234 m）与通往 Flores 的公路（185 m），以及尤卡坦的 Chichen Itza、Laguna Bacalar、梅里达以东 83 km、Kinchil 红树林与 Progreso 以东 16.5 km 等地，共 43 个群体。",
+     "text_en": "According to the study by Scheffrahn et al. (2024), the holotype of <i>Incisitermes lisae</i> is a small soldier, UFTC MX120, collected on Highway 295 at km 15, Yucatan, Mexico (20.82460, -88.19358); paratypes come from mangroves 5 km south of Hopkins, Belize (10 m), from Saljalal (234 m) and the road to Flores (185 m) in Guatemala, and from Chichen Itza, Laguna Bacalar, 83 km east of Merida, the Kinchil mangroves and 16.5 km east of Progreso in Yucatan, altogether 43 colonies.",
+     "text_es": "Según el estudio de Scheffrahn et al. (2024), el holotipo de <i>Incisitermes lisae</i> es un soldado pequeño, UFTC MX120, recolectado en la carretera 295, km 15, Yucatán, México (20.82460, -88.19358); los paratipos proceden de manglares 5 km al sur de Hopkins, Belice (10 m), de Saljalal (234 m) y de la carretera a Flores (185 m) en Guatemala, y de Chichen Itza, Laguna Bacalar, 83 km al este de Mérida, los manglares de Kinchil y 16,5 km al este de Progreso en Yucatán, en total 43 colonias.",
+     "src": [
+      "S0494"
+     ]
+    },
+    {
+     "text": "该种仅见于尤卡坦低地林海拔 3–23 m 的枯木，危地马拉的标本达 272 m；2006 年 12 月 1 日晴晨在伯利兹红树林观察到有翅成虫飞翔；与宽头楹白蚁（<i>Incisitermes platycephalus</i>）最近，后者体色更浅、头顶刚毛着生处无浅斑。",
+     "text_en": "The species has been found only in dead wood in the lowland forests of Yucatan at 3–23 m, with Guatemalan specimens reaching 272 m; alates were seen flying on a sunny morning in Belizean mangroves on 1 December 2006. It is closest to <i>Incisitermes platycephalus</i>, which is paler and lacks pale spots at the setal insertions on the vertex.",
+     "text_es": "La especie solo se ha encontrado en madera muerta de los bosques de tierras bajas de Yucatán, entre 3 y 23 m, con ejemplares guatemaltecos que alcanzan 272 m; se observaron alados volando una mañana soleada en manglares de Belice el 1 de diciembre de 2006. Es afín a <i>Incisitermes platycephalus</i>, de color más pálido y sin manchas claras en los puntos de inserción de las setas del vértice.",
+     "src": [
+      "S0494"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "有翅成虫量度与词源",
+   "heading_en": "Alate measurements and etymology",
+   "heading_es": "Medidas del alado y etimología",
+   "paragraphs": [
+    {
+     "text": "9 头有翅成虫头长含唇基 1.09（1.01–1.12）mm、头宽 0.88（0.83–0.93）mm、前翅长 5.29（4.83–5.54）mm、连翅体长 7.90 mm；种名纪念作者的小女儿 Lisa。",
+     "text_en": "In nine alates the head length including the clypeus is 1.09 (1.01–1.12) mm, head width 0.88 (0.83–0.93) mm, forewing length 5.29 (4.83–5.54) mm and body length with wings 7.90 mm; the species is named after the junior author's daughter Lisa.",
+     "text_es": "En nueve alados la longitud de la cabeza con el clípeo es 1,09 (1,01–1,12) mm, la anchura de la cabeza 0,88 (0,83–0,93) mm, la longitud del ala anterior 5,29 (4,83–5,54) mm y la longitud corporal con alas 7,90 mm; la especie está dedicada a Lisa, hija del autor junior.",
+     "src": [
+      "S0494"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0494",
+   "citation": "Scheffrahn, R. H.; Austin, J. W.; Szalanski, A. L. 2024. Two new Incisitermes (Isoptera: Kalotermitidae) species from the Caribbean Basin, genetic relationships with other regional Incisitermes, and synonymy of Incisitermes tabogae with I. schwarzi. Zootaxa 5428(3): 427–439.",
+   "doi": "10.11646/zootaxa.5428.3.6"
+  }
+ ]
+}

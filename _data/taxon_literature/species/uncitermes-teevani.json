@@ -1,0 +1,35 @@
+{
+ "updated": "2026-11-26",
+ "sections": [
+  {
+   "heading": "形态与生物学",
+   "heading_en": "Morphology and biology",
+   "heading_es": "Morfología y biología",
+   "paragraphs": [
+    {
+     "text": "根据 Carrijo 等（2016）研究，蒂范弯钩白蚁（<i>Uncitermes teevani</i>）兵蚁只有稀疏长刚毛、额管无毛，而阿尔梅里弯钩白蚁（<i>Uncitermes almeriae</i>）的头壳与额管全覆短刚毛。",
+     "text_en": "According to the study by Carrijo et al. (2016), the soldier of <i>Uncitermes teevani</i> has only sparse long setae and a bare frontal tube, whereas the head capsule and frontal tube of <i>Uncitermes almeriae</i> are covered with short setae.",
+     "text_es": "Según el estudio de Carrijo et al. (2016), el soldado de <i>Uncitermes teevani</i> solo tiene setas largas dispersas y el tubo frontal desnudo, mientras que la cápsula cefálica y el tubo frontal de <i>Uncitermes almeriae</i> están cubiertos de setas cortas.",
+     "src": [
+      "S0502"
+     ]
+    },
+    {
+     "text": "该种常采于腐木、枯落物、土壤、干棕榈茎与根丛，可能在土与枯落物交界处觅食；法属圭亚那曾记录其巢位于倒木下的空心圆柱段内、长约 1 m，王台不对称地附着在木上；同文另记玻利维亚 San Javier（-14.5491, -64.8896）与厄瓜多尔 Yasuni 国家公园等采集点。",
+     "text_en": "The species is frequently collected in decaying wood, litter, soil, dry palm stems and root masses and probably forages at the soil-litter interface; in French Guiana its nest has been recorded in a hollow cylindrical section about 1 m long under a fallen log, with the royal cell attached asymmetrically to the wood, and the same work adds collecting sites at San Javier, Bolivia (-14.5491, -64.8896) and in Yasuni National Park, Ecuador.",
+     "text_es": "La especie se recolecta con frecuencia en madera en descomposición, hojarasca, suelo, tallos secos de palma y masas de raíces y probablemente forrajea en la interfaz suelo-hojarasca; en la Guayana Francesa se ha registrado su nido en un tramo cilíndrico hueco de unos 1 m bajo un tronco caído, con la celda real unida asimétricamente a la madera, y el mismo trabajo añade puntos de recolección en San Javier, Bolivia (-14,5491, -64,8896) y en el Parque Nacional Yasuni, Ecuador.",
+     "src": [
+      "S0502"
+     ]
+    }
+   ]
+  }
+ ],
+ "references": [
+  {
+   "id": "S0502",
+   "citation": "Carrijo, T. F.; Constantini, J. P.; Scheffrahn, R. H. 2016. Uncitermes almeriae, a new termite species from Amazonia (Isoptera, Termitidae, Syntermitinae). ZooKeys 595: 1–6.",
+   "doi": "10.3897/zookeys.595.8626"
+  }
+ ]
+}
