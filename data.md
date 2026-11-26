@@ -75,6 +75,7 @@ permalink: /data/
 
 <ul>
   <li><a href="{{ site.base_url }}/search-index.json"><code>search-index.json</code></a> — 名录检索索引（拼音 / 繁体 / 次异名，含所属科字段；由 <code>build_search_index.py</code> 生成）</li>
+  <li><a href="{{ site.base_url }}/api/"><strong>API v1</strong></a> — 只读 JSON 接口：<a href="{{ site.base_url }}/api/v1/names.json"><code>api/v1/names.json</code></a> 收录 11,486 个名称键（学名、中文正名、次异名、属/科，返回 <code>match</code> 与歧义候选），<a href="{{ site.base_url }}/api/v1/species/coptotermes-formosanus.json"><code>api/v1/species/&lt;slug&gt;.json</code></a> 给出单条种/亚种记录；端点与字段见 <a href="{{ site.base_url }}/api/">API 文档</a>，<a href="{{ site.base_url }}/api/v1/index.json"><code>index.json</code></a> 为机器可读的端点清单。</li>
   <li><a href="{{ site.base_url }}/data/name-issues.json"><code>data/name-issues.json</code></a> — 命名差异与待核对清单（三类问题、外部记录链接、匹配置信度；<code>synonym_pairs</code> 逐对给出本站名与外部库接受名的关系（异名 / 组合差异）、接收名方向（外部名 / 本站名 / 待定）、各库判定与补录状态，<code>species_authority</code> 供物种页反查；同内容 <a href="{{ site.base_url }}/downloads/isoptera-name-issues.csv">CSV</a> 与 <a href="{{ site.base_url }}/downloads/isoptera-synonym-pairs.csv">逐对归并 CSV</a>）</li>
   <li><a href="{{ site.base_url }}/sitemap.txt">sitemap.txt</a> — 全站 URL 清单（每行一个绝对 URL）</li>
   <li>订阅：<a href="{{ site.base_url }}/feed.xml">feed.xml（Atom）</a> · <a href="{{ site.base_url }}/feed.json">feed.json（JSON Feed）</a> · <a href="{{ site.base_url }}/changelog.atom">changelog.atom（版本记录）</a></li>
