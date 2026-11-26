@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/palmitermes-impostor.json",
+ "apiVersion": "1",
+ "authorship": "Hellemans & Roisin, 2017",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "palmitermes",
+   "latin": "Palmitermes",
+   "zh": "棕榈白蚁属"
+  },
+  "subfamily": {
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia, Brazil, French Guiana",
+  "zh": "澳大利亚、巴西、法属圭亚那"
+ },
+ "isTypeSpecies": true,
+ "latin": "Palmitermes impostor",
+ "pageUrl": "https://termite-extant-isoptera.org/species/palmitermes-impostor/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "French Guiana: Petit Saut [5.07N 53.032W]",
+ "version": "2026.11.21",
+ "zh": "骗子棕榈白蚁"
+}

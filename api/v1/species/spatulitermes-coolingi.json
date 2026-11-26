@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/spatulitermes-coolingi.json",
+ "apiVersion": "1",
+ "authorship": "Coaton, 1971",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "spatulitermes",
+   "latin": "Spatulitermes",
+   "zh": "匙白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "southern Africa, Namibia, Zambia",
+  "zh": "非洲南部、纳米比亚、赞比亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Spatulitermes coolingi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/spatulitermes-coolingi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Namibia: 64.4 km ex Rundu-Grootfontein",
+ "version": "2026.11.21",
+ "zh": "库林匙白蚁"
+}

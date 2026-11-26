@@ -1,0 +1,76 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/roisinitermes-ebogoensis.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Kalotermitidae",
+   "family_zh": "木白蚁科",
+   "group": "gap",
+   "kind": "missing",
+   "latin": "Roisinitermes ebogoensis",
+   "match": null,
+   "note": "",
+   "rank": "种",
+   "slug": "roisinitermes-ebogoensis",
+   "source": "col",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "埃博戈罗伊辛白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Kalotermitidae",
+   "family_zh": "木白蚁科",
+   "group": "gap",
+   "kind": "missing",
+   "latin": "Roisinitermes ebogoensis",
+   "match": null,
+   "note": "",
+   "rank": "种",
+   "slug": "roisinitermes-ebogoensis",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "埃博戈罗伊辛白蚁"
+  }
+ ],
+ "authorship": "Scheffrahn, 2018",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "roisinitermes",
+   "latin": "Roisinitermes",
+   "zh": "罗伊辛白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Cameroon",
+  "zh": "喀麦隆"
+ },
+ "isTypeSpecies": true,
+ "latin": "Roisinitermes ebogoensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/roisinitermes-ebogoensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cameroon: Mbalmayo Forest Reserve: Ebogo [ 3.382N 11.463E ]",
+ "version": "2026.11.21",
+ "zh": "埃博戈罗伊辛白蚁"
+}

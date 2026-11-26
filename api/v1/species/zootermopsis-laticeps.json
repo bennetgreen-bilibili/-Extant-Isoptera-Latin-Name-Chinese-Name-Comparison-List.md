@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/zootermopsis-laticeps.json",
+ "apiVersion": "1",
+ "authorship": "Banks, 1906",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "archotermopsidae",
+   "latin": "Archotermopsidae",
+   "zh": "古白蚁科"
+  },
+  "genus": {
+   "id": "zootermopsis",
+   "latin": "Zootermopsis",
+   "zh": "动白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "southwestern North America, United States, Mexico",
+  "zh": "北美西南部、美国、墨西哥"
+ },
+ "isTypeSpecies": false,
+ "latin": "Zootermopsis laticeps",
+ "pageUrl": "https://termite-extant-isoptera.org/species/zootermopsis-laticeps/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "United States: Arizona: Douglas; Arizona: Florence; Arizona: San Bernardino Ranch",
+ "version": "2026.11.21",
+ "zh": "宽头动白蚁"
+}

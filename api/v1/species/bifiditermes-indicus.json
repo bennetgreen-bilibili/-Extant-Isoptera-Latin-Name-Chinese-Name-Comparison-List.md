@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/bifiditermes-indicus.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1913",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "bifiditermes",
+   "latin": "Bifiditermes",
+   "zh": "双裂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "India, Indonesia, Thailand",
+  "zh": "印度、印度尼西亚、泰国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Bifiditermes indicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/bifiditermes-indicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Indonesia: Sulawesi: Ujung Pandang (Makassar); Thailand: Bangkok",
+ "version": "2026.11.21",
+ "zh": "印度双裂白蚁"
+}

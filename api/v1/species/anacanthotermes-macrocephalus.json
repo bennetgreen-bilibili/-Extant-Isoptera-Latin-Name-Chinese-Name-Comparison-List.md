@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/anacanthotermes-macrocephalus.json",
+ "apiVersion": "1",
+ "authorship": "Desneux, 1906",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "hodotermitidae",
+   "latin": "Hodotermitidae",
+   "zh": "草白蚁科"
+  },
+  "genus": {
+   "id": "anacanthotermes",
+   "latin": "Anacanthotermes",
+   "zh": "无刺白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "India, Afghanistan, Iran, Pakistan",
+  "zh": "印度、阿富汗、伊朗、巴基斯坦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Anacanthotermes macrocephalus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/anacanthotermes-macrocephalus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Anacanthotermes peshawarensis Akhtar, 1974: 40-44",
+   "authorship": "Akhtar, 1974",
+   "localityAlignment": "matched",
+   "name": "Anacanthotermes peshawarensis",
+   "note": "",
+   "reference": "40-44",
+   "typeLocality": "Pakistan: Peshawar"
+  }
+ ],
+ "typeLocality": "Pakistan: Sind: Karachi",
+ "version": "2026.11.21",
+ "zh": "大头无刺白蚁"
+}

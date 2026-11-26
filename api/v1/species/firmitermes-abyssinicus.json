@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/firmitermes-abyssinicus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "firmitermes",
+   "latin": "Firmitermes",
+   "zh": "坚白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, Ethiopia",
+  "zh": "旧热带界、埃塞俄比亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Firmitermes abyssinicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/firmitermes-abyssinicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes tripolitanus Sjöstedt, 1912: 16-17",
+   "authorship": "Sjöstedt, 1912",
+   "localityAlignment": "matched",
+   "name": "Eutermes tripolitanus",
+   "note": "",
+   "reference": "16-17",
+   "typeLocality": "Ethiopia: Monti Berrek, near Ancover, 15 km NE of Addis Ababa [incorrectly given as Tripolitana by Sjöstedt"
+  }
+ ],
+ "typeLocality": "Ethiopia: Hicka",
+ "version": "2026.11.21",
+ "zh": "阿比西尼亚坚白蚁"
+}

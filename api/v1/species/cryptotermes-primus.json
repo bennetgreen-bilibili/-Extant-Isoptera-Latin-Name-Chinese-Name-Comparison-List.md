@@ -1,0 +1,67 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-primus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Kalotermitidae",
+   "family_zh": "木白蚁科",
+   "group": "match",
+   "kind": "ambiguous",
+   "latin": "Cryptotermes primus",
+   "match": null,
+   "note": "候选：OTU 82644 Cryptotermes primus (Hill, 1921)；OTU 651530 Cryptotermes primus Kemner, 1932 now Cryptotermes dudleyi Banks, 1918",
+   "rank": "种",
+   "slug": "cryptotermes-primus",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "第一堆砂白蚁"
+  }
+ ],
+ "authorship": "Hill, 1921",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes primus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-primus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Calotermes ( Cryptotermes ) arcanus Hill, 1925: 214-215",
+   "authorship": "Hill, 1925",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Cryptotermes) arcanus",
+   "note": "",
+   "reference": "214-215",
+   "typeLocality": "Australia: Lord Howe Island"
+  }
+ ],
+ "typeLocality": "Australia: Queensland: Townsville",
+ "version": "2026.11.21",
+ "zh": "第一堆砂白蚁"
+}

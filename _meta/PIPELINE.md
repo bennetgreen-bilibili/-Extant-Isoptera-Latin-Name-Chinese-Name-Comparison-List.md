@@ -26,9 +26,10 @@ bash _tools/regen_all.sh
 | 11 | `_tools/build_dwca.py --write` | `dataset/data/*` → `dataset/dwca/` + DwC-A zip |
 | 12 | `_tools/build_changelog.py --write` | `dataset/CHANGELOG.md` → `changelog.md` 三语、`changelog.atom`、`_data/changelog.json` |
 | 13 | `build_name_issues.py --write` | 缓存 + `_species` → `_data/name_issues.json`、`data/name-issues.json`、CSV |
-| 14 | `_tools/stamp_assets.py` | `assets/*.css`、`assets/*.js` 内容哈希 → `_data/build.json` |
-| 15 | `_tools/check_lang_pages.py --ci` | 三语页面齐备 / 混语残留 / 站内链语言前缀 |
-| 16 | `_tools/build_ai_index.py --write` | 刷新 `SITE-INDEX.md` 现状快照的计数（含 `_data/` 顶层文件与分片目录） |
+| 14 | `_tools/build_api.py --write` | `dataset/data/*` + `_data/name_issues.json` → `api/v1/`（名称查找表、分类索引、3089 条物种记录） |
+| 15 | `_tools/stamp_assets.py` | `assets/*.css`、`assets/*.js` 内容哈希 → `_data/build.json` |
+| 16 | `_tools/check_lang_pages.py --ci` | 三语页面齐备 / 混语残留 / 站内链语言前缀 |
+| 17 | `_tools/build_ai_index.py --write` | 刷新 `SITE-INDEX.md` 现状快照的计数（含 `_data/` 顶层文件与分片目录） |
 
 ## 2. 不在 regen 链里的手动脚本
 
@@ -57,6 +58,7 @@ bash _tools/regen_all.sh
 | `python _tools/check_publish_surface.py --tracked` | 不该发布的文件（pdf / docx / 日志 / `未发布内容/`）有没有被跟踪 |
 | `python _tools/translations_merge.py --all --check-only` | 译文覆盖率与数字对账 |
 | `python .github/workflows/build_dataset.py --check` | 归档数据集是否与源一致（逐成员比对） |
+| `python _tools/build_api.py --check` | `api/v1/` 是否与当前数据一致（缺文件 / 多文件 / 字节过期） |
 | `python _tools/build_ai_index.py --check` | 索引计数是否最新、新增文件是否登记（`SITE-INDEX.md` + `_meta/*.md` 一起算） |
 
 ## 4. 本地构建

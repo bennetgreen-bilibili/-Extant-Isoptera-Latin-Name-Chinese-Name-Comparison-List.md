@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/leucopitermes-leucops.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "leucopitermes",
+   "latin": "Leucopitermes",
+   "zh": "白脸白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Indonesia, Malaysia",
+  "zh": "印度尼西亚、马来西亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Leucopitermes leucops",
+ "pageUrl": "https://termite-extant-isoptera.org/species/leucopitermes-leucops/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Subulitermes javanellus Kemner, 1934: 120-122",
+   "authorship": "Kemner, 1934",
+   "localityAlignment": "matched",
+   "name": "Subulitermes javanellus",
+   "note": "",
+   "reference": "120-122",
+   "typeLocality": "Indonesia: Java: Bogor"
+  }
+ ],
+ "typeLocality": "Indonesia: Sumatra: Tandjong Slamat; Malaysia: Selangor: Gap; Taiping: Maxwell’s Hill",
+ "version": "2026.11.21",
+ "zh": "白脸白脸白蚁"
+}

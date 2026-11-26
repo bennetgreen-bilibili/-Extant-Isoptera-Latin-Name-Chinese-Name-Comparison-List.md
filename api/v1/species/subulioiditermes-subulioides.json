@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/subulioiditermes-subulioides.json",
+ "apiVersion": "1",
+ "authorship": "Ahmad, 1968",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "subulioiditermes",
+   "latin": "Subulioiditermes",
+   "zh": "似锥白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Indonesia, Malaysia",
+  "zh": "印度尼西亚、马来西亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Subulioiditermes subulioides",
+ "pageUrl": "https://termite-extant-isoptera.org/species/subulioiditermes-subulioides/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Subulioiditermes major Thapa, 1982: 367-368",
+   "authorship": "Thapa, 1982",
+   "localityAlignment": "matched",
+   "name": "Subulioiditermes major",
+   "note": "",
+   "reference": "367-368",
+   "typeLocality": "Malaysia: Sabah: Beaufort District: Beaufort"
+  }
+ ],
+ "typeLocality": "Malaysia: Pahang: Fraser’s Hill",
+ "version": "2026.11.21",
+ "zh": "似锥似锥白蚁"
+}

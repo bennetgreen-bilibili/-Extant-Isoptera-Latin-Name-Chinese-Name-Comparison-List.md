@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/synacanthotermes-trilobatus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1926",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "synacanthotermes",
+   "latin": "Synacanthotermes",
+   "zh": "聚刺白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Angola, Democratic Republic of the Congo, Malawi, Zambia",
+  "zh": "安哥拉、刚果民主共和国、马拉维、赞比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Synacanthotermes trilobatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/synacanthotermes-trilobatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Synacanthotermes angolensis Weidner, 1956: 68-72",
+   "authorship": "Weidner, 1956",
+   "localityAlignment": "matched",
+   "name": "Synacanthotermes angolensis",
+   "note": "",
+   "reference": "68-72",
+   "typeLocality": "Angola: Dundo"
+  }
+ ],
+ "typeLocality": "Democratic Republic of the Congo: Kananga",
+ "version": "2026.11.21",
+ "zh": "三裂聚刺白蚁"
+}

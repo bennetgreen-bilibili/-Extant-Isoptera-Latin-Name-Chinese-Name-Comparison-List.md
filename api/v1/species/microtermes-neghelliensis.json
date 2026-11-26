@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microtermes-neghelliensis.json",
+ "apiVersion": "1",
+ "authorship": "Ghidini, 1937",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microtermes",
+   "latin": "Microtermes",
+   "zh": "小白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Ethiopia",
+  "zh": "埃塞俄比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microtermes neghelliensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microtermes-neghelliensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Ethiopia: Galla-Borana: Mega",
+ "version": "2026.11.21",
+ "zh": "内格豪尔小白蚁"
+}

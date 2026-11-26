@@ -1,0 +1,77 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/anoplotermes-parvus.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1923",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "anoplotermes",
+   "latin": "Anoplotermes",
+   "zh": "解甲白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Guiana Shield, Amazon region, Central America and Caribbean",
+  "zh": "巴西、圭亚那地盾、亚马孙地区、中美洲及加勒比"
+ },
+ "isTypeSpecies": false,
+ "latin": "Anoplotermes parvus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/anoplotermes-parvus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Anoplotermes ( Anoplotermes ) brevipilus Emerson, 1925: 424-425",
+   "authorship": "Emerson, 1925",
+   "localityAlignment": "matched",
+   "name": "Anoplotermes (Anoplotermes) brevipilus",
+   "note": "",
+   "reference": "424-425",
+   "typeLocality": "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]"
+  },
+  {
+   "asPublished": "Anoplotermes ( Anoplotermes ) proximus Snyder, 1926: 54-55",
+   "authorship": "Snyder, 1926",
+   "localityAlignment": "matched",
+   "name": "Anoplotermes (Anoplotermes) proximus",
+   "note": "",
+   "reference": "54-55",
+   "typeLocality": "Bolivia: La Paz: Tumupasa [ 14.15S 67.9167W ]"
+  },
+  {
+   "asPublished": "Anoplotermes ( Anoplotermes ) distinctus Snyder, 1926: 49-50",
+   "authorship": "Snyder, 1926",
+   "localityAlignment": "matched",
+   "name": "Anoplotermes (Anoplotermes) distinctus",
+   "note": "",
+   "reference": "49-50",
+   "typeLocality": "Bolivia: El Beni: Rurrenabaque [ 14.44S 67.525W ]"
+  },
+  {
+   "asPublished": "Anoplotermes ( Anoplotermes ) clypeatus Snyder, 1926: 47-48",
+   "authorship": "Snyder, 1926",
+   "localityAlignment": "matched",
+   "name": "Anoplotermes (Anoplotermes) clypeatus",
+   "note": "",
+   "reference": "47-48",
+   "typeLocality": "Bolivia: El Beni: San Gregorio [ 15.5S 64.666W ]"
+  }
+ ],
+ "typeLocality": "Panama: Frijoles",
+ "version": "2026.11.21",
+ "zh": "小解甲白蚁"
+}

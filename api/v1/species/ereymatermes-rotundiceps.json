@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ereymatermes-rotundiceps.json",
+ "apiVersion": "1",
+ "authorship": "Constantino, 1991",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ereymatermes",
+   "latin": "Ereymatermes",
+   "zh": "无名白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South America, Brazil, Colombia, Ecuador",
+  "zh": "南美洲、巴西、哥伦比亚、厄瓜多尔"
+ },
+ "isTypeSpecies": true,
+ "latin": "Ereymatermes rotundiceps",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ereymatermes-rotundiceps/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Amazonas: Maraã, Ilha Jaraqui, varzea forest [1.854S 65.528W]",
+ "version": "2026.11.21",
+ "zh": "圆头无名白蚁"
+}

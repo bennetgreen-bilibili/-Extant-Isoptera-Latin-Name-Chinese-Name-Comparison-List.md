@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/pseudacanthotermes-piceus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "pseudacanthotermes",
+   "latin": "Pseudacanthotermes",
+   "zh": "伪刺白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Uganda, Zimbabwe",
+  "zh": "乌干达、津巴布韦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Pseudacanthotermes piceus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/pseudacanthotermes-piceus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Zimbabwe: Harare (Salisbury)",
+ "version": "2026.11.21",
+ "zh": "柏油伪刺白蚁"
+}

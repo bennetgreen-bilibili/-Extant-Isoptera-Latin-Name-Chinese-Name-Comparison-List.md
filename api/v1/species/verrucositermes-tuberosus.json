@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/verrucositermes-tuberosus.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1960",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "verrucositermes",
+   "latin": "Verrucositermes",
+   "zh": "疣白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Cameroon, Congo (Kinshasa), Democratic Republic of the Congo, Gabon",
+  "zh": "喀麦隆、刚果（金）、刚果民主共和国、加蓬"
+ },
+ "isTypeSpecies": true,
+ "latin": "Verrucositermes tuberosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/verrucositermes-tuberosus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Kalina Point at the Congo River, Kinshasa",
+ "version": "2026.11.21",
+ "zh": "多疣疣白蚁"
+}

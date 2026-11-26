@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/syntermes-peruanus.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "syntermes",
+   "latin": "Syntermes",
+   "zh": "聚白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Bolivia, Peru",
+  "zh": "巴西、玻利维亚、秘鲁"
+ },
+ "isTypeSpecies": false,
+ "latin": "Syntermes peruanus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/syntermes-peruanus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Bolivia: La Paz: Mojos [14.5667S 68.8833W]",
+ "version": "2026.11.21",
+ "zh": "秘鲁聚白蚁"
+}

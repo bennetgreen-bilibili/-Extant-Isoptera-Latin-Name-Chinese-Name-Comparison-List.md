@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/baucaliotermes-hainesi.json",
+ "apiVersion": "1",
+ "authorship": "Fuller, 1922",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "baucaliotermes",
+   "latin": "Baucaliotermes",
+   "zh": "细颈白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Africa, Namibia",
+  "zh": "南非、纳米比亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Baucaliotermes hainesi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/baucaliotermes-hainesi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "South Africa: Cape Province: Wolftoon, Namaqualand",
+ "version": "2026.11.21",
+ "zh": "海恩斯细颈白蚁"
+}

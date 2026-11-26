@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/hirsutitermes-kanzakii.json",
+ "apiVersion": "1",
+ "authorship": "Scheffrahn, Carrijo & Castro, 2023",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "hirsutitermes",
+   "latin": "Hirsutitermes",
+   "zh": "毛糙白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Colombia, French Guiana, Bolivia, Brazil, Ecuador, Peru, Trinidad and Tobago, Venezuela",
+  "zh": "哥伦比亚、法属圭亚那、玻利维亚、巴西、厄瓜多尔、秘鲁、特立尼达和多巴哥、委内瑞拉"
+ },
+ "isTypeSpecies": true,
+ "latin": "Hirsutitermes kanzakii",
+ "pageUrl": "https://termite-extant-isoptera.org/species/hirsutitermes-kanzakii/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Rondonia: Porto Velho, Mutum-Paraná [ 9.4513S 64.8439W ]",
+ "version": "2026.11.21",
+ "zh": "神崎毛糙白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/sabahitermes-leuserensis.json",
+ "apiVersion": "1",
+ "authorship": "Gathorne-Hardy, 2001",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "sabahitermes",
+   "latin": "Sabahitermes",
+   "zh": "沙巴白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Indonesia, Malaysia",
+  "zh": "印度尼西亚、马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Sabahitermes leuserensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/sabahitermes-leuserensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Indonesia: Sumatra: Aceh Tenggara: Ketambe field station",
+ "version": "2026.11.21",
+ "zh": "勒塞尔沙巴白蚁"
+}

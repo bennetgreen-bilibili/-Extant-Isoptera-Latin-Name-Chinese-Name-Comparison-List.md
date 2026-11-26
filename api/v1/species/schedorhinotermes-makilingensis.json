@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/schedorhinotermes-makilingensis.json",
+ "apiVersion": "1",
+ "authorship": "Acda, 2007",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "schedorhinotermes",
+   "latin": "Schedorhinotermes",
+   "zh": "长鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Philippines",
+  "zh": "菲律宾"
+ },
+ "isTypeSpecies": false,
+ "latin": "Schedorhinotermes makilingensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/schedorhinotermes-makilingensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Philippines: Luzon: Laguna: Los Baños; Mt. Makiling",
+ "version": "2026.11.21",
+ "zh": "马吉岭长鼻白蚁"
+}

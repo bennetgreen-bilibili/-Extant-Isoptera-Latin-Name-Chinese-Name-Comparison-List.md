@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/compositermes-bani.json",
+ "apiVersion": "1",
+ "authorship": "Carrijo, Scheffrahn & Křeček, 2016",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "compositermes",
+   "latin": "Compositermes",
+   "zh": "肠刺白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Bolivia, Brazil",
+  "zh": "玻利维亚、巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Compositermes bani",
+ "pageUrl": "https://termite-extant-isoptera.org/species/compositermes-bani/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Bolivia: Santa Cruz: Chochis [ 18.107S 60.086W ]",
+ "version": "2026.11.21",
+ "zh": "班恩肠刺白蚁"
+}

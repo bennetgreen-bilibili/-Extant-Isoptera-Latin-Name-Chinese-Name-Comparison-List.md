@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ekueitermes-alerosinus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 99,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Ekueitermes alerosinus",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "ekueitermes-alerosinus",
+   "source": "gbif",
+   "theirs": "Animalia",
+   "url": null,
+   "verified": false,
+   "zh": "阿莱罗辛肠棘白蚁"
+  }
+ ],
+ "authorship": "Duran-Bautista & Celis-Daza, 2026",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ekueitermes",
+   "latin": "Ekueitermes",
+   "zh": "肠棘白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Colombia",
+  "zh": "哥伦比亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Ekueitermes alerosinus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ekueitermes-alerosinus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Colombia: Caquetá: Florencia: La Viciosa, Centro de Investigaciones Amazónicas CIMAZ, Macagual [ 1.4969N 75.6661W ]",
+ "version": "2026.11.21",
+ "zh": "阿莱罗辛肠棘白蚁"
+}

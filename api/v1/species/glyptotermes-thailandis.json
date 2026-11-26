@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-thailandis.json",
+ "apiVersion": "1",
+ "authorship": "Morimoto, 1973",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Thailand",
+  "zh": "泰国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glyptotermes thailandis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-thailandis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Thailand: Khao Yai",
+ "version": "2026.11.21",
+ "zh": "泰国树白蚁"
+}

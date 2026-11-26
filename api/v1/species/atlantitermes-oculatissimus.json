@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/atlantitermes-oculatissimus.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1925",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "atlantitermes",
+   "latin": "Atlantitermes",
+   "zh": "阿特拉斯白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Colombia, French Guiana, Peru, Ecuador, Guyana",
+  "zh": "巴西、哥伦比亚、法属圭亚那、秘鲁、厄瓜多尔、圭亚那"
+ },
+ "isTypeSpecies": false,
+ "latin": "Atlantitermes oculatissimus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/atlantitermes-oculatissimus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]",
+ "version": "2026.11.21",
+ "zh": "巨眼阿特拉斯白蚁"
+}

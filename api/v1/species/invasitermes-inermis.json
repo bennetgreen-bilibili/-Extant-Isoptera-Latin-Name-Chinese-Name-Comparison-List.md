@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/invasitermes-inermis.json",
+ "apiVersion": "1",
+ "authorship": "Miller, 1984",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "invasitermes",
+   "latin": "Invasitermes",
+   "zh": "闯白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Invasitermes inermis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/invasitermes-inermis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Australia: Northern Territory: Brocks Creek",
+ "version": "2026.11.21",
+ "zh": "非武闯白蚁"
+}

@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microtermes-redenianus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1904",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microtermes",
+   "latin": "Microtermes",
+   "zh": "小白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "East Africa, Tanzania, Chad, Democratic Republic of the Congo",
+  "zh": "东非、坦桑尼亚、乍得、刚果民主共和国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microtermes redenianus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microtermes-redenianus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Microtermes usambaricus Sjöstedt, 1926: 173",
+   "authorship": "Sjöstedt, 1926",
+   "localityAlignment": "matched",
+   "name": "Microtermes usambaricus",
+   "note": "",
+   "reference": "173",
+   "typeLocality": "Tanzania: Usambara: Mombo"
+  }
+ ],
+ "typeLocality": "Tanzania: Tanga",
+ "version": "2026.11.21",
+ "zh": "雷登小白蚁"
+}

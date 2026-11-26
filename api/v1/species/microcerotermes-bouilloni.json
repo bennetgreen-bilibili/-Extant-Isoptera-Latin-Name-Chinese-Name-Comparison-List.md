@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-bouilloni.json",
+ "apiVersion": "1",
+ "authorship": "Roisin & Pasteels, 2000",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia, Papua New Guinea",
+  "zh": "澳大利亚、巴布亚新几内亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes bouilloni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-bouilloni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Papua New Guinea: Port Moresby: savanna next to University of Papua New Guinea campus",
+ "version": "2026.11.21",
+ "zh": "布永锯白蚁"
+}

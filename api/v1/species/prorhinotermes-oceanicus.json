@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/prorhinotermes-oceanicus.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1902",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "psammotermitidae",
+   "latin": "Psammotermitidae",
+   "zh": "沙白蚁科"
+  },
+  "genus": {
+   "id": "prorhinotermes",
+   "latin": "Prorhinotermes",
+   "zh": "原鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Costa Rica, Cocos Island, Costa Rica",
+  "zh": "哥斯达黎加、哥斯达黎加可可斯岛"
+ },
+ "isTypeSpecies": false,
+ "latin": "Prorhinotermes oceanicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/prorhinotermes-oceanicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Leucotermes insularis Wasmann, 1902: 140, 160",
+   "authorship": "Wasmann, 1902",
+   "localityAlignment": "matched",
+   "name": "Leucotermes insularis",
+   "note": "",
+   "reference": "140, 160",
+   "typeLocality": "Costa Rica: Cocos Island"
+  }
+ ],
+ "typeLocality": "Costa Rica: Cocos Island",
+ "version": "2026.11.21",
+ "zh": "海洋原鼻白蚁"
+}

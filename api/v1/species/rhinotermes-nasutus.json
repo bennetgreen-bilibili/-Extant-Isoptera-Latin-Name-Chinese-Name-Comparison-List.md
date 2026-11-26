@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/rhinotermes-nasutus.json",
+ "apiVersion": "1",
+ "authorship": "Perty, 1833",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "rhinotermes",
+   "latin": "Rhinotermes",
+   "zh": "鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "French Guiana, Brazil, Guyana, Barbados, Bolivia, Dominican Republic, Haiti, Martinique, Peru, Suriname",
+  "zh": "法属圭亚那、巴西、圭亚那、巴巴多斯、玻利维亚、多米尼加、海地、马提尼克、秘鲁、苏里南"
+ },
+ "isTypeSpecies": true,
+ "latin": "Rhinotermes nasutus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/rhinotermes-nasutus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Rhinotermes taurus Desneux, 1904: 146-147",
+   "authorship": "Desneux, 1904",
+   "localityAlignment": "matched",
+   "name": "Rhinotermes taurus",
+   "note": "",
+   "reference": "146-147",
+   "typeLocality": "Suriname: ?"
+  }
+ ],
+ "typeLocality": "Brasil: ?",
+ "version": "2026.11.21",
+ "zh": "大鼻鼻白蚁"
+}

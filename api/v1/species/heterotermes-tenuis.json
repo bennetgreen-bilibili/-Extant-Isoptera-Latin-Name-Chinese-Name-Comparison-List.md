@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/heterotermes-tenuis.json",
+ "apiVersion": "1",
+ "authorship": "Hagen, 1858",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "heterotermes",
+   "latin": "Heterotermes",
+   "zh": "异白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Neotropics, South America to Central America, Mexico, Montserrat, United States, Bahamas, Barbados, Cuba, Dominica, Dominican Republic, Grenada, French Guadeloupe, Haiti, Jamaica, French Martinique, Puerto Rico, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, U.S. Virgin Islands",
+  "zh": "新热带界、南美至中美洲、墨西哥、蒙特塞拉特、美国、巴哈马、巴巴多斯、古巴、多米尼克、多米尼加共和国、格林纳达、法属瓜德罗普、海地、牙买加、法属马提尼克、波多黎各、圣卢西亚、圣文森特和格林纳丁斯、特立尼达和多巴哥、特克斯和凯科斯群岛、美属维尔京群岛"
+ },
+ "isTypeSpecies": false,
+ "latin": "Heterotermes tenuis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/heterotermes-tenuis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Leucotermes flavipes paraensis Wasmann, 1902: 119",
+   "authorship": "Wasmann, 1902",
+   "localityAlignment": "matched",
+   "name": "Leucotermes flavipes paraensis",
+   "note": "",
+   "reference": "119",
+   "typeLocality": "Brasil: Pará"
+  },
+  {
+   "asPublished": "Termes corticola Snyder, 1924: 14",
+   "authorship": "Snyder, 1924",
+   "localityAlignment": "matched",
+   "name": "Termes corticola",
+   "note": "",
+   "reference": "14",
+   "typeLocality": "Panama: Obispo"
+  }
+ ],
+ "typeLocality": "Brasil: ?; Colombia: ?; Dominican Republic: Santo Domingo; Haiti: ?",
+ "version": "2026.11.21",
+ "zh": "细瘦异白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/calcaritermes-brevicollis.json",
+ "apiVersion": "1",
+ "authorship": "Banks, 1918",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "calcaritermes",
+   "latin": "Calcaritermes",
+   "zh": "距白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Panama, Belize, Colombia, Costa Rica, Nicaragua",
+  "zh": "巴拿马、伯利兹、哥伦比亚、哥斯达黎加、尼加拉瓜"
+ },
+ "isTypeSpecies": false,
+ "latin": "Calcaritermes brevicollis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/calcaritermes-brevicollis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Panama: ?",
+ "version": "2026.11.21",
+ "zh": "短颈距白蚁"
+}

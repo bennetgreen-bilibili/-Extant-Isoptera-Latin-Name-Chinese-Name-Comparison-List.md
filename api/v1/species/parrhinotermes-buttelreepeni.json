@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/parrhinotermes-buttelreepeni.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1913",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "parrhinotermes",
+   "latin": "Parrhinotermes",
+   "zh": "棒鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Southeast Asia, Sumatra, Indonesia, Malaysia",
+  "zh": "东南亚、印尼苏门答腊、马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Parrhinotermes buttelreepeni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/parrhinotermes-buttelreepeni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Indonesia: Sumatra: Bandar Baroe; Malaysia: Taiping: Maxwell’s Hill",
+ "version": "2026.11.21",
+ "zh": "巴特里彭棒鼻白蚁"
+}

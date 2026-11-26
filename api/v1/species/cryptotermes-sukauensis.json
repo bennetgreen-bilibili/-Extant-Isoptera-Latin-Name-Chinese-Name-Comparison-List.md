@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-sukauensis.json",
+ "apiVersion": "1",
+ "authorship": "Thapa, 1982",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Malaysia (Sabah)",
+  "zh": "马来西亚沙巴"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes sukauensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-sukauensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malaysia: Sabah: Lamag District: Sukau",
+ "version": "2026.11.21",
+ "zh": "苏高堆砂白蚁"
+}

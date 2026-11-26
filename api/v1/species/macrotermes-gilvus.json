@@ -1,0 +1,149 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-gilvus.json",
+ "apiVersion": "1",
+ "authorship": "Hagen, 1858",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, Indonesia, Malaysia, Philippines, Singapore, Thailand, Cambodia, Timor-Leste, Myanmar, Vietnam",
+  "zh": "旧热带界、印度尼西亚、马来西亚、菲律宾、新加坡、泰国、柬埔寨、东帝汶、缅甸、越南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes gilvus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-gilvus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes azarelii Wasmann, 1896: 626-628, 629",
+   "authorship": "Wasmann, 1896",
+   "localityAlignment": "unmatched",
+   "name": "Termes azarelii",
+   "note": "",
+   "reference": "626-628, 629",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Termes malayanus Haviland, 1898: 381-383",
+   "authorship": "Haviland, 1898",
+   "localityAlignment": "unmatched",
+   "name": "Termes malayanus",
+   "note": "",
+   "reference": "381-383",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Termes ( Macrotermes ) manilanus Oshima, 1914: 30-31",
+   "authorship": "Oshima, 1914",
+   "localityAlignment": "unmatched",
+   "name": "Termes (Macrotermes) manilanus",
+   "note": "",
+   "reference": "30-31",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Termes ( Macrotermes ) philippinae Oshima, 1914: 31-33",
+   "authorship": "Oshima, 1914",
+   "localityAlignment": "unmatched",
+   "name": "Termes (Macrotermes) philippinae",
+   "note": "",
+   "reference": "31-33",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Termes ( Macrotermes ) luzonensis Oshima, 1914: 569-570",
+   "authorship": "Oshima, 1914",
+   "localityAlignment": "unmatched",
+   "name": "Termes (Macrotermes) luzonensis",
+   "note": "",
+   "reference": "569-570",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Termes ( Termes ) copelandi Oshima, 1914: 570-572",
+   "authorship": "Oshima, 1914",
+   "localityAlignment": "unmatched",
+   "name": "Termes (Termes) copelandi",
+   "note": "",
+   "reference": "570-572",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Macrotermes gilvus padangensis Kemner, 1930: 306-307",
+   "authorship": "Kemner, 1930",
+   "localityAlignment": "unmatched",
+   "name": "Macrotermes gilvus padangensis",
+   "note": "",
+   "reference": "306-307",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Macrotermes gilvus borneensis Kemner, 1933: 27",
+   "authorship": "Kemner, 1933",
+   "localityAlignment": "unmatched",
+   "name": "Macrotermes gilvus borneensis",
+   "note": "",
+   "reference": "27",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Macrotermes gilvus latinotum Kemner, 1934: 79-80",
+   "authorship": "Kemner, 1934",
+   "localityAlignment": "unmatched",
+   "name": "Macrotermes gilvus latinotum",
+   "note": "",
+   "reference": "79-80",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Macrotermes gilvus angusticeps Kemner, 1934: 77-79",
+   "authorship": "Kemner, 1934",
+   "localityAlignment": "unmatched",
+   "name": "Macrotermes gilvus angusticeps",
+   "note": "",
+   "reference": "77-79",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Macrotermes gilvus madurensis Kemner, 1934: 82-83",
+   "authorship": "Kemner, 1934",
+   "localityAlignment": "unmatched",
+   "name": "Macrotermes gilvus madurensis",
+   "note": "",
+   "reference": "82-83",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Macrotermes gilvus kalshoveni Kemner, 1934: 80-82",
+   "authorship": "Kemner, 1934",
+   "localityAlignment": "unmatched",
+   "name": "Macrotermes gilvus kalshoveni",
+   "note": "",
+   "reference": "80-82",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Indonesia: Java: Bogor",
+ "version": "2026.11.21",
+ "zh": "暗黄大白蚁"
+}

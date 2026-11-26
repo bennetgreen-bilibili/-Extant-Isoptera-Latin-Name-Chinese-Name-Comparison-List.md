@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/capritermes-capricornis.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1893",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "capritermes",
+   "latin": "Capritermes",
+   "zh": "扭白蚁属"
+  },
+  "subfamily": {
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Côte d'Ivoire, Madagascar",
+  "zh": "科特迪瓦、马达加斯加"
+ },
+ "isTypeSpecies": true,
+ "latin": "Capritermes capricornis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/capritermes-capricornis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Madagascar: Andrangoloaka",
+ "version": "2026.11.21",
+ "zh": "山羊角扭白蚁"
+}

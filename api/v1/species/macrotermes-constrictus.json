@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-constrictus.json",
+ "apiVersion": "1",
+ "authorship": "Ping & Li, 1985",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Sichuan, China, Dechang",
+  "zh": "中国四川、德昌"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes constrictus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-constrictus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Sichuan Province: Dechang",
+ "version": "2026.11.21",
+ "zh": "缢颏大白蚁"
+}

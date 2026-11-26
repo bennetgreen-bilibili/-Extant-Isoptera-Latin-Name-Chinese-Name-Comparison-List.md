@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/procapritermes-huananensis.json",
+ "apiVersion": "1",
+ "authorship": "Yu & Ping, 1966",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "procapritermes",
+   "latin": "Procapritermes",
+   "zh": "前扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Guangxi, Yunnan (Yingjiang 870 m), Hainan (Qiongzhong Limuling 350 m, Wuzhi Mountain 700 m), China",
+  "zh": "广西、云南（盈江870 m）、海南（琼中黎母岭350 m、五指山700 m）、中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Procapritermes huananensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/procapritermes-huananensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Hainan Island: Tan-hsien",
+ "version": "2026.11.21",
+ "zh": "华南前扭白蚁"
+}

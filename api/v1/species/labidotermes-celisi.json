@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/labidotermes-celisi.json",
+ "apiVersion": "1",
+ "authorship": "Deligne & Pasteels, 1969",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "labidotermes",
+   "latin": "Labidotermes",
+   "zh": "钳白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central African Republic, Cameroon",
+  "zh": "中非、喀麦隆"
+ },
+ "isTypeSpecies": true,
+ "latin": "Labidotermes celisi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/labidotermes-celisi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Butembo",
+ "version": "2026.11.21",
+ "zh": "塞利斯钳白蚁"
+}

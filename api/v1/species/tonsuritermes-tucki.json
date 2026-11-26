@@ -1,0 +1,80 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/tonsuritermes-tucki.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "missing",
+   "latin": "Tonsuritermes tucki",
+   "match": null,
+   "note": "",
+   "rank": "种",
+   "slug": "tonsuritermes-tucki",
+   "source": "col",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "塔克奇囟白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "missing",
+   "latin": "Tonsuritermes tucki",
+   "match": null,
+   "note": "",
+   "rank": "种",
+   "slug": "tonsuritermes-tucki",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "塔克奇囟白蚁"
+  }
+ ],
+ "authorship": "Constantini & Cancello, 2018",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "tonsuritermes",
+   "latin": "Tonsuritermes",
+   "zh": "奇囟白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South America, Brazil, Colombia, French Guiana, Paraguay, Peru",
+  "zh": "南美洲、巴西、哥伦比亚、法属圭亚那、巴拉圭、秘鲁"
+ },
+ "isTypeSpecies": true,
+ "latin": "Tonsuritermes tucki",
+ "pageUrl": "https://termite-extant-isoptera.org/species/tonsuritermes-tucki/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Santa Catarina: Campos Novos [ 27.4S 51.22W ]",
+ "version": "2026.11.21",
+ "zh": "塔克奇囟白蚁"
+}

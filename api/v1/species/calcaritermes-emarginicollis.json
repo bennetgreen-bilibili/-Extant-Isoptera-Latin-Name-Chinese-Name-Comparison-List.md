@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/calcaritermes-emarginicollis.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1925",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "calcaritermes",
+   "latin": "Calcaritermes",
+   "zh": "距白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Central America, Costa Rica, Panama, Honduras, Belize",
+  "zh": "中美洲、哥斯达黎加、巴拿马、洪都拉斯、伯利兹"
+ },
+ "isTypeSpecies": false,
+ "latin": "Calcaritermes emarginicollis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/calcaritermes-emarginicollis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Panama: Rio Chinilla",
+ "version": "2026.11.21",
+ "zh": "刻颈距白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ibitermes-inflatus.json",
+ "apiVersion": "1",
+ "authorship": "Vasconcellos, 2002",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ibitermes",
+   "latin": "Ibitermes",
+   "zh": "地球白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": true,
+ "latin": "Ibitermes inflatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ibitermes-inflatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Paraíba: Reserva Biológica Guaribas [6.8S 35.095W]",
+ "version": "2026.11.21",
+ "zh": "高唇基地球白蚁"
+}

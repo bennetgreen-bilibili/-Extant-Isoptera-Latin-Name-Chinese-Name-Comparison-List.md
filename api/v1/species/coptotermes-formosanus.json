@@ -1,0 +1,190 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-formosanus.json",
+ "apiVersion": "1",
+ "authorship": "Shiraki, 1909",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "southern China and Taiwan, native, widely distributed in the tropics and subtropics through the timber trade",
+  "zh": "中国南部及台湾、原产、随木材广布热带亚热带"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes formosanus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-formosanus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Coptotermes formosae Holmgren, 1911: 192",
+   "authorship": "Holmgren, 1911",
+   "localityAlignment": "matched",
+   "name": "Coptotermes formosae",
+   "note": "",
+   "reference": "192",
+   "typeLocality": "Taiwan: ?"
+  },
+  {
+   "asPublished": "Coptotermes hongkonensis Oshima, 1914: 7-10",
+   "authorship": "Oshima, 1914",
+   "localityAlignment": "matched",
+   "name": "Coptotermes hongkonensis",
+   "note": "",
+   "reference": "7-10",
+   "typeLocality": "China: Hong Kong"
+  },
+  {
+   "asPublished": "Coptotermes intrudens Oshima, 1920: 262-264",
+   "authorship": "Oshima, 1920",
+   "localityAlignment": "matched",
+   "name": "Coptotermes intrudens",
+   "note": "",
+   "reference": "262-264",
+   "typeLocality": "United States: Hawaii: Honolulu, Oahu"
+  },
+  {
+   "asPublished": "Coptotermes remotus Silvestri, 1927: 93-95",
+   "authorship": "Silvestri, 1927",
+   "localityAlignment": "matched",
+   "name": "Coptotermes remotus",
+   "note": "",
+   "reference": "93-95",
+   "typeLocality": "South Africa: Cape Province: Simonstown"
+  },
+  {
+   "asPublished": "Coptotermes eucalyptus Ping, 1984: 186-187, 189",
+   "authorship": "Ping, 1984",
+   "localityAlignment": "matched",
+   "name": "Coptotermes eucalyptus",
+   "note": "",
+   "reference": "186-187, 189",
+   "typeLocality": "China: Guangdong Province: Xiaoliang of Dianbai County"
+  },
+  {
+   "asPublished": "Coptotermes xiaoliangensis Ping, 1984: 184-185, 188",
+   "authorship": "Ping, 1984",
+   "localityAlignment": "matched",
+   "name": "Coptotermes xiaoliangensis",
+   "note": "",
+   "reference": "184-185, 188",
+   "typeLocality": "China: Guangdong Province: Xiaoliang of Dianbai County"
+  },
+  {
+   "asPublished": "Coptotermes guangzhouensis Ping, 1985: 317-318, 326-327",
+   "authorship": "Ping, 1985",
+   "localityAlignment": "matched",
+   "name": "Coptotermes guangzhouensis",
+   "note": "",
+   "reference": "317-318, 326-327",
+   "typeLocality": "China: Guangdong Province: Guangzhou"
+  },
+  {
+   "asPublished": "Coptotermes heteromorphus Ping, 1985: 320-321, 327",
+   "authorship": "Ping, 1985",
+   "localityAlignment": "matched",
+   "name": "Coptotermes heteromorphus",
+   "note": "",
+   "reference": "320-321, 327",
+   "typeLocality": "China: Guangdong Province: Guangzhou"
+  },
+  {
+   "asPublished": "Coptotermes ( Polycrinitermes ) changtaiensis Xia & He, 1986: 164-165, 178",
+   "authorship": "Xia & He, 1986",
+   "localityAlignment": "matched",
+   "name": "Coptotermes (Polycrinitermes) changtaiensis",
+   "note": "",
+   "reference": "164-165, 178",
+   "typeLocality": "China: Fujian Province: Changtai County"
+  },
+  {
+   "asPublished": "Coptotermes ( Polycrinitermes ) hekouensis Xia & He, 1986: 162-164, 178",
+   "authorship": "Xia & He, 1986",
+   "localityAlignment": "matched",
+   "name": "Coptotermes (Polycrinitermes) hekouensis",
+   "note": "",
+   "reference": "162-164, 178",
+   "typeLocality": "China: Yunnan Province: Hekou County"
+  },
+  {
+   "asPublished": "Coptotermes ( Polycrinitermes ) suzhouensis Xia & He, 1986: 167-169, 180",
+   "authorship": "Xia & He, 1986",
+   "localityAlignment": "matched",
+   "name": "Coptotermes (Polycrinitermes) suzhouensis",
+   "note": "",
+   "reference": "167-169, 180",
+   "typeLocality": "China: Jiangsu Province: Suzhou County"
+  },
+  {
+   "asPublished": "Coptotermes ( Polycrinitermes ) communis Xia & He, 1986: 166-167, 179",
+   "authorship": "Xia & He, 1986",
+   "localityAlignment": "matched",
+   "name": "Coptotermes (Polycrinitermes) communis",
+   "note": "",
+   "reference": "166-167, 179",
+   "typeLocality": "China: Zhejiang Province: Jinhua County"
+  },
+  {
+   "asPublished": "Coptotermes rectangularis Ping & Zhu in Ping et al., 1986: 157-158, 160",
+   "authorship": "Ping & Zhu in Ping et al., 1986",
+   "localityAlignment": "matched",
+   "name": "Coptotermes rectangularis",
+   "note": "",
+   "reference": "157-158, 160",
+   "typeLocality": "China: Guizhou Province: Conjiang County"
+  },
+  {
+   "asPublished": "Coptotermes setosus Li, 1986: 227-228, 229",
+   "authorship": "Li, 1986",
+   "localityAlignment": "matched",
+   "name": "Coptotermes setosus",
+   "note": "",
+   "reference": "227-228, 229",
+   "typeLocality": "China: Guangdong Province: Xuwen"
+  },
+  {
+   "asPublished": "Coptotermes xianrendongensis Ping & Xu, 1993: 432-433, 442",
+   "authorship": "Ping & Xu, 1993",
+   "localityAlignment": "matched",
+   "name": "Coptotermes xianrendongensis",
+   "note": "",
+   "reference": "432-433, 442",
+   "typeLocality": "China: Guangdong Province: Shixing County: Xianrendong of Chebaling"
+  },
+  {
+   "asPublished": "Coptotermes ( Polycrinitermes ) anglefontanalis Gao, Lau & He, 1995: 1-5",
+   "authorship": "Gao, Lau & He, 1995",
+   "localityAlignment": "matched",
+   "name": "Coptotermes (Polycrinitermes) anglefontanalis",
+   "note": "",
+   "reference": "1-5",
+   "typeLocality": "China: Hong Kong: New Territories: Lui Kung Tin"
+  },
+  {
+   "asPublished": "Coptotermes guizhouensis He & Qui, 1992",
+   "authorship": "He & Qui, 1992",
+   "localityAlignment": "matched",
+   "name": "Coptotermes guizhouensis",
+   "note": "",
+   "reference": "",
+   "typeLocality": "China: Guizhou Province: Conjiang County"
+  }
+ ],
+ "typeLocality": "Taiwan: Taipei",
+ "version": "2026.11.21",
+ "zh": "台湾乳白蚁"
+}

@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/astalotermes-brevior.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1913",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "astalotermes",
+   "latin": "Astalotermes",
+   "zh": "无利器白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central African Congo Basin, southern Africa, Angola, Cameroon, Namibia, South Africa, Eswatini, Zambia, Zimbabwe",
+  "zh": "中非刚果盆地、南部非洲、安哥拉、喀麦隆、纳米比亚、南非、斯威士兰、赞比亚、津巴布韦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Astalotermes brevior",
+ "pageUrl": "https://termite-extant-isoptera.org/species/astalotermes-brevior/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Anoplotermes sanctus Silvestri, 1914: 57-58",
+   "authorship": "Silvestri, 1914",
+   "localityAlignment": "matched",
+   "name": "Anoplotermes sanctus",
+   "note": "",
+   "reference": "57-58",
+   "typeLocality": "Angola: São Paulo de Loanda"
+  },
+  {
+   "asPublished": "Mirotermes ( Procubitermes ) mfolozii warreni Fuller, 1925: 191",
+   "authorship": "Fuller, 1925",
+   "localityAlignment": "matched",
+   "name": "Mirotermes (Procubitermes) mfolozii warreni",
+   "note": "",
+   "reference": "191",
+   "typeLocality": "South Africa: Natal: Mont aux Sources: Drakensberg"
+  },
+  {
+   "asPublished": "Mirotermes ( Procubitermes ) mbazwanicus Fuller, 1925: 189-190",
+   "authorship": "Fuller, 1925",
+   "localityAlignment": "matched",
+   "name": "Mirotermes (Procubitermes) mbazwanicus",
+   "note": "",
+   "reference": "189-190",
+   "typeLocality": "South Africa: Zululand: Mbazwane Swamp"
+  }
+ ],
+ "typeLocality": "South Africa: Zululand: Mkosi",
+ "version": "2026.11.21",
+ "zh": "短小无利器白蚁"
+}

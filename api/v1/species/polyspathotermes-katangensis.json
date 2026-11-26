@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/polyspathotermes-katangensis.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 94,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Polyspathotermes katangensis",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "polyspathotermes-katangensis",
+   "source": "gbif",
+   "theirs": "Polyspathotermes Josens & Deligne, 2021",
+   "url": null,
+   "verified": false,
+   "zh": "加丹加多铲白蚁"
+  }
+ ],
+ "authorship": "Sjöstedt, 1927",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "polyspathotermes",
+   "latin": "Polyspathotermes",
+   "zh": "多铲白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Africa, Katanga, Democratic Republic of the Congo, Zambia",
+  "zh": "非洲、刚果民主共和国加丹加、赞比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Polyspathotermes katangensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/polyspathotermes-katangensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Katanga: Lubumbashi",
+ "version": "2026.11.21",
+ "zh": "加丹加多铲白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/hypotermes-sumatrensis.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "hypotermes",
+   "latin": "Hypotermes",
+   "zh": "地白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Indonesia, China",
+  "zh": "印度尼西亚、中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Hypotermes sumatrensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/hypotermes-sumatrensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Indonesia: Sumatra: Lau Boentoe",
+ "version": "2026.11.21",
+ "zh": "暗齿地白蚁"
+}

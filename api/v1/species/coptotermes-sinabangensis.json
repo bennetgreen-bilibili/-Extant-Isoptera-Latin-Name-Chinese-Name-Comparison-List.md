@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-sinabangensis.json",
+ "apiVersion": "1",
+ "authorship": "Oshima, 1923",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Sumatra, Indonesia, Malaysia",
+  "zh": "印尼苏门答腊、马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes sinabangensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-sinabangensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Indonesia: Sumatra: Simeulue, Sinabang",
+ "version": "2026.11.21",
+ "zh": "锡纳邦乳白蚁"
+}

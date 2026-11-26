@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/duplidentitermes-jurioni.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1959",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "duplidentitermes",
+   "latin": "Duplidentitermes",
+   "zh": "双齿白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Angola, Democratic Republic of the Congo",
+  "zh": "安哥拉、刚果民主共和国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Duplidentitermes jurioni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/duplidentitermes-jurioni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Yangambi",
+ "version": "2026.11.21",
+ "zh": "朱里翁双齿白蚁"
+}

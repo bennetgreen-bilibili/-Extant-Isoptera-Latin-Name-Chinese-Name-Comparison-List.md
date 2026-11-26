@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/orthognathotermes-heberi.json",
+ "apiVersion": "1",
+ "authorship": "Raw & Egler, 1985",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "orthognathotermes",
+   "latin": "Orthognathotermes",
+   "zh": "直颚白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Orthognathotermes heberi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/orthognathotermes-heberi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Goiás: Parque Nacional das Emas [ 18.1S 52.91W ]",
+ "version": "2026.11.21",
+ "zh": "希伯直颚白蚁"
+}

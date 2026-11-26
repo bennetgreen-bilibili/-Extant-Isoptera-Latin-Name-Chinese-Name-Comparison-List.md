@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neocapritermes-talpa.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1906",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "neocapritermes",
+   "latin": "Neocapritermes",
+   "zh": "新扭白蚁属"
+  },
+  "subfamily": {
+   "id": "neocapritermitinae",
+   "latin": "Neocapritermitinae",
+   "zh": "新扭白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Bolivia, Colombia, French Guiana, Peru",
+  "zh": "巴西、玻利维亚、哥伦比亚、法属圭亚那、秘鲁"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neocapritermes talpa",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neocapritermes-talpa/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Neocapritermes hopkinsi Snyder, 1924: 14",
+   "authorship": "Snyder, 1924",
+   "localityAlignment": "matched",
+   "name": "Neocapritermes hopkinsi",
+   "note": "",
+   "reference": "14",
+   "typeLocality": "Bolivia: El Beni: Ivón [ 11.13S 66.13W ]"
+  }
+ ],
+ "typeLocality": "Peru: Puno: Chaquimayo [ 13.45S 70.4W ]",
+ "version": "2026.11.21",
+ "zh": "鼹鼠新扭白蚁"
+}

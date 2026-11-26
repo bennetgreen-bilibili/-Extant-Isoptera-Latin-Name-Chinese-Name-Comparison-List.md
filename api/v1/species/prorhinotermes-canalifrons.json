@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/prorhinotermes-canalifrons.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1904",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "psammotermitidae",
+   "latin": "Psammotermitidae",
+   "zh": "沙白蚁科"
+  },
+  "genus": {
+   "id": "prorhinotermes",
+   "latin": "Prorhinotermes",
+   "zh": "原鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Indian Ocean islands, Réunion, Madagascar, France, Cocos (Keeling) Islands, Comoros, Mauritius, Réunion (France), Seychelles",
+  "zh": "印度洋岛屿、留尼汪、马达加斯加、法国、可可斯（基林）群岛、科摩罗、毛里求斯、留尼汪（法）、塞舌尔"
+ },
+ "isTypeSpecies": false,
+ "latin": "Prorhinotermes canalifrons",
+ "pageUrl": "https://termite-extant-isoptera.org/species/prorhinotermes-canalifrons/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Madagascar: Toamasina (Tamatave)",
+ "version": "2026.11.21",
+ "zh": "沟额原鼻白蚁"
+}

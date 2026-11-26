@@ -1,0 +1,77 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/trinervitermes-occidentalis.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1904",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "trinervitermes",
+   "latin": "Trinervitermes",
+   "zh": "三脉白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Côte d'Ivoire, Senegal, Togo, Burkina Faso, Nigeria, Central Africa, Democratic Republic of the Congo, Ethiopia, Ghana, Guinea-Bissau, Sierra Leone, Uganda",
+  "zh": "科特迪瓦、塞内加尔、多哥、布基纳法索、尼日利亚、中非、刚果民主共和国、埃塞俄比亚、加纳、几内亚比绍、塞拉利昂、乌干达"
+ },
+ "isTypeSpecies": false,
+ "latin": "Trinervitermes occidentalis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/trinervitermes-occidentalis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Trinervitermes auriterrae Sjöstedt, 1926: 2-3",
+   "authorship": "Sjöstedt, 1926",
+   "localityAlignment": "matched",
+   "name": "Trinervitermes auriterrae",
+   "note": "",
+   "reference": "2-3",
+   "typeLocality": "Ghana: Keta"
+  },
+  {
+   "asPublished": "Trinervitermes maudanicus Sjöstedt, 1926: 156-158",
+   "authorship": "Sjöstedt, 1926",
+   "localityAlignment": "matched",
+   "name": "Trinervitermes maudanicus",
+   "note": "",
+   "reference": "156-158",
+   "typeLocality": "Democratic Republic of the Congo: \"Haut Uélé\": Mauda"
+  },
+  {
+   "asPublished": "Nasutitermes (Trinervitermes) lutzi Emerson, 1928: 494-495",
+   "authorship": "Emerson, 1928",
+   "localityAlignment": "matched",
+   "name": "Nasutitermes (Trinervitermes) lutzi",
+   "note": "",
+   "reference": "494-495",
+   "typeLocality": "Democratic Republic of the Congo: Niangara"
+  },
+  {
+   "asPublished": "Nasutitermes (Trinervitermes) bettonianus sulciceps Emerson, 1928: 493",
+   "authorship": "Emerson, 1928",
+   "localityAlignment": "matched",
+   "name": "Nasutitermes (Trinervitermes) bettonianus sulciceps",
+   "note": "",
+   "reference": "493",
+   "typeLocality": "Democratic Republic of the Congo: Garamba"
+  }
+ ],
+ "typeLocality": "Guinea Bissau: Bissau",
+ "version": "2026.11.21",
+ "zh": "西部三脉白蚁"
+}

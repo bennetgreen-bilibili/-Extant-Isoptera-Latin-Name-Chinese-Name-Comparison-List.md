@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/velocitermes-paucipilis.json",
+ "apiVersion": "1",
+ "authorship": "Mathews, 1977",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "velocitermes",
+   "latin": "Velocitermes",
+   "zh": "快白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Ecuador, Venezuela",
+  "zh": "巴西、厄瓜多尔、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Velocitermes paucipilis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/velocitermes-paucipilis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition [12.8145S 51.7745W]",
+ "version": "2026.11.21",
+ "zh": "少毛快白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-monosetosus.json",
+ "apiVersion": "1",
+ "authorship": "Tsai & Li, 1985",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "China (Yunnan)",
+  "zh": "中国云南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes monosetosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-monosetosus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Hainan Island: Yaxian County",
+ "version": "2026.11.21",
+ "zh": "单毛乳白蚁"
+}

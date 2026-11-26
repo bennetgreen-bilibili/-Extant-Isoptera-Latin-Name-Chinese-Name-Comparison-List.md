@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/heterotermes-platycephalus.json",
+ "apiVersion": "1",
+ "authorship": "Froggatt, 1897",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "heterotermes",
+   "latin": "Heterotermes",
+   "zh": "异白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Heterotermes platycephalus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/heterotermes-platycephalus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Leucotermes clarki Hill, 1922: 395-397",
+   "authorship": "Hill, 1922",
+   "localityAlignment": "matched",
+   "name": "Leucotermes clarki",
+   "note": "",
+   "reference": "395-397",
+   "typeLocality": "Australia: Western Australia: Swan River"
+  }
+ ],
+ "typeLocality": "Australia: South Australia: Kangaroo Island",
+ "version": "2026.11.21",
+ "zh": "宽头异白蚁"
+}

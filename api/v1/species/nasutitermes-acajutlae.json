@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-acajutlae.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1910",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Colombia, Puerto Rico, United States, French Guiana, Trinidad and Tobago, Antigua and Barbuda, Barbados, Montserrat, Suriname, Venezuela, British Virgin Islands, United States Virgin Islands",
+  "zh": "哥伦比亚、波多黎各、美国、法属圭亚那、特立尼达和多巴哥、安提瓜和巴布达、巴巴多斯、蒙特塞拉特、苏里南、委内瑞拉、英属维尔京群岛、美属维尔京群岛"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes acajutlae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-acajutlae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Nasutitermes creolina Banks, 1919: 484",
+   "authorship": "Banks, 1919",
+   "localityAlignment": "unmatched",
+   "name": "Nasutitermes creolina",
+   "note": "",
+   "reference": "484",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Virgin Islands (USA): St. Thomas",
+ "version": "2026.11.21",
+ "zh": "阿卡胡特拉象白蚁"
+}

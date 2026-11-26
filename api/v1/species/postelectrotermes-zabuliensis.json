@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/postelectrotermes-zabuliensis.json",
+ "apiVersion": "1",
+ "authorship": "Ravan & Akhtar, 1999",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "postelectrotermes",
+   "latin": "Postelectrotermes",
+   "zh": "后琥珀白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "West Asia, Iran",
+  "zh": "西亚、伊朗"
+ },
+ "isTypeSpecies": false,
+ "latin": "Postelectrotermes zabuliensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/postelectrotermes-zabuliensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Iran: Zabul [Jalahi]",
+ "version": "2026.11.21",
+ "zh": "扎布尔后琥珀白蚁"
+}

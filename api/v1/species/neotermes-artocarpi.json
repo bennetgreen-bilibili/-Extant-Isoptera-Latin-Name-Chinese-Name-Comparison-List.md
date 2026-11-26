@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-artocarpi.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Malaysia, Sarawak, Indonesia, Myanmar",
+  "zh": "马来西亚、沙捞越、印度尼西亚、缅甸"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes artocarpi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-artocarpi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malaysia: Sarawak",
+ "version": "2026.11.21",
+ "zh": "阿托卡尔佩新白蚁"
+}

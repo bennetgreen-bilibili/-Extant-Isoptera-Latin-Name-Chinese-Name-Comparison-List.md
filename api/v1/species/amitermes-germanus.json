@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-germanus.json",
+ "apiVersion": "1",
+ "authorship": "Hill, 1915",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes germanus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-germanus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Hamitermes ( Hamitermes ) kimberleyensis Mjöberg, 1920: 75-78",
+   "authorship": "Mjöberg, 1920",
+   "localityAlignment": "matched",
+   "name": "Hamitermes (Hamitermes) kimberleyensis",
+   "note": "",
+   "reference": "75-78",
+   "typeLocality": "Australia: Western Australia: Derby"
+  }
+ ],
+ "typeLocality": "Australia: Northern Territory: Darwin: Fannie Bay",
+ "version": "2026.11.21",
+ "zh": "芽弓白蚁"
+}

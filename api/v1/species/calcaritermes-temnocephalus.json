@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/calcaritermes-temnocephalus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1901",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "calcaritermes",
+   "latin": "Calcaritermes",
+   "zh": "距白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "South America, Peru, Suriname, Colombia, Central America, Panama, Costa Rica, Caribbean, Martinique, Trinidad and Tobago, Belize, Dominica, Ecuador, Guadeloupe (France), Guatemala, Honduras, Martinique (France), Saint Lucia, Saint Vincent and the Grenadines, Venezuela",
+  "zh": "南美洲、秘鲁、苏里南、哥伦比亚、中美洲、巴拿马、哥斯达黎加、加勒比、马提尼克、特立尼达和多巴哥、伯利兹、多米尼克、厄瓜多尔、瓜德罗普（法）、危地马拉、洪都拉斯、马提尼克（法）、圣卢西亚、圣文森特和格林纳丁斯、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Calcaritermes temnocephalus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/calcaritermes-temnocephalus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Kalotermes ( Calcaritermes ) fairchildi Snyder, 1926: 51",
+   "authorship": "Snyder, 1926",
+   "localityAlignment": "matched",
+   "name": "Kalotermes (Calcaritermes) fairchildi",
+   "note": "",
+   "reference": "51",
+   "typeLocality": "Costa Rica: Santa Clara: Hamburg Farm"
+  }
+ ],
+ "typeLocality": "Venezuela: Carabobo: Las Trincheras [ 10.3078N 68.0872W ]",
+ "version": "2026.11.21",
+ "zh": "切头距白蚁"
+}

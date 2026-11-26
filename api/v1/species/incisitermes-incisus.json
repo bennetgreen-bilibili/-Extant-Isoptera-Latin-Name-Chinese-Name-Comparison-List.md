@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/incisitermes-incisus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1901",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "incisitermes",
+   "latin": "Incisitermes",
+   "zh": "楹白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Guadeloupe, Barbados, Montserrat, Antigua and Barbuda, Bahamas, Colombia, Cuba, Dominica, Netherlands Antilles, Puerto Rico, Saint Kitts and Nevis and Anguilla, Saint Lucia, French Saint Martin, Turks and Caicos Islands, Venezuela, British Virgin Islands, U.S. Virgin Islands",
+  "zh": "瓜德罗普、巴巴多斯、蒙特塞拉特、安提瓜和巴布达、巴哈马、哥伦比亚、古巴、多米尼克、荷属安的列斯、波多黎各、圣基茨和尼维斯及安圭拉、圣卢西亚、法属圣马丁、特克斯和凯科斯群岛、委内瑞拉、英属维尔京群岛、美属维尔京群岛"
+ },
+ "isTypeSpecies": false,
+ "latin": "Incisitermes incisus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/incisitermes-incisus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Venezuela: Carabobo: Fila Saint Jean (ridge) [ 10.3806N 67.9769W ]",
+ "version": "2026.11.21",
+ "zh": "切割楹白蚁"
+}

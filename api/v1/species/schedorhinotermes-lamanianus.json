@@ -1,0 +1,73 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/schedorhinotermes-lamanianus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1911",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "schedorhinotermes",
+   "latin": "Schedorhinotermes",
+   "zh": "长鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "West Africa, Côte d'Ivoire, Ghana, Guinea, Nigeria, Sierra Leone, southern Africa, South Africa, Mozambique, Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Namibia, Eswatini, Tanzania, Uganda, Zimbabwe",
+  "zh": "西非、科特迪瓦、加纳、几内亚、尼日利亚、塞拉利昂、非洲南部、南非、莫桑比克、安哥拉、刚果（布）、刚果民主共和国、肯尼亚、马拉维、纳米比亚、斯威士兰、坦桑尼亚、乌干达、津巴布韦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Schedorhinotermes lamanianus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/schedorhinotermes-lamanianus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Rhinotermes bequaertianus Sjöstedt, 1913: 357-358",
+   "authorship": "Sjöstedt, 1913",
+   "localityAlignment": "matched",
+   "name": "Rhinotermes bequaertianus",
+   "note": "",
+   "reference": "357-358",
+   "typeLocality": "Democratic Republic of the Congo: Katanga: Lubumbashi"
+  },
+  {
+   "asPublished": "Schedorhinotermes putorius australis Fuller, 1921: 51-52",
+   "authorship": "Fuller, 1921",
+   "localityAlignment": "matched",
+   "name": "Schedorhinotermes putorius australis",
+   "note": "",
+   "reference": "51-52",
+   "typeLocality": "Mozambique: Beira"
+  },
+  {
+   "asPublished": "Rhinotermes ( Schedorhinotermes ) lamanianus angulatus Emerson, 1928: 429-430",
+   "authorship": "Emerson, 1928",
+   "localityAlignment": "matched",
+   "name": "Rhinotermes (Schedorhinotermes) lamanianus angulatus",
+   "note": "",
+   "reference": "429-430",
+   "typeLocality": "Democratic Republic of the Congo: Niapu"
+  },
+  {
+   "asPublished": "Schedorhinotermes provisorius Grassé, 1937: 20-26",
+   "authorship": "Grassé, 1937",
+   "localityAlignment": "matched",
+   "name": "Schedorhinotermes provisorius",
+   "note": "",
+   "reference": "20-26",
+   "typeLocality": "Ivory Coast: Béoumi"
+  }
+ ],
+ "typeLocality": "Democratic Republic of the Congo: Kingoyi; Mukimbungu",
+ "version": "2026.11.21",
+ "zh": "拉曼长鼻白蚁"
+}

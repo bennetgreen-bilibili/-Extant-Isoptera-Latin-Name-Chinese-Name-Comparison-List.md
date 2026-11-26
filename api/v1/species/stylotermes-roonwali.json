@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/stylotermes-roonwali.json",
+ "apiVersion": "1",
+ "authorship": "Thapa, 1982",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "stylotermitidae",
+   "latin": "Stylotermitidae",
+   "zh": "杆白蚁科"
+  },
+  "genus": {
+   "id": "stylotermes",
+   "latin": "Stylotermes",
+   "zh": "杆白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "India, Brunei, Malaysia",
+  "zh": "印度、文莱、马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Stylotermes roonwali",
+ "pageUrl": "https://termite-extant-isoptera.org/species/stylotermes-roonwali/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malaysia: Sabah: Sandakan South District: Lungmanis",
+ "version": "2026.11.21",
+ "zh": "鲁恩沃杆白蚁"
+}

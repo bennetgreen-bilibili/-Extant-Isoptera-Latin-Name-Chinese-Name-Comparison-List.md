@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-guptai.json",
+ "apiVersion": "1",
+ "authorship": "Roonwal & Bose, 1961",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Asia, Pakistan, India, Bangladesh",
+  "zh": "南亚巴基斯坦、印度、孟加拉国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes guptai",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-guptai/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Odontotermes lokanandi Chatterjee & Thakur, 1967: 38-41",
+   "authorship": "Chatterjee & Thakur, 1967",
+   "localityAlignment": "matched",
+   "name": "Odontotermes lokanandi",
+   "note": "",
+   "reference": "38-41",
+   "typeLocality": "India: Jammu and Kashmir: Jammu, near River Tavi"
+  }
+ ],
+ "typeLocality": "India: Rajasthan: Nagaur District, near Gudha Village, near Sambhar Lake",
+ "version": "2026.11.21",
+ "zh": "古普塔土白蚁"
+}

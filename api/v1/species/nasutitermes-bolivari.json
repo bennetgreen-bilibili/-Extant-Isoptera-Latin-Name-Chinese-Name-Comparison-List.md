@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-bolivari.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1959",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Bolivia, Brazil, Venezuela",
+  "zh": "玻利维亚、巴西、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes bolivari",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-bolivari/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Venezuela: Bolivar: Guayaraca (near Mt. Auyantepui) [5.68333N 62.5333W]",
+ "version": "2026.11.21",
+ "zh": "玻利瓦尔象白蚁"
+}

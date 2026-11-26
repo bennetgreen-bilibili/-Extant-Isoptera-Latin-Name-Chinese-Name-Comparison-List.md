@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/hospitalitermes-krishnai.json",
+ "apiVersion": "1",
+ "authorship": "Syaukani, Thompson & Yamane, 2011",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "hospitalitermes",
+   "latin": "Hospitalitermes",
+   "zh": "须白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Indonesia, Lampung, southern Sumatra",
+  "zh": "印度尼西亚、苏门答腊南部楠榜"
+ },
+ "isTypeSpecies": false,
+ "latin": "Hospitalitermes krishnai",
+ "pageUrl": "https://termite-extant-isoptera.org/species/hospitalitermes-krishnai/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Indonesia: Sumatra: Lampung Province: Kotabumi, Sumber Jaya",
+ "version": "2026.11.21",
+ "zh": "克里希纳须白蚁"
+}

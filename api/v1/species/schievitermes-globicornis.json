@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/schievitermes-globicornis.json",
+ "apiVersion": "1",
+ "authorship": "Roisin, 2022",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "schievitermes",
+   "latin": "Schievitermes",
+   "zh": "不对称白蚁属"
+  },
+  "subfamily": {
+   "id": "neocapritermitinae",
+   "latin": "Neocapritermitinae",
+   "zh": "新扭白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "French Guiana",
+  "zh": "法属圭亚那"
+ },
+ "isTypeSpecies": true,
+ "latin": "Schievitermes globicornis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/schievitermes-globicornis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "French Guiana: Petit Saut Dam Road, Carbet Maman Lézard [ 5.0672N 52.9992W ]",
+ "version": "2026.11.21",
+ "zh": "球角不对称白蚁"
+}

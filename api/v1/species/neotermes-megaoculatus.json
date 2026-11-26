@@ -1,0 +1,51 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-megaoculatus.json",
+ "apiVersion": "1",
+ "authorship": "Roonwal & Sen-Sarma, 1960",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "India",
+  "zh": "印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes megaoculatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-megaoculatus/",
+ "rank": "species",
+ "subspecies": [
+  {
+   "authorship": "Roonwal & Sen-Sarma, 1960",
+   "latin": "Neotermes megaoculatus lakhimpuri",
+   "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-megaoculatus-lakhimpuri/",
+   "slug": "neotermes-megaoculatus-lakhimpuri",
+   "zh": "勒金布尔亚种"
+  },
+  {
+   "authorship": "Roonwal & Sen-Sarma, 1960",
+   "latin": "Neotermes megaoculatus megaoculatus",
+   "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-megaoculatus-megaoculatus/",
+   "slug": "neotermes-megaoculatus-megaoculatus",
+   "zh": "指名亚种"
+  }
+ ],
+ "synonyms": [],
+ "typeLocality": "India: Uttarakhand: Dehra Dun",
+ "version": "2026.11.21",
+ "zh": "巨眼新白蚁"
+}

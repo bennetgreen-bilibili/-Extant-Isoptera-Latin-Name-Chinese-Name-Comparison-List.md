@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/batillitermes-monachus.json",
+ "apiVersion": "1",
+ "authorship": "Uys, 1994",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "batillitermes",
+   "latin": "Batillitermes",
+   "zh": "铲白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "southern Africa, South Africa, Zimbabwe",
+  "zh": "非洲南部、南非、津巴布韦"
+ },
+ "isTypeSpecies": true,
+ "latin": "Batillitermes monachus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/batillitermes-monachus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Zimbabwe: Insiza, 48 km ex Bulawayo-Gwelo",
+ "version": "2026.11.21",
+ "zh": "僧侣铲白蚁"
+}

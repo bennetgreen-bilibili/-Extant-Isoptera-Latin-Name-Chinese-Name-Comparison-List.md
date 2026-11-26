@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/astalotermes-acholus.json",
+ "apiVersion": "1",
+ "authorship": "Sands, 1972",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "astalotermes",
+   "latin": "Astalotermes",
+   "zh": "无利器白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "tropical Africa, Cameroon, Democratic Republic of the Congo, Tanzania",
+  "zh": "非洲热带、喀麦隆、刚果民主共和国、坦桑尼亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Astalotermes acholus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/astalotermes-acholus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Bas-Congo: Mbamba",
+ "version": "2026.11.21",
+ "zh": "阿彻鲁斯无利器白蚁"
+}

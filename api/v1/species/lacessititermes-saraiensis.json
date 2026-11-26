@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/lacessititermes-saraiensis.json",
+ "apiVersion": "1",
+ "authorship": "Oshima, 1916",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "lacessititermes",
+   "latin": "Lacessititermes",
+   "zh": "怒白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "China, Indonesia, Philippines",
+  "zh": "中国、印度尼西亚、菲律宾"
+ },
+ "isTypeSpecies": false,
+ "latin": "Lacessititermes saraiensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/lacessititermes-saraiensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Hospitalitermes) luzonensis Oshima, 1917: 17-19",
+   "authorship": "Oshima, 1917",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Hospitalitermes) luzonensis",
+   "note": "",
+   "reference": "17-19",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Philippines: Luzon: Laguna Province: Sarai near Paete",
+ "version": "2026.11.21",
+ "zh": "萨赖怒白蚁"
+}

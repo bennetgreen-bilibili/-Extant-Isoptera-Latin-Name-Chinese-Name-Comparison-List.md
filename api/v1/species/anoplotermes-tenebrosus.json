@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/anoplotermes-tenebrosus.json",
+ "apiVersion": "1",
+ "authorship": "Hagen, 1858",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "anoplotermes",
+   "latin": "Anoplotermes",
+   "zh": "解甲白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Argentina, Venezuela",
+  "zh": "巴西、阿根廷、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Anoplotermes tenebrosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/anoplotermes-tenebrosus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: São Paulo: Iperó, Ipanema [ 23.4265S 47.5921W ]",
+ "version": "2026.11.21",
+ "zh": "黑暗解甲白蚁"
+}

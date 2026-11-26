@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ternicubitermes-microduplex.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 94,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Ternicubitermes microduplex",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "ternicubitermes-microduplex",
+   "source": "gbif",
+   "theirs": "Ternicubitermes Josens & Deligne, 2021",
+   "url": null,
+   "verified": false,
+   "zh": "小双三方白蚁"
+  }
+ ],
+ "authorship": "Fuller, 1925",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ternicubitermes",
+   "latin": "Ternicubitermes",
+   "zh": "三方白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Africa",
+  "zh": "南非"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ternicubitermes microduplex",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ternicubitermes-microduplex/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "South Africa: Natal: Pondweni, 8 km N of Lake St. Lucia",
+ "version": "2026.11.21",
+ "zh": "小双三方白蚁"
+}

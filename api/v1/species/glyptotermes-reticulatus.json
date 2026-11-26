@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-reticulatus.json",
+ "apiVersion": "1",
+ "authorship": "Wilkinson, 1954",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Tanzania",
+  "zh": "坦桑尼亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glyptotermes reticulatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-reticulatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Tanzania: Jozani Forest",
+ "version": "2026.11.21",
+ "zh": "似网树白蚁"
+}

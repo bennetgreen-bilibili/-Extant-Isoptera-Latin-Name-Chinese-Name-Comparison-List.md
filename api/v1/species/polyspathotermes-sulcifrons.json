@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/polyspathotermes-sulcifrons.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 94,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Polyspathotermes sulcifrons",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "polyspathotermes-sulcifrons",
+   "source": "gbif",
+   "theirs": "Polyspathotermes Josens & Deligne, 2021",
+   "url": null,
+   "verified": false,
+   "zh": "沟额多铲白蚁"
+  }
+ ],
+ "authorship": "Wasmann, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "polyspathotermes",
+   "latin": "Polyspathotermes",
+   "zh": "多铲白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Cameroon, Democratic Republic of the Congo, Nigeria, Tanzania",
+  "zh": "喀麦隆、刚果民主共和国、尼日利亚、坦桑尼亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Polyspathotermes sulcifrons",
+ "pageUrl": "https://termite-extant-isoptera.org/species/polyspathotermes-sulcifrons/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cameroon: Lolodorf",
+ "version": "2026.11.21",
+ "zh": "沟额多铲白蚁"
+}

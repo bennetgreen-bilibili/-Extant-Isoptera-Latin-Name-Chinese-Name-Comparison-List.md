@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/embiratermes-neotenicus.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1906",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "embiratermes",
+   "latin": "Embiratermes",
+   "zh": "生白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Peru, Brazil, French Guiana, Colombia, Suriname, Ecuador, Bolivia, Guyana, Venezuela",
+  "zh": "秘鲁、巴西、法属圭亚那、哥伦比亚、苏里南、厄瓜多尔、玻利维亚、圭亚那、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Embiratermes neotenicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/embiratermes-neotenicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Armitermes (Armitermes) percutiens Emerson, 1925: 369-371",
+   "authorship": "Emerson, 1925",
+   "localityAlignment": "matched",
+   "name": "Armitermes (Armitermes) percutiens",
+   "note": "",
+   "reference": "369-371",
+   "typeLocality": "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
+  }
+ ],
+ "typeLocality": "Bolivia: La Paz: San Fermín [13.9056S 68.9722W]; Peru: Puno: Chaquimayo [13.45S 70.4W]",
+ "version": "2026.11.21",
+ "zh": "幼态生白蚁"
+}

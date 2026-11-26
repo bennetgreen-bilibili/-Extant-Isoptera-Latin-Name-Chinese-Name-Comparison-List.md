@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/protermes-mwekerae.json",
+ "apiVersion": "1",
+ "authorship": "Ruelle, 1971",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "protermes",
+   "latin": "Protermes",
+   "zh": "前白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Angola, Zambia",
+  "zh": "安哥拉、赞比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Protermes mwekerae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/protermes-mwekerae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Zambia: 24 km ex Kitwe-Dola Hill via Mwekera Forest Reserve",
+ "version": "2026.11.21",
+ "zh": "穆维盖拉前白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/anoplotermes-gracilis.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1922",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "anoplotermes",
+   "latin": "Anoplotermes",
+   "zh": "解甲白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "French Guiana, Panama",
+  "zh": "法属圭亚那、巴拿马"
+ },
+ "isTypeSpecies": false,
+ "latin": "Anoplotermes gracilis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/anoplotermes-gracilis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Panama: Ancon",
+ "version": "2026.11.21",
+ "zh": "细瘦解甲白蚁"
+}

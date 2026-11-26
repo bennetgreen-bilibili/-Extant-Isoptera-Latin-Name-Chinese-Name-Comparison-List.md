@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/noirotitermes-noiroti.json",
+ "apiVersion": "1",
+ "authorship": "Cancello & Myles, 2000",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "noirotitermes",
+   "latin": "Noirotitermes",
+   "zh": "努瓦罗白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": true,
+ "latin": "Noirotitermes noiroti",
+ "pageUrl": "https://termite-extant-isoptera.org/species/noirotitermes-noiroti/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Piauí: Corrente, Fazenda Maracujá [10.348S 45.166W]",
+ "version": "2026.11.21",
+ "zh": "努瓦罗努瓦罗白蚁"
+}

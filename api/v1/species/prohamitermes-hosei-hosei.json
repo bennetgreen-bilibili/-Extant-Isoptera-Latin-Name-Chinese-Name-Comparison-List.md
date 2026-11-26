@@ -1,0 +1,39 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/prohamitermes-hosei-hosei.json",
+ "apiVersion": "1",
+ "authorship": "Desneux, 1906",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "prohamitermes",
+   "latin": "Prohamitermes",
+   "zh": "前钩白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "latin": "Prohamitermes hosei hosei",
+ "pageUrl": "https://termite-extant-isoptera.org/species/prohamitermes-hosei-hosei/",
+ "parent": {
+  "latin": "Prohamitermes hosei",
+  "slug": "prohamitermes-hosei",
+  "zh": "霍斯前钩白蚁"
+ },
+ "rank": "subspecies",
+ "synonyms": [],
+ "typeLocality": "Malaysia: Sarawak",
+ "version": "2026.11.21",
+ "zh": "指名亚种"
+}

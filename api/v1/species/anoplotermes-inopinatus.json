@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/anoplotermes-inopinatus.json",
+ "apiVersion": "1",
+ "authorship": "Scheffrahn & Krecek, 2006",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "anoplotermes",
+   "latin": "Anoplotermes",
+   "zh": "解甲白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Bahamas",
+  "zh": "巴哈马"
+ },
+ "isTypeSpecies": false,
+ "latin": "Anoplotermes inopinatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/anoplotermes-inopinatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Bahamas: Eleuthera Island: North Bluff",
+ "version": "2026.11.21",
+ "zh": "意外解甲白蚁"
+}

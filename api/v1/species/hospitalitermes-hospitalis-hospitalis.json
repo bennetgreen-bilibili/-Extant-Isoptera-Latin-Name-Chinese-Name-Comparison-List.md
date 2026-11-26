@@ -1,0 +1,39 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/hospitalitermes-hospitalis-hospitalis.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "hospitalitermes",
+   "latin": "Hospitalitermes",
+   "zh": "须白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "latin": "Hospitalitermes hospitalis hospitalis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/hospitalitermes-hospitalis-hospitalis/",
+ "parent": {
+  "latin": "Hospitalitermes hospitalis",
+  "slug": "hospitalitermes-hospitalis",
+  "zh": "寄宿须白蚁"
+ },
+ "rank": "subspecies",
+ "synonyms": [],
+ "typeLocality": "Malaysia: Sarawak; Singapore: ?",
+ "version": "2026.11.21",
+ "zh": "指名亚种"
+}

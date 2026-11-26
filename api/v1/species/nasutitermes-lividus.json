@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-lividus.json",
+ "apiVersion": "1",
+ "authorship": "Burmeister, 1839",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Haiti, Cuba, Dominican Republic",
+  "zh": "海地、古巴、多米尼加"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes lividus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-lividus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Dominican Republic: Santo Domingo",
+ "version": "2026.11.21",
+ "zh": "青色象白蚁"
+}

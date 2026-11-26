@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/foraminitermes-rhinoceros.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1905",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "foraminitermes",
+   "latin": "Foraminitermes",
+   "zh": "孔白蚁属"
+  },
+  "subfamily": {
+   "id": "foraminitermitinae",
+   "latin": "Foraminitermitinae",
+   "zh": "孔白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central Africa, Central African Republic, Kenya, Sudan, Tanzania, Uganda",
+  "zh": "中非、中非共和国、肯尼亚、苏丹、坦桑尼亚、乌干达"
+ },
+ "isTypeSpecies": false,
+ "latin": "Foraminitermes rhinoceros",
+ "pageUrl": "https://termite-extant-isoptera.org/species/foraminitermes-rhinoceros/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Mukimbungu",
+ "version": "2026.11.21",
+ "zh": "犀牛孔白蚁"
+}

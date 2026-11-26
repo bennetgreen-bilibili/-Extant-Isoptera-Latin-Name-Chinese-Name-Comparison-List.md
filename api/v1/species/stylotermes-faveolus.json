@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/stylotermes-faveolus.json",
+ "apiVersion": "1",
+ "authorship": "Chatterjee & Thakur, 1964",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "stylotermitidae",
+   "latin": "Stylotermitidae",
+   "zh": "杆白蚁科"
+  },
+  "genus": {
+   "id": "stylotermes",
+   "latin": "Stylotermes",
+   "zh": "杆白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "India",
+  "zh": "印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Stylotermes faveolus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/stylotermes-faveolus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Himachal Pradesh: Kulu: Sarvari Village, notified cremation ground area, near Kulu sawmills",
+ "version": "2026.11.21",
+ "zh": "凹胸杆白蚁"
+}

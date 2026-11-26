@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/crenetermes-fruitus.json",
+ "apiVersion": "1",
+ "authorship": "Harris, 1958",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "crenetermes",
+   "latin": "Crenetermes",
+   "zh": "刻痕白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics",
+  "zh": "旧热带界"
+ },
+ "isTypeSpecies": false,
+ "latin": "Crenetermes fruitus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/crenetermes-fruitus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Lusinga",
+ "version": "2026.11.21",
+ "zh": "可爱刻痕白蚁"
+}

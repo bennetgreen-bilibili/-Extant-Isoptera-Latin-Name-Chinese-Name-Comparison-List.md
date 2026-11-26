@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/incisitermes-solidus.json",
+ "apiVersion": "1",
+ "authorship": "Hagen, 1858",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "incisitermes",
+   "latin": "Incisitermes",
+   "zh": "楹白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "unknown",
+  "zh": "不明"
+ },
+ "isTypeSpecies": false,
+ "latin": "Incisitermes solidus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/incisitermes-solidus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "(country unknown): ?",
+ "version": "2026.11.21",
+ "zh": "坚硬楹白蚁"
+}

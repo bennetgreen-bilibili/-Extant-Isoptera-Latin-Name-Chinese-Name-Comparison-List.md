@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/orientotermes-emersoni.json",
+ "apiVersion": "1",
+ "authorship": "Ahmad, 1976",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "orientotermes",
+   "latin": "Orientotermes",
+   "zh": "东方白蚁属"
+  },
+  "subfamily": {
+   "id": "protohamitermitinae",
+   "latin": "Protohamitermitinae",
+   "zh": "始钩白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brunei, Malaysia",
+  "zh": "文莱、马来西亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Orientotermes emersoni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/orientotermes-emersoni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malaysia: Sarawak: Sabal Tapang",
+ "version": "2026.11.21",
+ "zh": "埃默森东方白蚁"
+}

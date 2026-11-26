@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-perparvus.json",
+ "apiVersion": "1",
+ "authorship": "Ahmad, 1965",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Vietnam, Malaysia, Thailand",
+  "zh": "越南、马来西亚、泰国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes perparvus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-perparvus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Thailand: Wang Nok An",
+ "version": "2026.11.21",
+ "zh": "似微象白蚁"
+}

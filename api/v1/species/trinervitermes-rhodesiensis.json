@@ -1,0 +1,131 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/trinervitermes-rhodesiensis.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "trinervitermes",
+   "latin": "Trinervitermes",
+   "zh": "三脉白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Côte d'Ivoire, Angola, Botswana, Central Africa, Republic of the Congo, Democratic Republic of the Congo, Namibia, South Africa, Tanzania, Zambia, Zimbabwe",
+  "zh": "科特迪瓦、安哥拉、博茨瓦纳、中非、刚果共和国、刚果民主共和国、纳米比亚、南非、坦桑尼亚、赞比亚、津巴布韦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Trinervitermes rhodesiensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/trinervitermes-rhodesiensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes brutus Sjöstedt, 1911: 12-13",
+   "authorship": "Sjöstedt, 1911",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes brutus",
+   "note": "",
+   "reference": "12-13",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes agricola Sjöstedt, 1913: 380-382",
+   "authorship": "Sjöstedt, 1913",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes agricola",
+   "note": "",
+   "reference": "380-382",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes rufonasalis Sjöstedt, 1913: 383",
+   "authorship": "Sjöstedt, 1913",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes rufonasalis",
+   "note": "",
+   "reference": "383",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes (Trinervitermes) roseni Holmgren, 1913: 344-345",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Trinervitermes) roseni",
+   "note": "",
+   "reference": "344-345",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes (Trinervitermes) kalaharicus Holmgren, 1913: 346-347",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Trinervitermes) kalaharicus",
+   "note": "",
+   "reference": "346-347",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Trinervitermes thermarum Fuller, 1922: 114, 121",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "unmatched",
+   "name": "Trinervitermes thermarum",
+   "note": "",
+   "reference": "114, 121",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Trinervitermes abassas Fuller, 1922: 114, 121",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "unmatched",
+   "name": "Trinervitermes abassas",
+   "note": "",
+   "reference": "114, 121",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes (Trinervitermes) loubetsiensis Sjöstedt, 1924: 496",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Trinervitermes) loubetsiensis",
+   "note": "",
+   "reference": "496",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes (Trinervitermes) diplacodes Sjöstedt, 1924: 41-42",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Trinervitermes) diplacodes",
+   "note": "",
+   "reference": "41-42",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes (Trinervitermes) muneris Sjöstedt, 1924: 42",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Trinervitermes) muneris",
+   "note": "",
+   "reference": "42",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Zimbabwe: Harare (Salisbury)",
+ "version": "2026.11.21",
+ "zh": "罗得西亚三脉白蚁"
+}

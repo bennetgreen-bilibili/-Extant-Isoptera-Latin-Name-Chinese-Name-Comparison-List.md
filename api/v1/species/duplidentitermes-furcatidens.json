@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/duplidentitermes-furcatidens.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1924",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "duplidentitermes",
+   "latin": "Duplidentitermes",
+   "zh": "双齿白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Cameroon, Central African Republic, Republic of the Congo (Brazzaville), Ghana, Côte d'Ivoire",
+  "zh": "喀麦隆、中非共和国、刚果（布）、加纳、科特迪瓦"
+ },
+ "isTypeSpecies": true,
+ "latin": "Duplidentitermes furcatidens",
+ "pageUrl": "https://termite-extant-isoptera.org/species/duplidentitermes-furcatidens/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Central African Republic: Bania; Nola",
+ "version": "2026.11.21",
+ "zh": "叉齿双齿白蚁"
+}

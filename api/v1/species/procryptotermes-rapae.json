@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/procryptotermes-rapae.json",
+ "apiVersion": "1",
+ "authorship": "Light & Zimmerman, 1936",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "procryptotermes",
+   "latin": "Procryptotermes",
+   "zh": "前砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "French Polynesia",
+  "zh": "法属波利尼西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Procryptotermes rapae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/procryptotermes-rapae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Polynesia (French): Rapa Iti",
+ "version": "2026.11.21",
+ "zh": "拉帕前砂白蚁"
+}

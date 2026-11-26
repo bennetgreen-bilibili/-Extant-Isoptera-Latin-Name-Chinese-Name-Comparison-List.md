@@ -1,0 +1,95 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/gnathamitermes-perplexus.json",
+ "apiVersion": "1",
+ "authorship": "Banks, 1920",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "gnathamitermes",
+   "latin": "Gnathamitermes",
+   "zh": "颚钩白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "United States, Mexico",
+  "zh": "美国、墨西哥"
+ },
+ "isTypeSpecies": true,
+ "latin": "Gnathamitermes perplexus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/gnathamitermes-perplexus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Amitermes confusus Banks, 1920: 65-66",
+   "authorship": "Banks, 1920",
+   "localityAlignment": "unmatched",
+   "name": "Amitermes confusus",
+   "note": "",
+   "reference": "65-66",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Amitermes ( Gnathamitermes ) fuscus Light, 1932: 400-401",
+   "authorship": "Light, 1932",
+   "localityAlignment": "unmatched",
+   "name": "Amitermes (Gnathamitermes) fuscus",
+   "note": "",
+   "reference": "400-401",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Amitermes ( Gnathamitermes ) infumatus Light, 1932: 402-405",
+   "authorship": "Light, 1932",
+   "localityAlignment": "unmatched",
+   "name": "Amitermes (Gnathamitermes) infumatus",
+   "note": "",
+   "reference": "402-405",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Amitermes ( Gnathamitermes ) acutus Light, 1932: 398",
+   "authorship": "Light, 1932",
+   "localityAlignment": "unmatched",
+   "name": "Amitermes (Gnathamitermes) acutus",
+   "note": "",
+   "reference": "398",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Amitermes ( Gnathamitermes ) acrognathus Light, 1932: 398-399",
+   "authorship": "Light, 1932",
+   "localityAlignment": "unmatched",
+   "name": "Amitermes (Gnathamitermes) acrognathus",
+   "note": "",
+   "reference": "398-399",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Amitermes ( Gnathamitermes ) magnoculus Light, 1932: 406-408",
+   "authorship": "Light, 1932",
+   "localityAlignment": "unmatched",
+   "name": "Amitermes (Gnathamitermes) magnoculus",
+   "note": "",
+   "reference": "406-408",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "United States: Texas: Victoria",
+ "version": "2026.11.21",
+ "zh": "复杂颚钩白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/epicalotermes-pakistanicus.json",
+ "apiVersion": "1",
+ "authorship": "Akhtar, 1974",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "epicalotermes",
+   "latin": "Epicalotermes",
+   "zh": "上木白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Pakistan",
+  "zh": "巴基斯坦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Epicalotermes pakistanicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/epicalotermes-pakistanicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Pakistan: Baluchistan: Gwadar",
+ "version": "2026.11.21",
+ "zh": "巴基斯坦上木白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-niger.json",
+ "apiVersion": "1",
+ "authorship": "Kemner, 1934",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Indonesia",
+  "zh": "印度尼西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glyptotermes niger",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-niger/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Indonesia: Java: south coast, near Wijnkoopsbaai, Tjisolok",
+ "version": "2026.11.21",
+ "zh": "黑色树白蚁"
+}

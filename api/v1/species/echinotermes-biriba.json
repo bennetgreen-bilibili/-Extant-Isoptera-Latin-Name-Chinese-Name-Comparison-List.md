@@ -1,0 +1,80 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/echinotermes-biriba.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "missing",
+   "latin": "Echinotermes biriba",
+   "match": null,
+   "note": "",
+   "rank": "种",
+   "slug": "echinotermes-biriba",
+   "source": "col",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "比里巴多刺白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "missing",
+   "latin": "Echinotermes biriba",
+   "match": null,
+   "note": "",
+   "rank": "种",
+   "slug": "echinotermes-biriba",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "比里巴多刺白蚁"
+  }
+ ],
+ "authorship": "Castro & Scheffrahn, 2020",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "echinotermes",
+   "latin": "Echinotermes",
+   "zh": "多刺白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South America, Colombia, Peru",
+  "zh": "南美洲、哥伦比亚、秘鲁"
+ },
+ "isTypeSpecies": true,
+ "latin": "Echinotermes biriba",
+ "pageUrl": "https://termite-extant-isoptera.org/species/echinotermes-biriba/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Colombia: Caquetá, Belén de los Andaquíes [ 1.60794N 75.8868W ]",
+ "version": "2026.11.21",
+ "zh": "比里巴多刺白蚁"
+}

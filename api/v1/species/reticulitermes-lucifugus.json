@@ -1,0 +1,104 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/reticulitermes-lucifugus.json",
+ "apiVersion": "1",
+ "authorship": "Rossi, 1792",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "reticulitermes",
+   "latin": "Reticulitermes",
+   "zh": "散白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Mediterranean Europe, Southern Europe, West Asia, Central Europe, Eastern Europe (Algeria, Azerbaijan, Bosnia and Herzegovina, Croatia, Cyprus, Egypt, France, Germany, Greece, Iran, Iraq, Italy, Madeira (Portugal), Morocco, Portugal, Romania, Russia, Spain, Switzerland, Turkey, Ukraine, former Yugoslavia)",
+  "zh": "地中海欧洲、南欧、西亚、中欧、东欧（阿尔及利亚、阿塞拜疆、波黑、克罗地亚、塞浦路斯、埃及、法国、德国、希腊、伊朗、伊拉克、意大利、马德拉群岛（葡萄牙）、摩洛哥、葡萄牙、罗马尼亚、俄罗斯、西班牙、瑞士、土耳其、乌克兰、南斯拉夫（旧））"
+ },
+ "isTypeSpecies": false,
+ "latin": "Reticulitermes lucifugus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/reticulitermes-lucifugus/",
+ "rank": "species",
+ "subspecies": [
+  {
+   "authorship": "Clément, 1977",
+   "latin": "Reticulitermes lucifugus corsicus",
+   "pageUrl": "https://termite-extant-isoptera.org/species/reticulitermes-lucifugus-corsicus/",
+   "slug": "reticulitermes-lucifugus-corsicus",
+   "zh": "科西嘉亚种"
+  },
+  {
+   "authorship": "Rossi, 1792",
+   "latin": "Reticulitermes lucifugus lucifugus",
+   "pageUrl": "https://termite-extant-isoptera.org/species/reticulitermes-lucifugus-lucifugus/",
+   "slug": "reticulitermes-lucifugus-lucifugus",
+   "zh": "指名亚种"
+  },
+  {
+   "authorship": "Ghesini, Luchetti & Marini, 2024",
+   "latin": "Reticulitermes lucifugus siculus",
+   "pageUrl": "https://termite-extant-isoptera.org/species/reticulitermes-lucifugus-siculus/",
+   "slug": "reticulitermes-lucifugus-siculus",
+   "zh": "西西里亚种"
+  }
+ ],
+ "synonyms": [
+  {
+   "asPublished": "Termes arda Forskål, 1775: 96-97",
+   "authorship": "Forskål, 1775",
+   "localityAlignment": "matched",
+   "name": "Termes arda",
+   "note": "",
+   "reference": "96-97",
+   "typeLocality": "Yemen: Beitelfakíh"
+  },
+  {
+   "asPublished": "Hemerobius raphidioides Villers, 1789: 56",
+   "authorship": "Villers, 1789",
+   "localityAlignment": "matched",
+   "name": "Hemerobius raphidioides",
+   "note": "",
+   "reference": "56",
+   "typeLocality": "(country unknown): \"Europa\""
+  },
+  {
+   "asPublished": "Termes radicum Latreille, 1794: 84-85",
+   "authorship": "Latreille, 1794",
+   "localityAlignment": "matched",
+   "name": "Termes radicum",
+   "note": "",
+   "reference": "84-85",
+   "typeLocality": "France: \"environs de Paris.\""
+  },
+  {
+   "asPublished": "Termes parvulum Illiger, 1807: 16",
+   "authorship": "Illiger, 1807",
+   "localityAlignment": "matched",
+   "name": "Termes parvulum",
+   "note": "",
+   "reference": "16",
+   "typeLocality": "Portugal: ?"
+  },
+  {
+   "asPublished": "Termes pusillus Walker, 1853: 528-529",
+   "authorship": "Walker, 1853",
+   "localityAlignment": "matched",
+   "name": "Termes pusillus",
+   "note": "",
+   "reference": "528-529",
+   "typeLocality": "(country unknown): ?"
+  }
+ ],
+ "typeLocality": "(country unknown): \"Shores of Mediterranean\"",
+ "version": "2026.11.21",
+ "zh": "暗黑散白蚁"
+}

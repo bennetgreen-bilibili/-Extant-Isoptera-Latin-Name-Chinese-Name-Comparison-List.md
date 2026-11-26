@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-singaporensis.json",
+ "apiVersion": "1",
+ "authorship": "Oshima, 1913",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Singapore",
+  "zh": "新加坡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes singaporensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-singaporensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Singapore: ?",
+ "version": "2026.11.21",
+ "zh": "新加坡大白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-barneyi.json",
+ "apiVersion": "1",
+ "authorship": "Light, 1924",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "East Asia, China, Hong Kong, China, Macau, China, Vietnam",
+  "zh": "东亚、中国、中国香港、中国澳门、越南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes barneyi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-barneyi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Hong Kong: Hong Kong University, China: Amoy Harbour, China: near Kuliang, in the mountains near Foochow",
+ "version": "2026.11.21",
+ "zh": "黄翅大白蚁"
+}

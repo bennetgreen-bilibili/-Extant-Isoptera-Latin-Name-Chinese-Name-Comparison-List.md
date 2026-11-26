@@ -1,0 +1,127 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/hodotermes-mossambicus.json",
+ "apiVersion": "1",
+ "authorship": "Hagen, 1853",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "hodotermitidae",
+   "latin": "Hodotermitidae",
+   "zh": "草白蚁科"
+  },
+  "genus": {
+   "id": "hodotermes",
+   "latin": "Hodotermes",
+   "zh": "草白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "southern and eastern Africa",
+  "zh": "非洲南部及东部"
+ },
+ "isTypeSpecies": true,
+ "latin": "Hodotermes mossambicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/hodotermes-mossambicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Hodotermes havilandi Sharp, 1895: 384",
+   "authorship": "Sharp, 1895",
+   "localityAlignment": "unmatched",
+   "name": "Hodotermes havilandi",
+   "note": "",
+   "reference": "384",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hodotermes pulcher Sjöstedt, 1905: 1-3",
+   "authorship": "Sjöstedt, 1905",
+   "localityAlignment": "unmatched",
+   "name": "Hodotermes pulcher",
+   "note": "",
+   "reference": "1-3",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hodotermes macrothorax Sjöstedt, 1914: 73-75",
+   "authorship": "Sjöstedt, 1914",
+   "localityAlignment": "unmatched",
+   "name": "Hodotermes macrothorax",
+   "note": "",
+   "reference": "73-75",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hodotermes braini Fuller, 1915: 446-447",
+   "authorship": "Fuller, 1915",
+   "localityAlignment": "unmatched",
+   "name": "Hodotermes braini",
+   "note": "",
+   "reference": "446-447",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hodotermes karrooensis Fuller, 1915: 433-437",
+   "authorship": "Fuller, 1915",
+   "localityAlignment": "unmatched",
+   "name": "Hodotermes karrooensis",
+   "note": "",
+   "reference": "433-437",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hodotermes transvaalensis Fuller, 1915: 425-429",
+   "authorship": "Fuller, 1915",
+   "localityAlignment": "unmatched",
+   "name": "Hodotermes transvaalensis",
+   "note": "",
+   "reference": "425-429",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hodotermes warreni Fuller, 1915: 444-445",
+   "authorship": "Fuller, 1915",
+   "localityAlignment": "unmatched",
+   "name": "Hodotermes warreni",
+   "note": "",
+   "reference": "444-445",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hodotermes pretoriensis Fuller, 1915: 429-432",
+   "authorship": "Fuller, 1915",
+   "localityAlignment": "unmatched",
+   "name": "Hodotermes pretoriensis",
+   "note": "",
+   "reference": "429-432",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hodotermes ( Macrohodotermes ) pallidus Fuller, 1921: 45-46",
+   "authorship": "Fuller, 1921",
+   "localityAlignment": "unmatched",
+   "name": "Hodotermes (Macrohodotermes) pallidus",
+   "note": "",
+   "reference": "45-46",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hodotermes ( Hodotermes ) bloemfonteinsis Sjöstedt, 1926: 14-15",
+   "authorship": "Sjöstedt, 1926",
+   "localityAlignment": "unmatched",
+   "name": "Hodotermes (Hodotermes) bloemfonteinsis",
+   "note": "",
+   "reference": "14-15",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Mozambique: ?",
+ "version": "2026.11.21",
+ "zh": "莫桑比克草白蚁"
+}

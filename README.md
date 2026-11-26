@@ -15,11 +15,12 @@
 | `stats.md` | 统计：科/亚科/属级物种数统计表 |
 | `name-issues.md` | 命名差异：名录索引页下一级（`/list/name-issues/`），把本站名与 GBIF / Catalogue of Life / BSF 的对照结果整理成可筛选清单（名称差异 / 匹配存疑 / 覆盖缺口），支持按类型、来源、关键词筛选与每页 50 条分页，附 CSV 与公开 JSON |
 | `data.md` | 数据：机器可读结构化数据（JSON）清单，按支系/科/亚科列出全部 22 个文件并逐文件链接 |
+| `api.md` | API v1（`/api/`）：只读静态 JSON 接口，按学名、中文名、异名、属名或 slug 读取；含匹配语义、字段表与 Python / R / Excel / curl 示例；三语 |
 | `download.md` | 下载：自动列出 `downloads/` 文件夹内的全部文件，供直接下载 |
 | `guestbook.md` | 留言：Giscus 留言板（GitHub 账号登录） |
 | `changelog.md` | 版本记录（`/changelog/`）：从 `dataset/CHANGELOG.md` 生成，逐版本列出变更；可订阅 `changelog.atom` |
-| `en/*.md` | 英文版：与上表一一对应的 12 个页面（`en/index.md` … `en/papers.md`、`en/changelog.md`，permalink `/en/…/`） |
-| `es/*.md` | 西班牙语版：与上表一一对应的 12 个页面（`es/index.md` … `es/papers.md`、`es/changelog.md`，permalink `/es/…/`） |
+| `en/*.md` | 英文版：与上表一一对应的 13 个页面（`en/index.md` … `en/papers.md`、`en/api.md`、`en/changelog.md`，permalink `/en/…/`） |
+| `es/*.md` | 西班牙语版：与上表一一对应的 13 个页面（`es/index.md` … `es/papers.md`、`es/api.md`、`es/changelog.md`，permalink `/es/…/`） |
 
 > 生物学篇（原 `/basics/biology/`、`/en/basics/biology/`、`/es/basics/biology/`）自 2026-11-15 起从站点移除：三个页面已移到 `_pending_pages/basics/`，基础知识索引页与形态篇不再链接它；需要恢复时按 `_pending_pages/basics/README.md` 操作。
 
@@ -42,6 +43,7 @@
 - `data/termitidae/*.json`（白蚁科 18 亚科，逐亚科文件）
 - `isoptera-data.json`（整棵分类树的单文件版，含模式种、分布、亚种）与 `stats.md` / `en/stats.md` / `es/stats.md`（三语统计页）：由 `_tools/build_taxonomy_data.py` 从 `_data/taxonomy.json` + `_species/` 确定性生成，可 `--check` 校验；`data/index.json` 的计数与文件字节数也由同一脚本维护
 - `search-index.json`（检索索引，供名录索引页与科 / 亚科 / 属页的检索框使用，含名字与产地字段；由 `.github/workflows/build_search_index.py` 从 `_data/taxonomy.json` 与 `_species/` front matter 生成，见下文「站内检索与开源组件」）
+- API：`api/v1/index.json`（版本/许可/端点）、`api/v1/names.json`（名称 → 分类单元查找表，含接受名、异名、中文名、属/科/亚科）、`api/v1/taxonomy.json`（分类层级与计数）、`api/v1/species/<slug>.json`（3089 条物种记录）；由 `_tools/build_api.py` 确定性生成，文档见 `api.md` 三语版
 
 ## 归档数据集与 DOI（dataset/）
 - 生成脚本：`.github/workflows/build_dataset.py`（只用标准库，确定性输出，可 `--check`）。产物：
@@ -151,6 +153,7 @@
 | 文献增强（Crossref，可选 BHL） | `.github/workflows/build_references.py` | `_data/references.json`（+ 公开副本 `data/references.json`） | 名录索引页底部 `#references-doi`（`_includes/references.html`） |
 | schema.org 实体图 | 模板内生成（无需脚本） | `_data/authority_links/`、`_data/bsf_links/` | `_includes/species-jsonld.html`、首页 Dataset JSON-LD |
 | 分类树结构化数据 + 三语统计页 | `_tools/build_taxonomy_data.py` | 无（直接读 `_data/taxonomy.json` + `_species/` front matter） | `isoptera-data.json`、`data/index.json`、`data/*.json`、`stats.md` / `en/stats.md` / `es/stats.md` |
+| API v1 静态 JSON | `_tools/build_api.py` | 无（读 `dataset/data/`、`_data/name_issues.json`、`dataset/metadata.json`） | `api/v1/`、`api.md` / `en/api.md` / `es/api.md` |
 | 命名差异看板（名称差异 / 匹配存疑 / 覆盖缺口 + 逐对关系/方向/补录） | `.github/workflows/build_name_issues.py` | `_data/name_issues.json` + 公开副本 `data/name-issues.json`；人工核对备注 `_data/name_issue_reviews.json` | `/list/name-issues/` 及英/西语版、`downloads/isoptera-name-issues.csv`、`downloads/isoptera-synonym-pairs.csv`、物种页「其他数据库」区块（incoming / outgoing） |
 
 | 覆盖情况（截至最近一次抓取） | 数量 |

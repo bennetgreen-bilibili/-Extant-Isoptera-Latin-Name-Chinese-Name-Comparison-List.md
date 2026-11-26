@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ancistrotermes-equatorius.json",
+ "apiVersion": "1",
+ "authorship": "Harris, 1966",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ancistrotermes",
+   "latin": "Ancistrotermes",
+   "zh": "钩白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Nigeria, Uganda",
+  "zh": "尼日利亚、乌干达"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ancistrotermes equatorius",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ancistrotermes-equatorius/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Uganda: Karamoja district, 40 miles southwest of Moroto",
+ "version": "2026.11.21",
+ "zh": "赤道钩白蚁"
+}

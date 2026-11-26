@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/postelectrotermes-militaris.json",
+ "apiVersion": "1",
+ "authorship": "Desneux, 1904",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "postelectrotermes",
+   "latin": "Postelectrotermes",
+   "zh": "后琥珀白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Sri Lanka",
+  "zh": "斯里兰卡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Postelectrotermes militaris",
+ "pageUrl": "https://termite-extant-isoptera.org/species/postelectrotermes-militaris/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Calotermes militaris unidentatus Kemner, 1926: 381-382",
+   "authorship": "Kemner, 1926",
+   "localityAlignment": "matched",
+   "name": "Calotermes militaris unidentatus",
+   "note": "",
+   "reference": "381-382",
+   "typeLocality": "Sri Lanka: Bogawantalawa"
+  }
+ ],
+ "typeLocality": "Sri Lanka: Bogawantalawa",
+ "version": "2026.11.21",
+ "zh": "好斗后琥珀白蚁"
+}

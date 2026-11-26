@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/kalotermes-brouni.json",
+ "apiVersion": "1",
+ "authorship": "Froggatt, 1897",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "kalotermes",
+   "latin": "Kalotermes",
+   "zh": "木白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "New Zealand",
+  "zh": "新西兰"
+ },
+ "isTypeSpecies": false,
+ "latin": "Kalotermes brouni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/kalotermes-brouni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "New Zealand: Westfield, near Auckland",
+ "version": "2026.11.21",
+ "zh": "布龙木白蚁"
+}

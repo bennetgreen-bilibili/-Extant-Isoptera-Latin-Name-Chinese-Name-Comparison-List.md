@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-sonneratiae.json",
+ "apiVersion": "1",
+ "authorship": "Kemner, 1932",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Indonesia",
+  "zh": "印尼"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes sonneratiae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-sonneratiae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Indonesia: Java: Batavia",
+ "version": "2026.11.21",
+ "zh": "海桑新白蚁"
+}

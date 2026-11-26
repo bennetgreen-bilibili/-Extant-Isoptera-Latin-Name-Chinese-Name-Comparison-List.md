@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/bulbitermes-kraepelini.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1913",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "bulbitermes",
+   "latin": "Bulbitermes",
+   "zh": "瓢白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Indonesia, Singapore",
+  "zh": "印度尼西亚、新加坡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Bulbitermes kraepelini",
+ "pageUrl": "https://termite-extant-isoptera.org/species/bulbitermes-kraepelini/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Singapore: ?",
+ "version": "2026.11.21",
+ "zh": "克雷珀林瓢白蚁"
+}

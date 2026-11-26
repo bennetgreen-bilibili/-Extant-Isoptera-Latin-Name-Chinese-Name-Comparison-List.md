@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/orthotermes-mansuetus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "orthotermes",
+   "latin": "Orthotermes",
+   "zh": "直白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Democratic Republic of the Congo, Angola, Cameroon, Gabon",
+  "zh": "刚果民主共和国、安哥拉、喀麦隆、加蓬"
+ },
+ "isTypeSpecies": false,
+ "latin": "Orthotermes mansuetus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/orthotermes-mansuetus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Mukimbungu",
+ "version": "2026.11.21",
+ "zh": "顺从直白蚁"
+}

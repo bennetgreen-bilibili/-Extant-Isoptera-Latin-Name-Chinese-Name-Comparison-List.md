@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-premrasmii.json",
+ "apiVersion": "1",
+ "authorship": "Ahmad, 1965",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Thailand, Nicobar Islands (India)",
+  "zh": "泰国、尼科巴群岛（印度）"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes premrasmii",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-premrasmii/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Thailand: Ka-Chong",
+ "version": "2026.11.21",
+ "zh": "普雷姆阿斯米乳白蚁"
+}

@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/termes-fatalis.json",
+ "apiVersion": "1",
+ "authorship": "Linnaeus, 1758",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "termes",
+   "latin": "Termes",
+   "zh": "白蚁属"
+  },
+  "subfamily": {
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Neotropics, Brazil, Colombia, French Guiana, etc., northern South America, Bolivia, Ecuador, Paraguay, Peru, Trinidad and Tobago, Venezuela",
+  "zh": "新热带界、巴西、哥伦比亚、法属圭亚那等南美北部、玻利维亚、厄瓜多尔、巴拉圭、秘鲁、特立尼达和多巴哥、委内瑞拉"
+ },
+ "isTypeSpecies": true,
+ "latin": "Termes fatalis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/termes-fatalis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes destructor De Geer, 1778: 50",
+   "authorship": "De Geer, 1778",
+   "localityAlignment": "matched",
+   "name": "Termes destructor",
+   "note": "",
+   "reference": "50",
+   "typeLocality": "Suriname: Marowijne: Confluence of Perica Creek and Cottica River [5.669N 54.447W]"
+  },
+  {
+   "asPublished": "Mirotermes (Mirotermes) acutinasus Emerson, 1925: 439-440",
+   "authorship": "Emerson, 1925",
+   "localityAlignment": "matched",
+   "name": "Mirotermes (Mirotermes) acutinasus",
+   "note": "",
+   "reference": "439-440",
+   "typeLocality": "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
+  }
+ ],
+ "typeLocality": "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]",
+ "version": "2026.11.21",
+ "zh": "祸根白蚁"
+}

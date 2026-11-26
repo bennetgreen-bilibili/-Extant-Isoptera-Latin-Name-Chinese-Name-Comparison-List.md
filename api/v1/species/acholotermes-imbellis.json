@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/acholotermes-imbellis.json",
+ "apiVersion": "1",
+ "authorship": "Sands, 1972",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "acholotermes",
+   "latin": "Acholotermes",
+   "zh": "顺白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "tropical Africa",
+  "zh": "非洲热带"
+ },
+ "isTypeSpecies": false,
+ "latin": "Acholotermes imbellis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/acholotermes-imbellis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Katanga: Keyberg, near Elizabethville",
+ "version": "2026.11.21",
+ "zh": "和平顺白蚁"
+}

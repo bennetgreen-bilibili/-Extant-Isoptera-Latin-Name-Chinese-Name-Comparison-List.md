@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/humutermes-krishnai.json",
+ "apiVersion": "1",
+ "authorship": "Bourguignon & Roisin, 2016",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "humutermes",
+   "latin": "Humutermes",
+   "zh": "腐殖白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Neotropics, Panama, Colombia, French Guiana, Brazil, Ecuador",
+  "zh": "新热带界、巴拿马、哥伦比亚、法属圭亚那、巴西、厄瓜多尔"
+ },
+ "isTypeSpecies": true,
+ "latin": "Humutermes krishnai",
+ "pageUrl": "https://termite-extant-isoptera.org/species/humutermes-krishnai/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "French Guiana: Nouragues Inselberg station [ 4.0884N 52.6814W ]",
+ "version": "2026.11.21",
+ "zh": "克里希纳腐殖白蚁"
+}

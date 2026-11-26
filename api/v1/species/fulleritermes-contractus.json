@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/fulleritermes-contractus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1913",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "fulleritermes",
+   "latin": "Fulleritermes",
+   "zh": "富勒白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Angola, Democratic Republic of the Congo, Namibia, South Africa, Zambia, Zimbabwe",
+  "zh": "安哥拉、刚果民主共和国、纳米比亚、南非、赞比亚、津巴布韦"
+ },
+ "isTypeSpecies": true,
+ "latin": "Fulleritermes contractus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/fulleritermes-contractus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Coarctotermes brunneus Noirot, 1955: 150",
+   "authorship": "Noirot, 1955",
+   "localityAlignment": "matched",
+   "name": "Coarctotermes brunneus",
+   "note": "",
+   "reference": "150",
+   "typeLocality": "Angola: Leba, Humpata"
+  }
+ ],
+ "typeLocality": "Democratic Republic of the Congo: Katanga: Welgelegen",
+ "version": "2026.11.21",
+ "zh": "收缩富勒白蚁"
+}

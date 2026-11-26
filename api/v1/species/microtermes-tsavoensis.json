@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microtermes-tsavoensis.json",
+ "apiVersion": "1",
+ "authorship": "Bacchus, 1997",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microtermes",
+   "latin": "Microtermes",
+   "zh": "小白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "East Africa, Tsavo, Kenya",
+  "zh": "东非、肯尼亚察沃"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microtermes tsavoensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microtermes-tsavoensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Kenya: Maktau, Tsavo Park West",
+ "version": "2026.11.21",
+ "zh": "察沃小白蚁"
+}

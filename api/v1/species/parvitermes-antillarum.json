@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/parvitermes-antillarum.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1910",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "parvitermes",
+   "latin": "Parvitermes",
+   "zh": "微白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Haiti, Dominican Republic",
+  "zh": "海地、多米尼加"
+ },
+ "isTypeSpecies": false,
+ "latin": "Parvitermes antillarum",
+ "pageUrl": "https://termite-extant-isoptera.org/species/parvitermes-antillarum/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Dominican Republic: Santo Domingo",
+ "version": "2026.11.21",
+ "zh": "安的列斯微白蚁"
+}

@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/incisitermes-banksi.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1920",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "incisitermes",
+   "latin": "Incisitermes",
+   "zh": "楹白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "United States, Mexico",
+  "zh": "美国、墨西哥"
+ },
+ "isTypeSpecies": false,
+ "latin": "Incisitermes banksi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/incisitermes-banksi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Kalotermes texanus Banks, 1920: 29-31",
+   "authorship": "Banks, 1920",
+   "localityAlignment": "matched",
+   "name": "Kalotermes texanus",
+   "note": "",
+   "reference": "29-31",
+   "typeLocality": "United States: Texas: Chalk Bluff"
+  },
+  {
+   "asPublished": "Kalotermes lighti Snyder, 1926: 395-396",
+   "authorship": "Snyder, 1926",
+   "localityAlignment": "matched",
+   "name": "Kalotermes lighti",
+   "note": "",
+   "reference": "395-396",
+   "typeLocality": "United States: Arizona: Ray: Copper Butte Canyon"
+  }
+ ],
+ "typeLocality": "United States: Arizona: Santa Catalina Mountains: Sabino Canyon",
+ "version": "2026.11.21",
+ "zh": "班克斯楹白蚁"
+}

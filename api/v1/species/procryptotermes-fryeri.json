@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/procryptotermes-fryeri.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1910",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "procryptotermes",
+   "latin": "Procryptotermes",
+   "zh": "前砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Seychelles",
+  "zh": "塞舌尔"
+ },
+ "isTypeSpecies": true,
+ "latin": "Procryptotermes fryeri",
+ "pageUrl": "https://termite-extant-isoptera.org/species/procryptotermes-fryeri/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Seychelles: Aldabra: Takamaka",
+ "version": "2026.11.21",
+ "zh": "弗赖尔前砂白蚁"
+}

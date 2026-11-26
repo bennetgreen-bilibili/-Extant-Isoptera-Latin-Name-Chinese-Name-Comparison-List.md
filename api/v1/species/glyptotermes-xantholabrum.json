@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-xantholabrum.json",
+ "apiVersion": "1",
+ "authorship": "Hill, 1926",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Samoa, Papua New Guinea, French Polynesia, Vanuatu",
+  "zh": "萨摩亚、巴布亚新几内亚、法属波利尼西亚、瓦努阿图"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glyptotermes xantholabrum",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-xantholabrum/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Kalotermes ( Glyptotermes ) juddi Light, 1932: 169-170",
+   "authorship": "Light, 1932",
+   "localityAlignment": "matched",
+   "name": "Kalotermes (Glyptotermes) juddi",
+   "note": "",
+   "reference": "169-170",
+   "typeLocality": "Polynesia (French): Marquesas: Uahuka: Tehaeva: Hane Valley"
+  }
+ ],
+ "typeLocality": "Samoa: Upolu Island: Apia",
+ "version": "2026.11.21",
+ "zh": "黄唇树白蚁"
+}

@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-vulgaris.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, West Africa, East Africa, southern Africa, Angola, Namibia, South Africa, Eswatini, Zimbabwe",
+  "zh": "旧热带界西非、东非、非洲南部、安哥拉、纳米比亚、南非、斯威士兰、津巴布韦"
+ },
+ "isTypeSpecies": true,
+ "latin": "Odontotermes vulgaris",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-vulgaris/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes ( Termes ) vulgaris minor Fuller, 1922: 87",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "matched",
+   "name": "Termes (Termes) vulgaris minor",
+   "note": "",
+   "reference": "87",
+   "typeLocality": "South Africa: Natal: Stanger"
+  }
+ ],
+ "typeLocality": "South Africa: Natal",
+ "version": "2026.11.21",
+ "zh": "常见土白蚁"
+}

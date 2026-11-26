@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/caetetermes-fontesi.json",
+ "apiVersion": "1",
+ "authorship": "Scheffrahn, 2022",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "caetetermes",
+   "latin": "Caetetermes",
+   "zh": "林白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South America, French Guiana",
+  "zh": "南美洲、法属圭亚那"
+ },
+ "isTypeSpecies": false,
+ "latin": "Caetetermes fontesi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/caetetermes-fontesi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "French Guiana: Petit Saut [5.07N 53.032W]",
+ "version": "2026.11.21",
+ "zh": "丰特斯林白蚁"
+}

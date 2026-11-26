@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-longnanensis.json",
+ "apiVersion": "1",
+ "authorship": "Gao & Zhu, 1980",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "China (Gansu)",
+  "zh": "中国甘肃"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glyptotermes longnanensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-longnanensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Gansu Province: Wen Xian",
+ "version": "2026.11.21",
+ "zh": "陇南树白蚁"
+}

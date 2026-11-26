@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/dicuspiditermes-incola.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1893",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "dicuspiditermes",
+   "latin": "Dicuspiditermes",
+   "zh": "突扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "India, Sri Lanka",
+  "zh": "印度、斯里兰卡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Dicuspiditermes incola",
+ "pageUrl": "https://termite-extant-isoptera.org/species/dicuspiditermes-incola/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Capritermes longicornis Wasmann, 1902: 126-128",
+   "authorship": "Wasmann, 1902",
+   "localityAlignment": "unmatched",
+   "name": "Capritermes longicornis",
+   "note": "",
+   "reference": "126-128",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Dicuspiditermes pername Thakur & Chatterjee, 1971: 77-81",
+   "authorship": "Thakur & Chatterjee, 1971",
+   "localityAlignment": "unmatched",
+   "name": "Dicuspiditermes pername",
+   "note": "",
+   "reference": "77-81",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Sri Lanka: Colombo",
+ "version": "2026.11.21",
+ "zh": "栖息突扭白蚁"
+}

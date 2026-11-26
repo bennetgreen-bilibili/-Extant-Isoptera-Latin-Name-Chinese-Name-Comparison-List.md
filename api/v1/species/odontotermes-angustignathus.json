@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-angustignathus.json",
+ "apiVersion": "1",
+ "authorship": "Tsai & Chen, 1963",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Southeast Asia, Vietnam, China",
+  "zh": "东南亚越南、中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes angustignathus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-angustignathus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Yunnan Province: Cheli",
+ "version": "2026.11.21",
+ "zh": "细颚土白蚁"
+}

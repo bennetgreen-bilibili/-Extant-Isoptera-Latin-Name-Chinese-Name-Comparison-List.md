@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microtermes-cherberensis.json",
+ "apiVersion": "1",
+ "authorship": "Bacchus, 1997",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microtermes",
+   "latin": "Microtermes",
+   "zh": "小白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Kenya",
+  "zh": "肯尼亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microtermes cherberensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microtermes-cherberensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Kenya: Cheberen, 17 km from Tenges on road to Eldama Ravine",
+ "version": "2026.11.21",
+ "zh": "谢尔贝小白蚁"
+}

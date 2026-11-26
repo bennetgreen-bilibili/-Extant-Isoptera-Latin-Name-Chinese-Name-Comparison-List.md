@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-snyderi.json",
+ "apiVersion": "1",
+ "authorship": "Light, 1930",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes snyderi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-snyderi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "United States: California: Riverside Co.: Cabazon; California: San Bernardino Co.: Narrows; California: San Bernardino Co.: Rice; California: San Bernardino Co.: Victorville; California: San Diego Co.: San Felipe Ranch",
+ "version": "2026.11.21",
+ "zh": "斯奈德弓白蚁"
+}

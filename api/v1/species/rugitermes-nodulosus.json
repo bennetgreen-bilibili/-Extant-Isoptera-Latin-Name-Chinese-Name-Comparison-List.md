@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/rugitermes-nodulosus.json",
+ "apiVersion": "1",
+ "authorship": "Hagen, 1858",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "rugitermes",
+   "latin": "Rugitermes",
+   "zh": "皱白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": true,
+ "latin": "Rugitermes nodulosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/rugitermes-nodulosus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Minas Gerais: São João del Rei [ 21.1356S 44.2617W ]",
+ "version": "2026.11.21",
+ "zh": "结节皱白蚁"
+}

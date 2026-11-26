@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/bifiditermes-rogierae.json",
+ "apiVersion": "1",
+ "authorship": "Hollande, 1982",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "bifiditermes",
+   "latin": "Bifiditermes",
+   "zh": "双裂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Spain",
+  "zh": "西班牙"
+ },
+ "isTypeSpecies": false,
+ "latin": "Bifiditermes rogierae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/bifiditermes-rogierae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Canary Islands (Spain): Tenerife, Punta de Teno",
+ "version": "2026.11.21",
+ "zh": "罗吉尔双裂白蚁"
+}

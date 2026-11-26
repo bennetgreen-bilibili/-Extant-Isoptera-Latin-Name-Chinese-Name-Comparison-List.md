@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-elisae.json",
+ "apiVersion": "1",
+ "authorship": "Desneux, 1905",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Indonesia, Malaysia, Papua New Guinea",
+  "zh": "印度尼西亚、马来西亚、巴布亚新几内亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes elisae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-elisae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Coptotermes hyaloapex Holmgren, 1911: 457",
+   "authorship": "Holmgren, 1911",
+   "localityAlignment": "matched",
+   "name": "Coptotermes hyaloapex",
+   "note": "",
+   "reference": "457",
+   "typeLocality": "Papua New Guinea: Bukaua"
+  }
+ ],
+ "typeLocality": "Papua New Guinea: Simbang, Huon Gulf",
+ "version": "2026.11.21",
+ "zh": "瑞明乳白蚁"
+}

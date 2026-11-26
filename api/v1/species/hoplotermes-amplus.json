@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/hoplotermes-amplus.json",
+ "apiVersion": "1",
+ "authorship": "Light, 1933",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "hoplotermes",
+   "latin": "Hoplotermes",
+   "zh": "武白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central America and Caribbean, Mexico",
+  "zh": "中美洲及加勒比、墨西哥"
+ },
+ "isTypeSpecies": true,
+ "latin": "Hoplotermes amplus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/hoplotermes-amplus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Mexico: Colima State: Jala",
+ "version": "2026.11.21",
+ "zh": "广泛武白蚁"
+}

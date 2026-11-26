@@ -1,0 +1,91 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-brevicornis.json",
+ "apiVersion": "1",
+ "authorship": "Froggatt, 1897",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Australia, Fiji, New Zealand",
+  "zh": "澳大利亚、斐济、新西兰"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glyptotermes brevicornis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-brevicornis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Calotermes ( Glyptotermes ) affinis Mjöberg, 1920: 21-24",
+   "authorship": "Mjöberg, 1920",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Glyptotermes) affinis",
+   "note": "",
+   "reference": "21-24",
+   "typeLocality": "Australia: Queensland: Mt. Tambourine"
+  },
+  {
+   "asPublished": "Calotermes ( Glyptotermes ) trilineatus Mjöberg, 1920: 24-26",
+   "authorship": "Mjöberg, 1920",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Glyptotermes) trilineatus",
+   "note": "",
+   "reference": "24-26",
+   "typeLocality": "Australia: Queensland"
+  },
+  {
+   "asPublished": "Calotermes ( Glyptotermes ) dubius Mjöberg, 1920: 26-28",
+   "authorship": "Mjöberg, 1920",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Glyptotermes) dubius",
+   "note": "",
+   "reference": "26-28",
+   "typeLocality": "Australia: Northern Queensland"
+  },
+  {
+   "asPublished": "Calotermes ( Glyptotermes ) nigrolabrum Hill, 1921: 437-439",
+   "authorship": "Hill, 1921",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Glyptotermes) nigrolabrum",
+   "note": "",
+   "reference": "437-439",
+   "typeLocality": "Australia: Queensland: Palm Island"
+  },
+  {
+   "asPublished": "Calotermes ( Glyptotermes ) claripennis Hill, 1925: 212-214",
+   "authorship": "Hill, 1925",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Glyptotermes) claripennis",
+   "note": "",
+   "reference": "212-214",
+   "typeLocality": "Australia: Lord Howe Island"
+  },
+  {
+   "asPublished": "Calotermes ( Glyptotermes ) perangustus Hill, 1926: 199-201",
+   "authorship": "Hill, 1926",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Glyptotermes) perangustus",
+   "note": "",
+   "reference": "199-201",
+   "typeLocality": "Australia: New South Wales: Wauchope"
+  }
+ ],
+ "typeLocality": "Australia: Queensland: Mackay",
+ "version": "2026.11.21",
+ "zh": "短角树白蚁"
+}

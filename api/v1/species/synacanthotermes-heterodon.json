@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/synacanthotermes-heterodon.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1899",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "synacanthotermes",
+   "latin": "Synacanthotermes",
+   "zh": "聚刺白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central Africa, Cameroon, Central African Republic, Democratic Republic of the Congo",
+  "zh": "中非、喀麦隆、中非共和国、刚果民主共和国"
+ },
+ "isTypeSpecies": true,
+ "latin": "Synacanthotermes heterodon",
+ "pageUrl": "https://termite-extant-isoptera.org/species/synacanthotermes-heterodon/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cameroon: N’dian",
+ "version": "2026.11.21",
+ "zh": "异齿聚刺白蚁"
+}

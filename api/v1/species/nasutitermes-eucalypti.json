@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-eucalypti.json",
+ "apiVersion": "1",
+ "authorship": "Mjöberg, 1920",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes eucalypti",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-eucalypti/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes fieldi Hill, 1923: 43-46",
+   "authorship": "Hill, 1923",
+   "localityAlignment": "matched",
+   "name": "Eutermes fieldi",
+   "note": "",
+   "reference": "43-46",
+   "typeLocality": "Australia: Northern Territory: Tennant Creek"
+  }
+ ],
+ "typeLocality": "Australia: Western Australia: Kimberley District",
+ "version": "2026.11.21",
+ "zh": "桉树象白蚁"
+}

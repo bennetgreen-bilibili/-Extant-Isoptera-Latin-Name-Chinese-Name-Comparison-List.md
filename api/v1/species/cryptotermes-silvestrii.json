@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-silvestrii.json",
+ "apiVersion": "1",
+ "authorship": "Bacchus, 1987",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Congo, Democratic Republic of the Congo, Nigeria",
+  "zh": "刚果、刚果民主共和国、尼日利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes silvestrii",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-silvestrii/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Nigeria: Nkpoku",
+ "version": "2026.11.21",
+ "zh": "西尔韦斯特里堆砂白蚁"
+}

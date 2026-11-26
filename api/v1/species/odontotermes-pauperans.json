@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-pauperans.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1912",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Côte d'Ivoire, Senegal, Nigeria, Gambia, Ghana, Guinea, Guinea-Bissau",
+  "zh": "西非科特迪瓦、塞内加尔、尼日利亚、冈比亚、加纳、几内亚、几内亚比绍"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes pauperans",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-pauperans/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guinea Bissau: Bissau",
+ "version": "2026.11.21",
+ "zh": "小贫土白蚁"
+}

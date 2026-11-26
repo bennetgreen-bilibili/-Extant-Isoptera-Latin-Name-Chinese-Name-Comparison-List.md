@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/globitermes-sulphureus.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "globitermes",
+   "latin": "Globitermes",
+   "zh": "球白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "mainland Southeast Asia, Indochinese Peninsula, insular Southeast Asia, Malay Archipelago, China",
+  "zh": "东南亚大陆、中南半岛、东南亚岛屿、南洋群岛、中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Globitermes sulphureus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/globitermes-sulphureus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes annamensis Desneux, 1904: 148",
+   "authorship": "Desneux, 1904",
+   "localityAlignment": "matched",
+   "name": "Termes annamensis",
+   "note": "",
+   "reference": "148",
+   "typeLocality": "Vietnam: ?"
+  },
+  {
+   "asPublished": "Globitermes audax Silvestri, 1914: 432-434",
+   "authorship": "Silvestri, 1914",
+   "localityAlignment": "matched",
+   "name": "Globitermes audax",
+   "note": "",
+   "reference": "432-434",
+   "typeLocality": "Myanmar: Moulmein"
+  },
+  {
+   "asPublished": "Amitermes ( Globitermes ) birmanicus Snyder, 1934: 17-18",
+   "authorship": "Snyder, 1934",
+   "localityAlignment": "matched",
+   "name": "Amitermes (Globitermes) birmanicus",
+   "note": "",
+   "reference": "17-18",
+   "typeLocality": "Myanmar: West Salween: Zibyaung"
+  }
+ ],
+ "typeLocality": "Malaysia: Selangor: Perak",
+ "version": "2026.11.21",
+ "zh": "黄球白蚁"
+}

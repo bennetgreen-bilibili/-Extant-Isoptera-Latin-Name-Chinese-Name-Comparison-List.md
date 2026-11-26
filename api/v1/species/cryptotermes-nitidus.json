@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-nitidus.json",
+ "apiVersion": "1",
+ "authorship": "Gay & Watson, 1982",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes nitidus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-nitidus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Australia: Queensland, 8 km NE Goondivindi",
+ "version": "2026.11.21",
+ "zh": "亮头堆砂白蚁"
+}

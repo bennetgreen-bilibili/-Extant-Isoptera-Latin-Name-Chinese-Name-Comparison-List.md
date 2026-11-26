@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/trinervitermes-togoensis.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1899",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "trinervitermes",
+   "latin": "Trinervitermes",
+   "zh": "三脉白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Côte d'Ivoire, Senegal, Togo, Burkina Faso, India, Niger, Benin, Eritrea, Ethiopia, Ghana, Guinea, Mali, Nigeria, Sierra Leone, Sudan, Uganda",
+  "zh": "科特迪瓦、塞内加尔、多哥、布基纳法索、印度、尼日尔、贝宁、厄立特里亚、埃塞俄比亚、加纳、几内亚、马里、尼日利亚、塞拉利昂、苏丹、乌干达"
+ },
+ "isTypeSpecies": false,
+ "latin": "Trinervitermes togoensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/trinervitermes-togoensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes terricola Trägårdh, 1904: 31-33",
+   "authorship": "Trägårdh, 1904",
+   "localityAlignment": "matched",
+   "name": "Eutermes terricola",
+   "note": "",
+   "reference": "31-33",
+   "typeLocality": "Sudan: Kaka"
+  },
+  {
+   "asPublished": "Trinervitermes nigeriensis Sjöstedt, 1926: 332-333",
+   "authorship": "Sjöstedt, 1926",
+   "localityAlignment": "matched",
+   "name": "Trinervitermes nigeriensis",
+   "note": "",
+   "reference": "332-333",
+   "typeLocality": "Mali: Belia"
+  }
+ ],
+ "typeLocality": "Ghana: Ho",
+ "version": "2026.11.21",
+ "zh": "多哥兰三脉白蚁"
+}

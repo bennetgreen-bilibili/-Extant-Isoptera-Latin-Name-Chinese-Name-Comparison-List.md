@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/prorhinotermes-xishaensis.json",
+ "apiVersion": "1",
+ "authorship": "Li & Tsai, 1976",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "psammotermitidae",
+   "latin": "Psammotermitidae",
+   "zh": "沙白蚁科"
+  },
+  "genus": {
+   "id": "prorhinotermes",
+   "latin": "Prorhinotermes",
+   "zh": "原鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "China, Xisha Islands",
+  "zh": "中国、西沙群岛"
+ },
+ "isTypeSpecies": false,
+ "latin": "Prorhinotermes xishaensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/prorhinotermes-xishaensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Xisha Island",
+ "version": "2026.11.21",
+ "zh": "西沙原鼻白蚁"
+}

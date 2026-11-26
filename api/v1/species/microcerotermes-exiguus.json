@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-exiguus.json",
+ "apiVersion": "1",
+ "authorship": "Hagen, 1858",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Neotropics, Costa Rica, Brazil, Colombia, Venezuela, French Guiana, Guatemala, Nicaragua, Panama, Paraguay, Peru, Trinidad and Tobago",
+  "zh": "新热带界、哥斯达黎加、巴西、哥伦比亚、委内瑞拉、法属圭亚那、危地马拉、尼加拉瓜、巴拿马、巴拉圭、秘鲁、特立尼达和多巴哥"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes exiguus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-exiguus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Pará: Santarém [ 2.43917S 54.705W ]",
+ "version": "2026.11.21",
+ "zh": "微小锯白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/psammotermes-rajasthanicus.json",
+ "apiVersion": "1",
+ "authorship": "Roonwal & Bose, 1960",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "psammotermitidae",
+   "latin": "Psammotermitidae",
+   "zh": "沙白蚁科"
+  },
+  "genus": {
+   "id": "psammotermes",
+   "latin": "Psammotermes",
+   "zh": "沙白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "northwestern India, Pakistan, Iran",
+  "zh": "印度西北部、巴基斯坦、伊朗"
+ },
+ "isTypeSpecies": false,
+ "latin": "Psammotermes rajasthanicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/psammotermes-rajasthanicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Rajasthan: Jaisalmer District, about 20 miles east of Mohangarh, Balana",
+ "version": "2026.11.21",
+ "zh": "拉贾斯坦沙白蚁"
+}

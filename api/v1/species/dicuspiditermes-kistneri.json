@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/dicuspiditermes-kistneri.json",
+ "apiVersion": "1",
+ "authorship": "Krishna, 2001",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "dicuspiditermes",
+   "latin": "Dicuspiditermes",
+   "zh": "突扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Malaysia, Singapore",
+  "zh": "马来西亚、新加坡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Dicuspiditermes kistneri",
+ "pageUrl": "https://termite-extant-isoptera.org/species/dicuspiditermes-kistneri/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malaysia: Selangor: Semangkok Forest Reserve",
+ "version": "2026.11.21",
+ "zh": "基斯特纳突扭白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/dolichorhinotermes-neli.json",
+ "apiVersion": "1",
+ "authorship": "Ensaf & Betsch, 2002",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "dolichorhinotermes",
+   "latin": "Dolichorhinotermes",
+   "zh": "狭鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "French Guiana",
+  "zh": "法属圭亚那"
+ },
+ "isTypeSpecies": false,
+ "latin": "Dolichorhinotermes neli",
+ "pageUrl": "https://termite-extant-isoptera.org/species/dolichorhinotermes-neli/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "French Guiana: Route de Cacao, 1.2 km avant Bellevue [ 4.548N 52.4915W ]",
+ "version": "2026.11.21",
+ "zh": "内尔狭鼻白蚁"
+}

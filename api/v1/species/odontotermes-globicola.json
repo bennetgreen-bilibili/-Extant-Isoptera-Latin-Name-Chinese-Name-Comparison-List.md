@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-globicola.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1902",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Asia, India, Pakistan, Sri Lanka",
+  "zh": "南亚印度、巴基斯坦、斯里兰卡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes globicola",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-globicola/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes ( Termes ) dehraduni Snyder, 1933: 6-7",
+   "authorship": "Snyder, 1933",
+   "localityAlignment": "matched",
+   "name": "Termes (Termes) dehraduni",
+   "note": "",
+   "reference": "6-7",
+   "typeLocality": "India: Uttarakhand: Dehra Dun"
+  },
+  {
+   "asPublished": "Odontotermes roonwali Bose, 1975: 157-161",
+   "authorship": "Bose, 1975",
+   "localityAlignment": "matched",
+   "name": "Odontotermes roonwali",
+   "note": "",
+   "reference": "157-161",
+   "typeLocality": "India: Kerala: Malabar: Nilambur"
+  }
+ ],
+ "typeLocality": "Sri Lanka: Anurhadhapura",
+ "version": "2026.11.21",
+ "zh": "栖球土白蚁"
+}

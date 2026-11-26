@@ -1,0 +1,64 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/reticulitermes-flavipes.json",
+ "apiVersion": "1",
+ "authorship": "Kollar, 1837",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "reticulitermes",
+   "latin": "Reticulitermes",
+   "zh": "散白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "eastern North America, eastern United States, southeastern Canada, introduced to Europe through trade, Guatemala, Austria, Bahamas, Chile, France, Germany, Uruguay",
+  "zh": "北美东部、美国东部、加拿大东南部、随贸易引入欧洲、危地马拉、奥地利、巴哈马、智利、法国、德国、乌拉圭"
+ },
+ "isTypeSpecies": true,
+ "latin": "Reticulitermes flavipes",
+ "pageUrl": "https://termite-extant-isoptera.org/species/reticulitermes-flavipes/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes frontalis Haldeman, 1844: 55",
+   "authorship": "Haldeman, 1844",
+   "localityAlignment": "matched",
+   "name": "Termes frontalis",
+   "note": "",
+   "reference": "55",
+   "typeLocality": "United States: Pennsylvania"
+  },
+  {
+   "asPublished": "Reticulitermes claripennis Banks, 1920: 47",
+   "authorship": "Banks, 1920",
+   "localityAlignment": "matched",
+   "name": "Reticulitermes claripennis",
+   "note": "",
+   "reference": "47",
+   "typeLocality": "United States: Texas: Beaumont"
+  },
+  {
+   "asPublished": "Reticulitermes flavipes santonensis Feytaud, 1950: 380-381",
+   "authorship": "Feytaud, 1950",
+   "localityAlignment": "matched",
+   "name": "Reticulitermes flavipes santonensis",
+   "note": "",
+   "reference": "380-381",
+   "typeLocality": "France: La Rochelle"
+  }
+ ],
+ "typeLocality": "Austria: Schönbrunn",
+ "version": "2026.11.21",
+ "zh": "北美散白蚁"
+}

@@ -1,0 +1,64 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/bifiditermes-improbus.json",
+ "apiVersion": "1",
+ "authorship": "Hagen, 1858",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "bifiditermes",
+   "latin": "Bifiditermes",
+   "zh": "双裂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Australia, New Zealand",
+  "zh": "澳大利亚、新西兰"
+ },
+ "isTypeSpecies": false,
+ "latin": "Bifiditermes improbus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/bifiditermes-improbus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Calotermes ( Calotermes ) condonensis Hill, 1922: 275-277",
+   "authorship": "Hill, 1922",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Calotermes) condonensis",
+   "note": "",
+   "reference": "275-277",
+   "typeLocality": "Australia: Western Australia, near Condon"
+  },
+  {
+   "asPublished": "Calotermes ( Calotermes ) oldfieldi Hill, 1925: 207-208",
+   "authorship": "Hill, 1925",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Calotermes) oldfieldi",
+   "note": "",
+   "reference": "207-208",
+   "typeLocality": "Australia: Victoria: Kiata"
+  },
+  {
+   "asPublished": "Calotermes ( Calotermes ) oldfieldi chryseus Hill, 1926: 201-202",
+   "authorship": "Hill, 1926",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Calotermes) oldfieldi chryseus",
+   "note": "",
+   "reference": "201-202",
+   "typeLocality": "Australia: New South Wales: Brooklana"
+  }
+ ],
+ "typeLocality": "Australia: Tasmania",
+ "version": "2026.11.21",
+ "zh": "不诚双裂白蚁"
+}

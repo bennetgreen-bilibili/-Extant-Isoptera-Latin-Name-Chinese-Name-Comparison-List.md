@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/anoplotermes-meridianus.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1925",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "anoplotermes",
+   "latin": "Anoplotermes",
+   "zh": "解甲白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Amazon region, southeastern South America, Central America and Caribbean",
+  "zh": "巴西、亚马孙地区、南美东南部、中美洲及加勒比"
+ },
+ "isTypeSpecies": false,
+ "latin": "Anoplotermes meridianus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/anoplotermes-meridianus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Argentina: Buenos Aires: Núñez [ 34.55S 58.45W ]; Buenos Aires: Temperley [ 34.7833S 58.4W ]; Buenos Aires: Villa Catalinas [ 34.579S 58.4956W ]; Córdoba: Cernadas (old train station) [ 34.2264S 62.878W ]; Entre Ríos: Chajarí [ 30.7667S 57.9833W ]; Santa Fé: Sunchales [ 30.9333S 61.5667W ]; Paraguay: Paraguari: Paraguari [ 25.6333S 57.15W ]; Uruguay: Maldonado: La Sierra [ 34.7667S 55.4167W ]",
+ "version": "2026.11.21",
+ "zh": "南方解甲白蚁"
+}

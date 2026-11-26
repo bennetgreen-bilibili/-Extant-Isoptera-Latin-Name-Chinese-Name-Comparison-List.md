@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/heterotermes-pamatatensis.json",
+ "apiVersion": "1",
+ "authorship": "Kemner, 1934",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "heterotermes",
+   "latin": "Heterotermes",
+   "zh": "异白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Indonesia, Indonesia",
+  "zh": "印尼、印度尼西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Heterotermes pamatatensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/heterotermes-pamatatensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Indonesia: Saleier Islands: Pamatata",
+ "version": "2026.11.21",
+ "zh": "帕玛塔塔异白蚁"
+}

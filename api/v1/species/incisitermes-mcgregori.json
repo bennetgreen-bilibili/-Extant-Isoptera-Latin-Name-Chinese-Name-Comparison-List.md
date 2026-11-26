@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/incisitermes-mcgregori.json",
+ "apiVersion": "1",
+ "authorship": "Light, 1921",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "incisitermes",
+   "latin": "Incisitermes",
+   "zh": "楹白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Philippines",
+  "zh": "菲律宾"
+ },
+ "isTypeSpecies": false,
+ "latin": "Incisitermes mcgregori",
+ "pageUrl": "https://termite-extant-isoptera.org/species/incisitermes-mcgregori/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Philippines: Luzon: Rizal Province: Culi Culi, near Manila",
+ "version": "2026.11.21",
+ "zh": "麦格雷戈楹白蚁"
+}

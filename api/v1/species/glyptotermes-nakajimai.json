@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-nakajimai.json",
+ "apiVersion": "1",
+ "authorship": "Morimoto, 1973",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Japan, South Korea",
+  "zh": "日本、韩国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glyptotermes nakajimai",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-nakajimai/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Glyptotermes kodamai Mori, 1976: 54",
+   "authorship": "Mori, 1976",
+   "localityAlignment": "matched",
+   "name": "Glyptotermes kodamai",
+   "note": "",
+   "reference": "54",
+   "typeLocality": "Japan: Kyushu: Miyazaki Prefecture: Kushima City"
+  },
+  {
+   "asPublished": "Glyptotermes kushimensis Mori, 1978: 34-35",
+   "authorship": "Mori, 1978",
+   "localityAlignment": "matched",
+   "name": "Glyptotermes kushimensis",
+   "note": "",
+   "reference": "34-35",
+   "typeLocality": "Japan: Honshu: Wakayama Prefecture: Kushimoto"
+  }
+ ],
+ "typeLocality": "Japan: Kochi Prefecture: Cape Ashizuri",
+ "version": "2026.11.21",
+ "zh": "中岛树白蚁"
+}

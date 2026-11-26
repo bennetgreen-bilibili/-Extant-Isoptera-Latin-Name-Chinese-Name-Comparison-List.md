@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/apicotermes-lamani.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1924",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "apicotermes",
+   "latin": "Apicotermes",
+   "zh": "尖白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Angola, Congo, Democratic Republic of the Congo, Tanzania",
+  "zh": "安哥拉、刚果、刚果民主共和国、坦桑尼亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Apicotermes lamani",
+ "pageUrl": "https://termite-extant-isoptera.org/species/apicotermes-lamani/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Congo: Madzia-District, 55 km west of Brazzaville",
+ "version": "2026.11.21",
+ "zh": "拉曼尖白蚁"
+}

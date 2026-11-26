@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-acutus.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1913",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Indonesia, Malaysia",
+  "zh": "印度尼西亚、马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes acutus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-acutus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Eutermes) buitenzorgi Holmgren, 1914: 263-264",
+   "authorship": "Holmgren, 1914",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Eutermes) buitenzorgi",
+   "note": "",
+   "reference": "263-264",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes (Eutermes) pengarensis Oshima, 1914: 39-40",
+   "authorship": "Oshima, 1914",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Eutermes) pengarensis",
+   "note": "",
+   "reference": "39-40",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Indonesia: Java: Wonosobo",
+ "version": "2026.11.21",
+ "zh": "尖锐象白蚁"
+}

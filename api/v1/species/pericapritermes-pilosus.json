@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/pericapritermes-pilosus.json",
+ "apiVersion": "1",
+ "authorship": "Bourguignon & Roisin, 2008",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "pericapritermes",
+   "latin": "Pericapritermes",
+   "zh": "近扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Papua New Guinea",
+  "zh": "巴布亚新几内亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Pericapritermes pilosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/pericapritermes-pilosus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Papua New Guinea: Southern Highlands: Pimaga",
+ "version": "2026.11.21",
+ "zh": "毛多近扭白蚁"
+}

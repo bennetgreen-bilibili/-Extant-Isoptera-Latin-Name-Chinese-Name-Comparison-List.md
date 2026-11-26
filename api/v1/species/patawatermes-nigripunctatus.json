@@ -1,0 +1,91 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/patawatermes-nigripunctatus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": "Anoplotermes nigripunctatus Emerson, 1925",
+   "accepted_latin": "Anoplotermes nigripunctatus",
+   "accepted_url": "https://www.gbif.org/species/9339653",
+   "confidence": 100,
+   "direction": "site",
+   "disputed": true,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "conflict",
+   "kind": "synonym",
+   "latin": "Patawatermes nigripunctatus",
+   "match": "EXACT",
+   "note": "",
+   "rank": "种",
+   "receiving_latin": "Patawatermes nigripunctatus",
+   "recordable": false,
+   "recorded": false,
+   "relation": "combination",
+   "slug": "patawatermes-nigripunctatus",
+   "source": "gbif",
+   "theirs": "Patawatermes nigripunctatus (Emerson, 1925)",
+   "url": "https://www.gbif.org/species/11048620",
+   "verified": false,
+   "zh": "黑点帕塔瓦白蚁"
+  }
+ ],
+ "authorityReview": {
+  "incoming": [],
+  "latin": "Patawatermes nigripunctatus",
+  "outgoing": [
+   {
+    "direction": "site",
+    "disputed": true,
+    "latin": "Anoplotermes nigripunctatus",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/9339653"
+     }
+    ],
+    "name": "Anoplotermes nigripunctatus Emerson, 1925",
+    "relation": "combination",
+    "sources": [
+     "gbif"
+    ]
+   }
+  ],
+  "zh": "黑点帕塔瓦白蚁"
+ },
+ "authorship": "Emerson, 1925",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "patawatermes",
+   "latin": "Patawatermes",
+   "zh": "帕塔瓦白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South America, Colombia, French Guiana, Ecuador, Brazil, Bolivia, Peru, Trinidad and Tobago",
+  "zh": "南美洲、哥伦比亚、法属圭亚那、厄瓜多尔、巴西、玻利维亚、秘鲁、特立尼达和多巴哥"
+ },
+ "isTypeSpecies": false,
+ "latin": "Patawatermes nigripunctatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/patawatermes-nigripunctatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]",
+ "version": "2026.11.21",
+ "zh": "黑点帕塔瓦白蚁"
+}

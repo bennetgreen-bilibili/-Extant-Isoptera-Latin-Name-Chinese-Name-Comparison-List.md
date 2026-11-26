@@ -1,0 +1,131 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/trinervitermes-trinervoides.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "trinervitermes",
+   "latin": "Trinervitermes",
+   "zh": "三脉白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Africa, Namibia, Democratic Republic of the Congo (Kinshasa), Democratic Republic of the Congo (Kinshasa), Lesotho, Mozambique, Eswatini, Zimbabwe",
+  "zh": "南非、纳米比亚、刚果（金）、刚果民主共和国、莱索托、莫桑比克、斯威士兰、津巴布韦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Trinervitermes trinervoides",
+ "pageUrl": "https://termite-extant-isoptera.org/species/trinervitermes-trinervoides/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Trinervitermes) auriceps Holmgren, 1913: 338-339",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Trinervitermes) auriceps",
+   "note": "",
+   "reference": "338-339",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes (Trinervitermes) trinerviformis Holmgren, 1913: 336-337",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Trinervitermes) trinerviformis",
+   "note": "",
+   "reference": "336-337",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes (Trinervitermes) dubius Holmgren, 1913: 339-340",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Trinervitermes) dubius",
+   "note": "",
+   "reference": "339-340",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes hentschelianus Sjöstedt, 1914: 88-91",
+   "authorship": "Sjöstedt, 1914",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes hentschelianus",
+   "note": "",
+   "reference": "88-91",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Trinervitermes kurumanensis Fuller, 1922: 113",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "unmatched",
+   "name": "Trinervitermes kurumanensis",
+   "note": "",
+   "reference": "113",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Trinervitermes gemellus thomseni Fuller, 1922: 111",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "unmatched",
+   "name": "Trinervitermes gemellus thomseni",
+   "note": "",
+   "reference": "111",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Trinervitermes havilandi Fuller, 1922: 113",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "unmatched",
+   "name": "Trinervitermes havilandi",
+   "note": "",
+   "reference": "113",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Trinervitermes fuscus Fuller, 1922: 113",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "unmatched",
+   "name": "Trinervitermes fuscus",
+   "note": "",
+   "reference": "113",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes (Trinervitermes) messor Sjöstedt, 1924: 257",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Trinervitermes) messor",
+   "note": "",
+   "reference": "257",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Trinervitermes hilli Snyder, 1949: 327",
+   "authorship": "Snyder, 1949",
+   "localityAlignment": "unmatched",
+   "name": "Trinervitermes hilli",
+   "note": "",
+   "reference": "327",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "South Africa: Cape Province: Laingsburg",
+ "version": "2026.11.21",
+ "zh": "似三脉三脉白蚁"
+}

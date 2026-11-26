@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/schedorhinotermes-sanctaecrucis.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1925",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "schedorhinotermes",
+   "latin": "Schedorhinotermes",
+   "zh": "长鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Solomon Islands",
+  "zh": "所罗门群岛"
+ },
+ "isTypeSpecies": false,
+ "latin": "Schedorhinotermes sanctaecrucis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/schedorhinotermes-sanctaecrucis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Solomon Islands: Santa Cruz Archipelago: Graciosa Bay",
+ "version": "2026.11.21",
+ "zh": "圣克鲁斯长鼻白蚁"
+}

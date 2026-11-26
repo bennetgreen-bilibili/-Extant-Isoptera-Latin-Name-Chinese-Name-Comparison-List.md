@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/armitermes-bidentatus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Armitermes bidentatus",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "armitermes-bidentatus",
+   "source": "gbif",
+   "theirs": "Armitermes Wasmann, 1897",
+   "url": null,
+   "verified": false,
+   "zh": "双齿戟白蚁"
+  }
+ ],
+ "authorship": "Rocha & Cancello, 2012",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "armitermes",
+   "latin": "Armitermes",
+   "zh": "戟白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Armitermes bidentatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/armitermes-bidentatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Goiás: Cristianópolis [17.1992S 48.7058W]",
+ "version": "2026.11.21",
+ "zh": "双齿戟白蚁"
+}

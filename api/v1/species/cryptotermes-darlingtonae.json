@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-darlingtonae.json",
+ "apiVersion": "1",
+ "authorship": "Scheffrahn & Krecek, 1999",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Caribbean, Guadeloupe, Saint Lucia",
+  "zh": "加勒比、瓜德罗普、圣卢西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes darlingtonae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-darlingtonae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Dominica: Springfield Station",
+ "version": "2026.11.21",
+ "zh": "达林顿堆砂白蚁"
+}

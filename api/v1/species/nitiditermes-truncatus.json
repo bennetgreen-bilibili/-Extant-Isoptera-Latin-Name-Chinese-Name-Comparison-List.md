@@ -1,0 +1,71 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nitiditermes-truncatus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Nitiditermes truncatus",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "nitiditermes-truncatus",
+   "source": "gbif",
+   "theirs": "Nitiditermes Emerson, 1960",
+   "url": null,
+   "verified": false,
+   "zh": "伤残净白蚁"
+  }
+ ],
+ "authorship": "Holmgren, 1913",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nitiditermes",
+   "latin": "Nitiditermes",
+   "zh": "净白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Africa",
+  "zh": "南非"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nitiditermes truncatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nitiditermes-truncatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Mirotermes ( Cubitermes ) duplex nduma Fuller, 1925: 205",
+   "authorship": "Fuller, 1925",
+   "localityAlignment": "matched",
+   "name": "Mirotermes (Cubitermes) duplex nduma",
+   "note": "",
+   "reference": "205",
+   "typeLocality": "South Africa: Natal: Pongolo River, near Nduma"
+  }
+ ],
+ "typeLocality": "South Africa: Zululand",
+ "version": "2026.11.21",
+ "zh": "伤残净白蚁"
+}

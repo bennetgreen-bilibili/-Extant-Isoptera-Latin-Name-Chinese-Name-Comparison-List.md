@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/bicornitermes-emersoni.json",
+ "apiVersion": "1",
+ "authorship": "Krishna, 1962",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "bicornitermes",
+   "latin": "Bicornitermes",
+   "zh": "双角白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Democratic Republic of the Congo",
+  "zh": "刚果民主共和国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Bicornitermes emersoni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/bicornitermes-emersoni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Kinshasa (Leopoldville)",
+ "version": "2026.11.21",
+ "zh": "埃默森双角白蚁"
+}

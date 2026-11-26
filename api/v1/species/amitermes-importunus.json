@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-importunus.json",
+ "apiVersion": "1",
+ "authorship": "Sands, 1959",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Malawi, Zambia, Zimbabwe",
+  "zh": "马拉维、赞比亚、津巴布韦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes importunus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-importunus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malawi: Central Province: 53 km from Kasungu on the Lilongwe Road",
+ "version": "2026.11.21",
+ "zh": "粗鲁弓白蚁"
+}

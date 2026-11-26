@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cavitermes-tuberosus.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1925",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "cavitermes",
+   "latin": "Cavitermes",
+   "zh": "腔白蚁属"
+  },
+  "subfamily": {
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, French Guiana, Colombia, Trinidad and Tobago, Bolivia, Guyana, Ecuador, Venezuela",
+  "zh": "巴西、法属圭亚那、哥伦比亚、特立尼达和多巴哥、玻利维亚、圭亚那、厄瓜多尔、委内瑞拉"
+ },
+ "isTypeSpecies": true,
+ "latin": "Cavitermes tuberosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cavitermes-tuberosus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guyana: Cuyuni-Mazaruni: Barakara [6.3833N 58.6667W]",
+ "version": "2026.11.21",
+ "zh": "肉瘤腔白蚁"
+}

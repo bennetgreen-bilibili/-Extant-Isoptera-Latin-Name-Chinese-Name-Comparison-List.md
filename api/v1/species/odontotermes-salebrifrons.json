@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-salebrifrons.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1904",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central Africa, Democratic Republic of the Congo, East Africa, Uganda, Kenya, Tanzania, Somalia",
+  "zh": "中非刚果民主共和国、东非乌干达、肯尼亚、坦桑尼亚、索马里"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes salebrifrons",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-salebrifrons/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Somalia: Djibouti",
+ "version": "2026.11.21",
+ "zh": "糙额土白蚁"
+}

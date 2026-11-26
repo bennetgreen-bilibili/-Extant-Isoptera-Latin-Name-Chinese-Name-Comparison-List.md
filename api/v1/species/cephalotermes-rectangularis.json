@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cephalotermes-rectangularis.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1899",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "cephalotermes",
+   "latin": "Cephalotermes",
+   "zh": "头白蚁属"
+  },
+  "subfamily": {
+   "id": "cylindrotermitinae",
+   "latin": "Cylindrotermitinae",
+   "zh": "圆筒白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, West Africa, Central Africa, Benin, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Guinea, Côte d'Ivoire, Liberia, Nigeria, São Tomé and Príncipe, Tanzania, Uganda",
+  "zh": "旧热带界、西非、中非、贝宁、喀麦隆、刚果、刚果民主共和国、加蓬、几内亚、科特迪瓦、利比里亚、尼日利亚、圣多美和普林西比、坦桑尼亚、乌干达"
+ },
+ "isTypeSpecies": true,
+ "latin": "Cephalotermes rectangularis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cephalotermes-rectangularis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cameroon: Mungo River",
+ "version": "2026.11.21",
+ "zh": "直角头白蚁"
+}

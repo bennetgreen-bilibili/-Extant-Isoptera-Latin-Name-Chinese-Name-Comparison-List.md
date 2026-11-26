@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-beesoni.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1933",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Asia, India, Bangladesh, Bhutan, Pakistan",
+  "zh": "南亚、印度、孟加拉国、不丹、巴基斯坦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes beesoni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-beesoni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Microcerotermes championi Snyder, 1933: 14-15",
+   "authorship": "Snyder, 1933",
+   "localityAlignment": "matched",
+   "name": "Microcerotermes championi",
+   "note": "",
+   "reference": "14-15",
+   "typeLocality": "India: Uttarakhand: Kumaon: Haldwani District"
+  },
+  {
+   "asPublished": "Microcerotermes lanceolatus Mathur & Thapa, 1965: 4-5",
+   "authorship": "Mathur & Thapa, 1965",
+   "localityAlignment": "matched",
+   "name": "Microcerotermes lanceolatus",
+   "note": "",
+   "reference": "4-5",
+   "typeLocality": "India: Assam: Central Range: Goalpara Division"
+  }
+ ],
+ "typeLocality": "India: Uttarakhand: Haldwani: Chakrata Range",
+ "version": "2026.11.21",
+ "zh": "比森锯白蚁"
+}

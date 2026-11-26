@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-chacoensis.json",
+ "apiVersion": "1",
+ "authorship": "Roisin, 2003",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Paraguay, Argentina, Bolivia",
+  "zh": "巴拉圭、阿根廷、玻利维亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes chacoensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-chacoensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Argentina: Formosa: Parque Nacional Pilcomayo [ 25.046S 58.0594W ]",
+ "version": "2026.11.21",
+ "zh": "查科堆砂白蚁"
+}

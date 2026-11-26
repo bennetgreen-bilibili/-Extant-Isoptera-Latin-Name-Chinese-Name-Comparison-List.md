@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-okahandjae.json",
+ "apiVersion": "1",
+ "authorship": "Fuller, 1922",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "southern Africa, Namibia",
+  "zh": "非洲南部纳米比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes okahandjae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-okahandjae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Namibia: Okahandja",
+ "version": "2026.11.21",
+ "zh": "奥卡汉贾土白蚁"
+}

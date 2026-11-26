@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-luzonicus.json",
+ "apiVersion": "1",
+ "authorship": "Oshima, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Indonesia, Guam (USA), Malaysia, Philippines",
+  "zh": "印度尼西亚、关岛（美）、马来西亚、菲律宾"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes luzonicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-luzonicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Trinervitermes) menadoensis Oshima, 1914: 44-46",
+   "authorship": "Oshima, 1914",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Trinervitermes) menadoensis",
+   "note": "",
+   "reference": "44-46",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes (Eutermes) manilensis Oshima, 1916: 363-364",
+   "authorship": "Oshima, 1916",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Eutermes) manilensis",
+   "note": "",
+   "reference": "363-364",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes (Eutermes) laspinasensis Oshima, 1920: 503-504",
+   "authorship": "Oshima, 1920",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Eutermes) laspinasensis",
+   "note": "",
+   "reference": "503-504",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Philippines: Luzon: Los Banos",
+ "version": "2026.11.21",
+ "zh": "吕宋象白蚁"
+}

@@ -1,0 +1,39 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/pseudacanthotermes-militaris-laticeps.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1905",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "pseudacanthotermes",
+   "latin": "Pseudacanthotermes",
+   "zh": "伪刺白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "latin": "Pseudacanthotermes militaris laticeps",
+ "pageUrl": "https://termite-extant-isoptera.org/species/pseudacanthotermes-militaris-laticeps/",
+ "parent": {
+  "latin": "Pseudacanthotermes militaris",
+  "slug": "pseudacanthotermes-militaris",
+  "zh": "好斗伪刺白蚁"
+ },
+ "rank": "subspecies",
+ "synonyms": [],
+ "typeLocality": "Sierra Leone: ?",
+ "version": "2026.11.21",
+ "zh": "宽头亚种"
+}

@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/eurytermes-assmuthi.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1902",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "eurytermes",
+   "latin": "Eurytermes",
+   "zh": "宽白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Asia, India",
+  "zh": "南亚、印度"
+ },
+ "isTypeSpecies": true,
+ "latin": "Eurytermes assmuthi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/eurytermes-assmuthi/",
+ "rank": "species",
+ "subspecies": [
+  {
+   "authorship": "Wasmann, 1902",
+   "latin": "Eurytermes assmuthi assmuthi",
+   "pageUrl": "https://termite-extant-isoptera.org/species/eurytermes-assmuthi-assmuthi/",
+   "slug": "eurytermes-assmuthi-assmuthi",
+   "zh": "指名亚种"
+  },
+  {
+   "authorship": "Silvestri, 1923",
+   "latin": "Eurytermes assmuthi modestior",
+   "pageUrl": "https://termite-extant-isoptera.org/species/eurytermes-assmuthi-modestior/",
+   "slug": "eurytermes-assmuthi-modestior",
+   "zh": "温和亚种"
+  }
+ ],
+ "synonyms": [],
+ "typeLocality": "India: Maharashtra: Khandala, near Bombay",
+ "version": "2026.11.21",
+ "zh": "阿斯穆斯宽白蚁"
+}

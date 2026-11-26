@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/dentispicotermes-conjunctus.json",
+ "apiVersion": "1",
+ "authorship": "Araujo, 1969",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "dentispicotermes",
+   "latin": "Dentispicotermes",
+   "zh": "齿尖白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Dentispicotermes conjunctus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/dentispicotermes-conjunctus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Minas Gerais: Poços de Caldas [ 21.7878S 46.5614W ]",
+ "version": "2026.11.21",
+ "zh": "邻近齿尖白蚁"
+}

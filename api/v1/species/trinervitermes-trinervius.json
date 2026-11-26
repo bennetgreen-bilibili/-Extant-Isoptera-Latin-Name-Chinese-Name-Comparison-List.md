@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/trinervitermes-trinervius.json",
+ "apiVersion": "1",
+ "authorship": "Rambur, 1842",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "trinervitermes",
+   "latin": "Trinervitermes",
+   "zh": "三脉白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Senegal, Côte d'Ivoire, Burkina Faso, Nigeria, South Africa, Gambia, Central Africa, Chad, Democratic Republic of the Congo, Ghana, Guinea, Guinea-Bissau, Liberia, Uganda",
+  "zh": "塞内加尔、科特迪瓦、布基纳法索、尼日利亚、南非、冈比亚、中非、乍得、刚果民主共和国、加纳、几内亚、几内亚比绍、利比里亚、乌干达"
+ },
+ "isTypeSpecies": true,
+ "latin": "Trinervitermes trinervius",
+ "pageUrl": "https://termite-extant-isoptera.org/species/trinervitermes-trinervius/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes holmgreni Rosen, 1912: 224-227",
+   "authorship": "Rosen, 1912",
+   "localityAlignment": "matched",
+   "name": "Eutermes holmgreni",
+   "note": "",
+   "reference": "224-227",
+   "typeLocality": "Liberia: ?"
+  },
+  {
+   "asPublished": "Eutermes posselensis Sjöstedt, 1914: 94-95",
+   "authorship": "Sjöstedt, 1914",
+   "localityAlignment": "matched",
+   "name": "Eutermes posselensis",
+   "note": "",
+   "reference": "94-95",
+   "typeLocality": "Central African Republic: Fort de Possel"
+  },
+  {
+   "asPublished": "Trinervitermes carbonarius Sjöstedt, 1926: 158-160",
+   "authorship": "Sjöstedt, 1926",
+   "localityAlignment": "matched",
+   "name": "Trinervitermes carbonarius",
+   "note": "",
+   "reference": "158-160",
+   "typeLocality": "Democratic Republic of the Congo: (Belgian Congo): Haut Uèlè: Mauda"
+  }
+ ],
+ "typeLocality": "Senegal: ?",
+ "version": "2026.11.21",
+ "zh": "三脉三脉白蚁"
+}

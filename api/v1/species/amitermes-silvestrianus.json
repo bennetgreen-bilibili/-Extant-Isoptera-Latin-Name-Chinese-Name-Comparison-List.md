@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-silvestrianus.json",
+ "apiVersion": "1",
+ "authorship": "Light, 1930",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes silvestrianus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-silvestrianus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "United States: California: Upper Coachella Valley, dry bed of Whitewater River near Garnet",
+ "version": "2026.11.21",
+ "zh": "西尔韦斯特里弓白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/globitermes-brachycerastes.json",
+ "apiVersion": "1",
+ "authorship": "Han, 1987",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "globitermes",
+   "latin": "Globitermes",
+   "zh": "球白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Yunnan (Jinghong 500 m), China",
+  "zh": "云南（景洪 500 m）、中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Globitermes brachycerastes",
+ "pageUrl": "https://termite-extant-isoptera.org/species/globitermes-brachycerastes/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Yunnan Province: Jinghong",
+ "version": "2026.11.21",
+ "zh": "短角球白蚁"
+}

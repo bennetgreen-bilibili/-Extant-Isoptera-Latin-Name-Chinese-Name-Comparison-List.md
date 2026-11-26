@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-menadoae.json",
+ "apiVersion": "1",
+ "authorship": "Oshima, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Indonesia (Sulawesi)",
+  "zh": "印尼苏拉威西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes menadoae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-menadoae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Indonesia: Sulawesi: Menado",
+ "version": "2026.11.21",
+ "zh": "万鸦东乳白蚁"
+}

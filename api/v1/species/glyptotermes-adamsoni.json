@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-adamsoni.json",
+ "apiVersion": "1",
+ "authorship": "Krishna & Emerson, 1962",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Grenada, Trinidad and Tobago, Venezuela",
+  "zh": "格林纳达、特立尼达和多巴哥、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glyptotermes adamsoni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-adamsoni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Trinidad and Tobago: Tunapuna-Piarco: Near Arima [ 10.6667N 61.3333W ]",
+ "version": "2026.11.21",
+ "zh": "亚当森树白蚁"
+}

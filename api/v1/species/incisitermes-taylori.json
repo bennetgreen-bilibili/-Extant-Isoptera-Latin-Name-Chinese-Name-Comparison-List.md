@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/incisitermes-taylori.json",
+ "apiVersion": "1",
+ "authorship": "Light, 1930",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "incisitermes",
+   "latin": "Incisitermes",
+   "zh": "楹白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Philippines",
+  "zh": "菲律宾"
+ },
+ "isTypeSpecies": false,
+ "latin": "Incisitermes taylori",
+ "pageUrl": "https://termite-extant-isoptera.org/species/incisitermes-taylori/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Philippines: Mindanao: Zamboanga, Santa Cruz",
+ "version": "2026.11.21",
+ "zh": "泰勒楹白蚁"
+}

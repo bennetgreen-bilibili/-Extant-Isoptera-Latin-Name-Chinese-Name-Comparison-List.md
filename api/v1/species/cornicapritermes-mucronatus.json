@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cornicapritermes-mucronatus.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1950",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "cornicapritermes",
+   "latin": "Cornicapritermes",
+   "zh": "角扭白蚁属"
+  },
+  "subfamily": {
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, French Guiana, Colombia",
+  "zh": "巴西、法属圭亚那、哥伦比亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Cornicapritermes mucronatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cornicapritermes-mucronatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guyana: Cuyuni-Mazaruni: Penal Settlement [6.4N 58.658W]",
+ "version": "2026.11.21",
+ "zh": "尖锐角扭白蚁"
+}

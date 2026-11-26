@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/embiratermes-latidens.json",
+ "apiVersion": "1",
+ "authorship": "Emerson & Banks, 1957",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "embiratermes",
+   "latin": "Embiratermes",
+   "zh": "生白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Bolivia, Colombia, Paraguay, Peru, Suriname, Venezuela",
+  "zh": "巴西、玻利维亚、哥伦比亚、巴拉圭、秘鲁、苏里南、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Embiratermes latidens",
+ "pageUrl": "https://termite-extant-isoptera.org/species/embiratermes-latidens/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Amazonas: Autazes, Rio Autaz [3.58S 59.125W]",
+ "version": "2026.11.21",
+ "zh": "宽齿生白蚁"
+}

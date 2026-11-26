@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ancistrotermes-latinotus.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1912",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ancistrotermes",
+   "latin": "Ancistrotermes",
+   "zh": "钩白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "southern Africa, Malawi, South Africa, Zambia, Angola, Central Africa, Democratic Republic of the Congo, Ethiopia, Kenya, Mozambique, Eswatini, Tanzania, Uganda, Zimbabwe",
+  "zh": "非洲南部、马拉维、南非、赞比亚、安哥拉、中非、刚果民主共和国、埃塞俄比亚、肯尼亚、莫桑比克、斯威士兰、坦桑尼亚、乌干达、津巴布韦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ancistrotermes latinotus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ancistrotermes-latinotus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Ancistrotermes lebomboensis Fuller, 1922: 103-104",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "matched",
+   "name": "Ancistrotermes lebomboensis",
+   "note": "",
+   "reference": "103-104",
+   "typeLocality": "Swaziland: Lebombo Flats N of Umbuluzi River near Komati"
+  }
+ ],
+ "typeLocality": "Democratic Republic of the Congo: Katanga: Luapula",
+ "version": "2026.11.21",
+ "zh": "宽背钩白蚁"
+}

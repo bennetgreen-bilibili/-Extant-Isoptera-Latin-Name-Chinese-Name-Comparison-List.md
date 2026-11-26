@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nitiditermes-fulvus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Nitiditermes fulvus",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "nitiditermes-fulvus",
+   "source": "gbif",
+   "theirs": "Nitiditermes Emerson, 1960",
+   "url": null,
+   "verified": false,
+   "zh": "栗色净白蚁"
+  }
+ ],
+ "authorship": "Williams, 1966",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nitiditermes",
+   "latin": "Nitiditermes",
+   "zh": "净白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Tanzania",
+  "zh": "坦桑尼亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nitiditermes fulvus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nitiditermes-fulvus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Tanzania: Ugunga, Kakoma",
+ "version": "2026.11.21",
+ "zh": "栗色净白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/trapellitermes-loxomastax.json",
+ "apiVersion": "1",
+ "authorship": "Sands, 1995",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "trapellitermes",
+   "latin": "Trapellitermes",
+   "zh": "菱角白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Côte d'Ivoire",
+  "zh": "西非、科特迪瓦"
+ },
+ "isTypeSpecies": true,
+ "latin": "Trapellitermes loxomastax",
+ "pageUrl": "https://termite-extant-isoptera.org/species/trapellitermes-loxomastax/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Gambia: near Daranka on Madinari road",
+ "version": "2026.11.21",
+ "zh": "弯颚菱角白蚁"
+}

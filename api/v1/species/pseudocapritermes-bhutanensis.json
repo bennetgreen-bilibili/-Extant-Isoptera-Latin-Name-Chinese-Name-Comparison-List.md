@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/pseudocapritermes-bhutanensis.json",
+ "apiVersion": "1",
+ "authorship": "Roonwal & Chhotani, 1977",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "pseudocapritermes",
+   "latin": "Pseudocapritermes",
+   "zh": "伪扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Bhutan",
+  "zh": "不丹"
+ },
+ "isTypeSpecies": false,
+ "latin": "Pseudocapritermes bhutanensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/pseudocapritermes-bhutanensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Bhutan: Thimpu, 2300–2500 m",
+ "version": "2026.11.21",
+ "zh": "不丹伪扭白蚁"
+}

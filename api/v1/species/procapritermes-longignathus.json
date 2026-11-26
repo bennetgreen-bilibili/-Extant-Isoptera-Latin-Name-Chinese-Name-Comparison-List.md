@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/procapritermes-longignathus.json",
+ "apiVersion": "1",
+ "authorship": "Ahmad, 1965",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "procapritermes",
+   "latin": "Procapritermes",
+   "zh": "前扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Thailand",
+  "zh": "泰国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Procapritermes longignathus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/procapritermes-longignathus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Thailand: Tung Sa-Lang Luang",
+ "version": "2026.11.21",
+ "zh": "长颚前扭白蚁"
+}

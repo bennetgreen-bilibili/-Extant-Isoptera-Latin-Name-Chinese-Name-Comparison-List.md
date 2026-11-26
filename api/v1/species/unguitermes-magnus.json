@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/unguitermes-magnus.json",
+ "apiVersion": "1",
+ "authorship": "Ruelle, 1973",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "unguitermes",
+   "latin": "Unguitermes",
+   "zh": "爪白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "tropical Africa",
+  "zh": "非洲热带"
+ },
+ "isTypeSpecies": false,
+ "latin": "Unguitermes magnus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/unguitermes-magnus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Nigeria: Eastern Region, 19 km from Enugu on Onitsha Road",
+ "version": "2026.11.21",
+ "zh": "大爪白蚁"
+}

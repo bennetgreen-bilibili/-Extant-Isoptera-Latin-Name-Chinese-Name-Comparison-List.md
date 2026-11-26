@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/apicotermes-arquieri.json",
+ "apiVersion": "1",
+ "authorship": "Grassé & Noirot, 1955",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "apicotermes",
+   "latin": "Apicotermes",
+   "zh": "尖白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central African Republic, Congo Basin, Nigeria",
+  "zh": "中非、刚果盆地、尼日利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Apicotermes arquieri",
+ "pageUrl": "https://termite-extant-isoptera.org/species/apicotermes-arquieri/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Central African Republic: Bossembélé",
+ "version": "2026.11.21",
+ "zh": "阿奎尔尖白蚁"
+}

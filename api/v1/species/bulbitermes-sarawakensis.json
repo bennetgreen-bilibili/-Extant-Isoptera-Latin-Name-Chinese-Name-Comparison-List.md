@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/bulbitermes-sarawakensis.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "bulbitermes",
+   "latin": "Bulbitermes",
+   "zh": "瓢白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Indonesia, Malaysia",
+  "zh": "印度尼西亚、马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Bulbitermes sarawakensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/bulbitermes-sarawakensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malaysia: Sarawak, near Kuching",
+ "version": "2026.11.21",
+ "zh": "砂拉越瓢白蚁"
+}

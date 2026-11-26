@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ancistrotermes-hekouensis.json",
+ "apiVersion": "1",
+ "authorship": "Zhu & Wang, 1991",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ancistrotermes",
+   "latin": "Ancistrotermes",
+   "zh": "钩白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Yunnan (Hekou 110m)",
+  "zh": "云南（河口110m）"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ancistrotermes hekouensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ancistrotermes-hekouensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Yunnan Province: Yao Autonomous County of Hekou",
+ "version": "2026.11.21",
+ "zh": "河口钩白蚁"
+}

@@ -1,0 +1,57 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/incisitermes-lisae.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Kalotermitidae",
+   "family_zh": "木白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Incisitermes lisae",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "incisitermes-lisae",
+   "source": "gbif",
+   "theirs": "Incisitermes Krishna, 1961",
+   "url": null,
+   "verified": false,
+   "zh": "莉萨楹白蚁"
+  }
+ ],
+ "authorship": "Scheffrahn, 2024",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "incisitermes",
+   "latin": "Incisitermes",
+   "zh": "楹白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Belize, Guatemala, Mexico",
+  "zh": "伯利兹、危地马拉、墨西哥"
+ },
+ "isTypeSpecies": false,
+ "latin": "Incisitermes lisae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/incisitermes-lisae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Mexico: Yucatan:Temozón [ 20.82N 88.19W ]",
+ "version": "2026.11.21",
+ "zh": "莉萨楹白蚁"
+}

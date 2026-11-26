@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-cubanus.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1922",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Cuba",
+  "zh": "古巴"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes cubanus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-cubanus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cuba: Pinar del Rio: Las Playuelas",
+ "version": "2026.11.21",
+ "zh": "古巴新白蚁"
+}

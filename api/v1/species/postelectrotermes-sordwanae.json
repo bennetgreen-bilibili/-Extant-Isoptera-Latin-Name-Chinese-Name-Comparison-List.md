@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/postelectrotermes-sordwanae.json",
+ "apiVersion": "1",
+ "authorship": "Coaton, 1949",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "postelectrotermes",
+   "latin": "Postelectrotermes",
+   "zh": "后琥珀白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "West Africa, Ivory Coast, South Africa",
+  "zh": "西非、科特迪瓦、南非"
+ },
+ "isTypeSpecies": false,
+ "latin": "Postelectrotermes sordwanae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/postelectrotermes-sordwanae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "South Africa: North Zululand: Jesser Point, Sordwana Beach",
+ "version": "2026.11.21",
+ "zh": "索瓦德纳后琥珀白蚁"
+}

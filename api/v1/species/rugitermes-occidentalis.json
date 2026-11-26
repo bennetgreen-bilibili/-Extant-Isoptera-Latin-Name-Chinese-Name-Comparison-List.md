@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/rugitermes-occidentalis.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1901",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "rugitermes",
+   "latin": "Rugitermes",
+   "zh": "皱白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Brazil, Argentina, Uruguay",
+  "zh": "巴西、阿根廷、乌拉圭"
+ },
+ "isTypeSpecies": false,
+ "latin": "Rugitermes occidentalis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/rugitermes-occidentalis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Argentina: Tucumán: Santa Ana [ 27.4667S 65.6833W ]",
+ "version": "2026.11.21",
+ "zh": "西部皱白蚁"
+}

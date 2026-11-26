@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/rhynchotermes-armatus.json",
+ "apiVersion": "1",
+ "authorship": "Scheffrahn, 2019",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "rhynchotermes",
+   "latin": "Rhynchotermes",
+   "zh": "喙白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Colombia",
+  "zh": "哥伦比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Rhynchotermes armatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/rhynchotermes-armatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Colombia: Cundinamarca: Pandi [4.19N 74.486W]",
+ "version": "2026.11.21",
+ "zh": "武装喙白蚁"
+}

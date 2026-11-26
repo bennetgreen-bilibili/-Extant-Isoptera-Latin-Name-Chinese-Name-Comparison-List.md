@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-ephratae.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1910",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Mexico, Brazil, Colombia, Costa Rica, French Guiana, Panama, Belize, Bolivia, Dominica, Ecuador, Guadeloupe (France), Guatemala, Honduras, Montserrat, Nicaragua, Paraguay, Peru, Puerto Rico, Suriname, Trinidad and Tobago, Venezuela, U.S. Virgin Islands",
+  "zh": "墨西哥、巴西、哥伦比亚、哥斯达黎加、法属圭亚那、巴拿马、伯利兹、玻利维亚、多米尼克、厄瓜多尔、瓜德罗普（法）、危地马拉、洪都拉斯、蒙特塞拉特、尼加拉瓜、巴拉圭、秘鲁、波多黎各、苏里南、特立尼达和多巴哥、委内瑞拉、美属维尔京群岛"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes ephratae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-ephratae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Eutermes) klinckowstroemi Holmgren, 1910: 225-226",
+   "authorship": "Holmgren, 1910",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Eutermes) klinckowstroemi",
+   "note": "",
+   "reference": "225-226",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Nasutitermes creolina Banks, 1919: 484-485",
+   "authorship": "Banks, 1919",
+   "localityAlignment": "unmatched",
+   "name": "Nasutitermes creolina",
+   "note": "",
+   "reference": "484-485",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Suriname: Commewijne: Ephrata [5.8166N 54.75W]",
+ "version": "2026.11.21",
+ "zh": "埃夫拉塔象白蚁"
+}

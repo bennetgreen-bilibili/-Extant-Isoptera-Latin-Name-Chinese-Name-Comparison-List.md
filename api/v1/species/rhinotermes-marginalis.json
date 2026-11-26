@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/rhinotermes-marginalis.json",
+ "apiVersion": "1",
+ "authorship": "Linnaeus, 1758",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "rhinotermes",
+   "latin": "Rhinotermes",
+   "zh": "鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Brazil, Colombia, French Guiana, Caribbean, Bolivia, Ecuador, Peru, Suriname, Venezuela",
+  "zh": "巴西、哥伦比亚、法属圭亚那、加勒比、玻利维亚、厄瓜多尔、秘鲁、苏里南、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Rhinotermes marginalis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/rhinotermes-marginalis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Perla nasuta De Geer, 1773: 568",
+   "authorship": "De Geer, 1773",
+   "localityAlignment": "matched",
+   "name": "Perla nasuta",
+   "note": "",
+   "reference": "568",
+   "typeLocality": "Suriname: Marowijne: Confluence of Perica Creek and Cottica River [ 5.669N 54.447W ]"
+  }
+ ],
+ "typeLocality": "Suriname: Marowijne: Confluence of Perica Creek and Cottica River [ 5.669N 54.447W ]",
+ "version": "2026.11.21",
+ "zh": "微小鼻白蚁"
+}

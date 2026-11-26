@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/calcaritermes-imminens.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1925",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "calcaritermes",
+   "latin": "Calcaritermes",
+   "zh": "距白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Colombia",
+  "zh": "哥伦比亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Calcaritermes imminens",
+ "pageUrl": "https://termite-extant-isoptera.org/species/calcaritermes-imminens/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Colombia: Magdalena: Cincinnati (plantation) [ 11.1N 74.0833W ]",
+ "version": "2026.11.21",
+ "zh": "悬垂距白蚁"
+}

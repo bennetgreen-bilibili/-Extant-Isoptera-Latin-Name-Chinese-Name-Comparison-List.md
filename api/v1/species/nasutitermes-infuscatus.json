@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-infuscatus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1902",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Democratic Republic of the Congo (Kinshasa), Kenya, Malawi, Tanzania, Zimbabwe, Democratic Republic of the Congo (Kinshasa)",
+  "zh": "刚果（金）、肯尼亚、马拉维、坦桑尼亚、津巴布韦、刚果民主共和国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes infuscatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-infuscatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes usambarensis Sjöstedt, 1904: 103",
+   "authorship": "Sjöstedt, 1904",
+   "localityAlignment": "matched",
+   "name": "Eutermes usambarensis",
+   "note": "",
+   "reference": "103",
+   "typeLocality": "Tanzania: Usambara Mountains: Derema"
+  }
+ ],
+ "typeLocality": "Malawi: Zomba",
+ "version": "2026.11.21",
+ "zh": "暗色象白蚁"
+}

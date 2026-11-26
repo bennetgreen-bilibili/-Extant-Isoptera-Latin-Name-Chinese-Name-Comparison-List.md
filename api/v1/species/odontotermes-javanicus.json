@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-javanicus.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1912",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Southeast Asia, East Asia, Malaysia, Indonesia, Thailand, China",
+  "zh": "东南亚、东亚马来西亚、印度尼西亚、泰国、中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes javanicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-javanicus/",
+ "rank": "species",
+ "subspecies": [
+  {
+   "authorship": "Holmgren, 1912",
+   "latin": "Odontotermes javanicus javanicus",
+   "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-javanicus-javanicus/",
+   "slug": "odontotermes-javanicus-javanicus",
+   "zh": "指名亚种"
+  },
+  {
+   "authorship": "Holmgren, 1913",
+   "latin": "Odontotermes javanicus nymanni",
+   "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-javanicus-nymanni/",
+   "slug": "odontotermes-javanicus-nymanni",
+   "zh": "尼曼亚种"
+  }
+ ],
+ "synonyms": [],
+ "typeLocality": "Indonesia: Java: Salak, Buitenzorg",
+ "version": "2026.11.21",
+ "zh": "爪哇土白蚁"
+}

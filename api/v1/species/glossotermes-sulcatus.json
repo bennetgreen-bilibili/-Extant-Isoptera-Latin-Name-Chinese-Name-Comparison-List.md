@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glossotermes-sulcatus.json",
+ "apiVersion": "1",
+ "authorship": "Cancello & DeSouza, 2005",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "serritermitidae",
+   "latin": "Serritermitidae",
+   "zh": "齿白蚁科"
+  },
+  "genus": {
+   "id": "glossotermes",
+   "latin": "Glossotermes",
+   "zh": "舌白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glossotermes sulcatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glossotermes-sulcatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Amazonas: Manaus [ 3.113S 60.025W ]",
+ "version": "2026.11.21",
+ "zh": "具纹舌白蚁"
+}

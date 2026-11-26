@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-gracilidens.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1925",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Madagascar",
+  "zh": "马达加斯加"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes gracilidens",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-gracilidens/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Madagascar: ?",
+ "version": "2026.11.21",
+ "zh": "细齿新白蚁"
+}

@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-feae.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1896",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Asia, Southeast Asia, India, Thailand, Vietnam, Bangladesh, Bhutan, Myanmar, Nepal, Sri Lanka",
+  "zh": "南亚、东南亚印度、泰国、越南、孟加拉国、不丹、缅甸、尼泊尔、斯里兰卡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes feae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-feae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Odontotermes indicus Thakur, 1981: 70-75",
+   "authorship": "Thakur, 1981",
+   "localityAlignment": "matched",
+   "name": "Odontotermes indicus",
+   "note": "",
+   "reference": "70-75",
+   "typeLocality": "India: Maharashtra: Mumbai"
+  }
+ ],
+ "typeLocality": "Myanmar: Carin Chebà, 900–1100 m",
+ "version": "2026.11.21",
+ "zh": "菲氏土白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/proneotermes-perezi.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1911",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "proneotermes",
+   "latin": "Proneotermes",
+   "zh": "前新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Costa Rica, Guatemala, Honduras, Panama",
+  "zh": "哥斯达黎加、危地马拉、洪都拉斯、巴拿马"
+ },
+ "isTypeSpecies": true,
+ "latin": "Proneotermes perezi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/proneotermes-perezi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Costa Rica: San José",
+ "version": "2026.11.21",
+ "zh": "佩雷斯前新白蚁"
+}

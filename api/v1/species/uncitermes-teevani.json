@@ -1,0 +1,91 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/uncitermes-teevani.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": "Armitermes teevani Emerson, 1925",
+   "accepted_latin": "Armitermes teevani",
+   "accepted_url": "https://www.gbif.org/species/9734260",
+   "confidence": 100,
+   "direction": "site",
+   "disputed": true,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "conflict",
+   "kind": "synonym",
+   "latin": "Uncitermes teevani",
+   "match": "EXACT",
+   "note": "",
+   "rank": "种",
+   "receiving_latin": "Uncitermes teevani",
+   "recordable": false,
+   "recorded": false,
+   "relation": "combination",
+   "slug": "uncitermes-teevani",
+   "source": "gbif",
+   "theirs": "Uncitermes teevani (Emerson, 1925)",
+   "url": "https://www.gbif.org/species/9547733",
+   "verified": false,
+   "zh": "蒂范弯钩白蚁"
+  }
+ ],
+ "authorityReview": {
+  "incoming": [],
+  "latin": "Uncitermes teevani",
+  "outgoing": [
+   {
+    "direction": "site",
+    "disputed": true,
+    "latin": "Armitermes teevani",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/9734260"
+     }
+    ],
+    "name": "Armitermes teevani Emerson, 1925",
+    "relation": "combination",
+    "sources": [
+     "gbif"
+    ]
+   }
+  ],
+  "zh": "蒂范弯钩白蚁"
+ },
+ "authorship": "Emerson, 1925",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "uncitermes",
+   "latin": "Uncitermes",
+   "zh": "弯钩白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Colombia, French Guiana, Guyana, Bolivia, Suriname, Venezuela, Ecuador",
+  "zh": "巴西、哥伦比亚、法属圭亚那、圭亚那、玻利维亚、苏里南、委内瑞拉、厄瓜多尔"
+ },
+ "isTypeSpecies": true,
+ "latin": "Uncitermes teevani",
+ "pageUrl": "https://termite-extant-isoptera.org/species/uncitermes-teevani/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]",
+ "version": "2026.11.21",
+ "zh": "蒂范弯钩白蚁"
+}

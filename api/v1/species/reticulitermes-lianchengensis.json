@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/reticulitermes-lianchengensis.json",
+ "apiVersion": "1",
+ "authorship": "Li & Ma, 1984",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "reticulitermes",
+   "latin": "Reticulitermes",
+   "zh": "散白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "China",
+  "zh": "中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Reticulitermes lianchengensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/reticulitermes-lianchengensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Fujian Province: Meihuashan, Liancheng",
+ "version": "2026.11.21",
+ "zh": "连城散白蚁"
+}

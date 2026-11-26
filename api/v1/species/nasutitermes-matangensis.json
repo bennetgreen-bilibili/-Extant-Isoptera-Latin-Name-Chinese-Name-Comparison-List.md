@@ -1,0 +1,88 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-matangensis.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Bangladesh, India, Myanmar, Thailand, Malaysia, Indonesia, Cambodia, Vietnam",
+  "zh": "孟加拉国、印度、缅甸、泰国、马来西亚、印度尼西亚、柬埔寨、越南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes matangensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-matangensis/",
+ "rank": "species",
+ "subspecies": [
+  {
+   "authorship": "Krishna, 2013",
+   "latin": "Nasutitermes matangensis christmasensis",
+   "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-matangensis-christmasensis/",
+   "slug": "nasutitermes-matangensis-christmasensis",
+   "zh": "圣诞岛亚种"
+  },
+  {
+   "authorship": "Holmgren, 1913",
+   "latin": "Nasutitermes matangensis matangensioides",
+   "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-matangensis-matangensioides/",
+   "slug": "nasutitermes-matangensis-matangensioides",
+   "zh": "似马登亚种"
+  },
+  {
+   "authorship": "Haviland, 1898",
+   "latin": "Nasutitermes matangensis matangensis",
+   "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-matangensis-matangensis/",
+   "slug": "nasutitermes-matangensis-matangensis",
+   "zh": "指名亚种"
+  },
+  {
+   "authorship": "Kemner, 1934",
+   "latin": "Nasutitermes matangensis pyricephalus",
+   "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-matangensis-pyricephalus/",
+   "slug": "nasutitermes-matangensis-pyricephalus",
+   "zh": "梨头亚种"
+  }
+ ],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Eutermes) matangensiformis Holmgren, 1913: 185",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Eutermes) matangensiformis",
+   "note": "",
+   "reference": "185",
+   "typeLocality": "Malaysia: Sarawak"
+  },
+  {
+   "asPublished": "Eutermes djemberensis Kemner, 1934: 128-129",
+   "authorship": "Kemner, 1934",
+   "localityAlignment": "matched",
+   "name": "Eutermes djemberensis",
+   "note": "",
+   "reference": "128-129",
+   "typeLocality": "Indonesia: Java: Jember"
+  }
+ ],
+ "typeLocality": "Malaysia: Sarawak: Matang",
+ "version": "2026.11.21",
+ "zh": "马登象白蚁"
+}

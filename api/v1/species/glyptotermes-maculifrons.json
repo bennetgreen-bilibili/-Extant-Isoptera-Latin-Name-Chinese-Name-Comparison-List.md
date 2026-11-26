@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-maculifrons.json",
+ "apiVersion": "1",
+ "authorship": "Ping & Li, 1983",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "China (Fujian)",
+  "zh": "中国福建"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glyptotermes maculifrons",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-maculifrons/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Fujian Province: Huangkeng: Jianyang County",
+ "version": "2026.11.21",
+ "zh": "麻额树白蚁"
+}

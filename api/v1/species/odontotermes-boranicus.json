@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-boranicus.json",
+ "apiVersion": "1",
+ "authorship": "Ghidini, 1937",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "East Africa (Kenya, Ethiopia, Tanzania)",
+  "zh": "东非肯尼亚、埃塞俄比亚、坦桑尼亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes boranicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-boranicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Ethiopia: Galla-Borana: Neghelli",
+ "version": "2026.11.21",
+ "zh": "博拉娜土白蚁"
+}

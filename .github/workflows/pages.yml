@@ -107,6 +107,11 @@ jobs:
       - name: Build dataset package (DOI export)
         run: python .github/workflows/build_dataset.py --write
 
+      # API v1 静态 JSON（api/v1/）：读 dataset/data/* 与 _data/name_issues.json，
+      # 必须排在 build_dataset 与 build_name_issues 之后、Jekyll 之前。
+      - name: Build API v1 JSON
+        run: python _tools/build_api.py --write
+
       # ------------------------------------------------------------------
       # 外部数据与增强产物的校验（离线；损坏的 JSON 在这里就暴露，但不阻断部署）。
       # 数据缓存随仓库提交，因此构建不需要现场抓 3000+ 次 API；刷新方式见各 _tools/*.md：

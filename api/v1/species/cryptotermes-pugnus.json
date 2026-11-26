@@ -1,0 +1,57 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-pugnus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Kalotermitidae",
+   "family_zh": "木白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Cryptotermes pugnus",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "cryptotermes-pugnus",
+   "source": "gbif",
+   "theirs": "Cryptotermes Banks, 1906",
+   "url": null,
+   "verified": false,
+   "zh": "拳头堆砂白蚁"
+  }
+ ],
+ "authorship": "Scheffrahn & Vasconcellos, 2023",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes pugnus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-pugnus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Paraíba: São José dos Cordeiros [ 7.39S 36.808W ]",
+ "version": "2026.11.21",
+ "zh": "拳头堆砂白蚁"
+}

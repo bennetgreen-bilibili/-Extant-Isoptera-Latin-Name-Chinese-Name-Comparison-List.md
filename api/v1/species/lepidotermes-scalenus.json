@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/lepidotermes-scalenus.json",
+ "apiVersion": "1",
+ "authorship": "Uys, 1994",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "lepidotermes",
+   "latin": "Lepidotermes",
+   "zh": "鳞白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "southern Africa, South Africa",
+  "zh": "非洲南部、南非"
+ },
+ "isTypeSpecies": false,
+ "latin": "Lepidotermes scalenus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/lepidotermes-scalenus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "South Africa: Cape Province: top of Hells Kloof Pass, 25 km ex AnnisfonteinBlackies Prospect",
+ "version": "2026.11.21",
+ "zh": "斜角肌鳞白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/stolotermes-africanus.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1942",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "stolotermitidae",
+   "latin": "Stolotermitidae",
+   "zh": "胄白蚁科"
+  },
+  "genus": {
+   "id": "stolotermes",
+   "latin": "Stolotermes",
+   "zh": "胄白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "South Africa",
+  "zh": "南非"
+ },
+ "isTypeSpecies": false,
+ "latin": "Stolotermes africanus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/stolotermes-africanus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "South Africa: Cape Province, 8 mi W of Coldstream",
+ "version": "2026.11.21",
+ "zh": "非洲胄白蚁"
+}

@@ -1,0 +1,129 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ruptitermes-franciscoi.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": "Anoplotermes franciscoi Snyder, 1959",
+   "accepted_latin": "Anoplotermes franciscoi",
+   "accepted_url": "https://www.gbif.org/species/9070348",
+   "confidence": 100,
+   "direction": "disputed",
+   "disputed": false,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "conflict",
+   "kind": "synonym",
+   "latin": "Ruptitermes franciscoi",
+   "match": "EXACT",
+   "note": "人工核对（2026-10-30）：Anoplotermes franciscoi Snyder, 1959 是本站 Ruptitermes franciscoi 的基础异名（basionym），不是独立物种——Acioli & Constantino (2015, Zootaxa 4032: 451–492) 以「Ruptitermes franciscoi (Snyder, 1959), new combination」把该种移入腹爆白蚁属，Constantino 的 Termite Database（2025-05 更新）也只列这 1 个种。GBIF、Catalogue of Life 与 BSF 尚未采纳该新组合，仍把旧组合 Anoplotermes franciscoi 列为接受名，所以看板出现这条名称差异；其中 GBIF 条目的「(Snyder, 1946) Snyder, 1946」是 Plazi / Zootaxa 题名元数据的笔误（正文与图注均作 1959），GBIF 自身也标了 CONFLICTING_BASIONYM_COMBINATION。本站名不改，仍按 2015 年修订使用 Ruptitermes franciscoi。",
+   "rank": "种",
+   "receiving_latin": null,
+   "recordable": false,
+   "recorded": false,
+   "relation": "combination",
+   "slug": "ruptitermes-franciscoi",
+   "source": "gbif",
+   "theirs": "Ruptitermes franciscoi (Snyder, 1946) Snyder, 1946",
+   "url": "https://www.gbif.org/species/8555127",
+   "verified": true,
+   "zh": "弗朗西斯科腹爆白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Ruptitermes franciscoi",
+   "match": "higherrank",
+   "note": "",
+   "rank": "种",
+   "slug": "ruptitermes-franciscoi",
+   "source": "col",
+   "theirs": "Ruptitermes Mathews, 1977",
+   "url": null,
+   "verified": false,
+   "zh": "弗朗西斯科腹爆白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "missing",
+   "latin": "Ruptitermes franciscoi",
+   "match": null,
+   "note": "",
+   "rank": "种",
+   "slug": "ruptitermes-franciscoi",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "弗朗西斯科腹爆白蚁"
+  }
+ ],
+ "authorityReview": {
+  "incoming": [],
+  "latin": "Ruptitermes franciscoi",
+  "outgoing": [
+   {
+    "direction": "disputed",
+    "disputed": false,
+    "latin": "Anoplotermes franciscoi",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/9070348"
+     }
+    ],
+    "name": "Anoplotermes franciscoi Snyder, 1959",
+    "relation": "combination",
+    "sources": [
+     "gbif"
+    ]
+   }
+  ],
+  "zh": "弗朗西斯科腹爆白蚁"
+ },
+ "authorship": "Snyder, 1959",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ruptitermes",
+   "latin": "Ruptitermes",
+   "zh": "腹爆白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South America, Brazil, French Guiana, Venezuela, Bolivia, Colombia",
+  "zh": "南美洲、巴西、法属圭亚那、委内瑞拉、玻利维亚、哥伦比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ruptitermes franciscoi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ruptitermes-franciscoi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Venezuela: Bolivar: El Pilar [ 7.38333N 61.7333W ]",
+ "version": "2026.11.21",
+ "zh": "弗朗西斯科腹爆白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-daweishanensis.json",
+ "apiVersion": "1",
+ "authorship": "Huang, Zhu, Ping, He, Li & Gao, 2000",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "China (Yunnan)",
+  "zh": "中国云南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glyptotermes daweishanensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-daweishanensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Yunnan Province: ChinPing",
+ "version": "2026.11.21",
+ "zh": "大围山树白蚁"
+}

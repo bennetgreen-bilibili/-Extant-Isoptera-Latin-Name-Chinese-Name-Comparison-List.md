@@ -1,0 +1,157 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-domesticus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Kalotermitidae",
+   "family_zh": "木白蚁科",
+   "group": "match",
+   "kind": "ambiguous",
+   "latin": "Cryptotermes domesticus",
+   "match": null,
+   "note": "候选：OTU 82618 Cryptotermes domesticus (Haviland, 1898)；OTU 651538 Cryptotermes domesticus (Sjöstedt, 1898) now Cryptotermes havilandi (Sjöstedt, 1900)",
+   "rank": "种",
+   "slug": "cryptotermes-domesticus",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "截头堆砂白蚁"
+  }
+ ],
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Oriental region to Australian region, Southeast Asia, southern China to the Pacific islands, Ecuador, Canada, Costa Rica, Panama, Thursday Island (Australia), Trinidad and Tobago, Tromelin Island (France)",
+  "zh": "东洋界至澳洲界、东南亚、中国南部至太平洋岛屿、厄瓜多尔、加拿大、哥斯达黎加、巴拿马、星期四岛（澳大利亚）、特立尼达和多巴哥、特罗梅林岛（法国）"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes domesticus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-domesticus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Calotermes ( Cryptotermes ) formosae Holmgren, 1912: 119-120",
+   "authorship": "Holmgren, 1912",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Cryptotermes) formosae",
+   "note": "",
+   "reference": "119-120",
+   "typeLocality": "Taiwan: Botel Tobago, Lan Yü)"
+  },
+  {
+   "asPublished": "Calotermes kotoensis Oshima, 1912: 56-58",
+   "authorship": "Oshima, 1912",
+   "localityAlignment": "matched",
+   "name": "Calotermes kotoensis",
+   "note": "",
+   "reference": "56-58",
+   "typeLocality": "Taiwan: Botel Tobago, Lan Yü)"
+  },
+  {
+   "asPublished": "Calotermes ( Cryptotermes ) ogasawaraensis Oshima, 1913: 274-275",
+   "authorship": "Oshima, 1913",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Cryptotermes) ogasawaraensis",
+   "note": "",
+   "reference": "274-275",
+   "typeLocality": "Japan: Ogasawarajima or Bonin Islands"
+  },
+  {
+   "asPublished": "Calotermes ( Cryptotermes ) dentatus Oshima, 1914: 2-5",
+   "authorship": "Oshima, 1914",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Cryptotermes) dentatus",
+   "note": "",
+   "reference": "2-5",
+   "typeLocality": "Taiwan: Taipei"
+  },
+  {
+   "asPublished": "Cryptotermes campbelli Light, 1924: 57-60",
+   "authorship": "Light, 1924",
+   "localityAlignment": "matched",
+   "name": "Cryptotermes campbelli",
+   "note": "",
+   "reference": "57-60",
+   "typeLocality": "China: Hainan Island: Kachek"
+  },
+  {
+   "asPublished": "Cryptotermes hermsi Kirby, 1925: 437-441",
+   "authorship": "Kirby, 1925",
+   "localityAlignment": "matched",
+   "name": "Cryptotermes hermsi",
+   "note": "",
+   "reference": "437-441",
+   "typeLocality": "Kiribati: Fanning Island"
+  },
+  {
+   "asPublished": "Calotermes ( Cryptotermes ) buxtoni Hill, 1926: 298-299",
+   "authorship": "Hill, 1926",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Cryptotermes) buxtoni",
+   "note": "",
+   "reference": "298-299",
+   "typeLocality": "Samoa: Upolu Island: Apia"
+  },
+  {
+   "asPublished": "Kalotermes ( Cryptotermes ) breviarticulatus Snyder, 1926: 11-12",
+   "authorship": "Snyder, 1926",
+   "localityAlignment": "matched",
+   "name": "Kalotermes (Cryptotermes) breviarticulatus",
+   "note": "",
+   "reference": "11-12",
+   "typeLocality": "Panama: Taboga Island"
+  },
+  {
+   "asPublished": "Calotermes ( Cryptotermes ) torresi Hill, 1927: 12",
+   "authorship": "Hill, 1927",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Cryptotermes) torresi",
+   "note": "",
+   "reference": "12",
+   "typeLocality": "Australia: Queensland: Thursday Island"
+  },
+  {
+   "asPublished": "Calotermes ( Cryptotermes ) gulosus Hill, 1927: 11-13",
+   "authorship": "Hill, 1927",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Cryptotermes) gulosus",
+   "note": "",
+   "reference": "11-13",
+   "typeLocality": "Papua New Guinea: Papua: 30 miles southeast of Port Moresby"
+  },
+  {
+   "asPublished": "Calotermes ( Cryptotermes ) repentinus Hill, 1927: 13-15",
+   "authorship": "Hill, 1927",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Cryptotermes) repentinus",
+   "note": "",
+   "reference": "13-15",
+   "typeLocality": "Papua New Guinea: New Britain: Rabaul"
+  }
+ ],
+ "typeLocality": "Malaysia: Sarawak",
+ "version": "2026.11.21",
+ "zh": "截头堆砂白蚁"
+}

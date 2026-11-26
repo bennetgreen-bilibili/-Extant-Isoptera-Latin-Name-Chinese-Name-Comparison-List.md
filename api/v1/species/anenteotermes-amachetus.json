@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/anenteotermes-amachetus.json",
+ "apiVersion": "1",
+ "authorship": "Sands, 1972",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "anenteotermes",
+   "latin": "Anenteotermes",
+   "zh": "无甲白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Republic of the Congo, Democratic Republic of the Congo",
+  "zh": "刚果共和国、刚果民主共和国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Anenteotermes amachetus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/anenteotermes-amachetus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: 18 km S Kinshasa, near Riflart",
+ "version": "2026.11.21",
+ "zh": "无刀无甲白蚁"
+}

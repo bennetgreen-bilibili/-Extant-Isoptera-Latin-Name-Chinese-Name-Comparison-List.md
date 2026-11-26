@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/procornitermes-triacifer.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1901",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "procornitermes",
+   "latin": "Procornitermes",
+   "zh": "前角白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Argentina, Bolivia, Paraguay",
+  "zh": "巴西、阿根廷、玻利维亚、巴拉圭"
+ },
+ "isTypeSpecies": true,
+ "latin": "Procornitermes triacifer",
+ "pageUrl": "https://termite-extant-isoptera.org/species/procornitermes-triacifer/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Mato Grosso do Sul: Corumbá [19.017S 57.65W]",
+ "version": "2026.11.21",
+ "zh": "三尖唇前角白蚁"
+}

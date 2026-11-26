@@ -1,0 +1,80 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ceylonitermes-nivedita.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "match",
+   "kind": "ambiguous",
+   "latin": "Ceylonitermes nivedita",
+   "match": null,
+   "note": "仅模糊候选：OTU 84380 Ceylonitermes Holmgren, 1912",
+   "rank": "种",
+   "slug": "ceylonitermes-nivedita",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "尼韦迪塔锡兰白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Ceylonitermes nivedita",
+   "match": "higherrank",
+   "note": "",
+   "rank": "种",
+   "slug": "ceylonitermes-nivedita",
+   "source": "col",
+   "theirs": "Ceylonitermes Holmgren, 1912",
+   "url": null,
+   "verified": false,
+   "zh": "尼韦迪塔锡兰白蚁"
+  }
+ ],
+ "authorship": "Basak, Sengupta, Rajmohana & Baraik, 2020",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ceylonitermes",
+   "latin": "Ceylonitermes",
+   "zh": "锡兰白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "India",
+  "zh": "印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ceylonitermes nivedita",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ceylonitermes-nivedita/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Manipur: Tamenglong, Zeilad Wildlife Sanctuary [24.9109N 93.3842E]",
+ "version": "2026.11.21",
+ "zh": "尼韦迪塔锡兰白蚁"
+}

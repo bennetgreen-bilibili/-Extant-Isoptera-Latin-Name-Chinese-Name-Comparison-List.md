@@ -1,0 +1,77 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/malaysiotermes-spinocephalus.json",
+ "apiVersion": "1",
+ "authorship": "Ahmad, 1968",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "malaysiotermes",
+   "latin": "Malaysiotermes",
+   "zh": "马来白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Indonesia, Malaysia",
+  "zh": "印度尼西亚、马来西亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Malaysiotermes spinocephalus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/malaysiotermes-spinocephalus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Proaciculitermes lowi Ahmad, 1968: 17-19",
+   "authorship": "Ahmad, 1968",
+   "localityAlignment": "matched",
+   "name": "Proaciculitermes lowi",
+   "note": "",
+   "reference": "17-19",
+   "typeLocality": "Malaysia: Selangor: Sungei Buloh"
+  },
+  {
+   "asPublished": "Proaciculitermes sabahensis Ahmad, 1968: 12-15",
+   "authorship": "Ahmad, 1968",
+   "localityAlignment": "matched",
+   "name": "Proaciculitermes sabahensis",
+   "note": "",
+   "reference": "12-15",
+   "typeLocality": "Malaysia: Sabah: Quoin Hill"
+  },
+  {
+   "asPublished": "Proaciculitermes orientalis Ahmad, 1968: 9-11",
+   "authorship": "Ahmad, 1968",
+   "localityAlignment": "matched",
+   "name": "Proaciculitermes orientalis",
+   "note": "",
+   "reference": "9-11",
+   "typeLocality": "Malaysia: Kedah: Sungai Lalang"
+  },
+  {
+   "asPublished": "Proaciculitermes malayanus Ahmad, 1968: 15-17",
+   "authorship": "Ahmad, 1968",
+   "localityAlignment": "matched",
+   "name": "Proaciculitermes malayanus",
+   "note": "",
+   "reference": "15-17",
+   "typeLocality": "Malaysia: Johore: Rengam"
+  }
+ ],
+ "typeLocality": "Malaysia: Kedah: Sungai Lalang",
+ "version": "2026.11.21",
+ "zh": "刺头马来白蚁"
+}

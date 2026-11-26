@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/krishnacapritermes-manikandan.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Krishnacapritermes manikandan",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "krishnacapritermes-manikandan",
+   "source": "gbif",
+   "theirs": "Krishnacapritermes Chhotani, 1997",
+   "url": null,
+   "verified": false,
+   "zh": "马尼坎丹克里希纳扭白蚁"
+  }
+ ],
+ "authorship": "Amina & Rajmohana, 2019",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "krishnacapritermes",
+   "latin": "Krishnacapritermes",
+   "zh": "克里希纳扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "India, Kerala",
+  "zh": "印度、喀拉拉邦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Krishnacapritermes manikandan",
+ "pageUrl": "https://termite-extant-isoptera.org/species/krishnacapritermes-manikandan/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Kerala: Idukki (Amar shola-Munnar)",
+ "version": "2026.11.21",
+ "zh": "马尼坎丹克里希纳扭白蚁"
+}

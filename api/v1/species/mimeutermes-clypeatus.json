@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/mimeutermes-clypeatus.json",
+ "apiVersion": "1",
+ "authorship": "Sands, 1968",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "mimeutermes",
+   "latin": "Mimeutermes",
+   "zh": "仿白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Zimbabwe",
+  "zh": "津巴布韦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Mimeutermes clypeatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/mimeutermes-clypeatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Zimbabwe: Matopos Research Station",
+ "version": "2026.11.21",
+ "zh": "大唇仿白蚁"
+}

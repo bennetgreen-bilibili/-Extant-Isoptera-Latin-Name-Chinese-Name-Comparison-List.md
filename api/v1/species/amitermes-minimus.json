@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-minimus.json",
+ "apiVersion": "1",
+ "authorship": "Light, 1932",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes minimus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-minimus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "United States: Texas: Brownsville",
+ "version": "2026.11.21",
+ "zh": "最小弓白蚁"
+}

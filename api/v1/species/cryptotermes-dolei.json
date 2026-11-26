@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-dolei.json",
+ "apiVersion": "1",
+ "authorship": "Light, 1932",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "French Polynesia",
+  "zh": "法属波利尼西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes dolei",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-dolei/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Polynesia (French): Marquesas: Eiao; Marquesas: Fatuhiva, Ouia Valley; Marquesas: Hivaoa, Anatuakina; Marquesas: Mohotani; Marquesas: Nukuhiva; Marquesas: Uahuka, Haahue Valley; Marquesas: Uahuka, Hanahoua Valley; Marquesas: Uapou",
+ "version": "2026.11.21",
+ "zh": "多尔堆砂白蚁"
+}

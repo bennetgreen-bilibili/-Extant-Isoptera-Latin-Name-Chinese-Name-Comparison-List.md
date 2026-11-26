@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-cylindriceps.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1902",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Sri Lanka",
+  "zh": "斯里兰卡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes cylindriceps",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-cylindriceps/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Sri Lanka: Pankulam",
+ "version": "2026.11.21",
+ "zh": "筒头锯白蚁"
+}

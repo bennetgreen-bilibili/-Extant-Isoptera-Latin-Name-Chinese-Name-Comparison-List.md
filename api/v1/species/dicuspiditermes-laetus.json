@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/dicuspiditermes-laetus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "dicuspiditermes",
+   "latin": "Dicuspiditermes",
+   "zh": "突扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Southeast Asia, Thailand, Bangladesh, Cambodia, China, India, Malaysia, Myanmar, Vietnam",
+  "zh": "东南亚、泰国、孟加拉国、柬埔寨、中国、印度、马来西亚、缅甸、越南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Dicuspiditermes laetus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/dicuspiditermes-laetus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Capritermes garthwaitei Gardner, 1945: 106-108",
+   "authorship": "Gardner, 1945",
+   "localityAlignment": "matched",
+   "name": "Capritermes garthwaitei",
+   "note": "",
+   "reference": "106-108",
+   "typeLocality": "Myanmar: Maymyo"
+  },
+  {
+   "asPublished": "Dicuspiditermes orientalis Harris, 1968: 147-148",
+   "authorship": "Harris, 1968",
+   "localityAlignment": "matched",
+   "name": "Dicuspiditermes orientalis",
+   "note": "",
+   "reference": "147-148",
+   "typeLocality": "Vietnam: Cau Da"
+  },
+  {
+   "asPublished": "Dicuspiditermes tripurensis Sen-Sarma & Thakur, 1979: 21-23",
+   "authorship": "Sen-Sarma & Thakur, 1979",
+   "localityAlignment": "matched",
+   "name": "Dicuspiditermes tripurensis",
+   "note": "",
+   "reference": "21-23",
+   "typeLocality": "India: Tripura: Tiliamura"
+  }
+ ],
+ "typeLocality": "Myanmar: Lower Myanmar: east side of Dawna Hills, Sukli",
+ "version": "2026.11.21",
+ "zh": "明亮突扭白蚁"
+}

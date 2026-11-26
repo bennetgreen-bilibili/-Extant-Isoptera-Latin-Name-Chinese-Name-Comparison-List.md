@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/tauritermes-vitulus.json",
+ "apiVersion": "1",
+ "authorship": "Araujo & Fontes, 1979",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "tauritermes",
+   "latin": "Tauritermes",
+   "zh": "牛白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Tauritermes vitulus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/tauritermes-vitulus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Santa Catarina: Blumenau [ 26.91S 49.044W ]",
+ "version": "2026.11.21",
+ "zh": "公犊牛白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-cylindroceps.json",
+ "apiVersion": "1",
+ "authorship": "Scheffrahn & Krecek, 1999",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "South America, Venezuela, Colombia, Aruba, Bonaire, Curaçao",
+  "zh": "南美洲、委内瑞拉、哥伦比亚、阿鲁巴、博奈尔、库拉索"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes cylindroceps",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-cylindroceps/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Curaçao: Santa Barbara",
+ "version": "2026.11.21",
+ "zh": "筒头堆砂白蚁"
+}

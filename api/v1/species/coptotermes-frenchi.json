@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-frenchi.json",
+ "apiVersion": "1",
+ "authorship": "Hill, 1932",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Australia; introduced: New Zealand",
+  "zh": "澳大利亚；引入：新西兰"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes frenchi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-frenchi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Coptotermes labiosus Hill, 1926: 213-214",
+   "authorship": "Hill, 1926",
+   "localityAlignment": "matched",
+   "name": "Coptotermes labiosus",
+   "note": "",
+   "reference": "213-214",
+   "typeLocality": "Australia: South Australia: Barton"
+  }
+ ],
+ "typeLocality": "Australia: Victoria: Melbourne, Hawthorne",
+ "version": "2026.11.21",
+ "zh": "弗伦奇乳白蚁"
+}

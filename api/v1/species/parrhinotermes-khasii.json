@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/parrhinotermes-khasii.json",
+ "apiVersion": "1",
+ "authorship": "Roonwal & Sen-Sarma, 1956",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "parrhinotermes",
+   "latin": "Parrhinotermes",
+   "zh": "棒鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Tibet (Mêdog: Beibeng 800 m, Yarang 1000 m); India (Assam: Khasi Hills 366 m)",
+  "zh": "西藏（墨脱：背崩800m、亚让1000m）；印度（阿萨姆：卡西山366m）"
+ },
+ "isTypeSpecies": false,
+ "latin": "Parrhinotermes khasii",
+ "pageUrl": "https://termite-extant-isoptera.org/species/parrhinotermes-khasii/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Assam: Khasi Hills, bank of river Nong-priang",
+ "version": "2026.11.21",
+ "zh": "卡西棒鼻白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/parrhinotermes-queenslandicus.json",
+ "apiVersion": "1",
+ "authorship": "Mjöberg, 1920",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "parrhinotermes",
+   "latin": "Parrhinotermes",
+   "zh": "棒鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Parrhinotermes queenslandicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/parrhinotermes-queenslandicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Australia: Queensland: Malanda",
+ "version": "2026.11.21",
+ "zh": "昆士兰棒鼻白蚁"
+}

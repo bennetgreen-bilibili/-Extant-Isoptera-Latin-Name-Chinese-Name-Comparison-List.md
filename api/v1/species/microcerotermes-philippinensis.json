@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-philippinensis.json",
+ "apiVersion": "1",
+ "authorship": "Ahmad, 1947",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Philippines",
+  "zh": "菲律宾"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes philippinensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-philippinensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Philippines: Leyte: Tarragona",
+ "version": "2026.11.21",
+ "zh": "菲律宾锯白蚁"
+}

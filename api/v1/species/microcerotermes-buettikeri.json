@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-buettikeri.json",
+ "apiVersion": "1",
+ "authorship": "Chhotani & Bose, 1979",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Middle East, Saudi Arabia, Iran, Yemen",
+  "zh": "中东、沙特阿拉伯、伊朗、也门"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes buettikeri",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-buettikeri/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Saudi Arabia: Wadi Tumair",
+ "version": "2026.11.21",
+ "zh": "比特铁克锯白蚁"
+}

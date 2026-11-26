@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/rostrotermes-cornutus.json",
+ "apiVersion": "1",
+ "authorship": "Grassé, 1943",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "rostrotermes",
+   "latin": "Rostrotermes",
+   "zh": "突吻白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Ivory Coast, Guinea, Liberia, Nigeria, Sierra Leone",
+  "zh": "西非、科特迪瓦、几内亚、利比里亚、尼日利亚、塞拉利昂"
+ },
+ "isTypeSpecies": true,
+ "latin": "Rostrotermes cornutus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/rostrotermes-cornutus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guinea: Mont Nimba; Ivory Coast: Danané",
+ "version": "2026.11.21",
+ "zh": "具角突吻白蚁"
+}

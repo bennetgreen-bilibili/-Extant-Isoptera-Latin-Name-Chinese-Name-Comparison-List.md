@@ -1,0 +1,77 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-nigriceps.json",
+ "apiVersion": "1",
+ "authorship": "Haldeman, 1854",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Mexico, Colombia, Brazil, Panama, Belize, French Guiana, Antigua and Barbuda, Aruba, Bahamas, Bonaire, Cayman Islands, Costa Rica, Curaçao, Ecuador, El Salvador, Guatemala, Honduras, Jamaica, Nicaragua, Peru, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands, Venezuela, United States Virgin Islands",
+  "zh": "墨西哥、哥伦比亚、巴西、巴拿马、伯利兹、法属圭亚那、安提瓜和巴布达、阿鲁巴、巴哈马、博奈尔、开曼群岛、哥斯达黎加、库拉索、厄瓜多尔、萨尔瓦多、危地马拉、洪都拉斯、牙买加、尼加拉瓜、秘鲁、波多黎各、特立尼达和多巴哥、特克斯和凯科斯群岛、委内瑞拉、美属维尔京群岛"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes nigriceps",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-nigriceps/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Eutermes) guatemalae Holmgren, 1910: 294-295",
+   "authorship": "Holmgren, 1910",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Eutermes) guatemalae",
+   "note": "",
+   "reference": "294-295",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes (Eutermes) pilifrons Holmgren, 1910: 265-266",
+   "authorship": "Holmgren, 1910",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Eutermes) pilifrons",
+   "note": "",
+   "reference": "265-266",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes (Eutermes) pacificus Holmgren, 1910: 266-267",
+   "authorship": "Holmgren, 1910",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes (Eutermes) pacificus",
+   "note": "",
+   "reference": "266-267",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Nasutitermes dasyopsis Thorne, 1989",
+   "authorship": "Thorne, 1989",
+   "localityAlignment": "unmatched",
+   "name": "Nasutitermes dasyopsis",
+   "note": "",
+   "reference": "",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Mexico: Western Mexico",
+ "version": "2026.11.21",
+ "zh": "黑头象白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-nobilis.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1900",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central Africa, Cameroon, Congo, Democratic Republic of the Congo, Gabon",
+  "zh": "中非、喀麦隆、刚果、刚果民主共和国、加蓬"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes nobilis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-nobilis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cameroon: Johann-Albrechtshöhe",
+ "version": "2026.11.21",
+ "zh": "闻名大白蚁"
+}

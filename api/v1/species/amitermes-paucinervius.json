@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-paucinervius.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1908",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Botswana",
+  "zh": "博茨瓦纳"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes paucinervius",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-paucinervius/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Botswana: Kalahari: Khakhea",
+ "version": "2026.11.21",
+ "zh": "寡脉弓白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/procornitermes-striatus.json",
+ "apiVersion": "1",
+ "authorship": "Hagen, 1858",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "procornitermes",
+   "latin": "Procornitermes",
+   "zh": "前角白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Argentina, Brazil, Uruguay, Paraguay",
+  "zh": "阿根廷、巴西、乌拉圭、巴拉圭"
+ },
+ "isTypeSpecies": false,
+ "latin": "Procornitermes striatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/procornitermes-striatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: ?",
+ "version": "2026.11.21",
+ "zh": "具沟前角白蚁"
+}

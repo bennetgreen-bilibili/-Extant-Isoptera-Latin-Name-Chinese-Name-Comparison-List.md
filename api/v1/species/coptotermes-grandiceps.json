@@ -1,0 +1,73 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-grandiceps.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1925",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Solomon Islands, Papua New Guinea, Indonesia",
+  "zh": "所罗门群岛、巴布亚新几内亚、印度尼西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes grandiceps",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-grandiceps/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Coptotermes solomonensis Snyder, 1925: 403",
+   "authorship": "Snyder, 1925",
+   "localityAlignment": "matched",
+   "name": "Coptotermes solomonensis",
+   "note": "",
+   "reference": "403",
+   "typeLocality": "Solomon Islands: Malayta Island: Auki"
+  },
+  {
+   "asPublished": "Coptotermes obiratus Hill, 1927: 17-19",
+   "authorship": "Hill, 1927",
+   "localityAlignment": "matched",
+   "name": "Coptotermes obiratus",
+   "note": "",
+   "reference": "17-19",
+   "typeLocality": "Papua New Guinea: Mekeo District: Waima"
+  },
+  {
+   "asPublished": "Coptotermes froggatti Light & Davis, 1929: 62-66",
+   "authorship": "Light & Davis, 1929",
+   "localityAlignment": "matched",
+   "name": "Coptotermes froggatti",
+   "note": "",
+   "reference": "62-66",
+   "typeLocality": "Solomon Islands: Russell Group: Banika"
+  },
+  {
+   "asPublished": "Coptotermes hilli Light & Davis, 1929: 66",
+   "authorship": "Light & Davis, 1929",
+   "localityAlignment": "matched",
+   "name": "Coptotermes hilli",
+   "note": "",
+   "reference": "66",
+   "typeLocality": "Solomon Islands: Banika"
+  }
+ ],
+ "typeLocality": "Solomon Islands: Tulagi Island",
+ "version": "2026.11.21",
+ "zh": "庞头乳白蚁"
+}

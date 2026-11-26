@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/bifiditermes-beesoni.json",
+ "apiVersion": "1",
+ "authorship": "Gardner, 1945",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "bifiditermes",
+   "latin": "Bifiditermes",
+   "zh": "双裂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "India, Pakistan",
+  "zh": "印度、巴基斯坦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Bifiditermes beesoni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/bifiditermes-beesoni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Uttarakhand: Haldwani",
+ "version": "2026.11.21",
+ "zh": "比森双裂白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/euhamitermes-concavigulus.json",
+ "apiVersion": "1",
+ "authorship": "Ping & Liu, 1987",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "euhamitermes",
+   "latin": "Euhamitermes",
+   "zh": "亮白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Oriental region",
+  "zh": "东洋界"
+ },
+ "isTypeSpecies": false,
+ "latin": "Euhamitermes concavigulus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/euhamitermes-concavigulus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Sichuan Province: Mizhi County",
+ "version": "2026.11.21",
+ "zh": "匙颏亮白蚁"
+}

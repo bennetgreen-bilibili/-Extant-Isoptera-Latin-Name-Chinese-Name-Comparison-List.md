@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-amanii.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Tanzania, Mozambique, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Somalia, South Africa, Zambia, Zimbabwe",
+  "zh": "坦桑尼亚、莫桑比克、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、索马里、南非、赞比亚、津巴布韦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes amanii",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-amanii/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Tanzania: Usambara: Amani",
+ "version": "2026.11.21",
+ "zh": "阿马尼乳白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/calcaritermes-snyderi.json",
+ "apiVersion": "1",
+ "authorship": "Krishna, 1962",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "calcaritermes",
+   "latin": "Calcaritermes",
+   "zh": "距白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "El Salvador, Panama, Belize, Guatemala, Honduras",
+  "zh": "萨尔瓦多、巴拿马、伯利兹、危地马拉、洪都拉斯"
+ },
+ "isTypeSpecies": false,
+ "latin": "Calcaritermes snyderi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/calcaritermes-snyderi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "El Salvador: Volcan de Santa Ana",
+ "version": "2026.11.21",
+ "zh": "斯奈德距白蚁"
+}

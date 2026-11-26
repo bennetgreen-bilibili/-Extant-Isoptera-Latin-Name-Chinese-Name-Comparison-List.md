@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ahmaditermes-sichuanensis.json",
+ "apiVersion": "1",
+ "authorship": "Xia, Gao, Pan & Tang, 1983",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ahmaditermes",
+   "latin": "Ahmaditermes",
+   "zh": "钝颚白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "China (Sichuan)",
+  "zh": "中国四川"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ahmaditermes sichuanensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ahmaditermes-sichuanensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Sichuan Province: Hejiang",
+ "version": "2026.11.21",
+ "zh": "四川钝颚白蚁"
+}

@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-natalensis.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, West Africa, Central Africa, East Africa, southern Africa, Angola, Botswana, Central African Republic, Chad, Congo, Democratic Republic of the Congo, Eritrea, Ghana, Guinea, Guinea-Bissau, Côte d'Ivoire, Kenya, Liberia, Madagascar, Malawi, Mozambique, Namibia, Nigeria, Senegal, South Africa, Sudan, Tanzania, Togo, Uganda, Zambia, Zimbabwe",
+  "zh": "旧热带界、西非、中非、东非、非洲南部、安哥拉、博茨瓦纳、中非共和国、乍得、刚果、刚果民主共和国、厄立特里亚、加纳、几内亚、几内亚比绍、科特迪瓦、肯尼亚、利比里亚、马达加斯加、马拉维、莫桑比克、纳米比亚、尼日利亚、塞内加尔、南非、苏丹、坦桑尼亚、多哥、乌干达、赞比亚、津巴布韦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes natalensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-natalensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Macrotermes natalensis intermedius Fuller, 1922: 76",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "matched",
+   "name": "Macrotermes natalensis intermedius",
+   "note": "",
+   "reference": "76",
+   "typeLocality": "South Africa: Transvaal: Nylstroom"
+  },
+  {
+   "asPublished": "Macrotermes natalensis transvaalensis Fuller, 1922: 76",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "matched",
+   "name": "Macrotermes natalensis transvaalensis",
+   "note": "",
+   "reference": "76",
+   "typeLocality": "South Africa: Transvaal: Witbank"
+  },
+  {
+   "asPublished": "Macrotermes natalensis durbanensis Fuller, 1927: 136",
+   "authorship": "Fuller, 1927",
+   "localityAlignment": "matched",
+   "name": "Macrotermes natalensis durbanensis",
+   "note": "",
+   "reference": "136",
+   "typeLocality": "South Africa: Natal: Durban"
+  }
+ ],
+ "typeLocality": "South Africa: Natal: Estcourt",
+ "version": "2026.11.21",
+ "zh": "纳塔尔大白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/reticulitermes-balkanensis.json",
+ "apiVersion": "1",
+ "authorship": "Clément, 1984",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "reticulitermes",
+   "latin": "Reticulitermes",
+   "zh": "散白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Balkans, Greece etc., Albania, former Yugoslavia",
+  "zh": "巴尔干半岛、希腊等、阿尔巴尼亚、前南斯拉夫"
+ },
+ "isTypeSpecies": false,
+ "latin": "Reticulitermes balkanensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/reticulitermes-balkanensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Greece: ?; Yugoslavia: ?",
+ "version": "2026.11.21",
+ "zh": "巴尔干散白蚁"
+}

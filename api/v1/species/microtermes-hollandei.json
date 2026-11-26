@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microtermes-hollandei.json",
+ "apiVersion": "1",
+ "authorship": "Grassé, 1937",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microtermes",
+   "latin": "Microtermes",
+   "zh": "小白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Senegal",
+  "zh": "西非、塞内加尔"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microtermes hollandei",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microtermes-hollandei/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Senegal: Dakar",
+ "version": "2026.11.21",
+ "zh": "霍兰德小白蚁"
+}

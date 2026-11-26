@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-peritrimorphus.json",
+ "apiVersion": "1",
+ "authorship": "Li & Xiao, 1989",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Guangxi (Hexian, Huashuichong) and Yunnan (Pingbian), China",
+  "zh": "中国广西（贺县滑水冲）、云南（屏边）"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes peritrimorphus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-peritrimorphus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Guangxi Province: Huashuichong Forest: Hexian",
+ "version": "2026.11.21",
+ "zh": "近三型大白蚁"
+}

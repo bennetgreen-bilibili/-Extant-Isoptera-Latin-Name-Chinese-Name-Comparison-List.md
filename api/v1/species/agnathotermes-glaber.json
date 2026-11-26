@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/agnathotermes-glaber.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1926",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "agnathotermes",
+   "latin": "Agnathotermes",
+   "zh": "无颚白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, French Guiana, Colombia, Trinidad, Bolivia, Ecuador, Trinidad and Tobago",
+  "zh": "巴西、法属圭亚那、哥伦比亚、特立尼达、玻利维亚、厄瓜多尔、特立尼达和多巴哥"
+ },
+ "isTypeSpecies": true,
+ "latin": "Agnathotermes glaber",
+ "pageUrl": "https://termite-extant-isoptera.org/species/agnathotermes-glaber/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Bolivia: Pando: Cachuela Esperanza [10.5333S 65.6333W]",
+ "version": "2026.11.21",
+ "zh": "光秃无颚白蚁"
+}

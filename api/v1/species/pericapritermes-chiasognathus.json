@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/pericapritermes-chiasognathus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1904",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "pericapritermes",
+   "latin": "Pericapritermes",
+   "zh": "近扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Republic of the Congo, Angola, Cameroon, Democratic Republic of the Congo, Gabon, Nigeria",
+  "zh": "刚果共和国、安哥拉、喀麦隆、刚果民主共和国、加蓬、尼日利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Pericapritermes chiasognathus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/pericapritermes-chiasognathus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Pericapritermes cordatus Sjöstedt, 1924: 496",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "matched",
+   "name": "Pericapritermes cordatus",
+   "note": "",
+   "reference": "496",
+   "typeLocality": "Democratic Republic of the Congo: Mukimbungu"
+  }
+ ],
+ "typeLocality": "Cameroon: Lolodorf",
+ "version": "2026.11.21",
+ "zh": "隐颚近扭白蚁"
+}

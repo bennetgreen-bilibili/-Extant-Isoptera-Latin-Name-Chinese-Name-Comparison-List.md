@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-schmitzi.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1928",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Benin, Democratic Republic of the Congo, Sudan",
+  "zh": "西非贝宁、刚果民主共和国、苏丹"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes schmitzi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-schmitzi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Kisangani (Stanleyville)",
+ "version": "2026.11.21",
+ "zh": "施米茨土白蚁"
+}

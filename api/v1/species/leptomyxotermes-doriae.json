@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/leptomyxotermes-doriae.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1912",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "leptomyxotermes",
+   "latin": "Leptomyxotermes",
+   "zh": "薄喙白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Cameroon, Equatorial Guinea, Côte d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Nigeria, Senegal, Sierra Leone",
+  "zh": "喀麦隆、赤道几内亚、科特迪瓦、刚果民主共和国、加蓬、加纳、尼日利亚、塞内加尔、塞拉利昂"
+ },
+ "isTypeSpecies": true,
+ "latin": "Leptomyxotermes doriae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/leptomyxotermes-doriae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Equatorial Guinea: Bioko Island: Basilé",
+ "version": "2026.11.21",
+ "zh": "多利亚薄喙白蚁"
+}

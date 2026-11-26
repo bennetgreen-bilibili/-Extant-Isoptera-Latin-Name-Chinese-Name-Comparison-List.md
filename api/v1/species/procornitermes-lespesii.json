@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/procornitermes-lespesii.json",
+ "apiVersion": "1",
+ "authorship": "Müller, 1873",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "procornitermes",
+   "latin": "Procornitermes",
+   "zh": "前角白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Bolivia, Paraguay, Argentina",
+  "zh": "巴西、玻利维亚、巴拉圭、阿根廷"
+ },
+ "isTypeSpecies": false,
+ "latin": "Procornitermes lespesii",
+ "pageUrl": "https://termite-extant-isoptera.org/species/procornitermes-lespesii/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes muelleri Jhering, 1887: 3",
+   "authorship": "Jhering, 1887",
+   "localityAlignment": "matched",
+   "name": "Termes muelleri",
+   "note": "",
+   "reference": "3",
+   "typeLocality": "Brasil: Rio Grande do Sul: Lagoa dos Patos, mouth of Camaquã River [31.285S 51.752W]"
+  },
+  {
+   "asPublished": "Cornitermes cornutus Holmgren, 1906: 549-551",
+   "authorship": "Holmgren, 1906",
+   "localityAlignment": "matched",
+   "name": "Cornitermes cornutus",
+   "note": "",
+   "reference": "549-551",
+   "typeLocality": "Bolivia: La Paz: Río Tuichi [14.28S 68.54W]"
+  }
+ ],
+ "typeLocality": "Brasil: Santa Catarina: Itajaí [26.9078S 48.6619W]",
+ "version": "2026.11.21",
+ "zh": "莱佩斯前角白蚁"
+}

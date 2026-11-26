@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/prorhinotermes-rugifer.json",
+ "apiVersion": "1",
+ "authorship": "Kemner, 1931",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "psammotermitidae",
+   "latin": "Psammotermitidae",
+   "zh": "沙白蚁科"
+  },
+  "genus": {
+   "id": "prorhinotermes",
+   "latin": "Prorhinotermes",
+   "zh": "原鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Indonesia, Indonesia",
+  "zh": "印尼、印度尼西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Prorhinotermes rugifer",
+ "pageUrl": "https://termite-extant-isoptera.org/species/prorhinotermes-rugifer/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Indonesia: Maluku: Ambon",
+ "version": "2026.11.21",
+ "zh": "具皱原鼻白蚁"
+}

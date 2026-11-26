@@ -79,6 +79,7 @@ zh-CN:
     noJs: 图形需要启用 JavaScript；如需查看分类层级，请前往名录索引页。
   nav_stats: 统计
   nav_data: 数据
+  nav_api: API
   nav_download: 下载
   nav_blog: 博客
   nav_guestbook: 留言
@@ -236,6 +237,7 @@ en:
     noJs: The chart requires JavaScript; use the checklist page to browse the classification.
   nav_stats: Statistics
   nav_data: Data
+  nav_api: API
   nav_download: Download
   nav_blog: Blog
   nav_guestbook: Guestbook
@@ -393,6 +395,7 @@ es:
     noJs: El gráfico requiere JavaScript; use la página de la lista para explorar la clasificación.
   nav_stats: Estadísticas
   nav_data: Datos
+  nav_api: API
   nav_download: Descargas
   nav_blog: Blog
   nav_guestbook: Libro de visitas

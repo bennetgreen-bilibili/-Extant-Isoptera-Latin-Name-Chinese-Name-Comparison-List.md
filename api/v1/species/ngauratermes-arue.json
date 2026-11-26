@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ngauratermes-arue.json",
+ "apiVersion": "1",
+ "authorship": "Constantino & Acioli, 2009",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ngauratermes",
+   "latin": "Ngauratermes",
+   "zh": "凋落白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Peru",
+  "zh": "巴西、秘鲁"
+ },
+ "isTypeSpecies": true,
+ "latin": "Ngauratermes arue",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ngauratermes-arue/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Amazonas: Benjamin Constant, Nova Aliança [4.35S 69.6W]",
+ "version": "2026.11.21",
+ "zh": "小凋落白蚁"
+}

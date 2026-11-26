@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/postelectrotermes-pishinensis.json",
+ "apiVersion": "1",
+ "authorship": "Ahmad, 1955",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "postelectrotermes",
+   "latin": "Postelectrotermes",
+   "zh": "后琥珀白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "South Asia, Balochistan, Pakistan",
+  "zh": "南亚、巴基斯坦俾路支"
+ },
+ "isTypeSpecies": false,
+ "latin": "Postelectrotermes pishinensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/postelectrotermes-pishinensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Pakistan: Baluchistan: District Quetta: Pishin",
+ "version": "2026.11.21",
+ "zh": "比欣后琥珀白蚁"
+}

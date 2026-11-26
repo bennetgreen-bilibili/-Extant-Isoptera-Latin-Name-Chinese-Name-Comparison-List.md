@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cucurbitermes-yingdeensis.json",
+ "apiVersion": "1",
+ "authorship": "Li & Ping, 1985",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "cucurbitermes",
+   "latin": "Cucurbitermes",
+   "zh": "葫白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "China, Guangdong, Jiangxi, Hunan",
+  "zh": "中国、广东、江西、湖南"
+ },
+ "isTypeSpecies": true,
+ "latin": "Cucurbitermes yingdeensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cucurbitermes-yingdeensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Guangdong Province: Yingde",
+ "version": "2026.11.21",
+ "zh": "英德葫白蚁"
+}

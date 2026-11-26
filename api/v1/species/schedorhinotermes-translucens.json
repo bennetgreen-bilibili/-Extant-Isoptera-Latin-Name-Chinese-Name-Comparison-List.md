@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/schedorhinotermes-translucens.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "schedorhinotermes",
+   "latin": "Schedorhinotermes",
+   "zh": "长鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Solomon Islands, Bangladesh, India, Indonesia, Malaysia, Papua New Guinea",
+  "zh": "所罗门群岛、孟加拉国、印度、印度尼西亚、马来西亚、巴布亚新几内亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Schedorhinotermes translucens",
+ "pageUrl": "https://termite-extant-isoptera.org/species/schedorhinotermes-translucens/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Rhinotermes ( Schedorhinotermes ) celebensis Holmgren, 1911: 458",
+   "authorship": "Holmgren, 1911",
+   "localityAlignment": "matched",
+   "name": "Rhinotermes (Schedorhinotermes) celebensis",
+   "note": "",
+   "reference": "458",
+   "typeLocality": "Indonesia: Sulawesi"
+  },
+  {
+   "asPublished": "Rhinotermes ( Schedorhinotermes ) marjoriae Snyder, 1925: 404-405",
+   "authorship": "Snyder, 1925",
+   "localityAlignment": "matched",
+   "name": "Rhinotermes (Schedorhinotermes) marjoriae",
+   "note": "",
+   "reference": "404-405",
+   "typeLocality": "Solomon Islands: Ugi Island"
+  }
+ ],
+ "typeLocality": "Malaysia: Sarawak",
+ "version": "2026.11.21",
+ "zh": "透明长鼻白蚁"
+}

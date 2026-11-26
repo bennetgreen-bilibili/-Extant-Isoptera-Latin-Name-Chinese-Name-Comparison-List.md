@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/longipeditermes-longipes.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "longipeditermes",
+   "latin": "Longipeditermes",
+   "zh": "长足白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Malaysia, Singapore, Thailand, Indonesia, Brunei",
+  "zh": "马来西亚、新加坡、泰国、印度尼西亚、文莱"
+ },
+ "isTypeSpecies": true,
+ "latin": "Longipeditermes longipes",
+ "pageUrl": "https://termite-extant-isoptera.org/species/longipeditermes-longipes/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Longipeditermes mandibulatus Thapa, 1982: 349-352",
+   "authorship": "Thapa, 1982",
+   "localityAlignment": "matched",
+   "name": "Longipeditermes mandibulatus",
+   "note": "",
+   "reference": "349-352",
+   "typeLocality": "Malaysia: Sabah: Beaufort District: Beaufort"
+  }
+ ],
+ "typeLocality": "Malaysia: Perak; Sarawak: Marudi",
+ "version": "2026.11.21",
+ "zh": "长足长足白蚁"
+}

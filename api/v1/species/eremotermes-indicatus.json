@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/eremotermes-indicatus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "eremotermes",
+   "latin": "Eremotermes",
+   "zh": "漠白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Libya, Tunisia",
+  "zh": "利比亚、突尼斯"
+ },
+ "isTypeSpecies": true,
+ "latin": "Eremotermes indicatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/eremotermes-indicatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Tunisia: Kairouan",
+ "version": "2026.11.21",
+ "zh": "指示漠白蚁"
+}

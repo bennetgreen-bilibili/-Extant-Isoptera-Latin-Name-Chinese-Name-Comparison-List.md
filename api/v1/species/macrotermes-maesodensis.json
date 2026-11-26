@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-maesodensis.json",
+ "apiVersion": "1",
+ "authorship": "Ahmad, 1965",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Southeast Asia, Vietnam, Thailand",
+  "zh": "东南亚、越南、泰国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes maesodensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-maesodensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Thailand: km 20 east of Mae Sod on road to Tak",
+ "version": "2026.11.21",
+ "zh": "湄索德大白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/rhadinotermes-coarctatus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1902",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "rhadinotermes",
+   "latin": "Rhadinotermes",
+   "zh": "锥形白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Zimbabwe, Madagascar, Botswana, Democratic Republic of the Congo, Malawi, Namibia, South Africa, Tanzania, Zambia",
+  "zh": "津巴布韦、马达加斯加、博茨瓦纳、刚果民主共和国、马拉维、纳米比亚、南非、坦桑尼亚、赞比亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Rhadinotermes coarctatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/rhadinotermes-coarctatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malawi: Zomba",
+ "version": "2026.11.21",
+ "zh": "压缩锥形白蚁"
+}

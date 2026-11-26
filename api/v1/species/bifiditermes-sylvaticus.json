@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/bifiditermes-sylvaticus.json",
+ "apiVersion": "1",
+ "authorship": "Wilkinson, 1959",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "bifiditermes",
+   "latin": "Bifiditermes",
+   "zh": "双裂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Kenya, Uganda",
+  "zh": "肯尼亚、乌干达"
+ },
+ "isTypeSpecies": false,
+ "latin": "Bifiditermes sylvaticus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/bifiditermes-sylvaticus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Uganda: Ankole District, 8 mi S of Kichwamba",
+ "version": "2026.11.21",
+ "zh": "森林双裂白蚁"
+}

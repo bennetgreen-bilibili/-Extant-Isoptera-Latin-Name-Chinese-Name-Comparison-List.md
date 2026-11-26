@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cortaritermes-intermedius.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Cortaritermes intermedius",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "cortaritermes-intermedius",
+   "source": "gbif",
+   "theirs": "Cortaritermes Mathews, 1977",
+   "url": null,
+   "verified": false,
+   "zh": "中间利颚白蚁"
+  }
+ ],
+ "authorship": "Banks, 1919",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "cortaritermes",
+   "latin": "Cortaritermes",
+   "zh": "利颚白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Argentina, Colombia, French Guiana, Uruguay, Venezuela, Bolivia, Paraguay, Trinidad, Trinidad and Tobago",
+  "zh": "巴西、阿根廷、哥伦比亚、法属圭亚那、乌拉圭、委内瑞拉、玻利维亚、巴拉圭、特立尼达、特立尼达和多巴哥"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cortaritermes intermedius",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cortaritermes-intermedius/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Trinidad and Tobago: Sangre Grande: Cumuto [10.5865N 61.2078W]",
+ "version": "2026.11.21",
+ "zh": "中间利颚白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-mangoldi.json",
+ "apiVersion": "1",
+ "authorship": "Scheffrahn & Krecek, 1999",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Dominican Republic, Colombia",
+  "zh": "多米尼加、哥伦比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes mangoldi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-mangoldi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Dominican Republic: La Altagracia Province, 0.5 km W Club Mediterraneo",
+ "version": "2026.11.21",
+ "zh": "曼戈尔德堆砂白蚁"
+}

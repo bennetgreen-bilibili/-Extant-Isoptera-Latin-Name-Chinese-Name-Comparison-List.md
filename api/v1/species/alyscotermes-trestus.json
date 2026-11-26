@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/alyscotermes-trestus.json",
+ "apiVersion": "1",
+ "authorship": "Sands, 1972",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "alyscotermes",
+   "latin": "Alyscotermes",
+   "zh": "逃白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Ethiopia, Kenya, Tanzania",
+  "zh": "埃塞俄比亚、肯尼亚、坦桑尼亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Alyscotermes trestus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/alyscotermes-trestus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Kenya: Narok District: Mara, 9 miles from Olokurto",
+ "version": "2026.11.21",
+ "zh": "懦夫逃白蚁"
+}

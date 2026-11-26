@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/procubitermes-undulans.json",
+ "apiVersion": "1",
+ "authorship": "Schmitz, 1917",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "procubitermes",
+   "latin": "Procubitermes",
+   "zh": "原方白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "East Africa, Uganda, Democratic Republic of the Congo",
+  "zh": "东非、乌干达、刚果民主共和国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Procubitermes undulans",
+ "pageUrl": "https://termite-extant-isoptera.org/species/procubitermes-undulans/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Kisangani (Stanleyville)",
+ "version": "2026.11.21",
+ "zh": "波纹原方白蚁"
+}

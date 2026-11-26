@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/skatitermes-watti.json",
+ "apiVersion": "1",
+ "authorship": "Coaton, 1971",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "skatitermes",
+   "latin": "Skatitermes",
+   "zh": "洁白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "southern Africa (South Africa)",
+  "zh": "非洲南部南非"
+ },
+ "isTypeSpecies": false,
+ "latin": "Skatitermes watti",
+ "pageUrl": "https://termite-extant-isoptera.org/species/skatitermes-watti/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Namibia: 96.5 km ex Rundu-Grootfontein",
+ "version": "2026.11.21",
+ "zh": "瓦特洁白蚁"
+}

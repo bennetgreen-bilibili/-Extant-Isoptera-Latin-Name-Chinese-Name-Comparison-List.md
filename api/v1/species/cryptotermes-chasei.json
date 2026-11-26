@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-chasei.json",
+ "apiVersion": "1",
+ "authorship": "Scheffrahn, 1993",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Dominican Republic",
+  "zh": "多米尼加"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes chasei",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-chasei/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Dominican Republic: La Altagracia Province: Juanillo",
+ "version": "2026.11.21",
+ "zh": "蔡斯堆砂白蚁"
+}

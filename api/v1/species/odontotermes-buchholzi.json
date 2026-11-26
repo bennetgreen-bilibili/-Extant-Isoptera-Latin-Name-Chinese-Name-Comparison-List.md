@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-buchholzi.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1897",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central Africa, Gabon, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Liberia",
+  "zh": "中非加蓬、喀麦隆、刚果民主共和国、赤道几内亚、利比里亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes buchholzi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-buchholzi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cameroon: (Mapanja?); Equatorial Guinea: Bioko; Gabon: River Ogoué (Ogowe)",
+ "version": "2026.11.21",
+ "zh": "巴克霍尔兹土白蚁"
+}

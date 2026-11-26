@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-hemicyclius.json",
+ "apiVersion": "1",
+ "authorship": "Bacchus, 1987",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Jamaica",
+  "zh": "牙买加"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes hemicyclius",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-hemicyclius/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Jamaica: Portland Ridge",
+ "version": "2026.11.21",
+ "zh": "半圆堆砂白蚁"
+}

@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/silvestritermes-lanei.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Silvestritermes lanei",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "silvestritermes-lanei",
+   "source": "gbif",
+   "theirs": "Silvestritermes Rocha & Cancello, 2012",
+   "url": null,
+   "verified": false,
+   "zh": "莱恩西尔韦斯特里白蚁"
+  }
+ ],
+ "authorship": "Canter, 1968",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "silvestritermes",
+   "latin": "Silvestritermes",
+   "zh": "西尔韦斯特里白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Silvestritermes lanei",
+ "pageUrl": "https://termite-extant-isoptera.org/species/silvestritermes-lanei/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Mato Grosso do Sul: Três Lagoas, Fazenda Canaã [20.783S 51.8W]",
+ "version": "2026.11.21",
+ "zh": "莱恩西尔韦斯特里白蚁"
+}

@@ -1,0 +1,100 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-insularis.json",
+ "apiVersion": "1",
+ "authorship": "Walker, 1853",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Australia, New Zealand",
+  "zh": "澳大利亚、新西兰"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes insularis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-insularis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Calotermes irregularis Froggatt, 1897: 525-527",
+   "authorship": "Froggatt, 1897",
+   "localityAlignment": "matched",
+   "name": "Calotermes irregularis",
+   "note": "",
+   "reference": "525-527",
+   "typeLocality": "Australia: Queensland: Mackay"
+  },
+  {
+   "asPublished": "Calotermes robustus Froggatt, 1897: 529-530",
+   "authorship": "Froggatt, 1897",
+   "localityAlignment": "matched",
+   "name": "Calotermes robustus",
+   "note": "",
+   "reference": "529-530",
+   "typeLocality": "Australia: New South Wales: Sans Souci"
+  },
+  {
+   "asPublished": "Calotermes longiceps Froggatt, 1897: 528-529",
+   "authorship": "Froggatt, 1897",
+   "localityAlignment": "matched",
+   "name": "Calotermes longiceps",
+   "note": "",
+   "reference": "528-529",
+   "typeLocality": "Australia: New South Wales: Croydon"
+  },
+  {
+   "asPublished": "Calotermes ( Neotermes ) oculifer Mjöberg, 1920: 19-21",
+   "authorship": "Mjöberg, 1920",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Neotermes) oculifer",
+   "note": "",
+   "reference": "19-21",
+   "typeLocality": "Australia: Queensland: Ravenshoe"
+  },
+  {
+   "asPublished": "Calotermes ( Neotermes ) paralleliceps Mjöberg, 1920: 16-19",
+   "authorship": "Mjöberg, 1920",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Neotermes) paralleliceps",
+   "note": "",
+   "reference": "16-19",
+   "typeLocality": "Australia: Queensland: Ravenshoe"
+  },
+  {
+   "asPublished": "Calotermes malandensis Mjöberg, 1920: 12-16",
+   "authorship": "Mjöberg, 1920",
+   "localityAlignment": "matched",
+   "name": "Calotermes malandensis",
+   "note": "",
+   "reference": "12-16",
+   "typeLocality": "Australia: Queensland: Malanda"
+  },
+  {
+   "asPublished": "Calotermes ( Neotermes ) deuqueti Hill, 1926: 196-199",
+   "authorship": "Hill, 1926",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Neotermes) deuqueti",
+   "note": "",
+   "reference": "196-199",
+   "typeLocality": "Australia: New South Wales: Lismore"
+  }
+ ],
+ "typeLocality": "New Zealand: ?",
+ "version": "2026.11.21",
+ "zh": "岛生新白蚁"
+}

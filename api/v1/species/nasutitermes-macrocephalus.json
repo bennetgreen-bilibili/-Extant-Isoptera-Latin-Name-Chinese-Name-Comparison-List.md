@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-macrocephalus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1903",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Colombia, French Guiana, Ecuador, Peru, Argentina, Bolivia, Paraguay, Venezuela",
+  "zh": "巴西、哥伦比亚、法属圭亚那、厄瓜多尔、秘鲁、阿根廷、玻利维亚、巴拉圭、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes macrocephalus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-macrocephalus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Argentina: Misiones: Posadas [27.37S 55.9W]; Misiones: Puerto Piray [26.4667S 54.7W]; Misiones: San Ignacio [27.2667S 55.5333W]; Paraguay: Alto Paraná: Puerto Bertoni [25.65S 54.5833W]",
+ "version": "2026.11.21",
+ "zh": "大头象白蚁"
+}

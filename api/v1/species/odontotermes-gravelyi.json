@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-gravelyi.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Yunnan, China, Myanmar, Vietnam",
+  "zh": "中国云南、缅甸、越南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes gravelyi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-gravelyi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Myanmar: east side of Dawna Hills, Sukli",
+ "version": "2026.11.21",
+ "zh": "粗颚土白蚁"
+}

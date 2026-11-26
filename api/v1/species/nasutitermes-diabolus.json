@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-diabolus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1907",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Republic of the Congo (Brazzaville), Côte d'Ivoire, Cameroon, Democratic Republic of the Congo (Kinshasa), Gabon, Nigeria, Uganda",
+  "zh": "刚果（布）、科特迪瓦、喀麦隆、刚果民主共和国、加蓬、尼日利亚、乌干达"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes diabolus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-diabolus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Eutermes) torquatus Sjöstedt, 1924: 494",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Eutermes) torquatus",
+   "note": "",
+   "reference": "494",
+   "typeLocality": "Democratic Republic of the Congo: Kisangani (Stanleyville)"
+  }
+ ],
+ "typeLocality": "Democratic Republic of the Congo: Mukimbungu",
+ "version": "2026.11.21",
+ "zh": "魔鬼象白蚁"
+}

@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microtermes-aluco.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1904",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microtermes",
+   "latin": "Microtermes",
+   "zh": "小白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Nigeria, Cameroon, Democratic Republic of the Congo, Sudan",
+  "zh": "西非、尼日利亚、喀麦隆、刚果民主共和国、苏丹"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microtermes aluco",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microtermes-aluco/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Ancistrotermes sudanensis Sjöstedt, 1924: 255",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "matched",
+   "name": "Ancistrotermes sudanensis",
+   "note": "",
+   "reference": "255",
+   "typeLocality": "Mali: Boadie in Niger Valley"
+  }
+ ],
+ "typeLocality": "Mali: Sikasso",
+ "version": "2026.11.21",
+ "zh": "林鸮小白蚁"
+}

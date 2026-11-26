@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-verruculosus.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1925",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "South America, Bolivia, Guyana",
+  "zh": "南美洲、玻利维亚、圭亚那"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes verruculosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-verruculosus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]",
+ "version": "2026.11.21",
+ "zh": "多疣堆砂白蚁"
+}

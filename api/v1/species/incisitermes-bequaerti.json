@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/incisitermes-bequaerti.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1929",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "incisitermes",
+   "latin": "Incisitermes",
+   "zh": "楹白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Bahamas, Puerto Rico, Cuba, Bermuda, Curaçao, Dominican Republic, Trinidad and Tobago, Turks and Caicos Islands, U.S. Virgin Islands",
+  "zh": "巴哈马、波多黎各、古巴、百慕大、库拉索、多米尼加、特立尼达和多巴哥、特克斯和凯科斯群岛、美属维尔京群岛"
+ },
+ "isTypeSpecies": false,
+ "latin": "Incisitermes bequaerti",
+ "pageUrl": "https://termite-extant-isoptera.org/species/incisitermes-bequaerti/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cuba: Oriente: Banos",
+ "version": "2026.11.21",
+ "zh": "贝奎特楹白蚁"
+}

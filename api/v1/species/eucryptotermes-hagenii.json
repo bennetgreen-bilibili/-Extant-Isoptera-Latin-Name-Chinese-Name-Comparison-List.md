@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/eucryptotermes-hagenii.json",
+ "apiVersion": "1",
+ "authorship": "Müller, 1873",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "eucryptotermes",
+   "latin": "Eucryptotermes",
+   "zh": "真砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "South America, Brazil, Argentina",
+  "zh": "南美洲、巴西、阿根廷"
+ },
+ "isTypeSpecies": true,
+ "latin": "Eucryptotermes hagenii",
+ "pageUrl": "https://termite-extant-isoptera.org/species/eucryptotermes-hagenii/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Santa Catarina: Blumenau [ 26.91S 49.044W ]",
+ "version": "2026.11.21",
+ "zh": "哈根真砂白蚁"
+}

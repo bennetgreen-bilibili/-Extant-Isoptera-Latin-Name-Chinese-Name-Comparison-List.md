@@ -1,0 +1,65 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/promirotermes-holmgreni.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1912",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "promirotermes",
+   "latin": "Promirotermes",
+   "zh": "前奇白蚁属"
+  },
+  "subfamily": {
+   "id": "promirotermitinae",
+   "latin": "Promirotermitinae",
+   "zh": "前奇白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Senegal, Guinea-Bissau, Ghana, Côte d'Ivoire, Togo, Nigeria, Cameroon",
+  "zh": "塞内加尔、几内亚比绍、加纳、科特迪瓦、多哥、尼日利亚、喀麦隆"
+ },
+ "isTypeSpecies": true,
+ "latin": "Promirotermes holmgreni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/promirotermes-holmgreni/",
+ "rank": "species",
+ "subspecies": [
+  {
+   "authorship": "Silvestri, 1912",
+   "latin": "Promirotermes holmgreni holmgreni",
+   "pageUrl": "https://termite-extant-isoptera.org/species/promirotermes-holmgreni-holmgreni/",
+   "slug": "promirotermes-holmgreni-holmgreni",
+   "zh": "指名亚种"
+  },
+  {
+   "authorship": "Silvestri, 1914",
+   "latin": "Promirotermes holmgreni infera",
+   "pageUrl": "https://termite-extant-isoptera.org/species/promirotermes-holmgreni-infera/",
+   "slug": "promirotermes-holmgreni-infera",
+   "zh": "下亚种"
+  }
+ ],
+ "synonyms": [
+  {
+   "asPublished": "Promirotermes gracilipes minor Sjöstedt, 1926: 244",
+   "authorship": "Sjöstedt, 1926",
+   "localityAlignment": "matched",
+   "name": "Promirotermes gracilipes minor",
+   "note": "",
+   "reference": "244",
+   "typeLocality": "Ghana: Accra"
+  }
+ ],
+ "typeLocality": "Guinea Bissau: Bolama",
+ "version": "2026.11.21",
+ "zh": "霍姆格伦前奇白蚁"
+}

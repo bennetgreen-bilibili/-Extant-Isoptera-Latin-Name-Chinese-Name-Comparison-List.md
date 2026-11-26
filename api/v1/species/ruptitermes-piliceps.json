@@ -1,0 +1,80 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ruptitermes-piliceps.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Ruptitermes piliceps",
+   "match": "higherrank",
+   "note": "",
+   "rank": "种",
+   "slug": "ruptitermes-piliceps",
+   "source": "col",
+   "theirs": "Ruptitermes Mathews, 1977",
+   "url": null,
+   "verified": false,
+   "zh": "毛头腹爆白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "missing",
+   "latin": "Ruptitermes piliceps",
+   "match": null,
+   "note": "",
+   "rank": "种",
+   "slug": "ruptitermes-piliceps",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "毛头腹爆白蚁"
+  }
+ ],
+ "authorship": "Acioli & Constantino, 2015",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ruptitermes",
+   "latin": "Ruptitermes",
+   "zh": "腹爆白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South America, Colombia, Brazil",
+  "zh": "南美洲、哥伦比亚、巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ruptitermes piliceps",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ruptitermes-piliceps/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Goiás: Niquelândia, Codemin [ 14.1332S 48.34W ]",
+ "version": "2026.11.21",
+ "zh": "毛头腹爆白蚁"
+}

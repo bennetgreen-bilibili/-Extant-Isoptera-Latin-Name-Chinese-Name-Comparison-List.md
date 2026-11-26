@@ -1,0 +1,91 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-dudleyi.json",
+ "apiVersion": "1",
+ "authorship": "Banks, 1918",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Australia, South Asia, Sri Lanka, India, Indonesia, Malaysia, Brazil, Canada, China, Cocos Island (Costa Rica), Colombia, Costa Rica, Fiji, Guam, Jamaica, Kenya, Kiribati, Madagascar, Marshall Islands, Mauritius, Nicaragua, Nigeria, Oman, Panama, Papua New Guinea, Philippines, Samoa, Solomon Islands, Somalia, Tanzania, Trinidad and Tobago, Uganda",
+  "zh": "澳大利亚、南亚、斯里兰卡、印度、印度尼西亚、马来西亚、巴西、加拿大、中国、科科斯岛（哥斯达黎加）、哥伦比亚、哥斯达黎加、斐济、关岛、牙买加、肯尼亚、基里巴斯、马达加斯加、马绍尔群岛、毛里求斯、尼加拉瓜、尼日利亚、阿曼、巴拿马、巴布亚新几内亚、菲律宾、萨摩亚、所罗门群岛、索马里、坦桑尼亚、特立尼达和多巴哥、乌干达"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes dudleyi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-dudleyi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Calotermes havilandi parasita Wasmann, 1910: 120",
+   "authorship": "Wasmann, 1910",
+   "localityAlignment": "matched",
+   "name": "Calotermes havilandi parasita",
+   "note": "",
+   "reference": "120",
+   "typeLocality": "Mauritius: ?"
+  },
+  {
+   "asPublished": "Calotermes ( Cryptotermes ) jacobsoni Holmgren, 1913: 48",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Cryptotermes) jacobsoni",
+   "note": "",
+   "reference": "48",
+   "typeLocality": "Indonesia: Java: Gunung Gedeh"
+  },
+  {
+   "asPublished": "Planocryptotermes nocens Light, 1921: 43-47",
+   "authorship": "Light, 1921",
+   "localityAlignment": "matched",
+   "name": "Planocryptotermes nocens",
+   "note": "",
+   "reference": "43-47",
+   "typeLocality": "Philippines: Luzon: Manila"
+  },
+  {
+   "asPublished": "Cryptotermes thompsonae Snyder, 1922: 16-18",
+   "authorship": "Snyder, 1922",
+   "localityAlignment": "matched",
+   "name": "Cryptotermes thompsonae",
+   "note": "",
+   "reference": "16-18",
+   "typeLocality": "Panama: Ancon"
+  },
+  {
+   "asPublished": "Cryptotermes ( Planocryptotermes ) primus Kemner, 1932: 151-153",
+   "authorship": "Kemner, 1932",
+   "localityAlignment": "matched",
+   "name": "Cryptotermes (Planocryptotermes) primus",
+   "note": "",
+   "reference": "151-153",
+   "typeLocality": "Sri Lanka: ?"
+  },
+  {
+   "asPublished": "Cryptotermes ( Planocryptotermes ) javanicus Kemner, 1934: 47-49",
+   "authorship": "Kemner, 1934",
+   "localityAlignment": "matched",
+   "name": "Cryptotermes (Planocryptotermes) javanicus",
+   "note": "",
+   "reference": "47-49",
+   "typeLocality": "Indonesia: Java: Bogor"
+  }
+ ],
+ "typeLocality": "Panama: ?",
+ "version": "2026.11.21",
+ "zh": "长颚堆砂白蚁"
+}

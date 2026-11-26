@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/anoplotermes-pacificus.json",
+ "apiVersion": "1",
+ "authorship": "Müller, 1873",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "anoplotermes",
+   "latin": "Anoplotermes",
+   "zh": "解甲白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Amazon region",
+  "zh": "巴西、亚马孙地区"
+ },
+ "isTypeSpecies": true,
+ "latin": "Anoplotermes pacificus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/anoplotermes-pacificus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Anoplotermes ( Anoplotermes ) indistinctus Snyder, 1926: 52-53",
+   "authorship": "Snyder, 1926",
+   "localityAlignment": "matched",
+   "name": "Anoplotermes (Anoplotermes) indistinctus",
+   "note": "",
+   "reference": "52-53",
+   "typeLocality": "Bolivia: La Paz: Tumupasa [ 14.15S 67.9167W ]"
+  }
+ ],
+ "typeLocality": "Brasil: Santa Catarina: Itajaí [ 26.9078S 48.6619W ]",
+ "version": "2026.11.21",
+ "zh": "太平洋解甲白蚁"
+}

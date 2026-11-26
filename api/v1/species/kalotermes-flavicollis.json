@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/kalotermes-flavicollis.json",
+ "apiVersion": "1",
+ "authorship": "Fabricius, 1793",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "kalotermes",
+   "latin": "Kalotermes",
+   "zh": "木白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Mediterranean region, Southern Europe, North Africa, West Asia",
+  "zh": "地中海区、南欧、北非、西亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Kalotermes flavicollis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/kalotermes-flavicollis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Calotermes maroccoensis Sjöstedt, 1904: 17",
+   "authorship": "Sjöstedt, 1904",
+   "localityAlignment": "matched",
+   "name": "Calotermes maroccoensis",
+   "note": "",
+   "reference": "17",
+   "typeLocality": "Morocco: ?"
+  }
+ ],
+ "typeLocality": "(country unknown): \"Barbaria\"",
+ "version": "2026.11.21",
+ "zh": "黄颈木白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amalotermes-phaeocephalus.json",
+ "apiVersion": "1",
+ "authorship": "Sands, 1972",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amalotermes",
+   "latin": "Amalotermes",
+   "zh": "软白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central Africa, Congo Basin, Cameroon, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Nigeria",
+  "zh": "中非、刚果盆地、喀麦隆、刚果（布）、刚果民主共和国、加蓬、尼日利亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Amalotermes phaeocephalus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amalotermes-phaeocephalus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Nigeria: Eastern Region: 40 mi from Port Harcourt on Owerri Road",
+ "version": "2026.11.21",
+ "zh": "暗头软白蚁"
+}

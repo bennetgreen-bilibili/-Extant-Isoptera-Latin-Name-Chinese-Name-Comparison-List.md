@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/procryptotermes-falcifer.json",
+ "apiVersion": "1",
+ "authorship": "Krishna, 1962",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "procryptotermes",
+   "latin": "Procryptotermes",
+   "zh": "前砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Réunion, Mauritius, French Réunion",
+  "zh": "留尼汪、毛里求斯、法属留尼汪"
+ },
+ "isTypeSpecies": false,
+ "latin": "Procryptotermes falcifer",
+ "pageUrl": "https://termite-extant-isoptera.org/species/procryptotermes-falcifer/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Reunion (French): 1.6 km E of Port de Galles",
+ "version": "2026.11.21",
+ "zh": "具镰前砂白蚁"
+}

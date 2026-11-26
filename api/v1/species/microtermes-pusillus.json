@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microtermes-pusillus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microtermes",
+   "latin": "Microtermes",
+   "zh": "小白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Cameroon",
+  "zh": "西非、喀麦隆"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microtermes pusillus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microtermes-pusillus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cameroon: Victoria",
+ "version": "2026.11.21",
+ "zh": "极小小白蚁"
+}

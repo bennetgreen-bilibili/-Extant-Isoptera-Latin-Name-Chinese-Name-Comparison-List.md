@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-proformosanus.json",
+ "apiVersion": "1",
+ "authorship": "Ahmad, 1965",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Southeast Asia, Cambodia, Vietnam, Bangladesh, India, Thailand",
+  "zh": "东南亚柬埔寨、越南、孟加拉国、印度、泰国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes proformosanus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-proformosanus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Thailand: Ka-Chong",
+ "version": "2026.11.21",
+ "zh": "原黑翅土白蚁"
+}

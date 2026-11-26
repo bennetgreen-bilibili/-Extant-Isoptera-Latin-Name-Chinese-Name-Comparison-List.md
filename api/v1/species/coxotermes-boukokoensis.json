@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coxotermes-boukokoensis.json",
+ "apiVersion": "1",
+ "authorship": "Grassé & Noirot, 1955",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "coxotermes",
+   "latin": "Coxotermes",
+   "zh": "基白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central Africa, Cameroon, Congo, Nigeria, Central African Republic",
+  "zh": "中非、喀麦隆、刚果、尼日利亚、中非共和国"
+ },
+ "isTypeSpecies": true,
+ "latin": "Coxotermes boukokoensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coxotermes-boukokoensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Central African Republic: Boukoko, near Mbaiki",
+ "version": "2026.11.21",
+ "zh": "布科科基白蚁"
+}

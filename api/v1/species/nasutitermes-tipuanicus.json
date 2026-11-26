@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-tipuanicus.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1910",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Bolivia, Paraguay",
+  "zh": "玻利维亚、巴拉圭"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes tipuanicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-tipuanicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Bolivia: La Paz: Tipuani [15.5643S 68.0188W]",
+ "version": "2026.11.21",
+ "zh": "蒂普阿尼象白蚁"
+}

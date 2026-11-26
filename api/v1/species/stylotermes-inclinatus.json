@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/stylotermes-inclinatus.json",
+ "apiVersion": "1",
+ "authorship": "Yu & Ping, 1964",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "stylotermitidae",
+   "latin": "Stylotermitidae",
+   "zh": "杆白蚁科"
+  },
+  "genus": {
+   "id": "stylotermes",
+   "latin": "Stylotermes",
+   "zh": "杆白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "China",
+  "zh": "中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Stylotermes inclinatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/stylotermes-inclinatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Hainan Island: Zhan-xian",
+ "version": "2026.11.21",
+ "zh": "倾头杆白蚁"
+}

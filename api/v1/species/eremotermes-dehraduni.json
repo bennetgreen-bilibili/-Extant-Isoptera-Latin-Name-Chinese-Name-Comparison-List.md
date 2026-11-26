@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/eremotermes-dehraduni.json",
+ "apiVersion": "1",
+ "authorship": "Roonwal & Sen-Sarma, 1960",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "eremotermes",
+   "latin": "Eremotermes",
+   "zh": "漠白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "India",
+  "zh": "印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Eremotermes dehraduni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/eremotermes-dehraduni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Uttarakhand: about 12 miles west of Dehra Dun: Malhan Forest Range: Bainkhala Block, in Ocimum plantation",
+ "version": "2026.11.21",
+ "zh": "德拉敦漠白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-denticulatus.json",
+ "apiVersion": "1",
+ "authorship": "Li & Ping, 1983",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Yunnan, China, Xiaomenglun, Hainan, Xinglong, Guangxi, Pingxiang",
+  "zh": "中国云南、小勐仑、海南、兴隆、广西、凭祥"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes denticulatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-denticulatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Yunnan Province: Jinghong",
+ "version": "2026.11.21",
+ "zh": "细齿大白蚁"
+}

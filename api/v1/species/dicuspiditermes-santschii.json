@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/dicuspiditermes-santschii.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1922",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "dicuspiditermes",
+   "latin": "Dicuspiditermes",
+   "zh": "突扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Southeast Asia, Indonesia, Malaysia",
+  "zh": "东南亚、印度尼西亚、马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Dicuspiditermes santschii",
+ "pageUrl": "https://termite-extant-isoptera.org/species/dicuspiditermes-santschii/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Capritermes padangensis Kemner, 1930: 320-322",
+   "authorship": "Kemner, 1930",
+   "localityAlignment": "matched",
+   "name": "Capritermes padangensis",
+   "note": "",
+   "reference": "320-322",
+   "typeLocality": "Indonesia: Sumatra: Tandjunggadang"
+  }
+ ],
+ "typeLocality": "Indonesia: Sumatra: Padang-Pandjang",
+ "version": "2026.11.21",
+ "zh": "桑特斯基突扭白蚁"
+}

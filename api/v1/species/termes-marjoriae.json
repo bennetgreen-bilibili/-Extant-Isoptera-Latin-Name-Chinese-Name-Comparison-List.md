@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/termes-marjoriae.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1934",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "termes",
+   "latin": "Termes",
+   "zh": "白蚁属"
+  },
+  "subfamily": {
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Yunnan (Jinghong500 m); Myanmar, China",
+  "zh": "云南（景洪500 m）；缅甸、中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Termes marjoriae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/termes-marjoriae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Myanmar: Selen",
+ "version": "2026.11.21",
+ "zh": "钳白蚁"
+}

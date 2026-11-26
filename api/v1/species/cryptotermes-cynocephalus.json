@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-cynocephalus.json",
+ "apiVersion": "1",
+ "authorship": "Light, 1921",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Philippines to Australia, tropics, Indonesia, Malaysia, Hawaii (United States), Papua New Guinea, Sri Lanka",
+  "zh": "菲律宾至澳大利亚、热带、印度尼西亚、马来西亚、夏威夷（美国）、巴布亚新几内亚、斯里兰卡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes cynocephalus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-cynocephalus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Cryptotermes buitenzorgi Kemner, 1934: 45-47",
+   "authorship": "Kemner, 1934",
+   "localityAlignment": "matched",
+   "name": "Cryptotermes buitenzorgi",
+   "note": "",
+   "reference": "45-47",
+   "typeLocality": "Indonesia: Java: Bogor"
+  }
+ ],
+ "typeLocality": "Philippines: Luzon: Manila",
+ "version": "2026.11.21",
+ "zh": "犬头堆砂白蚁"
+}

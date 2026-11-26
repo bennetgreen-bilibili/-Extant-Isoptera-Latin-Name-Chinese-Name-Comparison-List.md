@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/grallatotermes-splendidus.json",
+ "apiVersion": "1",
+ "authorship": "Light & Wilson, 1936",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "grallatotermes",
+   "latin": "Grallatotermes",
+   "zh": "高跷白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Philippines",
+  "zh": "菲律宾"
+ },
+ "isTypeSpecies": false,
+ "latin": "Grallatotermes splendidus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/grallatotermes-splendidus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Philippines: Luzon: across Pampanga River from Arayat, SW shore of Lake Casili",
+ "version": "2026.11.21",
+ "zh": "华美高跷白蚁"
+}

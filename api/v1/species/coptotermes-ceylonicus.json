@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-ceylonicus.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "southern India, Sri Lanka, China",
+  "zh": "印度南部、斯里兰卡、中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes ceylonicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-ceylonicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Sri Lanka: Heneratgoda; Peradeniya; Seenigoda Estate",
+ "version": "2026.11.21",
+ "zh": "锡兰乳白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-meinerti.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1894",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Venezuela",
+  "zh": "委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes meinerti",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-meinerti/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Venezuela: Carabobo: Las Trincheras [10.3078N 68.0872W]",
+ "version": "2026.11.21",
+ "zh": "迈纳特象白蚁"
+}

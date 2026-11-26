@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/bifiditermes-jeannelanus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1915",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "bifiditermes",
+   "latin": "Bifiditermes",
+   "zh": "双裂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Africa",
+  "zh": "非洲"
+ },
+ "isTypeSpecies": false,
+ "latin": "Bifiditermes jeannelanus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/bifiditermes-jeannelanus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Tanzania: Kilimanjaro: Neu-Moschi",
+ "version": "2026.11.21",
+ "zh": "让内尔双裂白蚁"
+}

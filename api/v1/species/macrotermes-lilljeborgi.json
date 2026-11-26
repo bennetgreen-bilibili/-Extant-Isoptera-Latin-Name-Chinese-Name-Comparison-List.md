@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-lilljeborgi.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1896",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central Africa, Cameroon, Republic of the Congo, Gabon, Democratic Republic of the Congo, Nigeria, Tanzania",
+  "zh": "中非、喀麦隆、刚果共和国、加蓬、刚果民主共和国、尼日利亚、坦桑尼亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Macrotermes lilljeborgi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-lilljeborgi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cameroon: Kitta",
+ "version": "2026.11.21",
+ "zh": "利勒伯格大白蚁"
+}

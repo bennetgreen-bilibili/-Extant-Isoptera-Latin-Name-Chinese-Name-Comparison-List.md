@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-fletcheri.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren & Holmgren, 1917",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "India, Bangladesh, Sri Lanka",
+  "zh": "印度、孟加拉国、斯里兰卡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes fletcheri",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-fletcheri/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Tamil Nadu: Coimbatore",
+ "version": "2026.11.21",
+ "zh": "弗莱彻新白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/pseudocapritermes-jiangchengensis.json",
+ "apiVersion": "1",
+ "authorship": "Yang, Zhu & Huang, 1992",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "pseudocapritermes",
+   "latin": "Pseudocapritermes",
+   "zh": "伪扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "China (Yunnan)",
+  "zh": "中国云南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Pseudocapritermes jiangchengensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/pseudocapritermes-jiangchengensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Yunnan Province: autonomous county of Jiangcheng Hani and Yi",
+ "version": "2026.11.21",
+ "zh": "江城伪扭白蚁"
+}

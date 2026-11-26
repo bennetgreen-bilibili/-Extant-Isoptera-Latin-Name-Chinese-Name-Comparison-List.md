@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/incisitermes-rhyzophorae.json",
+ "apiVersion": "1",
+ "authorship": "Hernández, 1994",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "incisitermes",
+   "latin": "Incisitermes",
+   "zh": "楹白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Cuba, Bahamas",
+  "zh": "古巴、巴哈马"
+ },
+ "isTypeSpecies": false,
+ "latin": "Incisitermes rhyzophorae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/incisitermes-rhyzophorae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cuba: Las Tunas: Cayo Sevilla",
+ "version": "2026.11.21",
+ "zh": "红树楹白蚁"
+}

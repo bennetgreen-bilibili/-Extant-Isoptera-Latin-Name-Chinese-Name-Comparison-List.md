@@ -1,0 +1,86 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-falciger.json",
+ "apiVersion": "1",
+ "authorship": "Gerstäcker, 1891",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, West Africa, East Africa, southern Africa, Benin, Central African Republic, Democratic Republic of the Congo, Ghana, Guinea, Kenya, Malawi, Mozambique, South Africa, Eswatini, Tanzania, Uganda, Zambia, Zimbabwe",
+  "zh": "旧热带界、西非、东非、非洲南部、贝宁、中非共和国、刚果民主共和国、加纳、几内亚、肯尼亚、马拉维、莫桑比克、南非、斯威士兰、坦桑尼亚、乌干达、赞比亚、津巴布韦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes falciger",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-falciger/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes goliath Sjöstedt, 1899: 156",
+   "authorship": "Sjöstedt, 1899",
+   "localityAlignment": "matched",
+   "name": "Termes goliath",
+   "note": "",
+   "reference": "156",
+   "typeLocality": "Tanzania: Kilimanjaro, M’karamo, Massi, Dar-es-Salaam"
+  },
+  {
+   "asPublished": "Termes michelli Rosen, 1912: 223",
+   "authorship": "Rosen, 1912",
+   "localityAlignment": "matched",
+   "name": "Termes michelli",
+   "note": "",
+   "reference": "223",
+   "typeLocality": "Democratic Republic of the Congo: North Katanga"
+  },
+  {
+   "asPublished": "Termes swaziae Fuller, 1915: 462-466",
+   "authorship": "Fuller, 1915",
+   "localityAlignment": "matched",
+   "name": "Termes swaziae",
+   "note": "",
+   "reference": "462-466",
+   "typeLocality": "South Africa: Transvaal: Tzaneen"
+  },
+  {
+   "asPublished": "Macrotermes usutu Fuller, 1922: 79-80",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "matched",
+   "name": "Macrotermes usutu",
+   "note": "",
+   "reference": "79-80",
+   "typeLocality": "Swaziland: Hlatikulu: Usutu river"
+  },
+  {
+   "asPublished": "Tumulitermes kibonotensis Sjöstedt, 1924: 253",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "matched",
+   "name": "Tumulitermes kibonotensis",
+   "note": "",
+   "reference": "253",
+   "typeLocality": "Tanzania: Kilimanjaro: Kibonoto"
+  }
+ ],
+ "typeLocality": "Tanzania: Mbusini",
+ "version": "2026.11.21",
+ "zh": "镰刀大白蚁"
+}

@@ -1,0 +1,39 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/prohamitermes-hosei-minor.json",
+ "apiVersion": "1",
+ "authorship": "Thapa, 1982",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "prohamitermes",
+   "latin": "Prohamitermes",
+   "zh": "前钩白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "latin": "Prohamitermes hosei minor",
+ "pageUrl": "https://termite-extant-isoptera.org/species/prohamitermes-hosei-minor/",
+ "parent": {
+  "latin": "Prohamitermes hosei",
+  "slug": "prohamitermes-hosei",
+  "zh": "霍斯前钩白蚁"
+ },
+ "rank": "subspecies",
+ "synonyms": [],
+ "typeLocality": "Malaysia: Sabah: Keningau District: Tambunan",
+ "version": "2026.11.21",
+ "zh": "小亚种"
+}

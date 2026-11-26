@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/angulitermes-resimus.json",
+ "apiVersion": "1",
+ "authorship": "Krishna, 1965",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "angulitermes",
+   "latin": "Angulitermes",
+   "zh": "角白蚁属"
+  },
+  "subfamily": {
+   "id": "promirotermitinae",
+   "latin": "Promirotermitinae",
+   "zh": "前奇白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Myanmar",
+  "zh": "缅甸"
+ },
+ "isTypeSpecies": false,
+ "latin": "Angulitermes resimus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/angulitermes-resimus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Myanmar: Maymyo, 22 miles E Mandalay",
+ "version": "2026.11.21",
+ "zh": "高鼻角白蚁"
+}

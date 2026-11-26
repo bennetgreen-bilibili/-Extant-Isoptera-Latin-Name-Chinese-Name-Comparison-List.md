@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/mycterotermes-meringocephalus.json",
+ "apiVersion": "1",
+ "authorship": "Sands, 1965",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "mycterotermes",
+   "latin": "Mycterotermes",
+   "zh": "鸟嘴白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Oman, Yemen",
+  "zh": "阿曼、也门"
+ },
+ "isTypeSpecies": true,
+ "latin": "Mycterotermes meringocephalus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/mycterotermes-meringocephalus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Yemen: Burum, W of Mukalla",
+ "version": "2026.11.21",
+ "zh": "饼头鸟嘴白蚁"
+}

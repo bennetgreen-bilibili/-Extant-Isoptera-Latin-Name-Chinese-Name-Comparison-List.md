@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/pseudocapritermes-fletcheri.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren & Holmgren, 1917",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "pseudocapritermes",
+   "latin": "Pseudocapritermes",
+   "zh": "伪扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "India",
+  "zh": "印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Pseudocapritermes fletcheri",
+ "pageUrl": "https://termite-extant-isoptera.org/species/pseudocapritermes-fletcheri/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Pseudocapritermes fontanellus Mathur & Thapa, 1961: 3-7",
+   "authorship": "Mathur & Thapa, 1961",
+   "localityAlignment": "matched",
+   "name": "Pseudocapritermes fontanellus",
+   "note": "",
+   "reference": "3-7",
+   "typeLocality": "India: Tamil Nadu: Topslip"
+  },
+  {
+   "asPublished": "Pseudocapritermes goanicus Thakur & Chatterjee, 1969: 189-192",
+   "authorship": "Thakur & Chatterjee, 1969",
+   "localityAlignment": "matched",
+   "name": "Pseudocapritermes goanicus",
+   "note": "",
+   "reference": "189-192",
+   "typeLocality": "India: Goa: South Goa Forest Division: Moleum Forest Range, towards Belagaon side, about 1 km from Moleum rest house"
+  },
+  {
+   "asPublished": "Pseudocapritermes roonwali Verma, 1985: 179-180",
+   "authorship": "Verma, 1985",
+   "localityAlignment": "matched",
+   "name": "Pseudocapritermes roonwali",
+   "note": "",
+   "reference": "179-180",
+   "typeLocality": "India: Kerala: Kottavasal"
+  }
+ ],
+ "typeLocality": "India: Tamil Nadu: Anamalai Hills",
+ "version": "2026.11.21",
+ "zh": "弗莱彻伪扭白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/anoplotermes-distans.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1926",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "anoplotermes",
+   "latin": "Anoplotermes",
+   "zh": "解甲白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Guiana Shield, Amazon region",
+  "zh": "圭亚那地盾、亚马孙地区"
+ },
+ "isTypeSpecies": false,
+ "latin": "Anoplotermes distans",
+ "pageUrl": "https://termite-extant-isoptera.org/species/anoplotermes-distans/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Bolivia: Pando: Rosario (near Lake Rogagua) [ 13.9667S 66.8667W ]",
+ "version": "2026.11.21",
+ "zh": "遥远解甲白蚁"
+}

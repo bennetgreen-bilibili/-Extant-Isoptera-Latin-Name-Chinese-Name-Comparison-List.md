@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/astalotermes-mitis.json",
+ "apiVersion": "1",
+ "authorship": "Sands, 1972",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "astalotermes",
+   "latin": "Astalotermes",
+   "zh": "无利器白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "tropical Africa, Malawi",
+  "zh": "非洲热带、马拉维"
+ },
+ "isTypeSpecies": false,
+ "latin": "Astalotermes mitis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/astalotermes-mitis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malawi: Zomba Mountain",
+ "version": "2026.11.21",
+ "zh": "温和无利器白蚁"
+}

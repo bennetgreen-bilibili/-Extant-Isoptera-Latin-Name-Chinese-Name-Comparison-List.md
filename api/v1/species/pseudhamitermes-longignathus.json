@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/pseudhamitermes-longignathus.json",
+ "apiVersion": "1",
+ "authorship": "Ahmad, 1965",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "pseudhamitermes",
+   "latin": "Pseudhamitermes",
+   "zh": "伪钩白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Thailand",
+  "zh": "泰国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Pseudhamitermes longignathus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/pseudhamitermes-longignathus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Thailand: Huay Yang",
+ "version": "2026.11.21",
+ "zh": "长颚伪钩白蚁"
+}

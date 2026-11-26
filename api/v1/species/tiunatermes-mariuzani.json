@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/tiunatermes-mariuzani.json",
+ "apiVersion": "1",
+ "authorship": "Carrijo, Cuezzo & Santos, 2015",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "tiunatermes",
+   "latin": "Tiunatermes",
+   "zh": "暗鼻白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South America, Brazil",
+  "zh": "南美洲、巴西"
+ },
+ "isTypeSpecies": true,
+ "latin": "Tiunatermes mariuzani",
+ "pageUrl": "https://termite-extant-isoptera.org/species/tiunatermes-mariuzani/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Tocantins: Jalapão, Ponte Alta do Tocantins [11.0269S 47.1417W]",
+ "version": "2026.11.21",
+ "zh": "马里乌赞暗鼻白蚁"
+}

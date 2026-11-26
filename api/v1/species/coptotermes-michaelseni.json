@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-michaelseni.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1909",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "western Australia",
+  "zh": "澳大利亚西部"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes michaelseni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-michaelseni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Australia: Western Australia: Mundijong",
+ "version": "2026.11.21",
+ "zh": "米夏埃尔森乳白蚁"
+}

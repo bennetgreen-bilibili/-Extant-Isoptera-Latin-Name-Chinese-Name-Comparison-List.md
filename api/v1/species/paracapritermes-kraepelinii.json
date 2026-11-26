@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/paracapritermes-kraepelinii.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1909",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "paracapritermes",
+   "latin": "Paracapritermes",
+   "zh": "旁扭白蚁属"
+  },
+  "subfamily": {
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Paracapritermes kraepelinii",
+ "pageUrl": "https://termite-extant-isoptera.org/species/paracapritermes-kraepelinii/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Paracapritermes hesperus Gay, 1956: 210-211",
+   "authorship": "Gay, 1956",
+   "localityAlignment": "matched",
+   "name": "Paracapritermes hesperus",
+   "note": "",
+   "reference": "210-211",
+   "typeLocality": "Australia: Western Australia: 3.2 km S Yornup"
+  }
+ ],
+ "typeLocality": "Australia: Western Australia: Mundaring",
+ "version": "2026.11.21",
+ "zh": "克雷珀林旁扭白蚁"
+}

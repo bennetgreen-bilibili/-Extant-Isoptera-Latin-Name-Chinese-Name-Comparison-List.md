@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/euhamitermes-dentatus.json",
+ "apiVersion": "1",
+ "authorship": "Thakur & Chatterjee, 1974",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "euhamitermes",
+   "latin": "Euhamitermes",
+   "zh": "亮白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "India, Andhra Pradesh",
+  "zh": "印度、安得拉邦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Euhamitermes dentatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/euhamitermes-dentatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Andhra Pradesh: Khammam Division: Annapradipalli Range, Lankapalli Block, compartment No. 266, Satpalli",
+ "version": "2026.11.21",
+ "zh": "具齿亮白蚁"
+}

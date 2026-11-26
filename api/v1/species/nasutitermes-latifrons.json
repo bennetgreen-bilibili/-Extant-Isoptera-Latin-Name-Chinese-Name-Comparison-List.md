@@ -1,0 +1,107 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-latifrons.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "match",
+   "kind": "ambiguous",
+   "latin": "Nasutitermes latifrons",
+   "match": null,
+   "note": "候选：OTU 84684 Nasutitermes latifrons (Sjöstedt, 1896)；OTU 795499 Nasutitermes latifrons (Haviland, 1898) now Nasutitermes havilandi (Desneux, 1904)",
+   "rank": "种",
+   "slug": "nasutitermes-latifrons",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "宽额象白蚁"
+  }
+ ],
+ "authorship": "Sjöstedt, 1896",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Republic of the Congo (Brazzaville), Côte d'Ivoire, Cameroon, Benin, Ghana, Angola, Democratic Republic of the Congo (Kinshasa), Equatorial Guinea, Gabon, Guinea, Guinea-Bissau, Nigeria, São Tomé and Príncipe, Sierra Leone, Sudan, Togo, Uganda",
+  "zh": "刚果（布）、科特迪瓦、喀麦隆、贝宁、加纳、安哥拉、刚果民主共和国、赤道几内亚、加蓬、几内亚、几内亚比绍、尼日利亚、圣多美和普林西比、塞拉利昂、苏丹、多哥、乌干达"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes latifrons",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-latifrons/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes pius Sjöstedt, 1911: 16",
+   "authorship": "Sjöstedt, 1911",
+   "localityAlignment": "matched",
+   "name": "Eutermes pius",
+   "note": "",
+   "reference": "16",
+   "typeLocality": "Cameroon: Victoria"
+  },
+  {
+   "asPublished": "Eutermes (Eutermes) ueleensis Sjöstedt, 1924: 494",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Eutermes) ueleensis",
+   "note": "",
+   "reference": "494",
+   "typeLocality": "Democratic Republic of the Congo: Haut Uélé: Moto"
+  },
+  {
+   "asPublished": "Eutermes (Eutermes) incurvus Sjöstedt, 1924: 41",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Eutermes) incurvus",
+   "note": "",
+   "reference": "41",
+   "typeLocality": "Democratic Republic of the Congo: Kunungu"
+  },
+  {
+   "asPublished": "Eutermes indoensis Sjöstedt, 1925: 55",
+   "authorship": "Sjöstedt, 1925",
+   "localityAlignment": "matched",
+   "name": "Eutermes indoensis",
+   "note": "",
+   "reference": "55",
+   "typeLocality": "Congo: Indo, Sibiti"
+  },
+  {
+   "asPublished": "Eutermes expulsus Sjöstedt, 1926: 154-155",
+   "authorship": "Sjöstedt, 1926",
+   "localityAlignment": "matched",
+   "name": "Eutermes expulsus",
+   "note": "",
+   "reference": "154-155",
+   "typeLocality": "Democratic Republic of the Congo: Bas Uélé, Djamba"
+  }
+ ],
+ "typeLocality": "Cameroon: Ekundu",
+ "version": "2026.11.21",
+ "zh": "宽额象白蚁"
+}

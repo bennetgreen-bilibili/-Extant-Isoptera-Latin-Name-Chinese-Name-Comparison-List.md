@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/megagnathotermes-notandus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "megagnathotermes",
+   "latin": "Megagnathotermes",
+   "zh": "大颚白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Côte d'Ivoire, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sierra Leone",
+  "zh": "西非、科特迪瓦、刚果民主共和国、冈比亚、几内亚、尼日利亚、塞拉利昂"
+ },
+ "isTypeSpecies": true,
+ "latin": "Megagnathotermes notandus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/megagnathotermes-notandus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guinea: Mamou",
+ "version": "2026.11.21",
+ "zh": "标记大颚白蚁"
+}

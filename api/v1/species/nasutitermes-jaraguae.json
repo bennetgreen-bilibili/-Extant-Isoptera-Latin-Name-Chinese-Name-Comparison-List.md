@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-jaraguae.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1910",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Argentina",
+  "zh": "巴西、阿根廷"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes jaraguae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-jaraguae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Eutermes) aurantiacus Holmgren, 1910: 270-271",
+   "authorship": "Holmgren, 1910",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Eutermes) aurantiacus",
+   "note": "",
+   "reference": "270-271",
+   "typeLocality": "Brasil: Santa Catarina: Jaraguá do Sul [26.4905S 49.0763W]"
+  }
+ ],
+ "typeLocality": "Brasil: Santa Catarina: Jaraguá do Sul [26.4905S 49.0763W]",
+ "version": "2026.11.21",
+ "zh": "哈拉瓜象白蚁"
+}

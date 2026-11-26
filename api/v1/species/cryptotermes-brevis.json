@@ -1,0 +1,82 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-brevis.json",
+ "apiVersion": "1",
+ "authorship": "Walker, 1853",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "native to the coasts of Peru and Chile, now pantropical; Canada, Canary Islands (Spain), Egypt, Israel, Italy, Madeira (Portugal), Portugal, Spain, United States",
+  "zh": "原产秘鲁智利沿海，现泛热带广布、加拿大、加那利群岛（西班牙）、埃及、以色列、意大利、马德拉群岛（葡萄牙）、葡萄牙、西班牙、美国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes brevis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-brevis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes indecisus Walker, 1853: 524",
+   "authorship": "Walker, 1853",
+   "localityAlignment": "matched",
+   "name": "Termes indecisus",
+   "note": "",
+   "reference": "524",
+   "typeLocality": "Colombia: ?"
+  },
+  {
+   "asPublished": "Cryptotermes pseudobrevis Fuller, 1921: 30",
+   "authorship": "Fuller, 1921",
+   "localityAlignment": "matched",
+   "name": "Cryptotermes pseudobrevis",
+   "note": "",
+   "reference": "30",
+   "typeLocality": "South Africa: Natal: Durban"
+  },
+  {
+   "asPublished": "Cryptotermes rospigliosi Snyder, 1922: 13-14",
+   "authorship": "Snyder, 1922",
+   "localityAlignment": "matched",
+   "name": "Cryptotermes rospigliosi",
+   "note": "",
+   "reference": "13-14",
+   "typeLocality": "Peru: Lima: Lima [ 12.05S 77.05W ]"
+  },
+  {
+   "asPublished": "Cryptotermes piceatus Snyder, 1922: 14-16",
+   "authorship": "Snyder, 1922",
+   "localityAlignment": "matched",
+   "name": "Cryptotermes piceatus",
+   "note": "",
+   "reference": "14-16",
+   "typeLocality": "United States: Hawaii, Oahu Territory, Honolulu"
+  },
+  {
+   "asPublished": "Lagena samanica Berry, 1928: 398,",
+   "authorship": "Berry, 1928",
+   "localityAlignment": "matched",
+   "name": "Lagena samanica",
+   "note": "",
+   "reference": "398,",
+   "typeLocality": "Peru: Middle Lobitos shale"
+  }
+ ],
+ "typeLocality": "Jamaica: ?",
+ "version": "2026.11.21",
+ "zh": "麻头堆砂白蚁"
+}

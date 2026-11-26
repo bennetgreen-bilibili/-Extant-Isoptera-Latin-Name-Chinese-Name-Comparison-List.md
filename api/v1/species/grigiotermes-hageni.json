@@ -1,0 +1,101 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/grigiotermes-hageni.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": "Anoplotermes hageni Emerson & Snyder, 1949",
+   "accepted_latin": "Anoplotermes hageni",
+   "accepted_url": "https://www.gbif.org/species/9662984",
+   "confidence": 100,
+   "direction": "site",
+   "disputed": true,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "conflict",
+   "kind": "synonym",
+   "latin": "Grigiotermes hageni",
+   "match": "EXACT",
+   "note": "",
+   "rank": "种",
+   "receiving_latin": "Grigiotermes hageni",
+   "recordable": false,
+   "recorded": false,
+   "relation": "combination",
+   "slug": "grigiotermes-hageni",
+   "source": "gbif",
+   "theirs": "Grigiotermes hageni (Snyder & Emerson, 1949)",
+   "url": "https://www.gbif.org/species/10112407",
+   "verified": false,
+   "zh": "哈根灰白蚁"
+  }
+ ],
+ "authorityReview": {
+  "incoming": [],
+  "latin": "Grigiotermes hageni",
+  "outgoing": [
+   {
+    "direction": "site",
+    "disputed": true,
+    "latin": "Anoplotermes hageni",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/9662984"
+     }
+    ],
+    "name": "Anoplotermes hageni Emerson & Snyder, 1949",
+    "relation": "combination",
+    "sources": [
+     "gbif"
+    ]
+   }
+  ],
+  "zh": "哈根灰白蚁"
+ },
+ "authorship": "Snyder & Emerson, 1949",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "grigiotermes",
+   "latin": "Grigiotermes",
+   "zh": "灰白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Colombia, French Guiana, Venezuela, Bolivia, Paraguay, Argentina, Trinidad and Tobago",
+  "zh": "巴西、哥伦比亚、法属圭亚那、委内瑞拉、玻利维亚、巴拉圭、阿根廷、特立尼达和多巴哥"
+ },
+ "isTypeSpecies": true,
+ "latin": "Grigiotermes hageni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/grigiotermes-hageni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Grigiotermes metoecus Mathews, 1977: 96-98",
+   "authorship": "Mathews, 1977",
+   "localityAlignment": "matched",
+   "name": "Grigiotermes metoecus",
+   "note": "",
+   "reference": "96-98",
+   "typeLocality": "Brasil: Mato Grosso: Ribeirão Cascalheira, Base Camp, Xavantina-Cachimbo Expedition [ 12.8145S 51.7745W ]"
+  }
+ ],
+ "typeLocality": "Argentina: Chaco: Colonia Benítez [ 27.3333S 58.9333W ]; Brasil: Mato Grosso do Sul: Ladário, Urucum [ 19.155S 57.631W ]; Mato Grosso: Cuiabá, Coxipó (district) [ 15.627S 56.058W ]",
+ "version": "2026.11.21",
+ "zh": "哈根灰白蚁"
+}

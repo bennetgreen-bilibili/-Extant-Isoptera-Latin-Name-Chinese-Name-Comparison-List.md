@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/bicornitermes-exsertifrons.json",
+ "apiVersion": "1",
+ "authorship": "Wilkinson, 1958",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "bicornitermes",
+   "latin": "Bicornitermes",
+   "zh": "双角白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Nigeria",
+  "zh": "尼日利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Bicornitermes exsertifrons",
+ "pageUrl": "https://termite-extant-isoptera.org/species/bicornitermes-exsertifrons/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Nigeria: Eastern Region: Nkpoku, 19 km from Port Harcourt on Owerri road",
+ "version": "2026.11.21",
+ "zh": "突额双角白蚁"
+}

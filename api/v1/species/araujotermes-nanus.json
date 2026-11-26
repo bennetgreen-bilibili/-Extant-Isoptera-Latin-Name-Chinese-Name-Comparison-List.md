@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/araujotermes-nanus.json",
+ "apiVersion": "1",
+ "authorship": "Constantino, 1991",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "araujotermes",
+   "latin": "Araujotermes",
+   "zh": "阿劳若白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Colombia",
+  "zh": "巴西、哥伦比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Araujotermes nanus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/araujotermes-nanus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Amazonas: Maraã [1.848S 65.523W]",
+ "version": "2026.11.21",
+ "zh": "侏儒阿劳若白蚁"
+}

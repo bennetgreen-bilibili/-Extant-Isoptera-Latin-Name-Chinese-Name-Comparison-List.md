@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/procryptotermes-krishnai.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1961",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "procryptotermes",
+   "latin": "Procryptotermes",
+   "zh": "前砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "New Caledonia, French New Caledonia",
+  "zh": "新喀里多尼亚、法属新喀里多尼亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Procryptotermes krishnai",
+ "pageUrl": "https://termite-extant-isoptera.org/species/procryptotermes-krishnai/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "New Caledonia (French): Noumea",
+ "version": "2026.11.21",
+ "zh": "克里希纳前砂白蚁"
+}

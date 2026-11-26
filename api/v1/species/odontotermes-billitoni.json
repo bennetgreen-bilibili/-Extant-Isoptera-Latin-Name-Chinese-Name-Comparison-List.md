@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-billitoni.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1913",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Southeast Asia (Indonesia, Malaysia)",
+  "zh": "东南亚印度尼西亚、马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes billitoni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-billitoni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Odontotermes ( Odontotermes ) javanicus buitenzorghi Holmgren, 1913: 134",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "unmatched",
+   "name": "Odontotermes (Odontotermes) javanicus buitenzorghi",
+   "note": "",
+   "reference": "134",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Odontotermes ( Odontotermes ) sundaicus esuriens Kemner, 1934: 98-100",
+   "authorship": "Kemner, 1934",
+   "localityAlignment": "unmatched",
+   "name": "Odontotermes (Odontotermes) sundaicus esuriens",
+   "note": "",
+   "reference": "98-100",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Odontotermes ( Odontotermes ) sundaicus Kemner, 1934: 96-98",
+   "authorship": "Kemner, 1934",
+   "localityAlignment": "unmatched",
+   "name": "Odontotermes (Odontotermes) sundaicus",
+   "note": "",
+   "reference": "96-98",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Indonesia: Belitung (Billiton)",
+ "version": "2026.11.21",
+ "zh": "利顿土白蚁"
+}

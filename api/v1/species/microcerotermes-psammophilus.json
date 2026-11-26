@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-psammophilus.json",
+ "apiVersion": "1",
+ "authorship": "Fuller, 1925",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Africa",
+  "zh": "南非"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes psammophilus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-psammophilus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "South Africa: Zululand, 5 mi W Sordwana Bay and 10 to 15 mi S of Lake Sibayi",
+ "version": "2026.11.21",
+ "zh": "喜沙锯白蚁"
+}

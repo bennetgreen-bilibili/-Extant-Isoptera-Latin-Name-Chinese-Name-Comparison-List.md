@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/noditermes-lamanianus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1905",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "noditermes",
+   "latin": "Noditermes",
+   "zh": "节白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central Africa, Republic of the Congo, Angola, Cameroon, Democratic Republic of the Congo",
+  "zh": "中非、刚果共和国、安哥拉、喀麦隆、刚果民主共和国"
+ },
+ "isTypeSpecies": true,
+ "latin": "Noditermes lamanianus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/noditermes-lamanianus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Mukimbungu",
+ "version": "2026.11.21",
+ "zh": "拉曼节白蚁"
+}

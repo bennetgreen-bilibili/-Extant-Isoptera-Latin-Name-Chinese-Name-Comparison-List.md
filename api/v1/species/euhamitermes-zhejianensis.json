@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/euhamitermes-zhejianensis.json",
+ "apiVersion": "1",
+ "authorship": "He & Xia, 1983",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "euhamitermes",
+   "latin": "Euhamitermes",
+   "zh": "亮白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "China, Zhejiang",
+  "zh": "中国、浙江"
+ },
+ "isTypeSpecies": false,
+ "latin": "Euhamitermes zhejianensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/euhamitermes-zhejianensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Zhejiang Province: Quxian",
+ "version": "2026.11.21",
+ "zh": "浙江亮白蚁"
+}

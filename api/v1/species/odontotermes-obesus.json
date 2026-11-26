@@ -1,0 +1,95 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-obesus.json",
+ "apiVersion": "1",
+ "authorship": "Rambur, 1842",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Asia, India, Pakistan, Nepal, Bangladesh, Bhutan, China, Myanmar",
+  "zh": "南亚印度、巴基斯坦、尼泊尔、孟加拉国、不丹、中国、缅甸"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes obesus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-obesus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes fatalis König, 1779: 1",
+   "authorship": "König, 1779",
+   "localityAlignment": "matched",
+   "name": "Termes fatalis",
+   "note": "",
+   "reference": "1",
+   "typeLocality": "India: Tangore (\"Tanschaur\")"
+  },
+  {
+   "asPublished": "Odontotermes ( Cyclotermes ) bangalorensis Holmgren, 1913: 112",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "matched",
+   "name": "Odontotermes (Cyclotermes) bangalorensis",
+   "note": "",
+   "reference": "112",
+   "typeLocality": "India: Bangalore"
+  },
+  {
+   "asPublished": "Odontotermes ( Cyclotermes ) assamensis Holmgren, 1913: 114-115",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "matched",
+   "name": "Odontotermes (Cyclotermes) assamensis",
+   "note": "",
+   "reference": "114-115",
+   "typeLocality": "India: Assam"
+  },
+  {
+   "asPublished": "Odontotermes ( Cyclotermes ) flavomaculatus Holmgren & Holmgren, 1917: 150",
+   "authorship": "Holmgren & Holmgren, 1917",
+   "localityAlignment": "matched",
+   "name": "Odontotermes (Cyclotermes) flavomaculatus",
+   "note": "",
+   "reference": "150",
+   "typeLocality": "India: Assam, between Lukwa and Sibsagar"
+  },
+  {
+   "asPublished": "Odontotermes ( Cyclotermes ) obesus oculatus Silvestri, 1923: 224-225",
+   "authorship": "Silvestri, 1923",
+   "localityAlignment": "matched",
+   "name": "Odontotermes (Cyclotermes) obesus oculatus",
+   "note": "",
+   "reference": "224-225",
+   "typeLocality": "India: Chilka Lake: Barkuda Island"
+  },
+  {
+   "asPublished": "Termes ( Cyclotermes ) orissae Snyder, 1934: 10-11",
+   "authorship": "Snyder, 1934",
+   "localityAlignment": "matched",
+   "name": "Termes (Cyclotermes) orissae",
+   "note": "",
+   "reference": "10-11",
+   "typeLocality": "India: Orissa: Porohat Division: Goilkera"
+  }
+ ],
+ "typeLocality": "India: Maharashtra: Mumbai",
+ "version": "2026.11.21",
+ "zh": "胖身土白蚁"
+}

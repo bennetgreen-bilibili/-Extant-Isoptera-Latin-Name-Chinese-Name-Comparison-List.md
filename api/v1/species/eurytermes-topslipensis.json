@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/eurytermes-topslipensis.json",
+ "apiVersion": "1",
+ "authorship": "Chatterjee & Thapa, 1963",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "eurytermes",
+   "latin": "Eurytermes",
+   "zh": "宽白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Asia, Western Ghats, India",
+  "zh": "南亚、印度西高止山"
+ },
+ "isTypeSpecies": false,
+ "latin": "Eurytermes topslipensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/eurytermes-topslipensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Tamil Nadu: Topslip: Mount Stuart",
+ "version": "2026.11.21",
+ "zh": "托普斯利普宽白蚁"
+}

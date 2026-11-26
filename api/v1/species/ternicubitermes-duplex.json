@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ternicubitermes-duplex.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 94,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Ternicubitermes duplex",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "ternicubitermes-duplex",
+   "source": "gbif",
+   "theirs": "Ternicubitermes Josens & Deligne, 2021",
+   "url": null,
+   "verified": false,
+   "zh": "含糊三方白蚁"
+  }
+ ],
+ "authorship": "Holmgren, 1913",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ternicubitermes",
+   "latin": "Ternicubitermes",
+   "zh": "三方白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Africa",
+  "zh": "南非"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ternicubitermes duplex",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ternicubitermes-duplex/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "South Africa: Zululand: junction of Mfolosi and Mkosi",
+ "version": "2026.11.21",
+ "zh": "含糊三方白蚁"
+}

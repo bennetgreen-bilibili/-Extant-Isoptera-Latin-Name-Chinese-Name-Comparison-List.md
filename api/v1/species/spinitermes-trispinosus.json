@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/spinitermes-trispinosus.json",
+ "apiVersion": "1",
+ "authorship": "Hagen, 1858",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "spinitermes",
+   "latin": "Spinitermes",
+   "zh": "针刺白蚁属"
+  },
+  "subfamily": {
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Colombia, French Guiana, Paraguay, Peru, Venezuela",
+  "zh": "巴西、哥伦比亚、法属圭亚那、巴拉圭、秘鲁、委内瑞拉"
+ },
+ "isTypeSpecies": true,
+ "latin": "Spinitermes trispinosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/spinitermes-trispinosus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Pará: Santarém [2.43917S 54.705W]",
+ "version": "2026.11.21",
+ "zh": "三针针刺白蚁"
+}

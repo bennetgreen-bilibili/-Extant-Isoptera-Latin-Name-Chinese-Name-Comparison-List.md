@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/dentispicotermes-brevicarinatus.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1950",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "dentispicotermes",
+   "latin": "Dentispicotermes",
+   "zh": "齿尖白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Guiana Shield, French Guiana/Guyana/Suriname, Brazil",
+  "zh": "圭亚那地盾、法属圭亚那/圭亚那/苏里南、巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Dentispicotermes brevicarinatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/dentispicotermes-brevicarinatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guyana: East Berbice-Corentyne: Oronoque River [ 2.7N 57.42W ]",
+ "version": "2026.11.21",
+ "zh": "短脊齿尖白蚁"
+}

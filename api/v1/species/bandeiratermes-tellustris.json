@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/bandeiratermes-tellustris.json",
+ "apiVersion": "1",
+ "authorship": "Constantino, 1990",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "bandeiratermes",
+   "latin": "Bandeiratermes",
+   "zh": "班代拉白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Bandeiratermes tellustris",
+ "pageUrl": "https://termite-extant-isoptera.org/species/bandeiratermes-tellustris/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Amazonas: Maraã [1.848S 65.523W]",
+ "version": "2026.11.21",
+ "zh": "大地班代拉白蚁"
+}

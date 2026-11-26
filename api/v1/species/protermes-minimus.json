@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/protermes-minimus.json",
+ "apiVersion": "1",
+ "authorship": "Ruelle, 1971",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "protermes",
+   "latin": "Protermes",
+   "zh": "前白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Angola, Democratic Republic of the Congo, Guinea, Nigeria, Zambia",
+  "zh": "安哥拉、刚果民主共和国、几内亚、尼日利亚、赞比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Protermes minimus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/protermes-minimus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: 40 km ex Kasongo-Lunda to Panzi road",
+ "version": "2026.11.21",
+ "zh": "最小前白蚁"
+}

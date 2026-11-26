@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/anacanthotermes-baeckmannianus.json",
+ "apiVersion": "1",
+ "authorship": "Vasiljev, 1911",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "hodotermitidae",
+   "latin": "Hodotermitidae",
+   "zh": "草白蚁科"
+  },
+  "genus": {
+   "id": "anacanthotermes",
+   "latin": "Anacanthotermes",
+   "zh": "无刺白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Kazakhstan",
+  "zh": "哈萨克斯坦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Anacanthotermes baeckmannianus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/anacanthotermes-baeckmannianus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Kazakhstan: Syr-dara-Geibet: Dzhulek",
+ "version": "2026.11.21",
+ "zh": "贝克曼无刺白蚁"
+}

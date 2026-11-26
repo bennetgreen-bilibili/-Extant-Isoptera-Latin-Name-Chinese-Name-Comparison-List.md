@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-anamalaiensis.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1933",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "India",
+  "zh": "印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes anamalaiensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-anamalaiensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Alstonitermes flavescens Thakur, 1976: 783-785",
+   "authorship": "Thakur, 1976",
+   "localityAlignment": "matched",
+   "name": "Alstonitermes flavescens",
+   "note": "",
+   "reference": "783-785",
+   "typeLocality": "India: Tamil Nadu: South Coimbatore Forest Division: Topslip: Kareeyan Shola"
+  }
+ ],
+ "typeLocality": "India: Tamil Nadu: Anamalai Hills",
+ "version": "2026.11.21",
+ "zh": "安纳马莱象白蚁"
+}

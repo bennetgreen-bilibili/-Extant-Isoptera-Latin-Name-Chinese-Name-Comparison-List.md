@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/hydrecotermes-arienesho.json",
+ "apiVersion": "1",
+ "authorship": "Bourguignon & Roisin, 2016",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "hydrecotermes",
+   "latin": "Hydrecotermes",
+   "zh": "海德瑞克白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Colombia, French Guiana, Bolivia, Paraguay, Trinidad and Tobago",
+  "zh": "哥伦比亚、法属圭亚那、玻利维亚、巴拉圭、特立尼达和多巴哥"
+ },
+ "isTypeSpecies": true,
+ "latin": "Hydrecotermes arienesho",
+ "pageUrl": "https://termite-extant-isoptera.org/species/hydrecotermes-arienesho/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "French Guiana: Nouragues Inselberg station [ 4.0884N 52.6814W ]",
+ "version": "2026.11.21",
+ "zh": "惊人海德瑞克白蚁"
+}

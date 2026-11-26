@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-hopini.json",
+ "apiVersion": "1",
+ "authorship": "Roonwal & Sen-Sarma, 1956",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Myanmar, northeastern India",
+  "zh": "缅甸、印度东北部"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes hopini",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-hopini/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Myanmar: Myitkyina District: Hopin",
+ "version": "2026.11.21",
+ "zh": "和平大白蚁"
+}

@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/syntermes-molestus.json",
+ "apiVersion": "1",
+ "authorship": "Burmeister, 1839",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "syntermes",
+   "latin": "Syntermes",
+   "zh": "聚白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Colombia, Peru, French Guiana, Venezuela, Bolivia, Ecuador, Guyana, Suriname",
+  "zh": "巴西、哥伦比亚、秘鲁、法属圭亚那、委内瑞拉、玻利维亚、厄瓜多尔、圭亚那、苏里南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Syntermes molestus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/syntermes-molestus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Syntermes brasiliensis Holmgren, 1911: 548",
+   "authorship": "Holmgren, 1911",
+   "localityAlignment": "matched",
+   "name": "Syntermes brasiliensis",
+   "note": "",
+   "reference": "548",
+   "typeLocality": "Brasil: ?"
+  }
+ ],
+ "typeLocality": "Brasil: Bahia",
+ "version": "2026.11.21",
+ "zh": "讨厌聚白蚁"
+}

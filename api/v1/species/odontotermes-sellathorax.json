@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-sellathorax.json",
+ "apiVersion": "1",
+ "authorship": "Xia & Fan, 1982",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Sichuan (Bishan), China",
+  "zh": "四川（璧山）、中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes sellathorax",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-sellathorax/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Sichuan Province: Bishan",
+ "version": "2026.11.21",
+ "zh": "鞍胸土白蚁"
+}

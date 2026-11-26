@@ -1,0 +1,77 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-unidentatus.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1897",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Angola, Democratic Republic of the Congo, Ethiopia, Kenya, Malawi, Rwanda, South Africa, Sudan, Tanzania, Uganda, Zambia",
+  "zh": "安哥拉、刚果民主共和国、埃塞俄比亚、肯尼亚、马拉维、卢旺达、南非、苏丹、坦桑尼亚、乌干达、赞比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes unidentatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-unidentatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes meruensis Sjöstedt, 1911: 177-179",
+   "authorship": "Sjöstedt, 1911",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes meruensis",
+   "note": "",
+   "reference": "177-179",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hamitermes elongatus Silvestri, 1914: 77-78",
+   "authorship": "Silvestri, 1914",
+   "localityAlignment": "unmatched",
+   "name": "Hamitermes elongatus",
+   "note": "",
+   "reference": "77-78",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hamitermes limpopoensis Fuller, 1922: 127",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "unmatched",
+   "name": "Hamitermes limpopoensis",
+   "note": "",
+   "reference": "127",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Amitermes macrocephalus Ghidini, 1941: 31",
+   "authorship": "Ghidini, 1941",
+   "localityAlignment": "unmatched",
+   "name": "Amitermes macrocephalus",
+   "note": "",
+   "reference": "31",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Tanzania: Bawi",
+ "version": "2026.11.21",
+ "zh": "单齿弓白蚁"
+}

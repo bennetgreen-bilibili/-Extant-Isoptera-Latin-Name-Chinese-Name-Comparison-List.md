@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-minutus.json",
+ "apiVersion": "1",
+ "authorship": "Amir, 1975",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "East Asia, China, Indonesia, Malaysia",
+  "zh": "东亚中国、印度尼西亚、马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes minutus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-minutus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Odontotermes mathuri Thapa, 1982: 271-274",
+   "authorship": "Thapa, 1982",
+   "localityAlignment": "matched",
+   "name": "Odontotermes mathuri",
+   "note": "",
+   "reference": "271-274",
+   "typeLocality": "Malaysia: Sabah: Sandakan South District: Lungmanis"
+  }
+ ],
+ "typeLocality": "Indonesia: Sumatra: Lampung: Way Kambas",
+ "version": "2026.11.21",
+ "zh": "小土白蚁"
+}

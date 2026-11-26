@@ -1,0 +1,57 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/acorhinotermes-murui.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Rhinotermitidae",
+   "family_zh": "鼻白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Acorhinotermes murui",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "acorhinotermes-murui",
+   "source": "gbif",
+   "theirs": "Acorhinotermes Emerson, 1949",
+   "url": null,
+   "verified": false,
+   "zh": "穆鲁伊尖鼻白蚁"
+  }
+ ],
+ "authorship": "Castro, 2023",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "acorhinotermes",
+   "latin": "Acorhinotermes",
+   "zh": "尖鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Colombia (Amazon basin)",
+  "zh": "哥伦比亚（亚马孙）"
+ },
+ "isTypeSpecies": false,
+ "latin": "Acorhinotermes murui",
+ "pageUrl": "https://termite-extant-isoptera.org/species/acorhinotermes-murui/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Colombia: Amazon basin",
+ "version": "2026.11.21",
+ "zh": "穆鲁伊尖鼻白蚁"
+}

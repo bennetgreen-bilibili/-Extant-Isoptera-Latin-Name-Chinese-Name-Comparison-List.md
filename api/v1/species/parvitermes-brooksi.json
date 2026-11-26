@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/parvitermes-brooksi.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1925",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "parvitermes",
+   "latin": "Parvitermes",
+   "zh": "微白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Cuba, Bahamas",
+  "zh": "古巴、巴哈马"
+ },
+ "isTypeSpecies": true,
+ "latin": "Parvitermes brooksi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/parvitermes-brooksi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cuba: Cienfuegos: Soledad",
+ "version": "2026.11.21",
+ "zh": "布鲁克斯微白蚁"
+}

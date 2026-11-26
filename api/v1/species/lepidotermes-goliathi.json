@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/lepidotermes-goliathi.json",
+ "apiVersion": "1",
+ "authorship": "Williams, 1954",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "lepidotermes",
+   "latin": "Lepidotermes",
+   "zh": "鳞白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "southern Africa, South Africa",
+  "zh": "非洲南部、南非"
+ },
+ "isTypeSpecies": false,
+ "latin": "Lepidotermes goliathi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/lepidotermes-goliathi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Tanzania: Tanga District: Ngomeni",
+ "version": "2026.11.21",
+ "zh": "戈利亚特鳞白蚁"
+}

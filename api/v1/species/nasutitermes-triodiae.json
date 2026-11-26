@@ -1,0 +1,77 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-triodiae.json",
+ "apiVersion": "1",
+ "authorship": "Froggatt, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia, Papua New Guinea",
+  "zh": "澳大利亚、巴布亚新几内亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes triodiae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-triodiae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes pyriformis Froggatt, 1898: 750-751",
+   "authorship": "Froggatt, 1898",
+   "localityAlignment": "matched",
+   "name": "Eutermes pyriformis",
+   "note": "",
+   "reference": "750-751",
+   "typeLocality": "Australia: Northern Territory: Port Darwin: Palmerston"
+  },
+  {
+   "asPublished": "Eutermes nigerrimus queenslandicus Mjöberg, 1920: 43",
+   "authorship": "Mjöberg, 1920",
+   "localityAlignment": "matched",
+   "name": "Eutermes nigerrimus queenslandicus",
+   "note": "",
+   "reference": "43",
+   "typeLocality": "(country unknown): ?"
+  },
+  {
+   "asPublished": "Eutermes nigerrimus Mjöberg, 1920: 38-43",
+   "authorship": "Mjöberg, 1920",
+   "localityAlignment": "matched",
+   "name": "Eutermes nigerrimus",
+   "note": "",
+   "reference": "38-43",
+   "typeLocality": "(country unknown): ?"
+  },
+  {
+   "asPublished": "Eutermes palmerstoni Hill, 1922: 148-151",
+   "authorship": "Hill, 1922",
+   "localityAlignment": "matched",
+   "name": "Eutermes palmerstoni",
+   "note": "",
+   "reference": "148-151",
+   "typeLocality": "Australia: Northern Territory, near Darwin"
+  }
+ ],
+ "typeLocality": "Australia: Western Australia: Hall’s Creek, Kimberly Goldfield",
+ "version": "2026.11.21",
+ "zh": "三齿程草象白蚁"
+}

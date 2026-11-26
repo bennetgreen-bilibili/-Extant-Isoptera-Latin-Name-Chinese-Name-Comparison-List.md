@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/arcotermes-tubus.json",
+ "apiVersion": "1",
+ "authorship": "Fan, 1983",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "arcotermes",
+   "latin": "Arcotermes",
+   "zh": "弧白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "China (Jiangxi)",
+  "zh": "中国江西"
+ },
+ "isTypeSpecies": true,
+ "latin": "Arcotermes tubus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/arcotermes-tubus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Jiangxi Province: Xinfeng",
+ "version": "2026.11.21",
+ "zh": "管鼻弧白蚁"
+}

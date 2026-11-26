@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/termes-rostratus.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "termes",
+   "latin": "Termes",
+   "zh": "白蚁属"
+  },
+  "subfamily": {
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Southeast Asia, Thailand, Malaysia, Indonesia, Singapore",
+  "zh": "东南亚、泰国、马来西亚、印度尼西亚、新加坡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Termes rostratus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/termes-rostratus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malaysia: Sarawak; Singapore: ?",
+ "version": "2026.11.21",
+ "zh": "尖鼻白蚁"
+}

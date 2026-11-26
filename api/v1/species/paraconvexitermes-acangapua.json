@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/paraconvexitermes-acangapua.json",
+ "apiVersion": "1",
+ "authorship": "Cancello & Noirot, 2003",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "paraconvexitermes",
+   "latin": "Paraconvexitermes",
+   "zh": "近凸白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Colombia, French Guiana, Venezuela",
+  "zh": "巴西、哥伦比亚、法属圭亚那、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Paraconvexitermes acangapua",
+ "pageUrl": "https://termite-extant-isoptera.org/species/paraconvexitermes-acangapua/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Pará: Benevides, Fazenda Morelândia [1.22S 48.28W]",
+ "version": "2026.11.21",
+ "zh": "圆头近凸白蚁"
+}

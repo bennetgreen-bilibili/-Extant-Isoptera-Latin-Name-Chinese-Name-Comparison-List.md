@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-arborum.json",
+ "apiVersion": "1",
+ "authorship": "Smeathman, 1781",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Côte d'Ivoire, Cameroon, Gambia, Nigeria, Senegal, Togo, Benin, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Guinea-Bissau, Liberia, Sierra Leone, Uganda",
+  "zh": "科特迪瓦、喀麦隆、冈比亚、尼日利亚、塞内加尔、多哥、贝宁、刚果（布）、刚果民主共和国、加蓬、加纳、几内亚、几内亚比绍、利比里亚、塞拉利昂、乌干达"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes arborum",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-arborum/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes maculiventris Sjöstedt, 1904: 104-105",
+   "authorship": "Sjöstedt, 1904",
+   "localityAlignment": "matched",
+   "name": "Eutermes maculiventris",
+   "note": "",
+   "reference": "104-105",
+   "typeLocality": "Gabon: ?"
+  },
+  {
+   "asPublished": "Eutermes infuscatus perfusca Silvestri, 1914: 35-36",
+   "authorship": "Silvestri, 1914",
+   "localityAlignment": "matched",
+   "name": "Eutermes infuscatus perfusca",
+   "note": "",
+   "reference": "35-36",
+   "typeLocality": "Benin: Cotonou"
+  }
+ ],
+ "typeLocality": "Sierra Leone: Njala",
+ "version": "2026.11.21",
+ "zh": "树生象白蚁"
+}

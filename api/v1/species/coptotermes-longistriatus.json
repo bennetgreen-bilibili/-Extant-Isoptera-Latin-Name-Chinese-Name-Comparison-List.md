@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-longistriatus.json",
+ "apiVersion": "1",
+ "authorship": "Li & Huang, 1985",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "China (Guangdong)",
+  "zh": "中国广东"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes longistriatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-longistriatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Guangdong Province: Nanhai County",
+ "version": "2026.11.21",
+ "zh": "长带乳白蚁"
+}

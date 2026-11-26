@@ -1,0 +1,35 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-acinaciformis-raffrayi.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1900",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "latin": "Coptotermes acinaciformis raffrayi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-acinaciformis-raffrayi/",
+ "parent": {
+  "latin": "Coptotermes acinaciformis",
+  "slug": "coptotermes-acinaciformis",
+  "zh": "短刀乳白蚁"
+ },
+ "rank": "subspecies",
+ "synonyms": [],
+ "typeLocality": "Australia: Western Australia: Swan River",
+ "version": "2026.11.21",
+ "zh": "拉夫雷亚种"
+}

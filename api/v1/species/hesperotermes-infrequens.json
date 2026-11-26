@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/hesperotermes-infrequens.json",
+ "apiVersion": "1",
+ "authorship": "Hill, 1927",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "hesperotermes",
+   "latin": "Hesperotermes",
+   "zh": "西澳白蚁属"
+  },
+  "subfamily": {
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Hesperotermes infrequens",
+ "pageUrl": "https://termite-extant-isoptera.org/species/hesperotermes-infrequens/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Australia: Western Australia: Wungong",
+ "version": "2026.11.21",
+ "zh": "罕见西澳白蚁"
+}

@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cornitermes-walkeri.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1929",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "cornitermes",
+   "latin": "Cornitermes",
+   "zh": "角象白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Costa Rica, Panama, Colombia",
+  "zh": "哥斯达黎加、巴拿马、哥伦比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cornitermes walkeri",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cornitermes-walkeri/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Cornitermes (Cornitermes) acignathus costaricensis Snyder, 1929: 84",
+   "authorship": "Snyder, 1929",
+   "localityAlignment": "matched",
+   "name": "Cornitermes (Cornitermes) acignathus costaricensis",
+   "note": "",
+   "reference": "84",
+   "typeLocality": "Costa Rica: Santa Clara: Hamburg Farm"
+  }
+ ],
+ "typeLocality": "Panama: Río Tapia",
+ "version": "2026.11.21",
+ "zh": "沃克角象白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/heterotermes-balwanti.json",
+ "apiVersion": "1",
+ "authorship": "Mathur & Chhotani, 1969",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "heterotermes",
+   "latin": "Heterotermes",
+   "zh": "异白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "India",
+  "zh": "印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Heterotermes balwanti",
+ "pageUrl": "https://termite-extant-isoptera.org/species/heterotermes-balwanti/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Orissa: Balukhand Forest Range, near Puri",
+ "version": "2026.11.21",
+ "zh": "巴尔万特异白蚁"
+}

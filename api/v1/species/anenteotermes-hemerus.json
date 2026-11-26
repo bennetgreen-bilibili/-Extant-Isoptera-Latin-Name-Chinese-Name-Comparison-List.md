@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/anenteotermes-hemerus.json",
+ "apiVersion": "1",
+ "authorship": "Sands, 1972",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "anenteotermes",
+   "latin": "Anenteotermes",
+   "zh": "无甲白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Sudan",
+  "zh": "苏丹"
+ },
+ "isTypeSpecies": false,
+ "latin": "Anenteotermes hemerus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/anenteotermes-hemerus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Sudan: Mount Bangenze",
+ "version": "2026.11.21",
+ "zh": "肱骨无甲白蚁"
+}

@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-europae.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1910",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Europa Island, Madagascar, Réunion",
+  "zh": "欧罗巴岛、马达加斯加、留尼汪"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes europae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-europae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Neotermes concavifrons Cachan, 1949: 201-203",
+   "authorship": "Cachan, 1949",
+   "localityAlignment": "matched",
+   "name": "Neotermes concavifrons",
+   "note": "",
+   "reference": "201-203",
+   "typeLocality": "Madagascar: Station Forestière de l’Ankarafantsika"
+  }
+ ],
+ "typeLocality": "Europa Island (France): ?; Reunion (French): ?",
+ "version": "2026.11.21",
+ "zh": "欧罗巴新白蚁"
+}

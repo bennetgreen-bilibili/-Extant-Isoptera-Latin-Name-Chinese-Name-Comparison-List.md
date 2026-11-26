@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/bandeiratermes-silvestrii.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1949",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "bandeiratermes",
+   "latin": "Bandeiratermes",
+   "zh": "班代拉白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Bolivia, Paraguay",
+  "zh": "巴西、玻利维亚、巴拉圭"
+ },
+ "isTypeSpecies": true,
+ "latin": "Bandeiratermes silvestrii",
+ "pageUrl": "https://termite-extant-isoptera.org/species/bandeiratermes-silvestrii/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Mato Grosso: Cuiabá, Coxipó (district) [15.627S 56.058W]",
+ "version": "2026.11.21",
+ "zh": "西尔韦斯特里班代拉白蚁"
+}

@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-aporema.json",
+ "apiVersion": "1",
+ "authorship": "Constantino, 1993",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes aporema",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-aporema/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Amitermes nordestinus Mélo & Fontes, 2003: 411-418",
+   "authorship": "Mélo & Fontes, 2003",
+   "localityAlignment": "matched",
+   "name": "Amitermes nordestinus",
+   "note": "",
+   "reference": "411-418",
+   "typeLocality": "Brasil: Bahia: Itaberaba [ 12.53S 40.3W ]"
+  }
+ ],
+ "typeLocality": "Brasil: Amapá: Aporema [ 1.233N 50.78W ]",
+ "version": "2026.11.21",
+ "zh": "阿波雷马弓白蚁"
+}

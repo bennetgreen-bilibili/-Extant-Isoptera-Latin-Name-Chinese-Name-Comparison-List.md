@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-acinacifer.json",
+ "apiVersion": "1",
+ "authorship": "Sands, 1959",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Ethiopia, Kenya",
+  "zh": "埃塞俄比亚、肯尼亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes acinacifer",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-acinacifer/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Kenya: Masabit district, 43 km from Masabit township on the Isiolo Road",
+ "version": "2026.11.21",
+ "zh": "短刀弓白蚁"
+}

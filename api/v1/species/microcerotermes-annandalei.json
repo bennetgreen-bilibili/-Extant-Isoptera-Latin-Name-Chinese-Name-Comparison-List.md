@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-annandalei.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1923",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Southeast Asia, Thailand, India, Malaysia, Myanmar",
+  "zh": "东南亚、泰国、印度、马来西亚、缅甸"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes annandalei",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-annandalei/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Orissa: Chilka Lake: Barkuda Island",
+ "version": "2026.11.21",
+ "zh": "安嫩代尔锯白蚁"
+}

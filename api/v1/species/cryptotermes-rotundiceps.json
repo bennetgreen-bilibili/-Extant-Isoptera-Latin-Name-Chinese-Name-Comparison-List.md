@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-rotundiceps.json",
+ "apiVersion": "1",
+ "authorship": "Scheffrahn & Krecek, 1999",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Caribbean, Dominican Republic, Puerto Rico",
+  "zh": "加勒比、多米尼加、波多黎各"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes rotundiceps",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-rotundiceps/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Dominican Republic: La Romana Province, 4 km N Guyamate",
+ "version": "2026.11.21",
+ "zh": "圆头堆砂白蚁"
+}

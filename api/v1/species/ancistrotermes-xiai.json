@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ancistrotermes-xiai.json",
+ "apiVersion": "1",
+ "authorship": "Zhu & Huang, 1991",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ancistrotermes",
+   "latin": "Ancistrotermes",
+   "zh": "钩白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Yunnan (Mengla, Menglun 600m)",
+  "zh": "云南（勐腊勐仑600m）"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ancistrotermes xiai",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ancistrotermes-xiai/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Yunnan Province: Mengla County: Menglun",
+ "version": "2026.11.21",
+ "zh": "夏氏钩白蚁"
+}

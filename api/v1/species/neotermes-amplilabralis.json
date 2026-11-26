@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-amplilabralis.json",
+ "apiVersion": "1",
+ "authorship": "Xu & Han, 1985",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Yunnan (Hekou)",
+  "zh": "云南（河口）"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes amplilabralis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-amplilabralis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Yunnan Province: Heko",
+ "version": "2026.11.21",
+ "zh": "宽唇新白蚁"
+}

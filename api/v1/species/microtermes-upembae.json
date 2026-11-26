@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microtermes-upembae.json",
+ "apiVersion": "1",
+ "authorship": "Harris, 1958",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microtermes",
+   "latin": "Microtermes",
+   "zh": "小白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central African Republic, Democratic Republic of the Congo",
+  "zh": "中非、刚果民主共和国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microtermes upembae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microtermes-upembae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: \"Parc National de l’Upemba, River Lupiala, affl. dr. Lufira.\"",
+ "version": "2026.11.21",
+ "zh": "乌彭巴小白蚁"
+}

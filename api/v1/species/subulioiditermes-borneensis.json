@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/subulioiditermes-borneensis.json",
+ "apiVersion": "1",
+ "authorship": "Ahmad, 1968",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "subulioiditermes",
+   "latin": "Subulioiditermes",
+   "zh": "似锥白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Malaysia",
+  "zh": "马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Subulioiditermes borneensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/subulioiditermes-borneensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malaysia: Sarawak: Sabal Tapang",
+ "version": "2026.11.21",
+ "zh": "婆罗似锥白蚁"
+}

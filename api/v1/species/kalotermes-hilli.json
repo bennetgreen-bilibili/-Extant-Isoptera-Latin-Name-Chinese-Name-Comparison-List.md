@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/kalotermes-hilli.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1949",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "kalotermes",
+   "latin": "Kalotermes",
+   "zh": "木白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Kalotermes hilli",
+ "pageUrl": "https://termite-extant-isoptera.org/species/kalotermes-hilli/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Australia: Western Australia: Swan River",
+ "version": "2026.11.21",
+ "zh": "希尔木白蚁"
+}

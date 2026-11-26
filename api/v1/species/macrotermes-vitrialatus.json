@@ -1,0 +1,86 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-vitrialatus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1899",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, Central Africa, East Africa, southern Africa, Angola, Congo, Democratic Republic of the Congo, Malawi, Mozambique, Namibia, South Africa, Tanzania, Zambia, Zimbabwe",
+  "zh": "旧热带界、中非、东非、非洲南部、安哥拉、刚果、刚果民主共和国、马拉维、莫桑比克、纳米比亚、南非、坦桑尼亚、赞比亚、津巴布韦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes vitrialatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-vitrialatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes imperator Sjöstedt, 1913: 359-362",
+   "authorship": "Sjöstedt, 1913",
+   "localityAlignment": "unmatched",
+   "name": "Termes imperator",
+   "note": "",
+   "reference": "359-362",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Termes waterbergi Fuller, 1915: 466-470",
+   "authorship": "Fuller, 1915",
+   "localityAlignment": "unmatched",
+   "name": "Termes waterbergi",
+   "note": "",
+   "reference": "466-470",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Macrotermes schoutedeni Sjöstedt, 1924: 39",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "unmatched",
+   "name": "Macrotermes schoutedeni",
+   "note": "",
+   "reference": "39",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Amplitermes mozambicanus Sjöstedt, 1926: 89-90",
+   "authorship": "Sjöstedt, 1926",
+   "localityAlignment": "unmatched",
+   "name": "Amplitermes mozambicanus",
+   "note": "",
+   "reference": "89-90",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Macrotermes angolensis Noirot, 1955: 142-144",
+   "authorship": "Noirot, 1955",
+   "localityAlignment": "unmatched",
+   "name": "Macrotermes angolensis",
+   "note": "",
+   "reference": "142-144",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Democratic Republic of the Congo: \"an Bord\" (at the border)",
+ "version": "2026.11.21",
+ "zh": "明翼大白蚁"
+}

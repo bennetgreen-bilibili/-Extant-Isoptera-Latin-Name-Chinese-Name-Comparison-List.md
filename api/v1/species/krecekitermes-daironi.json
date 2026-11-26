@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/krecekitermes-daironi.json",
+ "apiVersion": "1",
+ "authorship": "Scheffrahn, Carrijo & Castro, 2023",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "krecekitermes",
+   "latin": "Krecekitermes",
+   "zh": "克雷切克白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South America, Colombia, French Guiana",
+  "zh": "南美洲、哥伦比亚、法属圭亚那"
+ },
+ "isTypeSpecies": true,
+ "latin": "Krecekitermes daironi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/krecekitermes-daironi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Rondonia: Porto Velho, Mutum-Paraná [ 9.4513S 64.8439W ]",
+ "version": "2026.11.21",
+ "zh": "戴龙克雷切克白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-matangensis.json",
+ "apiVersion": "1",
+ "authorship": "Manzoor & Akhtar, 2005",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Malaysia",
+  "zh": "马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes matangensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-matangensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malaysia: Sarawak",
+ "version": "2026.11.21",
+ "zh": "马登土白蚁"
+}

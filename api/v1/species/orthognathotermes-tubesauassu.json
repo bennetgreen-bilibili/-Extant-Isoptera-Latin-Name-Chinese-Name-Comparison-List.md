@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/orthognathotermes-tubesauassu.json",
+ "apiVersion": "1",
+ "authorship": "Rocha & Cancello, 2009",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "orthognathotermes",
+   "latin": "Orthognathotermes",
+   "zh": "直颚白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Orthognathotermes tubesauassu",
+ "pageUrl": "https://termite-extant-isoptera.org/species/orthognathotermes-tubesauassu/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Bahia: Andaraí [ 12.8S 41.33W ]",
+ "version": "2026.11.21",
+ "zh": "大眼直颚白蚁"
+}

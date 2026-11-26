@@ -1,0 +1,80 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/tonsuritermes-mathewsi.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "missing",
+   "latin": "Tonsuritermes mathewsi",
+   "match": null,
+   "note": "",
+   "rank": "种",
+   "slug": "tonsuritermes-mathewsi",
+   "source": "col",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "马修斯奇囟白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "missing",
+   "latin": "Tonsuritermes mathewsi",
+   "match": null,
+   "note": "",
+   "rank": "种",
+   "slug": "tonsuritermes-mathewsi",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "马修斯奇囟白蚁"
+  }
+ ],
+ "authorship": "Constantini & Cancello, 2018",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "tonsuritermes",
+   "latin": "Tonsuritermes",
+   "zh": "奇囟白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Tonsuritermes mathewsi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/tonsuritermes-mathewsi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Mato Grosso: Chapada dos Guimarães [ 15.4606S 55.7497W ]",
+ "version": "2026.11.21",
+ "zh": "马修斯奇囟白蚁"
+}

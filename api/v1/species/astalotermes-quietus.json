@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/astalotermes-quietus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "astalotermes",
+   "latin": "Astalotermes",
+   "zh": "无利器白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Central African Congo Basin, Cameroon, Democratic Republic of the Congo, Ghana, Guinea, Ivory Coast, Nigeria, Rwanda, Sierra Leone",
+  "zh": "西非、中非刚果盆地、喀麦隆、刚果民主共和国、加纳、几内亚、科特迪瓦、尼日利亚、卢旺达、塞拉利昂"
+ },
+ "isTypeSpecies": false,
+ "latin": "Astalotermes quietus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/astalotermes-quietus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Ghana: Aburi",
+ "version": "2026.11.21",
+ "zh": "宁静无利器白蚁"
+}

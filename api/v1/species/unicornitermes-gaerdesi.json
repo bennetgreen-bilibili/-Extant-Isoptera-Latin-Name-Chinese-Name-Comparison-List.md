@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/unicornitermes-gaerdesi.json",
+ "apiVersion": "1",
+ "authorship": "Coaton, 1971",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "unicornitermes",
+   "latin": "Unicornitermes",
+   "zh": "独角白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Namibia, South Africa",
+  "zh": "纳米比亚、南非"
+ },
+ "isTypeSpecies": true,
+ "latin": "Unicornitermes gaerdesi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/unicornitermes-gaerdesi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Namibia: District Lüderitz at Witpütz",
+ "version": "2026.11.21",
+ "zh": "盖尔德独角白蚁"
+}

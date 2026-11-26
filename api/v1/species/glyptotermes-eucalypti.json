@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-eucalypti.json",
+ "apiVersion": "1",
+ "authorship": "Froggatt, 1897",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glyptotermes eucalypti",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-eucalypti/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Calotermes ( Glyptotermes ) neotuberculatus Hill, 1933: 42-44",
+   "authorship": "Hill, 1933",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Glyptotermes) neotuberculatus",
+   "note": "",
+   "reference": "42-44",
+   "typeLocality": "Australia: Capital Territory: Black Mtn"
+  }
+ ],
+ "typeLocality": "Australia: New South Wales: Sydney",
+ "version": "2026.11.21",
+ "zh": "桉树树白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/dolichorhinotermes-tenebrosus.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1925",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "dolichorhinotermes",
+   "latin": "Dolichorhinotermes",
+   "zh": "狭鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "South America, Guyana, Bolivia, Ecuador, Venezuela",
+  "zh": "南美洲、圭亚那、玻利维亚、厄瓜多尔、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Dolichorhinotermes tenebrosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/dolichorhinotermes-tenebrosus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]",
+ "version": "2026.11.21",
+ "zh": "暗色狭鼻白蚁"
+}

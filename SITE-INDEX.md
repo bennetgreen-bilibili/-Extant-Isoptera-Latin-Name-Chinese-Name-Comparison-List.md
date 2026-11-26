@@ -29,9 +29,10 @@
 | 改一个属的位置（科 / 亚科）或增删科、亚科、属 | `_data/taxonomy.json` | `bash _tools/regen_all.sh` | `id` 就是页面 URL，改 id = 旧链接 404 |
 | 改科 / 亚科正文（三语） | `_data/taxon_prose/`（分片，见 `_meta/DATA-MAP.md` §5） | `bash _tools/regen_all.sh` | 同时影响 `/family/`、`/subfamily/` 与 `/list/sections/` 合订本 |
 | 改 `/list/` 的导语、按科浏览、参考文献块（三语） | `_data/list_index_blocks.json` | `bash _tools/regen_all.sh` | 三语三份都要改，`check_site` 校验锚点同构 |
-| 改界面文案（导航、页脚、按钮、语言切换名…） | `_data/i18n.yml` | `python _tools/check_site.py` | `zh-CN` / `en` / `es` 三节 key 必须完全一致（各 94 个） |
+| 改界面文案（导航、页脚、按钮、语言切换名…） | `_data/i18n.yml` | `python _tools/check_site.py` | `zh-CN` / `en` / `es` 三节 key 必须完全一致（各 95 个） |
 | 改页面结构、样式、交互 | `_layouts/`、`_includes/`、`assets/*.css`、`assets/*.js` | `python _tools/check_liquid.py` + `python _tools/check_lang_pages.py --ci` | 三语页面同构；模板里别新增 `site.pages` 遍历 |
 | 新增一个页面 | 根目录 + `en/` + `es/` 各一份 | `python _tools/check_site.py` | front matter 的 `title` / `description` / `permalink` / `lang` 四件套 |
+| 改 API 端点 / 名称匹配逻辑 | `_tools/build_api.py`，文档改 `api.md`、`en/api.md`、`es/api.md` | `python _tools/build_api.py --write` | `api/v1/` 是派生物，勿手改；`--check` 逐字节比对 |
 | 改 77 条参考文献 | 根目录名录单文件的 `## 参考文献` 区块 | `python .github/workflows/build_references.py --write` | 改完必须重跑 `build_dataset.py --write`（数据集也解析这 77 条） |
 | 改数据集元数据 / DOI / 版本 | `dataset/metadata.json` + `_config.yml` 的 `dataset:` | `python .github/workflows/build_dataset.py --write` | 两处要保持一致，`check_site` 会比对版本号 |
 | 查某条论断的出处 | `.sources/`（`Sxxxx` 记录） | `python _tools/sources.py check --strict` | 正文里的 `<!-- src:Sxxxx -->` 必须能对上记录 |
@@ -98,6 +99,7 @@
 `family/*.md`、`subfamily/*.md`、`genus/*.md`、`en/` 与 `es/` 下的全部分类页与物种页、
 `photos/**`、`stats.md`、`en/stats.md`、`es/stats.md`、`isoptera-data.json`、`data/*.json`、
 `search-index.json`、`sitemap.txt`、`sitemap-core.xml`、`changelog.md`、`changelog.atom`、`name-issues.md`、
+`api/v1/`（索引、名称查找表、分类索引、物种记录）、
 `dataset/data/*`、`dataset/datapackage.json`、`dataset/datacite-metadata.xml`、`dataset/CHECKSUMS.sha256`、
 `downloads/*.zip`、`_data/` 里 `_meta/DATA-MAP.md` §2 与 §3 列出的文件（§1 的分片是源文件，不在此列）。
 
@@ -134,7 +136,7 @@
 | 科页 / 亚科页 / 属页（中文） | 13 / 18 / 326 |
 | `_data/` 顶层文件 | 26 |
 | `_data/` 分片目录（数据集 / 分片文件） | 14 / 8888 |
-| `build_*.py` 脚本（`_tools/` + `.github/workflows/`） | 21 |
+| `build_*.py` 脚本（`_tools/` + `.github/workflows/`） | 22 |
 | 说明文档（`_tools/*.md` / `_reports/**/*.md`） | 15 / 17 |
 
 > 数字由 `_tools/build_ai_index.py --write` 从 `_data/taxonomy.json`、`_species/`、各页面目录与文件系统直接统计，改完数据请重跑 `_tools/regen_all.sh`。

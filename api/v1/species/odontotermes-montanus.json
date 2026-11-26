@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-montanus.json",
+ "apiVersion": "1",
+ "authorship": "Harris, 1960",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "East Africa, Kenya, Ethiopia",
+  "zh": "东非肯尼亚、埃塞俄比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes montanus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-montanus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Kenya: on the Kikuyu Escarpment, Nairobi-Naivasha road",
+ "version": "2026.11.21",
+ "zh": "高山土白蚁"
+}

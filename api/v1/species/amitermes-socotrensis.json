@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-socotrensis.json",
+ "apiVersion": "1",
+ "authorship": "Harris, 1954",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Middle East / Arabian Peninsula",
+  "zh": "中东/阿拉伯半岛"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes socotrensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-socotrensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Yemen: Socotra: Homil: Khor Garieh",
+ "version": "2026.11.21",
+ "zh": "索科特拉弓白蚁"
+}

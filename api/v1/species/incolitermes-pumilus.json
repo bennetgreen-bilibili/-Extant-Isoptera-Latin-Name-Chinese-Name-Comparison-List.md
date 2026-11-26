@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/incolitermes-pumilus.json",
+ "apiVersion": "1",
+ "authorship": "Hill, 1942",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "incolitermes",
+   "latin": "Incolitermes",
+   "zh": "子民白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Incolitermes pumilus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/incolitermes-pumilus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Australia: New South Wales: Unumgar State Forest, near Mt Lindesay (as Lindsay), near Queensland border",
+ "version": "2026.11.21",
+ "zh": "侏儒子民白蚁"
+}

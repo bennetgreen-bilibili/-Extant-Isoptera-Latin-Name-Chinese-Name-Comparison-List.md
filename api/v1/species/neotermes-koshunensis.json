@@ -1,0 +1,67 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-koshunensis.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Kalotermitidae",
+   "family_zh": "木白蚁科",
+   "group": "match",
+   "kind": "ambiguous",
+   "latin": "Neotermes koshunensis",
+   "match": null,
+   "note": "候选：OTU 82943 Neotermes koshunensis (Shiraki, 1909)；OTU 652941 Neotermes koshunensis (Holmgren, 1912) now Neotermes koshunensis (Shiraki, 1909)",
+   "rank": "种",
+   "slug": "neotermes-koshunensis",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "恒春新白蚁"
+  }
+ ],
+ "authorship": "Shiraki, 1909",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "East Asia, Taiwan, Japan",
+  "zh": "东亚、台湾、日本"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes koshunensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-koshunensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Calotermes ( Neotermes ) koshunensis Holmgren, 1912: 114-115",
+   "authorship": "Holmgren, 1912",
+   "localityAlignment": "unmatched",
+   "name": "Calotermes (Neotermes) koshunensis",
+   "note": "",
+   "reference": "114-115",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Taiwan: Nanrenshan, Pingtung Co. [ 22.0817N 120.835E ]",
+ "version": "2026.11.21",
+ "zh": "恒春新白蚁"
+}

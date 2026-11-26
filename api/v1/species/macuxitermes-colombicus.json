@@ -1,0 +1,80 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macuxitermes-colombicus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Macuxitermes colombicus",
+   "match": "higherrank",
+   "note": "",
+   "rank": "种",
+   "slug": "macuxitermes-colombicus",
+   "source": "col",
+   "theirs": "Macuxitermes Cancello & Bandeira, 1992",
+   "url": null,
+   "verified": false,
+   "zh": "哥伦比亚马库希白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "missing",
+   "latin": "Macuxitermes colombicus",
+   "match": null,
+   "note": "",
+   "rank": "种",
+   "slug": "macuxitermes-colombicus",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "哥伦比亚马库希白蚁"
+  }
+ ],
+ "authorship": "Postle & Scheffrahn, 2016",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macuxitermes",
+   "latin": "Macuxitermes",
+   "zh": "马库希白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Neotropics, Colombia",
+  "zh": "新热带哥伦比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macuxitermes colombicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macuxitermes-colombicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Colombia: Magdalena: Ciénaga de Ortiz [10.1518N 75.0436W]",
+ "version": "2026.11.21",
+ "zh": "哥伦比亚马库希白蚁"
+}

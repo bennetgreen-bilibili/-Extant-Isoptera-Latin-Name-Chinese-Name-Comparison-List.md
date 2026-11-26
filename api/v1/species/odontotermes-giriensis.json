@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-giriensis.json",
+ "apiVersion": "1",
+ "authorship": "Roonwal & Chhotani, 1962",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Asia, East Asia, China, India, Bangladesh, Bhutan",
+  "zh": "南亚、东亚中国、印度、孟加拉国、不丹"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes giriensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-giriensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Assam: Garo Hills District: Rongrengiri",
+ "version": "2026.11.21",
+ "zh": "吉里土白蚁"
+}

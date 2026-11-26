@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-aurantius.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 95,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Nasutitermes aurantius",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "nasutitermes-aurantius",
+   "source": "gbif",
+   "theirs": "Nasutitermes Dudley, 1890",
+   "url": null,
+   "verified": false,
+   "zh": "橙黄象白蚁"
+  }
+ ],
+ "authorship": "Scheffrahn, 2025",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Panama",
+  "zh": "巴拿马"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes aurantius",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-aurantius/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Panama: Coclé, Omar Torrijos Herrera National Park",
+ "version": "2026.11.21",
+ "zh": "橙黄象白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-mukimbunginis.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1924",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, West Africa, Central Africa, Democratic Republic of the Congo",
+  "zh": "旧热带界西非、中非、刚果民主共和国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes mukimbunginis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-mukimbunginis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Mukimbungu",
+ "version": "2026.11.21",
+ "zh": "穆金本古土白蚁"
+}

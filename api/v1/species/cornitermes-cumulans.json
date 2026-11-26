@@ -1,0 +1,77 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cornitermes-cumulans.json",
+ "apiVersion": "1",
+ "authorship": "Kollar, 1832",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "cornitermes",
+   "latin": "Cornitermes",
+   "zh": "角象白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Argentina, Paraguay, Colombia, Bolivia, Ecuador",
+  "zh": "巴西、阿根廷、巴拉圭、哥伦比亚、玻利维亚、厄瓜多尔"
+ },
+ "isTypeSpecies": true,
+ "latin": "Cornitermes cumulans",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cornitermes-cumulans/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes americana Rengger, 1835: 267",
+   "authorship": "Rengger, 1835",
+   "localityAlignment": "matched",
+   "name": "Termes americana",
+   "note": "",
+   "reference": "267",
+   "typeLocality": "Paraguay: ?"
+  },
+  {
+   "asPublished": "Termes dubius Rambur, 1842: 309",
+   "authorship": "Rambur, 1842",
+   "localityAlignment": "matched",
+   "name": "Termes dubius",
+   "note": "",
+   "reference": "309",
+   "typeLocality": "Brasil: ?"
+  },
+  {
+   "asPublished": "Termes (Termes) similis Hagen, 1858: 167-171, 243",
+   "authorship": "Hagen, 1858",
+   "localityAlignment": "matched",
+   "name": "Termes (Termes) similis",
+   "note": "",
+   "reference": "167-171, 243",
+   "typeLocality": "Brasil: Minas Gerais: Congonhas [20.4997S 43.8578W]"
+  },
+  {
+   "asPublished": "Termes christiersoni Sörensen, 1884: 20-22",
+   "authorship": "Sörensen, 1884",
+   "localityAlignment": "matched",
+   "name": "Termes christiersoni",
+   "note": "",
+   "reference": "20-22",
+   "typeLocality": "Argentina: Chaco: Río de Oro [27.0422S 58.5667W]"
+  }
+ ],
+ "typeLocality": "Brasil: São Paulo: Iperó, Ipanema [23.4265S 47.5921W]",
+ "version": "2026.11.21",
+ "zh": "成堆角象白蚁"
+}

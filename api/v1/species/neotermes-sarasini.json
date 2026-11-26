@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-sarasini.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren & Holmgren, 1915",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "New Caledonia, Samoa",
+  "zh": "新喀里多尼亚、萨摩亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes sarasini",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-sarasini/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "New Caledonia (French): Prony, 100 m, Loyalty Islands: Lifou",
+ "version": "2026.11.21",
+ "zh": "萨拉赞新白蚁"
+}

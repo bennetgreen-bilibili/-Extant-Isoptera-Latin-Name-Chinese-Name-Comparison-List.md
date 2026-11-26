@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/anhangatermes-macarthuri.json",
+ "apiVersion": "1",
+ "authorship": "Constantino, 1990",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "anhangatermes",
+   "latin": "Anhangatermes",
+   "zh": "魔白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, French Guiana",
+  "zh": "巴西、法属圭亚那"
+ },
+ "isTypeSpecies": true,
+ "latin": "Anhangatermes macarthuri",
+ "pageUrl": "https://termite-extant-isoptera.org/species/anhangatermes-macarthuri/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Amapá: Serra do Navio [0.8955N 52.0022W]",
+ "version": "2026.11.21",
+ "zh": "麦克阿瑟魔白蚁"
+}

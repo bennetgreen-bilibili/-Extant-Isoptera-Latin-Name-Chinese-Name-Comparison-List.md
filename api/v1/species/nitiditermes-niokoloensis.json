@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nitiditermes-niokoloensis.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Nitiditermes niokoloensis",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "nitiditermes-niokoloensis",
+   "source": "gbif",
+   "theirs": "Nitiditermes Emerson, 1960",
+   "url": null,
+   "verified": false,
+   "zh": "尼奥科洛净白蚁"
+  }
+ ],
+ "authorship": "Roy-Noël, 1969",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nitiditermes",
+   "latin": "Nitiditermes",
+   "zh": "净白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Senegal",
+  "zh": "塞内加尔"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nitiditermes niokoloensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nitiditermes-niokoloensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Senegal: Niokolo-Koba region, near Niokolo-Koba on trail of Bangaré",
+ "version": "2026.11.21",
+ "zh": "尼奥科洛净白蚁"
+}

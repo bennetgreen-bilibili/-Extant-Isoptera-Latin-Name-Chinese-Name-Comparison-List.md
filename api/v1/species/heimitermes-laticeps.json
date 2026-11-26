@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/heimitermes-laticeps.json",
+ "apiVersion": "1",
+ "authorship": "Grassé & Noirot, 1955",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "heimitermes",
+   "latin": "Heimitermes",
+   "zh": "埃姆白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central Africa, Cameroon, Nigeria",
+  "zh": "中非、喀麦隆、尼日利亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Heimitermes laticeps",
+ "pageUrl": "https://termite-extant-isoptera.org/species/heimitermes-laticeps/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Congo: Ebana, near Etoumbi",
+ "version": "2026.11.21",
+ "zh": "宽头埃姆白蚁"
+}

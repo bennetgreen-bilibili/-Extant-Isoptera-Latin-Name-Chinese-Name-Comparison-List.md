@@ -1,0 +1,35 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/reticulitermes-lucifugus-corsicus.json",
+ "apiVersion": "1",
+ "authorship": "Clément, 1977",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "reticulitermes",
+   "latin": "Reticulitermes",
+   "zh": "散白蚁属"
+  },
+  "subfamily": null
+ },
+ "latin": "Reticulitermes lucifugus corsicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/reticulitermes-lucifugus-corsicus/",
+ "parent": {
+  "latin": "Reticulitermes lucifugus",
+  "slug": "reticulitermes-lucifugus",
+  "zh": "暗黑散白蚁"
+ },
+ "rank": "subspecies",
+ "synonyms": [],
+ "typeLocality": "France: Corsica",
+ "version": "2026.11.21",
+ "zh": "科西嘉亚种"
+}

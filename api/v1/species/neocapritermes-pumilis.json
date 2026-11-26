@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neocapritermes-pumilis.json",
+ "apiVersion": "1",
+ "authorship": "Constantino, 1991",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "neocapritermes",
+   "latin": "Neocapritermes",
+   "zh": "新扭白蚁属"
+  },
+  "subfamily": {
+   "id": "neocapritermitinae",
+   "latin": "Neocapritermitinae",
+   "zh": "新扭白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Colombia, Brazil, French Guiana, Ecuador",
+  "zh": "哥伦比亚、巴西、法属圭亚那、厄瓜多尔"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neocapritermes pumilis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neocapritermes-pumilis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Pará: Belém, Reserva da APEG [ 1.44S 48.42W ]",
+ "version": "2026.11.21",
+ "zh": "侏儒新扭白蚁"
+}

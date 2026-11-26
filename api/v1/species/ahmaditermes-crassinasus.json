@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ahmaditermes-crassinasus.json",
+ "apiVersion": "1",
+ "authorship": "Li, 1985",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ahmaditermes",
+   "latin": "Ahmaditermes",
+   "zh": "钝颚白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Hainan (Xinglong)",
+  "zh": "海南（兴隆）"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ahmaditermes crassinasus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ahmaditermes-crassinasus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Guangdong Province: Hainan Island",
+ "version": "2026.11.21",
+ "zh": "粗鼻钝颚白蚁"
+}

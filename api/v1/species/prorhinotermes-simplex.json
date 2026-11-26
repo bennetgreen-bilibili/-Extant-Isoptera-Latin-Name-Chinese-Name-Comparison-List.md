@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/prorhinotermes-simplex.json",
+ "apiVersion": "1",
+ "authorship": "Hagen, 1858",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "psammotermitidae",
+   "latin": "Psammotermitidae",
+   "zh": "沙白蚁科"
+  },
+  "genus": {
+   "id": "prorhinotermes",
+   "latin": "Prorhinotermes",
+   "zh": "原鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "United States, Central America, Belize, Costa Rica, Caribbean, Cuba, Bahamas, Jamaica, Puerto Rico",
+  "zh": "美国、中美洲、伯利兹、哥斯达黎加、加勒比、古巴、巴哈马、牙买加、波多黎各"
+ },
+ "isTypeSpecies": false,
+ "latin": "Prorhinotermes simplex",
+ "pageUrl": "https://termite-extant-isoptera.org/species/prorhinotermes-simplex/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cuba: ?",
+ "version": "2026.11.21",
+ "zh": "简单原鼻白蚁"
+}

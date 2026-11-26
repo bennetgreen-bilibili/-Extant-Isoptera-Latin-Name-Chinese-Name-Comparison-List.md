@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-albipes.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren & Holmgren, 1915",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "New Caledonia, Vanuatu",
+  "zh": "新喀里多尼亚、瓦努阿图"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes albipes",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-albipes/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "New Caledonia (French): Loyalty Islands: Maré",
+ "version": "2026.11.21",
+ "zh": "白足堆砂白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/forficulitermes-planifrons.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1960",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "forficulitermes",
+   "latin": "Forficulitermes",
+   "zh": "剪白蚁属"
+  },
+  "subfamily": {
+   "id": "forficulitermitinae",
+   "latin": "Forficulitermitinae",
+   "zh": "剪白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central Africa, Cameroon",
+  "zh": "中非喀麦隆"
+ },
+ "isTypeSpecies": true,
+ "latin": "Forficulitermes planifrons",
+ "pageUrl": "https://termite-extant-isoptera.org/species/forficulitermes-planifrons/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Sona Mpangu",
+ "version": "2026.11.21",
+ "zh": "扁额剪白蚁"
+}

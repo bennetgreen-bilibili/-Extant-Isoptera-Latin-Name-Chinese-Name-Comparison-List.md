@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/trinervitermes-arabiae.json",
+ "apiVersion": "1",
+ "authorship": "Harris, 1957",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "trinervitermes",
+   "latin": "Trinervitermes",
+   "zh": "三脉白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Saudi Arabia, Yemen",
+  "zh": "沙特阿拉伯、也门"
+ },
+ "isTypeSpecies": false,
+ "latin": "Trinervitermes arabiae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/trinervitermes-arabiae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Yemen: Dhala",
+ "version": "2026.11.21",
+ "zh": "阿拉伯三脉白蚁"
+}

@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/syntermes-dirus.json",
+ "apiVersion": "1",
+ "authorship": "Burmeister, 1839",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "syntermes",
+   "latin": "Syntermes",
+   "zh": "聚白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": true,
+ "latin": "Syntermes dirus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/syntermes-dirus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes obscurum Blanchard, 1840: 47",
+   "authorship": "Blanchard, 1840",
+   "localityAlignment": "matched",
+   "name": "Termes obscurum",
+   "note": "",
+   "reference": "47",
+   "typeLocality": "Brasil: Rio de Janeiro: Rio de Janeiro [22.9S 43.23W]"
+  },
+  {
+   "asPublished": "Termes dubius Rambur, 1842: 309",
+   "authorship": "Rambur, 1842",
+   "localityAlignment": "matched",
+   "name": "Termes dubius",
+   "note": "",
+   "reference": "309",
+   "typeLocality": "Brasil: ?"
+  },
+  {
+   "asPublished": "Termes cephalotes Rambur, 1842: 309",
+   "authorship": "Rambur, 1842",
+   "localityAlignment": "matched",
+   "name": "Termes cephalotes",
+   "note": "",
+   "reference": "309",
+   "typeLocality": "Brasil: ?"
+  }
+ ],
+ "typeLocality": "Brasil: \"Rio\" (probably Rio de Janeiro) [22.9S 43.23W]",
+ "version": "2026.11.21",
+ "zh": "可怕聚白蚁"
+}

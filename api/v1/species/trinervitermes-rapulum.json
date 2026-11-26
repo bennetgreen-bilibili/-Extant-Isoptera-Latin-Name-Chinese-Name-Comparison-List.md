@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/trinervitermes-rapulum.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1904",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "trinervitermes",
+   "latin": "Trinervitermes",
+   "zh": "三脉白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Africa, Ethiopia, Malawi, Tanzania, Zimbabwe",
+  "zh": "南非、埃塞俄比亚、马拉维、坦桑尼亚、津巴布韦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Trinervitermes rapulum",
+ "pageUrl": "https://termite-extant-isoptera.org/species/trinervitermes-rapulum/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Trinervitermes) dispar disparioides Holmgren, 1913: 342-343",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Trinervitermes) dispar disparioides",
+   "note": "",
+   "reference": "342-343",
+   "typeLocality": "South Africa: Zululand: Mhalazinga"
+  },
+  {
+   "asPublished": "Eutermes (Trinervitermes) dispar zuluensis Holmgren, 1913: 340-342",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Trinervitermes) dispar zuluensis",
+   "note": "",
+   "reference": "340-342",
+   "typeLocality": "South Africa: Zululand: Mfolozi drift, Mkosi"
+  },
+  {
+   "asPublished": "Trinervitermes pretoriensis Fuller, 1922: 114, 121, 122",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "matched",
+   "name": "Trinervitermes pretoriensis",
+   "note": "",
+   "reference": "114, 121, 122",
+   "typeLocality": "South Africa: Transvaal: Pretoria: Meukleneuk"
+  }
+ ],
+ "typeLocality": "Tanzania: Tanga",
+ "version": "2026.11.21",
+ "zh": "蔓菁三脉白蚁"
+}

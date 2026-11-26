@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/porotermes-planiceps.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1904",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "stolotermitidae",
+   "latin": "Stolotermitidae",
+   "zh": "胄白蚁科"
+  },
+  "genus": {
+   "id": "porotermes",
+   "latin": "Porotermes",
+   "zh": "洞白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "South Africa",
+  "zh": "南非"
+ },
+ "isTypeSpecies": false,
+ "latin": "Porotermes planiceps",
+ "pageUrl": "https://termite-extant-isoptera.org/species/porotermes-planiceps/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Calotermes amabilis Sjöstedt, 1911: 3-4",
+   "authorship": "Sjöstedt, 1911",
+   "localityAlignment": "matched",
+   "name": "Calotermes amabilis",
+   "note": "",
+   "reference": "3-4",
+   "typeLocality": "South Africa: Cape Province"
+  }
+ ],
+ "typeLocality": "South Africa: Cape Province?",
+ "version": "2026.11.21",
+ "zh": "扁头洞白蚁"
+}

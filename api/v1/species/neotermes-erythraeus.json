@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-erythraeus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1918",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Eritrea, Ethiopia",
+  "zh": "厄立特里亚、埃塞俄比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes erythraeus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-erythraeus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Eritrea: Nefasit",
+ "version": "2026.11.21",
+ "zh": "微红新白蚁"
+}

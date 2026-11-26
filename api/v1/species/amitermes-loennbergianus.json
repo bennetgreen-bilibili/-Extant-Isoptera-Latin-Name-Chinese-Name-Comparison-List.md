@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-loennbergianus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Eritrea, Ethiopia, Kenya, Somalia, Tanzania, Uganda, Yemen",
+  "zh": "厄立特里亚、埃塞俄比亚、肯尼亚、索马里、坦桑尼亚、乌干达、也门"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes loennbergianus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-loennbergianus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Amitermes lacertosus Ghidini, 1941: 32-33",
+   "authorship": "Ghidini, 1941",
+   "localityAlignment": "matched",
+   "name": "Amitermes lacertosus",
+   "note": "",
+   "reference": "32-33",
+   "typeLocality": "Ethiopia: Murlè"
+  }
+ ],
+ "typeLocality": "Kenya: somewhat north of Guaso Nyero",
+ "version": "2026.11.21",
+ "zh": "伦伯格弓白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ancistrotermes-ganlanbaensis.json",
+ "apiVersion": "1",
+ "authorship": "Zhu & Huang, 1991",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ancistrotermes",
+   "latin": "Ancistrotermes",
+   "zh": "钩白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Yunnan (Jinghong 500m)",
+  "zh": "云南（景洪500m）"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ancistrotermes ganlanbaensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ancistrotermes-ganlanbaensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Yunnan Province: Jinghong County: Ganlanba",
+ "version": "2026.11.21",
+ "zh": "橄榄坝钩白蚁"
+}

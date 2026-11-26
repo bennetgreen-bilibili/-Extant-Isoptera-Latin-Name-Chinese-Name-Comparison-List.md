@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-nigeriensis.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1911",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Nigeria",
+  "zh": "尼日利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes nigeriensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-nigeriensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Nigeria: Oban District",
+ "version": "2026.11.21",
+ "zh": "尼日利亚新白蚁"
+}

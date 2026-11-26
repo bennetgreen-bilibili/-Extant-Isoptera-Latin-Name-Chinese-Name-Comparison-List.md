@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ophiotermes-receptus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1913",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ophiotermes",
+   "latin": "Ophiotermes",
+   "zh": "蛇白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central African Republic, Democratic Republic of the Congo",
+  "zh": "中非、刚果民主共和国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ophiotermes receptus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ophiotermes-receptus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Kondué (Kasai)",
+ "version": "2026.11.21",
+ "zh": "接受蛇白蚁"
+}

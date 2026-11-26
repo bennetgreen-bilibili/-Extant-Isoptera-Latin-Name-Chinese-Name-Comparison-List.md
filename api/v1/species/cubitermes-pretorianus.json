@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cubitermes-pretorianus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "cubitermes",
+   "latin": "Cubitermes",
+   "zh": "方白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "southern Africa, South Africa",
+  "zh": "非洲南部、南非"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cubitermes pretorianus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cubitermes-pretorianus/",
+ "rank": "species",
+ "subspecies": [
+  {
+   "authorship": "Fuller, 1925",
+   "latin": "Cubitermes pretorianus heidelbergi",
+   "pageUrl": "https://termite-extant-isoptera.org/species/cubitermes-pretorianus-heidelbergi/",
+   "slug": "cubitermes-pretorianus-heidelbergi",
+   "zh": "海德堡亚种"
+  },
+  {
+   "authorship": "Silvestri, 1914",
+   "latin": "Cubitermes pretorianus pretorianus",
+   "pageUrl": "https://termite-extant-isoptera.org/species/cubitermes-pretorianus-pretorianus/",
+   "slug": "cubitermes-pretorianus-pretorianus",
+   "zh": "指名亚种"
+  }
+ ],
+ "synonyms": [],
+ "typeLocality": "South Africa: Transvaal: Pretoria",
+ "version": "2026.11.21",
+ "zh": "比勒陀利亚方白蚁"
+}

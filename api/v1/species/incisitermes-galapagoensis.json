@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/incisitermes-galapagoensis.json",
+ "apiVersion": "1",
+ "authorship": "Banks, 1901",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "incisitermes",
+   "latin": "Incisitermes",
+   "zh": "楹白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Ecuador",
+  "zh": "厄瓜多尔"
+ },
+ "isTypeSpecies": false,
+ "latin": "Incisitermes galapagoensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/incisitermes-galapagoensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Ecuador: Galápagos: Isla Wolf (Wenman) [ 1.38N 91.82W ]",
+ "version": "2026.11.21",
+ "zh": "加拉帕戈斯楹白蚁"
+}

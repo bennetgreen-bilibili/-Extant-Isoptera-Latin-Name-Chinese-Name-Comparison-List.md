@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/basidentitermes-aurivillii.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1897",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "basidentitermes",
+   "latin": "Basidentitermes",
+   "zh": "基齿白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Togo, Nigeria, Ghana, Cameroon, Republic of the Congo, Democratic Republic of the Congo, Sudan, Uganda",
+  "zh": "西非、多哥、尼日利亚、加纳、喀麦隆、刚果共和国、刚果民主共和国、苏丹、乌干达"
+ },
+ "isTypeSpecies": true,
+ "latin": "Basidentitermes aurivillii",
+ "pageUrl": "https://termite-extant-isoptera.org/species/basidentitermes-aurivillii/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cameroon: Mungo River",
+ "version": "2026.11.21",
+ "zh": "奥里维尔基齿白蚁"
+}

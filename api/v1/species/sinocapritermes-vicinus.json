@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/sinocapritermes-vicinus.json",
+ "apiVersion": "1",
+ "authorship": "Xia, Gao, Pan & Tang, 1983",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "sinocapritermes",
+   "latin": "Sinocapritermes",
+   "zh": "华扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "China, Sichuan, Chongqing",
+  "zh": "中国、四川、重庆"
+ },
+ "isTypeSpecies": false,
+ "latin": "Sinocapritermes vicinus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/sinocapritermes-vicinus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Sichuan Province: Yibin",
+ "version": "2026.11.21",
+ "zh": "川华扭白蚁"
+}

@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-proximus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1901",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Uruguay",
+  "zh": "巴西、乌拉圭"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes proximus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-proximus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Eutermes) aurantiacoides Holmgren, 1910: 269-270",
+   "authorship": "Holmgren, 1910",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Eutermes) aurantiacoides",
+   "note": "",
+   "reference": "269-270",
+   "typeLocality": "Brasil: Santa Catarina: Jaraguá do Sul [26.4905S 49.0763W]"
+  }
+ ],
+ "typeLocality": "Uruguay: Maldonado: La Sierra [34.7667S 55.4167W]",
+ "version": "2026.11.21",
+ "zh": "最新象白蚁"
+}

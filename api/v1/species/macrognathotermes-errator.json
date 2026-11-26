@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrognathotermes-errator.json",
+ "apiVersion": "1",
+ "authorship": "Miller, 1991",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrognathotermes",
+   "latin": "Macrognathotermes",
+   "zh": "长颚白蚁属"
+  },
+  "subfamily": {
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia, Papua New Guinea",
+  "zh": "澳大利亚、巴布亚新几内亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Macrognathotermes errator",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrognathotermes-errator/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Australia: Northern Territory: Milingimbi",
+ "version": "2026.11.21",
+ "zh": "游荡长颚白蚁"
+}

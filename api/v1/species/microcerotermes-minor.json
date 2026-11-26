@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-minor.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "match",
+   "kind": "ambiguous",
+   "latin": "Microcerotermes minor",
+   "match": null,
+   "note": "候选：OTU 85574 Microcerotermes minor Holmgren, 1914；OTU 1115062 Microcerotermes minor (Cachan, 1951) now Microcerotermes cachani Eggleton, 2003",
+   "rank": "种",
+   "slug": "microcerotermes-minor",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "小型锯白蚁"
+  }
+ ],
+ "authorship": "Holmgren, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "India, Sri Lanka",
+  "zh": "印度、斯里兰卡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes minor",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-minor/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Sri Lanka: Maha-Iluppalama",
+ "version": "2026.11.21",
+ "zh": "小型锯白蚁"
+}

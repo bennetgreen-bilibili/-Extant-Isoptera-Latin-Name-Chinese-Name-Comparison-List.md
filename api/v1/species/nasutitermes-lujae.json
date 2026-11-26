@@ -1,0 +1,86 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-lujae.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Cameroon, Nigeria, Gabon, Uganda, Angola, Congo (Brazzaville), Democratic Republic of the Congo, Ghana, Côte d'Ivoire",
+  "zh": "喀麦隆、尼日利亚、加蓬、乌干达、安哥拉、刚果（布）、刚果民主共和国、加纳、科特迪瓦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes lujae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-lujae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes ekunduensis Sjöstedt, 1911: 16",
+   "authorship": "Sjöstedt, 1911",
+   "localityAlignment": "matched",
+   "name": "Eutermes ekunduensis",
+   "note": "",
+   "reference": "16",
+   "typeLocality": "Cameroon: Ekundu"
+  },
+  {
+   "asPublished": "Eutermes (Eutermes) impetus Sjöstedt, 1924: 493",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Eutermes) impetus",
+   "note": "",
+   "reference": "493",
+   "typeLocality": "Congo: Brazzaville"
+  },
+  {
+   "asPublished": "Eutermes maculiventris pusilla Sjöstedt, 1926: 297, 300",
+   "authorship": "Sjöstedt, 1926",
+   "localityAlignment": "matched",
+   "name": "Eutermes maculiventris pusilla",
+   "note": "",
+   "reference": "297, 300",
+   "typeLocality": "Democratic Republic of the Congo: Kisangani (Stanleyville)"
+  },
+  {
+   "asPublished": "Nasutitermes (Nasutitermes) bequaerti Emerson, 1928: 416",
+   "authorship": "Emerson, 1928",
+   "localityAlignment": "matched",
+   "name": "Nasutitermes (Nasutitermes) bequaerti",
+   "note": "",
+   "reference": "416",
+   "typeLocality": "Democratic Republic of the Congo: Bumba (Barumba)"
+  },
+  {
+   "asPublished": "Nasutitermes (Nasutitermes) santschii Emerson, 1928: 484-487",
+   "authorship": "Emerson, 1928",
+   "localityAlignment": "matched",
+   "name": "Nasutitermes (Nasutitermes) santschii",
+   "note": "",
+   "reference": "484-487",
+   "typeLocality": "Democratic Republic of the Congo: Kisangani (Stanleyville)"
+  }
+ ],
+ "typeLocality": "Democratic Republic of the Congo: Sankuru (Kassai)",
+ "version": "2026.11.21",
+ "zh": "卢哈象白蚁"
+}

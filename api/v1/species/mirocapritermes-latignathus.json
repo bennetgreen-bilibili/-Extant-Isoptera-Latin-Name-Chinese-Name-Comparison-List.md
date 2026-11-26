@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/mirocapritermes-latignathus.json",
+ "apiVersion": "1",
+ "authorship": "Ahmad, 1965",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "mirocapritermes",
+   "latin": "Mirocapritermes",
+   "zh": "瘤白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Thailand, Malaysia",
+  "zh": "泰国、马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Mirocapritermes latignathus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/mirocapritermes-latignathus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Thailand: Ka-Chong",
+ "version": "2026.11.21",
+ "zh": "宽颚瘤白蚁"
+}

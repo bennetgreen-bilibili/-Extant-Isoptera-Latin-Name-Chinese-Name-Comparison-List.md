@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-bhagwatii.json",
+ "apiVersion": "1",
+ "authorship": "Chatterjee & Thakur, 1967",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Asia (India)",
+  "zh": "南亚印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes bhagwatii",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-bhagwatii/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Punjab: Pathankot, near the railway station",
+ "version": "2026.11.21",
+ "zh": "巴格瓦蒂土白蚁"
+}

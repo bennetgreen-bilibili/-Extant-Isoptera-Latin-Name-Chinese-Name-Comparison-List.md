@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-darwini.json",
+ "apiVersion": "1",
+ "authorship": "Hill, 1922",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes darwini",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-darwini/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Hamitermes willingsi Hill, 1935: 20-21",
+   "authorship": "Hill, 1935",
+   "localityAlignment": "matched",
+   "name": "Hamitermes willingsi",
+   "note": "",
+   "reference": "20-21",
+   "typeLocality": "Australia: Northern Territory: Marrakai"
+  }
+ ],
+ "typeLocality": "Australia: Northern Territory: Darwin",
+ "version": "2026.11.21",
+ "zh": "达尔文弓白蚁"
+}

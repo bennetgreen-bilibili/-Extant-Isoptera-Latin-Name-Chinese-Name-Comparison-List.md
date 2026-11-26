@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ahmaditermes-choui.json",
+ "apiVersion": "1",
+ "authorship": "Ping & Tong, 1989",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ahmaditermes",
+   "latin": "Ahmaditermes",
+   "zh": "钝颚白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Hong Kong",
+  "zh": "香港"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ahmaditermes choui",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ahmaditermes-choui/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Hong Kong",
+ "version": "2026.11.21",
+ "zh": "周氏钝颚白蚁"
+}

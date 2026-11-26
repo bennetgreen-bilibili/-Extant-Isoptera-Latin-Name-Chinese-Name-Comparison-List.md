@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/comatermes-perfectus.json",
+ "apiVersion": "1",
+ "authorship": "Hagen, 1858",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "comatermes",
+   "latin": "Comatermes",
+   "zh": "毛白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Central America, Costa Rica, Panama, Honduras, Nicaragua, South America, Venezuela, Bolivia, Colombia, Peru, Caribbean, Dominica, Grenada, Guadeloupe, Martinique, Montserrat, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago",
+  "zh": "中美洲、哥斯达黎加、巴拿马、洪都拉斯、尼加拉瓜、南美洲、委内瑞拉、玻利维亚、哥伦比亚、秘鲁、加勒比、多米尼克、格林纳达、瓜德罗普、马提尼克、蒙特塞拉特、圣基茨和尼维斯、安圭拉、圣卢西亚、圣文森特和格林纳丁斯、特立尼达和多巴哥"
+ },
+ "isTypeSpecies": true,
+ "latin": "Comatermes perfectus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/comatermes-perfectus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Kalotermes ( Neotermes ) manni Snyder, 1926: 6",
+   "authorship": "Snyder, 1926",
+   "localityAlignment": "matched",
+   "name": "Kalotermes (Neotermes) manni",
+   "note": "",
+   "reference": "6",
+   "typeLocality": "Bolivia: La Paz: near mouth of Mapiri [ 15.1131S 67.69W ]"
+  }
+ ],
+ "typeLocality": "(country unknown): ?",
+ "version": "2026.11.21",
+ "zh": "完美毛白蚁"
+}

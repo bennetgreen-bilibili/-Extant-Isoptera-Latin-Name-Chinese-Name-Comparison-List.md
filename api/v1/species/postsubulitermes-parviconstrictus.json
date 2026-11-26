@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/postsubulitermes-parviconstrictus.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1960",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "postsubulitermes",
+   "latin": "Postsubulitermes",
+   "zh": "后锥白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Congo (Kinshasa), Congo (Brazzaville), Cameroon, Gabon",
+  "zh": "刚果（金）、刚果（布）、喀麦隆、加蓬"
+ },
+ "isTypeSpecies": true,
+ "latin": "Postsubulitermes parviconstrictus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/postsubulitermes-parviconstrictus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Yangambi",
+ "version": "2026.11.21",
+ "zh": "微缩后锥白蚁"
+}

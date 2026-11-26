@@ -1,0 +1,76 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/rugitermes-aridus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Kalotermitidae",
+   "family_zh": "木白蚁科",
+   "group": "match",
+   "kind": "ambiguous",
+   "latin": "Rugitermes aridus",
+   "match": null,
+   "note": "仅模糊候选：OTU 83053 Rugitermes Holmgren, 1911",
+   "rank": "种",
+   "slug": "rugitermes-aridus",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "干皱白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Kalotermitidae",
+   "family_zh": "木白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Rugitermes aridus",
+   "match": "higherrank",
+   "note": "",
+   "rank": "种",
+   "slug": "rugitermes-aridus",
+   "source": "col",
+   "theirs": "Rugitermes Holmgren, 1911",
+   "url": null,
+   "verified": false,
+   "zh": "干皱白蚁"
+  }
+ ],
+ "authorship": "Scheffrahn, 2020",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "rugitermes",
+   "latin": "Rugitermes",
+   "zh": "皱白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Peru",
+  "zh": "秘鲁"
+ },
+ "isTypeSpecies": false,
+ "latin": "Rugitermes aridus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/rugitermes-aridus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Peru: Huánuco: Huánuco city [ 9.877S 76.1641W ]",
+ "version": "2026.11.21",
+ "zh": "干皱白蚁"
+}

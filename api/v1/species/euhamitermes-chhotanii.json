@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/euhamitermes-chhotanii.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 98,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "match",
+   "kind": "fuzzy",
+   "latin": "Euhamitermes chhotanii",
+   "match": "FUZZY",
+   "note": "人工核对（2026-10-30）：GBIF Backbone 拼作 chhotannii（双 n），属外部库拼写变体。BSF、Catalogue of Life 与 ION 的 Maiti, 1983 原始描述记录均作 chhotanii；本站名不改。",
+   "rank": "种",
+   "slug": "euhamitermes-chhotanii",
+   "source": "gbif",
+   "theirs": "Euhamitermes chhotannii Maiti, 1983",
+   "url": "https://www.gbif.org/species/9784466",
+   "verified": true,
+   "zh": "乔塔里亮白蚁"
+  }
+ ],
+ "authorship": "Maiti, 1983",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "euhamitermes",
+   "latin": "Euhamitermes",
+   "zh": "亮白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Asia, India",
+  "zh": "南亚、印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Euhamitermes chhotanii",
+ "pageUrl": "https://termite-extant-isoptera.org/species/euhamitermes-chhotanii/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: West Bengal: Cooch Behar District: Cooch Behar Forest Range: Atiamochar Forest Beat",
+ "version": "2026.11.21",
+ "zh": "乔塔里亮白蚁"
+}

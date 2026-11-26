@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-rainbowi.json",
+ "apiVersion": "1",
+ "authorship": "Hill, 1926",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Cook Islands, Guam, Kiribati, Marshall Islands, Tuvalu",
+  "zh": "库克群岛、关岛、基里巴斯、马绍尔群岛、图瓦卢"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes rainbowi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-rainbowi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Tuvalu: Ellice Islands",
+ "version": "2026.11.21",
+ "zh": "雷恩鲍新白蚁"
+}

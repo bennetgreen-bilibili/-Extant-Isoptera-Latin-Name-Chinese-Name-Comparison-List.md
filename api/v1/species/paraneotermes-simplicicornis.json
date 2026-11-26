@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/paraneotermes-simplicicornis.json",
+ "apiVersion": "1",
+ "authorship": "Banks, 1920",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "paraneotermes",
+   "latin": "Paraneotermes",
+   "zh": "近新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "North America, United States, Mexico",
+  "zh": "北美、美国、墨西哥"
+ },
+ "isTypeSpecies": true,
+ "latin": "Paraneotermes simplicicornis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/paraneotermes-simplicicornis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Cryptotermes infumatus Banks, 1920: 38-39",
+   "authorship": "Banks, 1920",
+   "localityAlignment": "matched",
+   "name": "Cryptotermes infumatus",
+   "note": "",
+   "reference": "38-39",
+   "typeLocality": "United States: Texas: Cotula"
+  }
+ ],
+ "typeLocality": "United States: Texas: Laguna, on the Neuces River",
+ "version": "2026.11.21",
+ "zh": "简角近新白蚁"
+}

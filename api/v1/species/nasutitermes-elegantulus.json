@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-elegantulus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Republic of the Congo (Brazzaville), Angola, Cameroon, Democratic Republic of the Congo (Kinshasa), Gabon, Ghana, Guinea, Nigeria, São Tomé and Príncipe, Uganda",
+  "zh": "刚果（布）、安哥拉、喀麦隆、刚果民主共和国、加蓬、加纳、几内亚、尼日利亚、圣多美和普林西比、乌干达"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes elegantulus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-elegantulus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes macrophthalmus Silvestri, 1912: 240-241",
+   "authorship": "Silvestri, 1912",
+   "localityAlignment": "matched",
+   "name": "Eutermes macrophthalmus",
+   "note": "",
+   "reference": "240-241",
+   "typeLocality": "Sao Tome and Principe: Roça Infante D. Henrique"
+  },
+  {
+   "asPublished": "Eutermes (Eutermes) minusculus Sjöstedt, 1924: 40",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Eutermes) minusculus",
+   "note": "",
+   "reference": "40",
+   "typeLocality": "Democratic Republic of the Congo: Lukula"
+  },
+  {
+   "asPublished": "Nasutitermes (Nasutitermes) kohli Emerson, 1928: 484",
+   "authorship": "Emerson, 1928",
+   "localityAlignment": "matched",
+   "name": "Nasutitermes (Nasutitermes) kohli",
+   "note": "",
+   "reference": "484",
+   "typeLocality": "Democratic Republic of the Congo: Kandolo, near Kisangani"
+  }
+ ],
+ "typeLocality": "Cameroon: Victoria",
+ "version": "2026.11.21",
+ "zh": "小雅象白蚁"
+}

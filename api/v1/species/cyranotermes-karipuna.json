@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cyranotermes-karipuna.json",
+ "apiVersion": "1",
+ "authorship": "Rocha, Carrijo & Cancello, 2012",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "cyranotermes",
+   "latin": "Cyranotermes",
+   "zh": "巨鼻白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cyranotermes karipuna",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cyranotermes-karipuna/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Rondônia: Porto Velho, Jaci Paraná [8.76194S 63.9039W]",
+ "version": "2026.11.21",
+ "zh": "卡日普纳巨鼻白蚁"
+}

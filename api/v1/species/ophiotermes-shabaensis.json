@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ophiotermes-shabaensis.json",
+ "apiVersion": "1",
+ "authorship": "Bouillon & Vincke, 1973",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ophiotermes",
+   "latin": "Ophiotermes",
+   "zh": "蛇白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Democratic Republic of the Congo",
+  "zh": "刚果民主共和国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ophiotermes shabaensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ophiotermes-shabaensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: \"70 km de Likasi sur la route de Lubumbashi; Ferme de St-Hubert, campus universitaire, Lubumbashi; Station INERA (INEAC), Kipopo, à 25 km de Lubumbashi; plaine de Mwadingusha entre Likasi et Lubumbashi",
+ "version": "2026.11.21",
+ "zh": "沙巴蛇白蚁"
+}

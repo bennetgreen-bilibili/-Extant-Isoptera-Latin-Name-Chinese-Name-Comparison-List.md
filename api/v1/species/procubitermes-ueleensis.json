@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/procubitermes-ueleensis.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1924",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "procubitermes",
+   "latin": "Procubitermes",
+   "zh": "原方白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Democratic Republic of the Congo, Uele region, Gabon, Uganda",
+  "zh": "刚果民主共和国、韦莱地区、加蓬、乌干达"
+ },
+ "isTypeSpecies": false,
+ "latin": "Procubitermes ueleensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/procubitermes-ueleensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Moto (Haut Uelé)",
+ "version": "2026.11.21",
+ "zh": "韦莱原方白蚁"
+}

@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-novarumhebridarum.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren & Holmgren, 1915",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Solomon Islands, New Caledonia (France), Papua New Guinea, Vanuatu",
+  "zh": "所罗门群岛、新喀里多尼亚（法）、巴布亚新几内亚、瓦努阿图"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes novarumhebridarum",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-novarumhebridarum/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Nasutitermes (Grallatotermes) oceanicum Snyder, 1925: 439-440",
+   "authorship": "Snyder, 1925",
+   "localityAlignment": "unmatched",
+   "name": "Nasutitermes (Grallatotermes) oceanicum",
+   "note": "",
+   "reference": "439-440",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes yandiniensis Hill, 1927: 25-28",
+   "authorship": "Hill, 1927",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes yandiniensis",
+   "note": "",
+   "reference": "25-28",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Vanuatu: Ambrym",
+ "version": "2026.11.21",
+ "zh": "新赫布里底象白蚁"
+}

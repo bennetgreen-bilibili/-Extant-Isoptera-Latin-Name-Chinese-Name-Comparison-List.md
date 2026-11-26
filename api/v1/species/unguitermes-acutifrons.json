@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/unguitermes-acutifrons.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "unguitermes",
+   "latin": "Unguitermes",
+   "zh": "爪白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "tropical Africa",
+  "zh": "非洲热带"
+ },
+ "isTypeSpecies": false,
+ "latin": "Unguitermes acutifrons",
+ "pageUrl": "https://termite-extant-isoptera.org/species/unguitermes-acutifrons/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guinea: Camayenne",
+ "version": "2026.11.21",
+ "zh": "尖额爪白蚁"
+}

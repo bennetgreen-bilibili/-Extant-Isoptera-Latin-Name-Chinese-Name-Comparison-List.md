@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cornitermes-ovatus.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1952",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "cornitermes",
+   "latin": "Cornitermes",
+   "zh": "角象白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Colombia",
+  "zh": "巴西、哥伦比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cornitermes ovatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cornitermes-ovatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Amazonas: Cururuzinho, rio Autaz [3.58S 59.125W]",
+ "version": "2026.11.21",
+ "zh": "卵形角象白蚁"
+}

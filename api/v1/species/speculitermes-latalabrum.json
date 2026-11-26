@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/speculitermes-latalabrum.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Speculitermes latalabrum",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "speculitermes-latalabrum",
+   "source": "gbif",
+   "theirs": "Speculitermes Wasmann, 1902",
+   "url": null,
+   "verified": false,
+   "zh": "宽唇稀白蚁"
+  }
+ ],
+ "authorship": "Aiswarya & Amina, 2026",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "speculitermes",
+   "latin": "Speculitermes",
+   "zh": "稀白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Asia, India",
+  "zh": "南亚、印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Speculitermes latalabrum",
+ "pageUrl": "https://termite-extant-isoptera.org/species/speculitermes-latalabrum/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Kerala: Thrissur (Asurankundu Dam) [ 10.6852N 76.2955E ]",
+ "version": "2026.11.21",
+ "zh": "宽唇稀白蚁"
+}

@@ -1,0 +1,77 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/alyscotermes-kilimandjaricus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1907",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "alyscotermes",
+   "latin": "Alyscotermes",
+   "zh": "逃白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Democratic Republic of the Congo, Gambia, Guinea, Ivory Coast, Kenya, Malawi, Nigeria, South Africa, Tanzania, Uganda, Zimbabwe",
+  "zh": "刚果民主共和国、冈比亚、几内亚、科特迪瓦、肯尼亚、马拉维、尼日利亚、南非、坦桑尼亚、乌干达、津巴布韦"
+ },
+ "isTypeSpecies": true,
+ "latin": "Alyscotermes kilimandjaricus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/alyscotermes-kilimandjaricus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes bilobatus Haviland, 1898: 411 (imago)",
+   "authorship": "Haviland, 1898",
+   "localityAlignment": "matched",
+   "name": "Termes bilobatus",
+   "note": "(imago)",
+   "reference": "411",
+   "typeLocality": "South Africa: Natal: Estcourt"
+  },
+  {
+   "asPublished": "Mirotermes ( Cubitermes ) natalensis obscurus Holmgren, 1913: 356",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "matched",
+   "name": "Mirotermes (Cubitermes) natalensis obscurus",
+   "note": "",
+   "reference": "356",
+   "typeLocality": "South Africa: Natal: Charlestown"
+  },
+  {
+   "asPublished": "Mirotermes ( Cubitermes ) natalensis Holmgren, 1913: 355-356",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "matched",
+   "name": "Mirotermes (Cubitermes) natalensis",
+   "note": "",
+   "reference": "355-356",
+   "typeLocality": "South Africa: Natal: Amanzimtoti"
+  },
+  {
+   "asPublished": "Mirotermes ( Procubitermes ) mfolozii Fuller, 1925: 190-191",
+   "authorship": "Fuller, 1925",
+   "localityAlignment": "matched",
+   "name": "Mirotermes (Procubitermes) mfolozii",
+   "note": "",
+   "reference": "190-191",
+   "typeLocality": "South Africa: Zululand: Tsetse fly station Conjeni, S bank of White Umfolozi (Mfolozi) River"
+  }
+ ],
+ "typeLocality": "Tanzania: Kilimanjaro: Kibonoto",
+ "version": "2026.11.21",
+ "zh": "乞力马扎罗逃白蚁"
+}

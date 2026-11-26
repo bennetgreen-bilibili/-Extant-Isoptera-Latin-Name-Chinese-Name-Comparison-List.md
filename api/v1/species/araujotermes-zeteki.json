@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/araujotermes-zeteki.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1924",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "araujotermes",
+   "latin": "Araujotermes",
+   "zh": "阿劳若白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Colombia, Brazil, Panama, Venezuela",
+  "zh": "哥伦比亚、巴西、巴拿马、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Araujotermes zeteki",
+ "pageUrl": "https://termite-extant-isoptera.org/species/araujotermes-zeteki/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Panama: Summit",
+ "version": "2026.11.21",
+ "zh": "策特克阿劳若白蚁"
+}

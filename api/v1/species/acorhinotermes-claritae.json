@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/acorhinotermes-claritae.json",
+ "apiVersion": "1",
+ "authorship": "Castro & Scheffrahn, 2019",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "acorhinotermes",
+   "latin": "Acorhinotermes",
+   "zh": "尖鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Colombia, Brazil, Venezuela",
+  "zh": "哥伦比亚、巴西、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Acorhinotermes claritae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/acorhinotermes-claritae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Colombia: Amazonas, Leticia [ 4.21528S 69.9406W ]",
+ "version": "2026.11.21",
+ "zh": "克拉丽塔尖鼻白蚁"
+}

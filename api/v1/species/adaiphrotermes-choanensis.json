@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/adaiphrotermes-choanensis.json",
+ "apiVersion": "1",
+ "authorship": "Fuller, 1925",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "adaiphrotermes",
+   "latin": "Adaiphrotermes",
+   "zh": "和白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Kenya, Malawi, South Africa, Eswatini, Tanzania, Zimbabwe",
+  "zh": "肯尼亚、马拉维、南非、斯威士兰、坦桑尼亚、津巴布韦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Adaiphrotermes choanensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/adaiphrotermes-choanensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "South Africa: Pretoria: Arcadia",
+ "version": "2026.11.21",
+ "zh": "乔安和白蚁"
+}

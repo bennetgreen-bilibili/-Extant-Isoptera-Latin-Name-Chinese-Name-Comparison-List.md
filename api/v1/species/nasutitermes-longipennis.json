@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-longipennis.json",
+ "apiVersion": "1",
+ "authorship": "Hill, 1915",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes longipennis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-longipennis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes yarrabahensis Mjöberg, 1920: 53-54",
+   "authorship": "Mjöberg, 1920",
+   "localityAlignment": "matched",
+   "name": "Eutermes yarrabahensis",
+   "note": "",
+   "reference": "53-54",
+   "typeLocality": "Australia: Northern Territory: Yarrabah"
+  }
+ ],
+ "typeLocality": "Australia: Northern Territory: Koolpinyah",
+ "version": "2026.11.21",
+ "zh": "长翅象白蚁"
+}

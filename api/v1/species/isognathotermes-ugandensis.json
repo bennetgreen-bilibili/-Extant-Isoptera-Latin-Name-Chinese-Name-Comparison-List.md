@@ -1,0 +1,100 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/isognathotermes-ugandensis.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Isognathotermes ugandensis",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "isognathotermes-ugandensis",
+   "source": "gbif",
+   "theirs": "Isognathotermes Sjöstedt, 1926",
+   "url": null,
+   "verified": false,
+   "zh": "乌干达等颚白蚁"
+  }
+ ],
+ "authorship": "Fuller, 1923",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "isognathotermes",
+   "latin": "Isognathotermes",
+   "zh": "等颚白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Uganda, Democratic Republic of the Congo, Kenya, Malawi, Rwanda, Tanzania, Zambia",
+  "zh": "乌干达、刚果民主共和国、肯尼亚、马拉维、卢旺达、坦桑尼亚、赞比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Isognathotermes ugandensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/isognathotermes-ugandensis/",
+ "rank": "species",
+ "subspecies": [
+  {
+   "authorship": "Josens & Deligne, 2025",
+   "latin": "Isognathotermes ugandensis burundii",
+   "pageUrl": "https://termite-extant-isoptera.org/species/isognathotermes-ugandensis-burundii/",
+   "slug": "isognathotermes-ugandensis-burundii",
+   "zh": "布隆迪亚种"
+  },
+  {
+   "authorship": "Josens & Deligne, 2025",
+   "latin": "Isognathotermes ugandensis kenyae",
+   "pageUrl": "https://termite-extant-isoptera.org/species/isognathotermes-ugandensis-kenyae/",
+   "slug": "isognathotermes-ugandensis-kenyae",
+   "zh": "肯尼亚亚种"
+  },
+  {
+   "authorship": "Josens & Deligne, 2025",
+   "latin": "Isognathotermes ugandensis malawii",
+   "pageUrl": "https://termite-extant-isoptera.org/species/isognathotermes-ugandensis-malawii/",
+   "slug": "isognathotermes-ugandensis-malawii",
+   "zh": "马拉维亚种"
+  },
+  {
+   "authorship": "Fuller, 1923",
+   "latin": "Isognathotermes ugandensis ugandensis",
+   "pageUrl": "https://termite-extant-isoptera.org/species/isognathotermes-ugandensis-ugandensis/",
+   "slug": "isognathotermes-ugandensis-ugandensis",
+   "zh": "指名亚种"
+  }
+ ],
+ "synonyms": [
+  {
+   "asPublished": "Cubitermes antennalis Sjöstedt, 1924: 493",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "matched",
+   "name": "Cubitermes antennalis",
+   "note": "",
+   "reference": "493",
+   "typeLocality": "Democratic Republic of the Congo: Haut Uélé: Moto"
+  }
+ ],
+ "typeLocality": "Uganda: \"Nkulukuku.\"",
+ "version": "2026.11.21",
+ "zh": "乌干达等颚白蚁"
+}

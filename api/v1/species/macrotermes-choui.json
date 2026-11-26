@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-choui.json",
+ "apiVersion": "1",
+ "authorship": "Ping, 1985",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Yunnan, China, Yingjiang",
+  "zh": "中国云南、盈江"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes choui",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-choui/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Yunnan Province: Yingjiang County",
+ "version": "2026.11.21",
+ "zh": "周氏大白蚁"
+}

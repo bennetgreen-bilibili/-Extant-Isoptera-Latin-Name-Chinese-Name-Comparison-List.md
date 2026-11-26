@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/krishnacapritermes-thakuri.json",
+ "apiVersion": "1",
+ "authorship": "Chhotani, 1997",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "krishnacapritermes",
+   "latin": "Krishnacapritermes",
+   "zh": "克里希纳扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Asia, India",
+  "zh": "南亚、印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Krishnacapritermes thakuri",
+ "pageUrl": "https://termite-extant-isoptera.org/species/krishnacapritermes-thakuri/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Pericapritermes travancorensis Mathew & Ipe, 2018: 12583",
+   "authorship": "Mathew & Ipe, 2018",
+   "localityAlignment": "matched",
+   "name": "Pericapritermes travancorensis",
+   "note": "",
+   "reference": "12583",
+   "typeLocality": "India: Kerala: Kottayam, CMS College Campus"
+  }
+ ],
+ "typeLocality": "India: Kerala: Silent Valley",
+ "version": "2026.11.21",
+ "zh": "塔库尔克里希纳扭白蚁"
+}

@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/porotermes-adamsoni.json",
+ "apiVersion": "1",
+ "authorship": "Froggatt, 1897",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "stolotermitidae",
+   "latin": "Stolotermitidae",
+   "zh": "胄白蚁科"
+  },
+  "genus": {
+   "id": "porotermes",
+   "latin": "Porotermes",
+   "zh": "洞白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Australia; introduced: New Zealand",
+  "zh": "澳大利亚；引入：新西兰"
+ },
+ "isTypeSpecies": false,
+ "latin": "Porotermes adamsoni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/porotermes-adamsoni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Porotermes ( Planitermes ) grandis Holmgren, 1912: 281",
+   "authorship": "Holmgren, 1912",
+   "localityAlignment": "matched",
+   "name": "Porotermes (Planitermes) grandis",
+   "note": "",
+   "reference": "281",
+   "typeLocality": "Australia: Victoria: Cape Otway"
+  },
+  {
+   "asPublished": "Porotermes froggatti Holmgren, 1912: 281",
+   "authorship": "Holmgren, 1912",
+   "localityAlignment": "matched",
+   "name": "Porotermes froggatti",
+   "note": "",
+   "reference": "281",
+   "typeLocality": "Australia: Tasmania"
+  }
+ ],
+ "typeLocality": "Australia: New South Wales: Uralla",
+ "version": "2026.11.21",
+ "zh": "亚当森洞白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-viraktamathi.json",
+ "apiVersion": "1",
+ "authorship": "Ranjith & Kalleshwaraswamy, 2022",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "India, Karnataka",
+  "zh": "印度、卡纳塔克"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes viraktamathi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-viraktamathi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Karnataka: Hebri-Karkala Rd [ 13.4428N 75.0183E ]",
+ "version": "2026.11.21",
+ "zh": "维拉格塔马蒂新白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-magdalenae.json",
+ "apiVersion": "1",
+ "authorship": "Grassé & Noirot, 1950",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Nigeria, Burkina Faso, Cameroon, Central African Republic, Chad, Guinea, Sudan",
+  "zh": "西非尼日利亚、布基纳法索、喀麦隆、中非共和国、乍得、几内亚、苏丹"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes magdalenae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-magdalenae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Chad: Télémé, near Bongor",
+ "version": "2026.11.21",
+ "zh": "马格达莱纳土白蚁"
+}

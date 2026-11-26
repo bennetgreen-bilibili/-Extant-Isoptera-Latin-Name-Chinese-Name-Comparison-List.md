@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-agilis.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1902",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Cameroon, Ghana, Nigeria",
+  "zh": "喀麦隆、加纳、尼日利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes agilis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-agilis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cameroon: Johann-Albrechtshöhe",
+ "version": "2026.11.21",
+ "zh": "轻快新白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/bulbitermes-germanus.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "bulbitermes",
+   "latin": "Bulbitermes",
+   "zh": "瓢白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Indonesia, Malaysia, Singapore, Thailand",
+  "zh": "印度尼西亚、马来西亚、新加坡、泰国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Bulbitermes germanus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/bulbitermes-germanus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Singapore: Bukit Timah",
+ "version": "2026.11.21",
+ "zh": "常见瓢白蚁"
+}

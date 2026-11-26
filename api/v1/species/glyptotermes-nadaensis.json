@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-nadaensis.json",
+ "apiVersion": "1",
+ "authorship": "Li, 1987",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "China (Guangdong)",
+  "zh": "中国广东"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glyptotermes nadaensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-nadaensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Guangdong Province: Nada",
+ "version": "2026.11.21",
+ "zh": "那大树白蚁"
+}

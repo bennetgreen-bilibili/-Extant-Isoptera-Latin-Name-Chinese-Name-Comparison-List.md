@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neocapritermes-centralis.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1932",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "neocapritermes",
+   "latin": "Neocapritermes",
+   "zh": "新扭白蚁属"
+  },
+  "subfamily": {
+   "id": "neocapritermitinae",
+   "latin": "Neocapritermitinae",
+   "zh": "新扭白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Panama, Costa Rica",
+  "zh": "巴拿马、哥斯达黎加"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neocapritermes centralis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neocapritermes-centralis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Costa Rica: Santa Clara: Hamburg Farm",
+ "version": "2026.11.21",
+ "zh": "中部新扭白蚁"
+}

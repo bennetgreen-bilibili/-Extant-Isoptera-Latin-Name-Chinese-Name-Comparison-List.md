@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/divinotermes-digitatus.json",
+ "apiVersion": "1",
+ "authorship": "Carrijo & Cancello, 2011",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "divinotermes",
+   "latin": "Divinotermes",
+   "zh": "迪维努白蚁属"
+  },
+  "subfamily": {
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Divinotermes digitatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/divinotermes-digitatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Goiás: Serra da Mesa [13.8288S 48.3211W]",
+ "version": "2026.11.21",
+ "zh": "具指迪维努白蚁"
+}

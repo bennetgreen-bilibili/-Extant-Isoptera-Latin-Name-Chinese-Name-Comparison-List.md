@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-laticollis.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1910",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Seychelles",
+  "zh": "塞舌尔"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes laticollis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-laticollis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Seychelles: Longue Island; Silhouette; near Morne Blanc, Mahé",
+ "version": "2026.11.21",
+ "zh": "宽颈新白蚁"
+}

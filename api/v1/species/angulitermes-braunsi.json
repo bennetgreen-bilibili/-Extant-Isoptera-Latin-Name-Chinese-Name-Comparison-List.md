@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/angulitermes-braunsi.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1908",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "angulitermes",
+   "latin": "Angulitermes",
+   "zh": "角白蚁属"
+  },
+  "subfamily": {
+   "id": "promirotermitinae",
+   "latin": "Promirotermitinae",
+   "zh": "前奇白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Africa",
+  "zh": "南非"
+ },
+ "isTypeSpecies": false,
+ "latin": "Angulitermes braunsi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/angulitermes-braunsi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "South Africa: Cape of Good Hope: Port Elizabeth",
+ "version": "2026.11.21",
+ "zh": "布劳恩斯角白蚁"
+}

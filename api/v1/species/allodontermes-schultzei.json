@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/allodontermes-schultzei.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1908",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "allodontermes",
+   "latin": "Allodontermes",
+   "zh": "奇齿白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "southern Africa, Namibia, Botswana, South Africa, Eswatini, Zambia, Zimbabwe",
+  "zh": "非洲南部纳米比亚、博茨瓦纳、南非、斯威士兰、赞比亚、津巴布韦"
+ },
+ "isTypeSpecies": true,
+ "latin": "Allodontermes schultzei",
+ "pageUrl": "https://termite-extant-isoptera.org/species/allodontermes-schultzei/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Botswana: Kalahari: Severelela (Kang-Kgokong)",
+ "version": "2026.11.21",
+ "zh": "舒尔茨奇齿白蚁"
+}

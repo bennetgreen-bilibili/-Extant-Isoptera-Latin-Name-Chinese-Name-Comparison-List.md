@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microtermes-dubius.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "match",
+   "kind": "ambiguous",
+   "latin": "Microtermes dubius",
+   "match": null,
+   "note": "候选：OTU 83609 Microtermes dubius Fuller, 1922；OTU 659336 Microtermes dubius Grassé, 1937 now Microtermes vadschaggae grassei Ghidini, 1955",
+   "rank": "种",
+   "slug": "microtermes-dubius",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "疑问小白蚁"
+  }
+ ],
+ "authorship": "Fuller, 1922",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microtermes",
+   "latin": "Microtermes",
+   "zh": "小白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "southern Africa, South Africa",
+  "zh": "非洲南部、南非"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microtermes dubius",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microtermes-dubius/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Namibia: Dornveld near Windhoek",
+ "version": "2026.11.21",
+ "zh": "疑问小白蚁"
+}

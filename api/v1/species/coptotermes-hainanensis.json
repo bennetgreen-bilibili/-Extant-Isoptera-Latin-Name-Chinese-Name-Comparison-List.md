@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-hainanensis.json",
+ "apiVersion": "1",
+ "authorship": "Li & Tsai, 1985",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "China (Hainan)",
+  "zh": "中国海南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes hainanensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-hainanensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Coptotermes ( Polycrinitermes ) jiaxingensis Xia & He, 1986: 165-166, 179",
+   "authorship": "Xia & He, 1986",
+   "localityAlignment": "matched",
+   "name": "Coptotermes (Polycrinitermes) jiaxingensis",
+   "note": "",
+   "reference": "165-166, 179",
+   "typeLocality": "China: Zhejiang Province: Jiaxing County"
+  }
+ ],
+ "typeLocality": "China: Guangdong Province: Hainan Island: Danxiaan County",
+ "version": "2026.11.21",
+ "zh": "海南乳白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-undulans.json",
+ "apiVersion": "1",
+ "authorship": "Scheffrahn & Krecek, 1999",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Puerto Rico, United States Virgin Islands",
+  "zh": "波多黎各、美属维尔京群岛"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes undulans",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-undulans/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Puerto Rico: 2 km E Recio on Hwy 3",
+ "version": "2026.11.21",
+ "zh": "纹头堆砂白蚁"
+}

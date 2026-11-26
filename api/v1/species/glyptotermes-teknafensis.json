@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-teknafensis.json",
+ "apiVersion": "1",
+ "authorship": "Akhtar, 1975",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Bangladesh, India",
+  "zh": "孟加拉国、印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glyptotermes teknafensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-teknafensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Bangladesh: Teknaf",
+ "version": "2026.11.21",
+ "zh": "代格纳夫树白蚁"
+}

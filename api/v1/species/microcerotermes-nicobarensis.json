@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-nicobarensis.json",
+ "apiVersion": "1",
+ "authorship": "Roonwal & Bose, 1970",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Asia, India",
+  "zh": "南亚、印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes nicobarensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-nicobarensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Nicobar Islands: Car Nicobar Island: Arong village",
+ "version": "2026.11.21",
+ "zh": "尼科巴锯白蚁"
+}

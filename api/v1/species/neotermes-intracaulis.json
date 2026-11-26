@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-intracaulis.json",
+ "apiVersion": "1",
+ "authorship": "Scheffrahn & Krecek, 2003",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Caribbean, Saint Barthélemy, Guadeloupe, Aruba, Barbados, Bonaire, French Saint Martin, U.S. Virgin Islands, Colombia, Venezuela",
+  "zh": "加勒比、圣巴泰勒米、瓜德罗普、阿鲁巴、巴巴多斯、博奈尔、法属圣马丁、美属维尔京群岛、哥伦比亚、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes intracaulis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-intracaulis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Virgin Islands (USA): St. Croix: Sion Hill",
+ "version": "2026.11.21",
+ "zh": "茎内新白蚁"
+}

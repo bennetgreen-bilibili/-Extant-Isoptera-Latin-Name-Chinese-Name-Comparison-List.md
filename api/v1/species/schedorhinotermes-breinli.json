@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/schedorhinotermes-breinli.json",
+ "apiVersion": "1",
+ "authorship": "Hill, 1921",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "schedorhinotermes",
+   "latin": "Schedorhinotermes",
+   "zh": "长鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Schedorhinotermes breinli",
+ "pageUrl": "https://termite-extant-isoptera.org/species/schedorhinotermes-breinli/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Australia: Queensland: Rollingstone",
+ "version": "2026.11.21",
+ "zh": "布赖内尔长鼻白蚁"
+}

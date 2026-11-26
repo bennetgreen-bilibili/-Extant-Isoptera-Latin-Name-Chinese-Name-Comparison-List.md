@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/hospitalitermes-proflaviventris.json",
+ "apiVersion": "1",
+ "authorship": "Akhtar & Akbar, 1986",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "hospitalitermes",
+   "latin": "Hospitalitermes",
+   "zh": "须白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Malaysia",
+  "zh": "马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Hospitalitermes proflaviventris",
+ "pageUrl": "https://termite-extant-isoptera.org/species/hospitalitermes-proflaviventris/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malaysia: Penang: Pantai Acheh Forest Reserve",
+ "version": "2026.11.21",
+ "zh": "似黄腹须白蚁"
+}

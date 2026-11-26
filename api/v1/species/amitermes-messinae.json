@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-messinae.json",
+ "apiVersion": "1",
+ "authorship": "Fuller, 1922",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Africa, Egypt, Ethiopia, Iran, Kenya, Malawi, Saudi Arabia, Sudan, Tanzania, Yemen, Zambia",
+  "zh": "南非、埃及、埃塞俄比亚、伊朗、肯尼亚、马拉维、沙特阿拉伯、苏丹、坦桑尼亚、也门、赞比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes messinae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-messinae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Amitermes harleyi Harris, 1957: 425-427",
+   "authorship": "Harris, 1957",
+   "localityAlignment": "matched",
+   "name": "Amitermes harleyi",
+   "note": "",
+   "reference": "425-427",
+   "typeLocality": "Yemen: Abyan, in the Wadi Bana near Ga’ar"
+  }
+ ],
+ "typeLocality": "South Africa: Transvaal: Messina",
+ "version": "2026.11.21",
+ "zh": "墨西拿弓白蚁"
+}

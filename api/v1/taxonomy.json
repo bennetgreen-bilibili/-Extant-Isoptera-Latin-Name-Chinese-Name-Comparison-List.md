@@ -1,0 +1,3847 @@
+{
+ "apiVersion": "1",
+ "clades": [
+  {
+   "id": "isoptera",
+   "latin": "Extant Isoptera",
+   "parentId": "",
+   "zh": "现存等翅下目"
+  },
+  {
+   "id": "euisoptera",
+   "latin": "Euisoptera",
+   "parentId": "isoptera",
+   "zh": "真等翅类"
+  },
+  {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "parentId": "euisoptera",
+   "zh": "远等翅类"
+  },
+  {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "parentId": "euisoptera",
+   "zh": "近等翅类"
+  },
+  {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "parentId": "icoisoptera",
+   "zh": "新等翅类"
+  },
+  {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "parentId": "neoisoptera",
+   "zh": "土栖等翅类"
+  }
+ ],
+ "counts": {
+  "clades": 6,
+  "families": 13,
+  "genera": 326,
+  "species": 3021,
+  "subfamilies": 18,
+  "subspecies": 68
+ },
+ "dateModified": "2026-11-21",
+ "families": [
+  {
+   "cladeId": "isoptera",
+   "genera": [
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "mastotermes",
+     "latin": "Mastotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Mastotermes darwiniensis",
+     "zh": "澳白蚁属"
+    }
+   ],
+   "id": "mastotermitidae",
+   "latin": "Mastotermitidae",
+   "subfamilies": [],
+   "zh": "澳白蚁科"
+  },
+  {
+   "cladeId": "teletisoptera",
+   "genera": [
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "archotermopsis",
+     "latin": "Archotermopsis",
+     "subfamilyId": "",
+     "typeSpecies": "Archotermopsis wroughtoni",
+     "zh": "古白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 2
+     },
+     "id": "zootermopsis",
+     "latin": "Zootermopsis",
+     "subfamilyId": "",
+     "typeSpecies": "Zootermopsis angusticollis",
+     "zh": "动白蚁属"
+    }
+   ],
+   "id": "archotermopsidae",
+   "latin": "Archotermopsidae",
+   "subfamilies": [],
+   "zh": "古白蚁科"
+  },
+  {
+   "cladeId": "teletisoptera",
+   "genera": [
+    {
+     "counts": {
+      "species": 16,
+      "subspecies": 0
+     },
+     "id": "anacanthotermes",
+     "latin": "Anacanthotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Anacanthotermes ochraceus",
+     "zh": "无刺白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "hodotermes",
+     "latin": "Hodotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Hodotermes mossambicus",
+     "zh": "草白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "microhodotermes",
+     "latin": "Microhodotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Microhodotermes viator",
+     "zh": "小草白蚁属"
+    }
+   ],
+   "id": "hodotermitidae",
+   "latin": "Hodotermitidae",
+   "subfamilies": [],
+   "zh": "草白蚁科"
+  },
+  {
+   "cladeId": "teletisoptera",
+   "genera": [
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "hodotermopsis",
+     "latin": "Hodotermopsis",
+     "subfamilyId": "",
+     "typeSpecies": "Hodotermopsis sjostedti",
+     "zh": "原白蚁属"
+    }
+   ],
+   "id": "hodotermopsidae",
+   "latin": "Hodotermopsidae",
+   "subfamilies": [],
+   "zh": "原白蚁科"
+  },
+  {
+   "cladeId": "teletisoptera",
+   "genera": [
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "porotermes",
+     "latin": "Porotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Porotermes quadricollis",
+     "zh": "洞白蚁属"
+    },
+    {
+     "counts": {
+      "species": 7,
+      "subspecies": 0
+     },
+     "id": "stolotermes",
+     "latin": "Stolotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Stolotermes brunneicornis",
+     "zh": "胄白蚁属"
+    }
+   ],
+   "id": "stolotermitidae",
+   "latin": "Stolotermitidae",
+   "subfamilies": [],
+   "zh": "胄白蚁科"
+  },
+  {
+   "cladeId": "icoisoptera",
+   "genera": [
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "allotermes",
+     "latin": "Allotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Allotermes paradoxus",
+     "zh": "奇白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "bicornitermes",
+     "latin": "Bicornitermes",
+     "subfamilyId": "",
+     "typeSpecies": "Bicornitermes bicornis",
+     "zh": "双角白蚁属"
+    },
+    {
+     "counts": {
+      "species": 12,
+      "subspecies": 0
+     },
+     "id": "bifiditermes",
+     "latin": "Bifiditermes",
+     "subfamilyId": "",
+     "typeSpecies": "Bifiditermes madagascariensis",
+     "zh": "双裂白蚁属"
+    },
+    {
+     "counts": {
+      "species": 12,
+      "subspecies": 0
+     },
+     "id": "calcaritermes",
+     "latin": "Calcaritermes",
+     "subfamilyId": "",
+     "typeSpecies": "Calcaritermes imminens",
+     "zh": "距白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "ceratokalotermes",
+     "latin": "Ceratokalotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Ceratokalotermes spoliator",
+     "zh": "角木白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "comatermes",
+     "latin": "Comatermes",
+     "subfamilyId": "",
+     "typeSpecies": "Comatermes perfectus",
+     "zh": "毛白蚁属"
+    },
+    {
+     "counts": {
+      "species": 74,
+      "subspecies": 0
+     },
+     "id": "cryptotermes",
+     "latin": "Cryptotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Cryptotermes cavifrons",
+     "zh": "堆砂白蚁属"
+    },
+    {
+     "counts": {
+      "species": 6,
+      "subspecies": 0
+     },
+     "id": "epicalotermes",
+     "latin": "Epicalotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Epicalotermes aethiopicus",
+     "zh": "上木白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "eucryptotermes",
+     "latin": "Eucryptotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Eucryptotermes hagenii",
+     "zh": "真砂白蚁属"
+    },
+    {
+     "counts": {
+      "species": 131,
+      "subspecies": 0
+     },
+     "id": "glyptotermes",
+     "latin": "Glyptotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Glyptotermes tuberculatus",
+     "zh": "树白蚁属"
+    },
+    {
+     "counts": {
+      "species": 30,
+      "subspecies": 0
+     },
+     "id": "incisitermes",
+     "latin": "Incisitermes",
+     "subfamilyId": "",
+     "typeSpecies": "Incisitermes schwarzi",
+     "zh": "楹白蚁属"
+    },
+    {
+     "counts": {
+      "species": 21,
+      "subspecies": 2
+     },
+     "id": "kalotermes",
+     "latin": "Kalotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Kalotermes flavicollis",
+     "zh": "木白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "longicaputermes",
+     "latin": "Longicaputermes",
+     "subfamilyId": "",
+     "typeSpecies": "Longicaputermes sinaicus",
+     "zh": "头长白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "marginitermes",
+     "latin": "Marginitermes",
+     "subfamilyId": "",
+     "typeSpecies": "Marginitermes hubbardi",
+     "zh": "边白蚁属"
+    },
+    {
+     "counts": {
+      "species": 121,
+      "subspecies": 2
+     },
+     "id": "neotermes",
+     "latin": "Neotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Neotermes castaneus",
+     "zh": "新白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "paraneotermes",
+     "latin": "Paraneotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Paraneotermes simplicicornis",
+     "zh": "近新白蚁属"
+    },
+    {
+     "counts": {
+      "species": 15,
+      "subspecies": 0
+     },
+     "id": "postelectrotermes",
+     "latin": "Postelectrotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Postelectrotermes praecox",
+     "zh": "后琥珀白蚁属"
+    },
+    {
+     "counts": {
+      "species": 14,
+      "subspecies": 0
+     },
+     "id": "procryptotermes",
+     "latin": "Procryptotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Procryptotermes fryeri",
+     "zh": "前砂白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "proneotermes",
+     "latin": "Proneotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Proneotermes perezi",
+     "zh": "前新白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "pterotermes",
+     "latin": "Pterotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Pterotermes occidentis",
+     "zh": "翅白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "roisinitermes",
+     "latin": "Roisinitermes",
+     "subfamilyId": "",
+     "typeSpecies": "Roisinitermes ebogoensis",
+     "zh": "罗伊辛白蚁属"
+    },
+    {
+     "counts": {
+      "species": 18,
+      "subspecies": 0
+     },
+     "id": "rugitermes",
+     "latin": "Rugitermes",
+     "subfamilyId": "",
+     "typeSpecies": "Rugitermes nodulosus",
+     "zh": "皱白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "tauritermes",
+     "latin": "Tauritermes",
+     "subfamilyId": "",
+     "typeSpecies": "Tauritermes taurocephalus",
+     "zh": "牛白蚁属"
+    }
+   ],
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "subfamilies": [],
+   "zh": "木白蚁科"
+  },
+  {
+   "cladeId": "neoisoptera",
+   "genera": [
+    {
+     "counts": {
+      "species": 12,
+      "subspecies": 0
+     },
+     "id": "prorhinotermes",
+     "latin": "Prorhinotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Prorhinotermes inopinatus",
+     "zh": "原鼻白蚁属"
+    },
+    {
+     "counts": {
+      "species": 6,
+      "subspecies": 0
+     },
+     "id": "psammotermes",
+     "latin": "Psammotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Psammotermes hybostoma",
+     "zh": "沙白蚁属"
+    }
+   ],
+   "id": "psammotermitidae",
+   "latin": "Psammotermitidae",
+   "subfamilies": [],
+   "zh": "沙白蚁科"
+  },
+  {
+   "cladeId": "neoisoptera",
+   "genera": [
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "acorhinotermes",
+     "latin": "Acorhinotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Acorhinotermes subfusciceps",
+     "zh": "尖鼻白蚁属"
+    },
+    {
+     "counts": {
+      "species": 7,
+      "subspecies": 0
+     },
+     "id": "dolichorhinotermes",
+     "latin": "Dolichorhinotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Dolichorhinotermes longilabius",
+     "zh": "狭鼻白蚁属"
+    },
+    {
+     "counts": {
+      "species": 13,
+      "subspecies": 0
+     },
+     "id": "parrhinotermes",
+     "latin": "Parrhinotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Parrhinotermes aequalis",
+     "zh": "棒鼻白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "rhinotermes",
+     "latin": "Rhinotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Rhinotermes nasutus",
+     "zh": "鼻白蚁属"
+    },
+    {
+     "counts": {
+      "species": 35,
+      "subspecies": 0
+     },
+     "id": "schedorhinotermes",
+     "latin": "Schedorhinotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Schedorhinotermes intermedius",
+     "zh": "长鼻白蚁属"
+    }
+   ],
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "subfamilies": [],
+   "zh": "鼻白蚁科"
+  },
+  {
+   "cladeId": "neoisoptera",
+   "genera": [
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "glossotermes",
+     "latin": "Glossotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Glossotermes oculatus",
+     "zh": "舌白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "serritermes",
+     "latin": "Serritermes",
+     "subfamilyId": "",
+     "typeSpecies": "Serritermes serrifer",
+     "zh": "齿白蚁属"
+    }
+   ],
+   "id": "serritermitidae",
+   "latin": "Serritermitidae",
+   "subfamilies": [],
+   "zh": "齿白蚁科"
+  },
+  {
+   "cladeId": "neoisoptera",
+   "genera": [
+    {
+     "counts": {
+      "species": 45,
+      "subspecies": 0
+     },
+     "id": "stylotermes",
+     "latin": "Stylotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Stylotermes fletcheri",
+     "zh": "杆白蚁属"
+    }
+   ],
+   "id": "stylotermitidae",
+   "latin": "Stylotermitidae",
+   "subfamilies": [],
+   "zh": "杆白蚁科"
+  },
+  {
+   "cladeId": "neoisoptera",
+   "genera": [
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "termitogeton",
+     "latin": "Termitogeton",
+     "subfamilyId": "",
+     "typeSpecies": "Termitogeton planus",
+     "zh": "寡脉白蚁属"
+    }
+   ],
+   "id": "termitogetonidae",
+   "latin": "Termitogetonidae",
+   "subfamilies": [],
+   "zh": "寡脉白蚁科"
+  },
+  {
+   "cladeId": "geoisoptera",
+   "genera": [
+    {
+     "counts": {
+      "species": 58,
+      "subspecies": 2
+     },
+     "id": "coptotermes",
+     "latin": "Coptotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Coptotermes gestroi",
+     "zh": "乳白蚁属"
+    },
+    {
+     "counts": {
+      "species": 31,
+      "subspecies": 0
+     },
+     "id": "heterotermes",
+     "latin": "Heterotermes",
+     "subfamilyId": "",
+     "typeSpecies": "Heterotermes platycephalus",
+     "zh": "异白蚁属"
+    },
+    {
+     "counts": {
+      "species": 140,
+      "subspecies": 6
+     },
+     "id": "reticulitermes",
+     "latin": "Reticulitermes",
+     "subfamilyId": "",
+     "typeSpecies": "Reticulitermes flavipes",
+     "zh": "散白蚁属"
+    }
+   ],
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "subfamilies": [],
+   "zh": "异白蚁科"
+  },
+  {
+   "cladeId": "geoisoptera",
+   "genera": [
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "ahamitermes",
+     "latin": "Ahamitermes",
+     "subfamilyId": "amitermitinae",
+     "typeSpecies": "Ahamitermes nidicola",
+     "zh": "无钩白蚁属"
+    },
+    {
+     "counts": {
+      "species": 113,
+      "subspecies": 0
+     },
+     "id": "amitermes",
+     "latin": "Amitermes",
+     "subfamilyId": "amitermitinae",
+     "typeSpecies": "Amitermes amifer",
+     "zh": "弓白蚁属"
+    },
+    {
+     "counts": {
+      "species": 6,
+      "subspecies": 0
+     },
+     "id": "dentispicotermes",
+     "latin": "Dentispicotermes",
+     "subfamilyId": "amitermitinae",
+     "typeSpecies": "Dentispicotermes globicephalus",
+     "zh": "齿尖白蚁属"
+    },
+    {
+     "counts": {
+      "species": 24,
+      "subspecies": 0
+     },
+     "id": "drepanotermes",
+     "latin": "Drepanotermes",
+     "subfamilyId": "amitermitinae",
+     "typeSpecies": "Drepanotermes perniger",
+     "zh": "镰白蚁属"
+    },
+    {
+     "counts": {
+      "species": 10,
+      "subspecies": 0
+     },
+     "id": "eremotermes",
+     "latin": "Eremotermes",
+     "subfamilyId": "amitermitinae",
+     "typeSpecies": "Eremotermes indicatus",
+     "zh": "漠白蚁属"
+    },
+    {
+     "counts": {
+      "species": 7,
+      "subspecies": 2
+     },
+     "id": "globitermes",
+     "latin": "Globitermes",
+     "subfamilyId": "amitermitinae",
+     "typeSpecies": "Globitermes globosus",
+     "zh": "球白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "gnathamitermes",
+     "latin": "Gnathamitermes",
+     "subfamilyId": "amitermitinae",
+     "typeSpecies": "Gnathamitermes perplexus",
+     "zh": "颚钩白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "hoplotermes",
+     "latin": "Hoplotermes",
+     "subfamilyId": "amitermitinae",
+     "typeSpecies": "Hoplotermes amplus",
+     "zh": "武白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "incolitermes",
+     "latin": "Incolitermes",
+     "subfamilyId": "amitermitinae",
+     "typeSpecies": "Incolitermes pumilus",
+     "zh": "子民白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "invasitermes",
+     "latin": "Invasitermes",
+     "subfamilyId": "amitermitinae",
+     "typeSpecies": "Invasitermes inermis",
+     "zh": "闯白蚁属"
+    },
+    {
+     "counts": {
+      "species": 15,
+      "subspecies": 0
+     },
+     "id": "orthognathotermes",
+     "latin": "Orthognathotermes",
+     "subfamilyId": "amitermitinae",
+     "typeSpecies": "Orthognathotermes macrocephalus",
+     "zh": "直颚白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 2
+     },
+     "id": "prohamitermes",
+     "latin": "Prohamitermes",
+     "subfamilyId": "amitermitinae",
+     "typeSpecies": "Prohamitermes mirabilis",
+     "zh": "前钩白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "pseudhamitermes",
+     "latin": "Pseudhamitermes",
+     "subfamilyId": "amitermitinae",
+     "typeSpecies": "Pseudhamitermes khmerensis",
+     "zh": "伪钩白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "synhamitermes",
+     "latin": "Synhamitermes",
+     "subfamilyId": "amitermitinae",
+     "typeSpecies": "Synhamitermes quadriceps",
+     "zh": "同钩白蚁属"
+    },
+    {
+     "counts": {
+      "species": 5,
+      "subspecies": 0
+     },
+     "id": "acholotermes",
+     "latin": "Acholotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Acholotermes tithasus",
+     "zh": "顺白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "acidnotermes",
+     "latin": "Acidnotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Acidnotermes praus",
+     "zh": "虚白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "acutidentitermes",
+     "latin": "Acutidentitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Acutidentitermes osborni",
+     "zh": "尖齿白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "adaiphrotermes",
+     "latin": "Adaiphrotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Adaiphrotermes cuniculator",
+     "zh": "和白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "aderitotermes",
+     "latin": "Aderitotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Aderitotermes fossor",
+     "zh": "谐白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "adynatotermes",
+     "latin": "Adynatotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Adynatotermes moretelae",
+     "zh": "弱白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "aganotermes",
+     "latin": "Aganotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Aganotermes oryctes",
+     "zh": "雅白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "allognathotermes",
+     "latin": "Allognathotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Allognathotermes hypogeus",
+     "zh": "异颚白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "alyscotermes",
+     "latin": "Alyscotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Alyscotermes kilimandjaricus",
+     "zh": "逃白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "amalotermes",
+     "latin": "Amalotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Amalotermes phaeocephalus",
+     "zh": "软白蚁属"
+    },
+    {
+     "counts": {
+      "species": 12,
+      "subspecies": 0
+     },
+     "id": "amicotermes",
+     "latin": "Amicotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Amicotermes galenus",
+     "zh": "善白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "amplucrutermes",
+     "latin": "Amplucrutermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Amplucrutermes inflatus",
+     "zh": "大腿白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "anaorotermes",
+     "latin": "Anaorotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Anaorotermes echinocolon",
+     "zh": "无戟白蚁属"
+    },
+    {
+     "counts": {
+      "species": 11,
+      "subspecies": 0
+     },
+     "id": "anenteotermes",
+     "latin": "Anenteotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Anenteotermes disluctans",
+     "zh": "无甲白蚁属"
+    },
+    {
+     "counts": {
+      "species": 23,
+      "subspecies": 0
+     },
+     "id": "anoplotermes",
+     "latin": "Anoplotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Anoplotermes pacificus",
+     "zh": "解甲白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "apagotermes",
+     "latin": "Apagotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Apagotermes stolidus",
+     "zh": "疲白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "aparatermes",
+     "latin": "Aparatermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Aparatermes abbreviatus",
+     "zh": "弯肠白蚁属"
+    },
+    {
+     "counts": {
+      "species": 13,
+      "subspecies": 0
+     },
+     "id": "apicotermes",
+     "latin": "Apicotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Apicotermes tragardhi",
+     "zh": "尖白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "apolemotermes",
+     "latin": "Apolemotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Apolemotermes fodiens",
+     "zh": "和平白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "asagarotermes",
+     "latin": "Asagarotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Asagarotermes coronatus",
+     "zh": "无剑白蚁属"
+    },
+    {
+     "counts": {
+      "species": 17,
+      "subspecies": 0
+     },
+     "id": "astalotermes",
+     "latin": "Astalotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Astalotermes concilians",
+     "zh": "无利器白蚁属"
+    },
+    {
+     "counts": {
+      "species": 6,
+      "subspecies": 0
+     },
+     "id": "astratotermes",
+     "latin": "Astratotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Astratotermes prosenus",
+     "zh": "无刃白蚁属"
+    },
+    {
+     "counts": {
+      "species": 8,
+      "subspecies": 0
+     },
+     "id": "ateuchotermes",
+     "latin": "Ateuchotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Ateuchotermes pectinatus",
+     "zh": "无锐白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "caputitermes",
+     "latin": "Caputitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Caputitermes dimorphus",
+     "zh": "首白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "chasitermes",
+     "latin": "Chasitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Chasitermes pax",
+     "zh": "蔡斯白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "compositermes",
+     "latin": "Compositermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Compositermes vindai",
+     "zh": "肠刺白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "coxotermes",
+     "latin": "Coxotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Coxotermes boukokoensis",
+     "zh": "基白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "disjunctitermes",
+     "latin": "Disjunctitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Disjunctitermes insularis",
+     "zh": "间断白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "dissimulitermes",
+     "latin": "Dissimulitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Dissimulitermes invisibilis",
+     "zh": "隐藏白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "duplidentitermes",
+     "latin": "Duplidentitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Duplidentitermes furcatidens",
+     "zh": "双齿白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "ebogotermes",
+     "latin": "Ebogotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Ebogotermes raphaeli",
+     "zh": "埃博戈白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "eburnitermes",
+     "latin": "Eburnitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Eburnitermes grassei",
+     "zh": "象牙白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "echinotermes",
+     "latin": "Echinotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Echinotermes biriba",
+     "zh": "多刺白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "ekueitermes",
+     "latin": "Ekueitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Ekueitermes alerosinus",
+     "zh": "肠棘白蚁属"
+    },
+    {
+     "counts": {
+      "species": 24,
+      "subspecies": 0
+     },
+     "id": "euhamitermes",
+     "latin": "Euhamitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Euhamitermes hamatus",
+     "zh": "亮白蚁属"
+    },
+    {
+     "counts": {
+      "species": 6,
+      "subspecies": 2
+     },
+     "id": "eurytermes",
+     "latin": "Eurytermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Eurytermes assmuthi",
+     "zh": "宽白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "firmitermes",
+     "latin": "Firmitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Firmitermes abyssinicus",
+     "zh": "坚白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "gastrotermes",
+     "latin": "Gastrotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Gastrotermes spinatus",
+     "zh": "胃白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "grigiotermes",
+     "latin": "Grigiotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Grigiotermes hageni",
+     "zh": "灰白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "heimitermes",
+     "latin": "Heimitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Heimitermes laticeps",
+     "zh": "埃姆白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "hirsutitermes",
+     "latin": "Hirsutitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Hirsutitermes kanzakii",
+     "zh": "毛糙白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "hoplognathotermes",
+     "latin": "Hoplognathotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Hoplognathotermes subterraneus",
+     "zh": "锐颚白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "humutermes",
+     "latin": "Humutermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Humutermes krishnai",
+     "zh": "腐殖白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "hydrecotermes",
+     "latin": "Hydrecotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Hydrecotermes arienesho",
+     "zh": "海德瑞克白蚁属"
+    },
+    {
+     "counts": {
+      "species": 10,
+      "subspecies": 0
+     },
+     "id": "indotermes",
+     "latin": "Indotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Indotermes maymensis",
+     "zh": "印白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "jugositermes",
+     "latin": "Jugositermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Jugositermes tuberculatus",
+     "zh": "岗白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "koutabatermes",
+     "latin": "Koutabatermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Koutabatermes spinifer",
+     "zh": "库塔巴白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "krecekitermes",
+     "latin": "Krecekitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Krecekitermes daironi",
+     "zh": "克雷切克白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "labidotermes",
+     "latin": "Labidotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Labidotermes celisi",
+     "zh": "钳白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "longustitermes",
+     "latin": "Longustitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Longustitermes manni",
+     "zh": "长工白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "machadotermes",
+     "latin": "Machadotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Machadotermes inflatus",
+     "zh": "剑白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "mangolditermes",
+     "latin": "Mangolditermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Mangolditermes curveileum",
+     "zh": "曼戈尔德白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "ourissotermes",
+     "latin": "Ourissotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Ourissotermes giblinorum",
+     "zh": "海胆白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "patawatermes",
+     "latin": "Patawatermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Patawatermes turricola",
+     "zh": "帕塔瓦白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "phoxotermes",
+     "latin": "Phoxotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Phoxotermes cerberus",
+     "zh": "锐白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "rostrotermes",
+     "latin": "Rostrotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Rostrotermes cornutus",
+     "zh": "突吻白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "rubeotermes",
+     "latin": "Rubeotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Rubeotermes jheringi",
+     "zh": "变红白蚁属"
+    },
+    {
+     "counts": {
+      "species": 13,
+      "subspecies": 0
+     },
+     "id": "ruptitermes",
+     "latin": "Ruptitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Ruptitermes xanthochiton",
+     "zh": "腹爆白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "rustitermes",
+     "latin": "Rustitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Rustitermes boteroi",
+     "zh": "拉斯特白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "scheffrahnitermes",
+     "latin": "Scheffrahnitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Scheffrahnitermes ubuntu",
+     "zh": "谢弗拉恩白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "skatitermes",
+     "latin": "Skatitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Skatitermes psammophilus",
+     "zh": "洁白蚁属"
+    },
+    {
+     "counts": {
+      "species": 13,
+      "subspecies": 0
+     },
+     "id": "speculitermes",
+     "latin": "Speculitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Speculitermes cyclops",
+     "zh": "稀白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "spiralitermes",
+     "latin": "Spiralitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Spiralitermes jurupari",
+     "zh": "螺旋白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "tetimatermes",
+     "latin": "Tetimatermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Tetimatermes oliveirae",
+     "zh": "足白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "tonsuritermes",
+     "latin": "Tonsuritermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Tonsuritermes tucki",
+     "zh": "奇囟白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "trichotermes",
+     "latin": "Trichotermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Trichotermes villifrons",
+     "zh": "发白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "triclavitermes",
+     "latin": "Triclavitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Triclavitermes catoleensis",
+     "zh": "三棒白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "tucupitermes",
+     "latin": "Tucupitermes",
+     "subfamilyId": "apicotermitinae",
+     "typeSpecies": "Tucupitermes ubixaba",
+     "zh": "黄汁白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "crepititermes",
+     "latin": "Crepititermes",
+     "subfamilyId": "crepititermitinae",
+     "typeSpecies": "Crepititermes verruculosus",
+     "zh": "响白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "apilitermes",
+     "latin": "Apilitermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Apilitermes longiceps",
+     "zh": "无毛白蚁属"
+    },
+    {
+     "counts": {
+      "species": 8,
+      "subspecies": 2
+     },
+     "id": "basidentitermes",
+     "latin": "Basidentitermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Basidentitermes aurivillii",
+     "zh": "基齿白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "batillitermes",
+     "latin": "Batillitermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Batillitermes monachus",
+     "zh": "铲白蚁属"
+    },
+    {
+     "counts": {
+      "species": 5,
+      "subspecies": 0
+     },
+     "id": "crenetermes",
+     "latin": "Crenetermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Crenetermes albotarsalis",
+     "zh": "刻痕白蚁属"
+    },
+    {
+     "counts": {
+      "species": 11,
+      "subspecies": 2
+     },
+     "id": "cubitermes",
+     "latin": "Cubitermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Cubitermes bilobatus",
+     "zh": "方白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 2
+     },
+     "id": "euchilotermes",
+     "latin": "Euchilotermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Euchilotermes tensus",
+     "zh": "真唇白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "fastigitermes",
+     "latin": "Fastigitermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Fastigitermes jucundus",
+     "zh": "峰白蚁属"
+    },
+    {
+     "counts": {
+      "species": 8,
+      "subspecies": 0
+     },
+     "id": "furculitermes",
+     "latin": "Furculitermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Furculitermes winifredae",
+     "zh": "叉白蚁属"
+    },
+    {
+     "counts": {
+      "species": 16,
+      "subspecies": 4
+     },
+     "id": "isognathotermes",
+     "latin": "Isognathotermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Isognathotermes minitabundus",
+     "zh": "等颚白蚁属"
+    },
+    {
+     "counts": {
+      "species": 9,
+      "subspecies": 0
+     },
+     "id": "lepidotermes",
+     "latin": "Lepidotermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Lepidotermes pretoriensis",
+     "zh": "鳞白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "megagnathotermes",
+     "latin": "Megagnathotermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Megagnathotermes notandus",
+     "zh": "大颚白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "mucrotermes",
+     "latin": "Mucrotermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Mucrotermes osborni",
+     "zh": "锐尖白蚁属"
+    },
+    {
+     "counts": {
+      "species": 15,
+      "subspecies": 0
+     },
+     "id": "nitiditermes",
+     "latin": "Nitiditermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Nitiditermes berghei",
+     "zh": "净白蚁属"
+    },
+    {
+     "counts": {
+      "species": 7,
+      "subspecies": 0
+     },
+     "id": "noditermes",
+     "latin": "Noditermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Noditermes lamanianus",
+     "zh": "节白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "okavangotermes",
+     "latin": "Okavangotermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Okavangotermes giessi",
+     "zh": "奥卡万戈白蚁属"
+    },
+    {
+     "counts": {
+      "species": 7,
+      "subspecies": 0
+     },
+     "id": "ophiotermes",
+     "latin": "Ophiotermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Ophiotermes mandibularis",
+     "zh": "蛇白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "orthotermes",
+     "latin": "Orthotermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Orthotermes depressifrons",
+     "zh": "直白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "ovambotermes",
+     "latin": "Ovambotermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Ovambotermes sylvaticus",
+     "zh": "奥万博兰白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "pilotermes",
+     "latin": "Pilotermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Pilotermes langi",
+     "zh": "棘白蚁属"
+    },
+    {
+     "counts": {
+      "species": 8,
+      "subspecies": 0
+     },
+     "id": "polyspathotermes",
+     "latin": "Polyspathotermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Polyspathotermes sulcifrons",
+     "zh": "多铲白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "proboscitermes",
+     "latin": "Proboscitermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Proboscitermes tubuliferus",
+     "zh": "象鼻白蚁属"
+    },
+    {
+     "counts": {
+      "species": 9,
+      "subspecies": 0
+     },
+     "id": "procubitermes",
+     "latin": "Procubitermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Procubitermes arboricola",
+     "zh": "原方白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "profastigitermes",
+     "latin": "Profastigitermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Profastigitermes putnami",
+     "zh": "前峰白蚁属"
+    },
+    {
+     "counts": {
+      "species": 13,
+      "subspecies": 0
+     },
+     "id": "ternicubitermes",
+     "latin": "Ternicubitermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Ternicubitermes bilobatodes",
+     "zh": "三方白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "thoracotermes",
+     "latin": "Thoracotermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Thoracotermes macrothorax",
+     "zh": "胸白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "trapellitermes",
+     "latin": "Trapellitermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Trapellitermes loxomastax",
+     "zh": "菱角白蚁属"
+    },
+    {
+     "counts": {
+      "species": 7,
+      "subspecies": 0
+     },
+     "id": "unguitermes",
+     "latin": "Unguitermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Unguitermes bidentatus",
+     "zh": "爪白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "unicornitermes",
+     "latin": "Unicornitermes",
+     "subfamilyId": "cubitermitinae",
+     "typeSpecies": "Unicornitermes gaerdesi",
+     "zh": "独角白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "cephalotermes",
+     "latin": "Cephalotermes",
+     "subfamilyId": "cylindrotermitinae",
+     "typeSpecies": "Cephalotermes rectangularis",
+     "zh": "头白蚁属"
+    },
+    {
+     "counts": {
+      "species": 8,
+      "subspecies": 0
+     },
+     "id": "cylindrotermes",
+     "latin": "Cylindrotermes",
+     "subfamilyId": "cylindrotermitinae",
+     "typeSpecies": "Cylindrotermes nordenskioldi",
+     "zh": "圆筒白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "engelitermes",
+     "latin": "Engelitermes",
+     "subfamilyId": "engelitermitinae",
+     "typeSpecies": "Engelitermes zambo",
+     "zh": "恩格尔白蚁属"
+    },
+    {
+     "counts": {
+      "species": 6,
+      "subspecies": 0
+     },
+     "id": "foraminitermes",
+     "latin": "Foraminitermes",
+     "subfamilyId": "foraminitermitinae",
+     "typeSpecies": "Foraminitermes tubifrons",
+     "zh": "孔白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "labritermes",
+     "latin": "Labritermes",
+     "subfamilyId": "foraminitermitinae",
+     "typeSpecies": "Labritermes buttelreepeni",
+     "zh": "唇白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "pseudomicrotermes",
+     "latin": "Pseudomicrotermes",
+     "subfamilyId": "foraminitermitinae",
+     "typeSpecies": "Pseudomicrotermes alboniger",
+     "zh": "伪小白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "forficulitermes",
+     "latin": "Forficulitermes",
+     "subfamilyId": "forficulitermitinae",
+     "typeSpecies": "Forficulitermes planifrons",
+     "zh": "剪白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "acanthotermes",
+     "latin": "Acanthotermes",
+     "subfamilyId": "macrotermitinae",
+     "typeSpecies": "Acanthotermes acanthothorax",
+     "zh": "刺白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "allodontermes",
+     "latin": "Allodontermes",
+     "subfamilyId": "macrotermitinae",
+     "typeSpecies": "Allodontermes schultzei",
+     "zh": "奇齿白蚁属"
+    },
+    {
+     "counts": {
+      "species": 16,
+      "subspecies": 2
+     },
+     "id": "ancistrotermes",
+     "latin": "Ancistrotermes",
+     "subfamilyId": "macrotermitinae",
+     "typeSpecies": "Ancistrotermes crucifer",
+     "zh": "钩白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "euscaiotermes",
+     "latin": "Euscaiotermes",
+     "subfamilyId": "macrotermitinae",
+     "typeSpecies": "Euscaiotermes primus",
+     "zh": "左转白蚁属"
+    },
+    {
+     "counts": {
+      "species": 13,
+      "subspecies": 0
+     },
+     "id": "hypotermes",
+     "latin": "Hypotermes",
+     "subfamilyId": "macrotermitinae",
+     "typeSpecies": "Hypotermes obscuriceps",
+     "zh": "地白蚁属"
+    },
+    {
+     "counts": {
+      "species": 57,
+      "subspecies": 0
+     },
+     "id": "macrotermes",
+     "latin": "Macrotermes",
+     "subfamilyId": "macrotermitinae",
+     "typeSpecies": "Macrotermes lilljeborgi",
+     "zh": "大白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "megaprotermes",
+     "latin": "Megaprotermes",
+     "subfamilyId": "macrotermitinae",
+     "typeSpecies": "Megaprotermes giffardii",
+     "zh": "大前白蚁属"
+    },
+    {
+     "counts": {
+      "species": 69,
+      "subspecies": 2
+     },
+     "id": "microtermes",
+     "latin": "Microtermes",
+     "subfamilyId": "macrotermitinae",
+     "typeSpecies": "Microtermes incertus",
+     "zh": "小白蚁属"
+    },
+    {
+     "counts": {
+      "species": 198,
+      "subspecies": 10
+     },
+     "id": "odontotermes",
+     "latin": "Odontotermes",
+     "subfamilyId": "macrotermitinae",
+     "typeSpecies": "Odontotermes vulgaris",
+     "zh": "土白蚁属"
+    },
+    {
+     "counts": {
+      "species": 5,
+      "subspecies": 0
+     },
+     "id": "protermes",
+     "latin": "Protermes",
+     "subfamilyId": "macrotermitinae",
+     "typeSpecies": "Protermes prorepens",
+     "zh": "前白蚁属"
+    },
+    {
+     "counts": {
+      "species": 6,
+      "subspecies": 2
+     },
+     "id": "pseudacanthotermes",
+     "latin": "Pseudacanthotermes",
+     "subfamilyId": "macrotermitinae",
+     "typeSpecies": "Pseudacanthotermes militaris",
+     "zh": "伪刺白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "synacanthotermes",
+     "latin": "Synacanthotermes",
+     "subfamilyId": "macrotermitinae",
+     "typeSpecies": "Synacanthotermes heterodon",
+     "zh": "聚刺白蚁属"
+    },
+    {
+     "counts": {
+      "species": 148,
+      "subspecies": 7
+     },
+     "id": "microcerotermes",
+     "latin": "Microcerotermes",
+     "subfamilyId": "microcerotermitinae",
+     "typeSpecies": "Microcerotermes strunckii",
+     "zh": "锯白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "onkotermes",
+     "latin": "Onkotermes",
+     "subfamilyId": "microcerotermitinae",
+     "typeSpecies": "Onkotermes brevicorniger",
+     "zh": "倒钩白蚁属"
+    },
+    {
+     "counts": {
+      "species": 21,
+      "subspecies": 0
+     },
+     "id": "dicuspiditermes",
+     "latin": "Dicuspiditermes",
+     "subfamilyId": "mirocapritermitinae",
+     "typeSpecies": "Dicuspiditermes obtusus",
+     "zh": "突扭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "homallotermes",
+     "latin": "Homallotermes",
+     "subfamilyId": "mirocapritermitinae",
+     "typeSpecies": "Homallotermes foraminifer",
+     "zh": "平白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "indocapritermes",
+     "latin": "Indocapritermes",
+     "subfamilyId": "mirocapritermitinae",
+     "typeSpecies": "Indocapritermes aruni",
+     "zh": "印扭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "kemneritermes",
+     "latin": "Kemneritermes",
+     "subfamilyId": "mirocapritermitinae",
+     "typeSpecies": "Kemneritermes sarawakensis",
+     "zh": "凯姆勒白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "krishnacapritermes",
+     "latin": "Krishnacapritermes",
+     "subfamilyId": "mirocapritermitinae",
+     "typeSpecies": "Krishnacapritermes maitii",
+     "zh": "克里希纳扭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "labiocapritermes",
+     "latin": "Labiocapritermes",
+     "subfamilyId": "mirocapritermitinae",
+     "typeSpecies": "Labiocapritermes distortus",
+     "zh": "唇扭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 8,
+      "subspecies": 0
+     },
+     "id": "mirocapritermes",
+     "latin": "Mirocapritermes",
+     "subfamilyId": "mirocapritermitinae",
+     "typeSpecies": "Mirocapritermes connectens",
+     "zh": "瘤白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "oriencapritermes",
+     "latin": "Oriencapritermes",
+     "subfamilyId": "mirocapritermitinae",
+     "typeSpecies": "Oriencapritermes kluangensis",
+     "zh": "东扭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 40,
+      "subspecies": 3
+     },
+     "id": "pericapritermes",
+     "latin": "Pericapritermes",
+     "subfamilyId": "mirocapritermitinae",
+     "typeSpecies": "Pericapritermes urgens",
+     "zh": "近扭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 13,
+      "subspecies": 0
+     },
+     "id": "procapritermes",
+     "latin": "Procapritermes",
+     "subfamilyId": "mirocapritermitinae",
+     "typeSpecies": "Procapritermes setiger",
+     "zh": "前扭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 19,
+      "subspecies": 0
+     },
+     "id": "pseudocapritermes",
+     "latin": "Pseudocapritermes",
+     "subfamilyId": "mirocapritermitinae",
+     "typeSpecies": "Pseudocapritermes silvaticus",
+     "zh": "伪扭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "rinacapritermes",
+     "latin": "Rinacapritermes",
+     "subfamilyId": "mirocapritermitinae",
+     "typeSpecies": "Rinacapritermes silvius",
+     "zh": "丽娜扭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 16,
+      "subspecies": 0
+     },
+     "id": "sinocapritermes",
+     "latin": "Sinocapritermes",
+     "subfamilyId": "mirocapritermitinae",
+     "typeSpecies": "Sinocapritermes sinensis",
+     "zh": "华扭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "syncapritermes",
+     "latin": "Syncapritermes",
+     "subfamilyId": "mirocapritermitinae",
+     "typeSpecies": "Syncapritermes greeni",
+     "zh": "聚扭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "aciculitermes",
+     "latin": "Aciculitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Aciculitermes aciculatus",
+     "zh": "针白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "afrosubulitermes",
+     "latin": "Afrosubulitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Afrosubulitermes congoensis",
+     "zh": "非锥白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "agnathotermes",
+     "latin": "Agnathotermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Agnathotermes glaber",
+     "zh": "无颚白蚁属"
+    },
+    {
+     "counts": {
+      "species": 21,
+      "subspecies": 0
+     },
+     "id": "ahmaditermes",
+     "latin": "Ahmaditermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Ahmaditermes pyricephalus",
+     "zh": "钝颚白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "ampoulitermes",
+     "latin": "Ampoulitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Ampoulitermes wynaadensis",
+     "zh": "安瓿白蚁属"
+    },
+    {
+     "counts": {
+      "species": 6,
+      "subspecies": 0
+     },
+     "id": "angularitermes",
+     "latin": "Angularitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Angularitermes nasutissimus",
+     "zh": "棱角白蚁属"
+    },
+    {
+     "counts": {
+      "species": 5,
+      "subspecies": 0
+     },
+     "id": "anhangatermes",
+     "latin": "Anhangatermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Anhangatermes macarthuri",
+     "zh": "魔白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "antillitermes",
+     "latin": "Antillitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Antillitermes subtilis",
+     "zh": "安的列斯白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "araujotermes",
+     "latin": "Araujotermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Araujotermes caissara",
+     "zh": "阿劳若白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "arcotermes",
+     "latin": "Arcotermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Arcotermes tubus",
+     "zh": "弧白蚁属"
+    },
+    {
+     "counts": {
+      "species": 8,
+      "subspecies": 0
+     },
+     "id": "atlantitermes",
+     "latin": "Atlantitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Atlantitermes guarinim",
+     "zh": "阿特拉斯白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "australitermes",
+     "latin": "Australitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Australitermes dilucidus",
+     "zh": "澳大利亚白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "baucaliotermes",
+     "latin": "Baucaliotermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Baucaliotermes hainesi",
+     "zh": "细颈白蚁属"
+    },
+    {
+     "counts": {
+      "species": 34,
+      "subspecies": 0
+     },
+     "id": "bulbitermes",
+     "latin": "Bulbitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Bulbitermes constrictus",
+     "zh": "瓢白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "caetetermes",
+     "latin": "Caetetermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Caetetermes taquarussu",
+     "zh": "林白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "caribitermes",
+     "latin": "Caribitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Caribitermes discolor",
+     "zh": "加勒比白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "ceylonitermellus",
+     "latin": "Ceylonitermellus",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Ceylonitermellus hantanae",
+     "zh": "小锡兰白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "ceylonitermes",
+     "latin": "Ceylonitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Ceylonitermes escherichi",
+     "zh": "锡兰白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "coarctotermes",
+     "latin": "Coarctotermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Coarctotermes clepsydra",
+     "zh": "缩狭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "coatitermes",
+     "latin": "Coatitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Coatitermes clevelandi",
+     "zh": "凸鼻白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "coendutermes",
+     "latin": "Coendutermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Coendutermes tucum",
+     "zh": "箭猪白蚁属"
+    },
+    {
+     "counts": {
+      "species": 6,
+      "subspecies": 0
+     },
+     "id": "constrictotermes",
+     "latin": "Constrictotermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Constrictotermes cyphergaster",
+     "zh": "缩白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "convexitermes",
+     "latin": "Convexitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Convexitermes convexifrons",
+     "zh": "凸白蚁属"
+    },
+    {
+     "counts": {
+      "species": 5,
+      "subspecies": 0
+     },
+     "id": "cortaritermes",
+     "latin": "Cortaritermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Cortaritermes silvestrii",
+     "zh": "利颚白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "cucurbitermes",
+     "latin": "Cucurbitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Cucurbitermes yingdeensis",
+     "zh": "葫白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "cyranotermes",
+     "latin": "Cyranotermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Cyranotermes timuassu",
+     "zh": "巨鼻白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "diversitermes",
+     "latin": "Diversitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Diversitermes diversimiles",
+     "zh": "歧白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "diwaitermes",
+     "latin": "Diwaitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Diwaitermes kanehirai",
+     "zh": "木象白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "eleanoritermes",
+     "latin": "Eleanoritermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Eleanoritermes borneensis",
+     "zh": "埃莉诺白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "emersonitermes",
+     "latin": "Emersonitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Emersonitermes thekadensis",
+     "zh": "埃默森白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "enetotermes",
+     "latin": "Enetotermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Enetotermes bembicoides",
+     "zh": "针筒白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "ereymatermes",
+     "latin": "Ereymatermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Ereymatermes rotundiceps",
+     "zh": "无名白蚁属"
+    },
+    {
+     "counts": {
+      "species": 5,
+      "subspecies": 0
+     },
+     "id": "eutermellus",
+     "latin": "Eutermellus",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Eutermellus convergens",
+     "zh": "小真白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "fulleritermes",
+     "latin": "Fulleritermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Fulleritermes contractus",
+     "zh": "富勒白蚁属"
+    },
+    {
+     "counts": {
+      "species": 7,
+      "subspecies": 0
+     },
+     "id": "grallatotermes",
+     "latin": "Grallatotermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Grallatotermes grallator",
+     "zh": "高跷白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "hirtitermes",
+     "latin": "Hirtitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Hirtitermes hirtiventris",
+     "zh": "多毛白蚁属"
+    },
+    {
+     "counts": {
+      "species": 37,
+      "subspecies": 2
+     },
+     "id": "hospitalitermes",
+     "latin": "Hospitalitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Hospitalitermes hospitalis",
+     "zh": "须白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "hyleotermes",
+     "latin": "Hyleotermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Hyleotermes brevipilus",
+     "zh": "森林白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "kaudernitermes",
+     "latin": "Kaudernitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Kaudernitermes kaudernianus",
+     "zh": "考登白蚁属"
+    },
+    {
+     "counts": {
+      "species": 20,
+      "subspecies": 0
+     },
+     "id": "lacessititermes",
+     "latin": "Lacessititermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Lacessititermes lacessitus",
+     "zh": "怒白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "leptomyxotermes",
+     "latin": "Leptomyxotermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Leptomyxotermes doriae",
+     "zh": "薄喙白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "leucopitermes",
+     "latin": "Leucopitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Leucopitermes leucops",
+     "zh": "白脸白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "longipeditermes",
+     "latin": "Longipeditermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Longipeditermes longipes",
+     "zh": "长足白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "macrosubulitermes",
+     "latin": "Macrosubulitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Macrosubulitermes greavesi",
+     "zh": "大锥白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "malagasitermes",
+     "latin": "Malagasitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Malagasitermes milloti",
+     "zh": "马尔加什白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "malaysiotermes",
+     "latin": "Malaysiotermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Malaysiotermes spinocephalus",
+     "zh": "马来白蚁属"
+    },
+    {
+     "counts": {
+      "species": 6,
+      "subspecies": 0
+     },
+     "id": "mimeutermes",
+     "latin": "Mimeutermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Mimeutermes giffardii",
+     "zh": "仿白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "muelleritermes",
+     "latin": "Muelleritermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Muelleritermes fritzi",
+     "zh": "米勒白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "mycterotermes",
+     "latin": "Mycterotermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Mycterotermes meringocephalus",
+     "zh": "鸟嘴白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "nasopilotermes",
+     "latin": "Nasopilotermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Nasopilotermes jiangxiensis",
+     "zh": "棘象白蚁属"
+    },
+    {
+     "counts": {
+      "species": 243,
+      "subspecies": 8
+     },
+     "id": "nasutitermes",
+     "latin": "Nasutitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Nasutitermes corniger",
+     "zh": "象白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "ngauratermes",
+     "latin": "Ngauratermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Ngauratermes arue",
+     "zh": "凋落白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "niuginitermes",
+     "latin": "Niuginitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Niuginitermes variratae",
+     "zh": "新几内亚白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "obtusitermes",
+     "latin": "Obtusitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Obtusitermes panamae",
+     "zh": "钝白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "occasitermes",
+     "latin": "Occasitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Occasitermes occasus",
+     "zh": "西部白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "occultitermes",
+     "latin": "Occultitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Occultitermes occultus",
+     "zh": "隐白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "oriensubulitermes",
+     "latin": "Oriensubulitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Oriensubulitermes inanis",
+     "zh": "东锥白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "paraconvexitermes",
+     "latin": "Paraconvexitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Paraconvexitermes nigricornis",
+     "zh": "近凸白蚁属"
+    },
+    {
+     "counts": {
+      "species": 11,
+      "subspecies": 0
+     },
+     "id": "parvitermes",
+     "latin": "Parvitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Parvitermes brooksi",
+     "zh": "微白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "periaciculitermes",
+     "latin": "Periaciculitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Periaciculitermes menglunensis",
+     "zh": "近针白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "postsubulitermes",
+     "latin": "Postsubulitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Postsubulitermes parviconstrictus",
+     "zh": "后锥白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "rhadinotermes",
+     "latin": "Rhadinotermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Rhadinotermes coarctatus",
+     "zh": "锥形白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "roonwalitermes",
+     "latin": "Roonwalitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Roonwalitermes wadhwai",
+     "zh": "鲁恩沃白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "rotunditermes",
+     "latin": "Rotunditermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Rotunditermes rotundiceps",
+     "zh": "圆白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "rounditermes",
+     "latin": "Rounditermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Rounditermes dechambrei",
+     "zh": "胖白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "sabahitermes",
+     "latin": "Sabahitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Sabahitermes malakuni",
+     "zh": "沙巴白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "sandsitermes",
+     "latin": "Sandsitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Sandsitermes robustus",
+     "zh": "桑兹白蚁属"
+    },
+    {
+     "counts": {
+      "species": 11,
+      "subspecies": 0
+     },
+     "id": "sinonasutitermes",
+     "latin": "Sinonasutitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Sinonasutitermes dimorphus",
+     "zh": "华象白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "sinqasapatermes",
+     "latin": "Sinqasapatermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Sinqasapatermes sachae",
+     "zh": "鼻大白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "spatulitermes",
+     "latin": "Spatulitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Spatulitermes coolingi",
+     "zh": "匙白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "subulioiditermes",
+     "latin": "Subulioiditermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Subulioiditermes subulioides",
+     "zh": "似锥白蚁属"
+    },
+    {
+     "counts": {
+      "species": 6,
+      "subspecies": 0
+     },
+     "id": "subulitermes",
+     "latin": "Subulitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Subulitermes microsoma",
+     "zh": "锥白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "tarditermes",
+     "latin": "Tarditermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Tarditermes contracolor",
+     "zh": "慢白蚁属"
+    },
+    {
+     "counts": {
+      "species": 5,
+      "subspecies": 0
+     },
+     "id": "tenuirostritermes",
+     "latin": "Tenuirostritermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Tenuirostritermes tenuirostris",
+     "zh": "薄嘴白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "tiunatermes",
+     "latin": "Tiunatermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Tiunatermes mariuzani",
+     "zh": "暗鼻白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "triangularitermes",
+     "latin": "Triangularitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Triangularitermes triangulariceps",
+     "zh": "三角白蚁属"
+    },
+    {
+     "counts": {
+      "species": 21,
+      "subspecies": 0
+     },
+     "id": "trinervitermes",
+     "latin": "Trinervitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Trinervitermes trinervius",
+     "zh": "三脉白蚁属"
+    },
+    {
+     "counts": {
+      "species": 17,
+      "subspecies": 0
+     },
+     "id": "tumulitermes",
+     "latin": "Tumulitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Tumulitermes tumuli",
+     "zh": "冢白蚁属"
+    },
+    {
+     "counts": {
+      "species": 9,
+      "subspecies": 0
+     },
+     "id": "velocitermes",
+     "latin": "Velocitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Velocitermes heteropterus",
+     "zh": "快白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "verrucositermes",
+     "latin": "Verrucositermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Verrucositermes tuberosus",
+     "zh": "疣白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "xiaitermes",
+     "latin": "Xiaitermes",
+     "subfamilyId": "nasutitermitinae",
+     "typeSpecies": "Xiaitermes yinxianensis",
+     "zh": "夏氏白蚁属"
+    },
+    {
+     "counts": {
+      "species": 17,
+      "subspecies": 0
+     },
+     "id": "neocapritermes",
+     "latin": "Neocapritermes",
+     "subfamilyId": "neocapritermitinae",
+     "typeSpecies": "Neocapritermes opacus",
+     "zh": "新扭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "planicapritermes",
+     "latin": "Planicapritermes",
+     "subfamilyId": "neocapritermitinae",
+     "typeSpecies": "Planicapritermes planiceps",
+     "zh": "平扭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "schievitermes",
+     "latin": "Schievitermes",
+     "subfamilyId": "neocapritermitinae",
+     "typeSpecies": "Schievitermes globicornis",
+     "zh": "不对称白蚁属"
+    },
+    {
+     "counts": {
+      "species": 29,
+      "subspecies": 0
+     },
+     "id": "angulitermes",
+     "latin": "Angulitermes",
+     "subfamilyId": "promirotermitinae",
+     "typeSpecies": "Angulitermes frontalis",
+     "zh": "角白蚁属"
+    },
+    {
+     "counts": {
+      "species": 10,
+      "subspecies": 2
+     },
+     "id": "promirotermes",
+     "latin": "Promirotermes",
+     "subfamilyId": "promirotermitinae",
+     "typeSpecies": "Promirotermes holmgreni",
+     "zh": "前奇白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "orientotermes",
+     "latin": "Orientotermes",
+     "subfamilyId": "protohamitermitinae",
+     "typeSpecies": "Orientotermes emersoni",
+     "zh": "东方白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "protohamitermes",
+     "latin": "Protohamitermes",
+     "subfamilyId": "protohamitermitinae",
+     "typeSpecies": "Protohamitermes globiceps",
+     "zh": "始钩白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "sphaerotermes",
+     "latin": "Sphaerotermes",
+     "subfamilyId": "sphaerotermitinae",
+     "typeSpecies": "Sphaerotermes sphaerothorax",
+     "zh": "圆球白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "acangaobitermes",
+     "latin": "Acangaobitermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Acangaobitermes krishnai",
+     "zh": "漏斗白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "armitermes",
+     "latin": "Armitermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Armitermes armiger",
+     "zh": "戟白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "bandeiratermes",
+     "latin": "Bandeiratermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Bandeiratermes silvestrii",
+     "zh": "班代拉白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "biratermes",
+     "latin": "Biratermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Biratermes robustus",
+     "zh": "拜拉白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "cahuallitermes",
+     "latin": "Cahuallitermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Cahuallitermes intermedius",
+     "zh": "弃白蚁属"
+    },
+    {
+     "counts": {
+      "species": 14,
+      "subspecies": 0
+     },
+     "id": "cornitermes",
+     "latin": "Cornitermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Cornitermes cumulans",
+     "zh": "角象白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "curvitermes",
+     "latin": "Curvitermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Curvitermes odontognathus",
+     "zh": "曲白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "cyrilliotermes",
+     "latin": "Cyrilliotermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Cyrilliotermes angulariceps",
+     "zh": "壶头白蚁属"
+    },
+    {
+     "counts": {
+      "species": 9,
+      "subspecies": 0
+     },
+     "id": "embiratermes",
+     "latin": "Embiratermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Embiratermes festivellus",
+     "zh": "生白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "genuotermes",
+     "latin": "Genuotermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Genuotermes spinifer",
+     "zh": "膝白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "ibitermes",
+     "latin": "Ibitermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Ibitermes inflatus",
+     "zh": "地球白蚁属"
+    },
+    {
+     "counts": {
+      "species": 10,
+      "subspecies": 0
+     },
+     "id": "labiotermes",
+     "latin": "Labiotermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Labiotermes labralis",
+     "zh": "厚唇白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "macuxitermes",
+     "latin": "Macuxitermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Macuxitermes triceratops",
+     "zh": "马库希白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "mapinguaritermes",
+     "latin": "Mapinguaritermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Mapinguaritermes peruanus",
+     "zh": "红懒白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "noirotitermes",
+     "latin": "Noirotitermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Noirotitermes noiroti",
+     "zh": "努瓦罗白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "paracurvitermes",
+     "latin": "Paracurvitermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Paracurvitermes manni",
+     "zh": "近曲白蚁属"
+    },
+    {
+     "counts": {
+      "species": 5,
+      "subspecies": 0
+     },
+     "id": "procornitermes",
+     "latin": "Procornitermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Procornitermes triacifer",
+     "zh": "前角白蚁属"
+    },
+    {
+     "counts": {
+      "species": 8,
+      "subspecies": 0
+     },
+     "id": "rhynchotermes",
+     "latin": "Rhynchotermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Rhynchotermes nasutissimus",
+     "zh": "喙白蚁属"
+    },
+    {
+     "counts": {
+      "species": 7,
+      "subspecies": 0
+     },
+     "id": "silvestritermes",
+     "latin": "Silvestritermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Silvestritermes euamignathus",
+     "zh": "西尔韦斯特里白蚁属"
+    },
+    {
+     "counts": {
+      "species": 23,
+      "subspecies": 0
+     },
+     "id": "syntermes",
+     "latin": "Syntermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Syntermes dirus",
+     "zh": "聚白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "uncitermes",
+     "latin": "Uncitermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Uncitermes teevani",
+     "zh": "弯钩白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "vaninitermes",
+     "latin": "Vaninitermes",
+     "subfamilyId": "syntermitinae",
+     "typeSpecies": "Vaninitermes ignotus",
+     "zh": "瓦宁白蚁属"
+    },
+    {
+     "counts": {
+      "species": 5,
+      "subspecies": 0
+     },
+     "id": "apsenterotermes",
+     "latin": "Apsenterotermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Apsenterotermes iridipennis",
+     "zh": "后肠白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "capritermes",
+     "latin": "Capritermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Capritermes capricornis",
+     "zh": "扭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 5,
+      "subspecies": 0
+     },
+     "id": "cavitermes",
+     "latin": "Cavitermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Cavitermes tuberosus",
+     "zh": "腔白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "cornicapritermes",
+     "latin": "Cornicapritermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Cornicapritermes mucronatus",
+     "zh": "角扭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 6,
+      "subspecies": 0
+     },
+     "id": "cristatitermes",
+     "latin": "Cristatitermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Cristatitermes carinatus",
+     "zh": "脊突白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "dihoplotermes",
+     "latin": "Dihoplotermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Dihoplotermes inusitatus",
+     "zh": "双戟白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "divinotermes",
+     "latin": "Divinotermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Divinotermes allognathus",
+     "zh": "迪维努白蚁属"
+    },
+    {
+     "counts": {
+      "species": 5,
+      "subspecies": 0
+     },
+     "id": "ekphysotermes",
+     "latin": "Ekphysotermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Ekphysotermes kalgoorliensis",
+     "zh": "瘤突白蚁属"
+    },
+    {
+     "counts": {
+      "species": 6,
+      "subspecies": 0
+     },
+     "id": "ephelotermes",
+     "latin": "Ephelotermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Ephelotermes melachoma",
+     "zh": "棒颚白蚁属"
+    },
+    {
+     "counts": {
+      "species": 5,
+      "subspecies": 0
+     },
+     "id": "hapsidotermes",
+     "latin": "Hapsidotermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Hapsidotermes harrisi",
+     "zh": "络白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "hesperotermes",
+     "latin": "Hesperotermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Hesperotermes infrequens",
+     "zh": "西澳白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "inquilinitermes",
+     "latin": "Inquilinitermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Inquilinitermes fur",
+     "zh": "客白蚁属"
+    },
+    {
+     "counts": {
+      "species": 9,
+      "subspecies": 0
+     },
+     "id": "lophotermes",
+     "latin": "Lophotermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Lophotermes pectinatus",
+     "zh": "小脊突白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "macrognathotermes",
+     "latin": "Macrognathotermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Macrognathotermes errator",
+     "zh": "长颚白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "palmitermes",
+     "latin": "Palmitermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Palmitermes impostor",
+     "zh": "棕榈白蚁属"
+    },
+    {
+     "counts": {
+      "species": 4,
+      "subspecies": 0
+     },
+     "id": "paracapritermes",
+     "latin": "Paracapritermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Paracapritermes primus",
+     "zh": "旁扭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 2,
+      "subspecies": 0
+     },
+     "id": "protocapritermes",
+     "latin": "Protocapritermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Protocapritermes krisiformis",
+     "zh": "始扭白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "quasitermes",
+     "latin": "Quasitermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Quasitermes incisus",
+     "zh": "相似白蚁属"
+    },
+    {
+     "counts": {
+      "species": 1,
+      "subspecies": 0
+     },
+     "id": "saxatilitermes",
+     "latin": "Saxatilitermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Saxatilitermes saxatilis",
+     "zh": "石白蚁属"
+    },
+    {
+     "counts": {
+      "species": 5,
+      "subspecies": 0
+     },
+     "id": "spinitermes",
+     "latin": "Spinitermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Spinitermes trispinosus",
+     "zh": "针刺白蚁属"
+    },
+    {
+     "counts": {
+      "species": 27,
+      "subspecies": 0
+     },
+     "id": "termes",
+     "latin": "Termes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Termes fatalis",
+     "zh": "白蚁属"
+    },
+    {
+     "counts": {
+      "species": 3,
+      "subspecies": 0
+     },
+     "id": "tuberculitermes",
+     "latin": "Tuberculitermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Tuberculitermes bycanistes",
+     "zh": "小瘤白蚁属"
+    },
+    {
+     "counts": {
+      "species": 6,
+      "subspecies": 0
+     },
+     "id": "xylochomitermes",
+     "latin": "Xylochomitermes",
+     "subfamilyId": "termitinae",
+     "typeSpecies": "Xylochomitermes occidualis",
+     "zh": "木堆白蚁属"
+    }
+   ],
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "subfamilies": [
+    {
+     "id": "amitermitinae",
+     "latin": "Amitermitinae",
+     "zh": "弓白蚁亚科"
+    },
+    {
+     "id": "apicotermitinae",
+     "latin": "Apicotermitinae",
+     "zh": "尖白蚁亚科"
+    },
+    {
+     "id": "crepititermitinae",
+     "latin": "Crepititermitinae",
+     "zh": "响白蚁亚科"
+    },
+    {
+     "id": "cubitermitinae",
+     "latin": "Cubitermitinae",
+     "zh": "方白蚁亚科"
+    },
+    {
+     "id": "cylindrotermitinae",
+     "latin": "Cylindrotermitinae",
+     "zh": "圆筒白蚁亚科"
+    },
+    {
+     "id": "engelitermitinae",
+     "latin": "Engelitermitinae",
+     "zh": "恩格尔白蚁亚科"
+    },
+    {
+     "id": "foraminitermitinae",
+     "latin": "Foraminitermitinae",
+     "zh": "孔白蚁亚科"
+    },
+    {
+     "id": "forficulitermitinae",
+     "latin": "Forficulitermitinae",
+     "zh": "剪白蚁亚科"
+    },
+    {
+     "id": "macrotermitinae",
+     "latin": "Macrotermitinae",
+     "zh": "大白蚁亚科"
+    },
+    {
+     "id": "microcerotermitinae",
+     "latin": "Microcerotermitinae",
+     "zh": "锯白蚁亚科"
+    },
+    {
+     "id": "mirocapritermitinae",
+     "latin": "Mirocapritermitinae",
+     "zh": "瘤白蚁亚科"
+    },
+    {
+     "id": "nasutitermitinae",
+     "latin": "Nasutitermitinae",
+     "zh": "象白蚁亚科"
+    },
+    {
+     "id": "neocapritermitinae",
+     "latin": "Neocapritermitinae",
+     "zh": "新扭白蚁亚科"
+    },
+    {
+     "id": "promirotermitinae",
+     "latin": "Promirotermitinae",
+     "zh": "前奇白蚁亚科"
+    },
+    {
+     "id": "protohamitermitinae",
+     "latin": "Protohamitermitinae",
+     "zh": "始钩白蚁亚科"
+    },
+    {
+     "id": "sphaerotermitinae",
+     "latin": "Sphaerotermitinae",
+     "zh": "圆球白蚁亚科"
+    },
+    {
+     "id": "syntermitinae",
+     "latin": "Syntermitinae",
+     "zh": "聚白蚁亚科"
+    },
+    {
+     "id": "termitinae",
+     "latin": "Termitinae",
+     "zh": "白蚁亚科"
+    }
+   ],
+   "zh": "白蚁科"
+  }
+ ],
+ "version": "2026.11.21"
+}

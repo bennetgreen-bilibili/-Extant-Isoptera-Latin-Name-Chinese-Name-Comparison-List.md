@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/homallotermes-foraminifer.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "homallotermes",
+   "latin": "Homallotermes",
+   "zh": "平白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Indonesia, Malaysia",
+  "zh": "印度尼西亚、马来西亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Homallotermes foraminifer",
+ "pageUrl": "https://termite-extant-isoptera.org/species/homallotermes-foraminifer/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Capritermes ( Capritermes ) penangi Holmgren, 1914: 283-284",
+   "authorship": "Holmgren, 1914",
+   "localityAlignment": "matched",
+   "name": "Capritermes (Capritermes) penangi",
+   "note": "",
+   "reference": "283-284",
+   "typeLocality": "Malaysia: Penang"
+  }
+ ],
+ "typeLocality": "Malaysia: Perak",
+ "version": "2026.11.21",
+ "zh": "具孔平白蚁"
+}

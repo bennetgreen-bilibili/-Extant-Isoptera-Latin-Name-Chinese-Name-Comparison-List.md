@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/heterotermes-convexinotatus.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1924",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "heterotermes",
+   "latin": "Heterotermes",
+   "zh": "异白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Caribbean, Puerto Rico, Antigua and Barbuda, Barbados, Mexico, South America, Brazil, Colombia, Belize, Costa Rica, Guatemala, Honduras, Nicaragua, Panama",
+  "zh": "加勒比、波多黎各、安提瓜和巴布达、巴巴多斯、墨西哥、南美洲、巴西、哥伦比亚、伯利兹、哥斯达黎加、危地马拉、洪都拉斯、尼加拉瓜、巴拿马"
+ },
+ "isTypeSpecies": false,
+ "latin": "Heterotermes convexinotatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/heterotermes-convexinotatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Heterotermes orthognathus Light, 1933: 113-114",
+   "authorship": "Light, 1933",
+   "localityAlignment": "unmatched",
+   "name": "Heterotermes orthognathus",
+   "note": "",
+   "reference": "113-114",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Heterotermes pallidus Light, 1935: 247-248",
+   "authorship": "Light, 1935",
+   "localityAlignment": "unmatched",
+   "name": "Heterotermes pallidus",
+   "note": "",
+   "reference": "247-248",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Panama: Colón",
+ "version": "2026.11.21",
+ "zh": "凸背异白蚁"
+}

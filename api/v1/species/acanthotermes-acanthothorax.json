@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/acanthotermes-acanthothorax.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "acanthotermes",
+   "latin": "Acanthotermes",
+   "zh": "刺白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, West Africa, Central Africa, East Africa",
+  "zh": "旧热带界、西非、中非、东非"
+ },
+ "isTypeSpecies": true,
+ "latin": "Acanthotermes acanthothorax",
+ "pageUrl": "https://termite-extant-isoptera.org/species/acanthotermes-acanthothorax/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cameroon: Ekundu; Kitta",
+ "version": "2026.11.21",
+ "zh": "刺胸刺白蚁"
+}

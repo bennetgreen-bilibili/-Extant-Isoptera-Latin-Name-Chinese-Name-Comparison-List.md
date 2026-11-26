@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-septentrionalis.json",
+ "apiVersion": "1",
+ "authorship": "Light, 1933",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Neotropics, Costa Rica, Mexico, Guatemala, Honduras, Belize, Nicaragua",
+  "zh": "新热带界、哥斯达黎加、墨西哥、危地马拉、洪都拉斯、伯利兹、尼加拉瓜"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes septentrionalis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-septentrionalis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Mexico: Colima State: Jala, Madrid",
+ "version": "2026.11.21",
+ "zh": "北方锯白蚁"
+}

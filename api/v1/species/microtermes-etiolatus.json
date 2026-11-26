@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microtermes-etiolatus.json",
+ "apiVersion": "1",
+ "authorship": "Fuller, 1922",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microtermes",
+   "latin": "Microtermes",
+   "zh": "小白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Mozambique, South Africa, Zambia",
+  "zh": "莫桑比克、南非、赞比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microtermes etiolatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microtermes-etiolatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Mozambique: Xinavane, Inkomati River",
+ "version": "2026.11.21",
+ "zh": "苍白小白蚁"
+}

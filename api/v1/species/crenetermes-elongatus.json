@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/crenetermes-elongatus.json",
+ "apiVersion": "1",
+ "authorship": "Weidner, 1974",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "crenetermes",
+   "latin": "Crenetermes",
+   "zh": "刻痕白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics",
+  "zh": "旧热带界"
+ },
+ "isTypeSpecies": false,
+ "latin": "Crenetermes elongatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/crenetermes-elongatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Angola: Cameia",
+ "version": "2026.11.21",
+ "zh": "细长刻痕白蚁"
+}

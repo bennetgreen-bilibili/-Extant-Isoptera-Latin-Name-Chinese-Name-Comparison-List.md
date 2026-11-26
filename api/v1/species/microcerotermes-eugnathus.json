@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-eugnathus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Egypt, Sinai, Tunisia",
+  "zh": "埃及、西奈、突尼斯"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes eugnathus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-eugnathus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Tunisia: Kairouan",
+ "version": "2026.11.21",
+ "zh": "真颚锯白蚁"
+}

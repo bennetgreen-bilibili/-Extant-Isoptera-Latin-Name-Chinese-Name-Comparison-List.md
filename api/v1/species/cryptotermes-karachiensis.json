@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-karachiensis.json",
+ "apiVersion": "1",
+ "authorship": "Akhtar, 1974",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Pakistan, Karachi",
+  "zh": "巴基斯坦、卡拉奇"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes karachiensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-karachiensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Pakistan: Sind: Karachi",
+ "version": "2026.11.21",
+ "zh": "卡拉奇堆砂白蚁"
+}

@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-turneri.json",
+ "apiVersion": "1",
+ "authorship": "Froggatt, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Oceania, Australia",
+  "zh": "大洋洲、澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes turneri",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-turneri/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Microcerotermes neglectus Rosen, 1912: 228-229",
+   "authorship": "Rosen, 1912",
+   "localityAlignment": "matched",
+   "name": "Microcerotermes neglectus",
+   "note": "",
+   "reference": "228-229",
+   "typeLocality": "Australia: Queensland: Rockhampton"
+  },
+  {
+   "asPublished": "Microcerotermes excisus Mjöberg, 1920: 105-107",
+   "authorship": "Mjöberg, 1920",
+   "localityAlignment": "matched",
+   "name": "Microcerotermes excisus",
+   "note": "",
+   "reference": "105-107",
+   "typeLocality": "Australia: Queensland: Glen Lamington, near Lamington"
+  }
+ ],
+ "typeLocality": "Australia: Queensland: Mackay",
+ "version": "2026.11.21",
+ "zh": "特纳锯白蚁"
+}

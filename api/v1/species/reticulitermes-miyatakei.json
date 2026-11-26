@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/reticulitermes-miyatakei.json",
+ "apiVersion": "1",
+ "authorship": "Morimoto, 1968",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "reticulitermes",
+   "latin": "Reticulitermes",
+   "zh": "散白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Japan",
+  "zh": "日本"
+ },
+ "isTypeSpecies": false,
+ "latin": "Reticulitermes miyatakei",
+ "pageUrl": "https://termite-extant-isoptera.org/species/reticulitermes-miyatakei/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Japan: Amami-Oshima; Ohara; Santaro-toge; Tokunoshima",
+ "version": "2026.11.21",
+ "zh": "宫武散白蚁"
+}

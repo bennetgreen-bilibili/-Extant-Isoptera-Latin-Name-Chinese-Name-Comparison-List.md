@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/constrictotermes-cavifrons.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1910",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "constrictotermes",
+   "latin": "Constrictotermes",
+   "zh": "缩白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, French Guiana, Peru, Colombia, Ecuador, Guyana, Suriname, Bolivia, Venezuela",
+  "zh": "巴西、法属圭亚那、秘鲁、哥伦比亚、厄瓜多尔、圭亚那、苏里南、玻利维亚、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Constrictotermes cavifrons",
+ "pageUrl": "https://termite-extant-isoptera.org/species/constrictotermes-cavifrons/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Suriname: ?",
+ "version": "2026.11.21",
+ "zh": "凹额缩白蚁"
+}

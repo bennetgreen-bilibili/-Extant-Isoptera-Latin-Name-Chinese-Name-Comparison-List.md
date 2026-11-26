@@ -1,0 +1,35 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-acinaciformis-acinaciformis.json",
+ "apiVersion": "1",
+ "authorship": "Froggatt, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "latin": "Coptotermes acinaciformis acinaciformis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-acinaciformis-acinaciformis/",
+ "parent": {
+  "latin": "Coptotermes acinaciformis",
+  "slug": "coptotermes-acinaciformis",
+  "zh": "短刀乳白蚁"
+ },
+ "rank": "subspecies",
+ "synonyms": [],
+ "typeLocality": "Australia: Western Australia: Halls Creek",
+ "version": "2026.11.21",
+ "zh": "指名亚种"
+}

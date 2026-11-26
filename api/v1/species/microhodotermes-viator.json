@@ -1,0 +1,91 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microhodotermes-viator.json",
+ "apiVersion": "1",
+ "authorship": "Latreille, 1804",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "hodotermitidae",
+   "latin": "Hodotermitidae",
+   "zh": "草白蚁科"
+  },
+  "genus": {
+   "id": "microhodotermes",
+   "latin": "Microhodotermes",
+   "zh": "小草白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "South Africa, Namibia",
+  "zh": "南非、纳米比亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Microhodotermes viator",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microhodotermes-viator/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Hodotermes aurivillii Sjöstedt, 1900: 278",
+   "authorship": "Sjöstedt, 1900",
+   "localityAlignment": "matched",
+   "name": "Hodotermes aurivillii",
+   "note": "",
+   "reference": "278",
+   "typeLocality": "South Africa: Cape Province [W. Capland]: Darling"
+  },
+  {
+   "asPublished": "Hodotermes ( Hodotermes ) silvestrii Fuller, 1921: 40",
+   "authorship": "Fuller, 1921",
+   "localityAlignment": "matched",
+   "name": "Hodotermes (Hodotermes) silvestrii",
+   "note": "",
+   "reference": "40",
+   "typeLocality": "South Africa: Cape Province: Namaqualand-Bushmanland"
+  },
+  {
+   "asPublished": "Hodotermes ( Hodotermes ) thomseni Fuller, 1921: 39",
+   "authorship": "Fuller, 1921",
+   "localityAlignment": "matched",
+   "name": "Hodotermes (Hodotermes) thomseni",
+   "note": "",
+   "reference": "39",
+   "typeLocality": "South Africa: Cape Province: Beaufort West, Kraanvogelkuil"
+  },
+  {
+   "asPublished": "Hodotermes ( Hodotermes ) peringueyi Fuller, 1921: 39",
+   "authorship": "Fuller, 1921",
+   "localityAlignment": "matched",
+   "name": "Hodotermes (Hodotermes) peringueyi",
+   "note": "",
+   "reference": "39",
+   "typeLocality": "South Africa: Cape Province: Peddie"
+  },
+  {
+   "asPublished": "Hodotermes ( Hodotermes ) faurei Fuller, 1921: 40",
+   "authorship": "Fuller, 1921",
+   "localityAlignment": "matched",
+   "name": "Hodotermes (Hodotermes) faurei",
+   "note": "",
+   "reference": "40",
+   "typeLocality": "South Africa: Cape Province: Victoria West"
+  },
+  {
+   "asPublished": "Hodotermes viator hageni Fuller, 1921: 38-39",
+   "authorship": "Fuller, 1921",
+   "localityAlignment": "matched",
+   "name": "Hodotermes viator hageni",
+   "note": "",
+   "reference": "38-39",
+   "typeLocality": "South Africa: Cape Province: Elsenburg"
+  }
+ ],
+ "typeLocality": "South Africa: Cape of Good Hope",
+ "version": "2026.11.21",
+ "zh": "旅游小草白蚁"
+}

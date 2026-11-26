@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microtermes-congoensis.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microtermes",
+   "latin": "Microtermes",
+   "zh": "小白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Central Africa, Nigeria, Cameroon, Democratic Republic of the Congo, Angola",
+  "zh": "中非、尼日利亚、喀麦隆、刚果民主共和国、安哥拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microtermes congoensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microtermes-congoensis/",
+ "rank": "species",
+ "subspecies": [
+  {
+   "authorship": "Silvestri, 1914",
+   "latin": "Microtermes congoensis comprehensa",
+   "pageUrl": "https://termite-extant-isoptera.org/species/microtermes-congoensis-comprehensa/",
+   "slug": "microtermes-congoensis-comprehensa",
+   "zh": "捕获亚种"
+  },
+  {
+   "authorship": "Sjöstedt, 1911",
+   "latin": "Microtermes congoensis congoensis",
+   "pageUrl": "https://termite-extant-isoptera.org/species/microtermes-congoensis-congoensis/",
+   "slug": "microtermes-congoensis-congoensis",
+   "zh": "指名亚种"
+  }
+ ],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Mukimbungu",
+ "version": "2026.11.21",
+ "zh": "刚果小白蚁"
+}

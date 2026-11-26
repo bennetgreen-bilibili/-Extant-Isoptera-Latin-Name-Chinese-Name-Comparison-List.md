@@ -1,0 +1,71 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/polyspathotermes-inclitus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 94,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Polyspathotermes inclitus",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "polyspathotermes-inclitus",
+   "source": "gbif",
+   "theirs": "Polyspathotermes Josens & Deligne, 2021",
+   "url": null,
+   "verified": false,
+   "zh": "显赫多铲白蚁"
+  }
+ ],
+ "authorship": "Silvestri, 1912",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "polyspathotermes",
+   "latin": "Polyspathotermes",
+   "zh": "多铲白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Congo, Democratic Republic of the Congo, Kenya, Malawi, Rwanda, Tanzania, Uganda, Zambia",
+  "zh": "刚果、刚果民主共和国、肯尼亚、马拉维、卢旺达、坦桑尼亚、乌干达、赞比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Polyspathotermes inclitus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/polyspathotermes-inclitus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes ( Cubitermes ) domifaber Sjöstedt, 1913: 370-371",
+   "authorship": "Sjöstedt, 1913",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Cubitermes) domifaber",
+   "note": "",
+   "reference": "370-371",
+   "typeLocality": "Democratic Republic of the Congo: Katanga: Lubumbashi"
+  }
+ ],
+ "typeLocality": "Zambia: Banguelo",
+ "version": "2026.11.21",
+ "zh": "显赫多铲白蚁"
+}

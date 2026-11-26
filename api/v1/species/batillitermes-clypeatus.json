@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/batillitermes-clypeatus.json",
+ "apiVersion": "1",
+ "authorship": "Sands, 1995",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "batillitermes",
+   "latin": "Batillitermes",
+   "zh": "铲白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "southern Africa, South Africa, Nigeria",
+  "zh": "非洲南部、南非、尼日利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Batillitermes clypeatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/batillitermes-clypeatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Nigeria: 40 miles from Abjua on Bida road",
+ "version": "2026.11.21",
+ "zh": "大唇铲白蚁"
+}

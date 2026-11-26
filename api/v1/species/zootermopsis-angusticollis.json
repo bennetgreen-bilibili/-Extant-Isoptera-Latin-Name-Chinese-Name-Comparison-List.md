@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/zootermopsis-angusticollis.json",
+ "apiVersion": "1",
+ "authorship": "Hagen, 1858",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "archotermopsidae",
+   "latin": "Archotermopsidae",
+   "zh": "古白蚁科"
+  },
+  "genus": {
+   "id": "zootermopsis",
+   "latin": "Zootermopsis",
+   "zh": "动白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "West Coast of North America, United States, British Columbia (Canada), Mexico; introduced: Hawaii (United States)",
+  "zh": "北美西海岸、美国、加拿大不列颠哥伦比亚、墨西哥；引入：夏威夷（美国）"
+ },
+ "isTypeSpecies": true,
+ "latin": "Zootermopsis angusticollis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/zootermopsis-angusticollis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "United States: California; Louisiana",
+ "version": "2026.11.21",
+ "zh": "狭颈动白蚁"
+}

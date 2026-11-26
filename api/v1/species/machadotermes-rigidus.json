@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/machadotermes-rigidus.json",
+ "apiVersion": "1",
+ "authorship": "Collins, 1977",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "machadotermes",
+   "latin": "Machadotermes",
+   "zh": "剑白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics",
+  "zh": "旧热带界"
+ },
+ "isTypeSpecies": false,
+ "latin": "Machadotermes rigidus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/machadotermes-rigidus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cameroon: Sanaga-Maritime: Edea-Marienberg Forest Reserve: Lac Tissongo",
+ "version": "2026.11.21",
+ "zh": "强直剑白蚁"
+}

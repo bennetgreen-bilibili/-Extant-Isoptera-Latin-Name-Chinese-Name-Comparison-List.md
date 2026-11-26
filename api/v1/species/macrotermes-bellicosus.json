@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-bellicosus.json",
+ "apiVersion": "1",
+ "authorship": "Smeathman, 1781",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, Côte d'Ivoire, Senegal, Togo, Benin, Ghana, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Eritrea, Ethiopia, Guinea, Guinea-Bissau, Kenya, Liberia, Malawi, Mauritania, Mozambique, Niger, Nigeria, Sierra Leone, Somalia, Sudan, Tanzania, Uganda, Yemen",
+  "zh": "旧热带界、科特迪瓦、塞内加尔、多哥、贝宁、加纳、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、厄立特里亚、埃塞俄比亚、几内亚、几内亚比绍、肯尼亚、利比里亚、马拉维、毛里塔尼亚、莫桑比克、尼日尔、尼日利亚、塞拉利昂、索马里、苏丹、坦桑尼亚、乌干达、也门"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes bellicosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-bellicosus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes nigeriensis Sjöstedt, 1911: 183-184",
+   "authorship": "Sjöstedt, 1911",
+   "localityAlignment": "matched",
+   "name": "Termes nigeriensis",
+   "note": "",
+   "reference": "183-184",
+   "typeLocality": "Nigeria: Yaba"
+  },
+  {
+   "asPublished": "Termes carboniceps Sjöstedt, 1924: 39-40",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "matched",
+   "name": "Termes carboniceps",
+   "note": "",
+   "reference": "39-40",
+   "typeLocality": "Democratic Republic of the Congo: Yambata"
+  },
+  {
+   "asPublished": "Bellicositermes convexus Grassé, 1937: 35-37",
+   "authorship": "Grassé, 1937",
+   "localityAlignment": "matched",
+   "name": "Bellicositermes convexus",
+   "note": "",
+   "reference": "35-37",
+   "typeLocality": "Ivory Coast: 50 km of Touba on road to Man"
+  }
+ ],
+ "typeLocality": "Sierra Leone: Njala",
+ "version": "2026.11.21",
+ "zh": "勇猛大白蚁"
+}

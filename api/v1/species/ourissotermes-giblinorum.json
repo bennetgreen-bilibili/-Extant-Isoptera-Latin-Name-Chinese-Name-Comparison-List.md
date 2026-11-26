@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ourissotermes-giblinorum.json",
+ "apiVersion": "1",
+ "authorship": "Scheffrahn, Carrijo & Castro, 2023",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ourissotermes",
+   "latin": "Ourissotermes",
+   "zh": "海胆白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South America",
+  "zh": "南美洲"
+ },
+ "isTypeSpecies": true,
+ "latin": "Ourissotermes giblinorum",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ourissotermes-giblinorum/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Rondônia: Porto Velho, Jaci Paraná [ 8.76194S 63.9039W ]",
+ "version": "2026.11.21",
+ "zh": "吉布林海胆白蚁"
+}

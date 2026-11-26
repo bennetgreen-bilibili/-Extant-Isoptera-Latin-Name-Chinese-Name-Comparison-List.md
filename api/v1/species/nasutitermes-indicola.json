@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-indicola.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren & Holmgren, 1917",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "India",
+  "zh": "印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes indicola",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-indicola/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Eutermes) processionarius Schmitz, 1924: 302-304",
+   "authorship": "Schmitz, 1924",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Eutermes) processionarius",
+   "note": "",
+   "reference": "302-304",
+   "typeLocality": "India: Karnataka: Western Ghats: south Canara District, near Hevala: Navoort"
+  },
+  {
+   "asPublished": "Nasutitermes beckeri Prashad & Sen-Sarma, 1959: 8-13",
+   "authorship": "Prashad & Sen-Sarma, 1959",
+   "localityAlignment": "matched",
+   "name": "Nasutitermes beckeri",
+   "note": "",
+   "reference": "8-13",
+   "typeLocality": "India: Tamil Nadu: Western Ghats: Neriamangalam"
+  }
+ ],
+ "typeLocality": "India: Tamil Nadu: Anamalai Hills",
+ "version": "2026.11.21",
+ "zh": "印度象白蚁"
+}

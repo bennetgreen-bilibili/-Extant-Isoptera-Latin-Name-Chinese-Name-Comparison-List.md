@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-orthognathus.json",
+ "apiVersion": "1",
+ "authorship": "Ping & Xu, 1985",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Guizhou, China, Xingyi",
+  "zh": "中国贵州、兴义"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes orthognathus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-orthognathus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Guizhou Province: Xingyi County",
+ "version": "2026.11.21",
+ "zh": "直颚大白蚁"
+}

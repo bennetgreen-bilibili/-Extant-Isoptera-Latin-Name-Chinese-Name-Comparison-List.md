@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/procubitermes-sinuosus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "procubitermes",
+   "latin": "Procubitermes",
+   "zh": "原方白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Nigeria, Guinea",
+  "zh": "西非、尼日利亚、几内亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Procubitermes sinuosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/procubitermes-sinuosus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guinea: Kakoulima; Mamou",
+ "version": "2026.11.21",
+ "zh": "扭曲原方白蚁"
+}

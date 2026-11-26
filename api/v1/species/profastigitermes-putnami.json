@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/profastigitermes-putnami.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1960",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "profastigitermes",
+   "latin": "Profastigitermes",
+   "zh": "前峰白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Cameroon, Democratic Republic of the Congo",
+  "zh": "喀麦隆、刚果民主共和国"
+ },
+ "isTypeSpecies": true,
+ "latin": "Profastigitermes putnami",
+ "pageUrl": "https://termite-extant-isoptera.org/species/profastigitermes-putnami/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Camp Putnam, Epulu River",
+ "version": "2026.11.21",
+ "zh": "帕特南前峰白蚁"
+}

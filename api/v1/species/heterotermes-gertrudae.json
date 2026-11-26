@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/heterotermes-gertrudae.json",
+ "apiVersion": "1",
+ "authorship": "Roonwal, 1953",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "heterotermes",
+   "latin": "Heterotermes",
+   "zh": "异白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "South Asia, India, Pakistan",
+  "zh": "南亚、印度、巴基斯坦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Heterotermes gertrudae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/heterotermes-gertrudae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Uttarakhand: Almora",
+ "version": "2026.11.21",
+ "zh": "格特鲁德异白蚁"
+}

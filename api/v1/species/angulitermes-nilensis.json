@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/angulitermes-nilensis.json",
+ "apiVersion": "1",
+ "authorship": "Harris, 1962",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "angulitermes",
+   "latin": "Angulitermes",
+   "zh": "角白蚁属"
+  },
+  "subfamily": {
+   "id": "promirotermitinae",
+   "latin": "Promirotermitinae",
+   "zh": "前奇白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Senegal, Eritrea, Ethiopia, Kenya, Sudan, Tanzania",
+  "zh": "塞内加尔、厄立特里亚、埃塞俄比亚、肯尼亚、苏丹、坦桑尼亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Angulitermes nilensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/angulitermes-nilensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Sudan: Khartoum: Burri Woods",
+ "version": "2026.11.21",
+ "zh": "尼罗角白蚁"
+}

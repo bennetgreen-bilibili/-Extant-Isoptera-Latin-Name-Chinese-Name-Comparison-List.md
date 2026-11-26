@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/mimeutermes-binghami.json",
+ "apiVersion": "1",
+ "authorship": "Sands, 1968",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "mimeutermes",
+   "latin": "Mimeutermes",
+   "zh": "仿白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Kenya, Zambia",
+  "zh": "肯尼亚、赞比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Mimeutermes binghami",
+ "pageUrl": "https://termite-extant-isoptera.org/species/mimeutermes-binghami/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Zambia: Lusaka: Roma",
+ "version": "2026.11.21",
+ "zh": "宾厄姆仿白蚁"
+}

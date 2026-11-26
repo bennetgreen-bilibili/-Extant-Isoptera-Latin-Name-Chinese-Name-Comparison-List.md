@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/prorhinotermes-spectabilis.json",
+ "apiVersion": "1",
+ "authorship": "Ping & Xu, 1989",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "psammotermitidae",
+   "latin": "Psammotermitidae",
+   "zh": "沙白蚁科"
+  },
+  "genus": {
+   "id": "prorhinotermes",
+   "latin": "Prorhinotermes",
+   "zh": "原鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "China, Yunnan",
+  "zh": "中国、云南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Prorhinotermes spectabilis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/prorhinotermes-spectabilis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Yunnan Province: Hekou Yaozu Zizhixian",
+ "version": "2026.11.21",
+ "zh": "奇丽原鼻白蚁"
+}

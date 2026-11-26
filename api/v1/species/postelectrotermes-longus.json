@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/postelectrotermes-longus.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1910",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "postelectrotermes",
+   "latin": "Postelectrotermes",
+   "zh": "后琥珀白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Comoros, Madagascar, Seychelles",
+  "zh": "科摩罗、马达加斯加、塞舌尔"
+ },
+ "isTypeSpecies": false,
+ "latin": "Postelectrotermes longus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/postelectrotermes-longus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Proneotermes delphinensis Cachan, 1951: 1-2",
+   "authorship": "Cachan, 1951",
+   "localityAlignment": "matched",
+   "name": "Proneotermes delphinensis",
+   "note": "",
+   "reference": "1-2",
+   "typeLocality": "Madagascar: Manantantely, near Tolanaro"
+  }
+ ],
+ "typeLocality": "Seychelles: Aldabra: Takamaka",
+ "version": "2026.11.21",
+ "zh": "长后琥珀白蚁"
+}

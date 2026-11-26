@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ceylonitermes-paulosus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Ceylonitermes paulosus",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "ceylonitermes-paulosus",
+   "source": "gbif",
+   "theirs": "Ceylonitermes Holmgren, 1912",
+   "url": null,
+   "verified": false,
+   "zh": "保洛斯锡兰白蚁"
+  }
+ ],
+ "authorship": "Ipe & Mathew, 2019",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ceylonitermes",
+   "latin": "Ceylonitermes",
+   "zh": "锡兰白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Sri Lanka, India",
+  "zh": "斯里兰卡、印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ceylonitermes paulosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ceylonitermes-paulosus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Kerala: Kottayam, CMS College Campus",
+ "version": "2026.11.21",
+ "zh": "保洛斯锡兰白蚁"
+}

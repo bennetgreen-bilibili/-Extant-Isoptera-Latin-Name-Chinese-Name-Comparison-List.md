@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/pseudocapritermes-kunjepu.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Pseudocapritermes kunjepu",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "pseudocapritermes-kunjepu",
+   "source": "gbif",
+   "theirs": "Pseudocapritermes Kemner, 1934",
+   "url": null,
+   "verified": false,
+   "zh": "昆杰普伪扭白蚁"
+  }
+ ],
+ "authorship": "Mathew, 2020",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "pseudocapritermes",
+   "latin": "Pseudocapritermes",
+   "zh": "伪扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "India, Indonesia",
+  "zh": "印度、印度尼西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Pseudocapritermes kunjepu",
+ "pageUrl": "https://termite-extant-isoptera.org/species/pseudocapritermes-kunjepu/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Kerala: Kottayam, Pinnakkanadu [ 9.63N 76.76E ]",
+ "version": "2026.11.21",
+ "zh": "昆杰普伪扭白蚁"
+}

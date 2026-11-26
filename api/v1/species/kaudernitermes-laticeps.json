@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/kaudernitermes-laticeps.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1897",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "kaudernitermes",
+   "latin": "Kaudernitermes",
+   "zh": "考登白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Madagascar, Mayotte",
+  "zh": "马达加斯加、马约特"
+ },
+ "isTypeSpecies": false,
+ "latin": "Kaudernitermes laticeps",
+ "pageUrl": "https://termite-extant-isoptera.org/species/kaudernitermes-laticeps/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes canaliculatus Wasmann, 1897: 168-169",
+   "authorship": "Wasmann, 1897",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes canaliculatus",
+   "note": "",
+   "reference": "168-169",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Eutermes mitis Sjöstedt, 1902: 40",
+   "authorship": "Sjöstedt, 1902",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes mitis",
+   "note": "",
+   "reference": "40",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Madagascar: Nosy Be",
+ "version": "2026.11.21",
+ "zh": "宽头考登白蚁"
+}

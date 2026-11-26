@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/protohamitermes-globiceps.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1912",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "protohamitermes",
+   "latin": "Protohamitermes",
+   "zh": "始钩白蚁属"
+  },
+  "subfamily": {
+   "id": "protohamitermitinae",
+   "latin": "Protohamitermitinae",
+   "zh": "始钩白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brunei, Indonesia, Malaysia",
+  "zh": "文莱、印度尼西亚、马来西亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Protohamitermes globiceps",
+ "pageUrl": "https://termite-extant-isoptera.org/species/protohamitermes-globiceps/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malaysia: Sarawak",
+ "version": "2026.11.21",
+ "zh": "球头始钩白蚁"
+}

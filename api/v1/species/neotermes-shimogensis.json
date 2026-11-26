@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-shimogensis.json",
+ "apiVersion": "1",
+ "authorship": "Thakur, 1975",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "India, Karnataka",
+  "zh": "印度、卡纳塔克"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes shimogensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-shimogensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Karnataka; Shimoga",
+ "version": "2026.11.21",
+ "zh": "希莫加新白蚁"
+}

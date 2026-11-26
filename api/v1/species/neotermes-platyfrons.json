@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-platyfrons.json",
+ "apiVersion": "1",
+ "authorship": "Krecek & Scheffrahn, 2001",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Dominican Republic",
+  "zh": "多米尼加"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes platyfrons",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-platyfrons/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Dominican Republic: La Altagracia Province, 2.6 km SW of Punta Cana",
+ "version": "2026.11.21",
+ "zh": "宽额新白蚁"
+}

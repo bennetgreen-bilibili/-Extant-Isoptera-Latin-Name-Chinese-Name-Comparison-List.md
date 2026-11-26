@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-butteli.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Southeast Asia, Malaysia, Indonesia",
+  "zh": "东南亚马来西亚、印度尼西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes butteli",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-butteli/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Indonesia: Sumatra: Bah Boelian; Sumatra: Lau Boentoe; Sumatra: Tandjong Slamat; Malaysia: Selangor: Gap",
+ "version": "2026.11.21",
+ "zh": "巴特土白蚁"
+}

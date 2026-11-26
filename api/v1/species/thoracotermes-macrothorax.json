@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/thoracotermes-macrothorax.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1899",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "thoracotermes",
+   "latin": "Thoracotermes",
+   "zh": "胸白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, West Africa, Central Africa, Angola, Cameroon, Congo, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Côte d'Ivoire, Liberia, Nigeria, Sierra Leone",
+  "zh": "旧热带界、西非、中非、安哥拉、喀麦隆、刚果、刚果民主共和国、加蓬、加纳、几内亚、科特迪瓦、利比里亚、尼日利亚、塞拉利昂"
+ },
+ "isTypeSpecies": true,
+ "latin": "Thoracotermes macrothorax",
+ "pageUrl": "https://termite-extant-isoptera.org/species/thoracotermes-macrothorax/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cameroon: Lolodorf",
+ "version": "2026.11.21",
+ "zh": "大胸胸白蚁"
+}

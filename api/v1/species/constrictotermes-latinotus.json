@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/constrictotermes-latinotus.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1910",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "constrictotermes",
+   "latin": "Constrictotermes",
+   "zh": "缩白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Ecuador, Colombia",
+  "zh": "厄瓜多尔、哥伦比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Constrictotermes latinotus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/constrictotermes-latinotus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Ecuador: ?",
+ "version": "2026.11.21",
+ "zh": "宽背缩白蚁"
+}

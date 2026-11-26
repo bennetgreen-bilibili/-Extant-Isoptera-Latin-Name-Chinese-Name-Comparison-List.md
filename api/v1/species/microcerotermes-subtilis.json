@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-subtilis.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1897",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Madagascar, Réunion, Comoros, Europa Island (France), Glorioso Islands (France), Seychelles, Tanzania",
+  "zh": "马达加斯加、留尼汪、科摩罗、欧罗巴岛（法国）、格洛里厄斯群岛（法国）、塞舌尔、坦桑尼亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes subtilis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-subtilis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Madagascar: Majunga; Seychelles: Aldabra Island",
+ "version": "2026.11.21",
+ "zh": "瘦长锯白蚁"
+}

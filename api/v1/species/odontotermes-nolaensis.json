@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-nolaensis.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1924",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "East Africa, Kenya, Angola, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Senegal, Uganda",
+  "zh": "东非肯尼亚、安哥拉、喀麦隆、中非共和国、乍得、刚果民主共和国、塞内加尔、乌干达"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes nolaensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-nolaensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Central African Republic: Nola",
+ "version": "2026.11.21",
+ "zh": "诺拉土白蚁"
+}

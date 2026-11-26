@@ -1,0 +1,81 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/reticulitermes-lucifugus-lucifugus.json",
+ "apiVersion": "1",
+ "authorship": "Rossi, 1792",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "reticulitermes",
+   "latin": "Reticulitermes",
+   "zh": "散白蚁属"
+  },
+  "subfamily": null
+ },
+ "latin": "Reticulitermes lucifugus lucifugus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/reticulitermes-lucifugus-lucifugus/",
+ "parent": {
+  "latin": "Reticulitermes lucifugus",
+  "slug": "reticulitermes-lucifugus",
+  "zh": "暗黑散白蚁"
+ },
+ "rank": "subspecies",
+ "synonyms": [
+  {
+   "asPublished": "Termes arda Forskål, 1775: 96-97",
+   "authorship": "Forskål, 1775",
+   "localityAlignment": "matched",
+   "name": "Termes arda",
+   "note": "",
+   "reference": "96-97",
+   "typeLocality": "Yemen: Beitelfakíh"
+  },
+  {
+   "asPublished": "Hemerobius raphidioides Villers, 1789: 56",
+   "authorship": "Villers, 1789",
+   "localityAlignment": "matched",
+   "name": "Hemerobius raphidioides",
+   "note": "",
+   "reference": "56",
+   "typeLocality": "(country unknown): \"Europa\""
+  },
+  {
+   "asPublished": "Termes radicum Latreille, 1794: 84-85",
+   "authorship": "Latreille, 1794",
+   "localityAlignment": "matched",
+   "name": "Termes radicum",
+   "note": "",
+   "reference": "84-85",
+   "typeLocality": "France: \"environs de Paris.\""
+  },
+  {
+   "asPublished": "Termes parvulum Illiger, 1807: 16",
+   "authorship": "Illiger, 1807",
+   "localityAlignment": "matched",
+   "name": "Termes parvulum",
+   "note": "",
+   "reference": "16",
+   "typeLocality": "Portugal: ?"
+  },
+  {
+   "asPublished": "Termes pusillus Walker, 1853: 528-529",
+   "authorship": "Walker, 1853",
+   "localityAlignment": "matched",
+   "name": "Termes pusillus",
+   "note": "",
+   "reference": "528-529",
+   "typeLocality": "(country unknown): ?"
+  }
+ ],
+ "typeLocality": "(country unknown): \"Shores of Mediterranean\"",
+ "version": "2026.11.21",
+ "zh": "指名亚种"
+}

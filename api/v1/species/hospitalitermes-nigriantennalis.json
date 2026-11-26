@@ -1,0 +1,80 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/hospitalitermes-nigriantennalis.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Hospitalitermes nigriantennalis",
+   "match": "higherrank",
+   "note": "",
+   "rank": "种",
+   "slug": "hospitalitermes-nigriantennalis",
+   "source": "col",
+   "theirs": "Hospitalitermes Holmgren, 1912",
+   "url": null,
+   "verified": false,
+   "zh": "黑触角须白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "missing",
+   "latin": "Hospitalitermes nigriantennalis",
+   "match": null,
+   "note": "",
+   "rank": "种",
+   "slug": "hospitalitermes-nigriantennalis",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "黑触角须白蚁"
+  }
+ ],
+ "authorship": "Syaukani & Thompson, 2016",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "hospitalitermes",
+   "latin": "Hospitalitermes",
+   "zh": "须白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Malaysia, Brunei, Indonesia",
+  "zh": "马来西亚、文莱、印度尼西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Hospitalitermes nigriantennalis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/hospitalitermes-nigriantennalis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Indonesia: Kalimantan: Pararawen Nature Reserve",
+ "version": "2026.11.21",
+ "zh": "黑触角须白蚁"
+}

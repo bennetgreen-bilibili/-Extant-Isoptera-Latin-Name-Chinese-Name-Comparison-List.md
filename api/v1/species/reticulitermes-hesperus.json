@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/reticulitermes-hesperus.json",
+ "apiVersion": "1",
+ "authorship": "Banks, 1920",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "reticulitermes",
+   "latin": "Reticulitermes",
+   "zh": "散白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "western North America, western United States, southwestern Canada",
+  "zh": "北美西部、美国西部、加拿大西南部"
+ },
+ "isTypeSpecies": false,
+ "latin": "Reticulitermes hesperus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/reticulitermes-hesperus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "United States: California: San Bernardino Mountains: Little Bear Lake",
+ "version": "2026.11.21",
+ "zh": "西部散白蚁"
+}

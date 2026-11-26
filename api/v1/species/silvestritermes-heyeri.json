@@ -1,0 +1,90 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/silvestritermes-heyeri.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "match",
+   "kind": "ambiguous",
+   "latin": "Silvestritermes heyeri",
+   "match": null,
+   "note": "仅模糊候选：OTU 1114068 Silvestritermes Rocha & Cancello, 2012；OTU 782588 Silvestritermes Emerson, 1955 now Silvestritermes Emerson, 1955",
+   "rank": "种",
+   "slug": "silvestritermes-heyeri",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "海耶尔西尔韦斯特里白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Silvestritermes heyeri",
+   "match": "higherrank",
+   "note": "",
+   "rank": "种",
+   "slug": "silvestritermes-heyeri",
+   "source": "col",
+   "theirs": "Silvestritermes Rocha & Cancello, 2012",
+   "url": null,
+   "verified": false,
+   "zh": "海耶尔西尔韦斯特里白蚁"
+  }
+ ],
+ "authorship": "Wasmann, 1915",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "silvestritermes",
+   "latin": "Silvestritermes",
+   "zh": "西尔韦斯特里白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Colombia, French Guiana, Brazil, Peru, Bolivia, Ecuador, Guyana, Trinidad and Tobago, Venezuela",
+  "zh": "哥伦比亚、法属圭亚那、巴西、秘鲁、玻利维亚、厄瓜多尔、圭亚那、特立尼达和多巴哥、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Silvestritermes heyeri",
+ "pageUrl": "https://termite-extant-isoptera.org/species/silvestritermes-heyeri/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Armitermes (Armitermes) holmgreni Snyder, 1926: 22-23",
+   "authorship": "Snyder, 1926",
+   "localityAlignment": "matched",
+   "name": "Armitermes (Armitermes) holmgreni",
+   "note": "",
+   "reference": "22-23",
+   "typeLocality": "Bolivia: El Beni: Ivón [11.13S 66.13W]"
+  }
+ ],
+ "typeLocality": "Brasil: São Paulo: Santos [23.9608S 46.3336W]",
+ "version": "2026.11.21",
+ "zh": "海耶尔西尔韦斯特里白蚁"
+}

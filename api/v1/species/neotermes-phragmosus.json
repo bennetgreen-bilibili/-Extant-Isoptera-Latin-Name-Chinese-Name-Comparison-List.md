@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-phragmosus.json",
+ "apiVersion": "1",
+ "authorship": "Krecek & Scheffrahn, 2003",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Mexico, Cuba",
+  "zh": "墨西哥、古巴"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes phragmosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-phragmosus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cuba: Guantánamo Province: Tortuguilla",
+ "version": "2026.11.21",
+ "zh": "护穴新白蚁"
+}

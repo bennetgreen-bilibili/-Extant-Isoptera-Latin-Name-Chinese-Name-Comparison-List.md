@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ahmaditermes-emersoni.json",
+ "apiVersion": "1",
+ "authorship": "Maiti, 1977",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ahmaditermes",
+   "latin": "Ahmaditermes",
+   "zh": "钝颚白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Bhutan, India",
+  "zh": "不丹、印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ahmaditermes emersoni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ahmaditermes-emersoni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: West Bengal: Darjeeling District, ca. 5 km north-east of Teesta Bridge",
+ "version": "2026.11.21",
+ "zh": "埃默森钝颚白蚁"
+}

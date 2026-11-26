@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/planicapritermes-longilabrum.json",
+ "apiVersion": "1",
+ "authorship": "Constantino, 1998",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "planicapritermes",
+   "latin": "Planicapritermes",
+   "zh": "平扭白蚁属"
+  },
+  "subfamily": {
+   "id": "neocapritermitinae",
+   "latin": "Neocapritermitinae",
+   "zh": "新扭白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Planicapritermes longilabrum",
+ "pageUrl": "https://termite-extant-isoptera.org/species/planicapritermes-longilabrum/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Amazonas: Balbina (hydroelectric dam) [ 1.513S 59.8419W ]",
+ "version": "2026.11.21",
+ "zh": "长唇平扭白蚁"
+}

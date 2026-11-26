@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-bimaculifrons.json",
+ "apiVersion": "1",
+ "authorship": "Ping & Liu, 1985",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "China (Sichuan)",
+  "zh": "中国四川"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glyptotermes bimaculifrons",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-bimaculifrons/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Sichuan Province: Xichang",
+ "version": "2026.11.21",
+ "zh": "双斑树白蚁"
+}

@@ -1,0 +1,51 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-acinaciformis.json",
+ "apiVersion": "1",
+ "authorship": "Froggatt, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Australia, introduced: New Zealand",
+  "zh": "澳大利亚、引入：新西兰"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes acinaciformis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-acinaciformis/",
+ "rank": "species",
+ "subspecies": [
+  {
+   "authorship": "Froggatt, 1898",
+   "latin": "Coptotermes acinaciformis acinaciformis",
+   "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-acinaciformis-acinaciformis/",
+   "slug": "coptotermes-acinaciformis-acinaciformis",
+   "zh": "指名亚种"
+  },
+  {
+   "authorship": "Wasmann, 1900",
+   "latin": "Coptotermes acinaciformis raffrayi",
+   "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-acinaciformis-raffrayi/",
+   "slug": "coptotermes-acinaciformis-raffrayi",
+   "zh": "拉夫雷亚种"
+  }
+ ],
+ "synonyms": [],
+ "typeLocality": "Australia: Western Australia: Halls Creek",
+ "version": "2026.11.21",
+ "zh": "短刀乳白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/dicuspiditermes-minutus.json",
+ "apiVersion": "1",
+ "authorship": "Akhtar & Riaz, 1992",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "dicuspiditermes",
+   "latin": "Dicuspiditermes",
+   "zh": "突扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brunei, Indonesia, Malaysia, Singapore",
+  "zh": "文莱、印度尼西亚、马来西亚、新加坡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Dicuspiditermes minutus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/dicuspiditermes-minutus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malaysia: Johore: Kluang Forest",
+ "version": "2026.11.21",
+ "zh": "小突扭白蚁"
+}

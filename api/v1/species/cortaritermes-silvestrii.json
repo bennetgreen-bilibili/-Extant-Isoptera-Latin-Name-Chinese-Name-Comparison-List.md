@@ -1,0 +1,80 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cortaritermes-silvestrii.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 98,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "match",
+   "kind": "fuzzy",
+   "latin": "Cortaritermes silvestrii",
+   "match": "FUZZY",
+   "note": "人工核对（2026-10-30）：GBIF Backbone 与 BSF 拼作 silvestri（单 i），属外部库拼写变体，不是异名。本站名依 Termite Database 的原始组合记录（Eutermes (Eutermes) silvestrii Holmgren, 1910: 281–283），与 ION、CTFB（Catálogo Taxonômico da Fauna do Brasil）、NCBI 一致，保持 silvestrii；本站名不改。",
+   "rank": "种",
+   "slug": "cortaritermes-silvestrii",
+   "source": "gbif",
+   "theirs": "Cortaritermes silvestri (Holmgren, 1910)",
+   "url": "https://www.gbif.org/species/9744833",
+   "verified": true,
+   "zh": "西尔韦斯特里利颚白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "match",
+   "kind": "ambiguous",
+   "latin": "Cortaritermes silvestrii",
+   "match": null,
+   "note": "仅模糊候选：OTU 84409 Cortaritermes silvestri (Holmgren, 1910)；OTU 84185 Cornitermes silvestrii Emerson, 1949；OTU 1114068 Silvestritermes Rocha & Cancello, 2012；OTU 782588 Silvestritermes Emerson, 1955 now Silvestritermes Emerson, 1955",
+   "rank": "种",
+   "slug": "cortaritermes-silvestrii",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "西尔韦斯特里利颚白蚁"
+  }
+ ],
+ "authorship": "Holmgren, 1910",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "cortaritermes",
+   "latin": "Cortaritermes",
+   "zh": "利颚白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Argentina, Paraguay",
+  "zh": "巴西、阿根廷、巴拉圭"
+ },
+ "isTypeSpecies": true,
+ "latin": "Cortaritermes silvestrii",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cortaritermes-silvestrii/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Argentina: Chaco: Resistencia [27.45S 58.9833W]; Paraguay: Paraguari: Paraguari [25.6333S 57.15W]",
+ "version": "2026.11.21",
+ "zh": "西尔韦斯特里利颚白蚁"
+}

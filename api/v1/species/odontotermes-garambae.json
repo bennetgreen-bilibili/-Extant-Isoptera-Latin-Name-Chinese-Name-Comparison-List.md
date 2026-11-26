@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-garambae.json",
+ "apiVersion": "1",
+ "authorship": "Harris, 1963",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Burkina Faso, Democratic Republic of the Congo",
+  "zh": "西非布基纳法索、刚果民主共和国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes garambae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-garambae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Garamba",
+ "version": "2026.11.21",
+ "zh": "加兰巴土白蚁"
+}

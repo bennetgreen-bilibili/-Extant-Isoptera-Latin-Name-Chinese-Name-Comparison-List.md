@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/lepidotermes-simplex.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1913",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "lepidotermes",
+   "latin": "Lepidotermes",
+   "zh": "鳞白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "southern Africa, South Africa",
+  "zh": "非洲南部、南非"
+ },
+ "isTypeSpecies": false,
+ "latin": "Lepidotermes simplex",
+ "pageUrl": "https://termite-extant-isoptera.org/species/lepidotermes-simplex/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Mirotermes ( Procubitermes ) havilandicus Fuller, 1925: 186-187",
+   "authorship": "Fuller, 1925",
+   "localityAlignment": "matched",
+   "name": "Mirotermes (Procubitermes) havilandicus",
+   "note": "",
+   "reference": "186-187",
+   "typeLocality": "South Africa: Natal: Haviland Rail"
+  }
+ ],
+ "typeLocality": "South Africa: Natal: Amanzimtoti",
+ "version": "2026.11.21",
+ "zh": "简单鳞白蚁"
+}

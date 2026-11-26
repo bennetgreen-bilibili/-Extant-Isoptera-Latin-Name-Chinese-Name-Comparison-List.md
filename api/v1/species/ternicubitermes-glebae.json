@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ternicubitermes-glebae.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 94,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Ternicubitermes glebae",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "ternicubitermes-glebae",
+   "source": "gbif",
+   "theirs": "Ternicubitermes Josens & Deligne, 2021",
+   "url": null,
+   "verified": false,
+   "zh": "土块三方白蚁"
+  }
+ ],
+ "authorship": "Sjöstedt, 1913",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ternicubitermes",
+   "latin": "Ternicubitermes",
+   "zh": "三方白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Kenya, Tanzania, Uganda",
+  "zh": "肯尼亚、坦桑尼亚、乌干达"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ternicubitermes glebae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ternicubitermes-glebae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Tanzania: Kilimanjaro",
+ "version": "2026.11.21",
+ "zh": "土块三方白蚁"
+}

@@ -1,0 +1,95 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/diwaitermes-kanehirai.json",
+ "apiVersion": "1",
+ "authorship": "Oshima, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "diwaitermes",
+   "latin": "Diwaitermes",
+   "zh": "木象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Indonesia, Solomon Islands, Australia, Papua New Guinea, Vanuatu",
+  "zh": "印度尼西亚、所罗门群岛、澳大利亚、巴布亚新几内亚、瓦努阿图"
+ },
+ "isTypeSpecies": true,
+ "latin": "Diwaitermes kanehirai",
+ "pageUrl": "https://termite-extant-isoptera.org/species/diwaitermes-kanehirai/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Nasutitermes (Subulitermes) orientis Snyder, 1925: 440-441",
+   "authorship": "Snyder, 1925",
+   "localityAlignment": "matched",
+   "name": "Nasutitermes (Subulitermes) orientis",
+   "note": "",
+   "reference": "440-441",
+   "typeLocality": "Solomon Islands: Malayta Island: Auki"
+  },
+  {
+   "asPublished": "Nasutitermes (Subulitermes) sanctaecrucis Snyder, 1925: 442-443",
+   "authorship": "Snyder, 1925",
+   "localityAlignment": "matched",
+   "name": "Nasutitermes (Subulitermes) sanctaecrucis",
+   "note": "",
+   "reference": "442-443",
+   "typeLocality": "Vanuatu: Nendo Island: Graciosa Bay"
+  },
+  {
+   "asPublished": "Nasutitermes (Subulitermes) orientis tulagiensis Snyder, 1925: 441-442",
+   "authorship": "Snyder, 1925",
+   "localityAlignment": "matched",
+   "name": "Nasutitermes (Subulitermes) orientis tulagiensis",
+   "note": "",
+   "reference": "441-442",
+   "typeLocality": "Solomon Islands: Tulagi Island"
+  },
+  {
+   "asPublished": "Eutermes kaewiengensis Hill, 1927: 28-31",
+   "authorship": "Hill, 1927",
+   "localityAlignment": "matched",
+   "name": "Eutermes kaewiengensis",
+   "note": "",
+   "reference": "28-31",
+   "typeLocality": "Papua New Guinea: New Ireland: Kaewieng"
+  },
+  {
+   "asPublished": "Eutermes rufirostris Hill, 1927: 24-25",
+   "authorship": "Hill, 1927",
+   "localityAlignment": "matched",
+   "name": "Eutermes rufirostris",
+   "note": "",
+   "reference": "24-25",
+   "typeLocality": "Papua New Guinea: New Britain: Bai, near Rabaul"
+  },
+  {
+   "asPublished": "Subulitermes undecimus Kemner, 1931: 34-38",
+   "authorship": "Kemner, 1931",
+   "localityAlignment": "matched",
+   "name": "Subulitermes undecimus",
+   "note": "",
+   "reference": "34-38",
+   "typeLocality": "Indonesia: Maluku: Ambon"
+  }
+ ],
+ "typeLocality": "Indonesia: Maluku: Aru Island: Dobo",
+ "version": "2026.11.21",
+ "zh": "凯恩希拉木象白蚁"
+}

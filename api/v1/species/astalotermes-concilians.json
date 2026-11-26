@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/astalotermes-concilians.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "astalotermes",
+   "latin": "Astalotermes",
+   "zh": "无利器白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Guinea, Nigeria",
+  "zh": "西非、几内亚、尼日利亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Astalotermes concilians",
+ "pageUrl": "https://termite-extant-isoptera.org/species/astalotermes-concilians/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Anoplotermes placidus Silvestri, 1914: 63-64",
+   "authorship": "Silvestri, 1914",
+   "localityAlignment": "matched",
+   "name": "Anoplotermes placidus",
+   "note": "",
+   "reference": "63-64",
+   "typeLocality": "Guinea: Mamou"
+  }
+ ],
+ "typeLocality": "Guinea: Kindia",
+ "version": "2026.11.21",
+ "zh": "团结无利器白蚁"
+}

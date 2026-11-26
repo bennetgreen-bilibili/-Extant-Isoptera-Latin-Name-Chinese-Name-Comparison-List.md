@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/genuotermes-spinifer.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1950",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "genuotermes",
+   "latin": "Genuotermes",
+   "zh": "膝白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": true,
+ "latin": "Genuotermes spinifer",
+ "pageUrl": "https://termite-extant-isoptera.org/species/genuotermes-spinifer/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Mato Grosso do Sul: Ladário, Urucum [19.155S 57.631W]",
+ "version": "2026.11.21",
+ "zh": "具脊膝白蚁"
+}

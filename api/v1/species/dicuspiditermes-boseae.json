@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/dicuspiditermes-boseae.json",
+ "apiVersion": "1",
+ "authorship": "Chhotani, 1997",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "dicuspiditermes",
+   "latin": "Dicuspiditermes",
+   "zh": "突扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "India, Tamil Nadu",
+  "zh": "印度、泰米尔纳德"
+ },
+ "isTypeSpecies": false,
+ "latin": "Dicuspiditermes boseae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/dicuspiditermes-boseae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Tamil Nadu: ca. 50 km NW of Nagercoil: Kulasekaram Forest Range: Mylar",
+ "version": "2026.11.21",
+ "zh": "鲍斯突扭白蚁"
+}

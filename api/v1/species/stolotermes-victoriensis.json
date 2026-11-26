@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/stolotermes-victoriensis.json",
+ "apiVersion": "1",
+ "authorship": "Hill, 1921",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "stolotermitidae",
+   "latin": "Stolotermitidae",
+   "zh": "胄白蚁科"
+  },
+  "genus": {
+   "id": "stolotermes",
+   "latin": "Stolotermes",
+   "zh": "胄白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Stolotermes victoriensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/stolotermes-victoriensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Australia: Victoria: Beaconsfield",
+ "version": "2026.11.21",
+ "zh": "维多利亚胄白蚁"
+}

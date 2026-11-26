@@ -1,0 +1,98 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-wheeleri.json",
+ "apiVersion": "1",
+ "authorityReview": {
+  "incoming": [
+   {
+    "direction": "external",
+    "disputed": false,
+    "latin": "Amitermes californicus",
+    "recorded": false,
+    "relation": "synonym",
+    "slug": "amitermes-californicus",
+    "sources": [
+     "gbif",
+     "col",
+     "bsf"
+    ],
+    "zh": "加州弓白蚁"
+   }
+  ],
+  "latin": "Amitermes wheeleri",
+  "outgoing": [],
+  "zh": "惠勒弓白蚁"
+ },
+ "authorship": "Desneux, 1906",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "United States, Mexico",
+  "zh": "美国、墨西哥"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes wheeleri",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-wheeleri/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Amitermes arizonensis Banks, 1920: 56, 59",
+   "authorship": "Banks, 1920",
+   "localityAlignment": "matched",
+   "name": "Amitermes arizonensis",
+   "note": "",
+   "reference": "56, 59",
+   "typeLocality": "United States: Arizona: Fort Grant"
+  },
+  {
+   "asPublished": "Amitermes ( Amitermes ) spadix Light, 1932: 388-398",
+   "authorship": "Light, 1932",
+   "localityAlignment": "matched",
+   "name": "Amitermes (Amitermes) spadix",
+   "note": "",
+   "reference": "388-398",
+   "typeLocality": "United States: Texas: Uvalde"
+  },
+  {
+   "asPublished": "Amitermes ( Amitermes ) parvipunctus Light, 1932: 388",
+   "authorship": "Light, 1932",
+   "localityAlignment": "matched",
+   "name": "Amitermes (Amitermes) parvipunctus",
+   "note": "",
+   "reference": "388",
+   "typeLocality": "United States: Texas: Uvalde"
+  },
+  {
+   "asPublished": "Amitermes floridensis Scheffrahn, Su & Mangold, 1989: 618-624",
+   "authorship": "Scheffrahn, Su & Mangold, 1989",
+   "localityAlignment": "matched",
+   "name": "Amitermes floridensis",
+   "note": "",
+   "reference": "618-624",
+   "typeLocality": "United States: Florida: Pinellas Co.: St. Petersburg"
+  }
+ ],
+ "typeLocality": "United States: Texas: Belton",
+ "version": "2026.11.21",
+ "zh": "惠勒弓白蚁"
+}

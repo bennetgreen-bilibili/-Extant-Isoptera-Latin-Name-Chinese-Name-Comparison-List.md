@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/speculitermes-angustigulus.json",
+ "apiVersion": "1",
+ "authorship": "He, 1985",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "speculitermes",
+   "latin": "Speculitermes",
+   "zh": "稀白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Asia, India, China",
+  "zh": "南亚、印度、中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Speculitermes angustigulus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/speculitermes-angustigulus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Yunnan Province: Jinghong",
+ "version": "2026.11.21",
+ "zh": "狭颏稀白蚁"
+}

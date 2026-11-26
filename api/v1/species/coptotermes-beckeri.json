@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-beckeri.json",
+ "apiVersion": "1",
+ "authorship": "Mathur & Chhotani, 1969",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "southern India",
+  "zh": "印度南部"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes beckeri",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-beckeri/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Tamil Nadu: Chennai [Madras]",
+ "version": "2026.11.21",
+ "zh": "贝克乳白蚁"
+}

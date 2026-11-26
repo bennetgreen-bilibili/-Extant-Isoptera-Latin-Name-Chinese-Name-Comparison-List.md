@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-latignathus.json",
+ "apiVersion": "1",
+ "authorship": "Thapa, 1982",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Nepal, Malaysia",
+  "zh": "尼泊尔、马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes latignathus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-latignathus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malaysia: Sabah: Kunak-Mostyn District: Kalumpang",
+ "version": "2026.11.21",
+ "zh": "宽颚大白蚁"
+}

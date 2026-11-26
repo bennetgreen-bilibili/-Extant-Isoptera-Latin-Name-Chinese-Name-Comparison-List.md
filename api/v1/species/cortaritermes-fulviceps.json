@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cortaritermes-fulviceps.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1901",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "cortaritermes",
+   "latin": "Cortaritermes",
+   "zh": "利颚白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Argentina, Uruguay, Brazil, Paraguay",
+  "zh": "阿根廷、乌拉圭、巴西、巴拉圭"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cortaritermes fulviceps",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cortaritermes-fulviceps/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes burmeisteri Czerwinski, 1901: 8",
+   "authorship": "Czerwinski, 1901",
+   "localityAlignment": "matched",
+   "name": "Eutermes burmeisteri",
+   "note": "",
+   "reference": "8",
+   "typeLocality": "Brasil: Rio Grande do Sul: Lagoa dos Patos, mouth of Camaquã River [31.285S 51.752W]"
+  },
+  {
+   "asPublished": "Eutermes (Eutermes) brasiliensis Holmgren, 1910: 273-274",
+   "authorship": "Holmgren, 1910",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Eutermes) brasiliensis",
+   "note": "",
+   "reference": "273-274",
+   "typeLocality": "Brasil: Rio Grande do Sul"
+  },
+  {
+   "asPublished": "Eutermes ellenriederi Rosen, 1912: 224",
+   "authorship": "Rosen, 1912",
+   "localityAlignment": "matched",
+   "name": "Eutermes ellenriederi",
+   "note": "",
+   "reference": "224",
+   "typeLocality": "Brasil: Rio Grande do Sul: São José do Norte [32.0156S 52.0335W]"
+  }
+ ],
+ "typeLocality": "Argentina: Córdoba: Cernadas (old train station) [34.2264S 62.878W]; Entre Ríos: Chajarí [30.7667S 57.9833W]; Entre Ríos: Concordia [31.4S 58.0333W]; Misiones: Posadas [27.37S 55.9W]; San Luis: San Luis [33.3S 66.35W]; Santa Fé: Sunchales [30.9333S 61.5667W]; Paraguay: Guairá: Villa Rica [25.75S 56.4333W]; Itapúa: Encarnación [27.252S 55.914W]; Uruguay: Canelones: Francisco Soca (formerly Mosquitos) [34.6833S 55.6833W]; Maldonado: La Sierra [34.7667S 55.4167W]",
+ "version": "2026.11.21",
+ "zh": "栗头利颚白蚁"
+}

@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-desertorum.json",
+ "apiVersion": "1",
+ "authorship": "Desneux, 1902",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Algeria, Egypt, Libya, Tunisia",
+  "zh": "阿尔及利亚、埃及、利比亚、突尼斯"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes desertorum",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-desertorum/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Hamitermes santschi Silvestri, 1911: 105-106",
+   "authorship": "Silvestri, 1911",
+   "localityAlignment": "matched",
+   "name": "Hamitermes santschi",
+   "note": "",
+   "reference": "105-106",
+   "typeLocality": "Tunisia: Kairouan"
+  }
+ ],
+ "typeLocality": "Algeria: \"dans le Souf, entre Maouiet-Fezan et Tougourt.\"",
+ "version": "2026.11.21",
+ "zh": "遗弃弓白蚁"
+}

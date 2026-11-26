@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/oriensubulitermes-inanis.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "oriensubulitermes",
+   "latin": "Oriensubulitermes",
+   "zh": "东锥白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Indonesia, Malaysia, Singapore",
+  "zh": "印度尼西亚、马来西亚、新加坡"
+ },
+ "isTypeSpecies": true,
+ "latin": "Oriensubulitermes inanis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/oriensubulitermes-inanis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Subulitermes) inaniformis Holmgren, 1912: 64",
+   "authorship": "Holmgren, 1912",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Subulitermes) inaniformis",
+   "note": "",
+   "reference": "64",
+   "typeLocality": "(country unknown): \"Hinterindien\""
+  }
+ ],
+ "typeLocality": "Malaysia: Perak",
+ "version": "2026.11.21",
+ "zh": "缺齿东锥白蚁"
+}

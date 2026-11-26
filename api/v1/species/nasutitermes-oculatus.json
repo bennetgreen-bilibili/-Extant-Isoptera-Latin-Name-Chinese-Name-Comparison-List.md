@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-oculatus.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Sri Lanka",
+  "zh": "斯里兰卡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes oculatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-oculatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes longicornis Holmgren, 1913: 283",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "matched",
+   "name": "Eutermes longicornis",
+   "note": "",
+   "reference": "283",
+   "typeLocality": "Sri Lanka: Peradeniya"
+  }
+ ],
+ "typeLocality": "Sri Lanka: Peradeniya",
+ "version": "2026.11.21",
+ "zh": "眼显象白蚁"
+}

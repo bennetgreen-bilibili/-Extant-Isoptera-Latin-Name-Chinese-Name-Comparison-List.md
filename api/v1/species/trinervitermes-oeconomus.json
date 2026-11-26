@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/trinervitermes-oeconomus.json",
+ "apiVersion": "1",
+ "authorship": "Trägårdh, 1904",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "trinervitermes",
+   "latin": "Trinervitermes",
+   "zh": "三脉白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Côte d'Ivoire, Togo, Burkina Faso, Benin, Central Africa, Chad, Democratic Republic of the Congo, Ethiopia, Ghana, Mali, Nigeria, Senegal, Sudan, Uganda",
+  "zh": "科特迪瓦、多哥、布基纳法索、贝宁、中非、乍得、刚果民主共和国、埃塞俄比亚、加纳、马里、尼日利亚、塞内加尔、苏丹、乌干达"
+ },
+ "isTypeSpecies": false,
+ "latin": "Trinervitermes oeconomus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/trinervitermes-oeconomus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes mobilis Sjöstedt, 1904: 91",
+   "authorship": "Sjöstedt, 1904",
+   "localityAlignment": "matched",
+   "name": "Eutermes mobilis",
+   "note": "",
+   "reference": "91",
+   "typeLocality": "Mali: Alahina"
+  },
+  {
+   "asPublished": "Eutermes tchadensis Sjöstedt, 1911: 14-15",
+   "authorship": "Sjöstedt, 1911",
+   "localityAlignment": "matched",
+   "name": "Eutermes tchadensis",
+   "note": "",
+   "reference": "14-15",
+   "typeLocality": "Chad: Chari-Chad"
+  },
+  {
+   "asPublished": "Eutermes schubotzianus Sjöstedt, 1914: 93-94",
+   "authorship": "Sjöstedt, 1914",
+   "localityAlignment": "matched",
+   "name": "Eutermes schubotzianus",
+   "note": "",
+   "reference": "93-94",
+   "typeLocality": "Central African Republic: Fort Crampel"
+  }
+ ],
+ "typeLocality": "Sudan: Kaka",
+ "version": "2026.11.21",
+ "zh": "根三脉白蚁"
+}

@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/syntermes-grandis.json",
+ "apiVersion": "1",
+ "authorship": "Rambur, 1842",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "syntermes",
+   "latin": "Syntermes",
+   "zh": "聚白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, French Guiana, Suriname, Venezuela, Bolivia, Guyana",
+  "zh": "巴西、法属圭亚那、苏里南、委内瑞拉、玻利维亚、圭亚那"
+ },
+ "isTypeSpecies": false,
+ "latin": "Syntermes grandis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/syntermes-grandis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes fuscum Latreille, 1804: 59-60",
+   "authorship": "Latreille, 1804",
+   "localityAlignment": "matched",
+   "name": "Termes fuscum",
+   "note": "",
+   "reference": "59-60",
+   "typeLocality": "French Guiana: Cayenne [4.93333N 52.33W]"
+  },
+  {
+   "asPublished": "Syntermes dirus hageni Holmgren, 1911: 548",
+   "authorship": "Holmgren, 1911",
+   "localityAlignment": "matched",
+   "name": "Syntermes dirus hageni",
+   "note": "",
+   "reference": "548",
+   "typeLocality": "Brasil: ?"
+  },
+  {
+   "asPublished": "Syntermes lighti Emerson, 1945: 453-454",
+   "authorship": "Emerson, 1945",
+   "localityAlignment": "matched",
+   "name": "Syntermes lighti",
+   "note": "",
+   "reference": "453-454",
+   "typeLocality": "Bolivia: Pando: Villa Bella [10.3833S 65.4W]"
+  }
+ ],
+ "typeLocality": "French Guiana: Cayenne [4.93333N 52.33W]",
+ "version": "2026.11.21",
+ "zh": "大聚白蚁"
+}

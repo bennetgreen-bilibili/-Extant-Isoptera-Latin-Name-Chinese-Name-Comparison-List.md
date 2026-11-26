@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/vaninitermes-ignotus.json",
+ "apiVersion": "1",
+ "authorship": "Constantino, 1991",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "vaninitermes",
+   "latin": "Vaninitermes",
+   "zh": "瓦宁白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Colombia, French Guiana, Peru",
+  "zh": "巴西、哥伦比亚、法属圭亚那、秘鲁"
+ },
+ "isTypeSpecies": true,
+ "latin": "Vaninitermes ignotus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/vaninitermes-ignotus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Embiratermes parvirostris Constantino, 1993: 330-332",
+   "authorship": "Constantino, 1993",
+   "localityAlignment": "matched",
+   "name": "Embiratermes parvirostris",
+   "note": "",
+   "reference": "330-332",
+   "typeLocality": "Brasil: Amapá: Macapá, IEPA Fazendinha [0.04N 51.1W]"
+  }
+ ],
+ "typeLocality": "Brasil: Amazonas: Maraã [1.848S 65.523W]",
+ "version": "2026.11.21",
+ "zh": "忽视瓦宁白蚁"
+}

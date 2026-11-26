@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-travians.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Sumatra, Indonesia, Malaysia, Singapore",
+  "zh": "印度尼西亚苏门答腊、马来西亚、新加坡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes travians",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-travians/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Coptotermes bornensis Oshima, 1914: 21-22",
+   "authorship": "Oshima, 1914",
+   "localityAlignment": "matched",
+   "name": "Coptotermes bornensis",
+   "note": "",
+   "reference": "21-22",
+   "typeLocality": "Indonesia: Kalimantan: Balik-Papan"
+  }
+ ],
+ "typeLocality": "Malaysia: Sarawak: Marudi",
+ "version": "2026.11.21",
+ "zh": "南亚乳白蚁"
+}

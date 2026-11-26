@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microhodotermes-wasmanni.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1900",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "hodotermitidae",
+   "latin": "Hodotermitidae",
+   "zh": "草白蚁科"
+  },
+  "genus": {
+   "id": "microhodotermes",
+   "latin": "Microhodotermes",
+   "zh": "小草白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Libya, Egypt, Israel, Tunisia",
+  "zh": "利比亚、埃及、以色列、突尼斯"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microhodotermes wasmanni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microhodotermes-wasmanni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Libya: Uadi (Wadi) M’bellum",
+ "version": "2026.11.21",
+ "zh": "沃斯曼小草白蚁"
+}

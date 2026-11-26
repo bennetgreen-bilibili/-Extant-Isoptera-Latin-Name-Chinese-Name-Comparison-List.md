@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-lacteus.json",
+ "apiVersion": "1",
+ "authorship": "Froggatt, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "eastern Australia",
+  "zh": "澳大利亚东部"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes lacteus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-lacteus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes lactis Froggatt, 1897: 297, pl. facing 297",
+   "authorship": "Froggatt, 1897",
+   "localityAlignment": "matched",
+   "name": "Termes lactis",
+   "note": "pl. facing 297",
+   "reference": "297",
+   "typeLocality": "Australia: New South Wales: Colo Vale"
+  },
+  {
+   "asPublished": "Coptotermes sedulus Hill, 1923: 40-43",
+   "authorship": "Hill, 1923",
+   "localityAlignment": "matched",
+   "name": "Coptotermes sedulus",
+   "note": "",
+   "reference": "40-43",
+   "typeLocality": "Australia: Victoria: Belgrave"
+  }
+ ],
+ "typeLocality": "Australia: New South Wales: Shoalhaven",
+ "version": "2026.11.21",
+ "zh": "乳色乳白蚁"
+}

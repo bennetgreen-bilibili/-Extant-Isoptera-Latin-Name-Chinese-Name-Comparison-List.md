@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/trinervitermes-geminatus.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1897",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "trinervitermes",
+   "latin": "Trinervitermes",
+   "zh": "三脉白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Côte d'Ivoire, Senegal, Togo, Ghana, Nigeria, Burkina Faso, Democratic Republic of the Congo, Ethiopia, Mali, Mauritania, Sierra Leone, Sudan, Uganda",
+  "zh": "科特迪瓦、塞内加尔、多哥、加纳、尼日利亚、布基纳法索、刚果民主共和国、埃塞俄比亚、马里、毛里塔尼亚、塞拉利昂、苏丹、乌干达"
+ },
+ "isTypeSpecies": false,
+ "latin": "Trinervitermes geminatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/trinervitermes-geminatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Trinervitermes) grossus Sjöstedt, 1924: 493",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Trinervitermes) grossus",
+   "note": "",
+   "reference": "493",
+   "typeLocality": "(country unknown): \"Atlantic coast of Sahara\""
+  },
+  {
+   "asPublished": "Trinervitermes ibidanicus Sjöstedt, 1926: 347",
+   "authorship": "Sjöstedt, 1926",
+   "localityAlignment": "matched",
+   "name": "Trinervitermes ibidanicus",
+   "note": "",
+   "reference": "347",
+   "typeLocality": "Nigeria: Ibadan (Ibidan)"
+  },
+  {
+   "asPublished": "Trinervitermes ebnerianus Sjöstedt, 1926: 73-74",
+   "authorship": "Sjöstedt, 1926",
+   "localityAlignment": "matched",
+   "name": "Trinervitermes ebnerianus",
+   "note": "",
+   "reference": "73-74",
+   "typeLocality": "Sudan: Tungaru"
+  }
+ ],
+ "typeLocality": "Ghana: ?",
+ "version": "2026.11.21",
+ "zh": "成对三脉白蚁"
+}

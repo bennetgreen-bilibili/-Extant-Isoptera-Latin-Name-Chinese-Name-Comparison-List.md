@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/parvitermes-wolcotti.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1924",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "parvitermes",
+   "latin": "Parvitermes",
+   "zh": "微白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Puerto Rico, United States, British Virgin Islands",
+  "zh": "波多黎各、美国、英属维尔京群岛"
+ },
+ "isTypeSpecies": false,
+ "latin": "Parvitermes wolcotti",
+ "pageUrl": "https://termite-extant-isoptera.org/species/parvitermes-wolcotti/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Puerto Rico: Boquerón",
+ "version": "2026.11.21",
+ "zh": "沃尔科特微白蚁"
+}

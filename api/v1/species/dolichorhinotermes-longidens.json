@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/dolichorhinotermes-longidens.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1924",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "dolichorhinotermes",
+   "latin": "Dolichorhinotermes",
+   "zh": "狭鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Panama, Colombia",
+  "zh": "巴拿马、哥伦比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Dolichorhinotermes longidens",
+ "pageUrl": "https://termite-extant-isoptera.org/species/dolichorhinotermes-longidens/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Panama: Rio Chinilla",
+ "version": "2026.11.21",
+ "zh": "长齿狭鼻白蚁"
+}

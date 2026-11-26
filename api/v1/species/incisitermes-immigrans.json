@@ -1,0 +1,64 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/incisitermes-immigrans.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1922",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "incisitermes",
+   "latin": "Incisitermes",
+   "zh": "楹白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Central America to Polynesia",
+  "zh": "中美洲至波利尼西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Incisitermes immigrans",
+ "pageUrl": "https://termite-extant-isoptera.org/species/incisitermes-immigrans/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Kalotermes marjoriae Snyder, 1924: 3-4",
+   "authorship": "Snyder, 1924",
+   "localityAlignment": "matched",
+   "name": "Kalotermes marjoriae",
+   "note": "",
+   "reference": "3-4",
+   "typeLocality": "United States: Hawaii: Hilo"
+  },
+  {
+   "asPublished": "Kalotermes ( Kalotermes ) clevelandi Snyder, 1926: 7-8",
+   "authorship": "Snyder, 1926",
+   "localityAlignment": "matched",
+   "name": "Kalotermes (Kalotermes) clevelandi",
+   "note": "",
+   "reference": "7-8",
+   "typeLocality": "Panama: Ancon"
+  },
+  {
+   "asPublished": "Calotermes ( Calotermes ) curvithorax Kelsey, 1944: 47-51",
+   "authorship": "Kelsey, 1944",
+   "localityAlignment": "matched",
+   "name": "Calotermes (Calotermes) curvithorax",
+   "note": "",
+   "reference": "47-51",
+   "typeLocality": "Kiribati: Phoenix Islands, Canton Island"
+  }
+ ],
+ "typeLocality": "United States: Hawaii: Honolulu, Oahu",
+ "version": "2026.11.21",
+ "zh": "移境楹白蚁"
+}

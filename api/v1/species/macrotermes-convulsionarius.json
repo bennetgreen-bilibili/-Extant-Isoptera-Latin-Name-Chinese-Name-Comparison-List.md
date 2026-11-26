@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-convulsionarius.json",
+ "apiVersion": "1",
+ "authorship": "König, 1779",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Asia, India, Sri Lanka",
+  "zh": "南亚、印度、斯里兰卡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes convulsionarius",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-convulsionarius/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes estherae Desneux, 1908: 390-394",
+   "authorship": "Desneux, 1908",
+   "localityAlignment": "unmatched",
+   "name": "Termes estherae",
+   "note": "",
+   "reference": "390-394",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "India: Tamil Nadu: Tanjore (Tranqueba)",
+ "version": "2026.11.21",
+ "zh": "震撼大白蚁"
+}

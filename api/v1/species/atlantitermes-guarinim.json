@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/atlantitermes-guarinim.json",
+ "apiVersion": "1",
+ "authorship": "Fontes, 1979",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "atlantitermes",
+   "latin": "Atlantitermes",
+   "zh": "阿特拉斯白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": true,
+ "latin": "Atlantitermes guarinim",
+ "pageUrl": "https://termite-extant-isoptera.org/species/atlantitermes-guarinim/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: São Paulo: Itanhaém [24.1831S 46.7889W]",
+ "version": "2026.11.21",
+ "zh": "好斗阿特拉斯白蚁"
+}

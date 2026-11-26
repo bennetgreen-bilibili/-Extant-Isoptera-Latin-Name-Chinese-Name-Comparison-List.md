@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/rugitermes-athertoni.json",
+ "apiVersion": "1",
+ "authorship": "Light, 1932",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "rugitermes",
+   "latin": "Rugitermes",
+   "zh": "皱白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "French Polynesia",
+  "zh": "法属波利尼西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Rugitermes athertoni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/rugitermes-athertoni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Polynesia (French): Marquesas: Hivaoa: Atuona Valley; Marquesas: Hivaoa: Pouau; Marquesas: Hivaoa: Tenaeka Valley; Marquesas: Nukahiva, Toovi, Teuanui; Marquesas: Nukuhiva, Tapuaooa; Marquesas: Uapou, Hakahetau Valley, Koputukea",
+ "version": "2026.11.21",
+ "zh": "阿瑟顿皱白蚁"
+}

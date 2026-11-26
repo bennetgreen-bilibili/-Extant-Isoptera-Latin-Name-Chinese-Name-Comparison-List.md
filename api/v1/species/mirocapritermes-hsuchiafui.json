@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/mirocapritermes-hsuchiafui.json",
+ "apiVersion": "1",
+ "authorship": "Yu & Ping, 1966",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "mirocapritermes",
+   "latin": "Mirocapritermes",
+   "zh": "瘤白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "China",
+  "zh": "中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Mirocapritermes hsuchiafui",
+ "pageUrl": "https://termite-extant-isoptera.org/species/mirocapritermes-hsuchiafui/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Yunnan Province: Ying-chiang",
+ "version": "2026.11.21",
+ "zh": "云南瘤白蚁"
+}

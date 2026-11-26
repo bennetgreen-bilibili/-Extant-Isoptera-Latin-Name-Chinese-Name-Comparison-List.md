@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/dicuspiditermes-nemorosus.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "dicuspiditermes",
+   "latin": "Dicuspiditermes",
+   "zh": "突扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Southeast Asia, Malaysia, Indonesia, Singapore",
+  "zh": "东南亚、马来西亚、印度尼西亚、新加坡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Dicuspiditermes nemorosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/dicuspiditermes-nemorosus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Capritermes medius Holmgren, 1913: 252",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "matched",
+   "name": "Capritermes medius",
+   "note": "",
+   "reference": "252",
+   "typeLocality": "Malaysia: Sarawak"
+  },
+  {
+   "asPublished": "Capritermes minor Holmgren, 1913: 252",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "matched",
+   "name": "Capritermes minor",
+   "note": "",
+   "reference": "252",
+   "typeLocality": "Malaysia: Sarawak"
+  },
+  {
+   "asPublished": "Dicuspiditermes paramakhamensis Thapa, 1982: 226-229",
+   "authorship": "Thapa, 1982",
+   "localityAlignment": "matched",
+   "name": "Dicuspiditermes paramakhamensis",
+   "note": "",
+   "reference": "226-229",
+   "typeLocality": "Malaysia: Sabah: Keningau District: Biah Forest, mile 6"
+  }
+ ],
+ "typeLocality": "Malaysia: Sarawak",
+ "version": "2026.11.21",
+ "zh": "树荫突扭白蚁"
+}

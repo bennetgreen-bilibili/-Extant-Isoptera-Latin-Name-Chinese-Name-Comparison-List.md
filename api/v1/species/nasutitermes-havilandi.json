@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-havilandi.json",
+ "apiVersion": "1",
+ "authorship": "Desneux, 1904",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Singapore, Malaysia, Nigeria, Indonesia, Thailand",
+  "zh": "新加坡、马来西亚、尼日利亚、印度尼西亚、泰国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes havilandi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-havilandi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malaysia: Sarawak",
+ "version": "2026.11.21",
+ "zh": "哈维兰象白蚁"
+}

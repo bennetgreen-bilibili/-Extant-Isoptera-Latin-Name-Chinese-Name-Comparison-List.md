@@ -16,7 +16,7 @@
 | `taxonomy.json` | 支系 → 科 → 亚科 → 属 的层级与顺序（`id` / 中文名 / 拉丁名 / 父级） | 所有分类页、`/list/`、`data/`、`stats`、`sitemap` |
 | `taxon_prose/` | 科 / 亚科正文与插图，三语；按语言、等级分目录，一个分类单元一片 | 科页、亚科页、`/list/sections/` |
 | `list_index_blocks.json` | `/list/` 的 H1、导语、按科浏览、参考文献块，三语 | `list.md` 三语 |
-| `i18n.yml` | 界面文案，`zh-CN` / `en` / `es` 各 94 个 key | 全站模板 |
+| `i18n.yml` | 界面文案，`zh-CN` / `en` / `es` 各 95 个 key | 全站模板 |
 | `translation_glossary.yml` | 摘要翻译术语表（学名/术语对齐） | `/papers/` 的翻译提示 |
 | `translations_en/`、`translations_es/` | 形态与动物志正文的英/西译文；`meta.json` + 与源数据集同构的分片，键与原数据文件一致 | 分类页、物种页 |
 | `etymology/` | 属名词源 + 种加词词源；`meta.json` + `genera/` + `epithets/` | 属页、物种页「词源」 |

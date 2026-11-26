@@ -1,0 +1,95 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/longicaputermes-sinaicus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 94,
+   "family_latin": "Kalotermitidae",
+   "family_zh": "木白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Longicaputermes sinaicus",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "longicaputermes-sinaicus",
+   "source": "gbif",
+   "theirs": "Longicaputermes Ghesini, Marini & Simon, 2014",
+   "url": null,
+   "verified": false,
+   "zh": "西奈头长白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Kalotermitidae",
+   "family_zh": "木白蚁科",
+   "group": "gap",
+   "kind": "missing",
+   "latin": "Longicaputermes sinaicus",
+   "match": null,
+   "note": "",
+   "rank": "种",
+   "slug": "longicaputermes-sinaicus",
+   "source": "col",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "西奈头长白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Kalotermitidae",
+   "family_zh": "木白蚁科",
+   "group": "gap",
+   "kind": "missing",
+   "latin": "Longicaputermes sinaicus",
+   "match": null,
+   "note": "",
+   "rank": "种",
+   "slug": "longicaputermes-sinaicus",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "西奈头长白蚁"
+  }
+ ],
+ "authorship": "Kemner, 1932",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "longicaputermes",
+   "latin": "Longicaputermes",
+   "zh": "头长白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Sinai Peninsula, Egypt, Israel",
+  "zh": "埃及西奈半岛、以色列"
+ },
+ "isTypeSpecies": true,
+ "latin": "Longicaputermes sinaicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/longicaputermes-sinaicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Egypt: Sinai Peninsula: Gabr. Amir",
+ "version": "2026.11.21",
+ "zh": "西奈头长白蚁"
+}

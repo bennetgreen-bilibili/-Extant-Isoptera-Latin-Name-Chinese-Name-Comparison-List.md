@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/embiratermes-benjamini.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1926",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "embiratermes",
+   "latin": "Embiratermes",
+   "zh": "生白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Bolivia, Venezuela",
+  "zh": "玻利维亚、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Embiratermes benjamini",
+ "pageUrl": "https://termite-extant-isoptera.org/species/embiratermes-benjamini/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Bolivia: Pando: Cachuela Esperanza [10.5333S 65.6333W]",
+ "version": "2026.11.21",
+ "zh": "本杰明生白蚁"
+}

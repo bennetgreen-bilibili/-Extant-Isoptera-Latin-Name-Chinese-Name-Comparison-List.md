@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/spinitermes-nigrostomus.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1906",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "spinitermes",
+   "latin": "Spinitermes",
+   "zh": "针刺白蚁属"
+  },
+  "subfamily": {
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Venezuela, Bolivia, Guyana, Peru, Suriname",
+  "zh": "巴西、委内瑞拉、玻利维亚、圭亚那、秘鲁、苏里南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Spinitermes nigrostomus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/spinitermes-nigrostomus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Spinitermes gracilis Holmgren, 1906: 565-567",
+   "authorship": "Holmgren, 1906",
+   "localityAlignment": "matched",
+   "name": "Spinitermes gracilis",
+   "note": "",
+   "reference": "565-567",
+   "typeLocality": "Peru: Puno: Chaquimayo [13.45S 70.4W]"
+  }
+ ],
+ "typeLocality": "Bolivia: La Paz: Mojos [14.5667S 68.8833W]",
+ "version": "2026.11.21",
+ "zh": "黑嘴针刺白蚁"
+}

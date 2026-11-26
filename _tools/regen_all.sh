@@ -3,7 +3,8 @@
 #
 # 顺序与 .github/workflows/pages.yml（部署）、.github/workflows/validate.yml（PR 闸门）
 # 保持一致：数据文件 → 索引页 → 分类数据 → 页脚正文 → 图片页 → 层级页 → sitemap
-# → 检索索引 → 归档数据集 → Darwin Core Archive → 版本记录 → 命名差异看板 → 静态资源指纹。
+# → 检索索引 → 归档数据集 → Darwin Core Archive → 版本记录 → 命名差异看板 → API JSON
+# → 静态资源指纹。
 #
 # 两个调用方：
 #   1. 本地提交前收尾：改了 _species / _data / dataset/CHANGELOG.md 等源文件后跑一次，
@@ -30,6 +31,10 @@ python .github/workflows/build_dataset.py --write
 python _tools/build_dwca.py --write
 python _tools/build_changelog.py --write
 python .github/workflows/build_name_issues.py --write
+
+# API 静态 JSON：依赖上一步的 name_issues.json，以及 build_dataset 产出的
+# dataset/data/isoptera-taxonomy.json 与 isoptera-synonyms.csv。
+python _tools/build_api.py --write
 
 # 静态资源缓存戳：按 assets/*.css|js 的内容取指纹写进 _data/build.json。
 # 模板里 CSS/JS 的 ?v= 读它，内容不变则 URL 不变（浏览器缓存得以命中）；

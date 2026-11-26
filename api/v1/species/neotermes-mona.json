@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-mona.json",
+ "apiVersion": "1",
+ "authorship": "Banks, 1919",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Caribbean, Puerto Rico, Bahamas, Turks and Caicos Islands, Dominican Republic, Haiti, British Virgin Islands, U.S. Virgin Islands, Mexico",
+  "zh": "加勒比、波多黎各、巴哈马、特克斯和凯科斯群岛、多米尼加、海地、英属维尔京群岛、美属维尔京群岛、墨西哥"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes mona",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-mona/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Puerto Rico: Mona Island",
+ "version": "2026.11.21",
+ "zh": "莫纳新白蚁"
+}

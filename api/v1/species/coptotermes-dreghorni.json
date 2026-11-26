@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/coptotermes-dreghorni.json",
+ "apiVersion": "1",
+ "authorship": "Hill, 1942",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "coptotermes",
+   "latin": "Coptotermes",
+   "zh": "乳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Queensland, Australia",
+  "zh": "澳大利亚昆士兰"
+ },
+ "isTypeSpecies": false,
+ "latin": "Coptotermes dreghorni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/coptotermes-dreghorni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Australia: Queensland: Timber Reserve # 263, near Ravenshoe",
+ "version": "2026.11.21",
+ "zh": "雷德霍恩乳白蚁"
+}

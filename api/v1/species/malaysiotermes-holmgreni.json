@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/malaysiotermes-holmgreni.json",
+ "apiVersion": "1",
+ "authorship": "Ahmad, 1968",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "malaysiotermes",
+   "latin": "Malaysiotermes",
+   "zh": "马来白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Indonesia, Malaysia",
+  "zh": "印度尼西亚、马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Malaysiotermes holmgreni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/malaysiotermes-holmgreni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Aciculioiditermes denticulatus Ahmad, 1968: 22-23",
+   "authorship": "Ahmad, 1968",
+   "localityAlignment": "matched",
+   "name": "Aciculioiditermes denticulatus",
+   "note": "",
+   "reference": "22-23",
+   "typeLocality": "Malaysia: Sarawak: Sabal Tapang"
+  },
+  {
+   "asPublished": "Aciculioiditermes sarawakensis Ahmad, 1968: 23-25",
+   "authorship": "Ahmad, 1968",
+   "localityAlignment": "matched",
+   "name": "Aciculioiditermes sarawakensis",
+   "note": "",
+   "reference": "23-25",
+   "typeLocality": "Malaysia: Sarawak"
+  }
+ ],
+ "typeLocality": "Malaysia: Sarawak, 12 miles S of Kuching",
+ "version": "2026.11.21",
+ "zh": "霍姆格伦马来白蚁"
+}

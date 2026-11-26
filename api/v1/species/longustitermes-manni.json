@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/longustitermes-manni.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1922",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "longustitermes",
+   "latin": "Longustitermes",
+   "zh": "长工白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, French Guiana, Colombia, Peru, Bolivia, Costa Rica, Honduras, Panama",
+  "zh": "巴西、法属圭亚那、哥伦比亚、秘鲁、玻利维亚、哥斯达黎加、洪都拉斯、巴拿马"
+ },
+ "isTypeSpecies": true,
+ "latin": "Longustitermes manni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/longustitermes-manni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Anoplotermes ( Anoplotermes ) linearis Snyder, 1926: 53-54",
+   "authorship": "Snyder, 1926",
+   "localityAlignment": "matched",
+   "name": "Anoplotermes (Anoplotermes) linearis",
+   "note": "",
+   "reference": "53-54",
+   "typeLocality": "Bolivia: La Paz: Tumupasa [ 14.15S 67.9167W ]"
+  }
+ ],
+ "typeLocality": "Honduras: Lombardia",
+ "version": "2026.11.21",
+ "zh": "曼长工白蚁"
+}

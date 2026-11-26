@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/trinervitermes-gratiosus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1924",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "trinervitermes",
+   "latin": "Trinervitermes",
+   "zh": "三脉白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Angola, Burundi, Democratic Republic of the Congo (Kinshasa), Kenya, Rwanda, Tanzania, Uganda, Zambia, Democratic Republic of the Congo (Kinshasa)",
+  "zh": "安哥拉、布隆迪、刚果（金）、肯尼亚、卢旺达、坦桑尼亚、乌干达、赞比亚、刚果民主共和国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Trinervitermes gratiosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/trinervitermes-gratiosus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Trinervitermes) carbo Sjöstedt, 1924: 42",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Trinervitermes) carbo",
+   "note": "",
+   "reference": "42",
+   "typeLocality": "Democratic Republic of the Congo: Luluabourg"
+  }
+ ],
+ "typeLocality": "Democratic Republic of the Congo: Luluabourg",
+ "version": "2026.11.21",
+ "zh": "常见三脉白蚁"
+}

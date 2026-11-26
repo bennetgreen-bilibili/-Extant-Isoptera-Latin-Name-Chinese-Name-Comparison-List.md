@@ -1,0 +1,57 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/kalotermes-italicus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Kalotermitidae",
+   "family_zh": "木白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Kalotermes italicus",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "kalotermes-italicus",
+   "source": "gbif",
+   "theirs": "Kalotermes Hagen, 1853",
+   "url": null,
+   "verified": false,
+   "zh": "意大利木白蚁"
+  }
+ ],
+ "authorship": "Ghesini & Marini, 2013",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "kalotermes",
+   "latin": "Kalotermes",
+   "zh": "木白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "central Italy, Tuscany, United States",
+  "zh": "意大利中部、托斯卡纳、美国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Kalotermes italicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/kalotermes-italicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Italy: Tuscany: Grosseto Marina",
+ "version": "2026.11.21",
+ "zh": "意大利木白蚁"
+}

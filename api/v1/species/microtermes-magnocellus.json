@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microtermes-magnocellus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1915",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microtermes",
+   "latin": "Microtermes",
+   "zh": "小白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Ethiopia, Malawi, Tanzania, Zambia",
+  "zh": "埃塞俄比亚、马拉维、坦桑尼亚、赞比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microtermes magnocellus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microtermes-magnocellus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Tanzania: Tanga",
+ "version": "2026.11.21",
+ "zh": "大单眼小白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ovambotermes-sylvaticus.json",
+ "apiVersion": "1",
+ "authorship": "Coaton, 1971",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ovambotermes",
+   "latin": "Ovambotermes",
+   "zh": "奥万博兰白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Namibia, Zambia",
+  "zh": "纳米比亚、赞比亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Ovambotermes sylvaticus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ovambotermes-sylvaticus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Namibia: 16 km ex Rundu-Gootfontein",
+ "version": "2026.11.21",
+ "zh": "林地奥万博兰白蚁"
+}

@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/bulbitermes-constrictiformis.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "bulbitermes",
+   "latin": "Bulbitermes",
+   "zh": "瓢白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Southeast Asia, Indonesia, Sumatra, Malaysia",
+  "zh": "东南亚、印度尼西亚苏门答腊、马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Bulbitermes constrictiformis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/bulbitermes-constrictiformis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Eutermes) latinasus Holmgren, 1914: 260-261",
+   "authorship": "Holmgren, 1914",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Eutermes) latinasus",
+   "note": "",
+   "reference": "260-261",
+   "typeLocality": "Indonesia: Sumatra: Bandar Baroe"
+  }
+ ],
+ "typeLocality": "Indonesia: Sumatra: Bahsoemboe; Malaysia: Taiping: Gunong Hijau; Taiping: Maxwell’s Hill",
+ "version": "2026.11.21",
+ "zh": "类紧缩瓢白蚁"
+}

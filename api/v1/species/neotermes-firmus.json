@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-firmus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1911",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Kenya",
+  "zh": "肯尼亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes firmus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-firmus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Kenya: River Luazomela near Guaso Nyiri N of Mt Kenya",
+ "version": "2026.11.21",
+ "zh": "坚固新白蚁"
+}

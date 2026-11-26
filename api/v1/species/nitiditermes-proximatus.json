@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nitiditermes-proximatus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nitiditermes",
+   "latin": "Nitiditermes",
+   "zh": "净白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Senegal, Côte d'Ivoire, Burkina Faso, Kenya, Tanzania",
+  "zh": "西非、塞内加尔、科特迪瓦、布基纳法索、肯尼亚、坦桑尼亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nitiditermes proximatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nitiditermes-proximatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guinea: Kindia; Mamou",
+ "version": "2026.11.21",
+ "zh": "近净白蚁"
+}

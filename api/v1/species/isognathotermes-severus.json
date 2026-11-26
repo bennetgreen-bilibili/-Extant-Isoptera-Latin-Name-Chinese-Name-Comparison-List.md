@@ -1,0 +1,80 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/isognathotermes-severus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Isognathotermes severus",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "isognathotermes-severus",
+   "source": "gbif",
+   "theirs": "Isognathotermes Sjöstedt, 1926",
+   "url": null,
+   "verified": false,
+   "zh": "严肃等颚白蚁"
+  }
+ ],
+ "authorship": "Silvestri, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "isognathotermes",
+   "latin": "Isognathotermes",
+   "zh": "等颚白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Côte d'Ivoire, Cameroon, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sudan, Tanzania",
+  "zh": "西非科特迪瓦、喀麦隆、刚果民主共和国、冈比亚、几内亚、尼日利亚、苏丹、坦桑尼亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Isognathotermes severus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/isognathotermes-severus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Cubitermes severus var. modestior Silvestri, 1914: 93-94",
+   "authorship": "Silvestri, 1914",
+   "localityAlignment": "absent",
+   "name": "Cubitermes severus var. modestior",
+   "note": "",
+   "reference": "93-94",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Cubitermes silvestrii Sjöstedt, 1925: 54",
+   "authorship": "Sjöstedt, 1925",
+   "localityAlignment": "absent",
+   "name": "Cubitermes silvestrii",
+   "note": "",
+   "reference": "54",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Guinea: Camayenne; Kakoulima",
+ "version": "2026.11.21",
+ "zh": "严肃等颚白蚁"
+}

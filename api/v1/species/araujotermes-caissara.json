@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/araujotermes-caissara.json",
+ "apiVersion": "1",
+ "authorship": "Fontes, 1982",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "araujotermes",
+   "latin": "Araujotermes",
+   "zh": "阿劳若白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Argentina",
+  "zh": "巴西、阿根廷"
+ },
+ "isTypeSpecies": true,
+ "latin": "Araujotermes caissara",
+ "pageUrl": "https://termite-extant-isoptera.org/species/araujotermes-caissara/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Santa Catarina: Itapema [27.0903S 48.6114W]",
+ "version": "2026.11.21",
+ "zh": "凯萨拉阿劳若白蚁"
+}

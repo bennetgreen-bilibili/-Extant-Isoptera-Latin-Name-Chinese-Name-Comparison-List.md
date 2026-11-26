@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-parallelus.json",
+ "apiVersion": "1",
+ "authorship": "Li, 1986",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Guangdong (Dabu), Hainan (Wuzhi Mountain), China",
+  "zh": "广东（大埔）、海南（五指山）、中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes parallelus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-parallelus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Guangdong Province: Huiyang County",
+ "version": "2026.11.21",
+ "zh": "平行土白蚁"
+}

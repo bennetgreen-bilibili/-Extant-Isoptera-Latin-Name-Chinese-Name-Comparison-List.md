@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/sinonasutitermes-xiai.json",
+ "apiVersion": "1",
+ "authorship": "Ping & Xu, 1991",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "sinonasutitermes",
+   "latin": "Sinonasutitermes",
+   "zh": "华象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "China",
+  "zh": "中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Sinonasutitermes xiai",
+ "pageUrl": "https://termite-extant-isoptera.org/species/sinonasutitermes-xiai/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Jiangxi Province: Wuyuan County",
+ "version": "2026.11.21",
+ "zh": "夏氏华象白蚁"
+}

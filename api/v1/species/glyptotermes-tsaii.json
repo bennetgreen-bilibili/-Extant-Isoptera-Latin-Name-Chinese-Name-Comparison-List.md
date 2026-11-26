@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-tsaii.json",
+ "apiVersion": "1",
+ "authorship": "Huang & Zhu, 1986",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "China (Yunnan)",
+  "zh": "中国云南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glyptotermes tsaii",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-tsaii/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Yunnan Province: Gongshan County: Drung-Nu",
+ "version": "2026.11.21",
+ "zh": "蔡氏树白蚁"
+}

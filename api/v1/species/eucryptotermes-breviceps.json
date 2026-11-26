@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/eucryptotermes-breviceps.json",
+ "apiVersion": "1",
+ "authorship": "Constantino, 1997",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "eucryptotermes",
+   "latin": "Eucryptotermes",
+   "zh": "真砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "South America, Brazil, French Guiana",
+  "zh": "南美洲、巴西、法属圭亚那"
+ },
+ "isTypeSpecies": false,
+ "latin": "Eucryptotermes breviceps",
+ "pageUrl": "https://termite-extant-isoptera.org/species/eucryptotermes-breviceps/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Amazonas: Balbina (hydroelectric dam) [ 1.513S 59.8419W ]",
+ "version": "2026.11.21",
+ "zh": "短头真砂白蚁"
+}

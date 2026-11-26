@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/mastotermes-darwiniensis.json",
+ "apiVersion": "1",
+ "authorship": "Froggatt, 1897",
+ "classification": {
+  "clade": {
+   "id": "isoptera",
+   "latin": "Extant Isoptera",
+   "zh": "现存等翅下目"
+  },
+  "family": {
+   "id": "mastotermitidae",
+   "latin": "Mastotermitidae",
+   "zh": "澳白蚁科"
+  },
+  "genus": {
+   "id": "mastotermes",
+   "latin": "Mastotermes",
+   "zh": "澳白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "northern Australia, tropical northern region, introduced: Papua New Guinea",
+  "zh": "澳大利亚北部、热带北部地区、引入：巴布亚新几内亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Mastotermes darwiniensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/mastotermes-darwiniensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes errabundus Froggatt, 1898: 733",
+   "authorship": "Froggatt, 1898",
+   "localityAlignment": "matched",
+   "name": "Termes errabundus",
+   "note": "",
+   "reference": "733",
+   "typeLocality": "Australia: Queensland: north Queensland"
+  }
+ ],
+ "typeLocality": "Australia: Northern Territory: Darwin",
+ "version": "2026.11.21",
+ "zh": "达尔文澳白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/rugitermes-flavicinctus.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1925",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "rugitermes",
+   "latin": "Rugitermes",
+   "zh": "皱白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Brazil, Guyana, Trinidad and Tobago",
+  "zh": "巴西、圭亚那、特立尼达和多巴哥"
+ },
+ "isTypeSpecies": false,
+ "latin": "Rugitermes flavicinctus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/rugitermes-flavicinctus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]",
+ "version": "2026.11.21",
+ "zh": "金黄皱白蚁"
+}

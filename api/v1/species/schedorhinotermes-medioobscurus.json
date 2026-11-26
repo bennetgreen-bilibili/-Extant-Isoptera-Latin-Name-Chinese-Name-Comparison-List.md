@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/schedorhinotermes-medioobscurus.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1914",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "schedorhinotermes",
+   "latin": "Schedorhinotermes",
+   "zh": "长鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Southeast Asia, Indonesia, Thailand, Malaysia, Cambodia, Singapore, Vietnam, Philippines, China, India",
+  "zh": "东南亚、印度尼西亚、泰国、马来西亚、柬埔寨、新加坡、越南、菲律宾、中国、印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Schedorhinotermes medioobscurus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/schedorhinotermes-medioobscurus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Rhinotermes ( Schedorhinotermes ) tarakensis Oshima, 1914: 28-29",
+   "authorship": "Oshima, 1914",
+   "localityAlignment": "unmatched",
+   "name": "Rhinotermes (Schedorhinotermes) tarakensis",
+   "note": "",
+   "reference": "28-29",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Schedorhinotermes javanicus Kemner, 1934: 51-54",
+   "authorship": "Kemner, 1934",
+   "localityAlignment": "unmatched",
+   "name": "Schedorhinotermes javanicus",
+   "note": "",
+   "reference": "51-54",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Indonesia: Sumatra: Tandjong Slamat; Malaysia: Malacca: Trong, near Taiping",
+ "version": "2026.11.21",
+ "zh": "中暗长鼻白蚁"
+}

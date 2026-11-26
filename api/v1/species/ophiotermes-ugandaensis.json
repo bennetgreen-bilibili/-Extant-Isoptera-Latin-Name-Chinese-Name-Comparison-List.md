@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ophiotermes-ugandaensis.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1925",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ophiotermes",
+   "latin": "Ophiotermes",
+   "zh": "蛇白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Angola, Democratic Republic of the Congo, Rwanda, Tanzania, Uganda",
+  "zh": "安哥拉、刚果民主共和国、卢旺达、坦桑尼亚、乌干达"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ophiotermes ugandaensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ophiotermes-ugandaensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Uganda: Kamozi",
+ "version": "2026.11.21",
+ "zh": "乌干达蛇白蚁"
+}

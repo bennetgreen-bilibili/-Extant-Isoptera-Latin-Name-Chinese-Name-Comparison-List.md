@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/krishnacapritermes-dineshan.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Krishnacapritermes dineshan",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "krishnacapritermes-dineshan",
+   "source": "gbif",
+   "theirs": "Krishnacapritermes Chhotani, 1997",
+   "url": null,
+   "verified": false,
+   "zh": "迪内尚克里希纳扭白蚁"
+  }
+ ],
+ "authorship": "Amina & Rajmohana, 2019",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "krishnacapritermes",
+   "latin": "Krishnacapritermes",
+   "zh": "克里希纳扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "India, Kerala, Western Ghats",
+  "zh": "印度、喀拉拉邦西高止山"
+ },
+ "isTypeSpecies": false,
+ "latin": "Krishnacapritermes dineshan",
+ "pageUrl": "https://termite-extant-isoptera.org/species/krishnacapritermes-dineshan/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Kerala: Idukki (Kurunjimala Shola)",
+ "version": "2026.11.21",
+ "zh": "迪内尚克里希纳扭白蚁"
+}

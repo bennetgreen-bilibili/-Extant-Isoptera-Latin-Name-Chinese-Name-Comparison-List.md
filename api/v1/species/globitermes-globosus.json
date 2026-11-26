@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/globitermes-globosus.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "globitermes",
+   "latin": "Globitermes",
+   "zh": "球白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Southeast Asian islands, Malay Archipelago",
+  "zh": "东南亚岛屿、南洋群岛"
+ },
+ "isTypeSpecies": true,
+ "latin": "Globitermes globosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/globitermes-globosus/",
+ "rank": "species",
+ "subspecies": [
+  {
+   "authorship": "Holmgren, 1913",
+   "latin": "Globitermes globosus depilis",
+   "pageUrl": "https://termite-extant-isoptera.org/species/globitermes-globosus-depilis/",
+   "slug": "globitermes-globosus-depilis",
+   "zh": "无毛亚种"
+  },
+  {
+   "authorship": "Haviland, 1898",
+   "latin": "Globitermes globosus globosus",
+   "pageUrl": "https://termite-extant-isoptera.org/species/globitermes-globosus-globosus/",
+   "slug": "globitermes-globosus-globosus",
+   "zh": "指名亚种"
+  }
+ ],
+ "synonyms": [],
+ "typeLocality": "Malaysia: Sarawak: Mt. Lambir",
+ "version": "2026.11.21",
+ "zh": "球形球白蚁"
+}

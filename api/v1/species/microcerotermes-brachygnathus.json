@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-brachygnathus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, Burkina Faso, Indonesia, Guinea, South Africa, Tanzania, Zambia, Zimbabwe",
+  "zh": "旧热带界、布基纳法索、印度尼西亚、几内亚、南非、坦桑尼亚、赞比亚、津巴布韦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes brachygnathus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-brachygnathus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guinea: Kindia",
+ "version": "2026.11.21",
+ "zh": "短颚锯白蚁"
+}

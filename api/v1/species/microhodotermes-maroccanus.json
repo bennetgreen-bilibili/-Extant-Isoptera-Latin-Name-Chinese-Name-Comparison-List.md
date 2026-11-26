@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microhodotermes-maroccanus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1926",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "hodotermitidae",
+   "latin": "Hodotermitidae",
+   "zh": "草白蚁科"
+  },
+  "genus": {
+   "id": "microhodotermes",
+   "latin": "Microhodotermes",
+   "zh": "小草白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Morocco, Algeria",
+  "zh": "摩洛哥、阿尔及利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microhodotermes maroccanus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microhodotermes-maroccanus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Morocco: Dar Kaïd; Dar Kaïd Enbarck Imi; M’tougui; N’takandout",
+ "version": "2026.11.21",
+ "zh": "摩洛哥小草白蚁"
+}

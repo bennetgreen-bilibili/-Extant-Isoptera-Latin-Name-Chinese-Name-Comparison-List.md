@@ -1,0 +1,35 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/reticulitermes-speratus-kyushuensis.json",
+ "apiVersion": "1",
+ "authorship": "Morimoto, 1968",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "reticulitermes",
+   "latin": "Reticulitermes",
+   "zh": "散白蚁属"
+  },
+  "subfamily": null
+ },
+ "latin": "Reticulitermes speratus kyushuensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/reticulitermes-speratus-kyushuensis/",
+ "parent": {
+  "latin": "Reticulitermes speratus",
+  "slug": "reticulitermes-speratus",
+  "zh": "栖北散白蚁"
+ },
+ "rank": "subspecies",
+ "synonyms": [],
+ "typeLocality": "Japan: Asa, Asacho, Fukuoka, Hiroshima, Kashii",
+ "version": "2026.11.21",
+ "zh": "九州亚种"
+}

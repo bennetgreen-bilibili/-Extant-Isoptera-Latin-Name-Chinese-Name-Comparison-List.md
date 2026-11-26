@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/schedorhinotermes-fortignathus.json",
+ "apiVersion": "1",
+ "authorship": "Xia & He, 1980",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "schedorhinotermes",
+   "latin": "Schedorhinotermes",
+   "zh": "长鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Yunnan (Simao).",
+  "zh": "云南（思茅）。"
+ },
+ "isTypeSpecies": false,
+ "latin": "Schedorhinotermes fortignathus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/schedorhinotermes-fortignathus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Yunnan Province: Simao",
+ "version": "2026.11.21",
+ "zh": "强颚长鼻白蚁"
+}

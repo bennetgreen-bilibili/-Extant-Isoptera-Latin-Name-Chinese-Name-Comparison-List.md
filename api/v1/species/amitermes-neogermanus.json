@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-neogermanus.json",
+ "apiVersion": "1",
+ "authorship": "Hill, 1922",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes neogermanus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-neogermanus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Hamitermes perplexus victoriensis Hill, 1922: 388-389",
+   "authorship": "Hill, 1922",
+   "localityAlignment": "matched",
+   "name": "Hamitermes perplexus victoriensis",
+   "note": "",
+   "reference": "388-389",
+   "typeLocality": "Australia: Victoria: Preston"
+  }
+ ],
+ "typeLocality": "Australia: South Australia: Mt. Lofty Range",
+ "version": "2026.11.21",
+ "zh": "新芽弓白蚁"
+}

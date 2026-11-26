@@ -1,0 +1,58 @@
+{
+ "apiVersion": "1",
+ "baseUrl": "https://termite-extant-isoptera.org/api/v1/",
+ "citation": "班奈特格林. 现存等翅下目（白蚁）拉丁学名—中文正名对照名录（2026.11.21 正式版）. Zenodo. https://doi.org/10.5281/zenodo.23646836",
+ "counts": {
+  "clades": 6,
+  "families": 13,
+  "genera": 326,
+  "species": 3021,
+  "subfamilies": 18,
+  "subspecies": 68
+ },
+ "dateModified": "2026-11-21",
+ "docs": {
+  "en": "https://termite-extant-isoptera.org/en/api/",
+  "es": "https://termite-extant-isoptera.org/es/api/",
+  "zh": "https://termite-extant-isoptera.org/api/"
+ },
+ "endpoints": {
+  "authorityChecks": {
+   "count": 328,
+   "url": "https://termite-extant-isoptera.org/data/name-issues.json"
+  },
+  "names": {
+   "entries": 11486,
+   "url": "https://termite-extant-isoptera.org/api/v1/names.json"
+  },
+  "species": {
+   "count": 3089,
+   "urlTemplate": "https://termite-extant-isoptera.org/api/v1/species/{slug}.json"
+  },
+  "taxonomy": {
+   "families": 13,
+   "url": "https://termite-extant-isoptera.org/api/v1/taxonomy.json"
+  }
+ },
+ "license": {
+  "identifier": "CC-BY-4.0",
+  "name": "Creative Commons Attribution 4.0 International",
+  "url": "https://creativecommons.org/licenses/by/4.0/"
+ },
+ "matching": {
+  "absent": "an absent key means the name is not in the checklist",
+  "lookup": "names.json is the whole lookup table; a static host has no query-string endpoint",
+  "normalization": "Unicode NFKC, trim, collapse whitespace, lowercase",
+  "values": {
+   "accepted": "an accepted species or subspecies name in the checklist",
+   "ambiguous": "the key matches more than one taxon; candidates lists them all",
+   "family": "a family",
+   "genus": "a genus",
+   "subfamily": "a subfamily",
+   "synonym": "a synonym; acceptedSlug points to the accepted record",
+   "zh": "a Chinese standard name"
+  }
+ },
+ "name": "extant-isoptera-api",
+ "version": "2026.11.21"
+}

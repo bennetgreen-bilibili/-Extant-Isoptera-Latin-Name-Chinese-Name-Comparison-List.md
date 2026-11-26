@@ -1,0 +1,65 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-zuluensis.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1913",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, West Africa, southern Africa",
+  "zh": "旧热带界、西非、非洲南部"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes zuluensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-zuluensis/",
+ "rank": "species",
+ "subspecies": [
+  {
+   "authorship": "Holmgren, 1913",
+   "latin": "Microcerotermes zuluensis rubriceps",
+   "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-zuluensis-rubriceps/",
+   "slug": "microcerotermes-zuluensis-rubriceps",
+   "zh": "红头亚种"
+  },
+  {
+   "authorship": "Holmgren, 1913",
+   "latin": "Microcerotermes zuluensis zuluensis",
+   "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-zuluensis-zuluensis/",
+   "slug": "microcerotermes-zuluensis-zuluensis",
+   "zh": "指名亚种"
+  }
+ ],
+ "synonyms": [
+  {
+   "asPublished": "Microcerotermes zuluensis grandis Holmgren, 1913: 364",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "matched",
+   "name": "Microcerotermes zuluensis grandis",
+   "note": "",
+   "reference": "364",
+   "typeLocality": "South Africa: Zululand"
+  }
+ ],
+ "typeLocality": "South Africa: Zululand: Entendweni, Mkosi, Mtewa, Somkele",
+ "version": "2026.11.21",
+ "zh": "祖鲁锯白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/stolotermes-inopinus.json",
+ "apiVersion": "1",
+ "authorship": "Gay, 1969",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "stolotermitidae",
+   "latin": "Stolotermitidae",
+   "zh": "胄白蚁科"
+  },
+  "genus": {
+   "id": "stolotermes",
+   "latin": "Stolotermes",
+   "zh": "胄白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "New Zealand",
+  "zh": "新西兰"
+ },
+ "isTypeSpecies": false,
+ "latin": "Stolotermes inopinus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/stolotermes-inopinus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "New Zealand: Wellington, 2 mi E of Eastbourne",
+ "version": "2026.11.21",
+ "zh": "未料胄白蚁"
+}

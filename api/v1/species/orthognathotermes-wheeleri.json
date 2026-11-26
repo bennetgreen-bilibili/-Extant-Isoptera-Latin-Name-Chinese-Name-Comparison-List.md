@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/orthognathotermes-wheeleri.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1923",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "orthognathotermes",
+   "latin": "Orthognathotermes",
+   "zh": "直颚白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Amazon region, Colombia, Panama",
+  "zh": "亚马孙地区、哥伦比亚、巴拿马"
+ },
+ "isTypeSpecies": false,
+ "latin": "Orthognathotermes wheeleri",
+ "pageUrl": "https://termite-extant-isoptera.org/species/orthognathotermes-wheeleri/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Panama: Barro Colorado Island",
+ "version": "2026.11.21",
+ "zh": "惠勒直颚白蚁"
+}

@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/postelectrotermes-praecox.json",
+ "apiVersion": "1",
+ "authorship": "Hagen, 1858",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "postelectrotermes",
+   "latin": "Postelectrotermes",
+   "zh": "后琥珀白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Madeira (Portugal)",
+  "zh": "马德拉群岛（葡）"
+ },
+ "isTypeSpecies": true,
+ "latin": "Postelectrotermes praecox",
+ "pageUrl": "https://termite-extant-isoptera.org/species/postelectrotermes-praecox/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Calotermes barretoi Grassé, 1939: 182-184",
+   "authorship": "Grassé, 1939",
+   "localityAlignment": "matched",
+   "name": "Calotermes barretoi",
+   "note": "",
+   "reference": "182-184",
+   "typeLocality": "Madeira Island (Portugal): Serra d’Agua"
+  }
+ ],
+ "typeLocality": "Madeira Island (Portugal): ?",
+ "version": "2026.11.21",
+ "zh": "早熟后琥珀白蚁"
+}

@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/polyspathotermes-montanus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 94,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Polyspathotermes montanus",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "polyspathotermes-montanus",
+   "source": "gbif",
+   "theirs": "Polyspathotermes Josens & Deligne, 2021",
+   "url": null,
+   "verified": false,
+   "zh": "高山多铲白蚁"
+  }
+ ],
+ "authorship": "Williams, 1966",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "polyspathotermes",
+   "latin": "Polyspathotermes",
+   "zh": "多铲白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Malawi, Tanzania, Zambia",
+  "zh": "马拉维、坦桑尼亚、赞比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Polyspathotermes montanus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/polyspathotermes-montanus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malawi: Nyika plateau, 22 m along access road from Rumpi-Chisenga road",
+ "version": "2026.11.21",
+ "zh": "高山多铲白蚁"
+}

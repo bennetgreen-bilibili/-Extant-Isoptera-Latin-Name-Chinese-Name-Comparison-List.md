@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neocapritermes-bodkini.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1923",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "neocapritermes",
+   "latin": "Neocapritermes",
+   "zh": "新扭白蚁属"
+  },
+  "subfamily": {
+   "id": "neocapritermitinae",
+   "latin": "Neocapritermitinae",
+   "zh": "新扭白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Colombia, Guyana, Brazil, Peru",
+  "zh": "哥伦比亚、圭亚那、巴西、秘鲁"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neocapritermes bodkini",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neocapritermes-bodkini/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Capritermes bodkini modestior Silvestri, 1923: 315-318",
+   "authorship": "Silvestri, 1923",
+   "localityAlignment": "matched",
+   "name": "Capritermes bodkini modestior",
+   "note": "",
+   "reference": "315-318",
+   "typeLocality": "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]"
+  }
+ ],
+ "typeLocality": "Guyana: Potaro-Siparuni: Tumatumari [ 5.27N 59.14W ]",
+ "version": "2026.11.21",
+ "zh": "博德金新扭白蚁"
+}

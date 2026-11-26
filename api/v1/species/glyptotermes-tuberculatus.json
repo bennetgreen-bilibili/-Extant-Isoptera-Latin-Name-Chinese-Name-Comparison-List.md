@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-tuberculatus.json",
+ "apiVersion": "1",
+ "authorship": "Froggatt, 1897",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Australia, New Zealand",
+  "zh": "澳大利亚、新西兰"
+ },
+ "isTypeSpecies": true,
+ "latin": "Glyptotermes tuberculatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-tuberculatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Australia: New South Wales: Uralla",
+ "version": "2026.11.21",
+ "zh": "具瘤树白蚁"
+}

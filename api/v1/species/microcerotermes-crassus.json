@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-crassus.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1934",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Southeast Asia, Philippines, Thailand, Myanmar, Singapore, Bangladesh, China, India, Malaysia, Vietnam",
+  "zh": "东南亚、菲律宾、泰国、缅甸、新加坡、孟加拉国、中国、印度、马来西亚、越南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes crassus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-crassus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Microcerotermes burmanicus Ahmad, 1947: 6",
+   "authorship": "Ahmad, 1947",
+   "localityAlignment": "matched",
+   "name": "Microcerotermes burmanicus",
+   "note": "",
+   "reference": "6",
+   "typeLocality": "Myanmar: Rangoon: Pagan Road"
+  }
+ ],
+ "typeLocality": "Myanmar: Meitkyina",
+ "version": "2026.11.21",
+ "zh": "大锯白蚁"
+}

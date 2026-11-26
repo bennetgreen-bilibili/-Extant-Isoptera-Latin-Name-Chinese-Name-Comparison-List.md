@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-longigula.json",
+ "apiVersion": "1",
+ "authorship": "Roy-Noël, 1969",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Senegal",
+  "zh": "西非塞内加尔"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes longigula",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-longigula/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Senegal: Niokolo-Kobo region, near clearing of Siminti",
+ "version": "2026.11.21",
+ "zh": "长喉土白蚁"
+}

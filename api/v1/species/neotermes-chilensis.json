@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-chilensis.json",
+ "apiVersion": "1",
+ "authorship": "Blanchard, 1851",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Chile",
+  "zh": "智利"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes chilensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-chilensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Calotermes chilensis zapallarensis Goetsch, 1933: 229",
+   "authorship": "Goetsch, 1933",
+   "localityAlignment": "matched",
+   "name": "Calotermes chilensis zapallarensis",
+   "note": "",
+   "reference": "229",
+   "typeLocality": "Chile: Valparaíso: Zapallar [ 34.05S 71.5333W ]"
+  }
+ ],
+ "typeLocality": "Chile: ?",
+ "version": "2026.11.21",
+ "zh": "智利新白蚁"
+}

@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/bulbitermes-debadiliporum.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Bulbitermes debadiliporum",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "bulbitermes-debadiliporum",
+   "source": "gbif",
+   "theirs": "Bulbitermes Emerson, 1949",
+   "url": null,
+   "verified": false,
+   "zh": "德巴迪利普瓢白蚁"
+  }
+ ],
+ "authorship": "Das & Choudhury, 2023",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "bulbitermes",
+   "latin": "Bulbitermes",
+   "zh": "瓢白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Southeast Asia, Indonesia, Malaysia, Singapore, Philippines, Vietnam",
+  "zh": "东南亚、印度尼西亚、马来西亚、新加坡、菲律宾、越南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Bulbitermes debadiliporum",
+ "pageUrl": "https://termite-extant-isoptera.org/species/bulbitermes-debadiliporum/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Meghalaya: Mawlynnong, East Khasi Hills [25.2047N 91.9112E]",
+ "version": "2026.11.21",
+ "zh": "德巴迪利普瓢白蚁"
+}

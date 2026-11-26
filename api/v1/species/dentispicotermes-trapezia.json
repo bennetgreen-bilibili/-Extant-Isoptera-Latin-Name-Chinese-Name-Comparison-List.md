@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/dentispicotermes-trapezia.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Dentispicotermes trapezia",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "dentispicotermes-trapezia",
+   "source": "gbif",
+   "theirs": "Dentispicotermes Emerson, 1949",
+   "url": null,
+   "verified": false,
+   "zh": "梯形齿尖白蚁"
+  }
+ ],
+ "authorship": "Scheffrahn, 2024",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "dentispicotermes",
+   "latin": "Dentispicotermes",
+   "zh": "齿尖白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Bolivia, Paraguay, Pantanal–Chaco",
+  "zh": "玻利维亚、巴拉圭、潘塔纳尔-查科"
+ },
+ "isTypeSpecies": false,
+ "latin": "Dentispicotermes trapezia",
+ "pageUrl": "https://termite-extant-isoptera.org/species/dentispicotermes-trapezia/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Paraguay: Concepción: Arroyito: \"Private Reserve forest\" [ 23.05S 56.728W ]",
+ "version": "2026.11.21",
+ "zh": "梯形齿尖白蚁"
+}

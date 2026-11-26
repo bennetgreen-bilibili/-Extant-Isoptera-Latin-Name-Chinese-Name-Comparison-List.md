@@ -1,0 +1,95 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/reticulitermes-aegeus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Heterotermitidae",
+   "family_zh": "异白蚁科",
+   "group": "match",
+   "kind": "ambiguous",
+   "latin": "Reticulitermes aegeus",
+   "match": null,
+   "note": "仅模糊候选：OTU 83234 Reticulitermes Holmgren, 1913；OTU 83237 Reticulitermes altus Gao, Pan, Ma & Shi, 1982；OTU 83240 Reticulitermes ancyleus Ping, 1986；OTU 83264 Reticulitermes croceus Ping & Xu, 1982",
+   "rank": "种",
+   "slug": "reticulitermes-aegeus",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "爱琴散白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Heterotermitidae",
+   "family_zh": "异白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Reticulitermes aegeus",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "reticulitermes-aegeus",
+   "source": "gbif",
+   "theirs": "Reticulitermes Holmgren, 1913",
+   "url": null,
+   "verified": false,
+   "zh": "爱琴散白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Heterotermitidae",
+   "family_zh": "异白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Reticulitermes aegeus",
+   "match": "higherrank",
+   "note": "",
+   "rank": "种",
+   "slug": "reticulitermes-aegeus",
+   "source": "col",
+   "theirs": "Reticulitermes Holmgren, 1913",
+   "url": null,
+   "verified": false,
+   "zh": "爱琴散白蚁"
+  }
+ ],
+ "authorship": "Ghesini & Marini, 2015",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "reticulitermes",
+   "latin": "Reticulitermes",
+   "zh": "散白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "eastern Mediterranean, Croatia, Greece, Turkey, Cyprus",
+  "zh": "东地中海、克罗地亚、希腊、土耳其、塞浦路斯"
+ },
+ "isTypeSpecies": false,
+ "latin": "Reticulitermes aegeus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/reticulitermes-aegeus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cyprus: Kakopetria",
+ "version": "2026.11.21",
+ "zh": "爱琴散白蚁"
+}

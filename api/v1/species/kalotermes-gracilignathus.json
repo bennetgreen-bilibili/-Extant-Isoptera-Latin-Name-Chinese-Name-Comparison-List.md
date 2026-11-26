@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/kalotermes-gracilignathus.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1924",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "kalotermes",
+   "latin": "Kalotermes",
+   "zh": "木白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Chile, Juan Fernández Islands, Peru",
+  "zh": "智利、胡安费尔南德斯群岛、秘鲁"
+ },
+ "isTypeSpecies": false,
+ "latin": "Kalotermes gracilignathus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/kalotermes-gracilignathus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Chile: Juan Fernandez Islands, Robinson Crusoe [ 33.646S 78.84W ]",
+ "version": "2026.11.21",
+ "zh": "细颚木白蚁"
+}

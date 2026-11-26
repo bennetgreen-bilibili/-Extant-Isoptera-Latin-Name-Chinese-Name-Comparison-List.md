@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/anacanthotermes-murgabicus.json",
+ "apiVersion": "1",
+ "authorship": "Vasiljev, 1911",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "hodotermitidae",
+   "latin": "Hodotermitidae",
+   "zh": "草白蚁科"
+  },
+  "genus": {
+   "id": "anacanthotermes",
+   "latin": "Anacanthotermes",
+   "zh": "无刺白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Turkmenistan",
+  "zh": "土库曼斯坦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Anacanthotermes murgabicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/anacanthotermes-murgabicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Turkmenistan: Kreise Merv von Transkaspien: River Murgab near Schleuse Kazyhly-Beut",
+ "version": "2026.11.21",
+ "zh": "穆尔加布无刺白蚁"
+}

@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/rugitermes-panamae.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1925",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "rugitermes",
+   "latin": "Rugitermes",
+   "zh": "皱白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Panama",
+  "zh": "巴拿马"
+ },
+ "isTypeSpecies": false,
+ "latin": "Rugitermes panamae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/rugitermes-panamae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Kalotermes ( Rugitermes ) isthmi Snyder, 1925: 198-200",
+   "authorship": "Snyder, 1925",
+   "localityAlignment": "matched",
+   "name": "Kalotermes (Rugitermes) isthmi",
+   "note": "",
+   "reference": "198-200",
+   "typeLocality": "Panama: Barro Colorado Island"
+  }
+ ],
+ "typeLocality": "Panama: Rio Chinilla",
+ "version": "2026.11.21",
+ "zh": "巴拿马皱白蚁"
+}

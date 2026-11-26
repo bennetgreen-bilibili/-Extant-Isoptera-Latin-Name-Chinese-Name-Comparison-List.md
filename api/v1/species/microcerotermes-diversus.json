@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-diversus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1920",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Middle East, Iraq, Iran, Saudi Arabia, Oman, Kuwait, Yemen",
+  "zh": "中东、伊拉克、伊朗、沙特阿拉伯、阿曼、科威特、也门"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes diversus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-diversus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Iraq: Al Amarah (Amara)",
+ "version": "2026.11.21",
+ "zh": "不同锯白蚁"
+}

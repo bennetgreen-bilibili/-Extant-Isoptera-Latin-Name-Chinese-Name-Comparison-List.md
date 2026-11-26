@@ -1,0 +1,73 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-castaneus.json",
+ "apiVersion": "1",
+ "authorship": "Burmeister, 1839",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Central America (Panama, Costa Rica, Belize, Guatemala, Honduras, Nicaragua), Caribbean region (Bahamas, Cuba, Barbados, Bermuda, Cayman Islands, Dominica, Dominican Republic, Haiti, Jamaica, Montserrat, Puerto Rico, Trinidad and Tobago, Turks and Caicos Islands), United States, South America (Brazil, Chile, Colombia, French Guiana, Venezuela)",
+  "zh": "中美洲（巴拿马、哥斯达黎加、伯利兹、危地马拉、洪都拉斯、尼加拉瓜）、加勒比海地区（巴哈马、古巴、巴巴多斯、百慕大、开曼群岛、多米尼克、多米尼加、海地、牙买加、蒙特塞拉特、波多黎各、特立尼达和多巴哥、特克斯和凯科斯群岛）、美国、南美洲（巴西、智利、哥伦比亚、法属圭亚那、委内瑞拉）"
+ },
+ "isTypeSpecies": true,
+ "latin": "Neotermes castaneus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-castaneus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes anticus Walker, 1853: 523",
+   "authorship": "Walker, 1853",
+   "localityAlignment": "matched",
+   "name": "Termes anticus",
+   "note": "",
+   "reference": "523",
+   "typeLocality": "Honduras: ?"
+  },
+  {
+   "asPublished": "Termes guatimalae Walker, 1853: 528",
+   "authorship": "Walker, 1853",
+   "localityAlignment": "matched",
+   "name": "Termes guatimalae",
+   "note": "",
+   "reference": "528",
+   "typeLocality": "Guatemala: ?"
+  },
+  {
+   "asPublished": "Neotermes elevatus Banks, 1919: 477",
+   "authorship": "Banks, 1919",
+   "localityAlignment": "matched",
+   "name": "Neotermes elevatus",
+   "note": "",
+   "reference": "477",
+   "typeLocality": "Dominica: Laudat"
+  },
+  {
+   "asPublished": "Neotermes angustoculus Snyder, 1924: 8-9",
+   "authorship": "Snyder, 1924",
+   "localityAlignment": "matched",
+   "name": "Neotermes angustoculus",
+   "note": "",
+   "reference": "8-9",
+   "typeLocality": "United States: Florida: Dade County: Paradise Key"
+  }
+ ],
+ "typeLocality": "Puerto Rico: ?",
+ "version": "2026.11.21",
+ "zh": "栗色新白蚁"
+}

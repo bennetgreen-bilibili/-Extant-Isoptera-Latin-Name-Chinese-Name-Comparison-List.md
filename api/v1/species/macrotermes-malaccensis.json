@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-malaccensis.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Southeast Asia, Malaysia, Indonesia, Singapore, Cambodia, Thailand, Vietnam",
+  "zh": "东南亚、马来西亚、印度尼西亚、新加坡、柬埔寨、泰国、越南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes malaccensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-malaccensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Gnathotermes aurivillii Holmgren, 1912: 23",
+   "authorship": "Holmgren, 1912",
+   "localityAlignment": "matched",
+   "name": "Gnathotermes aurivillii",
+   "note": "",
+   "reference": "23",
+   "typeLocality": "Indonesia: Belitung (Billiton)"
+  },
+  {
+   "asPublished": "Gnathotermes havilandi Holmgren, 1912: 23",
+   "authorship": "Holmgren, 1912",
+   "localityAlignment": "matched",
+   "name": "Gnathotermes havilandi",
+   "note": "",
+   "reference": "23",
+   "typeLocality": "Malaysia: Johore"
+  }
+ ],
+ "typeLocality": "Malaysia: Malacca",
+ "version": "2026.11.21",
+ "zh": "马六甲大白蚁"
+}

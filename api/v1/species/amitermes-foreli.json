@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-foreli.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1902",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Amazon region, Central America and Caribbean, Colombia, Venezuela",
+  "zh": "亚马孙地区、中美洲及加勒比、哥伦比亚、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes foreli",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-foreli/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Amitermes medius Banks, 1918: 663-664",
+   "authorship": "Banks, 1918",
+   "localityAlignment": "matched",
+   "name": "Amitermes medius",
+   "note": "",
+   "reference": "663-664",
+   "typeLocality": "Panama: ?"
+  }
+ ],
+ "typeLocality": "Colombia: Atlántico: Barranquilla [ 10.9639N 74.7964W ]",
+ "version": "2026.11.21",
+ "zh": "福雷尔弓白蚁"
+}

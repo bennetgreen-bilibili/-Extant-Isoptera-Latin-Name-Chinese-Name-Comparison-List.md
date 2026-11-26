@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/speculitermes-goesswaldi.json",
+ "apiVersion": "1",
+ "authorship": "Roonwal & Chhotani, 1964",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "speculitermes",
+   "latin": "Speculitermes",
+   "zh": "稀白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South Asia, India",
+  "zh": "南亚、印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Speculitermes goesswaldi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/speculitermes-goesswaldi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Karnataka (Mysore): Dharwar",
+ "version": "2026.11.21",
+ "zh": "格斯瓦尔德稀白蚁"
+}

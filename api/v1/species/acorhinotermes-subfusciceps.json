@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/acorhinotermes-subfusciceps.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1925",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "acorhinotermes",
+   "latin": "Acorhinotermes",
+   "zh": "尖鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "South America, French Guiana, Guyana, Colombia, Brazil, Ecuador, Peru, Venezuela",
+  "zh": "南美洲、法属圭亚那、圭亚那、哥伦比亚、巴西、厄瓜多尔、秘鲁、委内瑞拉"
+ },
+ "isTypeSpecies": true,
+ "latin": "Acorhinotermes subfusciceps",
+ "pageUrl": "https://termite-extant-isoptera.org/species/acorhinotermes-subfusciceps/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guyana: Cuyuni-Mazaruni: Kartabo [ 6.38N 58.7W ]",
+ "version": "2026.11.21",
+ "zh": "棕头尖鼻白蚁"
+}

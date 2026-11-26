@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-latericius.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics (West Africa), East Africa, southern Africa",
+  "zh": "旧热带界西非、东非、非洲南部"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes latericius",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-latericius/",
+ "rank": "species",
+ "subspecies": [
+  {
+   "authorship": "Haviland, 1898",
+   "latin": "Odontotermes latericius latericius",
+   "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-latericius-latericius/",
+   "slug": "odontotermes-latericius-latericius",
+   "zh": "指名亚种"
+  },
+  {
+   "authorship": "Wasmann, 1912",
+   "latin": "Odontotermes latericius media",
+   "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-latericius-media/",
+   "slug": "odontotermes-latericius-media",
+   "zh": "中间亚种"
+  }
+ ],
+ "synonyms": [],
+ "typeLocality": "South Africa: Natal: Estcourt District",
+ "version": "2026.11.21",
+ "zh": "似砖土白蚁"
+}

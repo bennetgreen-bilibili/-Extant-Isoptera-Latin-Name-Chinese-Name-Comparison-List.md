@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/eremotermes-nanus.json",
+ "apiVersion": "1",
+ "authorship": "Harris, 1960",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "eremotermes",
+   "latin": "Eremotermes",
+   "zh": "漠白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Nigeria, Sudan, Yemen",
+  "zh": "尼日利亚、苏丹、也门"
+ },
+ "isTypeSpecies": false,
+ "latin": "Eremotermes nanus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/eremotermes-nanus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Sudan: Shambat",
+ "version": "2026.11.21",
+ "zh": "侏儒漠白蚁"
+}

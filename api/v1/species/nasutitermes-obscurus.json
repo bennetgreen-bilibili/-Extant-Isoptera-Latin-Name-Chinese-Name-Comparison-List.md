@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-obscurus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "match",
+   "kind": "ambiguous",
+   "latin": "Nasutitermes obscurus",
+   "match": null,
+   "note": "候选：OTU 84737 Nasutitermes obscurus (Holmgren, 1906)；OTU 793431 Nasutitermes obscurus (Holmgren, 1910) now Nasutitermes corniger (Motschulsky, 1855)",
+   "rank": "种",
+   "slug": "nasutitermes-obscurus",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "昏暗象白蚁"
+  }
+ ],
+ "authorship": "Holmgren, 1906",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Peru, Brazil, French Guiana",
+  "zh": "秘鲁、巴西、法属圭亚那"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes obscurus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-obscurus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Peru: Puno: Chaquimayo [13.45S 70.4W]",
+ "version": "2026.11.21",
+ "zh": "昏暗象白蚁"
+}

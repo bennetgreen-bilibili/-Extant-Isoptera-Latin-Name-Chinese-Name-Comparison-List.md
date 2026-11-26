@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/incisitermes-snyderi.json",
+ "apiVersion": "1",
+ "authorship": "Light, 1933",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "incisitermes",
+   "latin": "Incisitermes",
+   "zh": "楹白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "United States, Mexico, Bahamas, Bermuda, Costa Rica, Cuba, Panama, Puerto Rico, Turks and Caicos Islands, British Virgin Islands, U.S. Virgin Islands",
+  "zh": "美国、墨西哥、巴哈马、百慕大、哥斯达黎加、古巴、巴拿马、波多黎各、特克斯和凯科斯群岛、英属维尔京群岛、美属维尔京群岛"
+ },
+ "isTypeSpecies": false,
+ "latin": "Incisitermes snyderi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/incisitermes-snyderi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "United States: Texas: Cameron County: Brownsville: Fort Brown",
+ "version": "2026.11.21",
+ "zh": "斯奈德楹白蚁"
+}

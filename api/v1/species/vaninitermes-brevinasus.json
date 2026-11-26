@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/vaninitermes-brevinasus.json",
+ "apiVersion": "1",
+ "authorship": "Emerson & Banks, 1957",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "vaninitermes",
+   "latin": "Vaninitermes",
+   "zh": "瓦宁白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "French Guiana, Brazil, Guyana",
+  "zh": "法属圭亚那、巴西、圭亚那"
+ },
+ "isTypeSpecies": false,
+ "latin": "Vaninitermes brevinasus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/vaninitermes-brevinasus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guyana: East Berbice-Corentyne: Acarai Mountains, Itabu Creek [1.7N 57.9167W]",
+ "version": "2026.11.21",
+ "zh": "短鼻瓦宁白蚁"
+}

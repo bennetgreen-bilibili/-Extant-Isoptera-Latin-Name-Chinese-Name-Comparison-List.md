@@ -1,0 +1,91 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/mapinguaritermes-grandidens.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": "Armitermes grandidens Emerson, 1925",
+   "accepted_latin": "Armitermes grandidens",
+   "accepted_url": "https://www.gbif.org/species/8816091",
+   "confidence": 100,
+   "direction": "site",
+   "disputed": true,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "conflict",
+   "kind": "synonym",
+   "latin": "Mapinguaritermes grandidens",
+   "match": "EXACT",
+   "note": "",
+   "rank": "种",
+   "receiving_latin": "Mapinguaritermes grandidens",
+   "recordable": false,
+   "recorded": false,
+   "relation": "combination",
+   "slug": "mapinguaritermes-grandidens",
+   "source": "gbif",
+   "theirs": "Mapinguaritermes grandidens (Emerson, 1925)",
+   "url": "https://www.gbif.org/species/9360607",
+   "verified": false,
+   "zh": "大齿红懒白蚁"
+  }
+ ],
+ "authorityReview": {
+  "incoming": [],
+  "latin": "Mapinguaritermes grandidens",
+  "outgoing": [
+   {
+    "direction": "site",
+    "disputed": true,
+    "latin": "Armitermes grandidens",
+    "links": [
+     {
+      "source": "gbif",
+      "url": "https://www.gbif.org/species/8816091"
+     }
+    ],
+    "name": "Armitermes grandidens Emerson, 1925",
+    "relation": "combination",
+    "sources": [
+     "gbif"
+    ]
+   }
+  ],
+  "zh": "大齿红懒白蚁"
+ },
+ "authorship": "Emerson, 1925",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "mapinguaritermes",
+   "latin": "Mapinguaritermes",
+   "zh": "红懒白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Colombia, French Guiana, Guyana, Brazil",
+  "zh": "哥伦比亚、法属圭亚那、圭亚那、巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Mapinguaritermes grandidens",
+ "pageUrl": "https://termite-extant-isoptera.org/species/mapinguaritermes-grandidens/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]",
+ "version": "2026.11.21",
+ "zh": "大齿红懒白蚁"
+}

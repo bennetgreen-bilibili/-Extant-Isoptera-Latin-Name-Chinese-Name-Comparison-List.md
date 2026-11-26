@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/neotermes-tuberogulus.json",
+ "apiVersion": "1",
+ "authorship": "Xu & Han, 1985",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "neotermes",
+   "latin": "Neotermes",
+   "zh": "新白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "China, Yunnan",
+  "zh": "中国、云南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Neotermes tuberogulus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/neotermes-tuberogulus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Guangdong Province: Guangzhou",
+ "version": "2026.11.21",
+ "zh": "丘颏新白蚁"
+}

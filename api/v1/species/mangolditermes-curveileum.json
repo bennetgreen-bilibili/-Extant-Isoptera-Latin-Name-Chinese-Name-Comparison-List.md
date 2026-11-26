@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/mangolditermes-curveileum.json",
+ "apiVersion": "1",
+ "authorship": "Scheffrahn, Carrijo & Castro, 2023",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "mangolditermes",
+   "latin": "Mangolditermes",
+   "zh": "曼戈尔德白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "South America, Colombia, French Guiana, Bolivia, Brazil, Paraguay, Peru, Trinidad and Tobago",
+  "zh": "南美洲、哥伦比亚、法属圭亚那、玻利维亚、巴西、巴拉圭、秘鲁、特立尼达和多巴哥"
+ },
+ "isTypeSpecies": true,
+ "latin": "Mangolditermes curveileum",
+ "pageUrl": "https://termite-extant-isoptera.org/species/mangolditermes-curveileum/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Rondônia, Porto Velho, Abunã (-9.6089 -65.3769) [ 9.6089S 65.3769W ]",
+ "version": "2026.11.21",
+ "zh": "曲回曼戈尔德白蚁"
+}

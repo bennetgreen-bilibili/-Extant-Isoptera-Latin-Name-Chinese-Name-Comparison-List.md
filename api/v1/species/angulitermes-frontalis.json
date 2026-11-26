@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/angulitermes-frontalis.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1908",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "angulitermes",
+   "latin": "Angulitermes",
+   "zh": "角白蚁属"
+  },
+  "subfamily": {
+   "id": "promirotermitinae",
+   "latin": "Promirotermitinae",
+   "zh": "前奇白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Botswana, South Africa",
+  "zh": "博茨瓦纳、南非"
+ },
+ "isTypeSpecies": true,
+ "latin": "Angulitermes frontalis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/angulitermes-frontalis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Botswana: Kalahari: Kooa",
+ "version": "2026.11.21",
+ "zh": "显额角白蚁"
+}

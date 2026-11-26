@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/anacanthotermes-ubachi.json",
+ "apiVersion": "1",
+ "authorship": "Navás, 1911",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "hodotermitidae",
+   "latin": "Hodotermitidae",
+   "zh": "草白蚁科"
+  },
+  "genus": {
+   "id": "anacanthotermes",
+   "latin": "Anacanthotermes",
+   "zh": "无刺白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Middle East, Israel, Jordan, Palestine, Iraq, Saudi Arabia, Turkey",
+  "zh": "中东、以色列、约旦、巴勒斯坦、伊拉克、沙特阿拉伯、土耳其"
+ },
+ "isTypeSpecies": false,
+ "latin": "Anacanthotermes ubachi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/anacanthotermes-ubachi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Israel: near Dead Sea (Cercanias del Mar Muerto)",
+ "version": "2026.11.21",
+ "zh": "乌巴齐无刺白蚁"
+}

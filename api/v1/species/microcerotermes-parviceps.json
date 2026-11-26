@@ -1,0 +1,77 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/microcerotermes-parviceps.json",
+ "apiVersion": "1",
+ "authorship": "Mjöberg, 1920",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "microcerotermes",
+   "latin": "Microcerotermes",
+   "zh": "锯白蚁属"
+  },
+  "subfamily": {
+   "id": "microcerotermitinae",
+   "latin": "Microcerotermitinae",
+   "zh": "锯白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Oceania, Australia",
+  "zh": "大洋洲、澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Microcerotermes parviceps",
+ "pageUrl": "https://termite-extant-isoptera.org/species/microcerotermes-parviceps/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes serratus Froggatt, 1898: 731-732",
+   "authorship": "Froggatt, 1898",
+   "localityAlignment": "matched",
+   "name": "Termes serratus",
+   "note": "",
+   "reference": "731-732",
+   "typeLocality": "Australia: Queensland: Torrens Creek"
+  },
+  {
+   "asPublished": "Microcerotermes mendicus Hill, 1927: 90-92",
+   "authorship": "Hill, 1927",
+   "localityAlignment": "matched",
+   "name": "Microcerotermes mendicus",
+   "note": "",
+   "reference": "90-92",
+   "typeLocality": "Australia: Queensland: El Arish"
+  },
+  {
+   "asPublished": "Microcerotermes gladius Hill, 1927: 81-83",
+   "authorship": "Hill, 1927",
+   "localityAlignment": "matched",
+   "name": "Microcerotermes gladius",
+   "note": "",
+   "reference": "81-83",
+   "typeLocality": "Australia: Queensland, near Cairns: Merinda"
+  },
+  {
+   "asPublished": "Microcerotermes fugax Hill, 1927: 86-88",
+   "authorship": "Hill, 1927",
+   "localityAlignment": "matched",
+   "name": "Microcerotermes fugax",
+   "note": "",
+   "reference": "86-88",
+   "typeLocality": "Australia: Northern Territory: Stapleton"
+  }
+ ],
+ "typeLocality": "Australia: Queensland: Colosseum",
+ "version": "2026.11.21",
+ "zh": "小头锯白蚁"
+}

@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-roonwali.json",
+ "apiVersion": "1",
+ "authorship": "Chhotani, 1970",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "southern India, Kerala, Karnataka",
+  "zh": "印度南部、喀拉拉、卡纳塔克"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes roonwali",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-roonwali/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Kerala: North Malabar: Beliapatam",
+ "version": "2026.11.21",
+ "zh": "鲁恩沃堆砂白蚁"
+}

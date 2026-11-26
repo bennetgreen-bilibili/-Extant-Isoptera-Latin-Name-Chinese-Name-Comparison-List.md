@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/allognathotermes-ivorensis.json",
+ "apiVersion": "1",
+ "authorship": "Grassé & Noirot, 1955",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "allognathotermes",
+   "latin": "Allognathotermes",
+   "zh": "异颚白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa",
+  "zh": "西非"
+ },
+ "isTypeSpecies": false,
+ "latin": "Allognathotermes ivorensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/allognathotermes-ivorensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Ivory Coast: Ferkessédougou",
+ "version": "2026.11.21",
+ "zh": "象牙海岸异颚白蚁"
+}

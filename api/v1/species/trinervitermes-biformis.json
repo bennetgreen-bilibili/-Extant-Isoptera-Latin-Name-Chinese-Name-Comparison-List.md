@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/trinervitermes-biformis.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1902",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "trinervitermes",
+   "latin": "Trinervitermes",
+   "zh": "三脉白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "India, Pakistan, Sri Lanka",
+  "zh": "印度、巴基斯坦、斯里兰卡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Trinervitermes biformis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/trinervitermes-biformis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes heimi Wasmann, 1902: 135-137",
+   "authorship": "Wasmann, 1902",
+   "localityAlignment": "unmatched",
+   "name": "Eutermes heimi",
+   "note": "",
+   "reference": "135-137",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Nasutitermes (Trinervitermes) longinotus Snyder, 1934: 14-15",
+   "authorship": "Snyder, 1934",
+   "localityAlignment": "unmatched",
+   "name": "Nasutitermes (Trinervitermes) longinotus",
+   "note": "",
+   "reference": "14-15",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Sri Lanka: Bandarawela",
+ "version": "2026.11.21",
+ "zh": "二型三脉白蚁"
+}

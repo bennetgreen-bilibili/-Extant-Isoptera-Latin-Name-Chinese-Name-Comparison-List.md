@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-rotundifrons.json",
+ "apiVersion": "1",
+ "authorship": "Krishna & Emerson, 1962",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Panama",
+  "zh": "巴拿马"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glyptotermes rotundifrons",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-rotundifrons/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Panama: Barro Colorado Island",
+ "version": "2026.11.21",
+ "zh": "圆额树白蚁"
+}

@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-laurensis.json",
+ "apiVersion": "1",
+ "authorship": "Mjöberg, 1920",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia, Papua New Guinea",
+  "zh": "澳大利亚、巴布亚新几内亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes laurensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-laurensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Hamitermes wilsoni Hill, 1922: 159",
+   "authorship": "Hill, 1922",
+   "localityAlignment": "matched",
+   "name": "Hamitermes wilsoni",
+   "note": "",
+   "reference": "159",
+   "typeLocality": "Australia: Queensland: Townsville"
+  }
+ ],
+ "typeLocality": "Australia: Queensland: Laura",
+ "version": "2026.11.21",
+ "zh": "劳拉弓白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/occasitermes-occasus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1909",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "occasitermes",
+   "latin": "Occasitermes",
+   "zh": "西部白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Occasitermes occasus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/occasitermes-occasus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Australia: Western Australia: Collie",
+ "version": "2026.11.21",
+ "zh": "西部西部白蚁"
+}

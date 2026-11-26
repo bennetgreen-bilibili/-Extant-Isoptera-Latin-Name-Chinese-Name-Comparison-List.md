@@ -1,0 +1,77 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/pseudacanthotermes-spiniger.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1900",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "pseudacanthotermes",
+   "latin": "Pseudacanthotermes",
+   "zh": "伪刺白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, West Africa, Central Africa, East Africa, southern Africa, Angola, Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Côte d'Ivoire, Kenya, Nigeria, Sudan, Tanzania, Uganda, Zambia",
+  "zh": "旧热带界、西非、中非、东非、非洲南部、安哥拉、喀麦隆、中非共和国、刚果、刚果民主共和国、加蓬、加纳、几内亚、科特迪瓦、肯尼亚、尼日利亚、苏丹、坦桑尼亚、乌干达、赞比亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Pseudacanthotermes spiniger",
+ "pageUrl": "https://termite-extant-isoptera.org/species/pseudacanthotermes-spiniger/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Acanthotermes spiniger lujae Wasmann, 1904: 673",
+   "authorship": "Wasmann, 1904",
+   "localityAlignment": "matched",
+   "name": "Acanthotermes spiniger lujae",
+   "note": "",
+   "reference": "673",
+   "typeLocality": "Democratic Republic of the Congo: Sankuru (Kassai)"
+  },
+  {
+   "asPublished": "Acanthotermes spiniger kohli Wasmann, 1911: 110-111",
+   "authorship": "Wasmann, 1911",
+   "localityAlignment": "matched",
+   "name": "Acanthotermes spiniger kohli",
+   "note": "",
+   "reference": "110-111",
+   "typeLocality": "Democratic Republic of the Congo: Romé, near Kisangani (Stanleyville)"
+  },
+  {
+   "asPublished": "Pseudacanthotermes unsgaardi Sjöstedt, 1926: 71-72",
+   "authorship": "Sjöstedt, 1926",
+   "localityAlignment": "matched",
+   "name": "Pseudacanthotermes unsgaardi",
+   "note": "",
+   "reference": "71-72",
+   "typeLocality": "Congo: Indo"
+  },
+  {
+   "asPublished": "Pseudacanthotermes spiniger maynei Sjöstedt, 1926: 70-71",
+   "authorship": "Sjöstedt, 1926",
+   "localityAlignment": "matched",
+   "name": "Pseudacanthotermes spiniger maynei",
+   "note": "",
+   "reference": "70-71",
+   "typeLocality": "Democratic Republic of the Congo: Eala, Hemptienne-St. Benuit, Moto (Uélè)"
+  }
+ ],
+ "typeLocality": "Democratic Republic of the Congo: Umangi",
+ "version": "2026.11.21",
+ "zh": "具刺伪刺白蚁"
+}

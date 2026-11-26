@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/labiotermes-labralis.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1906",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "labiotermes",
+   "latin": "Labiotermes",
+   "zh": "厚唇白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, French Guiana, Colombia, Peru, Venezuela, Ecuador, Trinidad and Tobago, Bolivia",
+  "zh": "巴西、法属圭亚那、哥伦比亚、秘鲁、委内瑞拉、厄瓜多尔、特立尼达和多巴哥、玻利维亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Labiotermes labralis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/labiotermes-labralis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Labiotermes labralis boreus Snyder, 1949: 334",
+   "authorship": "Snyder, 1949",
+   "localityAlignment": "matched",
+   "name": "Labiotermes labralis boreus",
+   "note": "",
+   "reference": "334",
+   "typeLocality": "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
+  }
+ ],
+ "typeLocality": "Peru: Puno: Chaquimayo [13.45S 70.4W]",
+ "version": "2026.11.21",
+ "zh": "细唇厚唇白蚁"
+}

@@ -1,0 +1,98 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/isognathotermes-fungifaber.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Isognathotermes fungifaber",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "isognathotermes-fungifaber",
+   "source": "gbif",
+   "theirs": "Isognathotermes Sjöstedt, 1926",
+   "url": null,
+   "verified": false,
+   "zh": "菌匠等颚白蚁"
+  }
+ ],
+ "authorship": "Sjöstedt, 1896",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "isognathotermes",
+   "latin": "Isognathotermes",
+   "zh": "等颚白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "tropical Africa",
+  "zh": "非洲热带"
+ },
+ "isTypeSpecies": false,
+ "latin": "Isognathotermes fungifaber",
+ "pageUrl": "https://termite-extant-isoptera.org/species/isognathotermes-fungifaber/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Cubitermes fungifaber elongata Sjöstedt, 1924: 256",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "matched",
+   "name": "Cubitermes fungifaber elongata",
+   "note": "",
+   "reference": "256",
+   "typeLocality": "Democratic Republic of the Congo: Mukimbungu"
+  },
+  {
+   "asPublished": "Mirotermes ( Cubitermes ) banksi Emerson, 1928: 522-523",
+   "authorship": "Emerson, 1928",
+   "localityAlignment": "matched",
+   "name": "Mirotermes (Cubitermes) banksi",
+   "note": "",
+   "reference": "522-523",
+   "typeLocality": "Cameroon: Bipindi"
+  },
+  {
+   "asPublished": "Mirotermes ( Cubitermes ) comstocki Emerson, 1928: 523-525",
+   "authorship": "Emerson, 1928",
+   "localityAlignment": "matched",
+   "name": "Mirotermes (Cubitermes) comstocki",
+   "note": "",
+   "reference": "523-525",
+   "typeLocality": "Cameroon: Bipindi"
+  },
+  {
+   "asPublished": "Mirotermes ( Cubitermes ) schmidti Emerson, 1928: 520-521",
+   "authorship": "Emerson, 1928",
+   "localityAlignment": "matched",
+   "name": "Mirotermes (Cubitermes) schmidti",
+   "note": "",
+   "reference": "520-521",
+   "typeLocality": "Cameroon: Bipindi"
+  }
+ ],
+ "typeLocality": "Cameroon: Bonge; Ekundu; Itoki; Kitta; N’dian",
+ "version": "2026.11.21",
+ "zh": "菌匠等颚白蚁"
+}

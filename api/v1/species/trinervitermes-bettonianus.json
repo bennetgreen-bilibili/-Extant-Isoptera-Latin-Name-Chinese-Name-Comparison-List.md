@@ -1,0 +1,68 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/trinervitermes-bettonianus.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1905",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "trinervitermes",
+   "latin": "Trinervitermes",
+   "zh": "三脉白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Namibia, Republic of the Congo (Brazzaville), Kenya, Democratic Republic of the Congo (Kinshasa), Malawi, Mozambique, Nigeria, Tanzania, Uganda, Zambia, Zimbabwe",
+  "zh": "纳米比亚、刚果（布）、肯尼亚、刚果民主共和国、马拉维、莫桑比克、尼日利亚、坦桑尼亚、乌干达、赞比亚、津巴布韦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Trinervitermes bettonianus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/trinervitermes-bettonianus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes segelli Sjöstedt, 1907: 26-28",
+   "authorship": "Sjöstedt, 1907",
+   "localityAlignment": "matched",
+   "name": "Eutermes segelli",
+   "note": "",
+   "reference": "26-28",
+   "typeLocality": "Tanzania: Kilimanjaro: Kibonoto"
+  },
+  {
+   "asPublished": "Eutermes (Trinervitermes) ruficeps Holmgren, 1913: 343-344",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Trinervitermes) ruficeps",
+   "note": "",
+   "reference": "343-344",
+   "typeLocality": "Tanzania: Amani"
+  },
+  {
+   "asPublished": "Eutermes crassinasus Sjöstedt, 1914: 6-9",
+   "authorship": "Sjöstedt, 1914",
+   "localityAlignment": "matched",
+   "name": "Eutermes crassinasus",
+   "note": "",
+   "reference": "6-9",
+   "typeLocality": "Mozambique: Villa Fontes"
+  }
+ ],
+ "typeLocality": "Kenya: Athi River",
+ "version": "2026.11.21",
+ "zh": "贝顿三脉白蚁"
+}

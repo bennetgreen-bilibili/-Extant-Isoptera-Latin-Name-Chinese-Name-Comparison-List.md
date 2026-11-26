@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ancistrotermes-wasmanni.json",
+ "apiVersion": "1",
+ "authorship": "Snyder & Emerson, 1949",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ancistrotermes",
+   "latin": "Ancistrotermes",
+   "zh": "钩白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Democratic Republic of the Congo",
+  "zh": "刚果民主共和国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ancistrotermes wasmanni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ancistrotermes-wasmanni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Sankuru (Kassai)",
+ "version": "2026.11.21",
+ "zh": "沃斯曼钩白蚁"
+}

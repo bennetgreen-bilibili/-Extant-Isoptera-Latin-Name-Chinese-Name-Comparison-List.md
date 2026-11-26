@@ -1,0 +1,104 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/syntermes-spinosus.json",
+ "apiVersion": "1",
+ "authorship": "Latreille, 1804",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "syntermes",
+   "latin": "Syntermes",
+   "zh": "聚白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Colombia, French Guiana, Guyana, Bolivia, Suriname, Peru, Ecuador, Venezuela",
+  "zh": "巴西、哥伦比亚、法属圭亚那、圭亚那、玻利维亚、苏里南、秘鲁、厄瓜多尔、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Syntermes spinosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/syntermes-spinosus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes costatus Rambur, 1842: 305-306",
+   "authorship": "Rambur, 1842",
+   "localityAlignment": "matched",
+   "name": "Termes costatus",
+   "note": "",
+   "reference": "305-306",
+   "typeLocality": "French Guiana: Cayenne [4.93333N 52.33W]"
+  },
+  {
+   "asPublished": "Termes decumanus Erichson, 1848: 582-583",
+   "authorship": "Erichson, 1848",
+   "localityAlignment": "matched",
+   "name": "Termes decumanus",
+   "note": "",
+   "reference": "582-583",
+   "typeLocality": "French Guiana: Cayenne [4.93333N 52.33W]"
+  },
+  {
+   "asPublished": "Syntermes snyderi Snyder, 1924: 21-22",
+   "authorship": "Snyder, 1924",
+   "localityAlignment": "matched",
+   "name": "Syntermes snyderi",
+   "note": "",
+   "reference": "21-22",
+   "typeLocality": "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]"
+  },
+  {
+   "asPublished": "Syntermes emersoni Snyder, 1924: 26-27",
+   "authorship": "Snyder, 1924",
+   "localityAlignment": "matched",
+   "name": "Syntermes emersoni",
+   "note": "",
+   "reference": "26-27",
+   "typeLocality": "Brasil: Bahia: Jaguaripe [13.1133S 38.8956W]"
+  },
+  {
+   "asPublished": "Syntermes chaquimayensis parvinasus Emerson, 1945: 450-451",
+   "authorship": "Emerson, 1945",
+   "localityAlignment": "matched",
+   "name": "Syntermes chaquimayensis parvinasus",
+   "note": "",
+   "reference": "450-451",
+   "typeLocality": "Brasil: Amazonas: São Gabriel da Cachoeira, Rio Uaupés [0.105N 67.44W]"
+  },
+  {
+   "asPublished": "Syntermes solidus Emerson, 1945: 447",
+   "authorship": "Emerson, 1945",
+   "localityAlignment": "matched",
+   "name": "Syntermes solidus",
+   "note": "",
+   "reference": "447",
+   "typeLocality": "French Guiana: St. Jean (Maroni River) [5.4N 54.08W]"
+  },
+  {
+   "asPublished": "Syntermes robustus Constantino, 1991: 221-222",
+   "authorship": "Constantino, 1991",
+   "localityAlignment": "matched",
+   "name": "Syntermes robustus",
+   "note": "",
+   "reference": "221-222",
+   "typeLocality": "Brasil: Amazonas: Maraã [1.848S 65.523W]"
+  }
+ ],
+ "typeLocality": "(country unknown): ?",
+ "version": "2026.11.21",
+ "zh": "多刺聚白蚁"
+}

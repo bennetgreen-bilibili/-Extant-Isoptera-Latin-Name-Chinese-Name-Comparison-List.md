@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/fulleritermes-tenebricus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1914",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "fulleritermes",
+   "latin": "Fulleritermes",
+   "zh": "富勒白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Côte d'Ivoire, Togo, Senegal, Burkina Faso, Ghana, Central African Republic, Democratic Republic of the Congo, Gambia, Guinea, Nigeria, Sudan",
+  "zh": "科特迪瓦、多哥、塞内加尔、布基纳法索、加纳、中非共和国、刚果民主共和国、冈比亚、几内亚、尼日利亚、苏丹"
+ },
+ "isTypeSpecies": false,
+ "latin": "Fulleritermes tenebricus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/fulleritermes-tenebricus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Nasutitermes (Coarctotermes) suffuscus Emerson, 1928: 496",
+   "authorship": "Emerson, 1928",
+   "localityAlignment": "matched",
+   "name": "Nasutitermes (Coarctotermes) suffuscus",
+   "note": "",
+   "reference": "496",
+   "typeLocality": "Democratic Republic of the Congo: near Yakuluku"
+  }
+ ],
+ "typeLocality": "Guinea: Kakoulima; Nigeria: Olokemeji",
+ "version": "2026.11.21",
+ "zh": "阴暗富勒白蚁"
+}

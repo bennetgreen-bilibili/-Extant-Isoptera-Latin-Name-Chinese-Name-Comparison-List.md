@@ -1,0 +1,57 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/prorhinotermes-cotym.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Psammotermitidae",
+   "family_zh": "沙白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Prorhinotermes cotym",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "prorhinotermes-cotym",
+   "source": "gbif",
+   "theirs": "Prorhinotermes Silvestri, 1909",
+   "url": null,
+   "verified": false,
+   "zh": "科廷原鼻白蚁"
+  }
+ ],
+ "authorship": "Joseph, Amina & Mathew, 2023",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "psammotermitidae",
+   "latin": "Psammotermitidae",
+   "zh": "沙白蚁科"
+  },
+  "genus": {
+   "id": "prorhinotermes",
+   "latin": "Prorhinotermes",
+   "zh": "原鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "India",
+  "zh": "印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Prorhinotermes cotym",
+ "pageUrl": "https://termite-extant-isoptera.org/species/prorhinotermes-cotym/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Kerala: Kottayam, Koruthodu [ 9.4475N 76.9687E ]",
+ "version": "2026.11.21",
+ "zh": "科廷原鼻白蚁"
+}

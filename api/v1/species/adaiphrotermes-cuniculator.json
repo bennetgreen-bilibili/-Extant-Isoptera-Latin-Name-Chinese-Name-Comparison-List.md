@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/adaiphrotermes-cuniculator.json",
+ "apiVersion": "1",
+ "authorship": "Sands, 1972",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "adaiphrotermes",
+   "latin": "Adaiphrotermes",
+   "zh": "和白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa",
+  "zh": "西非"
+ },
+ "isTypeSpecies": true,
+ "latin": "Adaiphrotermes cuniculator",
+ "pageUrl": "https://termite-extant-isoptera.org/species/adaiphrotermes-cuniculator/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Ghana: 40 mi from Tumu on Lawra Road",
+ "version": "2026.11.21",
+ "zh": "灵动和白蚁"
+}

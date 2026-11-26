@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/rounditermes-dechambrei.json",
+ "apiVersion": "1",
+ "authorship": "Ensaf, Ponchel & Nel, 2003",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "rounditermes",
+   "latin": "Rounditermes",
+   "zh": "胖白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "French Guiana",
+  "zh": "法属圭亚那"
+ },
+ "isTypeSpecies": true,
+ "latin": "Rounditermes dechambrei",
+ "pageUrl": "https://termite-extant-isoptera.org/species/rounditermes-dechambrei/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "French Guiana: Highway N1 between Kourou and Sinnamary [5.2675N 52.8083W]",
+ "version": "2026.11.21",
+ "zh": "德尚布尔胖白蚁"
+}

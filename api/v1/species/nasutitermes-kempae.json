@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-kempae.json",
+ "apiVersion": "1",
+ "authorship": "Harris, 1954",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Kenya, Malawi, Mozambique, South Africa, Tanzania",
+  "zh": "肯尼亚、马拉维、莫桑比克、南非、坦桑尼亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes kempae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-kempae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Tanzania: Handeni District: Kwadiboma",
+ "version": "2026.11.21",
+ "zh": "肯帕象白蚁"
+}

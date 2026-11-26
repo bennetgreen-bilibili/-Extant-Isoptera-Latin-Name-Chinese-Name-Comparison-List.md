@@ -1,0 +1,49 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/pseudacanthotermes-militaris-militaris.json",
+ "apiVersion": "1",
+ "authorship": "Hagen, 1858",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "pseudacanthotermes",
+   "latin": "Pseudacanthotermes",
+   "zh": "伪刺白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "latin": "Pseudacanthotermes militaris militaris",
+ "pageUrl": "https://termite-extant-isoptera.org/species/pseudacanthotermes-militaris-militaris/",
+ "parent": {
+  "latin": "Pseudacanthotermes militaris",
+  "slug": "pseudacanthotermes-militaris",
+  "zh": "好斗伪刺白蚁"
+ },
+ "rank": "subspecies",
+ "synonyms": [
+  {
+   "asPublished": "Acanthotermes militaris minor Sjöstedt, 1913: 358-359",
+   "authorship": "Sjöstedt, 1913",
+   "localityAlignment": "matched",
+   "name": "Acanthotermes militaris minor",
+   "note": "",
+   "reference": "358-359",
+   "typeLocality": "Democratic Republic of the Congo: Katanga: Sankisia"
+  }
+ ],
+ "typeLocality": "(country unknown): ?",
+ "version": "2026.11.21",
+ "zh": "指名亚种"
+}

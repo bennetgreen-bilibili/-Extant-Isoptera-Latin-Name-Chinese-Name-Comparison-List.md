@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/atlantitermes-snyderi.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1925",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "atlantitermes",
+   "latin": "Atlantitermes",
+   "zh": "阿特拉斯白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, French Guiana, Trinidad, Guyana, Peru, Venezuela",
+  "zh": "巴西、法属圭亚那、特立尼达、圭亚那、秘鲁、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Atlantitermes snyderi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/atlantitermes-snyderi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]",
+ "version": "2026.11.21",
+ "zh": "斯奈德阿特拉斯白蚁"
+}

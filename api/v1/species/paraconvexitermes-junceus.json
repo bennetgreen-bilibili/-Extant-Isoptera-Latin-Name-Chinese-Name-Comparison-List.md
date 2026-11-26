@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/paraconvexitermes-junceus.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1949",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "paraconvexitermes",
+   "latin": "Paraconvexitermes",
+   "zh": "近凸白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Guyana, Ecuador",
+  "zh": "巴西、圭亚那、厄瓜多尔"
+ },
+ "isTypeSpecies": false,
+ "latin": "Paraconvexitermes junceus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/paraconvexitermes-junceus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guyana: Cuyuni-Mazaruni: Kartabo [6.38N 58.7W]",
+ "version": "2026.11.21",
+ "zh": "细长近凸白蚁"
+}

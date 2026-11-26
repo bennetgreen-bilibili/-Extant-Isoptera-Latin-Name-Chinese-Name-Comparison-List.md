@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/parvitermes-toussainti.json",
+ "apiVersion": "1",
+ "authorship": "Banks, 1919",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "parvitermes",
+   "latin": "Parvitermes",
+   "zh": "微白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Dominican Republic, Haiti",
+  "zh": "多米尼加、海地"
+ },
+ "isTypeSpecies": false,
+ "latin": "Parvitermes toussainti",
+ "pageUrl": "https://termite-extant-isoptera.org/species/parvitermes-toussainti/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Haiti: Milot",
+ "version": "2026.11.21",
+ "zh": "图森特微白蚁"
+}

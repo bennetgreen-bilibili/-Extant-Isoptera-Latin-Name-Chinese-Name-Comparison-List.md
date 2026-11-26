@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/termitogeton-planus.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "termitogetonidae",
+   "latin": "Termitogetonidae",
+   "zh": "寡脉白蚁科"
+  },
+  "genus": {
+   "id": "termitogeton",
+   "latin": "Termitogeton",
+   "zh": "寡脉白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Indonesia, Malaysia",
+  "zh": "印度尼西亚、马来西亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Termitogeton planus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/termitogeton-planus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termitogeton minor Thapa, 1982: 89-91",
+   "authorship": "Thapa, 1982",
+   "localityAlignment": "matched",
+   "name": "Termitogeton minor",
+   "note": "",
+   "reference": "89-91",
+   "typeLocality": "Malaysia: Sabah: Lamag District: Pin"
+  }
+ ],
+ "typeLocality": "Malaysia: Sarawak",
+ "version": "2026.11.21",
+ "zh": "平坦寡脉白蚁"
+}

@@ -1,0 +1,39 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-badius-badius.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "latin": "Odontotermes badius badius",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-badius-badius/",
+ "parent": {
+  "latin": "Odontotermes badius",
+  "slug": "odontotermes-badius",
+  "zh": "栗色土白蚁"
+ },
+ "rank": "subspecies",
+ "synonyms": [],
+ "typeLocality": "South Africa: Natal: Durban",
+ "version": "2026.11.21",
+ "zh": "指名亚种"
+}

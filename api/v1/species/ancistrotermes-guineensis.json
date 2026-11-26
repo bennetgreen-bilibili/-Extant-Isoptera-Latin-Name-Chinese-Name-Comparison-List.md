@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ancistrotermes-guineensis.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1912",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ancistrotermes",
+   "latin": "Ancistrotermes",
+   "zh": "钩白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "West Africa, Côte d'Ivoire, Benin, Gambia, Senegal, Cameroon, Ghana, Guinea, Guinea-Bissau, Nigeria",
+  "zh": "西非、科特迪瓦、贝宁、冈比亚、塞内加尔、喀麦隆、加纳、几内亚、几内亚比绍、尼日利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ancistrotermes guineensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ancistrotermes-guineensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Guinea Bissau: Bolama: Rio Cassine",
+ "version": "2026.11.21",
+ "zh": "几内亚钩白蚁"
+}

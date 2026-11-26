@@ -1,0 +1,95 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/kalotermes-phoeniciae.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Kalotermitidae",
+   "family_zh": "木白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Kalotermes phoeniciae",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "kalotermes-phoeniciae",
+   "source": "gbif",
+   "theirs": "Kalotermes Hagen, 1853",
+   "url": null,
+   "verified": false,
+   "zh": "腓尼基木白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Kalotermitidae",
+   "family_zh": "木白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Kalotermes phoeniciae",
+   "match": "higherrank",
+   "note": "",
+   "rank": "种",
+   "slug": "kalotermes-phoeniciae",
+   "source": "col",
+   "theirs": "Kalotermes Hagen, 1853",
+   "url": null,
+   "verified": false,
+   "zh": "腓尼基木白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Kalotermitidae",
+   "family_zh": "木白蚁科",
+   "group": "gap",
+   "kind": "missing",
+   "latin": "Kalotermes phoeniciae",
+   "match": null,
+   "note": "",
+   "rank": "种",
+   "slug": "kalotermes-phoeniciae",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "腓尼基木白蚁"
+  }
+ ],
+ "authorship": "Ghesini & Marini, 2015",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "kalotermes",
+   "latin": "Kalotermes",
+   "zh": "木白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "eastern Mediterranean coast, Levant",
+  "zh": "地中海东岸、黎凡特"
+ },
+ "isTypeSpecies": false,
+ "latin": "Kalotermes phoeniciae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/kalotermes-phoeniciae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Lebanon: Benouaiti",
+ "version": "2026.11.21",
+ "zh": "腓尼基木白蚁"
+}

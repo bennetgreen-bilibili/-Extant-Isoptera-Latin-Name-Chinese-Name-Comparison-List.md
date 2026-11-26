@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/tumulitermes-apiocephalus.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1909",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "tumulitermes",
+   "latin": "Tumulitermes",
+   "zh": "冢白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Tumulitermes apiocephalus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/tumulitermes-apiocephalus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Tumulitermes) aagaardi Mjöberg, 1920: 55-56",
+   "authorship": "Mjöberg, 1920",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Tumulitermes) aagaardi",
+   "note": "",
+   "reference": "55-56",
+   "typeLocality": "Australia: Western Australia: Mundaring"
+  }
+ ],
+ "typeLocality": "Australia: Western Australia: Northhampton or Jurrandale",
+ "version": "2026.11.21",
+ "zh": "蜂头冢白蚁"
+}

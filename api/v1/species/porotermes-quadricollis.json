@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/porotermes-quadricollis.json",
+ "apiVersion": "1",
+ "authorship": "Rambur, 1842",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "stolotermitidae",
+   "latin": "Stolotermitidae",
+   "zh": "胄白蚁科"
+  },
+  "genus": {
+   "id": "porotermes",
+   "latin": "Porotermes",
+   "zh": "洞白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Chile and southern South America",
+  "zh": "智利及南美南部"
+ },
+ "isTypeSpecies": true,
+ "latin": "Porotermes quadricollis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/porotermes-quadricollis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Calotermes chilensis cayutuensis Goetsch, 1933: 229",
+   "authorship": "Goetsch, 1933",
+   "localityAlignment": "matched",
+   "name": "Calotermes chilensis cayutuensis",
+   "note": "",
+   "reference": "229",
+   "typeLocality": "Chile: Los Lagos: Cayutué [ 41.2333S 72.2833W ]"
+  }
+ ],
+ "typeLocality": "Chile: ?",
+ "version": "2026.11.21",
+ "zh": "方颈洞白蚁"
+}

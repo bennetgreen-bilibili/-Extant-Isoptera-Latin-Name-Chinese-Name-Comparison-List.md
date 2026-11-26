@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/reticulitermes-wuyishanensis.json",
+ "apiVersion": "1",
+ "authorship": "Li & Huang, 1986",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "reticulitermes",
+   "latin": "Reticulitermes",
+   "zh": "散白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "China",
+  "zh": "中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Reticulitermes wuyishanensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/reticulitermes-wuyishanensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Fujian Province: Wuyishan",
+ "version": "2026.11.21",
+ "zh": "武夷山散白蚁"
+}

@@ -1,0 +1,80 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/isognathotermes-bulbifrons.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Isognathotermes bulbifrons",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "isognathotermes-bulbifrons",
+   "source": "gbif",
+   "theirs": "Isognathotermes Sjöstedt, 1926",
+   "url": null,
+   "verified": false,
+   "zh": "球额等颚白蚁"
+  }
+ ],
+ "authorship": "Sjöstedt, 1924",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "isognathotermes",
+   "latin": "Isognathotermes",
+   "zh": "等颚白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "tropical Africa",
+  "zh": "非洲热带"
+ },
+ "isTypeSpecies": false,
+ "latin": "Isognathotermes bulbifrons",
+ "pageUrl": "https://termite-extant-isoptera.org/species/isognathotermes-bulbifrons/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Cubitermes heghi Sjöstedt, 1924: 255",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "unmatched",
+   "name": "Cubitermes heghi",
+   "note": "",
+   "reference": "255",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Cubitermes gibbifrons Sjöstedt, 1924: 255",
+   "authorship": "Sjöstedt, 1924",
+   "localityAlignment": "unmatched",
+   "name": "Cubitermes gibbifrons",
+   "note": "",
+   "reference": "255",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Democratic Republic of the Congo: Mukimbungu",
+ "version": "2026.11.21",
+ "zh": "球额等颚白蚁"
+}

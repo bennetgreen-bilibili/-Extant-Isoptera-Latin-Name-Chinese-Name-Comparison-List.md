@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/glyptotermes-paratuberculatus.json",
+ "apiVersion": "1",
+ "authorship": "Thapa, 1982",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "glyptotermes",
+   "latin": "Glyptotermes",
+   "zh": "树白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Malaysia",
+  "zh": "马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Glyptotermes paratuberculatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/glyptotermes-paratuberculatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malaysia: Sabah: Lamag District: Pin",
+ "version": "2026.11.21",
+ "zh": "似具瘤树白蚁"
+}

@@ -1,0 +1,99 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/niuginitermes-variratae.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "match",
+   "kind": "fuzzy",
+   "latin": "Niuginitermes variratae",
+   "match": "FUZZY",
+   "note": "人工核对（2026-10-30）：BSF、Catalogue of Life 与 GBIF 拼作 variatae（少一个 r），属外部库拼写变体。原始描述摘要（Roisin & Pasteels, 1996, Invertebrate Taxonomy 10(3): 507–616）明确作 N. variratae, sp. nov.；本站名不改。",
+   "rank": "种",
+   "slug": "niuginitermes-variratae",
+   "source": "gbif",
+   "theirs": "Niuginitermes variatae Pasteels & Roisin, 1996",
+   "url": "https://www.gbif.org/species/9817369",
+   "verified": true,
+   "zh": "瓦里拉塔新几内亚白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "match",
+   "kind": "ambiguous",
+   "latin": "Niuginitermes variratae",
+   "match": null,
+   "note": "仅模糊候选：OTU 84823 Niuginitermes variatae Roisin & Pasteels, 1996",
+   "rank": "种",
+   "slug": "niuginitermes-variratae",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "瓦里拉塔新几内亚白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Niuginitermes variratae",
+   "match": "higherrank",
+   "note": "",
+   "rank": "种",
+   "slug": "niuginitermes-variratae",
+   "source": "col",
+   "theirs": "Niuginitermes Roisin & Pasteels, 1996",
+   "url": null,
+   "verified": false,
+   "zh": "瓦里拉塔新几内亚白蚁"
+  }
+ ],
+ "authorship": "Roisin & Pasteels, 1996",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "niuginitermes",
+   "latin": "Niuginitermes",
+   "zh": "新几内亚白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Papua New Guinea",
+  "zh": "巴布亚新几内亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Niuginitermes variratae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/niuginitermes-variratae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Papua New Guinea: Central Province: Varirata National Park",
+ "version": "2026.11.21",
+ "zh": "瓦里拉塔新几内亚白蚁"
+}

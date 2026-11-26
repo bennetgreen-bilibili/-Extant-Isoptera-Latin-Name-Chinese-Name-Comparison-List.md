@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/asagarotermes-coronatus.json",
+ "apiVersion": "1",
+ "authorship": "Sands, 1972",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "asagarotermes",
+   "latin": "Asagarotermes",
+   "zh": "无剑白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Katanga, Democratic Republic of the Congo, Cameroon, Democratic Republic of the Congo",
+  "zh": "刚果（金）加丹加、喀麦隆、刚果民主共和国"
+ },
+ "isTypeSpecies": true,
+ "latin": "Asagarotermes coronatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/asagarotermes-coronatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Katanga: Keyberg, near Elizabethville",
+ "version": "2026.11.21",
+ "zh": "冠毛无剑白蚁"
+}

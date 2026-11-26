@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/reticulitermes-tibialis.json",
+ "apiVersion": "1",
+ "authorship": "Banks, 1920",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "reticulitermes",
+   "latin": "Reticulitermes",
+   "zh": "散白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "western North America, western United States, northern Mexico",
+  "zh": "北美西部、美国西部、墨西哥北部"
+ },
+ "isTypeSpecies": false,
+ "latin": "Reticulitermes tibialis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/reticulitermes-tibialis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Reticulitermes humilis Banks, 1920: 51-53",
+   "authorship": "Banks, 1920",
+   "localityAlignment": "matched",
+   "name": "Reticulitermes humilis",
+   "note": "",
+   "reference": "51-53",
+   "typeLocality": "United States: Arizona: Sabino Canyon, Santa Catalina Mountains"
+  },
+  {
+   "asPublished": "Reticulitermes tumiceps Banks, 1920: 53",
+   "authorship": "Banks, 1920",
+   "localityAlignment": "matched",
+   "name": "Reticulitermes tumiceps",
+   "note": "",
+   "reference": "53",
+   "typeLocality": "United States: Arizona: Santa Catalina Mountains: Stratton"
+  }
+ ],
+ "typeLocality": "United States: Texas: Beeville",
+ "version": "2026.11.21",
+ "zh": "黑胫散白蚁"
+}

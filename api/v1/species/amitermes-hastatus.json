@@ -1,0 +1,140 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-hastatus.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "southern Africa, Tanzania",
+  "zh": "南部非洲、坦桑尼亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes hastatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-hastatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Hamitermes runconifer Silvestri, 1908: 77-78",
+   "authorship": "Silvestri, 1908",
+   "localityAlignment": "unmatched",
+   "name": "Hamitermes runconifer",
+   "note": "",
+   "reference": "77-78",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hamitermes hastatus capicola Silvestri, 1914: 78-80",
+   "authorship": "Silvestri, 1914",
+   "localityAlignment": "unmatched",
+   "name": "Hamitermes hastatus capicola",
+   "note": "",
+   "reference": "78-80",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hamitermes gunni Fuller, 1922: 126",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "unmatched",
+   "name": "Hamitermes gunni",
+   "note": "",
+   "reference": "126",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hamitermes kellyi Fuller, 1922: 126",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "unmatched",
+   "name": "Hamitermes kellyi",
+   "note": "",
+   "reference": "126",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hamitermes zuurbergi Fuller, 1922: 126",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "unmatched",
+   "name": "Hamitermes zuurbergi",
+   "note": "",
+   "reference": "126",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hamitermes atlanticus Fuller, 1922: 128",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "unmatched",
+   "name": "Hamitermes atlanticus",
+   "note": "",
+   "reference": "128",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hamitermes murraysburgi Fuller, 1922: 128",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "unmatched",
+   "name": "Hamitermes murraysburgi",
+   "note": "",
+   "reference": "128",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hamitermes libertatis Fuller, 1922: 127",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "unmatched",
+   "name": "Hamitermes libertatis",
+   "note": "",
+   "reference": "127",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hamitermes londonensis Fuller, 1922: 126",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "unmatched",
+   "name": "Hamitermes londonensis",
+   "note": "",
+   "reference": "126",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hamitermes kenhardti Fuller, 1922: 128",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "unmatched",
+   "name": "Hamitermes kenhardti",
+   "note": "",
+   "reference": "128",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Hamitermes schoombiensis Fuller, 1922: 126",
+   "authorship": "Fuller, 1922",
+   "localityAlignment": "unmatched",
+   "name": "Hamitermes schoombiensis",
+   "note": "",
+   "reference": "126",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "South Africa: Cape of Good Hope: Port Elizabeth",
+ "version": "2026.11.21",
+ "zh": "长矛弓白蚁"
+}

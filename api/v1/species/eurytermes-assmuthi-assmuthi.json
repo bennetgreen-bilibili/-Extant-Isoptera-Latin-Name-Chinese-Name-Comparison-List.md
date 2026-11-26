@@ -1,0 +1,39 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/eurytermes-assmuthi-assmuthi.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1902",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "eurytermes",
+   "latin": "Eurytermes",
+   "zh": "宽白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "latin": "Eurytermes assmuthi assmuthi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/eurytermes-assmuthi-assmuthi/",
+ "parent": {
+  "latin": "Eurytermes assmuthi",
+  "slug": "eurytermes-assmuthi",
+  "zh": "阿斯穆斯宽白蚁"
+ },
+ "rank": "subspecies",
+ "synonyms": [],
+ "typeLocality": "India: Maharashtra: Khandala, near Bombay",
+ "version": "2026.11.21",
+ "zh": "指名亚种"
+}

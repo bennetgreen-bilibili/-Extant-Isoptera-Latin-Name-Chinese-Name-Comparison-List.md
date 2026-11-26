@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/stylotermes-valvules.json",
+ "apiVersion": "1",
+ "authorship": "Tsai & Ping, 1978",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "stylotermitidae",
+   "latin": "Stylotermitidae",
+   "zh": "杆白蚁科"
+  },
+  "genus": {
+   "id": "stylotermes",
+   "latin": "Stylotermes",
+   "zh": "杆白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "China",
+  "zh": "中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Stylotermes valvules",
+ "pageUrl": "https://termite-extant-isoptera.org/species/stylotermes-valvules/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Guangxi Province:: Jinxiu Yaozu Zizhixian",
+ "version": "2026.11.21",
+ "zh": "短盖杆白蚁"
+}

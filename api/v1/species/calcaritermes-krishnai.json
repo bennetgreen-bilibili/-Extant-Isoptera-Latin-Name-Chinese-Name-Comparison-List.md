@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/calcaritermes-krishnai.json",
+ "apiVersion": "1",
+ "authorship": "Maiti & Chakraborty, 1981",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "calcaritermes",
+   "latin": "Calcaritermes",
+   "zh": "距白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "India (Nicobar Islands)",
+  "zh": "印度尼科巴群岛"
+ },
+ "isTypeSpecies": false,
+ "latin": "Calcaritermes krishnai",
+ "pageUrl": "https://termite-extant-isoptera.org/species/calcaritermes-krishnai/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Nicobar Islands: Great Nicobar Island: Champa Bay",
+ "version": "2026.11.21",
+ "zh": "克里希纳距白蚁"
+}

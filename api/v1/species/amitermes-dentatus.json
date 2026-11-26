@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-dentatus.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "insular Southeast Asia, China, Thailand",
+  "zh": "东南亚岛屿、中国、泰国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes dentatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-dentatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Hamitermes ( Hamitermes ) minor Holmgren, 1914: 273",
+   "authorship": "Holmgren, 1914",
+   "localityAlignment": "matched",
+   "name": "Hamitermes (Hamitermes) minor",
+   "note": "",
+   "reference": "273",
+   "typeLocality": "Indonesia: Sumatra: Soengei Bamban"
+  }
+ ],
+ "typeLocality": "Malaysia: Sarawak: Marudi",
+ "version": "2026.11.21",
+ "zh": "具齿弓白蚁"
+}

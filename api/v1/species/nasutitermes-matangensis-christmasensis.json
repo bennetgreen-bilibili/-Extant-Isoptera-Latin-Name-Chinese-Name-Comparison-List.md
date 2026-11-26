@@ -1,0 +1,60 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-matangensis-christmasensis.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "match",
+   "kind": "ambiguous",
+   "latin": "Nasutitermes matangensis christmasensis",
+   "match": null,
+   "note": "候选：OTU 797515 Nasutitermes matangensis christmasensis Krishna, 2013；OTU 84709 Nasutitermes matangensis christmasensis Krishna, 2013",
+   "rank": "亚种",
+   "slug": "nasutitermes-matangensis-christmasensis",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "圣诞岛亚种"
+  }
+ ],
+ "authorship": "Krishna, 2013",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "latin": "Nasutitermes matangensis christmasensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-matangensis-christmasensis/",
+ "parent": {
+  "latin": "Nasutitermes matangensis",
+  "slug": "nasutitermes-matangensis",
+  "zh": "马登象白蚁"
+ },
+ "rank": "subspecies",
+ "synonyms": [],
+ "typeLocality": "Australia: Christmas Island",
+ "version": "2026.11.21",
+ "zh": "圣诞岛亚种"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/indotermes-arshadi.json",
+ "apiVersion": "1",
+ "authorship": "Akhtar, 1975",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "indotermes",
+   "latin": "Indotermes",
+   "zh": "印白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Oriental region",
+  "zh": "东洋界"
+ },
+ "isTypeSpecies": false,
+ "latin": "Indotermes arshadi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/indotermes-arshadi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Bangladesh: Adampur",
+ "version": "2026.11.21",
+ "zh": "阿沙德印白蚁"
+}

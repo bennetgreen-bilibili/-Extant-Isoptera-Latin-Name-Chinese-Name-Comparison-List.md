@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ahmaditermes-parafulvus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Ahmaditermes parafulvus",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "ahmaditermes-parafulvus",
+   "source": "gbif",
+   "theirs": "Ahmaditermes Akhtar, 1975",
+   "url": null,
+   "verified": false,
+   "zh": "黄色钝颚白蚁"
+  }
+ ],
+ "authorship": "Tsai & Chen, 1963",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ahmaditermes",
+   "latin": "Ahmaditermes",
+   "zh": "钝颚白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "China, Vietnam",
+  "zh": "中国、越南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ahmaditermes parafulvus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ahmaditermes-parafulvus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Yunnan Province: ChinPing",
+ "version": "2026.11.21",
+ "zh": "黄色钝颚白蚁"
+}

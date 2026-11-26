@@ -1,0 +1,71 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ahmaditermes-dinghuensis.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 96,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Ahmaditermes dinghuensis",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "ahmaditermes-dinghuensis",
+   "source": "gbif",
+   "theirs": "Ahmaditermes Akhtar, 1975",
+   "url": null,
+   "verified": false,
+   "zh": "鼎湖钝颚白蚁"
+  }
+ ],
+ "authorship": "Li, 1985",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ahmaditermes",
+   "latin": "Ahmaditermes",
+   "zh": "钝颚白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "China, Vietnam",
+  "zh": "中国、越南"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ahmaditermes dinghuensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ahmaditermes-dinghuensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Peribulbitermes jinghongensis Li, 1985: 96-97, 100",
+   "authorship": "Li, 1985",
+   "localityAlignment": "matched",
+   "name": "Peribulbitermes jinghongensis",
+   "note": "",
+   "reference": "96-97, 100",
+   "typeLocality": "China: Yunnan Province: Jinghong: Xishuangbanna"
+  }
+ ],
+ "typeLocality": "China: Guangdong Province: Mt. Dinghushan: Zhaoqing",
+ "version": "2026.11.21",
+ "zh": "鼎湖钝颚白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/unguitermes-trispinosus.json",
+ "apiVersion": "1",
+ "authorship": "Ruelle, 1973",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "unguitermes",
+   "latin": "Unguitermes",
+   "zh": "爪白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "tropical Africa",
+  "zh": "非洲热带"
+ },
+ "isTypeSpecies": false,
+ "latin": "Unguitermes trispinosus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/unguitermes-trispinosus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Camp Putnam, Epulu River",
+ "version": "2026.11.21",
+ "zh": "三针爪白蚁"
+}

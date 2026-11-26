@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-havilandi.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1900",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "southern Africa, South Africa, Mozambique, West Africa, Cameroon, Nigeria, South America, Brazil, Antigua and Barbuda, Bangladesh, Barbados, Europa Island (France), Guadeloupe, Guyana, India, Peru, Saint Kitts and Nevis, Anguilla, Saint Lucia, Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, U.S. Virgin Islands",
+  "zh": "非洲南部、南非、莫桑比克、西非、喀麦隆、尼日利亚、南美、巴西、安提瓜和巴布达、孟加拉国、巴巴多斯、欧罗巴岛（法国）、瓜德罗普、圭亚那、印度、秘鲁、圣基茨和尼维斯、安圭拉、圣卢西亚、圣文森特和格林纳丁斯、苏里南、特立尼达和多巴哥、美属维尔京群岛"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes havilandi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-havilandi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Calotermes lamanianus Sjöstedt, 1911: 137-139",
+   "authorship": "Sjöstedt, 1911",
+   "localityAlignment": "matched",
+   "name": "Calotermes lamanianus",
+   "note": "",
+   "reference": "137-139",
+   "typeLocality": "Democratic Republic of the Congo: Mukimbungu"
+  },
+  {
+   "asPublished": "Cryptotermes senegalensis Silvestri, 1914: 7-8",
+   "authorship": "Silvestri, 1914",
+   "localityAlignment": "matched",
+   "name": "Cryptotermes senegalensis",
+   "note": "",
+   "reference": "7-8",
+   "typeLocality": "Senegal: Thiès"
+  }
+ ],
+ "typeLocality": "Equatorial Guinea: Bioko",
+ "version": "2026.11.21",
+ "zh": "叶额堆砂白蚁"
+}

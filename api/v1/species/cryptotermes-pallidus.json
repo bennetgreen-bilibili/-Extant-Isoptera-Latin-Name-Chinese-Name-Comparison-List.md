@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-pallidus.json",
+ "apiVersion": "1",
+ "authorship": "Rambur, 1842",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Réunion, Mauritius",
+  "zh": "留尼汪、毛里求斯"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes pallidus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-pallidus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Mauritius: ?",
+ "version": "2026.11.21",
+ "zh": "苍白堆砂白蚁"
+}

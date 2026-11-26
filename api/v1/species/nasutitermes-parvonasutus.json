@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-parvonasutus.json",
+ "apiVersion": "1",
+ "authorship": "Nawa, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "China (Taiwan)",
+  "zh": "中国台湾"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes parvonasutus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-parvonasutus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Eutermes) watasei Holmgren, 1912: 134-136",
+   "authorship": "Holmgren, 1912",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Eutermes) watasei",
+   "note": "",
+   "reference": "134-136",
+   "typeLocality": "Taiwan: ?"
+  }
+ ],
+ "typeLocality": "Taiwan: ?",
+ "version": "2026.11.21",
+ "zh": "小象白蚁"
+}

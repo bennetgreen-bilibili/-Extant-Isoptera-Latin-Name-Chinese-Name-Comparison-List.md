@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/procryptotermes-hesperus.json",
+ "apiVersion": "1",
+ "authorship": "Scheffrahn & Krecek, 2001",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "procryptotermes",
+   "latin": "Procryptotermes",
+   "zh": "前砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Bahamas, Cuba, Mexico",
+  "zh": "巴哈马、古巴、墨西哥"
+ },
+ "isTypeSpecies": false,
+ "latin": "Procryptotermes hesperus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/procryptotermes-hesperus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Bahamas: North Andros Island, 3 km SE Coakley Town",
+ "version": "2026.11.21",
+ "zh": "西部前砂白蚁"
+}

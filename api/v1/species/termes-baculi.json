@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/termes-baculi.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1900",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "termes",
+   "latin": "Termes",
+   "zh": "白蚁属"
+  },
+  "subfamily": {
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, Cameroon, Nigeria, Democratic Republic of the Congo, Gabon, Guinea, Côte d'Ivoire, Sudan",
+  "zh": "旧热带界、喀麦隆、尼日利亚、刚果民主共和国、加蓬、几内亚、科特迪瓦、苏丹"
+ },
+ "isTypeSpecies": false,
+ "latin": "Termes baculi",
+ "pageUrl": "https://termite-extant-isoptera.org/species/termes-baculi/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cameroon: Ekundu",
+ "version": "2026.11.21",
+ "zh": "巴舍尔白蚁"
+}

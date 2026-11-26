@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/eurytermes-ceylonicus.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1913",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "eurytermes",
+   "latin": "Eurytermes",
+   "zh": "宽白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Sri Lanka",
+  "zh": "斯里兰卡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Eurytermes ceylonicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/eurytermes-ceylonicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes ceyloniellus Kemner, 1926: 389",
+   "authorship": "Kemner, 1926",
+   "localityAlignment": "matched",
+   "name": "Eutermes ceyloniellus",
+   "note": "",
+   "reference": "389",
+   "typeLocality": "Sri Lanka: Badulla"
+  }
+ ],
+ "typeLocality": "Sri Lanka: ?",
+ "version": "2026.11.21",
+ "zh": "锡兰宽白蚁"
+}

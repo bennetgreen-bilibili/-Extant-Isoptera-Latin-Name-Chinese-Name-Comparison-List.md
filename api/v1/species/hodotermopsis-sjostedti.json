@@ -1,0 +1,82 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/hodotermopsis-sjostedti.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1911",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "hodotermopsidae",
+   "latin": "Hodotermopsidae",
+   "zh": "原白蚁科"
+  },
+  "genus": {
+   "id": "hodotermopsis",
+   "latin": "Hodotermopsis",
+   "zh": "原白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Japan, China (Taiwan), southern China, Vietnam",
+  "zh": "日本、中国台湾、中国南部、越南"
+ },
+ "isTypeSpecies": true,
+ "latin": "Hodotermopsis sjostedti",
+ "pageUrl": "https://termite-extant-isoptera.org/species/hodotermopsis-sjostedti/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Hodotermopsis japonicus Holmgren, 1912: 112-113",
+   "authorship": "Holmgren, 1912",
+   "localityAlignment": "matched",
+   "name": "Hodotermopsis japonicus",
+   "note": "",
+   "reference": "112-113",
+   "typeLocality": "Japan: Amami-Oshima"
+  },
+  {
+   "asPublished": "Hodotermopsis yui Li & Ping, 1988: 303-304, 305",
+   "authorship": "Li & Ping, 1988",
+   "localityAlignment": "matched",
+   "name": "Hodotermopsis yui",
+   "note": "",
+   "reference": "303-304, 305",
+   "typeLocality": "China: Guangdong Province: Lianshan County"
+  },
+  {
+   "asPublished": "Hodotermopsis orientalis Li & Ping, 1988: 301-303, 304",
+   "authorship": "Li & Ping, 1988",
+   "localityAlignment": "matched",
+   "name": "Hodotermopsis orientalis",
+   "note": "",
+   "reference": "301-303, 304",
+   "typeLocality": "China: Zhejiang Province: Longquan County"
+  },
+  {
+   "asPublished": "Hodotermopsis dimorphus Zhu, Wang & Huang, 1991: 199-201, 203",
+   "authorship": "Zhu, Wang & Huang, 1991",
+   "localityAlignment": "matched",
+   "name": "Hodotermopsis dimorphus",
+   "note": "",
+   "reference": "199-201, 203",
+   "typeLocality": "China: Guizhou Province: Leishan County: Leigong Mountain"
+  },
+  {
+   "asPublished": "Hodotermopsis fanjingshanensis Zhu, Wang & Huang, 1991: 201-202, 203",
+   "authorship": "Zhu, Wang & Huang, 1991",
+   "localityAlignment": "matched",
+   "name": "Hodotermopsis fanjingshanensis",
+   "note": "",
+   "reference": "201-202, 203",
+   "typeLocality": "China: Guizhou Province: Jiankou County: Fanjingshan Mountain"
+  }
+ ],
+ "typeLocality": "Vietnam: Tonkin: Montes Mauson",
+ "version": "2026.11.21",
+ "zh": "山林原白蚁"
+}

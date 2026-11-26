@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-glabritergus.json",
+ "apiVersion": "1",
+ "authorship": "Snyder & Emerson, 1949",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Costa Rica, Panama, Guatemala, Ecuador",
+  "zh": "哥斯达黎加、巴拿马、危地马拉、厄瓜多尔"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes glabritergus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-glabritergus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Costa Rica: Colombiana",
+ "version": "2026.11.21",
+ "zh": "光背象白蚁"
+}

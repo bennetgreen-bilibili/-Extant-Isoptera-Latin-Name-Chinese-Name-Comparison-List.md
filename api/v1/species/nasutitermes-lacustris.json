@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-lacustris.json",
+ "apiVersion": "1",
+ "authorship": "Bugnion, 1912",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Sri Lanka",
+  "zh": "斯里兰卡"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes lacustris",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-lacustris/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Sri Lanka: Ambalangoda",
+ "version": "2026.11.21",
+ "zh": "湖泊象白蚁"
+}

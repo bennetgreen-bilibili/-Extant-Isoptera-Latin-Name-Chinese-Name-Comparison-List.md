@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-ferranti.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1911",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Democratic Republic of the Congo (Kinshasa), Angola, Republic of the Congo (Brazzaville), Democratic Republic of the Congo (Kinshasa), Nigeria",
+  "zh": "刚果（金）、安哥拉、刚果（布）、刚果民主共和国、尼日利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes ferranti",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-ferranti/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Kasai: Sankuru",
+ "version": "2026.11.21",
+ "zh": "费朗象白蚁"
+}

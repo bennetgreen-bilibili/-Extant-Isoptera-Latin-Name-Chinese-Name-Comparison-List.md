@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/biratermes-robustus.json",
+ "apiVersion": "1",
+ "authorship": "Constantino, 1993",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "biratermes",
+   "latin": "Biratermes",
+   "zh": "拜拉白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "French Guiana, Brazil",
+  "zh": "法属圭亚那、巴西"
+ },
+ "isTypeSpecies": true,
+ "latin": "Biratermes robustus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/biratermes-robustus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Amapá: Serra do Navio [0.8955N 52.0022W]",
+ "version": "2026.11.21",
+ "zh": "粗壮拜拉白蚁"
+}

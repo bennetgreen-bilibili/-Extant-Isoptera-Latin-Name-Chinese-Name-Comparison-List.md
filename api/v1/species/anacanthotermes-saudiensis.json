@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/anacanthotermes-saudiensis.json",
+ "apiVersion": "1",
+ "authorship": "Chhotani & Bose, 1982",
+ "classification": {
+  "clade": {
+   "id": "teletisoptera",
+   "latin": "Teletisoptera",
+   "zh": "远等翅类"
+  },
+  "family": {
+   "id": "hodotermitidae",
+   "latin": "Hodotermitidae",
+   "zh": "草白蚁科"
+  },
+  "genus": {
+   "id": "anacanthotermes",
+   "latin": "Anacanthotermes",
+   "zh": "无刺白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Saudi Arabia",
+  "zh": "沙特阿拉伯"
+ },
+ "isTypeSpecies": false,
+ "latin": "Anacanthotermes saudiensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/anacanthotermes-saudiensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Saudi Arabia: Jebel Banban",
+ "version": "2026.11.21",
+ "zh": "沙特无刺白蚁"
+}

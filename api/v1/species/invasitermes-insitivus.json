@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/invasitermes-insitivus.json",
+ "apiVersion": "1",
+ "authorship": "Hill, 1929",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "invasitermes",
+   "latin": "Invasitermes",
+   "zh": "闯白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Invasitermes insitivus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/invasitermes-insitivus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Australia: Queensland: Townsville",
+ "version": "2026.11.21",
+ "zh": "候补闯白蚁"
+}

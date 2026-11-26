@@ -1,0 +1,65 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ancistrotermes-crucifer.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1897",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ancistrotermes",
+   "latin": "Ancistrotermes",
+   "zh": "钩白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, West Africa, Central Africa",
+  "zh": "旧热带界、西非、中非"
+ },
+ "isTypeSpecies": true,
+ "latin": "Ancistrotermes crucifer",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ancistrotermes-crucifer/",
+ "rank": "species",
+ "subspecies": [
+  {
+   "authorship": "Sjöstedt, 1897",
+   "latin": "Ancistrotermes crucifer crucifer",
+   "pageUrl": "https://termite-extant-isoptera.org/species/ancistrotermes-crucifer-crucifer/",
+   "slug": "ancistrotermes-crucifer-crucifer",
+   "zh": "指名亚种"
+  },
+  {
+   "authorship": "Silvestri, 1914",
+   "latin": "Ancistrotermes crucifer diversana",
+   "pageUrl": "https://termite-extant-isoptera.org/species/ancistrotermes-crucifer-diversana/",
+   "slug": "ancistrotermes-crucifer-diversana",
+   "zh": "相异亚种"
+  }
+ ],
+ "synonyms": [
+  {
+   "asPublished": "Microtermes camerunensis Holmgren, 1913: 332",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "matched",
+   "name": "Microtermes camerunensis",
+   "note": "",
+   "reference": "332",
+   "typeLocality": "(country unknown): ?"
+  }
+ ],
+ "typeLocality": "Cameroon: Abo; Sierra Leone: ?",
+ "version": "2026.11.21",
+ "zh": "十字钩白蚁"
+}

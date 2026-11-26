@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cornitermes-bolivianus.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1926",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "cornitermes",
+   "latin": "Cornitermes",
+   "zh": "角象白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Colombia, Bolivia, Peru, Ecuador, Venezuela",
+  "zh": "巴西、哥伦比亚、玻利维亚、秘鲁、厄瓜多尔、委内瑞拉"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cornitermes bolivianus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cornitermes-bolivianus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Bolivia: Pando: near Lake Rogagua [13.9667S 66.8667W]",
+ "version": "2026.11.21",
+ "zh": "玻利维亚角象白蚁"
+}

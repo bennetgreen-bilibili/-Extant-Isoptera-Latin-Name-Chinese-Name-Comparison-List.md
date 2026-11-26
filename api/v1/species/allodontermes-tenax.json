@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/allodontermes-tenax.json",
+ "apiVersion": "1",
+ "authorship": "Silvestri, 1912",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "allodontermes",
+   "latin": "Allodontermes",
+   "zh": "奇齿白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics (East Africa), southern Africa",
+  "zh": "旧热带界东非、非洲南部"
+ },
+ "isTypeSpecies": false,
+ "latin": "Allodontermes tenax",
+ "pageUrl": "https://termite-extant-isoptera.org/species/allodontermes-tenax/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes infundibuli Sjöstedt, 1913: 363-366",
+   "authorship": "Sjöstedt, 1913",
+   "localityAlignment": "matched",
+   "name": "Termes infundibuli",
+   "note": "",
+   "reference": "363-366",
+   "typeLocality": "Democratic Republic of the Congo: Katanga: Sankisia"
+  },
+  {
+   "asPublished": "Allodontermes morogorensis Harris, 1936: 364-366",
+   "authorship": "Harris, 1936",
+   "localityAlignment": "matched",
+   "name": "Allodontermes morogorensis",
+   "note": "",
+   "reference": "364-366",
+   "typeLocality": "Tanzania: Morogoro"
+  }
+ ],
+ "typeLocality": "Zambia: Luapula",
+ "version": "2026.11.21",
+ "zh": "执着奇齿白蚁"
+}

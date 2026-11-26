@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/procryptotermes-dioscurae.json",
+ "apiVersion": "1",
+ "authorship": "Harris, 1954",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "procryptotermes",
+   "latin": "Procryptotermes",
+   "zh": "前砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Socotra, Yemen",
+  "zh": "索科特拉岛、也门"
+ },
+ "isTypeSpecies": false,
+ "latin": "Procryptotermes dioscurae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/procryptotermes-dioscurae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Yemen: Socotra; Bajin",
+ "version": "2026.11.21",
+ "zh": "迪奥斯屈阿前砂白蚁"
+}

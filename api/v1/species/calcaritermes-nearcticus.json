@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/calcaritermes-nearcticus.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1933",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "calcaritermes",
+   "latin": "Calcaritermes",
+   "zh": "距白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Calcaritermes nearcticus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/calcaritermes-nearcticus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "United States: Florida: Clay County",
+ "version": "2026.11.21",
+ "zh": "新北距白蚁"
+}

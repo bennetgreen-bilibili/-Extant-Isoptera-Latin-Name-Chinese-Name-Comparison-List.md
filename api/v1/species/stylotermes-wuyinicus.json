@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/stylotermes-wuyinicus.json",
+ "apiVersion": "1",
+ "authorship": "Li & Ping, 1981",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "stylotermitidae",
+   "latin": "Stylotermitidae",
+   "zh": "杆白蚁科"
+  },
+  "genus": {
+   "id": "stylotermes",
+   "latin": "Stylotermes",
+   "zh": "杆白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "China",
+  "zh": "中国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Stylotermes wuyinicus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/stylotermes-wuyinicus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Fujian Province: Shaowu, Xian",
+ "version": "2026.11.21",
+ "zh": "武夷杆白蚁"
+}

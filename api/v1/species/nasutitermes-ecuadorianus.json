@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-ecuadorianus.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1910",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Ecuador, Brazil",
+  "zh": "厄瓜多尔、巴西"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes ecuadorianus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-ecuadorianus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Ecuador: Los Rios: Babahoyo [1.81667S 79.5167W]",
+ "version": "2026.11.21",
+ "zh": "厄瓜多尔象白蚁"
+}

@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-dives.json",
+ "apiVersion": "1",
+ "authorship": "Hagen, 1858",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Southeast Asia, Indonesia, Philippines, Malaysia",
+  "zh": "东南亚印度尼西亚、菲律宾、马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Odontotermes dives",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-dives/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Odontotermes mediodentatus Oshima, 1920: 499-500",
+   "authorship": "Oshima, 1920",
+   "localityAlignment": "unmatched",
+   "name": "Odontotermes mediodentatus",
+   "note": "",
+   "reference": "499-500",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Termitogetonella tibiaoensis Oshima, 1920: 496-497",
+   "authorship": "Oshima, 1920",
+   "localityAlignment": "unmatched",
+   "name": "Termitogetonella tibiaoensis",
+   "note": "",
+   "reference": "496-497",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Philippines: Luzon: Manila",
+ "version": "2026.11.21",
+ "zh": "多产土白蚁"
+}

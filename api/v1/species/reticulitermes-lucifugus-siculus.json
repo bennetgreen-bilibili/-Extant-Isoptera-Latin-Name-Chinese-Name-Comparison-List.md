@@ -1,0 +1,56 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/reticulitermes-lucifugus-siculus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 100,
+   "family_latin": "Heterotermitidae",
+   "family_zh": "异白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Reticulitermes lucifugus siculus",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "亚种",
+   "slug": "reticulitermes-lucifugus-siculus",
+   "source": "gbif",
+   "theirs": "Reticulitermes lucifugus Rossi, 1792",
+   "url": null,
+   "verified": false,
+   "zh": "西西里亚种"
+  }
+ ],
+ "authorship": "Ghesini, Luchetti & Marini, 2024",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "reticulitermes",
+   "latin": "Reticulitermes",
+   "zh": "散白蚁属"
+  },
+  "subfamily": null
+ },
+ "latin": "Reticulitermes lucifugus siculus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/reticulitermes-lucifugus-siculus/",
+ "parent": {
+  "latin": "Reticulitermes lucifugus",
+  "slug": "reticulitermes-lucifugus",
+  "zh": "暗黑散白蚁"
+ },
+ "rank": "subspecies",
+ "synonyms": [],
+ "typeLocality": "Italy: Sicily",
+ "version": "2026.11.21",
+ "zh": "西西里亚种"
+}

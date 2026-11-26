@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/termes-hospes.json",
+ "apiVersion": "1",
+ "authorship": "Sjöstedt, 1900",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "termes",
+   "latin": "Termes",
+   "zh": "白蚁属"
+  },
+  "subfamily": {
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, Democratic Republic of the Congo, Senegal, Cameroon, Gabon, Ghana, Guinea, Côte d'Ivoire, Kenya, Nigeria, Uganda",
+  "zh": "旧热带界、刚果民主共和国、塞内加尔、喀麦隆、加蓬、加纳、几内亚、科特迪瓦、肯尼亚、尼日利亚、乌干达"
+ },
+ "isTypeSpecies": false,
+ "latin": "Termes hospes",
+ "pageUrl": "https://termite-extant-isoptera.org/species/termes-hospes/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Mirotermes obtectus Silvestri, 1914: 127-128",
+   "authorship": "Silvestri, 1914",
+   "localityAlignment": "unmatched",
+   "name": "Mirotermes obtectus",
+   "note": "",
+   "reference": "127-128",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Mirotermes (Mirotermes) langi Emerson, 1928: 537-539",
+   "authorship": "Emerson, 1928",
+   "localityAlignment": "unmatched",
+   "name": "Mirotermes (Mirotermes) langi",
+   "note": "",
+   "reference": "537-539",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Cameroon: Bonge",
+ "version": "2026.11.21",
+ "zh": "宿主白蚁"
+}

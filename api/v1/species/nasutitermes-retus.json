@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-retus.json",
+ "apiVersion": "1",
+ "authorship": "Kemner, 1931",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Indonesia",
+  "zh": "印度尼西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes retus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-retus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Indonesia: Maluku: Ambon",
+ "version": "2026.11.21",
+ "zh": "红色象白蚁"
+}

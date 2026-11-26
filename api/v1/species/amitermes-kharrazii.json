@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/amitermes-kharrazii.json",
+ "apiVersion": "1",
+ "authorship": "Ghayourfar, 1999",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "amitermes",
+   "latin": "Amitermes",
+   "zh": "弓白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Iran",
+  "zh": "伊朗"
+ },
+ "isTypeSpecies": false,
+ "latin": "Amitermes kharrazii",
+ "pageUrl": "https://termite-extant-isoptera.org/species/amitermes-kharrazii/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Iran: Province of Tehran: Tehran, Karaj, Abyek",
+ "version": "2026.11.21",
+ "zh": "哈尔拉兹弓白蚁"
+}

@@ -1,0 +1,77 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/macrotermes-subhyalinus.json",
+ "apiVersion": "1",
+ "authorship": "Rambur, 1842",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "macrotermes",
+   "latin": "Macrotermes",
+   "zh": "大白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Old World tropics, Kenya, Ethiopia, Tanzania, Senegal, Côte d'Ivoire, Angola, Benin, Botswana, Burundi, Central African Republic, Chad, Democratic Republic of the Congo, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Malawi, Mali, Mozambique, Namibia, Nigeria, Oman, Rwanda, Saudi Arabia, Sierra Leone, Somalia, Sudan, Togo, Uganda, Yemen, Zambia, Zimbabwe",
+  "zh": "旧热带界、肯尼亚、埃塞俄比亚、坦桑尼亚、塞内加尔、科特迪瓦、安哥拉、贝宁、博茨瓦纳、布隆迪、中非共和国、乍得、刚果民主共和国、冈比亚、加纳、几内亚、几内亚比绍、利比里亚、马拉维、马里、莫桑比克、纳米比亚、尼日利亚、阿曼、卢旺达、沙特阿拉伯、塞拉利昂、索马里、苏丹、多哥、乌干达、也门、赞比亚、津巴布韦"
+ },
+ "isTypeSpecies": false,
+ "latin": "Macrotermes subhyalinus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/macrotermes-subhyalinus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes bellicosus sansibarita Wasmann, 1897: 158-159",
+   "authorship": "Wasmann, 1897",
+   "localityAlignment": "unmatched",
+   "name": "Termes bellicosus sansibarita",
+   "note": "",
+   "reference": "158-159",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Termes tumulicola Sjöstedt, 1899: 34",
+   "authorship": "Sjöstedt, 1899",
+   "localityAlignment": "unmatched",
+   "name": "Termes tumulicola",
+   "note": "",
+   "reference": "34",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Bellicositermes jeanneli Grassé, 1937: 71-73",
+   "authorship": "Grassé, 1937",
+   "localityAlignment": "unmatched",
+   "name": "Bellicositermes jeanneli",
+   "note": "",
+   "reference": "71-73",
+   "typeLocality": ""
+  },
+  {
+   "asPublished": "Bellicositermes bellicosus rex Grassé & Noirot, 1961: 321-324",
+   "authorship": "Grassé & Noirot, 1961",
+   "localityAlignment": "unmatched",
+   "name": "Bellicositermes bellicosus rex",
+   "note": "",
+   "reference": "321-324",
+   "typeLocality": ""
+  }
+ ],
+ "typeLocality": "Senegal: ?",
+ "version": "2026.11.21",
+ "zh": "近明大白蚁"
+}

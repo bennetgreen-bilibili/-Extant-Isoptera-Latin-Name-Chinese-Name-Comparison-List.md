@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/postelectrotermes-howa.json",
+ "apiVersion": "1",
+ "authorship": "Wasmann, 1897",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "postelectrotermes",
+   "latin": "Postelectrotermes",
+   "zh": "后琥珀白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Indian Ocean islands, Madagascar, Réunion, Comoros, Mauritius, Réunion (France)",
+  "zh": "印度洋岛屿、马达加斯加、留尼汪、科摩罗、毛里求斯、留尼汪（法）"
+ },
+ "isTypeSpecies": false,
+ "latin": "Postelectrotermes howa",
+ "pageUrl": "https://termite-extant-isoptera.org/species/postelectrotermes-howa/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Neotermes howa mauritiana Sjöstedt, 1926: 42",
+   "authorship": "Sjöstedt, 1926",
+   "localityAlignment": "matched",
+   "name": "Neotermes howa mauritiana",
+   "note": "",
+   "reference": "42",
+   "typeLocality": "Mauritius: ?"
+  }
+ ],
+ "typeLocality": "Madagascar: Fenerive",
+ "version": "2026.11.21",
+ "zh": "合华后琥珀白蚁"
+}

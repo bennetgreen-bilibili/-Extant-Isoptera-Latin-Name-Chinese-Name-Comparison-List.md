@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/cryptotermes-longicollis.json",
+ "apiVersion": "1",
+ "authorship": "Banks, 1918",
+ "classification": {
+  "clade": {
+   "id": "icoisoptera",
+   "latin": "Icoisoptera",
+   "zh": "近等翅类"
+  },
+  "family": {
+   "id": "kalotermitidae",
+   "latin": "Kalotermitidae",
+   "zh": "木白蚁科"
+  },
+  "genus": {
+   "id": "cryptotermes",
+   "latin": "Cryptotermes",
+   "zh": "堆砂白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Central America, Panama, Honduras, Mexico, Dominican Republic, Haiti, Montserrat, Puerto Rico, Trinidad and Tobago",
+  "zh": "中美洲、巴拿马、洪都拉斯、墨西哥、多米尼加、海地、蒙特塞拉特、波多黎各、特立尼达和多巴哥"
+ },
+ "isTypeSpecies": false,
+ "latin": "Cryptotermes longicollis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/cryptotermes-longicollis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Panama: ?",
+ "version": "2026.11.21",
+ "zh": "长颈堆砂白蚁"
+}

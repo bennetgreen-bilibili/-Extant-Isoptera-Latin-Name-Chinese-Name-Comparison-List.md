@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ephelotermes-argutus.json",
+ "apiVersion": "1",
+ "authorship": "Hill, 1929",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ephelotermes",
+   "latin": "Ephelotermes",
+   "zh": "棒颚白蚁属"
+  },
+  "subfamily": {
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Australia",
+  "zh": "澳大利亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ephelotermes argutus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ephelotermes-argutus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Australia: Victoria: Kewell, 13 km NWN Mortoa",
+ "version": "2026.11.21",
+ "zh": "清楚棒颚白蚁"
+}

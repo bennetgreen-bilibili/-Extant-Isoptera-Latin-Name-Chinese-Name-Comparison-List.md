@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/dissimulitermes-invisibilis.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 99,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Dissimulitermes invisibilis",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "dissimulitermes-invisibilis",
+   "source": "gbif",
+   "theirs": "Animalia",
+   "url": null,
+   "verified": false,
+   "zh": "隐形隐藏白蚁"
+  }
+ ],
+ "authorship": "Constantini & Cancello, 2020",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "dissimulitermes",
+   "latin": "Dissimulitermes",
+   "zh": "隐藏白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": true,
+ "latin": "Dissimulitermes invisibilis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/dissimulitermes-invisibilis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Espírito Santo: Santa Teresa, Reserva Biológica de Augusto Ruschi [ 19.9078S 40.5414W ]",
+ "version": "2026.11.21",
+ "zh": "隐形隐藏白蚁"
+}

@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/schedorhinotermes-malaccensis.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1913",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "schedorhinotermes",
+   "latin": "Schedorhinotermes",
+   "zh": "长鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Southeast Asia, Thailand, Malaysia, Cambodia, Indonesia, Myanmar, Singapore, Vietnam, India",
+  "zh": "东南亚、泰国、马来西亚、柬埔寨、印度尼西亚、缅甸、新加坡、越南、印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Schedorhinotermes malaccensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/schedorhinotermes-malaccensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Rhinotermes ( Schedorhinotermes ) sarawakensis Holmgren, 1913: 87-88",
+   "authorship": "Holmgren, 1913",
+   "localityAlignment": "matched",
+   "name": "Rhinotermes (Schedorhinotermes) sarawakensis",
+   "note": "",
+   "reference": "87-88",
+   "typeLocality": "Malaysia: Sarawak"
+  },
+  {
+   "asPublished": "Schedorhinotermes magnificus Silvestri, 1914: 425-426",
+   "authorship": "Silvestri, 1914",
+   "localityAlignment": "matched",
+   "name": "Schedorhinotermes magnificus",
+   "note": "",
+   "reference": "425-426",
+   "typeLocality": "Myanmar: west side of Dawna Hills, Misty Hollow"
+  }
+ ],
+ "typeLocality": "Malaysia: Malacca",
+ "version": "2026.11.21",
+ "zh": "马六甲长鼻白蚁"
+}

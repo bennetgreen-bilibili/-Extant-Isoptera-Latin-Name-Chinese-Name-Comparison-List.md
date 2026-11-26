@@ -1,0 +1,46 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/schedorhinotermes-longirostris.json",
+ "apiVersion": "1",
+ "authorship": "Brauer, 1866",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "rhinotermitidae",
+   "latin": "Rhinotermitidae",
+   "zh": "鼻白蚁科"
+  },
+  "genus": {
+   "id": "schedorhinotermes",
+   "latin": "Schedorhinotermes",
+   "zh": "长鼻白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "India, Indonesia, Malaysia, Palau, Papua New Guinea; introduced: Guam (United States)",
+  "zh": "印度、印度尼西亚、马来西亚、帕劳、巴布亚新几内亚；引入：关岛（美国）"
+ },
+ "isTypeSpecies": false,
+ "latin": "Schedorhinotermes longirostris",
+ "pageUrl": "https://termite-extant-isoptera.org/species/schedorhinotermes-longirostris/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Rhinotermes dimorphus Desneux, 1905: 368",
+   "authorship": "Desneux, 1905",
+   "localityAlignment": "matched",
+   "name": "Rhinotermes dimorphus",
+   "note": "",
+   "reference": "368",
+   "typeLocality": "Papua New Guinea: Friedrich-Wilhelmshafen"
+  }
+ ],
+ "typeLocality": "India: Nicobar Islands: Kondul",
+ "version": "2026.11.21",
+ "zh": "长喙长鼻白蚁"
+}

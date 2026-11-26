@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/pseudhamitermes-khmerensis.json",
+ "apiVersion": "1",
+ "authorship": "Noirot, 1966",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "pseudhamitermes",
+   "latin": "Pseudhamitermes",
+   "zh": "伪钩白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Vietnam",
+  "zh": "越南"
+ },
+ "isTypeSpecies": true,
+ "latin": "Pseudhamitermes khmerensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/pseudhamitermes-khmerensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Vietnam: 35 km SW Phnom-Penh (route de Kampot)",
+ "version": "2026.11.21",
+ "zh": "高棉伪钩白蚁"
+}

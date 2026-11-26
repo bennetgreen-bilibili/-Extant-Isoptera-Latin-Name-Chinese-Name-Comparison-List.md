@@ -1,0 +1,50 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/quasitermes-incisus.json",
+ "apiVersion": "1",
+ "authorship": "Cachan, 1949",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "quasitermes",
+   "latin": "Quasitermes",
+   "zh": "相似白蚁属"
+  },
+  "subfamily": {
+   "id": "termitinae",
+   "latin": "Termitinae",
+   "zh": "白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Madagascar",
+  "zh": "马达加斯加"
+ },
+ "isTypeSpecies": true,
+ "latin": "Quasitermes incisus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/quasitermes-incisus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Quasitermes caprinus Emerson, 1950: 10-13",
+   "authorship": "Emerson, 1950",
+   "localityAlignment": "matched",
+   "name": "Quasitermes caprinus",
+   "note": "",
+   "reference": "10-13",
+   "typeLocality": "Madagascar: Manantantely, near Tolanaro"
+  }
+ ],
+ "typeLocality": "Madagascar: Tolanaro (Fort Dauphin); Tsaratanana; near Ivoloina",
+ "version": "2026.11.21",
+ "zh": "切割相似白蚁"
+}

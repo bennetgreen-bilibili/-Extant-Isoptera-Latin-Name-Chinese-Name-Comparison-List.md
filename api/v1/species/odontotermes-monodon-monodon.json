@@ -1,0 +1,39 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/odontotermes-monodon-monodon.json",
+ "apiVersion": "1",
+ "authorship": "Gerstäcker, 1891",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "odontotermes",
+   "latin": "Odontotermes",
+   "zh": "土白蚁属"
+  },
+  "subfamily": {
+   "id": "macrotermitinae",
+   "latin": "Macrotermitinae",
+   "zh": "大白蚁亚科"
+  }
+ },
+ "latin": "Odontotermes monodon monodon",
+ "pageUrl": "https://termite-extant-isoptera.org/species/odontotermes-monodon-monodon/",
+ "parent": {
+  "latin": "Odontotermes monodon",
+  "slug": "odontotermes-monodon",
+  "zh": "单齿土白蚁"
+ },
+ "rank": "subspecies",
+ "synonyms": [],
+ "typeLocality": "Mozambique: Quilimane, Kikengo",
+ "version": "2026.11.21",
+ "zh": "指名亚种"
+}

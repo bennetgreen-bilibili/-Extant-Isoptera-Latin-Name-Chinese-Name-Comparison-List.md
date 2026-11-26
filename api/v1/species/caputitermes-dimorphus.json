@@ -1,0 +1,99 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/caputitermes-dimorphus.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "match",
+   "kind": "ambiguous",
+   "latin": "Caputitermes dimorphus",
+   "match": null,
+   "note": "仅模糊候选：OTU 84619 Nasutitermes dimorphus Ahmad, 1965",
+   "rank": "种",
+   "slug": "caputitermes-dimorphus",
+   "source": "bsf",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "二型首白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 99,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Caputitermes dimorphus",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "caputitermes-dimorphus",
+   "source": "gbif",
+   "theirs": "Animalia",
+   "url": null,
+   "verified": false,
+   "zh": "二型首白蚁"
+  },
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": null,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "missing",
+   "latin": "Caputitermes dimorphus",
+   "match": null,
+   "note": "",
+   "rank": "种",
+   "slug": "caputitermes-dimorphus",
+   "source": "col",
+   "theirs": "",
+   "url": null,
+   "verified": false,
+   "zh": "二型首白蚁"
+  }
+ ],
+ "authorship": "Almeida-Azevedo, Acioli, Morais & Azevedo, 2023",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "caputitermes",
+   "latin": "Caputitermes",
+   "zh": "首白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": true,
+ "latin": "Caputitermes dimorphus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/caputitermes-dimorphus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Amazonas: Manaus, Fazenda Experimental da UFAM [ 2.633S 60.1072W ]",
+ "version": "2026.11.21",
+ "zh": "二型首白蚁"
+}

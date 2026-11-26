@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/syntermes-wheeleri.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1945",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "syntermes",
+   "latin": "Syntermes",
+   "zh": "聚白蚁属"
+  },
+  "subfamily": {
+   "id": "syntermitinae",
+   "latin": "Syntermitinae",
+   "zh": "聚白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil, Paraguay",
+  "zh": "巴西、巴拉圭"
+ },
+ "isTypeSpecies": false,
+ "latin": "Syntermes wheeleri",
+ "pageUrl": "https://termite-extant-isoptera.org/species/syntermes-wheeleri/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: \"Rio\" (probably Rio de Janeiro) [22.9S 43.23W]",
+ "version": "2026.11.21",
+ "zh": "惠勒聚白蚁"
+}

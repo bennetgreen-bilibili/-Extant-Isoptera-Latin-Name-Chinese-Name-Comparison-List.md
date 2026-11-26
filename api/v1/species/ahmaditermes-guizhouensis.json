@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/ahmaditermes-guizhouensis.json",
+ "apiVersion": "1",
+ "authorship": "Li & Ping, 1982",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "ahmaditermes",
+   "latin": "Ahmaditermes",
+   "zh": "钝颚白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "China (Guizhou)",
+  "zh": "中国贵州"
+ },
+ "isTypeSpecies": false,
+ "latin": "Ahmaditermes guizhouensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/ahmaditermes-guizhouensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Guizhou Province: Cheting: Weinan Plantation",
+ "version": "2026.11.21",
+ "zh": "贵州钝颚白蚁"
+}

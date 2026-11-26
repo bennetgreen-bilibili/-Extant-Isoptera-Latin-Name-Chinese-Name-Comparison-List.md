@@ -1,0 +1,59 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/nasutitermes-guayanae.json",
+ "apiVersion": "1",
+ "authorship": "Holmgren, 1910",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "nasutitermes",
+   "latin": "Nasutitermes",
+   "zh": "象白蚁属"
+  },
+  "subfamily": {
+   "id": "nasutitermitinae",
+   "latin": "Nasutitermitinae",
+   "zh": "象白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Colombia, Brazil, French Guiana, Suriname, Venezuela, Ecuador, Costa Rica, Panama, Peru, Trinidad and Tobago",
+  "zh": "哥伦比亚、巴西、法属圭亚那、苏里南、委内瑞拉、厄瓜多尔、哥斯达黎加、巴拿马、秘鲁、特立尼达和多巴哥"
+ },
+ "isTypeSpecies": false,
+ "latin": "Nasutitermes guayanae",
+ "pageUrl": "https://termite-extant-isoptera.org/species/nasutitermes-guayanae/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Eutermes (Eutermes) grandis Holmgren, 1910: 258-260",
+   "authorship": "Holmgren, 1910",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Eutermes) grandis",
+   "note": "",
+   "reference": "258-260",
+   "typeLocality": "Peru: Puno: Chaquimayo [13.45S 70.4W]"
+  },
+  {
+   "asPublished": "Eutermes (Eutermes) guayanae columbicus Holmgren, 1910: 256",
+   "authorship": "Holmgren, 1910",
+   "localityAlignment": "matched",
+   "name": "Eutermes (Eutermes) guayanae columbicus",
+   "note": "",
+   "reference": "256",
+   "typeLocality": "Colombia: ?"
+  }
+ ],
+ "typeLocality": "Suriname: ?",
+ "version": "2026.11.21",
+ "zh": "圭亚那象白蚁"
+}

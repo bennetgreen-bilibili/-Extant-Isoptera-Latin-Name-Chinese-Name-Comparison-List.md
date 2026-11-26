@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/foraminitermes-coatoni.json",
+ "apiVersion": "1",
+ "authorship": "Krishna, 1963",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "foraminitermes",
+   "latin": "Foraminitermes",
+   "zh": "孔白蚁属"
+  },
+  "subfamily": {
+   "id": "foraminitermitinae",
+   "latin": "Foraminitermitinae",
+   "zh": "孔白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Angola, Democratic Republic of the Congo",
+  "zh": "安哥拉、刚果民主共和国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Foraminitermes coatoni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/foraminitermes-coatoni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Democratic Republic of the Congo: Kinshasa (Leopoldville): Kalina Woods",
+ "version": "2026.11.21",
+ "zh": "科顿孔白蚁"
+}

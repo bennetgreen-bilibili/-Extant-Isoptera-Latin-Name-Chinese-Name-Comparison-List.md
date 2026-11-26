@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/procubitermes-wasmanni.json",
+ "apiVersion": "1",
+ "authorship": "Emerson, 1928",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "procubitermes",
+   "latin": "Procubitermes",
+   "zh": "原方白蚁属"
+  },
+  "subfamily": {
+   "id": "cubitermitinae",
+   "latin": "Cubitermitinae",
+   "zh": "方白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Cameroon",
+  "zh": "喀麦隆"
+ },
+ "isTypeSpecies": false,
+ "latin": "Procubitermes wasmanni",
+ "pageUrl": "https://termite-extant-isoptera.org/species/procubitermes-wasmanni/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Cameroon: Bipindi",
+ "version": "2026.11.21",
+ "zh": "沃斯曼原方白蚁"
+}

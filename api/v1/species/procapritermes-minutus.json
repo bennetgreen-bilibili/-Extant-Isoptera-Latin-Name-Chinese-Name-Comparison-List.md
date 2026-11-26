@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/procapritermes-minutus.json",
+ "apiVersion": "1",
+ "authorship": "Haviland, 1898",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "procapritermes",
+   "latin": "Procapritermes",
+   "zh": "前扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Yunnan (Jinping Mengla 580 m), Indonesia, Malaysia",
+  "zh": "云南（金平猛喇580 m）、印度尼西亚、马来西亚"
+ },
+ "isTypeSpecies": false,
+ "latin": "Procapritermes minutus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/procapritermes-minutus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Malaysia: Sarawak",
+ "version": "2026.11.21",
+ "zh": "小前扭白蚁"
+}

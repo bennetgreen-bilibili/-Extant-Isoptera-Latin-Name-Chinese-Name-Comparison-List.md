@@ -1,0 +1,36 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/heterotermes-cardini.json",
+ "apiVersion": "1",
+ "authorship": "Snyder, 1924",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "heterotermitidae",
+   "latin": "Heterotermitidae",
+   "zh": "异白蚁科"
+  },
+  "genus": {
+   "id": "heterotermes",
+   "latin": "Heterotermes",
+   "zh": "异白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "Caribbean, Puerto Rico, Guadeloupe, Bahamas, Panama, United States",
+  "zh": "加勒比、波多黎各、瓜德罗普、巴哈马、巴拿马、美国"
+ },
+ "isTypeSpecies": false,
+ "latin": "Heterotermes cardini",
+ "pageUrl": "https://termite-extant-isoptera.org/species/heterotermes-cardini/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Bahamas: Andros Island",
+ "version": "2026.11.21",
+ "zh": "卡丁异白蚁"
+}

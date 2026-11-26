@@ -1,0 +1,55 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/psammotermes-hybostoma.json",
+ "apiVersion": "1",
+ "authorship": "Desneux, 1902",
+ "classification": {
+  "clade": {
+   "id": "neoisoptera",
+   "latin": "Neoisoptera",
+   "zh": "新等翅类"
+  },
+  "family": {
+   "id": "psammotermitidae",
+   "latin": "Psammotermitidae",
+   "zh": "沙白蚁科"
+  },
+  "genus": {
+   "id": "psammotermes",
+   "latin": "Psammotermes",
+   "zh": "沙白蚁属"
+  },
+  "subfamily": null
+ },
+ "distribution": {
+  "en": "West Africa, Senegal to Northeast Africa, Algeria, Bahrain, Egypt, Eritrea, Ethiopia, Israel, Kuwait, Libya, Mauritania, Niger, Oman, Saudi Arabia, South Africa, Sudan, Yemen",
+  "zh": "西非、塞内加尔至东北非、阿尔及利亚、巴林、埃及、厄立特里亚、埃塞俄比亚、以色列、科威特、利比亚、毛里塔尼亚、尼日尔、阿曼、沙特阿拉伯、南非、苏丹、也门"
+ },
+ "isTypeSpecies": true,
+ "latin": "Psammotermes hybostoma",
+ "pageUrl": "https://termite-extant-isoptera.org/species/psammotermes-hybostoma/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [
+  {
+   "asPublished": "Termes fuscofemoralis Sjöstedt, 1904: 62-63",
+   "authorship": "Sjöstedt, 1904",
+   "localityAlignment": "matched",
+   "name": "Termes fuscofemoralis",
+   "note": "",
+   "reference": "62-63",
+   "typeLocality": "(country unknown): \"Rotes Meer\""
+  },
+  {
+   "asPublished": "Psammotermes assuanensis Sjöstedt, 1912: 3-5",
+   "authorship": "Sjöstedt, 1912",
+   "localityAlignment": "matched",
+   "name": "Psammotermes assuanensis",
+   "note": "",
+   "reference": "3-5",
+   "typeLocality": "Egypt: Aswân (Assuan)"
+  }
+ ],
+ "typeLocality": "Algeria: Biskra; Touggourt",
+ "version": "2026.11.21",
+ "zh": "弯嘴沙白蚁"
+}

@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/synhamitermes-labioangulatus.json",
+ "apiVersion": "1",
+ "authorship": "Thakur, 1989",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "synhamitermes",
+   "latin": "Synhamitermes",
+   "zh": "同钩白蚁属"
+  },
+  "subfamily": {
+   "id": "amitermitinae",
+   "latin": "Amitermitinae",
+   "zh": "弓白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "India",
+  "zh": "印度"
+ },
+ "isTypeSpecies": false,
+ "latin": "Synhamitermes labioangulatus",
+ "pageUrl": "https://termite-extant-isoptera.org/species/synhamitermes-labioangulatus/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "India: Gujarat: Valsad district: Kaprada: Kaprada forest near Govita village",
+ "version": "2026.11.21",
+ "zh": "角唇同钩白蚁"
+}

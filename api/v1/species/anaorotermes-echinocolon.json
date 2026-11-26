@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/anaorotermes-echinocolon.json",
+ "apiVersion": "1",
+ "authorship": "Sands, 1972",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "anaorotermes",
+   "latin": "Anaorotermes",
+   "zh": "无戟白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Nigeria",
+  "zh": "尼日利亚"
+ },
+ "isTypeSpecies": true,
+ "latin": "Anaorotermes echinocolon",
+ "pageUrl": "https://termite-extant-isoptera.org/species/anaorotermes-echinocolon/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Nigeria: 30 miles from Lokoja on Okene Road",
+ "version": "2026.11.21",
+ "zh": "海胆肠无戟白蚁"
+}

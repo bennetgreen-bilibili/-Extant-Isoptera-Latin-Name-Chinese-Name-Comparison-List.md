@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/chasitermes-pax.json",
+ "apiVersion": "1",
+ "authorship": "Scheffrahn & Carrijo, 2023",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "chasitermes",
+   "latin": "Chasitermes",
+   "zh": "蔡斯白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Trinidad and Tobago",
+  "zh": "特立尼达和多巴哥"
+ },
+ "isTypeSpecies": true,
+ "latin": "Chasitermes pax",
+ "pageUrl": "https://termite-extant-isoptera.org/species/chasitermes-pax/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Trinidad and Tobago: Tunapuna [ 10.667N 61.396W ]",
+ "version": "2026.11.21",
+ "zh": "和平蔡斯白蚁"
+}

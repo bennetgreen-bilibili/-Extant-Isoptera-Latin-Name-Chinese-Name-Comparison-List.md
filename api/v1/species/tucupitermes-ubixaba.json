@@ -1,0 +1,61 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/tucupitermes-ubixaba.json",
+ "apiVersion": "1",
+ "authorityChecks": [
+  {
+   "accepted": null,
+   "accepted_url": null,
+   "confidence": 99,
+   "family_latin": "Termitidae",
+   "family_zh": "白蚁科",
+   "group": "gap",
+   "kind": "higherrank",
+   "latin": "Tucupitermes ubixaba",
+   "match": "HIGHERRANK",
+   "note": "",
+   "rank": "种",
+   "slug": "tucupitermes-ubixaba",
+   "source": "gbif",
+   "theirs": "Animalia",
+   "url": null,
+   "verified": false,
+   "zh": "乌比沙巴黄汁白蚁"
+  }
+ ],
+ "authorship": "Almeida-Azevedo, Acioli & Azevedo, 2025",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "tucupitermes",
+   "latin": "Tucupitermes",
+   "zh": "黄汁白蚁属"
+  },
+  "subfamily": {
+   "id": "apicotermitinae",
+   "latin": "Apicotermitinae",
+   "zh": "尖白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "Brazil",
+  "zh": "巴西"
+ },
+ "isTypeSpecies": true,
+ "latin": "Tucupitermes ubixaba",
+ "pageUrl": "https://termite-extant-isoptera.org/species/tucupitermes-ubixaba/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "Brasil: Pará: Santarém [ 2.43917S 54.705W ]",
+ "version": "2026.11.21",
+ "zh": "乌比沙巴黄汁白蚁"
+}

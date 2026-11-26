@@ -1,0 +1,40 @@
+{
+ "apiUrl": "https://termite-extant-isoptera.org/api/v1/species/sinocapritermes-songtaoensis.json",
+ "apiVersion": "1",
+ "authorship": "He, 1993",
+ "classification": {
+  "clade": {
+   "id": "geoisoptera",
+   "latin": "Geoisoptera",
+   "zh": "土栖等翅类"
+  },
+  "family": {
+   "id": "termitidae",
+   "latin": "Termitidae",
+   "zh": "白蚁科"
+  },
+  "genus": {
+   "id": "sinocapritermes",
+   "latin": "Sinocapritermes",
+   "zh": "华扭白蚁属"
+  },
+  "subfamily": {
+   "id": "mirocapritermitinae",
+   "latin": "Mirocapritermitinae",
+   "zh": "瘤白蚁亚科"
+  }
+ },
+ "distribution": {
+  "en": "China, Guizhou",
+  "zh": "中国、贵州"
+ },
+ "isTypeSpecies": false,
+ "latin": "Sinocapritermes songtaoensis",
+ "pageUrl": "https://termite-extant-isoptera.org/species/sinocapritermes-songtaoensis/",
+ "rank": "species",
+ "subspecies": [],
+ "synonyms": [],
+ "typeLocality": "China: Guizhou Province: Songtao County",
+ "version": "2026.11.21",
+ "zh": "松桃华扭白蚁"
+}
