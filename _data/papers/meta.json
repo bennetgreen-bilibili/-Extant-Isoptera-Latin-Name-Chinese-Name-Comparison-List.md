@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T13:06:38Z",
+ "generated": "2026-11-28T12:21:32Z",
  "source": "OpenAlex + Crossref",
  "api": "https://api.openalex.org/works",
  "query": "title_and_abstract.search:\"<genus>\" + 白蚁语境限定（title_and_abstract.search:termite|isoptera|…）",
